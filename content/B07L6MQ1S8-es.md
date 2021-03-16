@@ -5,7 +5,7 @@ date: 2020-01-31 03:43:07
 image: 'https://m.media-amazon.com/images/I/4117SGH9LiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6MQ1S8-es Skagen Reloj Analógico para Unisex Adultos de Cuarzo con...'
 sku: 'B07L6MQ1S8-es'
 tags: [  ]

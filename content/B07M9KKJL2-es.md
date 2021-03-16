@@ -5,7 +5,7 @@ date: 2020-03-15 18:51:20
 image: 'https://m.media-amazon.com/images/I/41-PNsxszsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9KKJL2-es Senston Anti Slip Sobregrip Racket Overgrip Antideslizante...'
 sku: 'B07M9KKJL2-es'
 tags: [  ]

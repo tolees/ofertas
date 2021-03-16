@@ -5,7 +5,7 @@ date: 2020-01-07 13:03:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KqLKFQCYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0187KVVKC-es Vizaro - SÁBANA BAJERA para Colchón de Capazo de Carrito...'
 sku: 'B0187KVVKC-es'
 tags: [  ]

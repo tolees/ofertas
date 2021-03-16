@@ -5,7 +5,7 @@ date: 2020-05-22 13:23:23
 image: 'https://m.media-amazon.com/images/I/31fstLg9fJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YF4TQLQ-es BRA PRIOR - Cacerola baja con tapa de cristal y asas de...'
 sku: 'B00YF4TQLQ-es'
 tags: [  ]

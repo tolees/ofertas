@@ -5,7 +5,7 @@ date: 2020-02-10 01:31:08
 image: 'https://m.media-amazon.com/images/I/51GIuljjcZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9K4PSH-es Set 2 sartenes Ø20+26cm aluminio prensado aptas inducción...'
 sku: 'B07T9K4PSH-es'
 tags: [  ]

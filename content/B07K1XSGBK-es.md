@@ -5,7 +5,7 @@ date: 2020-06-28 14:24:07
 image: 'https://m.media-amazon.com/images/I/51g0h4KcOFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1XSGBK-es CÚRCUMA + MATCHA Té Verde En Polvo - MEJORES MEZCLAS DE...'
 sku: 'B07K1XSGBK-es'
 tags: [  ]

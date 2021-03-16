@@ -5,7 +5,7 @@ date: 2020-04-22 12:08:15
 image: 'https://m.media-amazon.com/images/I/41aw6hf7nlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P48Q5KC-es Skechers Men s METCO Classic Boots Brown Brown Leather...'
 sku: 'B07P48Q5KC-es'
 tags: [  ]

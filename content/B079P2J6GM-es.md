@@ -5,7 +5,7 @@ date: 2020-10-06 15:37:37
 image: 'https://m.media-amazon.com/images/I/41QtgHYdVdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079P2J6GM-es Fitbit Ionic Adidas Edition El Smartwatch Deportivo Azul...'
 sku: 'B079P2J6GM-es'
 tags: [  ]

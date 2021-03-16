@@ -5,7 +5,7 @@ date: 2020-04-17 00:40:23
 image: 'https://m.media-amazon.com/images/I/51W95Du3ABL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082V9WPKF-es LTPAG Luz de Video LED Luz de Panel de Cámara Regulable...'
 sku: 'B082V9WPKF-es'
 tags: [  ]

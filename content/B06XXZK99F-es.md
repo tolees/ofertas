@@ -5,7 +5,7 @@ date: 2020-08-15 16:49:30
 image: 'https://m.media-amazon.com/images/I/31O7Lu0waHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXZK99F-es NANAMI Fast Wireless Charging Stand M220'
 sku: 'B06XXZK99F-es'
 tags: [  ]

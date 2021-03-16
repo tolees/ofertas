@@ -5,7 +5,7 @@ date: 2020-07-17 16:22:30
 image: 'https://m.media-amazon.com/images/I/41XprlYC29L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFNLLHV-es Armani Exchange Smartwatch Pantalla táctil para Hombre de...'
 sku: 'B07VFNLLHV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-04 17:50:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BXi2PBubL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NALDZLH-es Vans Classic Slip-on Platform Zapatillas sin Cordones para...'
 sku: 'B01NALDZLH-es'
 tags: [  ]

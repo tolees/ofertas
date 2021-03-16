@@ -5,7 +5,7 @@ date: 2020-05-14 12:02:00
 image: 'https://m.media-amazon.com/images/I/41QpXW8kDBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E6RHMEO-es Brabantia Sort & Go Cubo de Basura 16 L Plástico Blanco 27...'
 sku: 'B01E6RHMEO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-12 19:55:34
 image: 'https://m.media-amazon.com/images/I/41wwKYwAewL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAHB557-es 1 pieza Ungfu Mall de tambor de encendido con interruptor...'
 sku: 'B01NAHB557-es'
 tags: [  ]

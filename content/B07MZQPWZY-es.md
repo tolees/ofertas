@@ -5,7 +5,7 @@ date: 2020-01-27 11:39:45
 image: 'https://m.media-amazon.com/images/I/31CBW7ejrhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQPWZY-es Pepe Jeans London Porter Boot Botas Desert para Hombre Tan...'
 sku: 'B07MZQPWZY-es'
 tags: [  ]

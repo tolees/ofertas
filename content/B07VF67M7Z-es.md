@@ -5,7 +5,7 @@ date: 2020-01-04 07:35:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61MHJsRJguL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VF67M7Z-es Goliath- Juego de Mesa No Panic Multicolor 70366'
 sku: 'B07VF67M7Z-es'
 tags: [  ]

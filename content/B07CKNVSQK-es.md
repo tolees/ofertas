@@ -5,7 +5,7 @@ date: 2020-05-29 15:02:51
 image: 'https://m.media-amazon.com/images/I/31l2cWEFVqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKNVSQK-es Miracle Baby Mantas de Muselina Suave 70% Bambú 30%...'
 sku: 'B07CKNVSQK-es'
 tags: [  ]

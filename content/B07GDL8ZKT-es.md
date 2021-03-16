@@ -5,7 +5,7 @@ date: 2020-01-21 11:49:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41olCRvkxRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDL8ZKT-es DANISH ENDURANCE Bóxers para Hombres Pack de 3 Negro Small'
 sku: 'B07GDL8ZKT-es'
 tags: [  ]

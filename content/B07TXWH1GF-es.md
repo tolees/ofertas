@@ -5,7 +5,7 @@ date: 2020-03-16 02:43:34
 image: 'https://m.media-amazon.com/images/I/41rSdf2jYjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXWH1GF-es Skechers Boys ELITE FLEX HYDROX Trainers Brown Chocolate...'
 sku: 'B07TXWH1GF-es'
 tags: [  ]

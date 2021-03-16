@@ -5,7 +5,7 @@ date: 2020-09-25 20:48:02
 image: 'https://m.media-amazon.com/images/I/41gw5Rd1oaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S858WNB-es adidas Crop Tank Tank Top Mujer Ice Yellow 42'
 sku: 'B07S858WNB-es'
 tags: [  ]

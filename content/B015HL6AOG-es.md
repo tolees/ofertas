@@ -5,7 +5,7 @@ date: 2020-03-26 08:27:49
 image: 'https://m.media-amazon.com/images/I/41t1r5CrQ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015HL6AOG-es New Balance 500 Zapatillas para Hombre Marrón Brown/Grey...'
 sku: 'B015HL6AOG-es'
 tags: [  ]

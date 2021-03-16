@@ -5,7 +5,7 @@ date: 2020-07-13 16:53:46
 image: 'https://m.media-amazon.com/images/I/31S67JZNY3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GTGLQ-es Clarks Un Rio Lace Zapatillas Gris Dark Grey Dark Grey 36 EU'
 sku: 'B07N1GTGLQ-es'
 tags: [  ]

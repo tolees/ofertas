@@ -5,7 +5,7 @@ date: 2020-06-29 21:54:10
 image: 'https://m.media-amazon.com/images/I/51kX9n5NtbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCNJVGS-es Maletín para portátil 15 6" Pepe Jeans Raw'
 sku: 'B07NCNJVGS-es'
 tags: [  ]

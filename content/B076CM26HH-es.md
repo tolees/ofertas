@@ -5,7 +5,7 @@ date: 2020-05-24 08:36:29
 image: 'https://m.media-amazon.com/images/I/31iBJvE3B6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CM26HH-es Britax Römer Silla de coche 9 meses - 12 años 9 - 36 kg...'
 sku: 'B076CM26HH-es'
 tags: [  ]

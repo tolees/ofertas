@@ -5,7 +5,7 @@ date: 2020-07-12 01:57:10
 image: 'https://m.media-amazon.com/images/I/41ySTe9JMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ5D7NR-es Asics Gel-Sonoma 4 Zapatillas de Running para Mujer Gris...'
 sku: 'B07QZ5D7NR-es'
 tags: [  ]

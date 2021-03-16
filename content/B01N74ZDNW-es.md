@@ -5,7 +5,7 @@ date: 2020-09-16 16:56:58
 image: 'https://m.media-amazon.com/images/I/41sM24spldL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N74ZDNW-es Deyard Kit de Accesorios para GoPro Hero 7 Sólo negro Hero...'
 sku: 'B01N74ZDNW-es'
 tags: [  ]

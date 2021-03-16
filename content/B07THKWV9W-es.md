@@ -5,7 +5,7 @@ date: 2020-07-25 07:05:57
 image: 'https://m.media-amazon.com/images/I/31mmmqwNZUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THKWV9W-es find. Arthur HS01 Botas Clasicas Negro Smart Black Smart...'
 sku: 'B07THKWV9W-es'
 tags: [  ]

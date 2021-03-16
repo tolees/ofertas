@@ -5,7 +5,7 @@ date: 2020-03-01 14:31:17
 image: 'https://m.media-amazon.com/images/I/51Q3kVjCsPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W5FT2BQ-es New Era Fashion ESS 940 Gorra Mujer Rosa/Blanco Talla Única'
 sku: 'B00W5FT2BQ-es'
 tags: [  ]

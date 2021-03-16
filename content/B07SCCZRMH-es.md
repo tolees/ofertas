@@ -5,7 +5,7 @@ date: 2020-07-10 12:46:43
 image: 'https://m.media-amazon.com/images/I/41U5dpJogqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCCZRMH-es HUGO Arti/hesten193 Traje Negro Charcoal 10 46 Talla del...'
 sku: 'B07SCCZRMH-es'
 tags: [  ]

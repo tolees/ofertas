@@ -5,7 +5,7 @@ date: 2020-06-01 17:16:55
 image: 'https://m.media-amazon.com/images/I/41z4Yosg+tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J52NFDL-es Cincobebé Sistema Antiescape Evita que el Niño Saque los...'
 sku: 'B07J52NFDL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 23:31:09
 image: 'https://m.media-amazon.com/images/I/41C5nNPqTJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDT3DLQ-es Pepe Jeans Verona W Set Zapatillas para Mujer Blanco White...'
 sku: 'B07VDT3DLQ-es'
 tags: [  ]

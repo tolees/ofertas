@@ -5,7 +5,7 @@ date: 2020-06-10 15:47:02
 image: 'https://m.media-amazon.com/images/I/31MK-2nTlJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811HRP1Y-es Vicloon Mini Paraguas del Sol 6 Varillas Paraguas de Viaje...'
 sku: 'B0811HRP1Y-es'
 tags: [  ]

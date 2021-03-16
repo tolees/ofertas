@@ -5,7 +5,7 @@ date: 2020-01-25 09:54:17
 image: 'https://m.media-amazon.com/images/I/41p-bk3XpyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPZ3J9H-es Flybiz Receptor Transmisor Bluetooth 5.0 2 en 1 Adaptador...'
 sku: 'B07QPZ3J9H-es'
 tags: [  ]

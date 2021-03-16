@@ -5,7 +5,7 @@ date: 2020-08-21 04:50:59
 image: 'https://m.media-amazon.com/images/I/51r6EQrY1JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2SM2F1-es 15M LED Luz de tira flexible LED Neon Flex Tube 120led...'
 sku: 'B07Q2SM2F1-es'
 tags: [  ]

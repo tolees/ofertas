@@ -5,7 +5,7 @@ date: 2020-08-17 18:25:42
 image: 'https://m.media-amazon.com/images/I/314aB4tMIML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y4XUJKU-es Lacoste Ph4014 Polo para Hombre Azul Navy Blue X-Large...'
 sku: 'B00Y4XUJKU-es'
 tags: [  ]

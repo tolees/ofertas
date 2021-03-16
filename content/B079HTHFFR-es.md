@@ -5,7 +5,7 @@ date: 2020-09-23 14:30:29
 image: 'https://m.media-amazon.com/images/I/51DcQjEyciL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079HTHFFR-es 5W Gu10 Rgbw Led Colores Cambiantes Bombilla 6000K Blanco...'
 sku: 'B079HTHFFR-es'
 tags: [  ]

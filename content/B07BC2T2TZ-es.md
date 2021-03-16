@@ -5,7 +5,7 @@ date: 2020-10-12 16:56:34
 image: 'https://m.media-amazon.com/images/I/41rrWVVsrzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BC2T2TZ-es Bourjois Fard Joues Duo Blush Colorete Tono 2 Roméo et...'
 sku: 'B07BC2T2TZ-es'
 tags: [  ]

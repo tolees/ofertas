@@ -5,7 +5,7 @@ date: 2020-01-20 16:35:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bzA8hT5RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FJZXKTY-es hummel Nile Canvas Low Zapatillas Unisex Adulto Verde...'
 sku: 'B07FJZXKTY-es'
 tags: [  ]

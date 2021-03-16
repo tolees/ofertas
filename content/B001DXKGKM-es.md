@@ -5,7 +5,7 @@ date: 2020-02-22 15:07:32
 image: 'https://m.media-amazon.com/images/I/41Wib+cdRSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DXKGKM-es HP 304 - Cartucho de tóner Original HP 304A Amarillo para...'
 sku: 'B001DXKGKM-es'
 tags: [  ]

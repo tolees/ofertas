@@ -5,7 +5,7 @@ date: 2020-02-12 12:03:17
 image: 'https://m.media-amazon.com/images/I/41mWd+SCpnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NNWG56-es Lenovo Ideapad 520-15IKB - Ordenador portátil de 15.6"...'
 sku: 'B075NNWG56-es'
 tags: [  ]

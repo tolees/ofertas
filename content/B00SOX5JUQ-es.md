@@ -5,7 +5,7 @@ date: 2020-08-17 05:40:36
 image: 'https://m.media-amazon.com/images/I/51ZiX6yv5UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SOX5JUQ-es Guess W0289L2 - Reloj de Pulsera para Mujer Color...'
 sku: 'B00SOX5JUQ-es'
 tags: [  ]

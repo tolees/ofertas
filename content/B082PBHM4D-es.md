@@ -5,7 +5,7 @@ date: 2020-03-28 12:35:32
 image: 'https://m.media-amazon.com/images/I/41nfBRw3dkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PBHM4D-es JACK & JONES Jacsolid Bso Trunks 5 Pack Calzoncillos Black...'
 sku: 'B082PBHM4D-es'
 tags: [  ]

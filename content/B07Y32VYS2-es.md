@@ -5,7 +5,7 @@ date: 2020-03-22 17:40:13
 image: 'https://m.media-amazon.com/images/I/51-CGVXRw+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y32VYS2-es YIKEF Globos de Confeti de Oro Rosa Globo de Fiesta 30.5...'
 sku: 'B07Y32VYS2-es'
 tags: [  ]

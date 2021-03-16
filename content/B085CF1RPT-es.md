@@ -5,7 +5,7 @@ date: 2020-09-25 10:45:46
 image: 'https://m.media-amazon.com/images/I/41dh1v03xlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CF1RPT-es FMPC Carcasa con Cuerda Samsung Galaxy A20S Cristal TPU...'
 sku: 'B085CF1RPT-es'
 tags: [  ]

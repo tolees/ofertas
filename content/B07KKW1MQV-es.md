@@ -5,7 +5,7 @@ date: 2020-01-10 11:34:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4153j8x0kTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKW1MQV-es adidas D2m tee 3s T-Shirt Hombre Black XL'
 sku: 'B07KKW1MQV-es'
 tags: [  ]

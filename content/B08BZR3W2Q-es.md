@@ -5,7 +5,7 @@ date: 2020-10-07 10:59:41
 image: 'https://m.media-amazon.com/images/I/41cw9Px6AzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZR3W2Q-es KERUN Funda para Samsung Galaxy A21S Carcasa [Ranuras para...'
 sku: 'B08BZR3W2Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-10 07:27:10
 image: 'https://m.media-amazon.com/images/I/41Agz3AFopL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHL5KHK-es Puma Men s MCFC Stadium INT Jacket Track Black-Georgia...'
 sku: 'B07QHL5KHK-es'
 tags: [  ]

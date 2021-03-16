@@ -5,7 +5,7 @@ date: 2020-08-13 17:18:52
 image: 'https://m.media-amazon.com/images/I/41QAIflgiYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FGJ5S5W-es Max Power Digital Funda para móvil Xiaomi Mi A2 5.99" con...'
 sku: 'B08FGJ5S5W-es'
 tags: [  ]

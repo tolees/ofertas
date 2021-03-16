@@ -5,7 +5,7 @@ date: 2020-02-27 08:32:02
 image: 'https://m.media-amazon.com/images/I/419hBKHq0UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VYPNTJ-es 2020 Auriculares inalámbricos Bluetooth actualizados con...'
 sku: 'B082VYPNTJ-es'
 tags: [  ]

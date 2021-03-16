@@ -5,7 +5,7 @@ date: 2020-02-28 15:02:55
 image: 'https://m.media-amazon.com/images/I/51STXWntXiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J21SQZO-es Energy Sport CAM Play Full HD 1080p 30fps 5MP Accesorios...'
 sku: 'B00J21SQZO-es'
 tags: [  ]

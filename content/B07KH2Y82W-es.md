@@ -5,7 +5,7 @@ date: 2020-02-23 08:08:12
 image: 'https://m.media-amazon.com/images/I/318skubWoLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KH2Y82W-es Under Armour EU Cotton Fleece Jogger Pantalones Niños...'
 sku: 'B07KH2Y82W-es'
 tags: [  ]

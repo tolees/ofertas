@@ -5,7 +5,7 @@ date: 2020-08-09 18:23:31
 image: 'https://m.media-amazon.com/images/I/41Mvf4423zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MPNNN6-es Buff Trucker Cap Brown One size womens'
 sku: 'B082MPNNN6-es'
 tags: [  ]

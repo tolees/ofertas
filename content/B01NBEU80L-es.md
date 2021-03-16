@@ -5,7 +5,7 @@ date: 2020-04-15 00:52:09
 image: 'https://m.media-amazon.com/images/I/41bFZhX-4+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBEU80L-es Ecotools Brochas para Definir e Iluminar El Rostro 21 g'
 sku: 'B01NBEU80L-es'
 tags: [  ]

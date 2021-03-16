@@ -5,7 +5,7 @@ date: 2020-05-29 14:35:01
 image: 'https://m.media-amazon.com/images/I/41thKAuFK2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HMVNV7I-es Benro GoPlus Travel S1 Alum 4 Sect Twist'
 sku: 'B01HMVNV7I-es'
 tags: [  ]

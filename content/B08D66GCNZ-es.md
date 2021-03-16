@@ -5,7 +5,7 @@ date: 2020-08-28 06:14:59
 image: 'https://m.media-amazon.com/images/I/51k2HmiyGcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D66GCNZ-es Shayson Teclado Electrónico Piano 37 Teclas Teclado de...'
 sku: 'B08D66GCNZ-es'
 tags: [  ]

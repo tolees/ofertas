@@ -5,7 +5,7 @@ date: 2020-10-07 15:24:01
 image: 'https://m.media-amazon.com/images/I/41yBhsoRNlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSC4ZCX-es Skechers GO Run Fast Zapatillas para Mujer Azul Azul Azul...'
 sku: 'B07VSC4ZCX-es'
 tags: [  ]

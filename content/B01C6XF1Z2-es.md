@@ -5,7 +5,7 @@ date: 2020-08-23 21:11:30
 image: 'https://m.media-amazon.com/images/I/41y5KWri9kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C6XF1Z2-es Arena Fundamentals Logo Bañador Hombre Rojo/Blanco S'
 sku: 'B01C6XF1Z2-es'
 tags: [  ]

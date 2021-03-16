@@ -5,7 +5,7 @@ date: 2020-08-30 19:40:39
 image: 'https://m.media-amazon.com/images/I/41N403j7m6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9KR1GY-es Exerz Huchas Globo Diámetro 16 CM/Caja De Dinero Alcancía...'
 sku: 'B07R9KR1GY-es'
 tags: [  ]

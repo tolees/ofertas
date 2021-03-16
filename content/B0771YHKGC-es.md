@@ -5,7 +5,7 @@ date: 2020-02-16 16:26:52
 image: 'https://m.media-amazon.com/images/I/41iZmkaq2eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771YHKGC-es Dainese solarys Aire Motocicleta Botas Negro 45 Euro/11 5...'
 sku: 'B0771YHKGC-es'
 tags: [  ]

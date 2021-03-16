@@ -5,7 +5,7 @@ date: 2020-04-04 19:07:14
 image: 'https://m.media-amazon.com/images/I/41NfRAa9dlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9W5EA0-es Trust Reno - Auriculares con micrófono para PC Color Negro'
 sku: 'B01N9W5EA0-es'
 tags: [  ]

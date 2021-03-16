@@ -5,7 +5,7 @@ date: 2020-05-30 17:02:55
 image: 'https://m.media-amazon.com/images/I/41kn+FSXzVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DDTY4Y-es Sacaleches Sacaleches Manual Extractor de leche manual...'
 sku: 'B083DDTY4Y-es'
 tags: [  ]

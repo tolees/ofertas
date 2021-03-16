@@ -5,7 +5,7 @@ date: 2020-08-18 19:10:09
 image: 'https://m.media-amazon.com/images/I/31I-DlXFDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW76KHY-es GOLIATE Eros Anillo Vibrador de Lujo Para El Pene -...'
 sku: 'B01LW76KHY-es'
 tags: [  ]

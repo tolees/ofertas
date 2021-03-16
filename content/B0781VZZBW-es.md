@@ -5,7 +5,7 @@ date: 2020-07-06 17:56:04
 image: 'https://m.media-amazon.com/images/I/41eOWwc5uuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781VZZBW-es Razer Cynosa Chroma - Teclado Gaming con iluminación Razer...'
 sku: 'B0781VZZBW-es'
 tags: [  ]

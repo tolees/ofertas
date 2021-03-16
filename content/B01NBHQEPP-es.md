@@ -5,7 +5,7 @@ date: 2020-07-23 18:45:33
 image: 'https://m.media-amazon.com/images/I/510WOS0sKTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBHQEPP-es Insect.zum sumideros 0 5l - [Pack de 2]'
 sku: 'B01NBHQEPP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-26 16:43:55
 image: 'https://m.media-amazon.com/images/I/3105YCFPCHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GTTCJY0-es Kerbl Dolomit Tofana - Árbol de Pared para Gatos 168 x 75...'
 sku: 'B01GTTCJY0-es'
 tags: [  ]

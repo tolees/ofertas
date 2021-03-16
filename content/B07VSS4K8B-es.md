@@ -5,7 +5,7 @@ date: 2020-07-11 10:40:47
 image: 'https://m.media-amazon.com/images/I/41Zt+xcRLRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSS4K8B-es Funko- Pop Games: Apex Legends-Mirage Collectible Toy...'
 sku: 'B07VSS4K8B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-26 13:37:22
 image: 'https://m.media-amazon.com/images/I/41dLPcgBLyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK7X7X5-es AZDOME Cámara de Visión Trasera para Coche con 120° Ángulo...'
 sku: 'B07DK7X7X5-es'
 tags: [  ]

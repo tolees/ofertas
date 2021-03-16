@@ -5,7 +5,7 @@ date: 2020-01-21 13:49:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514LdvjnbRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQTKLR6-es Juguete alternativo de silicona médica para juegos de...'
 sku: 'B07WQTKLR6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-01 21:20:53
 image: 'http://images.amazon.com/images/P/B07CPK4T22.01._PI_SCMZZZZZZZ_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPK4T22-es Biokat s Diamond Care Fresh arena para gatos con fragancia...'
 sku: 'B07CPK4T22-es'
 tags: [  ]

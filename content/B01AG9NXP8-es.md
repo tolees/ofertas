@@ -5,7 +5,7 @@ date: 2020-05-08 19:11:36
 image: 'https://m.media-amazon.com/images/I/41XsVtuhvvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AG9NXP8-es ZTOP 2 Pack USB Tipo A Macho a PS/2 Hembra para Teclado...'
 sku: 'B01AG9NXP8-es'
 tags: [  ]

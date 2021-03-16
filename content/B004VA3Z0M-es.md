@@ -5,7 +5,7 @@ date: 2020-04-09 09:05:28
 image: 'https://m.media-amazon.com/images/I/41ObB8YGt+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004VA3Z0M-es Nike MD Runner 2 Zapatillas de Running Mujer Gris Barely...'
 sku: 'B004VA3Z0M-es'
 tags: [  ]

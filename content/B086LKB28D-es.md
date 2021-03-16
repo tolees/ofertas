@@ -5,7 +5,7 @@ date: 2020-04-14 09:02:07
 image: 'https://m.media-amazon.com/images/I/510emlDHedL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086LKB28D-es Fundas Amazon Kindle 2019 10ma Generación Flip Pintado...'
 sku: 'B086LKB28D-es'
 tags: [  ]

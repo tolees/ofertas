@@ -5,7 +5,7 @@ date: 2020-08-08 09:03:39
 image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008AW8V1A-es Lacoste L1230 Polo de Manga Corta para Hombre Negro Noir M...'
 sku: 'B008AW8V1A-es'
 tags: [  ]

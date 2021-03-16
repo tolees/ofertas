@@ -5,7 +5,7 @@ date: 2020-03-25 00:22:52
 image: 'https://m.media-amazon.com/images/I/41RACiPIeWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6UM3FM-es Fellowes Foam Fusion Plus Touch - Alfombrilla con...'
 sku: 'B01N6UM3FM-es'
 tags: [  ]

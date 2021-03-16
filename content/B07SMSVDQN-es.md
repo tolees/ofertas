@@ -5,7 +5,7 @@ date: 2020-02-24 20:56:47
 image: 'https://m.media-amazon.com/images/I/41yk6340tML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMSVDQN-es Nike Wmns Air Zoom Vomero 14 Zapatillas de Running para...'
 sku: 'B07SMSVDQN-es'
 tags: [  ]

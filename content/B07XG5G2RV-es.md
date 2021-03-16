@@ -5,7 +5,7 @@ date: 2020-06-19 18:31:57
 image: 'https://m.media-amazon.com/images/I/51rgDPKs30L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XG5G2RV-es Mesa Coche para Niños lenbest Mesa de Viaje para Niños...'
 sku: 'B07XG5G2RV-es'
 tags: [  ]

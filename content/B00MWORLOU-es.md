@@ -5,7 +5,7 @@ date: 2020-10-01 19:01:16
 image: 'https://m.media-amazon.com/images/I/41wQjaBGtSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MWORLOU-es Orient Reloj Analógico para Hombre de Automático con...'
 sku: 'B00MWORLOU-es'
 tags: [  ]

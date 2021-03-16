@@ -5,7 +5,7 @@ date: 2020-01-20 19:17:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5157BEqS51L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRY4GCM-es Salomon XA Pro 3D CSWP K Zapatillas de Deporte Unisex...'
 sku: 'B07BRY4GCM-es'
 tags: [  ]

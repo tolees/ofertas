@@ -5,7 +5,7 @@ date: 2020-02-09 14:20:04
 image: 'https://m.media-amazon.com/images/I/41P1RMf76QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW89VTL-es Valentino Rossi Vr46 Classic-Sol e Luna Hoodie Hombre Azul S'
 sku: 'B07NW89VTL-es'
 tags: [  ]

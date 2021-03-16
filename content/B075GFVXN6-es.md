@@ -5,7 +5,7 @@ date: 2020-02-08 08:56:16
 image: 'https://m.media-amazon.com/images/I/41f0VuACwXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GFVXN6-es Triumph True Shape Sensation W01 Sujetador Beige Smooth...'
 sku: 'B075GFVXN6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 13:42:49
 image: 'https://m.media-amazon.com/images/I/317ZZg-mWtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087N3QQYN-es Rowenta Essential VU4110F0 Ventilador de pie con 3...'
 sku: 'B087N3QQYN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-24 09:36:20
 image: 'https://m.media-amazon.com/images/I/316cbnvCPXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000PY1YHY-es Guerlain - Desodorante Spray Habit Rouge'
 sku: 'B000PY1YHY-es'
 tags: [  ]

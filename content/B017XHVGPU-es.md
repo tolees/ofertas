@@ -5,7 +5,7 @@ date: 2020-05-08 10:25:56
 image: 'https://m.media-amazon.com/images/I/41QC9xZkkYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017XHVGPU-es Levi s Circle Buckle Core Cinturón Mujer Marrón Brown 75...'
 sku: 'B017XHVGPU-es'
 tags: [  ]

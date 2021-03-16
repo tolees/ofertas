@@ -5,7 +5,7 @@ date: 2020-09-19 08:12:41
 image: 'https://m.media-amazon.com/images/I/31b9zI0stfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SPZ8LJ-es PUMA 655307 03 Capucha Hombre Negro Puma Black/Puma White M'
 sku: 'B077SPZ8LJ-es'
 tags: [  ]

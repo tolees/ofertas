@@ -5,7 +5,7 @@ date: 2020-06-12 09:56:41
 image: 'https://m.media-amazon.com/images/I/41hgQARFfhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4QQ55M-es Lámpara Secador de Uñas Winpok Lámpara LED Uñas Pantalla...'
 sku: 'B07V4QQ55M-es'
 tags: [  ]

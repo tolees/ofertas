@@ -5,7 +5,7 @@ date: 2020-05-24 07:37:46
 image: 'https://m.media-amazon.com/images/I/41ZZUJ65UFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN8RNMB-es Lenovo Legion Y910-17ISK - Ordenador portátil gaming de 17...'
 sku: 'B07MN8RNMB-es'
 tags: [  ]

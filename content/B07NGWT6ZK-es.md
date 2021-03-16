@@ -5,7 +5,7 @@ date: 2020-04-06 08:41:27
 image: 'https://m.media-amazon.com/images/I/41PoZjClrRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGWT6ZK-es Primigi Gore-Tex Pbz 43660 Botas para Bebés...'
 sku: 'B07NGWT6ZK-es'
 tags: [  ]

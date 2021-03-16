@@ -5,7 +5,7 @@ date: 2020-01-15 08:03:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41O6fh1I6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8HHM23-es Finocam Chic Morado Calendario de Pared 2020 Escribir Español'
 sku: 'B07T8HHM23-es'
 tags: [  ]

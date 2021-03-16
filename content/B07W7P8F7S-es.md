@@ -5,7 +5,7 @@ date: 2020-10-04 11:23:14
 image: 'https://m.media-amazon.com/images/I/41PE-9afOxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7P8F7S-es B Baosity 2 Pack Maleta Correa Mango Accesorio De Viaje...'
 sku: 'B07W7P8F7S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-20 13:50:44
 image: 'https://m.media-amazon.com/images/I/41xdTf27--L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XNQQXDD-es Axiom Verge: Multiverse Edition'
 sku: 'B06XNQQXDD-es'
 tags: [  ]

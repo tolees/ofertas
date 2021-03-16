@@ -5,7 +5,7 @@ date: 2020-02-28 12:40:55
 image: 'https://m.media-amazon.com/images/I/51BR8Nch-+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSM97LT-es Hengbo Sartenes para Raclette 4Pcs'
 sku: 'B07PSM97LT-es'
 tags: [  ]

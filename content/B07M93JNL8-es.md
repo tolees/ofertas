@@ -5,7 +5,7 @@ date: 2020-10-04 07:42:28
 image: 'https://m.media-amazon.com/images/I/41gcjz1XCbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M93JNL8-es NIVEA MEN Gel Hidratante Rostro y Barba Corta 1 x 50 ml...'
 sku: 'B07M93JNL8-es'
 tags: [  ]

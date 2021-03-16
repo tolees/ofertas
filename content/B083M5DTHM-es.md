@@ -5,7 +5,7 @@ date: 2020-07-27 18:45:50
 image: 'https://m.media-amazon.com/images/I/41FBJgkjBIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083M5DTHM-es szlsl88 Esterilla de Yoga Grande y Gruesa para Ejercicios...'
 sku: 'B083M5DTHM-es'
 tags: [  ]

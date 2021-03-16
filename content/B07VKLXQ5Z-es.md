@@ -5,7 +5,7 @@ date: 2020-08-11 21:10:51
 image: 'https://m.media-amazon.com/images/I/41uOMHbaF6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKLXQ5Z-es Festnight Mesa para TV Mueble TV Salón Mesa Televisión con...'
 sku: 'B07VKLXQ5Z-es'
 tags: [  ]

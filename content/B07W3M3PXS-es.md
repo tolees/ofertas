@@ -5,7 +5,7 @@ date: 2020-06-21 12:56:55
 image: 'https://m.media-amazon.com/images/I/41FsgKfnxxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W3M3PXS-es Cámara vigilancia bebe Vigilabebés Inalambrico con cámara...'
 sku: 'B07W3M3PXS-es'
 tags: [  ]

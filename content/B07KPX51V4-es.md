@@ -5,7 +5,7 @@ date: 2020-01-22 01:35:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NJOUqMarL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPX51V4-es Fantasyworld SJ60 Impermeable 2.0" LCD 4K Ultra HD 1080P...'
 sku: 'B07KPX51V4-es'
 tags: [  ]

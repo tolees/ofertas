@@ -5,7 +5,7 @@ date: 2020-10-05 11:34:17
 image: 'https://m.media-amazon.com/images/I/41AqOeIeSPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCTGT8R-es Colmanda Juguete Mágico de Hombre Wooden Man Daruma Stage...'
 sku: 'B07ZCTGT8R-es'
 tags: [  ]

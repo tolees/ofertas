@@ -5,7 +5,7 @@ date: 2020-04-23 11:03:32
 image: 'https://m.media-amazon.com/images/I/41-tkZIl5nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZF8FSK-es [1-Pack]para Samsung Galaxy S9 Protector de Pantalla...'
 sku: 'B07GZF8FSK-es'
 tags: [  ]

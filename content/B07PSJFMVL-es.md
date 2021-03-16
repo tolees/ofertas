@@ -5,7 +5,7 @@ date: 2020-03-03 12:08:49
 image: 'https://m.media-amazon.com/images/I/61zlDGehZVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJFMVL-es Kipling Cindy Cartera para Mujer Multicolor Navy Stick...'
 sku: 'B07PSJFMVL-es'
 tags: [  ]

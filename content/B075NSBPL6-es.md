@@ -5,7 +5,7 @@ date: 2020-01-10 17:16:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31q5bE3XmlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NSBPL6-es Trangoworld Trx2 Stretch Pro Pullover Hombre Naranja...'
 sku: 'B075NSBPL6-es'
 tags: [  ]

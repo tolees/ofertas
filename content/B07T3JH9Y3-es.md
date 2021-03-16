@@ -5,7 +5,7 @@ date: 2020-04-06 18:03:43
 image: 'https://m.media-amazon.com/images/I/51Gx1fBaIYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3JH9Y3-es BESTEK Inversor de Corriente 12V a 220V Inversor Onda...'
 sku: 'B07T3JH9Y3-es'
 tags: [  ]

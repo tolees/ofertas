@@ -5,7 +5,7 @@ date: 2020-02-24 20:49:29
 image: 'https://m.media-amazon.com/images/I/41pl6hnFdxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHTMYBB-es Orient Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07BHTMYBB-es'
 tags: [  ]

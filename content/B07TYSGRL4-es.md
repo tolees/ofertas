@@ -5,7 +5,7 @@ date: 2020-05-10 10:40:27
 image: 'https://m.media-amazon.com/images/I/41hWkGGiGzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYSGRL4-es Hd 1080p HDMI VGA Adaptador Convertidor Hembra Cable de...'
 sku: 'B07TYSGRL4-es'
 tags: [  ]

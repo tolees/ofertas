@@ -5,7 +5,7 @@ date: 2020-08-20 19:44:02
 image: 'https://m.media-amazon.com/images/I/41NWvODCrOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002JCSV8U-es Nikon AF-S 70-200mm F/2.8 G ED VRII - Objetivo con montura...'
 sku: 'B002JCSV8U-es'
 tags: [  ]

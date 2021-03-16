@@ -5,7 +5,7 @@ date: 2020-02-28 21:28:36
 image: 'https://m.media-amazon.com/images/I/51fT0JT8A0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077WQSCQH-es Hatteker Tondeuse Cheveux Tondeuse Barbe Professionnelle...'
 sku: 'B077WQSCQH-es'
 tags: [  ]

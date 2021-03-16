@@ -5,7 +5,7 @@ date: 2020-05-25 09:46:13
 image: 'https://m.media-amazon.com/images/I/415Kh01AOwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV63BQG-es Occitop - Juego de 85 cuentas para manualidades collares...'
 sku: 'B07MV63BQG-es'
 tags: [  ]

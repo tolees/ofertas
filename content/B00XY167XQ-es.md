@@ -5,7 +5,7 @@ date: 2020-03-09 10:26:33
 image: 'https://m.media-amazon.com/images/I/41-1VdKS0YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XY167XQ-es Albal - Papel horno vegetal estructura anti-adherente...'
 sku: 'B00XY167XQ-es'
 tags: [  ]

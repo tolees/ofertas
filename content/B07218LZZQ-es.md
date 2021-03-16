@@ -5,7 +5,7 @@ date: 2020-09-20 18:39:08
 image: 'https://m.media-amazon.com/images/I/518GNSnqVpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07218LZZQ-es COMPRESSPORT Pro Racing Socks v3.0 Trail Calcetines para...'
 sku: 'B07218LZZQ-es'
 tags: [  ]

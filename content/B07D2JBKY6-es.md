@@ -5,7 +5,7 @@ date: 2020-06-16 11:55:58
 image: 'https://m.media-amazon.com/images/I/516wPCZF3wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2JBKY6-es Dim Generous Ed. Limitada Capacidad Sujetador básico Azul...'
 sku: 'B07D2JBKY6-es'
 tags: [  ]

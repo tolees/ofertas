@@ -5,7 +5,7 @@ date: 2020-03-21 09:31:38
 image: 'https://m.media-amazon.com/images/I/31QCRhVLmXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T9KZPNY-es NUK Botella de 360 ml de silicona Chupete Tamaño 2 M Drilling'
 sku: 'B00T9KZPNY-es'
 tags: [  ]

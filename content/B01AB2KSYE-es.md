@@ -5,7 +5,7 @@ date: 2020-02-20 19:05:23
 image: 'https://m.media-amazon.com/images/I/41pH04D+x5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AB2KSYE-es Einhell 4511396 Power X-Change - Batería de repuesto 18 V...'
 sku: 'B01AB2KSYE-es'
 tags: [  ]

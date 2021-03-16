@@ -5,7 +5,7 @@ date: 2020-07-28 16:58:06
 image: 'https://m.media-amazon.com/images/I/31tFvllsBHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KHSUQ62-es Revlon Ultra HD Gel Pintalabios Vineyard'
 sku: 'B01KHSUQ62-es'
 tags: [  ]

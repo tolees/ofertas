@@ -5,7 +5,7 @@ date: 2020-01-01 23:00:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wNboNT1mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXLCR3P-es Asics Gel-Bondi Zapatillas de Running para Hombre Negro...'
 sku: 'B07RXLCR3P-es'
 tags: [  ]

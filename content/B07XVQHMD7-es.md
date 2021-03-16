@@ -5,7 +5,7 @@ date: 2020-01-28 14:22:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nEyxb73PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVQHMD7-es Esprit 119ee1i004 suéter Blanco Off White 2 111 Small para...'
 sku: 'B07XVQHMD7-es'
 tags: [  ]

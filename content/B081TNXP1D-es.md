@@ -5,7 +5,7 @@ date: 2020-06-22 11:51:59
 image: 'https://m.media-amazon.com/images/I/41MvNkLTWaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TNXP1D-es adidas Tights Mallas Mujer Black 44'
 sku: 'B081TNXP1D-es'
 tags: [  ]

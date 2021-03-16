@@ -5,7 +5,7 @@ date: 2020-04-14 00:14:00
 image: 'https://m.media-amazon.com/images/I/41wVnKSgA1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PDIO3LG-es Mousehouse Gifts Caja de música Rosa para bebés Decorada...'
 sku: 'B00PDIO3LG-es'
 tags: [  ]

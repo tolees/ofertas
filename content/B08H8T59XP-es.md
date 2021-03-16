@@ -5,7 +5,7 @@ date: 2020-09-16 14:36:43
 image: 'https://m.media-amazon.com/images/I/41HgPdWK3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H8T59XP-es MoreCro 5 Piezas Botellas de Viaje Portátiles de 50ml con...'
 sku: 'B08H8T59XP-es'
 tags: [  ]

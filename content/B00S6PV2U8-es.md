@@ -5,7 +5,7 @@ date: 2020-02-05 11:20:01
 image: 'https://m.media-amazon.com/images/I/41M9Su4liqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S6PV2U8-es HOMCOM Trona para Bebé 3 en 1 Convertible en Silla...'
 sku: 'B00S6PV2U8-es'
 tags: [  ]

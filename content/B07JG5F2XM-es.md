@@ -5,7 +5,7 @@ date: 2020-02-01 17:46:16
 image: 'https://m.media-amazon.com/images/I/31NSSB7j+WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG5F2XM-es JACK & JONES Jfwtrent PU Anthracite 19 Noos Zapatillas...'
 sku: 'B07JG5F2XM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-03 05:10:36
 image: 'https://m.media-amazon.com/images/I/61HRQdhUYrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHFQWD2-es Pegatinas de Alabanza 70 Hojas Estudiante Alabanza...'
 sku: 'B07WHFQWD2-es'
 tags: [  ]

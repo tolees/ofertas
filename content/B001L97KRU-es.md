@@ -5,7 +5,7 @@ date: 2020-07-20 15:15:17
 image: 'https://m.media-amazon.com/images/I/31XpLcVYXAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001L97KRU-es Babaria - Aloe Vera Balsamo Reparador 250 ml'
 sku: 'B001L97KRU-es'
 tags: [  ]

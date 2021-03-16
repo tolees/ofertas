@@ -5,7 +5,7 @@ date: 2020-03-01 09:50:05
 image: 'https://m.media-amazon.com/images/I/31GmaNZCx4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJPDZ2D-es FITTOO Mallas Leggings Mujer Yoga de Alta Cintura...'
 sku: 'B07DJPDZ2D-es'
 tags: [  ]

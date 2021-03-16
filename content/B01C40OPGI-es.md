@@ -5,7 +5,7 @@ date: 2020-05-01 20:18:45
 image: 'https://m.media-amazon.com/images/I/31fPn-vQyPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C40OPGI-es Rowenta Air Force Extreme RH8828WO - Aspirador sin cable y...'
 sku: 'B01C40OPGI-es'
 tags: [  ]

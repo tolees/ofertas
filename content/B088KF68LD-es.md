@@ -5,7 +5,7 @@ date: 2020-07-22 09:32:54
 image: 'https://m.media-amazon.com/images/I/61NViMD9VLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088KF68LD-es Mapa Mundi Rascar Regalos Originales - Regalos Curiosos...'
 sku: 'B088KF68LD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 08:49:52
 image: 'https://m.media-amazon.com/images/I/41yz+1QdbIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8R2KQN-es MTNG Attitude 69574 Zapatillas para Mujer Blanco Canvas3...'
 sku: 'B07M8R2KQN-es'
 tags: [  ]

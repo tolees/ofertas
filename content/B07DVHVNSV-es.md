@@ -5,7 +5,7 @@ date: 2020-01-02 18:11:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Id5wSGwbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVHVNSV-es New Balance M1400V6 Zapatillas de Running para Hombre...'
 sku: 'B07DVHVNSV-es'
 tags: [  ]

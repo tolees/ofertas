@@ -5,7 +5,7 @@ date: 2020-09-30 09:26:28
 image: 'https://m.media-amazon.com/images/I/21agAG5FKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RE8NY4-es Brabantia 365249 - Paleta de Corte Nylon Color Negro'
 sku: 'B000RE8NY4-es'
 tags: [  ]

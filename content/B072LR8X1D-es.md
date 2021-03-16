@@ -5,7 +5,7 @@ date: 2020-04-08 08:38:00
 image: 'https://m.media-amazon.com/images/I/51VnfYbMkOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072LR8X1D-es Gola Stimson Velcro Botas de fútbol para Niños Plateado...'
 sku: 'B072LR8X1D-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 10:12:12
 image: 'https://m.media-amazon.com/images/I/41sqVxi0mmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084KS3TBC-es Proyector YABER Mini Portátil Proyector Cine en Casa 5000...'
 sku: 'B084KS3TBC-es'
 tags: [  ]

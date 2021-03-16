@@ -5,7 +5,7 @@ date: 2020-01-15 12:20:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51TUDBmIktL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCR657D-es Wilson Roger Federer Raquetas Unisex niños Rojo/Negro 25'
 sku: 'B01NCR657D-es'
 tags: [  ]

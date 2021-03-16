@@ -5,7 +5,7 @@ date: 2020-01-26 05:02:37
 image: 'https://m.media-amazon.com/images/I/31e1XVha1NL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9VPPX1-es Asics Gel-Odyssey Walking Shoe Womens Black/Black 39 EU'
 sku: 'B07J9VPPX1-es'
 tags: [  ]

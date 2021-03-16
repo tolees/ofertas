@@ -5,7 +5,7 @@ date: 2020-03-06 14:16:10
 image: 'https://m.media-amazon.com/images/I/41X3gQjOzvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3NJR1Y-es Giochi preziosi-DND05001 Frozen Busto Maquillaje y...'
 sku: 'B07S3NJR1Y-es'
 tags: [  ]

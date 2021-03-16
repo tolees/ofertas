@@ -5,7 +5,7 @@ date: 2020-02-16 11:11:21
 image: 'https://m.media-amazon.com/images/I/312DWphR+hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZWIYXY-es Tommy Hilfiger H2285ARLOW 1D Zapatillas para Hombre Azul...'
 sku: 'B01MZWIYXY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-10 12:39:11
 image: 'https://m.media-amazon.com/images/I/310X3eK96YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0067JFIFA-es Rimmel London Lasting Finish Barra De Labios Tono 264...'
 sku: 'B0067JFIFA-es'
 tags: [  ]

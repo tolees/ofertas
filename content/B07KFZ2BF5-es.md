@@ -5,7 +5,7 @@ date: 2020-01-17 12:09:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WxU62IT2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZ2BF5-es PUMA Cali Bold Wn s Zapatillas Deportivas para Mujer...'
 sku: 'B07KFZ2BF5-es'
 tags: [  ]

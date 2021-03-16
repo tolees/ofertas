@@ -5,7 +5,7 @@ date: 2020-04-10 16:51:43
 image: 'https://m.media-amazon.com/images/I/41KjcIvM5nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GI6B1IU-es Led Lenser H7.2 Linterna frontal LED de 250 lúmenes de...'
 sku: 'B00GI6B1IU-es'
 tags: [  ]

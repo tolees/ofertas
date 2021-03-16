@@ -5,7 +5,7 @@ date: 2020-07-14 22:26:34
 image: 'https://m.media-amazon.com/images/I/51i12bRf6FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFTRSNW-es Ejercitador de Mano JUMPFISCH Ejercitador de Mano 3 en 1...'
 sku: 'B07BFTRSNW-es'
 tags: [  ]

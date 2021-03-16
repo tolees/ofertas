@@ -5,7 +5,7 @@ date: 2020-07-06 19:09:09
 image: 'https://m.media-amazon.com/images/I/51V8HBOqocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTT2GJJ-es Women s Secret Cotton Print Black Flower Braguita...'
 sku: 'B07TTT2GJJ-es'
 tags: [  ]

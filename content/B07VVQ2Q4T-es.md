@@ -5,7 +5,7 @@ date: 2020-03-30 09:30:16
 image: 'https://m.media-amazon.com/images/I/41F0ICTYzSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVQ2Q4T-es Depiladora de Luz Pulsada 2NLF Depilación Definitiva...'
 sku: 'B07VVQ2Q4T-es'
 tags: [  ]

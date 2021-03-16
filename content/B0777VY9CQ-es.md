@@ -5,7 +5,7 @@ date: 2020-08-21 19:30:41
 image: 'https://m.media-amazon.com/images/I/310GZCb0XgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777VY9CQ-es Tommy Jeans Hombre SLIM TAPERED STEVE COBCO Jeans Azul...'
 sku: 'B0777VY9CQ-es'
 tags: [  ]

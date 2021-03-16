@@ -5,7 +5,7 @@ date: 2020-09-10 13:56:13
 image: 'https://m.media-amazon.com/images/I/51qFUsinrZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0057VZUYI-es American History X Blu-Ray [Blu-ray]'
 sku: 'B0057VZUYI-es'
 tags: [  ]

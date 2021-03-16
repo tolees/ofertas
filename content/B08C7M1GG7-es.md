@@ -5,7 +5,7 @@ date: 2020-09-16 17:13:40
 image: 'https://m.media-amazon.com/images/I/51cn1JyoEaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C7M1GG7-es Tira LED TV 2.2M 5050 Tiras LED USB Impermeable con...'
 sku: 'B08C7M1GG7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-25 09:11:21
 image: 'https://m.media-amazon.com/images/I/31APqscHK-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H2JEP7Q-es Brugal Blanco Supremo Ron Dominicano 40% - 700 ml'
 sku: 'B00H2JEP7Q-es'
 tags: [  ]

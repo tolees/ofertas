@@ -5,7 +5,7 @@ date: 2020-03-14 00:36:16
 image: 'https://m.media-amazon.com/images/I/31PRf13Rj2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004KVWRNI-es M2 Beauté Ceja Renovación de 5 ml de suero 1er Pack 1 x 5 ml'
 sku: 'B004KVWRNI-es'
 tags: [  ]

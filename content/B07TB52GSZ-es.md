@@ -5,7 +5,7 @@ date: 2020-03-09 20:35:09
 image: 'https://m.media-amazon.com/images/I/51aefrhapdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TB52GSZ-es Symiu Juegos de Mesa Niñas Juego de Pesca Música Ajustable...'
 sku: 'B07TB52GSZ-es'
 tags: [  ]

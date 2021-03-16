@@ -5,7 +5,7 @@ date: 2021-03-16 14:33:07
 image: 'https://m.media-amazon.com/images/I/51tl7DTuOdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JVQUZWW-es Disney - La Sirenita 2014 [DVD]'
 sku: 'B00JVQUZWW-es'
 tags: [ 'disney', ]

@@ -5,7 +5,7 @@ date: 2020-05-03 23:04:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TB9aOM4aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HP46JT-es find. PHRM3300 Suéter Morado Lilac 42 Talla del...'
 sku: 'B077HP46JT-es'
 tags: [  ]

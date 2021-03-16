@@ -5,7 +5,7 @@ date: 2020-06-10 02:53:26
 image: 'https://m.media-amazon.com/images/I/31BQOslJhOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDP811-es Levi s XX Chino Std II Pantalones Rosa Rose Tan Shady GD...'
 sku: 'B07TKDP811-es'
 tags: [  ]

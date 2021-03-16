@@ -5,7 +5,7 @@ date: 2020-02-07 14:24:42
 image: 'https://m.media-amazon.com/images/I/41U9UeAtBAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0736WVDC6-es VENI MASEE Muñequera Deportiva con Cremallera Gruesa Color...'
 sku: 'B0736WVDC6-es'
 tags: [  ]

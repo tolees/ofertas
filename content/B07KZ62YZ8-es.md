@@ -5,7 +5,7 @@ date: 2020-03-01 07:35:29
 image: 'https://m.media-amazon.com/images/I/31A5Owdv+DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZ62YZ8-es Mr Wonderful Ratón Inalámbrico Bluetooth con Carcasa...'
 sku: 'B07KZ62YZ8-es'
 tags: [  ]

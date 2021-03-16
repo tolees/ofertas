@@ -5,7 +5,7 @@ date: 2020-05-26 13:33:05
 image: 'https://m.media-amazon.com/images/I/41hELZ+gY5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081W7FT8C-es QHOHQ Funda para Samsung Galaxy A51 Cases Silicona Slim...'
 sku: 'B081W7FT8C-es'
 tags: [  ]

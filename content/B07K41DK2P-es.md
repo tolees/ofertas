@@ -5,7 +5,7 @@ date: 2020-07-21 18:32:48
 image: 'https://m.media-amazon.com/images/I/3149D01wm9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K41DK2P-es Funda para Moto Scooter XXL Cubierta de Moto Impermeable...'
 sku: 'B07K41DK2P-es'
 tags: [  ]

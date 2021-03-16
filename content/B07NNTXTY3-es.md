@@ -5,7 +5,7 @@ date: 2020-06-25 08:25:50
 image: 'https://m.media-amazon.com/images/I/41erHX3rlQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNTXTY3-es Under Armour UA TriBase Thrive Zapatillas Deportivas para...'
 sku: 'B07NNTXTY3-es'
 tags: [  ]

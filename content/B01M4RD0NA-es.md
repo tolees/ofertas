@@ -5,7 +5,7 @@ date: 2020-01-28 20:55:54
 image: 'https://m.media-amazon.com/images/I/51uB-2wJ+OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4RD0NA-es Nescafé Puro Colombia - Café Soluble - Pack de 3 x 100 g'
 sku: 'B01M4RD0NA-es'
 tags: [  ]

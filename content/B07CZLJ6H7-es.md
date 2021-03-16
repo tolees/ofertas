@@ -5,7 +5,7 @@ date: 2020-04-28 10:03:37
 image: 'https://m.media-amazon.com/images/I/31jFvCpaeFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZLJ6H7-es Under Armour Boxerjocks 15 cm Ropa Interior Elástica 3...'
 sku: 'B07CZLJ6H7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-19 16:45:52
 image: 'https://m.media-amazon.com/images/I/31FqpUqWYIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YSDVZ6Q-es NEXCURIO Funda Silicona Galaxy Note 10 Carcasa...'
 sku: 'B07YSDVZ6Q-es'
 tags: [  ]

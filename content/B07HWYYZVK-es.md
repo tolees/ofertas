@@ -5,7 +5,7 @@ date: 2020-01-16 08:06:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/510iQaTVAhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HWYYZVK-es Apple iPhone XS Max de 512GB - Oro'
 sku: 'B07HWYYZVK-es'
 tags: [  ]

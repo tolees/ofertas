@@ -5,7 +5,7 @@ date: 2020-06-19 13:32:41
 image: 'https://m.media-amazon.com/images/I/418qCax480L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BTPBT6-es YPSNH Compatible para Garmin Fenix 3 Correa 26mm Suave...'
 sku: 'B088BTPBT6-es'
 tags: [  ]

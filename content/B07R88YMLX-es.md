@@ -5,7 +5,7 @@ date: 2020-09-03 16:50:47
 image: 'https://m.media-amazon.com/images/I/41aSlFDXpjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R88YMLX-es Grupo Erik Carpeta 4 anillas troquelada premium Glitter...'
 sku: 'B07R88YMLX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-23 12:42:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ppD60IP0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1WK5N-es PUMA RS 9.8 Space Zapatillas Unisex Adulto Pastel...'
 sku: 'B07KG1WK5N-es'
 tags: [  ]

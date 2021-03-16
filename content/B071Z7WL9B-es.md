@@ -5,7 +5,7 @@ date: 2020-02-12 08:07:56
 image: 'https://m.media-amazon.com/images/I/41PPGc1FDyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071Z7WL9B-es Carissima Gold - Pendientes para mujer 9 k 375 oro bicolor...'
 sku: 'B071Z7WL9B-es'
 tags: [  ]

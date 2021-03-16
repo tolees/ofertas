@@ -5,7 +5,7 @@ date: 2020-02-13 15:25:28
 image: 'https://m.media-amazon.com/images/I/41ru01F1CAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFGB7LX-es JAIMIE JACOBS ® Cartera Mágica Flap Boy Slim el Original...'
 sku: 'B07BFGB7LX-es'
 tags: [  ]

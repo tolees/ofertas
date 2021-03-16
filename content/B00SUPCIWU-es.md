@@ -5,7 +5,7 @@ date: 2020-04-25 11:05:02
 image: 'https://m.media-amazon.com/images/I/41VCj+Yil1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SUPCIWU-es NUK 10256396 - Juego de higiene dental para bebé pasta de...'
 sku: 'B00SUPCIWU-es'
 tags: [  ]

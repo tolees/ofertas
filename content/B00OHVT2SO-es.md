@@ -5,7 +5,7 @@ date: 2020-10-09 12:15:02
 image: 'https://m.media-amazon.com/images/I/31EYC5PtiaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OHVT2SO-es Marshall Mode EQ - Auriculares in-ear color negro'
 sku: 'B00OHVT2SO-es'
 tags: [  ]

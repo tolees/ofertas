@@ -5,7 +5,7 @@ date: 2020-03-25 10:04:38
 image: 'https://m.media-amazon.com/images/I/31lOf9EtboL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UXABDJO-es Dräger X-pect 8110 | Cubregafas Protectoras | Lentes de...'
 sku: 'B00UXABDJO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 20:22:06
 image: 'https://m.media-amazon.com/images/I/21CC2kZU0aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088MBGD19-es KN95 FFP2 Certificado CE Mascarilla Unica Blanco Talla'
 sku: 'B088MBGD19-es'
 tags: [  ]

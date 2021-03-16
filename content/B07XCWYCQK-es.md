@@ -5,7 +5,7 @@ date: 2020-09-15 10:33:24
 image: 'https://m.media-amazon.com/images/I/31YuGCRuL0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCWYCQK-es PUMA Ftblnxt Pant Sr Pantalones de Chándal de Fútbol...'
 sku: 'B07XCWYCQK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-10 18:53:04
 image: 'https://m.media-amazon.com/images/I/411qNUutmXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HMGSPSH-es 10 PCS Salvaorejas Mascarillas Extensor Protectores de...'
 sku: 'B08HMGSPSH-es'
 tags: [  ]

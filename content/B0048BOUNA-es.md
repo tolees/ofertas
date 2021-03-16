@@ -5,7 +5,7 @@ date: 2020-07-04 09:48:08
 image: 'https://m.media-amazon.com/images/I/31GZ0A1zxNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0048BOUNA-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Black...'
 sku: 'B0048BOUNA-es'
 tags: [  ]

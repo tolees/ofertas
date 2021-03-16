@@ -5,7 +5,7 @@ date: 2020-01-26 07:02:50
 image: 'https://m.media-amazon.com/images/I/41+Uif7TmXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BR67DVS-es Maisto- Jeep Grand Cherokee Laredo Color Dorado 31205GD'
 sku: 'B07BR67DVS-es'
 tags: [  ]

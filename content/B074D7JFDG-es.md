@@ -5,7 +5,7 @@ date: 2020-03-23 18:34:09
 image: 'https://m.media-amazon.com/images/I/41n9XleJVPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074D7JFDG-es Matrix Mousse y espuma - 1 unidad'
 sku: 'B074D7JFDG-es'
 tags: [  ]

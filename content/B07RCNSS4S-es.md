@@ -5,7 +5,7 @@ date: 2020-04-07 09:12:52
 image: 'https://m.media-amazon.com/images/I/41QAnm7b71L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCNSS4S-es Nike W Nk Dry Get Fit FLC HD FZ JDI Long Sleeved T-Shirt...'
 sku: 'B07RCNSS4S-es'
 tags: [  ]

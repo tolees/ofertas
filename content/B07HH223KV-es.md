@@ -5,7 +5,7 @@ date: 2020-02-26 20:20:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31SjOrnRIPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH223KV-es AmazonBasics - Auriculares de botón con micrófono Rojo'
 sku: 'B07HH223KV-es'
 tags: [  ]

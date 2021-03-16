@@ -5,7 +5,7 @@ date: 2020-02-20 08:32:52
 image: 'https://m.media-amazon.com/images/I/41YJjwoKizL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL18JK9-es New Balance Fuel Cell Impulse Zapatillas de Running para...'
 sku: 'B07BL18JK9-es'
 tags: [  ]

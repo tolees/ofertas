@@ -5,7 +5,7 @@ date: 2020-08-22 12:44:29
 image: 'https://m.media-amazon.com/images/I/51jtttAJUvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BRMXKW-es havit Teclados mecánico Gaming de una Mano y Ratón Teclado...'
 sku: 'B088BRMXKW-es'
 tags: [  ]

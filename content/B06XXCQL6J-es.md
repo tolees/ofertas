@@ -5,7 +5,7 @@ date: 2020-03-03 19:55:01
 image: 'https://m.media-amazon.com/images/I/41QLcvB0kcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXCQL6J-es Samsonite Spark SNG Spinner Top Pocket Equipaje de Mano 55...'
 sku: 'B06XXCQL6J-es'
 tags: [  ]

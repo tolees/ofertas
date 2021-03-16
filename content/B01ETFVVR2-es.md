@@ -5,7 +5,7 @@ date: 2020-08-04 13:19:49
 image: 'https://m.media-amazon.com/images/I/41jOSYOeknL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ETFVVR2-es Imperial Confort Oslo - Colchón Viscoelástico acolchado...'
 sku: 'B01ETFVVR2-es'
 tags: [  ]

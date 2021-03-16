@@ -5,7 +5,7 @@ date: 2020-01-11 17:41:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kyg3Q5sTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q7FZYLJ-es Widamin 2Pack Compatible con Redmi 7 Cristal Templado...'
 sku: 'B07Q7FZYLJ-es'
 tags: [  ]

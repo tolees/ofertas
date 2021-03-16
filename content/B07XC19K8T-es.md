@@ -5,7 +5,7 @@ date: 2020-05-09 15:50:47
 image: 'https://m.media-amazon.com/images/I/41aUaApjvqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XC19K8T-es Arealer Almohadilla Eléctrica Térmica de Grande Tamaño de...'
 sku: 'B07XC19K8T-es'
 tags: [  ]

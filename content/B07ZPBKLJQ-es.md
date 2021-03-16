@@ -5,7 +5,7 @@ date: 2020-09-30 07:20:33
 image: 'https://m.media-amazon.com/images/I/41b-W5laclL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPBKLJQ-es San Ignacio Set 5pc 16 20 24 28cm sartenes + espátula...'
 sku: 'B07ZPBKLJQ-es'
 tags: [  ]

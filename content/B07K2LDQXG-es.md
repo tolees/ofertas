@@ -5,7 +5,7 @@ date: 2020-06-30 20:12:38
 image: 'https://m.media-amazon.com/images/I/41dnjqPGiJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2LDQXG-es adidas Galaxy 4 Zapatillas de Running para Mujer Negro...'
 sku: 'B07K2LDQXG-es'
 tags: [  ]

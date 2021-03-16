@@ -5,7 +5,7 @@ date: 2020-01-28 09:34:46
 image: 'https://m.media-amazon.com/images/I/31ryuD576kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RL21TXR-es Calvin Klein Unlined Triangle Sujetador de triángulo Gris...'
 sku: 'B07RL21TXR-es'
 tags: [  ]

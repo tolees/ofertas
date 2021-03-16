@@ -5,7 +5,7 @@ date: 2020-01-20 17:37:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31FI%2B2FqwKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015QDUEV0-es L Oréal Steampod Styler Plancha de Pelo - 1810 gr'
 sku: 'B015QDUEV0-es'
 tags: [  ]

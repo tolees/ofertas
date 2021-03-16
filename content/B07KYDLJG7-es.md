@@ -5,7 +5,7 @@ date: 2020-06-20 17:51:58
 image: 'https://m.media-amazon.com/images/I/41jiDsYaMjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYDLJG7-es Skagen Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07KYDLJG7-es'
 tags: [  ]

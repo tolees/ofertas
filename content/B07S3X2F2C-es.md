@@ -5,7 +5,7 @@ date: 2020-06-25 03:02:00
 image: 'https://m.media-amazon.com/images/I/41dt-LzjvKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3X2F2C-es New Balance 500 h Zapatillas para Hombre Rojo Red Tsc 40 EU'
 sku: 'B07S3X2F2C-es'
 tags: [  ]

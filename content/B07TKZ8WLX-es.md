@@ -5,7 +5,7 @@ date: 2020-04-17 18:36:53
 image: 'https://m.media-amazon.com/images/I/61hbPk7Bg8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKZ8WLX-es Medallero Colgador de Medallas – Porta Medallas con Marco...'
 sku: 'B07TKZ8WLX-es'
 tags: [  ]

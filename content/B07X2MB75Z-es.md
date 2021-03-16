@@ -5,7 +5,7 @@ date: 2020-06-13 08:04:55
 image: 'https://m.media-amazon.com/images/I/51Ide42Zx0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2MB75Z-es LTGEM Funda para WD My Passport Go 500 GB 1 TB Disco Duro...'
 sku: 'B07X2MB75Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 08:31:36
 image: 'https://m.media-amazon.com/images/I/51hQWLkV8YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GCF7AT6-es Fournier- Nº 1-40 Cartas Set de baraja Española y tapete...'
 sku: 'B00GCF7AT6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 22:28:33
 image: 'https://m.media-amazon.com/images/I/51lcr9tWCqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006GLDYLO-es Energy Sistem DJ 700 Porta Edition - Auriculares de...'
 sku: 'B006GLDYLO-es'
 tags: [  ]

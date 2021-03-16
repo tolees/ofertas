@@ -5,7 +5,7 @@ date: 2020-01-05 11:16:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/312udNo7b2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9LGCWP-es Skechers Side Street-Sunset Walks Zapatillas para Mujer...'
 sku: 'B07J9LGCWP-es'
 tags: [  ]

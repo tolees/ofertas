@@ -5,7 +5,7 @@ date: 2020-10-12 00:35:52
 image: 'https://m.media-amazon.com/images/I/41mKn4R63FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5TP6SH-es Asics Gel-Kayano 25 Zapatillas de Running para Hombre...'
 sku: 'B07J5TP6SH-es'
 tags: [  ]

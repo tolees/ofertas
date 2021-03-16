@@ -5,7 +5,7 @@ date: 2020-03-18 19:29:23
 image: 'https://m.media-amazon.com/images/I/21Qzdait9lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZG1G1F-es Manual del bebé Aspirador nasal de silicona Aspirador...'
 sku: 'B07TZG1G1F-es'
 tags: [  ]

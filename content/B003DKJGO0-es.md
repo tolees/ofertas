@@ -5,7 +5,7 @@ date: 2020-02-03 10:47:48
 image: 'https://m.media-amazon.com/images/I/31PXe4+vmdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003DKJGO0-es L Oréal Paris Máscara de Pestañas Volume Million Lashes...'
 sku: 'B003DKJGO0-es'
 tags: [  ]

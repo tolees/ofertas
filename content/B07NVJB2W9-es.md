@@ -5,7 +5,7 @@ date: 2020-05-08 17:15:11
 image: 'https://m.media-amazon.com/images/I/31hHrRpfJnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVJB2W9-es Libertroy Longitud del Tobillo de Invierno Polainas...'
 sku: 'B07NVJB2W9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-19 14:45:52
 image: 'https://m.media-amazon.com/images/I/41J-3rD5kkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRJQDSC-es ESDDI CPL 58mm Filtro Cicular Polarizador Filtro CPL para...'
 sku: 'B06XRJQDSC-es'
 tags: [  ]

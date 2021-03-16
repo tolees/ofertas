@@ -5,7 +5,7 @@ date: 2020-02-04 18:58:25
 image: 'https://m.media-amazon.com/images/I/41WQRLDlYvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBLLVCF-es Tommy Hilfiger Thong Tanga Azul Navy Blazer 416 40 Talla...'
 sku: 'B07LBLLVCF-es'
 tags: [  ]

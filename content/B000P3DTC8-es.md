@@ -5,7 +5,7 @@ date: 2020-01-21 21:06:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Vl7RuSG4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000P3DTC8-es Wolfcraft 2133000 2133000-1 Juego compuesta Disco 75x10 mm...'
 sku: 'B000P3DTC8-es'
 tags: [  ]

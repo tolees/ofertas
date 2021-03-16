@@ -5,7 +5,7 @@ date: 2020-08-31 15:30:46
 image: 'https://m.media-amazon.com/images/I/51C3l1NQ-sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RNPBQH5-es HBselect Sostén De Lactancia Sin Costuras Set 3 pcs...'
 sku: 'B07RNPBQH5-es'
 tags: [  ]

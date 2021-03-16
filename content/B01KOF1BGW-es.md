@@ -5,7 +5,7 @@ date: 2020-03-08 09:32:02
 image: 'https://m.media-amazon.com/images/I/317hPE4YyML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KOF1BGW-es BaByliss C903PE - Rizador automático dos posiciones de...'
 sku: 'B01KOF1BGW-es'
 tags: [  ]

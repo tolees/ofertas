@@ -5,7 +5,7 @@ date: 2020-05-08 17:31:34
 image: 'https://m.media-amazon.com/images/I/31V6Sc4V8TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072PTRBY1-es Manchester City FC - Pulsera de silicona oficial de v...'
 sku: 'B072PTRBY1-es'
 tags: [  ]

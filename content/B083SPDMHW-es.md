@@ -5,7 +5,7 @@ date: 2020-08-24 08:03:54
 image: 'https://m.media-amazon.com/images/I/51+nfCK1YPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SPDMHW-es TedGem Ventilador USB Ventilador PC Mini Ventilador USB...'
 sku: 'B083SPDMHW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 19:03:45
 image: 'https://m.media-amazon.com/images/I/51-V6w0gytL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MW23ZCC-es EBTOOLS Sistema de Detección de Aparcamiento de Reserva...'
 sku: 'B07MW23ZCC-es'
 tags: [  ]

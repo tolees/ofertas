@@ -5,7 +5,7 @@ date: 2020-03-29 19:02:39
 image: 'https://m.media-amazon.com/images/I/315hM19U9cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078M2RMN7-es adidas VL Court 2.0 CMF C Zapatillas de Tenis Unisex Niños...'
 sku: 'B078M2RMN7-es'
 tags: [  ]

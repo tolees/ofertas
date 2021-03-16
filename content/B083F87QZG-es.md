@@ -5,7 +5,7 @@ date: 2020-06-06 16:21:23
 image: 'https://m.media-amazon.com/images/I/418yXjrPlkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083F87QZG-es DC Shoes Snapdripp - Gorra con Ajuste Posterior a Presión...'
 sku: 'B083F87QZG-es'
 tags: [  ]

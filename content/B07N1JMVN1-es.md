@@ -5,7 +5,7 @@ date: 2020-04-03 23:16:16
 image: 'https://m.media-amazon.com/images/I/41GOpjBBDHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JMVN1-es Clarks Orinoco Club Botas Estilo Motero para Mujer Gris...'
 sku: 'B07N1JMVN1-es'
 tags: [  ]

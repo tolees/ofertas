@@ -5,7 +5,7 @@ date: 2020-04-19 22:09:21
 image: 'https://m.media-amazon.com/images/I/31lnD5T1jTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LUIKG3M-es adidas Originals Stan Smith Zapatillas de Deporte Unisex...'
 sku: 'B00LUIKG3M-es'
 tags: [  ]

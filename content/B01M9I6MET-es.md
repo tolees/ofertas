@@ -5,7 +5,7 @@ date: 2020-07-12 10:43:17
 image: 'https://m.media-amazon.com/images/I/41UFm01B5UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9I6MET-es Nox Modus - NXMODUSB - Caja PC USB 3.0 Color Negro LED Azul'
 sku: 'B01M9I6MET-es'
 tags: [  ]

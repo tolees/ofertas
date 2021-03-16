@@ -5,7 +5,7 @@ date: 2020-05-03 23:03:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419KNyedN-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DL9WR9L-es Calypso Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07DL9WR9L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 06:30:53
 image: 'https://m.media-amazon.com/images/I/51dqSOZXt+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9PZ3TN-es Befekt Gears Riñonera Deportiva Riñonera Running Mujer...'
 sku: 'B07Q9PZ3TN-es'
 tags: [  ]

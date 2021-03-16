@@ -5,7 +5,7 @@ date: 2020-01-16 20:13:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31RhGdGM5%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG5LSQ5-es PUMA Tarrenz SB Zapatillas Unisex Adulto Black-Whisper...'
 sku: 'B07KG5LSQ5-es'
 tags: [  ]

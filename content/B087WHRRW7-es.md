@@ -5,7 +5,7 @@ date: 2020-08-27 02:51:21
 image: 'https://m.media-amazon.com/images/I/41t18iguf+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WHRRW7-es Dustgo Tiras de Prueba de Piscina- Medidor ph 7 en 1 con...'
 sku: 'B087WHRRW7-es'
 tags: [  ]

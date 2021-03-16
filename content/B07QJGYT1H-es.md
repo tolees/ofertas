@@ -5,7 +5,7 @@ date: 2020-07-28 08:13:42
 image: 'https://m.media-amazon.com/images/I/41uOlhHYINL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJGYT1H-es MTNG Attitude 84086 Zapatillas para Hombre Azul /Mesh 10...'
 sku: 'B07QJGYT1H-es'
 tags: [  ]

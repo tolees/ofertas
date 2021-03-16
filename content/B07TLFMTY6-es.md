@@ -5,7 +5,7 @@ date: 2020-05-30 19:59:39
 image: 'https://m.media-amazon.com/images/I/41kRRrDIykL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLFMTY6-es Levi s Housemark Polo Multicolor Raven Stripe Mineral...'
 sku: 'B07TLFMTY6-es'
 tags: [  ]

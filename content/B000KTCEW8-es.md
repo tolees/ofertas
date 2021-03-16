@@ -5,7 +5,7 @@ date: 2020-04-01 08:38:31
 image: 'https://m.media-amazon.com/images/I/51Jf9bQeFxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KTCEW8-es Duracell 2450 - Pila especial de botón de litio de 3 V...'
 sku: 'B000KTCEW8-es'
 tags: [  ]

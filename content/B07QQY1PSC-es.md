@@ -5,7 +5,7 @@ date: 2020-09-04 09:45:40
 image: 'https://m.media-amazon.com/images/I/51b9pLXBI9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQY1PSC-es Funda para Xiaomi Mi A2 Lite - Carcasa Completa Anti-Shock...'
 sku: 'B07QQY1PSC-es'
 tags: [  ]

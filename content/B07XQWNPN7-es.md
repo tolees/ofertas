@@ -5,7 +5,7 @@ date: 2020-05-23 00:23:51
 image: 'https://m.media-amazon.com/images/I/31sAfSHKj8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQWNPN7-es D-Link DUB-M610 - Hub USB tipo C 6 en 1 adaptador USB C...'
 sku: 'B07XQWNPN7-es'
 tags: [  ]

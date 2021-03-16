@@ -5,7 +5,7 @@ date: 2020-04-15 08:52:32
 image: 'https://m.media-amazon.com/images/I/31kiH8FRo8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M8PY8TE-es G-STAR RAW Duko Belt Cinturón Marrón Dk Cognac/antic...'
 sku: 'B01M8PY8TE-es'
 tags: [  ]

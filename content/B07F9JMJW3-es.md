@@ -5,7 +5,7 @@ date: 2020-06-30 05:11:49
 image: 'https://m.media-amazon.com/images/I/41XgD4d8DDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9JMJW3-es Festina Reloj de Pulsera F20363/3'
 sku: 'B07F9JMJW3-es'
 tags: [  ]

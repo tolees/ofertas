@@ -5,7 +5,7 @@ date: 2020-02-24 13:08:21
 image: 'https://m.media-amazon.com/images/I/41Vbm49XTwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001B1QSF8-es Elizabeth Arden Visible Difference hydrating complex cream...'
 sku: 'B001B1QSF8-es'
 tags: [  ]

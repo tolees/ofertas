@@ -5,7 +5,7 @@ date: 2020-01-16 14:07:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41n1B4QDK1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG16SPB-es PUMA Insurge Mesh 2.0 Zapatillas Unisex Adulto Rhubarb...'
 sku: 'B07KG16SPB-es'
 tags: [  ]

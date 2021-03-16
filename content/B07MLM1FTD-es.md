@@ -5,7 +5,7 @@ date: 2020-07-18 17:01:57
 image: 'https://m.media-amazon.com/images/I/51nYbrXPrXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLM1FTD-es L3 Tech Estuche rígido para SanDisk SSD portátil SDSSDE60...'
 sku: 'B07MLM1FTD-es'
 tags: [  ]

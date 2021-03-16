@@ -5,7 +5,7 @@ date: 2020-03-17 10:04:20
 image: 'https://m.media-amazon.com/images/I/41ddgbWFxGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076BNC1HS-es Selente Love & Fun tentadora Ropa Interior de 4 Piezas -...'
 sku: 'B076BNC1HS-es'
 tags: [  ]

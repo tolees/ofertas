@@ -5,7 +5,7 @@ date: 2020-05-29 08:19:08
 image: 'https://m.media-amazon.com/images/I/41YgmOUk8JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZV3JBG-es Laken Unisex - Adultos Classic Aluminio Azul Claro 0 75...'
 sku: 'B07NZV3JBG-es'
 tags: [  ]

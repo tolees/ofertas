@@ -5,7 +5,7 @@ date: 2020-07-27 11:49:22
 image: 'https://m.media-amazon.com/images/I/41ExKzD4RyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMNVFKX-es Superdry Classic Superstate S/s Polo Amarillo Upstate Gold...'
 sku: 'B07TMNVFKX-es'
 tags: [  ]

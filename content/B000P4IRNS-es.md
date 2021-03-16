@@ -5,7 +5,7 @@ date: 2020-03-28 23:03:20
 image: 'https://m.media-amazon.com/images/I/41Vy31abNvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000P4IRNS-es Bosch 2607019510 - Set de bolsillo con 10 unidades para...'
 sku: 'B000P4IRNS-es'
 tags: [  ]

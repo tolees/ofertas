@@ -5,7 +5,7 @@ date: 2020-04-26 09:46:38
 image: 'https://m.media-amazon.com/images/I/41hDq5S6iCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJZ1JR3-es Rhodesy Protector de Pantalla para GoPro HERO7...'
 sku: 'B07JJZ1JR3-es'
 tags: [  ]

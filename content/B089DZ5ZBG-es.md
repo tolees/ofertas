@@ -5,7 +5,7 @@ date: 2020-08-05 20:14:35
 image: 'https://m.media-amazon.com/images/I/41K8f14PopL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089DZ5ZBG-es Niluoya Bandas Elásticas Fitness 4-Pack 1.5M+2M Cintas...'
 sku: 'B089DZ5ZBG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 17:40:22
 image: 'https://m.media-amazon.com/images/I/41bw+gMYhQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076TDRLR4-es Skechers OG 85-Old School Cool 699 Zapatillas Altas para...'
 sku: 'B076TDRLR4-es'
 tags: [  ]

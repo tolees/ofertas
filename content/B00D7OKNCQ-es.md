@@ -5,7 +5,7 @@ date: 2020-10-12 19:53:38
 image: 'https://m.media-amazon.com/images/I/41TtSx+4nML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D7OKNCQ-es Maybelline New York - El Borrador Instant Anti Age...'
 sku: 'B00D7OKNCQ-es'
 tags: [  ]

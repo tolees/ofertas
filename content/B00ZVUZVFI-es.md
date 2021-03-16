@@ -5,7 +5,7 @@ date: 2020-10-06 01:17:25
 image: 'https://m.media-amazon.com/images/I/31THmA9mS6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZVUZVFI-es WMF Gourmet-Set de 4 Boles Acero Inoxidable Mate'
 sku: 'B00ZVUZVFI-es'
 tags: [  ]

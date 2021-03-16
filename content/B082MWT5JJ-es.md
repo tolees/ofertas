@@ -5,7 +5,7 @@ date: 2020-06-12 18:13:56
 image: 'https://m.media-amazon.com/images/I/31uXwlRbYML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MWT5JJ-es Bourjois Velvet The Lipstick Barra de Labios Tono 33 2.5 gr'
 sku: 'B082MWT5JJ-es'
 tags: [  ]

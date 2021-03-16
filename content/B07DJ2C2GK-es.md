@@ -5,7 +5,7 @@ date: 2020-01-28 14:11:12
 image: 'https://m.media-amazon.com/images/I/41mDtKmv8wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ2C2GK-es New Balance Fresh Foam Cruz v2 Silent Rave Pack Zapatillas...'
 sku: 'B07DJ2C2GK-es'
 tags: [  ]

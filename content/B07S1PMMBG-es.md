@@ -5,7 +5,7 @@ date: 2020-05-31 00:57:52
 image: 'https://m.media-amazon.com/images/I/41Q3q-9o3tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1PMMBG-es New Balance 574v2 Zapatillas para Mujer Gris Grey Eq 36 EU'
 sku: 'B07S1PMMBG-es'
 tags: [  ]

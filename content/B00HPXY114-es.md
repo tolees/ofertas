@@ -5,7 +5,7 @@ date: 2020-05-29 08:46:11
 image: 'https://m.media-amazon.com/images/I/51ahNRRQDFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HPXY114-es Olay Regenerist 3 Areas Sistema de Limpieza Facial...'
 sku: 'B00HPXY114-es'
 tags: [  ]

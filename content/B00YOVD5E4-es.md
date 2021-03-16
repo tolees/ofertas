@@ -5,7 +5,7 @@ date: 2020-01-23 19:17:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B0mMYLTYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YOVD5E4-es Thrustmaster T3PA Pro 3 Pedals Add-On - Classics...'
 sku: 'B00YOVD5E4-es'
 tags: [  ]

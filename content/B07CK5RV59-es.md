@@ -5,7 +5,7 @@ date: 2020-02-02 21:00:31
 image: 'https://m.media-amazon.com/images/I/31IQlpGJtsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CK5RV59-es Calvin Klein Strapless Lift Multiway Sujetador de...'
 sku: 'B07CK5RV59-es'
 tags: [  ]

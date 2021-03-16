@@ -5,7 +5,7 @@ date: 2020-08-27 13:23:44
 image: 'https://m.media-amazon.com/images/I/41dJx+zr6NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771GLCZL-es Eastpak Tranverz S Maleta 51 cm 42 L Gris Black Denim'
 sku: 'B0771GLCZL-es'
 tags: [  ]

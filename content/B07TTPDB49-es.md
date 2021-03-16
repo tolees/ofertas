@@ -5,7 +5,7 @@ date: 2020-06-21 19:33:27
 image: 'https://m.media-amazon.com/images/I/41I9gqOtR6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTPDB49-es KiplingAbanu MultiMujerBolsos bandoleraNegro Black Noir...'
 sku: 'B07TTPDB49-es'
 tags: [  ]

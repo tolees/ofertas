@@ -5,7 +5,7 @@ date: 2020-05-02 08:02:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BBV%2BDLUgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073GQJFX9-es Canon BG-E21 - Empuñadura para Canon EOS 6D Mark II Color...'
 sku: 'B073GQJFX9-es'
 tags: [  ]

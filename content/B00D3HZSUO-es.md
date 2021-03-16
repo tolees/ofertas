@@ -5,7 +5,7 @@ date: 2020-01-19 09:58:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41a0JbG136L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D3HZSUO-es Lutsine Xeramance Emulsión Reestructurante para Piel Muy...'
 sku: 'B00D3HZSUO-es'
 tags: [  ]

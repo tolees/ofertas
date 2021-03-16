@@ -5,7 +5,7 @@ date: 2020-03-22 09:33:09
 image: 'https://m.media-amazon.com/images/I/41XSzrac-eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003BFXFHG-es HP CE278A 78A Cartucho de Tóner Original 1 unidad negro'
 sku: 'B003BFXFHG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 10:30:49
 image: 'https://m.media-amazon.com/images/I/41utoHG5lNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OCOYWGS-es auna Radio Gaga AN - Radio por Internet Digital WLAN...'
 sku: 'B00OCOYWGS-es'
 tags: [  ]

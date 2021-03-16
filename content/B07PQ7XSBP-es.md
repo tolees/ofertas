@@ -5,7 +5,7 @@ date: 2020-02-19 12:11:09
 image: 'https://m.media-amazon.com/images/I/51Hara8stAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQ7XSBP-es BRIKSMAX Kit de Iluminación Led para Taller de la Esquina-...'
 sku: 'B07PQ7XSBP-es'
 tags: [  ]

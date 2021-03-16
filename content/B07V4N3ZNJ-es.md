@@ -5,7 +5,7 @@ date: 2020-05-27 11:53:09
 image: 'https://m.media-amazon.com/images/I/41cYVREufKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4N3ZNJ-es Tommy Hilfiger Iconic Material Mix Runner Zapatillas para...'
 sku: 'B07V4N3ZNJ-es'
 tags: [  ]

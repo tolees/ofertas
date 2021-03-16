@@ -5,7 +5,7 @@ date: 2020-01-29 23:16:42
 image: 'https://m.media-amazon.com/images/I/51E+Z40DOcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPP2DMM-es Marshall Stanmore II Altavoz Bluetooth - Blanco EU'
 sku: 'B07HPP2DMM-es'
 tags: [  ]

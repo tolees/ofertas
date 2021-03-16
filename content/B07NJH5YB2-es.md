@@ -5,7 +5,7 @@ date: 2020-05-14 10:50:20
 image: 'https://m.media-amazon.com/images/I/41s5CTZQ63L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJH5YB2-es Tamaris 1-1-26096-23 Botas Altas para Mujer Marrón Rust...'
 sku: 'B07NJH5YB2-es'
 tags: [  ]

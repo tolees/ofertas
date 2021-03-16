@@ -5,7 +5,7 @@ date: 2020-02-21 08:17:16
 image: 'https://m.media-amazon.com/images/I/51mKZ4pn-DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LD5M3QS-es Code: Realize Wintertide Miracles'
 sku: 'B07LD5M3QS-es'
 tags: [  ]

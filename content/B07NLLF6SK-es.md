@@ -5,7 +5,7 @@ date: 2020-03-22 03:02:54
 image: 'https://m.media-amazon.com/images/I/41eaM9+34HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLLF6SK-es Versace Jeans CoutureBorsaMujerBolsos mochilaMorado...'
 sku: 'B07NLLF6SK-es'
 tags: [  ]

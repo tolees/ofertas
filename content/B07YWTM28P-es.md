@@ -5,7 +5,7 @@ date: 2020-07-29 16:33:36
 image: 'https://m.media-amazon.com/images/I/41iNH5kjAOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWTM28P-es NUK Chupete espacial de silicona forma adaptada a la...'
 sku: 'B07YWTM28P-es'
 tags: [  ]

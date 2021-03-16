@@ -5,7 +5,7 @@ date: 2020-01-13 15:33:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nN9U7PP8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004DIZH5I-es Widmann 02723 - Disfraz de vaquero para niño talla L'
 sku: 'B004DIZH5I-es'
 tags: [  ]

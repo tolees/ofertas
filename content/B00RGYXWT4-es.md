@@ -5,7 +5,7 @@ date: 2020-08-11 18:27:43
 image: 'https://m.media-amazon.com/images/I/51cwgmebLxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RGYXWT4-es Top Race Control remoto RC Blocks Robot Vehicle Building...'
 sku: 'B00RGYXWT4-es'
 tags: [  ]

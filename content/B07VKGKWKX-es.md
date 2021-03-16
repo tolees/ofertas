@@ -5,7 +5,7 @@ date: 2020-08-08 10:34:10
 image: 'https://m.media-amazon.com/images/I/41QU9+xDH8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKGKWKX-es Munich G 3 KID VCO INDOOR 72 Zapatillas Niño Multicolor 27 EU'
 sku: 'B07VKGKWKX-es'
 tags: [  ]

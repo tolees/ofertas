@@ -5,7 +5,7 @@ date: 2020-01-24 12:13:10
 image: 'https://m.media-amazon.com/images/I/51FVBPJDUnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DY1S7RD-es Orient Reloj Analógico para Unisex Adultos de Automático...'
 sku: 'B07DY1S7RD-es'
 tags: [  ]

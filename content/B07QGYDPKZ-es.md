@@ -5,7 +5,7 @@ date: 2020-02-25 23:05:41
 image: 'https://m.media-amazon.com/images/I/41z0pzapO8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGYDPKZ-es NUBILY Cinturon Hombre Cuero Negro Marrón Jeans Reversible...'
 sku: 'B07QGYDPKZ-es'
 tags: [  ]

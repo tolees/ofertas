@@ -5,7 +5,7 @@ date: 2020-04-07 10:02:44
 image: 'https://m.media-amazon.com/images/I/41TFEp4fjnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781VC1GQ-es PUMA Liga Training Shorts W Chándal Mujer Negro Black/White M'
 sku: 'B0781VC1GQ-es'
 tags: [  ]

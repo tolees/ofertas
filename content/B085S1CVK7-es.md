@@ -5,7 +5,7 @@ date: 2020-10-11 17:29:14
 image: 'https://m.media-amazon.com/images/I/41GO-DPn7uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085S1CVK7-es Oriware Adhesivo Negro Estantes Cesta para Ducha...'
 sku: 'B085S1CVK7-es'
 tags: [  ]

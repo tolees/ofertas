@@ -5,7 +5,7 @@ date: 2020-04-22 10:01:42
 image: 'https://m.media-amazon.com/images/I/51gaNNamhqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSQDLSK-es little live pets 28617 Light Up Songbirds S9-Estilos...'
 sku: 'B07NSQDLSK-es'
 tags: [  ]

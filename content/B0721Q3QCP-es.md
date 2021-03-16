@@ -5,7 +5,7 @@ date: 2020-09-30 04:50:06
 image: 'https://m.media-amazon.com/images/I/41wUQH5dXML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721Q3QCP-es Vibram Fivefingers Vi-b Zapatillas de Deporte para Mujer...'
 sku: 'B0721Q3QCP-es'
 tags: [  ]

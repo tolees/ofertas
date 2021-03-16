@@ -5,7 +5,7 @@ date: 2020-04-06 04:53:31
 image: 'https://m.media-amazon.com/images/I/31Tt7wAm+ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NOPS6F4-es Lacoste L1312 Polo Azul Rabane Z1g 2XL Talla del...'
 sku: 'B00NOPS6F4-es'
 tags: [  ]

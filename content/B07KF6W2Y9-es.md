@@ -5,7 +5,7 @@ date: 2020-01-02 11:34:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DqDNIiabL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF6W2Y9-es NACATIN Esterilla Inflable Acampada Colchón de Aire con...'
 sku: 'B07KF6W2Y9-es'
 tags: [  ]

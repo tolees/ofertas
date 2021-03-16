@@ -5,7 +5,7 @@ date: 2020-03-01 23:23:09
 image: 'https://m.media-amazon.com/images/I/310rU0ymEXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079HBRTZW-es Kingston SDCS/32GBSP - MicroSD Canvas Select velocidades...'
 sku: 'B079HBRTZW-es'
 tags: [  ]

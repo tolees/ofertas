@@ -5,7 +5,7 @@ date: 2020-02-17 20:05:20
 image: 'https://m.media-amazon.com/images/I/4147H8zGA-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZR47SK-es Pepe Jeans London Klein Archive Washed Zapatillas para...'
 sku: 'B07MZR47SK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 16:25:42
 image: 'https://m.media-amazon.com/images/I/513hSs1xgYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZSZDM2-es 150 UD de 10 ml de monodosis aceite de oliva virgen extra'
 sku: 'B071ZSZDM2-es'
 tags: [  ]

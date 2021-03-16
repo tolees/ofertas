@@ -5,7 +5,7 @@ date: 2020-05-23 12:51:00
 image: 'https://m.media-amazon.com/images/I/31rbIXGgi2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1DHFS8-es Lav ADR15 Coloure - Vasos de whisky 290 ml 6 unidades Vidrio'
 sku: 'B07Q1DHFS8-es'
 tags: [  ]

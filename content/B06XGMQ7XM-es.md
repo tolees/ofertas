@@ -5,7 +5,7 @@ date: 2020-06-30 02:27:30
 image: 'https://m.media-amazon.com/images/I/31u275YgKcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGMQ7XM-es Elifexir Baby Care Crema Protectora del Pañal Culito 10...'
 sku: 'B06XGMQ7XM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 19:05:38
 image: 'https://m.media-amazon.com/images/I/31KsKoIZCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DLTJQY5-es USB C Auriculares Tipo C con Cable y Micrófono para Google...'
 sku: 'B08DLTJQY5-es'
 tags: [  ]

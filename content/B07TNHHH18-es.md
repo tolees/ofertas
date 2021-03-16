@@ -5,7 +5,7 @@ date: 2020-08-17 16:03:55
 image: 'https://m.media-amazon.com/images/I/41ttvgv6FBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNHHH18-es Twinz up - Sacacorchos Eléctrico Inalámbrico - Estuche...'
 sku: 'B07TNHHH18-es'
 tags: [  ]

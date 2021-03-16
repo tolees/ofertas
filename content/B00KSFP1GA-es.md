@@ -5,7 +5,7 @@ date: 2020-04-07 18:31:51
 image: 'https://m.media-amazon.com/images/I/31xzqSsEKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KSFP1GA-es BC Corona FUK10402 Monaco Juego de Fundas Negro/Gris'
 sku: 'B00KSFP1GA-es'
 tags: [  ]

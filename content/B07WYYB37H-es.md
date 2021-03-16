@@ -5,7 +5,7 @@ date: 2020-05-16 18:46:07
 image: 'https://m.media-amazon.com/images/I/618lYGk78YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WYYB37H-es BOSSTER Pegatinas de Vinilo 35 Unidades Hombre Araña...'
 sku: 'B07WYYB37H-es'
 tags: [  ]

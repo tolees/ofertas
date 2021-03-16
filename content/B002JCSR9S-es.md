@@ -5,7 +5,7 @@ date: 2020-02-18 06:05:40
 image: 'https://m.media-amazon.com/images/I/314GwAb4NQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002JCSR9S-es Crocs Crocband Jaunt Women Mujer Bota Negro Black 34-35 EU'
 sku: 'B002JCSR9S-es'
 tags: [  ]

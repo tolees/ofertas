@@ -5,7 +5,7 @@ date: 2020-03-08 22:34:02
 image: 'https://m.media-amazon.com/images/I/31xPa6Gro2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QMDFB8-es Grohe Rainshower 310 SmartActive CUBE - Juego de alcachofa...'
 sku: 'B075QMDFB8-es'
 tags: [  ]

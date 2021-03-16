@@ -5,7 +5,7 @@ date: 2020-06-11 18:40:47
 image: 'https://m.media-amazon.com/images/I/31q-Q9XrDRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XO2RV8-es Intex 28273NP Small Frame - Piscina desmontable tubular...'
 sku: 'B000XO2RV8-es'
 tags: [  ]

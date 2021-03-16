@@ -5,7 +5,7 @@ date: 2020-09-06 10:04:20
 image: 'https://m.media-amazon.com/images/I/41ZuYGB8N+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MPZ5BSL-es Plancha de vapor - Cecotec GoForce 8000 Folding Titanium...'
 sku: 'B07MPZ5BSL-es'
 tags: [  ]

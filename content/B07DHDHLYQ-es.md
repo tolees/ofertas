@@ -5,7 +5,7 @@ date: 2020-04-09 08:52:30
 image: 'https://m.media-amazon.com/images/I/41fyq5DaqxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHDHLYQ-es AVerMedia Live Gamer Ultra Capturadora de vídeo y de...'
 sku: 'B07DHDHLYQ-es'
 tags: [  ]

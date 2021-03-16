@@ -5,7 +5,7 @@ date: 2020-02-13 18:38:18
 image: 'https://m.media-amazon.com/images/I/31EkWawJoCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFBT3FX-es Kickers Kickstyle Zapatillas para Hombre Azul Marine/Camel...'
 sku: 'B07MFBT3FX-es'
 tags: [  ]

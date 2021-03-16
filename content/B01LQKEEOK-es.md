@@ -5,7 +5,7 @@ date: 2020-07-03 06:36:03
 image: 'https://m.media-amazon.com/images/I/41a+Sx1jHiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQKEEOK-es SD toys - Mug Game of Thrones - Targaryen Verre Noir Logo...'
 sku: 'B01LQKEEOK-es'
 tags: [  ]

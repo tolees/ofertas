@@ -5,7 +5,7 @@ date: 2020-01-14 22:04:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31CdTw9oz9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQCZZCI-es Cáncer de Mama Pasadores Broche de Conciencia Caridad...'
 sku: 'B01MQCZZCI-es'
 tags: [  ]

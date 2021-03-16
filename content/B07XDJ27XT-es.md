@@ -5,7 +5,7 @@ date: 2020-04-16 18:07:34
 image: 'https://m.media-amazon.com/images/I/31vtczQ4ouL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDJ27XT-es Creative Kitchen - Bandeja de drenaje de fregadero...'
 sku: 'B07XDJ27XT-es'
 tags: [  ]

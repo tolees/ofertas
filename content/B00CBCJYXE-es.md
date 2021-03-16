@@ -5,7 +5,7 @@ date: 2020-01-22 09:38:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ronHf1SsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CBCJYXE-es Nike 905211 001 Zapatillas de Deporte para Mujer...'
 sku: 'B00CBCJYXE-es'
 tags: [  ]

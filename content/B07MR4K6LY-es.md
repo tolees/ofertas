@@ -5,7 +5,7 @@ date: 2020-07-11 13:49:23
 image: 'https://m.media-amazon.com/images/I/31wHryIqXFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MR4K6LY-es L Oreal Paris Infalible More Than Concealer Corrector...'
 sku: 'B07MR4K6LY-es'
 tags: [  ]

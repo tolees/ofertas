@@ -5,7 +5,7 @@ date: 2020-08-14 19:05:40
 image: 'https://m.media-amazon.com/images/I/41wi-p3-5TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073PWZ9TN-es Anself Kit de Pie Escofina Doble Cara + 10pcs Papel de...'
 sku: 'B073PWZ9TN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-13 17:03:01
 image: 'https://m.media-amazon.com/images/I/51Wzg84OC8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXWB9G8-es Dek - Deportivas de Cordones Erica Super Ligeras para...'
 sku: 'B07VXWB9G8-es'
 tags: [  ]

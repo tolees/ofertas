@@ -5,7 +5,7 @@ date: 2020-07-10 18:20:27
 image: 'https://m.media-amazon.com/images/I/51TI0-NBdNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSCGD9W-es El Misterioso Viaje de Layton'
 sku: 'B07TSCGD9W-es'
 tags: [  ]

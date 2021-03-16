@@ -5,7 +5,7 @@ date: 2020-08-05 06:33:55
 image: 'https://m.media-amazon.com/images/I/41HMRqUYeBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRFGFV2-es Gliss - Oil Elixir Diario - Aceite Capilar Nutrición y...'
 sku: 'B07NRFGFV2-es'
 tags: [  ]

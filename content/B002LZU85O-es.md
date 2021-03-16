@@ -5,7 +5,7 @@ date: 2020-04-06 07:39:43
 image: 'https://m.media-amazon.com/images/I/411AewFITxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LZU85O-es Pack de 3 botellas biberón para leche materna Medela 150ml'
 sku: 'B002LZU85O-es'
 tags: [  ]

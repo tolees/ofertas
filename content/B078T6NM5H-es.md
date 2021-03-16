@@ -5,7 +5,7 @@ date: 2020-09-18 01:26:19
 image: 'https://m.media-amazon.com/images/I/41+OkSFbpAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T6NM5H-es Puma LIGA Casuals Shorts Pantalones Cortos Hombre Gris...'
 sku: 'B078T6NM5H-es'
 tags: [  ]

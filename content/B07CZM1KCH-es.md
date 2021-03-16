@@ -5,7 +5,7 @@ date: 2020-04-06 20:57:14
 image: 'https://m.media-amazon.com/images/I/41HmmLRHUiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZM1KCH-es Under Armour Performance Polo 2.0 Niños Negro Black/Mod...'
 sku: 'B07CZM1KCH-es'
 tags: [  ]

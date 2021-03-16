@@ -5,7 +5,7 @@ date: 2020-05-12 18:50:06
 image: 'https://m.media-amazon.com/images/I/417mU7RvMKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SXBHCF-es Guess SG766246 BILLETERAS mujer Rosa TU'
 sku: 'B082SXBHCF-es'
 tags: [  ]

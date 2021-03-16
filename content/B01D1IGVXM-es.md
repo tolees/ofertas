@@ -5,7 +5,7 @@ date: 2020-07-27 09:39:23
 image: 'https://m.media-amazon.com/images/I/41ctN8nENmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D1IGVXM-es REPEL BITE NATURAL ADULTO pulsera citronela. Pulsera...'
 sku: 'B01D1IGVXM-es'
 tags: [  ]

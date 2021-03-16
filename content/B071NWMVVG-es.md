@@ -5,7 +5,7 @@ date: 2020-04-11 09:46:05
 image: 'https://m.media-amazon.com/images/I/41xcqn9jQoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NWMVVG-es Asics T7D8N9006 Zapatillas de Running para Mujer Negro...'
 sku: 'B071NWMVVG-es'
 tags: [  ]

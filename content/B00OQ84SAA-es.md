@@ -5,7 +5,7 @@ date: 2020-06-17 17:43:24
 image: 'https://m.media-amazon.com/images/I/411RvXVnfJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OQ84SAA-es Vaseline Essential Moisture Cocoa Radiant Lotion 200ml...'
 sku: 'B00OQ84SAA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-06 08:04:14
 image: 'https://m.media-amazon.com/images/I/51zbgIu1KiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5RFW25-es PUMA ESS Sweat TR Chándal Hombre Gris Medium Gray Heather S'
 sku: 'B07D5RFW25-es'
 tags: [  ]

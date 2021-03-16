@@ -5,7 +5,7 @@ date: 2020-03-12 23:08:05
 image: 'https://m.media-amazon.com/images/I/511Xg3vjQnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5FCDHZ-es Bourjois Sombra de ojos Tono: 004 Insaisissa - 42 gr.'
 sku: 'B07P5FCDHZ-es'
 tags: [  ]

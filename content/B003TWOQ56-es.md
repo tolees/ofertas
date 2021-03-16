@@ -5,7 +5,7 @@ date: 2020-03-16 20:03:42
 image: 'https://m.media-amazon.com/images/I/213uB3x6GvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003TWOQ56-es Bosch 2 608 690 124 - Cincel plano RTec Sharp SDS-max -...'
 sku: 'B003TWOQ56-es'
 tags: [  ]

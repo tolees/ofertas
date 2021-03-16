@@ -5,7 +5,7 @@ date: 2020-04-30 10:45:46
 image: 'https://m.media-amazon.com/images/I/41aiZnSYeIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HN8X76Y-es Cecotec Conga Serie 1290 Robot Aspirador 1400 Pa...'
 sku: 'B07HN8X76Y-es'
 tags: [  ]

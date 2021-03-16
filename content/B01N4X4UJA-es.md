@@ -5,7 +5,7 @@ date: 2020-02-13 16:43:18
 image: 'https://m.media-amazon.com/images/I/51n1O8jOIJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4X4UJA-es Ymea Menopausia Vientre Plano - Ayuda a aliviar los...'
 sku: 'B01N4X4UJA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 14:05:25
 image: 'https://m.media-amazon.com/images/I/31Fe90WgR8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003HLQVNE-es Revlon Esmalte de Uñas 14 7ml Revlon Red'
 sku: 'B003HLQVNE-es'
 tags: [  ]

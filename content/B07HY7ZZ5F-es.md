@@ -5,7 +5,7 @@ date: 2020-07-18 08:01:28
 image: 'https://m.media-amazon.com/images/I/413pw3aYf2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HY7ZZ5F-es Mando a Distancia para Toshiba LCD / 3D / LED TV'
 sku: 'B07HY7ZZ5F-es'
 tags: [  ]

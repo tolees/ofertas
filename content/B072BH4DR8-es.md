@@ -5,7 +5,7 @@ date: 2020-02-20 12:12:20
 image: 'https://m.media-amazon.com/images/I/518XxfuvH-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BH4DR8-es Saco Nórdico Colores Para Cama de 90x190/200'
 sku: 'B072BH4DR8-es'
 tags: [  ]

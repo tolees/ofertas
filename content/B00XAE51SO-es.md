@@ -5,7 +5,7 @@ date: 2020-07-13 08:54:46
 image: 'https://m.media-amazon.com/images/I/510CqAkbKVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAE51SO-es Air Wick Freshmatic - Recambios de Ambientador Spray...'
 sku: 'B00XAE51SO-es'
 tags: [  ]

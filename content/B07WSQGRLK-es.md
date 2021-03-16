@@ -5,7 +5,7 @@ date: 2020-05-23 08:09:23
 image: 'https://m.media-amazon.com/images/I/51rUjMAm9eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSQGRLK-es Nuevo Versión Transmisor FM Manos Libres Bluetooth Coche...'
 sku: 'B07WSQGRLK-es'
 tags: [  ]

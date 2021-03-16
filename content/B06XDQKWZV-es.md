@@ -5,7 +5,7 @@ date: 2020-10-08 17:42:30
 image: 'https://m.media-amazon.com/images/I/41ZiBATuseL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDQKWZV-es Garnier Fructis Champú Anticaspa - 700 ml'
 sku: 'B06XDQKWZV-es'
 tags: [  ]

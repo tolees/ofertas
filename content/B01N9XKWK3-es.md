@@ -5,7 +5,7 @@ date: 2020-03-22 15:49:09
 image: 'https://m.media-amazon.com/images/I/618-hsEZxPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9XKWK3-es Mario Sports Superstars + Tarjeta Amiibo - Edición Limitada'
 sku: 'B01N9XKWK3-es'
 tags: [  ]

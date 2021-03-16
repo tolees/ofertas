@@ -5,7 +5,7 @@ date: 2020-02-29 20:43:27
 image: 'https://m.media-amazon.com/images/I/513c52WLVgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XNT455T-es Foto Clip Cadena de Luces LED - Elegear Cadena Luces de...'
 sku: 'B07XNT455T-es'
 tags: [  ]

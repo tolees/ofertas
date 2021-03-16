@@ -5,7 +5,7 @@ date: 2020-07-09 01:52:25
 image: 'https://m.media-amazon.com/images/I/51SqAQjx95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JVYKDL-es Romanticist 20 Piezas Utensilios para Barbacoa para...'
 sku: 'B072JVYKDL-es'
 tags: [  ]

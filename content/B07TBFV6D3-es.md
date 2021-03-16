@@ -5,7 +5,7 @@ date: 2020-07-07 08:32:38
 image: 'https://m.media-amazon.com/images/I/51rg8b4z43L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBFV6D3-es IXROAD 4K 30fps Cámara Deportiva Acción 16MP WiFi Action...'
 sku: 'B07TBFV6D3-es'
 tags: [  ]

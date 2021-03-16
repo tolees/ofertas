@@ -5,7 +5,7 @@ date: 2020-01-11 11:03:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qI8td6a5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QR68ZR9-es Lámpara colgante vintage E27 Lámparas de techo Lámpara...'
 sku: 'B07QR68ZR9-es'
 tags: [  ]

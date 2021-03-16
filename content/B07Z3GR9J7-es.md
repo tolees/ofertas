@@ -5,7 +5,7 @@ date: 2020-01-07 08:20:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416%2BplP7S9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3GR9J7-es Awroutdoor Calentador de Mano Recargable 7800mAH...'
 sku: 'B07Z3GR9J7-es'
 tags: [  ]

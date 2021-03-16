@@ -5,7 +5,7 @@ date: 2020-01-26 12:38:38
 image: 'https://m.media-amazon.com/images/I/41pWamjbNXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDM34M3-es adidas Gazelle Zapatillas para Hombre Azul Hi/Res...'
 sku: 'B07RDM34M3-es'
 tags: [  ]

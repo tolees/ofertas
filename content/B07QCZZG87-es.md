@@ -5,7 +5,7 @@ date: 2020-09-11 16:10:37
 image: 'https://m.media-amazon.com/images/I/410tVjfl0+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCZZG87-es Wipp Express Detergente Líquido Azul - 40 Lavados 2L'
 sku: 'B07QCZZG87-es'
 tags: [  ]

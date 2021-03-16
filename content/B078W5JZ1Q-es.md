@@ -5,7 +5,7 @@ date: 2020-02-28 09:46:00
 image: 'https://m.media-amazon.com/images/I/41CRyCP8JiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078W5JZ1Q-es 9Tong Reloj Inteligente para Niños con GPS Reloj...'
 sku: 'B078W5JZ1Q-es'
 tags: [  ]

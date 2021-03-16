@@ -5,7 +5,7 @@ date: 2020-01-28 13:34:42
 image: 'https://m.media-amazon.com/images/I/311qk7DHKTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRG9C4S-es adidas W E 3s Tight - Mallas Mujer Black/White S'
 sku: 'B07KRG9C4S-es'
 tags: [  ]

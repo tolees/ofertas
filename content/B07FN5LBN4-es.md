@@ -5,7 +5,7 @@ date: 2020-08-10 06:04:08
 image: 'https://m.media-amazon.com/images/I/412bhkDiyLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FN5LBN4-es Rowenta Silence Force Cyclonic RO7691EA Aspirador sin...'
 sku: 'B07FN5LBN4-es'
 tags: [  ]

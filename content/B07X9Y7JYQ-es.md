@@ -5,7 +5,7 @@ date: 2020-07-05 10:32:35
 image: 'https://m.media-amazon.com/images/I/41mYDn2pvLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9Y7JYQ-es WILDKEN Pantalones Cortos de Protección para Niños...'
 sku: 'B07X9Y7JYQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 17:22:49
 image: 'https://m.media-amazon.com/images/I/51Y+AHwxr+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NJFKXQ-es Termómetro Infrarrojo Termómetro Láser Digital Pistola de...'
 sku: 'B075NJFKXQ-es'
 tags: [  ]

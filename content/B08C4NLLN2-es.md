@@ -5,7 +5,7 @@ date: 2020-08-20 16:14:54
 image: 'https://m.media-amazon.com/images/I/41mrUSEAS7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C4NLLN2-es Harxin Baby Travel Potty Asiento de Inodoro Portátil para...'
 sku: 'B08C4NLLN2-es'
 tags: [  ]

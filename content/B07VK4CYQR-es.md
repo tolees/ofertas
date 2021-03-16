@@ -5,7 +5,7 @@ date: 2020-10-11 10:02:06
 image: 'https://m.media-amazon.com/images/I/511Gj7+y+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VK4CYQR-es Auriculares inalámbricos Verdaderos Bluetooth 5.0 Estuche...'
 sku: 'B07VK4CYQR-es'
 tags: [  ]

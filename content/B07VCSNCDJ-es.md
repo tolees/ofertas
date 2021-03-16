@@ -5,7 +5,7 @@ date: 2020-02-02 08:57:10
 image: 'https://m.media-amazon.com/images/I/519KT2-PdJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCSNCDJ-es Bee Simulator [Versión Española]'
 sku: 'B07VCSNCDJ-es'
 tags: [  ]

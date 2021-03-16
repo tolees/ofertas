@@ -5,7 +5,7 @@ date: 2020-05-23 09:09:56
 image: 'https://m.media-amazon.com/images/I/419JfKpSXZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMTJ2HB-es AmazonBasics – Balancín plegable con toldo Negro'
 sku: 'B07HMTJ2HB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 18:28:08
 image: 'https://m.media-amazon.com/images/I/51X-9GkaMUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LLC3DB-es Altavoz Bluetooth Portátil Altavoces Bluetooth Portatiles...'
 sku: 'B088LLC3DB-es'
 tags: [  ]

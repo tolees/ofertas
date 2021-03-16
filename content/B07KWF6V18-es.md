@@ -5,7 +5,7 @@ date: 2020-03-02 04:43:05
 image: 'https://m.media-amazon.com/images/I/31-nHXSivHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWF6V18-es Helly Hansen Tokyo Hoodie Hombre White 2XL'
 sku: 'B07KWF6V18-es'
 tags: [  ]

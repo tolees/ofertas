@@ -5,7 +5,7 @@ date: 2020-02-07 16:08:20
 image: 'https://m.media-amazon.com/images/I/415s5rzl3vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MDTTWZ-es Optimum Nutrition Suplemento Alimenticio Essential Amino...'
 sku: 'B072MDTTWZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-09 18:55:04
 image: 'https://m.media-amazon.com/images/I/31DKELaiCsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XDU3IU-es Vans Herren Classic T-Shirt Weiß WHITE-BLACK YB2 XL'
 sku: 'B003XDU3IU-es'
 tags: [  ]

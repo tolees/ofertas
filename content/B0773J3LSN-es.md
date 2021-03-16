@@ -5,7 +5,7 @@ date: 2020-02-26 18:02:20
 image: 'https://m.media-amazon.com/images/I/51aXnJI0W-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0773J3LSN-es Montse Interiors Saco Nórdico Princesas Little Princess...'
 sku: 'B0773J3LSN-es'
 tags: [  ]

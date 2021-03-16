@@ -5,7 +5,7 @@ date: 2020-04-09 17:08:28
 image: 'https://m.media-amazon.com/images/I/41hM-DsAkrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T69SQQ-es Tommy Hilfiger Tommy Star Metallic Sneaker Zapatillas para...'
 sku: 'B078T69SQQ-es'
 tags: [  ]

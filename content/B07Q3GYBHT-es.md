@@ -5,7 +5,7 @@ date: 2020-03-12 17:57:33
 image: 'https://m.media-amazon.com/images/I/41StYkLygML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3GYBHT-es Dockers by Gerli 45pa040 Botas Militar para Hombre...'
 sku: 'B07Q3GYBHT-es'
 tags: [  ]

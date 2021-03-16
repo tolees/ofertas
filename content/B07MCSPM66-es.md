@@ -5,7 +5,7 @@ date: 2020-03-29 14:28:31
 image: 'https://m.media-amazon.com/images/I/31dm9HrCs4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPM66-es Napapijri EISBERG Polo Azul Clematis Blue Vb1 L para Hombre'
 sku: 'B07MCSPM66-es'
 tags: [  ]

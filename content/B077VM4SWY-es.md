@@ -5,7 +5,7 @@ date: 2020-04-16 09:19:15
 image: 'https://m.media-amazon.com/images/I/51U+gpUdYzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VM4SWY-es Kit de LED Iluminación Yeeteem 160 Regulable Ultra High...'
 sku: 'B077VM4SWY-es'
 tags: [  ]

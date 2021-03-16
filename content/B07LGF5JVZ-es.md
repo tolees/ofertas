@@ -5,7 +5,7 @@ date: 2020-01-22 13:45:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RmzAepv3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGF5JVZ-es Dodot Sensitive - Pañales Talla 4 48 Pañales 9-14 kg'
 sku: 'B07LGF5JVZ-es'
 tags: [  ]

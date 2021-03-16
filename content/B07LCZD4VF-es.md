@@ -5,7 +5,7 @@ date: 2020-04-02 14:43:10
 image: 'https://m.media-amazon.com/images/I/31zVIv4-NwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCZD4VF-es Max Factor Colour Elixir Lip Liner 10 Red Poppy 40 g'
 sku: 'B07LCZD4VF-es'
 tags: [  ]

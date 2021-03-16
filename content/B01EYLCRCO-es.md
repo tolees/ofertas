@@ -5,7 +5,7 @@ date: 2020-09-09 12:06:25
 image: 'https://m.media-amazon.com/images/I/31HP3O-OmUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EYLCRCO-es Presto 570 23970 Griferia Temporizada. Lavabo mezclador pedal'
 sku: 'B01EYLCRCO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 20:14:56
 image: 'https://m.media-amazon.com/images/I/51UlBwUj7QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079THMPCV-es Multipower 50g Protein Shake Sabor Strawberry - 12 Unidades'
 sku: 'B079THMPCV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-17 16:44:07
 image: 'https://m.media-amazon.com/images/I/41IywtglfFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KX1ZMHB-es Estante de Toalla Toallero de baño Barra de Toalla pared...'
 sku: 'B07KX1ZMHB-es'
 tags: [  ]

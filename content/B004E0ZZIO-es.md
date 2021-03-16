@@ -5,7 +5,7 @@ date: 2020-01-08 17:51:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/310gwcrKZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004E0ZZIO-es Columbia Sun Ridge Polo de Manga Corta Hombre Negro Black M'
 sku: 'B004E0ZZIO-es'
 tags: [  ]

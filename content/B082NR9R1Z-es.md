@@ -5,7 +5,7 @@ date: 2020-04-14 08:12:22
 image: 'https://m.media-amazon.com/images/I/51vM1wAYL2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NR9R1Z-es UniqueMe [3 Pack] Cristal Templado para Xiaommi Redmi Note...'
 sku: 'B082NR9R1Z-es'
 tags: [  ]

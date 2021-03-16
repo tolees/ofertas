@@ -5,7 +5,7 @@ date: 2020-03-02 19:45:52
 image: 'https://m.media-amazon.com/images/I/41YG3JwZ3FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J8ZJRFW-es Set de 8 cabezales de recambio Compatible para cepillo...'
 sku: 'B00J8ZJRFW-es'
 tags: [  ]

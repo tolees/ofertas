@@ -5,7 +5,7 @@ date: 2020-08-09 13:21:23
 image: 'https://m.media-amazon.com/images/I/31tZpznsPmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ZLAGLS-es OXO Good Grips 1312480V1MLNYK Cepillo Eléctrico para...'
 sku: 'B004ZLAGLS-es'
 tags: [  ]

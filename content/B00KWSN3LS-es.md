@@ -5,7 +5,7 @@ date: 2020-04-15 16:43:47
 image: 'https://m.media-amazon.com/images/I/51fp74e4hbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KWSN3LS-es iWork VS043P-R - Juego de 43 herramientas en bolsa...'
 sku: 'B00KWSN3LS-es'
 tags: [  ]

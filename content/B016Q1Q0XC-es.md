@@ -5,7 +5,7 @@ date: 2020-03-20 02:22:12
 image: 'https://m.media-amazon.com/images/I/31iSbiUiH-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016Q1Q0XC-es Maybelline New York Barra de Labios Color Drama 110'
 sku: 'B016Q1Q0XC-es'
 tags: [  ]

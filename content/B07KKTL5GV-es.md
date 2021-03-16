@@ -5,7 +5,7 @@ date: 2020-08-23 11:06:30
 image: 'https://m.media-amazon.com/images/I/31hL4s7Gq8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKTL5GV-es Beko - TAM4201B – Tostador para 2 rebanadas 850W potencia...'
 sku: 'B07KKTL5GV-es'
 tags: [  ]

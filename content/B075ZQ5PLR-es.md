@@ -5,7 +5,7 @@ date: 2020-07-20 13:26:00
 image: 'https://m.media-amazon.com/images/I/41k3Sg1ZWSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZQ5PLR-es Mujer Pantalones Largos deportivos SMARTLADY Patrón de...'
 sku: 'B075ZQ5PLR-es'
 tags: [  ]

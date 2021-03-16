@@ -5,7 +5,7 @@ date: 2020-06-17 07:45:25
 image: 'https://m.media-amazon.com/images/I/413RKamEy4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F0Q4GWW-es Universal 69-UN-99 - Boquilla para aspiradoras'
 sku: 'B00F0Q4GWW-es'
 tags: [  ]

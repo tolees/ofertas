@@ -5,7 +5,7 @@ date: 2020-06-28 11:48:51
 image: 'https://m.media-amazon.com/images/I/41btQ4c8f-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DG6J42K-es Gioseppo Zapatillas para Hombre Verde Kaki 45574-P 41 EU'
 sku: 'B07DG6J42K-es'
 tags: [  ]

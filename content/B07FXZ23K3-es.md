@@ -5,7 +5,7 @@ date: 2020-04-07 12:32:04
 image: 'https://m.media-amazon.com/images/I/41pdTm6WknL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXZ23K3-es Champion the Curvy Soutien-Gorge de Sport Femme Noir Noir...'
 sku: 'B07FXZ23K3-es'
 tags: [  ]

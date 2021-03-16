@@ -5,7 +5,7 @@ date: 2020-05-07 22:30:06
 image: 'https://m.media-amazon.com/images/I/51ZbmdCZzoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X5EY4BY-es Armani Exchange Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B00X5EY4BY-es'
 tags: [  ]

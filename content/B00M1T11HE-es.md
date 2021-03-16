@@ -5,7 +5,7 @@ date: 2020-08-13 07:32:05
 image: 'https://m.media-amazon.com/images/I/413ewzWNecL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M1T11HE-es Yazilind deslumbrante Ba?ado En Plata corte rojoondo...'
 sku: 'B00M1T11HE-es'
 tags: [  ]

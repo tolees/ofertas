@@ -5,7 +5,7 @@ date: 2020-03-24 08:52:44
 image: 'https://m.media-amazon.com/images/I/31FT9deZGJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KY9BSSD-es Eastpak SPRINGER Riñonera interior 23 cm 2 liters Azul...'
 sku: 'B07KY9BSSD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 08:57:55
 image: 'https://m.media-amazon.com/images/I/31BsA2Zg4aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FL9XBK5-es Philips Avent Biberón Natural SCF070/25 - Biberón de 260...'
 sku: 'B07FL9XBK5-es'
 tags: [  ]

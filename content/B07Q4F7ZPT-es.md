@@ -5,7 +5,7 @@ date: 2020-01-07 17:54:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xMQmlF57L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4F7ZPT-es Dockers by Gerli 44bn009 Zapatillas para Hombre Gris...'
 sku: 'B07Q4F7ZPT-es'
 tags: [  ]

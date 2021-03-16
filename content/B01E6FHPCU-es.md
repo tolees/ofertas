@@ -5,7 +5,7 @@ date: 2020-09-25 13:59:53
 image: 'https://m.media-amazon.com/images/I/4126q4o-oDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E6FHPCU-es Somfy 2400961 Kit de Alimentación Solar Gris'
 sku: 'B01E6FHPCU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-01 20:26:13
 image: 'https://m.media-amazon.com/images/I/41pjmURR4uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MTO15FE-es Max Factor Skin Luminizer Base de Maquillaje Líquida Tono...'
 sku: 'B00MTO15FE-es'
 tags: [  ]

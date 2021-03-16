@@ -5,7 +5,7 @@ date: 2020-04-12 13:03:24
 image: 'https://m.media-amazon.com/images/I/511qtMLzKmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6NX2Z7-es Lotus Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07R6NX2Z7-es'
 tags: [  ]

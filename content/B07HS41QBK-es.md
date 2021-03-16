@@ -5,7 +5,7 @@ date: 2020-04-18 02:27:58
 image: 'https://m.media-amazon.com/images/I/51Srn9G5-NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HS41QBK-es ASUS ROG STRIX Z390-H Gaming - Placa base Gaming ATX Intel...'
 sku: 'B07HS41QBK-es'
 tags: [  ]

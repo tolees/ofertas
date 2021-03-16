@@ -5,7 +5,7 @@ date: 2020-09-25 10:33:45
 image: 'https://m.media-amazon.com/images/I/41uETrGe7yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085QZY81G-es Finocam - Agenda Curso 2020-2021 Cuarto-155x217 Semana...'
 sku: 'B085QZY81G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-22 17:33:39
 image: 'https://m.media-amazon.com/images/I/41GRlvKX9PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMPCHBN-es adidas Club Sw Short 7 Pantalones Cortos de Deporte Hombre...'
 sku: 'B07KMPCHBN-es'
 tags: [  ]

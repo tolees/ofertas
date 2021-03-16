@@ -5,7 +5,7 @@ date: 2020-05-06 08:30:41
 image: 'https://m.media-amazon.com/images/I/41KqjKQCU9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5TXQR1-es Adidas Advantage Zapatillas de Deporte para Mujer...'
 sku: 'B07J5TXQR1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 15:55:45
 image: 'https://m.media-amazon.com/images/I/31SHBM-cd9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZXV5BW-es Tommy Hilfiger K1285esha 6d Zapatillas para Mujer Azul...'
 sku: 'B01MZXV5BW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-03 10:00:35
 image: 'https://m.media-amazon.com/images/I/41NjmIpOhFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WTHJ1XO-es AmazonBasics - Riñonera de viaje con tecnología RFID Negro'
 sku: 'B00WTHJ1XO-es'
 tags: [  ]

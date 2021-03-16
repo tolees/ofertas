@@ -5,7 +5,7 @@ date: 2020-03-13 07:47:15
 image: 'https://m.media-amazon.com/images/I/31bsq-yI+DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P23F2VH-es Skechers Sergeants-Verno Botas Clasicas para Hombre Negro...'
 sku: 'B07P23F2VH-es'
 tags: [  ]

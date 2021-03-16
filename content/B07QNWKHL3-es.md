@@ -5,7 +5,7 @@ date: 2020-07-24 14:34:47
 image: 'https://m.media-amazon.com/images/I/51S939a2n1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNWKHL3-es BODY & EARTH Canasta de regalo para mujeres set de regalo...'
 sku: 'B07QNWKHL3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-02 20:18:44
 image: 'https://m.media-amazon.com/images/I/51OZTdvwTAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013DJEHZ8-es Activision Blizzard Skylanders Superchargers - Vehicle...'
 sku: 'B013DJEHZ8-es'
 tags: [  ]

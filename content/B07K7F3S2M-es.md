@@ -5,7 +5,7 @@ date: 2020-03-14 07:08:32
 image: 'https://m.media-amazon.com/images/I/41AgsnZXxRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7F3S2M-es TACKLIFE Pistola de Riego Pistola de Agua de Jardín...'
 sku: 'B07K7F3S2M-es'
 tags: [  ]

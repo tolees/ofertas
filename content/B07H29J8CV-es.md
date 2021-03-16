@@ -5,7 +5,7 @@ date: 2020-06-21 13:03:30
 image: 'https://m.media-amazon.com/images/I/41JNw-D1OML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H29J8CV-es ZHXMALL [1 Unidades] Samsung Galaxy S9 Protector Pantalla...'
 sku: 'B07H29J8CV-es'
 tags: [  ]

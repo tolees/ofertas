@@ -5,7 +5,7 @@ date: 2020-09-16 17:14:11
 image: 'https://m.media-amazon.com/images/I/41saugy5QkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZHD2FY-es Bamibi® Almohada Cervical Ergonómica y Ortopédica con...'
 sku: 'B07XZHD2FY-es'
 tags: [  ]

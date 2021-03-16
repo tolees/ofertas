@@ -5,7 +5,7 @@ date: 2020-04-12 19:49:07
 image: 'https://m.media-amazon.com/images/I/41m078lMwQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBGDCV5-es Calvin Klein Plunge Sujetador con Push-up Negro Black 001...'
 sku: 'B07LBGDCV5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-26 17:05:19
 image: 'https://m.media-amazon.com/images/I/41XOHCySMDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HDQ5L7-es NAME IT Nkmhonk UNB Swe Long Shorts Noos Pantalones Cortos...'
 sku: 'B078HDQ5L7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 06:11:23
 image: 'https://m.media-amazon.com/images/I/413fX1odpPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCM31QV-es Dye Hair Comb 5 piezas Professional Hair Dying Tool...'
 sku: 'B07YCM31QV-es'
 tags: [  ]

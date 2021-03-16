@@ -5,7 +5,7 @@ date: 2020-07-08 21:38:05
 image: 'https://m.media-amazon.com/images/I/41kGEobZzAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EYIZ2CE-es Yazilind oro 18K plateado cuelga los pendientes de aro...'
 sku: 'B01EYIZ2CE-es'
 tags: [  ]

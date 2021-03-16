@@ -5,7 +5,7 @@ date: 2020-04-09 11:35:17
 image: 'https://m.media-amazon.com/images/I/31Ods33+doL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFWTZVP-es PUMA Carina Lux SD Zapatillas Mujer Negro Puma Black-Teal...'
 sku: 'B07KFWTZVP-es'
 tags: [  ]

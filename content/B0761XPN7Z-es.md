@@ -5,7 +5,7 @@ date: 2020-09-16 00:50:55
 image: 'https://m.media-amazon.com/images/I/41TqpsK-btL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0761XPN7Z-es Adidas Gazelle J Zapatillas de Gimnasia Unisex Adulto Rosa...'
 sku: 'B0761XPN7Z-es'
 tags: [  ]

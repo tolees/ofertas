@@ -5,7 +5,7 @@ date: 2020-07-27 09:50:34
 image: 'https://m.media-amazon.com/images/I/41Mq5Udbp-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J1NTN7M-es Philips Lighting Bombilla LED Foco GU10 Cristal Pack de 2...'
 sku: 'B01J1NTN7M-es'
 tags: [  ]

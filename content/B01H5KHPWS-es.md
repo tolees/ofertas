@@ -5,7 +5,7 @@ date: 2020-02-01 00:23:11
 image: 'https://m.media-amazon.com/images/I/41mmUe31M-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H5KHPWS-es Pikolin Home - Protector de colchón para cuna de rizo 100%...'
 sku: 'B01H5KHPWS-es'
 tags: [  ]

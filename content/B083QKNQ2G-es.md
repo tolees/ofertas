@@ -5,7 +5,7 @@ date: 2020-04-17 08:06:14
 image: 'https://m.media-amazon.com/images/I/51Z1EtZFx6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083QKNQ2G-es Asiento trasero Reposacabezas Creative Hook Organizador...'
 sku: 'B083QKNQ2G-es'
 tags: [  ]

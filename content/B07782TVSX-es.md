@@ -5,7 +5,7 @@ date: 2020-01-19 07:30:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ikQf5EGbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07782TVSX-es Kit de espátula de glaseado premium de 4 piezas WisFox...'
 sku: 'B07782TVSX-es'
 tags: [  ]

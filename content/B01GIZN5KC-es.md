@@ -5,7 +5,7 @@ date: 2020-07-02 21:08:47
 image: 'https://m.media-amazon.com/images/I/41wlFiW2dsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GIZN5KC-es MAPUX Soporte Movil Coche Soporte para Móvil Coche para...'
 sku: 'B01GIZN5KC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 18:03:21
 image: 'https://m.media-amazon.com/images/I/41ZbPe199aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXL7WFH-es Under Armour Launch Compression Pantalones Cortos Mujer...'
 sku: 'B07QXL7WFH-es'
 tags: [  ]

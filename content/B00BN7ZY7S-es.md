@@ -5,7 +5,7 @@ date: 2020-09-01 21:45:33
 image: 'https://m.media-amazon.com/images/I/310y6FNOVaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN7ZY7S-es VARON DANDY colonia masaje botella 1 lt'
 sku: 'B00BN7ZY7S-es'
 tags: [  ]

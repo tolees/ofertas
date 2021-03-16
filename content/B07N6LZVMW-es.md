@@ -5,7 +5,7 @@ date: 2020-04-03 16:57:09
 image: 'https://m.media-amazon.com/images/I/41PDXikODqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6LZVMW-es Tommy Hilfiger Tommy Fun Square Bufanda Multi 0hi Talla...'
 sku: 'B07N6LZVMW-es'
 tags: [  ]

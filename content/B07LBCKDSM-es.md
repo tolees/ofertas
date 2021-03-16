@@ -5,7 +5,7 @@ date: 2020-03-03 15:32:42
 image: 'https://m.media-amazon.com/images/I/31uYTv7Ft-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBCKDSM-es Kappa Modus II Zapatillas Unisex Adulto White/Black 1011...'
 sku: 'B07LBCKDSM-es'
 tags: [  ]

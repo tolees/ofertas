@@ -5,7 +5,7 @@ date: 2020-08-05 06:50:41
 image: 'https://m.media-amazon.com/images/I/51-hDI2AWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRGP2QT-es Azdome Altavoz Bluetooth 20W Waterproof IPX7 [15 Horas...'
 sku: 'B07HRGP2QT-es'
 tags: [  ]

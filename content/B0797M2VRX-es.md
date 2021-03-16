@@ -5,7 +5,7 @@ date: 2020-01-03 09:15:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oCzFnfSuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797M2VRX-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer White/Black/...'
 sku: 'B0797M2VRX-es'
 tags: [  ]

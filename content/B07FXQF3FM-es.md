@@ -5,7 +5,7 @@ date: 2020-09-17 18:11:33
 image: 'https://m.media-amazon.com/images/I/41tZ8TdXJWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXQF3FM-es Vans Filmore Decon Zapatillas para Hombre Rojo Canvas Port...'
 sku: 'B07FXQF3FM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-15 04:35:44
 image: 'https://m.media-amazon.com/images/I/31hoZu18B4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVLBM1Q-es J&C 18W Plafón LED Techo Blanco Natural - IP44 Ultra-fino...'
 sku: 'B07QVLBM1Q-es'
 tags: [  ]

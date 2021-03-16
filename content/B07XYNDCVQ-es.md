@@ -5,7 +5,7 @@ date: 2020-02-27 17:07:00
 image: 'https://m.media-amazon.com/images/I/41gfpRtiywL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYNDCVQ-es FMPC Funda Compatible con Xiaomi Mi 8 SE Caso Carcasa...'
 sku: 'B07XYNDCVQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 14:00:42
 image: 'https://m.media-amazon.com/images/I/3162Gx1Oo1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GHQPGQ4-es Intex 29002 - Cartucho para filtros para piscinas 2 unidades'
 sku: 'B00GHQPGQ4-es'
 tags: [  ]

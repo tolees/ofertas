@@ -5,7 +5,7 @@ date: 2020-04-09 08:27:14
 image: 'https://m.media-amazon.com/images/I/51hldoB-u2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HD9LY1O-es Instax Mini 70 Cámara instantánea analógica ISO 800 0.37x...'
 sku: 'B01HD9LY1O-es'
 tags: [  ]

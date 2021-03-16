@@ -5,7 +5,7 @@ date: 2020-03-11 11:17:54
 image: 'https://m.media-amazon.com/images/I/51iRNjGFgBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZ7NTS5-es Blackview BV1000 - Teléfono Móvil Dual SIM de 2.4" Batería...'
 sku: 'B07SZ7NTS5-es'
 tags: [  ]

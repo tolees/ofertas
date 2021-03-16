@@ -5,7 +5,7 @@ date: 2020-05-31 18:54:45
 image: 'https://m.media-amazon.com/images/I/419t-yD+9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SYXDSR-es Seiko Reloj Analógico para Hombre de Automático con Correa...'
 sku: 'B078SYXDSR-es'
 tags: [  ]

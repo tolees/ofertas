@@ -5,7 +5,7 @@ date: 2020-01-03 15:57:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31hkpan3TdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q15PFYF-es L Oreal Paris Color Queen Mono Sombra de Ojos Alta...'
 sku: 'B07Q15PFYF-es'
 tags: [  ]

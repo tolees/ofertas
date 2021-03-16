@@ -5,7 +5,7 @@ date: 2020-08-04 09:45:48
 image: 'https://m.media-amazon.com/images/I/41AlZdvYv-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRR42F4-es Suhctup Espejo Funda Reemplazo para Huawei Mate 10 Caso PC...'
 sku: 'B07ZRR42F4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 13:24:39
 image: 'https://m.media-amazon.com/images/I/41HyoBeGo1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFN3SYC-es Rubies 300194-TW Fortnite - Disfraz Skull Trooper para...'
 sku: 'B07HFN3SYC-es'
 tags: [  ]

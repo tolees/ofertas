@@ -5,7 +5,7 @@ date: 2020-05-13 19:05:56
 image: 'https://m.media-amazon.com/images/I/41KOOIoYXvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJ5SM84-es Sylvialuca MCP4725 I2C DAC Breakout Development Module...'
 sku: 'B07MJ5SM84-es'
 tags: [  ]

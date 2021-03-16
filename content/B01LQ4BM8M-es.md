@@ -5,7 +5,7 @@ date: 2020-09-22 14:06:24
 image: 'https://m.media-amazon.com/images/I/41DN2Gj4CHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQ4BM8M-es Razer Goliathus Speed Cosmic Medium - Suave alfombrilla de...'
 sku: 'B01LQ4BM8M-es'
 tags: [  ]

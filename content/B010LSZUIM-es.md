@@ -5,7 +5,7 @@ date: 2020-02-01 09:52:00
 image: 'https://m.media-amazon.com/images/I/31BwRX0UvzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010LSZUIM-es Brabantia 105340 Cepillo para la Ropa Gris'
 sku: 'B010LSZUIM-es'
 tags: [  ]

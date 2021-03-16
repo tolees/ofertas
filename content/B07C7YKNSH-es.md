@@ -5,7 +5,7 @@ date: 2020-01-16 08:16:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/517fuAeu4cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C7YKNSH-es Ao International Tennis'
 sku: 'B07C7YKNSH-es'
 tags: [  ]

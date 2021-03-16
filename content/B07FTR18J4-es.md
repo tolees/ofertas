@@ -5,7 +5,7 @@ date: 2020-03-06 08:11:25
 image: 'https://m.media-amazon.com/images/I/41lTPOOMF-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTR18J4-es Buff R-Luminance Cinta De Pelo Ancha Mujer Pink Talla única'
 sku: 'B07FTR18J4-es'
 tags: [  ]

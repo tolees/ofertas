@@ -5,7 +5,7 @@ date: 2020-03-27 16:32:53
 image: 'https://m.media-amazon.com/images/I/41F2dEtkriL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PZB1IAK-es Nike Court Royale Zapatillas para Mujer Negro Black/White...'
 sku: 'B00PZB1IAK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-08 19:05:26
 image: 'https://m.media-amazon.com/images/I/31HwqCV7IxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVHWQHJ-es Kipling - Sara Bolsos bandolera Mujer Rosa Metallic Rose'
 sku: 'B07MVHWQHJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-26 11:09:11
 image: 'https://m.media-amazon.com/images/I/41NM2jnMkXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019FKEZ7E-es BÉABA Babycook Duo Robot de cocina para bebés 4 en 1...'
 sku: 'B019FKEZ7E-es'
 tags: [  ]

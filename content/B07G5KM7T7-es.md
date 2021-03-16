@@ -5,7 +5,7 @@ date: 2020-03-16 10:49:18
 image: 'https://m.media-amazon.com/images/I/51BC7mlDH6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5KM7T7-es Funda nórdica estampada para cama de 105x190/200 Nórdico...'
 sku: 'B07G5KM7T7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 18:17:08
 image: 'https://m.media-amazon.com/images/I/519JrlF-iTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086X2LKQ3-es Ukerdo DIY Diamante Pintura Kits Lleno Taladro Flor...'
 sku: 'B086X2LKQ3-es'
 tags: [  ]

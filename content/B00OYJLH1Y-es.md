@@ -5,7 +5,7 @@ date: 2020-02-16 12:35:30
 image: 'https://m.media-amazon.com/images/I/31b-q70u6HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OYJLH1Y-es Deportes Hera Ropa Ciclismo Perneras Térmicas Calentadores...'
 sku: 'B00OYJLH1Y-es'
 tags: [  ]

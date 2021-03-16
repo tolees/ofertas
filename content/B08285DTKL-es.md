@@ -5,7 +5,7 @@ date: 2020-06-05 10:58:04
 image: 'https://m.media-amazon.com/images/I/31pDK7KGCwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08285DTKL-es Quiksilver Everyday 15" Swim SRT Pantalones Cortos De...'
 sku: 'B08285DTKL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-20 20:07:23
 image: 'https://m.media-amazon.com/images/I/413fA612ihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK41GPK-es Columbia Meadows Omni Botas para Mujer Blanco Roto Heat...'
 sku: 'B07KK41GPK-es'
 tags: [  ]

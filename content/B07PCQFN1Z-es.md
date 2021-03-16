@@ -5,7 +5,7 @@ date: 2020-04-14 00:26:31
 image: 'https://m.media-amazon.com/images/I/51usIiQVVbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCQFN1Z-es BE-TOOL - Cuchillas de sierra de calar T244D 5 piezas...'
 sku: 'B07PCQFN1Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-04 18:35:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51lZzVx-5SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7RJ83R-es B07W7RJ83R'
 sku: 'B07W7RJ83R-es'
 tags: [  ]

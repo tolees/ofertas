@@ -5,7 +5,7 @@ date: 2020-02-14 11:47:08
 image: 'https://m.media-amazon.com/images/I/51zvM9ez8QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKJF3SX-es Darksiders III - Edición Estándar'
 sku: 'B07FKJF3SX-es'
 tags: [  ]

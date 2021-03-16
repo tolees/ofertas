@@ -5,7 +5,7 @@ date: 2020-04-16 17:43:06
 image: 'https://m.media-amazon.com/images/I/61l+oDFLlBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWX1H77-es DoMyfit Organizador de Asiento de Coche para bebé...'
 sku: 'B07DWX1H77-es'
 tags: [  ]

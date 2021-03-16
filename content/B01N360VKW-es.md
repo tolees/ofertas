@@ -5,7 +5,7 @@ date: 2020-09-26 19:51:41
 image: 'https://m.media-amazon.com/images/I/412a118WYwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N360VKW-es Mesa de Camping Plegable Ultra-Ligera aleación de Aluminio...'
 sku: 'B01N360VKW-es'
 tags: [  ]

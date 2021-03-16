@@ -5,7 +5,7 @@ date: 2020-04-19 01:38:26
 image: 'https://m.media-amazon.com/images/I/41HvMMmjzVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4XW2JJ-es New Balance 997h Zapatillas para Hombre Verde Green/Gold...'
 sku: 'B07S4XW2JJ-es'
 tags: [  ]

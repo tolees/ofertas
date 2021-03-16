@@ -5,7 +5,7 @@ date: 2020-06-25 13:47:14
 image: 'https://m.media-amazon.com/images/I/51ISS4tvbaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MDFWGD-es Cutícula Clipper Kemei Cuticle Nippers 6PCS Profesional...'
 sku: 'B075MDFWGD-es'
 tags: [  ]

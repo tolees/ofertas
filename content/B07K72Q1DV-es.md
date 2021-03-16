@@ -5,7 +5,7 @@ date: 2020-02-22 10:28:01
 image: 'https://m.media-amazon.com/images/I/41NM0RVaWAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K72Q1DV-es Asics Gel-Sonoma 4 G-TX Walking Shoe Womens Black/Stone...'
 sku: 'B07K72Q1DV-es'
 tags: [  ]

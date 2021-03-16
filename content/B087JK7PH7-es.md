@@ -5,7 +5,7 @@ date: 2020-05-11 13:35:44
 image: 'https://m.media-amazon.com/images/I/31A7DXscpxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JK7PH7-es LNIEGE 1PC plástico 800ml Gel Bolas Carga de Botellas de...'
 sku: 'B087JK7PH7-es'
 tags: [  ]

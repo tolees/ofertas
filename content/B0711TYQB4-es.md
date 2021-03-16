@@ -5,7 +5,7 @@ date: 2020-02-20 12:14:00
 image: 'https://m.media-amazon.com/images/I/51RkWnMB4DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711TYQB4-es DC Figura de Vinilo Cyborg colección Justice League Funko...'
 sku: 'B0711TYQB4-es'
 tags: [  ]

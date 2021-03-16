@@ -5,7 +5,7 @@ date: 2020-07-17 13:32:22
 image: 'https://m.media-amazon.com/images/I/41OlGW1r3cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OG5SDPY-es DURAGADGET Riñonera Ajustable para Samsung HMX-QF30BP/EDC...'
 sku: 'B00OG5SDPY-es'
 tags: [  ]

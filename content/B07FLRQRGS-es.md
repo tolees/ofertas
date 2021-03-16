@@ -5,7 +5,7 @@ date: 2020-07-25 17:50:06
 image: 'https://m.media-amazon.com/images/I/41x-Gp1Mb3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLRQRGS-es KLIM - Alfombrilla de ratón M - Superficie Amplia -...'
 sku: 'B07FLRQRGS-es'
 tags: [  ]

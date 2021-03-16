@@ -5,7 +5,7 @@ date: 2020-07-19 22:08:27
 image: 'https://m.media-amazon.com/images/I/51UG+sWrSGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFCCZLB-es JIMIGO 16XL Alta Capacidad Cartuchos de Tinta para Epson...'
 sku: 'B07TFCCZLB-es'
 tags: [  ]

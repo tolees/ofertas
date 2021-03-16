@@ -5,7 +5,7 @@ date: 2020-05-13 03:08:29
 image: 'https://m.media-amazon.com/images/I/512wucZowwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9NY8FP-es Paletero Bullpadel 17004 Yellow'
 sku: 'B06X9NY8FP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-01 23:47:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51K5x2ByYqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHD2G3S-es Electirc Mini Máquina del Vacío con Paquete de 8 Bolsas de...'
 sku: 'B07ZHD2G3S-es'
 tags: [  ]

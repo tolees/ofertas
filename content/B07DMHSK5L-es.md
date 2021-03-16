@@ -5,7 +5,7 @@ date: 2020-05-07 16:29:05
 image: 'https://m.media-amazon.com/images/I/31ncdwL5hsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DMHSK5L-es Philips Avent SCF043/27-2 - Tetinas natural flujo medio...'
 sku: 'B07DMHSK5L-es'
 tags: [  ]

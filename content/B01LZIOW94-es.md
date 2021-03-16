@@ -5,7 +5,7 @@ date: 2020-08-11 02:56:12
 image: 'https://m.media-amazon.com/images/I/41ZjTHIX4uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZIOW94-es Sigma 09162 Ciclocomputador Negro Talla Única'
 sku: 'B01LZIOW94-es'
 tags: [  ]

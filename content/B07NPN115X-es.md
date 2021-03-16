@@ -5,7 +5,7 @@ date: 2020-07-20 09:10:56
 image: 'https://m.media-amazon.com/images/I/314XZNf0+XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPN115X-es Tommy Hilfiger Corporate Flatform Sneaker Zapatillas para...'
 sku: 'B07NPN115X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-17 09:00:45
 image: 'https://m.media-amazon.com/images/I/510UUC-cEpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPBF24Y-es Naipo Mesa de Masaje Plegable de 2 Secciones Camilla...'
 sku: 'B06XPBF24Y-es'
 tags: [  ]

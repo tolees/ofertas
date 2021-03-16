@@ -5,7 +5,7 @@ date: 2020-06-30 21:00:20
 image: 'https://m.media-amazon.com/images/I/411tmhjA6dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SFTJCR-es Luchild Almohada Embarazada Multifuncional Cojín Lactancia...'
 sku: 'B082SFTJCR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 14:54:10
 image: 'https://m.media-amazon.com/images/I/61zx3v9vSOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B42MF7N-es Ravensburger-00.016.099 Puzle Shaped Mickey Color Amarillo...'
 sku: 'B07B42MF7N-es'
 tags: [  ]

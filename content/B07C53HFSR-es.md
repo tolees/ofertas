@@ -5,7 +5,7 @@ date: 2020-05-03 09:26:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/516Y9oXFqyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C53HFSR-es San Ignacio Set de Cuchillos Chuleteros Acero Inoxidable...'
 sku: 'B07C53HFSR-es'
 tags: [  ]

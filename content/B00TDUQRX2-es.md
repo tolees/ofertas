@@ -5,7 +5,7 @@ date: 2020-01-14 11:53:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415nscqngLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TDUQRX2-es Belkin F8M730btWHT - Cargador Premium para el coche USB 12...'
 sku: 'B00TDUQRX2-es'
 tags: [  ]

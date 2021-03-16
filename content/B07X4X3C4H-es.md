@@ -5,7 +5,7 @@ date: 2020-03-07 08:50:53
 image: 'https://m.media-amazon.com/images/I/513gK8TuDLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4X3C4H-es GSOTTA Calcetines deportivos 6 paquetes calcetines para...'
 sku: 'B07X4X3C4H-es'
 tags: [  ]

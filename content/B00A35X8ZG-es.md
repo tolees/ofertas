@@ -5,7 +5,7 @@ date: 2020-06-28 17:56:18
 image: 'https://m.media-amazon.com/images/I/51FDyBrykSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A35X8ZG-es Sigma 340306 35 mm / F 1 4 DG HSM - Objetivo para Nikon...'
 sku: 'B00A35X8ZG-es'
 tags: [  ]

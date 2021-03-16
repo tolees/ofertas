@@ -5,7 +5,7 @@ date: 2020-07-02 08:45:53
 image: 'https://m.media-amazon.com/images/I/51MZA4uRKYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0841L1QWQ-es Panamami 2018 New Water Guns Pool Toys para niños Squirt...'
 sku: 'B0841L1QWQ-es'
 tags: [  ]

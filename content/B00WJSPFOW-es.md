@@ -5,7 +5,7 @@ date: 2020-02-20 17:21:34
 image: 'https://m.media-amazon.com/images/I/31NyGUjNwxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WJSPFOW-es Belkin Cable de Carga USB 2.0 USB-A a USB Type C USB-C de...'
 sku: 'B00WJSPFOW-es'
 tags: [  ]

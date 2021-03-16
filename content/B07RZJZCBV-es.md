@@ -5,7 +5,7 @@ date: 2020-09-23 20:19:09
 image: 'https://m.media-amazon.com/images/I/41-Rh8CbdBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZJZCBV-es Mizuno Wave Daichi 5 Zapatillas de Running para Asfalto...'
 sku: 'B07RZJZCBV-es'
 tags: [  ]

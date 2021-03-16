@@ -5,7 +5,7 @@ date: 2020-01-06 13:31:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51djAIEz6qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N78XLVN-es Inodoro de Bandeja para Perros Césped Artificial con Cajón...'
 sku: 'B01N78XLVN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-16 15:33:11
 image: 'https://m.media-amazon.com/images/I/51isX5uNsxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRPD234-es Zuzpao Bolsas de Vacio 2 Rollos para sellar al vacío sin...'
 sku: 'B07SRPD234-es'
 tags: [  ]

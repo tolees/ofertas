@@ -5,7 +5,7 @@ date: 2020-02-09 18:05:26
 image: 'https://m.media-amazon.com/images/I/41UTudj4NQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMVL29V-es Saucony Triumph ISO 5 Zapatillas de Running para Hombre...'
 sku: 'B07MMVL29V-es'
 tags: [  ]

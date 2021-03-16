@@ -5,7 +5,7 @@ date: 2020-08-04 14:02:56
 image: 'https://m.media-amazon.com/images/I/31UgM9QK2jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MUB7JRO-es Camper Beetle Zapatillas Altas para Hombre Gris Dark Gray...'
 sku: 'B00MUB7JRO-es'
 tags: [  ]

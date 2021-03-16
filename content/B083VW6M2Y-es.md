@@ -5,7 +5,7 @@ date: 2020-05-14 10:09:10
 image: 'https://m.media-amazon.com/images/I/41xxSr0WRuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083VW6M2Y-es Panamami Interfaz NGFF M2 Unidad de Estado sólido a USB3.0...'
 sku: 'B083VW6M2Y-es'
 tags: [  ]

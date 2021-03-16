@@ -5,7 +5,7 @@ date: 2020-07-24 16:30:47
 image: 'https://m.media-amazon.com/images/I/41bv6G51qjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895QQC4V-es Wakana Ventilador Portatil Ventilador Cuello Diseño de...'
 sku: 'B0895QQC4V-es'
 tags: [  ]

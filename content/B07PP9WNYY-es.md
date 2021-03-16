@@ -5,7 +5,7 @@ date: 2020-04-10 13:34:32
 image: 'https://m.media-amazon.com/images/I/411UZ69vw3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PP9WNYY-es BenQ W1720 - Proyector DLP con auténtica resolucion 4K UHD...'
 sku: 'B07PP9WNYY-es'
 tags: [  ]

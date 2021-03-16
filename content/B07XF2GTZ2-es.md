@@ -5,7 +5,7 @@ date: 2020-04-08 12:35:48
 image: 'https://m.media-amazon.com/images/I/415o0NK9AqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XF2GTZ2-es POWEROWL Cargador de Pilas AA AAA con 16 Ranuras para Ni-...'
 sku: 'B07XF2GTZ2-es'
 tags: [  ]

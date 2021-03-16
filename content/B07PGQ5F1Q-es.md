@@ -5,7 +5,7 @@ date: 2020-04-06 10:32:43
 image: 'https://m.media-amazon.com/images/I/314QnKk1jIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGQ5F1Q-es Scarpa Fila Venom Low Bianca Fuxia nera'
 sku: 'B07PGQ5F1Q-es'
 tags: [  ]

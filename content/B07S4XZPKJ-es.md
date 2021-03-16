@@ -5,7 +5,7 @@ date: 2020-06-25 08:56:37
 image: 'https://m.media-amazon.com/images/I/41JhHE3Jj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4XZPKJ-es New Balance 500 h Zapatillas para Hombre Azul Blue TSB 43 EU'
 sku: 'B07S4XZPKJ-es'
 tags: [  ]

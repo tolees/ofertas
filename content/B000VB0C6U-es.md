@@ -5,7 +5,7 @@ date: 2020-09-10 16:21:14
 image: 'https://m.media-amazon.com/images/I/41QJ+k3GBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VB0C6U-es LE CREUSET Zen Tetera Acero Inoxidable Rojo Cereza 1 6 L'
 sku: 'B000VB0C6U-es'
 tags: [  ]

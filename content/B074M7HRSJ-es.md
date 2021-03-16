@@ -5,7 +5,7 @@ date: 2020-03-31 12:35:31
 image: 'https://m.media-amazon.com/images/I/51KM4fjdETL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074M7HRSJ-es Bandeja de Hielo Diamante Moldes para Cubitos de Hielo...'
 sku: 'B074M7HRSJ-es'
 tags: [  ]

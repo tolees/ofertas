@@ -5,7 +5,7 @@ date: 2020-02-23 15:48:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ug1IhBHKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6PN4TD-es Skechers Ultra Flex-More Tranquility Zapatillas para Mujer...'
 sku: 'B07J6PN4TD-es'
 tags: [  ]

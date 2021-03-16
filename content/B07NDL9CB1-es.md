@@ -5,7 +5,7 @@ date: 2020-10-12 20:05:42
 image: 'https://m.media-amazon.com/images/I/41+bBGAeMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL9CB1-es Skechers Men s Dynamight 2.0-fallford Trainers Negro Black...'
 sku: 'B07NDL9CB1-es'
 tags: [  ]

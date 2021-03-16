@@ -5,7 +5,7 @@ date: 2020-01-02 00:02:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61MW-huRRpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018NMTBOC-es Bizak-5025123225111 Color 61952511'
 sku: 'B018NMTBOC-es'
 tags: [  ]

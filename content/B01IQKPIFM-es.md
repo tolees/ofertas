@@ -5,7 +5,7 @@ date: 2020-03-08 05:19:37
 image: 'https://m.media-amazon.com/images/I/21hioytA+NL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IQKPIFM-es Revlon Ultra HD Pintalabios Matte #675 Infatuation'
 sku: 'B01IQKPIFM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 10:06:49
 image: 'https://m.media-amazon.com/images/I/41eDg0UgnRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C26OQMI-es NRS Healthcare M66613 - Asiento para inodoro altura ajustable'
 sku: 'B00C26OQMI-es'
 tags: [  ]

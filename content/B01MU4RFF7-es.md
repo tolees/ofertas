@@ -5,7 +5,7 @@ date: 2020-07-09 06:48:38
 image: 'https://m.media-amazon.com/images/I/51O8+l6ZRJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU4RFF7-es Intex 56640EU - Manguitos hinchables Licencia Frozen'
 sku: 'B01MU4RFF7-es'
 tags: [  ]

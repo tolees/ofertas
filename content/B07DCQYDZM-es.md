@@ -5,7 +5,7 @@ date: 2020-02-13 10:41:02
 image: 'https://m.media-amazon.com/images/I/51B-pqZOyfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCQYDZM-es Babolat Viper Jr 2019 Adultos Unisex Multicolor Talla Unica'
 sku: 'B07DCQYDZM-es'
 tags: [  ]

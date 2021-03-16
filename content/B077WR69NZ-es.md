@@ -5,7 +5,7 @@ date: 2020-09-21 08:32:33
 image: 'https://m.media-amazon.com/images/I/517IQ6C2JeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077WR69NZ-es Funda impermeable de Kayond para ordenador portátil de 11...'
 sku: 'B077WR69NZ-es'
 tags: [  ]

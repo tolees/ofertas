@@ -5,7 +5,7 @@ date: 2020-09-11 21:38:43
 image: 'https://m.media-amazon.com/images/I/51ludIhQW+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X3V34PV-es Bosch Professional 2608615065 Bosch 2608615065-Disco de...'
 sku: 'B06X3V34PV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 09:09:53
 image: 'https://m.media-amazon.com/images/I/51QFs3w27lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ53Y2V-es Women s Secret Bralettes 2 Sbhtop Sujetador de triángulo...'
 sku: 'B07TZ53Y2V-es'
 tags: [  ]

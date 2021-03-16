@@ -5,7 +5,7 @@ date: 2020-05-25 08:46:10
 image: 'https://m.media-amazon.com/images/I/41UFj4o4PkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OYHNZW-es ABUS 27161 Anclaje antirrobo de pared / piso 1 unidad negro'
 sku: 'B000OYHNZW-es'
 tags: [  ]

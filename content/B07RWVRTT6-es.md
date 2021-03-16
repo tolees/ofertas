@@ -5,7 +5,7 @@ date: 2020-07-17 12:38:33
 image: 'https://m.media-amazon.com/images/I/51qjI+kz18L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWVRTT6-es Diesel ShoesDiscover-me OderzoHombreCarterasMulticolor...'
 sku: 'B07RWVRTT6-es'
 tags: [  ]

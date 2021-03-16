@@ -5,7 +5,7 @@ date: 2020-02-14 17:07:36
 image: 'https://m.media-amazon.com/images/I/51ZQiG8+OiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM4QM9T-es EECOO 1200W LED Cultivo Interior Plantas Led Grow Light...'
 sku: 'B07MM4QM9T-es'
 tags: [  ]

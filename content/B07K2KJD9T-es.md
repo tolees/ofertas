@@ -5,7 +5,7 @@ date: 2020-02-04 09:38:57
 image: 'https://m.media-amazon.com/images/I/314uUoqqFyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2KJD9T-es Adidas RUNFALCON K Zapatillas Deportivas Unisex niño Negro...'
 sku: 'B07K2KJD9T-es'
 tags: [  ]

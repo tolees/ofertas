@@ -5,7 +5,7 @@ date: 2020-07-28 19:41:26
 image: 'https://m.media-amazon.com/images/I/41-Y79xJmbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4RVDTS-es 10 unidades de esponja resistente al polvo lavable...'
 sku: 'B07R4RVDTS-es'
 tags: [  ]

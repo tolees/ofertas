@@ -5,7 +5,7 @@ date: 2020-08-30 20:01:41
 image: 'https://m.media-amazon.com/images/I/41zSnnVK6XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QXDTMN-es Kingston KC2500 NVMe PCIe SSD -SKC2500M8/500G M.2 2280 500 GB'
 sku: 'B087QXDTMN-es'
 tags: [  ]

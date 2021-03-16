@@ -5,7 +5,7 @@ date: 2020-05-20 09:27:15
 image: 'https://m.media-amazon.com/images/I/41C4-YUX+VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPBTYRN-es Wrangler Larston Slim Jeans Indigo Wit 32W / 34L para Hombre'
 sku: 'B07BPBTYRN-es'
 tags: [  ]

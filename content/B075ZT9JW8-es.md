@@ -5,7 +5,7 @@ date: 2020-04-25 21:10:34
 image: 'https://m.media-amazon.com/images/I/41eQ8VBHT0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZT9JW8-es VICTSING Transmisor FM Bluetooth 4.1 para Coche Mini Manos...'
 sku: 'B075ZT9JW8-es'
 tags: [  ]

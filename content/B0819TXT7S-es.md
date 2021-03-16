@@ -5,7 +5,7 @@ date: 2020-04-15 16:48:20
 image: 'https://m.media-amazon.com/images/I/5108fYJ2XBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0819TXT7S-es Young & Min Funda para Xiaomi Mi Note 10 / Note 10 Pro 3...'
 sku: 'B0819TXT7S-es'
 tags: [  ]

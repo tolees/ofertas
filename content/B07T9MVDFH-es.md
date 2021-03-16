@@ -5,7 +5,7 @@ date: 2020-04-15 13:03:49
 image: 'https://m.media-amazon.com/images/I/41DPEeV8YuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9MVDFH-es Calcetines de Bambú 3 Pares Negro EU 43-47'
 sku: 'B07T9MVDFH-es'
 tags: [  ]

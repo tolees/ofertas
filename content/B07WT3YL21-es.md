@@ -5,7 +5,7 @@ date: 2020-01-25 19:46:41
 image: 'https://m.media-amazon.com/images/I/51mA-Fkr7eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WT3YL21-es Qisiewell Cadenas de Nieve Universale Cadenas de...'
 sku: 'B07WT3YL21-es'
 tags: [  ]

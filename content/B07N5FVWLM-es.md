@@ -5,7 +5,7 @@ date: 2020-04-14 16:56:41
 image: 'https://m.media-amazon.com/images/I/510Qgclc7aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5FVWLM-es Bed Comforter King King size quilt handmade Bright Quilt...'
 sku: 'B07N5FVWLM-es'
 tags: [  ]

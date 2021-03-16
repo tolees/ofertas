@@ -5,7 +5,7 @@ date: 2020-03-22 16:57:01
 image: 'https://m.media-amazon.com/images/I/41OauT6V5uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPFJ89D-es New Balance Wl574 - Zapatillas para Mujer Black/White 36.5 EU'
 sku: 'B07QPFJ89D-es'
 tags: [  ]

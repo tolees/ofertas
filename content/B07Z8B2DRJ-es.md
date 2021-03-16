@@ -5,7 +5,7 @@ date: 2020-08-07 06:38:06
 image: 'https://m.media-amazon.com/images/I/41Q7y5iq7cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z8B2DRJ-es Middle Moon Pala de Pádel ATILA Carbon 24K 2019'
 sku: 'B07Z8B2DRJ-es'
 tags: [  ]

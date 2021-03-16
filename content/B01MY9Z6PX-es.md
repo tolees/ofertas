@@ -5,7 +5,7 @@ date: 2020-06-14 19:09:09
 image: 'https://m.media-amazon.com/images/I/41RN0L9xqsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY9Z6PX-es Victoria Basket Lona Piso Negro Zapatillas Unisex Adulto...'
 sku: 'B01MY9Z6PX-es'
 tags: [  ]

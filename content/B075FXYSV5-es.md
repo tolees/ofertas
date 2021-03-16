@@ -5,7 +5,7 @@ date: 2020-03-26 16:16:46
 image: 'https://m.media-amazon.com/images/I/41Vtd9xfgvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FXYSV5-es Qubo Ares BL - Smartphone de 2.4" Memoria de 32 MB cámara...'
 sku: 'B075FXYSV5-es'
 tags: [  ]

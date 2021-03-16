@@ -5,7 +5,7 @@ date: 2020-03-13 16:19:18
 image: 'https://m.media-amazon.com/images/I/51tJ+lI6brL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R10ZUWU-es Gillette Fusion ProGlide - Cuchillas de recambio para...'
 sku: 'B00R10ZUWU-es'
 tags: [  ]

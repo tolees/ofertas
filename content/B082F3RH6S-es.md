@@ -5,7 +5,7 @@ date: 2020-03-06 08:32:32
 image: 'https://m.media-amazon.com/images/I/51bGJGvMW1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082F3RH6S-es Luces LED de cortina Carpa brillante 300 LED 3mx3m 4 modos...'
 sku: 'B082F3RH6S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-13 17:52:38
 image: 'https://m.media-amazon.com/images/I/41ar9EZia6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLFMV47-es Levi s Housemark Multicolor Hm Patch Polo Dress...'
 sku: 'B07TLFMV47-es'
 tags: [  ]

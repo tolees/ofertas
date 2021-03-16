@@ -5,7 +5,7 @@ date: 2020-04-03 01:33:10
 image: 'https://m.media-amazon.com/images/I/31-fJx1KGOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VM8PBS-es Relaxdays Estantería y Toallero Escalera para Baño Bambú...'
 sku: 'B079VM8PBS-es'
 tags: [  ]

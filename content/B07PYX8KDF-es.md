@@ -5,7 +5,7 @@ date: 2020-09-15 08:46:16
 image: 'https://m.media-amazon.com/images/I/51WEOjWx5ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYX8KDF-es Tangle Teezer Cepillo Para El Pelo 4 Unidades 100 g'
 sku: 'B07PYX8KDF-es'
 tags: [  ]

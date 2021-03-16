@@ -5,7 +5,7 @@ date: 2020-01-07 12:29:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51w8SujyR%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0083IVT5G-es IBRA® Promo - 15m- Cable HDMI de alta velocidad | nuevo...'
 sku: 'B0083IVT5G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-30 14:18:23
 image: 'https://m.media-amazon.com/images/I/41RVHdVyCcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2QMG5S-es New Balance 411 Zapatillas Deportivas para Interior para...'
 sku: 'B07S2QMG5S-es'
 tags: [  ]

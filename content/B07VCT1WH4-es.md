@@ -5,7 +5,7 @@ date: 2020-06-24 13:46:46
 image: 'https://m.media-amazon.com/images/I/31aVjhwQE5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCT1WH4-es Pepe Jeans Kenton Sport Zapatillas para Hombre Azul Marino...'
 sku: 'B07VCT1WH4-es'
 tags: [  ]

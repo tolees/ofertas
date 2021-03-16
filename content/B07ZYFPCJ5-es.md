@@ -5,7 +5,7 @@ date: 2020-06-06 19:34:10
 image: 'https://m.media-amazon.com/images/I/41Grz1MG+pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZYFPCJ5-es BlueXP 2 Pieza Soporte de Techo Lámpara E27 Accesorios...'
 sku: 'B07ZYFPCJ5-es'
 tags: [  ]

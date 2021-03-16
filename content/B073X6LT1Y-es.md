@@ -5,7 +5,7 @@ date: 2020-06-29 07:57:31
 image: 'https://m.media-amazon.com/images/I/31JzvQ+0BjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073X6LT1Y-es Foodsaver FFS014X-01 Envasadora al vacío 140 W Acero...'
 sku: 'B073X6LT1Y-es'
 tags: [  ]

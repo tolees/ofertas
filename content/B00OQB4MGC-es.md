@@ -5,7 +5,7 @@ date: 2020-03-16 09:18:23
 image: 'https://m.media-amazon.com/images/I/31kOlcmHddL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OQB4MGC-es High Peak Bermuda Tarp Grau Tienda Gris 360 x 360 x 360 cm'
 sku: 'B00OQB4MGC-es'
 tags: [  ]

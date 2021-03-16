@@ -5,7 +5,7 @@ date: 2020-02-23 10:01:37
 image: 'https://m.media-amazon.com/images/I/31lg9tK149L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BWRN8KW-es Homyl 1.44mb 3.5"USB Unidad de Disquete Externa con...'
 sku: 'B07BWRN8KW-es'
 tags: [  ]

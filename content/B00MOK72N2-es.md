@@ -5,7 +5,7 @@ date: 2020-08-05 16:14:31
 image: 'https://m.media-amazon.com/images/I/41uWzZNbpnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MOK72N2-es Microplane 48709 Cortador en Espiral Verde 7.62x5.72x13.34 cm'
 sku: 'B00MOK72N2-es'
 tags: [  ]

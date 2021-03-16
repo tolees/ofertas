@@ -5,7 +5,7 @@ date: 2020-09-18 18:19:51
 image: 'https://m.media-amazon.com/images/I/316PVVCy-jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RE3OWU-es Brabantia 365225 - Cucharón sopero Nylon Color Negro'
 sku: 'B000RE3OWU-es'
 tags: [  ]

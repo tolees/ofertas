@@ -5,7 +5,7 @@ date: 2020-04-04 17:45:42
 image: 'https://m.media-amazon.com/images/I/317dAG3IRiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000FIZNC2-es Shimano Fx Spinning 66Mhb2 195Mh'
 sku: 'B000FIZNC2-es'
 tags: [  ]

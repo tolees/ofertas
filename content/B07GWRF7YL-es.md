@@ -5,7 +5,7 @@ date: 2020-08-04 11:47:42
 image: 'https://m.media-amazon.com/images/I/41TzmP+gPnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWRF7YL-es Suunto 9 Reloj con GPS para Multideporte Unisex Blanco...'
 sku: 'B07GWRF7YL-es'
 tags: [  ]

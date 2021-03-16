@@ -5,7 +5,7 @@ date: 2020-02-02 00:04:19
 image: 'https://m.media-amazon.com/images/I/31pi4Em00AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GRK5RP7-es Khanomak Slip Llano de la Alta Subida de la Mujer sobre el...'
 sku: 'B07GRK5RP7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-25 09:05:06
 image: 'https://m.media-amazon.com/images/I/41iKbLDvPkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB8TM46-es ZAPATILLAS SIUX TSUNAMI ROYAL AMARILLO'
 sku: 'B07BB8TM46-es'
 tags: [  ]

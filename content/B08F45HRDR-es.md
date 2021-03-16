@@ -5,7 +5,7 @@ date: 2020-09-14 11:45:42
 image: 'https://m.media-amazon.com/images/I/41mk4wsRpEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F45HRDR-es XINFULUK Baño a Prueba de Agua Juguetes de luz LED Niños...'
 sku: 'B08F45HRDR-es'
 tags: [  ]

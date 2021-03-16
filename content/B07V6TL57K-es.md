@@ -5,7 +5,7 @@ date: 2020-08-18 17:47:54
 image: 'https://m.media-amazon.com/images/I/31DPOZNcULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6TL57K-es Tommy Hilfiger Essential Tommy Jeans Sneaker Zapatillas...'
 sku: 'B07V6TL57K-es'
 tags: [  ]

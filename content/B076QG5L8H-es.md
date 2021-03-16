@@ -5,7 +5,7 @@ date: 2020-01-07 10:44:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31omTXN2YnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QG5L8H-es Chicco Baby Hug 4en1 Sistema multifunción: moisés hamaca...'
 sku: 'B076QG5L8H-es'
 tags: [  ]

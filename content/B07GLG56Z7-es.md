@@ -5,7 +5,7 @@ date: 2020-04-16 18:07:49
 image: 'https://m.media-amazon.com/images/I/51WdkPQmjYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLG56Z7-es 100g 0.22LB China Yunnan conservas de té Puerh Chen Xiang...'
 sku: 'B07GLG56Z7-es'
 tags: [  ]

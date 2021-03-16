@@ -5,7 +5,7 @@ date: 2020-06-30 11:00:15
 image: 'https://m.media-amazon.com/images/I/513ki9m1txL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0867CFC3S-es Maquina Cortapelo Cortapelos Hombre Cortapelos Juego de...'
 sku: 'B0867CFC3S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-14 09:21:52
 image: 'https://m.media-amazon.com/images/I/51KKTrOtHvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SR76VQK-es Chok Idea Innovador Hebilla Piel Genuina Correa Compatible...'
 sku: 'B07SR76VQK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 12:35:36
 image: 'https://m.media-amazon.com/images/I/41YNXOcNrUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDD9SF9-es Ingenuity 11576-1 - Asiento elevador'
 sku: 'B07NDD9SF9-es'
 tags: [  ]

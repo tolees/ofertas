@@ -5,7 +5,7 @@ date: 2020-09-05 18:40:49
 image: 'https://m.media-amazon.com/images/I/41y6xwcJYUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ2HLPG-es Denivit Anti-manchas Intensivo Dentífrico con Flour de Uso...'
 sku: 'B01LZ2HLPG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 14:24:06
 image: 'https://m.media-amazon.com/images/I/41WGoG8ACUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5NB8P7-es Salomon XA Compact CA Gorra Ligera para Corriendo Unisex...'
 sku: 'B07H5NB8P7-es'
 tags: [  ]

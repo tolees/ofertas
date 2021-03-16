@@ -5,7 +5,7 @@ date: 2020-08-27 12:39:58
 image: 'https://m.media-amazon.com/images/I/31vvWyXV9TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZLHH5N-es Guerlain Orchidée Impériale Crème Yeux 15 ml 100 g'
 sku: 'B079ZLHH5N-es'
 tags: [  ]

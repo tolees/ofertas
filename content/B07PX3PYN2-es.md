@@ -5,7 +5,7 @@ date: 2020-02-19 23:22:51
 image: 'https://m.media-amazon.com/images/I/31SfMjXFq6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PX3PYN2-es Todocama - Almohada viscoelástica Cervical con diseño...'
 sku: 'B07PX3PYN2-es'
 tags: [  ]

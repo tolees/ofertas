@@ -5,7 +5,7 @@ date: 2020-08-07 13:09:55
 image: 'https://m.media-amazon.com/images/I/41772D6zXaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3YH6V3-es IPOTCH Calcomanías de Soplador Protector Pegatinas...'
 sku: 'B07L3YH6V3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-03 17:15:42
 image: 'https://m.media-amazon.com/images/I/41gDheC1EPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00061RWQS-es HP Q5949A 49A Cartucho de Tóner Original 1 unidad negro'
 sku: 'B00061RWQS-es'
 tags: [  ]

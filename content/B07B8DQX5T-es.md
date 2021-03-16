@@ -5,7 +5,7 @@ date: 2020-02-04 15:48:19
 image: 'https://m.media-amazon.com/images/I/61F2iLLGANL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8DQX5T-es FOREO UFO - Tratamiento de Mascarilla Inteligente Color...'
 sku: 'B07B8DQX5T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-05 11:35:55
 image: 'https://m.media-amazon.com/images/I/41zQx-DR+mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMHY5Q9-es Philips AVENT SCF746/01 vaso de aprendizaje con boquilla -...'
 sku: 'B07TMHY5Q9-es'
 tags: [  ]

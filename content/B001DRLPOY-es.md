@@ -5,7 +5,7 @@ date: 2020-09-21 20:48:46
 image: 'https://m.media-amazon.com/images/I/41k6-7vVKbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DRLPOY-es MANN-FILTER HU 711/51 X Set de Filtro de aceite juego de...'
 sku: 'B001DRLPOY-es'
 tags: [  ]

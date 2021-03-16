@@ -5,7 +5,7 @@ date: 2020-04-11 18:35:35
 image: 'https://m.media-amazon.com/images/I/41nybixo6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MH4H4N3-es UniqueMe [3 Pack] Protector de Pantalla para Huawei Honor...'
 sku: 'B07MH4H4N3-es'
 tags: [  ]

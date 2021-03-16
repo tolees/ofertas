@@ -5,7 +5,7 @@ date: 2020-05-27 08:06:07
 image: 'https://m.media-amazon.com/images/I/31I1K-H3jnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0812DMGJC-es L Oréal Infalible 24 H Matte Cover Base De Maquillaje Alta...'
 sku: 'B0812DMGJC-es'
 tags: [  ]

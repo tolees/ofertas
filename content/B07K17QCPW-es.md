@@ -5,7 +5,7 @@ date: 2020-09-23 04:21:59
 image: 'https://m.media-amazon.com/images/I/312hStRoo9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K17QCPW-es Adidas Tiro 19 Polyestere Hose Pantalones Deportivos...'
 sku: 'B07K17QCPW-es'
 tags: [  ]

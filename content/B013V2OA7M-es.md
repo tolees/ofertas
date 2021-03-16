@@ -5,7 +5,7 @@ date: 2020-03-02 21:21:40
 image: 'https://m.media-amazon.com/images/I/51yQmFqq9WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013V2OA7M-es Dark Souls III - Edición Apocalypse'
 sku: 'B013V2OA7M-es'
 tags: [  ]

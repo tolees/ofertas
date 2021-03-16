@@ -5,7 +5,7 @@ date: 2020-06-23 08:25:36
 image: 'https://m.media-amazon.com/images/I/31aOSKFKP+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4PVU3Z-es Justfwater Deporte Botella de Agua de Cristal con Funda de...'
 sku: 'B01M4PVU3Z-es'
 tags: [  ]

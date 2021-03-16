@@ -5,7 +5,7 @@ date: 2020-08-10 16:00:58
 image: 'https://m.media-amazon.com/images/I/41kyvllbT6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F2JVFS3-es Auriculares Bluetooth 5.0 Inalámbricos TWS i11 Touch...'
 sku: 'B08F2JVFS3-es'
 tags: [  ]

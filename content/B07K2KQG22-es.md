@@ -5,7 +5,7 @@ date: 2020-07-15 10:59:02
 image: 'https://m.media-amazon.com/images/I/41Kz-mmXBTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2KQG22-es adidas Runfalcon Zapatillas de Running para Hombre Rojo...'
 sku: 'B07K2KQG22-es'
 tags: [  ]

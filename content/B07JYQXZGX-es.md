@@ -5,7 +5,7 @@ date: 2020-01-13 10:35:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Om-X5J1pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYQXZGX-es Tommy Hilfiger TJM Tommy Classics Solid Polo Rojo Flame...'
 sku: 'B07JYQXZGX-es'
 tags: [  ]

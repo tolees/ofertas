@@ -5,7 +5,7 @@ date: 2020-08-22 03:59:03
 image: 'https://m.media-amazon.com/images/I/41fo5wlyA+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHLT69H-es Tesecu luz Nocturna-USB de Carga LED de Inducción del...'
 sku: 'B08DHLT69H-es'
 tags: [  ]

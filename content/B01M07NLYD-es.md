@@ -5,7 +5,7 @@ date: 2020-04-10 10:41:28
 image: 'https://m.media-amazon.com/images/I/21oEXyR9cWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M07NLYD-es Philips bsc200/01 Cepillo de limpieza facial Visapure...'
 sku: 'B01M07NLYD-es'
 tags: [  ]

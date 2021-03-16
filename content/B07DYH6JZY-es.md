@@ -5,7 +5,7 @@ date: 2020-03-12 21:24:19
 image: 'https://m.media-amazon.com/images/I/41Hhu8Zif6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYH6JZY-es Merrell Nova GTX Zapatillas de Running para Asfalto para...'
 sku: 'B07DYH6JZY-es'
 tags: [  ]

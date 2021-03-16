@@ -5,7 +5,7 @@ date: 2020-05-06 14:33:46
 image: 'https://m.media-amazon.com/images/I/415-TJK42OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0783QKK1M-es MagiDeal 4 Pedazos de Tren de Aterrizaje Accesorio...'
 sku: 'B0783QKK1M-es'
 tags: [  ]

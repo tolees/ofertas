@@ -5,7 +5,7 @@ date: 2020-07-02 14:43:12
 image: 'https://m.media-amazon.com/images/I/41V2VR7ixmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079C1NMM7-es Gomyhom Rosa 24K Rosa de Oro Chapada en Oro con Caja de...'
 sku: 'B079C1NMM7-es'
 tags: [  ]

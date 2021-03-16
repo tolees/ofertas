@@ -5,7 +5,7 @@ date: 2020-09-21 11:46:19
 image: 'https://m.media-amazon.com/images/I/41ID14v7ynL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSH8Y79-es Baby Art MY LITTLE STEPS - Recuerdo de bebé Grey Huella de...'
 sku: 'B07HSH8Y79-es'
 tags: [  ]

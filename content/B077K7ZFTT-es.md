@@ -5,7 +5,7 @@ date: 2020-02-28 19:22:12
 image: 'https://m.media-amazon.com/images/I/41Ge69ZK-DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077K7ZFTT-es Lenovo 120S-14IAP - Ordenador portátil de 14" HD Intel...'
 sku: 'B077K7ZFTT-es'
 tags: [  ]

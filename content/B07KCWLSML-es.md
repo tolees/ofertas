@@ -5,7 +5,7 @@ date: 2020-04-11 17:04:02
 image: 'https://m.media-amazon.com/images/I/41gb2HROWdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCWLSML-es CYBEX Gold - Silla de Paseo Eezy S Twist Asiento Giratorio...'
 sku: 'B07KCWLSML-es'
 tags: [  ]

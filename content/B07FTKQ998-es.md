@@ -5,7 +5,7 @@ date: 2020-05-02 15:50:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31re7%2BflLsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTKQ998-es Lee Pique Polo Gris Sharp Grey Mele 03 X-Large para Hombre'
 sku: 'B07FTKQ998-es'
 tags: [  ]

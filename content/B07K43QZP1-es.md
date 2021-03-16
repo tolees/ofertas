@@ -5,7 +5,7 @@ date: 2020-01-13 22:22:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/517dKOcAeiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K43QZP1-es JUMTOP 12V DC Bomba de inflado de neumáticos digital Bomba...'
 sku: 'B07K43QZP1-es'
 tags: [  ]

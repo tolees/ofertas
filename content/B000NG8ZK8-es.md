@@ -5,7 +5,7 @@ date: 2020-08-19 13:07:08
 image: 'https://m.media-amazon.com/images/I/51sp7pNu5EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NG8ZK8-es Casio Collection Despetador TQ140 Blanco'
 sku: 'B000NG8ZK8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-14 18:06:21
 image: 'https://m.media-amazon.com/images/I/51V0eJK1sWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4GBCPY-es MaiJin Funda para OPPO Realme 5 Pro 6 3 Pulgadas 2 en 1...'
 sku: 'B07Z4GBCPY-es'
 tags: [  ]

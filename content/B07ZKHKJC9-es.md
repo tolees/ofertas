@@ -5,7 +5,7 @@ date: 2020-05-25 12:03:00
 image: 'https://m.media-amazon.com/images/I/41ZyLR+U7mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKHKJC9-es 120x120cm Manta de muselina para bebé manta para bebé...'
 sku: 'B07ZKHKJC9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 06:13:22
 image: 'https://m.media-amazon.com/images/I/41JoZuBZuoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085YV5FJ4-es Death Stranding Código Digital'
 sku: 'B085YV5FJ4-es'
 tags: [  ]

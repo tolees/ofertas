@@ -5,7 +5,7 @@ date: 2020-02-23 17:35:32
 image: 'https://m.media-amazon.com/images/I/41pVXiq7WLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFCXD1H-es Funko 30697 Pop! Vinilo: alquimista metálico Completo: Ed...'
 sku: 'B07DFCXD1H-es'
 tags: [  ]

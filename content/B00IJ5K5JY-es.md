@@ -5,7 +5,7 @@ date: 2020-08-31 19:35:47
 image: 'https://m.media-amazon.com/images/I/41l3hpkXUSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IJ5K5JY-es Einhell Aspirador- soplador triturador eléctrico GC-EL...'
 sku: 'B00IJ5K5JY-es'
 tags: [  ]

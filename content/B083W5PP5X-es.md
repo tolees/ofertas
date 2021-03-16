@@ -5,7 +5,7 @@ date: 2020-09-04 15:25:41
 image: 'https://m.media-amazon.com/images/I/513iJMyLCyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083W5PP5X-es Smooce Piedras Luminosas Jardín Piedras Decorativas...'
 sku: 'B083W5PP5X-es'
 tags: [  ]

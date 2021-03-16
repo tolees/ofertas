@@ -5,7 +5,7 @@ date: 2020-05-16 10:41:19
 image: 'https://m.media-amazon.com/images/I/61oFelF5QWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073P4PJXL-es LifeTree Cubiertas De Enfermería | Poncho de Enfermería |...'
 sku: 'B073P4PJXL-es'
 tags: [  ]

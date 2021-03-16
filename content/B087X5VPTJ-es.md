@@ -5,7 +5,7 @@ date: 2020-08-01 12:31:58
 image: 'https://m.media-amazon.com/images/I/31TaCI9LWpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087X5VPTJ-es Suhctup Funda Transparent Compatible para Huawei P20...'
 sku: 'B087X5VPTJ-es'
 tags: [  ]

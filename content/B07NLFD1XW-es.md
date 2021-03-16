@@ -5,7 +5,7 @@ date: 2020-09-02 07:22:15
 image: 'https://m.media-amazon.com/images/I/41wkl90BwTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLFD1XW-es Nike Revolution 5 Running Shoe Womens Black/Anthracite 38 EU'
 sku: 'B07NLFD1XW-es'
 tags: [  ]

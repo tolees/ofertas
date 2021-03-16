@@ -5,7 +5,7 @@ date: 2020-01-21 13:05:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418MTQER9EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GV3RPH6-es Berg Outdoor FREITA Commuter Denim Pants Hombre Black Iris S'
 sku: 'B07GV3RPH6-es'
 tags: [  ]

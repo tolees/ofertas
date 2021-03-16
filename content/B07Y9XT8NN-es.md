@@ -5,7 +5,7 @@ date: 2020-02-02 18:06:04
 image: 'https://m.media-amazon.com/images/I/41ckhm3XF8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9XT8NN-es María Barceló Sneaker Alta Piel Burdeos Mujer'
 sku: 'B07Y9XT8NN-es'
 tags: [  ]

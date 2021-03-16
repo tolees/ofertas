@@ -5,7 +5,7 @@ date: 2020-09-20 18:14:12
 image: 'https://m.media-amazon.com/images/I/41yLRsvjtAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLLRF89-es Jack & Jones JORFRANKIE Knit Crew Neck Suéter Sky Captain...'
 sku: 'B07WLLRF89-es'
 tags: [  ]

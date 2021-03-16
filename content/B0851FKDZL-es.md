@@ -5,7 +5,7 @@ date: 2020-09-18 12:32:22
 image: 'https://m.media-amazon.com/images/I/31bcvtUM9mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0851FKDZL-es Funda Universal para Tableta portátil Funda Ultra Suave...'
 sku: 'B0851FKDZL-es'
 tags: [  ]

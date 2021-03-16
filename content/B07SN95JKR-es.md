@@ -5,7 +5,7 @@ date: 2020-04-03 18:59:53
 image: 'https://m.media-amazon.com/images/I/41EXWd1W7EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SN95JKR-es adidas Real PES Suit Y Chándal Unisex niños Negro/Orfúos 152'
 sku: 'B07SN95JKR-es'
 tags: [  ]

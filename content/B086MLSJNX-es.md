@@ -5,7 +5,7 @@ date: 2020-05-09 11:36:41
 image: 'https://m.media-amazon.com/images/I/41kjVbZ4fhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MLSJNX-es Oihxse Funda para OnePlus 7 Pro Transparente Estuche con...'
 sku: 'B086MLSJNX-es'
 tags: [  ]

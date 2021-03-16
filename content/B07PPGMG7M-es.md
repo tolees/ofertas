@@ -5,7 +5,7 @@ date: 2020-05-05 11:05:18
 image: 'https://m.media-amazon.com/images/I/41SzRBZrS9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPGMG7M-es Axe Desodorante Black Pack Duplo Ahorro - 150 ml'
 sku: 'B07PPGMG7M-es'
 tags: [  ]

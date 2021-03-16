@@ -5,7 +5,7 @@ date: 2020-09-21 15:44:46
 image: 'https://m.media-amazon.com/images/I/511sxbS38wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RV7ZLNS-es Lifewit Alfombrilla de Interior Alfombrillas de Perfil...'
 sku: 'B07RV7ZLNS-es'
 tags: [  ]

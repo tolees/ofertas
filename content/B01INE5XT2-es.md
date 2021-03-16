@@ -5,7 +5,7 @@ date: 2020-03-02 15:45:57
 image: 'https://m.media-amazon.com/images/I/41XKzd99ZwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01INE5XT2-es Sparco SPC1111KAZ Almohadillas y Funda de Volante Negro/Azul'
 sku: 'B01INE5XT2-es'
 tags: [  ]

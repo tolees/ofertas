@@ -5,7 +5,7 @@ date: 2020-07-29 10:27:20
 image: 'https://m.media-amazon.com/images/I/31ST5ZJAHvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DH2DH5B-es HUGO Henfords Pantalones Azul Dark Blue 401 106 para Hombre'
 sku: 'B07DH2DH5B-es'
 tags: [  ]

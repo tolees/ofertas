@@ -5,7 +5,7 @@ date: 2020-07-12 11:50:11
 image: 'https://m.media-amazon.com/images/I/51+qAgXabyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB2JYLQ-es Sotor Funda de Barbacoa 600D Oxford Impermeable Resistente...'
 sku: 'B07QB2JYLQ-es'
 tags: [  ]

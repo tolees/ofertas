@@ -5,7 +5,7 @@ date: 2020-01-16 12:13:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31so4HDZHnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LC7VKVM-es Moneta Stratomax Juego de Sartenes 24 + 28 cm Aluminio...'
 sku: 'B07LC7VKVM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-05 16:38:48
 image: 'https://m.media-amazon.com/images/I/417f3+-yJ-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWT3X79-es adidas X 19.2 FG Zapatillas de Fútbol para Hombre Verde...'
 sku: 'B07SWT3X79-es'
 tags: [  ]

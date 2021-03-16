@@ -5,7 +5,7 @@ date: 2020-06-15 18:03:36
 image: 'https://m.media-amazon.com/images/I/31RzgTV7FgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073FKHLT7-es Philips SHB4805RG Flite Everlite - Auriculares Bluetooth...'
 sku: 'B073FKHLT7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-20 12:11:59
 image: 'https://m.media-amazon.com/images/I/417wXw3HfWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ3C2V9-es Simpeak Ventilador Mini USB Silencioso de 3 Velocidades...'
 sku: 'B07TQ3C2V9-es'
 tags: [  ]

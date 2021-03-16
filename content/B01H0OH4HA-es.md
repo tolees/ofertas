@@ -5,7 +5,7 @@ date: 2020-07-13 10:42:44
 image: 'https://m.media-amazon.com/images/I/31q4DrloTYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H0OH4HA-es LEDKIA LIGHTING Pack Placas LED Circular SuperSlim 18W 2...'
 sku: 'B01H0OH4HA-es'
 tags: [  ]

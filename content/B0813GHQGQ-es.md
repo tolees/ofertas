@@ -5,7 +5,7 @@ date: 2020-02-27 16:42:55
 image: 'https://m.media-amazon.com/images/I/51fJbLJll-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813GHQGQ-es Reloj - BY BENYAR - para - BY-5164'
 sku: 'B0813GHQGQ-es'
 tags: [  ]

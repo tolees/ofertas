@@ -5,7 +5,7 @@ date: 2020-05-10 11:26:27
 image: 'https://m.media-amazon.com/images/I/413UOYQlZHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ86QW-es Pepe Jeans Helaia suéter Écru 814 X-Small para Mujer'
 sku: 'B07MZQ86QW-es'
 tags: [  ]

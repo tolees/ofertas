@@ -5,7 +5,7 @@ date: 2020-06-17 23:20:23
 image: 'https://m.media-amazon.com/images/I/51-iFzyEN3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G7S5TXX-es Beauty Glazed 63 Colores De Sombra De Ojos Polvo De...'
 sku: 'B07G7S5TXX-es'
 tags: [  ]

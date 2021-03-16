@@ -5,7 +5,7 @@ date: 2020-06-23 18:02:02
 image: 'https://m.media-amazon.com/images/I/41K1cHYI72L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCQVZMX-es Compatible con la funda de iPhoneX silicona flexible...'
 sku: 'B07ZCQVZMX-es'
 tags: [  ]

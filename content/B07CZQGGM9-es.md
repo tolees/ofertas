@@ -5,7 +5,7 @@ date: 2020-09-08 18:25:37
 image: 'https://m.media-amazon.com/images/I/41T9+kywoXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZQGGM9-es Under Armour Sportstyle Terry Pantalones Hombre Blanco...'
 sku: 'B07CZQGGM9-es'
 tags: [  ]

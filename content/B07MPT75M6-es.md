@@ -5,7 +5,7 @@ date: 2020-02-09 08:36:04
 image: 'https://m.media-amazon.com/images/I/41UzatuVppL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MPT75M6-es Olivia Burton Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07MPT75M6-es'
 tags: [  ]

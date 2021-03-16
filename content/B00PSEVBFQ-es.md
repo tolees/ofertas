@@ -5,7 +5,7 @@ date: 2020-09-16 16:17:53
 image: 'https://m.media-amazon.com/images/I/31MA27UaZDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PSEVBFQ-es Adaptador de candado para el Mac Pro de Apple'
 sku: 'B00PSEVBFQ-es'
 tags: [  ]

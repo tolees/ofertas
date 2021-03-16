@@ -5,7 +5,7 @@ date: 2020-09-16 22:51:18
 image: 'https://m.media-amazon.com/images/I/61vtzMzl2DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ID4UWBW-es Limes'
 sku: 'B00ID4UWBW-es'
 tags: [  ]

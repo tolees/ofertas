@@ -5,7 +5,7 @@ date: 2020-02-16 18:23:13
 image: 'https://m.media-amazon.com/images/I/41KWvCyc27L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QZ7CF1-es Chanson Mujeres 1 Unidad 300 g'
 sku: 'B075QZ7CF1-es'
 tags: [  ]

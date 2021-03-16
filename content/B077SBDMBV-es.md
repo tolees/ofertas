@@ -5,7 +5,7 @@ date: 2020-02-08 12:05:38
 image: 'https://m.media-amazon.com/images/I/31v9vSrMRJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SBDMBV-es Razer Lancehead Tournament Edition - Ratón para gaming...'
 sku: 'B077SBDMBV-es'
 tags: [  ]

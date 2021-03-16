@@ -5,7 +5,7 @@ date: 2020-01-10 15:16:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51XqSY0VTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K67GWL-es Victoria Bota Serraje Animales Zapatillas Unisex Niños...'
 sku: 'B072K67GWL-es'
 tags: [  ]

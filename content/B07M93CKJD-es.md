@@ -5,7 +5,7 @@ date: 2020-07-18 19:51:11
 image: 'https://m.media-amazon.com/images/I/41XzBy0UemL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M93CKJD-es Tom Tailor Denim - Rosie Bolsos bandolera Mujer Azul Blau...'
 sku: 'B07M93CKJD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-14 20:05:52
 image: 'https://m.media-amazon.com/images/I/41uFyuHDM+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQP7TB9-es Nike Ebernon Low Premium Zapatillas de Baloncesto para...'
 sku: 'B07VQP7TB9-es'
 tags: [  ]

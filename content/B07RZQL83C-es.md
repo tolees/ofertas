@@ -5,7 +5,7 @@ date: 2020-05-19 09:32:37
 image: 'https://m.media-amazon.com/images/I/41hDxNTfp6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZQL83C-es Facial Massager Moon Gua Sha PRETTY SEE masajeador facial...'
 sku: 'B07RZQL83C-es'
 tags: [  ]

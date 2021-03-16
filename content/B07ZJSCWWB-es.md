@@ -5,7 +5,7 @@ date: 2020-05-04 05:17:28
 image: 'https://m.media-amazon.com/images/I/412jxKaa3uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJSCWWB-es MotoGP19 - Deluxe Edition'
 sku: 'B07ZJSCWWB-es'
 tags: [  ]

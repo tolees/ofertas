@@ -5,7 +5,7 @@ date: 2020-01-22 04:06:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417Rlob8%2BaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0029EYNGW-es Trixie Alfombrilla Bandeja Gato PVC 37x45 cm Antracita'
 sku: 'B0029EYNGW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 10:11:18
 image: 'https://m.media-amazon.com/images/I/41YE6Ot9IYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9TNKIS-es Garnier Delial Spray Protector Hidratante 24 Horas con...'
 sku: 'B00X9TNKIS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-14 00:02:28
 image: 'https://m.media-amazon.com/images/I/41sG2FxDtIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVKQ7K3-es Pack 1-2: Star Trek Discovery BD [Blu-ray]'
 sku: 'B07YVKQ7K3-es'
 tags: [  ]

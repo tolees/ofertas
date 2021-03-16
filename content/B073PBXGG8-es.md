@@ -5,7 +5,7 @@ date: 2020-03-19 04:32:30
 image: 'https://m.media-amazon.com/images/I/41zjTF8xC9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073PBXGG8-es Tapones Para los Oídos de Harcas. Filtro de Ruido de...'
 sku: 'B073PBXGG8-es'
 tags: [  ]

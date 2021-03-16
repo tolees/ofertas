@@ -5,7 +5,7 @@ date: 2020-07-23 20:48:35
 image: 'https://m.media-amazon.com/images/I/41JvnzipWDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BYFTEY2-es S&R Tenaza Alicates Pico Loro profesional con Ajuste...'
 sku: 'B01BYFTEY2-es'
 tags: [  ]

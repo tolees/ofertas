@@ -5,7 +5,7 @@ date: 2020-02-25 20:33:11
 image: 'https://m.media-amazon.com/images/I/31YIAAHu+9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHMLNPL-es Inventor Fresh 12L Deshumidificador Portátil con...'
 sku: 'B07XHMLNPL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-28 08:43:13
 image: 'https://m.media-amazon.com/images/I/31-w6CoAp3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DMSA9SU-es Trixie 13171 - Rejilla Seguridad para Coche Ancho: 96–163...'
 sku: 'B00DMSA9SU-es'
 tags: [  ]

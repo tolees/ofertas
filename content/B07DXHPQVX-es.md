@@ -5,7 +5,7 @@ date: 2020-01-13 19:34:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419fUlJ%2BCDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DXHPQVX-es adidas Lite Racer K Zapatillas de Running Unisex Niños...'
 sku: 'B07DXHPQVX-es'
 tags: [  ]

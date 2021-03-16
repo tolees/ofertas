@@ -5,7 +5,7 @@ date: 2020-07-03 18:17:28
 image: 'https://m.media-amazon.com/images/I/41AyxYdONlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0007MF3PS-es Converse Chuck Taylor Ct A/S Seasnl Hi Zapatillas Altas...'
 sku: 'B0007MF3PS-es'
 tags: [  ]

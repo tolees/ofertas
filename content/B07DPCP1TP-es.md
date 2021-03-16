@@ -5,7 +5,7 @@ date: 2020-01-10 11:14:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41r2ji%2BiToL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPCP1TP-es Mpow Mini Auriculares Bluetooth Invisibles Auriculares...'
 sku: 'B07DPCP1TP-es'
 tags: [  ]

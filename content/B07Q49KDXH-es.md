@@ -5,7 +5,7 @@ date: 2020-06-05 11:45:44
 image: 'https://m.media-amazon.com/images/I/41CSfOMZ0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q49KDXH-es Selighting Bolsa Tactica Grande Funda Móvil MOLLE Táctico...'
 sku: 'B07Q49KDXH-es'
 tags: [  ]

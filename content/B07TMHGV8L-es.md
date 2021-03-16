@@ -5,7 +5,7 @@ date: 2020-08-22 13:09:06
 image: 'https://m.media-amazon.com/images/I/4144yX+CK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMHGV8L-es Levi s Original Batwing Multicolor Hm Patch Polo Dress...'
 sku: 'B07TMHGV8L-es'
 tags: [  ]

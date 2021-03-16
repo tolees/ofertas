@@ -5,7 +5,7 @@ date: 2020-05-23 11:41:10
 image: 'https://m.media-amazon.com/images/I/41GC2lbbWnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XK8K9RD-es Opret Kit de Protector para Esquinas y Bordes para Bebés y...'
 sku: 'B07XK8K9RD-es'
 tags: [  ]

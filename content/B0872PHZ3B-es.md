@@ -5,7 +5,7 @@ date: 2020-04-27 17:03:39
 image: 'https://m.media-amazon.com/images/I/41VMlY6XYZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872PHZ3B-es Funda Transparente Compatible para Xiaomi Mi A3 Carcasa...'
 sku: 'B0872PHZ3B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-11 02:31:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BjyxD1X7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKXY3RV-es Automático Dispensador de Pasta de Dientes y Conjunto de...'
 sku: 'B07MKXY3RV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 12:59:56
 image: 'https://m.media-amazon.com/images/I/41HaJhei8AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FCYN3H-es Tableta de Escritura LCD Almohadilla 8 5 Pulgadas Tablero...'
 sku: 'B082FCYN3H-es'
 tags: [  ]

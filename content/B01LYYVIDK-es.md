@@ -5,7 +5,7 @@ date: 2020-10-09 12:14:26
 image: 'https://m.media-amazon.com/images/I/41xeaJv+8yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYYVIDK-es Calvin Klein Reloj Analogico para Hombre de Cuarzo con...'
 sku: 'B01LYYVIDK-es'
 tags: [  ]

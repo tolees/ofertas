@@ -5,7 +5,7 @@ date: 2020-03-31 17:25:08
 image: 'https://m.media-amazon.com/images/I/51gkCb2hkBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BMZHXW-es HP Q7581A - Cartucho de tóner'
 sku: 'B000BMZHXW-es'
 tags: [  ]

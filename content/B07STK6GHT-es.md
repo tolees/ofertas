@@ -5,7 +5,7 @@ date: 2020-04-02 21:10:39
 image: 'https://m.media-amazon.com/images/I/419QNGmXziL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STK6GHT-es ZARRS 180 Piezas Ojos de Seguridad de Juguete Plástico...'
 sku: 'B07STK6GHT-es'
 tags: [  ]

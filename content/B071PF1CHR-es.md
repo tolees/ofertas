@@ -5,7 +5,7 @@ date: 2020-01-14 17:37:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51203ffnHVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071PF1CHR-es New Balance 574v2 Core Velcro Entrenadores Unisex Niños...'
 sku: 'B071PF1CHR-es'
 tags: [  ]

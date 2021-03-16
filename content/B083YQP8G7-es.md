@@ -5,7 +5,7 @@ date: 2020-09-24 17:45:29
 image: 'https://m.media-amazon.com/images/I/41Vntwtt4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083YQP8G7-es Panamami Borradores y fichas de ajedrez de Madera Natural...'
 sku: 'B083YQP8G7-es'
 tags: [  ]

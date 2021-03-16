@@ -5,7 +5,7 @@ date: 2020-03-20 20:31:50
 image: 'https://m.media-amazon.com/images/I/41H3FO3rAIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FLTP5AK-es H.Koenig V 85 Centro de Planchado 2400 W Cerámica Negro'
 sku: 'B00FLTP5AK-es'
 tags: [  ]

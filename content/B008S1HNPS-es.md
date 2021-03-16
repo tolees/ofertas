@@ -5,7 +5,7 @@ date: 2020-07-14 18:31:40
 image: 'https://m.media-amazon.com/images/I/41uxK87z80L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008S1HNPS-es GELID SOLUTIONS Silent 6 de 3 Pines de 60mm para la...'
 sku: 'B008S1HNPS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-19 21:25:41
 image: 'https://m.media-amazon.com/images/I/41tBnNPL6pL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTPD675-es Vieta Pro Power Pro - Altavoz inalámbrico portátil...'
 sku: 'B07CTPD675-es'
 tags: [  ]

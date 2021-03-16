@@ -5,7 +5,7 @@ date: 2020-01-06 18:09:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kj17612mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY6VHSH-es Champion The Curvy Sujetador Deportivo Blanc/Noir 8ml...'
 sku: 'B07FY6VHSH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 04:26:56
 image: 'https://m.media-amazon.com/images/I/41RxOoBZOlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BFKS4M-es Grsta Botella de Agua Botella Agua Acero Inoxidable sin...'
 sku: 'B083BFKS4M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 11:39:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-cmIda--L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K26ZTPT-es Hurley M Phantom Bird 18 Bañadores Hombre Azul Blue Fury 34'
 sku: 'B07K26ZTPT-es'
 tags: [  ]

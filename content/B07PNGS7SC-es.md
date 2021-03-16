@@ -5,7 +5,7 @@ date: 2020-08-04 18:03:43
 image: 'https://m.media-amazon.com/images/I/513JL2RhxXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNGS7SC-es BLAVOR Cargador Solar Móvil 10000mAh Batería Externa...'
 sku: 'B07PNGS7SC-es'
 tags: [  ]

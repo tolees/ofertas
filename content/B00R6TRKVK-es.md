@@ -5,7 +5,7 @@ date: 2020-05-23 00:24:11
 image: 'https://m.media-amazon.com/images/I/31EIgJGQ8ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R6TRKVK-es Nike Y Nk H86 Cap Metal Swoosh Hat Unisex niños Azul...'
 sku: 'B00R6TRKVK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-15 11:03:06
 image: 'https://m.media-amazon.com/images/I/31rbQ3aKQAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV6RNZK-es TWBB Hombres Casual Elastic Sport Solid Pockets Pantalones'
 sku: 'B07MV6RNZK-es'
 tags: [  ]

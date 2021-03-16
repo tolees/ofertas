@@ -5,7 +5,7 @@ date: 2020-06-25 17:08:00
 image: 'https://m.media-amazon.com/images/I/4133CYLHtTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086TSZYS1-es AIORNIY 1/5/10 piezas polvo antipolvo Nebelnebel-...'
 sku: 'B086TSZYS1-es'
 tags: [  ]

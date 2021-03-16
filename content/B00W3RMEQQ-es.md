@@ -5,7 +5,7 @@ date: 2020-06-12 00:06:16
 image: 'https://m.media-amazon.com/images/I/41RTixfS6gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W3RMEQQ-es Joma Record Pantalones cortos Hombre Azul Marino M'
 sku: 'B00W3RMEQQ-es'
 tags: [  ]

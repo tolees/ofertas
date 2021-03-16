@@ -5,7 +5,7 @@ date: 2021-02-15 13:44:45
 image: 'https://m.media-amazon.com/images/I/51IR3VPXM0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1G1J1Y-es MjAMjAM - Comida húmeda premium para gatos - Paquete de...'
 sku: 'B07D1G1J1Y-es'
 tags: [ 'mjamjam', ]
@@ -28,8 +28,8 @@ Está [MjAMjAM - Comida húmeda premium para gatos - Paquete de mezcla - Pollo  
 
 ℹ️:
 
-- ver artículos individuales
 - Renunciamos a: Gluten y soja, Conservantes sintéticos, lactosa, azúcar
+- ver artículos individuales
 - MjAMjAM - porque es sabroso
 - Para nuestras comidas, empleamos mayoritariamente ingredientes procedentes de granjas regionales; criados y cultivados con mucho amor
 - Pienso acuoso para gatos. Proporción extraalta de carne. Vitaminas y minerales importantes. Sin cereales

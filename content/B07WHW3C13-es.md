@@ -5,7 +5,7 @@ date: 2020-08-14 18:07:22
 image: 'https://m.media-amazon.com/images/I/51j-E0NfQFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHW3C13-es Pistola Aire Caliente 2000W Tilswall Decapador Profesional...'
 sku: 'B07WHW3C13-es'
 tags: [  ]

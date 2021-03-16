@@ -5,7 +5,7 @@ date: 2020-04-14 01:10:12
 image: 'https://m.media-amazon.com/images/I/410gAP0OvVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYL4YBS-es New Balance 574v2 Zapatillas para Mujer Gris Grey/White O...'
 sku: 'B07RYL4YBS-es'
 tags: [  ]

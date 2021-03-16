@@ -5,7 +5,7 @@ date: 2020-01-23 18:44:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OvkOfKNTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075V7CF9C-es Sunstech CDP10BK - Reproductor CD portátil con Bass Boost...'
 sku: 'B075V7CF9C-es'
 tags: [  ]

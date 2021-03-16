@@ -5,7 +5,7 @@ date: 2020-01-16 17:04:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GfyTPj0OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMYX31L-es Luz de la guirnalda del pelo del LED corona duradera de la...'
 sku: 'B07RMYX31L-es'
 tags: [  ]

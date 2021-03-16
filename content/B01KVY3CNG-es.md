@@ -5,7 +5,7 @@ date: 2020-03-13 14:23:07
 image: 'https://m.media-amazon.com/images/I/41AvIScuIvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KVY3CNG-es Bresser Binoculares Digitales de Visión Nocturna 3X20'
 sku: 'B01KVY3CNG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 22:23:17
 image: 'https://m.media-amazon.com/images/I/41zgUUzhTCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B96LXLM-es Tommy Hilfiger Core Hilfiger Regular Polo Gris Cloud Htr...'
 sku: 'B07B96LXLM-es'
 tags: [  ]

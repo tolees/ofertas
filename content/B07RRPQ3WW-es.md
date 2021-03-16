@@ -5,7 +5,7 @@ date: 2020-06-24 05:01:48
 image: 'https://m.media-amazon.com/images/I/411AYr56BQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRPQ3WW-es Police 15917JS-03 Reloj de Hombres'
 sku: 'B07RRPQ3WW-es'
 tags: [  ]

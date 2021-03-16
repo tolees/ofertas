@@ -5,7 +5,7 @@ date: 2020-05-20 18:32:09
 image: 'https://m.media-amazon.com/images/I/41oMwo+7C6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJFWHWD-es MaGeek® [Paquete de 5] 0 3m Corto Cables USB Tipo C USB-C...'
 sku: 'B07MJFWHWD-es'
 tags: [  ]

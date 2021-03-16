@@ -5,7 +5,7 @@ date: 2020-07-07 14:37:23
 image: 'https://m.media-amazon.com/images/I/41wVzi-GoML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HWNTC7-es Luchild Trenza Protector de Cuna 200cm Parachoques...'
 sku: 'B083HWNTC7-es'
 tags: [  ]

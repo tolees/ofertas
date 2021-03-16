@@ -5,7 +5,7 @@ date: 2020-05-06 07:48:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uPLhR4DKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QAKPMK-es adidas Parma 16 SHO Shorts Hombre Black/White XS'
 sku: 'B016QAKPMK-es'
 tags: [  ]

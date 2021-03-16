@@ -5,7 +5,7 @@ date: 2020-05-12 08:02:47
 image: 'https://m.media-amazon.com/images/I/317nq2yVnJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VX98Z5L-es TOYANDONA Cuatro juegos de protección para bebés con...'
 sku: 'B07VX98Z5L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-24 18:01:50
 image: 'https://m.media-amazon.com/images/I/51TsCrYZNBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075SXF57J-es Rhodesy Funda Impermeable de Coche para Perros con Solapas...'
 sku: 'B075SXF57J-es'
 tags: [  ]

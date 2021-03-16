@@ -5,7 +5,7 @@ date: 2020-04-11 08:39:14
 image: 'https://m.media-amazon.com/images/I/51mE48WZ0lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT8TKTC-es DEKO Juego de herramientas de 138 piezas Caja de...'
 sku: 'B07RT8TKTC-es'
 tags: [  ]

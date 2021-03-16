@@ -5,7 +5,7 @@ date: 2020-01-29 17:55:03
 image: 'https://m.media-amazon.com/images/I/41FWyNa0S3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHMGP9S-es Chicco Good Night - Vigilabebés de audio con panel de cuna...'
 sku: 'B07HHMGP9S-es'
 tags: [  ]

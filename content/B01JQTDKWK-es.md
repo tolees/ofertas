@@ -5,7 +5,7 @@ date: 2020-06-28 18:05:39
 image: 'https://m.media-amazon.com/images/I/31qxcfQkaXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JQTDKWK-es Amazon Essentials Drawstring Walk Short Azul Navy Small'
 sku: 'B01JQTDKWK-es'
 tags: [  ]

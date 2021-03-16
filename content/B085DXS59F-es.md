@@ -5,7 +5,7 @@ date: 2020-05-25 07:31:12
 image: 'https://m.media-amazon.com/images/I/312eMlaj1uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085DXS59F-es Jack & Jones JJIARUBA JJSWIMSHORTS AKM Jones STS Bañador...'
 sku: 'B085DXS59F-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 05:40:45
 image: 'https://m.media-amazon.com/images/I/31KmDNs+7uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNLV4DQ-es Levi s 511 Slim Shorts Pantalones Cortos Gris Ciabatta...'
 sku: 'B07TNLV4DQ-es'
 tags: [  ]

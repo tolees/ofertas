@@ -5,7 +5,7 @@ date: 2020-02-24 18:26:03
 image: 'https://m.media-amazon.com/images/I/41uN9zsweVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9JX09A-es Funko Figurine Marvel - Gardiens De La Galaxie 2 -...'
 sku: 'B01M9JX09A-es'
 tags: [  ]

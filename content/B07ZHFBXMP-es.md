@@ -5,7 +5,7 @@ date: 2020-04-27 01:12:24
 image: 'https://m.media-amazon.com/images/I/510QW4pkSqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHFBXMP-es Karactermania Villanas Disney -Saco de Cuerdas Storm Negro'
 sku: 'B07ZHFBXMP-es'
 tags: [  ]

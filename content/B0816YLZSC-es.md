@@ -5,7 +5,7 @@ date: 2020-07-09 18:02:28
 image: 'https://m.media-amazon.com/images/I/41lryAp4heL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0816YLZSC-es Klarstein Beerlager 88 Nevera para bebidas - 88 litros 33...'
 sku: 'B0816YLZSC-es'
 tags: [  ]

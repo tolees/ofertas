@@ -5,7 +5,7 @@ date: 2020-03-19 17:02:24
 image: 'https://m.media-amazon.com/images/I/41sAwu+qaLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVHVNT1-es New Balance M890v7 Zapatillas de Running para Hombre Verde...'
 sku: 'B07DVHVNT1-es'
 tags: [  ]

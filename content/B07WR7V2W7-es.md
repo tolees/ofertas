@@ -5,7 +5,7 @@ date: 2020-07-03 17:45:28
 image: 'https://m.media-amazon.com/images/I/51HwaEvvNYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WR7V2W7-es EKKONG Objetivo de Tiro Eléctrico Arma de Juguete de...'
 sku: 'B07WR7V2W7-es'
 tags: [  ]

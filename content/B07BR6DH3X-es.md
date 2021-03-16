@@ -5,7 +5,7 @@ date: 2020-02-03 21:00:43
 image: 'https://m.media-amazon.com/images/I/51jqs83nHTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BR6DH3X-es Levi s Oversized Batwing Beanie Gorro de Punto Azul Navy...'
 sku: 'B07BR6DH3X-es'
 tags: [  ]

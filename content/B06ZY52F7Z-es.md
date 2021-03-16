@@ -5,7 +5,7 @@ date: 2020-01-27 10:59:20
 image: 'https://m.media-amazon.com/images/I/415HIqOWqOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZY52F7Z-es Pierre Cardin Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B06ZY52F7Z-es'
 tags: [  ]

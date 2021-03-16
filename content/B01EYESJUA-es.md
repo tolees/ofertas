@@ -5,7 +5,7 @@ date: 2020-05-30 14:10:24
 image: 'https://m.media-amazon.com/images/I/41WODMNBWjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EYESJUA-es Dewalt Lijadora Rotorbital DWE6423-QS 280 W 230 V Negro...'
 sku: 'B01EYESJUA-es'
 tags: [  ]

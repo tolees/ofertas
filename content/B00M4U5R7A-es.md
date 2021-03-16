@@ -5,7 +5,7 @@ date: 2020-07-08 18:34:37
 image: 'https://m.media-amazon.com/images/I/41WPdj0XleL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M4U5R7A-es Shimano Deore SMBB52B - Juego De Cazoletas Pedalier'
 sku: 'B00M4U5R7A-es'
 tags: [  ]

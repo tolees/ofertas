@@ -5,7 +5,7 @@ date: 2020-09-20 16:52:21
 image: 'https://m.media-amazon.com/images/I/41SRQzzKCQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQDK7NF-es Gliss - Champú Reparación Total para Cabellos Secos -...'
 sku: 'B07YQDK7NF-es'
 tags: [  ]

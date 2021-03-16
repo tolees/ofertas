@@ -5,7 +5,7 @@ date: 2020-01-03 19:17:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51xlZKUq2HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SSGGG8-es Adaptador de Viaje Cargador de Pared con Doble Puerto de...'
 sku: 'B077SSGGG8-es'
 tags: [  ]

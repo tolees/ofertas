@@ -5,7 +5,7 @@ date: 2020-09-02 09:50:32
 image: 'https://m.media-amazon.com/images/I/319NWVQ7v4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVDQRR6-es Funko- Pop Movies: Warriors-Cochise The Collectible Toy...'
 sku: 'B07TVDQRR6-es'
 tags: [  ]

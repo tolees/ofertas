@@ -5,7 +5,7 @@ date: 2020-07-10 10:47:31
 image: 'https://m.media-amazon.com/images/I/51NXLSE1E+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C71PI4M-es Monvecle - Bermudas - para bebé niña 3 Pack 3 Colors'
 sku: 'B01C71PI4M-es'
 tags: [  ]

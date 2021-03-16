@@ -5,7 +5,7 @@ date: 2020-01-16 13:56:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GlYUGR%2BzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQJDIC7-es Helly Hansen Calshot Trunk Bañador para Hombre Azul Azul...'
 sku: 'B01MQJDIC7-es'
 tags: [  ]

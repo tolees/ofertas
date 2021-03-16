@@ -5,7 +5,7 @@ date: 2020-10-11 07:36:24
 image: 'https://m.media-amazon.com/images/I/41pnfpVkwCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AA9VUUU-es Advance Sensitive Pienso para Gato Esterilizado Adulto con...'
 sku: 'B00AA9VUUU-es'
 tags: [  ]

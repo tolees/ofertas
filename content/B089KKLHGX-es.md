@@ -5,7 +5,7 @@ date: 2020-10-09 06:34:51
 image: 'https://m.media-amazon.com/images/I/51wGCGynghL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089KKLHGX-es PROJEWE 30-72 Pares Aretes Surtidos Múltiples Pendientes...'
 sku: 'B089KKLHGX-es'
 tags: [  ]

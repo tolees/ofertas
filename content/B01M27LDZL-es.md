@@ -5,7 +5,7 @@ date: 2020-02-15 17:40:50
 image: 'https://m.media-amazon.com/images/I/41XZENpVyYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M27LDZL-es Dunlop OMEGA - Pala de pádel 38mm 2017 nivel iniciación...'
 sku: 'B01M27LDZL-es'
 tags: [  ]

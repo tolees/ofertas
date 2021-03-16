@@ -5,7 +5,7 @@ date: 2020-07-02 08:35:59
 image: 'https://m.media-amazon.com/images/I/416PMGoty-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TJ5R7W-es ELEHOT Bascula Baño Digital Escala de Peso Multifunción...'
 sku: 'B085TJ5R7W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 07:30:56
 image: 'https://m.media-amazon.com/images/I/51yl4eosTlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNTLHTT-es Suhctup Funda Compatible para Huawei P20 Pro Carcasa con...'
 sku: 'B07ZNTLHTT-es'
 tags: [  ]

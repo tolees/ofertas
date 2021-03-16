@@ -5,7 +5,7 @@ date: 2020-08-15 19:27:59
 image: 'https://m.media-amazon.com/images/I/51roG-6FhUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LH6X6VC-es WeightWorld Plataforma Vibratoria 3D para Adelgazar y...'
 sku: 'B07LH6X6VC-es'
 tags: [  ]

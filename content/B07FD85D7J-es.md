@@ -5,7 +5,7 @@ date: 2020-02-27 10:23:37
 image: 'https://m.media-amazon.com/images/I/41HOEHQrTpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FD85D7J-es Dove Gel de ducha Agua Micelar Anti-Estrés - 4 unidades de...'
 sku: 'B07FD85D7J-es'
 tags: [  ]

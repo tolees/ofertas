@@ -5,7 +5,7 @@ date: 2020-07-13 08:53:53
 image: 'https://m.media-amazon.com/images/I/417FZQganDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GRTT5R-es KLAS REMO Bandejas para Hielo Set de 3 Moldes para Hielo...'
 sku: 'B089GRTT5R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-16 22:39:28
 image: 'https://m.media-amazon.com/images/I/51D9UZqWpIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BMKTYLW-es Bourjois Smokey Stories Sombra de ojos Tono nr.12 - 39.5 gr'
 sku: 'B01BMKTYLW-es'
 tags: [  ]

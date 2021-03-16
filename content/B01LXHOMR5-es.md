@@ -5,7 +5,7 @@ date: 2020-06-17 03:47:42
 image: 'https://m.media-amazon.com/images/I/41xXA0FNocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXHOMR5-es Bosch Professional GSS 18V-10 Orbital Plato lijador 113 x...'
 sku: 'B01LXHOMR5-es'
 tags: [  ]

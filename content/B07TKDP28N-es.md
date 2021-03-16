@@ -5,7 +5,7 @@ date: 2020-04-09 10:06:37
 image: 'https://m.media-amazon.com/images/I/51CJNlCinTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDP28N-es FITFORT Ventilador USB Silencioso - Máx 43 Horas de...'
 sku: 'B07TKDP28N-es'
 tags: [  ]

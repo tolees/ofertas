@@ -5,7 +5,7 @@ date: 2020-08-25 17:30:59
 image: 'https://m.media-amazon.com/images/I/41COwis8DhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNK89WG-es New Balance 373 Zapatillas para Mujer Gris Grey Grey 43.5 EU'
 sku: 'B07PNK89WG-es'
 tags: [  ]

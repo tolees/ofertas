@@ -5,7 +5,7 @@ date: 2020-04-17 16:50:20
 image: 'https://m.media-amazon.com/images/I/41UASdrVmBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5PXGD4-es Merrell Bare Access Flex Zapatillas Deportivas para...'
 sku: 'B07D5PXGD4-es'
 tags: [  ]

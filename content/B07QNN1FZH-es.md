@@ -5,7 +5,7 @@ date: 2020-06-15 09:01:59
 image: 'https://m.media-amazon.com/images/I/31OJgq0GpHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNN1FZH-es Alsoar – Repuesto para Samsung A7 2018 funda para teléfono...'
 sku: 'B07QNN1FZH-es'
 tags: [  ]

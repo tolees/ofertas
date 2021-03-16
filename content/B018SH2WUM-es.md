@@ -5,7 +5,7 @@ date: 2020-09-01 08:29:43
 image: 'https://m.media-amazon.com/images/I/41tIzpkQeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018SH2WUM-es Reebok Classic Leather Zapatillas de Gimnasia para Hombre...'
 sku: 'B018SH2WUM-es'
 tags: [  ]

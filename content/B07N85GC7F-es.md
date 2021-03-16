@@ -5,7 +5,7 @@ date: 2020-08-05 09:11:50
 image: 'https://m.media-amazon.com/images/I/41XmwD2elPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N85GC7F-es COSORI Deshidratador Alimentos 500W de 5 Bandejas sin BPA...'
 sku: 'B07N85GC7F-es'
 tags: [  ]

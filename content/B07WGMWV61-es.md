@@ -5,7 +5,7 @@ date: 2020-06-26 08:57:31
 image: 'https://m.media-amazon.com/images/I/410T3--guGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGMWV61-es TACKLIFE ACP1B Compresor Aire Coche 12V/150PSI Inflador...'
 sku: 'B07WGMWV61-es'
 tags: [  ]

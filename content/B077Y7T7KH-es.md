@@ -5,7 +5,7 @@ date: 2020-02-23 18:26:27
 image: 'https://m.media-amazon.com/images/I/41EGphPgnDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y7T7KH-es HP Pavilion Monitor 1 Plata Mineral'
 sku: 'B077Y7T7KH-es'
 tags: [  ]

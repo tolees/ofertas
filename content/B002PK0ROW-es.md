@@ -5,7 +5,7 @@ date: 2020-03-24 20:01:28
 image: 'https://m.media-amazon.com/images/I/51l-pmp-2TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002PK0ROW-es Crema Cutículas - Aceite de Limón'
 sku: 'B002PK0ROW-es'
 tags: [  ]

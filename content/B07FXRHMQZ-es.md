@@ -5,7 +5,7 @@ date: 2020-08-23 17:28:46
 image: 'https://m.media-amazon.com/images/I/41Y06S+EdSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXRHMQZ-es NaturGreen Panela Jugo de caña de azúcar cristalizado-...'
 sku: 'B07FXRHMQZ-es'
 tags: [  ]

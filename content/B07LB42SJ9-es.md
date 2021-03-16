@@ -5,7 +5,7 @@ date: 2020-08-05 07:39:40
 image: 'https://m.media-amazon.com/images/I/31Q2rk9KHzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LB42SJ9-es Calvin Klein Plunge Sujetador con Push-up Rosa Nymph s...'
 sku: 'B07LB42SJ9-es'
 tags: [  ]

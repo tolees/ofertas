@@ -5,7 +5,7 @@ date: 2020-08-16 08:42:30
 image: 'https://m.media-amazon.com/images/I/415In2fbCwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KV8CG1-es MVPower Set de 10 marcos de fotos 10 marcos de cuadros...'
 sku: 'B071KV8CG1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-02 04:28:40
 image: 'https://m.media-amazon.com/images/I/41XgkZRwccL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNS3NZ1-es Superdry Classic Pique S/s Polo Azul Electric Blue Grit...'
 sku: 'B07TNS3NZ1-es'
 tags: [  ]

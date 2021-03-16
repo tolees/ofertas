@@ -5,7 +5,7 @@ date: 2020-07-20 15:33:06
 image: 'https://m.media-amazon.com/images/I/41WmjL-Tt1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BFB8Y8W-es LoveOlvidoF Carga portátil Carga USB Cable de alimentación...'
 sku: 'B08BFB8Y8W-es'
 tags: [  ]

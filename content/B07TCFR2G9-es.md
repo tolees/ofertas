@@ -5,7 +5,7 @@ date: 2020-03-17 19:44:15
 image: 'https://m.media-amazon.com/images/I/31HBcvTGHML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCFR2G9-es MEDION AKOYA M80 - PCC965 Ordenador de Sobremesa Intel...'
 sku: 'B07TCFR2G9-es'
 tags: [  ]

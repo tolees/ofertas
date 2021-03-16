@@ -5,7 +5,7 @@ date: 2020-07-18 08:35:34
 image: 'https://m.media-amazon.com/images/I/41kSkv9MAKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004KPKUBU-es Casio LA670WEGA-9EF Reloj de Pulsera para Mujer'
 sku: 'B004KPKUBU-es'
 tags: [  ]

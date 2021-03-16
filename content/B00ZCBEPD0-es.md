@@ -5,7 +5,7 @@ date: 2020-09-06 19:46:08
 image: 'https://m.media-amazon.com/images/I/51TdmWA3RRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZCBEPD0-es Party Fiesta Cubo Golosinas 1 5 Kg'
 sku: 'B00ZCBEPD0-es'
 tags: [  ]

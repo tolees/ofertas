@@ -5,7 +5,7 @@ date: 2020-04-21 04:21:24
 image: 'https://m.media-amazon.com/images/I/51mDVJ82sqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076F47BXK-es Guess Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B076F47BXK-es'
 tags: [  ]

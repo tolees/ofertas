@@ -5,7 +5,7 @@ date: 2020-01-18 17:05:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HqUAKBmfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLZGFTT-es Buff Tiger Hombre Grey Talla única'
 sku: 'B07FLZGFTT-es'
 tags: [  ]

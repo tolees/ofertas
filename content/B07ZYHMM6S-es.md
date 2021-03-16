@@ -5,7 +5,7 @@ date: 2020-02-28 16:40:25
 image: 'https://m.media-amazon.com/images/I/41-eKl6l09L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZYHMM6S-es Luchild Saco de Invierno Universal para Cochecito y Silla...'
 sku: 'B07ZYHMM6S-es'
 tags: [  ]

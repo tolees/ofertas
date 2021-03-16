@@ -5,7 +5,7 @@ date: 2020-05-26 18:27:07
 image: 'https://m.media-amazon.com/images/I/51xDnirZhYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M97RCI0-es LORUS Reloj de Pulsera RW615AX9'
 sku: 'B00M97RCI0-es'
 tags: [  ]

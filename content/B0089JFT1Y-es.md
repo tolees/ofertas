@@ -5,7 +5,7 @@ date: 2020-08-15 12:35:36
 image: 'https://m.media-amazon.com/images/I/31j0BPaPqbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0089JFT1Y-es Silikomart GEL01MB MINI CLASSIC - Mini moldes de...'
 sku: 'B0089JFT1Y-es'
 tags: [  ]

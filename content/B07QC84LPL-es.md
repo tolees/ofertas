@@ -5,7 +5,7 @@ date: 2020-01-13 09:30:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31kgjyxx3AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QC84LPL-es PUMA Nu-Tility Knit Pant Chándal Hombre Black L'
 sku: 'B07QC84LPL-es'
 tags: [  ]

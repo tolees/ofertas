@@ -5,7 +5,7 @@ date: 2020-09-02 08:17:20
 image: 'https://m.media-amazon.com/images/I/31jWsMLuQ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SSJNHJ-es Kappa SALCITO TKS Chándal Hombre Azul Marino/Blanco L'
 sku: 'B079SSJNHJ-es'
 tags: [  ]

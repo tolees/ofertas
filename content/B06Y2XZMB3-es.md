@@ -5,7 +5,7 @@ date: 2020-07-22 06:09:45
 image: 'https://m.media-amazon.com/images/I/41RzZ9J0I7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2XZMB3-es New Balance 574 Core Zapatillas Hombre Azul Blue Navy 42...'
 sku: 'B06Y2XZMB3-es'
 tags: [  ]

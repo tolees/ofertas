@@ -5,7 +5,7 @@ date: 2020-05-29 15:32:55
 image: 'https://m.media-amazon.com/images/I/31tRWiYWg2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CB93BVX-es Gen‚rico Calzador de Mango Largo Accesorios Acero...'
 sku: 'B07CB93BVX-es'
 tags: [  ]

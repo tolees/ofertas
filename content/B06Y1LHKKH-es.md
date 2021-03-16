@@ -5,7 +5,7 @@ date: 2020-08-07 19:45:48
 image: 'https://m.media-amazon.com/images/I/41js63givYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y1LHKKH-es Wrangler ARIZONA DENIM PANTS Pantalones Bright Stroke 35W...'
 sku: 'B06Y1LHKKH-es'
 tags: [  ]

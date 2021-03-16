@@ -5,7 +5,7 @@ date: 2020-04-23 11:03:29
 image: 'https://m.media-amazon.com/images/I/51BixxsFE0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYVF3SN-es Lavibelle - Zapatillas de Deporte Unisex Ligeras de Malla...'
 sku: 'B07XYVF3SN-es'
 tags: [  ]

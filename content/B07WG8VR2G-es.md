@@ -5,7 +5,7 @@ date: 2020-09-24 09:05:52
 image: 'https://m.media-amazon.com/images/I/31xBOBgNLVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WG8VR2G-es Dockers by Gerli 46rb002-100100 Zapatillas para Hombre...'
 sku: 'B07WG8VR2G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 18:43:25
 image: 'https://m.media-amazon.com/images/I/41PINbX-2EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZUFRCHY-es Sony Cyber-Shot DSC-RX10 II - Cámara compacta de 20.2 MP y...'
 sku: 'B00ZUFRCHY-es'
 tags: [  ]

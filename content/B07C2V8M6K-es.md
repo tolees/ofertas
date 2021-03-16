@@ -5,7 +5,7 @@ date: 2020-03-01 15:01:52
 image: 'https://m.media-amazon.com/images/I/51veiTaZlZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2V8M6K-es Brica by Munchkin Espejo de coche Baby In-Sight...'
 sku: 'B07C2V8M6K-es'
 tags: [  ]

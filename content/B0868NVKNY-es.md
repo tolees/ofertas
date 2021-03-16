@@ -5,7 +5,7 @@ date: 2020-04-21 16:40:27
 image: 'https://m.media-amazon.com/images/I/417BtdRwAvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868NVKNY-es Suhctup Transparente Funda Compatible con Huawei P8...'
 sku: 'B0868NVKNY-es'
 tags: [  ]

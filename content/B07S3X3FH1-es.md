@@ -5,7 +5,7 @@ date: 2020-10-11 16:26:10
 image: 'https://m.media-amazon.com/images/I/41gpwIYjkpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3X3FH1-es New Balance 997H h Zapatillas para Hombre Azul Blue Hbq 43 EU'
 sku: 'B07S3X3FH1-es'
 tags: [  ]

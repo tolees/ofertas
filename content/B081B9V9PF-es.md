@@ -5,7 +5,7 @@ date: 2020-03-13 22:27:12
 image: 'https://m.media-amazon.com/images/I/31crR0V6t5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B9V9PF-es KROM Knout XL RGB - NXKROMKNTXLRGB - Alfombrilla Gaming XL...'
 sku: 'B081B9V9PF-es'
 tags: [  ]

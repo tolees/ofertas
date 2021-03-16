@@ -5,7 +5,7 @@ date: 2020-02-19 15:15:41
 image: 'https://m.media-amazon.com/images/I/31oReIYzhwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XMVY96-es DIM Generous Sujetador Blanco 90C para Mujer'
 sku: 'B005XMVY96-es'
 tags: [  ]

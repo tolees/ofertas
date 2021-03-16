@@ -5,7 +5,7 @@ date: 2020-01-27 20:11:02
 image: 'https://m.media-amazon.com/images/I/41SC9cqwXYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TM1V6J9-es Sneakers Donna FILA 1010748 Autunno/Inverno 37'
 sku: 'B07TM1V6J9-es'
 tags: [  ]

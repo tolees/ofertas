@@ -5,7 +5,7 @@ date: 2020-09-25 09:00:51
 image: 'https://m.media-amazon.com/images/I/41vzU4gFcHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GX4DG81-es Philips Avent SCD301/03 - Set de recién nacido gama...'
 sku: 'B07GX4DG81-es'
 tags: [  ]

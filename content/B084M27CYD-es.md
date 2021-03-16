@@ -5,7 +5,7 @@ date: 2020-06-23 19:02:42
 image: 'https://m.media-amazon.com/images/I/41iLqsF4jXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084M27CYD-es 4 dígitos portátil Conveniente plástico + Metal Contador...'
 sku: 'B084M27CYD-es'
 tags: [  ]

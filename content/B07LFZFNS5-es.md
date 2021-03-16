@@ -5,7 +5,7 @@ date: 2020-04-21 07:01:59
 image: 'https://m.media-amazon.com/images/I/31HKhF7xcEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZFNS5-es Clip de retención de banda elástica 4 x 20 cm Sujetadores...'
 sku: 'B07LFZFNS5-es'
 tags: [  ]

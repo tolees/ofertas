@@ -5,7 +5,7 @@ date: 2020-04-18 19:03:15
 image: 'https://m.media-amazon.com/images/I/312XBC5EwuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2V8CHM-es Jayron JR-LT002 LED Sensor de cuerpo humano Sensor...'
 sku: 'B07K2V8CHM-es'
 tags: [  ]

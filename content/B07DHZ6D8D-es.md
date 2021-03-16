@@ -5,7 +5,7 @@ date: 2020-04-26 22:55:32
 image: 'https://m.media-amazon.com/images/I/41TS3zKbbrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHZ6D8D-es New Balance 574S v2 Zapatillas para Mujer Rosa...'
 sku: 'B07DHZ6D8D-es'
 tags: [  ]

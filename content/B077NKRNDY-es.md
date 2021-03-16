@@ -5,7 +5,7 @@ date: 2020-06-30 10:03:44
 image: 'https://m.media-amazon.com/images/I/51Fk6j7yQFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NKRNDY-es Polaroid Originals 4756 - Bolsa para cámara Color Negro'
 sku: 'B077NKRNDY-es'
 tags: [  ]

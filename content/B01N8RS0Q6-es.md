@@ -5,7 +5,7 @@ date: 2020-03-01 07:10:43
 image: 'https://m.media-amazon.com/images/I/31ZkNAtigGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8RS0Q6-es Beurer FC48 - Cepillo facial resistente a salpicadura s 2...'
 sku: 'B01N8RS0Q6-es'
 tags: [  ]

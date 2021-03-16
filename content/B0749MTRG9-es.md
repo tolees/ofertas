@@ -5,7 +5,7 @@ date: 2020-01-24 15:04:32
 image: 'https://m.media-amazon.com/images/I/413+lWgdr1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0749MTRG9-es BERING Reloj Analógico para Unisex Adultos de Cuarzo con...'
 sku: 'B0749MTRG9-es'
 tags: [  ]

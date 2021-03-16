@@ -5,7 +5,7 @@ date: 2020-05-03 10:25:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ygB2BffCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076H4ZVFQ-es Levi s Sipsey Cinturón Marrón Medium Brown 27 100 para Hombre'
 sku: 'B076H4ZVFQ-es'
 tags: [  ]

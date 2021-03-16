@@ -5,7 +5,7 @@ date: 2020-01-01 18:59:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51UjFJDVRRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C42PCCF-es H. Koenig stc68 aspirador Multi Ciclónico sin bolsa...'
 sku: 'B07C42PCCF-es'
 tags: [  ]

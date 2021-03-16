@@ -5,7 +5,7 @@ date: 2020-10-10 19:18:56
 image: 'https://m.media-amazon.com/images/I/21jLY8XY5rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRCT50P-es Samsung Dream Silicone Cover Funda para smartphone Samsung...'
 sku: 'B01MRCT50P-es'
 tags: [  ]

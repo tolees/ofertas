@@ -5,7 +5,7 @@ date: 2020-01-16 18:51:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31zqv6XHhLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KKEFVK-es Beurer IL11 - Lámpara por infrarrojos compacta 100 W 5...'
 sku: 'B000KKEFVK-es'
 tags: [  ]

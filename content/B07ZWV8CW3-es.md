@@ -5,7 +5,7 @@ date: 2020-03-03 15:32:08
 image: 'https://m.media-amazon.com/images/I/511n4lJMTcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZWV8CW3-es KuGi. para Xiaomi Mi Note 10 Protector de Pantalla TPU...'
 sku: 'B07ZWV8CW3-es'
 tags: [  ]

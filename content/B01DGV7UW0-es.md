@@ -5,7 +5,7 @@ date: 2020-02-27 08:50:37
 image: 'https://m.media-amazon.com/images/I/51KZHe9TxdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DGV7UW0-es Fantasy Flight Games- Star Wars Imperial Assault R2D2 y...'
 sku: 'B01DGV7UW0-es'
 tags: [  ]

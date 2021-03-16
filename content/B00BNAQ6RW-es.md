@@ -5,7 +5,7 @@ date: 2020-02-16 18:18:32
 image: 'https://m.media-amazon.com/images/I/41FCkwOT+2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BNAQ6RW-es Sensai Cellular Eye Contour Balm Contorno de Ojos - 15 ml'
 sku: 'B00BNAQ6RW-es'
 tags: [  ]

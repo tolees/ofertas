@@ -5,7 +5,7 @@ date: 2020-09-24 11:15:44
 image: 'https://m.media-amazon.com/images/I/31d98ArPwZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C3L56VY-es Montecillo Singladuras Vino blanco Denominación de origen...'
 sku: 'B08C3L56VY-es'
 tags: [  ]

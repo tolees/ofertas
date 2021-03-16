@@ -5,7 +5,7 @@ date: 2020-05-16 20:40:39
 image: 'https://m.media-amazon.com/images/I/41rOOXzFF4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004DWWRGG-es Ganchos para Sillas de Paseo GKONGU Pack de 2 Ganchos...'
 sku: 'B004DWWRGG-es'
 tags: [  ]

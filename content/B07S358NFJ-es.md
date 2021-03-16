@@ -5,7 +5,7 @@ date: 2020-04-11 01:43:58
 image: 'https://m.media-amazon.com/images/I/316q7kh9eXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S358NFJ-es Love MoschinoJc4001pp1aMujerBolsos totesMarfil Avorio...'
 sku: 'B07S358NFJ-es'
 tags: [  ]

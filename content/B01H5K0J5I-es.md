@@ -5,7 +5,7 @@ date: 2020-09-21 15:49:19
 image: 'https://m.media-amazon.com/images/I/21WHR2hUOZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H5K0J5I-es Pikolin Home - Pack de 2 fundas protector de almohada...'
 sku: 'B01H5K0J5I-es'
 tags: [  ]

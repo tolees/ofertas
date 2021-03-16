@@ -5,7 +5,7 @@ date: 2020-03-03 16:49:30
 image: 'https://m.media-amazon.com/images/I/3162jJwQMnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQBCLJ1-es SAMSUNG SM-R375NZKADBT Reloj Inteligente Negro 1 88 cm...'
 sku: 'B07NQBCLJ1-es'
 tags: [  ]

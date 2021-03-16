@@ -5,7 +5,7 @@ date: 2020-02-10 09:15:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411RcR6bvuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001N2MLZG-es Helly Hansen HH LIFA Stripe Crew Ropa Interior Hombre...'
 sku: 'B001N2MLZG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-16 19:04:15
 image: 'https://m.media-amazon.com/images/I/21qhOQohx8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CEVFMTW-es STANLEY FATMAX FMHT0-20559 - Serrucho FatMax Plegable para...'
 sku: 'B00CEVFMTW-es'
 tags: [  ]

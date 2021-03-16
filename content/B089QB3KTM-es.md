@@ -5,7 +5,7 @@ date: 2020-08-23 17:28:57
 image: 'https://m.media-amazon.com/images/I/41c3JVRXIiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089QB3KTM-es Extensor para mascarilla para sujetar la mascarilla sin...'
 sku: 'B089QB3KTM-es'
 tags: [  ]

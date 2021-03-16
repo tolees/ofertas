@@ -5,7 +5,7 @@ date: 2020-05-19 20:40:17
 image: 'https://m.media-amazon.com/images/I/31xBFYOcXGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZF1RSN-es Lurrose 80 pañuelos pañuelos pañuelos toallas limpias para...'
 sku: 'B07VZF1RSN-es'
 tags: [  ]

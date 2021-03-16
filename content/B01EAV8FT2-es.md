@@ -5,7 +5,7 @@ date: 2020-09-29 11:52:15
 image: 'https://m.media-amazon.com/images/I/418lIafXF8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EAV8FT2-es Bica - Conjunto de jardín Nebraska de 4 plazas Antracita'
 sku: 'B01EAV8FT2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 00:15:32
 image: 'https://m.media-amazon.com/images/I/41qfrdDMwQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FVZGYRF-es Nuevo 5A + Chinese Top Grade Lago Oeste Spring Longjing Té...'
 sku: 'B07FVZGYRF-es'
 tags: [  ]

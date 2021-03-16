@@ -5,7 +5,7 @@ date: 2020-03-12 19:56:37
 image: 'https://m.media-amazon.com/images/I/41WsjSbznIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MTMNMV-es Puma Basket Satin EP Wn s Zapatillas para Mujer Negro...'
 sku: 'B077MTMNMV-es'
 tags: [  ]

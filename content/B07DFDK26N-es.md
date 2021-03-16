@@ -5,7 +5,7 @@ date: 2020-09-02 19:58:42
 image: 'https://m.media-amazon.com/images/I/318S649jJ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDK26N-es Funko Pop! Simpsons Abuelo Simpson Multicolor FK33881...'
 sku: 'B07DFDK26N-es'
 tags: [  ]

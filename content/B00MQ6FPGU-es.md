@@ -5,7 +5,7 @@ date: 2020-04-25 10:56:22
 image: 'https://m.media-amazon.com/images/I/51q8AsbrA9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MQ6FPGU-es Sangean WFR-29C - Radiodespertador negro'
 sku: 'B00MQ6FPGU-es'
 tags: [  ]

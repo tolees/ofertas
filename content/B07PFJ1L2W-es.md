@@ -5,7 +5,7 @@ date: 2020-06-17 15:41:03
 image: 'https://m.media-amazon.com/images/I/51AjFX43CwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFJ1L2W-es EACLL Bombillas LED GU10 2700K Blanco Cálido 5W 450...'
 sku: 'B07PFJ1L2W-es'
 tags: [  ]

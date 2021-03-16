@@ -5,7 +5,7 @@ date: 2020-03-14 14:02:22
 image: 'https://m.media-amazon.com/images/I/51-KxTD-W7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHLNM9G-es Botella Agua Acero Inoxidable 350/500/750ml Botella...'
 sku: 'B07XHLNM9G-es'
 tags: [  ]

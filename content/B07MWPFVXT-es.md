@@ -5,7 +5,7 @@ date: 2020-02-03 20:22:36
 image: 'https://m.media-amazon.com/images/I/41oDRSXfQsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWPFVXT-es Clarks Emery Sky T Zapatillas para Niños Azul Navy Leather...'
 sku: 'B07MWPFVXT-es'
 tags: [  ]

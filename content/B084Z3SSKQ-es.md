@@ -5,7 +5,7 @@ date: 2020-06-01 14:40:32
 image: 'https://m.media-amazon.com/images/I/314YXbrAZ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084Z3SSKQ-es 1 pieza caliente completo al aire libre bebé infantil...'
 sku: 'B084Z3SSKQ-es'
 tags: [  ]

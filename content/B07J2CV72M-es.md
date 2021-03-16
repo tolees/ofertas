@@ -5,7 +5,7 @@ date: 2020-07-31 23:51:30
 image: 'https://m.media-amazon.com/images/I/31rHsHzGksL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J2CV72M-es find. Edwin Mocasines Hombres Azul Blue 44 EU'
 sku: 'B07J2CV72M-es'
 tags: [  ]

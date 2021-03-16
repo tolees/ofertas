@@ -5,7 +5,7 @@ date: 2020-01-27 08:55:51
 image: 'https://m.media-amazon.com/images/I/41afdsI2ycL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3XL2D5-es Esprit 089ee1i001 suéter Verde Dark Green 5 304 Small para...'
 sku: 'B07S3XL2D5-es'
 tags: [  ]

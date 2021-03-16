@@ -5,7 +5,7 @@ date: 2020-09-07 06:24:13
 image: 'https://m.media-amazon.com/images/I/41DnWI2BODL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075CRSZLT-es El Padrino 1-3 Edición 2017 [Blu-ray]'
 sku: 'B075CRSZLT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 11:47:36
 image: 'https://m.media-amazon.com/images/I/41brp4hGUWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKML9K1-es K-Swiss Court Winston Zapatillas para Mujer Blanco...'
 sku: 'B07TKML9K1-es'
 tags: [  ]

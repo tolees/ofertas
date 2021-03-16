@@ -5,7 +5,7 @@ date: 2020-07-19 10:03:40
 image: 'https://m.media-amazon.com/images/I/31yv+c949rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5LCSBR-es G-STAR RAW Cadet Zapatillas para Hombre Marfil Milk...'
 sku: 'B07X5LCSBR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-29 20:49:27
 image: 'https://m.media-amazon.com/images/I/41ra9OZgHEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9PL51Z-es Napapijri Elbas 2 LS Polo Gris Volcano H74 Small para Hombre'
 sku: 'B07L9PL51Z-es'
 tags: [  ]

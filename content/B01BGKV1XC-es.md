@@ -5,7 +5,7 @@ date: 2020-09-20 18:25:12
 image: 'https://m.media-amazon.com/images/I/21IhPp6gIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGKV1XC-es Pikolin Home - Almohada Fibra antiácaros firmeza media-...'
 sku: 'B01BGKV1XC-es'
 tags: [  ]

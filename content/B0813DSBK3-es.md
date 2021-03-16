@@ -5,7 +5,7 @@ date: 2020-07-09 18:15:06
 image: 'https://m.media-amazon.com/images/I/51w9YXqNdWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813DSBK3-es i-baby Manta Infantil Manta Franela para Chicas Manta de...'
 sku: 'B0813DSBK3-es'
 tags: [  ]

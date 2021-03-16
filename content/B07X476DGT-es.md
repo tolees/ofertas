@@ -5,7 +5,7 @@ date: 2020-05-21 19:32:21
 image: 'https://m.media-amazon.com/images/I/51nYC4xrhTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X476DGT-es Mentos Chicle Sin Azúcar Full Fruit Bote con Sabor a...'
 sku: 'B07X476DGT-es'
 tags: [  ]

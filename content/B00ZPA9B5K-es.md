@@ -5,7 +5,7 @@ date: 2020-02-18 14:31:25
 image: 'https://m.media-amazon.com/images/I/41-Zy14mLdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZPA9B5K-es DISFRAZ REINA DE CORAZONES'
 sku: 'B00ZPA9B5K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 01:22:33
 image: 'https://m.media-amazon.com/images/I/31Vy5gGbE-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZKF8DP-es Swatch Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07TZKF8DP-es'
 tags: [  ]

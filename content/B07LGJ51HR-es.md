@@ -5,7 +5,7 @@ date: 2020-06-29 20:25:31
 image: 'https://m.media-amazon.com/images/I/51ZJyS2QNtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGJ51HR-es Funda iPhone X Funda iPhone XS Libro Carcasa iPhone X con...'
 sku: 'B07LGJ51HR-es'
 tags: [  ]

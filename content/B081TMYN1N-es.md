@@ -5,7 +5,7 @@ date: 2020-07-21 11:28:53
 image: 'https://m.media-amazon.com/images/I/51dD9q1qn2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TMYN1N-es adidas UNIFO LGE Balón de Fútbol Men s White/Black/Signal...'
 sku: 'B081TMYN1N-es'
 tags: [  ]

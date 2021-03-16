@@ -5,7 +5,7 @@ date: 2020-07-28 06:50:20
 image: 'https://m.media-amazon.com/images/I/41qFm5JLcTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCRX8KP-es Bluetooth 5.0 Transmisor y Receptor | TV Bluetooth...'
 sku: 'B07DCRX8KP-es'
 tags: [  ]

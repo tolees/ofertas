@@ -5,7 +5,7 @@ date: 2020-04-21 09:03:59
 image: 'https://m.media-amazon.com/images/I/51dvrfRisyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G7BSV37-es Manta de muselina para bebé suave muselina de algodón para...'
 sku: 'B07G7BSV37-es'
 tags: [  ]

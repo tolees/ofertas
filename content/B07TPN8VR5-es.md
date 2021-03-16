@@ -5,7 +5,7 @@ date: 2020-08-30 19:26:16
 image: 'https://m.media-amazon.com/images/I/4149cHVJm6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPN8VR5-es Arena W V Back One Piece Bañador Deportivo Mujer...'
 sku: 'B07TPN8VR5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-09 16:53:12
 image: 'https://m.media-amazon.com/images/I/41MUWqfhJaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1F7WBG-es LaCabine Ampollas Contorno De Ojos 10 X 2 Ml - 1 Unidad'
 sku: 'B07D1F7WBG-es'
 tags: [  ]

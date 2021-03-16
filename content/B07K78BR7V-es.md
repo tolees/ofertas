@@ -5,7 +5,7 @@ date: 2020-08-08 15:25:34
 image: 'https://m.media-amazon.com/images/I/41H+spBMCOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K78BR7V-es Levi s 502 Regular Taper Jeans Azul Kalsomine 0388 33W /...'
 sku: 'B07K78BR7V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-13 11:26:24
 image: 'https://m.media-amazon.com/images/I/41FvsisKsGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2B4XJJ-es X-TIGER Mujer Ropa Interior de Bicicleta con 3D Gel...'
 sku: 'B07H2B4XJJ-es'
 tags: [  ]

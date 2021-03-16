@@ -5,7 +5,7 @@ date: 2020-05-13 07:11:29
 image: 'https://m.media-amazon.com/images/I/515F01VO-RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LORO7ZQ-es Tarjeta de Memoria SanDisk Extreme SDXC de 256 GB con...'
 sku: 'B01LORO7ZQ-es'
 tags: [  ]

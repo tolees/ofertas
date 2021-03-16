@@ -5,7 +5,7 @@ date: 2020-02-29 20:09:23
 image: 'https://m.media-amazon.com/images/I/31c9KBjkcML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BGVHWD0-es Fruit of the Loom- Polo de Manga Corta Premium Entallado...'
 sku: 'B00BGVHWD0-es'
 tags: [  ]

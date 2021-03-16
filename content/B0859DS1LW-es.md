@@ -5,7 +5,7 @@ date: 2020-05-25 14:36:11
 image: 'https://m.media-amazon.com/images/I/31C7FoumRYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0859DS1LW-es Oihxse Animal Serie Case Compatible con Huawei Y5...'
 sku: 'B0859DS1LW-es'
 tags: [  ]

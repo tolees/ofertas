@@ -5,7 +5,7 @@ date: 2020-03-29 12:16:39
 image: 'https://m.media-amazon.com/images/I/41TZTiI5aML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLLJRS-es Napapijri EILS Polo Verde Green Forest 2 Ge3 XL para Hombre'
 sku: 'B07MMLLJRS-es'
 tags: [  ]

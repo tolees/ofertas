@@ -5,7 +5,7 @@ date: 2020-08-12 05:34:17
 image: 'https://m.media-amazon.com/images/I/31Ia92voUOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NCKSG-es PUMA Ralph Sampson LO Perf Zapatillas Unisex-Adulto Blanco...'
 sku: 'B07S6NCKSG-es'
 tags: [  ]

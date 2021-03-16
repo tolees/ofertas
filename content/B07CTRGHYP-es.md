@@ -5,7 +5,7 @@ date: 2020-01-06 09:32:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LRUA90fHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTRGHYP-es Skechers Flex Advantage 3.0-Jection Zapatillas Deportivas...'
 sku: 'B07CTRGHYP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-14 11:19:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51vZ11hz-PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3PCDV8-es G9 Halogena Bombilla Lámpara 40W Ketom Blanco Calido 2800K...'
 sku: 'B07Z3PCDV8-es'
 tags: [  ]

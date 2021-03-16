@@ -5,7 +5,7 @@ date: 2020-08-08 07:28:09
 image: 'https://m.media-amazon.com/images/I/41DSjkvjpRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CL4FM8J-es VIBORA Tiger 2020'
 sku: 'B08CL4FM8J-es'
 tags: [  ]

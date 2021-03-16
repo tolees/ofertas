@@ -5,7 +5,7 @@ date: 2020-08-21 08:50:36
 image: 'https://m.media-amazon.com/images/I/41oPKK+js6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWLD5B4-es New Balance Fresh Foam Vero Racer m Zapatillas de Running...'
 sku: 'B07KWLD5B4-es'
 tags: [  ]

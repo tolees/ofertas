@@ -5,7 +5,7 @@ date: 2020-08-01 17:48:47
 image: 'https://m.media-amazon.com/images/I/41dYecfiOyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P96KR2H-es Funko- Pop Bobble: Marvel: Venom S2-Groot Figura...'
 sku: 'B07P96KR2H-es'
 tags: [  ]

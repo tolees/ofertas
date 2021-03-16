@@ -5,7 +5,7 @@ date: 2020-05-28 17:08:35
 image: 'https://m.media-amazon.com/images/I/319tv-1HsuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CAUJHRA-es Estee Lauder Perfectly Clean Limpiador Frío Multi-Action...'
 sku: 'B00CAUJHRA-es'
 tags: [  ]

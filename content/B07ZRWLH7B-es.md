@@ -5,7 +5,7 @@ date: 2020-08-11 14:32:23
 image: 'https://m.media-amazon.com/images/I/31rbTDHdjSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRWLH7B-es Tom Ford FT0754 52N Dark Havana FT0754 Pilot Sunglasses...'
 sku: 'B07ZRWLH7B-es'
 tags: [  ]

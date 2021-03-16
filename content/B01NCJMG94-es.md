@@ -5,7 +5,7 @@ date: 2020-04-16 00:04:05
 image: 'https://m.media-amazon.com/images/I/419CEKo6F-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCJMG94-es Columbia Childrens Firecamp™ Sledder II WP Zapatillas de...'
 sku: 'B01NCJMG94-es'
 tags: [  ]

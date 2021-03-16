@@ -5,7 +5,7 @@ date: 2020-07-19 10:42:20
 image: 'https://m.media-amazon.com/images/I/51IMPnLNa0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CCBPHHB-es LUCATEX - rollo Césped artificial Vegas 1x4metros - 40mm...'
 sku: 'B08CCBPHHB-es'
 tags: [  ]

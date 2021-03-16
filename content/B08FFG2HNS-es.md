@@ -5,7 +5,7 @@ date: 2020-09-28 07:17:16
 image: 'https://m.media-amazon.com/images/I/411FAYLFG7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FFG2HNS-es Flysee Eléctrica Juguete Pez para Gato，Peluche de Juguete...'
 sku: 'B08FFG2HNS-es'
 tags: [  ]

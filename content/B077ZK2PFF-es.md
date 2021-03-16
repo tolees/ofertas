@@ -5,7 +5,7 @@ date: 2020-08-22 12:35:26
 image: 'https://m.media-amazon.com/images/I/41c8JgmtrcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZK2PFF-es Braun Silk-épil 3 3-410 - Depiladora Eléctrica para mujer...'
 sku: 'B077ZK2PFF-es'
 tags: [  ]

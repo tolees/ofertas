@@ -5,7 +5,7 @@ date: 2020-03-02 09:27:19
 image: 'https://m.media-amazon.com/images/I/51FWKNKhWkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LX23TW7-es Air Wick Ambientador Freshmatic Recambio - Fragancia...'
 sku: 'B01LX23TW7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-29 09:40:30
 image: 'https://m.media-amazon.com/images/I/41eYGTqR+xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D6CVL3-es Suhctup Funda Compatible para Xiaomi Mi 5X/A1 Carcasa...'
 sku: 'B088D6CVL3-es'
 tags: [  ]

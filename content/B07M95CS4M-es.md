@@ -5,7 +5,7 @@ date: 2020-02-19 20:00:11
 image: 'https://m.media-amazon.com/images/I/31+NZP6p2UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M95CS4M-es Lee Luke Corduroy Pantalones Verde Pine Grove 91 34W / 30L...'
 sku: 'B07M95CS4M-es'
 tags: [  ]

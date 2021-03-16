@@ -5,7 +5,7 @@ date: 2020-06-14 19:09:21
 image: 'https://m.media-amazon.com/images/I/516eCJjmp9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757ZTLB5-es Adidas Altarun CF I Zapatillas de Estar por casa Bebé...'
 sku: 'B0757ZTLB5-es'
 tags: [  ]

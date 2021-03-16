@@ -5,7 +5,7 @@ date: 2020-08-09 19:26:13
 image: 'https://m.media-amazon.com/images/I/41Y4bFZ0n3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNKTBP6-es Reutilizables y Lavables Antipolvo CALIDAD MEJORADA - 1...'
 sku: 'B08BNKTBP6-es'
 tags: [  ]

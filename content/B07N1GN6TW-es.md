@@ -5,7 +5,7 @@ date: 2020-04-13 20:28:48
 image: 'https://m.media-amazon.com/images/I/41pSbxxTOIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GN6TW-es Clarks Un Rio Lace Zapatillas para Mujer Gris Dark Grey...'
 sku: 'B07N1GN6TW-es'
 tags: [  ]

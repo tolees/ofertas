@@ -5,7 +5,7 @@ date: 2020-01-19 22:42:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5107m-tEFtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6DBJ66-es Reloj para Hombre Impermeable Deportivo Reloj cronógrafo...'
 sku: 'B07H6DBJ66-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-04 19:02:03
 image: 'https://m.media-amazon.com/images/I/31RI5EJZ5KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DRNNKI-es MANN-FILTER CUK 2939 Habitáculo Filtro antipolen con...'
 sku: 'B001DRNNKI-es'
 tags: [  ]

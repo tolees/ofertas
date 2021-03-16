@@ -5,7 +5,7 @@ date: 2020-08-30 18:24:47
 image: 'https://m.media-amazon.com/images/I/31Te5DztAbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFGQ45V-es Jabra Talk 55 – Auricular Monoaural In-Ear Llamadas...'
 sku: 'B07DFGQ45V-es'
 tags: [  ]

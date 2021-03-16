@@ -5,7 +5,7 @@ date: 2020-07-03 14:29:08
 image: 'https://m.media-amazon.com/images/I/41WukyyGljL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U2LKWO6-es Incentivador Respiratorio Respiflo FS | Ejercitador...'
 sku: 'B00U2LKWO6-es'
 tags: [  ]

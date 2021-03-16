@@ -5,7 +5,7 @@ date: 2020-06-18 17:34:55
 image: 'https://m.media-amazon.com/images/I/413Evf+RwiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4I4VN5-es Intex 56286EU - Patito mega hinchable 221X221x122 cm'
 sku: 'B01N4I4VN5-es'
 tags: [  ]

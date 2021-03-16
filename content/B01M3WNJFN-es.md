@@ -5,7 +5,7 @@ date: 2020-02-12 13:46:07
 image: 'https://m.media-amazon.com/images/I/51D5x3SW2gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3WNJFN-es Kit Slackline Completo - Kit de Principiante con...'
 sku: 'B01M3WNJFN-es'
 tags: [  ]

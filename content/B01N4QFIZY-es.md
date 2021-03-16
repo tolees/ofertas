@@ -5,7 +5,7 @@ date: 2020-02-29 11:43:51
 image: 'https://m.media-amazon.com/images/I/510+ihwaVzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4QFIZY-es adidas X 17.3 FG Zapatillas de Fútbol para Hombre...'
 sku: 'B01N4QFIZY-es'
 tags: [  ]

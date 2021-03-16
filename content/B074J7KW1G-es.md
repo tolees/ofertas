@@ -5,7 +5,7 @@ date: 2020-02-18 20:06:15
 image: 'https://m.media-amazon.com/images/I/41gFe8dYT6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074J7KW1G-es FLEXI Design M Cinta 5M. Azul'
 sku: 'B074J7KW1G-es'
 tags: [  ]

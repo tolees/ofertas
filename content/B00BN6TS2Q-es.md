@@ -5,7 +5,7 @@ date: 2020-04-10 10:56:24
 image: 'https://m.media-amazon.com/images/I/31QO9-K2OaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN6TS2Q-es Blow 750M Antena emisora CB 300W base magnética...'
 sku: 'B00BN6TS2Q-es'
 tags: [  ]

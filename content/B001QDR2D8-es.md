@@ -5,7 +5,7 @@ date: 2020-04-13 17:00:36
 image: 'https://m.media-amazon.com/images/I/314PUv6PBVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001QDR2D8-es NECA 49503 Coraline Fashion - Muñeca Color Amarillo Azul'
 sku: 'B001QDR2D8-es'
 tags: [  ]

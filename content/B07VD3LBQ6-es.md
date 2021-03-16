@@ -5,7 +5,7 @@ date: 2020-09-24 15:04:03
 image: 'https://m.media-amazon.com/images/I/21qmYtvnY6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD3LBQ6-es Samsung EF-ZN970CPEGWW Clear View - Funda para Galaxy...'
 sku: 'B07VD3LBQ6-es'
 tags: [  ]

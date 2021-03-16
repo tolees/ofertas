@@ -5,7 +5,7 @@ date: 2020-02-16 20:50:41
 image: 'https://m.media-amazon.com/images/I/41UVpcWHNdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVQCFX5-es Louviva Masajeador 10 Modos de Frecuencia Silicona Suave...'
 sku: 'B07NVQCFX5-es'
 tags: [  ]

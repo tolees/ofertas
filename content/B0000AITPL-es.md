@@ -5,7 +5,7 @@ date: 2020-05-23 16:48:38
 image: 'https://m.media-amazon.com/images/I/41fWYG7EZmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000AITPL-es Kärcher Filtro de agua 4.730-059.0'
 sku: 'B0000AITPL-es'
 tags: [  ]

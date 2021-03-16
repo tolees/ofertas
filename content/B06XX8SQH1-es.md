@@ -5,7 +5,7 @@ date: 2020-09-16 13:14:05
 image: 'https://m.media-amazon.com/images/I/41uy8MJJsLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XX8SQH1-es New Balance Mujer 574v2 Core Zapatillas Negro Black 39 EU'
 sku: 'B06XX8SQH1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-22 18:32:02
 image: 'https://m.media-amazon.com/images/I/31or6Mg63jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0828ZGMB1-es Wuyee Un par de Fundas de Botas de Santa en Blanco y Negro...'
 sku: 'B0828ZGMB1-es'
 tags: [  ]

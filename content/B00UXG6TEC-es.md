@@ -5,7 +5,7 @@ date: 2020-04-17 20:29:01
 image: 'https://m.media-amazon.com/images/I/41plXdEWYPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UXG6TEC-es Clarks Trigenic Flex Zapatillas para Mujer Negro Black...'
 sku: 'B00UXG6TEC-es'
 tags: [  ]

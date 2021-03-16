@@ -5,7 +5,7 @@ date: 2020-07-14 15:31:44
 image: 'https://m.media-amazon.com/images/I/51SJYzsTCfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JLIRWTS-es Hugo Boss Orange 1513408 - Reloj de pulsera para hombre'
 sku: 'B01JLIRWTS-es'
 tags: [  ]

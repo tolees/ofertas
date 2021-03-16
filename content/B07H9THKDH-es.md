@@ -5,7 +5,7 @@ date: 2020-01-20 15:14:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Dvqf1DihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9THKDH-es Apple Funda Leather Folio para el iPhone XS Max - Azul cabo'
 sku: 'B07H9THKDH-es'
 tags: [  ]

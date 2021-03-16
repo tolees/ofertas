@@ -5,7 +5,7 @@ date: 2020-07-16 22:39:17
 image: 'https://m.media-amazon.com/images/I/41h4TpV89iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDL8PSZ-es Bourjois Volume Reveal Máscara de pestañas Tono 31 Black -...'
 sku: 'B06XDL8PSZ-es'
 tags: [  ]

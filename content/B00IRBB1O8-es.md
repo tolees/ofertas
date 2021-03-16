@@ -5,7 +5,7 @@ date: 2020-01-31 13:19:53
 image: 'https://m.media-amazon.com/images/I/411ZNGnoYCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IRBB1O8-es Cartier - La Panthère Gel de ducha'
 sku: 'B00IRBB1O8-es'
 tags: [  ]

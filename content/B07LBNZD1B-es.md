@@ -5,7 +5,7 @@ date: 2020-02-24 12:19:19
 image: 'https://m.media-amazon.com/images/I/41IXCbCmubL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBNZD1B-es Helly Hansen Duffel 2 Bolsa De Viaje Deporte Unisex Adulto...'
 sku: 'B07LBNZD1B-es'
 tags: [  ]

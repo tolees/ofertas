@@ -5,7 +5,7 @@ date: 2020-01-18 12:54:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-VjcUysNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPG4WN8-es Skechers Elite Flex-Lochbay Zapatillas para Hombre Azul...'
 sku: 'B07NPG4WN8-es'
 tags: [  ]

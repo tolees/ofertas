@@ -5,7 +5,7 @@ date: 2020-06-22 05:25:31
 image: 'https://m.media-amazon.com/images/I/51WbheMUCBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCNG0HM-es Tomshine 16 pcs Luz Foco Empotrable al Suelo IP67...'
 sku: 'B01NCNG0HM-es'
 tags: [  ]

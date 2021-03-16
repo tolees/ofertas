@@ -5,7 +5,7 @@ date: 2020-08-28 09:59:37
 image: 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B4GB23S-es Vans Atwood Canvas Zapatillas para Hombre Negro Black 186...'
 sku: 'B00B4GB23S-es'
 tags: [  ]

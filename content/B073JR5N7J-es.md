@@ -5,7 +5,7 @@ date: 2019-12-31 17:20:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417RRYdDRLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JR5N7J-es find. Cazadora Acolchada Hombre Azul Navy 54 Talla del...'
 sku: 'B073JR5N7J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-05 18:04:09
 image: 'https://m.media-amazon.com/images/I/41muwYuY45L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSY2QT8-es Six Collection - Figura Caveira'
 sku: 'B07PSY2QT8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-04 19:19:05
 image: 'https://m.media-amazon.com/images/I/414NpqQ1lLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPP8TN-es G-STAR RAW Xpo Raincoat Impermeable Azul Mazarine Blue...'
 sku: 'B07NDPP8TN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-18 14:37:02
 image: 'https://m.media-amazon.com/images/I/41+4xJu1bCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0854DLXTX-es Máscaras desechables de 3 capas de 10 piezas cómoda...'
 sku: 'B0854DLXTX-es'
 tags: [  ]

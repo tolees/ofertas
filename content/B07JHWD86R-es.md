@@ -5,7 +5,7 @@ date: 2020-05-06 16:07:19
 image: 'https://m.media-amazon.com/images/I/41Q3K9D1e5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHWD86R-es Columbia MARAGAL WP Botas Casual para Mujer Marrón...'
 sku: 'B07JHWD86R-es'
 tags: [  ]

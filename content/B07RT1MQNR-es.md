@@ -5,7 +5,7 @@ date: 2020-05-29 16:32:52
 image: 'https://m.media-amazon.com/images/I/51cdiQWeksL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT1MQNR-es Oral-B Kids Cabezales de Recambio con Los Personajes de...'
 sku: 'B07RT1MQNR-es'
 tags: [  ]

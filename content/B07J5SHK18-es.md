@@ -5,7 +5,7 @@ date: 2020-08-20 18:43:12
 image: 'https://m.media-amazon.com/images/I/41VKR4WsWvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5SHK18-es Triumph Lace Spotlight W Sujetador con Aros Naranja Dusty...'
 sku: 'B07J5SHK18-es'
 tags: [  ]

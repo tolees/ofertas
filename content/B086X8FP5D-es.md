@@ -5,7 +5,7 @@ date: 2020-07-03 17:26:26
 image: 'https://m.media-amazon.com/images/I/51suTBtSgwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086X8FP5D-es AivaToba Cinturón Táctico para Hombres Cinturón de...'
 sku: 'B086X8FP5D-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 16:48:46
 image: 'https://m.media-amazon.com/images/I/41dJEIy5IFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LPDSVIO-es AUNA MG-TT-82B - estéreo Tocadiscos accionamiento por...'
 sku: 'B00LPDSVIO-es'
 tags: [  ]

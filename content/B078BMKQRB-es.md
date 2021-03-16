@@ -5,7 +5,7 @@ date: 2020-08-13 06:45:31
 image: 'https://m.media-amazon.com/images/I/61LFR8h9qXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BMKQRB-es TACKLIFE Papeles de Lija de 40 Piezas 40 80 120 240 Granos...'
 sku: 'B078BMKQRB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 07:42:05
 image: 'https://m.media-amazon.com/images/I/41-GsozkQfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRD914T-es Camfosy - Botas de Cuero para mujer color Marrón talla...'
 sku: 'B07HRD914T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-10 09:37:12
 image: 'https://m.media-amazon.com/images/I/41IN7f5E43L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014F4D8JG-es Hangqiao - Rallador de wasabi ajo gengibre herramientas de...'
 sku: 'B014F4D8JG-es'
 tags: [  ]

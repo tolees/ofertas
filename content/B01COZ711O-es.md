@@ -5,7 +5,7 @@ date: 2020-05-18 15:49:23
 image: 'https://m.media-amazon.com/images/I/41jf9p28jsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01COZ711O-es Clarks Originals Boot Botas Desert para Mujer Azul Dark...'
 sku: 'B01COZ711O-es'
 tags: [  ]

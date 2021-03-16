@@ -5,7 +5,7 @@ date: 2020-01-22 20:48:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31WAtR1ItNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQT1M2C-es Springfield Básico Piel Cinturón Dark Brown 105 para Hombre'
 sku: 'B07NQT1M2C-es'
 tags: [  ]

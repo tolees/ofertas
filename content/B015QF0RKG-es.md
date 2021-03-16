@@ -5,7 +5,7 @@ date: 2020-10-02 13:56:57
 image: 'https://m.media-amazon.com/images/I/41X1zP5DXAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015QF0RKG-es Prolinx X-21 - Cable Video 1.5 m Color Negro'
 sku: 'B015QF0RKG-es'
 tags: [  ]

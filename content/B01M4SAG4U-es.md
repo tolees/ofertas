@@ -5,7 +5,7 @@ date: 2020-05-26 17:38:43
 image: 'https://m.media-amazon.com/images/I/51TZerKd2CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4SAG4U-es POP! Vinilo - Games: Mass Effect Andromeda: Jaal'
 sku: 'B01M4SAG4U-es'
 tags: [  ]

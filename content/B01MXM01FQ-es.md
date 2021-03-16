@@ -5,7 +5,7 @@ date: 2020-01-22 15:26:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416cOC9cVPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXM01FQ-es ZJchao - Incubadoras lámpara LED Incubadora de huevos con...'
 sku: 'B01MXM01FQ-es'
 tags: [  ]

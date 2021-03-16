@@ -5,7 +5,7 @@ date: 2020-08-07 19:08:06
 image: 'https://m.media-amazon.com/images/I/41Mpp15EGvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088ZWM2P5-es Rosa 24 K Chapado en Oro Rosa La flor Rosa Artificial es...'
 sku: 'B088ZWM2P5-es'
 tags: [  ]

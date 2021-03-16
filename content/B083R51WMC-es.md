@@ -5,7 +5,7 @@ date: 2020-05-26 08:05:25
 image: 'https://m.media-amazon.com/images/I/41jAKcyI4KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083R51WMC-es OtterBox Commuter - Funda de Protección para Samsung...'
 sku: 'B083R51WMC-es'
 tags: [  ]

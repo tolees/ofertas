@@ -5,7 +5,7 @@ date: 2020-09-08 09:01:27
 image: 'https://m.media-amazon.com/images/I/51lguVe939L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVMSTSQ-es Panamar Juego Entre Padres e Hijos Alfombra no Tejida...'
 sku: 'B08CVMSTSQ-es'
 tags: [  ]

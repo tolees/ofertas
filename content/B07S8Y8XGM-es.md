@@ -5,7 +5,7 @@ date: 2020-06-26 15:34:25
 image: 'https://m.media-amazon.com/images/I/41brVPI2vxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8Y8XGM-es Helly Hansen HH Wash Bag 3 Neceser Unisex Adulto Electric...'
 sku: 'B07S8Y8XGM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-04 12:05:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KIsPlmvxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IKCY9RK-es MOTUL 7100 10W40 4T 4L'
 sku: 'B00IKCY9RK-es'
 tags: [  ]

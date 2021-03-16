@@ -5,7 +5,7 @@ date: 2020-09-10 08:30:54
 image: 'https://m.media-amazon.com/images/I/41ILVLrPcGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076D6JNZV-es KYG Bolsa Estanca 20L Impermeable Seca Set de Bolsa...'
 sku: 'B076D6JNZV-es'
 tags: [  ]

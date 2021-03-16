@@ -5,7 +5,7 @@ date: 2020-04-25 09:27:41
 image: 'https://m.media-amazon.com/images/I/41pw094zJQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7SF8OW-es Pantene Pro-V Champú Anti-Caspa para Todo Tipo de Cabellos...'
 sku: 'B01K7SF8OW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-12 15:03:51
 image: 'https://m.media-amazon.com/images/I/21A6QjTECkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD3HVV3-es Formulaioue Adaptador de Tarjeta de Sonido Externo para...'
 sku: 'B07YD3HVV3-es'
 tags: [  ]

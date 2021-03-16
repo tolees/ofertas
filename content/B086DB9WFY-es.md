@@ -5,7 +5,7 @@ date: 2020-04-22 10:01:04
 image: 'https://m.media-amazon.com/images/I/41ggrDHqQiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086DB9WFY-es Wangxyan Mosquitera Redondo Colcha de cúpula para niños...'
 sku: 'B086DB9WFY-es'
 tags: [  ]

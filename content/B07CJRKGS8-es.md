@@ -5,7 +5,7 @@ date: 2020-09-16 16:48:06
 image: 'https://m.media-amazon.com/images/I/41b-wnOJ9pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJRKGS8-es Asmodee- Raxxon - español Color PHRA0001'
 sku: 'B07CJRKGS8-es'
 tags: [  ]

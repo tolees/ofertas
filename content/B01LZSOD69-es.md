@@ -5,7 +5,7 @@ date: 2020-08-10 19:10:41
 image: 'https://m.media-amazon.com/images/I/41INDvuxDnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZSOD69-es Symantec Norton AntiVirus Basic Base license 1usuario s...'
 sku: 'B01LZSOD69-es'
 tags: [  ]

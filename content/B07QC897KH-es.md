@@ -5,7 +5,7 @@ date: 2020-02-07 13:33:18
 image: 'https://m.media-amazon.com/images/I/31xtpbBgFGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QC897KH-es Pablosky 715420 Mocasines para Niños Azul Azul Azul 26 EU'
 sku: 'B07QC897KH-es'
 tags: [  ]

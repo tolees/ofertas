@@ -5,7 +5,7 @@ date: 2020-06-16 23:45:51
 image: 'https://m.media-amazon.com/images/I/31n9UHCSv2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVVF7FJ-es Skechers Arch Fit Zapatillas para Hombre Azul Navy...'
 sku: 'B07TVVF7FJ-es'
 tags: [  ]

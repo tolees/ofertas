@@ -5,7 +5,7 @@ date: 2020-01-17 09:05:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51trM4mbEOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083P6LLW1-es Luz De Trabajo Led Portátil Recargable Lámpara De Trabajo...'
 sku: 'B083P6LLW1-es'
 tags: [  ]

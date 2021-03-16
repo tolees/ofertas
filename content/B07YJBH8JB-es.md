@@ -5,7 +5,7 @@ date: 2020-05-14 13:40:25
 image: 'https://m.media-amazon.com/images/I/31-9CzqbkxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJBH8JB-es COMVIP Cojín Trenzado de Felpa con Nudos para Cuna...'
 sku: 'B07YJBH8JB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 07:40:54
 image: 'https://m.media-amazon.com/images/I/41C1xImt5WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTCHV7X-es s.Oliver 03.899.61.5232 suéter Negro Black 9999 Medium...'
 sku: 'B07RTCHV7X-es'
 tags: [  ]

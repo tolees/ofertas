@@ -5,7 +5,7 @@ date: 2020-07-19 06:55:52
 image: 'https://m.media-amazon.com/images/I/41Zftz1FDKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY2PF7P-es Volumax Velvet Golden Nude - 7.5 ml'
 sku: 'B07NY2PF7P-es'
 tags: [  ]

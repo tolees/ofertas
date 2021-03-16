@@ -5,7 +5,7 @@ date: 2020-01-20 16:08:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sY4mRhdbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CIR9YS2-es Polesie Wader - Vehículo de Juguete 38166'
 sku: 'B00CIR9YS2-es'
 tags: [  ]

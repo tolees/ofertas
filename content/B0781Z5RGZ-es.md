@@ -5,7 +5,7 @@ date: 2020-06-17 21:08:26
 image: 'https://m.media-amazon.com/images/I/51YnFnuheeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781Z5RGZ-es adidas Gazelle J Zapatillas Unisex Niños Rojo Red Cq2874...'
 sku: 'B0781Z5RGZ-es'
 tags: [  ]

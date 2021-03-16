@@ -5,7 +5,7 @@ date: 2020-08-17 14:31:08
 image: 'https://m.media-amazon.com/images/I/51f+VtDdnXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q5XV17R-es Manijas de Inclinación para Asiento Delantero Derecho e...'
 sku: 'B07Q5XV17R-es'
 tags: [  ]

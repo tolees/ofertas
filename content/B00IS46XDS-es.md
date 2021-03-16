@@ -5,7 +5,7 @@ date: 2020-03-08 06:21:28
 image: 'https://m.media-amazon.com/images/I/511aGpOEziL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IS46XDS-es Travesero empapador impermeable para la cama Máxima...'
 sku: 'B00IS46XDS-es'
 tags: [  ]

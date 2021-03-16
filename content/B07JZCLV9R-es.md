@@ -5,7 +5,7 @@ date: 2020-06-27 17:06:21
 image: 'https://m.media-amazon.com/images/I/312mgOE0ajL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZCLV9R-es Lee Malone Jeans Black Rinse 47 32W / 32L para Hombre'
 sku: 'B07JZCLV9R-es'
 tags: [  ]

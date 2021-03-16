@@ -5,7 +5,7 @@ date: 2020-07-10 08:01:21
 image: 'https://m.media-amazon.com/images/I/31o8V2oICvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ7MFZV-es SAMSUNG LED View Cover Note 10+ Black'
 sku: 'B07TJ7MFZV-es'
 tags: [  ]

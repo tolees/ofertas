@@ -5,7 +5,7 @@ date: 2020-03-14 10:02:13
 image: 'https://m.media-amazon.com/images/I/51bKmnjd6OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H95JSTD-es TUXWANG 3in1 Kit de Costura Ganchillos Agujas de Ganchillo...'
 sku: 'B07H95JSTD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-20 06:35:05
 image: 'https://m.media-amazon.com/images/I/51wn4P74l6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PD1YWVL-es 3 x Recambios para Contenedor de Pañal Sangenic Tommee Tippee'
 sku: 'B07PD1YWVL-es'
 tags: [  ]

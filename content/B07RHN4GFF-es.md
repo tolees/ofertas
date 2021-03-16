@@ -5,7 +5,7 @@ date: 2020-03-09 12:17:43
 image: 'https://m.media-amazon.com/images/I/51X1-+pbVWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHN4GFF-es Pistola de Aire Caliente AREWTEC 2000W Decapadora...'
 sku: 'B07RHN4GFF-es'
 tags: [  ]

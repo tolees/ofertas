@@ -5,7 +5,7 @@ date: 2020-05-07 14:00:41
 image: 'https://m.media-amazon.com/images/I/41sG63KmvEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FDFMXH4-es Suaoki - Mini Compresor de aire portátil bomba inflador...'
 sku: 'B01FDFMXH4-es'
 tags: [  ]

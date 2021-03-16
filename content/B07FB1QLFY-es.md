@@ -5,7 +5,7 @@ date: 2020-03-25 16:34:32
 image: 'https://m.media-amazon.com/images/I/41l4B1HJa2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FB1QLFY-es Joma Winner Camisetas Caballero Hombre Royal/Marino L'
 sku: 'B07FB1QLFY-es'
 tags: [  ]

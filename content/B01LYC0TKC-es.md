@@ -5,7 +5,7 @@ date: 2020-05-26 10:12:03
 image: 'https://m.media-amazon.com/images/I/51+l60oiWtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYC0TKC-es Gourmet Yemas Espárragos Blancos - 110 g'
 sku: 'B01LYC0TKC-es'
 tags: [  ]

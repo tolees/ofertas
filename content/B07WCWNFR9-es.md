@@ -5,7 +5,7 @@ date: 2020-02-26 09:55:37
 image: 'https://m.media-amazon.com/images/I/41tox6dCWiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WCWNFR9-es Sternitz - Bloque de Yoga - Eco-Friendly - No Tóxico -...'
 sku: 'B07WCWNFR9-es'
 tags: [  ]

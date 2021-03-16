@@ -5,7 +5,7 @@ date: 2020-03-08 15:09:33
 image: 'https://m.media-amazon.com/images/I/51YPhvIX6GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQXVWDR-es Under Armour SweaterFleece 1/2 Zip Parte Superior del...'
 sku: 'B07MQXVWDR-es'
 tags: [  ]

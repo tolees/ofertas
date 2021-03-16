@@ -5,7 +5,7 @@ date: 2020-07-10 20:31:32
 image: 'https://m.media-amazon.com/images/I/41aABMjEIgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLMQ3V5-es OrgaWise Joyero Viaje Voyage Plegable Multifuncional para...'
 sku: 'B07VLMQ3V5-es'
 tags: [  ]

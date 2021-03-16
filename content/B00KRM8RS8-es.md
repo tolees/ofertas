@@ -5,7 +5,7 @@ date: 2020-04-14 09:01:15
 image: 'https://m.media-amazon.com/images/I/41JhYpPaexL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KRM8RS8-es Amazon - Funda protectora de cuero para Kindle 7ª...'
 sku: 'B00KRM8RS8-es'
 tags: [  ]

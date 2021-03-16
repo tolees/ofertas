@@ -5,7 +5,7 @@ date: 2020-05-15 16:37:14
 image: 'https://m.media-amazon.com/images/I/31qtD1Xa+QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007F6EBV6-es Lékué Estuche de Vapor Hondo 500 Ml con Bandeja Silicona...'
 sku: 'B007F6EBV6-es'
 tags: [  ]

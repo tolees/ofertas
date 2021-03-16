@@ -5,7 +5,7 @@ date: 2020-04-09 22:28:05
 image: 'https://m.media-amazon.com/images/I/31ZcBQWRs9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PJJQ3Q-es Osram Smart + Apple homekit Classic A RGBW LED Bombilla En...'
 sku: 'B074PJJQ3Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 15:19:55
 image: 'https://m.media-amazon.com/images/I/41BC-G7usYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798TGN2M-es LG 34WK95U-W - Monitor Profesional UltraWide 5K WUHD de...'
 sku: 'B0798TGN2M-es'
 tags: [  ]

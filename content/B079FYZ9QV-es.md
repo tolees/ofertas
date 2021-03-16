@@ -5,7 +5,7 @@ date: 2020-01-08 17:15:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31GRb5gTEiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FYZ9QV-es Woxter QC 10500 - Batería portátil Conexión QC 10.500 mAh...'
 sku: 'B079FYZ9QV-es'
 tags: [  ]

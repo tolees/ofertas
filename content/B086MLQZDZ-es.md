@@ -5,7 +5,7 @@ date: 2020-08-22 08:01:08
 image: 'https://m.media-amazon.com/images/I/41Yi2ujNyTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MLQZDZ-es AUKEH Cargador Surface Pro 36W 12V 2.58A Adaptador de...'
 sku: 'B086MLQZDZ-es'
 tags: [  ]

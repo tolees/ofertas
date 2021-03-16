@@ -5,7 +5,7 @@ date: 2020-07-07 16:10:59
 image: 'https://m.media-amazon.com/images/I/412Sj1q5mtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FO7E07I-es Bestway 52190 - Canasta Hinchable Baloncesto Game Center...'
 sku: 'B00FO7E07I-es'
 tags: [  ]

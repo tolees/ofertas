@@ -5,7 +5,7 @@ date: 2020-04-14 00:30:21
 image: 'https://m.media-amazon.com/images/I/51AoqbyfI0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ1TYXM-es Grid Day One Edition XONE'
 sku: 'B07SJ1TYXM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 05:35:10
 image: 'https://m.media-amazon.com/images/I/31MxbBau2xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085S2NPM5-es Famus Mesa para computadora portátil de Madera...'
 sku: 'B085S2NPM5-es'
 tags: [  ]

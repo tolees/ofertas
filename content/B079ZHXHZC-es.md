@@ -5,7 +5,7 @@ date: 2020-05-27 15:36:31
 image: 'https://m.media-amazon.com/images/I/41BF1TlgGAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZHXHZC-es Oral-B 3D White Luxe Brillo Seductor Pasta Dentífrica 75...'
 sku: 'B079ZHXHZC-es'
 tags: [  ]

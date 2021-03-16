@@ -5,7 +5,7 @@ date: 2020-02-20 09:33:52
 image: 'https://m.media-amazon.com/images/I/51ilJJPzjsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TQQFG3-es Russell Hobbs Steam Power - Centro de Planchado 2600 W...'
 sku: 'B079TQQFG3-es'
 tags: [  ]

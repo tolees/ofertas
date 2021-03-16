@@ -5,7 +5,7 @@ date: 2020-05-09 16:03:22
 image: 'https://m.media-amazon.com/images/I/51jxbgSyEwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078MFZX81-es Distribuidores de señal Splitter Combinador de Cables...'
 sku: 'B078MFZX81-es'
 tags: [  ]

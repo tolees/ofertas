@@ -5,7 +5,7 @@ date: 2020-08-25 01:57:36
 image: 'https://m.media-amazon.com/images/I/41aznkXBfvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B6MWVZ-es Columbia Windgates Polar con Cremallera Completa Mujer...'
 sku: 'B081B6MWVZ-es'
 tags: [  ]

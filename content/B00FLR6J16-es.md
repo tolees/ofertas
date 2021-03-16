@@ -5,7 +5,7 @@ date: 2020-03-19 00:19:26
 image: 'https://m.media-amazon.com/images/I/416+dJoctiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FLR6J16-es hummel Slimmer Stadil High Zapatillas Altas Unisex Negro-...'
 sku: 'B00FLR6J16-es'
 tags: [  ]

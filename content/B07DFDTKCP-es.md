@@ -5,7 +5,7 @@ date: 2020-02-17 14:36:15
 image: 'https://m.media-amazon.com/images/I/41l2pxECdtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDTKCP-es Funko- Pop Vinyl: Kingdom Hearts 3: Riku Figura...'
 sku: 'B07DFDTKCP-es'
 tags: [  ]

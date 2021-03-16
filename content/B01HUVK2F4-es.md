@@ -5,7 +5,7 @@ date: 2020-02-19 15:02:36
 image: 'https://m.media-amazon.com/images/I/41ok8L42qGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HUVK2F4-es Crocs Handle It Rain Boot K Botas de Agua Unisex Niños...'
 sku: 'B01HUVK2F4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-01 13:18:59
 image: 'https://m.media-amazon.com/images/I/5159puNHK3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PK14NY3-es WOSTOO Luces Bicicleta Luces De Bicicleta Faro y Luz...'
 sku: 'B07PK14NY3-es'
 tags: [  ]

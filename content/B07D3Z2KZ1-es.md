@@ -5,7 +5,7 @@ date: 2020-05-25 15:07:25
 image: 'https://m.media-amazon.com/images/I/516B6sk2igL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3Z2KZ1-es Dreaming Kamahaus Elite Colchón con Viscografeno-Soft 150x200'
 sku: 'B07D3Z2KZ1-es'
 tags: [  ]

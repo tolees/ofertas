@@ -5,7 +5,7 @@ date: 2020-07-07 02:00:47
 image: 'https://m.media-amazon.com/images/I/41Fd148ATJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2QMBFH-es New Balance 574v2 Zapatillas para Hombre Gris Grey Sok 40 EU'
 sku: 'B07S2QMBFH-es'
 tags: [  ]

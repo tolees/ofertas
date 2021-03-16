@@ -5,7 +5,7 @@ date: 2020-08-08 07:56:24
 image: 'https://m.media-amazon.com/images/I/41KqjVAqEpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD9ZSNJ-es MOSOTECH Microfono Solapa Omnidireccional Lavalier...'
 sku: 'B07YD9ZSNJ-es'
 tags: [  ]

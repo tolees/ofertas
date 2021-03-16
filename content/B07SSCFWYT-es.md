@@ -5,7 +5,7 @@ date: 2020-02-24 15:48:01
 image: 'https://m.media-amazon.com/images/I/410caMIbr5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSCFWYT-es adidas Coast Star W Zapatillas de Gimnasia para Mujer...'
 sku: 'B07SSCFWYT-es'
 tags: [  ]

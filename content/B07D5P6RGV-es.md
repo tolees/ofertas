@@ -5,7 +5,7 @@ date: 2020-05-02 11:24:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xNPiFUHsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5P6RGV-es Under Armour Charged Cotton 6In 3 Pack Ropa Interior...'
 sku: 'B07D5P6RGV-es'
 tags: [  ]

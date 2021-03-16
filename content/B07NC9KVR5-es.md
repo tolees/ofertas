@@ -5,7 +5,7 @@ date: 2020-04-24 15:11:52
 image: 'https://m.media-amazon.com/images/I/41+C4nPj1LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC9KVR5-es Pepe Jeans MC Queen Short para Hombre Naranja Spice 193...'
 sku: 'B07NC9KVR5-es'
 tags: [  ]

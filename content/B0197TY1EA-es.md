@@ -5,7 +5,7 @@ date: 2020-06-11 07:42:38
 image: 'https://m.media-amazon.com/images/I/619xBLMUMFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0197TY1EA-es Aquabeads - 79278 - Set Anillos Deslumbrantes'
 sku: 'B0197TY1EA-es'
 tags: [  ]

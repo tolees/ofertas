@@ -5,7 +5,7 @@ date: 2020-01-08 15:36:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KgqijUB5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GXWYEV4-es Hollister Wave For Her Perfume - 50 ml'
 sku: 'B01GXWYEV4-es'
 tags: [  ]

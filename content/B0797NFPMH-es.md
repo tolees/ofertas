@@ -5,7 +5,7 @@ date: 2020-05-26 09:34:07
 image: 'https://m.media-amazon.com/images/I/31ObGNd5ywL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797NFPMH-es Avengers - Disfraz de Thor oficial Infinity Wars para...'
 sku: 'B0797NFPMH-es'
 tags: [  ]

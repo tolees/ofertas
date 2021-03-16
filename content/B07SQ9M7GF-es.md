@@ -5,7 +5,7 @@ date: 2020-01-10 11:49:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31w-MJDIHQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ9M7GF-es adidas Coast Star Zapatillas de Gimnasia para Hombre...'
 sku: 'B07SQ9M7GF-es'
 tags: [  ]

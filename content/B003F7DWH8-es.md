@@ -5,7 +5,7 @@ date: 2021-03-16 14:54:53
 image: 'https://m.media-amazon.com/images/I/51-hzOf0QmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003F7DWH8-es Case Logic DCB302K - Bolsa para cámaras Digitales...'
 sku: 'B003F7DWH8-es'
 tags: [ 'case logic', ]
@@ -28,10 +28,10 @@ En este momento está [Case Logic DCB302K - Bolsa para cámaras Digitales compac
 
 🔎:
 
-- Con compartimentos para accesorios
 - Cierre con cremallera
+- Con compartimentos para accesorios
+- Producto está hecho de poliéster
 - Tiene una correa de hombro desmontable
 - Compatible con cámaras digitales compactas, 7,1 x 7,9 x 12,4 cm
-- Producto está hecho de poliéster
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003F7DWH8/?tag=tolees-21)

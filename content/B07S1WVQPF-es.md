@@ -5,7 +5,7 @@ date: 2020-06-06 17:09:48
 image: 'https://m.media-amazon.com/images/I/41ENBXeot6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1WVQPF-es Brooks Launch 6 Zapatillas de Running para Hombre...'
 sku: 'B07S1WVQPF-es'
 tags: [  ]

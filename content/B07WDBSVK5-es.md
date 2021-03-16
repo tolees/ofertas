@@ -5,7 +5,7 @@ date: 2020-02-21 10:55:08
 image: 'https://m.media-amazon.com/images/I/51TvOfyGTxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDBSVK5-es Farming Simulator 19 - Platinum Edition'
 sku: 'B07WDBSVK5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-15 18:59:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BW6tN-bcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DZXCMQ8-es marckonfort Colchón Visco-Gel Feran Ice 120x190 cm 22 cm...'
 sku: 'B01DZXCMQ8-es'
 tags: [  ]

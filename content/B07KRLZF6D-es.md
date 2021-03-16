@@ -5,7 +5,7 @@ date: 2020-01-02 08:30:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OTp%2BInloL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRLZF6D-es New Balance Yc373v1 Zapatillas para Niños Rojo Burgundy...'
 sku: 'B07KRLZF6D-es'
 tags: [  ]

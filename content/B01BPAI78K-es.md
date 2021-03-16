@@ -5,7 +5,7 @@ date: 2020-09-05 10:22:22
 image: 'https://m.media-amazon.com/images/I/31Q8EOY-SvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BPAI78K-es Hugo Boss-Boss Agua fresca - 100 gr.'
 sku: 'B01BPAI78K-es'
 tags: [  ]

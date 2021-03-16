@@ -5,7 +5,7 @@ date: 2020-01-22 16:09:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/512OO%2BXwDzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG9DR7L-es Marshmallow Glitter 40 cm 3 litros Verde Agua'
 sku: 'B07KG9DR7L-es'
 tags: [  ]

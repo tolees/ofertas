@@ -5,7 +5,7 @@ date: 2020-01-16 08:37:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OGq%2BB1X0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZBJKQM-es Cooler Master MasterBox MB511 Midi-Tower Negro Azul - Caja...'
 sku: 'B07CZBJKQM-es'
 tags: [  ]

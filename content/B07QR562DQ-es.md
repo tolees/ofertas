@@ -5,7 +5,7 @@ date: 2020-03-21 08:27:54
 image: 'https://m.media-amazon.com/images/I/41oo1cv0gxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QR562DQ-es Joligrace Bolsa de Maquillaje Profesional de tela Oxford...'
 sku: 'B07QR562DQ-es'
 tags: [  ]

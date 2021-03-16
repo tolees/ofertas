@@ -5,7 +5,7 @@ date: 2020-05-06 14:27:48
 image: 'https://m.media-amazon.com/images/I/41Ue13xt63L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFMFNBP-es Fossil Smartwatch FTW4012'
 sku: 'B07FFMFNBP-es'
 tags: [  ]

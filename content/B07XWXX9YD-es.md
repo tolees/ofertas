@@ -5,7 +5,7 @@ date: 2020-06-27 08:27:09
 image: 'https://m.media-amazon.com/images/I/51XIH+I590L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XWXX9YD-es WESCO Sierra Circular 18V 4000RPM Sierra Recargable 2.0Ah...'
 sku: 'B07XWXX9YD-es'
 tags: [  ]

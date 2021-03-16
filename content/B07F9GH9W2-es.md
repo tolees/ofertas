@@ -5,7 +5,7 @@ date: 2020-10-09 11:33:27
 image: 'https://m.media-amazon.com/images/I/61dIf8k6kJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9GH9W2-es Rayman Legends'
 sku: 'B07F9GH9W2-es'
 tags: [  ]

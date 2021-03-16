@@ -5,7 +5,7 @@ date: 2020-07-24 15:22:15
 image: 'https://m.media-amazon.com/images/I/31KGe0yMf0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DF8NK5X-es Jabra Talk 15 – Auricular Monoaural In-Ear Llamadas...'
 sku: 'B07DF8NK5X-es'
 tags: [  ]

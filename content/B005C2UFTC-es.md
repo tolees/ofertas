@@ -5,7 +5,7 @@ date: 2020-03-05 00:21:44
 image: 'https://m.media-amazon.com/images/I/51BBlnmwLAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005C2UFTC-es Star Wars Trilogía Episodios I-Iii 2011 [Blu-ray]'
 sku: 'B005C2UFTC-es'
 tags: [  ]

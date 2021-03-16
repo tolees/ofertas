@@ -5,7 +5,7 @@ date: 2020-08-16 12:32:31
 image: 'https://m.media-amazon.com/images/I/51pCc20XH2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084SPZ4B8-es Cómodo Cintura Media Verano Mujeres Hombres Casual algodón...'
 sku: 'B084SPZ4B8-es'
 tags: [  ]

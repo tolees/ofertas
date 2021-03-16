@@ -5,7 +5,7 @@ date: 2020-05-27 16:09:36
 image: 'https://m.media-amazon.com/images/I/51A-1L0b5VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088NC9B9B-es Junio1 Cubierta de Techo con Dosel Giratorio para Patio...'
 sku: 'B088NC9B9B-es'
 tags: [  ]

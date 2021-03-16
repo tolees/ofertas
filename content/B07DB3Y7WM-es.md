@@ -5,7 +5,7 @@ date: 2020-07-24 14:39:36
 image: 'https://m.media-amazon.com/images/I/41TCI0TcijL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DB3Y7WM-es Motorkit MOT1000 Kit Restaurador De Faros'
 sku: 'B07DB3Y7WM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 16:24:38
 image: 'https://m.media-amazon.com/images/I/51ZeiP15wpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788NRJRJ-es Salomon Quest 4D 3 GTX W Botas de Senderismo para Mujer...'
 sku: 'B0788NRJRJ-es'
 tags: [  ]

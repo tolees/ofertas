@@ -5,7 +5,7 @@ date: 2020-06-24 13:22:47
 image: 'https://m.media-amazon.com/images/I/41Ou5vNBViL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0A3L2L-es New Balance 410 m Zapatillas para Mujer Plateado Silver...'
 sku: 'B01M0A3L2L-es'
 tags: [  ]

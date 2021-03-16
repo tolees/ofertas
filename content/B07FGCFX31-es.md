@@ -5,7 +5,7 @@ date: 2020-02-07 12:26:45
 image: 'https://m.media-amazon.com/images/I/41+MkF1dSgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FGCFX31-es Columbia Backpedal Outdry Zapatillas de Cross para Mujer...'
 sku: 'B07FGCFX31-es'
 tags: [  ]

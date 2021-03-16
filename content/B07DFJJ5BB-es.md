@@ -5,7 +5,7 @@ date: 2020-08-25 08:09:03
 image: 'https://m.media-amazon.com/images/I/51fQ3CQ319L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFJJ5BB-es Figura Pop NBX: Oogie Boogie Bugs'
 sku: 'B07DFJJ5BB-es'
 tags: [  ]

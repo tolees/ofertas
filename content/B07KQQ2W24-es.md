@@ -5,7 +5,7 @@ date: 2020-01-28 20:22:47
 image: 'https://m.media-amazon.com/images/I/31PDXw56oKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQQ2W24-es Salomon Alphacross GTX W Zapatillas de Trail Running Mujer...'
 sku: 'B07KQQ2W24-es'
 tags: [  ]

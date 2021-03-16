@@ -5,7 +5,7 @@ date: 2020-09-30 15:25:20
 image: 'https://m.media-amazon.com/images/I/41VUEpGuIKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018S1ODI2-es Orbegozo GDB 3600-Plancha Grill 36 cm Negro'
 sku: 'B018S1ODI2-es'
 tags: [  ]

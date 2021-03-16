@@ -5,7 +5,7 @@ date: 2020-04-01 10:11:27
 image: 'https://m.media-amazon.com/images/I/51jV7SzleaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY4A4N4-es COBI 21076 - Discovery Juguete de construcción'
 sku: 'B01MY4A4N4-es'
 tags: [  ]

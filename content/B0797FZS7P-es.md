@@ -5,7 +5,7 @@ date: 2020-09-05 10:30:41
 image: 'https://m.media-amazon.com/images/I/51F-K-TkEWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797FZS7P-es Chicos- Futbolín Strategic Champion 2018 72458'
 sku: 'B0797FZS7P-es'
 tags: [  ]

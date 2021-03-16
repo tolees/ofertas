@@ -5,7 +5,7 @@ date: 2020-05-13 08:45:26
 image: 'https://m.media-amazon.com/images/I/3159z5PZIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01026UNSK-es Trespass - Zapatillas de Tela para el Colegio Modelo Gym...'
 sku: 'B01026UNSK-es'
 tags: [  ]

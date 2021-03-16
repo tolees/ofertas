@@ -5,7 +5,7 @@ date: 2020-07-16 14:38:36
 image: 'https://m.media-amazon.com/images/I/31mAdrO0KHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FJ314FS-es Rimmel London Moisture Renew Barra De Labios Tono 360 As...'
 sku: 'B00FJ314FS-es'
 tags: [  ]

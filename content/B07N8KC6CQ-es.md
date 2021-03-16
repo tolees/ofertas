@@ -5,7 +5,7 @@ date: 2020-02-16 09:05:41
 image: 'https://m.media-amazon.com/images/I/410zY-usg8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8KC6CQ-es BOSS Raio_1 suéter Gris Light/Pastel Grey Medium para Hombre'
 sku: 'B07N8KC6CQ-es'
 tags: [  ]

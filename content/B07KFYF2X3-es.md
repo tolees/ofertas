@@ -5,7 +5,7 @@ date: 2020-01-05 16:36:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31vF0kV9r9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYF2X3-es PUMA Cilia Zapatillas para Mujer Black-Vineyard Wine-...'
 sku: 'B07KFYF2X3-es'
 tags: [  ]

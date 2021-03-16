@@ -5,7 +5,7 @@ date: 2020-08-09 15:50:13
 image: 'https://m.media-amazon.com/images/I/51hfXkfAt8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH7H2WG-es Funda iphone 7 Plus/iphone 8 Plus Case ultrafino diseño de...'
 sku: 'B07HH7H2WG-es'
 tags: [  ]

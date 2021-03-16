@@ -5,7 +5,7 @@ date: 2020-10-07 18:56:41
 image: 'https://m.media-amazon.com/images/I/41935wYsinL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R1BP2Q-es LANGE RSJ 60 Botas de Esquí Niños Azul Power 19.5'
 sku: 'B075R1BP2Q-es'
 tags: [  ]

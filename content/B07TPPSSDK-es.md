@@ -5,7 +5,7 @@ date: 2020-05-14 07:33:37
 image: 'https://m.media-amazon.com/images/I/416U48e-oUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPPSSDK-es Levi s 511 Slim Shorts Pantalones Cortos Azul Baguette...'
 sku: 'B07TPPSSDK-es'
 tags: [  ]

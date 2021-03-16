@@ -5,7 +5,7 @@ date: 2020-02-20 16:57:39
 image: 'https://m.media-amazon.com/images/I/318fwKqS0qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072RJCM3P-es Quiksilver Mission V-Shoes For Men Botas de Nieve para...'
 sku: 'B072RJCM3P-es'
 tags: [  ]

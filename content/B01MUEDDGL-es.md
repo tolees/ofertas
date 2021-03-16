@@ -5,7 +5,7 @@ date: 2020-07-20 15:10:02
 image: 'https://m.media-amazon.com/images/I/411BF57fD9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUEDDGL-es Bestway 43140 - Isla Hinchable Sandía Φ188 cm'
 sku: 'B01MUEDDGL-es'
 tags: [  ]

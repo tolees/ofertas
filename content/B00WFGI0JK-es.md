@@ -5,7 +5,7 @@ date: 2020-03-20 09:26:07
 image: 'https://m.media-amazon.com/images/I/41hLRR31inL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WFGI0JK-es Babymoov procesador de alimentos para bebés Nutribaby...'
 sku: 'B00WFGI0JK-es'
 tags: [  ]

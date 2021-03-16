@@ -5,7 +5,7 @@ date: 2020-02-17 09:48:44
 image: 'https://m.media-amazon.com/images/I/51ADoy5+JuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L8RY92I-es Leathario cinturón de piel para hombre con hebilla de...'
 sku: 'B01L8RY92I-es'
 tags: [  ]

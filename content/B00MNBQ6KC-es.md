@@ -5,7 +5,7 @@ date: 2020-03-19 20:27:13
 image: 'https://m.media-amazon.com/images/I/41xqTj6SRaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MNBQ6KC-es Moulinex Fresh Express DJ753500 Rallador Eléctrico Con 3...'
 sku: 'B00MNBQ6KC-es'
 tags: [  ]

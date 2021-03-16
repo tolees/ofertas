@@ -5,7 +5,7 @@ date: 2020-03-10 14:57:13
 image: 'https://m.media-amazon.com/images/I/41hTRv0ajQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003MT7QG2-es Papel de Armenia rosas 12 uds'
 sku: 'B003MT7QG2-es'
 tags: [  ]

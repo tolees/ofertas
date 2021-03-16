@@ -5,7 +5,7 @@ date: 2021-03-16 15:12:00
 image: 'https://m.media-amazon.com/images/I/51SJfcVLvqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BN97CVR-es MQIAOHAM área de juego para niños colchonetas de espuma de...'
 sku: 'B07BN97CVR-es'
 tags: [ 'mqiaoham', ]

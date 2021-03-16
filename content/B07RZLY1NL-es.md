@@ -5,7 +5,7 @@ date: 2020-06-24 16:26:29
 image: 'https://m.media-amazon.com/images/I/416nucAhhZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLY1NL-es New Balance 373 h Zapatillas para Hombre Azul Navy/Yellow...'
 sku: 'B07RZLY1NL-es'
 tags: [  ]

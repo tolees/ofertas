@@ -5,7 +5,7 @@ date: 2020-01-13 18:05:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mqv9RqbRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WS5M5FB-es Videocamara Videocámara Cámara de Video Full HD 1080p...'
 sku: 'B07WS5M5FB-es'
 tags: [  ]

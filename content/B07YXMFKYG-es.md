@@ -5,7 +5,7 @@ date: 2020-01-15 16:44:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wegTkhsOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXMFKYG-es Calefactor Calentador Eléctrico 500W con Oscilación...'
 sku: 'B07YXMFKYG-es'
 tags: [  ]

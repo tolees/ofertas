@@ -5,7 +5,7 @@ date: 2020-07-01 01:39:40
 image: 'https://m.media-amazon.com/images/I/41Nj3oYRwBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNW8KXR-es Varlion LW Carbon Ti roja Palas Adultos Unisex Rojo...'
 sku: 'B07YNW8KXR-es'
 tags: [  ]

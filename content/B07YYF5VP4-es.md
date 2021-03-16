@@ -5,7 +5,7 @@ date: 2020-04-08 06:15:48
 image: 'https://m.media-amazon.com/images/I/412BTik1cdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYF5VP4-es Cámara para Niños Hommie cámara de Video 1080p HD con...'
 sku: 'B07YYF5VP4-es'
 tags: [  ]

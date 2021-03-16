@@ -5,7 +5,7 @@ date: 2020-08-26 18:01:49
 image: 'https://m.media-amazon.com/images/I/51AyZKX44wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3CQ3GT-es Bruni Película Protectora Compatible con Garmin Vivoactive...'
 sku: 'B07F3CQ3GT-es'
 tags: [  ]

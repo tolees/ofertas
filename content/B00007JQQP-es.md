@@ -5,7 +5,7 @@ date: 2020-05-20 05:42:57
 image: 'https://m.media-amazon.com/images/I/51XgSV2nsGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00007JQQP-es Classic Color Pack Crayons 96 Colors/Box'
 sku: 'B00007JQQP-es'
 tags: [  ]

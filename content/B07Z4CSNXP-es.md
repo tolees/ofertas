@@ -5,7 +5,7 @@ date: 2020-07-15 20:07:06
 image: 'https://m.media-amazon.com/images/I/51y-EcLN1tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4CSNXP-es Reloj de Hombre BENYAR cronógrafo Resistente al Agua con...'
 sku: 'B07Z4CSNXP-es'
 tags: [  ]

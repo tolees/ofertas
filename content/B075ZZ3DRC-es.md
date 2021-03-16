@@ -5,7 +5,7 @@ date: 2020-06-30 11:12:30
 image: 'https://m.media-amazon.com/images/I/41Sh86GGYFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZZ3DRC-es Nike Air Zoom Pegasus 35 Zapatillas de Running para Hombre...'
 sku: 'B075ZZ3DRC-es'
 tags: [  ]

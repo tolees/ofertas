@@ -5,7 +5,7 @@ date: 2020-09-22 10:28:17
 image: 'https://m.media-amazon.com/images/I/412s5GScpGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHS2SVZ-es New Balance 997h Zapatillas para Hombre Azul Navy Hay 42 EU'
 sku: 'B07RHS2SVZ-es'
 tags: [  ]

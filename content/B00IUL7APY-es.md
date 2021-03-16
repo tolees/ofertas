@@ -5,7 +5,7 @@ date: 2020-06-06 16:30:50
 image: 'https://m.media-amazon.com/images/I/41A2o7iw6KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IUL7APY-es Philips Daily HR1623/00 - Batidora de Mano 650 W Picador...'
 sku: 'B00IUL7APY-es'
 tags: [  ]

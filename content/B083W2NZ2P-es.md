@@ -5,7 +5,7 @@ date: 2020-06-23 10:33:07
 image: 'https://m.media-amazon.com/images/I/41CKb2amz2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083W2NZ2P-es NHUAIYINSHUGUOGUANGGAOJINGY Reloj Inteligente Monitor de...'
 sku: 'B083W2NZ2P-es'
 tags: [  ]

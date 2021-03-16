@@ -5,7 +5,7 @@ date: 2020-10-09 07:58:18
 image: 'https://m.media-amazon.com/images/I/319xY07AMdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JRZATUE-es Tristar PZ-2881 Pizzera Máquina para hacer pizzas 30 cm...'
 sku: 'B01JRZATUE-es'
 tags: [  ]

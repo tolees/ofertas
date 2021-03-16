@@ -5,7 +5,7 @@ date: 2020-07-23 16:29:44
 image: 'https://m.media-amazon.com/images/I/31TZ8Zt65hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT7RDQQ-es Tommy Hilfiger Th Sock 3p Giftbox Baby Calcetines Rosa...'
 sku: 'B07TT7RDQQ-es'
 tags: [  ]

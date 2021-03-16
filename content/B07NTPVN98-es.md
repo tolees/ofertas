@@ -5,7 +5,7 @@ date: 2020-05-31 21:40:09
 image: 'https://m.media-amazon.com/images/I/41QyykDttjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NTPVN98-es Sally Hansen Airbrush Legs Maquillaje para piernas Loción...'
 sku: 'B07NTPVN98-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-09 23:30:09
 image: 'https://m.media-amazon.com/images/I/31pZnHqq1tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTRHJBD-es Yonanas 1600 Heladera Aluminio Plateada'
 sku: 'B07FTRHJBD-es'
 tags: [  ]

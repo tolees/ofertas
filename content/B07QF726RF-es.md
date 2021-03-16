@@ -5,7 +5,7 @@ date: 2020-09-23 17:16:26
 image: 'https://m.media-amazon.com/images/I/51Ts7SXjuBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QF726RF-es Cajas Bonitas Para Regalo Caja de Regalo Juego de 100...'
 sku: 'B07QF726RF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 13:07:01
 image: 'https://m.media-amazon.com/images/I/310TA3biZyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018LLIXB2-es Tommy Hilfiger Core Hilfiger Regular Polo Negro Flag Black...'
 sku: 'B018LLIXB2-es'
 tags: [  ]

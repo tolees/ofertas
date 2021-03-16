@@ -5,7 +5,7 @@ date: 2020-09-04 18:31:09
 image: 'https://m.media-amazon.com/images/I/31aeAtCqruL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TN3BCF-es Caja de Almacenamiento de batería AAA Soporte de Caja de...'
 sku: 'B088TN3BCF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 13:08:10
 image: 'https://m.media-amazon.com/images/I/41InJ3XTjWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7XT5GT-es Remington Power Series PR1330 - Máquina de Afeitar...'
 sku: 'B01N7XT5GT-es'
 tags: [  ]

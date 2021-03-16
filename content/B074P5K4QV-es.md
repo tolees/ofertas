@@ -5,7 +5,7 @@ date: 2020-08-10 09:22:10
 image: 'https://m.media-amazon.com/images/I/51y5kAY-ToL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074P5K4QV-es CubicFun National Geographic Puzzle 3D Coliseo Romano...'
 sku: 'B074P5K4QV-es'
 tags: [  ]

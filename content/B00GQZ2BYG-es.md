@@ -5,7 +5,7 @@ date: 2020-02-26 16:40:40
 image: 'https://m.media-amazon.com/images/I/41aN7SVPSLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GQZ2BYG-es Reticare 351P-3500-B - Protector de Ojos Universal High'
 sku: 'B00GQZ2BYG-es'
 tags: [  ]

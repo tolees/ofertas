@@ -5,7 +5,7 @@ date: 2020-08-05 09:09:44
 image: 'https://m.media-amazon.com/images/I/51Arf7JbruL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ77QP1-es DORRISO Lindo Niños Bebe Gorra Cómodo Calentar Pequeña...'
 sku: 'B07JZ77QP1-es'
 tags: [  ]

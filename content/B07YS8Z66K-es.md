@@ -5,7 +5,7 @@ date: 2020-01-17 11:37:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BsuhnCc0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YS8Z66K-es Proyector TOPTRO 6500 Lúmenes Proyector Cine en Casa Full...'
 sku: 'B07YS8Z66K-es'
 tags: [  ]

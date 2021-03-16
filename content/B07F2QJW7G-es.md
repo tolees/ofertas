@@ -5,7 +5,7 @@ date: 2020-02-16 10:04:33
 image: 'https://m.media-amazon.com/images/I/41rDugwKfcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2QJW7G-es Helly Hansen HH Duffel Bag 2 Bolsa de Viaje Unisex Adulto...'
 sku: 'B07F2QJW7G-es'
 tags: [  ]

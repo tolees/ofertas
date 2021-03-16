@@ -5,7 +5,7 @@ date: 2020-01-25 17:27:25
 image: 'https://m.media-amazon.com/images/I/51RUAaIPu5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SX0TOOW-es Calvin Klein Modern Cotton Ropa Interior Gris Grey Heather...'
 sku: 'B00SX0TOOW-es'
 tags: [  ]

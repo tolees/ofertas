@@ -5,7 +5,7 @@ date: 2020-09-30 10:06:14
 image: 'https://m.media-amazon.com/images/I/21wUJEZyN4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FL01O4U-es Elli Collares Solitär Basic Swarovski® Kristalle 925 Silber'
 sku: 'B00FL01O4U-es'
 tags: [  ]

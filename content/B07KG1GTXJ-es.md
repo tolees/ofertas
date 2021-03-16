@@ -5,7 +5,7 @@ date: 2020-03-21 08:01:29
 image: 'https://m.media-amazon.com/images/I/410cmRHcOBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1GTXJ-es Puma Persist Xt Knit Zapatillas Deportivas para Interior...'
 sku: 'B07KG1GTXJ-es'
 tags: [  ]

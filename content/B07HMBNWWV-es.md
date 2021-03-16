@@ -5,7 +5,7 @@ date: 2020-01-29 21:22:26
 image: 'https://m.media-amazon.com/images/I/419fNfjlOgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMBNWWV-es Dardaruga - Estufa de seta calefactora calefacción para...'
 sku: 'B07HMBNWWV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-10 18:39:08
 image: 'https://m.media-amazon.com/images/I/51UKGZxI7TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0116JAU3K-es Thermaltake Riing 14 LED - Ventilador de 140 mm Color Naranja'
 sku: 'B0116JAU3K-es'
 tags: [  ]

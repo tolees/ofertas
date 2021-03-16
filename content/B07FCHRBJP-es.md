@@ -5,7 +5,7 @@ date: 2020-04-18 16:02:53
 image: 'https://m.media-amazon.com/images/I/41L0ZB-K57L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCHRBJP-es hevc Receptor de Satélite Kepnix Nano Adaptador WiFi...'
 sku: 'B07FCHRBJP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 01:34:29
 image: 'https://m.media-amazon.com/images/I/31qY8UXQd9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018UFUOO8-es Quid Temis - Sartén De Aluminio 18 Cm Antiadherente'
 sku: 'B018UFUOO8-es'
 tags: [  ]

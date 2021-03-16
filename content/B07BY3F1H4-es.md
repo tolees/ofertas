@@ -5,7 +5,7 @@ date: 2021-03-16 14:51:34
 image: 'https://m.media-amazon.com/images/I/41Lrve+6-ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BY3F1H4-es MARSGAMING Mars Gaming MKBC Teclado Gaming Oficial FC...'
 sku: 'B07BY3F1H4-es'
 tags: [ 'marsgaming', ]
@@ -28,9 +28,9 @@ Tienes [MARSGAMING Mars Gaming MKBC  Teclado Gaming Oficial FC Barcelona  USB  P
 
 🔎:
 
-- TECLADO OFICIAL FC BARCELONA: El MKBC, teclado oficial del FC Barcelona, cuenta con un diseño en Azul y granate y el escudo del equipo
-- PULSACIÓN OPTIMIZADA: Pulsación optimizada para gaming con teclas elevadas y ratio de respuesta ultra rápido; Capacidad anti-ghosting
 - COMPATIBILIDAD: Teclado Gaming para PS4 /XBOX ONE / Switch /Windows/Linux/Mac, podrás utilizarlo con tus dispositivos favoritos
+- PULSACIÓN OPTIMIZADA: Pulsación optimizada para gaming con teclas elevadas y ratio de respuesta ultra rápido; Capacidad anti-ghosting
 - DISEÑO COMPACTO: Teclado compacto y potente, diseñado para los escritorios más reducidos; Está equipado con una base metálica y USB chapado en oro para garantizar una mejor conectividad
+- TECLADO OFICIAL FC BARCELONA: El MKBC, teclado oficial del FC Barcelona, cuenta con un diseño en Azul y granate y el escudo del equipo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BY3F1H4/?tag=tolees-21)

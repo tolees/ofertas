@@ -5,7 +5,7 @@ date: 2020-09-12 15:06:47
 image: 'https://m.media-amazon.com/images/I/41EK4HFn1QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6UUOY2-es Agua micelar Garnier para piel sensible 700 ml'
 sku: 'B01M6UUOY2-es'
 tags: [  ]

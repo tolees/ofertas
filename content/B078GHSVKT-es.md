@@ -5,7 +5,7 @@ date: 2020-08-02 01:03:03
 image: 'https://m.media-amazon.com/images/I/41cYx7eKcxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GHSVKT-es T4U Artificial Serie de Plantas Suculentas Hierba...'
 sku: 'B078GHSVKT-es'
 tags: [  ]

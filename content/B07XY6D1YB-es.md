@@ -5,7 +5,7 @@ date: 2020-03-04 12:34:13
 image: 'https://m.media-amazon.com/images/I/41g0H6-KOkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XY6D1YB-es Arándano Rojo Capsulas 12 500 mg - 180 Cápsulas Apto Para...'
 sku: 'B07XY6D1YB-es'
 tags: [  ]

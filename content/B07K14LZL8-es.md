@@ -5,7 +5,7 @@ date: 2020-05-06 15:02:58
 image: 'https://m.media-amazon.com/images/I/410adk2H0hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K14LZL8-es Ban presto Figura Dragon Ball GT Master Stars Piece The...'
 sku: 'B07K14LZL8-es'
 tags: [  ]

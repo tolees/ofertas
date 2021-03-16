@@ -5,7 +5,7 @@ date: 2020-09-26 09:12:48
 image: 'https://m.media-amazon.com/images/I/51kIIRgZ3qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C7JN54Y-es Sustratos - Sustrato Vermiculita 5L - Batlle'
 sku: 'B01C7JN54Y-es'
 tags: [  ]

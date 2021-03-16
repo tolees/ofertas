@@ -5,7 +5,7 @@ date: 2020-09-15 12:31:22
 image: 'https://m.media-amazon.com/images/I/31cmMRhmqUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C4M5CX6-es Cepillo de dientes eléctrico tres en uno Vibración de alta...'
 sku: 'B08C4M5CX6-es'
 tags: [  ]

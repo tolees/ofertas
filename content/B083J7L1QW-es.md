@@ -5,7 +5,7 @@ date: 2020-04-16 10:45:35
 image: 'https://m.media-amazon.com/images/I/41QmgwBhdAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083J7L1QW-es Idocolrs - Funda transparente para Airpods 1 y 2 Kawaii...'
 sku: 'B083J7L1QW-es'
 tags: [  ]

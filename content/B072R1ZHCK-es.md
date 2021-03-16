@@ -5,7 +5,7 @@ date: 2020-08-13 09:40:25
 image: 'https://m.media-amazon.com/images/I/51t8VLbhBEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072R1ZHCK-es 24 Tubos de Pintura de Acuarela de Zenacolor - Pintura de...'
 sku: 'B072R1ZHCK-es'
 tags: [  ]

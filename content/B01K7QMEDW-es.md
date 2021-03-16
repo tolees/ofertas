@@ -5,7 +5,7 @@ date: 2020-05-13 17:02:57
 image: 'https://m.media-amazon.com/images/I/51QYBiCxigL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7QMEDW-es La Estrella Café Molido de tueste natural 50% y torrefacto...'
 sku: 'B01K7QMEDW-es'
 tags: [  ]

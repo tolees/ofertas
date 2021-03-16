@@ -5,7 +5,7 @@ date: 2020-05-08 13:38:02
 image: 'https://m.media-amazon.com/images/I/31lxRolZ9tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC5J84Y-es Panamami 2.5 a 3.5 Pulgadas Unidad de Disco Duro SSD HDD...'
 sku: 'B07VC5J84Y-es'
 tags: [  ]

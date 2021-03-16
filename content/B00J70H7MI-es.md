@@ -5,7 +5,7 @@ date: 2020-04-18 01:45:13
 image: 'https://m.media-amazon.com/images/I/418NMKeBCfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J70H7MI-es Natracare Tampon Super Sin Apli - 20 Unidades'
 sku: 'B00J70H7MI-es'
 tags: [  ]

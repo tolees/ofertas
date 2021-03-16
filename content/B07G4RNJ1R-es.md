@@ -5,7 +5,7 @@ date: 2020-08-21 16:54:27
 image: 'https://m.media-amazon.com/images/I/41mLL4NthlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4RNJ1R-es Sony DSCRX100M5A - Cámara Compacta 20.1 MP AF Híbrido de...'
 sku: 'B07G4RNJ1R-es'
 tags: [  ]

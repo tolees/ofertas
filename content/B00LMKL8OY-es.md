@@ -5,7 +5,7 @@ date: 2020-07-12 23:30:07
 image: 'https://m.media-amazon.com/images/I/31JW6F1lKrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LMKL8OY-es Quiksilver Carver Suede M Sndl Tkd0 - Chancletas para...'
 sku: 'B00LMKL8OY-es'
 tags: [  ]

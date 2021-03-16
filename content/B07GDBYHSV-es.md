@@ -5,7 +5,7 @@ date: 2020-02-02 16:31:20
 image: 'https://m.media-amazon.com/images/I/41-Hs0AsH+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDBYHSV-es Juguete Gato Pelota - Carga USB Bola Giratoria Automática...'
 sku: 'B07GDBYHSV-es'
 tags: [  ]

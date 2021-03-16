@@ -5,7 +5,7 @@ date: 2020-04-26 12:25:48
 image: 'https://m.media-amazon.com/images/I/419y6EkWceL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZXI5FMC-es Panasonic KX-TGJ310SPB - Teléfono Fijo Inalámbrico LCD...'
 sku: 'B00ZXI5FMC-es'
 tags: [  ]

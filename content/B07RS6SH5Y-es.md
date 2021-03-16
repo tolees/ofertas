@@ -5,7 +5,7 @@ date: 2020-05-06 12:12:49
 image: 'https://m.media-amazon.com/images/I/41DFtdoLqYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS6SH5Y-es Tommy Hilfiger - Th Core Mini Bucket Bolsos bandolera...'
 sku: 'B07RS6SH5Y-es'
 tags: [  ]

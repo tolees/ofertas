@@ -5,7 +5,7 @@ date: 2020-05-08 11:16:06
 image: 'https://m.media-amazon.com/images/I/31c3yWHiy+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6MTZZT-es VIÑAS DEL VERO TINTO CABERNET-MERLOT ROBLE Vino tinto...'
 sku: 'B07R6MTZZT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-03 09:46:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/511dQSzXSFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082F2DNXC-es Luces solares al aire libre 100 LED 8 modos Luces solares...'
 sku: 'B082F2DNXC-es'
 tags: [  ]

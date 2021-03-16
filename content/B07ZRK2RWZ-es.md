@@ -5,7 +5,7 @@ date: 2020-06-01 16:40:46
 image: 'https://m.media-amazon.com/images/I/31-nOpWZ5iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRK2RWZ-es Gel de sílice Galactorrhea Colección Tapa Colector de...'
 sku: 'B07ZRK2RWZ-es'
 tags: [  ]

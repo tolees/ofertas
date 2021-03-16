@@ -5,7 +5,7 @@ date: 2020-01-20 08:07:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41efNuYvEpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8HYJS3-es Dim Soutien-Gorge Avec Armatures SUBLIM Dentelle Sujetador...'
 sku: 'B07N8HYJS3-es'
 tags: [  ]

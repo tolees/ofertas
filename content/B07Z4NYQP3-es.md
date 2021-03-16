@@ -5,7 +5,7 @@ date: 2020-09-08 11:00:49
 image: 'https://m.media-amazon.com/images/I/51K3AzszMHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4NYQP3-es GALAX PRO Sierra de calar a Batería DC-20V 2500SPM...'
 sku: 'B07Z4NYQP3-es'
 tags: [  ]

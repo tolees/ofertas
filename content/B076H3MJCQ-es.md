@@ -5,7 +5,7 @@ date: 2020-08-12 13:29:56
 image: 'https://m.media-amazon.com/images/I/51YhX6TWl5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076H3MJCQ-es 4pcs 70�x 51�mm al aire libre deporte monopat�n skateboard...'
 sku: 'B076H3MJCQ-es'
 tags: [  ]

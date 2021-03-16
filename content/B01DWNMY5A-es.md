@@ -5,7 +5,7 @@ date: 2020-06-29 13:33:55
 image: 'https://m.media-amazon.com/images/I/31toekOQUxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DWNMY5A-es Verbatim PinStripe 32GB USB 3.0 3.1 Gen 1 Conector USB...'
 sku: 'B01DWNMY5A-es'
 tags: [  ]

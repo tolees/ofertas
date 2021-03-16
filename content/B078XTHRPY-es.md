@@ -5,7 +5,7 @@ date: 2020-04-15 08:21:17
 image: 'https://m.media-amazon.com/images/I/513IBJt3cAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XTHRPY-es Kitchen Emperor Cuchillo Santoku Damasco Cuchillo Acero...'
 sku: 'B078XTHRPY-es'
 tags: [  ]

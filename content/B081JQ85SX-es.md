@@ -5,7 +5,7 @@ date: 2020-09-16 18:31:30
 image: 'https://m.media-amazon.com/images/I/31jKK7rgt4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081JQ85SX-es Justdodo Neopreno DSLR Lente de la cámara Protector Suave...'
 sku: 'B081JQ85SX-es'
 tags: [  ]

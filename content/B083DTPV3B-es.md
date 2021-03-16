@@ -5,7 +5,7 @@ date: 2020-03-11 09:18:52
 image: 'https://m.media-amazon.com/images/I/51X4KzhEeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DTPV3B-es Welinks - Cepillo para polvo de mesita de noche mango...'
 sku: 'B083DTPV3B-es'
 tags: [  ]

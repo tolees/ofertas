@@ -5,7 +5,7 @@ date: 2020-07-05 08:16:11
 image: 'https://m.media-amazon.com/images/I/51HOD5vlhbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F58JZZ4-es Andoer Rótula Pro Ballhead de Metal 360°Giratoria con...'
 sku: 'B07F58JZZ4-es'
 tags: [  ]

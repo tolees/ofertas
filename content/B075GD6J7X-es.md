@@ -5,7 +5,7 @@ date: 2020-01-11 17:56:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XNCfWpV%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GD6J7X-es Triumph Amourette Charm WHP Sujetador Blanco White 03 90A...'
 sku: 'B075GD6J7X-es'
 tags: [  ]

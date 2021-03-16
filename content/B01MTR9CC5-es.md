@@ -5,7 +5,7 @@ date: 2020-07-05 09:20:19
 image: 'https://m.media-amazon.com/images/I/41Ez1OuD8mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTR9CC5-es Salomon Speedcross Vario 2 GTX Calzado de Trail Running...'
 sku: 'B01MTR9CC5-es'
 tags: [  ]

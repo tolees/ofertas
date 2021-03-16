@@ -5,7 +5,7 @@ date: 2020-01-14 12:03:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41m8FK7UzrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6BCBNG-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B06X6BCBNG-es'
 tags: [  ]

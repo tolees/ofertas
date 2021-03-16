@@ -5,7 +5,7 @@ date: 2020-05-28 21:42:57
 image: 'https://m.media-amazon.com/images/I/3183lYg3VGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0714CX9KV-es Targus DOCK160USZ USB 3.0 3.1 Gen 1 Type-A Negro Gris -...'
 sku: 'B0714CX9KV-es'
 tags: [  ]

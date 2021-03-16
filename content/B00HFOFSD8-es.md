@@ -5,7 +5,7 @@ date: 2020-01-04 19:57:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UslIVji%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HFOFSD8-es Keep Out Gaming R4 - Alfombrilla 450x370x3 mm Color Negro...'
 sku: 'B00HFOFSD8-es'
 tags: [  ]

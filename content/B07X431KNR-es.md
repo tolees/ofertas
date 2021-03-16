@@ -5,7 +5,7 @@ date: 2020-09-15 22:09:17
 image: 'https://m.media-amazon.com/images/I/51b5CeBeulL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X431KNR-es Asterix & Obelix XXL3: The Crystal Menhir - Limited Edition'
 sku: 'B07X431KNR-es'
 tags: [  ]

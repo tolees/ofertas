@@ -5,7 +5,7 @@ date: 2020-04-14 16:55:34
 image: 'https://m.media-amazon.com/images/I/618QptCwPGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0LXNPL-es New Fashion Notebook Gift Box Creative Resin Decoration...'
 sku: 'B01N0LXNPL-es'
 tags: [  ]

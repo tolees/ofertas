@@ -5,7 +5,7 @@ date: 2020-05-31 16:38:35
 image: 'https://m.media-amazon.com/images/I/41jq6z15--L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000YS06JI-es Exo Terra Bombilla Bajo Consumo UVB 100 Compacto Repti 13...'
 sku: 'B000YS06JI-es'
 tags: [  ]

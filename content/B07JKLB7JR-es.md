@@ -5,7 +5,7 @@ date: 2020-04-28 18:22:48
 image: 'https://m.media-amazon.com/images/I/41UWodeysOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKLB7JR-es Bateria Externa Movil 25000mAh Power Bank Cargador...'
 sku: 'B07JKLB7JR-es'
 tags: [  ]

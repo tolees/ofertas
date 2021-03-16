@@ -5,7 +5,7 @@ date: 2020-08-20 23:35:15
 image: 'https://m.media-amazon.com/images/I/51-euNSmNAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Y67XMG-es Mr. Tronic 50m Cable de Instalación Red Ethernet Bobina |...'
 sku: 'B079Y67XMG-es'
 tags: [  ]

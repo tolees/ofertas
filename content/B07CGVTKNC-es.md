@@ -5,7 +5,7 @@ date: 2020-03-30 07:37:21
 image: 'https://m.media-amazon.com/images/I/41EAMtyhjLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGVTKNC-es Licuadoras Para Verduras y Frutas Aicok 800W Centrífugo...'
 sku: 'B07CGVTKNC-es'
 tags: [  ]

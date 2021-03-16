@@ -5,7 +5,7 @@ date: 2020-03-07 15:12:14
 image: 'https://m.media-amazon.com/images/I/417F1nL4ONL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DRERKG8-es BRA Plancha Asar Negro 35 cm'
 sku: 'B00DRERKG8-es'
 tags: [  ]

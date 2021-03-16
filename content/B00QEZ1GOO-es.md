@@ -5,7 +5,7 @@ date: 2020-04-08 10:33:33
 image: 'https://m.media-amazon.com/images/I/51cvUc7Y-fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QEZ1GOO-es LEADSTAR Niños Funda para Apple iPad Air 2 / iPad 6 EVA...'
 sku: 'B00QEZ1GOO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-02 07:31:20
 image: 'https://m.media-amazon.com/images/I/51+ZH9vxcdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072V6K1VS-es COMTEX hombres de color blanco reloj con pulsera de acero...'
 sku: 'B072V6K1VS-es'
 tags: [  ]

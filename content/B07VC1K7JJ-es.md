@@ -5,7 +5,7 @@ date: 2020-07-06 10:39:26
 image: 'https://m.media-amazon.com/images/I/41XklaUo1IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC1K7JJ-es Jack & Jones Jcobase Sweat Hood Capucha Verde Winter Moss...'
 sku: 'B07VC1K7JJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-08 19:14:19
 image: 'https://m.media-amazon.com/images/I/41Jl42VCTBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005FPUEW4-es S.Oliver Reloj Analógico de Cuarzo Unisex con Correa de...'
 sku: 'B005FPUEW4-es'
 tags: [  ]

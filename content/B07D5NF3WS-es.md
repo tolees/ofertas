@@ -5,7 +5,7 @@ date: 2020-04-14 10:02:29
 image: 'https://m.media-amazon.com/images/I/51TQX9hm1PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5NF3WS-es Puma Phase Wallet Cartera Puma Black OSFA'
 sku: 'B07D5NF3WS-es'
 tags: [  ]

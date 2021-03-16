@@ -5,7 +5,7 @@ date: 2020-04-12 08:25:00
 image: 'https://m.media-amazon.com/images/I/31dE4ewmR7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBYQZKC-es Craft Pro Control Compression Tight Unisex Black Size : M'
 sku: 'B07GBYQZKC-es'
 tags: [  ]

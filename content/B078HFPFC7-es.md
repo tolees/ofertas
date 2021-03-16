@@ -5,7 +5,7 @@ date: 2020-09-24 05:35:13
 image: 'https://m.media-amazon.com/images/I/31ixAAH+SCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HFPFC7-es Sisbelt Forte Complemento Alimenticio con Berenjena y...'
 sku: 'B078HFPFC7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-20 05:03:30
 image: 'https://m.media-amazon.com/images/I/413pNrOuHVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGZGZNM-es BRIKSMAX Kit de Iluminación Led para Tren De Pasajeros De...'
 sku: 'B07LGZGZNM-es'
 tags: [  ]

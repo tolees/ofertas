@@ -5,7 +5,7 @@ date: 2020-01-27 19:16:10
 image: 'https://m.media-amazon.com/images/I/41JTlhtxAlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P23GGSS-es Skechers Oak Canyon-Redwick Zapatillas para Hombre Blanco...'
 sku: 'B07P23GGSS-es'
 tags: [  ]

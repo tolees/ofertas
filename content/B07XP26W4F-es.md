@@ -5,7 +5,7 @@ date: 2020-01-01 09:47:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/516M1UBGwaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XP26W4F-es coskefy 6 Pares Calcetines Deportivos para Hombre y Mujer...'
 sku: 'B07XP26W4F-es'
 tags: [  ]

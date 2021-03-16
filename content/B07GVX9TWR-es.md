@@ -5,7 +5,7 @@ date: 2020-08-31 11:01:45
 image: 'https://m.media-amazon.com/images/I/31U-JFbtzaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVX9TWR-es HP 250 - Ratón inalámbrico Negro'
 sku: 'B07GVX9TWR-es'
 tags: [  ]

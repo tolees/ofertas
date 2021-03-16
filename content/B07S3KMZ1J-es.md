@@ -5,7 +5,7 @@ date: 2020-01-08 13:19:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3KMZ1J-es Levi s unbasic Hoodie Capucha Multicolor Dunsmuir Floral...'
 sku: 'B07S3KMZ1J-es'
 tags: [  ]

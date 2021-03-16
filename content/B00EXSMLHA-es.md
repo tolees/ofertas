@@ -5,7 +5,7 @@ date: 2020-05-02 11:10:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jbAeJPOHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EXSMLHA-es Grohe BauEdge - Grifo para ducha y baño con sistema de...'
 sku: 'B00EXSMLHA-es'
 tags: [  ]

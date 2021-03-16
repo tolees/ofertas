@@ -5,7 +5,7 @@ date: 2020-02-09 10:09:38
 image: 'https://m.media-amazon.com/images/I/41qse21mSeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPQ7G7L-es Clarins 57929 Joli Rouge Velvet N.762V'
 sku: 'B07PPQ7G7L-es'
 tags: [  ]

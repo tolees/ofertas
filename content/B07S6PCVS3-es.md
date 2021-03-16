@@ -5,7 +5,7 @@ date: 2020-06-24 10:40:20
 image: 'https://m.media-amazon.com/images/I/41LF+ay8LCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6PCVS3-es PUMA NRGY Comet JR Zapatillas Unisex niños Rosa...'
 sku: 'B07S6PCVS3-es'
 tags: [  ]

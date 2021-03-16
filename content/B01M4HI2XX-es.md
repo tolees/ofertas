@@ -5,7 +5,7 @@ date: 2020-02-17 16:29:38
 image: 'https://m.media-amazon.com/images/I/41pOJ-O0zIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4HI2XX-es Lord Mariquita - S'
 sku: 'B01M4HI2XX-es'
 tags: [  ]

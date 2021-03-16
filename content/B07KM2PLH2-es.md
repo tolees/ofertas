@@ -5,7 +5,7 @@ date: 2020-01-13 08:40:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kpbHZTTvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KM2PLH2-es Gant Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07KM2PLH2-es'
 tags: [  ]

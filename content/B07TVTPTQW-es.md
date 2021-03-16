@@ -5,7 +5,7 @@ date: 2020-04-24 12:04:40
 image: 'https://m.media-amazon.com/images/I/41qkuaKLu8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVTPTQW-es Women s Secret Vintage Mv DS Mickey Stripes Nd Camisón...'
 sku: 'B07TVTPTQW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-06 09:53:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41erzCJGHOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPZZPRC-es Asics Gel-Rocket 9 Zapatillas de Deporte Interior para...'
 sku: 'B07QPZZPRC-es'
 tags: [  ]

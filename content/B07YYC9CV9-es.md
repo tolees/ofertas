@@ -5,7 +5,7 @@ date: 2020-03-22 16:05:07
 image: 'https://m.media-amazon.com/images/I/51VSilOjKcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYC9CV9-es CRZ YOGA Sujetador Deportivo Yoga para Mujer Ejercicio...'
 sku: 'B07YYC9CV9-es'
 tags: [  ]

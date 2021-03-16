@@ -5,7 +5,7 @@ date: 2020-08-16 08:01:53
 image: 'https://m.media-amazon.com/images/I/31wr36cDXKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001POTTDO-es Biofinity - Lentes de contacto esféricas mensuales R 8.6 /...'
 sku: 'B001POTTDO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-13 13:53:36
 image: 'https://m.media-amazon.com/images/I/31ktQTjhxLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRK35Q8-es 1 par de imán Pierde peso Nueva tecnología Adelgazamiento...'
 sku: 'B07XRK35Q8-es'
 tags: [  ]

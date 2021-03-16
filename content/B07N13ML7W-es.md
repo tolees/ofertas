@@ -5,7 +5,7 @@ date: 2020-03-15 05:51:14
 image: 'https://m.media-amazon.com/images/I/315NhmzGggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N13ML7W-es Skechers Women s GO Walk 5 Trainers Black Black...'
 sku: 'B07N13ML7W-es'
 tags: [  ]

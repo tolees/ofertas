@@ -5,7 +5,7 @@ date: 2020-07-18 09:48:11
 image: 'https://m.media-amazon.com/images/I/51ZVlE6-XNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P1D11TK-es Gommy s Factory Golosina Coca colas - 12 de 90 gr. Total...'
 sku: 'B07P1D11TK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 10:54:54
 image: 'https://m.media-amazon.com/images/I/41oxRA3uaEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZZ3VF-es PUMA King Hero FG Zapatillas de fútbol Unisex Adulto Negro...'
 sku: 'B07KFZZ3VF-es'
 tags: [  ]

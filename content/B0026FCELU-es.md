@@ -5,7 +5,7 @@ date: 2020-07-01 13:41:39
 image: 'https://m.media-amazon.com/images/I/31DJdsaGvoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0026FCELU-es WMF Profi Plus Termómetro Digital Acero Inoxidable Pulido'
 sku: 'B0026FCELU-es'
 tags: [  ]

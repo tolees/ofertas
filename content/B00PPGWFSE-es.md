@@ -5,7 +5,7 @@ date: 2020-07-01 15:36:59
 image: 'https://m.media-amazon.com/images/I/41q7Mnedz-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PPGWFSE-es Mavala Gel Finish Top Coat Tratamiento de Manicura con...'
 sku: 'B00PPGWFSE-es'
 tags: [  ]

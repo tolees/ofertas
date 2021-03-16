@@ -5,7 +5,7 @@ date: 2020-08-25 07:26:04
 image: 'https://m.media-amazon.com/images/I/51G1OeMJWfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LX79CZT-es NK Tunnel Cámara Deportiva subacuática 4K Ultra HD 16MP...'
 sku: 'B01LX79CZT-es'
 tags: [  ]

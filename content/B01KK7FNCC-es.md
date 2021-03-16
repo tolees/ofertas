@@ -5,7 +5,7 @@ date: 2020-09-10 16:49:18
 image: 'https://m.media-amazon.com/images/I/31uvMFUDlcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KK7FNCC-es NIVEA Hyaluron Cellular Filler + Volumen y Contorno Serum...'
 sku: 'B01KK7FNCC-es'
 tags: [  ]

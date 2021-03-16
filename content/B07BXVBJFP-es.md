@@ -5,7 +5,7 @@ date: 2020-10-04 19:47:46
 image: 'https://m.media-amazon.com/images/I/41Yp+df0dDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXVBJFP-es Carrera RC - Watergun 2.0 Coche Multicolor 370142033'
 sku: 'B07BXVBJFP-es'
 tags: [  ]

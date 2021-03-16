@@ -5,7 +5,7 @@ date: 2020-06-24 06:03:56
 image: 'https://m.media-amazon.com/images/I/41MQ9F4z0iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HPSG4X-es Under Armour Heatgear Armour Middy Corto Mujer Gris MD'
 sku: 'B071HPSG4X-es'
 tags: [  ]

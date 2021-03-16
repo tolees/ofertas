@@ -5,7 +5,7 @@ date: 2020-10-03 10:11:48
 image: 'https://m.media-amazon.com/images/I/41Q2j99x1xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCD17QN-es Syoss Champú para Volumen 0% Siliconas - 500ml'
 sku: 'B07JCD17QN-es'
 tags: [  ]

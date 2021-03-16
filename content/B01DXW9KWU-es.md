@@ -5,7 +5,7 @@ date: 2020-02-24 15:35:39
 image: 'https://m.media-amazon.com/images/I/41wYWm1RKQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DXW9KWU-es Calcetines de Compresión 1 par Amarillo EU 43-47'
 sku: 'B01DXW9KWU-es'
 tags: [  ]

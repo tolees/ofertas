@@ -5,7 +5,7 @@ date: 2020-05-12 12:37:16
 image: 'https://m.media-amazon.com/images/I/31Mh3PFBxTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5LDY9R-es Atomizador de Aftershave de Botella de Aerosol de Perfume...'
 sku: 'B07H5LDY9R-es'
 tags: [  ]

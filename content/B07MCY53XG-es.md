@@ -5,7 +5,7 @@ date: 2020-05-14 09:01:05
 image: 'https://m.media-amazon.com/images/I/41hSLxkGUGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCY53XG-es Saucony Freedom ISO 2 Zapatillas de Running para Mujer...'
 sku: 'B07MCY53XG-es'
 tags: [  ]

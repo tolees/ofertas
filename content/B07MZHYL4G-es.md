@@ -5,7 +5,7 @@ date: 2020-02-05 12:22:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z5hQfKzXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZHYL4G-es Superdry Classic Superstate Pique Polo Rosa Pink Fluro...'
 sku: 'B07MZHYL4G-es'
 tags: [  ]

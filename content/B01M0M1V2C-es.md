@@ -5,7 +5,7 @@ date: 2020-06-24 14:58:36
 image: 'https://m.media-amazon.com/images/I/51jSZ1S7-qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0M1V2C-es Gourmet Panecillos de Ajo y Perejil - 160 g'
 sku: 'B01M0M1V2C-es'
 tags: [  ]

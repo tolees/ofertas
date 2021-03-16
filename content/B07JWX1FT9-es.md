@@ -5,7 +5,7 @@ date: 2020-04-06 00:00:52
 image: 'https://m.media-amazon.com/images/I/41viGSRy1PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWX1FT9-es Columbia Fairbanks 1006 Botas para Hombre Gris Graphite...'
 sku: 'B07JWX1FT9-es'
 tags: [  ]

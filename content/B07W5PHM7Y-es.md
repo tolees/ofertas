@@ -5,7 +5,7 @@ date: 2020-04-14 14:09:48
 image: 'https://m.media-amazon.com/images/I/41rgrqxxb3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5PHM7Y-es Jack & Jones Jcomilla Sweat Hood Capucha Multicolor Sky...'
 sku: 'B07W5PHM7Y-es'
 tags: [  ]

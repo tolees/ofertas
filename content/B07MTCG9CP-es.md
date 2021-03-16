@@ -5,7 +5,7 @@ date: 2020-05-21 07:25:46
 image: 'https://m.media-amazon.com/images/I/31ONXXTYdFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTCG9CP-es Napapijri Mana WINT Pantalones Gris DARK GREY SOLID 198...'
 sku: 'B07MTCG9CP-es'
 tags: [  ]

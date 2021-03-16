@@ -5,7 +5,7 @@ date: 2020-08-21 07:30:47
 image: 'https://m.media-amazon.com/images/I/41QVo9oOhaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN1W9Y4-es Calvin Klein - Revealed 2g Mini Reporter Organizadores de...'
 sku: 'B07RN1W9Y4-es'
 tags: [  ]

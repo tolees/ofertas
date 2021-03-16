@@ -5,7 +5,7 @@ date: 2020-01-25 14:42:19
 image: 'https://m.media-amazon.com/images/I/31parceIo6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH3R5MJ-es Levi s Galoo Reversible Belt Cinturón Negro R Black 59 90...'
 sku: 'B07RH3R5MJ-es'
 tags: [  ]

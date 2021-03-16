@@ -5,7 +5,7 @@ date: 2020-02-16 14:39:57
 image: 'https://m.media-amazon.com/images/I/41omBiOlUjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6LT1H6-es NICREW Temporizador Digital Programable Enchufe...'
 sku: 'B07K6LT1H6-es'
 tags: [  ]

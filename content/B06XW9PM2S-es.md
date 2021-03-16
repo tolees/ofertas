@@ -5,7 +5,7 @@ date: 2020-06-12 08:44:51
 image: 'https://m.media-amazon.com/images/I/41355xk9wrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XW9PM2S-es BA20D Blanca LED Faro Lámpara Lejos Y Cerca De La Señal De...'
 sku: 'B06XW9PM2S-es'
 tags: [  ]

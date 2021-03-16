@@ -5,7 +5,7 @@ date: 2020-03-05 21:32:23
 image: 'https://m.media-amazon.com/images/I/31IFSvI6wgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDTTC51-es Grohe 30 294 DC0 30294DC0-Essence Grifo Cocina...'
 sku: 'B06XDTTC51-es'
 tags: [  ]

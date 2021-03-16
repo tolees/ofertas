@@ -5,7 +5,7 @@ date: 2020-01-12 10:50:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zbcercy1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLHXKLZ-es Versace Jeans CouturePortafoglioMujerCarterasRojo Rosso 0...'
 sku: 'B07NLHXKLZ-es'
 tags: [  ]

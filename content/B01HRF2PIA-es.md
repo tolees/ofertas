@@ -5,7 +5,7 @@ date: 2020-04-28 16:17:02
 image: 'https://m.media-amazon.com/images/I/31ep5LL68iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HRF2PIA-es Kelme - Zapatillas Precision'
 sku: 'B01HRF2PIA-es'
 tags: [  ]

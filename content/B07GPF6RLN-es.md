@@ -5,7 +5,7 @@ date: 2020-01-16 09:40:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ParTw9QEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPF6RLN-es Alicates multiherramientas 12 en 1 plegables portátiles...'
 sku: 'B07GPF6RLN-es'
 tags: [  ]

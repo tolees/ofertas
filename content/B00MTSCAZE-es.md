@@ -5,7 +5,7 @@ date: 2020-02-20 07:09:38
 image: 'https://m.media-amazon.com/images/I/41Wy0yQz7-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MTSCAZE-es Max Factor 53045 Skin Luminizer Base de Maquillaje - 30 ml'
 sku: 'B00MTSCAZE-es'
 tags: [  ]

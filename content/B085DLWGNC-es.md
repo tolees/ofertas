@@ -5,7 +5,7 @@ date: 2020-09-02 18:38:03
 image: 'https://m.media-amazon.com/images/I/41WtHMXZRyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085DLWGNC-es Alfombrilla de Baño Extralargo Alfombra para Bañera...'
 sku: 'B085DLWGNC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-25 06:48:21
 image: 'https://m.media-amazon.com/images/I/41Z2bLMUyrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797QM5LM-es Funko- Pop Movies: It-Mike Hanlon Multicolor 9 cm 30020'
 sku: 'B0797QM5LM-es'
 tags: [  ]

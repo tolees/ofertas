@@ -5,7 +5,7 @@ date: 2020-01-01 10:34:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41H8E9jOs8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWCKL3N-es Jvchengxi Funda Protectora para Galaxy Watch Active...'
 sku: 'B07RWCKL3N-es'
 tags: [  ]

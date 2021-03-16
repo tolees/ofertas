@@ -5,7 +5,7 @@ date: 2020-02-11 17:19:09
 image: 'https://m.media-amazon.com/images/I/51mkfbqDt6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNMM1GK-es Lámpara de Plantas Yokunat 60 LED Luz de la Planta...'
 sku: 'B07MNMM1GK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 11:24:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31USG1A%2BJjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0056ERF3K-es Nike M Nk Dry Acdmy Top SS T-Shirt Hombre Black/White/ White'
 sku: 'B0056ERF3K-es'
 tags: [  ]

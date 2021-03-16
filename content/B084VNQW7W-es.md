@@ -5,7 +5,7 @@ date: 2020-02-23 18:19:35
 image: 'https://m.media-amazon.com/images/I/41GHLlyutLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084VNQW7W-es Coñac Naranja Marrón Báltico Ámbar Bola de Oro Vermeil...'
 sku: 'B084VNQW7W-es'
 tags: [  ]

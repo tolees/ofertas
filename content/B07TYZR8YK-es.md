@@ -5,7 +5,7 @@ date: 2020-07-17 06:38:45
 image: 'https://m.media-amazon.com/images/I/51x3VqicmvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYZR8YK-es Max Factor Skin Match Blush Colorete Tono 0075- 8.25 gr'
 sku: 'B07TYZR8YK-es'
 tags: [  ]

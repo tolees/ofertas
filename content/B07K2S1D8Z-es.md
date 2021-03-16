@@ -5,7 +5,7 @@ date: 2020-06-01 14:47:40
 image: 'https://m.media-amazon.com/images/I/41Mxun2Hm8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2S1D8Z-es Under Armour UA HOVR Rise Zapatillas Deportivas para...'
 sku: 'B07K2S1D8Z-es'
 tags: [  ]

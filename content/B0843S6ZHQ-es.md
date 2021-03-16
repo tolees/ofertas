@@ -5,7 +5,7 @@ date: 2020-05-16 13:32:01
 image: 'https://m.media-amazon.com/images/I/41z5D7Inb4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0843S6ZHQ-es NHUAIYINSHUGUOGUANGGAOJINGY 1/3"Color CMOS 1200TVL 24 LED...'
 sku: 'B0843S6ZHQ-es'
 tags: [  ]

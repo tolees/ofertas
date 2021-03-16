@@ -5,7 +5,7 @@ date: 2020-01-13 09:53:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZCBbT937L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006NZHL2G-es Nike W Np Pro Classic Swoosh Bra Sujetador deportivo para...'
 sku: 'B006NZHL2G-es'
 tags: [  ]

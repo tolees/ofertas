@@ -5,7 +5,7 @@ date: 2020-09-18 13:56:39
 image: 'https://m.media-amazon.com/images/I/41Ghpbcw8kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000MX1YQY-es Casio Reloj Digital para Unisex de Cuarzo con Correa en...'
 sku: 'B000MX1YQY-es'
 tags: [  ]

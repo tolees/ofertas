@@ -5,7 +5,7 @@ date: 2020-02-04 19:21:48
 image: 'https://m.media-amazon.com/images/I/41IDBsCGyWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLXW3L6-es Panama Jack Tania Botas Altas para Mujer Azul Marino B31...'
 sku: 'B07DLXW3L6-es'
 tags: [  ]

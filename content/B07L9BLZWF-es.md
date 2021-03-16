@@ -5,7 +5,7 @@ date: 2020-04-04 10:04:08
 image: 'https://m.media-amazon.com/images/I/412bbZuivXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9BLZWF-es Under Armour Qualifier Coldgear Tight Legging Hombre Negro MD'
 sku: 'B07L9BLZWF-es'
 tags: [  ]

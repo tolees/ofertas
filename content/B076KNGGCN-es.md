@@ -5,7 +5,7 @@ date: 2020-03-10 12:01:36
 image: 'https://m.media-amazon.com/images/I/41twQnO+pDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076KNGGCN-es MSI WS63VR 7RL-072ES - Ordenador portátil de 15.6" UHD...'
 sku: 'B076KNGGCN-es'
 tags: [  ]

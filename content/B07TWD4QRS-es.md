@@ -5,7 +5,7 @@ date: 2020-08-14 18:07:10
 image: 'https://m.media-amazon.com/images/I/41IrNt0gzCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWD4QRS-es loud + proud Striped Shorts Organic Cotton Pantalones...'
 sku: 'B07TWD4QRS-es'
 tags: [  ]

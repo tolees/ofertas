@@ -5,7 +5,7 @@ date: 2020-01-15 08:09:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41um2r%2BW4bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QKVPJ4-es Tiny Love Oscar el murciélago Into the Forest juguete...'
 sku: 'B076QKVPJ4-es'
 tags: [  ]

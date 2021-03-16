@@ -5,7 +5,7 @@ date: 2020-05-23 18:07:27
 image: 'https://m.media-amazon.com/images/I/51lSBCnYxBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EY8LKS4-es Oral-B Precision Clean Cabezales de Recambio Pack de 12...'
 sku: 'B01EY8LKS4-es'
 tags: [  ]

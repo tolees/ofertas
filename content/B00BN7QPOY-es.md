@@ -5,7 +5,7 @@ date: 2020-06-23 09:47:25
 image: 'https://m.media-amazon.com/images/I/41yZnqgNGDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN7QPOY-es Carissima Gold Pendientes de mujer con oro amarillo de 9 K...'
 sku: 'B00BN7QPOY-es'
 tags: [  ]

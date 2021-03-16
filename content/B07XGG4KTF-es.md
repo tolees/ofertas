@@ -5,7 +5,7 @@ date: 2020-03-06 20:06:32
 image: 'https://m.media-amazon.com/images/I/51iHBt6ejEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGG4KTF-es LK [3 Pack] Protector de Pantalla para Xiaomi Redmi Note 8...'
 sku: 'B07XGG4KTF-es'
 tags: [  ]

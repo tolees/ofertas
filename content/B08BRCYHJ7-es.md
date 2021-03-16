@@ -5,7 +5,7 @@ date: 2020-08-29 20:45:52
 image: 'https://m.media-amazon.com/images/I/61WCj+FKN9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BRCYHJ7-es Guirnalda de luces LED 3 x 3 m 300 ledes luz blanca cálida...'
 sku: 'B08BRCYHJ7-es'
 tags: [  ]

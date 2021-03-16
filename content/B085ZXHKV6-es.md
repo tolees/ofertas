@@ -5,7 +5,7 @@ date: 2020-06-21 17:54:00
 image: 'https://m.media-amazon.com/images/I/41mAaLJUi7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZXHKV6-es Bovon Soporte Móvil Soporte para iPad Mini Multiángulo...'
 sku: 'B085ZXHKV6-es'
 tags: [  ]

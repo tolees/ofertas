@@ -5,7 +5,7 @@ date: 2020-05-29 11:40:41
 image: 'https://m.media-amazon.com/images/I/31IIX1HttgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7KHW1W-es Fundas para iPhone Dolce&Gabbana iPhone 6g Hombre - Piel...'
 sku: 'B07H7KHW1W-es'
 tags: [  ]

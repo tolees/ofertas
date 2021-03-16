@@ -5,7 +5,7 @@ date: 2020-04-01 16:33:23
 image: 'https://m.media-amazon.com/images/I/31DmzIxS9hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGPVL13-es Buff Laelia Gorra Baseball Mujer Pale Peach Talla única'
 sku: 'B07KGPVL13-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-20 12:09:04
 image: 'https://m.media-amazon.com/images/I/31-yy8NX+DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT6CXQQ-es Mr. Wonderful Carpeta archivadora-Apunta Alto y llegarás...'
 sku: 'B07RT6CXQQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 09:33:59
 image: 'https://m.media-amazon.com/images/I/41vfLkHRhFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087VH7KFX-es Columbia Lake 22 Chaquetas Hombre Bright Indigo M'
 sku: 'B087VH7KFX-es'
 tags: [  ]

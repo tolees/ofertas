@@ -5,7 +5,7 @@ date: 2020-08-26 08:23:32
 image: 'https://m.media-amazon.com/images/I/31RtyHgfWeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHHJJ3J-es Max Factor False Lash Effect Rise & Shine Black Máscara de...'
 sku: 'B07MHHJJ3J-es'
 tags: [  ]

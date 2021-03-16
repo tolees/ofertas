@@ -5,7 +5,7 @@ date: 2020-08-26 14:49:41
 image: 'https://m.media-amazon.com/images/I/51tQI1uuvYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WTZZ6C-es Aigostar - Bolsas para envasar al vacío. Reutilizables...'
 sku: 'B082WTZZ6C-es'
 tags: [  ]

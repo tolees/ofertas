@@ -5,7 +5,7 @@ date: 2020-07-14 19:52:10
 image: 'https://m.media-amazon.com/images/I/31wCUigx6iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FBL5JR-es CuteRose Men Jammer Cycling Stretch Breathable Athletic...'
 sku: 'B082FBL5JR-es'
 tags: [  ]

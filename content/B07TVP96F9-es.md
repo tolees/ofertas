@@ -5,7 +5,7 @@ date: 2020-06-08 10:05:03
 image: 'https://m.media-amazon.com/images/I/51DALDdiSnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVP96F9-es Gillette Mach3 Recambio de Maquinilla de Afeitar para...'
 sku: 'B07TVP96F9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 09:18:01
 image: 'https://m.media-amazon.com/images/I/31aPWoiiQbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W67TY6P-es Feline 7.0'
 sku: 'B07W67TY6P-es'
 tags: [  ]

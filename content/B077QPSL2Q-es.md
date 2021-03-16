@@ -5,7 +5,7 @@ date: 2020-01-03 10:22:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OCipKXQwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QPSL2Q-es Superga 2750-cotbumpj Zapatillas de Gimnasia Unisex Niños...'
 sku: 'B077QPSL2Q-es'
 tags: [  ]

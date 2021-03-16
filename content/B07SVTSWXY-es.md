@@ -5,7 +5,7 @@ date: 2020-04-13 08:17:29
 image: 'https://m.media-amazon.com/images/I/61fj-7kGC-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVTSWXY-es Maneki Neko Feng Shui Colgante con gato Japonés Porcelana...'
 sku: 'B07SVTSWXY-es'
 tags: [  ]

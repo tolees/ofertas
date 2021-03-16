@@ -5,7 +5,7 @@ date: 2020-06-19 15:46:18
 image: 'https://m.media-amazon.com/images/I/51A+5vT3-qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFKFGYT-es Kit de Inicio de Bordado Patrón de Plantas Accesorios de...'
 sku: 'B07WFKFGYT-es'
 tags: [  ]

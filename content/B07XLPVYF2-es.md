@@ -5,7 +5,7 @@ date: 2020-05-26 18:41:00
 image: 'https://m.media-amazon.com/images/I/31gHSIwW4xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLPVYF2-es Cuchara de Limpieza de Cerumen Oído con Luz LED...'
 sku: 'B07XLPVYF2-es'
 tags: [  ]

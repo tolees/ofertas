@@ -5,7 +5,7 @@ date: 2020-08-31 11:30:18
 image: 'https://m.media-amazon.com/images/I/31WH7GXatbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMDVHNV-es GARDENA 750 B 12007-20 Cortarramas EnergyCut la podadera...'
 sku: 'B07JMDVHNV-es'
 tags: [  ]

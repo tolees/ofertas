@@ -5,7 +5,7 @@ date: 2020-04-06 15:13:21
 image: 'https://m.media-amazon.com/images/I/41GHk3ESbPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F2T83VG-es Reebok Royal Glide Zapatillas de deporte Hombre Blanco...'
 sku: 'B01F2T83VG-es'
 tags: [  ]

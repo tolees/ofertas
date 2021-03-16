@@ -5,7 +5,7 @@ date: 2020-03-30 03:23:35
 image: 'https://m.media-amazon.com/images/I/31CN0Br9NhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008LTT8V4-es L Oréal Paris Barra de Labios Color Riche Creme 297 lntense'
 sku: 'B008LTT8V4-es'
 tags: [  ]

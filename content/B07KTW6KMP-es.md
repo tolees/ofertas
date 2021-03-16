@@ -5,7 +5,7 @@ date: 2020-01-03 15:58:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZCYoD6JnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTW6KMP-es adidas Must Have 3-Streifen Tiro Hose Pantalones...'
 sku: 'B07KTW6KMP-es'
 tags: [  ]

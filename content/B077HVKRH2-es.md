@@ -5,7 +5,7 @@ date: 2020-01-07 19:14:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YYZ88280L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HVKRH2-es G-STAR RAW Rovulc Denim Mid Sneakers Zapatillas para Mujer...'
 sku: 'B077HVKRH2-es'
 tags: [  ]

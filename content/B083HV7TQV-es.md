@@ -5,7 +5,7 @@ date: 2020-07-12 08:02:16
 image: 'https://m.media-amazon.com/images/I/51eZ62akAOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HV7TQV-es Aiglam Sistema de Enfriamiento por Nebulización Kit...'
 sku: 'B083HV7TQV-es'
 tags: [  ]

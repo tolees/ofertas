@@ -5,7 +5,7 @@ date: 2020-02-01 11:46:43
 image: 'https://m.media-amazon.com/images/I/41FFi+AbDFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVBRJ8Y-es Skechers SELMEN WALDER Botas Clasicas para Hombre Negro...'
 sku: 'B07NVBRJ8Y-es'
 tags: [  ]

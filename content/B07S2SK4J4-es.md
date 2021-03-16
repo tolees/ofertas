@@ -5,7 +5,7 @@ date: 2020-04-03 18:08:08
 image: 'https://m.media-amazon.com/images/I/41SJJnrGIiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2SK4J4-es New Balance 997h Zapatillas para Hombre Gris Grey/Navy Heq...'
 sku: 'B07S2SK4J4-es'
 tags: [  ]

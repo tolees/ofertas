@@ -5,7 +5,7 @@ date: 2020-08-10 21:30:03
 image: 'https://m.media-amazon.com/images/I/41vUlRr+0aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBEPK9J-es POP! Vinilo - DC: DC Bombshells Katana'
 sku: 'B01NBEPK9J-es'
 tags: [  ]

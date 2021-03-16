@@ -5,7 +5,7 @@ date: 2020-07-13 18:06:58
 image: 'https://m.media-amazon.com/images/I/41g0BF9BGpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVNXJB1-es Panasonic Lumix G90H - Cámara Evil de 20.3 MP Pantalla de...'
 sku: 'B07SVNXJB1-es'
 tags: [  ]

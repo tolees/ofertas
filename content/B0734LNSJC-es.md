@@ -5,7 +5,7 @@ date: 2020-01-01 09:32:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51M0RgjbCKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0734LNSJC-es TAZA CERAMICA 325 ML CON CAJA | BATMAN LOGO'
 sku: 'B0734LNSJC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-05 18:08:35
 image: 'https://m.media-amazon.com/images/I/41jdlFe06dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WT6BKD-es Llave USB 32 GB First Order BB Unit TLJ - Memoria Flash...'
 sku: 'B078WT6BKD-es'
 tags: [  ]

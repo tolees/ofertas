@@ -5,7 +5,7 @@ date: 2020-08-24 00:19:47
 image: 'https://m.media-amazon.com/images/I/41anGA6cUEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THC63GX-es Skechers Melson Raymon Zapatillas para Hombre Verde Khaki...'
 sku: 'B07THC63GX-es'
 tags: [  ]

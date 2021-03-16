@@ -5,7 +5,7 @@ date: 2020-04-06 05:16:54
 image: 'https://m.media-amazon.com/images/I/619ErbdeP4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJ9VY9K-es Tatuer Pegatinas Album Fotos Bricolaje Esquinas Adhesivas...'
 sku: 'B07QJ9VY9K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 19:51:40
 image: 'https://m.media-amazon.com/images/I/51NNBe6W4pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TN2C9QY-es Velvet 2ª temporada [Blu-ray]'
 sku: 'B00TN2C9QY-es'
 tags: [  ]

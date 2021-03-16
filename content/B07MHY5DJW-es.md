@@ -5,7 +5,7 @@ date: 2020-05-14 10:30:00
 image: 'https://m.media-amazon.com/images/I/318qvKPPSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHY5DJW-es Kickers Swibo Botas Clasicas para Hombre Verde Kaki 20 46 EU'
 sku: 'B07MHY5DJW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 12:24:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FMMI4O6GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9BC86F-es Under Armour Speedpocket Linerless 7 Pantalones Cortos...'
 sku: 'B07L9BC86F-es'
 tags: [  ]

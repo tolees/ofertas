@@ -5,7 +5,7 @@ date: 2020-02-02 12:08:48
 image: 'https://m.media-amazon.com/images/I/41uy8MJJsLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWY7CVR-es New Balance WL574EB Zapatillas Mujer Negro Black 41 EU'
 sku: 'B06XWY7CVR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-23 18:49:44
 image: 'https://m.media-amazon.com/images/I/41M54Ak4X7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZBLNH6-es BRA Efficient Iron - Parrilla redonda lisa 32 cm fabricada...'
 sku: 'B079ZBLNH6-es'
 tags: [  ]

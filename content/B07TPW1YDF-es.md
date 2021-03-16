@@ -5,7 +5,7 @@ date: 2020-03-22 11:51:59
 image: 'https://m.media-amazon.com/images/I/411fVGs5U9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPW1YDF-es Superdry Core Logo Stripe Hood Capucha Azul Eclipse Navy...'
 sku: 'B07TPW1YDF-es'
 tags: [  ]

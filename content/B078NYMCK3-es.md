@@ -5,7 +5,7 @@ date: 2020-08-22 03:46:59
 image: 'https://m.media-amazon.com/images/I/51ZwAr0BtgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NYMCK3-es HongYH 2-Pack Ropa para Perros Perros Gatos Onesie Pijamas...'
 sku: 'B078NYMCK3-es'
 tags: [  ]

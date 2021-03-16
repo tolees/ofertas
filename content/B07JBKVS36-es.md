@@ -5,7 +5,7 @@ date: 2020-02-22 07:45:35
 image: 'https://m.media-amazon.com/images/I/41hLuxGv+-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBKVS36-es Suplemento Para Articulaciones Vegavero® | 100% VEGETAL |...'
 sku: 'B07JBKVS36-es'
 tags: [  ]

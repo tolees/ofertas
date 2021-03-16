@@ -5,7 +5,7 @@ date: 2020-03-08 11:29:38
 image: 'https://m.media-amazon.com/images/I/41e+tiGjn9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B59HS9C-es Camin Sidra Natural de 6º - Paquete de 6 botellas de 70 -...'
 sku: 'B07B59HS9C-es'
 tags: [  ]

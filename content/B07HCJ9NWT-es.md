@@ -5,7 +5,7 @@ date: 2020-10-01 11:39:32
 image: 'https://m.media-amazon.com/images/I/41bdeAHMEOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCJ9NWT-es Skechers Men s STAMINA CUTBACK Trainers Grey Charcoal...'
 sku: 'B07HCJ9NWT-es'
 tags: [  ]

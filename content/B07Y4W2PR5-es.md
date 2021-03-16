@@ -5,7 +5,7 @@ date: 2020-01-27 21:15:55
 image: 'https://m.media-amazon.com/images/I/51auEPK6X5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4W2PR5-es Doctor Hetzner Botelleros Vino DIY Soporte de Botella 28 *...'
 sku: 'B07Y4W2PR5-es'
 tags: [  ]

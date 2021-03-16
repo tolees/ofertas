@@ -5,7 +5,7 @@ date: 2020-03-23 17:27:41
 image: 'https://m.media-amazon.com/images/I/41lxBGJBJEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XY68B4W-es Imperial Confort - Topper viscoelástico - 150 x 190 cm -...'
 sku: 'B06XY68B4W-es'
 tags: [  ]

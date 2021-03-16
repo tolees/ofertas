@@ -5,7 +5,7 @@ date: 2020-04-27 21:34:17
 image: 'https://m.media-amazon.com/images/I/41hQ+wjU1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DTGR6QR-es Bulova Reloj de Pulsera 96C133'
 sku: 'B07DTGR6QR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-09 11:33:30
 image: 'https://m.media-amazon.com/images/I/31LnuiKZGiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JJRXPP-es PUMA Urban SL Zapatillas Unisex Adulto Black White 42 EU'
 sku: 'B079JJRXPP-es'
 tags: [  ]

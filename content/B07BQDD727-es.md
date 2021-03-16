@@ -5,7 +5,7 @@ date: 2020-01-05 13:05:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41W-esBqJIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQDD727-es Dove Desodorante Original Ahorro - Paquetes de 2 x 200 ml...'
 sku: 'B07BQDD727-es'
 tags: [  ]

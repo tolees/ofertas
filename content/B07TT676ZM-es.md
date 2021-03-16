@@ -5,7 +5,7 @@ date: 2020-07-03 14:15:49
 image: 'https://m.media-amazon.com/images/I/41uoOcRjNrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT676ZM-es Levi s 502 Regular Taper Jeans Negro Adjustable Black 0751...'
 sku: 'B07TT676ZM-es'
 tags: [  ]

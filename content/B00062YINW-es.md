@@ -5,7 +5,7 @@ date: 2020-04-22 18:31:41
 image: 'https://m.media-amazon.com/images/I/51HZ8AZ5MXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00062YINW-es K&N 33-2059 Filtro de Aire Coche Lavable y Reutilizable'
 sku: 'B00062YINW-es'
 tags: [  ]

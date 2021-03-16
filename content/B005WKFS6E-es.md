@@ -5,7 +5,7 @@ date: 2020-01-09 12:26:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4105NshHwVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005WKFS6E-es Peter Thomas Roth Peter Thomas Roth Mega Rich Conditioner...'
 sku: 'B005WKFS6E-es'
 tags: [  ]

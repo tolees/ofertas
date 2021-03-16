@@ -5,7 +5,7 @@ date: 2020-07-29 15:18:32
 image: 'https://m.media-amazon.com/images/I/41qfUFUfYlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4RVD52-es Calvin Klein - Neat Hobo Md Shoppers y bolsos de hombro...'
 sku: 'B07V4RVD52-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-28 15:34:53
 image: 'https://m.media-amazon.com/images/I/31psZB0KhoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDSKQG2-es Fila Calcetines de deporte para Hombre Negro 39/42 pack de 6'
 sku: 'B07VDSKQG2-es'
 tags: [  ]

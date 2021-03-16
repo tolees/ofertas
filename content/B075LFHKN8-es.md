@@ -5,7 +5,7 @@ date: 2020-06-01 13:03:51
 image: 'https://m.media-amazon.com/images/I/41Kym2jp6tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075LFHKN8-es Beurer IH55 Inhalador silencioso con membrana oscilante...'
 sku: 'B075LFHKN8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-05 05:04:29
 image: 'https://m.media-amazon.com/images/I/51lHLyNiSQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0742GZNVY-es Pack Galería Nocturna - 86 Historias Macabras Night...'
 sku: 'B0742GZNVY-es'
 tags: [  ]

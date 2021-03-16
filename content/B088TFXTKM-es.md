@@ -5,7 +5,7 @@ date: 2020-05-29 11:45:15
 image: 'https://m.media-amazon.com/images/I/41GBGGV9jRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TFXTKM-es 200 almohadillas de filtro desechables almohadillas...'
 sku: 'B088TFXTKM-es'
 tags: [  ]

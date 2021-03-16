@@ -5,7 +5,7 @@ date: 2020-05-18 20:22:58
 image: 'https://m.media-amazon.com/images/I/41cZwedQWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G6NK5DM-es Evergreenweb - Colchones matrimonial 160x190 Espuma de 20...'
 sku: 'B00G6NK5DM-es'
 tags: [  ]

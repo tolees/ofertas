@@ -5,7 +5,7 @@ date: 2020-07-19 11:15:18
 image: 'https://m.media-amazon.com/images/I/41odpoSAZoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088GV7FM1-es WuGlrz 2 Pack Protector de Pantalla +2 Pack Cámara Lente...'
 sku: 'B088GV7FM1-es'
 tags: [  ]

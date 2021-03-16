@@ -5,7 +5,7 @@ date: 2020-03-22 16:55:16
 image: 'https://m.media-amazon.com/images/I/41anEIOnI0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NABMJCS-es Beurer MG155 - Funda a siento Masaje vibratoria 2 niveles...'
 sku: 'B00NABMJCS-es'
 tags: [  ]

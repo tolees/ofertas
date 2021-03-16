@@ -5,7 +5,7 @@ date: 2020-08-29 18:32:21
 image: 'https://m.media-amazon.com/images/I/41xWsDBdZVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E5KJY1Q-es BSN Nitrix 2.0 240 g 180 Caps'
 sku: 'B01E5KJY1Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-21 07:49:01
 image: 'https://m.media-amazon.com/images/I/41cZREWkVgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HWV2PZ2-es Real Madrid FC Body Niños - Producto Oficial Primera...'
 sku: 'B07HWV2PZ2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 09:51:48
 image: 'https://m.media-amazon.com/images/I/31jfeOwoYqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017SQWRB8-es Salomon Speedcross 4 Zapatillas de Trail Running para...'
 sku: 'B017SQWRB8-es'
 tags: [  ]

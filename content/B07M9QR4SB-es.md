@@ -5,7 +5,7 @@ date: 2020-09-14 18:06:31
 image: 'https://m.media-amazon.com/images/I/41PJFveaTrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9QR4SB-es Lee Daren Button Fly Jeans Azul Intense Blue Gi 36W / 34L...'
 sku: 'B07M9QR4SB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-01 08:41:07
 image: 'https://m.media-amazon.com/images/I/414PtDm4RVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYPCCHS-es Espejo Retrovisor de Coche Irrompible Inastillable Patrón...'
 sku: 'B07HYPCCHS-es'
 tags: [  ]

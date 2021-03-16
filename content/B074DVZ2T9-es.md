@@ -5,7 +5,7 @@ date: 2020-05-31 14:44:51
 image: 'https://m.media-amazon.com/images/I/51Bs+QxpUCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DVZ2T9-es Reposacabezas para coche apto para tablets de 7 pulgadas...'
 sku: 'B074DVZ2T9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-03 08:08:23
 image: 'https://m.media-amazon.com/images/I/31KPdY86E9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHL644J-es Pablosky Mocasines para niño para Niños Marrón 24 EU'
 sku: 'B07QHL644J-es'
 tags: [  ]

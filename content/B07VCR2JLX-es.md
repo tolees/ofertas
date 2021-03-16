@@ -5,7 +5,7 @@ date: 2020-01-11 09:06:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411sfViXP3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCR2JLX-es Linterna de trabajo 1000Lumen Alta Potencia Lámpara de...'
 sku: 'B07VCR2JLX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 08:33:52
 image: 'https://m.media-amazon.com/images/I/51ASS8ZYM1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H1BPX5V-es Teeth Whitening Powder carbón activo natural...'
 sku: 'B07H1BPX5V-es'
 tags: [  ]

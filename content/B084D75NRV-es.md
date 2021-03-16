@@ -5,7 +5,7 @@ date: 2020-06-12 08:06:38
 image: 'https://m.media-amazon.com/images/I/516AnU7BR4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084D75NRV-es Bisoo - 70x140 cm Protector de Colchón Bebé + Sabana...'
 sku: 'B084D75NRV-es'
 tags: [  ]

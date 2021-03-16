@@ -5,7 +5,7 @@ date: 2020-03-19 08:56:55
 image: 'https://m.media-amazon.com/images/I/51-9ko3oqSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075V9YTKK-es Rugby 18 - Versión Española'
 sku: 'B075V9YTKK-es'
 tags: [  ]

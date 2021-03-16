@@ -5,7 +5,7 @@ date: 2020-01-08 17:50:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41STQekM8wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3CVTJL-es BESTEK Inversor de Corriente 12v a 220v 1200w Onda...'
 sku: 'B07V3CVTJL-es'
 tags: [  ]

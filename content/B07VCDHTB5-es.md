@@ -5,7 +5,7 @@ date: 2020-01-03 06:32:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Wd%2BaOV9zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCDHTB5-es EVERSEE Bluetooth Beanie Hat 5.0 Bluetooth Hat Inalámbrico...'
 sku: 'B07VCDHTB5-es'
 tags: [  ]

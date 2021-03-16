@@ -5,7 +5,7 @@ date: 2020-04-21 09:04:49
 image: 'https://m.media-amazon.com/images/I/41SN2P0GnHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD74RY4-es BAIGIO Bolsa para Herramientas de Gran Abertura con...'
 sku: 'B07XD74RY4-es'
 tags: [  ]

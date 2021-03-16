@@ -5,7 +5,7 @@ date: 2020-05-23 16:32:43
 image: 'https://m.media-amazon.com/images/I/41k7ZWkvlIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMRVCRG-es Toolove Mesa Soporte para Dot 3.ª generación Soporte Dot 3...'
 sku: 'B07QMRVCRG-es'
 tags: [  ]

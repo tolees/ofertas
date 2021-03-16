@@ -5,7 +5,7 @@ date: 2020-07-28 17:08:09
 image: 'https://m.media-amazon.com/images/I/41u5b7Kf1XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XY9B7M4-es CAMPINGAZ Nuevo CP 250 Cartucho de Gas Gris Única'
 sku: 'B00XY9B7M4-es'
 tags: [  ]

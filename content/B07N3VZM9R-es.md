@@ -5,7 +5,7 @@ date: 2020-02-21 11:04:44
 image: 'https://m.media-amazon.com/images/I/41o5Ram9gTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3VZM9R-es Desigual Scarves TARS Bufanda Blanco Crudo 1001 Talla...'
 sku: 'B07N3VZM9R-es'
 tags: [  ]

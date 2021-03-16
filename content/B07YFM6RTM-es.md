@@ -5,7 +5,7 @@ date: 2020-05-03 16:22:12
 image: 'https://m.media-amazon.com/images/I/41RyvYDsw6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFM6RTM-es Auriculares Diadema Bluetooth Inalambricos Cascos Estéreo...'
 sku: 'B07YFM6RTM-es'
 tags: [  ]

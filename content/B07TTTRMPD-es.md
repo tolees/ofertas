@@ -5,7 +5,7 @@ date: 2020-07-20 01:13:24
 image: 'https://m.media-amazon.com/images/I/41LGwAKHCPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTTRMPD-es Skechers Delson 2.0 Larwin Zapatillas sin Cordones para...'
 sku: 'B07TTTRMPD-es'
 tags: [  ]

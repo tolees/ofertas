@@ -5,7 +5,7 @@ date: 2020-05-15 17:31:55
 image: 'https://m.media-amazon.com/images/I/51Q1TNU52oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC6GVV2-es Puma Laliga 1 Hybrid Balón de Fútbol Unisex Adulto Gris...'
 sku: 'B07RC6GVV2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 03:39:11
 image: 'https://m.media-amazon.com/images/I/41BBChD9ugL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVX6P5N-es TOOBUR Pulsera de Actividad Inteligente IP68 Impermeable...'
 sku: 'B07WVX6P5N-es'
 tags: [  ]

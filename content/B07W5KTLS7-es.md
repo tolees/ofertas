@@ -5,7 +5,7 @@ date: 2020-05-28 15:41:57
 image: 'https://m.media-amazon.com/images/I/41JqhGIU8oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5KTLS7-es WERNNSAI Unicornio Manta de Hito Bebé - 150 x 100 cm Manta...'
 sku: 'B07W5KTLS7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-30 12:32:02
 image: 'https://m.media-amazon.com/images/I/41Mq38KljRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXAP0QY-es Philips Azur Performer Plus GC4516/40 - Plancha de vapor...'
 sku: 'B01LXAP0QY-es'
 tags: [  ]

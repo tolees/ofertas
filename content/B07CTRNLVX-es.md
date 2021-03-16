@@ -5,7 +5,7 @@ date: 2020-06-19 11:57:06
 image: 'https://m.media-amazon.com/images/I/31182+W9cjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTRNLVX-es FIND - Sunrise dance - Paleta de sombras de ojos de 10...'
 sku: 'B07CTRNLVX-es'
 tags: [  ]

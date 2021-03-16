@@ -5,7 +5,7 @@ date: 2020-01-30 07:36:43
 image: 'https://m.media-amazon.com/images/I/41LxuEGyvHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHTKSRY-es DC Shoes The Locker 23l-Mochila Mediana para Hombre Black 1SZ'
 sku: 'B07DHTKSRY-es'
 tags: [  ]

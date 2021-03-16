@@ -5,7 +5,7 @@ date: 2020-04-17 07:36:05
 image: 'https://m.media-amazon.com/images/I/41UyCVZ9Q5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZY7V5J-es Skechers Elite Flex Zapatillas para Hombre Azul Navy...'
 sku: 'B07NZY7V5J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-16 21:56:53
 image: 'https://m.media-amazon.com/images/I/51fDYIE7bvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ1NMZ3-es Kipling Baroe S Monederos para Mujer Multicolor Speckled...'
 sku: 'B07TZ1NMZ3-es'
 tags: [  ]

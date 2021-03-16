@@ -5,7 +5,7 @@ date: 2020-05-18 12:34:18
 image: 'https://m.media-amazon.com/images/I/41xpGecj1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076Q9TK3J-es Olympus Objetivo - M.Zuiko Digital ED 45 mm F1.2 Pro...'
 sku: 'B076Q9TK3J-es'
 tags: [  ]

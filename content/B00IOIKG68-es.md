@@ -5,7 +5,7 @@ date: 2020-01-17 21:02:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41S50iUAIVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IOIKG68-es Cooler CPU Pure Wing 2 92mm BL045'
 sku: 'B00IOIKG68-es'
 tags: [  ]

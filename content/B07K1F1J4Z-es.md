@@ -5,7 +5,7 @@ date: 2020-08-01 15:30:06
 image: 'https://m.media-amazon.com/images/I/51x-g5rfgqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1F1J4Z-es SUPEWOLD - Soporte para barra de cortina autoadhesiva...'
 sku: 'B07K1F1J4Z-es'
 tags: [  ]

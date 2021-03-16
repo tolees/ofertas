@@ -5,7 +5,7 @@ date: 2020-06-01 12:13:30
 image: 'https://m.media-amazon.com/images/I/41h70U3y6uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ5JQSH-es Libershine Organizadores de Viaje para Maletas 8 Set de...'
 sku: 'B07RZ5JQSH-es'
 tags: [  ]

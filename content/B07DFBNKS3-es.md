@@ -5,7 +5,7 @@ date: 2020-07-10 15:51:13
 image: 'https://m.media-amazon.com/images/I/41Qy404ZihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBNKS3-es Funko- Pop Movies: The Lost Boys-Sam Emerson Multicolor...'
 sku: 'B07DFBNKS3-es'
 tags: [  ]

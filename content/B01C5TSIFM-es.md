@@ -5,7 +5,7 @@ date: 2020-02-25 14:32:07
 image: 'https://m.media-amazon.com/images/I/415sokc+rnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C5TSIFM-es Canon Dcc-1880 - Funda para Cámara Canon Powershot G7X MK...'
 sku: 'B01C5TSIFM-es'
 tags: [  ]

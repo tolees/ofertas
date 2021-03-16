@@ -5,7 +5,7 @@ date: 2020-09-04 14:45:43
 image: 'https://m.media-amazon.com/images/I/41PfNv-gl3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2MZYZV-es PUMA Axis Zapatillas Unisex Adulto Negro Black/Asphalt 36 EU'
 sku: 'B07F2MZYZV-es'
 tags: [  ]

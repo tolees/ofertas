@@ -5,7 +5,7 @@ date: 2020-09-23 16:47:14
 image: 'https://m.media-amazon.com/images/I/51eX3XouEwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082TWVNH5-es ValueHall Coronas Perforadoras 19 PCS Juego de Coronas...'
 sku: 'B082TWVNH5-es'
 tags: [  ]

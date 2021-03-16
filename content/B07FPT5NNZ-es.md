@@ -5,7 +5,7 @@ date: 2020-09-13 22:22:11
 image: 'https://m.media-amazon.com/images/I/41gk0JhMXXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPT5NNZ-es 1-kops easy clean filter'
 sku: 'B07FPT5NNZ-es'
 tags: [  ]

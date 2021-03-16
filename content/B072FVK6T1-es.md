@@ -5,7 +5,7 @@ date: 2020-03-28 14:32:45
 image: 'https://m.media-amazon.com/images/I/41OUKPLA90L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072FVK6T1-es New Balance 574v2 Core Velcro Zapatillas Unisex Niños Azul...'
 sku: 'B072FVK6T1-es'
 tags: [  ]

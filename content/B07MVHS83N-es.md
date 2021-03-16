@@ -5,7 +5,7 @@ date: 2020-09-15 10:18:39
 image: 'https://m.media-amazon.com/images/I/5178XMkLfuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVHS83N-es Kipling Creativity S Cartera para Mujer Gris Chalk Grey...'
 sku: 'B07MVHS83N-es'
 tags: [  ]

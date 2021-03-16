@@ -5,7 +5,7 @@ date: 2020-05-08 16:45:43
 image: 'https://m.media-amazon.com/images/I/31eFSOOhTjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I3LUR42-es Sony MDR-EX15LP - Auriculares In-Ear Blanco'
 sku: 'B00I3LUR42-es'
 tags: [  ]

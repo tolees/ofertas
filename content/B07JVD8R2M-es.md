@@ -5,7 +5,7 @@ date: 2020-04-15 13:09:56
 image: 'https://m.media-amazon.com/images/I/41wRAnV6iPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVD8R2M-es Arealer Masajeador de Hombros Eléctrico para el Cuello...'
 sku: 'B07JVD8R2M-es'
 tags: [  ]

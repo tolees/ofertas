@@ -5,7 +5,7 @@ date: 2020-06-16 09:31:30
 image: 'https://m.media-amazon.com/images/I/41l7Ek4lKZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078KVTJ1W-es PUMA Liga Training Core Chándal Hombre Peacoat/White 3XL'
 sku: 'B078KVTJ1W-es'
 tags: [  ]

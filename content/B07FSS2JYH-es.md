@@ -5,7 +5,7 @@ date: 2020-02-25 11:54:03
 image: 'https://m.media-amazon.com/images/I/41iF7TYn4-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSS2JYH-es Samsung SM-N960F/DS Galaxy Note9 6.4" 8 GB RAM 512GB...'
 sku: 'B07FSS2JYH-es'
 tags: [  ]

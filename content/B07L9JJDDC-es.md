@@ -5,7 +5,7 @@ date: 2020-09-22 13:07:14
 image: 'https://m.media-amazon.com/images/I/41E7yHkkhWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9JJDDC-es Altavoz Bluetooth - Hey You! Turn me on Eng'
 sku: 'B07L9JJDDC-es'
 tags: [  ]

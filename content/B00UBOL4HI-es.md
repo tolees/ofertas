@@ -5,7 +5,7 @@ date: 2020-04-19 10:24:48
 image: 'https://m.media-amazon.com/images/I/41BijLhpZxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UBOL4HI-es Tommy Hilfiger 3p Lr Trunk Sujetador Negro...'
 sku: 'B00UBOL4HI-es'
 tags: [  ]

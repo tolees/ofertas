@@ -5,7 +5,7 @@ date: 2020-08-18 19:42:16
 image: 'https://m.media-amazon.com/images/I/41oEwA1szRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IRD3ID8-es Shiseido Senscience Mascarilla de Reparación Profunda 150 ml'
 sku: 'B00IRD3ID8-es'
 tags: [  ]

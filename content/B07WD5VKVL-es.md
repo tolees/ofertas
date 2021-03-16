@@ -5,7 +5,7 @@ date: 2020-10-11 20:18:46
 image: 'https://m.media-amazon.com/images/I/41BVjZsZNSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WD5VKVL-es HyperX Fury HX432C16FB3K2/16 DIMM DDR4 16 GB Kit 2 x 8 GB...'
 sku: 'B07WD5VKVL-es'
 tags: [  ]

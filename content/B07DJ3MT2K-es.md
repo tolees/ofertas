@@ -5,7 +5,7 @@ date: 2020-05-25 15:07:27
 image: 'https://m.media-amazon.com/images/I/41cMAS9LDhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ3MT2K-es New Balance 570 Zapatillas Deportivas para Interior Unisex...'
 sku: 'B07DJ3MT2K-es'
 tags: [  ]

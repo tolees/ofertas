@@ -5,7 +5,7 @@ date: 2020-02-20 15:05:46
 image: 'https://m.media-amazon.com/images/I/31Bxp3OwWaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4R9PB2-es L Oreal Paris - Dermo Expertise Exfoliante Facial...'
 sku: 'B07B4R9PB2-es'
 tags: [  ]

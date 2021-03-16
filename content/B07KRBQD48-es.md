@@ -5,7 +5,7 @@ date: 2020-01-22 05:59:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UwEX-8sfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRBQD48-es GANT Footwear Portland Zapatillas para Hombre Multi Green...'
 sku: 'B07KRBQD48-es'
 tags: [  ]

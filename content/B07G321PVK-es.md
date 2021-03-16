@@ -5,7 +5,7 @@ date: 2020-05-31 21:15:58
 image: 'https://m.media-amazon.com/images/I/41Qdh-VOx4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G321PVK-es SoccerStarz SOC1059 Barcelona Lionel Messi-Home Kit 2019...'
 sku: 'B07G321PVK-es'
 tags: [  ]

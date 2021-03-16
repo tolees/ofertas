@@ -5,7 +5,7 @@ date: 2020-02-05 10:45:35
 image: 'https://m.media-amazon.com/images/I/411h6vtwRvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9NN2L4-es Babolat Defiance Lite 2019 Adultos Unisex Multicolor Talla...'
 sku: 'B07M9NN2L4-es'
 tags: [  ]

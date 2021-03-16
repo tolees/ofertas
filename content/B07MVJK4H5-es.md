@@ -5,7 +5,7 @@ date: 2020-07-03 11:15:06
 image: 'https://m.media-amazon.com/images/I/51MHubkzs2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJK4H5-es Kipling - Card Keeper Carteras Mujer Gris Night Grey...'
 sku: 'B07MVJK4H5-es'
 tags: [  ]

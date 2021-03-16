@@ -5,7 +5,7 @@ date: 2020-10-07 19:05:42
 image: 'https://m.media-amazon.com/images/I/41917OL65mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTH781B-es Lee Daren Zip Fly Jeans Azul Broken Blue Sx 31W / 30L para...'
 sku: 'B07FTH781B-es'
 tags: [  ]

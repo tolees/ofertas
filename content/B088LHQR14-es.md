@@ -5,7 +5,7 @@ date: 2020-08-08 18:28:42
 image: 'https://m.media-amazon.com/images/I/51yHpDFIMpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LHQR14-es Altavoz Bluetooth Portátil Altavoces Bluetooth Portatiles...'
 sku: 'B088LHQR14-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-10 11:49:13
 image: 'https://m.media-amazon.com/images/I/51Xv58FIeXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VH6VD31-es Eono Essentials Toalla de Microfibra para Llevar al...'
 sku: 'B07VH6VD31-es'
 tags: [  ]

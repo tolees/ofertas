@@ -5,7 +5,7 @@ date: 2020-03-20 22:16:04
 image: 'https://m.media-amazon.com/images/I/31SINls7WjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HETFQA8-es Bose ® QuietControl ™ 30 - Auriculares inalámbricos Color...'
 sku: 'B01HETFQA8-es'
 tags: [  ]

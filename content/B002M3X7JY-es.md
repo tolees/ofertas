@@ -5,7 +5,7 @@ date: 2020-03-24 23:51:25
 image: 'https://m.media-amazon.com/images/I/41-64LJyQhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002M3X7JY-es Crazy Color Sky Blue Nº 59 Crema Colorante del Cabello...'
 sku: 'B002M3X7JY-es'
 tags: [  ]

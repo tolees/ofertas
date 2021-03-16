@@ -5,7 +5,7 @@ date: 2020-05-23 09:46:44
 image: 'https://m.media-amazon.com/images/I/31GeKzySh1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTOGQW-es G-Star Raw Bronson Pantalones Para Hombre Azul Blue...'
 sku: 'B01BGTOGQW-es'
 tags: [  ]

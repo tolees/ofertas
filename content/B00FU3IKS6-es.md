@@ -5,7 +5,7 @@ date: 2020-03-07 14:25:57
 image: 'https://m.media-amazon.com/images/I/31gmLO3MjGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FU3IKS6-es De longhi Dragon TRD40 0615 - Radiador de aceite 1500 w...'
 sku: 'B00FU3IKS6-es'
 tags: [  ]

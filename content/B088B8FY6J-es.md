@@ -5,7 +5,7 @@ date: 2020-09-21 19:49:01
 image: 'https://m.media-amazon.com/images/I/419Cs17juxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088B8FY6J-es Carrito de almacenamiento carrito de almacenamiento de 3...'
 sku: 'B088B8FY6J-es'
 tags: [  ]

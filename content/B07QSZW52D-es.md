@@ -5,7 +5,7 @@ date: 2020-08-16 09:25:58
 image: 'https://m.media-amazon.com/images/I/51v7ImsIimL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QSZW52D-es SIMUER 3Pcs Bolsa de Riñonera Impermeable Funda con Triple...'
 sku: 'B07QSZW52D-es'
 tags: [  ]

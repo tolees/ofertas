@@ -5,7 +5,7 @@ date: 2020-05-17 13:06:19
 image: 'https://m.media-amazon.com/images/I/51S+ZIO6GyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMNP1GZ-es Buff Tzom Gorra Pack Trek Unisex Adulto Stone Blue Talla...'
 sku: 'B07HMNP1GZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 19:32:09
 image: 'https://m.media-amazon.com/images/I/51vMVJQG2eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ZLZ7ZW-es Nesti Dante Dei Colli Fiorentini Lavanda Soap Mydlo...'
 sku: 'B000ZLZ7ZW-es'
 tags: [  ]

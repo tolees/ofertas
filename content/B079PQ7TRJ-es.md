@@ -5,7 +5,7 @@ date: 2020-02-08 01:56:30
 image: 'https://m.media-amazon.com/images/I/41hH+ug+6+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PQ7TRJ-es Funko Pop!- 26464 Marvel: Avengers Infinity War Figura de...'
 sku: 'B079PQ7TRJ-es'
 tags: [  ]

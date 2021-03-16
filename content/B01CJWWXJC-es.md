@@ -5,7 +5,7 @@ date: 2020-01-21 22:44:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JL5cCV3kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CJWWXJC-es Elinchrom EL20847.2 - Equipo Completo Flash Estudio D-Lite...'
 sku: 'B01CJWWXJC-es'
 tags: [  ]

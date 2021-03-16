@@ -5,7 +5,7 @@ date: 2020-09-22 06:11:00
 image: 'https://m.media-amazon.com/images/I/513AIGTwzOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CDK15D-es Just Stationery - 24 Fundas de plástico transparentes...'
 sku: 'B076CDK15D-es'
 tags: [  ]

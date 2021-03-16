@@ -5,7 +5,7 @@ date: 2020-05-11 20:40:14
 image: 'https://m.media-amazon.com/images/I/51zMS9NZR4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DABASSE-es Creed. La Leyenda De Rocky Blu-Ray Steelbook [Blu-ray]'
 sku: 'B01DABASSE-es'
 tags: [  ]

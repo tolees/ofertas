@@ -5,7 +5,7 @@ date: 2020-05-28 21:42:58
 image: 'https://m.media-amazon.com/images/I/31swKqj0N3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CI0AVX6-es Valira Aceitera Accesorios Blanco-Transparente 60 mL'
 sku: 'B00CI0AVX6-es'
 tags: [  ]

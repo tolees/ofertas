@@ -5,7 +5,7 @@ date: 2020-08-07 18:33:56
 image: 'https://m.media-amazon.com/images/I/51tgI-rsWpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJGS89W-es Reloj de pulsera para hombre de cuarzo resistente al agua...'
 sku: 'B07TJGS89W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 10:19:20
 image: 'https://m.media-amazon.com/images/I/51ELFpl1+wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KK32SOM-es K nex Noria Revolution 344 Piezas 41212'
 sku: 'B01KK32SOM-es'
 tags: [  ]

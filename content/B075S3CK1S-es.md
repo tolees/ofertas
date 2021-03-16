@@ -5,7 +5,7 @@ date: 2020-01-01 11:16:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mLAJonG1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075S3CK1S-es Reebok Ovett Ropa Interior Hombre Negro/Gris S'
 sku: 'B075S3CK1S-es'
 tags: [  ]

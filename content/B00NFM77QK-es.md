@@ -5,7 +5,7 @@ date: 2020-05-27 19:46:57
 image: 'https://m.media-amazon.com/images/I/31V-MjFzvYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NFM77QK-es Bestway 68005 - Tienda de Campaña Nucamp 235x190x100 cm'
 sku: 'B00NFM77QK-es'
 tags: [  ]

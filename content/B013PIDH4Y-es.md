@@ -5,7 +5,7 @@ date: 2020-07-20 15:31:50
 image: 'https://m.media-amazon.com/images/I/51L9be8PnZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013PIDH4Y-es Hugo BOSS - Reloj cronógrafo para hombre de cuarzo con...'
 sku: 'B013PIDH4Y-es'
 tags: [  ]

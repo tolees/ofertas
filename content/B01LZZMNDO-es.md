@@ -5,7 +5,7 @@ date: 2020-10-05 10:11:19
 image: 'https://m.media-amazon.com/images/I/41nZjFk+v8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZZMNDO-es Levi s 502 Regular Taper Jeans Azul City Park 0011 31W /...'
 sku: 'B01LZZMNDO-es'
 tags: [  ]

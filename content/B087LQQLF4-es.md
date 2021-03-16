@@ -5,7 +5,7 @@ date: 2020-04-28 19:04:28
 image: 'https://m.media-amazon.com/images/I/413vMMA4NiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087LQQLF4-es Tyannan Cortina de Puerta Mantener alejados a los Insectos...'
 sku: 'B087LQQLF4-es'
 tags: [  ]

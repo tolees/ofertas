@@ -5,7 +5,7 @@ date: 2021-03-16 15:27:19
 image: 'https://m.media-amazon.com/images/I/51JGFGLHrJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08TJV8Z7M-es sony computer entertainment of america - Nioh Collection'
 sku: 'B08TJV8Z7M-es'
 tags: [ 'sony computer entertainment of america', ]
@@ -29,8 +29,8 @@ Ahora mismo tienes [sony computer entertainment of america - Nioh Collection](ht
 🔎:
 
 - Sé un mercenario que persigue enemigos con poderes sobrenaturales del mítico yokai
-- Japón, 1555: un país de guerras, donde los monstruos y los espíritus acechan
 - Descubre armas y habilidades letales en un sistema de combate renovado
 - Modos multijugador: tus amigos te ayudan en Visitantes o juegan juntos en Expediciones
+- Japón, 1555: un país de guerras, donde los monstruos y los espíritus acechan
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TJV8Z7M/?tag=tolees-21)

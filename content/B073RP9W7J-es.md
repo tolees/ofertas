@@ -5,7 +5,7 @@ date: 2020-01-22 14:19:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417FpcMONXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RP9W7J-es Helly Hansen Salt Light Jacket Hombre Azul Marino L'
 sku: 'B073RP9W7J-es'
 tags: [  ]

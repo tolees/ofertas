@@ -5,7 +5,7 @@ date: 2020-04-17 00:35:42
 image: 'https://m.media-amazon.com/images/I/51IyrZ9fAIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4ATC05-es Kit Original de Tatuajes con Brillantina: Tatuajes...'
 sku: 'B01N4ATC05-es'
 tags: [  ]

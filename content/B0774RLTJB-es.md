@@ -5,7 +5,7 @@ date: 2020-08-26 20:32:36
 image: 'https://m.media-amazon.com/images/I/51IRKo6NVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774RLTJB-es Pop Booster Gold & Blue Beetle Vinyl Figure 2 Pack'
 sku: 'B0774RLTJB-es'
 tags: [  ]

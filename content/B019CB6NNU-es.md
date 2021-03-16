@@ -5,7 +5,7 @@ date: 2020-08-23 19:42:04
 image: 'https://m.media-amazon.com/images/I/41OIEnlIScL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019CB6NNU-es AMANDIN Caldo de Verduras - Paquete de 6 x 1000 ml -...'
 sku: 'B019CB6NNU-es'
 tags: [  ]

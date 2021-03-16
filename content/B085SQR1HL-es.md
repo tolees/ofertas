@@ -5,7 +5,7 @@ date: 2020-06-30 17:57:29
 image: 'https://m.media-amazon.com/images/I/3196eRiuzpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085SQR1HL-es Jack & Jones JJIARUBA JJSWIM Shorts AKM STS Bañador para...'
 sku: 'B085SQR1HL-es'
 tags: [  ]

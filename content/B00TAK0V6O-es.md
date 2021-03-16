@@ -5,7 +5,7 @@ date: 2020-06-25 09:28:00
 image: 'https://m.media-amazon.com/images/I/31jOSTEhWeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TAK0V6O-es Stanley XTHT0-42495 Nivel Torpedo FatMax 23cm base magnética'
 sku: 'B00TAK0V6O-es'
 tags: [  ]

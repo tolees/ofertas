@@ -5,7 +5,7 @@ date: 2020-06-16 19:25:02
 image: 'https://m.media-amazon.com/images/I/31083le4URL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6WZTXF-es Luces Solares Jardín Lamparas Solares Exterior con Sensor...'
 sku: 'B07M6WZTXF-es'
 tags: [  ]

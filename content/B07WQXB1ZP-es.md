@@ -5,7 +5,7 @@ date: 2020-01-13 08:01:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oeY6tPvVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQXB1ZP-es Cinturón de Calefacción Eléctrico para la Parte Inferior...'
 sku: 'B07WQXB1ZP-es'
 tags: [  ]

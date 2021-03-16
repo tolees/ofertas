@@ -5,7 +5,7 @@ date: 2020-06-25 09:07:19
 image: 'https://m.media-amazon.com/images/I/41r+qdYpokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085W3SRT3-es Roits Calcetines Melocotones Rosa - Calcetines Originales...'
 sku: 'B085W3SRT3-es'
 tags: [  ]

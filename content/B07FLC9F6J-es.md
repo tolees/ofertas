@@ -5,7 +5,7 @@ date: 2020-02-05 12:30:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AX6HqfjOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLC9F6J-es Superdry Label Ziphood suéter Gris Flint Grey Grit Xje...'
 sku: 'B07FLC9F6J-es'
 tags: [  ]

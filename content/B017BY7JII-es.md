@@ -5,7 +5,7 @@ date: 2020-09-23 16:59:28
 image: 'https://m.media-amazon.com/images/I/51Fww2YvJVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017BY7JII-es PURE RESVERATROL ANTI-OX 60 CAPS'
 sku: 'B017BY7JII-es'
 tags: [  ]

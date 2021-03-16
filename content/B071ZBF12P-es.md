@@ -5,7 +5,7 @@ date: 2020-10-10 08:12:37
 image: 'https://m.media-amazon.com/images/I/616K3G-JklL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZBF12P-es Ravensburger- Juego Ahora caigo 26758'
 sku: 'B071ZBF12P-es'
 tags: [  ]

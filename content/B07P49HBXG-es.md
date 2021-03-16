@@ -5,7 +5,7 @@ date: 2020-04-06 11:35:31
 image: 'https://m.media-amazon.com/images/I/41R-vXXuZDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P49HBXG-es Skechers Elite Flex Zapatillas para Hombre Gris Charcoal...'
 sku: 'B07P49HBXG-es'
 tags: [  ]

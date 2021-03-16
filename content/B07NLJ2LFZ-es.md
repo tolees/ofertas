@@ -5,7 +5,7 @@ date: 2020-03-22 03:02:52
 image: 'https://m.media-amazon.com/images/I/41SbR4MharL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLJ2LFZ-es Versace Jeans CoutureBorsaMujerBolso de manoMorado...'
 sku: 'B07NLJ2LFZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 17:47:15
 image: 'https://m.media-amazon.com/images/I/41TXbAnKZ+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HCRSF9Q-es adidas Originals Superstar Zapatillas Unisex Niños Blanco...'
 sku: 'B01HCRSF9Q-es'
 tags: [  ]

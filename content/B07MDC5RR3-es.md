@@ -5,7 +5,7 @@ date: 2020-07-23 10:01:17
 image: 'https://m.media-amazon.com/images/I/41uvT+UDYlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDC5RR3-es E-MANIS Caja Joyero Caja de Joyas Estuche Rectangular para...'
 sku: 'B07MDC5RR3-es'
 tags: [  ]

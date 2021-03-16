@@ -5,7 +5,7 @@ date: 2020-06-13 08:30:47
 image: 'https://m.media-amazon.com/images/I/31OFoQj+AaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQSZVYO-es Luminarc Vina Set 6 Copas de Vino 47cl 6'
 sku: 'B01MQSZVYO-es'
 tags: [  ]

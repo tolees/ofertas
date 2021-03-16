@@ -5,7 +5,7 @@ date: 2020-05-17 15:37:04
 image: 'https://m.media-amazon.com/images/I/41I1MOGmHcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZD2VXL-es Casco Moto Modular SPEEDWAY con ECE y DOT Homologado -...'
 sku: 'B07YZD2VXL-es'
 tags: [  ]

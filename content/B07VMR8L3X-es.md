@@ -5,7 +5,7 @@ date: 2020-10-05 11:38:15
 image: 'https://m.media-amazon.com/images/I/51cLAM2TOVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMR8L3X-es Memoryee Stranger Things 3D de impresión Unisex Niño Bolsa...'
 sku: 'B07VMR8L3X-es'
 tags: [  ]

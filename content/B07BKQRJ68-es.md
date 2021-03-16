@@ -5,7 +5,7 @@ date: 2020-02-19 12:42:40
 image: 'https://m.media-amazon.com/images/I/419bxlg+HBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BKQRJ68-es DROP SHOT Paletero Dunkan Adultos Unisex'
 sku: 'B07BKQRJ68-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-30 07:28:04
 image: 'https://m.media-amazon.com/images/I/415+RoErR0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ND0WQ2X-es Scholl Medias de Compresión Ligera Mujer Light Legs 20DEN...'
 sku: 'B01ND0WQ2X-es'
 tags: [  ]

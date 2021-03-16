@@ -5,7 +5,7 @@ date: 2020-04-21 19:42:38
 image: 'https://m.media-amazon.com/images/I/51fytgt0ZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D4QFH4A-es Revell- Star Wars Naboo Starfighter Kit modele Escala...'
 sku: 'B01D4QFH4A-es'
 tags: [  ]

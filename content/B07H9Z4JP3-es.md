@@ -5,7 +5,7 @@ date: 2020-09-12 07:10:12
 image: 'https://m.media-amazon.com/images/I/411P6ONIDBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9Z4JP3-es Funko pop Nacho Libre multicolor talla única 36347...'
 sku: 'B07H9Z4JP3-es'
 tags: [  ]

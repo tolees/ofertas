@@ -5,7 +5,7 @@ date: 2020-05-15 18:46:35
 image: 'https://m.media-amazon.com/images/I/31vg78RVYFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTSG1K6-es Lacoste Reloj de Pulsera 2001063'
 sku: 'B07KTSG1K6-es'
 tags: [  ]

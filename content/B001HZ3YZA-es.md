@@ -5,7 +5,7 @@ date: 2020-06-27 08:46:15
 image: 'https://m.media-amazon.com/images/I/21JqjMfCoHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001HZ3YZA-es Grundig MA 5820 - Set de manicura y pedicura eléctrico'
 sku: 'B001HZ3YZA-es'
 tags: [  ]

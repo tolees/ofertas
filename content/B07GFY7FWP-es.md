@@ -5,7 +5,7 @@ date: 2020-04-23 03:16:03
 image: 'https://m.media-amazon.com/images/I/41aViGrDjmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFY7FWP-es Fossil Smartwatch para Mujer con Correa en Acero...'
 sku: 'B07GFY7FWP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 17:59:44
 image: 'https://m.media-amazon.com/images/I/4182nXWBz6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPJSF9M-es Klarstein Beersafe XL Mix It Edition Nevera - Nevera de...'
 sku: 'B07KPJSF9M-es'
 tags: [  ]

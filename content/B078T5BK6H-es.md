@@ -5,7 +5,7 @@ date: 2020-05-13 18:07:07
 image: 'https://m.media-amazon.com/images/I/413Z0hf5fML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T5BK6H-es Tommy Hilfiger Tommy Jeans Textile Sneaker Zapatillas para...'
 sku: 'B078T5BK6H-es'
 tags: [  ]

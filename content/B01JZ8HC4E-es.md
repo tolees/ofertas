@@ -5,7 +5,7 @@ date: 2020-05-19 09:02:51
 image: 'https://m.media-amazon.com/images/I/417zBbhnTsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JZ8HC4E-es Saquito Star Wars Surt 2 Capacidad 35 X 0 5 X 27 cms'
 sku: 'B01JZ8HC4E-es'
 tags: [  ]

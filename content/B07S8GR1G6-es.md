@@ -5,7 +5,7 @@ date: 2020-03-27 17:16:28
 image: 'https://m.media-amazon.com/images/I/4158rE9Hd5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8GR1G6-es VITN Auricular Bluetooth 4.2 Invisible Mini Auricular In...'
 sku: 'B07S8GR1G6-es'
 tags: [  ]

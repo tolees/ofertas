@@ -5,7 +5,7 @@ date: 2020-08-27 19:50:01
 image: 'https://m.media-amazon.com/images/I/51Wb206PEaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015WJR4FW-es Wenger Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B015WJR4FW-es'
 tags: [  ]

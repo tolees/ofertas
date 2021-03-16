@@ -5,7 +5,7 @@ date: 2020-07-01 20:57:32
 image: 'https://m.media-amazon.com/images/I/51lPADOIZsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBJ7YNV-es Pulsar Reloj cronografo para Hombre de Cuarzo con Correa...'
 sku: 'B07GBJ7YNV-es'
 tags: [  ]

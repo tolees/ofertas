@@ -5,7 +5,7 @@ date: 2020-04-09 15:25:36
 image: 'https://m.media-amazon.com/images/I/41+89GPCxsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CIFN12S-es Tefal Expertise - Sartén de aluminio de 32 cm...'
 sku: 'B01CIFN12S-es'
 tags: [  ]

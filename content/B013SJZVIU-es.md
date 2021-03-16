@@ -5,7 +5,7 @@ date: 2020-05-15 12:04:58
 image: 'https://m.media-amazon.com/images/I/31SDCMHNEXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013SJZVIU-es Manfrotto 290 Xtra - Kit trípode de 3 Secciones y rótula 3...'
 sku: 'B013SJZVIU-es'
 tags: [  ]

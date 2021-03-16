@@ -5,7 +5,7 @@ date: 2020-07-16 11:54:40
 image: 'https://m.media-amazon.com/images/I/41i9NrfrVQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DS2W67G-es Garnier Delial Niños Sensitive Advanced Spray Protector...'
 sku: 'B01DS2W67G-es'
 tags: [  ]

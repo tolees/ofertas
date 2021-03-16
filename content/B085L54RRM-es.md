@@ -5,7 +5,7 @@ date: 2020-05-22 17:10:59
 image: 'https://m.media-amazon.com/images/I/4165klwL3qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085L54RRM-es B Blesiya Decoración De Paisaje De Vivarium Reptil Box...'
 sku: 'B085L54RRM-es'
 tags: [  ]

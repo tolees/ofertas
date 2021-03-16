@@ -5,7 +5,7 @@ date: 2020-04-11 09:08:05
 image: 'https://m.media-amazon.com/images/I/41GjOLOUZjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074HN36PB-es Funko Pop! - Figura de Vinilo Sailor Saturn 13756'
 sku: 'B074HN36PB-es'
 tags: [  ]

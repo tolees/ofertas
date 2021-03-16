@@ -5,7 +5,7 @@ date: 2020-05-15 16:07:13
 image: 'https://m.media-amazon.com/images/I/41iYWkL3+OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872PTGQK-es Funda Transparente Compatible para Xiaomi Mi 9 SE Carcasa...'
 sku: 'B0872PTGQK-es'
 tags: [  ]

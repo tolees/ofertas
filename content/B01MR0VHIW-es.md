@@ -5,7 +5,7 @@ date: 2020-04-09 01:55:46
 image: 'https://m.media-amazon.com/images/I/31OA6J8sdAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MR0VHIW-es Spiuk Profit Cold&Rain Calcetines Hombre Negro 40/43'
 sku: 'B01MR0VHIW-es'
 tags: [  ]

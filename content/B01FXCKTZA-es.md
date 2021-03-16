@@ -5,7 +5,7 @@ date: 2020-07-03 18:01:35
 image: 'https://m.media-amazon.com/images/I/41WBQTwhPFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FXCKTZA-es CESTA ORGANIZACION DE COCINA - 2 unidades - INTERKITCHEN©'
 sku: 'B01FXCKTZA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 06:27:43
 image: 'https://m.media-amazon.com/images/I/41oHd2VuULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPC49N4-es Rowenta HQ7111 Air Force Hot & Cool Calefactor y...'
 sku: 'B07FPC49N4-es'
 tags: [  ]

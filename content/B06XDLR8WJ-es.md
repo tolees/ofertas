@@ -5,7 +5,7 @@ date: 2020-04-16 18:24:04
 image: 'https://m.media-amazon.com/images/I/414tF9ZoPwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDLR8WJ-es Pez de Piedra Hecho a Mano - Símbolo de Determinación...'
 sku: 'B06XDLR8WJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-27 17:33:53
 image: 'https://m.media-amazon.com/images/I/41czKYf37QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVVDZMT-es Skechers Moreno Zapatillas para Hombre Azul Navy Mesh Nvy...'
 sku: 'B07TVVDZMT-es'
 tags: [  ]

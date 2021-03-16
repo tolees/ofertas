@@ -5,7 +5,7 @@ date: 2020-05-05 00:54:43
 image: 'https://m.media-amazon.com/images/I/31THSG4iQxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HTFCCL8-es Reebok Classic Leather Zapatillas Mujer Negro Int / Black...'
 sku: 'B01HTFCCL8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 00:21:07
 image: 'https://m.media-amazon.com/images/I/51kUkdR+QyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZBGAX6-es Apolyne Portable Juego de Mesa Portátil Ping Pongtable...'
 sku: 'B01MZBGAX6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-27 01:58:44
 image: 'https://m.media-amazon.com/images/I/31A2sBY3sGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STWC65L-es Max Factor Perfect Stay 2 Step; Laca de Uñas Tono 139 - 12 gr'
 sku: 'B07STWC65L-es'
 tags: [  ]

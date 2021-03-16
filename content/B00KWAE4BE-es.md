@@ -5,7 +5,7 @@ date: 2020-02-11 08:29:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51IdoU7yu4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KWAE4BE-es Tropico 5'
 sku: 'B00KWAE4BE-es'
 tags: [  ]

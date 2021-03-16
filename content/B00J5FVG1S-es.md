@@ -5,7 +5,7 @@ date: 2020-07-02 15:50:31
 image: 'https://m.media-amazon.com/images/I/41-pxbEK1CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5FVG1S-es Pharmaton 50+| Multivitamínico con Omega 3 | 60 cápsulas'
 sku: 'B00J5FVG1S-es'
 tags: [  ]

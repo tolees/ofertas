@@ -5,7 +5,7 @@ date: 2020-07-06 18:21:11
 image: 'https://m.media-amazon.com/images/I/51hFPx6-kwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCBWT7R-es Cortapelos y afeitadora hombrel 6-en-1 juego de cortapelos...'
 sku: 'B07VCBWT7R-es'
 tags: [  ]

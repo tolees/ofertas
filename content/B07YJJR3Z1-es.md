@@ -5,7 +5,7 @@ date: 2020-05-10 19:33:35
 image: 'https://m.media-amazon.com/images/I/51a9Cbjm-6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJJR3Z1-es Incarpo - Zapatillas de Estar por casa para Hombre con...'
 sku: 'B07YJJR3Z1-es'
 tags: [  ]

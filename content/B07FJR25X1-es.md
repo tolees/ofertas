@@ -5,7 +5,7 @@ date: 2020-08-30 08:55:14
 image: 'https://m.media-amazon.com/images/I/41k6hcz0XZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FJR25X1-es Hauck Rapid 4X Silla de paseo ligera desde nacimiento...'
 sku: 'B07FJR25X1-es'
 tags: [  ]

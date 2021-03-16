@@ -5,7 +5,7 @@ date: 2020-06-02 07:33:07
 image: 'https://m.media-amazon.com/images/I/515vsc9IUrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074BKFN44-es The Big Bang Theory Temporada 1-10 [DVD]'
 sku: 'B074BKFN44-es'
 tags: [  ]

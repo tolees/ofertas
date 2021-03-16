@@ -5,7 +5,7 @@ date: 2020-09-21 14:22:22
 image: 'https://m.media-amazon.com/images/I/41O53fVzVmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081Q93TWG-es WANSENDA Memoria USB Tipo C 512GB Unidad Flash USB 3.0 de...'
 sku: 'B081Q93TWG-es'
 tags: [  ]

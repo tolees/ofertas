@@ -5,7 +5,7 @@ date: 2020-04-16 09:59:28
 image: 'https://m.media-amazon.com/images/I/51ptWA-unxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075D7R8DL-es ASUS PB LGA1151 B250 Mining Expert 2DDR4 32GB HDMI 18 X...'
 sku: 'B075D7R8DL-es'
 tags: [  ]

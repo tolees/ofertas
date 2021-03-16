@@ -5,7 +5,7 @@ date: 2020-07-07 10:37:49
 image: 'https://m.media-amazon.com/images/I/51NYGZBK-ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYRKPXC-es COMLIFE Ventilador de Escritorio con Clip USB y Batería...'
 sku: 'B07RYRKPXC-es'
 tags: [  ]

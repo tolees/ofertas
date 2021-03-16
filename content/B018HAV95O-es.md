@@ -5,7 +5,7 @@ date: 2020-09-08 14:01:48
 image: 'https://m.media-amazon.com/images/I/41ua6mlCQML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018HAV95O-es Tommee Tippee - Kit de iniciación para recién nacido...'
 sku: 'B018HAV95O-es'
 tags: [  ]

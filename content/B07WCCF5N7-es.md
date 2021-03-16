@@ -5,7 +5,7 @@ date: 2020-09-02 20:37:49
 image: 'https://m.media-amazon.com/images/I/41cWGLgkg-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WCCF5N7-es Lumberjack Vendor Zapatillas de Gimnasia para Hombre Azul...'
 sku: 'B07WCCF5N7-es'
 tags: [  ]

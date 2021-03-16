@@ -5,7 +5,7 @@ date: 2020-07-23 13:32:45
 image: 'https://m.media-amazon.com/images/I/41eeaxulNEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZV29T3-es Almohada de Viaje Viscoelástica de Espuma de Memoria...'
 sku: 'B07WZV29T3-es'
 tags: [  ]

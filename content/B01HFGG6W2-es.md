@@ -5,7 +5,7 @@ date: 2020-01-18 07:54:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/516C7bTgrcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HFGG6W2-es Columbia Vapor Vent Zapatillas de Senderismo para Mujer...'
 sku: 'B01HFGG6W2-es'
 tags: [  ]

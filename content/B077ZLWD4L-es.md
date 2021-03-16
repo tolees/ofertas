@@ -5,7 +5,7 @@ date: 2020-03-14 12:09:36
 image: 'https://m.media-amazon.com/images/I/41bjFA4Z89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZLWD4L-es Bosch Home and Garden 06008B2000 Tijeras de Podar 3.6 V...'
 sku: 'B077ZLWD4L-es'
 tags: [  ]

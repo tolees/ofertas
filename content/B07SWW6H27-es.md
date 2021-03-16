@@ -5,7 +5,7 @@ date: 2020-05-28 18:40:23
 image: 'https://m.media-amazon.com/images/I/31ujkvKMnaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWW6H27-es Mommy Hook Stroller Hanger Houkiper Ganchos Multiusos...'
 sku: 'B07SWW6H27-es'
 tags: [  ]

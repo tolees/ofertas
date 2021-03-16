@@ -5,7 +5,7 @@ date: 2020-10-06 10:08:41
 image: 'https://m.media-amazon.com/images/I/31TxLHLwhmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBH5F2C-es Maybelline New York - The Falsies Push Up Angel Máscara de...'
 sku: 'B01NBH5F2C-es'
 tags: [  ]

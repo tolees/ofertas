@@ -5,7 +5,7 @@ date: 2020-04-08 14:05:09
 image: 'https://m.media-amazon.com/images/I/41r9eDpIreL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JBZJK-es Clarks Orinoco Dusk Botas Estilo Motero para Mujer Marrón...'
 sku: 'B07N1JBZJK-es'
 tags: [  ]

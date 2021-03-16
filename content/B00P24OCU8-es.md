@@ -5,7 +5,7 @@ date: 2020-01-19 13:09:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51AO1y0lufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P24OCU8-es Pekatherm US30TD - Almohadilla Universal ECO Mediana de...'
 sku: 'B00P24OCU8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-18 17:03:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21pAaFoi1WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R58WWCJ-es CARE OF by PUMA Zapatillas bajas en cuero para hombre...'
 sku: 'B07R58WWCJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-15 19:40:32
 image: 'https://m.media-amazon.com/images/I/51gqUZrYYRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JW7YF6S-es O³ Guante Dentición Bebé Lola Kids + 1 Gasas Bebe Algodon...'
 sku: 'B07JW7YF6S-es'
 tags: [  ]

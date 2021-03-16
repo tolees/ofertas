@@ -5,7 +5,7 @@ date: 2020-01-27 11:41:17
 image: 'https://m.media-amazon.com/images/I/41EqSJqKUxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKFC5NF-es Kipling - Fundamental Nc Mochilas Mujer Azul Dynamic Blue'
 sku: 'B07DKFC5NF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 13:59:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WYZ9501qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G13RH9R-es Asmuse Melodica 32 Teclas Con boquilla y manguera de...'
 sku: 'B07G13RH9R-es'
 tags: [  ]

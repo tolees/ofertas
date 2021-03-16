@@ -5,7 +5,7 @@ date: 2020-01-11 21:22:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31AMCx4HkOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4XBLHC-es CHAKB|#Chatham Fairway Mocasines para Hombre Navy 001 41 EU'
 sku: 'B07G4XBLHC-es'
 tags: [  ]

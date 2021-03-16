@@ -5,7 +5,7 @@ date: 2020-04-17 04:17:55
 image: 'https://m.media-amazon.com/images/I/51pCkNmkHAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00166TYOK-es HP 824A - Tambor de imágenes Laserjet para Laserjet CP6015...'
 sku: 'B00166TYOK-es'
 tags: [  ]

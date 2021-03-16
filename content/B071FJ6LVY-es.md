@@ -5,7 +5,7 @@ date: 2020-09-27 11:31:51
 image: 'https://m.media-amazon.com/images/I/61bO8djhk6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FJ6LVY-es Piratas Del Caribe: La Venganza De Salazar - Edición...'
 sku: 'B071FJ6LVY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-17 19:59:11
 image: 'https://m.media-amazon.com/images/I/31dF2oKJ+dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZQA9U9-es Vents TT-100 TT - Extractor en línea con flujo mixto 100...'
 sku: 'B01LZQA9U9-es'
 tags: [  ]

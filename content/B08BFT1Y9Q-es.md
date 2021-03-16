@@ -5,7 +5,7 @@ date: 2020-08-23 09:55:31
 image: 'https://m.media-amazon.com/images/I/41pt8G57FrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BFT1Y9Q-es RE Anillo de Luz LED 6 Pulgadas con Soporte de Móvil...'
 sku: 'B08BFT1Y9Q-es'
 tags: [  ]

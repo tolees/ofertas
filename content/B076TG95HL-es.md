@@ -5,7 +5,7 @@ date: 2020-09-29 15:47:28
 image: 'https://m.media-amazon.com/images/I/31uzVucQgPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076TG95HL-es Skechers Women 12980 Low-Top Trainers Black Black 4 UK 37 EU'
 sku: 'B076TG95HL-es'
 tags: [  ]

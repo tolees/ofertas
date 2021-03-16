@@ -5,7 +5,7 @@ date: 2020-06-23 21:55:39
 image: 'https://m.media-amazon.com/images/I/51MdX1cQ17L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YMLXDD-es Maidenform Love The Lift Push-up and In Strapless...'
 sku: 'B077YMLXDD-es'
 tags: [  ]

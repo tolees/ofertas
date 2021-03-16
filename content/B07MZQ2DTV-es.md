@@ -5,7 +5,7 @@ date: 2020-01-10 16:50:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31W7fcTumYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ2DTV-es Vans Filmore Decon Zapatillas para Mujer Rosa Suede Lilac...'
 sku: 'B07MZQ2DTV-es'
 tags: [  ]

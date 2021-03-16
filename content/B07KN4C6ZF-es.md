@@ -5,7 +5,7 @@ date: 2020-03-19 18:38:29
 image: 'https://m.media-amazon.com/images/I/31NXwNMWyHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KN4C6ZF-es MOSISO Funda Dura Compatible con 2019 2018 MacBook Air 13...'
 sku: 'B07KN4C6ZF-es'
 tags: [  ]

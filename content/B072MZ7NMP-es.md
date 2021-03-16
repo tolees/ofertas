@@ -5,7 +5,7 @@ date: 2020-05-26 12:24:21
 image: 'https://m.media-amazon.com/images/I/31engNP5KeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MZ7NMP-es adidas Adi-Ease Zapatillas de Skateboard para Hombre Negro...'
 sku: 'B072MZ7NMP-es'
 tags: [  ]

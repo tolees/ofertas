@@ -5,7 +5,7 @@ date: 2020-03-21 02:17:32
 image: 'https://m.media-amazon.com/images/I/31ruXmUnq7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXHF8P7-es Qkiss Depiladora Luz Pulsada Depiladora Luz Pulsada para...'
 sku: 'B07VXHF8P7-es'
 tags: [  ]

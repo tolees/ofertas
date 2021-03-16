@@ -5,7 +5,7 @@ date: 2020-08-01 13:34:11
 image: 'https://m.media-amazon.com/images/I/61WI6cVN6gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SUZXCS4-es Aquabeads-79268 Template Sheets Set multicolor Epoch 79268...'
 sku: 'B00SUZXCS4-es'
 tags: [  ]

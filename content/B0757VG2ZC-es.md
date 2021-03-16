@@ -5,7 +5,7 @@ date: 2020-01-13 17:50:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31eKlVuo7DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757VG2ZC-es Licwshi 450lm La luz solar 24 LED de una aleación de...'
 sku: 'B0757VG2ZC-es'
 tags: [  ]

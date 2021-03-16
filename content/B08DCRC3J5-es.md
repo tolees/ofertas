@@ -5,7 +5,7 @@ date: 2020-08-30 15:21:46
 image: 'https://m.media-amazon.com/images/I/51AXjQA1yzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DCRC3J5-es JOYUE 40 Pcs Bolsas de Fiesta Dinosaurios Bolsas de Papel...'
 sku: 'B08DCRC3J5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2019-12-31 17:53:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mhTD9Eu-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG56SHW-es New Balance Fuell Cell Propel Zapatillas de Running para...'
 sku: 'B07HG56SHW-es'
 tags: [  ]

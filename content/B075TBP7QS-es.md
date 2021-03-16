@@ -5,7 +5,7 @@ date: 2020-05-21 16:02:08
 image: 'https://m.media-amazon.com/images/I/41grGp0eDIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075TBP7QS-es Badger Protector solar para bebé SP30 | 1 x 87 ml'
 sku: 'B075TBP7QS-es'
 tags: [  ]

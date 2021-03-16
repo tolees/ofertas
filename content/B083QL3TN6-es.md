@@ -5,7 +5,7 @@ date: 2020-07-08 17:44:42
 image: 'https://m.media-amazon.com/images/I/51YYU2VbU3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083QL3TN6-es Tamaño pequeño Jasen Power Splitter Satellite Two Power...'
 sku: 'B083QL3TN6-es'
 tags: [  ]

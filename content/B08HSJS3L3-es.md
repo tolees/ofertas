@@ -5,7 +5,7 @@ date: 2020-09-13 16:19:54
 image: 'https://m.media-amazon.com/images/I/31VfY3pHgfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HSJS3L3-es BRICOMIRAS JAMONERO Modelo BANQUETA Color Natural Regalo...'
 sku: 'B08HSJS3L3-es'
 tags: [  ]

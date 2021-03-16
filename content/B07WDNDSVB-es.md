@@ -5,7 +5,7 @@ date: 2020-02-19 08:34:19
 image: 'https://m.media-amazon.com/images/I/418YD6uPZNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDNDSVB-es REYLEO Maleta Cabina Rígida PC+ABS Material Equipaje de...'
 sku: 'B07WDNDSVB-es'
 tags: [  ]

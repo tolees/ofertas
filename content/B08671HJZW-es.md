@@ -5,7 +5,7 @@ date: 2020-05-11 20:46:49
 image: 'https://m.media-amazon.com/images/I/517l6QSuSvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08671HJZW-es Bastoncillos para los oídos de bambú y algodón- 1 unidad...'
 sku: 'B08671HJZW-es'
 tags: [  ]

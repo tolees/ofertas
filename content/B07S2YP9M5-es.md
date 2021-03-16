@@ -5,7 +5,7 @@ date: 2020-07-27 19:02:20
 image: 'https://m.media-amazon.com/images/I/41T3at0oVkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2YP9M5-es BESCHOI Plancha de Pelo Profesional Revestimiento de...'
 sku: 'B07S2YP9M5-es'
 tags: [  ]

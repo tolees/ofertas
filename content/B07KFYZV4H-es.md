@@ -5,7 +5,7 @@ date: 2020-01-05 15:42:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410iw7GBq1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYZV4H-es PUMA Storm Pulse Zapatillas Unisex Adulto Black-Castlerock...'
 sku: 'B07KFYZV4H-es'
 tags: [  ]

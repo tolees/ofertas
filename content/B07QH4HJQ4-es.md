@@ -5,7 +5,7 @@ date: 2019-12-31 20:43:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fvmPf6LBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH4HJQ4-es LAYJOY Funda Xiaomi Redmi Note 6 Pro Ligera Carcasa...'
 sku: 'B07QH4HJQ4-es'
 tags: [  ]

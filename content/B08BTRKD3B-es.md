@@ -5,7 +5,7 @@ date: 2020-08-09 13:24:50
 image: 'https://m.media-amazon.com/images/I/41h6-1PqRsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTRKD3B-es Bandas de Silicona Antideslizantes Soporte para Montaje en...'
 sku: 'B08BTRKD3B-es'
 tags: [  ]

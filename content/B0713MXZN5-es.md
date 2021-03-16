@@ -5,7 +5,7 @@ date: 2020-04-03 04:01:22
 image: 'https://m.media-amazon.com/images/I/418FDr97niL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0713MXZN5-es Tommy Hilfiger HMT-W PNTSLD99002 Pantalones Beige 203...'
 sku: 'B0713MXZN5-es'
 tags: [  ]

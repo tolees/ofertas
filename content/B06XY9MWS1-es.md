@@ -5,7 +5,7 @@ date: 2020-02-22 09:05:46
 image: 'https://m.media-amazon.com/images/I/41lxBGJBJEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XY9MWS1-es Imperial Confort 617513 Topper Viscoelástico 135 x 190 cm...'
 sku: 'B06XY9MWS1-es'
 tags: [  ]

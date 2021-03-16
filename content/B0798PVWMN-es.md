@@ -5,7 +5,7 @@ date: 2020-04-14 16:56:29
 image: 'https://m.media-amazon.com/images/I/51AzlTBPSVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798PVWMN-es 2018 Wedding Planner Book for Wedding Schedule Organize...'
 sku: 'B0798PVWMN-es'
 tags: [  ]

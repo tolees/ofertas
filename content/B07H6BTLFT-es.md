@@ -5,7 +5,7 @@ date: 2020-09-20 08:38:36
 image: 'https://m.media-amazon.com/images/I/41MdAd3e0fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6BTLFT-es Beurer MG-320 - Funda a siento Masaje Shiatsu color gris'
 sku: 'B07H6BTLFT-es'
 tags: [  ]

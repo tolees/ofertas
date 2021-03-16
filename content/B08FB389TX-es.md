@@ -5,7 +5,7 @@ date: 2020-08-22 03:53:15
 image: 'https://m.media-amazon.com/images/I/51Mlf3GwpqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FB389TX-es Weideworld [3 Pack] Funda para Xiaomi Redmi 9A Patrón...'
 sku: 'B08FB389TX-es'
 tags: [  ]

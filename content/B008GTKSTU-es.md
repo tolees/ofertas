@@ -5,7 +5,7 @@ date: 2020-06-23 14:02:57
 image: 'https://m.media-amazon.com/images/I/41chvcJft3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008GTKSTU-es Kärcher Conector universal para mangueras 2.645-191.0'
 sku: 'B008GTKSTU-es'
 tags: [  ]

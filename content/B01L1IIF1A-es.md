@@ -5,7 +5,7 @@ date: 2020-09-24 18:34:38
 image: 'https://m.media-amazon.com/images/I/41ZbMnCHEhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L1IIF1A-es Sennheiser HD 569 - Auriculares de Diadema Cerrados 6.3...'
 sku: 'B01L1IIF1A-es'
 tags: [  ]

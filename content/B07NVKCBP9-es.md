@@ -5,7 +5,7 @@ date: 2020-04-14 09:09:11
 image: 'https://m.media-amazon.com/images/I/41CbOs-H+aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVKCBP9-es Zer one Ventilador de refrigeración de la CPU portátil de...'
 sku: 'B07NVKCBP9-es'
 tags: [  ]

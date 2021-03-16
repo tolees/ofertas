@@ -5,7 +5,7 @@ date: 2020-05-17 16:40:01
 image: 'https://m.media-amazon.com/images/I/41KgUZ+Jr2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPL4RC-es Pepe Jeans Kim suéter Forest Green 682 Small para Mujer'
 sku: 'B07MZPL4RC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-06 15:53:10
 image: 'https://m.media-amazon.com/images/I/21JhpXsiYkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007YFYU5K-es Faro Barcelona 33415 - EASY Ventilador de techo con luz...'
 sku: 'B007YFYU5K-es'
 tags: [  ]

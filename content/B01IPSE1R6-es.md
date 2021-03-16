@@ -5,7 +5,7 @@ date: 2020-09-28 05:03:26
 image: 'https://m.media-amazon.com/images/I/51OIe0K38+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IPSE1R6-es The Walking Dead - Temporada 6 [Blu-ray]'
 sku: 'B01IPSE1R6-es'
 tags: [  ]

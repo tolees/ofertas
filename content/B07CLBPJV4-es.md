@@ -5,7 +5,7 @@ date: 2020-02-26 12:06:40
 image: 'https://m.media-amazon.com/images/I/41Vgeq6fkfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLBPJV4-es HOMEYU Enchufe Antipolvo de Aluminio de Primera Calidad...'
 sku: 'B07CLBPJV4-es'
 tags: [  ]

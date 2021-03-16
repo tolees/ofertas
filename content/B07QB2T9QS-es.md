@@ -5,7 +5,7 @@ date: 2020-02-27 19:15:35
 image: 'https://m.media-amazon.com/images/I/51VJvBWdoFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB2T9QS-es Cuna portátil Capazos Cuna de Viaje tela Oxford Plegable...'
 sku: 'B07QB2T9QS-es'
 tags: [  ]

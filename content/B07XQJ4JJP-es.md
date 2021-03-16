@@ -5,7 +5,7 @@ date: 2020-07-12 19:59:42
 image: 'https://m.media-amazon.com/images/I/41-35zF64JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQJ4JJP-es QHOHQ Funda para Samsung Galaxy A50S A50 A30S Cases...'
 sku: 'B07XQJ4JJP-es'
 tags: [  ]

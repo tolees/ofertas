@@ -5,7 +5,7 @@ date: 2020-02-27 23:00:48
 image: 'https://m.media-amazon.com/images/I/51816QL5W0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFEZODM-es The Walking Dead - Temporadas 1 a 6 [Blu-ray]'
 sku: 'B01MFEZODM-es'
 tags: [  ]

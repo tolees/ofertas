@@ -5,7 +5,7 @@ date: 2020-03-16 20:02:12
 image: 'https://m.media-amazon.com/images/I/51hmCvhrvtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZT98YS-es Alomejor Almohadilla de Hombro autocalefactable Soporte...'
 sku: 'B07FZT98YS-es'
 tags: [  ]

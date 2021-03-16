@@ -5,7 +5,7 @@ date: 2020-03-07 05:46:18
 image: 'https://m.media-amazon.com/images/I/41Kaf6fCe3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYX7RX8-es Case Logic Reflect MacBook Sleeve 13 Funda para MacBook...'
 sku: 'B07HYX7RX8-es'
 tags: [  ]

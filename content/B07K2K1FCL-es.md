@@ -5,7 +5,7 @@ date: 2020-04-19 02:58:43
 image: 'https://m.media-amazon.com/images/I/31CacFc6GGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2K1FCL-es Apple Funda Smart Folio para el iPad Pro de 12 9 pulgadas...'
 sku: 'B07K2K1FCL-es'
 tags: [  ]

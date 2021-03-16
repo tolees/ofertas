@@ -5,7 +5,7 @@ date: 2020-10-03 11:25:11
 image: 'https://m.media-amazon.com/images/I/41H2qVpcAnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005VS6DRK-es Converse Chuck Taylor All Star Hi Top Zapatillas Unisex...'
 sku: 'B005VS6DRK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-16 18:20:21
 image: 'https://m.media-amazon.com/images/I/51uHuMYidrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTGNXDV-es Multímetro Digital Profesional LOMVUM T28C Manual Rango...'
 sku: 'B07MTGNXDV-es'
 tags: [  ]

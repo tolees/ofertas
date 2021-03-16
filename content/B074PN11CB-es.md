@@ -5,7 +5,7 @@ date: 2020-01-13 14:43:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31XhmKXtonL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PN11CB-es YUNTAB Nemo Cámara Panorámica Portátil 360 grados 1080P...'
 sku: 'B074PN11CB-es'
 tags: [  ]

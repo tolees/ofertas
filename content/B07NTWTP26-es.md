@@ -5,7 +5,7 @@ date: 2020-07-20 17:42:03
 image: 'https://m.media-amazon.com/images/I/31hEG722-fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NTWTP26-es Skechers Men s Ultra Flex 2.0 KELMER Trainers Blue Black...'
 sku: 'B07NTWTP26-es'
 tags: [  ]

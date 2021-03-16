@@ -5,7 +5,7 @@ date: 2020-02-09 12:42:55
 image: 'https://m.media-amazon.com/images/I/41VsP33XMVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B5G3VYF-es Exquisite Gaming - Cable Guys- Crash Bandicoot XL'
 sku: 'B07B5G3VYF-es'
 tags: [  ]

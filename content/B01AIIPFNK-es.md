@@ -5,7 +5,7 @@ date: 2020-01-28 09:02:46
 image: 'https://m.media-amazon.com/images/I/41tP9lwHsIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AIIPFNK-es UGG W Bailey Bow II Botas para Mujer Gris Grey 41 EU'
 sku: 'B01AIIPFNK-es'
 tags: [  ]

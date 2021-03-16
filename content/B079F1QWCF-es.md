@@ -5,7 +5,7 @@ date: 2020-04-05 15:18:44
 image: 'https://m.media-amazon.com/images/I/41hjA+-BaoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079F1QWCF-es CLP Silla De Oficina Kolumbus En Tela I Silla De...'
 sku: 'B079F1QWCF-es'
 tags: [  ]

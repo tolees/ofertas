@@ -5,7 +5,7 @@ date: 2020-02-25 13:24:22
 image: 'https://m.media-amazon.com/images/I/41PesUJYM2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003TWONWC-es Bosch Professional 2 607 019 927 Bosch 927-Juego de 5...'
 sku: 'B003TWONWC-es'
 tags: [  ]

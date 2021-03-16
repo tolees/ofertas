@@ -5,7 +5,7 @@ date: 2020-04-30 15:16:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61BJBsFdn%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2K7CCB-es Taiko No Tatsujin: Drum n Fun'
 sku: 'B07G2K7CCB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-28 15:48:53
 image: 'https://m.media-amazon.com/images/I/41GtU3OLckL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFDGHPH-es Quiksilver Get Buzzy-Camiseta para Chicos 8-16 Niños Black...'
 sku: 'B07TFDGHPH-es'
 tags: [  ]

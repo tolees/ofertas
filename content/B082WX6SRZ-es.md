@@ -5,7 +5,7 @@ date: 2020-07-17 09:54:25
 image: 'https://m.media-amazon.com/images/I/41LbOt36ygL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WX6SRZ-es AUELEK Linterna LED P50 Linterna LED Alta Potencia 5...'
 sku: 'B082WX6SRZ-es'
 tags: [  ]

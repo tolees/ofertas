@@ -5,7 +5,7 @@ date: 2020-08-13 19:01:49
 image: 'https://m.media-amazon.com/images/I/41hAFpC1nWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D8CRSP2-es Picadora de Hielo A Mano O X Mojito Granizados Made In...'
 sku: 'B00D8CRSP2-es'
 tags: [  ]

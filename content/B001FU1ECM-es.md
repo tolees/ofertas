@@ -5,7 +5,7 @@ date: 2020-07-20 08:23:48
 image: 'https://m.media-amazon.com/images/I/31BbJNne0HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FU1ECM-es Superga 2750 COTU Classic Zapatillas Unisex-Adulto Blanco...'
 sku: 'B001FU1ECM-es'
 tags: [  ]

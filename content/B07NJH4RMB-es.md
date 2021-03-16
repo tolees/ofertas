@@ -5,7 +5,7 @@ date: 2020-06-22 19:21:48
 image: 'https://m.media-amazon.com/images/I/41BHThgtMqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJH4RMB-es Adidas Deerupt Runner C Zapatillas de Deporte Unisex niño...'
 sku: 'B07NJH4RMB-es'
 tags: [  ]

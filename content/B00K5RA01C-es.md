@@ -5,7 +5,7 @@ date: 2020-05-23 07:27:08
 image: 'https://m.media-amazon.com/images/I/41QD48-tBuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5RA01C-es Tommy Hilfiger 3p Brief Tanga Ngro Negro 990 Large para...'
 sku: 'B00K5RA01C-es'
 tags: [  ]

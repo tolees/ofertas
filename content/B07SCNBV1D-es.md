@@ -5,7 +5,7 @@ date: 2020-10-06 18:46:58
 image: 'https://m.media-amazon.com/images/I/51SmQYHTLmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCNBV1D-es Newdora Almohada de Viaje Viscoelástica de Espuma de...'
 sku: 'B07SCNBV1D-es'
 tags: [  ]

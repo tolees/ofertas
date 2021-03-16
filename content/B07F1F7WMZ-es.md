@@ -5,7 +5,7 @@ date: 2020-05-05 08:38:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31I-7%2B-t5zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1F7WMZ-es JACK & JONES Jjeholmen Sweat Crew Neck Noos Suéter para...'
 sku: 'B07F1F7WMZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-06 14:50:07
 image: 'https://m.media-amazon.com/images/I/41UQe3g6RjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHS5C1Y-es Shock Absorber Ultimate Run Bra Sujetador Deportivo para...'
 sku: 'B06XHS5C1Y-es'
 tags: [  ]

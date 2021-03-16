@@ -5,7 +5,7 @@ date: 2020-01-05 08:55:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hhb-lBKmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPZK9Z8-es Masajeador Electrónico 10 Modos Vibración Masajeador de...'
 sku: 'B07ZPZK9Z8-es'
 tags: [  ]

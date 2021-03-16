@@ -5,7 +5,7 @@ date: 2020-05-07 07:48:38
 image: 'https://m.media-amazon.com/images/I/21WaCgCy3RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ5OON8-es GoPro Karma Replacement Arm - Brazo de Repuesto Delantero...'
 sku: 'B01LZ5OON8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-12 10:12:34
 image: 'https://m.media-amazon.com/images/I/31UazCnL0XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTNQJHJ-es GSOTTA Calcetines invisibles 6 paquetes calcetines para...'
 sku: 'B07XTNQJHJ-es'
 tags: [  ]

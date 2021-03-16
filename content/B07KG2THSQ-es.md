@@ -5,7 +5,7 @@ date: 2020-01-12 23:51:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TdOyCbkTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG2THSQ-es PUMA Future 4.2 Netfit FG/AG Botas de fútbol para Hombre...'
 sku: 'B07KG2THSQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 09:01:16
 image: 'https://m.media-amazon.com/images/I/31WTA2GNPHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CGP75BQ-es AYIYO - Pantalones cortos para bebé niños y niñas mezcla...'
 sku: 'B08CGP75BQ-es'
 tags: [  ]

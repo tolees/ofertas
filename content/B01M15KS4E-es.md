@@ -5,7 +5,7 @@ date: 2020-07-03 09:02:35
 image: 'https://m.media-amazon.com/images/I/418KkSdUJZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M15KS4E-es AEG AKIT 360+ Accesorio Para Aspirador De Mano Plástico Negro'
 sku: 'B01M15KS4E-es'
 tags: [  ]

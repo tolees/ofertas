@@ -5,7 +5,7 @@ date: 2020-05-27 16:35:13
 image: 'https://m.media-amazon.com/images/I/61Ha6Zp1IFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVSTYSZ-es Cerdá 8427934274819 Toalla Poliéster LOL Azul 113 x 108 cm'
 sku: 'B07MVSTYSZ-es'
 tags: [  ]

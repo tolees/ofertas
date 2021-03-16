@@ -5,7 +5,7 @@ date: 2020-06-14 15:02:35
 image: 'https://m.media-amazon.com/images/I/41fBUbFqrcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0014GUOZK-es Bosch 2 607 002 566 - Set de 12+1 puntas de atornillar...'
 sku: 'B0014GUOZK-es'
 tags: [  ]

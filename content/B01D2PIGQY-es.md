@@ -5,7 +5,7 @@ date: 2020-04-01 16:35:48
 image: 'https://m.media-amazon.com/images/I/31idZB-pNaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D2PIGQY-es LG CineBeam PH550G - Proyector con batería integrada hasta...'
 sku: 'B01D2PIGQY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-26 16:32:01
 image: 'https://m.media-amazon.com/images/I/41vzJPIRHLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SP4K24C-es Under Armour Tech 2.0 Tanque Hombre Azul MD'
 sku: 'B07SP4K24C-es'
 tags: [  ]

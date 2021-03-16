@@ -5,7 +5,7 @@ date: 2020-04-11 10:08:21
 image: 'https://m.media-amazon.com/images/I/51zLXk84BrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000J6HYKO-es HP 51A - Cartucho de tóner original LaserJet para HP...'
 sku: 'B000J6HYKO-es'
 tags: [  ]

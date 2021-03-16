@@ -5,7 +5,7 @@ date: 2020-06-24 10:20:45
 image: 'https://m.media-amazon.com/images/I/51k9nSGOF5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2C5Q1F-es Litthing Envoltorio Cera De Abeja Envoltorios de Alimentos...'
 sku: 'B07X2C5Q1F-es'
 tags: [  ]

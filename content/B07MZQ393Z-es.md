@@ -5,7 +5,7 @@ date: 2020-04-18 03:15:05
 image: 'https://m.media-amazon.com/images/I/31ijN-4xjeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ393Z-es Funko- Pop Vinilo: Spongebob Squarepants S3: Squidward...'
 sku: 'B07MZQ393Z-es'
 tags: [  ]

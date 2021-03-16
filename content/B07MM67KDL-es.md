@@ -5,7 +5,7 @@ date: 2020-05-15 15:55:20
 image: 'https://m.media-amazon.com/images/I/41OEZoEjVTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM67KDL-es Buffalo Corin Zapatillas para Mujer Rosa Pink 001 39 EU'
 sku: 'B07MM67KDL-es'
 tags: [  ]

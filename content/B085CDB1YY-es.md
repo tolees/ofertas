@@ -5,7 +5,7 @@ date: 2020-06-19 11:02:22
 image: 'https://m.media-amazon.com/images/I/41yTKTv-VCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CDB1YY-es FMPC Carcasa con Cuerda Samsung Galaxy A20E Cristal TPU...'
 sku: 'B085CDB1YY-es'
 tags: [  ]

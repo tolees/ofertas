@@ -5,7 +5,7 @@ date: 2020-08-26 12:01:41
 image: 'https://m.media-amazon.com/images/I/31LCQ+cyt8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08717DZXC-es B Blesiya Cargador Inalámbrico Qi Pad 10W Base De Carga...'
 sku: 'B08717DZXC-es'
 tags: [  ]

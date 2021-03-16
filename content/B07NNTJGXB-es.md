@@ -5,7 +5,7 @@ date: 2020-06-26 09:44:37
 image: 'https://m.media-amazon.com/images/I/31xUAtasBaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNTJGXB-es Under Armour UA W TriBase Edge Trainer Zapatillas...'
 sku: 'B07NNTJGXB-es'
 tags: [  ]

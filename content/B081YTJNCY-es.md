@@ -5,7 +5,7 @@ date: 2020-06-16 10:42:28
 image: 'https://m.media-amazon.com/images/I/51k7KwWipsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081YTJNCY-es para GoPro Domo Puerto para Gopro Hero Negro Domo GoPro...'
 sku: 'B081YTJNCY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-05 12:35:22
 image: 'https://m.media-amazon.com/images/I/31wOUxcw+XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8M3N9P-es Superga 2750 COTU Classic Zapatillas Unisex Blanco White...'
 sku: 'B07P8M3N9P-es'
 tags: [  ]

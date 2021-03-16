@@ -5,7 +5,7 @@ date: 2020-08-08 20:08:13
 image: 'https://m.media-amazon.com/images/I/41vFN2GdpaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003L1AASW-es Hawaiian Tropic - Protective Dry Oil Spray - Aceite...'
 sku: 'B003L1AASW-es'
 tags: [  ]

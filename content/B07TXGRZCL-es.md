@@ -5,7 +5,7 @@ date: 2020-03-11 01:48:35
 image: 'https://m.media-amazon.com/images/I/410daTC63TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXGRZCL-es Rizador de Pelo 6 en 1 Profesional con Conos Temperatura...'
 sku: 'B07TXGRZCL-es'
 tags: [  ]

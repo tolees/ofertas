@@ -5,7 +5,7 @@ date: 2020-06-03 16:06:43
 image: 'https://m.media-amazon.com/images/I/512hGv8d2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1BGRSJ-es 50 Pruebas De Ovulación 20 Miu/Ml Tiras De Prueba De...'
 sku: 'B07K1BGRSJ-es'
 tags: [  ]

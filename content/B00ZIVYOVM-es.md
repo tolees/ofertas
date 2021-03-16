@@ -5,7 +5,7 @@ date: 2020-04-27 16:36:17
 image: 'https://m.media-amazon.com/images/I/51b+RAmmokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZIVYOVM-es Mass Effect: Andrómeda'
 sku: 'B00ZIVYOVM-es'
 tags: [  ]

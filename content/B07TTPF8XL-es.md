@@ -5,7 +5,7 @@ date: 2020-07-23 08:37:50
 image: 'https://m.media-amazon.com/images/I/51E9KPI7mfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTPF8XL-es KiplingCity Pack SMujerMochilasMulticolor Speckled...'
 sku: 'B07TTPF8XL-es'
 tags: [  ]

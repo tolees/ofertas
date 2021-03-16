@@ -5,7 +5,7 @@ date: 2020-04-20 03:02:18
 image: 'https://m.media-amazon.com/images/I/41dsqP6qg2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GDKPTNE-es Lee Daren Button Fly Jeans Azul Clean Black 29W / 34L para...'
 sku: 'B00GDKPTNE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-19 16:40:33
 image: 'https://m.media-amazon.com/images/I/31yhdXL8VxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814CY9LR-es Cochecito de bebé Gancho para colgar Ganchos para...'
 sku: 'B0814CY9LR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-14 12:04:46
 image: 'https://m.media-amazon.com/images/I/31gh9+I+Y9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZBSAW7-es hummel Stadil RMX High Sneaker Hombres Zapatillas Casual -...'
 sku: 'B01LZBSAW7-es'
 tags: [  ]

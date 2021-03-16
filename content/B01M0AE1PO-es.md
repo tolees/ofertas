@@ -5,7 +5,7 @@ date: 2020-06-22 15:38:50
 image: 'https://m.media-amazon.com/images/I/51-b57BGilL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0AE1PO-es LITORAL Fabada Asturiana Plato Preparado de Fabada...'
 sku: 'B01M0AE1PO-es'
 tags: [  ]

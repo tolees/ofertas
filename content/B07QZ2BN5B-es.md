@@ -5,7 +5,7 @@ date: 2020-01-10 17:48:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416dIMQckzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ2BN5B-es DlandHome Banco Pesas Multifunción Banca de Peso Ajustable...'
 sku: 'B07QZ2BN5B-es'
 tags: [  ]

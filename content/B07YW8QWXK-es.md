@@ -5,7 +5,7 @@ date: 2020-04-03 19:28:20
 image: 'https://m.media-amazon.com/images/I/41Q0Sdl7RuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YW8QWXK-es SUNLU 3D Printer Power Supply'
 sku: 'B07YW8QWXK-es'
 tags: [  ]

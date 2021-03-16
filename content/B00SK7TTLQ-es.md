@@ -5,7 +5,7 @@ date: 2020-03-08 11:42:37
 image: 'https://m.media-amazon.com/images/I/41mXwWyo9EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SK7TTLQ-es Hot Chocolate Design Chocolaticas Doris Tacon Mary Jane...'
 sku: 'B00SK7TTLQ-es'
 tags: [  ]

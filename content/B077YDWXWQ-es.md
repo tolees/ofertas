@@ -5,7 +5,7 @@ date: 2020-05-23 07:51:18
 image: 'https://m.media-amazon.com/images/I/411qKXydbNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDWXWQ-es Sylvie Flirty Swimwear Bendi Traje de Baño de Una Pieza...'
 sku: 'B077YDWXWQ-es'
 tags: [  ]

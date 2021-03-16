@@ -5,7 +5,7 @@ date: 2020-03-14 15:45:52
 image: 'https://m.media-amazon.com/images/I/41+xqwjAHQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPG6QZ9-es Powerextra DMW-BLC12 Panasonic DMW-BLC12E 2 X Baterías con...'
 sku: 'B07PPG6QZ9-es'
 tags: [  ]

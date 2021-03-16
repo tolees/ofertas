@@ -5,7 +5,7 @@ date: 2020-09-01 11:03:38
 image: 'https://m.media-amazon.com/images/I/41OiML5UF+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0765B8YMB-es Honeywell Home Wi-Fi C2 Cámara Seguridad angular 145° en...'
 sku: 'B0765B8YMB-es'
 tags: [  ]

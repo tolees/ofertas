@@ -5,7 +5,7 @@ date: 2020-06-08 11:06:13
 image: 'https://m.media-amazon.com/images/I/31k8BVVqDnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XS8SR1J-es Versa 18790697 Perchero pie blanco - Metal y madera...'
 sku: 'B06XS8SR1J-es'
 tags: [  ]

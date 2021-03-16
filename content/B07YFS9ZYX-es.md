@@ -5,7 +5,7 @@ date: 2020-05-31 08:53:20
 image: 'https://m.media-amazon.com/images/I/41mEtY2jh-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFS9ZYX-es Van&Fancy NA cobre White Cubic Zirconia'
 sku: 'B07YFS9ZYX-es'
 tags: [  ]

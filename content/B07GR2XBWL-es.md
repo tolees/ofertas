@@ -5,7 +5,7 @@ date: 2020-04-15 13:40:31
 image: 'https://m.media-amazon.com/images/I/4130eoJAA-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GR2XBWL-es auna IR-160 - Radio Internet WiFi USB MP3 AUX Alarma...'
 sku: 'B07GR2XBWL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-19 18:04:16
 image: 'https://m.media-amazon.com/images/I/31sGjHNqYfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01INNQE46-es HP C2710 Wireless Keyboard Combo M7P30AA AB9 - Teclado...'
 sku: 'B01INNQE46-es'
 tags: [  ]

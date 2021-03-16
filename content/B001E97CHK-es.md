@@ -5,7 +5,7 @@ date: 2020-09-13 19:15:34
 image: 'https://m.media-amazon.com/images/I/412kP0GvzpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001E97CHK-es Colgate 360 Cepillo de dientes Suave limpiador de lengua y...'
 sku: 'B001E97CHK-es'
 tags: [  ]

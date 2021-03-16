@@ -5,7 +5,7 @@ date: 2020-08-04 21:38:36
 image: 'https://m.media-amazon.com/images/I/31C8LcdEUTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKC1G52-es Skechers Equalizer 4.0 SERASA Zapatillas para Hombre...'
 sku: 'B07XKC1G52-es'
 tags: [  ]

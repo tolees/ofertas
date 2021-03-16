@@ -5,7 +5,7 @@ date: 2020-01-01 19:08:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YCPzjDoBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0832FFDQ5-es Puma Evospeed High Jump 4 Track and Field Zapatillas...'
 sku: 'B0832FFDQ5-es'
 tags: [  ]

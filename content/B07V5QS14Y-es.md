@@ -5,7 +5,7 @@ date: 2020-06-11 16:43:59
 image: 'https://m.media-amazon.com/images/I/316JuY2MwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5QS14Y-es Tommy Hilfiger Core Corporate Textile Sneaker Zapatillas...'
 sku: 'B07V5QS14Y-es'
 tags: [  ]

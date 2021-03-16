@@ -5,7 +5,7 @@ date: 2020-06-12 15:21:46
 image: 'https://m.media-amazon.com/images/I/41zGLVNUd4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777F2ZZW-es Sillita plegable bebé negra Omnio - Desde los 6 meses...'
 sku: 'B0777F2ZZW-es'
 tags: [  ]

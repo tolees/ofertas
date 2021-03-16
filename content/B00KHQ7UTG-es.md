@@ -5,7 +5,7 @@ date: 2020-04-23 19:47:14
 image: 'https://m.media-amazon.com/images/I/51wdU+nzQNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KHQ7UTG-es Rust-Oleum RO0070002G1 - Pintura De Chalky Finalizar...'
 sku: 'B00KHQ7UTG-es'
 tags: [  ]

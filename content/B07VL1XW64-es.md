@@ -5,7 +5,7 @@ date: 2020-02-13 09:58:35
 image: 'https://m.media-amazon.com/images/I/31TNoyCG7tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VL1XW64-es TUTUO Adapter para dji Osmo Pocket Adaptador de Audio Tipo...'
 sku: 'B07VL1XW64-es'
 tags: [  ]

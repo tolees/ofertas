@@ -5,7 +5,7 @@ date: 2020-03-19 22:26:22
 image: 'https://m.media-amazon.com/images/I/4115e1fF79L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWQG71Z-es Nike Air MAX Graviton Zapatillas para Hombre Negro...'
 sku: 'B07PWQG71Z-es'
 tags: [  ]

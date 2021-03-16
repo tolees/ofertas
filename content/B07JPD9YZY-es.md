@@ -5,7 +5,7 @@ date: 2020-03-24 16:32:49
 image: 'https://m.media-amazon.com/images/I/51JWf8Bdj-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPD9YZY-es Weekend Peninsula 5 Pares Calcetines de Running Deportivos...'
 sku: 'B07JPD9YZY-es'
 tags: [  ]

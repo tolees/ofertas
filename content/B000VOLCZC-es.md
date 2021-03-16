@@ -5,7 +5,7 @@ date: 2020-03-26 11:54:19
 image: 'https://m.media-amazon.com/images/I/41qDNpB67hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VOLCZC-es Davidoff Cool Water After Shave 75 ml'
 sku: 'B000VOLCZC-es'
 tags: [  ]

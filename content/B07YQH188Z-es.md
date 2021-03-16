@@ -5,7 +5,7 @@ date: 2020-06-04 21:09:30
 image: 'https://m.media-amazon.com/images/I/416hqpQuevL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQH188Z-es Pop! Rocks: Slayer - Jeff Hanneman'
 sku: 'B07YQH188Z-es'
 tags: [  ]

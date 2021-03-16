@@ -5,7 +5,7 @@ date: 2020-05-11 17:06:40
 image: 'https://m.media-amazon.com/images/I/417K6UJNKJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFYCRY5-es Atletico Madrid FC - Figura SoccerStarz de Lemar 5cm...'
 sku: 'B07MFYCRY5-es'
 tags: [  ]

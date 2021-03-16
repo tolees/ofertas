@@ -5,7 +5,7 @@ date: 2020-03-19 23:10:52
 image: 'https://m.media-amazon.com/images/I/311BxdEX4yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0784QSVJS-es Nelly Espuma para Pelo - 12 Recipientes de 300 ml - Total:...'
 sku: 'B0784QSVJS-es'
 tags: [  ]

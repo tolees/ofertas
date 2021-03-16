@@ -5,7 +5,7 @@ date: 2020-05-25 12:04:14
 image: 'https://m.media-amazon.com/images/I/51wOL-Ule0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0827LNLDL-es LoveOlvido HW-546 ESP8266 Placa de Desarrollo Witty Cloud...'
 sku: 'B0827LNLDL-es'
 tags: [  ]

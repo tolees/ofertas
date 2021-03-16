@@ -5,7 +5,7 @@ date: 2020-04-19 17:48:25
 image: 'https://m.media-amazon.com/images/I/51x4QTe48QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z76MXFD-es Pantalla de Proyector de 100 Pulgadas Portátil para...'
 sku: 'B07Z76MXFD-es'
 tags: [  ]

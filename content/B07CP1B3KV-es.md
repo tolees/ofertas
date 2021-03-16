@@ -5,7 +5,7 @@ date: 2020-03-12 01:38:49
 image: 'https://m.media-amazon.com/images/I/41cxBNNbZCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CP1B3KV-es PRIXTON Smartwatch SWB31 - Reloj Inteligente Sumergible...'
 sku: 'B07CP1B3KV-es'
 tags: [  ]

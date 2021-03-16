@@ -5,7 +5,7 @@ date: 2020-02-19 10:29:07
 image: 'https://m.media-amazon.com/images/I/31Vkf2W2YmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHY76TH-es Kickers Tyl Botas Slouch para Mujer Negro Noir 81 41 EU'
 sku: 'B07MHY76TH-es'
 tags: [  ]

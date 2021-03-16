@@ -5,7 +5,7 @@ date: 2020-01-16 17:06:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dENNA3CfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJNVQXH-es VTIN Mini Auriculares Bluetooth 4.1 Manos Libres Blutooth...'
 sku: 'B07CJNVQXH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 04:20:28
 image: 'https://m.media-amazon.com/images/I/41nIZzdSLqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7CKS7W-es adidas Light ANK 3pp Calcetines Unisex Adulto Medium Grey...'
 sku: 'B07S7CKS7W-es'
 tags: [  ]

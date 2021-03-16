@@ -5,7 +5,7 @@ date: 2020-05-06 09:09:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31iDxmi3nRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3FTPWB-es Tommy Hilfiger Core Thick Textile Sneaker Zapatillas para...'
 sku: 'B07L3FTPWB-es'
 tags: [  ]

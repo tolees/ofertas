@@ -5,7 +5,7 @@ date: 2020-04-17 16:32:28
 image: 'https://m.media-amazon.com/images/I/41rtEIjx2dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GTK3D7-es Oihxse Transparente Funda para Motorola Moto G7 Play...'
 sku: 'B086GTK3D7-es'
 tags: [  ]

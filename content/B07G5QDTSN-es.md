@@ -5,7 +5,7 @@ date: 2020-06-15 12:15:57
 image: 'https://m.media-amazon.com/images/I/31WpWiUVqTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5QDTSN-es Max Factor Base de maquillaje Tono: 77 Golden Tan Pieles...'
 sku: 'B07G5QDTSN-es'
 tags: [  ]

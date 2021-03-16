@@ -5,7 +5,7 @@ date: 2020-03-20 09:04:00
 image: 'https://m.media-amazon.com/images/I/414qIn8vcsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LETDY80-es Lampa 60158 Cinta Tensor con trinquete'
 sku: 'B01LETDY80-es'
 tags: [  ]

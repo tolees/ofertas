@@ -5,7 +5,7 @@ date: 2020-03-05 17:04:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415baX2xYaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y8MPVFY-es BaronHong Sport Bra Chest Binder Transpirable Malla Corset...'
 sku: 'B06Y8MPVFY-es'
 tags: [  ]

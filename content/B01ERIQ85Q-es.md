@@ -5,7 +5,7 @@ date: 2020-02-12 12:04:33
 image: 'https://m.media-amazon.com/images/I/41wYWm1RKQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ERIQ85Q-es Calcetines de Compresión 1 par Amarillo EU 35-38'
 sku: 'B01ERIQ85Q-es'
 tags: [  ]

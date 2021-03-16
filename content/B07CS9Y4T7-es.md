@@ -5,7 +5,7 @@ date: 2020-08-14 19:59:33
 image: 'https://m.media-amazon.com/images/I/31uUgksOm6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CS9Y4T7-es Pepe Jeans Pixlette Jeans Negro Black Denim Wl0 11-12 años...'
 sku: 'B07CS9Y4T7-es'
 tags: [  ]

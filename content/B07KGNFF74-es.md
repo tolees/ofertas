@@ -5,7 +5,7 @@ date: 2020-10-06 19:55:48
 image: 'https://m.media-amazon.com/images/I/41-qaBXXm7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGNFF74-es BOSS Schino-Regular Short Pantalones Cortos Beige Medium...'
 sku: 'B07KGNFF74-es'
 tags: [  ]

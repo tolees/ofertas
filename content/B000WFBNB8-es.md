@@ -5,7 +5,7 @@ date: 2020-06-01 09:08:22
 image: 'https://m.media-amazon.com/images/I/31IKDwX0HFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WFBNB8-es Trixie Accesorio para Mascotas Un tamaño 112 g'
 sku: 'B000WFBNB8-es'
 tags: [  ]

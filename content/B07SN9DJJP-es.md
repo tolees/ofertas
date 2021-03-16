@@ -5,7 +5,7 @@ date: 2020-08-09 10:06:56
 image: 'https://m.media-amazon.com/images/I/41Yy2OlpERL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SN9DJJP-es Adidas Vs Switch 2 CMF Inf Zapatillas de Estar por casa...'
 sku: 'B07SN9DJJP-es'
 tags: [  ]

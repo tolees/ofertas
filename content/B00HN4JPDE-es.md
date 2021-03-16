@@ -5,7 +5,7 @@ date: 2020-02-09 16:04:49
 image: 'https://m.media-amazon.com/images/I/519l7J-Y2kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HN4JPDE-es Anillo Rimous clásico ajustable con bonita flor tibetana...'
 sku: 'B00HN4JPDE-es'
 tags: [  ]

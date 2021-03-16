@@ -5,7 +5,7 @@ date: 2020-04-18 12:26:49
 image: 'https://m.media-amazon.com/images/I/41NUT2t9zZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E7H4HQ-es K&N RU-2922 filtro de goma universal paquete de 2 Coche y...'
 sku: 'B000E7H4HQ-es'
 tags: [  ]

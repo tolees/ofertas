@@ -5,7 +5,7 @@ date: 2020-01-22 18:08:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411yhf1mrXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFPPWX7-es Shock Absorber Ultimate Run Bra Sujetador Deportivo Rosa...'
 sku: 'B07HFPPWX7-es'
 tags: [  ]

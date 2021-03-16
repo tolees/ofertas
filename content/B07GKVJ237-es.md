@@ -5,7 +5,7 @@ date: 2020-04-16 18:08:00
 image: 'https://m.media-amazon.com/images/I/51QnZV1hfsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKVJ237-es China Yunnan Puer té Lotus Puerh Tuocha Pequeña hoja de...'
 sku: 'B07GKVJ237-es'
 tags: [  ]

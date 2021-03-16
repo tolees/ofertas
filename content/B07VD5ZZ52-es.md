@@ -5,7 +5,7 @@ date: 2020-06-23 23:15:32
 image: 'https://m.media-amazon.com/images/I/41NgybAigwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD5ZZ52-es CROSOFMI Estante Ducha Estanteria Baño Esquina a Prueba de...'
 sku: 'B07VD5ZZ52-es'
 tags: [  ]

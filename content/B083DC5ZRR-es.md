@@ -5,7 +5,7 @@ date: 2020-08-07 15:01:19
 image: 'https://m.media-amazon.com/images/I/313hVydgLGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DC5ZRR-es perfk LED Luz de Navegación 12V para Barcos Bombilla...'
 sku: 'B083DC5ZRR-es'
 tags: [  ]

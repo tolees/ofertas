@@ -5,7 +5,7 @@ date: 2020-01-22 12:28:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41c-CecZLpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXRY9NR-es Maquinilla de afeitar profesional hoja de acero inoxidable...'
 sku: 'B07FXRY9NR-es'
 tags: [  ]

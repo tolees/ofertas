@@ -5,7 +5,7 @@ date: 2020-01-17 06:59:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51oYSfrktWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S8A2KLG-es Worx WX311.1 Taladro Percutor 1100 W'
 sku: 'B00S8A2KLG-es'
 tags: [  ]

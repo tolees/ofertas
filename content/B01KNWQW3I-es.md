@@ -5,7 +5,7 @@ date: 2020-05-30 07:10:06
 image: 'https://m.media-amazon.com/images/I/41BboV-MIkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KNWQW3I-es Kerastase Mascarilla para el pelo - 200 ml.'
 sku: 'B01KNWQW3I-es'
 tags: [  ]

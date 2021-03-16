@@ -5,7 +5,7 @@ date: 2020-08-08 19:47:07
 image: 'https://m.media-amazon.com/images/I/41UDJdofUfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NKDXDH3-es iAmotus Ratón Inalámbrico Recargable 2.4G Ratón Óptico...'
 sku: 'B07NKDXDH3-es'
 tags: [  ]

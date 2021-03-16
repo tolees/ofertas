@@ -5,7 +5,7 @@ date: 2020-01-05 13:24:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419iG%2BbnlFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZZZGP3-es TRESemmé Acondicionador Botanique Coco - Paquete de 3 x...'
 sku: 'B078ZZZGP3-es'
 tags: [  ]

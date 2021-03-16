@@ -5,7 +5,7 @@ date: 2020-07-25 20:02:37
 image: 'https://m.media-amazon.com/images/I/31k6rSvl7KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPH687J-es Lacoste Carnaby EVO 120 7 US SMA Zapatillas para Hombre...'
 sku: 'B07SPH687J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-09 12:02:03
 image: 'https://m.media-amazon.com/images/I/31of38rsC6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVN77N3-es Helly Hansen HH Mizu V7 Aislado Botella De Agua Acero...'
 sku: 'B07MVN77N3-es'
 tags: [  ]

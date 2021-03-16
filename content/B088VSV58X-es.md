@@ -5,7 +5,7 @@ date: 2020-05-29 13:32:54
 image: 'https://m.media-amazon.com/images/I/31Qj2mH2BhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088VSV58X-es P Prettyia 8 Unidades USB Macho A Cable De Extensión De...'
 sku: 'B088VSV58X-es'
 tags: [  ]

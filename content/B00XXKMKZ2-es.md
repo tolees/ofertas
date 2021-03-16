@@ -5,7 +5,7 @@ date: 2020-01-23 16:50:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31PfSVuy2iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XXKMKZ2-es Adidas AA2297 Calcetines Unisex Blanco 47 - 50 EU Paquete...'
 sku: 'B00XXKMKZ2-es'
 tags: [  ]

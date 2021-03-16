@@ -5,7 +5,7 @@ date: 2020-04-11 17:57:28
 image: 'https://m.media-amazon.com/images/I/31Y7PT8iqbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FUX6WBW-es Kenwood Triblade System Pro HDM804SI Batidora de mano...'
 sku: 'B01FUX6WBW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 16:57:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410BKNhZ4TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D75LSW5-es R REDONDO IGLESIAS DESDE 1920 Cuchillos de Cocina...'
 sku: 'B07D75LSW5-es'
 tags: [  ]

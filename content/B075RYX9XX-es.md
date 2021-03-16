@@ -5,7 +5,7 @@ date: 2020-07-25 10:02:44
 image: 'https://m.media-amazon.com/images/I/31e7N3Xu2DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RYX9XX-es VIKI LYNN Pendientes de perlas 7-8mm Pendientes de perlas'
 sku: 'B075RYX9XX-es'
 tags: [  ]

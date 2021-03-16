@@ -5,7 +5,7 @@ date: 2020-04-08 16:33:44
 image: 'https://m.media-amazon.com/images/I/51p5otnV+tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMYM885-es NEW C 2 Unidades Protector de Pantalla para Samsung Galaxy...'
 sku: 'B07VMYM885-es'
 tags: [  ]

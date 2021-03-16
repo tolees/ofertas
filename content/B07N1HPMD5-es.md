@@ -5,7 +5,7 @@ date: 2020-04-29 13:12:15
 image: 'https://m.media-amazon.com/images/I/31hEqYQWk7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HPMD5-es Clarks Un Adorn Zip Mocasines para Mujer Beige Pebble...'
 sku: 'B07N1HPMD5-es'
 tags: [  ]

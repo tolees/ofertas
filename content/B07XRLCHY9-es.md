@@ -5,7 +5,7 @@ date: 2020-08-29 03:53:42
 image: 'https://m.media-amazon.com/images/I/51XzlWcr9mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRLCHY9-es Fintie Funda para iPad 10.2" 2019 - Trasera Transparente...'
 sku: 'B07XRLCHY9-es'
 tags: [  ]

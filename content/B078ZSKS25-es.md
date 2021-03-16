@@ -5,7 +5,7 @@ date: 2020-01-28 09:26:00
 image: 'https://m.media-amazon.com/images/I/51IevtuqzgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZSKS25-es Epson Workforce Pro WF-C5710DWF - Impresora multifunción...'
 sku: 'B078ZSKS25-es'
 tags: [  ]

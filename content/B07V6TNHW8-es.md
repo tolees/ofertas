@@ -5,7 +5,7 @@ date: 2020-08-12 07:55:30
 image: 'https://m.media-amazon.com/images/I/41UXg9eL-TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6TNHW8-es Tommy Hilfiger High Cleated Flag Sneaker Zapatillas para...'
 sku: 'B07V6TNHW8-es'
 tags: [  ]

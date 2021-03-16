@@ -5,7 +5,7 @@ date: 2020-05-10 21:20:34
 image: 'https://m.media-amazon.com/images/I/31XOYCUR0cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M43PDWG-es BSN Nutrition N.O.-Xplode Suplementos Deportivos Pre...'
 sku: 'B00M43PDWG-es'
 tags: [  ]

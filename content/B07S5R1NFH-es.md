@@ -5,7 +5,7 @@ date: 2020-04-05 13:14:47
 image: 'https://m.media-amazon.com/images/I/41rYO-tHT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5R1NFH-es Joyeee Niños Bricolaje Conjunto de Cuentas Set de...'
 sku: 'B07S5R1NFH-es'
 tags: [  ]

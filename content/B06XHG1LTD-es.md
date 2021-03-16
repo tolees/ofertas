@@ -5,7 +5,7 @@ date: 2020-03-13 06:01:19
 image: 'https://m.media-amazon.com/images/I/31SFLEEQG4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHG1LTD-es Helly Hansen W HH LIFA Crew LS Baselayer Mujer Negro Black...'
 sku: 'B06XHG1LTD-es'
 tags: [  ]

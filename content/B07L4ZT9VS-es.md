@@ -5,7 +5,7 @@ date: 2020-04-29 01:40:57
 image: 'https://m.media-amazon.com/images/I/41zxx4cDDkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4ZT9VS-es Adidas Terrex AX3 GTX W Zapatillas de Deporte para Mujer...'
 sku: 'B07L4ZT9VS-es'
 tags: [  ]

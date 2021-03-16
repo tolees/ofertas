@@ -5,7 +5,7 @@ date: 2020-06-22 09:01:52
 image: 'https://m.media-amazon.com/images/I/41Q6ldrZV1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1PL24N-es New Balance 997H h Zapatillas para Hombre Gris Grey/Navy...'
 sku: 'B07S1PL24N-es'
 tags: [  ]

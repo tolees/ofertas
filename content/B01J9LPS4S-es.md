@@ -5,7 +5,7 @@ date: 2020-06-11 06:24:06
 image: 'https://m.media-amazon.com/images/I/514LScpsvfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J9LPS4S-es Russell Hobbs Retro - Tostadora Vintage 2 Ranuras Cortas y...'
 sku: 'B01J9LPS4S-es'
 tags: [  ]

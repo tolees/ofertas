@@ -5,7 +5,7 @@ date: 2020-06-23 09:16:30
 image: 'https://m.media-amazon.com/images/I/41iI7yBmcuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073FHQ1GL-es HP Officejet Pro 7730 – Impresora multifunción de formato...'
 sku: 'B073FHQ1GL-es'
 tags: [  ]

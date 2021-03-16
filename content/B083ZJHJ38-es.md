@@ -5,7 +5,7 @@ date: 2020-07-13 01:32:49
 image: 'https://m.media-amazon.com/images/I/31lz6WAbqOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZJHJ38-es ghd curve soft curl - Tenacilla profesional 32mm para...'
 sku: 'B083ZJHJ38-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-12 12:41:42
 image: 'https://m.media-amazon.com/images/I/51C97o5WilL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZF2XYTS-es JK-2 Sacos de Yute 10pcs / Bolsa de Yute línea Impresa...'
 sku: 'B07ZF2XYTS-es'
 tags: [  ]

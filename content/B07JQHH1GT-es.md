@@ -5,7 +5,7 @@ date: 2020-03-17 11:14:43
 image: 'https://m.media-amazon.com/images/I/41ChERxwvoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQHH1GT-es AngLink Mechero Electrico Encendedor USB Doble Arco...'
 sku: 'B07JQHH1GT-es'
 tags: [  ]

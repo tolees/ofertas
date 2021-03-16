@@ -5,7 +5,7 @@ date: 2020-01-07 08:10:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41E3TwoMYIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY9KHZL-es Parfois - Bandolera De Ante - Mujeres - Tallas M - Camel'
 sku: 'B07TY9KHZL-es'
 tags: [  ]

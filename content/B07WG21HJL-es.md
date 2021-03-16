@@ -5,7 +5,7 @@ date: 2020-08-26 14:20:53
 image: 'https://m.media-amazon.com/images/I/41OQI7frjKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WG21HJL-es Yinuo Mirror Set de Regalo de Velas Candelitas Perfumadas...'
 sku: 'B07WG21HJL-es'
 tags: [  ]

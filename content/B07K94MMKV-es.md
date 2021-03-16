@@ -5,7 +5,7 @@ date: 2020-02-08 09:43:26
 image: 'https://m.media-amazon.com/images/I/41ad5FRJjxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K94MMKV-es bugatti 342623626900 Zapatillas sin Cordones para Hombre...'
 sku: 'B07K94MMKV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 10:05:54
 image: 'https://m.media-amazon.com/images/I/51WVcE4DPfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078VT77NF-es XINZUO Set Cuchillo Cocina 5 Piezas Damasco Japonés 67...'
 sku: 'B078VT77NF-es'
 tags: [  ]

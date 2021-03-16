@@ -5,7 +5,7 @@ date: 2020-06-13 12:50:35
 image: 'https://m.media-amazon.com/images/I/31KzSwZKRCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DR4MCX8-es hummel Actus Trainer Zapatillas Unisex Adulto Blanco White...'
 sku: 'B07DR4MCX8-es'
 tags: [  ]

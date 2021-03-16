@@ -5,7 +5,7 @@ date: 2020-05-19 07:03:10
 image: 'https://m.media-amazon.com/images/I/4181tn-7hHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D31BXN-es Suhctup Funda Compatible para Xiaomi Redmi Note 6 Carcasa...'
 sku: 'B088D31BXN-es'
 tags: [  ]

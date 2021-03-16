@@ -5,7 +5,7 @@ date: 2020-07-23 17:43:03
 image: 'https://m.media-amazon.com/images/I/51cauFFJiUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CC5X8PC-es Compatible para Samsung Galaxy Note 10 Lite Silicone Case...'
 sku: 'B08CC5X8PC-es'
 tags: [  ]

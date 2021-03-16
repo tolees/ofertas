@@ -5,7 +5,7 @@ date: 2020-01-01 11:45:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31XvE8me2%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJQ635B-es PTHTECHUS Bola Voladora RC Flying Juguetes Built-in...'
 sku: 'B07RJQ635B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 16:43:09
 image: 'https://m.media-amazon.com/images/I/41CPkY3hEKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BVB12G-es GLEADING Cepillo Quitar Pelos de Mascotas Rodillo...'
 sku: 'B083BVB12G-es'
 tags: [  ]

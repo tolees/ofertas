@@ -5,7 +5,7 @@ date: 2020-01-17 12:58:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IHuvGAP2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QBZSBQS-es BICASLOVE de Botella de Agua de Acero Inoxidable Diseño de...'
 sku: 'B07QBZSBQS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-15 20:50:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419Oi8TvauL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZLKTPM-es Under Armour Tech 6In 2 Pack Ropa Interior Hombre Azul...'
 sku: 'B07CZLKTPM-es'
 tags: [  ]

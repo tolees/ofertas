@@ -5,7 +5,7 @@ date: 2020-09-21 08:41:01
 image: 'https://m.media-amazon.com/images/I/61RumThb7iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DVDF9L-es Hiedra artificial de Amkun pack de 12 para bodas cocina...'
 sku: 'B074DVDF9L-es'
 tags: [  ]

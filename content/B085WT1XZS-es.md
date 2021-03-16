@@ -5,7 +5,7 @@ date: 2020-08-23 15:56:23
 image: 'https://m.media-amazon.com/images/I/41iTGy16gJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085WT1XZS-es BOSSTER Exprimidor Tubo Pasta Dientes 3 Piezas Exprimidor...'
 sku: 'B085WT1XZS-es'
 tags: [  ]

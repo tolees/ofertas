@@ -5,7 +5,7 @@ date: 2020-09-11 16:20:11
 image: 'https://m.media-amazon.com/images/I/41S8U8hi5SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018KNS42E-es Skechers Equalizer-Double Play Mocasines Hombre Negro...'
 sku: 'B018KNS42E-es'
 tags: [  ]

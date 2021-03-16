@@ -5,7 +5,7 @@ date: 2020-05-13 16:25:54
 image: 'https://m.media-amazon.com/images/I/41Kn2R8NyYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7PQX8N-es Only Onlpoptrash Soft Panel Pnt Noos Pantalones Multicolor...'
 sku: 'B07F7PQX8N-es'
 tags: [  ]

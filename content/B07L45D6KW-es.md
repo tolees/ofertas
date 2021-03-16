@@ -5,7 +5,7 @@ date: 2020-06-07 22:56:37
 image: 'https://m.media-amazon.com/images/I/31D0GXZGYvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L45D6KW-es Adidas Terrex Skychaser LT Zapatillas de Deporte para...'
 sku: 'B07L45D6KW-es'
 tags: [  ]

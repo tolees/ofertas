@@ -5,7 +5,7 @@ date: 2020-03-01 09:52:02
 image: 'https://m.media-amazon.com/images/I/51jBqLyfp9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXVWGKG-es Taladro G★LAXIA 510W Taladro Eléctrico 0-3000RPM Velocidad...'
 sku: 'B07QXVWGKG-es'
 tags: [  ]

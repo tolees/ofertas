@@ -5,7 +5,7 @@ date: 2020-06-22 15:45:26
 image: 'https://m.media-amazon.com/images/I/516ByE5zgSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CH3DY12-es Dolity 6 Hojas de Pegatinas Transparentes de Conejo Gordo...'
 sku: 'B07CH3DY12-es'
 tags: [  ]

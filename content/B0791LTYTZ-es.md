@@ -5,7 +5,7 @@ date: 2020-01-24 13:58:03
 image: 'https://m.media-amazon.com/images/I/41dL4N7cAoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0791LTYTZ-es 8safe Protector de Alta Calidad para Asiento de Coche PACK...'
 sku: 'B0791LTYTZ-es'
 tags: [  ]

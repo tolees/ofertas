@@ -5,7 +5,7 @@ date: 2020-05-24 14:12:58
 image: 'https://m.media-amazon.com/images/I/417uE+RWj6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHGGL1D-es Yizhet 7/8" 22 mm Espejos de manillar de la motocicleta...'
 sku: 'B07SHGGL1D-es'
 tags: [  ]

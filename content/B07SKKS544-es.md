@@ -5,7 +5,7 @@ date: 2020-07-31 13:28:03
 image: 'https://m.media-amazon.com/images/I/51WO+ke1PNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKKS544-es Nike Pico 5 TDV Gymnastics Shoe Unisex-Baby Deep Royal...'
 sku: 'B07SKKS544-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-01 17:50:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QdKjYC5XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6TRLTF-es Sangean DDR-66BT SmartLink 9 Minicadena de música para Uso...'
 sku: 'B07K6TRLTF-es'
 tags: [  ]

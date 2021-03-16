@@ -5,7 +5,7 @@ date: 2020-08-08 09:30:48
 image: 'https://m.media-amazon.com/images/I/41D9WqvGHcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017DAWEG2-es BERING Reloj Analógico para Unisex Adultos de Cuarzo con...'
 sku: 'B017DAWEG2-es'
 tags: [  ]

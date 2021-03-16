@@ -5,7 +5,7 @@ date: 2020-07-23 16:32:32
 image: 'https://m.media-amazon.com/images/I/51q7L5HQghL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3ZMWR4-es SRJ2018 Playa Palmeras en Ocean Heaven Tumbonas Balcón...'
 sku: 'B07V3ZMWR4-es'
 tags: [  ]

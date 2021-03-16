@@ -5,7 +5,7 @@ date: 2020-02-02 09:51:07
 image: 'https://m.media-amazon.com/images/I/51fd6DtEuYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075N1K8VF-es Monederos Mujer Cartera de Mujer de Gran Capacidad con...'
 sku: 'B075N1K8VF-es'
 tags: [  ]

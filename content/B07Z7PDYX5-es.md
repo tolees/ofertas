@@ -5,7 +5,7 @@ date: 2020-06-26 13:01:57
 image: 'https://m.media-amazon.com/images/I/51DuIRQlXaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7PDYX5-es loonBonnie Cómodo Absorción de Sudor Deporte Gimnasio...'
 sku: 'B07Z7PDYX5-es'
 tags: [  ]

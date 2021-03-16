@@ -5,7 +5,7 @@ date: 2020-02-21 17:45:17
 image: 'https://m.media-amazon.com/images/I/414vYMG6h9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017XNXKAS-es Bvlgari Omnia Paraiba Edt Vapo 40 Ml 1 Unidad 0.04 g'
 sku: 'B017XNXKAS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 07:16:20
 image: 'https://m.media-amazon.com/images/I/41uU1W0w0GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004OFI54K-es Estee Lauder 31405 - Loción anti-imperfecciones'
 sku: 'B004OFI54K-es'
 tags: [  ]

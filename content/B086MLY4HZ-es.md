@@ -5,7 +5,7 @@ date: 2020-04-22 09:02:45
 image: 'https://m.media-amazon.com/images/I/31YKwLTWS9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MLY4HZ-es YO-HAPPY Albornoces recién Nacidas Cuidado del bebé Suave'
 sku: 'B086MLY4HZ-es'
 tags: [  ]

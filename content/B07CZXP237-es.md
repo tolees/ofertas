@@ -5,7 +5,7 @@ date: 2020-01-04 17:04:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zjq8UgKIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZXP237-es Fresadora 2 Pinzas 1/4" 1/8" Compatible Fresa de 6mm 6...'
 sku: 'B07CZXP237-es'
 tags: [  ]

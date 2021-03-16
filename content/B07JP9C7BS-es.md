@@ -5,7 +5,7 @@ date: 2020-04-15 18:08:50
 image: 'https://m.media-amazon.com/images/I/31b1WbRU3AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JP9C7BS-es Morgan Tshirt Manches Courtes Col V Dentelle DMINOL...'
 sku: 'B07JP9C7BS-es'
 tags: [  ]

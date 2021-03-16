@@ -5,7 +5,7 @@ date: 2020-09-11 12:33:20
 image: 'https://m.media-amazon.com/images/I/41UbiEPFuaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GZMKKW-es TATAY Urban Food Prime Gris - Bolsa térmica Porta...'
 sku: 'B071GZMKKW-es'
 tags: [  ]

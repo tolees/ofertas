@@ -5,7 +5,7 @@ date: 2020-07-06 02:02:43
 image: 'https://m.media-amazon.com/images/I/414usNKWSHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQNVNRT-es Adidas Terrex Eastrail Zapatillas de Deporte para Hombre...'
 sku: 'B07NQNVNRT-es'
 tags: [  ]

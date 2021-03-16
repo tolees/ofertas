@@ -5,7 +5,7 @@ date: 2020-03-08 21:55:05
 image: 'https://m.media-amazon.com/images/I/51-J52w2qPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JV7V26R-es Funko- Pocket Pop Fortnite Llavero de Vinilo con Anilla...'
 sku: 'B07JV7V26R-es'
 tags: [  ]

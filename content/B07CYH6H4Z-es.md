@@ -5,7 +5,7 @@ date: 2020-01-24 09:33:09
 image: 'https://m.media-amazon.com/images/I/41B+uYQjq7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYH6H4Z-es Amazfit Stratos Reloj Inteligente Multideporte con VO2max...'
 sku: 'B07CYH6H4Z-es'
 tags: [  ]

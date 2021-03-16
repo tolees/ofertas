@@ -5,7 +5,7 @@ date: 2020-06-30 16:20:07
 image: 'https://m.media-amazon.com/images/I/413RHmDiKOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X67QXXX-es Mini Chupa Chups Caramelo con Palo de Sabores Variados -...'
 sku: 'B07X67QXXX-es'
 tags: [  ]

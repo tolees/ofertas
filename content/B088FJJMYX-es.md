@@ -5,7 +5,7 @@ date: 2020-07-05 23:20:45
 image: 'https://m.media-amazon.com/images/I/41b6abFQMGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FJJMYX-es PC Webcam USB Cámara Web con Micrófono Incorporado Que...'
 sku: 'B088FJJMYX-es'
 tags: [  ]

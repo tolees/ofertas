@@ -5,7 +5,7 @@ date: 2020-04-27 15:19:26
 image: 'https://m.media-amazon.com/images/I/41cvkhFdq4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JF3AUBC-es Embutidos Ezequiel Chorizo Picante Herradura 500 gramos'
 sku: 'B00JF3AUBC-es'
 tags: [  ]

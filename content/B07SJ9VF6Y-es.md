@@ -5,7 +5,7 @@ date: 2020-05-16 17:03:22
 image: 'https://m.media-amazon.com/images/I/41ZcUel+6NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ9VF6Y-es Lebze Muselina Manta Bebé | Mantas de Muselina de Bambú...'
 sku: 'B07SJ9VF6Y-es'
 tags: [  ]

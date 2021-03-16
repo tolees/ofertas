@@ -5,7 +5,7 @@ date: 2020-01-23 18:53:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T%2BPAYIopL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003LVYRK4-es Compactor Bolsa para la Colada Blanco Polipropileno...'
 sku: 'B003LVYRK4-es'
 tags: [  ]

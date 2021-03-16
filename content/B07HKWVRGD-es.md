@@ -5,7 +5,7 @@ date: 2020-05-30 17:35:03
 image: 'https://m.media-amazon.com/images/I/31wkmbHmQTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKWVRGD-es Dolce&Gabbana - Cartera para Mujer Negro Negro -...'
 sku: 'B07HKWVRGD-es'
 tags: [  ]

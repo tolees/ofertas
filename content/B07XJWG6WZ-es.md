@@ -5,7 +5,7 @@ date: 2020-03-27 21:04:22
 image: 'https://m.media-amazon.com/images/I/41TUs6HSJeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJWG6WZ-es TOMLOV Mini Cámara 140 Grados HD 1080P Mini Cámara Espia...'
 sku: 'B07XJWG6WZ-es'
 tags: [  ]

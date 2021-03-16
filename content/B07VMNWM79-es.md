@@ -5,7 +5,7 @@ date: 2020-08-07 08:25:32
 image: 'https://m.media-amazon.com/images/I/418EwH8o91L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMNWM79-es Calvin Klein Short Runner Bañador Negro PVH Black BEH...'
 sku: 'B07VMNWM79-es'
 tags: [  ]

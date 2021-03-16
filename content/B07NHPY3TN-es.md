@@ -5,7 +5,7 @@ date: 2020-03-09 17:18:43
 image: 'https://m.media-amazon.com/images/I/41v2nWU147L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHPY3TN-es Veet for Men Crema Depilatoria para Hombre Piel Sensible...'
 sku: 'B07NHPY3TN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-12 18:15:52
 image: 'https://m.media-amazon.com/images/I/41yNc6fO4RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ITVUH2S-es Wd-40 34302 Lubricante Color unico 200ml'
 sku: 'B00ITVUH2S-es'
 tags: [  ]

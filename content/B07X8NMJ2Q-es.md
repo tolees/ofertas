@@ -5,7 +5,7 @@ date: 2020-05-24 11:10:04
 image: 'https://m.media-amazon.com/images/I/51uc1LpW4wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8NMJ2Q-es GGMM Base de batería para Dot de 3ª generación y Altavoces...'
 sku: 'B07X8NMJ2Q-es'
 tags: [  ]

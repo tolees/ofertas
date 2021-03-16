@@ -5,7 +5,7 @@ date: 2020-01-27 15:14:51
 image: 'https://m.media-amazon.com/images/I/418xG8bcgHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4FRFB2-es Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con...'
 sku: 'B07G4FRFB2-es'
 tags: [  ]

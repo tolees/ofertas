@@ -5,7 +5,7 @@ date: 2020-03-20 13:33:33
 image: 'https://m.media-amazon.com/images/I/41UNvpy-PqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQFJYZC-es Newseego Compatible con el Protector de Lente de cámara...'
 sku: 'B07PQFJYZC-es'
 tags: [  ]

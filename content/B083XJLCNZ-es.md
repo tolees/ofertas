@@ -5,7 +5,7 @@ date: 2020-03-16 09:31:33
 image: 'https://m.media-amazon.com/images/I/31wIuHf4qOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XJLCNZ-es Masajeador Portátil 10 Modos de Frecuencia Silicona Suave...'
 sku: 'B083XJLCNZ-es'
 tags: [  ]

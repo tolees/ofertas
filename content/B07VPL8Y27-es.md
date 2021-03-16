@@ -5,7 +5,7 @@ date: 2020-05-22 12:44:42
 image: 'https://m.media-amazon.com/images/I/41PPDrOYysL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPL8Y27-es Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón Rojo Blush...'
 sku: 'B07VPL8Y27-es'
 tags: [  ]

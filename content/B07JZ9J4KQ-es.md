@@ -5,7 +5,7 @@ date: 2020-03-17 09:36:53
 image: 'https://m.media-amazon.com/images/I/41HPjmdplPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ9J4KQ-es Calzoncillos de Hombre Espalda Ahueca hacia Fuera la Ropa...'
 sku: 'B07JZ9J4KQ-es'
 tags: [  ]

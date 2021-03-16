@@ -5,7 +5,7 @@ date: 2020-09-08 12:31:09
 image: 'https://m.media-amazon.com/images/I/41NJkAuNh5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CGNFF6-es Universal Candy Color 3USB Cargador Travel Wall Charger...'
 sku: 'B085CGNFF6-es'
 tags: [  ]

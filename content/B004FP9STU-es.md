@@ -5,7 +5,7 @@ date: 2020-06-20 12:43:48
 image: 'https://m.media-amazon.com/images/I/51QRJEqlY7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004FP9STU-es Royal Canin C-08314 S.N. Mini Starter - 1 Kg'
 sku: 'B004FP9STU-es'
 tags: [  ]

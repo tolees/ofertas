@@ -5,7 +5,7 @@ date: 2020-07-22 12:38:43
 image: 'https://m.media-amazon.com/images/I/31y8deMSsmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQL7L4N-es Lámpara Escritorio LED Lámparas de Mesa USB Regulable...'
 sku: 'B07DQL7L4N-es'
 tags: [  ]

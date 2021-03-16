@@ -5,7 +5,7 @@ date: 2020-09-18 11:32:46
 image: 'https://m.media-amazon.com/images/I/51Lye3LpAbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PPBQP5-es SHIELDON Funda Portátil 13-13.3 Pulgadas Funda Ordenador...'
 sku: 'B082PPBQP5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-06 10:31:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9NVPJL-es Lacoste Carnaby EVO 319 1 SUI Zapatillas Unisex Niños...'
 sku: 'B07L9NVPJL-es'
 tags: [  ]

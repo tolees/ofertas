@@ -5,7 +5,7 @@ date: 2020-01-23 12:13:34
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F38CB8N-es KLIMTM Esports Silla Gaming Ergonómica + con Soporte...'
 sku: 'B07F38CB8N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-28 15:13:17
 image: 'https://m.media-amazon.com/images/I/51yPaRjalBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008YQPZN4-es Remington Titanium-X Dual Foil F7800 Afeitadora de Láminas...'
 sku: 'B008YQPZN4-es'
 tags: [  ]

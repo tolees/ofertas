@@ -5,7 +5,7 @@ date: 2020-05-02 20:59:21
 image: 'https://m.media-amazon.com/images/I/51EcwKSlsbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GS4B5RY-es Festina Chrono Sport Cronógrafo para hombres Carcasa Maciza'
 sku: 'B00GS4B5RY-es'
 tags: [  ]

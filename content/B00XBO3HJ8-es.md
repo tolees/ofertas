@@ -5,7 +5,7 @@ date: 2020-09-20 09:22:28
 image: 'https://m.media-amazon.com/images/I/41BssZlFR-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XBO3HJ8-es Mars Gaming MKHA0 - Teclado gaming para PC respuesta...'
 sku: 'B00XBO3HJ8-es'
 tags: [  ]

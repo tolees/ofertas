@@ -5,7 +5,7 @@ date: 2020-01-02 11:32:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JC2m3xJpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZKJRB5-es Destornillador Eléctrico Inalámbrico LOMVUM LV401 4V...'
 sku: 'B07RZKJRB5-es'
 tags: [  ]

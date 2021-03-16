@@ -5,7 +5,7 @@ date: 2020-08-24 20:00:47
 image: 'https://m.media-amazon.com/images/I/511CMN-vAzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0881F7SZY-es T.face Huevos furtivos de Silicona Egg Cooker Tazas de...'
 sku: 'B0881F7SZY-es'
 tags: [  ]

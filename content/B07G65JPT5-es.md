@@ -5,7 +5,7 @@ date: 2020-08-17 11:28:54
 image: 'https://m.media-amazon.com/images/I/41ioSYs9SGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G65JPT5-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07G65JPT5-es'
 tags: [  ]

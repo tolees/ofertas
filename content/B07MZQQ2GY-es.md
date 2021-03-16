@@ -5,7 +5,7 @@ date: 2020-03-15 02:43:00
 image: 'https://m.media-amazon.com/images/I/41kDzshpPrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQQ2GY-es Funko- Pop Vinilo Squarepants S3: Spongebob Rainbow Figura...'
 sku: 'B07MZQQ2GY-es'
 tags: [  ]

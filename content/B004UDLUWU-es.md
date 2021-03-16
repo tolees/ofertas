@@ -5,7 +5,7 @@ date: 2020-04-03 09:29:41
 image: 'https://m.media-amazon.com/images/I/51GSQ57nxnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004UDLUWU-es Master Lock 1551 Mosquetón Ajustable 0.90m Cable En...'
 sku: 'B004UDLUWU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:10:57
 image: 'https://m.media-amazon.com/images/I/41cyWNSvq-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZDVZTS-es Kafuty 4G Lector de Libros Electrónicos Portátil Tinta...'
 sku: 'B07WZDVZTS-es'
 tags: [  ]

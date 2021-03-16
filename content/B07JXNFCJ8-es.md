@@ -5,7 +5,7 @@ date: 2020-04-07 08:57:06
 image: 'https://m.media-amazon.com/images/I/31L723Z-+mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXNFCJ8-es Skechers Synergy 3.0 Zapatillas para Mujer Blanco White...'
 sku: 'B07JXNFCJ8-es'
 tags: [  ]

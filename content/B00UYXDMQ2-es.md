@@ -5,7 +5,7 @@ date: 2020-06-22 19:01:03
 image: 'https://m.media-amazon.com/images/I/41+1pUbs9rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UYXDMQ2-es SELECTED HOMME Shntwomario Unwash Dk.blue St.jeans Noos...'
 sku: 'B00UYXDMQ2-es'
 tags: [  ]

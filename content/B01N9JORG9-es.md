@@ -5,7 +5,7 @@ date: 2020-04-25 09:07:07
 image: 'https://m.media-amazon.com/images/I/51Ukgv8puYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9JORG9-es Olay Anti-Edad Firmeza & Efecto Lifting Crema Reafirmante...'
 sku: 'B01N9JORG9-es'
 tags: [  ]

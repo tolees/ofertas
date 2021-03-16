@@ -5,7 +5,7 @@ date: 2020-04-11 18:07:05
 image: 'https://m.media-amazon.com/images/I/510HKTzefsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GN3IA0-es Kempa Needle Agujas para Hinchar Balones Hombre...'
 sku: 'B000GN3IA0-es'
 tags: [  ]

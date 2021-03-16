@@ -5,7 +5,7 @@ date: 2020-05-17 12:02:07
 image: 'https://m.media-amazon.com/images/I/41W9yRlKBzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DGXR9G-es FNBK Funda para Samsung Galaxy S10 Plus Funda de Piel con...'
 sku: 'B081DGXR9G-es'
 tags: [  ]

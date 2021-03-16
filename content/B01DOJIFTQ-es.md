@@ -5,7 +5,7 @@ date: 2020-07-13 07:45:06
 image: 'https://m.media-amazon.com/images/I/51oLncQa4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DOJIFTQ-es KITCHENATICS Rejilla para Enfriar y Hornear de Acero...'
 sku: 'B01DOJIFTQ-es'
 tags: [  ]

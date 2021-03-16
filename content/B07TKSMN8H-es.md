@@ -5,7 +5,7 @@ date: 2020-07-14 17:36:44
 image: 'https://m.media-amazon.com/images/I/41vIA2lyzxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKSMN8H-es Clarks Sift Lace Zapatillas para Mujer Gris Grey Snake...'
 sku: 'B07TKSMN8H-es'
 tags: [  ]

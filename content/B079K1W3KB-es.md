@@ -5,7 +5,7 @@ date: 2020-07-03 13:07:21
 image: 'https://m.media-amazon.com/images/I/31PKdtklDWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079K1W3KB-es Corsair Carbide 275R - Caja de ordenador semitorre para...'
 sku: 'B079K1W3KB-es'
 tags: [  ]

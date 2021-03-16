@@ -5,7 +5,7 @@ date: 2020-02-03 19:39:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31HkQyboIYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F2NKL4U-es Bellota 4539-24 Sierra Arco'
 sku: 'B00F2NKL4U-es'
 tags: [  ]

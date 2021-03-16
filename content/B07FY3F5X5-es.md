@@ -5,7 +5,7 @@ date: 2020-09-16 08:17:51
 image: 'https://m.media-amazon.com/images/I/415C18LBS-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY3F5X5-es Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS...'
 sku: 'B07FY3F5X5-es'
 tags: [  ]

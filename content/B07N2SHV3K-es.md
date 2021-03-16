@@ -5,7 +5,7 @@ date: 2020-06-25 19:04:14
 image: 'https://m.media-amazon.com/images/I/41oE3Rn6RjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2SHV3K-es Outsunny Tumbona Plegable Respaldo Ajustable a 7 Niveles...'
 sku: 'B07N2SHV3K-es'
 tags: [  ]

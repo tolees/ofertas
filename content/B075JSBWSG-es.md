@@ -5,7 +5,7 @@ date: 2020-04-19 18:37:11
 image: 'https://m.media-amazon.com/images/I/41JJ-HQwBkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JSBWSG-es Fujifilm X-A3 CAMEL - Cámara EVIL de 24 MP pantalla táctil...'
 sku: 'B075JSBWSG-es'
 tags: [  ]

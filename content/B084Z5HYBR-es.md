@@ -5,7 +5,7 @@ date: 2020-07-22 06:17:25
 image: 'https://m.media-amazon.com/images/I/51dCvGGcZoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084Z5HYBR-es Juego de 3 Maletas rígidas con Barra Extensible y cómodas...'
 sku: 'B084Z5HYBR-es'
 tags: [  ]

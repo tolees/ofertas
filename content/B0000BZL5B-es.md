@@ -5,7 +5,7 @@ date: 2020-03-22 19:31:41
 image: 'https://m.media-amazon.com/images/I/31yeK6bj5SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000BZL5B-es B+W Circular MRC - Filtro polarizador para 58 mm'
 sku: 'B0000BZL5B-es'
 tags: [  ]

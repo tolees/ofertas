@@ -5,7 +5,7 @@ date: 2020-07-20 16:53:35
 image: 'https://m.media-amazon.com/images/I/41uKNg9aybL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLH53TV-es Smartphone Oferta del día ofertas móviles 3 GB RAM 32 GB...'
 sku: 'B08BLH53TV-es'
 tags: [  ]

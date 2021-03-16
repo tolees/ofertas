@@ -5,7 +5,7 @@ date: 2020-02-20 11:58:49
 image: 'https://m.media-amazon.com/images/I/51LSJApS9LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6GYPJZ-es Spalding NBA Rookie Gear out 83-419Z Balón de Baloncesto...'
 sku: 'B06X6GYPJZ-es'
 tags: [  ]

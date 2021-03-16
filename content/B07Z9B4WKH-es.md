@@ -5,7 +5,7 @@ date: 2020-05-09 08:37:06
 image: 'https://m.media-amazon.com/images/I/41mWqUqiW8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9B4WKH-es B Blesiya Cuchara De Arena para Gatos De Metal con Mango -...'
 sku: 'B07Z9B4WKH-es'
 tags: [  ]

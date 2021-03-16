@@ -5,7 +5,7 @@ date: 2020-10-06 20:49:22
 image: 'https://m.media-amazon.com/images/I/41+2TSjKhwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004PU8RSI-es Grohe - Flexo de conexión flexible para Zedra color cromo...'
 sku: 'B004PU8RSI-es'
 tags: [  ]

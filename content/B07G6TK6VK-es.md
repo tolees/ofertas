@@ -5,7 +5,7 @@ date: 2020-08-29 10:59:03
 image: 'https://m.media-amazon.com/images/I/41+yQlqrduL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G6TK6VK-es Babaria Babaria Men After Shave Balsamo 150 Ml 150 ml'
 sku: 'B07G6TK6VK-es'
 tags: [  ]

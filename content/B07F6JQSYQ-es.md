@@ -5,7 +5,7 @@ date: 2020-02-23 09:24:54
 image: 'https://m.media-amazon.com/images/I/31+AyIVI15L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F6JQSYQ-es Sorel Glacy Short Botas para Mujer Negro Black/Shark 010...'
 sku: 'B07F6JQSYQ-es'
 tags: [  ]

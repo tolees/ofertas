@@ -5,7 +5,7 @@ date: 2020-02-16 21:58:57
 image: 'https://m.media-amazon.com/images/I/41wUGvCyhML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BJL4TDS-es KitchenAid 5KSB5553EOB - Batidora de vaso con capacidad...'
 sku: 'B00BJL4TDS-es'
 tags: [  ]

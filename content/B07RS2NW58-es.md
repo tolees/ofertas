@@ -5,7 +5,7 @@ date: 2020-03-25 16:41:28
 image: 'https://m.media-amazon.com/images/I/51gMgOE1-eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS2NW58-es HKC AT24A-DE All-in-One-PC 24 Pulgadas Full HD - 4 GB RAM...'
 sku: 'B07RS2NW58-es'
 tags: [  ]

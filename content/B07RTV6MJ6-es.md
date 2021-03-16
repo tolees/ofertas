@@ -5,7 +5,7 @@ date: 2020-07-24 05:19:52
 image: 'https://m.media-amazon.com/images/I/31lbQkz+HzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTV6MJ6-es PUMA Ralph Sampson LO Zapatillas Unisex-Adulto White White...'
 sku: 'B07RTV6MJ6-es'
 tags: [  ]

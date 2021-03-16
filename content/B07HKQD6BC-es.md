@@ -5,7 +5,7 @@ date: 2020-08-06 13:32:28
 image: 'https://m.media-amazon.com/images/I/318ZaCzHuBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKQD6BC-es Estante de Pinceles de Maquillaje Holder Estuche de...'
 sku: 'B07HKQD6BC-es'
 tags: [  ]

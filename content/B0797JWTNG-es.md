@@ -5,7 +5,7 @@ date: 2020-02-11 11:06:32
 image: 'https://m.media-amazon.com/images/I/41c88K1O7iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797JWTNG-es New Balance Fresh Foam Lazr Sport Zapatillas de Running...'
 sku: 'B0797JWTNG-es'
 tags: [  ]

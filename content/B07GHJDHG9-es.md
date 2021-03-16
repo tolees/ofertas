@@ -5,7 +5,7 @@ date: 2020-05-08 09:40:41
 image: 'https://m.media-amazon.com/images/I/416+RFHRnTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GHJDHG9-es Espejo retrovisor para coche de bebé para interior espejo...'
 sku: 'B07GHJDHG9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-24 07:25:10
 image: 'https://m.media-amazon.com/images/I/41+S5GmALPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYP15DS-es Reebok Speed TR FLEXWEAVE Zapatillas de Deporte Interior...'
 sku: 'B07KYP15DS-es'
 tags: [  ]

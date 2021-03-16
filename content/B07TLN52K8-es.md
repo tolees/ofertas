@@ -5,7 +5,7 @@ date: 2020-08-29 09:16:11
 image: 'https://m.media-amazon.com/images/I/41+QV7VVSbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLN52K8-es Nûby 36M+ - Taza de tritan con botón Push y pajita 530 ml...'
 sku: 'B07TLN52K8-es'
 tags: [  ]

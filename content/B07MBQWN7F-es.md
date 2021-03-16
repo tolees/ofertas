@@ -5,7 +5,7 @@ date: 2020-02-13 17:19:04
 image: 'https://m.media-amazon.com/images/I/31FH2Yav5wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBQWN7F-es Kickers Layton Botas Clasicas para Hombre Azul Marine 10...'
 sku: 'B07MBQWN7F-es'
 tags: [  ]

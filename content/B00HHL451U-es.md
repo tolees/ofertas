@@ -5,7 +5,7 @@ date: 2020-07-05 05:09:01
 image: 'https://m.media-amazon.com/images/I/511EuKH3BYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HHL451U-es Citizen Super Titanium - Reloj de Cuarzo para Hombre con...'
 sku: 'B00HHL451U-es'
 tags: [  ]

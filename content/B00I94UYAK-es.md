@@ -5,7 +5,7 @@ date: 2020-06-03 20:12:36
 image: 'https://m.media-amazon.com/images/I/31L4CJCaKjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I94UYAK-es Trio Lighting 603900302 Lámpara de techo Stoffschirm...'
 sku: 'B00I94UYAK-es'
 tags: [  ]

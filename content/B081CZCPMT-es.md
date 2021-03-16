@@ -5,7 +5,7 @@ date: 2020-10-10 14:49:12
 image: 'https://m.media-amazon.com/images/I/51qFgyj0DiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CZCPMT-es SaponinTree Microfono Inalámbrico Karaoke Micrófono...'
 sku: 'B081CZCPMT-es'
 tags: [  ]

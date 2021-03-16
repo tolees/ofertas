@@ -5,7 +5,7 @@ date: 2020-08-11 09:39:12
 image: 'https://m.media-amazon.com/images/I/61ZE0+C4nGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P61CRPT-es Wond3rland Póster para Rascar Prémium con Lista de 100...'
 sku: 'B07P61CRPT-es'
 tags: [  ]

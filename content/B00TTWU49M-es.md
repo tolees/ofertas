@@ -5,7 +5,7 @@ date: 2020-02-01 00:47:36
 image: 'https://m.media-amazon.com/images/I/41pqRdk2aJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTWU49M-es Farmatint Gel 4N Castaño | Color natural y duradero |...'
 sku: 'B00TTWU49M-es'
 tags: [  ]

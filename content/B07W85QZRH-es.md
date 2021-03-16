@@ -5,7 +5,7 @@ date: 2020-05-30 08:05:39
 image: 'https://m.media-amazon.com/images/I/41wGF21v6BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W85QZRH-es Vicloon Funda de Maleta 20-Pulgadas Cubierta de Maleta...'
 sku: 'B07W85QZRH-es'
 tags: [  ]

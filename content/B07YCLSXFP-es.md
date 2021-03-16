@@ -5,7 +5,7 @@ date: 2020-04-22 23:32:45
 image: 'https://m.media-amazon.com/images/I/41LmN01X4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCLSXFP-es Windgoo Patinete Eléctrico Plegable E Scooter hasta 25...'
 sku: 'B07YCLSXFP-es'
 tags: [  ]

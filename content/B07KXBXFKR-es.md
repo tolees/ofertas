@@ -5,7 +5,7 @@ date: 2020-03-30 23:24:39
 image: 'https://m.media-amazon.com/images/I/41HYkHVdkBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXBXFKR-es Bronchotos Pediátrico – Jarabe tos seca y productiva....'
 sku: 'B07KXBXFKR-es'
 tags: [  ]

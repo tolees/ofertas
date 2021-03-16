@@ -5,7 +5,7 @@ date: 2020-09-01 22:25:39
 image: 'https://m.media-amazon.com/images/I/31K+ljG5xVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHTSTJG-es Lacoste Graduate BL 1 SFA Zapatillas para Mujer Azul...'
 sku: 'B07DHTSTJG-es'
 tags: [  ]

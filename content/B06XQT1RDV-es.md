@@ -5,7 +5,7 @@ date: 2020-04-14 09:00:17
 image: 'https://m.media-amazon.com/images/I/41L2b9DUhpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XQT1RDV-es HorBous Exquisito de madera redonda de 3 Min / 5 Min / 10...'
 sku: 'B06XQT1RDV-es'
 tags: [  ]

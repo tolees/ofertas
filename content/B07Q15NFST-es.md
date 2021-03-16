@@ -5,7 +5,7 @@ date: 2020-10-08 13:34:03
 image: 'https://m.media-amazon.com/images/I/41fJIGNgUaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q15NFST-es L Oreal Paris Make-up Designer Kit Serum de Pestañas...'
 sku: 'B07Q15NFST-es'
 tags: [  ]

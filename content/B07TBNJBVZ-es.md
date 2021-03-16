@@ -5,7 +5,7 @@ date: 2020-02-08 23:45:18
 image: 'https://m.media-amazon.com/images/I/41vir+55g9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBNJBVZ-es Luces LED de techo para música 60W Houkiper Bluetooth...'
 sku: 'B07TBNJBVZ-es'
 tags: [  ]

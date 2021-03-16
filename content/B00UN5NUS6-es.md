@@ -5,7 +5,7 @@ date: 2020-06-15 13:59:05
 image: 'https://m.media-amazon.com/images/I/31nKNoFMjPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UN5NUS6-es Biotherm Homme Aquapower 72H Hidratante Glacial Concentré...'
 sku: 'B00UN5NUS6-es'
 tags: [  ]

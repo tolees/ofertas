@@ -5,7 +5,7 @@ date: 2020-07-08 13:50:41
 image: 'https://m.media-amazon.com/images/I/41x1cgLUIQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5RX36D-es AIMILAR Temporizador visual de 60 minutos herramienta de...'
 sku: 'B07R5RX36D-es'
 tags: [  ]

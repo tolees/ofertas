@@ -5,7 +5,7 @@ date: 2020-02-07 21:57:58
 image: 'https://m.media-amazon.com/images/I/412kvOuXgQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000HZTKZE-es Timex Classic T2H371 - Reloj de Cuarzo para Mujeres Correa...'
 sku: 'B000HZTKZE-es'
 tags: [  ]

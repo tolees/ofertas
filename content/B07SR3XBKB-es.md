@@ -5,7 +5,7 @@ date: 2019-12-31 17:24:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51EGnSCXyWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SR3XBKB-es YaYuu Gear S3 Frontier/Classic Correa de Reloj Reemplazo...'
 sku: 'B07SR3XBKB-es'
 tags: [  ]

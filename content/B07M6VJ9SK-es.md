@@ -5,7 +5,7 @@ date: 2020-08-05 14:03:30
 image: 'https://m.media-amazon.com/images/I/512+ThaayFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6VJ9SK-es flintronic Cinturón Cuero Hombre Cinturones Piel con...'
 sku: 'B07M6VJ9SK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-05 20:00:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41F4itLdVpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y6NLVDK-es Powerextra Batería Nikon EN EL14 y EN-EL14a con Cargador...'
 sku: 'B06Y6NLVDK-es'
 tags: [  ]

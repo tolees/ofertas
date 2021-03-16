@@ -5,7 +5,7 @@ date: 2020-02-05 16:06:24
 image: 'https://m.media-amazon.com/images/I/51EaIDdd7QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9W97FK-es L Oreal Paris Sublime Mousse 1 Coloración'
 sku: 'B00X9W97FK-es'
 tags: [  ]

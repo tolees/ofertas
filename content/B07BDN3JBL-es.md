@@ -5,7 +5,7 @@ date: 2020-07-18 01:49:21
 image: 'https://m.media-amazon.com/images/I/31PAGtb1anL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDN3JBL-es BaByliss Pro Miracurl Rose Gold - Rizador de pelo...'
 sku: 'B07BDN3JBL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-26 17:22:41
 image: 'https://m.media-amazon.com/images/I/511lb-wwOsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JL8KBQE-es POP! Bobble - Marvel: Doctor Strange: Kaecilius'
 sku: 'B01JL8KBQE-es'
 tags: [  ]

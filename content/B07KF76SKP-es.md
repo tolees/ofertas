@@ -5,7 +5,7 @@ date: 2020-03-31 14:41:40
 image: 'https://m.media-amazon.com/images/I/519mRMv0HaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF76SKP-es Levi s Perfect Tee T-shirt Multicolore Raita Indigo 0033...'
 sku: 'B07KF76SKP-es'
 tags: [  ]

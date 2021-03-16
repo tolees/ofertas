@@ -5,7 +5,7 @@ date: 2020-06-06 16:33:55
 image: 'https://m.media-amazon.com/images/I/41OmKe-1V2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKRYZ6H-es Bestway 65303 - Tabla Paddle Surf Hinchable Hydro-Force...'
 sku: 'B07FKRYZ6H-es'
 tags: [  ]

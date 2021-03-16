@@ -5,7 +5,7 @@ date: 2020-02-10 11:16:07
 image: 'https://m.media-amazon.com/images/I/41WQb3i3T8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ9SZH5-es CMXING Molinillo de Pimienta y Sal Molino 2 en 1 Molino de...'
 sku: 'B07SJ9SZH5-es'
 tags: [  ]

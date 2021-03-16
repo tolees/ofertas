@@ -5,7 +5,7 @@ date: 2020-04-14 09:06:15
 image: 'https://m.media-amazon.com/images/I/61lXlZLGumL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K7WHRXY-es Need For Speed BD 3D + 2D [Blu-ray]'
 sku: 'B00K7WHRXY-es'
 tags: [  ]

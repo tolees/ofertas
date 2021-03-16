@@ -5,7 +5,7 @@ date: 2020-05-29 16:44:26
 image: 'https://m.media-amazon.com/images/I/41fctU0f8lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079X7NPKW-es Taurus Professional 3 MAX Freidora de Aceite de 3 Litros...'
 sku: 'B079X7NPKW-es'
 tags: [  ]

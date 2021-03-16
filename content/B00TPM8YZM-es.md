@@ -5,7 +5,7 @@ date: 2020-03-17 19:54:20
 image: 'https://m.media-amazon.com/images/I/31hUXQdZ7AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TPM8YZM-es Sesderma Hidraderm Hyal Leche Corporal - 400 ml'
 sku: 'B00TPM8YZM-es'
 tags: [  ]

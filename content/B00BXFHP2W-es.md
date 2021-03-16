@@ -5,7 +5,7 @@ date: 2020-05-30 13:51:23
 image: 'https://m.media-amazon.com/images/I/41u2IdWEOnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BXFHP2W-es Guinot Hydrazone Toutes Peaux Crema hidratante - 50 ml'
 sku: 'B00BXFHP2W-es'
 tags: [  ]

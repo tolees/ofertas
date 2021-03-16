@@ -5,7 +5,7 @@ date: 2020-04-15 15:51:53
 image: 'https://m.media-amazon.com/images/I/41qzhkS5WOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBG3J6-es ART VVIES Mit Haken Wandbild 20x20 Zoll Neugeborenen...'
 sku: 'B082HBG3J6-es'
 tags: [  ]

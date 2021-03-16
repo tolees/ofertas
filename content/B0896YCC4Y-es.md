@@ -5,7 +5,7 @@ date: 2020-06-01 14:02:03
 image: 'https://m.media-amazon.com/images/I/315AFzPqQ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0896YCC4Y-es TRUUA 10pcs Silicona para bebés Mam Anillo simulado...'
 sku: 'B0896YCC4Y-es'
 tags: [  ]

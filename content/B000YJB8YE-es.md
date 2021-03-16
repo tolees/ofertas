@@ -5,7 +5,7 @@ date: 2020-03-24 09:15:44
 image: 'https://m.media-amazon.com/images/I/41sbpuSWFzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000YJB8YE-es Kitchen Craft Mini Salad Spinner Centrifuga de Esaladas...'
 sku: 'B000YJB8YE-es'
 tags: [  ]

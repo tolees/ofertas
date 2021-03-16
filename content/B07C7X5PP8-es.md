@@ -5,7 +5,7 @@ date: 2020-02-27 08:44:52
 image: 'https://m.media-amazon.com/images/I/51RV7ppNPZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C7X5PP8-es Easton Marlowe 6 PR Calcetines Sutilmente Estampados...'
 sku: 'B07C7X5PP8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-29 17:09:28
 image: 'https://m.media-amazon.com/images/I/31eIb0KIfXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N95H1HK-es BOSS Schino-Slim D Pantalones Marrón Dark Brown 201...'
 sku: 'B07N95H1HK-es'
 tags: [  ]

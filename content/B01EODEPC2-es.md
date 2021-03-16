@@ -5,7 +5,7 @@ date: 2020-04-25 09:33:33
 image: 'https://m.media-amazon.com/images/I/512RUXsgabL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EODEPC2-es Oral-B Stages Power Kids Cepillo eléctrico niños...'
 sku: 'B01EODEPC2-es'
 tags: [  ]

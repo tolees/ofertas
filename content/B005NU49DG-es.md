@@ -5,7 +5,7 @@ date: 2020-10-09 09:33:26
 image: 'https://m.media-amazon.com/images/I/41QZCWM4lbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005NU49DG-es Crucial CT2K51264BD160B - Kit de memoria RAM de 8 GB 4 GB...'
 sku: 'B005NU49DG-es'
 tags: [  ]

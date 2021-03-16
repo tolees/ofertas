@@ -5,7 +5,7 @@ date: 2020-01-12 14:16:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51NmwxLvZmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004GFR4X6-es POP! Vinilo - Movies: Beetlejuice'
 sku: 'B004GFR4X6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-21 20:20:23
 image: 'https://m.media-amazon.com/images/I/311VnRrM3KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GRD427A-es Columbia Childrens Newton Ridge Botas de Senderismo...'
 sku: 'B01GRD427A-es'
 tags: [  ]

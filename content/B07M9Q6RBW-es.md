@@ -5,7 +5,7 @@ date: 2020-04-26 12:46:19
 image: 'https://m.media-amazon.com/images/I/515KtALxpsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9Q6RBW-es laamei Visillos Bordado para Ventanas Voile Cortina...'
 sku: 'B07M9Q6RBW-es'
 tags: [  ]

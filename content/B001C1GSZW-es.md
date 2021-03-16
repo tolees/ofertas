@@ -5,7 +5,7 @@ date: 2020-02-11 11:17:18
 image: 'https://m.media-amazon.com/images/I/41XtLB6Km9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001C1GSZW-es Wahl ColorPro - Cortapelos con estuche de almacenaje'
 sku: 'B001C1GSZW-es'
 tags: [  ]

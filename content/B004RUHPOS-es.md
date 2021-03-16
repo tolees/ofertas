@@ -5,7 +5,7 @@ date: 2020-04-03 10:43:57
 image: 'https://m.media-amazon.com/images/I/41y+N-EpCSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004RUHPOS-es HP CE390X - Cartucho de tóner'
 sku: 'B004RUHPOS-es'
 tags: [  ]

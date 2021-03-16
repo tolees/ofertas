@@ -5,7 +5,7 @@ date: 2020-07-08 13:40:22
 image: 'https://m.media-amazon.com/images/I/512lGjyzfnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJSF4G3-es Desigual Mone maui Maria - Cartera para Mujer Color Blanco...'
 sku: 'B07VJSF4G3-es'
 tags: [  ]

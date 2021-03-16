@@ -5,7 +5,7 @@ date: 2020-02-29 10:21:07
 image: 'https://m.media-amazon.com/images/I/41DdEZ4kG7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1W2KSS-es Swatch Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07V1W2KSS-es'
 tags: [  ]

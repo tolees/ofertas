@@ -5,7 +5,7 @@ date: 2020-01-02 13:47:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51L0CZoghxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XH9HRNK-es GadFull 2 Piezas HD Protector de Pantalla para iPhone 6 e...'
 sku: 'B07XH9HRNK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-02 06:12:55
 image: 'https://m.media-amazon.com/images/I/51LyZxRowBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTHLQ6N-es E·Durable 51pcs Mini Taladro Manual Kit Taladro Mano...'
 sku: 'B07CTHLQ6N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 13:47:54
 image: 'https://m.media-amazon.com/images/I/41NHKaggUFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002WGHYX6-es Superga 2750 COTU Classic Zapatillas Unisex Rojo Red 975...'
 sku: 'B002WGHYX6-es'
 tags: [  ]

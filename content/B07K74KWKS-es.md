@@ -5,7 +5,7 @@ date: 2020-05-05 09:43:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41t6E15mGdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K74KWKS-es Asics Patriot 10 Zapatillas de Running para Hombre Azul...'
 sku: 'B07K74KWKS-es'
 tags: [  ]

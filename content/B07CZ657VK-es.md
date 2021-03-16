@@ -5,7 +5,7 @@ date: 2020-04-05 06:09:50
 image: 'https://m.media-amazon.com/images/I/51zdSZyISYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ657VK-es Shock Absorber Active Multi Sports Support Sujetador...'
 sku: 'B07CZ657VK-es'
 tags: [  ]

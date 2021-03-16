@@ -5,7 +5,7 @@ date: 2020-09-07 18:43:35
 image: 'https://m.media-amazon.com/images/I/41GN0UQrXcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DN9L7RK-es SALVADO AVENA 500 gr'
 sku: 'B00DN9L7RK-es'
 tags: [  ]

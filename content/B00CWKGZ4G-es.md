@@ -5,7 +5,7 @@ date: 2020-04-12 13:08:18
 image: 'https://m.media-amazon.com/images/I/31rzjt+UDxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CWKGZ4G-es Salki - Pistola Ec-360 8500360'
 sku: 'B00CWKGZ4G-es'
 tags: [  ]

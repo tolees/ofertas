@@ -1,28 +1,28 @@
 ---
 layout: post
-title: '20th Century Fox Home Entertainment Espa al 59.91 % de descuento'
-date: 2021-03-15 16:28:37
+title: '20th Century Fox Home Entertainment Espa al 38.24 % de descuento'
+date: 2021-03-16 16:47:04
 image: 'https://m.media-amazon.com/images/I/51xmW+IYKYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QSYQLYB-es 20th Century Fox Home Entertainment España S.A. - ¡Shazam!...'
 sku: 'B07QSYQLYB-es'
-tags: [  ]
-actualPrice: 7.79 EUR
+tags: [ '20th century fox home entertainment españa, s.a.', ]
+actualPrice: 12.0 EUR
 currency: EUR
-price: 7.79
+price: 12.0
 comparePrice: 19.43 EUR
 prodname: '20th Century Fox Home Entertainment España  S.A. - ¡Shazam! Blu-Ray [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 brand: '20th Century Fox Home Entertainment España, S.A.'
 buyurl: 'https://www.amazon.es/dp/B07QSYQLYB/?tag=tolees-21'
-descuento: '59.91'
-average: '7.79'
+descuento: '38.24'
+average: '8.632'
 ---
 
-Ahora mismo tienes [20th Century Fox Home Entertainment España  S.A. - ¡Shazam! Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07QSYQLYB/?tag=tolees-21) a 7.79 EUR (original: 19.43 EUR) (59.91 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [20th Century Fox Home Entertainment España  S.A. - ¡Shazam! Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07QSYQLYB/?tag=tolees-21) a 12.0 EUR (original: 19.43 EUR) (38.24 %  de descuento) en el siguiente enlace!
 
 [![20th Century Fox Home Entertainment Espa](https://m.media-amazon.com/images/I/51xmW+IYKYL._SL400_.jpg)](https://www.amazon.es/dp/B07QSYQLYB/?tag=tolees-21)
 

@@ -5,7 +5,7 @@ date: 2020-08-21 08:02:24
 image: 'https://m.media-amazon.com/images/I/41tiRP+cSPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015HWY9O8-es Ron Appleton Estate 1 x 0.7 l'
 sku: 'B015HWY9O8-es'
 tags: [  ]

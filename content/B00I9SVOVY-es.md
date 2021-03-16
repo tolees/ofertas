@@ -5,7 +5,7 @@ date: 2020-01-17 09:41:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41U7Bm%2BWMrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I9SVOVY-es The Big Bang Theory SDTWRN02581 - Taza de cerámica con...'
 sku: 'B00I9SVOVY-es'
 tags: [  ]

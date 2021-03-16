@@ -5,7 +5,7 @@ date: 2020-08-02 04:05:45
 image: 'https://m.media-amazon.com/images/I/41LhDE5f8CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXP6SHF-es RECCI - Topper Colchón de Espuma 160x190 cm Topper...'
 sku: 'B07GXP6SHF-es'
 tags: [  ]

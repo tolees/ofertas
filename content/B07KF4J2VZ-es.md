@@ -5,7 +5,7 @@ date: 2020-04-07 13:29:40
 image: 'https://m.media-amazon.com/images/I/51UxjgAYg6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4J2VZ-es Pegatinas de espuma – 700 piezas autoadhesivas formas de...'
 sku: 'B07KF4J2VZ-es'
 tags: [  ]

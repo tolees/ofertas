@@ -5,7 +5,7 @@ date: 2020-10-04 12:48:24
 image: 'https://m.media-amazon.com/images/I/41+2UJhJdyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5DPYC1-es longzon 12pcs Pajitas Reutilizables Pajitas de Acero...'
 sku: 'B07V5DPYC1-es'
 tags: [  ]

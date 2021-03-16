@@ -5,7 +5,7 @@ date: 2020-01-08 19:26:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51EkCQ5buWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075TBJ4QY-es Jocel JAQ013033 Calentador de cuarzo 800 W Gris'
 sku: 'B075TBJ4QY-es'
 tags: [  ]

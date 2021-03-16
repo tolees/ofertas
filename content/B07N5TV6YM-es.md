@@ -5,7 +5,7 @@ date: 2020-08-13 00:15:18
 image: 'https://m.media-amazon.com/images/I/41WQ0AKcOXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5TV6YM-es Funko- Pop Vinilo: NSYNC: JC Chasez Figura Coleccionable...'
 sku: 'B07N5TV6YM-es'
 tags: [  ]

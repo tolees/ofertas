@@ -5,7 +5,7 @@ date: 2020-04-26 08:58:40
 image: 'https://m.media-amazon.com/images/I/31w7duTOztL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079B7FLLV-es PUMA LIGA Shorts Pants Hombre Cordovan White XL'
 sku: 'B079B7FLLV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-26 20:14:18
 image: 'https://m.media-amazon.com/images/I/51rpjFsJvzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFGZ15S-es Intex 57267EU - Flamenco hinchable gigante'
 sku: 'B07LFGZ15S-es'
 tags: [  ]

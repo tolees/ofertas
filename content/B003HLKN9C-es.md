@@ -5,7 +5,7 @@ date: 2020-06-11 21:44:27
 image: 'https://m.media-amazon.com/images/I/311T1KTmS5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003HLKN9C-es Revlon Colorstay Delineador de Ojos Líquido #252 Black...'
 sku: 'B003HLKN9C-es'
 tags: [  ]

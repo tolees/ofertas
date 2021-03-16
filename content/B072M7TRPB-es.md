@@ -5,7 +5,7 @@ date: 2020-04-06 07:29:10
 image: 'https://m.media-amazon.com/images/I/51JdDqsO3LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072M7TRPB-es Levi s Batwing Hoodie Capucha Mujer Gris Sportswear Hoodie...'
 sku: 'B072M7TRPB-es'
 tags: [  ]

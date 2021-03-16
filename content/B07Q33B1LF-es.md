@@ -5,7 +5,7 @@ date: 2020-06-28 21:01:22
 image: 'https://m.media-amazon.com/images/I/31UdrfSKaFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q33B1LF-es Philips PRO6305BK/00 - Auriculares intrauditivos 1.2 m...'
 sku: 'B07Q33B1LF-es'
 tags: [  ]

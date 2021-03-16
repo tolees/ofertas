@@ -5,7 +5,7 @@ date: 2020-04-25 10:18:26
 image: 'https://m.media-amazon.com/images/I/315k7FDxJUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E99Q4IA-es Philips Pro HPS910/00 - Secador de Pelo Profesional Motor...'
 sku: 'B00E99Q4IA-es'
 tags: [  ]

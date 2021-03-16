@@ -5,7 +5,7 @@ date: 2020-09-13 11:45:37
 image: 'https://m.media-amazon.com/images/I/41i+vOCvuQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CDJ6XT-es FMPC Carcasa con Cuerda Samsung Galaxy A50 Cristal TPU...'
 sku: 'B085CDJ6XT-es'
 tags: [  ]

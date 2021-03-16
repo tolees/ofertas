@@ -5,7 +5,7 @@ date: 2020-05-25 13:04:00
 image: 'https://m.media-amazon.com/images/I/419nRs-5zHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HDNU64G-es Columbia Cascade Pass Waterproof Botas de Senderismo para...'
 sku: 'B01HDNU64G-es'
 tags: [  ]

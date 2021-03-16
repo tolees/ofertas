@@ -5,7 +5,7 @@ date: 2020-01-28 06:48:48
 image: 'https://m.media-amazon.com/images/I/410M3YUPtTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P23GLC7-es Skechers Uno- Stacre Zapatillas para Hombre Marfil...'
 sku: 'B07P23GLC7-es'
 tags: [  ]

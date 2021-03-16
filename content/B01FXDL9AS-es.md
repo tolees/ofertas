@@ -5,7 +5,7 @@ date: 2020-04-07 22:40:58
 image: 'https://m.media-amazon.com/images/I/41umCsjX2yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FXDL9AS-es Pro Mountain - Calcetines deportivos unisex de algodón -...'
 sku: 'B01FXDL9AS-es'
 tags: [  ]

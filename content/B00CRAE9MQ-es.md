@@ -5,7 +5,7 @@ date: 2020-03-23 14:24:14
 image: 'https://m.media-amazon.com/images/I/41oSY4SurDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CRAE9MQ-es Samyang F1110901101 - Objetivo fotográfico DSLR para Canon...'
 sku: 'B00CRAE9MQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-29 16:21:40
 image: 'https://m.media-amazon.com/images/I/41SQIO62-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GFLG7OG-es Kärcher WD2 - Aspirador seco y húmedo 1000 W depósito...'
 sku: 'B00GFLG7OG-es'
 tags: [  ]

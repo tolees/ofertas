@@ -5,7 +5,7 @@ date: 2020-07-02 10:16:16
 image: 'https://m.media-amazon.com/images/I/41JcENRWB-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0048ZGC1Y-es Vacu Vin 3887560 Enfriador Rápido para Botellas De Vino Y...'
 sku: 'B0048ZGC1Y-es'
 tags: [  ]

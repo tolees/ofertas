@@ -5,7 +5,7 @@ date: 2020-07-07 14:00:03
 image: 'https://m.media-amazon.com/images/I/51EJRJAX3UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV5NNK2-es 24x Gris Cromo Plateado Lámina impresa 2d PEGATINAS lisas...'
 sku: 'B07TV5NNK2-es'
 tags: [  ]

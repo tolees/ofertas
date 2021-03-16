@@ -5,7 +5,7 @@ date: 2020-07-16 18:21:27
 image: 'https://m.media-amazon.com/images/I/41zjnvV3+iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWSRLNQ-es KiplingArtMujerBolsos maletínVerde Light Aloe 44x27x20...'
 sku: 'B07TWSRLNQ-es'
 tags: [  ]

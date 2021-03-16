@@ -5,7 +5,7 @@ date: 2020-04-03 17:04:27
 image: 'https://m.media-amazon.com/images/I/51TyHWKvzoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TKRZNV-es Yoku’s Island Express'
 sku: 'B079TKRZNV-es'
 tags: [  ]

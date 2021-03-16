@@ -5,7 +5,7 @@ date: 2020-01-07 09:15:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/511dQSzXSFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TXHXH8-es Luces solares al aire libre 100 LED 8 modos Luces solares...'
 sku: 'B081TXHXH8-es'
 tags: [  ]

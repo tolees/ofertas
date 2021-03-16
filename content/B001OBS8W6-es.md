@@ -5,7 +5,7 @@ date: 2020-01-21 22:42:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PPuN8HwvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001OBS8W6-es HP C4906AE 940XL Cartucho de Tinta Original de alto...'
 sku: 'B001OBS8W6-es'
 tags: [  ]

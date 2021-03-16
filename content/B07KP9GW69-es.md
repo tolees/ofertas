@@ -5,7 +5,7 @@ date: 2020-04-01 13:01:30
 image: 'https://m.media-amazon.com/images/I/31QsiMM05pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KP9GW69-es DlandHome Mesa Auxiliar En Forma de U con Ruedas Cesta...'
 sku: 'B07KP9GW69-es'
 tags: [  ]

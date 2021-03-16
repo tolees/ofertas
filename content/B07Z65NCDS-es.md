@@ -5,7 +5,7 @@ date: 2020-09-03 13:02:01
 image: 'https://m.media-amazon.com/images/I/51IfW8TrRmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z65NCDS-es Montse Interiors Funda nórdica Estampada Cuadros de...'
 sku: 'B07Z65NCDS-es'
 tags: [  ]

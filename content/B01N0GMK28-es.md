@@ -5,7 +5,7 @@ date: 2020-03-31 05:22:52
 image: 'https://m.media-amazon.com/images/I/31CgOppxENL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0GMK28-es Tibhar Tischtennisschläger Powercarbon XT neu azul'
 sku: 'B01N0GMK28-es'
 tags: [  ]

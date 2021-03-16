@@ -5,7 +5,7 @@ date: 2020-09-21 20:28:29
 image: 'https://m.media-amazon.com/images/I/416UEkiT+KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGZGYGK-es Salomon PROLOG 25 BAG Bolsa'
 sku: 'B07LGZGYGK-es'
 tags: [  ]

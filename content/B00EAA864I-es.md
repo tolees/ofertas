@@ -5,7 +5,7 @@ date: 2020-01-17 18:58:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oTpE%2BqIPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EAA864I-es Rowenta CF 6430 peinado - Moldeador de pelo Violeta Color...'
 sku: 'B00EAA864I-es'
 tags: [  ]

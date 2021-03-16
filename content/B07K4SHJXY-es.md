@@ -5,7 +5,7 @@ date: 2020-09-07 00:48:12
 image: 'https://m.media-amazon.com/images/I/31xJ5sfD3qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4SHJXY-es adidas Falcon W Sneaker Womens Core Black/Core Black/Grey...'
 sku: 'B07K4SHJXY-es'
 tags: [  ]

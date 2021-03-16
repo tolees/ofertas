@@ -5,7 +5,7 @@ date: 2020-04-07 09:32:24
 image: 'https://m.media-amazon.com/images/I/411ruAlA11L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDLHCNK-es New Balance Trail Nitrel Zapatillas de Running para...'
 sku: 'B07PDLHCNK-es'
 tags: [  ]

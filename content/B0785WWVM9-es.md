@@ -5,7 +5,7 @@ date: 2020-02-23 08:08:16
 image: 'https://m.media-amazon.com/images/I/41jGMPOljJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785WWVM9-es Under Armour Tech 2.0 1/2 Zip Parte Superior del...'
 sku: 'B0785WWVM9-es'
 tags: [  ]

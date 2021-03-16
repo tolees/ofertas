@@ -5,7 +5,7 @@ date: 2020-07-02 12:14:14
 image: 'https://m.media-amazon.com/images/I/41tb+mke4lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CFZZN3Q-es Keter - Mesa nevera para jardín Cool Stool Capacidad 39...'
 sku: 'B01CFZZN3Q-es'
 tags: [  ]

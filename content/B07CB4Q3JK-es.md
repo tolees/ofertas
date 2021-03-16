@@ -5,7 +5,7 @@ date: 2020-04-11 18:40:24
 image: 'https://m.media-amazon.com/images/I/41EeDMuPJrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CB4Q3JK-es BRADLEY CROMPTON El Set De 2 Cinturones Marrón y marrón...'
 sku: 'B07CB4Q3JK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-29 12:35:25
 image: 'https://m.media-amazon.com/images/I/31DyGpH-dTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RLRRXGY-es Joseph Joseph Pelador Acero Inoxidable Verde Centimeters'
 sku: 'B00RLRRXGY-es'
 tags: [  ]

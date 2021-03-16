@@ -5,7 +5,7 @@ date: 2020-01-09 15:20:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318tpAkzqWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRXMLDS-es Columbia Silver Ridge 2.0 Manga Corta Mujer Blanco White XS'
 sku: 'B07KRXMLDS-es'
 tags: [  ]

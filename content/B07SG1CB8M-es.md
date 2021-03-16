@@ -5,7 +5,7 @@ date: 2020-06-30 11:02:54
 image: 'https://m.media-amazon.com/images/I/31+xbKaZ8eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SG1CB8M-es Levi s Mile High Super Skinny Jeans En Aumento 23 28 para...'
 sku: 'B07SG1CB8M-es'
 tags: [  ]

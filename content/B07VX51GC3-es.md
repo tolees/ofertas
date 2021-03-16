@@ -5,7 +5,7 @@ date: 2020-04-16 18:17:46
 image: 'https://m.media-amazon.com/images/I/51kDAAXiflL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VX51GC3-es Hook Scratch Art Manualidades para Niños Niña Dibujar...'
 sku: 'B07VX51GC3-es'
 tags: [  ]

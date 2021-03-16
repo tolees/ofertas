@@ -5,7 +5,7 @@ date: 2020-06-21 01:01:03
 image: 'https://m.media-amazon.com/images/I/41hTLWu5VLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0069ZUWU8-es Dickies Original 874 Work Pant Pantalones Marina Oscuro...'
 sku: 'B0069ZUWU8-es'
 tags: [  ]

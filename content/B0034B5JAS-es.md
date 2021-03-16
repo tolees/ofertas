@@ -5,7 +5,7 @@ date: 2020-05-17 18:53:27
 image: 'https://m.media-amazon.com/images/I/41SI2UjhLzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0034B5JAS-es Beurer Bs49 - Espejo Maquillaje con Luz Led Brillante 12...'
 sku: 'B0034B5JAS-es'
 tags: [  ]

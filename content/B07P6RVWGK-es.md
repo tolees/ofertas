@@ -5,7 +5,7 @@ date: 2020-05-31 10:46:15
 image: 'https://m.media-amazon.com/images/I/411rurFfCGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6RVWGK-es American Tourister Jetglam Spinner S Equipaje de Mano 55...'
 sku: 'B07P6RVWGK-es'
 tags: [  ]

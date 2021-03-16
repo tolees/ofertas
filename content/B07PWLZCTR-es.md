@@ -5,7 +5,7 @@ date: 2020-07-01 19:53:34
 image: 'https://m.media-amazon.com/images/I/51vgjjw2MxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWLZCTR-es Niños Microscopio Preparado Diapositivas Bysameyee...'
 sku: 'B07PWLZCTR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-13 08:29:34
 image: 'https://m.media-amazon.com/images/I/31c1htX1+iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AV5VFJO-es Nike Lightweight No-Show Calcetines Hombre Blanco 42-46...'
 sku: 'B00AV5VFJO-es'
 tags: [  ]

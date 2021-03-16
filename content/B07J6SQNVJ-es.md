@@ -5,7 +5,7 @@ date: 2020-08-24 17:21:20
 image: 'https://m.media-amazon.com/images/I/51IyMMIHBeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6SQNVJ-es Pop! Star vs. The Forces of Evil - Figura de Vinilo Ludo...'
 sku: 'B07J6SQNVJ-es'
 tags: [  ]

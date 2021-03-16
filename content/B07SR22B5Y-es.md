@@ -5,7 +5,7 @@ date: 2020-04-02 09:34:31
 image: 'https://m.media-amazon.com/images/I/51f1FY+oi-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SR22B5Y-es BRIKSMAX Kit de Iluminación Led para Lego Black Panther...'
 sku: 'B07SR22B5Y-es'
 tags: [  ]

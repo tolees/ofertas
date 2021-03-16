@@ -5,7 +5,7 @@ date: 2020-04-16 00:09:11
 image: 'https://m.media-amazon.com/images/I/51T8kbx6v9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWJF66Y-es LIGHTAILING Conjunto de Luces Creator Restaurant Parisien...'
 sku: 'B07KWJF66Y-es'
 tags: [  ]

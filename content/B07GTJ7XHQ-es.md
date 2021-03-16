@@ -5,7 +5,7 @@ date: 2020-02-19 10:46:44
 image: 'https://m.media-amazon.com/images/I/41hHZpZKm6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GTJ7XHQ-es Ferilinso Protector de Lente de cámara para Huawei Mate 20...'
 sku: 'B07GTJ7XHQ-es'
 tags: [  ]

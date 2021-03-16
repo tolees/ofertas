@@ -5,7 +5,7 @@ date: 2020-03-16 16:11:27
 image: 'https://m.media-amazon.com/images/I/31C0lczQ9rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XD2V4ZJ-es Auriculares Inalámbricos Beats Solo3 Wireless Bluetooth -...'
 sku: 'B06XD2V4ZJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 00:27:00
 image: 'https://m.media-amazon.com/images/I/31lrzJSTJ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY575CW-es Swoote Bobina de 100m x 3mm de Cordel de Yute Natural de 3...'
 sku: 'B07PY575CW-es'
 tags: [  ]

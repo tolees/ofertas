@@ -5,7 +5,7 @@ date: 2020-01-23 19:07:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QbxYz3D-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013J7WUGC-es Edifier H840 - Auriculares de Diadema'
 sku: 'B013J7WUGC-es'
 tags: [  ]

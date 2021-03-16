@@ -5,7 +5,7 @@ date: 2020-02-18 22:48:53
 image: 'https://m.media-amazon.com/images/I/51nrHSNlhHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QG7PY5G-es Sniper Elite 3 - Ultimate Edition'
 sku: 'B07QG7PY5G-es'
 tags: [  ]

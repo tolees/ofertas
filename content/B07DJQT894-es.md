@@ -5,7 +5,7 @@ date: 2020-04-02 10:32:51
 image: 'https://m.media-amazon.com/images/I/41+Qsvh6n+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJQT894-es FITTOO Pantalones Deportivos Mujer Yoga Leggings de Alta...'
 sku: 'B07DJQT894-es'
 tags: [  ]

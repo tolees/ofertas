@@ -5,7 +5,7 @@ date: 2020-01-13 11:05:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z5bpfJ8oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0775YFBRC-es AmazonBasics - Juego de accesorios modernos para baño - 3...'
 sku: 'B0775YFBRC-es'
 tags: [  ]

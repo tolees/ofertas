@@ -5,7 +5,7 @@ date: 2020-04-26 12:29:40
 image: 'https://m.media-amazon.com/images/I/41XTqHb2aWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJHZ8K5-es Tamaris 1-1-25249-23 Botas Militar para Mujer Verde Olive...'
 sku: 'B07NJHZ8K5-es'
 tags: [  ]

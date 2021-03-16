@@ -5,7 +5,7 @@ date: 2020-04-26 19:03:00
 image: 'https://m.media-amazon.com/images/I/41jlnvkoLKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5LP82B-es JOHN SMITH OGNI J 001 AZUL REAL'
 sku: 'B07V5LP82B-es'
 tags: [  ]

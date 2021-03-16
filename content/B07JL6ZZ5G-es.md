@@ -5,7 +5,7 @@ date: 2020-01-14 17:15:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31t6MvIEruL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JL6ZZ5G-es Montse Interiors S.L. Relleno NÓRDICO SINTÉTICO para Saco...'
 sku: 'B07JL6ZZ5G-es'
 tags: [  ]

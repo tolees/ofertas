@@ -5,7 +5,7 @@ date: 2020-09-23 15:41:53
 image: 'https://m.media-amazon.com/images/I/41CdZOOJTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6ZKF1R-es LG 32UD99-W - Monitor 4K UHD de 80 cm 31 5" con Panel IPS...'
 sku: 'B01N6ZKF1R-es'
 tags: [  ]

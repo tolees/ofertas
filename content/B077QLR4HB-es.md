@@ -5,7 +5,7 @@ date: 2020-05-02 19:22:06
 image: 'https://m.media-amazon.com/images/I/41xnm7rnV+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QLR4HB-es Reebok Princess Zapatillas para Mujer Blanco White 0 42 EU'
 sku: 'B077QLR4HB-es'
 tags: [  ]

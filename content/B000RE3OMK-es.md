@@ -5,7 +5,7 @@ date: 2020-06-16 07:39:08
 image: 'https://m.media-amazon.com/images/I/21fdzc23ZuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RE3OMK-es Brabantia 214585 Barra para Colgar los Utensilios de...'
 sku: 'B000RE3OMK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 09:27:16
 image: 'https://m.media-amazon.com/images/I/31x23H0r+NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBSSF2H-es PUMA CB Retro Suit Woven Cl Chándal Hombre Black-Palace...'
 sku: 'B07XBSSF2H-es'
 tags: [  ]

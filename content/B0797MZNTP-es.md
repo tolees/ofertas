@@ -5,7 +5,7 @@ date: 2020-01-13 09:25:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cGK7tK0UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797MZNTP-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer Obsidian/Royal...'
 sku: 'B0797MZNTP-es'
 tags: [  ]

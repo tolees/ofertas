@@ -5,7 +5,7 @@ date: 2020-06-02 08:34:14
 image: 'https://m.media-amazon.com/images/I/31k7lFckB9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPDSS81-es Amtier Pulsera de Mujer con Acero Inoxidable Viene con 7...'
 sku: 'B07RPDSS81-es'
 tags: [  ]

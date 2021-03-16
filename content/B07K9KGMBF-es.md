@@ -5,7 +5,7 @@ date: 2020-04-16 09:46:28
 image: 'https://m.media-amazon.com/images/I/41F8oav4RIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K9KGMBF-es Odlo Sports Bra Blackcomb Seamless Medium Sujetador Mujer...'
 sku: 'B07K9KGMBF-es'
 tags: [  ]

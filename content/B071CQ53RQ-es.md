@@ -5,7 +5,7 @@ date: 2020-02-25 19:23:19
 image: 'https://m.media-amazon.com/images/I/41xs5-gjx0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CQ53RQ-es Samsonite Flux - Spinner 68/25 Expandable Equipaje de Mano...'
 sku: 'B071CQ53RQ-es'
 tags: [  ]

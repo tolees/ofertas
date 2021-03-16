@@ -5,7 +5,7 @@ date: 2020-03-18 11:58:57
 image: 'https://m.media-amazon.com/images/I/41ysPMsk4EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AN4ZUYE-es Sangean DDR3-1BT - Radio DAB Reloj digital DAB+ FM 4 W...'
 sku: 'B00AN4ZUYE-es'
 tags: [  ]

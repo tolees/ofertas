@@ -5,7 +5,7 @@ date: 2020-04-18 03:13:22
 image: 'https://m.media-amazon.com/images/I/41C+N5OPm7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBGNTJY-es Value Pack Recién Nacido Bebé LANSKIRT 11PCS Bebé Niña...'
 sku: 'B07LBGNTJY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-30 09:03:19
 image: 'https://m.media-amazon.com/images/I/416Hpl7-CNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B6LTC5Q-es Marvel Avengers: Infinity War Hero Vision Iron Man AR...'
 sku: 'B07B6LTC5Q-es'
 tags: [  ]

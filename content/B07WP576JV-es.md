@@ -5,7 +5,7 @@ date: 2020-10-06 17:53:58
 image: 'https://m.media-amazon.com/images/I/21JWwuMVjsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WP576JV-es Shark Steam Mop Vapor Mopa de Bolsillo Blanco y Verde'
 sku: 'B07WP576JV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-14 11:04:35
 image: 'https://m.media-amazon.com/images/I/41wmrxOqcOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QFXNN4-es Suhctup Funda Compatible con Huawei P20 Lite 2019 Carcasa...'
 sku: 'B086QFXNN4-es'
 tags: [  ]

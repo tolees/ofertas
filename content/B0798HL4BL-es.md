@@ -5,7 +5,7 @@ date: 2020-03-09 11:50:52
 image: 'https://m.media-amazon.com/images/I/41ei3mXuS5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798HL4BL-es G-STAR RAW Rovulc Low Zapatillas para Mujer Rosa Bright...'
 sku: 'B0798HL4BL-es'
 tags: [  ]

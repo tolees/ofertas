@@ -5,7 +5,7 @@ date: 2020-02-28 08:12:59
 image: 'https://m.media-amazon.com/images/I/41Ot-0jVN2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FGR3TB-es Maxi-Cosi CabrioFix Silla de Auto Reclinable y de Alta...'
 sku: 'B075FGR3TB-es'
 tags: [  ]

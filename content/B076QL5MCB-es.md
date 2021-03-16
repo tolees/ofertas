@@ -5,7 +5,7 @@ date: 2020-03-12 07:52:12
 image: 'https://m.media-amazon.com/images/I/51IDLPfQTIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QL5MCB-es Dewar s 15 Años Whisky Escocés - 700 ml'
 sku: 'B076QL5MCB-es'
 tags: [  ]

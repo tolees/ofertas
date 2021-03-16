@@ -5,7 +5,7 @@ date: 2020-05-03 17:02:19
 image: 'https://m.media-amazon.com/images/I/41K2eHJz1eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBNX7J5-es Luz Nocturna Infantil con Control Remoto y Táctil 9...'
 sku: 'B07PBNX7J5-es'
 tags: [  ]

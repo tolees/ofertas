@@ -5,7 +5,7 @@ date: 2020-01-03 00:36:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41liw2Pyo2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014KPLYSC-es Reebok Tube de Resistencia - Pesado'
 sku: 'B014KPLYSC-es'
 tags: [  ]

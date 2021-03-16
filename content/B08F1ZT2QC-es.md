@@ -5,7 +5,7 @@ date: 2020-08-05 17:32:02
 image: 'https://m.media-amazon.com/images/I/41FCHkpMuJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F1ZT2QC-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Bluetooth...'
 sku: 'B08F1ZT2QC-es'
 tags: [  ]

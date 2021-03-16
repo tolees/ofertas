@@ -5,7 +5,7 @@ date: 2020-05-09 19:06:56
 image: 'https://m.media-amazon.com/images/I/41qImX7u66L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079K9ZYWP-es Lee Rider Contrast Jeans Blue Waters 28W / 34L para Hombre'
 sku: 'B079K9ZYWP-es'
 tags: [  ]

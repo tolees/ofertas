@@ -5,7 +5,7 @@ date: 2020-06-12 13:12:14
 image: 'https://m.media-amazon.com/images/I/31AM2hEsyBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFQGQPG-es PUMA Active Woven Shorts Pants Mujer Puma Black S'
 sku: 'B07DFQGQPG-es'
 tags: [  ]

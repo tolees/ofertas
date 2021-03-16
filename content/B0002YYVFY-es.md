@@ -5,7 +5,7 @@ date: 2020-09-23 15:15:11
 image: 'https://m.media-amazon.com/images/I/41IQXV1RhBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002YYVFY-es Wolfcraft 2425000 2425000-1 portabroca con depósito y Tope...'
 sku: 'B0002YYVFY-es'
 tags: [  ]

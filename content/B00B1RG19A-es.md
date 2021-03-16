@@ -5,7 +5,7 @@ date: 2020-08-23 03:00:47
 image: 'https://m.media-amazon.com/images/I/51l2dpPIXdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B1RG19A-es Fellowes 99106 - Kit limpiador para Smartphone'
 sku: 'B00B1RG19A-es'
 tags: [  ]

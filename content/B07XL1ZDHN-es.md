@@ -5,7 +5,7 @@ date: 2020-07-01 19:02:54
 image: 'https://m.media-amazon.com/images/I/51MUy+HBb0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL1ZDHN-es SAFETYON Accesorios para iRobot Roomba Serie 600 - Roomba...'
 sku: 'B07XL1ZDHN-es'
 tags: [  ]

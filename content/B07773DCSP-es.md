@@ -5,7 +5,7 @@ date: 2020-07-11 13:18:53
 image: 'https://m.media-amazon.com/images/I/51FBE8nJd6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07773DCSP-es Black+Decker 9045853BND Accesorios para Compresor de Aire...'
 sku: 'B07773DCSP-es'
 tags: [  ]

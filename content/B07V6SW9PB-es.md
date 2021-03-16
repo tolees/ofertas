@@ -5,7 +5,7 @@ date: 2020-09-24 11:28:36
 image: 'https://m.media-amazon.com/images/I/51hFeJbtCJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6SW9PB-es Kipling Travel Doc Wrist Cartera para Pasaporte 23 cm 1...'
 sku: 'B07V6SW9PB-es'
 tags: [  ]

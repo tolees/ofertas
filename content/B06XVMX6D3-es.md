@@ -5,7 +5,7 @@ date: 2020-02-12 12:04:43
 image: 'https://m.media-amazon.com/images/I/31KJfSf8L7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XVMX6D3-es Mujer Plisada EláStica Escuela Skorts Tenis Con Ropa...'
 sku: 'B06XVMX6D3-es'
 tags: [  ]

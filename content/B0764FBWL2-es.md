@@ -5,7 +5,7 @@ date: 2020-03-14 18:46:07
 image: 'https://m.media-amazon.com/images/I/31ebXSCeTyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0764FBWL2-es Funko Pop!-24981 Dragonball Super: Zamasu Multicolor Standard'
 sku: 'B0764FBWL2-es'
 tags: [  ]

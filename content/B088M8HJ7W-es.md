@@ -5,7 +5,7 @@ date: 2020-08-12 17:52:13
 image: 'https://m.media-amazon.com/images/I/51MiPwvm4aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M8HJ7W-es Amiiaz 2 Pcs Colchoneta para Tumbona Jardín Cojines para...'
 sku: 'B088M8HJ7W-es'
 tags: [  ]

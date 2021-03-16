@@ -5,7 +5,7 @@ date: 2020-04-27 06:48:01
 image: 'https://m.media-amazon.com/images/I/518PI1mu3QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MA4BOHU-es Air Wick Freshmatic Life Ambientador Scents Oasis Color...'
 sku: 'B01MA4BOHU-es'
 tags: [  ]

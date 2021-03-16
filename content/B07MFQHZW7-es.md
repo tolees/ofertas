@@ -5,7 +5,7 @@ date: 2020-04-09 00:17:56
 image: 'https://m.media-amazon.com/images/I/411JHCdrKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFQHZW7-es Hackett London Amr SS Polo Navy/Multi 5cv Small para Hombre'
 sku: 'B07MFQHZW7-es'
 tags: [  ]

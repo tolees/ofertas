@@ -5,7 +5,7 @@ date: 2020-02-01 12:18:11
 image: 'https://m.media-amazon.com/images/I/31tFCF+yrkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N16CHNU-es Dickies Slim Fit Work Pantalones Cortos para Hombre Azul...'
 sku: 'B01N16CHNU-es'
 tags: [  ]

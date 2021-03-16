@@ -5,7 +5,7 @@ date: 2020-08-24 09:39:23
 image: 'https://m.media-amazon.com/images/I/31YqE4ZTPdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00008MORG-es Max Factor LipFinity Classic Pintalabios Tono 110...'
 sku: 'B00008MORG-es'
 tags: [  ]

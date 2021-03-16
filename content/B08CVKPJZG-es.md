@@ -5,7 +5,7 @@ date: 2020-07-21 19:01:04
 image: 'https://m.media-amazon.com/images/I/51qTbiy3ZmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVKPJZG-es Panamar Tamaño Compacto 65MM 32 Piezas de ajedrez...'
 sku: 'B08CVKPJZG-es'
 tags: [  ]

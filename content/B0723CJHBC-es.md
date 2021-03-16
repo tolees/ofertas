@@ -5,7 +5,7 @@ date: 2020-09-18 11:42:24
 image: 'https://m.media-amazon.com/images/I/41+zJK3NQGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0723CJHBC-es Di4 Stiro Plancha de vapor con suela acero inoxidable y...'
 sku: 'B0723CJHBC-es'
 tags: [  ]

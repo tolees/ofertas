@@ -5,7 +5,7 @@ date: 2020-01-15 13:16:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31mXnI1EFzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H8MW22M-es Disney Baby 80800726 - Taza antifugas punta suave diseño...'
 sku: 'B00H8MW22M-es'
 tags: [  ]

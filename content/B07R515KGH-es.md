@@ -5,7 +5,7 @@ date: 2020-06-29 18:51:26
 image: 'https://m.media-amazon.com/images/I/51ViUTDAeHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R515KGH-es Máquina de cortar pelo maquina cortar pelo cortador de...'
 sku: 'B07R515KGH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 22:28:57
 image: 'https://m.media-amazon.com/images/I/31GpBKcn+QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004E9TXEW-es GANT Solid Pique SS Rugger Polo para Hombre Blanco White...'
 sku: 'B004E9TXEW-es'
 tags: [  ]

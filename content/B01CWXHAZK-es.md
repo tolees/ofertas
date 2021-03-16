@@ -5,7 +5,7 @@ date: 2020-05-27 20:52:01
 image: 'https://m.media-amazon.com/images/I/41gjRBSkiAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CWXHAZK-es Schwarzkopf Professional Osis Mighty Ultra Strong Matte...'
 sku: 'B01CWXHAZK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-26 09:05:12
 image: 'https://m.media-amazon.com/images/I/314RSQGFckL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHWYBLP-es Vans Doheny Zapatillas para Hombre Negro Lona Negro Negro...'
 sku: 'B07VHWYBLP-es'
 tags: [  ]

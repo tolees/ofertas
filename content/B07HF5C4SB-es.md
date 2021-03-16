@@ -5,7 +5,7 @@ date: 2020-08-25 21:50:27
 image: 'https://m.media-amazon.com/images/I/51gVLBLrIeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HF5C4SB-es Fiambreras de Plástico Nuobk 5 Piezas Contenedores...'
 sku: 'B07HF5C4SB-es'
 tags: [  ]

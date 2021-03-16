@@ -5,7 +5,7 @@ date: 2020-07-20 18:09:37
 image: 'https://m.media-amazon.com/images/I/513a4iGq1XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DC266XW-es Diset Luna Todo lo necesario para crear tu diario...'
 sku: 'B01DC266XW-es'
 tags: [  ]

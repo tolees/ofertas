@@ -5,7 +5,7 @@ date: 2020-02-26 17:02:55
 image: 'https://m.media-amazon.com/images/I/31r9ZekMeUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRF9SSH-es Fa - Desodorante Roll-On Limones del Caribe - Anti...'
 sku: 'B07NRF9SSH-es'
 tags: [  ]

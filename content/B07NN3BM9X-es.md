@@ -5,7 +5,7 @@ date: 2020-04-17 05:03:54
 image: 'https://m.media-amazon.com/images/I/51bPvquHshL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NN3BM9X-es Digimon Data Squad Vol. 3 [Alemania] [DVD]'
 sku: 'B07NN3BM9X-es'
 tags: [  ]

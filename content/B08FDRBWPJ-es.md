@@ -5,7 +5,7 @@ date: 2020-09-28 21:33:51
 image: 'https://m.media-amazon.com/images/I/51EGLRAmu3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FDRBWPJ-es Gentai 256GB/512GB/1024GB Tarjeta Micro SD Tabletas...'
 sku: 'B08FDRBWPJ-es'
 tags: [  ]

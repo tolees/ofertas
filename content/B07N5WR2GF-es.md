@@ -5,7 +5,7 @@ date: 2020-08-11 16:12:32
 image: 'https://m.media-amazon.com/images/I/31EcNykYd8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5WR2GF-es Pop! Vinilo: Big Bang Theory S2: Stuart'
 sku: 'B07N5WR2GF-es'
 tags: [  ]

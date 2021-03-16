@@ -5,7 +5,7 @@ date: 2020-06-26 14:17:57
 image: 'https://m.media-amazon.com/images/I/31ZfqhyvXyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZBQXGS-es Under Armour Men s Golf Headline Cap 3.0 Visera Clásica...'
 sku: 'B07CZBQXGS-es'
 tags: [  ]

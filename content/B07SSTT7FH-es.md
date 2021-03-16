@@ -5,7 +5,7 @@ date: 2020-05-14 11:38:29
 image: 'https://m.media-amazon.com/images/I/51QQhfQUXgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSTT7FH-es Doom'
 sku: 'B07SSTT7FH-es'
 tags: [  ]

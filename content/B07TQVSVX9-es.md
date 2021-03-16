@@ -5,7 +5,7 @@ date: 2020-09-30 21:43:41
 image: 'https://m.media-amazon.com/images/I/3103OYCm7FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQVSVX9-es Clarks Un Balsa Go Mocasines para Mujer Azul Navy Navy 39 EU'
 sku: 'B07TQVSVX9-es'
 tags: [  ]

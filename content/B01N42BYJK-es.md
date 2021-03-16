@@ -5,7 +5,7 @@ date: 2020-04-17 08:33:55
 image: 'https://m.media-amazon.com/images/I/51XgIxjEyxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N42BYJK-es MINIONS - Blíster de Tres Giochi Preziosi DEP00002'
 sku: 'B01N42BYJK-es'
 tags: [  ]

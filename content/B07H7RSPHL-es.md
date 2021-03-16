@@ -5,7 +5,7 @@ date: 2020-08-14 19:00:48
 image: 'https://m.media-amazon.com/images/I/41izcryNirL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7RSPHL-es Sereney Mujer Sexy Criada Disfraz Lace Lencería Hot Halter...'
 sku: 'B07H7RSPHL-es'
 tags: [  ]

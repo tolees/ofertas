@@ -5,7 +5,7 @@ date: 2020-04-08 16:35:09
 image: 'https://m.media-amazon.com/images/I/51DOawISmxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016AWBO2E-es ASUS VP278H TFT 27" Negro Full HD Matt - Monitor 1920 x...'
 sku: 'B016AWBO2E-es'
 tags: [  ]

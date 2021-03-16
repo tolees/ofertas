@@ -5,7 +5,7 @@ date: 2020-03-04 12:23:33
 image: 'https://m.media-amazon.com/images/I/41KzOZVCsSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073X2JPG8-es OcioDual Termómetro Corporal Flexible Fiebre Clinico...'
 sku: 'B073X2JPG8-es'
 tags: [  ]

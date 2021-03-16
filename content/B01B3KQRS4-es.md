@@ -5,7 +5,7 @@ date: 2020-09-19 06:25:40
 image: 'https://m.media-amazon.com/images/I/41sN3wp3ajL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B3KQRS4-es DIM Generous Minimizer Sujetador reductor Beige New Skin...'
 sku: 'B01B3KQRS4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 10:35:29
 image: 'https://m.media-amazon.com/images/I/31sz2cuIuxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFZ9MHM-es Fitbit Versa Lite - Reloj Deportivo Smartwatch Adultos...'
 sku: 'B07MFZ9MHM-es'
 tags: [  ]

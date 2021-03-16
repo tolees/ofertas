@@ -5,7 +5,7 @@ date: 2020-07-09 00:34:47
 image: 'https://m.media-amazon.com/images/I/31-xTxlBX1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2J4B5H-es Tommy Hilfiger Tommy Jeans Lifestyle Runner Zapatillas...'
 sku: 'B07V2J4B5H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 21:46:21
 image: 'https://m.media-amazon.com/images/I/41+GxU04gmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895QFFS2-es Luces para Espejo de Maquillaje 12 Luces de Espejo de...'
 sku: 'B0895QFFS2-es'
 tags: [  ]

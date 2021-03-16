@@ -5,7 +5,7 @@ date: 2020-06-12 00:05:31
 image: 'https://m.media-amazon.com/images/I/413JKZn0-XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WGL7XV-es PUMA Liga Shorts Core Jr Pantalones Cortos de Fútbol...'
 sku: 'B078WGL7XV-es'
 tags: [  ]

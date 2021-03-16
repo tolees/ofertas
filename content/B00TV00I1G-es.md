@@ -5,7 +5,7 @@ date: 2020-10-02 17:42:42
 image: 'https://m.media-amazon.com/images/I/31nrBbg0kAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TV00I1G-es G-STAR RAW 3301 Tapered Jeans Azul dk aged 6576-89 31W /...'
 sku: 'B00TV00I1G-es'
 tags: [  ]

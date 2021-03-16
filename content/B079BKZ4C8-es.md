@@ -5,7 +5,7 @@ date: 2020-03-13 15:21:42
 image: 'https://m.media-amazon.com/images/I/31-YyRP6zOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079BKZ4C8-es B Blesiya Disquete de Unidad Flash USB de Emuladores para...'
 sku: 'B079BKZ4C8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-31 10:13:36
 image: 'https://m.media-amazon.com/images/I/51JsEkKcvLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C5TFNPA-es Playskool Sesame Street Collector Pack 5 Figures by Sesame...'
 sku: 'B01C5TFNPA-es'
 tags: [  ]

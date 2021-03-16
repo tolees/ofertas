@@ -5,7 +5,7 @@ date: 2020-07-15 17:18:40
 image: 'https://m.media-amazon.com/images/I/21lszwAADQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5JP53C-es Revlon 7244684000 Style Masters 2 Modular Laca de Fijación...'
 sku: 'B07D5JP53C-es'
 tags: [  ]

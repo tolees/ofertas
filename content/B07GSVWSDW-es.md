@@ -5,7 +5,7 @@ date: 2020-08-26 16:16:36
 image: 'https://m.media-amazon.com/images/I/51NTn8Y81qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSVWSDW-es Trimming Shop Filtro de Aspirador Dyson DC37 DC33C DC39...'
 sku: 'B07GSVWSDW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-10 21:18:23
 image: 'https://m.media-amazon.com/images/I/419xCq9txDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN8DJNQ-es Funko Pop! Disney: Kingdom Hearts 3 - Axel Multicolor'
 sku: 'B07RN8DJNQ-es'
 tags: [  ]

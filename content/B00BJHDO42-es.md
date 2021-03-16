@@ -5,7 +5,7 @@ date: 2020-02-04 16:32:31
 image: 'https://m.media-amazon.com/images/I/41vRvHxUCXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BJHDO42-es POSTQUAM - Mascarilla facial calmante para pieles normales'
 sku: 'B00BJHDO42-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 15:10:27
 image: 'https://m.media-amazon.com/images/I/415XyBbPiUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076MKX4CZ-es Sticker Adhesivos para Macbook Desprendibles Creativo...'
 sku: 'B076MKX4CZ-es'
 tags: [  ]

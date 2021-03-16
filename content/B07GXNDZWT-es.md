@@ -5,7 +5,7 @@ date: 2020-05-18 01:10:11
 image: 'https://m.media-amazon.com/images/I/41B40gX8Z6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXNDZWT-es Adidas Falcon W Zapatillas de Deporte para Mujer Footwear...'
 sku: 'B07GXNDZWT-es'
 tags: [  ]

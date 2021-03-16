@@ -5,7 +5,7 @@ date: 2020-08-09 14:55:35
 image: 'https://m.media-amazon.com/images/I/31nuOpGfF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HS1UGFC-es L Oréal Paris Elvive Champú Aceite Extraordinario - 700 ml'
 sku: 'B01HS1UGFC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-16 07:22:13
 image: 'https://m.media-amazon.com/images/I/41lfywUQgJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKN919J-es Clarks Step Allena Go Zapatillas para Mujer Beige Mauve...'
 sku: 'B07TKN919J-es'
 tags: [  ]

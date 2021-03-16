@@ -5,7 +5,7 @@ date: 2020-03-11 11:44:22
 image: 'https://m.media-amazon.com/images/I/41rx8IgKi-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0722ZFG4X-es Taurus PI400 Placa inducción portátil Cristal'
 sku: 'B0722ZFG4X-es'
 tags: [  ]

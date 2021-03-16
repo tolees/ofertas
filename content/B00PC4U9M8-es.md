@@ -5,7 +5,7 @@ date: 2020-02-07 07:47:50
 image: 'https://m.media-amazon.com/images/I/51mHqk9tqEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PC4U9M8-es Trust Yvi - Ratón óptico inalámbrico Flower Power'
 sku: 'B00PC4U9M8-es'
 tags: [  ]

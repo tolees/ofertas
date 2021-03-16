@@ -5,7 +5,7 @@ date: 2020-09-18 08:06:07
 image: 'https://m.media-amazon.com/images/I/413uL1nosFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089QPFM3M-es WEOFUN Protector de Pantalla Samsung A9 2018 3-Unidades...'
 sku: 'B089QPFM3M-es'
 tags: [  ]

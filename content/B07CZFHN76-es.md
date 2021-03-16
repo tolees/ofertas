@@ -5,7 +5,7 @@ date: 2020-01-29 09:25:06
 image: 'https://m.media-amazon.com/images/I/41a3wv16CJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZFHN76-es TOUCHBeauty - Cepillo limpiador cara y Calentador sónico...'
 sku: 'B07CZFHN76-es'
 tags: [  ]

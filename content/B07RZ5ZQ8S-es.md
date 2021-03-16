@@ -5,7 +5,7 @@ date: 2020-03-05 14:16:42
 image: 'https://m.media-amazon.com/images/I/41nxa15j4DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ5ZQ8S-es Tefal First Cook - Set de sartenes de Aluminio para Gas y...'
 sku: 'B07RZ5ZQ8S-es'
 tags: [  ]

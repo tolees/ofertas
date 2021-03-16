@@ -5,7 +5,7 @@ date: 2020-01-24 17:06:23
 image: 'https://m.media-amazon.com/images/I/41wkgOw3SmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WB1OSPO-es Dewalt D25133K-QS Martillo Ligero Combinado 800W 3...'
 sku: 'B00WB1OSPO-es'
 tags: [  ]

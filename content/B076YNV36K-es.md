@@ -5,7 +5,7 @@ date: 2020-01-08 11:44:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BYW5RGWZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076YNV36K-es AmazonBasics - Hub de 10 puertos USB C 3.1 con adaptador...'
 sku: 'B076YNV36K-es'
 tags: [  ]

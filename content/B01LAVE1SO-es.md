@@ -5,7 +5,7 @@ date: 2020-05-28 17:31:30
 image: 'https://m.media-amazon.com/images/I/41L29oQrSyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LAVE1SO-es Shepa Banador Shorts De Deporte Liso Clásico - Hecho En La...'
 sku: 'B01LAVE1SO-es'
 tags: [  ]

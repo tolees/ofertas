@@ -5,7 +5,7 @@ date: 2020-06-29 16:26:37
 image: 'https://m.media-amazon.com/images/I/41UYJNPkKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHG4H92-es Soundcore Life Q10 Auriculares Bluetooth Inalámbricos con...'
 sku: 'B07SHG4H92-es'
 tags: [  ]

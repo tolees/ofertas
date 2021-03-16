@@ -5,7 +5,7 @@ date: 2020-03-13 16:40:38
 image: 'https://m.media-amazon.com/images/I/41hQBWgtx7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6Q82SK-es Humidificador dodocool Humidificadores Ultrasónicos de...'
 sku: 'B07R6Q82SK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-03 16:34:58
 image: 'https://m.media-amazon.com/images/I/51YNhV6AiBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XF2NC5B-es Cama Gato Cama Perro Pequeño Cama para Mascotas con Suave...'
 sku: 'B07XF2NC5B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-07 12:00:40
 image: 'https://m.media-amazon.com/images/I/51wBq-8Z2DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CU54IDM-es LEORX Candy Bottle Gift Box Baby Shower Favors 12pcs Blue'
 sku: 'B01CU54IDM-es'
 tags: [  ]

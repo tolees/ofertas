@@ -5,7 +5,7 @@ date: 2020-03-19 09:05:11
 image: 'https://m.media-amazon.com/images/I/316nQUgbJSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR4QM9S-es Samsung Galaxy Tab S5e Wi Fi SM-T720 64GB plateado alemán...'
 sku: 'B07NR4QM9S-es'
 tags: [  ]

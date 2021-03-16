@@ -5,7 +5,7 @@ date: 2020-07-15 21:50:53
 image: 'https://m.media-amazon.com/images/I/410hRAY5E0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KJGOH26-es Maybelline New York Paleta de Sombras de Ojos The Rock Nudes'
 sku: 'B01KJGOH26-es'
 tags: [  ]

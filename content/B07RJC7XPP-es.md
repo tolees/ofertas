@@ -5,7 +5,7 @@ date: 2020-05-28 10:08:56
 image: 'https://m.media-amazon.com/images/I/61Vo1aK8pkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJC7XPP-es Legendarte Cuadro Lienzo Impresión Digital - El Gran Árbol...'
 sku: 'B07RJC7XPP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 00:03:49
 image: 'https://m.media-amazon.com/images/I/316NLrC+p7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F82YKJY-es Superga 2750 COTU Classic Zapatillas Unisex Verde Green...'
 sku: 'B07F82YKJY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 14:27:02
 image: 'https://m.media-amazon.com/images/I/31FKmgssSpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C2RGRNM-es Habitdesign 007833BO - Comoda Estilo nórdico sinfonier...'
 sku: 'B01C2RGRNM-es'
 tags: [  ]

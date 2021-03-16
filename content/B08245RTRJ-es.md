@@ -5,7 +5,7 @@ date: 2020-05-15 00:13:16
 image: 'https://m.media-amazon.com/images/I/31lzRCOuQ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08245RTRJ-es CARRERA Sneakers Hombre Lona Blanco 44 EU'
 sku: 'B08245RTRJ-es'
 tags: [  ]

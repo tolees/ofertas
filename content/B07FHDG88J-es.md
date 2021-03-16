@@ -5,7 +5,7 @@ date: 2020-01-04 12:26:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31RIuIQ1KQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHDG88J-es PUMA Cilia Zapatillas para Mujer Black Silver-Peach Bud 39 EU'
 sku: 'B07FHDG88J-es'
 tags: [  ]

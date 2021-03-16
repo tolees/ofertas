@@ -5,7 +5,7 @@ date: 2020-06-15 07:46:28
 image: 'https://m.media-amazon.com/images/I/31AM2hEsyBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPL21YW-es Puma Active Wovens Pantalones Cortos Mujer Negro Black M'
 sku: 'B07DPL21YW-es'
 tags: [  ]

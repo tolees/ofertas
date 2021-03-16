@@ -5,7 +5,7 @@ date: 2020-01-03 19:25:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wZDY0bimL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRLN4HK-es New Balance 574v2 Zapatillas para Mujer Rosa Pink/Black...'
 sku: 'B07KRLN4HK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-19 09:40:34
 image: 'https://m.media-amazon.com/images/I/41n+uD7krfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IF2ASS8-es Dispensador de Formula Kidsmile apilable On-the-Go BPA del...'
 sku: 'B01IF2ASS8-es'
 tags: [  ]

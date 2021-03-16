@@ -5,7 +5,7 @@ date: 2020-09-01 19:57:41
 image: 'https://m.media-amazon.com/images/I/61+1Vy5lbVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKP3LMK-es Carnival Games'
 sku: 'B07FKP3LMK-es'
 tags: [  ]

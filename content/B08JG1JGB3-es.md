@@ -5,7 +5,7 @@ date: 2020-09-20 07:31:34
 image: 'https://m.media-amazon.com/images/I/31SMlcq2ejL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JG1JGB3-es Ocobudbxw pequeño y Encantador Forma de ratón Espuma...'
 sku: 'B08JG1JGB3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 09:19:45
 image: 'https://m.media-amazon.com/images/I/41Gv-z7vBbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0731GZWHR-es modamoda de - cuero italiano de embrague T151 Pequeño...'
 sku: 'B0731GZWHR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 07:43:54
 image: 'https://m.media-amazon.com/images/I/51+WB2g6hzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZDYF6W-es Mobiclinic modelo Alcazaba Silla de ruedas para...'
 sku: 'B06ZZDYF6W-es'
 tags: [  ]

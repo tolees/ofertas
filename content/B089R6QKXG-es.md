@@ -5,7 +5,7 @@ date: 2020-06-10 18:17:42
 image: 'https://m.media-amazon.com/images/I/51l8LL+X8EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089R6QKXG-es LJP Funda LG Stylo 6 Diamante Cristal Brillante Antigolpes...'
 sku: 'B089R6QKXG-es'
 tags: [  ]

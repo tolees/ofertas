@@ -5,7 +5,7 @@ date: 2020-08-13 08:17:45
 image: 'https://m.media-amazon.com/images/I/41jDSJW-Y6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ1LRY2-es Kipling Baroe S Monederos para Mujer Plateado Metallic...'
 sku: 'B07TZ1LRY2-es'
 tags: [  ]

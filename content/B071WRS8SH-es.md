@@ -5,7 +5,7 @@ date: 2020-01-21 11:34:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oE%2Bb40aBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WRS8SH-es Lenny Sky EG.Liberty.PYV.MZ Conjunto Ropa Deportiva Gris...'
 sku: 'B071WRS8SH-es'
 tags: [  ]

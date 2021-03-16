@@ -5,7 +5,7 @@ date: 2020-10-11 11:44:13
 image: 'https://m.media-amazon.com/images/I/41asqn9grqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000J0L5IW-es Converse Chuck Taylor Ct A/S Seasnl Hi Zapatillas altas...'
 sku: 'B000J0L5IW-es'
 tags: [  ]

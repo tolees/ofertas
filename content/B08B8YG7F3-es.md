@@ -5,7 +5,7 @@ date: 2020-06-23 12:32:46
 image: 'https://m.media-amazon.com/images/I/31S9Dn04tVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B8YG7F3-es El disco de almacenamiento del disco flash el disco de...'
 sku: 'B08B8YG7F3-es'
 tags: [  ]

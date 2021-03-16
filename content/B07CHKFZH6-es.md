@@ -5,7 +5,7 @@ date: 2020-06-28 20:30:32
 image: 'https://m.media-amazon.com/images/I/31KLbbWKqHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHKFZH6-es JACK & JONES Jfwabbott PU Botas Chelsea para Hombre Negro...'
 sku: 'B07CHKFZH6-es'
 tags: [  ]

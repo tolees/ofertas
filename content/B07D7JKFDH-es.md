@@ -5,7 +5,7 @@ date: 2020-06-11 21:44:53
 image: 'https://m.media-amazon.com/images/I/41PHB9HEmUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7JKFDH-es Rimmel London Maxi Blush Colorete Tono 3 Wild Care - 45 g'
 sku: 'B07D7JKFDH-es'
 tags: [  ]

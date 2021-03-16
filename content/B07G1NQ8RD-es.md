@@ -5,7 +5,7 @@ date: 2020-07-16 19:49:48
 image: 'https://m.media-amazon.com/images/I/316qVAv1VcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1NQ8RD-es Fitbit Charge 3 Pulsera Avanzada de Salud y Actividad...'
 sku: 'B07G1NQ8RD-es'
 tags: [  ]

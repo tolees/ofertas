@@ -5,7 +5,7 @@ date: 2020-06-12 09:39:07
 image: 'https://m.media-amazon.com/images/I/41dGLyoHmqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFTMV2N-es Tommy Hilfiger Plunge Sujetador con Push-up Rosa Silver...'
 sku: 'B07DFTMV2N-es'
 tags: [  ]

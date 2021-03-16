@@ -5,7 +5,7 @@ date: 2020-06-01 11:21:37
 image: 'https://m.media-amazon.com/images/I/31czVoPLrTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CIEBXZG-es SanDisk iXpand - Memoria Flash USB de 128 GB para iPhone y...'
 sku: 'B01CIEBXZG-es'
 tags: [  ]

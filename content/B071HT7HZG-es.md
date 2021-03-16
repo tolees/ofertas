@@ -5,7 +5,7 @@ date: 2020-03-30 18:43:48
 image: 'https://m.media-amazon.com/images/I/41ZSM59XZNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HT7HZG-es Sennheiser CX 7.00 BT - Auricular Intraural Inalámbrico...'
 sku: 'B071HT7HZG-es'
 tags: [  ]

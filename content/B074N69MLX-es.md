@@ -5,7 +5,7 @@ date: 2020-01-28 12:35:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-6xijcWRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074N69MLX-es S&R Sierra Corona Perforadora Hormigon en seco Ø 68mm +...'
 sku: 'B074N69MLX-es'
 tags: [  ]

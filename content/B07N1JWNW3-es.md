@@ -5,7 +5,7 @@ date: 2020-04-21 04:02:40
 image: 'https://m.media-amazon.com/images/I/31X7VNulLCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JWNW3-es Clarks Orinoco Demi Botas Estilo Motero para Mujer Marrón...'
 sku: 'B07N1JWNW3-es'
 tags: [  ]

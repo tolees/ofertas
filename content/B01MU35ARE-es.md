@@ -5,7 +5,7 @@ date: 2020-10-08 06:55:51
 image: 'https://m.media-amazon.com/images/I/41L+YIox+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU35ARE-es Reebok Club C 85 Zapatillas Deportivas para Interior...'
 sku: 'B01MU35ARE-es'
 tags: [  ]

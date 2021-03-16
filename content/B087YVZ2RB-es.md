@@ -5,7 +5,7 @@ date: 2020-05-08 12:48:55
 image: 'https://m.media-amazon.com/images/I/31Rsi+D6BWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087YVZ2RB-es Golden Goose Zapatillas deportivas antideslizantes para...'
 sku: 'B087YVZ2RB-es'
 tags: [  ]

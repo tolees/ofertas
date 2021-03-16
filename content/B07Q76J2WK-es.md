@@ -5,7 +5,7 @@ date: 2020-03-17 10:05:47
 image: 'https://m.media-amazon.com/images/I/41daDfTglML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q76J2WK-es Pack 2x Tubo LED 120 cm 18w. Color Blanco Frio 6500K ....'
 sku: 'B07Q76J2WK-es'
 tags: [  ]

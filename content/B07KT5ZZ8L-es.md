@@ -5,7 +5,7 @@ date: 2020-04-17 00:41:43
 image: 'https://m.media-amazon.com/images/I/41DMT0LoHxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KT5ZZ8L-es DC-77 16MP 4X Zoom Videocámara Digital de Alta definición...'
 sku: 'B07KT5ZZ8L-es'
 tags: [  ]

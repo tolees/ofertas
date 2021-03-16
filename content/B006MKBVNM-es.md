@@ -5,7 +5,7 @@ date: 2020-05-11 17:44:43
 image: 'https://m.media-amazon.com/images/I/41rkl35JvtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006MKBVNM-es 3M Cinta Americana Universal 1900 50 mm x 50 m color negro...'
 sku: 'B006MKBVNM-es'
 tags: [  ]

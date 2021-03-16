@@ -5,7 +5,7 @@ date: 2020-08-23 11:08:41
 image: 'https://m.media-amazon.com/images/I/412QgD8TrKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004V54ZVK-es Absolut Vodka - 1 L'
 sku: 'B004V54ZVK-es'
 tags: [  ]

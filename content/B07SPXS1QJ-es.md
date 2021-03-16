@@ -5,7 +5,7 @@ date: 2020-08-16 04:14:57
 image: 'https://m.media-amazon.com/images/I/318VZVDsdAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPXS1QJ-es Lacoste Chaymon 120 4 CMA Zapatillas para Hombre Azul...'
 sku: 'B07SPXS1QJ-es'
 tags: [  ]

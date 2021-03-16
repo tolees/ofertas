@@ -5,7 +5,7 @@ date: 2020-08-15 10:39:02
 image: 'https://m.media-amazon.com/images/I/41Re+HM3nkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002C1AYEM-es Remington SP IPL 5000 - Bombilla de repuesto'
 sku: 'B002C1AYEM-es'
 tags: [  ]

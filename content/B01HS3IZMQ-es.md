@@ -5,7 +5,7 @@ date: 2020-09-28 17:03:16
 image: 'https://m.media-amazon.com/images/I/51By9+eGJCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HS3IZMQ-es Cafés Granell - Exotic Collection - Sulawesi Café en Grano...'
 sku: 'B01HS3IZMQ-es'
 tags: [  ]

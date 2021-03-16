@@ -5,7 +5,7 @@ date: 2020-10-08 20:16:43
 image: 'https://m.media-amazon.com/images/I/51KiJIga1ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B16RDMS-es Multímetro De Mano Multímetro Luminoso Pantalla LCD...'
 sku: 'B08B16RDMS-es'
 tags: [  ]

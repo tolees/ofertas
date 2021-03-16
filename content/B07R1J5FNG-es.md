@@ -5,7 +5,7 @@ date: 2020-08-09 00:20:21
 image: 'https://m.media-amazon.com/images/I/41cH633VDvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R1J5FNG-es Warxin Soporte Magnético Movil Coche Mini Móvil Coche Iman...'
 sku: 'B07R1J5FNG-es'
 tags: [  ]

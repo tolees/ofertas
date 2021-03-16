@@ -5,7 +5,7 @@ date: 2020-05-29 07:38:36
 image: 'https://m.media-amazon.com/images/I/41LnAULYsRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JFQVA2W-es Cata TN 604 604-Placa Vitrocerámica Tn604 con 4 Zonas High...'
 sku: 'B00JFQVA2W-es'
 tags: [  ]

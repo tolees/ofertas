@@ -5,7 +5,7 @@ date: 2020-08-28 15:43:25
 image: 'https://m.media-amazon.com/images/I/4127I2IlOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQYV9Q6-es WIN.MAX Tirantes Ancho 35 mm Y-Forma con 6 Clips Extra...'
 sku: 'B07ZQYV9Q6-es'
 tags: [  ]

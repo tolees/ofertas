@@ -5,7 +5,7 @@ date: 2020-05-27 19:23:09
 image: 'https://m.media-amazon.com/images/I/41PFS96gPkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JO7JWFE-es Astor Soft Sentation Color & Care Barra de Labios Tono 301...'
 sku: 'B00JO7JWFE-es'
 tags: [  ]

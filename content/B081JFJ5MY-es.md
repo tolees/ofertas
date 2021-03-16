@@ -5,7 +5,7 @@ date: 2020-02-27 19:24:17
 image: 'https://m.media-amazon.com/images/I/31b+b1sFPFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081JFJ5MY-es Pulverizador Facial Hieha Nano Vapor Pulverizador Portátil...'
 sku: 'B081JFJ5MY-es'
 tags: [  ]

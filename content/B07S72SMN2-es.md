@@ -5,7 +5,7 @@ date: 2020-01-20 15:06:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31VOdWI8iuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S72SMN2-es Regatta Ligero Forro Polar Montes con Media Cremallera...'
 sku: 'B07S72SMN2-es'
 tags: [  ]

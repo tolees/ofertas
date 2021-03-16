@@ -5,7 +5,7 @@ date: 2020-02-23 08:06:59
 image: 'https://m.media-amazon.com/images/I/31IUz75ZO5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9GGYW1-es Under Armour Whisperlight Tie Back Tank Tanque Mujer Negro MD'
 sku: 'B07L9GGYW1-es'
 tags: [  ]

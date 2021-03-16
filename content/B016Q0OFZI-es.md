@@ -5,7 +5,7 @@ date: 2020-09-24 16:08:16
 image: 'https://m.media-amazon.com/images/I/51cU0qWm0+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016Q0OFZI-es Semillas Hortícolas - Zanahoria Nantesa 2 sel. Urgelba -...'
 sku: 'B016Q0OFZI-es'
 tags: [  ]

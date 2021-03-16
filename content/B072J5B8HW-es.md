@@ -5,7 +5,7 @@ date: 2020-04-20 13:32:01
 image: 'https://m.media-amazon.com/images/I/41gDqTc04mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072J5B8HW-es Grohe Grohtherm SmartControl - Termostato cuadrado para...'
 sku: 'B072J5B8HW-es'
 tags: [  ]

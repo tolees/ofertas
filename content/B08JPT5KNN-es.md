@@ -5,7 +5,7 @@ date: 2020-09-28 10:34:30
 image: 'https://m.media-amazon.com/images/I/31oAC0B+PsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JPT5KNN-es Toalla para Adultos de Color sólido Reutilizable y Lavable...'
 sku: 'B08JPT5KNN-es'
 tags: [  ]

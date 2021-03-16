@@ -5,7 +5,7 @@ date: 2020-01-22 22:01:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OmuQisFsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SH8NNLX-es IKOHS Retro Fridge - Frigorífico con diseño Control de...'
 sku: 'B07SH8NNLX-es'
 tags: [  ]

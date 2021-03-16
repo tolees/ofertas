@@ -5,7 +5,7 @@ date: 2020-02-10 14:25:41
 image: 'https://m.media-amazon.com/images/I/41cwQ2zIQOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078KPWQVK-es Urban Classics Canvas Belts Cinturón Negro Talla Única...'
 sku: 'B078KPWQVK-es'
 tags: [  ]

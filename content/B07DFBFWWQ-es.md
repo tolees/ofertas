@@ -5,7 +5,7 @@ date: 2020-07-09 22:46:52
 image: 'https://m.media-amazon.com/images/I/41GkQ-RoqzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBFWWQ-es Pop! Crash Bandicoot - Figura de Vinilo Coco Bandicoot'
 sku: 'B07DFBFWWQ-es'
 tags: [  ]

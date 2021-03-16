@@ -5,7 +5,7 @@ date: 2020-06-30 15:06:14
 image: 'https://m.media-amazon.com/images/I/41smhtSzQ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZH2GMR-es 4Pcs / Vtc6 3.7V 2500Mah Batería recargable de iones de...'
 sku: 'B08BZH2GMR-es'
 tags: [  ]

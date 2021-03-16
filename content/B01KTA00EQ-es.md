@@ -5,7 +5,7 @@ date: 2020-06-07 17:05:41
 image: 'https://m.media-amazon.com/images/I/410nHNje0WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KTA00EQ-es Reloj Orla Kiely - Mujer OK2137'
 sku: 'B01KTA00EQ-es'
 tags: [  ]

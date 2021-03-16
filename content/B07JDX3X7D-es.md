@@ -5,7 +5,7 @@ date: 2020-01-06 09:06:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y0gwOA1OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JDX3X7D-es DUNLOP Explosion Sport Naranja Fluor'
 sku: 'B07JDX3X7D-es'
 tags: [  ]

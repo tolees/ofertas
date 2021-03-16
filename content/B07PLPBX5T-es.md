@@ -5,7 +5,7 @@ date: 2020-08-24 19:42:50
 image: 'https://m.media-amazon.com/images/I/51wwKO2Xo6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLPBX5T-es ADATA ASD600Q-480GU31-CBK SD600Q'
 sku: 'B07PLPBX5T-es'
 tags: [  ]

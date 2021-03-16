@@ -5,7 +5,7 @@ date: 2020-07-27 01:02:34
 image: 'https://m.media-amazon.com/images/I/51U9kch3SyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ3CQHG-es TedGem Ventilador Ventilador USB Ventilador de Mesa Mini...'
 sku: 'B07SQ3CQHG-es'
 tags: [  ]

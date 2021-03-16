@@ -5,7 +5,7 @@ date: 2020-05-13 17:03:01
 image: 'https://m.media-amazon.com/images/I/611L9HFSagL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NGYYA0R-es Dragon Quest Heroes II Explorer s Edition'
 sku: 'B01NGYYA0R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 15:03:50
 image: 'https://m.media-amazon.com/images/I/51jUEQu-6VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q47ZRBC-es Black Hawk derribado 4K UHD + BD [Blu-ray]'
 sku: 'B07Q47ZRBC-es'
 tags: [  ]

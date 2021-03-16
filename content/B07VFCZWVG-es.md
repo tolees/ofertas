@@ -5,7 +5,7 @@ date: 2020-06-24 11:22:47
 image: 'https://m.media-amazon.com/images/I/4189GoCm+qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFCZWVG-es YAMAMAY® Bañador de Cintura Media para Mujer – Swift'
 sku: 'B07VFCZWVG-es'
 tags: [  ]

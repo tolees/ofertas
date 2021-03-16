@@ -5,7 +5,7 @@ date: 2020-09-08 12:00:56
 image: 'https://m.media-amazon.com/images/I/41Ov2w4uoML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQ58MZM-es QYD - Cargador original para portátil Lenovo Yoga pro 4...'
 sku: 'B07RQ58MZM-es'
 tags: [  ]

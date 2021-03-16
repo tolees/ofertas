@@ -5,7 +5,7 @@ date: 2020-09-19 08:01:02
 image: 'https://m.media-amazon.com/images/I/51FBqtkynGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VWS27H-es KHOMO Funda iPad Air 3 10.5 2019 / iPad Pro 10.5 2017...'
 sku: 'B076VWS27H-es'
 tags: [  ]

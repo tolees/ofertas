@@ -5,7 +5,7 @@ date: 2020-04-28 07:17:28
 image: 'https://m.media-amazon.com/images/I/41nQdx7DNML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J654XGD-es Amercian Tourister Aero Racer Spinner'
 sku: 'B07J654XGD-es'
 tags: [  ]

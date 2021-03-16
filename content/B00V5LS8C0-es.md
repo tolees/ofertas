@@ -5,7 +5,7 @@ date: 2020-01-15 09:23:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51X6jjbddcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V5LS8C0-es Kempa Emotion Cazadora con Capucha Hombre Azur/Blanco XXXL'
 sku: 'B00V5LS8C0-es'
 tags: [  ]

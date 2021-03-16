@@ -5,7 +5,7 @@ date: 2020-03-16 18:53:31
 image: 'https://m.media-amazon.com/images/I/31BtboaDBjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085QL3VZG-es Gel hidroalcoholico para la limpieza y desinfección de...'
 sku: 'B085QL3VZG-es'
 tags: [  ]

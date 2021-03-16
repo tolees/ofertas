@@ -5,7 +5,7 @@ date: 2020-01-19 10:24:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31NRUe5X2JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWPC3M-es Wrangler Skinny Jeans Azul Dark Indigo X1e 32W / 30L para...'
 sku: 'B07MMWPC3M-es'
 tags: [  ]

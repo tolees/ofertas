@@ -5,7 +5,7 @@ date: 2020-01-29 20:53:46
 image: 'https://m.media-amazon.com/images/I/41Vk2ZH2VnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6LYGM6-es Asics Gel-Nimbus 21 Zapatillas de Running para Mujer Gris...'
 sku: 'B07K6LYGM6-es'
 tags: [  ]

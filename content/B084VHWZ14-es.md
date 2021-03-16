@@ -5,7 +5,7 @@ date: 2020-04-24 10:02:23
 image: 'https://m.media-amazon.com/images/I/41DpnckQ-dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084VHWZ14-es Bebés Cochecito de bebé Cochecito Mosquitera Insecto Red...'
 sku: 'B084VHWZ14-es'
 tags: [  ]

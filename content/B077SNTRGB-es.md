@@ -5,7 +5,7 @@ date: 2020-08-29 06:41:06
 image: 'https://m.media-amazon.com/images/I/31ZBCO1yBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SNTRGB-es InvisibleShield Ultra Clear Protective Case - Funda...'
 sku: 'B077SNTRGB-es'
 tags: [  ]

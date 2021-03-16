@@ -5,7 +5,7 @@ date: 2020-08-23 17:21:57
 image: 'https://m.media-amazon.com/images/I/31pLGHkvZ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D315GYF-es B Blesiya Trompetas Cornetas Válvula Deslice El Anillo De...'
 sku: 'B07D315GYF-es'
 tags: [  ]

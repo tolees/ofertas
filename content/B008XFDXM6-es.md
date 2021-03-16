@@ -5,7 +5,7 @@ date: 2020-08-11 18:03:23
 image: 'https://m.media-amazon.com/images/I/31r52wqhTDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008XFDXM6-es Lonsdale - Pantalones de correr con dos rayas con cordón y...'
 sku: 'B008XFDXM6-es'
 tags: [  ]

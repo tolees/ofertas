@@ -5,7 +5,7 @@ date: 2020-07-08 12:56:44
 image: 'https://m.media-amazon.com/images/I/31XOi1ZSnhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GNXO2RA-es Salki 8500301.0 Pistola Encoladora de Silicona 25 W 240 V...'
 sku: 'B00GNXO2RA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-11 12:22:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ARuokhm1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YSTFSXI-es Adidas AA2299 Calcetines Unisex Negro Negro/Gris/Blanco 23...'
 sku: 'B00YSTFSXI-es'
 tags: [  ]

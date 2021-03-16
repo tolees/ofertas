@@ -5,7 +5,7 @@ date: 2020-08-03 04:21:10
 image: 'https://m.media-amazon.com/images/I/51ukCRhnOwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VG992YL-es Hackett London Hibiscus Pantalones Cortos Naranja 1audeep...'
 sku: 'B07VG992YL-es'
 tags: [  ]

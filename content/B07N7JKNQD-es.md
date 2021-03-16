@@ -5,7 +5,7 @@ date: 2020-01-03 08:19:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51jNmR7SdXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7JKNQD-es V7 SB2526-USB-6E Altavoz soundbar Negro - Barra de Sonido...'
 sku: 'B07N7JKNQD-es'
 tags: [  ]

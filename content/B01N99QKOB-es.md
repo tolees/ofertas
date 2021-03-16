@@ -5,7 +5,7 @@ date: 2020-01-25 10:14:39
 image: 'https://m.media-amazon.com/images/I/51ExQGn2fDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N99QKOB-es Fantasy Flight Games Star Wars - Caja de Inicio: Kylo REN...'
 sku: 'B01N99QKOB-es'
 tags: [  ]

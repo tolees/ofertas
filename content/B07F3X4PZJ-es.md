@@ -5,7 +5,7 @@ date: 2020-01-31 00:13:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bkjGrkryL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3X4PZJ-es AmazonBasics - Juego de cama de franela con funda nórdica...'
 sku: 'B07F3X4PZJ-es'
 tags: [  ]

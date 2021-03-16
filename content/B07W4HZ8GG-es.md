@@ -5,7 +5,7 @@ date: 2020-08-25 08:57:01
 image: 'https://m.media-amazon.com/images/I/31PhCpeYr9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4HZ8GG-es Tommy Hilfiger Tommy Tipped Slim Polo Negro Black Small...'
 sku: 'B07W4HZ8GG-es'
 tags: [  ]

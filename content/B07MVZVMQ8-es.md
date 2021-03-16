@@ -5,7 +5,7 @@ date: 2020-08-13 22:15:52
 image: 'https://m.media-amazon.com/images/I/41Udx+3vNJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVZVMQ8-es WD My Passport Go 500 GB disco duro sólido externo -...'
 sku: 'B07MVZVMQ8-es'
 tags: [  ]

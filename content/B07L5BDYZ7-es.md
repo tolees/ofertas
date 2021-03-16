@@ -5,7 +5,7 @@ date: 2020-02-08 23:28:26
 image: 'https://m.media-amazon.com/images/I/319z-Jj49RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5BDYZ7-es BRA Efficient - Batería 3 piezas de aluminio fundido con...'
 sku: 'B07L5BDYZ7-es'
 tags: [  ]

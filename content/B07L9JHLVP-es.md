@@ -5,7 +5,7 @@ date: 2020-02-11 11:04:34
 image: 'https://m.media-amazon.com/images/I/51PcdMyQCXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9JHLVP-es Caja de Paternina Reserva D.O. Rioja Vino tinto - 6...'
 sku: 'B07L9JHLVP-es'
 tags: [  ]

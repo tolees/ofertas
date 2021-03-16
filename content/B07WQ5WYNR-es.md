@@ -5,7 +5,7 @@ date: 2020-09-16 16:12:19
 image: 'https://m.media-amazon.com/images/I/41yAEFvjd5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQ5WYNR-es DesigualBols brown Sugar RotterdamMujerBolsos mochilaBeige...'
 sku: 'B07WQ5WYNR-es'
 tags: [  ]

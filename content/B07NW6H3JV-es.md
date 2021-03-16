@@ -5,7 +5,7 @@ date: 2020-02-27 17:28:08
 image: 'https://m.media-amazon.com/images/I/416XRu33QaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW6H3JV-es Skechers Women s Flex Appeal 3.0-Satellites Trainers Grey...'
 sku: 'B07NW6H3JV-es'
 tags: [  ]

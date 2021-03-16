@@ -5,7 +5,7 @@ date: 2020-04-07 22:08:18
 image: 'https://m.media-amazon.com/images/I/314coHtvB1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081VHQ8FF-es Folconauto Simulation Penis Plush Toy-Soft Stuffed...'
 sku: 'B081VHQ8FF-es'
 tags: [  ]

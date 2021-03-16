@@ -5,7 +5,7 @@ date: 2020-10-08 20:18:30
 image: 'https://m.media-amazon.com/images/I/41GVh3hzzGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYT4TW-es PUMA Axis Zapatillas para Hombre Azul Peacoat White 37.5 EU'
 sku: 'B07KFYT4TW-es'
 tags: [  ]

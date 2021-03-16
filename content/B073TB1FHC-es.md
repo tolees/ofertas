@@ -5,7 +5,7 @@ date: 2020-01-27 19:48:43
 image: 'https://m.media-amazon.com/images/I/41dK2NlE4sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073TB1FHC-es Gigaset E260 - Teléfono inalámbrico teclas grandes...'
 sku: 'B073TB1FHC-es'
 tags: [  ]

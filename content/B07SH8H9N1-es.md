@@ -5,7 +5,7 @@ date: 2020-06-08 10:08:23
 image: 'https://m.media-amazon.com/images/I/51OAUcWFRrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SH8H9N1-es Santa Rita Pan Rallado Panko Estilo Japonés - 100 gr'
 sku: 'B07SH8H9N1-es'
 tags: [  ]

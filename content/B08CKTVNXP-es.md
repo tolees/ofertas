@@ -5,7 +5,7 @@ date: 2020-08-12 13:06:29
 image: 'https://m.media-amazon.com/images/I/51MKtI3M5wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKTVNXP-es FORMIZON Juguete Lanzador de Cohetes Juguete de...'
 sku: 'B08CKTVNXP-es'
 tags: [  ]

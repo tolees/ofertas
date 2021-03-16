@@ -5,7 +5,7 @@ date: 2020-03-01 02:19:09
 image: 'https://m.media-amazon.com/images/I/314htHPmXwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XR51DC-es Lenovo ideapad 520S-14IKB - Ordenador Portátil 14" Full HD...'
 sku: 'B077XR51DC-es'
 tags: [  ]

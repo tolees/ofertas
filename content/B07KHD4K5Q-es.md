@@ -5,7 +5,7 @@ date: 2020-07-02 08:53:37
 image: 'https://m.media-amazon.com/images/I/41o2y3TjvXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KHD4K5Q-es Under Armour Blitzing II - Gorra Hombre Rojo Red/White 610...'
 sku: 'B07KHD4K5Q-es'
 tags: [  ]

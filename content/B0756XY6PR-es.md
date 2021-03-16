@@ -5,7 +5,7 @@ date: 2020-05-31 22:30:41
 image: 'https://m.media-amazon.com/images/I/51X5ZmlwlFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756XY6PR-es Reloj - Menton Ezil - Para - MEWAEU9333'
 sku: 'B0756XY6PR-es'
 tags: [  ]

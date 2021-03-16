@@ -5,7 +5,7 @@ date: 2020-06-24 05:55:46
 image: 'https://m.media-amazon.com/images/I/51a5i++DQGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G6QBQZ3-es A'
 sku: 'B07G6QBQZ3-es'
 tags: [  ]

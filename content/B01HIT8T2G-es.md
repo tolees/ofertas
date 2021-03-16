@@ -5,7 +5,7 @@ date: 2020-10-02 12:53:08
 image: 'https://m.media-amazon.com/images/I/41rGkdkkjhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HIT8T2G-es HP 27wm - Monitor de 27" con altavoces IPS LED FHD 1920 x...'
 sku: 'B01HIT8T2G-es'
 tags: [  ]

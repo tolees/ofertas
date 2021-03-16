@@ -5,7 +5,7 @@ date: 2020-05-13 16:02:21
 image: 'https://m.media-amazon.com/images/I/51Sw+UYM4gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WPS2KN-es BelleStyle Alfombra Musical - Musical Canto Teclado Estera...'
 sku: 'B075WPS2KN-es'
 tags: [  ]

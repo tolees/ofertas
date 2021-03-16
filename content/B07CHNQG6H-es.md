@@ -5,7 +5,7 @@ date: 2020-08-26 20:33:10
 image: 'https://m.media-amazon.com/images/I/41rZnMyIQvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHNQG6H-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07CHNQG6H-es'
 tags: [  ]

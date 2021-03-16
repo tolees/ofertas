@@ -5,7 +5,7 @@ date: 2020-02-22 12:35:45
 image: 'https://m.media-amazon.com/images/I/41pRc0P2rDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB57CNN-es Woxter Stinger GX 250 H - Auriculares Gaming 7.1...'
 sku: 'B07HB57CNN-es'
 tags: [  ]

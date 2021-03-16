@@ -5,7 +5,7 @@ date: 2020-06-15 00:18:04
 image: 'https://m.media-amazon.com/images/I/41iNwPi3qeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MS4RBRL-es Supportiback® Cojín ortopédico para ciática espalda...'
 sku: 'B01MS4RBRL-es'
 tags: [  ]

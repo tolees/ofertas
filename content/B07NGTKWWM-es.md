@@ -5,7 +5,7 @@ date: 2020-04-02 22:45:28
 image: 'https://m.media-amazon.com/images/I/41JrWWU1sML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGTKWWM-es Cable guy Buzz Lightyear soporte de sujeción o carga para...'
 sku: 'B07NGTKWWM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 18:11:55
 image: 'https://m.media-amazon.com/images/I/51tFsDR5fnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KF4JQB-es Party Feet Scholl Plantillas Protector Talón Pack 2 Unidades'
 sku: 'B083KF4JQB-es'
 tags: [  ]

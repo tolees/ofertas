@@ -5,7 +5,7 @@ date: 2020-01-05 11:05:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PrdJ-eY9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A32WLZQ-es ZENBRE Parlante Bluetooth Z3 10W Parlante Inalámbrico...'
 sku: 'B01A32WLZQ-es'
 tags: [  ]

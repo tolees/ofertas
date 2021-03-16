@@ -5,7 +5,7 @@ date: 2020-02-26 10:48:13
 image: 'https://m.media-amazon.com/images/I/41dON3F1pAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P36SLJJ-es Skechers Zinger Zapatillas para Hombre Azul Blue...'
 sku: 'B07P36SLJJ-es'
 tags: [  ]

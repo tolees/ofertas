@@ -5,7 +5,7 @@ date: 2020-04-16 18:23:37
 image: 'https://m.media-amazon.com/images/I/51BskRi1LVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCCL76Z-es Mydours Reposamuñecas para Teclado Ergonómico Cojín de...'
 sku: 'B07YCCL76Z-es'
 tags: [  ]

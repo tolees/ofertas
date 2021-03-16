@@ -5,7 +5,7 @@ date: 2020-08-14 10:02:35
 image: 'https://m.media-amazon.com/images/I/41yPmf7FabL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZC7SGYS-es Scholl Plantilla In-Balance para el alivio del dolor de...'
 sku: 'B07ZC7SGYS-es'
 tags: [  ]

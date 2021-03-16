@@ -5,7 +5,7 @@ date: 2020-05-31 19:40:57
 image: 'https://m.media-amazon.com/images/I/51ifEU3UxlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7X3TY8-es Asiento del coche Organizador Bolsa de almacenamiento de...'
 sku: 'B07P7X3TY8-es'
 tags: [  ]

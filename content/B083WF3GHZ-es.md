@@ -5,7 +5,7 @@ date: 2020-05-16 11:32:04
 image: 'https://m.media-amazon.com/images/I/41pbPgU0qWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083WF3GHZ-es KYEYGWO Runas de Piedras Set con Gravur Golden Elder...'
 sku: 'B083WF3GHZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 06:05:37
 image: 'https://m.media-amazon.com/images/I/41GZYIk3CpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WR3WRK4-es Skechers Equalizer Double Play Men s Fitness Shoes Blue...'
 sku: 'B00WR3WRK4-es'
 tags: [  ]

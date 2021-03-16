@@ -5,7 +5,7 @@ date: 2020-02-11 16:53:12
 image: 'https://m.media-amazon.com/images/I/314SxKFmmKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0093HJOJO-es Dremel SC407 Mandril y bandas de Lija EZ Speedclic juego...'
 sku: 'B0093HJOJO-es'
 tags: [  ]

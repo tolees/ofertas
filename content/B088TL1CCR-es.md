@@ -5,7 +5,7 @@ date: 2020-08-12 12:54:57
 image: 'https://m.media-amazon.com/images/I/41Tsy+7Eq2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TL1CCR-es Anillo de luz LED 10" Ring Light 3 Colores 10 Brillos...'
 sku: 'B088TL1CCR-es'
 tags: [  ]

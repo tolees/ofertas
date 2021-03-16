@@ -5,7 +5,7 @@ date: 2020-06-17 06:46:57
 image: 'https://m.media-amazon.com/images/I/415Mt0tUSgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088KNXFGT-es Caja 50 Desechables Adultos 3 Pliegues CE FDA 175x95 mm Azul'
 sku: 'B088KNXFGT-es'
 tags: [  ]

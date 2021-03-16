@@ -5,7 +5,7 @@ date: 2020-09-27 09:42:20
 image: 'https://m.media-amazon.com/images/I/41qHQy4FudL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4MQC8F-es NIKE M CFD Pant FLC TM Club19 Pantalones de Deporte Hombre...'
 sku: 'B07N4MQC8F-es'
 tags: [  ]

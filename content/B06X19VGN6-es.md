@@ -5,7 +5,7 @@ date: 2020-09-09 10:30:02
 image: 'https://m.media-amazon.com/images/I/41AK7EIt5OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X19VGN6-es BERING Reloj Analógico para Unisex Adultos de Cuarzo con...'
 sku: 'B06X19VGN6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-17 12:41:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mGnbHoBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBT931D-es G★LAXIA Amoladora Angulare 750W 11000RPM Discos de 115mm...'
 sku: 'B07RBT931D-es'
 tags: [  ]

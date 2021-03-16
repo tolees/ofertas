@@ -5,7 +5,7 @@ date: 2020-04-04 05:11:54
 image: 'https://m.media-amazon.com/images/I/312LSiU8YZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005JSC3H6-es Panasonic LUMIX H-PS45175 - Objetivo Servo Zoom para...'
 sku: 'B005JSC3H6-es'
 tags: [  ]

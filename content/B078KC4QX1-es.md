@@ -5,7 +5,7 @@ date: 2020-01-18 19:02:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Btmum9XJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078KC4QX1-es Lebze Muselina Manta Bebé -"Diente de Leon" Bambú Algodón...'
 sku: 'B078KC4QX1-es'
 tags: [  ]

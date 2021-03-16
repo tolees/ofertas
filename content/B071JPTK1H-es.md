@@ -5,7 +5,7 @@ date: 2020-05-25 16:23:16
 image: 'https://m.media-amazon.com/images/I/51jvcGT1saL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JPTK1H-es Adidas Active Star Gel de ducha para Hombre 400 ml Pack de 4'
 sku: 'B071JPTK1H-es'
 tags: [  ]

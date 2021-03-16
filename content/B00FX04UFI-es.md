@@ -5,7 +5,7 @@ date: 2020-04-06 12:31:47
 image: 'https://m.media-amazon.com/images/I/614NDrxUGML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FX04UFI-es World Of Warcraft 5.0'
 sku: 'B00FX04UFI-es'
 tags: [  ]

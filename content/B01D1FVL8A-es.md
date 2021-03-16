@@ -5,7 +5,7 @@ date: 2020-08-11 02:45:36
 image: 'https://m.media-amazon.com/images/I/41DUEF6WsfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D1FVL8A-es PenDrives 8GB 5 Piezas Memorias USB - Portátil Pen Drive 8...'
 sku: 'B01D1FVL8A-es'
 tags: [  ]

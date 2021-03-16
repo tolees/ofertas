@@ -5,7 +5,7 @@ date: 2020-03-27 07:55:22
 image: 'https://m.media-amazon.com/images/I/41-ugk8sRsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y6MHXBP-es Proze - Carcasa Delgada de Silicona para iPhone 11 6 1" -...'
 sku: 'B07Y6MHXBP-es'
 tags: [  ]

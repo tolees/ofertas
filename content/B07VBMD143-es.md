@@ -5,7 +5,7 @@ date: 2020-04-29 08:04:08
 image: 'https://m.media-amazon.com/images/I/41ltHD4atxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBMD143-es DIXIUZA Diadema Cuerno de Unicornio Niñas Diadema para...'
 sku: 'B07VBMD143-es'
 tags: [  ]

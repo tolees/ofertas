@@ -5,7 +5,7 @@ date: 2020-06-30 21:40:24
 image: 'https://m.media-amazon.com/images/I/31UVux1OjjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWXJDTP-es 750ml A5 Botella de Agua Portable Transparente...'
 sku: 'B07DWXJDTP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 19:12:42
 image: 'https://m.media-amazon.com/images/I/31v7S5J7ovL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BH744BY-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07BH744BY-es'
 tags: [  ]

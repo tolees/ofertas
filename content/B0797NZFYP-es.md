@@ -5,7 +5,7 @@ date: 2020-02-08 09:05:16
 image: 'https://m.media-amazon.com/images/I/415EsJUQGrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797NZFYP-es Sabrent El hub USB de 10 Puertos y 60W con interruptores...'
 sku: 'B0797NZFYP-es'
 tags: [  ]

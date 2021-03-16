@@ -5,7 +5,7 @@ date: 2020-08-25 08:06:03
 image: 'https://m.media-amazon.com/images/I/41NEsPAVZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXKS3FQ-es Tommy Hilfiger TJM Nos Polo Azul Audacious Blue Czy Small...'
 sku: 'B07VXKS3FQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-28 11:36:10
 image: 'https://m.media-amazon.com/images/I/41RtdfECYkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001ELSSOO-es Seiko Reloj Analógico Automático para Hombre con Correa de...'
 sku: 'B001ELSSOO-es'
 tags: [  ]

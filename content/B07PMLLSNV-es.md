@@ -5,7 +5,7 @@ date: 2020-01-18 23:17:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31EDqm6prtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMLLSNV-es New Balance 373 Zapatillas para Hombre Verde Green/Black...'
 sku: 'B07PMLLSNV-es'
 tags: [  ]

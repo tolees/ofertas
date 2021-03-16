@@ -5,7 +5,7 @@ date: 2020-06-08 12:07:06
 image: 'https://m.media-amazon.com/images/I/41tSdnYtCjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WPT8WZ3-es Weehey Báscula de Cocina eléctrica precisa de 5 kg / 1g...'
 sku: 'B07WPT8WZ3-es'
 tags: [  ]

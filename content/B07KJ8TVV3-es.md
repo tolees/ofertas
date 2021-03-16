@@ -5,7 +5,7 @@ date: 2020-05-06 09:24:22
 image: 'https://m.media-amazon.com/images/I/41eF-JNeWPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJ8TVV3-es Litthing Calcetines Deportivos Antideslizantes de Algodón...'
 sku: 'B07KJ8TVV3-es'
 tags: [  ]

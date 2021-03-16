@@ -5,7 +5,7 @@ date: 2020-03-19 13:52:50
 image: 'https://m.media-amazon.com/images/I/410-A1w302L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004XG6EX4-es Max factor - Lipfinity bálsamo y brillo de labios color...'
 sku: 'B004XG6EX4-es'
 tags: [  ]

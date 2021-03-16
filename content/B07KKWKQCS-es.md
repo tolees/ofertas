@@ -5,7 +5,7 @@ date: 2020-02-01 08:34:46
 image: 'https://m.media-amazon.com/images/I/317FlOUafRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKWKQCS-es Nike B Dri-FIT Academy Wpz Pantalones Niños Azul...'
 sku: 'B07KKWKQCS-es'
 tags: [  ]

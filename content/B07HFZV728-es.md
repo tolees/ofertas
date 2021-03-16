@@ -5,7 +5,7 @@ date: 2020-05-10 18:54:51
 image: 'https://m.media-amazon.com/images/I/41WQsraVRHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFZV728-es New Balance 373 Zapatillas Hombre Gris Grey Grey 39.5 EU 6 UK'
 sku: 'B07HFZV728-es'
 tags: [  ]

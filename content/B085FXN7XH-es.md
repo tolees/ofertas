@@ -5,7 +5,7 @@ date: 2020-04-07 21:52:22
 image: 'https://m.media-amazon.com/images/I/51lSPOYdEfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085FXN7XH-es 6PCS PATAZOK Esponjas de Silicona para Cocina Fregadora de...'
 sku: 'B085FXN7XH-es'
 tags: [  ]

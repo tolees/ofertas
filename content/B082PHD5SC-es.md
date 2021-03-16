@@ -5,7 +5,7 @@ date: 2020-06-14 00:58:23
 image: 'https://m.media-amazon.com/images/I/51Bs8iI5wWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PHD5SC-es Rune Factory 4 Special'
 sku: 'B082PHD5SC-es'
 tags: [  ]

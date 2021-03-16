@@ -5,7 +5,7 @@ date: 2020-01-11 10:39:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KXpmS3HKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQW2Y8J-es Wonyered Caja de Seguridad Cerradura Fuerte con 4 Numeros...'
 sku: 'B07BQW2Y8J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 12:42:29
 image: 'https://m.media-amazon.com/images/I/41e7TiIn3gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SHX1BL-es Home Fleek - Envases de Vidrio para Alimentos | 6...'
 sku: 'B083SHX1BL-es'
 tags: [  ]

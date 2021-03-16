@@ -5,7 +5,7 @@ date: 2020-04-16 18:08:11
 image: 'https://m.media-amazon.com/images/I/51l3eHovuHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLFSQRD-es Té de Yunnan Rose Puerh 100g 0.22LB conservas de Rose Puer...'
 sku: 'B07GLFSQRD-es'
 tags: [  ]

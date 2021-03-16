@@ -5,7 +5,7 @@ date: 2020-06-24 01:28:38
 image: 'https://m.media-amazon.com/images/I/4175V5mxR9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9GGBVZ-es Pulsar Reloj de Vestir Inspirado en Diver con Pulsera de...'
 sku: 'B07V9GGBVZ-es'
 tags: [  ]

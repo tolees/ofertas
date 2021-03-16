@@ -5,7 +5,7 @@ date: 2020-05-20 07:54:01
 image: 'https://m.media-amazon.com/images/I/51DqutnlL2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WRBL3L-es tanggo Cycling Face Half Cover Carbono Antipolvo al Aire...'
 sku: 'B087WRBL3L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 11:55:23
 image: 'https://m.media-amazon.com/images/I/51iNnRjsubL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFTMPVP-es COOAU 4K Camara Deportiva cámara Web 20MP WiFi Underwater...'
 sku: 'B07YFTMPVP-es'
 tags: [  ]

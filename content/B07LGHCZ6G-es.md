@@ -5,7 +5,7 @@ date: 2020-02-03 20:28:51
 image: 'https://m.media-amazon.com/images/I/3195d2IQvVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGHCZ6G-es Nike Jordan CLC99 - Gorra Unisex Adulto Black/White MISC'
 sku: 'B07LGHCZ6G-es'
 tags: [  ]

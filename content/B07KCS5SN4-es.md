@@ -5,7 +5,7 @@ date: 2020-02-21 17:25:37
 image: 'https://m.media-amazon.com/images/I/41Z9Ja05K0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCS5SN4-es CYBEX - Silla de Paseo Eezy S Plegable con una Mano...'
 sku: 'B07KCS5SN4-es'
 tags: [  ]

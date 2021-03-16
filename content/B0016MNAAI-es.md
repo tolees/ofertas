@@ -5,7 +5,7 @@ date: 2020-08-21 11:19:48
 image: 'https://m.media-amazon.com/images/I/41-W6DFsXVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0016MNAAI-es Beyerdynamic DT 770 PRO 80 Ohm Auriculares de estudio'
 sku: 'B0016MNAAI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-24 00:40:52
 image: 'https://m.media-amazon.com/images/I/41m4f1n7huL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1GN4J-es PUMA Ralph Sampson LO Zapatillas Unisex Adulto Blanco...'
 sku: 'B07KG1GN4J-es'
 tags: [  ]

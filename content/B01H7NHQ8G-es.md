@@ -5,7 +5,7 @@ date: 2020-08-25 23:34:45
 image: 'https://m.media-amazon.com/images/I/41l15uSZ5AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H7NHQ8G-es Cuadro Fotográfico Composicion Frutas Tamaño total: 97 x...'
 sku: 'B01H7NHQ8G-es'
 tags: [  ]

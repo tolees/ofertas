@@ -5,7 +5,7 @@ date: 2020-04-03 23:01:46
 image: 'https://m.media-amazon.com/images/I/31R6R+XpkzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYFJHC-es PUMA Auriz V Jr Zapatillas de Balonmano Unisex Niños...'
 sku: 'B07KFYFJHC-es'
 tags: [  ]

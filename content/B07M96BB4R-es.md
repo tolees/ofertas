@@ -5,7 +5,7 @@ date: 2020-09-18 17:49:08
 image: 'https://m.media-amazon.com/images/I/41cu917kXNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M96BB4R-es KangaROOS Snowdrifter Zapatillas Unisex bebé Blau Dark...'
 sku: 'B07M96BB4R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-16 12:05:45
 image: 'https://m.media-amazon.com/images/I/418xFTNiSxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5HNWML-es Tom Tailor Leichter suéter Multicolor Multi Color Melange...'
 sku: 'B07V5HNWML-es'
 tags: [  ]

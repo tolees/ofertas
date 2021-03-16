@@ -5,7 +5,7 @@ date: 2020-05-10 16:04:57
 image: 'https://m.media-amazon.com/images/I/41NQxr1u+WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KFL8HQ2-es Philips Optimal Temp GC8723/20 - Centro de Planchado de 6...'
 sku: 'B01KFL8HQ2-es'
 tags: [  ]

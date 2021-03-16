@@ -5,7 +5,7 @@ date: 2020-01-02 21:52:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51WlK8Uu3CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NPYJJT-es NUOLUX Jumbo Foil Love Balloon romántica boda nupcial...'
 sku: 'B075NPYJJT-es'
 tags: [  ]

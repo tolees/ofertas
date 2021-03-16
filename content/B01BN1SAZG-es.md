@@ -5,7 +5,7 @@ date: 2020-01-26 20:32:41
 image: 'https://m.media-amazon.com/images/I/41EGWjUSGgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BN1SAZG-es ISDIN Lambdapil Cápsulas Anticaída del Cabello Fortalece...'
 sku: 'B01BN1SAZG-es'
 tags: [  ]

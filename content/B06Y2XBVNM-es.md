@@ -5,7 +5,7 @@ date: 2020-07-13 04:23:03
 image: 'https://m.media-amazon.com/images/I/41DtgZ6niEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2XBVNM-es New Balance 574 Core Zapatillas Hombre Negro Black EGK...'
 sku: 'B06Y2XBVNM-es'
 tags: [  ]

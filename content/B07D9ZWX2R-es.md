@@ -5,7 +5,7 @@ date: 2020-08-15 05:28:57
 image: 'https://m.media-amazon.com/images/I/517MW8yAuxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9ZWX2R-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07D9ZWX2R-es'
 tags: [  ]

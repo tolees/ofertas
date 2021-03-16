@@ -5,7 +5,7 @@ date: 2020-01-18 19:32:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51eUM5uTAUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3VFM97-es Emma & Giovanni - Pullover- Mujer Beige M/L'
 sku: 'B07H3VFM97-es'
 tags: [  ]

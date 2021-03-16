@@ -5,7 +5,7 @@ date: 2020-01-18 04:46:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vde3pIjTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LIU07C-es HP CB540AD 125A Cartucho de Tóner Original 2 unidades negro'
 sku: 'B002LIU07C-es'
 tags: [  ]

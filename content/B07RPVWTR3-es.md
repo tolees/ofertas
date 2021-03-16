@@ -5,7 +5,7 @@ date: 2020-03-17 18:21:04
 image: 'https://m.media-amazon.com/images/I/41IOcheLzjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPVWTR3-es Wahl Detailer Afro - Cortapelos Negro'
 sku: 'B07RPVWTR3-es'
 tags: [  ]

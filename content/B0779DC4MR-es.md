@@ -5,7 +5,7 @@ date: 2020-09-11 05:34:22
 image: 'https://m.media-amazon.com/images/I/31Ze03uBbUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779DC4MR-es adidas Santos Sock 18 Calcetines Unisex Adulto Black/White...'
 sku: 'B0779DC4MR-es'
 tags: [  ]

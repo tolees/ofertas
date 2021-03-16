@@ -5,7 +5,7 @@ date: 2020-05-06 12:20:34
 image: 'https://m.media-amazon.com/images/I/41oBAb-jwkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076WWKK9V-es SEKONDA Reloj de Pulsera 1521E.05'
 sku: 'B076WWKK9V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 11:29:55
 image: 'https://m.media-amazon.com/images/I/517KbFzmwcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZP4NVP5-es BANLVS Smartwatch 1.4 Inch Reloj Inteligente IP67 con...'
 sku: 'B07ZP4NVP5-es'
 tags: [  ]

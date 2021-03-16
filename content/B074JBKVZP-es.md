@@ -5,7 +5,7 @@ date: 2020-04-07 13:15:13
 image: 'https://m.media-amazon.com/images/I/51xJVqufSWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074JBKVZP-es Rhyme Extensiones de Cabello Arco Iris Clip de Extensiones...'
 sku: 'B074JBKVZP-es'
 tags: [  ]

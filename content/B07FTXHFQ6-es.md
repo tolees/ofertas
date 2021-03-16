@@ -5,7 +5,7 @@ date: 2020-01-03 08:25:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41frXrRssvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTXHFQ6-es Pour Moi? Ditto Underwired Bra Sujetador con Aros Blanco...'
 sku: 'B07FTXHFQ6-es'
 tags: [  ]

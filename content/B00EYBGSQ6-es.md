@@ -5,7 +5,7 @@ date: 2020-05-27 13:45:32
 image: 'https://m.media-amazon.com/images/I/410OeoDievL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EYBGSQ6-es Invicta'
 sku: 'B00EYBGSQ6-es'
 tags: [  ]

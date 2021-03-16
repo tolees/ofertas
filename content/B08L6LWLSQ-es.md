@@ -5,7 +5,7 @@ date: 2021-01-30 09:29:30
 image: 'https://m.media-amazon.com/images/I/41gV93voKGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08L6LWLSQ-es MooSoo Aspiradora de mano ciclónica 17000Pa 2 en 1'
 sku: 'B08L6LWLSQ-es'
 tags: [ 'moosoo', ]

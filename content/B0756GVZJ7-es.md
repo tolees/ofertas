@@ -5,7 +5,7 @@ date: 2020-05-08 08:29:44
 image: 'https://m.media-amazon.com/images/I/31SvYOFli7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756GVZJ7-es Rexona Roll-On Tropical Desodorante para Mujer - 50 ml'
 sku: 'B0756GVZJ7-es'
 tags: [  ]

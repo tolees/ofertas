@@ -5,7 +5,7 @@ date: 2020-01-28 12:06:21
 image: 'https://m.media-amazon.com/images/I/414FY4cwQiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYJN3FG-es On Paws ‘Sleep Well Lounger’ Marron tamaño M 65 x 50 cm'
 sku: 'B01LYJN3FG-es'
 tags: [  ]

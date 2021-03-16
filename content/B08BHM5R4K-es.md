@@ -5,7 +5,7 @@ date: 2020-08-15 06:30:43
 image: 'https://m.media-amazon.com/images/I/314kXqZsh1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHM5R4K-es Ventilador Personal Portáti Ventilador de Cuello Colgante...'
 sku: 'B08BHM5R4K-es'
 tags: [  ]

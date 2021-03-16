@@ -5,7 +5,7 @@ date: 2020-09-22 19:08:54
 image: 'https://m.media-amazon.com/images/I/31ZjA0ywv1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7V49SW-es Sika 528149 Sellador acrílico Blanco 300 ml'
 sku: 'B07D7V49SW-es'
 tags: [  ]

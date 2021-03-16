@@ -5,7 +5,7 @@ date: 2020-05-17 13:37:14
 image: 'https://m.media-amazon.com/images/I/51ZZCxca4UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RKTJW2-es Paquete de 100 Unidades – se suministra en Bolsa sellada...'
 sku: 'B087RKTJW2-es'
 tags: [  ]

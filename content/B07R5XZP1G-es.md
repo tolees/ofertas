@@ -5,7 +5,7 @@ date: 2020-07-13 11:33:14
 image: 'https://m.media-amazon.com/images/I/41nYozFHD1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5XZP1G-es Boston Tech SP1 - Botella de Agua de Acero Inoxidable...'
 sku: 'B07R5XZP1G-es'
 tags: [  ]

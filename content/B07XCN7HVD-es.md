@@ -5,7 +5,7 @@ date: 2020-04-23 09:18:12
 image: 'https://m.media-amazon.com/images/I/519BBwPML5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCN7HVD-es SKY LIGHT Olla aluminio 26cm / 6.4L Embalaje caja de...'
 sku: 'B07XCN7HVD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-04 10:52:19
 image: 'https://m.media-amazon.com/images/I/41WDH-WeoNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDHSZ46-es Clean Pulse One - Irrigador bucal - Higiene Dental...'
 sku: 'B07BDHSZ46-es'
 tags: [  ]

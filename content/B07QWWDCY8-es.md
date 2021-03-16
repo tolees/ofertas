@@ -5,7 +5,7 @@ date: 2020-04-05 09:45:49
 image: 'https://m.media-amazon.com/images/I/51HnnCbgw0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWWDCY8-es Alienwork Reloj Mecánico Automático Relojes Automáticos...'
 sku: 'B07QWWDCY8-es'
 tags: [  ]

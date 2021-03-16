@@ -5,7 +5,7 @@ date: 2020-02-27 18:55:31
 image: 'https://m.media-amazon.com/images/I/61wpJVyP5zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J5NIYGE-es Educa Borrás- Juego de Mesa Color Variado 16988'
 sku: 'B01J5NIYGE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-28 18:28:57
 image: 'https://m.media-amazon.com/images/I/31Q6JI2Q-ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N2JE7K0-es Philips HU4706/11 – Humidificador con Tecnología NanoCloud...'
 sku: 'B00N2JE7K0-es'
 tags: [  ]

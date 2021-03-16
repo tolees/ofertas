@@ -5,7 +5,7 @@ date: 2020-02-25 09:44:02
 image: 'https://m.media-amazon.com/images/I/51O0-iBag6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLCC6W3-es ROMIX Colchoneta de Yoga Antideslizante Extra Gruesa 10MM...'
 sku: 'B07TLCC6W3-es'
 tags: [  ]

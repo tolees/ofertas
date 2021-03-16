@@ -5,7 +5,7 @@ date: 2020-04-27 13:03:41
 image: 'https://m.media-amazon.com/images/I/41l5epXdLYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZSDWXW-es Baby Einstein 11311 Andador y Centro de Actividades...'
 sku: 'B07QZSDWXW-es'
 tags: [  ]

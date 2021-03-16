@@ -5,7 +5,7 @@ date: 2020-04-21 16:29:52
 image: 'https://m.media-amazon.com/images/I/51DlrlgU+VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVGZ9WH-es Nosotros 4K UHD + BD [Blu-ray]'
 sku: 'B07SVGZ9WH-es'
 tags: [  ]

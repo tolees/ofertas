@@ -5,7 +5,7 @@ date: 2020-09-23 09:12:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-P75RDhKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CT2MLWV-es ZD Paños de Cocina RIZO 100% Algodón Con Dibujo Bordado...'
 sku: 'B07CT2MLWV-es'
 tags: [  ]

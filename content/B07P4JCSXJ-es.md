@@ -5,7 +5,7 @@ date: 2020-09-06 19:33:42
 image: 'https://m.media-amazon.com/images/I/41Vq764o+YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4JCSXJ-es Superdry Jacob Henley suéter Gris Concrete Twist THU XS...'
 sku: 'B07P4JCSXJ-es'
 tags: [  ]

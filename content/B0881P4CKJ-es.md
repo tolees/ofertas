@@ -5,7 +5,7 @@ date: 2020-06-26 11:21:35
 image: 'https://m.media-amazon.com/images/I/41pf5l-XiVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0881P4CKJ-es XTI - Sandalia Plana Casual - Cierre con Hebilla - Color...'
 sku: 'B0881P4CKJ-es'
 tags: [  ]

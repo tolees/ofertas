@@ -5,7 +5,7 @@ date: 2020-06-30 17:09:11
 image: 'https://m.media-amazon.com/images/I/31OFMCpRLgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SBDTZNG-es L Oréal Paris Barra de Labios Color Riche 132'
 sku: 'B00SBDTZNG-es'
 tags: [  ]

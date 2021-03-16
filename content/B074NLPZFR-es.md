@@ -5,7 +5,7 @@ date: 2020-02-08 16:37:32
 image: 'https://m.media-amazon.com/images/I/414vtyTF8yL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074NLPZFR-es Funko Pop! - Figura de Vinilo Bashful 21719'
 sku: 'B074NLPZFR-es'
 tags: [  ]

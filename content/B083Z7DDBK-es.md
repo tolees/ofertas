@@ -5,7 +5,7 @@ date: 2020-06-23 18:03:36
 image: 'https://m.media-amazon.com/images/I/31gaRXQhLDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083Z7DDBK-es Panamami Auricular Individual de 3 5 mm Auricular con...'
 sku: 'B083Z7DDBK-es'
 tags: [  ]

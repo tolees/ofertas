@@ -5,7 +5,7 @@ date: 2020-08-01 12:03:04
 image: 'https://m.media-amazon.com/images/I/313QfoEFMhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHDKQH4-es Hackett London Slim Fit Logo Polo Azul 5dinavy/Blue 5di...'
 sku: 'B07VHDKQH4-es'
 tags: [  ]

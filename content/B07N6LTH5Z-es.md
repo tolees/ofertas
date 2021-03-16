@@ -5,7 +5,7 @@ date: 2020-04-11 12:08:22
 image: 'https://m.media-amazon.com/images/I/41X9WVc8RWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6LTH5Z-es JACK & JONES Jjirick Jjicon Shorts GE 854 I.k. STS...'
 sku: 'B07N6LTH5Z-es'
 tags: [  ]

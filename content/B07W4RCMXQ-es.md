@@ -5,7 +5,7 @@ date: 2020-05-11 18:45:25
 image: 'https://m.media-amazon.com/images/I/215V4uSUDsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4RCMXQ-es SimpleLife Maleta Estuche para Equipaje Manija Correa de...'
 sku: 'B07W4RCMXQ-es'
 tags: [  ]

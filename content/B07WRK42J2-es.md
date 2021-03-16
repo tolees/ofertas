@@ -5,7 +5,7 @@ date: 2020-07-08 06:30:48
 image: 'https://m.media-amazon.com/images/I/41Wrx-K88CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRK42J2-es Black Shark 2 8GB+128GB Azul con Switch Kit Black Shark...'
 sku: 'B07WRK42J2-es'
 tags: [  ]

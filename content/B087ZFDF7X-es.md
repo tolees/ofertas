@@ -5,7 +5,7 @@ date: 2020-06-13 11:45:40
 image: 'https://m.media-amazon.com/images/I/618Mif-hA6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087ZFDF7X-es Pintar por números para adultos la chica en el bosque'
 sku: 'B087ZFDF7X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-14 17:54:02
 image: 'https://m.media-amazon.com/images/I/41ZbhcHW3bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0IV4L1-es L Oreal Paris Casting Crème Gloss Tropical Spray Aclarado...'
 sku: 'B01M0IV4L1-es'
 tags: [  ]

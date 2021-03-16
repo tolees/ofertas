@@ -5,7 +5,7 @@ date: 2020-02-10 09:46:30
 image: 'https://m.media-amazon.com/images/I/51OynJ7yuSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS7S5BZ-es Almohada de Viaje Almohada Cervical de Viaje Almohada de...'
 sku: 'B07VS7S5BZ-es'
 tags: [  ]

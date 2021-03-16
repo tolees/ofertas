@@ -5,7 +5,7 @@ date: 2020-01-01 20:57:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pBeS50qiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CK88IBC-es Redken Curvaceous Unisex Champú 300 ml - Champues Unisex...'
 sku: 'B01CK88IBC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-26 06:40:39
 image: 'https://m.media-amazon.com/images/I/31nxJajEZXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4BMRNL-es Formulaone Thunderbolt 3 Hub USB Dock USB Tipo C a HDMI...'
 sku: 'B07K4BMRNL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-15 12:50:40
 image: 'https://m.media-amazon.com/images/I/41mdRXG+rGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYF6FSR-es MODAUTO Asiento Deportivo Coche Baquet Deportivo de Tela...'
 sku: 'B07HYF6FSR-es'
 tags: [  ]

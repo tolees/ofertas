@@ -5,7 +5,7 @@ date: 2020-06-13 15:41:13
 image: 'https://m.media-amazon.com/images/I/41z+3t9pCuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IO18AP4-es Lotus Reloj Analógico para Niñas de Cuarzo con Correa en...'
 sku: 'B00IO18AP4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 19:18:39
 image: 'https://m.media-amazon.com/images/I/41o8oQGo60L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXKZSM6-es Levi s 502 Regular Taper Jeans Azul Stonewash Stretch T2...'
 sku: 'B07RXKZSM6-es'
 tags: [  ]

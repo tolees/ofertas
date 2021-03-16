@@ -5,7 +5,7 @@ date: 2020-07-23 09:06:12
 image: 'https://m.media-amazon.com/images/I/51Fbpc8JDwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073X3L3WH-es PDP - Pixel Pals DC Comics Superman'
 sku: 'B073X3L3WH-es'
 tags: [  ]

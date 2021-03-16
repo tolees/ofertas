@@ -5,7 +5,7 @@ date: 2020-09-22 15:58:12
 image: 'https://m.media-amazon.com/images/I/51p6z7v6yaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3QQ6XP-es Cojín de viaje Bicaslove Memory Foam U Neck Pillow y...'
 sku: 'B07Z3QQ6XP-es'
 tags: [  ]

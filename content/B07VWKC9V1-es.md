@@ -5,7 +5,7 @@ date: 2020-04-16 08:48:39
 image: 'https://m.media-amazon.com/images/I/41YbblAxzHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWKC9V1-es REYLEO Maleta Cabina Rígida 100% Polipropileno Equipaje de...'
 sku: 'B07VWKC9V1-es'
 tags: [  ]

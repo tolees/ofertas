@@ -5,7 +5,7 @@ date: 2020-02-29 09:20:44
 image: 'https://m.media-amazon.com/images/I/416u-hmkUgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WW32YKR-es Balvi Felpudo Van Color marrón Goma/Nylon 47 x 70 cm'
 sku: 'B06WW32YKR-es'
 tags: [  ]

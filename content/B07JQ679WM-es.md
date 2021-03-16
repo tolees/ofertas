@@ -5,7 +5,7 @@ date: 2020-09-06 10:55:22
 image: 'https://m.media-amazon.com/images/I/41qWWA1BUhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQ679WM-es Champion Performance Crew Calcetines de deporte Multicolor...'
 sku: 'B07JQ679WM-es'
 tags: [  ]

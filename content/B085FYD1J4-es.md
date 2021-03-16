@@ -5,7 +5,7 @@ date: 2020-08-03 20:14:45
 image: 'https://m.media-amazon.com/images/I/51cGd3MTTvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085FYD1J4-es Bandas de Resistencia Gluteos Set -Conjunto de Bandas de...'
 sku: 'B085FYD1J4-es'
 tags: [  ]

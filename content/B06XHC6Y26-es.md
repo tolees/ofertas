@@ -5,7 +5,7 @@ date: 2020-03-13 04:34:30
 image: 'https://m.media-amazon.com/images/I/31WJ22JLoCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHC6Y26-es Helly Hansen HH LIFA T-Shirt SS Baselayer Hombre Negro...'
 sku: 'B06XHC6Y26-es'
 tags: [  ]

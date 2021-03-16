@@ -5,7 +5,7 @@ date: 2020-04-18 02:57:47
 image: 'https://m.media-amazon.com/images/I/31I-I9ybEdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBSH1H-es Key chain Pop Tomb Raider Llavero Funko Lara Croft Color...'
 sku: 'B07DFBSH1H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 18:12:43
 image: 'https://m.media-amazon.com/images/I/41XswNd5+oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VNZ1LM-es Dickies Gilmer Cinturón Negro No Aplica Talla del...'
 sku: 'B077VNZ1LM-es'
 tags: [  ]

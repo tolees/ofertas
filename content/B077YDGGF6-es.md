@@ -5,7 +5,7 @@ date: 2020-01-02 07:55:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31kHp4YQvKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDGGF6-es Cybex Gold Pallas S-Fix - Silla de coche 2 en 1 para...'
 sku: 'B077YDGGF6-es'
 tags: [  ]

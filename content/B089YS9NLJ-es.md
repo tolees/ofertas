@@ -5,7 +5,7 @@ date: 2020-07-07 14:02:33
 image: 'https://m.media-amazon.com/images/I/4122ueqRuzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089YS9NLJ-es 3Ciker Case compatible con Samsung Galaxy A50 funda...'
 sku: 'B089YS9NLJ-es'
 tags: [  ]

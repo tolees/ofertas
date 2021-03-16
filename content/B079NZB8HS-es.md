@@ -5,7 +5,7 @@ date: 2020-02-18 11:04:30
 image: 'https://m.media-amazon.com/images/I/318JIINGAzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NZB8HS-es Hapilife Grifo De Cocina Extraible Monomando...'
 sku: 'B079NZB8HS-es'
 tags: [  ]

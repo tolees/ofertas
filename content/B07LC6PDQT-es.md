@@ -5,7 +5,7 @@ date: 2020-01-07 18:00:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411DjPBHWrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LC6PDQT-es BOSS Prime Polo Azul Light/Pastel Blue 454 XX-Large para...'
 sku: 'B07LC6PDQT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-22 17:10:26
 image: 'https://m.media-amazon.com/images/I/31f95O+dpGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZNBVND-es 28 Palms Tropical Hawaiian Print Halter Shift Dress...'
 sku: 'B07JZNBVND-es'
 tags: [  ]

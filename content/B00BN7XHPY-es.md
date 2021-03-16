@@ -5,7 +5,7 @@ date: 2020-07-29 20:12:51
 image: 'https://m.media-amazon.com/images/I/312+yDevoNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN7XHPY-es Atkinsons Desodorante - 200 ml.'
 sku: 'B00BN7XHPY-es'
 tags: [  ]

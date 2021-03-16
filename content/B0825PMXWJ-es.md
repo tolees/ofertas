@@ -5,7 +5,7 @@ date: 2020-06-30 10:35:30
 image: 'https://m.media-amazon.com/images/I/41IrPqvANHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825PMXWJ-es Roxy Whole Hearted - Licra De Manga Corta con Protección...'
 sku: 'B0825PMXWJ-es'
 tags: [  ]

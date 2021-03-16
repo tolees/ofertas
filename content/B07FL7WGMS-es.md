@@ -5,7 +5,7 @@ date: 2020-03-16 20:40:50
 image: 'https://m.media-amazon.com/images/I/31UdUpEbipL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FL7WGMS-es Pekitas - Colchón minicuna 50 x 75 cm Funda 3D Erogonómico...'
 sku: 'B07FL7WGMS-es'
 tags: [  ]

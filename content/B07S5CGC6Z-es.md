@@ -5,7 +5,7 @@ date: 2020-10-02 20:42:46
 image: 'https://m.media-amazon.com/images/I/51pYlP0G1xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5CGC6Z-es Keten Alfombra Inflable con Agua Tapete de PVC a Prueba de...'
 sku: 'B07S5CGC6Z-es'
 tags: [  ]

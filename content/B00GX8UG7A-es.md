@@ -5,7 +5,7 @@ date: 2020-03-07 23:03:32
 image: 'https://m.media-amazon.com/images/I/31YHwWJoA5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GX8UG7A-es Clarifex Gel y jabón - 50 ml'
 sku: 'B00GX8UG7A-es'
 tags: [  ]

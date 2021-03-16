@@ -5,7 +5,7 @@ date: 2020-04-20 13:02:07
 image: 'https://m.media-amazon.com/images/I/51MwV9MEQAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ST8QPG3-es Lebze Bebé Muselina Swaddle Manta "Diseño de Elefante"...'
 sku: 'B07ST8QPG3-es'
 tags: [  ]

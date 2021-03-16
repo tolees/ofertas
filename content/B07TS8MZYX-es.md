@@ -5,7 +5,7 @@ date: 2020-09-13 22:22:45
 image: 'https://m.media-amazon.com/images/I/411w4NswKIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS8MZYX-es Funko- Pop Games: Rage 2-Immortal Shroud Collectible Toy...'
 sku: 'B07TS8MZYX-es'
 tags: [  ]

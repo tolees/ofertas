@@ -5,7 +5,7 @@ date: 2020-05-07 13:41:30
 image: 'https://m.media-amazon.com/images/I/41tKDfgvHBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQS59LL-es Skechers Men s STAMINA CUTBACK Trainers Black Black...'
 sku: 'B07NQS59LL-es'
 tags: [  ]

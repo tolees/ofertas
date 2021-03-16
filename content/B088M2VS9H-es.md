@@ -5,7 +5,7 @@ date: 2020-09-06 14:31:12
 image: 'https://m.media-amazon.com/images/I/51SMNwLQotL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M2VS9H-es Suhctup Funda Compatible con Samsung Galaxy A30s...'
 sku: 'B088M2VS9H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 13:23:11
 image: 'https://m.media-amazon.com/images/I/41kyaZZkDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7P3RXH-es Garnier BIO - Kit Limpiador incluye Gel Detox Lemongrass...'
 sku: 'B07P7P3RXH-es'
 tags: [  ]

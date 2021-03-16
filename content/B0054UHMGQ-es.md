@@ -5,7 +5,7 @@ date: 2020-02-11 06:55:28
 image: 'https://m.media-amazon.com/images/I/41NCuAa7WxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0054UHMGQ-es Durex Lubricante Play Massage 2 en 1 Gel de Masaje...'
 sku: 'B0054UHMGQ-es'
 tags: [  ]

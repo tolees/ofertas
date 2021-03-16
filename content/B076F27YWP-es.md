@@ -5,7 +5,7 @@ date: 2020-01-20 09:45:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dB%2BWlwLGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076F27YWP-es HDML-Cloner Box Turbo 1080p Dispositivo de Captura de HDMI...'
 sku: 'B076F27YWP-es'
 tags: [  ]

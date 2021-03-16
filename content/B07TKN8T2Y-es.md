@@ -5,7 +5,7 @@ date: 2020-08-04 04:09:19
 image: 'https://m.media-amazon.com/images/I/31t+4FLgktL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKN8T2Y-es Clarks Step Allena Go Zapatillas para Mujer Beige White...'
 sku: 'B07TKN8T2Y-es'
 tags: [  ]

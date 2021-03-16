@@ -5,7 +5,7 @@ date: 2020-05-29 14:11:26
 image: 'https://m.media-amazon.com/images/I/417ZWIMyvuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT9W4K4-es adidas Stan Smith Zapatillas Unisex bebé Blanco Footwear...'
 sku: 'B01MT9W4K4-es'
 tags: [  ]

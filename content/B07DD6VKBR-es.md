@@ -5,7 +5,7 @@ date: 2020-03-03 15:35:59
 image: 'https://m.media-amazon.com/images/I/51bS77vYXWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD6VKBR-es Gormiti GRM05000 Hyperbeast Animal con Sonidos y Figura de...'
 sku: 'B07DD6VKBR-es'
 tags: [  ]

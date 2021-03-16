@@ -5,7 +5,7 @@ date: 2020-04-27 20:05:16
 image: 'https://m.media-amazon.com/images/I/41Jm8smXgVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TNTGWR-es Funko Pop!- Pop Marvel: X-Men-Colossus Figura de Vinilo...'
 sku: 'B079TNTGWR-es'
 tags: [  ]

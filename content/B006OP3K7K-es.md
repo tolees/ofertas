@@ -5,7 +5,7 @@ date: 2020-03-07 10:10:50
 image: 'https://m.media-amazon.com/images/I/419sLFZBavL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006OP3K7K-es Puma 205203001 Calcetines Para Bebés Multicolor Powder...'
 sku: 'B006OP3K7K-es'
 tags: [  ]

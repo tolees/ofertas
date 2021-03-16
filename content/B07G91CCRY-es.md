@@ -5,7 +5,7 @@ date: 2020-07-10 16:30:48
 image: 'https://m.media-amazon.com/images/I/51WqL9UefiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G91CCRY-es Bonsenkitchen Envasadora al Vacío Sellador al Vacío de...'
 sku: 'B07G91CCRY-es'
 tags: [  ]

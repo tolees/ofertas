@@ -5,7 +5,7 @@ date: 2020-01-22 15:50:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qMTcTUk3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFZTVPQ-es New Balance 574v2 Zapatillas para Mujer Rosa Pink Pink 35 EU'
 sku: 'B07HFZTVPQ-es'
 tags: [  ]

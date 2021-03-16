@@ -5,7 +5,7 @@ date: 2020-01-15 12:39:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51TZ89cM27L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGN2X5X-es TACKLIFE - Juego de taladros profesionales 110 piezas con...'
 sku: 'B07VGN2X5X-es'
 tags: [  ]

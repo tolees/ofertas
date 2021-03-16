@@ -5,7 +5,7 @@ date: 2020-03-27 16:53:16
 image: 'https://m.media-amazon.com/images/I/3195452dxAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711LZNFS-es Under Armour UA Heatgear Ankle Crop Leggings Capri Mujer...'
 sku: 'B0711LZNFS-es'
 tags: [  ]

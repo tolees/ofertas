@@ -5,7 +5,7 @@ date: 2020-02-11 04:30:19
 image: 'https://m.media-amazon.com/images/I/41q80aCd4gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001GNBVPI-es Max Factor Crème Puff Polvos Compactos Tono 005...'
 sku: 'B001GNBVPI-es'
 tags: [  ]

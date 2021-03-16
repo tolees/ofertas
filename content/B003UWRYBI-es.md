@@ -5,7 +5,7 @@ date: 2020-04-15 21:21:27
 image: 'https://m.media-amazon.com/images/I/41MBNYmPfAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003UWRYBI-es TP-Link TL-SG1016D - Gigabit Ethernet con 16 Puertos...'
 sku: 'B003UWRYBI-es'
 tags: [  ]

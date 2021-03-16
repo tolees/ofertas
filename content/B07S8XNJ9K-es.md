@@ -5,7 +5,7 @@ date: 2020-09-28 21:32:59
 image: 'https://m.media-amazon.com/images/I/616sfiozXrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8XNJ9K-es GREAT ART Foto Mural New York Skyline al Atardecer Ciudad...'
 sku: 'B07S8XNJ9K-es'
 tags: [  ]

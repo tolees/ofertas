@@ -5,7 +5,7 @@ date: 2020-06-05 12:42:24
 image: 'https://m.media-amazon.com/images/I/41ScmazTqjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FV6A45E-es Frozen Fiesta Cumpleaños Globos Olaf 58 x 104 cm Anagram...'
 sku: 'B00FV6A45E-es'
 tags: [  ]

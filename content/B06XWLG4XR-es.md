@@ -5,7 +5,7 @@ date: 2020-09-07 22:50:37
 image: 'https://m.media-amazon.com/images/I/51eO2uLfm8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWLG4XR-es Evilandat - Placa metálica de matrícula de la ruta 66 de...'
 sku: 'B06XWLG4XR-es'
 tags: [  ]

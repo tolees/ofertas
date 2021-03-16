@@ -5,7 +5,7 @@ date: 2020-01-04 12:02:16
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076LLT64M-es HomCom Lámpara de Pie Moderna con 2 Luces E27 40W y...'
 sku: 'B076LLT64M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 12:50:32
 image: 'https://m.media-amazon.com/images/I/41oxvme8nyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0143MZD7A-es Flexible LED Brillante Luz USB Alimentado Multi Propósito...'
 sku: 'B0143MZD7A-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-16 16:03:46
 image: 'https://m.media-amazon.com/images/I/41gqCfMRqIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081GLYS29-es Purificador de Aire Alergia con Filtro HEPA y Carbón...'
 sku: 'B081GLYS29-es'
 tags: [  ]

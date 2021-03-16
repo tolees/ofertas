@@ -5,7 +5,7 @@ date: 2020-02-09 17:15:02
 image: 'https://m.media-amazon.com/images/I/31nH6yl9GBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFDPJVD-es USB Recargable Calentador De Manos 6000 mAh Banco De...'
 sku: 'B07KFDPJVD-es'
 tags: [  ]

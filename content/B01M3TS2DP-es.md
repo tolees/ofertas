@@ -5,7 +5,7 @@ date: 2020-05-07 09:22:10
 image: 'https://m.media-amazon.com/images/I/41jPGluftwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3TS2DP-es DANISH ENDURANCE Calcetines de Compresión de Algodón...'
 sku: 'B01M3TS2DP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 20:01:43
 image: 'https://m.media-amazon.com/images/I/41GDqqYEPbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015ZO9OVQ-es Pioneer Se-MJ771BT-W - Auriculares microfono Bluetooth...'
 sku: 'B015ZO9OVQ-es'
 tags: [  ]

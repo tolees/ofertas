@@ -5,7 +5,7 @@ date: 2020-04-01 10:28:57
 image: 'https://m.media-amazon.com/images/I/31+2pc05MmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W8UTRGS-es Aura DVBT 50 Aquarius - Sintonizador de TV'
 sku: 'B00W8UTRGS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-16 15:44:05
 image: 'https://m.media-amazon.com/images/I/316XxrZhsVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XF7TVX6-es Funko- Pop Ride: Frozen 2-Elsa Riding Nokk Figura...'
 sku: 'B07XF7TVX6-es'
 tags: [  ]

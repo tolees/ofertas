@@ -5,7 +5,7 @@ date: 2020-07-18 13:58:21
 image: 'https://m.media-amazon.com/images/I/41pjRuh-UlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PCS6N3S-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Begonia...'
 sku: 'B00PCS6N3S-es'
 tags: [  ]

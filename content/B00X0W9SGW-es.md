@@ -5,7 +5,7 @@ date: 2020-05-07 17:20:14
 image: 'https://m.media-amazon.com/images/I/41FM5Odwj5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X0W9SGW-es Tommy Hilfiger Eton Trifold Catera para Hombre Black 2...'
 sku: 'B00X0W9SGW-es'
 tags: [  ]

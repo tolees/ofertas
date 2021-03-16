@@ -5,7 +5,7 @@ date: 2020-10-05 01:06:27
 image: 'https://m.media-amazon.com/images/I/411EIHdk+SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FX9BFZ8-es Seiko Reloj analogico para Hombre de Automático con Correa...'
 sku: 'B07FX9BFZ8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-12 14:20:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JM660nZdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SR84KXK-es Death Stranding - Collector s Edition [Importación francesa]'
 sku: 'B07SR84KXK-es'
 tags: [  ]

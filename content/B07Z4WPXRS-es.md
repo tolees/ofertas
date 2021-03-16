@@ -5,7 +5,7 @@ date: 2020-04-06 15:46:30
 image: 'https://m.media-amazon.com/images/I/419J-sP08iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4WPXRS-es INTEY Aspirador Nasal Eléctrica 2 Boquillas de Silicona...'
 sku: 'B07Z4WPXRS-es'
 tags: [  ]

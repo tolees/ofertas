@@ -5,7 +5,7 @@ date: 2020-08-25 08:03:03
 image: 'https://m.media-amazon.com/images/I/41A9BbP3LhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YC41GD1-es SUPORE Vivosmart HR Activity Tracker Correa de Reloj de...'
 sku: 'B07YC41GD1-es'
 tags: [  ]

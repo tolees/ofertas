@@ -5,7 +5,7 @@ date: 2020-05-20 10:45:34
 image: 'https://m.media-amazon.com/images/I/41O+Bcp9Y9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00062YOYU-es K&N RC-2580 filtro cromado universal Coche y Moto'
 sku: 'B00062YOYU-es'
 tags: [  ]

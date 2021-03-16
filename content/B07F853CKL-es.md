@@ -5,7 +5,7 @@ date: 2020-04-11 19:08:19
 image: 'https://m.media-amazon.com/images/I/31Q3oZZYguL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F853CKL-es adidas 3Mc Zapatillas de Skateboard Unisex Adulto Blanco...'
 sku: 'B07F853CKL-es'
 tags: [  ]

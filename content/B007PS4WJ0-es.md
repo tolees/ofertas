@@ -5,7 +5,7 @@ date: 2020-07-24 15:41:09
 image: 'https://m.media-amazon.com/images/I/31hLyrpoYML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007PS4WJ0-es Taurus Babel - Ventilador de torre sin control remoto 3...'
 sku: 'B007PS4WJ0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 13:43:26
 image: 'https://m.media-amazon.com/images/I/41BnvPB1N-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMNWGRB-es Superdry VL Stitch Sequin Entry Hood Capucha Gris Grey...'
 sku: 'B07TMNWGRB-es'
 tags: [  ]

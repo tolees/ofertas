@@ -5,7 +5,7 @@ date: 2020-03-07 18:55:26
 image: 'https://m.media-amazon.com/images/I/410Kij1b3AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFSCCJN-es Masajeador Portátil Eléctrica Recargable Massager...'
 sku: 'B07YFSCCJN-es'
 tags: [  ]

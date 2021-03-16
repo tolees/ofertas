@@ -5,7 +5,7 @@ date: 2020-05-03 14:27:24
 image: 'https://m.media-amazon.com/images/I/51FAZGiSd4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJ41VPZ-es NAIXUES 2020 Smartwatch Niños Reloj Inteligente para Niños...'
 sku: 'B07WJ41VPZ-es'
 tags: [  ]

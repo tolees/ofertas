@@ -5,7 +5,7 @@ date: 2020-01-03 18:45:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZDCMKV-es MisterCraft D de 216 - Maqueta de devoitine D de 520 cl'
 sku: 'B01LZDCMKV-es'
 tags: [  ]

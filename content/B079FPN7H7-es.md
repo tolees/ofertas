@@ -5,7 +5,7 @@ date: 2020-09-21 13:07:26
 image: 'https://m.media-amazon.com/images/I/41XIt90w-EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FPN7H7-es Otterbox Symmetry - Funda Anti caídas Fina y Elegante para...'
 sku: 'B079FPN7H7-es'
 tags: [  ]

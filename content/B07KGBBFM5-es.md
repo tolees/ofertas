@@ -5,7 +5,7 @@ date: 2020-05-31 06:07:37
 image: 'https://m.media-amazon.com/images/I/41MybSdiNkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGBBFM5-es PUMA Nova 2 Wn s Zapatillas Deportivas para Mujer Blanco...'
 sku: 'B07KGBBFM5-es'
 tags: [  ]

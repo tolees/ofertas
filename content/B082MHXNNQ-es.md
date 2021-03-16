@@ -5,7 +5,7 @@ date: 2020-04-25 09:43:09
 image: 'https://m.media-amazon.com/images/I/51lIoRdo-5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MHXNNQ-es Kids Mordedor Bebes Refrigerante by ANGELBLISS Mordedores...'
 sku: 'B082MHXNNQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 08:03:05
 image: 'https://m.media-amazon.com/images/I/31HLp011--L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0045VA3SO-es Reductor Silla Auto Invierno/Verano'
 sku: 'B0045VA3SO-es'
 tags: [  ]

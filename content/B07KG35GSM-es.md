@@ -5,7 +5,7 @@ date: 2020-02-19 21:55:55
 image: 'https://m.media-amazon.com/images/I/41piRPtMH0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG35GSM-es PUMA RS 9.8 Cosmic Zapatillas Unisex Adulto White-Peacoat...'
 sku: 'B07KG35GSM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-08 03:34:32
 image: 'https://m.media-amazon.com/images/I/41GblVMktFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXJVTS5-es hummel Slimmer Stadil High Zapatillas Altas Unisex Adulto...'
 sku: 'B07KXJVTS5-es'
 tags: [  ]

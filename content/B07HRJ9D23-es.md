@@ -5,7 +5,7 @@ date: 2020-03-15 08:30:22
 image: 'https://m.media-amazon.com/images/I/41TUGFUGbsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRJ9D23-es Luxbon 36 Hilos de Coser de Colors Surtidas 250 Yardas...'
 sku: 'B07HRJ9D23-es'
 tags: [  ]

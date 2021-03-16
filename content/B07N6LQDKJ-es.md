@@ -5,7 +5,7 @@ date: 2020-04-25 11:19:15
 image: 'https://m.media-amazon.com/images/I/31WNvnQi80L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6LQDKJ-es Tommy Hilfiger Downtown Seasonal Belt 3.5 Cinturón Brown...'
 sku: 'B07N6LQDKJ-es'
 tags: [  ]

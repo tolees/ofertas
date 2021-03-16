@@ -5,7 +5,7 @@ date: 2020-08-01 01:38:36
 image: 'https://m.media-amazon.com/images/I/21xvtiF6IkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RE8NSK-es Brabantia 363665 - Cuchara de Servir Antiadherente'
 sku: 'B000RE8NSK-es'
 tags: [  ]

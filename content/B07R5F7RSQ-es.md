@@ -5,7 +5,7 @@ date: 2020-03-10 19:15:50
 image: 'https://m.media-amazon.com/images/I/41rLp0oXS5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5F7RSQ-es 64GB Memorias USB 3.0 ENUODA Pendrive Giratoria Diseño...'
 sku: 'B07R5F7RSQ-es'
 tags: [  ]

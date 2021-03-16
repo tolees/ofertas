@@ -5,7 +5,7 @@ date: 2020-07-18 12:33:06
 image: 'https://m.media-amazon.com/images/I/31h1Q+U3yKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KS49M9X-es Bajo sistema de sujeción de esclavitud de cama con puños...'
 sku: 'B07KS49M9X-es'
 tags: [  ]

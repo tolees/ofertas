@@ -5,7 +5,7 @@ date: 2020-05-30 17:04:31
 image: 'https://m.media-amazon.com/images/I/31Rf3IaJ8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0051OCTY0-es Westinghouse Lighting Vegas Ventilador de Techo E27...'
 sku: 'B0051OCTY0-es'
 tags: [  ]

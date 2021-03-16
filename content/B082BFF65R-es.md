@@ -5,7 +5,7 @@ date: 2020-05-30 12:03:49
 image: 'https://m.media-amazon.com/images/I/318zS9ShLHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BFF65R-es Tom Ford FT0766 03A Black FT0766 Butterfly Sunglasses Lens...'
 sku: 'B082BFF65R-es'
 tags: [  ]

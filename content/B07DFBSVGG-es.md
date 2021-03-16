@@ -5,7 +5,7 @@ date: 2020-06-24 12:46:27
 image: 'https://m.media-amazon.com/images/I/31VwaK8HcTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBSVGG-es Pop! Crash Bandicoot - Aku Aku'
 sku: 'B07DFBSVGG-es'
 tags: [  ]

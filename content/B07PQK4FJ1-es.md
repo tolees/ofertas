@@ -5,7 +5,7 @@ date: 2020-04-14 10:40:43
 image: 'https://m.media-amazon.com/images/I/41XjZ0IfQyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQK4FJ1-es non-brand Muñeca Bebé Reborn con Bañera Azul y Accesorios...'
 sku: 'B07PQK4FJ1-es'
 tags: [  ]

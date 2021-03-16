@@ -5,7 +5,7 @@ date: 2020-06-29 13:31:05
 image: 'https://m.media-amazon.com/images/I/41B77yp1F9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G00ALBM-es Komono Reloj Analógico de Cuarzo Unisex con Correa de...'
 sku: 'B00G00ALBM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 16:46:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41r-1jAakFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YLLTRFY-es Maletas de Cabina 55x40x20 con USB de Carga Equipaje de...'
 sku: 'B07YLLTRFY-es'
 tags: [  ]

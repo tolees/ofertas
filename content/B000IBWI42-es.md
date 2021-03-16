@@ -5,7 +5,7 @@ date: 2020-07-07 10:10:11
 image: 'https://m.media-amazon.com/images/I/41vbVJQmvPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000IBWI42-es Coleman 3000005133 Nevera Rígida Unisex Adulto Azul 4 L'
 sku: 'B000IBWI42-es'
 tags: [  ]

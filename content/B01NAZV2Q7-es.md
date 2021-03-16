@@ -5,7 +5,7 @@ date: 2020-07-17 06:01:45
 image: 'https://m.media-amazon.com/images/I/41lz39jZn5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAZV2Q7-es Nixon Reloj Analogico para Unisex de Cuarzo con Correa en...'
 sku: 'B01NAZV2Q7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-09 19:16:01
 image: 'https://m.media-amazon.com/images/I/31BS0I3MQ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0178A0ICE-es Microsoft – Wireless Comfort Desktop 5050 Ratón y teclado...'
 sku: 'B0178A0ICE-es'
 tags: [  ]

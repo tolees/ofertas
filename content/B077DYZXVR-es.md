@@ -5,7 +5,7 @@ date: 2020-06-08 21:58:43
 image: 'https://m.media-amazon.com/images/I/51Zwow7-yQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077DYZXVR-es Díadermine Expert Rejuvenecedor Crema Día- 50 ml'
 sku: 'B077DYZXVR-es'
 tags: [  ]

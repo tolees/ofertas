@@ -5,7 +5,7 @@ date: 2020-09-26 15:20:05
 image: 'https://m.media-amazon.com/images/I/31b3ZcN9Y3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B15C4BQ-es Monix Optima 2 Batería de 5 piezas Acero Inox Apta para...'
 sku: 'B08B15C4BQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 18:57:23
 image: 'https://m.media-amazon.com/images/I/41fsGp2qKvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756FGW5S-es Calcetines de Compresión de Algodón Orgánico Pack de 1...'
 sku: 'B0756FGW5S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-12 13:10:27
 image: 'https://m.media-amazon.com/images/I/21zoWpfTIDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRCG9LR-es LG SJ4R - Barra de sonido Potencia 420W 4.1 Hi-res Audio...'
 sku: 'B06XRCG9LR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-08 18:22:31
 image: 'https://m.media-amazon.com/images/I/41fqMjrp1BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H8PT55G-es Dickies New York Short Pantalones Cortos de Deporte Hombre...'
 sku: 'B00H8PT55G-es'
 tags: [  ]

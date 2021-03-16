@@ -5,7 +5,7 @@ date: 2020-07-17 06:33:29
 image: 'https://m.media-amazon.com/images/I/51BxpJHnDJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y66PCCX-es Nivea Men - Crema - Cara cuerpo manos - 150 ml - [paquete...'
 sku: 'B06Y66PCCX-es'
 tags: [  ]

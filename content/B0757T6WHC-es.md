@@ -5,7 +5,7 @@ date: 2020-03-04 15:52:23
 image: 'https://m.media-amazon.com/images/I/31cK0JSG4XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757T6WHC-es 226ERS Salts Electrolytes Sales Minerales Electrolitos -...'
 sku: 'B0757T6WHC-es'
 tags: [  ]

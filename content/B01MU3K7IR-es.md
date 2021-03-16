@@ -5,7 +5,7 @@ date: 2020-05-03 13:13:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51i9C4jdCNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU3K7IR-es San Ignacio Juego de Sartenes y Batería de Cocina Aluminio...'
 sku: 'B01MU3K7IR-es'
 tags: [  ]

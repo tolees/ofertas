@@ -5,7 +5,7 @@ date: 2020-05-19 18:04:04
 image: 'https://m.media-amazon.com/images/I/41qbY+RmDlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFB9GQB-es 15 unids/rollo bolsas de pañales para bebés desechables...'
 sku: 'B07LFB9GQB-es'
 tags: [  ]

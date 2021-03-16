@@ -5,7 +5,7 @@ date: 2020-05-21 03:50:48
 image: 'https://m.media-amazon.com/images/I/41omeGmEAJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XMJ7XQ-es DIM Generous Invisible Sujetador Negro 100.D para Mujer'
 sku: 'B005XMJ7XQ-es'
 tags: [  ]

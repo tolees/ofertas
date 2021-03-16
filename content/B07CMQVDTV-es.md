@@ -5,7 +5,7 @@ date: 2020-01-17 13:25:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51GE259X8LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMQVDTV-es besrey 7 en 1 Triciclos Bebes reclinable con Asiento...'
 sku: 'B07CMQVDTV-es'
 tags: [  ]

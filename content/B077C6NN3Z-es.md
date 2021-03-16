@@ -5,7 +5,7 @@ date: 2020-05-24 01:11:54
 image: 'https://m.media-amazon.com/images/I/41+betA6ULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077C6NN3Z-es Emporio Armani Reloj Analogico para Hombre de Cuarzo con...'
 sku: 'B077C6NN3Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-24 09:16:12
 image: 'https://m.media-amazon.com/images/I/41vghSH8LSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F2LE7TM-es SOGO SS-5245 Heladera Maquina de helado Máquina para...'
 sku: 'B00F2LE7TM-es'
 tags: [  ]

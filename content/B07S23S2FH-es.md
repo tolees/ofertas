@@ -5,7 +5,7 @@ date: 2020-01-21 08:01:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4180hQFkpgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S23S2FH-es Viedouce Baberos Bebe Bandanas con 2 Ajustables Botón a...'
 sku: 'B07S23S2FH-es'
 tags: [  ]

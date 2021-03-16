@@ -5,7 +5,7 @@ date: 2020-01-01 23:44:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Co4f7-DZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HNACR24-es Anita - Sujetador para mujer Negro schwarz 001 80B'
 sku: 'B00HNACR24-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:41:58
 image: 'https://m.media-amazon.com/images/I/21-t0eOMH2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA1IOXG-es BabyVip - Body para niño y niña Estilo Abotonado 100%...'
 sku: 'B00XA1IOXG-es'
 tags: [  ]

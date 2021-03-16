@@ -5,7 +5,7 @@ date: 2020-09-12 21:13:28
 image: 'https://m.media-amazon.com/images/I/413gX14RmrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVB69PS-es adidas Superstar J Unisex niños Blanco Cloud White/Core...'
 sku: 'B07VVB69PS-es'
 tags: [  ]

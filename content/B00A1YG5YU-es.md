@@ -5,7 +5,7 @@ date: 2020-06-27 17:37:59
 image: 'https://m.media-amazon.com/images/I/41pu91maW+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A1YG5YU-es Wrangler Texas Contrast Hombre Jeans Azul Night Break 37W...'
 sku: 'B00A1YG5YU-es'
 tags: [  ]

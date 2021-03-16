@@ -5,7 +5,7 @@ date: 2020-05-18 11:04:15
 image: 'https://m.media-amazon.com/images/I/41WAKA7BPaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086BTLBKD-es Oihxse Funda Compatible con Samsung Galaxy C9 Pro Carcasa...'
 sku: 'B086BTLBKD-es'
 tags: [  ]

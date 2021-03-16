@@ -5,7 +5,7 @@ date: 2020-03-04 16:48:53
 image: 'https://m.media-amazon.com/images/I/315GyM1msWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QNC9WY-es Levi s Batwing Hoodie Capucha Mujer Marfil Sportswear...'
 sku: 'B073QNC9WY-es'
 tags: [  ]

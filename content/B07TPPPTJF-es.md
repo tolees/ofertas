@@ -5,7 +5,7 @@ date: 2020-08-01 10:16:19
 image: 'https://m.media-amazon.com/images/I/41mJfKd4JvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPPPTJF-es Levi s Original Batwing Multicolor Hm Patch Polo...'
 sku: 'B07TPPPTJF-es'
 tags: [  ]

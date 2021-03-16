@@ -5,7 +5,7 @@ date: 2020-07-28 18:59:16
 image: 'https://m.media-amazon.com/images/I/31vNjMI6hbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5YWJ67-es Barra de Sonido Wellwerks 95W Altavoz de Audio para TV...'
 sku: 'B07X5YWJ67-es'
 tags: [  ]

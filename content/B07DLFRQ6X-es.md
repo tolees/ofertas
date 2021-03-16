@@ -5,7 +5,7 @@ date: 2020-09-24 14:03:55
 image: 'https://m.media-amazon.com/images/I/4159N6-qHzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLFRQ6X-es Nobleza – Alfombrilla refrescante para Mascotas Grandes....'
 sku: 'B07DLFRQ6X-es'
 tags: [  ]

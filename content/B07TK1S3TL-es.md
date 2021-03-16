@@ -5,7 +5,7 @@ date: 2020-10-06 07:40:42
 image: 'https://m.media-amazon.com/images/I/51CS+Eub1EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TK1S3TL-es Durex Vibrador Intense Orgasmic Pure Fantasy + Lubricante...'
 sku: 'B07TK1S3TL-es'
 tags: [  ]

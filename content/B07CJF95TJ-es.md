@@ -5,7 +5,7 @@ date: 2020-01-17 13:19:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xt8aHZ5tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJF95TJ-es Impresora térmica de recibos 300 mm/s 80 mm Excelvan AUTO-...'
 sku: 'B07CJF95TJ-es'
 tags: [  ]

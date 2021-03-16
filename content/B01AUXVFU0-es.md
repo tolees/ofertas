@@ -5,7 +5,7 @@ date: 2020-01-16 11:04:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qDxywHNKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AUXVFU0-es Suavinex Biberon 302.845 Bipack'
 sku: 'B01AUXVFU0-es'
 tags: [  ]

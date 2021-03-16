@@ -5,7 +5,7 @@ date: 2020-06-23 17:09:37
 image: 'https://m.media-amazon.com/images/I/51k4kqiYvhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHJSSTJ-es jerryvon Juego de Pista de Madera Circuito Coches con 2...'
 sku: 'B07XHJSSTJ-es'
 tags: [  ]

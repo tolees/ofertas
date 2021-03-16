@@ -5,7 +5,7 @@ date: 2020-06-30 08:03:25
 image: 'https://m.media-amazon.com/images/I/41WdgA3Pt8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004JMZPJG-es Case Logic DCB306K SLR - Funda para cámara nilón Negro'
 sku: 'B004JMZPJG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-18 14:38:51
 image: 'https://m.media-amazon.com/images/I/51KaLBTYTmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UCC2O7I-es Finish Powerball All in 1 Max - Pastillas para el...'
 sku: 'B00UCC2O7I-es'
 tags: [  ]

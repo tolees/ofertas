@@ -5,7 +5,7 @@ date: 2020-04-10 06:52:21
 image: 'https://m.media-amazon.com/images/I/414Hp9pPATL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLSPLYL-es Memoria USB Universal de 128 GB Pen Drive Tipo C Micro USB...'
 sku: 'B07JLSPLYL-es'
 tags: [  ]

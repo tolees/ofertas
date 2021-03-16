@@ -5,7 +5,7 @@ date: 2020-02-27 20:42:05
 image: 'https://m.media-amazon.com/images/I/41vxMLiHQ0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S56VXSF-es Asics Gel-Bondi Zapatillas de Running para Mujer...'
 sku: 'B07S56VXSF-es'
 tags: [  ]

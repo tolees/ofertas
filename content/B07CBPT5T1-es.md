@@ -5,7 +5,7 @@ date: 2020-02-11 12:06:10
 image: 'https://m.media-amazon.com/images/I/41H0b1zZJrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBPT5T1-es Maybelline New York - The Lemonade Craze Paleta de Sombras...'
 sku: 'B07CBPT5T1-es'
 tags: [  ]

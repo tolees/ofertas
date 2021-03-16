@@ -5,7 +5,7 @@ date: 2020-02-19 07:28:42
 image: 'https://m.media-amazon.com/images/I/31eiQEhApNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3N63TD-es Dioche Medidor de Presion Balones Mini Utilidad de Aire...'
 sku: 'B07L3N63TD-es'
 tags: [  ]

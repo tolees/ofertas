@@ -5,7 +5,7 @@ date: 2020-06-04 20:58:54
 image: 'https://m.media-amazon.com/images/I/41h+F7crdiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7R6NUG-es Granini Zumo Naranja - 1 l'
 sku: 'B01K7R6NUG-es'
 tags: [  ]

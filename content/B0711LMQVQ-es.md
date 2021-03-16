@@ -5,7 +5,7 @@ date: 2020-03-03 10:46:08
 image: 'https://m.media-amazon.com/images/I/51gjeb4X2VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711LMQVQ-es COOSA Correa de Recambio Brazalete Extensibles Coloridos...'
 sku: 'B0711LMQVQ-es'
 tags: [  ]

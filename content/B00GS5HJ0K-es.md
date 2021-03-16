@@ -5,7 +5,7 @@ date: 2020-10-02 05:07:12
 image: 'https://m.media-amazon.com/images/I/31+-EQnHMwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GS5HJ0K-es adidas Terrex Swift Solo Zapatillas de Deporte Exterior...'
 sku: 'B00GS5HJ0K-es'
 tags: [  ]

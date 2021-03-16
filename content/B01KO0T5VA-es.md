@@ -5,7 +5,7 @@ date: 2020-09-16 22:41:07
 image: 'https://m.media-amazon.com/images/I/41rc2j5XG2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KO0T5VA-es Kodak Photo Printer Mini WiFi - Impresora fotográfica...'
 sku: 'B01KO0T5VA-es'
 tags: [  ]

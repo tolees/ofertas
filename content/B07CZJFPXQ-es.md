@@ -5,7 +5,7 @@ date: 2020-06-22 08:48:35
 image: 'https://m.media-amazon.com/images/I/41rKKX0evrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZJFPXQ-es Under Armour Tech Mesh 3 Inch Corto Mujer Negro SM'
 sku: 'B07CZJFPXQ-es'
 tags: [  ]

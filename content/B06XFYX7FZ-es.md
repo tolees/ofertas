@@ -5,7 +5,7 @@ date: 2020-01-18 21:03:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411QY24qnVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XFYX7FZ-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B06XFYX7FZ-es'
 tags: [  ]

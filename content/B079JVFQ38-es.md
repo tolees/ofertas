@@ -5,7 +5,7 @@ date: 2020-01-21 22:40:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31x62XgB3AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JVFQ38-es Bonmedico Almohada Comfort Almohada Ergonómica para la...'
 sku: 'B079JVFQ38-es'
 tags: [  ]

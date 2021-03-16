@@ -5,7 +5,7 @@ date: 2020-03-05 17:27:45
 image: 'https://m.media-amazon.com/images/I/41Tiu1AxM6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MDJ839G-es Tesa Assa Abloy 1970908NV Barra Antipánico Universal 1970...'
 sku: 'B00MDJ839G-es'
 tags: [  ]

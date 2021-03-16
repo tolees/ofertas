@@ -5,7 +5,7 @@ date: 2020-07-17 12:27:13
 image: 'https://m.media-amazon.com/images/I/51eSuQaRwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSJGT2D-es Ligero a Prueba de Polvo a Prueba de arañazos de Cuero de...'
 sku: 'B07WSJGT2D-es'
 tags: [  ]

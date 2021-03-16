@@ -5,7 +5,7 @@ date: 2020-10-08 18:57:20
 image: 'https://m.media-amazon.com/images/I/41Q1SsX7c-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085FH3LBD-es Samsung EVO Select 64 GB microSD 100 MB/s Velocidad Full...'
 sku: 'B085FH3LBD-es'
 tags: [  ]

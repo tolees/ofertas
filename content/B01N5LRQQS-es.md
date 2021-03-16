@@ -5,7 +5,7 @@ date: 2020-03-03 15:42:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41npGu7mq7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5LRQQS-es Alluflon Tradizione Italia Crepera aluminio negro 22 cm'
 sku: 'B01N5LRQQS-es'
 tags: [  ]

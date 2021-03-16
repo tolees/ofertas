@@ -5,7 +5,7 @@ date: 2020-02-05 14:24:36
 image: 'https://m.media-amazon.com/images/I/31ej+XrEt1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003M0WBL6-es Schwarzkopf Osis + - Laca 300 ml'
 sku: 'B003M0WBL6-es'
 tags: [  ]

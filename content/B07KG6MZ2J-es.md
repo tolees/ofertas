@@ -5,7 +5,7 @@ date: 2020-09-10 04:27:40
 image: 'https://m.media-amazon.com/images/I/411TpcPeJdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG6MZ2J-es PUMA Ralph Sampson LO Zapatillas Deportivas para Hombre...'
 sku: 'B07KG6MZ2J-es'
 tags: [  ]

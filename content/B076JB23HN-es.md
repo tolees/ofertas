@@ -5,7 +5,7 @@ date: 2020-04-19 08:56:18
 image: 'https://m.media-amazon.com/images/I/41Na+4esSXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JB23HN-es Panama Jack Capri Cork Sandalia con Pulsera para Mujer...'
 sku: 'B076JB23HN-es'
 tags: [  ]

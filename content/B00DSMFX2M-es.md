@@ -5,7 +5,7 @@ date: 2020-02-01 11:23:16
 image: 'https://m.media-amazon.com/images/I/31xeWumEdeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DSMFX2M-es Precision'
 sku: 'B00DSMFX2M-es'
 tags: [  ]

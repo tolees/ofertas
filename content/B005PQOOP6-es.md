@@ -5,7 +5,7 @@ date: 2020-02-12 16:03:57
 image: 'https://m.media-amazon.com/images/I/31O6+bBjxYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005PQOOP6-es Lékué Protection - Pinza para Cocina Silicona Color...'
 sku: 'B005PQOOP6-es'
 tags: [  ]

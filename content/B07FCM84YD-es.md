@@ -5,7 +5,7 @@ date: 2020-02-25 08:04:00
 image: 'https://m.media-amazon.com/images/I/51uOu-cEYGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCM84YD-es Lámpara de Escritorio Lámpara LED de Escritorio Ojos...'
 sku: 'B07FCM84YD-es'
 tags: [  ]

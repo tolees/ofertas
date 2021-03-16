@@ -5,7 +5,7 @@ date: 2020-06-08 10:24:06
 image: 'https://m.media-amazon.com/images/I/41X487JlZDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2HHJ89-es Skip Ultimate Triple Poder Detergente Capsulas Fragancia...'
 sku: 'B07K2HHJ89-es'
 tags: [  ]

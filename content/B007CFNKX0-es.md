@@ -5,7 +5,7 @@ date: 2020-07-20 19:43:07
 image: 'https://m.media-amazon.com/images/I/31vAVfW4gvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007CFNKX0-es Superga 2750 COTU Classic Zapatillas Unisex-Adulto Azul...'
 sku: 'B007CFNKX0-es'
 tags: [  ]

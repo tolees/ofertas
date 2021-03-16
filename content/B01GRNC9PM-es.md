@@ -5,7 +5,7 @@ date: 2020-05-28 14:29:23
 image: 'https://m.media-amazon.com/images/I/41CjIbD0KtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GRNC9PM-es MOMO Design Reloj Informal MD6002SS-12'
 sku: 'B01GRNC9PM-es'
 tags: [  ]

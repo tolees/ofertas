@@ -5,7 +5,7 @@ date: 2020-06-23 23:38:34
 image: 'https://m.media-amazon.com/images/I/410t0YN9etL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9HZ5FZ-es Under Armour Play Up P Pantalones Cortos con Bolsillos...'
 sku: 'B07L9HZ5FZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-30 22:11:33
 image: 'https://m.media-amazon.com/images/I/51J9FHHGHFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKLK6WR-es Olymbros Cámara de Caza 16MP 1080P IP66 Impermeable 24 LED...'
 sku: 'B07GKLK6WR-es'
 tags: [  ]

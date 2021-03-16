@@ -5,7 +5,7 @@ date: 2020-07-17 02:45:33
 image: 'https://m.media-amazon.com/images/I/412o-Ue3IbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C7NHKGQ-es Go Swing abrelatas de latas potente abrebotellas de...'
 sku: 'B08C7NHKGQ-es'
 tags: [  ]

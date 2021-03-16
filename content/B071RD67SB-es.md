@@ -5,7 +5,7 @@ date: 2020-06-02 18:44:21
 image: 'https://m.media-amazon.com/images/I/41UxQTMke6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RD67SB-es Princess 182021 - Aerofryer XL Freidora Panel de Control...'
 sku: 'B071RD67SB-es'
 tags: [  ]

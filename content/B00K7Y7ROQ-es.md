@@ -5,7 +5,7 @@ date: 2020-05-12 21:18:49
 image: 'https://m.media-amazon.com/images/I/51PxLvEe1RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K7Y7ROQ-es Beissier M109055 - Aguaplast express de 1 kg'
 sku: 'B00K7Y7ROQ-es'
 tags: [  ]

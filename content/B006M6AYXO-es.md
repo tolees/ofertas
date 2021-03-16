@@ -5,7 +5,7 @@ date: 2020-07-20 12:53:54
 image: 'https://m.media-amazon.com/images/I/31HuNMT3yQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006M6AYXO-es Converse Chuck Taylor Core Lea Ox Zapatillas De Cuero...'
 sku: 'B006M6AYXO-es'
 tags: [  ]

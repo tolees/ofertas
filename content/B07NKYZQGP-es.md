@@ -5,7 +5,7 @@ date: 2020-03-25 11:57:15
 image: 'https://m.media-amazon.com/images/I/51j2tRJ9HfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NKYZQGP-es ZIPRINT 2 Pack Negro Toner MIT Chip Compatible Brother...'
 sku: 'B07NKYZQGP-es'
 tags: [  ]

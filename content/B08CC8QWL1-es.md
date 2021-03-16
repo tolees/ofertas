@@ -5,7 +5,7 @@ date: 2020-07-12 12:45:32
 image: 'https://m.media-amazon.com/images/I/41qLF7c8dFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CC8QWL1-es XINFULUK Portátil Plegable Bolsillo magnético plástico...'
 sku: 'B08CC8QWL1-es'
 tags: [  ]

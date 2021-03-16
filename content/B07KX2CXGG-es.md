@@ -5,7 +5,7 @@ date: 2020-04-06 13:23:37
 image: 'https://m.media-amazon.com/images/I/51wxd6fFUYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KX2CXGG-es ZARRS Pegatina de Espuma Brillo 100 Pack Pegatina de...'
 sku: 'B07KX2CXGG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-24 09:42:27
 image: 'https://m.media-amazon.com/images/I/21Z12xxmotL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NA6XFE4-es Flexson SONOS Play:1 - Soporte de pie para SONOS Play:1 Negro'
 sku: 'B00NA6XFE4-es'
 tags: [  ]

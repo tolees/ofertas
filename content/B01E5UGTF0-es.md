@@ -5,7 +5,7 @@ date: 2020-03-11 09:13:40
 image: 'https://m.media-amazon.com/images/I/31VBS8qfdTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E5UGTF0-es Lacoste Sport Carnaby EVO BL 1 SPW Zapatillas para Mujer...'
 sku: 'B01E5UGTF0-es'
 tags: [  ]

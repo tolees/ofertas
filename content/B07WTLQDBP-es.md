@@ -5,7 +5,7 @@ date: 2020-08-14 03:48:21
 image: 'https://m.media-amazon.com/images/I/31M+aZ952xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTLQDBP-es Adaptador USB C a Ethernet Hub USB Tipo C Thunderbolt 3 a...'
 sku: 'B07WTLQDBP-es'
 tags: [  ]

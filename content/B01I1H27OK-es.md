@@ -5,7 +5,7 @@ date: 2020-06-19 20:59:32
 image: 'https://m.media-amazon.com/images/I/41Wzv8XMX-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I1H27OK-es Targus THZ66103GL Fit N Grip - Funda Universal para...'
 sku: 'B01I1H27OK-es'
 tags: [  ]

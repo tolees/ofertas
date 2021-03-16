@@ -5,7 +5,7 @@ date: 2020-02-26 18:04:19
 image: 'https://m.media-amazon.com/images/I/41nron+fH0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG19YVD-es Zenph Tiendas de campaña Familiares Tienda de campaña...'
 sku: 'B07HG19YVD-es'
 tags: [  ]

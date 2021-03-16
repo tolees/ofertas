@@ -5,7 +5,7 @@ date: 2020-10-06 10:34:02
 image: 'https://m.media-amazon.com/images/I/41C8s9rLC0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F566XXQ-es Longspeed Universal 360 Degree Car Auto Mount Sticky...'
 sku: 'B08F566XXQ-es'
 tags: [  ]

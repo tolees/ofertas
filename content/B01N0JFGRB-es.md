@@ -5,7 +5,7 @@ date: 2020-07-13 18:02:22
 image: 'https://m.media-amazon.com/images/I/411TEkpiHHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0JFGRB-es Tommy Hilfiger H2285ARLOW 1D Zapatillas para Hombre Gris...'
 sku: 'B01N0JFGRB-es'
 tags: [  ]

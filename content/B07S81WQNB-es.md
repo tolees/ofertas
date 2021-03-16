@@ -5,7 +5,7 @@ date: 2020-03-02 18:20:27
 image: 'https://m.media-amazon.com/images/I/31ZqVG+J8WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S81WQNB-es Vibrador Sexual Femenino Recargable con USB Sweet&Hot –...'
 sku: 'B07S81WQNB-es'
 tags: [  ]

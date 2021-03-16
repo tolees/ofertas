@@ -5,7 +5,7 @@ date: 2020-03-13 11:57:32
 image: 'https://m.media-amazon.com/images/I/416bfewKWCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000MWTCQY-es Leifheit 55111 - Mopa de Secado Profesional'
 sku: 'B000MWTCQY-es'
 tags: [  ]

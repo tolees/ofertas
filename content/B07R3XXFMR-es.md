@@ -5,7 +5,7 @@ date: 2020-02-02 14:19:43
 image: 'https://m.media-amazon.com/images/I/31vrXnFrJ2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3XXFMR-es Angel Schlesser Eau Fraiche Citrus Pomelo Edt Vapo 150 Ml...'
 sku: 'B07R3XXFMR-es'
 tags: [  ]

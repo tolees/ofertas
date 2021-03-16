@@ -5,7 +5,7 @@ date: 2020-09-21 13:31:22
 image: 'https://m.media-amazon.com/images/I/416fZ1y6ovL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGL6SMV-es DURAGADGET Cable De Audio Compatible con Portátil Acer...'
 sku: 'B07VGL6SMV-es'
 tags: [  ]

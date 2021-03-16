@@ -5,7 +5,7 @@ date: 2020-03-20 10:57:45
 image: 'https://m.media-amazon.com/images/I/418vmS38OYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JPNYGNA-es ROC Pro Renove - Crema Anti Edad Unificante Textura Rica...'
 sku: 'B00JPNYGNA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 07:22:49
 image: 'https://m.media-amazon.com/images/I/417YdNsEaFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GK8MN7J-es 4 Piezas 50ml Botellas de Viaje Recargables Vacías...'
 sku: 'B08GK8MN7J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 19:37:58
 image: 'https://m.media-amazon.com/images/I/416dAZWgdZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLY24P4-es JACK & JONES Jorflash Crew Neck suéter Azul Sea Mossno...'
 sku: 'B07VLY24P4-es'
 tags: [  ]

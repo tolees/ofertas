@@ -5,7 +5,7 @@ date: 2020-08-21 14:47:52
 image: 'https://m.media-amazon.com/images/I/41gPa9WnBpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHHRX3C-es Naipo Respaldo de Masaje Shiatsu Asiento Masajeador para...'
 sku: 'B06XHHRX3C-es'
 tags: [  ]

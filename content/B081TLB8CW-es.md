@@ -5,7 +5,7 @@ date: 2020-05-17 18:35:34
 image: 'https://m.media-amazon.com/images/I/51zcwdCD95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TLB8CW-es AND TREND Softee Kit Tenis Mesa 2 Palas con Red y 2 Bolas'
 sku: 'B081TLB8CW-es'
 tags: [  ]

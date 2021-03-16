@@ -5,7 +5,7 @@ date: 2020-07-18 11:53:25
 image: 'https://m.media-amazon.com/images/I/61vjuuR2l+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074SZ4TVZ-es URBN CHEF Queensway - 6 Vasos de Whiskey en un Paquete de...'
 sku: 'B074SZ4TVZ-es'
 tags: [  ]

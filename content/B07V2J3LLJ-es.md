@@ -5,7 +5,7 @@ date: 2020-07-01 19:07:41
 image: 'https://m.media-amazon.com/images/I/41MK5RlykyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2J3LLJ-es Tommy Hilfiger Technical Flexi Runner Zapatillas para...'
 sku: 'B07V2J3LLJ-es'
 tags: [  ]

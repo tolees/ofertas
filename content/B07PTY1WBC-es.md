@@ -5,7 +5,7 @@ date: 2020-03-28 15:34:04
 image: 'https://m.media-amazon.com/images/I/41AZIV6-LFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTY1WBC-es FREDI Cámara de Vigilancia para exteriore 1080P HD...'
 sku: 'B07PTY1WBC-es'
 tags: [  ]

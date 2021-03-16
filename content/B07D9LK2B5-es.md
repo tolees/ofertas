@@ -5,7 +5,7 @@ date: 2020-01-15 11:06:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MVgLOieAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9LK2B5-es bugatti 3.22656E+11 Zapatillas para Hombre Negro Schwarz...'
 sku: 'B07D9LK2B5-es'
 tags: [  ]

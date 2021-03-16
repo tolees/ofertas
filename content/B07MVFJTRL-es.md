@@ -5,7 +5,7 @@ date: 2020-01-08 14:10:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3125jyC3UfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVFJTRL-es Adidas Daily 2.0 Zapatillas para Hombre Negro Black F34468...'
 sku: 'B07MVFJTRL-es'
 tags: [  ]

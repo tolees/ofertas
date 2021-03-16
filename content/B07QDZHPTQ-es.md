@@ -5,7 +5,7 @@ date: 2020-01-11 09:36:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31S5cncfTlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDZHPTQ-es AmazonBasics - Cargador de pilas USB color blanco'
 sku: 'B07QDZHPTQ-es'
 tags: [  ]

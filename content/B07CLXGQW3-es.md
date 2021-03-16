@@ -5,7 +5,7 @@ date: 2020-06-03 16:13:30
 image: 'https://m.media-amazon.com/images/I/31BL3Z4A5dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLXGQW3-es Adidas Gazelle C Zapatillas de Deporte Unisex niño Verde...'
 sku: 'B07CLXGQW3-es'
 tags: [  ]

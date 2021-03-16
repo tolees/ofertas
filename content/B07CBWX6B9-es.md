@@ -5,7 +5,7 @@ date: 2020-05-13 07:32:34
 image: 'https://m.media-amazon.com/images/I/31zBtiNCroL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBWX6B9-es Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones Verde...'
 sku: 'B07CBWX6B9-es'
 tags: [  ]

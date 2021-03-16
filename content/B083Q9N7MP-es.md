@@ -5,7 +5,7 @@ date: 2020-09-06 16:13:14
 image: 'https://m.media-amazon.com/images/I/51IczUZNrsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083Q9N7MP-es Lámpara Proyector Amouhom Proyector Estrellas & Océano 2...'
 sku: 'B083Q9N7MP-es'
 tags: [  ]

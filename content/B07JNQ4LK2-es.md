@@ -5,7 +5,7 @@ date: 2020-01-20 20:39:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31-IOyFCPaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNQ4LK2-es Nike M NK ZNL AROSHLD JKT Jacket Hombre Reflect Black L'
 sku: 'B07JNQ4LK2-es'
 tags: [  ]

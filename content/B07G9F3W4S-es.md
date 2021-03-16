@@ -5,7 +5,7 @@ date: 2020-01-22 08:55:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BxibEBCfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9F3W4S-es Cepillo Alisador de Pelo 3 en 1 3 cabezales Cepillo...'
 sku: 'B07G9F3W4S-es'
 tags: [  ]

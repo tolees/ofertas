@@ -5,7 +5,7 @@ date: 2020-06-24 19:31:40
 image: 'https://m.media-amazon.com/images/I/41t6K6JN-dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1QXJ4B-es New Balance 410v6 Trail Zapatillas para Carreras de...'
 sku: 'B07F1QXJ4B-es'
 tags: [  ]

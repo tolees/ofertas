@@ -5,7 +5,7 @@ date: 2020-10-12 09:02:23
 image: 'https://m.media-amazon.com/images/I/11yuBCz4WvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2F2LXX-es ZHANGSHUQI - Bolsa de Moto Retro Estilo Steampunk para...'
 sku: 'B07X2F2LXX-es'
 tags: [  ]

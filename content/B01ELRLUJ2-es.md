@@ -5,7 +5,7 @@ date: 2020-10-03 15:46:58
 image: 'https://m.media-amazon.com/images/I/415bC0W5lLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ELRLUJ2-es Suecos Alma Zapatillas de Deporte Unisex Adulto Blanco...'
 sku: 'B01ELRLUJ2-es'
 tags: [  ]

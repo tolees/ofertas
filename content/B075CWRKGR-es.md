@@ -5,7 +5,7 @@ date: 2020-01-17 16:22:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41p18oYo7ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075CWRKGR-es Buff Ultimate Logo Cinta Tech Forro Polar Unisex Adulto...'
 sku: 'B075CWRKGR-es'
 tags: [  ]

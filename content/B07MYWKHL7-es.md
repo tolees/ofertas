@@ -5,7 +5,7 @@ date: 2020-08-01 15:31:00
 image: 'https://m.media-amazon.com/images/I/31pwv2PDHRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYWKHL7-es GOZAR Carcasa De Aluminio Duro De Metal Multicolor Carcasa...'
 sku: 'B07MYWKHL7-es'
 tags: [  ]

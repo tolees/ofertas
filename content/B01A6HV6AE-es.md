@@ -5,7 +5,7 @@ date: 2020-04-07 21:56:27
 image: 'https://m.media-amazon.com/images/I/51AZ+Zd+IaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A6HV6AE-es MR. SIGA Dual Action Scrubbing Sponge Pack of 6...'
 sku: 'B01A6HV6AE-es'
 tags: [  ]

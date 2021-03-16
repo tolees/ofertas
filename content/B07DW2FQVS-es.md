@@ -5,7 +5,7 @@ date: 2020-07-12 14:29:29
 image: 'https://m.media-amazon.com/images/I/51-WPsastTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW2FQVS-es Karcher Juego de llaves de carraca y de vaso - 130 piezas...'
 sku: 'B07DW2FQVS-es'
 tags: [  ]

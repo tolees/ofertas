@@ -5,7 +5,7 @@ date: 2020-03-16 18:46:19
 image: 'https://m.media-amazon.com/images/I/31DILjWGa0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1FCC5D-es Pop Addams Family Wednesday Vinyl Figure'
 sku: 'B07T1FCC5D-es'
 tags: [  ]

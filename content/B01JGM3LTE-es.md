@@ -5,7 +5,7 @@ date: 2020-09-14 07:38:35
 image: 'https://m.media-amazon.com/images/I/31ZOjH4xgtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JGM3LTE-es Rowenta RH8897W0 Air Force Extreme Power Pro - Aspirador...'
 sku: 'B01JGM3LTE-es'
 tags: [  ]

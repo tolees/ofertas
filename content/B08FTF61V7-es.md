@@ -5,7 +5,7 @@ date: 2020-08-24 18:00:50
 image: 'https://m.media-amazon.com/images/I/413FNml6DDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FTF61V7-es Fantasyworld FT245 + CPLD Programador de Alta Velocidad...'
 sku: 'B08FTF61V7-es'
 tags: [  ]

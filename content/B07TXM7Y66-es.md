@@ -5,7 +5,7 @@ date: 2020-07-05 04:22:34
 image: 'https://m.media-amazon.com/images/I/310cf+rul7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXM7Y66-es Gant Sundale Zapatillas para Hombre Azul Marine G69 41 EU'
 sku: 'B07TXM7Y66-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-13 10:54:15
 image: 'https://m.media-amazon.com/images/I/41NQAZ6+l1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BLVM9CQ-es 4 Unidades de Pinzas de Cama para Tablas de Planchar...'
 sku: 'B07BLVM9CQ-es'
 tags: [  ]

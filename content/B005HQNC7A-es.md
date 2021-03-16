@@ -5,7 +5,7 @@ date: 2020-09-04 10:35:46
 image: 'https://m.media-amazon.com/images/I/41CaQlcMY6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005HQNC7A-es Jim Beam Kentucky Straight Bourbon Whisky 40% - 1750 ml'
 sku: 'B005HQNC7A-es'
 tags: [  ]

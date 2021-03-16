@@ -5,7 +5,7 @@ date: 2020-01-23 11:27:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31sxgW7MTKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R7QGMT-es New Balance 420 Zapatillas para Hombre Rojo Classic...'
 sku: 'B075R7QGMT-es'
 tags: [  ]

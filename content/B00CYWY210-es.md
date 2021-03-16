@@ -5,7 +5,7 @@ date: 2020-02-17 09:34:12
 image: 'https://m.media-amazon.com/images/I/41t1qWOHI9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CYWY210-es Fellowes I-Spire - Alfombrilla con reposamuñecas Flexible...'
 sku: 'B00CYWY210-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 15:57:54
 image: 'https://m.media-amazon.com/images/I/51lT69CpF6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F9BS7B6-es DLseego [4 Pack Tapas de Agarre para el Pulgar New 2020...'
 sku: 'B08F9BS7B6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 06:11:17
 image: 'https://m.media-amazon.com/images/I/51JsiXi1gsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NVJDGX-es TACKLIFE Alicates Multiusos Plegables Profesionales 13 en...'
 sku: 'B071NVJDGX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-09 18:33:11
 image: 'https://m.media-amazon.com/images/I/516roJTW5iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZQ83QP-es Hombre Zapatillas de Correr Casual para Deportivas de...'
 sku: 'B086ZQ83QP-es'
 tags: [  ]

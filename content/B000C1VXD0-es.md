@@ -5,7 +5,7 @@ date: 2020-03-02 02:27:10
 image: 'https://m.media-amazon.com/images/I/31ZprzuFXxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000C1VXD0-es Guerlain - Eau de Cologne Eau Impériale'
 sku: 'B000C1VXD0-es'
 tags: [  ]

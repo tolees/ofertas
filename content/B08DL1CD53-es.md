@@ -5,7 +5,7 @@ date: 2020-08-31 12:01:12
 image: 'https://m.media-amazon.com/images/I/31lKzz08I3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DL1CD53-es XINFULUK Eco-Friendly Kids Baby Write Draw Paint Water...'
 sku: 'B08DL1CD53-es'
 tags: [  ]

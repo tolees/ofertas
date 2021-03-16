@@ -5,7 +5,7 @@ date: 2020-09-04 12:45:41
 image: 'https://m.media-amazon.com/images/I/41RtcwPaW6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CD8DLD-es FMPC Carcasa con Cuerda Samsung Galaxy S10E Cristal TPU...'
 sku: 'B085CD8DLD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 04:37:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ETDW6Sh2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZBXRPB-es BRA Efficient Iron Parrilla Redonda con Rayas Fabricada En...'
 sku: 'B079ZBXRPB-es'
 tags: [  ]

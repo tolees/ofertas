@@ -5,7 +5,7 @@ date: 2020-07-05 00:24:56
 image: 'https://m.media-amazon.com/images/I/31qPrOx5smL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYVRBP5-es 2 * 12W Lámpara de pared blanco cálido moderno apliques...'
 sku: 'B07XYVRBP5-es'
 tags: [  ]

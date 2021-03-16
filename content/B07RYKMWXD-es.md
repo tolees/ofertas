@@ -5,7 +5,7 @@ date: 2020-07-02 10:55:18
 image: 'https://m.media-amazon.com/images/I/41uTbP+mnPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYKMWXD-es Taurus Mycook Touch Black Edition 1600 W 2 litros 0...'
 sku: 'B07RYKMWXD-es'
 tags: [  ]

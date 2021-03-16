@@ -5,7 +5,7 @@ date: 2020-05-01 05:21:22
 image: 'https://m.media-amazon.com/images/I/41uAVV6CAlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GT3VG3-es Pendrive 4GB 5 Piezas Memorias USB Portátil Rotatorio USB...'
 sku: 'B075GT3VG3-es'
 tags: [  ]

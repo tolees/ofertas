@@ -5,7 +5,7 @@ date: 2020-01-19 08:23:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41krPfou9nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQLQ9YX-es Under Armour Cinch Printed Tote Bolsa Deportiva Mujer...'
 sku: 'B07JQLQ9YX-es'
 tags: [  ]

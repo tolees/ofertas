@@ -5,7 +5,7 @@ date: 2020-04-16 12:36:52
 image: 'https://m.media-amazon.com/images/I/51nwmtP+ktL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCD679T-es Adidas Sambarose Zapatillas Clasicas para Mujer Blanco...'
 sku: 'B07DCD679T-es'
 tags: [  ]

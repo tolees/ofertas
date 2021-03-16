@@ -5,7 +5,7 @@ date: 2020-05-25 12:11:50
 image: 'https://m.media-amazon.com/images/I/31XJ2wQKW1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0036YDYPA-es Revlon Proyou White Hair Shampoo Champú - 350 ml'
 sku: 'B0036YDYPA-es'
 tags: [  ]

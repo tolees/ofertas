@@ -5,7 +5,7 @@ date: 2020-01-13 12:23:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cbPg7rrSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772ZHLPJ-es Columbia Conspiracy V Outdry Zapatillas de Senderismo para...'
 sku: 'B0772ZHLPJ-es'
 tags: [  ]

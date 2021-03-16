@@ -5,7 +5,7 @@ date: 2020-04-18 10:30:27
 image: 'https://m.media-amazon.com/images/I/41SdCTEr02L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829KZCZ2-es adidas Don t Rest Women s Bra - SS20 - M'
 sku: 'B0829KZCZ2-es'
 tags: [  ]

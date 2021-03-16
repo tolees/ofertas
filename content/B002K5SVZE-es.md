@@ -5,7 +5,7 @@ date: 2020-01-26 21:42:43
 image: 'https://m.media-amazon.com/images/I/41m+XZO2nAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002K5SVZE-es ESI Aloe Veragel with Vitamin E and Tea Tree Oil 500ml by ESI'
 sku: 'B002K5SVZE-es'
 tags: [  ]

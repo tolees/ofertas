@@ -5,7 +5,7 @@ date: 2020-07-31 08:58:31
 image: 'https://m.media-amazon.com/images/I/51DPK1BfO+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R8J5DV-es Pack: Pop! Marvel Vs. Capcom Infinite 2 - Rocket Vs. Mega...'
 sku: 'B075R8J5DV-es'
 tags: [  ]

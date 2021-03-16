@@ -5,7 +5,7 @@ date: 2020-08-17 15:16:53
 image: 'https://m.media-amazon.com/images/I/21NewKWKc8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016UP9RIE-es Apple MJ2R2ZM/A - Magic Trackpad 2 color blanco y plata'
 sku: 'B016UP9RIE-es'
 tags: [  ]

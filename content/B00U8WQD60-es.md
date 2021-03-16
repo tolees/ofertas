@@ -5,7 +5,7 @@ date: 2020-09-27 08:53:17
 image: 'https://m.media-amazon.com/images/I/41DD3CfgbNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U8WQD60-es Sesderma Factor G Renew Antiedad 30 ml'
 sku: 'B00U8WQD60-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 15:09:49
 image: 'https://m.media-amazon.com/images/I/51d3XD7nj+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBH5D2L-es WiCareYo 1.8M 6ft Audio Video Cable AV 9 Pines para...'
 sku: 'B07HBH5D2L-es'
 tags: [  ]

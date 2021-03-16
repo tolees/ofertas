@@ -5,7 +5,7 @@ date: 2020-07-18 21:19:41
 image: 'https://m.media-amazon.com/images/I/417vAC7ujwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3M9B1R-es Kipling ONALO Bolsa de Viaje 45 cm 18 Liters Azul Laser Blue'
 sku: 'B07V3M9B1R-es'
 tags: [  ]

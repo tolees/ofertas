@@ -5,7 +5,7 @@ date: 2020-08-04 21:45:27
 image: 'https://m.media-amazon.com/images/I/41RnhK2uHxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089QSJ9G7-es Haioo Mini Ventilador USB Portátil y Silencioso Rotación...'
 sku: 'B089QSJ9G7-es'
 tags: [  ]

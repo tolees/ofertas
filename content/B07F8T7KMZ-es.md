@@ -5,7 +5,7 @@ date: 2020-05-31 19:57:24
 image: 'https://m.media-amazon.com/images/I/31nLRkDC-2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8T7KMZ-es VNOX de Acero Inoxidable y Chapado en Oro 3A Cubic...'
 sku: 'B07F8T7KMZ-es'
 tags: [  ]

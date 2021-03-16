@@ -5,7 +5,7 @@ date: 2020-04-01 06:55:40
 image: 'https://m.media-amazon.com/images/I/31IE4+Um2iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPPYV2B-es Levi s XX Std II Pantalones Beige True Chino Shady GD Ccu...'
 sku: 'B07TPPYV2B-es'
 tags: [  ]

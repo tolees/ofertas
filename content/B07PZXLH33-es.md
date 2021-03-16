@@ -5,7 +5,7 @@ date: 2020-03-25 11:40:17
 image: 'https://m.media-amazon.com/images/I/418v+Yi8E9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZXLH33-es Lenovo Ideapad 530S-14IKB Ordenador Portátil Full HD Intel...'
 sku: 'B07PZXLH33-es'
 tags: [  ]

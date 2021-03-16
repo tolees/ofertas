@@ -5,7 +5,7 @@ date: 2020-02-07 09:30:37
 image: 'https://m.media-amazon.com/images/I/31nOIsDT9JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QJLM-es Napapijri EILS Polo Blanco Bright White 002 XL para Hombre'
 sku: 'B07MK1QJLM-es'
 tags: [  ]

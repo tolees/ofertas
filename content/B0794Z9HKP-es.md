@@ -5,7 +5,7 @@ date: 2020-02-04 16:09:38
 image: 'https://m.media-amazon.com/images/I/51z7R0YS+-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0794Z9HKP-es Orient FAC08004D0 - Reloj de Pulsera para Hombre Azul/Negro'
 sku: 'B0794Z9HKP-es'
 tags: [  ]

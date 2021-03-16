@@ -5,7 +5,7 @@ date: 2020-06-27 20:13:25
 image: 'https://m.media-amazon.com/images/I/41fdN94o6DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ARYJCG6-es Einhell Expert Taladro Power X-Change TE-CD 18/2 Li 18V...'
 sku: 'B01ARYJCG6-es'
 tags: [  ]

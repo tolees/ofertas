@@ -5,7 +5,7 @@ date: 2020-02-22 19:06:46
 image: 'https://m.media-amazon.com/images/I/41biRD5fzRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NX4T6HB-es Igi&Co Uomo Gore-tex-41367 Zapatillas de Gimnasia para...'
 sku: 'B07NX4T6HB-es'
 tags: [  ]

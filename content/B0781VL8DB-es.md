@@ -5,7 +5,7 @@ date: 2020-05-08 17:29:33
 image: 'https://m.media-amazon.com/images/I/31w7DahuhHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781VL8DB-es Puma Liga Training Pant Core Pantalones Hombre Azul Azul...'
 sku: 'B0781VL8DB-es'
 tags: [  ]

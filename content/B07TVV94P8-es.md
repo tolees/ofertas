@@ -5,7 +5,7 @@ date: 2020-01-22 11:10:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31QZb5QfK0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVV94P8-es TOUS BRIGHT - Pendientes amatista hidrotermal con base de...'
 sku: 'B07TVV94P8-es'
 tags: [  ]

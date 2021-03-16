@@ -5,7 +5,7 @@ date: 2020-04-27 12:32:52
 image: 'https://m.media-amazon.com/images/I/3114etBdbFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYVHW7L-es Elbe Regleta multienchufe retráctil 2 USB Mesa Enchufe...'
 sku: 'B07YYVHW7L-es'
 tags: [  ]

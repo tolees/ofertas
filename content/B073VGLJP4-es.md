@@ -5,7 +5,7 @@ date: 2020-05-30 13:19:46
 image: 'https://m.media-amazon.com/images/I/6174XHk+vsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VGLJP4-es KUNGYO Letras Tipo Balón Doradas Happy Birthday+Número 40...'
 sku: 'B073VGLJP4-es'
 tags: [  ]

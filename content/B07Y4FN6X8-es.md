@@ -5,7 +5,7 @@ date: 2020-08-19 12:14:04
 image: 'https://m.media-amazon.com/images/I/41rhgIo93kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4FN6X8-es Compatible con Samsung Galaxy Note 10 Pro funda de...'
 sku: 'B07Y4FN6X8-es'
 tags: [  ]

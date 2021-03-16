@@ -5,7 +5,7 @@ date: 2020-05-25 10:38:00
 image: 'https://m.media-amazon.com/images/I/41QtXk1QyjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW2J1SZ-es VicTsing Transmisor FM Bluetooth Coche Manos Libres...'
 sku: 'B07DW2J1SZ-es'
 tags: [  ]

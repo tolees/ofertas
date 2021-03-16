@@ -5,7 +5,7 @@ date: 2020-03-20 13:25:41
 image: 'https://m.media-amazon.com/images/I/51Ss13zbO4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RCFQFQ-es BRIKSMAX Kit de Iluminación Led para Lego Hidden Side...'
 sku: 'B081RCFQFQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-31 07:41:08
 image: 'https://m.media-amazon.com/images/I/41u-7RTwZRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VYD5F5-es Millet LD AMURI Zapatillas de Senderismo para Mujer...'
 sku: 'B079VYD5F5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 16:42:08
 image: 'https://m.media-amazon.com/images/I/61-shi8JZnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGX4BJ6-es DREAMWIN 38 Piezas Máscaras de Superhéroe Máscaras de...'
 sku: 'B07QGX4BJ6-es'
 tags: [  ]

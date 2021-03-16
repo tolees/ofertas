@@ -5,7 +5,7 @@ date: 2020-01-28 09:12:26
 image: 'https://m.media-amazon.com/images/I/51ra1w4Ym6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LM391CC-es Juego De Tronos Temporada 4 Blu-Ray Premium [Blu-ray]'
 sku: 'B00LM391CC-es'
 tags: [  ]

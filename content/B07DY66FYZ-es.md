@@ -5,7 +5,7 @@ date: 2020-10-08 15:30:28
 image: 'https://m.media-amazon.com/images/I/414k6m0u5dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DY66FYZ-es Orient Reloj Analógico para Unisex Adultos de Automático...'
 sku: 'B07DY66FYZ-es'
 tags: [  ]

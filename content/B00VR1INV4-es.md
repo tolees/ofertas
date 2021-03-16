@@ -5,7 +5,7 @@ date: 2020-01-10 18:21:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41e19dI30XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VR1INV4-es Ecco Irving Mocasines para Hombre Negro BLACK2001 44 EU'
 sku: 'B00VR1INV4-es'
 tags: [  ]

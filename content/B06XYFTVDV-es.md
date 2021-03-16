@@ -5,7 +5,7 @@ date: 2020-08-28 09:02:46
 image: 'https://m.media-amazon.com/images/I/51S-mem8xOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYFTVDV-es Correas de Yoga Ajustable de 2 4 m – 2 x Pack I Incluye...'
 sku: 'B06XYFTVDV-es'
 tags: [  ]

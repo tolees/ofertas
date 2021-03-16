@@ -5,7 +5,7 @@ date: 2020-10-09 09:51:02
 image: 'https://m.media-amazon.com/images/I/514icOyoIPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MLYQDM-es 32GB de memoria DDR4 SO-DIMM de Apple a 2.400 MHz 2...'
 sku: 'B072MLYQDM-es'
 tags: [  ]

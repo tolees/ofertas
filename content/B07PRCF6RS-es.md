@@ -5,7 +5,7 @@ date: 2020-01-27 15:04:16
 image: 'https://m.media-amazon.com/images/I/417WctfwalL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRCF6RS-es Kipling - Creativity S Monederos Mujer Multicolor Camo...'
 sku: 'B07PRCF6RS-es'
 tags: [  ]

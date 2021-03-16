@@ -5,7 +5,7 @@ date: 2020-09-20 12:35:17
 image: 'https://m.media-amazon.com/images/I/516qrpqe3-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774WGGJ5-es Pop Lobo Vinyl Figure'
 sku: 'B0774WGGJ5-es'
 tags: [  ]

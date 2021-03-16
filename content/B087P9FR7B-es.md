@@ -5,7 +5,7 @@ date: 2020-09-21 18:58:09
 image: 'https://m.media-amazon.com/images/I/51CGgH7mPoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087P9FR7B-es Anpro 220 PCS Kit de Costura Kit Coser Costurero Estuche...'
 sku: 'B087P9FR7B-es'
 tags: [  ]

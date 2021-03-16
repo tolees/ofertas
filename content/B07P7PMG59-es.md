@@ -5,7 +5,7 @@ date: 2020-01-05 16:31:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wm9DnMn6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7PMG59-es Labanema Moto G7 Power Funda [Heavy Duty] [Doble Capa]...'
 sku: 'B07P7PMG59-es'
 tags: [  ]

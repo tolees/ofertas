@@ -5,7 +5,7 @@ date: 2020-10-03 09:01:40
 image: 'https://m.media-amazon.com/images/I/31t1LKQ+EfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001HVS57Q-es Beurer UB30 Calientacamas individual 100% algodón en capa...'
 sku: 'B001HVS57Q-es'
 tags: [  ]

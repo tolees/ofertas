@@ -5,7 +5,7 @@ date: 2020-01-09 15:01:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41euM1g3DbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711HMJC4-es Reloj Viceroy - Hombre 42295-47'
 sku: 'B0711HMJC4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-09 15:28:56
 image: 'https://m.media-amazon.com/images/I/61BrKaGjVOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083L6Z2QH-es Ballet Girl Night Light para Niños Luces de Lámpara de...'
 sku: 'B083L6Z2QH-es'
 tags: [  ]

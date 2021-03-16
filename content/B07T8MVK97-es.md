@@ -5,7 +5,7 @@ date: 2020-08-23 16:52:17
 image: 'https://m.media-amazon.com/images/I/41VFPWeZBKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8MVK97-es 4 diademas Naruto con chapado en metal para cosplay hoja...'
 sku: 'B07T8MVK97-es'
 tags: [  ]

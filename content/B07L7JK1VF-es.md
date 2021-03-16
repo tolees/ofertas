@@ -5,7 +5,7 @@ date: 2020-02-24 19:16:24
 image: 'https://m.media-amazon.com/images/I/418v4gW3v+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L7JK1VF-es RUNCCI 3528 2835 2 pines 8 mm Kit de conector de barra de...'
 sku: 'B07L7JK1VF-es'
 tags: [  ]

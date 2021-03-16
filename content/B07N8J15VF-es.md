@@ -5,7 +5,7 @@ date: 2020-01-31 23:05:47
 image: 'https://m.media-amazon.com/images/I/417GVEY3kDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8J15VF-es Skechers Men s PAXMEN Trainers Grey Charcoal/Navy Ccnv 9 UK'
 sku: 'B07N8J15VF-es'
 tags: [  ]

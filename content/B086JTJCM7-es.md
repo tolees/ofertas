@@ -5,7 +5,7 @@ date: 2020-04-16 00:03:27
 image: 'https://m.media-amazon.com/images/I/41ExKXK5HAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086JTJCM7-es SALAKA Contactos de Costura Kit 1Ponga Bias Tape Maker...'
 sku: 'B086JTJCM7-es'
 tags: [  ]

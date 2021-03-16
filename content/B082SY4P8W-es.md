@@ -5,7 +5,7 @@ date: 2020-03-21 18:05:50
 image: 'https://m.media-amazon.com/images/I/411iIm9UcQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SY4P8W-es Cable Ethernet Plano Cable LAN RJ45 Redes LAN Cables...'
 sku: 'B082SY4P8W-es'
 tags: [  ]

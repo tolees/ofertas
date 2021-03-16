@@ -5,7 +5,7 @@ date: 2020-04-24 16:04:08
 image: 'https://m.media-amazon.com/images/I/31B0jgStnQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRKF8VN-es Nuevo Cable de Cable de liberación de Obturador de...'
 sku: 'B07ZRKF8VN-es'
 tags: [  ]

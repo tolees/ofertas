@@ -5,7 +5,7 @@ date: 2020-09-13 09:51:24
 image: 'https://m.media-amazon.com/images/I/615Zr291F7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008AJEGBC-es New Super Mario Bros 2'
 sku: 'B008AJEGBC-es'
 tags: [  ]

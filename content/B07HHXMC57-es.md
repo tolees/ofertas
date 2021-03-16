@@ -5,7 +5,7 @@ date: 2020-06-14 11:54:32
 image: 'https://m.media-amazon.com/images/I/31GASSpdCJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHXMC57-es Nike Team Hustle D 9 PS Zapatillas de Baloncesto Unisex...'
 sku: 'B07HHXMC57-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-18 02:49:19
 image: 'https://m.media-amazon.com/images/I/31dckSUeS1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E3ETN92-es Maybelline New York Eyeliner Master Precise Curvy Tono 01...'
 sku: 'B01E3ETN92-es'
 tags: [  ]

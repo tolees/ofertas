@@ -5,7 +5,7 @@ date: 2020-02-19 20:08:11
 image: 'https://m.media-amazon.com/images/I/41rUfpxmNEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YMNPD7-es Funko Pop!- Pop Marvel: Spider-Man Miles Morales Figura de...'
 sku: 'B079YMNPD7-es'
 tags: [  ]

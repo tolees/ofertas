@@ -5,7 +5,7 @@ date: 2020-06-01 12:17:26
 image: 'https://m.media-amazon.com/images/I/41vvLq2hSgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4RW6GK-es Purina Friskies Pienso para Perro Adulto Buey Cereales y...'
 sku: 'B07H4RW6GK-es'
 tags: [  ]

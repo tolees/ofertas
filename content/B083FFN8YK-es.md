@@ -5,7 +5,7 @@ date: 2020-04-10 00:36:51
 image: 'https://m.media-amazon.com/images/I/416esuoysNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FFN8YK-es DIGITNOW! Convertidor de captura de vídeo USB Scart o VHS...'
 sku: 'B083FFN8YK-es'
 tags: [  ]

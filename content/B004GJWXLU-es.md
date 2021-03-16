@@ -5,7 +5,7 @@ date: 2020-07-15 16:34:44
 image: 'https://m.media-amazon.com/images/I/21hMZlFt3SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004GJWXLU-es ESPRIT Leggings Para Mujer Azul Marine 40/42 EU 14/16 UK'
 sku: 'B004GJWXLU-es'
 tags: [  ]

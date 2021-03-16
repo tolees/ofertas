@@ -5,7 +5,7 @@ date: 2020-10-10 07:40:23
 image: 'https://m.media-amazon.com/images/I/51s1612-VAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA0XYXM-es Príncipe Mini - Galletas Rellenas de Chocolate con Leche...'
 sku: 'B00XA0XYXM-es'
 tags: [  ]

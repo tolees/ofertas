@@ -5,7 +5,7 @@ date: 2020-02-11 19:47:10
 image: 'https://m.media-amazon.com/images/I/41BuOdj4AtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MHDV7T-es Calcetines de Deporte Low Cut Pack de 5 Multicolor EU 35-38'
 sku: 'B075MHDV7T-es'
 tags: [  ]

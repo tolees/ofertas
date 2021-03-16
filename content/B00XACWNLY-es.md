@@ -5,7 +5,7 @@ date: 2020-03-18 21:10:21
 image: 'https://m.media-amazon.com/images/I/41C7WqYpOBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XACWNLY-es Durex Preservativos Saboreame con Sabores Afrutados - 12...'
 sku: 'B00XACWNLY-es'
 tags: [  ]

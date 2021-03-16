@@ -5,7 +5,7 @@ date: 2020-06-13 08:46:57
 image: 'https://m.media-amazon.com/images/I/51abvPa8tGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHC7G1P-es SYOSS Laca - 6 de 400 ml. Total 2400 ml'
 sku: 'B07HHC7G1P-es'
 tags: [  ]

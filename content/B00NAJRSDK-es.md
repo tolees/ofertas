@@ -5,7 +5,7 @@ date: 2020-09-19 07:44:25
 image: 'https://m.media-amazon.com/images/I/41T3LYrJ-jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NAJRSDK-es Compex Electroestimulador Unisex Negro'
 sku: 'B00NAJRSDK-es'
 tags: [  ]

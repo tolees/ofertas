@@ -5,7 +5,7 @@ date: 2020-01-16 08:29:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HKifBnBEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IED0ITM-es ZOWEETEK® Hub USB 3.0 de 3 Puertos + 1 Puerto Ethernet...'
 sku: 'B01IED0ITM-es'
 tags: [  ]

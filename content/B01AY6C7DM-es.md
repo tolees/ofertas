@@ -5,7 +5,7 @@ date: 2020-04-10 19:31:58
 image: 'https://m.media-amazon.com/images/I/41zhItunLSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AY6C7DM-es UGG Female Mini Bailey Button II Classic Boot Chestnut 5 UK'
 sku: 'B01AY6C7DM-es'
 tags: [  ]

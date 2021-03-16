@@ -5,7 +5,7 @@ date: 2020-06-05 13:34:44
 image: 'https://m.media-amazon.com/images/I/31Xt50mHxyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NH12RWL-es Finether-Lámpara de Pie Plegable Táctil de Alumnio con...'
 sku: 'B01NH12RWL-es'
 tags: [  ]

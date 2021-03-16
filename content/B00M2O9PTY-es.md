@@ -5,7 +5,7 @@ date: 2020-07-08 23:36:20
 image: 'https://m.media-amazon.com/images/I/41lP9gyr8hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M2O9PTY-es Cybex Silver Pallas 2-Fix 515111001 Silla de Coche 2 en 1...'
 sku: 'B00M2O9PTY-es'
 tags: [  ]

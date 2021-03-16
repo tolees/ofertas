@@ -5,7 +5,7 @@ date: 2020-06-27 06:23:31
 image: 'https://m.media-amazon.com/images/I/51KwY7YIeQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071S7WDLP-es I-CLIP ® Cartera Jeans-Mirada Gris Disponible En 2 Variantes'
 sku: 'B071S7WDLP-es'
 tags: [  ]

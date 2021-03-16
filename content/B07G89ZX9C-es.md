@@ -5,7 +5,7 @@ date: 2020-04-30 11:31:49
 image: 'https://m.media-amazon.com/images/I/31t3AaquLDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G89ZX9C-es Giorgi Sublime Cream Antiencrespamiento Melena Bajo...'
 sku: 'B07G89ZX9C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-28 03:27:46
 image: 'https://m.media-amazon.com/images/I/51H8CmLhDzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFR3P98-es Microsoft Surface Book 2 - Ordenador portátil convertible...'
 sku: 'B07BFR3P98-es'
 tags: [  ]

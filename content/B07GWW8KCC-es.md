@@ -5,7 +5,7 @@ date: 2020-03-05 17:20:15
 image: 'https://m.media-amazon.com/images/I/419SLrPR2SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWW8KCC-es Cable guy XL Spyro the dragon soporte de sujeción o carga...'
 sku: 'B07GWW8KCC-es'
 tags: [  ]

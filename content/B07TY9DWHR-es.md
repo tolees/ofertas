@@ -5,7 +5,7 @@ date: 2020-01-20 17:28:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410KtLCbcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY9DWHR-es INNObeta KlyN 7 litros Neceser Mujer Hombre de Viaje para...'
 sku: 'B07TY9DWHR-es'
 tags: [  ]

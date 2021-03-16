@@ -5,7 +5,7 @@ date: 2020-04-03 05:10:47
 image: 'https://m.media-amazon.com/images/I/61KMNBAy0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W9L2DDM-es Sntieecr - Hojas de piel sintética con purpurina para...'
 sku: 'B07W9L2DDM-es'
 tags: [  ]

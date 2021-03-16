@@ -5,7 +5,7 @@ date: 2020-07-12 17:55:35
 image: 'https://m.media-amazon.com/images/I/41ustWDW6XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7ST62Q-es Trust GXT 101P GAV - Ratón Gaming de 4800 PPP con 6...'
 sku: 'B07K7ST62Q-es'
 tags: [  ]

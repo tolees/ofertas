@@ -5,7 +5,7 @@ date: 2020-06-08 16:31:23
 image: 'https://m.media-amazon.com/images/I/412u8tlkxRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXG8S3Y-es COFIT Cargador de Coche 2 USB Adaptador 3 Sockets...'
 sku: 'B07CXG8S3Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-04 09:24:12
 image: 'https://m.media-amazon.com/images/I/51CyZyKrxdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SUE9FD6-es Tuc Tuc 6550 - Mini saco niños'
 sku: 'B00SUE9FD6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-01 08:04:12
 image: 'https://m.media-amazon.com/images/I/41Nz0X-vRVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQHK8YC-es Piz Buin Allergy Protector Solar en Spray SPF 50+...'
 sku: 'B07PQHK8YC-es'
 tags: [  ]

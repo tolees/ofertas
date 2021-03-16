@@ -5,7 +5,7 @@ date: 2020-04-24 20:04:35
 image: 'https://m.media-amazon.com/images/I/41JIdUhpExL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08254VRGB-es Paraguas Frozen 2 Disney Paraguas Cúpula Paraguas...'
 sku: 'B08254VRGB-es'
 tags: [  ]

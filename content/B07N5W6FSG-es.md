@@ -5,7 +5,7 @@ date: 2020-02-07 20:36:11
 image: 'https://m.media-amazon.com/images/I/61SQgTSzcCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5W6FSG-es ELEVATED NYLON MINI CROSSOVERHombreMonederosAzul Sky...'
 sku: 'B07N5W6FSG-es'
 tags: [  ]

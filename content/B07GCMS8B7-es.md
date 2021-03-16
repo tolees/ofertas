@@ -5,7 +5,7 @@ date: 2020-06-29 10:39:41
 image: 'https://m.media-amazon.com/images/I/31TIwLQ3SUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCMS8B7-es Tommee Tippee Doudou Ernesto el Elefante'
 sku: 'B07GCMS8B7-es'
 tags: [  ]

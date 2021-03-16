@@ -5,7 +5,7 @@ date: 2020-09-03 16:31:47
 image: 'https://m.media-amazon.com/images/I/3146y6Y0NOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012ATLFS4-es KabelDirekt 12cm Cable 3.5mm Jack Cable de Adaptador 3.5mm...'
 sku: 'B012ATLFS4-es'
 tags: [  ]

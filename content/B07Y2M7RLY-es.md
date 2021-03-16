@@ -5,7 +5,7 @@ date: 2020-05-04 11:38:23
 image: 'https://m.media-amazon.com/images/I/51lXrlTTNQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y2M7RLY-es Bayala the Game'
 sku: 'B07Y2M7RLY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-12 11:31:49
 image: 'https://m.media-amazon.com/images/I/41KSqSkk0SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084Y1NH6F-es Rettos - Zapatillas Bajas Hombre Afelpado/NAPA GRABADA...'
 sku: 'B084Y1NH6F-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 01:47:27
 image: 'https://m.media-amazon.com/images/I/41GyBQO9VTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYRFYY-es PUMA Ralph Sampson LO Zapatillas Deportivas Unisex-Adulto...'
 sku: 'B07KFYRFYY-es'
 tags: [  ]

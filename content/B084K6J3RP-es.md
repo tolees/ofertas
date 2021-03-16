@@ -5,7 +5,7 @@ date: 2020-10-08 02:50:40
 image: 'https://m.media-amazon.com/images/I/418q5bvxcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084K6J3RP-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B084K6J3RP-es'
 tags: [  ]

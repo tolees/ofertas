@@ -5,7 +5,7 @@ date: 2020-10-02 07:29:39
 image: 'https://m.media-amazon.com/images/I/51Lq1dowiuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRG3HAY-es Brazalete Deportivo para Correr Prueba de Sudor Apoyo...'
 sku: 'B01MRG3HAY-es'
 tags: [  ]

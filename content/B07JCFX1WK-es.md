@@ -5,7 +5,7 @@ date: 2020-07-30 22:30:45
 image: 'https://m.media-amazon.com/images/I/314qvC8ZbVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCFX1WK-es Lenovo Yoga730 - Ordenador portátil táctil Convertible...'
 sku: 'B07JCFX1WK-es'
 tags: [  ]

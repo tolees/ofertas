@@ -5,7 +5,7 @@ date: 2020-06-18 00:00:38
 image: 'https://m.media-amazon.com/images/I/317dfLFLI6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VMZBG0-es Wentronic Goobay 10m RJ-11/RJ-45 Cable Negro - Adaptador...'
 sku: 'B000VMZBG0-es'
 tags: [  ]

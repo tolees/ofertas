@@ -5,7 +5,7 @@ date: 2020-04-19 18:43:22
 image: 'https://m.media-amazon.com/images/I/51NmYlVy+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4D8X4C-es WWE 2K20 - Deluxe Edition'
 sku: 'B07W4D8X4C-es'
 tags: [  ]

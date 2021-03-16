@@ -5,7 +5,7 @@ date: 2020-05-12 21:57:46
 image: 'https://m.media-amazon.com/images/I/513kuGzvCIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V475JCJ-es Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07V475JCJ-es'
 tags: [  ]

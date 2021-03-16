@@ -5,7 +5,7 @@ date: 2020-04-13 09:58:38
 image: 'https://m.media-amazon.com/images/I/51yBAVNDjcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086JRLMTW-es 50 piezas de almohadillas antipolvo almohadillas...'
 sku: 'B086JRLMTW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-04 08:47:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51RoifnNOFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P882MXP-es deAO Conjunto Aéreo de Juguete a Fricción 12 Figuras...'
 sku: 'B07P882MXP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-23 09:51:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TmPe645ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1LD5Q-es PUMA One 5.4 TT Botas de fútbol para Hombre White Black-...'
 sku: 'B07KG1LD5Q-es'
 tags: [  ]

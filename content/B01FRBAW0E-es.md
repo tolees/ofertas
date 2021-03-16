@@ -5,7 +5,7 @@ date: 2020-03-08 12:59:51
 image: 'https://m.media-amazon.com/images/I/41w0-cOb5lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FRBAW0E-es Bella Aurora Solar Anti-Manchas Para Piel Sensible SPF 50+'
 sku: 'B01FRBAW0E-es'
 tags: [  ]

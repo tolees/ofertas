@@ -5,7 +5,7 @@ date: 2020-07-20 11:30:30
 image: 'https://m.media-amazon.com/images/I/41+7zReG4wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LJTNV3-es QHOHQ Funda Samsung Galaxy A51 4G No 5G +2 Pack Cristal...'
 sku: 'B083LJTNV3-es'
 tags: [  ]

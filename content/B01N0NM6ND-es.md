@@ -5,7 +5,7 @@ date: 2020-01-15 17:34:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31FnXbE32RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0NM6ND-es Arregui C9427 Caja De Seguridad Con Cable Para Fijación Negro'
 sku: 'B01N0NM6ND-es'
 tags: [  ]

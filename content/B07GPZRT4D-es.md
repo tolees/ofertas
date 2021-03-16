@@ -5,7 +5,7 @@ date: 2020-06-05 08:46:45
 image: 'https://m.media-amazon.com/images/I/516JFVhL+hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPZRT4D-es Subnautica'
 sku: 'B07GPZRT4D-es'
 tags: [  ]

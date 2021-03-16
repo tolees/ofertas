@@ -5,7 +5,7 @@ date: 2020-03-10 21:49:25
 image: 'https://m.media-amazon.com/images/I/419aG4X4ARL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004NIGRIO-es Cressi Mettalite Escarpines Neopreno Metallite Unisex...'
 sku: 'B004NIGRIO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-25 20:33:12
 image: 'https://m.media-amazon.com/images/I/41CRc+KN-QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHMNSGJ-es Inventor EVA II Pro Wifi 20 litros/día Deshumidificador...'
 sku: 'B07XHMNSGJ-es'
 tags: [  ]

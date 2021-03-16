@@ -5,7 +5,7 @@ date: 2020-08-08 08:16:38
 image: 'https://m.media-amazon.com/images/I/31oult102lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8VGHPP-es Tommy Hilfiger Essential Stripes Detail Sneaker Zapatillas...'
 sku: 'B07V8VGHPP-es'
 tags: [  ]

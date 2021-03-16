@@ -5,7 +5,7 @@ date: 2020-05-16 00:34:03
 image: 'https://m.media-amazon.com/images/I/41oylU528OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GS5MJMT-es Rimmel London Match Perfection Foundation Base de...'
 sku: 'B07GS5MJMT-es'
 tags: [  ]

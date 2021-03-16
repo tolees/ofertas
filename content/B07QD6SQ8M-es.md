@@ -5,7 +5,7 @@ date: 2020-01-14 12:17:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31wlYjcfPtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD6SQ8M-es PUMA Alpha Leggings G Mallas Deporte Niñas Light Gray...'
 sku: 'B07QD6SQ8M-es'
 tags: [  ]

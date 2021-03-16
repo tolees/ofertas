@@ -5,7 +5,7 @@ date: 2020-02-08 18:58:24
 image: 'https://m.media-amazon.com/images/I/31PCLxmK4pL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKGD4NF-es Kipling IAKA L Wristlet Bolsos para Mujer Morado Active...'
 sku: 'B07DKGD4NF-es'
 tags: [  ]

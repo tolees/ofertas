@@ -5,7 +5,7 @@ date: 2020-08-02 14:55:26
 image: 'https://m.media-amazon.com/images/I/41y2KDxH+tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQ996SB-es L Oréal Men Expert gel de lavado de carbón puro contra las...'
 sku: 'B07YQ996SB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 09:49:24
 image: 'https://m.media-amazon.com/images/I/41zYJp-Y9YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTOGEE-es G-Star Raw Bronson Pantalones Para Hombre Beige Dune 1794...'
 sku: 'B01BGTOGEE-es'
 tags: [  ]

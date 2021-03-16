@@ -5,7 +5,7 @@ date: 2020-05-28 08:55:39
 image: 'https://m.media-amazon.com/images/I/41nfJIXl2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QJO3V70-es Smeg TSBW02 Accesorio De De Tostadora De plástico Acero...'
 sku: 'B00QJO3V70-es'
 tags: [  ]

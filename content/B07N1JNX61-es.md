@@ -5,7 +5,7 @@ date: 2020-03-18 02:19:56
 image: 'https://m.media-amazon.com/images/I/315nri+7hNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JNX61-es Clarks Un Maui Lace Zapatillas para Mujer Azul Navy...'
 sku: 'B07N1JNX61-es'
 tags: [  ]

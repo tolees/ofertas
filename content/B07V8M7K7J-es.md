@@ -5,7 +5,7 @@ date: 2020-02-03 20:17:12
 image: 'https://m.media-amazon.com/images/I/51rAHqjv2CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8M7K7J-es Mishansha Zapatillas de Estar en Casa Hombre Mujer...'
 sku: 'B07V8M7K7J-es'
 tags: [  ]

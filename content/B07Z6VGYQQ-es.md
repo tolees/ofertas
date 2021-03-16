@@ -5,7 +5,7 @@ date: 2020-05-16 16:36:39
 image: 'https://m.media-amazon.com/images/I/41Ps1K7ASGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6VGYQQ-es Flores Mediterráneas A.G F. Mediterráneas Lilas y Mimosas...'
 sku: 'B07Z6VGYQQ-es'
 tags: [  ]

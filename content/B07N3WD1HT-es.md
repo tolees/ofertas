@@ -5,7 +5,7 @@ date: 2020-06-23 19:08:21
 image: 'https://m.media-amazon.com/images/I/51OgTgezwwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3WD1HT-es Raclette con Piedra Natural Antiadherente Mango Térmico...'
 sku: 'B07N3WD1HT-es'
 tags: [  ]

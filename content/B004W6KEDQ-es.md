@@ -5,7 +5,7 @@ date: 2020-06-01 10:28:58
 image: 'https://m.media-amazon.com/images/I/51Z97MvoFcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004W6KEDQ-es Navigator Expression - Paquete de 2500 folios de papel...'
 sku: 'B004W6KEDQ-es'
 tags: [  ]

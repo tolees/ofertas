@@ -5,7 +5,7 @@ date: 2020-05-24 13:03:12
 image: 'https://m.media-amazon.com/images/I/41qaitE9xVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYWZLJV-es Masajeador multifunción más divertido USB recargable'
 sku: 'B07VYWZLJV-es'
 tags: [  ]

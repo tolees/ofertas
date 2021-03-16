@@ -5,7 +5,7 @@ date: 2020-08-09 13:18:57
 image: 'https://m.media-amazon.com/images/I/411-TgdlhqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XSQ644G-es L.O.L Surprise Giochi Preziosi Hairvibes - Juguete para...'
 sku: 'B07XSQ644G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-16 13:34:57
 image: 'https://m.media-amazon.com/images/I/41U9Xzh+38L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000JUF98Y-es SEVERIN Raclette Partygrill con Piedra Natural y Plancha...'
 sku: 'B000JUF98Y-es'
 tags: [  ]

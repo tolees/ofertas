@@ -5,7 +5,7 @@ date: 2020-03-30 14:27:59
 image: 'https://m.media-amazon.com/images/I/212ADfp3CxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004GXH1JK-es Maybelline New York Barra de Labios Superstay 24H Larga...'
 sku: 'B004GXH1JK-es'
 tags: [  ]

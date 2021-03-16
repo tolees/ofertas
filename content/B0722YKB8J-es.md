@@ -5,7 +5,7 @@ date: 2019-12-31 21:16:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51aN5zkcPHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0722YKB8J-es Fossil ES4331 - Reloj analógico para mujer de cuarzo con...'
 sku: 'B0722YKB8J-es'
 tags: [  ]

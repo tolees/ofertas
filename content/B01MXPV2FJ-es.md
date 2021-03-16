@@ -5,7 +5,7 @@ date: 2020-01-05 07:31:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31gKut3TC7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXPV2FJ-es Energy Sistem Tower 1 - Sistema de altavoces en torre con...'
 sku: 'B01MXPV2FJ-es'
 tags: [  ]

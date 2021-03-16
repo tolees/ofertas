@@ -5,7 +5,7 @@ date: 2020-02-08 15:23:30
 image: 'https://m.media-amazon.com/images/I/31TpVTaw8aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H3K2KCA-es Flexi New Comfort - Cinta Gris Talla S'
 sku: 'B01H3K2KCA-es'
 tags: [  ]

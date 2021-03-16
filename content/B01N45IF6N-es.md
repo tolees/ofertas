@@ -5,7 +5,7 @@ date: 2020-08-20 21:15:26
 image: 'https://m.media-amazon.com/images/I/51jiW-V-WdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N45IF6N-es muveacoustics a-Plus inalámbrico portátil Bluetooth...'
 sku: 'B01N45IF6N-es'
 tags: [  ]

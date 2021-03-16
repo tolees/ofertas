@@ -5,7 +5,7 @@ date: 2020-02-17 10:33:57
 image: 'https://m.media-amazon.com/images/I/51Djwb4BgNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS36C1L-es Jvchengxi Funda Protectora para Galaxy Watch Active...'
 sku: 'B07RS36C1L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 15:49:55
 image: 'https://m.media-amazon.com/images/I/51qC8wRzbZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDFZNY9-es Colmanda 4 Pcs Planos de Espuma + 4 Pcs Juguete de...'
 sku: 'B08CDFZNY9-es'
 tags: [  ]

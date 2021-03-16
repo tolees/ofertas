@@ -5,7 +5,7 @@ date: 2020-05-05 20:28:31
 image: 'https://m.media-amazon.com/images/I/31jJvdS57lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KKNABDS-es Habitdesign 007820BO - Mesita de noche dos cajones Ward.E...'
 sku: 'B00KKNABDS-es'
 tags: [  ]

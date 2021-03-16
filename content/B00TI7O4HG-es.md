@@ -5,7 +5,7 @@ date: 2020-06-21 19:01:53
 image: 'https://m.media-amazon.com/images/I/51SKkQZH2zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TI7O4HG-es Keter - Caseta de jardín exterior Fusion 7 5x9 Color marrón'
 sku: 'B00TI7O4HG-es'
 tags: [  ]

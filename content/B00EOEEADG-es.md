@@ -5,7 +5,7 @@ date: 2020-06-23 21:50:39
 image: 'https://m.media-amazon.com/images/I/411rv08PNkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EOEEADG-es Belkin F8J121BT04-BLK - Cable Color Negro'
 sku: 'B00EOEEADG-es'
 tags: [  ]

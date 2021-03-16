@@ -5,7 +5,7 @@ date: 2020-08-14 15:53:15
 image: 'https://m.media-amazon.com/images/I/51t3B9FvtuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XK958TH-es Seagate One Touch SSD 500 GB Disco duro externo portátil...'
 sku: 'B07XK958TH-es'
 tags: [  ]

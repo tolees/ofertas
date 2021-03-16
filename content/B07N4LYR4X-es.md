@@ -5,7 +5,7 @@ date: 2020-02-13 14:14:23
 image: 'https://m.media-amazon.com/images/I/312r-ALrBrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4LYR4X-es Levi s Twain Zapatillas para Hombre Negro Shoes 59 42 EU'
 sku: 'B07N4LYR4X-es'
 tags: [  ]

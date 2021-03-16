@@ -5,7 +5,7 @@ date: 2020-02-29 11:50:30
 image: 'https://m.media-amazon.com/images/I/41DyT8iSYQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D3HYYOK-es Le Dieci Erb Alim 100Tav Esi'
 sku: 'B00D3HYYOK-es'
 tags: [  ]

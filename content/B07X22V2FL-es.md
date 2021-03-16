@@ -5,7 +5,7 @@ date: 2020-02-13 16:20:46
 image: 'https://m.media-amazon.com/images/I/41JLCuBGWqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X22V2FL-es Amzdeal Trípode Cámara Trípode de Aluminio Portátil 164cm...'
 sku: 'B07X22V2FL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-17 21:51:10
 image: 'https://m.media-amazon.com/images/I/411oP+3Il5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085T8JN9G-es Mascarilla Antipolvo para Adultos Anti PM 2.5 Protección...'
 sku: 'B085T8JN9G-es'
 tags: [  ]

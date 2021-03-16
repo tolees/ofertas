@@ -5,7 +5,7 @@ date: 2020-07-01 14:27:57
 image: 'https://m.media-amazon.com/images/I/51GOjscvwTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG4DLYK-es Bosch Professional Sistema 12V Nivel Láser GCL 2-50 C 1...'
 sku: 'B06XG4DLYK-es'
 tags: [  ]

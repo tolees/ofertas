@@ -5,7 +5,7 @@ date: 2020-04-11 09:33:45
 image: 'https://m.media-amazon.com/images/I/31bK2NVIddL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0754NMR9Q-es Salomon Mallas para running AGILE LONG TIGHT tejido de...'
 sku: 'B0754NMR9Q-es'
 tags: [  ]

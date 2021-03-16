@@ -5,7 +5,7 @@ date: 2020-01-26 04:33:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-PWdWYDsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K74K6TX-es Asics Gel-Fujitrabuco 7 M G-TX 1011a209 Zapatillas de...'
 sku: 'B07K74K6TX-es'
 tags: [  ]

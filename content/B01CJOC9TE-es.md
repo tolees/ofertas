@@ -5,7 +5,7 @@ date: 2020-08-12 00:24:05
 image: 'https://m.media-amazon.com/images/I/51lkHYroDqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CJOC9TE-es JewelryWe Reloj de Parejas los Enamorados Retro Reloj de...'
 sku: 'B01CJOC9TE-es'
 tags: [  ]

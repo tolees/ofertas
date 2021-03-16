@@ -5,7 +5,7 @@ date: 2020-09-27 07:50:19
 image: 'https://m.media-amazon.com/images/I/3199xczYfBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WOGXRLC-es Halls - Caramelos Extra Fuerte sin Azúcar - 20 unidades'
 sku: 'B00WOGXRLC-es'
 tags: [  ]

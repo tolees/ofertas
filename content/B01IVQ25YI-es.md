@@ -5,7 +5,7 @@ date: 2020-07-25 18:33:54
 image: 'https://m.media-amazon.com/images/I/410rlIwqcCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IVQ25YI-es Joe Weider Victory Multivit Up 80 gummies Sabor naranja y...'
 sku: 'B01IVQ25YI-es'
 tags: [  ]

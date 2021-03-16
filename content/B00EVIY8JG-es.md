@@ -5,7 +5,7 @@ date: 2020-04-19 12:03:27
 image: 'https://m.media-amazon.com/images/I/314EH5GirlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EVIY8JG-es Converse - Zapatillas para mujer Blanco EU 39.5'
 sku: 'B00EVIY8JG-es'
 tags: [  ]

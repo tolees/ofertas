@@ -5,7 +5,7 @@ date: 2020-04-26 20:11:18
 image: 'https://m.media-amazon.com/images/I/41xMVGmJyhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HX4NDC-es G-Star RAW Rovulc Mid Wmn Zapatillas para Mujer Blanco...'
 sku: 'B077HX4NDC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-25 23:21:00
 image: 'https://m.media-amazon.com/images/I/41-eY7L28LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVY3BJG-es Skechers Men s Flex Advantage 3.0- Stally Trainers Black...'
 sku: 'B07JVY3BJG-es'
 tags: [  ]

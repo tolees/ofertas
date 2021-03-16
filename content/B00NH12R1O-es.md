@@ -5,7 +5,7 @@ date: 2020-07-08 16:08:12
 image: 'https://m.media-amazon.com/images/I/41p9mn0fmIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NH12R1O-es AmazonBasics - Cable USB 3.0 A macho a Micro B 1 8 m'
 sku: 'B00NH12R1O-es'
 tags: [  ]

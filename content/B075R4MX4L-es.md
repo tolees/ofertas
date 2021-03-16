@@ -5,7 +5,7 @@ date: 2020-07-28 17:57:24
 image: 'https://m.media-amazon.com/images/I/41M1CJV-x0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R4MX4L-es Firbon Álbum de Fotos álbum de Recortes Pegatina Creativa...'
 sku: 'B075R4MX4L-es'
 tags: [  ]

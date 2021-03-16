@@ -5,7 +5,7 @@ date: 2020-08-11 16:08:06
 image: 'https://m.media-amazon.com/images/I/31TqynV5-kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0745BJ2BR-es Brabantia Código Y Bolsas de Basura Formato Rollo Blanco...'
 sku: 'B0745BJ2BR-es'
 tags: [  ]

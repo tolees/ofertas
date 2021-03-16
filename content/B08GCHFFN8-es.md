@@ -5,7 +5,7 @@ date: 2020-09-06 08:01:25
 image: 'https://m.media-amazon.com/images/I/31CG7ka13jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GCHFFN8-es MERIGLARE 10g UV Resina Cristal Claro Ultravioleta curado...'
 sku: 'B08GCHFFN8-es'
 tags: [  ]

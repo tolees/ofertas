@@ -5,7 +5,7 @@ date: 2020-06-04 01:31:58
 image: 'https://m.media-amazon.com/images/I/414SiL1NawL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YTP55MX-es Safety 1st Ever Safe Plus Silla Coche grupo 1 2 3 crece...'
 sku: 'B07YTP55MX-es'
 tags: [  ]

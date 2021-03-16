@@ -5,7 +5,7 @@ date: 2020-09-10 11:28:59
 image: 'https://m.media-amazon.com/images/I/51eOT1atMEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IHTLRP8-es Shingeki No Kyojin Attack on Titan Collectible Anime...'
 sku: 'B00IHTLRP8-es'
 tags: [  ]

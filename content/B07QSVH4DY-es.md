@@ -5,7 +5,7 @@ date: 2020-06-21 10:11:19
 image: 'https://m.media-amazon.com/images/I/517wyv+C1hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QSVH4DY-es 24 Turquesa PEGATINAS lisas para pegar sobre azulejos...'
 sku: 'B07QSVH4DY-es'
 tags: [  ]

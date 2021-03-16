@@ -5,7 +5,7 @@ date: 2019-12-31 17:02:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CZe3oD1LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKHBK2G-es Kipling - Money Power Carteras Mujer Morado Active Lilac Bl'
 sku: 'B07DKHBK2G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-03 10:23:34
 image: 'https://m.media-amazon.com/images/I/314yyEY-BmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006WZ9YI6-es Rimmel London Lasting Barra de Labios Tono 8 Dusty Rose 4 g'
 sku: 'B006WZ9YI6-es'
 tags: [  ]

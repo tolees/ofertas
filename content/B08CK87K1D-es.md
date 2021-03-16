@@ -5,7 +5,7 @@ date: 2020-08-06 06:46:47
 image: 'https://m.media-amazon.com/images/I/51IZkOAd0DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CK87K1D-es Colmanda Juguetes de Maquillaje Niños 18 Piezas Kit de...'
 sku: 'B08CK87K1D-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 06:54:22
 image: 'https://m.media-amazon.com/images/I/31JX3G3ZFDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9S5L3X-es PUMA Cilia Mode Zapatillas para Mujer Blanco...'
 sku: 'B07S9S5L3X-es'
 tags: [  ]

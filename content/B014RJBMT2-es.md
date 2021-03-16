@@ -5,7 +5,7 @@ date: 2020-02-07 16:38:47
 image: 'https://m.media-amazon.com/images/I/41WhaCCYZJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014RJBMT2-es Issey Miyake Nuit D Issey Parfum Vapo 75 Ml 1 Unidad 75 g'
 sku: 'B014RJBMT2-es'
 tags: [  ]

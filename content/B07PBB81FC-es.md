@@ -5,7 +5,7 @@ date: 2020-01-18 20:31:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31BD52Yh0AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBB81FC-es AmazonBasics Cargador para pared USB de tipo C 3.0 65 W 1...'
 sku: 'B07PBB81FC-es'
 tags: [  ]

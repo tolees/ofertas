@@ -5,7 +5,7 @@ date: 2020-04-18 01:12:44
 image: 'https://m.media-amazon.com/images/I/41vZCxj3TeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000AH3UC-es KONG de Mantequilla de Cacahuete fácil Treat'
 sku: 'B0000AH3UC-es'
 tags: [  ]

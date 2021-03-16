@@ -5,7 +5,7 @@ date: 2020-08-06 18:05:05
 image: 'https://m.media-amazon.com/images/I/41rfeoJINCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSPGX6T-es Atrix Crema de Manos con Protección Intensiva Camomila -...'
 sku: 'B07GSPGX6T-es'
 tags: [  ]

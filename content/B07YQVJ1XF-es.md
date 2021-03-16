@@ -5,7 +5,7 @@ date: 2020-06-02 01:15:11
 image: 'https://m.media-amazon.com/images/I/415uuoVpOAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQVJ1XF-es NOKOER Protector de Lente de Cámara para Xiaomi Redmi Note...'
 sku: 'B07YQVJ1XF-es'
 tags: [  ]

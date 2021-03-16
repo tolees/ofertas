@@ -5,7 +5,7 @@ date: 2020-01-01 18:04:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51-t4GXS9dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNQB4TM-es Paquete de 6 Piezas de Ropa Interior de Niña de Algodón de...'
 sku: 'B07CNQB4TM-es'
 tags: [  ]

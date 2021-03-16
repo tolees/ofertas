@@ -5,7 +5,7 @@ date: 2020-07-26 10:18:16
 image: 'https://m.media-amazon.com/images/I/41hTymC0uqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WBR8RX-es ammoon Mezclador de Sonido Ultra Compacto Ruido Bajo 8...'
 sku: 'B071WBR8RX-es'
 tags: [  ]

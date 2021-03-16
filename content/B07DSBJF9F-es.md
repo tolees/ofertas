@@ -5,7 +5,7 @@ date: 2020-02-27 08:22:29
 image: 'https://m.media-amazon.com/images/I/31DTH4kV6oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DSBJF9F-es L Oréal Paris Make-up designer Infalible 24H Fresh Wear...'
 sku: 'B07DSBJF9F-es'
 tags: [  ]

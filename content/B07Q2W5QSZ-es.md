@@ -5,7 +5,7 @@ date: 2020-10-06 07:39:02
 image: 'https://m.media-amazon.com/images/I/31UgIuhZawL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2W5QSZ-es Pop! Figura De Vinil: TV: Dark Crystal - Rian'
 sku: 'B07Q2W5QSZ-es'
 tags: [  ]

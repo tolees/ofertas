@@ -5,7 +5,7 @@ date: 2020-02-26 16:44:43
 image: 'https://m.media-amazon.com/images/I/41N8lELvrkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZH45ZS-es Superdry State Volley Swim SHO Bañador Nero Black 02a L...'
 sku: 'B07MZH45ZS-es'
 tags: [  ]

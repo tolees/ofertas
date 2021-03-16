@@ -5,7 +5,7 @@ date: 2020-05-04 08:21:58
 image: 'https://m.media-amazon.com/images/I/41R3QLnE-xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNTMYZ7-es Under Armour Men s Charged Bandit 5 Laufschuhe Zapatillas...'
 sku: 'B07NNTMYZ7-es'
 tags: [  ]

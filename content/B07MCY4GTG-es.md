@@ -5,7 +5,7 @@ date: 2020-05-08 19:10:17
 image: 'https://m.media-amazon.com/images/I/41nRO3dDZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCY4GTG-es Saucony Triumph ISO 5 Zapatillas de Running para Mujer...'
 sku: 'B07MCY4GTG-es'
 tags: [  ]

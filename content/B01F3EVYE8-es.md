@@ -5,7 +5,7 @@ date: 2020-02-04 08:16:43
 image: 'https://m.media-amazon.com/images/I/41jJCDL6MFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F3EVYE8-es Fotopro Palo Selfie para Gopro Selfie Stick con Mini...'
 sku: 'B01F3EVYE8-es'
 tags: [  ]

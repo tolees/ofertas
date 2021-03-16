@@ -5,7 +5,7 @@ date: 2020-01-03 16:16:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cZ6WqjftL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQ458LY-es maxtop 30L Mochila Ultraligera y Compacta Mochila Plegable...'
 sku: 'B07XQ458LY-es'
 tags: [  ]

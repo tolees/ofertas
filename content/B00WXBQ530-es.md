@@ -5,7 +5,7 @@ date: 2020-05-07 13:52:04
 image: 'https://m.media-amazon.com/images/I/41JIOBWZgeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WXBQ530-es San Ignacio Galaxy - Sartén diámetro de 18 cm'
 sku: 'B00WXBQ530-es'
 tags: [  ]

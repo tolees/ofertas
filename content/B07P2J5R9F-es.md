@@ -5,7 +5,7 @@ date: 2020-06-25 06:13:39
 image: 'https://m.media-amazon.com/images/I/31BNGGSt0lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2J5R9F-es Control Lub Chocolate - Gel lubricante sin azúcar ni...'
 sku: 'B07P2J5R9F-es'
 tags: [  ]

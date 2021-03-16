@@ -5,7 +5,7 @@ date: 2020-04-06 19:38:50
 image: 'https://m.media-amazon.com/images/I/41tgSZQhtLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0761XNJV8-es Creative Omni - Altavoz portátil inalámbrico Multi-Room...'
 sku: 'B0761XNJV8-es'
 tags: [  ]

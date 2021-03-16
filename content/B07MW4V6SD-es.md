@@ -5,7 +5,7 @@ date: 2020-09-29 16:48:14
 image: 'https://m.media-amazon.com/images/I/51urzXA8AoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MW4V6SD-es Fischer Duoblade S 545676 - Tacos de yeso autoperforante...'
 sku: 'B07MW4V6SD-es'
 tags: [  ]

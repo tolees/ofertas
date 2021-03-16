@@ -5,7 +5,7 @@ date: 2020-07-28 11:19:29
 image: 'https://m.media-amazon.com/images/I/41rhsTjg+hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017SQTXYC-es Salomon SPEEDCROSS 4 GTX W Zapatillas de trail running...'
 sku: 'B017SQTXYC-es'
 tags: [  ]

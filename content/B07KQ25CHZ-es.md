@@ -5,7 +5,7 @@ date: 2020-01-01 09:11:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/217R1DHZzdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ25CHZ-es VicTsing Lámpara de Mesa 18 LEDs Recargable con 60 Horas...'
 sku: 'B07KQ25CHZ-es'
 tags: [  ]

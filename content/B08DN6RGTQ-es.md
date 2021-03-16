@@ -5,7 +5,7 @@ date: 2020-09-20 17:01:10
 image: 'https://m.media-amazon.com/images/I/51OIda09QFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DN6RGTQ-es XUNXI DIY Taladro Completo 5D Kits de Pintura de Diamantes...'
 sku: 'B08DN6RGTQ-es'
 tags: [  ]

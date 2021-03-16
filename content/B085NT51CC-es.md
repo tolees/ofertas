@@ -5,7 +5,7 @@ date: 2020-07-13 11:46:23
 image: 'https://m.media-amazon.com/images/I/51toTJg9D6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085NT51CC-es Jeslon Mandolina Rebanador Frutas cortadas & Vegetales 5...'
 sku: 'B085NT51CC-es'
 tags: [  ]

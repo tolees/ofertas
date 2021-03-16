@@ -5,7 +5,7 @@ date: 2020-08-02 04:30:26
 image: 'https://m.media-amazon.com/images/I/41K9djOlH0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ML71KNB-es RECCI - Topper Colchón de Espuma 140x200cm Topper...'
 sku: 'B07ML71KNB-es'
 tags: [  ]

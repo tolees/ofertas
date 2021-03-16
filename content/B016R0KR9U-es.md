@@ -5,7 +5,7 @@ date: 2020-04-29 23:55:51
 image: 'https://m.media-amazon.com/images/I/41x8GfJfJYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016R0KR9U-es Skechers Women s D Lites-Biggest Fan Trainers Blue Navy...'
 sku: 'B016R0KR9U-es'
 tags: [  ]

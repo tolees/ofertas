@@ -5,7 +5,7 @@ date: 2020-02-25 08:55:24
 image: 'https://m.media-amazon.com/images/I/41+fWzdsuyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8HM19Z-es Cargador Inalámbrico ESR Qi 10 W para iPhone 11/11 Pro/11...'
 sku: 'B07B8HM19Z-es'
 tags: [  ]

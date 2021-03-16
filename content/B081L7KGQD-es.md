@@ -5,7 +5,7 @@ date: 2020-07-12 19:45:39
 image: 'https://m.media-amazon.com/images/I/41bZezUb3GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081L7KGQD-es Camara Espia -Mini Camara -de Llave de Coche Cámara...'
 sku: 'B081L7KGQD-es'
 tags: [  ]

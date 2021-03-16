@@ -5,7 +5,7 @@ date: 2020-01-13 17:06:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LIxKA82GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJQYN98-es secador de uñas 36W Anself 36 W Lámpara de uñas...'
 sku: 'B07TJQYN98-es'
 tags: [  ]

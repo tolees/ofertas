@@ -5,7 +5,7 @@ date: 2020-07-20 02:47:17
 image: 'https://m.media-amazon.com/images/I/41gPcDHng7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJDL27X-es ORICO 60W 13 Puertos Aluminio Hub USB 3.0 de alimentación...'
 sku: 'B07CJDL27X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-26 20:28:18
 image: 'https://m.media-amazon.com/images/I/416hYk8+DTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004V3Z4NA-es Shimano PDM530W - Pedales M-530 Enduro Spd color blanco'
 sku: 'B004V3Z4NA-es'
 tags: [  ]

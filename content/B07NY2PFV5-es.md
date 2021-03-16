@@ -5,7 +5,7 @@ date: 2020-02-24 18:03:26
 image: 'https://m.media-amazon.com/images/I/41lePlN-5OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY2PFV5-es 4 0L Humidificador Ultrasónica Bebé Silencioso Boquilla...'
 sku: 'B07NY2PFV5-es'
 tags: [  ]

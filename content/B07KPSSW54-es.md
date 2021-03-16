@@ -5,7 +5,7 @@ date: 2020-10-09 08:06:53
 image: 'https://m.media-amazon.com/images/I/41p4783n+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPSSW54-es Pop! Vinyl: Spider Man Far from Home: MJ'
 sku: 'B07KPSSW54-es'
 tags: [  ]

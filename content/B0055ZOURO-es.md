@@ -5,7 +5,7 @@ date: 2020-07-15 00:24:51
 image: 'https://m.media-amazon.com/images/I/51iss+62V+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055ZOURO-es Balay 3WMX1918 - Microondas Acero INOX 800 W 17 litros Plata'
 sku: 'B0055ZOURO-es'
 tags: [  ]

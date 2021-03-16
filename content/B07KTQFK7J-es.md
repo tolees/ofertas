@@ -5,7 +5,7 @@ date: 2020-05-12 16:10:26
 image: 'https://m.media-amazon.com/images/I/31nukQVjPCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTQFK7J-es Lacoste Reloj de Pulsera 2001065'
 sku: 'B07KTQFK7J-es'
 tags: [  ]

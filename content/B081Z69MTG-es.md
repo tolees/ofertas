@@ -5,7 +5,7 @@ date: 2020-03-04 15:56:41
 image: 'https://m.media-amazon.com/images/I/41cl8XJznXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081Z69MTG-es HONZIN Alicate Multiuso 10-en-1 Alicates Plegables...'
 sku: 'B081Z69MTG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-14 18:03:03
 image: 'https://m.media-amazon.com/images/I/41bPw8+8V1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087TBV92D-es qingqingR Mujeres Niñas Viaje Mármol de Viaje Cosmético...'
 sku: 'B087TBV92D-es'
 tags: [  ]

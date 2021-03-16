@@ -5,7 +5,7 @@ date: 2020-06-17 18:31:01
 image: 'https://m.media-amazon.com/images/I/513r9gcvlXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XNMN6VZ-es Natural madera relojes MUJUZE Japón Movt reloj de cuarzo...'
 sku: 'B06XNMN6VZ-es'
 tags: [  ]

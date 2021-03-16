@@ -5,7 +5,7 @@ date: 2020-01-17 13:34:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416o%2B1GEZUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFZ7WYC-es Quemagrasas NATURAL Vegavero® | Cetonas de Frambuesa +...'
 sku: 'B07JFZ7WYC-es'
 tags: [  ]

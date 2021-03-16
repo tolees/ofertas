@@ -5,7 +5,7 @@ date: 2020-01-22 13:37:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qGUqf6TSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0NUFU0-es Cecotec Envasadora Vacío SealVac 110. 3 Modos de...'
 sku: 'B01N0NUFU0-es'
 tags: [  ]

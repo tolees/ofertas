@@ -5,7 +5,7 @@ date: 2020-10-06 23:57:33
 image: 'https://m.media-amazon.com/images/I/31vqZwfVnbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LF9RKQC-es Brabantia 380020 - Pincel de repostería Grande Acero y...'
 sku: 'B00LF9RKQC-es'
 tags: [  ]

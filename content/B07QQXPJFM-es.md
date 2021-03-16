@@ -5,7 +5,7 @@ date: 2020-02-21 08:37:21
 image: 'https://m.media-amazon.com/images/I/41FxdRPrRQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQXPJFM-es Vieta Pro Round Up - Altavoz inalámbrico Bluetooth radio...'
 sku: 'B07QQXPJFM-es'
 tags: [  ]

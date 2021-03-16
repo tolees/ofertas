@@ -5,7 +5,7 @@ date: 2020-06-15 18:46:11
 image: 'https://m.media-amazon.com/images/I/41y6aGPA-iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CGMMPK-es 40G Tamaño pequeño Hogar Hotel Baño Baño Bola de sal Bomba...'
 sku: 'B085CGMMPK-es'
 tags: [  ]

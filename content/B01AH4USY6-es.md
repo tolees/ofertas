@@ -5,7 +5,7 @@ date: 2020-02-20 12:39:32
 image: 'https://m.media-amazon.com/images/I/31gxvSh02dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AH4USY6-es Cruzado Azul - M/L'
 sku: 'B01AH4USY6-es'
 tags: [  ]

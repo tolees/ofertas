@@ -5,7 +5,7 @@ date: 2020-09-22 07:36:23
 image: 'https://m.media-amazon.com/images/I/51Ya5thYU7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5JKMNR-es Ultimate Ears Wonderbooms 2 Altavoz Inalámbrico Graves...'
 sku: 'B07W5JKMNR-es'
 tags: [  ]

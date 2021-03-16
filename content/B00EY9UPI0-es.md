@@ -5,7 +5,7 @@ date: 2020-03-23 16:21:22
 image: 'https://m.media-amazon.com/images/I/31oPnHAmhFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EY9UPI0-es Rimmel London Stay Matte Base de Maquillaje Tono 200 Soft...'
 sku: 'B00EY9UPI0-es'
 tags: [  ]

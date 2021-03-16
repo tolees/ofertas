@@ -5,7 +5,7 @@ date: 2020-07-17 10:01:12
 image: 'https://m.media-amazon.com/images/I/41JHbzK6qAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C7KFCWJ-es Longspeed Dibujar con luz Tablero de Dibujo Divertido...'
 sku: 'B08C7KFCWJ-es'
 tags: [  ]

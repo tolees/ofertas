@@ -5,7 +5,7 @@ date: 2020-01-07 08:18:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rL1T6cLhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N66NRJB-es Puma St Trainer EVO AC Jr Zapatillas Infantil Rosa...'
 sku: 'B01N66NRJB-es'
 tags: [  ]

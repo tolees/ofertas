@@ -5,7 +5,7 @@ date: 2020-01-31 08:18:07
 image: 'https://m.media-amazon.com/images/I/31T2JUclMQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KYPVLL-es Apple Funda Leather Case para el iPhone 8 Plus / iPhone 7...'
 sku: 'B075KYPVLL-es'
 tags: [  ]

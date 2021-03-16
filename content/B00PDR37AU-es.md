@@ -5,7 +5,7 @@ date: 2020-04-26 08:03:39
 image: 'https://m.media-amazon.com/images/I/41dx8xHy8fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PDR37AU-es Canson 406323 - Papel milimetrado 12 hojas'
 sku: 'B00PDR37AU-es'
 tags: [  ]

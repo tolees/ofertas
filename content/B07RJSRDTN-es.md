@@ -5,7 +5,7 @@ date: 2020-01-20 08:51:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31t0MdEL14L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJSRDTN-es FIND - Brocha para polvos - n.º 10'
 sku: 'B07RJSRDTN-es'
 tags: [  ]

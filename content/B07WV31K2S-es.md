@@ -5,7 +5,7 @@ date: 2020-09-08 16:25:10
 image: 'https://m.media-amazon.com/images/I/51KQZONZ6sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WV31K2S-es Gricol Estante de Ducha Sin Taladrar en Aluminio...'
 sku: 'B07WV31K2S-es'
 tags: [  ]

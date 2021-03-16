@@ -5,7 +5,7 @@ date: 2020-02-25 21:08:26
 image: 'https://m.media-amazon.com/images/I/41Nc8bGhMYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNN5X5M-es Atletico de Madrid PT-243-ATL Portatodo Triple'
 sku: 'B07MNN5X5M-es'
 tags: [  ]

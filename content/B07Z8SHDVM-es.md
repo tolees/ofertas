@@ -5,7 +5,7 @@ date: 2020-05-29 17:37:30
 image: 'https://m.media-amazon.com/images/I/51aLg-01hTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z8SHDVM-es PICTEK Teclado Gaming RGB con Soporte para Teléfono Móvil...'
 sku: 'B07Z8SHDVM-es'
 tags: [  ]

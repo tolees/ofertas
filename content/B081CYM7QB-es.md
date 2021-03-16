@@ -5,7 +5,7 @@ date: 2020-05-10 17:32:17
 image: 'https://m.media-amazon.com/images/I/414Pcu+KKbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CYM7QB-es ORITO Bateria Externa 26800mAh Power Bank USB C PD18W &...'
 sku: 'B081CYM7QB-es'
 tags: [  ]

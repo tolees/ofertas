@@ -5,7 +5,7 @@ date: 2020-02-29 10:54:09
 image: 'https://m.media-amazon.com/images/I/41Tx5gXhiDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2KMKXT-es Playshoes 507424 Juego de baberos Azul Claro'
 sku: 'B07L2KMKXT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 23:51:28
 image: 'https://m.media-amazon.com/images/I/31FPO4t69uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S11P5SM-es Only Frsfalcon Sweat Pants-Unit Pantalones de Deporte...'
 sku: 'B07S11P5SM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-05 21:05:50
 image: 'https://m.media-amazon.com/images/I/51X2FE9U6AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I4RNPQ6-es Fujifilm NP-W126S - Batería Recargable Negro'
 sku: 'B01I4RNPQ6-es'
 tags: [  ]

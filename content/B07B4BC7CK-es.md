@@ -5,7 +5,7 @@ date: 2020-01-27 19:57:37
 image: 'https://m.media-amazon.com/images/I/51TLhgn4PUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4BC7CK-es Paranix Loción. Tratamiento para Piojos y Liendres -...'
 sku: 'B07B4BC7CK-es'
 tags: [  ]

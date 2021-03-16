@@ -5,7 +5,7 @@ date: 2020-04-01 09:32:16
 image: 'https://m.media-amazon.com/images/I/51swt+Bna9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8QLMYJ-es Fantasy Flight Games- Star Wars Armada - Rebelión en el...'
 sku: 'B07Y8QLMYJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-27 17:02:35
 image: 'https://m.media-amazon.com/images/I/510YAGrFR-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4V8TWX-es Envasadoras al vacío Padi Home El Aparato para envasar al...'
 sku: 'B07X4V8TWX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 07:10:07
 image: 'https://m.media-amazon.com/images/I/41XzeXH4PpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0089JIDLC-es Kingston KVR16N11/8 - Memoria RAM de 8 GB 1600 MHz DDR3...'
 sku: 'B0089JIDLC-es'
 tags: [  ]

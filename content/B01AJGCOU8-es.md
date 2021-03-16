@@ -5,7 +5,7 @@ date: 2020-03-30 14:11:02
 image: 'https://m.media-amazon.com/images/I/51BVBEQci0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AJGCOU8-es Teenloveme Mujer cinco dedos calcetines calcetines...'
 sku: 'B01AJGCOU8-es'
 tags: [  ]

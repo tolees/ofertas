@@ -5,7 +5,7 @@ date: 2020-09-20 16:38:15
 image: 'https://m.media-amazon.com/images/I/41DzXL2p+9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I4SO1RS-es Mobiclinic Pedalier Ejercitador de brazos y piernas Camino'
 sku: 'B00I4SO1RS-es'
 tags: [  ]

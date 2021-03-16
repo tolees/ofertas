@@ -5,7 +5,7 @@ date: 2020-02-03 01:57:49
 image: 'https://m.media-amazon.com/images/I/21EVBFV0MgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A5VJP5E-es Grohe Rainshower SmartControl 360 DUO - Sistema de ducha...'
 sku: 'B01A5VJP5E-es'
 tags: [  ]

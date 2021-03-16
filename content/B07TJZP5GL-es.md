@@ -5,7 +5,7 @@ date: 2020-02-07 08:35:15
 image: 'https://m.media-amazon.com/images/I/41rIACWA9dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJZP5GL-es Dash Cam Lncoon JC200 3G/WiFi Dual Cámara para Coche 1080P...'
 sku: 'B07TJZP5GL-es'
 tags: [  ]

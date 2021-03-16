@@ -5,7 +5,7 @@ date: 2020-05-09 16:45:33
 image: 'https://m.media-amazon.com/images/I/514Hu0oGUGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SDL1YS-es Encantadores niños no tóxicos Niños Crayon Oil Pastel...'
 sku: 'B083SDL1YS-es'
 tags: [  ]

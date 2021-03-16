@@ -5,7 +5,7 @@ date: 2020-04-17 15:32:15
 image: 'https://m.media-amazon.com/images/I/41adrqkq3wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CB9MLZ9-es Hewlett Packard CHP850 PREMIUM Papel A4 80 gr 500 Lados...'
 sku: 'B07CB9MLZ9-es'
 tags: [  ]

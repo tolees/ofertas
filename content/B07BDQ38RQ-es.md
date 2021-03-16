@@ -5,7 +5,7 @@ date: 2020-03-27 10:26:53
 image: 'https://m.media-amazon.com/images/I/41lxSGb0kpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDQ38RQ-es American Tourister Sunside Spinner 55/20 Equipaje de Mano...'
 sku: 'B07BDQ38RQ-es'
 tags: [  ]

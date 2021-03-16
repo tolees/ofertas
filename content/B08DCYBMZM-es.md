@@ -5,7 +5,7 @@ date: 2020-09-11 08:03:06
 image: 'https://m.media-amazon.com/images/I/31po5CVJHeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DCYBMZM-es Mellerware Aspirador Vertical Inalámbrico Rider Pro 400 W...'
 sku: 'B08DCYBMZM-es'
 tags: [  ]

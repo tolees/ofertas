@@ -5,7 +5,7 @@ date: 2020-09-25 16:14:54
 image: 'https://m.media-amazon.com/images/I/31-RBybx4aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001WAKQF6-es Skagen Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B001WAKQF6-es'
 tags: [  ]

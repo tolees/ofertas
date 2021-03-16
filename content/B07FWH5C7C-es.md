@@ -5,7 +5,7 @@ date: 2020-05-12 10:57:43
 image: 'https://m.media-amazon.com/images/I/41DSm9HfspL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FWH5C7C-es Tatay Baobab - Cesto para la Ropa Sucia con Tapa 40 l...'
 sku: 'B07FWH5C7C-es'
 tags: [  ]

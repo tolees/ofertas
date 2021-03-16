@@ -5,7 +5,7 @@ date: 2020-07-18 14:51:23
 image: 'https://m.media-amazon.com/images/I/31SBY5pkygL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y24SPLG-es SPC Epic - Teléfono móvil Números y letras grandes Agenda...'
 sku: 'B07Y24SPLG-es'
 tags: [  ]

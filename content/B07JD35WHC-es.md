@@ -5,7 +5,7 @@ date: 2020-09-12 18:09:14
 image: 'https://m.media-amazon.com/images/I/31zWwrlccBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JD35WHC-es HUAWEI 55030369 Viaje Cable de Carga Charger Super Charge...'
 sku: 'B07JD35WHC-es'
 tags: [  ]

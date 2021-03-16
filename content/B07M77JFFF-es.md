@@ -5,7 +5,7 @@ date: 2020-07-04 10:55:23
 image: 'https://m.media-amazon.com/images/I/31OqH4k6c5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M77JFFF-es BANDAI- Severus Snape Figura 12 CM Harry Potter SH...'
 sku: 'B07M77JFFF-es'
 tags: [  ]

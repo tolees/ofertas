@@ -5,7 +5,7 @@ date: 2020-05-25 10:01:34
 image: 'https://m.media-amazon.com/images/I/21DpVbHFHKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F1EHIWI-es Sony MDRXD150 - Auriculares de Diadema Cerrados Negro'
 sku: 'B00F1EHIWI-es'
 tags: [  ]

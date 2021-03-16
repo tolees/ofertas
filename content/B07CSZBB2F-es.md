@@ -5,7 +5,7 @@ date: 2020-01-18 09:26:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31WRb-EAcuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CSZBB2F-es Raton BLUESTORK M-WL-OFF10 Optico INALAMBRICO Negro'
 sku: 'B07CSZBB2F-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-09 08:15:15
 image: 'https://m.media-amazon.com/images/I/51OUDEU-acL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBDRF2-es ART VVIES mit Haken für hauptdekorationen Vintage kätzchen...'
 sku: 'B082HBDRF2-es'
 tags: [  ]

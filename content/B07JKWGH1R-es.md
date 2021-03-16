@@ -5,7 +5,7 @@ date: 2020-07-13 10:45:40
 image: 'https://m.media-amazon.com/images/I/31PeKs+h1uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKWGH1R-es Lee Scarlett High Jeans Negro Black Bucklin Ho 27W/35L...'
 sku: 'B07JKWGH1R-es'
 tags: [  ]

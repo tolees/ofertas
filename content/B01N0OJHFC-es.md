@@ -5,7 +5,7 @@ date: 2020-06-04 10:13:53
 image: 'https://m.media-amazon.com/images/I/51ZFssThKJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0OJHFC-es Edgar Allan Poe: La Adaptación al Cine de sus Relatos de...'
 sku: 'B01N0OJHFC-es'
 tags: [  ]

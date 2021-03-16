@@ -5,7 +5,7 @@ date: 2020-01-15 16:19:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EI-nFyEtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFNDJFY-es adidas Ultraboost 19 W Zapatillas de Running para Mujer...'
 sku: 'B07RFNDJFY-es'
 tags: [  ]

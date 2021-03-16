@@ -5,7 +5,7 @@ date: 2020-08-09 09:17:08
 image: 'https://m.media-amazon.com/images/I/41z7b3a7kyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCNVY3F-es RREN-Faucet Versión extendida de la grifería de Doble...'
 sku: 'B07GCNVY3F-es'
 tags: [  ]

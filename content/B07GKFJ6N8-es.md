@@ -5,7 +5,7 @@ date: 2020-01-31 06:19:18
 image: 'https://m.media-amazon.com/images/I/41xrk8iSm7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKFJ6N8-es Buff New Obsession Tubular Original Unisex Adulto Multi...'
 sku: 'B07GKFJ6N8-es'
 tags: [  ]

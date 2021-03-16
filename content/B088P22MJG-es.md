@@ -5,7 +5,7 @@ date: 2020-05-31 19:32:12
 image: 'https://m.media-amazon.com/images/I/51IIwq3B7HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088P22MJG-es Slabo Lámina de Vidrio Premium para Amazon Fire HD 8...'
 sku: 'B088P22MJG-es'
 tags: [  ]

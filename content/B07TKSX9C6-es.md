@@ -5,7 +5,7 @@ date: 2020-07-10 04:50:00
 image: 'https://m.media-amazon.com/images/I/31xSUCuybeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKSX9C6-es Clarks Un Rio Lace Zapatillas Azul Dark Blush Combi Dark...'
 sku: 'B07TKSX9C6-es'
 tags: [  ]

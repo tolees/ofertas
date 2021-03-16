@@ -5,7 +5,7 @@ date: 2020-05-28 19:56:59
 image: 'https://m.media-amazon.com/images/I/51Qk3hyYy+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V35TDKX-es PHONECT Hervidor de Agua Eléctrico 2200W Hervidor de...'
 sku: 'B07V35TDKX-es'
 tags: [  ]

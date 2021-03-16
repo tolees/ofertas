@@ -5,7 +5,7 @@ date: 2020-06-26 21:30:49
 image: 'https://m.media-amazon.com/images/I/51NdTVUu1hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H7YV8N4-es SELECT Handball Pantalones Cortos Mexico 62102 Todo el año...'
 sku: 'B01H7YV8N4-es'
 tags: [  ]

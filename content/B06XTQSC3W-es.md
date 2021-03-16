@@ -5,7 +5,7 @@ date: 2020-06-16 17:24:48
 image: 'https://m.media-amazon.com/images/I/41GY8XqQObL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XTQSC3W-es Paternina Verdejo D.O. Rueda Vino blanco - 6 botellas x...'
 sku: 'B06XTQSC3W-es'
 tags: [  ]

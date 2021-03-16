@@ -5,7 +5,7 @@ date: 2020-07-16 22:39:07
 image: 'https://m.media-amazon.com/images/I/41ppjlhgF-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J8K7JK2-es Bourjois Velvet Barra de Labios Líquida Tono 08 Grand Cru...'
 sku: 'B00J8K7JK2-es'
 tags: [  ]

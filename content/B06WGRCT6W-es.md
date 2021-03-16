@@ -5,7 +5,7 @@ date: 2020-07-08 13:04:03
 image: 'https://m.media-amazon.com/images/I/31HHhrI5lML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGRCT6W-es Dcasa DC-2430192 - Cubos de basura para pañales y...'
 sku: 'B06WGRCT6W-es'
 tags: [  ]

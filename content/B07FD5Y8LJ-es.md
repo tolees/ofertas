@@ -5,7 +5,7 @@ date: 2020-02-13 20:15:04
 image: 'https://m.media-amazon.com/images/I/41-UBptS11L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FD5Y8LJ-es Ferilinso[2 Pack Cristal Templado para Xiaomi Redmi Note 6...'
 sku: 'B07FD5Y8LJ-es'
 tags: [  ]

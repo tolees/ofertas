@@ -5,7 +5,7 @@ date: 2020-04-14 08:41:06
 image: 'https://m.media-amazon.com/images/I/41S8O1qr3CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJPQHG5-es PUMA ftblNXT Team Sleeve Espinillera Futbol Unisex-Adult...'
 sku: 'B07XJPQHG5-es'
 tags: [  ]

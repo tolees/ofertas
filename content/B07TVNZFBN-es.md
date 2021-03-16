@@ -5,7 +5,7 @@ date: 2020-04-07 13:27:46
 image: 'https://m.media-amazon.com/images/I/51WSUE9Ey9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVNZFBN-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Slave...'
 sku: 'B07TVNZFBN-es'
 tags: [  ]

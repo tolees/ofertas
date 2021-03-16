@@ -5,7 +5,7 @@ date: 2020-04-16 09:15:54
 image: 'https://m.media-amazon.com/images/I/41CF8969BgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0034W4PWK-es Suvorna Professional Manicure Nail and Cuticle Pusher Tool...'
 sku: 'B0034W4PWK-es'
 tags: [  ]

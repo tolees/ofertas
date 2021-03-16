@@ -5,7 +5,7 @@ date: 2020-09-21 00:29:59
 image: 'https://m.media-amazon.com/images/I/41mGzbok3pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8MCDNK-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07L8MCDNK-es'
 tags: [  ]

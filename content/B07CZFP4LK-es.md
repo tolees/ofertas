@@ -5,7 +5,7 @@ date: 2020-02-02 19:43:13
 image: 'https://m.media-amazon.com/images/I/31Bfu2nVVsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZFP4LK-es Under Armour Favorite Legging WM Ar Leggings Mujer Negro...'
 sku: 'B07CZFP4LK-es'
 tags: [  ]

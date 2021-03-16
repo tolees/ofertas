@@ -5,7 +5,7 @@ date: 2020-05-24 20:55:38
 image: 'https://m.media-amazon.com/images/I/31q3moZCOdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017JTHDK4-es Selected SLHSTRAIGHT Paris Pantalones Gris Phantom W36/L32...'
 sku: 'B017JTHDK4-es'
 tags: [  ]

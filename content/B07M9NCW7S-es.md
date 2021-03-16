@@ -5,7 +5,7 @@ date: 2020-02-27 13:02:49
 image: 'https://m.media-amazon.com/images/I/412vH4vbDBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9NCW7S-es LParkin - Llavero para Parejas con Texto en inglés I Love...'
 sku: 'B07M9NCW7S-es'
 tags: [  ]

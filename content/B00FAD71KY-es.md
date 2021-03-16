@@ -5,7 +5,7 @@ date: 2020-06-29 22:17:21
 image: 'https://m.media-amazon.com/images/I/41vITpJsm7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FAD71KY-es Samsung EE-V200SA - Soporte de móviles para coches Diseño...'
 sku: 'B00FAD71KY-es'
 tags: [  ]

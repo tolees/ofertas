@@ -5,7 +5,7 @@ date: 2020-06-01 13:34:58
 image: 'https://m.media-amazon.com/images/I/51MhFyPtqRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I5G9PGA-es adidas Real Wallet Cartera Unisex Adulto Negro/Blanco...'
 sku: 'B01I5G9PGA-es'
 tags: [  ]

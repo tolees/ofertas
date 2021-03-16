@@ -5,7 +5,7 @@ date: 2020-05-10 11:43:31
 image: 'https://m.media-amazon.com/images/I/31k45YFBhoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJHR8WL-es Tamaris 1-1-25537-23 Botas Mosqueteras para Mujer Rojo...'
 sku: 'B07NJHR8WL-es'
 tags: [  ]

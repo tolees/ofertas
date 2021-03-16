@@ -5,7 +5,7 @@ date: 2020-09-21 15:50:13
 image: 'https://m.media-amazon.com/images/I/31phtygK9UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VW8LQMC-es Bugatti 311450074141 Zapatillas para Hombre Marrón Mid-...'
 sku: 'B07VW8LQMC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 00:17:58
 image: 'https://m.media-amazon.com/images/I/51Wc5P-W9QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G5KURYC-es Zolion® Laptop Stand solide haut de gamme simple en...'
 sku: 'B01G5KURYC-es'
 tags: [  ]

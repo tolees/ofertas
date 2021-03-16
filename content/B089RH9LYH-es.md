@@ -5,7 +5,7 @@ date: 2020-07-13 20:47:24
 image: 'https://m.media-amazon.com/images/I/51C8rbGThYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089RH9LYH-es Aceite de Coco Virgen Extra Ecológico Prensado en Frío...'
 sku: 'B089RH9LYH-es'
 tags: [  ]

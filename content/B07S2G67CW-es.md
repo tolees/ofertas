@@ -5,7 +5,7 @@ date: 2021-03-16 14:33:59
 image: 'https://m.media-amazon.com/images/I/51ohU-frO5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2G67CW-es Fox - Juego De Tronos Temporada 1-8 Colección Completa [DVD]'
 sku: 'B07S2G67CW-es'
 tags: [ 'fox', ]

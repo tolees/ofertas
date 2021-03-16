@@ -5,7 +5,7 @@ date: 2020-08-23 13:11:36
 image: 'https://m.media-amazon.com/images/I/51CCpTwB32L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFGP5DL-es RAVIAD 3 en 1 Multi Cable de Carga Nylon Multi USB...'
 sku: 'B07VFGP5DL-es'
 tags: [  ]

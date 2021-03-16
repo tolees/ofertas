@@ -5,7 +5,7 @@ date: 2020-09-16 22:39:38
 image: 'https://m.media-amazon.com/images/I/41JXbK2yRGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVC92WR-es Under Armour UNDKU Armour Heatgear Sujetador Deportivo...'
 sku: 'B07JVC92WR-es'
 tags: [  ]

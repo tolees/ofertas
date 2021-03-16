@@ -5,7 +5,7 @@ date: 2020-01-19 04:29:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Rna%2B8OjaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQS1N6N-es Clarks Un Abode Strap Mocasines para Hombre Negro Black...'
 sku: 'B07FQS1N6N-es'
 tags: [  ]

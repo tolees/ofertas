@@ -5,7 +5,7 @@ date: 2020-07-21 05:37:14
 image: 'https://m.media-amazon.com/images/I/51GbMxDllUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EFQUFPY-es Gorro de bebé para primavera/verano unisex Rose Talla única'
 sku: 'B01EFQUFPY-es'
 tags: [  ]

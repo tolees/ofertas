@@ -5,7 +5,7 @@ date: 2020-09-24 16:31:59
 image: 'https://m.media-amazon.com/images/I/516Gr4PqpVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X3T2GHX-es REGALPRIX Alfombrilla para ratón Personalizada con tu Foto...'
 sku: 'B06X3T2GHX-es'
 tags: [  ]

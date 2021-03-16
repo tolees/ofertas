@@ -5,7 +5,7 @@ date: 2020-08-25 10:56:39
 image: 'https://m.media-amazon.com/images/I/41jd-jYOaaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWF5R3G-es Philips Avent SCF376/11 - Pack de 2 chupetes Ultra Air...'
 sku: 'B07SWF5R3G-es'
 tags: [  ]

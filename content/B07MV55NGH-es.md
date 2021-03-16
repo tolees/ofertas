@@ -5,7 +5,7 @@ date: 2020-01-29 15:54:33
 image: 'https://m.media-amazon.com/images/I/41c9E9o7pKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV55NGH-es KZIOACSH [2 Unidades] Protector de Pantalla para Xiaomi...'
 sku: 'B07MV55NGH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 23:19:25
 image: 'https://m.media-amazon.com/images/I/51m5o6HC8FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDP38S1-es Knorr - Sopa Desh Rabo Buey 71 gr - [Pack de 10]'
 sku: 'B01MDP38S1-es'
 tags: [  ]

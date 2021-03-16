@@ -5,7 +5,7 @@ date: 2020-04-17 17:46:12
 image: 'https://m.media-amazon.com/images/I/513CFdjSHaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWM8W51-es Under Armour Men s Train Spacer Mesh Gorra Hombre Gris M/L'
 sku: 'B07QWM8W51-es'
 tags: [  ]

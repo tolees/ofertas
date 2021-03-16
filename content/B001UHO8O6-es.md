@@ -5,7 +5,7 @@ date: 2020-05-23 14:54:29
 image: 'https://m.media-amazon.com/images/I/51hWzNt2evL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001UHO8O6-es Bosch AVR 1100 - Escarificador cesta colectora en caja de...'
 sku: 'B001UHO8O6-es'
 tags: [  ]

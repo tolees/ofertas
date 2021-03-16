@@ -5,7 +5,7 @@ date: 2020-03-01 16:41:27
 image: 'https://m.media-amazon.com/images/I/51VH6R6RoHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B6J2ZRR-es EleganBello Cadena de luces con pinzas 4m 40 LED Cadena de...'
 sku: 'B07B6J2ZRR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 18:35:23
 image: 'https://m.media-amazon.com/images/I/414W+yPz09L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN9LCV8-es UniqueMe Funda para Samsung Galaxy S10 Plus Funda TPU...'
 sku: 'B07MN9LCV8-es'
 tags: [  ]

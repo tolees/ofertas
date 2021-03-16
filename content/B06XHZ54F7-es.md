@@ -5,7 +5,7 @@ date: 2020-04-04 21:10:50
 image: 'https://m.media-amazon.com/images/I/41GsDWAEubL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHZ54F7-es Minnie Mouse- Centro Comercial con luz y Sonidos 40 x 29...'
 sku: 'B06XHZ54F7-es'
 tags: [  ]

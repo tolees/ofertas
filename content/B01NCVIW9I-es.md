@@ -5,7 +5,7 @@ date: 2020-06-26 10:00:47
 image: 'https://m.media-amazon.com/images/I/41FnX5pQwsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCVIW9I-es Errea Maillot Junior Heat'
 sku: 'B01NCVIW9I-es'
 tags: [  ]

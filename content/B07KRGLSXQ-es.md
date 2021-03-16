@@ -5,7 +5,7 @@ date: 2020-06-25 03:01:18
 image: 'https://m.media-amazon.com/images/I/41oJghEcaoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRGLSXQ-es New Balance Yc373v1 n Zapatillas para Niñas Plateado...'
 sku: 'B07KRGLSXQ-es'
 tags: [  ]

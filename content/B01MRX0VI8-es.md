@@ -5,7 +5,7 @@ date: 2020-09-07 08:33:17
 image: 'https://m.media-amazon.com/images/I/41GNw3XHxFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRX0VI8-es Meliconi Speak Pro - Auricular DJ estéreo Color Negro'
 sku: 'B01MRX0VI8-es'
 tags: [  ]

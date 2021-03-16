@@ -5,7 +5,7 @@ date: 2020-01-24 11:10:21
 image: 'https://m.media-amazon.com/images/I/31xSwlBh-ML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYLMPDD-es Apple MVFU2ZM/A Funda para teléfono móvil Folio - Fundas...'
 sku: 'B07PYLMPDD-es'
 tags: [  ]

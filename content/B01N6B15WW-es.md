@@ -5,7 +5,7 @@ date: 2020-03-29 13:17:51
 image: 'https://m.media-amazon.com/images/I/41PWnvDv3OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6B15WW-es Overwatch - D.VA & Meka figura de vinilo Funko 13090'
 sku: 'B01N6B15WW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-12 09:45:38
 image: 'https://m.media-amazon.com/images/I/41ff6jcoCiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GSVZH1-es Oihxse Compatible con Huawei Nova 6SE Funda Suave Gel TPU...'
 sku: 'B086GSVZH1-es'
 tags: [  ]

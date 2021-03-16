@@ -5,7 +5,7 @@ date: 2020-08-01 09:27:45
 image: 'https://m.media-amazon.com/images/I/31kJoooEFrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKN6XKY-es Clarks C MOCC Boat Mocasines para Mujer Blanco White...'
 sku: 'B07TKN6XKY-es'
 tags: [  ]

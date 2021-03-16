@@ -5,7 +5,7 @@ date: 2020-07-05 09:18:50
 image: 'https://m.media-amazon.com/images/I/41cO5JggKOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0152X4GQS-es Dove Derma Spa Summer Media Resucitado a Dark Skin Body...'
 sku: 'B0152X4GQS-es'
 tags: [  ]

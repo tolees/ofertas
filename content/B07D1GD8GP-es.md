@@ -5,7 +5,7 @@ date: 2020-01-06 06:23:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51uDQElbuzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1GD8GP-es Alienwork Reloj Unisex Relojes Hombre Mujer Acero...'
 sku: 'B07D1GD8GP-es'
 tags: [  ]

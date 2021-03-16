@@ -5,7 +5,7 @@ date: 2020-06-22 19:35:42
 image: 'https://m.media-amazon.com/images/I/31ofHW6XslL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYB1VHC-es 28 Palms 9" Inseam Cotton Tencel Chino Short shorts Caqui 38'
 sku: 'B07JYB1VHC-es'
 tags: [  ]

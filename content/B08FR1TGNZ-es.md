@@ -5,7 +5,7 @@ date: 2020-09-03 00:39:52
 image: 'https://m.media-amazon.com/images/I/41AbgdFUlaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FR1TGNZ-es Sellador de Silicona Bst4U Aplicador de Pegamento y...'
 sku: 'B08FR1TGNZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-17 06:02:18
 image: 'https://m.media-amazon.com/images/I/41l3UU5SQbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0163EGZTQ-es Dim Invisi Fit Sujetador New Skin 90C para Mujer'
 sku: 'B0163EGZTQ-es'
 tags: [  ]

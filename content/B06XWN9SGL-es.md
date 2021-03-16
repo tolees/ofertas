@@ -5,7 +5,7 @@ date: 2020-06-25 12:05:47
 image: 'https://m.media-amazon.com/images/I/41kOV8pQQ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWN9SGL-es Amazon Essentials Fashion-Swim-Trunks Marino US S EU S'
 sku: 'B06XWN9SGL-es'
 tags: [  ]

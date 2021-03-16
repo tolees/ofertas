@@ -5,7 +5,7 @@ date: 2020-02-16 18:21:52
 image: 'https://m.media-amazon.com/images/I/41vGK6zLLjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792RSBS2-es Nakosite RAY2433 Reloj inteligente Mujer Hombre SmartWatch...'
 sku: 'B0792RSBS2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 10:49:50
 image: 'https://m.media-amazon.com/images/I/31vsKOtFx3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCCGWRQ-es ASUS RT-AC58U V2 - Router WiFi 5 AC1300 MU-MIMO 4 Gigabit...'
 sku: 'B07ZCCGWRQ-es'
 tags: [  ]

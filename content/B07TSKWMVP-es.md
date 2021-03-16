@@ -5,7 +5,7 @@ date: 2020-09-01 08:30:52
 image: 'https://m.media-amazon.com/images/I/41X8iAjTHJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSKWMVP-es Kipling Creativity S Cartera para Mujer Negro Carbon...'
 sku: 'B07TSKWMVP-es'
 tags: [  ]

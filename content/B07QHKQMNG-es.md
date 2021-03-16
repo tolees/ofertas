@@ -5,7 +5,7 @@ date: 2020-02-22 07:38:24
 image: 'https://m.media-amazon.com/images/I/31w9fYoyZtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHKQMNG-es Pablosky 334310 Merceditas para Niñas Negro Negro Negro 25 EU'
 sku: 'B07QHKQMNG-es'
 tags: [  ]

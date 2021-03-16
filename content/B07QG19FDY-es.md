@@ -5,7 +5,7 @@ date: 2020-03-03 10:33:25
 image: 'https://m.media-amazon.com/images/I/41RIrKI88qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QG19FDY-es Advance Veterinary Diets Weight Balance - Pienso para...'
 sku: 'B07QG19FDY-es'
 tags: [  ]

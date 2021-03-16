@@ -5,7 +5,7 @@ date: 2020-07-16 03:44:40
 image: 'https://m.media-amazon.com/images/I/31ay8H7vTXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWRXR4T-es Samsung Galaxy S10+ - Smartphone de 6.4" QHD+ Curved...'
 sku: 'B07NWRXR4T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-23 20:37:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xhBCuJU4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLSVDYM-es Clarks Ronnie Top Botas Chelsea para Hombre Marrón British...'
 sku: 'B07MLSVDYM-es'
 tags: [  ]

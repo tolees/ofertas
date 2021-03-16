@@ -5,7 +5,7 @@ date: 2020-02-24 00:53:06
 image: 'https://m.media-amazon.com/images/I/31Y3y9od4HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQJHTY7-es Rowenta - Aspirador escoba inalámbrica RH8773WU autonomía...'
 sku: 'B07MQJHTY7-es'
 tags: [  ]

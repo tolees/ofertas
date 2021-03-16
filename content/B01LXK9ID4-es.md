@@ -5,7 +5,7 @@ date: 2020-02-04 10:42:48
 image: 'https://m.media-amazon.com/images/I/51uk83SiSiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXK9ID4-es Durex Natural Comfort Preservativos - 24 Unidades'
 sku: 'B01LXK9ID4-es'
 tags: [  ]

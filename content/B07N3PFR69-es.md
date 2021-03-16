@@ -5,7 +5,7 @@ date: 2020-04-20 13:03:30
 image: 'https://m.media-amazon.com/images/I/31wmsFVn98L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3PFR69-es IPOTCH 3 Pares de Cordones para Deportistas Bloqueo...'
 sku: 'B07N3PFR69-es'
 tags: [  ]

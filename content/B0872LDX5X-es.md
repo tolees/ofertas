@@ -5,7 +5,7 @@ date: 2020-05-09 20:01:12
 image: 'https://m.media-amazon.com/images/I/51T-QSCJhnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872LDX5X-es NMBC Fundas de Asiento Protector de cojín de Asiento de...'
 sku: 'B0872LDX5X-es'
 tags: [  ]

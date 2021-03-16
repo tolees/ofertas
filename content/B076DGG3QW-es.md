@@ -5,7 +5,7 @@ date: 2020-05-29 12:43:47
 image: 'https://m.media-amazon.com/images/I/412SiQIOYHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076DGG3QW-es Seagate Backup Plus Hub STEL10000400 Unidad de disco duro...'
 sku: 'B076DGG3QW-es'
 tags: [  ]

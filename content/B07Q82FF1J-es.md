@@ -5,7 +5,7 @@ date: 2020-04-12 23:00:57
 image: 'https://m.media-amazon.com/images/I/414ULpR-RVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q82FF1J-es ABOX Plancha de Vapor para Viaje 4 en 1 Modo de Vapor y...'
 sku: 'B07Q82FF1J-es'
 tags: [  ]

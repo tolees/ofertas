@@ -5,7 +5,7 @@ date: 2020-07-12 15:05:03
 image: 'https://m.media-amazon.com/images/I/41b9+vAuvSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012N6SHH6-es Guess Reloj cronógrafo para Mujer de Cuarzo con Correa en...'
 sku: 'B012N6SHH6-es'
 tags: [  ]

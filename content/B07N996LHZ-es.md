@@ -5,7 +5,7 @@ date: 2020-01-08 13:51:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QfnftSsdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N996LHZ-es ASUS ROG Strix GL704GM-EV009 - Portátil Gaming 17.3" FHD...'
 sku: 'B07N996LHZ-es'
 tags: [  ]

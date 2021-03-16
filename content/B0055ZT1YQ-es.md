@@ -5,7 +5,7 @@ date: 2020-09-23 08:50:31
 image: 'https://m.media-amazon.com/images/I/31Xc38zzxlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055ZT1YQ-es Orbegozo TB2203 TB 2203-Tabla de asado 220 x 430 mm 2000 W...'
 sku: 'B0055ZT1YQ-es'
 tags: [  ]

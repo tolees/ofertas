@@ -5,7 +5,7 @@ date: 2020-06-01 14:46:33
 image: 'https://m.media-amazon.com/images/I/51Qxwk-MV-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006HY3NDO-es Floso – Calcetines antideslizantes para hombre gris EUR 40-47'
 sku: 'B006HY3NDO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-24 16:47:22
 image: 'https://m.media-amazon.com/images/I/31K7ha2k28L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPZ471T-es adidas Tastigo19 SHO Pantalones Cortos de Deporte Hombre...'
 sku: 'B07JPZ471T-es'
 tags: [  ]

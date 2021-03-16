@@ -5,7 +5,7 @@ date: 2020-04-14 09:01:12
 image: 'https://m.media-amazon.com/images/I/41Gr3NGlBeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZ9TT1K-es Beard Grooming Kit by Benjamin Bernard - Scissors Oil Wash...'
 sku: 'B07MZ9TT1K-es'
 tags: [  ]

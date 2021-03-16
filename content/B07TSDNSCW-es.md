@@ -5,7 +5,7 @@ date: 2020-08-19 17:42:45
 image: 'https://m.media-amazon.com/images/I/51EQXM6iBlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSDNSCW-es Rivenbert Flotadores para Nadar Manguitos inflables para...'
 sku: 'B07TSDNSCW-es'
 tags: [  ]

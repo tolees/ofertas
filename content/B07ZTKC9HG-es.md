@@ -5,7 +5,7 @@ date: 2020-03-30 12:31:26
 image: 'https://m.media-amazon.com/images/I/51-Ii3BNu9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTKC9HG-es Ferilinso Funda para Moto G8 Plus Carcasa [Reforzar la...'
 sku: 'B07ZTKC9HG-es'
 tags: [  ]

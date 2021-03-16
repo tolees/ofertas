@@ -5,7 +5,7 @@ date: 2020-01-12 13:33:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51AG%2B7R8aSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLRGBD6-es Amplificador de voz WinBridge con micrófono con cable...'
 sku: 'B07QLRGBD6-es'
 tags: [  ]

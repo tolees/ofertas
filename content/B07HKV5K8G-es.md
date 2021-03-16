@@ -5,7 +5,7 @@ date: 2020-03-01 11:48:09
 image: 'https://m.media-amazon.com/images/I/41mTE2Z6pFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKV5K8G-es Under Armour UA W Ripple 2.0 Zapatillas de Running para...'
 sku: 'B07HKV5K8G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-06 10:28:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411OePTwGGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZ7XZR-es Puma Icra Trainer Sd V Inf Zapatillas Unisex Niños Azul...'
 sku: 'B07KFZ7XZR-es'
 tags: [  ]

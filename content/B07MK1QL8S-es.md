@@ -5,7 +5,7 @@ date: 2020-05-29 08:51:00
 image: 'https://m.media-amazon.com/images/I/31iSZdW4SoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1QL8S-es Napapijri Moto Wint Pantalones Verde Green Forest 2 GE3 42...'
 sku: 'B07MK1QL8S-es'
 tags: [  ]

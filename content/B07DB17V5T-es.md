@@ -5,7 +5,7 @@ date: 2020-07-07 05:09:37
 image: 'https://m.media-amazon.com/images/I/41MSwFyQfYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DB17V5T-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07DB17V5T-es'
 tags: [  ]

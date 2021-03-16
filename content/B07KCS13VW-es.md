@@ -5,7 +5,7 @@ date: 2020-01-17 20:25:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41moMEvcPmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCS13VW-es BOSS Dogfish Bañador Azul Bright Blue 431 Small para Hombre'
 sku: 'B07KCS13VW-es'
 tags: [  ]

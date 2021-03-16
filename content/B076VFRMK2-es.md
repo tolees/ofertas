@@ -5,7 +5,7 @@ date: 2020-03-06 11:01:32
 image: 'https://m.media-amazon.com/images/I/51SZ3w-Wh+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VFRMK2-es WETOO Gorra de Béisbol de Lana de Invierno para Hombre...'
 sku: 'B076VFRMK2-es'
 tags: [  ]

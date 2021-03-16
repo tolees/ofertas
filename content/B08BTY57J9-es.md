@@ -5,7 +5,7 @@ date: 2020-07-07 12:01:42
 image: 'https://m.media-amazon.com/images/I/5168Ba+LjpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTY57J9-es ZNE - Carcasa para iPhone SE 2020 diseño de flores de...'
 sku: 'B08BTY57J9-es'
 tags: [  ]

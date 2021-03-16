@@ -5,7 +5,7 @@ date: 2020-05-06 18:03:53
 image: 'https://m.media-amazon.com/images/I/31z-qCXpnoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5CH3V6-es Love MoschinoJc4024pp1aMujerBolsos totesBlanco Bianco...'
 sku: 'B07S5CH3V6-es'
 tags: [  ]

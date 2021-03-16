@@ -5,7 +5,7 @@ date: 2020-06-15 11:52:00
 image: 'https://m.media-amazon.com/images/I/31VL-MIuk3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0791ZRNNP-es NIKE Pantalones Training Parque 18 Fútbol Nero BLU Bianco...'
 sku: 'B0791ZRNNP-es'
 tags: [  ]

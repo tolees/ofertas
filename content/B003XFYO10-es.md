@@ -5,7 +5,7 @@ date: 2020-01-29 02:54:44
 image: 'https://m.media-amazon.com/images/I/41roIu8v0BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XFYO10-es Kyocera Mita 1T02KVCNL0 - Cartuchos de tóner color cian'
 sku: 'B003XFYO10-es'
 tags: [  ]

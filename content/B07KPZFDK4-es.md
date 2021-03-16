@@ -5,7 +5,7 @@ date: 2020-10-08 10:21:50
 image: 'https://m.media-amazon.com/images/I/31VPkFV82vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPZFDK4-es Ever-Pretty Vestidos de Fiesta Encaje Gasa Cuello Redondo...'
 sku: 'B07KPZFDK4-es'
 tags: [  ]

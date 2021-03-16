@@ -5,7 +5,7 @@ date: 2020-03-10 21:42:34
 image: 'https://m.media-amazon.com/images/I/31NeiDfDLkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ELKSOKW-es Mondial BB05 Plancha 7 litros Negro'
 sku: 'B01ELKSOKW-es'
 tags: [  ]

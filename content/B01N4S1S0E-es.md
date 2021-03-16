@@ -5,7 +5,7 @@ date: 2020-05-27 19:16:55
 image: 'https://m.media-amazon.com/images/I/418ukc+kIgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4S1S0E-es BHR 11797 Casco Moto Demi-Jet Linea One 801 Verde XS'
 sku: 'B01N4S1S0E-es'
 tags: [  ]

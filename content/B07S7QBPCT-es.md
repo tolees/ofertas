@@ -5,7 +5,7 @@ date: 2020-08-06 13:52:23
 image: 'https://m.media-amazon.com/images/I/31WLJYaanGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QBPCT-es PUMA RS 9.8 Grid Zapatillas Unisex-Adulto Blanco White...'
 sku: 'B07S7QBPCT-es'
 tags: [  ]

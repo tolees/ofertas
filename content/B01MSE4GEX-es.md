@@ -5,7 +5,7 @@ date: 2020-04-20 17:01:55
 image: 'https://m.media-amazon.com/images/I/51brcac5t1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSE4GEX-es PEKITAS Bebe Capa De Baño Con Capucha y Manopla 75x75 cm...'
 sku: 'B01MSE4GEX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 21:16:27
 image: 'https://m.media-amazon.com/images/I/31t8we+GK9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y3MWX3R-es SAMSUNG Galaxy Watch Active 2 SM-R830NSKAPHE - Smartwatch...'
 sku: 'B07Y3MWX3R-es'
 tags: [  ]

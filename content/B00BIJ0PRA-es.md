@@ -5,7 +5,7 @@ date: 2020-07-14 18:35:06
 image: 'https://m.media-amazon.com/images/I/41WSGVBeq1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BIJ0PRA-es Vans Atwood Zapatillas Unisex Niños Negro Canvas...'
 sku: 'B00BIJ0PRA-es'
 tags: [  ]

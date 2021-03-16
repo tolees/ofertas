@@ -5,7 +5,7 @@ date: 2020-10-02 21:46:28
 image: 'https://m.media-amazon.com/images/I/41boVYwAGCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LOJTJXO-es Hot Chocolate Design Chocolaticas He Loves Me He Loves Me...'
 sku: 'B01LOJTJXO-es'
 tags: [  ]

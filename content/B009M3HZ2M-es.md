@@ -5,7 +5,7 @@ date: 2020-01-02 22:56:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ufI5VoJDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009M3HZ2M-es Hauck Freerider Silla de paseo gemelar para 1 o 2 niños de...'
 sku: 'B009M3HZ2M-es'
 tags: [  ]

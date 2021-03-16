@@ -5,7 +5,7 @@ date: 2020-08-16 20:54:49
 image: 'https://m.media-amazon.com/images/I/418i-ojrOTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MCBF51Y-es Seiko Reloj Analógico para Hombre de Energía Solar con...'
 sku: 'B00MCBF51Y-es'
 tags: [  ]

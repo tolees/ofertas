@@ -5,7 +5,7 @@ date: 2020-08-30 23:38:44
 image: 'https://m.media-amazon.com/images/I/41Ip5EPC5pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ2DJDK-es BLACK+DECKER BEG220-QS Amoladora angular 900 W 12.000 rpm...'
 sku: 'B07CZ2DJDK-es'
 tags: [  ]

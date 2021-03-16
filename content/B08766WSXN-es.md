@@ -5,7 +5,7 @@ date: 2020-04-19 14:02:49
 image: 'https://m.media-amazon.com/images/I/51zb8G8m+aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08766WSXN-es MWPO Cortinas de Cuentas Azules Cuerdas Colgantes de...'
 sku: 'B08766WSXN-es'
 tags: [  ]

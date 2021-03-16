@@ -5,7 +5,7 @@ date: 2020-07-26 17:04:28
 image: 'https://m.media-amazon.com/images/I/41L4VsxbtbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WEIQR0I-es Sony Handycam FDR-AX33 4KUHD - Videocámara pantalla de 3"...'
 sku: 'B00WEIQR0I-es'
 tags: [  ]

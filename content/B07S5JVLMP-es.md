@@ -5,7 +5,7 @@ date: 2020-02-25 06:05:17
 image: 'https://m.media-amazon.com/images/I/31PbsR2lURL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5JVLMP-es Hapilife Grifo de Cocina Extraíble Monomando 360 °...'
 sku: 'B07S5JVLMP-es'
 tags: [  ]

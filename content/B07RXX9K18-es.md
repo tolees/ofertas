@@ -5,7 +5,7 @@ date: 2020-04-08 06:07:45
 image: 'https://m.media-amazon.com/images/I/41nvtrkrdvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXX9K18-es HorBous Tarjetas de Aprendizaje Alfabeto Números Colores...'
 sku: 'B07RXX9K18-es'
 tags: [  ]

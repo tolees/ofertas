@@ -5,7 +5,7 @@ date: 2020-03-11 11:14:33
 image: 'https://m.media-amazon.com/images/I/41HbchUXFPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AKAE9JM-es Kingston DataTraveler 2000 DT2000/32GB - Memoria USB 3.0...'
 sku: 'B01AKAE9JM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-22 11:36:02
 image: 'https://m.media-amazon.com/images/I/51c5wtHVlKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJ5SZWV-es ETEPON Multímetro Digital 6000 Cuentas para Mide Voltaje...'
 sku: 'B07QJ5SZWV-es'
 tags: [  ]

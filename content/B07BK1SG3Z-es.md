@@ -5,7 +5,7 @@ date: 2020-10-09 08:16:17
 image: 'https://m.media-amazon.com/images/I/41mDQDjXTlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BK1SG3Z-es PISEN - Batería externa PowerCube 20 000 mAh cargador...'
 sku: 'B07BK1SG3Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 06:03:30
 image: 'https://m.media-amazon.com/images/I/41LRwpNAWEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0RSQ6J-es Chicco Oasys 1 Evo Silla de coche grupo 1 Isofix gris'
 sku: 'B01M0RSQ6J-es'
 tags: [  ]

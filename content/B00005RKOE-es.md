@@ -5,7 +5,7 @@ date: 2020-05-09 19:00:14
 image: 'https://m.media-amazon.com/images/I/41Jn87CM6cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00005RKOE-es OXO Good Grips INOXO.1050586ML 500 ml'
 sku: 'B00005RKOE-es'
 tags: [  ]

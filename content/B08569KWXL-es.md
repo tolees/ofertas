@@ -5,7 +5,7 @@ date: 2020-10-06 14:06:53
 image: 'https://m.media-amazon.com/images/I/31sFpX1-5rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08569KWXL-es Sensilis Upgrade AR - Crema Reafirmante Calmante y...'
 sku: 'B08569KWXL-es'
 tags: [  ]

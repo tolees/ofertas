@@ -5,7 +5,7 @@ date: 2020-05-28 11:36:09
 image: 'https://m.media-amazon.com/images/I/51E7tR9jZ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDW2RG-es Funko - Figurine Smallfoot - Stonekeeper Pop 10cm -...'
 sku: 'B07DFDW2RG-es'
 tags: [  ]

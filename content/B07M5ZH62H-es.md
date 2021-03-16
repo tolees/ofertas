@@ -5,7 +5,7 @@ date: 2020-10-07 09:08:58
 image: 'https://m.media-amazon.com/images/I/31M9FtRgnBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5ZH62H-es Lee Luke Pants Jeans Moto Grey Hga 31W / 34L para Hombre'
 sku: 'B07M5ZH62H-es'
 tags: [  ]

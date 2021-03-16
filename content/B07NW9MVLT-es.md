@@ -5,7 +5,7 @@ date: 2020-02-18 13:23:15
 image: 'https://m.media-amazon.com/images/I/41c6tUCXNkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW9MVLT-es Skechers On-the-go Joy Botas Altas Mujer Marrón Chocolate...'
 sku: 'B07NW9MVLT-es'
 tags: [  ]

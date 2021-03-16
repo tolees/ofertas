@@ -5,7 +5,7 @@ date: 2020-09-11 17:47:16
 image: 'https://m.media-amazon.com/images/I/21hyM515VJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVFYG8D-es Clarins 57697 Delineador Waterproof Ojos N.03 Blue Orchid'
 sku: 'B07NVFYG8D-es'
 tags: [  ]

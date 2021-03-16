@@ -5,7 +5,7 @@ date: 2020-06-19 20:38:00
 image: 'https://m.media-amazon.com/images/I/41KtgUgeqTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C3GMYB3-es Zeewoo Juego de Accesorios Baño 5 Piezas Cerámica de...'
 sku: 'B07C3GMYB3-es'
 tags: [  ]

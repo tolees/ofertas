@@ -5,7 +5,7 @@ date: 2020-08-27 02:59:09
 image: 'https://m.media-amazon.com/images/I/31cc6wNIJGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NYTBSK-es USE Family Bamboo. Escurreplatos de plástico Fregadero con...'
 sku: 'B089NYTBSK-es'
 tags: [  ]

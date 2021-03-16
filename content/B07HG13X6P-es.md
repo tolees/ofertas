@@ -5,7 +5,7 @@ date: 2020-04-22 10:33:07
 image: 'https://m.media-amazon.com/images/I/41iABtCX0EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG13X6P-es New Balance 997h Zapatillas para Mujer Blanco Off White...'
 sku: 'B07HG13X6P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 13:16:12
 image: 'https://m.media-amazon.com/images/I/31dcNcXU5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I5QYU7U-es Elizabeth Arden Visible Difference Primer retexturizante...'
 sku: 'B00I5QYU7U-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 08:44:48
 image: 'https://m.media-amazon.com/images/I/51lOvAhcjUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDK9CHK-es Fast & Furious: Hobbs & Shaw [DVD]'
 sku: 'B07WDK9CHK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 11:56:17
 image: 'https://m.media-amazon.com/images/I/51B-TUHAb9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SMPL4WI-es Olympus OM-D E-M5 Mark II cámara de sistema Micro Cuatro...'
 sku: 'B00SMPL4WI-es'
 tags: [  ]

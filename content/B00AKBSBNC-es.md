@@ -5,7 +5,7 @@ date: 2020-08-25 14:37:36
 image: 'https://m.media-amazon.com/images/I/41tGwDXQfEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AKBSBNC-es NANOCABLE 10.20.0302 - Cable de Red Ethernet rigido RJ45...'
 sku: 'B00AKBSBNC-es'
 tags: [  ]

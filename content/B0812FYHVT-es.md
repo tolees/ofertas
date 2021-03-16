@@ -5,7 +5,7 @@ date: 2020-06-07 19:47:47
 image: 'https://m.media-amazon.com/images/I/31SRpZG24ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0812FYHVT-es Asics Gel-Cumulus 21 Running Shoe Mens - Black/Black -...'
 sku: 'B0812FYHVT-es'
 tags: [  ]

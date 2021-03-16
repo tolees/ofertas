@@ -5,7 +5,7 @@ date: 2020-05-12 15:12:29
 image: 'https://m.media-amazon.com/images/I/41nQAEGnyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNTJJVD-es Under Armour Women s Charged Pursuit 2 Laufschuhe...'
 sku: 'B07NNTJJVD-es'
 tags: [  ]

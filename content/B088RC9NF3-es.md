@@ -5,7 +5,7 @@ date: 2020-08-12 09:16:00
 image: 'https://m.media-amazon.com/images/I/41gUI3lOuAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088RC9NF3-es COOAU Cámara Web 1080p HD con micrófono con cancelación de...'
 sku: 'B088RC9NF3-es'
 tags: [  ]

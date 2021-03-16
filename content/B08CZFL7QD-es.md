@@ -5,7 +5,7 @@ date: 2020-10-02 10:47:58
 image: 'https://m.media-amazon.com/images/I/41Eeikqc-YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZFL7QD-es San Ignacio Batería 8 piezas Porto y Set 3 sartenes...'
 sku: 'B08CZFL7QD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2019-12-31 20:03:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HqKAYF-BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0727RKJFL-es KEEPOW Paños de limpieza de microfibra para aspiradora...'
 sku: 'B0727RKJFL-es'
 tags: [  ]

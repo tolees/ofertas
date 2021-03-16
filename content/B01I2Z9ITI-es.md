@@ -5,7 +5,7 @@ date: 2020-04-17 16:24:53
 image: 'https://m.media-amazon.com/images/I/51RqoHnLJmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I2Z9ITI-es Arganour Jojoba Oil 100% Pure Aceite Corporal - 50 ml'
 sku: 'B01I2Z9ITI-es'
 tags: [  ]

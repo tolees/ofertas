@@ -5,7 +5,7 @@ date: 2020-09-20 11:25:38
 image: 'https://m.media-amazon.com/images/I/314o7yGFv-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRXQKQD-es SALOMON Comet Warm Tight W Mallas para Running Mezcla de...'
 sku: 'B07KRXQKQD-es'
 tags: [  ]

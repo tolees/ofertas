@@ -5,7 +5,7 @@ date: 2020-02-20 01:35:22
 image: 'https://m.media-amazon.com/images/I/51KDCZ3jkiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WLSSFB-es Relojes para Hombres LIGE Correa de Cuero Marrón Deportivo...'
 sku: 'B078WLSSFB-es'
 tags: [  ]

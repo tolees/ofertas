@@ -5,7 +5,7 @@ date: 2020-01-12 22:56:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41e7AlKaYTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5N9JLB-es Cacerola con 2 asas 16-30 cm de diámetro Inoxidable...'
 sku: 'B07P5N9JLB-es'
 tags: [  ]

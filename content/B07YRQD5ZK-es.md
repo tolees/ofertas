@@ -5,7 +5,7 @@ date: 2020-03-13 20:34:36
 image: 'https://m.media-amazon.com/images/I/41vIfhHwQRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YRQD5ZK-es flintronic® Taza de Viaje Termo Taza 500ML Travel Mug...'
 sku: 'B07YRQD5ZK-es'
 tags: [  ]

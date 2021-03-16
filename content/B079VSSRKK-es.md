@@ -5,7 +5,7 @@ date: 2020-08-03 07:43:41
 image: 'https://m.media-amazon.com/images/I/51ke3iVaokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VSSRKK-es Weider Vegan Diet Meal Choco 540 Gr. Sutituto de comida...'
 sku: 'B079VSSRKK-es'
 tags: [  ]

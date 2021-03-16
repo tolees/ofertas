@@ -5,7 +5,7 @@ date: 2020-04-30 19:32:21
 image: 'https://m.media-amazon.com/images/I/41T9Ig7KN6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKZX9RW-es Yifen Base de Carga 4 en 1 de Silicona para Apple Watch...'
 sku: 'B07GKZX9RW-es'
 tags: [  ]

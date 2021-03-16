@@ -5,7 +5,7 @@ date: 2020-01-14 22:22:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pVW-cOpfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AWG5XU8-es LG 34UM88-P - Monitor Profesional UltraWide QHD de 86 36...'
 sku: 'B01AWG5XU8-es'
 tags: [  ]

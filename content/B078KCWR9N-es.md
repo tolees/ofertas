@@ -5,7 +5,7 @@ date: 2020-04-05 06:11:46
 image: 'https://m.media-amazon.com/images/I/3171Y6yvo5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078KCWR9N-es Puma Leader Vt SL Zapatillas de Running Unisex Adulto...'
 sku: 'B078KCWR9N-es'
 tags: [  ]

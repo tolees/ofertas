@@ -5,7 +5,7 @@ date: 2020-07-22 07:01:09
 image: 'https://m.media-amazon.com/images/I/41zyO4WHA8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DB538QB-es HP EliteBook x360 1030 G3 - Ordenador Portátil Profesional...'
 sku: 'B07DB538QB-es'
 tags: [  ]

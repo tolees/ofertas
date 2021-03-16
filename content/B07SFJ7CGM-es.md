@@ -5,7 +5,7 @@ date: 2020-08-24 12:36:51
 image: 'https://m.media-amazon.com/images/I/31U3AysrH4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFJ7CGM-es Levi s Global Vulca-Low Zapatillas para Hombre Blanco R...'
 sku: 'B07SFJ7CGM-es'
 tags: [  ]

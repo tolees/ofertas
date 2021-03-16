@@ -5,7 +5,7 @@ date: 2020-04-27 16:11:17
 image: 'https://m.media-amazon.com/images/I/41iQsHr9s1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSKYLXD-es HKT by Hackett Hkt SS Str Rby Polo Ink 591 X-Large para...'
 sku: 'B07MSKYLXD-es'
 tags: [  ]

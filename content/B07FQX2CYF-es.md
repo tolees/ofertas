@@ -5,7 +5,7 @@ date: 2020-01-11 19:50:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31TQZ4KpgkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQX2CYF-es Clarks Triactive Up Zapatillas para Hombre Negro Black...'
 sku: 'B07FQX2CYF-es'
 tags: [  ]

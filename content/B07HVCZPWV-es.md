@@ -5,7 +5,7 @@ date: 2020-04-08 06:07:32
 image: 'https://m.media-amazon.com/images/I/41x2PuOyOkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HVCZPWV-es GIOVARA tapete transparente para silla con borde para...'
 sku: 'B07HVCZPWV-es'
 tags: [  ]

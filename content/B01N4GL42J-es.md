@@ -5,7 +5,7 @@ date: 2020-06-08 04:15:33
 image: 'https://m.media-amazon.com/images/I/417DEhxfdEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4GL42J-es Finish Ambientador para lavavajillas fragancia limón - 2...'
 sku: 'B01N4GL42J-es'
 tags: [  ]

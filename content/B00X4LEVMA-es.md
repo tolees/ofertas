@@ -5,7 +5,7 @@ date: 2020-04-28 16:12:12
 image: 'https://m.media-amazon.com/images/I/31PfSVuy2iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X4LEVMA-es Adidas 3AA2297 Calcetines Unisex Blanco 43 - 46 EU Paquete...'
 sku: 'B00X4LEVMA-es'
 tags: [  ]

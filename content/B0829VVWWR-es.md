@@ -5,7 +5,7 @@ date: 2020-03-31 12:27:29
 image: 'https://m.media-amazon.com/images/I/4159UxQZ6+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829VVWWR-es Termómetro médico de Fieberthermometer por infrarrojos de...'
 sku: 'B0829VVWWR-es'
 tags: [  ]

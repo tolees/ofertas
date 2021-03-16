@@ -5,7 +5,7 @@ date: 2020-07-16 11:06:18
 image: 'https://m.media-amazon.com/images/I/51h2EPxk5VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779MSCS6-es Bliqniq 5 pares de Pendientes de los Aros de las Mujeres...'
 sku: 'B0779MSCS6-es'
 tags: [  ]

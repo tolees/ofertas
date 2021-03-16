@@ -5,7 +5,7 @@ date: 2020-08-28 17:24:36
 image: 'https://m.media-amazon.com/images/I/41yQFpaeDpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DZYO25G-es Optimum Nutrition ON Gold Standard BCAA Polvo Suplementos...'
 sku: 'B01DZYO25G-es'
 tags: [  ]

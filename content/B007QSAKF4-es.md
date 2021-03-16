@@ -5,7 +5,7 @@ date: 2020-03-29 17:06:16
 image: 'https://m.media-amazon.com/images/I/41UtGnk16AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007QSAKF4-es Dainese Action Vest Pro Protector Hombre Blanco/Negro S'
 sku: 'B007QSAKF4-es'
 tags: [  ]

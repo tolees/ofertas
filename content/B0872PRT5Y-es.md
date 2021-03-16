@@ -5,7 +5,7 @@ date: 2020-06-03 21:38:54
 image: 'https://m.media-amazon.com/images/I/41Hd1Gdh2GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872PRT5Y-es Funda Transparente Compatible para Galaxy A9 Star Lite...'
 sku: 'B0872PRT5Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-02 05:06:00
 image: 'https://m.media-amazon.com/images/I/51RcdiqctlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005UVO3GG-es Cuéntame Cómo Pasó - Temporada 12 [DVD]'
 sku: 'B005UVO3GG-es'
 tags: [  ]

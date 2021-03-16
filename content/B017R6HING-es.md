@@ -5,7 +5,7 @@ date: 2020-02-07 11:46:14
 image: 'https://m.media-amazon.com/images/I/41B57SvL7mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017R6HING-es Superga 2750 COTU Classic Zapatillas Unisex Verde 905 Tot...'
 sku: 'B017R6HING-es'
 tags: [  ]

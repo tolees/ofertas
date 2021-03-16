@@ -5,7 +5,7 @@ date: 2020-05-12 20:15:39
 image: 'https://m.media-amazon.com/images/I/41EfaNVf0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWXCF51-es Women s Secret Concept Essentials Cordovan Sujetador de...'
 sku: 'B07TWXCF51-es'
 tags: [  ]

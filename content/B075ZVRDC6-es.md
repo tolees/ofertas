@@ -5,7 +5,7 @@ date: 2020-05-10 19:02:03
 image: 'https://m.media-amazon.com/images/I/5132-52nhuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZVRDC6-es keeeper Hamaca de Baño Antideslizante Cars De 0 a 6 Meses...'
 sku: 'B075ZVRDC6-es'
 tags: [  ]

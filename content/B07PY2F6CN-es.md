@@ -5,7 +5,7 @@ date: 2020-05-27 11:46:29
 image: 'https://m.media-amazon.com/images/I/51VHR6KQbDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY2F6CN-es 2X Funda Xiaomi Redmi Note 7 Cárcasa Silicona Transparente...'
 sku: 'B07PY2F6CN-es'
 tags: [  ]

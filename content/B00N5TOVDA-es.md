@@ -5,7 +5,7 @@ date: 2020-03-18 15:03:59
 image: 'https://m.media-amazon.com/images/I/41yPREr+k6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N5TOVDA-es Braun Face 831 Beauty Edition - Cepillo de limpieza facial...'
 sku: 'B00N5TOVDA-es'
 tags: [  ]

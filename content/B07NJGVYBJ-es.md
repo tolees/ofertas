@@ -5,7 +5,7 @@ date: 2020-07-10 15:33:01
 image: 'https://m.media-amazon.com/images/I/21sp+pY4JKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJGVYBJ-es Brabantia Tasty + Pincel repostería de silicona color fir...'
 sku: 'B07NJGVYBJ-es'
 tags: [  ]

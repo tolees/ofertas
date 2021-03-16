@@ -5,7 +5,7 @@ date: 2020-10-05 01:37:24
 image: 'https://m.media-amazon.com/images/I/51Z49yrbt1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PTGF4W-es Saucony Jazz O Vintage Zapatillas de Cross para Hombre...'
 sku: 'B074PTGF4W-es'
 tags: [  ]

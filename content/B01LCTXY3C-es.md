@@ -5,7 +5,7 @@ date: 2020-04-26 16:16:01
 image: 'https://m.media-amazon.com/images/I/41cK6Ulka3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LCTXY3C-es Pantene Pro-V Prevención Caída Champú para el Cabello con...'
 sku: 'B01LCTXY3C-es'
 tags: [  ]

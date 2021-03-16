@@ -5,7 +5,7 @@ date: 2020-07-19 11:21:35
 image: 'https://m.media-amazon.com/images/I/51zHqbCrk5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJ75BC4-es BOWFU Funda para LG K51 Case 【Silicona Suave TPU...'
 sku: 'B08BJ75BC4-es'
 tags: [  ]

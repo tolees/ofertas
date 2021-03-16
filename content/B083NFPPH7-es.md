@@ -5,7 +5,7 @@ date: 2020-08-17 19:08:19
 image: 'https://m.media-amazon.com/images/I/510YCoFl0DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NFPPH7-es Sotor 76 x 67 x 110 CM Funda Barbacoa Pequeña Impermeable...'
 sku: 'B083NFPPH7-es'
 tags: [  ]

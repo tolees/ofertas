@@ -5,7 +5,7 @@ date: 2020-01-08 17:04:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IsE7TTRVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MW97GVJ-es Skechers Paxmen Zapatillas para Hombre Verde Olive Old 45 EU'
 sku: 'B07MW97GVJ-es'
 tags: [  ]

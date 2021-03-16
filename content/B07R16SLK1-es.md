@@ -5,7 +5,7 @@ date: 2020-10-10 19:13:18
 image: 'https://m.media-amazon.com/images/I/411eLz8QrxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R16SLK1-es Helly Hansen Classic Duffel Bolsa De Viaje Impermeable...'
 sku: 'B07R16SLK1-es'
 tags: [  ]

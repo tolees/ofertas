@@ -5,7 +5,7 @@ date: 2020-03-21 20:26:45
 image: 'https://m.media-amazon.com/images/I/417yxnwj2IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XQTYRC4-es HUAWEI 02452312 - Cargador de Coche Dual USB Super Charge...'
 sku: 'B06XQTYRC4-es'
 tags: [  ]

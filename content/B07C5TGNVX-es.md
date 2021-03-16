@@ -5,7 +5,7 @@ date: 2020-08-23 14:58:14
 image: 'https://m.media-amazon.com/images/I/31YdyAnKpEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5TGNVX-es WMF Perfect Premium - Olla ultra rápida/a presión de acero...'
 sku: 'B07C5TGNVX-es'
 tags: [  ]

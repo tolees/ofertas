@@ -5,7 +5,7 @@ date: 2020-03-20 17:48:15
 image: 'https://m.media-amazon.com/images/I/51QYGQkNkkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRM837W-es Kidear Ropa Interior Kids Series de Algodón Suave...'
 sku: 'B07TRM837W-es'
 tags: [  ]

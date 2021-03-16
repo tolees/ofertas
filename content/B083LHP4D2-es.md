@@ -5,7 +5,7 @@ date: 2020-04-13 12:02:45
 image: 'https://m.media-amazon.com/images/I/516mBwwfe0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LHP4D2-es Almohada de Viaje Cervical Viscolástica Ortopédica -...'
 sku: 'B083LHP4D2-es'
 tags: [  ]

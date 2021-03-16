@@ -5,7 +5,7 @@ date: 2020-08-12 13:08:01
 image: 'https://m.media-amazon.com/images/I/41yd1QTrkvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777LDMMK-es Clarks Tilden Free Mocasines para Hombre Marrón Dark Tan...'
 sku: 'B0777LDMMK-es'
 tags: [  ]

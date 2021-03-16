@@ -5,7 +5,7 @@ date: 2020-03-16 20:39:44
 image: 'https://m.media-amazon.com/images/I/31oRXd+9b9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KGSK5HS-es Prada Linea Rossa - Desodorante spray l homme prada'
 sku: 'B01KGSK5HS-es'
 tags: [  ]

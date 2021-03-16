@@ -5,7 +5,7 @@ date: 2020-07-04 07:54:30
 image: 'https://m.media-amazon.com/images/I/31WwxMnu-2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJGJDND-es Chicco Next 2 me - Cuna de colecho con anclaje a cama y 6...'
 sku: 'B07GJGJDND-es'
 tags: [  ]

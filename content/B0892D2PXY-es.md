@@ -5,7 +5,7 @@ date: 2020-05-26 15:33:02
 image: 'https://m.media-amazon.com/images/I/21tPLa6OtuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0892D2PXY-es XILOSIN Blanco 30 del Pin Femenino a 5 Adaptador de...'
 sku: 'B0892D2PXY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 07:09:59
 image: 'https://m.media-amazon.com/images/I/41RR5kT+3FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRWFNFQ-es Armani Exchange Hidden Buttons Stretch Cotton Polo Azul...'
 sku: 'B07SRWFNFQ-es'
 tags: [  ]

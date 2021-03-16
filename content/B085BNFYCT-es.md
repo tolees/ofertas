@@ -5,7 +5,7 @@ date: 2020-06-04 22:37:33
 image: 'https://m.media-amazon.com/images/I/51Czfi7MJPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085BNFYCT-es Kit de Iluminación para Fotografía: 3X Ventana de Luz 3X...'
 sku: 'B085BNFYCT-es'
 tags: [  ]

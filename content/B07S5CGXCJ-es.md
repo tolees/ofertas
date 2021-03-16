@@ -5,7 +5,7 @@ date: 2020-06-08 23:03:45
 image: 'https://m.media-amazon.com/images/I/41qAi7lK6eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5CGXCJ-es Love MoschinoJc4056pp1aMujerBolsos bandoleraNegro Negro...'
 sku: 'B07S5CGXCJ-es'
 tags: [  ]

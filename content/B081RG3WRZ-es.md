@@ -5,7 +5,7 @@ date: 2020-04-21 11:42:37
 image: 'https://m.media-amazon.com/images/I/41NAvM6vQtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RG3WRZ-es KOOPAO Cable USB C a Jack 3.5 mm Cable Aux USB Tipo C a...'
 sku: 'B081RG3WRZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 01:03:11
 image: 'https://m.media-amazon.com/images/I/51tHFPPV-ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824PCCCV-es Young & Ming Funda para Xiaomi Redmi Note 8T 3 Pack...'
 sku: 'B0824PCCCV-es'
 tags: [  ]

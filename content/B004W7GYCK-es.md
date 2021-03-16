@@ -5,7 +5,7 @@ date: 2020-04-14 09:38:53
 image: 'https://m.media-amazon.com/images/I/51mU6OQ6v3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004W7GYCK-es Duracell - Plus C Pilas Alcalinas paquete de 2 1.5 Voltios...'
 sku: 'B004W7GYCK-es'
 tags: [  ]

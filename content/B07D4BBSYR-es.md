@@ -5,7 +5,7 @@ date: 2020-02-01 17:46:09
 image: 'https://m.media-amazon.com/images/I/513ND96kFSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4BBSYR-es Yizhet 5 Piezas de Lámpara Super Brillante de 6 LEDs UEB...'
 sku: 'B07D4BBSYR-es'
 tags: [  ]

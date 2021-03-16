@@ -5,7 +5,7 @@ date: 2020-02-24 12:35:34
 image: 'https://m.media-amazon.com/images/I/41ontlPz8gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QMTQXZ-es Corsair HS60 Surround 7.1 - Auriculares Gaming con...'
 sku: 'B079QMTQXZ-es'
 tags: [  ]

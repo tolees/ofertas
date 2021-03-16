@@ -5,7 +5,7 @@ date: 2020-09-24 05:54:13
 image: 'https://m.media-amazon.com/images/I/418ajQ8rUjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNZMDD5-es Clarks Sense Strap Sandalia con Pulsera para Mujer Beige...'
 sku: 'B07TNZMDD5-es'
 tags: [  ]

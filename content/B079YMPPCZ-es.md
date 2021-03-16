@@ -5,7 +5,7 @@ date: 2020-02-10 12:14:05
 image: 'https://m.media-amazon.com/images/I/41wqgjVB00L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YMPPCZ-es Funko Pop!- Unmasked Spider-Man Figura de Vinilo 30633'
 sku: 'B079YMPPCZ-es'
 tags: [  ]

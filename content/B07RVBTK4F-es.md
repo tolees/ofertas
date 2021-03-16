@@ -5,7 +5,7 @@ date: 2020-07-10 00:21:03
 image: 'https://m.media-amazon.com/images/I/41AjGc0s3cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RVBTK4F-es SNK NEO GEO MINI Samurai Shodown V ED. Haohmara'
 sku: 'B07RVBTK4F-es'
 tags: [  ]

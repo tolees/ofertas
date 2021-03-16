@@ -5,7 +5,7 @@ date: 2020-07-12 02:05:58
 image: 'https://m.media-amazon.com/images/I/31Fvln8WxPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WCWHRP-es Palladium Pampa Hi Mono U Zapatillas Altas Unisex Adulto...'
 sku: 'B078WCWHRP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-18 05:06:05
 image: 'https://m.media-amazon.com/images/I/510e4M959RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016SJC6DK-es BeMaxx Juego de Bandas de Resistencia elásticas + guía de...'
 sku: 'B016SJC6DK-es'
 tags: [  ]

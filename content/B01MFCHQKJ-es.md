@@ -5,7 +5,7 @@ date: 2020-08-21 12:36:32
 image: 'https://m.media-amazon.com/images/I/41qGuek8O6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFCHQKJ-es Wet n Wild Coral Support 1 Step Wonder Gel Nail Color...'
 sku: 'B01MFCHQKJ-es'
 tags: [  ]

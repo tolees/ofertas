@@ -5,7 +5,7 @@ date: 2020-04-09 06:01:47
 image: 'https://m.media-amazon.com/images/I/51CFmZaZChL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PXX8MG-es Hugo BOSS Reloj Multiesfera para Hombre de Cuarzo con...'
 sku: 'B074PXX8MG-es'
 tags: [  ]

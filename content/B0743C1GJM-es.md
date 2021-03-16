@@ -5,7 +5,7 @@ date: 2020-08-20 13:26:17
 image: 'https://m.media-amazon.com/images/I/51ExniArB3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0743C1GJM-es Amzdeal Mesa de Luz Dibujo A4 LED Portátil Tableta de Luz...'
 sku: 'B0743C1GJM-es'
 tags: [  ]

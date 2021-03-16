@@ -5,7 +5,7 @@ date: 2020-08-24 08:35:31
 image: 'https://m.media-amazon.com/images/I/315rFOEnJuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3PCHZP-es SanDisk Memoria Flash USB Ultra de 32 GB con USB 3.0 y...'
 sku: 'B07S3PCHZP-es'
 tags: [  ]

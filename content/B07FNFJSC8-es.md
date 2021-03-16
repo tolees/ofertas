@@ -5,7 +5,7 @@ date: 2020-09-09 17:46:14
 image: 'https://m.media-amazon.com/images/I/41F80HTwFiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNFJSC8-es HOMCOM 3 EN 1 Triciclo para Niños +18 Meses Triciclo con...'
 sku: 'B07FNFJSC8-es'
 tags: [  ]

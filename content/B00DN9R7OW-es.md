@@ -5,7 +5,7 @@ date: 2020-10-06 12:27:00
 image: 'https://m.media-amazon.com/images/I/41OJ05XZpPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DN9R7OW-es HiPP Biológico Tarrito Manzana y Plátano con Galletas -...'
 sku: 'B00DN9R7OW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-12 00:46:45
 image: 'https://m.media-amazon.com/images/I/41wyteMVv0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BP23J1B-es STANLEY STHT77498-1 Nivel Láser Rojo Cubix De Líneas...'
 sku: 'B07BP23J1B-es'
 tags: [  ]

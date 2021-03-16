@@ -5,7 +5,7 @@ date: 2020-03-17 11:41:09
 image: 'https://m.media-amazon.com/images/I/31cbjzbcFGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBZ4D7H-es Sábana encimera colcha de belleza sábanas lavables colcha...'
 sku: 'B07WBZ4D7H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-18 12:41:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hyh1X-iiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DM8JVFQ-es Close Parent Bambú Pañales De Tela Tamaño Único Pack de 10'
 sku: 'B01DM8JVFQ-es'
 tags: [  ]

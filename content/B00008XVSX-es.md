@@ -5,7 +5,7 @@ date: 2020-05-23 11:25:56
 image: 'https://m.media-amazon.com/images/I/21FF5s9xZJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00008XVSX-es WMF Classic Line Cuchillo Cocinero 34 cm con Hoja de Acero...'
 sku: 'B00008XVSX-es'
 tags: [  ]

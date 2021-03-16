@@ -5,7 +5,7 @@ date: 2020-09-15 17:24:52
 image: 'https://m.media-amazon.com/images/I/31ue-q3on1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074G48PLG-es Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo...'
 sku: 'B074G48PLG-es'
 tags: [  ]

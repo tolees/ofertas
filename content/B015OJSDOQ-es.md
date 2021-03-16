@@ -5,7 +5,7 @@ date: 2020-10-10 17:41:35
 image: 'https://m.media-amazon.com/images/I/31JuOlW06XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015OJSDOQ-es PUMA ICRA Trainer SD Zapatillas Unisex Adulto Negro...'
 sku: 'B015OJSDOQ-es'
 tags: [  ]

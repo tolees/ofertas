@@ -5,7 +5,7 @@ date: 2020-04-10 16:27:37
 image: 'https://m.media-amazon.com/images/I/31wayRbF8JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VJSOZE4-es Imetec Bellissima Face Cleansing Pro Spazzola para la...'
 sku: 'B00VJSOZE4-es'
 tags: [  ]

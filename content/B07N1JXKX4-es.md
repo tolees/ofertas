@@ -5,7 +5,7 @@ date: 2020-09-30 10:33:23
 image: 'https://m.media-amazon.com/images/I/31v8TfuXinL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JXKX4-es Clarks Verona Rock Botas Plisadas para Mujer Marrón Oscuro...'
 sku: 'B07N1JXKX4-es'
 tags: [  ]

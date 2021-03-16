@@ -5,7 +5,7 @@ date: 2020-03-18 04:17:02
 image: 'https://m.media-amazon.com/images/I/41e+pvNEq2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0154O8DXC-es Daga Vendaje Térmico Muñeca - Neopreno Calor y compresión...'
 sku: 'B0154O8DXC-es'
 tags: [  ]

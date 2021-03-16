@@ -5,7 +5,7 @@ date: 2020-07-09 19:32:55
 image: 'https://m.media-amazon.com/images/I/31mjbhjPKVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMNVFT4-es Superdry Core Logo Tag Hood Capucha Blanco Optic 01c M...'
 sku: 'B07TMNVFT4-es'
 tags: [  ]

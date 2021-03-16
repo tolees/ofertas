@@ -5,7 +5,7 @@ date: 2020-04-07 22:15:52
 image: 'https://m.media-amazon.com/images/I/51fH3syHe7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3LKVDQ-es Buluri 84 Piezas Fondant Cortadores - Bricolaje Fondant...'
 sku: 'B07D3LKVDQ-es'
 tags: [  ]

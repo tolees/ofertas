@@ -5,7 +5,7 @@ date: 2020-05-14 13:03:00
 image: 'https://m.media-amazon.com/images/I/414-tm8nyaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078N6F2GB-es Numan Unison Reference - Radio por Internet Receptor Todo...'
 sku: 'B078N6F2GB-es'
 tags: [  ]

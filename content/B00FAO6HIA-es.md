@@ -5,7 +5,7 @@ date: 2020-01-25 17:46:54
 image: 'https://m.media-amazon.com/images/I/41ADpS9vu9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FAO6HIA-es Cybex - Silla de coche grupo 1/2/3 Pallas silla de coche 2...'
 sku: 'B00FAO6HIA-es'
 tags: [  ]

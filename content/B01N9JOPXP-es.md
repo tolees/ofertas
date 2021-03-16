@@ -5,7 +5,7 @@ date: 2020-04-14 17:47:41
 image: 'https://m.media-amazon.com/images/I/41k8pjbahjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9JOPXP-es Gillette Mach3 Irritation Defense Espuma de Afeitado Suave...'
 sku: 'B01N9JOPXP-es'
 tags: [  ]

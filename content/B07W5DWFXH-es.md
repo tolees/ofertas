@@ -5,7 +5,7 @@ date: 2020-05-30 16:46:09
 image: 'https://m.media-amazon.com/images/I/611MMTUAgaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5DWFXH-es EXCEED DIY Gomas Loom Bandas 10 000 Elásticos + Hebilla...'
 sku: 'B07W5DWFXH-es'
 tags: [  ]

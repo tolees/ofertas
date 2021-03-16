@@ -5,7 +5,7 @@ date: 2020-01-15 12:48:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51136dKiH3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F64CTCC-es Kit de Destornilladores Uktunu 110 en 1 Juego...'
 sku: 'B07F64CTCC-es'
 tags: [  ]

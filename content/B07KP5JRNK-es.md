@@ -5,7 +5,7 @@ date: 2020-08-25 14:13:01
 image: 'https://m.media-amazon.com/images/I/41b3ya2IYTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KP5JRNK-es Espejo de Maquillaje de Doble Cara con Luces LED Espejo...'
 sku: 'B07KP5JRNK-es'
 tags: [  ]

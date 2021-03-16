@@ -5,7 +5,7 @@ date: 2020-02-01 08:50:41
 image: 'https://m.media-amazon.com/images/I/41xEYid5KnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B11FKCP-es Ladrón de Manzanas Cider Frutos Rojos - 4 Packs de 6...'
 sku: 'B07B11FKCP-es'
 tags: [  ]

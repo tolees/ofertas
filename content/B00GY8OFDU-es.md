@@ -5,7 +5,7 @@ date: 2020-01-17 14:36:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31QMrrkQ68L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GY8OFDU-es Puma Suede Classic + Zapatillas Unisex Adulto Negro...'
 sku: 'B00GY8OFDU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-29 03:53:24
 image: 'https://m.media-amazon.com/images/I/4187vLnbDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVMGZZC-es Relaxdays Set de cubertería de bambú 10x Cuchillo Tenedor...'
 sku: 'B07NVMGZZC-es'
 tags: [  ]

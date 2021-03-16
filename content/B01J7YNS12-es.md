@@ -5,7 +5,7 @@ date: 2020-02-12 16:44:56
 image: 'https://m.media-amazon.com/images/I/4136ePIh0BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J7YNS12-es Bandas de resistencia ejercicio con asas deportes casa y...'
 sku: 'B01J7YNS12-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-15 09:31:12
 image: 'https://m.media-amazon.com/images/I/313hOT27KyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VT24NSF-es Minutus Manta Fina de Punto para Verano Algodón 80 Cm...'
 sku: 'B07VT24NSF-es'
 tags: [  ]

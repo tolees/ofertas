@@ -5,7 +5,7 @@ date: 2020-09-17 11:33:16
 image: 'https://m.media-amazon.com/images/I/41qu+jvb9vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814SR3ZY-es Under Armour Waist Bag Riñonera Unisex Adulto Verde OSFA'
 sku: 'B0814SR3ZY-es'
 tags: [  ]

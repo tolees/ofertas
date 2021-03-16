@@ -5,7 +5,7 @@ date: 2020-09-19 08:00:54
 image: 'https://m.media-amazon.com/images/I/31c8uUuFCzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DL32GHC-es FONCBIEN Alfombrilla De Ratón Gaming 220 × 220 Mm En...'
 sku: 'B07DL32GHC-es'
 tags: [  ]

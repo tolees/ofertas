@@ -5,7 +5,7 @@ date: 2020-06-06 20:55:51
 image: 'https://m.media-amazon.com/images/I/31AmDTXhfqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KKNBF8S-es Habitdesign LC7823O - Cómoda 3 cajones Color Roble...'
 sku: 'B00KKNBF8S-es'
 tags: [  ]

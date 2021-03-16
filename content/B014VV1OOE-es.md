@@ -5,7 +5,7 @@ date: 2020-09-20 17:28:31
 image: 'https://m.media-amazon.com/images/I/41SiqDdfspL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014VV1OOE-es Bolero Bebida Instantánea sin Azúcar Sabor Cereza-Kola -...'
 sku: 'B014VV1OOE-es'
 tags: [  ]

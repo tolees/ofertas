@@ -5,7 +5,7 @@ date: 2020-09-16 18:24:17
 image: 'https://m.media-amazon.com/images/I/41GeOkhLJxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKK35BT-es WD My Passport Ultra - Disco Duro Externo para Mac de 2 TB...'
 sku: 'B07GKK35BT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 21:49:43
 image: 'https://m.media-amazon.com/images/I/41giy9yaucL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3RP4BV-es Máscara Blanca Outgeek 12PCS Máscara Blanca Para Pintar De...'
 sku: 'B07B3RP4BV-es'
 tags: [  ]

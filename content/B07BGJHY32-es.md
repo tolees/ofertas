@@ -5,7 +5,7 @@ date: 2020-01-19 11:47:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wPkTYUFvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGJHY32-es Maleta grande Pepe Jeans Cambridge Celeste rígida 70cm'
 sku: 'B07BGJHY32-es'
 tags: [  ]

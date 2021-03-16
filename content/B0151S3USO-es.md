@@ -5,7 +5,7 @@ date: 2020-08-24 09:39:03
 image: 'https://m.media-amazon.com/images/I/51Rtsn7abYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0151S3USO-es Qwinto'
 sku: 'B0151S3USO-es'
 tags: [  ]

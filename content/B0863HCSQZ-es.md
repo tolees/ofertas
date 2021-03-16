@@ -5,7 +5,7 @@ date: 2020-03-22 18:09:32
 image: 'https://m.media-amazon.com/images/I/411e+JY3Y+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0863HCSQZ-es KETONG 50 Partes Desechables Boca Cara Facial Polvo Morph...'
 sku: 'B0863HCSQZ-es'
 tags: [  ]

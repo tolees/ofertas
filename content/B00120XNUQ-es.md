@@ -5,7 +5,7 @@ date: 2020-10-03 20:11:24
 image: 'https://m.media-amazon.com/images/I/41uqFoMwNAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00120XNUQ-es Converse Chuck Taylor All Star Zapatillas de Tela Unisex...'
 sku: 'B00120XNUQ-es'
 tags: [  ]

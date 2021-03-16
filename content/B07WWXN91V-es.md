@@ -5,7 +5,7 @@ date: 2020-03-05 17:16:45
 image: 'https://m.media-amazon.com/images/I/41d6T5isMGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWXN91V-es World Rally Championship 8 WRC 8 - Edición Coleccionista...'
 sku: 'B07WWXN91V-es'
 tags: [  ]

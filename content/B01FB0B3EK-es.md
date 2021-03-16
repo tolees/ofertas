@@ -5,7 +5,7 @@ date: 2020-09-24 09:42:53
 image: 'https://m.media-amazon.com/images/I/31rS6bDXKhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FB0B3EK-es La Pajarita Cera Incolora / Solida Natural 100ML Especial...'
 sku: 'B01FB0B3EK-es'
 tags: [  ]

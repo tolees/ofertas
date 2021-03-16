@@ -5,7 +5,7 @@ date: 2020-05-13 11:18:28
 image: 'https://m.media-amazon.com/images/I/31XIluOe26L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002ZXWTQS-es Maped - Geometric 200 mm - Regla de plástico transparente'
 sku: 'B002ZXWTQS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-27 10:53:33
 image: 'https://m.media-amazon.com/images/I/51vNbRVqltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XC8ZKJ8-es Nobleza - Rascador para Gatos de cartón. Soporte de...'
 sku: 'B06XC8ZKJ8-es'
 tags: [  ]

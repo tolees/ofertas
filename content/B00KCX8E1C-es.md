@@ -5,7 +5,7 @@ date: 2020-08-28 20:38:24
 image: 'https://m.media-amazon.com/images/I/31fvR9SHFRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KCX8E1C-es GoPro Bodyboard Mount - Soporte para Cámara Gopro de 3.8...'
 sku: 'B00KCX8E1C-es'
 tags: [  ]

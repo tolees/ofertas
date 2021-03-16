@@ -5,7 +5,7 @@ date: 2020-04-05 11:03:47
 image: 'https://m.media-amazon.com/images/I/41iPxBHg9rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MM2K5L-es Thermaltake Riing Plus 20 RGB TT Premium Edition -...'
 sku: 'B079MM2K5L-es'
 tags: [  ]

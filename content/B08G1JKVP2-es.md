@@ -5,7 +5,7 @@ date: 2020-09-15 20:23:23
 image: 'https://m.media-amazon.com/images/I/41kyvllbT6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G1JKVP2-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
 sku: 'B08G1JKVP2-es'
 tags: [  ]

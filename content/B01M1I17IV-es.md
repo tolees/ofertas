@@ -5,7 +5,7 @@ date: 2020-06-09 06:01:13
 image: 'https://m.media-amazon.com/images/I/41aRAAJbyyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1I17IV-es Sigma F1 4 DG AF HSM Art - Objetivo para cámara para...'
 sku: 'B01M1I17IV-es'
 tags: [  ]

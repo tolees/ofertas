@@ -5,7 +5,7 @@ date: 2020-10-04 03:21:58
 image: 'https://m.media-amazon.com/images/I/31nzpgoHRGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008EKMPB0-es B+W 1071068 - Filtro polarizador Circular MRC de 82 mm'
 sku: 'B008EKMPB0-es'
 tags: [  ]

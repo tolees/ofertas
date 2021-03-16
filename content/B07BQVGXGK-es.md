@@ -5,7 +5,7 @@ date: 2020-07-04 09:31:44
 image: 'https://m.media-amazon.com/images/I/41pqgecjbOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQVGXGK-es Maytronics 9995670-ASSY - Cuadro alimentacion basico para...'
 sku: 'B07BQVGXGK-es'
 tags: [  ]

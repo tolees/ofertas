@@ -5,7 +5,7 @@ date: 2020-06-26 19:17:52
 image: 'https://m.media-amazon.com/images/I/31H7+RQTPwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2R3T5C-es Adidas Continental 80 Zapatillas de Deporte para Hombre...'
 sku: 'B07K2R3T5C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 14:28:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OV34or6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HCQNORK-es Reebok Royal Cl Jog 2l Zapatillas para Hombre Blanco...'
 sku: 'B01HCQNORK-es'
 tags: [  ]

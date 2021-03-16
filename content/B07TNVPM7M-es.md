@@ -5,7 +5,7 @@ date: 2020-07-30 03:24:59
 image: 'https://m.media-amazon.com/images/I/31S4dqXHSRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNVPM7M-es Clarks Jillian Rise Sandalia con Pulsera para Mujer Azul...'
 sku: 'B07TNVPM7M-es'
 tags: [  ]

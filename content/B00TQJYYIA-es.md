@@ -5,7 +5,7 @@ date: 2020-08-13 13:55:11
 image: 'https://m.media-amazon.com/images/I/41KIq87O1tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TQJYYIA-es Eylure Naturals pestañas falsas Número 031'
 sku: 'B00TQJYYIA-es'
 tags: [  ]

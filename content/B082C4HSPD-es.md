@@ -5,7 +5,7 @@ date: 2020-09-20 20:31:52
 image: 'https://m.media-amazon.com/images/I/41fMRH9W0ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082C4HSPD-es Moliies Ligas de Hombre 1 par de Liguero Individual...'
 sku: 'B082C4HSPD-es'
 tags: [  ]

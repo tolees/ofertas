@@ -5,7 +5,7 @@ date: 2020-01-02 16:16:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ttmO%2BIF6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076ZJXGXW-es 1mii Receptor Bluetooth Adaptador de Audio Inalámbrico Hi-...'
 sku: 'B076ZJXGXW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 10:58:32
 image: 'https://m.media-amazon.com/images/I/41qbtI9FQ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2CLF7-es New Balance 997H Zapatillas para Mujer Negro Black/Air 40 EU'
 sku: 'B07BL2CLF7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 05:03:31
 image: 'https://m.media-amazon.com/images/I/41SCHhOBcGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9TFG24-es AEG WX7-90A2B Limpiador de Ventanas Batería hasta 90min 3...'
 sku: 'B06X9TFG24-es'
 tags: [  ]

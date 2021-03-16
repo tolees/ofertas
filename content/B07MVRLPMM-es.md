@@ -5,7 +5,7 @@ date: 2020-09-17 16:49:34
 image: 'https://m.media-amazon.com/images/I/31WukKY0HsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVRLPMM-es HP Z3700 - Ratón'
 sku: 'B07MVRLPMM-es'
 tags: [  ]

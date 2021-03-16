@@ -5,7 +5,7 @@ date: 2020-05-26 14:40:30
 image: 'https://m.media-amazon.com/images/I/61MjxmmcaZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082D5MJS1-es MOZOOSON Pistola de Agua de Juguete para Niñas de Niños...'
 sku: 'B082D5MJS1-es'
 tags: [  ]

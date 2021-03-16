@@ -5,7 +5,7 @@ date: 2020-08-27 16:34:44
 image: 'https://m.media-amazon.com/images/I/41c+U+CH8PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ2ZVCY-es Colector de leche materna de NatureBond. Extractor de...'
 sku: 'B01LZ2ZVCY-es'
 tags: [  ]

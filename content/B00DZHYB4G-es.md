@@ -5,7 +5,7 @@ date: 2020-01-21 00:25:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ouH0LYAhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DZHYB4G-es L Oréal Expert Professionnel Liss Unlimited Serum 125 ml'
 sku: 'B00DZHYB4G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 15:06:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41by92G1HeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KELW06M-es Elbe Socket para Mesa Empotrado con Interruptor Enchufe...'
 sku: 'B00KELW06M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 08:32:39
 image: 'https://m.media-amazon.com/images/I/51Z19ppMLKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBRJCT-es ART VVIES Wandbild 40 x 30 Zoll Leinwand mit Haken Welpen...'
 sku: 'B082HBRJCT-es'
 tags: [  ]

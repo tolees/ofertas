@@ -5,7 +5,7 @@ date: 2020-04-21 18:39:05
 image: 'https://m.media-amazon.com/images/I/41s5uTNirUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJHJ6BJ-es Tamaris 1-1-26096-23 Botas Altas para Mujer Rosa Old Rose...'
 sku: 'B07NJHJ6BJ-es'
 tags: [  ]

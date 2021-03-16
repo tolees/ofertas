@@ -5,7 +5,7 @@ date: 2020-05-16 13:33:11
 image: 'https://m.media-amazon.com/images/I/412IfSjGJsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHR617T-es 100Pcs CD DVD Funda de Almacenamiento de Doble Cara Funda...'
 sku: 'B07WHR617T-es'
 tags: [  ]

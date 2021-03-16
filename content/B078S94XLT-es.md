@@ -5,7 +5,7 @@ date: 2020-07-27 08:01:05
 image: 'https://m.media-amazon.com/images/I/41EHdqoxqAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078S94XLT-es N2 Natural Nutrition Garcinia Cambogia Vitamina C-Cromo....'
 sku: 'B078S94XLT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-29 10:07:22
 image: 'https://m.media-amazon.com/images/I/31PPV5--zUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMSCL5T-es adidas W Zne Rev Mallas Mujer Negro/grisei XS'
 sku: 'B07KMSCL5T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-14 18:45:55
 image: 'https://m.media-amazon.com/images/I/41UyYW5wUtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7MYL91-es Titto Bluni Perfume Titto Bluni Colonia 75 Vapo 2X1 Acqua...'
 sku: 'B07S7MYL91-es'
 tags: [  ]

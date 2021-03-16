@@ -5,7 +5,7 @@ date: 2020-03-12 16:03:20
 image: 'https://m.media-amazon.com/images/I/41K7mt7W55L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JYNMCG-es RYMALL Álbum de Fotos para bebé Álbum de Memorias Little...'
 sku: 'B072JYNMCG-es'
 tags: [  ]

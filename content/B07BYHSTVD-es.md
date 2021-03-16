@@ -5,7 +5,7 @@ date: 2020-01-24 18:53:12
 image: 'https://m.media-amazon.com/images/I/21P73YFxohL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BYHSTVD-es Trueno Kids 2.0'
 sku: 'B07BYHSTVD-es'
 tags: [  ]

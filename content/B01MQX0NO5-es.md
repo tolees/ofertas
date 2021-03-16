@@ -5,7 +5,7 @@ date: 2020-01-25 18:32:40
 image: 'https://m.media-amazon.com/images/I/41sZC9JIwdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQX0NO5-es Crocs Freesail Chelsea Boot Women Mujer Bota Verde Dark...'
 sku: 'B01MQX0NO5-es'
 tags: [  ]

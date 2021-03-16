@@ -5,7 +5,7 @@ date: 2020-06-19 08:19:59
 image: 'https://m.media-amazon.com/images/I/41a8a+X8k5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073GMSCLV-es Lysport Cámara Web De 1080P HD Webcam con Micrófono...'
 sku: 'B073GMSCLV-es'
 tags: [  ]

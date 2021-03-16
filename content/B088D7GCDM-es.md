@@ -5,7 +5,7 @@ date: 2020-06-30 11:01:26
 image: 'https://m.media-amazon.com/images/I/41LapFa0zsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D7GCDM-es Suhctup Funda Compatible para Samsung Galaxy A9 Star Lite...'
 sku: 'B088D7GCDM-es'
 tags: [  ]

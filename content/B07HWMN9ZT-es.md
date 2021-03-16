@@ -5,7 +5,7 @@ date: 2020-03-03 02:52:22
 image: 'https://m.media-amazon.com/images/I/51lrkZsL3RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HWMN9ZT-es Apple iPhone XS Max de 512GB - Plata'
 sku: 'B07HWMN9ZT-es'
 tags: [  ]

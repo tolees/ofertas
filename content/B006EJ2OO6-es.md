@@ -5,7 +5,7 @@ date: 2020-07-21 14:02:53
 image: 'https://m.media-amazon.com/images/I/414RfpBFuxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006EJ2OO6-es Foppapedretti Asso - Tabla de planchar plegable de madera...'
 sku: 'B006EJ2OO6-es'
 tags: [  ]

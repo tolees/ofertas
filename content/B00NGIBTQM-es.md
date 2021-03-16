@@ -5,7 +5,7 @@ date: 2020-09-25 17:59:26
 image: 'https://m.media-amazon.com/images/I/411gK8tAJdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGIBTQM-es Bestway 52195 - Piscina de Bolas Hinchable Circo 137x96x96...'
 sku: 'B00NGIBTQM-es'
 tags: [  ]

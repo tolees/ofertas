@@ -5,7 +5,7 @@ date: 2020-07-23 05:10:41
 image: 'https://m.media-amazon.com/images/I/51Fuv61HHGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VDSLRP-es Alimentador antiahogo bebe chupete fruta bebe de...'
 sku: 'B073VDSLRP-es'
 tags: [  ]

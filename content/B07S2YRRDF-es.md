@@ -5,7 +5,7 @@ date: 2020-07-25 21:08:14
 image: 'https://m.media-amazon.com/images/I/41IuwwZPD1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2YRRDF-es Diesel UMBX-DAMIENTHREEPACK Calzoncillo para Hombre...'
 sku: 'B07S2YRRDF-es'
 tags: [  ]

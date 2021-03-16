@@ -5,7 +5,7 @@ date: 2020-02-01 10:38:08
 image: 'https://m.media-amazon.com/images/I/415aHGH9ksL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG4LDKN-es PUMA ST Runner v2 Full L Zapatillas Unisex Adulto White-...'
 sku: 'B07KG4LDKN-es'
 tags: [  ]

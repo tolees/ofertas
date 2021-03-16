@@ -5,7 +5,7 @@ date: 2020-02-10 12:37:25
 image: 'https://m.media-amazon.com/images/I/41y+ZhuB4TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07599YQKW-es Funko Pop!- James Bond Sean Connery Figura de Vinilo 24704'
 sku: 'B07599YQKW-es'
 tags: [  ]

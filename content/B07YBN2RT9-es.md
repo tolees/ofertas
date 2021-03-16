@@ -5,7 +5,7 @@ date: 2020-02-05 13:10:53
 image: 'https://m.media-amazon.com/images/I/51R1CEEazGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBN2RT9-es Naruto Ultimate Ninja Storm 3 Full Burst Code In a Box'
 sku: 'B07YBN2RT9-es'
 tags: [  ]

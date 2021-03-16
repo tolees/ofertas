@@ -5,7 +5,7 @@ date: 2020-09-17 04:49:17
 image: 'https://m.media-amazon.com/images/I/31EtKUiHAHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7QDO7M-es Memoria Flash USB 3.1 de Estado sólido SanDisk...'
 sku: 'B01N7QDO7M-es'
 tags: [  ]

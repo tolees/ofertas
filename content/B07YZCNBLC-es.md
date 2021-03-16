@@ -5,7 +5,7 @@ date: 2020-02-19 07:47:40
 image: 'https://m.media-amazon.com/images/I/418I4Q2833L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZCNBLC-es PRIXTON - Robot Aspirador Fregasuelos Barre y...'
 sku: 'B07YZCNBLC-es'
 tags: [  ]

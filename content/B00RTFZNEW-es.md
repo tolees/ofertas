@@ -5,7 +5,7 @@ date: 2020-03-09 12:13:17
 image: 'https://m.media-amazon.com/images/I/41I5OJ+BM1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RTFZNEW-es Grohe Eurosmart - Grifo de bidé con vaciador automático...'
 sku: 'B00RTFZNEW-es'
 tags: [  ]

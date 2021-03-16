@@ -5,7 +5,7 @@ date: 2020-05-15 19:08:06
 image: 'https://m.media-amazon.com/images/I/41Cus8NuCvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCG1MXG-es Vans Classic Patch Trucker Gorra de béisbol Multicolor...'
 sku: 'B07YCG1MXG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-24 19:40:46
 image: 'https://m.media-amazon.com/images/I/41y5JlzbOHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088CMTHLT-es Suhctup Funda Compatible para Huawei View 10 Lite/Honor 8X...'
 sku: 'B088CMTHLT-es'
 tags: [  ]

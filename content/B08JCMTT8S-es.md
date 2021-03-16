@@ -5,7 +5,7 @@ date: 2020-09-30 15:11:15
 image: 'https://m.media-amazon.com/images/I/41B-MlSsaKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JCMTT8S-es SGKITM Funda OnePlus 5 / OnePlus 5T Silicona Transparente...'
 sku: 'B08JCMTT8S-es'
 tags: [  ]

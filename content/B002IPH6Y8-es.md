@@ -5,7 +5,7 @@ date: 2020-01-25 00:25:22
 image: 'https://m.media-amazon.com/images/I/51s55AwXXbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002IPH6Y8-es Total Effects 7 en 1 BB Cream de Olay 7-en-1 Cutis Base...'
 sku: 'B002IPH6Y8-es'
 tags: [  ]

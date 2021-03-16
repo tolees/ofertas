@@ -5,7 +5,7 @@ date: 2020-01-09 14:20:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uDAfLd2ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD6NC8P-es Geekworm Carcasa para disipador térmico Raspberry Pi 4...'
 sku: 'B07VD6NC8P-es'
 tags: [  ]

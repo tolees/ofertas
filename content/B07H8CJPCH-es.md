@@ -5,7 +5,7 @@ date: 2020-04-11 18:51:25
 image: 'https://m.media-amazon.com/images/I/41VuOjvRyxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8CJPCH-es DROCON Bugs 3 Motor Quadcopter sin escobillas Drone Drone...'
 sku: 'B07H8CJPCH-es'
 tags: [  ]

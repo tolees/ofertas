@@ -5,7 +5,7 @@ date: 2020-10-02 16:25:47
 image: 'https://m.media-amazon.com/images/I/418P5FQk7ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMY12S6-es Syoss Acondicionador Hidratación+ 500 ml Pack de 1'
 sku: 'B07WMY12S6-es'
 tags: [  ]

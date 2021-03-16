@@ -5,7 +5,7 @@ date: 2020-07-11 10:29:32
 image: 'https://m.media-amazon.com/images/I/31lb5zLbN4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RMDNLH-es Columbia SANTIAM 2 Strap Zapatillas para Hombre Gris Dark...'
 sku: 'B073RMDNLH-es'
 tags: [  ]

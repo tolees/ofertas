@@ -5,7 +5,7 @@ date: 2020-09-28 07:38:59
 image: 'https://m.media-amazon.com/images/I/31qS1Pqp+YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BWP85RW-es WMF PermaDur Premium - Sartén Aluminio Fundido Inducción...'
 sku: 'B00BWP85RW-es'
 tags: [  ]

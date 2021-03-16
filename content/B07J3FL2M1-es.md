@@ -5,7 +5,7 @@ date: 2020-05-24 11:02:01
 image: 'https://m.media-amazon.com/images/I/31kLeZU4CXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3FL2M1-es HP OMEN Obelisk 875-0003ns - Ordenador de Sobremesa Gaming...'
 sku: 'B07J3FL2M1-es'
 tags: [  ]

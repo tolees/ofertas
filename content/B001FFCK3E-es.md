@@ -5,7 +5,7 @@ date: 2020-03-13 02:29:04
 image: 'https://m.media-amazon.com/images/I/414lbEK7i7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FFCK3E-es Olimp Sport Nutrition Suplemento Alimenticio Vita-Min...'
 sku: 'B001FFCK3E-es'
 tags: [  ]

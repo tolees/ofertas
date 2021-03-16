@@ -5,7 +5,7 @@ date: 2020-05-07 09:36:28
 image: 'https://m.media-amazon.com/images/I/3171f-gJQ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T867AIC-es JINX- Minecraft Llavero Diamond Pickaxe 3784'
 sku: 'B00T867AIC-es'
 tags: [  ]

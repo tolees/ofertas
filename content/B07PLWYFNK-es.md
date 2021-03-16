@@ -5,7 +5,7 @@ date: 2020-09-17 17:01:19
 image: 'https://m.media-amazon.com/images/I/31dDZlCl1PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLWYFNK-es 1 en 2 Salida Hdmi Convertidor Conecte el Cable del Cable...'
 sku: 'B07PLWYFNK-es'
 tags: [  ]

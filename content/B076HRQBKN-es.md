@@ -5,7 +5,7 @@ date: 2020-09-21 08:22:35
 image: 'https://m.media-amazon.com/images/I/41NjdbtVPiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HRQBKN-es adidas CORE18 tee T-Shirt Hombre Black/White XS'
 sku: 'B076HRQBKN-es'
 tags: [  ]

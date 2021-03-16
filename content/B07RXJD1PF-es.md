@@ -5,7 +5,7 @@ date: 2020-06-22 16:01:35
 image: 'https://m.media-amazon.com/images/I/411-WncbcLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXJD1PF-es New Balance Fresh Foam Tempo h Zapatillas de Running para...'
 sku: 'B07RXJD1PF-es'
 tags: [  ]

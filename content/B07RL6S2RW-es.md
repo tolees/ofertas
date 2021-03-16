@@ -5,7 +5,7 @@ date: 2020-08-14 12:08:57
 image: 'https://m.media-amazon.com/images/I/412qzbSIO+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RL6S2RW-es Fornite - Quadcrasher 28 cm Windows'
 sku: 'B07RL6S2RW-es'
 tags: [  ]

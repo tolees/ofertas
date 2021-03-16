@@ -5,7 +5,7 @@ date: 2020-09-08 17:56:04
 image: 'https://m.media-amazon.com/images/I/31E6cmWKXkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SS4J9KZ-es Hobaca® E27 Oro Cobre Hierro de lujo Lámpara colgante...'
 sku: 'B07SS4J9KZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 12:32:28
 image: 'https://m.media-amazon.com/images/I/41o9IQdDGTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P52S8YX-es Boulevard - Zapatos/Bailarinas diseño Flor y Puntera...'
 sku: 'B07P52S8YX-es'
 tags: [  ]

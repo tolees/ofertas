@@ -5,7 +5,7 @@ date: 2020-04-08 01:35:24
 image: 'https://m.media-amazon.com/images/I/31uLWxiXfvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BCIS5I8-es Belkin MIXIT - Cable de Lightning a USB con certificación...'
 sku: 'B00BCIS5I8-es'
 tags: [  ]

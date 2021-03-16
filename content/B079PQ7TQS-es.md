@@ -5,7 +5,7 @@ date: 2020-08-13 13:03:28
 image: 'https://m.media-amazon.com/images/I/41RwZl34jrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PQ7TQS-es Funko Pop- Pop Marvel: Avengers: Infinity War-Captain...'
 sku: 'B079PQ7TQS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-08 09:36:42
 image: 'https://m.media-amazon.com/images/I/51FgSpkqvVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGYWWK4-es Magno - Gel de ducha Marine Fresh - 550ml pack de 6 Total:...'
 sku: 'B01BGYWWK4-es'
 tags: [  ]

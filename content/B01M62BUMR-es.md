@@ -5,7 +5,7 @@ date: 2020-05-07 14:10:49
 image: 'https://m.media-amazon.com/images/I/31m3gLbJU4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M62BUMR-es vidaXL Barandilla de Seguridad Cama de Niños Azul Barrera...'
 sku: 'B01M62BUMR-es'
 tags: [  ]

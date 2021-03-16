@@ -5,7 +5,7 @@ date: 2020-09-07 19:57:18
 image: 'https://m.media-amazon.com/images/I/41IY6BxtZmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBWS5J1-es Jack & Jones Jjebasic Knit V-Neck Noos suéter Gris Dark...'
 sku: 'B07CBWS5J1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 04:11:05
 image: 'https://m.media-amazon.com/images/I/31x5bAM9plL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRP5KTN-es Guess W0911L1 Reloj de pulsera para mujer Blanco'
 sku: 'B01MRP5KTN-es'
 tags: [  ]

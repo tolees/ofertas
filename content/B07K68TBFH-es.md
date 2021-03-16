@@ -5,7 +5,7 @@ date: 2020-06-13 13:33:06
 image: 'https://m.media-amazon.com/images/I/41YrgO5UwLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K68TBFH-es Multiherramienta de Alicates Multiusos 18 en 1，Herramienta...'
 sku: 'B07K68TBFH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-20 09:30:50
 image: 'https://m.media-amazon.com/images/I/51FGOp7uOQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ZSHNEK-es Nikon AF-S 24-120mm F4 ED VR - Objetivo para Nikon...'
 sku: 'B003ZSHNEK-es'
 tags: [  ]

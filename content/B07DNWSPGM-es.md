@@ -5,7 +5,7 @@ date: 2020-02-21 06:35:32
 image: 'https://m.media-amazon.com/images/I/41r7Na53QgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNWSPGM-es Bennigiry - Shorts - para Mujer Multicolor Medium'
 sku: 'B07DNWSPGM-es'
 tags: [  ]

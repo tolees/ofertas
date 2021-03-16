@@ -5,7 +5,7 @@ date: 2020-01-19 12:05:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51YElvdinZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTPCWHN-es Frozen Believe-Mochila Dual Pequeña'
 sku: 'B07ZTPCWHN-es'
 tags: [  ]

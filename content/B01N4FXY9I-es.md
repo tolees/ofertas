@@ -5,7 +5,7 @@ date: 2020-09-18 22:40:19
 image: 'https://m.media-amazon.com/images/I/41Qh5zMq+wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4FXY9I-es Netgear ReadyNAS RN42200-100NES - Dispositivo de...'
 sku: 'B01N4FXY9I-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 11:25:15
 image: 'https://m.media-amazon.com/images/I/41OM4NZAy8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5CJ2XN-es SeeKool MII Mini PC Ordenador de sobremesa Full 4K HD...'
 sku: 'B07G5CJ2XN-es'
 tags: [  ]

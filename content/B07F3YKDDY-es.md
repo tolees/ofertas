@@ -5,7 +5,7 @@ date: 2020-05-15 18:32:35
 image: 'https://m.media-amazon.com/images/I/41qEbt+-GXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3YKDDY-es ONEVER Luces de tira llevadas flexibles con el cable del...'
 sku: 'B07F3YKDDY-es'
 tags: [  ]

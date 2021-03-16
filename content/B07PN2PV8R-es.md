@@ -5,7 +5,7 @@ date: 2020-02-14 20:13:18
 image: 'https://m.media-amazon.com/images/I/41wz5EjQbkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PN2PV8R-es Yafido LED Transformador 220V a 12V Trafo 50W 4.17A LED...'
 sku: 'B07PN2PV8R-es'
 tags: [  ]

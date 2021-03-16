@@ -5,7 +5,7 @@ date: 2020-01-19 11:01:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ggYBsDuKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CP0F9FS-es Guitarra acústica eléctrico mr500e op'
 sku: 'B01CP0F9FS-es'
 tags: [  ]

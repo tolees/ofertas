@@ -5,7 +5,7 @@ date: 2020-04-05 20:39:59
 image: 'https://m.media-amazon.com/images/I/41LYg5Qzl2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BFQLF1G-es Bisk 00414 Deco Toallero Anillo 16 x 6 x 18.5 cm Acabado...'
 sku: 'B00BFQLF1G-es'
 tags: [  ]

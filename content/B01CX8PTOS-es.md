@@ -5,7 +5,7 @@ date: 2020-07-07 08:55:57
 image: 'https://m.media-amazon.com/images/I/4113ZLzFK0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CX8PTOS-es iHealth Wave AM4 AM4-Monitor de Actividad natación y sueño...'
 sku: 'B01CX8PTOS-es'
 tags: [  ]

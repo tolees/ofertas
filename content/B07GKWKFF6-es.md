@@ -5,7 +5,7 @@ date: 2020-04-14 17:18:57
 image: 'https://m.media-amazon.com/images/I/514TgOV6UyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKWKFF6-es FELiCON K109 Juegos De una Sola Mano Teclado Mecánico USB...'
 sku: 'B07GKWKFF6-es'
 tags: [  ]

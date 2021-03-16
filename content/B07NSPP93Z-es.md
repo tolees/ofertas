@@ -5,7 +5,7 @@ date: 2020-01-17 02:59:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31R5tyCdCnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSPP93Z-es POP OFFICE PAM BEESLY VINYL FI'
 sku: 'B07NSPP93Z-es'
 tags: [  ]

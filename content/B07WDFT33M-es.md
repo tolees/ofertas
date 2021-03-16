@@ -5,7 +5,7 @@ date: 2020-07-08 10:38:28
 image: 'https://m.media-amazon.com/images/I/51DVdJAFVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDFT33M-es JOEAIS Tableta de Escritura LCD Color 8 5 Pulgadas Doodle...'
 sku: 'B07WDFT33M-es'
 tags: [  ]

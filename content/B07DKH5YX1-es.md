@@ -5,7 +5,7 @@ date: 2020-02-08 18:59:21
 image: 'https://m.media-amazon.com/images/I/41tZLjGzN3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKH5YX1-es Kipling - Arto S Bolsos bandolera Mujer Azul Active Blue'
 sku: 'B07DKH5YX1-es'
 tags: [  ]

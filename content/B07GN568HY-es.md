@@ -5,7 +5,7 @@ date: 2020-08-15 16:01:31
 image: 'https://m.media-amazon.com/images/I/417xkXq-i8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GN568HY-es Tableta de escritura LCD SUNLU Tablero de escritura y...'
 sku: 'B07GN568HY-es'
 tags: [  ]

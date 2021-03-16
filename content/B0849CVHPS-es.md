@@ -5,7 +5,7 @@ date: 2020-09-09 07:48:47
 image: 'https://m.media-amazon.com/images/I/51DyEINuTWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0849CVHPS-es Gigantosaurus'
 sku: 'B0849CVHPS-es'
 tags: [  ]

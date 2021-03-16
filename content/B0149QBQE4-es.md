@@ -5,7 +5,7 @@ date: 2020-09-08 12:09:38
 image: 'https://m.media-amazon.com/images/I/21+uwWbLchL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0149QBQE4-es Corsair MM200 - Alfombrilla de ratón para Juego Superficie...'
 sku: 'B0149QBQE4-es'
 tags: [  ]

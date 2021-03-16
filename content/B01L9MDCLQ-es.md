@@ -5,7 +5,7 @@ date: 2020-08-05 12:29:27
 image: 'https://m.media-amazon.com/images/I/315rYOi8MZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L9MDCLQ-es Belkin F8J206BTGRY - Funda y Soporte para Apple Pencil...'
 sku: 'B01L9MDCLQ-es'
 tags: [  ]

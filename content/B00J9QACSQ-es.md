@@ -5,7 +5,7 @@ date: 2020-09-02 10:21:03
 image: 'https://m.media-amazon.com/images/I/51g64C9rYYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J9QACSQ-es Tesa TE05671-00000-11 Cinta doble cara Extra fuerte 10m x...'
 sku: 'B00J9QACSQ-es'
 tags: [  ]

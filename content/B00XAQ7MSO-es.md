@@ -5,7 +5,7 @@ date: 2020-09-10 17:17:25
 image: 'https://m.media-amazon.com/images/I/51KtogGp2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAQ7MSO-es Fini Tronc - Marshmallow Bicolor - Espumas Dulces - 125...'
 sku: 'B00XAQ7MSO-es'
 tags: [  ]

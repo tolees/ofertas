@@ -5,7 +5,7 @@ date: 2020-06-01 05:17:05
 image: 'https://m.media-amazon.com/images/I/31w3DK2olnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F32KYX7-es Palladium Plphoenix F C U Zapatillas Unisex Adulto Blanco...'
 sku: 'B07F32KYX7-es'
 tags: [  ]

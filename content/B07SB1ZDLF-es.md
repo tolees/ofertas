@@ -5,7 +5,7 @@ date: 2020-06-11 05:25:34
 image: 'https://m.media-amazon.com/images/I/31Zscw-ne5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB1ZDLF-es Helly Hansen HH Ball Cap Gorra Unisex Adulto Grey Fog STD'
 sku: 'B07SB1ZDLF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-14 07:24:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ljK3nk-rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW686MG-es Skechers Summits-Lovely Sky Zapatillas para Mujer Negro...'
 sku: 'B07NW686MG-es'
 tags: [  ]

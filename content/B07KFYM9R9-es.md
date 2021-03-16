@@ -5,7 +5,7 @@ date: 2020-01-27 17:15:46
 image: 'https://m.media-amazon.com/images/I/31XKkdeUU7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYM9R9-es PUMA Cilia SD Zapatillas para Mujer Black-Calypso Coral...'
 sku: 'B07KFYM9R9-es'
 tags: [  ]

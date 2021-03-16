@@ -5,7 +5,7 @@ date: 2020-06-18 09:22:20
 image: 'https://m.media-amazon.com/images/I/519NzyXJNmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTNM71T-es Dragon Ball Z: Kakarot - Edición Coleccionista'
 sku: 'B07XTNM71T-es'
 tags: [  ]

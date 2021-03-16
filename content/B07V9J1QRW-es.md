@@ -5,7 +5,7 @@ date: 2020-09-09 22:33:15
 image: 'https://m.media-amazon.com/images/I/51mEBsqmXgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9J1QRW-es Seiko UK Limited - EU Pulsar Solar M Sport - Reloj...'
 sku: 'B07V9J1QRW-es'
 tags: [  ]

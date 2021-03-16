@@ -5,7 +5,7 @@ date: 2020-08-20 13:58:11
 image: 'https://m.media-amazon.com/images/I/31MS5ZEsySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYHW9HA-es Olympus - M.Zuiko Digital ED 12-100 mm F4 IS Pro Objetivo...'
 sku: 'B01LYHW9HA-es'
 tags: [  ]

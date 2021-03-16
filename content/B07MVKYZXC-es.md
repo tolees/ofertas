@@ -5,7 +5,7 @@ date: 2020-01-29 19:10:47
 image: 'https://m.media-amazon.com/images/I/31N4gQHMb-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVKYZXC-es Napapijri Eisberg SS Polo Blanco Bright White 002 Small...'
 sku: 'B07MVKYZXC-es'
 tags: [  ]

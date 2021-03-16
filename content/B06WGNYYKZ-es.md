@@ -5,7 +5,7 @@ date: 2020-05-04 19:02:56
 image: 'https://m.media-amazon.com/images/I/41xVg0gWBEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGNYYKZ-es 2x Cubierta Caso de Silicona Funda Protectora de Mando...'
 sku: 'B06WGNYYKZ-es'
 tags: [  ]

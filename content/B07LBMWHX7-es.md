@@ -5,7 +5,7 @@ date: 2020-05-10 13:21:42
 image: 'https://m.media-amazon.com/images/I/31EOJw+7S6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBMWHX7-es Kappa Marabu Zapatillas Unisex Adulto Black Red 1120 36 EU'
 sku: 'B07LBMWHX7-es'
 tags: [  ]

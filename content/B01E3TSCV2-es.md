@@ -5,7 +5,7 @@ date: 2020-09-17 10:36:15
 image: 'https://m.media-amazon.com/images/I/4126ejYxA5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E3TSCV2-es Chubasquero cortavientos de entretiempo de Geographical...'
 sku: 'B01E3TSCV2-es'
 tags: [  ]

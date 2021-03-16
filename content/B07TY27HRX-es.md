@@ -5,7 +5,7 @@ date: 2020-07-24 15:16:12
 image: 'https://m.media-amazon.com/images/I/410-ADLabEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY27HRX-es Skechers Bounder Zapatillas para Hombre Gris Gray...'
 sku: 'B07TY27HRX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 11:31:26
 image: 'https://m.media-amazon.com/images/I/417Ub0wrBmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5FBP38-es Stanley 65387 Linterna Led Indestructible De Aluminio...'
 sku: 'B07S5FBP38-es'
 tags: [  ]

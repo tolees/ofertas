@@ -5,7 +5,7 @@ date: 2020-01-29 13:42:22
 image: 'https://m.media-amazon.com/images/I/417emxOOP0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3QGZO8-es Skechers Street Squad Zapatillas sin Cordones para Niñas...'
 sku: 'B01N3QGZO8-es'
 tags: [  ]

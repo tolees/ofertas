@@ -5,7 +5,7 @@ date: 2020-01-28 12:30:49
 image: 'https://m.media-amazon.com/images/I/51ZkPFlLnLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O8ZWTA2-es H.Koenig TRT180 Tart Express 1800 W Acero Inoxidable Rojo'
 sku: 'B00O8ZWTA2-es'
 tags: [  ]

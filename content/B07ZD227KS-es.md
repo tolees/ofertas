@@ -5,7 +5,7 @@ date: 2020-01-22 16:53:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ArH%2BxqncL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZD227KS-es Amzdeal Carretilla Plegable Carretilla de Mano con 4...'
 sku: 'B07ZD227KS-es'
 tags: [  ]

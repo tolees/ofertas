@@ -5,7 +5,7 @@ date: 2020-10-05 01:01:31
 image: 'https://m.media-amazon.com/images/I/41lTQCUXnXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFSYZZ3-es HUANUO Soporte Monitor para 13-27 Pulgadas PC y Ordenador...'
 sku: 'B07FFSYZZ3-es'
 tags: [  ]

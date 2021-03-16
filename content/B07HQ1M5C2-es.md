@@ -5,7 +5,7 @@ date: 2020-07-25 16:07:59
 image: 'https://m.media-amazon.com/images/I/413WC7fQRZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQ1M5C2-es Funko Pop: Fortnite: Tower Recon Specialist multicolor...'
 sku: 'B07HQ1M5C2-es'
 tags: [  ]

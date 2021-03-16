@@ -5,7 +5,7 @@ date: 2020-05-23 12:31:47
 image: 'https://m.media-amazon.com/images/I/415tBvwiPLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005DKKA7K-es Constantin Durmont Calendar - Reloj analógico de caballero...'
 sku: 'B005DKKA7K-es'
 tags: [  ]

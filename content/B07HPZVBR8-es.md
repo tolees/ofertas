@@ -5,7 +5,7 @@ date: 2020-03-08 12:15:52
 image: 'https://m.media-amazon.com/images/I/519R3I95MYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPZVBR8-es Pack Conan 1+2¿ Black Metal Edition Blu-Ray [Blu-ray]'
 sku: 'B07HPZVBR8-es'
 tags: [  ]

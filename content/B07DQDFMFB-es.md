@@ -5,7 +5,7 @@ date: 2020-04-06 21:13:14
 image: 'https://m.media-amazon.com/images/I/51GfP2mqJyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQDFMFB-es Botones de Resina Botones Costura 285 Piezas Colores y...'
 sku: 'B07DQDFMFB-es'
 tags: [  ]

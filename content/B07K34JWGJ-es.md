@@ -5,7 +5,7 @@ date: 2020-10-11 19:01:27
 image: 'https://m.media-amazon.com/images/I/51tejhu9MxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K34JWGJ-es auna DigiPlug FM - Radio de Enchufe Radio con RDS...'
 sku: 'B07K34JWGJ-es'
 tags: [  ]

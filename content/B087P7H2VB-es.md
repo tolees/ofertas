@@ -5,7 +5,7 @@ date: 2020-07-18 18:32:15
 image: 'https://m.media-amazon.com/images/I/41slylXwexL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087P7H2VB-es Pendientes de perro para mujer 925 plata esterlina Shiba...'
 sku: 'B087P7H2VB-es'
 tags: [  ]

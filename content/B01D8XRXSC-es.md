@@ -5,7 +5,7 @@ date: 2020-06-13 17:31:43
 image: 'https://m.media-amazon.com/images/I/41XvrflE8CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D8XRXSC-es Parlux Advance Light - Secador de pelo ionico Rojo'
 sku: 'B01D8XRXSC-es'
 tags: [  ]

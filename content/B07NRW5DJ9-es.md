@@ -5,7 +5,7 @@ date: 2020-03-09 18:15:11
 image: 'https://m.media-amazon.com/images/I/31SgfisJcUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRW5DJ9-es Corsair MM350 Champion - Alfombrilla para Juegos de Tela...'
 sku: 'B07NRW5DJ9-es'
 tags: [  ]

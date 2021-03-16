@@ -5,7 +5,7 @@ date: 2020-09-17 17:33:30
 image: 'https://m.media-amazon.com/images/I/51YijvLZ1UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ARRTHPO-es HP 364XL N9J74AE Pack de 4 Negro Cian Magenta y Amarillo...'
 sku: 'B01ARRTHPO-es'
 tags: [  ]

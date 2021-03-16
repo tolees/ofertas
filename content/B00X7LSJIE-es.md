@@ -5,7 +5,7 @@ date: 2020-03-28 20:23:24
 image: 'https://m.media-amazon.com/images/I/31ScGkNLX3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X7LSJIE-es Reebok Classic Leather Zapatillas de Deporte para Hombre...'
 sku: 'B00X7LSJIE-es'
 tags: [  ]

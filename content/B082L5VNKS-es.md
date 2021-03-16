@@ -5,7 +5,7 @@ date: 2020-06-10 16:04:40
 image: 'https://m.media-amazon.com/images/I/41f8jJwr+hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082L5VNKS-es Neutrogena Spot Controlling Acne Crema Hidratante Oil Free...'
 sku: 'B082L5VNKS-es'
 tags: [  ]

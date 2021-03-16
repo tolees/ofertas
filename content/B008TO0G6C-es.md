@@ -5,7 +5,7 @@ date: 2020-07-12 12:02:28
 image: 'https://m.media-amazon.com/images/I/31ZuAgmgVVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008TO0G6C-es Tescoma 428724 Moldes De Emplatar Grandchef 4 Pzs Acero...'
 sku: 'B008TO0G6C-es'
 tags: [  ]

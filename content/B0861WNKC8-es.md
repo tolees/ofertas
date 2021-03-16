@@ -5,7 +5,7 @@ date: 2020-07-30 11:58:24
 image: 'https://m.media-amazon.com/images/I/41my10dYYdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0861WNKC8-es LG gram 15Z90N-V-AP72B - Ordenador portátil ultraligero de...'
 sku: 'B0861WNKC8-es'
 tags: [  ]

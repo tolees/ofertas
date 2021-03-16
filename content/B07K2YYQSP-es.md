@@ -5,7 +5,7 @@ date: 2020-01-13 12:51:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/510qCG4dgOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2YYQSP-es SmugPets - 315 Bolsas biodegradables para excrementos -...'
 sku: 'B07K2YYQSP-es'
 tags: [  ]

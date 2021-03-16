@@ -5,7 +5,7 @@ date: 2020-07-08 03:41:22
 image: 'https://m.media-amazon.com/images/I/21MqUZwqA0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RE8NTO-es Brabantia 385520 - Lengua raspadora grande acero y nylon...'
 sku: 'B000RE8NTO-es'
 tags: [  ]

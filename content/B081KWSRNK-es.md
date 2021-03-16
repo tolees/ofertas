@@ -5,7 +5,7 @@ date: 2020-08-06 11:37:49
 image: 'https://m.media-amazon.com/images/I/513In8prUyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081KWSRNK-es QYiD Funda para iPad 10.2 / iPad 7th Gen Plegables Soporte...'
 sku: 'B081KWSRNK-es'
 tags: [  ]

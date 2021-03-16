@@ -5,7 +5,7 @@ date: 2020-03-12 12:33:04
 image: 'https://m.media-amazon.com/images/I/41P8X2keVML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AUBJTDW-es Philips Smart Pro Compact FC8776/01 - Robot Aspirador 4...'
 sku: 'B01AUBJTDW-es'
 tags: [  ]

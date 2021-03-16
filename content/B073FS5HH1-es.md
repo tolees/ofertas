@@ -5,7 +5,7 @@ date: 2020-04-02 14:42:43
 image: 'https://m.media-amazon.com/images/I/41epr9UqLLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073FS5HH1-es Max Factor Healthy Skin Harmony Base de Maquillaje Tono 65...'
 sku: 'B073FS5HH1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-03 17:43:44
 image: 'https://m.media-amazon.com/images/I/417xrthmeEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MDYGBZ-es LED Superficie del panel Kit de montaje 600x600x50mm Marco...'
 sku: 'B075MDYGBZ-es'
 tags: [  ]

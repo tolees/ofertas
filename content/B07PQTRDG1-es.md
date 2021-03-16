@@ -5,7 +5,7 @@ date: 2020-01-18 19:17:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jCJmLoLaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQTRDG1-es New Balance 373 Zapatillas para Hombre Azul Navy Navy 42 EU'
 sku: 'B07PQTRDG1-es'
 tags: [  ]

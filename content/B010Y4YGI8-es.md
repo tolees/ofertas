@@ -5,7 +5,7 @@ date: 2020-09-11 07:45:09
 image: 'https://m.media-amazon.com/images/I/41tNUnws8OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010Y4YGI8-es Cúrcuma orgánica 745mg + Jengibre + Pimienta negra....'
 sku: 'B010Y4YGI8-es'
 tags: [  ]

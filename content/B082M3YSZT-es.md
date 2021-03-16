@@ -5,7 +5,7 @@ date: 2020-06-05 05:55:58
 image: 'https://m.media-amazon.com/images/I/519XYMskeqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082M3YSZT-es NWOUIIAY Cargador de coche de carga 6 A/12 V Multi...'
 sku: 'B082M3YSZT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 02:35:35
 image: 'https://m.media-amazon.com/images/I/41LDu3ad15L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0012MGYEQ-es Einhell - Juego de hojas de sierra circular 210 x 30 x 2 5...'
 sku: 'B0012MGYEQ-es'
 tags: [  ]

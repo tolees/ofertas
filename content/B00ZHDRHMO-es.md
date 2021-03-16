@@ -5,7 +5,7 @@ date: 2020-04-02 22:16:53
 image: 'https://m.media-amazon.com/images/I/41c0IqKW8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZHDRHMO-es GoPro ABSSC-001 Casey - Estuche Impermeable para Cámara +...'
 sku: 'B00ZHDRHMO-es'
 tags: [  ]

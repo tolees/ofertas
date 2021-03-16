@@ -5,7 +5,7 @@ date: 2020-08-19 12:38:41
 image: 'https://m.media-amazon.com/images/I/41dawR4cppL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9LZ8HD-es Reproductor MP3 con Bluetooth Reproductor de MP3 wiwoo con...'
 sku: 'B07Y9LZ8HD-es'
 tags: [  ]

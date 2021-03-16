@@ -5,7 +5,7 @@ date: 2020-07-12 00:32:37
 image: 'https://m.media-amazon.com/images/I/31OKYuc0PAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RY8VPTL-es JACK & JONES Jjiroy Jjjames Sa Noos Pantalones Verde Olive...'
 sku: 'B07RY8VPTL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-06 18:31:40
 image: 'https://m.media-amazon.com/images/I/41JG4gu5UgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HM71AJ8-es Ferrari 0830339 RedRev Evo - Reloj analógico de pulsera...'
 sku: 'B01HM71AJ8-es'
 tags: [  ]

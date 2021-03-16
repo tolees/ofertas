@@ -5,7 +5,7 @@ date: 2020-08-15 00:47:50
 image: 'https://m.media-amazon.com/images/I/31RF0rW3oaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RE8NSA-es Brabantia 363702 - Espátula de Cocina Antiadherente'
 sku: 'B000RE8NSA-es'
 tags: [  ]

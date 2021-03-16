@@ -5,7 +5,7 @@ date: 2020-02-10 11:51:51
 image: 'https://m.media-amazon.com/images/I/41cXKohWhjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBKG3MY-es Guanqin Reloj de Pulsera mecánico con Calendario analógico...'
 sku: 'B07VBKG3MY-es'
 tags: [  ]

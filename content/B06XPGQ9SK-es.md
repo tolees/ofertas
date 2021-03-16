@@ -5,7 +5,7 @@ date: 2020-06-02 04:55:06
 image: 'https://m.media-amazon.com/images/I/51P8lentLHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPGQ9SK-es Mr.Ho Terciopelo Almohada para el Reposacabezas del Coche...'
 sku: 'B06XPGQ9SK-es'
 tags: [  ]

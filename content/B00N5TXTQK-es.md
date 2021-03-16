@@ -5,7 +5,7 @@ date: 2020-02-14 09:25:05
 image: 'https://m.media-amazon.com/images/I/41II-L0s8lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N5TXTQK-es Bausch & Lomb - PureVision 2 Multifocales - Lentes de...'
 sku: 'B00N5TXTQK-es'
 tags: [  ]

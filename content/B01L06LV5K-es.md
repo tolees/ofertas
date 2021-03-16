@@ -5,7 +5,7 @@ date: 2020-01-11 20:01:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WtG%2Bptk6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L06LV5K-es Pulsar Reloj Digital para Unisex de Analogico con Correa...'
 sku: 'B01L06LV5K-es'
 tags: [  ]

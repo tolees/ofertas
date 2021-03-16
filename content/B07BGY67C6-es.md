@@ -5,7 +5,7 @@ date: 2020-04-04 09:15:29
 image: 'https://m.media-amazon.com/images/I/41MwVIUSA-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGY67C6-es LEADSTAR Almohada de baño Almohada de SPA Impermeable...'
 sku: 'B07BGY67C6-es'
 tags: [  ]

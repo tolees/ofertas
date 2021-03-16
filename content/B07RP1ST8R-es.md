@@ -5,7 +5,7 @@ date: 2020-01-11 13:25:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/211etyxZBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP1ST8R-es Xiaomi Mi - Ratón inalámbrico Color Blanco'
 sku: 'B07RP1ST8R-es'
 tags: [  ]

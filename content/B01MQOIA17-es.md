@@ -5,7 +5,7 @@ date: 2020-07-01 15:11:49
 image: 'https://m.media-amazon.com/images/I/41BPb1lD6CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQOIA17-es Aigostar - Bombilla LED B5 T3 4U E27 15W Ángulo 360° Luz...'
 sku: 'B01MQOIA17-es'
 tags: [  ]

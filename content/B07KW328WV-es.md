@@ -5,7 +5,7 @@ date: 2020-04-21 12:10:10
 image: 'https://m.media-amazon.com/images/I/41vsdJVA+fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW328WV-es RFIVER 2 Taburetes Altos de Bar Cafe en Cuero para Comedor...'
 sku: 'B07KW328WV-es'
 tags: [  ]

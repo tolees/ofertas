@@ -5,7 +5,7 @@ date: 2020-02-24 21:30:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31sA9UkPSGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCMLTQ9-es ETNAB|#Etnies Marana Vulc Zapatillas de Skateboard para...'
 sku: 'B07FCMLTQ9-es'
 tags: [  ]

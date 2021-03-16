@@ -5,7 +5,7 @@ date: 2020-02-09 09:54:20
 image: 'https://m.media-amazon.com/images/I/516+gEjcMNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C3SCKT0-es Sigma 30mm f/1.4 DC DN Contemporary - Objetivo estándar...'
 sku: 'B01C3SCKT0-es'
 tags: [  ]

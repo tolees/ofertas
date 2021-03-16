@@ -5,7 +5,7 @@ date: 2020-02-13 12:31:51
 image: 'https://m.media-amazon.com/images/I/51IcrwLU1ZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P46FWNM-es Reloj - Guanqin - para - GH17001'
 sku: 'B07P46FWNM-es'
 tags: [  ]

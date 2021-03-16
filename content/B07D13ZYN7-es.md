@@ -5,7 +5,7 @@ date: 2020-09-22 03:15:59
 image: 'https://m.media-amazon.com/images/I/41IlLga5FFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D13ZYN7-es Adaptador Cargador Nuevo Compatible para Portátil ASUS...'
 sku: 'B07D13ZYN7-es'
 tags: [  ]

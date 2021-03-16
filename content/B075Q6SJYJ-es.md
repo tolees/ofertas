@@ -5,7 +5,7 @@ date: 2020-02-13 17:51:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QklM5sd7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Q6SJYJ-es Crosstour Cámara de Coche Dash CAM 1080P Full HD...'
 sku: 'B075Q6SJYJ-es'
 tags: [  ]

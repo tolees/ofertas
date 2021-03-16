@@ -5,7 +5,7 @@ date: 2020-01-21 11:07:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41whGrtWmGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z7T0VWQ-es OtterBox Defender - Funda anticaídas para Apple iPad Pro...'
 sku: 'B00Z7T0VWQ-es'
 tags: [  ]

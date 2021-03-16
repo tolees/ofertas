@@ -5,7 +5,7 @@ date: 2020-07-31 11:19:45
 image: 'https://m.media-amazon.com/images/I/41elrhp4QGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IVQVOZO-es One For All WM2421 Soporte de pared para TV de 32 a 55”...'
 sku: 'B01IVQVOZO-es'
 tags: [  ]

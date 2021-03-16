@@ -5,7 +5,7 @@ date: 2020-10-03 12:38:18
 image: 'https://m.media-amazon.com/images/I/31UUeglS0WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077FY85FT-es New Balance MA33 Zapatillas Deportivas para Interior para...'
 sku: 'B077FY85FT-es'
 tags: [  ]

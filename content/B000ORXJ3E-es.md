@@ -5,7 +5,7 @@ date: 2020-02-23 20:50:56
 image: 'https://m.media-amazon.com/images/I/414H9n-VcHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ORXJ3E-es Max factor - Miracle touch creamy blush base de maquillaje...'
 sku: 'B000ORXJ3E-es'
 tags: [  ]

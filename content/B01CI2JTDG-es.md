@@ -5,7 +5,7 @@ date: 2020-09-03 12:24:59
 image: 'https://m.media-amazon.com/images/I/41GisSWrlcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CI2JTDG-es Krups VB7008 5L Dispensador de cerveza de barril - Tirador...'
 sku: 'B01CI2JTDG-es'
 tags: [  ]

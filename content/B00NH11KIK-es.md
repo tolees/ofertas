@@ -5,7 +5,7 @@ date: 2020-08-21 12:43:00
 image: 'https://m.media-amazon.com/images/I/4101vlzySzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NH11KIK-es AmazonBasics - Cable USB 2.0 de tipo A a tipo B 1 8 m'
 sku: 'B00NH11KIK-es'
 tags: [  ]

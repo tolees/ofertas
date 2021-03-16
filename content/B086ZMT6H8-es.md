@@ -5,7 +5,7 @@ date: 2020-05-31 13:45:18
 image: 'https://m.media-amazon.com/images/I/31IZWpRAWCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZMT6H8-es B Blesiya Caja De Almacenamiento De Batería Caja De...'
 sku: 'B086ZMT6H8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 07:46:40
 image: 'https://m.media-amazon.com/images/I/512xZu0A+bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7EIQ32-es Mayting 3 pcs Pulsera de Piedra Natural de Ojo de Tigre...'
 sku: 'B01N7EIQ32-es'
 tags: [  ]

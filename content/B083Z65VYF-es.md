@@ -5,7 +5,7 @@ date: 2020-07-03 10:46:06
 image: 'https://m.media-amazon.com/images/I/51YephRyzWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083Z65VYF-es Panamami Magic Drawing Light Effect Board Sketch Board...'
 sku: 'B083Z65VYF-es'
 tags: [  ]

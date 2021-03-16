@@ -5,7 +5,7 @@ date: 2020-04-14 16:12:31
 image: 'https://m.media-amazon.com/images/I/41E46PunQPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QMJ9FF-es Promini - Body para bebé con texto en inglés "My Aunt in...'
 sku: 'B086QMJ9FF-es'
 tags: [  ]

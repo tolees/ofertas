@@ -5,7 +5,7 @@ date: 2020-08-02 11:31:59
 image: 'https://m.media-amazon.com/images/I/41KSPLXz3FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IDU0T1Y-es Sabrent Adaptador de Cable de Impresora USB a Paralelo...'
 sku: 'B00IDU0T1Y-es'
 tags: [  ]

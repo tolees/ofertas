@@ -5,7 +5,7 @@ date: 2020-06-06 20:43:40
 image: 'https://m.media-amazon.com/images/I/51k6yuVaaBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OPW5B4O-es Protenrop Ecol-Trio - Cubo de basura con 3 compartimentos...'
 sku: 'B00OPW5B4O-es'
 tags: [  ]

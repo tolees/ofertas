@@ -5,7 +5,7 @@ date: 2020-02-01 18:15:40
 image: 'https://m.media-amazon.com/images/I/41Xbi6nPuEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYF7S6N-es Lenor Unstoppables Fresh Perlas Impulsoras De Fragancia -...'
 sku: 'B07HYF7S6N-es'
 tags: [  ]

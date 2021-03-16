@@ -5,7 +5,7 @@ date: 2020-04-04 13:08:05
 image: 'https://m.media-amazon.com/images/I/51Yt4mXBj6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q6C8SZ6-es BelleStyle Tablero de Dibujo Magnético Colorido Borrable...'
 sku: 'B07Q6C8SZ6-es'
 tags: [  ]

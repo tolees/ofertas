@@ -5,7 +5,7 @@ date: 2020-09-11 13:03:54
 image: 'https://m.media-amazon.com/images/I/51MzZA9hceL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0816DPC6C-es otumixx Bolsas de Almacenaje al Vacío 6 Unidades 3 *...'
 sku: 'B0816DPC6C-es'
 tags: [  ]

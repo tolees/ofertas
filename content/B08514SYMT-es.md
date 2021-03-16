@@ -5,7 +5,7 @@ date: 2020-03-04 12:24:57
 image: 'https://m.media-amazon.com/images/I/41SBbASyOuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08514SYMT-es Mascarillas mascarillas desechables antivirus corta saliva...'
 sku: 'B08514SYMT-es'
 tags: [  ]

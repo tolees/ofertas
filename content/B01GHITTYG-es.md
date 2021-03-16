@@ -5,7 +5,7 @@ date: 2020-07-16 20:29:49
 image: 'https://m.media-amazon.com/images/I/41fzdN+YWWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GHITTYG-es Plantronics Voyager 5200 Monoaural gancho de oreja Negro...'
 sku: 'B01GHITTYG-es'
 tags: [  ]

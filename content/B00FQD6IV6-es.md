@@ -5,7 +5,7 @@ date: 2020-07-25 14:16:46
 image: 'https://m.media-amazon.com/images/I/31979NPIj5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FQD6IV6-es Bestway 58277 - Recogehojas de Superficie Cleancast'
 sku: 'B00FQD6IV6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-18 08:08:21
 image: 'https://m.media-amazon.com/images/I/31YwwFgE3WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS9GZBX-es Gant Cocoville Zapatillas para Mujer Blanco...'
 sku: 'B07TS9GZBX-es'
 tags: [  ]

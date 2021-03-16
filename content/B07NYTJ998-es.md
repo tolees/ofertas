@@ -5,7 +5,7 @@ date: 2020-05-20 09:50:15
 image: 'https://m.media-amazon.com/images/I/41aw6hf7nlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NYTJ998-es Skechers Metco Botas Clasicas para Hombre Marrón Brown...'
 sku: 'B07NYTJ998-es'
 tags: [  ]

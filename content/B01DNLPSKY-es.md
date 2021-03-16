@@ -5,7 +5,7 @@ date: 2020-04-03 21:10:15
 image: 'https://m.media-amazon.com/images/I/41zP3Ptg9XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DNLPSKY-es Leathario Marca de Portafolio/ Carpeta Plegable de Mano PU...'
 sku: 'B01DNLPSKY-es'
 tags: [  ]

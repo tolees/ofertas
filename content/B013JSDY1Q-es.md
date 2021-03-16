@@ -5,7 +5,7 @@ date: 2020-01-15 14:34:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51G5tYwt6oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013JSDY1Q-es Star Wars Saga Completa 2015 Blu-Ray [Blu-ray]'
 sku: 'B013JSDY1Q-es'
 tags: [  ]

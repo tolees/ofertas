@@ -5,7 +5,7 @@ date: 2020-03-30 00:27:14
 image: 'https://m.media-amazon.com/images/I/31PkYccSoAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CGKQAIC-es St. Moriz Autobronceador corporal piel seca - 200 ml.'
 sku: 'B01CGKQAIC-es'
 tags: [  ]

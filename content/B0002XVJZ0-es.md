@@ -5,7 +5,7 @@ date: 2020-04-25 18:37:51
 image: 'https://m.media-amazon.com/images/I/51TjZrw9fbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002XVJZ0-es Slendertone Ceinture Electrodos de Repuesto para cinturón...'
 sku: 'B0002XVJZ0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-26 06:52:53
 image: 'https://m.media-amazon.com/images/I/41pmJV0456L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRLPC14-es New Balance Msx90tv1 Zapatillas para Hombre Gris Grey Grey...'
 sku: 'B07KRLPC14-es'
 tags: [  ]

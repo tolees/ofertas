@@ -5,7 +5,7 @@ date: 2020-05-07 20:05:27
 image: 'https://m.media-amazon.com/images/I/41oGcY2ed-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZC3IRJ-es Gillette Espuma para Piel sensible 200 ml'
 sku: 'B01LZC3IRJ-es'
 tags: [  ]

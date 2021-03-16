@@ -5,7 +5,7 @@ date: 2020-06-01 02:38:38
 image: 'https://m.media-amazon.com/images/I/41wUJ2FGFTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLP4XGP-es Clarks Un Rio Lace Zapatillas para Mujer Azul Dark Blush...'
 sku: 'B07TLP4XGP-es'
 tags: [  ]

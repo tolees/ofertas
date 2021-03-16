@@ -5,7 +5,7 @@ date: 2020-04-07 08:17:00
 image: 'https://m.media-amazon.com/images/I/51Mck60-GZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003U81XFK-es IBRA® Master Gold - 1m Metros Cable óptico de Audio...'
 sku: 'B003U81XFK-es'
 tags: [  ]

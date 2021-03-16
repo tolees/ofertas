@@ -5,7 +5,7 @@ date: 2020-06-23 20:03:10
 image: 'https://m.media-amazon.com/images/I/51ErKnFbrGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAPCWZS-es Konfekt - Geles dulces'
 sku: 'B00XAPCWZS-es'
 tags: [  ]

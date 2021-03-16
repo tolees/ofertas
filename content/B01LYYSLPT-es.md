@@ -5,7 +5,7 @@ date: 2020-01-02 13:56:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413w-PMo4qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYYSLPT-es Smilodox Shorts Pantalones Cortos para Hombre multicolor S'
 sku: 'B01LYYSLPT-es'
 tags: [  ]

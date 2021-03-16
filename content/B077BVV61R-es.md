@@ -5,7 +5,7 @@ date: 2020-03-31 05:12:21
 image: 'https://m.media-amazon.com/images/I/51iQyFr-gdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BVV61R-es Papi Max 4 Piezas X Large Baseplate 32x32 Studs 25.4cm X...'
 sku: 'B077BVV61R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-30 08:15:37
 image: 'https://m.media-amazon.com/images/I/31WJ-LW8SLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055TBLXG-es L Oréal Paris Volumissime Carbone X5 Máscara de Pestañas...'
 sku: 'B0055TBLXG-es'
 tags: [  ]

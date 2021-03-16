@@ -5,7 +5,7 @@ date: 2020-08-06 14:34:43
 image: 'https://m.media-amazon.com/images/I/31P4TCMZ2cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001W0ZX2M-es Joy Toy Star Wars - Protector Yoda con conexión USB'
 sku: 'B001W0ZX2M-es'
 tags: [  ]

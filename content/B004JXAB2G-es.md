@@ -5,7 +5,7 @@ date: 2020-01-20 00:53:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51lk2NYaP0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004JXAB2G-es Pilot 1108/12 Cartucho de Tinta Paquete de 12 Multicolor'
 sku: 'B004JXAB2G-es'
 tags: [  ]

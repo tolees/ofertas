@@ -5,7 +5,7 @@ date: 2020-04-02 16:52:50
 image: 'https://m.media-amazon.com/images/I/41KiigT+0XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6KVZBS-es Tommy Hilfiger Flag Knit Scarf Bufanda Pink Tf6 Talla...'
 sku: 'B07N6KVZBS-es'
 tags: [  ]

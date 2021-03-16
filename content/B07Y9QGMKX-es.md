@@ -5,7 +5,7 @@ date: 2020-01-12 12:33:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XUtOuoUfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9QGMKX-es DAYNEW 5 Pares de Calcetines Antideslizantes para bebé...'
 sku: 'B07Y9QGMKX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-23 15:52:37
 image: 'https://m.media-amazon.com/images/I/31V7QNxyRnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9TBFQJ-es CARPISA ® Almohada de Viaje - Go'
 sku: 'B07V9TBFQJ-es'
 tags: [  ]

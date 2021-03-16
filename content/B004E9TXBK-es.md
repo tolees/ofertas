@@ -5,7 +5,7 @@ date: 2020-09-27 15:43:15
 image: 'https://m.media-amazon.com/images/I/41zGfk-0ZvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004E9TXBK-es GANT Solid Pique SS Rugger Polo para Hombre Negro Black 48...'
 sku: 'B004E9TXBK-es'
 tags: [  ]

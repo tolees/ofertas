@@ -5,7 +5,7 @@ date: 2020-09-06 20:54:57
 image: 'https://m.media-amazon.com/images/I/61yKBk0bKIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1YBCKZ-es Azur Lane: Crosswave'
 sku: 'B07V1YBCKZ-es'
 tags: [  ]

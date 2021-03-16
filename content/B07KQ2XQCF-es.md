@@ -5,7 +5,7 @@ date: 2020-07-03 21:11:33
 image: 'https://m.media-amazon.com/images/I/61QRiSEaTWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ2XQCF-es Paquete 40 Batería de botón de batería alcalina Celular...'
 sku: 'B07KQ2XQCF-es'
 tags: [  ]

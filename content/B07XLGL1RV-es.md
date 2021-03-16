@@ -5,7 +5,7 @@ date: 2020-01-15 15:45:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Loh-XhuTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLGL1RV-es Limpiador de Poros Succionador de Puntos Negros y...'
 sku: 'B07XLGL1RV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 00:21:16
 image: 'https://m.media-amazon.com/images/I/510oWl-LUtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6VSXDC-es Office Ink Toner 14 Piezas Reemplazo para Canon PGI-570XL...'
 sku: 'B07P6VSXDC-es'
 tags: [  ]

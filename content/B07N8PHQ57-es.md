@@ -5,7 +5,7 @@ date: 2020-03-13 19:10:53
 image: 'https://m.media-amazon.com/images/I/317XsDzGtLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8PHQ57-es Lacoste Riberac 119 Jr Zapatillas Unisex Niños Blanco...'
 sku: 'B07N8PHQ57-es'
 tags: [  ]

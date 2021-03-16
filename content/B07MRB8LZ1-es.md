@@ -5,7 +5,7 @@ date: 2020-01-08 17:36:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kgu6iKLPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MRB8LZ1-es Nike Phantom Venom Academy FG Zapatillas de Fútbol Unisex...'
 sku: 'B07MRB8LZ1-es'
 tags: [  ]

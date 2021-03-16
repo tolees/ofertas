@@ -5,7 +5,7 @@ date: 2020-09-22 15:21:57
 image: 'https://m.media-amazon.com/images/I/31uyCfv0-ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZNH44H-es Skechers Skech-Air Dynamight-Fast Brak Zapatillas para...'
 sku: 'B07TZNH44H-es'
 tags: [  ]

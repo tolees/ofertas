@@ -5,7 +5,7 @@ date: 2020-07-13 03:21:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ND-eoX30L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJH2XJ5-es Camisetas Tirantes para Mujer Deporte Fitness Verano...'
 sku: 'B07VJH2XJ5-es'
 tags: [  ]

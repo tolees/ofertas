@@ -5,7 +5,7 @@ date: 2020-08-16 14:40:11
 image: 'https://m.media-amazon.com/images/I/31oXhxB07IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BR7T7H-es New Balance 500 Core Zapatillas para Hombre Negro Black...'
 sku: 'B078BR7T7H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-26 08:56:01
 image: 'https://m.media-amazon.com/images/I/41oxGaLYtFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBMJCCY-es Tommy Hilfiger Medium Drawstring Bañador de natación Rosa...'
 sku: 'B07LBMJCCY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 04:34:43
 image: 'https://m.media-amazon.com/images/I/418ELjE7XXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9NNPY7-es Hackett London Parachute Belt Cinturón Azul 513sky 513 115...'
 sku: 'B07V9NNPY7-es'
 tags: [  ]

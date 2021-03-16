@@ -5,7 +5,7 @@ date: 2020-09-11 16:32:19
 image: 'https://m.media-amazon.com/images/I/41K9V9Xj8FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7DCKPA-es Barbecook 2235925000 Barbacoa PORTATIL Carlo Amarillo 43 5...'
 sku: 'B01N7DCKPA-es'
 tags: [  ]

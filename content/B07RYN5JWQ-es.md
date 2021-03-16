@@ -5,7 +5,7 @@ date: 2020-06-01 12:58:39
 image: 'https://m.media-amazon.com/images/I/41CtzHxFtpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYN5JWQ-es New Balance 411 Zapatillas de Running para Hombre Azul...'
 sku: 'B07RYN5JWQ-es'
 tags: [  ]

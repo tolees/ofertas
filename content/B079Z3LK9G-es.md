@@ -5,7 +5,7 @@ date: 2020-08-16 21:37:11
 image: 'https://m.media-amazon.com/images/I/51pLiJdGdgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Z3LK9G-es Logitech MX900 - Teclado Estándar Inalámbrico Bluetooth...'
 sku: 'B079Z3LK9G-es'
 tags: [  ]

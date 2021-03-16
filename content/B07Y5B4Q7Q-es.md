@@ -5,7 +5,7 @@ date: 2020-07-25 17:48:05
 image: 'https://m.media-amazon.com/images/I/51pNE9zdwDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5B4Q7Q-es GRIDINLUX. Batería de Cocina 22 Piezas. Incluye Accesorios...'
 sku: 'B07Y5B4Q7Q-es'
 tags: [  ]

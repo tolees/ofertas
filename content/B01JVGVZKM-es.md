@@ -5,7 +5,7 @@ date: 2020-07-26 12:45:48
 image: 'https://m.media-amazon.com/images/I/41kkQ0JY16L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JVGVZKM-es Juego de pinceles con estuche de viaje: 5 cepillos de...'
 sku: 'B01JVGVZKM-es'
 tags: [  ]

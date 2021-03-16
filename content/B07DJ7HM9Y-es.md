@@ -5,7 +5,7 @@ date: 2020-05-06 23:11:59
 image: 'https://m.media-amazon.com/images/I/412F-g1mZrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ7HM9Y-es New Balance 574S v2 Zapatillas para Mujer Negro...'
 sku: 'B07DJ7HM9Y-es'
 tags: [  ]

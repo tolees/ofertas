@@ -5,7 +5,7 @@ date: 2020-02-05 18:19:24
 image: 'https://m.media-amazon.com/images/I/41LbEEgFmBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R74T5XC-es JACK & JONES Jfwduston PU Combo Anthracite Botas Chukka...'
 sku: 'B07R74T5XC-es'
 tags: [  ]

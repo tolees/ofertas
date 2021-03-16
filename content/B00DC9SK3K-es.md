@@ -5,7 +5,7 @@ date: 2020-03-30 10:35:38
 image: 'https://m.media-amazon.com/images/I/51BTQE3qDZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DC9SK3K-es Metal Gear Solid V : The Phantom Pain'
 sku: 'B00DC9SK3K-es'
 tags: [  ]

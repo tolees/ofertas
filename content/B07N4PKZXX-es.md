@@ -5,7 +5,7 @@ date: 2020-08-23 17:28:55
 image: 'https://m.media-amazon.com/images/I/31gM9G71RuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4PKZXX-es Superga Classic Zapatillas Unisex Adulto Azul Azure Erica...'
 sku: 'B07N4PKZXX-es'
 tags: [  ]

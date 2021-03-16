@@ -5,7 +5,7 @@ date: 2020-01-22 11:03:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51eDDzMCDNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074JLHQR7-es Bulova Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B074JLHQR7-es'
 tags: [  ]

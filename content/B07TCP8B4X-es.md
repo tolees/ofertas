@@ -5,7 +5,7 @@ date: 2020-01-08 10:09:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GTFJmdGAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCP8B4X-es Finocam - Recambio Anual 2020 semana vista vertical Open...'
 sku: 'B07TCP8B4X-es'
 tags: [  ]

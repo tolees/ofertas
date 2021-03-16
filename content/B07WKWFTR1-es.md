@@ -5,7 +5,7 @@ date: 2020-10-10 13:15:12
 image: 'https://m.media-amazon.com/images/I/61comAHvHSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKWFTR1-es lenbest Alfombra de Agua Doodle Agua Dibujo Pintura...'
 sku: 'B07WKWFTR1-es'
 tags: [  ]

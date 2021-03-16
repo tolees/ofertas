@@ -5,7 +5,7 @@ date: 2020-04-06 16:08:55
 image: 'https://m.media-amazon.com/images/I/41guasdErCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJHZCNM-es Tamaris 1-1-25242-23 Botas Militar para Mujer Amarillo...'
 sku: 'B07NJHZCNM-es'
 tags: [  ]

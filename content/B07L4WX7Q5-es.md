@@ -5,7 +5,7 @@ date: 2020-03-03 15:32:50
 image: 'https://m.media-amazon.com/images/I/41L6p2pBHLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4WX7Q5-es Kickers Kick 18 Zapatillas para Hombre Marrón Marron 9 46 EU'
 sku: 'B07L4WX7Q5-es'
 tags: [  ]

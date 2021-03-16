@@ -5,7 +5,7 @@ date: 2020-05-23 09:46:50
 image: 'https://m.media-amazon.com/images/I/31mErcT8mkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KCCRLY-es LAYJOY Funda Xiaomi Redmi 8A Ligera Carcasa Silicona Suave...'
 sku: 'B082KCCRLY-es'
 tags: [  ]

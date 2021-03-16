@@ -5,7 +5,7 @@ date: 2020-09-30 11:00:55
 image: 'https://m.media-amazon.com/images/I/311Cez7HOPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OPW5WQG-es San Ignacio Profesional Chef - Sartén 24 x 5 cm'
 sku: 'B00OPW5WQG-es'
 tags: [  ]

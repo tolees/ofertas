@@ -5,7 +5,7 @@ date: 2020-08-17 06:12:51
 image: 'https://m.media-amazon.com/images/I/41EXG68fsEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDMMM5R-es Equipo fotográfico portátil de Photo Booster de Mini...'
 sku: 'B07MDMMM5R-es'
 tags: [  ]

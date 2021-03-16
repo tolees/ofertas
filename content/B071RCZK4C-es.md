@@ -5,7 +5,7 @@ date: 2020-05-05 19:20:53
 image: 'https://m.media-amazon.com/images/I/41U8hwjTNfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RCZK4C-es Reloj - Lancardo - para - LCD17P042'
 sku: 'B071RCZK4C-es'
 tags: [  ]

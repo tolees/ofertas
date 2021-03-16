@@ -5,7 +5,7 @@ date: 2020-04-12 08:26:19
 image: 'https://m.media-amazon.com/images/I/41WTh6Ym8wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH9XCXL-es KUNGYO Portarrollos de Cocina Dispensador de Película...'
 sku: 'B07QH9XCXL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-30 14:32:10
 image: 'https://m.media-amazon.com/images/I/41OODaCPwxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017VXNQMW-es KOTION Cada G2000 estéreo de 3 5 mm Over-Oreja Gaming...'
 sku: 'B017VXNQMW-es'
 tags: [  ]

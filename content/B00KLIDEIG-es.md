@@ -5,7 +5,7 @@ date: 2020-09-11 00:41:49
 image: 'https://m.media-amazon.com/images/I/41sHwpZq3oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KLIDEIG-es Calvin Klein 0000F3785E Sujetador Deportivo para Mujer...'
 sku: 'B00KLIDEIG-es'
 tags: [  ]

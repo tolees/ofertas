@@ -5,7 +5,7 @@ date: 2020-10-05 23:32:07
 image: 'https://m.media-amazon.com/images/I/51npPqDMGIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PP8PN8S-es The Blues'
 sku: 'B07PP8PN8S-es'
 tags: [  ]

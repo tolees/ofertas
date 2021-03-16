@@ -5,7 +5,7 @@ date: 2020-04-23 19:02:32
 image: 'https://m.media-amazon.com/images/I/411wREuIAbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002IX5DRC-es NP-60 - Batería de Ion de Litio para Fuji 1200 mAh 3 7 V'
 sku: 'B002IX5DRC-es'
 tags: [  ]

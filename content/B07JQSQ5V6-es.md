@@ -5,7 +5,7 @@ date: 2020-01-28 11:51:43
 image: 'https://m.media-amazon.com/images/I/31sA3Eg0geL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQSQ5V6-es AUKEY Auriculares inalámbricos Auriculares Bluetooth 5 de...'
 sku: 'B07JQSQ5V6-es'
 tags: [  ]

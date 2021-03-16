@@ -5,7 +5,7 @@ date: 2020-07-21 19:19:32
 image: 'https://m.media-amazon.com/images/I/51o2tM-aJZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGK3PYM-es Oral-B Junior - Cepillo Eléctrico Recargable para Niños a...'
 sku: 'B07DGK3PYM-es'
 tags: [  ]

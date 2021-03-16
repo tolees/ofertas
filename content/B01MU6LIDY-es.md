@@ -5,7 +5,7 @@ date: 2020-09-20 14:13:53
 image: 'https://m.media-amazon.com/images/I/41DHNMLm2VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU6LIDY-es FoodSaver Fresh Appliance Envasadora al vacío 25 W Acero...'
 sku: 'B01MU6LIDY-es'
 tags: [  ]

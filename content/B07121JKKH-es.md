@@ -5,7 +5,7 @@ date: 2020-04-20 14:41:24
 image: 'https://m.media-amazon.com/images/I/41YrF+zIk+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07121JKKH-es XTI 46172 TENIS PLATAFORMA XTI MUJER NEGRO 40'
 sku: 'B07121JKKH-es'
 tags: [  ]

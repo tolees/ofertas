@@ -5,7 +5,7 @@ date: 2020-06-21 15:08:49
 image: 'https://m.media-amazon.com/images/I/41UblSz5FAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ1LF44-es Kipling Creativity S Cartera para Mujer Verde Light Aloe...'
 sku: 'B07TZ1LF44-es'
 tags: [  ]

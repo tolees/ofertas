@@ -5,7 +5,7 @@ date: 2020-03-12 20:45:33
 image: 'https://m.media-amazon.com/images/I/51KoOdoovFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1H8LDS-es Asics T722N 2301 Zapatillas de Deporte Unisex Adulto...'
 sku: 'B01N1H8LDS-es'
 tags: [  ]

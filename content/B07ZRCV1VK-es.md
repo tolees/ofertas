@@ -5,7 +5,7 @@ date: 2020-07-31 18:01:29
 image: 'https://m.media-amazon.com/images/I/41KOlYKNLFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRCV1VK-es perfk QT192 Tapa De La Cubierta Del Cilindro Maestro Del...'
 sku: 'B07ZRCV1VK-es'
 tags: [  ]

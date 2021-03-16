@@ -5,7 +5,7 @@ date: 2020-06-14 18:31:44
 image: 'https://m.media-amazon.com/images/I/41EMntFcGkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IITQ8IS-es Nilfisk - 107407940 - 4 bolsas de aspiradora + prefiltro'
 sku: 'B00IITQ8IS-es'
 tags: [  ]

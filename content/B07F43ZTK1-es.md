@@ -5,7 +5,7 @@ date: 2020-08-29 16:09:01
 image: 'https://m.media-amazon.com/images/I/31xZembDn1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F43ZTK1-es Planificador de estudio Mr. Wonderful para que no se te...'
 sku: 'B07F43ZTK1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 09:30:15
 image: 'https://m.media-amazon.com/images/I/41m09RmywsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LN5UBGI-es TOUCHBeauty TB-1333 LED Set de Manicura y Pedicura...'
 sku: 'B01LN5UBGI-es'
 tags: [  ]

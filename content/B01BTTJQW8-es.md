@@ -5,7 +5,7 @@ date: 2020-07-06 08:47:08
 image: 'https://m.media-amazon.com/images/I/51woPLySAxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BTTJQW8-es Hugo BOSS Reloj para hombre 1513361'
 sku: 'B01BTTJQW8-es'
 tags: [  ]

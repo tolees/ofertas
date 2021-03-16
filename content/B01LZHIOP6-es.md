@@ -5,7 +5,7 @@ date: 2020-07-02 17:15:45
 image: 'https://m.media-amazon.com/images/I/417y1Cy7V4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZHIOP6-es Wella Eimi Sculpt Force - 28 ml'
 sku: 'B01LZHIOP6-es'
 tags: [  ]

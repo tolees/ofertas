@@ -5,7 +5,7 @@ date: 2020-04-22 20:23:26
 image: 'https://m.media-amazon.com/images/I/51dCgWmQRGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CFQJJT1-es Pulsera Inteligente IP68 CHEREEKI Fitness Tracker Pantalla...'
 sku: 'B07CFQJJT1-es'
 tags: [  ]

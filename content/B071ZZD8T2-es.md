@@ -5,7 +5,7 @@ date: 2020-09-30 05:58:54
 image: 'https://m.media-amazon.com/images/I/41SeLb3SNzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZZD8T2-es HyperX Predator - Memoria RAM de 8 GB DDR4 2400 MHz CL12...'
 sku: 'B071ZZD8T2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 10:46:15
 image: 'https://m.media-amazon.com/images/I/51zHrWwPdNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XTV1N6-es Luz de Cortina JINPX Luz Cadena con 300 LED 8 Modos 3 * 3M...'
 sku: 'B082XTV1N6-es'
 tags: [  ]

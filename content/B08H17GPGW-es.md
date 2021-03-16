@@ -5,7 +5,7 @@ date: 2020-09-12 07:55:52
 image: 'https://m.media-amazon.com/images/I/41YOg0JVuPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H17GPGW-es 50 Piezas En Una Caja Cada Pieza Envuelta Individualmente...'
 sku: 'B08H17GPGW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-03 19:56:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Do2360GqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQHJPKZ-es AngLink Encendedor Electrico USB Encendedor Recargable con...'
 sku: 'B07JQHJPKZ-es'
 tags: [  ]

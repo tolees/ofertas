@@ -5,7 +5,7 @@ date: 2020-06-20 07:29:19
 image: 'https://m.media-amazon.com/images/I/41XHydvuCML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8ZJTKV-es Castañer CHIARITA/8/001 Alpargatas para Mujer Negro Negro...'
 sku: 'B07P8ZJTKV-es'
 tags: [  ]

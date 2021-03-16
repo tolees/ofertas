@@ -5,7 +5,7 @@ date: 2020-01-04 17:46:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ElYA3sciL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQBYFXV-es Lamina Magnetica Adhesiva Bingolar Cuadrados magnéticos...'
 sku: 'B07BQBYFXV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-26 09:45:28
 image: 'https://m.media-amazon.com/images/I/41rAY5qVR3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CDBSG9-es FMPC Carcasa con Cuerda Samsung Galaxy A51 Cristal TPU...'
 sku: 'B085CDBSG9-es'
 tags: [  ]

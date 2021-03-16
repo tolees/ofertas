@@ -5,7 +5,7 @@ date: 2020-04-13 08:17:47
 image: 'https://m.media-amazon.com/images/I/51Swoo7f3VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDTRLD8-es Toyvelt 32-Piece Wrestling Toys For Kids - WWE Wrestler...'
 sku: 'B07GDTRLD8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-06 14:40:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31f0FnCetxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078VFT6R1-es Sorel Nakiska Slide II Zapatillas de casa para Mujer Beige...'
 sku: 'B078VFT6R1-es'
 tags: [  ]

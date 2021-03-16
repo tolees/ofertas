@@ -5,7 +5,7 @@ date: 2020-05-01 15:20:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZnwoJmtFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WBSR9T-es Under Armour UA Raid TR Zapatillas de Deporte para Hombre...'
 sku: 'B071WBSR9T-es'
 tags: [  ]

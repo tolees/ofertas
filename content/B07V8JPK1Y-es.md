@@ -5,7 +5,7 @@ date: 2020-08-04 13:47:41
 image: 'https://m.media-amazon.com/images/I/41ijA3nI7AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8JPK1Y-es deAO Lanzador de Cohetes Infantil Salta y Lanza Cohetes...'
 sku: 'B07V8JPK1Y-es'
 tags: [  ]

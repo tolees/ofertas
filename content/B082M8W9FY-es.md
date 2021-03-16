@@ -5,7 +5,7 @@ date: 2020-07-12 07:56:06
 image: 'https://m.media-amazon.com/images/I/418Q-SUsDzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082M8W9FY-es Lámpara de Pie Tomshine 126 LEDs Lámpara de Pie Salon 4...'
 sku: 'B082M8W9FY-es'
 tags: [  ]

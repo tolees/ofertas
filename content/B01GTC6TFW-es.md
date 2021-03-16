@@ -5,7 +5,7 @@ date: 2020-05-21 07:16:33
 image: 'https://m.media-amazon.com/images/I/410-1wmWE5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GTC6TFW-es HP Z3700 RF Raton óptico inalámbrico 1200DPI Rojo...'
 sku: 'B01GTC6TFW-es'
 tags: [  ]

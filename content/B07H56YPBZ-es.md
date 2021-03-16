@@ -5,7 +5,7 @@ date: 2020-01-12 10:32:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Uw4WTOkWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H56YPBZ-es X-TIGER Ciclismo Maillots para Hombres con Tirantes Manga...'
 sku: 'B07H56YPBZ-es'
 tags: [  ]

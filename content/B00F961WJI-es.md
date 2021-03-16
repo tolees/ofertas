@@ -5,7 +5,7 @@ date: 2020-01-05 11:46:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mN0hu0MWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F961WJI-es deAO Vehículo Correpasillos Camión de Construcción con...'
 sku: 'B00F961WJI-es'
 tags: [  ]

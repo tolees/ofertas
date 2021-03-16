@@ -5,7 +5,7 @@ date: 2020-08-27 07:07:44
 image: 'https://m.media-amazon.com/images/I/51-o1uwzDUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQTVFSN-es Hurley M Asylum Volley 17 Bermudas Hombre Armory Navy L'
 sku: 'B07QQTVFSN-es'
 tags: [  ]

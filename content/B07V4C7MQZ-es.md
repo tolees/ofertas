@@ -5,7 +5,7 @@ date: 2020-02-11 09:13:27
 image: 'https://m.media-amazon.com/images/I/51-5bXxbW9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4C7MQZ-es HAMSWAN Espejo de Maquillaje [Regalos] Espejo de Mesa...'
 sku: 'B07V4C7MQZ-es'
 tags: [  ]

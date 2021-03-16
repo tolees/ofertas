@@ -5,7 +5,7 @@ date: 2020-09-06 12:26:59
 image: 'https://m.media-amazon.com/images/I/41lc3pCVkzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007QBIWG0-es Grohe Eurocube- Grifo de Bide de Una Planca acabado...'
 sku: 'B007QBIWG0-es'
 tags: [  ]

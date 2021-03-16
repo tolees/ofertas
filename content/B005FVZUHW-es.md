@@ -5,7 +5,7 @@ date: 2020-06-01 05:24:53
 image: 'https://m.media-amazon.com/images/I/41A56BivChL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005FVZUHW-es TRIXES 2 x Almohadas Inflables - para Viajar la Playa o...'
 sku: 'B005FVZUHW-es'
 tags: [  ]

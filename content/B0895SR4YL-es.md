@@ -5,7 +5,7 @@ date: 2020-09-24 10:45:54
 image: 'https://m.media-amazon.com/images/I/51qYzcYxSNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895SR4YL-es JCKSimpleLife Pintar por NúMeros para Adultos NiñOs...'
 sku: 'B0895SR4YL-es'
 tags: [  ]

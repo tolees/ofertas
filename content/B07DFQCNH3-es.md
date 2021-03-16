@@ -5,7 +5,7 @@ date: 2020-07-30 21:55:38
 image: 'https://m.media-amazon.com/images/I/31QFcKZUTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFQCNH3-es PUMA Ignite Woven Chándal Hombre Black L'
 sku: 'B07DFQCNH3-es'
 tags: [  ]

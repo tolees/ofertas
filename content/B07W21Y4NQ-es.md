@@ -5,7 +5,7 @@ date: 2020-04-26 18:28:09
 image: 'https://m.media-amazon.com/images/I/31xJCUpXlqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W21Y4NQ-es Jack & Jones Jormastul Sweat Hood Capucha Azul Navy Blazer...'
 sku: 'B07W21Y4NQ-es'
 tags: [  ]

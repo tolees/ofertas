@@ -5,7 +5,7 @@ date: 2020-07-22 14:26:12
 image: 'https://m.media-amazon.com/images/I/618vh6Y0+rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ4ZSZT-es BaiYou Atrapa Moscas Adhesivo Trampa Moscas Fruta 16...'
 sku: 'B07MQ4ZSZT-es'
 tags: [  ]

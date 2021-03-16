@@ -5,7 +5,7 @@ date: 2020-07-16 19:04:00
 image: 'https://m.media-amazon.com/images/I/416VWtE6JTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QF3CRJ-es iiniim S-XL Hombre Suspensorio Atlético Defensor Atractivo...'
 sku: 'B075QF3CRJ-es'
 tags: [  ]

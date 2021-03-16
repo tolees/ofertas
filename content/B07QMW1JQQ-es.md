@@ -5,7 +5,7 @@ date: 2020-01-10 08:52:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51EYWYUKp8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMW1JQQ-es Primux Ioxbook - Portatil 1402MC 14.1" N3350 4G 120GB SSD...'
 sku: 'B07QMW1JQQ-es'
 tags: [  ]

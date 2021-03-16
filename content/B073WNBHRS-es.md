@@ -5,7 +5,7 @@ date: 2020-06-11 06:10:15
 image: 'https://m.media-amazon.com/images/I/413ix7OwDhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073WNBHRS-es Sennheiser Momentum Free - Auriculares inalámbricos Negro'
 sku: 'B073WNBHRS-es'
 tags: [  ]

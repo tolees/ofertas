@@ -5,7 +5,7 @@ date: 2020-04-19 11:28:08
 image: 'https://m.media-amazon.com/images/I/31Gt7u2t-gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TQOLNXO-es Nuby ID5397AQUA - Alimentador antiahogo con redecilla...'
 sku: 'B00TQOLNXO-es'
 tags: [  ]

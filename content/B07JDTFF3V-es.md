@@ -5,7 +5,7 @@ date: 2020-02-28 11:32:45
 image: 'https://m.media-amazon.com/images/I/41J6F50xz1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JDTFF3V-es ORNARTO Funda Huawei Mate 20 Pro Carcasa [Ultra-Delgado]...'
 sku: 'B07JDTFF3V-es'
 tags: [  ]

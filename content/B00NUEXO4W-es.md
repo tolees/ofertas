@@ -5,7 +5,7 @@ date: 2020-01-22 16:12:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31tJ53LLsdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NUEXO4W-es HFTEK Soporte para 3 tres monitores de escritorio para...'
 sku: 'B00NUEXO4W-es'
 tags: [  ]

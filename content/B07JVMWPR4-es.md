@@ -5,7 +5,7 @@ date: 2020-01-19 09:20:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419RhE9FDPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVMWPR4-es Mini Cámara Espía Oculta 1080P DIY Portátil Encubierta...'
 sku: 'B07JVMWPR4-es'
 tags: [  ]

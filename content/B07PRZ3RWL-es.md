@@ -5,7 +5,7 @@ date: 2020-05-01 08:16:34
 image: 'https://m.media-amazon.com/images/I/41PL46wqpgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRZ3RWL-es New Balance 574v2 Zapatillas para Hombre Gris Grey Grey...'
 sku: 'B07PRZ3RWL-es'
 tags: [  ]

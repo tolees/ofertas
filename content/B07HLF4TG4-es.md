@@ -5,7 +5,7 @@ date: 2020-08-14 19:57:47
 image: 'https://m.media-amazon.com/images/I/316IIQUk2QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HLF4TG4-es Converse Tipoff Chuck Baseball Mpu 10008 Gorra de béisbol...'
 sku: 'B07HLF4TG4-es'
 tags: [  ]

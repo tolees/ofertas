@@ -5,7 +5,7 @@ date: 2020-03-23 16:16:45
 image: 'https://m.media-amazon.com/images/I/41pF8sjog3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHBLQF7-es Kipling - New Hiphurray L Fold Bolsos totes Mujer Amarillo...'
 sku: 'B07BHBLQF7-es'
 tags: [  ]

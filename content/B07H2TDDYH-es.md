@@ -5,7 +5,7 @@ date: 2020-02-16 05:31:54
 image: 'https://m.media-amazon.com/images/I/51plHGRde9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2TDDYH-es vidaXL Alfombra Redonda 90cm Yute Trenzado Decoración Casa...'
 sku: 'B07H2TDDYH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-24 14:20:36
 image: 'https://m.media-amazon.com/images/I/416nviFWkJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCZT3NT-es PUMA Cali Wn s Zapatillas para Mujer Negro Black White 18...'
 sku: 'B07SCZT3NT-es'
 tags: [  ]

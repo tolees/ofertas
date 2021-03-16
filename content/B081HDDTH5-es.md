@@ -5,7 +5,7 @@ date: 2020-07-27 18:02:30
 image: 'https://m.media-amazon.com/images/I/41AoL2HsfAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081HDDTH5-es XJ03 Cámaras portátiles portátiles domésticas compactas...'
 sku: 'B081HDDTH5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-24 18:32:01
 image: 'https://m.media-amazon.com/images/I/31SEII0HnLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGHHNDH-es find. Mocasines Borlas Texturizado en Piel para Hombre...'
 sku: 'B06XGHHNDH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 10:07:31
 image: 'https://m.media-amazon.com/images/I/31WRuywNU4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGZRQFQ-es Altavoz inalámbrico con Bluetooth AICase Altavoz Bluetooth...'
 sku: 'B07JGZRQFQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-05 21:15:58
 image: 'https://m.media-amazon.com/images/I/41HOZ+QKRML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLDZ1R3-es Anillo de Luz LED 8" Fotográfica de Escritorio con Soporte...'
 sku: 'B08BLDZ1R3-es'
 tags: [  ]

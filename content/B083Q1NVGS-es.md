@@ -5,7 +5,7 @@ date: 2020-04-16 00:02:22
 image: 'https://m.media-amazon.com/images/I/41Ru6u2AQ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083Q1NVGS-es B Blesiya 2Pcs Colgante Wood Bird House Retro Arts and...'
 sku: 'B083Q1NVGS-es'
 tags: [  ]

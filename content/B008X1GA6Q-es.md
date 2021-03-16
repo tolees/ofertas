@@ -5,7 +5,7 @@ date: 2020-02-24 13:41:33
 image: 'https://m.media-amazon.com/images/I/31YccbT3V0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008X1GA6Q-es Maybelline New York The Colossal Go Extreme Radical Black...'
 sku: 'B008X1GA6Q-es'
 tags: [  ]

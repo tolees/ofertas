@@ -5,7 +5,7 @@ date: 2020-06-24 14:56:14
 image: 'https://m.media-amazon.com/images/I/41y+ijiV2nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0051A5SCE-es Philips - MASTER TL-E Circular 32W/865 1CT/12'
 sku: 'B0051A5SCE-es'
 tags: [  ]

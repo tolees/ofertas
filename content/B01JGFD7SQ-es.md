@@ -5,7 +5,7 @@ date: 2020-06-06 19:27:41
 image: 'https://m.media-amazon.com/images/I/41HTm+L5hGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JGFD7SQ-es Bourjois Boite Ronde Sombra de ojos Tono 9 Lunaire - 16 gr.'
 sku: 'B01JGFD7SQ-es'
 tags: [  ]

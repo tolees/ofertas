@@ -5,7 +5,7 @@ date: 2020-08-09 14:34:36
 image: 'https://m.media-amazon.com/images/I/51jiAtgowNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM2V1SC-es Pastillas limpiadoras para dentaduras Y-Kelin 90 tabletas'
 sku: 'B07FM2V1SC-es'
 tags: [  ]

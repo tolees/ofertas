@@ -5,7 +5,7 @@ date: 2020-03-25 20:41:09
 image: 'https://m.media-amazon.com/images/I/31ixs4ZcG1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9B1DXB-es Gel separador y corrector de los dedos de los pies para...'
 sku: 'B01M9B1DXB-es'
 tags: [  ]

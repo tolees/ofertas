@@ -5,7 +5,7 @@ date: 2020-01-23 14:50:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21Z2SGvNW1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VHKUAGQ-es King Cock Pene de 22.56 cm Color Natural - 100 gr'
 sku: 'B00VHKUAGQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 19:01:14
 image: 'https://m.media-amazon.com/images/I/41QmA0IT2ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C3LVDRB-es Yuanguo Pulsera de Actividad Inteligente Reloj Deportivo...'
 sku: 'B07C3LVDRB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 08:59:45
 image: 'https://m.media-amazon.com/images/I/41nnnMq-AxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJHYPCB-es molezu Máscara de Veneno con Cara de fusión de la Lengua...'
 sku: 'B07MJHYPCB-es'
 tags: [  ]

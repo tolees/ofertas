@@ -5,7 +5,7 @@ date: 2020-07-09 23:26:57
 image: 'https://m.media-amazon.com/images/I/41nC3JH8wQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NFX1NIC-es Beurer AS 80 - Sensor de actividad Bluetooth compatible...'
 sku: 'B00NFX1NIC-es'
 tags: [  ]

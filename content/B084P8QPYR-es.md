@@ -5,7 +5,7 @@ date: 2020-05-26 09:02:43
 image: 'https://m.media-amazon.com/images/I/415v+FCDapL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084P8QPYR-es LoveOlvido Orffworld Cocodrilo Forma Castañuela de Madera...'
 sku: 'B084P8QPYR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 14:56:12
 image: 'https://m.media-amazon.com/images/I/516m9uv1MzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C460IKO-es DIM SG Foulard Sujetador Para Mujer Negro Black 95B'
 sku: 'B01C460IKO-es'
 tags: [  ]

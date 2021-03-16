@@ -5,7 +5,7 @@ date: 2020-05-30 08:13:17
 image: 'https://m.media-amazon.com/images/I/41yVo+9rM5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXN9N1C-es Huawei Mate 20 Lite - Smartphone Dual SIM de 6.3" Full HD...'
 sku: 'B07GXN9N1C-es'
 tags: [  ]

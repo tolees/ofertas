@@ -5,7 +5,7 @@ date: 2020-09-13 08:05:58
 image: 'https://m.media-amazon.com/images/I/41jPNL6-arL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CEVRCR2-es Vanguard Endeavor HD 82A - Telescopio Terrestre ED Angular...'
 sku: 'B00CEVRCR2-es'
 tags: [  ]

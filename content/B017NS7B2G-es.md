@@ -5,7 +5,7 @@ date: 2020-03-30 17:36:22
 image: 'https://m.media-amazon.com/images/I/51IOp7VedHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017NS7B2G-es Thermaltake Riing 14 LED RGB - Pack de 3 Ventiladores...'
 sku: 'B017NS7B2G-es'
 tags: [  ]

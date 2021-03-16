@@ -5,7 +5,7 @@ date: 2020-01-14 18:17:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51uwWk1Lg7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075B6PRV8-es URCERI Telémetro Láser 40m Medidor Láser de...'
 sku: 'B075B6PRV8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-30 11:04:28
 image: 'https://m.media-amazon.com/images/I/41S5+4ngtkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXJYWQ1-es Tabla De Planchar Antideslizante Con Cubierta De Hierro...'
 sku: 'B07TXJYWQ1-es'
 tags: [  ]

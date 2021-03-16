@@ -5,7 +5,7 @@ date: 2020-09-29 08:54:53
 image: 'https://m.media-amazon.com/images/I/31g2dnuSzbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT1QHSI-es Reebok Royal Glide Rplclp Zapatillas de Trail Running para...'
 sku: 'B01MT1QHSI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 12:39:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pDBFXbl7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T6KQNB-es PUMA Liga Casuals Jr Chándal Unisex niños Medium Gray...'
 sku: 'B078T6KQNB-es'
 tags: [  ]

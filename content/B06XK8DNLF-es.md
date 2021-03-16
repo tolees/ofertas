@@ -5,7 +5,7 @@ date: 2020-05-07 09:04:24
 image: 'https://m.media-amazon.com/images/I/31MXIvhl0iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XK8DNLF-es find. Alpargata Destalonada de Ante Mujer Amarillo Yellow...'
 sku: 'B06XK8DNLF-es'
 tags: [  ]

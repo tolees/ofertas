@@ -5,7 +5,7 @@ date: 2020-05-23 14:55:33
 image: 'https://m.media-amazon.com/images/I/51UxD9+ETJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001UHO8Q4-es Bosch - Desmenuzadora biotrituradora AXT 25 TC 2500 W caja...'
 sku: 'B001UHO8Q4-es'
 tags: [  ]

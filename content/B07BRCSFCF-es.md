@@ -5,7 +5,7 @@ date: 2020-03-15 20:05:42
 image: 'https://m.media-amazon.com/images/I/41NlkLTfzmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRCSFCF-es Asics Kanmei 2 Zapatillas de Running para Mujer Negro...'
 sku: 'B07BRCSFCF-es'
 tags: [  ]

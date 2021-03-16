@@ -5,7 +5,7 @@ date: 2020-06-22 22:32:59
 image: 'https://m.media-amazon.com/images/I/41DhqW2EhnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KS26BY6-es 50W Focos LED Exterior Yuanline Floodlight IP65...'
 sku: 'B07KS26BY6-es'
 tags: [  ]

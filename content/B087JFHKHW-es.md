@@ -5,7 +5,7 @@ date: 2020-09-10 08:45:35
 image: 'https://m.media-amazon.com/images/I/41FC+-jZHTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JFHKHW-es AODOOR Lámpara Antimosquitos Mosquito Killer Portátil 2 en...'
 sku: 'B087JFHKHW-es'
 tags: [  ]

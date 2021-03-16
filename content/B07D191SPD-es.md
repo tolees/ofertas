@@ -5,7 +5,7 @@ date: 2020-05-29 07:12:59
 image: 'https://m.media-amazon.com/images/I/41dIXq2RBAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D191SPD-es Garmin Smartwatch Vivoactive 3 GPS Mano Ciclismo Unisex...'
 sku: 'B07D191SPD-es'
 tags: [  ]

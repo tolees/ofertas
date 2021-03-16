@@ -5,7 +5,7 @@ date: 2020-05-30 17:42:41
 image: 'https://m.media-amazon.com/images/I/41RcB3YdhlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNHF5DV-es Plainsur Resina De Poliester Kit De 1 Kilogramo Cubo'
 sku: 'B07BNHF5DV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-16 20:03:33
 image: 'https://m.media-amazon.com/images/I/51L5gyCgSHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0752XNX6V-es Llave USB 16 GB R2D2 TLJ - Memoria Flash Drive 2.0...'
 sku: 'B0752XNX6V-es'
 tags: [  ]

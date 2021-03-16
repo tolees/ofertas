@@ -5,7 +5,7 @@ date: 2020-02-16 18:18:20
 image: 'https://m.media-amazon.com/images/I/41LV6ijDrCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BBXN5PG-es Samsonite 73349/1549 Cosmolite Spinner - Equipaje de Mano...'
 sku: 'B01BBXN5PG-es'
 tags: [  ]

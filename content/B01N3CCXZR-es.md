@@ -5,7 +5,7 @@ date: 2020-05-22 17:45:58
 image: 'https://m.media-amazon.com/images/I/41Gk0gxTKRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3CCXZR-es Tamron SP 70-200 mm F/2.8 Di VC USD G2 - Objetivo para...'
 sku: 'B01N3CCXZR-es'
 tags: [  ]

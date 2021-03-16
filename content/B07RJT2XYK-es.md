@@ -5,7 +5,7 @@ date: 2020-09-11 08:30:52
 image: 'https://m.media-amazon.com/images/I/41DoOc-pSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJT2XYK-es Salomon RX Moc 4.0 W Calzado de recuperación para Mujer...'
 sku: 'B07RJT2XYK-es'
 tags: [  ]

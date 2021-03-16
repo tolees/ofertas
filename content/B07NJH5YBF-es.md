@@ -5,7 +5,7 @@ date: 2020-05-09 11:17:00
 image: 'https://m.media-amazon.com/images/I/41OZX2+-7fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJH5YBF-es Tamaris 1-1-25561-23 Botas Altas para Mujer Rojo Vino 558...'
 sku: 'B07NJH5YBF-es'
 tags: [  ]

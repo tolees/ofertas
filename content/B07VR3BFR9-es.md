@@ -5,7 +5,7 @@ date: 2020-07-13 17:39:00
 image: 'https://m.media-amazon.com/images/I/51cmsSIZl3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VR3BFR9-es SDBAUX Multi 4 en 1 Cable de carga 1.2m cable de cargador...'
 sku: 'B07VR3BFR9-es'
 tags: [  ]

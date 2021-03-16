@@ -5,7 +5,7 @@ date: 2020-02-16 10:27:43
 image: 'https://m.media-amazon.com/images/I/41rpdqvvcoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFZSPWQ-es New Balance 220 Zapatillas Unisex Niños Rosa Pink/Pink...'
 sku: 'B07DFZSPWQ-es'
 tags: [  ]

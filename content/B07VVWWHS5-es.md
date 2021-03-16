@@ -5,7 +5,7 @@ date: 2020-03-22 17:17:50
 image: 'https://m.media-amazon.com/images/I/61b1X-L-rFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVWWHS5-es Jojoin Agua Dibujo Pintura 100x100 cm Alfombra de Agua...'
 sku: 'B07VVWWHS5-es'
 tags: [  ]

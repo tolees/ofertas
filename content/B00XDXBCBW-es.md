@@ -5,7 +5,7 @@ date: 2020-07-04 08:03:38
 image: 'https://m.media-amazon.com/images/I/31gvLFgXwOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDXBCBW-es Collistar Sensitive Skin Espuma de Afeitar - 250 ml'
 sku: 'B00XDXBCBW-es'
 tags: [  ]

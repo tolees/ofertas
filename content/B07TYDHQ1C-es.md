@@ -5,7 +5,7 @@ date: 2020-04-14 16:17:29
 image: 'https://m.media-amazon.com/images/I/41+w7tnODOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYDHQ1C-es American Tourister Disney Legends Spinner M Maleta...'
 sku: 'B07TYDHQ1C-es'
 tags: [  ]

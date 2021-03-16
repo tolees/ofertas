@@ -5,7 +5,7 @@ date: 2020-07-30 18:15:47
 image: 'https://m.media-amazon.com/images/I/41T2XDTZuDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F5ZSSWM-es Ferplast Transportín para Perros para automóvil Atlas Car...'
 sku: 'B00F5ZSSWM-es'
 tags: [  ]

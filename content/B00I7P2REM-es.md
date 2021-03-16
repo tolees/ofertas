@@ -5,7 +5,7 @@ date: 2020-04-17 00:32:57
 image: 'https://m.media-amazon.com/images/I/41GZcukH9UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I7P2REM-es Sunburst Snacks Sunburst cacahuetes tostados y salados mar...'
 sku: 'B00I7P2REM-es'
 tags: [  ]

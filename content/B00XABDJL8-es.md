@@ -5,7 +5,7 @@ date: 2020-09-18 09:39:58
 image: 'https://m.media-amazon.com/images/I/31ZeGbyAQaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XABDJL8-es Haribo - Pasta Basta Fresa - Geles dulces - 200 unidades'
 sku: 'B00XABDJL8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-22 19:10:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51kG8Ut0J5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000IGW3JC-es Varta ACCU - Pack de 4 pilas AAA recargables NiMH 1000 mAh...'
 sku: 'B000IGW3JC-es'
 tags: [  ]

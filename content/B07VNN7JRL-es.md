@@ -5,7 +5,7 @@ date: 2020-09-11 19:18:21
 image: 'https://m.media-amazon.com/images/I/31q4meMTBZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNN7JRL-es Tommy Hilfiger Essential Cycling Shorts Short Azul...'
 sku: 'B07VNN7JRL-es'
 tags: [  ]

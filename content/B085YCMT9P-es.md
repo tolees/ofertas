@@ -5,7 +5,7 @@ date: 2020-06-24 07:52:47
 image: 'https://m.media-amazon.com/images/I/51Eerd4u9YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085YCMT9P-es YAMAMAY® Bralette with bow - Charlize'
 sku: 'B085YCMT9P-es'
 tags: [  ]

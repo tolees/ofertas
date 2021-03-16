@@ -5,7 +5,7 @@ date: 2020-08-11 13:35:38
 image: 'https://m.media-amazon.com/images/I/41-juHpqNQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GMZDJG-es Monix Mineral Lote de Sartenes Aluminio Forjado con...'
 sku: 'B078GMZDJG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 08:49:09
 image: 'https://m.media-amazon.com/images/I/31YuzTD6iML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CHNV3S-es LNIEGE - Asiento de Seguridad para Coche con Ventosa...'
 sku: 'B081CHNV3S-es'
 tags: [  ]

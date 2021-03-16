@@ -5,7 +5,7 @@ date: 2020-03-09 12:58:02
 image: 'https://m.media-amazon.com/images/I/312EysmDjsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MS9P3X5-es Kickers Layton Botas Clasicas para Hombre Marrón Marron...'
 sku: 'B07MS9P3X5-es'
 tags: [  ]

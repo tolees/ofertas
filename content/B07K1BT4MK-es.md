@@ -5,7 +5,7 @@ date: 2020-05-03 11:09:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318jnQORnvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1BT4MK-es adidas Estro 19 JSY T-Shirt Niños White L'
 sku: 'B07K1BT4MK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-05 19:38:35
 image: 'https://m.media-amazon.com/images/I/415r1eJ5BNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CSMNQDG-es 2piezas desinfectante manos Sterillium 500ml desinfección'
 sku: 'B00CSMNQDG-es'
 tags: [  ]

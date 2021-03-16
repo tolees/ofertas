@@ -5,7 +5,7 @@ date: 2020-06-03 19:02:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51AUz-sX%2BHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGPKNNL-es Reloj Deportivos para Niños Niño Niña Resistente al Agua...'
 sku: 'B07CGPKNNL-es'
 tags: [  ]

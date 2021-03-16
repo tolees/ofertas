@@ -5,7 +5,7 @@ date: 2020-03-31 06:31:14
 image: 'https://m.media-amazon.com/images/I/41Czg9goFbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBQJ1D9-es AMD Ryzen Threadripper 2970WX - Procesador 24 cores/48...'
 sku: 'B07JBQJ1D9-es'
 tags: [  ]

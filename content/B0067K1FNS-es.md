@@ -5,7 +5,7 @@ date: 2020-05-27 18:25:20
 image: 'https://m.media-amazon.com/images/I/31Dde+F2KfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0067K1FNS-es Rimmel London Lasting Finish Barra De Labios Tono 128...'
 sku: 'B0067K1FNS-es'
 tags: [  ]

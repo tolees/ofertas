@@ -5,7 +5,7 @@ date: 2020-09-26 14:58:29
 image: 'https://m.media-amazon.com/images/I/419qVtOTXnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPRP7B-es Pop! Figura de Vinilo: Disney: Little Mermaid - 10" Ursula'
 sku: 'B07MZPRP7B-es'
 tags: [  ]

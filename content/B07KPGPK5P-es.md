@@ -5,7 +5,7 @@ date: 2020-04-13 08:29:44
 image: 'https://m.media-amazon.com/images/I/41uHFYlgTHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPGPK5P-es ZARRS Palos de Madera para Manualidades 100 Piezas Palitos...'
 sku: 'B07KPGPK5P-es'
 tags: [  ]

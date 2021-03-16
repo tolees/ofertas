@@ -5,7 +5,7 @@ date: 2020-02-26 10:32:16
 image: 'https://m.media-amazon.com/images/I/417pE3Eo6bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQG3QC-es Pepe Jeans Jimy suéter Grey Marl 933 Small para Hombre'
 sku: 'B07MZQG3QC-es'
 tags: [  ]

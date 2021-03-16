@@ -5,7 +5,7 @@ date: 2020-02-06 17:24:24
 image: 'https://m.media-amazon.com/images/I/513BmvAZRHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8C1S2K-es WARDBES EMS Masajeador de Pie Plegable 2019 Nuevo Control...'
 sku: 'B07Y8C1S2K-es'
 tags: [  ]

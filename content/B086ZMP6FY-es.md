@@ -5,7 +5,7 @@ date: 2020-05-07 08:02:57
 image: 'https://m.media-amazon.com/images/I/41+3hfTahjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZMP6FY-es B Blesiya 10 Pulgadas Borrando Parcialmente La Escritura A...'
 sku: 'B086ZMP6FY-es'
 tags: [  ]

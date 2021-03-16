@@ -5,7 +5,7 @@ date: 2020-06-08 11:16:37
 image: 'https://m.media-amazon.com/images/I/41sS8tzQLyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07599YSKN-es Funko Pop!- Disney Aladdin: Jafar Figura de Vinilo 24403'
 sku: 'B07599YSKN-es'
 tags: [  ]

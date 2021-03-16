@@ -5,7 +5,7 @@ date: 2020-02-01 12:52:53
 image: 'https://m.media-amazon.com/images/I/41VLxazFoNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5QZDXJ-es POP THE OFFICE DWIGHT AS ELF V'
 sku: 'B07W5QZDXJ-es'
 tags: [  ]

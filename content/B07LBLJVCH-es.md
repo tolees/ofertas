@@ -5,7 +5,7 @@ date: 2020-03-19 12:37:48
 image: 'https://m.media-amazon.com/images/I/41PLR9v8aPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBLJVCH-es Tommy Hilfiger TJM Reversible Short Bañador Azul Black...'
 sku: 'B07LBLJVCH-es'
 tags: [  ]

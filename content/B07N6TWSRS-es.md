@@ -5,7 +5,7 @@ date: 2020-03-08 19:54:46
 image: 'https://m.media-amazon.com/images/I/31rcDIJuT-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6TWSRS-es Tommy Hilfiger Premium Suede Runner Zapatillas para Hombre...'
 sku: 'B07N6TWSRS-es'
 tags: [  ]

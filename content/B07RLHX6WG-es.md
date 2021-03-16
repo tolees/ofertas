@@ -5,7 +5,7 @@ date: 2020-06-02 04:42:57
 image: 'https://m.media-amazon.com/images/I/41uKIOyblgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLHX6WG-es Guardabarros Patinete Electrico Guardabarros Scooter...'
 sku: 'B07RLHX6WG-es'
 tags: [  ]

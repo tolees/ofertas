@@ -5,7 +5,7 @@ date: 2020-06-26 16:00:08
 image: 'https://m.media-amazon.com/images/I/41Xe3e0QeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2R95TW-es adidas VL Court 2.0 CMF I Zapatillas de Deporte Unisex...'
 sku: 'B07K2R95TW-es'
 tags: [  ]

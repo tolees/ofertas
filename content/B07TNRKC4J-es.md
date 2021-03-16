@@ -5,7 +5,7 @@ date: 2020-08-09 19:10:32
 image: 'https://m.media-amazon.com/images/I/415Pr3Zu-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNRKC4J-es Superdry Zip Hood Capucha Gris Collective Dark Grey Grit...'
 sku: 'B07TNRKC4J-es'
 tags: [  ]

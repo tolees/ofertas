@@ -5,7 +5,7 @@ date: 2020-04-07 10:05:10
 image: 'https://m.media-amazon.com/images/I/31ogtDXA6LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5BUS65-es JBL E25BT – Auriculares intraurales inalámbricos con...'
 sku: 'B01M5BUS65-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-11 10:49:04
 image: 'https://m.media-amazon.com/images/I/41KSVFEWOKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082YDVRQR-es Vidal y Vidal Pendiente chapados en oro con piedras de...'
 sku: 'B082YDVRQR-es'
 tags: [  ]

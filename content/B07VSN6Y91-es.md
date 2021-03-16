@@ -5,7 +5,7 @@ date: 2020-04-04 18:45:24
 image: 'https://m.media-amazon.com/images/I/51c3R0Vaa3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSN6Y91-es Beikell Protector Pantalla Xiaomi Redmi Note 7/7 Pro [4...'
 sku: 'B07VSN6Y91-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 12:09:55
 image: 'https://m.media-amazon.com/images/I/41mngoMjOyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6D5SH6-es Supore Correa Galaxy Watch Active 40mm Correas de Silicona...'
 sku: 'B07Z6D5SH6-es'
 tags: [  ]

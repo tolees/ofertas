@@ -5,7 +5,7 @@ date: 2020-06-02 13:59:18
 image: 'https://m.media-amazon.com/images/I/41cK2wXVQ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788C8YSM-es Tommy Hilfiger Legging Mallas Azul Navy Blazer 416 Small...'
 sku: 'B0788C8YSM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-25 18:16:57
 image: 'https://m.media-amazon.com/images/I/41U1HsOFXLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YC6Q9WQ-es PAIPU Deshumidificador Compacto y portátil 900 ml...'
 sku: 'B07YC6Q9WQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 19:18:51
 image: 'https://m.media-amazon.com/images/I/41v59gEz08L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ7H84S-es Salomon RX Moc 4.0 Calzado de recuperación para Hombre...'
 sku: 'B07CZ7H84S-es'
 tags: [  ]

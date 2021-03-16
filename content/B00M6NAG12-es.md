@@ -5,7 +5,7 @@ date: 2020-04-10 17:27:20
 image: 'https://m.media-amazon.com/images/I/31OJpEJwetL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M6NAG12-es Linksys RE6500-EJ - Extensor de Red Wi-Fi AC1200 N300 +...'
 sku: 'B00M6NAG12-es'
 tags: [  ]

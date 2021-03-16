@@ -5,7 +5,7 @@ date: 2020-08-13 00:17:02
 image: 'https://m.media-amazon.com/images/I/31ZuDSSA+JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5XR3GW-es Funko- Pop Vinilo: NSYNC: Lance Bass Figura Coleccionable...'
 sku: 'B07N5XR3GW-es'
 tags: [  ]

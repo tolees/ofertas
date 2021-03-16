@@ -5,7 +5,7 @@ date: 2020-02-22 17:57:31
 image: 'https://m.media-amazon.com/images/I/41tIm3E2asL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CWG4T4P-es Melatonina 1 8 mg con 5-HTP Magnesio y Vitamina B6 180...'
 sku: 'B07CWG4T4P-es'
 tags: [  ]

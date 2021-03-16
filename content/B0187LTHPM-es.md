@@ -5,7 +5,7 @@ date: 2020-09-21 16:44:07
 image: 'https://m.media-amazon.com/images/I/41oZ0AYI45L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0187LTHPM-es Ksix BXSW01 - SmartWatch 1.44" TFT Bluetooth color negro'
 sku: 'B0187LTHPM-es'
 tags: [  ]

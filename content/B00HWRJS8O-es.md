@@ -5,7 +5,7 @@ date: 2020-03-04 01:33:48
 image: 'https://m.media-amazon.com/images/I/41sYSxE7DzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HWRJS8O-es Maurer 2160807 Extractor de 2 Brazos 6"'
 sku: 'B00HWRJS8O-es'
 tags: [  ]

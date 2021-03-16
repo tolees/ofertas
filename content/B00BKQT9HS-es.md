@@ -5,7 +5,7 @@ date: 2020-09-05 21:26:38
 image: 'https://m.media-amazon.com/images/I/41ASQqEd6-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKQT9HS-es Daniel Wellington - Reloj analógico para mujer de nailon...'
 sku: 'B00BKQT9HS-es'
 tags: [  ]

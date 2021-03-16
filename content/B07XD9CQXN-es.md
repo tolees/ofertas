@@ -5,7 +5,7 @@ date: 2020-01-01 12:50:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51bvju7xzKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD9CQXN-es Smooce Piedras Luminosas 200 Piezas Piedras Decorativas...'
 sku: 'B07XD9CQXN-es'
 tags: [  ]

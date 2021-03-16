@@ -5,7 +5,7 @@ date: 2020-05-01 10:36:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BvTP2dPWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CWNCDC-es ASUS Lyra - Sistema WiFi Mesh Individual Tri-Banda AC2200...'
 sku: 'B076CWNCDC-es'
 tags: [  ]

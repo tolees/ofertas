@@ -5,7 +5,7 @@ date: 2020-09-18 14:53:43
 image: 'https://m.media-amazon.com/images/I/41TbsaOqN1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NSPD79A-es Fellowes Metal 25 - Encuadernadora manual de espiral...'
 sku: 'B00NSPD79A-es'
 tags: [  ]

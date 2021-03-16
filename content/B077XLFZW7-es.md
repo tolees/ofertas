@@ -5,7 +5,7 @@ date: 2020-06-28 18:32:43
 image: 'https://m.media-amazon.com/images/I/41N0L3CS4CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XLFZW7-es Under Armour Rival Fleece Jogger Pantalones Hombre Gris...'
 sku: 'B077XLFZW7-es'
 tags: [  ]

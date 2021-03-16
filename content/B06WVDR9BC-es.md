@@ -5,7 +5,7 @@ date: 2020-06-11 06:16:22
 image: 'https://m.media-amazon.com/images/I/61aDpYewKrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVDR9BC-es HEY JOE - Genuine Hair Pomade MATT 100 ml | Pomada para el...'
 sku: 'B06WVDR9BC-es'
 tags: [  ]

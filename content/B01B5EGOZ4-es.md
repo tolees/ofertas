@@ -5,7 +5,7 @@ date: 2020-02-03 21:00:15
 image: 'https://m.media-amazon.com/images/I/41nIrbMN+zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B5EGOZ4-es Wilson Baseball Hat Co - Gorra Unisex Color Negro Talla OSFA'
 sku: 'B01B5EGOZ4-es'
 tags: [  ]

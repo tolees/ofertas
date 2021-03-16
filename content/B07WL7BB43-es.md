@@ -5,7 +5,7 @@ date: 2020-10-08 13:34:14
 image: 'https://m.media-amazon.com/images/I/41YpZ8oftaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WL7BB43-es Epson Workforce WF-2850 - Impresora Multifunción Color'
 sku: 'B07WL7BB43-es'
 tags: [  ]

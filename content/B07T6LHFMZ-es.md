@@ -5,7 +5,7 @@ date: 2020-06-11 22:03:34
 image: 'https://m.media-amazon.com/images/I/417mL8RjqTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T6LHFMZ-es Saucony Jazz 21 Zapatillas de Running para Hombre Azul...'
 sku: 'B07T6LHFMZ-es'
 tags: [  ]

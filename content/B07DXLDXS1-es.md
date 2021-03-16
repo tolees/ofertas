@@ -5,7 +5,7 @@ date: 2020-04-10 09:02:14
 image: 'https://m.media-amazon.com/images/I/31XkFuroL3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DXLDXS1-es Wella Invigo Brilliance Shampoo Coarse 500 ml'
 sku: 'B07DXLDXS1-es'
 tags: [  ]

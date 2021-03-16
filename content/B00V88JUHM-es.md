@@ -5,7 +5,7 @@ date: 2020-05-31 16:02:48
 image: 'https://m.media-amazon.com/images/I/31I10xA61pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V88JUHM-es PARFUMS SAPHIR Agua de Mayo - Eau de Parfum con...'
 sku: 'B00V88JUHM-es'
 tags: [  ]

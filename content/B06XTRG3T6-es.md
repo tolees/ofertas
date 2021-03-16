@@ -5,7 +5,7 @@ date: 2020-02-04 16:08:47
 image: 'https://m.media-amazon.com/images/I/31ZyXv+XPRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XTRG3T6-es Guardians O/T Galaxy 2 Llavero Gris Gris - BIO-KE109108GOG'
 sku: 'B06XTRG3T6-es'
 tags: [  ]

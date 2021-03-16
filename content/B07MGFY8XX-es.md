@@ -5,7 +5,7 @@ date: 2020-04-22 14:38:27
 image: 'https://m.media-amazon.com/images/I/41U2hiDzGfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFY8XX-es Antimosquitos Repelente Ultrasónico de Control de Plagas...'
 sku: 'B07MGFY8XX-es'
 tags: [  ]

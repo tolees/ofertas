@@ -5,7 +5,7 @@ date: 2020-05-23 10:40:28
 image: 'https://m.media-amazon.com/images/I/41Uiusvb37L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FLVXBP-es LNIEGE Clips Chupete Chupete Titular niños Superiores de...'
 sku: 'B088FLVXBP-es'
 tags: [  ]

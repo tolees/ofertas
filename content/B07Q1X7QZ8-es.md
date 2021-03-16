@@ -5,7 +5,7 @@ date: 2020-04-14 18:11:21
 image: 'https://m.media-amazon.com/images/I/41PFcHqFwwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1X7QZ8-es DYNASONIC - ITK Altavoz Bluetooth con Karaoke Radio...'
 sku: 'B07Q1X7QZ8-es'
 tags: [  ]

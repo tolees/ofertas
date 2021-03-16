@@ -5,7 +5,7 @@ date: 2020-02-12 11:59:40
 image: 'https://m.media-amazon.com/images/I/41yqNahaBBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBGDVH3-es Kappa Cammy Kids Botas Unisex Niños Grey/Pink 1622 28 EU'
 sku: 'B07LBGDVH3-es'
 tags: [  ]

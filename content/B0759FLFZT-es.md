@@ -5,7 +5,7 @@ date: 2020-04-12 23:20:58
 image: 'https://m.media-amazon.com/images/I/41iZgJznFqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0759FLFZT-es Casio Reloj de Pulsera BGS-100-7A1ER'
 sku: 'B0759FLFZT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-28 11:17:31
 image: 'https://m.media-amazon.com/images/I/41aSjsLA0LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9QR9FJ-es Lee Malone Jeans True Blue Hq 30W / 34L para Hombre'
 sku: 'B07M9QR9FJ-es'
 tags: [  ]

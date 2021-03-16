@@ -5,7 +5,7 @@ date: 2020-06-01 17:54:53
 image: 'https://m.media-amazon.com/images/I/41OOzhH5UGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PJTKC3W-es Fairy Jabón Lavavajillas - 5350 gr'
 sku: 'B00PJTKC3W-es'
 tags: [  ]

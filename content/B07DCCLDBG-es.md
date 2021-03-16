@@ -5,7 +5,7 @@ date: 2020-01-18 08:34:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31w20GSOzLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCCLDBG-es Puma RS-150 Wn s Zapatillas para Mujer Negro Black 40.5 EU'
 sku: 'B07DCCLDBG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 08:48:00
 image: 'https://m.media-amazon.com/images/I/518rkgdRgyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B3HXYW-es PIKOLIN canapé abatible Gran Capacidad de almacenaje Color...'
 sku: 'B081B3HXYW-es'
 tags: [  ]

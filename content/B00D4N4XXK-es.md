@@ -5,7 +5,7 @@ date: 2020-02-29 08:28:25
 image: 'https://m.media-amazon.com/images/I/41WcxI75L9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D4N4XXK-es Cherokee - Pantalones con cinturilla ajustable para mujer...'
 sku: 'B00D4N4XXK-es'
 tags: [  ]

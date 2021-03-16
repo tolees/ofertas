@@ -5,7 +5,7 @@ date: 2020-08-31 14:48:05
 image: 'https://m.media-amazon.com/images/I/51S0FTgE1zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZSQ1J1-es INDASEC Discreet - Compresa para Pérdidas Leves Maxi 15...'
 sku: 'B01LZSQ1J1-es'
 tags: [  ]

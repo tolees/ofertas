@@ -5,7 +5,7 @@ date: 2020-03-10 14:38:32
 image: 'https://m.media-amazon.com/images/I/41AmljZOrmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081W7CDZS-es TEENO Moviles Libres 4G 6.2 Pulgadas Telefonos 3GB...'
 sku: 'B081W7CDZS-es'
 tags: [  ]

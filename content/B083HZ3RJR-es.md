@@ -5,7 +5,7 @@ date: 2020-08-08 10:01:17
 image: 'https://m.media-amazon.com/images/I/51OeC+mP+2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HZ3RJR-es Funda Protectora para teléfono móvil de diseño Lindo Funda...'
 sku: 'B083HZ3RJR-es'
 tags: [  ]

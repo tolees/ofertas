@@ -5,7 +5,7 @@ date: 2020-02-11 16:56:37
 image: 'https://m.media-amazon.com/images/I/51bZ9JJ6ULL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B6QCDBH-es 6x Cuaderno de notas Notebook VINTAGE Tapa Kraft Papel...'
 sku: 'B07B6QCDBH-es'
 tags: [  ]

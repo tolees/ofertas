@@ -5,7 +5,7 @@ date: 2020-05-14 10:33:26
 image: 'https://m.media-amazon.com/images/I/41s5eX41rLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY3I6OP-es Veet Bandas de Cera Fria Depilatoria para Depilación...'
 sku: 'B01MY3I6OP-es'
 tags: [  ]

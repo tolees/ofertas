@@ -5,7 +5,7 @@ date: 2020-03-30 18:45:06
 image: 'https://m.media-amazon.com/images/I/41QHFCg4rEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RGCR3J-es KabelDirekt 1m Cable TV Sat 75 Ohm HDTV Conector F a...'
 sku: 'B073RGCR3J-es'
 tags: [  ]

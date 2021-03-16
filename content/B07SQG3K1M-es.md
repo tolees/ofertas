@@ -5,7 +5,7 @@ date: 2020-09-06 19:55:07
 image: 'https://m.media-amazon.com/images/I/61+q2tFWqaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQG3K1M-es Winning Moves-Juego de Mesa de una Pieza Color 036948'
 sku: 'B07SQG3K1M-es'
 tags: [  ]

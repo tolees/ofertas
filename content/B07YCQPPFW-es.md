@@ -5,7 +5,7 @@ date: 2020-05-21 12:46:17
 image: 'https://m.media-amazon.com/images/I/51oxn2af1SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCQPPFW-es LeYi Funda Xiaomi Mi A3 / Mi CC9e con HD Protector...'
 sku: 'B07YCQPPFW-es'
 tags: [  ]

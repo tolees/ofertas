@@ -5,7 +5,7 @@ date: 2020-06-09 18:38:23
 image: 'https://m.media-amazon.com/images/I/41bG5Mur8ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779CSNRT-es adidas Adi Sock 18 Calcetines Unisex Adulto Black/Power...'
 sku: 'B0779CSNRT-es'
 tags: [  ]

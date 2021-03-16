@@ -5,7 +5,7 @@ date: 2020-04-11 23:26:10
 image: 'https://m.media-amazon.com/images/I/41wMpvlF4iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XX8SQFS-es New Balance WL574EB Zapatillas Mujer Gris Grey 35 EU'
 sku: 'B06XX8SQFS-es'
 tags: [  ]

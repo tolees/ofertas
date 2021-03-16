@@ -5,7 +5,7 @@ date: 2020-08-11 20:05:19
 image: 'https://m.media-amazon.com/images/I/41FzpeLNwIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDQ848L-es American Tourister Disney Wavebreaker - Maleta Infantil...'
 sku: 'B07BDQ848L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-12 19:09:03
 image: 'https://m.media-amazon.com/images/I/31bjUYMB-iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DC7DIJ8-es Samsung EHS64AVFBE - Auriculares para Samsung Galaxy S4...'
 sku: 'B00DC7DIJ8-es'
 tags: [  ]

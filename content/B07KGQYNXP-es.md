@@ -5,7 +5,7 @@ date: 2020-03-03 05:28:08
 image: 'https://m.media-amazon.com/images/I/31Nkp4SJOAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGQYNXP-es Helly Hansen KOS - Polo Hombre Azul Navy 597 L'
 sku: 'B07KGQYNXP-es'
 tags: [  ]

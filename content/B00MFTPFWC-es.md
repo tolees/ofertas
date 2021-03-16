@@ -5,7 +5,7 @@ date: 2020-08-27 19:03:16
 image: 'https://m.media-amazon.com/images/I/31B3ELcXqWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MFTPFWC-es Jimmy Choo Man Agua de toilette con vaporizador - 50 ml'
 sku: 'B00MFTPFWC-es'
 tags: [  ]

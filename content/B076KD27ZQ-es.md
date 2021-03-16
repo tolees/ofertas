@@ -5,7 +5,7 @@ date: 2020-05-20 23:45:28
 image: 'https://m.media-amazon.com/images/I/41rlTY8CI+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076KD27ZQ-es ORICO Funda Disco Duro Externo 3.5 para Western Digital WD...'
 sku: 'B076KD27ZQ-es'
 tags: [  ]

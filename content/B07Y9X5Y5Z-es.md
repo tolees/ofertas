@@ -5,7 +5,7 @@ date: 2020-02-20 19:08:37
 image: 'https://m.media-amazon.com/images/I/51zOqJDhufL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9X5Y5Z-es Irrigador Dental Hieha Irrigador Bucal Portatil con Base...'
 sku: 'B07Y9X5Y5Z-es'
 tags: [  ]

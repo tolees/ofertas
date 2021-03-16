@@ -5,7 +5,7 @@ date: 2020-04-28 14:04:44
 image: 'https://m.media-amazon.com/images/I/31H76SkfX5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084P7LVHC-es USB portátil 3.1 Tipo-C Macho a USB 3.0 A Hembra...'
 sku: 'B084P7LVHC-es'
 tags: [  ]

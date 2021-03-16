@@ -5,7 +5,7 @@ date: 2020-09-18 14:54:27
 image: 'https://m.media-amazon.com/images/I/51KQjHQNSmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FBR06JG-es Downton Abbey - Temporadas 1-6 [Blu-ray]'
 sku: 'B01FBR06JG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-27 10:51:20
 image: 'https://m.media-amazon.com/images/I/41V-T2cOGkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4FD67V-es Myprotein Vegan Protein Pancake Mix 1000g 1 Unidad 1000 g'
 sku: 'B07Q4FD67V-es'
 tags: [  ]

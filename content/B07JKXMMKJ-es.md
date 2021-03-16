@@ -5,7 +5,7 @@ date: 2020-03-14 18:35:22
 image: 'https://m.media-amazon.com/images/I/41D2E94UDhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKXMMKJ-es XINYUNEW Funda Huawei Mate 20 Lite 360 Grados...'
 sku: 'B07JKXMMKJ-es'
 tags: [  ]

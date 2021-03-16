@@ -5,7 +5,7 @@ date: 2020-02-14 20:30:20
 image: 'https://m.media-amazon.com/images/I/51umfYrP+LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQQERZE-es Woxter Stinger Hub Red- Hub multipuerto retroiluminado 4...'
 sku: 'B01MQQERZE-es'
 tags: [  ]

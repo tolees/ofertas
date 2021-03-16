@@ -5,7 +5,7 @@ date: 2020-02-17 16:29:09
 image: 'https://m.media-amazon.com/images/I/41L7FQ-WtCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008OI0Z7I-es Atosa-10420 Disfraz Policía color negro M-L 10420'
 sku: 'B008OI0Z7I-es'
 tags: [  ]

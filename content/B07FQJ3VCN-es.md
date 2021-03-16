@@ -5,7 +5,7 @@ date: 2020-09-14 05:45:23
 image: 'https://m.media-amazon.com/images/I/41WqvTMsAKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQJ3VCN-es Rybozen Hub USB 3.0 7-Puertos SuperSpeed 5 Gbps Hub...'
 sku: 'B07FQJ3VCN-es'
 tags: [  ]

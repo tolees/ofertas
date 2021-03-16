@@ -5,7 +5,7 @@ date: 2020-05-31 14:03:21
 image: 'https://m.media-amazon.com/images/I/51rQrBqygCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLKCRP6-es Pegatinas de pared de imitación de ladrillo tridimensional...'
 sku: 'B07PLKCRP6-es'
 tags: [  ]

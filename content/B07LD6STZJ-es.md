@@ -5,7 +5,7 @@ date: 2020-03-21 09:34:42
 image: 'https://m.media-amazon.com/images/I/31sm1Uh3X9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LD6STZJ-es New Balance Q Speed Crew Running Short Bañador Hombre...'
 sku: 'B07LD6STZJ-es'
 tags: [  ]

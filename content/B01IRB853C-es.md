@@ -5,7 +5,7 @@ date: 2020-10-05 15:38:55
 image: 'https://m.media-amazon.com/images/I/31z1RdmOn+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IRB853C-es ISSA Mikro De FOREO Es El Cepilo De Dientes Infantil...'
 sku: 'B01IRB853C-es'
 tags: [  ]

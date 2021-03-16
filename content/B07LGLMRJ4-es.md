@@ -5,7 +5,7 @@ date: 2020-05-13 23:19:48
 image: 'https://m.media-amazon.com/images/I/51oi+yLksbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGLMRJ4-es Evax Fina y Segura Super/Maxi Compresas Con Alas - 11...'
 sku: 'B07LGLMRJ4-es'
 tags: [  ]

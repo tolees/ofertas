@@ -5,7 +5,7 @@ date: 2020-07-05 18:36:40
 image: 'https://m.media-amazon.com/images/I/416bAdDkNtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L3RJGRW-es Star Trek Starfleet Command Division Insignia de Réplica'
 sku: 'B00L3RJGRW-es'
 tags: [  ]

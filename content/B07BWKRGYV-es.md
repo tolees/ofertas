@@ -5,7 +5,7 @@ date: 2020-05-14 15:36:56
 image: 'https://m.media-amazon.com/images/I/513-y26XGjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BWKRGYV-es Mocasines Planos cómodos para Mujer - Los Negros Mocasines...'
 sku: 'B07BWKRGYV-es'
 tags: [  ]

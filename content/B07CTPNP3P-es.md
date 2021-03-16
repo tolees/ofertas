@@ -5,7 +5,7 @@ date: 2020-04-05 12:24:18
 image: 'https://m.media-amazon.com/images/I/31M+P-DOEmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTPNP3P-es FIND - Camouflaged Pink Perfilador de labios n.7 + Líquido...'
 sku: 'B07CTPNP3P-es'
 tags: [  ]

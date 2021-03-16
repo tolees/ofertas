@@ -5,7 +5,7 @@ date: 2020-08-16 13:46:05
 image: 'https://m.media-amazon.com/images/I/318mH6UUV-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PN82G3D-es Super Mario Cuello Redondo Carta ImpresiÓN Manga Corta...'
 sku: 'B07PN82G3D-es'
 tags: [  ]

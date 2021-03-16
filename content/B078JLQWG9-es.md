@@ -5,7 +5,7 @@ date: 2020-01-14 03:02:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DBOqMWfCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078JLQWG9-es Timex Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B078JLQWG9-es'
 tags: [  ]

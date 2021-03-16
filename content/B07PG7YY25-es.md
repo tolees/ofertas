@@ -5,7 +5,7 @@ date: 2020-02-05 22:56:03
 image: 'https://m.media-amazon.com/images/I/51mycR1l2AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PG7YY25-es Electroestimulador Muscular Abdominales Cinturón...'
 sku: 'B07PG7YY25-es'
 tags: [  ]

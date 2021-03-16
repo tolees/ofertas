@@ -5,7 +5,7 @@ date: 2020-07-30 18:02:22
 image: 'https://m.media-amazon.com/images/I/31i5B7pKG+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFQPCGM-es HOMEYU 925 Sterling Silver Sin Perforaciones Ear Cuffs...'
 sku: 'B07GFQPCGM-es'
 tags: [  ]

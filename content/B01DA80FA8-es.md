@@ -5,7 +5,7 @@ date: 2020-04-19 00:14:25
 image: 'https://m.media-amazon.com/images/I/41mSCaBfxaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DA80FA8-es HP F6T81AE 973X Cartucho de Tinta Original de alto...'
 sku: 'B01DA80FA8-es'
 tags: [  ]

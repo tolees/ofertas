@@ -5,7 +5,7 @@ date: 2020-01-18 11:57:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31UhDWhLovL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EJDBKNU-es L Oreal Paris Color Riche 230 Coral Showroom Barra de...'
 sku: 'B00EJDBKNU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 10:23:13
 image: 'https://m.media-amazon.com/images/I/41quLeFtJVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXX9QZ2-es XLTOK Cable USB Tipo C Cable USB C [ 3Pack 2M ] Carga...'
 sku: 'B07QXX9QZ2-es'
 tags: [  ]

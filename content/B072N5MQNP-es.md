@@ -5,7 +5,7 @@ date: 2020-07-05 08:52:36
 image: 'https://m.media-amazon.com/images/I/31u3WuZ4yhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072N5MQNP-es Magno - Desodorante Classic - 150ml pack de 6 Total: 900ml'
 sku: 'B072N5MQNP-es'
 tags: [  ]

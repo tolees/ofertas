@@ -5,7 +5,7 @@ date: 2020-06-27 11:39:00
 image: 'https://m.media-amazon.com/images/I/41q1txjWD9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Z8B4TJ-es Samsonite Happy Sammies Upright Maleta Infantil 45 cm 24 L...'
 sku: 'B079Z8B4TJ-es'
 tags: [  ]

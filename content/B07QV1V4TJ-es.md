@@ -5,7 +5,7 @@ date: 2020-03-22 17:35:08
 image: 'https://m.media-amazon.com/images/I/51Hh8o-7wpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QV1V4TJ-es POWER GUIDANCE Escalera de Velocidad Escalera de Agilidad...'
 sku: 'B07QV1V4TJ-es'
 tags: [  ]

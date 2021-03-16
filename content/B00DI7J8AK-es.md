@@ -5,7 +5,7 @@ date: 2020-02-23 17:02:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51VdZ%2BJv5gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DI7J8AK-es Ecozone - Nueces de jabon para lavar la ropa bolsa de 1 kg...'
 sku: 'B00DI7J8AK-es'
 tags: [  ]

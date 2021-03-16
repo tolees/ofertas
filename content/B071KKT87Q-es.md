@@ -5,7 +5,7 @@ date: 2020-06-27 03:10:44
 image: 'https://m.media-amazon.com/images/I/414A5HPbWbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KKT87Q-es YAZILIND Elegante Joyas de Estilo Floral con Encanto...'
 sku: 'B071KKT87Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-14 13:43:03
 image: 'https://m.media-amazon.com/images/I/51NXNmOjb1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BMVGXT-es Pala NOX Equation A.4'
 sku: 'B078BMVGXT-es'
 tags: [  ]

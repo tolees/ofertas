@@ -5,7 +5,7 @@ date: 2020-04-13 09:26:20
 image: 'https://m.media-amazon.com/images/I/41VhGAKP3NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CP9DN99-es HP 24f - Monitor de 24" FHD 1920 x 1080 pixeles Tiempo de...'
 sku: 'B07CP9DN99-es'
 tags: [  ]

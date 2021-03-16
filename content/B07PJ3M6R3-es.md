@@ -5,7 +5,7 @@ date: 2020-04-03 08:53:08
 image: 'https://m.media-amazon.com/images/I/41drbjPDMbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJ3M6R3-es Litthing 1/2/3 Piezas Sujetadore Deportivo Encaje Sexy...'
 sku: 'B07PJ3M6R3-es'
 tags: [  ]

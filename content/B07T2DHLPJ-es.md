@@ -5,7 +5,7 @@ date: 2020-04-10 09:26:30
 image: 'https://m.media-amazon.com/images/I/51u5noGDRXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2DHLPJ-es Charles Wilson Lote 12 Pares Calcetines Deportivos Básicos...'
 sku: 'B07T2DHLPJ-es'
 tags: [  ]

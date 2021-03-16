@@ -5,7 +5,7 @@ date: 2020-03-08 19:43:33
 image: 'https://m.media-amazon.com/images/I/51BV0nVW9OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005JD1XY0-es Epson C13T08954010 - Juego De 4 Tinta Epson Multipack...'
 sku: 'B005JD1XY0-es'
 tags: [  ]

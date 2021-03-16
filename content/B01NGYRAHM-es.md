@@ -5,7 +5,7 @@ date: 2020-02-17 16:29:36
 image: 'https://m.media-amazon.com/images/I/415JuWOHQOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NGYRAHM-es Car&Gus Disfraz de Africano para Hombre'
 sku: 'B01NGYRAHM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-14 15:18:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31e4RdqGWzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PH4WRZH-es Fila Orbit Low Zapatillas para Hombre Blanco White...'
 sku: 'B07PH4WRZH-es'
 tags: [  ]

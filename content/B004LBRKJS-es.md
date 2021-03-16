@@ -5,7 +5,7 @@ date: 2020-08-12 07:33:25
 image: 'https://m.media-amazon.com/images/I/31jAuxmtyIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004LBRKJS-es Vans Atwood Zapatillas Unisex Niños Negro Black/Black 186...'
 sku: 'B004LBRKJS-es'
 tags: [  ]

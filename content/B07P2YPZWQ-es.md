@@ -5,7 +5,7 @@ date: 2020-02-01 07:44:40
 image: 'https://m.media-amazon.com/images/I/31UdZRzSr2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2YPZWQ-es Castellanisimos Zapato Náutico Clásico Piel Marino Hombre'
 sku: 'B07P2YPZWQ-es'
 tags: [  ]

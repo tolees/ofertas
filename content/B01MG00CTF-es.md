@@ -5,7 +5,7 @@ date: 2020-05-15 14:16:09
 image: 'https://m.media-amazon.com/images/I/51joLkD13QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MG00CTF-es Speedo Sea Squad Armbands Aprender a Nadar Unisex niños...'
 sku: 'B01MG00CTF-es'
 tags: [  ]

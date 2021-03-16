@@ -5,7 +5,7 @@ date: 2020-08-20 17:48:38
 image: 'https://m.media-amazon.com/images/I/51k9nO9ANLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TR88SJ-es IDEASY Tableta de Escritura LCD de 12 Pulgadas Tableta de...'
 sku: 'B088TR88SJ-es'
 tags: [  ]

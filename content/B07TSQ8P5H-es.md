@@ -5,7 +5,7 @@ date: 2020-07-12 01:37:43
 image: 'https://m.media-amazon.com/images/I/41r9grik8IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ8P5H-es Skechers Go Walk 5 Zapatillas sin Cordones para Hombre...'
 sku: 'B07TSQ8P5H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-28 08:33:48
 image: 'https://m.media-amazon.com/images/I/41IKF2v6TcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1FVM4S-es Versace Eros Flame Edp Vapo 100 ml - 100 ml'
 sku: 'B07K1FVM4S-es'
 tags: [  ]

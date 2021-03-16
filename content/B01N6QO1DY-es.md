@@ -5,7 +5,7 @@ date: 2020-03-09 06:34:36
 image: 'https://m.media-amazon.com/images/I/41QEHMbDC4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6QO1DY-es Adidas BB1935 Botas de Senderismo Infantil Negro...'
 sku: 'B01N6QO1DY-es'
 tags: [  ]

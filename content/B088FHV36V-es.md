@@ -5,7 +5,7 @@ date: 2020-10-01 14:47:00
 image: 'https://m.media-amazon.com/images/I/41bKEr9dK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FHV36V-es LAYJOY Funda Samsung Galaxy A71 Ligera Silicona Carcasa...'
 sku: 'B088FHV36V-es'
 tags: [  ]

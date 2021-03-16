@@ -5,7 +5,7 @@ date: 2020-01-23 09:06:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31UC2PiBoOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDSBMY4-es Real Madrid CF- Estuche Color Negro SAFTA 811934635'
 sku: 'B07YDSBMY4-es'
 tags: [  ]

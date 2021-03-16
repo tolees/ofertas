@@ -5,7 +5,7 @@ date: 2020-01-27 17:53:39
 image: 'https://m.media-amazon.com/images/I/51NUSwRP3GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XY1PWSW-es PUTUO Calcetines Dedos Hombres Calcetines de Deportes de...'
 sku: 'B07XY1PWSW-es'
 tags: [  ]

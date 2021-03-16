@@ -5,7 +5,7 @@ date: 2020-04-11 13:14:31
 image: 'https://m.media-amazon.com/images/I/31Xn1cTHLFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPJ8T6G-es Samsung Galaxy A40 - Smartphone de 5.9" FHD+ sAmoled...'
 sku: 'B07PPJ8T6G-es'
 tags: [  ]

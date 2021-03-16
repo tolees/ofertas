@@ -5,7 +5,7 @@ date: 2020-04-16 11:02:26
 image: 'https://m.media-amazon.com/images/I/412PAnhkREL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXJMFQQ-es Comfysail 2Pcs Dispensador de Leche en Polvo para...'
 sku: 'B07GXJMFQQ-es'
 tags: [  ]

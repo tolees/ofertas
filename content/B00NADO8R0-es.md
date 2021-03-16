@@ -5,7 +5,7 @@ date: 2020-09-24 09:41:54
 image: 'https://m.media-amazon.com/images/I/31AV8-t7tnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NADO8R0-es Foto Transfer 75ML La Pajarita'
 sku: 'B00NADO8R0-es'
 tags: [  ]

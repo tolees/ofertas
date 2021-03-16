@@ -5,7 +5,7 @@ date: 2020-10-11 09:51:38
 image: 'https://m.media-amazon.com/images/I/317Eh0XHhgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MR9F75W-es Lee Scarlett Jeans Azul Dark Ulrich Iy 25W / 29L para Mujer'
 sku: 'B07MR9F75W-es'
 tags: [  ]

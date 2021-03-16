@@ -5,7 +5,7 @@ date: 2020-08-29 08:00:46
 image: 'https://m.media-amazon.com/images/I/416GKAF2pYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082Z6ML5V-es Wanxian Lámpara de Ventilador de Escritorio 2600mAh...'
 sku: 'B082Z6ML5V-es'
 tags: [  ]

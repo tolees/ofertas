@@ -5,7 +5,7 @@ date: 2020-02-25 04:03:28
 image: 'https://m.media-amazon.com/images/I/31NJxRLxvcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB398FW-es Funko Modern Family - Figura de Vinilo Mitch'
 sku: 'B07HB398FW-es'
 tags: [  ]

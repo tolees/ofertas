@@ -5,7 +5,7 @@ date: 2020-04-04 05:28:08
 image: 'https://m.media-amazon.com/images/I/51Lf359HDFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFTQKVH-es Auriculares verdaderamente inalámbricos Giaride V4.1...'
 sku: 'B07FFTQKVH-es'
 tags: [  ]

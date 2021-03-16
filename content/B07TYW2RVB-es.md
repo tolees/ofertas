@@ -5,7 +5,7 @@ date: 2020-04-06 15:51:29
 image: 'https://m.media-amazon.com/images/I/41MrTPZOZcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYW2RVB-es Wrangler Icons Jeans Blue 3 Years 10K 31W / 34L para Hombre'
 sku: 'B07TYW2RVB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 12:32:45
 image: 'https://m.media-amazon.com/images/I/51D5q+7jU1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0837MDTQ8-es GPS coches 7 Pulgadas Navegadores GPS para Coche Navegador...'
 sku: 'B0837MDTQ8-es'
 tags: [  ]

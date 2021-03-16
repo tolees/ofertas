@@ -5,7 +5,7 @@ date: 2020-08-22 09:15:51
 image: 'https://m.media-amazon.com/images/I/31-moI38C0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H1C0HSY-es Philips Warmglow - Bombilla LED regulable casquillo E14 8...'
 sku: 'B01H1C0HSY-es'
 tags: [  ]

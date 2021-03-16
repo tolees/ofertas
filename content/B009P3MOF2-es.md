@@ -5,7 +5,7 @@ date: 2020-02-23 11:59:59
 image: 'https://m.media-amazon.com/images/I/416dZ6BH3PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009P3MOF2-es SRAM Soporte Quick View 31.8 Carretera Computer Tachos...'
 sku: 'B009P3MOF2-es'
 tags: [  ]

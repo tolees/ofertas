@@ -5,7 +5,7 @@ date: 2020-04-06 16:26:22
 image: 'https://m.media-amazon.com/images/I/31t+cTwr8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCBT13J-es Pepe Jeans MC Queen Short para Hombre Verde Dark Olive 768...'
 sku: 'B07NCBT13J-es'
 tags: [  ]

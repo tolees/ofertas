@@ -5,7 +5,7 @@ date: 2020-02-17 10:52:05
 image: 'https://m.media-amazon.com/images/I/3139eMyzlqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0725QTHLG-es Under Armour Classic Mesh Gorra Hombre Blanco L/XL'
 sku: 'B0725QTHLG-es'
 tags: [  ]

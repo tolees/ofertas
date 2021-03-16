@@ -5,7 +5,7 @@ date: 2020-05-31 16:29:03
 image: 'https://m.media-amazon.com/images/I/417+tSreDpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DMH7GC-es Colmanda Cerveza Abrebotellas 4 Piezas Forma de Pistola...'
 sku: 'B081DMH7GC-es'
 tags: [  ]

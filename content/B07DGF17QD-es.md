@@ -5,7 +5,7 @@ date: 2020-03-18 12:43:11
 image: 'https://m.media-amazon.com/images/I/31MlZGvAMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGF17QD-es Skechers Women s Flex Appeal 3.0-Billow Trainers Black...'
 sku: 'B07DGF17QD-es'
 tags: [  ]

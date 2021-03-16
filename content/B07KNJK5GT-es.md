@@ -5,7 +5,7 @@ date: 2020-06-18 10:22:08
 image: 'https://m.media-amazon.com/images/I/51WSKW2+WbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KNJK5GT-es MILAGRITO DESENGRASANTE MULTIUSOS LOTE AHORRO'
 sku: 'B07KNJK5GT-es'
 tags: [  ]

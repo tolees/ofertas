@@ -5,7 +5,7 @@ date: 2020-05-31 16:33:55
 image: 'https://m.media-amazon.com/images/I/41UhlNdcPcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JL3X2BT-es MLOTECH Funda Huawei Mate 20 Lite Funda Case + Cristal...'
 sku: 'B07JL3X2BT-es'
 tags: [  ]

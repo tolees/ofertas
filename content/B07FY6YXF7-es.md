@@ -5,7 +5,7 @@ date: 2020-08-08 14:33:28
 image: 'https://m.media-amazon.com/images/I/31jqeA9TiKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY6YXF7-es L Oréal Paris Make-up designer Camila Cabello Pintalabios...'
 sku: 'B07FY6YXF7-es'
 tags: [  ]

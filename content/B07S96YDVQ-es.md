@@ -5,7 +5,7 @@ date: 2020-08-23 14:43:36
 image: 'https://m.media-amazon.com/images/I/31UzFs+cHLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S96YDVQ-es adidas M Mh Plain T P Pantalones de Deporte Hombre Black L'
 sku: 'B07S96YDVQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 10:32:33
 image: 'https://m.media-amazon.com/images/I/41Ckw8fd44L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2MJ3GT-es adidas Runfalcon Zapatillas de Entrenamiento para Mujer...'
 sku: 'B07K2MJ3GT-es'
 tags: [  ]

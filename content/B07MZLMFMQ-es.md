@@ -5,7 +5,7 @@ date: 2020-03-03 09:09:32
 image: 'https://m.media-amazon.com/images/I/41EmVAlxt7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZLMFMQ-es Kickers Jawa Zapatillas para Bebés Marron 9 18 EU'
 sku: 'B07MZLMFMQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 16:11:01
 image: 'https://m.media-amazon.com/images/I/51DFcpSHPaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002TMCCA8-es Rowenta Accesorio PAE Limpieza WB406120 Bolsa...'
 sku: 'B002TMCCA8-es'
 tags: [  ]

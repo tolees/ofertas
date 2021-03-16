@@ -5,7 +5,7 @@ date: 2020-04-22 10:12:41
 image: 'https://m.media-amazon.com/images/I/41E4xaLutsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BMZHYG-es HP 503A Cartucho de tóner original LaserJet para...'
 sku: 'B000BMZHYG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 18:44:06
 image: 'https://m.media-amazon.com/images/I/41Iu888oUXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9VLWBL-es Adidas Predator 19.3 FG J Botas de fútbol Unisex niño Azul...'
 sku: 'B07L9VLWBL-es'
 tags: [  ]

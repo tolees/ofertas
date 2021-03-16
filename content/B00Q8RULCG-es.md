@@ -5,7 +5,7 @@ date: 2020-07-03 21:23:53
 image: 'https://m.media-amazon.com/images/I/31LQPwPOaUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q8RULCG-es adidas Originals Stan Smith CF C Zapatillas Unisex Niños...'
 sku: 'B00Q8RULCG-es'
 tags: [  ]

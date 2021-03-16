@@ -5,7 +5,7 @@ date: 2020-04-28 06:29:08
 image: 'https://m.media-amazon.com/images/I/51G2A1fTSgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1XZYZ6-es Skip Active Clean Detergente Cápsulas para Lavadora - 28...'
 sku: 'B07K1XZYZ6-es'
 tags: [  ]

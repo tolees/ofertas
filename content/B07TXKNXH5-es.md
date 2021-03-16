@@ -5,7 +5,7 @@ date: 2020-03-12 13:40:34
 image: 'https://m.media-amazon.com/images/I/41-ENAovaUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXKNXH5-es 4 en 1 4 x 1 DiSEqc Interruptor de Banda Ancha de 4 vías...'
 sku: 'B07TXKNXH5-es'
 tags: [  ]

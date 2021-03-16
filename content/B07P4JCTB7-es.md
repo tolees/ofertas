@@ -5,7 +5,7 @@ date: 2020-01-25 11:44:51
 image: 'https://m.media-amazon.com/images/I/31BH2rHhHiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4JCTB7-es Superdry Classic Lite Micro Pique Polo Verde Army Green...'
 sku: 'B07P4JCTB7-es'
 tags: [  ]

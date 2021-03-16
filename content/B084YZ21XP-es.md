@@ -5,7 +5,7 @@ date: 2020-04-22 18:02:14
 image: 'https://m.media-amazon.com/images/I/41h8828+T6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084YZ21XP-es LoveOlvido Color Aleatorio Tortuga en la Cadena Mainspring...'
 sku: 'B084YZ21XP-es'
 tags: [  ]

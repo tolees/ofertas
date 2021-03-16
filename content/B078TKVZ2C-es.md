@@ -5,7 +5,7 @@ date: 2020-06-08 09:42:42
 image: 'https://m.media-amazon.com/images/I/31lrA3ZgSmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078TKVZ2C-es Pepe Jeans Vincent Polo Negro Black 999 Large para Hombre'
 sku: 'B078TKVZ2C-es'
 tags: [  ]

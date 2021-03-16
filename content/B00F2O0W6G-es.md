@@ -5,7 +5,7 @@ date: 2020-05-24 19:04:33
 image: 'https://m.media-amazon.com/images/I/51IRmEnRXqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F2O0W6G-es Einhell Expert Taladro atornillador sin cable TE-CD 12...'
 sku: 'B00F2O0W6G-es'
 tags: [  ]

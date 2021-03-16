@@ -5,7 +5,7 @@ date: 2020-01-05 23:54:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31SN1vdH7oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQVQVB7-es GANT FOOTWEAR New Haven Zapatillas para Mujer Bright White...'
 sku: 'B07FQVQVB7-es'
 tags: [  ]

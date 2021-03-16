@@ -5,7 +5,7 @@ date: 2020-04-12 18:21:35
 image: 'https://m.media-amazon.com/images/I/41D5GmZ2mYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3SMN73-es Wrangler High Rise Skinny Jeans Azul Used Tint 50h 26W /...'
 sku: 'B07R3SMN73-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 18:07:58
 image: 'https://m.media-amazon.com/images/I/413alKZhJFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5YNCW8-es adidas Terrex Skychaser LT GTX Zapatillas de Cross para...'
 sku: 'B07L5YNCW8-es'
 tags: [  ]

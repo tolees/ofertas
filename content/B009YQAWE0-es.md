@@ -5,7 +5,7 @@ date: 2020-02-02 05:14:35
 image: 'https://m.media-amazon.com/images/I/41g+115f+DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009YQAWE0-es Belkin F5U404CW - Hub USB 2.0 de 4 Puertos con Fuente de...'
 sku: 'B009YQAWE0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 05:15:47
 image: 'https://m.media-amazon.com/images/I/51yGj08vj+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJVGRPL-es LAST LEVEL- Keychain Llavero Pop Toy Story 4 BO Beep Color...'
 sku: 'B07PJVGRPL-es'
 tags: [  ]

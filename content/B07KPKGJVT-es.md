@@ -5,7 +5,7 @@ date: 2020-07-04 08:03:09
 image: 'https://m.media-amazon.com/images/I/41OYwlQk4+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPKGJVT-es KHOMO iPad Pro 11 Funda Dual Ultra Delgada y Ligera con...'
 sku: 'B07KPKGJVT-es'
 tags: [  ]

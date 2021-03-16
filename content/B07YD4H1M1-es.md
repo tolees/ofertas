@@ -5,7 +5,7 @@ date: 2020-02-06 17:24:30
 image: 'https://m.media-amazon.com/images/I/51NiyCGQBcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD4H1M1-es UniqueMe [6 Pack] Protector de Pantalla para Apple Watch...'
 sku: 'B07YD4H1M1-es'
 tags: [  ]

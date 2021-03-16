@@ -5,7 +5,7 @@ date: 2020-08-16 11:54:05
 image: 'https://m.media-amazon.com/images/I/516+mboghwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWY1UEQ-es Falomir Parchís Magnético Juego de Mesa Clásicos 16 x 16...'
 sku: 'B01LWY1UEQ-es'
 tags: [  ]

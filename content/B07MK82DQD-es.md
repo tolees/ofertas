@@ -5,7 +5,7 @@ date: 2020-03-07 15:47:55
 image: 'https://m.media-amazon.com/images/I/3147Xoe3uML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK82DQD-es Le Coq Sportif COURTSTAR Zapatillas para Hombre Blanco...'
 sku: 'B07MK82DQD-es'
 tags: [  ]

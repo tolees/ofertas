@@ -5,7 +5,7 @@ date: 2020-01-17 15:46:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CiMfCTftL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SWWTRG-es Nike U Nk H86 Cap Metal Swoosh Hat Unisex Adulto Negro...'
 sku: 'B077SWWTRG-es'
 tags: [  ]

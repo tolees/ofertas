@@ -5,7 +5,7 @@ date: 2020-05-17 08:44:06
 image: 'https://m.media-amazon.com/images/I/31+llPIDfnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVTC4N5-es non-brand Caja de 300 Pcs Hisopos de Algodón Moderna...'
 sku: 'B07NVTC4N5-es'
 tags: [  ]

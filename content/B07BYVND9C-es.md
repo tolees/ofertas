@@ -5,7 +5,7 @@ date: 2020-05-21 12:21:43
 image: 'https://m.media-amazon.com/images/I/514YISHKiqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BYVND9C-es Xpansy Hose Pro C2607B Manguera Extensible con la Presión...'
 sku: 'B07BYVND9C-es'
 tags: [  ]

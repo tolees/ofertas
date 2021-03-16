@@ -5,7 +5,7 @@ date: 2020-01-10 15:47:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311rZl2NlhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015B3REG8-es Trust ATMT-502 Mando a Distancia con Temporizador para el...'
 sku: 'B015B3REG8-es'
 tags: [  ]

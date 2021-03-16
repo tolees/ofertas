@@ -5,7 +5,7 @@ date: 2020-05-07 09:23:09
 image: 'https://m.media-amazon.com/images/I/51IIyRgvVAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005I4P2CY-es Mannesmann - M29057 - Juego de herramientas 57 piezas'
 sku: 'B005I4P2CY-es'
 tags: [  ]

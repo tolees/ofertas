@@ -5,7 +5,7 @@ date: 2020-01-16 08:13:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31bbamk29LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3BXYYH-es Humidificador USB para coche 230 ml difusor de coche...'
 sku: 'B07X3BXYYH-es'
 tags: [  ]

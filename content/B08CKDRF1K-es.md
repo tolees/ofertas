@@ -5,7 +5,7 @@ date: 2020-09-19 12:45:36
 image: 'https://m.media-amazon.com/images/I/31K7+DScw+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKDRF1K-es Colcolo Tarjetas De Plumas Hechas A Mano para Saludos De...'
 sku: 'B08CKDRF1K-es'
 tags: [  ]

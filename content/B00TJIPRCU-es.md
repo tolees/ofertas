@@ -5,7 +5,7 @@ date: 2020-01-29 19:39:06
 image: 'https://m.media-amazon.com/images/I/41E2cmrHkxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TJIPRCU-es Nike Revolution 4 GS Zapatillas de Running para Niños Azul...'
 sku: 'B00TJIPRCU-es'
 tags: [  ]

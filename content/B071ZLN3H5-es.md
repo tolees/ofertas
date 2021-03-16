@@ -5,7 +5,7 @@ date: 2020-03-27 13:18:38
 image: 'https://m.media-amazon.com/images/I/41eL7TUTnJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZLN3H5-es Motorola Moto E4 - Smartphone Libre de 5" HD 2.800 mAh de...'
 sku: 'B071ZLN3H5-es'
 tags: [  ]

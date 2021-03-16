@@ -5,7 +5,7 @@ date: 2020-07-12 01:07:10
 image: 'https://m.media-amazon.com/images/I/41+cuNu0XrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZ83NNY-es DMAR Escudo del Capitán América + Soporte De Madera 60cm...'
 sku: 'B07SZ83NNY-es'
 tags: [  ]

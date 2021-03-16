@@ -5,7 +5,7 @@ date: 2020-09-05 14:37:55
 image: 'https://m.media-amazon.com/images/I/414otPlBqSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076H7HVHP-es Kipling Freedom Estuches 22 cm 1 litros Negro True Black'
 sku: 'B076H7HVHP-es'
 tags: [  ]

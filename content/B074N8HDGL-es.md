@@ -5,7 +5,7 @@ date: 2020-04-22 04:06:13
 image: 'https://m.media-amazon.com/images/I/51alIVdTysL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074N8HDGL-es Apple iPhone 7 - Smartphone de 32 GB Color Rosa...'
 sku: 'B074N8HDGL-es'
 tags: [  ]

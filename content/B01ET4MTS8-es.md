@@ -5,7 +5,7 @@ date: 2020-02-18 12:33:04
 image: 'https://m.media-amazon.com/images/I/41ceB9oLOKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ET4MTS8-es Helly Hansen W Aden Long Coat Jacket Mujer Black XL'
 sku: 'B01ET4MTS8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 11:32:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BHy6obUjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000JLAWIA-es Thierry Mugler - A*MEN RUBBER R edt vapo 100 ml'
 sku: 'B000JLAWIA-es'
 tags: [  ]

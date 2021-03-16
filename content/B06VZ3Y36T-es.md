@@ -5,7 +5,7 @@ date: 2020-03-17 17:53:09
 image: 'https://m.media-amazon.com/images/I/41-Qtt3sa4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VZ3Y36T-es Joma Tokio II Pantalones Cortos Hombre Morado/Blanco L'
 sku: 'B06VZ3Y36T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 09:04:17
 image: 'https://m.media-amazon.com/images/I/41o++o3jH+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ3W1YR-es Jané Protect Silla de auto - Nurse'
 sku: 'B07QZ3W1YR-es'
 tags: [  ]

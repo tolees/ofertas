@@ -5,7 +5,7 @@ date: 2020-04-23 14:46:07
 image: 'https://m.media-amazon.com/images/I/41r1z2AIobL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Q6WVBY-es Reebok Princess Zapatillas para Mujer Negro Black 001 39 EU'
 sku: 'B077Q6WVBY-es'
 tags: [  ]

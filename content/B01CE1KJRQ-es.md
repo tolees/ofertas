@@ -5,7 +5,7 @@ date: 2020-02-01 03:57:09
 image: 'https://m.media-amazon.com/images/I/51aUxk9sNRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CE1KJRQ-es TRENDnet TV-IP315PI - Cámara de Red PoE con Domo Color Gris'
 sku: 'B01CE1KJRQ-es'
 tags: [  ]

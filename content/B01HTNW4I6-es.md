@@ -5,7 +5,7 @@ date: 2020-03-24 19:18:26
 image: 'https://m.media-amazon.com/images/I/41CRxG3REpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HTNW4I6-es adidas Cosmic W Zapatillas de Running para Mujer Morado...'
 sku: 'B01HTNW4I6-es'
 tags: [  ]

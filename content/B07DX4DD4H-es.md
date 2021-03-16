@@ -5,7 +5,7 @@ date: 2020-04-17 15:48:40
 image: 'https://m.media-amazon.com/images/I/31NjpNIB05L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DX4DD4H-es Caterpillar Prepense Botas Chukka para Hombre Negro Black...'
 sku: 'B07DX4DD4H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 12:48:32
 image: 'https://m.media-amazon.com/images/I/31+dbrd2dtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003TOKVSA-es BRA Efficient - Cacerola baja con tapa de cristal y asas...'
 sku: 'B003TOKVSA-es'
 tags: [  ]

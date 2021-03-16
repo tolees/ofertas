@@ -5,7 +5,7 @@ date: 2020-06-16 09:51:36
 image: 'https://m.media-amazon.com/images/I/41UHgEyk0XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GL7QX7H-es Fossil Reloj de Bolsillo Digital FTW6018'
 sku: 'B07GL7QX7H-es'
 tags: [  ]

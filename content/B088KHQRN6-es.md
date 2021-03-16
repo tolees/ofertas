@@ -5,7 +5,7 @@ date: 2020-06-25 07:15:50
 image: 'https://m.media-amazon.com/images/I/41Dv5EgMwiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088KHQRN6-es FAGORY Webcam HD 1080p Webcam Digital portátil con...'
 sku: 'B088KHQRN6-es'
 tags: [  ]

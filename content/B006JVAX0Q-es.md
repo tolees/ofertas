@@ -5,7 +5,7 @@ date: 2020-06-21 00:28:56
 image: 'https://m.media-amazon.com/images/I/31p3O5qfXZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006JVAX0Q-es Reebok Classic Leather Zapatillas de Running Niños Blanco...'
 sku: 'B006JVAX0Q-es'
 tags: [  ]

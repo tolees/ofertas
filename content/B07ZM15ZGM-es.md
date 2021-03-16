@@ -5,7 +5,7 @@ date: 2020-04-14 16:34:14
 image: 'https://m.media-amazon.com/images/I/41DSkb25imL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZM15ZGM-es NMDD Ornament Skulptur Handwerk Abstrakte Kunst Dekoration...'
 sku: 'B07ZM15ZGM-es'
 tags: [  ]

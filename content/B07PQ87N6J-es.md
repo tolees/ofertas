@@ -5,7 +5,7 @@ date: 2020-09-24 15:43:20
 image: 'https://m.media-amazon.com/images/I/51SJTcALrhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQ87N6J-es Kipling - Creativity S Monederos Mujer Multicolor Navy...'
 sku: 'B07PQ87N6J-es'
 tags: [  ]

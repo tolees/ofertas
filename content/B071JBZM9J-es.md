@@ -5,7 +5,7 @@ date: 2020-06-04 17:21:54
 image: 'https://m.media-amazon.com/images/I/31BHhpQdntL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JBZM9J-es Garnier Protector Tacto Seco Bruma Seca FPS 50 - 200 ml'
 sku: 'B071JBZM9J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-25 11:02:26
 image: 'https://m.media-amazon.com/images/I/41eOy2fn9gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZ7F5K8-es HOTLIKE 3x Bolsa de Pañales Reutilizable Wetbag Bolsa con...'
 sku: 'B07VZ7F5K8-es'
 tags: [  ]

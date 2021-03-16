@@ -5,7 +5,7 @@ date: 2020-10-07 19:58:43
 image: 'https://m.media-amazon.com/images/I/51Z27xiJfOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0899Q4WNY-es Tira LED Bluetooth 10M VITCOCO Luces de Tiras LED WiFi RGB...'
 sku: 'B0899Q4WNY-es'
 tags: [  ]

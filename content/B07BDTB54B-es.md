@@ -5,7 +5,7 @@ date: 2020-06-06 22:09:05
 image: 'https://m.media-amazon.com/images/I/41jHOeuIeSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDTB54B-es s.Oliver Reloj Analogico para Mujer de Cuarzo con Correa...'
 sku: 'B07BDTB54B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-06 13:30:52
 image: 'https://m.media-amazon.com/images/I/41wKxX7WDlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771CBJP2-es WORKPRO Tijera para Eléctricista con Pelacables 6 Pulgadas...'
 sku: 'B0771CBJP2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 06:12:57
 image: 'https://m.media-amazon.com/images/I/51NPTkZ-0qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DD3RJYZ-es Bochee Juego de Sushi 14 Pcs Kit para Hacer Sushi y Sushi...'
 sku: 'B08DD3RJYZ-es'
 tags: [  ]

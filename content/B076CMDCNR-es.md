@@ -5,7 +5,7 @@ date: 2020-02-20 07:47:13
 image: 'https://m.media-amazon.com/images/I/41iWaCYzpxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CMDCNR-es American Tourister Bon Air - Equipaje de mano Rojo Magma...'
 sku: 'B076CMDCNR-es'
 tags: [  ]

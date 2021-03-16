@@ -5,7 +5,7 @@ date: 2020-09-20 09:01:09
 image: 'https://m.media-amazon.com/images/I/41Vntwtt4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CW2WZ4M-es Panamar Borradores y fichas de ajedrez de Madera Natural y...'
 sku: 'B08CW2WZ4M-es'
 tags: [  ]

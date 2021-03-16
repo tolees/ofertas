@@ -5,7 +5,7 @@ date: 2020-10-01 17:31:47
 image: 'https://m.media-amazon.com/images/I/31rV+LYyU1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QKDPNM-es LAQI Oído de la Salud de eliminación de Cera del oído...'
 sku: 'B087QKDPNM-es'
 tags: [  ]

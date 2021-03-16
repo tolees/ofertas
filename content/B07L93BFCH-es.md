@@ -5,7 +5,7 @@ date: 2020-04-25 22:40:42
 image: 'https://m.media-amazon.com/images/I/414rPBbEZ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L93BFCH-es Sharplace Unidad de Disquete SSD USB Tornillos Externa...'
 sku: 'B07L93BFCH-es'
 tags: [  ]

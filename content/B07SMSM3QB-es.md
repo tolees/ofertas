@@ -5,7 +5,7 @@ date: 2020-01-10 21:27:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51z8q6u9wqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMSM3QB-es Planescape: Torment + Icewind Dale - Enhanced Edition'
 sku: 'B07SMSM3QB-es'
 tags: [  ]

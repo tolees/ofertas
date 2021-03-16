@@ -5,7 +5,7 @@ date: 2020-02-25 08:05:23
 image: 'https://m.media-amazon.com/images/I/51LcnSYkXvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYYNJGE-es Velvet - Serie completa [Blu-ray]'
 sku: 'B01MYYNJGE-es'
 tags: [  ]

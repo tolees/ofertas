@@ -5,7 +5,7 @@ date: 2020-05-07 08:42:29
 image: 'https://m.media-amazon.com/images/I/31IgcdTkbmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWY6G8P-es OTraki Cepillo Electrico Dientes para Niños Cepillo...'
 sku: 'B07KWY6G8P-es'
 tags: [  ]

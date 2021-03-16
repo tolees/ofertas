@@ -5,7 +5,7 @@ date: 2020-05-01 14:24:02
 image: 'https://m.media-amazon.com/images/I/51pQzvjuXAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXKINNO-es Pulsar Reloj de Pulsera PZ4006X1'
 sku: 'B01MXKINNO-es'
 tags: [  ]

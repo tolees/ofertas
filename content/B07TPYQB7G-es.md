@@ -5,7 +5,7 @@ date: 2020-07-23 08:42:38
 image: 'https://m.media-amazon.com/images/I/31pF3CdEIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPYQB7G-es Clarks Un Maui Strap Zapatillas para Mujer Azul Blush...'
 sku: 'B07TPYQB7G-es'
 tags: [  ]

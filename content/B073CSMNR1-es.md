@@ -5,7 +5,7 @@ date: 2020-02-18 16:28:36
 image: 'https://m.media-amazon.com/images/I/41PfUNT00GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073CSMNR1-es MEDION E2221t - Ordenador convertible de 11.6" Intel Atom...'
 sku: 'B073CSMNR1-es'
 tags: [  ]

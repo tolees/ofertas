@@ -5,7 +5,7 @@ date: 2020-08-22 07:27:27
 image: 'https://m.media-amazon.com/images/I/51NJjW7h2qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000PHO8TM-es HP C9464A - Cartucho de tinta 775 ml Negro'
 sku: 'B000PHO8TM-es'
 tags: [  ]

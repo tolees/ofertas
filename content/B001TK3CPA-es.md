@@ -5,7 +5,7 @@ date: 2020-05-31 16:09:15
 image: 'https://m.media-amazon.com/images/I/51GMNbUy0FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001TK3CPA-es Casio Reloj de Pulsera MTP-1290D-2AVEF'
 sku: 'B001TK3CPA-es'
 tags: [  ]

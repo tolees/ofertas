@@ -5,7 +5,7 @@ date: 2020-08-04 11:03:05
 image: 'https://m.media-amazon.com/images/I/51Cz5uFS7IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBJRBK-es Funko Pop! Animated Spider-Man - Keychain Miles Morales'
 sku: 'B07DFBJRBK-es'
 tags: [  ]

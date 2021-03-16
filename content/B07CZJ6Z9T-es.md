@@ -5,7 +5,7 @@ date: 2020-06-25 13:33:33
 image: 'https://m.media-amazon.com/images/I/41T-FBfkYWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZJ6Z9T-es Under Armour Men s UA Launch SW 15cm Shorts Pantalones...'
 sku: 'B07CZJ6Z9T-es'
 tags: [  ]

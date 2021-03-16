@@ -5,7 +5,7 @@ date: 2020-06-25 17:30:29
 image: 'https://m.media-amazon.com/images/I/41Kb4v3c3OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTVBXPM-es Columbia Street Elite Bolsa de Viaje Convertible Unisex...'
 sku: 'B07KTVBXPM-es'
 tags: [  ]

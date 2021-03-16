@@ -5,7 +5,7 @@ date: 2020-08-06 22:00:28
 image: 'https://m.media-amazon.com/images/I/41GyCROZiXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NMJOVGA-es Batiste Oriental Pretty & Opulent Dry Shampoo Champú - 200 ml'
 sku: 'B00NMJOVGA-es'
 tags: [  ]

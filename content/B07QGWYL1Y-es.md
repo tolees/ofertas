@@ -5,7 +5,7 @@ date: 2020-04-09 08:23:50
 image: 'https://m.media-amazon.com/images/I/31F9ph0c89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGWYL1Y-es Funko Pop Bobble Vinyle Marvel: Holiday-Groot Figura...'
 sku: 'B07QGWYL1Y-es'
 tags: [  ]

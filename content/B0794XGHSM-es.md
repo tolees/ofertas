@@ -5,7 +5,7 @@ date: 2020-09-18 10:59:30
 image: 'https://m.media-amazon.com/images/I/31IKAwtf1bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0794XGHSM-es PUMA Liga Sideline Polo T-Shirt Hombre Pepper Green White S'
 sku: 'B0794XGHSM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-18 12:02:43
 image: 'https://m.media-amazon.com/images/I/51TKwwhKw2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWC27T3-es eXtremeRate Conjunto Completo de Pegatinas Cubierta...'
 sku: 'B06XWC27T3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 13:28:29
 image: 'https://m.media-amazon.com/images/I/41d9+S1nfnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00005UPBB-es Hama - Keyboard Dust Cover Transparente 483 x 216 x 51 mm'
 sku: 'B00005UPBB-es'
 tags: [  ]

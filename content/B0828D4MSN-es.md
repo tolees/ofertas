@@ -5,7 +5,7 @@ date: 2020-01-15 17:04:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51OSRG-TXzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0828D4MSN-es Searchyou True Blue Mini Ultradrive Pack con 813 Juegos...'
 sku: 'B0828D4MSN-es'
 tags: [  ]

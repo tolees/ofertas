@@ -5,7 +5,7 @@ date: 2020-03-06 22:31:45
 image: 'https://m.media-amazon.com/images/I/41zA9PN1m5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSSH9U6-es Samsung S View Cover - Funda para Samsung Galaxy S7 Edge...'
 sku: 'B01BSSH9U6-es'
 tags: [  ]

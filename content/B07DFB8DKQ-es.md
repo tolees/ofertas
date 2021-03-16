@@ -5,7 +5,7 @@ date: 2020-03-04 06:23:18
 image: 'https://m.media-amazon.com/images/I/51TtP0uGstL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFB8DKQ-es Funko Pop Power Rangers Figura de Vinilo Zack sin Casco...'
 sku: 'B07DFB8DKQ-es'
 tags: [  ]

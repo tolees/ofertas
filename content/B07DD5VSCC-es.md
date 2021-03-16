@@ -5,7 +5,7 @@ date: 2020-10-03 10:16:16
 image: 'https://m.media-amazon.com/images/I/519YR4JoCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD5VSCC-es Borrás 18057 Ot El Juego De Mesa Multicolor color/modelo...'
 sku: 'B07DD5VSCC-es'
 tags: [  ]

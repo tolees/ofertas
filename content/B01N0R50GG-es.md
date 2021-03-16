@@ -5,7 +5,7 @@ date: 2020-03-16 10:48:07
 image: 'https://m.media-amazon.com/images/I/31FKq+MzmPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0R50GG-es L Oréal Paris Barra de labios líquida Infalible Lip Paint...'
 sku: 'B01N0R50GG-es'
 tags: [  ]

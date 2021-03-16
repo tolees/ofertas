@@ -5,7 +5,7 @@ date: 2020-07-26 12:09:37
 image: 'https://m.media-amazon.com/images/I/51jKrM3D6iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCDV3TW-es Meterk Alicates para Crimpadora y Pelacables Kit 4 en 1...'
 sku: 'B07GCDV3TW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-04 08:41:10
 image: 'https://m.media-amazon.com/images/I/31g4nu3YNOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075T9ZXK4-es 【Oferta】 Tekhome Bluetooth para Coche Receptor Bluetooth...'
 sku: 'B075T9ZXK4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 08:27:04
 image: 'https://m.media-amazon.com/images/I/41qDdiwiqpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QFXOL5G-es WD Black - Disco duro de alto rendimiento para ordenadores...'
 sku: 'B00QFXOL5G-es'
 tags: [  ]

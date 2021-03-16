@@ -5,7 +5,7 @@ date: 2020-09-06 18:59:33
 image: 'https://m.media-amazon.com/images/I/41X+ZMOaytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1CWQ50-es Daniel Wellington Reloj Analógico para Unisex de Cuarzo...'
 sku: 'B01M1CWQ50-es'
 tags: [  ]

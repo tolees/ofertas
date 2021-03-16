@@ -5,7 +5,7 @@ date: 2020-10-09 04:32:23
 image: 'https://m.media-amazon.com/images/I/41sUSgCGmNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBQCKB9-es Pop Vinilo: Games: Fortnite: Loot Llama 10"'
 sku: 'B07MBQCKB9-es'
 tags: [  ]

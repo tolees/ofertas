@@ -5,7 +5,7 @@ date: 2020-06-23 08:01:40
 image: 'https://m.media-amazon.com/images/I/31aKsCp9VFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGR39PL-es Sabrent Lector de Tarjetas USB 3.0 USB Tipo-C. El Lector...'
 sku: 'B07KGR39PL-es'
 tags: [  ]

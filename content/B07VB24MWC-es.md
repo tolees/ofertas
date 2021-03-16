@@ -5,7 +5,7 @@ date: 2020-05-13 17:46:18
 image: 'https://m.media-amazon.com/images/I/41qVtEKgK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB24MWC-es LUDOS Comfy Almohadillas de Espuma Viscoelástica para...'
 sku: 'B07VB24MWC-es'
 tags: [  ]

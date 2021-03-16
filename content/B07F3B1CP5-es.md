@@ -5,7 +5,7 @@ date: 2020-05-29 07:09:22
 image: 'https://m.media-amazon.com/images/I/41Y5N8hdCqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3B1CP5-es adidas M Pantalones Cortos de Deporte Hombre zne htr/Black'
 sku: 'B07F3B1CP5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-30 15:33:37
 image: 'https://m.media-amazon.com/images/I/418G9TH+ZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQ7YLWM-es Barra De Labios Mate Permanente De Pintalabios Impermeable...'
 sku: 'B07HQ7YLWM-es'
 tags: [  ]

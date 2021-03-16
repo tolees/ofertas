@@ -5,7 +5,7 @@ date: 2020-07-16 22:23:38
 image: 'https://m.media-amazon.com/images/I/31wcjGbgFVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMRZ1PS-es Rimmel London Lip Art gaphic barra de labios Tono 550 8 g'
 sku: 'B07RMRZ1PS-es'
 tags: [  ]

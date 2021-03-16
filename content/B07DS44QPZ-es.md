@@ -5,7 +5,7 @@ date: 2020-03-18 11:34:32
 image: 'https://m.media-amazon.com/images/I/413O4U68gnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DS44QPZ-es Maca Andina Ecológica en Polvo [ Gelatinizada ] 200g....'
 sku: 'B07DS44QPZ-es'
 tags: [  ]

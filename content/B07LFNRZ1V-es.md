@@ -5,7 +5,7 @@ date: 2020-02-12 19:41:54
 image: 'https://m.media-amazon.com/images/I/31dJuy0ITxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFNRZ1V-es Levi s Essential Polo Azul Sea Captain Blue 0005 Medium...'
 sku: 'B07LFNRZ1V-es'
 tags: [  ]

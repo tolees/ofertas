@@ -5,7 +5,7 @@ date: 2020-03-14 21:39:31
 image: 'https://m.media-amazon.com/images/I/41C9TUFMtxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZCPYP-es PUMA LQDCELL Shatter XT Shift Wn s Zapatillas Deportivas...'
 sku: 'B07KFZCPYP-es'
 tags: [  ]

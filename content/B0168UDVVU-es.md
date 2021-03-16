@@ -5,7 +5,7 @@ date: 2021-03-16 14:36:00
 image: 'https://m.media-amazon.com/images/I/51f8MlVOUfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0168UDVVU-es Warner Bros. Entertainment España S.L. - Clint Eastwood -...'
 sku: 'B0168UDVVU-es'
 tags: [ 'warner bros. entertainment españa s.l.', ]

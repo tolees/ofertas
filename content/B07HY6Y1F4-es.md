@@ -5,7 +5,7 @@ date: 2020-01-28 14:30:19
 image: 'https://m.media-amazon.com/images/I/41pJlacKVyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HY6Y1F4-es Cecotec Robot Aspirador Conga Serie 899. 800 Pa Navegación...'
 sku: 'B07HY6Y1F4-es'
 tags: [  ]

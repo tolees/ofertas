@@ -5,7 +5,7 @@ date: 2020-04-18 11:48:27
 image: 'https://m.media-amazon.com/images/I/31MeLaREJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000PDFJTO-es Amazonas AZ-3027000 - Cuerda para hamaca Resistencia 120...'
 sku: 'B000PDFJTO-es'
 tags: [  ]

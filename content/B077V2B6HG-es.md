@@ -5,7 +5,7 @@ date: 2020-02-25 05:44:16
 image: 'https://m.media-amazon.com/images/I/31DK3HHHDuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077V2B6HG-es TROTEC Convector Cristal de Diseño TCH 2011 E 2000 W...'
 sku: 'B077V2B6HG-es'
 tags: [  ]

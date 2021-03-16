@@ -5,7 +5,7 @@ date: 2020-09-28 14:23:11
 image: 'https://m.media-amazon.com/images/I/31CTdostJWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLBZNCX-es Babymoov Kozii - Calienta leches'
 sku: 'B07CLBZNCX-es'
 tags: [  ]

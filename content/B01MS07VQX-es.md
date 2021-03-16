@@ -5,7 +5,7 @@ date: 2020-07-12 17:03:28
 image: 'https://m.media-amazon.com/images/I/31pNK8Nj-3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MS07VQX-es SAMSUNG EF-CA520PPEGWW - Funda para Galaxy A5 2017 Color Rosa'
 sku: 'B01MS07VQX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-24 10:20:40
 image: 'https://m.media-amazon.com/images/I/41MTHXdahBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HQGBSV-es Vestigia® - Monorim V1 & V2 Soporte Guardabarros Frontal...'
 sku: 'B083HQGBSV-es'
 tags: [  ]

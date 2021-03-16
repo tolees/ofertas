@@ -5,7 +5,7 @@ date: 2020-09-23 04:27:49
 image: 'https://m.media-amazon.com/images/I/41BJr5zMdGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNZ7VFZ-es ERAY Luz Solar Exterior Lámpara Solar 100 Leds con Sensor...'
 sku: 'B07FNZ7VFZ-es'
 tags: [  ]

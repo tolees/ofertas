@@ -5,7 +5,7 @@ date: 2020-05-18 18:02:07
 image: 'https://m.media-amazon.com/images/I/31BOeKMMHML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XH5HWY-es MSI MAG FORGE 101M Mid-Tower - Caja de PC Gaming 3 x 120...'
 sku: 'B082XH5HWY-es'
 tags: [  ]

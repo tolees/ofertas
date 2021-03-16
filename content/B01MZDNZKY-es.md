@@ -5,7 +5,7 @@ date: 2020-05-06 18:03:58
 image: 'https://m.media-amazon.com/images/I/51L6Kq1+cyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZDNZKY-es Hummel Blade Plus Mini 9808 - Zapatillas de deporte Unisex...'
 sku: 'B01MZDNZKY-es'
 tags: [  ]

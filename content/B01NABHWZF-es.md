@@ -5,7 +5,7 @@ date: 2020-03-24 18:40:06
 image: 'https://m.media-amazon.com/images/I/41rkl+-58SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NABHWZF-es Lacoste PJ2909 Polo Negro Noir 14 años para Niños'
 sku: 'B01NABHWZF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-12 17:36:39
 image: 'https://m.media-amazon.com/images/I/51qX6hFeh8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF9X75M-es Dibea CM00341 - Alfombra para baño de Gatos PVC 40 x 60 cm...'
 sku: 'B07LF9X75M-es'
 tags: [  ]

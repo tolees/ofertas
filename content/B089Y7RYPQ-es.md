@@ -5,7 +5,7 @@ date: 2020-09-21 16:36:31
 image: 'https://m.media-amazon.com/images/I/41ShKBtFZrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089Y7RYPQ-es KKTECT Parque de Atracciones de Bolas Blandas de plástico...'
 sku: 'B089Y7RYPQ-es'
 tags: [  ]

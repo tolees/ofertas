@@ -5,7 +5,7 @@ date: 2020-06-10 00:37:35
 image: 'https://m.media-amazon.com/images/I/21fBJtJqquL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000N5RH2G-es Osram Bombilla de bajo Consumo con 2 Tubos Casquillo de 2...'
 sku: 'B000N5RH2G-es'
 tags: [  ]

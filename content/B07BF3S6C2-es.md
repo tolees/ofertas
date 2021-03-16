@@ -5,7 +5,7 @@ date: 2020-05-30 08:22:21
 image: 'https://m.media-amazon.com/images/I/51q8FgdGayL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BF3S6C2-es RockPet Soporte para Perros con Manija para la Ayuda...'
 sku: 'B07BF3S6C2-es'
 tags: [  ]

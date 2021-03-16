@@ -5,7 +5,7 @@ date: 2020-10-02 11:19:51
 image: 'https://m.media-amazon.com/images/I/51tIV98lFyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXWRSKQ-es Kipling Cindy Carteras para Mujer Rojo Metallic Rust...'
 sku: 'B07TXWRSKQ-es'
 tags: [  ]

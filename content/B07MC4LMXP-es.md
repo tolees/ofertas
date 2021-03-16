@@ -5,7 +5,7 @@ date: 2020-01-30 13:22:27
 image: 'https://m.media-amazon.com/images/I/31nsuRGoWbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC4LMXP-es Suhu Redondo Puff Baúl Taburete de Terciopelo Asiento...'
 sku: 'B07MC4LMXP-es'
 tags: [  ]

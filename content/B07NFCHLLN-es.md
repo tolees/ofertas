@@ -5,7 +5,7 @@ date: 2020-08-13 11:05:56
 image: 'https://m.media-amazon.com/images/I/51ElB41EHAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFCHLLN-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07NFCHLLN-es'
 tags: [  ]

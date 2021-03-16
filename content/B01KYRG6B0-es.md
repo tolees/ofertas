@@ -5,7 +5,7 @@ date: 2020-07-10 18:46:20
 image: 'https://m.media-amazon.com/images/I/31VX1TZV1gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KYRG6B0-es American Crew Tratamiento Revigorizante Del Cuero...'
 sku: 'B01KYRG6B0-es'
 tags: [  ]

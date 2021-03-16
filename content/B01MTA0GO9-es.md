@@ -5,7 +5,7 @@ date: 2020-01-20 20:56:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5164Q9b1JGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTA0GO9-es MSI Nightblade 3 VR7RC-008EU - Ordenador de sobremesa...'
 sku: 'B01MTA0GO9-es'
 tags: [  ]

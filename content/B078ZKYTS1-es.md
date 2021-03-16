@@ -5,7 +5,7 @@ date: 2020-06-16 16:34:05
 image: 'https://m.media-amazon.com/images/I/31CDdGBHxcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZKYTS1-es Supra Hammer Run Zapatillas Unisex Adulto Negro...'
 sku: 'B078ZKYTS1-es'
 tags: [  ]

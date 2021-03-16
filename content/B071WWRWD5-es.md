@@ -5,7 +5,7 @@ date: 2020-08-09 07:45:55
 image: 'https://m.media-amazon.com/images/I/31+HU4+6BhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WWRWD5-es Fanola Mascarilla hidratante y rejuvenecedora para la cara...'
 sku: 'B071WWRWD5-es'
 tags: [  ]

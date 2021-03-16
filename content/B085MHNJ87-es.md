@@ -5,7 +5,7 @@ date: 2020-09-12 07:22:38
 image: 'https://m.media-amazon.com/images/I/41MBWKj58VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085MHNJ87-es Funda Xiaomi Redmi Note 8T Carcasa Ultra Fina Shockproof...'
 sku: 'B085MHNJ87-es'
 tags: [  ]

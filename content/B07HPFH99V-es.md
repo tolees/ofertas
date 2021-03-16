@@ -5,7 +5,7 @@ date: 2020-03-09 11:18:06
 image: 'https://m.media-amazon.com/images/I/31r6JFCYQJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPFH99V-es Cartera Pepe Jeans Deadline vertical con cierre de clic...'
 sku: 'B07HPFH99V-es'
 tags: [  ]

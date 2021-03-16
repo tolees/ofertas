@@ -5,7 +5,7 @@ date: 2020-03-15 15:16:08
 image: 'https://m.media-amazon.com/images/I/41B92yQrgzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWCCZ6X-es Funko Pickle Rick Bottle Opener Polypropelene Multicolor...'
 sku: 'B07MWCCZ6X-es'
 tags: [  ]

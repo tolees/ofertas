@@ -5,7 +5,7 @@ date: 2020-01-17 17:52:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/519gyTmYVfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYLR7YT-es WOSTOO Calcetines de Hombre Invierno Calcetines de Lana 5...'
 sku: 'B07KYLR7YT-es'
 tags: [  ]

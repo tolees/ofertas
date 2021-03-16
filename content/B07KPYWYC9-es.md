@@ -5,7 +5,7 @@ date: 2020-07-28 18:54:11
 image: 'https://m.media-amazon.com/images/I/418ulM1dLOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPYWYC9-es Pop! Vinilo: Disney: The Lion King: Pumbaa'
 sku: 'B07KPYWYC9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-20 13:34:15
 image: 'https://m.media-amazon.com/images/I/41GzJAcugHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QG3LQ5G-es Lékué - Kit Estuche de vapor 1 2 personas + libro de...'
 sku: 'B07QG3LQ5G-es'
 tags: [  ]

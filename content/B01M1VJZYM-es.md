@@ -5,7 +5,7 @@ date: 2020-04-16 18:16:39
 image: 'https://m.media-amazon.com/images/I/51LBnsNbmiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1VJZYM-es Purina Felix Party Mix Original Snacks golosinas y chuches...'
 sku: 'B01M1VJZYM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-16 07:35:19
 image: 'https://m.media-amazon.com/images/I/41ruISWRAhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088GWXR41-es gestionado por Amazon cámara Web 1080P HD cámara Web...'
 sku: 'B088GWXR41-es'
 tags: [  ]

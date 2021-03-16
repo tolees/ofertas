@@ -5,7 +5,7 @@ date: 2020-09-08 08:58:11
 image: 'https://m.media-amazon.com/images/I/31Xhzyc9pwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000V3ME6Y-es Vichy Pureté Thermale Desmaquillante Integral 3 en 1 Piel...'
 sku: 'B000V3ME6Y-es'
 tags: [  ]

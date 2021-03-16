@@ -5,7 +5,7 @@ date: 2020-03-15 00:12:33
 image: 'https://m.media-amazon.com/images/I/515HGdaibwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005LFT3QG-es Tarjeta de memoria SDHC SanDisk Extreme Pro 32GB UHS-I 95MB/s'
 sku: 'B005LFT3QG-es'
 tags: [  ]

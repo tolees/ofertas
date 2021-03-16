@@ -5,7 +5,7 @@ date: 2020-07-23 22:33:40
 image: 'https://m.media-amazon.com/images/I/41UzdYnYdaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075F5C3TJ-es K KYUER A42-G750 Batería para ASUS ROG G750J G750JH-DB71...'
 sku: 'B075F5C3TJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 14:20:03
 image: 'https://m.media-amazon.com/images/I/41hWuE1TREL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006TD3M7U-es Garnier Niños Sensitive Advanced - Protector Solar para...'
 sku: 'B006TD3M7U-es'
 tags: [  ]

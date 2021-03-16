@@ -5,7 +5,7 @@ date: 2020-08-26 21:12:39
 image: 'https://m.media-amazon.com/images/I/518SSFcfW0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCYFKG3-es Love Actually - Edición 2017 [Blu-ray]'
 sku: 'B06XCYFKG3-es'
 tags: [  ]

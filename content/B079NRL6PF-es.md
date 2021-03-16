@@ -5,7 +5,7 @@ date: 2020-04-18 17:18:12
 image: 'https://m.media-amazon.com/images/I/41c5Dr+zvLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NRL6PF-es Bosch BGC05AAA1 GS05 Cleann n Serie | 2 Aspirador sin...'
 sku: 'B079NRL6PF-es'
 tags: [  ]

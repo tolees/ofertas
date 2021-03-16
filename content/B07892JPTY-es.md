@@ -5,7 +5,7 @@ date: 2020-01-02 09:31:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31vYsbUtspL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07892JPTY-es Helly Hansen W Daybreaker Fleece Mujer White XS'
 sku: 'B07892JPTY-es'
 tags: [  ]

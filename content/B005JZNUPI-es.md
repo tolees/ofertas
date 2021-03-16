@@ -5,7 +5,7 @@ date: 2020-03-13 06:39:33
 image: 'https://m.media-amazon.com/images/I/41CWQR4zUIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005JZNUPI-es HP CE400X 507X Cartucho de Tóner Original de alto...'
 sku: 'B005JZNUPI-es'
 tags: [  ]

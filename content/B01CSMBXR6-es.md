@@ -5,7 +5,7 @@ date: 2020-06-15 16:46:24
 image: 'https://m.media-amazon.com/images/I/41ovBElZhgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CSMBXR6-es Rowenta Perfect Steam Extreme DG8531F0 - Centro planchado...'
 sku: 'B01CSMBXR6-es'
 tags: [  ]

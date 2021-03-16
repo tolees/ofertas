@@ -5,7 +5,7 @@ date: 2020-03-16 22:35:17
 image: 'https://m.media-amazon.com/images/I/4145KHaMKrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFJTCFC-es ATHENA Basic Color Bañador Multicolor Noir Gris Noir 1920...'
 sku: 'B07HFJTCFC-es'
 tags: [  ]

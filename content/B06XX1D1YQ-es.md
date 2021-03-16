@@ -5,7 +5,7 @@ date: 2020-04-18 02:31:39
 image: 'https://m.media-amazon.com/images/I/51cjCZWBrOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XX1D1YQ-es Holland Rosso 300 gr'
 sku: 'B06XX1D1YQ-es'
 tags: [  ]

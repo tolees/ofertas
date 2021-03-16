@@ -5,7 +5,7 @@ date: 2020-05-25 22:32:24
 image: 'https://m.media-amazon.com/images/I/31Jq+J+sNDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RLRRXLO-es Joseph Joseph 10108 Pelador Recto Acero Inoxidable Verde...'
 sku: 'B00RLRRXLO-es'
 tags: [  ]

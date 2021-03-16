@@ -5,7 +5,7 @@ date: 2020-08-09 12:01:26
 image: 'https://m.media-amazon.com/images/I/41Zscpm1tuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFNGZ3T-es Columbia Vitesse Outdry Zapatillas de Deporte para Mujer...'
 sku: 'B07RFNGZ3T-es'
 tags: [  ]

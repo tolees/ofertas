@@ -5,7 +5,7 @@ date: 2020-02-01 01:01:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y7o-hYYXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKJW44Q-es Kipling - Art Mini Bolsos maletín Mujer Morado Active...'
 sku: 'B07DKJW44Q-es'
 tags: [  ]

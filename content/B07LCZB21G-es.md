@@ -5,7 +5,7 @@ date: 2020-01-12 09:31:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4106TGQqU8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCZB21G-es 26mm+28mm Grass Strimmer Trimmer Cepillo Cortador Tubo...'
 sku: 'B07LCZB21G-es'
 tags: [  ]

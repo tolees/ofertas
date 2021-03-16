@@ -5,7 +5,7 @@ date: 2020-01-18 19:45:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kg3Tau9OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V4COUHC-es Twins Sweathose mit Knieflicken - Pantalones deportivos...'
 sku: 'B00V4COUHC-es'
 tags: [  ]

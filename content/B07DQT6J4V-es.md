@@ -5,7 +5,7 @@ date: 2020-02-25 15:44:33
 image: 'https://m.media-amazon.com/images/I/51lpnTkUX8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQT6J4V-es Dodot - Pañales desechables unisex'
 sku: 'B07DQT6J4V-es'
 tags: [  ]

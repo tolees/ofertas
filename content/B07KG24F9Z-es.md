@@ -5,7 +5,7 @@ date: 2020-03-09 13:05:49
 image: 'https://m.media-amazon.com/images/I/315td26pQ8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG24F9Z-es PUMA INTERFLEX Runner Zapatillas de Running Unisex Adulto...'
 sku: 'B07KG24F9Z-es'
 tags: [  ]

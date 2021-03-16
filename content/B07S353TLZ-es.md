@@ -5,7 +5,7 @@ date: 2020-05-29 15:54:53
 image: 'https://m.media-amazon.com/images/I/41nan0H9eFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S353TLZ-es Love MoschinoJc4033pp1aMujerCarteras de mano con asaMarfil...'
 sku: 'B07S353TLZ-es'
 tags: [  ]

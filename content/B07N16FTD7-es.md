@@ -5,7 +5,7 @@ date: 2020-04-03 18:48:03
 image: 'https://m.media-amazon.com/images/I/41TkTPDfETL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N16FTD7-es Desigual Bag Gemini Colorado Bandolera para Mujer Negro...'
 sku: 'B07N16FTD7-es'
 tags: [  ]

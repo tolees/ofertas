@@ -5,7 +5,7 @@ date: 2020-08-20 10:16:34
 image: 'https://m.media-amazon.com/images/I/41BhtKQDUzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KBLSZ8Q-es Quinny Zapp Xpress - Silla de paseo color all black'
 sku: 'B01KBLSZ8Q-es'
 tags: [  ]

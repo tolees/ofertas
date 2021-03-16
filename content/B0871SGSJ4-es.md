@@ -5,7 +5,7 @@ date: 2020-04-15 08:41:48
 image: 'https://m.media-amazon.com/images/I/51SkJHmYIrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0871SGSJ4-es YPPDPP Toto Likes Videogames Square Pillow Cases Cubierta...'
 sku: 'B0871SGSJ4-es'
 tags: [  ]

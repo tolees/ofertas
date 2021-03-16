@@ -5,7 +5,7 @@ date: 2020-07-10 20:37:02
 image: 'https://m.media-amazon.com/images/I/417eBypvS1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1VVXJV-es Diesel UFSB-BRAS Sujetador Deportivo para Mujer Multicolor...'
 sku: 'B07S1VVXJV-es'
 tags: [  ]

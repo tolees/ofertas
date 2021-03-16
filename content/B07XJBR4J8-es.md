@@ -5,7 +5,7 @@ date: 2020-06-01 06:23:54
 image: 'https://m.media-amazon.com/images/I/41NtUa8SbHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJBR4J8-es Rmeet Bolsa para Cosméticos Portátil Bolsas de Maquillaje...'
 sku: 'B07XJBR4J8-es'
 tags: [  ]

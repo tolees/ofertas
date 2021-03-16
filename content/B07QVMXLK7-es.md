@@ -5,7 +5,7 @@ date: 2020-06-22 21:32:58
 image: 'https://m.media-amazon.com/images/I/41Iv3ticilL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVMXLK7-es Under Armour UA Heatgear Crew Calcetines Unisex Blanco XL'
 sku: 'B07QVMXLK7-es'
 tags: [  ]

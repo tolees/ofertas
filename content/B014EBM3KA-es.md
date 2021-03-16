@@ -5,7 +5,7 @@ date: 2020-01-19 01:20:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xeOo5X4DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014EBM3KA-es Osprey Farpoint 40 Men s Travel Pack - Volcanic Grey M/L'
 sku: 'B014EBM3KA-es'
 tags: [  ]

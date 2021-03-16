@@ -5,7 +5,7 @@ date: 2020-05-28 06:16:16
 image: 'https://m.media-amazon.com/images/I/41r4Q3-uRrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRC23YH-es Dunlop Stage 2 Orange - Pelota de Tenis para Adulto Unisex...'
 sku: 'B07NRC23YH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 12:16:54
 image: 'https://m.media-amazon.com/images/I/51Ly-KIX3iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007OWXTCI-es Garnier Skin Active - BB Cream Clásica Crema Hidratante...'
 sku: 'B007OWXTCI-es'
 tags: [  ]

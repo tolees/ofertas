@@ -5,7 +5,7 @@ date: 2020-01-01 20:21:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wfp9cuMpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYRG9MJ-es Puma Suede Classic+ Zapatillas Unisex Adulto Turquesa...'
 sku: 'B01MYRG9MJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-06 16:39:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hY2uVk-9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005IZX04A-es Blanton Bourbon Original Whiskey 1 x 0 7 l'
 sku: 'B005IZX04A-es'
 tags: [  ]

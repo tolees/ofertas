@@ -5,7 +5,7 @@ date: 2020-07-12 08:02:30
 image: 'https://m.media-amazon.com/images/I/41JL6X9ib5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9RNBK9-es Festina Reloj de Pulsera F20399/1'
 sku: 'B07F9RNBK9-es'
 tags: [  ]

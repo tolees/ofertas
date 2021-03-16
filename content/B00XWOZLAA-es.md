@@ -5,7 +5,7 @@ date: 2020-02-08 17:40:35
 image: 'https://m.media-amazon.com/images/I/31P7TZ6QQAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XWOZLAA-es Nike Air MAX Invigor Zapatillas para Hombre Blanco...'
 sku: 'B00XWOZLAA-es'
 tags: [  ]

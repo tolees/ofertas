@@ -5,7 +5,7 @@ date: 2020-02-20 12:36:10
 image: 'https://m.media-amazon.com/images/I/41c5Qi7rqxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CL4PY6S-es Atosa - Disfraz de payaso para mujer talla 34 15670'
 sku: 'B00CL4PY6S-es'
 tags: [  ]

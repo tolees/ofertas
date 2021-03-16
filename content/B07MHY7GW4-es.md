@@ -5,7 +5,7 @@ date: 2020-02-14 23:30:58
 image: 'https://m.media-amazon.com/images/I/51xbeypDHGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHY7GW4-es Funko-Pocket Keychain: Toy Story: Alien Pop Llavero for...'
 sku: 'B07MHY7GW4-es'
 tags: [  ]

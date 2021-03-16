@@ -5,7 +5,7 @@ date: 2020-03-30 19:56:20
 image: 'https://m.media-amazon.com/images/I/414LmQOzPfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IBZS4N0-es Victoria Botin Basket Autoclave Zapatillas Altas para...'
 sku: 'B01IBZS4N0-es'
 tags: [  ]

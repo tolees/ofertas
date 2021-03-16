@@ -5,7 +5,7 @@ date: 2020-10-10 19:36:52
 image: 'https://m.media-amazon.com/images/I/31BhTg+P4zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FGKDLQL-es find. Leather Cleated Brogue Botas Estilo Motero Marrón...'
 sku: 'B07FGKDLQL-es'
 tags: [  ]

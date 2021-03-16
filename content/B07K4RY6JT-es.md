@@ -5,7 +5,7 @@ date: 2020-02-28 07:32:14
 image: 'https://m.media-amazon.com/images/I/31AH6K8yduL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4RY6JT-es BOSS Prime Polo Azul Light/Pastel Blue 456 Large para Hombre'
 sku: 'B07K4RY6JT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 10:48:44
 image: 'https://m.media-amazon.com/images/I/31QdgSeGb5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GK5Z1E4-es Dell 470-13630 - Cable DisplayPort a VGA Negro'
 sku: 'B00GK5Z1E4-es'
 tags: [  ]

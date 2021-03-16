@@ -5,7 +5,7 @@ date: 2020-06-21 15:42:59
 image: 'https://m.media-amazon.com/images/I/41bJXjYegfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018LLLUXU-es Tommy Hilfiger New ALY Belt Cinturón Schwarz BLACK 090 105...'
 sku: 'B018LLLUXU-es'
 tags: [  ]

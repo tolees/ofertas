@@ -5,7 +5,7 @@ date: 2020-02-21 00:36:39
 image: 'https://m.media-amazon.com/images/I/41-jdOLZO1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ENCGDRE-es Andis Lithium - Maquinilla afeitar sólo recargable'
 sku: 'B01ENCGDRE-es'
 tags: [  ]

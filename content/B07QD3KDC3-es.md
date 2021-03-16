@@ -5,7 +5,7 @@ date: 2020-01-03 07:20:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41W86cozLHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD3KDC3-es WisFox Ratón inalámbrico 2.4G Óptico Ratón Ratón de...'
 sku: 'B07QD3KDC3-es'
 tags: [  ]

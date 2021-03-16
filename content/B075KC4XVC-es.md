@@ -5,7 +5,7 @@ date: 2020-07-23 15:42:38
 image: 'https://m.media-amazon.com/images/I/41zQpQWJfrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KC4XVC-es Bebé Niños Niñas Lindo Ratón 1er / 2do / 3er Cumpleaños 3...'
 sku: 'B075KC4XVC-es'
 tags: [  ]

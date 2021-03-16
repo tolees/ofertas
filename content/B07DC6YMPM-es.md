@@ -5,7 +5,7 @@ date: 2020-04-27 18:05:18
 image: 'https://m.media-amazon.com/images/I/31uef+3O+iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC6YMPM-es PUMA Smash V2 L Zapatillas Unisex Adulto Gris Quarry White...'
 sku: 'B07DC6YMPM-es'
 tags: [  ]

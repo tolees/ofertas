@@ -5,7 +5,7 @@ date: 2020-07-19 00:37:34
 image: 'https://m.media-amazon.com/images/I/31n7ajcHXzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014Z6NGOQ-es G-STAR RAW 3301 Slim Fit Jeans Raw Denim 6245-001 29W /...'
 sku: 'B014Z6NGOQ-es'
 tags: [  ]

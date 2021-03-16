@@ -5,7 +5,7 @@ date: 2020-05-01 01:59:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dtea63aUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KYCII58-es Skechers Go Walk 3 Zapatillas Mujer Gris CHAR 35 EU'
 sku: 'B00KYCII58-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-27 22:24:16
 image: 'https://m.media-amazon.com/images/I/31EtmDlJHfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW9HHTM-es Skechers Women s D LITES 3.0-PROVEN FORCE Trainers White...'
 sku: 'B07NW9HHTM-es'
 tags: [  ]

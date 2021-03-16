@@ -5,7 +5,7 @@ date: 2020-02-16 11:06:10
 image: 'https://m.media-amazon.com/images/I/41eDJxMbU8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015KKQXD2-es Kappa Speed II Zapatillas Unisex Adulto Negro 1110...'
 sku: 'B015KKQXD2-es'
 tags: [  ]

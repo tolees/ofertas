@@ -5,7 +5,7 @@ date: 2020-08-03 18:45:41
 image: 'https://m.media-amazon.com/images/I/61rx6bXRl5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CGNPQK-es Tamaño A4 Niños Dibujo Molde de papel de placa de copia 3D...'
 sku: 'B085CGNPQK-es'
 tags: [  ]

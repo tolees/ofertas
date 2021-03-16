@@ -5,7 +5,7 @@ date: 2020-01-20 04:36:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IbkvgADwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QGFJ8V-es FIDECO Docking Station Aluminio USB 3.0 Base de conexión...'
 sku: 'B073QGFJ8V-es'
 tags: [  ]

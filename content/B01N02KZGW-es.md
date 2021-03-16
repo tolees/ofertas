@@ -5,7 +5,7 @@ date: 2020-09-03 16:18:20
 image: 'https://m.media-amazon.com/images/I/41Z56RwEjVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N02KZGW-es Aigostar Stirring Set Silver 30IOO - Set de batidora de...'
 sku: 'B01N02KZGW-es'
 tags: [  ]

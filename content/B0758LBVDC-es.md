@@ -5,7 +5,7 @@ date: 2020-06-26 14:02:31
 image: 'https://m.media-amazon.com/images/I/41J6gJGXvUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758LBVDC-es Clarks Maritsa Lara Sandalia con Pulsera Tira de Tobillo...'
 sku: 'B0758LBVDC-es'
 tags: [  ]

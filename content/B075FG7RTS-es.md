@@ -5,7 +5,7 @@ date: 2020-03-08 20:34:41
 image: 'https://m.media-amazon.com/images/I/31xlqHrjbGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FG7RTS-es Ksix BXSING01 - Karaoke portátil para Smartphones Color Plata'
 sku: 'B075FG7RTS-es'
 tags: [  ]

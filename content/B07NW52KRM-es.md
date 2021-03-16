@@ -5,7 +5,7 @@ date: 2020-05-19 15:16:47
 image: 'https://m.media-amazon.com/images/I/41xJ+AHk5-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW52KRM-es Skechers Women s Skech-AIR Stratus-Sparkling W Trainers...'
 sku: 'B07NW52KRM-es'
 tags: [  ]

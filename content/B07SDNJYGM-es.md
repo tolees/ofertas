@@ -5,7 +5,7 @@ date: 2020-03-07 09:16:04
 image: 'https://m.media-amazon.com/images/I/51Dzieef2fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDNJYGM-es Riuty Dardos de Espuma Recargue Dardos de Espuma para...'
 sku: 'B07SDNJYGM-es'
 tags: [  ]

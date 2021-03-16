@@ -5,7 +5,7 @@ date: 2020-03-09 16:02:17
 image: 'https://m.media-amazon.com/images/I/31MwNXWOrIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTWVA72-es SANOFI - VASELINA CUSI 30 G'
 sku: 'B00TTWVA72-es'
 tags: [  ]

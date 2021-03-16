@@ -5,7 +5,7 @@ date: 2020-08-07 16:28:25
 image: 'https://m.media-amazon.com/images/I/41w2-xDC8vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGXF74F-es Tiny Dreamer de Tiny Love proyector musical de luz...'
 sku: 'B07HGXF74F-es'
 tags: [  ]

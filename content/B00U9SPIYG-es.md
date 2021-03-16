@@ -5,7 +5,7 @@ date: 2020-09-15 12:17:32
 image: 'https://m.media-amazon.com/images/I/41npwf5JLiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U9SPIYG-es LACOR - Cocedor a baja temperatura Roner Sous Vide 1500W...'
 sku: 'B00U9SPIYG-es'
 tags: [  ]

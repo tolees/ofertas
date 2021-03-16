@@ -5,7 +5,7 @@ date: 2020-05-27 17:38:08
 image: 'https://m.media-amazon.com/images/I/414Vqvqx4OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RABQ0GK-es CREATIVE Sound Blaster X7 USB DAC'
 sku: 'B00RABQ0GK-es'
 tags: [  ]

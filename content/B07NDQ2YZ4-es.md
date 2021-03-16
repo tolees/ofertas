@@ -5,7 +5,7 @@ date: 2020-01-19 12:16:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ts9zo1UkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDQ2YZ4-es G-STAR RAW Halite Polo Gris Asfalt 995 Medium para Hombre'
 sku: 'B07NDQ2YZ4-es'
 tags: [  ]

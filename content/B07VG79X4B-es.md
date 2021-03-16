@@ -5,7 +5,7 @@ date: 2020-03-22 20:38:21
 image: 'https://m.media-amazon.com/images/I/41W38-VobgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VG79X4B-es JACK & JONES Jcostanford Crew Neck Noos suéter Azul Black...'
 sku: 'B07VG79X4B-es'
 tags: [  ]

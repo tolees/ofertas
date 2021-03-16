@@ -5,7 +5,7 @@ date: 2020-08-25 15:37:43
 image: 'https://m.media-amazon.com/images/I/51OqMHVS1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XF5G8NN-es Arcilla Seca al Aire 24 Colores Arcilla de Modelado Ultra...'
 sku: 'B06XF5G8NN-es'
 tags: [  ]

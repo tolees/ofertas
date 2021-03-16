@@ -5,7 +5,7 @@ date: 2020-08-06 13:29:28
 image: 'https://m.media-amazon.com/images/I/41x7WWKx4xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GGKYIHS-es AmazonBasics - Cable USB tipo C a Micro-B 3.1 de 2ª...'
 sku: 'B01GGKYIHS-es'
 tags: [  ]

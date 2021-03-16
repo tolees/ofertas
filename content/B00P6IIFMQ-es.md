@@ -5,7 +5,7 @@ date: 2020-05-29 00:15:09
 image: 'https://m.media-amazon.com/images/I/41lsUdUYjtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P6IIFMQ-es MC N-079 Patilla de Aluminio Unisex Adulto Negro Única'
 sku: 'B00P6IIFMQ-es'
 tags: [  ]

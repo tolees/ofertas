@@ -5,7 +5,7 @@ date: 2020-10-09 19:31:29
 image: 'https://m.media-amazon.com/images/I/4164RWa3srL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0049UWT1A-es Waterpik 450- Irrigador bucal inalámbrico 62.24'
 sku: 'B0049UWT1A-es'
 tags: [  ]

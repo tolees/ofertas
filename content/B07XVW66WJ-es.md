@@ -5,7 +5,7 @@ date: 2020-05-07 06:46:34
 image: 'https://m.media-amazon.com/images/I/31WMKhkFsXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVW66WJ-es CYBEX Gold Silla de coche para niños Sirona M2 i-Size Para...'
 sku: 'B07XVW66WJ-es'
 tags: [  ]

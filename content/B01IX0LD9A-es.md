@@ -5,7 +5,7 @@ date: 2020-02-16 10:25:39
 image: 'https://m.media-amazon.com/images/I/31glWhxCbDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IX0LD9A-es Triumph My Perfect Shaper WP Sujetador Mujer Beige NUDE...'
 sku: 'B01IX0LD9A-es'
 tags: [  ]

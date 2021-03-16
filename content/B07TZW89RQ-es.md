@@ -5,7 +5,7 @@ date: 2020-10-10 19:45:52
 image: 'https://m.media-amazon.com/images/I/41WrslaoSNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZW89RQ-es Kipling Abanu Bolsos con Bandolera para Mujer Amarillo...'
 sku: 'B07TZW89RQ-es'
 tags: [  ]

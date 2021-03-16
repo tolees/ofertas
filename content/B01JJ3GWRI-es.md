@@ -5,7 +5,7 @@ date: 2020-08-05 17:21:34
 image: 'https://m.media-amazon.com/images/I/41i1v-YCb7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JJ3GWRI-es Rayen 6154.02-Protector para Planchar sobremesa Color...'
 sku: 'B01JJ3GWRI-es'
 tags: [  ]

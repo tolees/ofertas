@@ -5,7 +5,7 @@ date: 2020-09-09 16:07:06
 image: 'https://m.media-amazon.com/images/I/41uj5Uqd7fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RDFFBHW-es Durex Lubricante de Base Agua Efecto Frío - 50 ml'
 sku: 'B00RDFFBHW-es'
 tags: [  ]

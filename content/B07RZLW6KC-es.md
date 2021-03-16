@@ -5,7 +5,7 @@ date: 2020-06-27 18:50:05
 image: 'https://m.media-amazon.com/images/I/31Y2gptpatL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLW6KC-es New Balance 373v2 Zapatillas para Mujer Blanco White/Grey...'
 sku: 'B07RZLW6KC-es'
 tags: [  ]

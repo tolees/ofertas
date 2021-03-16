@@ -5,7 +5,7 @@ date: 2020-05-25 16:54:12
 image: 'https://m.media-amazon.com/images/I/31+vuK1DfaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQDDBNW-es Rexona Desodorante Active Pro+ Frescor Hombre - 200 ml'
 sku: 'B07BQDDBNW-es'
 tags: [  ]

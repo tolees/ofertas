@@ -5,7 +5,7 @@ date: 2020-02-05 07:29:01
 image: 'https://m.media-amazon.com/images/I/41YkZd0JdOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGH259Y-es Winsor & Newton Cotman Set regalo acuarela multicolor 12...'
 sku: 'B07HGH259Y-es'
 tags: [  ]

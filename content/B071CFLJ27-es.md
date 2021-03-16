@@ -5,7 +5,7 @@ date: 2020-03-20 22:42:54
 image: 'https://m.media-amazon.com/images/I/411dPyHAkAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CFLJ27-es Nurana Cosmetics Crema diurna facial con factor de...'
 sku: 'B071CFLJ27-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 15:59:08
 image: 'https://m.media-amazon.com/images/I/41hTlCK3hpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCSGRYH-es L Oréal Men Expert - Hydra Energetic 2 en 1 aftershave y...'
 sku: 'B07QCSGRYH-es'
 tags: [  ]

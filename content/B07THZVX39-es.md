@@ -5,7 +5,7 @@ date: 2020-09-22 14:37:28
 image: 'https://m.media-amazon.com/images/I/316PZbPdokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THZVX39-es BRA Advanced Plancha Lisa Aluminio Fundido Multicolor'
 sku: 'B07THZVX39-es'
 tags: [  ]

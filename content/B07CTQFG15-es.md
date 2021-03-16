@@ -5,7 +5,7 @@ date: 2020-04-22 17:09:31
 image: 'https://m.media-amazon.com/images/I/31Oqwv5KqQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTQFG15-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07CTQFG15-es'
 tags: [  ]

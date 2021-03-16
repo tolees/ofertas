@@ -5,7 +5,7 @@ date: 2020-10-02 06:06:19
 image: 'https://m.media-amazon.com/images/I/41jqoB1+2DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SVA7IS8-es Singer Aspirador SVCT4020ECO'
 sku: 'B00SVA7IS8-es'
 tags: [  ]

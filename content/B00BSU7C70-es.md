@@ -5,7 +5,7 @@ date: 2020-07-18 23:53:42
 image: 'https://m.media-amazon.com/images/I/41++2CKqo6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BSU7C70-es Superga Classic Zapatillas Unisex Adulto Dark Chocolate 44 EU'
 sku: 'B00BSU7C70-es'
 tags: [  ]

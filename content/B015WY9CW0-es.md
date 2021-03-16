@@ -5,7 +5,7 @@ date: 2020-05-15 17:19:24
 image: 'https://m.media-amazon.com/images/I/413elH2H+qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015WY9CW0-es Cape Herb - RUB Louisiana Cajun 100g. Cape Herb de Sudáfrica'
 sku: 'B015WY9CW0-es'
 tags: [  ]

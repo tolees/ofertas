@@ -5,7 +5,7 @@ date: 2020-07-06 08:05:16
 image: 'https://m.media-amazon.com/images/I/31YuEdObYpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086C4C2NR-es Dispensador de Jabón Automático con Sensor de Movimiento...'
 sku: 'B086C4C2NR-es'
 tags: [  ]

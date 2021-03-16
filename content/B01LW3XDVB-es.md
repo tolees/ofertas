@@ -5,7 +5,7 @@ date: 2020-01-23 12:59:17
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW3XDVB-es Pañuelos Kleenex Ultrasoft Delicados y Suaves - 5 Packs de...'
 sku: 'B01LW3XDVB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-05 15:42:10
 image: 'https://m.media-amazon.com/images/I/4138PGFwdEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWVZJ68-es Columbia Fire Venture S II Mid WP Botas de Senderismo...'
 sku: 'B07JWVZJ68-es'
 tags: [  ]

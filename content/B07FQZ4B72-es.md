@@ -5,7 +5,7 @@ date: 2020-04-19 01:41:27
 image: 'https://m.media-amazon.com/images/I/418x5kLWqAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQZ4B72-es Clarks Step Cali Cove Zapatillas para Mujer Azul Blue- 41 EU'
 sku: 'B07FQZ4B72-es'
 tags: [  ]

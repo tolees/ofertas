@@ -5,7 +5,7 @@ date: 2020-08-09 17:49:58
 image: 'https://m.media-amazon.com/images/I/51sEZTwMHLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B528QGQ-es Hugo BOSS - Reloj para hombre - 1513337'
 sku: 'B01B528QGQ-es'
 tags: [  ]

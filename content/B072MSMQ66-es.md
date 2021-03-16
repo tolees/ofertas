@@ -5,7 +5,7 @@ date: 2020-04-03 17:31:35
 image: 'https://m.media-amazon.com/images/I/41ABa6GEvIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MSMQ66-es Nike SB Delta Force Vulc Zapatillas de Skateboard para...'
 sku: 'B072MSMQ66-es'
 tags: [  ]

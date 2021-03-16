@@ -5,7 +5,7 @@ date: 2020-08-01 01:29:55
 image: 'https://m.media-amazon.com/images/I/411MiUqnXcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HPHKNG-es Lifewit 10L Bolsa Isotermica de Almuerzo Nevera Portatil...'
 sku: 'B085HPHKNG-es'
 tags: [  ]

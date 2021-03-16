@@ -5,7 +5,7 @@ date: 2020-06-19 19:38:35
 image: 'https://m.media-amazon.com/images/I/41ywXm8uOmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZFPZB4-es Salomon XA Pro 3D J Zapatillas de Trail Running Unisex...'
 sku: 'B07CZFPZB4-es'
 tags: [  ]

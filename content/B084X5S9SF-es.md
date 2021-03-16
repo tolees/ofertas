@@ -5,7 +5,7 @@ date: 2020-04-07 22:11:38
 image: 'https://m.media-amazon.com/images/I/31dmjrfgdhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084X5S9SF-es Niños Puzzle Memory Game Console LED Light Sound...'
 sku: 'B084X5S9SF-es'
 tags: [  ]

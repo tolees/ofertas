@@ -5,7 +5,7 @@ date: 2020-02-23 21:50:39
 image: 'https://m.media-amazon.com/images/I/41p-Np6xTNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5IAOXE-es ICZI Hub USB 3.0 7 Puertos USB 3.0 Alimentacion Externa...'
 sku: 'B01N5IAOXE-es'
 tags: [  ]

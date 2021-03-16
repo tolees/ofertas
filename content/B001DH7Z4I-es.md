@@ -5,7 +5,7 @@ date: 2020-03-26 16:03:29
 image: 'https://m.media-amazon.com/images/I/31TDFE-KOlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DH7Z4I-es Dremel SC545 Disco de Corte de Diamante EZ SpeedClic...'
 sku: 'B001DH7Z4I-es'
 tags: [  ]

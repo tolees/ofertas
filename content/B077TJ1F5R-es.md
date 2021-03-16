@@ -5,7 +5,7 @@ date: 2020-09-17 14:29:46
 image: 'https://m.media-amazon.com/images/I/41T6zp0P5BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TJ1F5R-es Skechers Women s BOBS Squad-Tough Talk Sneakers Black...'
 sku: 'B077TJ1F5R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 08:04:09
 image: 'https://m.media-amazon.com/images/I/51U9Lt74JtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBCDGZ3-es TELLW Verano Hombre Dama casa par Interior Lino Zapatillas...'
 sku: 'B07DBCDGZ3-es'
 tags: [  ]

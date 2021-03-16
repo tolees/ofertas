@@ -5,7 +5,7 @@ date: 2020-07-17 17:45:23
 image: 'https://m.media-amazon.com/images/I/31m9LpP-peL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLPNVV4-es Panasonic RP-HTX90NE-W Auriculares Inalámbricos Noise...'
 sku: 'B07NLPNVV4-es'
 tags: [  ]

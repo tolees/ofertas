@@ -5,7 +5,7 @@ date: 2020-07-19 09:45:36
 image: 'https://m.media-amazon.com/images/I/516lyKN3yRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JLYEMN6-es Wooden Magic Única Cereza 30 cm Sistema de ajedrez de...'
 sku: 'B01JLYEMN6-es'
 tags: [  ]

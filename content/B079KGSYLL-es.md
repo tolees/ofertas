@@ -5,7 +5,7 @@ date: 2020-03-29 20:32:00
 image: 'https://m.media-amazon.com/images/I/31GmEBYhcGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KGSYLL-es DEVOLO 08140 dLAN 1000 Mini Power Line Adaptador'
 sku: 'B079KGSYLL-es'
 tags: [  ]

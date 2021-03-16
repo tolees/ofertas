@@ -5,7 +5,7 @@ date: 2020-01-03 13:18:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414fLDtwLnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005LU5U4K-es HP CN045AE 950XL Cartucho de Tinta Original de alto...'
 sku: 'B005LU5U4K-es'
 tags: [  ]

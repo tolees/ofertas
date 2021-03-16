@@ -5,7 +5,7 @@ date: 2020-02-19 12:17:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514TMgEkeuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LWCPV4-es Snazaroo - Pintura facial y corporal 18 ml color negro'
 sku: 'B000LWCPV4-es'
 tags: [  ]

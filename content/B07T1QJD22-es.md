@@ -5,7 +5,7 @@ date: 2020-09-22 15:51:29
 image: 'https://m.media-amazon.com/images/I/518wncNfwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1QJD22-es Cerradura de puerta portátil Cerradura de viaje Agregar...'
 sku: 'B07T1QJD22-es'
 tags: [  ]

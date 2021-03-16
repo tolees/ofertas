@@ -5,7 +5,7 @@ date: 2020-08-11 07:06:11
 image: 'https://m.media-amazon.com/images/I/41eaklKXbRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMRPPKH-es Clarks Step Isle Base Zapatillas para Hombre Beige Sand...'
 sku: 'B07TMRPPKH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 15:50:14
 image: 'https://m.media-amazon.com/images/I/31fR+tqxxxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NTZLTKR-es Skechers Ultra Flex 2.0 Kelmer Zapatillas para Hombre Azul...'
 sku: 'B07NTZLTKR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-31 22:27:10
 image: 'https://m.media-amazon.com/images/I/3187m6K+cfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCJ6B3S-es Puma Zeta Suede Zapatillas Unisex Adulto Blanco White-...'
 sku: 'B07DCJ6B3S-es'
 tags: [  ]

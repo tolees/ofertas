@@ -5,7 +5,7 @@ date: 2020-02-05 00:29:13
 image: 'https://m.media-amazon.com/images/I/31RfQkmeZoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFZHDWX-es GANT Hampton Botas Chelsea para Mujer Marrón Dark Brown...'
 sku: 'B07MFZHDWX-es'
 tags: [  ]

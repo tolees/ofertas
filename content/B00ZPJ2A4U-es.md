@@ -5,7 +5,7 @@ date: 2020-05-10 10:54:24
 image: 'https://m.media-amazon.com/images/I/41YZ5PxfVbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZPJ2A4U-es Bourjois Push Up Máscara de pestañas Tono 71 Waterproof...'
 sku: 'B00ZPJ2A4U-es'
 tags: [  ]

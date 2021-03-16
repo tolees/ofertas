@@ -5,7 +5,7 @@ date: 2020-04-26 15:33:14
 image: 'https://m.media-amazon.com/images/I/31tNelAMMZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079H4JVXW-es PUMA Liga Sideline Polo Hombre Blanco White/Black 3XL'
 sku: 'B079H4JVXW-es'
 tags: [  ]

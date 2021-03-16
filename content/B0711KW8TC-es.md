@@ -5,7 +5,7 @@ date: 2020-07-27 16:26:26
 image: 'https://m.media-amazon.com/images/I/51q29E1ZhQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711KW8TC-es iMagicBox-41197 Caja con Diferentes Juegos de Magia con...'
 sku: 'B0711KW8TC-es'
 tags: [  ]

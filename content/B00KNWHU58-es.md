@@ -5,7 +5,7 @@ date: 2020-03-14 08:35:49
 image: 'https://m.media-amazon.com/images/I/41hIsTiQWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KNWHU58-es Orlane Oligo Vit-A-Min Crema Anti Oxydante 50 ml'
 sku: 'B00KNWHU58-es'
 tags: [  ]

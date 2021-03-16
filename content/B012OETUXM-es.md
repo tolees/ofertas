@@ -5,7 +5,7 @@ date: 2020-08-21 18:30:43
 image: 'https://m.media-amazon.com/images/I/41RtGE+KJcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012OETUXM-es PCCASE EP-500 Unidad de - Fuente de alimentación 500 W 220...'
 sku: 'B012OETUXM-es'
 tags: [  ]

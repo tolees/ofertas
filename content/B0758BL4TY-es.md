@@ -5,7 +5,7 @@ date: 2020-04-14 13:37:56
 image: 'https://m.media-amazon.com/images/I/51ReuXiG2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758BL4TY-es NUEVO Dermaroller Kit 3 en 1 Para la Cara y el Cuerpo -...'
 sku: 'B0758BL4TY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 15:49:42
 image: 'https://m.media-amazon.com/images/I/41AqAyQLA8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCJH92M-es Ringke Fusion-X Compatible con Funda Huawei Mate 20 Pro...'
 sku: 'B07KCJH92M-es'
 tags: [  ]

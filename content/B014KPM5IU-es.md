@@ -5,7 +5,7 @@ date: 2020-10-07 15:02:34
 image: 'https://m.media-amazon.com/images/I/51IKLP9MxmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014KPM5IU-es Reebok Pesos de la Muñeca - 1.5 kg'
 sku: 'B014KPM5IU-es'
 tags: [  ]

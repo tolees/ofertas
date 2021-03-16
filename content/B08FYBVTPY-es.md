@@ -5,7 +5,7 @@ date: 2020-09-19 16:45:19
 image: 'https://m.media-amazon.com/images/I/31SrHiKyskL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FYBVTPY-es Panamar Juego de Red de Voleibol de Agua Juguete de Agua...'
 sku: 'B08FYBVTPY-es'
 tags: [  ]

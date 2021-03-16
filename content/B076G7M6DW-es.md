@@ -5,7 +5,7 @@ date: 2020-03-12 01:32:05
 image: 'https://m.media-amazon.com/images/I/41Naat2LzVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076G7M6DW-es PUMA Smash v2 L Jr Zapatillas Unisex Niños White White 38 EU'
 sku: 'B076G7M6DW-es'
 tags: [  ]

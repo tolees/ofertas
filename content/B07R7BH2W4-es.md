@@ -5,7 +5,7 @@ date: 2020-09-30 11:13:32
 image: 'https://m.media-amazon.com/images/I/31424VuyJEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7BH2W4-es CARE OF by PUMA Zapatillas bajas informales en cuero para...'
 sku: 'B07R7BH2W4-es'
 tags: [  ]

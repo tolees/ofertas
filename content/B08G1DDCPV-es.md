@@ -5,7 +5,7 @@ date: 2020-09-30 07:27:43
 image: 'https://m.media-amazon.com/images/I/51ljLhMj41L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G1DDCPV-es Gentai 128 GB/400 GB Tarjeta Micro SD Clase 10 UHS-I TF...'
 sku: 'B08G1DDCPV-es'
 tags: [  ]

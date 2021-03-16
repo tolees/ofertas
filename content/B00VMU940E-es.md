@@ -5,7 +5,7 @@ date: 2020-04-13 00:20:29
 image: 'https://m.media-amazon.com/images/I/51OfwnNfgAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VMU940E-es El señor de los anillos 1978 BD [Blu-ray]'
 sku: 'B00VMU940E-es'
 tags: [  ]

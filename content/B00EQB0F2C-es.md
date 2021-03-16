@@ -5,7 +5,7 @@ date: 2020-05-23 10:50:08
 image: 'https://m.media-amazon.com/images/I/41sPG4bhMsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EQB0F2C-es Braun TS715 - Plancha ropa vapor 2300 W 140 gr/min golpe...'
 sku: 'B00EQB0F2C-es'
 tags: [  ]

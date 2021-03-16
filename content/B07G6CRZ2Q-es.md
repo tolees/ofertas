@@ -5,7 +5,7 @@ date: 2020-02-08 16:59:37
 image: 'https://m.media-amazon.com/images/I/41AAxMhuCBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G6CRZ2Q-es Ultimate Ears Boom 3 Altavoz portátil Bluetooth Magic...'
 sku: 'B07G6CRZ2Q-es'
 tags: [  ]

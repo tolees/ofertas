@@ -5,7 +5,7 @@ date: 2020-03-27 16:31:52
 image: 'https://m.media-amazon.com/images/I/31AMd7G5pFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCZN2BR-es Under Armour UA HG Armour Capri Leggings Mujer Rosa Hushed...'
 sku: 'B07RCZN2BR-es'
 tags: [  ]

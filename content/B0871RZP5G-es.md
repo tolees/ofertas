@@ -5,7 +5,7 @@ date: 2020-06-17 13:04:25
 image: 'https://m.media-amazon.com/images/I/613S86dxjhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0871RZP5G-es MWyanlan Película de Ventana Colorida Opaca privacidad...'
 sku: 'B0871RZP5G-es'
 tags: [  ]

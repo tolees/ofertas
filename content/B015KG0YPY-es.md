@@ -5,7 +5,7 @@ date: 2020-05-27 12:02:20
 image: 'https://m.media-amazon.com/images/I/41LSnV2Z+tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015KG0YPY-es King Cock Arnés king cock strap-on - 20 cm 1 Unidad 820 g'
 sku: 'B015KG0YPY-es'
 tags: [  ]

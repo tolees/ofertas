@@ -5,7 +5,7 @@ date: 2020-09-26 11:33:33
 image: 'https://m.media-amazon.com/images/I/41eAekdd6NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C9S5WW4-es Skechers Women s Squad-Team BOBS Trainers Beige Dk.Taupe...'
 sku: 'B07C9S5WW4-es'
 tags: [  ]

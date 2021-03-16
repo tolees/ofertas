@@ -5,7 +5,7 @@ date: 2020-03-19 22:29:35
 image: 'https://m.media-amazon.com/images/I/419FVS-HcyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DA4IQRQ-es Seiko Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B01DA4IQRQ-es'
 tags: [  ]

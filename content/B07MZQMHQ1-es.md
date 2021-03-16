@@ -5,7 +5,7 @@ date: 2020-02-25 12:19:16
 image: 'https://m.media-amazon.com/images/I/313oZzsNljL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQMHQ1-es Pepe Jeans Finly Jeans Black Used Denim 000 2 años para Niños'
 sku: 'B07MZQMHQ1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-03 08:13:07
 image: 'https://m.media-amazon.com/images/I/41a+yZEnp9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016VWADHA-es Jata GR603 Plancha de Asar Eléctrica XXL Superficie XXL 60...'
 sku: 'B016VWADHA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-18 07:38:12
 image: 'https://m.media-amazon.com/images/I/41gaZwNbcyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4QZG8U-es L Oréal Paris Color Riche Mate Pintalabios mate rojo 347...'
 sku: 'B01N4QZG8U-es'
 tags: [  ]

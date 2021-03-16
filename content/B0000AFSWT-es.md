@@ -5,7 +5,7 @@ date: 2020-09-07 10:35:28
 image: 'https://m.media-amazon.com/images/I/21gdY8ARWoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000AFSWT-es Converse Chuck Taylor All Star Ox Zapatillas Unisex Adulto...'
 sku: 'B0000AFSWT-es'
 tags: [  ]

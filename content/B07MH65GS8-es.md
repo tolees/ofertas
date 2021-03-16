@@ -5,7 +5,7 @@ date: 2020-02-07 06:06:48
 image: 'https://m.media-amazon.com/images/I/31x9GqzI+cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MH65GS8-es Skagen Reloj de Bolsillo Digital SKT5107'
 sku: 'B07MH65GS8-es'
 tags: [  ]

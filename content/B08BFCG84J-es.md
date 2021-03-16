@@ -5,7 +5,7 @@ date: 2020-07-11 08:34:33
 image: 'https://m.media-amazon.com/images/I/41OUYIzMG1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BFCG84J-es Elyco Botones analógico Amortiguador Premium Aim Assist...'
 sku: 'B08BFCG84J-es'
 tags: [  ]

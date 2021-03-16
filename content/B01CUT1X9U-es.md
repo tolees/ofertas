@@ -5,7 +5,7 @@ date: 2020-04-18 02:09:07
 image: 'https://m.media-amazon.com/images/I/51xFrSu1OGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CUT1X9U-es Exerz Bandejas oficina 4 Piezas de Malla/Oficina Conjunto...'
 sku: 'B01CUT1X9U-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-27 03:33:11
 image: 'https://m.media-amazon.com/images/I/31W8xH9oxgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8TLLGK-es Lacoste Lerond BL 1 CAM Zapatillas para Hombre Azul Nvy...'
 sku: 'B01N8TLLGK-es'
 tags: [  ]

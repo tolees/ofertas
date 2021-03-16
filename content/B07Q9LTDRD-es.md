@@ -5,7 +5,7 @@ date: 2020-06-14 14:51:06
 image: 'https://m.media-amazon.com/images/I/31SmNhlEU6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9LTDRD-es Lámpara de pie vintage - Lámpara de Suelo pantalla negro-...'
 sku: 'B07Q9LTDRD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-08 10:00:08
 image: 'https://m.media-amazon.com/images/I/41uspMHQtGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MHS3VT-es S&R Martillo de Cerrajero Carpintero 300 G. Mango de fibra...'
 sku: 'B077MHS3VT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-06 16:55:53
 image: 'https://m.media-amazon.com/images/I/31ra3U628NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DZ62JRZ-es HP OMEN 400 - Ratón para gaming negro'
 sku: 'B07DZ62JRZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 07:24:23
 image: 'https://m.media-amazon.com/images/I/31LKlQ2BRFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRC1M8F-es Tommy Hilfiger Organic Cotton Silk V Neck Pantalones Rosa...'
 sku: 'B07VRC1M8F-es'
 tags: [  ]

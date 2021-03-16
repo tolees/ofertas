@@ -5,7 +5,7 @@ date: 2020-06-29 11:36:22
 image: 'https://m.media-amazon.com/images/I/41SRXTvq6ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005MXJUFG-es Hauck Sit N Relax - Hamaquita balancin y trona para recién...'
 sku: 'B005MXJUFG-es'
 tags: [  ]

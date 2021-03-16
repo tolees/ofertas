@@ -5,7 +5,7 @@ date: 2020-09-12 13:54:45
 image: 'https://m.media-amazon.com/images/I/31+lCLaTnPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XS6BN1H-es Apple Watch Correa Loop Deportiva 40 mm - Gris Hierro'
 sku: 'B07XS6BN1H-es'
 tags: [  ]

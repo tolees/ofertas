@@ -5,7 +5,7 @@ date: 2020-08-14 18:07:42
 image: 'https://m.media-amazon.com/images/I/41eof-UGVLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXT82D1-es Merrell Moab 2 Lace Waterproof Zapatillas Deportivas para...'
 sku: 'B07TXT82D1-es'
 tags: [  ]

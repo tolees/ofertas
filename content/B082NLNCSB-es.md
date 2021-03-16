@@ -5,7 +5,7 @@ date: 2020-06-16 12:04:29
 image: 'https://m.media-amazon.com/images/I/41CYkWmWEBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NLNCSB-es EACLL Transformador LED AC 240V a DC 12V 850mA 10W Para...'
 sku: 'B082NLNCSB-es'
 tags: [  ]

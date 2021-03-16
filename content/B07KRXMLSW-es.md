@@ -5,7 +5,7 @@ date: 2020-04-16 18:49:58
 image: 'https://m.media-amazon.com/images/I/41sVemqBoSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRXMLSW-es Columbia Sun Ridge Polo Hombre Verde Cypress M'
 sku: 'B07KRXMLSW-es'
 tags: [  ]

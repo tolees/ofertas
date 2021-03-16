@@ -5,7 +5,7 @@ date: 2020-09-17 06:27:30
 image: 'https://m.media-amazon.com/images/I/31Qc3EAZGtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077DQ3PG7-es Lacoste Carnaby EVO 118 6 SPW Zapatillas para Mujer Blanco...'
 sku: 'B077DQ3PG7-es'
 tags: [  ]

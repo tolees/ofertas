@@ -5,7 +5,7 @@ date: 2020-04-02 12:36:29
 image: 'https://m.media-amazon.com/images/I/41rQVBpZKkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JMFZR02-es Petrus Grapas 10 hojas Largo 4 mm 1000 grapas Modelo 10 55706'
 sku: 'B00JMFZR02-es'
 tags: [  ]

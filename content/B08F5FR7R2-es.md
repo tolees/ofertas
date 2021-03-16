@@ -5,7 +5,7 @@ date: 2020-10-11 13:32:49
 image: 'https://m.media-amazon.com/images/I/51M1kqvwxQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F5FR7R2-es Dengc Cabeza Redonda Hueca Bala Suave eva Espuma Bala Bala...'
 sku: 'B08F5FR7R2-es'
 tags: [  ]

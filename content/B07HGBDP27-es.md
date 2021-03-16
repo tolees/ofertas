@@ -5,7 +5,7 @@ date: 2020-03-17 08:34:37
 image: 'https://m.media-amazon.com/images/I/41KMdmPPvRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGBDP27-es Neptune Juego De Tronos - Espada Réplica Aguja de Arya...'
 sku: 'B07HGBDP27-es'
 tags: [  ]

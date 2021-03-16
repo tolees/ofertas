@@ -5,7 +5,7 @@ date: 2020-05-25 19:10:45
 image: 'https://m.media-amazon.com/images/I/415NAtkHYlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZL1V1GY-es Old Spice Bearglove Desodorante En Barra Para Hombres 50 ml'
 sku: 'B07ZL1V1GY-es'
 tags: [  ]

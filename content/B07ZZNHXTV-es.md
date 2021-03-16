@@ -5,7 +5,7 @@ date: 2020-09-24 08:41:50
 image: 'https://m.media-amazon.com/images/I/411x03KtEwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZZNHXTV-es Pop! Heroes: Batman Returns - Catwoman'
 sku: 'B07ZZNHXTV-es'
 tags: [  ]

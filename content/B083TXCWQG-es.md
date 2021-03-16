@@ -5,7 +5,7 @@ date: 2020-06-15 11:52:53
 image: 'https://m.media-amazon.com/images/I/415xY1U3g+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TXCWQG-es memumi Delgado para Samsung Galaxy S20 Plus 6.7" Funda...'
 sku: 'B083TXCWQG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 00:01:39
 image: 'https://m.media-amazon.com/images/I/41P4W7aYmFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BJGXW3-es Hollywood Star Fashion - Camisas - Sin Mangas - para Mujer...'
 sku: 'B077BJGXW3-es'
 tags: [  ]

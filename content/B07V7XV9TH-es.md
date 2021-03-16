@@ -5,7 +5,7 @@ date: 2020-08-06 06:35:07
 image: 'https://m.media-amazon.com/images/I/41Pjd3KPRVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7XV9TH-es Tommy Hilfiger Flatform Runner Colour Sneaker Zapatillas...'
 sku: 'B07V7XV9TH-es'
 tags: [  ]

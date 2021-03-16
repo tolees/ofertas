@@ -5,7 +5,7 @@ date: 2020-08-14 17:20:19
 image: 'https://m.media-amazon.com/images/I/41KoypLNwnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CSLW8MF-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
 sku: 'B08CSLW8MF-es'
 tags: [  ]

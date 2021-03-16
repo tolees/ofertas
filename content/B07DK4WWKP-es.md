@@ -5,7 +5,7 @@ date: 2020-09-21 09:16:22
 image: 'https://m.media-amazon.com/images/I/41rgfL-D-gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK4WWKP-es Levi s Graphic Po Hoodie-B suéter Gris Hm Pop Oscuro Mid...'
 sku: 'B07DK4WWKP-es'
 tags: [  ]

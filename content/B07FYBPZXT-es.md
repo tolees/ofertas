@@ -5,7 +5,7 @@ date: 2020-10-09 13:39:48
 image: 'https://m.media-amazon.com/images/I/41YumpSzfsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYBPZXT-es Corsair K70 MK.2 RGB Teclado Mecánico Gaming...'
 sku: 'B07FYBPZXT-es'
 tags: [  ]

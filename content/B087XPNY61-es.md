@@ -5,7 +5,7 @@ date: 2020-09-19 07:01:09
 image: 'https://m.media-amazon.com/images/I/510sx5lwFEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087XPNY61-es San Ignacio 3 Sartenes 18/26/28 + Set Cuchillos Daimiel...'
 sku: 'B087XPNY61-es'
 tags: [  ]

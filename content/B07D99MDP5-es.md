@@ -5,7 +5,7 @@ date: 2020-01-12 13:32:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tUHF3ZGqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D99MDP5-es Portátil Estuche de Viaje para Cepillo Eléctrico de...'
 sku: 'B07D99MDP5-es'
 tags: [  ]

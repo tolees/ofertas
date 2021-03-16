@@ -5,7 +5,7 @@ date: 2020-03-28 18:42:49
 image: 'https://m.media-amazon.com/images/I/41BjreIKF0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTL7HHV-es Under Armour Charged Europa 2 Zapatillas de Running para...'
 sku: 'B07CTL7HHV-es'
 tags: [  ]

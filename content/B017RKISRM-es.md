@@ -5,7 +5,7 @@ date: 2020-04-08 13:59:07
 image: 'https://m.media-amazon.com/images/I/51aD5tUu2UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017RKISRM-es KS Tools 714.0241 Composición de 241 herramientas 4...'
 sku: 'B017RKISRM-es'
 tags: [  ]

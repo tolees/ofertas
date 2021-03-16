@@ -5,7 +5,7 @@ date: 2020-03-31 14:05:24
 image: 'https://m.media-amazon.com/images/I/41VamE+CpdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7F5YQW-es EMPIRE GAMING – Nuevo – Ratón Gamer por Cable Hellhounds –...'
 sku: 'B07N7F5YQW-es'
 tags: [  ]

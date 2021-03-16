@@ -5,7 +5,7 @@ date: 2020-08-25 09:02:06
 image: 'https://m.media-amazon.com/images/I/51AzEmxDCCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CGA2FUO-es Breville Tostador High Gloss de doble rebanada larga...'
 sku: 'B01CGA2FUO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-09 20:11:23
 image: 'https://m.media-amazon.com/images/I/31Z1trGdY4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07538SMTB-es Lenovo Ideapad 520S-14IKB - Ordenador portátil ultrafino...'
 sku: 'B07538SMTB-es'
 tags: [  ]

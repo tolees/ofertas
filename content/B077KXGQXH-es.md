@@ -5,7 +5,7 @@ date: 2020-03-17 11:05:00
 image: 'https://m.media-amazon.com/images/I/41A3v-SngOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077KXGQXH-es VicTsing Ratón Inalámbrico Bluetooth 4.0 & 2.4G 5 dpi...'
 sku: 'B077KXGQXH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-01 15:24:12
 image: 'https://m.media-amazon.com/images/I/41+G-nDDgxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJX82D-es Napapijri Eisberg SS Polo Azul BLU Marine 176 Large para...'
 sku: 'B07MVJX82D-es'
 tags: [  ]

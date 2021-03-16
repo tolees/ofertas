@@ -5,7 +5,7 @@ date: 2020-07-26 18:43:12
 image: 'https://m.media-amazon.com/images/I/41wU2U-A7zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KVKQ1Y-es Linksys EA8300 - Router Wi-Fi AC2200 Tri-Banda MAX-Stream...'
 sku: 'B071KVKQ1Y-es'
 tags: [  ]

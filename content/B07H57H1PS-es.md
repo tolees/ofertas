@@ -5,7 +5,7 @@ date: 2020-01-22 12:29:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qyn1T92jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H57H1PS-es X-TIGER Hombres de Bicicleta Manga Corta Maillots con 5D...'
 sku: 'B07H57H1PS-es'
 tags: [  ]

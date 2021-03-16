@@ -5,7 +5,7 @@ date: 2020-02-19 20:29:02
 image: 'https://m.media-amazon.com/images/I/41RNGIw8K8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1LNF7-es PUMA Rebound Layup Lo Mesh Zapatillas Unisex Adulto White...'
 sku: 'B07KG1LNF7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-08 11:29:14
 image: 'https://m.media-amazon.com/images/I/41z-o-gxFbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C8LVTCJ-es Fantasy Flight Games- AT-ST FFSWL08'
 sku: 'B07C8LVTCJ-es'
 tags: [  ]

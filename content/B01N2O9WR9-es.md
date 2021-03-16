@@ -5,7 +5,7 @@ date: 2020-01-12 12:58:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51034b2uD7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2O9WR9-es SJCAM SJ6 Legend Cámara deportiva 4K de 16 MP procesador...'
 sku: 'B01N2O9WR9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 15:32:35
 image: 'https://m.media-amazon.com/images/I/311C-BIfl0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078PP1PM2-es Saucony Ride ISO Zapatillas de Running para Hombre Negro...'
 sku: 'B078PP1PM2-es'
 tags: [  ]

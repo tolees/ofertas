@@ -5,7 +5,7 @@ date: 2020-10-10 10:55:31
 image: 'https://m.media-amazon.com/images/I/41Ty6OxCpBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BGX2F4Y-es Thai Green curry paste 400g by Mae Ploy'
 sku: 'B00BGX2F4Y-es'
 tags: [  ]

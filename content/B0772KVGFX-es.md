@@ -5,7 +5,7 @@ date: 2020-09-01 13:25:40
 image: 'https://m.media-amazon.com/images/I/41cHKioqXBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772KVGFX-es Funko Pop! - Ready Player One Sorrento Figura de Vinilo 22055'
 sku: 'B0772KVGFX-es'
 tags: [  ]

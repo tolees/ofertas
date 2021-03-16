@@ -5,7 +5,7 @@ date: 2020-01-17 00:33:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41A5Z%2BJyu9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY0SXOP-es LANGRIA 2xTaburetes de Bar Manhattan Tapizados en Cuero de...'
 sku: 'B01MY0SXOP-es'
 tags: [  ]

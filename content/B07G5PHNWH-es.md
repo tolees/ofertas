@@ -5,7 +5,7 @@ date: 2020-09-10 17:09:19
 image: 'https://m.media-amazon.com/images/I/31rojTkGjvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5PHNWH-es Max Factor Base de maquillaje Tono: 80 Deep Bronze Pieles...'
 sku: 'B07G5PHNWH-es'
 tags: [  ]

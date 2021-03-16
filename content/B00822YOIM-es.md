@@ -5,7 +5,7 @@ date: 2020-06-17 18:26:27
 image: 'https://m.media-amazon.com/images/I/41dqSr4Y8fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00822YOIM-es Bulldog Crema Hidratante Facial - 100 ml'
 sku: 'B00822YOIM-es'
 tags: [  ]

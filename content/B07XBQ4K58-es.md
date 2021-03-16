@@ -5,7 +5,7 @@ date: 2020-06-18 07:56:49
 image: 'https://m.media-amazon.com/images/I/61C3oh3fQzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBQ4K58-es PetHot® 10 piezas macetas colgantes macetas con gancho de...'
 sku: 'B07XBQ4K58-es'
 tags: [  ]

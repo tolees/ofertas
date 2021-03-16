@@ -5,7 +5,7 @@ date: 2020-02-03 20:50:41
 image: 'https://m.media-amazon.com/images/I/31Zh23s2oSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z9NP0RQ-es 3M Mono de seguridad en polipropileno'
 sku: 'B00Z9NP0RQ-es'
 tags: [  ]

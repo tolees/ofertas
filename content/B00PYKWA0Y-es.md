@@ -5,7 +5,7 @@ date: 2020-01-28 09:18:45
 image: 'https://m.media-amazon.com/images/I/41LWr4n2JKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PYKWA0Y-es Nike Court Royale Zapatillas Hombre Negro/Blanco...'
 sku: 'B00PYKWA0Y-es'
 tags: [  ]

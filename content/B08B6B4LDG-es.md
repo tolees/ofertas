@@ -5,7 +5,7 @@ date: 2020-07-25 14:01:24
 image: 'https://m.media-amazon.com/images/I/41H1v6XzkOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B6B4LDG-es Uso duradero 100 mm Disco de pulido de diamante de 4...'
 sku: 'B08B6B4LDG-es'
 tags: [  ]

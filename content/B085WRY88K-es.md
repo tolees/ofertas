@@ -5,7 +5,7 @@ date: 2020-08-19 13:20:54
 image: 'https://m.media-amazon.com/images/I/51vMzXPsFpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085WRY88K-es Diadema de Flores Corona 5 piezas Corona de Flores Girasol...'
 sku: 'B085WRY88K-es'
 tags: [  ]

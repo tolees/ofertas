@@ -5,7 +5,7 @@ date: 2020-03-04 08:42:30
 image: 'https://m.media-amazon.com/images/I/31Sfq4HOxJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGFTF2R-es Vermouth Myrrha Reserva 100 cl - 1000 ml'
 sku: 'B07QGFTF2R-es'
 tags: [  ]

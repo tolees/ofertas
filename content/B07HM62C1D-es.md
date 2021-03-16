@@ -5,7 +5,7 @@ date: 2020-06-30 10:45:10
 image: 'https://m.media-amazon.com/images/I/51M9CEYwtRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HM62C1D-es Easton Marlowe 6 PR Calcetines Estampados Hombre Argyle -...'
 sku: 'B07HM62C1D-es'
 tags: [  ]

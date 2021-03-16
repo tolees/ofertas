@@ -5,7 +5,7 @@ date: 2020-01-15 20:35:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31t4JwzuVqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005UOPX5I-es Berghoff Set de Pasta 20 Piezas'
 sku: 'B005UOPX5I-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 23:46:16
 image: 'https://m.media-amazon.com/images/I/31wRi-VNX4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FMH1FXX-es Huoyin Pulsera Dispensadora De Líquido Dispensador De...'
 sku: 'B08FMH1FXX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-23 05:01:22
 image: 'https://m.media-amazon.com/images/I/51yfKL2XNZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711TYP2X-es Funko - Pop! Vinilo Colección DC - Figura Aquaman 13486'
 sku: 'B0711TYP2X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 11:01:30
 image: 'https://m.media-amazon.com/images/I/41iYWkL3+OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872PHD1V-es Funda Transparente Compatible para Xiaomi Redmi Note 8...'
 sku: 'B0872PHD1V-es'
 tags: [  ]

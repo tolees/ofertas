@@ -5,7 +5,7 @@ date: 2020-09-23 15:15:16
 image: 'https://m.media-amazon.com/images/I/41yhLlhU-BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016D55WPS-es Anne Moller ADN40 Belage Yeux Creme Antirides Contour Des...'
 sku: 'B016D55WPS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-05 09:33:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51lRxLoVRTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMGYGVX-es AmazonBasics - Toallas de uso diario 2 de baño y 4 de mano...'
 sku: 'B07HMGYGVX-es'
 tags: [  ]

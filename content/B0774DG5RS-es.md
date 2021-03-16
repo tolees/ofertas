@@ -5,7 +5,7 @@ date: 2020-01-26 21:20:09
 image: 'https://m.media-amazon.com/images/I/41QaVvuG4yL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774DG5RS-es SYMALL Mujer Ropa Interior Hueco Encaje Malla...'
 sku: 'B0774DG5RS-es'
 tags: [  ]

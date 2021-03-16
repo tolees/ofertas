@@ -5,7 +5,7 @@ date: 2020-01-16 17:03:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MxRIRrumL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0748GG3GN-es Contorno de Ojos Antiarrugas | Anti-edad para ojeras...'
 sku: 'B0748GG3GN-es'
 tags: [  ]

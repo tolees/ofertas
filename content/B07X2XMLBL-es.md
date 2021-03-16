@@ -5,7 +5,7 @@ date: 2020-04-07 13:17:49
 image: 'https://m.media-amazon.com/images/I/51oPW8dfpHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2XMLBL-es Sendowtek Wake Up Light Despertador Luz Reloj despertador...'
 sku: 'B07X2XMLBL-es'
 tags: [  ]

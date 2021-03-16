@@ -5,7 +5,7 @@ date: 2020-09-09 14:01:51
 image: 'https://m.media-amazon.com/images/I/314nR4lW3aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HJNWPH-es LAQI - Herramienta de Corte de Cristal de carburo de...'
 sku: 'B082HJNWPH-es'
 tags: [  ]

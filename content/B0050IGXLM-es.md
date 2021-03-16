@@ -5,7 +5,7 @@ date: 2020-01-23 12:04:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41f%2B%2Brf-ttL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0050IGXLM-es RGV LUXOR 22 - Cortafiambre'
 sku: 'B0050IGXLM-es'
 tags: [  ]

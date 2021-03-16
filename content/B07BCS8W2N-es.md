@@ -5,7 +5,7 @@ date: 2020-05-18 17:27:43
 image: 'https://m.media-amazon.com/images/I/41A9jAa6xLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BCS8W2N-es Rowenta Power Steam VR8216F0 - Centro planchado 5 8 bares...'
 sku: 'B07BCS8W2N-es'
 tags: [  ]

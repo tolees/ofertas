@@ -5,7 +5,7 @@ date: 2020-09-18 19:01:32
 image: 'https://m.media-amazon.com/images/I/51mXFw6cJ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F5WJFR2-es Bestron Gofrera para Gofres en forma de Corazón Diseño...'
 sku: 'B00F5WJFR2-es'
 tags: [  ]

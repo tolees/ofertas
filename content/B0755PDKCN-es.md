@@ -5,7 +5,7 @@ date: 2020-07-29 07:27:49
 image: 'https://m.media-amazon.com/images/I/414djM2WJNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0755PDKCN-es GoPro The Handler - Empuñadura flotante Negro'
 sku: 'B0755PDKCN-es'
 tags: [  ]

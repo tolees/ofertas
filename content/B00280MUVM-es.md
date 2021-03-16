@@ -5,7 +5,7 @@ date: 2020-07-08 18:16:05
 image: 'https://m.media-amazon.com/images/I/41AP8Z8oN0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00280MUVM-es Chuckit! 17030 Ultra Ball Large 1 Pelota para Perros...'
 sku: 'B00280MUVM-es'
 tags: [  ]

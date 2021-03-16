@@ -5,7 +5,7 @@ date: 2020-05-30 14:49:06
 image: 'https://m.media-amazon.com/images/I/51hTdBe6F1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJDNWLS-es Carpeta de Conferencia de Cuero A4 Portafolio con Cuaderno...'
 sku: 'B07ZJDNWLS-es'
 tags: [  ]

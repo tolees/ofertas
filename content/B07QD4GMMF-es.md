@@ -5,7 +5,7 @@ date: 2020-08-30 00:41:59
 image: 'https://m.media-amazon.com/images/I/41WpSHpz-DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD4GMMF-es La Toja Selection - Gel de ducha Exfoliante con Sales...'
 sku: 'B07QD4GMMF-es'
 tags: [  ]

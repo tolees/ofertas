@@ -5,7 +5,7 @@ date: 2020-03-17 09:08:10
 image: 'https://m.media-amazon.com/images/I/41u0yHJmwiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NOPRBA-es Shimano SMMAF180PSA - Adaptador Pinza Delant. Std M535 180 Mm'
 sku: 'B000NOPRBA-es'
 tags: [  ]

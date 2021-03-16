@@ -5,7 +5,7 @@ date: 2020-09-23 05:30:41
 image: 'https://m.media-amazon.com/images/I/51SAi9ywoDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W11MJK6-es ZIPRINT 1800 Páginas Tóner Compatible Samsung MLT-D111L...'
 sku: 'B07W11MJK6-es'
 tags: [  ]

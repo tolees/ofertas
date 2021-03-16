@@ -5,7 +5,7 @@ date: 2020-04-16 00:30:09
 image: 'https://m.media-amazon.com/images/I/41JaGMKBh8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5SX7BL-es KONVINIT Gorro Navideño para Niño Gorro Santa Claus Gorro...'
 sku: 'B07W5SX7BL-es'
 tags: [  ]

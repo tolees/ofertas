@@ -5,7 +5,7 @@ date: 2020-09-20 18:18:04
 image: 'https://m.media-amazon.com/images/I/41a33dLoNuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076RXV4BM-es Under Armour Ripple Zapatillas de Running para Mujer Negro...'
 sku: 'B076RXV4BM-es'
 tags: [  ]

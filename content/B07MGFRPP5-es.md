@@ -5,7 +5,7 @@ date: 2020-03-15 14:28:05
 image: 'https://m.media-amazon.com/images/I/41e0RK-2M1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRPP5-es Napapijri Damavand V suéter Azul French Blue BB7 Small...'
 sku: 'B07MGFRPP5-es'
 tags: [  ]

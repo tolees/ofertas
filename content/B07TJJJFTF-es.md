@@ -5,7 +5,7 @@ date: 2020-08-06 11:50:07
 image: 'https://m.media-amazon.com/images/I/31df9xdqq6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJJJFTF-es Nike U Nk H86 Cap Metal Swoosh Hat Unisex Adulto Team...'
 sku: 'B07TJJJFTF-es'
 tags: [  ]

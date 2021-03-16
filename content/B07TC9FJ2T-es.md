@@ -5,7 +5,7 @@ date: 2020-01-17 18:48:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415MyyFv6vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TC9FJ2T-es Rodillera Menisco y Ligamentos Deportiva Rodillera de...'
 sku: 'B07TC9FJ2T-es'
 tags: [  ]

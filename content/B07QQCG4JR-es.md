@@ -5,7 +5,7 @@ date: 2020-09-21 17:15:39
 image: 'https://m.media-amazon.com/images/I/31HyM+AgRWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQCG4JR-es Lámpara de Techo Vintage Tomshine 2 pack 3.94ft/1.2m...'
 sku: 'B07QQCG4JR-es'
 tags: [  ]

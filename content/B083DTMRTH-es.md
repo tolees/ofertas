@@ -5,7 +5,7 @@ date: 2020-10-03 08:25:45
 image: 'https://m.media-amazon.com/images/I/31iVzKpGvtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DTMRTH-es UGREEN Alfombrillas de Ratón Aluminio Impermeable...'
 sku: 'B083DTMRTH-es'
 tags: [  ]

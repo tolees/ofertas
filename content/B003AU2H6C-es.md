@@ -5,7 +5,7 @@ date: 2020-02-10 02:13:16
 image: 'https://m.media-amazon.com/images/I/21H6rramg1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003AU2H6C-es Sebastian Volupt Acondicionador - 250 ml'
 sku: 'B003AU2H6C-es'
 tags: [  ]

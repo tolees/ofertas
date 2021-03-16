@@ -5,7 +5,7 @@ date: 2020-04-05 18:22:14
 image: 'https://m.media-amazon.com/images/I/41luFbWI0JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB3XMKG-es MTNG Attitude 69867 Zapatillas para Mujer Blanco Zebro...'
 sku: 'B07QB3XMKG-es'
 tags: [  ]

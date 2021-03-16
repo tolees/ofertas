@@ -5,7 +5,7 @@ date: 2020-09-27 11:06:39
 image: 'https://m.media-amazon.com/images/I/41yiueaJQ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825PSWMG-es Roxy Feel Happy 35l - Petate Deportivo Mediano Para Mujer...'
 sku: 'B0825PSWMG-es'
 tags: [  ]

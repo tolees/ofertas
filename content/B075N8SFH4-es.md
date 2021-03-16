@@ -5,7 +5,7 @@ date: 2020-01-09 00:14:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PmTIXLDHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075N8SFH4-es ORANSSI Shorts de baño para hombre bañador de malla a rayas'
 sku: 'B075N8SFH4-es'
 tags: [  ]

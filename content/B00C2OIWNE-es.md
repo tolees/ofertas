@@ -5,7 +5,7 @@ date: 2020-04-08 06:51:38
 image: 'https://m.media-amazon.com/images/I/41g1n8qqiWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C2OIWNE-es Arnold 1194-X1-0030 - Juego de limas para afilar sierras...'
 sku: 'B00C2OIWNE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-06 15:08:41
 image: 'https://m.media-amazon.com/images/I/51a0xH3IJZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C4H8D7X-es Electroestimuladores Tens y EMS Estimulador De Pulsos...'
 sku: 'B07C4H8D7X-es'
 tags: [  ]

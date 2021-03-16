@@ -5,7 +5,7 @@ date: 2020-05-28 15:36:53
 image: 'https://m.media-amazon.com/images/I/41i0Nzfgn+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZV28Z6S-es BERING Reloj Analógico para Unisex Adultos de Cuarzo con...'
 sku: 'B00ZV28Z6S-es'
 tags: [  ]

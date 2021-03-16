@@ -5,7 +5,7 @@ date: 2020-01-11 23:10:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31G6wf31cUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CLMHDK4-es Bourjois City Radiance Base de Maquillaje Tono 03 Light...'
 sku: 'B01CLMHDK4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 14:18:36
 image: 'https://m.media-amazon.com/images/I/413-6AVBgvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9MTK6V-es LD pañuelo seda Mujer Cuello Bufanda Mantón Elegante...'
 sku: 'B07R9MTK6V-es'
 tags: [  ]

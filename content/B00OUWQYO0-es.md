@@ -5,7 +5,7 @@ date: 2020-01-16 11:24:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416KiniGdOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OUWQYO0-es adidas Superstar Zapatillas de deporte Unisex Adulto...'
 sku: 'B00OUWQYO0-es'
 tags: [  ]

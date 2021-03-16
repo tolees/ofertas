@@ -5,7 +5,7 @@ date: 2020-08-15 13:03:33
 image: 'https://m.media-amazon.com/images/I/41AtaIt1rOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004W7GYGQ-es Duracell Plus Power 6LR61/MN1604 Batería alcalina...'
 sku: 'B004W7GYGQ-es'
 tags: [  ]

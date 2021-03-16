@@ -5,7 +5,7 @@ date: 2020-05-13 08:36:10
 image: 'https://m.media-amazon.com/images/I/31pNhDqntsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2W1N4V-es Adidas FOREST GROVE C Zapatillas de deporte Unisex niños...'
 sku: 'B07K2W1N4V-es'
 tags: [  ]

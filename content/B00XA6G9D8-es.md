@@ -5,7 +5,7 @@ date: 2020-02-01 08:32:38
 image: 'https://m.media-amazon.com/images/I/41BLUQV4P+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XA6G9D8-es Flota - Jabón de Marsella - Detergente líquido para lavado...'
 sku: 'B00XA6G9D8-es'
 tags: [  ]

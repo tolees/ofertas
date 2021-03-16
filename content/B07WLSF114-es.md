@@ -5,7 +5,7 @@ date: 2020-09-26 18:03:04
 image: 'https://m.media-amazon.com/images/I/51jE9E4xb6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLSF114-es adidas Sport RPT-01 Bluetooth Auriculares Gris Noche'
 sku: 'B07WLSF114-es'
 tags: [  ]

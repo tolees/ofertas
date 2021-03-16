@@ -5,7 +5,7 @@ date: 2020-05-08 19:59:20
 image: 'https://m.media-amazon.com/images/I/41-OItXtKOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872MZV5H-es Funda Transparente Compatible para Samsung Galaxy S10E...'
 sku: 'B0872MZV5H-es'
 tags: [  ]

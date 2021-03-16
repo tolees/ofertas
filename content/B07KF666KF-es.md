@@ -5,7 +5,7 @@ date: 2020-02-05 11:28:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kAgSi9tEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF666KF-es Levi s 501 Short Long Pantalones Cortos Azul Blue Clue...'
 sku: 'B07KF666KF-es'
 tags: [  ]

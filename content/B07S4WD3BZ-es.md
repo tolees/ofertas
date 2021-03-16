@@ -5,7 +5,7 @@ date: 2020-09-13 21:47:22
 image: 'https://m.media-amazon.com/images/I/41qHdUH17vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4WD3BZ-es New Balance 373v2 n Zapatillas para Mujer Morado Madder KP...'
 sku: 'B07S4WD3BZ-es'
 tags: [  ]

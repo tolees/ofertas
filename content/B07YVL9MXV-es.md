@@ -5,7 +5,7 @@ date: 2020-06-21 14:33:09
 image: 'https://m.media-amazon.com/images/I/412tWB4bZuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVL9MXV-es Cartera Pepe Jeans Arrow con tarjetero Marrón'
 sku: 'B07YVL9MXV-es'
 tags: [  ]

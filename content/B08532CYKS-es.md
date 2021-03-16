@@ -5,7 +5,7 @@ date: 2020-05-18 19:02:31
 image: 'https://m.media-amazon.com/images/I/51E3DC9DG7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08532CYKS-es Sweety Fox - Manta Bebe para Niño y Niña 80 x 100 cm -...'
 sku: 'B08532CYKS-es'
 tags: [  ]

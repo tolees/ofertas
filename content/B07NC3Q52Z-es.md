@@ -5,7 +5,7 @@ date: 2020-07-15 22:12:45
 image: 'https://m.media-amazon.com/images/I/41Gq7+CRDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC3Q52Z-es HUGO Abaco Pantalones cortos Hombre Negro Black 001 X-Large'
 sku: 'B07NC3Q52Z-es'
 tags: [  ]

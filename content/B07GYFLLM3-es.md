@@ -5,7 +5,7 @@ date: 2020-03-03 12:21:04
 image: 'https://m.media-amazon.com/images/I/41VSkoVjrvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GYFLLM3-es Babacom Protector Pantalla para iPhone 11 Pro MAX/XS MAX...'
 sku: 'B07GYFLLM3-es'
 tags: [  ]

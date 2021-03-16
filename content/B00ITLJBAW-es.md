@@ -5,7 +5,7 @@ date: 2020-07-11 21:09:05
 image: 'https://m.media-amazon.com/images/I/314ID+MJKoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ITLJBAW-es Quasar FOBOS - Ratón Óptico USB 3200 DPI Negro'
 sku: 'B00ITLJBAW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 08:00:43
 image: 'https://m.media-amazon.com/images/I/41Y4nAWP64L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XTNV6DB-es Pepe Jeans Original Basic L/S Top de Manga Larga Para...'
 sku: 'B06XTNV6DB-es'
 tags: [  ]

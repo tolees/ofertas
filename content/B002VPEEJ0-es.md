@@ -5,7 +5,7 @@ date: 2020-03-14 19:45:45
 image: 'https://m.media-amazon.com/images/I/41YNZg6EfBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002VPEEJ0-es Makita FS4200 atornillador 500 W 120 V L X A X mm'
 sku: 'B002VPEEJ0-es'
 tags: [  ]

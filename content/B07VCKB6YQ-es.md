@@ -5,7 +5,7 @@ date: 2020-01-16 18:57:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41w-GLD0o9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCKB6YQ-es DELIMIRA Mujer Sujetador Deportivo Talla Grande de Alto...'
 sku: 'B07VCKB6YQ-es'
 tags: [  ]

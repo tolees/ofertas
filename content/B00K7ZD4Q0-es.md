@@ -5,7 +5,7 @@ date: 2020-05-15 21:47:27
 image: 'https://m.media-amazon.com/images/I/31hfUnxdWlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K7ZD4Q0-es Lancaster Deodorant Cream Sensitive Desodorante - 125 ml'
 sku: 'B00K7ZD4Q0-es'
 tags: [  ]

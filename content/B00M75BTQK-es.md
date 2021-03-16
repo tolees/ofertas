@@ -5,7 +5,7 @@ date: 2020-03-31 15:02:53
 image: 'https://m.media-amazon.com/images/I/41DIQ9rjNCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M75BTQK-es Enjuague Bucal - Oraldine Perio clorhexidina 0.2% - 400ml'
 sku: 'B00M75BTQK-es'
 tags: [  ]

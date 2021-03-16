@@ -5,7 +5,7 @@ date: 2020-01-21 20:42:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fda9dAjUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB8P1LJ-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B07GB8P1LJ-es'
 tags: [  ]

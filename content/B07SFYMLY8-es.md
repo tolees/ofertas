@@ -5,7 +5,7 @@ date: 2020-09-29 04:41:23
 image: 'https://m.media-amazon.com/images/I/41Xcm9ZFyaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFYMLY8-es Levi s Skinner Zapatillas para Hombre Azul Navy Blue 17 39 EU'
 sku: 'B07SFYMLY8-es'
 tags: [  ]

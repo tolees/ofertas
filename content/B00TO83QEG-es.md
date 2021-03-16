@@ -5,7 +5,7 @@ date: 2020-07-02 07:13:11
 image: 'https://m.media-amazon.com/images/I/51t4kkYJgEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TO83QEG-es Tommy Hifiger 1781526 Alex - Reloj para Hombre Cuarzo...'
 sku: 'B00TO83QEG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-15 21:33:29
 image: 'https://m.media-amazon.com/images/I/51et421k6HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5W9HB6-es ORICO Carcasa Disco Duro Externo 2.5 Caja Externa Disco...'
 sku: 'B08B5W9HB6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-22 10:45:42
 image: 'https://m.media-amazon.com/images/I/416eJFtWwrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TLY9D1-es A4 tamaño niños dibujo 3D copia placa molde de papel para...'
 sku: 'B088TLY9D1-es'
 tags: [  ]

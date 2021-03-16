@@ -5,7 +5,7 @@ date: 2020-03-07 02:29:35
 image: 'https://m.media-amazon.com/images/I/51fyfow3GHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009B10BHQ-es Funko 3014 - Game Of Thrones Tyrion Lannister figura de...'
 sku: 'B009B10BHQ-es'
 tags: [  ]

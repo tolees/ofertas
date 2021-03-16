@@ -5,7 +5,7 @@ date: 2020-08-15 13:00:08
 image: 'https://m.media-amazon.com/images/I/31zVFNWaV9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPVSJFZ-es Pop Animation: Rick & Moty - Kirkland Meeseeks'
 sku: 'B07SPVSJFZ-es'
 tags: [  ]

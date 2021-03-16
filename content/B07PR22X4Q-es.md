@@ -5,7 +5,7 @@ date: 2020-06-24 09:27:58
 image: 'https://m.media-amazon.com/images/I/41fU2rQfhwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PR22X4Q-es Under Armour Fly by 2.0 Short Panatalones Cortos Deporte...'
 sku: 'B07PR22X4Q-es'
 tags: [  ]

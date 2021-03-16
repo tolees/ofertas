@@ -5,7 +5,7 @@ date: 2020-10-09 12:40:54
 image: 'https://m.media-amazon.com/images/I/31oEulkpxvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DXT3SXZ-es Auriculares inalámbricos Bluetooth Auriculares...'
 sku: 'B08DXT3SXZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-21 09:29:38
 image: 'https://m.media-amazon.com/images/I/41GWKYjWLgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GUZK4TU-es adidas Superstar C Zapatillas de Baloncesto Unisex Niños...'
 sku: 'B01GUZK4TU-es'
 tags: [  ]

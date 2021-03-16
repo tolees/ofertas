@@ -5,7 +5,7 @@ date: 2020-01-02 10:56:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411ziQAhLBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRLNFTT-es New Balance 373 Zapatillas para Mujer Azul Blue Blue 37.5 EU'
 sku: 'B07KRLNFTT-es'
 tags: [  ]

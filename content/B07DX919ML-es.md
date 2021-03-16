@@ -5,7 +5,7 @@ date: 2020-02-04 15:54:19
 image: 'https://m.media-amazon.com/images/I/41fOGSXstSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DX919ML-es Greylags Calcetines Prima Calidad deportiva Respirable...'
 sku: 'B07DX919ML-es'
 tags: [  ]

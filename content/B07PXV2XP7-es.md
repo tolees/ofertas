@@ -5,7 +5,7 @@ date: 2020-06-07 00:21:18
 image: 'https://m.media-amazon.com/images/I/310J8q7qeAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXV2XP7-es Under Armour Men s Tribase Thrive Hallenschuhe Zapatillas...'
 sku: 'B07PXV2XP7-es'
 tags: [  ]

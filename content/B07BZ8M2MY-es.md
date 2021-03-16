@@ -5,7 +5,7 @@ date: 2020-05-18 08:56:16
 image: 'https://m.media-amazon.com/images/I/51PntF+xLsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZ8M2MY-es Sloggi S Symmetry N Sujetador sin aros Black 004 90C Talla...'
 sku: 'B07BZ8M2MY-es'
 tags: [  ]

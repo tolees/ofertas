@@ -5,7 +5,7 @@ date: 2020-06-10 17:36:23
 image: 'https://m.media-amazon.com/images/I/51RNS+zHigL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGXWJ2H-es Mochilas Antirrobo Ordenador 15.6 Pulgadas Adolescentes...'
 sku: 'B07BGXWJ2H-es'
 tags: [  ]

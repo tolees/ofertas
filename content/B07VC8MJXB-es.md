@@ -5,7 +5,7 @@ date: 2020-04-09 16:04:19
 image: 'https://m.media-amazon.com/images/I/417PPmsvJNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC8MJXB-es 32GB Grabadora de Voz Digital ADOKEY Grabadora Audio con...'
 sku: 'B07VC8MJXB-es'
 tags: [  ]

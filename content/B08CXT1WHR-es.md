@@ -5,7 +5,7 @@ date: 2020-09-10 13:24:01
 image: 'https://m.media-amazon.com/images/I/515TszzLZVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXT1WHR-es LK Funda para Xiaomi Redmi 9 Carcasa Cubierta Caucho Suave...'
 sku: 'B08CXT1WHR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 03:02:29
 image: 'https://m.media-amazon.com/images/I/31nXiEN12BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LANS7VO-es AUKEY Ratón Vertical 2 DPI ajustable Diseño ergonómico...'
 sku: 'B01LANS7VO-es'
 tags: [  ]

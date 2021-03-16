@@ -5,7 +5,7 @@ date: 2020-03-15 00:30:50
 image: 'https://m.media-amazon.com/images/I/41I6a9jp7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK24J9F-es NUTRE COLOR NIRVEL MORADO 200 ml.'
 sku: 'B07SK24J9F-es'
 tags: [  ]

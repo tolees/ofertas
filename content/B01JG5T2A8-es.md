@@ -5,7 +5,7 @@ date: 2020-09-28 11:31:13
 image: 'https://m.media-amazon.com/images/I/41-cFjzJMoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JG5T2A8-es Sisley Crema para el cuello la fórmula enriquecida - 50 ml'
 sku: 'B01JG5T2A8-es'
 tags: [  ]

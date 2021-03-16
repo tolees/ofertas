@@ -5,7 +5,7 @@ date: 2020-04-11 21:02:12
 image: 'https://m.media-amazon.com/images/I/41MLQ-rtxrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ2BZF7-es New Balance 997H Core Zapatillas para Hombre Gris Team...'
 sku: 'B07DJ2BZF7-es'
 tags: [  ]

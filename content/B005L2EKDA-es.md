@@ -5,7 +5,7 @@ date: 2020-04-29 11:56:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41acBRHv%2BtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005L2EKDA-es Sorel Caribou Botas de Invierno para Hombre Marrón Bruno...'
 sku: 'B005L2EKDA-es'
 tags: [  ]

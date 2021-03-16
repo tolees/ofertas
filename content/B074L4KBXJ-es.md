@@ -5,7 +5,7 @@ date: 2020-10-10 20:17:30
 image: 'https://m.media-amazon.com/images/I/51-xN+MeIcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074L4KBXJ-es Skechers Women 12615 Low-Top Trainers Blue Navy Mesh/Hot...'
 sku: 'B074L4KBXJ-es'
 tags: [  ]

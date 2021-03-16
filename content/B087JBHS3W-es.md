@@ -5,7 +5,7 @@ date: 2020-08-29 13:11:17
 image: 'https://m.media-amazon.com/images/I/51vSVaIrPRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JBHS3W-es ROOTOK Electroestimulador Muscular Abdominales USB...'
 sku: 'B087JBHS3W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-19 10:22:57
 image: 'https://m.media-amazon.com/images/I/41JxnMSQLAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BT2YJTW-es Piz Buin Tan & Protect Protector Solar en Spray Acelerador...'
 sku: 'B07BT2YJTW-es'
 tags: [  ]

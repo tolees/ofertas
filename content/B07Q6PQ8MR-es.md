@@ -5,7 +5,7 @@ date: 2020-05-31 19:37:15
 image: 'https://m.media-amazon.com/images/I/618DdOnpMAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q6PQ8MR-es Smoby Pelota 230 MM LOL 50079'
 sku: 'B07Q6PQ8MR-es'
 tags: [  ]

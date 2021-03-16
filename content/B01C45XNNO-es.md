@@ -5,7 +5,7 @@ date: 2020-02-05 16:29:13
 image: 'https://m.media-amazon.com/images/I/41norz5v4+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C45XNNO-es DIM Generous Sujetador Beige New Skin 90E para Mujer'
 sku: 'B01C45XNNO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-06 19:16:14
 image: 'https://m.media-amazon.com/images/I/41WYn1+XxKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D3J4Q4G-es Bosch TDA5024010 Sensixx x DA50 Plancha de vapor 2400 W...'
 sku: 'B00D3J4Q4G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-28 19:45:00
 image: 'https://m.media-amazon.com/images/I/415i0kwynFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071P3FRR5-es Mando a Distancia para Philips UHD LED TV 43PUH4900/88...'
 sku: 'B071P3FRR5-es'
 tags: [  ]

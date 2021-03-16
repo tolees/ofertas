@@ -5,7 +5,7 @@ date: 2020-02-16 18:07:08
 image: 'https://m.media-amazon.com/images/I/515OLFLaoGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWJ81CP-es INTEY Bandas de Ejercicios Conjunto de Bandas de Gimnasia...'
 sku: 'B07VWJ81CP-es'
 tags: [  ]

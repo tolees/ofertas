@@ -5,7 +5,7 @@ date: 2020-09-29 17:36:13
 image: 'https://m.media-amazon.com/images/I/51WOq-uXQjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLKBK2D-es TOP BRIGHT Juego de Pesca Magnético - Juguete Educativo...'
 sku: 'B08BLKBK2D-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-01 21:28:38
 image: 'https://m.media-amazon.com/images/I/31IE4+Um2iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPPWK8B-es Levi s XX Std II Khakis Beige True Chino Shady GD Ccu B...'
 sku: 'B07TPPWK8B-es'
 tags: [  ]

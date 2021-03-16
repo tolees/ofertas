@@ -5,7 +5,7 @@ date: 2020-01-14 11:45:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31yIOSRgZ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7Y4NM4-es O PRO9 USB-C Hub Opro9 concentrador Tipo C 10 en 1 con 3...'
 sku: 'B07Y7Y4NM4-es'
 tags: [  ]

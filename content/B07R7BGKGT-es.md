@@ -5,7 +5,7 @@ date: 2020-08-04 21:38:35
 image: 'https://m.media-amazon.com/images/I/31CrRpCeIeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7BGKGT-es CARE OF by PUMA Zapatillas para mujer Blanco White 42 EU'
 sku: 'B07R7BGKGT-es'
 tags: [  ]

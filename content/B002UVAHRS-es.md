@@ -5,7 +5,7 @@ date: 2020-07-09 22:21:56
 image: 'https://m.media-amazon.com/images/I/31umB-HidBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002UVAHRS-es Pipedream Basix Works Slim - Dildo Clásico Trasparente 20 cm'
 sku: 'B002UVAHRS-es'
 tags: [  ]

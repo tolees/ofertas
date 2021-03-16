@@ -5,7 +5,7 @@ date: 2020-01-17 20:38:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31EPSGohIJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RQ1ZNS-es Helly Hansen Crew Gorra Unisex Adulto Blanco Talla Única'
 sku: 'B073RQ1ZNS-es'
 tags: [  ]

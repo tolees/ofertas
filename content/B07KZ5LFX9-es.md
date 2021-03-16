@@ -5,7 +5,7 @@ date: 2020-09-09 09:23:50
 image: 'https://m.media-amazon.com/images/I/31IaEelKrNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZ5LFX9-es PBN - Proteína de suero de leche en polvo 2.27 kg sabor...'
 sku: 'B07KZ5LFX9-es'
 tags: [  ]

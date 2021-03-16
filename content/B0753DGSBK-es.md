@@ -5,7 +5,7 @@ date: 2020-02-16 18:26:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41u8QypTU%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0753DGSBK-es T-shirt Kappa Lucera'
 sku: 'B0753DGSBK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-29 12:25:09
 image: 'https://m.media-amazon.com/images/I/31sy1KL+wAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q7DETQU-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B00Q7DETQU-es'
 tags: [  ]

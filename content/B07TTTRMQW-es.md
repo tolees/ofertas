@@ -5,7 +5,7 @@ date: 2020-07-10 07:37:51
 image: 'https://m.media-amazon.com/images/I/41NeZmm7kiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTTRMQW-es Skechers Skech-Air Stratus Zapatillas para Hombre Gris...'
 sku: 'B07TTTRMQW-es'
 tags: [  ]

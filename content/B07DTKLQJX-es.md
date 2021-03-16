@@ -5,7 +5,7 @@ date: 2020-05-26 15:52:11
 image: 'https://m.media-amazon.com/images/I/4103J+OQjxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DTKLQJX-es GREENCUT GS400L - Motosierra de batería de litio 40V para...'
 sku: 'B07DTKLQJX-es'
 tags: [  ]

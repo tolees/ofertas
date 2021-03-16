@@ -5,7 +5,7 @@ date: 2020-06-24 05:58:34
 image: 'https://m.media-amazon.com/images/I/51MpoTmxqoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q13GY2J-es Under Armour UA Charged Intake 4 Zapatillas de Running...'
 sku: 'B07Q13GY2J-es'
 tags: [  ]

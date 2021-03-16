@@ -5,7 +5,7 @@ date: 2020-09-13 07:50:05
 image: 'https://m.media-amazon.com/images/I/412bUB-2MeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBZ2S9J-es Mr. Tronic 5m Cable de Red Ethernet Latiguillo | CAT5e...'
 sku: 'B07GBZ2S9J-es'
 tags: [  ]

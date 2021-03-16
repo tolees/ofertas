@@ -5,7 +5,7 @@ date: 2020-10-01 18:32:50
 image: 'https://m.media-amazon.com/images/I/41LhnhBTfXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0748PGNBX-es Bose SoundLink Micro Altavoz Inalámbrico Micro-USB Naranja'
 sku: 'B0748PGNBX-es'
 tags: [  ]

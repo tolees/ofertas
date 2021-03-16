@@ -5,7 +5,7 @@ date: 2020-08-29 04:10:30
 image: 'https://m.media-amazon.com/images/I/51kx0i6sw9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FLCZK27-es 18 piezas Mini Máquina de Coser Portátil Herramienta de...'
 sku: 'B08FLCZK27-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-15 21:23:33
 image: 'https://m.media-amazon.com/images/I/41Ya75427DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G77Y0UK-es KabelDirekt 1m Cable Micro USB USB 2.0 Conector USB A al...'
 sku: 'B01G77Y0UK-es'
 tags: [  ]

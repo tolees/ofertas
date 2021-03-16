@@ -5,7 +5,7 @@ date: 2020-01-19 23:37:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51qGVJVoUEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HYFKFOA-es Syndicate 58/6 - Scotch Whisky 700 ml'
 sku: 'B00HYFKFOA-es'
 tags: [  ]

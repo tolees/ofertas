@@ -5,7 +5,7 @@ date: 2020-06-15 17:02:14
 image: 'https://m.media-amazon.com/images/I/412eL4ZGmoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FD9K3FT-es Cortapelos para Hombres Juego de Recortador Eléctrico sin...'
 sku: 'B07FD9K3FT-es'
 tags: [  ]

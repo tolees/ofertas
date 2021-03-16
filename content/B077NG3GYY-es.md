@@ -5,7 +5,7 @@ date: 2020-02-12 11:56:06
 image: 'https://m.media-amazon.com/images/I/31wVIwMIPRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NG3GYY-es Maybelline New York - Superstay Matte Ink The Nudes Barra...'
 sku: 'B077NG3GYY-es'
 tags: [  ]

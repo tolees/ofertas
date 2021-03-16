@@ -5,7 +5,7 @@ date: 2020-01-24 13:10:30
 image: 'https://m.media-amazon.com/images/I/51hfxodJizL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TG8RQ96-es Syllable Hub USB Tipo C 10 en 1 Hub de Aluminio Tipo C con...'
 sku: 'B07TG8RQ96-es'
 tags: [  ]

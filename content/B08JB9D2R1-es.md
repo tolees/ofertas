@@ -5,7 +5,7 @@ date: 2020-09-21 06:01:27
 image: 'https://m.media-amazon.com/images/I/41i1u2YBxnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JB9D2R1-es DENGC Ratón inalámbrico para Juegos de 2.4G 4 Botones...'
 sku: 'B08JB9D2R1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 14:03:28
 image: 'https://m.media-amazon.com/images/I/41Rbro7lkoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003AQCBVW-es Birkenstock Boston 160583 - Zapatillas de casa de fieltro...'
 sku: 'B003AQCBVW-es'
 tags: [  ]

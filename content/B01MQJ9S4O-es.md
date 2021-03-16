@@ -5,7 +5,7 @@ date: 2020-01-20 16:02:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5185m5EhTHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQJ9S4O-es Haba 302347 Terra - Fútbol Infantil'
 sku: 'B01MQJ9S4O-es'
 tags: [  ]

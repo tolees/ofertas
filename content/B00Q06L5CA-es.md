@@ -5,7 +5,7 @@ date: 2020-01-26 12:51:08
 image: 'https://m.media-amazon.com/images/I/41XhRQwHjbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q06L5CA-es iB-iP Mujer Leopardo Estampados a Casuales Super Suave...'
 sku: 'B00Q06L5CA-es'
 tags: [  ]

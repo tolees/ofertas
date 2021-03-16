@@ -5,7 +5,7 @@ date: 2020-01-20 12:18:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31e3ZS6ZHaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FMQUAXO-es Dickies - Pantalones cortos para hombre Gris Charcoal Grey...'
 sku: 'B00FMQUAXO-es'
 tags: [  ]

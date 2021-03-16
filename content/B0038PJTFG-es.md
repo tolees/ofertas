@@ -5,7 +5,7 @@ date: 2020-04-14 02:47:18
 image: 'https://m.media-amazon.com/images/I/21SHRrPx0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0038PJTFG-es Universal 00057-76.161.26 Cuchilla de repuesto para...'
 sku: 'B0038PJTFG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-26 09:49:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gGqkkbQGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7PCNZY-es Asics Patriot 10 Zapatillas de Running para Mujer Negro...'
 sku: 'B07K7PCNZY-es'
 tags: [  ]

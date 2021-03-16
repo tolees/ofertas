@@ -5,7 +5,7 @@ date: 2020-06-23 16:27:38
 image: 'https://m.media-amazon.com/images/I/41l3qaESYzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OVSYUDU-es Camano 3003 Ca-Soft Sneaker 7 Paar Calcetines cortos...'
 sku: 'B00OVSYUDU-es'
 tags: [  ]

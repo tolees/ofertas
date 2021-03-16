@@ -5,7 +5,7 @@ date: 2020-04-14 23:28:52
 image: 'https://m.media-amazon.com/images/I/41iH1xUdKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHW9LN8-es Columbia Nikiski Botas Bajas para Mujer Verde Nori...'
 sku: 'B07JHW9LN8-es'
 tags: [  ]

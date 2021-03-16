@@ -5,7 +5,7 @@ date: 2020-05-15 09:43:35
 image: 'https://m.media-amazon.com/images/I/318A9ZSyKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZ2JSS6-es Samsonite Flux Spinner XL Maleta Expansible 81 cm 136 L...'
 sku: 'B06ZZ2JSS6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-01 14:02:38
 image: 'https://m.media-amazon.com/images/I/41GR+HSu2SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY8LL62-es Wrangler Sign Off Crew Error:# Gris Mid Grey Mel A37...'
 sku: 'B07FY8LL62-es'
 tags: [  ]

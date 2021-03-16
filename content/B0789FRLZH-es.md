@@ -5,7 +5,7 @@ date: 2020-01-10 11:00:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WNN%2BOQknL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0789FRLZH-es Reebok Dmxride Comfort 4.0 Zapatillas de Deporte para...'
 sku: 'B0789FRLZH-es'
 tags: [  ]

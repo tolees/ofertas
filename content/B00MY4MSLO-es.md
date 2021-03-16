@@ -5,7 +5,7 @@ date: 2020-02-28 14:23:44
 image: 'https://m.media-amazon.com/images/I/41BIAaOMhQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MY4MSLO-es Clarks Originals Boot Botas Desert para Mujer Beige Sand...'
 sku: 'B00MY4MSLO-es'
 tags: [  ]

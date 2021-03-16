@@ -5,7 +5,7 @@ date: 2020-09-25 16:31:04
 image: 'https://m.media-amazon.com/images/I/413e7k1cNzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6ZFFSL-es 52mm 58mm 2.0X Teleobjetivo para Nikon D90 D80 D700 D300...'
 sku: 'B07V6ZFFSL-es'
 tags: [  ]

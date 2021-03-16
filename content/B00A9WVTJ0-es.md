@@ -5,7 +5,7 @@ date: 2020-09-05 21:41:58
 image: 'https://m.media-amazon.com/images/I/41DzCf12EEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A9WVTJ0-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B00A9WVTJ0-es'
 tags: [  ]

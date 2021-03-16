@@ -5,7 +5,7 @@ date: 2020-01-17 18:24:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5178NkPkO%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BW8BCY-es Montse Interiors Juego de sábanas Estampado Rayas Flash...'
 sku: 'B077BW8BCY-es'
 tags: [  ]

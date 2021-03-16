@@ -5,7 +5,7 @@ date: 2020-04-01 13:13:25
 image: 'https://m.media-amazon.com/images/I/31Dg24e2frL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XVRLNS6-es Nike Benassi JDI Mules para Hombre Blanco...'
 sku: 'B06XVRLNS6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 13:34:05
 image: 'https://m.media-amazon.com/images/I/31JHahlSPUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GHRBIIW-es W7 Smokin - Paleta de sombras de ojos 15 6 g 12 colores'
 sku: 'B01GHRBIIW-es'
 tags: [  ]

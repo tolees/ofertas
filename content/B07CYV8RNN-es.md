@@ -5,7 +5,7 @@ date: 2020-05-15 16:34:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41321GUFtvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYV8RNN-es Skechers Flex Appeal 3.0-Endless Glamo Zapatillas para...'
 sku: 'B07CYV8RNN-es'
 tags: [  ]

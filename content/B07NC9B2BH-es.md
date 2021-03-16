@@ -5,7 +5,7 @@ date: 2020-01-27 02:30:51
 image: 'https://m.media-amazon.com/images/I/412bUB-2MeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC9B2BH-es Mr. Tronic 30m Cable de Red Ethernet Latiguillo | CAT5e...'
 sku: 'B07NC9B2BH-es'
 tags: [  ]

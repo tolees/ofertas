@@ -5,7 +5,7 @@ date: 2020-04-24 11:03:44
 image: 'https://m.media-amazon.com/images/I/31STpxWyY7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB97Z4M-es GLOGLOW 2pcs Tactical Helmet Headset Support Plastic +...'
 sku: 'B07GB97Z4M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-18 17:50:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B6McR1CCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJ4PRLQ-es Limxems Cargador Inalámbrico 10W Qi Wireless Carga Rápida...'
 sku: 'B07MJ4PRLQ-es'
 tags: [  ]

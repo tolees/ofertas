@@ -5,7 +5,7 @@ date: 2020-03-11 09:13:20
 image: 'https://m.media-amazon.com/images/I/31i-gMSPsdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9TZPQD-es Lacoste Court Slam 319 2 SMA Zapatillas para Hombre Blanco...'
 sku: 'B07L9TZPQD-es'
 tags: [  ]

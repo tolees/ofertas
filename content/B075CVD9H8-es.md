@@ -5,7 +5,7 @@ date: 2020-02-01 15:18:38
 image: 'https://m.media-amazon.com/images/I/51NCU5yv3lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075CVD9H8-es 50 Piezas Gomas de Pelo – ZWOOS Bandas del Pelo Cintas de...'
 sku: 'B075CVD9H8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-04 17:06:47
 image: 'https://m.media-amazon.com/images/I/319RSt0bNpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LE3NKPS-es Testosterol 250 - 30 caps by MEGABOL'
 sku: 'B01LE3NKPS-es'
 tags: [  ]

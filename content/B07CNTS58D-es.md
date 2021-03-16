@@ -5,7 +5,7 @@ date: 2020-04-22 19:33:57
 image: 'https://m.media-amazon.com/images/I/41LzOmuSCUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNTS58D-es Belkin F8J050bt04-BLK - Cable Micro-USB con Adaptador...'
 sku: 'B07CNTS58D-es'
 tags: [  ]

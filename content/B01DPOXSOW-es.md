@@ -5,7 +5,7 @@ date: 2020-08-05 07:21:57
 image: 'https://m.media-amazon.com/images/I/41m0sCCWe8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DPOXSOW-es ION Audio Max LP - Tocadiscos de vinilo de 3 Velocidades...'
 sku: 'B01DPOXSOW-es'
 tags: [  ]

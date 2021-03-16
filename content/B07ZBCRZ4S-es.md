@@ -5,7 +5,7 @@ date: 2020-06-04 11:37:50
 image: 'https://m.media-amazon.com/images/I/31hnDmGCcxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZBCRZ4S-es Suero de Retinol para Cara y Cuello con Retinol...'
 sku: 'B07ZBCRZ4S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 00:38:28
 image: 'https://m.media-amazon.com/images/I/512qCNyhtzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRQ64HH-es Kitchen Emperor Cuchillo de frutas cuchillo de cocina...'
 sku: 'B07HRQ64HH-es'
 tags: [  ]

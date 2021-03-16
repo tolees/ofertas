@@ -5,7 +5,7 @@ date: 2020-03-12 20:23:20
 image: 'https://m.media-amazon.com/images/I/41xJqfnmK4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KCHTM8C-es Maybelline Color Sensational Vivids 912 Electric Orange -...'
 sku: 'B00KCHTM8C-es'
 tags: [  ]

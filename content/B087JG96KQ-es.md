@@ -5,7 +5,7 @@ date: 2020-05-13 01:35:13
 image: 'https://m.media-amazon.com/images/I/51rUfwwxd6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JG96KQ-es Sawera Generador de Ozono portátil O3 Generador de Ozono...'
 sku: 'B087JG96KQ-es'
 tags: [  ]

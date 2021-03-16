@@ -5,7 +5,7 @@ date: 2020-05-07 20:28:08
 image: 'https://m.media-amazon.com/images/I/41xcN3ZPi0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FMD0CMU-es Jocca 5529 Freidora sin aceite 1500 W Acero inoxidable Plata'
 sku: 'B01FMD0CMU-es'
 tags: [  ]

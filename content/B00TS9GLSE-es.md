@@ -5,7 +5,7 @@ date: 2020-01-18 07:55:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XW2xwzjLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TS9GLSE-es Samyang F1112201101 - Objetivo fotográfico DSLR para Canon...'
 sku: 'B00TS9GLSE-es'
 tags: [  ]

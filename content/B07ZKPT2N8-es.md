@@ -5,7 +5,7 @@ date: 2020-03-03 13:32:59
 image: 'https://m.media-amazon.com/images/I/41ycD0Jd9WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKPT2N8-es Sycreek Almohadilla térmica Mascotas gatos y perros manta...'
 sku: 'B07ZKPT2N8-es'
 tags: [  ]

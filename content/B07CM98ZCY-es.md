@@ -5,7 +5,7 @@ date: 2020-03-02 08:32:40
 image: 'https://m.media-amazon.com/images/I/41FEr+k5mZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CM98ZCY-es Ultra Pro- Pokemon Ultra Ball Deck Box Color carbón 85457'
 sku: 'B07CM98ZCY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-15 11:53:41
 image: 'https://m.media-amazon.com/images/I/51ova6lRS7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TXDXF7-es memumi Funda para Samsung Galaxy S20 5G Case 0.3mm Ultra...'
 sku: 'B083TXDXF7-es'
 tags: [  ]

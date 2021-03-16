@@ -5,7 +5,7 @@ date: 2020-07-12 13:11:01
 image: 'https://m.media-amazon.com/images/I/51pcGm6H5aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BXBJNT-es En Tus Planes'
 sku: 'B082BXBJNT-es'
 tags: [  ]

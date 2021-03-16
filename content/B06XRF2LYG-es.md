@@ -5,7 +5,7 @@ date: 2020-07-10 01:21:45
 image: 'https://m.media-amazon.com/images/I/41Iz92oADzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRF2LYG-es Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B06XRF2LYG-es'
 tags: [  ]

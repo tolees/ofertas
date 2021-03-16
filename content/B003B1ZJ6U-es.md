@@ -5,7 +5,7 @@ date: 2020-05-22 23:01:11
 image: 'https://m.media-amazon.com/images/I/21jXxb+DwML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003B1ZJ6U-es Lacor 61940 - Botella biberón 400 ml color blanco'
 sku: 'B003B1ZJ6U-es'
 tags: [  ]

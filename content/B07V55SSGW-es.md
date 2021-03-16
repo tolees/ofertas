@@ -5,7 +5,7 @@ date: 2020-05-16 11:55:43
 image: 'https://m.media-amazon.com/images/I/31ae-7hUEVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V55SSGW-es Xnuoyo 10000mAh Mini Power Bank Diseño de Espejo Cargador...'
 sku: 'B07V55SSGW-es'
 tags: [  ]

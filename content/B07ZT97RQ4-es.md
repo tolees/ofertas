@@ -5,7 +5,7 @@ date: 2020-04-07 14:28:08
 image: 'https://m.media-amazon.com/images/I/319nZ9u67BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZT97RQ4-es Inclinómetro horizontal magnético del buscador digital de...'
 sku: 'B07ZT97RQ4-es'
 tags: [  ]

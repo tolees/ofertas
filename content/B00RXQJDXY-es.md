@@ -5,7 +5,7 @@ date: 2020-10-05 18:06:31
 image: 'https://m.media-amazon.com/images/I/41V29UAYntL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RXQJDXY-es Tristar RK-6117 - Arrocera Capacidad 0.6 litros Función...'
 sku: 'B00RXQJDXY-es'
 tags: [  ]

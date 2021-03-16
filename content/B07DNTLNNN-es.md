@@ -5,7 +5,7 @@ date: 2020-04-18 02:57:33
 image: 'https://m.media-amazon.com/images/I/41cUZaROV0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNTLNNN-es Dilwe 7 en 1 Kit Herramientas de Guitarra Mantenimiento de...'
 sku: 'B07DNTLNNN-es'
 tags: [  ]

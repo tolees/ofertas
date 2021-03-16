@@ -5,7 +5,7 @@ date: 2020-04-28 21:52:29
 image: 'https://m.media-amazon.com/images/I/41XGtU82QTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JLIS3P0-es Hugo Boss Orange 1513415 - Reloj de pulsera para hombre'
 sku: 'B01JLIS3P0-es'
 tags: [  ]

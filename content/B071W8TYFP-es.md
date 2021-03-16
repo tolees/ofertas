@@ -5,7 +5,7 @@ date: 2020-03-02 06:37:18
 image: 'https://m.media-amazon.com/images/I/41rlNmVi+aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071W8TYFP-es Belkin Classic Pro - Bolsa Messenger para Ordenador...'
 sku: 'B071W8TYFP-es'
 tags: [  ]

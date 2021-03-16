@@ -5,7 +5,7 @@ date: 2020-02-07 18:47:05
 image: 'https://m.media-amazon.com/images/I/51miBjfszXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WNZC8GS-es MEGALITH Relojes Hombre Relojes Grandes de Pulsera...'
 sku: 'B07WNZC8GS-es'
 tags: [  ]

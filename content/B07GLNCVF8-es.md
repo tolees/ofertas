@@ -5,7 +5,7 @@ date: 2020-01-01 09:00:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xSHOviVbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLNCVF8-es ASICS Lite-Show 7 Pulgada Pantalones Cortos para Correr - L'
 sku: 'B07GLNCVF8-es'
 tags: [  ]

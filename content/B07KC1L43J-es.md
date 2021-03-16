@@ -5,7 +5,7 @@ date: 2020-04-20 22:29:01
 image: 'https://m.media-amazon.com/images/I/51qip8SJ50L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KC1L43J-es Farmer Dynasty [Versión española]'
 sku: 'B07KC1L43J-es'
 tags: [  ]

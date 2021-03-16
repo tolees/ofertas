@@ -5,7 +5,7 @@ date: 2020-09-03 11:49:46
 image: 'https://m.media-amazon.com/images/I/41n7h8qsFpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XJP77KE-es NIVEA Desmaquillador de Ojos Doble Acción 1 x 125 ml...'
 sku: 'B00XJP77KE-es'
 tags: [  ]

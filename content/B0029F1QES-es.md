@@ -5,7 +5,7 @@ date: 2020-05-21 22:45:25
 image: 'https://m.media-amazon.com/images/I/31cWw-Vqx2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0029F1QES-es Leifheit Limpiacristales Professional limpiaventanas con...'
 sku: 'B0029F1QES-es'
 tags: [  ]

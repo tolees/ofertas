@@ -5,7 +5,7 @@ date: 2020-06-29 09:26:24
 image: 'https://m.media-amazon.com/images/I/310L7ysfaXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCCKLSS-es Tommee Tippee Doudou Gerry la Jirafa'
 sku: 'B07GCCKLSS-es'
 tags: [  ]

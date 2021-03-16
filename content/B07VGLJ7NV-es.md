@@ -5,7 +5,7 @@ date: 2020-08-10 23:47:00
 image: 'https://m.media-amazon.com/images/I/61d5n8QMrSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGLJ7NV-es Medi Grade Pulseras de Goma Repelentes de Mosquitos...'
 sku: 'B07VGLJ7NV-es'
 tags: [  ]

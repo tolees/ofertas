@@ -5,7 +5,7 @@ date: 2020-09-27 16:29:00
 image: 'https://m.media-amazon.com/images/I/5137eAc-zfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJXR3FJ-es TAILI Estante de baño Cesta para Ducha Almacenamiento...'
 sku: 'B07JJXR3FJ-es'
 tags: [  ]

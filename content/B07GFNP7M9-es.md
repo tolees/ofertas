@@ -5,7 +5,7 @@ date: 2020-09-30 22:20:27
 image: 'https://m.media-amazon.com/images/I/51VlYOPyvKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFNP7M9-es Sombras De Guerra Definitive Edition'
 sku: 'B07GFNP7M9-es'
 tags: [  ]

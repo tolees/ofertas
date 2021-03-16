@@ -5,7 +5,7 @@ date: 2020-08-25 08:10:09
 image: 'https://m.media-amazon.com/images/I/31mNNydC8aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQ2KW91-es Funko- Pop Disney: Frozen 2-The Water Nokk 6" Figura...'
 sku: 'B07QQ2KW91-es'
 tags: [  ]

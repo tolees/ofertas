@@ -5,7 +5,7 @@ date: 2020-06-01 09:51:00
 image: 'https://m.media-amazon.com/images/I/31dSI4AX-rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLP879N-es Clarks Un Costa Lace Zapatillas para Hombre Marrón British...'
 sku: 'B07TLP879N-es'
 tags: [  ]

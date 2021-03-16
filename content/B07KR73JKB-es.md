@@ -5,7 +5,7 @@ date: 2020-01-25 07:20:46
 image: 'https://m.media-amazon.com/images/I/41EcX7ZLyKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR73JKB-es Under Armour Unstoppable Move Lightjogger Pantalones...'
 sku: 'B07KR73JKB-es'
 tags: [  ]

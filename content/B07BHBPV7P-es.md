@@ -5,7 +5,7 @@ date: 2020-08-12 16:05:55
 image: 'https://m.media-amazon.com/images/I/51+pXG8zIgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHBPV7P-es Kipling Gabbie S Bolsos Bandolera para Mujer Rojo Lively...'
 sku: 'B07BHBPV7P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2019-12-31 17:06:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51lDu9p48KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFHB1B8-es Kit de 48 Tubos de Pintura Acrílica 12mL - Pinturas...'
 sku: 'B07PFHB1B8-es'
 tags: [  ]

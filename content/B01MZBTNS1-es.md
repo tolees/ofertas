@@ -5,7 +5,7 @@ date: 2020-06-15 20:46:55
 image: 'https://m.media-amazon.com/images/I/510KFhuN3bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZBTNS1-es 45L de Alta Capacidad Resistente al Agua de Viaje al Aire...'
 sku: 'B01MZBTNS1-es'
 tags: [  ]

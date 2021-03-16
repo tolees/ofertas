@@ -5,7 +5,7 @@ date: 2020-01-18 19:39:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4127Hg2oKrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y6GGVRM-es Einhell 2270075 Medidor Laser TC-LD 25 Rango de Trabajo:...'
 sku: 'B06Y6GGVRM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-01 10:04:53
 image: 'https://m.media-amazon.com/images/I/41KqtpkPO-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5MLJL2-es Triple Magnesium Complex Citrato de magnesio completamente...'
 sku: 'B07H5MLJL2-es'
 tags: [  ]

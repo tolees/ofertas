@@ -5,7 +5,7 @@ date: 2020-04-04 05:20:16
 image: 'https://m.media-amazon.com/images/I/31DJXb9sJTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N43ONKA-es Tibhar Tischtennisschläger Powercarbon XT neu rojo'
 sku: 'B01N43ONKA-es'
 tags: [  ]

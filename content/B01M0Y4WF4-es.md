@@ -5,7 +5,7 @@ date: 2020-03-31 05:27:15
 image: 'https://m.media-amazon.com/images/I/41H3tI+swxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0Y4WF4-es 50 PCS 20 mm Abalorios de madera Natural redonda sin...'
 sku: 'B01M0Y4WF4-es'
 tags: [  ]

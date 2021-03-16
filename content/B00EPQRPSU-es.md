@@ -5,7 +5,7 @@ date: 2020-09-12 19:01:50
 image: 'https://m.media-amazon.com/images/I/51J-w0aNbTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EPQRPSU-es Nixon Reloj Analógico de Cuarzo para Hombre con Correa de...'
 sku: 'B00EPQRPSU-es'
 tags: [  ]

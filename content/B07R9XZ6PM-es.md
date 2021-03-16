@@ -5,7 +5,7 @@ date: 2020-04-14 11:01:48
 image: 'https://m.media-amazon.com/images/I/41cG2CudP6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9XZ6PM-es laamei Mosquitera Bebé Antiinsectos Universal Mosquitera...'
 sku: 'B07R9XZ6PM-es'
 tags: [  ]

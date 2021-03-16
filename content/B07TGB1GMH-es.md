@@ -5,7 +5,7 @@ date: 2020-01-22 18:07:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hrUoYKwPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TGB1GMH-es Limpiador de Poros y Puntos Negros - Microdermoabrasion -...'
 sku: 'B07TGB1GMH-es'
 tags: [  ]

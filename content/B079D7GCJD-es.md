@@ -5,7 +5,7 @@ date: 2020-01-13 14:37:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ydJTVZJQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079D7GCJD-es s.Oliver Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B079D7GCJD-es'
 tags: [  ]

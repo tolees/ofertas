@@ -5,7 +5,7 @@ date: 2020-08-03 23:16:21
 image: 'https://m.media-amazon.com/images/I/41zFXeHHsqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GVS4H6C-es KLARSTEIN Biggie Digital - Conservadora Olla eléctrica...'
 sku: 'B01GVS4H6C-es'
 tags: [  ]

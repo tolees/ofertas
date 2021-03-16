@@ -5,7 +5,7 @@ date: 2020-06-26 17:46:54
 image: 'https://m.media-amazon.com/images/I/51cp-bbXOcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ENRAQUO-es Safta Maletín Minions Oficial Para Ordenador 380x60x280mm'
 sku: 'B01ENRAQUO-es'
 tags: [  ]

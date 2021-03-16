@@ -5,7 +5,7 @@ date: 2020-01-08 18:14:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31GEq-f26ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKLQQRW-es Joma Marsella Camisetas Equip. M/c Hombre Blanco 2XL'
 sku: 'B07FKLQQRW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-30 11:23:09
 image: 'https://m.media-amazon.com/images/I/21GX6Kzo0CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P10DGJG-es Carolina Herrera 212 Femme Perfume - 150 ml'
 sku: 'B00P10DGJG-es'
 tags: [  ]

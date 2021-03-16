@@ -5,7 +5,7 @@ date: 2020-09-29 07:59:01
 image: 'https://m.media-amazon.com/images/I/51KQwlgO0tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071X9DZY1-es Palette Intense Cream Coloration Intensive Coloración del...'
 sku: 'B071X9DZY1-es'
 tags: [  ]

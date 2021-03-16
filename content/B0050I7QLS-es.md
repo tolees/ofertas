@@ -5,7 +5,7 @@ date: 2020-07-25 17:38:51
 image: 'https://m.media-amazon.com/images/I/418DdrFFHHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0050I7QLS-es Skechers Diameter Vassell Diameter Vassell - Zapatillas de...'
 sku: 'B0050I7QLS-es'
 tags: [  ]

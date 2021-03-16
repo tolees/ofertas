@@ -5,7 +5,7 @@ date: 2020-03-14 21:30:19
 image: 'https://m.media-amazon.com/images/I/31wcrf0M-wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085KY6TZP-es Máscara ffp2 Máscara para Exteriores Máscara...'
 sku: 'B085KY6TZP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-06 21:43:14
 image: 'https://m.media-amazon.com/images/I/41EBKiHzDpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5WW8L0-es Philips Avent SCF169/27 - Set de 2 chupetes Gama Safari de...'
 sku: 'B01N5WW8L0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-21 11:07:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51N-kyWuAtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SBC9K8-es L CARNITINA Liquida 3000 mg.Suplemento Deportivo...'
 sku: 'B078SBC9K8-es'
 tags: [  ]

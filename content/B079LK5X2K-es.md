@@ -5,7 +5,7 @@ date: 2020-02-02 18:53:43
 image: 'https://m.media-amazon.com/images/I/51VO4NtcG9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079LK5X2K-es Dunlop FLASH PRO - Pala de pádel 38mm 2018 nivel...'
 sku: 'B079LK5X2K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-23 22:45:24
 image: 'https://m.media-amazon.com/images/I/41GVmitqmuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006FEW1TI-es Tayg - Estante con clasificador apilable 9 cajones'
 sku: 'B006FEW1TI-es'
 tags: [  ]

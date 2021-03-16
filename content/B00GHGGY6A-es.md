@@ -5,7 +5,7 @@ date: 2020-03-07 21:55:53
 image: 'https://m.media-amazon.com/images/I/31Ph5sypFHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GHGGY6A-es Gardena THS Li-18/42 Tijeras Cortasetos Incluye batería y...'
 sku: 'B00GHGGY6A-es'
 tags: [  ]

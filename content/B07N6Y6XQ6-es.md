@@ -5,7 +5,7 @@ date: 2020-03-13 23:25:05
 image: 'https://m.media-amazon.com/images/I/31DkhrV29UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6Y6XQ6-es Tommy Hilfiger Casual Leather Boot Botas Clasicas para...'
 sku: 'B07N6Y6XQ6-es'
 tags: [  ]

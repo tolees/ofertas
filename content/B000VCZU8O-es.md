@@ -5,7 +5,7 @@ date: 2020-01-23 10:42:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zLQBDk18L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VCZU8O-es Stanley 1-51-937 Martillo de carpintero'
 sku: 'B000VCZU8O-es'
 tags: [  ]

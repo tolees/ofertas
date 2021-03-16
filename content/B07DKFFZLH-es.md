@@ -5,7 +5,7 @@ date: 2020-02-08 18:57:15
 image: 'https://m.media-amazon.com/images/I/41bAspz+SIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKFFZLH-es Kipling - Multiple Shoppers y bolsos de hombro Mujer Gris...'
 sku: 'B07DKFFZLH-es'
 tags: [  ]

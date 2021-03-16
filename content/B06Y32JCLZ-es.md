@@ -5,7 +5,7 @@ date: 2020-04-18 02:31:12
 image: 'https://m.media-amazon.com/images/I/41gPYKVU72L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y32JCLZ-es Arvok 15 6 Pulgadas Funda Protectora para...'
 sku: 'B06Y32JCLZ-es'
 tags: [  ]

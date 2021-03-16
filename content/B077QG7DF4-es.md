@@ -5,7 +5,7 @@ date: 2020-06-24 20:41:48
 image: 'https://m.media-amazon.com/images/I/41bVSPJVUvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QG7DF4-es Superga 2750-cotbumpstrapj Zapatillas de Gimnasia Unisex...'
 sku: 'B077QG7DF4-es'
 tags: [  ]

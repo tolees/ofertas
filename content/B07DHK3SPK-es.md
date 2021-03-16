@@ -5,7 +5,7 @@ date: 2020-04-16 18:46:14
 image: 'https://m.media-amazon.com/images/I/41DIFcjvkmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHK3SPK-es Desconocido Nike Swoosh Headband Cinta para la Cabeza...'
 sku: 'B07DHK3SPK-es'
 tags: [  ]

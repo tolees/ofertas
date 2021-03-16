@@ -5,7 +5,7 @@ date: 2020-02-20 16:40:41
 image: 'https://m.media-amazon.com/images/I/51mSkomD6dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2RPNH0-es Gigandet Minimalism Reloj Caballero Dual Time Watch...'
 sku: 'B01N2RPNH0-es'
 tags: [  ]

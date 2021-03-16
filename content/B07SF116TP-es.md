@@ -5,7 +5,7 @@ date: 2020-06-24 10:15:19
 image: 'https://m.media-amazon.com/images/I/41dTV3XCC+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SF116TP-es PUMA ST Runner V2 NL JR Zapatillas Unisex niños Rosa...'
 sku: 'B07SF116TP-es'
 tags: [  ]

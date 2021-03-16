@@ -5,7 +5,7 @@ date: 2020-08-25 10:22:16
 image: 'https://m.media-amazon.com/images/I/41ubbdE-xaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VSYK2T-es Schwarzkopf Palette Intense Coloración Permanente Tono 3...'
 sku: 'B082VSYK2T-es'
 tags: [  ]

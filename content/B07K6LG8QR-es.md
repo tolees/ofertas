@@ -5,7 +5,7 @@ date: 2020-01-26 04:35:34
 image: 'https://m.media-amazon.com/images/I/41EybGHr-QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6LG8QR-es Asics Gel-Nimbus 21 1011a169-001 Zapatillas de...'
 sku: 'B07K6LG8QR-es'
 tags: [  ]

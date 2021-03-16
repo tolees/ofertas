@@ -5,7 +5,7 @@ date: 2020-03-16 12:03:46
 image: 'https://m.media-amazon.com/images/I/41FRwCL293L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Z92KTA-es Solgar 40+ Acidophilus Avanzado Probiótico para el...'
 sku: 'B000Z92KTA-es'
 tags: [  ]

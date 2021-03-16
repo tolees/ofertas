@@ -5,7 +5,7 @@ date: 2020-01-15 19:53:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51cOMxcgpWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QJF7FWG-es Sorel Newbie Botas para Mujer Marrón Silver Sage 103 37.5 EU'
 sku: 'B00QJF7FWG-es'
 tags: [  ]

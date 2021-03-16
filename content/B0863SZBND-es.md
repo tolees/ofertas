@@ -5,7 +5,7 @@ date: 2020-08-12 13:10:37
 image: 'https://m.media-amazon.com/images/I/41iWXrZHtkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0863SZBND-es Suhctup Transparente Funda Compatible con Huawei Honor 6X...'
 sku: 'B0863SZBND-es'
 tags: [  ]

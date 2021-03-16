@@ -5,7 +5,7 @@ date: 2020-06-08 15:55:44
 image: 'https://m.media-amazon.com/images/I/31Zakgt9DCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FZLHNF-es Alpinestar Eternal Polo de Manga Corta con Logo de Goma en...'
 sku: 'B075FZLHNF-es'
 tags: [  ]

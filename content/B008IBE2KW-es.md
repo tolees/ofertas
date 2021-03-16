@@ -5,7 +5,7 @@ date: 2020-04-28 08:26:15
 image: 'https://m.media-amazon.com/images/I/31Xk-fUI0vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008IBE2KW-es Woxter UPS 800 VA - Sistema SAI de alimentación...'
 sku: 'B008IBE2KW-es'
 tags: [  ]

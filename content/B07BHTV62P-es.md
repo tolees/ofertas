@@ -5,7 +5,7 @@ date: 2020-04-29 16:35:22
 image: 'https://m.media-amazon.com/images/I/41cWno-pTHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHTV62P-es Mr Wonderful Funda Portátil/PC 13.3" Pulgadas - con Diseño...'
 sku: 'B07BHTV62P-es'
 tags: [  ]

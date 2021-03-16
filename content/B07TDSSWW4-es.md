@@ -5,7 +5,7 @@ date: 2020-02-09 19:15:52
 image: 'https://m.media-amazon.com/images/I/51eJTO6SFQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDSSWW4-es Finocam - Agenda 2020 Semana Vista Apaisada Espiral You...'
 sku: 'B07TDSSWW4-es'
 tags: [  ]

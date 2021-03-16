@@ -5,7 +5,7 @@ date: 2020-10-02 07:29:41
 image: 'https://m.media-amazon.com/images/I/51alSFQNXzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018LNR2XK-es Brazalete Deportivo para Correr Prueba de Sudor Apoyo...'
 sku: 'B018LNR2XK-es'
 tags: [  ]

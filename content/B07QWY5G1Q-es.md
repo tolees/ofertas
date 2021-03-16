@@ -5,7 +5,7 @@ date: 2020-01-12 18:04:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3180Lui-jJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWY5G1Q-es WMF Steak Profi Sartén Profesional de inducción...'
 sku: 'B07QWY5G1Q-es'
 tags: [  ]

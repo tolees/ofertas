@@ -5,7 +5,7 @@ date: 2020-02-02 10:57:48
 image: 'https://m.media-amazon.com/images/I/51TQuI6OiQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T592HGM-es SGILE 1:20 CocheTeledirigido Monstruo RC Rápido 4WD 26km/h...'
 sku: 'B07T592HGM-es'
 tags: [  ]

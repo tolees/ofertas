@@ -5,7 +5,7 @@ date: 2020-09-02 20:05:29
 image: 'https://m.media-amazon.com/images/I/418sDRBgMHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKQT5RC-es Daniel Wellington 0106DW Reloj Analógico para Hombre de...'
 sku: 'B00BKQT5RC-es'
 tags: [  ]

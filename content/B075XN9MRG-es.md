@@ -5,7 +5,7 @@ date: 2020-05-09 19:15:34
 image: 'https://m.media-amazon.com/images/I/41+L+5yIfrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XN9MRG-es Kenwood FDM301 Procesador de Alimentos 800 W 2.1 litros...'
 sku: 'B075XN9MRG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 20:19:23
 image: 'https://m.media-amazon.com/images/I/515IrlANdrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2M37NT-es FIFA 19 - Steelbook Standard Edition import allemand - Ne...'
 sku: 'B07G2M37NT-es'
 tags: [  ]

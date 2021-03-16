@@ -5,7 +5,7 @@ date: 2020-10-03 18:01:54
 image: 'https://m.media-amazon.com/images/I/41oMYMFxpYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JV7RKQK-es Figura Pop FORTNITE: Dark Voyager'
 sku: 'B07JV7RKQK-es'
 tags: [  ]

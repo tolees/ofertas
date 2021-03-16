@@ -5,7 +5,7 @@ date: 2020-08-17 00:28:34
 image: 'https://m.media-amazon.com/images/I/41K4x6iYE3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGBYSVN-es PUTORSEN® Pesado Soporte de Escritorio para Monitor de Las...'
 sku: 'B07QGBYSVN-es'
 tags: [  ]

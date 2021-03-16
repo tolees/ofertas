@@ -5,7 +5,7 @@ date: 2020-08-21 20:52:06
 image: 'https://m.media-amazon.com/images/I/41EH+GSmchL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGT8PZ7-es Decodificador TDT Terrestre - Leelbox Digital TV HD...'
 sku: 'B07LGT8PZ7-es'
 tags: [  ]

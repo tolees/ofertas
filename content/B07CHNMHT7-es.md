@@ -5,7 +5,7 @@ date: 2020-03-06 13:03:14
 image: 'https://m.media-amazon.com/images/I/31UBVrf8BSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHNMHT7-es Mr. Wonderful WOA09177ES - Set de 2 libretas para mentes...'
 sku: 'B07CHNMHT7-es'
 tags: [  ]

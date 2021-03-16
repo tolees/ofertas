@@ -5,7 +5,7 @@ date: 2020-06-28 09:27:45
 image: 'https://m.media-amazon.com/images/I/41OpPvZFjdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008BT1GBE-es Philips 12258LLECOS2 LongLife EcoVision - Bombillas para...'
 sku: 'B008BT1GBE-es'
 tags: [  ]

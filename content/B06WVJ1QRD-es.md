@@ -5,7 +5,7 @@ date: 2020-06-06 17:47:00
 image: 'https://m.media-amazon.com/images/I/4174RxBN9DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVJ1QRD-es Safety 1st Travel Booster Trona de viaje portátil Asiento...'
 sku: 'B06WVJ1QRD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-12 19:46:02
 image: 'https://m.media-amazon.com/images/I/31aZpwd5N7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BVKRR7-es Zeen Paper Xuan - Papel de arroz 35 x 25 cm 30 hojas color...'
 sku: 'B088BVKRR7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-10 00:01:24
 image: 'https://m.media-amazon.com/images/I/31o01jxWzuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004V0ZFQE-es FISCHER 087490 - Brida UBN 2 5x200 negra Envase de 100 ud.'
 sku: 'B004V0ZFQE-es'
 tags: [  ]

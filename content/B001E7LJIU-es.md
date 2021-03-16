@@ -5,7 +5,7 @@ date: 2020-06-02 08:02:31
 image: 'https://m.media-amazon.com/images/I/41VTsyCQcSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001E7LJIU-es BAUSCH + LOMB - SofLens® Daily Disposable - Lentes de...'
 sku: 'B001E7LJIU-es'
 tags: [  ]

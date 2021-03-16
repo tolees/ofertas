@@ -5,7 +5,7 @@ date: 2020-02-18 14:48:07
 image: 'https://m.media-amazon.com/images/I/41svd-VjPjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M2WDJR4-es Luceco lfs6b130 de la UE a + Foco LED aluminio 8 Watts...'
 sku: 'B01M2WDJR4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-16 09:41:51
 image: 'https://m.media-amazon.com/images/I/31hc1lVXipL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZFMN2-es PUMA King Pro FG Zapatillas de fútbol Unisex Adulto Negro...'
 sku: 'B07KFZFMN2-es'
 tags: [  ]

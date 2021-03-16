@@ -5,7 +5,7 @@ date: 2020-06-06 00:44:56
 image: 'https://m.media-amazon.com/images/I/419pxMszlYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FMG7KP-es Funria m-312 - Exprimidor manual de limón exprimidor de...'
 sku: 'B075FMG7KP-es'
 tags: [  ]

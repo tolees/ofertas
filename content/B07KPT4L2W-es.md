@@ -5,7 +5,7 @@ date: 2020-08-24 19:22:30
 image: 'https://m.media-amazon.com/images/I/41ilCW9uwoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPT4L2W-es LAST LEVEL- Funko Pack Figura Pop Warhammer 40K: Space...'
 sku: 'B07KPT4L2W-es'
 tags: [  ]

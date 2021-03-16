@@ -5,7 +5,7 @@ date: 2020-04-14 16:35:00
 image: 'https://m.media-amazon.com/images/I/51h9Fo9WspL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HC3B6Q-es ART VVIES Holz gerahmt mit Haken Raum für...'
 sku: 'B082HC3B6Q-es'
 tags: [  ]

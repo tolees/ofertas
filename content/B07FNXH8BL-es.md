@@ -5,7 +5,7 @@ date: 2020-08-29 11:52:27
 image: 'https://m.media-amazon.com/images/I/51SbgFvjLWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNXH8BL-es Pack de 2 x Bloc de Dibujo Profesional A4 9”x12” con...'
 sku: 'B07FNXH8BL-es'
 tags: [  ]

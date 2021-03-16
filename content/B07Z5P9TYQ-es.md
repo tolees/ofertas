@@ -5,7 +5,7 @@ date: 2020-04-17 00:32:12
 image: 'https://m.media-amazon.com/images/I/31jlGdTtnXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5P9TYQ-es Mumusuki conservante Cobre Puro PU Er Aguja de té PU Erh...'
 sku: 'B07Z5P9TYQ-es'
 tags: [  ]

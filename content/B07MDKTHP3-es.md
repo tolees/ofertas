@@ -5,7 +5,7 @@ date: 2020-05-31 13:58:06
 image: 'https://m.media-amazon.com/images/I/51SYpNQY-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDKTHP3-es Michael Kors Reloj Mujer de Digital con Correa en Silicona...'
 sku: 'B07MDKTHP3-es'
 tags: [  ]

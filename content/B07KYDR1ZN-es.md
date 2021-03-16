@@ -5,7 +5,7 @@ date: 2020-07-22 14:24:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MXu9A8SGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYDR1ZN-es JASHKE Traje Inflable alienígena Mascota Cosplay Disfraces...'
 sku: 'B07KYDR1ZN-es'
 tags: [  ]

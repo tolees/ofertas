@@ -5,7 +5,7 @@ date: 2020-04-10 08:30:23
 image: 'https://m.media-amazon.com/images/I/51A56jO31dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KO6JC08-es Vileda VR 101 - Robot aspirador y escoba para suelos duros...'
 sku: 'B01KO6JC08-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-23 16:24:53
 image: 'https://m.media-amazon.com/images/I/41kPghP7M7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O32UCIQ-es Bourjois Velvet Barra de Labios Líquida Tono 09 Happy Nude...'
 sku: 'B00O32UCIQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 01:01:16
 image: 'https://m.media-amazon.com/images/I/51RIytkSF8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HDZKWMT-es Tira LED 2.2 m Tiray Ledy Tiras LED Impermeable Tira de...'
 sku: 'B07HDZKWMT-es'
 tags: [  ]

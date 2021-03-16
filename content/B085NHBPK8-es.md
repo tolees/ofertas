@@ -5,7 +5,7 @@ date: 2020-04-21 17:03:06
 image: 'https://m.media-amazon.com/images/I/513snjamVbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085NHBPK8-es LEADSTAR Toalla Facial Infantil Muselinas Bebe Algodon...'
 sku: 'B085NHBPK8-es'
 tags: [  ]

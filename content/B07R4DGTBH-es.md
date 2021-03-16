@@ -5,7 +5,7 @@ date: 2020-05-24 18:12:00
 image: 'https://m.media-amazon.com/images/I/41mBUIHhPTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4DGTBH-es Alacrity 9203 Handsfree 2D 1D escáner de código de barras...'
 sku: 'B07R4DGTBH-es'
 tags: [  ]

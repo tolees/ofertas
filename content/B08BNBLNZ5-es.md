@@ -5,7 +5,7 @@ date: 2020-08-25 03:47:04
 image: 'https://m.media-amazon.com/images/I/41lNHeFrcZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNBLNZ5-es MIFU Mini Máquinas de coser Portátil Herramienta de...'
 sku: 'B08BNBLNZ5-es'
 tags: [  ]

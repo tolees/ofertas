@@ -5,7 +5,7 @@ date: 2020-07-25 17:21:56
 image: 'https://m.media-amazon.com/images/I/4120tqHtlGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O276UQK-es Creaciones Arppe. S. A. 2910019100 Champú Insectifugo 1 L'
 sku: 'B00O276UQK-es'
 tags: [  ]

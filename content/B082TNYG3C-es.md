@@ -5,7 +5,7 @@ date: 2020-04-23 20:06:29
 image: 'https://m.media-amazon.com/images/I/41+vPxvDeVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082TNYG3C-es Aspiradora inalámbrica 150 W 13 kPa potente aspiradora con...'
 sku: 'B082TNYG3C-es'
 tags: [  ]

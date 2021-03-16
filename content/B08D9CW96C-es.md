@@ -5,7 +5,7 @@ date: 2020-07-28 07:31:23
 image: 'https://m.media-amazon.com/images/I/41fB6HG3EaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D9CW96C-es MrTom Niños 𝐌𝐚𝐬𝐜𝐚𝐫𝐢𝐥𝐥𝐚𝐬 Desechables de Filtro de 3 Capas...'
 sku: 'B08D9CW96C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-27 19:01:50
 image: 'https://m.media-amazon.com/images/I/51b4pvkUbEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAII81W-es Camomila Intea Loción Cubrevello - 100 ml'
 sku: 'B00XAII81W-es'
 tags: [  ]

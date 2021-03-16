@@ -5,7 +5,7 @@ date: 2020-01-23 09:16:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LfzSGqmbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6FSMZX-es Ortho Care S Fitness - Entrenamiento en...'
 sku: 'B07K6FSMZX-es'
 tags: [  ]

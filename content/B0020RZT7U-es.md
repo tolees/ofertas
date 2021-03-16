@@ -5,7 +5,7 @@ date: 2020-09-11 09:25:39
 image: 'https://m.media-amazon.com/images/I/41J73Y5y6zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0020RZT7U-es Bosch Professional 061123A000 Martillo perforador peso de...'
 sku: 'B0020RZT7U-es'
 tags: [  ]

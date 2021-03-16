@@ -5,7 +5,7 @@ date: 2020-08-20 07:57:57
 image: 'https://m.media-amazon.com/images/I/51JvEBH3MyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCN6PFM-es Bolsa de viaje Pepe Jeans Raw para Hombre'
 sku: 'B07NCN6PFM-es'
 tags: [  ]

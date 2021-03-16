@@ -5,7 +5,7 @@ date: 2020-07-14 20:22:34
 image: 'https://m.media-amazon.com/images/I/311o84G2izL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCL4BCJ-es Wand Vi-brador para Mu-jeres Wysgvazgv Pun-to G Ma-...'
 sku: 'B07MCL4BCJ-es'
 tags: [  ]

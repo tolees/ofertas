@@ -5,7 +5,7 @@ date: 2020-04-18 03:25:06
 image: 'https://m.media-amazon.com/images/I/41y3BTvMq-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYLQRF8-es KFD 65W Cargador Adaptador de Corriente para Intel Nuc Kit...'
 sku: 'B07RYLQRF8-es'
 tags: [  ]

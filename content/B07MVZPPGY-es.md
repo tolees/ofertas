@@ -5,7 +5,7 @@ date: 2020-02-02 16:29:59
 image: 'https://m.media-amazon.com/images/I/41uTGFQrjRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVZPPGY-es Reebok Forever FLOATRIDE Energy Zapatillas de Trail...'
 sku: 'B07MVZPPGY-es'
 tags: [  ]

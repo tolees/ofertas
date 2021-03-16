@@ -5,7 +5,7 @@ date: 2020-01-30 20:38:46
 image: 'https://m.media-amazon.com/images/I/31RAUtoz7GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQMJ2GN-es FITTOO Pantalones De Yoga Sueltos Cintura Alta Mujer...'
 sku: 'B07FQMJ2GN-es'
 tags: [  ]

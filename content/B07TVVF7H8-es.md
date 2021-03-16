@@ -5,7 +5,7 @@ date: 2020-08-11 14:52:53
 image: 'https://m.media-amazon.com/images/I/41Z0ZZankmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVVF7H8-es Skechers Equalizer 4.0 Zapatillas sin Cordones para Hombre...'
 sku: 'B07TVVF7H8-es'
 tags: [  ]

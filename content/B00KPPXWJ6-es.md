@@ -5,7 +5,7 @@ date: 2020-04-17 16:32:51
 image: 'https://m.media-amazon.com/images/I/31esnBFog2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KPPXWJ6-es MAKITA DTL061Z Herramienta 18 V'
 sku: 'B00KPPXWJ6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-12 15:18:45
 image: 'https://m.media-amazon.com/images/I/31wEYwo8UWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4Q1GJK-es Eastpak Traf Ik Light L Maleta 85 cm 101 L Negro'
 sku: 'B07B4Q1GJK-es'
 tags: [  ]

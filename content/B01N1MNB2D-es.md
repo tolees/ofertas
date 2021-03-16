@@ -5,7 +5,7 @@ date: 2020-03-27 21:14:57
 image: 'https://m.media-amazon.com/images/I/51Bt1+gWZ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1MNB2D-es Twozies - Pack Siempre Uni-Dos con 6 Babies y 6 Mascotas...'
 sku: 'B01N1MNB2D-es'
 tags: [  ]

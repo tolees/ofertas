@@ -5,7 +5,7 @@ date: 2020-09-12 05:01:07
 image: 'https://m.media-amazon.com/images/I/41Wr5GSAYKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792QH1RM-es adidas V Racer 2.0 Zapatillas de Running para Hombre Negro...'
 sku: 'B0792QH1RM-es'
 tags: [  ]

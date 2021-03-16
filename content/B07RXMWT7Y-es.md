@@ -5,7 +5,7 @@ date: 2020-02-25 08:03:59
 image: 'https://m.media-amazon.com/images/I/41XixJ1BP0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXMWT7Y-es Hapilife 360 Grifo de Cocina Grifo Mezclador Grifo de...'
 sku: 'B07RXMWT7Y-es'
 tags: [  ]

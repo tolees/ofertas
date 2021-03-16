@@ -5,7 +5,7 @@ date: 2020-10-08 17:24:32
 image: 'https://m.media-amazon.com/images/I/41xR18TKOQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086F9VLGZ-es Marvel LOKI-Carpeta Anillas'
 sku: 'B086F9VLGZ-es'
 tags: [  ]

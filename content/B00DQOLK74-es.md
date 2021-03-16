@@ -5,7 +5,7 @@ date: 2020-09-30 10:08:37
 image: 'https://m.media-amazon.com/images/I/310sWDNuX7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DQOLK74-es Sloggi Sloggi Basic Long - Braguita para mujer color skin...'
 sku: 'B00DQOLK74-es'
 tags: [  ]

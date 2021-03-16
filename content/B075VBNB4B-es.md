@@ -5,7 +5,7 @@ date: 2020-08-14 08:38:51
 image: 'https://m.media-amazon.com/images/I/31RfiOHs6VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075VBNB4B-es Filomatic Filo2 Maquinilla de Afeitar - 30 Unidades'
 sku: 'B075VBNB4B-es'
 tags: [  ]

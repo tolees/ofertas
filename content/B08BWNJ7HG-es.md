@@ -5,7 +5,7 @@ date: 2020-07-29 04:49:45
 image: 'https://m.media-amazon.com/images/I/4162XUQLHlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BWNJ7HG-es Set Pulidor de uñas eléctrico Rowenta MP2016F1 + Rowenta...'
 sku: 'B08BWNJ7HG-es'
 tags: [  ]

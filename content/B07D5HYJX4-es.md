@@ -5,7 +5,7 @@ date: 2020-07-06 09:51:12
 image: 'https://m.media-amazon.com/images/I/41ekdU8xidL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5HYJX4-es Adidas Duramo 9 Zapatillas de Entrenamiento para Hombre...'
 sku: 'B07D5HYJX4-es'
 tags: [  ]

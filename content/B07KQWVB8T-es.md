@@ -5,7 +5,7 @@ date: 2020-09-28 15:24:57
 image: 'https://m.media-amazon.com/images/I/41sBA-tdYJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQWVB8T-es Look by Crewcut - Camisola de cambray para niña Chambray 8'
 sku: 'B07KQWVB8T-es'
 tags: [  ]

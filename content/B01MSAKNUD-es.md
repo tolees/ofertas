@@ -5,7 +5,7 @@ date: 2020-02-06 19:55:20
 image: 'https://m.media-amazon.com/images/I/41d0+EWH9UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSAKNUD-es Head Hombres Club Short M'
 sku: 'B01MSAKNUD-es'
 tags: [  ]

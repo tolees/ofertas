@@ -5,7 +5,7 @@ date: 2020-09-23 11:13:01
 image: 'https://m.media-amazon.com/images/I/41mKbK-tT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXO9C44-es PUMA Basket Heart Patent WN S Zapatillas para Mujer Negro...'
 sku: 'B01MXO9C44-es'
 tags: [  ]

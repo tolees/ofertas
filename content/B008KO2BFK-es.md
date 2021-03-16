@@ -5,7 +5,7 @@ date: 2020-10-03 12:08:40
 image: 'https://m.media-amazon.com/images/I/31PL4c6cxgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008KO2BFK-es Monix Quick - Olla a presión rápida de 4 litros'
 sku: 'B008KO2BFK-es'
 tags: [  ]

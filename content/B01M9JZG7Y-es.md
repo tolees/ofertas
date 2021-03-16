@@ -5,7 +5,7 @@ date: 2020-01-03 15:05:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dKl5VHiXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9JZG7Y-es POP! Vinilo - Lost: Kate Austen'
 sku: 'B01M9JZG7Y-es'
 tags: [  ]

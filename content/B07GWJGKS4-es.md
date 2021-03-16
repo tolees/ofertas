@@ -5,7 +5,7 @@ date: 2020-03-06 13:09:45
 image: 'https://m.media-amazon.com/images/I/31B6jzNPuAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWJGKS4-es Caler ® Funda Compatible/Reemplazo para Xiaomi MI A2 / 6X...'
 sku: 'B07GWJGKS4-es'
 tags: [  ]

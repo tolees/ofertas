@@ -5,7 +5,7 @@ date: 2020-01-06 09:39:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ghP-3FGmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1GYWWP-es Asics Aaron Zapatillas para Hombre Azul Peacoat/Gris Blue...'
 sku: 'B07D1GYWWP-es'
 tags: [  ]

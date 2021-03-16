@@ -5,7 +5,7 @@ date: 2020-04-22 00:59:52
 image: 'https://m.media-amazon.com/images/I/31IbJcPwn4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DND7QCN-es Adidas Grand Court Zapatillas de Deporte para Mujer...'
 sku: 'B07DND7QCN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-16 13:03:29
 image: 'https://m.media-amazon.com/images/I/41XT7TDVtNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086BVDLXT-es Oihxse Funda Compatible con LG V40 Carcasa Transparente...'
 sku: 'B086BVDLXT-es'
 tags: [  ]

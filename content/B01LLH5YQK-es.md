@@ -5,7 +5,7 @@ date: 2020-03-05 00:12:55
 image: 'https://m.media-amazon.com/images/I/319mvp0rTmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LLH5YQK-es BRA Prior - Wok con mango Aluminio Fundido con...'
 sku: 'B01LLH5YQK-es'
 tags: [  ]

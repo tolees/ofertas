@@ -5,7 +5,7 @@ date: 2020-08-26 09:20:03
 image: 'https://m.media-amazon.com/images/I/51rVMd0UMsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081VC8DNW-es Frozen Pijamas de Manga Larga para niños El Reino del...'
 sku: 'B081VC8DNW-es'
 tags: [  ]

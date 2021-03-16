@@ -5,7 +5,7 @@ date: 2020-01-10 16:10:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-JUkiilyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLHXNKZ-es Versace Jeans CoutureBorsaMujerShoppers y bolsos de...'
 sku: 'B07NLHXNKZ-es'
 tags: [  ]

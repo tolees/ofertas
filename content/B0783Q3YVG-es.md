@@ -5,7 +5,7 @@ date: 2020-05-29 19:37:55
 image: 'https://m.media-amazon.com/images/I/31iAbDOz1EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0783Q3YVG-es PUMA ST RUNNER V2 NL Zapatillas Unisex adulto Negro Black...'
 sku: 'B0783Q3YVG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-01 15:50:36
 image: 'https://m.media-amazon.com/images/I/515qr-dpupL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FBVJP8-es PUSHIDE 2PCS Alta Calidad Almohadillas para cinturón de...'
 sku: 'B075FBVJP8-es'
 tags: [  ]

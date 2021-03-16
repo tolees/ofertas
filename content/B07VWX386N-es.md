@@ -5,7 +5,7 @@ date: 2020-08-23 08:02:07
 image: 'https://m.media-amazon.com/images/I/31UqvAqPDZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWX386N-es MARTINELLI Mocasín de Piel Pacific 1411'
 sku: 'B07VWX386N-es'
 tags: [  ]

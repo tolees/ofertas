@@ -5,7 +5,7 @@ date: 2020-04-04 19:18:23
 image: 'https://m.media-amazon.com/images/I/41vxMLiHQ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYN12HY-es Asics Gel-Bondi Zapatillas de Running para Mujer...'
 sku: 'B07RYN12HY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-21 19:32:03
 image: 'https://m.media-amazon.com/images/I/41kEO1-j19L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUXJXZR-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B01MUXJXZR-es'
 tags: [  ]

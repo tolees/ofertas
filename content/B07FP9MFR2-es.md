@@ -5,7 +5,7 @@ date: 2020-03-30 17:17:17
 image: 'https://m.media-amazon.com/images/I/31XIx2-BP8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP9MFR2-es Mevo Boost Cargador Rápido para Cámara Mevo con 10 Horas...'
 sku: 'B07FP9MFR2-es'
 tags: [  ]

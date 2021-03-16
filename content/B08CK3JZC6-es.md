@@ -5,7 +5,7 @@ date: 2020-08-21 09:51:57
 image: 'https://m.media-amazon.com/images/I/51Ec4jzEneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CK3JZC6-es EGV [2 Pack Protector de Pantalla para Xiaomi Redmi Note 9...'
 sku: 'B08CK3JZC6-es'
 tags: [  ]

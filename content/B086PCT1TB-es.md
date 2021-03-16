@@ -5,7 +5,7 @@ date: 2020-04-23 15:33:15
 image: 'https://m.media-amazon.com/images/I/51rv0AK7+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PCT1TB-es Funda para Samsung Galaxy S10 Lite + [2 Pack] Cristal...'
 sku: 'B086PCT1TB-es'
 tags: [  ]

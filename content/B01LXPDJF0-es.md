@@ -5,7 +5,7 @@ date: 2020-09-26 13:38:42
 image: 'https://m.media-amazon.com/images/I/310+7TIld+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXPDJF0-es Orbegozo PCE 5000 - Placa vitrocerámica portatil 2000 W de...'
 sku: 'B01LXPDJF0-es'
 tags: [  ]

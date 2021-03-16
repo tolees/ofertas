@@ -5,7 +5,7 @@ date: 2020-04-19 01:46:21
 image: 'https://m.media-amazon.com/images/I/41DBqho1Z+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGPVH4P-es Buff R-Solid Gorra One Touch Unisex Adulto Royal Blue...'
 sku: 'B07KGPVH4P-es'
 tags: [  ]

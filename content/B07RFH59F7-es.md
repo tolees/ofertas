@@ -5,7 +5,7 @@ date: 2020-06-01 17:32:38
 image: 'https://m.media-amazon.com/images/I/517I7Kx4L4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFH59F7-es Ferilinso Funda Para Huawei P Smart Z Funda [Reforzar la...'
 sku: 'B07RFH59F7-es'
 tags: [  ]

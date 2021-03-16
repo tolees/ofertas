@@ -5,7 +5,7 @@ date: 2020-09-10 17:13:03
 image: 'https://m.media-amazon.com/images/I/31pC68i5CcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CY29BQL-es Samsonite B-Lite Icon - Bolsa de Viaje Duffle 45/18 45 cm...'
 sku: 'B07CY29BQL-es'
 tags: [  ]

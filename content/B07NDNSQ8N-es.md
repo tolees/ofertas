@@ -5,7 +5,7 @@ date: 2020-02-06 20:42:39
 image: 'https://m.media-amazon.com/images/I/41ts9zo1UkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNSQ8N-es G-STAR RAW Halite Polo Gris Asfalt 995 Small para Hombre'
 sku: 'B07NDNSQ8N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-01 10:32:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317ae4vo8eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQSXRTM-es Nike Classic Cortez Leather Zapatillas de Running para...'
 sku: 'B07QQSXRTM-es'
 tags: [  ]

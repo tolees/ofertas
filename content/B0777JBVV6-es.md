@@ -5,7 +5,7 @@ date: 2020-05-31 15:53:10
 image: 'https://m.media-amazon.com/images/I/51f+fjhHRsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777JBVV6-es Bullpadel Paletero 17004 Green'
 sku: 'B0777JBVV6-es'
 tags: [  ]

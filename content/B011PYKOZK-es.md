@@ -5,7 +5,7 @@ date: 2020-03-14 18:42:24
 image: 'https://m.media-amazon.com/images/I/311YMp-nX-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011PYKOZK-es EXZACT Smart - Escala Analizadora Inteligente/Analizador...'
 sku: 'B011PYKOZK-es'
 tags: [  ]

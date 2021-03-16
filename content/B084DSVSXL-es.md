@@ -5,7 +5,7 @@ date: 2020-09-27 20:14:23
 image: 'https://m.media-amazon.com/images/I/310eZ+oSRZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084DSVSXL-es Suavinex - Chupete para bebés 0-6 meses. Chupete con...'
 sku: 'B084DSVSXL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-19 08:43:10
 image: 'https://m.media-amazon.com/images/I/31hFdEYnrSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFWQ29W-es Pepe Jeans Malibu Summer Zapatillas para Hombre Verde...'
 sku: 'B07VFWQ29W-es'
 tags: [  ]

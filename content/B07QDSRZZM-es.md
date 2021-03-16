@@ -5,7 +5,7 @@ date: 2020-01-15 15:46:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DuvTGw04L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDSRZZM-es FREDI Cámara de vigilancia para Exteriores 1080P HD...'
 sku: 'B07QDSRZZM-es'
 tags: [  ]

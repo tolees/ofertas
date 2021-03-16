@@ -5,7 +5,7 @@ date: 2020-07-23 09:12:15
 image: 'https://m.media-amazon.com/images/I/41eEBiOGw4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y3DF5Y5-es Rowenta RR6933WH - Robot Aspirador con mopa y depósito de...'
 sku: 'B07Y3DF5Y5-es'
 tags: [  ]

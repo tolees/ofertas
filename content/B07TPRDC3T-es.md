@@ -5,7 +5,7 @@ date: 2020-08-05 15:03:53
 image: 'https://m.media-amazon.com/images/I/31q8O6E8afL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPRDC3T-es Bestway Piscina familiar 54150 - Piscina inflable - 305 x...'
 sku: 'B07TPRDC3T-es'
 tags: [  ]

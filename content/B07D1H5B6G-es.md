@@ -5,7 +5,7 @@ date: 2020-01-20 11:59:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LTXAfFdXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1H5B6G-es Asics Gel-Quantum 360 Knit 2 T840n-001 Zapatillas de...'
 sku: 'B07D1H5B6G-es'
 tags: [  ]

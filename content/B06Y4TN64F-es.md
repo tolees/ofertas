@@ -5,7 +5,7 @@ date: 2020-04-19 11:45:46
 image: 'https://m.media-amazon.com/images/I/510pzL-YBmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y4TN64F-es Doodle agua /Tablero de Escritura de Agua Mat xhforever 4...'
 sku: 'B06Y4TN64F-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-15 13:48:07
 image: 'https://m.media-amazon.com/images/I/41LwiRqdqPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLZ1J26-es Vans Atwood Textile Suede Zapatillas para Hombre Marrón...'
 sku: 'B07TLZ1J26-es'
 tags: [  ]

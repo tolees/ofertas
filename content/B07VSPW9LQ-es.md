@@ -5,7 +5,7 @@ date: 2020-01-12 08:50:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41B-t51dIrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSPW9LQ-es jerryvon Cocina Infantil Madera Pequeña Portatil con...'
 sku: 'B07VSPW9LQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-10 15:57:53
 image: 'https://m.media-amazon.com/images/I/41zzb1FpP5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNGZ5VR-es Reebok Rapide Mu Zapatillas de Deporte para Hombre...'
 sku: 'B07DNGZ5VR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-31 22:19:22
 image: 'https://m.media-amazon.com/images/I/41pYeYuphnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2CYHK1-es adidas Superstar J Zapatillas de Gimnasia Unisex Niños...'
 sku: 'B07K2CYHK1-es'
 tags: [  ]

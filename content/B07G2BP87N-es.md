@@ -5,7 +5,7 @@ date: 2020-04-19 06:10:33
 image: 'https://m.media-amazon.com/images/I/51NU8fLoWgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2BP87N-es TACKLIFE Juego de Destornilladores de Precisión...'
 sku: 'B07G2BP87N-es'
 tags: [  ]

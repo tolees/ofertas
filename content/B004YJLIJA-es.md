@@ -5,7 +5,7 @@ date: 2020-05-27 08:43:32
 image: 'https://m.media-amazon.com/images/I/41pHkU3gkkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004YJLIJA-es K&N SU-4007 Filtro de Aire Moto'
 sku: 'B004YJLIJA-es'
 tags: [  ]

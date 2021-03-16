@@ -5,7 +5,7 @@ date: 2020-09-24 15:11:11
 image: 'https://m.media-amazon.com/images/I/51PoE5N5WdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYBWJGN-es American Tourister Equipaje Infantil Logotipo de Marvel S...'
 sku: 'B07YYBWJGN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-10 09:35:01
 image: 'https://m.media-amazon.com/images/I/31poPeBZrCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3C7PVR-es Under Armour Coldgear Armour Legging Mujer Negro XS'
 sku: 'B07J3C7PVR-es'
 tags: [  ]

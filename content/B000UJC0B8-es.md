@@ -5,7 +5,7 @@ date: 2020-03-06 22:04:17
 image: 'https://m.media-amazon.com/images/I/415CfaqtslL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UJC0B8-es BAUSCH + LOMB - SofLens® 38 - Lentes de contacto - Pack de 6'
 sku: 'B000UJC0B8-es'
 tags: [  ]

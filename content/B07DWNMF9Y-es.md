@@ -5,7 +5,7 @@ date: 2020-07-23 03:30:58
 image: 'https://m.media-amazon.com/images/I/31oSOuVN0XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWNMF9Y-es PrimeMatik - Escritorio de Trabajo Mesa Acolchada para...'
 sku: 'B07DWNMF9Y-es'
 tags: [  ]

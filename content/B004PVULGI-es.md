@@ -5,7 +5,7 @@ date: 2020-02-09 17:39:10
 image: 'https://m.media-amazon.com/images/I/41t3r+MuoQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004PVULGI-es Clatronic HT 3393 - Secador de pelo de viaje colores surtidos'
 sku: 'B004PVULGI-es'
 tags: [  ]

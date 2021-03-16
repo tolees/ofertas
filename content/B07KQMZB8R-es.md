@@ -5,7 +5,7 @@ date: 2020-08-08 08:33:08
 image: 'https://m.media-amazon.com/images/I/41XC2SFUoaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQMZB8R-es Salomon Alphacross GTX Zapatillas de Trail Running para...'
 sku: 'B07KQMZB8R-es'
 tags: [  ]

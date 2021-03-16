@@ -5,7 +5,7 @@ date: 2020-01-09 14:54:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41av4T0YKeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002SJUTQQ-es Samsonite Aeris Spinner L Maleta 75 cm 87.5 L Rojo Red'
 sku: 'B002SJUTQQ-es'
 tags: [  ]

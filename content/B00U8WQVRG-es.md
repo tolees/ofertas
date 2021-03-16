@@ -5,7 +5,7 @@ date: 2020-03-26 00:08:27
 image: 'https://m.media-amazon.com/images/I/31Qi97q-RpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U8WQVRG-es Sesderma Reti Age Contorno de Ojos - 15 gr'
 sku: 'B00U8WQVRG-es'
 tags: [  ]

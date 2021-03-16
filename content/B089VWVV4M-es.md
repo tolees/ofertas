@@ -5,7 +5,7 @@ date: 2020-07-20 15:10:26
 image: 'https://m.media-amazon.com/images/I/31r4Bze3feL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089VWVV4M-es Universal Múltiple 3 Puertos USB-C 3.0 Hub con Kit de...'
 sku: 'B089VWVV4M-es'
 tags: [  ]

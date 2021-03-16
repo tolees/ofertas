@@ -5,7 +5,7 @@ date: 2020-08-18 21:37:58
 image: 'https://m.media-amazon.com/images/I/418GwLi0lnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB3LMB8-es Fallout - Pop Sentry BOT 6"'
 sku: 'B07HB3LMB8-es'
 tags: [  ]

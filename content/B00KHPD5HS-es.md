@@ -5,7 +5,7 @@ date: 2020-01-11 07:15:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31s0UflaHQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KHPD5HS-es Belkin MIXIT - Cable metálico de Lightning a USB con...'
 sku: 'B00KHPD5HS-es'
 tags: [  ]

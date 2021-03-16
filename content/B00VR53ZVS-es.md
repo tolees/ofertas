@@ -5,7 +5,7 @@ date: 2020-06-01 16:39:41
 image: 'https://m.media-amazon.com/images/I/41bJDaczXWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VR53ZVS-es Skechers Men s Stamina Cutback Trainers Blue Navy & Black...'
 sku: 'B00VR53ZVS-es'
 tags: [  ]

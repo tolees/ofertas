@@ -5,7 +5,7 @@ date: 2020-09-17 04:27:34
 image: 'https://m.media-amazon.com/images/I/41gIvm4UodL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSQR9H8-es Reloj Guess - Mujer W0911L5'
 sku: 'B01MSQR9H8-es'
 tags: [  ]

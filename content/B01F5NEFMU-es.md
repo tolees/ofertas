@@ -5,7 +5,7 @@ date: 2020-02-25 08:24:14
 image: 'https://m.media-amazon.com/images/I/41AiLfRYQmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F5NEFMU-es Yacel CELLUBLOCK. Anticelulítico Intensivo. Quemagrasa y...'
 sku: 'B01F5NEFMU-es'
 tags: [  ]

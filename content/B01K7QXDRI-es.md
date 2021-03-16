@@ -5,7 +5,7 @@ date: 2020-05-11 17:36:32
 image: 'https://m.media-amazon.com/images/I/41hC5cdZ8BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7QXDRI-es Calvo Atun Claro en Aceite de Girasol - Pack de 3 x 80 g -...'
 sku: 'B01K7QXDRI-es'
 tags: [  ]

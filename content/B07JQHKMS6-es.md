@@ -5,7 +5,7 @@ date: 2020-01-12 16:29:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51auFHMq9ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQHKMS6-es Under Armour Huddle 2.0 Gorra Hombre Verde OSFA'
 sku: 'B07JQHKMS6-es'
 tags: [  ]

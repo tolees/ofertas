@@ -5,7 +5,7 @@ date: 2020-01-03 17:08:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51H8YeN%2BuHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLB14Z7-es LeYi Funda Xiaomi Redmi Note 8 Silicona Purpurina Carcasa...'
 sku: 'B07XLB14Z7-es'
 tags: [  ]

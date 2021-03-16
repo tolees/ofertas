@@ -5,7 +5,7 @@ date: 2020-04-06 17:26:29
 image: 'https://m.media-amazon.com/images/I/41AKZXepNFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DM4Q3WA-es Redskins Toniko - Zapatillas de Deporte de Cuero para...'
 sku: 'B00DM4Q3WA-es'
 tags: [  ]

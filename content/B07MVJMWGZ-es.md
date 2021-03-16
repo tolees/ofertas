@@ -5,7 +5,7 @@ date: 2020-06-20 12:01:05
 image: 'https://m.media-amazon.com/images/I/41DKRFv2aKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJMWGZ-es Kipling Creativity S Cartera para Mujer Multicolor Tile...'
 sku: 'B07MVJMWGZ-es'
 tags: [  ]

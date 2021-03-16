@@ -5,7 +5,7 @@ date: 2020-03-23 20:58:00
 image: 'https://m.media-amazon.com/images/I/51rmmoeFROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793KHL5R-es Educa Borrás- Mickey and The Roadster Racers 2 Puzzles...'
 sku: 'B0793KHL5R-es'
 tags: [  ]

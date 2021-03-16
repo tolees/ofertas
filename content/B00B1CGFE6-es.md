@@ -5,7 +5,7 @@ date: 2020-03-20 20:17:14
 image: 'https://m.media-amazon.com/images/I/31YZ9UAOBrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B1CGFE6-es Bourjois - Rouge edition barra de labios tono 12'
 sku: 'B00B1CGFE6-es'
 tags: [  ]

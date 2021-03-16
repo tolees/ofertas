@@ -5,7 +5,7 @@ date: 2020-06-24 06:08:56
 image: 'https://m.media-amazon.com/images/I/511rrMvIz5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZNWK4D-es Micaderm Toallitas para Bebe - 72 unidades'
 sku: 'B01LZNWK4D-es'
 tags: [  ]

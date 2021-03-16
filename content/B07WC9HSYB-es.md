@@ -5,7 +5,7 @@ date: 2020-03-14 12:40:18
 image: 'https://m.media-amazon.com/images/I/41418eUGXLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC9HSYB-es TQmate 6Pack Protector de Pantalla Compatible con Xiaomi...'
 sku: 'B07WC9HSYB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-25 04:33:24
 image: 'https://m.media-amazon.com/images/I/41PYvy2LCNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL32BDD-es New Balance Fresh Foam Zante m Zapatillas Deportivas para...'
 sku: 'B07BL32BDD-es'
 tags: [  ]

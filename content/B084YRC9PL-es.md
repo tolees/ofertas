@@ -5,7 +5,7 @@ date: 2020-07-23 16:26:04
 image: 'https://m.media-amazon.com/images/I/411XH+18UuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084YRC9PL-es AR-Gun Brazalete Deportivo Pack 2 uds valido para...'
 sku: 'B084YRC9PL-es'
 tags: [  ]

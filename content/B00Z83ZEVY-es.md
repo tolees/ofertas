@@ -5,7 +5,7 @@ date: 2020-06-24 00:24:54
 image: 'https://m.media-amazon.com/images/I/31seCY-lcuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z83ZEVY-es Under Armour UA 7.5cm Performance Wristband Pack de 2...'
 sku: 'B00Z83ZEVY-es'
 tags: [  ]

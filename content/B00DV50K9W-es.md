@@ -5,7 +5,7 @@ date: 2020-09-12 05:16:19
 image: 'https://m.media-amazon.com/images/I/41opREi4XsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DV50K9W-es Superga 2750-cotu Classic Zapatillas de Estar por casa...'
 sku: 'B00DV50K9W-es'
 tags: [  ]

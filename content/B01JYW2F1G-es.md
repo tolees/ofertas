@@ -5,7 +5,7 @@ date: 2020-03-16 17:37:43
 image: 'https://m.media-amazon.com/images/I/61CAbPZ6jNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JYW2F1G-es Witcher 3: Wild Hunt - Game of The Year. Versión inglesa'
 sku: 'B01JYW2F1G-es'
 tags: [  ]

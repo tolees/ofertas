@@ -5,7 +5,7 @@ date: 2020-03-31 08:21:55
 image: 'https://m.media-amazon.com/images/I/4144YU7c8BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JBG4NQ-es Lixada uperdyneema de los Hombres de Ciclismo Ropa...'
 sku: 'B072JBG4NQ-es'
 tags: [  ]

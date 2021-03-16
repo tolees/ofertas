@@ -5,7 +5,7 @@ date: 2020-05-08 15:34:58
 image: 'https://m.media-amazon.com/images/I/31hXHwgSU+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXFEKKV-es Braun HC5030 Limited Edition Recargable Negro Azul -...'
 sku: 'B01LXFEKKV-es'
 tags: [  ]

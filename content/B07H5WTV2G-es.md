@@ -5,7 +5,7 @@ date: 2020-06-07 09:47:50
 image: 'https://m.media-amazon.com/images/I/5122k-+pkNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5WTV2G-es Riot: Civil Unrest'
 sku: 'B07H5WTV2G-es'
 tags: [  ]

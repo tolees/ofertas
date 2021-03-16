@@ -5,7 +5,7 @@ date: 2020-01-26 11:39:30
 image: 'https://m.media-amazon.com/images/I/41jLzySOs-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRH9KCK-es New Balance 373 Zapatillas para Mujer Gris Grey Grey 36.5 EU'
 sku: 'B07KRH9KCK-es'
 tags: [  ]

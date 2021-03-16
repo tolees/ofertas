@@ -5,7 +5,7 @@ date: 2020-09-18 19:02:20
 image: 'https://m.media-amazon.com/images/I/41HH5f+HpnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0039YOHI0-es Casio Reloj de pulsera AE-1000W-1AVCF'
 sku: 'B0039YOHI0-es'
 tags: [  ]

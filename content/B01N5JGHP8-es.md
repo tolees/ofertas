@@ -5,7 +5,7 @@ date: 2020-05-30 14:52:43
 image: 'https://m.media-amazon.com/images/I/51yCPY98c6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5JGHP8-es Ularma Pata pequeña impresión paño grueso y suave manta...'
 sku: 'B01N5JGHP8-es'
 tags: [  ]

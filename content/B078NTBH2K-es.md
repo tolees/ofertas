@@ -5,7 +5,7 @@ date: 2020-01-21 15:44:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31upB2RP1sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NTBH2K-es IPOTCH SFR1M44-U100K USB Floppy Drive para Equipos de...'
 sku: 'B078NTBH2K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-26 20:09:42
 image: 'https://m.media-amazon.com/images/I/419Nj1ME6nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJ5BR13-es Funko Pop Vinyl: Rocks: Queen: Roger Taylor Figura De...'
 sku: 'B07HJ5BR13-es'
 tags: [  ]

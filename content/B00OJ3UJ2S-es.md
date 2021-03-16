@@ -5,7 +5,7 @@ date: 2020-06-26 04:01:09
 image: 'https://m.media-amazon.com/images/I/311m+ah4SDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OJ3UJ2S-es Sabrent Caja de Disco Duro Externo sin Herramientas SATA a...'
 sku: 'B00OJ3UJ2S-es'
 tags: [  ]

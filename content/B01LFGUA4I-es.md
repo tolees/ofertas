@@ -5,7 +5,7 @@ date: 2020-04-08 06:13:16
 image: 'https://m.media-amazon.com/images/I/41esqksPFgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LFGUA4I-es Mizuno Morelia Neo CL AG Zapatillas Hombre Azul 40'
 sku: 'B01LFGUA4I-es'
 tags: [  ]

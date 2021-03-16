@@ -5,7 +5,7 @@ date: 2020-04-23 05:10:58
 image: 'https://m.media-amazon.com/images/I/41LURLEggQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X1CJCN5-es Cluse Reloj Digital de Cuarzo Unisex con Correa de Cuero –...'
 sku: 'B06X1CJCN5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-11 16:35:14
 image: 'https://m.media-amazon.com/images/I/41vcai6x1+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGNQ251-es Controlador Cepillo 24V 350W Controlador para Bicicletas...'
 sku: 'B07YGNQ251-es'
 tags: [  ]

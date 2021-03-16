@@ -5,7 +5,7 @@ date: 2020-05-23 13:29:34
 image: 'https://m.media-amazon.com/images/I/41MswyTyMaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLC9KZZ-es Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón Azul...'
 sku: 'B07VLC9KZZ-es'
 tags: [  ]

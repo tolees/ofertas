@@ -5,7 +5,7 @@ date: 2020-04-17 15:18:41
 image: 'https://m.media-amazon.com/images/I/41UUJlPbwvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E0IVZM0-es Bosch 2607017180 - Atornillador manual con puntas de...'
 sku: 'B00E0IVZM0-es'
 tags: [  ]

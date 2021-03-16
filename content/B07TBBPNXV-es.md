@@ -5,7 +5,7 @@ date: 2020-05-29 08:08:04
 image: 'https://m.media-amazon.com/images/I/314KOEVKjDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBBPNXV-es Brockman s - Ginebra con Copa de Regalo 700 ml'
 sku: 'B07TBBPNXV-es'
 tags: [  ]

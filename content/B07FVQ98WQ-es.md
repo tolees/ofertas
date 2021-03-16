@@ -5,7 +5,7 @@ date: 2020-07-10 19:49:05
 image: 'https://m.media-amazon.com/images/I/61DrLaWAk2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FVQ98WQ-es Eazyhurry - Funda con tapa para iPhone 6 y 6S incluye...'
 sku: 'B07FVQ98WQ-es'
 tags: [  ]

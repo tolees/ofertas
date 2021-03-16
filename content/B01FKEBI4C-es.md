@@ -5,7 +5,7 @@ date: 2020-01-16 06:42:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CPuE5s-6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FKEBI4C-es Polar A360 - Pulsómetro Color Blanco Talla M'
 sku: 'B01FKEBI4C-es'
 tags: [  ]

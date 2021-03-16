@@ -5,7 +5,7 @@ date: 2020-02-28 20:06:57
 image: 'https://m.media-amazon.com/images/I/41aeOg10emL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYG89TH-es Bandolera para portátil Pepe Jeans Bromley Verde'
 sku: 'B07FYG89TH-es'
 tags: [  ]

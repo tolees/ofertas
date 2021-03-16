@@ -5,7 +5,7 @@ date: 2020-09-04 13:30:58
 image: 'https://m.media-amazon.com/images/I/41Ni84ILFtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVVKYBT-es BNC a HDMI Convertidor Monitor a HDMI HD 1080P / 720P...'
 sku: 'B07SVVKYBT-es'
 tags: [  ]

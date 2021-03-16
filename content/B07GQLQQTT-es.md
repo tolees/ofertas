@@ -5,7 +5,7 @@ date: 2020-03-15 21:07:20
 image: 'https://m.media-amazon.com/images/I/41X8+NlNfCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GQLQQTT-es PUAK523 Luz LED Clip-on Super Brillante Libro Lectura Luz...'
 sku: 'B07GQLQQTT-es'
 tags: [  ]

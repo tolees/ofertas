@@ -5,7 +5,7 @@ date: 2020-08-02 15:15:40
 image: 'https://m.media-amazon.com/images/I/41g277kFyrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XT4BNPC-es Yacel For Men Cera Disciplinadora Fija Protege e Hidrata...'
 sku: 'B07XT4BNPC-es'
 tags: [  ]

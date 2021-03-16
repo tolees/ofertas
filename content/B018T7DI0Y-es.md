@@ -5,7 +5,7 @@ date: 2020-04-27 18:08:35
 image: 'https://m.media-amazon.com/images/I/51x0SYVxDXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018T7DI0Y-es LUNA mini 2 de FOREO es el limpiador facial con modo anti-...'
 sku: 'B018T7DI0Y-es'
 tags: [  ]

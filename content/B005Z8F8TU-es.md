@@ -5,7 +5,7 @@ date: 2020-10-06 12:16:43
 image: 'https://m.media-amazon.com/images/I/41E-U0DsMzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005Z8F8TU-es Hercules 4780507 - Auriculares con Diadema Tipo Dj 50 mm...'
 sku: 'B005Z8F8TU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 07:01:10
 image: 'https://m.media-amazon.com/images/I/413CZdvmGxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ELAYLRI-es TRIXES Almohadilla de Gel para teclados y Alfombrilla para...'
 sku: 'B00ELAYLRI-es'
 tags: [  ]

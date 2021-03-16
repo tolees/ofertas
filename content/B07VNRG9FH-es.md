@@ -5,7 +5,7 @@ date: 2020-10-04 14:54:06
 image: 'https://m.media-amazon.com/images/I/41T6GAw2qSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNRG9FH-es Cofemy Cápsula de café recargable filtro reutilizable Taza...'
 sku: 'B07VNRG9FH-es'
 tags: [  ]

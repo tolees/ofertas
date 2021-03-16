@@ -5,7 +5,7 @@ date: 2020-07-26 15:15:26
 image: 'https://m.media-amazon.com/images/I/61WKwlOdfaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSSYRYF-es Gifort Bandeja de Hielo Bandejas para Hielo Silicona con...'
 sku: 'B07BSSYRYF-es'
 tags: [  ]

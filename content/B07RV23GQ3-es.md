@@ -5,7 +5,7 @@ date: 2020-06-14 02:15:26
 image: 'https://m.media-amazon.com/images/I/51SuvY+0WHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RV23GQ3-es ELZO Soporte Plegable de Aluminio para Ordenador Portátil...'
 sku: 'B07RV23GQ3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 03:16:43
 image: 'https://m.media-amazon.com/images/I/41Sa885eI0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VHLY9VC-es Belkin - Soporte de smartphone universal para coche para...'
 sku: 'B00VHLY9VC-es'
 tags: [  ]

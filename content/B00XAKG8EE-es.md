@@ -5,7 +5,7 @@ date: 2020-02-21 19:03:39
 image: 'https://m.media-amazon.com/images/I/51jM7tg4HNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAKG8EE-es Beter 64290 - Esponja'
 sku: 'B00XAKG8EE-es'
 tags: [  ]

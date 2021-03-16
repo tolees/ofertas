@@ -5,7 +5,7 @@ date: 2020-01-18 16:13:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cO-C1XYXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9ZK41M-es Tostadora Pan Ranura Ancha 3 en 1 - Blanca Mate Inoxidable...'
 sku: 'B07T9ZK41M-es'
 tags: [  ]

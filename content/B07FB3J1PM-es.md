@@ -5,7 +5,7 @@ date: 2020-04-27 07:09:37
 image: 'https://m.media-amazon.com/images/I/41hWdqNcHGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FB3J1PM-es Superdry M70001ns Pantalones de deporte Hombre Gris Flint...'
 sku: 'B07FB3J1PM-es'
 tags: [  ]

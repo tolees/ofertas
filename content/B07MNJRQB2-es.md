@@ -5,7 +5,7 @@ date: 2020-02-16 19:58:03
 image: 'https://m.media-amazon.com/images/I/31EWq-ae35L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNJRQB2-es Crucial Ballistix Sport LT BLS8G4D32AESCK 3200 MHz DDR4...'
 sku: 'B07MNJRQB2-es'
 tags: [  ]

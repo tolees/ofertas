@@ -5,7 +5,7 @@ date: 2020-01-06 15:04:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tgpabhroL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M28ZRE3-es Prismáticos Bresser Corvette 10x42 rellenos de nitrógeno'
 sku: 'B01M28ZRE3-es'
 tags: [  ]

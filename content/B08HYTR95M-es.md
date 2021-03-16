@@ -5,7 +5,7 @@ date: 2020-09-22 18:47:29
 image: 'https://m.media-amazon.com/images/I/41swxzM9idL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HYTR95M-es Your Vip Skin bastoncillos de algodón de silicona...'
 sku: 'B08HYTR95M-es'
 tags: [  ]

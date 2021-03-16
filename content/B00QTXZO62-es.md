@@ -5,7 +5,7 @@ date: 2020-09-06 18:03:32
 image: 'https://m.media-amazon.com/images/I/411znvlJ0RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QTXZO62-es Munchkin Platos con compartimentos Apple 3 unidades'
 sku: 'B00QTXZO62-es'
 tags: [  ]

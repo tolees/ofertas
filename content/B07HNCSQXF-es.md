@@ -5,7 +5,7 @@ date: 2020-07-10 21:02:14
 image: 'https://m.media-amazon.com/images/I/41L-Cdu4HCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNCSQXF-es Aerocool Cs105Rd Caja De Ordenador Con Ventana Acrílica...'
 sku: 'B07HNCSQXF-es'
 tags: [  ]

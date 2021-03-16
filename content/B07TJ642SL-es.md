@@ -5,7 +5,7 @@ date: 2020-01-19 19:41:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51zTq3iJIvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ642SL-es ROMIX Esterilla para Pilates Antideslizante Extra Gruesa...'
 sku: 'B07TJ642SL-es'
 tags: [  ]

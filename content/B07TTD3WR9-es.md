@@ -5,7 +5,7 @@ date: 2020-02-24 09:36:00
 image: 'https://m.media-amazon.com/images/I/41sUuKmZpbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTD3WR9-es Funko- Pop Rocks: Iron Maiden-Piece of Mind Skeleton Eddie...'
 sku: 'B07TTD3WR9-es'
 tags: [  ]

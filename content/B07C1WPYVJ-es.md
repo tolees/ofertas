@@ -5,7 +5,7 @@ date: 2020-06-20 21:57:45
 image: 'https://m.media-amazon.com/images/I/51be2PduRbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C1WPYVJ-es Escomdp i Flash Drives USB 3.0 Pendrive 3 en 1 OTG Memory...'
 sku: 'B07C1WPYVJ-es'
 tags: [  ]

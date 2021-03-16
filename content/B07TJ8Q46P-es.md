@@ -5,7 +5,7 @@ date: 2020-02-01 08:49:55
 image: 'https://m.media-amazon.com/images/I/418T4-J3qsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ8Q46P-es Legami - Agenda de 12 meses/semanal - Agenda 2020 de...'
 sku: 'B07TJ8Q46P-es'
 tags: [  ]

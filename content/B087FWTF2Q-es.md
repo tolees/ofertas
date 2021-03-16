@@ -5,7 +5,7 @@ date: 2020-09-15 17:01:12
 image: 'https://m.media-amazon.com/images/I/31g4hi8ICKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087FWTF2Q-es TOUS Pulsera Good Vibes Mama de Plata Vermeil y rubí'
 sku: 'B087FWTF2Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 09:20:17
 image: 'https://m.media-amazon.com/images/I/41V7tybiaNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0836W2GPK-es TEECY Wallet Tarjeteros para Tarjetas de Crédito Bloqueo...'
 sku: 'B0836W2GPK-es'
 tags: [  ]

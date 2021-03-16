@@ -5,7 +5,7 @@ date: 2020-02-16 11:28:02
 image: 'https://m.media-amazon.com/images/I/314lUsqRg0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NYF7FH-es Hapilife Grifo Cocina Momomando de Encimera Fregadero...'
 sku: 'B079NYF7FH-es'
 tags: [  ]

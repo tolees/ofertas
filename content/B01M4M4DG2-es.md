@@ -5,7 +5,7 @@ date: 2020-02-12 15:04:54
 image: 'https://m.media-amazon.com/images/I/41q-cNuY1KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4M4DG2-es Relaxdays Pala Pizza Horno XXL Tabla Espátula con Mango...'
 sku: 'B01M4M4DG2-es'
 tags: [  ]

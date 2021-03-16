@@ -5,7 +5,7 @@ date: 2020-01-28 09:09:14
 image: 'https://m.media-amazon.com/images/I/31ESHQLIIyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6KJDG5-es Mini Vibrador Neo Plus super potente/Masajeador perfecto...'
 sku: 'B07K6KJDG5-es'
 tags: [  ]

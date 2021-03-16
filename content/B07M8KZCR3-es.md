@@ -5,7 +5,7 @@ date: 2020-04-30 13:31:38
 image: 'https://m.media-amazon.com/images/I/31CyOPr2CyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8KZCR3-es Lee Luke Corduroy Pantalones Azul Dark Marine 21 31W / 32L...'
 sku: 'B07M8KZCR3-es'
 tags: [  ]

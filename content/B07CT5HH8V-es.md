@@ -5,7 +5,7 @@ date: 2020-06-27 12:03:32
 image: 'https://m.media-amazon.com/images/I/41Ekd3z0XOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CT5HH8V-es Cecotec Ventilador de Torre ForceSilence 790 Skyline. 30...'
 sku: 'B07CT5HH8V-es'
 tags: [  ]

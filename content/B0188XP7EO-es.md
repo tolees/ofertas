@@ -5,7 +5,7 @@ date: 2020-04-05 09:52:58
 image: 'https://m.media-amazon.com/images/I/41vfeg4GvWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0188XP7EO-es Medisana NM 870 Masajeador de cuello con masaje vibratorio...'
 sku: 'B0188XP7EO-es'
 tags: [  ]

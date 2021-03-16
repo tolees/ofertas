@@ -5,7 +5,7 @@ date: 2020-08-26 12:46:01
 image: 'https://m.media-amazon.com/images/I/412nLN5Nx5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWD67Y7-es iTieTie 6-Unidades Protector de Pantalla Amazfit Bip Suave...'
 sku: 'B07WWD67Y7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-28 12:13:27
 image: 'https://m.media-amazon.com/images/I/41QD48-tBuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5RA2TC-es Tommy Hilfiger 3p Brief Calzoncillos Ngro Negro 990 Medium...'
 sku: 'B00K5RA2TC-es'
 tags: [  ]

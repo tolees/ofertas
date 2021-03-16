@@ -5,7 +5,7 @@ date: 2020-01-18 11:34:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AVeviB8oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072NH27PC-es Nike M Nk Short Hbr Sport Shorts Hombre Blanco White/ Black L'
 sku: 'B072NH27PC-es'
 tags: [  ]

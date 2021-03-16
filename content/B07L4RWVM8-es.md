@@ -5,7 +5,7 @@ date: 2020-01-09 22:49:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jfFh1Dd0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4RWVM8-es Sockers FCB - Figura de Gerard Piqué 2018/19 Azulgrana 30 cm'
 sku: 'B07L4RWVM8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 10:26:28
 image: 'https://m.media-amazon.com/images/I/31dxkxNKIPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0783RPDMN-es PUMA Smash v2 L Zapatillas Unisex Adulto Blanco White...'
 sku: 'B0783RPDMN-es'
 tags: [  ]

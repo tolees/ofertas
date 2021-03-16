@@ -5,7 +5,7 @@ date: 2020-09-26 09:01:14
 image: 'https://m.media-amazon.com/images/I/51GivTutE7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0857YV8LM-es The Sojourn'
 sku: 'B0857YV8LM-es'
 tags: [  ]

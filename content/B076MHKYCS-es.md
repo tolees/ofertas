@@ -5,7 +5,7 @@ date: 2020-04-18 14:04:49
 image: 'https://m.media-amazon.com/images/I/41Wj2W6RZ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076MHKYCS-es Under NY Sky Delantal de Peluquero - Resistente al Agua y...'
 sku: 'B076MHKYCS-es'
 tags: [  ]

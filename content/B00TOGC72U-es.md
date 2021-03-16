@@ -5,7 +5,7 @@ date: 2020-05-28 16:56:31
 image: 'https://m.media-amazon.com/images/I/41bhZF6RyKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TOGC72U-es RSPCA fleaaway Spot On solución para gatos 50 mg'
 sku: 'B00TOGC72U-es'
 tags: [  ]

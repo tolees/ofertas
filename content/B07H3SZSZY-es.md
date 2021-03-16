@@ -5,7 +5,7 @@ date: 2020-04-24 10:52:23
 image: 'https://m.media-amazon.com/images/I/515VsEJKWcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3SZSZY-es OCDAY 2 DIN Radio Coche con Navegación 7 Pulgadas 2 DIN...'
 sku: 'B07H3SZSZY-es'
 tags: [  ]

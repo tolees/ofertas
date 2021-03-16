@@ -5,7 +5,7 @@ date: 2020-10-08 09:03:47
 image: 'https://m.media-amazon.com/images/I/41bUPu6bg3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004MK3SHQ-es Joseph & Joseph Vinilo Tomate - Tabla de cristal'
 sku: 'B004MK3SHQ-es'
 tags: [  ]

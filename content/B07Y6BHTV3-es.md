@@ -5,7 +5,7 @@ date: 2020-06-28 04:11:37
 image: 'https://m.media-amazon.com/images/I/414cMx-w9NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y6BHTV3-es Manicura Eléctrico Pulidor de Uñas Aparatos Eléctricos y...'
 sku: 'B07Y6BHTV3-es'
 tags: [  ]

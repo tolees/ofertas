@@ -5,7 +5,7 @@ date: 2020-07-02 12:13:29
 image: 'https://m.media-amazon.com/images/I/512S-a406HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788BNRNS-es Tommy Hilfiger X Sujetador Estilo Bralette Azul Navy...'
 sku: 'B0788BNRNS-es'
 tags: [  ]

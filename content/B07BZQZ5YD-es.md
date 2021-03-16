@@ -5,7 +5,7 @@ date: 2020-09-18 10:04:03
 image: 'https://m.media-amazon.com/images/I/41bhFPBXkAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZQZ5YD-es Kipling Creativity L Monederos para Mujer Azul True Dazz...'
 sku: 'B07BZQZ5YD-es'
 tags: [  ]

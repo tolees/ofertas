@@ -5,7 +5,7 @@ date: 2020-03-11 02:37:11
 image: 'https://m.media-amazon.com/images/I/510fS5ZA3-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I6Q2X9A-es Casa de perro suave de productos para animales de cama del...'
 sku: 'B01I6Q2X9A-es'
 tags: [  ]

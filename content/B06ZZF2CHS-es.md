@@ -5,7 +5,7 @@ date: 2020-04-20 07:37:58
 image: 'https://m.media-amazon.com/images/I/4174PaH3qpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZF2CHS-es Lee Luke Jeans True Authentic Gcby 32W / 30L para Hombre'
 sku: 'B06ZZF2CHS-es'
 tags: [  ]

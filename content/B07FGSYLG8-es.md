@@ -5,7 +5,7 @@ date: 2020-01-12 14:08:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PKSZHuEuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FGSYLG8-es Under Armour Favorite Graphic Legging-WM Pantalones Mujer...'
 sku: 'B07FGSYLG8-es'
 tags: [  ]

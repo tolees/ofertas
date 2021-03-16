@@ -5,7 +5,7 @@ date: 2020-08-21 08:24:37
 image: 'https://m.media-amazon.com/images/I/31w2GH0QjuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CX5YD4-es Mobiclinic Mezquita Andador para ancianos mayores adultos...'
 sku: 'B071CX5YD4-es'
 tags: [  ]

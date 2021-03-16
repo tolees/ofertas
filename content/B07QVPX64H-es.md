@@ -5,7 +5,7 @@ date: 2020-01-18 23:28:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HhjWrEDkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVPX64H-es Guzack Cinturón de Correr Chuangmeida Riñonera Cinturón...'
 sku: 'B07QVPX64H-es'
 tags: [  ]

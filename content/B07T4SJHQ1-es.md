@@ -5,7 +5,7 @@ date: 2020-03-27 12:06:16
 image: 'https://m.media-amazon.com/images/I/41PVcNVUz6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4SJHQ1-es Nike Air Heights Zapatillas para Hombre Negro Black/White...'
 sku: 'B07T4SJHQ1-es'
 tags: [  ]

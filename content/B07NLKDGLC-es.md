@@ -5,7 +5,7 @@ date: 2020-02-11 18:58:43
 image: 'https://m.media-amazon.com/images/I/419WMWfWJ0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLKDGLC-es Versace Jeans CoutureBorsaMujerBolso de manoRojo Rosso 5...'
 sku: 'B07NLKDGLC-es'
 tags: [  ]

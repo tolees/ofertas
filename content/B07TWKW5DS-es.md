@@ -5,7 +5,7 @@ date: 2020-03-31 16:40:33
 image: 'https://m.media-amazon.com/images/I/51nIu30nGTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWKW5DS-es FORMIZON 20 Pcs Globos de Papel de Aluminio Globos de...'
 sku: 'B07TWKW5DS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 05:34:14
 image: 'https://m.media-amazon.com/images/I/51afJ+gK66L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E5DK1QG-es Beaphar Pipetas Calming Spot On para Perros 3 Unidades'
 sku: 'B00E5DK1QG-es'
 tags: [  ]

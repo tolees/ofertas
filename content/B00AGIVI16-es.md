@@ -5,7 +5,7 @@ date: 2020-03-14 22:30:29
 image: 'https://m.media-amazon.com/images/I/316uwSXlMAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AGIVI16-es Victoria S Secret Brillo corporal - 0.25 l'
 sku: 'B00AGIVI16-es'
 tags: [  ]

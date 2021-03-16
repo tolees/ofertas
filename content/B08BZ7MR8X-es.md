@@ -5,7 +5,7 @@ date: 2020-07-22 21:11:40
 image: 'https://m.media-amazon.com/images/I/51GTQyXnvaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZ7MR8X-es Nakiri cuchillo de cocinero Cuchillo profesional Cuchillo...'
 sku: 'B08BZ7MR8X-es'
 tags: [  ]

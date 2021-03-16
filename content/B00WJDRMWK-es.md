@@ -5,7 +5,7 @@ date: 2020-09-23 14:24:28
 image: 'https://m.media-amazon.com/images/I/41-gAaJn2uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WJDRMWK-es Taurus VB 02 Ventilador climatizador nebulizador 90 W 0...'
 sku: 'B00WJDRMWK-es'
 tags: [  ]

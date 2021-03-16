@@ -5,7 +5,7 @@ date: 2020-07-06 11:46:14
 image: 'https://m.media-amazon.com/images/I/21udRafcfxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTYNXYS-es Max Mara 45760993 Beanie Mujer Camello UNI'
 sku: 'B08BTYNXYS-es'
 tags: [  ]

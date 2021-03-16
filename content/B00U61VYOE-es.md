@@ -5,7 +5,7 @@ date: 2020-01-04 18:07:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51QeuVwmXlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U61VYOE-es Blume -Vino blanco verdejo botella 75 cl. paquete de 6...'
 sku: 'B00U61VYOE-es'
 tags: [  ]

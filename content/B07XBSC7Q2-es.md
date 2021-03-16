@@ -5,7 +5,7 @@ date: 2020-08-30 21:14:47
 image: 'https://m.media-amazon.com/images/I/41GuOLANjxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBSC7Q2-es Trust Yvi Ratón inalámbrico - Azul'
 sku: 'B07XBSC7Q2-es'
 tags: [  ]

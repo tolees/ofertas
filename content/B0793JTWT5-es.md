@@ -5,7 +5,7 @@ date: 2020-07-17 10:33:18
 image: 'https://m.media-amazon.com/images/I/51kBRA6va-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793JTWT5-es Darkest Dungeon - Ancestral Edition'
 sku: 'B0793JTWT5-es'
 tags: [  ]

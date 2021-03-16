@@ -5,7 +5,7 @@ date: 2020-01-07 20:30:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51snijciIZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719GM9NW-es Index CKBB48290 Bridas de Nylon Blanco 4 8 x 290 mm Set de...'
 sku: 'B0719GM9NW-es'
 tags: [  ]

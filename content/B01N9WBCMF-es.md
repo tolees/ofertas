@@ -5,7 +5,7 @@ date: 2020-05-30 12:02:08
 image: 'https://m.media-amazon.com/images/I/41qLsRzI1ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9WBCMF-es Bersuse 100% Algodón - Anatolia XXL Manta Toalla Turca -...'
 sku: 'B01N9WBCMF-es'
 tags: [  ]

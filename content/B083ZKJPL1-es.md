@@ -5,7 +5,7 @@ date: 2020-07-15 03:13:18
 image: 'https://m.media-amazon.com/images/I/31D9Volk70L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZKJPL1-es ghd curve classic wave - Rizador de pelo profesional para...'
 sku: 'B083ZKJPL1-es'
 tags: [  ]

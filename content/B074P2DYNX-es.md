@@ -5,7 +5,7 @@ date: 2020-01-13 11:06:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XnUIh%2BhVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074P2DYNX-es MAX-T RMS6101 Afeitadora Eléctrica para Hombres IPX7 100%...'
 sku: 'B074P2DYNX-es'
 tags: [  ]

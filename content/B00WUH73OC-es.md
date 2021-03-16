@@ -5,7 +5,7 @@ date: 2020-04-22 17:04:47
 image: 'https://m.media-amazon.com/images/I/41ejbyVPUAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WUH73OC-es EUROHIKE Avon Tienda de campaña Camping Gear Rojo Rojo...'
 sku: 'B00WUH73OC-es'
 tags: [  ]

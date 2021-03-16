@@ -5,7 +5,7 @@ date: 2020-03-22 10:20:04
 image: 'https://m.media-amazon.com/images/I/41t-soB8nfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZ2D3BV-es Superdry Applique Ziphood Capucha Rosa Smoke Rose L6y...'
 sku: 'B07NZ2D3BV-es'
 tags: [  ]

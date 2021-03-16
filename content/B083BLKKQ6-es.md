@@ -5,7 +5,7 @@ date: 2020-10-12 08:30:47
 image: 'https://m.media-amazon.com/images/I/41TzscXt4VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BLKKQ6-es AGPTEK 18Pcs Discos Desmaquillantes Reutilizables con 4...'
 sku: 'B083BLKKQ6-es'
 tags: [  ]

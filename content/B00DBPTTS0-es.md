@@ -5,7 +5,7 @@ date: 2020-08-04 12:08:15
 image: 'https://m.media-amazon.com/images/I/41Kcn15HxAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DBPTTS0-es Acer Essential - Monitor de 17" pantalla LED 1280 x 1024...'
 sku: 'B00DBPTTS0-es'
 tags: [  ]

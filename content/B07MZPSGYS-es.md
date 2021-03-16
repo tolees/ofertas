@@ -5,7 +5,7 @@ date: 2020-05-22 11:36:32
 image: 'https://m.media-amazon.com/images/I/41A7usNj3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPSGYS-es Pepe Jeans Helaia suéter Dulwich 594 Medium para Mujer'
 sku: 'B07MZPSGYS-es'
 tags: [  ]

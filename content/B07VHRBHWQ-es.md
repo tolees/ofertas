@@ -5,7 +5,7 @@ date: 2020-08-03 07:20:22
 image: 'https://m.media-amazon.com/images/I/51hyk1JfLwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHRBHWQ-es Desigual Foul Midnight Bufanda Azul Navy 5000 Talla única...'
 sku: 'B07VHRBHWQ-es'
 tags: [  ]

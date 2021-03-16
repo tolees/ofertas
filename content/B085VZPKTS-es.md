@@ -5,7 +5,7 @@ date: 2020-08-23 06:52:24
 image: 'https://m.media-amazon.com/images/I/51EAlK6N3YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085VZPKTS-es 5 IN 1 Húmedo & Seco Afeitadora eléctrica para Hombre 4D...'
 sku: 'B085VZPKTS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-22 07:43:06
 image: 'https://m.media-amazon.com/images/I/61okd1NlqXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDPPQZH-es Alcachofa de ducha alta presión Super bajo consumo de agua...'
 sku: 'B07MDPPQZH-es'
 tags: [  ]

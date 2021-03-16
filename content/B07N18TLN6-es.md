@@ -5,7 +5,7 @@ date: 2020-09-06 11:36:35
 image: 'https://m.media-amazon.com/images/I/41k06wXMMjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N18TLN6-es TATAY Urban Food Casual - Bolsa térmica porta alimentos...'
 sku: 'B07N18TLN6-es'
 tags: [  ]

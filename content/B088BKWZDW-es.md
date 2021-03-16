@@ -5,7 +5,7 @@ date: 2020-06-01 08:18:51
 image: 'https://m.media-amazon.com/images/I/51ee+LeuXfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BKWZDW-es OfficeWorld 603XL Cartucho Tinta para Epson 603 Compatible...'
 sku: 'B088BKWZDW-es'
 tags: [  ]

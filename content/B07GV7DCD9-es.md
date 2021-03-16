@@ -5,7 +5,7 @@ date: 2020-09-06 12:53:04
 image: 'https://m.media-amazon.com/images/I/41FSLiz+cSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GV7DCD9-es QUEEN ROSE Almohada de Embarazo con Funda de Lavable...'
 sku: 'B07GV7DCD9-es'
 tags: [  ]

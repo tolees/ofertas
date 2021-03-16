@@ -5,7 +5,7 @@ date: 2020-04-25 22:04:34
 image: 'https://m.media-amazon.com/images/I/41z6fdpEDLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IVMMZHO-es Skechers Synergy-Case Closed Zapatillas de Entrenamiento...'
 sku: 'B01IVMMZHO-es'
 tags: [  ]

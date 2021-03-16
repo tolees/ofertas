@@ -5,7 +5,7 @@ date: 2020-05-12 03:04:56
 image: 'https://m.media-amazon.com/images/I/41tUbFaUiNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK5P7P3-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07MK5P7P3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 17:18:40
 image: 'https://m.media-amazon.com/images/I/31rBEAhqTaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NJ9O5Y-es Fischer 70005 Taco Nylon Expansión SX 5 x 25 Gris 0 W 0 V...'
 sku: 'B001NJ9O5Y-es'
 tags: [  ]

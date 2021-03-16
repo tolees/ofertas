@@ -5,7 +5,7 @@ date: 2020-09-26 19:11:26
 image: 'https://m.media-amazon.com/images/I/514X1NdwhDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8V5DCJ-es JBL GO 2 - Altavoz inalámbrico portátil con Bluetooth...'
 sku: 'B07B8V5DCJ-es'
 tags: [  ]

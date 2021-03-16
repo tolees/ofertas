@@ -5,7 +5,7 @@ date: 2020-05-11 16:01:46
 image: 'https://m.media-amazon.com/images/I/31oLjlQ46WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYW4QUI-es Amor bolas para entrenamiento del suelo pélvico Sex Ø30 mm...'
 sku: 'B01LYW4QUI-es'
 tags: [  ]

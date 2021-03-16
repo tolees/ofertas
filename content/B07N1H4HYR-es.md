@@ -5,7 +5,7 @@ date: 2020-05-26 19:04:06
 image: 'https://m.media-amazon.com/images/I/412Drj2kwmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1H4HYR-es Tidyard 2xArco de Jardin para Plantas en Forma de Torre...'
 sku: 'B07N1H4HYR-es'
 tags: [  ]

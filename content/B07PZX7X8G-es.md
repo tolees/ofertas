@@ -5,7 +5,7 @@ date: 2020-07-18 08:10:47
 image: 'https://m.media-amazon.com/images/I/41SsQsUQIZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZX7X8G-es MOCOCITO Calcetines Cortos Hombre Mujer Calcetines...'
 sku: 'B07PZX7X8G-es'
 tags: [  ]

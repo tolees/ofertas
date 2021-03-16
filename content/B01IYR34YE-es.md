@@ -5,7 +5,7 @@ date: 2020-09-20 07:20:54
 image: 'https://m.media-amazon.com/images/I/41saCNUQw7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IYR34YE-es Philips Voicetracer - Grabadora de audio'
 sku: 'B01IYR34YE-es'
 tags: [  ]

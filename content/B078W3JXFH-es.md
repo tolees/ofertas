@@ -5,7 +5,7 @@ date: 2020-01-19 21:05:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vdw104tkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078W3JXFH-es Vans ISO 1.5 Zapatillas Unisex Adulto Azul Mesh 38 EU'
 sku: 'B078W3JXFH-es'
 tags: [  ]

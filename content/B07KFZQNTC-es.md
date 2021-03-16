@@ -5,7 +5,7 @@ date: 2020-02-17 10:58:17
 image: 'https://m.media-amazon.com/images/I/31AuDgzVk7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZQNTC-es PUMA LQDCELL Optic Zapatillas de Running para Hombre...'
 sku: 'B07KFZQNTC-es'
 tags: [  ]

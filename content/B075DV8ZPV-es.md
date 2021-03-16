@@ -5,7 +5,7 @@ date: 2020-08-23 14:20:00
 image: 'https://m.media-amazon.com/images/I/41tUR-VR8rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DV8ZPV-es GOXAWEE Mini Disco Corte Diamante & Mini Hoja de Sierra...'
 sku: 'B075DV8ZPV-es'
 tags: [  ]

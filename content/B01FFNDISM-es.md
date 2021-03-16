@@ -5,7 +5,7 @@ date: 2020-01-26 11:36:15
 image: 'https://m.media-amazon.com/images/I/413TBhfdUKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFNDISM-es Under Armour HG Armour 2.0 Legging Leggings Hombre Gris...'
 sku: 'B01FFNDISM-es'
 tags: [  ]

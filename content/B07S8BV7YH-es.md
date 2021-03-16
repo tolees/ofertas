@@ -5,7 +5,7 @@ date: 2020-08-05 13:33:47
 image: 'https://m.media-amazon.com/images/I/51ip6zCE3nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8BV7YH-es Eyoyo - Monitor LCD HDMI portátil 1280 x 800 16:10...'
 sku: 'B07S8BV7YH-es'
 tags: [  ]

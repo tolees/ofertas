@@ -5,7 +5,7 @@ date: 2020-02-17 09:32:19
 image: 'https://m.media-amazon.com/images/I/316uyN9cXfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3Y9PZT-es Desigual Belts Wrap ME Stars Cinturón Verde MUSGO 4000 85...'
 sku: 'B07N3Y9PZT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-10 18:34:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410rKn3yp4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078LX3DNK-es BEAUTURAL Plancha de Vapor Vertical y Profesional de Alta...'
 sku: 'B078LX3DNK-es'
 tags: [  ]

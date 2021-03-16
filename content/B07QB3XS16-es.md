@@ -5,7 +5,7 @@ date: 2020-01-07 19:07:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41s7%2BS2OEOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB3XS16-es MTNG Attitude 69147 Zapatillas para Mujer Beige Goat PU...'
 sku: 'B07QB3XS16-es'
 tags: [  ]

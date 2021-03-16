@@ -5,7 +5,7 @@ date: 2020-08-17 19:44:01
 image: 'https://m.media-amazon.com/images/I/31BLZX-94tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0ZG1UI-es dockers Alpha Original Skinny-Lite Pantalones Marrón New...'
 sku: 'B01N0ZG1UI-es'
 tags: [  ]

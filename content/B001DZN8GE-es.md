@@ -5,7 +5,7 @@ date: 2020-01-20 17:59:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jHTUZtLfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DZN8GE-es Epson Durabrite Ultra Ink para Stylus SX600/B40W/BX600FW...'
 sku: 'B001DZN8GE-es'
 tags: [  ]

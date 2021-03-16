@@ -5,7 +5,7 @@ date: 2020-05-23 07:40:20
 image: 'https://m.media-amazon.com/images/I/31NvifHnYwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004CYEZ42-es Victoria Inglesa Elastico Tenido Punt - Zapatillas de...'
 sku: 'B004CYEZ42-es'
 tags: [  ]

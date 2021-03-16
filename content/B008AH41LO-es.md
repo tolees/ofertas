@@ -5,7 +5,7 @@ date: 2020-05-30 07:10:40
 image: 'https://m.media-amazon.com/images/I/41ULzkbuavL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008AH41LO-es Trixie Comedero Acero INOX Recub. Plástico 0.4 l ø14 cm'
 sku: 'B008AH41LO-es'
 tags: [  ]

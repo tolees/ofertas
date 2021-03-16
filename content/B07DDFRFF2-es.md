@@ -5,7 +5,7 @@ date: 2020-02-16 18:18:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51a9ECmytQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDFRFF2-es Ready 2 Robot Serie 1 - Bot Blaster Capsula Sorpresa con...'
 sku: 'B07DDFRFF2-es'
 tags: [  ]

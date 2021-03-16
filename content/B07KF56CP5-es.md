@@ -5,7 +5,7 @@ date: 2020-08-21 02:56:01
 image: 'https://m.media-amazon.com/images/I/41KBxTxCcML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF56CP5-es Levi s 501 High Rise Short Pantalones Cortos Azul Weak In...'
 sku: 'B07KF56CP5-es'
 tags: [  ]

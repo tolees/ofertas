@@ -5,7 +5,7 @@ date: 2020-06-22 11:11:45
 image: 'https://m.media-amazon.com/images/I/41D-E-gb63L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXWCS7G-es Kipling Firefly Up Mochilas para Mujer Beige Pastel Beige...'
 sku: 'B01MXWCS7G-es'
 tags: [  ]

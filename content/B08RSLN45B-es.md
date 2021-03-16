@@ -5,7 +5,7 @@ date: 2021-03-16 14:40:36
 image: 'https://m.media-amazon.com/images/I/41qYBta4-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08RSLN45B-es M el vampiro de Düsseldorf Ed. Especial [Blu-ray]'
 sku: 'B08RSLN45B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-28 06:38:12
 image: 'https://m.media-amazon.com/images/I/41iIgeZ9bjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSOPLZK-es Samsung Clear Cover - Funda para Samsung Galaxy S7 Edge...'
 sku: 'B01BSOPLZK-es'
 tags: [  ]

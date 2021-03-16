@@ -5,7 +5,7 @@ date: 2020-09-30 19:48:13
 image: 'https://m.media-amazon.com/images/I/31AHGzdO2AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HLZBGGP-es 5 Máscaras Faciales KN95 / FFP2 Mascarilla Mascarilla...'
 sku: 'B08HLZBGGP-es'
 tags: [  ]

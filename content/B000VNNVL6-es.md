@@ -5,7 +5,7 @@ date: 2020-09-25 14:10:55
 image: 'https://m.media-amazon.com/images/I/41EXF3IowlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VNNVL6-es Clatronic Secador de Pelo HTD 3055 Secador - 350 gr'
 sku: 'B000VNNVL6-es'
 tags: [  ]

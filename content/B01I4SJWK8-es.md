@@ -5,7 +5,7 @@ date: 2020-03-15 10:15:31
 image: 'https://m.media-amazon.com/images/I/61nyrP-+5IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I4SJWK8-es Luces Solar Exterior Tira Lamparas led de Decoración/...'
 sku: 'B01I4SJWK8-es'
 tags: [  ]

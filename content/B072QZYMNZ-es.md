@@ -5,7 +5,7 @@ date: 2020-04-20 11:10:59
 image: 'https://m.media-amazon.com/images/I/41RLjOFAbJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072QZYMNZ-es Superga 2750 COTU Classic Zapatillas Unisex Rosa Dusty...'
 sku: 'B072QZYMNZ-es'
 tags: [  ]

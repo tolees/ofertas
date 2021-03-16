@@ -5,7 +5,7 @@ date: 2020-09-03 02:00:46
 image: 'https://m.media-amazon.com/images/I/41os0EmG3yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T4SJFD2-es Balvi Bote Cocina Cucina Color Blanco Recipiente de Cocina...'
 sku: 'B00T4SJFD2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 14:03:09
 image: 'https://m.media-amazon.com/images/I/41jOa-oh+rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086M7RYKH-es Oihxse Funda para Realme 5 Transparente Estuche con Realme...'
 sku: 'B086M7RYKH-es'
 tags: [  ]

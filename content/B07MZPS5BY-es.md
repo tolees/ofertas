@@ -5,7 +5,7 @@ date: 2020-03-11 10:37:22
 image: 'https://m.media-amazon.com/images/I/41b60PLSmEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPS5BY-es Pepe Jeans Dom suéter Dulwich 594 Small para Hombre'
 sku: 'B07MZPS5BY-es'
 tags: [  ]

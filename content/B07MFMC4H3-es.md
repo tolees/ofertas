@@ -5,7 +5,7 @@ date: 2020-07-01 16:55:55
 image: 'https://m.media-amazon.com/images/I/41ffJg3EmXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFMC4H3-es Funko- VYNL 4" 2-Pack: Kingdom Hearts 3: Sora & Heartless...'
 sku: 'B07MFMC4H3-es'
 tags: [  ]

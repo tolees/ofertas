@@ -5,7 +5,7 @@ date: 2020-08-08 18:53:04
 image: 'https://m.media-amazon.com/images/I/31qBeN-bCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KU70PI-es Clarins Demaquillant Express Ojos 125 ml'
 sku: 'B000KU70PI-es'
 tags: [  ]

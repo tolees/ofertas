@@ -5,7 +5,7 @@ date: 2020-07-03 05:51:39
 image: 'https://m.media-amazon.com/images/I/41CBy6Ut9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QC89KP-es Kennti Alpargatas de Cordones y Chambray Hombre Blanco 42 EU'
 sku: 'B075QC89KP-es'
 tags: [  ]

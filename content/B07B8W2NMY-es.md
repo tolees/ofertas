@@ -5,7 +5,7 @@ date: 2020-06-06 17:14:43
 image: 'https://m.media-amazon.com/images/I/41j7f7Xr8+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8W2NMY-es American Crew Pomada de Fijacion Fijacion Ligera / Poco...'
 sku: 'B07B8W2NMY-es'
 tags: [  ]

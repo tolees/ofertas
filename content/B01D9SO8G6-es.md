@@ -5,7 +5,7 @@ date: 2020-06-19 12:04:13
 image: 'https://m.media-amazon.com/images/I/31Otn-6noNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D9SO8G6-es Pendientes Yazilind deslumbrante Ba?ado En Plata l¨¢grima...'
 sku: 'B01D9SO8G6-es'
 tags: [  ]

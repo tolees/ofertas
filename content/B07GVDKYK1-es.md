@@ -5,7 +5,7 @@ date: 2020-01-02 08:26:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ztyQ1Oj8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVDKYK1-es Magichome Temporizador Digital Programable Enchufe...'
 sku: 'B07GVDKYK1-es'
 tags: [  ]

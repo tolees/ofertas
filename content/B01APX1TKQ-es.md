@@ -5,7 +5,7 @@ date: 2020-09-19 09:34:08
 image: 'https://m.media-amazon.com/images/I/3197PE30TRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01APX1TKQ-es NYX Professional Makeup Pintalabios Lip Lingerie Liquid...'
 sku: 'B01APX1TKQ-es'
 tags: [  ]

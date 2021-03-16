@@ -5,7 +5,7 @@ date: 2020-08-30 07:23:21
 image: 'https://m.media-amazon.com/images/I/41saBTzRHoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R7B96GO-es Pioneer SE-MJ561BT-T - Auriculares supraurales Bluetooth...'
 sku: 'B00R7B96GO-es'
 tags: [  ]

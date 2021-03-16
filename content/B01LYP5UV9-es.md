@@ -5,7 +5,7 @@ date: 2020-03-08 15:11:17
 image: 'https://m.media-amazon.com/images/I/31WUMeY1CXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYP5UV9-es PARKER IM pluma estilográfica azul mate con plumín fino y...'
 sku: 'B01LYP5UV9-es'
 tags: [  ]

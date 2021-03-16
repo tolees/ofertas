@@ -5,7 +5,7 @@ date: 2020-10-04 19:37:24
 image: 'https://m.media-amazon.com/images/I/51wjdeIS0hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NM0MR6-es Casio Reloj Multiesfera para Mujer de Cuarzo con Correa en...'
 sku: 'B000NM0MR6-es'
 tags: [  ]

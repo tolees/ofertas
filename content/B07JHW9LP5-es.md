@@ -5,7 +5,7 @@ date: 2020-01-26 20:08:46
 image: 'https://m.media-amazon.com/images/I/41XDlDnFGzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHW9LP5-es Columbia Ivo Trail Zapatillas para Hombre Verde Peatmoss...'
 sku: 'B07JHW9LP5-es'
 tags: [  ]

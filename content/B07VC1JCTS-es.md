@@ -5,7 +5,7 @@ date: 2020-01-27 09:04:41
 image: 'https://m.media-amazon.com/images/I/51DsuY7Op+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC1JCTS-es Almohadillas Desmaquillantes TURATA 16Pcs Almohadillas de...'
 sku: 'B07VC1JCTS-es'
 tags: [  ]

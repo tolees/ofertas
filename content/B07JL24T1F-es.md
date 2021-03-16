@@ -5,7 +5,7 @@ date: 2020-06-24 06:18:46
 image: 'https://m.media-amazon.com/images/I/414JgF4my3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JL24T1F-es Under Armour Undeniable 2.0 Bolsa de equipaje Unisex...'
 sku: 'B07JL24T1F-es'
 tags: [  ]

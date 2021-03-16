@@ -5,7 +5,7 @@ date: 2020-07-02 18:32:50
 image: 'https://m.media-amazon.com/images/I/21H+3ZlTXUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084QGJBC8-es Tooth Instant Perfect Smile Flex Blanqueamiento de dientes...'
 sku: 'B084QGJBC8-es'
 tags: [  ]

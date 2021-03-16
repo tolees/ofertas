@@ -5,7 +5,7 @@ date: 2020-08-01 10:29:00
 image: 'https://m.media-amazon.com/images/I/413qp4u4miL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYY4NG1-es Merrell Moab 2 Mid GTX Botas de Senderismo para Hombre...'
 sku: 'B07TYY4NG1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-15 09:32:20
 image: 'https://m.media-amazon.com/images/I/51gVdXhVIbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F24SYV3-es Válvula de drenaje automática G1 / 2 DN15 Válvula de...'
 sku: 'B07F24SYV3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-16 15:37:27
 image: 'https://m.media-amazon.com/images/I/41D1PK+pkRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IF3KDT2-es Casio WAVE CEPTOR Reloj Radiocontrolado y solar Cristal de...'
 sku: 'B00IF3KDT2-es'
 tags: [  ]

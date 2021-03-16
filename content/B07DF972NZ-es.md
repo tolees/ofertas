@@ -5,7 +5,7 @@ date: 2020-01-10 09:16:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XOgMM1JbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DF972NZ-es Godmorn Molinillo de Café Eléctrico Molinillo Compacto de...'
 sku: 'B07DF972NZ-es'
 tags: [  ]

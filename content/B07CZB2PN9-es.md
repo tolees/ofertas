@@ -5,7 +5,7 @@ date: 2020-03-12 19:57:47
 image: 'https://m.media-amazon.com/images/I/31+2qHFkNPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZB2PN9-es Asics Gel-Lyte PS Zapatillas Unisex Niños Negro...'
 sku: 'B07CZB2PN9-es'
 tags: [  ]

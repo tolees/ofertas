@@ -5,7 +5,7 @@ date: 2020-01-06 06:47:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51sQf9USVWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T76CCG-es Homelody 38ºC Termostatica 3 Funciones Columna de Ducha...'
 sku: 'B078T76CCG-es'
 tags: [  ]

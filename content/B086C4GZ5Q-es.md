@@ -5,7 +5,7 @@ date: 2020-04-15 00:42:27
 image: 'https://m.media-amazon.com/images/I/51gOo3rCh3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086C4GZ5Q-es K9CK Soporte para Lego Star Wars Millennium Falcon 75105...'
 sku: 'B086C4GZ5Q-es'
 tags: [  ]

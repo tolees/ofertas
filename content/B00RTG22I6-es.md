@@ -5,7 +5,7 @@ date: 2020-03-05 17:08:41
 image: 'https://m.media-amazon.com/images/I/41hvBuKPtcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RTG22I6-es Grohe Eurodisc - Grifo de lavabo empotrado color cromo L...'
 sku: 'B00RTG22I6-es'
 tags: [  ]

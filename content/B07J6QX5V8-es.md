@@ -5,7 +5,7 @@ date: 2020-03-29 19:56:25
 image: 'https://m.media-amazon.com/images/I/41TpKLPkWeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6QX5V8-es Hackett Aston Martin Racing Polo Blanco White/Multi 8aj...'
 sku: 'B07J6QX5V8-es'
 tags: [  ]

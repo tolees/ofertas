@@ -5,7 +5,7 @@ date: 2020-06-11 01:02:52
 image: 'https://m.media-amazon.com/images/I/41xdUh3xsHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHT77W4-es Jack & Jones Jcobullhead Crew Neck suéter Multicolor...'
 sku: 'B07NHT77W4-es'
 tags: [  ]

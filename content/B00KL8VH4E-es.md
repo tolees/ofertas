@@ -5,7 +5,7 @@ date: 2020-04-26 20:20:56
 image: 'https://m.media-amazon.com/images/I/31hDw-e2QbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KL8VH4E-es INOXIBAR Tapa volteadora de Tortilla 30 cm Centimeters'
 sku: 'B00KL8VH4E-es'
 tags: [  ]

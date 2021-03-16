@@ -5,7 +5,7 @@ date: 2020-01-02 15:03:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41v7vqoFejL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004UBDX54-es Lico Bernie V Zapatillas Deportivas para Interior Unisex...'
 sku: 'B004UBDX54-es'
 tags: [  ]

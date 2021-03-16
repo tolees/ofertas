@@ -5,7 +5,7 @@ date: 2020-02-04 08:18:16
 image: 'https://m.media-amazon.com/images/I/516roJTW5iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L55LFYM-es Hombre Zapatillas de Correr Casual para Deportivas de...'
 sku: 'B07L55LFYM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 08:44:46
 image: 'https://m.media-amazon.com/images/I/318wYR06RdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSZQR7M-es Clarks Glove Puppet Mocasines para Mujer Naranja Orange...'
 sku: 'B07FSZQR7M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-10 09:11:12
 image: 'https://m.media-amazon.com/images/I/3151zFIFWoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001MJ0XIC-es Hugo Boss 11563 - Desodorante'
 sku: 'B001MJ0XIC-es'
 tags: [  ]

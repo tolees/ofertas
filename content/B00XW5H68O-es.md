@@ -5,7 +5,7 @@ date: 2020-09-26 06:03:30
 image: 'https://m.media-amazon.com/images/I/41h5br4rKvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XW5H68O-es Bosch Professional de carga inalámbrica clásico juego de...'
 sku: 'B00XW5H68O-es'
 tags: [  ]

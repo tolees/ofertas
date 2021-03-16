@@ -5,7 +5,7 @@ date: 2020-06-02 16:07:03
 image: 'https://m.media-amazon.com/images/I/41hHpEfGgaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002T9VRX4-es Makita BO3711 - Lijadora Orbital Electronica 190W...'
 sku: 'B002T9VRX4-es'
 tags: [  ]

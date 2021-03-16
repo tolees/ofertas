@@ -5,7 +5,7 @@ date: 2020-04-17 08:38:39
 image: 'https://m.media-amazon.com/images/I/51w6xHDN64L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8M4L7R-es 2.0 Altavoces HiFi estantería Altavoces pc...'
 sku: 'B07Y8M4L7R-es'
 tags: [  ]

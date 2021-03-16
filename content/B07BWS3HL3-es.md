@@ -5,7 +5,7 @@ date: 2020-03-24 04:16:23
 image: 'https://m.media-amazon.com/images/I/41COuIXKuSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BWS3HL3-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B07BWS3HL3-es'
 tags: [  ]

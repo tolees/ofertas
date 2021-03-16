@@ -5,7 +5,7 @@ date: 2020-09-28 08:48:47
 image: 'https://m.media-amazon.com/images/I/314IZZGSDML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776XH2PF-es Tommy Jeans Mujer Mid Rise Sandy Jeans Azul New Rinse...'
 sku: 'B0776XH2PF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 17:03:09
 image: 'https://m.media-amazon.com/images/I/41an2rSFuWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMW8QQC-es Barra de Sonido Bluetooth Estink 20W Altavoz de Inalámbric...'
 sku: 'B07CMW8QQC-es'
 tags: [  ]

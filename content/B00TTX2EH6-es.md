@@ -5,7 +5,7 @@ date: 2020-03-05 12:17:42
 image: 'https://m.media-amazon.com/images/I/51Mzf1nkBWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTX2EH6-es Fontactiv Forte Vainilla - 14 Sobres de 30gr'
 sku: 'B00TTX2EH6-es'
 tags: [  ]

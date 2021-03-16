@@ -5,7 +5,7 @@ date: 2020-07-21 20:45:23
 image: 'https://m.media-amazon.com/images/I/51HewC00-OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0001VVZUC-es Solgar® Zinc Quelado 100 Comprimidos - Protege del daño...'
 sku: 'B0001VVZUC-es'
 tags: [  ]

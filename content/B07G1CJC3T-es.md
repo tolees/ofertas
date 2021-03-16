@@ -5,7 +5,7 @@ date: 2020-02-28 16:08:22
 image: 'https://m.media-amazon.com/images/I/41i1MJYlXGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1CJC3T-es ghd curve creative curl - Rizador con barril cónico para...'
 sku: 'B07G1CJC3T-es'
 tags: [  ]

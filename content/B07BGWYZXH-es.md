@@ -5,7 +5,7 @@ date: 2020-05-19 08:33:28
 image: 'https://m.media-amazon.com/images/I/61wVto9IpcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGWYZXH-es Máscara para los ojos Parches para los ojos Ojos Parches...'
 sku: 'B07BGWYZXH-es'
 tags: [  ]

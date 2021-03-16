@@ -5,7 +5,7 @@ date: 2020-03-23 19:32:18
 image: 'https://m.media-amazon.com/images/I/41OnXgSsu+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HXM2WX-es HP ENVY Photo 6234 - Impresora multifunción Inyección de...'
 sku: 'B076HXM2WX-es'
 tags: [  ]

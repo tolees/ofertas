@@ -5,7 +5,7 @@ date: 2020-01-04 10:27:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41svoOxuJDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YFSF6QG-es valcena - crema de noche - Multi Active Regeneradora'
 sku: 'B00YFSF6QG-es'
 tags: [  ]

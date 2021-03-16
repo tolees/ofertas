@@ -5,7 +5,7 @@ date: 2020-02-05 20:06:31
 image: 'https://m.media-amazon.com/images/I/51CSzfyvX9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTC974D-es George Foreman - Grill Barbacoa Parrilla Eléctrica 2400 W...'
 sku: 'B01MTC974D-es'
 tags: [  ]

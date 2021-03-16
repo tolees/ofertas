@@ -5,7 +5,7 @@ date: 2020-09-07 16:01:07
 image: 'https://m.media-amazon.com/images/I/41SEb9R1YUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PSTC97-es Adidas by Nixon Reloj Mujer de Digital con Correa en Acero...'
 sku: 'B079PSTC97-es'
 tags: [  ]

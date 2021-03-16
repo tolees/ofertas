@@ -5,7 +5,7 @@ date: 2020-06-08 15:01:31
 image: 'https://m.media-amazon.com/images/I/31AnDjO8IwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5QP2KB-es PUMA Essentials Logo W Legging Deportivo de Talle Alto...'
 sku: 'B07D5QP2KB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 08:42:21
 image: 'https://m.media-amazon.com/images/I/41yp1zQdxqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PQ7T6B-es Funko Pop!- Marvel: Avengers Infinity War Figura de Vinilo...'
 sku: 'B079PQ7T6B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 05:32:13
 image: 'https://m.media-amazon.com/images/I/31SI4+yOEgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJHZD87-es D-Link COVR-2202 - Kit WiFi Mesh Tri-Banda 2 Extensores...'
 sku: 'B07DJHZD87-es'
 tags: [  ]

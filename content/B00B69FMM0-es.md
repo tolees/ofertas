@@ -5,7 +5,7 @@ date: 2020-09-07 22:50:24
 image: 'https://m.media-amazon.com/images/I/51JRmaAhrqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B69FMM0-es Result Esco Army - Gorra de invierno unisex Negro Talla única'
 sku: 'B00B69FMM0-es'
 tags: [  ]

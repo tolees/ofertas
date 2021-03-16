@@ -5,7 +5,7 @@ date: 2020-02-28 15:51:33
 image: 'https://m.media-amazon.com/images/I/41oZnsmnMnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007IUDKE8-es Stendhal Recette Merveilleuse Crema Revitalisante Jour...'
 sku: 'B007IUDKE8-es'
 tags: [  ]

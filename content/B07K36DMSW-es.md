@@ -5,7 +5,7 @@ date: 2020-02-24 15:28:28
 image: 'https://m.media-amazon.com/images/I/41Ckw8fd44L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K36DMSW-es adidas Falcon Zapatillas de Running para Mujer Rosa Magrea...'
 sku: 'B07K36DMSW-es'
 tags: [  ]

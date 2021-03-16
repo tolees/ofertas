@@ -5,7 +5,7 @@ date: 2020-10-10 22:30:24
 image: 'https://m.media-amazon.com/images/I/51MU1lEc+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FRCHQ6B-es HOMIEE Bolsa para Portátil Maletín Portátil 15...'
 sku: 'B07FRCHQ6B-es'
 tags: [  ]

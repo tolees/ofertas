@@ -5,7 +5,7 @@ date: 2020-05-28 16:05:03
 image: 'https://m.media-amazon.com/images/I/31L+TQr2vaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YP52VGY-es Funda para teléfono móvil Huawei P Smart 2019 ultrafina...'
 sku: 'B07YP52VGY-es'
 tags: [  ]

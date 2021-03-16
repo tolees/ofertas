@@ -5,7 +5,7 @@ date: 2020-05-24 09:40:38
 image: 'https://m.media-amazon.com/images/I/41VH3nOKg7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMVZQ2H-es Liveinu - Red de insectos para bebés con cierre de...'
 sku: 'B07CMVZQ2H-es'
 tags: [  ]

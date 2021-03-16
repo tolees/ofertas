@@ -5,7 +5,7 @@ date: 2020-02-06 21:10:41
 image: 'https://m.media-amazon.com/images/I/31gx5yiB48L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CV0AH5O-es Caterpillar Elude Wp Botas Chukka Hombre Marrón Dark Brown...'
 sku: 'B01CV0AH5O-es'
 tags: [  ]

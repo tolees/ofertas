@@ -5,7 +5,7 @@ date: 2020-06-10 03:56:01
 image: 'https://m.media-amazon.com/images/I/41+SBK5G70L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLR891P-es Jack & Jones Jorfame Crew Neck Suéter Azul Sea Moss Fit:...'
 sku: 'B07WLR891P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-11 06:23:05
 image: 'https://m.media-amazon.com/images/I/41Qf1Qva7FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084DRQRR8-es ASUS ROG Zephyrus S GX531GXR-AZ063T - Ordenador portátil...'
 sku: 'B084DRQRR8-es'
 tags: [  ]

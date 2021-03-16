@@ -5,7 +5,7 @@ date: 2020-09-08 18:01:20
 image: 'https://m.media-amazon.com/images/I/4199l6WNLWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088W5SVYB-es Oihxse Compatible con Motorola Moto G6 Plus Silicona Funda...'
 sku: 'B088W5SVYB-es'
 tags: [  ]

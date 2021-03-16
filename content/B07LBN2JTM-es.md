@@ -5,7 +5,7 @@ date: 2020-01-30 20:30:31
 image: 'https://m.media-amazon.com/images/I/41QWXUip6lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBN2JTM-es Kappa Modus II Zapatillas Unisex Adulto Black 1111 38 EU'
 sku: 'B07LBN2JTM-es'
 tags: [  ]

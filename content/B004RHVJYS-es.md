@@ -5,7 +5,7 @@ date: 2020-03-03 19:03:47
 image: 'https://m.media-amazon.com/images/I/41tidjzEzrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004RHVJYS-es Keter - Mini huerto en casa Raised Garden Ben con...'
 sku: 'B004RHVJYS-es'
 tags: [  ]

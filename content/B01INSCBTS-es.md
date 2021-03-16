@@ -5,7 +5,7 @@ date: 2020-08-06 11:37:47
 image: 'https://m.media-amazon.com/images/I/310g+w7LgeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01INSCBTS-es Libratone ONE Style - Altavoz con Bluetooth y función...'
 sku: 'B01INSCBTS-es'
 tags: [  ]

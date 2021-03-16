@@ -5,7 +5,7 @@ date: 2020-07-15 07:29:02
 image: 'https://m.media-amazon.com/images/I/51oTlGgx-IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SW1HCR-es Ventilador Portátil Versátil de Escritorio Personal...'
 sku: 'B082SW1HCR-es'
 tags: [  ]

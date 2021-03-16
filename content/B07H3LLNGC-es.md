@@ -5,7 +5,7 @@ date: 2020-01-14 17:06:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/313-KZoikdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3LLNGC-es Himaly Cortapelos Profesional Hombre Electrónico Corte...'
 sku: 'B07H3LLNGC-es'
 tags: [  ]

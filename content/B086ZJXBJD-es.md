@@ -5,7 +5,7 @@ date: 2020-05-31 12:03:22
 image: 'https://m.media-amazon.com/images/I/31inTF3gB2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZJXBJD-es B Blesiya 4X Gancho Triangular De Anillo Dividido para...'
 sku: 'B086ZJXBJD-es'
 tags: [  ]

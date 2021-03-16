@@ -5,7 +5,7 @@ date: 2020-05-28 09:34:25
 image: 'https://m.media-amazon.com/images/I/51CCYM-Is4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825LRWD7-es Pnakqil Funda Xiaomi Redmi Note 8T Transparente Silicona...'
 sku: 'B0825LRWD7-es'
 tags: [  ]

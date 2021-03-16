@@ -5,7 +5,7 @@ date: 2020-02-19 21:56:01
 image: 'https://m.media-amazon.com/images/I/41ULVh95rYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGWQ7FK-es Primigi Pca 44112 Botas para Bebés Marron E Scuro 4411344...'
 sku: 'B07NGWQ7FK-es'
 tags: [  ]

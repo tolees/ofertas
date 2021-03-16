@@ -5,7 +5,7 @@ date: 2020-02-07 15:33:55
 image: 'https://m.media-amazon.com/images/I/31CA7HG3w9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HT94CVS-es Einhell GC-ET 3023 - Recortabordes eléctrico 300W 230V...'
 sku: 'B00HT94CVS-es'
 tags: [  ]

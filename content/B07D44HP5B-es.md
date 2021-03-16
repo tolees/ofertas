@@ -5,7 +5,7 @@ date: 2020-05-01 09:22:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DZ4zdBEIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D44HP5B-es FIND Botín Liso con Cordones Hombre Marrón Brown Brown 43 EU'
 sku: 'B07D44HP5B-es'
 tags: [  ]

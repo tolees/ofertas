@@ -5,7 +5,7 @@ date: 2020-08-12 16:46:03
 image: 'https://m.media-amazon.com/images/I/41XeR4iOr7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y51D8XP-es Carcasa compatible con Samsung Galaxy S10E funda de...'
 sku: 'B07Y51D8XP-es'
 tags: [  ]

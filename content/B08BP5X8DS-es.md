@@ -5,7 +5,7 @@ date: 2020-09-19 05:01:22
 image: 'https://m.media-amazon.com/images/I/41V8OhCYzVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BP5X8DS-es TOPOSH Windows 10 Ordenador Portátil 10 1" 4 GB RAM+64 GB...'
 sku: 'B08BP5X8DS-es'
 tags: [  ]

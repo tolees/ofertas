@@ -5,7 +5,7 @@ date: 2020-02-27 09:07:53
 image: 'https://m.media-amazon.com/images/I/31As4ErjMpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZSLLZH-es HP DeskJet 3750 - Impresora de tinta multifunción 8 ppm...'
 sku: 'B07GZSLLZH-es'
 tags: [  ]

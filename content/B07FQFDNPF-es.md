@@ -5,7 +5,7 @@ date: 2020-01-11 14:25:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bw8q1DDSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQFDNPF-es Buff Adventure Junior Frozen Tubular Polar Unisex Adulto...'
 sku: 'B07FQFDNPF-es'
 tags: [  ]

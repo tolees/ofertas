@@ -5,7 +5,7 @@ date: 2020-01-09 15:01:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NYF3HM-es Reebok Classic Leather Zapatillas Mujer Blanco 38.5 EU /...'
 sku: 'B001NYF3HM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 17:03:20
 image: 'https://m.media-amazon.com/images/I/41flF4IcnvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6K47HT-es Crock-Pot CSC051X Olla Multicooker Express para todo tipo...'
 sku: 'B07D6K47HT-es'
 tags: [  ]

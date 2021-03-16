@@ -5,7 +5,7 @@ date: 2020-06-11 05:38:29
 image: 'https://m.media-amazon.com/images/I/41dNTEuSPpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M4D1LG-es Decdeal USB fotocatalítico eléctrico Anti Mosquito Asesino...'
 sku: 'B088M4D1LG-es'
 tags: [  ]

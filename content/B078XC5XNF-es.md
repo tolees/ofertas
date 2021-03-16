@@ -5,7 +5,7 @@ date: 2020-10-02 01:20:57
 image: 'https://m.media-amazon.com/images/I/51tKmxp3upL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XC5XNF-es Relojes Hombre Acero Inoxidable Impermeable Deportes...'
 sku: 'B078XC5XNF-es'
 tags: [  ]

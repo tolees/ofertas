@@ -5,7 +5,7 @@ date: 2020-10-12 16:25:19
 image: 'https://m.media-amazon.com/images/I/31V1PwOPTwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQXWZ3G-es Lacoste Graduate TRI1 SMA Zapatillas para Hombre Blanco...'
 sku: 'B07SQXWZ3G-es'
 tags: [  ]

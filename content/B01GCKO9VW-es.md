@@ -5,7 +5,7 @@ date: 2020-02-20 13:42:47
 image: 'https://m.media-amazon.com/images/I/31npyGhauqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GCKO9VW-es GoPro AMBSM-001 - Soporte Profesional para rieles de...'
 sku: 'B01GCKO9VW-es'
 tags: [  ]

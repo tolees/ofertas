@@ -5,7 +5,7 @@ date: 2020-04-25 12:27:00
 image: 'https://m.media-amazon.com/images/I/51winQeFgYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073H8YDNQ-es Air Wick Ambientador Freshmatic Completo Life Scents...'
 sku: 'B073H8YDNQ-es'
 tags: [  ]

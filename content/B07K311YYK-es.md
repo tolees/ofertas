@@ -5,7 +5,7 @@ date: 2020-06-28 07:05:50
 image: 'https://m.media-amazon.com/images/I/51i5rjyHymL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K311YYK-es iiniim Conjunto de Traje Danza del Vientre para Niña Top +...'
 sku: 'B07K311YYK-es'
 tags: [  ]

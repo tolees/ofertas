@@ -5,7 +5,7 @@ date: 2020-04-16 08:53:33
 image: 'https://m.media-amazon.com/images/I/41qzDaGiuqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KTFE57U-es Craft Lightcraft Alphalux Foco 100 W LED bajo Consumo...'
 sku: 'B00KTFE57U-es'
 tags: [  ]

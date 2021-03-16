@@ -5,7 +5,7 @@ date: 2020-01-09 14:09:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51WCScLXtRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O94JFWW-es Fujifilm instax Mini 8 Kit - cámaras con impresión...'
 sku: 'B00O94JFWW-es'
 tags: [  ]

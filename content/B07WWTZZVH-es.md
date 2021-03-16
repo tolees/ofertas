@@ -5,7 +5,7 @@ date: 2020-03-28 15:16:17
 image: 'https://m.media-amazon.com/images/I/314vy36mRsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWTZZVH-es oodji Ultra Mujer Mallas de Punto con Inscripción Rojo ES...'
 sku: 'B07WWTZZVH-es'
 tags: [  ]

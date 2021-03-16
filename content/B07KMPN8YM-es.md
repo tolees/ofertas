@@ -5,7 +5,7 @@ date: 2020-06-06 16:24:21
 image: 'https://m.media-amazon.com/images/I/31uEPIAa7LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMPN8YM-es adidas W E 3s Pant Pantalones Deportivos Mujer Negro...'
 sku: 'B07KMPN8YM-es'
 tags: [  ]

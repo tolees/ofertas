@@ -5,7 +5,7 @@ date: 2020-02-28 19:15:45
 image: 'https://m.media-amazon.com/images/I/31ej0rPwCYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077G7C5BL-es DECKEY Lámpara de Techo Luz Colgante Kit de 2 Unidades...'
 sku: 'B077G7C5BL-es'
 tags: [  ]

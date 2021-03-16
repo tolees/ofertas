@@ -5,7 +5,7 @@ date: 2020-04-24 13:52:51
 image: 'https://m.media-amazon.com/images/I/41IrP3PkB+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G8F6TXJ-es Russell Hobbs Retro 25230-56 - Batidora de mano 700 W...'
 sku: 'B07G8F6TXJ-es'
 tags: [  ]

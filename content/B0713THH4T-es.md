@@ -5,7 +5,7 @@ date: 2020-07-11 17:46:26
 image: 'https://m.media-amazon.com/images/I/310uU09VcTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0713THH4T-es Polti Moppy Limpiador de suelos con vapor sin cables para...'
 sku: 'B0713THH4T-es'
 tags: [  ]

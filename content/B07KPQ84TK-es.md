@@ -5,7 +5,7 @@ date: 2020-01-22 03:05:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zuHOksddL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPQ84TK-es GANT The Original Pique SS Rugger Polo Rojo Purpur 542...'
 sku: 'B07KPQ84TK-es'
 tags: [  ]

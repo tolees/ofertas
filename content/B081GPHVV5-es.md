@@ -5,7 +5,7 @@ date: 2020-05-02 10:47:17
 image: 'https://m.media-amazon.com/images/I/41oeTHhXjIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081GPHVV5-es FLYLINKTECH 3500mAh Batería de Repuesto para Dyson V8...'
 sku: 'B081GPHVV5-es'
 tags: [  ]

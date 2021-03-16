@@ -5,7 +5,7 @@ date: 2020-02-27 17:34:38
 image: 'https://m.media-amazon.com/images/I/414GbdUuS4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GEOK3GQ-es SILVERHT 111933340199 - Teclado Plegable Doble para Tablet'
 sku: 'B01GEOK3GQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-15 11:46:18
 image: 'https://m.media-amazon.com/images/I/41ZT60EihiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMTYN7V-es Craghoppers Niñas Neopolitan Hybrid Unisex niños color...'
 sku: 'B07KMTYN7V-es'
 tags: [  ]

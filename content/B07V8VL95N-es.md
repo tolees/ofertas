@@ -5,7 +5,7 @@ date: 2020-08-13 14:07:14
 image: 'https://m.media-amazon.com/images/I/41rkl5gXHVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8VL95N-es Tommy Hilfiger Causal Tommy Jeans Sneaker Zapatillas para...'
 sku: 'B07V8VL95N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 19:44:00
 image: 'https://m.media-amazon.com/images/I/61omWWEr7uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0816QFMN6-es Corax Games Tudor juego de tablero'
 sku: 'B0816QFMN6-es'
 tags: [  ]

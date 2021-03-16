@@ -5,7 +5,7 @@ date: 2020-08-06 16:02:06
 image: 'https://m.media-amazon.com/images/I/41q4ggtObqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JWPOUFK-es Manguitos Hinchables Bestway Princesas Disney'
 sku: 'B00JWPOUFK-es'
 tags: [  ]

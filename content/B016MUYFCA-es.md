@@ -5,7 +5,7 @@ date: 2020-05-10 08:58:23
 image: 'https://m.media-amazon.com/images/I/41pRzXoMXBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016MUYFCA-es POP! Vinilo - Games: Assassin s Creed: Jacob Frye'
 sku: 'B016MUYFCA-es'
 tags: [  ]

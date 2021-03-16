@@ -5,7 +5,7 @@ date: 2020-01-23 20:37:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31AVP7OxiLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLSSRQL-es Clarks Ronnie Top Botas Chelsea para Hombre Negro Black...'
 sku: 'B07MLSSRQL-es'
 tags: [  ]

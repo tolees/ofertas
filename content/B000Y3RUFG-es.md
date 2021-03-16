@@ -5,7 +5,7 @@ date: 2020-05-30 19:56:20
 image: 'https://m.media-amazon.com/images/I/313-DCtS08L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Y3RUFG-es Wrangler Texas Contrast Jeans Azul Blue Black 001 30W /...'
 sku: 'B000Y3RUFG-es'
 tags: [  ]

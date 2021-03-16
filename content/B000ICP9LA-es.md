@@ -5,7 +5,7 @@ date: 2020-06-07 01:28:34
 image: 'https://m.media-amazon.com/images/I/51QsKAazYoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ICP9LA-es Emsa Superline Jarra medidora Transparente 0 5 L'
 sku: 'B000ICP9LA-es'
 tags: [  ]

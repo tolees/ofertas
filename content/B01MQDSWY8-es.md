@@ -5,7 +5,7 @@ date: 2020-08-21 12:37:31
 image: 'https://m.media-amazon.com/images/I/3184WWVCMnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQDSWY8-es Belkin F7U009vf06-WHT - Cargador doméstico para...'
 sku: 'B01MQDSWY8-es'
 tags: [  ]

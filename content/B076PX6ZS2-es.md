@@ -5,7 +5,7 @@ date: 2020-01-07 14:06:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51F8CyhMxaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PX6ZS2-es Skechers Graceful-Get Connected Zapatillas para Mujer Gris...'
 sku: 'B076PX6ZS2-es'
 tags: [  ]

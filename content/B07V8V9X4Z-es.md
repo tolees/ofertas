@@ -5,7 +5,7 @@ date: 2020-09-13 03:06:12
 image: 'https://m.media-amazon.com/images/I/314iXYpVsuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8V9X4Z-es Tommy Hilfiger Wmns Retro Flag Sneaker Zapatillas para...'
 sku: 'B07V8V9X4Z-es'
 tags: [  ]

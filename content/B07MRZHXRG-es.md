@@ -5,7 +5,7 @@ date: 2020-06-24 09:12:42
 image: 'https://m.media-amazon.com/images/I/41wB1-UeDqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MRZHXRG-es Herefun Funda para Barbacoa Impermeable 210D Oxford Funda...'
 sku: 'B07MRZHXRG-es'
 tags: [  ]

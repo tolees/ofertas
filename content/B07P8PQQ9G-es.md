@@ -5,7 +5,7 @@ date: 2020-02-29 16:23:02
 image: 'https://m.media-amazon.com/images/I/41z-0r6G-aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8PQQ9G-es Diesel UFST-STARS-THREEPACK Tanga para Mujer Negro...'
 sku: 'B07P8PQQ9G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 14:10:57
 image: 'https://m.media-amazon.com/images/I/31uq91o4GyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9HW51X-es BOSS Schino-Slim Shorts Pantalones Cortos Blanco Open...'
 sku: 'B07V9HW51X-es'
 tags: [  ]

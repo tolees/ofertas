@@ -5,7 +5,7 @@ date: 2020-04-08 05:56:41
 image: 'https://m.media-amazon.com/images/I/5142TXia0aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPDFCZ8-es LEMCASE Tijeras de Cocina Scissors Multiuso - Cuchilla de...'
 sku: 'B07FPDFCZ8-es'
 tags: [  ]

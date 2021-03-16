@@ -5,7 +5,7 @@ date: 2020-04-27 15:06:31
 image: 'https://m.media-amazon.com/images/I/41BUm2wTt7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006Z7HYLA-es IK Multimedia IPIRIGMIXIN - Mesa de mezclas'
 sku: 'B006Z7HYLA-es'
 tags: [  ]

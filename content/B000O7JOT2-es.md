@@ -5,7 +5,7 @@ date: 2020-01-16 10:30:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21fnTzVWsVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000O7JOT2-es Vichy Deo Desodorante Anti-Transpirante Pieles Sensibles...'
 sku: 'B000O7JOT2-es'
 tags: [  ]

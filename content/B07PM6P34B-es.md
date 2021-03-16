@@ -5,7 +5,7 @@ date: 2020-04-17 15:32:22
 image: 'https://m.media-amazon.com/images/I/41TvWCXoHwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PM6P34B-es Inulina BIO en Polvo Vegavero® | Prebiótico Orgánico Sin...'
 sku: 'B07PM6P34B-es'
 tags: [  ]

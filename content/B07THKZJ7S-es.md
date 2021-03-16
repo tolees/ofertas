@@ -5,7 +5,7 @@ date: 2020-07-31 20:40:39
 image: 'https://m.media-amazon.com/images/I/41tgF5Y+waL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THKZJ7S-es Charles Wilson Paquete 2 Camisetas Cuello Redondo de Rayas...'
 sku: 'B07THKZJ7S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 10:21:40
 image: 'https://m.media-amazon.com/images/I/51wQAjruKYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q6Y5SC7-es Scottonelle - Papel higiénico de 14 paquetes 6 rollos por...'
 sku: 'B07Q6Y5SC7-es'
 tags: [  ]

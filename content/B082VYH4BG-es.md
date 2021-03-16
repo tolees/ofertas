@@ -5,7 +5,7 @@ date: 2020-03-24 16:14:57
 image: 'https://m.media-amazon.com/images/I/51RDR+RfoWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VYH4BG-es SYROKAN Sujetador Deportivo para Mujer Alto Impacto...'
 sku: 'B082VYH4BG-es'
 tags: [  ]

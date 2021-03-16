@@ -5,7 +5,7 @@ date: 2020-05-31 18:15:33
 image: 'https://m.media-amazon.com/images/I/51nIItAZQAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3FZ7Z1-es A1SONIC Juego de 2 Fundas de cojín Decorativas de Seda...'
 sku: 'B07T3FZ7Z1-es'
 tags: [  ]

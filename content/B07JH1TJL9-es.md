@@ -5,7 +5,7 @@ date: 2020-04-25 16:44:37
 image: 'https://m.media-amazon.com/images/I/414bkqLdnKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH1TJL9-es Skechers VERRADO BROGEN Zapatillas Altas para Hombre...'
 sku: 'B07JH1TJL9-es'
 tags: [  ]

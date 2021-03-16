@@ -5,7 +5,7 @@ date: 2020-07-24 16:17:38
 image: 'https://m.media-amazon.com/images/I/41gwq4CoSBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZKKBRG-es Mini altavoz portátil con Bluetooth Con función altavoz 6...'
 sku: 'B01LZKKBRG-es'
 tags: [  ]

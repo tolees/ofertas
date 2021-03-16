@@ -5,7 +5,7 @@ date: 2020-02-25 15:19:24
 image: 'https://m.media-amazon.com/images/I/51U8kTwToML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5RRPCP-es Eono Essentials Clear Toiletry Bag Bolsa de Equipaje de...'
 sku: 'B07D5RRPCP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 19:19:21
 image: 'https://m.media-amazon.com/images/I/51CsS3yzQ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QRLW8G-es Queta Juego 12 Pinceles para Pintar Artistas Pinceles...'
 sku: 'B086QRLW8G-es'
 tags: [  ]

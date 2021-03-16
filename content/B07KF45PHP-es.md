@@ -5,7 +5,7 @@ date: 2020-10-07 05:52:49
 image: 'https://m.media-amazon.com/images/I/41L-xhZ9rgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF45PHP-es Levi s 502 Regular Taper Jeans Azul Baltic Adapt 0472 32W...'
 sku: 'B07KF45PHP-es'
 tags: [  ]

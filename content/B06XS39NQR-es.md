@@ -5,7 +5,7 @@ date: 2020-02-17 19:12:57
 image: 'https://m.media-amazon.com/images/I/414B1n-O-0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XS39NQR-es L Oreal Paris Elvive Champú para Cabello Seco - 400 ml'
 sku: 'B06XS39NQR-es'
 tags: [  ]

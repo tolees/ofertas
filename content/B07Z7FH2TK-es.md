@@ -5,7 +5,7 @@ date: 2020-04-07 13:29:43
 image: 'https://m.media-amazon.com/images/I/51wn73iyD0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7FH2TK-es TAZEMAT 42 Hojas Plantillas para Pintar Letras y Números...'
 sku: 'B07Z7FH2TK-es'
 tags: [  ]

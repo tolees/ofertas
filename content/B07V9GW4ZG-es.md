@@ -5,7 +5,7 @@ date: 2020-05-01 17:57:12
 image: 'https://m.media-amazon.com/images/I/41sXyr8pVlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9GW4ZG-es JACK & JONES Jorrafael Sweat Hood Capucha Gris Light Grey...'
 sku: 'B07V9GW4ZG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 15:57:29
 image: 'https://m.media-amazon.com/images/I/413bGCYqydL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLYZ3JC-es Vans Ward Suede/Canvas Zapatillas para Hombre Azul Outdoor...'
 sku: 'B07TLYZ3JC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-06 15:59:34
 image: 'https://m.media-amazon.com/images/I/51ZQxFEKwkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RS4DV2-es Ayotu Estuche de Colores para Kindle Paperwhite-Se Adapta...'
 sku: 'B075RS4DV2-es'
 tags: [  ]

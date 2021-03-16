@@ -5,7 +5,7 @@ date: 2020-07-24 01:18:05
 image: 'https://m.media-amazon.com/images/I/41Ag0pqhq4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SNTGZ5-es VEEAPE Dispensador de jabón automático 350ml Sensor...'
 sku: 'B089SNTGZ5-es'
 tags: [  ]

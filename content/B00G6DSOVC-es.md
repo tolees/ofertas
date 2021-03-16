@@ -5,7 +5,7 @@ date: 2020-09-03 08:14:35
 image: 'https://m.media-amazon.com/images/I/41AwUwinLjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G6DSOVC-es Jata GR208 Plancha de Asar de Terracota Superficie: 26 x...'
 sku: 'B00G6DSOVC-es'
 tags: [  ]

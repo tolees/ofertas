@@ -5,7 +5,7 @@ date: 2020-07-29 19:31:01
 image: 'https://m.media-amazon.com/images/I/41kklFmDPKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCQJ7VM-es ESR Cargador Inalámbrico Rápido 7.5W Carga rápida para...'
 sku: 'B07ZCQJ7VM-es'
 tags: [  ]

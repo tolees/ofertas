@@ -5,7 +5,7 @@ date: 2020-07-30 13:01:33
 image: 'https://m.media-amazon.com/images/I/41t2rM7+lEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UGWRPA-es Singer BSM 203 Quita pelusas Plastic Azul Gris Color Blanco'
 sku: 'B000UGWRPA-es'
 tags: [  ]

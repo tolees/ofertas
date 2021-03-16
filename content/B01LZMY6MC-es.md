@@ -5,7 +5,7 @@ date: 2020-08-24 13:01:33
 image: 'https://m.media-amazon.com/images/I/31WuKSeNZBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZMY6MC-es Brabantia Cubo de Basura con Pedal Inoxidable Acero Mate 3 l'
 sku: 'B01LZMY6MC-es'
 tags: [  ]

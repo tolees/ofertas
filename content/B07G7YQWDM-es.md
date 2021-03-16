@@ -5,7 +5,7 @@ date: 2020-04-19 08:32:51
 image: 'https://m.media-amazon.com/images/I/51FMJQpRhqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G7YQWDM-es IPOTCH 2 Piezas Medallón De Medalla De Uniforme Militar...'
 sku: 'B07G7YQWDM-es'
 tags: [  ]

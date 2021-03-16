@@ -5,7 +5,7 @@ date: 2020-01-05 12:18:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61Xw3iqmAiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B5W7DFP-es Jumanji: Bienvenidos A La Jungla 4K UHD + BD [Blu-ray]'
 sku: 'B07B5W7DFP-es'
 tags: [  ]

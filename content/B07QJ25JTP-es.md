@@ -5,7 +5,7 @@ date: 2020-08-20 08:07:25
 image: 'https://m.media-amazon.com/images/I/31g3L3Srj5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJ25JTP-es Funko Pop! Figura De Vinil Football: PSG - Kylian Mbappé...'
 sku: 'B07QJ25JTP-es'
 tags: [  ]

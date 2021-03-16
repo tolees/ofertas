@@ -5,7 +5,7 @@ date: 2020-04-29 12:20:02
 image: 'https://m.media-amazon.com/images/I/41Mooj0MXML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7C4TFY-es Intex 64446 - Colchón hinchable fibertech doble capa...'
 sku: 'B01N7C4TFY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 22:07:59
 image: 'https://m.media-amazon.com/images/I/41vQD5-ywqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0823MNPJR-es Colmanda 2 Piezas Juguete Mágico de Hombre Wooden Man...'
 sku: 'B0823MNPJR-es'
 tags: [  ]

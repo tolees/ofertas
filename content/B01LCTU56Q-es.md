@@ -5,7 +5,7 @@ date: 2020-02-18 09:53:36
 image: 'https://m.media-amazon.com/images/I/41hfayvugfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LCTU56Q-es Aussie 3 Minute Miracle Reconstructor Tratamiento...'
 sku: 'B01LCTU56Q-es'
 tags: [  ]

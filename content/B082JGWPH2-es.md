@@ -5,7 +5,7 @@ date: 2020-08-31 10:29:12
 image: 'https://m.media-amazon.com/images/I/51ViG8ECddL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082JGWPH2-es Persona 5 - Royal Phantom Thieves Edition'
 sku: 'B082JGWPH2-es'
 tags: [  ]

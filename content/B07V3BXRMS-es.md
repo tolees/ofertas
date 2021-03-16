@@ -5,7 +5,7 @@ date: 2020-04-18 16:45:49
 image: 'https://m.media-amazon.com/images/I/41LF6MEulKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3BXRMS-es 16V Adaptador de fuente alimentación para Canon...'
 sku: 'B07V3BXRMS-es'
 tags: [  ]

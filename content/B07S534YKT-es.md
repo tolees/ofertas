@@ -5,7 +5,7 @@ date: 2020-07-09 21:56:38
 image: 'https://m.media-amazon.com/images/I/41LWGmZu+rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S534YKT-es EraSpooky Disfraz de Payaso para Hombre Carnaval Circo...'
 sku: 'B07S534YKT-es'
 tags: [  ]

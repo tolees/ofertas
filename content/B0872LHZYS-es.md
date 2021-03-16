@@ -5,7 +5,7 @@ date: 2020-04-26 09:40:40
 image: 'https://m.media-amazon.com/images/I/41MXl04E3oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872LHZYS-es NMBC Cojín de Seda de Hielo 1 Cojín de Asiento de Coche de...'
 sku: 'B0872LHZYS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 15:45:23
 image: 'https://m.media-amazon.com/images/I/61bj9YtwvSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MG8K69Q-es JSVER Funda Blanda para Ordenador portátil 13-13.3...'
 sku: 'B01MG8K69Q-es'
 tags: [  ]

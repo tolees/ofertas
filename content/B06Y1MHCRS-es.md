@@ -5,7 +5,7 @@ date: 2020-07-16 22:29:23
 image: 'https://m.media-amazon.com/images/I/31iiDJs9qvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y1MHCRS-es Makeup Revolution Iconic Matte Nude Lipstick Inclination...'
 sku: 'B06Y1MHCRS-es'
 tags: [  ]

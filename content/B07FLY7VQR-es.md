@@ -5,7 +5,7 @@ date: 2020-09-26 12:26:34
 image: 'https://m.media-amazon.com/images/I/51lBxp+94dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLY7VQR-es Operación Triunfo 2017'
 sku: 'B07FLY7VQR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-04 16:37:36
 image: 'https://m.media-amazon.com/images/I/51akNxMF6mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078PFXLF8-es ammoon Kit Herramientas de Guitarra Mantenimiento de...'
 sku: 'B078PFXLF8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-05 19:44:23
 image: 'https://m.media-amazon.com/images/I/31YOjOHKHcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002AMUGH8-es Sisley Phyto Nuit Crema Collagène Et Mauve Pot 50 ml'
 sku: 'B002AMUGH8-es'
 tags: [  ]

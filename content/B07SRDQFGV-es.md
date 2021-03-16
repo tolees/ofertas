@@ -5,7 +5,7 @@ date: 2020-09-13 09:09:19
 image: 'https://m.media-amazon.com/images/I/41he0YvDDzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRDQFGV-es non-brand Hablando Caminando Interactivo Animales Peluches...'
 sku: 'B07SRDQFGV-es'
 tags: [  ]

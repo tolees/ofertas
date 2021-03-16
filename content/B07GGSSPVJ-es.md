@@ -5,7 +5,7 @@ date: 2020-06-08 17:36:36
 image: 'https://m.media-amazon.com/images/I/51PIMQZa3sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGSSPVJ-es 9H Nano Ceramic Coating Tracffy Mr Fix Revestimiento...'
 sku: 'B07GGSSPVJ-es'
 tags: [  ]

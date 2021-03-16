@@ -5,7 +5,7 @@ date: 2020-04-24 09:46:11
 image: 'https://m.media-amazon.com/images/I/41ul5Uyka0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0848WMYLZ-es Goldyqin M.2 NVME Mobile Hard Disk Box USB3.0 SSD Metal...'
 sku: 'B0848WMYLZ-es'
 tags: [  ]

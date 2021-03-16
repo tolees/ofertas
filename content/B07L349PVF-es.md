@@ -5,7 +5,7 @@ date: 2020-03-27 19:05:49
 image: 'https://m.media-amazon.com/images/I/519X0M5IFjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L349PVF-es iWork - Maletín de Llaves y Vasos 1/4" y 1/2" con juego de...'
 sku: 'B07L349PVF-es'
 tags: [  ]

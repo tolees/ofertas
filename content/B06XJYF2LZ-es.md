@@ -5,7 +5,7 @@ date: 2020-08-28 20:00:39
 image: 'https://m.media-amazon.com/images/I/41ChbgC8AsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJYF2LZ-es LA Active Tobillera Calcetines Antideslizantes - 6 Pares -...'
 sku: 'B06XJYF2LZ-es'
 tags: [  ]

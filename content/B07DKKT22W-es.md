@@ -5,7 +5,7 @@ date: 2020-01-29 12:15:23
 image: 'https://m.media-amazon.com/images/I/51jY3Dp4-oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKKT22W-es Kipling - Arto S Bolsos bandolera Mujer Rojo Active Red'
 sku: 'B07DKKT22W-es'
 tags: [  ]

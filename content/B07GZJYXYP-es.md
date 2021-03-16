@@ -5,7 +5,7 @@ date: 2020-08-27 07:42:07
 image: 'https://m.media-amazon.com/images/I/51Jjh5tLVnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZJYXYP-es Camfosy - Botas de Cuero para mujer color Azul talla 40 EU'
 sku: 'B07GZJYXYP-es'
 tags: [  ]

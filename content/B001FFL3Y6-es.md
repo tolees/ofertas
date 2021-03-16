@@ -5,7 +5,7 @@ date: 2020-06-29 09:10:36
 image: 'https://m.media-amazon.com/images/I/51zfA2hCzFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FFL3Y6-es Victory Endurance All Day Energy. Con 12 vitaminas 9...'
 sku: 'B001FFL3Y6-es'
 tags: [  ]

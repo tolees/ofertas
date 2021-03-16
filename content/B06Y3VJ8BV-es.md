@@ -5,7 +5,7 @@ date: 2020-08-21 18:23:57
 image: 'https://m.media-amazon.com/images/I/31-TlhLPIvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y3VJ8BV-es RAVPower Cargador de Pared con 4 Puertos 40W USB iSmart...'
 sku: 'B06Y3VJ8BV-es'
 tags: [  ]

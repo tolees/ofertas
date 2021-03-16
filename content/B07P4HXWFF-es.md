@@ -5,7 +5,7 @@ date: 2020-04-11 09:51:25
 image: 'https://m.media-amazon.com/images/I/41M9N9U7E1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4HXWFF-es Superdry Superstate Classic Polo Azul Techno Navy Marl Ss7...'
 sku: 'B07P4HXWFF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-14 22:26:19
 image: 'https://m.media-amazon.com/images/I/41sHT-dqLyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYEVNVN-es Dove Paño y toallita facial Sensitive - 4 de 50 Unidades...'
 sku: 'B01MYEVNVN-es'
 tags: [  ]

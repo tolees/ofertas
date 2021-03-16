@@ -5,7 +5,7 @@ date: 2020-06-22 11:49:09
 image: 'https://m.media-amazon.com/images/I/51DbWAfjbXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7SH2Q4-es Garnier Coloración Color Sensation Nº2.1 Negro Azulado -...'
 sku: 'B01K7SH2Q4-es'
 tags: [  ]

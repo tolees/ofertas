@@ -5,7 +5,7 @@ date: 2020-05-19 07:31:51
 image: 'https://m.media-amazon.com/images/I/61IHg8ZQg+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4B9P1B-es DINOKA Cadena de Nieve 6er Universal Cadenas Coche...'
 sku: 'B07H4B9P1B-es'
 tags: [  ]

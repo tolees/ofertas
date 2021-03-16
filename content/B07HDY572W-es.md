@@ -5,7 +5,7 @@ date: 2020-02-19 17:11:11
 image: 'https://m.media-amazon.com/images/I/31rWMUNstRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HDY572W-es CRZ YOGA Mujer Compression Leggings Cintura Alta...'
 sku: 'B07HDY572W-es'
 tags: [  ]

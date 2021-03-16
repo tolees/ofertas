@@ -5,7 +5,7 @@ date: 2020-07-28 08:50:34
 image: 'https://m.media-amazon.com/images/I/417XkHIOWOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXWGTM4-es Diesel ShoesDiscover-me OderzoHombreCarterasAzul Blue...'
 sku: 'B07RXWGTM4-es'
 tags: [  ]

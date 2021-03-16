@@ -5,7 +5,7 @@ date: 2020-09-23 20:19:42
 image: 'https://m.media-amazon.com/images/I/31NCkQNNE5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS9SKXV-es Hoidokly Cargador Inalámbrico Rápido Qi Wireless Charger...'
 sku: 'B07RS9SKXV-es'
 tags: [  ]

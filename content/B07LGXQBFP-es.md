@@ -5,7 +5,7 @@ date: 2020-03-03 19:58:36
 image: 'https://m.media-amazon.com/images/I/31FxG6txTfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGXQBFP-es Salomon out Night 30+5 Mochila Capacidad 35 L Unisex...'
 sku: 'B07LGXQBFP-es'
 tags: [  ]

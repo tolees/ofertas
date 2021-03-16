@@ -5,7 +5,7 @@ date: 2020-07-23 12:58:42
 image: 'https://m.media-amazon.com/images/I/51z8JyCTyqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2JVDCH-es Case Logic LAPS111BRK - Funda para Ordenador portátil de...'
 sku: 'B06Y2JVDCH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 11:44:30
 image: 'https://m.media-amazon.com/images/I/416gUzoaXhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G39L1CK-es L Oréal Magic Retouch Precision Rubio'
 sku: 'B07G39L1CK-es'
 tags: [  ]

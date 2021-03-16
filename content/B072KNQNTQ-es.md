@@ -5,7 +5,7 @@ date: 2020-08-20 15:02:51
 image: 'https://m.media-amazon.com/images/I/51YIL-l6nUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KNQNTQ-es Speed Magic Cube MF8 2 x 3 x 4 Cube Professional Magic...'
 sku: 'B072KNQNTQ-es'
 tags: [  ]

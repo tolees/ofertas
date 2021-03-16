@@ -5,7 +5,7 @@ date: 2020-08-30 08:43:04
 image: 'https://m.media-amazon.com/images/I/41J9PvbEc+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WH272ND-es RITUALS The Ritual of Sakura Exfoliante corporal 250 g'
 sku: 'B07WH272ND-es'
 tags: [  ]

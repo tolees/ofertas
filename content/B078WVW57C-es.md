@@ -5,7 +5,7 @@ date: 2020-09-24 20:38:28
 image: 'https://m.media-amazon.com/images/I/41srWhaG2VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WVW57C-es XSQUO Useful Tech Plancha DE Vapor 2 EN 1 INALAMBRICA O...'
 sku: 'B078WVW57C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 12:40:09
 image: 'https://m.media-amazon.com/images/I/61n1l2hqA7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895YYM6T-es GREAT ART set de 2 posters XXL – Animales de la selva -...'
 sku: 'B0895YYM6T-es'
 tags: [  ]

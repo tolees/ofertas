@@ -5,7 +5,7 @@ date: 2020-06-25 02:46:32
 image: 'https://m.media-amazon.com/images/I/41NGWPqZ28L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ2JCQX-es New Balance 997H Core h Zapatillas para Hombre Morado Dark...'
 sku: 'B07DJ2JCQX-es'
 tags: [  ]

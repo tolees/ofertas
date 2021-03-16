@@ -5,7 +5,7 @@ date: 2020-08-04 16:01:56
 image: 'https://m.media-amazon.com/images/I/517XyWlfFIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078W3WZXL-es fundas Samsung Galaxy S7 protector pantalla bateria 9x...'
 sku: 'B078W3WZXL-es'
 tags: [  ]

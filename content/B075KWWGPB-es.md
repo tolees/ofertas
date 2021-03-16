@@ -5,7 +5,7 @@ date: 2020-07-07 05:50:22
 image: 'https://m.media-amazon.com/images/I/41joJxF13XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KWWGPB-es Mipelo MLT-D111S D111S Cartuchos de Tóner 2 Negro...'
 sku: 'B075KWWGPB-es'
 tags: [  ]

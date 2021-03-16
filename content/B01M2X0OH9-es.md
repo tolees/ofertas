@@ -5,7 +5,7 @@ date: 2020-06-08 13:39:15
 image: 'https://m.media-amazon.com/images/I/51qewDOXRCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M2X0OH9-es Scholl Velvet Smooth Diamond Crystals - Lima electrónica...'
 sku: 'B01M2X0OH9-es'
 tags: [  ]

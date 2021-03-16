@@ -5,7 +5,7 @@ date: 2020-05-25 20:01:42
 image: 'https://m.media-amazon.com/images/I/41lZOB3c-9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088QJM9TN-es Fiween Clips 4pcs Niños Chupete Chupete Titular de bebé...'
 sku: 'B088QJM9TN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-02 15:32:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LEeZAEHcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLJJQG7-es SKYEE Adaptador USB C a Micro USB con Llavero [4 Unidades]...'
 sku: 'B07GLJJQG7-es'
 tags: [  ]

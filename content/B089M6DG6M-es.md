@@ -5,7 +5,7 @@ date: 2020-09-23 22:30:54
 image: 'https://m.media-amazon.com/images/I/31diYDM1qiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089M6DG6M-es QacQoc Ventilador de Mano USB Mini Ventilador Portátil...'
 sku: 'B089M6DG6M-es'
 tags: [  ]

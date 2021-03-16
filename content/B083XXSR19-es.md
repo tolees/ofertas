@@ -5,7 +5,7 @@ date: 2020-04-14 00:25:33
 image: 'https://m.media-amazon.com/images/I/41k9rl-MIIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XXSR19-es TONGJI Vitrina de Acrílico Compatible con Lego 42096...'
 sku: 'B083XXSR19-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-09 10:28:39
 image: 'https://m.media-amazon.com/images/I/414A9Ig9-WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8HJGFJ-es Superdry Sweat Shirt Shop Duo Hood suéter Gris Ice Marl...'
 sku: 'B07F8HJGFJ-es'
 tags: [  ]

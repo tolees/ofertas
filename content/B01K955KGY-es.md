@@ -5,7 +5,7 @@ date: 2020-07-30 12:55:26
 image: 'https://m.media-amazon.com/images/I/51UIOZQf+iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K955KGY-es Schramm® Paquete de 4 Vasos con Tapa asa y Pajita Vasos de...'
 sku: 'B01K955KGY-es'
 tags: [  ]

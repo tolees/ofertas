@@ -5,7 +5,7 @@ date: 2020-08-22 12:15:37
 image: 'https://m.media-amazon.com/images/I/41qTVXjtonL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XB2N1C6-es Do not feed the monkey - Collector´s Edition'
 sku: 'B07XB2N1C6-es'
 tags: [  ]

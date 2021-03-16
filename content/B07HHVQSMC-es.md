@@ -5,7 +5,7 @@ date: 2020-06-06 19:00:04
 image: 'https://m.media-amazon.com/images/I/41ut9tGKoyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHVQSMC-es Wartoon 24Pack que esculpe las herramientas con la bolsa...'
 sku: 'B07HHVQSMC-es'
 tags: [  ]

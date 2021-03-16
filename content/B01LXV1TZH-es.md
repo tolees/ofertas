@@ -5,7 +5,7 @@ date: 2020-06-22 16:42:04
 image: 'https://m.media-amazon.com/images/I/51IteG2LUDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXV1TZH-es Nestlé KiKat Mini Chocolate con Leche - Barritas de...'
 sku: 'B01LXV1TZH-es'
 tags: [  ]

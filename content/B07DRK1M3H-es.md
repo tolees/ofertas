@@ -5,7 +5,7 @@ date: 2020-02-17 07:36:31
 image: 'https://m.media-amazon.com/images/I/21nRx+hGG6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRK1M3H-es Valencia F.C. - Pulsera Valencia Club De Fútbol Fashion...'
 sku: 'B07DRK1M3H-es'
 tags: [  ]

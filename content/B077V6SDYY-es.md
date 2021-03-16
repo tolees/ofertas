@@ -5,7 +5,7 @@ date: 2020-07-23 07:10:26
 image: 'https://m.media-amazon.com/images/I/516CbSscThL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077V6SDYY-es Navaja de Afeitar de Barbero y Peine Plantilla Guía de...'
 sku: 'B077V6SDYY-es'
 tags: [  ]

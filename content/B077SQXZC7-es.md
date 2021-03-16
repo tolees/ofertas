@@ -5,7 +5,7 @@ date: 2020-04-18 02:45:25
 image: 'https://m.media-amazon.com/images/I/41WZsPqOg-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SQXZC7-es Iimpiador de cera de oídos Salud Cerumen Entferner para el...'
 sku: 'B077SQXZC7-es'
 tags: [  ]

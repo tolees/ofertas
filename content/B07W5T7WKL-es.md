@@ -5,7 +5,7 @@ date: 2020-07-09 22:38:12
 image: 'https://m.media-amazon.com/images/I/41H9SSmf4OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5T7WKL-es GLOBE GS Chukka Zapatillas de Skateboard para Hombre Verde...'
 sku: 'B07W5T7WKL-es'
 tags: [  ]

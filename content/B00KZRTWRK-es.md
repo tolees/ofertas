@@ -5,7 +5,7 @@ date: 2020-05-29 08:08:10
 image: 'https://m.media-amazon.com/images/I/21SKFVqdO2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KZRTWRK-es D-LINK Punto DE Acceso Dual Band 2.4/5GHZ DAP-1665'
 sku: 'B00KZRTWRK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-06 20:02:12
 image: 'https://m.media-amazon.com/images/I/31Rn0z6D-cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQNQ2SH-es Cerdá 2200003935 Toalla Polyester Batman Negro 70x140cm'
 sku: 'B07MQNQ2SH-es'
 tags: [  ]

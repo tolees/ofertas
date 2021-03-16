@@ -5,7 +5,7 @@ date: 2020-02-17 20:12:26
 image: 'https://m.media-amazon.com/images/I/41zlXbhKTfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082TQ55LT-es Amor Jirafa Pony Piel Genuina Pasaporte Titular Portada...'
 sku: 'B082TQ55LT-es'
 tags: [  ]

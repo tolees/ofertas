@@ -5,7 +5,7 @@ date: 2020-04-15 00:51:22
 image: 'https://m.media-amazon.com/images/I/41g4IHT35fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVZVMZ8-es PLUMIER Triple Giotto Premium Toy Story'
 sku: 'B07NVZVMZ8-es'
 tags: [  ]

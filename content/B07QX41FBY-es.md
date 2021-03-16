@@ -5,7 +5,7 @@ date: 2020-05-10 09:06:19
 image: 'https://m.media-amazon.com/images/I/411zibt6KrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QX41FBY-es MP3 BENJIE 16GB MP3 Bluetooth 1.5" Reproductor de MP3...'
 sku: 'B07QX41FBY-es'
 tags: [  ]

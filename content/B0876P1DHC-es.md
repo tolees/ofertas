@@ -5,7 +5,7 @@ date: 2020-05-11 17:45:35
 image: 'https://m.media-amazon.com/images/I/51LoHCevEZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876P1DHC-es ANWEN para Samsung Galaxy A70E Protector de Pantalla HD 9H...'
 sku: 'B0876P1DHC-es'
 tags: [  ]

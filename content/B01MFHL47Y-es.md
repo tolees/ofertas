@@ -5,7 +5,7 @@ date: 2020-05-12 12:44:17
 image: 'https://m.media-amazon.com/images/I/415vQQzjhzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFHL47Y-es Under NY Sky Delantal Verde - Sarga Profesional - Correas...'
 sku: 'B01MFHL47Y-es'
 tags: [  ]

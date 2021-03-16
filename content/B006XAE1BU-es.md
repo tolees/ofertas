@@ -5,7 +5,7 @@ date: 2021-03-16 14:37:08
 image: 'https://m.media-amazon.com/images/I/51Rhjezr7KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006XAE1BU-es Disney - Up 3D [Blu-ray]'
 sku: 'B006XAE1BU-es'
 tags: [ 'disney', ]

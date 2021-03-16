@@ -5,7 +5,7 @@ date: 2020-07-12 00:28:03
 image: 'https://m.media-amazon.com/images/I/31EEjuc--jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRPYW1L-es Panamar 360 Grados de rotación de 9.7/10.1 Pulgadas Tablet...'
 sku: 'B08CRPYW1L-es'
 tags: [  ]

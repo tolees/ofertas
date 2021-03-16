@@ -5,7 +5,7 @@ date: 2020-02-10 09:11:58
 image: 'https://m.media-amazon.com/images/I/418B7lKXjZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OJ9G35Y-es Orbegozo WL 3000 Cup Cake Maker 1400 W 6 Cup Cakes de...'
 sku: 'B00OJ9G35Y-es'
 tags: [  ]

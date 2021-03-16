@@ -5,7 +5,7 @@ date: 2020-09-22 18:48:56
 image: 'https://m.media-amazon.com/images/I/41Jix8wsXVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004FEER0Q-es Intex 28002 - Kit de mantenimiento con mango telescópico'
 sku: 'B004FEER0Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 01:12:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51I5aQTgXiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9SKRNT-es BSN All In One Weight Gainer Polvo de Proteína de Suero...'
 sku: 'B07D9SKRNT-es'
 tags: [  ]

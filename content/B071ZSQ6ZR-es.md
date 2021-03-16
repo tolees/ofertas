@@ -5,7 +5,7 @@ date: 2020-05-19 00:54:47
 image: 'https://m.media-amazon.com/images/I/41y40cx0Z+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZSQ6ZR-es Reebok Club C 85 Zapatillas para Mujer Blanco White/Light...'
 sku: 'B071ZSQ6ZR-es'
 tags: [  ]

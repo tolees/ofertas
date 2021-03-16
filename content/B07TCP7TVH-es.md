@@ -5,7 +5,7 @@ date: 2020-01-10 13:37:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51FPhtYLVAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCP7TVH-es Finocam Espiral Design Collection Elegant Agenda 2020 155...'
 sku: 'B07TCP7TVH-es'
 tags: [  ]

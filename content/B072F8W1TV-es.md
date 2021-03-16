@@ -5,7 +5,7 @@ date: 2020-07-01 15:22:29
 image: 'https://m.media-amazon.com/images/I/31My1+SE-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072F8W1TV-es FOREO Espada tratamiento de luz azul para acné Pink'
 sku: 'B072F8W1TV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-20 14:01:44
 image: 'https://m.media-amazon.com/images/I/61sXwvkuwYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNB7PR9-es Hpybest - Cadena para chupete cadena antipérdida diseño de...'
 sku: 'B07SNB7PR9-es'
 tags: [  ]

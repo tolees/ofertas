@@ -5,7 +5,7 @@ date: 2020-03-31 10:10:55
 image: 'https://m.media-amazon.com/images/I/31K9m3WQuVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PF2LD5-es Motorola Lifestyle 726310106001 Dash cámara WiFi Negro'
 sku: 'B076PF2LD5-es'
 tags: [  ]

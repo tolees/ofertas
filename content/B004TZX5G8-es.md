@@ -5,7 +5,7 @@ date: 2020-01-28 15:55:02
 image: 'https://m.media-amazon.com/images/I/41klTWcSi6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004TZX5G8-es Nike Air Monarch IV Zapatillas de Gimnasia para Hombre...'
 sku: 'B004TZX5G8-es'
 tags: [  ]

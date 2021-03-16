@@ -5,7 +5,7 @@ date: 2020-01-08 13:26:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41g8iv0NjRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JY9M3QK-es Tommy Hilfiger Jute Detail Flatform Sneaker Zapatillas...'
 sku: 'B07JY9M3QK-es'
 tags: [  ]

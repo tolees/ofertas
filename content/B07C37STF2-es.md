@@ -5,7 +5,7 @@ date: 2020-04-08 13:05:28
 image: 'https://m.media-amazon.com/images/I/51TW0iF6rsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C37STF2-es GRÜNTEK Rodilleras de Trabajo Profesional SOFT GEL....'
 sku: 'B07C37STF2-es'
 tags: [  ]

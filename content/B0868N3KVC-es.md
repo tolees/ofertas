@@ -5,7 +5,7 @@ date: 2020-05-27 20:40:26
 image: 'https://m.media-amazon.com/images/I/51U+AV8EQRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868N3KVC-es Suhctup Transparente Funda Compatible con OnePlus 6...'
 sku: 'B0868N3KVC-es'
 tags: [  ]

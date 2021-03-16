@@ -5,7 +5,7 @@ date: 2020-06-29 20:00:01
 image: 'https://m.media-amazon.com/images/I/41Pt2zF0shL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087CSZTNM-es Cámara web Full HD 1080P con micrófono cámara web USB 2.0...'
 sku: 'B087CSZTNM-es'
 tags: [  ]

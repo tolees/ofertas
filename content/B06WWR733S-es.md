@@ -5,7 +5,7 @@ date: 2020-01-12 18:20:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41U-oE%2BF0HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WWR733S-es Princess 127004 - Sandwich Toaster XXL para 4 sándwiches...'
 sku: 'B06WWR733S-es'
 tags: [  ]

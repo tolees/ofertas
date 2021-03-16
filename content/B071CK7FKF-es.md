@@ -5,7 +5,7 @@ date: 2020-05-04 16:22:04
 image: 'https://m.media-amazon.com/images/I/41r+JN+9YnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CK7FKF-es American Tourister Soundbox Spinner Equipaje de mano S 55...'
 sku: 'B071CK7FKF-es'
 tags: [  ]

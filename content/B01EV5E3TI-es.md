@@ -5,7 +5,7 @@ date: 2020-01-05 23:07:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vOTd7AgoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EV5E3TI-es IntimaTe WM Heart Giratoria de Oficina Silla de Escritorio...'
 sku: 'B01EV5E3TI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-21 12:04:24
 image: 'https://m.media-amazon.com/images/I/41I7YVXlZkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GMN0ZTA-es EL ACCESORIO ORIGINAL de"BuyAndFeelGood" con EFECTO...'
 sku: 'B00GMN0ZTA-es'
 tags: [  ]

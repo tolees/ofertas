@@ -5,7 +5,7 @@ date: 2020-06-28 01:13:35
 image: 'https://m.media-amazon.com/images/I/4174PaH3qpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071K5KPR7-es Lee Luke Jeans True Authentic Gcby 36W / 34L para Hombre'
 sku: 'B071K5KPR7-es'
 tags: [  ]

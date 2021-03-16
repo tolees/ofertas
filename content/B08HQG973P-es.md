@@ -5,7 +5,7 @@ date: 2020-10-01 13:55:11
 image: 'https://m.media-amazon.com/images/I/517su7F6dgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HQG973P-es BNTTEAM Mini Carrete Giratorio y Combos de Caña...'
 sku: 'B08HQG973P-es'
 tags: [  ]

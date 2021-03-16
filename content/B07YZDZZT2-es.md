@@ -5,7 +5,7 @@ date: 2020-04-24 07:01:28
 image: 'https://m.media-amazon.com/images/I/41tEmHTmMlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZDZZT2-es Femometer Pastillero Semanal 3 Tomas 7 Dias 21...'
 sku: 'B07YZDZZT2-es'
 tags: [  ]

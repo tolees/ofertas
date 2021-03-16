@@ -5,7 +5,7 @@ date: 2020-08-18 14:22:54
 image: 'https://m.media-amazon.com/images/I/41udVQO3OdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0077NPEEA-es Canon EF 24mm f/2.8 IS USM - Objetivo para Canon Distancia...'
 sku: 'B0077NPEEA-es'
 tags: [  ]

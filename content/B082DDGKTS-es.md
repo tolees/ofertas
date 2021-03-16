@@ -5,7 +5,7 @@ date: 2020-05-31 14:05:51
 image: 'https://m.media-amazon.com/images/I/41H-xffoosL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082DDGKTS-es Funda Colgante movil con Cuerda para Xiaomi Redmi Note 8T...'
 sku: 'B082DDGKTS-es'
 tags: [  ]

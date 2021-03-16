@@ -5,7 +5,7 @@ date: 2020-06-12 15:55:41
 image: 'https://m.media-amazon.com/images/I/31LalmGp4GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPGM8RL-es PUMA ESS Logo TR Op SRL Pantalones Hombre Black 2XL'
 sku: 'B07DPGM8RL-es'
 tags: [  ]

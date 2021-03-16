@@ -5,7 +5,7 @@ date: 2020-06-22 07:40:51
 image: 'https://m.media-amazon.com/images/I/41Mk1O8Y5GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMLS9D9-es New Balance 997H h Zapatillas para Hombre Marfil White 37 EU'
 sku: 'B07PMLS9D9-es'
 tags: [  ]

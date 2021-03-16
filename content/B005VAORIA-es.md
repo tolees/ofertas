@@ -5,7 +5,7 @@ date: 2020-07-17 10:02:50
 image: 'https://m.media-amazon.com/images/I/41WxG15xiBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005VAORIA-es Plantronics 81960-15 - Auriculares con micrófono Color Negro'
 sku: 'B005VAORIA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 13:30:38
 image: 'https://m.media-amazon.com/images/I/51khnQWDNwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DR2YFQ9-es Starlink: Battle for Atlas Starter Pack'
 sku: 'B07DR2YFQ9-es'
 tags: [  ]

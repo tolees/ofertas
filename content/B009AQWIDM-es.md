@@ -5,7 +5,7 @@ date: 2020-08-13 10:58:46
 image: 'https://m.media-amazon.com/images/I/31fql30LZ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009AQWIDM-es Essie Esmalte de Uñas Tono: 015 Sugar Daddy'
 sku: 'B009AQWIDM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 08:12:37
 image: 'https://m.media-amazon.com/images/I/51ZCHyligSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQWN8YN-es SWITCH SNK Heroines: Tag Team Frenzy'
 sku: 'B07DQWN8YN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-12 07:23:12
 image: 'https://m.media-amazon.com/images/I/416+mynpneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFMGX19-es Audio-Technica ATH-SR50BT - Auriculares de diadema...'
 sku: 'B07MFMGX19-es'
 tags: [  ]

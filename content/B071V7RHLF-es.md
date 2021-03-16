@@ -5,7 +5,7 @@ date: 2020-08-12 06:40:49
 image: 'https://m.media-amazon.com/images/I/41Rc1evfeXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071V7RHLF-es ELFINA Spaire Espejo Maquillaje/Afeitado Aumento con Luz...'
 sku: 'B071V7RHLF-es'
 tags: [  ]

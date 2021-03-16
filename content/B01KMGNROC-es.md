@@ -5,7 +5,7 @@ date: 2020-10-08 09:26:31
 image: 'https://m.media-amazon.com/images/I/41QSBSx2mZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KMGNROC-es Gennadi Hoppe Pantalones cortos hasta la rodilla traje de...'
 sku: 'B01KMGNROC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-11 05:44:36
 image: 'https://m.media-amazon.com/images/I/418RZvl0tbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DF3DMF-es Campingaz 2 Series Classic LX Vario Barbacoa a Gas BBQ con...'
 sku: 'B079DF3DMF-es'
 tags: [  ]

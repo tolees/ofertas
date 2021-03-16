@@ -5,7 +5,7 @@ date: 2020-02-02 20:16:23
 image: 'https://m.media-amazon.com/images/I/21vVnRU4F4L._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012WIX3UG-es 151Y12 - Aceitera Cristal Tapon Corcho 1/2L'
 sku: 'B012WIX3UG-es'
 tags: [  ]

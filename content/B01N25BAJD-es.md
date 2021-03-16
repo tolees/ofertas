@@ -5,7 +5,7 @@ date: 2020-05-31 17:05:03
 image: 'https://m.media-amazon.com/images/I/31+XkWaxVaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N25BAJD-es L Oréal Paris Colorete en Stick Infalible Chubby Pinkabilly'
 sku: 'B01N25BAJD-es'
 tags: [  ]

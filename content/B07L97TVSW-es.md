@@ -5,7 +5,7 @@ date: 2020-02-13 09:20:11
 image: 'https://m.media-amazon.com/images/I/410xr3bGF0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L97TVSW-es Under Armour Rival Fleece FZ Parte Superior del...'
 sku: 'B07L97TVSW-es'
 tags: [  ]

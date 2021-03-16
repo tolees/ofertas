@@ -5,7 +5,7 @@ date: 2020-05-19 04:50:01
 image: 'https://m.media-amazon.com/images/I/31jb7cYQ8SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GLB2L-es Clarks Un Maui Mid Zapatillas Altas para Mujer Negro Black...'
 sku: 'B07N1GLB2L-es'
 tags: [  ]

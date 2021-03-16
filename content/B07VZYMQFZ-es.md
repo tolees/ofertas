@@ -5,7 +5,7 @@ date: 2020-06-14 10:52:17
 image: 'https://m.media-amazon.com/images/I/41Jc5uYClcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZYMQFZ-es Jack & Jones JORBRIT Crew Neck Suéter Azul Navy Blazer...'
 sku: 'B07VZYMQFZ-es'
 tags: [  ]

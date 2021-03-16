@@ -5,7 +5,7 @@ date: 2020-08-16 09:01:53
 image: 'https://m.media-amazon.com/images/I/31I7Ir7y2LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NSM3C4-es Jack & Jones Jjicody Jjspencer WW Noos Pantalones Azul...'
 sku: 'B071NSM3C4-es'
 tags: [  ]

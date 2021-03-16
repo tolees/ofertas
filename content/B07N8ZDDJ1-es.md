@@ -5,7 +5,7 @@ date: 2020-02-04 19:51:47
 image: 'https://m.media-amazon.com/images/I/41cODuFnG6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8ZDDJ1-es Tommy Hilfiger Damen Heritage Crew Neck Graphic Tee...'
 sku: 'B07N8ZDDJ1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-22 21:55:58
 image: 'https://m.media-amazon.com/images/I/41Coe8MfzmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLLFZ31-es Superdry Classic Superstate S/s Polo Rojo Rouge Red Wa7 L...'
 sku: 'B07TLLFZ31-es'
 tags: [  ]

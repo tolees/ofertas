@@ -5,7 +5,7 @@ date: 2020-02-13 15:42:07
 image: 'https://m.media-amazon.com/images/I/41oS2LY5g5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721Y5QCG-es NUTRI COLOR CREME 270ML 000'
 sku: 'B0721Y5QCG-es'
 tags: [  ]

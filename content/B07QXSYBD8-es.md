@@ -5,7 +5,7 @@ date: 2020-02-16 07:27:34
 image: 'https://m.media-amazon.com/images/I/41TwvZHmiZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXSYBD8-es Hakeeta Molinillo de café eléctrico Molino de Granos...'
 sku: 'B07QXSYBD8-es'
 tags: [  ]

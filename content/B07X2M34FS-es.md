@@ -5,7 +5,7 @@ date: 2020-05-18 07:46:44
 image: 'https://m.media-amazon.com/images/I/51dFnlPw7PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2M34FS-es El precio del poder 4K UHD + BD [Blu-ray]'
 sku: 'B07X2M34FS-es'
 tags: [  ]

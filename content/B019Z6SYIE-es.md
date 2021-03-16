@@ -5,7 +5,7 @@ date: 2020-04-18 02:04:10
 image: 'https://m.media-amazon.com/images/I/31mtZ5IlJlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019Z6SYIE-es Tombow WS-BS Fudenosuke - Pluma escobilla punta blanda...'
 sku: 'B019Z6SYIE-es'
 tags: [  ]

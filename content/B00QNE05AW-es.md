@@ -5,7 +5,7 @@ date: 2020-01-20 11:55:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pIU-aVBFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QNE05AW-es Bresser Trípode de mesa de 24cm'
 sku: 'B00QNE05AW-es'
 tags: [  ]

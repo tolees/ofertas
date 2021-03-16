@@ -5,7 +5,7 @@ date: 2020-08-01 14:32:18
 image: 'https://m.media-amazon.com/images/I/31-sMtMhTCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMFYLFN-es IPOTCH Cámara de Cazar Rastro HC-300M 12MP 2G MMS GPRS HD...'
 sku: 'B07KMFYLFN-es'
 tags: [  ]

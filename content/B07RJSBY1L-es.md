@@ -5,7 +5,7 @@ date: 2020-04-11 18:35:29
 image: 'https://m.media-amazon.com/images/I/41Sx0jWQu2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJSBY1L-es UniqueMe [1 Pack] Protector de Pantalla para Oneplus 7 Pro...'
 sku: 'B07RJSBY1L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 18:44:17
 image: 'https://m.media-amazon.com/images/I/41QW5BcxHEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDW2RM-es Freaks and Geeks - Yu Gi Oh Funko Pop Vinyl 389 Blue Eyes...'
 sku: 'B07DFDW2RM-es'
 tags: [  ]

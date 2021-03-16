@@ -5,7 +5,7 @@ date: 2020-07-11 17:19:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NOvr3m19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075HBZ5ZF-es TACKLIFE T6 Arrancador de Coche 800A Pico 18000mAh Jump...'
 sku: 'B075HBZ5ZF-es'
 tags: [  ]

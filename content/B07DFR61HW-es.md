@@ -5,7 +5,7 @@ date: 2020-06-25 06:51:56
 image: 'https://m.media-amazon.com/images/I/31viTMD+3lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFR61HW-es New Balance X-90 h Zapatillas para Hombre Azul...'
 sku: 'B07DFR61HW-es'
 tags: [  ]

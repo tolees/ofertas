@@ -5,7 +5,7 @@ date: 2020-09-27 16:57:45
 image: 'https://m.media-amazon.com/images/I/418VtO0YF5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FDM59G1-es Gentai - Tarjeta de memoria micro SD SDXC de 1024 GB con...'
 sku: 'B08FDM59G1-es'
 tags: [  ]

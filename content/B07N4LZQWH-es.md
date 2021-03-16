@@ -5,7 +5,7 @@ date: 2020-07-05 09:31:45
 image: 'https://m.media-amazon.com/images/I/41Vhc7WJRjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4LZQWH-es Levi s Alpine Botas Desert para Hombre Marrón Light Brown...'
 sku: 'B07N4LZQWH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 23:23:22
 image: 'https://m.media-amazon.com/images/I/3173NvHlG0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXVMXKT-es Skechers GO Walk 5 Flint Zapatillas sin Cordones para...'
 sku: 'B07NXVMXKT-es'
 tags: [  ]

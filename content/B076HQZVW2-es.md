@@ -5,7 +5,7 @@ date: 2020-08-27 10:00:28
 image: 'https://m.media-amazon.com/images/I/41eSXjcUfsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HQZVW2-es Adidas CORE18 SW PNT Pantalones de Deporte Hombre Negro...'
 sku: 'B076HQZVW2-es'
 tags: [  ]

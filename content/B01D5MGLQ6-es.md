@@ -5,7 +5,7 @@ date: 2020-08-31 14:03:02
 image: 'https://m.media-amazon.com/images/I/41ZmjbpzMEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D5MGLQ6-es Scitec Nutrition Plant Protien Chocolate Praline - 900 gr'
 sku: 'B01D5MGLQ6-es'
 tags: [  ]

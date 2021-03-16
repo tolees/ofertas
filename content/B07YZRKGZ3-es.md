@@ -5,7 +5,7 @@ date: 2020-05-22 13:06:16
 image: 'https://m.media-amazon.com/images/I/41e9JjwFByL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZRKGZ3-es J. Kersten BV WER-8347 Jarrón cerámica azul'
 sku: 'B07YZRKGZ3-es'
 tags: [  ]

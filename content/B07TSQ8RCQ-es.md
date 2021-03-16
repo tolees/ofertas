@@ -5,7 +5,7 @@ date: 2020-07-30 15:30:16
 image: 'https://m.media-amazon.com/images/I/41I7s7a1gHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ8RCQ-es Skechers Skech-Air Dynamight Zapatillas para Hombre Azul...'
 sku: 'B07TSQ8RCQ-es'
 tags: [  ]

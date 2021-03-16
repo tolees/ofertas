@@ -5,7 +5,7 @@ date: 2020-10-03 18:11:46
 image: 'https://m.media-amazon.com/images/I/51QdUMaWXuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NL9LYQH-es Skechers Girls Bobs Squad Trainers Grey Gray/Hot Pink...'
 sku: 'B07NL9LYQH-es'
 tags: [  ]

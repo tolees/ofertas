@@ -5,7 +5,7 @@ date: 2020-05-20 08:02:38
 image: 'https://m.media-amazon.com/images/I/51wVtDVwrFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009NI6EQ4-es Nuby NT67744 - Pack 50 bolsas preesterilizadas'
 sku: 'B009NI6EQ4-es'
 tags: [  ]

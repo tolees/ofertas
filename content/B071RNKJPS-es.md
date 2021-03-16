@@ -5,7 +5,7 @@ date: 2020-08-15 09:06:44
 image: 'https://m.media-amazon.com/images/I/41TLzp6Of+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RNKJPS-es Game of Thrones-Funko Pop Figura S7 Tyrion Lannister...'
 sku: 'B071RNKJPS-es'
 tags: [  ]

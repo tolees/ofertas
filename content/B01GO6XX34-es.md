@@ -5,7 +5,7 @@ date: 2020-04-14 23:02:17
 image: 'https://m.media-amazon.com/images/I/31g0D9evG3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GO6XX34-es Energy Tablet Skin Case 7" Neo 3 Funda exclusiva Energy...'
 sku: 'B01GO6XX34-es'
 tags: [  ]

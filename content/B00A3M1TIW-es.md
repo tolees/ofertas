@@ -5,7 +5,7 @@ date: 2020-04-25 12:43:16
 image: 'https://m.media-amazon.com/images/I/41EpUWA1KgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A3M1TIW-es WELEDA Skin Food Original 75 Ml 1x 75 ml'
 sku: 'B00A3M1TIW-es'
 tags: [  ]

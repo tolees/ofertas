@@ -5,7 +5,7 @@ date: 2020-07-29 13:32:07
 image: 'https://m.media-amazon.com/images/I/31AugE5MrEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NNZQJL-es Simulación de lujo con perlas y pendientes de perlas Joyas...'
 sku: 'B089NNZQJL-es'
 tags: [  ]

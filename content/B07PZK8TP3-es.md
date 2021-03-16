@@ -5,7 +5,7 @@ date: 2020-02-12 09:58:36
 image: 'https://m.media-amazon.com/images/I/31-+0xTYerL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZK8TP3-es Amzdeal Alcachofa de Ducha Cabezal de Ducha con 5 modos...'
 sku: 'B07PZK8TP3-es'
 tags: [  ]

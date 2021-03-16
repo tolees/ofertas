@@ -5,7 +5,7 @@ date: 2020-07-27 07:37:44
 image: 'https://m.media-amazon.com/images/I/410+av0pdIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHB48QZ-es Cúrcuma 6000 mg Extracto al 95% con Pimienta Negra | 120...'
 sku: 'B07HHB48QZ-es'
 tags: [  ]

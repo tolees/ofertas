@@ -5,7 +5,7 @@ date: 2020-02-10 13:18:05
 image: 'https://m.media-amazon.com/images/I/416lpZAG4VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000B2OWRO-es Reebok 6394 Zapatillas de Trail Running para Mujer Blanco...'
 sku: 'B000B2OWRO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-12 17:53:24
 image: 'https://m.media-amazon.com/images/I/51RgPWlq7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJKZY9J-es For The King'
 sku: 'B07PJKZY9J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-23 18:09:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mo1sfDZEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757HZCS2-es Lebze Muselinas Manta Bebé Algodón Bambú 120x120 Muselina...'
 sku: 'B0757HZCS2-es'
 tags: [  ]

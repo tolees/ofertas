@@ -5,7 +5,7 @@ date: 2020-01-10 20:44:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/515AGx4qE2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DSF3FJ8-es Zapatillas de Ciclismo LUCK Extreme 3.0 MTB con Suela de...'
 sku: 'B07DSF3FJ8-es'
 tags: [  ]

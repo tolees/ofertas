@@ -5,7 +5,7 @@ date: 2020-08-01 22:47:20
 image: 'https://m.media-amazon.com/images/I/61T1RcIjJ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ND7NBQF-es Lacoste - COMPLEMENTO Piel Premium Hombre - NH2828CE'
 sku: 'B07ND7NBQF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 20:33:20
 image: 'https://m.media-amazon.com/images/I/41F+LRt1L4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Z8WW5I-es Solgar Fórmula Antioxidante Avanzada Protege a las Células...'
 sku: 'B000Z8WW5I-es'
 tags: [  ]

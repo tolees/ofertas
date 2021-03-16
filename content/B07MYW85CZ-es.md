@@ -5,7 +5,7 @@ date: 2020-05-15 06:30:02
 image: 'https://m.media-amazon.com/images/I/51OEokCA++L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYW85CZ-es Triumph Amourette 300 W X Sujetador con Aros Morado 95B...'
 sku: 'B07MYW85CZ-es'
 tags: [  ]

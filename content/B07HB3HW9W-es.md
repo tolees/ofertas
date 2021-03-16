@@ -5,7 +5,7 @@ date: 2020-02-01 12:53:11
 image: 'https://m.media-amazon.com/images/I/41xMSsYWPSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB3HW9W-es Pop! Modern Family - Figura de Vinilo Claire'
 sku: 'B07HB3HW9W-es'
 tags: [  ]

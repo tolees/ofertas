@@ -5,7 +5,7 @@ date: 2020-07-15 11:07:45
 image: 'https://m.media-amazon.com/images/I/51FgFz4mhqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OV2T6XK-es Gigandet G32-006 - Reloj para Hombres Correa de Acero...'
 sku: 'B00OV2T6XK-es'
 tags: [  ]

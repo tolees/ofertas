@@ -5,7 +5,7 @@ date: 2020-08-13 14:32:37
 image: 'https://m.media-amazon.com/images/I/41LXO85ML5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PDIUSTC-es Compo 1200602005 - Fertilizante bonsái 250 ml Color Verde...'
 sku: 'B00PDIUSTC-es'
 tags: [  ]

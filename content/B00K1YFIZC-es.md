@@ -5,7 +5,7 @@ date: 2020-03-17 17:07:58
 image: 'https://m.media-amazon.com/images/I/41t9ZB+glJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K1YFIZC-es Emporio Armani Underwear 111357CC717 - Calzoncillos Para...'
 sku: 'B00K1YFIZC-es'
 tags: [  ]

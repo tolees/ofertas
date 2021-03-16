@@ -5,7 +5,7 @@ date: 2020-04-04 11:12:14
 image: 'https://m.media-amazon.com/images/I/41XYCz647ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRCDWW5-es Kipling - City Pack Mini Mochilas Mujer Dorado Cloud Metal...'
 sku: 'B07PRCDWW5-es'
 tags: [  ]

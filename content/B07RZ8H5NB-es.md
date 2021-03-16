@@ -5,7 +5,7 @@ date: 2020-01-06 13:33:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31USCJGqbCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ8H5NB-es Levi s Graphic Sport Hoodie Capucha Blanco Photo Film BRW...'
 sku: 'B07RZ8H5NB-es'
 tags: [  ]

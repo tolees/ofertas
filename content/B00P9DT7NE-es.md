@@ -5,7 +5,7 @@ date: 2020-02-28 01:57:02
 image: 'https://m.media-amazon.com/images/I/41dylN4L+YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P9DT7NE-es adidas Originals Stan Smith Zapatillas de Deporte Unisex...'
 sku: 'B00P9DT7NE-es'
 tags: [  ]

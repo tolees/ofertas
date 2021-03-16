@@ -5,7 +5,7 @@ date: 2020-04-25 10:33:53
 image: 'https://m.media-amazon.com/images/I/41KcpD2JEUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0150DT7FK-es Libratone Zipp - Altavoz inalámbrico con Bluetooth...'
 sku: 'B0150DT7FK-es'
 tags: [  ]

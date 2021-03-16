@@ -5,7 +5,7 @@ date: 2020-01-15 01:12:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DWOruCPkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K79PBFC-es CMP Hamal Sandalia con Pulsera Unisex Niños Rosa Geranio-...'
 sku: 'B07K79PBFC-es'
 tags: [  ]

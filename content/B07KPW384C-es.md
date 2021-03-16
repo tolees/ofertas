@@ -5,7 +5,7 @@ date: 2020-09-11 12:13:33
 image: 'https://m.media-amazon.com/images/I/31r5eF6gJ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPW384C-es Max Factor Base de maquillaje Matificante y minimizador de...'
 sku: 'B07KPW384C-es'
 tags: [  ]

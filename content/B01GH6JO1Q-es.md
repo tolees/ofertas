@@ -5,7 +5,7 @@ date: 2020-04-03 16:03:48
 image: 'https://m.media-amazon.com/images/I/41HS-DeAp1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GH6JO1Q-es Jata Ex296 Exprimidor Eléctrico Exprimidor Sencillo De...'
 sku: 'B01GH6JO1Q-es'
 tags: [  ]

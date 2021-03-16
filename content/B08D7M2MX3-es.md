@@ -5,7 +5,7 @@ date: 2020-09-13 13:01:17
 image: 'https://m.media-amazon.com/images/I/41f-Hz5Y5RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D7M2MX3-es IWTTWY Compatible con Galaxy Note 20 Funda Transparente de...'
 sku: 'B08D7M2MX3-es'
 tags: [  ]

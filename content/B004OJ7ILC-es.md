@@ -5,7 +5,7 @@ date: 2020-09-24 14:38:23
 image: 'https://m.media-amazon.com/images/I/41Kaczf1ihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004OJ7ILC-es Holzstar 5900009 Lijadora de disco'
 sku: 'B004OJ7ILC-es'
 tags: [  ]

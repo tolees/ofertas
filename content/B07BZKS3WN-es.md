@@ -5,7 +5,7 @@ date: 2020-04-21 19:05:09
 image: 'https://m.media-amazon.com/images/I/31bUpjB92qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZKS3WN-es Kelme - Zapatillas K-goleiro 17'
 sku: 'B07BZKS3WN-es'
 tags: [  ]

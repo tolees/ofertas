@@ -5,7 +5,7 @@ date: 2020-05-19 17:02:29
 image: 'https://m.media-amazon.com/images/I/51jfY8uyOcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQN7GZ5-es Zapatillas de Montaña Impermeable diseñados para...'
 sku: 'B07NQN7GZ5-es'
 tags: [  ]

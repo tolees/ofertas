@@ -5,7 +5,7 @@ date: 2020-04-02 17:16:03
 image: 'https://m.media-amazon.com/images/I/51YXBGx5mVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003KOK9EK-es Olimp Sport Nutrition HMB Mega Anticatabólico - 120 Cápsulas'
 sku: 'B003KOK9EK-es'
 tags: [  ]

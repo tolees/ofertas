@@ -5,7 +5,7 @@ date: 2020-08-04 20:00:55
 image: 'https://m.media-amazon.com/images/I/41lWTzFI4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GHCDG78-es Mengshen Mini DLP Proyector Portátil Recargable...'
 sku: 'B01GHCDG78-es'
 tags: [  ]

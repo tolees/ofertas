@@ -5,7 +5,7 @@ date: 2020-10-09 19:48:35
 image: 'https://m.media-amazon.com/images/I/41zROZdGGfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GQPKVK-es NutriBullet NB90928R Extractor de nutrientes original con...'
 sku: 'B078GQPKVK-es'
 tags: [  ]

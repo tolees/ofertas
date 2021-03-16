@@ -5,7 +5,7 @@ date: 2020-01-23 00:28:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B5YKF1thL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NHSVCTK-es La Martina Miguel Polo Blanco Optic White 00001 Medium...'
 sku: 'B00NHSVCTK-es'
 tags: [  ]

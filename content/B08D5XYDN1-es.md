@@ -5,7 +5,7 @@ date: 2020-09-18 09:01:55
 image: 'https://m.media-amazon.com/images/I/414e5HyeiML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D5XYDN1-es Haberdashery Online Kit Mascarilla higiénica textil...'
 sku: 'B08D5XYDN1-es'
 tags: [  ]

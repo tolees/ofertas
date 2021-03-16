@@ -5,7 +5,7 @@ date: 2020-02-27 09:42:47
 image: 'https://m.media-amazon.com/images/I/51sfopkOaGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTBT26K-es Sierra de Calar TECCPO 800W 3000SPM Corte45° 6 Velocidades...'
 sku: 'B07CTBT26K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-09 17:44:35
 image: 'https://m.media-amazon.com/images/I/41EADmha92L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072WKC7Z6-es The North Face Base Camp Duffel Bolsa de Deporte Unisex...'
 sku: 'B072WKC7Z6-es'
 tags: [  ]

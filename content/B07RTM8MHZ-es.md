@@ -5,7 +5,7 @@ date: 2020-09-25 20:40:55
 image: 'https://m.media-amazon.com/images/I/31xBTRTcr4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTM8MHZ-es Tiny Love Rocker Napper Balancin para bebès hamaca con...'
 sku: 'B07RTM8MHZ-es'
 tags: [  ]

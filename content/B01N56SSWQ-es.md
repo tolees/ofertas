@@ -5,7 +5,7 @@ date: 2020-09-26 19:50:44
 image: 'https://m.media-amazon.com/images/I/419WWiBRZjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N56SSWQ-es Pioneer SE-MS7BT-S - Auriculares de Tipo Diadema Bluetooth...'
 sku: 'B01N56SSWQ-es'
 tags: [  ]

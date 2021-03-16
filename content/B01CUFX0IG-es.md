@@ -5,7 +5,7 @@ date: 2020-03-22 12:40:14
 image: 'https://m.media-amazon.com/images/I/314NlUc9d1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CUFX0IG-es SIK KIS Moby Xl - Armario color antracita'
 sku: 'B01CUFX0IG-es'
 tags: [  ]

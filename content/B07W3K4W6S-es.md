@@ -5,7 +5,7 @@ date: 2020-06-06 13:37:36
 image: 'https://m.media-amazon.com/images/I/41DGq82gMkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W3K4W6S-es Luz nocturna con altavoz Bluetooth lámpara de cabecera con...'
 sku: 'B07W3K4W6S-es'
 tags: [  ]

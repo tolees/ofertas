@@ -5,7 +5,7 @@ date: 2020-10-09 06:50:16
 image: 'https://m.media-amazon.com/images/I/41RO6wogbKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6RCYZM-es Kärcher 1.633-510.0 - Limpiador Eléctrico Ventana WV 6...'
 sku: 'B07L6RCYZM-es'
 tags: [  ]

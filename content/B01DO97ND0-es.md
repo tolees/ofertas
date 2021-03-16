@@ -5,7 +5,7 @@ date: 2020-02-10 18:19:15
 image: 'https://m.media-amazon.com/images/I/41Yucre8GML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DO97ND0-es Klarstein Grill eléctrico multifunción 1600W Parrilla de...'
 sku: 'B01DO97ND0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-02 21:40:11
 image: 'https://m.media-amazon.com/images/I/41gfCKc0siL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S48P5GG-es Viedouce Baberos Bebés con Mangas Impermeables Baberos...'
 sku: 'B07S48P5GG-es'
 tags: [  ]

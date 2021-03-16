@@ -5,7 +5,7 @@ date: 2020-04-24 10:21:47
 image: 'https://m.media-amazon.com/images/I/21VuSwC3KfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7BXWBQ-es Kelme - Zapatillas Intense 7.0'
 sku: 'B07W7BXWBQ-es'
 tags: [  ]

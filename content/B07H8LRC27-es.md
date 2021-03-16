@@ -5,7 +5,7 @@ date: 2020-03-06 14:07:17
 image: 'https://m.media-amazon.com/images/I/51R9PWGwQHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8LRC27-es Reloj para Hombre Colección Traguardo con Movimiento de...'
 sku: 'B07H8LRC27-es'
 tags: [  ]

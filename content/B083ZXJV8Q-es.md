@@ -5,7 +5,7 @@ date: 2020-08-25 13:15:48
 image: 'https://m.media-amazon.com/images/I/516MhK-bxML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZXJV8Q-es Piscina Luz LED Impermeables Luces Sumergibles Control...'
 sku: 'B083ZXJV8Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-06 19:45:41
 image: 'https://m.media-amazon.com/images/I/416GY-DnPuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BCQILOI-es Philips Thermoprotect HP8233/00 - Secador de Pelo Motor DC...'
 sku: 'B00BCQILOI-es'
 tags: [  ]

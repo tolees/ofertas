@@ -5,7 +5,7 @@ date: 2020-04-14 16:18:32
 image: 'https://m.media-amazon.com/images/I/41qscSWGNiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H78WT1L-es Moulinex Infiny Force Ultimate Cocktail DD87KD10 Batidora...'
 sku: 'B07H78WT1L-es'
 tags: [  ]

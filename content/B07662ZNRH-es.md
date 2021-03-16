@@ -5,7 +5,7 @@ date: 2020-05-18 10:20:03
 image: 'https://m.media-amazon.com/images/I/41QSlsKZKjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07662ZNRH-es BOSS Schino-Slim D Pantalones Azul Open Blue 463 W33/L34...'
 sku: 'B07662ZNRH-es'
 tags: [  ]

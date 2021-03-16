@@ -5,7 +5,7 @@ date: 2020-05-09 19:56:22
 image: 'https://m.media-amazon.com/images/I/41IMsCPxDqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KWCRQM6-es Asics Mexico 66 Zapatillas Unisex Blanco White/White 0101...'
 sku: 'B00KWCRQM6-es'
 tags: [  ]

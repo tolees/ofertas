@@ -5,7 +5,7 @@ date: 2020-04-27 18:07:05
 image: 'https://m.media-amazon.com/images/I/61UlnDtohkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTV2D4H-es Carrera- Go DTM Championship Circuito Completo de Coches...'
 sku: 'B07PTV2D4H-es'
 tags: [  ]

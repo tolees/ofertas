@@ -5,7 +5,7 @@ date: 2020-03-30 18:48:55
 image: 'https://m.media-amazon.com/images/I/414DsQsDtjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G7RF7H7-es NBHANYUAN Lighting® Luz de Pared LED al Aire Libre...'
 sku: 'B07G7RF7H7-es'
 tags: [  ]

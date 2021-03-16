@@ -5,7 +5,7 @@ date: 2020-05-28 19:32:49
 image: 'https://m.media-amazon.com/images/I/41KXx3mpmrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FKHG97-es Nuevos Hombres Mujeres Cabello Champú Cuero cabelludo...'
 sku: 'B082FKHG97-es'
 tags: [  ]

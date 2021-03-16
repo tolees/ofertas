@@ -5,7 +5,7 @@ date: 2020-02-18 22:15:39
 image: 'https://m.media-amazon.com/images/I/51ojnBIRaLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FJXQZBW-es Import - Consola Retro Blast Activision Pitfall 20 Juegos'
 sku: 'B07FJXQZBW-es'
 tags: [  ]

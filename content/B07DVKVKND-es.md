@@ -5,7 +5,7 @@ date: 2020-01-06 20:50:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XvpaZKj9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVKVKND-es New Balance Fresh Foam Roav Zapatillas de Running para...'
 sku: 'B07DVKVKND-es'
 tags: [  ]

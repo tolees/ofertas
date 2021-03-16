@@ -5,7 +5,7 @@ date: 2020-08-29 07:27:37
 image: 'https://m.media-amazon.com/images/I/41I+bH3iEgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCDX3YV-es Lenovo Ideapad 330-15ICH - Ordenador Portátil 15.6" FullHD...'
 sku: 'B07LCDX3YV-es'
 tags: [  ]

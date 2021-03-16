@@ -5,7 +5,7 @@ date: 2020-05-04 07:09:16
 image: 'https://m.media-amazon.com/images/I/41HeCpKIhzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSX38K5-es Funko- Pop Vinilo: Ghostbusters: Dr. Peter Venkman Figura...'
 sku: 'B07NSX38K5-es'
 tags: [  ]

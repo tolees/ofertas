@@ -5,7 +5,7 @@ date: 2020-08-14 18:02:53
 image: 'https://m.media-amazon.com/images/I/417ANG73PsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDT3X5F-es Jack & Jones Noos Hombre Azul Navy Blazer M'
 sku: 'B07VDT3X5F-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 16:25:23
 image: 'https://m.media-amazon.com/images/I/41lZwbpfwDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075N3P1NZ-es BIC Gel-ocity Illusion Recambios para Bolis de Gel...'
 sku: 'B075N3P1NZ-es'
 tags: [  ]

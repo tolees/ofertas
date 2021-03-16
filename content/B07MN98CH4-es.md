@@ -5,7 +5,7 @@ date: 2020-03-04 14:05:41
 image: 'https://m.media-amazon.com/images/I/41QO9P-0+uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MN98CH4-es The North Face Piqué Polo de Manga Corta Hombre Amarillo...'
 sku: 'B07MN98CH4-es'
 tags: [  ]

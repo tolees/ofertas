@@ -5,7 +5,7 @@ date: 2020-08-24 17:38:32
 image: 'https://m.media-amazon.com/images/I/31HImJA3cgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWB6HD8-es Levi s Graphic Sport Capucha Blanco Hoodie Filled Brw T2...'
 sku: 'B07TWB6HD8-es'
 tags: [  ]

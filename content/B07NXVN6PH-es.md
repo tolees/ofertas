@@ -5,7 +5,7 @@ date: 2020-09-09 01:26:07
 image: 'https://m.media-amazon.com/images/I/416FLd9Gb0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXVN6PH-es Skechers Men s Stamina Cutback Trainers Azul Navy...'
 sku: 'B07NXVN6PH-es'
 tags: [  ]

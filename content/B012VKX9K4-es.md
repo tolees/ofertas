@@ -5,7 +5,7 @@ date: 2020-01-13 00:09:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eNq0fuZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012VKX9K4-es Targus TSS865EU City Gear - Maletín para portátiles y...'
 sku: 'B012VKX9K4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-12 05:46:36
 image: 'https://m.media-amazon.com/images/I/419956AcoPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXLGRW8-es New Balance 574v2 Zapatillas para Hombre Negro Black/Grey...'
 sku: 'B07RXLGRW8-es'
 tags: [  ]

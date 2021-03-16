@@ -5,7 +5,7 @@ date: 2020-01-27 08:21:45
 image: 'https://m.media-amazon.com/images/I/41MVEBqDA9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBQXFWB-es BERING Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07BBQXFWB-es'
 tags: [  ]

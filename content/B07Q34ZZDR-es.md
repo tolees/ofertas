@@ -5,7 +5,7 @@ date: 2020-04-15 18:40:31
 image: 'https://m.media-amazon.com/images/I/3183dkyoOSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q34ZZDR-es Libertroy Gel de Sílice Galactorrhea Colección de...'
 sku: 'B07Q34ZZDR-es'
 tags: [  ]

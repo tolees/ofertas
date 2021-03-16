@@ -5,7 +5,7 @@ date: 2020-10-06 02:39:43
 image: 'https://m.media-amazon.com/images/I/41xos3Oy1ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYX8X47-es Skechers Women s Flex Appeal 3.0-INSIDERS Trainers Blue...'
 sku: 'B07CYX8X47-es'
 tags: [  ]

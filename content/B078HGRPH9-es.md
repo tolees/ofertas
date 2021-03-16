@@ -5,7 +5,7 @@ date: 2020-05-14 22:27:40
 image: 'https://m.media-amazon.com/images/I/31zljrl6l+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HGRPH9-es 2XU Women s Reflect Run Medias de compresión Ajustadas –...'
 sku: 'B078HGRPH9-es'
 tags: [  ]

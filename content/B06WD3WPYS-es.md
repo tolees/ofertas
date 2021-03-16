@@ -5,7 +5,7 @@ date: 2020-06-30 11:41:01
 image: 'https://m.media-amazon.com/images/I/51TaOUrkg2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WD3WPYS-es Purina ONE Bifensis Pienso para gatos Esterilizados Salmón...'
 sku: 'B06WD3WPYS-es'
 tags: [  ]

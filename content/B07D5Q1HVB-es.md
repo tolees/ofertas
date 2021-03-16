@@ -5,7 +5,7 @@ date: 2020-03-10 12:32:31
 image: 'https://m.media-amazon.com/images/I/41HuiS624PL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5Q1HVB-es PUMA Active WV TR Pantalones Cortos Hombre Azul Peacoat M'
 sku: 'B07D5Q1HVB-es'
 tags: [  ]

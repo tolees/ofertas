@@ -5,7 +5,7 @@ date: 2020-08-03 13:32:21
 image: 'https://m.media-amazon.com/images/I/41Q4qPijetL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4PVQ3Q-es ITALY MORN Joggers Hombre Panatalones para Chicos Deportes...'
 sku: 'B01M4PVQ3Q-es'
 tags: [  ]

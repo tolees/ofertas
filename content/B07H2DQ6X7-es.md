@@ -5,7 +5,7 @@ date: 2020-04-18 03:04:31
 image: 'https://m.media-amazon.com/images/I/310jWKNaO+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2DQ6X7-es K KYUER 41.6Wh JC03 JC04 Batería para HP 240 245 250 255...'
 sku: 'B07H2DQ6X7-es'
 tags: [  ]

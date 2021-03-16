@@ -5,7 +5,7 @@ date: 2020-04-07 05:20:34
 image: 'https://m.media-amazon.com/images/I/41Vm+jqYneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9PQVXM-es FANDARE Mochila Hombres/Mujeres Bolsa de Escuela...'
 sku: 'B07P9PQVXM-es'
 tags: [  ]

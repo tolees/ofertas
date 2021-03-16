@@ -5,7 +5,7 @@ date: 2020-07-23 18:23:12
 image: 'https://m.media-amazon.com/images/I/41lqUmDok4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VT3BFKK-es Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta Gris...'
 sku: 'B07VT3BFKK-es'
 tags: [  ]

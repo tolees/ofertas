@@ -5,7 +5,7 @@ date: 2020-03-10 08:08:16
 image: 'https://m.media-amazon.com/images/I/41nAR5d2o8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ61L9M-es New Balance Cm997hce Zapatillas para Hombre Plateado...'
 sku: 'B07DJ61L9M-es'
 tags: [  ]

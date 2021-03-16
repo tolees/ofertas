@@ -5,7 +5,7 @@ date: 2020-06-27 20:21:09
 image: 'https://m.media-amazon.com/images/I/41SSPpiVa3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LWA8N1A-es Lee Daren - Strong Hand para hombre Azul W33 / L30 ES 44'
 sku: 'B00LWA8N1A-es'
 tags: [  ]

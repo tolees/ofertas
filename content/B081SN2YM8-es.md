@@ -5,7 +5,7 @@ date: 2020-07-20 04:09:16
 image: 'https://m.media-amazon.com/images/I/416IEMESjmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SN2YM8-es adidas Trefoil tee T-Shirt Mujer Lush Red/White 40'
 sku: 'B081SN2YM8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-16 13:52:56
 image: 'https://m.media-amazon.com/images/I/516fmEpnsvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IS2ARKO-es Cordones Elasticos Gomas ★ Cordón Elasticas Zapatillas de...'
 sku: 'B01IS2ARKO-es'
 tags: [  ]

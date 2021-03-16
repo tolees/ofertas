@@ -5,7 +5,7 @@ date: 2020-02-08 10:38:24
 image: 'https://m.media-amazon.com/images/I/41XPOmcFOtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BUXK01K-es POP! Vinilo - DC: Dark Knight Joker'
 sku: 'B00BUXK01K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 12:20:47
 image: 'https://m.media-amazon.com/images/I/31LOfp8sv5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXY73KF-es Samsung EVO Select - Tarjeta de Memoria microSDXC de 64 GB...'
 sku: 'B07CXY73KF-es'
 tags: [  ]

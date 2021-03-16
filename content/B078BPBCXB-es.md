@@ -5,7 +5,7 @@ date: 2020-07-01 17:59:09
 image: 'https://m.media-amazon.com/images/I/41McfQUB6sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BPBCXB-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B078BPBCXB-es'
 tags: [  ]

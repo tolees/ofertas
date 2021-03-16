@@ -5,7 +5,7 @@ date: 2020-02-16 22:01:41
 image: 'https://m.media-amazon.com/images/I/51g7PDU4OaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QSFM5O0-es Top Race Micro-Drone Quadcopter de 4 canales con ruedas...'
 sku: 'B00QSFM5O0-es'
 tags: [  ]

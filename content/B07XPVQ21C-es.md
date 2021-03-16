@@ -5,7 +5,7 @@ date: 2020-06-23 18:23:26
 image: 'https://m.media-amazon.com/images/I/51lyOkTFnzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPVQ21C-es [3 Pack] UniqueMe protector de pantalla para Samsung...'
 sku: 'B07XPVQ21C-es'
 tags: [  ]

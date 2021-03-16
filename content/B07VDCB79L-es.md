@@ -5,7 +5,7 @@ date: 2020-08-05 13:39:08
 image: 'https://m.media-amazon.com/images/I/51O-FPm55oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDCB79L-es LTB Lance B Pantalones Cortos Azul Gorbi Undamaged Wash...'
 sku: 'B07VDCB79L-es'
 tags: [  ]

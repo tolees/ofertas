@@ -5,7 +5,7 @@ date: 2020-04-09 08:46:57
 image: 'https://m.media-amazon.com/images/I/51swRI9USGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FVQPKWU-es Vaessen Creative Plástico Mágico Blanco 4 Hojas Tamaño 21...'
 sku: 'B01FVQPKWU-es'
 tags: [  ]

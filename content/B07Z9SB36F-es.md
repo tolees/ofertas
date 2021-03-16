@@ -5,7 +5,7 @@ date: 2020-05-01 16:07:39
 image: 'https://m.media-amazon.com/images/I/41X-vNgdnrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9SB36F-es Ritiriko Zapatillas de Deporte para Mujer - Zapatillas de...'
 sku: 'B07Z9SB36F-es'
 tags: [  ]

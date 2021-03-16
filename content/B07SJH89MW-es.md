@@ -5,7 +5,7 @@ date: 2020-08-14 09:04:03
 image: 'https://m.media-amazon.com/images/I/41x2En2OwtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJH89MW-es Nike Pico 5 TDV Gymnastics Shoe Unisex-Baby Deep Royal...'
 sku: 'B07SJH89MW-es'
 tags: [  ]

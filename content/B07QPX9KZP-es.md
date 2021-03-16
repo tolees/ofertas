@@ -5,7 +5,7 @@ date: 2020-10-07 19:02:33
 image: 'https://m.media-amazon.com/images/I/41Fo1WgQLML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPX9KZP-es Homyl - Recambio de cartucho de tinta de 69 ml para 500 ps...'
 sku: 'B07QPX9KZP-es'
 tags: [  ]

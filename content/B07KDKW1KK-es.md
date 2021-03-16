@@ -5,7 +5,7 @@ date: 2020-01-05 17:26:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415XVduChsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KDKW1KK-es adidas Regi18 Pre Jkt Sport Jacket Hombre Power Red/Black S'
 sku: 'B07KDKW1KK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 11:02:16
 image: 'https://m.media-amazon.com/images/I/41Gz4VL5RWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009SLD13A-es Philips AEA2000/12 - Adaptador de audio Adaptador Hi-Fi...'
 sku: 'B009SLD13A-es'
 tags: [  ]

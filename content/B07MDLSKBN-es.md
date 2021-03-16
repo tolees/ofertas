@@ -5,7 +5,7 @@ date: 2020-01-31 22:01:37
 image: 'https://m.media-amazon.com/images/I/51nxbOdoRxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDLSKBN-es LIGHTAILING Conjunto de Luces Ghostbusters Ecto-1 Modelo...'
 sku: 'B07MDLSKBN-es'
 tags: [  ]

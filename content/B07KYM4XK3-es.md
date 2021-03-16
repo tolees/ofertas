@@ -5,7 +5,7 @@ date: 2020-04-21 10:50:38
 image: 'https://m.media-amazon.com/images/I/51IloMId1-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYM4XK3-es Kami Idea Regalos Dia de la Madre Mujer Pulsera Blanco...'
 sku: 'B07KYM4XK3-es'
 tags: [  ]

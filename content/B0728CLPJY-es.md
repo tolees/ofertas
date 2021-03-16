@@ -5,7 +5,7 @@ date: 2020-02-02 16:29:24
 image: 'https://m.media-amazon.com/images/I/415TU+VreeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0728CLPJY-es BB-9E App-Enabled Droid con Droid Trainer de Sphero'
 sku: 'B0728CLPJY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-20 16:47:41
 image: 'https://m.media-amazon.com/images/I/51VV2SAy07L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDDBX9G-es 30W Bombilla LED Sumergible Iluminación de Piscinas 300...'
 sku: 'B07DDDBX9G-es'
 tags: [  ]

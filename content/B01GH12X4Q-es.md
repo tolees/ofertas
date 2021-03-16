@@ -5,7 +5,7 @@ date: 2020-06-22 16:32:27
 image: 'https://m.media-amazon.com/images/I/41+I5uuzaUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GH12X4Q-es 12 Pares Distintos Tamaños De Perlas De Imitación Cremosa...'
 sku: 'B01GH12X4Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 08:31:18
 image: 'https://m.media-amazon.com/images/I/51Y-XS5cEWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHH7Y8X-es Soporte Ordenador Portátil Laptop Stand - 7.9-17” Soporte...'
 sku: 'B08BHH7Y8X-es'
 tags: [  ]

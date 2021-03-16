@@ -5,7 +5,7 @@ date: 2020-03-25 07:37:32
 image: 'https://m.media-amazon.com/images/I/41wk58ZRaEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZFJCMR-es Under Armour Performance 2.0 Polo Hombre Negro Black/Pitch...'
 sku: 'B07CZFJCMR-es'
 tags: [  ]

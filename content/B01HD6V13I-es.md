@@ -5,7 +5,7 @@ date: 2020-03-08 17:21:47
 image: 'https://m.media-amazon.com/images/I/51a-kKxRERL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HD6V13I-es Salomon Evasion 2 Aero Zapatillas de Senderismo para...'
 sku: 'B01HD6V13I-es'
 tags: [  ]

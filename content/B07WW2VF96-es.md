@@ -5,7 +5,7 @@ date: 2020-04-26 19:40:36
 image: 'https://m.media-amazon.com/images/I/61yrEH+McXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WW2VF96-es Ballery Bolsa de Pañales Bolsa Mojado Lavable Mojado y...'
 sku: 'B07WW2VF96-es'
 tags: [  ]

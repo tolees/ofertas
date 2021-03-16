@@ -5,7 +5,7 @@ date: 2020-10-10 15:01:36
 image: 'https://m.media-amazon.com/images/I/41mxyj7zdZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BK2H2P8-es Kepae Juegos de Construcción Kit de Iluminación LED para...'
 sku: 'B08BK2H2P8-es'
 tags: [  ]

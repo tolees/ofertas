@@ -5,7 +5,7 @@ date: 2020-05-14 09:59:39
 image: 'https://m.media-amazon.com/images/I/51dWMXNz-5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBPJ8L8-es Helly Hansen Outline Beanie Gorro Sombrero De Invierno...'
 sku: 'B07LBPJ8L8-es'
 tags: [  ]

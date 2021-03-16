@@ -5,7 +5,7 @@ date: 2020-06-30 16:59:24
 image: 'https://m.media-amazon.com/images/I/41VXGEKgybL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ9C59-es Skechers Delson 2.0 Kemper Zapatillas para Hombre Azul...'
 sku: 'B07TSQ9C59-es'
 tags: [  ]

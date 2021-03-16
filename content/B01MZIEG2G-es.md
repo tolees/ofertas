@@ -5,7 +5,7 @@ date: 2020-04-08 06:10:46
 image: 'https://m.media-amazon.com/images/I/51ydcDkm4eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZIEG2G-es Poster STAR WARS El Despertar De La Fuerza Grafiti Hecho A...'
 sku: 'B01MZIEG2G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-06 14:56:44
 image: 'https://m.media-amazon.com/images/I/51L9+mSQqsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PXBQPF-es Pala NOX Attraction A.4'
 sku: 'B077PXBQPF-es'
 tags: [  ]

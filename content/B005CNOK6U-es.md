@@ -5,7 +5,7 @@ date: 2020-03-18 14:39:58
 image: 'https://m.media-amazon.com/images/I/21oGFpnfe0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005CNOK6U-es Premier Housewares Portarrollos Negro Centimeters'
 sku: 'B005CNOK6U-es'
 tags: [  ]

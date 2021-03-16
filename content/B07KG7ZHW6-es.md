@@ -5,7 +5,7 @@ date: 2020-07-20 07:35:09
 image: 'https://m.media-amazon.com/images/I/41GYtcNTBWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG7ZHW6-es PUMA Ralph Sampson Mid Zapatillas Unisex Adulto Blanco...'
 sku: 'B07KG7ZHW6-es'
 tags: [  ]

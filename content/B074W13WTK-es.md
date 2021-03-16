@@ -5,7 +5,7 @@ date: 2020-06-25 09:57:22
 image: 'https://m.media-amazon.com/images/I/5104RAApX+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074W13WTK-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B074W13WTK-es'
 tags: [  ]

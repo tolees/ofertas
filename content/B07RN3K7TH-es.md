@@ -5,7 +5,7 @@ date: 2020-07-06 15:41:41
 image: 'https://m.media-amazon.com/images/I/41PD5HZO7yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN3K7TH-es Snailax Masajeador de mano eléctrico para masaje de...'
 sku: 'B07RN3K7TH-es'
 tags: [  ]

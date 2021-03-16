@@ -5,7 +5,7 @@ date: 2020-03-11 22:27:20
 image: 'https://m.media-amazon.com/images/I/31rAP4NTfeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005JATI1S-es L Oreal Paris - Cil Architecte 4D Máscara de Pestañas...'
 sku: 'B005JATI1S-es'
 tags: [  ]

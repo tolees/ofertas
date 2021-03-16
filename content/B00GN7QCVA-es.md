@@ -5,7 +5,7 @@ date: 2020-08-11 20:12:25
 image: 'https://m.media-amazon.com/images/I/41SSPpiVa3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GN7QCVA-es LEE DAREN - Pantalones para hombre Azul 33W x 34L'
 sku: 'B00GN7QCVA-es'
 tags: [  ]

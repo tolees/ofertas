@@ -5,7 +5,7 @@ date: 2020-01-06 22:15:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LBfmXubTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012GQVTIC-es Capital Sports Adjustar Banco de entrenamiento adaptable...'
 sku: 'B012GQVTIC-es'
 tags: [  ]

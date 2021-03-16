@@ -5,7 +5,7 @@ date: 2020-07-28 20:32:04
 image: 'https://m.media-amazon.com/images/I/41KRD7pdQzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0195GZIJM-es Funko POP! Marvel Deadpool Two Swords - Figurina de vinilo'
 sku: 'B0195GZIJM-es'
 tags: [  ]

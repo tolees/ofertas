@@ -5,7 +5,7 @@ date: 2020-01-19 19:19:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kuh-iatCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSNNXDQ-es Duevin Máquina de tatuaje semipermanente 10 Wraps Alloy...'
 sku: 'B07VSNNXDQ-es'
 tags: [  ]

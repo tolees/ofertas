@@ -5,7 +5,7 @@ date: 2020-02-11 09:53:53
 image: 'https://m.media-amazon.com/images/I/41EjFwjwUTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RPE5PE-es Trust – Mini Lector de Tarjetas USB Robson color blanco'
 sku: 'B000RPE5PE-es'
 tags: [  ]

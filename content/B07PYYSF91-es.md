@@ -5,7 +5,7 @@ date: 2020-07-26 00:12:54
 image: 'https://m.media-amazon.com/images/I/31w8vngyLlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYYSF91-es Under Armour UA W Charged Pursuit 2 Zapatillas de Running...'
 sku: 'B07PYYSF91-es'
 tags: [  ]

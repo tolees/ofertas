@@ -5,7 +5,7 @@ date: 2020-03-07 16:56:35
 image: 'https://m.media-amazon.com/images/I/31W-xYXgEYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UFS2J06-es WELEDA Leche Corporal de Malva Blanca 1x 200 ml'
 sku: 'B00UFS2J06-es'
 tags: [  ]

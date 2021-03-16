@@ -5,7 +5,7 @@ date: 2020-08-05 14:01:22
 image: 'https://m.media-amazon.com/images/I/5111fZvAwbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K6MMMI0-es Guess Reloj analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B00K6MMMI0-es'
 tags: [  ]

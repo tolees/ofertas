@@ -5,7 +5,7 @@ date: 2020-05-11 07:40:36
 image: 'https://m.media-amazon.com/images/I/51m8HAiitBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYDJ6Q8-es Piccalilly - Body para bebé algodón orgánico Suave Unisex...'
 sku: 'B07XYDJ6Q8-es'
 tags: [  ]

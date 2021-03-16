@@ -5,7 +5,7 @@ date: 2020-03-04 22:40:43
 image: 'https://m.media-amazon.com/images/I/31shA-YL+hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGSYDZH-es L Óreal Paris Les Chocolats Labial Líquido Mate - Tono...'
 sku: 'B07CGSYDZH-es'
 tags: [  ]

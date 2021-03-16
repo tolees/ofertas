@@ -5,7 +5,7 @@ date: 2020-05-21 07:39:04
 image: 'https://m.media-amazon.com/images/I/31xyZq5QWVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGBHXFN-es Puma Phase Gym Sack Bolsa De Cuerdas Unisex Adulto...'
 sku: 'B07JGBHXFN-es'
 tags: [  ]

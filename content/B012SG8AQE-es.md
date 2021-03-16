@@ -5,7 +5,7 @@ date: 2020-06-30 07:04:00
 image: 'https://m.media-amazon.com/images/I/41KtXC9CMcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012SG8AQE-es Zwilling Essence - Batería de Cocina Acero Inoxidable Gris...'
 sku: 'B012SG8AQE-es'
 tags: [  ]

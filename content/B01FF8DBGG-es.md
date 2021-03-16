@@ -5,7 +5,7 @@ date: 2020-10-08 08:51:02
 image: 'https://m.media-amazon.com/images/I/31hLtMEQQKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FF8DBGG-es JACK & JONES Jjiliam Jjoriginal Am 009 Lid Noos Jeans...'
 sku: 'B01FF8DBGG-es'
 tags: [  ]

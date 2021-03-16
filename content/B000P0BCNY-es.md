@@ -5,7 +5,7 @@ date: 2020-05-22 17:10:21
 image: 'https://m.media-amazon.com/images/I/31gKjsjn04L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000P0BCNY-es Grohe - Cartucho 46mm con discos cerámicos y limitador eco...'
 sku: 'B000P0BCNY-es'
 tags: [  ]

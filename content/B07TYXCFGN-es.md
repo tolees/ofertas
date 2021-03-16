@@ -5,7 +5,7 @@ date: 2020-07-09 06:48:54
 image: 'https://m.media-amazon.com/images/I/51PnZga95EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYXCFGN-es FORMIZON 40 Pcs Bolsas Regalo Papel 10 Colores Patrón...'
 sku: 'B07TYXCFGN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-15 18:49:51
 image: 'https://m.media-amazon.com/images/I/41UZi6Bjo3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXNVY97-es Panasonic Lumix DC-GH5 - Cámara EVIL de 20.3 MP Pantalla...'
 sku: 'B06XXNVY97-es'
 tags: [  ]

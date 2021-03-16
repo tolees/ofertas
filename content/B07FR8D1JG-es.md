@@ -5,7 +5,7 @@ date: 2020-03-23 12:10:29
 image: 'https://m.media-amazon.com/images/I/41rcF6DOLbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR8D1JG-es Nobleza - Pañales para Perros Desechables Macho Hembra...'
 sku: 'B07FR8D1JG-es'
 tags: [  ]

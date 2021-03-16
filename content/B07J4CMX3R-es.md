@@ -5,7 +5,7 @@ date: 2020-04-10 07:04:49
 image: 'https://m.media-amazon.com/images/I/41Uz8WOOw7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J4CMX3R-es Misfit Smartwatch MIS7100'
 sku: 'B07J4CMX3R-es'
 tags: [  ]

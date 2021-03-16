@@ -5,7 +5,7 @@ date: 2020-02-17 13:48:33
 image: 'https://m.media-amazon.com/images/I/31L22p86ZIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVQKJ9W-es Belkin Ultra HD 2018 - Cable HDMI de Alta Velocidad 1 m...'
 sku: 'B07GVQKJ9W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-06 16:10:38
 image: 'https://m.media-amazon.com/images/I/312RgT7gZqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBY1P6Q-es Rimmel Super Gel Esmalte de Uñas 30g Pack de 1'
 sku: 'B07WBY1P6Q-es'
 tags: [  ]

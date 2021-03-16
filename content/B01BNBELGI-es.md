@@ -5,7 +5,7 @@ date: 2020-09-21 20:35:32
 image: 'https://m.media-amazon.com/images/I/51Ey0KgBOrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BNBELGI-es Hugo Boss Orange 1513351 - Reloj analógico de pulsera para...'
 sku: 'B01BNBELGI-es'
 tags: [  ]

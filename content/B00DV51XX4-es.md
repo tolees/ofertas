@@ -5,7 +5,7 @@ date: 2020-03-11 13:48:25
 image: 'https://m.media-amazon.com/images/I/41O1IXvUnOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DV51XX4-es Superga 2750 COTU Classic Zapatillas Unisex Azul C43 41 EU'
 sku: 'B00DV51XX4-es'
 tags: [  ]

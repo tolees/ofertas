@@ -5,7 +5,7 @@ date: 2020-04-17 00:32:37
 image: 'https://m.media-amazon.com/images/I/51uw5y7SImL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYB1GCF-es Nuevo té verde Dongting Biluochun Tea fragante primavera...'
 sku: 'B07FYB1GCF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-03 23:43:49
 image: 'https://m.media-amazon.com/images/I/41MSpBF251L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077CQ8F8P-es Adidas Power III Zapatillas de Deporte para Hombre Negro...'
 sku: 'B077CQ8F8P-es'
 tags: [  ]

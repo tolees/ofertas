@@ -5,7 +5,7 @@ date: 2020-10-06 17:14:49
 image: 'https://m.media-amazon.com/images/I/31aOwTjgC-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FKL4J64-es Revlon Ultra HD Pintalabios Mate Kisses'
 sku: 'B01FKL4J64-es'
 tags: [  ]

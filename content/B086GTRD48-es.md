@@ -5,7 +5,7 @@ date: 2020-05-17 17:35:58
 image: 'https://m.media-amazon.com/images/I/41qAp5pjLjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GTRD48-es Oihxse Compatible con iPhone X/iPhone XS Funda Suave Gel...'
 sku: 'B086GTRD48-es'
 tags: [  ]

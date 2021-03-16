@@ -5,7 +5,7 @@ date: 2020-04-16 08:54:15
 image: 'https://m.media-amazon.com/images/I/51fU9d7vF+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNF2M1M-es LKXHarleya 1000 pcs Unids/Lote Mini Artificial Cabezas...'
 sku: 'B07GNF2M1M-es'
 tags: [  ]

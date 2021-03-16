@@ -5,7 +5,7 @@ date: 2020-01-24 22:23:14
 image: 'https://m.media-amazon.com/images/I/41C0czVgImL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJ1FY86-es Corsair K95 RGB Platinum - Teclado mecánico Gaming Cherry...'
 sku: 'B06XJ1FY86-es'
 tags: [  ]

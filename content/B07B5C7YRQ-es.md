@@ -5,7 +5,7 @@ date: 2020-08-02 18:47:24
 image: 'https://m.media-amazon.com/images/I/41Z9pfjbLgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B5C7YRQ-es Logitech M238 Fan Collection - Wireless Mouse - France -...'
 sku: 'B07B5C7YRQ-es'
 tags: [  ]

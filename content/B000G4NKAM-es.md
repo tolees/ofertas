@@ -5,7 +5,7 @@ date: 2020-08-11 07:45:51
 image: 'https://m.media-amazon.com/images/I/415xhdqolcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000G4NKAM-es Adidas Samba Classic Schwarz-weiÃ Zapatillas de Fútbol...'
 sku: 'B000G4NKAM-es'
 tags: [  ]

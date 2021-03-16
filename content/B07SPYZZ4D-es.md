@@ -5,7 +5,7 @@ date: 2020-08-05 05:35:45
 image: 'https://m.media-amazon.com/images/I/41FrVZWE0KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPYZZ4D-es AIMOS Conmutador KVM HDMI USB KVM Switch 2 Puertos...'
 sku: 'B07SPYZZ4D-es'
 tags: [  ]

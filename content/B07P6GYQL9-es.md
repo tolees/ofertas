@@ -5,7 +5,7 @@ date: 2020-05-24 09:33:20
 image: 'https://m.media-amazon.com/images/I/31bCy8lA6SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6GYQL9-es Joma Nobel Pantalon equipaciones Hombre Verde Fluor XL'
 sku: 'B07P6GYQL9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 08:55:39
 image: 'https://m.media-amazon.com/images/I/41annAtxzsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6NRQJM-es Columbia Snuggly Bunny Mono de esquí infantil Niña Rosa...'
 sku: 'B07K6NRQJM-es'
 tags: [  ]

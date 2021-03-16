@@ -5,7 +5,7 @@ date: 2020-08-29 12:33:45
 image: 'https://m.media-amazon.com/images/I/511wj0FZrYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076DFY62W-es Metronic 477144 - Radio CD-mp3 y Reproductor de CD...'
 sku: 'B076DFY62W-es'
 tags: [  ]

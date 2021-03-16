@@ -5,7 +5,7 @@ date: 2020-06-14 22:05:04
 image: 'https://m.media-amazon.com/images/I/31T2YUqn4CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C8H4HCK-es ORICO Aluminio Aleación USB C a HDMI Adaptador y 3-Puertos...'
 sku: 'B07C8H4HCK-es'
 tags: [  ]

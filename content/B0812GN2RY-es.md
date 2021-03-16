@@ -5,7 +5,7 @@ date: 2020-06-18 18:34:54
 image: 'https://m.media-amazon.com/images/I/31SRpZG24ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0812GN2RY-es Asics Gel-Cumulus 21 Running Shoe Mens - Black/Black - 46 EU'
 sku: 'B0812GN2RY-es'
 tags: [  ]

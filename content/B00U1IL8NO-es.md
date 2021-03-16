@@ -5,7 +5,7 @@ date: 2020-08-25 22:19:26
 image: 'https://m.media-amazon.com/images/I/31jzqFozbsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U1IL8NO-es Reebok Classic Leather - Zapatillas de cuero para hombre...'
 sku: 'B00U1IL8NO-es'
 tags: [  ]

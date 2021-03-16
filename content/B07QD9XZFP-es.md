@@ -5,7 +5,7 @@ date: 2020-09-26 01:20:41
 image: 'https://m.media-amazon.com/images/I/31DzCcaoDJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD9XZFP-es adidas Grand Court I Zapatillas de Estar por casa para...'
 sku: 'B07QD9XZFP-es'
 tags: [  ]

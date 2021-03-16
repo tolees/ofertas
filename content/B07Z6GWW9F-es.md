@@ -5,7 +5,7 @@ date: 2020-07-30 07:31:30
 image: 'https://m.media-amazon.com/images/I/41wS2VeGf9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6GWW9F-es Cámara digital Vlogging accesorios para cámara G03'
 sku: 'B07Z6GWW9F-es'
 tags: [  ]

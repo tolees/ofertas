@@ -5,7 +5,7 @@ date: 2020-02-09 19:51:08
 image: 'https://m.media-amazon.com/images/I/51cSMJUBRGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WYKCHN3-es Lomogo Funda Xiaomi Redmi 7A Cartera Funda de Cuero...'
 sku: 'B07WYKCHN3-es'
 tags: [  ]

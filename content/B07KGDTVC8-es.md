@@ -5,7 +5,7 @@ date: 2020-02-17 09:45:46
 image: 'https://m.media-amazon.com/images/I/510QRFxofQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGDTVC8-es Tbest 1 Par Compresión de Rodillera Manga para Pierna...'
 sku: 'B07KGDTVC8-es'
 tags: [  ]

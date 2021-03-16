@@ -5,7 +5,7 @@ date: 2020-08-28 16:25:52
 image: 'https://m.media-amazon.com/images/I/410AlA46QLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BRVTBK-es Cala para Look con tornillos Look Keo-Grip negro juego'
 sku: 'B001BRVTBK-es'
 tags: [  ]

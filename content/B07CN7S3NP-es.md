@@ -5,7 +5,7 @@ date: 2020-08-29 15:04:24
 image: 'https://m.media-amazon.com/images/I/51b2ZOf9QfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN7S3NP-es BIC 950615 Velleda – Lote de 2 Surface borrado en seco...'
 sku: 'B07CN7S3NP-es'
 tags: [  ]

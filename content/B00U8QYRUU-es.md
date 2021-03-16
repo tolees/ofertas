@@ -5,7 +5,7 @@ date: 2020-02-10 20:36:55
 image: 'https://m.media-amazon.com/images/I/41u+oC2dEEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U8QYRUU-es Beter - Pinzas con punta roma recta - 10.4 cm - 1 unidad'
 sku: 'B00U8QYRUU-es'
 tags: [  ]

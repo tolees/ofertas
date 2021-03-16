@@ -5,7 +5,7 @@ date: 2020-01-28 13:17:54
 image: 'https://m.media-amazon.com/images/I/41Iq7hZ+rEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYFCBH-es PUMJV|#Puma Defy Wn s Zapatillas Deportivas para Interior...'
 sku: 'B07KFYFCBH-es'
 tags: [  ]

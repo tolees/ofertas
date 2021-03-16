@@ -5,7 +5,7 @@ date: 2020-09-11 09:30:47
 image: 'https://m.media-amazon.com/images/I/41qmKLXty8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YL6PLQT-es Alpina 240271000/A18 Motosierra de gasolina AC 27 T 26.9...'
 sku: 'B07YL6PLQT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 13:40:17
 image: 'https://m.media-amazon.com/images/I/31FEncaI12L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNFKKHP-es HyperX Predator - Memoria RAM de 16 GB DDR4 3333 MHz CL16...'
 sku: 'B07GNFKKHP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-14 10:35:31
 image: 'https://m.media-amazon.com/images/I/41GS0zbSjUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2N2G8H-es adidas Continental 80 C Zapatillas de Deporte Unisex niño...'
 sku: 'B07K2N2G8H-es'
 tags: [  ]

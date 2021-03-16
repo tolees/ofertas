@@ -5,7 +5,7 @@ date: 2020-03-27 13:18:25
 image: 'https://m.media-amazon.com/images/I/413cljwV-BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CFVE5DY-es Soy Luna YLU23000 Patín Niñas Rosa/Amarillo Talla Única'
 sku: 'B01CFVE5DY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 12:04:00
 image: 'https://m.media-amazon.com/images/I/51xXd4wl7GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N192ITJ-es Maletín Vacío para Maquillaje Portátil Impermeable Maleta...'
 sku: 'B01N192ITJ-es'
 tags: [  ]

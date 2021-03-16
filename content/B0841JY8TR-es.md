@@ -5,7 +5,7 @@ date: 2020-06-18 18:18:50
 image: 'https://m.media-amazon.com/images/I/41JDbGfI-oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0841JY8TR-es mfavour Cajas giratorias para Relojes con Motor silencioso...'
 sku: 'B0841JY8TR-es'
 tags: [  ]

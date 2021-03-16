@@ -5,7 +5,7 @@ date: 2020-09-06 17:26:20
 image: 'https://m.media-amazon.com/images/I/41fcgHA4NCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJ94MHJ-es Winhappyhome Logotipo De La Belleza De La PeluqueríA'
 sku: 'B06XJ94MHJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 18:39:18
 image: 'https://m.media-amazon.com/images/I/51wP4DPvgVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FG49YXE-es BC Lithium Batteries BCTZ14S-FP-S Batería Litio para Moto...'
 sku: 'B00FG49YXE-es'
 tags: [  ]

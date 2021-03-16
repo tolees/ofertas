@@ -5,7 +5,7 @@ date: 2020-09-05 13:12:19
 image: 'https://m.media-amazon.com/images/I/519G1xUmIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KVJ2XF9-es Frozen 2 Anna & Kristoff Couple Set'
 sku: 'B07KVJ2XF9-es'
 tags: [  ]

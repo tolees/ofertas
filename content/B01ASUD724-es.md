@@ -5,7 +5,7 @@ date: 2020-04-21 15:32:19
 image: 'https://m.media-amazon.com/images/I/51O+jZ8bM2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ASUD724-es Melissa & Doug- On The Farm Juego con Pegatines...'
 sku: 'B01ASUD724-es'
 tags: [  ]

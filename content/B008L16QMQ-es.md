@@ -5,7 +5,7 @@ date: 2020-01-16 08:30:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BalDWPGDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008L16QMQ-es Poldark - La Serie Completa [DVD]'
 sku: 'B008L16QMQ-es'
 tags: [  ]

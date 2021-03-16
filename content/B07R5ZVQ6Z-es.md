@@ -5,7 +5,7 @@ date: 2020-04-21 12:08:17
 image: 'https://m.media-amazon.com/images/I/417mKWD2klL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5ZVQ6Z-es MEDION ERAZER P6705 - Ordenador portátil de 15.6" FullHD...'
 sku: 'B07R5ZVQ6Z-es'
 tags: [  ]

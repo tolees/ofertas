@@ -5,7 +5,7 @@ date: 2020-04-20 05:15:56
 image: 'https://m.media-amazon.com/images/I/41-8aCmBH5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0079JHHTM-es Arena Classic Gorro de Natación Unisex Adulto Azul...'
 sku: 'B0079JHHTM-es'
 tags: [  ]

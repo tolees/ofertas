@@ -5,7 +5,7 @@ date: 2020-08-20 14:09:30
 image: 'https://m.media-amazon.com/images/I/31Xn8p5CqaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BG5CIX0-es Philips Lighting Creek Aplique Blanco 24 cm'
 sku: 'B00BG5CIX0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-07 12:08:37
 image: 'https://m.media-amazon.com/images/I/31hTcS7qT5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HL6XHM4-es Eucerin Skin Protection Loción Corporal - 400 ml'
 sku: 'B00HL6XHM4-es'
 tags: [  ]

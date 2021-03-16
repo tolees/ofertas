@@ -5,7 +5,7 @@ date: 2020-03-16 19:34:58
 image: 'https://m.media-amazon.com/images/I/31k6fv69v3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FZCVTM-es Wilson Champ Extra Duty Pelotas de tenis tubo con 3...'
 sku: 'B001FZCVTM-es'
 tags: [  ]

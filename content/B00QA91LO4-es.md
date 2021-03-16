@@ -5,7 +5,7 @@ date: 2020-01-29 10:55:35
 image: 'https://m.media-amazon.com/images/I/31cGeGr2uSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QA91LO4-es Sharplace 1 x Emulador USB SFR1M44-U100K 4 x Tornillo'
 sku: 'B00QA91LO4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 17:42:02
 image: 'https://m.media-amazon.com/images/I/41E-ILXZEsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9TN4GQ-es Garnier Delial Aceite Bronceador Intenso Nutritivo...'
 sku: 'B00X9TN4GQ-es'
 tags: [  ]

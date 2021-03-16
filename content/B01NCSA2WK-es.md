@@ -5,7 +5,7 @@ date: 2020-03-29 17:21:13
 image: 'https://m.media-amazon.com/images/I/41wA3bxNGYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCSA2WK-es Lima de uñas eléctrica para manicura y pedicura limas...'
 sku: 'B01NCSA2WK-es'
 tags: [  ]

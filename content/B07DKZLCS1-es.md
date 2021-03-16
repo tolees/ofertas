@@ -5,7 +5,7 @@ date: 2020-01-22 20:50:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51THNxvU9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKZLCS1-es ACTMAN Cámara Deportiva 4K 16 MP WiFi Sumergible con...'
 sku: 'B07DKZLCS1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 19:55:37
 image: 'https://m.media-amazon.com/images/I/41mOan4Xb3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMSX8FJ-es Chantelle DE Orangerie Sujetador Marfil Elfenbein 35 90B...'
 sku: 'B07JMSX8FJ-es'
 tags: [  ]

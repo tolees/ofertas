@@ -5,7 +5,7 @@ date: 2020-07-04 11:31:57
 image: 'https://m.media-amazon.com/images/I/31agznBefZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8PV2HC-es Sebago Classic Dan Náuticos para Hombre Negro 902 39 EU'
 sku: 'B07P8PV2HC-es'
 tags: [  ]

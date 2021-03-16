@@ -5,7 +5,7 @@ date: 2020-02-11 20:32:20
 image: 'https://m.media-amazon.com/images/I/31rDEOty7BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBK29Y7-es Hackett London Aston Martin Racing Tip Cllr Polo Blanco...'
 sku: 'B07JBK29Y7-es'
 tags: [  ]

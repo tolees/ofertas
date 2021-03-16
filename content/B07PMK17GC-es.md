@@ -5,7 +5,7 @@ date: 2020-10-12 04:40:12
 image: 'https://m.media-amazon.com/images/I/51DxMmb7NsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMK17GC-es TOPsic Correa Gear Fit 2 Pro/Fit 2 Correa Reemplazo de...'
 sku: 'B07PMK17GC-es'
 tags: [  ]

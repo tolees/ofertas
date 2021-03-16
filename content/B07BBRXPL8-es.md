@@ -5,7 +5,7 @@ date: 2020-08-09 13:33:03
 image: 'https://m.media-amazon.com/images/I/41d6F3AdmYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBRXPL8-es dc comics Pato de baño de Goma Batman Color Negro Paladone...'
 sku: 'B07BBRXPL8-es'
 tags: [  ]

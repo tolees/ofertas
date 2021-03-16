@@ -5,7 +5,7 @@ date: 2020-09-14 14:16:19
 image: 'https://m.media-amazon.com/images/I/51ibaX4bTHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CCZ8PVG-es Urban Classics Canvas Belt Cinturón Charcoal Talla Única...'
 sku: 'B01CCZ8PVG-es'
 tags: [  ]

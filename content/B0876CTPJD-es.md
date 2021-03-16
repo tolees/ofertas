@@ -5,7 +5,7 @@ date: 2020-07-27 16:33:27
 image: 'https://m.media-amazon.com/images/I/41fQ0WML3+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876CTPJD-es Aigostar Emery 33QRT - Ventilador de pie oscilante 80º 60W...'
 sku: 'B0876CTPJD-es'
 tags: [  ]

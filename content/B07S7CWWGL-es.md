@@ -5,7 +5,7 @@ date: 2020-08-28 16:09:43
 image: 'https://m.media-amazon.com/images/I/41F1svsj1BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7CWWGL-es Aluminio Pequeños joyeros Hobby Abrazadera en la mesa...'
 sku: 'B07S7CWWGL-es'
 tags: [  ]

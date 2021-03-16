@@ -5,7 +5,7 @@ date: 2020-08-28 14:57:55
 image: 'https://m.media-amazon.com/images/I/31pGBlFOmuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7BHBYS-es JACK & JONES JFWORCA Leather 19 STS Chukka Boots para...'
 sku: 'B07R7BHBYS-es'
 tags: [  ]

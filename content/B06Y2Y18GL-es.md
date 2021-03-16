@@ -5,7 +5,7 @@ date: 2020-06-22 21:21:35
 image: 'https://m.media-amazon.com/images/I/418I0F433UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2Y18GL-es New Balance 574v2-core Trainers Zapatillas para Hombre...'
 sku: 'B06Y2Y18GL-es'
 tags: [  ]

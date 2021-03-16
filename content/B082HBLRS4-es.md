@@ -5,7 +5,7 @@ date: 2020-04-13 23:55:52
 image: 'https://m.media-amazon.com/images/I/514y75k0LXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBLRS4-es ART VVIES Für Hauptdekorationen Schlafzimmer Leinwand...'
 sku: 'B082HBLRS4-es'
 tags: [  ]

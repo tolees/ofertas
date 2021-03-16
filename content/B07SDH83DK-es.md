@@ -5,7 +5,7 @@ date: 2020-01-18 16:29:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Kqrc5lm8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDH83DK-es adidas W Mh 3s Dk Pant Sport Trousers Mujer Black/White S'
 sku: 'B07SDH83DK-es'
 tags: [  ]

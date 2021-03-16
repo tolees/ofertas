@@ -5,7 +5,7 @@ date: 2020-09-09 13:40:41
 image: 'https://m.media-amazon.com/images/I/41ZC8VF4vqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ASNGVDY-es Merc Harrington Abrigos de Manga Larga Para Hombre Negro...'
 sku: 'B00ASNGVDY-es'
 tags: [  ]

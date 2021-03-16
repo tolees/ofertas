@@ -5,7 +5,7 @@ date: 2020-05-29 16:25:35
 image: 'https://m.media-amazon.com/images/I/211ByoQsbiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000V3NBIO-es Emsa Basic Tapa Blanco 33 cm'
 sku: 'B000V3NBIO-es'
 tags: [  ]

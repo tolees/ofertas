@@ -5,7 +5,7 @@ date: 2020-04-01 16:36:08
 image: 'https://m.media-amazon.com/images/I/31QREDHKLnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007XG1QES-es Ducha Solar Bestway Solar-Pro Shower'
 sku: 'B007XG1QES-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-29 12:51:29
 image: 'https://m.media-amazon.com/images/I/61KhxHYVUeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XLFVMR6-es Assassin s Creed: Syndicate'
 sku: 'B00XLFVMR6-es'
 tags: [  ]

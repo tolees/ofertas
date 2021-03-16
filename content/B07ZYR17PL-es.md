@@ -5,7 +5,7 @@ date: 2020-03-23 05:03:41
 image: 'https://m.media-amazon.com/images/I/41HDsSForTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZYR17PL-es TOSING Despertador luces Lámpara de sueño Reloj Altavoz...'
 sku: 'B07ZYR17PL-es'
 tags: [  ]

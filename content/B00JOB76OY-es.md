@@ -5,7 +5,7 @@ date: 2020-09-21 11:52:01
 image: 'https://m.media-amazon.com/images/I/51RbXSdjctL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JOB76OY-es Casio Reloj de Pulsera MTP-1314PL-7AVEF'
 sku: 'B00JOB76OY-es'
 tags: [  ]

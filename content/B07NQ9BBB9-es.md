@@ -5,7 +5,7 @@ date: 2020-09-13 15:32:57
 image: 'https://m.media-amazon.com/images/I/41w9RcP0XcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQ9BBB9-es Samsung Galaxy Watch Active Reloj Inteligente Negro...'
 sku: 'B07NQ9BBB9-es'
 tags: [  ]

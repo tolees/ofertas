@@ -5,7 +5,7 @@ date: 2020-08-11 10:53:18
 image: 'https://m.media-amazon.com/images/I/51P7XlJOufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M2R68QE-es Bic Atlantis exacta retráctil Bolígrafo-Azul/Negro/Azul/Rojo'
 sku: 'B00M2R68QE-es'
 tags: [  ]

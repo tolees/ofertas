@@ -5,7 +5,7 @@ date: 2020-05-12 17:09:48
 image: 'https://m.media-amazon.com/images/I/41UX6G1q-EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G38C4TD-es Chicco Liteway 3 Silla de paseo plegable y multifuncional...'
 sku: 'B07G38C4TD-es'
 tags: [  ]

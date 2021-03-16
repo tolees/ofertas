@@ -5,7 +5,7 @@ date: 2020-05-28 17:08:47
 image: 'https://m.media-amazon.com/images/I/31jPCLP8RZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JQLFBS-es Wella Eimi Laca Extrafuerte - 300 ml'
 sku: 'B076JQLFBS-es'
 tags: [  ]

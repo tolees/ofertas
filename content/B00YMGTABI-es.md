@@ -5,7 +5,7 @@ date: 2020-01-29 13:04:42
 image: 'https://m.media-amazon.com/images/I/41yBD5kwrAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YMGTABI-es TW Steel Reloj de Pulsera CS33'
 sku: 'B00YMGTABI-es'
 tags: [  ]

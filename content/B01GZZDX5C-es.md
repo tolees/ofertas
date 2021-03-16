@@ -5,7 +5,7 @@ date: 2020-08-12 13:18:22
 image: 'https://m.media-amazon.com/images/I/51Mz0nSuMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GZZDX5C-es Rimmel London Magnifeyes Mono Sombra de Ojos Tono 1 Gold...'
 sku: 'B01GZZDX5C-es'
 tags: [  ]

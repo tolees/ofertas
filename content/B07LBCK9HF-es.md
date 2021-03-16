@@ -5,7 +5,7 @@ date: 2020-03-02 15:39:07
 image: 'https://m.media-amazon.com/images/I/41K0CrMzRgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBCK9HF-es Kappa Monteba OC Zapatillas Unisex Adulto Black 1111 36 EU'
 sku: 'B07LBCK9HF-es'
 tags: [  ]

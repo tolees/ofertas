@@ -5,7 +5,7 @@ date: 2020-05-29 20:02:25
 image: 'https://m.media-amazon.com/images/I/31QgjmmeE3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008F8C8AE-es Singer 1409 Promise - Máquina de Coser Mecánica 9 puntadas...'
 sku: 'B008F8C8AE-es'
 tags: [  ]

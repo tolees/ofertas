@@ -5,7 +5,7 @@ date: 2020-05-16 10:13:20
 image: 'https://m.media-amazon.com/images/I/41x2l5axfCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016ACESVS-es Palancas de neumáticos Schwalbe juego de 3 piezas - Azul'
 sku: 'B016ACESVS-es'
 tags: [  ]

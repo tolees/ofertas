@@ -5,7 +5,7 @@ date: 2020-04-02 09:36:55
 image: 'https://m.media-amazon.com/images/I/51xQESfkEEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KP2JR4W-es SALOMON Evasion 2-Pack 2 Pares de Calcetines Tobilleros...'
 sku: 'B07KP2JR4W-es'
 tags: [  ]

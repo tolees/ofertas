@@ -5,7 +5,7 @@ date: 2020-04-17 09:29:03
 image: 'https://m.media-amazon.com/images/I/4129wkUjqrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSQ94W3-es Columbia Mujer Trenca Rainy Creek Trenca Poliéster Azul...'
 sku: 'B07KSQ94W3-es'
 tags: [  ]

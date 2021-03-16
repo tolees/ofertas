@@ -5,7 +5,7 @@ date: 2020-02-02 21:21:18
 image: 'https://m.media-amazon.com/images/I/51CGum9H6GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY1JYW9-es BRIKSMAX Kit de Iluminación Led para Lego Creator Casa...'
 sku: 'B07YY1JYW9-es'
 tags: [  ]

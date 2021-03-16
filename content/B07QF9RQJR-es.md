@@ -5,7 +5,7 @@ date: 2020-03-30 16:06:20
 image: 'https://m.media-amazon.com/images/I/31aHDRQQroL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QF9RQJR-es PUMA Modern Sport Leggings Mallas Deporte Mujer Black L'
 sku: 'B07QF9RQJR-es'
 tags: [  ]

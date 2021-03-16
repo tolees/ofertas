@@ -5,7 +5,7 @@ date: 2020-04-10 00:27:01
 image: 'https://m.media-amazon.com/images/I/41mOik57OHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R57QKJ3-es STOBOK - Adhesivos de papel de colores para manualidades...'
 sku: 'B07R57QKJ3-es'
 tags: [  ]

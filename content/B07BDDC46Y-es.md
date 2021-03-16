@@ -5,7 +5,7 @@ date: 2020-08-30 15:27:00
 image: 'https://m.media-amazon.com/images/I/31y11X7Z7sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDDC46Y-es N300 Repetidor Extensor de Red WiFi Enrutador Inalámbrico...'
 sku: 'B07BDDC46Y-es'
 tags: [  ]

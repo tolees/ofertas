@@ -5,7 +5,7 @@ date: 2020-08-10 19:14:05
 image: 'https://m.media-amazon.com/images/I/41m7SXtGwOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLT5L4Y-es Marvel Los Vengadores- Juego de 2 cepillos de dientes para...'
 sku: 'B07FLT5L4Y-es'
 tags: [  ]

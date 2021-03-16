@@ -5,7 +5,7 @@ date: 2020-08-10 06:48:29
 image: 'https://m.media-amazon.com/images/I/51DQu49WDzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087X1G5SS-es Buyger 3 en 1 Helados Supermercado Juguete con Luz y...'
 sku: 'B087X1G5SS-es'
 tags: [  ]

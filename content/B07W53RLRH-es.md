@@ -5,7 +5,7 @@ date: 2020-07-19 13:01:01
 image: 'https://m.media-amazon.com/images/I/41X1OkkbBLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W53RLRH-es SIKAI CASE - No Necesita En Movimiento SIKAI Protectora...'
 sku: 'B07W53RLRH-es'
 tags: [  ]

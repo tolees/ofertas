@@ -5,7 +5,7 @@ date: 2020-05-20 02:50:31
 image: 'https://m.media-amazon.com/images/I/412mX65R-hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BPII48-es Manhattan Convertidor PS/2 a USB USB A 2X Mini DIN 6 Pin...'
 sku: 'B001BPII48-es'
 tags: [  ]

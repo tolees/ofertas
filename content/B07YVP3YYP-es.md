@@ -5,7 +5,7 @@ date: 2020-03-16 07:26:41
 image: 'https://m.media-amazon.com/images/I/41Ab2toG2lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVP3YYP-es Essie Pintauñas Nude tono 654 Hold´em Tight - 13.5 ml'
 sku: 'B07YVP3YYP-es'
 tags: [  ]

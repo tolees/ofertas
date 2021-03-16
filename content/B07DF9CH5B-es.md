@@ -5,7 +5,7 @@ date: 2020-08-01 17:48:49
 image: 'https://m.media-amazon.com/images/I/51HqosWMKyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DF9CH5B-es Funko Marvel Comics Figura Pop de Prowler Color Mulitcolor...'
 sku: 'B07DF9CH5B-es'
 tags: [  ]

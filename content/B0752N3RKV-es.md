@@ -5,7 +5,7 @@ date: 2020-02-01 01:56:14
 image: 'https://m.media-amazon.com/images/I/41pjtkvKg4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0752N3RKV-es G-STAR RAW 5620 Elwood 3D Slim Jeans Azul medium aged...'
 sku: 'B0752N3RKV-es'
 tags: [  ]

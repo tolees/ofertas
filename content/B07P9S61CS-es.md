@@ -5,7 +5,7 @@ date: 2020-05-27 14:59:09
 image: 'https://m.media-amazon.com/images/I/31vk8ZST5VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9S61CS-es Cressi Kangaroo Dry Pouch Bolsa Impermeable para Teléfono...'
 sku: 'B07P9S61CS-es'
 tags: [  ]

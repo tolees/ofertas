@@ -5,7 +5,7 @@ date: 2020-07-07 21:35:49
 image: 'https://m.media-amazon.com/images/I/41bbZIR1oeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XND2Z8G-es LUDOS Turbo Auriculares con Micrófono y Graves Cascos...'
 sku: 'B07XND2Z8G-es'
 tags: [  ]

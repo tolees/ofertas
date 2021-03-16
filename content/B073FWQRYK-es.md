@@ -5,7 +5,7 @@ date: 2020-03-28 13:59:32
 image: 'https://m.media-amazon.com/images/I/31cKROsskuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073FWQRYK-es Max Factor Colour Elixir Honey Lacquer Gloss Brillo de...'
 sku: 'B073FWQRYK-es'
 tags: [  ]

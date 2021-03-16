@@ -5,7 +5,7 @@ date: 2020-08-30 12:58:54
 image: 'https://m.media-amazon.com/images/I/31xaw21sGmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002AF6BQ-es Fellowes 29702 - Alfombrilla estándar para ratón 22.9 x...'
 sku: 'B0002AF6BQ-es'
 tags: [  ]

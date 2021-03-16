@@ -5,7 +5,7 @@ date: 2020-02-23 16:18:20
 image: 'https://m.media-amazon.com/images/I/31cQ+B1PUuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9BGG1Z-es THE NORTH FACE M TB TRCTN Mule V Zapatillas de Senderismo...'
 sku: 'B07N9BGG1Z-es'
 tags: [  ]

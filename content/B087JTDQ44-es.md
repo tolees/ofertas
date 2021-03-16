@@ -5,7 +5,7 @@ date: 2020-05-06 17:03:23
 image: 'https://m.media-amazon.com/images/I/41xLfyAJZJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JTDQ44-es Saco Silla Universal Rosy Fuentes en marino'
 sku: 'B087JTDQ44-es'
 tags: [  ]

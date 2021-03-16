@@ -5,7 +5,7 @@ date: 2020-08-19 23:18:59
 image: 'https://m.media-amazon.com/images/I/51wXp6G-jbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7CB46L-es Skechers Bobs Squad-Glitz Maker Zapatillas para Mujer Rosa...'
 sku: 'B07T7CB46L-es'
 tags: [  ]

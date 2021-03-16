@@ -5,7 +5,7 @@ date: 2020-05-27 08:46:19
 image: 'https://m.media-amazon.com/images/I/41Yyjr0flnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MCSW96Q-es Remington Your Style D5219 - Secador de Pelo Secador...'
 sku: 'B00MCSW96Q-es'
 tags: [  ]

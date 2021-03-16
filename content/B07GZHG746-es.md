@@ -5,7 +5,7 @@ date: 2020-08-27 07:42:00
 image: 'https://m.media-amazon.com/images/I/51tZ4VmcwDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZHG746-es Camfosy - Botas de Cuero para mujer color Verde talla 39 EU'
 sku: 'B07GZHG746-es'
 tags: [  ]

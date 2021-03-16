@@ -5,7 +5,7 @@ date: 2020-05-30 08:33:47
 image: 'https://m.media-amazon.com/images/I/31FWtNozPuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTW5YFL-es adidas Adilette Shower Slide Sandal Mens Core...'
 sku: 'B07KTW5YFL-es'
 tags: [  ]

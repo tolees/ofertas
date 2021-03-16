@@ -5,7 +5,7 @@ date: 2020-01-22 13:46:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ICeewrdsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SH77P6R-es 40 protectores de ojos máscara para los ojos colágeno para...'
 sku: 'B07SH77P6R-es'
 tags: [  ]

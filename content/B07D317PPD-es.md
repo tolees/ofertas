@@ -5,7 +5,7 @@ date: 2020-10-12 13:08:10
 image: 'https://m.media-amazon.com/images/I/41c2ZX+F9oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D317PPD-es Amazfit Pace - Reloj inteligente para correr con GPS'
 sku: 'B07D317PPD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 17:04:29
 image: 'https://m.media-amazon.com/images/I/511z+pOwCjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001VB7I8Y-es Schmetz - Aguja para máquina de Coser'
 sku: 'B001VB7I8Y-es'
 tags: [  ]

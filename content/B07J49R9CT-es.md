@@ -5,7 +5,7 @@ date: 2020-07-06 15:31:48
 image: 'https://m.media-amazon.com/images/I/513Hmmwg26L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J49R9CT-es Misfit Smartwatch MIS7203'
 sku: 'B07J49R9CT-es'
 tags: [  ]

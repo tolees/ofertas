@@ -5,7 +5,7 @@ date: 2020-01-13 06:30:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-7FlxNWJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719DTX8W-es Asics Gel-Pulse 9 G-TX T7d9n-3390 Zapatillas de...'
 sku: 'B0719DTX8W-es'
 tags: [  ]

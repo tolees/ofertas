@@ -5,7 +5,7 @@ date: 2020-09-12 06:30:27
 image: 'https://m.media-amazon.com/images/I/51p2HhHVh4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QCD43C-es GOLDGE 540 Pares Adhesivo Redondo Monedas Lunares Adhesivo...'
 sku: 'B087QCD43C-es'
 tags: [  ]

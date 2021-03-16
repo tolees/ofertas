@@ -5,7 +5,7 @@ date: 2020-10-10 15:05:13
 image: 'https://m.media-amazon.com/images/I/51Wx9nssqSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K3TRPF6-es iTrunk Paquete 16 cabezales de cepillo de dientes para...'
 sku: 'B07K3TRPF6-es'
 tags: [  ]

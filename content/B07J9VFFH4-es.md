@@ -5,7 +5,7 @@ date: 2020-04-10 10:07:22
 image: 'https://m.media-amazon.com/images/I/51S8OX+J8wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9VFFH4-es SunTop Linterna LED LED Lámpara de Inspección Recargable...'
 sku: 'B07J9VFFH4-es'
 tags: [  ]

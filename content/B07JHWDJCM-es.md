@@ -5,7 +5,7 @@ date: 2020-03-19 15:34:25
 image: 'https://m.media-amazon.com/images/I/41eccL778NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHWDJCM-es Columbia Heavenly Shorty Omni-Heat Botas de Invierno para...'
 sku: 'B07JHWDJCM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-22 03:24:17
 image: 'https://m.media-amazon.com/images/I/31AmmJmyC9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0015APMKW-es Schwarzkopf Igora Royal Color and Care Developer 3 10 Vol...'
 sku: 'B0015APMKW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 19:40:57
 image: 'https://m.media-amazon.com/images/I/41f0+dikG0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZVKLJN-es adidas Campus Zapatillas de Deporte para Hombre Azul...'
 sku: 'B071ZVKLJN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-16 13:55:49
 image: 'https://m.media-amazon.com/images/I/51hm3NwrZLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPK6JBT-es Funko- Pop Vinilo: Kiss: Spaceman Figura Coleccionable...'
 sku: 'B07KPK6JBT-es'
 tags: [  ]

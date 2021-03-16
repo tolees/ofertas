@@ -5,7 +5,7 @@ date: 2020-07-03 11:16:23
 image: 'https://m.media-amazon.com/images/I/41pdTm6WknL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYD74YB-es Champion the Curvy Soutien-Gorge de Sport Femme Noir Noir...'
 sku: 'B07FYD74YB-es'
 tags: [  ]

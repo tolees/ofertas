@@ -5,7 +5,7 @@ date: 2020-05-11 15:02:22
 image: 'https://m.media-amazon.com/images/I/51cuMd6bbbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004DJS70O-es Estilo de carreras almohadillas de cinturón de seguridad...'
 sku: 'B004DJS70O-es'
 tags: [  ]

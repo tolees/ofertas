@@ -5,7 +5,7 @@ date: 2020-04-07 21:50:21
 image: 'https://m.media-amazon.com/images/I/41npccYtBJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5SK2TS-es IntimaTe WM Heart Set de 2 x Taburetes de Bar Cuadrado y...'
 sku: 'B07C5SK2TS-es'
 tags: [  ]

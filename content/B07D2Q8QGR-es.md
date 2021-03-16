@@ -5,7 +5,7 @@ date: 2020-01-09 06:19:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cqysEOx-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2Q8QGR-es Gant Cotton Pique Crew suéter Hombre Gris Dark Grey...'
 sku: 'B07D2Q8QGR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 17:47:20
 image: 'https://m.media-amazon.com/images/I/41PnlK-U7IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWN3X2X-es American Tourister Matchup Equipaje de Mano 55 centimetros...'
 sku: 'B07RWN3X2X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-29 20:33:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZbPTBSkoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P74JPDP-es Seiko Reloj Analógico para Hombre de Energía Solar con...'
 sku: 'B07P74JPDP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 11:27:47
 image: 'https://m.media-amazon.com/images/I/41usduiScuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WP3PCHM-es LYCAON AB Wheel Roller con Barra de Empuje Cuerda de...'
 sku: 'B07WP3PCHM-es'
 tags: [  ]

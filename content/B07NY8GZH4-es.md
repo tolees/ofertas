@@ -5,7 +5,7 @@ date: 2020-05-20 17:36:21
 image: 'https://m.media-amazon.com/images/I/41TPL1mvwfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY8GZH4-es Art Marina Botas Slouch Unisex Adulto Rojo Burdeos Burdeos...'
 sku: 'B07NY8GZH4-es'
 tags: [  ]

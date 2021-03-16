@@ -5,7 +5,7 @@ date: 2020-01-27 06:07:46
 image: 'https://m.media-amazon.com/images/I/51vAkNgX7SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BQXL8BU-es Sigma 30 mm/F 1 4 DC/HSM - Objetivo para Canon Distancia...'
 sku: 'B00BQXL8BU-es'
 tags: [  ]

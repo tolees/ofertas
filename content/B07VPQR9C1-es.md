@@ -5,7 +5,7 @@ date: 2020-08-26 22:12:51
 image: 'https://m.media-amazon.com/images/I/31CqkZAWInL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPQR9C1-es Tommy Hilfiger Tommy Regular Polo Azul Blue Ink X-Small...'
 sku: 'B07VPQR9C1-es'
 tags: [  ]

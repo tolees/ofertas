@@ -5,7 +5,7 @@ date: 2020-04-12 16:06:09
 image: 'https://m.media-amazon.com/images/I/41VLxCctIeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082B5RB1S-es 2 Piezas De Perfume Original Para Mujer Perfume De Encaje...'
 sku: 'B082B5RB1S-es'
 tags: [  ]

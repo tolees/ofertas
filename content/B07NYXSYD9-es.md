@@ -5,7 +5,7 @@ date: 2020-10-08 07:44:33
 image: 'https://m.media-amazon.com/images/I/419-0ttwErL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NYXSYD9-es Cecotec EnergySilence 790 FreshEssence Ionic Nebulizador...'
 sku: 'B07NYXSYD9-es'
 tags: [  ]

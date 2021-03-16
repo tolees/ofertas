@@ -5,7 +5,7 @@ date: 2020-05-10 18:29:07
 image: 'https://m.media-amazon.com/images/I/41ufzjjurJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4JXKWJ-es Nixon Reloj Analógico para Unisex Adultos de Cuarzo con...'
 sku: 'B07B4JXKWJ-es'
 tags: [  ]

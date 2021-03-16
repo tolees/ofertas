@@ -5,7 +5,7 @@ date: 2020-07-27 06:23:59
 image: 'https://m.media-amazon.com/images/I/41-vOBG-b7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFXLCZB-es Zerodis Deshumidificador de Aire portátil 800ml Mini...'
 sku: 'B07LFXLCZB-es'
 tags: [  ]

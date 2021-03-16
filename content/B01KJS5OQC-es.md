@@ -5,7 +5,7 @@ date: 2020-05-16 07:55:27
 image: 'https://m.media-amazon.com/images/I/51KbnoP79nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KJS5OQC-es World Rally Championship WRC 6'
 sku: 'B01KJS5OQC-es'
 tags: [  ]

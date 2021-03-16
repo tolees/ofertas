@@ -5,7 +5,7 @@ date: 2020-03-24 11:28:08
 image: 'https://m.media-amazon.com/images/I/41jffgrHfmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJVSPBL-es Columbia Ventrailia 3 Low Outdry Zapatillas de Senderismo...'
 sku: 'B07KJVSPBL-es'
 tags: [  ]

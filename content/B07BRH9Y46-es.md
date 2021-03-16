@@ -5,7 +5,7 @@ date: 2020-04-29 15:52:27
 image: 'https://m.media-amazon.com/images/I/41p6MpTRHhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRH9Y46-es Adidas Nemeziz Messi Tango 17.4 In J Zapatillas de fútbol...'
 sku: 'B07BRH9Y46-es'
 tags: [  ]

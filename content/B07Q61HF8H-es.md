@@ -5,7 +5,7 @@ date: 2020-06-28 09:09:14
 image: 'https://m.media-amazon.com/images/I/41ELb1aLNTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q61HF8H-es Britax Römer Silla de coche 15 meses - 12 años 9 - 36 kg...'
 sku: 'B07Q61HF8H-es'
 tags: [  ]

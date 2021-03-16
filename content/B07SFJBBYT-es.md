@@ -5,7 +5,7 @@ date: 2020-05-24 15:02:11
 image: 'https://m.media-amazon.com/images/I/41Y2SpzxvrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFJBBYT-es Levi s Tijuana Zapatillas para Mujer Negro R Black 59 38 EU'
 sku: 'B07SFJBBYT-es'
 tags: [  ]

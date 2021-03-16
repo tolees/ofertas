@@ -5,7 +5,7 @@ date: 2020-01-28 14:53:53
 image: 'https://m.media-amazon.com/images/I/41Dpl316loL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007BLEA6Q-es Bellelli TGTR00020 - Portabebé de ciclismo color blanco/ rojo'
 sku: 'B007BLEA6Q-es'
 tags: [  ]

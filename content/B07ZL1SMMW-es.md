@@ -5,7 +5,7 @@ date: 2020-06-06 21:57:03
 image: 'https://m.media-amazon.com/images/I/31Oq0U4NTqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZL1SMMW-es Olay Total Effects 7en1 Sérum Anti-Edad Suavidad Instante...'
 sku: 'B07ZL1SMMW-es'
 tags: [  ]

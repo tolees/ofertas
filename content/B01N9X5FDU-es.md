@@ -5,7 +5,7 @@ date: 2020-10-05 07:56:35
 image: 'https://m.media-amazon.com/images/I/413g-94ESvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9X5FDU-es Be Cool Zas Silla de Paseo Plegable Uso desde Recién...'
 sku: 'B01N9X5FDU-es'
 tags: [  ]

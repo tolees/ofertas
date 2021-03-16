@@ -5,7 +5,7 @@ date: 2020-01-12 09:25:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rAKs6-WBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDB471G-es Esprit Broome Fashion UW Bra Sujetador Rosa Blush 665 105D...'
 sku: 'B07QDB471G-es'
 tags: [  ]

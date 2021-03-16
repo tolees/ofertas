@@ -5,7 +5,7 @@ date: 2020-01-29 09:34:16
 image: 'https://m.media-amazon.com/images/I/41lSaIUErbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0822XDRJ8-es LACORAMO Alarma Sensor De Puerta y Ventana Con Remoto...'
 sku: 'B0822XDRJ8-es'
 tags: [  ]

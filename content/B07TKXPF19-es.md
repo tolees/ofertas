@@ -5,7 +5,7 @@ date: 2020-07-14 12:33:37
 image: 'https://m.media-amazon.com/images/I/41miDqpybFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKXPF19-es Superdry State Volley Swim Short Pantalones Cortos Negro...'
 sku: 'B07TKXPF19-es'
 tags: [  ]

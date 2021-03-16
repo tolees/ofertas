@@ -5,7 +5,7 @@ date: 2020-09-17 14:57:55
 image: 'https://m.media-amazon.com/images/I/51jH-m99BQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JMD0SQ2-es Canson 406346 - Papel para dibujo 24 x 32 cm 1 unidad con...'
 sku: 'B00JMD0SQ2-es'
 tags: [  ]

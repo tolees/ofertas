@@ -5,7 +5,7 @@ date: 2020-08-09 18:48:47
 image: 'https://m.media-amazon.com/images/I/41uUxKVqQdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSCPW3C-es Batidora Portátil de Frutas Recargable Con USB Mini...'
 sku: 'B07TSCPW3C-es'
 tags: [  ]

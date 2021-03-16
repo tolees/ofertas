@@ -5,7 +5,7 @@ date: 2020-04-17 00:32:05
 image: 'https://m.media-amazon.com/images/I/31Qy0jmuxSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UZ0P7I-es Olympia herramientas 85 – 010 Grand pack-n-roll portátil...'
 sku: 'B000UZ0P7I-es'
 tags: [  ]

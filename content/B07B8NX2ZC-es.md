@@ -5,7 +5,7 @@ date: 2020-09-17 03:46:17
 image: 'https://m.media-amazon.com/images/I/311cMW1Q4xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8NX2ZC-es PUMA ST Runner v2 Mesh Zapatillas de Deporte para Hombre...'
 sku: 'B07B8NX2ZC-es'
 tags: [  ]

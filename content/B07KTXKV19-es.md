@@ -5,7 +5,7 @@ date: 2020-01-12 19:55:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318bT4vtcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTXKV19-es adidas W E Lin Tight Tights Mujer Black/White 2XLS'
 sku: 'B07KTXKV19-es'
 tags: [  ]

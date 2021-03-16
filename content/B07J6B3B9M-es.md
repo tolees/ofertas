@@ -5,7 +5,7 @@ date: 2020-01-15 18:39:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QjoDF7ecL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6B3B9M-es EcoMil Cusine Cashew Bio 200ml - 24 unidades de 200 ml'
 sku: 'B07J6B3B9M-es'
 tags: [  ]

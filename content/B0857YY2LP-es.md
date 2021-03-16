@@ -5,7 +5,7 @@ date: 2020-06-13 19:48:01
 image: 'https://m.media-amazon.com/images/I/41Jkn4XPclL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0857YY2LP-es Zombie Army Trilogy'
 sku: 'B0857YY2LP-es'
 tags: [  ]

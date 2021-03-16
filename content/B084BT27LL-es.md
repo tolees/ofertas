@@ -5,7 +5,7 @@ date: 2020-09-29 11:52:14
 image: 'https://m.media-amazon.com/images/I/41GW5jDMQVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084BT27LL-es Lubricante Intimo Durex Cherry 2 x 100 ml | Lubricante al...'
 sku: 'B084BT27LL-es'
 tags: [  ]

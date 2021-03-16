@@ -5,7 +5,7 @@ date: 2020-01-28 11:34:43
 image: 'https://m.media-amazon.com/images/I/41mQ1WdYMXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSMSXR6-es IPL Depiladora de Luz Pulsada Láser de Depilación...'
 sku: 'B07VSMSXR6-es'
 tags: [  ]

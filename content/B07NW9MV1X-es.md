@@ -5,7 +5,7 @@ date: 2020-07-09 06:07:19
 image: 'https://m.media-amazon.com/images/I/413S7oG2oLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW9MV1X-es Skechers Solar Fuse-brisk Escape Zapatillas Mujer Black...'
 sku: 'B07NW9MV1X-es'
 tags: [  ]

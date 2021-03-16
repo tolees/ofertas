@@ -5,7 +5,7 @@ date: 2020-09-13 20:24:56
 image: 'https://m.media-amazon.com/images/I/41fmj6hsc+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OG5S9L2-es Reloj Komono Winston Royale Unisex KOM-W2351'
 sku: 'B00OG5S9L2-es'
 tags: [  ]

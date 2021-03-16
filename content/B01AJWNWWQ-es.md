@@ -5,7 +5,7 @@ date: 2020-09-25 10:24:37
 image: 'https://m.media-amazon.com/images/I/51Cgo+-xNvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AJWNWWQ-es Maxtor STSHX-M401TCBM - Disco Duro Externo de 4 TB 2.5"...'
 sku: 'B01AJWNWWQ-es'
 tags: [  ]

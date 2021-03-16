@@ -5,7 +5,7 @@ date: 2020-07-27 16:34:09
 image: 'https://m.media-amazon.com/images/I/41eiAS-zV7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E9WAROE-es BAUSCH + LOMB - Biotrue® ONEday - Lentes de contacto de...'
 sku: 'B00E9WAROE-es'
 tags: [  ]

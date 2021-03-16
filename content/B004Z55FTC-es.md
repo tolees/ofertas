@@ -5,7 +5,7 @@ date: 2020-02-21 15:15:44
 image: 'https://m.media-amazon.com/images/I/41lL8bZSifL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004Z55FTC-es MAKITA BHX2501 Herramienta 810 W Negro/Azul/Plata Talla Única'
 sku: 'B004Z55FTC-es'
 tags: [  ]

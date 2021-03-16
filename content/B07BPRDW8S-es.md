@@ -5,7 +5,7 @@ date: 2020-09-05 11:42:22
 image: 'https://m.media-amazon.com/images/I/412uSsIFXpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPRDW8S-es Bulldog Skincare for Men Exfoliante facial original – 125 ml'
 sku: 'B07BPRDW8S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-30 17:28:18
 image: 'https://m.media-amazon.com/images/I/51KHC2d0EJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MHZ78Y-es Mosquitera Puertas Mosquitera Magnética Automático para...'
 sku: 'B079MHZ78Y-es'
 tags: [  ]

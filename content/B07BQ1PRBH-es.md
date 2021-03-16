@@ -5,7 +5,7 @@ date: 2020-06-28 04:17:46
 image: 'https://m.media-amazon.com/images/I/41JdPDN-EtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQ1PRBH-es Lee Luke Jeans Rinse DP 38W / 34L para Hombre'
 sku: 'B07BQ1PRBH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-10 15:03:51
 image: 'https://m.media-amazon.com/images/I/41ICgL5EHqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3VCT8G-es Aomekie Correa de hombro con cuello de cámara correa de...'
 sku: 'B07L3VCT8G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 11:47:35
 image: 'https://m.media-amazon.com/images/I/31SgB2Y9rSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002OHKHKK-es Wolfcraft 2459000 2459000-1 Llave de Brida Universal para...'
 sku: 'B002OHKHKK-es'
 tags: [  ]

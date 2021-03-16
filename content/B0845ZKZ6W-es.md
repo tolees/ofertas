@@ -5,7 +5,7 @@ date: 2020-06-24 10:52:03
 image: 'https://m.media-amazon.com/images/I/41sr27CIZML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0845ZKZ6W-es CHIKA10 Tonia 04 Cuero/Tan Talla 39'
 sku: 'B0845ZKZ6W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 09:03:02
 image: 'https://m.media-amazon.com/images/I/51OGukQRZUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018MB88XO-es HP Essential Top Load - Funda bandolera para portátil de...'
 sku: 'B018MB88XO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-28 08:02:35
 image: 'https://m.media-amazon.com/images/I/41n+L9AFHxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825ZXMM2-es Nniter - Funda ultrafina para iPhone 6/6S de silicona TPU...'
 sku: 'B0825ZXMM2-es'
 tags: [  ]

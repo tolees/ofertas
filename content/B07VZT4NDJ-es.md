@@ -5,7 +5,7 @@ date: 2020-06-26 18:31:09
 image: 'https://m.media-amazon.com/images/I/51TbvVc4b-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZT4NDJ-es Reloj Digital para niños 7 Colores con luz LED para niños...'
 sku: 'B07VZT4NDJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-04 09:17:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51S9rzGzGRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9WB2YR-es find. 70296 vestidos mujer Multicolor Black Mix 36 Talla...'
 sku: 'B06X9WB2YR-es'
 tags: [  ]

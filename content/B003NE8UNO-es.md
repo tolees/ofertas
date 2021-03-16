@@ -5,7 +5,7 @@ date: 2020-06-06 18:26:32
 image: 'https://m.media-amazon.com/images/I/21AE+lKYbnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003NE8UNO-es HELLA 6PT 009 107-141 Sensor temperatura del refrigerante...'
 sku: 'B003NE8UNO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-16 16:01:25
 image: 'https://m.media-amazon.com/images/I/41svlwrYqNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S355DHD-es Love MoschinoJc4027pp1aMujerBolsos bandoleraBlanco Bianco...'
 sku: 'B07S355DHD-es'
 tags: [  ]

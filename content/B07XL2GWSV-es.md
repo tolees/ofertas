@@ -5,7 +5,7 @@ date: 2020-07-29 17:05:54
 image: 'https://m.media-amazon.com/images/I/41R2WIZqo7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL2GWSV-es FIND Tie Up Flat Espadrille Alpargata Azul Denim 39 EU'
 sku: 'B07XL2GWSV-es'
 tags: [  ]

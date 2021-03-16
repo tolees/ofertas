@@ -5,7 +5,7 @@ date: 2020-06-18 20:53:28
 image: 'https://m.media-amazon.com/images/I/41xNFPaPZKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XYHYI4-es Winsor & Newton Cotman - Set studio de acuarela 45 medio...'
 sku: 'B000XYHYI4-es'
 tags: [  ]

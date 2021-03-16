@@ -5,7 +5,7 @@ date: 2020-01-27 08:18:47
 image: 'https://m.media-amazon.com/images/I/41TwMIHdxCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYBH5VF-es adidas Vs Pace Zapatillas para Hombre Azul Collegiate...'
 sku: 'B01MYBH5VF-es'
 tags: [  ]

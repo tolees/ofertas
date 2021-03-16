@@ -5,7 +5,7 @@ date: 2020-09-14 06:24:21
 image: 'https://m.media-amazon.com/images/I/41CyliIrDkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SZWR1R-es Joseph Joseph Index 3 piezas Juego de tabla de cortar...'
 sku: 'B078SZWR1R-es'
 tags: [  ]

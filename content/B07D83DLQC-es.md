@@ -5,7 +5,7 @@ date: 2020-09-04 14:33:39
 image: 'https://m.media-amazon.com/images/I/41LOneEVOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D83DLQC-es Bizak- Modelos Aleatorios Dragones Berk Multicolor 61926549'
 sku: 'B07D83DLQC-es'
 tags: [  ]

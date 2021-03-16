@@ -5,7 +5,7 @@ date: 2020-09-21 13:24:46
 image: 'https://m.media-amazon.com/images/I/519hJJaQiML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWG4PZH-es Aceite de Ricino Orgánico Presionado en Frío Eclat -...'
 sku: 'B07PWG4PZH-es'
 tags: [  ]

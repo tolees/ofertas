@@ -5,7 +5,7 @@ date: 2020-06-06 19:28:33
 image: 'https://m.media-amazon.com/images/I/41gIgVExh5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P9I2KPQ-es Greentech - Puños Manillar Plano Espuma Rojo'
 sku: 'B00P9I2KPQ-es'
 tags: [  ]

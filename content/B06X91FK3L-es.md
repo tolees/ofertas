@@ -5,7 +5,7 @@ date: 2020-04-10 16:34:39
 image: 'https://m.media-amazon.com/images/I/41-IRpSasDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X91FK3L-es Osprey Transporter 40 Unisex Durable Duffel Travel Pack...'
 sku: 'B06X91FK3L-es'
 tags: [  ]

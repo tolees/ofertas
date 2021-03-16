@@ -5,7 +5,7 @@ date: 2020-07-22 19:22:18
 image: 'https://m.media-amazon.com/images/I/41Lj5eD1j9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7QWYZ9-es Arehucas Ginebra Carmela Mango Guayaba - 700 ml'
 sku: 'B01N7QWYZ9-es'
 tags: [  ]

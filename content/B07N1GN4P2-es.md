@@ -5,7 +5,7 @@ date: 2020-04-15 17:25:29
 image: 'https://m.media-amazon.com/images/I/31P6qn5oHPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GN4P2-es Clarks Un Elda Hi Botas Slouch para Mujer Negro Black...'
 sku: 'B07N1GN4P2-es'
 tags: [  ]

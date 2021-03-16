@@ -5,7 +5,7 @@ date: 2020-08-09 12:39:08
 image: 'https://m.media-amazon.com/images/I/31ALCXxm6cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W5JN91Z-es Adidas Vs Advantage Zapatillas para Hombre Blanco White...'
 sku: 'B06W5JN91Z-es'
 tags: [  ]

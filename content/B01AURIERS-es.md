@@ -5,7 +5,7 @@ date: 2020-07-14 07:46:25
 image: 'https://m.media-amazon.com/images/I/51IK9SyXuYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AURIERS-es Olympus Pen-F Kit Cámara de Sistema Micro Cuatro Tercios...'
 sku: 'B01AURIERS-es'
 tags: [  ]

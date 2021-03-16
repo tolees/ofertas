@@ -5,7 +5,7 @@ date: 2020-02-27 14:03:04
 image: 'https://m.media-amazon.com/images/I/41-bjsZscwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH3Z6ZP-es Pepe Jeans Jose Pm701939 suéter Sailor 580 Medium para Hombre'
 sku: 'B07JH3Z6ZP-es'
 tags: [  ]

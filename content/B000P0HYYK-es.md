@@ -5,7 +5,7 @@ date: 2020-08-04 13:02:13
 image: 'https://m.media-amazon.com/images/I/417boTEV-PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000P0HYYK-es Grohe Sifon de Lavabo 1 1/4" acabado cromado Ref. 28920000'
 sku: 'B000P0HYYK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-06 18:16:13
 image: 'https://m.media-amazon.com/images/I/41DxwO05z+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073TVQKZ8-es Maxesla Mini Bomba de Agua Ultra Silencioso 220 GPH...'
 sku: 'B073TVQKZ8-es'
 tags: [  ]

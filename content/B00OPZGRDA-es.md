@@ -5,7 +5,7 @@ date: 2020-08-14 19:00:48
 image: 'https://m.media-amazon.com/images/I/41wtT15RytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OPZGRDA-es B&W 77mm F-Pro - Filtro para cámara 7 7 cm Negro F-Pro XS-Pro'
 sku: 'B00OPZGRDA-es'
 tags: [  ]

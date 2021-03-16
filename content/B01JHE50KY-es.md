@@ -5,7 +5,7 @@ date: 2020-07-13 19:59:31
 image: 'https://m.media-amazon.com/images/I/31OztX2LJNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JHE50KY-es Kingston DT50/16GB Llave Usb 16 Gb Verde'
 sku: 'B01JHE50KY-es'
 tags: [  ]

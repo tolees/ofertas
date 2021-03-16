@@ -5,7 +5,7 @@ date: 2020-02-10 13:25:08
 image: 'https://m.media-amazon.com/images/I/41OgUkJWGkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F4HKH21-es Mr. Wonderful Carpeta con Anillas'
 sku: 'B07F4HKH21-es'
 tags: [  ]

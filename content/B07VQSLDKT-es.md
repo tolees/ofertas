@@ -5,7 +5,7 @@ date: 2020-07-13 12:04:34
 image: 'https://m.media-amazon.com/images/I/31HeFZ+X5vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQSLDKT-es Antony Morato Cintura In Pelle H.30mm Cinturón Negro NERO...'
 sku: 'B07VQSLDKT-es'
 tags: [  ]

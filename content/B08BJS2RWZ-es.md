@@ -5,7 +5,7 @@ date: 2020-08-30 15:51:20
 image: 'https://m.media-amazon.com/images/I/510HwLdLvjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJS2RWZ-es RuiDaXiang Casa de muñecas Dormitorio con Muebles...'
 sku: 'B08BJS2RWZ-es'
 tags: [  ]

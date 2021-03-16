@@ -5,7 +5,7 @@ date: 2020-04-22 15:04:01
 image: 'https://m.media-amazon.com/images/I/41-kOnNTvwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NP4VZV-es Brace Master Colchón de Aire tamaño Doble y Almohada:...'
 sku: 'B083NP4VZV-es'
 tags: [  ]

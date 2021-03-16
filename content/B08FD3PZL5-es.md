@@ -5,7 +5,7 @@ date: 2020-08-26 11:16:45
 image: 'https://m.media-amazon.com/images/I/611nU0keKXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FD3PZL5-es Myada 55000 Piezas Bolas de Gel de Agua Perlas de Gel de...'
 sku: 'B08FD3PZL5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-14 21:10:33
 image: 'https://m.media-amazon.com/images/I/41Kg-kz2v1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SABYO1M-es Nike Everyday Lightweight Crew Trainings Socks 3 Pairs...'
 sku: 'B00SABYO1M-es'
 tags: [  ]

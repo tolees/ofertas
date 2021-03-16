@@ -5,7 +5,7 @@ date: 2020-09-18 16:03:07
 image: 'https://m.media-amazon.com/images/I/31vsu-EbqSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XDPSRK-es Funda Universal para Tableta portátil Funda Ultra Suave...'
 sku: 'B082XDPSRK-es'
 tags: [  ]

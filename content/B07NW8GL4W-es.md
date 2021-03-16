@@ -5,7 +5,7 @@ date: 2020-08-21 21:27:13
 image: 'https://m.media-amazon.com/images/I/51vJbsfMqvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW8GL4W-es SYOSIN Corrector de Postura Abrazadera de Respaldo...'
 sku: 'B07NW8GL4W-es'
 tags: [  ]

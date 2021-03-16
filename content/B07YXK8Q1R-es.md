@@ -5,7 +5,7 @@ date: 2020-04-16 18:13:49
 image: 'https://m.media-amazon.com/images/I/51iTVP0-9RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXK8Q1R-es BRIKSMAX Kit de Iluminación Led para Lego La casa del...'
 sku: 'B07YXK8Q1R-es'
 tags: [  ]

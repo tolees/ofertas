@@ -5,7 +5,7 @@ date: 2020-03-24 15:56:03
 image: 'https://m.media-amazon.com/images/I/41LVe7kpSQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKFJCDP-es Relaxdays Silla Oficina Ergonómica Regulable Azul 102 x 55...'
 sku: 'B07DKFJCDP-es'
 tags: [  ]

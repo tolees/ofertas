@@ -5,7 +5,7 @@ date: 2020-01-16 00:33:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jJHgf4XfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TTDVBT-es Reebok Work N Cushion 3.0 Zapatillas para Mujer Negro...'
 sku: 'B077TTDVBT-es'
 tags: [  ]

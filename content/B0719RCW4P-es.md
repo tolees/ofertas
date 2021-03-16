@@ -5,7 +5,7 @@ date: 2020-09-25 08:25:40
 image: 'https://m.media-amazon.com/images/I/31Yw0s189XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719RCW4P-es Beoplay E4 de Bang & Olufsen - Auriculares con cancelación...'
 sku: 'B0719RCW4P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 15:30:21
 image: 'https://m.media-amazon.com/images/I/31u2nXhZnGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076G9LYJV-es Pepe Jeans Sloane PM210564 Pantalones Marrón Stone 836 33W...'
 sku: 'B076G9LYJV-es'
 tags: [  ]

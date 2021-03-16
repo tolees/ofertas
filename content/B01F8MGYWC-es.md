@@ -5,7 +5,7 @@ date: 2020-10-02 16:49:56
 image: 'https://m.media-amazon.com/images/I/41XavKp5vvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F8MGYWC-es STAR TREK Spock Captain Authentic Rank Pin'
 sku: 'B01F8MGYWC-es'
 tags: [  ]

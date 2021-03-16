@@ -5,7 +5,7 @@ date: 2020-08-21 00:24:16
 image: 'https://m.media-amazon.com/images/I/51vImJ0FRnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y2YVGZS-es Dustgo 【Promoción】 Esterilla Yoga Colchoneta de Yoga...'
 sku: 'B07Y2YVGZS-es'
 tags: [  ]

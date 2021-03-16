@@ -5,7 +5,7 @@ date: 2020-04-18 03:35:28
 image: 'https://m.media-amazon.com/images/I/41qft+mwXnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WK5XK45-es MATT SAGA Botella de Agua para Perros Portatil Envase de...'
 sku: 'B07WK5XK45-es'
 tags: [  ]

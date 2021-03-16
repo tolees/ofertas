@@ -5,7 +5,7 @@ date: 2020-04-10 09:57:46
 image: 'https://m.media-amazon.com/images/I/31fglSnyWaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076H3JC6D-es Kipling Travel Doc Cartera De Viaje Negro True Black'
 sku: 'B076H3JC6D-es'
 tags: [  ]

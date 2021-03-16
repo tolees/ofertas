@@ -5,7 +5,7 @@ date: 2020-06-15 12:32:05
 image: 'https://m.media-amazon.com/images/I/41loE2JeRIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9NJ1VZ-es Adorables Trajes Flacos de Baile de Ballet para 18...'
 sku: 'B07D9NJ1VZ-es'
 tags: [  ]

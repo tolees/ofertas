@@ -5,7 +5,7 @@ date: 2020-05-30 10:58:38
 image: 'https://m.media-amazon.com/images/I/31xtXgn7WIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0132J3REG-es Brennenstuhl 1508180 Enchufe Adaptador de 2 Tomas con...'
 sku: 'B0132J3REG-es'
 tags: [  ]

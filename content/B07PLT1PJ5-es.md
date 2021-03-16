@@ -5,7 +5,7 @@ date: 2020-01-09 13:59:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dx-e-g10L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLT1PJ5-es Don Algodon DO015 Zapatillas para Mujer Multicolor 015 38 EU'
 sku: 'B07PLT1PJ5-es'
 tags: [  ]

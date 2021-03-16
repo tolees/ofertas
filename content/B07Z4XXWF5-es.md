@@ -5,7 +5,7 @@ date: 2020-02-03 20:51:13
 image: 'https://m.media-amazon.com/images/I/512gZc-Ai4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4XXWF5-es Juego de sabanas Invierno Tejido CORALINA SAVA Azul Cama...'
 sku: 'B07Z4XXWF5-es'
 tags: [  ]

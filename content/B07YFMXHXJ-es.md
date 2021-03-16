@@ -5,7 +5,7 @@ date: 2020-02-19 08:55:47
 image: 'https://m.media-amazon.com/images/I/51I6vWcMnHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFMXHXJ-es Riñonera Running cintura cinturón deportiva Belt botella...'
 sku: 'B07YFMXHXJ-es'
 tags: [  ]

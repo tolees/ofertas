@@ -5,7 +5,7 @@ date: 2020-01-22 09:06:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31HIZ%2B1AHiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRW2VJK-es PowerLocus Auriculares Bluetooth Inalámbricos 35h...'
 sku: 'B07TRW2VJK-es'
 tags: [  ]

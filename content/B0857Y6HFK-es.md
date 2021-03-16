@@ -5,7 +5,7 @@ date: 2021-03-16 14:36:39
 image: 'https://m.media-amazon.com/images/I/41Ue4nDTzgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0857Y6HFK-es Disney & Lucasfilm Ltd. - Pack Star Wars: The Skywalker...'
 sku: 'B0857Y6HFK-es'
 tags: [ 'disney & lucasfilm ltd.', ]

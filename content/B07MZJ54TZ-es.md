@@ -5,7 +5,7 @@ date: 2020-01-09 15:30:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HZ-D%2BAMTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZJ54TZ-es Kickers Lohan Zapatillas Altas Unisex Niños Rojo Noir...'
 sku: 'B07MZJ54TZ-es'
 tags: [  ]

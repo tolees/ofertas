@@ -5,7 +5,7 @@ date: 2020-01-07 15:10:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yEc0hFuNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKX4GTR-es AECCN Telescopio Monocular-12X50 monocular HD Zoom...'
 sku: 'B07MKX4GTR-es'
 tags: [  ]

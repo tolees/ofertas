@@ -5,7 +5,7 @@ date: 2020-06-13 18:01:55
 image: 'https://m.media-amazon.com/images/I/5183MM2YCaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC9NY3M-es Panamami Slime Mermaid Crystal Mud Symphony Pearl...'
 sku: 'B07WC9NY3M-es'
 tags: [  ]

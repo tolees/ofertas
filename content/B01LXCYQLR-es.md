@@ -5,7 +5,7 @@ date: 2020-08-21 08:50:33
 image: 'https://m.media-amazon.com/images/I/31DT7CRpsrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXCYQLR-es Brabantia 112126 Cubo de Basura con Pedal Acero Inoxidable...'
 sku: 'B01LXCYQLR-es'
 tags: [  ]

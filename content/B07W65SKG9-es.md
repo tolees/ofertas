@@ -5,7 +5,7 @@ date: 2020-07-14 21:20:54
 image: 'https://m.media-amazon.com/images/I/51QbKx1-zEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W65SKG9-es kupet Cuchillo para Tallar Madera 6 Piezas MA003'
 sku: 'B07W65SKG9-es'
 tags: [  ]

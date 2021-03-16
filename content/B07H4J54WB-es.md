@@ -5,7 +5,7 @@ date: 2020-10-04 14:54:10
 image: 'https://m.media-amazon.com/images/I/31lknC-micL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4J54WB-es SlowTon Sin tirones Arnés de Perro Suave Malla Acolchada...'
 sku: 'B07H4J54WB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-08 17:53:35
 image: 'https://m.media-amazon.com/images/I/31+5MCb3FKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8PCFN1-es PUMA Ralph Sampson Mid Zapatillas Altas Unisex Adulto...'
 sku: 'B07S8PCFN1-es'
 tags: [  ]

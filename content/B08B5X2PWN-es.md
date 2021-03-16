@@ -5,7 +5,7 @@ date: 2020-09-01 12:31:41
 image: 'https://m.media-amazon.com/images/I/310X84+rv7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5X2PWN-es Mango de metal profesional Cristal de acero Diamante de...'
 sku: 'B08B5X2PWN-es'
 tags: [  ]

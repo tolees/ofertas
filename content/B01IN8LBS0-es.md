@@ -5,7 +5,7 @@ date: 2020-03-31 12:31:29
 image: 'https://m.media-amazon.com/images/I/51zK0cCAAnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IN8LBS0-es Braun Series 9 9296cc Wet&Dry - Afeitadora Eléctrica para...'
 sku: 'B01IN8LBS0-es'
 tags: [  ]

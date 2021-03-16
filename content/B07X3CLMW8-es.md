@@ -5,7 +5,7 @@ date: 2020-05-28 08:55:42
 image: 'https://m.media-amazon.com/images/I/41FVJAZNSTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3CLMW8-es Leathlux Funda Xiaomi Redmi Note 8 Pro + 2 x Protector de...'
 sku: 'B07X3CLMW8-es'
 tags: [  ]

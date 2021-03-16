@@ -5,7 +5,7 @@ date: 2020-04-16 09:07:21
 image: 'https://m.media-amazon.com/images/I/51YOW-DFdZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYPSW6B-es TAZEMAT 48 Hojas Papel de Rascar Dinosaurias Manualidades...'
 sku: 'B07XYPSW6B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-26 07:01:35
 image: 'https://m.media-amazon.com/images/I/51owtOlwquL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMVR72N-es i-baby Manta Bebé Mantas Infantiles Para Cuna Cama...'
 sku: 'B07MMVR72N-es'
 tags: [  ]

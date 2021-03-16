@@ -5,7 +5,7 @@ date: 2020-03-19 08:02:24
 image: 'https://m.media-amazon.com/images/I/41ZHreSzV+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OUNIMTO-es AUSONIA - 68301 JAMONERO PROFESIONAL DE BASE DE MADERA'
 sku: 'B00OUNIMTO-es'
 tags: [  ]

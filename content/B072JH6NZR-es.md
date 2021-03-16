@@ -5,7 +5,7 @@ date: 2020-04-14 21:09:00
 image: 'https://m.media-amazon.com/images/I/31fwHbwNEJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JH6NZR-es Under Armour UA Speedpocket Run Crop Leggings Capri Mujer...'
 sku: 'B072JH6NZR-es'
 tags: [  ]

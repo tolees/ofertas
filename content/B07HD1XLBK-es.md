@@ -5,7 +5,7 @@ date: 2020-01-18 00:33:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/216ow7%2BtL8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HD1XLBK-es Apple Watch Correa rosa peonía con hebilla moderna 40mm -...'
 sku: 'B07HD1XLBK-es'
 tags: [  ]

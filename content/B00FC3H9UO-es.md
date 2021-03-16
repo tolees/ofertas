@@ -5,7 +5,7 @@ date: 2020-04-13 00:20:29
 image: 'https://m.media-amazon.com/images/I/51Fdid05UwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FC3H9UO-es Maria de Nazaret [Blu-ray]'
 sku: 'B00FC3H9UO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-01 21:44:54
 image: 'https://m.media-amazon.com/images/I/41UtImxHrnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZMP6L5-es Kickers Kick Col Botas Slouch Unisex Niños Marrón Camel...'
 sku: 'B07MZMP6L5-es'
 tags: [  ]

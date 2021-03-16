@@ -5,7 +5,7 @@ date: 2020-01-20 20:58:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31W-Tx9Ra4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PRCH6D-es Gant Lambswool V-Neck suéter Rojo Dark Burgundy Mel Medium...'
 sku: 'B074PRCH6D-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-01 09:27:22
 image: 'https://m.media-amazon.com/images/I/41nD45m0EAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGQTTVB-es Skechers Girls DYNA-AIR-JUMP BRIGHTS Trainers Black Black...'
 sku: 'B07JGQTTVB-es'
 tags: [  ]

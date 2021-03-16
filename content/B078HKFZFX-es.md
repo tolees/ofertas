@@ -5,7 +5,7 @@ date: 2020-07-04 10:30:33
 image: 'https://m.media-amazon.com/images/I/31yj9tejnML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HKFZFX-es OPTOMA TECHNOLOGY EH461 - Proyector Full HD 1080p 5000...'
 sku: 'B078HKFZFX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-09 22:40:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OxJMoj-wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0742CSSP4-es MBSL-40 Subwoofer 40W BSL con Karaoke'
 sku: 'B0742CSSP4-es'
 tags: [  ]

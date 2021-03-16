@@ -5,7 +5,7 @@ date: 2020-01-20 11:53:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NHIfE-RaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2N3TRP-es Puma Axis Zapatillas Unisex Adulto Black White 43 EU'
 sku: 'B07F2N3TRP-es'
 tags: [  ]

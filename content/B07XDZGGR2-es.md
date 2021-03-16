@@ -5,7 +5,7 @@ date: 2020-06-15 09:55:42
 image: 'https://m.media-amazon.com/images/I/41ZmB-Zv+BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDZGGR2-es PUMA Studio Porcelain Bra Sujetador Deportivo Mujer Black XS'
 sku: 'B07XDZGGR2-es'
 tags: [  ]

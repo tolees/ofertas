@@ -5,7 +5,7 @@ date: 2020-05-27 19:32:58
 image: 'https://m.media-amazon.com/images/I/31y4XDbO6SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQDD74G-es Rexona Desodorante Active Pro+ Original Mujer - 200 ml'
 sku: 'B07BQDD74G-es'
 tags: [  ]

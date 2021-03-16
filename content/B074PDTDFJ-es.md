@@ -5,7 +5,7 @@ date: 2020-01-14 15:19:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21bERQSaJgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PDTDFJ-es Grohe 27421002 Euphoria 260 - Sistema de ducha con...'
 sku: 'B074PDTDFJ-es'
 tags: [  ]

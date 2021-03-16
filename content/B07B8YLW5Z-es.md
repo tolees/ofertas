@@ -5,7 +5,7 @@ date: 2020-07-20 08:23:46
 image: 'https://m.media-amazon.com/images/I/412MZgInBpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8YLW5Z-es DOWE 137 cm x 38 cm Resistencia al Calor Cubierta metálica...'
 sku: 'B07B8YLW5Z-es'
 tags: [  ]

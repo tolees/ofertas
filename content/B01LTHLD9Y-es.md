@@ -5,7 +5,7 @@ date: 2020-07-05 08:50:58
 image: 'https://m.media-amazon.com/images/I/41NZugJoYRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LTHLD9Y-es Revlon ColorSilk Tinte de Cabello Permanente Tono #50...'
 sku: 'B01LTHLD9Y-es'
 tags: [  ]

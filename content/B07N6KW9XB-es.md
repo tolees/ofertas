@@ -5,7 +5,7 @@ date: 2020-01-06 17:06:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jlmvbo3bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6KW9XB-es Tommy Hilfiger Alpaca Mix Bufanda Beige Beige Aek Talla...'
 sku: 'B07N6KW9XB-es'
 tags: [  ]

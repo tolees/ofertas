@@ -5,7 +5,7 @@ date: 2020-08-20 08:56:16
 image: 'https://m.media-amazon.com/images/I/519R3JJUDaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGP6XP6-es Trollhunters Trollhunters-13695-PX-1SS Figura de Vinilo...'
 sku: 'B06XGP6XP6-es'
 tags: [  ]

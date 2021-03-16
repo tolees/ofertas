@@ -5,7 +5,7 @@ date: 2020-04-01 18:38:00
 image: 'https://m.media-amazon.com/images/I/41SKb-uTnWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCVDZCT-es Gant D1.2-Pack Barstripe and Solid Sock Calcetines Naranja...'
 sku: 'B07MCVDZCT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 06:39:03
 image: 'https://m.media-amazon.com/images/I/31Yk8yueIDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013AZCPLS-es Anker AK-A2021321 - Cargador de pared con entrada USB 2 x...'
 sku: 'B013AZCPLS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-09 18:28:52
 image: 'https://m.media-amazon.com/images/I/419SVVeaGKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009IKYNA6-es Wikango 97-W600 Avisador de Radares Europa'
 sku: 'B009IKYNA6-es'
 tags: [  ]

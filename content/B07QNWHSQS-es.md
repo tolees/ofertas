@@ -5,7 +5,7 @@ date: 2020-03-30 23:58:47
 image: 'https://m.media-amazon.com/images/I/31Bxkba2pJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNWHSQS-es Dellemade Sputnik - Lámpara de araña de 6 luces vintage...'
 sku: 'B07QNWHSQS-es'
 tags: [  ]

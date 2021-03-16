@@ -5,7 +5,7 @@ date: 2020-10-09 13:06:46
 image: 'https://m.media-amazon.com/images/I/5110p1eLHcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQ9DC95-es Sekiro: Shadows Die Twice'
 sku: 'B07DQ9DC95-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-07 08:12:16
 image: 'https://m.media-amazon.com/images/I/31uELzWDQhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DB16DFN-es adidas Samba OG J Zapatillas Unisex Niños Blanco Footwear...'
 sku: 'B07DB16DFN-es'
 tags: [  ]

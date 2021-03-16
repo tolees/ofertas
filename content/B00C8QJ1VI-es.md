@@ -5,7 +5,7 @@ date: 2020-05-31 04:37:00
 image: 'https://m.media-amazon.com/images/I/41uMOIw5sQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C8QJ1VI-es Superga 2750 COTU Classic Zapatillas Unisex Marrón Brown...'
 sku: 'B00C8QJ1VI-es'
 tags: [  ]

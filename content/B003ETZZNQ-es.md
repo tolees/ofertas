@@ -5,7 +5,7 @@ date: 2020-06-06 18:51:35
 image: 'https://m.media-amazon.com/images/I/41aC72UBV2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ETZZNQ-es American Crew Classic Precision Blend Tinte Gel Crema...'
 sku: 'B003ETZZNQ-es'
 tags: [  ]

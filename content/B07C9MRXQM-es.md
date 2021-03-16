@@ -5,7 +5,7 @@ date: 2020-09-05 16:01:20
 image: 'https://m.media-amazon.com/images/I/41pwP6Yho3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C9MRXQM-es Bullet - Barra de cacao Deale para labios 7 x 1.8 cm Azul...'
 sku: 'B07C9MRXQM-es'
 tags: [  ]

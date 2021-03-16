@@ -5,7 +5,7 @@ date: 2020-03-07 08:36:29
 image: 'https://m.media-amazon.com/images/I/51Ssf3XMGbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ8ZVBX-es Localizador GPS for Coche Toptellite 3G GPS Tracker NO...'
 sku: 'B07TJ8ZVBX-es'
 tags: [  ]

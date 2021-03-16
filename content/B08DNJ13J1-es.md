@@ -5,7 +5,7 @@ date: 2020-08-26 11:19:02
 image: 'https://m.media-amazon.com/images/I/51fYhiHDyvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNJ13J1-es ZoneYan Niños Bricolaje Conjunto de Cuentas Niños DIY Set...'
 sku: 'B08DNJ13J1-es'
 tags: [  ]

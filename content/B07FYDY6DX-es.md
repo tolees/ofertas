@@ -5,7 +5,7 @@ date: 2020-06-13 17:49:02
 image: 'https://m.media-amazon.com/images/I/51EzfpaoYVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYDY6DX-es Naipo Masajeador de Piernas Compression para Pierna...'
 sku: 'B07FYDY6DX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 20:40:32
 image: 'https://m.media-amazon.com/images/I/41L9F1f8ULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0738JWBWW-es Pinza gancho broche de cochecito para sostener sabanas...'
 sku: 'B0738JWBWW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 21:34:52
 image: 'https://m.media-amazon.com/images/I/410h3cu3BAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCZVV6L-es TECHGEAR Funda de Cuero para Nuevo Samsung Galaxy Tab A...'
 sku: 'B07SCZVV6L-es'
 tags: [  ]

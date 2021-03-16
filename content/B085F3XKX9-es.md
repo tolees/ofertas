@@ -5,7 +5,7 @@ date: 2020-06-25 09:07:13
 image: 'https://m.media-amazon.com/images/I/51zmD8o5dQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085F3XKX9-es DOUBLE M Calzoncillos Slip Ropa Interior De Algodon...'
 sku: 'B085F3XKX9-es'
 tags: [  ]

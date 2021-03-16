@@ -5,7 +5,7 @@ date: 2020-08-31 08:10:18
 image: 'https://m.media-amazon.com/images/I/41JoC84K14L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VCLF7S-es BLACK+DECKER BEG210K-QS Amoladora 900 W Disco 115 mm'
 sku: 'B079VCLF7S-es'
 tags: [  ]

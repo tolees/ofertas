@@ -5,7 +5,7 @@ date: 2020-06-20 17:37:12
 image: 'https://m.media-amazon.com/images/I/411gsSUX9mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBGMDQ9-es Cartera Pepe Jeans Fair Vertical con Cierre de Clic Camel'
 sku: 'B07YBGMDQ9-es'
 tags: [  ]

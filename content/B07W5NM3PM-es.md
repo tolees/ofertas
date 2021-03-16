@@ -5,7 +5,7 @@ date: 2020-05-20 19:40:20
 image: 'https://m.media-amazon.com/images/I/512O2S8SyWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5NM3PM-es Lomogo Funda Galaxy 10 5G Cartera Funda de Cuero Ranuras...'
 sku: 'B07W5NM3PM-es'
 tags: [  ]

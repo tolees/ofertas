@@ -5,7 +5,7 @@ date: 2020-10-11 06:16:53
 image: 'https://m.media-amazon.com/images/I/51rnE57XRHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSQHPBH-es Creed Ii. La Leyenda De Rocky [DVD]'
 sku: 'B07MSQHPBH-es'
 tags: [  ]

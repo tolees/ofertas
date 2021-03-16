@@ -5,7 +5,7 @@ date: 2020-05-23 11:02:44
 image: 'https://m.media-amazon.com/images/I/41HTgS3-HmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B1WJNFP-es Tottenham Hotspur FC - Pack de dos chupetes oficiales...'
 sku: 'B07B1WJNFP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-26 11:56:32
 image: 'https://m.media-amazon.com/images/I/41EEX+AwYAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLB9QY-es Hode Papel Adhesivo para Muebles Puerta Pared Cocina Papel...'
 sku: 'B07MMLB9QY-es'
 tags: [  ]

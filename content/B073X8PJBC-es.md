@@ -5,7 +5,7 @@ date: 2020-08-18 14:50:21
 image: 'https://m.media-amazon.com/images/I/31bUQavLZSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073X8PJBC-es Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo...'
 sku: 'B073X8PJBC-es'
 tags: [  ]

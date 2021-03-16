@@ -5,7 +5,7 @@ date: 2020-03-11 00:15:38
 image: 'https://m.media-amazon.com/images/I/31La6joQI8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XV99GTD-es PRIXTON - Bombilla Inteligente Wifi/Smart Bulb/Bombillas...'
 sku: 'B07XV99GTD-es'
 tags: [  ]

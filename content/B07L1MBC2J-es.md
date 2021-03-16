@@ -5,7 +5,7 @@ date: 2020-07-12 05:35:12
 image: 'https://m.media-amazon.com/images/I/31c8EvdY-BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L1MBC2J-es APC BV500I-GR Easy-UPS BV - Sistema de alimentación...'
 sku: 'B07L1MBC2J-es'
 tags: [  ]

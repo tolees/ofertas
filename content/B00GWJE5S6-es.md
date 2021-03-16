@@ -5,7 +5,7 @@ date: 2020-07-06 22:30:31
 image: 'https://m.media-amazon.com/images/I/51l3vDSA8GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GWJE5S6-es ¡Novedad! – El primero cargador de batería con conexión...'
 sku: 'B00GWJE5S6-es'
 tags: [  ]

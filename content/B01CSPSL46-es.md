@@ -5,7 +5,7 @@ date: 2020-08-20 00:35:37
 image: 'https://m.media-amazon.com/images/I/41D4AQzemRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CSPSL46-es para Hombre de Piel de Botas de Seguridad para Hombre...'
 sku: 'B01CSPSL46-es'
 tags: [  ]

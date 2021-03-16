@@ -5,7 +5,7 @@ date: 2020-07-13 22:44:20
 image: 'https://m.media-amazon.com/images/I/31qUzs4qI3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJGJT45-es Superdry International Chino Short Pantalones Cortos Azul...'
 sku: 'B07TJGJT45-es'
 tags: [  ]

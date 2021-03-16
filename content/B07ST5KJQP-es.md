@@ -5,7 +5,7 @@ date: 2020-06-19 08:43:35
 image: 'https://m.media-amazon.com/images/I/31eyTRRppbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ST5KJQP-es LG Tone HBS-835S - Auriculares con Altavoz Externo Sonido...'
 sku: 'B07ST5KJQP-es'
 tags: [  ]

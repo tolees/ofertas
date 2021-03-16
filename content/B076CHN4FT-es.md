@@ -5,7 +5,7 @@ date: 2020-09-22 07:45:57
 image: 'https://m.media-amazon.com/images/I/5118mnZ-ECL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CHN4FT-es BRTLX Interior de la luz del coche Atmósfera LED...'
 sku: 'B076CHN4FT-es'
 tags: [  ]

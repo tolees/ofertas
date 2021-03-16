@@ -5,7 +5,7 @@ date: 2020-03-04 09:49:04
 image: 'https://m.media-amazon.com/images/I/31Bziz+sbAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTPNFXB-es FIND - Fab-mania Líquido de labios mate n.4 + Brillo de...'
 sku: 'B07CTPNFXB-es'
 tags: [  ]

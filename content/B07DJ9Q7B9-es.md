@@ -5,7 +5,7 @@ date: 2020-08-09 13:20:43
 image: 'https://m.media-amazon.com/images/I/31kgeP5h9IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ9Q7B9-es Revlon Super Lustrous Pintalabios Mate Power Move'
 sku: 'B07DJ9Q7B9-es'
 tags: [  ]

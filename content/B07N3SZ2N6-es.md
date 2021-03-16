@@ -5,7 +5,7 @@ date: 2020-04-06 12:02:32
 image: 'https://m.media-amazon.com/images/I/41+B31HRSLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3SZ2N6-es Desigual Blouse Lucia Blusas Orange Cobre 7006 XL para Mujer'
 sku: 'B07N3SZ2N6-es'
 tags: [  ]

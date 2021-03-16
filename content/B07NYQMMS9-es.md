@@ -5,7 +5,7 @@ date: 2020-09-21 18:47:08
 image: 'https://m.media-amazon.com/images/I/41OssWNHn2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NYQMMS9-es Termómetro Infrarrojo HANMATEK Termómetro Láser Pistola de...'
 sku: 'B07NYQMMS9-es'
 tags: [  ]

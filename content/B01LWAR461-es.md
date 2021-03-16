@@ -5,7 +5,7 @@ date: 2020-04-20 15:27:11
 image: 'https://m.media-amazon.com/images/I/3137E+9Be-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWAR461-es Apple Beats Solo3 Auriculares de Diadema Inalámbricos - Plata'
 sku: 'B01LWAR461-es'
 tags: [  ]

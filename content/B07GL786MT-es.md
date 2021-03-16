@@ -5,7 +5,7 @@ date: 2020-07-16 16:58:26
 image: 'https://m.media-amazon.com/images/I/41zmgg3cr6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GL786MT-es Isdin Isdinceutics Tratamiento Antimanchas Pigment Expert...'
 sku: 'B07GL786MT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 21:44:37
 image: 'https://m.media-amazon.com/images/I/51jQzwtLFWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8R4QTM-es Nice2you muñeca de niña afroamericana Baby Play de 12...'
 sku: 'B07L8R4QTM-es'
 tags: [  ]

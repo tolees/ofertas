@@ -5,7 +5,7 @@ date: 2020-08-14 19:53:54
 image: 'https://m.media-amazon.com/images/I/51c8qfGdSzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5Q9VH4-es Multímetro Digital de Voltaje Corriente AC DC MESTEK...'
 sku: 'B07Z5Q9VH4-es'
 tags: [  ]

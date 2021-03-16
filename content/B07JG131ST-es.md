@@ -5,7 +5,7 @@ date: 2020-03-17 13:16:55
 image: 'https://m.media-amazon.com/images/I/51hF-ZbXU5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG131ST-es Fullmosa Compatible Correa Apple Watch Series 5 Series 4...'
 sku: 'B07JG131ST-es'
 tags: [  ]

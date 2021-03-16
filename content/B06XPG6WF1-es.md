@@ -5,7 +5,7 @@ date: 2020-05-16 08:39:18
 image: 'https://m.media-amazon.com/images/I/41rExpVS75L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPG6WF1-es 1 - B.Catcher Silver Necklace Pearl Jewellery 925...'
 sku: 'B06XPG6WF1-es'
 tags: [  ]

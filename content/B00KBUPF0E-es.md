@@ -5,7 +5,7 @@ date: 2020-05-26 15:43:12
 image: 'https://m.media-amazon.com/images/I/31Rty7nHA7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KBUPF0E-es Astor Big & Beautiful Eye Opener Máscara de Pestañas 9 ml'
 sku: 'B00KBUPF0E-es'
 tags: [  ]

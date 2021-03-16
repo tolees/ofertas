@@ -5,7 +5,7 @@ date: 2020-03-16 21:05:35
 image: 'https://m.media-amazon.com/images/I/51dQdnuQdsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0851FQFVL-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos...'
 sku: 'B0851FQFVL-es'
 tags: [  ]

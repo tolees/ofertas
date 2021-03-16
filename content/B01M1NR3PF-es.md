@@ -5,7 +5,7 @@ date: 2020-06-22 12:06:35
 image: 'https://m.media-amazon.com/images/I/31uboGyz5BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1NR3PF-es Reserva Yzaguirre Vermouth Rojo - 1 l'
 sku: 'B01M1NR3PF-es'
 tags: [  ]

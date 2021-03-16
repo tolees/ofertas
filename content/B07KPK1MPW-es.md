@@ -5,7 +5,7 @@ date: 2020-09-23 20:41:19
 image: 'https://m.media-amazon.com/images/I/31J2VpiOj6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPK1MPW-es Pop! Vinilo: Fairy Tail S3: Zeref'
 sku: 'B07KPK1MPW-es'
 tags: [  ]

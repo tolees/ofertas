@@ -5,7 +5,7 @@ date: 2020-05-14 14:48:51
 image: 'https://m.media-amazon.com/images/I/51NLEVtJtFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083VXWQ1S-es Panamami NVME M2 a USB3.1 M2 a USB3.0 Unidad de Disco Duro...'
 sku: 'B083VXWQ1S-es'
 tags: [  ]

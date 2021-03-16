@@ -5,7 +5,7 @@ date: 2020-01-17 23:03:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31QpnBOt89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHKW5ZN-es CKSOHOT Masajeador Manual con 10 modos de Frecuencia...'
 sku: 'B07MHKW5ZN-es'
 tags: [  ]

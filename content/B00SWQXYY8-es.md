@@ -5,7 +5,7 @@ date: 2020-07-09 06:43:18
 image: 'https://m.media-amazon.com/images/I/417yz6+TnJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SWQXYY8-es Campingaz Nevera Portatil Icetime Plus Caja Térmica Nevera...'
 sku: 'B00SWQXYY8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 11:25:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31oFJcJw17L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8LV12F-es Wrangler Arizona Pantalones BLU Navy 11 40W / 30L para Hombre'
 sku: 'B07M8LV12F-es'
 tags: [  ]

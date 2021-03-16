@@ -5,7 +5,7 @@ date: 2020-05-11 17:10:06
 image: 'https://m.media-amazon.com/images/I/41tDLcs+OpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0044YMQIW-es VonHaus 05/024 - Soporte de Pared para TV de 13-27...'
 sku: 'B0044YMQIW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 17:38:47
 image: 'https://m.media-amazon.com/images/I/31D-5OVXlfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016AFQKX4-es Dormio Esmeralda Colchón ViscoSoft reversible Blanco 90 x...'
 sku: 'B016AFQKX4-es'
 tags: [  ]

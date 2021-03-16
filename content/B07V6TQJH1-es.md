@@ -5,7 +5,7 @@ date: 2020-09-07 07:01:59
 image: 'https://m.media-amazon.com/images/I/31LcRG15QaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6TQJH1-es Max Factor Colour Elixir Lipstick Barra de labios Tono 70...'
 sku: 'B07V6TQJH1-es'
 tags: [  ]

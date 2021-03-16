@@ -5,7 +5,7 @@ date: 2020-06-29 11:53:13
 image: 'https://m.media-amazon.com/images/I/41em7RI3MSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X425JKF-es Tommy Hilfiger Bra Sujetador Push-up Negro Black 990 75D...'
 sku: 'B06X425JKF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-04 19:51:39
 image: 'https://m.media-amazon.com/images/I/31FocS+E64L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UYJF0BQ-es Rimmel London Oh My Gloss! Brillo de Labios Tono 150...'
 sku: 'B00UYJF0BQ-es'
 tags: [  ]

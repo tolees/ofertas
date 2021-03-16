@@ -5,7 +5,7 @@ date: 2020-04-14 17:27:48
 image: 'https://m.media-amazon.com/images/I/51PnMGCVc6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG158KQ-es DragonSwordlinsu COOSUN - Panel de cortina transparente...'
 sku: 'B07JG158KQ-es'
 tags: [  ]

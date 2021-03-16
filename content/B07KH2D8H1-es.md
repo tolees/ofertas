@@ -5,7 +5,7 @@ date: 2020-06-22 17:41:33
 image: 'https://m.media-amazon.com/images/I/41yUAbzKL9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KH2D8H1-es Under Armour Blitzing II - Gorra Hombre Negro Black 023 L/XL'
 sku: 'B07KH2D8H1-es'
 tags: [  ]

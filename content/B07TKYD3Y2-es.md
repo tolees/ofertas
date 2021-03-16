@@ -5,7 +5,7 @@ date: 2020-01-31 20:39:06
 image: 'https://m.media-amazon.com/images/I/31qW7uDy0+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKYD3Y2-es The North Face B Glacier Full Zip H Unisex Niños TNF Blue L'
 sku: 'B07TKYD3Y2-es'
 tags: [  ]

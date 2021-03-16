@@ -5,7 +5,7 @@ date: 2020-02-25 21:03:41
 image: 'https://m.media-amazon.com/images/I/411UxUaYksL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZY5MGM-es Skechers Dyna-Air Zapatillas para Hombre Azul Navy...'
 sku: 'B07NZY5MGM-es'
 tags: [  ]

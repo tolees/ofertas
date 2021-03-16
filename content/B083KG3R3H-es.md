@@ -5,7 +5,7 @@ date: 2020-08-08 09:28:19
 image: 'https://m.media-amazon.com/images/I/41RnlHj8a2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KG3R3H-es Pestañas Magnéticas Delineador Magnético a Prueba de Agua...'
 sku: 'B083KG3R3H-es'
 tags: [  ]

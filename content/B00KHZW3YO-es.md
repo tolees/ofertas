@@ -5,7 +5,7 @@ date: 2020-09-11 16:18:52
 image: 'https://m.media-amazon.com/images/I/515OTEHloTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KHZW3YO-es Diablo 3 - Ultimate Evil Edition'
 sku: 'B00KHZW3YO-es'
 tags: [  ]

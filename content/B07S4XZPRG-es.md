@@ -5,7 +5,7 @@ date: 2020-02-08 18:34:23
 image: 'https://m.media-amazon.com/images/I/41pC7BrbKkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4XZPRG-es New Balance 373v2 Zapatillas para Hombre Marfil Off AC 42 EU'
 sku: 'B07S4XZPRG-es'
 tags: [  ]

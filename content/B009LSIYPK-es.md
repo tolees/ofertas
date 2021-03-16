@@ -5,7 +5,7 @@ date: 2020-08-30 16:23:32
 image: 'https://m.media-amazon.com/images/I/51KWtLcOE9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009LSIYPK-es Control Senso Preservativos - Pack de 12 preservativos'
 sku: 'B009LSIYPK-es'
 tags: [  ]

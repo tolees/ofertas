@@ -5,7 +5,7 @@ date: 2020-01-24 20:23:52
 image: 'https://m.media-amazon.com/images/I/4128MCJ8EwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFJ1S89-es The North Face M Merak 1/4 Forro Polar Hombre Yellow/TNF L'
 sku: 'B07TFJ1S89-es'
 tags: [  ]

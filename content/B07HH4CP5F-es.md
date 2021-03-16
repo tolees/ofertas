@@ -5,7 +5,7 @@ date: 2020-08-04 13:04:36
 image: 'https://m.media-amazon.com/images/I/41hwv+hjkRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH4CP5F-es WowPrint - Mochila con diseño de caballos para el hombro...'
 sku: 'B07HH4CP5F-es'
 tags: [  ]

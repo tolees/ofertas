@@ -5,7 +5,7 @@ date: 2020-05-28 22:19:57
 image: 'https://m.media-amazon.com/images/I/41R1H1aFmxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872FBXSN-es KN-95'
 sku: 'B0872FBXSN-es'
 tags: [  ]

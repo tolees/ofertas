@@ -5,7 +5,7 @@ date: 2020-01-06 01:35:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cOc-9Q6LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHDWFPG-es Panegy - 4 pares Calcetines de Dedos para Hombres...'
 sku: 'B07DHDWFPG-es'
 tags: [  ]

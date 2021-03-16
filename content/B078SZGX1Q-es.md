@@ -5,7 +5,7 @@ date: 2020-09-07 19:31:26
 image: 'https://m.media-amazon.com/images/I/41U5jqWdU7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SZGX1Q-es Aurora World 30836 Dahlia Dragón'
 sku: 'B078SZGX1Q-es'
 tags: [  ]

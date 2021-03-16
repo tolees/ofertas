@@ -5,7 +5,7 @@ date: 2020-01-04 18:36:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iBvXAAmaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DVTKZ6-es Prozis Zero Snack Barra Rico En Proteína y Bajo en...'
 sku: 'B075DVTKZ6-es'
 tags: [  ]

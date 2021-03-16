@@ -5,7 +5,7 @@ date: 2020-09-03 17:30:16
 image: 'https://m.media-amazon.com/images/I/31RT-kg-TuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002XFI84U-es Dickies Slim Fit Straight - Pantalones para hombre Beige...'
 sku: 'B002XFI84U-es'
 tags: [  ]

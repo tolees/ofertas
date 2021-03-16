@@ -5,7 +5,7 @@ date: 2020-09-27 21:57:54
 image: 'https://m.media-amazon.com/images/I/51WQCP+r0TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TQ1D5T-es Pillars of Eternity II: Deadfire - Ultimate Edition'
 sku: 'B079TQ1D5T-es'
 tags: [  ]

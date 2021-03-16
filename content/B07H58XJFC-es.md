@@ -5,7 +5,7 @@ date: 2020-03-24 11:22:20
 image: 'https://m.media-amazon.com/images/I/51j+IjOTNlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H58XJFC-es YanBan Cabezal de cepillo de dientes para Oral B cabezales...'
 sku: 'B07H58XJFC-es'
 tags: [  ]

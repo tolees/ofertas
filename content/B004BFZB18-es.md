@@ -5,7 +5,7 @@ date: 2020-05-13 12:11:32
 image: 'https://m.media-amazon.com/images/I/41zjj2f4qEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004BFZB18-es Michelin Country AT Cubierta Unisex Negro 26 x 2.00'
 sku: 'B004BFZB18-es'
 tags: [  ]

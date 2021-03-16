@@ -5,7 +5,7 @@ date: 2020-05-26 15:36:05
 image: 'https://m.media-amazon.com/images/I/513oSnE+zwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E5PNAS-es Almacenamiento de Datos Externo Multicolor VERBATIM'
 sku: 'B000E5PNAS-es'
 tags: [  ]

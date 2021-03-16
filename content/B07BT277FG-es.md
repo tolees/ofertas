@@ -5,7 +5,7 @@ date: 2020-08-12 13:49:47
 image: 'https://m.media-amazon.com/images/I/414nUgh8+4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BT277FG-es Trona de Viaje para Bebé Silla alta Bebe Portatil Arnés de...'
 sku: 'B07BT277FG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-30 21:23:36
 image: 'https://m.media-amazon.com/images/I/41UWvfe9+tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E2ARGG-es K&N KN-113 Filtro de aceite Oil Filter Powersport...'
 sku: 'B000E2ARGG-es'
 tags: [  ]

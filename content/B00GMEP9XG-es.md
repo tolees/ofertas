@@ -5,7 +5,7 @@ date: 2020-06-28 13:08:00
 image: 'https://m.media-amazon.com/images/I/31SnE1SQqKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GMEP9XG-es LEE DAREN - Pantalones para hombre Azul Rinse 32W x 34L'
 sku: 'B00GMEP9XG-es'
 tags: [  ]

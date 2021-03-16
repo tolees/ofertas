@@ -5,7 +5,7 @@ date: 2020-07-18 18:16:56
 image: 'https://m.media-amazon.com/images/I/31ngMBDin8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YKJJCZ-es OUNONA 50pcs esponjas de Limpieza Extra Alta Densidad...'
 sku: 'B077YKJJCZ-es'
 tags: [  ]

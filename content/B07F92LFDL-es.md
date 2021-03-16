@@ -5,7 +5,7 @@ date: 2020-05-25 08:25:45
 image: 'https://m.media-amazon.com/images/I/31ATQfHMZ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F92LFDL-es Tommy Hilfiger Boys Slim Chino Ostw PD Pantalones Azul Sky...'
 sku: 'B07F92LFDL-es'
 tags: [  ]

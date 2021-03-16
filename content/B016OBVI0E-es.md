@@ -5,7 +5,7 @@ date: 2020-09-28 20:02:43
 image: 'https://m.media-amazon.com/images/I/41L1FpG0+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016OBVI0E-es Msi DS B1 Ratón Black'
 sku: 'B016OBVI0E-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-19 23:19:07
 image: 'https://m.media-amazon.com/images/I/31D+NEh5EEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0794QQ1GZ-es Skechers Women s Sure Track Erath - Ii Lace-up Sneakers...'
 sku: 'B0794QQ1GZ-es'
 tags: [  ]

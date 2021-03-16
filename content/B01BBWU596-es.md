@@ -5,7 +5,7 @@ date: 2020-05-29 14:12:14
 image: 'https://m.media-amazon.com/images/I/41HhewvE2hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BBWU596-es Sony NWE394B.CEW - Reproductor MP3 reproducción de música...'
 sku: 'B01BBWU596-es'
 tags: [  ]

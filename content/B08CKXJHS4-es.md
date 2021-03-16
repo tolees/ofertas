@@ -5,7 +5,7 @@ date: 2020-07-11 22:39:42
 image: 'https://m.media-amazon.com/images/I/418sd3icOkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKXJHS4-es Hogar Lavado portátil Lavado de artefactos de cara...'
 sku: 'B08CKXJHS4-es'
 tags: [  ]

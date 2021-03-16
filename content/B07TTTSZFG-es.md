@@ -5,7 +5,7 @@ date: 2020-08-11 01:08:37
 image: 'https://m.media-amazon.com/images/I/41FMYPdY-DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTTSZFG-es Skechers Verrado Crafton Zapatillas para Hombre Marrón...'
 sku: 'B07TTTSZFG-es'
 tags: [  ]

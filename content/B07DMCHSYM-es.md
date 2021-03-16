@@ -5,7 +5,7 @@ date: 2020-04-15 17:28:21
 image: 'https://m.media-amazon.com/images/I/316ozDY1rhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DMCHSYM-es Lacoste ESPARRE BL 1 CMA Zapatillas para Hombre Negro...'
 sku: 'B07DMCHSYM-es'
 tags: [  ]

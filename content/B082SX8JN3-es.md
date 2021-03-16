@@ -5,7 +5,7 @@ date: 2020-09-17 11:32:29
 image: 'https://m.media-amazon.com/images/I/4196vYzDroL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SX8JN3-es Ratón inalámbrico de 2.4GHz Ratón Inteligente para Juegos...'
 sku: 'B082SX8JN3-es'
 tags: [  ]

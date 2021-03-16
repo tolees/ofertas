@@ -5,7 +5,7 @@ date: 2020-08-28 03:10:11
 image: 'https://m.media-amazon.com/images/I/313hysDxIvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVXCT7N-es KKBSTR Repetidores de Señal de Móviles Amplificador de...'
 sku: 'B07ZVXCT7N-es'
 tags: [  ]

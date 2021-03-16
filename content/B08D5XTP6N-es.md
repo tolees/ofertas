@@ -5,7 +5,7 @@ date: 2020-08-15 17:33:48
 image: 'https://m.media-amazon.com/images/I/41bNMKKdJjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D5XTP6N-es Supore Correa de Repuesto Compatible con Apple Watch de 44...'
 sku: 'B08D5XTP6N-es'
 tags: [  ]

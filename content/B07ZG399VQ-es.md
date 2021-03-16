@@ -5,7 +5,7 @@ date: 2020-06-21 16:01:46
 image: 'https://m.media-amazon.com/images/I/415c8bvOu3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZG399VQ-es NEW C Funda para iPhone 11 Funda Protectora absorción de...'
 sku: 'B07ZG399VQ-es'
 tags: [  ]

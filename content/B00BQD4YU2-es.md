@@ -5,7 +5,7 @@ date: 2020-04-13 21:49:11
 image: 'https://m.media-amazon.com/images/I/31pv3qYzgHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BQD4YU2-es Haverland RC3W - Emisor Térmico De Inercia De Fundición De...'
 sku: 'B00BQD4YU2-es'
 tags: [  ]

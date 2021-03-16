@@ -5,7 +5,7 @@ date: 2020-02-14 20:46:33
 image: 'https://m.media-amazon.com/images/I/41fEpuuEOPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MKVDSD-es DREAMWIN Capa de Superhéroe para Niños - 5 Capa y 5...'
 sku: 'B082MKVDSD-es'
 tags: [  ]

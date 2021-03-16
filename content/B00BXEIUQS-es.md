@@ -5,7 +5,7 @@ date: 2020-02-22 09:07:40
 image: 'https://m.media-amazon.com/images/I/31BOAdSDFHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BXEIUQS-es Verbatim Store N Go - Memoria USB 3.0 Ultra Velocidad de...'
 sku: 'B00BXEIUQS-es'
 tags: [  ]

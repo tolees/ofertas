@@ -5,7 +5,7 @@ date: 2020-07-25 18:15:37
 image: 'https://m.media-amazon.com/images/I/51tH0BBtuVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BNGH3TK-es Wera 05057431001 Puntas Set de 30 Piezas'
 sku: 'B01BNGH3TK-es'
 tags: [  ]

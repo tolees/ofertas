@@ -5,7 +5,7 @@ date: 2020-08-25 02:13:29
 image: 'https://m.media-amazon.com/images/I/31Rq-cmqjjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5QPNBC-es Tommy Hilfiger Suede Hilfiger Boatshoe Mocasines para...'
 sku: 'B07V5QPNBC-es'
 tags: [  ]

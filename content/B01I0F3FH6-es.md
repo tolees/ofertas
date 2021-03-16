@@ -5,7 +5,7 @@ date: 2020-05-20 00:47:36
 image: 'https://m.media-amazon.com/images/I/41IFtqJLnIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I0F3FH6-es RaceOne R1 Igloo 550cc Botella de Agua 550 ml Unisex...'
 sku: 'B01I0F3FH6-es'
 tags: [  ]

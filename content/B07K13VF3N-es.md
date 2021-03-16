@@ -5,7 +5,7 @@ date: 2020-05-17 08:36:43
 image: 'https://m.media-amazon.com/images/I/41jZJcUHk5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K13VF3N-es Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños Azul...'
 sku: 'B07K13VF3N-es'
 tags: [  ]

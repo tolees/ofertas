@@ -5,7 +5,7 @@ date: 2020-04-25 07:31:40
 image: 'https://m.media-amazon.com/images/I/5164gKLN2IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PM1GSK-es Scholl Lima Electrónica de Pies Rosa y 2 Pintauñas de...'
 sku: 'B076PM1GSK-es'
 tags: [  ]

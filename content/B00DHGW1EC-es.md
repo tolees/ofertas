@@ -5,7 +5,7 @@ date: 2020-01-27 10:16:19
 image: 'https://m.media-amazon.com/images/I/411qGDLDJ3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DHGW1EC-es Grohe Eurostyle Cosmopolitan - Grifo de lavabo mural...'
 sku: 'B00DHGW1EC-es'
 tags: [  ]

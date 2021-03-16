@@ -5,7 +5,7 @@ date: 2020-03-02 09:16:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AOheZHYqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W7STOQE-es ROC KEOPS - Desodorante Roll On Piel Normal 30 ml x2'
 sku: 'B00W7STOQE-es'
 tags: [  ]

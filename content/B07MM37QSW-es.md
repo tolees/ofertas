@@ -5,7 +5,7 @@ date: 2020-10-05 11:44:19
 image: 'https://m.media-amazon.com/images/I/51deg-PDcgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM37QSW-es The Legend of Zelda - Master Sword Lamp PP4934NN'
 sku: 'B07MM37QSW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-01 00:40:26
 image: 'https://m.media-amazon.com/images/I/411NSn5PQzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005EF23LU-es Bolsius – Vela perfumada 103630519700 Velas Cera de...'
 sku: 'B005EF23LU-es'
 tags: [  ]

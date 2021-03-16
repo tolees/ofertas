@@ -5,7 +5,7 @@ date: 2020-07-14 18:00:09
 image: 'https://m.media-amazon.com/images/I/31NRJL0d42L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HP84Y-es Kipling ONALO PACKABLE - Bolsa de viaje 25 liters Morado...'
 sku: 'B07N1HP84Y-es'
 tags: [  ]

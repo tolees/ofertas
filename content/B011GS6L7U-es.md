@@ -5,7 +5,7 @@ date: 2020-04-12 16:59:25
 image: 'https://m.media-amazon.com/images/I/41lNlkLlbsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011GS6L7U-es Devolo dLAN 500 duo Sarter KIT- Kit de inicio de adaptador...'
 sku: 'B011GS6L7U-es'
 tags: [  ]

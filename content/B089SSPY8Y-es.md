@@ -5,7 +5,7 @@ date: 2020-08-05 19:11:36
 image: 'https://m.media-amazon.com/images/I/61-CIfXAtYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SSPY8Y-es ZoneYan Pistola de Agua Grande Pistola de Agua para Niños...'
 sku: 'B089SSPY8Y-es'
 tags: [  ]

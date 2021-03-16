@@ -5,7 +5,7 @@ date: 2020-08-21 13:03:54
 image: 'https://m.media-amazon.com/images/I/31yYy4AT9DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ETTACHS-es biManán - beSLIM - Sustitutivos para Adelgazar - Plan de...'
 sku: 'B01ETTACHS-es'
 tags: [  ]

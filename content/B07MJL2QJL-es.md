@@ -5,7 +5,7 @@ date: 2020-02-12 15:01:37
 image: 'https://m.media-amazon.com/images/I/41duy44vT6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJL2QJL-es Ferilinso Funda para Xiaomi Redmi Note 7/ Note 7S/ Note 7...'
 sku: 'B07MJL2QJL-es'
 tags: [  ]

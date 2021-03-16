@@ -5,7 +5,7 @@ date: 2020-01-23 10:24:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fg3dNdsmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFW61MB-es PUMA St Runner V2 Mesh Zapatillas Unisex Adulto - Gris...'
 sku: 'B07KFW61MB-es'
 tags: [  ]

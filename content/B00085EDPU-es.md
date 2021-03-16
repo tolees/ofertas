@@ -5,7 +5,7 @@ date: 2020-05-21 14:22:32
 image: 'https://m.media-amazon.com/images/I/31eF2OA2WBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00085EDPU-es Dyson Accesorio de Aspirador 908032-09 Flexi Crevice Tool...'
 sku: 'B00085EDPU-es'
 tags: [  ]

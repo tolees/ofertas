@@ -5,7 +5,7 @@ date: 2020-06-12 08:01:51
 image: 'https://m.media-amazon.com/images/I/31nhdO423vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBP8CG1-es Talentech Ember - Ratón ergonómico RGB USB con cable para...'
 sku: 'B07GBP8CG1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-13 09:09:28
 image: 'https://m.media-amazon.com/images/I/31ZN5vJ2UmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083VZWP5B-es MarinoBIRD para X-B0X360 Host Conversion Line Línea de...'
 sku: 'B083VZWP5B-es'
 tags: [  ]

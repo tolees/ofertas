@@ -5,7 +5,7 @@ date: 2020-03-05 18:01:54
 image: 'https://m.media-amazon.com/images/I/41HxwkiH90L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VFQSE4W-es Samsonite Lite-Shock - Spinner M Maleta 69 cm 73 L Color...'
 sku: 'B00VFQSE4W-es'
 tags: [  ]

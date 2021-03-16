@@ -5,7 +5,7 @@ date: 2020-06-04 18:53:02
 image: 'https://m.media-amazon.com/images/I/41OlYymw5tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NW9J2K-es Safta Bolsa De Deporte Levante U.D. Oficial 550x270x260mm'
 sku: 'B078NW9J2K-es'
 tags: [  ]

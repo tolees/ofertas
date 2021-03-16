@@ -5,7 +5,7 @@ date: 2020-05-21 18:11:25
 image: 'https://m.media-amazon.com/images/I/31Wj8kfjejL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6FLY96-es adidas Gazelle Zapatillas Unisex Niños Negro Core...'
 sku: 'B01N6FLY96-es'
 tags: [  ]

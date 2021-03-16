@@ -5,7 +5,7 @@ date: 2020-07-10 21:45:40
 image: 'https://m.media-amazon.com/images/I/51rlx0d56lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7NYLG9-es Hamaca portátil para acampar - Hamaca de árbol para...'
 sku: 'B07S7NYLG9-es'
 tags: [  ]

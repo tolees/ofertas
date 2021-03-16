@@ -5,7 +5,7 @@ date: 2020-10-02 07:44:19
 image: 'https://m.media-amazon.com/images/I/514rh+uVjyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ID4TYEI-es Semillas Hortícolas - Zanahoria Nantesa 5 sel. Cilindro -...'
 sku: 'B00ID4TYEI-es'
 tags: [  ]

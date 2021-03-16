@@ -5,7 +5,7 @@ date: 2020-07-06 17:03:04
 image: 'https://m.media-amazon.com/images/I/41SoMRFKyDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSXWG3G-es DURAGADGET Funda Sumergible Negra para Canon Powershot...'
 sku: 'B01BSXWG3G-es'
 tags: [  ]

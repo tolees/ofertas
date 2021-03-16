@@ -5,7 +5,7 @@ date: 2020-04-15 08:34:55
 image: 'https://m.media-amazon.com/images/I/41O2gHh-VyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQYHQ9C-es Movimientos para DIY Caja de Música Musical Box Partes 2...'
 sku: 'B07BQYHQ9C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 01:20:52
 image: 'https://m.media-amazon.com/images/I/51gMsraPvGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5P64RC-es LIGE Relojes Hombre Acero Inoxidable Impermeable Deportes...'
 sku: 'B07Z5P64RC-es'
 tags: [  ]

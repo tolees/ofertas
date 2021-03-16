@@ -5,7 +5,7 @@ date: 2020-05-15 20:01:30
 image: 'https://m.media-amazon.com/images/I/31zjv3pOxeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086XC4NT6-es ZHBRE Humidificador USB Mini humidificador silencioso...'
 sku: 'B086XC4NT6-es'
 tags: [  ]

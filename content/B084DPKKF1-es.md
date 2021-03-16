@@ -5,7 +5,7 @@ date: 2020-10-07 18:58:38
 image: 'https://m.media-amazon.com/images/I/51k3oosf8vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084DPKKF1-es Remington TSeries MB7000 - Set Recotador de Barba y...'
 sku: 'B084DPKKF1-es'
 tags: [  ]

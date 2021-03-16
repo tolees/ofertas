@@ -5,7 +5,7 @@ date: 2020-06-26 09:02:54
 image: 'https://m.media-amazon.com/images/I/41tqyQXVZVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078B27ZBY-es Camiseta/UNDER ARMOUR:Boxed Sportstyle L Negro'
 sku: 'B078B27ZBY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-16 16:09:08
 image: 'https://m.media-amazon.com/images/I/41dTWmGf2JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSIHWLC-es Columbus Misti 60 L Saco de Dormir Unisex Adulto Amarillo...'
 sku: 'B01MSIHWLC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-06 10:45:56
 image: 'https://m.media-amazon.com/images/I/31PmaRXVPqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084QB5KDV-es Correa de Repuesto de Silicona Anti-pérdida de Dos Colores...'
 sku: 'B084QB5KDV-es'
 tags: [  ]

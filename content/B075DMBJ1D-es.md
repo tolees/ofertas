@@ -5,7 +5,7 @@ date: 2020-02-26 20:26:47
 image: 'https://m.media-amazon.com/images/I/61E6pYLkmxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DMBJ1D-es Bandolera Pepe Jeans Horse Azul porta tablet'
 sku: 'B075DMBJ1D-es'
 tags: [  ]

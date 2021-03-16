@@ -5,7 +5,7 @@ date: 2020-05-21 09:36:36
 image: 'https://m.media-amazon.com/images/I/41RtDxWPc-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X0W9O0W-es Tommy Hilfiger Johnson Mini CC Wallet Cartera Hombre^Mujer...'
 sku: 'B00X0W9O0W-es'
 tags: [  ]

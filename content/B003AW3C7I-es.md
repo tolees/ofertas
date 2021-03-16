@@ -5,7 +5,7 @@ date: 2020-10-06 17:44:56
 image: 'https://m.media-amazon.com/images/I/41NgApGl2zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003AW3C7I-es SONAX 02212410-544 Xtreme Limpia Tapices 500 ml'
 sku: 'B003AW3C7I-es'
 tags: [  ]

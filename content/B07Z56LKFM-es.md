@@ -5,7 +5,7 @@ date: 2020-05-25 16:40:22
 image: 'https://m.media-amazon.com/images/I/313IDqL71FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z56LKFM-es DULALA Peine Peluquería Cabello Belleza Peine Cepillo...'
 sku: 'B07Z56LKFM-es'
 tags: [  ]

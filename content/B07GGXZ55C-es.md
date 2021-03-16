@@ -5,7 +5,7 @@ date: 2020-01-03 12:57:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FI94dH91L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGXZ55C-es Amplificador de Señal Celular Teléfonos Móviles 4G LTE...'
 sku: 'B07GGXZ55C-es'
 tags: [  ]

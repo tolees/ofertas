@@ -5,7 +5,7 @@ date: 2020-09-29 16:25:55
 image: 'https://m.media-amazon.com/images/I/41T0+EnpySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQ42DPP-es Sloggi Zero Feel Ex Sujetador Estilo Bralette Morado...'
 sku: 'B07XQ42DPP-es'
 tags: [  ]

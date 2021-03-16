@@ -5,7 +5,7 @@ date: 2020-09-22 21:56:51
 image: 'https://m.media-amazon.com/images/I/41rSopXsepL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XQ1RDM7-es Moza Mini C - Estabilizador portátil para Smartphones...'
 sku: 'B06XQ1RDM7-es'
 tags: [  ]

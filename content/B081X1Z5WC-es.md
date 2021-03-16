@@ -5,7 +5,7 @@ date: 2020-01-29 13:24:39
 image: 'https://m.media-amazon.com/images/I/31v2REmqH1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081X1Z5WC-es Topmener Almohada Cervical Espuma de Memoria Almohada de...'
 sku: 'B081X1Z5WC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-03 20:31:32
 image: 'https://m.media-amazon.com/images/I/31avqRLkepL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077FJJ3DQ-es New Balance MA33 Zapatillas Deportivas para Interior para...'
 sku: 'B077FJJ3DQ-es'
 tags: [  ]

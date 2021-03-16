@@ -5,7 +5,7 @@ date: 2020-01-13 20:55:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41w-8ajAOcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBMR82K-es Finocam - Calendario de sobremesa 2020 Escribir español'
 sku: 'B07TBMR82K-es'
 tags: [  ]

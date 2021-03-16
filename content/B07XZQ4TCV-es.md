@@ -5,7 +5,7 @@ date: 2020-09-22 17:23:46
 image: 'https://m.media-amazon.com/images/I/41XxQTZjR2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZQ4TCV-es Hauck carro Shopper SLX trioset coche de bebes 3 piezas de...'
 sku: 'B07XZQ4TCV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-11 10:20:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-WCMyfKDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFDMZY9-es Valentino by Mario ValentinoAudreyMujerCarteras de...'
 sku: 'B07NFDMZY9-es'
 tags: [  ]

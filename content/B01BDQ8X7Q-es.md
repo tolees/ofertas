@@ -5,7 +5,7 @@ date: 2020-05-01 10:46:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Fbha%2BsdAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BDQ8X7Q-es Leifheit 7216-Recambio Classic mop Compuesto 8.5x8.5x31 cm'
 sku: 'B01BDQ8X7Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-31 23:06:18
 image: 'https://m.media-amazon.com/images/I/31y0JR3mLEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQVJ8KZ-es Napapijri EISBERG Polo Azul BLU Marine 176 M para Hombre'
 sku: 'B07MQVJ8KZ-es'
 tags: [  ]

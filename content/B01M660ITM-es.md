@@ -5,7 +5,7 @@ date: 2020-07-10 00:23:13
 image: 'https://m.media-amazon.com/images/I/41tv5e85sPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M660ITM-es Wrangler SLIM Jeans Azul Authentic Blue 85U 26W / 32L para...'
 sku: 'B01M660ITM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 07:09:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414QGuE6teL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S97B3RN-es adidas Lock Up tee T-Shirt Mujer Scarlet 36'
 sku: 'B07S97B3RN-es'
 tags: [  ]

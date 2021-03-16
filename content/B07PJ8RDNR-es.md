@@ -5,7 +5,7 @@ date: 2020-07-13 17:39:05
 image: 'https://m.media-amazon.com/images/I/51697jpBccL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJ8RDNR-es SDBAUX 3 in 1 Cable de Carga 2Pack Múltiples USB Cargador...'
 sku: 'B07PJ8RDNR-es'
 tags: [  ]

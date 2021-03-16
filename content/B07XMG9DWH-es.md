@@ -5,7 +5,7 @@ date: 2020-09-07 05:09:28
 image: 'https://m.media-amazon.com/images/I/41mh+S0lXyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XMG9DWH-es Skechers GO Run Pulse Zapatillas para Hombre Azul Azul...'
 sku: 'B07XMG9DWH-es'
 tags: [  ]

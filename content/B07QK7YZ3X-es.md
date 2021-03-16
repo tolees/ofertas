@@ -5,7 +5,7 @@ date: 2020-04-16 09:07:19
 image: 'https://m.media-amazon.com/images/I/414yPzrgrOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QK7YZ3X-es KATELUO 250Pcs Natural Palitos de madera Popsicle Gran...'
 sku: 'B07QK7YZ3X-es'
 tags: [  ]

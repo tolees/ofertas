@@ -5,7 +5,7 @@ date: 2020-02-12 10:43:35
 image: 'https://m.media-amazon.com/images/I/31ikBIsgjhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKUP1GW-es Lancaster Aquamilk Cream Tube 50 ml'
 sku: 'B00BKUP1GW-es'
 tags: [  ]

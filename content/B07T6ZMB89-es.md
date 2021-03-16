@@ -5,7 +5,7 @@ date: 2020-01-07 10:38:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DW%2BevJdZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T6ZMB89-es HAISSKY Riñonera de Correr con 2 x 175 ml Botellas de Agua...'
 sku: 'B07T6ZMB89-es'
 tags: [  ]

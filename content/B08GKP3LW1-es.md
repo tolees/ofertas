@@ -5,7 +5,7 @@ date: 2020-09-25 09:21:55
 image: 'https://m.media-amazon.com/images/I/51ZWBucuOOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GKP3LW1-es MAOIMOR Niños Desechables de Filtro de 3 Capas con...'
 sku: 'B08GKP3LW1-es'
 tags: [  ]

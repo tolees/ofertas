@@ -5,7 +5,7 @@ date: 2020-02-26 21:40:11
 image: 'https://m.media-amazon.com/images/I/51WudbIVv8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSENRCR-es PEKITAS Bebe Capa De Baño Con Capucha y Manopla 75x75 cm...'
 sku: 'B01MSENRCR-es'
 tags: [  ]

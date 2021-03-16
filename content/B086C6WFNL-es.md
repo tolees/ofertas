@@ -5,7 +5,7 @@ date: 2020-05-06 19:01:59
 image: 'https://m.media-amazon.com/images/I/51zWI94V-GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086C6WFNL-es Caja de almacenamiento universal para asiento de coche...'
 sku: 'B086C6WFNL-es'
 tags: [  ]

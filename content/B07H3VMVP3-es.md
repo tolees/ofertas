@@ -5,7 +5,7 @@ date: 2020-07-23 09:22:30
 image: 'https://m.media-amazon.com/images/I/51ai9iMFvML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3VMVP3-es Coolbell Bolsa de mensajero convertible multifuncional...'
 sku: 'B07H3VMVP3-es'
 tags: [  ]

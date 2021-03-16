@@ -5,7 +5,7 @@ date: 2020-01-13 21:08:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YFXeGKHzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFHPRGY-es Bébé Confort TITÁN Nomad Black Silla de auto grupo 1/2/3...'
 sku: 'B07BFHPRGY-es'
 tags: [  ]

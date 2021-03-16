@@ -5,7 +5,7 @@ date: 2020-02-16 13:42:03
 image: 'https://m.media-amazon.com/images/I/51nvoM5m43L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBRFZ8D-es NONZERS Protector de Pantalla para Samsung Galaxy S10 Plus...'
 sku: 'B07YBRFZ8D-es'
 tags: [  ]

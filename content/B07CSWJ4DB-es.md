@@ -5,7 +5,7 @@ date: 2020-07-12 10:44:26
 image: 'https://m.media-amazon.com/images/I/31iwg5S4LsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CSWJ4DB-es Cecotec Ventilador de Pie ForceSilence 500. 5 Aspas...'
 sku: 'B07CSWJ4DB-es'
 tags: [  ]

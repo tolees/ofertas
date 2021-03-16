@@ -5,7 +5,7 @@ date: 2020-01-05 19:53:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41u8QypTU%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0753FGSD1-es T-shirt Kappa Lucera'
 sku: 'B0753FGSD1-es'
 tags: [  ]

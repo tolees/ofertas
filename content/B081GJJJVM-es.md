@@ -5,7 +5,7 @@ date: 2020-01-03 16:46:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51YEKyE2QUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081GJJJVM-es Morpilot Multímetro Digital Verdadero RMS 6000 Cuenta...'
 sku: 'B081GJJJVM-es'
 tags: [  ]

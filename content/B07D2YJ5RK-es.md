@@ -5,7 +5,7 @@ date: 2020-08-09 13:42:40
 image: 'https://m.media-amazon.com/images/I/51heZKPUcvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2YJ5RK-es Luchild Colchoneta Silla Paseo Universal Verano Colchoneta...'
 sku: 'B07D2YJ5RK-es'
 tags: [  ]

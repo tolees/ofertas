@@ -5,7 +5,7 @@ date: 2020-05-28 17:13:41
 image: 'https://m.media-amazon.com/images/I/41gLLiabBeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T239DQJ-es Simpeak Funda Compatible con Xiaomi Mi 9T / Mi 9T Pro +...'
 sku: 'B07T239DQJ-es'
 tags: [  ]

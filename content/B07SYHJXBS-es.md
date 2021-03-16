@@ -5,7 +5,7 @@ date: 2020-03-18 14:52:36
 image: 'https://m.media-amazon.com/images/I/41KNxze1T0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYHJXBS-es Auriculares Inalámbricos Deportivos AIWONS Audífonos...'
 sku: 'B07SYHJXBS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 12:32:51
 image: 'https://m.media-amazon.com/images/I/41hHqI-z8mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NQF2DP-es Funda para teléfono Sports Girl Pattern Resistente a los...'
 sku: 'B083NQF2DP-es'
 tags: [  ]

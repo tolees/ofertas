@@ -5,7 +5,7 @@ date: 2020-10-09 07:15:35
 image: 'https://m.media-amazon.com/images/I/31UTxF8gyEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QK6HK6V-es L Oréal Paris Age Perfect Nutrición Intensa - Crema Rica...'
 sku: 'B07QK6HK6V-es'
 tags: [  ]

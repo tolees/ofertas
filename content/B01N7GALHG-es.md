@@ -5,7 +5,7 @@ date: 2020-07-17 09:38:49
 image: 'https://m.media-amazon.com/images/I/31JD4Dc26QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7GALHG-es Ruavieja Licor de Té con Jengibre - 700 ml'
 sku: 'B01N7GALHG-es'
 tags: [  ]

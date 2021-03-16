@@ -5,7 +5,7 @@ date: 2020-08-17 18:36:20
 image: 'https://m.media-amazon.com/images/I/41YqoISSucL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJSYGBR-es Salomon Tech Lite Zapatillas de Senderismo acuáticas para...'
 sku: 'B07RJSYGBR-es'
 tags: [  ]

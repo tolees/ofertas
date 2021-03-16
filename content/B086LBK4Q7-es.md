@@ -5,7 +5,7 @@ date: 2020-09-03 18:23:07
 image: 'https://m.media-amazon.com/images/I/41jfm2fADML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086LBK4Q7-es Auriculares Bluetooth Estéreo Auriculares Inalámbricos...'
 sku: 'B086LBK4Q7-es'
 tags: [  ]

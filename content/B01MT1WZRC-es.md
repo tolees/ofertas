@@ -5,7 +5,7 @@ date: 2020-01-21 23:44:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31p3O5qfXZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT1WZRC-es Reebok Classic Leather Zapatillas de Trail Running para...'
 sku: 'B01MT1WZRC-es'
 tags: [  ]

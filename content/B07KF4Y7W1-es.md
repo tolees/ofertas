@@ -5,7 +5,7 @@ date: 2020-01-03 09:38:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ObQ1DWRqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF4Y7W1-es Levi s 511 Slim Hemmed Short Pantalones Cortos Negro Eight...'
 sku: 'B07KF4Y7W1-es'
 tags: [  ]

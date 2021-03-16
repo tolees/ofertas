@@ -5,7 +5,7 @@ date: 2020-05-07 16:19:16
 image: 'https://m.media-amazon.com/images/I/31GlV+HkG6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7S3INK-es Gillette Piel Sensible - Gel de Afeitado para Hombre 200 ml'
 sku: 'B01K7S3INK-es'
 tags: [  ]

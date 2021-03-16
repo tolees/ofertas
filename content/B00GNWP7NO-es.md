@@ -5,7 +5,7 @@ date: 2020-03-14 16:11:02
 image: 'https://m.media-amazon.com/images/I/41XmdIq0zNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GNWP7NO-es Nike Revolution 4 TDV Zapatillas de Marcha Nórdica Unisex...'
 sku: 'B00GNWP7NO-es'
 tags: [  ]

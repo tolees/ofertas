@@ -5,7 +5,7 @@ date: 2020-04-08 18:38:28
 image: 'https://m.media-amazon.com/images/I/41LD0yFTnJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085WSX2T8-es DOUBLX Cara M-A-S-K-S Boca desechable M-a-s-k Anti PM2.5...'
 sku: 'B085WSX2T8-es'
 tags: [  ]

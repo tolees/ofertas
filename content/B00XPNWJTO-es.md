@@ -5,7 +5,7 @@ date: 2020-05-13 11:09:52
 image: 'https://m.media-amazon.com/images/I/31SCBkf0EWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XPNWJTO-es GoldNutrition Tribulus 550 mg - 60 Cápsulas'
 sku: 'B00XPNWJTO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-29 18:16:37
 image: 'https://m.media-amazon.com/images/I/41TKjI-NJdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CMWBKJY-es PROZOR HDMI Splitter 1X2 HDMI Switch 4Kx2K HD 2160P con...'
 sku: 'B08CMWBKJY-es'
 tags: [  ]

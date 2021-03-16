@@ -5,7 +5,7 @@ date: 2020-07-18 19:51:09
 image: 'https://m.media-amazon.com/images/I/41bhpWzPa6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007G83JBQ-es T nB Auriculares Diadema HiFi - con Cable Extra Largo de 8...'
 sku: 'B007G83JBQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 12:04:11
 image: 'https://m.media-amazon.com/images/I/617qQHp-gYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YC1GSG-es Shantae: Half Genie Hero Ultimate Day One'
 sku: 'B077YC1GSG-es'
 tags: [  ]

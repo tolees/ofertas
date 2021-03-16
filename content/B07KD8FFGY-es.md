@@ -5,7 +5,7 @@ date: 2020-01-20 21:46:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415CiYTC95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KD8FFGY-es Nike M NSW Club Hoodie FZ BB Sweatshirt Hombre Midnight...'
 sku: 'B07KD8FFGY-es'
 tags: [  ]

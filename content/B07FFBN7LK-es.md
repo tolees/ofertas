@@ -5,7 +5,7 @@ date: 2020-06-11 16:17:02
 image: 'https://m.media-amazon.com/images/I/41b2-OuSsSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFBN7LK-es Wrangler Greensboro Regular Jeans Azul Darkstone 090 30W /...'
 sku: 'B07FFBN7LK-es'
 tags: [  ]

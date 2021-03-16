@@ -5,7 +5,7 @@ date: 2020-05-14 21:03:32
 image: 'https://m.media-amazon.com/images/I/51kW1UdeC9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CL85DT2-es Melissa & Doug-Mis Primeros Tatuajes Provisorios...'
 sku: 'B00CL85DT2-es'
 tags: [  ]

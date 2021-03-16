@@ -5,7 +5,7 @@ date: 2020-07-19 19:54:31
 image: 'https://m.media-amazon.com/images/I/41YHcvVU7ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0834SHP1N-es yootech Adaptador USB C a USB 3.0 [4 Pack] Uso en Paralelo...'
 sku: 'B0834SHP1N-es'
 tags: [  ]

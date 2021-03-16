@@ -5,7 +5,7 @@ date: 2020-09-23 15:02:36
 image: 'https://m.media-amazon.com/images/I/51JlqoGA8KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086KYB28Z-es Aigostar Doreen 30LYD - Envasadora al vacío para alimentos...'
 sku: 'B086KYB28Z-es'
 tags: [  ]

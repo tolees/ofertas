@@ -5,7 +5,7 @@ date: 2020-03-25 23:01:27
 image: 'https://m.media-amazon.com/images/I/51emH3gn3DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYF1BS4-es D&D Quality Puff Almacenaje Plegable Asiento Acolchado 38...'
 sku: 'B07TYF1BS4-es'
 tags: [  ]

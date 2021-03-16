@@ -5,7 +5,7 @@ date: 2020-05-28 17:40:23
 image: 'https://m.media-amazon.com/images/I/51bt0fiEAPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSNVHDP-es Olycism Compatible para Garmin Edge 530 / Edge 830...'
 sku: 'B07TSNVHDP-es'
 tags: [  ]

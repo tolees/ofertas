@@ -5,7 +5,7 @@ date: 2020-07-28 18:32:27
 image: 'https://m.media-amazon.com/images/I/419MP40yFCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078JTBP4B-es Safta Bolsa De Deporte Real Sporting De Gijon Oficial...'
 sku: 'B078JTBP4B-es'
 tags: [  ]

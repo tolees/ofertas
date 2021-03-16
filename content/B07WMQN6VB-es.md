@@ -5,7 +5,7 @@ date: 2020-05-14 13:04:20
 image: 'https://m.media-amazon.com/images/I/31cDliwQFnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMQN6VB-es Jack & Jones JCOMOON Crew Neck Suéter Negro Black Fit:...'
 sku: 'B07WMQN6VB-es'
 tags: [  ]

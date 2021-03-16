@@ -5,7 +5,7 @@ date: 2020-04-08 17:39:06
 image: 'https://m.media-amazon.com/images/I/41Z91GCJGtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLNWVQ3-es Vila 14053622 suéter Multicolor Golden Oak Golden Oak 40...'
 sku: 'B07TLNWVQ3-es'
 tags: [  ]

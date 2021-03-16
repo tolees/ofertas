@@ -5,7 +5,7 @@ date: 2020-04-26 21:25:34
 image: 'https://m.media-amazon.com/images/I/41DL2Dx1g1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFY7GD9-es PUMA Aeon Play Wn s Zapatillas para Mujer Black 37 EU'
 sku: 'B07KFY7GD9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-07 18:07:12
 image: 'https://m.media-amazon.com/images/I/41DBoXV-k1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005C5GNQS-es Cooler Master XDream i117 - Ventiladores de CPU Cross...'
 sku: 'B005C5GNQS-es'
 tags: [  ]

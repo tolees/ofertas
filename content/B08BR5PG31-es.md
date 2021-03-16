@@ -5,7 +5,7 @@ date: 2020-06-26 12:03:09
 image: 'https://m.media-amazon.com/images/I/319+Pnz6kXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BR5PG31-es ZNE 14ct 3 Colores oro'
 sku: 'B08BR5PG31-es'
 tags: [  ]

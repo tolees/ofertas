@@ -5,7 +5,7 @@ date: 2020-05-28 09:44:55
 image: 'https://m.media-amazon.com/images/I/41I4R6rHqzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWQRVTK-es Alcatel 30.26 Teléfono Móvil 1 Gris Metálico'
 sku: 'B07GWQRVTK-es'
 tags: [  ]

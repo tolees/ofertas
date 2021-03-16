@@ -5,7 +5,7 @@ date: 2020-09-10 18:02:28
 image: 'https://m.media-amazon.com/images/I/41BTTLMZK3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001CY4IPQ-es Vans Old Skool Zapatillas Unisex Adulto Negro Black/White 36'
 sku: 'B001CY4IPQ-es'
 tags: [  ]

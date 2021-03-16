@@ -5,7 +5,7 @@ date: 2020-09-21 18:29:28
 image: 'https://m.media-amazon.com/images/I/41PI5rDqJ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MA30A3V-es Britax Römer Silla de coche Nacimiento - 4 años hasta 18...'
 sku: 'B01MA30A3V-es'
 tags: [  ]

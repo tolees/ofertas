@@ -5,7 +5,7 @@ date: 2020-07-30 15:28:29
 image: 'https://m.media-amazon.com/images/I/51cQnDtx85L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SW2NRKK-es Someline - Foco led para exteriores 20 W con sensor de...'
 sku: 'B07SW2NRKK-es'
 tags: [  ]

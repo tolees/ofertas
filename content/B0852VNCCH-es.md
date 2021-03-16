@@ -5,7 +5,7 @@ date: 2020-06-01 15:24:17
 image: 'https://m.media-amazon.com/images/I/41XHLnyiytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0852VNCCH-es Wodgreat Transmisor FM Bluetooth Manos Libres para Coche...'
 sku: 'B0852VNCCH-es'
 tags: [  ]

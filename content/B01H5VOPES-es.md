@@ -5,7 +5,7 @@ date: 2020-03-08 04:18:39
 image: 'https://m.media-amazon.com/images/I/31b11k6zt2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H5VOPES-es Revlon Pro You Color Champú - 1000 ml'
 sku: 'B01H5VOPES-es'
 tags: [  ]

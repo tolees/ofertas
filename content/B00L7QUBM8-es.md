@@ -5,7 +5,7 @@ date: 2020-03-20 17:06:26
 image: 'https://m.media-amazon.com/images/I/411Bk2uSw5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L7QUBM8-es Panasonic KX-TGB212SPB - Teléfono fijo digital DECT Dúo...'
 sku: 'B00L7QUBM8-es'
 tags: [  ]

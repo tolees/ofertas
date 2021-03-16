@@ -5,7 +5,7 @@ date: 2020-07-11 00:21:45
 image: 'https://m.media-amazon.com/images/I/31Ril9qCLTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6IVX96-es Lacoste Lerond BL 2 CAM Zapatillas para Hombre Negro Black...'
 sku: 'B01N6IVX96-es'
 tags: [  ]

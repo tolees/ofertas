@@ -5,7 +5,7 @@ date: 2020-08-23 19:27:36
 image: 'https://m.media-amazon.com/images/I/31NlThbZmGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3DD31X-es Trudi Muñeca Chiara Ferragni Limited Edition S 69061'
 sku: 'B07P3DD31X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 16:14:52
 image: 'https://m.media-amazon.com/images/I/41wlHwzSUaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZJY68L-es New Balance 500 Zapatillas para Mujer Azul Blue Hhf 35 EU'
 sku: 'B07RZJY68L-es'
 tags: [  ]

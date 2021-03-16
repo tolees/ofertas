@@ -5,7 +5,7 @@ date: 2020-03-07 14:26:40
 image: 'https://m.media-amazon.com/images/I/41yBTeOl8tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZUR4ES-es VAUDE ROM II Bolsas Unisex Adulto Marine S'
 sku: 'B01LZUR4ES-es'
 tags: [  ]

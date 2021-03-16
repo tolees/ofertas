@@ -5,7 +5,7 @@ date: 2020-03-16 18:27:52
 image: 'https://m.media-amazon.com/images/I/51iCun3ooSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ9VY22-es Ferilinso Cristal Templado para Huawei Mate 20 X [2 Pack]...'
 sku: 'B07JJ9VY22-es'
 tags: [  ]

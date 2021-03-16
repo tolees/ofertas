@@ -5,7 +5,7 @@ date: 2020-08-04 18:59:45
 image: 'https://m.media-amazon.com/images/I/412fCm0LCRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G6Z54NF-es Casco Moto Modular ECE Homologado - YEMA YM-925 Casco de...'
 sku: 'B07G6Z54NF-es'
 tags: [  ]

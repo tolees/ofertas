@@ -5,7 +5,7 @@ date: 2020-07-08 17:45:01
 image: 'https://m.media-amazon.com/images/I/41VvBvkqM0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK2TRBK-es Saucony Xodus ISO 3 Zapatillas de Trail Running para Mujer...'
 sku: 'B07KK2TRBK-es'
 tags: [  ]

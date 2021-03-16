@@ -5,7 +5,7 @@ date: 2020-09-26 10:16:38
 image: 'https://m.media-amazon.com/images/I/31+cXjLEbGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSPZRHS-es Clarks Un Adorn Zip Mocasines Negro Black Combi- 37.5 EU'
 sku: 'B07FSPZRHS-es'
 tags: [  ]

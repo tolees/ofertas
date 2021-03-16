@@ -5,7 +5,7 @@ date: 2020-03-18 12:40:19
 image: 'https://m.media-amazon.com/images/I/416uTZcXNiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T6ZZ6ZD-es Foco LED Proyector 50W Super Brillante Luz de Trabajo...'
 sku: 'B07T6ZZ6ZD-es'
 tags: [  ]

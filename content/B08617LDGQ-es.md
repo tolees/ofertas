@@ -5,7 +5,7 @@ date: 2020-08-24 09:39:32
 image: 'https://m.media-amazon.com/images/I/51SgHwG5YAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08617LDGQ-es Qomolo Esterillas Inflables Camping Ultraligera Esterilla...'
 sku: 'B08617LDGQ-es'
 tags: [  ]

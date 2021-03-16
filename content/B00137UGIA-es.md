@@ -5,7 +5,7 @@ date: 2020-05-20 09:04:59
 image: 'https://m.media-amazon.com/images/I/51o8UTUzJwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00137UGIA-es Intex 68324NP - Barca Hinchable Excursion 4 con 2 Remos...'
 sku: 'B00137UGIA-es'
 tags: [  ]

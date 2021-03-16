@@ -5,7 +5,7 @@ date: 2020-01-25 15:06:23
 image: 'https://m.media-amazon.com/images/I/41D2T-pgNOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDVN5MB-es Pikolin Leah colchón viscoelástico y espuma HR gama alta...'
 sku: 'B07YDVN5MB-es'
 tags: [  ]

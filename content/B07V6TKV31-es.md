@@ -5,7 +5,7 @@ date: 2020-06-27 11:55:20
 image: 'https://m.media-amazon.com/images/I/31-w8wMxbiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6TKV31-es Tommy Hilfiger Seasonal Textile Sneaker Zapatillas para...'
 sku: 'B07V6TKV31-es'
 tags: [  ]

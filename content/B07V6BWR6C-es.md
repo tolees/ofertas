@@ -5,7 +5,7 @@ date: 2020-09-23 09:52:01
 image: 'https://m.media-amazon.com/images/I/31cXFe+f7VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6BWR6C-es BOSS Schino-Slim D Pantalones Verde Medium Green 311...'
 sku: 'B07V6BWR6C-es'
 tags: [  ]

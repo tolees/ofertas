@@ -5,7 +5,7 @@ date: 2020-04-20 15:18:52
 image: 'https://m.media-amazon.com/images/I/51MLDEsYmxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBLXF3Y-es Té Verde Matcha Orgánico Ceremonial En Polvo. Biológico...'
 sku: 'B01NBLXF3Y-es'
 tags: [  ]

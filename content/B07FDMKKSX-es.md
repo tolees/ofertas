@@ -5,7 +5,7 @@ date: 2020-05-05 11:02:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41s920I2vCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDMKKSX-es Palladium Pampa Sport Cuff Wpr Botas Clásicas para Hombre...'
 sku: 'B07FDMKKSX-es'
 tags: [  ]

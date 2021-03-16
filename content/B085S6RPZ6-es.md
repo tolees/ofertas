@@ -5,7 +5,7 @@ date: 2020-08-09 19:23:06
 image: 'https://m.media-amazon.com/images/I/51xgRsA+67L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085S6RPZ6-es MOSOTECH Bandejas Hielo de 3 Packs Fácil Liberación...'
 sku: 'B085S6RPZ6-es'
 tags: [  ]

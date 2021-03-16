@@ -5,7 +5,7 @@ date: 2020-09-03 13:01:09
 image: 'https://m.media-amazon.com/images/I/41XJG2qbexL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FILJHIW-es Piscina Hinchable Infantil Bestway Deluxe Octagon Family...'
 sku: 'B00FILJHIW-es'
 tags: [  ]

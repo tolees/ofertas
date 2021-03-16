@@ -5,7 +5,7 @@ date: 2020-04-14 16:31:07
 image: 'https://m.media-amazon.com/images/I/41w40DE5S8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQWG7ZY-es L Oreal Paris Colorista Hair Make Up Mauve'
 sku: 'B07BQWG7ZY-es'
 tags: [  ]

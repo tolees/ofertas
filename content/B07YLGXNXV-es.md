@@ -5,7 +5,7 @@ date: 2020-10-03 08:54:30
 image: 'https://m.media-amazon.com/images/I/31fx3LWA83L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YLGXNXV-es Sanex Zero% Sensitive Deo Roll-On 50 Ml 50 ml'
 sku: 'B07YLGXNXV-es'
 tags: [  ]

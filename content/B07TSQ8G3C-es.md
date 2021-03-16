@@ -5,7 +5,7 @@ date: 2020-07-03 18:34:08
 image: 'https://m.media-amazon.com/images/I/41ADqmy9m+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ8G3C-es Skechers Bounder Zapatillas para Hombre Azul Navy...'
 sku: 'B07TSQ8G3C-es'
 tags: [  ]

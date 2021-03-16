@@ -5,7 +5,7 @@ date: 2020-08-12 07:16:49
 image: 'https://m.media-amazon.com/images/I/314E2udZf0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F5G6NMS-es yaoyan Adaptador USB 3.1 Tipo C USB-C a Dual 2 Hub Hub...'
 sku: 'B08F5G6NMS-es'
 tags: [  ]

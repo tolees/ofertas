@@ -5,7 +5,7 @@ date: 2020-10-10 14:02:42
 image: 'https://m.media-amazon.com/images/I/41-UyaHcoNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7PDQYL-es Compatible con Samsung Galaxy S10 funda transparente de...'
 sku: 'B07Y7PDQYL-es'
 tags: [  ]

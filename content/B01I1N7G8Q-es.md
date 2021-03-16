@@ -5,7 +5,7 @@ date: 2020-07-11 01:12:28
 image: 'https://m.media-amazon.com/images/I/312ZeeS3MPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I1N7G8Q-es Adidas Sneakers Zapatillas para Hombre Negro Core...'
 sku: 'B01I1N7G8Q-es'
 tags: [  ]

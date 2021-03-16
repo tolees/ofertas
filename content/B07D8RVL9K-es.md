@@ -5,7 +5,7 @@ date: 2020-01-12 01:42:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EyY48bu8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8RVL9K-es Famhome - Cinturón elástico de cintura para mujer estilo...'
 sku: 'B07D8RVL9K-es'
 tags: [  ]

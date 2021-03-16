@@ -5,7 +5,7 @@ date: 2020-02-13 14:03:05
 image: 'https://m.media-amazon.com/images/I/31UxrO26h+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5ZS8CC-es Wrangler Arizona Pantalones Gris Smoked Pearl M03 W38/L34...'
 sku: 'B07P5ZS8CC-es'
 tags: [  ]

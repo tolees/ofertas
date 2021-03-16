@@ -5,7 +5,7 @@ date: 2020-01-14 18:43:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31PG%2BkEkXGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY9ZQXK-es Skechers Heston-Regano Botas Clasicas para Hombre Marrón...'
 sku: 'B07NY9ZQXK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-08 19:01:39
 image: 'https://m.media-amazon.com/images/I/41IOMC9rDUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKHBJZF-es Kipling - City Pack Mini Mochilas Mujer Azul Active Denim'
 sku: 'B07DKHBJZF-es'
 tags: [  ]

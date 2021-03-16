@@ -5,7 +5,7 @@ date: 2020-06-18 08:55:49
 image: 'https://m.media-amazon.com/images/I/51XLseKk-FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFMBCGW-es Lámparas Solares para Jardín Golwof 6 Piezas Luz Solar...'
 sku: 'B07YFMBCGW-es'
 tags: [  ]

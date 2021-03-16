@@ -5,7 +5,7 @@ date: 2020-01-12 15:04:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VmO6xlXxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZY55HQ-es AmazonBasics - Aro de fitness y pilates para entrenamiento...'
 sku: 'B07BZY55HQ-es'
 tags: [  ]

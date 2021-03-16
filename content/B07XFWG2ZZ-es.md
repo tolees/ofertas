@@ -5,7 +5,7 @@ date: 2020-10-04 15:03:29
 image: 'https://m.media-amazon.com/images/I/41p4jbWTeLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFWG2ZZ-es PUMA Amplified Shorts 9` TR Pantalones Cortos Hombre Dark...'
 sku: 'B07XFWG2ZZ-es'
 tags: [  ]

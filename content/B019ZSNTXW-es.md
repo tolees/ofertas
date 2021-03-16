@@ -5,7 +5,7 @@ date: 2020-04-22 15:32:30
 image: 'https://m.media-amazon.com/images/I/31eLI4xWEBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019ZSNTXW-es Atrayente de micciones 125 ml educador de perros cachorros'
 sku: 'B019ZSNTXW-es'
 tags: [  ]

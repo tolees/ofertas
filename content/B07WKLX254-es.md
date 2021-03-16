@@ -5,7 +5,7 @@ date: 2020-06-30 09:45:15
 image: 'https://m.media-amazon.com/images/I/41W3WvxDZeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKLX254-es ieGeek Autoradio Bluetooth Estéreo RDS 60W * 4 Sistema de...'
 sku: 'B07WKLX254-es'
 tags: [  ]

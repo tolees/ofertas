@@ -5,7 +5,7 @@ date: 2020-06-08 07:41:47
 image: 'https://m.media-amazon.com/images/I/41CVq4f2+EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0886JPML1-es aZengear Calcetines de Compresión para Hombres y Mujeres -...'
 sku: 'B0886JPML1-es'
 tags: [  ]

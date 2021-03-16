@@ -5,7 +5,7 @@ date: 2020-04-21 08:28:26
 image: 'https://m.media-amazon.com/images/I/4139+rdha3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VV494GK-es LOHOTEK Hombres 7" Pantalones Cortos para Atléticos -...'
 sku: 'B07VV494GK-es'
 tags: [  ]

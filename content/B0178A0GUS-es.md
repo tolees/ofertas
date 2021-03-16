@@ -5,7 +5,7 @@ date: 2020-08-07 01:30:53
 image: 'https://m.media-amazon.com/images/I/41e1JATN4kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0178A0GUS-es Microsoft – Wireless Desktop 3050 Ratón y teclado QWERTY...'
 sku: 'B0178A0GUS-es'
 tags: [  ]

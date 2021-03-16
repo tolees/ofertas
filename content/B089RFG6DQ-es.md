@@ -5,7 +5,7 @@ date: 2020-09-08 08:13:20
 image: 'https://m.media-amazon.com/images/I/41g-SzUs8rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089RFG6DQ-es Pistola de Masaje Muscular ANFLAG Premium Masajeador de...'
 sku: 'B089RFG6DQ-es'
 tags: [  ]

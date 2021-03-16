@@ -5,7 +5,7 @@ date: 2020-08-08 16:35:37
 image: 'https://m.media-amazon.com/images/I/41SxPyKEGaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPT4L2Z-es Funko- Pop Vinilo: Kiss: Catman Figura Coleccionable...'
 sku: 'B07KPT4L2Z-es'
 tags: [  ]

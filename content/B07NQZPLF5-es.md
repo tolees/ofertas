@@ -5,7 +5,7 @@ date: 2020-01-14 13:24:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xEs%2BdzgGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQZPLF5-es Springfield Tren Tricolor Cinturón Azul Blue 11 85 Tamaño...'
 sku: 'B07NQZPLF5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 11:30:54
 image: 'https://m.media-amazon.com/images/I/51KYSE2ax6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYYPN98-es Vacío Envasado Máquina Envasadora Alimentos Conservación...'
 sku: 'B07MYYPN98-es'
 tags: [  ]

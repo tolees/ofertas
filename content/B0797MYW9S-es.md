@@ -5,7 +5,7 @@ date: 2020-03-03 12:34:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yIpmCqFuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797MYW9S-es Funko Pop!- Pennywise w/Crab Legs Figura de Vinilo 29526'
 sku: 'B0797MYW9S-es'
 tags: [  ]

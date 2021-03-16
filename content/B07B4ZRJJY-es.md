@@ -5,7 +5,7 @@ date: 2020-02-16 22:12:46
 image: 'https://m.media-amazon.com/images/I/518OdXEttBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4ZRJJY-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter Gris Dark...'
 sku: 'B07B4ZRJJY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-16 14:27:10
 image: 'https://m.media-amazon.com/images/I/31pQZ4Doh3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FFKT47-es Goodde Convertidor Captura Vídeo USB Video Capture Card...'
 sku: 'B088FFKT47-es'
 tags: [  ]

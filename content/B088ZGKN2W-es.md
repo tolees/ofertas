@@ -5,7 +5,7 @@ date: 2020-09-24 12:47:43
 image: 'https://m.media-amazon.com/images/I/41wt0yUG6tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088ZGKN2W-es YPSNH para Samsung Galaxy Watch Active Correa Silicona...'
 sku: 'B088ZGKN2W-es'
 tags: [  ]

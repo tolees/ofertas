@@ -5,7 +5,7 @@ date: 2020-07-06 08:31:44
 image: 'https://m.media-amazon.com/images/I/51Fw2x2hJwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSXWJ9C-es DURAGADGET Funda/Riñonera Rosa Sumergible para Canon...'
 sku: 'B01BSXWJ9C-es'
 tags: [  ]

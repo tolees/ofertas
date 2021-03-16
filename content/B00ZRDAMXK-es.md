@@ -5,7 +5,7 @@ date: 2020-07-16 17:30:55
 image: 'https://m.media-amazon.com/images/I/41AJ9epEuFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZRDAMXK-es Purina Pro Plan Small & Mini Puppy Salmón para cachorros...'
 sku: 'B00ZRDAMXK-es'
 tags: [  ]

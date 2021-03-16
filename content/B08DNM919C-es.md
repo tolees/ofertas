@@ -5,7 +5,7 @@ date: 2020-08-29 04:11:45
 image: 'https://m.media-amazon.com/images/I/31-waGyALHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNM919C-es Pantalones Cortos Deportivos para Mujer Entrenamiento Yoga...'
 sku: 'B08DNM919C-es'
 tags: [  ]

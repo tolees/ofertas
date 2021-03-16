@@ -5,7 +5,7 @@ date: 2020-10-11 16:02:38
 image: 'https://m.media-amazon.com/images/I/519M7d9dH5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072DXTH3J-es Funko Pop! - David Rugged Figura de Vinilo seria Alien...'
 sku: 'B072DXTH3J-es'
 tags: [  ]

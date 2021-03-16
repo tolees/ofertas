@@ -5,7 +5,7 @@ date: 2020-01-30 23:55:53
 image: 'https://m.media-amazon.com/images/I/411u3hCR3GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMGZSTV-es Star Wars E0329EW0 SW S2 Yoda - Máscara electrónica...'
 sku: 'B07HMGZSTV-es'
 tags: [  ]

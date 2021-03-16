@@ -5,7 +5,7 @@ date: 2020-05-02 14:58:01
 image: 'https://m.media-amazon.com/images/I/41eJHbEHnnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PS0JPDK-es D-Link DGS-1100-05 - Switch 5 Puertos Gigabit 1000 Mbps...'
 sku: 'B00PS0JPDK-es'
 tags: [  ]

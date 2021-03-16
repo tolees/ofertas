@@ -5,7 +5,7 @@ date: 2020-09-25 04:27:42
 image: 'https://m.media-amazon.com/images/I/41hL8jLjXEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNR8NYF-es Klarstein VariCook Duo Silver Edition - Placa...'
 sku: 'B07PNR8NYF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 06:27:11
 image: 'https://m.media-amazon.com/images/I/41J8BkCdPVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6WW7PD-es Under Armour Rival Print Fill Logo Parte Superior del...'
 sku: 'B07S6WW7PD-es'
 tags: [  ]

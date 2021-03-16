@@ -5,7 +5,7 @@ date: 2020-02-10 17:22:36
 image: 'https://m.media-amazon.com/images/I/41X6Ce+Q7CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMNW91X-es Skechers Men s Verrado- Brogen Hi-Top Trainers Brown Brown...'
 sku: 'B07HMNW91X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 13:13:10
 image: 'https://m.media-amazon.com/images/I/21sn+TOBJ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000JVXUF2-es Nuby ID91164 Set De Recipientes Herméticos Multicolor 300...'
 sku: 'B000JVXUF2-es'
 tags: [  ]

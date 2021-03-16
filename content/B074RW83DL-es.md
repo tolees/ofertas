@@ -5,7 +5,7 @@ date: 2020-10-11 09:11:39
 image: 'https://m.media-amazon.com/images/I/31yny-lERUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074RW83DL-es Lee Scarlett High Jeans Negro Black Rinse Ae47 31W / 31L...'
 sku: 'B074RW83DL-es'
 tags: [  ]

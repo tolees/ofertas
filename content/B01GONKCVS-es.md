@@ -5,7 +5,7 @@ date: 2020-08-07 02:39:27
 image: 'https://m.media-amazon.com/images/I/51L8oKISktL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GONKCVS-es Hollister Wave U Edt 100 Vapo'
 sku: 'B01GONKCVS-es'
 tags: [  ]

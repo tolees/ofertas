@@ -5,7 +5,7 @@ date: 2020-02-03 08:01:43
 image: 'https://m.media-amazon.com/images/I/31R2KX+GK4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHXDSZQ-es auna Stereosonic Stereo System - Equipo estéreo Compacto...'
 sku: 'B07HHXDSZQ-es'
 tags: [  ]

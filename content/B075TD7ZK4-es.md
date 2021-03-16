@@ -5,7 +5,7 @@ date: 2020-08-26 08:38:26
 image: 'https://m.media-amazon.com/images/I/51dQE6LoawL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075TD7ZK4-es Aqua Moto Racing: Utopia - Versión Española'
 sku: 'B075TD7ZK4-es'
 tags: [  ]

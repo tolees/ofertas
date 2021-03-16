@@ -5,7 +5,7 @@ date: 2020-01-29 19:42:43
 image: 'https://m.media-amazon.com/images/I/21fVhKMYt7L._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G7G6OM8-es Freedog FD6000018 - Zapatos/Deportivas para Perro Color...'
 sku: 'B01G7G6OM8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-29 17:28:03
 image: 'https://m.media-amazon.com/images/I/41LHU3A-t1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJZSQR4-es Sorel Winter Carnival Botas de Invierno para Mujer Negro...'
 sku: 'B07KJZSQR4-es'
 tags: [  ]

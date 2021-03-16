@@ -5,7 +5,7 @@ date: 2020-06-01 06:44:12
 image: 'https://m.media-amazon.com/images/I/41Chq4vzjYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ADKSEBO-es Selene Sujetador Deportivo Confort Blanco 95B'
 sku: 'B00ADKSEBO-es'
 tags: [  ]

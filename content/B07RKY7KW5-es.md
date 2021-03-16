@@ -5,7 +5,7 @@ date: 2020-10-02 20:24:54
 image: 'https://m.media-amazon.com/images/I/41i1WiGJV4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKY7KW5-es Salomon Sense Feel Zapatillas de Trail Running para Hombre...'
 sku: 'B07RKY7KW5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-18 07:02:41
 image: 'https://m.media-amazon.com/images/I/41IzolSEU-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087X5MFSY-es Suhctup Funda Transparent Compatible para Galaxy J2 Prime...'
 sku: 'B087X5MFSY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 07:10:15
 image: 'https://m.media-amazon.com/images/I/41OHVWgRd6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQHB96Z-es Nike Pico 5 TDV Zapatillas Unisex Niños Multicolor...'
 sku: 'B07VQHB96Z-es'
 tags: [  ]

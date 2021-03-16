@@ -5,7 +5,7 @@ date: 2020-08-24 07:57:34
 image: 'https://m.media-amazon.com/images/I/51Nzj1W1sqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4LCNKT-es Preciva CT480300 Crimpadora Terminales Electricos 0.5-1.5...'
 sku: 'B07H4LCNKT-es'
 tags: [  ]

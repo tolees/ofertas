@@ -5,7 +5,7 @@ date: 2020-03-14 21:04:18
 image: 'https://m.media-amazon.com/images/I/41e9z9Qz9HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMZYN91-es adidas Predator 19.3 TF Zapatillas de Fútbol para Hombre...'
 sku: 'B07RMZYN91-es'
 tags: [  ]

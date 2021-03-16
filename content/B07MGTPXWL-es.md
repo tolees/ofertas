@@ -5,7 +5,7 @@ date: 2020-05-27 16:33:12
 image: 'https://m.media-amazon.com/images/I/41VU1JjRL4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGTPXWL-es Funda para Motorola Moto G6 Play Carcasa Espejo Mirror...'
 sku: 'B07MGTPXWL-es'
 tags: [  ]

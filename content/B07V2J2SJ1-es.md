@@ -5,7 +5,7 @@ date: 2020-06-12 15:31:41
 image: 'https://m.media-amazon.com/images/I/41hRTaUmOWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2J2SJ1-es Tommy Hilfiger Core Corporate Leather Sneaker Zapatillas...'
 sku: 'B07V2J2SJ1-es'
 tags: [  ]

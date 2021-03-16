@@ -5,7 +5,7 @@ date: 2020-02-02 00:05:16
 image: 'https://m.media-amazon.com/images/I/317q9aexCBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXWS126-es Khanomak - Body de Manga Larga con Cut out en la Parte de...'
 sku: 'B01LXWS126-es'
 tags: [  ]

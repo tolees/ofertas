@@ -5,7 +5,7 @@ date: 2020-04-21 00:58:13
 image: 'https://m.media-amazon.com/images/I/316gPVTLrtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT9CG57-es CESFONJER 10 Metros Tubo de Agua Blanco 1/4" 6.3 mm Kit de...'
 sku: 'B07RT9CG57-es'
 tags: [  ]

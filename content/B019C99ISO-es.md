@@ -5,7 +5,7 @@ date: 2020-02-09 14:39:45
 image: 'https://m.media-amazon.com/images/I/41Gv8r94tyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019C99ISO-es Opticum 9184 QA Antena de satélite con 80 monobloque de...'
 sku: 'B019C99ISO-es'
 tags: [  ]

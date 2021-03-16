@@ -5,7 +5,7 @@ date: 2020-01-21 23:36:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31UVLOYX3TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKTLC8Y-es Joseph Joseph Juego de Tablas para Cortar Index tamaño...'
 sku: 'B07KKTLC8Y-es'
 tags: [  ]

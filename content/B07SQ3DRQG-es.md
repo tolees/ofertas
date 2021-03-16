@@ -5,7 +5,7 @@ date: 2020-04-28 07:10:15
 image: 'https://m.media-amazon.com/images/I/41Nyi7SMHGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ3DRQG-es UC28B Mini Proyector LED portátil 1080P Cine en casa Cine...'
 sku: 'B07SQ3DRQG-es'
 tags: [  ]

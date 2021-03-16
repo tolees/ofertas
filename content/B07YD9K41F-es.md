@@ -5,7 +5,7 @@ date: 2020-01-19 00:29:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ECIC89ItL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD9K41F-es Anano Mochila de Senderismo actualización de 40 L Mochila...'
 sku: 'B07YD9K41F-es'
 tags: [  ]

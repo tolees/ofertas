@@ -5,7 +5,7 @@ date: 2020-08-16 15:02:42
 image: 'https://m.media-amazon.com/images/I/41U81tPHLRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L745TFH-es Duttek 5 pies / 1 5 m Hembra del USB 2.0 a 3 RCA Video...'
 sku: 'B07L745TFH-es'
 tags: [  ]

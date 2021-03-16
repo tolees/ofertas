@@ -5,7 +5,7 @@ date: 2020-02-04 11:48:37
 image: 'https://m.media-amazon.com/images/I/41IoplUIyRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y6DKVBX-es BaronHong Sport Bra Chest Binder Transpirable Mesh Corset...'
 sku: 'B06Y6DKVBX-es'
 tags: [  ]

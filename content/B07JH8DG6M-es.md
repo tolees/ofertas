@@ -5,7 +5,7 @@ date: 2020-05-13 17:45:16
 image: 'https://m.media-amazon.com/images/I/41CL3U3ar3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH8DG6M-es Skechers Men s Heston-Avano Trainers Black Black Blk 6 UK...'
 sku: 'B07JH8DG6M-es'
 tags: [  ]

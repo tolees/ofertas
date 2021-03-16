@@ -5,7 +5,7 @@ date: 2020-02-14 18:21:24
 image: 'https://m.media-amazon.com/images/I/41-XQH9HsNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGBXYRX-es ghd curve soft curl - Tenacilla profesional con barril de...'
 sku: 'B07GGBXYRX-es'
 tags: [  ]

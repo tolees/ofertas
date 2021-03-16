@@ -5,7 +5,7 @@ date: 2020-04-14 17:02:25
 image: 'https://m.media-amazon.com/images/I/51sqH0KabBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XTLQ3K-es Kitchen Emperor Cuchillo de Cocina Cuchillos Damasco...'
 sku: 'B078XTLQ3K-es'
 tags: [  ]

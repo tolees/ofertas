@@ -5,7 +5,7 @@ date: 2020-10-04 13:57:49
 image: 'https://m.media-amazon.com/images/I/31jl12CGJZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDSJLKS-es Mellerware Batidora de mano de 1000W. Velocidad regulable...'
 sku: 'B07VDSJLKS-es'
 tags: [  ]

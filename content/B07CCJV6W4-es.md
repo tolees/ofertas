@@ -5,7 +5,7 @@ date: 2020-07-19 17:54:35
 image: 'https://m.media-amazon.com/images/I/51ullxprZGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CCJV6W4-es 30 pieza Neodimio Imán 10x3 mm Unidad imán Extrem Fuerte 2...'
 sku: 'B07CCJV6W4-es'
 tags: [  ]

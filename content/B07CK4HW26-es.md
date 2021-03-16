@@ -5,7 +5,7 @@ date: 2020-03-17 13:46:20
 image: 'https://m.media-amazon.com/images/I/41L+O-1mEfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CK4HW26-es Nike Perfume Nike Woman Pink Edt 30 mililitros - 30 ml'
 sku: 'B07CK4HW26-es'
 tags: [  ]

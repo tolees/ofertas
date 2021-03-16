@@ -5,7 +5,7 @@ date: 2020-03-09 20:02:37
 image: 'https://m.media-amazon.com/images/I/51Qq5PTnNBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWKCS1F-es SAMTIAN Anillo de luz，14" Ajustable 3200-5900K Bi-Color...'
 sku: 'B07NWKCS1F-es'
 tags: [  ]

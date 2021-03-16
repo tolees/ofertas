@@ -5,7 +5,7 @@ date: 2020-02-09 16:01:48
 image: 'https://m.media-amazon.com/images/I/41xGE7L-cyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FC61SYY-es Salomon Speedcross CSWP K Zapatillas de Trail Running...'
 sku: 'B07FC61SYY-es'
 tags: [  ]

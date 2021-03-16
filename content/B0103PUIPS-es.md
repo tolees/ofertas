@@ -5,7 +5,7 @@ date: 2020-03-30 16:03:21
 image: 'https://m.media-amazon.com/images/I/51pFvVjniFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0103PUIPS-es Apace Vision Luces de Seguridad LED Paquete de 2 con...'
 sku: 'B0103PUIPS-es'
 tags: [  ]

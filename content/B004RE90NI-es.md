@@ -5,7 +5,7 @@ date: 2020-05-26 10:50:43
 image: 'https://m.media-amazon.com/images/I/41WcUr7CWRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004RE90NI-es Philips EXP2546/12 - Reproductor CD portátil Negro'
 sku: 'B004RE90NI-es'
 tags: [  ]

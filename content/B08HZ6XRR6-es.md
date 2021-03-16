@@ -5,7 +5,7 @@ date: 2020-09-20 11:45:27
 image: 'https://m.media-amazon.com/images/I/51-xqH+jn9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HZ6XRR6-es BOWFU Funda para Xiaomi Poco X3 NFC [Ranuras de...'
 sku: 'B08HZ6XRR6-es'
 tags: [  ]

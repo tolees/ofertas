@@ -5,7 +5,7 @@ date: 2020-05-20 05:43:00
 image: 'https://m.media-amazon.com/images/I/51N3Ru65+mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5K4P1B-es Toozey Reja Coche Perro Automóvil SUV Universal - Rejilla...'
 sku: 'B07T5K4P1B-es'
 tags: [  ]

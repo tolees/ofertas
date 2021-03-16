@@ -5,7 +5,7 @@ date: 2020-01-18 09:07:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-mcMTFFyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VY8JGZX-es Reloj Esprit - Chicos ES906474001'
 sku: 'B06VY8JGZX-es'
 tags: [  ]

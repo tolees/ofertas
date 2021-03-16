@@ -5,7 +5,7 @@ date: 2020-03-25 09:29:14
 image: 'https://m.media-amazon.com/images/I/31J-qRw15rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAISYUC-es Gotas Frescas Concentrada para Hombre - 750 ML'
 sku: 'B00XAISYUC-es'
 tags: [  ]

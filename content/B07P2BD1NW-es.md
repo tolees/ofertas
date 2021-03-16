@@ -5,7 +5,7 @@ date: 2020-05-06 13:41:00
 image: 'https://m.media-amazon.com/images/I/31nAkS4JPML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2BD1NW-es Superdry OL Elite Joggers Pantalones de Deporte Negro...'
 sku: 'B07P2BD1NW-es'
 tags: [  ]

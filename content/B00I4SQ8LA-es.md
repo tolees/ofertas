@@ -5,7 +5,7 @@ date: 2020-03-16 21:31:50
 image: 'https://m.media-amazon.com/images/I/31kfcX1uUTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I4SQ8LA-es Lavacabezas hinchable con tubo de drenaje Blanco Mobiclinic'
 sku: 'B00I4SQ8LA-es'
 tags: [  ]

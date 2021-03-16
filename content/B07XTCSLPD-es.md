@@ -5,7 +5,7 @@ date: 2020-09-10 18:03:55
 image: 'https://m.media-amazon.com/images/I/51oFyop1F4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTCSLPD-es JOOMFEEN Cargador de Coche Qualcomm Quick Charge 3.0+2.4A...'
 sku: 'B07XTCSLPD-es'
 tags: [  ]

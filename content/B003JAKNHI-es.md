@@ -5,7 +5,7 @@ date: 2020-08-17 07:30:17
 image: 'https://m.media-amazon.com/images/I/51zBBFD30dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JAKNHI-es PowerBar Ride Energy Peanut Caramel 18x55g - Barra de...'
 sku: 'B003JAKNHI-es'
 tags: [  ]

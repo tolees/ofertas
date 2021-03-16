@@ -5,7 +5,7 @@ date: 2020-08-21 09:01:34
 image: 'https://m.media-amazon.com/images/I/41kzn084ooL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJ81R2-es Kipling Firefly Up Mochilas para Mujer Dorado Cloud Metal...'
 sku: 'B07PSJ81R2-es'
 tags: [  ]

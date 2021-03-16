@@ -5,7 +5,7 @@ date: 2020-02-08 12:10:26
 image: 'https://m.media-amazon.com/images/I/41j3Gsa1ZlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZZ7HNR-es Puma St Runner V2 Nl Zapatillas de Cross Unisex adulto...'
 sku: 'B07CZZ7HNR-es'
 tags: [  ]

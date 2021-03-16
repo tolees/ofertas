@@ -5,7 +5,7 @@ date: 2020-06-05 05:15:48
 image: 'https://m.media-amazon.com/images/I/410UWxpl9QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08285HCVM-es Quiksilver Dye Check 15" Bañador Niños Azul Caribbean Sea...'
 sku: 'B08285HCVM-es'
 tags: [  ]

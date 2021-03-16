@@ -5,7 +5,7 @@ date: 2020-04-25 16:01:58
 image: 'https://m.media-amazon.com/images/I/417A2qJoNiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T70LOS6-es Toms Women Clemente Fuchsia Alpargatas para Mujer Azul...'
 sku: 'B00T70LOS6-es'
 tags: [  ]

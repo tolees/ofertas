@@ -5,7 +5,7 @@ date: 2020-07-05 07:55:20
 image: 'https://m.media-amazon.com/images/I/51z8eoFt89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7KKCNQ-es PLAYMOBIL: THE MOVIE Emperador Maximus en el Coliseo a...'
 sku: 'B07P7KKCNQ-es'
 tags: [  ]

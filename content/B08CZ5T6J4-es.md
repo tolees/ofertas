@@ -5,7 +5,7 @@ date: 2020-09-12 07:36:36
 image: 'https://m.media-amazon.com/images/I/41mK76qtCgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZ5T6J4-es NWOUIIAY Batidora de Varillas Eléctrica 300W Batidora...'
 sku: 'B08CZ5T6J4-es'
 tags: [  ]

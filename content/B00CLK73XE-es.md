@@ -5,7 +5,7 @@ date: 2020-03-25 09:12:29
 image: 'https://m.media-amazon.com/images/I/419dQ6jPp7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CLK73XE-es Head Promotion - Gorra Unisex Color Azul Marino Talla única'
 sku: 'B00CLK73XE-es'
 tags: [  ]

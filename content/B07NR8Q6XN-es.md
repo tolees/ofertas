@@ -5,7 +5,7 @@ date: 2020-02-17 11:38:53
 image: 'https://m.media-amazon.com/images/I/414qXf6wdBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR8Q6XN-es Licor del Polo - Enjuague Bucal Frozen Senses - Tecnología...'
 sku: 'B07NR8Q6XN-es'
 tags: [  ]

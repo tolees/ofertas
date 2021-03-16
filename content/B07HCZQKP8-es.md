@@ -5,7 +5,7 @@ date: 2020-08-28 04:36:22
 image: 'https://m.media-amazon.com/images/I/51y3oXk02LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCZQKP8-es SHAN ZU Cuchillo de Cocina de Damasco de 20cm AUS10...'
 sku: 'B07HCZQKP8-es'
 tags: [  ]

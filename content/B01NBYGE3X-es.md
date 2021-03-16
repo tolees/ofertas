@@ -5,7 +5,7 @@ date: 2020-06-09 03:53:29
 image: 'https://m.media-amazon.com/images/I/61NEYvY07iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBYGE3X-es Pyramid International - Felpudo "You Shall Not Pass!" De...'
 sku: 'B01NBYGE3X-es'
 tags: [  ]

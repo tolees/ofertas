@@ -5,7 +5,7 @@ date: 2020-04-05 13:35:30
 image: 'https://m.media-amazon.com/images/I/316-SIS2xJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JM4OCG-es Max Factor Pan Stick Base de maquillaje Tono 12 True Beige...'
 sku: 'B003JM4OCG-es'
 tags: [  ]

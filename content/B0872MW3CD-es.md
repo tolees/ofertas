@@ -5,7 +5,7 @@ date: 2020-04-27 19:40:21
 image: 'https://m.media-amazon.com/images/I/41HJYd0YW3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872MW3CD-es Funda Transparente Compatible para Xiaomi Mi Note 3...'
 sku: 'B0872MW3CD-es'
 tags: [  ]

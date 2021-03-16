@@ -5,7 +5,7 @@ date: 2020-05-14 23:24:09
 image: 'https://m.media-amazon.com/images/I/41Jeg+R-2VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M86ZQ6K-es Adidas ENERGYFALCON Zapatillas de Trail Running para...'
 sku: 'B07M86ZQ6K-es'
 tags: [  ]

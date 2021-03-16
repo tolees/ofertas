@@ -5,7 +5,7 @@ date: 2020-07-30 10:31:16
 image: 'https://m.media-amazon.com/images/I/41bX6qJ1UhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKXLSMZ-es Hackett London Army Hackett Polo Rojo 255red 255 Small...'
 sku: 'B07VKXLSMZ-es'
 tags: [  ]

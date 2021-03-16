@@ -5,7 +5,7 @@ date: 2020-09-22 12:14:30
 image: 'https://m.media-amazon.com/images/I/51TOy1CQDRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8QPDVS-es Kayond Rose - Funda para portátil de 11-17 Pulgadas...'
 sku: 'B07M8QPDVS-es'
 tags: [  ]

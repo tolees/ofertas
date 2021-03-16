@@ -5,7 +5,7 @@ date: 2020-08-09 07:31:54
 image: 'https://m.media-amazon.com/images/I/41S6sfpHyjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYVHC45-es Veehoo Plegable Transportín para Perros Blando Caja para...'
 sku: 'B07XYVHC45-es'
 tags: [  ]

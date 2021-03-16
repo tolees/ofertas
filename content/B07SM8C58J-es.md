@@ -5,7 +5,7 @@ date: 2020-10-03 12:22:02
 image: 'https://m.media-amazon.com/images/I/41rdzmh46WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SM8C58J-es Funko Pop Games: PUBG - Hawaiian Shirt Guy Multicolor...'
 sku: 'B07SM8C58J-es'
 tags: [  ]

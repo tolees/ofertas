@@ -5,7 +5,7 @@ date: 2020-03-29 06:21:01
 image: 'https://m.media-amazon.com/images/I/313GnBiIHZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C2S3M3K-es Top Model 7938-F - Juego de plumas de gel'
 sku: 'B00C2S3M3K-es'
 tags: [  ]

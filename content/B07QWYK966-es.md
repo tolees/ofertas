@@ -5,7 +5,7 @@ date: 2020-01-03 20:48:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RuP6uA5VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWYK966-es Asics Jolt 2 GS Zapatillas de Running Unisex Niños Gris...'
 sku: 'B07QWYK966-es'
 tags: [  ]

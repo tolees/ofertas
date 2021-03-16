@@ -5,7 +5,7 @@ date: 2020-01-10 09:56:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417q0CtOZXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JJAT3I6-es Ballon de hand Kid Hummel Soft'
 sku: 'B01JJAT3I6-es'
 tags: [  ]

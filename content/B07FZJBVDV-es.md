@@ -5,7 +5,7 @@ date: 2020-01-16 09:39:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51vyzLl4GkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZJBVDV-es Star Ibaby - Parque de bebés plegable color natural'
 sku: 'B07FZJBVDV-es'
 tags: [  ]

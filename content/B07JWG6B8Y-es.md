@@ -5,7 +5,7 @@ date: 2020-08-07 09:30:59
 image: 'https://m.media-amazon.com/images/I/41y3Zv88EcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWG6B8Y-es Bolsa de aseo transparente + 7 ollas contenedores botellas...'
 sku: 'B07JWG6B8Y-es'
 tags: [  ]

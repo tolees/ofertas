@@ -5,7 +5,7 @@ date: 2020-05-27 15:46:01
 image: 'https://m.media-amazon.com/images/I/41DXiTaY3eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4D5JPB-es Funda compatible con Huawei Honor 10 funda ultrafina suave...'
 sku: 'B07Z4D5JPB-es'
 tags: [  ]

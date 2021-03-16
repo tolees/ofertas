@@ -5,7 +5,7 @@ date: 2020-05-07 12:53:48
 image: 'https://m.media-amazon.com/images/I/41c5dcTEHjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FW19VT4-es molis&co. Saco de Dormir para bebé. Ideal para Verano. 0-6...'
 sku: 'B07FW19VT4-es'
 tags: [  ]

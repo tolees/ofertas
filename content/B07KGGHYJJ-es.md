@@ -5,7 +5,7 @@ date: 2020-06-18 18:43:53
 image: 'https://m.media-amazon.com/images/I/51I0MJrnGuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGGHYJJ-es Buff R-Grace Gorra Pack Run Mujer Multi Talla única'
 sku: 'B07KGGHYJJ-es'
 tags: [  ]

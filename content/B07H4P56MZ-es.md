@@ -5,7 +5,7 @@ date: 2020-10-11 05:13:17
 image: 'https://m.media-amazon.com/images/I/316LvTP66DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4P56MZ-es B Blesiya 1 x Unidad Flash USB 2.0 Panelado de Arce...'
 sku: 'B07H4P56MZ-es'
 tags: [  ]

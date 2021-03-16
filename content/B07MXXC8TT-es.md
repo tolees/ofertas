@@ -5,7 +5,7 @@ date: 2020-03-12 20:03:16
 image: 'https://m.media-amazon.com/images/I/41ThOA0ftnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXXC8TT-es GLOBE Encore-2 Zapatillas de Skateboard para Hombre Marrón...'
 sku: 'B07MXXC8TT-es'
 tags: [  ]

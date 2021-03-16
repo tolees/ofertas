@@ -5,7 +5,7 @@ date: 2020-06-01 12:40:28
 image: 'https://m.media-amazon.com/images/I/21teFC0Yh5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LYQ2ZL-es KRY Ear Wax Remover - Limpiador de oídos en espiral seguro...'
 sku: 'B088LYQ2ZL-es'
 tags: [  ]

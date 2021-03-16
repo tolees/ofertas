@@ -5,7 +5,7 @@ date: 2020-03-23 22:45:55
 image: 'https://m.media-amazon.com/images/I/51lVd3zsEGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XCCKK2-es Nautica Reloj Analogico para Hombre de Cuarzo con Correa...'
 sku: 'B071XCCKK2-es'
 tags: [  ]

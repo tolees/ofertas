@@ -5,7 +5,7 @@ date: 2020-04-17 08:49:33
 image: 'https://m.media-amazon.com/images/I/518ATPcbzlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084WQM4LS-es LFDZ XIDU PhilPad XT133A Funda Soporte Cuero con Slim PU...'
 sku: 'B084WQM4LS-es'
 tags: [  ]

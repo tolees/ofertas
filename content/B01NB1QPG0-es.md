@@ -5,7 +5,7 @@ date: 2020-01-17 12:50:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fFmON%2BAqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NB1QPG0-es UEETEK Magnética flotante acuario vidrio limpiador cepillo...'
 sku: 'B01NB1QPG0-es'
 tags: [  ]

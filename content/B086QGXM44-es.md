@@ -5,7 +5,7 @@ date: 2020-07-30 16:01:34
 image: 'https://m.media-amazon.com/images/I/41rKzj4j49L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QGXM44-es Suhctup Funda Compatible con Samsung Galaxy A70 Carcasa...'
 sku: 'B086QGXM44-es'
 tags: [  ]

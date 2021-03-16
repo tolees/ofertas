@@ -5,7 +5,7 @@ date: 2020-05-15 13:33:29
 image: 'https://m.media-amazon.com/images/I/41RSxckAdIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C5Q2JL4-es TRENDnet - Cámara de Red PoE para Exteriores/Interiores...'
 sku: 'B01C5Q2JL4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-28 16:33:10
 image: 'https://m.media-amazon.com/images/I/31dn5cm0gcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BNAOV5Q-es ESTÉE LAUDER CP+R Lifting Serum para Arrugas 30 ml'
 sku: 'B00BNAOV5Q-es'
 tags: [  ]

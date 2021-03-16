@@ -5,7 +5,7 @@ date: 2020-10-08 16:00:00
 image: 'https://m.media-amazon.com/images/I/41YB1FpzYgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9TY9L0-es Garnier Olia - Coloración Permanente sin Amoniaco con...'
 sku: 'B00X9TY9L0-es'
 tags: [  ]

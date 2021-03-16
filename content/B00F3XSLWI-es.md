@@ -5,7 +5,7 @@ date: 2020-09-25 17:13:26
 image: 'https://m.media-amazon.com/images/I/31F232b5+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F3XSLWI-es Netgear JGS516PE-100EUS - Smart Switch gestionable 16...'
 sku: 'B00F3XSLWI-es'
 tags: [  ]

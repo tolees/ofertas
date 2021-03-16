@@ -5,7 +5,7 @@ date: 2020-04-17 09:32:17
 image: 'https://m.media-amazon.com/images/I/31HfiOB-MML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8RNL6P-es Samsung Led View - Funda para Galaxy Note 9 color azul-...'
 sku: 'B07F8RNL6P-es'
 tags: [  ]

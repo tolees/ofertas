@@ -5,7 +5,7 @@ date: 2020-07-02 15:30:51
 image: 'https://m.media-amazon.com/images/I/317vAV2EpYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BEHTKWC-es Sonos Playbar barra de sonido HiFi - sonido envolvente...'
 sku: 'B00BEHTKWC-es'
 tags: [  ]

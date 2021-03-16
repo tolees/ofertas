@@ -5,7 +5,7 @@ date: 2020-05-28 17:13:44
 image: 'https://m.media-amazon.com/images/I/41cdDAW-qXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KPV9C5S-es Jovi 8412027028851 - Estuche de 20 ceras diseño oso mágico'
 sku: 'B00KPV9C5S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-25 10:58:30
 image: 'https://m.media-amazon.com/images/I/41YLy01KxHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYYP7Y9-es TedGem Raton Inalámbrico Portatil 2.4G Raton Inalambrico...'
 sku: 'B07SYYP7Y9-es'
 tags: [  ]

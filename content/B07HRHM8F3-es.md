@@ -5,7 +5,7 @@ date: 2020-06-25 18:16:16
 image: 'https://m.media-amazon.com/images/I/51WR7hG-0BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRHM8F3-es Sennheiser MOMENTUM True Wireless - Auriculares...'
 sku: 'B07HRHM8F3-es'
 tags: [  ]

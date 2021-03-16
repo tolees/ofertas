@@ -5,7 +5,7 @@ date: 2020-02-22 19:46:00
 image: 'https://m.media-amazon.com/images/I/41D5nv0ZRVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A0MLMB8-es Energy Sistem 425563 Auriculares Bluetooth 4.1 Talla única...'
 sku: 'B01A0MLMB8-es'
 tags: [  ]

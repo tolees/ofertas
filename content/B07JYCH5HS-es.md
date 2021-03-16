@@ -5,7 +5,7 @@ date: 2020-09-10 18:38:26
 image: 'https://m.media-amazon.com/images/I/41wa4cgHYKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYCH5HS-es Bolsas de Aseo RUISIKIOU 3 Sets Bolsa de Viaje de PVC...'
 sku: 'B07JYCH5HS-es'
 tags: [  ]

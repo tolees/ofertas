@@ -5,7 +5,7 @@ date: 2020-04-04 12:13:00
 image: 'https://m.media-amazon.com/images/I/21mMR8W-lZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FY2GJW6-es Green2Print Tóner Negro 2500 páginas sustituye a Lexmark...'
 sku: 'B01FY2GJW6-es'
 tags: [  ]

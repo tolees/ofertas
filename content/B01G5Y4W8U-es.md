@@ -5,7 +5,7 @@ date: 2020-02-23 14:35:53
 image: 'https://m.media-amazon.com/images/I/51x6wizns+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G5Y4W8U-es Funko - POP! Vinilo Colección Rocks - Figura Slash 10687'
 sku: 'B01G5Y4W8U-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 15:31:49
 image: 'https://m.media-amazon.com/images/I/31ckLQ21O-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FBVPRMR-es Bosch 3 397 014 313 Escobilla para limpiaparabrisas'
 sku: 'B07FBVPRMR-es'
 tags: [  ]

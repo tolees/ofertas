@@ -5,7 +5,7 @@ date: 2020-02-08 01:14:46
 image: 'https://m.media-amazon.com/images/I/515vFGLCg7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I8N2FP4-es Wera 05059030001 Juego de Herramientas con 17 Piezas'
 sku: 'B00I8N2FP4-es'
 tags: [  ]

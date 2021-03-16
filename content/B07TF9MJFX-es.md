@@ -5,7 +5,7 @@ date: 2020-07-23 00:52:28
 image: 'https://m.media-amazon.com/images/I/41tk7pmryzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TF9MJFX-es Skechers Melson Raymon Zapatillas para Hombre Verde Khaki...'
 sku: 'B07TF9MJFX-es'
 tags: [  ]

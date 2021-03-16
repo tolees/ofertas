@@ -5,7 +5,7 @@ date: 2020-01-19 20:57:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51-P0cMM67L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LPO64A4-es Twins Sarah Polaina Bebé-Niñas Multicolor Mehrfarbig 80'
 sku: 'B01LPO64A4-es'
 tags: [  ]

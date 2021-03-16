@@ -5,7 +5,7 @@ date: 2020-08-13 18:37:01
 image: 'https://m.media-amazon.com/images/I/51ukWCGbMiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BV93LOK-es Diadermine Lift + Tagescreme Súper relleno Paquete 1er 1 x...'
 sku: 'B01BV93LOK-es'
 tags: [  ]

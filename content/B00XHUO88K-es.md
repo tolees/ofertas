@@ -5,7 +5,7 @@ date: 2020-07-27 14:58:06
 image: 'https://m.media-amazon.com/images/I/5169J29cFcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XHUO88K-es Star Wars FX14233 Lampara 3D de Pared R2 D2 Multicolor'
 sku: 'B00XHUO88K-es'
 tags: [  ]

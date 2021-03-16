@@ -5,7 +5,7 @@ date: 2020-06-22 10:24:49
 image: 'https://m.media-amazon.com/images/I/31rJTfunGRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXNRJN5-es TOUS Anillo Mujer vermeil rosado baño rosa de oro 18kt...'
 sku: 'B07KXNRJN5-es'
 tags: [  ]

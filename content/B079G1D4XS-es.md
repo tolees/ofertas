@@ -5,7 +5,7 @@ date: 2020-01-06 16:05:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iJg%2BBeDbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079G1D4XS-es find. Botín de Ante con Tacón Mujer Beige Taupe Taupe 39 EU'
 sku: 'B079G1D4XS-es'
 tags: [  ]

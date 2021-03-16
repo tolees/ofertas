@@ -5,7 +5,7 @@ date: 2020-01-10 16:10:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31BA6bMINbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JR8DTC-es find. HWCAP0002 Pantalones Para Hombre Beige Tan Large'
 sku: 'B071JR8DTC-es'
 tags: [  ]

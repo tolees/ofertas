@@ -5,7 +5,7 @@ date: 2020-04-11 11:42:49
 image: 'https://m.media-amazon.com/images/I/3119LRYDf-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NONZ9Q-es Shimano SMMAF203PPA - Adaptador Pinza Delant. Post...'
 sku: 'B000NONZ9Q-es'
 tags: [  ]

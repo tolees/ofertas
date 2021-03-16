@@ -5,7 +5,7 @@ date: 2020-04-05 19:44:34
 image: 'https://m.media-amazon.com/images/I/410iKrKL4xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QL249NS-es Hawiton Sujetadores Deportivos Mujer con Almohadillas...'
 sku: 'B07QL249NS-es'
 tags: [  ]

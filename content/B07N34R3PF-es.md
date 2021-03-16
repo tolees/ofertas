@@ -5,7 +5,7 @@ date: 2020-07-02 05:08:23
 image: 'https://m.media-amazon.com/images/I/51TfWyCIjhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N34R3PF-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07N34R3PF-es'
 tags: [  ]

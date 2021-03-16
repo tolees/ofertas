@@ -5,7 +5,7 @@ date: 2020-08-29 14:26:01
 image: 'https://m.media-amazon.com/images/I/41EeNavPxeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKYB3P4-es Tritton - Auricular Gaming Tritton Kunai Pro 7.1 Dirac...'
 sku: 'B07DKYB3P4-es'
 tags: [  ]

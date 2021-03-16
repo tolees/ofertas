@@ -5,7 +5,7 @@ date: 2020-05-27 19:06:26
 image: 'https://m.media-amazon.com/images/I/31skZvsX5EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PYKWIV0-es Nike Court Royale Zapatillas de Gimnasia para Hombre Negro...'
 sku: 'B00PYKWIV0-es'
 tags: [  ]

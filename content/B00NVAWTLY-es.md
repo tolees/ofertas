@@ -5,7 +5,7 @@ date: 2020-09-13 03:09:54
 image: 'https://m.media-amazon.com/images/I/41G-nnqaHRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NVAWTLY-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B00NVAWTLY-es'
 tags: [  ]

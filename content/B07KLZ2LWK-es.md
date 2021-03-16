@@ -5,7 +5,7 @@ date: 2020-04-16 18:13:02
 image: 'https://m.media-amazon.com/images/I/413QWLsiqmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KLZ2LWK-es BRIKSMAX Kit de Iluminación Led para Barco En Botella-...'
 sku: 'B07KLZ2LWK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 07:17:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51a2SwZ0wDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMKJMRL-es deAO Juego de Tiro al Blanco Conjunto de Ballesta Juguete...'
 sku: 'B07PMKJMRL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-25 18:07:59
 image: 'https://m.media-amazon.com/images/I/416dAZWgdZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN3QCJG-es JACK JONES Jorflash Crew Neck Hombre Azul Sea Mossno Badge...'
 sku: 'B07VN3QCJG-es'
 tags: [  ]

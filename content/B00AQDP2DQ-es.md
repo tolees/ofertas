@@ -5,7 +5,7 @@ date: 2020-01-23 18:50:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513VLeB8dqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AQDP2DQ-es L Oréal Paris Color Riche Quad Pro S4 - Sombra de ojos'
 sku: 'B00AQDP2DQ-es'
 tags: [  ]

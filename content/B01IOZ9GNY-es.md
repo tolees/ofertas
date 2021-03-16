@@ -5,7 +5,7 @@ date: 2020-03-25 21:54:06
 image: 'https://m.media-amazon.com/images/I/31P-wHKH-dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IOZ9GNY-es AUKEY Lámpara LED plegable de mesa con pinza brazo...'
 sku: 'B01IOZ9GNY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-08 23:43:11
 image: 'https://m.media-amazon.com/images/I/4110WYrI8KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JGODETK-es Emporio Armani Reloj para Hombre de Cuarzo con Correa en...'
 sku: 'B00JGODETK-es'
 tags: [  ]

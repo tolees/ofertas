@@ -5,7 +5,7 @@ date: 2020-01-23 16:36:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-asnCUHQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWRKH2K-es flintronic Portefeuille en Cuir Rosé Etui RFID Blocage...'
 sku: 'B07VWRKH2K-es'
 tags: [  ]

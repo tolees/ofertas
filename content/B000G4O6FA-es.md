@@ -5,7 +5,7 @@ date: 2020-09-02 12:42:00
 image: 'https://m.media-amazon.com/images/I/41yCJHiV79L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000G4O6FA-es Adidas Kaiser 5 Team Botas de fútbol hombre Multicolor...'
 sku: 'B000G4O6FA-es'
 tags: [  ]

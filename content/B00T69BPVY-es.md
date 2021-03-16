@@ -5,7 +5,7 @@ date: 2020-07-09 23:39:48
 image: 'https://m.media-amazon.com/images/I/41Go6jApMsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T69BPVY-es Chicco TP-8058664042913 Vendor Dispositivo Anti Mosquitos...'
 sku: 'B00T69BPVY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 16:42:42
 image: 'https://m.media-amazon.com/images/I/41Elcj1wnXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BJBWMW-es morpilot Batería 14.4V 2600mah Litio Compatible con Conga...'
 sku: 'B088BJBWMW-es'
 tags: [  ]

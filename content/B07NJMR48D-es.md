@@ -5,7 +5,7 @@ date: 2020-01-02 14:50:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mpiDmpCcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJMR48D-es Vermouth La Copa Blanco - D.O. Jerez - 6 x 750 ml - Total:...'
 sku: 'B07NJMR48D-es'
 tags: [  ]

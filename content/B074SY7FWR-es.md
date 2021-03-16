@@ -5,7 +5,7 @@ date: 2020-08-23 21:11:48
 image: 'https://m.media-amazon.com/images/I/41qremvjSaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074SY7FWR-es Nave Acuatica Hinchable Bestway Wet Jet'
 sku: 'B074SY7FWR-es'
 tags: [  ]

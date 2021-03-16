@@ -5,7 +5,7 @@ date: 2020-08-12 13:06:49
 image: 'https://m.media-amazon.com/images/I/41PKs9HWxDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TMCT3N-es Mandarina Duck MD20 Bandolera Coral'
 sku: 'B085TMCT3N-es'
 tags: [  ]

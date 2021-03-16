@@ -5,7 +5,7 @@ date: 2020-07-19 15:26:54
 image: 'https://m.media-amazon.com/images/I/41lPEogievL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0071T3MOO-es Bosch Professional GSB 12V-15 - Taladro percutor a batería...'
 sku: 'B0071T3MOO-es'
 tags: [  ]

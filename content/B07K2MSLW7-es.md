@@ -5,7 +5,7 @@ date: 2020-09-30 08:19:51
 image: 'https://m.media-amazon.com/images/I/31ULMi0N3cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2MSLW7-es Auriculares urBeats3 con conector Lightning - Amarillo'
 sku: 'B07K2MSLW7-es'
 tags: [  ]

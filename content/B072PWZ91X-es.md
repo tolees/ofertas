@@ -5,7 +5,7 @@ date: 2020-05-24 19:32:40
 image: 'https://m.media-amazon.com/images/I/31-paNrFdqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072PWZ91X-es Blasjø® Juego de 3 espátulas de silicona de cocina con...'
 sku: 'B072PWZ91X-es'
 tags: [  ]

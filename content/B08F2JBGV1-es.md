@@ -5,7 +5,7 @@ date: 2020-08-06 12:18:23
 image: 'https://m.media-amazon.com/images/I/41MAT4l0IrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F2JBGV1-es RECUR Mosasaurus Dinosaur Figurines Jurassic Toys -...'
 sku: 'B08F2JBGV1-es'
 tags: [  ]

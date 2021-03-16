@@ -5,7 +5,7 @@ date: 2020-07-13 12:48:08
 image: 'https://m.media-amazon.com/images/I/31ZmqutnzxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFH672P-es AUKEY Quick Charge 2.0 Bateria Externa 20000mAh Cargador...'
 sku: 'B07KFH672P-es'
 tags: [  ]

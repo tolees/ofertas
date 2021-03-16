@@ -5,7 +5,7 @@ date: 2020-05-30 15:29:42
 image: 'https://m.media-amazon.com/images/I/41Qi2-8lENL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LH5G3Y4-es Intex 57506NP - Set 3 posavasos Unicornio 12 x 20 cm'
 sku: 'B07LH5G3Y4-es'
 tags: [  ]

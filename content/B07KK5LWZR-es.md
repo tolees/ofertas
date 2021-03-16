@@ -5,7 +5,7 @@ date: 2020-02-28 07:57:27
 image: 'https://m.media-amazon.com/images/I/41SBWAXu01L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK5LWZR-es Columbia Caldorado III Zapatillas de Running para Asfalto...'
 sku: 'B07KK5LWZR-es'
 tags: [  ]

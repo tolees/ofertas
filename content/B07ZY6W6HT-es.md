@@ -5,7 +5,7 @@ date: 2020-05-07 17:08:38
 image: 'https://m.media-amazon.com/images/I/618xuNegOQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZY6W6HT-es Kraumi Faro Trabajo LED Focos de Coche 12V Square Faros...'
 sku: 'B07ZY6W6HT-es'
 tags: [  ]

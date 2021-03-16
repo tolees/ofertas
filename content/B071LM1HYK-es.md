@@ -5,7 +5,7 @@ date: 2020-02-26 13:03:09
 image: 'https://m.media-amazon.com/images/I/51dtUvo4eFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LM1HYK-es HP Z4N74AA - Monitor curvo Full HD de 27" 1920 x 1080...'
 sku: 'B071LM1HYK-es'
 tags: [  ]

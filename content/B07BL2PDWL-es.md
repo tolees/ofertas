@@ -5,7 +5,7 @@ date: 2020-01-05 17:06:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41e2jdH9bbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2PDWL-es New Balance 997H Zapatillas para Mujer Gris...'
 sku: 'B07BL2PDWL-es'
 tags: [  ]

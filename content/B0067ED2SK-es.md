@@ -5,7 +5,7 @@ date: 2020-09-29 10:17:44
 image: 'https://m.media-amazon.com/images/I/41tz0FO4y1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0067ED2SK-es K&N PS-7000 filtro de aceite Coche'
 sku: 'B0067ED2SK-es'
 tags: [  ]

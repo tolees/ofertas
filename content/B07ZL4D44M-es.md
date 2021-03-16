@@ -5,7 +5,7 @@ date: 2020-08-17 15:49:15
 image: 'https://m.media-amazon.com/images/I/41bke4xXrxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZL4D44M-es Maxi-Cosi Lara Silla de paseo ligera y reclinable...'
 sku: 'B07ZL4D44M-es'
 tags: [  ]

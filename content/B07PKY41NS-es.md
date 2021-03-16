@@ -5,7 +5,7 @@ date: 2020-02-17 17:05:27
 image: 'https://m.media-amazon.com/images/I/415C5TPpedL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKY41NS-es New Balance 574v2 Zapatillas para Hombre Black Velocity...'
 sku: 'B07PKY41NS-es'
 tags: [  ]

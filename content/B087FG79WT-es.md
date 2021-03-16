@@ -5,7 +5,7 @@ date: 2020-10-05 07:29:35
 image: 'https://m.media-amazon.com/images/I/51HKV1QXWLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087FG79WT-es Libershine Bandas Elásticas Musculación Fitness Cintas...'
 sku: 'B087FG79WT-es'
 tags: [  ]

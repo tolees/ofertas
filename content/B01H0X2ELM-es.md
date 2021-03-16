@@ -5,7 +5,7 @@ date: 2020-10-12 10:23:39
 image: 'https://m.media-amazon.com/images/I/51jWGFfAnXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H0X2ELM-es South Park: Retaguardia En Peligro - Standard Edition'
 sku: 'B01H0X2ELM-es'
 tags: [  ]

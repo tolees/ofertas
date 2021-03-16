@@ -5,7 +5,7 @@ date: 2020-08-03 12:32:07
 image: 'https://m.media-amazon.com/images/I/41f+govlM7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QVTT7-es PUMA Smash V2 Zapatillas Unisex Adulto Negro Black/Hot...'
 sku: 'B07S7QVTT7-es'
 tags: [  ]

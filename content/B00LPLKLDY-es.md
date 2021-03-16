@@ -5,7 +5,7 @@ date: 2020-10-08 14:32:18
 image: 'https://m.media-amazon.com/images/I/41++uiKM5WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LPLKLDY-es Bella Aurora L+ Crema Facial Mujer Anti-Manchas para...'
 sku: 'B00LPLKLDY-es'
 tags: [  ]

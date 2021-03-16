@@ -5,7 +5,7 @@ date: 2020-09-28 08:42:25
 image: 'https://m.media-amazon.com/images/I/516TUIpgMxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGRY3KH-es Funda con Teclado Samsung Galaxy Tab S4 Funda para Samsung...'
 sku: 'B07PGRY3KH-es'
 tags: [  ]

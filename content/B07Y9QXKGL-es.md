@@ -5,7 +5,7 @@ date: 2020-05-28 20:43:44
 image: 'https://m.media-amazon.com/images/I/51YZSJcu3nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9QXKGL-es MUSESHOP Funda para Xiaomi Redmi Note 8 Pro Estuche de...'
 sku: 'B07Y9QXKGL-es'
 tags: [  ]

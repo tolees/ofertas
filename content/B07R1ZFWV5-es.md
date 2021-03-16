@@ -5,7 +5,7 @@ date: 2020-03-06 08:32:36
 image: 'https://m.media-amazon.com/images/I/318OHo3PiiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R1ZFWV5-es Under Armour Rush Leggings Legging Mujer Negro...'
 sku: 'B07R1ZFWV5-es'
 tags: [  ]

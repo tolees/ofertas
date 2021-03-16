@@ -5,7 +5,7 @@ date: 2020-02-03 20:26:01
 image: 'https://m.media-amazon.com/images/I/41o2971JLBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NGUKP67-es G-STAR RAW Rovic Mid Waist Skinny Pantalones Verde Forest...'
 sku: 'B01NGUKP67-es'
 tags: [  ]

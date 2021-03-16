@@ -5,7 +5,7 @@ date: 2020-02-16 14:28:33
 image: 'https://m.media-amazon.com/images/I/41oUne-ShpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012GSPON6-es Original Buff - Knitted & Polar Hat Solid Unisex Adulto...'
 sku: 'B012GSPON6-es'
 tags: [  ]

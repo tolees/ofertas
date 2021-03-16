@@ -5,7 +5,7 @@ date: 2020-08-19 15:12:17
 image: 'https://m.media-amazon.com/images/I/61cxM-KygeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXPTTUS-es muveacoustics A-Star Resistente al Agua portátil...'
 sku: 'B01MXPTTUS-es'
 tags: [  ]

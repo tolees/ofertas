@@ -5,7 +5,7 @@ date: 2020-04-07 16:31:44
 image: 'https://m.media-amazon.com/images/I/512x6dgk0jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWH6PLX-es Nobleza - Rascador de cartón para Gatos. Alfombrilla con...'
 sku: 'B07GWH6PLX-es'
 tags: [  ]

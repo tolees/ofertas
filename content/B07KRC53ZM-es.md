@@ -5,7 +5,7 @@ date: 2020-03-05 13:20:24
 image: 'https://m.media-amazon.com/images/I/41qvS7gDCyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRC53ZM-es New Balance 574v2 Zapatillas para Mujer Gris Grey Grey...'
 sku: 'B07KRC53ZM-es'
 tags: [  ]

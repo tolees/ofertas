@@ -5,7 +5,7 @@ date: 2020-01-15 18:32:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41B9s7rmuZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBSDD5S-es Glucosamina Complex con Condroitina MSM Boswellia y...'
 sku: 'B07DBSDD5S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-25 11:23:03
 image: 'https://m.media-amazon.com/images/I/41nuZTbo0AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0166WY0KQ-es LEVIS FOOTWEAR AND ACCESSORIES Alturas - Cinturón Hombre...'
 sku: 'B0166WY0KQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 13:27:38
 image: 'https://m.media-amazon.com/images/I/51u0O08rmTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086VXWDD4-es 20M Tiras-Led Música Bluetooth TASMOR Tira led RGB 5050...'
 sku: 'B086VXWDD4-es'
 tags: [  ]

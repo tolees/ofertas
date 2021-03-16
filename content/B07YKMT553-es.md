@@ -5,7 +5,7 @@ date: 2020-03-01 09:39:05
 image: 'https://m.media-amazon.com/images/I/31Tt2q1-DxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YKMT553-es Precision Kids Lace'
 sku: 'B07YKMT553-es'
 tags: [  ]

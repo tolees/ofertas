@@ -5,7 +5,7 @@ date: 2020-01-27 20:37:56
 image: 'https://m.media-amazon.com/images/I/41WfgZKrgyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4N3XWC-es Superga 2750 COTU Classic Zapatillas Unisex Azul Azure...'
 sku: 'B07N4N3XWC-es'
 tags: [  ]

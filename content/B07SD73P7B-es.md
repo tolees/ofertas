@@ -5,7 +5,7 @@ date: 2020-10-09 10:52:00
 image: 'https://m.media-amazon.com/images/I/51STiGHmjYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD73P7B-es Dodot Activity Pants Pañal-Braguita Talla 3 156 Pañales...'
 sku: 'B07SD73P7B-es'
 tags: [  ]

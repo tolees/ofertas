@@ -5,7 +5,7 @@ date: 2020-10-02 09:13:17
 image: 'https://m.media-amazon.com/images/I/41iWJsWfk-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018SW6CZ8-es Arena Fundamentals Logo Bañador Hombre Naranja Mango/Royal S'
 sku: 'B018SW6CZ8-es'
 tags: [  ]

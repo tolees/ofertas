@@ -5,7 +5,7 @@ date: 2020-07-12 04:07:39
 image: 'https://m.media-amazon.com/images/I/41AzJrwnwmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0755RYBBG-es Gebildet® Universal 5 Piezas Herramientas de Desmontaje...'
 sku: 'B0755RYBBG-es'
 tags: [  ]

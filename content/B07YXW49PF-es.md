@@ -5,7 +5,7 @@ date: 2020-01-23 10:38:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41M0%2BHPd-ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXW49PF-es SIKAI Case - Cable Phone Magnético de Carga Rápido 3A...'
 sku: 'B07YXW49PF-es'
 tags: [  ]

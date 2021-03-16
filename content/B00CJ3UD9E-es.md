@@ -5,7 +5,7 @@ date: 2020-04-20 15:08:46
 image: 'https://m.media-amazon.com/images/I/516jLHvrSaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CJ3UD9E-es Yellow Cab Soldier 6 Botas militares hombre Marrón Cognac...'
 sku: 'B00CJ3UD9E-es'
 tags: [  ]

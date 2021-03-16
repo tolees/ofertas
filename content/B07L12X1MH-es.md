@@ -5,7 +5,7 @@ date: 2020-06-28 15:04:32
 image: 'https://m.media-amazon.com/images/I/41x+jTzSr3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L12X1MH-es Under Armour UNDKU Rival Parte Superior del Calentamiento...'
 sku: 'B07L12X1MH-es'
 tags: [  ]

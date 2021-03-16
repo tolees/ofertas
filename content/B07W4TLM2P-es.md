@@ -5,7 +5,7 @@ date: 2020-08-13 17:18:53
 image: 'https://m.media-amazon.com/images/I/51cOIMEIsTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4TLM2P-es GHONLZIN Bandeja de Comida Fresca Bandeja Fresca...'
 sku: 'B07W4TLM2P-es'
 tags: [  ]

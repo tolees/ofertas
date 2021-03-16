@@ -5,7 +5,7 @@ date: 2020-09-11 09:16:02
 image: 'https://m.media-amazon.com/images/I/51WHItCEzwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087CSFBTK-es Protector facial de 3 capas con cubierta elástica para el...'
 sku: 'B087CSFBTK-es'
 tags: [  ]

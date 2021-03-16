@@ -5,7 +5,7 @@ date: 2020-04-01 07:45:49
 image: 'https://m.media-amazon.com/images/I/413nlGCnSBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C4EE6L8-es ASUS ROG Sica - Ratón óptico ambidiestro de 5000 DPI color...'
 sku: 'B01C4EE6L8-es'
 tags: [  ]

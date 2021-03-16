@@ -5,7 +5,7 @@ date: 2020-01-14 19:52:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418JoN39uYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CERBVE0-es American Tourister Air Force 1 - Maleta Turquesa Aero...'
 sku: 'B01CERBVE0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 19:01:51
 image: 'https://m.media-amazon.com/images/I/417AC2wSApL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BATTF0-es Philips 12499B2 Vision - Bombilla P21/5W para indicadores...'
 sku: 'B001BATTF0-es'
 tags: [  ]

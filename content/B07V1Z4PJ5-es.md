@@ -5,7 +5,7 @@ date: 2020-07-20 10:33:35
 image: 'https://m.media-amazon.com/images/I/41NZ6C6ro2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1Z4PJ5-es BOSS Octopus Bañador Marrón Dark Brown 204 X-Large para...'
 sku: 'B07V1Z4PJ5-es'
 tags: [  ]

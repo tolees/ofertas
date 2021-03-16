@@ -5,7 +5,7 @@ date: 2020-07-16 22:45:17
 image: 'https://m.media-amazon.com/images/I/31eJbcwjfwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JGFD204-es Bourjois Blur The Lines Corrector Tono 01 Ivory - 28 gr.'
 sku: 'B01JGFD204-es'
 tags: [  ]

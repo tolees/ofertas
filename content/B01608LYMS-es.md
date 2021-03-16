@@ -5,7 +5,7 @@ date: 2020-06-28 20:57:30
 image: 'https://m.media-amazon.com/images/I/61U7ncTLoeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01608LYMS-es Playmobil-6858 Playset Color 6858'
 sku: 'B01608LYMS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-29 08:49:01
 image: 'https://m.media-amazon.com/images/I/31dHHeon6tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J9Q0ZEQ-es Fujifilm Instax Share SP-2 - Impresora para smartphone Plata'
 sku: 'B01J9Q0ZEQ-es'
 tags: [  ]

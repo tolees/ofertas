@@ -5,7 +5,7 @@ date: 2020-05-16 09:41:36
 image: 'https://m.media-amazon.com/images/I/41PcQiKfGdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087NFBWXK-es 50Pcs Tamaño de Cara Libre desechable Azul'
 sku: 'B087NFBWXK-es'
 tags: [  ]

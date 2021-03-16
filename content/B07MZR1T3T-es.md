@@ -5,7 +5,7 @@ date: 2020-10-12 18:02:23
 image: 'https://m.media-amazon.com/images/I/41ZXTZfrZKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZR1T3T-es Vans Ward Hi Platform Sneaker para Mujer Negro Canvas...'
 sku: 'B07MZR1T3T-es'
 tags: [  ]

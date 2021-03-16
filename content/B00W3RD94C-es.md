@@ -5,7 +5,7 @@ date: 2020-07-19 09:58:36
 image: 'https://m.media-amazon.com/images/I/315ow53-zuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W3RD94C-es Joma - Calentador Lycra Record Marino para Hombre'
 sku: 'B00W3RD94C-es'
 tags: [  ]

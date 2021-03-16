@@ -5,7 +5,7 @@ date: 2020-05-21 15:24:26
 image: 'https://m.media-amazon.com/images/I/512SjO+-84L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFZL64H-es Kappa Maglia Replica Home 2019/2020 Unisex Adulto Hombre...'
 sku: 'B07SFZL64H-es'
 tags: [  ]

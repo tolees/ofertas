@@ -5,7 +5,7 @@ date: 2020-01-20 21:17:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ayaS78mtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZV3HX4-es Localizador de llaves'
 sku: 'B077ZV3HX4-es'
 tags: [  ]

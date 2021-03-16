@@ -5,7 +5,7 @@ date: 2020-10-05 19:24:13
 image: 'https://m.media-amazon.com/images/I/61Lj9hRptjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084CVLBNZ-es Aquatic Planet - Pilares Romanos de Coliseo gladiadores...'
 sku: 'B084CVLBNZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 16:16:54
 image: 'https://m.media-amazon.com/images/I/515YUebK9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081B1W4WT-es Fallout Wasteland Warfare Institute Core Box Juego de...'
 sku: 'B081B1W4WT-es'
 tags: [  ]

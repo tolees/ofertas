@@ -5,7 +5,7 @@ date: 2020-08-13 15:24:42
 image: 'https://m.media-amazon.com/images/I/31ZgWoz6rrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0773HDJYM-es AmazonBasics – Cargador USB de pared de dos puertos 2 4...'
 sku: 'B0773HDJYM-es'
 tags: [  ]

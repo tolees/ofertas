@@ -5,7 +5,7 @@ date: 2020-05-03 20:50:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XxADWBSFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAL8Z8D-es find. Top sin Magas de Encaje para Mujer Multicolor...'
 sku: 'B01NAL8Z8D-es'
 tags: [  ]

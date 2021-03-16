@@ -5,7 +5,7 @@ date: 2020-07-07 17:16:02
 image: 'https://m.media-amazon.com/images/I/41HFQSX9g3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RG6CY4L-es Tea Tree Essential Oil 100% puro y natural grado...'
 sku: 'B07RG6CY4L-es'
 tags: [  ]

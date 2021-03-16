@@ -5,7 +5,7 @@ date: 2020-01-24 20:36:26
 image: 'https://m.media-amazon.com/images/I/51gtUcWDdVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCR462N-es Haofy Bombilla Bluetooth Altavoz E26 / E27 RGB Cambio de...'
 sku: 'B07PCR462N-es'
 tags: [  ]

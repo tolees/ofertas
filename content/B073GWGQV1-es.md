@@ -5,7 +5,7 @@ date: 2020-02-12 10:04:45
 image: 'https://m.media-amazon.com/images/I/51y7ovUeNKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073GWGQV1-es Monederos Mujer Piel Carteras Mujer RFID Gran Capacidad...'
 sku: 'B073GWGQV1-es'
 tags: [  ]

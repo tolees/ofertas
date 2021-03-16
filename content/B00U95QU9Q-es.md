@@ -5,7 +5,7 @@ date: 2020-02-28 09:37:25
 image: 'https://m.media-amazon.com/images/I/3118lK7usaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U95QU9Q-es Carita Haute Beaute Corps Sérum Expert Réducteur Contours...'
 sku: 'B00U95QU9Q-es'
 tags: [  ]

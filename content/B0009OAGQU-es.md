@@ -5,7 +5,7 @@ date: 2020-02-15 21:58:26
 image: 'https://m.media-amazon.com/images/I/31-ldD0MBPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009OAGQU-es Calvin Klein 8Q1013000 Eau de perfume para mujer 50 ml'
 sku: 'B0009OAGQU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-26 22:15:22
 image: 'https://m.media-amazon.com/images/I/41lxVRccsbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8WCG4Y-es HBselect 10 Pares Calcetines Mujer Cortos Algodon...'
 sku: 'B07D8WCG4Y-es'
 tags: [  ]

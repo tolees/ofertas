@@ -5,7 +5,7 @@ date: 2020-09-22 21:30:38
 image: 'https://m.media-amazon.com/images/I/51J6H1N158L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VVZPO3G-es Belkin B2A075-C00 - Funda Estuche para Chromebook de 11"...'
 sku: 'B00VVZPO3G-es'
 tags: [  ]

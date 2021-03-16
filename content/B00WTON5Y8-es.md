@@ -5,7 +5,7 @@ date: 2020-07-04 18:31:56
 image: 'https://m.media-amazon.com/images/I/41dIlmseKgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WTON5Y8-es FLOSO - Chanclas/Sandalias Diseño Bandera de Reino Unido -...'
 sku: 'B00WTON5Y8-es'
 tags: [  ]

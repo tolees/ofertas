@@ -5,7 +5,7 @@ date: 2020-10-04 18:55:45
 image: 'https://m.media-amazon.com/images/I/31KSZCEhtAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HY23DXC-es Lee Rider Tonal Jeans Noir Black Rinse 47 34W / 34L para...'
 sku: 'B01HY23DXC-es'
 tags: [  ]

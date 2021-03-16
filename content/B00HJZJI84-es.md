@@ -5,7 +5,7 @@ date: 2020-09-09 19:00:54
 image: 'https://m.media-amazon.com/images/I/419ZyUW0XnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HJZJI84-es StarTech.com USB3S2SAT3CB - Adaptador USB 3.0-2.5" SATA...'
 sku: 'B00HJZJI84-es'
 tags: [  ]

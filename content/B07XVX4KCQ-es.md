@@ -5,7 +5,7 @@ date: 2020-05-26 07:31:45
 image: 'https://m.media-amazon.com/images/I/41MakkG15nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVX4KCQ-es Pantene 3 Minute Miracle Suave y Liso Pelo Apagado y...'
 sku: 'B07XVX4KCQ-es'
 tags: [  ]

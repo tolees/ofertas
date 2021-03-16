@@ -5,7 +5,7 @@ date: 2020-07-20 13:39:39
 image: 'https://m.media-amazon.com/images/I/413JS105IGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC11M9D-es PUMA Vista Zapatillas Unisex-Adulto Negro Black...'
 sku: 'B07DC11M9D-es'
 tags: [  ]

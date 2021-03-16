@@ -5,7 +5,7 @@ date: 2020-09-22 07:07:23
 image: 'https://m.media-amazon.com/images/I/41-jLLUMl1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002ZDFPL4-es HP AU656AA - Cable antirrobo Negro Metálico 250g HP...'
 sku: 'B002ZDFPL4-es'
 tags: [  ]

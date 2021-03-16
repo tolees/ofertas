@@ -5,7 +5,7 @@ date: 2020-06-25 15:38:58
 image: 'https://m.media-amazon.com/images/I/5133SMa6NkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LC54KN1-es Z-Man Games-Más allá de Baker Street-Español Color ZM7670ES'
 sku: 'B07LC54KN1-es'
 tags: [  ]

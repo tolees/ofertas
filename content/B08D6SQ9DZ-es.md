@@ -5,7 +5,7 @@ date: 2020-09-10 17:27:50
 image: 'https://m.media-amazon.com/images/I/41bs9pdLXkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6SQ9DZ-es 5 PCS Salvaorejas de Mascarillas Extensor Ajustable Correa...'
 sku: 'B08D6SQ9DZ-es'
 tags: [  ]

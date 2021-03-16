@@ -5,7 +5,7 @@ date: 2020-01-31 09:10:37
 image: 'https://m.media-amazon.com/images/I/41BDuI+Fr3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZC9TDB-es Pioneer TS-WX300A Subwoofer Negro'
 sku: 'B077ZC9TDB-es'
 tags: [  ]

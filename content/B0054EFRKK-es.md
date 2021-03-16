@@ -5,7 +5,7 @@ date: 2020-02-03 23:40:25
 image: 'https://m.media-amazon.com/images/I/41OrpUDRn9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0054EFRKK-es Bausch & Lomb - PureVision 2 Esféricas - Lentes de Contacto'
 sku: 'B0054EFRKK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-01 14:44:16
 image: 'https://m.media-amazon.com/images/I/21pF3BymrYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AGAG2T2-es Campingaz Coolbag Nevera Flexible 13 l KÃ¼hltasche Carry...'
 sku: 'B00AGAG2T2-es'
 tags: [  ]

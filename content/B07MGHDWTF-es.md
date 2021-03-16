@@ -5,7 +5,7 @@ date: 2020-01-24 11:13:05
 image: 'https://m.media-amazon.com/images/I/41EtdGVuuCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGHDWTF-es Gant 3-Pack Trunk Seasonal Solid Calzoncillos Rojo...'
 sku: 'B07MGHDWTF-es'
 tags: [  ]

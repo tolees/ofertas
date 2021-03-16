@@ -5,7 +5,7 @@ date: 2020-07-28 12:44:42
 image: 'https://m.media-amazon.com/images/I/418MqhA+HRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LB48NXE-es Taurus Pulsar Turbo-948.969 Aspirador de Trineo sin bolsa...'
 sku: 'B01LB48NXE-es'
 tags: [  ]

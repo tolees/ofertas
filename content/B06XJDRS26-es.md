@@ -5,7 +5,7 @@ date: 2020-02-12 19:45:16
 image: 'https://m.media-amazon.com/images/I/41Y8uBUD8vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJDRS26-es AiSi - Cartera de mano para mujer rojo rosso Talla única'
 sku: 'B06XJDRS26-es'
 tags: [  ]

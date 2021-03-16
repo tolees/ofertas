@@ -5,7 +5,7 @@ date: 2020-10-05 23:54:23
 image: 'https://m.media-amazon.com/images/I/51gmoyQlXWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFQ81Z6-es LIGE Relojes para Hombre Cronógrafo Impermeable Dorado...'
 sku: 'B07XFQ81Z6-es'
 tags: [  ]

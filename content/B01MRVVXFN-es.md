@@ -5,7 +5,7 @@ date: 2020-05-22 14:46:05
 image: 'https://m.media-amazon.com/images/I/41i5E309e1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRVVXFN-es G-STAR RAW Lynn Mid Waist Skinny Jeans Ajustados Azul lt...'
 sku: 'B01MRVVXFN-es'
 tags: [  ]

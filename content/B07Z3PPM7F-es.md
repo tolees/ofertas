@@ -5,7 +5,7 @@ date: 2020-06-22 21:47:46
 image: 'https://m.media-amazon.com/images/I/41gkv3kAjFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3PPM7F-es VARLION LW TI 8.8 ROJA 2020'
 sku: 'B07Z3PPM7F-es'
 tags: [  ]

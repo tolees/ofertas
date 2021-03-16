@@ -5,7 +5,7 @@ date: 2020-02-17 10:47:15
 image: 'https://m.media-amazon.com/images/I/51WA9tnN1+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FQBXKLY-es Máscara de calavera sangrienta adulto Halloweeen'
 sku: 'B00FQBXKLY-es'
 tags: [  ]

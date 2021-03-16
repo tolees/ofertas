@@ -5,7 +5,7 @@ date: 2020-01-31 02:59:16
 image: 'https://m.media-amazon.com/images/I/514nvUCgnkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9FFYJJ-es Timex Reloj de Pulsera TW2R96300'
 sku: 'B07N9FFYJJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 15:58:35
 image: 'https://m.media-amazon.com/images/I/41IFiWajBEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYCX78C-es L Oréal Paris Make-up designer X Isabel Marant "Palais...'
 sku: 'B07FYCX78C-es'
 tags: [  ]

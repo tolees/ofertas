@@ -5,7 +5,7 @@ date: 2020-05-12 19:41:23
 image: 'https://m.media-amazon.com/images/I/31nVoWlR5HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLTR3HK-es VERSACE JEANS COUTURE Pantaloni Sportivi Pantalones de...'
 sku: 'B07NLTR3HK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-07 18:47:25
 image: 'https://m.media-amazon.com/images/I/31NTlRizS0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000A2WO8O-es Wahl HomePro Basic - Cortapelos con forma ergonómica'
 sku: 'B000A2WO8O-es'
 tags: [  ]

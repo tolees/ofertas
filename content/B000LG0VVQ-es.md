@@ -5,7 +5,7 @@ date: 2020-06-06 17:26:17
 image: 'https://m.media-amazon.com/images/I/515dxH0UnyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LG0VVQ-es Silverline 633524 - Grapadora/clavadora neumática 50 mm...'
 sku: 'B000LG0VVQ-es'
 tags: [  ]

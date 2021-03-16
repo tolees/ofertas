@@ -5,7 +5,7 @@ date: 2020-02-04 09:47:58
 image: 'https://m.media-amazon.com/images/I/514W+jqJTEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072VJF13Q-es Buff Neper Gorro Tricot Y Polar Unisex Adulto Violet Talla...'
 sku: 'B072VJF13Q-es'
 tags: [  ]

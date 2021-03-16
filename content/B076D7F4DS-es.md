@@ -5,7 +5,7 @@ date: 2020-06-26 10:03:41
 image: 'https://m.media-amazon.com/images/I/41FFNTWRelL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076D7F4DS-es iWALK 20000mAh Alta Capacidad Móvil Batería Externa Power...'
 sku: 'B076D7F4DS-es'
 tags: [  ]

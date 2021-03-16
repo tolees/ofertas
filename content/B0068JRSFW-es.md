@@ -5,7 +5,7 @@ date: 2020-04-14 00:19:50
 image: 'https://m.media-amazon.com/images/I/61MRch3s4QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0068JRSFW-es Ravensburger- Dinosaurier Memory diseño Dinosaurios...'
 sku: 'B0068JRSFW-es'
 tags: [  ]

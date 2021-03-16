@@ -5,7 +5,7 @@ date: 2020-04-29 21:08:10
 image: 'https://m.media-amazon.com/images/I/41y43tuZ+WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FD2YQ40-es prorelax TENS y EMS SuperDuo PLUS - Aparato de...'
 sku: 'B01FD2YQ40-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-02 05:26:46
 image: 'https://m.media-amazon.com/images/I/51q3+QYpqAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NA6JS6Q-es Yimidear Al Aire Libre Respirable Plegable Bolsa para...'
 sku: 'B01NA6JS6Q-es'
 tags: [  ]

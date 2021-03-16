@@ -5,7 +5,7 @@ date: 2020-10-08 02:19:38
 image: 'https://m.media-amazon.com/images/I/41Cgc+Z03QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004UQDF0C-es Superga 2750 Zapatillas Unisex Adulto Gris Grey Stone 36 EU'
 sku: 'B004UQDF0C-es'
 tags: [  ]

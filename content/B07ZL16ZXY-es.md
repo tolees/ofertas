@@ -5,7 +5,7 @@ date: 2020-06-08 12:01:47
 image: 'https://m.media-amazon.com/images/I/41PG3CtSdTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZL16ZXY-es perfk 14-42"LCD LED Soporte Flexible Estante De Hierro...'
 sku: 'B07ZL16ZXY-es'
 tags: [  ]

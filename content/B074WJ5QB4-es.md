@@ -5,7 +5,7 @@ date: 2020-03-26 12:54:40
 image: 'https://m.media-amazon.com/images/I/41ozsmNckWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074WJ5QB4-es Creative Labs Halo - Altavoz Inalámbrico portable con...'
 sku: 'B074WJ5QB4-es'
 tags: [  ]

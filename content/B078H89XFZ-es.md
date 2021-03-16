@@ -5,7 +5,7 @@ date: 2020-09-23 14:35:08
 image: 'https://m.media-amazon.com/images/I/51fZye-eP1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078H89XFZ-es Wilson WTX0523KIT Set de Pelota de Voleibol Playa y...'
 sku: 'B078H89XFZ-es'
 tags: [  ]

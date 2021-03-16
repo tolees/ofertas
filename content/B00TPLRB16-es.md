@@ -5,7 +5,7 @@ date: 2020-06-21 19:31:42
 image: 'https://m.media-amazon.com/images/I/51XFG3BgXnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TPLRB16-es Sabrent Funda rígida a prueba de golpes EVA para disco...'
 sku: 'B00TPLRB16-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 20:32:19
 image: 'https://m.media-amazon.com/images/I/31OisdFjBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y7T7XZ-es HP ENVY 500 - Ratón inalámbrico recargable 1600 ppp sensor...'
 sku: 'B077Y7T7XZ-es'
 tags: [  ]

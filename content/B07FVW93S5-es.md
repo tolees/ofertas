@@ -5,7 +5,7 @@ date: 2020-03-28 23:58:48
 image: 'https://m.media-amazon.com/images/I/41IIqEtJI9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FVW93S5-es PAMEX - Cubo Galvanizado 5L con Abridor'
 sku: 'B07FVW93S5-es'
 tags: [  ]

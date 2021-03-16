@@ -5,7 +5,7 @@ date: 2020-07-21 06:03:48
 image: 'https://m.media-amazon.com/images/I/41Tqg1paTtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GY3ZD1-es Polaroid Originals - 4671 - Película Negro y Blanco para...'
 sku: 'B075GY3ZD1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 17:03:50
 image: 'https://m.media-amazon.com/images/I/31zWCEYZ8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KLHFEUS-es Lacoste YH4801 Polo Blanco Blanc XL para Hombre'
 sku: 'B00KLHFEUS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-14 22:07:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51LPAbHYRKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005C7S5BC-es Stargate Atlantis - Die komplette Kollektion [Alemania] [DVD]'
 sku: 'B005C7S5BC-es'
 tags: [  ]

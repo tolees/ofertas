@@ -5,7 +5,7 @@ date: 2020-05-16 17:13:05
 image: 'https://m.media-amazon.com/images/I/41vDWrvolFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0158ERETM-es Rowenta IPL Instant Soft Compact EP9600 - Depiladora de...'
 sku: 'B0158ERETM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-20 10:25:37
 image: 'https://m.media-amazon.com/images/I/517CScT-0UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005IFJC38-es Disney Store The Lion King 14 Pumbaa Plush Stuffed Animal...'
 sku: 'B005IFJC38-es'
 tags: [  ]

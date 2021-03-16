@@ -5,7 +5,7 @@ date: 2020-05-25 08:58:35
 image: 'https://m.media-amazon.com/images/I/41LkUlRjY5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4FCGND-es Maleta de cabina Pepe Jeans Bristol Verde rígida 55cm'
 sku: 'B07B4FCGND-es'
 tags: [  ]

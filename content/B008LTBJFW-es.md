@@ -5,7 +5,7 @@ date: 2020-09-21 04:31:14
 image: 'https://m.media-amazon.com/images/I/51K3JqmalCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008LTBJFW-es Crucial CT2K8G3S160BM - Kit de Memoria para Mac de 16 GB 8...'
 sku: 'B008LTBJFW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 07:18:59
 image: 'https://m.media-amazon.com/images/I/61PHc19MV1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJY5GST-es BOSHUN Pintar por Numeros para Adultos Niños Pintura por...'
 sku: 'B07BJY5GST-es'
 tags: [  ]

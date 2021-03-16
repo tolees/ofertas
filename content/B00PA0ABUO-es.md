@@ -5,7 +5,7 @@ date: 2020-07-22 14:43:26
 image: 'https://m.media-amazon.com/images/I/317mE7fHwoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PA0ABUO-es American Crew Cera Liquida Fijación Media y Brillo Medio...'
 sku: 'B00PA0ABUO-es'
 tags: [  ]

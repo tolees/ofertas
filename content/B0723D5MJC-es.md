@@ -5,7 +5,7 @@ date: 2020-01-25 20:17:57
 image: 'https://m.media-amazon.com/images/I/51MfT+OB61L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0723D5MJC-es Anpollo Alfombrilla Raton Ordenador XXL Gaming Grande...'
 sku: 'B0723D5MJC-es'
 tags: [  ]

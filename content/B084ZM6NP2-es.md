@@ -5,7 +5,7 @@ date: 2020-03-16 08:50:03
 image: 'https://m.media-amazon.com/images/I/41RMVszzTEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZM6NP2-es Rowenta RR6927MP Smart Force Essential - Robot Aspirador...'
 sku: 'B084ZM6NP2-es'
 tags: [  ]

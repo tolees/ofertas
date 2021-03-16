@@ -5,7 +5,7 @@ date: 2020-05-27 06:29:07
 image: 'https://m.media-amazon.com/images/I/21Np0XR6fSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY84ZMV-es Philips MUE4088RT - Bombilla Wi-Fi E27 Led Controlada de...'
 sku: 'B07PY84ZMV-es'
 tags: [  ]

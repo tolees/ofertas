@@ -5,7 +5,7 @@ date: 2020-02-08 15:05:26
 image: 'https://m.media-amazon.com/images/I/41n32ZdnUAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFFMZYJ-es SONARIN Saco Silla de Paseo universal Impermeable y a...'
 sku: 'B07ZFFMZYJ-es'
 tags: [  ]

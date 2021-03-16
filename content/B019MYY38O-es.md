@@ -5,7 +5,7 @@ date: 2020-06-21 20:20:50
 image: 'https://m.media-amazon.com/images/I/31qHQHNXDDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019MYY38O-es Objetivo Olympus M.Zuiko Digital ED 300 mm F4.0 Pro...'
 sku: 'B019MYY38O-es'
 tags: [  ]

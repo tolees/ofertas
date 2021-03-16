@@ -5,7 +5,7 @@ date: 2020-01-23 09:37:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31huNH5Mr3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ7XGVW-es Lacoste Carnaby EVO Light-WT 1193 SFA Zapatillas para...'
 sku: 'B07DJ7XGVW-es'
 tags: [  ]

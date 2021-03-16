@@ -5,7 +5,7 @@ date: 2020-02-17 21:51:19
 image: 'https://m.media-amazon.com/images/I/41xE6SGd4mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZLMH17-es Kickers Jawa Zapatillas para Bebés Azul Marine 10 18 EU'
 sku: 'B07MZLMH17-es'
 tags: [  ]

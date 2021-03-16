@@ -5,7 +5,7 @@ date: 2020-10-06 15:38:46
 image: 'https://m.media-amazon.com/images/I/41mLtd6Ju9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072VBKZ8T-es Oral-B Sensi Ultrathin head - Cabezales de Recambio Blanco...'
 sku: 'B072VBKZ8T-es'
 tags: [  ]

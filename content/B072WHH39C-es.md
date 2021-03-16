@@ -5,7 +5,7 @@ date: 2020-06-30 19:03:13
 image: 'https://m.media-amazon.com/images/I/31YLQZE80WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072WHH39C-es CLP Baúl De Almacenamiento Millie I Consola Baúl De Madera...'
 sku: 'B072WHH39C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 18:51:16
 image: 'https://m.media-amazon.com/images/I/51SOPE+i5bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074XKH12D-es Iberitos - 216 Monodosis de Humus Crema de Garbanzos - 22...'
 sku: 'B074XKH12D-es'
 tags: [  ]

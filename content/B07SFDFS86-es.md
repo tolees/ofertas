@@ -5,7 +5,7 @@ date: 2020-03-07 12:55:04
 image: 'https://m.media-amazon.com/images/I/519e-mIxISL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFDFS86-es E·Durable 5pcs 125mm Alicates tenaza Para el mantenimiento...'
 sku: 'B07SFDFS86-es'
 tags: [  ]

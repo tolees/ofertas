@@ -5,7 +5,7 @@ date: 2020-06-25 10:24:56
 image: 'https://m.media-amazon.com/images/I/41IWlvx4ZGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3H6XN1-es Under Armour Golf Headline 3.0 C Gorra con Logo Frontal...'
 sku: 'B07J3H6XN1-es'
 tags: [  ]

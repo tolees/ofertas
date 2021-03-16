@@ -5,7 +5,7 @@ date: 2020-04-16 17:59:43
 image: 'https://m.media-amazon.com/images/I/418SIjlcD0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9KM82V-es Broche Pin simulado Azabache Figa Hand Evil Eye Protection...'
 sku: 'B07B9KM82V-es'
 tags: [  ]

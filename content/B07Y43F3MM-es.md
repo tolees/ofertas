@@ -5,7 +5,7 @@ date: 2020-01-24 09:54:08
 image: 'https://m.media-amazon.com/images/I/51nyKLws0WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y43F3MM-es Parfois - Clutch - Bandolera Efecto Serpiente - Mujeres -...'
 sku: 'B07Y43F3MM-es'
 tags: [  ]

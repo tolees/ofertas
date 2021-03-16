@@ -5,7 +5,7 @@ date: 2020-10-12 04:57:42
 image: 'https://m.media-amazon.com/images/I/41+MXZfVcIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3ZGBWY-es Bonsenkitchen Termómetro Digital de Cocina para Carne...'
 sku: 'B07F3ZGBWY-es'
 tags: [  ]

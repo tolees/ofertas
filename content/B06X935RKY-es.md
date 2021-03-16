@@ -5,7 +5,7 @@ date: 2020-09-22 07:10:02
 image: 'https://m.media-amazon.com/images/I/41Q2ZjInd1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X935RKY-es Merrell Moab 2 GTX Zapatillas de Senderismo para Hombre...'
 sku: 'B06X935RKY-es'
 tags: [  ]

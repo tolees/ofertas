@@ -5,7 +5,7 @@ date: 2020-04-01 12:43:40
 image: 'https://m.media-amazon.com/images/I/41D0ldumKLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q6NWB5T-es Dockers by Gerli 36ht039 Zapatillas para Hombre Negro...'
 sku: 'B07Q6NWB5T-es'
 tags: [  ]

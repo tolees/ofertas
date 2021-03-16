@@ -5,7 +5,7 @@ date: 2020-09-25 21:59:08
 image: 'https://m.media-amazon.com/images/I/41R2xsYxX3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757VXH7V-es Carcasa con certificación militar para Apple iPhone'
 sku: 'B0757VXH7V-es'
 tags: [  ]

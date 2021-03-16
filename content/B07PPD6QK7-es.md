@@ -5,7 +5,7 @@ date: 2020-04-16 08:59:54
 image: 'https://m.media-amazon.com/images/I/5134P4uwB5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPD6QK7-es Juego de herramientas de 65 piezas DEKO Kit de...'
 sku: 'B07PPD6QK7-es'
 tags: [  ]

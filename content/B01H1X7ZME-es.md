@@ -5,7 +5,7 @@ date: 2020-01-22 14:58:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51VCEN9N4kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H1X7ZME-es Panama Jack Piola Botas Altas para Mujer Marrón Cuero B8...'
 sku: 'B01H1X7ZME-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-26 13:46:15
 image: 'https://m.media-amazon.com/images/I/31Z-LIfBZiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0892LMQJX-es luosh 10 Hojas de Papel de calco de vitela translúcido A4...'
 sku: 'B0892LMQJX-es'
 tags: [  ]

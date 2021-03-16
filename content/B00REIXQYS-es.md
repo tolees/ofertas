@@ -5,7 +5,7 @@ date: 2020-05-22 11:02:32
 image: 'https://m.media-amazon.com/images/I/51wLL6eBq5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00REIXQYS-es Reifen-Markt Funda de la Almohada 40x40cm Balonmano Fútbol...'
 sku: 'B00REIXQYS-es'
 tags: [  ]

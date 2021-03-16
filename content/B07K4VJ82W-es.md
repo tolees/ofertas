@@ -5,7 +5,7 @@ date: 2020-08-06 16:25:20
 image: 'https://m.media-amazon.com/images/I/31Yp5xsXXVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4VJ82W-es BOSS Schino-Slim D Pantalones Beige Open Beige 280 W42/L34...'
 sku: 'B07K4VJ82W-es'
 tags: [  ]

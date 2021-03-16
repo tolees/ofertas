@@ -5,7 +5,7 @@ date: 2020-01-15 14:45:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RIVZRRJmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WX2PW7L-es 1 par de manetas de freno de embrague de 7/8 pulgadas...'
 sku: 'B07WX2PW7L-es'
 tags: [  ]

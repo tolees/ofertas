@@ -5,7 +5,7 @@ date: 2020-10-10 19:19:43
 image: 'https://m.media-amazon.com/images/I/41odeAyRFXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QLCWLV-es Lotus Watches Reloj Análogo clásico para Hombre de Cuarzo...'
 sku: 'B077QLCWLV-es'
 tags: [  ]

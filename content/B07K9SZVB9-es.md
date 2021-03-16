@@ -5,7 +5,7 @@ date: 2020-04-09 08:47:12
 image: 'https://m.media-amazon.com/images/I/51CBOc4OXwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K9SZVB9-es Pearl Garland – Carrete redondo de perlas para...'
 sku: 'B07K9SZVB9-es'
 tags: [  ]

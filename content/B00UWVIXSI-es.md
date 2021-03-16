@@ -5,7 +5,7 @@ date: 2020-07-25 11:59:24
 image: 'https://m.media-amazon.com/images/I/31TKWUavbNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UWVIXSI-es Rowenta Intense Pure Air PU6020 Purificador de Aire XL...'
 sku: 'B00UWVIXSI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 09:39:36
 image: 'https://m.media-amazon.com/images/I/41aHEQV0dNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KP7D1R-es SanDisk Ultra Flair Memoria Flash USB 3.0 de 64 GB con...'
 sku: 'B075KP7D1R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-01 12:00:32
 image: 'https://m.media-amazon.com/images/I/31M8RgFbzNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PQB2HC-es Masajeador Cuero Cabelludo FReatech [Mojado & Seco]...'
 sku: 'B077PQB2HC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-19 17:20:26
 image: 'https://m.media-amazon.com/images/I/41eNl8ZMmdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VK1S9DS-es Zhiyun Crane M2 Gimbal Estabilizador de cardán de Mano de...'
 sku: 'B07VK1S9DS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-16 12:38:28
 image: 'https://m.media-amazon.com/images/I/41WFxb6RniL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087M4B5RS-es ikeepi 100 unidades desechables Mund-Nasen-Schutz 3-lagig...'
 sku: 'B087M4B5RS-es'
 tags: [  ]

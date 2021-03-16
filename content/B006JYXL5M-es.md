@@ -5,7 +5,7 @@ date: 2020-01-22 16:08:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31IO1T7XL%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006JYXL5M-es El motor eléctrico se basa leche Nuby Natural Touch'
 sku: 'B006JYXL5M-es'
 tags: [  ]

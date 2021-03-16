@@ -5,7 +5,7 @@ date: 2020-04-26 16:04:12
 image: 'https://m.media-amazon.com/images/I/31-nHXSivHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWBB566-es Helly Hansen Tokyo Hoodie Hombre White XL'
 sku: 'B07KWBB566-es'
 tags: [  ]

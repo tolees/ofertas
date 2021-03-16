@@ -5,7 +5,7 @@ date: 2020-01-14 06:47:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61A79HIo0ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBP4D64-es Aquabeads- Disney Princess playset Epoch para Imaginar 30228'
 sku: 'B01NBP4D64-es'
 tags: [  ]

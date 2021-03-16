@@ -5,7 +5,7 @@ date: 2020-07-25 04:35:16
 image: 'https://m.media-amazon.com/images/I/41G8YZLqdFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H3R3M0C-es Speedo Teamster 35L Mochilas y Bolsas Unisex Adulto Black M'
 sku: 'B01H3R3M0C-es'
 tags: [  ]

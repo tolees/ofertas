@@ -5,7 +5,7 @@ date: 2020-01-21 07:21:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NxxaiJi1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG6MPR5-es PUMA ICRA Trainer SD Jr Zapatillas Unisex Niños Peacoat-...'
 sku: 'B07KG6MPR5-es'
 tags: [  ]

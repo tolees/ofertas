@@ -5,7 +5,7 @@ date: 2020-08-15 11:33:22
 image: 'https://m.media-amazon.com/images/I/51kNyUF14UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKQMLGP-es HHUIWIND Funda Xiaomi Redmi 9 + Cristal Templado Protector...'
 sku: 'B08DKQMLGP-es'
 tags: [  ]

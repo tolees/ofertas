@@ -5,7 +5,7 @@ date: 2020-03-16 17:49:24
 image: 'https://m.media-amazon.com/images/I/51HZGcpPROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XNRY95-es Zapatillas de Baloncesto para Hombres Damas Deportes al...'
 sku: 'B082XNRY95-es'
 tags: [  ]

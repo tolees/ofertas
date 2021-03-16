@@ -5,7 +5,7 @@ date: 2020-02-22 10:33:33
 image: 'https://m.media-amazon.com/images/I/41mhTD9Eu-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG5BDXQ-es New Balance Fuell Cell Propel Zapatillas de Running para...'
 sku: 'B07HG5BDXQ-es'
 tags: [  ]

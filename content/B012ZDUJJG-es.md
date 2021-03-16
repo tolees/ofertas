@@ -5,7 +5,7 @@ date: 2020-04-17 08:48:34
 image: 'https://m.media-amazon.com/images/I/415M+9gZzWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012ZDUJJG-es LEADSTAR Kinds Funda para Samsung Galaxy Tab A 9.7 caso...'
 sku: 'B012ZDUJJG-es'
 tags: [  ]

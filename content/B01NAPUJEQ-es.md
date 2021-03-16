@@ -5,7 +5,7 @@ date: 2020-05-15 11:32:12
 image: 'https://m.media-amazon.com/images/I/41GHMWq4kUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAPUJEQ-es Reloj para hombre Tommy Hilfiger 1791346.'
 sku: 'B01NAPUJEQ-es'
 tags: [  ]

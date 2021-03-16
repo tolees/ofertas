@@ -5,7 +5,7 @@ date: 2020-03-29 19:31:49
 image: 'https://m.media-amazon.com/images/I/31Pn7KUsNkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I0QGMBW-es RICOO Soporte de Techo TV Inclinable y Giratorio D0122...'
 sku: 'B00I0QGMBW-es'
 tags: [  ]

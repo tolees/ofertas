@@ -5,7 +5,7 @@ date: 2020-07-23 14:02:59
 image: 'https://m.media-amazon.com/images/I/51iX+voBeZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4NKFDL-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B07G4NKFDL-es'
 tags: [  ]

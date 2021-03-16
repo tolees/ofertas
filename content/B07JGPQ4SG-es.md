@@ -5,7 +5,7 @@ date: 2020-02-20 20:24:26
 image: 'https://m.media-amazon.com/images/I/41A64G5S9vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGPQ4SG-es STAR WARS Pijamas para Niños 2 Paquetes La Guerra de Las...'
 sku: 'B07JGPQ4SG-es'
 tags: [  ]

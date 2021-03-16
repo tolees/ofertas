@@ -5,7 +5,7 @@ date: 2020-10-05 17:05:42
 image: 'https://m.media-amazon.com/images/I/41G2EvEN35L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XR2SPQY-es Marca Amazon - FIND Shoe Boot Botas Marrón Chocolate Croc...'
 sku: 'B07XR2SPQY-es'
 tags: [  ]

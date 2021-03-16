@@ -5,7 +5,7 @@ date: 2020-05-28 10:05:04
 image: 'https://m.media-amazon.com/images/I/316-zll0vVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084Z2JRDL-es Popular Baby Kids Bath LED Dolphin Light Lámpara Lovely...'
 sku: 'B084Z2JRDL-es'
 tags: [  ]

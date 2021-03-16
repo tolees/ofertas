@@ -5,7 +5,7 @@ date: 2020-09-11 14:50:47
 image: 'https://m.media-amazon.com/images/I/31ZQ4oFDjGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CUJQ7UG-es Samsung HS130 - Auriculares de botón con micrófono control...'
 sku: 'B00CUJQ7UG-es'
 tags: [  ]

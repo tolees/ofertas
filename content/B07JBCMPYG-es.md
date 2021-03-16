@@ -5,7 +5,7 @@ date: 2020-04-26 18:31:46
 image: 'https://m.media-amazon.com/images/I/415NKMFOoxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBCMPYG-es Energy Urban Box 7 BassTube Altavoz portátil con Sonido...'
 sku: 'B07JBCMPYG-es'
 tags: [  ]

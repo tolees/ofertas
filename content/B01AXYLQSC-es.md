@@ -5,7 +5,7 @@ date: 2020-06-25 21:01:01
 image: 'https://m.media-amazon.com/images/I/51FXzvhwlML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AXYLQSC-es Reloj para Hombre Colección Epoca Movimiento de Cuarzo...'
 sku: 'B01AXYLQSC-es'
 tags: [  ]

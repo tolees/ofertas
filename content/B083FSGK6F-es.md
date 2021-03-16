@@ -5,7 +5,7 @@ date: 2020-04-15 00:42:23
 image: 'https://m.media-amazon.com/images/I/41TPmCf3upL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FSGK6F-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars...'
 sku: 'B083FSGK6F-es'
 tags: [  ]

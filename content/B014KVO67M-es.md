@@ -5,7 +5,7 @@ date: 2020-05-04 08:06:07
 image: 'https://m.media-amazon.com/images/I/414ZqaRwuwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014KVO67M-es Nostalgic-Art 48016 - Llavero Redondo Forma de tacómetro...'
 sku: 'B014KVO67M-es'
 tags: [  ]

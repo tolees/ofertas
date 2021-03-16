@@ -5,7 +5,7 @@ date: 2020-08-26 13:15:39
 image: 'https://m.media-amazon.com/images/I/415PLCW6BjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ESXN4IK-es Generic PB20586 Adaptador de Cable Mini HDMI HDMI Negro -...'
 sku: 'B00ESXN4IK-es'
 tags: [  ]

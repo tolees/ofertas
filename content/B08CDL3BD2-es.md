@@ -5,7 +5,7 @@ date: 2020-08-25 15:58:32
 image: 'https://m.media-amazon.com/images/I/51gTdZUbQWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDL3BD2-es VZATT Abridor de latas Manual 2020 Nueva Go Swing Topless...'
 sku: 'B08CDL3BD2-es'
 tags: [  ]

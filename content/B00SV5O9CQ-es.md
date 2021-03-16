@@ -5,7 +5,7 @@ date: 2020-04-30 22:19:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51j--i-k%2BUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SV5O9CQ-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B00SV5O9CQ-es'
 tags: [  ]

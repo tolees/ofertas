@@ -5,7 +5,7 @@ date: 2020-04-04 10:03:17
 image: 'https://m.media-amazon.com/images/I/41agWQmaxLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBKH7QN-es Luces Solares 【1200lm 5200mAh Potente Versión 2 Piezas】...'
 sku: 'B07SBKH7QN-es'
 tags: [  ]

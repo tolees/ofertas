@@ -5,7 +5,7 @@ date: 2020-06-01 11:54:40
 image: 'https://m.media-amazon.com/images/I/41vVl1+PCJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZW4PL77-es Love Beauty and Planet Acondicionador aceite de coco y de...'
 sku: 'B07ZW4PL77-es'
 tags: [  ]

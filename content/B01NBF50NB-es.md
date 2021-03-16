@@ -5,7 +5,7 @@ date: 2020-02-26 12:37:33
 image: 'https://m.media-amazon.com/images/I/41cenNXc9xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBF50NB-es Dickies New York Short Pantalones Cortos para Hombre...'
 sku: 'B01NBF50NB-es'
 tags: [  ]

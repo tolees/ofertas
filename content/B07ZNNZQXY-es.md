@@ -5,7 +5,7 @@ date: 2020-04-16 09:09:02
 image: 'https://m.media-amazon.com/images/I/51JWM+elOCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNNZQXY-es BRIKSMAX Kit de Iluminación Led para Lego Technic Bugatti...'
 sku: 'B07ZNNZQXY-es'
 tags: [  ]

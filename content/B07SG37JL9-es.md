@@ -5,7 +5,7 @@ date: 2020-03-04 12:37:12
 image: 'https://m.media-amazon.com/images/I/41sTlbVWv5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SG37JL9-es Auriculares Skullcandy Venue Active Cancelación Ruido...'
 sku: 'B07SG37JL9-es'
 tags: [  ]

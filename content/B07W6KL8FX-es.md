@@ -5,7 +5,7 @@ date: 2020-03-05 09:51:20
 image: 'https://m.media-amazon.com/images/I/51UQzxBAfPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6KL8FX-es Fivejoy Coche Teledirigido 1:28 RC Coche 15km/h Stunt...'
 sku: 'B07W6KL8FX-es'
 tags: [  ]

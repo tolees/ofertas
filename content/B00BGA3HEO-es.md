@@ -5,7 +5,7 @@ date: 2020-06-25 14:13:46
 image: 'https://m.media-amazon.com/images/I/41R0aFNgE-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BGA3HEO-es Coleman 48 Qt Nevera Rígida Unisex Azul M'
 sku: 'B00BGA3HEO-es'
 tags: [  ]

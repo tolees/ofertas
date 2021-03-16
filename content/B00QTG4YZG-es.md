@@ -5,7 +5,7 @@ date: 2020-05-12 16:21:36
 image: 'https://m.media-amazon.com/images/I/51Vyl4ta0QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QTG4YZG-es Algon AB126 Barbacoa desecheable Gris 24x31x4.5 cm'
 sku: 'B00QTG4YZG-es'
 tags: [  ]

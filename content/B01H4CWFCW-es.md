@@ -5,7 +5,7 @@ date: 2020-09-04 11:39:13
 image: 'https://m.media-amazon.com/images/I/41b+ggHy-TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H4CWFCW-es PUMA Tazon 6 FM Zapatillas para Correr de Carretera para...'
 sku: 'B01H4CWFCW-es'
 tags: [  ]

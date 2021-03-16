@@ -5,7 +5,7 @@ date: 2020-03-09 12:49:36
 image: 'https://m.media-amazon.com/images/I/51r70xl4NLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CM1RQA2-es Jacques Lemans Smart Watch Armbanduhr 1-1770F'
 sku: 'B00CM1RQA2-es'
 tags: [  ]

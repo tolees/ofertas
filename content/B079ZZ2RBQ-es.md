@@ -5,7 +5,7 @@ date: 2019-12-31 19:41:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4167AWAU%2B4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZZ2RBQ-es VAIRO Short Columns XXL'
 sku: 'B079ZZ2RBQ-es'
 tags: [  ]

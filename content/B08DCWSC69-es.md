@@ -5,7 +5,7 @@ date: 2020-08-17 17:45:43
 image: 'https://m.media-amazon.com/images/I/31J1INAX+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DCWSC69-es Ocobudbxw Rociador de Agua Aspersor Niños Diversión al...'
 sku: 'B08DCWSC69-es'
 tags: [  ]

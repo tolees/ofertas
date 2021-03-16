@@ -5,7 +5,7 @@ date: 2020-06-10 11:42:12
 image: 'https://m.media-amazon.com/images/I/41InO5pfwtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W5K2STO-es adidas GT SN Bra Sujetador Mujer Negro Black/Black XS'
 sku: 'B00W5K2STO-es'
 tags: [  ]

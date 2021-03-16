@@ -5,7 +5,7 @@ date: 2020-03-02 14:40:16
 image: 'https://m.media-amazon.com/images/I/51JcDp2OEYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WOMCHP8-es Crema Repelente Mosquitos - Repelente de Insectos para...'
 sku: 'B00WOMCHP8-es'
 tags: [  ]

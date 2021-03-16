@@ -5,7 +5,7 @@ date: 2020-03-01 12:55:25
 image: 'https://m.media-amazon.com/images/I/31RAi+7NiHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFQTY9L-es G-STAR RAW Vetar Slim Chino Pantalones Gris Asfalt...'
 sku: 'B07QFQTY9L-es'
 tags: [  ]

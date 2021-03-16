@@ -5,7 +5,7 @@ date: 2020-01-21 13:02:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41m-oVyQUqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014RD18XI-es Elten 2062237 - Luis s3 tamaño 49 zapato de seguridad'
 sku: 'B014RD18XI-es'
 tags: [  ]

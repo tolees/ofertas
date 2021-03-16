@@ -5,7 +5,7 @@ date: 2020-01-02 18:36:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51844JlFY2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1QVQW-es PUMA Speed Orbiter Zapatillas de Running para Hombre High...'
 sku: 'B07KG1QVQW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-22 19:16:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412UaHBR-nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NWITLAW-es STANLEY FATMAX FMST1-72383 - Maleta para herramientas con...'
 sku: 'B00NWITLAW-es'
 tags: [  ]

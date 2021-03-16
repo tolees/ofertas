@@ -5,7 +5,7 @@ date: 2020-08-09 12:01:07
 image: 'https://m.media-amazon.com/images/I/41Zx2yZvROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3HHN7F-es Bidé de Viaje Portátil Dalmo DDB01S3 Bidet de Viaje...'
 sku: 'B07Z3HHN7F-es'
 tags: [  ]

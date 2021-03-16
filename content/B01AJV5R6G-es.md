@@ -5,7 +5,7 @@ date: 2020-08-24 19:31:05
 image: 'https://m.media-amazon.com/images/I/61EDwAc3wYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AJV5R6G-es Zooloretto junior'
 sku: 'B01AJV5R6G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-27 16:34:00
 image: 'https://m.media-amazon.com/images/I/413cqc-K4XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SX8FPWO-es adidas Solid Crew Calcetines Unisex Adulto blanco / negro...'
 sku: 'B00SX8FPWO-es'
 tags: [  ]

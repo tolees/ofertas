@@ -5,7 +5,7 @@ date: 2020-01-03 12:34:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hoxtD3E3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6M4KW6-es KLIM Fusion Auriculares Audio - De Larga Duración + 5 Años...'
 sku: 'B07W6M4KW6-es'
 tags: [  ]

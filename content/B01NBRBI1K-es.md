@@ -5,7 +5,7 @@ date: 2020-02-27 13:42:54
 image: 'https://m.media-amazon.com/images/I/41fqKfmRAcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBRBI1K-es Lacoste 2000987 - Reloj analógico de pulsera para mujer'
 sku: 'B01NBRBI1K-es'
 tags: [  ]

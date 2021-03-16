@@ -5,7 +5,7 @@ date: 2020-04-17 18:39:03
 image: 'https://m.media-amazon.com/images/I/41Q-NWp1ieL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3XHF18-es HALUM Cámara IP WiFi 1080P Home Security Vigilancia cámara...'
 sku: 'B07R3XHF18-es'
 tags: [  ]

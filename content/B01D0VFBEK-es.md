@@ -5,7 +5,7 @@ date: 2020-09-11 10:23:12
 image: 'https://m.media-amazon.com/images/I/41M9AniDDjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D0VFBEK-es Princess 102210 Mini Table Chef Plancha Pequeña y Cuadrada...'
 sku: 'B01D0VFBEK-es'
 tags: [  ]

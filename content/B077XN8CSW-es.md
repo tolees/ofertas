@@ -5,7 +5,7 @@ date: 2020-04-06 16:08:22
 image: 'https://m.media-amazon.com/images/I/31z3FWYAJjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XN8CSW-es Under Armour Unstoppable Move Pant Pantalones Hombre Negro...'
 sku: 'B077XN8CSW-es'
 tags: [  ]

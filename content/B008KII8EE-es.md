@@ -5,7 +5,7 @@ date: 2020-03-13 11:01:43
 image: 'https://m.media-amazon.com/images/I/31QnQUqOQKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008KII8EE-es Medela Top sujetador extración de leche manos libres talla L'
 sku: 'B008KII8EE-es'
 tags: [  ]

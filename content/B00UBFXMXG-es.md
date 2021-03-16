@@ -5,7 +5,7 @@ date: 2020-07-16 16:54:27
 image: 'https://m.media-amazon.com/images/I/41fXEupFvaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UBFXMXG-es UCEC Panel Frontal USB 3.0 Panel Hub Metal de 5.23...'
 sku: 'B00UBFXMXG-es'
 tags: [  ]

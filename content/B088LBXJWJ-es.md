@@ -5,7 +5,7 @@ date: 2020-09-15 15:33:36
 image: 'https://m.media-amazon.com/images/I/51-g9CJMQlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LBXJWJ-es Suhctup Funda Compatible con UMIDIGI A5 Pro Transparente...'
 sku: 'B088LBXJWJ-es'
 tags: [  ]

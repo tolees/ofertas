@@ -5,7 +5,7 @@ date: 2020-01-11 09:51:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PkKQxNNaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVX3CCX-es Naf Naf Bitrendy Impermeable Beige Trench 1585 38 para Mujer'
 sku: 'B07MVX3CCX-es'
 tags: [  ]

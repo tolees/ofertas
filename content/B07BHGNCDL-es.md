@@ -5,7 +5,7 @@ date: 2020-06-13 17:31:40
 image: 'https://m.media-amazon.com/images/I/41Aafhwc2LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHGNCDL-es ghd mini - Plancha de pelo profesional con placas finas de...'
 sku: 'B07BHGNCDL-es'
 tags: [  ]

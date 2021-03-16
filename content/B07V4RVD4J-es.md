@@ -5,7 +5,7 @@ date: 2020-03-12 17:37:42
 image: 'https://m.media-amazon.com/images/I/51go6dhWY8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4RVD4J-es Calvin Klein - Primary L 5cc W/Coin Carteras Hombre Negro...'
 sku: 'B07V4RVD4J-es'
 tags: [  ]

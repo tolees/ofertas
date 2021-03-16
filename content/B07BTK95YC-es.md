@@ -5,7 +5,7 @@ date: 2020-06-17 19:34:52
 image: 'https://m.media-amazon.com/images/I/31o6ozg3qdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BTK95YC-es Razer Abyssus Essential - Gaming Raton color negro'
 sku: 'B07BTK95YC-es'
 tags: [  ]

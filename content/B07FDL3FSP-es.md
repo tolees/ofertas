@@ -5,7 +5,7 @@ date: 2020-06-17 08:13:59
 image: 'https://m.media-amazon.com/images/I/41qUGqOsXdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDL3FSP-es Polaroid Pop 2.0 Cámara digital de impresión instantánea...'
 sku: 'B07FDL3FSP-es'
 tags: [  ]

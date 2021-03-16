@@ -5,7 +5,7 @@ date: 2020-07-05 11:36:25
 image: 'https://m.media-amazon.com/images/I/41yH-v5s8zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OP27HTG-es Orbegozo MIG 2031 - Microondas con grill 700 W 20 L 9...'
 sku: 'B00OP27HTG-es'
 tags: [  ]

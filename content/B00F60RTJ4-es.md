@@ -5,7 +5,7 @@ date: 2020-01-14 13:30:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/315KXOlIqyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F60RTJ4-es Equip 625423 - Cable de Red 0 25 m Cat6 U/UTP UTP RJ-45...'
 sku: 'B00F60RTJ4-es'
 tags: [  ]

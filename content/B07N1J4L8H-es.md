@@ -5,7 +5,7 @@ date: 2020-01-17 16:35:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mpuvE48QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1J4L8H-es Clarks Un Maui Lace Zapatillas para Mujer Gris Grey...'
 sku: 'B07N1J4L8H-es'
 tags: [  ]

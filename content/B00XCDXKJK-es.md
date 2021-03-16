@@ -5,7 +5,7 @@ date: 2020-07-12 14:10:00
 image: 'https://m.media-amazon.com/images/I/51aIsPxTPqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XCDXKJK-es SADES SA901 7.1 de Sonido Envolvente estéreo Pro USB PC...'
 sku: 'B00XCDXKJK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-20 14:46:04
 image: 'https://m.media-amazon.com/images/I/51S2ozuLXLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZGKD48-es FSXMPL Pintura por NúMeros NiñOs para Adultos...'
 sku: 'B08BZGKD48-es'
 tags: [  ]

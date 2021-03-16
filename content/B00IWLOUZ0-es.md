@@ -5,7 +5,7 @@ date: 2020-02-19 13:52:37
 image: 'https://m.media-amazon.com/images/I/41XFNX9GjVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IWLOUZ0-es Bosch TDI903239A Sensixx x DI90 - Plancha de inyección...'
 sku: 'B00IWLOUZ0-es'
 tags: [  ]

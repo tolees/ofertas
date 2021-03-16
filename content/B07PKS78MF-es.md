@@ -5,7 +5,7 @@ date: 2020-08-28 17:01:17
 image: 'https://m.media-amazon.com/images/I/51UiYC2+B6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKS78MF-es ADATA 480GB SD600Q Unidad Externa de Estado sólido USB 3.1...'
 sku: 'B07PKS78MF-es'
 tags: [  ]

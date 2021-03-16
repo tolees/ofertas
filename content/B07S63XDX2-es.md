@@ -5,7 +5,7 @@ date: 2020-07-16 10:05:15
 image: 'https://m.media-amazon.com/images/I/41xv3z+cH5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S63XDX2-es Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas...'
 sku: 'B07S63XDX2-es'
 tags: [  ]

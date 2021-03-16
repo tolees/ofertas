@@ -5,7 +5,7 @@ date: 2020-03-18 23:11:25
 image: 'https://m.media-amazon.com/images/I/5132AELj1CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GAYQKY-es Reloj CASIO G-SHOCK DW-5600E-1V Cronógrafo Alarma Cuenta...'
 sku: 'B000GAYQKY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 05:22:36
 image: 'https://m.media-amazon.com/images/I/31kS0SPVLTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WW1CGFZ-es Klarstein KonfiStar 40 olla para confituras - caldera de...'
 sku: 'B07WW1CGFZ-es'
 tags: [  ]

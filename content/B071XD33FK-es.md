@@ -5,7 +5,7 @@ date: 2020-07-12 10:24:15
 image: 'https://m.media-amazon.com/images/I/41rOuFsTEXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XD33FK-es Funko Pop! - Figura de Vinilo Watcher 22613'
 sku: 'B071XD33FK-es'
 tags: [  ]

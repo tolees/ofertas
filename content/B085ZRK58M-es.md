@@ -5,7 +5,7 @@ date: 2020-05-07 10:53:21
 image: 'https://m.media-amazon.com/images/I/31JQRHbghXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZRK58M-es MarinoBIRD T10 3PCS Rectangle Plastic Webcam Cover Ultra-...'
 sku: 'B085ZRK58M-es'
 tags: [  ]

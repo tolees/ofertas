@@ -5,7 +5,7 @@ date: 2020-07-11 18:22:58
 image: 'https://m.media-amazon.com/images/I/31eyGvbptAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ6RDBD-es B Blesiya 2 Pcs Disquetes USB Tornillos con Jumpers...'
 sku: 'B07KQ6RDBD-es'
 tags: [  ]

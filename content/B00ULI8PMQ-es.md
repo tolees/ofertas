@@ -5,7 +5,7 @@ date: 2020-06-02 08:34:38
 image: 'https://m.media-amazon.com/images/I/41bafY-i-rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ULI8PMQ-es Samsonite Neopulse - Spinner XL Maleta 81 cm 124 L Negro...'
 sku: 'B00ULI8PMQ-es'
 tags: [  ]

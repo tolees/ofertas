@@ -5,7 +5,7 @@ date: 2020-09-22 09:39:51
 image: 'https://m.media-amazon.com/images/I/31buHi2ea6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076NH6TSZ-es Fellowes - Platinum Series - Soporte De Monitor Individual...'
 sku: 'B076NH6TSZ-es'
 tags: [  ]

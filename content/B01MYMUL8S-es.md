@@ -5,7 +5,7 @@ date: 2020-09-20 08:22:44
 image: 'https://m.media-amazon.com/images/I/516-Dp0PauL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYMUL8S-es Vaultskin Eton Armour - Funda de cuero para iPhone 7 cognac'
 sku: 'B01MYMUL8S-es'
 tags: [  ]

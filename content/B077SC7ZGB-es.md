@@ -5,7 +5,7 @@ date: 2020-01-07 21:07:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CiB0nKcqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SC7ZGB-es CITIZEN Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B077SC7ZGB-es'
 tags: [  ]

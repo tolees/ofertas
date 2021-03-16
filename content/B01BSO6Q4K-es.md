@@ -5,7 +5,7 @@ date: 2020-02-13 09:54:50
 image: 'https://m.media-amazon.com/images/I/31APK9d+NuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSO6Q4K-es Philips Pro HPS930/40 - Plancha de Pelo Profesional Placas...'
 sku: 'B01BSO6Q4K-es'
 tags: [  ]

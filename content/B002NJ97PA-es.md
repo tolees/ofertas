@@ -5,7 +5,7 @@ date: 2020-01-13 13:45:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JJGuhfoCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002NJ97PA-es Captain Morgan Private Stock - 1 x 1 l'
 sku: 'B002NJ97PA-es'
 tags: [  ]

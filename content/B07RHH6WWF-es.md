@@ -5,7 +5,7 @@ date: 2020-04-07 18:31:20
 image: 'https://m.media-amazon.com/images/I/41nsIYKNsDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHH6WWF-es El clip del oído de las Estrellas Ninguna Perforación...'
 sku: 'B07RHH6WWF-es'
 tags: [  ]

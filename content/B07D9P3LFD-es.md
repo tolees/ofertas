@@ -5,7 +5,7 @@ date: 2020-07-29 12:51:05
 image: 'https://m.media-amazon.com/images/I/41dsdxrhX3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9P3LFD-es Lámpara de Lupa LED Plegable 5X Luz lupa para Escritorio...'
 sku: 'B07D9P3LFD-es'
 tags: [  ]

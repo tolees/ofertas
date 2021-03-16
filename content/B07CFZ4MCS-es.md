@@ -5,7 +5,7 @@ date: 2020-01-07 16:26:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QtfEIL4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CFZ4MCS-es JACK & JONES Jjeholmen Sweat Pants Noos Pantalones Azul...'
 sku: 'B07CFZ4MCS-es'
 tags: [  ]

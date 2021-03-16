@@ -5,7 +5,7 @@ date: 2020-03-05 08:34:55
 image: 'https://m.media-amazon.com/images/I/51Hp9yuypzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZNWZY5-es GSOTTA Calcetines premium 10 paquetes calcetines de...'
 sku: 'B07WZNWZY5-es'
 tags: [  ]

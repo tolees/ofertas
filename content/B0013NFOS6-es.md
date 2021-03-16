@@ -5,7 +5,7 @@ date: 2020-02-19 06:06:34
 image: 'https://m.media-amazon.com/images/I/41fDpO0855L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0013NFOS6-es NUK First Choice+ - Pack de 2 tetinas de látex talla M 0-6...'
 sku: 'B0013NFOS6-es'
 tags: [  ]

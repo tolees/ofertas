@@ -5,7 +5,7 @@ date: 2020-04-29 17:39:03
 image: 'https://m.media-amazon.com/images/I/41Vo3cdA2hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4Y4NSX-es TOUCHBeauty Limpiador Facial Sónico 2 en 1 con Masaje...'
 sku: 'B07B4Y4NSX-es'
 tags: [  ]

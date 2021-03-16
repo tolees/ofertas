@@ -5,7 +5,7 @@ date: 2020-03-30 07:38:12
 image: 'https://m.media-amazon.com/images/I/41YN46jp5oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WTWRJK-es Sony SRSXB41R - Altavoz portátil Bluetooth Extra Bass Modo...'
 sku: 'B078WTWRJK-es'
 tags: [  ]

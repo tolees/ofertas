@@ -5,7 +5,7 @@ date: 2020-06-28 16:40:31
 image: 'https://m.media-amazon.com/images/I/51LWjFyyzFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKKX9VQ-es La Casa de Caramelo - Español'
 sku: 'B07MKKX9VQ-es'
 tags: [  ]

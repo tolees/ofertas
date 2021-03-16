@@ -5,7 +5,7 @@ date: 2020-03-14 09:04:50
 image: 'https://m.media-amazon.com/images/I/41UyW5Cp38L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0014FR6GG-es Cinereplicas - Harry Potter - Bufanda - Licencia Oficial -...'
 sku: 'B0014FR6GG-es'
 tags: [  ]

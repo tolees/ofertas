@@ -5,7 +5,7 @@ date: 2020-04-03 10:11:30
 image: 'https://m.media-amazon.com/images/I/41Bu+hP2LBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC6F2HT-es cámara Oculta del Altavoz del Bluetooth cámara Nana...'
 sku: 'B07MC6F2HT-es'
 tags: [  ]

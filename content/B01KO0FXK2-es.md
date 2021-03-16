@@ -5,7 +5,7 @@ date: 2020-04-05 20:46:07
 image: 'https://m.media-amazon.com/images/I/41SYHrQNnjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KO0FXK2-es Chasen Bambú Herramienta Batidor de Polvo Matcha Té...'
 sku: 'B01KO0FXK2-es'
 tags: [  ]

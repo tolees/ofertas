@@ -5,7 +5,7 @@ date: 2020-05-12 05:56:31
 image: 'https://m.media-amazon.com/images/I/51QvGy2qngL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRSYVJM-es Adidas Duramo 9 K Zapatillas de Deporte Unisex Adulto Azul...'
 sku: 'B07DRSYVJM-es'
 tags: [  ]

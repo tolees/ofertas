@@ -5,7 +5,7 @@ date: 2020-03-18 12:42:54
 image: 'https://m.media-amazon.com/images/I/3115-2uGbgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005OYBRCW-es Roncato Maleta Pequeña XS Rigida Light - Cabina cm. 55 x...'
 sku: 'B005OYBRCW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-14 09:02:57
 image: 'https://m.media-amazon.com/images/I/310HdE+7l5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZXMMQ1M-es IPOTCH Silicona Superior/Inferior Falsos Carillas...'
 sku: 'B07ZXMMQ1M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-16 12:43:17
 image: 'https://m.media-amazon.com/images/I/41CyY3Jtu0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DNA3EIY-es Terry - Armario plástico exterior 89.7 x 53.7 x 180 cm'
 sku: 'B00DNA3EIY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 12:43:48
 image: 'https://m.media-amazon.com/images/I/41Yiq8ovbsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07641TGTQ-es Funko Pop!- Sonic: Dr. Eggman Figura de Vinilo 20149'
 sku: 'B07641TGTQ-es'
 tags: [  ]

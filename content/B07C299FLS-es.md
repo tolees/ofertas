@@ -5,7 +5,7 @@ date: 2020-04-20 10:38:51
 image: 'https://m.media-amazon.com/images/I/41HAA2Oil7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C299FLS-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter Azul...'
 sku: 'B07C299FLS-es'
 tags: [  ]

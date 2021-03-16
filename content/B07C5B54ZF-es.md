@@ -5,7 +5,7 @@ date: 2020-02-12 10:01:12
 image: 'https://m.media-amazon.com/images/I/21Cw7vpZ7GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5B54ZF-es Flamenco Sala'
 sku: 'B07C5B54ZF-es'
 tags: [  ]

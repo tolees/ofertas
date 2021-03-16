@@ -5,7 +5,7 @@ date: 2020-05-11 16:08:12
 image: 'https://m.media-amazon.com/images/I/31z8JPsnlCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9T9LLL-es PUMA Teamgoal 23 Knit Shorts Pantalones Cortos Hombre Black M'
 sku: 'B07X9T9LLL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 17:04:29
 image: 'https://m.media-amazon.com/images/I/310ecxpWK4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UJJKCL4-es Ciroc Pineapple Vodka - 700 ml'
 sku: 'B00UJJKCL4-es'
 tags: [  ]

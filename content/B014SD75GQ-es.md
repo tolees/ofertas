@@ -5,7 +5,7 @@ date: 2020-06-17 08:29:53
 image: 'https://m.media-amazon.com/images/I/41cZL11zwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014SD75GQ-es Nike MD Runner 2 PSV Zapatillas Unisex Niños Negro Black...'
 sku: 'B014SD75GQ-es'
 tags: [  ]

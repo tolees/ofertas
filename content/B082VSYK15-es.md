@@ -5,7 +5,7 @@ date: 2020-08-11 09:23:43
 image: 'https://m.media-amazon.com/images/I/51J60RiPMiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VSYK15-es Haribo Favoritos Pica Caramelos de Goma - 275 gr'
 sku: 'B082VSYK15-es'
 tags: [  ]

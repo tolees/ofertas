@@ -5,7 +5,7 @@ date: 2020-05-09 08:07:26
 image: 'https://m.media-amazon.com/images/I/41zU9lz0jzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MPS3RBS-es Kickers Oxfordchic Botas Slouch para Mujer Negro Noir Perm...'
 sku: 'B07MPS3RBS-es'
 tags: [  ]

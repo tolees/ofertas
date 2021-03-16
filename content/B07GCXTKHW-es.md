@@ -5,7 +5,7 @@ date: 2020-07-30 20:41:18
 image: 'https://m.media-amazon.com/images/I/518WPUSjy3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCXTKHW-es BERSIGAR Reloj Deportivo de Cuarzo analógico Negro con...'
 sku: 'B07GCXTKHW-es'
 tags: [  ]

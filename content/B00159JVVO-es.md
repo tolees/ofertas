@@ -5,7 +5,7 @@ date: 2020-05-27 16:16:20
 image: 'https://m.media-amazon.com/images/I/51PveaW6ciL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00159JVVO-es Gillette venus breeze - Cuchillas de recambio para...'
 sku: 'B00159JVVO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 17:53:52
 image: 'https://m.media-amazon.com/images/I/31207UGI0CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BVPJCHB-es CERRXIAN Cable adaptador RJ45 uno-dos nuevo El adaptador...'
 sku: 'B07BVPJCHB-es'
 tags: [  ]

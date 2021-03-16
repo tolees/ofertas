@@ -5,7 +5,7 @@ date: 2020-07-05 10:03:39
 image: 'https://m.media-amazon.com/images/I/51MCyCjr-DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088RHKT79-es Alfombrilla De Planchar Portátil Manta De Planchar Lana...'
 sku: 'B088RHKT79-es'
 tags: [  ]

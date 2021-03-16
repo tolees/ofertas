@@ -5,7 +5,7 @@ date: 2020-09-21 15:02:52
 image: 'https://m.media-amazon.com/images/I/412ZfxFHq0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8G81WM-es 2015 PVC Pasaporte Titular Cubierta Identidad ID Tarjeta...'
 sku: 'B07M8G81WM-es'
 tags: [  ]

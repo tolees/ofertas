@@ -5,7 +5,7 @@ date: 2020-09-06 10:59:45
 image: 'https://m.media-amazon.com/images/I/3116b3zWFIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RVCRD14-es Diesel ShoesBoldmessage Bold Back IiHombreMochilasAzul...'
 sku: 'B07RVCRD14-es'
 tags: [  ]

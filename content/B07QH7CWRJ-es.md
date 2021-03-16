@@ -5,7 +5,7 @@ date: 2020-05-07 21:16:42
 image: 'https://m.media-amazon.com/images/I/519AovN63KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH7CWRJ-es PRIMENATURE Energy Shot. Energía y vitaminas. Suplemento...'
 sku: 'B07QH7CWRJ-es'
 tags: [  ]

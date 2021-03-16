@@ -5,7 +5,7 @@ date: 2020-07-06 15:46:48
 image: 'https://m.media-amazon.com/images/I/417YROhzBGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075D3JNKH-es Naipo Respaldo de Masaje Pro Shiatsu Asiento Masajeador...'
 sku: 'B075D3JNKH-es'
 tags: [  ]

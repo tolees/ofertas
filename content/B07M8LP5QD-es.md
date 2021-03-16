@@ -5,7 +5,7 @@ date: 2020-02-09 12:34:28
 image: 'https://m.media-amazon.com/images/I/51gA0g7ST6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8LP5QD-es Bandas elasticas musculación con asas | Gomas elasticas...'
 sku: 'B07M8LP5QD-es'
 tags: [  ]

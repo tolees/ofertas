@@ -5,7 +5,7 @@ date: 2020-09-24 05:18:34
 image: 'https://m.media-amazon.com/images/I/21ew01OU3GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RE3OMA-es Brabantia 363603 Cucharón sopero Acero Inoxidable Gris y...'
 sku: 'B000RE3OMA-es'
 tags: [  ]

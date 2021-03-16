@@ -5,7 +5,7 @@ date: 2020-07-26 15:37:48
 image: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N194KRG-es G-STAR RAW 3301 Slim Fit Jeans Negro Antic Charcoal 30W /...'
 sku: 'B07N194KRG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-12 11:05:08
 image: 'https://m.media-amazon.com/images/I/41S7pjyDTOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X95QGZJ-es DOBEN - Barra de dominadas Profesional telescópica para...'
 sku: 'B06X95QGZJ-es'
 tags: [  ]

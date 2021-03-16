@@ -5,7 +5,7 @@ date: 2020-09-22 17:41:18
 image: 'https://m.media-amazon.com/images/I/31FXViOyOLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFL491H-es HUGO Astian/hets184 Traje Beige Medium Beige 266 102 para...'
 sku: 'B07VFL491H-es'
 tags: [  ]

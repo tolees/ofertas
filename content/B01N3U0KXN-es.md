@@ -5,7 +5,7 @@ date: 2020-01-21 00:49:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bdmsw2fFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3U0KXN-es Auna Melodia Radio Dab Bluetooth minicadena con...'
 sku: 'B01N3U0KXN-es'
 tags: [  ]

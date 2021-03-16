@@ -5,7 +5,7 @@ date: 2020-07-14 16:15:56
 image: 'https://m.media-amazon.com/images/I/41sJbAuIfuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BCN36FW-es Interruptor de reinicio del botón Interruptor de circuito...'
 sku: 'B08BCN36FW-es'
 tags: [  ]

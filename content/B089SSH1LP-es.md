@@ -5,7 +5,7 @@ date: 2020-09-23 06:21:35
 image: 'https://m.media-amazon.com/images/I/31TRzqIdz2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SSH1LP-es Auriculares inalámbricos Bluetooth Auriculares...'
 sku: 'B089SSH1LP-es'
 tags: [  ]

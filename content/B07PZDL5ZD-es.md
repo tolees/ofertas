@@ -5,7 +5,7 @@ date: 2020-09-22 11:48:20
 image: 'https://m.media-amazon.com/images/I/31ZWAjb8myL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZDL5ZD-es Versión 2019 Dynavap Vapcap M Vaporizador'
 sku: 'B07PZDL5ZD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 14:03:39
 image: 'https://m.media-amazon.com/images/I/51ggjebG-aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYFFYCC-es BOSS Leaffish Bañador Rosa Open Pink 695 Small para Hombre'
 sku: 'B07TYFFYCC-es'
 tags: [  ]

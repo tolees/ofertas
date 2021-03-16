@@ -5,7 +5,7 @@ date: 2020-01-05 20:55:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sfn2f3pQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WVRFGL-es Calvin Klein Unlined Bralette Sujetador sin Aros Negro...'
 sku: 'B078WVRFGL-es'
 tags: [  ]

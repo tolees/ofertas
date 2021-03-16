@@ -5,7 +5,7 @@ date: 2020-08-23 11:42:46
 image: 'https://m.media-amazon.com/images/I/51Ea3eh2l2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTQBLG1-es Mickey Mouse Skater-Bolsa de Deporte'
 sku: 'B07ZTQBLG1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-13 08:03:25
 image: 'https://m.media-amazon.com/images/I/51IXMomIu8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1JCFYM-es cradle HR Funda Protectora para Huawei MediaPad T3 8 de 8...'
 sku: 'B07Z1JCFYM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-17 14:49:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51B38wa5R5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001OBTA2S-es HP 940 - Cabezal de impresión Original HP 940 Magenta y...'
 sku: 'B001OBTA2S-es'
 tags: [  ]

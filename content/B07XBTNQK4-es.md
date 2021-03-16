@@ -5,7 +5,7 @@ date: 2020-01-08 01:01:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Tm8GaSR3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBTNQK4-es Mr. Tronic 10m Cable de Red Ethernet Latiguillo | CAT6...'
 sku: 'B07XBTNQK4-es'
 tags: [  ]

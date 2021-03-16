@@ -5,7 +5,7 @@ date: 2020-04-21 10:03:22
 image: 'https://m.media-amazon.com/images/I/415+eGbu68L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UT2NRDG-es Tommy Hilfiger Bralette Sujetador Deportivo Negro BLACK...'
 sku: 'B00UT2NRDG-es'
 tags: [  ]

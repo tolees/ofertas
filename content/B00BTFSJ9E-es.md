@@ -5,7 +5,7 @@ date: 2020-09-08 17:35:39
 image: 'https://m.media-amazon.com/images/I/31W8do0WzeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BTFSJ9E-es Belkin - Cargador doméstico 5V 1A compatible con Phone 11...'
 sku: 'B00BTFSJ9E-es'
 tags: [  ]

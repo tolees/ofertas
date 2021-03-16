@@ -5,7 +5,7 @@ date: 2020-04-11 04:00:58
 image: 'https://m.media-amazon.com/images/I/41kqFzr5UwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KQF0HKC-es Baby Dan Slim fit - Barrera de seguridad'
 sku: 'B00KQF0HKC-es'
 tags: [  ]

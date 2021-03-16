@@ -5,7 +5,7 @@ date: 2020-05-27 16:14:13
 image: 'https://m.media-amazon.com/images/I/41Qq9C2VwLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKZBWJ6-es adidas Club Tank Top de Tenis Mujer Blanco XS'
 sku: 'B07KKZBWJ6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 23:22:19
 image: 'https://m.media-amazon.com/images/I/51yvVFrJ2CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLBYFC6-es ROMIX Esterilla de Gimnasia Antideslizante Extra Gruesa...'
 sku: 'B07TLBYFC6-es'
 tags: [  ]

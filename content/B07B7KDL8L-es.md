@@ -5,7 +5,7 @@ date: 2020-01-29 19:29:45
 image: 'https://m.media-amazon.com/images/I/31sy2UsrvrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B7KDL8L-es touchbeauty Cejas automática retráctil Pinzas con luz LED...'
 sku: 'B07B7KDL8L-es'
 tags: [  ]

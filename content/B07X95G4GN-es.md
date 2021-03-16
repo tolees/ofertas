@@ -5,7 +5,7 @@ date: 2020-10-02 01:20:56
 image: 'https://m.media-amazon.com/images/I/51eS4I7vJ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X95G4GN-es LIGE Relojes para Hombre Impermeable Acero Inoxidable...'
 sku: 'B07X95G4GN-es'
 tags: [  ]

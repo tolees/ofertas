@@ -5,7 +5,7 @@ date: 2020-04-08 11:23:19
 image: 'https://m.media-amazon.com/images/I/413dLmO4T0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TP46KBJ-es Puma Rebound Layup LO SL Negro 369866 04'
 sku: 'B07TP46KBJ-es'
 tags: [  ]

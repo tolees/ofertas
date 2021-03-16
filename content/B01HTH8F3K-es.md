@@ -5,7 +5,7 @@ date: 2020-02-26 07:20:06
 image: 'https://m.media-amazon.com/images/I/41cDHFP4g+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HTH8F3K-es Anker Altavoz Bluetooth Soundcore Mini Super Altavoz...'
 sku: 'B01HTH8F3K-es'
 tags: [  ]

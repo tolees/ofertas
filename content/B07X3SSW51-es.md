@@ -5,7 +5,7 @@ date: 2020-02-03 09:32:54
 image: 'https://m.media-amazon.com/images/I/51fAtqTX2XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3SSW51-es [2 pack] Funda Apple Watch 44mm Series 4/Series 5...'
 sku: 'B07X3SSW51-es'
 tags: [  ]

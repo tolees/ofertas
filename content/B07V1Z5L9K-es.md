@@ -5,7 +5,7 @@ date: 2020-08-24 19:20:34
 image: 'https://m.media-amazon.com/images/I/4110wVGScwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1Z5L9K-es Nike Pico 5 Gymnastics Shoe Unisex-Child Deep Royal...'
 sku: 'B07V1Z5L9K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 14:46:22
 image: 'https://m.media-amazon.com/images/I/51f3RvXP09L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQ6ZY57-es Wooden-Life - Mesa de cama para ordenador portátil bandeja...'
 sku: 'B07PQ6ZY57-es'
 tags: [  ]

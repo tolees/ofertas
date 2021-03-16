@@ -5,7 +5,7 @@ date: 2020-04-14 09:17:03
 image: 'https://m.media-amazon.com/images/I/41fp7lOKa6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZ1QH61-es Relaxdays Set de 500 Palitos Helado Palos Manualidades...'
 sku: 'B07MZ1QH61-es'
 tags: [  ]

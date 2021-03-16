@@ -5,7 +5,7 @@ date: 2020-04-14 15:23:43
 image: 'https://m.media-amazon.com/images/I/41Vkdl8WevL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019NFPWA0-es HP USB-C to VGA Adapter - Adaptador para cable USB-C VGA...'
 sku: 'B019NFPWA0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-01 11:10:32
 image: 'https://m.media-amazon.com/images/I/41mos-oRXlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVLT3NJ-es Napapijri Eisberg SS Polo Gris Med Grey Mel 160 Small para...'
 sku: 'B07MVLT3NJ-es'
 tags: [  ]

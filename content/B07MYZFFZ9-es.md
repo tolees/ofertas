@@ -5,7 +5,7 @@ date: 2020-08-28 17:26:41
 image: 'https://m.media-amazon.com/images/I/41ZvcHxmWmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYZFFZ9-es Skechers Solar Fuse Zapatillas Deportivas para Mujer...'
 sku: 'B07MYZFFZ9-es'
 tags: [  ]

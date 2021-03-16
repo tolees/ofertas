@@ -5,7 +5,7 @@ date: 2020-05-21 11:06:41
 image: 'https://m.media-amazon.com/images/I/41BQawK7DYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FZSLXJ-es Salomon Wings Flyte 2 GTX Zapatillas de Running para...'
 sku: 'B075FZSLXJ-es'
 tags: [  ]

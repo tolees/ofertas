@@ -5,7 +5,7 @@ date: 2020-05-12 13:05:54
 image: 'https://m.media-amazon.com/images/I/51mpFTQ-vtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GTYB38-es Asalvo 15549 - Andador'
 sku: 'B078GTYB38-es'
 tags: [  ]

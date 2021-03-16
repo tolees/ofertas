@@ -5,7 +5,7 @@ date: 2020-06-19 12:07:18
 image: 'https://m.media-amazon.com/images/I/41OrPb6p4ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KIWRQMK-es Gigandet Reloj de Hombre Automático Sea Ground Reloj de...'
 sku: 'B00KIWRQMK-es'
 tags: [  ]

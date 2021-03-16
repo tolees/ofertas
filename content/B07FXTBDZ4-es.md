@@ -5,7 +5,7 @@ date: 2020-05-29 13:03:29
 image: 'https://m.media-amazon.com/images/I/51CSmGDfgBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXTBDZ4-es Bolsa de Cochecito de Landau Impermeable Diseñado con...'
 sku: 'B07FXTBDZ4-es'
 tags: [  ]

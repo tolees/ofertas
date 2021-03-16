@@ -5,7 +5,7 @@ date: 2020-06-13 17:55:09
 image: 'https://m.media-amazon.com/images/I/31NchyuH-8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ7JLK8-es Tommy Hilfiger Big Flag Cap Gorra de béisbol Azul Blue Cjm...'
 sku: 'B07RJ7JLK8-es'
 tags: [  ]

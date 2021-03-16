@@ -5,7 +5,7 @@ date: 2020-06-29 13:53:13
 image: 'https://m.media-amazon.com/images/I/51QoikExoML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHDBQCN-es CIVO Relojes Mujer Oro Rosa Reloj de Pulsera Mujer...'
 sku: 'B07WHDBQCN-es'
 tags: [  ]

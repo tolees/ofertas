@@ -5,7 +5,7 @@ date: 2020-02-05 15:43:44
 image: 'https://m.media-amazon.com/images/I/31pK7wXpAUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTRNRD4-es FIND - Sunkissed radiance duo - medio Bronceador n.2 +...'
 sku: 'B07CTRNRD4-es'
 tags: [  ]

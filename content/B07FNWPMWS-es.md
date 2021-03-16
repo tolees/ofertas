@@ -5,7 +5,7 @@ date: 2020-07-19 16:34:04
 image: 'https://m.media-amazon.com/images/I/41Y0uWnBXeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNWPMWS-es EXZACT EX17019S3Juego De 3 Maletas Premium De Viaje – 28”...'
 sku: 'B07FNWPMWS-es'
 tags: [  ]

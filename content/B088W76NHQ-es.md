@@ -5,7 +5,7 @@ date: 2020-05-30 17:04:03
 image: 'https://m.media-amazon.com/images/I/41Vm908T5XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088W76NHQ-es Oihxse Cristal Funda Compatible con OPPO Realme 3/Realme...'
 sku: 'B088W76NHQ-es'
 tags: [  ]

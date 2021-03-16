@@ -5,7 +5,7 @@ date: 2020-03-22 01:00:37
 image: 'https://m.media-amazon.com/images/I/41GX28ioAdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0056BPQ7U-es Velleman WIK01N - Cable 715 m Cobre'
 sku: 'B0056BPQ7U-es'
 tags: [  ]

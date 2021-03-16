@@ -5,7 +5,7 @@ date: 2020-09-22 15:03:34
 image: 'https://m.media-amazon.com/images/I/31ZxPDR+IHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08J6RK4FG-es Panamar Bolsa para portátil de 13 Pulgadas Bolsa Repelente...'
 sku: 'B08J6RK4FG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-02 09:51:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Pb3a1vjkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BC58WIE-es Philips GC160/02 - Plancha en seco con suela DynaGlide...'
 sku: 'B00BC58WIE-es'
 tags: [  ]

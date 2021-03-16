@@ -5,7 +5,7 @@ date: 2020-04-16 17:30:46
 image: 'https://m.media-amazon.com/images/I/41Ikis5Uk1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQCVFPK-es ONEMIX - Zapatillas de correr para hombre Air color Azul...'
 sku: 'B07ZQCVFPK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-02 09:31:51
 image: 'https://m.media-amazon.com/images/I/41dQvWoe27L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG4L4LC-es New Balance Fresh Foam Vongo h Zapatillas de Running para...'
 sku: 'B07HG4L4LC-es'
 tags: [  ]

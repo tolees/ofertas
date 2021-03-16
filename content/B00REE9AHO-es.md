@@ -5,7 +5,7 @@ date: 2020-05-28 04:10:31
 image: 'https://m.media-amazon.com/images/I/41jnsplskEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00REE9AHO-es Piquadro BV3148OS/G Trolley para portátiles 38 x 21 x 53...'
 sku: 'B00REE9AHO-es'
 tags: [  ]

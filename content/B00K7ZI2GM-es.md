@@ -5,7 +5,7 @@ date: 2020-09-05 13:07:08
 image: 'https://m.media-amazon.com/images/I/51snP3f116L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K7ZI2GM-es L Oréal Paris Accord Parfait La Poudre D7 Rubor en Polvo -...'
 sku: 'B00K7ZI2GM-es'
 tags: [  ]

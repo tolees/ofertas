@@ -5,7 +5,7 @@ date: 2020-07-22 14:21:06
 image: 'https://m.media-amazon.com/images/I/31aYZvnOUwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008ET5RCK-es Grohe Recambios - Recambio de Teleducha para grifos de...'
 sku: 'B008ET5RCK-es'
 tags: [  ]

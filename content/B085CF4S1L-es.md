@@ -5,7 +5,7 @@ date: 2020-03-15 19:23:08
 image: 'https://m.media-amazon.com/images/I/41EdoYKecrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CF4S1L-es 10pcs Mascarillas Médicas Desechables 3 Capas con Clip de...'
 sku: 'B085CF4S1L-es'
 tags: [  ]

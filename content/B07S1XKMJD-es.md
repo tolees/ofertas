@@ -5,7 +5,7 @@ date: 2020-04-05 13:16:17
 image: 'https://m.media-amazon.com/images/I/31oGmCvyNDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1XKMJD-es BOSS Long John Thermal+ Pantalones térmicos Negro Black 1...'
 sku: 'B07S1XKMJD-es'
 tags: [  ]

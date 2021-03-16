@@ -5,7 +5,7 @@ date: 2020-02-11 01:01:47
 image: 'https://m.media-amazon.com/images/I/41TYwQBWKjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009XS1LTO-es Columbia Silver Ridge Short AM4283 Shorts Hombre Beige...'
 sku: 'B009XS1LTO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 15:39:54
 image: 'https://m.media-amazon.com/images/I/41yI6KFifiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3SSTHP-es Panamar Nuevo Cable de Cargador de batería de...'
 sku: 'B08D3SSTHP-es'
 tags: [  ]

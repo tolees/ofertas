@@ -5,7 +5,7 @@ date: 2020-01-21 22:47:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41f2U4vsPwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK13T6D-es Termómetro para Bebé Vigorun Termómetro de Frente y Oídos...'
 sku: 'B07RK13T6D-es'
 tags: [  ]

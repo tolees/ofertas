@@ -5,7 +5,7 @@ date: 2020-07-17 09:31:24
 image: 'https://m.media-amazon.com/images/I/41OGZ5Wd6IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBXT32J-es MyHeritage ADN Kit de Salud — Pruebas Genéticas de Salud y...'
 sku: 'B07TBXT32J-es'
 tags: [  ]

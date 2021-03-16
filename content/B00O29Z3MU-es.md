@@ -5,7 +5,7 @@ date: 2020-03-07 21:37:08
 image: 'https://m.media-amazon.com/images/I/41KIA36OqbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O29Z3MU-es Nmc Juguetes Eróticos 1 Unidad 520 g'
 sku: 'B00O29Z3MU-es'
 tags: [  ]

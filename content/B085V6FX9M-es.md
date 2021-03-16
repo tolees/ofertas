@@ -5,7 +5,7 @@ date: 2020-10-05 18:36:55
 image: 'https://m.media-amazon.com/images/I/51OTqlObJLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085V6FX9M-es Syoss Oleo Intense - Coloración Permanente Tono 5-92 Rojo...'
 sku: 'B085V6FX9M-es'
 tags: [  ]

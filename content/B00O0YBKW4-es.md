@@ -5,7 +5,7 @@ date: 2020-09-16 16:17:29
 image: 'https://m.media-amazon.com/images/I/31TzI6YDULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O0YBKW4-es Levi s BIG BEND Cinturón Negro Regular Black 59 95 para...'
 sku: 'B00O0YBKW4-es'
 tags: [  ]

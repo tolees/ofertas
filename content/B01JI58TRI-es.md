@@ -5,7 +5,7 @@ date: 2020-02-15 23:24:08
 image: 'https://m.media-amazon.com/images/I/41AvmoozGqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JI58TRI-es Import - 8Bitdo Zero Gamepad FC'
 sku: 'B01JI58TRI-es'
 tags: [  ]

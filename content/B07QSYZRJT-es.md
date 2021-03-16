@@ -5,7 +5,7 @@ date: 2020-06-19 09:44:06
 image: 'https://m.media-amazon.com/images/I/51TwXV3VhwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QSYZRJT-es Shantae: 1/2 Genie Hero - Ultimate Edition'
 sku: 'B07QSYZRJT-es'
 tags: [  ]

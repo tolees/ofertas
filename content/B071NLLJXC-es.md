@@ -5,7 +5,7 @@ date: 2020-10-08 10:28:05
 image: 'https://m.media-amazon.com/images/I/51otDgzkcjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NLLJXC-es Marvel Comics MAY172531 Figura de acción de Daredevil...'
 sku: 'B071NLLJXC-es'
 tags: [  ]

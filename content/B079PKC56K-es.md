@@ -5,7 +5,7 @@ date: 2020-09-14 12:53:55
 image: 'https://m.media-amazon.com/images/I/31H7laec68L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PKC56K-es Brabantia Recipiente para Residuos Orgánicos Gris Oscuro...'
 sku: 'B079PKC56K-es'
 tags: [  ]

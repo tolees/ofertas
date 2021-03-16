@@ -5,7 +5,7 @@ date: 2020-03-08 09:34:40
 image: 'https://m.media-amazon.com/images/I/41LQI+uTAuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5SVYH3-es Under Armour Tech 9in 2 Pack Ropa Interior Hombre Gris Mod...'
 sku: 'B07D5SVYH3-es'
 tags: [  ]

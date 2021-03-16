@@ -5,7 +5,7 @@ date: 2020-10-06 13:25:37
 image: 'https://m.media-amazon.com/images/I/41oj9FObCVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071V2CMKK-es Arena Magnus Bañador Hombre Azul Blue Navy 100'
 sku: 'B071V2CMKK-es'
 tags: [  ]

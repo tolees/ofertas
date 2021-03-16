@@ -5,7 +5,7 @@ date: 2020-04-22 16:48:37
 image: 'https://m.media-amazon.com/images/I/311NxClMteL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FY2H5NS-es Green2Print Tóner Magenta 4000 páginas sustituye a Lexmark...'
 sku: 'B01FY2H5NS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-17 21:51:36
 image: 'https://m.media-amazon.com/images/I/41VP7Sm09EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2KJ8T8-es Under Armour UA Charged Europa 2 Zapatillas de Running...'
 sku: 'B07K2KJ8T8-es'
 tags: [  ]

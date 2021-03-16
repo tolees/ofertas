@@ -5,7 +5,7 @@ date: 2020-02-25 09:29:35
 image: 'https://m.media-amazon.com/images/I/41vG5JO8LBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9FHKDK-es JACK & JONES Jfwduston PU Combo Botas Chukka para Hombre...'
 sku: 'B07R9FHKDK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-17 01:12:48
 image: 'https://m.media-amazon.com/images/I/41Q82QNrMDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M797XTC-es Clarks Un Larvik Peak Botas clásicas. para Hombre Piel...'
 sku: 'B07M797XTC-es'
 tags: [  ]

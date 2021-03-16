@@ -5,7 +5,7 @@ date: 2020-09-10 12:08:31
 image: 'https://m.media-amazon.com/images/I/3197hKbUTjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E4T3R9Y-es NUK 10256342 - Dosificador de leche en polvo 3...'
 sku: 'B00E4T3R9Y-es'
 tags: [  ]

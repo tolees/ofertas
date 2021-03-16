@@ -5,7 +5,7 @@ date: 2020-05-19 08:42:19
 image: 'https://m.media-amazon.com/images/I/41QyonpQo6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DH7DDGF-es adidas V Racer 2.0 Zapatillas de Running para Hombre Azul...'
 sku: 'B07DH7DDGF-es'
 tags: [  ]

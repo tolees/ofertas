@@ -5,7 +5,7 @@ date: 2020-02-05 23:43:08
 image: 'https://m.media-amazon.com/images/I/312PUsjfQsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FVC4ZZ-es MUEBLES MARIETA OLD STYLE NOW Sofa Beverly 5 plazas Dark...'
 sku: 'B083FVC4ZZ-es'
 tags: [  ]

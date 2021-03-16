@@ -5,7 +5,7 @@ date: 2020-02-08 19:01:35
 image: 'https://m.media-amazon.com/images/I/41hkL6HbpvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKKT27C-es Kipling - Silen Bolsos bandolera Mujer Gris Active Grey Bl'
 sku: 'B07DKKT27C-es'
 tags: [  ]

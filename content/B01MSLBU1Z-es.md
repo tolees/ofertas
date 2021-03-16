@@ -5,7 +5,7 @@ date: 2020-09-05 07:36:11
 image: 'https://m.media-amazon.com/images/I/3131KIIwC1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSLBU1Z-es HP Cable Adaptador HDMI a VGA - Adaptador para Cable HDMI...'
 sku: 'B01MSLBU1Z-es'
 tags: [  ]

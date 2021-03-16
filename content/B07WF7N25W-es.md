@@ -5,7 +5,7 @@ date: 2020-06-25 19:47:14
 image: 'https://m.media-amazon.com/images/I/61-ql+fc44L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WF7N25W-es Libershine Madejas de Hilos 100 Madejas 100 Colores Hilos...'
 sku: 'B07WF7N25W-es'
 tags: [  ]

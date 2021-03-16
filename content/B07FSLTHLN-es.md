@@ -5,7 +5,7 @@ date: 2020-04-09 09:34:55
 image: 'https://m.media-amazon.com/images/I/31GKvVJH6KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSLTHLN-es Clarks Un Maui Step Mocasines para Mujer Blanco White...'
 sku: 'B07FSLTHLN-es'
 tags: [  ]

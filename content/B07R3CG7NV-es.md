@@ -5,7 +5,7 @@ date: 2020-02-11 16:35:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41orcuYaL2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3CG7NV-es Bugaboo Cameleon 3 Plus Cochecito y Silla de Paseo 2 en 1...'
 sku: 'B07R3CG7NV-es'
 tags: [  ]

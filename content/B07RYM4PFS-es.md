@@ -5,7 +5,7 @@ date: 2020-06-15 21:34:12
 image: 'https://m.media-amazon.com/images/I/41eirrRp3hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYM4PFS-es Mujer Bañador de Una Pieza Traje de Baño de Rayas Vintage...'
 sku: 'B07RYM4PFS-es'
 tags: [  ]

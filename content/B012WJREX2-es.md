@@ -5,7 +5,7 @@ date: 2020-09-01 17:22:36
 image: 'https://m.media-amazon.com/images/I/41UMiS7Pw9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012WJREX2-es Arregui TB-021-G Taburete Plegable de 21 cm de altura gris...'
 sku: 'B012WJREX2-es'
 tags: [  ]

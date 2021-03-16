@@ -5,7 +5,7 @@ date: 2020-08-13 07:11:28
 image: 'https://m.media-amazon.com/images/I/51md3CUwhoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJG6KPD-es YSense 20 Piezas de Pulsera Antimosquitos Impermeable...'
 sku: 'B07VJG6KPD-es'
 tags: [  ]

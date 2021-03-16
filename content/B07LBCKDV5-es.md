@@ -5,7 +5,7 @@ date: 2020-01-10 13:59:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41klhuh39aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBCKDV5-es Kappa Bonfire Botas Clasicas Unisex Adulto Beige 4141 40 EU'
 sku: 'B07LBCKDV5-es'
 tags: [  ]

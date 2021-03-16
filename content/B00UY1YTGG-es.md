@@ -5,7 +5,7 @@ date: 2020-06-30 16:16:34
 image: 'https://m.media-amazon.com/images/I/411su1M-ltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UY1YTGG-es PopSockets PS04454 - Soporte telescópico para Smartphones...'
 sku: 'B00UY1YTGG-es'
 tags: [  ]

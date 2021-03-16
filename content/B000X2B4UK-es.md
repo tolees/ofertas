@@ -5,7 +5,7 @@ date: 2020-04-05 17:29:35
 image: 'https://m.media-amazon.com/images/I/31G6m1aOa6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000X2B4UK-es Stanley 1-56-001 Maza de albañil Antivibración 1360g'
 sku: 'B000X2B4UK-es'
 tags: [  ]

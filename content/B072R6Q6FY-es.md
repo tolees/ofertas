@@ -5,7 +5,7 @@ date: 2020-09-15 23:41:57
 image: 'https://m.media-amazon.com/images/I/41s0q3B8SdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072R6Q6FY-es Softee 0710000 Crema Anti-Rozaduras Blanco S'
 sku: 'B072R6Q6FY-es'
 tags: [  ]

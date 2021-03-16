@@ -5,7 +5,7 @@ date: 2020-06-18 07:53:14
 image: 'https://m.media-amazon.com/images/I/41niST2jOUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG39MWP-es PUMA Cell Plasmic WN S Zapatillas Deportivas para Interior...'
 sku: 'B07KG39MWP-es'
 tags: [  ]

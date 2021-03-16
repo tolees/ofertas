@@ -5,7 +5,7 @@ date: 2020-08-03 15:32:46
 image: 'https://m.media-amazon.com/images/I/41LfxoiZCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NL3TX1-es Baoblaze Regleta De Carga Enchufe De - 3 tomacorrientes'
 sku: 'B089NL3TX1-es'
 tags: [  ]

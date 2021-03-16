@@ -5,7 +5,7 @@ date: 2020-02-11 10:57:38
 image: 'https://m.media-amazon.com/images/I/31L94FYny4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XYC42V-es Remington Pro Air D5950 - Secador de Pelo Iónico...'
 sku: 'B078XYC42V-es'
 tags: [  ]

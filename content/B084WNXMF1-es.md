@@ -5,7 +5,7 @@ date: 2020-06-08 15:26:21
 image: 'https://m.media-amazon.com/images/I/51PrajoK0GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084WNXMF1-es Prensa de ajos Trongle - Trituradora de ajos con pelador...'
 sku: 'B084WNXMF1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-05 19:45:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VBXQo1baL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XK3B1Q-es Under Armour HG Armour 2.0 Comp Short Pantalónes Cortos...'
 sku: 'B077XK3B1Q-es'
 tags: [  ]

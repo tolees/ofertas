@@ -5,7 +5,7 @@ date: 2020-05-25 19:10:30
 image: 'https://m.media-amazon.com/images/I/41ukgP97KZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUE8K60-es Mical Profesional Bolsas de Basura Gran tamaño 85 x 110 cm...'
 sku: 'B01MUE8K60-es'
 tags: [  ]

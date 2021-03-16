@@ -5,7 +5,7 @@ date: 2020-09-27 11:09:18
 image: 'https://m.media-amazon.com/images/I/41WmfGCsRyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV1FSDF-es San Ignacio Q2996 Sarten cuadrada 24x24x9.5cm con t...'
 sku: 'B07PV1FSDF-es'
 tags: [  ]

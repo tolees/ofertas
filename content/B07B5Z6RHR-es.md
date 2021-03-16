@@ -5,7 +5,7 @@ date: 2020-01-29 20:19:36
 image: 'https://m.media-amazon.com/images/I/41uRGYCsv0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B5Z6RHR-es MODERN LIFE Soporte de Pared para TV 10-26 Pulgadas...'
 sku: 'B07B5Z6RHR-es'
 tags: [  ]

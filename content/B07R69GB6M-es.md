@@ -5,7 +5,7 @@ date: 2020-08-08 07:00:38
 image: 'https://m.media-amazon.com/images/I/31zw4Au36hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R69GB6M-es Pendrive 32GB 3 Piezas Memorias USB 2.0 - Metal Aluminio...'
 sku: 'B07R69GB6M-es'
 tags: [  ]

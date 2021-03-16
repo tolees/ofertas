@@ -5,7 +5,7 @@ date: 2020-02-25 14:24:30
 image: 'https://m.media-amazon.com/images/I/41AbHteTTvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TWQ1XQ8-es Dickies Slim Fit Work Pantalones Beige Khaki KH Tamaño del...'
 sku: 'B00TWQ1XQ8-es'
 tags: [  ]

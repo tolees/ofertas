@@ -5,7 +5,7 @@ date: 2020-06-19 07:24:16
 image: 'https://m.media-amazon.com/images/I/41YAfqKcOKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086VJKJ7N-es POLPqeD Cámara Web HD Mini Computadora USB Cámara...'
 sku: 'B086VJKJ7N-es'
 tags: [  ]

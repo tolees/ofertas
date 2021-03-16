@@ -5,7 +5,7 @@ date: 2020-08-23 14:59:48
 image: 'https://m.media-amazon.com/images/I/418yUz2qDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMT7HB6-es Kickers 584348-10 Botas Unisex bebé Azul Marine Foncé Perm...'
 sku: 'B07FMT7HB6-es'
 tags: [  ]

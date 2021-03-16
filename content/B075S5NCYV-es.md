@@ -5,7 +5,7 @@ date: 2020-07-26 15:37:22
 image: 'https://m.media-amazon.com/images/I/411aRkPr3xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075S5NCYV-es Bosch MSM6S50B ErgoMixx Style Batidora de mano con...'
 sku: 'B075S5NCYV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-11 15:50:24
 image: 'https://m.media-amazon.com/images/I/41r3LmzIggL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YFY2FG-es Funko Pop!- Pop Movies: Harry Potter-Tom Riddle Figura de...'
 sku: 'B079YFY2FG-es'
 tags: [  ]

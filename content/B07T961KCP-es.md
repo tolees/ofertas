@@ -5,7 +5,7 @@ date: 2020-06-16 15:09:48
 image: 'https://m.media-amazon.com/images/I/41xgOaD7bIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T961KCP-es Xnuoyo 20000mAh Power Bank Cargador Portátil Batería...'
 sku: 'B07T961KCP-es'
 tags: [  ]

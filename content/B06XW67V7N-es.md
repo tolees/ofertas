@@ -5,7 +5,7 @@ date: 2020-08-25 09:17:19
 image: 'https://m.media-amazon.com/images/I/51LPM-He5hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XW67V7N-es Silencio [DVD]'
 sku: 'B06XW67V7N-es'
 tags: [  ]

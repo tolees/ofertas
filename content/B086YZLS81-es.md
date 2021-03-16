@@ -5,7 +5,7 @@ date: 2020-04-15 13:48:08
 image: 'https://m.media-amazon.com/images/I/51ReGVf983L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YZLS81-es Paquete de 20 máscaras Desechables máscara de Filtro de...'
 sku: 'B086YZLS81-es'
 tags: [  ]

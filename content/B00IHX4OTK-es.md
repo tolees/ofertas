@@ -5,7 +5,7 @@ date: 2020-01-27 08:54:19
 image: 'https://m.media-amazon.com/images/I/31YD7qoS1bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IHX4OTK-es Wild Stylers by Tecni.art - Depolish - Pasta...'
 sku: 'B00IHX4OTK-es'
 tags: [  ]

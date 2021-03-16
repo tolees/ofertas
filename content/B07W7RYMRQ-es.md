@@ -5,7 +5,7 @@ date: 2020-05-21 08:40:19
 image: 'https://m.media-amazon.com/images/I/21wq9rSCjqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7RYMRQ-es TOYANDONA 1pc pezones de bebé pezones creativos biberones...'
 sku: 'B07W7RYMRQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 05:30:34
 image: 'https://m.media-amazon.com/images/I/41ttPk0dV1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IADT54K-es DIGITNOW! Escáner de película para 35mm negativos y...'
 sku: 'B01IADT54K-es'
 tags: [  ]

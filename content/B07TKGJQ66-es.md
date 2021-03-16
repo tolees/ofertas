@@ -5,7 +5,7 @@ date: 2020-07-21 07:48:38
 image: 'https://m.media-amazon.com/images/I/41h4ET1cwRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKGJQ66-es BESTWAY 58424 - Cobertor Invierno para Piscina Desmontable...'
 sku: 'B07TKGJQ66-es'
 tags: [  ]

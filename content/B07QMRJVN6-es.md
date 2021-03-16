@@ -5,7 +5,7 @@ date: 2020-06-02 07:35:25
 image: 'https://m.media-amazon.com/images/I/51Kc4Nc-HdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMRJVN6-es Keenstone Almohada de Viaje Almohada para el Cuello Hecha...'
 sku: 'B07QMRJVN6-es'
 tags: [  ]

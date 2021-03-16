@@ -5,7 +5,7 @@ date: 2020-02-18 14:17:21
 image: 'https://m.media-amazon.com/images/I/41VS4brCRcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XMW0ZS-es DIM Generous Sujetador Negro 100B para Mujer'
 sku: 'B005XMW0ZS-es'
 tags: [  ]

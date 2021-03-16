@@ -5,7 +5,7 @@ date: 2020-03-31 14:16:48
 image: 'https://m.media-amazon.com/images/I/41HDVHFvssL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB7TJH7-es Columbia Altitude Aspect Forro Polar Hombre Azul Dark...'
 sku: 'B07RB7TJH7-es'
 tags: [  ]

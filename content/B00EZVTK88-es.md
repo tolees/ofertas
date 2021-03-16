@@ -5,7 +5,7 @@ date: 2020-07-28 15:21:15
 image: 'https://m.media-amazon.com/images/I/41vCK10d9WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EZVTK88-es Intex 29040NP - Dispensador químico para piscinas y Spa...'
 sku: 'B00EZVTK88-es'
 tags: [  ]

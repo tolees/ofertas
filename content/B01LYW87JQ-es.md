@@ -5,7 +5,7 @@ date: 2020-04-25 19:11:41
 image: 'https://m.media-amazon.com/images/I/51NDBSIYnWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYW87JQ-es Pompadour Supreme Rooibos Caramel Té - 10 Cápsulas'
 sku: 'B01LYW87JQ-es'
 tags: [  ]

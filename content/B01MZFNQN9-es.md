@@ -5,7 +5,7 @@ date: 2020-08-17 16:02:10
 image: 'https://m.media-amazon.com/images/I/41Fqdfaa6HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZFNQN9-es Calvin Klein Reloj Analogico para Hombre de Cuarzo con...'
 sku: 'B01MZFNQN9-es'
 tags: [  ]

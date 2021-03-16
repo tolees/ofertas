@@ -5,7 +5,7 @@ date: 2020-01-11 18:36:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317L0l-7AtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B4WYK3G-es Viñas Tratamiento para pestañas'
 sku: 'B00B4WYK3G-es'
 tags: [  ]

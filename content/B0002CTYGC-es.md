@@ -5,7 +5,7 @@ date: 2020-04-16 15:19:12
 image: 'https://m.media-amazon.com/images/I/414Od+zZXoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002CTYGC-es HP 122A - Cartucho de tóner original LaserJet para...'
 sku: 'B0002CTYGC-es'
 tags: [  ]

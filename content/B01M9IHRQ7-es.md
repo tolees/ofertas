@@ -5,7 +5,7 @@ date: 2020-04-15 11:33:27
 image: 'https://m.media-amazon.com/images/I/51GKPpWA5sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9IHRQ7-es G-STAR RAW ZED Cinturón Marrón Dk Brown/black Metal 8127...'
 sku: 'B01M9IHRQ7-es'
 tags: [  ]

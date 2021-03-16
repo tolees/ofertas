@@ -5,7 +5,7 @@ date: 2020-05-23 12:33:50
 image: 'https://m.media-amazon.com/images/I/21YEcyyGDSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZHTM4M-es B Blesiya Película De La Cámara del Teléfono De Cristal...'
 sku: 'B086ZHTM4M-es'
 tags: [  ]

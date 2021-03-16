@@ -5,7 +5,7 @@ date: 2020-08-06 18:07:23
 image: 'https://m.media-amazon.com/images/I/31aB2A7Wj+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XJP8GCM-es NIVEA Q10 Power Antiarrugas Cuidado de Día 1 x 50 ml crema...'
 sku: 'B00XJP8GCM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-10 13:56:20
 image: 'https://m.media-amazon.com/images/I/41tis8wU4KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY0UOQR-es Safety 1st Wall Fix Extending Barrera de seguridad...'
 sku: 'B01MY0UOQR-es'
 tags: [  ]

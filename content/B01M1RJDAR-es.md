@@ -5,7 +5,7 @@ date: 2020-10-10 14:42:31
 image: 'https://m.media-amazon.com/images/I/41agwup69PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1RJDAR-es PowerPlus POWC4010 - Lijadora Orbital 135W'
 sku: 'B01M1RJDAR-es'
 tags: [  ]

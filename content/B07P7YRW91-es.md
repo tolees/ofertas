@@ -5,7 +5,7 @@ date: 2020-08-31 12:36:03
 image: 'https://m.media-amazon.com/images/I/515WNAxinhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7YRW91-es Joyspot Cuchillos Cocina Patrón de Damasco Cuchillo Cocina...'
 sku: 'B07P7YRW91-es'
 tags: [  ]

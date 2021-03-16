@@ -5,7 +5,7 @@ date: 2020-05-12 21:03:17
 image: 'https://m.media-amazon.com/images/I/41VT1bqQS6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BFQLD4A-es Bisk 00403 Deco Portarollos con Tapa 11.5 x 8.5 x 13.5 cm...'
 sku: 'B00BFQLD4A-es'
 tags: [  ]

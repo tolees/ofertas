@@ -5,7 +5,7 @@ date: 2020-09-25 12:13:06
 image: 'https://m.media-amazon.com/images/I/41UknhSOCaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVM161F-es Under Armour Men s Official Tour 3.0 Gorra Hombre Gris XL/XXL'
 sku: 'B07QVM161F-es'
 tags: [  ]

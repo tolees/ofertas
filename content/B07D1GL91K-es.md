@@ -5,7 +5,7 @@ date: 2020-05-01 11:30:30
 image: 'https://m.media-amazon.com/images/I/41XApnzU+pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1GL91K-es New Balance Fresh Foam Cruz v2 Sock Zapatillas para Mujer...'
 sku: 'B07D1GL91K-es'
 tags: [  ]

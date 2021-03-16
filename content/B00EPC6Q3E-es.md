@@ -5,7 +5,7 @@ date: 2020-07-10 23:39:58
 image: 'https://m.media-amazon.com/images/I/51yhY8e81NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EPC6Q3E-es Guess Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B00EPC6Q3E-es'
 tags: [  ]

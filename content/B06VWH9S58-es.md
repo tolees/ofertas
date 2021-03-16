@@ -5,7 +5,7 @@ date: 2020-10-06 20:53:08
 image: 'https://m.media-amazon.com/images/I/61e8FsFGIoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VWH9S58-es Ultimate Ears Wonderboom Altavoz Portátil Inalámbrico...'
 sku: 'B06VWH9S58-es'
 tags: [  ]

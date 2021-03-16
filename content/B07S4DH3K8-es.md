@@ -5,7 +5,7 @@ date: 2020-08-20 15:01:33
 image: 'https://m.media-amazon.com/images/I/41bOb6i4I-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4DH3K8-es SOLKA Fitness Tracker Monitor de Ritmo cardíaco-1.3...'
 sku: 'B07S4DH3K8-es'
 tags: [  ]

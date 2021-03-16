@@ -5,7 +5,7 @@ date: 2020-08-16 09:56:03
 image: 'https://m.media-amazon.com/images/I/319LLbjFgiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC5VTY4-es Trust Duet XP Auriculares Bluetooth sin Cables'
 sku: 'B07RC5VTY4-es'
 tags: [  ]

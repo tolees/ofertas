@@ -5,7 +5,7 @@ date: 2020-09-01 10:25:45
 image: 'https://m.media-amazon.com/images/I/413pLr0ndcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PR27R4G-es Under Armour Rush Low Sujetador Deportivo Mujer Negro MD'
 sku: 'B07PR27R4G-es'
 tags: [  ]

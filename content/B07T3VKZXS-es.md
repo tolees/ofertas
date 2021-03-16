@@ -5,7 +5,7 @@ date: 2020-01-18 11:32:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZgWFrfbeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3VKZXS-es Matris - Colchón Viscoelástico Muelles Ensacados Espuma...'
 sku: 'B07T3VKZXS-es'
 tags: [  ]

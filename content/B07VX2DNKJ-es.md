@@ -5,7 +5,7 @@ date: 2020-03-31 13:18:18
 image: 'https://m.media-amazon.com/images/I/612dfz6+uOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VX2DNKJ-es Jojoin Agua Dibujo Pintura 120x90 cm Alfombra de Agua...'
 sku: 'B07VX2DNKJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-18 16:51:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31CtctppqXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R2JXFVQ-es Lámpara de escritorio inteligente iHaper DL1: lámpara de...'
 sku: 'B07R2JXFVQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 22:08:47
 image: 'https://m.media-amazon.com/images/I/51RflozHi4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073LJT75R-es Aliens Boxset Steelbook Blu-Ray [Blu-ray]'
 sku: 'B073LJT75R-es'
 tags: [  ]

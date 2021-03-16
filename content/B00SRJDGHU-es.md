@@ -5,7 +5,7 @@ date: 2020-01-12 20:29:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QGS2vt36L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SRJDGHU-es Asics Mexico 66 Zapatillas de Deporte Unisex Adulto Blanco...'
 sku: 'B00SRJDGHU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-19 12:11:29
 image: 'https://m.media-amazon.com/images/I/416Ejj-VnhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXHD937-es Wrangler 5 Pocket Short Pantalones Cortos Verde Lagoon 42c...'
 sku: 'B07JXHD937-es'
 tags: [  ]

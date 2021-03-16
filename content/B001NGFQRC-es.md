@@ -5,7 +5,7 @@ date: 2020-08-08 23:21:37
 image: 'https://m.media-amazon.com/images/I/51bUg49hA6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NGFQRC-es Makita HR2811FT Martillo 800 W 230 V'
 sku: 'B001NGFQRC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-10 16:16:02
 image: 'https://m.media-amazon.com/images/I/41KP5Ts9VgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LI5TJBM-es Buono Pelle - Cartera de piel para hombre plegable con...'
 sku: 'B00LI5TJBM-es'
 tags: [  ]

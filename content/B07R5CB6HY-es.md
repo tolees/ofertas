@@ -5,7 +5,7 @@ date: 2020-08-21 12:45:52
 image: 'https://m.media-amazon.com/images/I/31dGqvQLX3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5CB6HY-es Belkin Thunderbolt 3 - Minibase Dock con Cable Integrado...'
 sku: 'B07R5CB6HY-es'
 tags: [  ]

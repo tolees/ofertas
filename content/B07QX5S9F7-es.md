@@ -5,7 +5,7 @@ date: 2020-05-21 16:46:32
 image: 'https://m.media-amazon.com/images/I/31BzefNnNKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QX5S9F7-es Wrangler Larston Slim Jeans Dark Rinse 32W / 32L para Hombre'
 sku: 'B07QX5S9F7-es'
 tags: [  ]

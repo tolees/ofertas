@@ -5,7 +5,7 @@ date: 2020-02-19 17:15:54
 image: 'https://m.media-amazon.com/images/I/51CbxJgzImL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WMD8PR8-es Scholl Velvet Smooth Recambios para Lima Pies Durezas...'
 sku: 'B00WMD8PR8-es'
 tags: [  ]

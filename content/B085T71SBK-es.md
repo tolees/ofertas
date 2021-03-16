@@ -5,7 +5,7 @@ date: 2020-10-06 12:11:19
 image: 'https://m.media-amazon.com/images/I/51INN1qz4aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085T71SBK-es Kingston SDCG3/128GBSP Tarjeta microSD 128GB microSDXC...'
 sku: 'B085T71SBK-es'
 tags: [  ]

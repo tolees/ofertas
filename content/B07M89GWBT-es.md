@@ -5,7 +5,7 @@ date: 2020-02-05 14:09:04
 image: 'https://m.media-amazon.com/images/I/31+t10M5vEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M89GWBT-es Lee Scarlett Corduroy Pantalones Marfil Off White 26 32W /...'
 sku: 'B07M89GWBT-es'
 tags: [  ]

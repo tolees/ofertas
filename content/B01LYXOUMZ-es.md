@@ -5,7 +5,7 @@ date: 2020-09-10 09:08:49
 image: 'https://m.media-amazon.com/images/I/415gm4Ow8zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYXOUMZ-es Taurus Phoenix-Sandwichera 800 W 2 Indicadores Luminosos...'
 sku: 'B01LYXOUMZ-es'
 tags: [  ]

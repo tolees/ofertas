@@ -5,7 +5,7 @@ date: 2020-04-08 05:35:27
 image: 'https://m.media-amazon.com/images/I/41pwiMbwKiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFXSPTW-es BYDT HP 593553-001 Laptop Baterías para HP 593554-001 MU06...'
 sku: 'B07MFXSPTW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-16 19:16:20
 image: 'https://m.media-amazon.com/images/I/41+7EJBcZDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GONJGIS-es Imation I18646 - Pack de CD-R vírgenes 25 unidades 80 minutos'
 sku: 'B01GONJGIS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-22 19:36:57
 image: 'https://m.media-amazon.com/images/I/31I9CEzbA7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ7ZJ6Y-es 28 Palms 9" Inseam Cotton Tencel Chino Short Shorts Blanco 30'
 sku: 'B07JZ7ZJ6Y-es'
 tags: [  ]

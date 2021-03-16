@@ -5,7 +5,7 @@ date: 2020-07-05 16:57:17
 image: 'https://m.media-amazon.com/images/I/41qM8lD23VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG755CB-es Black+Decker BXMM1000E Picadora de Carne 1000 W Acero...'
 sku: 'B07KG755CB-es'
 tags: [  ]

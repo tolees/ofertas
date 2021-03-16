@@ -5,7 +5,7 @@ date: 2020-06-07 22:09:06
 image: 'https://m.media-amazon.com/images/I/41FfNMGsrCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJKPCPM-es Tommy Hilfiger Cozy 3D Zapatillas Bajas para Mujer Azul...'
 sku: 'B07RJKPCPM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-12 20:00:13
 image: 'https://m.media-amazon.com/images/I/315B8k-owpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KX1BJ7H-es Brooks Addiction Walker 2 Zapatillas de Running para...'
 sku: 'B07KX1BJ7H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 17:53:45
 image: 'https://m.media-amazon.com/images/I/41IS2zseUlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJD35V6-es Omega 3 6 7 9 90 perlas enriquecidas con aceite de lino...'
 sku: 'B07XJD35V6-es'
 tags: [  ]

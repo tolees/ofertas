@@ -5,7 +5,7 @@ date: 2020-04-24 21:34:49
 image: 'https://m.media-amazon.com/images/I/61QDE343xVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV9XYMJ-es Kipling - Money Keeper Carteras Mujer Negro Black Indigo...'
 sku: 'B07MV9XYMJ-es'
 tags: [  ]

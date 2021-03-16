@@ -5,7 +5,7 @@ date: 2020-04-14 18:32:47
 image: 'https://m.media-amazon.com/images/I/41G5OXk5EXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDQBRPZ-es adidas Altarun CF K Zapatillas de Running Unisex Niños...'
 sku: 'B07RDQBRPZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 13:10:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414IAS16DSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BJZYKK-es Jvchengxi Funda Protectora para Huawei Watch GT 2 46mm...'
 sku: 'B081BJZYKK-es'
 tags: [  ]

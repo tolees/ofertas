@@ -5,7 +5,7 @@ date: 2020-03-31 11:02:36
 image: 'https://m.media-amazon.com/images/I/51opA2mYB0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HF2VPW8-es Makeup Remover Toalla de tela toalla de limpieza facial...'
 sku: 'B07HF2VPW8-es'
 tags: [  ]

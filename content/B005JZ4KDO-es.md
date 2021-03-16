@@ -5,7 +5,7 @@ date: 2020-04-16 09:53:23
 image: 'https://m.media-amazon.com/images/I/41-WX9pnsKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005JZ4KDO-es Moulinex Toast & Grill TL6008 - Tostador y horno 2 en 1...'
 sku: 'B005JZ4KDO-es'
 tags: [  ]

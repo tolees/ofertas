@@ -5,7 +5,7 @@ date: 2020-08-30 04:26:45
 image: 'https://m.media-amazon.com/images/I/41Iy0UxIkgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PZVF3X-es Disney Pijamas de Manga Corta para niñas La Sirenita...'
 sku: 'B086PZVF3X-es'
 tags: [  ]

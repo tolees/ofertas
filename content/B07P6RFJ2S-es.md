@@ -5,7 +5,7 @@ date: 2020-10-05 18:06:36
 image: 'https://m.media-amazon.com/images/I/31YlPBfBaGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6RFJ2S-es American Tourister Bon Air - Spinner Small Strict Equipaje...'
 sku: 'B07P6RFJ2S-es'
 tags: [  ]

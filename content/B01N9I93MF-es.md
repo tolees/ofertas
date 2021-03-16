@@ -5,7 +5,7 @@ date: 2020-04-11 17:04:06
 image: 'https://m.media-amazon.com/images/I/418vudqjibL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9I93MF-es Mando Distancia Universal Para la Mayoría TV Televisores...'
 sku: 'B01N9I93MF-es'
 tags: [  ]

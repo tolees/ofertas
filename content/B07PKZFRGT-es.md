@@ -5,7 +5,7 @@ date: 2020-03-07 13:58:12
 image: 'https://m.media-amazon.com/images/I/41M4fMgCQyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKZFRGT-es New Balance Fresh Foam Roav Zapatillas de Running para...'
 sku: 'B07PKZFRGT-es'
 tags: [  ]

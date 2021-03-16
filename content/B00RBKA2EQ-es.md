@@ -5,7 +5,7 @@ date: 2020-02-08 20:05:18
 image: 'https://m.media-amazon.com/images/I/41k-ah-68YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RBKA2EQ-es Stayer 1200D Aspirador de Ceniza 1200 W 230 V Verde 0'
 sku: 'B00RBKA2EQ-es'
 tags: [  ]

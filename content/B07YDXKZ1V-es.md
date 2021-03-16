@@ -5,7 +5,7 @@ date: 2020-01-04 19:39:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51C2Q3KfooL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDXKZ1V-es LeYi Funda Xiaomi Redmi Note 8 con HD Protector Pantalla...'
 sku: 'B07YDXKZ1V-es'
 tags: [  ]

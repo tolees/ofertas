@@ -5,7 +5,7 @@ date: 2020-03-04 12:01:26
 image: 'https://m.media-amazon.com/images/I/41AsbSQzkEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08133ZZFL-es XLTOK Cargador Coche 24W 4.8A Doble Puerto con LED...'
 sku: 'B08133ZZFL-es'
 tags: [  ]

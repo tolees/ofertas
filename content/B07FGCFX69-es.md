@@ -5,7 +5,7 @@ date: 2020-01-10 10:04:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IbvDkX35L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FGCFX69-es Columbia DrainmakerTM IV Zapatillas para Mujer Rojo...'
 sku: 'B07FGCFX69-es'
 tags: [  ]

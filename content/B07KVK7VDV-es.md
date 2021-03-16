@@ -5,7 +5,7 @@ date: 2020-05-17 21:01:07
 image: 'https://m.media-amazon.com/images/I/51OdhrktEgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KVK7VDV-es Tela de proyección Lux-Screen Formato 100" 16:9 2 12cm x 1...'
 sku: 'B07KVK7VDV-es'
 tags: [  ]

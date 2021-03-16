@@ -5,7 +5,7 @@ date: 2020-06-23 12:56:24
 image: 'https://m.media-amazon.com/images/I/413JYRL+4AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B625HNZ-es Amtier Pulsera de Cuero Brazalete Ajustable con Acero...'
 sku: 'B07B625HNZ-es'
 tags: [  ]

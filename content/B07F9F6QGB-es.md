@@ -5,7 +5,7 @@ date: 2020-09-25 18:14:08
 image: 'https://m.media-amazon.com/images/I/41ncWP7zQLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9F6QGB-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B07F9F6QGB-es'
 tags: [  ]

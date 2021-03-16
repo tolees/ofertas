@@ -5,7 +5,7 @@ date: 2020-02-02 16:34:28
 image: 'https://m.media-amazon.com/images/I/31IPAHdZQPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0143RAOF6-es Matrix Total Results High Amplify Wonder Boost - Cuidado...'
 sku: 'B0143RAOF6-es'
 tags: [  ]

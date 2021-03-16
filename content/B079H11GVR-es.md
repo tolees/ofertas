@@ -5,7 +5,7 @@ date: 2020-01-13 19:34:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419-g6TNOOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079H11GVR-es PUMA NRGY Neko Knit Zapatillas de Entrenamiento para...'
 sku: 'B079H11GVR-es'
 tags: [  ]

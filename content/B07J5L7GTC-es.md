@@ -5,7 +5,7 @@ date: 2020-02-26 00:03:27
 image: 'https://m.media-amazon.com/images/I/41WAURexaOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5L7GTC-es Optimum Nutrition Gold Standard 100% Plant Proteína Vegana...'
 sku: 'B07J5L7GTC-es'
 tags: [  ]

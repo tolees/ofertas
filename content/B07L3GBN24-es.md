@@ -5,7 +5,7 @@ date: 2020-04-23 16:16:37
 image: 'https://m.media-amazon.com/images/I/41ZQE0CntQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3GBN24-es Tommy Hilfiger Tommy Stripe Retro Sneaker Zapatillas para...'
 sku: 'B07L3GBN24-es'
 tags: [  ]

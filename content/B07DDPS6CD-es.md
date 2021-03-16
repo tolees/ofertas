@@ -5,7 +5,7 @@ date: 2020-06-14 17:06:39
 image: 'https://m.media-amazon.com/images/I/511fGVZ7sDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDPS6CD-es Casio Reloj de Pulsera BA-110CR-2AER'
 sku: 'B07DDPS6CD-es'
 tags: [  ]

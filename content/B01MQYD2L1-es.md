@@ -5,7 +5,7 @@ date: 2020-02-18 09:54:02
 image: 'https://m.media-amazon.com/images/I/31gRoTBKMuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQYD2L1-es TRESemmé Laca Extra Fuerte - 400 ml'
 sku: 'B01MQYD2L1-es'
 tags: [  ]

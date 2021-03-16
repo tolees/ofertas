@@ -5,7 +5,7 @@ date: 2020-07-31 18:36:13
 image: 'https://m.media-amazon.com/images/I/413QJ4c0M9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFDTJ6X-es Triumph Essential Minimizer W X Sujetador con Aros Marrón...'
 sku: 'B07VFDTJ6X-es'
 tags: [  ]

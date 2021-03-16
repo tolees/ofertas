@@ -5,7 +5,7 @@ date: 2020-08-24 17:22:20
 image: 'https://m.media-amazon.com/images/I/41PnosBV2KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KBOOS76-es BRA Efficient - Asas de Silicona 2 Unidades Medida...'
 sku: 'B00KBOOS76-es'
 tags: [  ]

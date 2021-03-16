@@ -5,7 +5,7 @@ date: 2020-08-30 23:25:21
 image: 'https://m.media-amazon.com/images/I/61cqzmInB4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PQFGN7-es MagiDeal 50 Pedazos Madera Mixta Birdcase DIY Artesanía...'
 sku: 'B074PQFGN7-es'
 tags: [  ]

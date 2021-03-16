@@ -5,7 +5,7 @@ date: 2020-06-16 13:48:36
 image: 'https://m.media-amazon.com/images/I/216E+wpPdWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087D7NSJB-es Juego de Mueble de Baño Modelo ESPACE Conjunto formado por...'
 sku: 'B087D7NSJB-es'
 tags: [  ]

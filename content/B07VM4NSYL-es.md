@@ -5,7 +5,7 @@ date: 2020-05-30 12:05:24
 image: 'https://m.media-amazon.com/images/I/41vei+2vZ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VM4NSYL-es KATOOM Bandera Welcome Home 1pcs Banner Bienvenido Bunting...'
 sku: 'B07VM4NSYL-es'
 tags: [  ]

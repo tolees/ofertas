@@ -5,7 +5,7 @@ date: 2020-08-24 20:45:36
 image: 'https://m.media-amazon.com/images/I/41gd6+xZS2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBV5XVM-es WayEee Termo para Comida 450ml Botella Aislada de Acero...'
 sku: 'B07SBV5XVM-es'
 tags: [  ]

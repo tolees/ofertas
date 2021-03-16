@@ -5,7 +5,7 @@ date: 2020-05-11 06:34:08
 image: 'https://m.media-amazon.com/images/I/41af+2Y2OvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKRH1PM-es Clarks Sharon Dasher Mocasines para Mujer Beige Sand Suede...'
 sku: 'B07TKRH1PM-es'
 tags: [  ]

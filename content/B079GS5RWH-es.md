@@ -5,7 +5,7 @@ date: 2020-01-06 14:56:09
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079GS5RWH-es 1home Soporte portátil ergónomico Adjustable Curvo para...'
 sku: 'B079GS5RWH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 13:39:00
 image: 'https://m.media-amazon.com/images/I/419RhZripqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGRZXH2-es Puma Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B06WGRZXH2-es'
 tags: [  ]

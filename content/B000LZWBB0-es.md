@@ -5,7 +5,7 @@ date: 2020-09-21 12:05:04
 image: 'https://m.media-amazon.com/images/I/41kjH3bpIqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LZWBB0-es CLARINS Desodorante roll-on 50 ml'
 sku: 'B000LZWBB0-es'
 tags: [  ]

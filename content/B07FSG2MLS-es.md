@@ -5,7 +5,7 @@ date: 2020-04-02 14:56:24
 image: 'https://m.media-amazon.com/images/I/41tUN+JA4vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSG2MLS-es PAMEX Plumero Electroestático Extensible 45-75cm'
 sku: 'B07FSG2MLS-es'
 tags: [  ]

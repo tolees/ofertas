@@ -5,7 +5,7 @@ date: 2020-04-06 16:09:33
 image: 'https://m.media-amazon.com/images/I/5157ltQzHbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MB465CZ-es KiplingMoney PowerMujerMonederosNegro True Black...'
 sku: 'B07MB465CZ-es'
 tags: [  ]

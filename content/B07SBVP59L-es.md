@@ -5,7 +5,7 @@ date: 2020-04-21 18:19:01
 image: 'https://m.media-amazon.com/images/I/315FlANgc7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVP59L-es PUMA Jaro Zapatillas de Running para Hombre Negro Black 02...'
 sku: 'B07SBVP59L-es'
 tags: [  ]

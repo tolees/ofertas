@@ -5,7 +5,7 @@ date: 2020-03-22 16:56:21
 image: 'https://m.media-amazon.com/images/I/51RU9Cyn5bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L55RHT0-es Beurer MG 520 To Go - Almohada de masaje Shiatsu'
 sku: 'B01L55RHT0-es'
 tags: [  ]

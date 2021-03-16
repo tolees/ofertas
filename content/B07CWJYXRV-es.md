@@ -5,7 +5,7 @@ date: 2020-01-13 20:32:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xeCYqTYQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CWJYXRV-es YOUNGDO Mini Pala Plegable Militar Multifuncional 10 en 1...'
 sku: 'B07CWJYXRV-es'
 tags: [  ]

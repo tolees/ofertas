@@ -5,7 +5,7 @@ date: 2020-03-06 09:35:37
 image: 'https://m.media-amazon.com/images/I/51BBgIT+dIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0747LB4SB-es SkullCap® Casco BMX Bici y Casco Skate - Hombres Mujeres...'
 sku: 'B0747LB4SB-es'
 tags: [  ]

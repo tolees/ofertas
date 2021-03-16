@@ -5,7 +5,7 @@ date: 2020-05-25 08:15:40
 image: 'https://m.media-amazon.com/images/I/31J2Kl0crkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DM8V3KS-es Philips Avent SCF044/27-2 - Tetinas natural flujo rápido...'
 sku: 'B07DM8V3KS-es'
 tags: [  ]

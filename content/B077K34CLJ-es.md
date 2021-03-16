@@ -5,7 +5,7 @@ date: 2020-03-17 19:03:23
 image: 'https://m.media-amazon.com/images/I/51UpkyDE3-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077K34CLJ-es Banda Elástica Kit Bandas de Resistencia 10 / 15uds...'
 sku: 'B077K34CLJ-es'
 tags: [  ]

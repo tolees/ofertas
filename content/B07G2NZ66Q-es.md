@@ -5,7 +5,7 @@ date: 2020-10-09 15:13:55
 image: 'https://m.media-amazon.com/images/I/41QMOCBlOzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2NZ66Q-es L Oreal Paris Magic Retouch Spray Retoca Raíces Castaño...'
 sku: 'B07G2NZ66Q-es'
 tags: [  ]

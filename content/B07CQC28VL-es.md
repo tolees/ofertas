@@ -5,7 +5,7 @@ date: 2020-01-18 14:05:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41N9ZCWa8-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQC28VL-es Bosch Unlimited Serie 8 BCS1TOPNC - Aspirador escoba sin...'
 sku: 'B07CQC28VL-es'
 tags: [  ]

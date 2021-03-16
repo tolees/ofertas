@@ -5,7 +5,7 @@ date: 2020-03-03 12:09:05
 image: 'https://m.media-amazon.com/images/I/411UPTEty+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJGN5K-es Kipling Cindy Cartera para Mujer Verde Seagrass 11.5x8x1...'
 sku: 'B07PSJGN5K-es'
 tags: [  ]

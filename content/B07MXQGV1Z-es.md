@@ -5,7 +5,7 @@ date: 2020-03-02 11:07:29
 image: 'https://m.media-amazon.com/images/I/517ZoI7gvrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXQGV1Z-es Desigual 19WGXW01 - Cartera para mujer de Sintético Niñas...'
 sku: 'B07MXQGV1Z-es'
 tags: [  ]

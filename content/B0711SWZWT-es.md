@@ -5,7 +5,7 @@ date: 2020-02-13 05:52:33
 image: 'https://m.media-amazon.com/images/I/4121oDe4cZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711SWZWT-es Merrell Cham 7 Limit Waterproof Zapatillas de Senderismo...'
 sku: 'B0711SWZWT-es'
 tags: [  ]

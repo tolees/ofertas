@@ -5,7 +5,7 @@ date: 2020-02-04 14:37:51
 image: 'https://m.media-amazon.com/images/I/41n6kJExqjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZJQFG9-es Colgate Max White One Pasta Dentífrica - 75 ml'
 sku: 'B01LZJQFG9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-17 13:44:02
 image: 'https://m.media-amazon.com/images/I/31VPJ+PAR4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRBTYGH-es Max Factor Facefinity 3 en 1 All Day Flawless Base de...'
 sku: 'B07TRBTYGH-es'
 tags: [  ]

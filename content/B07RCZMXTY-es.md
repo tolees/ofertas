@@ -5,7 +5,7 @@ date: 2020-06-29 21:44:30
 image: 'https://m.media-amazon.com/images/I/41t2Y2DsXEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCZMXTY-es Under Armour Heatgear Armour Sujetador Deportivo Mujer...'
 sku: 'B07RCZMXTY-es'
 tags: [  ]

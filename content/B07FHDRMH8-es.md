@@ -5,7 +5,7 @@ date: 2020-07-19 21:52:50
 image: 'https://m.media-amazon.com/images/I/214j4FLsBuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHDRMH8-es Salomon XA Cap Gorra de Malla Impermeable Unisex Adulto...'
 sku: 'B07FHDRMH8-es'
 tags: [  ]

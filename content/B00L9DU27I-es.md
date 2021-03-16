@@ -5,7 +5,7 @@ date: 2020-03-23 11:23:21
 image: 'https://m.media-amazon.com/images/I/31oJCESHFFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L9DU27I-es DC Shoes TRASE TX Zapatillas Hombre Negro Black/Gum 43 EU'
 sku: 'B00L9DU27I-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-23 18:54:23
 image: 'https://m.media-amazon.com/images/I/41EH44pYPFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQXCZDS-es Helly Hansen KOS Polo Hombre Rojo Rojo 147 L'
 sku: 'B07KQXCZDS-es'
 tags: [  ]

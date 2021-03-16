@@ -5,7 +5,7 @@ date: 2020-02-03 22:12:10
 image: 'https://m.media-amazon.com/images/I/51lG85MCarL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BR6DLJR-es Levi s Oversized Batwing Beanie Gorro de Punto Negro Noir...'
 sku: 'B07BR6DLJR-es'
 tags: [  ]

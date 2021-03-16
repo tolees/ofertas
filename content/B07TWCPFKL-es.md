@@ -5,7 +5,7 @@ date: 2020-04-17 00:40:31
 image: 'https://m.media-amazon.com/images/I/413xv0IFgUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWCPFKL-es Kit de monopie para cámara Cayer AT35 Pata de monopie de...'
 sku: 'B07TWCPFKL-es'
 tags: [  ]

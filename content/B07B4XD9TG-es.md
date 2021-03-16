@@ -5,7 +5,7 @@ date: 2020-01-23 08:04:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51xKfcN32jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4XD9TG-es Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07B4XD9TG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-24 20:23:12
 image: 'https://m.media-amazon.com/images/I/41v10tKY+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7RZMEY-es Carbonell Aceite de Oliva Virgen Extra 3L'
 sku: 'B01K7RZMEY-es'
 tags: [  ]

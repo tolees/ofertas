@@ -5,7 +5,7 @@ date: 2020-09-26 20:28:34
 image: 'https://m.media-amazon.com/images/I/41uk5nh2PSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OOKI6EY-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Azalea...'
 sku: 'B00OOKI6EY-es'
 tags: [  ]

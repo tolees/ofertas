@@ -5,7 +5,7 @@ date: 2020-06-15 21:34:12
 image: 'https://m.media-amazon.com/images/I/419ZjaH8aLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQC13MK-es Bañador Reductor de Mujer Traje de Baño de Una Pieza de...'
 sku: 'B07PQC13MK-es'
 tags: [  ]

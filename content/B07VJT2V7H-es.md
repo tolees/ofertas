@@ -5,7 +5,7 @@ date: 2020-01-03 06:20:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vCazSNrQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJT2V7H-es YuLu-#Snapstar Echo 407246'
 sku: 'B07VJT2V7H-es'
 tags: [  ]

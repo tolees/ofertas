@@ -5,7 +5,7 @@ date: 2020-02-01 03:52:21
 image: 'https://m.media-amazon.com/images/I/41eMMZfXOIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQS8Y3-es Vans Ward Hi Zapatillas para Hombre Verde Suede/Canvas...'
 sku: 'B07MZQS8Y3-es'
 tags: [  ]

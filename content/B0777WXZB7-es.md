@@ -5,7 +5,7 @@ date: 2020-02-12 00:01:39
 image: 'https://m.media-amazon.com/images/I/41zG7Ih9DzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777WXZB7-es Under Armour UA Mojo Zapatillas de Running para Hombre...'
 sku: 'B0777WXZB7-es'
 tags: [  ]

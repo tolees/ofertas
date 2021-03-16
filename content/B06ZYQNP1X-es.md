@@ -5,7 +5,7 @@ date: 2020-10-01 16:02:22
 image: 'https://m.media-amazon.com/images/I/41U+2vGaM-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYQNP1X-es Gazechimp Interruptor de Encendido Tercer Engranaje Pin de...'
 sku: 'B06ZYQNP1X-es'
 tags: [  ]

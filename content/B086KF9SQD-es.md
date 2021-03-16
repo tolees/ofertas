@@ -5,7 +5,7 @@ date: 2020-04-27 09:32:58
 image: 'https://m.media-amazon.com/images/I/41SwVD082kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086KF9SQD-es Bullpadel Hack Knit 2019 Gris Num 46 Zapatillas Deportivas...'
 sku: 'B086KF9SQD-es'
 tags: [  ]

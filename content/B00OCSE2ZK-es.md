@@ -5,7 +5,7 @@ date: 2020-01-29 12:10:59
 image: 'https://m.media-amazon.com/images/I/41hkBYeUvML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OCSE2ZK-es Columbia Silver Ridge Short AM4283 Shorts Hombre Gris...'
 sku: 'B00OCSE2ZK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-23 13:03:27
 image: 'https://m.media-amazon.com/images/I/311K8hQCtlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AK0KJ1O-es PUMA Basket Classic LFS Zapatillas para Hombre Negro...'
 sku: 'B01AK0KJ1O-es'
 tags: [  ]

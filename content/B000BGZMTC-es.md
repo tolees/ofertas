@@ -5,7 +5,7 @@ date: 2020-09-06 09:00:46
 image: 'https://m.media-amazon.com/images/I/41o7I6x7poL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BGZMTC-es Hoya Pro1 Digital - Filtro de protección UV para Objetivo...'
 sku: 'B000BGZMTC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-09 03:16:56
 image: 'https://m.media-amazon.com/images/I/41gAabEyOuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1V5X6T-es Purificador de Aire con Filtro HEPA Filtración de 4 Etapas...'
 sku: 'B07Y1V5X6T-es'
 tags: [  ]

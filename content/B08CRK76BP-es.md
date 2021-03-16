@@ -5,7 +5,7 @@ date: 2020-09-24 11:27:51
 image: 'https://m.media-amazon.com/images/I/41zMdZkF+2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRK76BP-es MaNMaNing Protección 3 Capas Transpirables con Elástico...'
 sku: 'B08CRK76BP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-22 03:35:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rb7nxLG5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LARLEK-es Love Hair Extensions Extensiones de Clip de Pelo Natural...'
 sku: 'B002LARLEK-es'
 tags: [  ]

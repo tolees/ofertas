@@ -5,7 +5,7 @@ date: 2020-05-27 12:04:32
 image: 'https://m.media-amazon.com/images/I/51VA7Q7Nr1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GHUHNPC-es Intex 29020 - Cobertor solar para piscinas 244 cm de diámetro'
 sku: 'B00GHUHNPC-es'
 tags: [  ]

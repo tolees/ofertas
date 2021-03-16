@@ -5,7 +5,7 @@ date: 2020-03-11 08:28:57
 image: 'https://m.media-amazon.com/images/I/21ZmgdgxrTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MCZAQC2-es SALOMON Speed Pro 1 Par de Calcetines Tobilleros Unisex...'
 sku: 'B01MCZAQC2-es'
 tags: [  ]

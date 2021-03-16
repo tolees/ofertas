@@ -5,7 +5,7 @@ date: 2020-06-20 13:31:00
 image: 'https://m.media-amazon.com/images/I/41gEyGTly3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LAX2RIY-es HENDI Bandejas para comida rápida mediana - Rojo -...'
 sku: 'B00LAX2RIY-es'
 tags: [  ]

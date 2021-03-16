@@ -5,7 +5,7 @@ date: 2020-04-14 15:57:38
 image: 'https://m.media-amazon.com/images/I/415fiZZr8bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3YUSW6-es NEW C 2 Unidades Protector de Pantalla para Samsung Galaxy...'
 sku: 'B01N3YUSW6-es'
 tags: [  ]

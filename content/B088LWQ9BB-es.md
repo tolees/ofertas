@@ -5,7 +5,7 @@ date: 2020-05-31 18:03:44
 image: 'https://m.media-amazon.com/images/I/416RzjIGMyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LWQ9BB-es KRY Ear Wax Remover Limpiadores de oídos Soft Tips...'
 sku: 'B088LWQ9BB-es'
 tags: [  ]

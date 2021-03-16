@@ -5,7 +5,7 @@ date: 2020-07-01 15:39:50
 image: 'https://m.media-amazon.com/images/I/41L6aXWKoZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXJZWTH-es NEW C 2 Unidades Protector de Pantalla para Huawei P9 Lite...'
 sku: 'B01MXJZWTH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-09 20:29:30
 image: 'https://m.media-amazon.com/images/I/310to71feLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGVQSF7-es G-STAR RAW Vetar Slim Chino Pantalones Azul Mazarine Blue...'
 sku: 'B07QGVQSF7-es'
 tags: [  ]

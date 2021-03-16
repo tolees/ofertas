@@ -5,7 +5,7 @@ date: 2020-07-17 10:41:32
 image: 'https://m.media-amazon.com/images/I/31juwu9z3GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9NPHP3-es Rimmel Nail Polish SuperGel Kate 82 Purple Splash Żelowy...'
 sku: 'B06W9NPHP3-es'
 tags: [  ]

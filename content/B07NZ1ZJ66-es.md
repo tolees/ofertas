@@ -5,7 +5,7 @@ date: 2020-09-26 21:18:59
 image: 'https://m.media-amazon.com/images/I/41ryNmP9qZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZ1ZJ66-es KitGarden - Armario Camping con Paraviento 88x47x80 cm...'
 sku: 'B07NZ1ZJ66-es'
 tags: [  ]

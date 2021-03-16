@@ -5,7 +5,7 @@ date: 2020-07-07 04:26:41
 image: 'https://m.media-amazon.com/images/I/31P1xVNf8fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LUIKOO8-es Adidas Stan Smith M20324 Zapatillas de Deporte Unisex...'
 sku: 'B00LUIKOO8-es'
 tags: [  ]

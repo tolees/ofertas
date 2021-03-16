@@ -5,7 +5,7 @@ date: 2020-08-13 06:34:36
 image: 'https://m.media-amazon.com/images/I/31nOA1ul5uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVZ6MJK-es HyperX Predator HX430C15PB3A/16 Memoria 3000MHz DDR4 CL15...'
 sku: 'B07MVZ6MJK-es'
 tags: [  ]

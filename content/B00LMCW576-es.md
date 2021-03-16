@@ -5,7 +5,7 @@ date: 2020-05-10 14:53:55
 image: 'https://m.media-amazon.com/images/I/31ZgeDuqbnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LMCW576-es Joseph Joseph Nest Cuchara medidora Multicolor Centimeters'
 sku: 'B00LMCW576-es'
 tags: [  ]

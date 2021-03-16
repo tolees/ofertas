@@ -5,7 +5,7 @@ date: 2020-06-29 18:39:22
 image: 'https://m.media-amazon.com/images/I/41X+GSaY1jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003RRWMOA-es Mannesmann - M19828-5 piezas Juego de llaves de carraca'
 sku: 'B003RRWMOA-es'
 tags: [  ]

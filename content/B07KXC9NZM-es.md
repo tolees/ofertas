@@ -5,7 +5,7 @@ date: 2020-06-22 10:02:32
 image: 'https://m.media-amazon.com/images/I/31wnucCYxJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXC9NZM-es TOUS colgante de mujer en Vermeil 18kt con perlas...'
 sku: 'B07KXC9NZM-es'
 tags: [  ]

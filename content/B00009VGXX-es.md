@@ -5,7 +5,7 @@ date: 2020-04-04 21:39:13
 image: 'https://m.media-amazon.com/images/I/31VlV2ThRuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00009VGXX-es D-Link DES-1008D - Switch de Red con 8 Puertos LAN Fast...'
 sku: 'B00009VGXX-es'
 tags: [  ]

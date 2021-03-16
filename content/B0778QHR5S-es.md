@@ -5,7 +5,7 @@ date: 2020-07-04 13:24:29
 image: 'https://m.media-amazon.com/images/I/51zwwx9+3nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0778QHR5S-es Vitamina C 1200 mg y Zinc 40 mg - 120 Cápsulas...'
 sku: 'B0778QHR5S-es'
 tags: [  ]

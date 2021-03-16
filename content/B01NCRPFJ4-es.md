@@ -5,7 +5,7 @@ date: 2020-07-16 19:32:43
 image: 'https://m.media-amazon.com/images/I/41K3s8w5l+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCRPFJ4-es Carbón Activado Premium – Polvo 100 % orgánico – Sin...'
 sku: 'B01NCRPFJ4-es'
 tags: [  ]

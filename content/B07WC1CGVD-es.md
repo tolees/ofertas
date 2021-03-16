@@ -5,7 +5,7 @@ date: 2020-09-10 21:07:58
 image: 'https://m.media-amazon.com/images/I/51bvwg+JE4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC1CGVD-es Regalos Originales para Hombre y Mujer Sombrero Bluetooth...'
 sku: 'B07WC1CGVD-es'
 tags: [  ]

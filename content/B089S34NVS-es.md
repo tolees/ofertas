@@ -5,7 +5,7 @@ date: 2020-10-11 06:47:14
 image: 'https://m.media-amazon.com/images/I/415ZpvAbrQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089S34NVS-es SP-Cow Adaptador Bluetooth 4.2 USB Dongle WiFi Antena...'
 sku: 'B089S34NVS-es'
 tags: [  ]

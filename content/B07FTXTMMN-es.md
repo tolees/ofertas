@@ -5,7 +5,7 @@ date: 2020-09-05 12:58:55
 image: 'https://m.media-amazon.com/images/I/41ldJ5SVVML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTXTMMN-es Adidas 3MC Zapatillas de Skateboarding para Hombre Azul...'
 sku: 'B07FTXTMMN-es'
 tags: [  ]

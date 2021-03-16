@@ -5,7 +5,7 @@ date: 2020-06-06 16:03:27
 image: 'https://m.media-amazon.com/images/I/51zUoQtJpAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSW01R7-es Suunto Core Negro/Rojo'
 sku: 'B01MSW01R7-es'
 tags: [  ]

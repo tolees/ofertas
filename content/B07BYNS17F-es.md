@@ -5,7 +5,7 @@ date: 2020-08-14 00:40:34
 image: 'https://m.media-amazon.com/images/I/418NekPmgyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BYNS17F-es Schwarzkopf Gliss Ultimate Repair - Champú para cabello...'
 sku: 'B07BYNS17F-es'
 tags: [  ]

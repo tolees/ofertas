@@ -5,7 +5,7 @@ date: 2020-03-13 08:40:53
 image: 'https://m.media-amazon.com/images/I/412LJ6b6swL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6QWSPL-es MSI Clutch GM50 - Ratón para Gaming Sensor óptico PMW-3330...'
 sku: 'B07N6QWSPL-es'
 tags: [  ]

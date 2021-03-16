@@ -5,7 +5,7 @@ date: 2020-05-29 15:56:44
 image: 'https://m.media-amazon.com/images/I/31eTzAMWw0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HZ92CRD-es Amazon Essentials 4-Pack Seamless Bonded Stretch Thong...'
 sku: 'B07HZ92CRD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-26 04:34:45
 image: 'https://m.media-amazon.com/images/I/41LxUuV+PPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ1YQNP-es Asics Gel-Cumulus 20 Zapatillas de Entrenamiento para...'
 sku: 'B07CZ1YQNP-es'
 tags: [  ]

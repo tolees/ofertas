@@ -5,7 +5,7 @@ date: 2020-05-28 23:58:06
 image: 'https://m.media-amazon.com/images/I/41t7r+HhaSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DU3IKL4-es Balanza de cocina digital Laica KS1029W con diseño de...'
 sku: 'B01DU3IKL4-es'
 tags: [  ]

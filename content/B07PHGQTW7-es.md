@@ -5,7 +5,7 @@ date: 2020-09-22 09:10:42
 image: 'https://m.media-amazon.com/images/I/31smccC-egL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHGQTW7-es Rieker Herbst/Winter Botas Clasicas para Hombre Negro...'
 sku: 'B07PHGQTW7-es'
 tags: [  ]

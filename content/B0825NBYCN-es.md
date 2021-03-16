@@ -5,7 +5,7 @@ date: 2020-06-29 15:07:53
 image: 'https://m.media-amazon.com/images/I/41mAFVd4SzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825NBYCN-es Quiksilver Word Block 17" - Short De Natación para Hombre...'
 sku: 'B0825NBYCN-es'
 tags: [  ]

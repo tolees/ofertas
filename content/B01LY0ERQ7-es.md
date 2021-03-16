@@ -5,7 +5,7 @@ date: 2020-04-30 08:52:14
 image: 'https://m.media-amazon.com/images/I/41et0vywZNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY0ERQ7-es Omino Bianco Detergente Liquido Cuero de Marsella'
 sku: 'B01LY0ERQ7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 09:44:03
 image: 'https://m.media-amazon.com/images/I/41eN9YwBcWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z7T6F4Y-es OtterBox Defender - Funda de protección triple capa para...'
 sku: 'B00Z7T6F4Y-es'
 tags: [  ]

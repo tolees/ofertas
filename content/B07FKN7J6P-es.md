@@ -5,7 +5,7 @@ date: 2020-02-06 17:23:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JqaPuir1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKN7J6P-es Joma Marsella Camisetas Equip. M/C Hombre Marino XL'
 sku: 'B07FKN7J6P-es'
 tags: [  ]

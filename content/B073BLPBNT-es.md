@@ -5,7 +5,7 @@ date: 2020-03-01 13:01:01
 image: 'https://m.media-amazon.com/images/I/41IU-MQ6uwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073BLPBNT-es Fornarina BE17T524F42990 Top Mujeres Gris Xl'
 sku: 'B073BLPBNT-es'
 tags: [  ]

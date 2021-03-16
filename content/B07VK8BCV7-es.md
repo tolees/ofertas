@@ -5,7 +5,7 @@ date: 2020-03-20 00:57:05
 image: 'https://m.media-amazon.com/images/I/51P2AM03IvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VK8BCV7-es TECHGEAR Funda Compatible con iPad Pro 11" 2018 [Apple...'
 sku: 'B07VK8BCV7-es'
 tags: [  ]

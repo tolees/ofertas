@@ -5,7 +5,7 @@ date: 2020-05-02 09:26:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uPLhR4DKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016REH7A8-es adidas Parma 16 Kinder Sport Shorts Hombre Black/White 5-6Y'
 sku: 'B016REH7A8-es'
 tags: [  ]

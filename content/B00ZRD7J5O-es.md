@@ -5,7 +5,7 @@ date: 2020-03-07 11:04:22
 image: 'https://m.media-amazon.com/images/I/31X0ZvVJDtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZRD7J5O-es Trust Mico - Micrófono USB con trípode'
 sku: 'B00ZRD7J5O-es'
 tags: [  ]

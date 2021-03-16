@@ -5,7 +5,7 @@ date: 2020-02-12 04:37:12
 image: 'https://m.media-amazon.com/images/I/31uxnCSvpzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M756XRU-es Resalim Plus 10 Cápsulas - Suplemento Natural | Anti-...'
 sku: 'B00M756XRU-es'
 tags: [  ]

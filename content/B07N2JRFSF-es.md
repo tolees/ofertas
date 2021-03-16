@@ -5,7 +5,7 @@ date: 2020-03-31 10:28:06
 image: 'https://m.media-amazon.com/images/I/41UXQEQIPSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2JRFSF-es Intey 3-in-1 Wall Detector with LCD Display and Beep for...'
 sku: 'B07N2JRFSF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-27 13:41:30
 image: 'https://m.media-amazon.com/images/I/31UsSHNZEUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CLO3YA0-es Bourjois Radiance Reveal Corrector Tono 01 Ivory - 29 gr.'
 sku: 'B01CLO3YA0-es'
 tags: [  ]

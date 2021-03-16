@@ -5,7 +5,7 @@ date: 2020-07-23 13:56:20
 image: 'https://m.media-amazon.com/images/I/41aAZmcdu-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M6JMXXU-es Amzdeal 135W Bombilla Fotografia Iluminación E27 220V...'
 sku: 'B00M6JMXXU-es'
 tags: [  ]

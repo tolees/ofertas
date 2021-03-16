@@ -5,7 +5,7 @@ date: 2020-09-13 13:08:02
 image: 'https://m.media-amazon.com/images/I/41f7kWC3RkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSHP9LC-es Griffin Technology Funda Survivor Endurance para iPhone 11...'
 sku: 'B07WSHP9LC-es'
 tags: [  ]

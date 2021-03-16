@@ -5,7 +5,7 @@ date: 2020-01-19 15:29:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51LA%2B8eT8EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHH9K17-es Villanas Disney -Bolso Redondo'
 sku: 'B07ZHH9K17-es'
 tags: [  ]

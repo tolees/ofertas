@@ -5,7 +5,7 @@ date: 2020-06-30 02:10:30
 image: 'https://m.media-amazon.com/images/I/413MH4G+AfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFNKKFP-es Columbia Vitesse Zapatillas de Deporte para Mujer Rojo...'
 sku: 'B07RFNKKFP-es'
 tags: [  ]

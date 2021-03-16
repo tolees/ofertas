@@ -5,7 +5,7 @@ date: 2020-08-11 11:06:18
 image: 'https://m.media-amazon.com/images/I/510R9CjL1eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGFRFD3-es Medela Freestyle Flex - Sacaleches Eléctrico Doble'
 sku: 'B07YGFRFD3-es'
 tags: [  ]

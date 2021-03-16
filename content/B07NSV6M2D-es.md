@@ -5,7 +5,7 @@ date: 2020-05-29 10:46:30
 image: 'https://m.media-amazon.com/images/I/51jIzYQ9-CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSV6M2D-es Duokon Luz LED de ojo de ángel para automóvil 150W 7...'
 sku: 'B07NSV6M2D-es'
 tags: [  ]

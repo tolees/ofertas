@@ -5,7 +5,7 @@ date: 2020-05-08 20:55:40
 image: 'https://m.media-amazon.com/images/I/41ZZUgtBTaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVQDFJ2-es New Balance 574v2 entrenadores Hombre Negro Black Black 42 EU'
 sku: 'B07DVQDFJ2-es'
 tags: [  ]

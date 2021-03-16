@@ -5,7 +5,7 @@ date: 2020-02-04 14:45:02
 image: 'https://m.media-amazon.com/images/I/41GnmLZoAkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NXF5YL-es Hapilife Grifo Cocina Pared 15 CM Plegable Monomando...'
 sku: 'B079NXF5YL-es'
 tags: [  ]

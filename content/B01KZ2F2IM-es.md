@@ -5,7 +5,7 @@ date: 2020-02-28 18:34:22
 image: 'https://m.media-amazon.com/images/I/31CB2dxHgrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KZ2F2IM-es Beurer LB37 TOFFEE Humidificador de aire'
 sku: 'B01KZ2F2IM-es'
 tags: [  ]

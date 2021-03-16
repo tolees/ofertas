@@ -5,7 +5,7 @@ date: 2020-08-31 14:08:03
 image: 'https://m.media-amazon.com/images/I/41CrtsQXYYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FLJ6DO6-es Bosch Professional 0601066E00 Nivel GCL 2-15 interior con...'
 sku: 'B01FLJ6DO6-es'
 tags: [  ]

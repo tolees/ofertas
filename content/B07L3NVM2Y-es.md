@@ -5,7 +5,7 @@ date: 2020-09-16 22:48:03
 image: 'https://m.media-amazon.com/images/I/41i4+g4+7LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3NVM2Y-es [2020 Versión Mejorada] Ewadoo 79mm de Diámetro Diseño...'
 sku: 'B07L3NVM2Y-es'
 tags: [  ]

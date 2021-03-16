@@ -5,7 +5,7 @@ date: 2020-03-18 16:33:42
 image: 'https://m.media-amazon.com/images/I/31vOt0tPyJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756ZWNS3-es Ventilador Tomersun con 3 aspas para estufa y chimenea 3...'
 sku: 'B0756ZWNS3-es'
 tags: [  ]

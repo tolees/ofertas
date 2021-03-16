@@ -5,7 +5,7 @@ date: 2020-03-29 09:33:53
 image: 'https://m.media-amazon.com/images/I/21kkH2rSTAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AJLZPC2-es TATAY 6632101 - Olympia Set de baño completo: Toallero...'
 sku: 'B01AJLZPC2-es'
 tags: [  ]

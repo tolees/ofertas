@@ -5,7 +5,7 @@ date: 2020-08-26 18:58:19
 image: 'https://m.media-amazon.com/images/I/41uPhwd4b1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QS74C1T-es Nautica Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07QS74C1T-es'
 tags: [  ]

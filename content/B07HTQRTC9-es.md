@@ -5,7 +5,7 @@ date: 2020-02-28 07:42:43
 image: 'https://m.media-amazon.com/images/I/31vhtYzP8dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HTQRTC9-es adidas Campus ADV Zapatillas de Skateboard Unisex Adulto...'
 sku: 'B07HTQRTC9-es'
 tags: [  ]

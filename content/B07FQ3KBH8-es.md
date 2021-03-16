@@ -5,7 +5,7 @@ date: 2020-02-09 19:32:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2B8%2Bwe24L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQ3KBH8-es INTEY Silla de Oficina Silla Ergonómica Ajustables...'
 sku: 'B07FQ3KBH8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-19 12:22:08
 image: 'https://m.media-amazon.com/images/I/31JgAr39-lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJJJYHN-es Nike Renew Fusion Zapatillas para Hombre 2 41 EU'
 sku: 'B07TJJJYHN-es'
 tags: [  ]

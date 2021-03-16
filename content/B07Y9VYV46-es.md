@@ -5,7 +5,7 @@ date: 2020-05-23 11:08:42
 image: 'https://m.media-amazon.com/images/I/41Ib5edRPOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9VYV46-es Esprit 129ee2i010 suéter Gris Light Grey 5 044 Medium para...'
 sku: 'B07Y9VYV46-es'
 tags: [  ]

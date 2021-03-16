@@ -5,7 +5,7 @@ date: 2020-01-12 13:14:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41av2bGwNdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0787GLP3X-es Columbia Meadows Slip-On Omni-Heat Botas Bajas para Mujer...'
 sku: 'B0787GLP3X-es'
 tags: [  ]

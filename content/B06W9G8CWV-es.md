@@ -5,7 +5,7 @@ date: 2020-01-18 15:40:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nxO3j8XCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9G8CWV-es s.Oliver 53101 Zapatillas para Niños Azul Navy 39 EU'
 sku: 'B06W9G8CWV-es'
 tags: [  ]

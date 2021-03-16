@@ -5,7 +5,7 @@ date: 2020-07-01 17:46:06
 image: 'https://m.media-amazon.com/images/I/41omqBhCSjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N16ZSQM-es G-STAR RAW 3301 Slim Fit Jeans Negro Antic Charcoal 31W /...'
 sku: 'B07N16ZSQM-es'
 tags: [  ]

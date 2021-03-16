@@ -5,7 +5,7 @@ date: 2020-10-03 09:01:52
 image: 'https://m.media-amazon.com/images/I/41-hBEaB4gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CPV77C-es Teclado Wireless Turquesa'
 sku: 'B076CPV77C-es'
 tags: [  ]

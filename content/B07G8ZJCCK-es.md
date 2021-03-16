@@ -5,7 +5,7 @@ date: 2020-04-25 05:50:19
 image: 'https://m.media-amazon.com/images/I/41ojpjZx6xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G8ZJCCK-es Himaly USB Planchas de Pelo Inalámbrico Portátil con...'
 sku: 'B07G8ZJCCK-es'
 tags: [  ]

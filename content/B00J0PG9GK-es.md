@@ -5,7 +5,7 @@ date: 2020-08-17 16:16:29
 image: 'https://m.media-amazon.com/images/I/51dE6T8Uz9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J0PG9GK-es Super Sand Giant Gigante Color Natural Goliath 83221'
 sku: 'B00J0PG9GK-es'
 tags: [  ]

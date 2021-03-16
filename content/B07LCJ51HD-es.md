@@ -5,7 +5,7 @@ date: 2020-08-14 22:52:59
 image: 'https://m.media-amazon.com/images/I/51WsYuL2ZRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCJ51HD-es Theefun 6 Paquete Huevos viscosos de Dinosaurio con...'
 sku: 'B07LCJ51HD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-15 07:21:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51bumbpCvmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C78J1BS-es Omen Of Sorrow'
 sku: 'B07C78J1BS-es'
 tags: [  ]

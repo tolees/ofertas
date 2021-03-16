@@ -5,7 +5,7 @@ date: 2020-06-01 08:38:29
 image: 'https://m.media-amazon.com/images/I/518ukbO415L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3BW64X-es Almohada de Cuello Inflable Almohadas de Viaje para...'
 sku: 'B07G3BW64X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-07 03:49:06
 image: 'https://m.media-amazon.com/images/I/31zkNT5fS3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KG8GVE-es Pyrex Classic - Bol de vidrio para mezclas de 3 litros'
 sku: 'B000KG8GVE-es'
 tags: [  ]

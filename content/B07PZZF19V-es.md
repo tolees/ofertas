@@ -5,7 +5,7 @@ date: 2020-04-22 14:02:12
 image: 'https://m.media-amazon.com/images/I/511FxcgGOPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZZF19V-es 2pcs Mosquitera Carrito Bebe Universal Mosquitera para...'
 sku: 'B07PZZF19V-es'
 tags: [  ]

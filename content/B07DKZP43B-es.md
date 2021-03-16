@@ -5,7 +5,7 @@ date: 2020-04-08 06:05:55
 image: 'https://m.media-amazon.com/images/I/41VSxFYLiFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKZP43B-es Bolas de poliestireno Pllieay para manualidades 20...'
 sku: 'B07DKZP43B-es'
 tags: [  ]

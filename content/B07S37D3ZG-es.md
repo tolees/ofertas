@@ -5,7 +5,7 @@ date: 2020-07-20 18:44:35
 image: 'https://m.media-amazon.com/images/I/41m+CrUu3zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S37D3ZG-es Gillette Venus Swirl - Set Maquinilla para Mujer con 2...'
 sku: 'B07S37D3ZG-es'
 tags: [  ]

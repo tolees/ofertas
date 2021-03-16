@@ -5,7 +5,7 @@ date: 2020-06-12 14:50:01
 image: 'https://m.media-amazon.com/images/I/51IOpq11-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014LXY78M-es TY - Beanie Boos Asia Tigre 15 cm Color Blanco / Rosa...'
 sku: 'B014LXY78M-es'
 tags: [  ]

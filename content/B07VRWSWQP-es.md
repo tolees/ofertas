@@ -5,7 +5,7 @@ date: 2020-05-31 19:29:24
 image: 'https://m.media-amazon.com/images/I/41hcppDMdvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRWSWQP-es Trona Evolutiva con bandeja Babify Evo/Nuevo Cojín +...'
 sku: 'B07VRWSWQP-es'
 tags: [  ]

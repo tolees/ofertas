@@ -5,7 +5,7 @@ date: 2020-06-09 19:01:44
 image: 'https://m.media-amazon.com/images/I/51FdiSNaOzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PT6VLG-es ANEWSIR 3 Piezas Protector de Pantalla para Samsung Galaxy...'
 sku: 'B082PT6VLG-es'
 tags: [  ]

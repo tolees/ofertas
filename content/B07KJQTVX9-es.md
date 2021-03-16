@@ -5,7 +5,7 @@ date: 2020-01-11 13:27:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31vhqrdiH1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJQTVX9-es AmazonBasics - Ganchos para cortinas de ducha bola redonda...'
 sku: 'B07KJQTVX9-es'
 tags: [  ]

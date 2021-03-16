@@ -5,7 +5,7 @@ date: 2020-08-23 04:04:19
 image: 'https://m.media-amazon.com/images/I/615FgQyVkiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CHHJT52-es Joyjoz Tatuajes Temporales de Disfraz Halloween niña niño...'
 sku: 'B08CHHJT52-es'
 tags: [  ]

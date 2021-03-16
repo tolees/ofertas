@@ -5,7 +5,7 @@ date: 2020-05-22 07:11:22
 image: 'https://m.media-amazon.com/images/I/51Vn0UBxraL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LLKFX9A-es Osram 64210NBL Lámparas Halógenas Para Faros'
 sku: 'B01LLKFX9A-es'
 tags: [  ]

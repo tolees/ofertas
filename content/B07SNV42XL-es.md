@@ -5,7 +5,7 @@ date: 2020-03-31 18:05:57
 image: 'https://m.media-amazon.com/images/I/41LEjsnk2iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNV42XL-es adidas Forest Grove W Zapatillas de Gimnasia para Mujer...'
 sku: 'B07SNV42XL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-10 17:12:35
 image: 'https://m.media-amazon.com/images/I/31uQJkZJK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FR8MLHF-es VYPE ePen 3 Cigarrillo electrónico Negro'
 sku: 'B08FR8MLHF-es'
 tags: [  ]

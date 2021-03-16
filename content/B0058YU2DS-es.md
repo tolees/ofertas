@@ -5,7 +5,7 @@ date: 2020-06-23 20:34:02
 image: 'https://m.media-amazon.com/images/I/31hnTeig75L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0058YU2DS-es Columbia Bora Bora Booney Sombrero unisex Fibra sintética...'
 sku: 'B0058YU2DS-es'
 tags: [  ]

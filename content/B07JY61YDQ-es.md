@@ -5,7 +5,7 @@ date: 2020-07-21 08:26:45
 image: 'https://m.media-amazon.com/images/I/512agja6WNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JY61YDQ-es Pecute Funda Perros Coche Funda de Asiento para Perros...'
 sku: 'B07JY61YDQ-es'
 tags: [  ]

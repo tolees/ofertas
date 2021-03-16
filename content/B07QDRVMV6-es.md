@@ -5,7 +5,7 @@ date: 2020-06-19 12:32:08
 image: 'https://m.media-amazon.com/images/I/51kUdqzkpjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDRVMV6-es Banco de energía inalámbrico rápido cargador solar...'
 sku: 'B07QDRVMV6-es'
 tags: [  ]

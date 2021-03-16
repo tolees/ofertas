@@ -5,7 +5,7 @@ date: 2020-08-03 20:21:42
 image: 'https://m.media-amazon.com/images/I/414u8AvdmNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YVBQWX-es BRTLX 5W G45 Bombilla LED Mini Globo Blanco Cálido 3000K...'
 sku: 'B075YVBQWX-es'
 tags: [  ]

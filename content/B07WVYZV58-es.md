@@ -5,7 +5,7 @@ date: 2020-07-17 11:15:21
 image: 'https://m.media-amazon.com/images/I/41dh2jFNY3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVYZV58-es Mástil de Antena-Antena TV Interior/Exterior de Alta...'
 sku: 'B07WVYZV58-es'
 tags: [  ]

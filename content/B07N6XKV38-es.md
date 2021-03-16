@@ -5,7 +5,7 @@ date: 2020-01-29 12:59:22
 image: 'https://m.media-amazon.com/images/I/31GHXBhqkdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6XKV38-es Calvin Klein 3.5cm New Essential Belt Cinturón Marrón...'
 sku: 'B07N6XKV38-es'
 tags: [  ]

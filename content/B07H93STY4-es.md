@@ -5,7 +5,7 @@ date: 2020-04-16 08:59:53
 image: 'https://m.media-amazon.com/images/I/517ctLQvQzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H93STY4-es 30000RPM Herramienta de manicura de Torno máquina de...'
 sku: 'B07H93STY4-es'
 tags: [  ]

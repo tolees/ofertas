@@ -5,7 +5,7 @@ date: 2020-05-12 05:32:26
 image: 'https://m.media-amazon.com/images/I/41Cq9bg0W6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GT99QN-es HAUPTSTADTKOFFER - BRITZ - Equipaje de Mano con...'
 sku: 'B077GT99QN-es'
 tags: [  ]

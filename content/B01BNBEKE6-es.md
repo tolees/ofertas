@@ -5,7 +5,7 @@ date: 2020-09-14 01:24:44
 image: 'https://m.media-amazon.com/images/I/41bUwGQ0KZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BNBEKE6-es Hugo Boss Orange Reloj analógico para Hombre con cuarzo...'
 sku: 'B01BNBEKE6-es'
 tags: [  ]

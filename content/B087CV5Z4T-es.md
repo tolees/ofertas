@@ -5,7 +5,7 @@ date: 2020-06-27 23:27:24
 image: 'https://m.media-amazon.com/images/I/41+K9f2iwTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087CV5Z4T-es Cámara Web con micrófono cámara Web Full HD 1296P cámara...'
 sku: 'B087CV5Z4T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-25 12:42:18
 image: 'https://m.media-amazon.com/images/I/51LMCZnE0hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZYXPY3-es Ballery Libros Blandos para Bebé no tóxicos Educación...'
 sku: 'B07WZYXPY3-es'
 tags: [  ]

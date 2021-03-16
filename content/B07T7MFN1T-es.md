@@ -5,7 +5,7 @@ date: 2020-07-24 20:53:18
 image: 'https://m.media-amazon.com/images/I/31v7FnbuQnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7MFN1T-es Xnuoyo 20000mAh Power Bank Cargador Portátil Batería...'
 sku: 'B07T7MFN1T-es'
 tags: [  ]

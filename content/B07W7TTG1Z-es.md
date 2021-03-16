@@ -5,7 +5,7 @@ date: 2020-07-18 15:03:50
 image: 'https://m.media-amazon.com/images/I/31V3GQadRAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7TTG1Z-es adidas Tiro 19 Cotton Pant Pantalones Hombre Black/White M'
 sku: 'B07W7TTG1Z-es'
 tags: [  ]

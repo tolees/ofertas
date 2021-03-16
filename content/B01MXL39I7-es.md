@@ -5,7 +5,7 @@ date: 2020-02-09 18:06:07
 image: 'https://m.media-amazon.com/images/I/31HBbm9XMpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXL39I7-es L Oréal Paris Colorista Coloración Temporal Colorista...'
 sku: 'B01MXL39I7-es'
 tags: [  ]

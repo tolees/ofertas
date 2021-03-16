@@ -5,7 +5,7 @@ date: 2020-09-22 14:22:39
 image: 'https://m.media-amazon.com/images/I/41q+HyzNh1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4GIW6F-es New Balance ML373 Zapatillas para Hombre Verde Olive OLV...'
 sku: 'B01M4GIW6F-es'
 tags: [  ]

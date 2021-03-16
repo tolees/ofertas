@@ -5,7 +5,7 @@ date: 2020-09-14 20:21:33
 image: 'https://m.media-amazon.com/images/I/41eAY7ptn0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F6WF8DJ-es DEJIMAX 2800mAh Batería S4 para Samsung Galaxy S4 2800mAh...'
 sku: 'B08F6WF8DJ-es'
 tags: [  ]

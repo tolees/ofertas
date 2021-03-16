@@ -5,7 +5,7 @@ date: 2020-08-01 19:32:55
 image: 'https://m.media-amazon.com/images/I/41qVA4rt9VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFXKKHC-es PUMA Thunder Fashion 2.0 Zapatillas Deportivas Unisex...'
 sku: 'B07KFXKKHC-es'
 tags: [  ]

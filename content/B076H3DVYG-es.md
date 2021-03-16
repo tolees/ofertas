@@ -5,7 +5,7 @@ date: 2020-07-17 19:55:55
 image: 'https://m.media-amazon.com/images/I/41Qb2PVILML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076H3DVYG-es Jirafa de Piedra Hecha a Mano en Italia - Símbolo de...'
 sku: 'B076H3DVYG-es'
 tags: [  ]

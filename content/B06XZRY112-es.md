@@ -5,7 +5,7 @@ date: 2020-04-30 11:21:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wEMQ6h4zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XZRY112-es Rowenta Flower Love EP2812F0 - Depiladora 2 en 1 con...'
 sku: 'B06XZRY112-es'
 tags: [  ]

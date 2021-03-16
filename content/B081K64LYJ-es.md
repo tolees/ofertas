@@ -5,7 +5,7 @@ date: 2020-01-28 07:32:44
 image: 'https://m.media-amazon.com/images/I/41tTo1hDSDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081K64LYJ-es Ksix Smartwatch HR Multitáctil Urban'
 sku: 'B081K64LYJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 13:21:28
 image: 'https://m.media-amazon.com/images/I/31TLAfsgzTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMWS1MY-es Clarks Hamble Loafer Mocasines Marrón Tan Leather Tan...'
 sku: 'B07TMWS1MY-es'
 tags: [  ]

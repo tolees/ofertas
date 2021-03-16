@@ -5,7 +5,7 @@ date: 2020-04-13 10:03:07
 image: 'https://m.media-amazon.com/images/I/41I4h-04PDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZVWS3L-es Skechers Summits Zapatillas para Mujer Blanco White...'
 sku: 'B07TZVWS3L-es'
 tags: [  ]

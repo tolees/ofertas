@@ -5,7 +5,7 @@ date: 2020-09-22 13:02:14
 image: 'https://m.media-amazon.com/images/I/41Y5UftgVcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPDQQKR-es Cargador Mando para Switch 4 en 1 Estación de Carga para...'
 sku: 'B07DPDQQKR-es'
 tags: [  ]

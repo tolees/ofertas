@@ -5,7 +5,7 @@ date: 2020-08-14 19:57:37
 image: 'https://m.media-amazon.com/images/I/514nwgKxJ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S5R2JJU-es Catan - Erweiterung Seefahrer: Für 3 - 4 Spieler ab 10 Jahren'
 sku: 'B00S5R2JJU-es'
 tags: [  ]

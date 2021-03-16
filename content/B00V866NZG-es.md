@@ -5,7 +5,7 @@ date: 2020-10-10 14:35:43
 image: 'https://m.media-amazon.com/images/I/51UJ6NdJK3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V866NZG-es Arregui TB-021-A Taburete Plegable de 21 cm de altura azul...'
 sku: 'B00V866NZG-es'
 tags: [  ]

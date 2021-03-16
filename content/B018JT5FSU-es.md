@@ -5,7 +5,7 @@ date: 2020-01-27 15:35:01
 image: 'https://m.media-amazon.com/images/I/416GiAKC7dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018JT5FSU-es Levi s Levis 200SF Brief 2P Calzoncillos para Hombre Negro...'
 sku: 'B018JT5FSU-es'
 tags: [  ]

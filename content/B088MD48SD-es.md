@@ -5,7 +5,7 @@ date: 2020-08-30 11:05:54
 image: 'https://m.media-amazon.com/images/I/51it9QS2fIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088MD48SD-es Foto Clip Cadena de Luces LED Guirnalda de Luces para...'
 sku: 'B088MD48SD-es'
 tags: [  ]

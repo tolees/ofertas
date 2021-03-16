@@ -5,7 +5,7 @@ date: 2020-03-15 06:40:32
 image: 'https://m.media-amazon.com/images/I/41kMfZwocfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KCHFNF8-es BLEND Jeans-Noos Cirrus Parte de Arriba Blau Faisal...'
 sku: 'B00KCHFNF8-es'
 tags: [  ]

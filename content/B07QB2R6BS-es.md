@@ -5,7 +5,7 @@ date: 2020-09-26 18:05:31
 image: 'https://m.media-amazon.com/images/I/518m1l15LqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB2R6BS-es Lámparas de Mesa Lampop LED Luz Mesita de Noche Lámpara...'
 sku: 'B07QB2R6BS-es'
 tags: [  ]

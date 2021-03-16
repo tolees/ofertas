@@ -5,7 +5,7 @@ date: 2020-09-08 05:04:15
 image: 'https://m.media-amazon.com/images/I/516aCC0DOgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9B2DPQ-es Gran Chaparral Temp 1 + 2 [DVD]'
 sku: 'B06X9B2DPQ-es'
 tags: [  ]

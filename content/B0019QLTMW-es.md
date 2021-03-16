@@ -5,7 +5,7 @@ date: 2020-02-27 21:01:41
 image: 'https://m.media-amazon.com/images/I/31pn012AXqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0019QLTMW-es Philips HD4646/20 - Calentador de agua Negro/Plata'
 sku: 'B0019QLTMW-es'
 tags: [  ]

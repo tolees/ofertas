@@ -5,7 +5,7 @@ date: 2020-02-23 10:35:31
 image: 'https://m.media-amazon.com/images/I/519-ykF8ngL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01921EGIY-es POP! Vinilo - Tokyo Ghoul: Ken Kaneki'
 sku: 'B01921EGIY-es'
 tags: [  ]

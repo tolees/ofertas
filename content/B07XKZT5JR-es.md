@@ -5,7 +5,7 @@ date: 2020-08-09 06:48:09
 image: 'https://m.media-amazon.com/images/I/41uNoADuGiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKZT5JR-es URCERI Pinpointer Detector de Metales IP68 Detección de...'
 sku: 'B07XKZT5JR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-29 14:33:55
 image: 'https://m.media-amazon.com/images/I/51p4aiVADiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXF38TZ-es EMS Hips Electroestimulador Muscular Gluteos Estimulador...'
 sku: 'B07RXF38TZ-es'
 tags: [  ]

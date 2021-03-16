@@ -5,7 +5,7 @@ date: 2020-10-03 18:13:31
 image: 'https://m.media-amazon.com/images/I/31MrL1rBX9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y934QXM-es XTI 57028 Zapatillas para Niñas Amarillo Amarillo Amarillo...'
 sku: 'B07Y934QXM-es'
 tags: [  ]

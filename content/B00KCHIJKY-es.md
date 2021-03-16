@@ -5,7 +5,7 @@ date: 2020-03-07 02:07:47
 image: 'https://m.media-amazon.com/images/I/41L7h4rQ2DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KCHIJKY-es BLEND Jeans-Noos Cirrus Parte de Arriba Blau Fane...'
 sku: 'B00KCHIJKY-es'
 tags: [  ]

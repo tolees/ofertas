@@ -5,7 +5,7 @@ date: 2020-04-24 12:17:44
 image: 'https://m.media-amazon.com/images/I/41JYhQNkPPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AZH8DWO-es New Balance 500 Core Zapatillas para Hombre Azul Navy Navy...'
 sku: 'B01AZH8DWO-es'
 tags: [  ]

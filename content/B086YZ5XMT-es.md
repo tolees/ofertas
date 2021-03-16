@@ -5,7 +5,7 @@ date: 2020-04-27 14:03:20
 image: 'https://m.media-amazon.com/images/I/41P4whnec-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YZ5XMT-es DeoMeat Cadenas Chupete Clips de Chupete de bebé para...'
 sku: 'B086YZ5XMT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 04:38:43
 image: 'https://m.media-amazon.com/images/I/414SvRmugJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000L5KCW0-es Pelikan 520866 - Cinta para Canon/Facit/Sharp Grupo 51 S+U...'
 sku: 'B000L5KCW0-es'
 tags: [  ]

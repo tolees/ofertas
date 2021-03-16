@@ -5,7 +5,7 @@ date: 2020-02-08 17:52:14
 image: 'https://m.media-amazon.com/images/I/51nbR1+kSfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPGRX2X-es VSADEY Aceites Esenciales Aromaterapia Aceites Esenciales...'
 sku: 'B07JPGRX2X-es'
 tags: [  ]

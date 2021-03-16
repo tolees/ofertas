@@ -5,7 +5,7 @@ date: 2020-05-08 16:43:12
 image: 'https://m.media-amazon.com/images/I/41DyUM8MP1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SZ2T5Q-es Salomon Ellipse Freeze CS WP Calzado de Invierno para...'
 sku: 'B078SZ2T5Q-es'
 tags: [  ]

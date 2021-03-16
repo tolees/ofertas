@@ -5,7 +5,7 @@ date: 2020-06-28 13:36:37
 image: 'https://m.media-amazon.com/images/I/41ArsFJD5OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D75ZTM9-es Brewsly Botella de Agua - 500ML de Doble Pared con...'
 sku: 'B07D75ZTM9-es'
 tags: [  ]

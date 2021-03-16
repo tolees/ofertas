@@ -5,7 +5,7 @@ date: 2020-08-05 09:09:39
 image: 'https://m.media-amazon.com/images/I/51FMvGolKDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H208XHW-es God of War - Edición Estándar'
 sku: 'B01H208XHW-es'
 tags: [  ]

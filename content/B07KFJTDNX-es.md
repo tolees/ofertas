@@ -5,7 +5,7 @@ date: 2020-03-01 10:08:06
 image: 'https://m.media-amazon.com/images/I/41h8YWzBEPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFJTDNX-es G-Star Raw Dunda Slim Polo S\\s sartho blue 6067 Large...'
 sku: 'B07KFJTDNX-es'
 tags: [  ]

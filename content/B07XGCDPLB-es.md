@@ -5,7 +5,7 @@ date: 2020-07-16 11:38:14
 image: 'https://m.media-amazon.com/images/I/316wZ-swXoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGCDPLB-es Blindecor Lira Estor Enrollable de Doble Capa Noche y Día...'
 sku: 'B07XGCDPLB-es'
 tags: [  ]

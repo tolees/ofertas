@@ -5,7 +5,7 @@ date: 2020-01-08 10:39:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/510A9E13GQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YKVZZ3J-es SeeKool Bandas de Fitness/Bandas de Resistencia 5 Tubos de...'
 sku: 'B07YKVZZ3J-es'
 tags: [  ]

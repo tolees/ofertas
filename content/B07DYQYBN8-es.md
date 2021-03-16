@@ -5,7 +5,7 @@ date: 2020-09-01 15:38:29
 image: 'https://m.media-amazon.com/images/I/515GhXmBWHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYQYBN8-es Txyk Cabañas de Madera de Bricolaje Casa de muñecas en...'
 sku: 'B07DYQYBN8-es'
 tags: [  ]

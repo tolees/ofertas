@@ -5,7 +5,7 @@ date: 2020-05-14 07:51:49
 image: 'https://m.media-amazon.com/images/I/417eR0C81wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5JTBBR-es FreedConn Accesorio de Clip de Casco de intercomunicador...'
 sku: 'B07R5JTBBR-es'
 tags: [  ]

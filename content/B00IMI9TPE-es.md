@@ -5,7 +5,7 @@ date: 2020-02-18 08:31:57
 image: 'https://m.media-amazon.com/images/I/41GySgffRpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IMI9TPE-es Atosa - Disfraz de rambo para mujer talla XL 22937'
 sku: 'B00IMI9TPE-es'
 tags: [  ]

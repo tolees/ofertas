@@ -5,7 +5,7 @@ date: 2020-10-06 17:16:21
 image: 'https://m.media-amazon.com/images/I/31mj00Hyc3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SF2GQTJ-es Carpeta con recambio Europeanbinder A4+ Oxford Touch color...'
 sku: 'B07SF2GQTJ-es'
 tags: [  ]

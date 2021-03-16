@@ -5,7 +5,7 @@ date: 2020-08-16 16:54:04
 image: 'https://m.media-amazon.com/images/I/51fw9H1nIsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BK177ZR-es Young & Ming universal bolsa de viaje cable organizador...'
 sku: 'B07BK177ZR-es'
 tags: [  ]

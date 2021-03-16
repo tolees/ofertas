@@ -5,7 +5,7 @@ date: 2020-07-04 14:01:10
 image: 'https://m.media-amazon.com/images/I/51vzPIbMR7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003TGAXWW-es Intex - Juego de 6 Cartuchos de Filtro Tipo de filtración: A'
 sku: 'B003TGAXWW-es'
 tags: [  ]

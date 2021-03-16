@@ -5,7 +5,7 @@ date: 2020-06-26 13:37:49
 image: 'https://m.media-amazon.com/images/I/41ebdcXJl5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZYPYBB-es Brabantia Cubo de Basura con Pedal Inoxidable Acero Mate...'
 sku: 'B01LZYPYBB-es'
 tags: [  ]

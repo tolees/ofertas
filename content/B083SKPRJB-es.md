@@ -5,7 +5,7 @@ date: 2020-05-01 08:30:24
 image: 'https://m.media-amazon.com/images/I/51QKDh4ualL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SKPRJB-es TELMU Telescopio monocular 10X42 para adultos prisma BAK-4...'
 sku: 'B083SKPRJB-es'
 tags: [  ]

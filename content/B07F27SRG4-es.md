@@ -5,7 +5,7 @@ date: 2020-03-24 19:45:28
 image: 'https://m.media-amazon.com/images/I/41WClP-18PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F27SRG4-es Levi s Original Hm Zipup Hoodie Capucha Azul Indigo 0001...'
 sku: 'B07F27SRG4-es'
 tags: [  ]

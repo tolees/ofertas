@@ -5,7 +5,7 @@ date: 2020-10-03 10:23:10
 image: 'https://m.media-amazon.com/images/I/41UAn2SBULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKZWSHH-es adidas Gymsack SP Bolsa de Deporte Unisex Adulto...'
 sku: 'B07KKZWSHH-es'
 tags: [  ]

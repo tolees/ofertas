@@ -5,7 +5,7 @@ date: 2020-02-22 19:15:36
 image: 'https://m.media-amazon.com/images/I/417Aan3fceL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072M79ZVR-es Weider Testo Xtreme. Incrementa los niveles de energía...'
 sku: 'B072M79ZVR-es'
 tags: [  ]

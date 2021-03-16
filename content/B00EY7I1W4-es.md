@@ -5,7 +5,7 @@ date: 2020-07-13 18:56:08
 image: 'https://m.media-amazon.com/images/I/41twxJmo4mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EY7I1W4-es Calvin Klein Reloj de Cuarzo para Hombre con Correa de...'
 sku: 'B00EY7I1W4-es'
 tags: [  ]

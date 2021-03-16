@@ -5,7 +5,7 @@ date: 2020-08-30 15:59:46
 image: 'https://m.media-amazon.com/images/I/41YgtD3JjnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHMDDDJ-es Napapijri Elbas 3 Polo Azul Ultramarine BLU Bb41 Large...'
 sku: 'B07VHMDDDJ-es'
 tags: [  ]

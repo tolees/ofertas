@@ -5,7 +5,7 @@ date: 2020-04-12 15:40:53
 image: 'https://m.media-amazon.com/images/I/41CrrkY7S0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K7WOXWW-es Maybelline Color Sensational Vivids - 902 Fuchsia Flash -...'
 sku: 'B00K7WOXWW-es'
 tags: [  ]

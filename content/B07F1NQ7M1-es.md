@@ -5,7 +5,7 @@ date: 2020-10-01 18:31:26
 image: 'https://m.media-amazon.com/images/I/41d1ckQknnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1NQ7M1-es Conector Coaxial RF Adaptadores Accesorios para Imagen...'
 sku: 'B07F1NQ7M1-es'
 tags: [  ]

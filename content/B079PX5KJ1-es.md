@@ -5,7 +5,7 @@ date: 2020-04-28 11:40:32
 image: 'https://m.media-amazon.com/images/I/31Yw46U66QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PX5KJ1-es adidas Run tee M T-Shirt Hombre Black L'
 sku: 'B079PX5KJ1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 18:33:05
 image: 'https://m.media-amazon.com/images/I/41QiGlw3fFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HO9VPLC-es Asics Unisex Adults Gel-Kayano Trainer Evo Zapatillas de...'
 sku: 'B01HO9VPLC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-22 12:05:23
 image: 'https://m.media-amazon.com/images/I/41L3xa-JUTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086LH24TR-es Bandas compatibles con Inspire/Inspire HR/Ace2 Kitway-my...'
 sku: 'B086LH24TR-es'
 tags: [  ]

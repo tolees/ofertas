@@ -5,7 +5,7 @@ date: 2020-01-18 11:30:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-xaih-APL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019FKF6NG-es Béaba 913400 - Cuchara y tenedor ergonómicos de...'
 sku: 'B019FKF6NG-es'
 tags: [  ]

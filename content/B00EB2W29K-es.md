@@ -5,7 +5,7 @@ date: 2020-01-02 10:28:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CuUZunO1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EB2W29K-es WMF Lineo Picadora de 500 W y 5000 RPM de 2 velocidades...'
 sku: 'B00EB2W29K-es'
 tags: [  ]

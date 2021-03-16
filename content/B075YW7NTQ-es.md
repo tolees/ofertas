@@ -5,7 +5,7 @@ date: 2020-09-03 15:25:51
 image: 'https://m.media-amazon.com/images/I/41exR-4rMrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YW7NTQ-es Sloggi Zero Feel Bralette Corsé para Mujer Beige Cognac Sh M'
 sku: 'B075YW7NTQ-es'
 tags: [  ]

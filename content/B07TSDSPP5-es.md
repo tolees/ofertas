@@ -5,7 +5,7 @@ date: 2020-08-25 11:45:41
 image: 'https://m.media-amazon.com/images/I/41ilZMTX9EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSDSPP5-es Pandiki Reemplazo para HP Pavilion dv6000 dv6500 18.5V...'
 sku: 'B07TSDSPP5-es'
 tags: [  ]

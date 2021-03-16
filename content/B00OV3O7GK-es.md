@@ -5,7 +5,7 @@ date: 2020-03-27 14:36:31
 image: 'https://m.media-amazon.com/images/I/41Ewg976DmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OV3O7GK-es Sveon SCT022 - Lector de DNI electrónico'
 sku: 'B00OV3O7GK-es'
 tags: [  ]

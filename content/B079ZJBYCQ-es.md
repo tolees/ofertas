@@ -5,7 +5,7 @@ date: 2020-03-08 11:51:00
 image: 'https://m.media-amazon.com/images/I/41WjgIOuXkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZJBYCQ-es Britax Römer silla de coche 15 - 36 kg ≈ 3 5 - 12 años...'
 sku: 'B079ZJBYCQ-es'
 tags: [  ]

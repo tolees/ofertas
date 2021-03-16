@@ -5,7 +5,7 @@ date: 2020-08-22 09:01:06
 image: 'https://m.media-amazon.com/images/I/41co+JDuFzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U3TQR7S-es Lowepro Adventura TLZ 30 II - Bolsa para cámara réflex Negro'
 sku: 'B00U3TQR7S-es'
 tags: [  ]

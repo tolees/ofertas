@@ -5,7 +5,7 @@ date: 2020-08-06 12:15:56
 image: 'https://m.media-amazon.com/images/I/31AOX7d5PCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WF7NT4-es 40g Bola de baño Tamaño pequeño Hogar Hotel Baño SPA...'
 sku: 'B082WF7NT4-es'
 tags: [  ]

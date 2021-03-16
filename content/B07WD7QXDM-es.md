@@ -5,7 +5,7 @@ date: 2020-04-28 08:44:46
 image: 'https://m.media-amazon.com/images/I/61sNLy8+CzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WD7QXDM-es Jojoin Bandejas de Viaje Mesa Coche para Niños Bandeja...'
 sku: 'B07WD7QXDM-es'
 tags: [  ]

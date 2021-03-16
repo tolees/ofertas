@@ -5,7 +5,7 @@ date: 2020-04-30 16:31:48
 image: 'https://m.media-amazon.com/images/I/51nJjG0WaCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTLVTK9-es Kipling - Creativity L Monederos Mujer Azul Stone Blue...'
 sku: 'B07PTLVTK9-es'
 tags: [  ]

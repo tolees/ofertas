@@ -5,7 +5,7 @@ date: 2020-03-16 20:02:45
 image: 'https://m.media-amazon.com/images/I/31SfvTi2rPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1BQV9Y-es GLOGLOW Calzoncillos de Baja Altura para Hombres Bragas...'
 sku: 'B07K1BQV9Y-es'
 tags: [  ]

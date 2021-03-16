@@ -5,7 +5,7 @@ date: 2020-06-25 12:47:43
 image: 'https://m.media-amazon.com/images/I/41ag1+rVHeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7QMOBO-es Dodot Toallitas Básico de Recambio - 54 Unidades'
 sku: 'B01K7QMOBO-es'
 tags: [  ]

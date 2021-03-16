@@ -5,7 +5,7 @@ date: 2020-01-20 12:43:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51cExLH3qQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQBMNKM-es PVZ Battle for Neighborville'
 sku: 'B07XQBMNKM-es'
 tags: [  ]

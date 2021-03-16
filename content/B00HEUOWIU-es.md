@@ -5,7 +5,7 @@ date: 2020-03-16 15:38:06
 image: 'https://m.media-amazon.com/images/I/51taOBOruXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HEUOWIU-es Columbia Watch Cap II Gorro Unisex Graphite/Tradewinds...'
 sku: 'B00HEUOWIU-es'
 tags: [  ]

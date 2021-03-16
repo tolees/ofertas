@@ -5,7 +5,7 @@ date: 2020-09-30 12:08:27
 image: 'https://m.media-amazon.com/images/I/31suYOVTb0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHL18C7-es PUMA Studio Q4 Tight Mallas Deporte Mujer Black S'
 sku: 'B07QHL18C7-es'
 tags: [  ]

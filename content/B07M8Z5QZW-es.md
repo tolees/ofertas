@@ -5,7 +5,7 @@ date: 2020-07-14 10:58:15
 image: 'https://m.media-amazon.com/images/I/61X1NGph2-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8Z5QZW-es WERNNSAI Juego Tema Decoración de Fiesta - Set de Party...'
 sku: 'B07M8Z5QZW-es'
 tags: [  ]

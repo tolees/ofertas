@@ -5,7 +5,7 @@ date: 2020-06-01 16:10:28
 image: 'https://m.media-amazon.com/images/I/41pcdVzmMNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQZ2J1Y-es Skechers Relven-Velton Zapatillas Deportivas para Hombre...'
 sku: 'B07BQZ2J1Y-es'
 tags: [  ]

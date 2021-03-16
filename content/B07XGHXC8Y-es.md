@@ -5,7 +5,7 @@ date: 2020-05-13 14:09:15
 image: 'https://m.media-amazon.com/images/I/41C5W8nRUwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGHXC8Y-es Adaptador de Audio USB HiFi Magic Voice 7.1 CH con Altavoz...'
 sku: 'B07XGHXC8Y-es'
 tags: [  ]

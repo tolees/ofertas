@@ -5,7 +5,7 @@ date: 2020-08-15 12:11:43
 image: 'https://m.media-amazon.com/images/I/51WO+ke1PNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBZZ8RX-es Nike Pico 5 TDV Zapatillas Unisex Niños Azul Deep Royal...'
 sku: 'B07WBZZ8RX-es'
 tags: [  ]

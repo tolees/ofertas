@@ -5,7 +5,7 @@ date: 2020-04-15 21:01:20
 image: 'https://m.media-amazon.com/images/I/41ML2MMp6aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCBM1HV-es Pepe Jeans James Pantalones Azul Blueing 565 W32/L30 para...'
 sku: 'B07NCBM1HV-es'
 tags: [  ]

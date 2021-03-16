@@ -5,7 +5,7 @@ date: 2020-06-25 18:53:44
 image: 'https://m.media-amazon.com/images/I/41yeGKT51jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5SCDNW-es PUMA ESS Logo tee T-Shirt Mujer Puma White XS'
 sku: 'B07D5SCDNW-es'
 tags: [  ]

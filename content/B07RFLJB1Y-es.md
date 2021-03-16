@@ -5,7 +5,7 @@ date: 2020-07-17 10:45:30
 image: 'https://m.media-amazon.com/images/I/41w4lEwJgHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFLJB1Y-es Trust GXT 107 Izza Ratón inalámbrico para Juegos Negro'
 sku: 'B07RFLJB1Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-27 12:04:51
 image: 'https://m.media-amazon.com/images/I/41mOeIWwjqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQD2JS4-es Salomon Trailster W Zapatillas de Trail Running para Mujer...'
 sku: 'B07KQD2JS4-es'
 tags: [  ]

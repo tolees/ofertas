@@ -5,7 +5,7 @@ date: 2020-09-22 10:08:26
 image: 'https://m.media-amazon.com/images/I/31VNuY3cWGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3N36RN-es Tommy Hilfiger Tommy Jeans Summer Shoe Mocasines para...'
 sku: 'B07V3N36RN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 21:24:07
 image: 'https://m.media-amazon.com/images/I/31cDoazj2rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016C2APSG-es Maybelline New York - Lash Sensational Intense Black...'
 sku: 'B016C2APSG-es'
 tags: [  ]

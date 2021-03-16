@@ -5,7 +5,7 @@ date: 2020-01-27 11:19:47
 image: 'https://m.media-amazon.com/images/I/31dMknW8y+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GSWXFFA-es Under Armour UA M Locker III SL Negro 44 EU'
 sku: 'B01GSWXFFA-es'
 tags: [  ]

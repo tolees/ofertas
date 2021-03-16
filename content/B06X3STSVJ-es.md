@@ -5,7 +5,7 @@ date: 2020-09-05 19:17:25
 image: 'https://m.media-amazon.com/images/I/41Unl9iJ90L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X3STSVJ-es Braun Minipimer 3025 Batidora de mano 2 velocidades...'
 sku: 'B06X3STSVJ-es'
 tags: [  ]

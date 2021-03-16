@@ -5,7 +5,7 @@ date: 2020-04-12 18:22:02
 image: 'https://m.media-amazon.com/images/I/31LbgMjECpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLJG47-es Levi s Graphic Sport Hoodie Capucha Azul Goodie Box Taba...'
 sku: 'B07RZLJG47-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-18 19:41:24
 image: 'https://m.media-amazon.com/images/I/41NoOWY9GPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0819FL7DY-es PUTORSEN® Soporte de impresora debajo del escritorio con...'
 sku: 'B0819FL7DY-es'
 tags: [  ]

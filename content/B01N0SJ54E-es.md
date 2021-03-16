@@ -5,7 +5,7 @@ date: 2020-02-26 15:55:34
 image: 'https://m.media-amazon.com/images/I/31B2a5cCvaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0SJ54E-es JACK & JONES Jjimarco Jjenzo WW 420 Noos Pantalones Azul...'
 sku: 'B01N0SJ54E-es'
 tags: [  ]

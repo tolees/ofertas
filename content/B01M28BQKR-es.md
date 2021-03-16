@@ -5,7 +5,7 @@ date: 2020-02-03 08:42:24
 image: 'https://m.media-amazon.com/images/I/41qU83QiGBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M28BQKR-es Gant Terrycloth Robe Albornoz Azul Yankee Blue 459 Medium...'
 sku: 'B01M28BQKR-es'
 tags: [  ]

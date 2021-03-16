@@ -5,7 +5,7 @@ date: 2020-08-26 07:27:12
 image: 'https://m.media-amazon.com/images/I/41jz26dYbqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BR4M1WV-es HUIJ Aspiradora Aspiradoras de Mano para Piscinas...'
 sku: 'B08BR4M1WV-es'
 tags: [  ]

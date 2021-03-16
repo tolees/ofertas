@@ -5,7 +5,7 @@ date: 2020-03-18 15:05:33
 image: 'https://m.media-amazon.com/images/I/31bdteGG14L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002N5UL9A-es hummel 022030 Socks Unisex Adulto Blanco 10'
 sku: 'B002N5UL9A-es'
 tags: [  ]

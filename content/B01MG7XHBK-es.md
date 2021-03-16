@@ -5,7 +5,7 @@ date: 2020-06-15 09:31:37
 image: 'https://m.media-amazon.com/images/I/41KuAkA8+-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MG7XHBK-es G-STAR RAW ZED Cinturón Negro Black/black 406 100 para Hombre'
 sku: 'B01MG7XHBK-es'
 tags: [  ]

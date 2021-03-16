@@ -5,7 +5,7 @@ date: 2020-06-25 06:58:38
 image: 'https://m.media-amazon.com/images/I/51Lo-vGyv5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7NL4DC-es Uverbon Esterillas Inflables Esterilla Acampada Camping...'
 sku: 'B07T7NL4DC-es'
 tags: [  ]

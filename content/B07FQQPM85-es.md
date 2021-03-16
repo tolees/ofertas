@@ -5,7 +5,7 @@ date: 2020-10-12 07:46:39
 image: 'https://m.media-amazon.com/images/I/41cnHEG5LpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQQPM85-es Altavoz Bluetooth Ducha Impermeable con Ventosa Extraíble...'
 sku: 'B07FQQPM85-es'
 tags: [  ]

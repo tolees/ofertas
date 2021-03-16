@@ -5,7 +5,7 @@ date: 2020-02-22 10:24:19
 image: 'https://m.media-amazon.com/images/I/41M8fSUA92L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082TTGMH5-es Manga De Vibración De Doble Dedo Vïbradörès Dèdö...'
 sku: 'B082TTGMH5-es'
 tags: [  ]

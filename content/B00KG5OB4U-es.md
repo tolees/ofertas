@@ -5,7 +5,7 @@ date: 2020-01-07 12:06:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IL7tJAq-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KG5OB4U-es Love2Wait Sophia Pantalones Negro Schwarz-Schwarz W28 para...'
 sku: 'B00KG5OB4U-es'
 tags: [  ]

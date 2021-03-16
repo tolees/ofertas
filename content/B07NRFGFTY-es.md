@@ -5,7 +5,7 @@ date: 2020-07-30 19:46:32
 image: 'https://m.media-amazon.com/images/I/41Mu4z6wzML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRFGFTY-es Fa - Desodorante Roll-On Sport - Anti Transpirable y...'
 sku: 'B07NRFGFTY-es'
 tags: [  ]

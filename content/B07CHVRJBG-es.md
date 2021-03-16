@@ -5,7 +5,7 @@ date: 2020-02-12 10:26:32
 image: 'https://m.media-amazon.com/images/I/41bC7MTFRWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHVRJBG-es Havaianas Origine Slim Bailarinas con Correa de Tobillo...'
 sku: 'B07CHVRJBG-es'
 tags: [  ]

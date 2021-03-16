@@ -5,7 +5,7 @@ date: 2020-06-01 11:55:06
 image: 'https://m.media-amazon.com/images/I/41a8seJvGZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BH7Y21L-es Liposan Bálsamo labial Sabor Cereza - 4.8 gr'
 sku: 'B07BH7Y21L-es'
 tags: [  ]

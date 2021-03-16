@@ -5,7 +5,7 @@ date: 2020-09-29 15:28:43
 image: 'https://m.media-amazon.com/images/I/41VAW+eRsAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078MFXDJS-es SONGMICS Carrito de Cocina con Ruedas Estantería con 3...'
 sku: 'B078MFXDJS-es'
 tags: [  ]

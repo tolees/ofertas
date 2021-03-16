@@ -5,7 +5,7 @@ date: 2020-05-20 06:29:58
 image: 'https://m.media-amazon.com/images/I/317xbJj3vOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLP8CY6-es Clarks Stanford Zip Botas Chelsea para Hombre Marrón Tan...'
 sku: 'B07TLP8CY6-es'
 tags: [  ]

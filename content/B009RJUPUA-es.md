@@ -5,7 +5,7 @@ date: 2020-01-02 16:32:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009RJUPUA-es Cat Footwear Colorado Botas para Hombre Beige Honey 41 EU'
 sku: 'B009RJUPUA-es'
 tags: [  ]

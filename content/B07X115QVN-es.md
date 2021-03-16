@@ -5,7 +5,7 @@ date: 2020-02-25 10:53:24
 image: 'https://m.media-amazon.com/images/I/51ZhBY8mh8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X115QVN-es Rompecabezas 3D para Niños STEM Learning Toy Kit de...'
 sku: 'B07X115QVN-es'
 tags: [  ]

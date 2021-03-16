@@ -5,7 +5,7 @@ date: 2020-02-20 19:31:55
 image: 'https://m.media-amazon.com/images/I/512P3lHiA+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BS3MSQR-es Naipo Cojín de Masaje Respaldo Masajeador Espalda Shiatsu...'
 sku: 'B07BS3MSQR-es'
 tags: [  ]

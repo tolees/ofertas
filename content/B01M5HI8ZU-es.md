@@ -5,7 +5,7 @@ date: 2020-05-10 05:01:21
 image: 'https://m.media-amazon.com/images/I/41xMU-YhPOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5HI8ZU-es Mounting Dream Soporte de Pared TV Giratorio y Inclinable...'
 sku: 'B01M5HI8ZU-es'
 tags: [  ]

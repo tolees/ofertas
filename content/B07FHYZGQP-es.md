@@ -5,7 +5,7 @@ date: 2020-04-21 14:02:14
 image: 'https://m.media-amazon.com/images/I/41nuRK9kcbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHYZGQP-es Luchild Dummy Clips Baby Pacifier Holder Made from Food...'
 sku: 'B07FHYZGQP-es'
 tags: [  ]

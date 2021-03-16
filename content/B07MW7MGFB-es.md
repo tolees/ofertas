@@ -5,7 +5,7 @@ date: 2020-02-06 21:04:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/519WXQwazNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MW7MGFB-es Marvel Capitán Marvel - Vaso cambiador de frío protector...'
 sku: 'B07MW7MGFB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-26 22:25:34
 image: 'https://m.media-amazon.com/images/I/31Xb2e9BS-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HGNV4N-es Reebok Royal Ultra Zapatillas para Hombre Azul Collegiate...'
 sku: 'B071HGNV4N-es'
 tags: [  ]

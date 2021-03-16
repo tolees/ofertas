@@ -5,7 +5,7 @@ date: 2020-05-19 15:32:29
 image: 'https://m.media-amazon.com/images/I/21XbeHwYeIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZVW9QR-es Moulinex Principio LS160111 - Tostadora de una ranura...'
 sku: 'B075ZVW9QR-es'
 tags: [  ]

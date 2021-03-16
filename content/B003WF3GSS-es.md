@@ -5,7 +5,7 @@ date: 2020-02-05 19:58:47
 image: 'https://m.media-amazon.com/images/I/31GugyKBz3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003WF3GSS-es Suavinex – Loción hidratante Corporal para bebés. Apta...'
 sku: 'B003WF3GSS-es'
 tags: [  ]

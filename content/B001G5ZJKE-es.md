@@ -5,7 +5,7 @@ date: 2020-02-12 19:29:25
 image: 'https://m.media-amazon.com/images/I/31nUpv-YJsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001G5ZJKE-es Tuscany Silver Cadena con plata con colgante con circonita...'
 sku: 'B001G5ZJKE-es'
 tags: [  ]

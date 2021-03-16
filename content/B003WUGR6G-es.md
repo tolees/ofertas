@@ -5,7 +5,7 @@ date: 2020-02-04 11:21:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XmP9DgIIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003WUGR6G-es Munchkin - Cubierto'
 sku: 'B003WUGR6G-es'
 tags: [  ]

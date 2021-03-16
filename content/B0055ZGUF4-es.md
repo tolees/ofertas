@@ -5,7 +5,7 @@ date: 2020-06-09 12:27:42
 image: 'https://m.media-amazon.com/images/I/411u5U5DDoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055ZGUF4-es Jata 610 - Báscula de cocina'
 sku: 'B0055ZGUF4-es'
 tags: [  ]

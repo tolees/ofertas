@@ -5,7 +5,7 @@ date: 2020-10-03 12:01:27
 image: 'https://m.media-amazon.com/images/I/41UE1PyhUVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076SPXM4H-es Lote de 100 Mixto Multicolor cuentas de madera de...'
 sku: 'B076SPXM4H-es'
 tags: [  ]

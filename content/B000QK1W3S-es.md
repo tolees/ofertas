@@ -5,7 +5,7 @@ date: 2020-03-27 17:14:01
 image: 'https://m.media-amazon.com/images/I/41skpjJgZNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000QK1W3S-es Converse Chuck Taylor All Star Zapatillas altas Unisex...'
 sku: 'B000QK1W3S-es'
 tags: [  ]

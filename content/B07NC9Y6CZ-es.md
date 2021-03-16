@@ -5,7 +5,7 @@ date: 2020-01-13 17:55:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wiREVUKkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC9Y6CZ-es Pepe Jeans Lulu suéter Rojo Francois Red 240 X-Small para...'
 sku: 'B07NC9Y6CZ-es'
 tags: [  ]

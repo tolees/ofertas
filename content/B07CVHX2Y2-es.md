@@ -5,7 +5,7 @@ date: 2020-05-04 02:37:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WhKF17oAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVHX2Y2-es Skechers Go Walk 4-Privilege Zapatillas sin Cordones para...'
 sku: 'B07CVHX2Y2-es'
 tags: [  ]

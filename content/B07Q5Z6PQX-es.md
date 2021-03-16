@@ -5,7 +5,7 @@ date: 2020-02-02 08:04:18
 image: 'https://m.media-amazon.com/images/I/513mFF2AeXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q5Z6PQX-es zociko EMS Electroestimulador Muscular Abdominales...'
 sku: 'B07Q5Z6PQX-es'
 tags: [  ]

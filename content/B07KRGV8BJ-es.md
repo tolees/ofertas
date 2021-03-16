@@ -5,7 +5,7 @@ date: 2020-04-02 08:24:33
 image: 'https://m.media-amazon.com/images/I/417lAXeVcRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRGV8BJ-es New Balance 574v2 Zapatillas para Hombre Azul Navy/White...'
 sku: 'B07KRGV8BJ-es'
 tags: [  ]

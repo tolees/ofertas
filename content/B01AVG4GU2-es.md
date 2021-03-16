@@ -5,7 +5,7 @@ date: 2020-03-06 09:06:13
 image: 'https://m.media-amazon.com/images/I/31rBPnyVMCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AVG4GU2-es Master Series Caña Espada de Energía Eléctrico - 1 Unidad'
 sku: 'B01AVG4GU2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 08:20:52
 image: 'https://m.media-amazon.com/images/I/41hTov9vUnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072VJ5DST-es Buff Fizz Tricot Calentador Polar Mujer Rosa Honeysuckle...'
 sku: 'B072VJ5DST-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-23 15:33:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31WxgWKRtRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR7KD48-es Under Armour UA Qualifier Heatgear Tight Leggings Hombre...'
 sku: 'B07KR7KD48-es'
 tags: [  ]

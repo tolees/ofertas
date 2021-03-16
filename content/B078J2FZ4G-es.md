@@ -5,7 +5,7 @@ date: 2020-08-21 13:45:23
 image: 'https://m.media-amazon.com/images/I/41Qzbp4uoCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078J2FZ4G-es D-Link COVR-C1203 - Kit WiFi Mesh/Malla con 3 Puntos de...'
 sku: 'B078J2FZ4G-es'
 tags: [  ]

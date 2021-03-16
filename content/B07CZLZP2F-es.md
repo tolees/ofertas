@@ -5,7 +5,7 @@ date: 2020-06-02 04:51:52
 image: 'https://m.media-amazon.com/images/I/51Ervfv5L1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZLZP2F-es Glowz Glow Sticks Glow In The Dark Pulseras Premium...'
 sku: 'B07CZLZP2F-es'
 tags: [  ]

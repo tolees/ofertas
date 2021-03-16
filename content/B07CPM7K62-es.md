@@ -5,7 +5,7 @@ date: 2020-07-07 19:52:09
 image: 'https://m.media-amazon.com/images/I/31LHR2WL6UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPM7K62-es Jimmy Choo Agua fresca - 100 ml.'
 sku: 'B07CPM7K62-es'
 tags: [  ]

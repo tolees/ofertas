@@ -5,7 +5,7 @@ date: 2020-04-17 09:54:50
 image: 'https://m.media-amazon.com/images/I/51H-L6wdj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WP7JK81-es LIBERRWAY Tubo Termorretráctil 615 Piezas 2: 1 Poliolefina...'
 sku: 'B06WP7JK81-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-23 10:03:29
 image: 'https://m.media-amazon.com/images/I/41Mg6fGhWFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LLGXIDM-es 1 par Pendientes pequeños de plata de las mujeres...'
 sku: 'B01LLGXIDM-es'
 tags: [  ]

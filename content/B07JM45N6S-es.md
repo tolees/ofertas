@@ -5,7 +5,7 @@ date: 2020-07-01 07:03:11
 image: 'https://m.media-amazon.com/images/I/31MWODc62LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM45N6S-es Formulaone 2600MAH Tamaño portátil 1 * 18650 Batería Banco...'
 sku: 'B07JM45N6S-es'
 tags: [  ]

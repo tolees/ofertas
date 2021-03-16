@@ -5,7 +5,7 @@ date: 2020-05-06 13:03:05
 image: 'https://m.media-amazon.com/images/I/41xFgUSPEJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7ZKT5Q-es Oihxse Compatible con Samsung Galaxy Note 9 Funda Silicona...'
 sku: 'B07Z7ZKT5Q-es'
 tags: [  ]

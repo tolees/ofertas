@@ -5,7 +5,7 @@ date: 2020-02-05 13:28:53
 image: 'https://m.media-amazon.com/images/I/412frO8N5uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001MZYHRE-es Hill`s Science Plan Alimento con Sabor a Pollo para Perros...'
 sku: 'B001MZYHRE-es'
 tags: [  ]

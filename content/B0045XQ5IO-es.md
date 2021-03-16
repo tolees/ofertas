@@ -5,7 +5,7 @@ date: 2020-04-28 14:08:13
 image: 'https://m.media-amazon.com/images/I/31Gfd5B8EiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0045XQ5IO-es Bering Ceramic - Reloj analógico de mujer de cuarzo con...'
 sku: 'B0045XQ5IO-es'
 tags: [  ]

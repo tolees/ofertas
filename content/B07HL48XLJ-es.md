@@ -5,7 +5,7 @@ date: 2020-09-16 12:30:48
 image: 'https://m.media-amazon.com/images/I/5106Bn5jvQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL48XLJ-es Mochila Lona Mochila para Portátil 17.3 Pulgadas Vintage...'
 sku: 'B07HL48XLJ-es'
 tags: [  ]

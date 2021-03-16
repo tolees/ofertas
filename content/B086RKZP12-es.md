@@ -5,7 +5,7 @@ date: 2020-09-23 17:13:35
 image: 'https://m.media-amazon.com/images/I/51fLx0szyjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086RKZP12-es OWAYKEY - Amplificador Bluetooth 50 W + 50 W 2 canales...'
 sku: 'B086RKZP12-es'
 tags: [  ]

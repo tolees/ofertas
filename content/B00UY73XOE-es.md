@@ -5,7 +5,7 @@ date: 2020-05-10 14:40:56
 image: 'https://m.media-amazon.com/images/I/41JB6qPZnnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UY73XOE-es ieGeek Autoradio Bluetooth 4×60W Llamadas Manos Libres...'
 sku: 'B00UY73XOE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-18 16:51:11
 image: 'https://m.media-amazon.com/images/I/31rcXG+XfBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RE3ORU-es Brabantia 365102 - Espumadera Nylon Color Negro'
 sku: 'B000RE3ORU-es'
 tags: [  ]

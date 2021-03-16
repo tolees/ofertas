@@ -5,7 +5,7 @@ date: 2020-08-07 14:57:22
 image: 'https://m.media-amazon.com/images/I/41dNv9W6JRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTTRMTN-es Skechers Flex Advantage 3.0 Zapatillas para Hombre Negro...'
 sku: 'B07TTTRMTN-es'
 tags: [  ]

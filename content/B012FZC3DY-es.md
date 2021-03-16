@@ -5,7 +5,7 @@ date: 2020-07-06 19:06:50
 image: 'https://m.media-amazon.com/images/I/41FWf5qWoxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012FZC3DY-es WMF Kitchenminis - Vaporera 900 W 2 Zonas de Cocción y...'
 sku: 'B012FZC3DY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 16:46:10
 image: 'https://m.media-amazon.com/images/I/41PS9smiOiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLR64CC-es DragonSwordlinsu COOSUN - Cortinas opacas para perros...'
 sku: 'B07QLR64CC-es'
 tags: [  ]

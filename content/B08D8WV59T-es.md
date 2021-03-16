@@ -5,7 +5,7 @@ date: 2020-09-21 16:42:11
 image: 'https://m.media-amazon.com/images/I/41wdgEdjc9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D8WV59T-es Docooler Auriculares inalámbricos BT 5.0 Alta fidelidad...'
 sku: 'B08D8WV59T-es'
 tags: [  ]

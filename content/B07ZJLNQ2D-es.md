@@ -5,7 +5,7 @@ date: 2020-08-31 09:08:23
 image: 'https://m.media-amazon.com/images/I/41PdT3Izu6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJLNQ2D-es Jack & Jones Jcocharming Polo SS Noos Negro Grande Tamaño...'
 sku: 'B07ZJLNQ2D-es'
 tags: [  ]

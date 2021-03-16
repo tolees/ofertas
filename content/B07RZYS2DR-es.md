@@ -5,7 +5,7 @@ date: 2020-05-14 09:37:58
 image: 'https://m.media-amazon.com/images/I/51wEtb+S-6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZYS2DR-es Love MoschinoJc4089pp1aMujerBolsos totesPlateado Argento...'
 sku: 'B07RZYS2DR-es'
 tags: [  ]

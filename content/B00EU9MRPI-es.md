@@ -5,7 +5,7 @@ date: 2020-06-28 08:08:17
 image: 'https://m.media-amazon.com/images/I/31Ssv4+wdCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EU9MRPI-es Wrangler Texas Contrast Hombre Jeans Negro Raven 42W / 34L'
 sku: 'B00EU9MRPI-es'
 tags: [  ]

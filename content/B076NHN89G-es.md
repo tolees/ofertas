@@ -5,7 +5,7 @@ date: 2020-04-05 11:31:11
 image: 'https://m.media-amazon.com/images/I/41Ygda4QJjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076NHN89G-es Adidas Terrex Swift R2 GTX Zapatillas de Running para...'
 sku: 'B076NHN89G-es'
 tags: [  ]

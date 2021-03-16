@@ -5,7 +5,7 @@ date: 2020-04-17 16:09:02
 image: 'https://m.media-amazon.com/images/I/31KPkk-L00L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJ83M5D-es JK-2 Escena de la habitación del bebé Decoración Colgante...'
 sku: 'B07ZJ83M5D-es'
 tags: [  ]

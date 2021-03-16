@@ -5,7 +5,7 @@ date: 2020-08-29 15:01:31
 image: 'https://m.media-amazon.com/images/I/31KklsnRAbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081D2CLV9-es Baoblaze Cubo Plegable Plástico Portátil Cepillo Plegable...'
 sku: 'B081D2CLV9-es'
 tags: [  ]

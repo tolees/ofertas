@@ -5,7 +5,7 @@ date: 2020-07-02 11:16:47
 image: 'https://m.media-amazon.com/images/I/41eR54eTSJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EAKB3L0-es Toshiba Exceria M302-EA - Tarjeta de memoria MicroSDHC 32...'
 sku: 'B01EAKB3L0-es'
 tags: [  ]

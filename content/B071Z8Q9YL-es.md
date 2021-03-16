@@ -5,7 +5,7 @@ date: 2020-05-17 12:55:27
 image: 'https://m.media-amazon.com/images/I/41ZTK9AQ3LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071Z8Q9YL-es Under Armour Mid Keyhole Sujetador para Mujer Deportivo...'
 sku: 'B071Z8Q9YL-es'
 tags: [  ]

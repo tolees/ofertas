@@ -5,7 +5,7 @@ date: 2020-09-16 09:32:46
 image: 'https://m.media-amazon.com/images/I/41X7pYlD5gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08J6H6NQF-es Panamar Funda Protectora de Fieltro Suave y Liviana para...'
 sku: 'B08J6H6NQF-es'
 tags: [  ]

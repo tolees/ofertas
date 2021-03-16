@@ -5,7 +5,7 @@ date: 2020-07-10 19:32:14
 image: 'https://m.media-amazon.com/images/I/41R3-SyeloL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XM9GC8-es Funko Pop!- 27032 Games: God of War: Atreus Multicolor'
 sku: 'B077XM9GC8-es'
 tags: [  ]

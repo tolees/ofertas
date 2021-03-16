@@ -5,7 +5,7 @@ date: 2020-07-11 16:23:06
 image: 'https://m.media-amazon.com/images/I/317YFYwzp5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074N2PHP9-es L Oréal Paris Accord Parfait Base de maquillaje acabado...'
 sku: 'B074N2PHP9-es'
 tags: [  ]

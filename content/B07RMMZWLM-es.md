@@ -5,7 +5,7 @@ date: 2020-09-19 09:29:12
 image: 'https://m.media-amazon.com/images/I/41YtbwZVLTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMMZWLM-es New Balance Fresh Foam Arishi V3 Zapatillas para Correr de...'
 sku: 'B07RMMZWLM-es'
 tags: [  ]

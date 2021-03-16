@@ -5,7 +5,7 @@ date: 2020-08-12 23:21:47
 image: 'https://m.media-amazon.com/images/I/51z97r9cerL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MAQF4EE-es Fujifilm Instax Mini Brillo - Pack de 40 Películas...'
 sku: 'B00MAQF4EE-es'
 tags: [  ]

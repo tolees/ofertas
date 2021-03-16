@@ -5,7 +5,7 @@ date: 2020-05-25 10:57:55
 image: 'https://m.media-amazon.com/images/I/41HMit-iM1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072DWD9MZ-es JACK & JONES Jfworca Leather Botas Clasicas para Hombre...'
 sku: 'B072DWD9MZ-es'
 tags: [  ]

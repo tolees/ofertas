@@ -5,7 +5,7 @@ date: 2020-03-28 23:17:23
 image: 'https://m.media-amazon.com/images/I/41NaG1sQQRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y3ZZV24-es estuche isotérmico para insulina color gris y lima...'
 sku: 'B06Y3ZZV24-es'
 tags: [  ]

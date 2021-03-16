@@ -5,7 +5,7 @@ date: 2020-02-09 05:33:28
 image: 'https://m.media-amazon.com/images/I/41GVWs46V9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CLPPM78-es Panasonic RP-HV41E-A - Auriculares Boton con Cable In-Ear...'
 sku: 'B00CLPPM78-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-06 16:29:25
 image: 'https://m.media-amazon.com/images/I/41tubsoSVbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBGTPXM-es O NEILL PM Cali Bañador Hombre Multicolor M'
 sku: 'B07KBGTPXM-es'
 tags: [  ]

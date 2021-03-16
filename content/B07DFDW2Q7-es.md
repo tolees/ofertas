@@ -5,7 +5,7 @@ date: 2020-02-16 15:35:51
 image: 'https://m.media-amazon.com/images/I/51N9LDn8mjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDW2Q7-es Pop! Five Nights At Freddy S - Figura de Vinilo Rockstar Foxy'
 sku: 'B07DFDW2Q7-es'
 tags: [  ]

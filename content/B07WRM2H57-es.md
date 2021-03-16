@@ -5,7 +5,7 @@ date: 2020-07-15 19:07:35
 image: 'https://m.media-amazon.com/images/I/31ogAKH943L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRM2H57-es The Yakuza Remastered Collection'
 sku: 'B07WRM2H57-es'
 tags: [  ]

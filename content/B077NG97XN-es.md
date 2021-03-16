@@ -5,7 +5,7 @@ date: 2020-05-03 07:20:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31MBHEtvqkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NG97XN-es find. Pantalones de Talle Alto Mujer Negro Black 36 Talla...'
 sku: 'B077NG97XN-es'
 tags: [  ]

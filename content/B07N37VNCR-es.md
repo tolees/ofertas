@@ -5,7 +5,7 @@ date: 2020-03-02 14:04:02
 image: 'https://m.media-amazon.com/images/I/419n4MKUVSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N37VNCR-es The North Face M LW Fp II Mid GTX Botas de Senderismo para...'
 sku: 'B07N37VNCR-es'
 tags: [  ]

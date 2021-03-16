@@ -5,7 +5,7 @@ date: 2020-08-02 07:10:20
 image: 'https://m.media-amazon.com/images/I/51JSFtgV+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CPAEUE4-es Juan Lopez Dulce de caramelo - 150 unidades'
 sku: 'B01CPAEUE4-es'
 tags: [  ]

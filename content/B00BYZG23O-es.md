@@ -5,7 +5,7 @@ date: 2020-06-12 18:51:13
 image: 'https://m.media-amazon.com/images/I/41jCtwZKyGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BYZG23O-es Superga 2790Cotw Linea Up And Down Zapatillas Unisex...'
 sku: 'B00BYZG23O-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-11 17:56:15
 image: 'https://m.media-amazon.com/images/I/41G2YIw4SnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXYR78Y-es Guess Piumino Modello Histy W94L85 WC4V0 G72G W94L85 WC4V0 M'
 sku: 'B07YXYR78Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 06:00:58
 image: 'https://m.media-amazon.com/images/I/311Rs5lPhdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085YG9PP3-es HR-International - 2 rollos de paño desechable para...'
 sku: 'B085YG9PP3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-14 22:22:45
 image: 'https://m.media-amazon.com/images/I/419iSIdl-9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRMRF9T-es Head Ski V-shape Kneehigh 2p deporte Amarillo Neon Yellow...'
 sku: 'B07PRMRF9T-es'
 tags: [  ]

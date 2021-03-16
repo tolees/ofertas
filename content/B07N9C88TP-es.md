@@ -5,7 +5,7 @@ date: 2020-08-26 17:02:29
 image: 'https://m.media-amazon.com/images/I/41AmyGsGWOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9C88TP-es THE NORTH FACE M Storm Strike 2 WP Botas de Senderismo...'
 sku: 'B07N9C88TP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 12:34:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51qljnDbp6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXMQG6V-es Chantelle DE Pyramide Sujetador Beige Champagner NL 85D...'
 sku: 'B07JXMQG6V-es'
 tags: [  ]

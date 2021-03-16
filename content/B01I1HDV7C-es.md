@@ -5,7 +5,7 @@ date: 2020-06-08 08:56:36
 image: 'https://m.media-amazon.com/images/I/51JESawdoaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I1HDV7C-es Bolsa de Playa Grande con Cremallera 58 x 38 x 18 cm...'
 sku: 'B01I1HDV7C-es'
 tags: [  ]

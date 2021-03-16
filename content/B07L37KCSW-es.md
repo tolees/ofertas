@@ -5,7 +5,7 @@ date: 2020-02-22 01:30:30
 image: 'https://m.media-amazon.com/images/I/41Xn4obPPAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L37KCSW-es Aceite de Krill | Krill puro + EPA + DHA + astaxantina |...'
 sku: 'B07L37KCSW-es'
 tags: [  ]

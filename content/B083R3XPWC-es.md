@@ -5,7 +5,7 @@ date: 2020-07-02 20:06:19
 image: 'https://m.media-amazon.com/images/I/41dOgbZWhTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083R3XPWC-es Auriculares Bluetooth Deportivos Auriculares Inalambricos...'
 sku: 'B083R3XPWC-es'
 tags: [  ]

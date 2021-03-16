@@ -5,7 +5,7 @@ date: 2020-07-15 07:30:37
 image: 'https://m.media-amazon.com/images/I/51sPsRQPEbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F6L38TP-es Spin Master Dragons Deluxe Dragon Toothless - Figuras de...'
 sku: 'B07F6L38TP-es'
 tags: [  ]

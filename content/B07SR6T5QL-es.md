@@ -5,7 +5,7 @@ date: 2020-07-19 19:25:22
 image: 'https://m.media-amazon.com/images/I/41+bXsnnA9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SR6T5QL-es YIWER 24 unidades LED Velas CR2032 pilas velas sin llama...'
 sku: 'B07SR6T5QL-es'
 tags: [  ]

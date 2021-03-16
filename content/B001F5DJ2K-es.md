@@ -5,7 +5,7 @@ date: 2020-02-13 09:05:23
 image: 'https://m.media-amazon.com/images/I/41XjGHBKRFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001F5DJ2K-es Harry Potter Scarf - Bufanda accesorio de disfraz Surtido:...'
 sku: 'B001F5DJ2K-es'
 tags: [  ]

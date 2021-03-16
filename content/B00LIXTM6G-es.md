@@ -5,7 +5,7 @@ date: 2020-01-10 18:15:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31uyRJ0BeBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LIXTM6G-es Smokies Hombres Zapato de Novia Charlie sintético 41 EU Negro'
 sku: 'B00LIXTM6G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 08:15:35
 image: 'https://m.media-amazon.com/images/I/41gyKd8ORSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JPUANAS-es MAKITA DHR263Z Martillo Ligero 26Mm 18Vx2 18 V Negro Azul'
 sku: 'B00JPUANAS-es'
 tags: [  ]

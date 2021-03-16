@@ -5,7 +5,7 @@ date: 2020-05-26 07:02:27
 image: 'https://m.media-amazon.com/images/I/51BmK5ro9OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M4DL5W-es Suhctup Funda Compatible con Xiaomi Mi 9 Pro/Mi 9 Pro 5G...'
 sku: 'B088M4DL5W-es'
 tags: [  ]

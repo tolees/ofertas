@@ -5,7 +5,7 @@ date: 2020-08-11 14:40:49
 image: 'https://m.media-amazon.com/images/I/41sqfuzI-6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y6BW86Z-es Fujifilm Instax Mini 9 - Cámara instantánea Solo cámara Verde'
 sku: 'B06Y6BW86Z-es'
 tags: [  ]

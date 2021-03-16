@@ -5,7 +5,7 @@ date: 2020-10-01 15:53:51
 image: 'https://m.media-amazon.com/images/I/41F-ljHwrmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N34S5GF-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07N34S5GF-es'
 tags: [  ]

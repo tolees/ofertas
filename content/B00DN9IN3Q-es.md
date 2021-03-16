@@ -5,7 +5,7 @@ date: 2020-04-16 18:56:34
 image: 'https://m.media-amazon.com/images/I/41BH9HeLdVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DN9IN3Q-es Kölln Muesli de chocolate - 500 g'
 sku: 'B00DN9IN3Q-es'
 tags: [  ]

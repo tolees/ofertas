@@ -5,7 +5,7 @@ date: 2020-02-18 12:44:22
 image: 'https://m.media-amazon.com/images/I/21HO05-9t9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRX5H2Z-es LG SJ4 Barra de sonido Subwoofer inalámbrico Bluetooth Negro'
 sku: 'B06XRX5H2Z-es'
 tags: [  ]

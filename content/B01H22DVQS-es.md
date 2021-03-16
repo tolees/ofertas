@@ -5,7 +5,7 @@ date: 2020-05-03 16:02:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BUOuWZiZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H22DVQS-es Resident Evil 7: Biohazard'
 sku: 'B01H22DVQS-es'
 tags: [  ]

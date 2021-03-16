@@ -5,7 +5,7 @@ date: 2020-02-23 15:07:09
 image: 'https://m.media-amazon.com/images/I/311hqRODJoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082W1G1ST-es Ruichenxi Metal USB Pen Drive 256GB Mini Memorias USB...'
 sku: 'B082W1G1ST-es'
 tags: [  ]

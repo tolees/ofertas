@@ -5,7 +5,7 @@ date: 2020-04-27 09:12:17
 image: 'https://m.media-amazon.com/images/I/41n8TSopreL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CXM5OJ0-es Saica Piscina Hinchable para niños Multicolor 17118'
 sku: 'B00CXM5OJ0-es'
 tags: [  ]

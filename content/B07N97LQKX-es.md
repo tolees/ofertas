@@ -5,7 +5,7 @@ date: 2020-02-27 15:36:37
 image: 'https://m.media-amazon.com/images/I/31uXQkNcppL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N97LQKX-es BOSS Prime Polo Azul Medium Blue 428 XX-Large para Hombre'
 sku: 'B07N97LQKX-es'
 tags: [  ]

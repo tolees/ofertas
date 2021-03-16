@@ -5,7 +5,7 @@ date: 2020-09-30 09:58:49
 image: 'https://m.media-amazon.com/images/I/41vUxBvoclL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075HLZ9D9-es Instituto Español Bebe Gel de Baño sin Jabón - 500 ml'
 sku: 'B075HLZ9D9-es'
 tags: [  ]

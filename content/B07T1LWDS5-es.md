@@ -5,7 +5,7 @@ date: 2020-04-05 08:21:14
 image: 'https://m.media-amazon.com/images/I/412JTSDP89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1LWDS5-es Buffalo Fierce P1 Zapatillas Altas para Mujer Multicolor...'
 sku: 'B07T1LWDS5-es'
 tags: [  ]

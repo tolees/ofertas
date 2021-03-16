@@ -5,7 +5,7 @@ date: 2020-08-07 19:13:24
 image: 'https://m.media-amazon.com/images/I/51wKnRwujyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6GD1YS-es Vbiger Mochilas Escolares Niña Impermeable para Estudiante...'
 sku: 'B07X6GD1YS-es'
 tags: [  ]

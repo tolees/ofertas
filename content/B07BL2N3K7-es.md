@@ -5,7 +5,7 @@ date: 2020-01-20 18:51:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PYvy2LCNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2N3K7-es New Balance Fresh Foam Zante Zapatillas Deportivas para...'
 sku: 'B07BL2N3K7-es'
 tags: [  ]

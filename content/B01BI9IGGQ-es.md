@@ -5,7 +5,7 @@ date: 2020-02-20 03:20:34
 image: 'https://m.media-amazon.com/images/I/519+S7NiPXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BI9IGGQ-es Somatoline Use & Go Spray Reductor - 200 ml'
 sku: 'B01BI9IGGQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-20 16:56:33
 image: 'https://m.media-amazon.com/images/I/41i7mSYO4JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W7K6E5Q-es Scitec Nutrition Proteína De Suero Professional con Sabor...'
 sku: 'B00W7K6E5Q-es'
 tags: [  ]

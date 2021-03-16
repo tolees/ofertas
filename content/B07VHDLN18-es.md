@@ -5,7 +5,7 @@ date: 2020-06-01 08:23:32
 image: 'https://m.media-amazon.com/images/I/51KFZnNZFNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHDLN18-es OfficeWorld 29 29 XL Cartuchos de Tinta para Epson 29XL...'
 sku: 'B07VHDLN18-es'
 tags: [  ]

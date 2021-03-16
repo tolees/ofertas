@@ -5,7 +5,7 @@ date: 2020-05-04 21:05:49
 image: 'https://m.media-amazon.com/images/I/41BKK7anXSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004W6ZDBY-es Babyliss - 3038e - Estuche de 5 rulos términos tamaño...'
 sku: 'B004W6ZDBY-es'
 tags: [  ]

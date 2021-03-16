@@ -5,7 +5,7 @@ date: 2020-02-20 10:31:55
 image: 'https://m.media-amazon.com/images/I/41jD3ffJtPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG68ZMS-es PUMA LQDCELL Shatter XT Luster Wn s Zapatillas Deportivas...'
 sku: 'B07KG68ZMS-es'
 tags: [  ]

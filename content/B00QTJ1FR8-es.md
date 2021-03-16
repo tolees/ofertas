@@ -5,7 +5,7 @@ date: 2020-01-28 18:12:08
 image: 'https://m.media-amazon.com/images/I/51jUyZLnJ+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QTJ1FR8-es Venus ComfortGlide Breeze Recambio De Maquinilla 2-en-1 4...'
 sku: 'B00QTJ1FR8-es'
 tags: [  ]

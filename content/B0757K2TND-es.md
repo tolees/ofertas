@@ -5,7 +5,7 @@ date: 2020-01-15 14:34:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513MnGBm7tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757K2TND-es URCERI Telémetro Láser 100m Medidor Láser de Distancia...'
 sku: 'B0757K2TND-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 00:32:41
 image: 'https://m.media-amazon.com/images/I/419BGfU9+EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I7P2RUG-es Sunburst Snacks Sunburst maní y miel de chile asado NO OGM...'
 sku: 'B00I7P2RUG-es'
 tags: [  ]

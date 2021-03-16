@@ -5,7 +5,7 @@ date: 2020-08-12 12:27:40
 image: 'https://m.media-amazon.com/images/I/31wdCA+tJ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AE2OEOW-es BRA Profesional - Pote 14 cm Acero Inoxidable 18/10'
 sku: 'B00AE2OEOW-es'
 tags: [  ]

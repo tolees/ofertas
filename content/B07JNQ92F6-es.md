@@ -5,7 +5,7 @@ date: 2020-04-16 19:32:37
 image: 'https://m.media-amazon.com/images/I/31UA7zTWmuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNQ92F6-es Acer Nitro xv273kpbmiipphzx - Monitor Gaming de 27 " 144Hz...'
 sku: 'B07JNQ92F6-es'
 tags: [  ]

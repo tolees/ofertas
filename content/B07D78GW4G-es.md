@@ -5,7 +5,7 @@ date: 2020-09-10 20:45:54
 image: 'https://m.media-amazon.com/images/I/412eGz7UQBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D78GW4G-es Fesoar Cepillo Barbacoa de Limpieza 360° Cepillos de Acero...'
 sku: 'B07D78GW4G-es'
 tags: [  ]

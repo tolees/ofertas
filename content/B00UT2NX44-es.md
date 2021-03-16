@@ -5,7 +5,7 @@ date: 2020-06-21 09:48:07
 image: 'https://m.media-amazon.com/images/I/41XLMzx4lAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UT2NX44-es Tommy Hilfiger Bralette Corsetto Gris GREY HEATHER 004 36...'
 sku: 'B00UT2NX44-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 10:09:57
 image: 'https://m.media-amazon.com/images/I/41mnrb78aOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHSL4JK-es HAIROXOL-Cápsulas tratamiento anti-caída de cabello |...'
 sku: 'B07BHSL4JK-es'
 tags: [  ]

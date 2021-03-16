@@ -5,7 +5,7 @@ date: 2020-02-20 17:09:42
 image: 'https://m.media-amazon.com/images/I/41QeV9fTxiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000JTMOVA-es Kensington 56146 Reposapiés Ergonómico Ajustable SoleMate...'
 sku: 'B000JTMOVA-es'
 tags: [  ]

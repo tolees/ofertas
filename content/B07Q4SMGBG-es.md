@@ -5,7 +5,7 @@ date: 2020-07-29 08:46:35
 image: 'https://m.media-amazon.com/images/I/51YEW7n+v3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4SMGBG-es Aceite Esencial Puros，Ato Bea 6 * 10ml 100% Aceites...'
 sku: 'B07Q4SMGBG-es'
 tags: [  ]

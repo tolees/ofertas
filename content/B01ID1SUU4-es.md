@@ -5,7 +5,7 @@ date: 2020-05-30 18:48:32
 image: 'https://m.media-amazon.com/images/I/41OigevyycL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ID1SUU4-es Ever-Pretty Vestidos de Cóctel A-línea Cuello en V sin...'
 sku: 'B01ID1SUU4-es'
 tags: [  ]

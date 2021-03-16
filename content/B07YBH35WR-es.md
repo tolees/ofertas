@@ -5,7 +5,7 @@ date: 2020-07-13 17:15:09
 image: 'https://m.media-amazon.com/images/I/41FdmX7ZYXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBH35WR-es Vans Full Patched Po II Capucha Morado Heliotrope/White...'
 sku: 'B07YBH35WR-es'
 tags: [  ]

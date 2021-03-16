@@ -5,7 +5,7 @@ date: 2020-01-21 16:20:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418Ccp2MN1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMLFSQ9-es Calvin Klein - Ck Cast Sml Flap Xbody Bolsos totes Mujer...'
 sku: 'B07RMLFSQ9-es'
 tags: [  ]

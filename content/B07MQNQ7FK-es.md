@@ -5,7 +5,7 @@ date: 2020-04-18 21:25:25
 image: 'https://m.media-amazon.com/images/I/41rsaF7r1XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQNQ7FK-es Cerdá 2200003875 Poncho Algodón Avengers Hulk Verde 50x115cm'
 sku: 'B07MQNQ7FK-es'
 tags: [  ]

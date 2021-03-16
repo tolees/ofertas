@@ -5,7 +5,7 @@ date: 2020-07-04 23:01:10
 image: 'https://m.media-amazon.com/images/I/41kv9tZJKGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003DZDYMU-es Casio Smart Watch Armbanduhr AE-1000W-1B'
 sku: 'B003DZDYMU-es'
 tags: [  ]

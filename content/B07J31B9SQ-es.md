@@ -5,7 +5,7 @@ date: 2020-05-13 06:23:14
 image: 'https://m.media-amazon.com/images/I/31kLeZU4CXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J31B9SQ-es HP Omen Obelisk 875-0007ns - Ordenador de sobremesa gaming...'
 sku: 'B07J31B9SQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-15 22:59:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yqtLN9qjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPWNSGJ-es DC-77 de 16MP 4X Zoom Digital de Alta definición cámara de...'
 sku: 'B07KPWNSGJ-es'
 tags: [  ]

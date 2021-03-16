@@ -5,7 +5,7 @@ date: 2020-01-21 16:44:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31vSNidIX5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BJQ3KJQ-es NGS Fog - Ratón inalámbrico Color Blanco'
 sku: 'B01BJQ3KJQ-es'
 tags: [  ]

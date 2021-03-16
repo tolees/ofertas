@@ -5,7 +5,7 @@ date: 2020-04-13 06:25:44
 image: 'https://m.media-amazon.com/images/I/313D0u9qoRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C4QL57E-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 64...'
 sku: 'B01C4QL57E-es'
 tags: [  ]

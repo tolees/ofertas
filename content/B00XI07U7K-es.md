@@ -5,7 +5,7 @@ date: 2020-09-11 12:14:20
 image: 'https://m.media-amazon.com/images/I/41YvqTMXU0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XI07U7K-es Nikidom Raincover XL Chubasquero Unisex Adulto Negro Talla...'
 sku: 'B00XI07U7K-es'
 tags: [  ]

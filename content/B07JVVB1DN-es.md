@@ -5,7 +5,7 @@ date: 2020-02-04 14:43:33
 image: 'https://m.media-amazon.com/images/I/419GyxU7SrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVVB1DN-es Asics Gel-Odyssey Zapatillas de Cross para Hombre Negro...'
 sku: 'B07JVVB1DN-es'
 tags: [  ]

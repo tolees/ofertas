@@ -5,7 +5,7 @@ date: 2020-04-27 20:42:36
 image: 'https://m.media-amazon.com/images/I/41+AvgbbZhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7GFY5V-es SONARIN Rayas Premium Cubiertas de lactancia 4 en 1...'
 sku: 'B07P7GFY5V-es'
 tags: [  ]

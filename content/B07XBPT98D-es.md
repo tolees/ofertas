@@ -5,7 +5,7 @@ date: 2020-07-02 17:17:23
 image: 'https://m.media-amazon.com/images/I/511-PJ0N4tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBPT98D-es LIGE Relojes para Hombre Simple Negocio Deportivo Cuarzo...'
 sku: 'B07XBPT98D-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-23 17:47:43
 image: 'https://m.media-amazon.com/images/I/31c7EuchhWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAPDW48-es Haribo - Flautas Nata-Fresa - Geles Dulces - 1.6 kg'
 sku: 'B00XAPDW48-es'
 tags: [  ]

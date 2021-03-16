@@ -5,7 +5,7 @@ date: 2020-07-13 00:40:09
 image: 'https://m.media-amazon.com/images/I/41OzmOcSnQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQTF8ZR-es P Prettyia +La Cubierta De Puerta Trasera Impermeable con...'
 sku: 'B07KQTF8ZR-es'
 tags: [  ]

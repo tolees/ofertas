@@ -5,7 +5,7 @@ date: 2020-08-14 00:48:21
 image: 'https://m.media-amazon.com/images/I/41xzDgwKGPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HG08KX6-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B00HG08KX6-es'
 tags: [  ]

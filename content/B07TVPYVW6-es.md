@@ -5,7 +5,7 @@ date: 2020-10-01 19:58:46
 image: 'https://m.media-amazon.com/images/I/417hHVtisDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVPYVW6-es KiplingBaroeMujerMonederosRojo Metallic Rust 20.5x10x7.5...'
 sku: 'B07TVPYVW6-es'
 tags: [  ]

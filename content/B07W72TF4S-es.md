@@ -5,7 +5,7 @@ date: 2020-10-09 12:24:31
 image: 'https://m.media-amazon.com/images/I/31yUU55N5UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W72TF4S-es BaByliss 2165CE Plancha de crimpar para crear volumen y...'
 sku: 'B07W72TF4S-es'
 tags: [  ]

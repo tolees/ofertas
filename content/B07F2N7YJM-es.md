@@ -5,7 +5,7 @@ date: 2020-05-17 08:58:47
 image: 'https://m.media-amazon.com/images/I/31ylWHAP43L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2N7YJM-es Amazon Essentials - Pantalones deportivos ajustados para...'
 sku: 'B07F2N7YJM-es'
 tags: [  ]

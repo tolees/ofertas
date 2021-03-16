@@ -5,7 +5,7 @@ date: 2020-02-02 18:35:43
 image: 'https://m.media-amazon.com/images/I/51YpXhe3FIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0838XWFDG-es Grifo de Cocina Dalmo DBKF09KY Grifo Cocina Giratorio a...'
 sku: 'B0838XWFDG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 07:28:18
 image: 'https://m.media-amazon.com/images/I/41bo85lkNtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CVOZNAE-es SAMSUNG TA20 Cargador Galaxy S7 Carga rápida AFC 2 A con...'
 sku: 'B01CVOZNAE-es'
 tags: [  ]

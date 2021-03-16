@@ -5,7 +5,7 @@ date: 2020-04-04 18:17:15
 image: 'https://m.media-amazon.com/images/I/31-dKpt-sKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XJ5FFZ-es Silk n SkinVivid Masajeador facial con modo vibración...'
 sku: 'B073XJ5FFZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 12:09:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sdAnrmX8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y5W4DJ3-es WENGER Reloj Analogico para Unisex de Cuarzo con Correa en...'
 sku: 'B06Y5W4DJ3-es'
 tags: [  ]

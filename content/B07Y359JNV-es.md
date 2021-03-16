@@ -5,7 +5,7 @@ date: 2020-05-30 20:01:47
 image: 'https://m.media-amazon.com/images/I/51P-s1KVAaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y359JNV-es Idefair Bandeja De Viaje para Niños Bandeja para automóvil...'
 sku: 'B07Y359JNV-es'
 tags: [  ]

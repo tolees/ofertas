@@ -5,7 +5,7 @@ date: 2020-05-15 09:30:27
 image: 'https://m.media-amazon.com/images/I/41ljpW596gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYP5NNQ-es Olympus OM-D E-M5 Mark III MFT Sensor de 20 MPX...'
 sku: 'B07XYP5NNQ-es'
 tags: [  ]

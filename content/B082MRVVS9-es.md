@@ -5,7 +5,7 @@ date: 2020-09-02 07:59:15
 image: 'https://m.media-amazon.com/images/I/31bNdtnUhjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MRVVS9-es SATECHI Cargador Portátil Certificado MFi con Puerto de...'
 sku: 'B082MRVVS9-es'
 tags: [  ]

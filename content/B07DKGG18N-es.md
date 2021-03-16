@@ -5,7 +5,7 @@ date: 2020-04-26 08:04:17
 image: 'https://m.media-amazon.com/images/I/31UcktjSGOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKGG18N-es Kipling - Creativity L Monederos Mujer Negro Powder Black'
 sku: 'B07DKGG18N-es'
 tags: [  ]

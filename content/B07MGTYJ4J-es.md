@@ -5,7 +5,7 @@ date: 2020-08-24 09:35:16
 image: 'https://m.media-amazon.com/images/I/418GkjFcVtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGTYJ4J-es Star Wars Galaxy Oficial Saco Plano Grande 350x400mm'
 sku: 'B07MGTYJ4J-es'
 tags: [  ]

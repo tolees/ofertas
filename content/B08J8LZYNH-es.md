@@ -5,7 +5,7 @@ date: 2020-09-26 06:50:39
 image: 'https://m.media-amazon.com/images/I/51hIGkBlmmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08J8LZYNH-es Morbid: The Seven Acolytes - Signature Edition'
 sku: 'B08J8LZYNH-es'
 tags: [  ]

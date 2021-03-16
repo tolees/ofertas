@@ -5,7 +5,7 @@ date: 2020-06-10 01:23:05
 image: 'https://m.media-amazon.com/images/I/41iYxygtY+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PNUI6A8-es adidas Originals Superstar Zapatillas de deporte Unisex...'
 sku: 'B00PNUI6A8-es'
 tags: [  ]

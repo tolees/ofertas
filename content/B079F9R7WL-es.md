@@ -5,7 +5,7 @@ date: 2020-02-21 10:09:10
 image: 'https://m.media-amazon.com/images/I/51LhTRbfhRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079F9R7WL-es Rainbow Six Siege - Advanced Edition'
 sku: 'B079F9R7WL-es'
 tags: [  ]

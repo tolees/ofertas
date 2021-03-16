@@ -5,7 +5,7 @@ date: 2020-03-09 14:02:52
 image: 'https://m.media-amazon.com/images/I/51T-01Hj0ML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCLCF7Y-es ANEWSIR [2 Pack Protector de Pantalla para Motorola One...'
 sku: 'B07JCLCF7Y-es'
 tags: [  ]

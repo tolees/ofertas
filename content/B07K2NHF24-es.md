@@ -5,7 +5,7 @@ date: 2020-06-17 06:35:00
 image: 'https://m.media-amazon.com/images/I/41YbGKDXN5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2NHF24-es Adidas VL Court 2.0 K Zapatillas de Deporte Unisex Adulto...'
 sku: 'B07K2NHF24-es'
 tags: [  ]

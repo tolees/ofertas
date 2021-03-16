@@ -5,7 +5,7 @@ date: 2020-10-02 10:38:53
 image: 'https://m.media-amazon.com/images/I/41ISAt6FnAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E3T6C6Y-es Malfy Limón Gin Ginebra Premium - 700 ml'
 sku: 'B01E3T6C6Y-es'
 tags: [  ]

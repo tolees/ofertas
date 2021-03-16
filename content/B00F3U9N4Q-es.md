@@ -5,7 +5,7 @@ date: 2020-02-19 10:03:02
 image: 'https://m.media-amazon.com/images/I/51j+f5x+86L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F3U9N4Q-es Iron Man 2 [Blu-ray]'
 sku: 'B00F3U9N4Q-es'
 tags: [  ]

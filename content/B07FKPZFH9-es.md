@@ -5,7 +5,7 @@ date: 2020-06-11 19:27:58
 image: 'https://m.media-amazon.com/images/I/31hJeS+ZDfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKPZFH9-es NIKE W NP Shrt 3in Pantalones Cortos Mujer Negro...'
 sku: 'B07FKPZFH9-es'
 tags: [  ]

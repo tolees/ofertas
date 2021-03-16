@@ -5,7 +5,7 @@ date: 2020-05-27 11:02:45
 image: 'https://m.media-amazon.com/images/I/41CNhQSFC7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X7Z87BM-es perfk Enrutador Móvil 4g Punto de Acceso Móvil WiFi para...'
 sku: 'B07X7Z87BM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-01 20:21:34
 image: 'https://m.media-amazon.com/images/I/41WpcGie3QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZCIGA0Y-es Gucci - Bamboo - Eau de Parfum para mujer - 50 ml'
 sku: 'B00ZCIGA0Y-es'
 tags: [  ]

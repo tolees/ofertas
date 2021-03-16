@@ -5,7 +5,7 @@ date: 2020-06-06 18:57:28
 image: 'https://m.media-amazon.com/images/I/41yqAmP7frL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CWTMMZG-es Font Vella Levité Agua Mineral con zumo de limón - Pack 12...'
 sku: 'B07CWTMMZG-es'
 tags: [  ]

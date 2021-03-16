@@ -5,7 +5,7 @@ date: 2020-02-13 18:17:59
 image: 'https://m.media-amazon.com/images/I/41WSojcvwbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYZZ7J-es PUMA Vista Lux Zapatillas Unisex Adulto Galaxy Blue-High...'
 sku: 'B07KFYZZ7J-es'
 tags: [  ]

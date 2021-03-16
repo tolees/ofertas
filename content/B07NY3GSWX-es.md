@@ -5,7 +5,7 @@ date: 2020-09-06 09:48:12
 image: 'https://m.media-amazon.com/images/I/31bPUPNs5QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY3GSWX-es IKOHS PRO WELLNESS - Báscula de Baño Blanco'
 sku: 'B07NY3GSWX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-05 16:02:14
 image: 'https://m.media-amazon.com/images/I/41eBseV2ZLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G6ZDXYY-es Antena de TV de alta ganancia Freeview – MASO portátil...'
 sku: 'B07G6ZDXYY-es'
 tags: [  ]

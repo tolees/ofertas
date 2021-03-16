@@ -5,7 +5,7 @@ date: 2020-07-12 08:01:02
 image: 'https://m.media-amazon.com/images/I/41fJKJCfB+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ8TLH-es Skechers Bounder Verkona Zapatillas para Hombre Gris White...'
 sku: 'B07TSQ8TLH-es'
 tags: [  ]

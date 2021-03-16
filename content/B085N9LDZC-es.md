@@ -5,7 +5,7 @@ date: 2020-05-28 10:05:36
 image: 'https://m.media-amazon.com/images/I/41iLCizt2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085N9LDZC-es Dek - Zapatillas Tenis de Lona para Chico Hombre 44 EU Marino'
 sku: 'B085N9LDZC-es'
 tags: [  ]

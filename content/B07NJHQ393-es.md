@@ -5,7 +5,7 @@ date: 2020-08-11 10:10:13
 image: 'https://m.media-amazon.com/images/I/6135wozHmhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJHQ393-es Shovel Knight: Treasure Trove'
 sku: 'B07NJHQ393-es'
 tags: [  ]

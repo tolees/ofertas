@@ -5,7 +5,7 @@ date: 2020-05-26 18:01:56
 image: 'https://m.media-amazon.com/images/I/418NLnQYyhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLRZB1L-es Mesa en la Asiento de Coche infantil bandeja del coche...'
 sku: 'B07PLRZB1L-es'
 tags: [  ]

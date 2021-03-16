@@ -5,7 +5,7 @@ date: 2020-02-25 07:16:26
 image: 'https://m.media-amazon.com/images/I/3118hdwO+ZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004S8MDOQ-es Lote de 4 vasitos para bebé Nuby 300 ml a partir de 12 meses'
 sku: 'B004S8MDOQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-26 20:05:05
 image: 'https://m.media-amazon.com/images/I/61OmtJalFnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EIPTLDE-es Dragon Ball Z. Tv Special 1:Batalla Final Solitaria + Tv...'
 sku: 'B01EIPTLDE-es'
 tags: [  ]

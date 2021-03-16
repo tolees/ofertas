@@ -5,7 +5,7 @@ date: 2020-08-31 19:21:18
 image: 'https://m.media-amazon.com/images/I/41UXzKYN2lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GV0PE26-es Emuca - Regleta multienchufe retráctil con 3 enchufes...'
 sku: 'B01GV0PE26-es'
 tags: [  ]

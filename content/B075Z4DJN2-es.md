@@ -5,7 +5,7 @@ date: 2020-09-28 19:30:57
 image: 'https://m.media-amazon.com/images/I/41-7+tmdc-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Z4DJN2-es find. Botas Chelsea Mujer Marrón Tan 38 EU'
 sku: 'B075Z4DJN2-es'
 tags: [  ]

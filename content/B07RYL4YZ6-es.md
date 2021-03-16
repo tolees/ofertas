@@ -5,7 +5,7 @@ date: 2020-05-16 21:27:45
 image: 'https://m.media-amazon.com/images/I/41BIDte2GIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYL4YZ6-es New Balance 574v2 Zapatillas para Mujer Marfil Off Ex 35 EU'
 sku: 'B07RYL4YZ6-es'
 tags: [  ]

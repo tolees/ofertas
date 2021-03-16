@@ -5,7 +5,7 @@ date: 2020-09-29 08:39:37
 image: 'https://m.media-amazon.com/images/I/51upVsIxSaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RSR761Z-es Everybodys Golf'
 sku: 'B07RSR761Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-16 08:46:47
 image: 'https://m.media-amazon.com/images/I/41wWEK1I7NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSLKNSC-es KollyKolla Botella de Agua Acero Inoxidable Termo Sin BPA...'
 sku: 'B07GSLKNSC-es'
 tags: [  ]

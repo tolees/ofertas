@@ -5,7 +5,7 @@ date: 2020-06-06 15:35:30
 image: 'https://m.media-amazon.com/images/I/51JyZswkyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQFLRZY-es Dodot Pants Pañal-Braguita Talla 6 84 Pañales Fácil De...'
 sku: 'B07BQFLRZY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 13:54:29
 image: 'https://m.media-amazon.com/images/I/31wXBz7u3pL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K17DDKZ-es Adidas Altasport CF I Zapatillas Unisex bebé Blanco...'
 sku: 'B07K17DDKZ-es'
 tags: [  ]

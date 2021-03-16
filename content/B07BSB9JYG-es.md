@@ -5,7 +5,7 @@ date: 2020-09-05 04:25:34
 image: 'https://m.media-amazon.com/images/I/51E+14C6XOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSB9JYG-es BelleStyle Doodle Agua 4 Colores Agua Dibujo Pintura Mat...'
 sku: 'B07BSB9JYG-es'
 tags: [  ]

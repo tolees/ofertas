@@ -5,7 +5,7 @@ date: 2020-07-21 15:38:54
 image: 'https://m.media-amazon.com/images/I/512YJ6GU5qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K7Y0AMW-es Ceys M128784 - Cola de contacto - 500 ml'
 sku: 'B00K7Y0AMW-es'
 tags: [  ]

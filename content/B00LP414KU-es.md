@@ -5,7 +5,7 @@ date: 2020-09-25 14:54:38
 image: 'https://m.media-amazon.com/images/I/315Bds7fIsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LP414KU-es Bourjois Contour Clubbing; Delineador de Ojos. Tono 57 Up...'
 sku: 'B00LP414KU-es'
 tags: [  ]

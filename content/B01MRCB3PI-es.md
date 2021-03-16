@@ -5,7 +5,7 @@ date: 2020-02-29 16:15:45
 image: 'https://m.media-amazon.com/images/I/31t6MvIEruL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRCB3PI-es Montse Interiors S.L. Relleno NÓRDICO SINTÉTICO Invierno...'
 sku: 'B01MRCB3PI-es'
 tags: [  ]

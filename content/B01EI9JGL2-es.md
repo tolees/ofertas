@@ -5,7 +5,7 @@ date: 2020-09-11 18:09:18
 image: 'https://m.media-amazon.com/images/I/41ub5cOTJML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EI9JGL2-es adidas Gazelle Zapatillas de deporte Unisex Adulto Varios...'
 sku: 'B01EI9JGL2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 17:09:51
 image: 'https://m.media-amazon.com/images/I/51yST4lOfIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086W58MZH-es FITTOO Sujetador Deportivo Tops de Yoga Correr Gimnasio...'
 sku: 'B086W58MZH-es'
 tags: [  ]

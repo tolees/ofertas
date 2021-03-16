@@ -5,7 +5,7 @@ date: 2020-08-18 10:16:48
 image: 'https://m.media-amazon.com/images/I/51Uxpx1MKlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CHCZ132-es EGV [2 Pack Protector de Pantalla para Xiaomi Redmi Note...'
 sku: 'B08CHCZ132-es'
 tags: [  ]

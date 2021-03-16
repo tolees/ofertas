@@ -5,7 +5,7 @@ date: 2020-09-03 15:01:02
 image: 'https://m.media-amazon.com/images/I/51j2dzob5XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PB5GV3D-es MADE4U [20"] [enmarcado de madera] Kit de pintura por...'
 sku: 'B07PB5GV3D-es'
 tags: [  ]

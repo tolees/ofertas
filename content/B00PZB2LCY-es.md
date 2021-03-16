@@ -5,7 +5,7 @@ date: 2020-03-01 13:02:56
 image: 'https://m.media-amazon.com/images/I/41PrTxx9UUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PZB2LCY-es Nike Court Royale Zapatillas para Mujer Blanco White /...'
 sku: 'B00PZB2LCY-es'
 tags: [  ]

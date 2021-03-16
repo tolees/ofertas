@@ -5,7 +5,7 @@ date: 2020-01-21 14:13:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/519XIlA3p6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SG2M9BH-es ENJOHOS Arnés de Escalada Arnés de guía Cinturones de...'
 sku: 'B07SG2M9BH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-07 08:54:23
 image: 'https://m.media-amazon.com/images/I/415uBuVKzlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQ1BTQK-es Neutrogena Radiance Boost Mascarilla Paquete de 4'
 sku: 'B07HQ1BTQK-es'
 tags: [  ]

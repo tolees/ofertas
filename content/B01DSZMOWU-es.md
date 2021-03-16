@@ -5,7 +5,7 @@ date: 2020-10-02 09:06:05
 image: 'https://m.media-amazon.com/images/I/41tlhicm84L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DSZMOWU-es Belkin F8W713vf - Protector de Pantalla de Cristal...'
 sku: 'B01DSZMOWU-es'
 tags: [  ]

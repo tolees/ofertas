@@ -5,7 +5,7 @@ date: 2020-04-09 10:31:50
 image: 'https://m.media-amazon.com/images/I/31NaPqA1mKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NJLKM-es PUMA Nrgy Neko Retro Wns Zapatillas de Running para Mujer...'
 sku: 'B07S6NJLKM-es'
 tags: [  ]

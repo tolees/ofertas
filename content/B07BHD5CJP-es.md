@@ -5,7 +5,7 @@ date: 2020-06-02 10:04:09
 image: 'https://m.media-amazon.com/images/I/41PiVGz6itL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHD5CJP-es Ringke Funda Xiaomi REDMI 5 Plus [Fusion] Claro PC TPU...'
 sku: 'B07BHD5CJP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 13:22:30
 image: 'https://m.media-amazon.com/images/I/51avn0lbUZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FKF8T52-es Paw Patrol Cama Infantil con Espacio de Almacenamiento...'
 sku: 'B01FKF8T52-es'
 tags: [  ]

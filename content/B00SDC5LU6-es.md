@@ -5,7 +5,7 @@ date: 2020-08-14 16:09:28
 image: 'https://m.media-amazon.com/images/I/41z7e3bHHHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SDC5LU6-es Fujifilm Fujinon XF 16 - 55 mm f/2.8 R LM WR - Objetivo...'
 sku: 'B00SDC5LU6-es'
 tags: [  ]

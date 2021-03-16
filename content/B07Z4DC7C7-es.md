@@ -5,7 +5,7 @@ date: 2020-06-06 17:26:08
 image: 'https://m.media-amazon.com/images/I/41-GFp8ugVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4DC7C7-es Controladora DMX Lixada 192 Canales DMX 512 Consola para...'
 sku: 'B07Z4DC7C7-es'
 tags: [  ]

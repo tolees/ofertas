@@ -5,7 +5,7 @@ date: 2020-06-03 16:58:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AKNyzgCwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTUZXK-es G-STAR RAW Midge Saddle Mid Waist Straight Jeans Azul Dk...'
 sku: 'B01BGTUZXK-es'
 tags: [  ]

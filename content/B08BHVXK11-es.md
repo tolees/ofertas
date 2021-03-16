@@ -5,7 +5,7 @@ date: 2020-07-21 11:17:37
 image: 'https://m.media-amazon.com/images/I/410ny-97FRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHVXK11-es Kits Traviesos: No Tengas Miedo De Tomar Tu Tra/In...'
 sku: 'B08BHVXK11-es'
 tags: [  ]

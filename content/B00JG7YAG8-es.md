@@ -5,7 +5,7 @@ date: 2020-02-25 16:24:14
 image: 'https://m.media-amazon.com/images/I/51VC+0zrXqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JG7YAG8-es Estee Lauder 56928 - Barra de labios'
 sku: 'B00JG7YAG8-es'
 tags: [  ]

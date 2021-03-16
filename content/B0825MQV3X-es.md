@@ -5,7 +5,7 @@ date: 2020-06-27 09:18:46
 image: 'https://m.media-amazon.com/images/I/31v5gqOMK-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825MQV3X-es Quiksilver Principle - Cinturón De Nailon Belts Hombre...'
 sku: 'B0825MQV3X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-07 22:59:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410UX0QB0AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BW0RE5G-es POP! Vinilo - BTTF: Marty McFly'
 sku: 'B00BW0RE5G-es'
 tags: [  ]

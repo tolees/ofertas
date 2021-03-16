@@ -5,7 +5,7 @@ date: 2020-08-06 07:45:52
 image: 'https://m.media-amazon.com/images/I/51T2mgUJ7tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07352STTT-es Tenscare Sports Tens 2+ Paquete de 12 Electrodos -...'
 sku: 'B07352STTT-es'
 tags: [  ]

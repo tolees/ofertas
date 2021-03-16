@@ -5,7 +5,7 @@ date: 2020-09-19 20:01:35
 image: 'https://m.media-amazon.com/images/I/41owWwFQsKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TH1LGII-es Vileda 949860 Robot aspirador inteligente con programador...'
 sku: 'B00TH1LGII-es'
 tags: [  ]

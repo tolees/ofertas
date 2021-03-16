@@ -5,7 +5,7 @@ date: 2020-06-28 11:14:38
 image: 'https://m.media-amazon.com/images/I/51s8KTApf8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMD3H2T-es casa pura Alfombras Fibras Naturales - Alfombras Sisal...'
 sku: 'B07PMD3H2T-es'
 tags: [  ]

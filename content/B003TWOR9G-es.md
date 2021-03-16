@@ -5,7 +5,7 @@ date: 2020-03-10 04:13:40
 image: 'https://m.media-amazon.com/images/I/41MbFIfxtqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003TWOR9G-es Bosch Professional - Broca de diamante para perforación en...'
 sku: 'B003TWOR9G-es'
 tags: [  ]

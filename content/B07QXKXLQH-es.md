@@ -5,7 +5,7 @@ date: 2020-09-20 07:00:02
 image: 'https://m.media-amazon.com/images/I/41dl8ze616L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXKXLQH-es Medion Akoya S6445 - Portátil ultrafino 15.6" FullHD Intel...'
 sku: 'B07QXKXLQH-es'
 tags: [  ]

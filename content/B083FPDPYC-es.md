@@ -5,7 +5,7 @@ date: 2020-08-10 03:16:05
 image: 'https://m.media-amazon.com/images/I/41dSAomVk2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FPDPYC-es CAHAYA Atril Musica Plegable 80-145 cm con Bolsa de...'
 sku: 'B083FPDPYC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-25 01:29:47
 image: 'https://m.media-amazon.com/images/I/41N1H8uIDvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2S76P-es New Balance 411 h Zapatillas de Running para Hombre Negro...'
 sku: 'B07BL2S76P-es'
 tags: [  ]

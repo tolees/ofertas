@@ -5,7 +5,7 @@ date: 2020-09-18 17:13:04
 image: 'https://m.media-amazon.com/images/I/51qbQ2erqKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TGNZN1F-es Only & Sons NOS Onssato 7 Multi Clr Knit Noos suéter Gris...'
 sku: 'B07TGNZN1F-es'
 tags: [  ]

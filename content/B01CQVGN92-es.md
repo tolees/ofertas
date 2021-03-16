@@ -5,7 +5,7 @@ date: 2020-08-17 17:31:00
 image: 'https://m.media-amazon.com/images/I/41K8+W5EJLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CQVGN92-es Intex 57107NP - Piscina hinchable 3 aros +base hinchable...'
 sku: 'B01CQVGN92-es'
 tags: [  ]

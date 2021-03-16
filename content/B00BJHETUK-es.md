@@ -5,7 +5,7 @@ date: 2020-03-14 15:58:18
 image: 'https://m.media-amazon.com/images/I/41Ph-uDejeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BJHETUK-es Postquam - Balsamic Cream | Crema de Masaje con Efecto...'
 sku: 'B00BJHETUK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-29 06:32:36
 image: 'https://m.media-amazon.com/images/I/41tZByRrDnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JJ1WD88-es Coleman 16Qt Nevera Rígida Unisex Adulto Azul M'
 sku: 'B00JJ1WD88-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 13:13:37
 image: 'https://m.media-amazon.com/images/I/41QRBXl-BFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY3PY85-es Superdry Poolside Pique Polo Rojo Rouge Red Twist Y6p M...'
 sku: 'B07NY3PY85-es'
 tags: [  ]

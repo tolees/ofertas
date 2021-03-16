@@ -5,7 +5,7 @@ date: 2020-03-25 02:25:16
 image: 'https://m.media-amazon.com/images/I/41KrgX42+dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K12JCC2-es adidas Deerupt Runner W Zapatillas de Running Mujer Blanco...'
 sku: 'B07K12JCC2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 17:47:39
 image: 'https://m.media-amazon.com/images/I/41Q8JeN1jhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTX62QW-es adidas Duramo 9 C Zapatillas de Running Unisex Niños Negro...'
 sku: 'B07KTX62QW-es'
 tags: [  ]

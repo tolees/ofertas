@@ -5,7 +5,7 @@ date: 2020-07-02 09:02:04
 image: 'https://m.media-amazon.com/images/I/41a9C4xH2QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MKQ4BW-es Cecotec 04225 Secador de pelo Bamba IoniCare 6000 RockStar...'
 sku: 'B082MKQ4BW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 06:29:24
 image: 'https://m.media-amazon.com/images/I/31BcI8C4RYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY39FP5-es Skechers Men s Heston Classic Boots Black Black Leather...'
 sku: 'B07NY39FP5-es'
 tags: [  ]

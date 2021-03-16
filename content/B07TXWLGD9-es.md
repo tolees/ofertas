@@ -5,7 +5,7 @@ date: 2020-09-15 11:51:56
 image: 'https://m.media-amazon.com/images/I/41Fv6EW9JWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXWLGD9-es Kipling KiplingKiryasMujerMochilasGris Dark Carbon Y...'
 sku: 'B07TXWLGD9-es'
 tags: [  ]

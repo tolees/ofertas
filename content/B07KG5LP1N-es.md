@@ -5,7 +5,7 @@ date: 2020-10-09 13:24:12
 image: 'https://m.media-amazon.com/images/I/31gzuStJ8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG5LP1N-es PUMA ST Runner V2 Mesh Zapatillas para Hombre BLU 37.5 EU'
 sku: 'B07KG5LP1N-es'
 tags: [  ]

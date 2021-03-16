@@ -5,7 +5,7 @@ date: 2020-05-25 19:10:22
 image: 'https://m.media-amazon.com/images/I/41GaTPW-loL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08432WXCJ-es Baby Dove - Loción para bebés Noche Tranquilas 400ml'
 sku: 'B08432WXCJ-es'
 tags: [  ]

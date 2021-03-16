@@ -5,7 +5,7 @@ date: 2020-04-04 09:02:54
 image: 'https://m.media-amazon.com/images/I/41J+pmvkspL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G6YTG2H-es FOGAWA 2 Pares Taloneras Gel Médica Plantillas Gel...'
 sku: 'B07G6YTG2H-es'
 tags: [  ]

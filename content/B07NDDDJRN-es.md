@@ -5,7 +5,7 @@ date: 2020-06-15 12:02:43
 image: 'https://m.media-amazon.com/images/I/31zMiVkPbeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDDDJRN-es Samsung Galaxy S10 - Smartphone de 6.1” Dual SIM 128 GB...'
 sku: 'B07NDDDJRN-es'
 tags: [  ]

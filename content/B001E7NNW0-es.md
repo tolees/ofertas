@@ -5,7 +5,7 @@ date: 2020-02-15 19:05:31
 image: 'https://m.media-amazon.com/images/I/41img8XQjsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001E7NNW0-es Bausch & Lomb - Soflens Daily Esféricas - Lentes de Contacto'
 sku: 'B001E7NNW0-es'
 tags: [  ]

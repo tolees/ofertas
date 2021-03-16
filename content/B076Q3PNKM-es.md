@@ -5,7 +5,7 @@ date: 2020-04-11 09:40:35
 image: 'https://m.media-amazon.com/images/I/51jlkIW2iVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076Q3PNKM-es Juego de 12 pasadores Dooppa para niña con cierre de...'
 sku: 'B076Q3PNKM-es'
 tags: [  ]

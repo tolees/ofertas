@@ -5,7 +5,7 @@ date: 2020-08-13 15:08:58
 image: 'https://m.media-amazon.com/images/I/31L4CXUhiOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0853PQY9K-es Renberg Papelera con Pedal 3.0l Acero Inoxidable bodø...'
 sku: 'B0853PQY9K-es'
 tags: [  ]

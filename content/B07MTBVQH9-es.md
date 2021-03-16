@@ -5,7 +5,7 @@ date: 2020-01-26 14:31:10
 image: 'https://m.media-amazon.com/images/I/31xfdm4t7tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTBVQH9-es iMucci - Juego de Accesorios de baño con dispensador de...'
 sku: 'B07MTBVQH9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 09:11:04
 image: 'https://m.media-amazon.com/images/I/416ec48Gl2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HZ3CB8-es Friends Impreso TPU A Prueba de Golpes Ligero Ultra...'
 sku: 'B083HZ3CB8-es'
 tags: [  ]

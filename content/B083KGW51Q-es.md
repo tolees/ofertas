@@ -5,7 +5,7 @@ date: 2020-04-14 00:06:43
 image: 'https://m.media-amazon.com/images/I/31Fbymx+Y2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KGW51Q-es Silla de Cocina/Comedor de diseño nórdico-Scandi...'
 sku: 'B083KGW51Q-es'
 tags: [  ]

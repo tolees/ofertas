@@ -5,7 +5,7 @@ date: 2020-02-10 20:28:56
 image: 'https://m.media-amazon.com/images/I/41pPv+rk7IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UN4R3XA-es Montblanc Emblem Intense Edt Vapo 100 Ml 1 Unidad 100 ml'
 sku: 'B00UN4R3XA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-06 14:41:16
 image: 'https://m.media-amazon.com/images/I/31YqODZhFTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JHJRTM-es L´Oreal Paris Infalible Sombra 306 Nudist - 1 Sombra de ojos'
 sku: 'B072JHJRTM-es'
 tags: [  ]

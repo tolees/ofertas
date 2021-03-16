@@ -5,7 +5,7 @@ date: 2020-08-07 16:56:23
 image: 'https://m.media-amazon.com/images/I/51hvtsc7BkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053C7ZNU-es Paycheck [Blu-ray]'
 sku: 'B0053C7ZNU-es'
 tags: [  ]

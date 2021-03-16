@@ -5,7 +5,7 @@ date: 2020-05-20 08:27:49
 image: 'https://m.media-amazon.com/images/I/310qWV5o+1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006Y4FU6A-es Gigaset SL910 - Teléfono Inalámbrico con Pantalla táctil...'
 sku: 'B006Y4FU6A-es'
 tags: [  ]

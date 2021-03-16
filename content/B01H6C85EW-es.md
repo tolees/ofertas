@@ -5,7 +5,7 @@ date: 2021-03-16 14:57:30
 image: 'https://m.media-amazon.com/images/I/41gn8C-HIaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H6C85EW-es Polti Vaporetto Smart 35 Mop Limpiador a Vapor con Cepillo...'
 sku: 'B01H6C85EW-es'
 tags: [ 'polti', ]
@@ -29,9 +29,9 @@ Tienes [Polti Vaporetto Smart 35 Mop Limpiador a Vapor con Cepillo Vaporforce  C
 ℹ️:
 
 - Caldera de alta presión, hasta 3,5 bar
+- El vapor de polti vaporetto mata y elimina el 99.99% de virus, gérmenes y bacterias
 - Parking system para cepillos y accesorios
 - Erogación de vapor regulable con indicador vapor listo
-- El vapor de polti vaporetto mata y elimina el 99.99% de virus, gérmenes y bacterias
 - 9 accesorios en dotación
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01H6C85EW/?tag=tolees-21)

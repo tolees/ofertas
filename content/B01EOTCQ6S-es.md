@@ -5,7 +5,7 @@ date: 2020-04-06 12:27:54
 image: 'https://m.media-amazon.com/images/I/41x+3gXcg1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EOTCQ6S-es Dugena Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B01EOTCQ6S-es'
 tags: [  ]

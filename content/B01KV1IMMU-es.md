@@ -5,7 +5,7 @@ date: 2020-02-24 01:03:44
 image: 'https://m.media-amazon.com/images/I/41DRG4hfs+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KV1IMMU-es ratón gaming HAVIT RGB 10000 DPI y 14 botones...'
 sku: 'B01KV1IMMU-es'
 tags: [  ]

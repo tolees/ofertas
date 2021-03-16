@@ -5,7 +5,7 @@ date: 2020-06-25 06:21:09
 image: 'https://m.media-amazon.com/images/I/3100S9UkpIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPQ4J9Y-es New Balance 500 h Zapatillas para Hombre Gris Grey Grey...'
 sku: 'B07PPQ4J9Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-12 10:04:12
 image: 'https://m.media-amazon.com/images/I/51UgJMpTPvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FFHJP2M-es Black Diamond - Terminator Color Black Talla L'
 sku: 'B00FFHJP2M-es'
 tags: [  ]

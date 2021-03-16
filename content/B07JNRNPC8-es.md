@@ -5,7 +5,7 @@ date: 2020-07-14 16:17:52
 image: 'https://m.media-amazon.com/images/I/31smtzRwoOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNRNPC8-es Adidas Tiro 19 Training Pnt Pantalones Deportivos Hombre...'
 sku: 'B07JNRNPC8-es'
 tags: [  ]

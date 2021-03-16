@@ -5,7 +5,7 @@ date: 2020-07-15 05:25:04
 image: 'https://m.media-amazon.com/images/I/41LrHfJYlDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KJJZA2K-es Vans Y Atwood - Zapatillas para niños Color Army/Negro...'
 sku: 'B00KJJZA2K-es'
 tags: [  ]

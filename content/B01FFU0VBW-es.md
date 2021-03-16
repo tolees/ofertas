@@ -5,7 +5,7 @@ date: 2020-02-28 16:49:19
 image: 'https://m.media-amazon.com/images/I/41AugZR6qsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFU0VBW-es True Instinct Original Pienso para Perros Medium Adult con...'
 sku: 'B01FFU0VBW-es'
 tags: [  ]

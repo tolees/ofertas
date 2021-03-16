@@ -5,7 +5,7 @@ date: 2020-09-18 21:30:34
 image: 'https://m.media-amazon.com/images/I/41B2eipMVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTWZ4KQ-es Piz Buin Allergy Protector Solar Facial SPF 50+ Protección...'
 sku: 'B00TTWZ4KQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-14 19:39:10
 image: 'https://m.media-amazon.com/images/I/41tp17Gd6VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Y3Y1KF-es Skechers On-The-go 600-Foxy Sandalia con Pulsera para...'
 sku: 'B075Y3Y1KF-es'
 tags: [  ]

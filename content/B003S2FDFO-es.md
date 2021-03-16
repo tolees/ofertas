@@ -5,7 +5,7 @@ date: 2020-05-05 18:14:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/315h5wdICML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003S2FDFO-es Vans Herren OTW T-Shirt Weiß WHITE-BLACK YB2 XL'
 sku: 'B003S2FDFO-es'
 tags: [  ]

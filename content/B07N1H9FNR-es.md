@@ -5,7 +5,7 @@ date: 2020-07-29 12:58:03
 image: 'https://m.media-amazon.com/images/I/41iaVt-1rKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1H9FNR-es Clarks Orinoco Snug Botas Estilo Motero para Mujer Marrón...'
 sku: 'B07N1H9FNR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-27 12:04:19
 image: 'https://m.media-amazon.com/images/I/41pkXmaDF6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N98BG6W-es PawHut Inodoro de Bandeja para Perros Césped Artificial 3...'
 sku: 'B01N98BG6W-es'
 tags: [  ]

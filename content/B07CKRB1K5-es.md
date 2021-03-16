@@ -5,7 +5,7 @@ date: 2020-01-06 08:57:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eXz608XVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKRB1K5-es GearGo Purificador de Aire con Filtro Hepa Purificador de...'
 sku: 'B07CKRB1K5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-25 12:32:35
 image: 'https://m.media-amazon.com/images/I/51iKt-F27QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011KICD5U-es MaxHold Sistema de vacío Doble Ganchos para colgadores -...'
 sku: 'B011KICD5U-es'
 tags: [  ]

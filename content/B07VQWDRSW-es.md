@@ -5,7 +5,7 @@ date: 2020-06-04 01:49:18
 image: 'https://m.media-amazon.com/images/I/41xpC5ZU+qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQWDRSW-es Calvin Klein Brazilian Braguita brasileña Azul Surf The...'
 sku: 'B07VQWDRSW-es'
 tags: [  ]

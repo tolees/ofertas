@@ -5,7 +5,7 @@ date: 2020-07-21 10:30:28
 image: 'https://m.media-amazon.com/images/I/51mmc+azguL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MW8HBGY-es Dremel 723 Kit de 100 Accesorios Variados - Juego de...'
 sku: 'B00MW8HBGY-es'
 tags: [  ]

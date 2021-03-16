@@ -5,7 +5,7 @@ date: 2020-02-17 20:32:59
 image: 'https://m.media-amazon.com/images/I/51DzmhQux9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3VYVTV-es SYOSS - Oleo Intense Coloración Permanente Sin Amoníaco -...'
 sku: 'B07N3VYVTV-es'
 tags: [  ]

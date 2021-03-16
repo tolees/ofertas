@@ -5,7 +5,7 @@ date: 2020-07-05 19:32:36
 image: 'https://m.media-amazon.com/images/I/41nwEicEm3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XRM1DG-es Enchufe de sincronización wifi Enchufe inalámbrico Puertos...'
 sku: 'B083XRM1DG-es'
 tags: [  ]

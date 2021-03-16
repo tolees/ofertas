@@ -5,7 +5,7 @@ date: 2020-08-17 00:36:20
 image: 'https://m.media-amazon.com/images/I/41mJRWKwiWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P1S1G4P-es PUTORSEN® Soporte de Escritorio para Monitor de Las...'
 sku: 'B07P1S1G4P-es'
 tags: [  ]

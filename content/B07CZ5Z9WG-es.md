@@ -5,7 +5,7 @@ date: 2020-02-24 08:36:00
 image: 'https://m.media-amazon.com/images/I/41H4FviKkiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ5Z9WG-es Puma Mantra Fusefit Zapatillas de Deporte para Hombre Gris...'
 sku: 'B07CZ5Z9WG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 19:30:08
 image: 'https://m.media-amazon.com/images/I/41SoyMI+l8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBG9XS5-es Calvin Klein Mid Rise Short Azul Da037 Light Blue Cut Hem...'
 sku: 'B07VBG9XS5-es'
 tags: [  ]

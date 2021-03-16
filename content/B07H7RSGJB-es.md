@@ -5,7 +5,7 @@ date: 2020-01-27 12:58:14
 image: 'https://m.media-amazon.com/images/I/41ELv85ipQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7RSGJB-es Pioneer MVH-S110UB Autoradio Negro'
 sku: 'B07H7RSGJB-es'
 tags: [  ]

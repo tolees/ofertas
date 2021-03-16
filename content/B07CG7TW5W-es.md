@@ -5,7 +5,7 @@ date: 2020-08-11 01:52:32
 image: 'https://m.media-amazon.com/images/I/41I3pxwXK9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CG7TW5W-es amison 8 pieza automático de riego dispensador de agua...'
 sku: 'B07CG7TW5W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 11:29:17
 image: 'https://m.media-amazon.com/images/I/41HIqEATGBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9WFFJV-es Fitbit Versa Smartwatch Deportivo Melocotón'
 sku: 'B07B9WFFJV-es'
 tags: [  ]

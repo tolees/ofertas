@@ -5,7 +5,7 @@ date: 2020-02-29 23:32:19
 image: 'https://m.media-amazon.com/images/I/31wJK4KNvSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMN8YSD-es GANT MD. Extrafine Lambswool V-Neck suéter Rojo Red 610...'
 sku: 'B07MMN8YSD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-22 15:49:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4104McrVzLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB8SLMV-es SanDisk Extreme - Tarjeta de memoria microSDXC para...'
 sku: 'B07HB8SLMV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-29 10:07:06
 image: 'https://m.media-amazon.com/images/I/51sjeHPVzQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EV6VGM4-es Woxter Big Bass 260 S - Altavoces 2.1 150W subwoofer de...'
 sku: 'B01EV6VGM4-es'
 tags: [  ]

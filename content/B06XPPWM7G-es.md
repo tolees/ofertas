@@ -5,7 +5,7 @@ date: 2020-08-30 18:30:10
 image: 'https://m.media-amazon.com/images/I/61EJ9auQPoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPPWM7G-es Forever Speed Piscina Perros Gatos Bañera Piscina Mascotas...'
 sku: 'B06XPPWM7G-es'
 tags: [  ]

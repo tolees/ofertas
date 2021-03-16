@@ -5,7 +5,7 @@ date: 2020-09-28 08:29:39
 image: 'https://m.media-amazon.com/images/I/618rFTrqMlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HZK3M3-es Charms Bling Glitter Funda ultradelgada para teléfono...'
 sku: 'B083HZK3M3-es'
 tags: [  ]

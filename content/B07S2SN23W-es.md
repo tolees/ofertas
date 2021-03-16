@@ -5,7 +5,7 @@ date: 2020-09-23 23:20:43
 image: 'https://m.media-amazon.com/images/I/414P7S-JFRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2SN23W-es New Balance 500 Zapatillas para Mujer Rosa Pink Rk 39 EU'
 sku: 'B07S2SN23W-es'
 tags: [  ]

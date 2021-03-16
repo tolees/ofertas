@@ -5,7 +5,7 @@ date: 2020-07-14 13:44:55
 image: 'https://m.media-amazon.com/images/I/51-24DR2leL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3TBWXF-es Kingnew Perro Techo Pet Cojín Perro Gato Cama Suave...'
 sku: 'B07D3TBWXF-es'
 tags: [  ]

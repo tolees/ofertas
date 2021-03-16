@@ -5,7 +5,7 @@ date: 2020-03-01 22:49:21
 image: 'https://m.media-amazon.com/images/I/41fn577cERL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RR4PGVQ-es Tommy Hilfiger - Th Core Satchel Bolsos maletín Mujer...'
 sku: 'B07RR4PGVQ-es'
 tags: [  ]

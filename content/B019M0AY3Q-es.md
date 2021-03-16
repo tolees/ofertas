@@ -5,7 +5,7 @@ date: 2020-09-11 16:45:32
 image: 'https://m.media-amazon.com/images/I/31Evg6n8ENL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019M0AY3Q-es Trust Urban - Palo para Selfie Bluetooth plegable negro'
 sku: 'B019M0AY3Q-es'
 tags: [  ]

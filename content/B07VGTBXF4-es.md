@@ -5,7 +5,7 @@ date: 2020-08-02 17:25:32
 image: 'https://m.media-amazon.com/images/I/41Radyyv37L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGTBXF4-es Lee Extreme Motion Short Pantalones Cortos Azul Navy 09 54...'
 sku: 'B07VGTBXF4-es'
 tags: [  ]

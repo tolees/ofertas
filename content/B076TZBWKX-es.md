@@ -5,7 +5,7 @@ date: 2020-01-10 07:25:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QSKcUhSUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076TZBWKX-es Philips Secador BHD170/40 - Secador de pelo CC Negro Rosa...'
 sku: 'B076TZBWKX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 18:16:34
 image: 'https://m.media-amazon.com/images/I/51v8dkPcLML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGVPTWZ-es IMC Toys- GOLOSINI S Juguete Color variado Talla unica...'
 sku: 'B07NGVPTWZ-es'
 tags: [  ]

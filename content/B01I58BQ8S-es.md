@@ -5,7 +5,7 @@ date: 2020-10-06 12:31:29
 image: 'https://m.media-amazon.com/images/I/51HGwSgMExL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I58BQ8S-es Silver HT Messenger - Bolsa para Laptop de hasta 15" Color...'
 sku: 'B01I58BQ8S-es'
 tags: [  ]

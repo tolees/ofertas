@@ -5,7 +5,7 @@ date: 2020-06-02 13:06:33
 image: 'https://m.media-amazon.com/images/I/41Z6cOcx8OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AJIK9AS-es Revlon ColorSilk Tinte de Cabello Permanente Tono #80...'
 sku: 'B01AJIK9AS-es'
 tags: [  ]

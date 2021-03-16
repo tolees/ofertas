@@ -5,7 +5,7 @@ date: 2020-06-25 02:30:14
 image: 'https://m.media-amazon.com/images/I/41Pyh34X0sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYYR8DD-es Under Armour UA W HOVR Sonic 3 Zapatillas de Running para...'
 sku: 'B07PYYR8DD-es'
 tags: [  ]

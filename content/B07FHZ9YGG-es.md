@@ -5,7 +5,7 @@ date: 2020-01-24 16:23:38
 image: 'https://m.media-amazon.com/images/I/51XD+FuClhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHZ9YGG-es lenbest Pinturas Cara Maquillaje al Agua Pinturas...'
 sku: 'B07FHZ9YGG-es'
 tags: [  ]

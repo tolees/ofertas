@@ -5,7 +5,7 @@ date: 2020-01-30 16:44:21
 image: 'https://m.media-amazon.com/images/I/31VZ3yh4SnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCN2JNL-es Polarduck Soporte de Pared para TV de 13-30 pulgadas...'
 sku: 'B07XCN2JNL-es'
 tags: [  ]

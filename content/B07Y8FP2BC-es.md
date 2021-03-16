@@ -5,7 +5,7 @@ date: 2020-09-30 05:19:42
 image: 'https://m.media-amazon.com/images/I/41emrWYJNHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8FP2BC-es GIOSEPPO THEUX Zapatillas para Mujer Beige Beig Beig 38 EU'
 sku: 'B07Y8FP2BC-es'
 tags: [  ]

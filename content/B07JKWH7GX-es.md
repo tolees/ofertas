@@ -5,7 +5,7 @@ date: 2020-04-06 15:46:36
 image: 'https://m.media-amazon.com/images/I/41aGlb1J98L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKWH7GX-es Lee Luke Jeans Dark Diamond Ft 34W / 30L para Hombre'
 sku: 'B07JKWH7GX-es'
 tags: [  ]

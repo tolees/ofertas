@@ -5,7 +5,7 @@ date: 2020-04-17 23:04:18
 image: 'https://m.media-amazon.com/images/I/51r+llnfo4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078W6J2KB-es Reloj de Bolsillo Vintage Retro Moto Grabado Motocicleta...'
 sku: 'B078W6J2KB-es'
 tags: [  ]

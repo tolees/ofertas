@@ -5,7 +5,7 @@ date: 2020-03-12 10:03:26
 image: 'https://m.media-amazon.com/images/I/41WQ82WRs+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ3YBZW-es YoRiBo Pajitas multifunción de Silicona Reutilizables con...'
 sku: 'B07TJ3YBZW-es'
 tags: [  ]

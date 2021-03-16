@@ -5,7 +5,7 @@ date: 2020-05-28 16:08:58
 image: 'https://m.media-amazon.com/images/I/319cwgmzBtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9PWVRS-es Under Armour Hombre Challenger III Training Pant...'
 sku: 'B07L9PWVRS-es'
 tags: [  ]

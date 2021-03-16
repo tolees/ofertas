@@ -5,7 +5,7 @@ date: 2020-05-21 14:51:10
 image: 'https://m.media-amazon.com/images/I/41QnNsWdd0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004WBJ9RS-es Compex Electrodos Wire Wire 5X10 Cable Dual Azul'
 sku: 'B004WBJ9RS-es'
 tags: [  ]

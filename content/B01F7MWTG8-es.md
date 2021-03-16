@@ -5,7 +5,7 @@ date: 2020-02-14 23:44:51
 image: 'https://m.media-amazon.com/images/I/31z-d8ky7cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F7MWTG8-es Luxana Phyto Nature Tónico Azul Cabellos Grises y Blancos...'
 sku: 'B01F7MWTG8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-30 13:33:22
 image: 'https://m.media-amazon.com/images/I/51YuZCygVwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PY55UG0-es murando - Cuadro en Lienzo 200x100 cm New York Impresión...'
 sku: 'B00PY55UG0-es'
 tags: [  ]

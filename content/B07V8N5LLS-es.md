@@ -5,7 +5,7 @@ date: 2020-04-16 00:28:38
 image: 'https://m.media-amazon.com/images/I/41GiEQ7QOcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8N5LLS-es Puma RS-X Toys 370920 01'
 sku: 'B07V8N5LLS-es'
 tags: [  ]

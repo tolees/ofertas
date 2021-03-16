@@ -5,7 +5,7 @@ date: 2020-03-22 14:25:17
 image: 'https://m.media-amazon.com/images/I/41HnbZWNHaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NX3RKYT-es Igi&Co Uomo Gore-Tex-41173 Zapatillas Altas para Hombre...'
 sku: 'B07NX3RKYT-es'
 tags: [  ]

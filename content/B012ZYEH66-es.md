@@ -5,7 +5,7 @@ date: 2020-06-01 07:40:44
 image: 'https://m.media-amazon.com/images/I/51mKQ+GbHyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012ZYEH66-es ZOEREA Uno-Pedazos de los bebés Romper el Smoking con el...'
 sku: 'B012ZYEH66-es'
 tags: [  ]

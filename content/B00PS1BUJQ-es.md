@@ -5,7 +5,7 @@ date: 2020-03-08 16:50:21
 image: 'https://m.media-amazon.com/images/I/31Aa9MZjgfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PS1BUJQ-es D-Link DHP-601AV 2x DHP-600AV Kit PLC PowerLine AV2 1000...'
 sku: 'B00PS1BUJQ-es'
 tags: [  ]

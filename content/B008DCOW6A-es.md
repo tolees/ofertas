@@ -5,7 +5,7 @@ date: 2020-09-23 14:43:39
 image: 'https://m.media-amazon.com/images/I/41HECjr21cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008DCOW6A-es H.Koenig V5i Centro de Planchado 90 g/r 3.5 Bares 2400 W...'
 sku: 'B008DCOW6A-es'
 tags: [  ]

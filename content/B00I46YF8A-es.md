@@ -5,7 +5,7 @@ date: 2020-03-28 18:32:13
 image: 'https://m.media-amazon.com/images/I/41G-wuhKhbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I46YF8A-es Deltadore 217 Termostato'
 sku: 'B00I46YF8A-es'
 tags: [  ]

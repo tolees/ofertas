@@ -5,7 +5,7 @@ date: 2020-05-13 03:37:47
 image: 'https://m.media-amazon.com/images/I/416snQ3K5jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KZUJ0DW-es Moulinex Vitapress PC603D Exprimidor 100W de potencia con...'
 sku: 'B01KZUJ0DW-es'
 tags: [  ]

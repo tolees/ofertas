@@ -5,7 +5,7 @@ date: 2020-02-28 16:35:40
 image: 'https://m.media-amazon.com/images/I/41Klxmwg2CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XT5RV2D-es VEIERSIA Calentador de Manos Recargable 5200mAh Recargable...'
 sku: 'B07XT5RV2D-es'
 tags: [  ]

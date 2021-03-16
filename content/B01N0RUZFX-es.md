@@ -5,7 +5,7 @@ date: 2020-09-13 13:03:19
 image: 'https://m.media-amazon.com/images/I/41YHMPP8giL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0RUZFX-es Bourjois Healthy Mix Concealer Corrector Tono 51 Light -...'
 sku: 'B01N0RUZFX-es'
 tags: [  ]

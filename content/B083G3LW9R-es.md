@@ -5,7 +5,7 @@ date: 2020-10-09 08:00:28
 image: 'https://m.media-amazon.com/images/I/311V4Ov7RqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083G3LW9R-es Fisen ColorPower Pro - Batería portátil 10000 mAh'
 sku: 'B083G3LW9R-es'
 tags: [  ]

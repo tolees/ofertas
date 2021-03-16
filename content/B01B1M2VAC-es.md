@@ -5,7 +5,7 @@ date: 2020-03-29 20:17:52
 image: 'https://m.media-amazon.com/images/I/41TCIxjw6WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B1M2VAC-es WMF Alteo - Cubertería de acero inoxidable con acabado...'
 sku: 'B01B1M2VAC-es'
 tags: [  ]

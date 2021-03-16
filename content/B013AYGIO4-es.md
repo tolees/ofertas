@@ -5,7 +5,7 @@ date: 2020-03-10 16:52:23
 image: 'https://m.media-amazon.com/images/I/41x1flFyUAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013AYGIO4-es Optimum Nutrition ON Amino Energy Pre Workout Powder Keto...'
 sku: 'B013AYGIO4-es'
 tags: [  ]

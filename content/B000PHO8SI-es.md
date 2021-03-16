@@ -5,7 +5,7 @@ date: 2020-05-30 19:07:17
 image: 'https://m.media-amazon.com/images/I/51KA5ot0yLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000PHO8SI-es HP C9380A - Cabezal de Impresora Gris y Negro fotográfico'
 sku: 'B000PHO8SI-es'
 tags: [  ]

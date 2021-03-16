@@ -5,7 +5,7 @@ date: 2020-03-24 09:05:01
 image: 'https://m.media-amazon.com/images/I/41srNcb40LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJY1SP5-es Nike W Nk Gym Club Bolsa de Gimnasio para Mujer Negro...'
 sku: 'B07KJY1SP5-es'
 tags: [  ]

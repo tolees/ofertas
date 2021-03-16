@@ -5,7 +5,7 @@ date: 2020-01-02 18:56:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31hlYuEsa-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8T7YR1-es Morgan 192-pelini.n Pantalones Negro Noir Noir Talla única...'
 sku: 'B07P8T7YR1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-25 12:35:06
 image: 'https://m.media-amazon.com/images/I/51WLA4ELmiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CSTWDQK-es Braun 40B - Recambio para afeitadora eléctrica hombre...'
 sku: 'B00CSTWDQK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 19:34:24
 image: 'https://m.media-amazon.com/images/I/31HvclZUxzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082V9KHHW-es TRESemmé Rubio & Platino Acondicionador'
 sku: 'B082V9KHHW-es'
 tags: [  ]

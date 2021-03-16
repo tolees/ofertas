@@ -5,7 +5,7 @@ date: 2020-08-21 11:23:13
 image: 'https://m.media-amazon.com/images/I/31UVu4VCASL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XCV6MQ-es Lacoste Reloj Análogo clásico para Niños de Cuarzo con...'
 sku: 'B073XCV6MQ-es'
 tags: [  ]

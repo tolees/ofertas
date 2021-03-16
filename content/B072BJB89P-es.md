@@ -5,7 +5,7 @@ date: 2020-08-02 22:28:11
 image: 'https://m.media-amazon.com/images/I/31Qa4KgU64L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BJB89P-es American Crew Espuma de Afeitar 300 ml'
 sku: 'B072BJB89P-es'
 tags: [  ]

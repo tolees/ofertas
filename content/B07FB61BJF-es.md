@@ -5,7 +5,7 @@ date: 2020-05-29 08:20:55
 image: 'https://m.media-amazon.com/images/I/4184WHcRzDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FB61BJF-es Yosoy - Bebida de Avena - Caja de 8 packs de 3x250ml'
 sku: 'B07FB61BJF-es'
 tags: [  ]

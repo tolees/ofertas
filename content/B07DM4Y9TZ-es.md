@@ -5,7 +5,7 @@ date: 2020-03-05 20:30:56
 image: 'https://m.media-amazon.com/images/I/31FeTYpk9IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DM4Y9TZ-es Salter BW06667W - Cubo de Basura Rectangular con Pedal de...'
 sku: 'B07DM4Y9TZ-es'
 tags: [  ]

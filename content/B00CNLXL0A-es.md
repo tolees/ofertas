@@ -5,7 +5,7 @@ date: 2020-07-15 04:05:13
 image: 'https://m.media-amazon.com/images/I/41f8Wv1uOTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CNLXL0A-es Maxxis Minion Dhr II Neumático Unisex Negro 29x2 30 58-622'
 sku: 'B00CNLXL0A-es'
 tags: [  ]

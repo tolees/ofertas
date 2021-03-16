@@ -5,7 +5,7 @@ date: 2020-08-04 15:02:21
 image: 'https://m.media-amazon.com/images/I/31Y-VxduaeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XR3PL9-es DEATTI HD Cámara de vigilancia 1080P IR visión nocturna...'
 sku: 'B083XR3PL9-es'
 tags: [  ]

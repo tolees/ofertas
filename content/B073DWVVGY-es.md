@@ -5,7 +5,7 @@ date: 2020-08-26 12:00:02
 image: 'https://m.media-amazon.com/images/I/51UB-aRGk-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073DWVVGY-es Detector de Pared Tacklife DMS03 Detector de Metal Madera...'
 sku: 'B073DWVVGY-es'
 tags: [  ]

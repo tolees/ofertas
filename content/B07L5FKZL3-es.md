@@ -5,7 +5,7 @@ date: 2020-02-15 17:22:02
 image: 'https://m.media-amazon.com/images/I/41mbdJMwVZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5FKZL3-es Viking Alvdal Mid R GTX Zapatillas Altas Unisex Niños...'
 sku: 'B07L5FKZL3-es'
 tags: [  ]

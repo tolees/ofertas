@@ -5,7 +5,7 @@ date: 2020-02-17 16:29:09
 image: 'https://m.media-amazon.com/images/I/41fbT9jIFFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GZRXR9C-es Atosa- Disfraz Mujer Charleston Color Negro y Dorado XS-S...'
 sku: 'B01GZRXR9C-es'
 tags: [  ]

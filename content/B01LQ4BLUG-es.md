@@ -5,7 +5,7 @@ date: 2020-09-09 07:33:55
 image: 'https://m.media-amazon.com/images/I/41PQZ-Vgk0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQ4BLUG-es Razer Goliathus - Suave Alfombrilla de Ratón para Juegos...'
 sku: 'B01LQ4BLUG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 11:38:02
 image: 'https://m.media-amazon.com/images/I/41gRp2075NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFW8YYG-es PUMA Source Mid Buzzer Zapatillas Altas Unisex Adulto...'
 sku: 'B07KFW8YYG-es'
 tags: [  ]

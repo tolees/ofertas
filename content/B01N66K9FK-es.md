@@ -5,7 +5,7 @@ date: 2020-03-22 16:05:57
 image: 'https://m.media-amazon.com/images/I/21O0k7KsvqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N66K9FK-es Indoor Copa JR'
 sku: 'B01N66K9FK-es'
 tags: [  ]

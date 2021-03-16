@@ -5,7 +5,7 @@ date: 2020-05-13 11:29:32
 image: 'https://m.media-amazon.com/images/I/41Oc2nj5UVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPSJTV2-es LAST LEVEL- Figura Pop Warhammer 40K: ULTRAMARINES...'
 sku: 'B07KPSJTV2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 14:01:58
 image: 'https://m.media-amazon.com/images/I/41ZHxFrqlNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZHG7WX-es Mesa de aleación de aluminio de 35 mm Abrazadera de banco...'
 sku: 'B086ZHG7WX-es'
 tags: [  ]

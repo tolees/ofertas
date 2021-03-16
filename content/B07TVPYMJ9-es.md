@@ -5,7 +5,7 @@ date: 2020-07-28 18:03:44
 image: 'https://m.media-amazon.com/images/I/41H6rH0eNhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVPYMJ9-es KiplingCity Pack SMujerMochilasVerde Light Aloe 27x33.5x19...'
 sku: 'B07TVPYMJ9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 23:59:43
 image: 'https://m.media-amazon.com/images/I/41bKOFzs2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6BNHSN-es Salomon Supercross GTX Zapatillas de Running para Hombre...'
 sku: 'B07M6BNHSN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-10 16:50:09
 image: 'https://m.media-amazon.com/images/I/41aWJXU9MkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MOIDX82-es AEG WZD 5648 - Manta eléctrica 130 x 180 cm apagado...'
 sku: 'B00MOIDX82-es'
 tags: [  ]

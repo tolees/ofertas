@@ -5,7 +5,7 @@ date: 2020-05-30 08:57:08
 image: 'https://m.media-amazon.com/images/I/31QEZETBCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J7C1TN4-es Schwarzkopf Professional Igora Royal Loción Activa Vol 20...'
 sku: 'B00J7C1TN4-es'
 tags: [  ]

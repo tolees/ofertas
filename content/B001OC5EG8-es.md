@@ -5,7 +5,7 @@ date: 2020-04-28 20:06:44
 image: 'https://m.media-amazon.com/images/I/4169SXp52ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001OC5EG8-es Ecco Helsinki Mocasines para Hombre Negro BLACK101 39 EU'
 sku: 'B001OC5EG8-es'
 tags: [  ]

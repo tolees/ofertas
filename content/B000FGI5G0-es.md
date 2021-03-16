@@ -5,7 +5,7 @@ date: 2020-04-06 16:08:55
 image: 'https://m.media-amazon.com/images/I/31Bt-FYZ0SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000FGI5G0-es K&N SU-4002-TDK Funda para Filtro de Aire para DRYCHARGER...'
 sku: 'B000FGI5G0-es'
 tags: [  ]

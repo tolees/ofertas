@@ -5,7 +5,7 @@ date: 2020-03-16 22:21:26
 image: 'https://m.media-amazon.com/images/I/51pnDSeYbsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPDDKBZ-es DAM TEKKIWEAR. DMX222BKRED. Pulsera Inteligente Ak-Q8S...'
 sku: 'B07JPDDKBZ-es'
 tags: [  ]

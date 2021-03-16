@@ -5,7 +5,7 @@ date: 2020-02-20 07:57:16
 image: 'https://m.media-amazon.com/images/I/41va+xWIYcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ93FV4-es Under Armour Armour Heatgear Legging Leggings Niños Negro...'
 sku: 'B07CZ93FV4-es'
 tags: [  ]

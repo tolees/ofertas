@@ -5,7 +5,7 @@ date: 2020-08-19 17:51:06
 image: 'https://m.media-amazon.com/images/I/41rgSrZfm6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDQWLLH-es Garnier Fructis Crece Fuerte Champú Pelo Frágil con...'
 sku: 'B06XDQWLLH-es'
 tags: [  ]

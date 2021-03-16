@@ -5,7 +5,7 @@ date: 2020-04-18 15:10:47
 image: 'https://m.media-amazon.com/images/I/314xrI-cnVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBZQ89N-es Jack & Jones Jjiace Jjworker WW Pantalones Negro Black...'
 sku: 'B07VBZQ89N-es'
 tags: [  ]

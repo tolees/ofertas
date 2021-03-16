@@ -5,7 +5,7 @@ date: 2020-04-06 16:31:26
 image: 'https://m.media-amazon.com/images/I/51b2WkLR-WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JW7YLZ-es White Day: A Labyrinth Named School'
 sku: 'B072JW7YLZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 21:49:48
 image: 'https://m.media-amazon.com/images/I/41penOCe2YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CB6MG2H-es Kemier Anillo de Luz Luz para Selfie LED con Trípode de...'
 sku: 'B08CB6MG2H-es'
 tags: [  ]

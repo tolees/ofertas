@@ -5,7 +5,7 @@ date: 2020-05-26 08:41:18
 image: 'https://m.media-amazon.com/images/I/51Kvjur7PBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6Q4G5H-es SWIHELP Organizadores para Coche 2 Pack Kick Mats de Coche...'
 sku: 'B07W6Q4G5H-es'
 tags: [  ]

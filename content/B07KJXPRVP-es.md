@@ -5,7 +5,7 @@ date: 2020-03-08 17:22:38
 image: 'https://m.media-amazon.com/images/I/51BuA4P1SEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJXPRVP-es Guirnalda Luces Exterior Kenlita Cadena de Luces 15m IP65...'
 sku: 'B07KJXPRVP-es'
 tags: [  ]

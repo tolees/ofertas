@@ -5,7 +5,7 @@ date: 2020-09-28 18:23:32
 image: 'https://m.media-amazon.com/images/I/51sWxwYJl9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086HCP44H-es Ausonia Discreet Compresas Para Pérdidas De Orina Mini...'
 sku: 'B086HCP44H-es'
 tags: [  ]

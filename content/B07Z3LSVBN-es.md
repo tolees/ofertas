@@ -5,7 +5,7 @@ date: 2020-01-20 20:41:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51yNY6SzrgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3LSVBN-es Young & Ming 3 Unidades Cristal Templado para Huawei Watch...'
 sku: 'B07Z3LSVBN-es'
 tags: [  ]

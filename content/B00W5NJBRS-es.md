@@ -5,7 +5,7 @@ date: 2020-03-09 11:29:51
 image: 'https://m.media-amazon.com/images/I/51pS0UD-yvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W5NJBRS-es Protefix - Almohadillas Adhesivas para Protesis Dentales'
 sku: 'B00W5NJBRS-es'
 tags: [  ]

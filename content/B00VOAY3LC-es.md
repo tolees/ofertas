@@ -5,7 +5,7 @@ date: 2020-03-06 08:51:09
 image: 'https://m.media-amazon.com/images/I/41tspJWRitL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VOAY3LC-es Croci C5055240 Flexi Design Cord S 5M Rosa'
 sku: 'B00VOAY3LC-es'
 tags: [  ]

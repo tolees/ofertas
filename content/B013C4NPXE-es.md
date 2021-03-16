@@ -5,7 +5,7 @@ date: 2020-01-07 19:36:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31uk4ZI6L4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013C4NPXE-es adidas Stan Smith S75104 Zapatillas para Hombre Blanco...'
 sku: 'B013C4NPXE-es'
 tags: [  ]

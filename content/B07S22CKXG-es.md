@@ -5,7 +5,7 @@ date: 2020-05-14 07:39:23
 image: 'https://m.media-amazon.com/images/I/31olPXnw47L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S22CKXG-es Love Moschino Jc4010pp1a Carteras de Mano con Asa para...'
 sku: 'B07S22CKXG-es'
 tags: [  ]

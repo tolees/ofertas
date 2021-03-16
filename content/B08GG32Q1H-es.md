@@ -5,7 +5,7 @@ date: 2020-09-18 08:07:41
 image: 'https://m.media-amazon.com/images/I/31owDpl-xKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GG32Q1H-es FERYES - Exprimidor de pasta de dientes de 2 piezas...'
 sku: 'B08GG32Q1H-es'
 tags: [  ]

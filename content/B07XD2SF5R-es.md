@@ -5,7 +5,7 @@ date: 2020-07-23 20:09:54
 image: 'https://m.media-amazon.com/images/I/31NeRchh6VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD2SF5R-es COOAU Palo Flotante para Selfie Palo Flotante de Agarre...'
 sku: 'B07XD2SF5R-es'
 tags: [  ]

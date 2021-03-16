@@ -5,7 +5,7 @@ date: 2020-04-14 13:04:08
 image: 'https://m.media-amazon.com/images/I/51jVHDFrg8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M9COIIW-es Polti Forzaspira MC330 Turbo aspirador multiciclónico sin...'
 sku: 'B00M9COIIW-es'
 tags: [  ]

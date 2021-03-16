@@ -5,7 +5,7 @@ date: 2020-02-23 14:35:32
 image: 'https://m.media-amazon.com/images/I/41tKfIFWuOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBP8Y1R-es Homyl 1 Pieza de Reproductores de MP3 MP4 de 32GB Radio...'
 sku: 'B07BBP8Y1R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-21 11:43:40
 image: 'https://m.media-amazon.com/images/I/41B4z2PCjEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU50SRI-es adidas Altasport CF I Zapatillas Unisex Niños Blanco...'
 sku: 'B01MU50SRI-es'
 tags: [  ]

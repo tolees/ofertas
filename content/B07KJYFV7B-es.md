@@ -5,7 +5,7 @@ date: 2020-05-08 21:05:03
 image: 'https://m.media-amazon.com/images/I/312dB0C7GEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJYFV7B-es Quiksilver Everyday Ev Sr Pantalones Cortos Hombre Negro...'
 sku: 'B07KJYFV7B-es'
 tags: [  ]

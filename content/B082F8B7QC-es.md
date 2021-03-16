@@ -5,7 +5,7 @@ date: 2020-04-15 11:34:58
 image: 'https://m.media-amazon.com/images/I/41U9qG0HseL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082F8B7QC-es SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno...'
 sku: 'B082F8B7QC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 09:52:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zKsdIOE1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPQY7W1-es Jura Journey Single Malt Scotch Whisky - 0.7 L'
 sku: 'B07BPQY7W1-es'
 tags: [  ]

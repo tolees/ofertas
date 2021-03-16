@@ -5,7 +5,7 @@ date: 2020-07-17 16:03:06
 image: 'https://m.media-amazon.com/images/I/41A4zlpfwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EAP3JEY-es Lonsdale Pantalones de entrenamiento de boxeo para hombre...'
 sku: 'B01EAP3JEY-es'
 tags: [  ]

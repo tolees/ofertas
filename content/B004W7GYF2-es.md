@@ -5,7 +5,7 @@ date: 2020-09-08 18:30:48
 image: 'https://m.media-amazon.com/images/I/51R5dyyRSYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004W7GYF2-es Duracell Plus AAA - Pilas Alcalinas paquete de 4 1.5...'
 sku: 'B004W7GYF2-es'
 tags: [  ]

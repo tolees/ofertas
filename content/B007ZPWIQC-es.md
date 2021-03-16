@@ -5,7 +5,7 @@ date: 2020-04-14 17:07:25
 image: 'https://m.media-amazon.com/images/I/51Evf29tz8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007ZPWIQC-es Melissa & Doug- Box of Rainbow Mini Tarjetas para Dibujar...'
 sku: 'B007ZPWIQC-es'
 tags: [  ]

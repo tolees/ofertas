@@ -5,7 +5,7 @@ date: 2020-03-02 18:40:34
 image: 'https://m.media-amazon.com/images/I/31WTZ65KABL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019FKEZBK-es BÉABA - Babycook Duo Robot de cocina 4 en 1 Néon'
 sku: 'B019FKEZBK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 17:32:12
 image: 'https://m.media-amazon.com/images/I/413+QBN7rYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5XSR7L-es AONESY Dispensador de jabón automático Touchless...'
 sku: 'B08B5XSR7L-es'
 tags: [  ]

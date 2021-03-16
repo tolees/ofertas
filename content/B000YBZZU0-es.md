@@ -5,7 +5,7 @@ date: 2020-05-21 07:37:42
 image: 'https://m.media-amazon.com/images/I/31MpR2+sPvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000YBZZU0-es Fellowes Gel Crystals - Reposamuñecas flexible negro'
 sku: 'B000YBZZU0-es'
 tags: [  ]

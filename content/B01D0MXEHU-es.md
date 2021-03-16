@@ -5,7 +5,7 @@ date: 2020-05-22 09:10:14
 image: 'https://m.media-amazon.com/images/I/31+IEgVwp9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D0MXEHU-es Marca 2188-GVE - Gafa Visitor'
 sku: 'B01D0MXEHU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-18 20:45:59
 image: 'https://m.media-amazon.com/images/I/51gZA6AimIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013DJDOBQ-es Skylanders SuperCharges - Figura Smash Hit Driver'
 sku: 'B013DJDOBQ-es'
 tags: [  ]

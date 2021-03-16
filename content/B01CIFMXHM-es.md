@@ -5,7 +5,7 @@ date: 2020-04-30 16:19:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B89GPCxsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CIFMXHM-es Tefal Expertise - Sartén de aluminio de 21 cm...'
 sku: 'B01CIFMXHM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-24 10:47:15
 image: 'https://m.media-amazon.com/images/I/51mK1tXWBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8MJPFH-es iSwim Pulsera Actividad Pulsera Inteligente con Pulsómetro...'
 sku: 'B07K8MJPFH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 08:01:20
 image: 'https://m.media-amazon.com/images/I/41ySF0bizlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHJP73X-es Smatree Funda para portátil Funda para portátil de 14...'
 sku: 'B07XHJP73X-es'
 tags: [  ]

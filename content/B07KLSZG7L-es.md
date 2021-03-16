@@ -5,7 +5,7 @@ date: 2020-03-17 09:58:49
 image: 'https://m.media-amazon.com/images/I/51mqMlQDGnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KLSZG7L-es Crema hidratante antiarrugas con ácido hialurónico...'
 sku: 'B07KLSZG7L-es'
 tags: [  ]

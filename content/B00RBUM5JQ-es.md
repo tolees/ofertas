@@ -5,7 +5,7 @@ date: 2020-02-06 18:50:32
 image: 'https://m.media-amazon.com/images/I/41JqShKgbwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RBUM5JQ-es BIO Moringa Oleifera Vegavero® | Ahora Dosis Diaria Mayor:...'
 sku: 'B00RBUM5JQ-es'
 tags: [  ]

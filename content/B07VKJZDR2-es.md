@@ -5,7 +5,7 @@ date: 2020-02-25 09:51:01
 image: 'https://m.media-amazon.com/images/I/41wPYuIBhcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKJZDR2-es X-TIGER Hombres de Bicicleta con 5D Gel Acolchado MTB...'
 sku: 'B07VKJZDR2-es'
 tags: [  ]

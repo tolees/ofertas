@@ -5,7 +5,7 @@ date: 2020-05-25 16:53:34
 image: 'https://m.media-amazon.com/images/I/41T+mnKn1DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VLL5KH-es Garnier Fructis Acondicionador Adios Daños - 250 ml'
 sku: 'B073VLL5KH-es'
 tags: [  ]

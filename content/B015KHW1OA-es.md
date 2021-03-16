@@ -5,7 +5,7 @@ date: 2020-10-05 04:49:07
 image: 'https://m.media-amazon.com/images/I/41dUlZLIfZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015KHW1OA-es Nike Air Max Command Leather - Zapatillas unisex color...'
 sku: 'B015KHW1OA-es'
 tags: [  ]

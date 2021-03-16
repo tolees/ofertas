@@ -5,7 +5,7 @@ date: 2020-08-07 06:15:57
 image: 'https://m.media-amazon.com/images/I/41QF-npFlLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5QZ16M-es ENEGON Batería de Repuesto Paquete de 2 y Cargador rápido...'
 sku: 'B07P5QZ16M-es'
 tags: [  ]

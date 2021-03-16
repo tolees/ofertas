@@ -5,7 +5,7 @@ date: 2020-01-27 04:17:29
 image: 'https://m.media-amazon.com/images/I/31-ZSn7ySIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RNRHHR6-es Belkin Boost Up - Soporte de Carga Inalámbrica para Coche...'
 sku: 'B07RNRHHR6-es'
 tags: [  ]

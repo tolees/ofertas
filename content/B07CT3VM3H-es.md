@@ -5,7 +5,7 @@ date: 2020-07-16 11:37:57
 image: 'https://m.media-amazon.com/images/I/51W6OKsYVlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CT3VM3H-es Echo Plus 2.ª generación - Sonido de alta calidad y...'
 sku: 'B07CT3VM3H-es'
 tags: [  ]

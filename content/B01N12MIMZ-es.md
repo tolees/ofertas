@@ -5,7 +5,7 @@ date: 2020-03-24 20:38:11
 image: 'https://m.media-amazon.com/images/I/417ZloriqIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N12MIMZ-es Garmin Fenix 5X- Reloj GPS con pulsómetro zafiro gris con...'
 sku: 'B01N12MIMZ-es'
 tags: [  ]

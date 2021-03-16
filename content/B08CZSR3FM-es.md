@@ -5,7 +5,7 @@ date: 2020-09-17 11:07:32
 image: 'https://m.media-amazon.com/images/I/31Lzat58HnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZSR3FM-es LEDKIA LIGHTING Lámpara de Mesa Dayad Blanco Mate'
 sku: 'B08CZSR3FM-es'
 tags: [  ]

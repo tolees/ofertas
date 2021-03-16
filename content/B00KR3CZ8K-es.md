@@ -5,7 +5,7 @@ date: 2020-09-30 02:41:10
 image: 'https://m.media-amazon.com/images/I/41lUNiKf+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KR3CZ8K-es Vibram Five Fingers Trek Ascent Zapatillas de Deporte...'
 sku: 'B00KR3CZ8K-es'
 tags: [  ]

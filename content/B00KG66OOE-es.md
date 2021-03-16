@@ -5,7 +5,7 @@ date: 2020-03-03 14:28:49
 image: 'https://m.media-amazon.com/images/I/41SQ3vigTBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KG66OOE-es Braun 51B - Recambio para afeitadora eléctrica hombre...'
 sku: 'B00KG66OOE-es'
 tags: [  ]

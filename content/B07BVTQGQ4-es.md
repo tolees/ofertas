@@ -5,7 +5,7 @@ date: 2020-03-30 21:00:47
 image: 'https://m.media-amazon.com/images/I/41BjBdwie5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BVTQGQ4-es seQoya - Purple Heart| Reloj de Madera con Esfera de...'
 sku: 'B07BVTQGQ4-es'
 tags: [  ]

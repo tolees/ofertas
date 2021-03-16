@@ -5,7 +5,7 @@ date: 2020-05-22 14:40:16
 image: 'https://m.media-amazon.com/images/I/51Rn-YHWq8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQCQHW6-es Mr. Robot - Temporada 3 [Blu-ray]'
 sku: 'B07BQCQHW6-es'
 tags: [  ]

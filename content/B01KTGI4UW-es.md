@@ -5,7 +5,7 @@ date: 2020-09-07 11:08:51
 image: 'https://m.media-amazon.com/images/I/41F5alebHbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KTGI4UW-es Tangle Teezer Compact Styler Hello Kitty Peine Rosa - 150 gr'
 sku: 'B01KTGI4UW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 11:15:56
 image: 'https://m.media-amazon.com/images/I/317RvkypCUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088RKFM8H-es Dispensador Automático de Jabón o hidroalcoholico Sensor...'
 sku: 'B088RKFM8H-es'
 tags: [  ]

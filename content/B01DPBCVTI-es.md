@@ -5,7 +5,7 @@ date: 2020-06-20 12:02:38
 image: 'https://m.media-amazon.com/images/I/41PV4jcu6RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DPBCVTI-es DSstyles Reloj Hombre 5 ATM Resistente al agua Reloj...'
 sku: 'B01DPBCVTI-es'
 tags: [  ]

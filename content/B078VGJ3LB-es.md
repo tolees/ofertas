@@ -5,7 +5,7 @@ date: 2020-08-06 16:10:33
 image: 'https://m.media-amazon.com/images/I/31voYAfqG9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078VGJ3LB-es Sony WI-C300W - Auriculares Inalámbricos Bluetooth NFC...'
 sku: 'B078VGJ3LB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 18:44:12
 image: 'https://m.media-amazon.com/images/I/31w7b5j5l1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9GXDFL-es Amazon Essentials French Terry Jogger Sweatpant Athletic-...'
 sku: 'B07R9GXDFL-es'
 tags: [  ]

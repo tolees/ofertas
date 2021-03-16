@@ -5,7 +5,7 @@ date: 2020-02-15 10:56:33
 image: 'https://m.media-amazon.com/images/I/31hcM0JWJKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ1S91N-es LoveOlvidoE MC31 Photo Frame Camera DV Un Tipo de cámara...'
 sku: 'B07KQ1S91N-es'
 tags: [  ]

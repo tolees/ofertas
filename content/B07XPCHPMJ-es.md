@@ -5,7 +5,7 @@ date: 2020-02-20 17:35:50
 image: 'https://m.media-amazon.com/images/I/41DkZ5nomDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPCHPMJ-es Demum Calentador de Manos Calienta Manos USB & Power Bank...'
 sku: 'B07XPCHPMJ-es'
 tags: [  ]

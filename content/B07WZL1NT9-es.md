@@ -5,7 +5,7 @@ date: 2020-03-13 23:36:14
 image: 'https://m.media-amazon.com/images/I/41jN3lcmlRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZL1NT9-es H+Y Mini Grabadora de Voz Grabadora Espia Portátil de 16...'
 sku: 'B07WZL1NT9-es'
 tags: [  ]

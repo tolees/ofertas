@@ -5,7 +5,7 @@ date: 2020-09-22 19:39:41
 image: 'https://m.media-amazon.com/images/I/51EW-cCQF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W9RSYIC-es Calvin Klein Radiant Cotton-Bikini Lencería Blanco White...'
 sku: 'B00W9RSYIC-es'
 tags: [  ]

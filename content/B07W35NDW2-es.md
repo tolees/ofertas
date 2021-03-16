@@ -5,7 +5,7 @@ date: 2020-07-15 23:01:00
 image: 'https://m.media-amazon.com/images/I/31W7nXhVi8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W35NDW2-es MARTINELLI Náutico de Piel HANS 1360'
 sku: 'B07W35NDW2-es'
 tags: [  ]

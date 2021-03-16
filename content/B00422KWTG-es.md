@@ -5,7 +5,7 @@ date: 2020-03-03 14:03:16
 image: 'https://m.media-amazon.com/images/I/31EwXoMt5iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00422KWTG-es Medisana FTC Termómetro clínico digital para bebés niños y...'
 sku: 'B00422KWTG-es'
 tags: [  ]

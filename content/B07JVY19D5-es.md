@@ -5,7 +5,7 @@ date: 2020-05-13 19:40:40
 image: 'https://m.media-amazon.com/images/I/61PFuQkX65L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVY19D5-es Tuc Tuc Enjoy & Dream Pop Up - Maleta de viaje niños color...'
 sku: 'B07JVY19D5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-19 05:38:57
 image: 'https://m.media-amazon.com/images/I/51DaKigw7lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJYRBB1-es LED Tira De TV Diyife 2.5M 75 Leds Multicolor...'
 sku: 'B07VJYRBB1-es'
 tags: [  ]

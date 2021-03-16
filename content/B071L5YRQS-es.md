@@ -5,7 +5,7 @@ date: 2020-01-16 04:18:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jzZSE8E3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071L5YRQS-es ASUS VA326H 31.5" Full HD Mate Negro Pantalla para PC -...'
 sku: 'B071L5YRQS-es'
 tags: [  ]

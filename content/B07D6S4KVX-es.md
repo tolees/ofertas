@@ -5,7 +5,7 @@ date: 2020-10-03 08:27:07
 image: 'https://m.media-amazon.com/images/I/31t3zWZYtKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6S4KVX-es KHOMO Carcasa Funda Trasera Semi Transparente para Apple...'
 sku: 'B07D6S4KVX-es'
 tags: [  ]

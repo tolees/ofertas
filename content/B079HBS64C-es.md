@@ -5,7 +5,7 @@ date: 2020-05-31 13:41:06
 image: 'https://m.media-amazon.com/images/I/41UdzJ8k8mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079HBS64C-es Philips Avent SCF343/20 - Pack con 2 chupetes Ultra Air...'
 sku: 'B079HBS64C-es'
 tags: [  ]

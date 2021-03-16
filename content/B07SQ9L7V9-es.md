@@ -5,7 +5,7 @@ date: 2020-05-15 06:11:30
 image: 'https://m.media-amazon.com/images/I/415Pc82VLhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQ9L7V9-es adidas EQT Gazelle Zapatillas de Gimnasia para Hombre Azul...'
 sku: 'B07SQ9L7V9-es'
 tags: [  ]

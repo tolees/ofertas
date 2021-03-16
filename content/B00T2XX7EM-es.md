@@ -5,7 +5,7 @@ date: 2020-07-29 14:13:04
 image: 'https://m.media-amazon.com/images/I/41Fs3fN5cHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T2XX7EM-es Remington Reveal FC1000 - Cepillo Limpiador Facial Cabezal...'
 sku: 'B00T2XX7EM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-02 09:59:51
 image: 'https://m.media-amazon.com/images/I/41mmD8ERTCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYK7R1Z-es Insta360 ONE - Cámara 360 grados deportiva Resolución 4K...'
 sku: 'B06XYK7R1Z-es'
 tags: [  ]

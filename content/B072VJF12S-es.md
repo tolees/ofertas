@@ -5,7 +5,7 @@ date: 2020-05-28 19:19:44
 image: 'https://m.media-amazon.com/images/I/41TlqJkY8NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072VJF12S-es Buff Margo Calentador Tricot Y Polar Unisex Adulto Blue...'
 sku: 'B072VJF12S-es'
 tags: [  ]

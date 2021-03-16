@@ -5,7 +5,7 @@ date: 2020-06-23 08:03:37
 image: 'https://m.media-amazon.com/images/I/41WjiOVeQqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QLY7CV-es Levi s 502 Regular Taper Jeans Azul Prewash 95977 0181 34W...'
 sku: 'B079QLY7CV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-14 05:50:27
 image: 'https://m.media-amazon.com/images/I/31fomS-+5IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000YDO2LG-es OXO Good Grips Mandolina rodajas c/mango'
 sku: 'B000YDO2LG-es'
 tags: [  ]

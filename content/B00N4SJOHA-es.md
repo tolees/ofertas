@@ -5,7 +5,7 @@ date: 2020-06-20 09:49:49
 image: 'https://m.media-amazon.com/images/I/41HqwqzxK4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N4SJOHA-es Sensai Cellular Performance Cream Tratamiento Facial - 40 ml'
 sku: 'B00N4SJOHA-es'
 tags: [  ]

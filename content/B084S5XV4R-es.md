@@ -5,7 +5,7 @@ date: 2020-02-16 22:45:34
 image: 'https://m.media-amazon.com/images/I/4111GpW0Z3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084S5XV4R-es Lam Hub Fong Pulsera Mujer Pulsera con Nombre...'
 sku: 'B084S5XV4R-es'
 tags: [  ]

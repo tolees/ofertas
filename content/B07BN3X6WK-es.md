@@ -5,7 +5,7 @@ date: 2020-04-13 13:32:09
 image: 'https://m.media-amazon.com/images/I/51N6AYfdNEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BN3X6WK-es Brazalete de cuero italiano curtido vegetal marrón tamañao...'
 sku: 'B07BN3X6WK-es'
 tags: [  ]

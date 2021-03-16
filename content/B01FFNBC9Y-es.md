@@ -5,7 +5,7 @@ date: 2020-02-17 00:17:29
 image: 'https://m.media-amazon.com/images/I/417GI7rfo9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFNBC9Y-es Under Armour HG Armour 2.0 3/4 Legging Leggings Hombre...'
 sku: 'B01FFNBC9Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-12 10:14:18
 image: 'https://m.media-amazon.com/images/I/41TA8tzienL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F6SYJ8L-es Salomon AGILE 500 BELT set Riñonera'
 sku: 'B07F6SYJ8L-es'
 tags: [  ]

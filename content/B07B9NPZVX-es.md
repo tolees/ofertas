@@ -5,7 +5,7 @@ date: 2020-09-16 09:10:46
 image: 'https://m.media-amazon.com/images/I/310xXi5AwxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9NPZVX-es JBL Tuner Radio Portátil DAB/DAB+ – Altavoz portátil...'
 sku: 'B07B9NPZVX-es'
 tags: [  ]

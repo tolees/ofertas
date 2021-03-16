@@ -5,7 +5,7 @@ date: 2020-08-30 19:33:40
 image: 'https://m.media-amazon.com/images/I/31HLPpFiqkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J21B1FY-es Daily Ritual Denim Cutoff Short-Base A shorts Azul Oscuro 28'
 sku: 'B07J21B1FY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-12 09:44:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LuCj1UljL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8KJJ8J-es Castellanísimos Mocasines de Mujer en Piel Florentic...'
 sku: 'B07H8KJJ8J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 14:20:42
 image: 'https://m.media-amazon.com/images/I/41+tqppPc3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GIWJBLW-es Emblema Piaggio. 6 de Esquina Cascada para Vespa PX T5...'
 sku: 'B01GIWJBLW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 11:44:28
 image: 'https://m.media-amazon.com/images/I/31WAD-K5PNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D7H2WS6-es Luckywing Termómetro de Frente，Termómetro Infrarrojos...'
 sku: 'B08D7H2WS6-es'
 tags: [  ]

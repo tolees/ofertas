@@ -5,7 +5,7 @@ date: 2020-03-07 17:52:43
 image: 'https://m.media-amazon.com/images/I/41xpeNosRcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ1PTTC-es Babaria Men Vital Skin Stop Arrugas Lote Crema Antiarrugas...'
 sku: 'B01MZ1PTTC-es'
 tags: [  ]

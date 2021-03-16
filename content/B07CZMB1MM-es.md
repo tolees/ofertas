@@ -5,7 +5,7 @@ date: 2020-02-24 09:17:31
 image: 'https://m.media-amazon.com/images/I/41ATgsCQ4eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZMB1MM-es Under Armour Tech Mesh 6in 2 Pack Ropa Interior Hombre...'
 sku: 'B07CZMB1MM-es'
 tags: [  ]

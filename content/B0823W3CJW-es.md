@@ -5,7 +5,7 @@ date: 2020-04-12 08:32:56
 image: 'https://m.media-amazon.com/images/I/51H57A5BvhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0823W3CJW-es Scratch Art LANMOK 48 hojas Conejo Papel de Rascar Niños...'
 sku: 'B0823W3CJW-es'
 tags: [  ]

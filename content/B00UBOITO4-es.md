@@ -5,7 +5,7 @@ date: 2020-09-22 07:46:18
 image: 'https://m.media-amazon.com/images/I/41j9-P2V4oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UBOITO4-es Tommy Hilfiger 3p Trunk Tanga Negro Black/Grey...'
 sku: 'B00UBOITO4-es'
 tags: [  ]

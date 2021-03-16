@@ -5,7 +5,7 @@ date: 2020-03-19 14:03:11
 image: 'https://m.media-amazon.com/images/I/31wSE2Fv0LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSK57NG-es Qkiss Cepillo de Pelo de Lana Suave y Cómodo Cepillo de...'
 sku: 'B07TSK57NG-es'
 tags: [  ]

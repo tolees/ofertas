@@ -5,7 +5,7 @@ date: 2020-05-14 15:08:19
 image: 'https://m.media-amazon.com/images/I/51hmjr5OvgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4W43VB-es Dek - Zapatillas ultraligeras de cordones modelo Zeus para...'
 sku: 'B01N4W43VB-es'
 tags: [  ]

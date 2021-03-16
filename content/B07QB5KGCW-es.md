@@ -5,7 +5,7 @@ date: 2020-08-10 16:51:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NApGi7TvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB5KGCW-es Laelr Ventilador de Mesa USB Mini Ventilador de Mesa con...'
 sku: 'B07QB5KGCW-es'
 tags: [  ]

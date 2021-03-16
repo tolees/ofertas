@@ -5,7 +5,7 @@ date: 2020-06-11 00:35:42
 image: 'https://m.media-amazon.com/images/I/51dW45VMJ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089VRVQKN-es Viaje al Aire Libre Camping Hombre Bolsa de escombros...'
 sku: 'B089VRVQKN-es'
 tags: [  ]

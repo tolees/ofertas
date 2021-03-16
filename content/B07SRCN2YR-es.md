@@ -5,7 +5,7 @@ date: 2020-01-05 10:27:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PmV2oEbPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRCN2YR-es adidas EQT Gazelle Hombre Azul Collegiate Navy/Gold...'
 sku: 'B07SRCN2YR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 10:44:17
 image: 'https://m.media-amazon.com/images/I/51l6-HKgAVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ML1VNSL-es Set de aceites esenciales de aromaterapia orgánica - TOP8...'
 sku: 'B07ML1VNSL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-07 13:32:33
 image: 'https://m.media-amazon.com/images/I/41+2zKhhYUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBVLSRX-es Pendientes con forma de pera de ópalo y diamante en plata...'
 sku: 'B07BBVLSRX-es'
 tags: [  ]

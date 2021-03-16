@@ -5,7 +5,7 @@ date: 2019-12-31 20:32:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HsA3gR2nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFS2DQL-es Ventvinal 1/4 a 3/8 Tornillo Adaptadores de Rosca 16...'
 sku: 'B07LFS2DQL-es'
 tags: [  ]

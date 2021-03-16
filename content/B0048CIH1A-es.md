@@ -5,7 +5,7 @@ date: 2020-05-08 02:01:06
 image: 'https://m.media-amazon.com/images/I/41V++gQB8-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0048CIH1A-es Michael Kors Reloj analogico para Hombre de Cuarzo con...'
 sku: 'B0048CIH1A-es'
 tags: [  ]

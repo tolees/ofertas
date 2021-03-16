@@ -5,7 +5,7 @@ date: 2020-08-30 20:44:00
 image: 'https://m.media-amazon.com/images/I/41mghZJrojL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005QMV7MM-es Applaws - Estaño para Gatos 24 x 70 g'
 sku: 'B005QMV7MM-es'
 tags: [  ]

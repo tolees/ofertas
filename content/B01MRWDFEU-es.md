@@ -5,7 +5,7 @@ date: 2020-10-01 15:34:54
 image: 'https://m.media-amazon.com/images/I/41VFDAI4BTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRWDFEU-es Pendientes Azul Marino Tradicionales y Elegantes para...'
 sku: 'B01MRWDFEU-es'
 tags: [  ]

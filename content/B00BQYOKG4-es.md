@@ -5,7 +5,7 @@ date: 2020-04-21 16:52:05
 image: 'https://m.media-amazon.com/images/I/51d5xuvv8UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BQYOKG4-es Case Logic CPL102K - Bolsa para cámara Negro'
 sku: 'B00BQYOKG4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 10:27:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-l9I-R8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQLV51E-es Indoor Copa'
 sku: 'B01MQLV51E-es'
 tags: [  ]

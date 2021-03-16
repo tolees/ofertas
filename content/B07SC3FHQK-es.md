@@ -5,7 +5,7 @@ date: 2020-07-31 14:45:34
 image: 'https://m.media-amazon.com/images/I/516Ls6Nv8UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC3FHQK-es Ferilinso Funda para Xiaomi Mi 9T Pro/Mi 9T Funda...'
 sku: 'B07SC3FHQK-es'
 tags: [  ]

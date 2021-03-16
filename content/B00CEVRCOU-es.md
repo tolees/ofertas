@@ -5,7 +5,7 @@ date: 2020-04-19 20:25:39
 image: 'https://m.media-amazon.com/images/I/41qVKaTupEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CEVRCOU-es Vanguard Endeavor XF 80A - Catalejo en ángulo Zoom de...'
 sku: 'B00CEVRCOU-es'
 tags: [  ]

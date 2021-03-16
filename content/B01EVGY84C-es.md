@@ -5,7 +5,7 @@ date: 2020-04-19 10:47:59
 image: 'https://m.media-amazon.com/images/I/31d+rWHMmEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EVGY84C-es Diesel 00ST1N0CAND Pantalones Deportivos Negro Black...'
 sku: 'B01EVGY84C-es'
 tags: [  ]

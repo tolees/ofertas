@@ -5,7 +5,7 @@ date: 2020-08-27 14:37:37
 image: 'https://m.media-amazon.com/images/I/41OpdQWgX4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0117DM4MA-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B0117DM4MA-es'
 tags: [  ]

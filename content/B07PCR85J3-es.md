@@ -5,7 +5,7 @@ date: 2020-06-02 07:33:06
 image: 'https://m.media-amazon.com/images/I/51DIjd0rzUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCR85J3-es LotFancy 2PCS Rascadors para Gatos con Catnip para Cama y...'
 sku: 'B07PCR85J3-es'
 tags: [  ]

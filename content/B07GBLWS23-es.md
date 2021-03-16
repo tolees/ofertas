@@ -5,7 +5,7 @@ date: 2020-03-19 21:27:50
 image: 'https://m.media-amazon.com/images/I/51S1JkG30GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBLWS23-es Pulsar Reloj cronografo para Hombre de Cuarzo con Correa...'
 sku: 'B07GBLWS23-es'
 tags: [  ]

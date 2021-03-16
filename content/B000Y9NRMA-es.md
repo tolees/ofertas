@@ -5,7 +5,7 @@ date: 2020-06-21 21:32:21
 image: 'https://m.media-amazon.com/images/I/31dBUZpPNiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Y9NRMA-es Kitchen Craft - Termómetro de Acero Inoxidable para...'
 sku: 'B000Y9NRMA-es'
 tags: [  ]

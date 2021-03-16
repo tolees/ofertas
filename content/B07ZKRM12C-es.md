@@ -5,7 +5,7 @@ date: 2020-07-21 06:14:28
 image: 'https://m.media-amazon.com/images/I/312kpkM7SHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKRM12C-es UGREEN Lector Tarjetas SD y Micro SD USB Tipo C Lector...'
 sku: 'B07ZKRM12C-es'
 tags: [  ]

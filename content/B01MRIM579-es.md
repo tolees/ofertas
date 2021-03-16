@@ -5,7 +5,7 @@ date: 2020-09-29 06:50:35
 image: 'https://m.media-amazon.com/images/I/51tN2miuWqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRIM579-es Playmobil-9101 Maletín Grande Exploración Espacial...'
 sku: 'B01MRIM579-es'
 tags: [  ]

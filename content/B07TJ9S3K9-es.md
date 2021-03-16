@@ -5,7 +5,7 @@ date: 2020-08-24 07:27:56
 image: 'https://m.media-amazon.com/images/I/41l8fpiCcWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9S3K9-es Levi s 501 Original Shorts Pantalones Cortos Negro...'
 sku: 'B07TJ9S3K9-es'
 tags: [  ]

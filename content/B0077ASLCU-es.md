@@ -5,7 +5,7 @@ date: 2020-05-24 13:36:28
 image: 'https://m.media-amazon.com/images/I/41iVlGf3bjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0077ASLCU-es MOTUL C1 Chain Clean 400ml'
 sku: 'B0077ASLCU-es'
 tags: [  ]

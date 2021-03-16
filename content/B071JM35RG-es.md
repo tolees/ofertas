@@ -5,7 +5,7 @@ date: 2020-02-29 16:45:48
 image: 'https://m.media-amazon.com/images/I/41G+0pAVKRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JM35RG-es Powerextra Sony NP-FW50 Cargador Inteligente Pantalla LCD...'
 sku: 'B071JM35RG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 09:22:07
 image: 'https://m.media-amazon.com/images/I/61fnE57Iu3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MH1RKN6-es CubicFun National Geographic Puzzle 3D España Barcelona...'
 sku: 'B07MH1RKN6-es'
 tags: [  ]

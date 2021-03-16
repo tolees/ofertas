@@ -5,7 +5,7 @@ date: 2020-03-19 07:58:10
 image: 'https://m.media-amazon.com/images/I/41NEDw6fmCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CSO1N9W-es Forty Seven B-Brans17Ctp-Bk Gorra Hombre Negro Talla única'
 sku: 'B01CSO1N9W-es'
 tags: [  ]

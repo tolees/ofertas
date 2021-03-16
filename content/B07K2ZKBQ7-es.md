@@ -5,7 +5,7 @@ date: 2020-07-13 17:33:51
 image: 'https://m.media-amazon.com/images/I/31D-iKnD1KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2ZKBQ7-es Monrodbitt Caja de Banco de energía portátil Banco de...'
 sku: 'B07K2ZKBQ7-es'
 tags: [  ]

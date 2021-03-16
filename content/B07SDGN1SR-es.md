@@ -5,7 +5,7 @@ date: 2020-05-20 06:12:23
 image: 'https://m.media-amazon.com/images/I/41Y2SpzxvrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDGN1SR-es Levi s Tijuana Zapatillas para Mujer Negro R Black 59 41 EU'
 sku: 'B07SDGN1SR-es'
 tags: [  ]

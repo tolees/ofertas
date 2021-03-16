@@ -5,7 +5,7 @@ date: 2020-09-25 08:08:37
 image: 'https://m.media-amazon.com/images/I/51nXgYGADBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GY2IEKG-es ISDIN Spray Anti Mosquitos - Repelente de Mosquitos para...'
 sku: 'B00GY2IEKG-es'
 tags: [  ]

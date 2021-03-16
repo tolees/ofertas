@@ -5,7 +5,7 @@ date: 2020-03-10 05:28:45
 image: 'https://m.media-amazon.com/images/I/412u4MsYpqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F4TCFO6-es Viceni - Marco para fotos con borde fino bañado en plata...'
 sku: 'B00F4TCFO6-es'
 tags: [  ]

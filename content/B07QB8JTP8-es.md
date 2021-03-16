@@ -5,7 +5,7 @@ date: 2020-02-17 16:32:48
 image: 'https://m.media-amazon.com/images/I/41DvYJaQIbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB8JTP8-es Pablosky 477226 Botas Slouch para Niñas Azul Azul Azul 33 EU'
 sku: 'B07QB8JTP8-es'
 tags: [  ]

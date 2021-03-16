@@ -5,7 +5,7 @@ date: 2020-07-28 16:26:37
 image: 'https://m.media-amazon.com/images/I/41NtkY70HRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVN4TVF-es SHAN ZU Cuchillo de Cocina Nakiri 16.5cm Cuchillo Japones...'
 sku: 'B07TVN4TVF-es'
 tags: [  ]

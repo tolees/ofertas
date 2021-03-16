@@ -5,7 +5,7 @@ date: 2020-06-08 08:11:31
 image: 'https://m.media-amazon.com/images/I/31YeCKumB1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSQLVY7-es Scotch & Soda Stuart-Classic Garment-dyed Twill Chino...'
 sku: 'B07MSQLVY7-es'
 tags: [  ]

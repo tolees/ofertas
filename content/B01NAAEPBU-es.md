@@ -5,7 +5,7 @@ date: 2020-07-04 09:37:59
 image: 'https://m.media-amazon.com/images/I/41VqDMuqNJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAAEPBU-es Reloj Fossil para Hombre FTW1114'
 sku: 'B01NAAEPBU-es'
 tags: [  ]

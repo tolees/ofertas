@@ -5,7 +5,7 @@ date: 2020-09-14 15:46:53
 image: 'https://m.media-amazon.com/images/I/51mnyCZUDSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2XHJG8-es VIMOV Bandas de Resistencia de Tela Booty Bands/Bandas...'
 sku: 'B07V2XHJG8-es'
 tags: [  ]

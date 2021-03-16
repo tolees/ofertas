@@ -5,7 +5,7 @@ date: 2020-07-10 23:07:37
 image: 'https://m.media-amazon.com/images/I/51BIVj5wb2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWMBPV9-es Hually Funda para Huawei P20 Lite Carcasa Transparente...'
 sku: 'B07GWMBPV9-es'
 tags: [  ]

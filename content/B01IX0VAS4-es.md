@@ -5,7 +5,7 @@ date: 2020-09-23 14:52:57
 image: 'https://m.media-amazon.com/images/I/41RIcPfKXkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IX0VAS4-es Triumph Amourette 300 WHP X Sujetador Mujer Beige SKIN 80C'
 sku: 'B01IX0VAS4-es'
 tags: [  ]

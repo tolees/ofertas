@@ -5,7 +5,7 @@ date: 2020-06-23 17:01:59
 image: 'https://m.media-amazon.com/images/I/31Ne7q-wPuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FWW97HQ-es Enchufe A Prueba de Polvo/Antipolvo Para Macbook...'
 sku: 'B07FWW97HQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-19 13:28:24
 image: 'https://m.media-amazon.com/images/I/61qnWoleNJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9QFV64-es Etiquetas adhesivas Unicornio Tatuajes Temporales -...'
 sku: 'B07H9QFV64-es'
 tags: [  ]

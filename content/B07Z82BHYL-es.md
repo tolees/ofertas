@@ -5,7 +5,7 @@ date: 2020-06-26 13:46:14
 image: 'https://m.media-amazon.com/images/I/41GupGdjtYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z82BHYL-es Oihxse Compatible con iPhone 7 Plus/iPhone 8 Plus Funda...'
 sku: 'B07Z82BHYL-es'
 tags: [  ]

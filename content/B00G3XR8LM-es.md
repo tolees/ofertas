@@ -5,7 +5,7 @@ date: 2020-01-05 09:43:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51YWjcZcVsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G3XR8LM-es Baby Jogger City Mini Gemelar - Silla de paseo color...'
 sku: 'B00G3XR8LM-es'
 tags: [  ]

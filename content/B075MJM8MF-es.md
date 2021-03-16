@@ -5,7 +5,7 @@ date: 2020-02-17 16:29:41
 image: 'https://m.media-amazon.com/images/I/31A9rfpb-RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MJM8MF-es Fyasa 706571-t04 disfraz de pollito grande'
 sku: 'B075MJM8MF-es'
 tags: [  ]

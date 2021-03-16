@@ -5,7 +5,7 @@ date: 2020-05-10 16:33:45
 image: 'https://m.media-amazon.com/images/I/41HqQLVN6NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJX46KL-es Columbia Fire Venture L Mid II WP Botas de Senderismo para...'
 sku: 'B07KJX46KL-es'
 tags: [  ]

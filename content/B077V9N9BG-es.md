@@ -5,7 +5,7 @@ date: 2020-03-22 18:09:32
 image: 'https://m.media-amazon.com/images/I/41phUZd06yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077V9N9BG-es Pawaboo Cojín de calefacción eléctrica para Mascotas 39.37...'
 sku: 'B077V9N9BG-es'
 tags: [  ]

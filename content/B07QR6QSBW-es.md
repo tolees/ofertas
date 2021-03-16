@@ -5,7 +5,7 @@ date: 2020-03-27 11:25:58
 image: 'https://m.media-amazon.com/images/I/41s5r1KSOVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QR6QSBW-es Victoria 1915 Doble Lona Zapatillas para Mujer Azul Azul...'
 sku: 'B07QR6QSBW-es'
 tags: [  ]

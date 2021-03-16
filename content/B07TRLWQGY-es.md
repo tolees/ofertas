@@ -5,7 +5,7 @@ date: 2020-06-04 22:07:16
 image: 'https://m.media-amazon.com/images/I/31wqtuAEbdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRLWQGY-es Daniel Wellington Reloj Analógico para Mujer de Cuarzo...'
 sku: 'B07TRLWQGY-es'
 tags: [  ]

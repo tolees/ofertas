@@ -5,7 +5,7 @@ date: 2020-08-13 19:03:26
 image: 'https://m.media-amazon.com/images/I/41Zablm0xRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ISTGSG4-es Bosch Serie | 6 EasyComfort TDS6040 - Centro de planchado...'
 sku: 'B01ISTGSG4-es'
 tags: [  ]

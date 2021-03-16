@@ -5,7 +5,7 @@ date: 2020-01-05 13:20:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61PQKqOsaLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078THK9WD-es Edge Entertainment- Arcadia Quest: Infierno - Español Edge...'
 sku: 'B078THK9WD-es'
 tags: [  ]

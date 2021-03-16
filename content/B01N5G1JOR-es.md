@@ -5,7 +5,7 @@ date: 2020-08-16 01:25:23
 image: 'https://m.media-amazon.com/images/I/41RUrzncEqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5G1JOR-es Lampara Led Uñas SUNUV 48W Secador de Uñas UV Led Curado...'
 sku: 'B01N5G1JOR-es'
 tags: [  ]

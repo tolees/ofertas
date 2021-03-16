@@ -5,7 +5,7 @@ date: 2020-06-24 10:15:05
 image: 'https://m.media-amazon.com/images/I/31MIT4N8I1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084HLGSH4-es CHIKA10 City 12 Zapatillas Deportivas Mujer Plateado...'
 sku: 'B084HLGSH4-es'
 tags: [  ]

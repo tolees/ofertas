@@ -5,7 +5,7 @@ date: 2020-03-01 00:53:11
 image: 'https://m.media-amazon.com/images/I/31aT8D0PwHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ELHQDP8-es Orlane Maquillaje corrector - 200 gr.'
 sku: 'B01ELHQDP8-es'
 tags: [  ]

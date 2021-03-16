@@ -5,7 +5,7 @@ date: 2020-08-18 12:34:33
 image: 'https://m.media-amazon.com/images/I/31yw9sFFgGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6NW8SN-es Kingston SUV500/1920G - Unidad de Disco Duro SSD 1920 GB...'
 sku: 'B07D6NW8SN-es'
 tags: [  ]

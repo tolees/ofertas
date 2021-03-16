@@ -5,7 +5,7 @@ date: 2020-04-09 17:10:01
 image: 'https://m.media-amazon.com/images/I/411NdLEaiyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGQG5FG-es Salomon out Day 20+4 Mochila Capacidad 24 L Mujer Azul...'
 sku: 'B07LGQG5FG-es'
 tags: [  ]

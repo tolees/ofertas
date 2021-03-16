@@ -5,7 +5,7 @@ date: 2020-08-27 08:20:32
 image: 'https://m.media-amazon.com/images/I/510M-8+8XTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4XTP42-es Towinle Gomitas para Hacer Pulseras 15000 Cintas en Caja...'
 sku: 'B07R4XTP42-es'
 tags: [  ]

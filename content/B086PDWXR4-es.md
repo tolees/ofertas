@@ -5,7 +5,7 @@ date: 2020-08-15 23:24:26
 image: 'https://m.media-amazon.com/images/I/41k6piPD+gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PDWXR4-es GoolRC Compatible con Nintend Switch Joy-con Ring Fit...'
 sku: 'B086PDWXR4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 11:02:35
 image: 'https://m.media-amazon.com/images/I/51ZdC5LbQTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081YBPXCZ-es Luces solares Luces con sensor de movimiento solar para...'
 sku: 'B081YBPXCZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-09 15:15:16
 image: 'https://m.media-amazon.com/images/I/41ikZRUeqiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBGF144-es Kappa Overton Zapatillas Unisex Adulto White/Red 1020 36 EU'
 sku: 'B07LBGF144-es'
 tags: [  ]

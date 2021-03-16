@@ -5,7 +5,7 @@ date: 2020-09-13 10:46:40
 image: 'https://m.media-amazon.com/images/I/31Dn98EEe9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00473ZNMG-es Amefa Modelo Actual Cubertería 24 Piezas Acero Inoxidable...'
 sku: 'B00473ZNMG-es'
 tags: [  ]

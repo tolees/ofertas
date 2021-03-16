@@ -5,7 +5,7 @@ date: 2020-01-07 18:24:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdkwIx5RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTFHSHH-es Pulidora de Coche GALAX PRO 1200W Velocidad 1000-3000RPM...'
 sku: 'B07MTFHSHH-es'
 tags: [  ]

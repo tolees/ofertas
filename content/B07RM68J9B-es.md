@@ -5,7 +5,7 @@ date: 2020-09-23 11:21:24
 image: 'https://m.media-amazon.com/images/I/41+ll0qsqmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM68J9B-es LolaPix Cojín Personalizado Comunión con tu Nombre y...'
 sku: 'B07RM68J9B-es'
 tags: [  ]

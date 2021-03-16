@@ -5,7 +5,7 @@ date: 2020-09-08 19:20:22
 image: 'https://m.media-amazon.com/images/I/41Sza-38xLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FTFMRVG-es EXCEART 12 Piezas de Longitud Ajustable Face Mask Máscaras...'
 sku: 'B08FTFMRVG-es'
 tags: [  ]

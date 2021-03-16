@@ -5,7 +5,7 @@ date: 2020-02-17 14:16:03
 image: 'https://m.media-amazon.com/images/I/61bhf2a+tFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XXQQ4KC-es Cooljoy Agua Dibujo Pintura Esteras de Agua Doodle...'
 sku: 'B07XXQQ4KC-es'
 tags: [  ]

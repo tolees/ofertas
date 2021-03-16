@@ -5,7 +5,7 @@ date: 2020-08-06 07:00:57
 image: 'https://m.media-amazon.com/images/I/41NNceoh4bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW6YZ5Z-es Somat Oro Gel Lavavajillas Limón – Pack de 4 Total: 200...'
 sku: 'B07NW6YZ5Z-es'
 tags: [  ]

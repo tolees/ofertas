@@ -5,7 +5,7 @@ date: 2020-08-09 16:31:41
 image: 'https://m.media-amazon.com/images/I/41L3Owe-uOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BP9TG97-es Fesjoy Mini ventilador portátil de aire acondicionado...'
 sku: 'B08BP9TG97-es'
 tags: [  ]

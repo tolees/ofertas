@@ -5,7 +5,7 @@ date: 2020-01-23 10:18:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xP3AxgI-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0040AF4QG-es Securit Trendy Range - Funda para entrega de cuentas en...'
 sku: 'B0040AF4QG-es'
 tags: [  ]

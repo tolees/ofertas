@@ -5,7 +5,7 @@ date: 2020-03-18 21:05:37
 image: 'https://m.media-amazon.com/images/I/41C56NSKCyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F44IOJU-es Taza de viaje - Café Thermos frasco - Aislado en vacío de...'
 sku: 'B01F44IOJU-es'
 tags: [  ]

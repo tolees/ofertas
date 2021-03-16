@@ -5,7 +5,7 @@ date: 2020-01-23 19:37:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jlxa1BNDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LB7PQN1-es adidas Terrex Ax3 GTX W Zapatillas de Trail Running para...'
 sku: 'B07LB7PQN1-es'
 tags: [  ]

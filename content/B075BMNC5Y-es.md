@@ -5,7 +5,7 @@ date: 2020-08-26 08:01:01
 image: 'https://m.media-amazon.com/images/I/31CovDHbsPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075BMNC5Y-es Impresora Multifuncional Canon PIXMA TR7550 Negra Wifi de...'
 sku: 'B075BMNC5Y-es'
 tags: [  ]

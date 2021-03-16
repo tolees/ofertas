@@ -5,7 +5,7 @@ date: 2020-04-15 21:52:29
 image: 'https://m.media-amazon.com/images/I/31BJttwIYPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSC58HK-es Vibram Fivefingers V 2.0 Zapatillas de Trail Running para...'
 sku: 'B07GSC58HK-es'
 tags: [  ]

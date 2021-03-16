@@ -5,7 +5,7 @@ date: 2020-04-07 14:44:11
 image: 'https://m.media-amazon.com/images/I/41xlMDdGATL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H6NXZI2-es Crocs Swiftwater Deck Clog Men Hombre Zueco Azul...'
 sku: 'B01H6NXZI2-es'
 tags: [  ]

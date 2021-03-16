@@ -5,7 +5,7 @@ date: 2020-05-19 21:13:15
 image: 'https://m.media-amazon.com/images/I/41nBt43+HlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002DP8IEK-es Shure SRH840 - Auriculares de Diadema abiertos Negro...'
 sku: 'B002DP8IEK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-14 12:40:16
 image: 'https://m.media-amazon.com/images/I/41+030DDwhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GHFGUSW-es Adidas Superstar Crib Zapatillas Unisex Bebé Multicolor...'
 sku: 'B01GHFGUSW-es'
 tags: [  ]

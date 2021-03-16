@@ -5,7 +5,7 @@ date: 2020-05-26 11:10:56
 image: 'https://m.media-amazon.com/images/I/4111cdwVQML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGJYKST-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Capucha...'
 sku: 'B07VGJYKST-es'
 tags: [  ]

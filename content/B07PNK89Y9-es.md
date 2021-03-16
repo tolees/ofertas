@@ -5,7 +5,7 @@ date: 2020-01-18 19:03:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jCJmLoLaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNK89Y9-es New Balance 373 Zapatillas para Hombre Azul Navy Navy 47.5 EU'
 sku: 'B07PNK89Y9-es'
 tags: [  ]

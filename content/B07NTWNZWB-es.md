@@ -5,7 +5,7 @@ date: 2020-10-02 22:58:52
 image: 'https://m.media-amazon.com/images/I/31vdRAM8UDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NTWNZWB-es Under Armour Rush Heatgear Compression SL Tanque Hombre...'
 sku: 'B07NTWNZWB-es'
 tags: [  ]

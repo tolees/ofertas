@@ -5,7 +5,7 @@ date: 2020-01-04 08:49:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wwamj3ALL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792N4VDB-es Trust Gaming GXT 180 Kusan - Ratón Pro Gaming con Peso...'
 sku: 'B0792N4VDB-es'
 tags: [  ]

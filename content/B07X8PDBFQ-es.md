@@ -5,7 +5,7 @@ date: 2020-06-08 16:47:27
 image: 'https://m.media-amazon.com/images/I/31YuEnx1hFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8PDBFQ-es PUMA Rtg 3` Shorts Pantalones Cortos Mujer Black L'
 sku: 'B07X8PDBFQ-es'
 tags: [  ]

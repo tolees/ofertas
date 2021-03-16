@@ -5,7 +5,7 @@ date: 2020-01-06 10:16:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BGBThqZPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8MNXDP-es TOMMY CORE BACKPACKHombreMonederosAzul Sky Captain...'
 sku: 'B07N8MNXDP-es'
 tags: [  ]

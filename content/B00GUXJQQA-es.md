@@ -5,7 +5,7 @@ date: 2020-09-04 19:33:14
 image: 'https://m.media-amazon.com/images/I/41nKcpMpo7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GUXJQQA-es Columbia Peakfreak Nomad Botas de Senderismo para Hombre...'
 sku: 'B00GUXJQQA-es'
 tags: [  ]

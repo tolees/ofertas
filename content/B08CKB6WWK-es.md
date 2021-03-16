@@ -5,7 +5,7 @@ date: 2020-09-02 12:17:58
 image: 'https://m.media-amazon.com/images/I/41FGqXi4MOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKB6WWK-es SHIVR WiFi Dongle Adaptador USB WiFi 600Mbps 2.4/5 GHz...'
 sku: 'B08CKB6WWK-es'
 tags: [  ]

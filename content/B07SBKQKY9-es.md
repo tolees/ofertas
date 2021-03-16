@@ -5,7 +5,7 @@ date: 2020-01-22 19:30:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31iAQqbiNlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBKQKY9-es AmazonBasics Cable HDMI 1.4b 182 8 cm alta velocidad...'
 sku: 'B07SBKQKY9-es'
 tags: [  ]

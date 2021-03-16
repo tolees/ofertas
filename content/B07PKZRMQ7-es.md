@@ -5,7 +5,7 @@ date: 2020-05-01 18:55:54
 image: 'https://m.media-amazon.com/images/I/41sQwWe5L0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKZRMQ7-es New Balance 574v2 Zapatillas para Hombre Verde Green/Red...'
 sku: 'B07PKZRMQ7-es'
 tags: [  ]

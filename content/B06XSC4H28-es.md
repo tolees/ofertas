@@ -5,7 +5,7 @@ date: 2020-06-12 18:51:54
 image: 'https://m.media-amazon.com/images/I/413IEfdrBhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSC4H28-es Daniel Wellington Reloj Digital para Mujer de Cuarzo con...'
 sku: 'B06XSC4H28-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 19:23:15
 image: 'https://m.media-amazon.com/images/I/41Hhb-lBKmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT9CYFZ-es Succionador de Clítoris Vibradores para Mujer Clítoris y...'
 sku: 'B07TT9CYFZ-es'
 tags: [  ]

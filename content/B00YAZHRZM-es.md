@@ -5,7 +5,7 @@ date: 2020-05-09 11:38:31
 image: 'https://m.media-amazon.com/images/I/41PGKuMAoRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YAZHRZM-es Rode VideoMic Pro R - Micrófono Externo para videocámara...'
 sku: 'B00YAZHRZM-es'
 tags: [  ]

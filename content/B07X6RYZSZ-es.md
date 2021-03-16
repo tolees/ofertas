@@ -5,7 +5,7 @@ date: 2020-02-19 17:05:16
 image: 'https://m.media-amazon.com/images/I/41f-ngvptSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6RYZSZ-es VEOMED® Dispositivo Anti Ronquidos eficaz | Stop Ronquidos...'
 sku: 'B07X6RYZSZ-es'
 tags: [  ]

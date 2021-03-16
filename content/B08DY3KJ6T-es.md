@@ -5,7 +5,7 @@ date: 2020-09-11 18:01:17
 image: 'https://m.media-amazon.com/images/I/51yii9zIeGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DY3KJ6T-es NNAYD1996 Pintura al óleo Flor de Cactus Impresión Digital...'
 sku: 'B08DY3KJ6T-es'
 tags: [  ]

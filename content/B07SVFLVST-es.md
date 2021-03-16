@@ -5,7 +5,7 @@ date: 2020-08-13 05:20:26
 image: 'https://m.media-amazon.com/images/I/41H0i5s2A-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVFLVST-es TROTEC Aire Acondicionado Portátil PAC 2010 SH / 4 en 1:...'
 sku: 'B07SVFLVST-es'
 tags: [  ]

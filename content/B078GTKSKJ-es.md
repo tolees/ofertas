@@ -5,7 +5,7 @@ date: 2020-09-07 13:31:31
 image: 'https://m.media-amazon.com/images/I/41HpgBo9EiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GTKSKJ-es adidas Duramo 9 Zapatillas de Running para Hombre Negro...'
 sku: 'B078GTKSKJ-es'
 tags: [  ]

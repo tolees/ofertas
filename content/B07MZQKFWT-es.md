@@ -5,7 +5,7 @@ date: 2020-04-10 16:22:48
 image: 'https://m.media-amazon.com/images/I/41lbylIgsFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQKFWT-es Pepe Jeans London Harlow Up Run Zapatillas Altas para...'
 sku: 'B07MZQKFWT-es'
 tags: [  ]

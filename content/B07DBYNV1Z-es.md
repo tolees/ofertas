@@ -5,7 +5,7 @@ date: 2020-02-08 07:39:00
 image: 'https://m.media-amazon.com/images/I/412JSVOysDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBYNV1Z-es Puma Defy TZ Wn s Zapatillas de Deporte para Mujer Verde...'
 sku: 'B07DBYNV1Z-es'
 tags: [  ]

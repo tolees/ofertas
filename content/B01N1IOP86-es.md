@@ -5,7 +5,7 @@ date: 2019-12-31 22:26:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eS775WgoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1IOP86-es Life4u 1L/550ml Botella de Cristal con Tapa de Bambú Sin...'
 sku: 'B01N1IOP86-es'
 tags: [  ]

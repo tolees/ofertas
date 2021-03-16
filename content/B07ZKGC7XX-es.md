@@ -5,7 +5,7 @@ date: 2020-04-16 18:19:42
 image: 'https://m.media-amazon.com/images/I/517jjkGx+sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKGC7XX-es K9CK Juego de Luces para Land Rover Defender Led Faro Kit...'
 sku: 'B07ZKGC7XX-es'
 tags: [  ]

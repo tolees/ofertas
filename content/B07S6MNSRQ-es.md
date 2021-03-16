@@ -5,7 +5,7 @@ date: 2020-01-27 20:03:05
 image: 'https://m.media-amazon.com/images/I/31ZIe36ZS6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6MNSRQ-es Carpeta de Archivos Desplegable 13 bolsillos Organizador...'
 sku: 'B07S6MNSRQ-es'
 tags: [  ]

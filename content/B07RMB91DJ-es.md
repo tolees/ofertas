@@ -5,7 +5,7 @@ date: 2020-09-14 07:14:23
 image: 'https://m.media-amazon.com/images/I/31abN1gckqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMB91DJ-es Nike Air MAX Graviton Zapatillas de Running para Asfalto...'
 sku: 'B07RMB91DJ-es'
 tags: [  ]

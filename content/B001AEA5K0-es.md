@@ -5,7 +5,7 @@ date: 2020-03-24 09:26:44
 image: 'https://m.media-amazon.com/images/I/41IoKCpso-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001AEA5K0-es Converse Chuck Taylor All Star Hi Zapatillas Altas Unisex...'
 sku: 'B001AEA5K0-es'
 tags: [  ]

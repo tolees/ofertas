@@ -5,7 +5,7 @@ date: 2020-05-03 14:02:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411IuHJelcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O8XF2VC-es Philips Avent SCF751/05 - Vaso con boquilla blanda diseño...'
 sku: 'B00O8XF2VC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-20 18:06:46
 image: 'https://m.media-amazon.com/images/I/61QYI18O8EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXHZVM4-es WLZP Toalla de Playa 100% algodón Absorbente Manta de...'
 sku: 'B07BXHZVM4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 06:41:46
 image: 'https://m.media-amazon.com/images/I/311Bk4A7e+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MNN9RD-es Taylor Swoden Elizabeth - Humidificador ultrasónico 5 L...'
 sku: 'B086MNN9RD-es'
 tags: [  ]

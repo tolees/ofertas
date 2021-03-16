@@ -5,7 +5,7 @@ date: 2020-06-01 17:46:22
 image: 'https://m.media-amazon.com/images/I/31+TqATNIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086JXHS3L-es iMiMi Kraft Arts rollo de papel para pinturas 1 pieza de...'
 sku: 'B086JXHS3L-es'
 tags: [  ]

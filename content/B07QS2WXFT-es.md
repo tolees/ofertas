@@ -5,7 +5,7 @@ date: 2020-08-02 17:50:36
 image: 'https://m.media-amazon.com/images/I/41xVWIF-vsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QS2WXFT-es Vieta Pro Easy - Altavoz inalámbrico True Wireless...'
 sku: 'B07QS2WXFT-es'
 tags: [  ]

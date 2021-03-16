@@ -5,7 +5,7 @@ date: 2020-04-01 20:11:07
 image: 'https://m.media-amazon.com/images/I/415JuxdrgeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWXD92F-es Women s Secret Packs 1 Maternity Braguita Gris Marengo 90...'
 sku: 'B07TWXD92F-es'
 tags: [  ]

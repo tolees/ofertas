@@ -5,7 +5,7 @@ date: 2020-01-16 17:05:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31XRRcRFT2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJLPG8R-es Puma Always On Solid 7/8 TR Lgg Mallas Deporte Mujer Negro...'
 sku: 'B07QJLPG8R-es'
 tags: [  ]

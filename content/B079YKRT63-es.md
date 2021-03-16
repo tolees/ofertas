@@ -5,7 +5,7 @@ date: 2020-08-31 10:40:37
 image: 'https://m.media-amazon.com/images/I/412MWEhLUNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YKRT63-es Funko Pop!- Star Wars: Red Cup Figura de Vinilo Multicolor...'
 sku: 'B079YKRT63-es'
 tags: [  ]

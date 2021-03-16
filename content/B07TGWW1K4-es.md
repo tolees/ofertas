@@ -5,7 +5,7 @@ date: 2020-01-11 23:48:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bVyLb1yiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TGWW1K4-es Finocam 623531020 Agenda Tamaño Único Multicolor'
 sku: 'B07TGWW1K4-es'
 tags: [  ]

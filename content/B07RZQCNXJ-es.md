@@ -5,7 +5,7 @@ date: 2020-04-15 08:11:41
 image: 'https://m.media-amazon.com/images/I/4121-+Fz0UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZQCNXJ-es Viedouce 2 Paquetes Delantales Cintura Corta Delantal...'
 sku: 'B07RZQCNXJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 04:51:38
 image: 'https://m.media-amazon.com/images/I/51EjRGHE0ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5YGFJH-es Wonderbra Glamour Raffine Triangle Padde Sujetador de...'
 sku: 'B07X5YGFJH-es'
 tags: [  ]

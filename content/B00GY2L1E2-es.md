@@ -5,7 +5,7 @@ date: 2020-01-19 16:33:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51H0lWw4xHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GY2L1E2-es Just For Men Tinte Colorante en champu para el cabello del...'
 sku: 'B00GY2L1E2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-19 16:11:53
 image: 'https://m.media-amazon.com/images/I/31izzOmcICL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRBTYR6-es FKANT Batería Externa Movil Powerbank 25000mAh Carga...'
 sku: 'B07PRBTYR6-es'
 tags: [  ]

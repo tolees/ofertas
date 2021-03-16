@@ -5,7 +5,7 @@ date: 2020-10-09 21:44:22
 image: 'https://m.media-amazon.com/images/I/41mOkerX9OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VT684PM-es Skechers GO Walk Lite Zapatillas para Mujer Azul Marino...'
 sku: 'B07VT684PM-es'
 tags: [  ]

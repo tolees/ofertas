@@ -5,7 +5,7 @@ date: 2020-01-02 13:06:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51m6A6kqTyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJBV65-es Kipling - Arto S Bolsos bandolera Mujer Gris Night Grey...'
 sku: 'B07MVJBV65-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-09 23:09:46
 image: 'https://m.media-amazon.com/images/I/41XgwhD1bOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1W6BQK-es Maclaren Quest arc Silla de paseo - ligero manillar unido...'
 sku: 'B07S1W6BQK-es'
 tags: [  ]

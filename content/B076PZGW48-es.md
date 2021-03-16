@@ -5,7 +5,7 @@ date: 2020-08-05 18:15:29
 image: 'https://m.media-amazon.com/images/I/51Rbt+7nWnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PZGW48-es EatekPower Tijeras Cocina Heavy Duty Scissors Tijeras de...'
 sku: 'B076PZGW48-es'
 tags: [  ]

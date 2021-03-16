@@ -5,7 +5,7 @@ date: 2020-08-13 14:31:47
 image: 'https://m.media-amazon.com/images/I/41JlpqziPGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGCL14Y-es Philips Plancha de vapor GC4567/80 2600 W Ceramic Negro'
 sku: 'B07GGCL14Y-es'
 tags: [  ]

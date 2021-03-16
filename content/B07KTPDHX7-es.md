@@ -5,7 +5,7 @@ date: 2020-05-17 20:33:57
 image: 'https://m.media-amazon.com/images/I/41uzcBUpa6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTPDHX7-es Lacoste Reloj de Pulsera 2011006'
 sku: 'B07KTPDHX7-es'
 tags: [  ]

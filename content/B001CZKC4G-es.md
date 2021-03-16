@@ -5,7 +5,7 @@ date: 2020-10-01 06:57:04
 image: 'https://m.media-amazon.com/images/I/41Bh9l+MVrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001CZKC4G-es Liqui Moly 4087 Detergente para Acondicionadores de Aire...'
 sku: 'B001CZKC4G-es'
 tags: [  ]

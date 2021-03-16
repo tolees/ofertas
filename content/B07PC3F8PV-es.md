@@ -5,7 +5,7 @@ date: 2020-02-21 11:58:43
 image: 'https://m.media-amazon.com/images/I/51SUipcg1bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PC3F8PV-es Set Cuidado Facial | 6 productos | Agua Micelar Active...'
 sku: 'B07PC3F8PV-es'
 tags: [  ]

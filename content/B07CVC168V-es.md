@@ -5,7 +5,7 @@ date: 2020-01-07 17:47:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uoq3oy8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVC168V-es Under Armour Remix Zapatillas de Running para Hombre...'
 sku: 'B07CVC168V-es'
 tags: [  ]

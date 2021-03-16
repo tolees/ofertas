@@ -5,7 +5,7 @@ date: 2020-02-21 07:01:13
 image: 'https://m.media-amazon.com/images/I/31Bid2WvhOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017SL6C6E-es Tommy Hilfiger Core Hilfiger Regular Polo Azul Sky Captain...'
 sku: 'B017SL6C6E-es'
 tags: [  ]

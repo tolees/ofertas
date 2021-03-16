@@ -5,7 +5,7 @@ date: 2020-02-18 09:15:43
 image: 'https://m.media-amazon.com/images/I/41Il6yJVi1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1UO5KL-es Car&Gus Disfraz de Mariquita Reina para Mujer'
 sku: 'B01N1UO5KL-es'
 tags: [  ]

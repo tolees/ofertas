@@ -5,7 +5,7 @@ date: 2020-07-19 18:04:16
 image: 'https://m.media-amazon.com/images/I/51UcTUifhZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAP1QK0-es Haribo - Cartucheras - Dulces de regaliz - 1.5 kg'
 sku: 'B00XAP1QK0-es'
 tags: [  ]

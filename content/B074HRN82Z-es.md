@@ -5,7 +5,7 @@ date: 2020-08-23 21:41:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fNqnCHe0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074HRN82Z-es Skagen Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B074HRN82Z-es'
 tags: [  ]

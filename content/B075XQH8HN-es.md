@@ -5,7 +5,7 @@ date: 2020-02-21 16:41:40
 image: 'https://m.media-amazon.com/images/I/41HsIz8sg5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XQH8HN-es Orbegozo VT 2410 Vinoteca de 24 Botellas Dos Zonas de...'
 sku: 'B075XQH8HN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 13:14:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41moSmKthxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDKVU51-es SSLR Pantalones para Hombre Slim Fit Largos Casuales...'
 sku: 'B01MDKVU51-es'
 tags: [  ]

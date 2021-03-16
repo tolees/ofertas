@@ -5,7 +5,7 @@ date: 2020-04-20 07:32:15
 image: 'https://m.media-amazon.com/images/I/51FdoisPeML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FJ682KG-es Clip Cadena de Luces LED otumixx 40 Fotoclips 4 2M Foto...'
 sku: 'B07FJ682KG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 07:56:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410hM0GaxJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CDJ4KQ-es Geographical Norway Polar Hombre Upload Taupe M'
 sku: 'B081CDJ4KQ-es'
 tags: [  ]

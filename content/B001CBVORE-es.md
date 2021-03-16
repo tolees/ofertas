@@ -5,7 +5,7 @@ date: 2020-10-04 14:20:59
 image: 'https://m.media-amazon.com/images/I/413ewLD6E1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001CBVORE-es Singer Tradition 2263 Máquina de Coser Blanco'
 sku: 'B001CBVORE-es'
 tags: [  ]

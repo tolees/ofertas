@@ -5,7 +5,7 @@ date: 2020-09-29 10:06:30
 image: 'https://m.media-amazon.com/images/I/41xm3KEgsCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SM8BSYM-es Funko Pop Heroes: Birds of Prey - Black Canary Boobytrap...'
 sku: 'B07SM8BSYM-es'
 tags: [  ]

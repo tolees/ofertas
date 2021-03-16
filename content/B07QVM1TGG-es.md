@@ -5,7 +5,7 @@ date: 2020-02-04 08:40:36
 image: 'https://m.media-amazon.com/images/I/5111m9xv1oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVM1TGG-es 40 Piezas Pinzas Para el Cabello para Bebés niñas Clip de...'
 sku: 'B07QVM1TGG-es'
 tags: [  ]

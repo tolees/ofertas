@@ -5,7 +5,7 @@ date: 2020-09-16 10:04:05
 image: 'https://m.media-amazon.com/images/I/31NHQCQCPiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P9PUOIY-es American Crew Champú Diario 250 ml'
 sku: 'B00P9PUOIY-es'
 tags: [  ]

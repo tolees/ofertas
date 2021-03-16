@@ -5,7 +5,7 @@ date: 2020-06-24 17:28:00
 image: 'https://m.media-amazon.com/images/I/51MpoTmxqoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXV24QF-es Under Armour UA Charged Intake 4 Zapatillas de Running...'
 sku: 'B07PXV24QF-es'
 tags: [  ]

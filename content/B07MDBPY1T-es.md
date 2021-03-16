@@ -5,7 +5,7 @@ date: 2020-06-08 22:03:06
 image: 'https://m.media-amazon.com/images/I/31pQAKZfs3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDBPY1T-es Lee Luke Jeans Moto Black HL 31W / 34L para Hombre'
 sku: 'B07MDBPY1T-es'
 tags: [  ]

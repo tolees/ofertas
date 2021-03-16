@@ -5,7 +5,7 @@ date: 2020-09-09 14:49:43
 image: 'https://m.media-amazon.com/images/I/51G9JvfOrPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EL9Y1LE-es Hartmann Cosmopor E Apósitos 7.2 x 5 cm 50 unidades'
 sku: 'B01EL9Y1LE-es'
 tags: [  ]

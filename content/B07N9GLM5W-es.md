@@ -5,7 +5,7 @@ date: 2020-03-13 05:39:16
 image: 'https://m.media-amazon.com/images/I/41z00nIF7-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9GLM5W-es Timex Reloj de Pulsera TW2R96900'
 sku: 'B07N9GLM5W-es'
 tags: [  ]

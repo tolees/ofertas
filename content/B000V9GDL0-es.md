@@ -5,7 +5,7 @@ date: 2020-08-24 07:43:55
 image: 'https://m.media-amazon.com/images/I/31AEEzg9K-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000V9GDL0-es Trixie Champú Neutro Todas Las Razas Suave 1 LTR.'
 sku: 'B000V9GDL0-es'
 tags: [  ]

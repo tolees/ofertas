@@ -5,7 +5,7 @@ date: 2020-02-23 14:02:57
 image: 'https://m.media-amazon.com/images/I/412FZvBkVOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK6S79T-es Jeerhope Cable USB Tipo C USB C [3PACK 1M+1.5M+1.8M] Nylon...'
 sku: 'B07RK6S79T-es'
 tags: [  ]

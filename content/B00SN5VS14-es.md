@@ -5,7 +5,7 @@ date: 2020-05-30 13:36:27
 image: 'https://m.media-amazon.com/images/I/51+IyYr4WLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SN5VS14-es C.P. Sports Muelle Tope de 30 mm de diámetro 2 Unidades/1 par'
 sku: 'B00SN5VS14-es'
 tags: [  ]

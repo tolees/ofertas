@@ -5,7 +5,7 @@ date: 2020-04-28 00:35:39
 image: 'https://m.media-amazon.com/images/I/41A03A8SclL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AYAIQ38-es Pyrex Classic Vidrio Fuente para Horno 4.69 cm'
 sku: 'B01AYAIQ38-es'
 tags: [  ]

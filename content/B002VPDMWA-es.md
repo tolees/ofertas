@@ -5,7 +5,7 @@ date: 2020-03-20 07:02:18
 image: 'https://m.media-amazon.com/images/I/41FVpO5ScSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002VPDMWA-es Superga 2750 Jcot Classic Zapatillas Infantil Gris M38...'
 sku: 'B002VPDMWA-es'
 tags: [  ]

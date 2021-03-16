@@ -5,7 +5,7 @@ date: 2020-03-24 09:33:29
 image: 'https://m.media-amazon.com/images/I/41UlFIQc5wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXJFYPK-es New Balance 574v2 Zapatillas para Hombre Azul Blue/Black...'
 sku: 'B07RXJFYPK-es'
 tags: [  ]

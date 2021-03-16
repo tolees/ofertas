@@ -5,7 +5,7 @@ date: 2020-08-05 08:05:57
 image: 'https://m.media-amazon.com/images/I/411pr+RPe1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZC4ZBKV-es Proze Funda de Silicona para Samsung Galaxy S10e - Movil...'
 sku: 'B07ZC4ZBKV-es'
 tags: [  ]

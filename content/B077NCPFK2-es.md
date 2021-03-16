@@ -5,7 +5,7 @@ date: 2020-01-31 09:14:40
 image: 'https://m.media-amazon.com/images/I/51vgN7c7rJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NCPFK2-es modamoda de - pequeño de cuero embrague ital metálico...'
 sku: 'B077NCPFK2-es'
 tags: [  ]

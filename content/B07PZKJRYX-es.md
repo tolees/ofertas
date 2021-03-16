@@ -5,7 +5,7 @@ date: 2020-05-29 05:22:15
 image: 'https://m.media-amazon.com/images/I/41Vhwqh125L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZKJRYX-es Levoit Jarra de Agua Filtrada 2 5L con 1 Filtro hasta 60...'
 sku: 'B07PZKJRYX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-14 16:08:11
 image: 'https://m.media-amazon.com/images/I/51qycGepolL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCX869W-es LIGE Relojes Hombres Deportivos Impermeable Fecha Cuarzo...'
 sku: 'B07XCX869W-es'
 tags: [  ]

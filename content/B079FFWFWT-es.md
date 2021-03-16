@@ -5,7 +5,7 @@ date: 2020-08-14 20:03:44
 image: 'https://m.media-amazon.com/images/I/41UN3+zW2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FFWFWT-es VENUS ComfortGlide Spa Breeze Maquinilla 2 en 1 + 3...'
 sku: 'B079FFWFWT-es'
 tags: [  ]

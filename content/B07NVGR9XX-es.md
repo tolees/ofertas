@@ -5,7 +5,7 @@ date: 2020-02-24 18:08:50
 image: 'https://m.media-amazon.com/images/I/51FxboHlPOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVGR9XX-es ESR7Gears Termómetro de cocina de lectura instantánea 2-3s...'
 sku: 'B07NVGR9XX-es'
 tags: [  ]

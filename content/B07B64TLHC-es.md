@@ -5,7 +5,7 @@ date: 2020-07-12 20:04:09
 image: 'https://m.media-amazon.com/images/I/616x9U-D4IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B64TLHC-es GOTOTOP Militar Impermeable Ejército Encapuchado Capa de...'
 sku: 'B07B64TLHC-es'
 tags: [  ]

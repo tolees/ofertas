@@ -5,7 +5,7 @@ date: 2020-04-14 16:38:22
 image: 'https://m.media-amazon.com/images/I/41JzMB55p6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBMR1S-es ART VVIES Wandbild für Hauptdekorationen mit Haken Holz...'
 sku: 'B082HBMR1S-es'
 tags: [  ]

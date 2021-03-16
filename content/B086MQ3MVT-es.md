@@ -5,7 +5,7 @@ date: 2020-04-23 13:02:35
 image: 'https://m.media-amazon.com/images/I/31bkXL3zAdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MQ3MVT-es YO-HAPPY Chupete Adulto Personalizado de Gran tamaño...'
 sku: 'B086MQ3MVT-es'
 tags: [  ]

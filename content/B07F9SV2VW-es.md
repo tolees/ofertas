@@ -5,7 +5,7 @@ date: 2020-05-19 13:11:57
 image: 'https://m.media-amazon.com/images/I/41B4TpEgwuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9SV2VW-es Unidad Flash Lexar JumpDrive S75 USB 3.0 64 GB [Embalaje...'
 sku: 'B07F9SV2VW-es'
 tags: [  ]

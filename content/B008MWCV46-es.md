@@ -5,7 +5,7 @@ date: 2020-01-01 07:48:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nyNl%2BS89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008MWCV46-es S.Oliver Reloj Analógico de Cuarzo Unisex con Correa de...'
 sku: 'B008MWCV46-es'
 tags: [  ]

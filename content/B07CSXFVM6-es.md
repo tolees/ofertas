@@ -5,7 +5,7 @@ date: 2020-01-24 17:19:24
 image: 'https://m.media-amazon.com/images/I/61nO--bjqhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CSXFVM6-es JBL Go Plus Altavoz Inalámbrico Portátil con Bluetooth...'
 sku: 'B07CSXFVM6-es'
 tags: [  ]

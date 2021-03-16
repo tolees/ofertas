@@ -5,7 +5,7 @@ date: 2020-02-19 17:55:56
 image: 'https://m.media-amazon.com/images/I/31jjMXE3v-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N96L6GL-es BOSS Prime Polo Rojo Bright Red 622 Medium para Hombre'
 sku: 'B07N96L6GL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-23 13:47:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BnNIHpI0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XQM4B9-es Under Armour Recovery Travel Track Jacket Parte Superior...'
 sku: 'B077XQM4B9-es'
 tags: [  ]

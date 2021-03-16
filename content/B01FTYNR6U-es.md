@@ -5,7 +5,7 @@ date: 2020-06-21 14:28:50
 image: 'https://m.media-amazon.com/images/I/41vGatz0vGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FTYNR6U-es Skechers Energy Lights-Elate Zapatillas Altas para Niños...'
 sku: 'B01FTYNR6U-es'
 tags: [  ]

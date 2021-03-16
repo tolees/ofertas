@@ -5,7 +5,7 @@ date: 2020-05-15 20:49:16
 image: 'https://m.media-amazon.com/images/I/31nQWMhLnHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKYJB94-es Joseph Joseph M-Poach Escalfador de Huevos para microondas...'
 sku: 'B07KKYJB94-es'
 tags: [  ]

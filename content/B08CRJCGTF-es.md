@@ -5,7 +5,7 @@ date: 2020-09-24 07:15:36
 image: 'https://m.media-amazon.com/images/I/419T28WqwvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRJCGTF-es MaNMaNing Protección 3 Capas Transpirables con Elástico...'
 sku: 'B08CRJCGTF-es'
 tags: [  ]

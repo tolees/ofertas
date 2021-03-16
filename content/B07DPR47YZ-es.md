@@ -5,7 +5,7 @@ date: 2020-08-23 17:25:05
 image: 'https://m.media-amazon.com/images/I/51yUMEgeCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPR47YZ-es Overcooked 2'
 sku: 'B07DPR47YZ-es'
 tags: [  ]

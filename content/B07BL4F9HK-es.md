@@ -5,7 +5,7 @@ date: 2020-08-25 05:25:33
 image: 'https://m.media-amazon.com/images/I/51E47KBv4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL4F9HK-es RECAMBIOS DREYMA Filtro METÁLICO Campana Extractor BALAY...'
 sku: 'B07BL4F9HK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 09:45:59
 image: 'https://m.media-amazon.com/images/I/41nAuPMJqoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XXWSFZ-es Orfeld 13" Remachadora de Tuercas Remachadora con M3 M4 M5...'
 sku: 'B082XXWSFZ-es'
 tags: [  ]

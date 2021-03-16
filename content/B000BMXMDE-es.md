@@ -5,7 +5,7 @@ date: 2020-04-03 11:46:46
 image: 'https://m.media-amazon.com/images/I/41eUnZNu+TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BMXMDE-es HP Q6470A - Cartucho de tóner'
 sku: 'B000BMXMDE-es'
 tags: [  ]

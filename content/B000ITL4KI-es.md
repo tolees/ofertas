@@ -5,7 +5,7 @@ date: 2020-04-04 05:23:50
 image: 'https://m.media-amazon.com/images/I/31H0dWoA7VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ITL4KI-es Gembird CC-PSU-1 - Cable de alimentación para CD/HDD/DVD Y...'
 sku: 'B000ITL4KI-es'
 tags: [  ]

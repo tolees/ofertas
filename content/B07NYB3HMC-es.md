@@ -5,7 +5,7 @@ date: 2020-01-13 01:08:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DBCOwrOnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NYB3HMC-es Satechi Ratón Bluetooth M1 Inalámbrico de Aluminio -...'
 sku: 'B07NYB3HMC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-15 09:37:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416cH524ceL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRNJMCG-es Apexcam 4K 20MP Cámara Deportiva WiFi EIS Ultra HD Cámara...'
 sku: 'B07NRNJMCG-es'
 tags: [  ]

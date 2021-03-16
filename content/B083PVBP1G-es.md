@@ -5,7 +5,7 @@ date: 2020-08-04 01:01:52
 image: 'https://m.media-amazon.com/images/I/51IXnRAyfOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083PVBP1G-es Enfriador de Aire Grande Aire Acondicionado Climatizador...'
 sku: 'B083PVBP1G-es'
 tags: [  ]

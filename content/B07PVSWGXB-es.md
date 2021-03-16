@@ -5,7 +5,7 @@ date: 2020-07-31 18:47:03
 image: 'https://m.media-amazon.com/images/I/31yh3GlrYsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVSWGXB-es SoftSocks SNEAKER LOW CUT Calcetines para mujeres hombres...'
 sku: 'B07PVSWGXB-es'
 tags: [  ]

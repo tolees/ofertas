@@ -5,7 +5,7 @@ date: 2020-01-29 21:52:33
 image: 'https://m.media-amazon.com/images/I/41-YNrLa--L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1LR1N-es Puma Smash V2 Zapatillas Unisex adulto Castlerock-Puma...'
 sku: 'B07KG1LR1N-es'
 tags: [  ]

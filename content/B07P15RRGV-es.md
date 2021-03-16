@@ -5,7 +5,7 @@ date: 2020-06-25 08:47:59
 image: 'https://m.media-amazon.com/images/I/41of8CUnIxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P15RRGV-es Carol-JA Gris 39 EU'
 sku: 'B07P15RRGV-es'
 tags: [  ]

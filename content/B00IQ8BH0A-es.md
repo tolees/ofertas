@@ -5,7 +5,7 @@ date: 2020-08-24 14:01:03
 image: 'https://m.media-amazon.com/images/I/51VlbVaj4zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IQ8BH0A-es Astralpool 11390 Floculante en Cartuchos para Piscinas...'
 sku: 'B00IQ8BH0A-es'
 tags: [  ]

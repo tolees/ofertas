@@ -5,7 +5,7 @@ date: 2020-01-16 10:20:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41et83bv5bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N42FIBF-es Puma Roma Basic Zapatillas para Hombre Negro Black-black...'
 sku: 'B01N42FIBF-es'
 tags: [  ]

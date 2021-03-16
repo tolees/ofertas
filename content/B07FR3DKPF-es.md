@@ -5,7 +5,7 @@ date: 2020-08-15 18:00:52
 image: 'https://m.media-amazon.com/images/I/41rSGNbvPBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR3DKPF-es K KYUER TF03XL Batería del Portátil para HP Pavilion 15-CC...'
 sku: 'B07FR3DKPF-es'
 tags: [  ]

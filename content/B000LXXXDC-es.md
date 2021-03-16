@@ -5,7 +5,7 @@ date: 2020-05-19 08:15:24
 image: 'https://m.media-amazon.com/images/I/51VnYyE4nkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LXXXDC-es Versele-laga Pienso para Loro - 1 kg'
 sku: 'B000LXXXDC-es'
 tags: [  ]

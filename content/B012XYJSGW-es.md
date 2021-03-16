@@ -5,7 +5,7 @@ date: 2020-09-15 21:50:08
 image: 'https://m.media-amazon.com/images/I/41HInduGv2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012XYJSGW-es AEG SB9300 Batidora de Vaso de Altas Prestaciones...'
 sku: 'B012XYJSGW-es'
 tags: [  ]

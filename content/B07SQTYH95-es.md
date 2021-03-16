@@ -5,7 +5,7 @@ date: 2020-09-01 15:51:39
 image: 'https://m.media-amazon.com/images/I/31S+mSCgrWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQTYH95-es Adidas Tensaur C Zapatillas de Running Unisex niño Noir...'
 sku: 'B07SQTYH95-es'
 tags: [  ]

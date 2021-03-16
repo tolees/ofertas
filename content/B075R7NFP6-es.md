@@ -5,7 +5,7 @@ date: 2020-08-13 19:09:56
 image: 'https://m.media-amazon.com/images/I/51O6xeIP4KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R7NFP6-es Intex 57254EU - Colchoneta hinchable emoji 173 x 27 cm'
 sku: 'B075R7NFP6-es'
 tags: [  ]

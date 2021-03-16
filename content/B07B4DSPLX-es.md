@@ -5,7 +5,7 @@ date: 2020-03-08 11:41:51
 image: 'https://m.media-amazon.com/images/I/41yDAS9MrNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4DSPLX-es Skechers Bikers-Lineage Botas Estilo Motero para Mujer...'
 sku: 'B07B4DSPLX-es'
 tags: [  ]

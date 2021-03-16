@@ -5,7 +5,7 @@ date: 2020-09-30 21:00:48
 image: 'https://m.media-amazon.com/images/I/51sJr0QwCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015T3RIFW-es Boxeo Midbass WRAPSCBLK-V5 in-Ear-Auricular con Classic...'
 sku: 'B015T3RIFW-es'
 tags: [  ]

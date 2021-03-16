@@ -5,7 +5,7 @@ date: 2020-05-20 22:22:53
 image: 'https://m.media-amazon.com/images/I/41oS5BuDxKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PLQ21W-es Epson WFDS410 - Escáner de Documentos en Color A4...'
 sku: 'B074PLQ21W-es'
 tags: [  ]

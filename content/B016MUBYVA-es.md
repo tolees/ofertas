@@ -5,7 +5,7 @@ date: 2020-04-07 20:02:42
 image: 'https://m.media-amazon.com/images/I/51vHSZFvZHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016MUBYVA-es Los Vengadores Temporada 6 Vol 1 The Avengers TV [DVD]'
 sku: 'B016MUBYVA-es'
 tags: [  ]

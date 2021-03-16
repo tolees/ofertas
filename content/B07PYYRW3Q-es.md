@@ -5,7 +5,7 @@ date: 2020-06-24 18:29:37
 image: 'https://m.media-amazon.com/images/I/41WZGxK0HTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYYRW3Q-es Under Armour UA Charged Commit TR 2 Zapatillas Deportivas...'
 sku: 'B07PYYRW3Q-es'
 tags: [  ]

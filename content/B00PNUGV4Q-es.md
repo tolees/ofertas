@@ -5,7 +5,7 @@ date: 2020-04-13 16:38:48
 image: 'https://m.media-amazon.com/images/I/41FOxolxzcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PNUGV4Q-es Adidas Zx Flux - Zapatillas para Bebés Color Negro...'
 sku: 'B00PNUGV4Q-es'
 tags: [  ]

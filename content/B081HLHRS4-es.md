@@ -5,7 +5,7 @@ date: 2020-05-13 14:43:45
 image: 'https://m.media-amazon.com/images/I/51N4IV0Bb4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081HLHRS4-es Victory Endurance Recovery Bar Sabor Piña Colada. Barrita...'
 sku: 'B081HLHRS4-es'
 tags: [  ]

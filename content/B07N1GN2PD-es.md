@@ -5,7 +5,7 @@ date: 2020-08-17 18:31:55
 image: 'https://m.media-amazon.com/images/I/31EpNIxX02L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GN2PD-es Clarks Un Elda Hi Botas Slouch para Mujer Marrón Dark Tan...'
 sku: 'B07N1GN2PD-es'
 tags: [  ]

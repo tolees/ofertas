@@ -5,7 +5,7 @@ date: 2020-07-05 09:02:20
 image: 'https://m.media-amazon.com/images/I/512PP4iFiqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6MSTZN-es Aquabeads - 31331 - Flip Tray®'
 sku: 'B07M6MSTZN-es'
 tags: [  ]

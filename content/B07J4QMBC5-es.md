@@ -5,7 +5,7 @@ date: 2020-08-13 17:06:46
 image: 'https://m.media-amazon.com/images/I/41bT5yskC2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J4QMBC5-es Pop! Stranger Things - Figura de Vinilo Movie Moment...'
 sku: 'B07J4QMBC5-es'
 tags: [  ]

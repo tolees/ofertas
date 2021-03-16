@@ -5,7 +5,7 @@ date: 2020-05-08 20:56:30
 image: 'https://m.media-amazon.com/images/I/419SU6zrG6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074JFP3B7-es Blade Runner 2049 Blade Runner 2049-Funko Pop Figura de...'
 sku: 'B074JFP3B7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 10:52:05
 image: 'https://m.media-amazon.com/images/I/51zg2LSxXRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBVBG1K-es UglyDolls: Una Aventura Imperfecta'
 sku: 'B07PBVBG1K-es'
 tags: [  ]

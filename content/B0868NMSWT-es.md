@@ -5,7 +5,7 @@ date: 2020-05-27 08:40:52
 image: 'https://m.media-amazon.com/images/I/415XtLMUTTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868NMSWT-es Suhctup Transparente Funda Compatible con OnePlus 7T Pro...'
 sku: 'B0868NMSWT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-21 02:00:52
 image: 'https://m.media-amazon.com/images/I/41Y3u6GVO9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRKQF8F-es New Balance Yc373v1 Zapatillas para Niñas Dorado Classic...'
 sku: 'B07KRKQF8F-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-26 12:16:16
 image: 'https://m.media-amazon.com/images/I/417erVMQQ8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PZ8ZUWK-es Nike MD Runner 2 Zapatillas de Running Mujer Negro Black /...'
 sku: 'B00PZ8ZUWK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-21 09:32:58
 image: 'https://m.media-amazon.com/images/I/31vRcfFRZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z7S4PM4-es Under Armour Gs Pace Zapatillas de Running Unisex Adulto...'
 sku: 'B00Z7S4PM4-es'
 tags: [  ]

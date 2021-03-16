@@ -5,7 +5,7 @@ date: 2020-05-12 16:09:42
 image: 'https://m.media-amazon.com/images/I/41Gz6l7ou-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPSFH86-es Funko X-Men Pop Dark Phoenix Multicolor Talla única 37063'
 sku: 'B07KPSFH86-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-15 04:20:12
 image: 'https://m.media-amazon.com/images/I/41KAwPpWaHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0044DFUU4-es Weleda - Crema facial de día de Granada 30 ml 1 unidad'
 sku: 'B0044DFUU4-es'
 tags: [  ]

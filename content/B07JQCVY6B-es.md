@@ -5,7 +5,7 @@ date: 2020-04-17 08:10:23
 image: 'https://m.media-amazon.com/images/I/41T5OObFW8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQCVY6B-es 50ml Ocean Perfume para Hombres Fragancias frescas Maduro...'
 sku: 'B07JQCVY6B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-29 18:37:18
 image: 'https://m.media-amazon.com/images/I/31qit4A78BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HVSORU8-es Kärcher Bolsas de filtro de fieltro WD4-WD5-WD6 4u...'
 sku: 'B00HVSORU8-es'
 tags: [  ]

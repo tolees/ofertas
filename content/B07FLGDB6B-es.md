@@ -5,7 +5,7 @@ date: 2020-03-04 08:20:47
 image: 'https://m.media-amazon.com/images/I/41eJddpFEiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLGDB6B-es Philips Avent SCD287/24 - Set de regalo natural dragon 1...'
 sku: 'B07FLGDB6B-es'
 tags: [  ]

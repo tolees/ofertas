@@ -5,7 +5,7 @@ date: 2020-06-15 12:44:38
 image: 'https://m.media-amazon.com/images/I/41OYblqFsvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QLSZ1L-es NINGNETI Reutilizable y Lavable con Carbón Activado Filtro...'
 sku: 'B087QLSZ1L-es'
 tags: [  ]

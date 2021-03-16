@@ -5,7 +5,7 @@ date: 2020-09-25 09:01:20
 image: 'https://m.media-amazon.com/images/I/51l-6A9LWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M2YK6M-es Suhctup Funda Compatible con UMIDIGI F2 Transparente...'
 sku: 'B088M2YK6M-es'
 tags: [  ]

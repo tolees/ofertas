@@ -5,7 +5,7 @@ date: 2020-05-26 10:40:43
 image: 'https://m.media-amazon.com/images/I/41E-9aotSWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D4HP2P-es Suhctup Funda Compatible para Xiaomi Mi 8 Lite Carcasa...'
 sku: 'B088D4HP2P-es'
 tags: [  ]

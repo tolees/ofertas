@@ -5,7 +5,7 @@ date: 2020-05-11 13:52:31
 image: 'https://m.media-amazon.com/images/I/41ztqae-fAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077M96ZHH-es PUMA Smash V2 Zapatillas Unisex Adulto Negro Black White...'
 sku: 'B077M96ZHH-es'
 tags: [  ]

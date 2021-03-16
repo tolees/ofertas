@@ -5,7 +5,7 @@ date: 2021-03-16 15:44:52
 image: 'https://m.media-amazon.com/images/I/41zlV5R8OYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W59KQS3-es Funko - POP Animation: Dragon Ball Z - Mecha Frieza'
 sku: 'B07W59KQS3-es'
 tags: [ 'funko', ]
@@ -28,9 +28,9 @@ En este momento está [Funko - POP Animation: Dragon Ball Z - Mecha Frieza](http
 
 🔎:
 
-- Figure stands 9.5cm and comes in a window display box
+- Check out the other dragon ball z figures from funko and collect them all
 - Funko pop. Is the 2018 toy of the year and peoples choice award winner
 - From dragon ball z, mecha frieza, as a stylized pop vinyl from funko
-- Check out the other dragon ball z figures from funko and collect them all
+- Figure stands 9.5cm and comes in a window display box
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07W59KQS3/?tag=tolees-21)

@@ -5,7 +5,7 @@ date: 2020-04-27 02:36:13
 image: 'https://m.media-amazon.com/images/I/411Z-mqe7CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FTYPXZ8-es Skechers Boy s Energy Lights Trainers White White 5 UK 38 EU'
 sku: 'B01FTYPXZ8-es'
 tags: [  ]

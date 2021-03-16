@@ -5,7 +5,7 @@ date: 2020-08-17 00:28:34
 image: 'https://m.media-amazon.com/images/I/4192ZY7m4iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRGZDMP-es Hugo BOSS Reloj para Hombre 1513484'
 sku: 'B06XRGZDMP-es'
 tags: [  ]

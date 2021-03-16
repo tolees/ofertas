@@ -5,7 +5,7 @@ date: 2020-07-09 15:28:28
 image: 'https://m.media-amazon.com/images/I/41L6YjNDayL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YTCDZKB-es The Big Bang Theory Temporada 12 [DVD]'
 sku: 'B07YTCDZKB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-01 08:28:18
 image: 'https://m.media-amazon.com/images/I/61eZvgAUpKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP94FR2-es Trials Rising - Gold Edition'
 sku: 'B07DP94FR2-es'
 tags: [  ]

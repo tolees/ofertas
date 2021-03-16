@@ -5,7 +5,7 @@ date: 2020-05-19 21:00:45
 image: 'https://m.media-amazon.com/images/I/51fz+iTfnOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007QS7VX8-es Pierre Lannier 295C488 - Reloj analógico de Cuarzo para...'
 sku: 'B007QS7VX8-es'
 tags: [  ]

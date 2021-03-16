@@ -5,7 +5,7 @@ date: 2020-05-07 15:35:56
 image: 'https://m.media-amazon.com/images/I/41RX+c4AX7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002RL8FBQ-es Kirkland Signature Calcium 600 mg+D3 500-Count Tablets'
 sku: 'B002RL8FBQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-16 20:43:33
 image: 'https://m.media-amazon.com/images/I/31lPZPYMssL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J46X8PK-es Vichy Capital Soleil Brume Hydratante Invisible SPF50...'
 sku: 'B00J46X8PK-es'
 tags: [  ]

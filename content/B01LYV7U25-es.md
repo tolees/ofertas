@@ -5,7 +5,7 @@ date: 2020-04-30 08:46:26
 image: 'https://m.media-amazon.com/images/I/41MOh+msynL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYV7U25-es Razer Goliathus Cosmic Speed - Alfombrilla Gaming para...'
 sku: 'B01LYV7U25-es'
 tags: [  ]

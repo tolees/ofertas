@@ -5,7 +5,7 @@ date: 2020-08-24 19:21:59
 image: 'https://m.media-amazon.com/images/I/41-vHIBxQYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPSYW51-es LAST LEVEL- Funko Figura Pop Warhammer 40K: Dark Angels...'
 sku: 'B07KPSYW51-es'
 tags: [  ]

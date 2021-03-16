@@ -5,7 +5,7 @@ date: 2020-01-09 02:39:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DQH22F1GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FC1V61E-es Lenovo UltraDock - Base de conexión para Tablet Negro'
 sku: 'B00FC1V61E-es'
 tags: [  ]

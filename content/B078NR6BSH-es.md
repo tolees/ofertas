@@ -5,7 +5,7 @@ date: 2020-08-25 00:53:58
 image: 'https://m.media-amazon.com/images/I/21XL0VjM0oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NR6BSH-es Bolsas de plástico resellables bolsa sellada bolsa de...'
 sku: 'B078NR6BSH-es'
 tags: [  ]

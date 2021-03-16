@@ -5,7 +5,7 @@ date: 2020-06-17 11:45:53
 image: 'https://m.media-amazon.com/images/I/51SZKfnDWyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089F7DPZN-es Z Paint by Numbers Animales con pinceles y pigmento...'
 sku: 'B089F7DPZN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-04 15:57:52
 image: 'https://m.media-amazon.com/images/I/31pO17nyFtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087NMB1V5-es Grborn Termómetro electrónico Termómetro de Mano de Mano...'
 sku: 'B087NMB1V5-es'
 tags: [  ]

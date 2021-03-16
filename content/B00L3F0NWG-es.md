@@ -5,7 +5,7 @@ date: 2020-07-20 13:57:05
 image: 'https://m.media-amazon.com/images/I/31PvPO1zP1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L3F0NWG-es Habitdesign 001638G - Mesa de Centro elevable Modelo Zenit...'
 sku: 'B00L3F0NWG-es'
 tags: [  ]

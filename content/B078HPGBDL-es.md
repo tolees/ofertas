@@ -5,7 +5,7 @@ date: 2020-01-28 01:57:50
 image: 'https://m.media-amazon.com/images/I/51HQCq2lxHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HPGBDL-es HANSAPLAST FROZEN NIÑA 20 APOSITOS'
 sku: 'B078HPGBDL-es'
 tags: [  ]

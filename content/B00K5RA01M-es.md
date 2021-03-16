@@ -5,7 +5,7 @@ date: 2020-06-02 07:09:30
 image: 'https://m.media-amazon.com/images/I/41MlHkxoCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5RA01M-es Tommy Hilfiger 3p Brief Calzoncillos Blanco Blanco 100...'
 sku: 'B00K5RA01M-es'
 tags: [  ]

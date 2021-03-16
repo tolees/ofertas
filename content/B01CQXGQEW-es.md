@@ -5,7 +5,7 @@ date: 2020-01-24 03:18:09
 image: 'https://m.media-amazon.com/images/I/31htE+7g3NL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CQXGQEW-es NIVEA Cellular Perfect Skin Cuidado de Día FP15 1 x 50 ml...'
 sku: 'B01CQXGQEW-es'
 tags: [  ]

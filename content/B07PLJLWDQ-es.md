@@ -5,7 +5,7 @@ date: 2020-04-13 13:03:31
 image: 'https://m.media-amazon.com/images/I/51sVlDfAv0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLJLWDQ-es O³ Bastoncillos Ecologicos 800 Unidades | Bastoncillos...'
 sku: 'B07PLJLWDQ-es'
 tags: [  ]

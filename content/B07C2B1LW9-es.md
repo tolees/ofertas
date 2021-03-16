@@ -5,7 +5,7 @@ date: 2020-04-08 08:19:42
 image: 'https://m.media-amazon.com/images/I/31gLfuXsyVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2B1LW9-es JACK & JONES Jjipaul Jjflake AKM 542 Noos Pantalones Gris...'
 sku: 'B07C2B1LW9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 21:25:33
 image: 'https://m.media-amazon.com/images/I/312ZBmyKdtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SWY5GY-es Grborn Micrófono de sobremesa USB 360° Soporte de...'
 sku: 'B089SWY5GY-es'
 tags: [  ]

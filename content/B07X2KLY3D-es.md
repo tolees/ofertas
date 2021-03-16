@@ -5,7 +5,7 @@ date: 2020-02-09 11:09:05
 image: 'https://m.media-amazon.com/images/I/61YH8MY4tgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2KLY3D-es HOVNEE Pintura de cara Facial para Niños Kit de Pintura...'
 sku: 'B07X2KLY3D-es'
 tags: [  ]

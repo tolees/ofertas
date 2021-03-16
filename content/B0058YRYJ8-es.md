@@ -5,7 +5,7 @@ date: 2020-08-23 18:19:44
 image: 'https://m.media-amazon.com/images/I/41GP5ImHKWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0058YRYJ8-es Columbia Schooner Bank Gorra Cachalot Unisex Adulto Beige...'
 sku: 'B0058YRYJ8-es'
 tags: [  ]

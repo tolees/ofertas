@@ -5,7 +5,7 @@ date: 2020-02-16 11:46:17
 image: 'https://m.media-amazon.com/images/I/41o5lFR-12L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014FBQ00I-es Belkin F2CU037btBLK - Adaptador de USB-C a VGA Color Negro...'
 sku: 'B014FBQ00I-es'
 tags: [  ]

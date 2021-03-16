@@ -5,7 +5,7 @@ date: 2020-05-15 14:05:50
 image: 'https://m.media-amazon.com/images/I/31g+xtmI9iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFNDDD7-es GX·Diffueser Mini Generador de Ozono portátil purificador...'
 sku: 'B07YFNDDD7-es'
 tags: [  ]

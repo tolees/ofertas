@@ -5,7 +5,7 @@ date: 2020-03-01 19:02:34
 image: 'https://m.media-amazon.com/images/I/417UheFsoyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S29G2QS-es vamei 8 piezas Bebé Niña Diademas Cintas de Pelo Diadema...'
 sku: 'B07S29G2QS-es'
 tags: [  ]

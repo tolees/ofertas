@@ -5,7 +5,7 @@ date: 2020-06-01 15:35:39
 image: 'https://m.media-amazon.com/images/I/41+NAwbbNPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2RXYZL-es ammoon Inalámbrico Guitarra Receptor Transmisor de...'
 sku: 'B07L2RXYZL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 10:31:09
 image: 'https://m.media-amazon.com/images/I/41dWpZJgXpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G1C35ZG-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
 sku: 'B08G1C35ZG-es'
 tags: [  ]

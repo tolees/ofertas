@@ -5,7 +5,7 @@ date: 2020-10-01 06:04:57
 image: 'https://m.media-amazon.com/images/I/31Ej4HH3hWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PHRFHFY-es PrimeMatik - Poste Separador 2 uds Negro con Cinta...'
 sku: 'B00PHRFHFY-es'
 tags: [  ]

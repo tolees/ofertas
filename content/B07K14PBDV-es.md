@@ -5,7 +5,7 @@ date: 2020-04-30 07:20:50
 image: 'https://m.media-amazon.com/images/I/41stim4gb+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K14PBDV-es Lee Malone Jeans Blue Drop Em 28W / 30L para Hombre'
 sku: 'B07K14PBDV-es'
 tags: [  ]

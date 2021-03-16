@@ -5,7 +5,7 @@ date: 2020-08-24 00:02:55
 image: 'https://m.media-amazon.com/images/I/41PBMO6yYpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K9TXKLW-es Musou HDMI a AV Convertidor HDMI a RCA Convertidor...'
 sku: 'B01K9TXKLW-es'
 tags: [  ]

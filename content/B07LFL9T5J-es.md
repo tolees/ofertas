@@ -5,7 +5,7 @@ date: 2020-02-18 12:23:39
 image: 'https://m.media-amazon.com/images/I/31Es4AUmKUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFL9T5J-es Levi s Essential Polo Rojo Brilliant Red 0009 Medium para...'
 sku: 'B07LFL9T5J-es'
 tags: [  ]

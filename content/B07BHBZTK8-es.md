@@ -5,7 +5,7 @@ date: 2020-02-18 14:34:05
 image: 'https://m.media-amazon.com/images/I/51v5+z514QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHBZTK8-es Arteza Cuadernos de dibujo de tapa dura | Pack de 2 | 100...'
 sku: 'B07BHBZTK8-es'
 tags: [  ]

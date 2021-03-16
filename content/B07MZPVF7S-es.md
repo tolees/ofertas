@@ -5,7 +5,7 @@ date: 2020-04-27 07:26:14
 image: 'https://m.media-amazon.com/images/I/41BWOl+7zKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPVF7S-es Pepe Jeans Linn Pantalones Multi 0aa 36 Talla del...'
 sku: 'B07MZPVF7S-es'
 tags: [  ]

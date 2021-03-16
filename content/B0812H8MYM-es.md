@@ -5,7 +5,7 @@ date: 2020-07-25 15:01:31
 image: 'https://m.media-amazon.com/images/I/41NkIFNbHpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0812H8MYM-es Asics JOLT 2 GS Running Shoe Unisex-Child Black/Directoire...'
 sku: 'B0812H8MYM-es'
 tags: [  ]

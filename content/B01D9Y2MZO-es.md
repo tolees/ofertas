@@ -5,7 +5,7 @@ date: 2020-03-08 19:42:50
 image: 'https://m.media-amazon.com/images/I/31H1AuXbhVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D9Y2MZO-es Clarins Solaire Lait Fondant Auto-Bronzant Hydratation 24H...'
 sku: 'B01D9Y2MZO-es'
 tags: [  ]

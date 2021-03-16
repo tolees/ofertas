@@ -5,7 +5,7 @@ date: 2020-06-17 09:24:47
 image: 'https://m.media-amazon.com/images/I/51zc7BoZFiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHF35SZ-es FCSDETAIL Alfombrilla de Baño Antideslizantes de 50X80 cm...'
 sku: 'B07PHF35SZ-es'
 tags: [  ]

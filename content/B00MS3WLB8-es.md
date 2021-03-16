@@ -5,7 +5,7 @@ date: 2020-06-09 16:03:42
 image: 'https://m.media-amazon.com/images/I/414FI2CuflL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MS3WLB8-es Quinny 76909230 - Cuco plegable color rosa'
 sku: 'B00MS3WLB8-es'
 tags: [  ]

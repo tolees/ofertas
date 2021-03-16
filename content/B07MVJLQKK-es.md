@@ -5,7 +5,7 @@ date: 2020-02-05 16:54:57
 image: 'https://m.media-amazon.com/images/I/413FtrnC2wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJLQKK-es Napapijri Semiury 2 Gorro de Punto Azul BLU Marine 176...'
 sku: 'B07MVJLQKK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 16:28:19
 image: 'https://m.media-amazon.com/images/I/4139V3CzsqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LPQ2DBG-es Babaria Vinagre Champú Protección Natural Cabello 600 ml 1...'
 sku: 'B01LPQ2DBG-es'
 tags: [  ]

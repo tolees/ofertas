@@ -5,7 +5,7 @@ date: 2020-05-15 22:04:31
 image: 'https://m.media-amazon.com/images/I/51MQ-Yw1eDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DN9JKUQ-es Meritene Meritene Junior Batido Chocolate 15Sbrs 450 g'
 sku: 'B00DN9JKUQ-es'
 tags: [  ]

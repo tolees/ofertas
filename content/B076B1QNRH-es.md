@@ -5,7 +5,7 @@ date: 2020-09-25 08:23:33
 image: 'https://m.media-amazon.com/images/I/317+61kUl7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076B1QNRH-es Tefal - Sartén grill 26x26cm aluminio fundido compatible...'
 sku: 'B076B1QNRH-es'
 tags: [  ]

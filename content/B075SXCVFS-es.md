@@ -5,7 +5,7 @@ date: 2020-03-08 18:39:11
 image: 'https://m.media-amazon.com/images/I/51YO4R0jtmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075SXCVFS-es Roffatide Rayado Tartán Costura Hebilla Plano Gorra Boinas...'
 sku: 'B075SXCVFS-es'
 tags: [  ]

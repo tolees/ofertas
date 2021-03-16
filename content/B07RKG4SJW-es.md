@@ -5,7 +5,7 @@ date: 2020-08-06 10:32:17
 image: 'https://m.media-amazon.com/images/I/41aOmNKNsnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKG4SJW-es MILAN Portatodo Mini Net&Lit Rosa Estuches 20 cm Rosa'
 sku: 'B07RKG4SJW-es'
 tags: [  ]

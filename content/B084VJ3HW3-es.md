@@ -5,7 +5,7 @@ date: 2020-05-15 18:02:27
 image: 'https://m.media-amazon.com/images/I/31AJcqzN+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084VJ3HW3-es Portátil al aire libre de gran capacidad para bebés leche...'
 sku: 'B084VJ3HW3-es'
 tags: [  ]

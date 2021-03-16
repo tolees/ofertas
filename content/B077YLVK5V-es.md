@@ -5,7 +5,7 @@ date: 2020-03-08 14:17:50
 image: 'https://m.media-amazon.com/images/I/31BVfnH6nyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YLVK5V-es The North Face W HH Hike II GTX Zapatillas de Senderismo...'
 sku: 'B077YLVK5V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-25 14:06:12
 image: 'https://m.media-amazon.com/images/I/31NBRtDuk2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GW5LYF-es find. Sandalia de Tiras con Tacón Mujer Violeta Lilac 41'
 sku: 'B077GW5LYF-es'
 tags: [  ]

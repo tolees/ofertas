@@ -5,7 +5,7 @@ date: 2020-01-19 09:05:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31NOl4Pai1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFGL5HR-es Mornwell D958 Dental Mirror Dental Inspection Mirror Oral...'
 sku: 'B07DFGL5HR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 14:06:19
 image: 'https://m.media-amazon.com/images/I/41hd6PEQ5WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWBXQ1F-es EMPIRE GAMING Storm Cooler – Base de refrigeración PC...'
 sku: 'B07KWBXQ1F-es'
 tags: [  ]

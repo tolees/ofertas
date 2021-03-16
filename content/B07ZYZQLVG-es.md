@@ -5,7 +5,7 @@ date: 2020-03-27 11:31:39
 image: 'https://m.media-amazon.com/images/I/41M27EFMJ7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZYZQLVG-es Umami® ⭐ Lunch Box EcoloChic™ Bleu & Bambou'
 sku: 'B07ZYZQLVG-es'
 tags: [  ]

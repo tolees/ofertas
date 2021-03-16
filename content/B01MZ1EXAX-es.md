@@ -5,7 +5,7 @@ date: 2020-08-16 11:42:29
 image: 'https://m.media-amazon.com/images/I/41ydeKWwRhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ1EXAX-es VS Venta-stock Aparador Java 3 cajones y 2 Puertas Gris/Cera'
 sku: 'B01MZ1EXAX-es'
 tags: [  ]

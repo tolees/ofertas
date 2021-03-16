@@ -5,7 +5,7 @@ date: 2020-03-13 10:20:14
 image: 'https://m.media-amazon.com/images/I/41HW-RxR4wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084YRTMXJ-es Auriculares Bluetooth Auriculares inalámbricos Bluetooth...'
 sku: 'B084YRTMXJ-es'
 tags: [  ]

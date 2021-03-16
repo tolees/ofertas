@@ -5,7 +5,7 @@ date: 2020-08-05 03:15:11
 image: 'https://m.media-amazon.com/images/I/41abQjvIBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ8H7S-es Skechers Ultra Groove Zapatillas para Hombre Azul Navy...'
 sku: 'B07TSQ8H7S-es'
 tags: [  ]

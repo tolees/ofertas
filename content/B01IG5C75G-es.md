@@ -5,7 +5,7 @@ date: 2020-07-12 00:11:49
 image: 'https://m.media-amazon.com/images/I/31Aa1Z1i7rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IG5C75G-es Camper Herren Beetle Sneaker Braun Medium Brown 210 39 EU'
 sku: 'B01IG5C75G-es'
 tags: [  ]

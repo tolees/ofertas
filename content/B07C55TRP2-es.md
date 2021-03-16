@@ -5,7 +5,7 @@ date: 2020-03-11 17:04:11
 image: 'https://m.media-amazon.com/images/I/41P-XBXq-vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C55TRP2-es LOVETEA Womens Open Mesh patrón de Bordado Entrepierna...'
 sku: 'B07C55TRP2-es'
 tags: [  ]

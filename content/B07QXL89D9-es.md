@@ -5,7 +5,7 @@ date: 2020-06-24 20:55:39
 image: 'https://m.media-amazon.com/images/I/31n-ISMZ1RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXL89D9-es Under Armour Speed Stride Tight Legging Mujer Negro XL'
 sku: 'B07QXL89D9-es'
 tags: [  ]

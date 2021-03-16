@@ -5,7 +5,7 @@ date: 2020-05-15 20:42:38
 image: 'https://m.media-amazon.com/images/I/41vZ8mu+lvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004KD1V4C-es Macadamia 54999 - Cuidado capilar 1000 ml'
 sku: 'B004KD1V4C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 11:16:22
 image: 'https://m.media-amazon.com/images/I/41MY2klWX0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZR8Q15-es Batidora de Vaso AICOOK Batidora 3 en 1 con Molinillo y...'
 sku: 'B07RZR8Q15-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-16 05:00:45
 image: 'https://m.media-amazon.com/images/I/51uKTobSusL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075L8JPSV-es Memoria USB 2.0 128 MB 10 Piezas Mini Pendrives - Mini Pen...'
 sku: 'B075L8JPSV-es'
 tags: [  ]

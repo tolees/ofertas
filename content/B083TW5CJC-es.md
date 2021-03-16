@@ -5,7 +5,7 @@ date: 2020-03-25 15:55:27
 image: 'https://m.media-amazon.com/images/I/41w3PmrX3hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TW5CJC-es Percha Curva Perla Pajarita Decoración Ropa para niños...'
 sku: 'B083TW5CJC-es'
 tags: [  ]

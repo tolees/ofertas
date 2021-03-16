@@ -5,7 +5,7 @@ date: 2020-07-26 19:58:17
 image: 'https://m.media-amazon.com/images/I/41QxvC1F0KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L6BATT4-es Merry Style Shorts Bañadores Deportivos Trajes de Baño...'
 sku: 'B00L6BATT4-es'
 tags: [  ]

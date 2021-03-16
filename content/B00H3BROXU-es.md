@@ -5,7 +5,7 @@ date: 2020-04-12 18:31:29
 image: 'https://m.media-amazon.com/images/I/31PVET4OSBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H3BROXU-es Rimmel London Stay Matte Base de Maquillaje Tono 300 Sand...'
 sku: 'B00H3BROXU-es'
 tags: [  ]

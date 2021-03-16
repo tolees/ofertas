@@ -5,7 +5,7 @@ date: 2020-04-16 18:25:03
 image: 'https://m.media-amazon.com/images/I/41+7xD2OyyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKMPGGV-es The Gourmet Collection - Mezcla de especias - Orégano...'
 sku: 'B07FKMPGGV-es'
 tags: [  ]

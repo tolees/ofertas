@@ -5,7 +5,7 @@ date: 2020-03-29 23:25:30
 image: 'https://m.media-amazon.com/images/I/51CUKBHZMUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXC47LW-es Apisérum Intelecto Viales Bebibles - Favorece el...'
 sku: 'B07KXC47LW-es'
 tags: [  ]

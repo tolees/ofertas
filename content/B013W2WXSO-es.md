@@ -5,7 +5,7 @@ date: 2020-01-17 12:30:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CSveyb6mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013W2WXSO-es OTG USB 2.0 Flash Drive Colourstone Micro USB 2.0 OTG Para...'
 sku: 'B013W2WXSO-es'
 tags: [  ]

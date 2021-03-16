@@ -5,7 +5,7 @@ date: 2020-07-12 12:46:38
 image: 'https://m.media-amazon.com/images/I/41Y2Eu7joYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDLVN36-es Westt Torque X - Casco De Moto Modular Integral con Doble...'
 sku: 'B07BDLVN36-es'
 tags: [  ]

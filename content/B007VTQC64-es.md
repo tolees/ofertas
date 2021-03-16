@@ -5,7 +5,7 @@ date: 2020-10-12 20:21:27
 image: 'https://m.media-amazon.com/images/I/41fvf7hNXLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007VTQC64-es Scotch 700/YEL Aplicador de Cinta Transferidora'
 sku: 'B007VTQC64-es'
 tags: [  ]

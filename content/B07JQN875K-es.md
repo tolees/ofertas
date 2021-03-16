@@ -5,7 +5,7 @@ date: 2020-10-09 17:07:52
 image: 'https://m.media-amazon.com/images/I/51tQ+56D5LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQN875K-es Crema De Cacahuete Loaded Nuts | Crema De Cacahuete Con...'
 sku: 'B07JQN875K-es'
 tags: [  ]

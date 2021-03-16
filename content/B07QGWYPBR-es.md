@@ -5,7 +5,7 @@ date: 2020-07-13 08:49:56
 image: 'https://m.media-amazon.com/images/I/41WDBFq3OmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGWYPBR-es Funko Pop Figura De Vinil Harry Potter-Cedric Diggory Yule...'
 sku: 'B07QGWYPBR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-23 17:27:46
 image: 'https://m.media-amazon.com/images/I/31t+W8qzQjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFCLMJT-es Masajeador Cervical Eléctrico Masajeador de Cuello en...'
 sku: 'B07KFCLMJT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 18:09:17
 image: 'https://m.media-amazon.com/images/I/61xSKaB7f0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C1MNDZY-es hotbesteu Cortinas Dormitorio Moderno Lujo Flores Impreso...'
 sku: 'B07C1MNDZY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 10:02:38
 image: 'https://m.media-amazon.com/images/I/512ofamRTiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0738FHB9Q-es Amazon Essentials Fleece-Outerwear-Jackets Jaspeado Gris...'
 sku: 'B0738FHB9Q-es'
 tags: [  ]

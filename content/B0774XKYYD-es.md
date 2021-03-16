@@ -5,7 +5,7 @@ date: 2020-05-27 21:15:38
 image: 'https://m.media-amazon.com/images/I/51lD2IR5DNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774XKYYD-es Cellularline SMGALAXYS8 Fundas Galaxy S8 para Moto Negro'
 sku: 'B0774XKYYD-es'
 tags: [  ]

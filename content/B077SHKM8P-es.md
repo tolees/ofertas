@@ -5,7 +5,7 @@ date: 2020-03-07 19:50:14
 image: 'https://m.media-amazon.com/images/I/41at4WyHBSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SHKM8P-es Aicok Batidora de vaso Batidora para Smoothie 1200W 7...'
 sku: 'B077SHKM8P-es'
 tags: [  ]

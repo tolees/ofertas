@@ -5,7 +5,7 @@ date: 2020-01-23 10:18:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41h0TbFk2eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07733LLNF-es Columbia Peakfreak XCRSN II XCEL Low Outdry Mujer...'
 sku: 'B07733LLNF-es'
 tags: [  ]

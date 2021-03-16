@@ -5,7 +5,7 @@ date: 2020-10-07 08:40:27
 image: 'https://m.media-amazon.com/images/I/51NKj-v+-kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3CKFLK-es Pendientes Metálicos Cuelgan Azul Dama Joyas Regalo'
 sku: 'B07L3CKFLK-es'
 tags: [  ]

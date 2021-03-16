@@ -5,7 +5,7 @@ date: 2020-09-15 22:47:05
 image: 'https://m.media-amazon.com/images/I/318OthgoPGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ13GV4-es Ever-Pretty Vestidos de Noche Encaje Gasa Cuello Redondo...'
 sku: 'B07KQ13GV4-es'
 tags: [  ]

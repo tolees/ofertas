@@ -5,7 +5,7 @@ date: 2020-01-25 16:17:52
 image: 'https://m.media-amazon.com/images/I/3175fYq7+AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JLMT0OO-es L Oréal Paris Color Riche Barra De Labios Gold Obsession...'
 sku: 'B01JLMT0OO-es'
 tags: [  ]

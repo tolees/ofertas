@@ -5,7 +5,7 @@ date: 2020-01-07 17:55:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51T4gt0lFAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5DT7XR-es SUPERMOM Pants Utb Tropical Pantalones premamá Multicolor...'
 sku: 'B07J5DT7XR-es'
 tags: [  ]

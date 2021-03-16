@@ -5,7 +5,7 @@ date: 2020-04-14 00:25:16
 image: 'https://m.media-amazon.com/images/I/51RkfkQZBzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LP34JN-es K9CK Luces LED para Lego Technic Coche de Rally 42077 Kit...'
 sku: 'B083LP34JN-es'
 tags: [  ]

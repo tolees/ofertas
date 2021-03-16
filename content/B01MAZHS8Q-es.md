@@ -5,7 +5,7 @@ date: 2020-08-20 07:53:26
 image: 'https://m.media-amazon.com/images/I/41WXKVjpt0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MAZHS8Q-es NanoCable 10.99.0002 - Adaptador metálico de 3.5" para...'
 sku: 'B01MAZHS8Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 19:39:25
 image: 'https://m.media-amazon.com/images/I/41yJYE2nLLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXTS8K6-es Under Armour Men s Printed Blitzing 3.0 Gorra Hombre Negro...'
 sku: 'B07PXTS8K6-es'
 tags: [  ]

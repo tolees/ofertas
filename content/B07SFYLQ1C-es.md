@@ -5,7 +5,7 @@ date: 2020-09-16 11:57:00
 image: 'https://m.media-amazon.com/images/I/31SVPLFBLGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFYLQ1C-es La Toja Selection - Gel esencia de Moringa y aceite de...'
 sku: 'B07SFYLQ1C-es'
 tags: [  ]

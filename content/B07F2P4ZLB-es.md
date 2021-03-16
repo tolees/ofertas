@@ -5,7 +5,7 @@ date: 2020-06-22 22:10:40
 image: 'https://m.media-amazon.com/images/I/31o-u-076CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2P4ZLB-es Amazon Essentials – Pantalones cargo elásticos de corte...'
 sku: 'B07F2P4ZLB-es'
 tags: [  ]

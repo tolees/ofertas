@@ -5,7 +5,7 @@ date: 2020-03-26 08:40:31
 image: 'https://m.media-amazon.com/images/I/41r+GsLpxYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFWHC6F-es New Balance 247v2 Zapatillas para Mujer Verde Faded...'
 sku: 'B07DFWHC6F-es'
 tags: [  ]

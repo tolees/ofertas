@@ -5,7 +5,7 @@ date: 2020-09-20 11:39:52
 image: 'https://m.media-amazon.com/images/I/31VCtNOlcfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ47Z3-es Pepe Jeans Sloane Pantalones Beige 844 W28/L32 para Hombre'
 sku: 'B07MZQ47Z3-es'
 tags: [  ]

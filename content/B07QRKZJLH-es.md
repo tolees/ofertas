@@ -5,7 +5,7 @@ date: 2020-04-26 20:10:22
 image: 'https://m.media-amazon.com/images/I/41X+MYrrTbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRKZJLH-es Le Creuset 20202320600460 Parrilla Rectangular Apto para...'
 sku: 'B07QRKZJLH-es'
 tags: [  ]

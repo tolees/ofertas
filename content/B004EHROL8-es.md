@@ -5,7 +5,7 @@ date: 2020-03-14 00:27:01
 image: 'https://m.media-amazon.com/images/I/31kKkWRGRdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004EHROL8-es Orlane Corps Cuidado de Raffermissant Corps & Buste 250 ml'
 sku: 'B004EHROL8-es'
 tags: [  ]

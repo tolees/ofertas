@@ -5,7 +5,7 @@ date: 2020-09-21 15:49:13
 image: 'https://m.media-amazon.com/images/I/31Vwq0m0KzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2QXDW4-es Vans Herren Left Chest Logo Tee T-Shirt Schwarz Black...'
 sku: 'B07F2QXDW4-es'
 tags: [  ]

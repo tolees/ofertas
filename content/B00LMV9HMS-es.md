@@ -5,7 +5,7 @@ date: 2020-02-20 13:15:52
 image: 'https://m.media-amazon.com/images/I/41dFa4jXI4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LMV9HMS-es Skip Hop Zoo Dog - Tarro aislado del alimento 325ml 12m+'
 sku: 'B00LMV9HMS-es'
 tags: [  ]

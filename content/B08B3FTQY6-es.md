@@ -5,7 +5,7 @@ date: 2020-07-13 21:04:53
 image: 'https://m.media-amazon.com/images/I/51pCrtNutOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3FTQY6-es Aire Acondicionado Portátil Mini Enfriador de Aire con 3...'
 sku: 'B08B3FTQY6-es'
 tags: [  ]

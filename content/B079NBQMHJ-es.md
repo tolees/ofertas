@@ -5,7 +5,7 @@ date: 2020-08-17 18:18:52
 image: 'https://m.media-amazon.com/images/I/31Q5sTQOhkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NBQMHJ-es Béaba 913426 - Cuchara de aprendizaje segunda edad'
 sku: 'B079NBQMHJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-01 15:03:26
 image: 'https://m.media-amazon.com/images/I/518UTC22GjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EYSS25S-es Batman V Superman - Dawn Of Justice Blu-Ray 4K Ultra...'
 sku: 'B01EYSS25S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 02:11:01
 image: 'https://m.media-amazon.com/images/I/41Lh7j430tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZZDMM6-es HyperX Predator - Memoria RAM de 32 GB DDR4 Kit 2 x 16 GB...'
 sku: 'B071ZZDMM6-es'
 tags: [  ]

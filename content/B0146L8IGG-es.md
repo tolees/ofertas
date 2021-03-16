@@ -5,7 +5,7 @@ date: 2020-03-15 07:06:22
 image: 'https://m.media-amazon.com/images/I/41VRJ3HTZzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0146L8IGG-es Dolce & Gabbana The One Essence De Parfum 65ml'
 sku: 'B0146L8IGG-es'
 tags: [  ]

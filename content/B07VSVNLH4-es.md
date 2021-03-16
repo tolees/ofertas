@@ -5,7 +5,7 @@ date: 2020-09-11 16:41:26
 image: 'https://m.media-amazon.com/images/I/41YbDN3ZFML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSVNLH4-es Calvin Klein Thong Tanga Azul Feeder Stripe Baby Blue Bfx...'
 sku: 'B07VSVNLH4-es'
 tags: [  ]

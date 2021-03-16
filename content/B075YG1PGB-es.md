@@ -5,7 +5,7 @@ date: 2020-05-21 16:21:45
 image: 'https://m.media-amazon.com/images/I/31u3hJUJ1gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YG1PGB-es SEVERIN Hervidor de Agua 1 L 2.200 W aprox. WK 3469 Acero...'
 sku: 'B075YG1PGB-es'
 tags: [  ]

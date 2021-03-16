@@ -5,7 +5,7 @@ date: 2020-09-04 08:00:47
 image: 'https://m.media-amazon.com/images/I/41gtZRm3T6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FQZNFYG-es Artistry Set de Niré: brochas de maquillaje veganas con...'
 sku: 'B01FQZNFYG-es'
 tags: [  ]

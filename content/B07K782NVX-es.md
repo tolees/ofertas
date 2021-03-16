@@ -5,7 +5,7 @@ date: 2020-05-13 07:32:37
 image: 'https://m.media-amazon.com/images/I/51JTxOQbOsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K782NVX-es Funrise Collectible Character Set Figuras Wonder Park 10...'
 sku: 'B07K782NVX-es'
 tags: [  ]

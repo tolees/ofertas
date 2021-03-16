@@ -5,7 +5,7 @@ date: 2020-03-12 19:58:53
 image: 'https://m.media-amazon.com/images/I/41hpFR4TaCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHCGXCK-es Columbia Nikiski 503 Botas Bajas para Mujer Negro Black...'
 sku: 'B07JHCGXCK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-26 22:02:01
 image: 'https://m.media-amazon.com/images/I/21WDq5mdCgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000MMOR46-es Philips SCF145/06 - Cepillo escobilla de limpieza para...'
 sku: 'B000MMOR46-es'
 tags: [  ]

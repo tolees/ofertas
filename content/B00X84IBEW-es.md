@@ -5,7 +5,7 @@ date: 2020-03-10 03:29:38
 image: 'https://m.media-amazon.com/images/I/414vRQer5-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X84IBEW-es CleanStream Ducha Shot Enema Sistema Limpieza Anal - 1 Unidad'
 sku: 'B00X84IBEW-es'
 tags: [  ]

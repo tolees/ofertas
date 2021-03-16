@@ -5,7 +5,7 @@ date: 2020-09-19 08:02:19
 image: 'https://m.media-amazon.com/images/I/31g1JXbbesL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3YDJZQ-es Casio Reloj de Pulsera LA670WEGD-1EF'
 sku: 'B07F3YDJZQ-es'
 tags: [  ]

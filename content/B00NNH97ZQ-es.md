@@ -5,7 +5,7 @@ date: 2020-01-23 15:47:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418Yb2qafwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NNH97ZQ-es Leathlux Funda Xiaomi Redmi 7A + 2 x Protector de Pantalla...'
 sku: 'B00NNH97ZQ-es'
 tags: [  ]

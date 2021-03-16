@@ -5,7 +5,7 @@ date: 2020-01-11 11:27:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31lCcpJLgCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQQHBNU-es WD My Passport - Disco Duro Portátil de 4 TB y Software de...'
 sku: 'B01LQQHBNU-es'
 tags: [  ]

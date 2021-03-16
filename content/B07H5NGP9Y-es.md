@@ -5,7 +5,7 @@ date: 2020-09-26 04:34:34
 image: 'https://m.media-amazon.com/images/I/31ohbRuUuCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5NGP9Y-es Targus THZ749GL Funda VersaVu para iPad Pro de 12 9...'
 sku: 'B07H5NGP9Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-22 10:58:41
 image: 'https://m.media-amazon.com/images/I/31ebUVCQ5RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HC916JV-es Nobleza – Poste rascador para Gatos de sisal con Juguete....'
 sku: 'B07HC916JV-es'
 tags: [  ]

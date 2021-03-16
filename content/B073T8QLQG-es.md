@@ -5,7 +5,7 @@ date: 2020-03-26 13:32:22
 image: 'https://m.media-amazon.com/images/I/41bwLa5YI8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073T8QLQG-es Hugo BOSS Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B073T8QLQG-es'
 tags: [  ]

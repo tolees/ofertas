@@ -5,7 +5,7 @@ date: 2020-09-24 09:51:31
 image: 'https://m.media-amazon.com/images/I/31Uel28SVyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005C3R8FU-es Vodka belvedere 40º 700 ml'
 sku: 'B005C3R8FU-es'
 tags: [  ]

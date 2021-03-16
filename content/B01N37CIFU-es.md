@@ -5,7 +5,7 @@ date: 2020-04-13 12:31:12
 image: 'https://m.media-amazon.com/images/I/418LnBe0SqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N37CIFU-es Redken Extreme Mask 200 Ml 1 Unidad 200 g'
 sku: 'B01N37CIFU-es'
 tags: [  ]

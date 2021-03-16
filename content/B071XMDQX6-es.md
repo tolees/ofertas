@@ -5,7 +5,7 @@ date: 2020-10-01 17:19:35
 image: 'https://m.media-amazon.com/images/I/41nc9XtqbrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XMDQX6-es Apple iPad Pro 12 9 pulgadas y 512 GB con Wi-Fi - Plata...'
 sku: 'B071XMDQX6-es'
 tags: [  ]

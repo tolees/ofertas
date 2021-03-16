@@ -5,7 +5,7 @@ date: 2020-02-03 11:05:08
 image: 'https://m.media-amazon.com/images/I/41gl2UtLPjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG21JGX-es New Balance 420 Zapatillas para Mujer Rosa Pink Pink 41.5 EU'
 sku: 'B07HG21JGX-es'
 tags: [  ]

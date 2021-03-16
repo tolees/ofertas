@@ -5,7 +5,7 @@ date: 2020-09-12 07:56:12
 image: 'https://m.media-amazon.com/images/I/51D4qcwqHzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831BTD8X-es Alcachofa Ducha con Manguera Zorara Cabezal de Ducha con...'
 sku: 'B0831BTD8X-es'
 tags: [  ]

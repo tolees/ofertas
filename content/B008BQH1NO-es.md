@@ -5,7 +5,7 @@ date: 2020-04-16 18:11:06
 image: 'https://m.media-amazon.com/images/I/51YgOuV00EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008BQH1NO-es Amazon - Funda de cuero para Kindle Paperwhite color negro...'
 sku: 'B008BQH1NO-es'
 tags: [  ]

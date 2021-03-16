@@ -5,7 +5,7 @@ date: 2020-05-25 11:28:41
 image: 'https://m.media-amazon.com/images/I/41OftUO0gkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JFZ0EKC-es Accurist Reloj de Pulsera MS1036NN'
 sku: 'B00JFZ0EKC-es'
 tags: [  ]

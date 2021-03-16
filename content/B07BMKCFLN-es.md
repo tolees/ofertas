@@ -5,7 +5,7 @@ date: 2020-08-03 04:59:17
 image: 'https://m.media-amazon.com/images/I/31jIspU2qNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BMKCFLN-es Arcos 233554 Cuchillo Santoku Riviera Rose Metal Rosa'
 sku: 'B07BMKCFLN-es'
 tags: [  ]

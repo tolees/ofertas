@@ -5,7 +5,7 @@ date: 2020-09-11 13:04:32
 image: 'https://m.media-amazon.com/images/I/416bdjvNX5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5XLVW3-es Fidech Potente Masajeador Portátil 7 Modos de Vibración...'
 sku: 'B07Z5XLVW3-es'
 tags: [  ]

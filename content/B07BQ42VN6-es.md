@@ -5,7 +5,7 @@ date: 2020-06-13 14:23:04
 image: 'https://m.media-amazon.com/images/I/41H3T997YOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQ42VN6-es Moussel - Gel Ducha Clasico 900 ml'
 sku: 'B07BQ42VN6-es'
 tags: [  ]

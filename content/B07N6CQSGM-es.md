@@ -5,7 +5,7 @@ date: 2020-04-07 22:01:43
 image: 'https://m.media-amazon.com/images/I/41CXhyYaYGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6CQSGM-es 3/8"1700 RPM Taladro Neumático de Alta Velocidad Rotación...'
 sku: 'B07N6CQSGM-es'
 tags: [  ]

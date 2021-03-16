@@ -5,7 +5,7 @@ date: 2020-05-28 09:05:41
 image: 'https://m.media-amazon.com/images/I/41yRE46uopL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071DWGB86-es Half Moon Bay Tazón Juego de Tronos Stark 1'
 sku: 'B071DWGB86-es'
 tags: [  ]

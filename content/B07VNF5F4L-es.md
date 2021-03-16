@@ -5,7 +5,7 @@ date: 2020-08-08 09:11:29
 image: 'https://m.media-amazon.com/images/I/41mk7ElShYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNF5F4L-es Robot aspirador con función WLAN Dcenta diseño...'
 sku: 'B07VNF5F4L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-20 17:36:43
 image: 'https://m.media-amazon.com/images/I/31Cq4DwWQxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTVBD13-es JACK & JONES Jfwbyson Mesh Mix STS Zapatillas para Hombre...'
 sku: 'B07CTVBD13-es'
 tags: [  ]

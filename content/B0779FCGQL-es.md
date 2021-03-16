@@ -5,7 +5,7 @@ date: 2020-04-27 18:22:52
 image: 'https://m.media-amazon.com/images/I/41DaTydCbeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779FCGQL-es adidas Entrada 18 JSY T-Shirt Hombre Bold Blue/White M'
 sku: 'B0779FCGQL-es'
 tags: [  ]

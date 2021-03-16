@@ -5,7 +5,7 @@ date: 2020-06-20 19:10:57
 image: 'https://m.media-amazon.com/images/I/31usDcf3hWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XW45MZ8-es Amazon Essentials Classic-Fit Cargo Short Pantalones...'
 sku: 'B06XW45MZ8-es'
 tags: [  ]

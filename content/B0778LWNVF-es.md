@@ -5,7 +5,7 @@ date: 2020-04-11 15:06:37
 image: 'https://m.media-amazon.com/images/I/41IPRW4dsHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0778LWNVF-es Team Kalorik Extractor de zumo con recipientes de 500 ml...'
 sku: 'B0778LWNVF-es'
 tags: [  ]

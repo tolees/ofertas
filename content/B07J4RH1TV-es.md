@@ -5,7 +5,7 @@ date: 2020-05-31 21:03:20
 image: 'https://m.media-amazon.com/images/I/415vi51NWmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J4RH1TV-es Optimum Nutrition ON 100% Plant Gold Standard Proteina...'
 sku: 'B07J4RH1TV-es'
 tags: [  ]

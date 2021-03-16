@@ -5,7 +5,7 @@ date: 2020-07-10 12:15:54
 image: 'https://m.media-amazon.com/images/I/51y-b+Z4s4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RN73HB3-es Oral-B Junior - Cepillo Eléctrico Recargable con...'
 sku: 'B07RN73HB3-es'
 tags: [  ]

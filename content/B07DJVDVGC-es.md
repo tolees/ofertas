@@ -5,7 +5,7 @@ date: 2020-02-21 20:48:41
 image: 'https://m.media-amazon.com/images/I/41eE1EpxtyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJVDVGC-es Pro Breeze Digital Radiador de Aceite 2500W - 10 Elementos...'
 sku: 'B07DJVDVGC-es'
 tags: [  ]

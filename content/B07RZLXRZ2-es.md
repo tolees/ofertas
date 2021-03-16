@@ -5,7 +5,7 @@ date: 2020-07-24 00:01:19
 image: 'https://m.media-amazon.com/images/I/414ZEDZ7S+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLXRZ2-es New Balance 574v2 Zapatillas para Mujer Negro Black SAU 40 EU'
 sku: 'B07RZLXRZ2-es'
 tags: [  ]

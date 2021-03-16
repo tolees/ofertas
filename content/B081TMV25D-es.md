@@ -5,7 +5,7 @@ date: 2020-07-01 15:51:17
 image: 'https://m.media-amazon.com/images/I/51ydIcH8IML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TMV25D-es adidas Predator TRN Balón de Fútbol Men s Black/Active...'
 sku: 'B081TMV25D-es'
 tags: [  ]

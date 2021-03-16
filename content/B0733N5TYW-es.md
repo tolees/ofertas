@@ -5,7 +5,7 @@ date: 2020-04-07 12:04:23
 image: 'https://m.media-amazon.com/images/I/315eu9zLT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0733N5TYW-es Neatec EUM12B - Escoba y limpaidor porttil profesional...'
 sku: 'B0733N5TYW-es'
 tags: [  ]

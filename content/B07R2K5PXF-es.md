@@ -5,7 +5,7 @@ date: 2020-01-01 07:03:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31urSKB5W4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R2K5PXF-es Soporte Vertical Portátil Dual CouHap Aluminium Laptop...'
 sku: 'B07R2K5PXF-es'
 tags: [  ]

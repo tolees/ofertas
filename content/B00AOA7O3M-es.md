@@ -5,7 +5,7 @@ date: 2020-04-06 16:00:12
 image: 'https://m.media-amazon.com/images/I/411+wQbFX1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AOA7O3M-es Nike M NP Short Pantalones Cortos de Deporte Hombre...'
 sku: 'B00AOA7O3M-es'
 tags: [  ]

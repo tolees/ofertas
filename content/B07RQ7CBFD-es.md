@@ -5,7 +5,7 @@ date: 2020-01-23 15:18:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dunS7et8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQ7CBFD-es Oral-B Genius 10000N - Cepillo Eléctrico Recargable con...'
 sku: 'B07RQ7CBFD-es'
 tags: [  ]

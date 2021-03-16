@@ -5,7 +5,7 @@ date: 2020-01-07 20:33:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/512JxfaBxGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TGX39F8-es Finocam - Agenda 2020 1 día página Espiral Futura Gris...'
 sku: 'B07TGX39F8-es'
 tags: [  ]

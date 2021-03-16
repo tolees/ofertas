@@ -5,7 +5,7 @@ date: 2020-05-10 18:08:44
 image: 'https://m.media-amazon.com/images/I/41AvrnZ-+NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KJR43Q-es Tristar KA-5087 Radiador eléctrico – Aceite – 7 cuerpos –...'
 sku: 'B075KJR43Q-es'
 tags: [  ]

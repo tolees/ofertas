@@ -5,7 +5,7 @@ date: 2020-04-01 20:15:51
 image: 'https://m.media-amazon.com/images/I/41zcLTrG-TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AFRJ1B2-es K&N RG-1002RD filtro cromado universal Coche y Moto'
 sku: 'B00AFRJ1B2-es'
 tags: [  ]

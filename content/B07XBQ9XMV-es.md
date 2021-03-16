@@ -5,7 +5,7 @@ date: 2020-03-11 08:57:15
 image: 'https://m.media-amazon.com/images/I/518lnujyxKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBQ9XMV-es Opret Tienda para Niños Pop Up Carpa Plegable para Niñas...'
 sku: 'B07XBQ9XMV-es'
 tags: [  ]

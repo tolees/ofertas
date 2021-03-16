@@ -5,7 +5,7 @@ date: 2020-01-20 09:09:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NwK9eyWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076WRK3WR-es Gardena NatureUp Clip de conexión para macetas de esquina...'
 sku: 'B076WRK3WR-es'
 tags: [  ]

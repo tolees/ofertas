@@ -5,7 +5,7 @@ date: 2020-04-30 11:11:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21hbP%2Ba7IJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L36MCHV-es AmazonBasics - Perchero de pared 8 ganchos modernos Nogal...'
 sku: 'B07L36MCHV-es'
 tags: [  ]

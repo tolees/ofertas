@@ -5,7 +5,7 @@ date: 2020-05-17 00:45:50
 image: 'https://m.media-amazon.com/images/I/31Vzes2UbkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJ7FPRH-es Clarks Cotrell Easy Mocasines para Hombre Azul Navy Combi...'
 sku: 'B07MJ7FPRH-es'
 tags: [  ]

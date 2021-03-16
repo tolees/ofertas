@@ -5,7 +5,7 @@ date: 2020-01-25 16:37:21
 image: 'https://m.media-amazon.com/images/I/31Vsi4WgapL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002N2YPL8-es Le Creuset Sartén Baja de Aluminio Antiadherente Libre de...'
 sku: 'B002N2YPL8-es'
 tags: [  ]

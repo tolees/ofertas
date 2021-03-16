@@ -5,7 +5,7 @@ date: 2020-02-03 04:50:34
 image: 'https://m.media-amazon.com/images/I/514CRM+dkgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L0MIB8K-es EasyRead ERTT-DIG Reloj Infantil de Pared Time Teacher Que...'
 sku: 'B00L0MIB8K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-23 15:23:03
 image: 'https://m.media-amazon.com/images/I/416M+k17zbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EY5G34O-es Taurus Tasty Ncream Heladera 12 W 1.5 litros Plástico...'
 sku: 'B00EY5G34O-es'
 tags: [  ]

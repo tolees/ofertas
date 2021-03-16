@@ -5,7 +5,7 @@ date: 2020-07-30 02:02:50
 image: 'https://m.media-amazon.com/images/I/51yTIH9XP1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJS37SR-es lalafancy Botella de Agua Acero Inoxidable 500ml/750ml...'
 sku: 'B07TJS37SR-es'
 tags: [  ]

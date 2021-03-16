@@ -5,7 +5,7 @@ date: 2020-10-10 09:31:40
 image: 'https://m.media-amazon.com/images/I/41Ov15D1UnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNNRQW5-es Calvin Klein Short Drawstring Bañador Azul Bluefish DW9...'
 sku: 'B07VNNRQW5-es'
 tags: [  ]

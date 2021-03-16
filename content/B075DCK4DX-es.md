@@ -5,7 +5,7 @@ date: 2020-03-01 11:11:37
 image: 'https://m.media-amazon.com/images/I/41pob4erETL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DCK4DX-es EIS Aceite de masaje cálido prémium Excitante efecto calor...'
 sku: 'B075DCK4DX-es'
 tags: [  ]

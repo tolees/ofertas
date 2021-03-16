@@ -5,7 +5,7 @@ date: 2020-02-06 20:26:03
 image: 'https://m.media-amazon.com/images/I/41jb2Dd35FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7DX3M9-es JACK & JONES Jcobooster Sweat Hood Aug 19 Capucha Gris...'
 sku: 'B07V7DX3M9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-07 17:22:06
 image: 'https://m.media-amazon.com/images/I/315FlANgc7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9RYR2G-es PUMA JARO Zapatillas de Running para Hombre Negro Black 43 EU'
 sku: 'B07S9RYR2G-es'
 tags: [  ]

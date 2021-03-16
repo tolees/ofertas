@@ -5,7 +5,7 @@ date: 2020-02-29 19:56:07
 image: 'https://m.media-amazon.com/images/I/41nkgiV2diL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WMYG5Z-es AiRunTech Cinturón de Correr para Botellas de Agua Bolsa...'
 sku: 'B078WMYG5Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 20:40:17
 image: 'https://m.media-amazon.com/images/I/31WIzIsnSBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDYNT2F-es BLACK+DECKER SVB520JW-QW - Aspirador escoba sin cable 2 en...'
 sku: 'B07PDYNT2F-es'
 tags: [  ]

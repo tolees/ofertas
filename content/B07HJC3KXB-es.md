@@ -5,7 +5,7 @@ date: 2020-09-12 09:24:51
 image: 'https://m.media-amazon.com/images/I/31vPFt+jAfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJC3KXB-es Funko- Pop Movie Daniel Craig 007-James Bond Figura...'
 sku: 'B07HJC3KXB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 07:41:36
 image: 'https://m.media-amazon.com/images/I/41nmGC9CoHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074P1PPZJ-es adidas Stan Smith I Zapatillas Unisex Niños Blanco...'
 sku: 'B074P1PPZJ-es'
 tags: [  ]

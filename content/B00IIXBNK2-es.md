@@ -5,7 +5,7 @@ date: 2020-01-22 16:19:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wMiIG80xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IIXBNK2-es Satechi ReadMate Lupa de escritorio LED Negro'
 sku: 'B00IIXBNK2-es'
 tags: [  ]

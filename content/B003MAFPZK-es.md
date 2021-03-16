@@ -5,7 +5,7 @@ date: 2020-02-27 10:09:09
 image: 'https://m.media-amazon.com/images/I/41NIDyqDuJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003MAFPZK-es Cubo de basura color negro de 85 L de Robert Scott'
 sku: 'B003MAFPZK-es'
 tags: [  ]

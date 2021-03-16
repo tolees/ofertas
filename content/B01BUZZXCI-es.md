@@ -5,7 +5,7 @@ date: 2020-03-10 15:03:23
 image: 'https://m.media-amazon.com/images/I/51K8sBrkUnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BUZZXCI-es Super Sand-83254 Arena cinética Multicolor Goliath 83254'
 sku: 'B01BUZZXCI-es'
 tags: [  ]

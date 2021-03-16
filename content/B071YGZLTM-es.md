@@ -5,7 +5,7 @@ date: 2020-02-03 22:13:17
 image: 'https://m.media-amazon.com/images/I/41ltXOKhvGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YGZLTM-es Wilson Set completo para principiantes 9 palos de golf con...'
 sku: 'B071YGZLTM-es'
 tags: [  ]

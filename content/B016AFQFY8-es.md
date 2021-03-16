@@ -5,7 +5,7 @@ date: 2020-04-01 23:26:55
 image: 'https://m.media-amazon.com/images/I/41XNgylrh5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016AFQFY8-es Dormio Zafiro Colchón viscoelástico Blanco 135 x 190 x 24...'
 sku: 'B016AFQFY8-es'
 tags: [  ]

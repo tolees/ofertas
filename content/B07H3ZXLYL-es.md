@@ -5,7 +5,7 @@ date: 2020-08-30 18:30:16
 image: 'https://m.media-amazon.com/images/I/51adjXUA6oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3ZXLYL-es Edge Entertainment- Bomb Squad - Español Color EETMBS01'
 sku: 'B07H3ZXLYL-es'
 tags: [  ]

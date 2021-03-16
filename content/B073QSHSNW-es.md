@@ -5,7 +5,7 @@ date: 2020-01-09 14:36:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31m-6uhHUwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QSHSNW-es L Oréal Paris Make-up designer True Match Corrector Tono...'
 sku: 'B073QSHSNW-es'
 tags: [  ]

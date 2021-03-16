@@ -5,7 +5,7 @@ date: 2020-06-30 06:57:11
 image: 'https://m.media-amazon.com/images/I/41ezsW8I30L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1PJGWV-es New Balance 373v2 Zapatillas para Hombre Rojo Red/White...'
 sku: 'B07S1PJGWV-es'
 tags: [  ]

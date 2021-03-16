@@ -5,7 +5,7 @@ date: 2020-09-18 15:09:22
 image: 'https://m.media-amazon.com/images/I/410YHyUvslL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRLH66H-es Homyl - Cerradura antirrobo para Cable de Seguridad para...'
 sku: 'B07DRLH66H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-07 06:20:58
 image: 'https://m.media-amazon.com/images/I/41g1uDmOsKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QBHTZL-es Mondial A10 Placa de Calefacción 1500 W Gris'
 sku: 'B076QBHTZL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 13:53:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31SPKL63YTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHW1FWF-es Nike Todos Zapatillas de Entrenamiento para Hombre Blanco...'
 sku: 'B07PHW1FWF-es'
 tags: [  ]

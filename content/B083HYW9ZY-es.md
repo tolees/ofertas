@@ -5,7 +5,7 @@ date: 2020-03-07 18:51:40
 image: 'https://m.media-amazon.com/images/I/51PNs51xsdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HYW9ZY-es K9CK Luces LED para Technic Todoterreno Radical 4 x 4...'
 sku: 'B083HYW9ZY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-21 21:07:30
 image: 'https://m.media-amazon.com/images/I/41PMTU-Q-CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KT45DTL-es Mini Altavoz con Forma de Coche Colorido LED Luz de Flash...'
 sku: 'B07KT45DTL-es'
 tags: [  ]

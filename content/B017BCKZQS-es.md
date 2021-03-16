@@ -5,7 +5,7 @@ date: 2020-05-05 17:31:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Icxtxrg-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017BCKZQS-es Max Factor Creme Puff Blush Colorete Tono 20 Lavish Mauve...'
 sku: 'B017BCKZQS-es'
 tags: [  ]

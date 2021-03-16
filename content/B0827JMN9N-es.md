@@ -5,7 +5,7 @@ date: 2020-01-14 16:56:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51vGmaWSBSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0827JMN9N-es HGDGears Botella de Agua de Acero Inoxidable Botella...'
 sku: 'B0827JMN9N-es'
 tags: [  ]

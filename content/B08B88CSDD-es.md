@@ -5,7 +5,7 @@ date: 2020-10-03 08:54:05
 image: 'https://m.media-amazon.com/images/I/41zGot2TieL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B88CSDD-es Kikc Rollos al Vacio para Bolsa de vacío Adecuada para...'
 sku: 'B08B88CSDD-es'
 tags: [  ]

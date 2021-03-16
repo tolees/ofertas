@@ -5,7 +5,7 @@ date: 2020-05-26 11:22:31
 image: 'https://m.media-amazon.com/images/I/41McCif7KrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086M56BHS-es Oihxse Funda para Huawei Honor V10 Lite/8X Transparente...'
 sku: 'B086M56BHS-es'
 tags: [  ]

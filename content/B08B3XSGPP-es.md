@@ -5,7 +5,7 @@ date: 2020-06-20 09:46:32
 image: 'https://m.media-amazon.com/images/I/41SvfoXNCsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3XSGPP-es Donci Termómetro de Interior Medidor de Humedad LCD...'
 sku: 'B08B3XSGPP-es'
 tags: [  ]

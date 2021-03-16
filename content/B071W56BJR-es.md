@@ -5,7 +5,7 @@ date: 2020-04-13 00:34:01
 image: 'https://m.media-amazon.com/images/I/51KoZT4PGnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071W56BJR-es Premium Whisky Stones Gift Set de Amerigo- ¿Aguar tu...'
 sku: 'B071W56BJR-es'
 tags: [  ]

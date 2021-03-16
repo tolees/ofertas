@@ -5,7 +5,7 @@ date: 2020-08-21 07:53:17
 image: 'https://m.media-amazon.com/images/I/412jvhmMHVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0716YMYY4-es adidas Cloudfoam Ultimate Zapatillas para Hombre Negro...'
 sku: 'B0716YMYY4-es'
 tags: [  ]

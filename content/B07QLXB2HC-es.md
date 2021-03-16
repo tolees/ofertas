@@ -5,7 +5,7 @@ date: 2020-10-09 03:08:54
 image: 'https://m.media-amazon.com/images/I/51BRSVlNhzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLXB2HC-es BERSIGAR 100 medidor de Resistencia al Agua Reloj...'
 sku: 'B07QLXB2HC-es'
 tags: [  ]

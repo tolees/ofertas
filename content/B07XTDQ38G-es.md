@@ -5,7 +5,7 @@ date: 2020-05-30 14:28:22
 image: 'https://m.media-amazon.com/images/I/41JEo8-MHVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTDQ38G-es Bolsas de Aseo Transparente Opret 2 Pcs Neceser de Viaje...'
 sku: 'B07XTDQ38G-es'
 tags: [  ]

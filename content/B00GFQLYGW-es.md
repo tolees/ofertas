@@ -5,7 +5,7 @@ date: 2020-08-28 11:44:14
 image: 'https://m.media-amazon.com/images/I/41OyBNbg40L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GFQLYGW-es Bosch Home and Garden 0600833101 Bosch Tijera Jardín ISIO...'
 sku: 'B00GFQLYGW-es'
 tags: [  ]

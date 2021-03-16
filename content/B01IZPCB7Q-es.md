@@ -5,7 +5,7 @@ date: 2020-02-14 20:43:29
 image: 'https://m.media-amazon.com/images/I/31RYj7vVrdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IZPCB7Q-es Philips myGarden Harvest - Aplique negro bombillas no...'
 sku: 'B01IZPCB7Q-es'
 tags: [  ]

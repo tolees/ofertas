@@ -5,7 +5,7 @@ date: 2020-02-14 02:39:11
 image: 'https://m.media-amazon.com/images/I/31r-UhTrEqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFQKGTN-es PUMA ESS Sweat TR cl Pants Mujer Negro Cotton Black XL'
 sku: 'B07DFQKGTN-es'
 tags: [  ]

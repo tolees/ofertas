@@ -5,7 +5,7 @@ date: 2020-06-11 13:41:55
 image: 'https://m.media-amazon.com/images/I/41RkM8u+kiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXBGFM4-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15...'
 sku: 'B07SXBGFM4-es'
 tags: [  ]

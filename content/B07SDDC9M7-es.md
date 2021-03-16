@@ -5,7 +5,7 @@ date: 2020-08-08 19:31:35
 image: 'https://m.media-amazon.com/images/I/31FwVRes-WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDDC9M7-es Zinmuwa Mujer Pendientes Bola Colgante Perla Artificial...'
 sku: 'B07SDDC9M7-es'
 tags: [  ]

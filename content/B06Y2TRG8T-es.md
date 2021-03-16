@@ -5,7 +5,7 @@ date: 2020-04-29 17:33:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2TRG8T-es New Balance 574 Core Zapatillas Hombre Rojo Burgundy 40 EU...'
 sku: 'B06Y2TRG8T-es'
 tags: [  ]

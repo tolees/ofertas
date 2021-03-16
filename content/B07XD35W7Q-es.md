@@ -5,7 +5,7 @@ date: 2020-03-01 16:34:36
 image: 'https://m.media-amazon.com/images/I/41IPJpSvhIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD35W7Q-es HOMCOM Chimenea Eléctrica de Pie Movible y Decorativo...'
 sku: 'B07XD35W7Q-es'
 tags: [  ]

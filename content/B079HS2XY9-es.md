@@ -5,7 +5,7 @@ date: 2020-02-11 15:55:51
 image: 'https://m.media-amazon.com/images/I/51XqwzQsN3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079HS2XY9-es El Reloj de Niños de Vinmori Reloj de Cuarzo con Dibujos...'
 sku: 'B079HS2XY9-es'
 tags: [  ]

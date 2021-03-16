@@ -5,7 +5,7 @@ date: 2020-04-07 22:01:16
 image: 'https://m.media-amazon.com/images/I/51m47QluRjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRZSVLZ-es SOONAN Herramientas de reparación de Correas Profesional...'
 sku: 'B07RRZSVLZ-es'
 tags: [  ]

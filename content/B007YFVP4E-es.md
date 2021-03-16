@@ -5,7 +5,7 @@ date: 2020-09-06 16:44:05
 image: 'https://m.media-amazon.com/images/I/31FNnrQ29hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007YFVP4E-es Faro Barcelona 70754 - AGRA Baliza bombilla incluida LED...'
 sku: 'B007YFVP4E-es'
 tags: [  ]

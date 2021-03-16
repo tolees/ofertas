@@ -5,7 +5,7 @@ date: 2020-01-20 08:44:33
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZNUXM5-es Resultado de la Mujer r121 F Soft Shell Liso Mujer Color...'
 sku: 'B01LZNUXM5-es'
 tags: [  ]

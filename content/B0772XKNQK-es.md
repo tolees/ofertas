@@ -5,7 +5,7 @@ date: 2020-06-26 11:21:32
 image: 'https://m.media-amazon.com/images/I/31G+0YcBVSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772XKNQK-es Columbia Silver Ridge II Pantalones de Senderismo...'
 sku: 'B0772XKNQK-es'
 tags: [  ]

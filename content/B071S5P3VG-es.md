@@ -5,7 +5,7 @@ date: 2020-01-27 07:44:12
 image: 'https://m.media-amazon.com/images/I/41Mux2CBAKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071S5P3VG-es Asics Kanmei Zapatillas Para Correr - AW17-47'
 sku: 'B071S5P3VG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 12:39:27
 image: 'https://m.media-amazon.com/images/I/41wKtJhICIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXLGRJX-es New Balance 373v2 Zapatillas para Mujer Marfil Off Cd2 36 EU'
 sku: 'B07RXLGRJX-es'
 tags: [  ]

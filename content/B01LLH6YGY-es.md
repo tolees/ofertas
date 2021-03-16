@@ -5,7 +5,7 @@ date: 2020-02-25 20:30:21
 image: 'https://m.media-amazon.com/images/I/51Q8vTfIykL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LLH6YGY-es Monix Mineral - Cacerola alta 24 cm aluminio forjado con...'
 sku: 'B01LLH6YGY-es'
 tags: [  ]

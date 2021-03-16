@@ -5,7 +5,7 @@ date: 2020-07-04 17:45:54
 image: 'https://m.media-amazon.com/images/I/51RUJXZfh1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZYRKJK5-es Queta 3Pcs Pulsera de Plata Pulsera para niña Kit de...'
 sku: 'B07ZYRKJK5-es'
 tags: [  ]

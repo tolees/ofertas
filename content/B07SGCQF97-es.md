@@ -5,7 +5,7 @@ date: 2020-05-28 07:29:02
 image: 'https://m.media-amazon.com/images/I/41pgWcwusFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGCQF97-es KEXIN 64GB Memoria USB 3.0 2 Pendrives de 64GB Alta...'
 sku: 'B07SGCQF97-es'
 tags: [  ]

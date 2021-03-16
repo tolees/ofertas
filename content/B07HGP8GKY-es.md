@@ -5,7 +5,7 @@ date: 2020-05-05 12:32:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3113daopcgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGP8GKY-es Adidas Continental 80 J Zapatillas de Deporte Unisex niño...'
 sku: 'B07HGP8GKY-es'
 tags: [  ]

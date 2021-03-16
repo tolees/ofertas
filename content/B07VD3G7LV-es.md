@@ -5,7 +5,7 @@ date: 2020-09-26 11:56:14
 image: 'https://m.media-amazon.com/images/I/31DIdclXkVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD3G7LV-es Calvin Klein CK Essential Tipping Slim Polo Blanco Bright...'
 sku: 'B07VD3G7LV-es'
 tags: [  ]

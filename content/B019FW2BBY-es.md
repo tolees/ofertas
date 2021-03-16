@@ -5,7 +5,7 @@ date: 2020-02-22 10:03:06
 image: 'https://m.media-amazon.com/images/I/51IcbnOXqML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019FW2BBY-es HEY JOE - Beard Oil Nº1 CLASSIC JOE 30ml | Aceite para...'
 sku: 'B019FW2BBY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-30 23:33:46
 image: 'https://m.media-amazon.com/images/I/41T0Ir8J-FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7SF67S-es Cif - Crema de limpieza - 750 ml - [Pack de 7]'
 sku: 'B01M7SF67S-es'
 tags: [  ]

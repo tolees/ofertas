@@ -5,7 +5,7 @@ date: 2020-08-30 17:12:12
 image: 'https://m.media-amazon.com/images/I/51jteRgyglL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NLEI9CS-es INCREÍBLE Serum Pestañas Crecimiento 8ml Suero De...'
 sku: 'B00NLEI9CS-es'
 tags: [  ]

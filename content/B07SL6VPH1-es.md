@@ -5,7 +5,7 @@ date: 2020-09-20 23:41:30
 image: 'https://m.media-amazon.com/images/I/31ypvdQX25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SL6VPH1-es Lacoste Chaymon 120 4 CMA Zapatillas para Hombre Blanco 41 EU'
 sku: 'B07SL6VPH1-es'
 tags: [  ]

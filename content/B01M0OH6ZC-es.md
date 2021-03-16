@@ -5,7 +5,7 @@ date: 2020-09-30 18:05:27
 image: 'https://m.media-amazon.com/images/I/41j5WK1xfZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0OH6ZC-es Panasonic RP-HF100E-A Auriculares Color Azul'
 sku: 'B01M0OH6ZC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 18:06:44
 image: 'https://m.media-amazon.com/images/I/51iF6EBvqmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPRDCTM-es RUNCCI-YUN 12-24 V Encendedor de Cigarrillos Plug DC 5521...'
 sku: 'B07PPRDCTM-es'
 tags: [  ]

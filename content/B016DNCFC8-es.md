@@ -5,7 +5,7 @@ date: 2020-09-27 13:48:31
 image: 'https://m.media-amazon.com/images/I/41VJ9x3A9zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016DNCFC8-es Electrolux EAT3300 Tostadora Love Your Day Collection 940...'
 sku: 'B016DNCFC8-es'
 tags: [  ]

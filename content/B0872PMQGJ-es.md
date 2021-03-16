@@ -5,7 +5,7 @@ date: 2020-04-19 15:40:34
 image: 'https://m.media-amazon.com/images/I/41VMlY6XYZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872PMQGJ-es Funda Transparente Compatible para Xiaomi Mi 8 Carcasa...'
 sku: 'B0872PMQGJ-es'
 tags: [  ]

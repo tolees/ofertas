@@ -5,7 +5,7 @@ date: 2020-04-28 02:01:54
 image: 'https://m.media-amazon.com/images/I/41jU9MrkYwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007TJCESQ-es Alessi | GAG02 Sbriciola Tabla de Cortar de Bambú con...'
 sku: 'B007TJCESQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 08:04:06
 image: 'https://m.media-amazon.com/images/I/51F8onOeVXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWCNJNG-es SUPORE Garmin Vivosmart HR Activity Tracker Correa de...'
 sku: 'B07GWCNJNG-es'
 tags: [  ]

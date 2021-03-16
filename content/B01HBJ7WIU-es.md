@@ -5,7 +5,7 @@ date: 2020-03-31 18:05:54
 image: 'https://m.media-amazon.com/images/I/51sE3XOH7hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HBJ7WIU-es Reloj para hombre Tommy Hilfiger 1791292 mecanismo de...'
 sku: 'B01HBJ7WIU-es'
 tags: [  ]

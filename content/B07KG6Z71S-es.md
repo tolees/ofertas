@@ -5,7 +5,7 @@ date: 2020-08-28 15:43:28
 image: 'https://m.media-amazon.com/images/I/411TpcPeJdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG6Z71S-es PUMA Ralph Sampson LO Zapatillas Deportivas Unisex Adulto...'
 sku: 'B07KG6Z71S-es'
 tags: [  ]

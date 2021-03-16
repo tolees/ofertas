@@ -5,7 +5,7 @@ date: 2020-04-05 13:31:13
 image: 'https://m.media-amazon.com/images/I/41TcGPhNTrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYMHGV6-es San Ignacio Q2837 Set 3 Piezas sartenes Ø20 Ø24 Ø28 cms...'
 sku: 'B07RYMHGV6-es'
 tags: [  ]

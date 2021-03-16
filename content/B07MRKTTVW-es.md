@@ -5,7 +5,7 @@ date: 2020-02-29 20:01:56
 image: 'https://m.media-amazon.com/images/I/41NTF82R+hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MRKTTVW-es United Colors of Benetton Colors B2 Pantalones Gris Grigio...'
 sku: 'B07MRKTTVW-es'
 tags: [  ]

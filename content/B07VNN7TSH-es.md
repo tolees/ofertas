@@ -5,7 +5,7 @@ date: 2020-08-09 19:09:05
 image: 'https://m.media-amazon.com/images/I/31x+0+Y2iVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNN7TSH-es Tommy Hilfiger Tommy Regular Polo Azul Sail Blue Small...'
 sku: 'B07VNN7TSH-es'
 tags: [  ]

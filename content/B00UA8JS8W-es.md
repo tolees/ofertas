@@ -5,7 +5,7 @@ date: 2020-01-23 04:05:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gvZMSftAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UA8JS8W-es Maybelline New York Dr.Rescue CC Nails Base Coat Esmalte...'
 sku: 'B00UA8JS8W-es'
 tags: [  ]

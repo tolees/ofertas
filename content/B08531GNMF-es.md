@@ -5,7 +5,7 @@ date: 2020-08-21 16:02:47
 image: 'https://m.media-amazon.com/images/I/31myxL3sitL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08531GNMF-es Kasimir Espejo Maquillaje con Luz LED Aumento 5X Espejo de...'
 sku: 'B08531GNMF-es'
 tags: [  ]

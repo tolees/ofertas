@@ -5,7 +5,7 @@ date: 2020-07-07 14:21:49
 image: 'https://m.media-amazon.com/images/I/51gpNqJQcnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P2LIKXG-es Gigandet G38-005 - Reloj para Mujeres Correa de Acero...'
 sku: 'B00P2LIKXG-es'
 tags: [  ]

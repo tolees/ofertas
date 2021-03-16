@@ -5,7 +5,7 @@ date: 2020-05-14 11:03:59
 image: 'https://m.media-amazon.com/images/I/51KgsOQt2kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYRV81C-es Telmu 10 x 42 Prismáticos con Prisma Superior BAK4 y Lente...'
 sku: 'B07PYRV81C-es'
 tags: [  ]

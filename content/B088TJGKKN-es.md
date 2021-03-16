@@ -5,7 +5,7 @@ date: 2020-06-21 12:46:06
 image: 'https://m.media-amazon.com/images/I/21fECMuRJnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TJGKKN-es HAPPY - 25 productos el efecto alcanza el 95% CE'
 sku: 'B088TJGKKN-es'
 tags: [  ]

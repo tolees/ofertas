@@ -5,7 +5,7 @@ date: 2020-06-14 18:22:24
 image: 'https://m.media-amazon.com/images/I/41VNMNIAuiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077NW3SR9-es AUSTOR 16 Piezas Ganchos de Pared Adhesivo Ganchos de...'
 sku: 'B077NW3SR9-es'
 tags: [  ]

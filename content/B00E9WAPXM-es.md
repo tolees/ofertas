@@ -5,7 +5,7 @@ date: 2020-01-27 07:04:41
 image: 'https://m.media-amazon.com/images/I/414ijfPzIWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E9WAPXM-es Bausch & Lomb - Biotrue One Day Esféricas - Lentes de...'
 sku: 'B00E9WAPXM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 00:08:47
 image: 'https://m.media-amazon.com/images/I/51S4CgKoijL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082H9PVQP-es ART VVIES mit Haken Leinwanddrucke Rose Ringed Sittich...'
 sku: 'B082H9PVQP-es'
 tags: [  ]

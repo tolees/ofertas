@@ -5,7 +5,7 @@ date: 2020-08-30 16:38:46
 image: 'https://m.media-amazon.com/images/I/310xKQVKFAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6L9FNG-es B Blesiya Unidad Disquete USB Externa Sfrm72-du26...'
 sku: 'B07L6L9FNG-es'
 tags: [  ]

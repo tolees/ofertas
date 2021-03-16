@@ -5,7 +5,7 @@ date: 2020-06-21 09:33:14
 image: 'https://m.media-amazon.com/images/I/41PNU1yGrvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WWM6S2R-es Mata insectos sobremesa por absorción con ventilador para...'
 sku: 'B06WWM6S2R-es'
 tags: [  ]

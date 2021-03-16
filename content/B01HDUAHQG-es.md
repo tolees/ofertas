@@ -5,7 +5,7 @@ date: 2020-07-16 16:50:05
 image: 'https://m.media-amazon.com/images/I/51glHp4SWhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HDUAHQG-es South Park: Retaguardia En Peligro - Collector s Edition'
 sku: 'B01HDUAHQG-es'
 tags: [  ]

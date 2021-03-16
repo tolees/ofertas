@@ -5,7 +5,7 @@ date: 2020-08-31 23:37:29
 image: 'https://m.media-amazon.com/images/I/51sYH6eNrxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S46HWRX-es Amzdeal Mesa de Luz Dibujo A3 Tablero de Luz con Brillo...'
 sku: 'B07S46HWRX-es'
 tags: [  ]

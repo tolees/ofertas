@@ -5,7 +5,7 @@ date: 2020-04-04 19:38:40
 image: 'https://m.media-amazon.com/images/I/51tUxIopPCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RGXK4N-es Adidas Response W Zapatillas de Trail Running para Mujer...'
 sku: 'B073RGXK4N-es'
 tags: [  ]

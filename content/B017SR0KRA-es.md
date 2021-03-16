@@ -5,7 +5,7 @@ date: 2020-07-18 16:18:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fu3FedwQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017SR0KRA-es Salomon Speedcross 4 GTX Zapatillas de Trail Running para...'
 sku: 'B017SR0KRA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-21 13:27:18
 image: 'https://m.media-amazon.com/images/I/51wHZdXSAyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719RYJ3V-es Di4 Jet Pressing 5b Centro de planchado con caldera de...'
 sku: 'B0719RYJ3V-es'
 tags: [  ]

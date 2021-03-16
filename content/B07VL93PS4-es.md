@@ -5,7 +5,7 @@ date: 2020-05-08 16:16:21
 image: 'https://m.media-amazon.com/images/I/41dDJAsFD9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VL93PS4-es ORICO 40W con 5 Cables USB Estación de Carga Inteligente...'
 sku: 'B07VL93PS4-es'
 tags: [  ]

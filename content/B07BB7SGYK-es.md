@@ -5,7 +5,7 @@ date: 2020-05-16 09:20:10
 image: 'https://m.media-amazon.com/images/I/51elmA04UEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB7SGYK-es Vaso Bambu 270 ML | Mickey Mouse - Disney - All Star'
 sku: 'B07BB7SGYK-es'
 tags: [  ]

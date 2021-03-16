@@ -5,7 +5,7 @@ date: 2020-08-21 03:15:02
 image: 'https://m.media-amazon.com/images/I/51Xj7Y36YwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CGRNBKG-es Colmanda Bolsa de Dulces de Dinosaurio 24pcs Bolsa de...'
 sku: 'B08CGRNBKG-es'
 tags: [  ]

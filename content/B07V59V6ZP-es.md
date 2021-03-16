@@ -5,7 +5,7 @@ date: 2020-07-06 18:55:16
 image: 'https://m.media-amazon.com/images/I/31mkyDOO0qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V59V6ZP-es Hurley M One&Only Hat Gorra Hombre Dark Grey S/M'
 sku: 'B07V59V6ZP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-05 09:01:39
 image: 'https://m.media-amazon.com/images/I/418qQp93RjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLYD9N9-es BaByliss C454E Tenacilla cónica de 13 a 25x140 mm todo...'
 sku: 'B07WLYD9N9-es'
 tags: [  ]

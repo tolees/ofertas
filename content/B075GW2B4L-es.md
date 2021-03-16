@@ -5,7 +5,7 @@ date: 2020-01-02 13:25:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51i%2B8H3J7LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GW2B4L-es Rastar - Coche teledirigido 1:18 AUDI R8 LMS Performance...'
 sku: 'B075GW2B4L-es'
 tags: [  ]

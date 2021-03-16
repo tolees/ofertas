@@ -5,7 +5,7 @@ date: 2020-04-17 09:40:46
 image: 'https://m.media-amazon.com/images/I/517ROJJ1BeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRBL929-es Hossom Organizadores para Coche 2 pcs Kick Mats de Coche...'
 sku: 'B07VRBL929-es'
 tags: [  ]

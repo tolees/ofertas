@@ -5,7 +5,7 @@ date: 2020-03-29 00:57:02
 image: 'https://m.media-amazon.com/images/I/31mkBARgjwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FNON4EM-es Biosilk Volumizing Therapy Root Lift - lacas para el...'
 sku: 'B00FNON4EM-es'
 tags: [  ]

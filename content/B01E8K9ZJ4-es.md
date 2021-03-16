@@ -5,7 +5,7 @@ date: 2020-07-08 13:18:18
 image: 'https://m.media-amazon.com/images/I/41h92VmNJoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E8K9ZJ4-es Ayotu Water-Safe Case for Kindle Paperwhite 2018 - PU...'
 sku: 'B01E8K9ZJ4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-24 08:46:41
 image: 'https://m.media-amazon.com/images/I/41ZULdSelmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZMXP5R-es Pepe Jeans London Dean Warm Zapatillas Altas para Mujer...'
 sku: 'B07MZMXP5R-es'
 tags: [  ]

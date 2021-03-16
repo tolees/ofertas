@@ -5,7 +5,7 @@ date: 2020-03-04 08:21:06
 image: 'https://m.media-amazon.com/images/I/41ez3CWYGCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLGDHTD-es Philips Avent SCD287/25 - Set de regalo natural unicornio...'
 sku: 'B07FLGDHTD-es'
 tags: [  ]

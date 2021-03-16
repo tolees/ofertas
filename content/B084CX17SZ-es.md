@@ -5,7 +5,7 @@ date: 2020-09-03 12:58:45
 image: 'https://m.media-amazon.com/images/I/4124ytueINL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084CX17SZ-es Mellerware Robot Aspirador City Move. 1400 Pa Tecnología...'
 sku: 'B084CX17SZ-es'
 tags: [  ]

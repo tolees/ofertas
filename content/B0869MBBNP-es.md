@@ -5,7 +5,7 @@ date: 2020-06-01 16:33:52
 image: 'https://m.media-amazon.com/images/I/41SjtLwvA1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0869MBBNP-es Suhctup Funda Compatible con Huawei P20 Lite Transparente...'
 sku: 'B0869MBBNP-es'
 tags: [  ]

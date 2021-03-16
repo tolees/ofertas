@@ -5,7 +5,7 @@ date: 2020-08-20 15:31:13
 image: 'https://m.media-amazon.com/images/I/51vNjwbxkVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZIRY2AE-es Liderpapel Greening - Papel Fotocopiadora A4 80 Gramos...'
 sku: 'B00ZIRY2AE-es'
 tags: [  ]

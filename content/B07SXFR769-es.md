@@ -5,7 +5,7 @@ date: 2020-07-10 06:47:54
 image: 'https://m.media-amazon.com/images/I/41MFvYsXzfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXFR769-es YMX BOXING Pelota Entrenamiento de Reflejos Boxeo - Banda...'
 sku: 'B07SXFR769-es'
 tags: [  ]

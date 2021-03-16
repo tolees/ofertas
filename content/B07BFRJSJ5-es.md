@@ -5,7 +5,7 @@ date: 2020-02-23 07:49:57
 image: 'https://m.media-amazon.com/images/I/51g6WXil9-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFRJSJ5-es Trust Ventu - Ventilador de refrigeración Color Violeta'
 sku: 'B07BFRJSJ5-es'
 tags: [  ]

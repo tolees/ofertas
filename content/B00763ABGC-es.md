@@ -5,7 +5,7 @@ date: 2020-04-17 07:40:36
 image: 'https://m.media-amazon.com/images/I/51LPbLK4rZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00763ABGC-es Rexona Desodorante Antitranspirante Crema Confidence 45Ml'
 sku: 'B00763ABGC-es'
 tags: [  ]

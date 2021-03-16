@@ -5,7 +5,7 @@ date: 2020-09-27 18:01:37
 image: 'https://m.media-amazon.com/images/I/51Pr6d3nd0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0768CPSTR-es Coche Cinturón De Seguridad Ajustador Cinturón de...'
 sku: 'B0768CPSTR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 22:02:29
 image: 'https://m.media-amazon.com/images/I/41W-dDxvanL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NFT5K7Q-es E-Vitta EVUN000298 - Funda con soporte para tablet de...'
 sku: 'B00NFT5K7Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 19:17:43
 image: 'https://m.media-amazon.com/images/I/3134JO3UTSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VRAJU12-es Revlon Super Lustrous Brillo Labial #243 Sizzling Coral'
 sku: 'B00VRAJU12-es'
 tags: [  ]

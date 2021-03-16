@@ -5,7 +5,7 @@ date: 2020-07-03 17:44:21
 image: 'https://m.media-amazon.com/images/I/41GlKNTzWUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3V57GX-es New Balance 500 Zapatillas Mujer Rosa Gw500Hha 39 EU'
 sku: 'B07S3V57GX-es'
 tags: [  ]

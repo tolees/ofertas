@@ -5,7 +5,7 @@ date: 2020-09-10 21:24:38
 image: 'https://m.media-amazon.com/images/I/41Q0vtga5RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B5NCMRE-es Superga 2750-cotmetu Zapatillas de Gimnasia para Mujer...'
 sku: 'B01B5NCMRE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 17:05:31
 image: 'https://m.media-amazon.com/images/I/41k0OJ+0EOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYLM8XJ-es Jian Ya Na - Funda de sofá Extensible de poliéster y...'
 sku: 'B07RYLM8XJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-18 14:12:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zP3car4uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFXGHJ5-es PUMA ST Activate Jr Zapatillas Unisex Niños Calypso Coral...'
 sku: 'B07KFXGHJ5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 13:19:40
 image: 'https://m.media-amazon.com/images/I/41A5ynij-IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRK3G-es Napapijri TALY 2 LS Polo Gris Med Grey Mel 160 L para Hombre'
 sku: 'B07MGFRK3G-es'
 tags: [  ]

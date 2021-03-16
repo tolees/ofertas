@@ -5,7 +5,7 @@ date: 2020-05-12 08:05:06
 image: 'https://m.media-amazon.com/images/I/51HkpZCCFNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CGCDQW4-es JBL Xtreme 2 - Altavoz BT portátil resistente al agua IPX7...'
 sku: 'B07CGCDQW4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-26 08:37:27
 image: 'https://m.media-amazon.com/images/I/31zF0KpCC9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDR65DX-es L Oreal Paris Elvive Arcilla Extraordinaria Champú Cuidado...'
 sku: 'B07QDR65DX-es'
 tags: [  ]

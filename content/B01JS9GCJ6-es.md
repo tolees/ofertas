@@ -5,7 +5,7 @@ date: 2020-05-09 18:28:26
 image: 'https://m.media-amazon.com/images/I/41IIIvJvIpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JS9GCJ6-es Chicco Ohlala - Silla de paseo ultraligera y compacta 3 8...'
 sku: 'B01JS9GCJ6-es'
 tags: [  ]

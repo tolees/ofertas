@@ -5,7 +5,7 @@ date: 2020-02-04 13:25:11
 image: 'https://m.media-amazon.com/images/I/41vmQe6uFYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKH9JLG-es J.Endéar Infinito Amor Amistad Cuerda Pulsera Regalo para...'
 sku: 'B07SKH9JLG-es'
 tags: [  ]

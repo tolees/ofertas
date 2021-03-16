@@ -5,7 +5,7 @@ date: 2020-10-06 12:19:12
 image: 'https://m.media-amazon.com/images/I/51BAPFIjWuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072Z2ZVZG-es Marvel- Figura de Vinilo Hela Multicolor Funko 13768'
 sku: 'B072Z2ZVZG-es'
 tags: [  ]

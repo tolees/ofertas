@@ -5,7 +5,7 @@ date: 2020-09-05 19:15:37
 image: 'https://m.media-amazon.com/images/I/41OAonzSRDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ESZ391K-es Rayen 6151.01 Funda para Tabla de Planchar Tejido de...'
 sku: 'B00ESZ391K-es'
 tags: [  ]

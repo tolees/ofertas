@@ -5,7 +5,7 @@ date: 2020-06-09 13:03:05
 image: 'https://m.media-amazon.com/images/I/41pUajeDceL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DRRIVOE-es Quantum Abacus Juego de Mesa magnético tamaño Compacto de...'
 sku: 'B01DRRIVOE-es'
 tags: [  ]

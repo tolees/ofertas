@@ -5,7 +5,7 @@ date: 2020-03-16 17:32:57
 image: 'https://m.media-amazon.com/images/I/410P6q6umtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8SWLGN-es StarVie PT17R Protector de Palas de Pádel Rojo Talla Única'
 sku: 'B07B8SWLGN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-14 12:29:43
 image: 'https://m.media-amazon.com/images/I/41xzInP3b4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVY4BQV-es AZDOME Arrancador de Coche Booster 800A 18000mAh...'
 sku: 'B07CVY4BQV-es'
 tags: [  ]

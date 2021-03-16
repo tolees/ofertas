@@ -5,7 +5,7 @@ date: 2020-08-10 16:20:34
 image: 'https://m.media-amazon.com/images/I/418UuEAuU5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZSYTTM-es Magicfun Mini Ventilador de Mano Ventilador USB de 3000mAh...'
 sku: 'B083ZSYTTM-es'
 tags: [  ]

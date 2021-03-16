@@ -5,7 +5,7 @@ date: 2020-01-08 11:09:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LyrIgwwRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYNGJ1-es PUMA Cali Wn s Zapatillas para Mujer Black-Teal Green 36 EU'
 sku: 'B07KFYNGJ1-es'
 tags: [  ]

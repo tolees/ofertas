@@ -5,7 +5,7 @@ date: 2020-05-28 13:13:51
 image: 'https://m.media-amazon.com/images/I/41D+p-DRgFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AKA0C58-es Eglo RAZONI Interior E27 60W Negro Blanco iluminación de...'
 sku: 'B00AKA0C58-es'
 tags: [  ]

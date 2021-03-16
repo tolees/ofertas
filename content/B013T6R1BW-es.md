@@ -5,7 +5,7 @@ date: 2020-06-15 02:15:13
 image: 'https://m.media-amazon.com/images/I/51FNoS8P3WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013T6R1BW-es PenDrive 8 GB 10 Piezas USB Flash Drives - Portátil Azul...'
 sku: 'B013T6R1BW-es'
 tags: [  ]

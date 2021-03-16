@@ -5,7 +5,7 @@ date: 2020-08-15 16:56:11
 image: 'https://m.media-amazon.com/images/I/41QyEdZRm+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VG2JLCK-es Tommy Hilfiger Corporate Belt 2.5 Cinturón Marrón Cognac...'
 sku: 'B07VG2JLCK-es'
 tags: [  ]

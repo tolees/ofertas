@@ -5,7 +5,7 @@ date: 2020-01-03 18:10:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QORUA0%2B8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYLM63Q-es TOPELEK Teclado y Raton Inálambrico con Tapa de Suspensión...'
 sku: 'B07DYLM63Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 10:10:52
 image: 'https://m.media-amazon.com/images/I/417qmRUJ4LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVR251Z-es XINFULUK Ratón inalámbrico de 2 4 GHz Ratón para Juegos...'
 sku: 'B08CVR251Z-es'
 tags: [  ]

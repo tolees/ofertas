@@ -5,7 +5,7 @@ date: 2020-02-16 20:14:56
 image: 'https://m.media-amazon.com/images/I/41Zd4S+OnRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJLDD86-es FREDI Cámara espía HD 1080P WiFi Cámara Videocámara Oculta...'
 sku: 'B07PJLDD86-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 07:19:24
 image: 'https://m.media-amazon.com/images/I/41g-CJ8fnJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQTM2JL-es Live At Woodstock'
 sku: 'B07SQTM2JL-es'
 tags: [  ]

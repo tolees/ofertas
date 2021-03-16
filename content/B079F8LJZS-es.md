@@ -5,7 +5,7 @@ date: 2020-06-14 17:47:17
 image: 'https://m.media-amazon.com/images/I/41Dcu7XhVrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079F8LJZS-es Vans Ward Zapatillas para Mujer Rosa Canvas/Sepia Rose Oln...'
 sku: 'B079F8LJZS-es'
 tags: [  ]

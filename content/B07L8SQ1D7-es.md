@@ -5,7 +5,7 @@ date: 2020-01-02 13:43:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Mkr3PLWQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8SQ1D7-es REPLAY M3967 .000.21842 Capucha Negro Black 98 X-Large...'
 sku: 'B07L8SQ1D7-es'
 tags: [  ]

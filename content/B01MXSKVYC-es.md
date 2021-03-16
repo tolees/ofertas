@@ -5,7 +5,7 @@ date: 2020-07-11 16:35:16
 image: 'https://m.media-amazon.com/images/I/41NRhzwsyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXSKVYC-es Reebok Club C 85 Zapatillas Hombre Negro Int / Black /...'
 sku: 'B01MXSKVYC-es'
 tags: [  ]

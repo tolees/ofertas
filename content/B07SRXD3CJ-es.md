@@ -5,7 +5,7 @@ date: 2020-07-15 05:57:50
 image: 'https://m.media-amazon.com/images/I/31Xmt-0CgzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRXD3CJ-es Lacoste 739CMA0011082 Zapatillas para Hombre Blanco 42 EU'
 sku: 'B07SRXD3CJ-es'
 tags: [  ]

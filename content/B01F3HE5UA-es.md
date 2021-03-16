@@ -5,7 +5,7 @@ date: 2020-08-20 11:22:36
 image: 'https://m.media-amazon.com/images/I/412HNsRM0hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F3HE5UA-es iEGrow Mini Ventiladores de Mano Ventilador Portátil USB...'
 sku: 'B01F3HE5UA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 22:41:08
 image: 'https://m.media-amazon.com/images/I/41-hAtfEXxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JF5XP9B-es Férula del Pulgar Muñequera de Neopreno Ajustable Pulgar...'
 sku: 'B07JF5XP9B-es'
 tags: [  ]

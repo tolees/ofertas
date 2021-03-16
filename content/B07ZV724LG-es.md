@@ -5,7 +5,7 @@ date: 2020-04-11 08:51:04
 image: 'https://m.media-amazon.com/images/I/31j55c5kCEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZV724LG-es HUMTUS Calentadores de Manos Recargables Cargador USB de...'
 sku: 'B07ZV724LG-es'
 tags: [  ]

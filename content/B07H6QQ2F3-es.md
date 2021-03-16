@@ -5,7 +5,7 @@ date: 2020-06-27 16:22:08
 image: 'https://m.media-amazon.com/images/I/41sWm8Pg02L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6QQ2F3-es HUGO Reloj Multiesfera para Hombre de Cuarzo con Correa en...'
 sku: 'B07H6QQ2F3-es'
 tags: [  ]

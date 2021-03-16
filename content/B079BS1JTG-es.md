@@ -5,7 +5,7 @@ date: 2020-03-10 11:06:29
 image: 'https://m.media-amazon.com/images/I/31e-xCmwKvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079BS1JTG-es JACK & JONES Jjepaulos Polo SS Noos Gris Light Grey...'
 sku: 'B079BS1JTG-es'
 tags: [  ]

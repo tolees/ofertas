@@ -5,7 +5,7 @@ date: 2020-03-22 11:58:03
 image: 'https://m.media-amazon.com/images/I/41g2wuseRoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018SH5TK2-es Reebok Royal Cl Jogger 2 Zapatillas de Running para Hombre...'
 sku: 'B018SH5TK2-es'
 tags: [  ]

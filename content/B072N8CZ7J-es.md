@@ -5,7 +5,7 @@ date: 2020-05-02 17:37:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4119glifvGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072N8CZ7J-es Funko Pop! - Figura de Vinilo Liz Sherman 22718'
 sku: 'B072N8CZ7J-es'
 tags: [  ]

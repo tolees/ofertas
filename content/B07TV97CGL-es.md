@@ -5,7 +5,7 @@ date: 2020-06-12 03:22:35
 image: 'https://m.media-amazon.com/images/I/51I8nmw50HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV97CGL-es 24x Cromo negro plateado Lámina impresa 2d PEGATINAS lisas...'
 sku: 'B07TV97CGL-es'
 tags: [  ]

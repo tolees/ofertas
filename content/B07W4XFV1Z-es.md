@@ -5,7 +5,7 @@ date: 2020-04-11 16:41:08
 image: 'https://m.media-amazon.com/images/I/41bKUbO9BIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4XFV1Z-es Craft Short Progress Longer Shorts Contrast'
 sku: 'B07W4XFV1Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-30 07:42:22
 image: 'https://m.media-amazon.com/images/I/41-a7w11wCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8PWSRF-es PUMA Smash v2 Zapatillas Unisex Adulto Verde Burnt Olive...'
 sku: 'B07S8PWSRF-es'
 tags: [  ]

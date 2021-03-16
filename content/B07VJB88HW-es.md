@@ -5,7 +5,7 @@ date: 2020-05-27 18:38:20
 image: 'https://m.media-amazon.com/images/I/41AkmnejdJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJB88HW-es Max Power Digital Funda para Xiaomi Mi 9 6.39" con Soporte...'
 sku: 'B07VJB88HW-es'
 tags: [  ]

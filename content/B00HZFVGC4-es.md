@@ -5,7 +5,7 @@ date: 2020-02-08 04:06:25
 image: 'https://m.media-amazon.com/images/I/51jYJW1xxLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HZFVGC4-es SHIMANO Adaptador SM-RTAD05 Center-Lock / 6 Agujeros 2016...'
 sku: 'B00HZFVGC4-es'
 tags: [  ]

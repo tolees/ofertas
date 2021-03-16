@@ -5,7 +5,7 @@ date: 2020-08-13 13:31:19
 image: 'https://m.media-amazon.com/images/I/41m0BApPopL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BXPS1W-es Slabo 2 x Protector de Pantalla blindado para Realme 6 Pro...'
 sku: 'B088BXPS1W-es'
 tags: [  ]

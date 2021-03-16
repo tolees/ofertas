@@ -5,7 +5,7 @@ date: 2020-03-04 12:20:12
 image: 'https://m.media-amazon.com/images/I/51TPJrXlD0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWD3CH1-es CESFONJER 26 Pcs Conector para Cable Coaxial RG59 RG6U...'
 sku: 'B07JWD3CH1-es'
 tags: [  ]

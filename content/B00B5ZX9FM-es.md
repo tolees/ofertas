@@ -5,7 +5,7 @@ date: 2020-03-02 14:40:39
 image: 'https://m.media-amazon.com/images/I/21GTrUbXtgL._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B5ZX9FM-es Audio-Technica AT2020USB - Micrófono Studio 20-20000 Hz...'
 sku: 'B00B5ZX9FM-es'
 tags: [  ]

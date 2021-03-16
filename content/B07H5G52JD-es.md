@@ -5,7 +5,7 @@ date: 2020-03-21 17:44:44
 image: 'https://m.media-amazon.com/images/I/31SJKk+lkyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5G52JD-es X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel...'
 sku: 'B07H5G52JD-es'
 tags: [  ]

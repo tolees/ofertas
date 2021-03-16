@@ -5,7 +5,7 @@ date: 2020-08-05 16:53:27
 image: 'https://m.media-amazon.com/images/I/41Rf5qcofLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMLGLW2-es Calvin Klein - Moulded Washbag Fundas de carnés Hombre...'
 sku: 'B07RMLGLW2-es'
 tags: [  ]

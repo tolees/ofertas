@@ -5,7 +5,7 @@ date: 2020-03-31 17:59:16
 image: 'https://m.media-amazon.com/images/I/31PTr0bdw2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T57KVV-es adidas X_PLR J Zapatillas Unisex Niños Blanco Footwear...'
 sku: 'B078T57KVV-es'
 tags: [  ]

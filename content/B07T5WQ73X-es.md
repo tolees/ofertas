@@ -5,7 +5,7 @@ date: 2020-01-15 09:12:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41797%2BD2YwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5WQ73X-es Nike Women s Revolution 4 Running Shoe Mujer Azul Half...'
 sku: 'B07T5WQ73X-es'
 tags: [  ]

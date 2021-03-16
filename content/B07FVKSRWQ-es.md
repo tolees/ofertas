@@ -5,7 +5,7 @@ date: 2020-09-21 21:14:29
 image: 'https://m.media-amazon.com/images/I/51k9OY4KOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FVKSRWQ-es Lotus Reloj para de Cuarzo con Correa en Acero Inoxidable...'
 sku: 'B07FVKSRWQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 10:01:16
 image: 'https://m.media-amazon.com/images/I/41xdgtYs-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DWX5HD-es Lorus Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B074DWX5HD-es'
 tags: [  ]

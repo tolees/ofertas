@@ -5,7 +5,7 @@ date: 2020-09-13 08:35:36
 image: 'https://m.media-amazon.com/images/I/51By08dxHlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDL8VBW-es Utawarerumono: ZAN - Unmasked Edition'
 sku: 'B07RDL8VBW-es'
 tags: [  ]

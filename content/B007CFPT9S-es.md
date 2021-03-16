@@ -5,7 +5,7 @@ date: 2020-09-11 08:09:34
 image: 'https://m.media-amazon.com/images/I/4139mJVlomL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007CFPT9S-es Superga 2750 Cotu Classic Zapatillas Unisex Rojo Dark...'
 sku: 'B007CFPT9S-es'
 tags: [  ]

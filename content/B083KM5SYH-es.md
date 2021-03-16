@@ -5,7 +5,7 @@ date: 2020-08-06 10:09:17
 image: 'https://m.media-amazon.com/images/I/51rd-mbUguL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KM5SYH-es Scholl Plantillas Gelactiv Profesional Mujer + Crema de...'
 sku: 'B083KM5SYH-es'
 tags: [  ]

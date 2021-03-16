@@ -5,7 +5,7 @@ date: 2020-05-13 08:49:03
 image: 'https://m.media-amazon.com/images/I/513+qQkI7DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2V9WW2-es Newseego Ajustador de Cinturón de Seguridad para el Coche...'
 sku: 'B07F2V9WW2-es'
 tags: [  ]

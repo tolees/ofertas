@@ -5,7 +5,7 @@ date: 2020-02-22 17:57:29
 image: 'https://m.media-amazon.com/images/I/21FBw4ne9IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002VYP5QW-es TP-LINK TL-ANT2408CL 2 4 GHz de Interior omnidireccional...'
 sku: 'B002VYP5QW-es'
 tags: [  ]

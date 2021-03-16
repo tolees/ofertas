@@ -5,7 +5,7 @@ date: 2020-07-22 13:25:01
 image: 'https://m.media-amazon.com/images/I/51xV6Mbu4tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MKJ7HK-es Bourjois Healthy Mix Powder Polvos Tono 02 Light beige /...'
 sku: 'B077MKJ7HK-es'
 tags: [  ]

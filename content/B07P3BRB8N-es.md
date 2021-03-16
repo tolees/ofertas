@@ -5,7 +5,7 @@ date: 2020-09-30 10:29:18
 image: 'https://m.media-amazon.com/images/I/31X7ths1bKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3BRB8N-es Lark & Ro Long Sleeve Mixed Lace Dress Azul Marino Oscuro...'
 sku: 'B07P3BRB8N-es'
 tags: [  ]

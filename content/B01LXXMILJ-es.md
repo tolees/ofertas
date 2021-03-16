@@ -5,7 +5,7 @@ date: 2020-01-21 22:51:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JFCuUkfJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXXMILJ-es InnoBeta Fountain Humidificador Ultrasónica 3 0Litro Bebé...'
 sku: 'B01LXXMILJ-es'
 tags: [  ]

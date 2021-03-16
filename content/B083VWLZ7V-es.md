@@ -5,7 +5,7 @@ date: 2020-05-28 07:48:07
 image: 'https://m.media-amazon.com/images/I/51TCkaLn5vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083VWLZ7V-es PULEN [3 Unidades] Protector de Pantalla Compatible con...'
 sku: 'B083VWLZ7V-es'
 tags: [  ]

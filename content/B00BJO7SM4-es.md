@@ -5,7 +5,7 @@ date: 2020-09-08 15:55:25
 image: 'https://m.media-amazon.com/images/I/41wcyYsroeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BJO7SM4-es Folat Guirnalda "Fanática del Fútbol" Ø 22 cm y longitud...'
 sku: 'B00BJO7SM4-es'
 tags: [  ]

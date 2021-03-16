@@ -5,7 +5,7 @@ date: 2020-09-14 18:36:15
 image: 'https://m.media-amazon.com/images/I/31LM7C67crL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NONWUL2-es Tommy Hilfiger New Denton Belt 4.0 Cinturón Marrón TESTA...'
 sku: 'B00NONWUL2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-26 16:34:12
 image: 'https://m.media-amazon.com/images/I/21G4LzMGdJL._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CKNJBX2-es Microsoft – Sculpt Mobile Mouse Inalámbrico Negro'
 sku: 'B00CKNJBX2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 23:26:04
 image: 'https://m.media-amazon.com/images/I/41dcXBAPdaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZP5ZPL-es BAITITON MSATA III Disco Duro sólido Interno de Estado...'
 sku: 'B08CZP5ZPL-es'
 tags: [  ]

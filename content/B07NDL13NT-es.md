@@ -5,7 +5,7 @@ date: 2020-07-13 10:50:49
 image: 'https://m.media-amazon.com/images/I/31itYCEQgCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL13NT-es HUAWEI 55030361 - Impresora portatil'
 sku: 'B07NDL13NT-es'
 tags: [  ]

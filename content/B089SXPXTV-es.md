@@ -5,7 +5,7 @@ date: 2020-07-08 16:27:33
 image: 'https://m.media-amazon.com/images/I/21E3cGhlL+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SXPXTV-es Faux Gemstones Naturales Colgante de Reiki Puntiagudo...'
 sku: 'B089SXPXTV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 22:06:04
 image: 'https://m.media-amazon.com/images/I/31Tlg9VZaKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001JIQQM8-es Goobay 51824 - Cable HDMI 1080p 3D 10 m negro'
 sku: 'B001JIQQM8-es'
 tags: [  ]

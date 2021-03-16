@@ -5,7 +5,7 @@ date: 2020-07-05 23:26:27
 image: 'https://m.media-amazon.com/images/I/41JGJAaPNLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3X42ZB-es New Balance 997H m Zapatillas para Mujer Gris Grey Hag 35 EU'
 sku: 'B07S3X42ZB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-11 17:40:40
 image: 'https://m.media-amazon.com/images/I/41b16hTnjUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D5RYB8-es Suhctup Funda Compatible para Xiaomi Mi MAX 3 Carcasa...'
 sku: 'B088D5RYB8-es'
 tags: [  ]

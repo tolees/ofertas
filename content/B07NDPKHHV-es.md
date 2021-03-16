@@ -5,7 +5,7 @@ date: 2020-05-28 12:40:08
 image: 'https://m.media-amazon.com/images/I/41KzlXg7GIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPKHHV-es MEDION X30 RGB - Ordenador de sobremesa gaming Intel Core...'
 sku: 'B07NDPKHHV-es'
 tags: [  ]

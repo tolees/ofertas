@@ -5,7 +5,7 @@ date: 2020-02-27 22:16:31
 image: 'https://m.media-amazon.com/images/I/41-qZkuSYzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCRXT6B-es TeléFono MóVil Con Botones Grandes Chshe ™ L8Star Bm10...'
 sku: 'B07TCRXT6B-es'
 tags: [  ]

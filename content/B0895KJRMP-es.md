@@ -5,7 +5,7 @@ date: 2020-06-01 10:05:07
 image: 'https://m.media-amazon.com/images/I/41kgbX-E4nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895KJRMP-es Car Styling Platinum Power Handle Volante Volante asistido...'
 sku: 'B0895KJRMP-es'
 tags: [  ]

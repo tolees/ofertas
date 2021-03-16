@@ -5,7 +5,7 @@ date: 2020-02-11 17:43:03
 image: 'https://m.media-amazon.com/images/I/41EDVQnF9YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N29D5PV-es Maleta de cabina rígida 55cm Movom Trafalgar Roja'
 sku: 'B07N29D5PV-es'
 tags: [  ]

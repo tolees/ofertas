@@ -5,7 +5,7 @@ date: 2020-04-07 22:17:20
 image: 'https://m.media-amazon.com/images/I/41enVNhK-vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZG14LS-es Adaptador de taladro de remachado multifuncional pistola...'
 sku: 'B085ZG14LS-es'
 tags: [  ]

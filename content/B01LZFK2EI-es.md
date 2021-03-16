@@ -5,7 +5,7 @@ date: 2020-01-29 18:40:59
 image: 'https://m.media-amazon.com/images/I/411UksfPe8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZFK2EI-es Cybex Silver Juno 2-Fix 517000959 Silla de Coche Grupo 1...'
 sku: 'B01LZFK2EI-es'
 tags: [  ]

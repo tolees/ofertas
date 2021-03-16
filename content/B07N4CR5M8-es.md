@@ -5,7 +5,7 @@ date: 2020-06-25 14:01:53
 image: 'https://m.media-amazon.com/images/I/41KYcIWktDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4CR5M8-es Kipling - City Pack Mochilas Mujer Multicolor Tile Print...'
 sku: 'B07N4CR5M8-es'
 tags: [  ]

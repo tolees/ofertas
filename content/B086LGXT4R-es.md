@@ -5,7 +5,7 @@ date: 2020-04-16 18:09:08
 image: 'https://m.media-amazon.com/images/I/51yxOVeAgrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086LGXT4R-es Burger de Wagyu con verduras y setas 2 x 125gr'
 sku: 'B086LGXT4R-es'
 tags: [  ]

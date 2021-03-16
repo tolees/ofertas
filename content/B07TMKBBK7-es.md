@@ -5,7 +5,7 @@ date: 2020-09-21 17:56:10
 image: 'https://m.media-amazon.com/images/I/412PqEg7rtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMKBBK7-es Bestway 91082 - Tucán Hinchable Minnie Mouse 207x150 cm'
 sku: 'B07TMKBBK7-es'
 tags: [  ]

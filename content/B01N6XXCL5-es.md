@@ -5,7 +5,7 @@ date: 2020-07-15 18:30:34
 image: 'https://m.media-amazon.com/images/I/51gaubcqVOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6XXCL5-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B01N6XXCL5-es'
 tags: [  ]

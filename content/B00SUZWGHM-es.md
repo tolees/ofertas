@@ -5,7 +5,7 @@ date: 2020-05-30 11:13:12
 image: 'https://m.media-amazon.com/images/I/41G6qN2dagL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SUZWGHM-es [Total 2Pcs] The Face Shop Rice Water Bright Cleansing Oil...'
 sku: 'B00SUZWGHM-es'
 tags: [  ]

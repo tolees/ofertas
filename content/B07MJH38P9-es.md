@@ -5,7 +5,7 @@ date: 2020-07-24 08:47:52
 image: 'https://m.media-amazon.com/images/I/31Soy822CnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJH38P9-es Birkenstock Rio Sandalia con Pulsera para Niñas Rosa Coral...'
 sku: 'B07MJH38P9-es'
 tags: [  ]

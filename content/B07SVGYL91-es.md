@@ -5,7 +5,7 @@ date: 2020-07-06 17:31:55
 image: 'https://m.media-amazon.com/images/I/41tyLpw5PdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVGYL91-es Fairy Taill & Glitter Fee 100 Unidades Mezcla Cristal...'
 sku: 'B07SVGYL91-es'
 tags: [  ]

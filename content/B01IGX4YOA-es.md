@@ -5,7 +5,7 @@ date: 2020-09-27 16:15:00
 image: 'https://m.media-amazon.com/images/I/51ilC3SHT8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IGX4YOA-es Vasos para beber 4 PACK-11OZ Restaurante de color acrílico...'
 sku: 'B01IGX4YOA-es'
 tags: [  ]

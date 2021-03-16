@@ -5,7 +5,7 @@ date: 2020-04-30 21:08:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yKag0b51L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDGGF9-es HIKARO Pantalones Jogger Hombre Verde Khaki 50 Talla del...'
 sku: 'B077YDGGF9-es'
 tags: [  ]

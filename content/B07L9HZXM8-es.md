@@ -5,7 +5,7 @@ date: 2020-01-23 17:55:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ck-NC05RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9HZXM8-es Under Armour Qualifier Camo Half Zip Parte Superior del...'
 sku: 'B07L9HZXM8-es'
 tags: [  ]

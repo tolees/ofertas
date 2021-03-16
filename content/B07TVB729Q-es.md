@@ -5,7 +5,7 @@ date: 2020-08-27 13:15:48
 image: 'https://m.media-amazon.com/images/I/41xo-J5kr+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVB729Q-es Funda con Teclado Español Ñ para Samsung Galaxy Tab A 10.1...'
 sku: 'B07TVB729Q-es'
 tags: [  ]

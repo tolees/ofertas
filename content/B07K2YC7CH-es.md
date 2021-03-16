@@ -5,7 +5,7 @@ date: 2020-06-01 18:41:25
 image: 'https://m.media-amazon.com/images/I/51AxVt30M6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2YC7CH-es Ergocar Creativo Lindo Dibujos Animados Organizador del...'
 sku: 'B07K2YC7CH-es'
 tags: [  ]

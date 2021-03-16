@@ -5,7 +5,7 @@ date: 2020-10-11 07:45:35
 image: 'https://m.media-amazon.com/images/I/41p6KndENyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JCKBCDQ-es Tarjeta Micro SD 1024GB de alta velocidad Clase 10 Micro...'
 sku: 'B08JCKBCDQ-es'
 tags: [  ]

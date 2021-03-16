@@ -5,7 +5,7 @@ date: 2020-09-12 13:18:59
 image: 'https://m.media-amazon.com/images/I/31j-CJ2uQDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PVE6C34-es D-Link DAP-1330 - Repetidor WiFi / amplificador de red...'
 sku: 'B00PVE6C34-es'
 tags: [  ]

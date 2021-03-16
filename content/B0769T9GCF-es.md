@@ -5,7 +5,7 @@ date: 2020-05-10 19:37:13
 image: 'https://m.media-amazon.com/images/I/51UD9Jkf4zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0769T9GCF-es B Blesiya 48pcs Topper Vintage Cupcake Flor Fairy Cowboy...'
 sku: 'B0769T9GCF-es'
 tags: [  ]

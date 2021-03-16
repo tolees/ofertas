@@ -5,7 +5,7 @@ date: 2020-05-31 07:13:18
 image: 'https://m.media-amazon.com/images/I/51XjMzoMbGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WYPJSD5-es Juego de Ganzúas 30 Piezas + 3 Candados Transparentes para...'
 sku: 'B07WYPJSD5-es'
 tags: [  ]

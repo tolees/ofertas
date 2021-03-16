@@ -5,7 +5,7 @@ date: 2020-01-06 09:16:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EcAhnpS8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDGVPMJ-es adidas All Me 3-Stripes Sujetador Deportivo Mujer Negro...'
 sku: 'B07GDGVPMJ-es'
 tags: [  ]

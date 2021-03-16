@@ -5,7 +5,7 @@ date: 2020-05-26 15:41:02
 image: 'https://m.media-amazon.com/images/I/41Y5SRTWVZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088THLGZB-es LNIEGE Forma del Contorno de la duplicadora Perfil de...'
 sku: 'B088THLGZB-es'
 tags: [  ]

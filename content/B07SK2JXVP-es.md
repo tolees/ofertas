@@ -5,7 +5,7 @@ date: 2020-07-25 07:21:23
 image: 'https://m.media-amazon.com/images/I/41L1Hvr6JQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK2JXVP-es Levi s Woodward Zapatillas para Hombre Marrón Medium Brown...'
 sku: 'B07SK2JXVP-es'
 tags: [  ]

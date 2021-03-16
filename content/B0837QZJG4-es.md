@@ -5,7 +5,7 @@ date: 2020-03-24 04:59:08
 image: 'https://m.media-amazon.com/images/I/41M3PKCbhkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0837QZJG4-es Auriculares Bluetooth Auriculares inalámbricos Mini TWS...'
 sku: 'B0837QZJG4-es'
 tags: [  ]

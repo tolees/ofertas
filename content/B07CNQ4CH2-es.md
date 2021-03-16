@@ -5,7 +5,7 @@ date: 2020-01-21 20:47:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qHd3ZWH-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNQ4CH2-es Linterna LED Recargable Zoomable Ajustable Linterna -...'
 sku: 'B07CNQ4CH2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 18:06:50
 image: 'https://m.media-amazon.com/images/I/31Z8DkfLj-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BLKUQK2-es Vans Atwood Sneaker para Hombre Negro Black/White Canvas...'
 sku: 'B00BLKUQK2-es'
 tags: [  ]

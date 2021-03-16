@@ -5,7 +5,7 @@ date: 2020-01-23 10:40:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdkJD9JwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG1X6MM-es New Balance 574v2 Zapatillas para Mujer Rosa Pink/Blue...'
 sku: 'B07HG1X6MM-es'
 tags: [  ]

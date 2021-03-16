@@ -5,7 +5,7 @@ date: 2020-03-14 19:26:57
 image: 'https://m.media-amazon.com/images/I/512Lu1qvZsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R42RG4T-es kitteny Juegos Suelo Juego de Piso Familiar Tapete de...'
 sku: 'B07R42RG4T-es'
 tags: [  ]

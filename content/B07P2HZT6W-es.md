@@ -5,7 +5,7 @@ date: 2020-01-02 22:45:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31pqrby7JsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2HZT6W-es Reebok Royal Glide LX Zapatillas de Trail Running para...'
 sku: 'B07P2HZT6W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-22 07:15:59
 image: 'https://m.media-amazon.com/images/I/31YS7JWZjfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009SLBFS8-es Lindam Easy Fit Plus Deluxe - Barrera de Seguridad Blanco...'
 sku: 'B009SLBFS8-es'
 tags: [  ]

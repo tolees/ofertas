@@ -5,7 +5,7 @@ date: 2020-04-28 08:12:05
 image: 'https://m.media-amazon.com/images/I/417XBsjbVqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0784YVRSR-es Reebok Workout Plus Zapatillas de Deporte para Niños...'
 sku: 'B0784YVRSR-es'
 tags: [  ]

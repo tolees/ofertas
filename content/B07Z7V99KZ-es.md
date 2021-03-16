@@ -5,7 +5,7 @@ date: 2020-07-04 19:03:40
 image: 'https://m.media-amazon.com/images/I/41zyCAI+lqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7V99KZ-es IXROAD Cámara Deportiva 4K WiFi 24MP Camara Acuatica...'
 sku: 'B07Z7V99KZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-29 09:32:12
 image: 'https://m.media-amazon.com/images/I/51Wll96HKbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXZYPXR-es Ferilinso Cristal Templado para Samsung Galaxy M20 A10S...'
 sku: 'B07NXZYPXR-es'
 tags: [  ]

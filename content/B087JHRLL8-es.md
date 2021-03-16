@@ -5,7 +5,7 @@ date: 2020-07-21 00:51:38
 image: 'https://m.media-amazon.com/images/I/51x8crNGo2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JHRLL8-es BACKTURE Bandas Elásticas de Resistencia 11Pcs Juego de...'
 sku: 'B087JHRLL8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-10 18:45:33
 image: 'https://m.media-amazon.com/images/I/41ST5y9MQcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087X6CHX3-es Suhctup Funda Transparent Compatible para Galaxy A8 Plus...'
 sku: 'B087X6CHX3-es'
 tags: [  ]

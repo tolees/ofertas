@@ -5,7 +5,7 @@ date: 2020-06-25 08:40:23
 image: 'https://m.media-amazon.com/images/I/41wU3uLuTqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0196KDZL0-es New Balance 577 Training h Zapatillas Deportivas para...'
 sku: 'B0196KDZL0-es'
 tags: [  ]

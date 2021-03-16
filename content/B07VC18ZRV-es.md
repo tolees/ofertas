@@ -5,7 +5,7 @@ date: 2020-04-04 10:52:19
 image: 'https://m.media-amazon.com/images/I/41+YdrPoVmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC18ZRV-es JACK & JONES Jcobase Sweat Hood Capucha Gris Light Grey...'
 sku: 'B07VC18ZRV-es'
 tags: [  ]

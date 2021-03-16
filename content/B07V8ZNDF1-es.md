@@ -5,7 +5,7 @@ date: 2020-03-27 11:39:54
 image: 'https://m.media-amazon.com/images/I/41Y-EM158uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8ZNDF1-es ASUS ROG Zephyrus G GA502DU-BQ015 - Portátil Gaming de 15...'
 sku: 'B07V8ZNDF1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 12:21:32
 image: 'https://m.media-amazon.com/images/I/31svl1mHKpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TKCTYRY-es Cashmere Dreams - Pañuelo de seda en un diseño único -...'
 sku: 'B00TKCTYRY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-26 06:32:09
 image: 'https://m.media-amazon.com/images/I/410YoyXQqmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CKLLHRW-es DeWalt DWST17888 - TSTAK Trolley'
 sku: 'B00CKLLHRW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 13:20:21
 image: 'https://m.media-amazon.com/images/I/31-uAFhID-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y1KXJWD-es Versa 18790696 Perchero de pie negro - Metal y madera...'
 sku: 'B06Y1KXJWD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 19:45:20
 image: 'https://m.media-amazon.com/images/I/31KeuyEyCwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSNZFB8-es Guess - Uptown Chic Barcelona Tote Mujer Negro Nero...'
 sku: 'B07GSNZFB8-es'
 tags: [  ]

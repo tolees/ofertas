@@ -5,7 +5,7 @@ date: 2020-08-24 12:54:29
 image: 'https://m.media-amazon.com/images/I/41MQRS7NV6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075F3G2KW-es EAU MY BB pack gel de baño y champú 200 ml + locion...'
 sku: 'B075F3G2KW-es'
 tags: [  ]

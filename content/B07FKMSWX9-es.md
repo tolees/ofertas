@@ -5,7 +5,7 @@ date: 2020-02-18 11:07:47
 image: 'https://m.media-amazon.com/images/I/315S5CC9LOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKMSWX9-es Joma Academy Chandal Caballero Hombre Royal/Marino 2XL'
 sku: 'B07FKMSWX9-es'
 tags: [  ]

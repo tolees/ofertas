@@ -5,7 +5,7 @@ date: 2020-09-12 18:53:30
 image: 'https://m.media-amazon.com/images/I/51aX+NJlR-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTNKZL4-es Vaultskin Eton Armour - Funda de cuero para iPhone 7 negro'
 sku: 'B01MTNKZL4-es'
 tags: [  ]

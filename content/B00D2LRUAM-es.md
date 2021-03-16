@@ -5,7 +5,7 @@ date: 2020-04-21 15:21:31
 image: 'https://m.media-amazon.com/images/I/31CZjcvhmpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D2LRUAM-es Levi s Limit Bufanda Unisex adulto Negro Black Talla única'
 sku: 'B00D2LRUAM-es'
 tags: [  ]

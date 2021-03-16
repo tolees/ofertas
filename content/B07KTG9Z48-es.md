@@ -5,7 +5,7 @@ date: 2020-03-10 17:40:50
 image: 'https://m.media-amazon.com/images/I/31RugnJq0YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTG9Z48-es Element N1WKA2 Pantalones Cortos Hombre marrón Bronco...'
 sku: 'B07KTG9Z48-es'
 tags: [  ]

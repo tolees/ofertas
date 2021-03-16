@@ -5,7 +5,7 @@ date: 2020-07-20 13:11:48
 image: 'https://m.media-amazon.com/images/I/31n42XZ4YtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5G4SYY-es Ureadin Gel De Baño Hidratante Sin Jabón Para Piel Seca -...'
 sku: 'B00J5G4SYY-es'
 tags: [  ]

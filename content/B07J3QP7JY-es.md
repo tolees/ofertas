@@ -5,7 +5,7 @@ date: 2020-02-10 18:20:08
 image: 'https://m.media-amazon.com/images/I/31Kjk-exxeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3QP7JY-es K-GOLEIRO 18'
 sku: 'B07J3QP7JY-es'
 tags: [  ]

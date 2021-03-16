@@ -5,7 +5,7 @@ date: 2020-05-06 07:57:49
 image: 'https://m.media-amazon.com/images/I/51GP4QC+I0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQPWW1V-es lenbest Mesa Coche para Niños Mesa para Niños en la...'
 sku: 'B07SQPWW1V-es'
 tags: [  ]

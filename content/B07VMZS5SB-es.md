@@ -5,7 +5,7 @@ date: 2020-02-24 19:15:49
 image: 'https://m.media-amazon.com/images/I/51v3877eyaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMZS5SB-es Electroestimulador Muscular Abdominales Cinturón...'
 sku: 'B07VMZS5SB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-06 13:38:49
 image: 'https://m.media-amazon.com/images/I/413xVqZyTGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLYWK5V-es Vans Ward Suede/Canvas Zapatillas para Hombre Verde Otw...'
 sku: 'B07TLYWK5V-es'
 tags: [  ]

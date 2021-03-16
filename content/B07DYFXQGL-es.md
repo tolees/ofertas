@@ -5,7 +5,7 @@ date: 2020-02-08 20:22:44
 image: 'https://m.media-amazon.com/images/I/41p8SDdJBsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYFXQGL-es Merrell Siren Edge Q2 Zapatillas de Senderismo para Mujer...'
 sku: 'B07DYFXQGL-es'
 tags: [  ]

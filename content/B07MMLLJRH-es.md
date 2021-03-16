@@ -5,7 +5,7 @@ date: 2020-01-15 17:44:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wLFBiEC5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLLJRH-es Napapijri TALY 2 LS Polo Rojo Red Scarlet R01 M para Hombre'
 sku: 'B07MMLLJRH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-19 10:02:05
 image: 'https://m.media-amazon.com/images/I/31m5WpuWOtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XVUQJ9M-es Orlane Crema diurna facial - 130 ml.'
 sku: 'B00XVUQJ9M-es'
 tags: [  ]

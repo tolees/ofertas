@@ -5,7 +5,7 @@ date: 2020-10-11 06:11:17
 image: 'https://m.media-amazon.com/images/I/41Xsl3900mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L1UNVEK-es Skechers Equalizer Persistent Zapatillas para Hombre Negro...'
 sku: 'B00L1UNVEK-es'
 tags: [  ]

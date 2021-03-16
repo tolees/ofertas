@@ -5,7 +5,7 @@ date: 2020-02-23 14:05:13
 image: 'https://m.media-amazon.com/images/I/61Xt1PjmwpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXJPGJV-es Barras Luminosas Hieha 200 Piezas Glow Sticks para Fiesta...'
 sku: 'B07YXJPGJV-es'
 tags: [  ]

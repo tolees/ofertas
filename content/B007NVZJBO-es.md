@@ -5,7 +5,7 @@ date: 2020-09-14 15:38:51
 image: 'https://m.media-amazon.com/images/I/31OyAVbKDnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007NVZJBO-es Curver Cubo decorado con pedal duo 30 L cubetas 10+18L...'
 sku: 'B007NVZJBO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-16 15:49:36
 image: 'https://m.media-amazon.com/images/I/41cDsTqzsgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y638HJZ-es Yenks Case compatible con Samsung Galaxy S6 Carcasa de...'
 sku: 'B07Y638HJZ-es'
 tags: [  ]

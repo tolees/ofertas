@@ -5,7 +5,7 @@ date: 2020-01-22 11:49:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Mpq%2BQN-XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTNXKBT-es Frozen Believe-Mochila 3D Pequeña'
 sku: 'B07ZTNXKBT-es'
 tags: [  ]

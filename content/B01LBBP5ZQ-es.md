@@ -5,7 +5,7 @@ date: 2020-04-18 02:17:31
 image: 'https://m.media-amazon.com/images/I/41gp3S7hteL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LBBP5ZQ-es Ribeira Proteina Natural - Pechuga de Pavo al natural - 1...'
 sku: 'B01LBBP5ZQ-es'
 tags: [  ]

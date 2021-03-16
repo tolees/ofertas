@@ -5,7 +5,7 @@ date: 2020-09-30 07:09:44
 image: 'https://m.media-amazon.com/images/I/41JbtrRjivL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAARLFE-es Signal - Pasta de dientes Protección Anticaries - Flúor...'
 sku: 'B00XAARLFE-es'
 tags: [  ]

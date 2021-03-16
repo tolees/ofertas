@@ -5,7 +5,7 @@ date: 2020-04-25 23:47:51
 image: 'https://m.media-amazon.com/images/I/412Le0oTjSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFY5PYM-es PUMA LQDCELL Optic Sheer Zapatillas de Running para Hombre...'
 sku: 'B07KFY5PYM-es'
 tags: [  ]

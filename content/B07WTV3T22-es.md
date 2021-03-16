@@ -5,7 +5,7 @@ date: 2020-08-30 08:47:16
 image: 'https://m.media-amazon.com/images/I/415MIekU9OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTV3T22-es 8GB Bluetooth 4.1 MP4 Reproductor con Pantalla TFT de 1.8...'
 sku: 'B07WTV3T22-es'
 tags: [  ]

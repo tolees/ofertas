@@ -5,7 +5,7 @@ date: 2020-04-24 11:07:26
 image: 'https://m.media-amazon.com/images/I/41CYtnqxk4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085T1FZ6V-es Acoolir Ventilador sin Aspas Silencioso de Viento Natural...'
 sku: 'B085T1FZ6V-es'
 tags: [  ]

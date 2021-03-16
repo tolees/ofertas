@@ -5,7 +5,7 @@ date: 2020-02-04 09:38:44
 image: 'https://m.media-amazon.com/images/I/2175NOOvQsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C1CVMSY-es Logitech B100 Ratón con Cable 3 Botones Seguimiento Óptico...'
 sku: 'B00C1CVMSY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-10 09:05:28
 image: 'https://m.media-amazon.com/images/I/41ct9rK5nAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088XZB3MJ-es ASICS Jolt 2 Sneaker Unisex-Child Hot Pink White 32.5 EU'
 sku: 'B088XZB3MJ-es'
 tags: [  ]

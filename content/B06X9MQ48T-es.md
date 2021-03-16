@@ -5,7 +5,7 @@ date: 2020-03-14 19:27:58
 image: 'https://m.media-amazon.com/images/I/41kPqN8nTrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9MQ48T-es Garnier Skin Active Rescue Mask - Mascarilla Reparadora de...'
 sku: 'B06X9MQ48T-es'
 tags: [  ]

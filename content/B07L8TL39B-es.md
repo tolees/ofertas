@@ -5,7 +5,7 @@ date: 2020-07-18 19:02:51
 image: 'https://m.media-amazon.com/images/I/51-EH86yAoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8TL39B-es RUNCCI-YUN potenciómetro 10k kit de potenciómetro rotativo...'
 sku: 'B07L8TL39B-es'
 tags: [  ]

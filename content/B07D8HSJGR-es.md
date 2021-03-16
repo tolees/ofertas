@@ -5,7 +5,7 @@ date: 2020-04-11 16:59:11
 image: 'https://m.media-amazon.com/images/I/51F0zA3C5zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8HSJGR-es Aigostar - Bombilla LED B5 T3 3U E27 9 W equivalente a 80...'
 sku: 'B07D8HSJGR-es'
 tags: [  ]

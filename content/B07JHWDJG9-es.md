@@ -5,7 +5,7 @@ date: 2020-06-22 17:23:14
 image: 'https://m.media-amazon.com/images/I/41rMoWv-JjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHWDJG9-es Columbia Ivo Trail Zapatillas para Hombre Gris Graphite...'
 sku: 'B07JHWDJG9-es'
 tags: [  ]

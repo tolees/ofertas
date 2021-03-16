@@ -5,7 +5,7 @@ date: 2020-09-23 18:10:45
 image: 'https://m.media-amazon.com/images/I/61CG-fQR+-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LX4RZT3-es PLAYMOBIL-Escaladores con Refugio Multicolor Sin...'
 sku: 'B01LX4RZT3-es'
 tags: [  ]

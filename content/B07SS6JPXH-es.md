@@ -5,7 +5,7 @@ date: 2020-03-04 19:49:54
 image: 'https://m.media-amazon.com/images/I/51QH8L6GTeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SS6JPXH-es Skin Scrubber Ultrasónico WOWGO Exfoliación Facial...'
 sku: 'B07SS6JPXH-es'
 tags: [  ]

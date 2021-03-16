@@ -5,7 +5,7 @@ date: 2020-03-04 19:51:13
 image: 'https://m.media-amazon.com/images/I/415zQsCM5-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005IEH4TI-es Bourjois Effect 3d Gloss Gloss Tono 23 Framboise magnific...'
 sku: 'B005IEH4TI-es'
 tags: [  ]

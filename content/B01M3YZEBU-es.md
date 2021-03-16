@@ -5,7 +5,7 @@ date: 2020-03-04 06:23:24
 image: 'https://m.media-amazon.com/images/I/51qm+3pxAcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3YZEBU-es POP! Vinilo - Games: Mass Effect Andromeda: Liam Kosta'
 sku: 'B01M3YZEBU-es'
 tags: [  ]

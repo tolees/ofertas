@@ -5,7 +5,7 @@ date: 2020-02-06 06:03:57
 image: 'https://m.media-amazon.com/images/I/51bSUZbPXrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JH3MFT-es Fujifilm X-E3 - Cuerpo de cámara EVIL de 24.3 MP color negro'
 sku: 'B075JH3MFT-es'
 tags: [  ]

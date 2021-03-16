@@ -5,7 +5,7 @@ date: 2020-07-12 11:30:28
 image: 'https://m.media-amazon.com/images/I/41TjoWTRVvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M963NNR-es Wrangler HIGH RISE SKINNY Jeans Azul Mid Indigo X8e 26W /...'
 sku: 'B07M963NNR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 07:07:45
 image: 'https://m.media-amazon.com/images/I/41OraI3idcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWNKXTK-es Under Armour UA GS Assert 8 Zapatillas de Running Unisex...'
 sku: 'B07PWNKXTK-es'
 tags: [  ]

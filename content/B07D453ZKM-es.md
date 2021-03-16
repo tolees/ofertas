@@ -5,7 +5,7 @@ date: 2020-07-16 22:29:10
 image: 'https://m.media-amazon.com/images/I/31KHZFXTgNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D453ZKM-es Rimmel London Stay Satin Liquid Lip Colour Pintalabios...'
 sku: 'B07D453ZKM-es'
 tags: [  ]

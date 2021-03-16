@@ -5,7 +5,7 @@ date: 2020-10-11 09:32:50
 image: 'https://m.media-amazon.com/images/I/41H3OCIN-ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XBO3O2S-es Mars Gaming MKHA1 - Teclado gaming para PC respuesta...'
 sku: 'B00XBO3O2S-es'
 tags: [  ]

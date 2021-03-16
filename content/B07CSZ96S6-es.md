@@ -5,7 +5,7 @@ date: 2020-05-30 15:02:56
 image: 'https://m.media-amazon.com/images/I/51FF6dGN2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CSZ96S6-es D DOLITY Dados D20 de Acrílico 20 Caras para Juego de rol...'
 sku: 'B07CSZ96S6-es'
 tags: [  ]

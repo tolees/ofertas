@@ -5,7 +5,7 @@ date: 2020-06-28 11:07:58
 image: 'https://m.media-amazon.com/images/I/31bMwE1gGXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDQ2MML-es G-STAR RAW Lynn High Waist Skinny Mono Azul Deep Blue...'
 sku: 'B07NDQ2MML-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-12 05:04:41
 image: 'https://m.media-amazon.com/images/I/310+lQUqBML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW07SPT-es L Oréal Paris Barra De Labios Color Riche 641 Beige Boudo'
 sku: 'B01LW07SPT-es'
 tags: [  ]

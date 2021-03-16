@@ -5,7 +5,7 @@ date: 2020-01-09 14:22:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41catJUTltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ3PF9P-es Puma Icra Trainer SD Zapatillas Unisex adulto Azul...'
 sku: 'B07CZ3PF9P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 03:25:57
 image: 'https://m.media-amazon.com/images/I/4199v0jH7OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GIUROA-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
 sku: 'B000GIUROA-es'
 tags: [  ]

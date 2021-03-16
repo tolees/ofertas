@@ -5,7 +5,7 @@ date: 2020-04-15 00:38:28
 image: 'https://m.media-amazon.com/images/I/41BbuhwbS9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJYQNHK-es Digital Mini Timer Loud Alarm Clock Self Standing Magnetic...'
 sku: 'B07QJYQNHK-es'
 tags: [  ]

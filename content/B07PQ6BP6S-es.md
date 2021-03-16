@@ -5,7 +5,7 @@ date: 2020-06-06 13:33:45
 image: 'https://m.media-amazon.com/images/I/41e8RXtHerL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQ6BP6S-es NETVIP Receptor Bluetooth Adaptador Audio Inalámbrico Kit...'
 sku: 'B07PQ6BP6S-es'
 tags: [  ]

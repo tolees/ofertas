@@ -5,7 +5,7 @@ date: 2020-02-06 19:59:22
 image: 'https://m.media-amazon.com/images/I/41yg8I5bIKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N39DN9T-es QITAYO Funda Huawei P30 Lite de Tup Suave Carcasa...'
 sku: 'B07N39DN9T-es'
 tags: [  ]

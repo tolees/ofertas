@@ -5,7 +5,7 @@ date: 2020-04-07 22:03:54
 image: 'https://m.media-amazon.com/images/I/41rfFb7QWsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0855GGP1Z-es Office Ink Toner Reemplazo de cartuchos de tóner...'
 sku: 'B0855GGP1Z-es'
 tags: [  ]

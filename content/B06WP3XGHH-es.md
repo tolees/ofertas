@@ -5,7 +5,7 @@ date: 2019-12-31 15:25:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413Tcu%2BBjwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WP3XGHH-es find. Slip para Hombre Y-Front Pack de 5 Negro Black X5 Large'
 sku: 'B06WP3XGHH-es'
 tags: [  ]

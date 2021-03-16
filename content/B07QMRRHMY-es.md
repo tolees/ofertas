@@ -5,7 +5,7 @@ date: 2020-09-18 09:13:53
 image: 'https://m.media-amazon.com/images/I/31RBr8doHdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMRRHMY-es DURAGADGET Cable De Audio Portátil Lenovo Ideapad...'
 sku: 'B07QMRRHMY-es'
 tags: [  ]

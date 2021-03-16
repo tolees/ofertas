@@ -5,7 +5,7 @@ date: 2020-01-22 18:23:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31fBPLU9vgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9W2SXX-es Garmin Vivosmart 4 Pulsera de Actividad Adultos Unisex...'
 sku: 'B07G9W2SXX-es'
 tags: [  ]

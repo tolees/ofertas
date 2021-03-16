@@ -5,7 +5,7 @@ date: 2020-01-30 14:36:19
 image: 'https://m.media-amazon.com/images/I/41kAgSi9tEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GF263WP-es Levi s 501 Short Long Pantalones Cortos Azul Blue Clue...'
 sku: 'B07GF263WP-es'
 tags: [  ]

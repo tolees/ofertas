@@ -5,7 +5,7 @@ date: 2020-02-10 09:40:08
 image: 'https://m.media-amazon.com/images/I/41GwczguRqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGW1D5N-es Primigi Ple 44001 Botas para Bebés Navy 4400100 18 EU'
 sku: 'B07NGW1D5N-es'
 tags: [  ]

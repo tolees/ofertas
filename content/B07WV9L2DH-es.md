@@ -5,7 +5,7 @@ date: 2020-04-16 18:13:54
 image: 'https://m.media-amazon.com/images/I/4147Z8gsZZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WV9L2DH-es BRIKSMAX Kit de Iluminación Led para Lego Ideas Mujeres de...'
 sku: 'B07WV9L2DH-es'
 tags: [  ]

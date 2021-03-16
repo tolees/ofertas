@@ -5,7 +5,7 @@ date: 2020-04-16 20:40:23
 image: 'https://m.media-amazon.com/images/I/41eI5HDYZQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6ZFQMM-es 8PCS/Set Multi-Purposes Car Wire Cable Holder Easy To...'
 sku: 'B07K6ZFQMM-es'
 tags: [  ]

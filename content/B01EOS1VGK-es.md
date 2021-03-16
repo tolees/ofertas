@@ -5,7 +5,7 @@ date: 2020-04-29 10:06:45
 image: 'https://m.media-amazon.com/images/I/41fsDbBuKGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EOS1VGK-es Skechers Flex Appeal 2.0 Break Free Zapatillas De Deporte...'
 sku: 'B01EOS1VGK-es'
 tags: [  ]

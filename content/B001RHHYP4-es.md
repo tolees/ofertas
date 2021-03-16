@@ -5,7 +5,7 @@ date: 2020-01-11 23:43:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31HuFbbvPXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001RHHYP4-es AIM - Alfombrilla Gaming Profesional Superficie de Tela...'
 sku: 'B001RHHYP4-es'
 tags: [  ]

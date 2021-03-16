@@ -5,7 +5,7 @@ date: 2020-04-17 07:57:19
 image: 'https://m.media-amazon.com/images/I/31DSo2Dj+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HVWJDP-es Withings Steel Reloj Unisex Adulto Negro/Silver 36 mm'
 sku: 'B072HVWJDP-es'
 tags: [  ]

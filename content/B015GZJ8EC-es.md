@@ -5,7 +5,7 @@ date: 2020-09-01 15:51:09
 image: 'https://m.media-amazon.com/images/I/41nQan1wxbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015GZJ8EC-es HoMedics BMSC-4600H-EU - Respaldo masajeador Shiatsu...'
 sku: 'B015GZJ8EC-es'
 tags: [  ]

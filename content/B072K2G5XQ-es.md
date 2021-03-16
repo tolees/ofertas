@@ -5,7 +5,7 @@ date: 2020-10-07 21:01:15
 image: 'https://m.media-amazon.com/images/I/4166LObQdHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K2G5XQ-es Philips SHQ1255TBK Auriculares para Deporte con Cable...'
 sku: 'B072K2G5XQ-es'
 tags: [  ]

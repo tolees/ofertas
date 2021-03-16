@@ -5,7 +5,7 @@ date: 2020-07-15 22:29:13
 image: 'https://m.media-amazon.com/images/I/31RBAEMp2PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2MSKR7-es Tommy Hilfiger - Th Modern Satchel Bolsos maletín Mujer...'
 sku: 'B07V2MSKR7-es'
 tags: [  ]

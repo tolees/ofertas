@@ -5,7 +5,7 @@ date: 2020-06-24 14:24:12
 image: 'https://m.media-amazon.com/images/I/41jfy+qPhfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHXS8XN-es New Balance 997H m Zapatillas para Mujer Blanco...'
 sku: 'B07DHXS8XN-es'
 tags: [  ]

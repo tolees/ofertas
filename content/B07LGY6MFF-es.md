@@ -5,7 +5,7 @@ date: 2020-02-25 13:34:31
 image: 'https://m.media-amazon.com/images/I/51T8S394gdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGY6MFF-es UMI. Essentials Marco para Fotos y Diplomas De pie o para...'
 sku: 'B07LGY6MFF-es'
 tags: [  ]

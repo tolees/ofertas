@@ -5,7 +5,7 @@ date: 2020-08-04 09:47:31
 image: 'https://m.media-amazon.com/images/I/41Sx-nY4VcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDNXM21-es American Tourister Sunside Spinner 68 Expandible 3.7 kg...'
 sku: 'B07BDNXM21-es'
 tags: [  ]

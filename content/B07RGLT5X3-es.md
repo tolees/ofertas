@@ -5,7 +5,7 @@ date: 2020-01-21 21:35:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qIBB%2BFYdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGLT5X3-es adidas Ultraboost S&l Zapatillas de Running para Hombre...'
 sku: 'B07RGLT5X3-es'
 tags: [  ]

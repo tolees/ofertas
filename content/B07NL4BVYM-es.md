@@ -5,7 +5,7 @@ date: 2020-04-10 09:55:26
 image: 'https://m.media-amazon.com/images/I/41f2Xos-4UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NL4BVYM-es Bombillas LED MR16 GU5.3 3000K Blanco Cálido AC/DC 12V 5W...'
 sku: 'B07NL4BVYM-es'
 tags: [  ]

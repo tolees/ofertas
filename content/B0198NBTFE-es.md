@@ -5,7 +5,7 @@ date: 2020-10-01 16:33:40
 image: 'https://m.media-amazon.com/images/I/41sruhhQjhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0198NBTFE-es HP Legend - Maletín para portátiles de hasta 15.6" negra'
 sku: 'B0198NBTFE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-23 18:39:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6SXGWF-es Funko Rugrats Pop Angelica Multicolor 35574'
 sku: 'B07J6SXGWF-es'
 tags: [  ]

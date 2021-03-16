@@ -5,7 +5,7 @@ date: 2020-04-19 16:32:29
 image: 'https://m.media-amazon.com/images/I/31sYsop6hlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B7ZHYLK-es Televes - Conector"f rapido" acodado blindado'
 sku: 'B00B7ZHYLK-es'
 tags: [  ]

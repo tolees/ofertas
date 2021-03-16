@@ -5,7 +5,7 @@ date: 2020-08-06 09:29:45
 image: 'https://m.media-amazon.com/images/I/41QOHYnM7PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQWV6HK-es Clarks Originals Boot Botas Desert Verde Dark Olive SDE...'
 sku: 'B07TQWV6HK-es'
 tags: [  ]

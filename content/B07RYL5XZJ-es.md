@@ -5,7 +5,7 @@ date: 2020-09-28 03:38:54
 image: 'https://m.media-amazon.com/images/I/41H8OgLTEmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYL5XZJ-es New Balance 574v2 Zapatillas para Mujer Morado Purple Saw...'
 sku: 'B07RYL5XZJ-es'
 tags: [  ]

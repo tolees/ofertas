@@ -5,7 +5,7 @@ date: 2020-03-29 12:01:56
 image: 'https://m.media-amazon.com/images/I/41DdLzax5rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYW76B8-es Lacoste Rc2012 Cinturón Azul Legion Blue 725 85 tamaño del...'
 sku: 'B07TYW76B8-es'
 tags: [  ]

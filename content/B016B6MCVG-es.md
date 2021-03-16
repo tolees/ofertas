@@ -5,7 +5,7 @@ date: 2020-02-02 06:53:42
 image: 'https://m.media-amazon.com/images/I/41oAfm3BUcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016B6MCVG-es Gant Cotton Pique Crew suéter Azul Evening Blue 433 Medium...'
 sku: 'B016B6MCVG-es'
 tags: [  ]

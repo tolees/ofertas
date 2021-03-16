@@ -5,7 +5,7 @@ date: 2020-05-13 20:40:15
 image: 'https://m.media-amazon.com/images/I/51-oOPnVqAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXL4GVT-es BtDuck - Funda de piel con tapa para Samsung Galaxy A5...'
 sku: 'B07GXL4GVT-es'
 tags: [  ]

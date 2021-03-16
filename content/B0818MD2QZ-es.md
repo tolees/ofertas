@@ -5,7 +5,7 @@ date: 2020-08-16 22:02:09
 image: 'https://m.media-amazon.com/images/I/51VgxO96jiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0818MD2QZ-es BEE’S TREND Bee Wrap Envoltorio Cera Abejas Reutilizable -...'
 sku: 'B0818MD2QZ-es'
 tags: [  ]

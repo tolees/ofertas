@@ -5,7 +5,7 @@ date: 2020-01-10 17:12:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31rHpacNNzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZX86Y6-es adidas W C90 Tight Tights Mujer Black/White M/S'
 sku: 'B07SZX86Y6-es'
 tags: [  ]

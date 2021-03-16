@@ -5,7 +5,7 @@ date: 2020-06-26 14:32:52
 image: 'https://m.media-amazon.com/images/I/51jtLoEne2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B4XNPXF-es Clip de cinturón de diseño liviano para un Uso fácil Mini...'
 sku: 'B08B4XNPXF-es'
 tags: [  ]

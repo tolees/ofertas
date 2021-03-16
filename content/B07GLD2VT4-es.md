@@ -5,7 +5,7 @@ date: 2020-04-16 18:08:00
 image: 'https://m.media-amazon.com/images/I/51Hv7CFrQNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLD2VT4-es Té Yunnan Puerh 100g 0.22LB conservas Jazmín Puer pequeño...'
 sku: 'B07GLD2VT4-es'
 tags: [  ]

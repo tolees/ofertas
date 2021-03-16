@@ -5,7 +5,7 @@ date: 2020-08-05 17:09:32
 image: 'https://m.media-amazon.com/images/I/41ZcBqqL41L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RR79J3Q-es Aozzy PVC Aislante Ajustable para Ventanas Correderas...'
 sku: 'B07RR79J3Q-es'
 tags: [  ]

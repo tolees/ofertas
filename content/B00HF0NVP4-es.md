@@ -5,7 +5,7 @@ date: 2020-09-18 19:51:48
 image: 'https://m.media-amazon.com/images/I/416Eh4s+h-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HF0NVP4-es WMF Profi Plus - Sartén con tapa cromargan 18/10 acero...'
 sku: 'B00HF0NVP4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-11 07:30:56
 image: 'https://m.media-amazon.com/images/I/51Od9r8H-BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083V2GNY8-es Buyger 2 en 1 Maletin Medicos Juguete Doctora Enfermeras...'
 sku: 'B083V2GNY8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 09:03:16
 image: 'https://m.media-amazon.com/images/I/517bmLxXSLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WCW7FD5-es Corrector de Postura - Corrector de Espalda - Corrector...'
 sku: 'B07WCW7FD5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 07:50:35
 image: 'https://m.media-amazon.com/images/I/410WD0lybXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002CIR4CK-es Suunto Core - Reloj de exterior para todas las altitudes...'
 sku: 'B002CIR4CK-es'
 tags: [  ]

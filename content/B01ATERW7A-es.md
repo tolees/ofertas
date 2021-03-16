@@ -5,7 +5,7 @@ date: 2020-10-01 06:56:59
 image: 'https://m.media-amazon.com/images/I/416sahfdDqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ATERW7A-es The North Face Exploration CNVRT Pantalones Convertibles...'
 sku: 'B01ATERW7A-es'
 tags: [  ]

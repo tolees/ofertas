@@ -5,7 +5,7 @@ date: 2020-09-09 13:43:19
 image: 'https://m.media-amazon.com/images/I/41S8IiwYbnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L98KWZK-es Neutrogena Reparación Intensa Loción Corporal para Piel...'
 sku: 'B00L98KWZK-es'
 tags: [  ]

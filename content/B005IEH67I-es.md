@@ -5,7 +5,7 @@ date: 2020-05-31 09:33:40
 image: 'https://m.media-amazon.com/images/I/31jdENrUwnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005IEH67I-es Bourjois Healthy Mix Serum Base de Maquillaje Tono 53...'
 sku: 'B005IEH67I-es'
 tags: [  ]

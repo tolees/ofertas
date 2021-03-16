@@ -5,7 +5,7 @@ date: 2020-07-05 18:05:58
 image: 'https://m.media-amazon.com/images/I/41Ho+VwF9GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B69RPMX-es Nuevo 20PCS NE555P NE555 DIP-8 TEMPORIZADORES BIPOLARES...'
 sku: 'B08B69RPMX-es'
 tags: [  ]

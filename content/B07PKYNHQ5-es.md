@@ -5,7 +5,7 @@ date: 2020-05-16 20:31:41
 image: 'https://m.media-amazon.com/images/I/412jQFVYrkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKYNHQ5-es New Balance Fresh Foam Trail Roav Zapatillas de Running...'
 sku: 'B07PKYNHQ5-es'
 tags: [  ]

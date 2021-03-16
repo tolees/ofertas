@@ -5,7 +5,7 @@ date: 2020-06-24 07:01:57
 image: 'https://m.media-amazon.com/images/I/41NUZe-4ohL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TR4PYP5-es Cocoty-store Pantalones 2019 Hombre Pantalones Jogger...'
 sku: 'B07TR4PYP5-es'
 tags: [  ]

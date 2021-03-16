@@ -5,7 +5,7 @@ date: 2020-03-12 15:18:51
 image: 'https://m.media-amazon.com/images/I/41Lir0UKz2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4M3WQT-es Love MoschinoJc4253pp0aMujerShoppers y bolsos de...'
 sku: 'B07V4M3WQT-es'
 tags: [  ]

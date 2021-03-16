@@ -5,7 +5,7 @@ date: 2020-02-18 09:54:02
 image: 'https://m.media-amazon.com/images/I/41bUYh5sPAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EVPRYUY-es Calvin Klein underwear BOTTOMS UP - THONG - Ropa interior...'
 sku: 'B00EVPRYUY-es'
 tags: [  ]

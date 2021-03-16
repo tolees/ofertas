@@ -5,7 +5,7 @@ date: 2020-08-30 23:25:57
 image: 'https://m.media-amazon.com/images/I/31s8A0mHSnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y8MG1WH-es HICKIES Cordones Tie-free 2.0 Nuevos - Gris'
 sku: 'B06Y8MG1WH-es'
 tags: [  ]

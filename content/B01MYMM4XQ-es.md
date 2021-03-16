@@ -5,7 +5,7 @@ date: 2020-02-05 13:13:57
 image: 'https://m.media-amazon.com/images/I/213xyJdE56L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYMM4XQ-es L Oreal Paris Brow Artist Xpert Liner de Cejas Automático...'
 sku: 'B01MYMM4XQ-es'
 tags: [  ]

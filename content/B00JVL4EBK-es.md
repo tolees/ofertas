@@ -5,7 +5,7 @@ date: 2020-10-11 13:32:18
 image: 'https://m.media-amazon.com/images/I/41LjA8XXOZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JVL4EBK-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B00JVL4EBK-es'
 tags: [  ]

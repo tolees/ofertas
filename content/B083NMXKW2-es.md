@@ -5,7 +5,7 @@ date: 2020-05-14 15:05:35
 image: 'https://m.media-amazon.com/images/I/41YepEqFIUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NMXKW2-es LoveOlvido Suéter Peine Manual Cepillo de Ropa Bola de...'
 sku: 'B083NMXKW2-es'
 tags: [  ]

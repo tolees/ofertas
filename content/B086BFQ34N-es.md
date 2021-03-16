@@ -5,7 +5,7 @@ date: 2020-05-19 08:35:40
 image: 'https://m.media-amazon.com/images/I/41TZjUDFDLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086BFQ34N-es Oihxse Funda Compatible con Xiaomi Redmi GO/Redmi 5A...'
 sku: 'B086BFQ34N-es'
 tags: [  ]

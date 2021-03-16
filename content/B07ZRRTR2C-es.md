@@ -5,7 +5,7 @@ date: 2020-07-03 17:03:20
 image: 'https://m.media-amazon.com/images/I/41hdF8vta4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRRTR2C-es Suhctup Espejo Funda Reemplazo para Xiaomi Redmi 6A Caso...'
 sku: 'B07ZRRTR2C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 21:37:08
 image: 'https://m.media-amazon.com/images/I/41ssQXaQQiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F8IE64O-es Desodorante en barra antitranspirante Dove Plus Care. Para...'
 sku: 'B01F8IE64O-es'
 tags: [  ]

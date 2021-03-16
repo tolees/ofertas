@@ -5,7 +5,7 @@ date: 2020-05-06 10:04:57
 image: 'https://m.media-amazon.com/images/I/41OQrIcgNeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y39HK6D-es Soul Projekt x 10 Almohadillas desmaquillantes...'
 sku: 'B07Y39HK6D-es'
 tags: [  ]

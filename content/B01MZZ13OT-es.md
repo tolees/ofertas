@@ -5,7 +5,7 @@ date: 2020-06-18 14:44:01
 image: 'https://m.media-amazon.com/images/I/41ndMqIXL1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZZ13OT-es Tescoma Grandchef Grasera Acero Inoxidable Gris 13 5 x 9...'
 sku: 'B01MZZ13OT-es'
 tags: [  ]

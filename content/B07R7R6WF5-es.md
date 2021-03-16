@@ -5,7 +5,7 @@ date: 2020-04-23 19:02:30
 image: 'https://m.media-amazon.com/images/I/41E+JaY7vHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7R6WF5-es Hually Funda Carcasa Gel para Huawei P30 Lite Transparente...'
 sku: 'B07R7R6WF5-es'
 tags: [  ]

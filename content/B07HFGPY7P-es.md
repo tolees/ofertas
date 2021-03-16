@@ -5,7 +5,7 @@ date: 2020-04-25 14:52:16
 image: 'https://m.media-amazon.com/images/I/31q74I8G2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFGPY7P-es Cecotec Báscula de Baño Digital Surface Precision 9100...'
 sku: 'B07HFGPY7P-es'
 tags: [  ]

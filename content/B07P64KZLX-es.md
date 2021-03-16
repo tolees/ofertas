@@ -5,7 +5,7 @@ date: 2020-07-01 11:02:50
 image: 'https://m.media-amazon.com/images/I/51e-QRo1NwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P64KZLX-es Lexar Tarjeta Lexar Professional 633x 1TB SDXC UHS-I'
 sku: 'B07P64KZLX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-29 19:57:28
 image: 'https://m.media-amazon.com/images/I/31ndu+qvPGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071L4JY5X-es caja del anillo LED - ALLEU caja joyero de para compromiso...'
 sku: 'B071L4JY5X-es'
 tags: [  ]

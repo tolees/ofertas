@@ -5,7 +5,7 @@ date: 2020-04-02 20:55:26
 image: 'https://m.media-amazon.com/images/I/51Tfjrw3nML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THYPNC9-es ASRock X570 Phantom Gaming X AM4 ATX Mainboard...'
 sku: 'B07THYPNC9-es'
 tags: [  ]

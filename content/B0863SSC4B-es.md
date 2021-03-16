@@ -5,7 +5,7 @@ date: 2020-05-09 16:02:03
 image: 'https://m.media-amazon.com/images/I/41yy-TpSopL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0863SSC4B-es Suhctup Transparente Funda Compatible con Huawei Nova 3E...'
 sku: 'B0863SSC4B-es'
 tags: [  ]

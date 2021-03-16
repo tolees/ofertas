@@ -5,7 +5,7 @@ date: 2020-05-26 07:08:47
 image: 'https://m.media-amazon.com/images/I/51VeRf1JuXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0030JBKSO-es Kirkland Jelly Belly Bean Bulk Jar 1.8kg 44 flavours Sweets'
 sku: 'B0030JBKSO-es'
 tags: [  ]

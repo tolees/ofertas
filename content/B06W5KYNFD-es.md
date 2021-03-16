@@ -5,7 +5,7 @@ date: 2020-08-23 08:36:13
 image: 'https://m.media-amazon.com/images/I/41LqaSSWCeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W5KYNFD-es Braun Minipimer 3045 Batidora de Mano pié metálico 2...'
 sku: 'B06W5KYNFD-es'
 tags: [  ]

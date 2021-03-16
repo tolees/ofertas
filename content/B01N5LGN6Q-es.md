@@ -5,7 +5,7 @@ date: 2020-02-03 09:35:36
 image: 'https://m.media-amazon.com/images/I/419LQYuJk7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5LGN6Q-es Tommy Hilfiger E3578A1208 Cinturón Para Hombre Marrón DARK...'
 sku: 'B01N5LGN6Q-es'
 tags: [  ]

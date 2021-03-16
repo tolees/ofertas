@@ -5,7 +5,7 @@ date: 2020-05-26 14:16:14
 image: 'https://m.media-amazon.com/images/I/41XqbPxb-RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J7GVPY8-es Zwilling Plus Asador Acero Inoxidable 1 cm'
 sku: 'B00J7GVPY8-es'
 tags: [  ]

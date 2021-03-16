@@ -5,7 +5,7 @@ date: 2020-04-26 05:51:39
 image: 'https://m.media-amazon.com/images/I/41hwYYjh9yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNJF8Q6-es adidas Tiro Du BC M Bolsa Lona de Deporte Unisex Adulto...'
 sku: 'B07JNJF8Q6-es'
 tags: [  ]

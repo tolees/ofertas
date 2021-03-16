@@ -5,7 +5,7 @@ date: 2020-06-08 07:55:42
 image: 'https://m.media-amazon.com/images/I/41Jqa6u18zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZV36F4G-es Helly Hansen Driftline Polo Hombre Royal Blue XL'
 sku: 'B07ZV36F4G-es'
 tags: [  ]

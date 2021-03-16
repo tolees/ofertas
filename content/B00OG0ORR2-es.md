@@ -5,7 +5,7 @@ date: 2020-03-10 07:02:37
 image: 'https://m.media-amazon.com/images/I/31x1pkF7g1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OG0ORR2-es JVC HA-SR185-W-E - Auriculares de diadema con controlador...'
 sku: 'B00OG0ORR2-es'
 tags: [  ]

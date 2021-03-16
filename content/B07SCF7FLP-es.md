@@ -5,7 +5,7 @@ date: 2020-06-05 10:07:08
 image: 'https://m.media-amazon.com/images/I/41zp0zpSmuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCF7FLP-es adidas W ID 3s Snap PT Pantalones de Deporte Mujer Legend...'
 sku: 'B07SCF7FLP-es'
 tags: [  ]

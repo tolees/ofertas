@@ -5,7 +5,7 @@ date: 2020-08-08 12:09:52
 image: 'https://m.media-amazon.com/images/I/41DTGviZReL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IN1UDJA-es Rinat Kit Hypernova Conjunto de Portero Unisex Adulto...'
 sku: 'B01IN1UDJA-es'
 tags: [  ]

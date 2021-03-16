@@ -5,7 +5,7 @@ date: 2020-01-06 07:01:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51eYLK84ZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077H15GFF-es Chantelle Champs Elysees Balconette Marfil Dune 97 Talla...'
 sku: 'B077H15GFF-es'
 tags: [  ]

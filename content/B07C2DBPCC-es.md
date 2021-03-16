@@ -5,7 +5,7 @@ date: 2020-02-19 10:31:46
 image: 'https://m.media-amazon.com/images/I/51c9L1oajBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2DBPCC-es MaGeek® [Pack de 5] 0 3m Cables Micro USB Sincroniza y...'
 sku: 'B07C2DBPCC-es'
 tags: [  ]

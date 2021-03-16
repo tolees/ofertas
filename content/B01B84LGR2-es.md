@@ -5,7 +5,7 @@ date: 2020-02-27 13:28:20
 image: 'https://m.media-amazon.com/images/I/41gYhW6xEEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B84LGR2-es Sweat Corporate Polyester junior'
 sku: 'B01B84LGR2-es'
 tags: [  ]

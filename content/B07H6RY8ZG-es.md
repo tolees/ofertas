@@ -5,7 +5,7 @@ date: 2020-07-18 11:11:14
 image: 'https://m.media-amazon.com/images/I/4136ElGKjiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6RY8ZG-es Auriculares para Dormir Lauva Suaves y Cómodos Auriculares...'
 sku: 'B07H6RY8ZG-es'
 tags: [  ]

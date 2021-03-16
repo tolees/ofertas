@@ -5,7 +5,7 @@ date: 2020-10-07 10:37:17
 image: 'https://m.media-amazon.com/images/I/31uM6DdRK9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0893VQ3LZ-es Auriculares Bluetooth 5.0 Auriculares con Micrófono...'
 sku: 'B0893VQ3LZ-es'
 tags: [  ]

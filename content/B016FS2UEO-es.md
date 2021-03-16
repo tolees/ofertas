@@ -5,7 +5,7 @@ date: 2020-02-28 23:26:46
 image: 'https://m.media-amazon.com/images/I/417RKKFFXlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016FS2UEO-es NOVEX Sérum Absoluto 30 ml Pack de 6'
 sku: 'B016FS2UEO-es'
 tags: [  ]

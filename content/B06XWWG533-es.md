@@ -5,7 +5,7 @@ date: 2020-02-04 11:46:48
 image: 'https://m.media-amazon.com/images/I/51dIkWRJMOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWWG533-es Activision - Figura Sim Sensei Tidepool'
 sku: 'B06XWWG533-es'
 tags: [  ]

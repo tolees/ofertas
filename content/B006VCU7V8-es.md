@@ -5,7 +5,7 @@ date: 2020-02-04 15:29:58
 image: 'https://m.media-amazon.com/images/I/41vk5KM9VzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006VCU7V8-es Lancaster Suractif Volume Contorno Day Cream 50 ml'
 sku: 'B006VCU7V8-es'
 tags: [  ]

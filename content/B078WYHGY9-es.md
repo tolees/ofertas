@@ -5,7 +5,7 @@ date: 2020-07-20 10:15:22
 image: 'https://m.media-amazon.com/images/I/41gz2IHFR9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WYHGY9-es Plugable Docking Station con Triple Pantalla 4K USB-C con...'
 sku: 'B078WYHGY9-es'
 tags: [  ]

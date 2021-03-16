@@ -5,7 +5,7 @@ date: 2020-02-25 06:46:12
 image: 'https://m.media-amazon.com/images/I/41ImM4hq+rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJPA24-es Wedo 212 Taburete con Ruedas Gris'
 sku: 'B000KJPA24-es'
 tags: [  ]

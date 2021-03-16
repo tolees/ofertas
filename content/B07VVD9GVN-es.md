@@ -5,7 +5,7 @@ date: 2020-09-15 17:34:24
 image: 'https://m.media-amazon.com/images/I/41Woh98pzZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVD9GVN-es PIKOLINOS Sandalia Plana de Piel MARAZUL W3F'
 sku: 'B07VVD9GVN-es'
 tags: [  ]

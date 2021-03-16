@@ -5,7 +5,7 @@ date: 2020-08-06 23:26:36
 image: 'https://m.media-amazon.com/images/I/41jyS3wSdEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG3G6C4-es Babimax Alicate Pelacables Automático Multifuncional Auto-...'
 sku: 'B06XG3G6C4-es'
 tags: [  ]

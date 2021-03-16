@@ -5,7 +5,7 @@ date: 2020-04-02 11:13:44
 image: 'https://m.media-amazon.com/images/I/41wkvwwNqdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0029EPWQW-es TRIXIE Set Comed.Cerám+Pie 2x1.6 l ø20 cm Blco/Ng'
 sku: 'B0029EPWQW-es'
 tags: [  ]

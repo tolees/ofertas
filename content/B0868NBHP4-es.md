@@ -5,7 +5,7 @@ date: 2020-04-19 10:01:52
 image: 'https://m.media-amazon.com/images/I/51t3HYAZCfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868NBHP4-es Suhctup Transparente Funda Compatible con Huawei Y7 2018...'
 sku: 'B0868NBHP4-es'
 tags: [  ]

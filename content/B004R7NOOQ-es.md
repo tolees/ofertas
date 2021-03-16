@@ -5,7 +5,7 @@ date: 2020-02-23 19:35:30
 image: 'https://m.media-amazon.com/images/I/51hxZOnRjaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004R7NOOQ-es Funko - POP! Bobble Colección Marvel - Figura Capitán...'
 sku: 'B004R7NOOQ-es'
 tags: [  ]

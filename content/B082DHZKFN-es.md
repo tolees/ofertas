@@ -5,7 +5,7 @@ date: 2020-02-07 12:09:05
 image: 'https://m.media-amazon.com/images/I/411eb7ZKZ3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082DHZKFN-es DANISH ENDURANCE Sujetador Mujer en Coton organico Pack de...'
 sku: 'B082DHZKFN-es'
 tags: [  ]

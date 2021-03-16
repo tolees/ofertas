@@ -5,7 +5,7 @@ date: 2020-06-28 10:35:53
 image: 'https://m.media-amazon.com/images/I/41Ch68ifKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0853PRF6H-es Big Pharma. Manager Edition'
 sku: 'B0853PRF6H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 02:11:21
 image: 'https://m.media-amazon.com/images/I/414558DolEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY9S5GP-es HYMY Funda para Xiaomi Redmi 8A Smartphone + 2 x Cristal...'
 sku: 'B07YY9S5GP-es'
 tags: [  ]

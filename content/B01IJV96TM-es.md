@@ -5,7 +5,7 @@ date: 2020-06-21 18:28:30
 image: 'https://m.media-amazon.com/images/I/31k+zD8pcZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IJV96TM-es Targus THZ64307GL - Funda giratoria Universal SafeFit para...'
 sku: 'B01IJV96TM-es'
 tags: [  ]

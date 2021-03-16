@@ -5,7 +5,7 @@ date: 2020-03-25 12:02:54
 image: 'https://m.media-amazon.com/images/I/41Qb-+p+E5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZYXNHPT-es 1 par de vinagre de bambú natural tierno exfoliante...'
 sku: 'B07ZYXNHPT-es'
 tags: [  ]

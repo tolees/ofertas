@@ -5,7 +5,7 @@ date: 2020-09-01 15:53:33
 image: 'https://m.media-amazon.com/images/I/41Dp8XQ-r4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L4BLL3Y-es Panasonic Lumix DMC FZ1000 - Cámara Bridge de 20.1 MP...'
 sku: 'B00L4BLL3Y-es'
 tags: [  ]

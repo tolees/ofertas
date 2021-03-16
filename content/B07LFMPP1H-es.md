@@ -5,7 +5,7 @@ date: 2020-02-12 14:58:40
 image: 'https://m.media-amazon.com/images/I/418cfNJ2g+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFMPP1H-es Levi s Graphic Sport Capucha Azul Sptwr Hoodie Baltic Sea...'
 sku: 'B07LFMPP1H-es'
 tags: [  ]

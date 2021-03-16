@@ -5,7 +5,7 @@ date: 2020-06-29 08:00:02
 image: 'https://m.media-amazon.com/images/I/41FmSpXoz6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXLH7WZ-es New Balance 500 Zapatillas para Mujer Gris Grey HHC 36.5 EU'
 sku: 'B07RXLH7WZ-es'
 tags: [  ]

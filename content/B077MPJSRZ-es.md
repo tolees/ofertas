@@ -5,7 +5,7 @@ date: 2020-09-23 10:34:17
 image: 'https://m.media-amazon.com/images/I/41eFaBn8zlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MPJSRZ-es PUMA Smash V2 Zapatillas Unisex Adulto Azul Peacoat White...'
 sku: 'B077MPJSRZ-es'
 tags: [  ]

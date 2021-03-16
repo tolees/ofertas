@@ -5,7 +5,7 @@ date: 2020-03-01 07:03:57
 image: 'https://m.media-amazon.com/images/I/41+4z0rpqRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G8YG06A-es Juvena Superior Miracle Cream Tratamiento Facial - 75 ml'
 sku: 'B00G8YG06A-es'
 tags: [  ]

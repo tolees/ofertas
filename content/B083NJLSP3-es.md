@@ -5,7 +5,7 @@ date: 2020-05-30 19:31:58
 image: 'https://m.media-amazon.com/images/I/51zqqYdPtcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NJLSP3-es Prenine Funda de Silicona para Control Remoto Funda de...'
 sku: 'B083NJLSP3-es'
 tags: [  ]

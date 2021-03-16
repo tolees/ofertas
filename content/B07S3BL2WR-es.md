@@ -5,7 +5,7 @@ date: 2020-05-18 10:39:50
 image: 'https://m.media-amazon.com/images/I/41xrqfnQG7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3BL2WR-es KangaROOS Raceyard Ev Zapatillas Unisex Adulto Naranja...'
 sku: 'B07S3BL2WR-es'
 tags: [  ]

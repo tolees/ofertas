@@ -5,7 +5,7 @@ date: 2020-01-02 18:52:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51D7sr3qFEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FJNG51-es VTIN Altavoz Bluetooth con Sonido HD 5W Mini Altavoz...'
 sku: 'B082FJNG51-es'
 tags: [  ]

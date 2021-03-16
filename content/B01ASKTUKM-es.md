@@ -5,7 +5,7 @@ date: 2020-03-03 17:04:10
 image: 'https://m.media-amazon.com/images/I/41ebwSLL2eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ASKTUKM-es Vichy - Protector anti-manchas 3 en 1 spf 50+'
 sku: 'B01ASKTUKM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 14:29:26
 image: 'https://m.media-amazon.com/images/I/31PbyHR7nvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008WK1PCC-es Bosch TWK3A011 Hervidor de Agua 1.7 litros 2400 W Color...'
 sku: 'B008WK1PCC-es'
 tags: [  ]

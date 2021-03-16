@@ -5,7 +5,7 @@ date: 2020-03-01 13:38:12
 image: 'https://m.media-amazon.com/images/I/41swFlsBIaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EYW3ML8-es Calvin Klein Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B01EYW3ML8-es'
 tags: [  ]

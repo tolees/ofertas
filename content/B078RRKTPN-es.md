@@ -5,7 +5,7 @@ date: 2020-05-01 06:57:57
 image: 'https://m.media-amazon.com/images/I/51+xaYxNHQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078RRKTPN-es Almohada maBELLA con Cuidado de la Piel y Aromaterapia |...'
 sku: 'B078RRKTPN-es'
 tags: [  ]

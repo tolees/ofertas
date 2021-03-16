@@ -5,7 +5,7 @@ date: 2020-03-20 13:30:23
 image: 'https://m.media-amazon.com/images/I/41OivHAysxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4FMC63-es Ocean Digital DBA-03R Dab/Dab + Wi-Fi Radio de Internet...'
 sku: 'B01N4FMC63-es'
 tags: [  ]

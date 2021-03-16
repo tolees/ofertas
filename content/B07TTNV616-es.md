@@ -5,7 +5,7 @@ date: 2020-07-04 18:06:51
 image: 'https://m.media-amazon.com/images/I/31vZ9HaHiXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTNV616-es Skechers Go Walk Joy Zapatillas para Mujer Negro Black...'
 sku: 'B07TTNV616-es'
 tags: [  ]

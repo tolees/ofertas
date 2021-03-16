@@ -5,7 +5,7 @@ date: 2020-10-09 23:23:53
 image: 'https://m.media-amazon.com/images/I/41zWzWYF2kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RQTYDQ-es MSI Pro MP221 - Monitor de 22" FHD 60 Hz 1920 x 1080...'
 sku: 'B084RQTYDQ-es'
 tags: [  ]

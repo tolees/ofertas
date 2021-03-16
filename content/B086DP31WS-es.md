@@ -5,7 +5,7 @@ date: 2020-04-07 19:42:20
 image: 'https://m.media-amazon.com/images/I/31fvLFHVWHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086DP31WS-es OWSOO 20PCS Máscaras FFP2 95% de Filtración'
 sku: 'B086DP31WS-es'
 tags: [  ]

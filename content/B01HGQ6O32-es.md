@@ -5,7 +5,7 @@ date: 2020-03-16 12:46:03
 image: 'https://m.media-amazon.com/images/I/41HEhUE37eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HGQ6O32-es duehome Nordik - Pack 4 sillas Color Blanco Silla réplica...'
 sku: 'B01HGQ6O32-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 03:11:42
 image: 'https://m.media-amazon.com/images/I/413R9T7wBhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006WNRDOU-es Grohe - Dispensador de jabón estilo Contemporáneo color...'
 sku: 'B006WNRDOU-es'
 tags: [  ]

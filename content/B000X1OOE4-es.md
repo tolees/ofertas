@@ -5,7 +5,7 @@ date: 2020-01-29 08:17:34
 image: 'https://m.media-amazon.com/images/I/41uub453xYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000X1OOE4-es Reebok F/S Hi Zapatillas de Deporte para Mujer Blanco INT-...'
 sku: 'B000X1OOE4-es'
 tags: [  ]

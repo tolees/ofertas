@@ -5,7 +5,7 @@ date: 2020-02-06 10:21:48
 image: 'https://m.media-amazon.com/images/I/51510YLkMxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTT5RYV-es ERIK - Agenda Premium Frida Kahlo 2020 17 meses'
 sku: 'B07QTT5RYV-es'
 tags: [  ]

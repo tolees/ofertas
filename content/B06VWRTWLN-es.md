@@ -5,7 +5,7 @@ date: 2020-08-20 17:43:07
 image: 'https://m.media-amazon.com/images/I/61iiCGh7JkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VWRTWLN-es Lock S Quest'
 sku: 'B06VWRTWLN-es'
 tags: [  ]

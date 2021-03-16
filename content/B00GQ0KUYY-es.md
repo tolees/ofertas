@@ -5,7 +5,7 @@ date: 2020-10-06 08:43:33
 image: 'https://m.media-amazon.com/images/I/31kf7DWw4EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GQ0KUYY-es Orbegozo RRM 510 – Emisor térmico sin aceite 3 elementos...'
 sku: 'B00GQ0KUYY-es'
 tags: [  ]

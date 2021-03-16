@@ -5,7 +5,7 @@ date: 2020-06-27 08:08:30
 image: 'https://m.media-amazon.com/images/I/412lnLB6KVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLWZRBG-es UGREEN Cable USB C a USB C Cable PD 60W 20V / 3A Carga...'
 sku: 'B07WLWZRBG-es'
 tags: [  ]

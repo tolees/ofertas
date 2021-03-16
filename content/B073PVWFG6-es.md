@@ -5,7 +5,7 @@ date: 2020-08-08 08:00:54
 image: 'https://m.media-amazon.com/images/I/31RmLTjY-JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073PVWFG6-es Nllano USB-A a LAN Ethernet Adaptador con 3 USB 3.0...'
 sku: 'B073PVWFG6-es'
 tags: [  ]

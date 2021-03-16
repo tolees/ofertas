@@ -5,7 +5,7 @@ date: 2020-04-19 10:02:32
 image: 'https://m.media-amazon.com/images/I/41hUugxdB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q19YXNJ-es Fosly Utensilios de Cocina de Acero Inoxidable 10 Unidades...'
 sku: 'B07Q19YXNJ-es'
 tags: [  ]

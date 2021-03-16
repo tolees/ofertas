@@ -5,7 +5,7 @@ date: 2020-02-12 20:32:14
 image: 'https://m.media-amazon.com/images/I/41LBuMvEbjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7NMRDG-es Calvin Klein Reloj Analógico-Digital para Unisex Adultos...'
 sku: 'B07N7NMRDG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 14:59:35
 image: 'https://m.media-amazon.com/images/I/41natsFFydL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PYDT2N4-es Nike Md Runner 2 - Zapatillas de correr para Hombre Negro...'
 sku: 'B00PYDT2N4-es'
 tags: [  ]

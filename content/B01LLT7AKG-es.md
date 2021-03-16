@@ -5,7 +5,7 @@ date: 2020-06-15 08:12:06
 image: 'https://m.media-amazon.com/images/I/41IYbWUlMML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LLT7AKG-es NYK1 Champu Sin Sulfatos Y Acondicionador - Champu Sin...'
 sku: 'B01LLT7AKG-es'
 tags: [  ]

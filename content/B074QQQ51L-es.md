@@ -5,7 +5,7 @@ date: 2020-10-01 06:24:20
 image: 'https://m.media-amazon.com/images/I/31+Vk+MQj-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074QQQ51L-es RHA S500 Universal: Auriculares Intrauditivos Compactos...'
 sku: 'B074QQQ51L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-15 09:39:04
 image: 'https://m.media-amazon.com/images/I/418uUIfhf8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFNXR3Q-es ENJOHOS Arnés de Escalada arnés Arnés de Escalada arnés...'
 sku: 'B07YFNXR3Q-es'
 tags: [  ]

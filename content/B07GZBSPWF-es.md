@@ -5,7 +5,7 @@ date: 2020-07-06 11:03:19
 image: 'https://m.media-amazon.com/images/I/413aw8sjKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZBSPWF-es [1-Pack]para Samsung Galaxy S8 Protector de Pantalla...'
 sku: 'B07GZBSPWF-es'
 tags: [  ]

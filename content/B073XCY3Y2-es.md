@@ -5,7 +5,7 @@ date: 2020-05-14 14:26:35
 image: 'https://m.media-amazon.com/images/I/41VE66Pvh6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XCY3Y2-es Lacoste Reloj Análogo clásico para Hombre de Cuarzo con...'
 sku: 'B073XCY3Y2-es'
 tags: [  ]

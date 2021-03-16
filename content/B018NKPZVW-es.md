@@ -5,7 +5,7 @@ date: 2020-03-27 23:01:16
 image: 'https://m.media-amazon.com/images/I/41r311fpT-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018NKPZVW-es DeLOCK 0.15m SATA 15p / 4p 0 15 m - Cables de alimentación...'
 sku: 'B018NKPZVW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 17:54:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JX35Jz85L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG79GG9-es New Balance 373 Zapatillas para Mujer Azul Navy Navy 37.5 EU'
 sku: 'B07HG79GG9-es'
 tags: [  ]

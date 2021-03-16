@@ -5,7 +5,7 @@ date: 2020-06-29 21:19:14
 image: 'https://m.media-amazon.com/images/I/41USJJpMJNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003UGVLPY-es Nixon Reloj Unisex de Digital con Correa en Acero...'
 sku: 'B003UGVLPY-es'
 tags: [  ]

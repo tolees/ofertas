@@ -5,7 +5,7 @@ date: 2020-09-19 10:41:38
 image: 'https://m.media-amazon.com/images/I/51-VOX6mBwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009EZXX6U-es neon nights 8 x Pintura Luz Negra Pintura UV Neón...'
 sku: 'B009EZXX6U-es'
 tags: [  ]

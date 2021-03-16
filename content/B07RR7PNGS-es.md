@@ -5,7 +5,7 @@ date: 2020-06-27 08:13:38
 image: 'https://m.media-amazon.com/images/I/51Dzkj9Vu5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RR7PNGS-es Deyard Sistema de Riego Micro Flow para Refrigeración por...'
 sku: 'B07RR7PNGS-es'
 tags: [  ]

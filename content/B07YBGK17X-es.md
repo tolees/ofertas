@@ -5,7 +5,7 @@ date: 2020-09-10 07:10:24
 image: 'https://m.media-amazon.com/images/I/41w-6vZTTvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBGK17X-es Billetero Pepe Jeans Fair Camel'
 sku: 'B07YBGK17X-es'
 tags: [  ]

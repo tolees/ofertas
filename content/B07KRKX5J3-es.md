@@ -5,7 +5,7 @@ date: 2020-09-17 00:23:25
 image: 'https://m.media-amazon.com/images/I/41XnAg9orxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRKX5J3-es New Balance 373 Zapatillas Hombre Rojo Red Red 39.5 EU 6 UK'
 sku: 'B07KRKX5J3-es'
 tags: [  ]

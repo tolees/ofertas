@@ -5,7 +5,7 @@ date: 2020-05-28 06:09:39
 image: 'https://m.media-amazon.com/images/I/41K0vMGyMgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DAST78K-es Acer Essential - Monitor de 19.5" pantalla LED 1600 x 900...'
 sku: 'B00DAST78K-es'
 tags: [  ]

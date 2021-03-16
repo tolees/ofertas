@@ -5,7 +5,7 @@ date: 2020-06-26 13:04:28
 image: 'https://m.media-amazon.com/images/I/51pR3xJgEnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJWXS8M-es Jellas 22PCS Extractor de Tornillos Brocas de pulido...'
 sku: 'B07TJWXS8M-es'
 tags: [  ]

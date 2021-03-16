@@ -5,7 +5,7 @@ date: 2020-02-04 10:58:19
 image: 'https://m.media-amazon.com/images/I/31O-ZPKjcmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXVPXHM-es Skechers Men s Skech-Flex 3.0-VERKO Trainers Black Black...'
 sku: 'B07NXVPXHM-es'
 tags: [  ]

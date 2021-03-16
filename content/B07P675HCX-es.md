@@ -5,7 +5,7 @@ date: 2020-04-26 05:16:54
 image: 'https://m.media-amazon.com/images/I/31u9KcBH+VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P675HCX-es Loewe Solo Edt Vapo 125 ml - 125 ml'
 sku: 'B07P675HCX-es'
 tags: [  ]

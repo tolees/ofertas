@@ -5,7 +5,7 @@ date: 2020-09-16 04:54:52
 image: 'https://m.media-amazon.com/images/I/41S8U8hi5SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018KNS76W-es Skechers Men s Equalizer-Double Play Moccasins Black Black...'
 sku: 'B018KNS76W-es'
 tags: [  ]

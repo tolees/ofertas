@@ -5,7 +5,7 @@ date: 2020-07-10 23:55:54
 image: 'https://m.media-amazon.com/images/I/41fNj9653rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VB68KM-es LEWOTE Airpods Pro Carcasa de Silicona para Apple Airpods...'
 sku: 'B082VB68KM-es'
 tags: [  ]

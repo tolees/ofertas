@@ -5,7 +5,7 @@ date: 2020-03-21 02:01:49
 image: 'https://m.media-amazon.com/images/I/41BQhU-61TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ3VHTY-es New Balance 373 Zapatillas Unisex Niños Blanco...'
 sku: 'B07DJ3VHTY-es'
 tags: [  ]

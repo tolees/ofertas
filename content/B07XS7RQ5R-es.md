@@ -5,7 +5,7 @@ date: 2020-09-04 06:25:59
 image: 'https://m.media-amazon.com/images/I/41y9T9CdJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XS7RQ5R-es Apple Watch Series 5 GPS + Cellular 40 mm Aluminio en Gris...'
 sku: 'B07XS7RQ5R-es'
 tags: [  ]

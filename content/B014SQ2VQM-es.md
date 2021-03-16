@@ -5,7 +5,7 @@ date: 2020-02-25 11:35:39
 image: 'https://m.media-amazon.com/images/I/41SlPdYOcOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014SQ2VQM-es Tamron SP - Objetivo para Canon DSLR Distancia Focal Fija...'
 sku: 'B014SQ2VQM-es'
 tags: [  ]

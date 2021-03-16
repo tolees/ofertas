@@ -5,7 +5,7 @@ date: 2020-07-14 02:55:02
 image: 'https://m.media-amazon.com/images/I/518F1HWOebL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WKQDY5-es Bst4UDirect Herramientas de Equilibrado Herramienta De...'
 sku: 'B087WKQDY5-es'
 tags: [  ]

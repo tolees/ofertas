@@ -5,7 +5,7 @@ date: 2020-03-12 17:36:13
 image: 'https://m.media-amazon.com/images/I/31aPWoiiQbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8HVBL7-es Kelme - Zapatillas Feline 7.0'
 sku: 'B07W8HVBL7-es'
 tags: [  ]

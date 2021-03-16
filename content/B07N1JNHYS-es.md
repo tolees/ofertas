@@ -5,7 +5,7 @@ date: 2020-06-03 12:56:41
 image: 'https://m.media-amazon.com/images/I/411YwzMwM7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JNHYS-es Clarks Verona Gleam Botas Plisadas para Mujer Braun...'
 sku: 'B07N1JNHYS-es'
 tags: [  ]

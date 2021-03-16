@@ -5,7 +5,7 @@ date: 2020-07-09 22:37:13
 image: 'https://m.media-amazon.com/images/I/41DK6MiZqtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPSJTYY-es Funko- Pop Vinilo: Persona 5: Ryuji Figura Coleccionable...'
 sku: 'B07KPSJTYY-es'
 tags: [  ]

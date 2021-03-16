@@ -5,7 +5,7 @@ date: 2020-02-24 17:53:18
 image: 'https://m.media-amazon.com/images/I/41I8wXlzXuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSDFTYZ-es find. Utility_DC3086P Pantalones Grau Grey 38 Talla del...'
 sku: 'B06XSDFTYZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-21 13:26:07
 image: 'https://m.media-amazon.com/images/I/41cl6To9r5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHWDTKS-es IKERLEX LED Linternas Tácticas Militares LED Antorcha Alta...'
 sku: 'B07CHWDTKS-es'
 tags: [  ]

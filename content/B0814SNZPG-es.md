@@ -5,7 +5,7 @@ date: 2020-06-25 06:16:02
 image: 'https://m.media-amazon.com/images/I/41L0TqEljRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814SNZPG-es Under Armour Armour Mid Keyhole Graphic Sujetador...'
 sku: 'B0814SNZPG-es'
 tags: [  ]

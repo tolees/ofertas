@@ -5,7 +5,7 @@ date: 2020-04-09 08:52:08
 image: 'https://m.media-amazon.com/images/I/41RdbLz8YIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5Z7TJT-es Kit de monopie para Video Profesional Cayer AF34DVH4...'
 sku: 'B07L5Z7TJT-es'
 tags: [  ]

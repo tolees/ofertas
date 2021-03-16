@@ -5,7 +5,7 @@ date: 2020-01-27 10:49:28
 image: 'https://m.media-amazon.com/images/I/41L00kysY6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L97SWKF-es Under Armour Armour Mid Crossback Sujetador Deportivo...'
 sku: 'B07L97SWKF-es'
 tags: [  ]

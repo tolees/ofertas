@@ -5,7 +5,7 @@ date: 2020-07-03 03:31:35
 image: 'https://m.media-amazon.com/images/I/51ZZ+dzObGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JFXR9HA-es Pendrive 512MB 10 Piezas Unidad Flash USB - Giratorio...'
 sku: 'B00JFXR9HA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-26 04:35:03
 image: 'https://m.media-amazon.com/images/I/41xJFyqyhOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9R5JX3-es Asics Gt-2000 7 Zapatillas de Running para Hombre Negro...'
 sku: 'B07J9R5JX3-es'
 tags: [  ]

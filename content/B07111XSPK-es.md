@@ -5,7 +5,7 @@ date: 2020-05-15 09:19:57
 image: 'https://m.media-amazon.com/images/I/41mpTTLiU1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07111XSPK-es Reloj Scuderia Ferrari para Hombre 0830435 Marrón Azul/Marrón'
 sku: 'B07111XSPK-es'
 tags: [  ]

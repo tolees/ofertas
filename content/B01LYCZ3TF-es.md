@@ -5,7 +5,7 @@ date: 2020-06-11 14:28:48
 image: 'https://m.media-amazon.com/images/I/51Eijs+PUOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYCZ3TF-es Gourmet Mini Crackers Redondas - 350 g'
 sku: 'B01LYCZ3TF-es'
 tags: [  ]

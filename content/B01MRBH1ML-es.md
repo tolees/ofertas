@@ -5,7 +5,7 @@ date: 2020-05-19 21:50:12
 image: 'https://m.media-amazon.com/images/I/418MqA+NVeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRBH1ML-es Russell Hobbs Ultimate - Espiralizador de Verduras y Fruta...'
 sku: 'B01MRBH1ML-es'
 tags: [  ]

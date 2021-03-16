@@ -5,7 +5,7 @@ date: 2020-09-22 14:21:50
 image: 'https://m.media-amazon.com/images/I/511pUnoLUfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VTSS3R-es Dodot Splashers Pañales Bañadores Desechables No se...'
 sku: 'B082VTSS3R-es'
 tags: [  ]

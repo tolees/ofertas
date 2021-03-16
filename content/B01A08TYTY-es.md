@@ -5,7 +5,7 @@ date: 2020-09-19 08:21:15
 image: 'https://m.media-amazon.com/images/I/51vxkza6qzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A08TYTY-es Lume Cube LC0003NE - Antorcha LED para cámaras Negro'
 sku: 'B01A08TYTY-es'
 tags: [  ]

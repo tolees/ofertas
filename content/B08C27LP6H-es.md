@@ -5,7 +5,7 @@ date: 2020-09-11 14:46:53
 image: 'https://m.media-amazon.com/images/I/51mryIC-zAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C27LP6H-es Pro Indoor Mini Canasta de Baloncesto para Niños – 16 x 12...'
 sku: 'B08C27LP6H-es'
 tags: [  ]

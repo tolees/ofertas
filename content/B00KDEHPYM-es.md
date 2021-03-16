@@ -5,7 +5,7 @@ date: 2020-08-07 17:23:13
 image: 'https://m.media-amazon.com/images/I/51pNXrbkB4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KDEHPYM-es Cable equilibrado XLR macho a TRS macho de 6 35 mm 1/4...'
 sku: 'B00KDEHPYM-es'
 tags: [  ]

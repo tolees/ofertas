@@ -5,7 +5,7 @@ date: 2020-02-08 18:26:54
 image: 'https://m.media-amazon.com/images/I/41He6WDoDaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2CP8BY-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07T2CP8BY-es'
 tags: [  ]

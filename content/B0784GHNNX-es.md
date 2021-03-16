@@ -5,7 +5,7 @@ date: 2020-09-04 23:14:24
 image: 'https://m.media-amazon.com/images/I/41BeTfPjfGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0784GHNNX-es Doble llavero de pareja 2 piezas que encajan con figura de...'
 sku: 'B0784GHNNX-es'
 tags: [  ]

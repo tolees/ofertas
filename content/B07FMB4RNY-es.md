@@ -5,7 +5,7 @@ date: 2020-05-13 11:10:11
 image: 'https://m.media-amazon.com/images/I/3128x34o5pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMB4RNY-es Joseph Joseph Elevate Pinzas de acero inoxidable de 30 5...'
 sku: 'B07FMB4RNY-es'
 tags: [  ]

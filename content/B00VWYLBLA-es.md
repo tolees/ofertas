@@ -5,7 +5,7 @@ date: 2020-03-15 18:02:33
 image: 'https://m.media-amazon.com/images/I/41ld38G5ucL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VWYLBLA-es Joma Master Bermuda Deporte Hombre Negro S'
 sku: 'B00VWYLBLA-es'
 tags: [  ]

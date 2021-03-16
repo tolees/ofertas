@@ -5,7 +5,7 @@ date: 2020-06-08 10:05:00
 image: 'https://m.media-amazon.com/images/I/51quM1Tc3rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M68GLT0-es Dodo Pañales Talla 4 9-14 kg - 64 pañales'
 sku: 'B01M68GLT0-es'
 tags: [  ]

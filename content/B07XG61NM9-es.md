@@ -5,7 +5,7 @@ date: 2020-09-06 08:57:27
 image: 'https://m.media-amazon.com/images/I/417E4eBQwHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XG61NM9-es Lovecraft s Untold Stories'
 sku: 'B07XG61NM9-es'
 tags: [  ]

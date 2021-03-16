@@ -5,7 +5,7 @@ date: 2020-06-06 15:40:16
 image: 'https://m.media-amazon.com/images/I/31FSmnb0N1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F5BEHA2-es LifeVit BT-125 Termómetro inteligente para Bebé conexión...'
 sku: 'B01F5BEHA2-es'
 tags: [  ]

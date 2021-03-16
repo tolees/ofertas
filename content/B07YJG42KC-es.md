@@ -5,7 +5,7 @@ date: 2020-04-07 22:03:42
 image: 'https://m.media-amazon.com/images/I/61G4p8D7JJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJG42KC-es EKKONG 15 Hojas 2081 Piezas Diamantes Autoadhesivas...'
 sku: 'B07YJG42KC-es'
 tags: [  ]

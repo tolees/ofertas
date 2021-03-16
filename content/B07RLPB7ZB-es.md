@@ -5,7 +5,7 @@ date: 2020-02-11 09:31:50
 image: 'https://m.media-amazon.com/images/I/41zrQ6BBJdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLPB7ZB-es J.Rosée Collana Donna Argento Sterling 925 Pendente...'
 sku: 'B07RLPB7ZB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-21 01:08:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31GWRdjVnzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FB2CYGH-es Eucerin Filtro solar corporal - 200 ml'
 sku: 'B07FB2CYGH-es'
 tags: [  ]

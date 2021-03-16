@@ -5,7 +5,7 @@ date: 2020-01-19 13:20:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dXIq-i72L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGXNSXD-es LG CineBeam HF65LSR - Proyector TV de Tiro Corto hasta...'
 sku: 'B07NGXNSXD-es'
 tags: [  ]

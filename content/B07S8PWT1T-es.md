@@ -5,7 +5,7 @@ date: 2020-08-03 17:26:20
 image: 'https://m.media-amazon.com/images/I/31uaYtOUl9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8PWT1T-es PUMA St Runner V2 NL Zapatillas Unisex Adulto Rosa...'
 sku: 'B07S8PWT1T-es'
 tags: [  ]

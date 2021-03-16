@@ -5,7 +5,7 @@ date: 2020-02-06 14:45:40
 image: 'https://m.media-amazon.com/images/I/41V6qF5S91L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LNAO66E-es Powerextra 2 X Batería Canon LP-E8 1800mAh Reemplazon...'
 sku: 'B01LNAO66E-es'
 tags: [  ]

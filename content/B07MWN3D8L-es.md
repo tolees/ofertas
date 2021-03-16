@@ -5,7 +5,7 @@ date: 2020-02-17 21:51:34
 image: 'https://m.media-amazon.com/images/I/41Ewxr5b71L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWN3D8L-es Clarks Cloud Air T Zapatillas Altas para Niños Marrón...'
 sku: 'B07MWN3D8L-es'
 tags: [  ]

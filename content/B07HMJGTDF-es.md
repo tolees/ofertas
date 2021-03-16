@@ -5,7 +5,7 @@ date: 2020-01-20 17:59:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41h1RofyTkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMJGTDF-es Nike W Air Zoom Structure 22 Zapatillas de Running para...'
 sku: 'B07HMJGTDF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2019-12-31 19:05:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fDoqrczLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QS5D7L-es find. 18105 camisetas Gris Grau 38 Talla del Fabricante:...'
 sku: 'B073QS5D7L-es'
 tags: [  ]

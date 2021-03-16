@@ -5,7 +5,7 @@ date: 2020-07-15 19:16:25
 image: 'https://m.media-amazon.com/images/I/31J2vjOLPXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN5LHS7-es StarWare - Adaptador HDMI a VGA Macho a Hembra para...'
 sku: 'B07VN5LHS7-es'
 tags: [  ]

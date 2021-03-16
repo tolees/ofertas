@@ -5,7 +5,7 @@ date: 2020-04-19 09:47:09
 image: 'https://m.media-amazon.com/images/I/41d4KH6eBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XV4PLBH-es 3 Piezas Baberos Bebés Impermeables Manga Larga De Dibujos...'
 sku: 'B06XV4PLBH-es'
 tags: [  ]

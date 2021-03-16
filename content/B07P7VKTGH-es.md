@@ -5,7 +5,7 @@ date: 2020-05-08 07:02:15
 image: 'https://m.media-amazon.com/images/I/51CepEjLuiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7VKTGH-es Axe Dark Temptation Pack Duplo Ahorro - 2 Paquetes de 2 x...'
 sku: 'B07P7VKTGH-es'
 tags: [  ]

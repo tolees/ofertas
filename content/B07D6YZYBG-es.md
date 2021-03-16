@@ -5,7 +5,7 @@ date: 2020-09-21 23:02:27
 image: 'https://m.media-amazon.com/images/I/41ngFDDjtVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6YZYBG-es Adidas Gazelle Zapatillas para Hombre Rojo Collegiate...'
 sku: 'B07D6YZYBG-es'
 tags: [  ]

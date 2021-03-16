@@ -5,7 +5,7 @@ date: 2020-09-27 18:22:38
 image: 'https://m.media-amazon.com/images/I/419aMnpDN-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004EFXO28-es Oral-B Advance Power - Cepillo de dientes con pilas'
 sku: 'B004EFXO28-es'
 tags: [  ]

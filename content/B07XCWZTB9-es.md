@@ -5,7 +5,7 @@ date: 2020-09-23 17:35:22
 image: 'https://m.media-amazon.com/images/I/31H3VGm4vgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCWZTB9-es PUMA Ftblnxt Casual Pant Chándal Hombre Black-Deep Lichen...'
 sku: 'B07XCWZTB9-es'
 tags: [  ]

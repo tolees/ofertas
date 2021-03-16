@@ -5,7 +5,7 @@ date: 2020-05-26 20:33:10
 image: 'https://m.media-amazon.com/images/I/41QaxEhXONL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNB9BQ9-es Adidas Vs Switch 2 CMF C Zapatillas de Running Unisex niño...'
 sku: 'B07SNB9BQ9-es'
 tags: [  ]

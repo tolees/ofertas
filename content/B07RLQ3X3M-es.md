@@ -5,7 +5,7 @@ date: 2020-01-20 11:42:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51bUzWy9rUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLQ3X3M-es LEADSTAR Parasol Coche 2 Unidades Parasol Coche Bebe...'
 sku: 'B07RLQ3X3M-es'
 tags: [  ]

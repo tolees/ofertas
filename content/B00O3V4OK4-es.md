@@ -5,7 +5,7 @@ date: 2020-06-10 12:40:55
 image: 'https://m.media-amazon.com/images/I/41di6O7FWwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O3V4OK4-es JVC HA-S180-B - Auriculares de diadema abiertos estructura...'
 sku: 'B00O3V4OK4-es'
 tags: [  ]

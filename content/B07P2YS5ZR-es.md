@@ -5,7 +5,7 @@ date: 2020-07-07 06:50:22
 image: 'https://m.media-amazon.com/images/I/41VGT8MgRWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2YS5ZR-es HandFan Ventilador de Mano Recargable Cargo Base 2600mAh...'
 sku: 'B07P2YS5ZR-es'
 tags: [  ]

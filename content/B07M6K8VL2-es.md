@@ -5,7 +5,7 @@ date: 2020-03-04 12:52:23
 image: 'https://m.media-amazon.com/images/I/51cv5NkcSzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6K8VL2-es Alcachofa de Ducha con 5 Modos de Spray Cabezal de Ducha...'
 sku: 'B07M6K8VL2-es'
 tags: [  ]

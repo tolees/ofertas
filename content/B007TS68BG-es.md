@@ -5,7 +5,7 @@ date: 2020-10-12 00:43:49
 image: 'https://m.media-amazon.com/images/I/318f4HrChXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007TS68BG-es Arcos Universal - Macheta 160 mm f.hoja'
 sku: 'B007TS68BG-es'
 tags: [  ]

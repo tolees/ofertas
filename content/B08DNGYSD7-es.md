@@ -5,7 +5,7 @@ date: 2020-10-11 10:01:00
 image: 'https://m.media-amazon.com/images/I/61o2SCBydiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNGYSD7-es Leaum Galaxy A5 2017 - Funda de piel con función atril...'
 sku: 'B08DNGYSD7-es'
 tags: [  ]

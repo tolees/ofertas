@@ -5,7 +5,7 @@ date: 2020-04-07 22:15:41
 image: 'https://m.media-amazon.com/images/I/51Ba56XcMXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JKRNCB-es Nixon Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B076JKRNCB-es'
 tags: [  ]

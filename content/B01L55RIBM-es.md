@@ -5,7 +5,7 @@ date: 2020-03-22 16:56:54
 image: 'https://m.media-amazon.com/images/I/31bmNPDzegL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L55RIBM-es Beurer MG510 - Masaje presion por golpeteo con/sin cable y...'
 sku: 'B01L55RIBM-es'
 tags: [  ]

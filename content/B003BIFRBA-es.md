@@ -5,7 +5,7 @@ date: 2020-05-28 17:28:18
 image: 'https://m.media-amazon.com/images/I/41XNI0BYHJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003BIFRBA-es pjur ORIGINAL - Lubricante de silicona Premium -...'
 sku: 'B003BIFRBA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-16 13:29:32
 image: 'https://m.media-amazon.com/images/I/519cW3V+cKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJ8MG3-es Kipling - Card Keeper Carteras Mujer Azul Aqua Frost...'
 sku: 'B07MVJ8MG3-es'
 tags: [  ]

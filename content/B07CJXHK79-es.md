@@ -5,7 +5,7 @@ date: 2020-01-16 10:07:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31W3oqzYPxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJXHK79-es MARNUR Báscula Digital Báscula de Grasa Corporal con...'
 sku: 'B07CJXHK79-es'
 tags: [  ]

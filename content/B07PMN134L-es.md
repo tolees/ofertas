@@ -5,7 +5,7 @@ date: 2020-04-29 19:32:41
 image: 'https://m.media-amazon.com/images/I/51Co20UJKiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMN134L-es Calentador de Cera Eléctrico Profesional 500 ML Kit de...'
 sku: 'B07PMN134L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 19:52:58
 image: 'https://m.media-amazon.com/images/I/51xHEJHb0bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCC7GVK-es XX-JX FW-150W'
 sku: 'B07YCC7GVK-es'
 tags: [  ]

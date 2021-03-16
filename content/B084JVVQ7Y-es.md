@@ -5,7 +5,7 @@ date: 2020-08-23 09:17:34
 image: 'https://m.media-amazon.com/images/I/41nsWt+CKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084JVVQ7Y-es GRÜNTEK Tijera Recoletora de podar Yunque con Trinquete....'
 sku: 'B084JVVQ7Y-es'
 tags: [  ]

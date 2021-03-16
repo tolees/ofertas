@@ -5,7 +5,7 @@ date: 2020-05-12 18:36:06
 image: 'https://m.media-amazon.com/images/I/41PjZSwc2GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MJXHKK-es Oihxse Funda para Xiaomi Redmi S2/Y2 Transparente Estuche...'
 sku: 'B086MJXHKK-es'
 tags: [  ]

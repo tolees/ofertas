@@ -5,7 +5,7 @@ date: 2020-02-24 17:27:28
 image: 'https://m.media-amazon.com/images/I/316MbHkpqKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N133TNT-es Skechers Go Run Focus Zapatillas para Mujer Black...'
 sku: 'B07N133TNT-es'
 tags: [  ]

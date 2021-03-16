@@ -5,7 +5,7 @@ date: 2020-03-28 19:41:05
 image: 'https://m.media-amazon.com/images/I/41PKRNo-tJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016KOGWNS-es Mate Top Coat Gel Sensationail 7 39 ml'
 sku: 'B016KOGWNS-es'
 tags: [  ]

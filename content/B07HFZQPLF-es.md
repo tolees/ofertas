@@ -5,7 +5,7 @@ date: 2020-01-02 19:39:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31uMgS3ThbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFZQPLF-es New Balance 373 Zapatillas Hombre Negro Black Black 44 EU'
 sku: 'B07HFZQPLF-es'
 tags: [  ]

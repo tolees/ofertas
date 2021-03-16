@@ -5,7 +5,7 @@ date: 2020-08-26 16:54:43
 image: 'https://m.media-amazon.com/images/I/51pSzejCg8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XMY72D4-es BSN Suplemento Dietético en Polvo "Syntha 6" Sabor de...'
 sku: 'B06XMY72D4-es'
 tags: [  ]

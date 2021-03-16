@@ -5,7 +5,7 @@ date: 2020-04-07 17:09:10
 image: 'https://m.media-amazon.com/images/I/41ax1c7AAxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HXVK98C-es Wilson Profile Overgrip para Raqueta Unisex Adulto Rojo...'
 sku: 'B00HXVK98C-es'
 tags: [  ]

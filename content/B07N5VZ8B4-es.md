@@ -5,7 +5,7 @@ date: 2020-02-10 14:06:28
 image: 'https://m.media-amazon.com/images/I/41yDOFeJc9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5VZ8B4-es Calvin Klein PUFFER FLAT CROSSOVERHombreShoppers y bolsos...'
 sku: 'B07N5VZ8B4-es'
 tags: [  ]

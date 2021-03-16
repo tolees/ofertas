@@ -5,7 +5,7 @@ date: 2020-02-24 12:42:41
 image: 'https://m.media-amazon.com/images/I/31EoY-GchyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4MW87Q-es Tommy Hilfiger Bleecker TH Flex Satin Chino Gmd Pantalones...'
 sku: 'B07N4MW87Q-es'
 tags: [  ]

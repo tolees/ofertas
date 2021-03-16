@@ -5,7 +5,7 @@ date: 2020-09-22 17:04:44
 image: 'https://m.media-amazon.com/images/I/41rs8ofqUuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTNWRR2-es Meizas Conjuntos de Bikinis para Mujer Blanco X-Large'
 sku: 'B07VTNWRR2-es'
 tags: [  ]

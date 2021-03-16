@@ -5,7 +5,7 @@ date: 2020-05-26 16:11:23
 image: 'https://m.media-amazon.com/images/I/41TCSQnLqTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKUOEVK-es Astor Big & Beautiful Boom Máscara de Pestañas Tono 800...'
 sku: 'B00BKUOEVK-es'
 tags: [  ]

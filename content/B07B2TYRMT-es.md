@@ -5,7 +5,7 @@ date: 2020-04-26 10:04:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51NvmRGWl2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B2TYRMT-es RIFFUE Moto G6 Play Protector de Pantalla Cristal Vidrio...'
 sku: 'B07B2TYRMT-es'
 tags: [  ]

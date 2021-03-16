@@ -5,7 +5,7 @@ date: 2020-05-30 19:33:22
 image: 'https://m.media-amazon.com/images/I/31ufmKNkqyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HR3OXRO-es Bayer Sano & Bello Limpiador Dental - 140 gr'
 sku: 'B00HR3OXRO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 05:58:51
 image: 'https://m.media-amazon.com/images/I/519z7N3i9rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4X6RJX-es Conjunto de luces Lightailing para Creator El Puente De...'
 sku: 'B07K4X6RJX-es'
 tags: [  ]

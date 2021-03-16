@@ -5,7 +5,7 @@ date: 2020-04-24 09:08:54
 image: 'https://m.media-amazon.com/images/I/51JTCIYgmyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHS88Y9-es Depiladora Eléctrica Afeitadora Electrica Eléctrica...'
 sku: 'B07RHS88Y9-es'
 tags: [  ]

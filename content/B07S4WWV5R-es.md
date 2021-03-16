@@ -5,7 +5,7 @@ date: 2020-06-22 21:20:53
 image: 'https://m.media-amazon.com/images/I/41SONWyTQ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4WWV5R-es New Balance 997H m Zapatillas para Mujer Gris Grey/Blue...'
 sku: 'B07S4WWV5R-es'
 tags: [  ]

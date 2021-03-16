@@ -5,7 +5,7 @@ date: 2020-01-18 02:41:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51G%2BAGvaw9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004YSD2OU-es Epson C13T15934010 - Cartucho de tinta magenta Ya...'
 sku: 'B004YSD2OU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 05:49:38
 image: 'https://m.media-amazon.com/images/I/41w4rkkTEwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087MD3JZ3-es Aire Acondicionado Móvil Enfriador de Aire Portátil con...'
 sku: 'B087MD3JZ3-es'
 tags: [  ]

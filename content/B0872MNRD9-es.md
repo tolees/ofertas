@@ -5,7 +5,7 @@ date: 2020-04-23 16:02:33
 image: 'https://m.media-amazon.com/images/I/51uaGN4j08L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872MNRD9-es NMBC Almohadilla de Asiento de Coche Cool Pad 1 Universal...'
 sku: 'B0872MNRD9-es'
 tags: [  ]

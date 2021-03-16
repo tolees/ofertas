@@ -5,7 +5,7 @@ date: 2020-09-21 07:56:38
 image: 'https://m.media-amazon.com/images/I/41Atj49m8+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EQ7BGIS-es Klorane Shampoo with Nettle Mujeres No profesional Champú...'
 sku: 'B00EQ7BGIS-es'
 tags: [  ]

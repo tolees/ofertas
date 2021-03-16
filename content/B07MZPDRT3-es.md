@@ -5,7 +5,7 @@ date: 2020-01-28 11:25:58
 image: 'https://m.media-amazon.com/images/I/51LpG7GBohL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPDRT3-es Gioseppo 56898 Zapatillas para Mujer Plateado Plomo 41 EU'
 sku: 'B07MZPDRT3-es'
 tags: [  ]

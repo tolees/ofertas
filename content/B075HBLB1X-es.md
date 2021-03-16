@@ -5,7 +5,7 @@ date: 2020-07-22 08:46:07
 image: 'https://m.media-amazon.com/images/I/41M5uL-YLbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075HBLB1X-es Relojes deportivos digitales para niñas Yesure. Reloj...'
 sku: 'B075HBLB1X-es'
 tags: [  ]

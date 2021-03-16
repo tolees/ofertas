@@ -5,7 +5,7 @@ date: 2020-02-20 12:36:43
 image: 'https://m.media-amazon.com/images/I/51OH3OMXJ2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078QRRHBB-es Luz para Correr Running BraceTek luz led Frontal correr...'
 sku: 'B078QRRHBB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-21 11:11:03
 image: 'https://m.media-amazon.com/images/I/31sVa4GbGUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UOCXVA-es Pyrex Molde PLUMCAKE 28 CM 838 Cristal'
 sku: 'B000UOCXVA-es'
 tags: [  ]

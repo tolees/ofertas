@@ -5,7 +5,7 @@ date: 2020-06-22 15:38:07
 image: 'https://m.media-amazon.com/images/I/41w80gK8erL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PX4J1Y-es Lacoste Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B074PX4J1Y-es'
 tags: [  ]

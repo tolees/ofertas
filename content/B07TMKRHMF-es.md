@@ -5,7 +5,7 @@ date: 2020-06-27 08:05:41
 image: 'https://m.media-amazon.com/images/I/41YN-W9zXLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMKRHMF-es upHere LED Azul GPU Brace Soporte de Tarjeta gráfica Un...'
 sku: 'B07TMKRHMF-es'
 tags: [  ]

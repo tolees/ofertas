@@ -5,7 +5,7 @@ date: 2020-06-06 18:20:45
 image: 'https://m.media-amazon.com/images/I/41XySLVANkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CCS88P-es FMPC Carcasa con Cuerda Samsung Galaxy A71 Cristal TPU...'
 sku: 'B085CCS88P-es'
 tags: [  ]

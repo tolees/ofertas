@@ -5,7 +5,7 @@ date: 2020-02-26 11:36:34
 image: 'https://m.media-amazon.com/images/I/41-iQywj7EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVY7K43-es NOCO Boost XL GB50 1500 Amperios 12V UltraSafe Litio...'
 sku: 'B07MVY7K43-es'
 tags: [  ]

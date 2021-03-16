@@ -5,7 +5,7 @@ date: 2020-05-27 11:22:36
 image: 'https://m.media-amazon.com/images/I/41lNIIR6KbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014RJCS6S-es Issey Miyake Nuit D Issey Parfum Vapo 125 Ml 125 g'
 sku: 'B014RJCS6S-es'
 tags: [  ]

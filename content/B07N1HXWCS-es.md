@@ -5,7 +5,7 @@ date: 2020-02-27 11:36:12
 image: 'https://m.media-amazon.com/images/I/31iBYdN4gaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HXWCS-es Clarks Sheer Flora Botas Chelsea para Mujer Marrón...'
 sku: 'B07N1HXWCS-es'
 tags: [  ]

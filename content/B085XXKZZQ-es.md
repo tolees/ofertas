@@ -5,7 +5,7 @@ date: 2020-04-21 20:39:43
 image: 'https://m.media-amazon.com/images/I/51ueR5rZv-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XXKZZQ-es Mini Ventiladores de Sobremesa Ventilador USB de...'
 sku: 'B085XXKZZQ-es'
 tags: [  ]

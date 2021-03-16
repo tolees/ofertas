@@ -5,7 +5,7 @@ date: 2020-07-22 17:46:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QKGZw3Z6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSBK3L8-es BLESSUME Mujer Cordón infinito católico Capilla Velo latín...'
 sku: 'B07BSBK3L8-es'
 tags: [  ]

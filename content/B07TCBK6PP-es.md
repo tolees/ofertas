@@ -5,7 +5,7 @@ date: 2020-04-02 08:05:26
 image: 'https://m.media-amazon.com/images/I/41JjovU4fXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCBK6PP-es The North Face M Merak Forro Polar Hombre TNF Black/TNF b S'
 sku: 'B07TCBK6PP-es'
 tags: [  ]

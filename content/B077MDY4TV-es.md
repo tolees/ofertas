@@ -5,7 +5,7 @@ date: 2020-01-30 16:16:35
 image: 'https://m.media-amazon.com/images/I/41k26gXY0cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MDY4TV-es Puma Smash v2 Zapatillas Unisex adulto Negro Puma Black-...'
 sku: 'B077MDY4TV-es'
 tags: [  ]

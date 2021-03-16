@@ -5,7 +5,7 @@ date: 2020-04-02 20:13:03
 image: 'https://m.media-amazon.com/images/I/41-FZNDXpGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0749BFYY9-es Corsair Void PRO RGB Wireless Auriculares para Juegos 7.1...'
 sku: 'B0749BFYY9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-30 15:28:16
 image: 'https://m.media-amazon.com/images/I/41QtfEIL4NL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CG3S8CZ-es JACK & JONES Jjeholmen Sweat Pants Noos Pantalones para...'
 sku: 'B07CG3S8CZ-es'
 tags: [  ]

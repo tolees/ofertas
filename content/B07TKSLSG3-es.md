@@ -5,7 +5,7 @@ date: 2020-07-14 06:32:00
 image: 'https://m.media-amazon.com/images/I/31NLQ3hxEUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKSLSG3-es Clarks Triamelia Edge Zapatillas para Mujer Beige Black...'
 sku: 'B07TKSLSG3-es'
 tags: [  ]

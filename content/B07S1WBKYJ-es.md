@@ -5,7 +5,7 @@ date: 2020-03-19 09:02:11
 image: 'https://m.media-amazon.com/images/I/41a044zkGPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1WBKYJ-es Liberex Barbero Electrico Hombres - Máquina de Cortar Pelo...'
 sku: 'B07S1WBKYJ-es'
 tags: [  ]

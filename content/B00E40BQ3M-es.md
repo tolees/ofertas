@@ -5,7 +5,7 @@ date: 2020-04-21 11:05:05
 image: 'https://m.media-amazon.com/images/I/41Dy8XZg7nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E40BQ3M-es Superga 2750 Cotu Classic Zapatillas Unisex Multicolor...'
 sku: 'B00E40BQ3M-es'
 tags: [  ]

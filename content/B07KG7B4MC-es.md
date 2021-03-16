@@ -5,7 +5,7 @@ date: 2020-05-13 12:05:37
 image: 'https://m.media-amazon.com/images/I/51-e8eHrooL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG7B4MC-es HKSMAN - Adaptador de Conector RCA Macho de Audio y vídeo...'
 sku: 'B07KG7B4MC-es'
 tags: [  ]

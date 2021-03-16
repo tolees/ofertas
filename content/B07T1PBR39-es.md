@@ -5,7 +5,7 @@ date: 2020-08-21 21:23:26
 image: 'https://m.media-amazon.com/images/I/41nkKDLTMcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1PBR39-es BESTEK Inversor De Corriente 300W para Coche Transformador...'
 sku: 'B07T1PBR39-es'
 tags: [  ]

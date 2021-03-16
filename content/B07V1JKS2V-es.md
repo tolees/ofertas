@@ -5,7 +5,7 @@ date: 2020-09-25 09:48:36
 image: 'https://m.media-amazon.com/images/I/41t0cHYWJCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1JKS2V-es Nike Pico 5 Gymnastics Shoe Unisex-Child Negro 40 EU'
 sku: 'B07V1JKS2V-es'
 tags: [  ]

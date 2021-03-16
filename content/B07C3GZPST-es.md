@@ -5,7 +5,7 @@ date: 2020-01-29 13:39:22
 image: 'https://m.media-amazon.com/images/I/413b4CRZZaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C3GZPST-es Movaty Bote para café con cuchara Café hermética...'
 sku: 'B07C3GZPST-es'
 tags: [  ]

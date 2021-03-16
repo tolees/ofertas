@@ -5,7 +5,7 @@ date: 2020-01-14 20:40:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316gThEuABL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5G2K4L-es Siux ANTIVIBRADOR VIBRASTOP K 2.0 Negro'
 sku: 'B07Z5G2K4L-es'
 tags: [  ]

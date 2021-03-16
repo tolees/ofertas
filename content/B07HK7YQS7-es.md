@@ -5,7 +5,7 @@ date: 2020-04-01 06:56:10
 image: 'https://m.media-amazon.com/images/I/41qhMc3a3hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HK7YQS7-es Amazon Essentials - Cazadora ligera para hombre Azul...'
 sku: 'B07HK7YQS7-es'
 tags: [  ]

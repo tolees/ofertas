@@ -5,7 +5,7 @@ date: 2020-05-23 12:01:42
 image: 'https://m.media-amazon.com/images/I/41E0xSOLIkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5V1MYQ-es NNJXD Pajarita infantil mameluco para el primer cumpleaños...'
 sku: 'B07D5V1MYQ-es'
 tags: [  ]

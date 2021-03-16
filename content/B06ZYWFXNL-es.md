@@ -5,7 +5,7 @@ date: 2020-07-12 18:51:18
 image: 'https://m.media-amazon.com/images/I/51fwka3uhVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYWFXNL-es Speedo Teamster 35L Mochilas y Bolsas Unisex Adulto...'
 sku: 'B06ZYWFXNL-es'
 tags: [  ]

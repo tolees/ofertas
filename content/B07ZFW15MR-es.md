@@ -5,7 +5,7 @@ date: 2020-08-02 13:24:52
 image: 'https://m.media-amazon.com/images/I/51g21MJcLbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFW15MR-es 24x Gris blanco Lámina impresa 2d 15x15cm PEGATINAS lisas...'
 sku: 'B07ZFW15MR-es'
 tags: [  ]

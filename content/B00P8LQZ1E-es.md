@@ -5,7 +5,7 @@ date: 2020-03-20 16:57:15
 image: 'https://m.media-amazon.com/images/I/31L8uMrOlGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P8LQZ1E-es Canterbury - Calcetines/medias de deporte/entrenamiento...'
 sku: 'B00P8LQZ1E-es'
 tags: [  ]

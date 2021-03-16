@@ -5,7 +5,7 @@ date: 2020-05-25 07:04:31
 image: 'https://m.media-amazon.com/images/I/51ETIKKl-ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8ZZVKC-es Asmuse Multi Efecto Pedal Guitarra Eléctrica MG100...'
 sku: 'B07D8ZZVKC-es'
 tags: [  ]

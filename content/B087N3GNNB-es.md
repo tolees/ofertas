@@ -5,7 +5,7 @@ date: 2020-06-29 11:04:55
 image: 'https://m.media-amazon.com/images/I/51MYfzCMnGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087N3GNNB-es P Prettyia Cámara De De Juegos A Prueba De Agua Al Aire...'
 sku: 'B087N3GNNB-es'
 tags: [  ]

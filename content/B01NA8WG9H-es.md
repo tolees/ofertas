@@ -5,7 +5,7 @@ date: 2020-01-21 15:36:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410c2idDlnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NA8WG9H-es Marco Tozzi 2-2-24215-28 514 Bailarinas Mujer Rosa Pink...'
 sku: 'B01NA8WG9H-es'
 tags: [  ]

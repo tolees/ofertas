@@ -5,7 +5,7 @@ date: 2020-01-07 15:53:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ojtoAQKyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9WJDGJ-es Lacoste Carnaby EVO 319 3 SMA Zapatillas para Hombre Negro...'
 sku: 'B07L9WJDGJ-es'
 tags: [  ]

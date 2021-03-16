@@ -5,7 +5,7 @@ date: 2020-03-26 07:23:56
 image: 'https://m.media-amazon.com/images/I/31nu6t+TzTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I8KRWB4-es Artdeco High Definition Foundation 11 Medium Honey Beige...'
 sku: 'B00I8KRWB4-es'
 tags: [  ]

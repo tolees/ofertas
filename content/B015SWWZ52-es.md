@@ -5,7 +5,7 @@ date: 2020-03-15 17:05:48
 image: 'https://m.media-amazon.com/images/I/41a4+GqT4aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015SWWZ52-es S&R Alicate corte diagonal electricista 180mm VDE-series...'
 sku: 'B015SWWZ52-es'
 tags: [  ]

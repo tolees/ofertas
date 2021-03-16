@@ -5,7 +5,7 @@ date: 2020-03-18 22:29:21
 image: 'https://m.media-amazon.com/images/I/51kRXx+1gAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJBL54H-es Altavoz Bluetooth Portatiles IPX6 Impermeable 20W Altavoz...'
 sku: 'B07DJBL54H-es'
 tags: [  ]

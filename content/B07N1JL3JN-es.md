@@ -5,7 +5,7 @@ date: 2020-05-03 13:27:15
 image: 'https://m.media-amazon.com/images/I/41gAtC9ccaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JL3JN-es Clarks Griffin Plaza Botas Chelsea para Mujer Gris Taupe...'
 sku: 'B07N1JL3JN-es'
 tags: [  ]

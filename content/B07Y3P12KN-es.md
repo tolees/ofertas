@@ -5,7 +5,7 @@ date: 2020-02-09 12:37:11
 image: 'https://m.media-amazon.com/images/I/413BUrrXa9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y3P12KN-es Cepillo Alisador de Pelo Abody Cepillo Iónico con 4...'
 sku: 'B07Y3P12KN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-24 17:21:56
 image: 'https://m.media-amazon.com/images/I/319v6muqNXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0012VN1EI-es Hawaiian Tropic After Sun Gel Cooling Aloe - Gel After Sun...'
 sku: 'B0012VN1EI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 20:05:36
 image: 'https://m.media-amazon.com/images/I/51mHBybUJKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FX8QW9X-es 3 Pares Calcetines Mujer Hombre Senderismo Calcetines para...'
 sku: 'B08FX8QW9X-es'
 tags: [  ]

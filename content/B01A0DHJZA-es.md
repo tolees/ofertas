@@ -5,7 +5,7 @@ date: 2020-05-15 09:38:03
 image: 'https://m.media-amazon.com/images/I/41mwGycbRqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A0DHJZA-es Albainox 9244 Insignias Unisex Adulto Multicolor Talla Única'
 sku: 'B01A0DHJZA-es'
 tags: [  ]

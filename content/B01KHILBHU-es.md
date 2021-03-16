@@ -5,7 +5,7 @@ date: 2020-04-27 21:33:14
 image: 'https://m.media-amazon.com/images/I/51q5wMzAZuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KHILBHU-es Philips - bombilla E27 rosca Edison LED 230 V – blanco...'
 sku: 'B01KHILBHU-es'
 tags: [  ]

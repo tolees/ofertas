@@ -5,7 +5,7 @@ date: 2020-03-20 01:31:27
 image: 'https://m.media-amazon.com/images/I/31mO2ij1hjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GS8LZ1V-es Max Factor LipFinity Velvet Matte Pintalabios Tono 055...'
 sku: 'B07GS8LZ1V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 18:21:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4180X4IxbnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3M3XG4-es Superdry Hombre Storm Hybrid Jacket Negro X-Large'
 sku: 'B07F3M3XG4-es'
 tags: [  ]

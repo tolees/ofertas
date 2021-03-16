@@ -5,7 +5,7 @@ date: 2020-09-23 06:13:39
 image: 'https://m.media-amazon.com/images/I/31IZFRtxJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9RTWX8-es PUMA Flyer Runner Zapatillas para Correr de Carretera...'
 sku: 'B07S9RTWX8-es'
 tags: [  ]

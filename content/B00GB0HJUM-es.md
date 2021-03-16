@@ -5,7 +5,7 @@ date: 2020-08-12 13:18:16
 image: 'https://m.media-amazon.com/images/I/31EB6i42YtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GB0HJUM-es Rimmel London Moisture Renew Barra De Labios Tono 200...'
 sku: 'B00GB0HJUM-es'
 tags: [  ]

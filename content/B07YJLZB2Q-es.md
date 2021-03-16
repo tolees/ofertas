@@ -5,7 +5,7 @@ date: 2020-07-21 14:58:10
 image: 'https://m.media-amazon.com/images/I/51-3ISlPBkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJLZB2Q-es FORMIZON Equilibrar Juego de Matemáticas Juguete Animal...'
 sku: 'B07YJLZB2Q-es'
 tags: [  ]

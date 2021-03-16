@@ -5,7 +5,7 @@ date: 2020-03-12 16:14:43
 image: 'https://m.media-amazon.com/images/I/51jssE+qIPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGRF6DV-es Pantalones de Yoga Sueltos Mujer Harem Boho del Lazo del...'
 sku: 'B07HGRF6DV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 09:42:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OGYnaoUpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJG2J4V-es Lacoste Carnaby EVO 119 7 SMA Zapatillas para Hombre Azul...'
 sku: 'B07NJG2J4V-es'
 tags: [  ]

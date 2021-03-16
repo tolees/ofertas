@@ -5,7 +5,7 @@ date: 2020-04-09 19:51:01
 image: 'https://m.media-amazon.com/images/I/41xeutdXqTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBBTN9H-es Diablo III: Battle Chest - Standard | Código Battle.net...'
 sku: 'B07JBBTN9H-es'
 tags: [  ]

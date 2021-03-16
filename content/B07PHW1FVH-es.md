@@ -5,7 +5,7 @@ date: 2019-12-31 17:12:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3195gLFI00L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHW1FVH-es Nike Todos Zapatillas para Hombre Negro Black/White 002...'
 sku: 'B07PHW1FVH-es'
 tags: [  ]

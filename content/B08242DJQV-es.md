@@ -5,7 +5,7 @@ date: 2020-03-19 13:12:44
 image: 'https://m.media-amazon.com/images/I/51X-SdVuKHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08242DJQV-es Pack de 10 Bolsas de Comida Reutilizables Sweety Fox -...'
 sku: 'B08242DJQV-es'
 tags: [  ]

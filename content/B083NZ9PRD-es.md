@@ -5,7 +5,7 @@ date: 2020-08-26 15:00:43
 image: 'https://m.media-amazon.com/images/I/41XgxRY8xoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NZ9PRD-es HOMYBABY Muselinas Bebe Algodon 120x120 [1pc] | Muselina...'
 sku: 'B083NZ9PRD-es'
 tags: [  ]

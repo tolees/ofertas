@@ -5,7 +5,7 @@ date: 2020-04-19 09:24:26
 image: 'https://m.media-amazon.com/images/I/317aoQe7IaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0786M9QTZ-es PUMA Liga Training Pants Core Jr Pantalones Unisex Niños...'
 sku: 'B0786M9QTZ-es'
 tags: [  ]

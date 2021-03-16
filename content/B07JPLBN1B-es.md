@@ -5,7 +5,7 @@ date: 2020-04-16 08:55:35
 image: 'https://m.media-amazon.com/images/I/41f1usMsVQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPLBN1B-es Luz de techo LED Baño Cocina Dormitorio Luces de techo...'
 sku: 'B07JPLBN1B-es'
 tags: [  ]

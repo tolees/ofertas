@@ -5,7 +5,7 @@ date: 2020-04-08 05:35:20
 image: 'https://m.media-amazon.com/images/I/41sLEjzPizL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0856XN6ZH-es KFD 120W Adaptador Cargador Portátil para MSI Gx740 CX62...'
 sku: 'B0856XN6ZH-es'
 tags: [  ]

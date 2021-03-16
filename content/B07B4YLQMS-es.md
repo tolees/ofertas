@@ -5,7 +5,7 @@ date: 2020-09-17 17:53:01
 image: 'https://m.media-amazon.com/images/I/51SLcRiCRpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4YLQMS-es Circuito ferrocarril Ciudad ajetreada'
 sku: 'B07B4YLQMS-es'
 tags: [  ]

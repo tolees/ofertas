@@ -5,7 +5,7 @@ date: 2020-03-26 07:09:28
 image: 'https://m.media-amazon.com/images/I/51kTtnC7rgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0035LCW3O-es Ardell Tratamiento para pestañas 109 Black - 25 gr.'
 sku: 'B0035LCW3O-es'
 tags: [  ]

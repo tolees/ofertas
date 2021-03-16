@@ -5,7 +5,7 @@ date: 2020-09-06 03:51:50
 image: 'https://m.media-amazon.com/images/I/51P7CSfnEpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KA7QTD4-es Guess Reloj Multiesfera para Hombre de Cuarzo con Correa...'
 sku: 'B01KA7QTD4-es'
 tags: [  ]

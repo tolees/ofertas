@@ -5,7 +5,7 @@ date: 2020-01-14 14:29:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pav456M-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXL7VGC-es Asics Gel-Pulse 10 1012a010-002 Zapatillas de...'
 sku: 'B07KXL7VGC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 08:41:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UXoxQtaoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H1X8RXU-es Panama Jack Panama 03 Igloo Botas Militar para Mujer Gris...'
 sku: 'B01H1X8RXU-es'
 tags: [  ]

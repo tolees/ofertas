@@ -5,7 +5,7 @@ date: 2020-06-15 08:21:36
 image: 'https://m.media-amazon.com/images/I/41k0FwQptiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS6C9WK-es Tommy Hilfiger - Classic Saffiano Bumbag Bolsos bandolera...'
 sku: 'B07RS6C9WK-es'
 tags: [  ]

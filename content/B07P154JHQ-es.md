@@ -5,7 +5,7 @@ date: 2020-02-06 12:42:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Wq2FtpN-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P154JHQ-es deAO Cocinita Mi Pequeño Chef con Características de...'
 sku: 'B07P154JHQ-es'
 tags: [  ]

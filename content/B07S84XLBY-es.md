@@ -5,7 +5,7 @@ date: 2020-01-08 19:56:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QvU09-FZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S84XLBY-es adidas Outline TRF tee T-Shirt Hombre White L'
 sku: 'B07S84XLBY-es'
 tags: [  ]

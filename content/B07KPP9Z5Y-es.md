@@ -5,7 +5,7 @@ date: 2020-06-08 14:36:14
 image: 'https://m.media-amazon.com/images/I/413dtHpdvbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPP9Z5Y-es Ban presto- The Battle Dragon Ball Estatua Androide 18...'
 sku: 'B07KPP9Z5Y-es'
 tags: [  ]

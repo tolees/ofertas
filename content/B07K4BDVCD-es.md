@@ -5,7 +5,7 @@ date: 2020-03-17 13:38:55
 image: 'https://m.media-amazon.com/images/I/51yMX3NNW7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4BDVCD-es Exfoliante corporal PraNaturals de Sal rosada del Himalaya...'
 sku: 'B07K4BDVCD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-04 16:25:56
 image: 'https://m.media-amazon.com/images/I/51oLYylDIJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0775XGTNG-es Gifort Esponja de Silicona 3 Piezas Silicona Esponja de...'
 sku: 'B0775XGTNG-es'
 tags: [  ]

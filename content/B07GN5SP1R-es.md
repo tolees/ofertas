@@ -5,7 +5,7 @@ date: 2020-04-14 09:17:11
 image: 'https://m.media-amazon.com/images/I/61rcR4hq-2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GN5SP1R-es WinWonder 17 piezas de fabricación de joyas herramientas...'
 sku: 'B07GN5SP1R-es'
 tags: [  ]

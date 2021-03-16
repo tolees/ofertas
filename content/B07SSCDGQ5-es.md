@@ -5,7 +5,7 @@ date: 2020-04-10 16:40:29
 image: 'https://m.media-amazon.com/images/I/41IrRPlJ7nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSCDGQ5-es adidas Stan Smith J Zapatillas de Gimnasia Unisex Niños...'
 sku: 'B07SSCDGQ5-es'
 tags: [  ]

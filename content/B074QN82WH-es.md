@@ -5,7 +5,7 @@ date: 2020-03-09 11:45:53
 image: 'https://m.media-amazon.com/images/I/41Yssr3IBRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074QN82WH-es ICZI Adaptador USB Tipo C a HDMI de Aluminio Hub USB C...'
 sku: 'B074QN82WH-es'
 tags: [  ]

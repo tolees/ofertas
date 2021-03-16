@@ -5,7 +5,7 @@ date: 2020-05-28 10:03:26
 image: 'https://m.media-amazon.com/images/I/41WGntaz1jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MXKV4Y-es WYT Almohada Bebé Cojín Recién nacido para Anti...'
 sku: 'B075MXKV4Y-es'
 tags: [  ]

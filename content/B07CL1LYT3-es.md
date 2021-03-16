@@ -5,7 +5,7 @@ date: 2020-01-12 09:06:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51QaExehbxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CL1LYT3-es Zerone Mini Altavoz Bluetooth Wireless portátil estéreo...'
 sku: 'B07CL1LYT3-es'
 tags: [  ]

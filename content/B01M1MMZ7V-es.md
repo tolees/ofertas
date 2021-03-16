@@ -5,7 +5,7 @@ date: 2020-05-28 16:51:34
 image: 'https://m.media-amazon.com/images/I/41CG34auUKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1MMZ7V-es Einhell 4512040 Kit con Cargador batería de Repuesto de 18...'
 sku: 'B01M1MMZ7V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-19 18:01:11
 image: 'https://m.media-amazon.com/images/I/41YF7B0c3OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089DHRNK7-es luosh Rodillo de Pintura 4 Piezas de Esponja para niños...'
 sku: 'B089DHRNK7-es'
 tags: [  ]

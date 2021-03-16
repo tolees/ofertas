@@ -5,7 +5,7 @@ date: 2020-06-15 16:49:31
 image: 'https://m.media-amazon.com/images/I/616J14cKY9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FPELUI6-es "6 Especialidades de Cerveza Alemana" Colección de la...'
 sku: 'B01FPELUI6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-12 13:16:45
 image: 'https://m.media-amazon.com/images/I/41G+jmt9BSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCCFHSB-es Tommee Tippee Juguete transpirable Henry el Hipopótamo'
 sku: 'B07GCCFHSB-es'
 tags: [  ]

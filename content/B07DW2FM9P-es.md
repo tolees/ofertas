@@ -5,7 +5,7 @@ date: 2020-07-20 15:10:23
 image: 'https://m.media-amazon.com/images/I/51sM0HHwBZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW2FM9P-es Fuumuui DIY preimpreso Lienzo Regalo de Pintura al óleo...'
 sku: 'B07DW2FM9P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 07:33:24
 image: 'https://m.media-amazon.com/images/I/41aiR+rwbOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5E9QYE-es Singer HZB-12/A - Máquina de hielos plástico Color Rojo'
 sku: 'B01M5E9QYE-es'
 tags: [  ]

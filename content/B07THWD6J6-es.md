@@ -5,7 +5,7 @@ date: 2020-07-25 01:56:45
 image: 'https://m.media-amazon.com/images/I/41AMxDn0w9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THWD6J6-es Lacoste Mh6270 Pantalones Cortos Verde Vert/Marine 381...'
 sku: 'B07THWD6J6-es'
 tags: [  ]

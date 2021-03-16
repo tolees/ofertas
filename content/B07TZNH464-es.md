@@ -5,7 +5,7 @@ date: 2020-09-20 08:23:53
 image: 'https://m.media-amazon.com/images/I/41yOdTn1WIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZNH464-es Skechers Summits Zapatillas para Mujer Gris Gray Mesh/Hot...'
 sku: 'B07TZNH464-es'
 tags: [  ]

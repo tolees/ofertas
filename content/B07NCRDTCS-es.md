@@ -5,7 +5,7 @@ date: 2020-06-02 19:38:39
 image: 'https://m.media-amazon.com/images/I/41s852aJlRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCRDTCS-es Naturalia Somier Dreams Tubo de Acero y láminas de chopo...'
 sku: 'B07NCRDTCS-es'
 tags: [  ]

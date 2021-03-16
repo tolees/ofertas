@@ -5,7 +5,7 @@ date: 2020-02-04 23:02:32
 image: 'https://m.media-amazon.com/images/I/41jiweBTGrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTCJPLL-es Sekey 230x160 cm Cortina Mosquitera magnética para la...'
 sku: 'B07PTCJPLL-es'
 tags: [  ]

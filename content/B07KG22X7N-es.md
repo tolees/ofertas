@@ -5,7 +5,7 @@ date: 2020-05-12 00:25:29
 image: 'https://m.media-amazon.com/images/I/31pwsmRGtPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG22X7N-es PUMA Nova Wn s Zapatillas Deportivas para Mujer Rosa...'
 sku: 'B07KG22X7N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-20 18:37:09
 image: 'https://m.media-amazon.com/images/I/417iJ0tOGhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXJFRDN-es New Balance 373v2 Zapatillas para Mujer Rosa Pink Cc2 35 EU'
 sku: 'B07RXJFRDN-es'
 tags: [  ]

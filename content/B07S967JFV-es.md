@@ -5,7 +5,7 @@ date: 2020-01-21 13:55:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514oMGQoIDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S967JFV-es adidas Energyfalcon X Zapatillas de Entrenamiento para...'
 sku: 'B07S967JFV-es'
 tags: [  ]

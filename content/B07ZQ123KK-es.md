@@ -5,7 +5,7 @@ date: 2020-04-17 07:02:07
 image: 'https://m.media-amazon.com/images/I/31U5rZ5opFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQ123KK-es KOKO Zhu Espejo de lechón Asiento de Seguridad para el...'
 sku: 'B07ZQ123KK-es'
 tags: [  ]

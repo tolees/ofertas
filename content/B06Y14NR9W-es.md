@@ -5,7 +5,7 @@ date: 2020-04-21 16:41:06
 image: 'https://m.media-amazon.com/images/I/419FwRNS-lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y14NR9W-es Philips Everplay BT3900B - Altavoz Bluetooth Potente y...'
 sku: 'B06Y14NR9W-es'
 tags: [  ]

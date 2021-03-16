@@ -5,7 +5,7 @@ date: 2020-02-11 14:29:52
 image: 'https://m.media-amazon.com/images/I/416bagfBvNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5RWF46-es Pop! My Hero Academia - Figura de Vinilo 5 Star Deku'
 sku: 'B07N5RWF46-es'
 tags: [  ]

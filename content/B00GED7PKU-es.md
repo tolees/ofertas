@@ -5,7 +5,7 @@ date: 2020-03-19 01:37:30
 image: 'https://m.media-amazon.com/images/I/512h-a-SmXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GED7PKU-es SHIMANO R55C4 Zapatas Sueltas Unisex Adulto Multicolor...'
 sku: 'B00GED7PKU-es'
 tags: [  ]

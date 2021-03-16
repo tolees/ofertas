@@ -5,7 +5,7 @@ date: 2020-04-26 16:40:33
 image: 'https://m.media-amazon.com/images/I/41AGHBmMNWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872P7YHZ-es Funda Transparente Compatible para Xiaomi Mi Mix 3 Carcasa...'
 sku: 'B0872P7YHZ-es'
 tags: [  ]

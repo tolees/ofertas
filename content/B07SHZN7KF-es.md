@@ -5,7 +5,7 @@ date: 2020-03-19 13:45:54
 image: 'https://m.media-amazon.com/images/I/315nrtBvECL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHZN7KF-es Nike Court Royale Zapatillas de Tenis para Hombre...'
 sku: 'B07SHZN7KF-es'
 tags: [  ]

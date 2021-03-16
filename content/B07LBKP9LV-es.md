@@ -5,7 +5,7 @@ date: 2020-01-04 13:26:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417EOWv2kKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBKP9LV-es Tommy Jeans TJM Essential Chino Short Bañador Verde...'
 sku: 'B07LBKP9LV-es'
 tags: [  ]

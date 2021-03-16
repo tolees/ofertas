@@ -5,7 +5,7 @@ date: 2020-01-27 11:23:13
 image: 'https://m.media-amazon.com/images/I/41WFo2Pzm1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3J8NBW-es Finish Todo en 1 Max Limón Pastillas para Lavavajillas -...'
 sku: 'B07S3J8NBW-es'
 tags: [  ]

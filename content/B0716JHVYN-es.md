@@ -5,7 +5,7 @@ date: 2020-02-11 11:32:57
 image: 'https://m.media-amazon.com/images/I/41f9Sk-wREL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0716JHVYN-es Glighone Apliques de Pared Moderna Lámpara de Pared Led...'
 sku: 'B0716JHVYN-es'
 tags: [  ]

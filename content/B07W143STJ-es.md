@@ -5,7 +5,7 @@ date: 2020-05-31 00:46:36
 image: 'https://m.media-amazon.com/images/I/41qGkNKcnSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W143STJ-es Todotumovil Protector de Pantalla Xiaomi Mi 9 SE Mi9 SE...'
 sku: 'B07W143STJ-es'
 tags: [  ]

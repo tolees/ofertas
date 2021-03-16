@@ -5,7 +5,7 @@ date: 2020-01-22 08:54:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JsvCdYJcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNMK2YW-es HOMCOM Coche Eléctrico para Niño 3-8 Años Audi R8 con...'
 sku: 'B07FNMK2YW-es'
 tags: [  ]

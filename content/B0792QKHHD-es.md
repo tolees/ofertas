@@ -5,7 +5,7 @@ date: 2020-08-24 14:34:19
 image: 'https://m.media-amazon.com/images/I/41P04t6TwAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792QKHHD-es HOMCOM Coberizo de Madera de Jardín Caseta para...'
 sku: 'B0792QKHHD-es'
 tags: [  ]

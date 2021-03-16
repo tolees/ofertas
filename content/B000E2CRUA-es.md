@@ -5,7 +5,7 @@ date: 2020-05-22 20:42:33
 image: 'https://m.media-amazon.com/images/I/41GzXSkqb2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E2CRUA-es K&N AL-1004 Filtro de Aire para Aprilia RSV MILLE 2004 RSV...'
 sku: 'B000E2CRUA-es'
 tags: [  ]

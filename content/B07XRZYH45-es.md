@@ -5,7 +5,7 @@ date: 2020-07-03 17:06:36
 image: 'https://m.media-amazon.com/images/I/31NiHCG7EpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRZYH45-es Trust GXT 764 Glide-Flex - XXL Alfombrilla de ratón RGB...'
 sku: 'B07XRZYH45-es'
 tags: [  ]

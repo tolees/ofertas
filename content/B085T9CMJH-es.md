@@ -5,7 +5,7 @@ date: 2020-06-09 15:15:29
 image: 'https://m.media-amazon.com/images/I/51T714GgHML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085T9CMJH-es J TOHLO 2pcs Aloe Vera Gel -Puro Gel Calmante 100% Natural...'
 sku: 'B085T9CMJH-es'
 tags: [  ]

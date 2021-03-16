@@ -5,7 +5,7 @@ date: 2020-03-03 13:10:21
 image: 'https://m.media-amazon.com/images/I/51SfUQMaMSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0842GRNB7-es Kit De Funda Transparente: Un Estado Emocionante Y...'
 sku: 'B0842GRNB7-es'
 tags: [  ]

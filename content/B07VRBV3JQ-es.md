@@ -5,7 +5,7 @@ date: 2020-05-10 14:56:35
 image: 'https://m.media-amazon.com/images/I/41S15fTQeXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRBV3JQ-es SKY LIGHT Sartén Antiadherente 24 cm Embalaje Caja de...'
 sku: 'B07VRBV3JQ-es'
 tags: [  ]

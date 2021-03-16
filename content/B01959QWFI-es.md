@@ -5,7 +5,7 @@ date: 2020-04-29 08:53:04
 image: 'https://m.media-amazon.com/images/I/318rtVJdrwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01959QWFI-es Intex 57181NP - Piscina hinchable rectangular 229 x 147 x...'
 sku: 'B01959QWFI-es'
 tags: [  ]

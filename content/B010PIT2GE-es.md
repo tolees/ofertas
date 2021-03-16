@@ -5,7 +5,7 @@ date: 2020-08-10 19:21:29
 image: 'https://m.media-amazon.com/images/I/51HEgrx9CHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010PIT2GE-es Casio SGW-1000-1AER - Reloj con correa de resina para...'
 sku: 'B010PIT2GE-es'
 tags: [  ]

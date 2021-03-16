@@ -5,7 +5,7 @@ date: 2020-07-10 16:21:53
 image: 'https://m.media-amazon.com/images/I/31wDnXpdwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JBSLLX-es Rizador de Pestañas TOUCHBeauty Rizador de Pestañas...'
 sku: 'B083JBSLLX-es'
 tags: [  ]

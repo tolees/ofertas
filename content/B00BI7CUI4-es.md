@@ -5,7 +5,7 @@ date: 2020-06-22 12:51:26
 image: 'https://m.media-amazon.com/images/I/319d239WdHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BI7CUI4-es Julbo Vermont Classic - J010-20125'
 sku: 'B00BI7CUI4-es'
 tags: [  ]

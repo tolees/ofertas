@@ -5,7 +5,7 @@ date: 2020-05-27 17:17:37
 image: 'https://m.media-amazon.com/images/I/41GwRFFAihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYR7HHT-es Soporte Tablet Apoyo de Teléfono para Coches Diseño...'
 sku: 'B07MYR7HHT-es'
 tags: [  ]

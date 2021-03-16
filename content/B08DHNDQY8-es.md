@@ -5,7 +5,7 @@ date: 2020-08-28 11:06:56
 image: 'https://m.media-amazon.com/images/I/51S4WmovOgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHNDQY8-es VPbao - 50 hojas de papel de origami para álbumes de...'
 sku: 'B08DHNDQY8-es'
 tags: [  ]

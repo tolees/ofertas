@@ -5,7 +5,7 @@ date: 2020-02-01 12:53:27
 image: 'https://m.media-amazon.com/images/I/31rctu3HAPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCP1N7G-es Funko- Pocket Pop Keychain: Avengers Endgame: Thanos...'
 sku: 'B07MCP1N7G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-18 17:02:05
 image: 'https://m.media-amazon.com/images/I/31aY6Low4DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082LLS3PL-es Medisana IN 520 Inhalador portátil para viajes nebulizador...'
 sku: 'B082LLS3PL-es'
 tags: [  ]

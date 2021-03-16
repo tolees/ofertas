@@ -5,7 +5,7 @@ date: 2020-08-26 11:04:55
 image: 'https://m.media-amazon.com/images/I/41hNYgU7hXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQDJBQ3-es Unidad externa de CD y DVD VersionTECH. USB 3.0 -...'
 sku: 'B07NQDJBQ3-es'
 tags: [  ]

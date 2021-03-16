@@ -5,7 +5,7 @@ date: 2020-03-08 00:03:33
 image: 'https://m.media-amazon.com/images/I/417kgSMJJFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00904MSHA-es Sesderma Acglicolic Classic Leche Corporal Hidratante 200 ml'
 sku: 'B00904MSHA-es'
 tags: [  ]

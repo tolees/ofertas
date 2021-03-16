@@ -5,7 +5,7 @@ date: 2020-05-06 08:08:03
 image: 'https://m.media-amazon.com/images/I/61XA97WhyRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHJR8M8-es My Hero One´s Justice'
 sku: 'B07CHJR8M8-es'
 tags: [  ]

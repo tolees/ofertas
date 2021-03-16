@@ -5,7 +5,7 @@ date: 2020-08-20 18:10:26
 image: 'https://m.media-amazon.com/images/I/413Z8zOV-AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BNRJP1E-es Superga 2750 COTU Classic Zapatillas Unisex Lt Grey 506 41 EU'
 sku: 'B00BNRJP1E-es'
 tags: [  ]

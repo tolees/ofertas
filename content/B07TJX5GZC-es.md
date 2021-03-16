@@ -5,7 +5,7 @@ date: 2020-01-09 14:49:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51MW8wdaVLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJX5GZC-es Leathlux Funda Xiaomi Redmi Note 7 + [2 Pack] Cristal...'
 sku: 'B07TJX5GZC-es'
 tags: [  ]

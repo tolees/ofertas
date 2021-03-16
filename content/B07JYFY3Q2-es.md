@@ -5,7 +5,7 @@ date: 2020-01-16 12:08:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QGHBr1u%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYFY3Q2-es Tommy Hilfiger Indigo Regular LS Polo Azul Maritime Blue...'
 sku: 'B07JYFY3Q2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-24 00:37:55
 image: 'https://m.media-amazon.com/images/I/31RwtFFKRBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000JF9Q1U-es Redken 54461 - Cuidado capilar 150 ml'
 sku: 'B000JF9Q1U-es'
 tags: [  ]

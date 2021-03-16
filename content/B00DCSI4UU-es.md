@@ -5,7 +5,7 @@ date: 2020-01-29 12:28:59
 image: 'https://m.media-amazon.com/images/I/41Nyx0Sj7eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DCSI4UU-es Orbegozo CT 12105 Ventilador de techo con luz 5 palas...'
 sku: 'B00DCSI4UU-es'
 tags: [  ]

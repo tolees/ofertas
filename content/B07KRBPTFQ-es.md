@@ -5,7 +5,7 @@ date: 2020-01-12 02:12:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ttv3YpTSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRBPTFQ-es GANT FOOTWEAR Atlanta Zapatillas para Hombre Azul Marine...'
 sku: 'B07KRBPTFQ-es'
 tags: [  ]

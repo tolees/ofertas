@@ -5,7 +5,7 @@ date: 2020-04-17 00:32:15
 image: 'https://m.media-amazon.com/images/I/51Edyr-5urL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXSV2KY-es Té de hierbas chino Flor Fruta Té Rosa Té Conservado Seda...'
 sku: 'B07TXSV2KY-es'
 tags: [  ]

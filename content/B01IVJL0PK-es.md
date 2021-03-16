@@ -5,7 +5,7 @@ date: 2020-02-16 10:08:34
 image: 'https://m.media-amazon.com/images/I/41k2X1zKurL._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IVJL0PK-es Pack Quitamanchas Sinmanchas 750Ml + Sinmanchas Coloreadas...'
 sku: 'B01IVJL0PK-es'
 tags: [  ]

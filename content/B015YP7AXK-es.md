@@ -5,7 +5,7 @@ date: 2020-02-06 19:51:18
 image: 'https://m.media-amazon.com/images/I/411OfMeZmuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015YP7AXK-es Beurer MP100 Set Manicura Y Pedicura Multicolor'
 sku: 'B015YP7AXK-es'
 tags: [  ]

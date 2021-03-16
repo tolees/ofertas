@@ -5,7 +5,7 @@ date: 2020-04-22 06:18:55
 image: 'https://m.media-amazon.com/images/I/41H8Flv9pML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YKGGB22-es Altavoz Bluetooth 30W VTIN B2 Altavoz Bluetooth Estéreo...'
 sku: 'B07YKGGB22-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-25 14:56:06
 image: 'https://m.media-amazon.com/images/I/317umn76BeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZV2JYFY-es Helly Hansen Transat Polo Hombre Royal Blue 2XL'
 sku: 'B07ZV2JYFY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-07 16:03:49
 image: 'https://m.media-amazon.com/images/I/41cVS+Aw45L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NP1DJ1H-es Samsung Monitor U32R590C | Monitor Curvo 32 4K sin marcos...'
 sku: 'B07NP1DJ1H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 12:23:12
 image: 'https://m.media-amazon.com/images/I/51SR2o8iULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003NEKRRQ-es Crema Pedicura para grietas callos y asperezas 250 ml'
 sku: 'B003NEKRRQ-es'
 tags: [  ]

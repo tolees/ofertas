@@ -5,7 +5,7 @@ date: 2020-09-03 00:30:47
 image: 'https://m.media-amazon.com/images/I/41h1RkRvAyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7RW8MS-es Jata TT610 Tostador Acero Inoxidable Tostador De Cuerpo De...'
 sku: 'B01M7RW8MS-es'
 tags: [  ]

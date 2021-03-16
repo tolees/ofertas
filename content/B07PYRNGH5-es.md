@@ -5,7 +5,7 @@ date: 2020-07-13 02:40:36
 image: 'https://m.media-amazon.com/images/I/31vGZw5gUSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYRNGH5-es Funda para Xiaomi Mi 9/Mi 9 SE Teléfono Móvil Silicona...'
 sku: 'B07PYRNGH5-es'
 tags: [  ]

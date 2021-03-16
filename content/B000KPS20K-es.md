@@ -5,7 +5,7 @@ date: 2020-05-24 17:05:39
 image: 'https://m.media-amazon.com/images/I/31ipm4Upx2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KPS20K-es Philips 62093470 Iluminación de interior G24d-2 2 18 W...'
 sku: 'B000KPS20K-es'
 tags: [  ]

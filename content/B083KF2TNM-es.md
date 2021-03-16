@@ -5,7 +5,7 @@ date: 2020-06-27 15:46:23
 image: 'https://m.media-amazon.com/images/I/416SnhzVAEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KF2TNM-es Voodoo Vixen Nicole Red 40s Style Mujer Abrigos...'
 sku: 'B083KF2TNM-es'
 tags: [  ]

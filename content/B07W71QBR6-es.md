@@ -5,7 +5,7 @@ date: 2020-03-18 15:16:11
 image: 'https://m.media-amazon.com/images/I/41d3O9hUiCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W71QBR6-es BC-02ppAuricolare Bluetooth XuanPad Auricolari 5.0...'
 sku: 'B07W71QBR6-es'
 tags: [  ]

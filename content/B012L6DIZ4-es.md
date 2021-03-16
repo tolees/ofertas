@@ -5,7 +5,7 @@ date: 2020-03-15 03:20:03
 image: 'https://m.media-amazon.com/images/I/41Q-6puHbBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012L6DIZ4-es L Oreal Majirouge Absolu Tinte Permanente 8.43 - 50 ml'
 sku: 'B012L6DIZ4-es'
 tags: [  ]

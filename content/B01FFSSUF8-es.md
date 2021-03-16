@@ -5,7 +5,7 @@ date: 2020-01-03 15:30:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/310pXo5iIpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFSSUF8-es Nosaprotect Spray triple acción Melocotón. Protección...'
 sku: 'B01FFSSUF8-es'
 tags: [  ]

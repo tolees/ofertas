@@ -5,7 +5,7 @@ date: 2020-04-18 07:02:16
 image: 'https://m.media-amazon.com/images/I/41fKnkEbfuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MEHHC70-es Rimmel London rossetto The Only 1 Lipstick colore Peachy-...'
 sku: 'B01MEHHC70-es'
 tags: [  ]

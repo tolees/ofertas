@@ -5,7 +5,7 @@ date: 2020-02-16 19:17:32
 image: 'https://m.media-amazon.com/images/I/41Dcu7XhVrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BN587RS-es Vans Ward Zapatillas para Mujer Rosa Canvas/Sepia Rose Oln...'
 sku: 'B07BN587RS-es'
 tags: [  ]

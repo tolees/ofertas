@@ -5,7 +5,7 @@ date: 2020-09-23 17:35:57
 image: 'https://m.media-amazon.com/images/I/51UhPDWXIAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FV4NWCK-es Asmodee- Colt Express: Bandits Pack Django Expansion en...'
 sku: 'B07FV4NWCK-es'
 tags: [  ]

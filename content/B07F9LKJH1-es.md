@@ -5,7 +5,7 @@ date: 2020-09-06 14:07:57
 image: 'https://m.media-amazon.com/images/I/419fOWjZeJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9LKJH1-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07F9LKJH1-es'
 tags: [  ]

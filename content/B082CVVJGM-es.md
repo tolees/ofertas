@@ -5,7 +5,7 @@ date: 2020-05-14 14:03:51
 image: 'https://m.media-amazon.com/images/I/41NULrXee5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082CVVJGM-es KISME para Espejo Flip Funda Samsung Galaxy A51 Funda...'
 sku: 'B082CVVJGM-es'
 tags: [  ]

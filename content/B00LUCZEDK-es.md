@@ -5,7 +5,7 @@ date: 2020-08-06 20:33:18
 image: 'https://m.media-amazon.com/images/I/31QRYR5OoWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LUCZEDK-es Revlon ColorStay Gel Envy Esmalte de Uñas de Larga...'
 sku: 'B00LUCZEDK-es'
 tags: [  ]

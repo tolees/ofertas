@@ -5,7 +5,7 @@ date: 2020-06-28 21:07:21
 image: 'https://m.media-amazon.com/images/I/51TutG6eGzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YMZ71ZX-es Leabags Pocket Notes Plain Edition - Cuaderno 68 páginas 9...'
 sku: 'B07YMZ71ZX-es'
 tags: [  ]

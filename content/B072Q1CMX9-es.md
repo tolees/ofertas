@@ -5,7 +5,7 @@ date: 2020-10-06 17:03:47
 image: 'https://m.media-amazon.com/images/I/31+1cHtLqCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072Q1CMX9-es Adidas Vs Pace Zapatillas para Hombre Gris Grey/Core...'
 sku: 'B072Q1CMX9-es'
 tags: [  ]

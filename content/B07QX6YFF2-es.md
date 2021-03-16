@@ -5,7 +5,7 @@ date: 2020-05-01 08:07:27
 image: 'https://m.media-amazon.com/images/I/612RkPbwlyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QX6YFF2-es LENBEST Mesa Coche para Niños Mesa para Niños en la...'
 sku: 'B07QX6YFF2-es'
 tags: [  ]

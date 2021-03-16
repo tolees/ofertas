@@ -5,7 +5,7 @@ date: 2020-05-15 19:17:25
 image: 'https://m.media-amazon.com/images/I/41ICrGcfYlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB5JRTZ-es ARCTIC P12 PWM - Ventilador para caja 0 3 Sone Ventilador...'
 sku: 'B07GB5JRTZ-es'
 tags: [  ]

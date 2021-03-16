@@ -5,7 +5,7 @@ date: 2020-01-17 13:05:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51VuqwfSiqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD8QN3R-es Dickie Toys- Toy Story 4 Buggy Crash Buzz radiocontrol...'
 sku: 'B07QD8QN3R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-26 16:05:24
 image: 'https://m.media-amazon.com/images/I/31ZmlYfuyLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y14JQW9-es Baby Jogger BJ2012299 - Kit de capazo'
 sku: 'B06Y14JQW9-es'
 tags: [  ]

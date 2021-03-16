@@ -5,7 +5,7 @@ date: 2020-08-17 09:10:56
 image: 'https://m.media-amazon.com/images/I/315XgSQw-EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHS3KW3-es Calvin Klein Exposed Waistband Milano Pant Pantalones...'
 sku: 'B07VHS3KW3-es'
 tags: [  ]

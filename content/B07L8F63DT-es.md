@@ -5,7 +5,7 @@ date: 2020-05-06 04:41:17
 image: 'https://m.media-amazon.com/images/I/41W6vlDVStL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8F63DT-es Monix Copper - Sartén 28 cm de aluminio forjado con...'
 sku: 'B07L8F63DT-es'
 tags: [  ]

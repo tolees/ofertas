@@ -5,7 +5,7 @@ date: 2020-04-04 05:07:13
 image: 'https://m.media-amazon.com/images/I/41+hrq01fvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R44CWL-es ORICO USB Adaptador Bluetooth 4.0 Adaptador Bluetooth USB...'
 sku: 'B075R44CWL-es'
 tags: [  ]

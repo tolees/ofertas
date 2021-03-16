@@ -5,7 +5,7 @@ date: 2020-09-08 07:38:47
 image: 'https://m.media-amazon.com/images/I/41D45TDHDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HQZQ98-es adidas CORE18 tee T-Shirt Hombre Power Red/White L'
 sku: 'B076HQZQ98-es'
 tags: [  ]

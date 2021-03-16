@@ -5,7 +5,7 @@ date: 2020-02-05 00:52:09
 image: 'https://m.media-amazon.com/images/I/51qm7zfIHNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBXVTMB-es Calledelregalo Regalo Personalizable para Mujer: Rosa de...'
 sku: 'B07CBXVTMB-es'
 tags: [  ]

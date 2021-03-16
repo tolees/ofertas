@@ -5,7 +5,7 @@ date: 2020-02-12 15:18:14
 image: 'https://m.media-amazon.com/images/I/411k-9ituEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPQ9QFF-es Pasito a pasito 73757 - Maleta acolchada Inés color rosa'
 sku: 'B06XPQ9QFF-es'
 tags: [  ]

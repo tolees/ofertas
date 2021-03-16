@@ -5,7 +5,7 @@ date: 2020-09-22 08:38:10
 image: 'https://m.media-amazon.com/images/I/51aPjRuzxEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793HNB6Y-es Victor Vran: Overkill Edition'
 sku: 'B0793HNB6Y-es'
 tags: [  ]

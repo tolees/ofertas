@@ -5,7 +5,7 @@ date: 2020-05-13 15:32:59
 image: 'https://m.media-amazon.com/images/I/310nT1xpHlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0822XYMY8-es DON HIERRO - Vajilla de 20 Piezas de Porcelana Anna 6...'
 sku: 'B0822XYMY8-es'
 tags: [  ]

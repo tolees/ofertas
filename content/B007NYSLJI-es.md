@@ -5,7 +5,7 @@ date: 2020-06-28 19:16:20
 image: 'https://m.media-amazon.com/images/I/31oHyMK1+yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007NYSLJI-es Papstar 17981 Set de diámetro 50 x 100 mm 8 pcs crema'
 sku: 'B007NYSLJI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 18:03:10
 image: 'https://m.media-amazon.com/images/I/41vv12lsHVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758KSWZK-es Star Wars: The Last Jedi Digi Limitada'
 sku: 'B0758KSWZK-es'
 tags: [  ]

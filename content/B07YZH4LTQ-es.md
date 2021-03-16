@@ -5,7 +5,7 @@ date: 2020-03-01 11:41:09
 image: 'https://m.media-amazon.com/images/I/31MV9hSz9qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZH4LTQ-es Siux Cajon DE 24 Botes con 3 Bolas Match Pro'
 sku: 'B07YZH4LTQ-es'
 tags: [  ]

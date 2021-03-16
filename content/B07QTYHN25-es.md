@@ -5,7 +5,7 @@ date: 2020-02-03 20:04:19
 image: 'https://m.media-amazon.com/images/I/51Yx3rtM0yL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTYHN25-es TATAFUN Máscaras de Superhéroe Suministros de Fiesta de...'
 sku: 'B07QTYHN25-es'
 tags: [  ]

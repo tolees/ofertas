@@ -5,7 +5,7 @@ date: 2020-05-16 08:37:34
 image: 'https://m.media-amazon.com/images/I/41fTKiS2zaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KYYB5GK-es Palmolive - Aroma Gel Absolute Relax 500 ml'
 sku: 'B00KYYB5GK-es'
 tags: [  ]

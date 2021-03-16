@@ -5,7 +5,7 @@ date: 2020-03-15 11:40:59
 image: 'https://m.media-amazon.com/images/I/31gWEiC-vDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003WPHDHI-es Orlane Fermete Sérum Thermo Actif 30 ml'
 sku: 'B003WPHDHI-es'
 tags: [  ]

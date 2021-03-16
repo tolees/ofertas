@@ -5,7 +5,7 @@ date: 2021-03-16 14:33:24
 image: 'https://m.media-amazon.com/images/I/519ZVZAfEuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RY9Q94R-es Fox - Juego De Tronos Temporada 1-8 Blu-Ray Colección...'
 sku: 'B07RY9Q94R-es'
 tags: [ 'fox', ]

@@ -5,7 +5,7 @@ date: 2020-05-29 05:29:34
 image: 'https://m.media-amazon.com/images/I/41Bc5jVrwXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KX1JXQM-es Fossil Womens FTW6017'
 sku: 'B07KX1JXQM-es'
 tags: [  ]

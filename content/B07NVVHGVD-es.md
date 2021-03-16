@@ -5,7 +5,7 @@ date: 2020-06-01 12:48:30
 image: 'https://m.media-amazon.com/images/I/41MEPRUUNXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVVHGVD-es Neceser dos compartimentos adaptable a trolley Movom Enjoy'
 sku: 'B07NVVHGVD-es'
 tags: [  ]

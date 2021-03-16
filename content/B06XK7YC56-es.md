@@ -5,7 +5,7 @@ date: 2020-05-04 15:55:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51VdBHjt9gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XK7YC56-es Playtex Ideal Beauty Lace Sujetador de Encaje Sin Aros...'
 sku: 'B06XK7YC56-es'
 tags: [  ]

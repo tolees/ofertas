@@ -5,7 +5,7 @@ date: 2020-10-06 20:16:00
 image: 'https://m.media-amazon.com/images/I/41qNvmgCGvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QS3NWHP-es Swiss Home Set Black 16/20/24 y Batería Cocina Acero...'
 sku: 'B07QS3NWHP-es'
 tags: [  ]

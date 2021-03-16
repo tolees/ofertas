@@ -5,7 +5,7 @@ date: 2020-09-04 06:09:33
 image: 'https://m.media-amazon.com/images/I/31Tovvf6KSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY263FT-es Skechers Go Run Fast Steadfast Zapatillas sin Cordones...'
 sku: 'B07TY263FT-es'
 tags: [  ]

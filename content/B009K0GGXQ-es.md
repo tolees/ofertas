@@ -5,7 +5,7 @@ date: 2020-01-08 07:56:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gk-EUcsEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009K0GGXQ-es Bella Aurora Splendor Crema Facial Reafirmante Cuello y...'
 sku: 'B009K0GGXQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 15:17:17
 image: 'https://m.media-amazon.com/images/I/31L3XnuF9bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM98NH2-es Real Betis - Temporada 2019/2020 - Kappa - ZOSHI 3 Polo...'
 sku: 'B07FM98NH2-es'
 tags: [  ]

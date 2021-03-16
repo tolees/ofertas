@@ -5,7 +5,7 @@ date: 2020-02-11 08:25:18
 image: 'https://m.media-amazon.com/images/I/31JyyS9OA-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YF9N1KS-es Fitfiu Remo RA-100 Resistencia magnética y de Aire...'
 sku: 'B07YF9N1KS-es'
 tags: [  ]

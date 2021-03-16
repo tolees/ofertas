@@ -5,7 +5,7 @@ date: 2020-03-07 15:00:20
 image: 'https://m.media-amazon.com/images/I/31tP4WIB3OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY6VPD9-es Hairfinity Acondicionador Unisex Negro Black 6 cm'
 sku: 'B01LY6VPD9-es'
 tags: [  ]

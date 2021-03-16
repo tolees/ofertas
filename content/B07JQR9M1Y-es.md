@@ -5,7 +5,7 @@ date: 2020-01-24 21:58:42
 image: 'https://m.media-amazon.com/images/I/31wCeEVPNKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQR9M1Y-es Tommy Hilfiger Tommy Jute City Sneaker Zapatillas para...'
 sku: 'B07JQR9M1Y-es'
 tags: [  ]

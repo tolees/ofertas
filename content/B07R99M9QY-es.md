@@ -5,7 +5,7 @@ date: 2020-03-21 17:43:12
 image: 'https://m.media-amazon.com/images/I/419VbE6AFhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R99M9QY-es ASUS VivoBook Flip 14 TP412UA-EC175T - Ordenador portátil...'
 sku: 'B07R99M9QY-es'
 tags: [  ]

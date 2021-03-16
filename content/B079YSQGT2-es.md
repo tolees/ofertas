@@ -5,7 +5,7 @@ date: 2021-03-16 15:00:18
 image: 'https://m.media-amazon.com/images/I/2177LLXUzbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YSQGT2-es TP-Link EAP225-Outdoor Omada AC1200 Punto de acceso...'
 sku: 'B079YSQGT2-es'
 tags: [ 'tp-link', ]
@@ -28,10 +28,10 @@ Ahora mismo tienes [TP-Link EAP225-Outdoor Omada AC1200 Punto de acceso inalámb
 
 🔎:
 
-- Cubierta duradera y resistente a inclemencias meteorológicas para aplicaciones Wi-Fi de exterior
-- Hasta 1200Mbps con tecnología 2×2 MIMO
 - Es perfecto para distancias cortas y ofrece una solución económica para la conexión dentro de racks y entre racks adyacentes
-- Controlador Gratuito Software Omada habilita a los administradores que gestionen fácilmente cientos de EAPs
 - Alta potencia de transmisión y antenas de alta ganancia proporcionan una gran cobertura de área
+- Cubierta duradera y resistente a inclemencias meteorológicas para aplicaciones Wi-Fi de exterior
+- Controlador Gratuito Software Omada habilita a los administradores que gestionen fácilmente cientos de EAPs
+- Hasta 1200Mbps con tecnología 2×2 MIMO
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079YSQGT2/?tag=tolees-21)

@@ -5,7 +5,7 @@ date: 2020-05-18 13:48:07
 image: 'https://m.media-amazon.com/images/I/211l-yCx4PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M27LRCJ-es BRA Efficient Cuchara de Cocina Acero INOX Nailon y...'
 sku: 'B01M27LRCJ-es'
 tags: [  ]

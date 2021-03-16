@@ -5,7 +5,7 @@ date: 2020-08-13 08:46:15
 image: 'https://m.media-amazon.com/images/I/51S71tIobhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNHCP39-es Evfun Estación de Carga USB Base de Carga 8 Puertos...'
 sku: 'B07CNHCP39-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 19:29:42
 image: 'https://m.media-amazon.com/images/I/51P+cZK82TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073P3FRL8-es Dreamzie - Protector de Colchón 90 x 190/200 cm...'
 sku: 'B073P3FRL8-es'
 tags: [  ]

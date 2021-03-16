@@ -5,7 +5,7 @@ date: 2020-08-27 00:10:31
 image: 'https://m.media-amazon.com/images/I/311DeEGYTVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008MLQITQ-es Converse All Star Hi - Zapatillas unisex Negro Black 35 EU'
 sku: 'B008MLQITQ-es'
 tags: [  ]

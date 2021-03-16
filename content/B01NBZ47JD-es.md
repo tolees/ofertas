@@ -5,7 +5,7 @@ date: 2020-01-01 11:05:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EqqVqOzML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBZ47JD-es G-Star Raw 3301 Straight Jeans Dritto Uomo Blu medium aged...'
 sku: 'B01NBZ47JD-es'
 tags: [  ]

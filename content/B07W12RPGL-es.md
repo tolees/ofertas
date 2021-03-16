@@ -5,7 +5,7 @@ date: 2020-08-01 06:52:55
 image: 'https://m.media-amazon.com/images/I/51io1q4lf6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W12RPGL-es Reparación de Relojes 149 Piezas Herramientas para...'
 sku: 'B07W12RPGL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-03 09:19:03
 image: 'https://m.media-amazon.com/images/I/41-QHvPX1qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK4L5BH-es Columbia Peakfreak X2 Mid Outdry Botas de Senderismo para...'
 sku: 'B07KK4L5BH-es'
 tags: [  ]

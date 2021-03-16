@@ -5,7 +5,7 @@ date: 2020-03-04 22:41:11
 image: 'https://m.media-amazon.com/images/I/41TCh9kr+VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XTHXG9D-es Pepe Jeans Eggo Long PM501321 Top de Manga Larga Azul Navy...'
 sku: 'B06XTHXG9D-es'
 tags: [  ]

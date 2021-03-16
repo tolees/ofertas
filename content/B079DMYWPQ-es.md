@@ -5,7 +5,7 @@ date: 2020-03-02 09:52:59
 image: 'https://m.media-amazon.com/images/I/518ExT74zGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DMYWPQ-es Gebildet 5 piezas 9mm Cúter de Cuchillas Profesional...'
 sku: 'B079DMYWPQ-es'
 tags: [  ]

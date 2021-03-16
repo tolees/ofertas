@@ -5,7 +5,7 @@ date: 2020-08-21 12:16:42
 image: 'https://m.media-amazon.com/images/I/412+ahhugAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLC1C7F-es New Balance Fresh Foam Evare Zapatillas para Correr de...'
 sku: 'B07SLC1C7F-es'
 tags: [  ]

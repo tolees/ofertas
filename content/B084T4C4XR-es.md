@@ -5,7 +5,7 @@ date: 2020-06-16 11:01:39
 image: 'https://m.media-amazon.com/images/I/31hTKbdZPFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084T4C4XR-es Baoblaze Gran Pincel De Escritura Acuarela Pincel De...'
 sku: 'B084T4C4XR-es'
 tags: [  ]

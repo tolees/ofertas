@@ -5,7 +5,7 @@ date: 2020-09-07 13:34:06
 image: 'https://m.media-amazon.com/images/I/315vwDCfj8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RNRGZZ-es Helly Hansen Logo Visera Unisex Adulto Azul Navy Única'
 sku: 'B073RNRGZZ-es'
 tags: [  ]

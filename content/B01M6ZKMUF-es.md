@@ -5,7 +5,7 @@ date: 2020-03-05 08:34:08
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6ZKMUF-es Hellmann s - Gran Salsa Barbacoa - 250 ml - [Pack de 8]'
 sku: 'B01M6ZKMUF-es'
 tags: [  ]

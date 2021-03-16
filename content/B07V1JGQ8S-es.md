@@ -5,7 +5,7 @@ date: 2020-08-12 08:03:45
 image: 'https://m.media-amazon.com/images/I/41gudLHa+yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1JGQ8S-es Nike Pico 5 TDV Gymnastics Shoe Unisex-Baby Black/Black 26 EU'
 sku: 'B07V1JGQ8S-es'
 tags: [  ]

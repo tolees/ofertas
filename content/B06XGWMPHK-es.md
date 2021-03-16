@@ -5,7 +5,7 @@ date: 2020-06-22 11:05:05
 image: 'https://m.media-amazon.com/images/I/41mxeTf+SYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGWMPHK-es Figura Pop trollhunters Toby'
 sku: 'B06XGWMPHK-es'
 tags: [  ]

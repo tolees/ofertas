@@ -5,7 +5,7 @@ date: 2020-01-11 18:16:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41thFEXYUtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRTNX1G-es Columbia Sun Ridge Polo Hombre Azul Mountain M'
 sku: 'B07KRTNX1G-es'
 tags: [  ]

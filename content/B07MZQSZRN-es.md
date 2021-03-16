@@ -5,7 +5,7 @@ date: 2020-03-31 17:59:19
 image: 'https://m.media-amazon.com/images/I/41Ex+qvHsxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQSZRN-es Pepe Jeans Emerson Jeans para Niños Azul Medium Used Denim...'
 sku: 'B07MZQSZRN-es'
 tags: [  ]

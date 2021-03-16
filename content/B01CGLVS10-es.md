@@ -5,7 +5,7 @@ date: 2020-01-13 12:43:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31zR6QvSsLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CGLVS10-es SECTOR NO LIMITS Reloj Digital para Hombre de Cuarzo con...'
 sku: 'B01CGLVS10-es'
 tags: [  ]

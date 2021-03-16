@@ -5,7 +5,7 @@ date: 2020-05-07 18:40:41
 image: 'https://m.media-amazon.com/images/I/41WJXhjwI+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBWR53D-es Ventosa Fácil Instalación Suction Cup para Carro Autocaravana'
 sku: 'B07HBWR53D-es'
 tags: [  ]

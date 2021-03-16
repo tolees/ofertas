@@ -5,7 +5,7 @@ date: 2020-10-07 13:11:17
 image: 'https://m.media-amazon.com/images/I/41+c58RUJpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KLYM61-es Scholl Plantillas GelActiv para Zapato Abierto + Crema de...'
 sku: 'B083KLYM61-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 23:23:33
 image: 'https://m.media-amazon.com/images/I/41YY06IVCKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082D9FWQH-es YuanLey 8 Port Gigabit PoE Switch 8 PoE+ Port 1000Mbps...'
 sku: 'B082D9FWQH-es'
 tags: [  ]

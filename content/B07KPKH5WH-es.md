@@ -5,7 +5,7 @@ date: 2020-04-20 17:51:28
 image: 'https://m.media-amazon.com/images/I/41PPMB6V+7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPKH5WH-es Columbia Meadows Omni Botas Bajas para Mujer Blanco Roto...'
 sku: 'B07KPKH5WH-es'
 tags: [  ]

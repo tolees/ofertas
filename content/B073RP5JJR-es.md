@@ -5,7 +5,7 @@ date: 2020-07-13 00:14:00
 image: 'https://m.media-amazon.com/images/I/41CX2bBqekL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RP5JJR-es Helly Hansen Crew Gorra Unisex Adulto Negro Única'
 sku: 'B073RP5JJR-es'
 tags: [  ]

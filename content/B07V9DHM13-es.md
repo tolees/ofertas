@@ -5,7 +5,7 @@ date: 2020-04-14 00:18:18
 image: 'https://m.media-amazon.com/images/I/41pGMy+yJbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9DHM13-es TECOOL 13 Pulgadas Funda Portátil Funda de Cuero...'
 sku: 'B07V9DHM13-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-04 12:12:14
 image: 'https://m.media-amazon.com/images/I/414XLY4azxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C4CC3LU-es adidas Stan Smith J Zapatillas de Deporte Unisex Niños...'
 sku: 'B01C4CC3LU-es'
 tags: [  ]

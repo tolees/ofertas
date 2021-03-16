@@ -5,7 +5,7 @@ date: 2020-10-04 03:21:55
 image: 'https://m.media-amazon.com/images/I/419J6+PZ+iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4QVH6Y-es Skechers Status 2.0 Lorano Náuticos para Hombre Azul Navy...'
 sku: 'B07H4QVH6Y-es'
 tags: [  ]

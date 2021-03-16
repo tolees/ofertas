@@ -5,7 +5,7 @@ date: 2020-05-27 10:35:01
 image: 'https://m.media-amazon.com/images/I/31stPsseelL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY6WFTW-es L Oréal Paris False Lash Superstar Xfiber Máscara de...'
 sku: 'B01MY6WFTW-es'
 tags: [  ]

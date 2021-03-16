@@ -5,7 +5,7 @@ date: 2020-09-23 07:27:52
 image: 'https://m.media-amazon.com/images/I/415TMan6ULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2LN25W-es adidas Vl Court 2.0 Zapatillas de Skateboard para Hombre...'
 sku: 'B07K2LN25W-es'
 tags: [  ]

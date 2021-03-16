@@ -5,7 +5,7 @@ date: 2020-06-08 14:46:40
 image: 'https://m.media-amazon.com/images/I/31mK5eeYIkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BW1P1K-es Zeen Papel Xuan Pintura 35x25cm 30 Hojas Duradero Papel de...'
 sku: 'B088BW1P1K-es'
 tags: [  ]

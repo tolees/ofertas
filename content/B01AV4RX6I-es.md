@@ -5,7 +5,7 @@ date: 2020-05-05 23:20:59
 image: 'https://m.media-amazon.com/images/I/41o3FKKCsSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AV4RX6I-es Hugo Boss - Reloj para hombre - 1513327'
 sku: 'B01AV4RX6I-es'
 tags: [  ]

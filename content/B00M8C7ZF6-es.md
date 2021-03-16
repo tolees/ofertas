@@ -5,7 +5,7 @@ date: 2020-06-22 12:06:32
 image: 'https://m.media-amazon.com/images/I/31+ll5JbBdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M8C7ZF6-es Kodak Cám. FZ201 Negra'
 sku: 'B00M8C7ZF6-es'
 tags: [  ]

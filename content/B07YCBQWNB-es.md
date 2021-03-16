@@ -5,7 +5,7 @@ date: 2020-04-09 13:02:25
 image: 'https://m.media-amazon.com/images/I/31UU2mtpQkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCBQWNB-es ZREE Grifo Lavabo Cascada Alto Grifo de Baño Acero...'
 sku: 'B07YCBQWNB-es'
 tags: [  ]

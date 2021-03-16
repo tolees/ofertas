@@ -5,7 +5,7 @@ date: 2020-05-20 12:08:36
 image: 'https://m.media-amazon.com/images/I/21ZV2IgoPpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087DMWY18-es San Ignacio Q3519 Cuchillo chuletero 11 cm con Mango de...'
 sku: 'B087DMWY18-es'
 tags: [  ]

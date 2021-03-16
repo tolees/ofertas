@@ -5,7 +5,7 @@ date: 2020-09-11 12:01:09
 image: 'https://m.media-amazon.com/images/I/31ExvsWRtDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NSF4BY-es Funda de Gel de sílice Funda de Silicona con Tapa para...'
 sku: 'B089NSF4BY-es'
 tags: [  ]

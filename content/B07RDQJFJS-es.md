@@ -5,7 +5,7 @@ date: 2020-04-21 09:48:00
 image: 'https://m.media-amazon.com/images/I/41-bVXeJCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDQJFJS-es Slendertone Brazaletes de bíceps y tríceps H / F...'
 sku: 'B07RDQJFJS-es'
 tags: [  ]

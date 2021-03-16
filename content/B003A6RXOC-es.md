@@ -5,7 +5,7 @@ date: 2020-09-14 09:32:41
 image: 'https://m.media-amazon.com/images/I/41lafWlefML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003A6RXOC-es Moulinex A327R1 - Picadora 700 W de fácil sistema con tapa...'
 sku: 'B003A6RXOC-es'
 tags: [  ]

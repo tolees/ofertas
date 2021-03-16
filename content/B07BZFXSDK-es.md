@@ -5,7 +5,7 @@ date: 2020-03-26 17:40:24
 image: 'https://m.media-amazon.com/images/I/41iO7yvAYkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZFXSDK-es Lebze Bebé Muselina Swaddle Manta -"Diseño de Dinosaurio"...'
 sku: 'B07BZFXSDK-es'
 tags: [  ]

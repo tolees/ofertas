@@ -5,7 +5,7 @@ date: 2020-01-14 20:33:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41JjKC5j2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBVM9JS-es Calvin Klein Hombre - Pack de 3 bóxers de tiro medio -...'
 sku: 'B07LBVM9JS-es'
 tags: [  ]

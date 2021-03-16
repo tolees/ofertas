@@ -5,7 +5,7 @@ date: 2020-06-04 01:28:53
 image: 'https://m.media-amazon.com/images/I/41llodwzw+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088NY1ZH1-es Lumemery Piscina Inflable Familia Niños Adultos Fiesta de...'
 sku: 'B088NY1ZH1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-20 09:45:47
 image: 'https://m.media-amazon.com/images/I/51sl0CK4XlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5BFH5S-es NvWang Origami Papel Origami 100 Hojas 15 x 15 cm Doble...'
 sku: 'B07S5BFH5S-es'
 tags: [  ]

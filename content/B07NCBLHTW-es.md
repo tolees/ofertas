@@ -5,7 +5,7 @@ date: 2020-03-28 17:49:37
 image: 'https://m.media-amazon.com/images/I/41Ks9Cls0yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCBLHTW-es Pepe Jeans MC Queen Short para Hombre Rojo Jam 213 W29...'
 sku: 'B07NCBLHTW-es'
 tags: [  ]

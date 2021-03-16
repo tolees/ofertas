@@ -5,7 +5,7 @@ date: 2020-01-14 08:00:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41y8CTgALfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078J9VQ5L-es StillCool Universal Tablet para iPad Soporte de la Cama...'
 sku: 'B078J9VQ5L-es'
 tags: [  ]

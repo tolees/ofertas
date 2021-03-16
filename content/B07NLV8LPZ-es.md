@@ -5,7 +5,7 @@ date: 2020-05-02 18:40:52
 image: 'https://m.media-amazon.com/images/I/319sjrwx7VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLV8LPZ-es Nike Revolution 5 Zapatillas de Running para Hombre...'
 sku: 'B07NLV8LPZ-es'
 tags: [  ]

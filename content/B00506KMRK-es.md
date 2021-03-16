@@ -5,7 +5,7 @@ date: 2020-07-15 06:15:53
 image: 'https://m.media-amazon.com/images/I/210mCRmgCUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00506KMRK-es Munchkin 12501 Cubo Desechable & Portátil para Pañales...'
 sku: 'B00506KMRK-es'
 tags: [  ]

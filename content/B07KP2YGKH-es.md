@@ -5,7 +5,7 @@ date: 2020-01-12 13:04:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311iPn1P4gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KP2YGKH-es adidas 6P 3S Cap Cotto - Gorra Unisex Adulto Black/White OSFL'
 sku: 'B07KP2YGKH-es'
 tags: [  ]

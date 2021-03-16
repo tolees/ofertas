@@ -5,7 +5,7 @@ date: 2020-02-25 06:05:50
 image: 'https://m.media-amazon.com/images/I/41mqcJipjfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NZ1N7K-es Hapilife Grifo de Cocina Extraible 360° Giratorio Silver...'
 sku: 'B079NZ1N7K-es'
 tags: [  ]

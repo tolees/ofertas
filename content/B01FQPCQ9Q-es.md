@@ -5,7 +5,7 @@ date: 2020-05-05 18:19:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bBqiZQaRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FQPCQ9Q-es WORKPRO Alicates Extensible Alicate de Cremallera Pico de...'
 sku: 'B01FQPCQ9Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 12:06:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lnehjQv4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000N8PYN2-es Dickies Hose D/knee Work Pants - Pantalones para hombre...'
 sku: 'B000N8PYN2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 14:57:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31XpgzRnenL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CE9IW18-es Italian Bed Linen Più Bello Funda Cubre Sofá Poliéster...'
 sku: 'B01CE9IW18-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-16 12:25:09
 image: 'https://m.media-amazon.com/images/I/41Y8QuhWzWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBMQP54-es Kappa Memni Zapatillas para Mujer Rosa/White 2110 37 EU'
 sku: 'B07LBMQP54-es'
 tags: [  ]

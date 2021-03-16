@@ -5,7 +5,7 @@ date: 2020-07-10 16:52:54
 image: 'https://m.media-amazon.com/images/I/41fXLWhmwKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X04EJVO-es BSN Nutrition Syntha 6 Edge Whey Protein Isolate Proteinas...'
 sku: 'B00X04EJVO-es'
 tags: [  ]

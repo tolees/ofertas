@@ -5,7 +5,7 @@ date: 2020-06-15 11:53:40
 image: 'https://m.media-amazon.com/images/I/41u7fJL+zxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TXLVQP-es memumi Delgado para Samsung Galaxy S20 6.2" Funda Mate...'
 sku: 'B083TXLVQP-es'
 tags: [  ]

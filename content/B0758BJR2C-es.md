@@ -5,7 +5,7 @@ date: 2020-01-21 09:24:58
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758BJR2C-es BOSS Prime Polo Blanco White 100 Medium para Hombre'
 sku: 'B0758BJR2C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 13:20:34
 image: 'https://m.media-amazon.com/images/I/31U9fmvu3LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YCPG3Y-es Metal MP3 Reproductor Bluetooth con Pantalla táctil Benjie...'
 sku: 'B075YCPG3Y-es'
 tags: [  ]

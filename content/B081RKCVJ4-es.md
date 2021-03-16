@@ -5,7 +5,7 @@ date: 2020-06-21 14:31:25
 image: 'https://m.media-amazon.com/images/I/51iOEIsNGLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RKCVJ4-es POVO Soporte de Portátil Ajustable Soporte Plegable...'
 sku: 'B081RKCVJ4-es'
 tags: [  ]

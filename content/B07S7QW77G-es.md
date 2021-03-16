@@ -5,7 +5,7 @@ date: 2020-08-09 13:29:27
 image: 'https://m.media-amazon.com/images/I/41putcCtZ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QW77G-es PUMA Carina Zapatillas para Mujer Negro Black/Rosewater...'
 sku: 'B07S7QW77G-es'
 tags: [  ]

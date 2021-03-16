@@ -5,7 +5,7 @@ date: 2020-04-07 12:32:21
 image: 'https://m.media-amazon.com/images/I/31jFknfD1sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q2HYVJG-es AVM FRITZ!Box 3490 International - Modem Router WiFi AC...'
 sku: 'B00Q2HYVJG-es'
 tags: [  ]

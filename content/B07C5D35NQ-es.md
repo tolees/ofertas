@@ -5,7 +5,7 @@ date: 2020-05-17 10:24:01
 image: 'https://m.media-amazon.com/images/I/21Nwl-d6eZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5D35NQ-es Precision Kids'
 sku: 'B07C5D35NQ-es'
 tags: [  ]

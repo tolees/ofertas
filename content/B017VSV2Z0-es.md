@@ -5,7 +5,7 @@ date: 2020-03-12 19:31:13
 image: 'https://m.media-amazon.com/images/I/51byXl-1E-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017VSV2Z0-es JUGUETE DE PINTURA POR NUMEROS - Perros y gatos - INTERHOME©'
 sku: 'B017VSV2Z0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-07 16:02:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ECf2Sja%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MR1RWP5-es Skechers Go Run Focus-Athos Zapatillas para Hombre Negro...'
 sku: 'B07MR1RWP5-es'
 tags: [  ]

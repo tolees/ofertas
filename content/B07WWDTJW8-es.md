@@ -5,7 +5,7 @@ date: 2020-01-01 20:34:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/310a9VAlGfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWDTJW8-es KRISP Zapatillas Mujer Tipo Estilo Imitación Casuales Lona...'
 sku: 'B07WWDTJW8-es'
 tags: [  ]

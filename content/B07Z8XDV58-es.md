@@ -5,7 +5,7 @@ date: 2020-01-07 08:45:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Hv-hlDd8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z8XDV58-es 2019 Nuevo Auriculares Bluetooth inalámbricos BT5.0 Touch...'
 sku: 'B07Z8XDV58-es'
 tags: [  ]

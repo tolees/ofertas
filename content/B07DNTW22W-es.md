@@ -5,7 +5,7 @@ date: 2020-04-26 18:20:31
 image: 'https://m.media-amazon.com/images/I/41jJtqn1SgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNTW22W-es Bennigiry - Short - Femme - - L'
 sku: 'B07DNTW22W-es'
 tags: [  ]

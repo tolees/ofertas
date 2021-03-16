@@ -5,7 +5,7 @@ date: 2020-09-19 14:05:49
 image: 'https://m.media-amazon.com/images/I/31Av9r+fcIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KPPQKJA-es mondex 278Y254 - Cubo Ecobin 25L Con Tapa Azul'
 sku: 'B00KPPQKJA-es'
 tags: [  ]

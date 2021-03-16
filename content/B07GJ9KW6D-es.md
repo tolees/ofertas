@@ -5,7 +5,7 @@ date: 2020-05-19 00:20:57
 image: 'https://m.media-amazon.com/images/I/51HMwWBEROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJ9KW6D-es [2019 NEW] Pulseras magnéticas los mejores regalos para...'
 sku: 'B07GJ9KW6D-es'
 tags: [  ]

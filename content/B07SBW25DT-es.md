@@ -5,7 +5,7 @@ date: 2020-04-15 11:46:36
 image: 'https://m.media-amazon.com/images/I/41K9RV5-mCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBW25DT-es PUMA Stepfleex 2 SL Ve V PS Zapatillas Unisex Niños Azul...'
 sku: 'B07SBW25DT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-24 10:42:08
 image: 'https://m.media-amazon.com/images/I/41jkXK9EJWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCXMMCR-es Ringke Funda Motorola Moto G6 2018 [Fusion] Claro PC TPU...'
 sku: 'B07DCXMMCR-es'
 tags: [  ]

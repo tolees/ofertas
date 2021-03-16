@@ -5,7 +5,7 @@ date: 2020-09-30 10:05:12
 image: 'https://m.media-amazon.com/images/I/418RZlSh-JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KXHNUKQ-es Superga 2750-efglu Zapatillas de Gimnasia Unisex Adulto...'
 sku: 'B01KXHNUKQ-es'
 tags: [  ]

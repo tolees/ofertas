@@ -5,7 +5,7 @@ date: 2020-04-22 09:36:33
 image: 'https://m.media-amazon.com/images/I/41iXzkMr2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U2NSU1G-es Bruguer - Esmalte Acrlico Satinado Laca Acrylic Blanco...'
 sku: 'B00U2NSU1G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-07 14:30:22
 image: 'https://m.media-amazon.com/images/I/31p+GiFuSYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4JQDVL-es Philips Batidora de mano ProMix HR2657/90 varilla 800 W...'
 sku: 'B07L4JQDVL-es'
 tags: [  ]

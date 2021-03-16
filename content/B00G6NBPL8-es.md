@@ -5,7 +5,7 @@ date: 2020-06-12 17:24:41
 image: 'https://m.media-amazon.com/images/I/51glVJqcwOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G6NBPL8-es Evergreenweb - Colchones individual 80x190 Espuma de 20 cm...'
 sku: 'B00G6NBPL8-es'
 tags: [  ]

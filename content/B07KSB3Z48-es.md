@@ -5,7 +5,7 @@ date: 2020-03-09 19:56:24
 image: 'https://m.media-amazon.com/images/I/41KoHHKFuVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSB3Z48-es EMS Hips Electroestimulador Muscular Masajeador...'
 sku: 'B07KSB3Z48-es'
 tags: [  ]

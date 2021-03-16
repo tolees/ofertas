@@ -5,7 +5,7 @@ date: 2020-03-16 12:28:11
 image: 'https://m.media-amazon.com/images/I/31-DCv3gMXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG25PWP-es PUMA Rebound Layup Lo SL Zapatillas Unisex Adulto White-...'
 sku: 'B07KG25PWP-es'
 tags: [  ]

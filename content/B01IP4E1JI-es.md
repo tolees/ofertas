@@ -5,7 +5,7 @@ date: 2020-01-20 04:34:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41F5qjIsfPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IP4E1JI-es adidas Gazelle Zapatillas de deporte Unisex Adulto Gris...'
 sku: 'B01IP4E1JI-es'
 tags: [  ]

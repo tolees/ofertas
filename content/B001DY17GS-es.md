@@ -5,7 +5,7 @@ date: 2020-04-07 08:07:07
 image: 'https://m.media-amazon.com/images/I/41pMtQtE7zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DY17GS-es Nike Force 1 Mid PS Zapatillas de Baloncesto para Niños...'
 sku: 'B001DY17GS-es'
 tags: [  ]

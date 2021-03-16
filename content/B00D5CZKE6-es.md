@@ -5,7 +5,7 @@ date: 2020-02-01 19:02:41
 image: 'https://m.media-amazon.com/images/I/51zT6mmbFsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D5CZKE6-es Durex Performax Intense 10'
 sku: 'B00D5CZKE6-es'
 tags: [  ]

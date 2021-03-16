@@ -5,7 +5,7 @@ date: 2020-09-30 16:14:09
 image: 'https://m.media-amazon.com/images/I/41hL50bPdbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F2NNANY-es Bellota 5825-16x300 CP Cincel Cromo vanadio Cuerpo...'
 sku: 'B00F2NNANY-es'
 tags: [  ]

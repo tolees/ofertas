@@ -5,7 +5,7 @@ date: 2020-01-13 11:04:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cej%2Bp7erL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BR87CH7-es Levi s Slanted Logo Scarf Bufanda Negro Noir Regular Black...'
 sku: 'B07BR87CH7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 16:35:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qG1BqNZaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMYPPJ-es G-STAR RAW Halite Polo Rojo Dk Baron 4749 XX-Small para...'
 sku: 'B07NDMYPPJ-es'
 tags: [  ]

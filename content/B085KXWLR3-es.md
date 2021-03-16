@@ -5,7 +5,7 @@ date: 2020-09-02 11:20:58
 image: 'https://m.media-amazon.com/images/I/41pMHe50LsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085KXWLR3-es SCOBUTY Pulsera Repelente de Mosquitos Mosquito Anti...'
 sku: 'B085KXWLR3-es'
 tags: [  ]

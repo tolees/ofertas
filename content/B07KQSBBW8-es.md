@@ -5,7 +5,7 @@ date: 2020-01-20 16:48:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQSBBW8-es Salomon ALPHACROSS W Zapatillas de trail running Mujer...'
 sku: 'B07KQSBBW8-es'
 tags: [  ]

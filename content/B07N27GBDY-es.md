@@ -5,7 +5,7 @@ date: 2020-01-28 17:09:21
 image: 'https://m.media-amazon.com/images/I/31ZsfR0rW3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N27GBDY-es Quiksilver Shorebreak Mid Sherpa-Shoes for Men Botas...'
 sku: 'B07N27GBDY-es'
 tags: [  ]

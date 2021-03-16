@@ -5,7 +5,7 @@ date: 2020-01-19 11:58:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qR3R%2BRPQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDMJHXG-es JACK & JONES PREMIUM Jprpaulos Play Stripe Blu. Ss Polo...'
 sku: 'B07PDMJHXG-es'
 tags: [  ]

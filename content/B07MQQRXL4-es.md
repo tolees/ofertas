@@ -5,7 +5,7 @@ date: 2020-08-23 07:25:50
 image: 'https://m.media-amazon.com/images/I/41cdLqMxE6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQQRXL4-es 2019 más novedoso: Auriculares Bluetooth antimi Bluetooth...'
 sku: 'B07MQQRXL4-es'
 tags: [  ]

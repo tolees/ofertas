@@ -5,7 +5,7 @@ date: 2020-06-14 17:32:20
 image: 'https://m.media-amazon.com/images/I/619BfIH3yzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8Y5SJD-es Tommy Hilfiger - Business Leather Mini Cc Wallet Carteras...'
 sku: 'B07V8Y5SJD-es'
 tags: [  ]

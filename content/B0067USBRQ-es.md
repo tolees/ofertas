@@ -5,7 +5,7 @@ date: 2020-03-12 14:25:12
 image: 'https://m.media-amazon.com/images/I/31q7OXtb5XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0067USBRQ-es Piz Buin - Spray Allergy SPF 50 - Protección Muy Alta -...'
 sku: 'B0067USBRQ-es'
 tags: [  ]

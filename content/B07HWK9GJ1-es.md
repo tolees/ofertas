@@ -5,7 +5,7 @@ date: 2020-01-28 09:09:26
 image: 'https://m.media-amazon.com/images/I/313Louni8WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HWK9GJ1-es HUAWEI Smart View Flip Case 16 2 cm 6.39" Folio Negro -...'
 sku: 'B07HWK9GJ1-es'
 tags: [  ]

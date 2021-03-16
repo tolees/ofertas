@@ -5,7 +5,7 @@ date: 2020-04-21 13:16:12
 image: 'https://m.media-amazon.com/images/I/4101hs5JkbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SF8PQV2-es G-STAR RAW Midge Cody Mid Waist Skinny Vaquero Azul Medium...'
 sku: 'B00SF8PQV2-es'
 tags: [  ]

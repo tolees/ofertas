@@ -5,7 +5,7 @@ date: 2020-02-16 10:53:46
 image: 'https://m.media-amazon.com/images/I/31yh1KuzV7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00STJP8VK-es Vision Xiam 1.5 - Pala de Nivel Medio Alto de Juego'
 sku: 'B00STJP8VK-es'
 tags: [  ]

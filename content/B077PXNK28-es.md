@@ -5,7 +5,7 @@ date: 2020-05-25 15:21:09
 image: 'https://m.media-amazon.com/images/I/311SycHGOcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PXNK28-es Maybelline New York - The Colossal Big Shot Base de...'
 sku: 'B077PXNK28-es'
 tags: [  ]

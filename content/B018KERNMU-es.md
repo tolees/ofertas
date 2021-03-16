@@ -5,7 +5,7 @@ date: 2020-10-09 13:11:28
 image: 'https://m.media-amazon.com/images/I/51tnTbBVuDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018KERNMU-es Oral-B Stages Power Kids Cepillo de Dientes Eléctrico con...'
 sku: 'B018KERNMU-es'
 tags: [  ]

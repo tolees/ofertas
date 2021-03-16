@@ -5,7 +5,7 @@ date: 2020-04-24 12:05:16
 image: 'https://m.media-amazon.com/images/I/61nKt3u7rJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QPOSFZ2-es Manta personalizada con tu foto. Manta polar"King Size" -...'
 sku: 'B00QPOSFZ2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-08 18:34:24
 image: 'https://m.media-amazon.com/images/I/41WKp9cUDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1NG41-es PUMA LQDCELL Tension Zapatillas Deportivas para Interior...'
 sku: 'B07KG1NG41-es'
 tags: [  ]

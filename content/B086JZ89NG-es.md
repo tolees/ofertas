@@ -5,7 +5,7 @@ date: 2020-05-09 17:33:35
 image: 'https://m.media-amazon.com/images/I/41ccHcvcrkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086JZ89NG-es TRUUA 50pcs Papel Pintura colador Embudo de Filtro de...'
 sku: 'B086JZ89NG-es'
 tags: [  ]

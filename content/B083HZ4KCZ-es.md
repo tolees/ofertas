@@ -5,7 +5,7 @@ date: 2020-09-04 14:01:50
 image: 'https://m.media-amazon.com/images/I/51Zxvf91DXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HZ4KCZ-es J9503-Yt Anti-Fall Cartoon Cute Elk Snowflake Pattern...'
 sku: 'B083HZ4KCZ-es'
 tags: [  ]

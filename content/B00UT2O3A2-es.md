@@ -5,7 +5,7 @@ date: 2020-04-26 18:54:29
 image: 'https://m.media-amazon.com/images/I/41XLMzx4lAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UT2O3A2-es Tommy Hilfiger Bralette Sujetador Deportivo Gris GREY...'
 sku: 'B00UT2O3A2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-24 13:07:27
 image: 'https://m.media-amazon.com/images/I/41iRpzqBK2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFR7D2L-es Lenovo Legion Y530 Ordenador portátil gaming 15.6" FullHD...'
 sku: 'B07KFR7D2L-es'
 tags: [  ]

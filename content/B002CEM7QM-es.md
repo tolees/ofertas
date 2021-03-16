@@ -5,7 +5,7 @@ date: 2020-08-29 14:19:05
 image: 'https://m.media-amazon.com/images/I/41yZCcllz7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002CEM7QM-es bmerch Ltd. Hermanos Star Trek: USS Enterprise abrebotellas'
 sku: 'B002CEM7QM-es'
 tags: [  ]

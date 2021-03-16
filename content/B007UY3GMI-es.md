@@ -5,7 +5,7 @@ date: 2020-07-07 00:00:35
 image: 'https://m.media-amazon.com/images/I/41qtFwOztkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007UY3GMI-es Just Watches 48-S3455-Bk-BK - Reloj analógico de Cuarzo...'
 sku: 'B007UY3GMI-es'
 tags: [  ]

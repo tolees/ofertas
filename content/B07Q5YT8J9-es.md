@@ -5,7 +5,7 @@ date: 2020-07-17 18:54:53
 image: 'https://m.media-amazon.com/images/I/51OksgjN3oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q5YT8J9-es Superdry Label Sport Trunk Triple Bañador Naranja Orange...'
 sku: 'B07Q5YT8J9-es'
 tags: [  ]

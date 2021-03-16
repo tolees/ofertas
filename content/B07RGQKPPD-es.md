@@ -5,7 +5,7 @@ date: 2020-08-23 21:08:45
 image: 'https://m.media-amazon.com/images/I/31zOUOQEP3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGQKPPD-es Tommy Hilfiger TJM Classics Longsleeve Polo Blanco White...'
 sku: 'B07RGQKPPD-es'
 tags: [  ]

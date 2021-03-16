@@ -5,7 +5,7 @@ date: 2020-04-05 19:40:53
 image: 'https://m.media-amazon.com/images/I/41XsZhoZFxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLYGV77-es BaByliss MEN T881E Barbero eléctrico recortadora de barba...'
 sku: 'B07WLYGV77-es'
 tags: [  ]

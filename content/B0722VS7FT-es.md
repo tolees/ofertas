@@ -5,7 +5,7 @@ date: 2020-08-09 14:00:55
 image: 'https://m.media-amazon.com/images/I/41hUz6OFdyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0722VS7FT-es Cuchillo japonés Cuchillo sushi pro Cuchillo Santoku 17cm...'
 sku: 'B0722VS7FT-es'
 tags: [  ]

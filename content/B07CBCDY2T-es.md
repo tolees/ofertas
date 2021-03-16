@@ -5,7 +5,7 @@ date: 2020-05-07 10:02:00
 image: 'https://m.media-amazon.com/images/I/41FEfdXrDTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBCDY2T-es Manta de Bebé Lactancia Alimentación Paños de Muselina...'
 sku: 'B07CBCDY2T-es'
 tags: [  ]

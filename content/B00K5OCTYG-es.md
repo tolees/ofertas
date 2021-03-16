@@ -5,7 +5,7 @@ date: 2020-07-27 21:20:44
 image: 'https://m.media-amazon.com/images/I/41JW-nEYz9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5OCTYG-es Vans Y Atwood Palms c Zapatillas Unisex Niños Rojo Canvas...'
 sku: 'B00K5OCTYG-es'
 tags: [  ]

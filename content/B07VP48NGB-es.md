@@ -5,7 +5,7 @@ date: 2020-05-20 12:22:33
 image: 'https://m.media-amazon.com/images/I/41afXw7r3DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VP48NGB-es SKY LIGHT Cacerola Aluminio 24cm / 5.2L con Tapa de Vidrio...'
 sku: 'B07VP48NGB-es'
 tags: [  ]

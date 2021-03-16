@@ -5,7 +5,7 @@ date: 2020-03-20 04:36:41
 image: 'https://m.media-amazon.com/images/I/31NHRvyhJHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDM157P-es Quiksilver Above The Lip-Camiseta con Bolsillo para Hombre...'
 sku: 'B07TDM157P-es'
 tags: [  ]

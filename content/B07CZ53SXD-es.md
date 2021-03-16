@@ -5,7 +5,7 @@ date: 2020-02-23 11:47:12
 image: 'https://m.media-amazon.com/images/I/31+2qHFkNPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ53SXD-es Asics Gel-Lyte Zapatillas Unisex Niños Negro Black/Black...'
 sku: 'B07CZ53SXD-es'
 tags: [  ]

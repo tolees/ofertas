@@ -5,7 +5,7 @@ date: 2020-01-14 21:16:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BiC6sEaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGTNH27-es LCQI Dardos Punta Acero Bandera Inglaterra Gran Bretaña UK'
 sku: 'B07YGTNH27-es'
 tags: [  ]

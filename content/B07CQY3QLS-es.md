@@ -5,7 +5,7 @@ date: 2020-04-18 02:53:53
 image: 'https://m.media-amazon.com/images/I/31ygS3E81CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQY3QLS-es TOSING 008 Micrófono de Karaoke Inalámbrico Bluetooth...'
 sku: 'B07CQY3QLS-es'
 tags: [  ]

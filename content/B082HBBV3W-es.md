@@ -5,7 +5,7 @@ date: 2020-04-14 08:34:00
 image: 'https://m.media-amazon.com/images/I/41RDEtsJlPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBBV3W-es ART VVIES Wandbild Leinwand mit Haken 24x24 Zoll Küche...'
 sku: 'B082HBBV3W-es'
 tags: [  ]

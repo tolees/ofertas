@@ -5,7 +5,7 @@ date: 2020-04-07 21:56:39
 image: 'https://m.media-amazon.com/images/I/412g8+cIBYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7YR67R-es Waternymph 2 in 1 Faucet Aerator with Adapter to Connect...'
 sku: 'B07P7YR67R-es'
 tags: [  ]

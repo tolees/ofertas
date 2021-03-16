@@ -5,7 +5,7 @@ date: 2020-09-25 23:01:02
 image: 'https://m.media-amazon.com/images/I/41fbNQpyYUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRV8JAD-es Pinzas de Cocina GWCLEO Pinzas para Barbacoa en Acero Inox...'
 sku: 'B01MRV8JAD-es'
 tags: [  ]

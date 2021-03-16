@@ -5,7 +5,7 @@ date: 2020-04-19 16:04:09
 image: 'https://m.media-amazon.com/images/I/41YYmO5O0rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGZT11R-es Kappa 2019/20 Real Betis Primera equipación niño'
 sku: 'B07NGZT11R-es'
 tags: [  ]

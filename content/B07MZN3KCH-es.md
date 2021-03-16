@@ -5,7 +5,7 @@ date: 2020-08-05 08:32:04
 image: 'https://m.media-amazon.com/images/I/41wbS10nRgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZN3KCH-es Funko- Pop Vinyl: Movie Moment 80th: Batman and Joker 1989...'
 sku: 'B07MZN3KCH-es'
 tags: [  ]

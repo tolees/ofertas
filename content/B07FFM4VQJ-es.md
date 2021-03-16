@@ -5,7 +5,7 @@ date: 2020-08-17 13:06:19
 image: 'https://m.media-amazon.com/images/I/412oSaEtUuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFM4VQJ-es Fossil - Reloj Gen 4 Smartwatch con correa de cuero - FTW6015'
 sku: 'B07FFM4VQJ-es'
 tags: [  ]

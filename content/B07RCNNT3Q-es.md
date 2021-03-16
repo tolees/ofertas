@@ -5,7 +5,7 @@ date: 2020-02-27 17:07:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417FCMM1MdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCNNT3Q-es Columbia Fast Trek II forro polar con cremallera completa...'
 sku: 'B07RCNNT3Q-es'
 tags: [  ]

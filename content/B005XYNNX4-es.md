@@ -5,7 +5,7 @@ date: 2020-06-25 06:11:44
 image: 'https://m.media-amazon.com/images/I/417HJQVcjVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XYNNX4-es Dim Coton Stretch Slip X3 Negro S talla del fabricante: 2...'
 sku: 'B005XYNNX4-es'
 tags: [  ]

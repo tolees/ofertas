@@ -5,7 +5,7 @@ date: 2020-02-17 14:26:15
 image: 'https://m.media-amazon.com/images/I/11vvsjdWnhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004MNBB9U-es FISCHER 038002 - Brida BN 8 8x1168 natural Envase de 100 ud.'
 sku: 'B004MNBB9U-es'
 tags: [  ]

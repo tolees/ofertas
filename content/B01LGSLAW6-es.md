@@ -5,7 +5,7 @@ date: 2020-01-17 12:01:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BuzlZ48QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LGSLAW6-es Maurer 15013410 Botas Seguridad 40'
 sku: 'B01LGSLAW6-es'
 tags: [  ]

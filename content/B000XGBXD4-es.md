@@ -5,7 +5,7 @@ date: 2020-09-20 10:13:42
 image: 'https://m.media-amazon.com/images/I/41a9bavP74L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XGBXD4-es WMF 07.9265.9990 Perfect Olla Rápida Acero Inoxidable...'
 sku: 'B000XGBXD4-es'
 tags: [  ]

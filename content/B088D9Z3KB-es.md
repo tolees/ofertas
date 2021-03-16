@@ -5,7 +5,7 @@ date: 2020-07-04 08:45:55
 image: 'https://m.media-amazon.com/images/I/51f9U-NOIzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D9Z3KB-es Suhctup Funda Compatible para Samsung Galaxy S20 Ultra...'
 sku: 'B088D9Z3KB-es'
 tags: [  ]

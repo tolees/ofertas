@@ -5,7 +5,7 @@ date: 2020-08-25 22:00:37
 image: 'https://m.media-amazon.com/images/I/41i4VQreIVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GFDQ8K2-es i12-TWS Auriculares Bluetooth 5.0 Auriculares inalámbricos...'
 sku: 'B08GFDQ8K2-es'
 tags: [  ]

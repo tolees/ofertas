@@ -5,7 +5,7 @@ date: 2020-03-22 08:52:15
 image: 'https://m.media-amazon.com/images/I/311Yst7rIiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZ2DGP8-es Superdry Orange Label Cotton Vee suéter Azul Darkest Navy...'
 sku: 'B07NZ2DGP8-es'
 tags: [  ]

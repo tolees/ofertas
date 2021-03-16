@@ -5,7 +5,7 @@ date: 2020-08-30 05:35:41
 image: 'https://m.media-amazon.com/images/I/31oxFpQ6ZwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MG7OA2I-es Carl Victor - Sartén Honda de Hierro Fundido con Mango de...'
 sku: 'B01MG7OA2I-es'
 tags: [  ]

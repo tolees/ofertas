@@ -5,7 +5,7 @@ date: 2020-02-05 10:40:05
 image: 'https://m.media-amazon.com/images/I/31kmQ4fAzfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5RRMZJ-es Geographical Norway Agada Men 068 - Size XL'
 sku: 'B07H5RRMZJ-es'
 tags: [  ]

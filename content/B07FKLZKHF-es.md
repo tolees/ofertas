@@ -5,7 +5,7 @@ date: 2020-10-10 14:46:58
 image: 'https://m.media-amazon.com/images/I/41Z0GO-4y6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKLZKHF-es Rubies- Disfraz Scream Ad Multicolor Talla única S8364'
 sku: 'B07FKLZKHF-es'
 tags: [  ]

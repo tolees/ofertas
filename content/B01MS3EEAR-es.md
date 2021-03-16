@@ -5,7 +5,7 @@ date: 2020-07-27 19:04:31
 image: 'https://m.media-amazon.com/images/I/31U9bRZTb8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MS3EEAR-es Tommy Hilfiger Denton C Cinturón con Hebilla Redondeada...'
 sku: 'B01MS3EEAR-es'
 tags: [  ]

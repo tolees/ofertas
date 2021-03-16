@@ -5,7 +5,7 @@ date: 2020-02-06 10:21:52
 image: 'https://m.media-amazon.com/images/I/41eIzAu-MSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCMZ28Q-es Yigou Riñonera Deportiva Riñonera Cinturón Running...'
 sku: 'B07ZCMZ28Q-es'
 tags: [  ]

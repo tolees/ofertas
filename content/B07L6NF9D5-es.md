@@ -5,7 +5,7 @@ date: 2020-02-26 19:49:18
 image: 'https://m.media-amazon.com/images/I/310xKQVKFAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6NF9D5-es Homyl Unidad Disquete USB Externa Sfrm72-du26 Accesorios...'
 sku: 'B07L6NF9D5-es'
 tags: [  ]

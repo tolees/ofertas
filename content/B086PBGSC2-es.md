@@ -5,7 +5,7 @@ date: 2020-08-26 16:37:59
 image: 'https://m.media-amazon.com/images/I/31Qe1aVr8jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PBGSC2-es GAOAG Extensor WiFi 2020 Negro'
 sku: 'B086PBGSC2-es'
 tags: [  ]

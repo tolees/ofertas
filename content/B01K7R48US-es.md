@@ -5,7 +5,7 @@ date: 2020-06-03 18:56:28
 image: 'https://m.media-amazon.com/images/I/51OI5v3zCtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7R48US-es Bonka Café molido de tueste natural y cultivo sostenible -...'
 sku: 'B01K7R48US-es'
 tags: [  ]

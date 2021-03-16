@@ -5,7 +5,7 @@ date: 2020-01-07 21:40:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LWiIJta9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K12CW7P-es adidas Forest Grove C Zapatillas de Gimnasia Unisex Niños...'
 sku: 'B07K12CW7P-es'
 tags: [  ]

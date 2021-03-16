@@ -5,7 +5,7 @@ date: 2020-01-26 19:03:13
 image: 'https://m.media-amazon.com/images/I/51MyNaQ-0rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KX0TCQE-es Gloss - caja de maquillaje caja de regalo para mujeres -...'
 sku: 'B01KX0TCQE-es'
 tags: [  ]

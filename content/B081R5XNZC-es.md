@@ -5,7 +5,7 @@ date: 2020-03-27 18:41:41
 image: 'https://m.media-amazon.com/images/I/317QlnYGViL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081R5XNZC-es FITTOO Mallas Pantalones Deportivos Leggings Mujer Yoga de...'
 sku: 'B081R5XNZC-es'
 tags: [  ]

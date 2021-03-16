@@ -5,7 +5,7 @@ date: 2020-01-16 18:57:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TqvX1tqvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XG8W7ZY-es Ferilinso Funda para Xiaomi Redmi Note 8 Pro Elegante...'
 sku: 'B07XG8W7ZY-es'
 tags: [  ]

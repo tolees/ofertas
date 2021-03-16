@@ -5,7 +5,7 @@ date: 2020-02-28 11:02:25
 image: 'https://m.media-amazon.com/images/I/41thmjjX5+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011KFIKWS-es MaxHold Sistema de vacío Toalleros de aro - No-perforar -...'
 sku: 'B011KFIKWS-es'
 tags: [  ]

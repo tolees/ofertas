@@ -5,7 +5,7 @@ date: 2020-06-14 02:45:42
 image: 'https://m.media-amazon.com/images/I/3183ZfMSrFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWRZZVX-es AGPTEK Portátil Ventilador de Mano Silencioso con Luz de...'
 sku: 'B07QWRZZVX-es'
 tags: [  ]

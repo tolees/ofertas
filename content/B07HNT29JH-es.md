@@ -5,7 +5,7 @@ date: 2020-01-21 21:06:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51qGlDmYDwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNT29JH-es INNObeta KlyN Neceser Mujer Hombre de Viaje para Colgar...'
 sku: 'B07HNT29JH-es'
 tags: [  ]

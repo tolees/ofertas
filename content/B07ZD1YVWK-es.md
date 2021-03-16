@@ -5,7 +5,7 @@ date: 2020-02-04 08:25:41
 image: 'https://m.media-amazon.com/images/I/51EdTxK1SEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZD1YVWK-es SyCreek Correa para Xiaomi Mi Band 4 Carbono Reemplazo de...'
 sku: 'B07ZD1YVWK-es'
 tags: [  ]

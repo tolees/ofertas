@@ -5,7 +5,7 @@ date: 2020-04-17 09:03:52
 image: 'https://m.media-amazon.com/images/I/51H2PeL3u0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6N7XSG-es NWOUIIAY Organizadores para Coche 2PCS Funda Protección...'
 sku: 'B07S6N7XSG-es'
 tags: [  ]

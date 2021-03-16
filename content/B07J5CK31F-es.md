@@ -5,7 +5,7 @@ date: 2020-09-12 09:09:09
 image: 'https://m.media-amazon.com/images/I/41f4rpMYblL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5CK31F-es Taladro Percutor Meterk 850W Taladro Eléctrico de 3000 RPM...'
 sku: 'B07J5CK31F-es'
 tags: [  ]

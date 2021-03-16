@@ -5,7 +5,7 @@ date: 2020-03-30 07:12:36
 image: 'https://m.media-amazon.com/images/I/31CgstDnNvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078CR8HKZ-es L Oréal Paris Infallible Stick de Maquillaje 24h Tono 140...'
 sku: 'B078CR8HKZ-es'
 tags: [  ]

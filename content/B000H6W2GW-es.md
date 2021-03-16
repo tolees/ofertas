@@ -5,7 +5,7 @@ date: 2020-02-20 05:32:34
 image: 'https://m.media-amazon.com/images/I/412P+5ygoEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000H6W2GW-es Snazaroo - Pintura facial y corporal 18 ml color blanco'
 sku: 'B000H6W2GW-es'
 tags: [  ]

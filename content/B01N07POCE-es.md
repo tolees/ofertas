@@ -5,7 +5,7 @@ date: 2020-05-30 19:02:16
 image: 'https://m.media-amazon.com/images/I/41OxkAFB8-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N07POCE-es HBF Vigilabebes Con Camara Pantalla LCD A Color 2 Sensor...'
 sku: 'B01N07POCE-es'
 tags: [  ]

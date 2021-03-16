@@ -5,7 +5,7 @@ date: 2020-01-09 14:35:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31CosvluyjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZCH7LR-es Under Armour UA Launch Sw 2-In-1 Short Pantalones Cortos...'
 sku: 'B07CZCH7LR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-14 17:01:35
 image: 'https://m.media-amazon.com/images/I/41e7g6B9MdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0881LTC4R-es Jeteven Dispensador de desinfección automático dispensador...'
 sku: 'B0881LTC4R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-14 15:58:47
 image: 'https://m.media-amazon.com/images/I/41jzvfw2gcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9BF5KG-es Pepe Jeans Vincent Polo Gris Grey Marl 933 X-Small para...'
 sku: 'B07N9BF5KG-es'
 tags: [  ]

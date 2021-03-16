@@ -5,7 +5,7 @@ date: 2020-08-07 08:45:49
 image: 'https://m.media-amazon.com/images/I/510xJIypk1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CN92SSC-es Huj DIY gato forma especial pintura diamante mujer cadena...'
 sku: 'B08CN92SSC-es'
 tags: [  ]

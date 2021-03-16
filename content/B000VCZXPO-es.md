@@ -5,7 +5,7 @@ date: 2020-08-06 19:01:09
 image: 'https://m.media-amazon.com/images/I/41-J6lowf1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VCZXPO-es Wera 05057122001 Surtido de puntas'
 sku: 'B000VCZXPO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 13:46:06
 image: 'https://m.media-amazon.com/images/I/41SZnxAdXeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZW1B9LF-es Tommee Tippee Cuna Moisés para bebé Sleepee y base verde'
 sku: 'B07ZW1B9LF-es'
 tags: [  ]

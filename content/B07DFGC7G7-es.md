@@ -5,7 +5,7 @@ date: 2020-09-18 10:57:18
 image: 'https://m.media-amazon.com/images/I/41McYWcXEmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFGC7G7-es Funko Mortal Engines - Figura de Vinilo Thaddeus Valentine'
 sku: 'B07DFGC7G7-es'
 tags: [  ]

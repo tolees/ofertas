@@ -5,7 +5,7 @@ date: 2020-07-06 18:16:52
 image: 'https://m.media-amazon.com/images/I/41aw-AVNrlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083J2VTBF-es HP Elite Dragonfly - Ordenador portátil convertible de...'
 sku: 'B083J2VTBF-es'
 tags: [  ]

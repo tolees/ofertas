@@ -5,7 +5,7 @@ date: 2020-01-18 21:46:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51WJFmhr67L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DGK5S2K-es E-Vitta PCS71103EVLB000302 - Maletín para Ordenador...'
 sku: 'B01DGK5S2K-es'
 tags: [  ]

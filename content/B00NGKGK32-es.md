@@ -5,7 +5,7 @@ date: 2020-06-19 17:31:53
 image: 'https://m.media-amazon.com/images/I/41nY+1pIHzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGKGK32-es Lactacyd Pharma Protección - Con extractos naturales de...'
 sku: 'B00NGKGK32-es'
 tags: [  ]

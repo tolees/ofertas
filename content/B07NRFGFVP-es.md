@@ -5,7 +5,7 @@ date: 2020-02-13 20:10:12
 image: 'https://m.media-amazon.com/images/I/51+8RDc0+WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRFGFVP-es La Toja - Bálsamo Protect 7 Sin alcohol y con micro...'
 sku: 'B07NRFGFVP-es'
 tags: [  ]

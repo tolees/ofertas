@@ -5,7 +5,7 @@ date: 2020-01-07 09:11:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OTEYjAlDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMCV5LH-es Clarks Un Rio Lace Zapatillas para Mujer Negro Black...'
 sku: 'B07KMCV5LH-es'
 tags: [  ]

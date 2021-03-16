@@ -5,7 +5,7 @@ date: 2020-05-29 15:22:02
 image: 'https://m.media-amazon.com/images/I/41Iqww6hSWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I4RUBMC-es Breville DuraCeramic VST074X - Sandwichera con...'
 sku: 'B01I4RUBMC-es'
 tags: [  ]

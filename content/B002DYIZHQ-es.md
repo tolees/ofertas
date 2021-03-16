@@ -5,7 +5,7 @@ date: 2020-03-24 11:16:30
 image: 'https://m.media-amazon.com/images/I/41zF9T8alYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002DYIZHQ-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
 sku: 'B002DYIZHQ-es'
 tags: [  ]

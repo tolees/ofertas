@@ -5,7 +5,7 @@ date: 2020-02-21 20:23:15
 image: 'https://m.media-amazon.com/images/I/413Ki1xthmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHL42BL-es Pablosky 590622 Botas Slouch para Niños Azul Azul Azul 20 EU'
 sku: 'B07QHL42BL-es'
 tags: [  ]

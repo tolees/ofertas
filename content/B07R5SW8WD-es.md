@@ -5,7 +5,7 @@ date: 2020-05-22 10:59:16
 image: 'https://m.media-amazon.com/images/I/51F3fBVnfoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5SW8WD-es PUMA S Portable Bandolera Adultos Unisex Medium Gray...'
 sku: 'B07R5SW8WD-es'
 tags: [  ]

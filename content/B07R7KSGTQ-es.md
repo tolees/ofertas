@@ -5,7 +5,7 @@ date: 2020-01-05 09:56:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fMCyrRimL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7KSGTQ-es 4 Piezas 64GB USB 3.0 ENUODA Pendrive Pivote Memorias...'
 sku: 'B07R7KSGTQ-es'
 tags: [  ]

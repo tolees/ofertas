@@ -5,7 +5,7 @@ date: 2020-05-17 19:02:04
 image: 'https://m.media-amazon.com/images/I/51EN2HQX9+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SX7LFW-es AOTOZE Almohada Ortopédica Ergonómica Almohada de Espuma...'
 sku: 'B082SX7LFW-es'
 tags: [  ]

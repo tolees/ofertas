@@ -5,7 +5,7 @@ date: 2020-05-24 10:27:14
 image: 'https://m.media-amazon.com/images/I/31urxm9lQhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RTG01FM-es Grohe Eurosmart - Grifo de lavabo con vaciador automático...'
 sku: 'B00RTG01FM-es'
 tags: [  ]

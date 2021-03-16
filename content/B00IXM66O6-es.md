@@ -5,7 +5,7 @@ date: 2020-05-27 14:04:43
 image: 'https://m.media-amazon.com/images/I/31JIbi02keL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IXM66O6-es Joma Suez - Pantalón para niños de 6 años Color Azul Marino'
 sku: 'B00IXM66O6-es'
 tags: [  ]

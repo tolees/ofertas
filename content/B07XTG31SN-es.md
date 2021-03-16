@@ -5,7 +5,7 @@ date: 2020-04-20 14:42:26
 image: 'https://m.media-amazon.com/images/I/41TBO6F3JRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTG31SN-es Xti Botas Mujer 49363X para Mujer Verde 38 EU'
 sku: 'B07XTG31SN-es'
 tags: [  ]

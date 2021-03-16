@@ -5,7 +5,7 @@ date: 2020-09-20 14:53:12
 image: 'https://m.media-amazon.com/images/I/41nqkZnbBhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088KB3R7H-es Remescar - Reparación Nocturna - Contorno De Ojos -...'
 sku: 'B088KB3R7H-es'
 tags: [  ]

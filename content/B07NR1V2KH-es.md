@@ -5,7 +5,7 @@ date: 2020-01-08 11:26:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cIdPVo6CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR1V2KH-es Skechers Equalizer 3.0-Aquablast Zapatillas para Niños...'
 sku: 'B07NR1V2KH-es'
 tags: [  ]

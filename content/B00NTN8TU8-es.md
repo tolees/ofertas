@@ -5,7 +5,7 @@ date: 2020-05-12 07:35:27
 image: 'https://m.media-amazon.com/images/I/5194jRce-kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NTN8TU8-es Hombre-Reloj diesel MR Daddy 2.0 cronógrafo de Cuarzo con...'
 sku: 'B00NTN8TU8-es'
 tags: [  ]

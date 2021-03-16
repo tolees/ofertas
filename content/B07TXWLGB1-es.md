@@ -5,7 +5,7 @@ date: 2020-09-18 11:14:28
 image: 'https://m.media-amazon.com/images/I/41BLEGqX-LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXWLGB1-es Kipling Creativity S Cartera para Mujer Multicolor...'
 sku: 'B07TXWLGB1-es'
 tags: [  ]

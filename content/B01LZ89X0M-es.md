@@ -5,7 +5,7 @@ date: 2020-05-03 10:30:12
 image: 'https://m.media-amazon.com/images/I/31FzT0LsnuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ89X0M-es Panasonic Lumix DMC-LX15 - Cámara Compacta Premium de 20.9...'
 sku: 'B01LZ89X0M-es'
 tags: [  ]

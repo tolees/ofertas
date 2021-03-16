@@ -5,7 +5,7 @@ date: 2020-06-28 15:37:34
 image: 'https://m.media-amazon.com/images/I/41mxZyZaIqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDM915L-es Columbia Sandal Sandalia para Hombre Azul Petrol Blue...'
 sku: 'B07RDM915L-es'
 tags: [  ]

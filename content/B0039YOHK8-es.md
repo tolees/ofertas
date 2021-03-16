@@ -5,7 +5,7 @@ date: 2020-07-20 18:16:08
 image: 'https://m.media-amazon.com/images/I/41SiCzSkNbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0039YOHK8-es Casio Reloj de Pulsera MTP-1303PD-7AVEF'
 sku: 'B0039YOHK8-es'
 tags: [  ]

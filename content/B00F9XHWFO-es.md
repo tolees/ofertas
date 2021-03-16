@@ -5,7 +5,7 @@ date: 2020-05-30 14:07:59
 image: 'https://m.media-amazon.com/images/I/41Jxw6wi2SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F9XHWFO-es JewelryWe Anillo de Hombre Mujer Anillo de craneo Acero...'
 sku: 'B00F9XHWFO-es'
 tags: [  ]

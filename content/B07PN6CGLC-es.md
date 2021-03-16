@@ -5,7 +5,7 @@ date: 2020-07-10 11:14:43
 image: 'https://m.media-amazon.com/images/I/31PxfOIa3JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PN6CGLC-es Bourjois Velvet the Pencil Barra de labios Tono 06 3g'
 sku: 'B07PN6CGLC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 11:39:00
 image: 'https://m.media-amazon.com/images/I/41nPAf3lFXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GS5MYC8-es Bosch ARM 34 - Cortacésped 1300 W 230 V 34 cm de anchura...'
 sku: 'B00GS5MYC8-es'
 tags: [  ]

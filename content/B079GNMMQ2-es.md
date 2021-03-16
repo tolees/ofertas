@@ -5,7 +5,7 @@ date: 2020-09-06 05:59:59
 image: 'https://m.media-amazon.com/images/I/51rVip-JOeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079GNMMQ2-es Pendientes Colgantes Diseño Flor de Verano Multicolor para...'
 sku: 'B079GNMMQ2-es'
 tags: [  ]

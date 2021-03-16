@@ -5,7 +5,7 @@ date: 2020-05-21 11:46:31
 image: 'https://m.media-amazon.com/images/I/31KYeulnjjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087G6W9YQ-es Fifet Papel Mano de Scrapbooking Herramienta de Papel...'
 sku: 'B087G6W9YQ-es'
 tags: [  ]

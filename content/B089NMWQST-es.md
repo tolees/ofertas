@@ -5,7 +5,7 @@ date: 2020-06-16 12:31:54
 image: 'https://m.media-amazon.com/images/I/51nV40dyEWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NMWQST-es NDANH9896 Teléfono Fijo líneas Simples Estilo Retro La...'
 sku: 'B089NMWQST-es'
 tags: [  ]

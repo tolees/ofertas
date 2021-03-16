@@ -5,7 +5,7 @@ date: 2020-06-04 10:03:04
 image: 'https://m.media-amazon.com/images/I/51iG3tKduYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3PGCVY-es Palette Intense - Tono 3.65 Castaño Medio Chocolate - 2...'
 sku: 'B07N3PGCVY-es'
 tags: [  ]

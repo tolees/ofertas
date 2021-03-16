@@ -5,7 +5,7 @@ date: 2020-05-26 19:46:05
 image: 'https://m.media-amazon.com/images/I/41gQXQ1JbGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01709BVRE-es San Ignacio Masterpro Asador 36 x 24 cm Aluminio Gris...'
 sku: 'B01709BVRE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-12 20:33:29
 image: 'https://m.media-amazon.com/images/I/51bAesTsEuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XLWQNV-es Youngdo 1 Par Muñequeras Deportivas Ajustables más Anchas...'
 sku: 'B073XLWQNV-es'
 tags: [  ]

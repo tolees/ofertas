@@ -5,7 +5,7 @@ date: 2020-08-02 04:05:46
 image: 'https://m.media-amazon.com/images/I/41X5+0IiwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBG79QD-es RECCI - Topper Colchón de Espuma 120x200cm Topper...'
 sku: 'B07MBG79QD-es'
 tags: [  ]

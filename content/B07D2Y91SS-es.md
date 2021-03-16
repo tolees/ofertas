@@ -5,7 +5,7 @@ date: 2020-05-08 18:51:16
 image: 'https://m.media-amazon.com/images/I/51zatFyoraL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2Y91SS-es GEKER Compresor de Aire Portátil 12V 150 PSI con LED Luz...'
 sku: 'B07D2Y91SS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-01 10:50:24
 image: 'https://m.media-amazon.com/images/I/41pzB6dK+dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNB6SYY-es Philips Reloj Despertador Digital PR702/12 con Cargador...'
 sku: 'B07YNB6SYY-es'
 tags: [  ]

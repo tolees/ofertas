@@ -5,7 +5,7 @@ date: 2020-09-20 20:01:35
 image: 'https://m.media-amazon.com/images/I/41mxE7d5qFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGWB8TW-es DURAGADGET Cable De Audio Portátil Medion MD61338 HP...'
 sku: 'B07RGWB8TW-es'
 tags: [  ]

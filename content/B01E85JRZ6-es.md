@@ -5,7 +5,7 @@ date: 2020-06-22 14:14:41
 image: 'https://m.media-amazon.com/images/I/518kvC5jirL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E85JRZ6-es DEWALT DCB115-QW - Cargador XR para baterias de 10 8V - 14...'
 sku: 'B01E85JRZ6-es'
 tags: [  ]

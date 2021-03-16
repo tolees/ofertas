@@ -5,7 +5,7 @@ date: 2020-03-05 17:16:03
 image: 'https://m.media-amazon.com/images/I/21n36FhKacL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWN99M4-es Precision Elite 2.0'
 sku: 'B07PWN99M4-es'
 tags: [  ]

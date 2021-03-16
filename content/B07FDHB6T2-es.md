@@ -5,7 +5,7 @@ date: 2020-06-19 15:37:43
 image: 'https://m.media-amazon.com/images/I/41WpnETh2FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDHB6T2-es Bra Prior -Set de 3 Sartenes Aluminio Fundido con...'
 sku: 'B07FDHB6T2-es'
 tags: [  ]

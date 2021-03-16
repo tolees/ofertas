@@ -5,7 +5,7 @@ date: 2020-05-16 07:40:35
 image: 'https://m.media-amazon.com/images/I/412Tg7SotxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKM4T7P-es Bolsas de Leche Materna Bestele Recipientes para leche...'
 sku: 'B07CKM4T7P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-03 15:53:30
 image: 'https://m.media-amazon.com/images/I/41eq2XHpY1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMTL5W2-es Under Armour Victory Tanque Mujer Negro SM'
 sku: 'B07PMTL5W2-es'
 tags: [  ]

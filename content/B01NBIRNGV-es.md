@@ -5,7 +5,7 @@ date: 2020-06-27 09:01:44
 image: 'https://m.media-amazon.com/images/I/41a+dj6v0uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBIRNGV-es Deuba Baúl de almacenaje Negro Cofre con Capacidad de 310L...'
 sku: 'B01NBIRNGV-es'
 tags: [  ]

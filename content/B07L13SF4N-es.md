@@ -5,7 +5,7 @@ date: 2020-03-29 10:54:43
 image: 'https://m.media-amazon.com/images/I/41x+jTzSr3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L13SF4N-es Under Armour UNDKU Rival Parte Superior del Calentamiento...'
 sku: 'B07L13SF4N-es'
 tags: [  ]

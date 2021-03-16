@@ -5,7 +5,7 @@ date: 2020-06-01 10:15:50
 image: 'https://m.media-amazon.com/images/I/31WCNVBbOTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3K3XJF-es Superdry Core Sport Graphic tee Top de Deporte Negro Black...'
 sku: 'B07P3K3XJF-es'
 tags: [  ]

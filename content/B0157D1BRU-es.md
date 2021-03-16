@@ -5,7 +5,7 @@ date: 2020-05-13 15:08:20
 image: 'https://m.media-amazon.com/images/I/418wjy0+H8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0157D1BRU-es Clatronic ST 3629 Sandwichera para 4 Sándwiches 1200 W 1...'
 sku: 'B0157D1BRU-es'
 tags: [  ]

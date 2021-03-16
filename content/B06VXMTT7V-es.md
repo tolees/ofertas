@@ -5,7 +5,7 @@ date: 2020-06-26 14:46:11
 image: 'https://m.media-amazon.com/images/I/61Cbuiax2SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VXMTT7V-es GEORGE GINA & LUCY Nylon 100 Peaches Red Palms'
 sku: 'B06VXMTT7V-es'
 tags: [  ]

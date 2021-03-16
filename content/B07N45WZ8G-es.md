@@ -5,7 +5,7 @@ date: 2020-06-22 15:23:08
 image: 'https://m.media-amazon.com/images/I/418l0Kcn1LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N45WZ8G-es Paco Rabanne 58009 Xs Pure Night Eau de Parfum 100 ml'
 sku: 'B07N45WZ8G-es'
 tags: [  ]

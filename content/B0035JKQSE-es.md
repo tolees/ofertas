@@ -5,7 +5,7 @@ date: 2020-07-16 09:15:33
 image: 'https://m.media-amazon.com/images/I/41jMPG831xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0035JKQSE-es VAUDE Bike Essential Kits Primeros Auxilios Unisex Adulto...'
 sku: 'B0035JKQSE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-28 09:46:03
 image: 'https://m.media-amazon.com/images/I/41WZ8F7H3VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VFJL6F-es Juego de 2 Almohadas Ajustables 50 x 75 cm Sin Productos...'
 sku: 'B079VFJL6F-es'
 tags: [  ]

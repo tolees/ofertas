@@ -5,7 +5,7 @@ date: 2020-03-14 14:12:52
 image: 'https://m.media-amazon.com/images/I/31lgxMpBaJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZDK5SD-es The North Face Piqué Polo de Manga Corta Hombre Azul Urban...'
 sku: 'B01MZDK5SD-es'
 tags: [  ]

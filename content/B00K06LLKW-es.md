@@ -5,7 +5,7 @@ date: 2020-05-13 06:20:47
 image: 'https://m.media-amazon.com/images/I/31ysDrgQj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K06LLKW-es Fissler Q! - Sopa de Cuchara'
 sku: 'B00K06LLKW-es'
 tags: [  ]

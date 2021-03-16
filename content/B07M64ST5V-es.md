@@ -5,7 +5,7 @@ date: 2020-02-21 20:22:15
 image: 'https://m.media-amazon.com/images/I/41e3Sgtzz9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M64ST5V-es Nike Wmns Air Heights Zapatillas de Running para Asfalto...'
 sku: 'B07M64ST5V-es'
 tags: [  ]

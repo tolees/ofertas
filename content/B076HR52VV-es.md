@@ -5,7 +5,7 @@ date: 2020-01-06 12:35:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lx2pwQf8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HR52VV-es adidas Con18 PES Jkt Sport Jacket Hombre Blanco/Negro XS'
 sku: 'B076HR52VV-es'
 tags: [  ]

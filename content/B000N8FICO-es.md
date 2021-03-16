@@ -5,7 +5,7 @@ date: 2020-09-28 06:17:52
 image: 'https://m.media-amazon.com/images/I/41UNZ10y1GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000N8FICO-es Speedo Endurance Traje de natación para mujer Negro...'
 sku: 'B000N8FICO-es'
 tags: [  ]

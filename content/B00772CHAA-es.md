@@ -5,7 +5,7 @@ date: 2020-05-14 10:13:01
 image: 'https://m.media-amazon.com/images/I/41arlmFPN-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00772CHAA-es Now Foods Eve Múltiples Vitaminas Para Mujeres 90 Unidades...'
 sku: 'B00772CHAA-es'
 tags: [  ]

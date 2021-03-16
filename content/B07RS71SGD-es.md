@@ -5,7 +5,7 @@ date: 2020-01-24 11:46:12
 image: 'https://m.media-amazon.com/images/I/41TYYV6ZRXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS71SGD-es Tommy Hilfiger - Textured Mini Cc Wallet Carteras Hombre...'
 sku: 'B07RS71SGD-es'
 tags: [  ]

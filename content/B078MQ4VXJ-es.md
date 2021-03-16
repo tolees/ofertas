@@ -5,7 +5,7 @@ date: 2020-03-31 17:54:29
 image: 'https://m.media-amazon.com/images/I/41Rv3fAQC7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078MQ4VXJ-es Adidas Nizza Zapatillas para Hombre Negro Core...'
 sku: 'B078MQ4VXJ-es'
 tags: [  ]

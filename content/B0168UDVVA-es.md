@@ -5,7 +5,7 @@ date: 2020-02-01 01:14:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/517OwTpj9ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0168UDVVA-es Clint Eastwood - Pack 10 [Blu-ray]'
 sku: 'B0168UDVVA-es'
 tags: [  ]

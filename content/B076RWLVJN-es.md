@@ -5,7 +5,7 @@ date: 2020-07-21 09:18:34
 image: 'https://m.media-amazon.com/images/I/41ru28xSpqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076RWLVJN-es Bebé Luz nocturna musical USB recargable 4 modos Proyector...'
 sku: 'B076RWLVJN-es'
 tags: [  ]

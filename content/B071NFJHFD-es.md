@@ -5,7 +5,7 @@ date: 2020-09-16 17:34:28
 image: 'https://m.media-amazon.com/images/I/51JnMZ3EToL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NFJHFD-es "Corazo del Amor" Chapado en plata Pulseras Mujer Rosa...'
 sku: 'B071NFJHFD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 13:42:42
 image: 'https://m.media-amazon.com/images/I/41uCZKADrVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C104FJY-es Rimmel London Super Gel Esmalte de Uñas Tono 045-47 gr'
 sku: 'B00C104FJY-es'
 tags: [  ]

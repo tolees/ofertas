@@ -5,7 +5,7 @@ date: 2020-05-26 16:40:39
 image: 'https://m.media-amazon.com/images/I/41i-vnyTMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZXFD14-es JANABEBE Funda para Coche Stokke Xplori y Stokke Crusi...'
 sku: 'B077ZXFD14-es'
 tags: [  ]

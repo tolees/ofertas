@@ -5,7 +5,7 @@ date: 2020-05-14 09:56:42
 image: 'https://m.media-amazon.com/images/I/41FQup7lkyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZYRNKX-es Domestos Axe Desodorante Spray 2012 Final Edition sin...'
 sku: 'B079ZYRNKX-es'
 tags: [  ]

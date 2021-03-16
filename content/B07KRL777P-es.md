@@ -5,7 +5,7 @@ date: 2020-04-19 06:14:15
 image: 'https://m.media-amazon.com/images/I/41EeRyhPILL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRL777P-es New Balance 373 Zapatillas para Mujer Verde Green Green...'
 sku: 'B07KRL777P-es'
 tags: [  ]

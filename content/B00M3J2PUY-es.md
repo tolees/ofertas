@@ -5,7 +5,7 @@ date: 2020-03-24 00:47:10
 image: 'https://m.media-amazon.com/images/I/51EosIc7GPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M3J2PUY-es Nixon Reloj con Movimiento Cuarzo japonés Man A3772001...'
 sku: 'B00M3J2PUY-es'
 tags: [  ]

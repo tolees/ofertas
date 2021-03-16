@@ -5,7 +5,7 @@ date: 2020-05-08 19:27:57
 image: 'https://m.media-amazon.com/images/I/41DP5+av0uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJHP2BX-es Tamaris 1-1-25242-23 Botas Militar para Mujer Marrón Rust...'
 sku: 'B07NJHP2BX-es'
 tags: [  ]

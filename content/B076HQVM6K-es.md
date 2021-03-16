@@ -5,7 +5,7 @@ date: 2020-01-07 18:50:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41D4uIgvJbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HQVM6K-es adidas Con18 PES Jkt Sport Jacket Hombre Azul Azul/Blanco 2XL'
 sku: 'B076HQVM6K-es'
 tags: [  ]

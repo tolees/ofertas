@@ -5,7 +5,7 @@ date: 2020-07-17 02:39:03
 image: 'https://m.media-amazon.com/images/I/41M0DJPHAaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2SN5MB-es New Balance 500 Zapatillas para Mujer Rosa Pink Hgy 35 EU'
 sku: 'B07S2SN5MB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 20:05:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417U7grZI2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XWHYGVW-es T-EQUIP PSC-130MSRT - Carro de armario utilitario de...'
 sku: 'B00XWHYGVW-es'
 tags: [  ]

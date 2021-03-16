@@ -5,7 +5,7 @@ date: 2020-05-08 08:04:41
 image: 'https://m.media-amazon.com/images/I/414MkwHdKHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018D8YZU6-es Vizaro - Cambiador Bebé Textil Acolchado - Portátil - Muy...'
 sku: 'B018D8YZU6-es'
 tags: [  ]

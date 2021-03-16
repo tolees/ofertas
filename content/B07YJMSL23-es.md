@@ -5,7 +5,7 @@ date: 2020-02-22 14:04:29
 image: 'https://m.media-amazon.com/images/I/41K3oZweEwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJMSL23-es Dularf Masajeador de Percusión Mano Portátil Masajeador de...'
 sku: 'B07YJMSL23-es'
 tags: [  ]

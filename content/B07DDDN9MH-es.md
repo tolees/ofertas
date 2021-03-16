@@ -5,7 +5,7 @@ date: 2020-01-19 13:04:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51K1FCacVwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDDN9MH-es IMC Toys- Atrapa Estrellas Juego Multicolor 97346'
 sku: 'B07DDDN9MH-es'
 tags: [  ]

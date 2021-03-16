@@ -5,7 +5,7 @@ date: 2020-02-18 09:42:23
 image: 'https://m.media-amazon.com/images/I/51r4GFRceXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZQY3W1-es Refrigerador de aire acondicionado manómetro de presión...'
 sku: 'B07GZQY3W1-es'
 tags: [  ]

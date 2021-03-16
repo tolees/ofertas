@@ -5,7 +5,7 @@ date: 2020-04-02 15:42:25
 image: 'https://m.media-amazon.com/images/I/41-uX-1V86L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9LBN1W-es Smoby SMOBH - Caja de Frutas y Verduras Modelos/Colores...'
 sku: 'B01N9LBN1W-es'
 tags: [  ]

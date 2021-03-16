@@ -5,7 +5,7 @@ date: 2020-04-19 12:04:24
 image: 'https://m.media-amazon.com/images/I/419t-W23l-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2TN9QV-es Dihope zapatillas de deporte para mujer zapatillas...'
 sku: 'B07Q2TN9QV-es'
 tags: [  ]

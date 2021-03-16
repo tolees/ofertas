@@ -5,7 +5,7 @@ date: 2020-08-29 17:26:30
 image: 'https://m.media-amazon.com/images/I/31qWsaVU9sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWKQFXJ-es Skechers Arya Sweet Glitz Zapatillas sin Cordones para...'
 sku: 'B07VWKQFXJ-es'
 tags: [  ]

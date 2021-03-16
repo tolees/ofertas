@@ -5,7 +5,7 @@ date: 2020-01-23 13:21:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513zYHHQxcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D333XPG-es Luces Solares Con 82 LED Para Exteriores Mejoradas...'
 sku: 'B07D333XPG-es'
 tags: [  ]

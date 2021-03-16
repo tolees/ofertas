@@ -5,7 +5,7 @@ date: 2020-09-24 17:32:10
 image: 'https://m.media-amazon.com/images/I/41awUCObVvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFTPZOQ-es Philips SCF753/02 - Taza con caño decorado colores surtios'
 sku: 'B01FFTPZOQ-es'
 tags: [  ]

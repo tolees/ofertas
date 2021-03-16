@@ -5,7 +5,7 @@ date: 2020-05-18 22:00:59
 image: 'https://m.media-amazon.com/images/I/51dTfNNnltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YG46CP-es Lorus Reloj Digital para Unisex de Cuarzo con Correa en...'
 sku: 'B078YG46CP-es'
 tags: [  ]

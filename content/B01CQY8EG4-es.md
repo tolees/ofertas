@@ -5,7 +5,7 @@ date: 2020-04-14 16:33:51
 image: 'https://m.media-amazon.com/images/I/51QjQwTT9uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CQY8EG4-es Gilde Handwerk Fieltro Juego de manteles trébol Gris...'
 sku: 'B01CQY8EG4-es'
 tags: [  ]

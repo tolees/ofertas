@@ -5,7 +5,7 @@ date: 2020-09-16 08:56:37
 image: 'https://m.media-amazon.com/images/I/41mp3QV--7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08J451HBF-es DEtasyXworld Funda Protectora de Fieltro Suave y Liviana...'
 sku: 'B08J451HBF-es'
 tags: [  ]

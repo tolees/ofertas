@@ -5,7 +5,7 @@ date: 2020-07-12 19:58:59
 image: 'https://m.media-amazon.com/images/I/41fpqMW0E2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBSSZ18-es NewZC Bridas Ajustables para Cables 120 Unidades 15 x 1 2...'
 sku: 'B07YBSSZ18-es'
 tags: [  ]

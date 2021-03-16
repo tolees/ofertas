@@ -5,7 +5,7 @@ date: 2020-03-05 19:52:59
 image: 'https://m.media-amazon.com/images/I/41QobnWI64L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQSZBD-es Pepe Jeans Marissa suéter Candle 806 Small para Mujer'
 sku: 'B07MZQSZBD-es'
 tags: [  ]

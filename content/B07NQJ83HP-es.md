@@ -5,7 +5,7 @@ date: 2020-09-04 12:01:11
 image: 'https://m.media-amazon.com/images/I/41ldaWzzw5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQJ83HP-es ZZKKO Animal Llama Mochilas Escolar Libro Bolsa de Viaje...'
 sku: 'B07NQJ83HP-es'
 tags: [  ]

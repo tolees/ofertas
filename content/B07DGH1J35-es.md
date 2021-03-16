@@ -5,7 +5,7 @@ date: 2020-05-26 19:27:33
 image: 'https://m.media-amazon.com/images/I/41uvMeFoyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGH1J35-es Dreaming Kamahaus Damas Colchón 67 5x190'
 sku: 'B07DGH1J35-es'
 tags: [  ]

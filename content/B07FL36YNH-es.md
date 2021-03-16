@@ -5,7 +5,7 @@ date: 2020-02-08 09:21:59
 image: 'https://m.media-amazon.com/images/I/314Do4kj14L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FL36YNH-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07FL36YNH-es'
 tags: [  ]

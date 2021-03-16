@@ -5,7 +5,7 @@ date: 2020-04-16 09:16:29
 image: 'https://m.media-amazon.com/images/I/51EDvG0yFEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJM2VXY-es Todeco - Household Tool Box Home Tool Kit - Material:...'
 sku: 'B07JJM2VXY-es'
 tags: [  ]

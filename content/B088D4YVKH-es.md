@@ -5,7 +5,7 @@ date: 2020-05-29 18:02:30
 image: 'https://m.media-amazon.com/images/I/41I9Sf+H1DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D4YVKH-es Suhctup Funda Compatible para Xiaomi Mi Note 10/Note 10...'
 sku: 'B088D4YVKH-es'
 tags: [  ]

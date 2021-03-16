@@ -5,7 +5,7 @@ date: 2020-01-31 13:51:48
 image: 'https://m.media-amazon.com/images/I/41NEx-ajV7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0732Z3ZNX-es Murtra Estor Plegable loneta Lisa autofrenado 090 x 175...'
 sku: 'B0732Z3ZNX-es'
 tags: [  ]

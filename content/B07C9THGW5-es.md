@@ -5,7 +5,7 @@ date: 2020-02-16 22:08:19
 image: 'https://m.media-amazon.com/images/I/41SIT61zt2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C9THGW5-es Mr. Wonderful Llavero Mamátesales Metal Verde 5x4.9x0.2 cm'
 sku: 'B07C9THGW5-es'
 tags: [  ]

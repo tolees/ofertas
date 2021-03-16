@@ -5,7 +5,7 @@ date: 2020-01-22 07:16:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZcmpgB1oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003EQ96SE-es Shimano CSHG318132 Cassette Unisex Gris Talla Única'
 sku: 'B003EQ96SE-es'
 tags: [  ]

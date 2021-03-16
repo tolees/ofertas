@@ -5,7 +5,7 @@ date: 2020-08-14 21:03:49
 image: 'https://m.media-amazon.com/images/I/5100v5nXB2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LVQ1BF-es Mini Amoladora POPOMAN 8V Amoladora Electrónica DC...'
 sku: 'B083LVQ1BF-es'
 tags: [  ]

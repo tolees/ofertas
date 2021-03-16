@@ -5,7 +5,7 @@ date: 2020-03-08 16:10:31
 image: 'https://m.media-amazon.com/images/I/51q3AhHLKWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUQCEXO-es The Elder Scrolls Online: Morrowind'
 sku: 'B01MUQCEXO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 15:31:14
 image: 'https://m.media-amazon.com/images/I/51+Nu8wY8NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB1JG1M-es Puer Tea 357g 0.787LB Naturalmente orgánico Pu-erh Té...'
 sku: 'B07GB1JG1M-es'
 tags: [  ]

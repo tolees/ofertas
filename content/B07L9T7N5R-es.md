@@ -5,7 +5,7 @@ date: 2020-02-03 09:27:17
 image: 'https://m.media-amazon.com/images/I/31POZeRY+8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9T7N5R-es Lacoste Straightset 319 2 Cfa Zapatillas para Mujer Blanco...'
 sku: 'B07L9T7N5R-es'
 tags: [  ]

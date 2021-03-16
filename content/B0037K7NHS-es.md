@@ -5,7 +5,7 @@ date: 2020-01-19 19:08:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jFMJm2oML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0037K7NHS-es Zefal Z-Light Pack XS Bolsa Porta-Cámaras Unisex Negro'
 sku: 'B0037K7NHS-es'
 tags: [  ]

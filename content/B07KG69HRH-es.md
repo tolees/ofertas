@@ -5,7 +5,7 @@ date: 2020-01-01 07:30:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Onm6Hc0CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG69HRH-es PUMA Cell Venom Lux Zapatillas Unisex Adulto Black-Jaffa...'
 sku: 'B07KG69HRH-es'
 tags: [  ]

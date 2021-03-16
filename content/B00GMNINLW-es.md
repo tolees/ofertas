@@ -5,7 +5,7 @@ date: 2020-04-03 20:58:31
 image: 'https://m.media-amazon.com/images/I/51lO-VL4HHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GMNINLW-es Sourcingmap A13051000UX0426 - Pack de 10 cables marcadores...'
 sku: 'B00GMNINLW-es'
 tags: [  ]

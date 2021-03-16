@@ -5,7 +5,7 @@ date: 2020-02-16 08:57:09
 image: 'https://m.media-amazon.com/images/I/51-mFMQK6dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVXJ52W-es Blind'
 sku: 'B07GVXJ52W-es'
 tags: [  ]

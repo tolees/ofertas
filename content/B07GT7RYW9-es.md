@@ -5,7 +5,7 @@ date: 2020-01-18 12:16:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZHTGmEnUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GT7RYW9-es Devolo Magic 2 LAN - Starter Kit de Powerline Rápido para...'
 sku: 'B07GT7RYW9-es'
 tags: [  ]

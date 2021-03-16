@@ -5,7 +5,7 @@ date: 2020-01-11 20:53:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ci5gk%2B4BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LAO8PLU-es Pikolinos Sandalia Mykonos para Mujer'
 sku: 'B01LAO8PLU-es'
 tags: [  ]

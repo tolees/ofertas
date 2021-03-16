@@ -5,7 +5,7 @@ date: 2020-03-15 07:37:12
 image: 'https://m.media-amazon.com/images/I/41Qa069XGPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZPFRL1-es Under Armour Sportstyle Wind Parte Superior del...'
 sku: 'B07CZPFRL1-es'
 tags: [  ]

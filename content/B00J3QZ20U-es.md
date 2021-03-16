@@ -5,7 +5,7 @@ date: 2020-03-26 13:30:42
 image: 'https://m.media-amazon.com/images/I/316GYBBiVfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J3QZ20U-es H2D Professional - Cepillo desenredante para desenredar el...'
 sku: 'B00J3QZ20U-es'
 tags: [  ]

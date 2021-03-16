@@ -5,7 +5,7 @@ date: 2020-06-15 10:44:30
 image: 'https://m.media-amazon.com/images/I/418A8MRRBLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWNDTQD-es Under Armour Sportstyle Terry Logo Parte Superior del...'
 sku: 'B07QWNDTQD-es'
 tags: [  ]

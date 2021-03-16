@@ -5,7 +5,7 @@ date: 2020-01-08 16:54:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416GzqmmCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079V5LP6X-es Wrangler Arizona Jeans Azul Green Room 25B 35W / 32L para...'
 sku: 'B079V5LP6X-es'
 tags: [  ]

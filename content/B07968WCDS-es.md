@@ -5,7 +5,7 @@ date: 2020-06-24 18:13:36
 image: 'https://m.media-amazon.com/images/I/31pEDFnoVeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07968WCDS-es PUMA Liga Core Chándal Hombre Peacoat/White S'
 sku: 'B07968WCDS-es'
 tags: [  ]

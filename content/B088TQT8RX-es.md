@@ -5,7 +5,7 @@ date: 2020-09-02 16:31:18
 image: 'https://m.media-amazon.com/images/I/41qFG1pcEaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TQT8RX-es N / A Pretyj Funda para ZTE Blade A3 2020 con 3 Piezas...'
 sku: 'B088TQT8RX-es'
 tags: [  ]

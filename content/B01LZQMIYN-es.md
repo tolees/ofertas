@@ -5,7 +5,7 @@ date: 2020-08-31 07:27:34
 image: 'https://m.media-amazon.com/images/I/51D8GXgGgdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZQMIYN-es Babyline Caramelo - Saco para silla de paseo color rosa'
 sku: 'B01LZQMIYN-es'
 tags: [  ]

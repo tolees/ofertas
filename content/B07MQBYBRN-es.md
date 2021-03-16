@@ -5,7 +5,7 @@ date: 2020-05-22 09:57:29
 image: 'https://m.media-amazon.com/images/I/31rE1zCpnIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQBYBRN-es Paladone 43AB882063 Taza 3D Super Mario Yoshi 330...'
 sku: 'B07MQBYBRN-es'
 tags: [  ]

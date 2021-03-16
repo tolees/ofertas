@@ -5,7 +5,7 @@ date: 2020-10-01 12:35:12
 image: 'https://m.media-amazon.com/images/I/41-z+7TnzcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083X5ZXZF-es YISSVIC Raqueta Mosquitos Eléctrico Raqueta Matamoscas...'
 sku: 'B083X5ZXZF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-16 18:01:28
 image: 'https://m.media-amazon.com/images/I/510WFTHj3PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7QWD2V-es Compatible con iPhone XS Max Carcasa transparente de...'
 sku: 'B07Y7QWD2V-es'
 tags: [  ]

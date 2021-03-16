@@ -5,7 +5,7 @@ date: 2020-08-02 11:16:37
 image: 'https://m.media-amazon.com/images/I/41tZJdExv6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTG9AQY-es Tommy Hilfiger 3p Brief Cierre Multicolor Multi/Peacoat...'
 sku: 'B01MTG9AQY-es'
 tags: [  ]

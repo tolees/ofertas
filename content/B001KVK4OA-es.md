@@ -5,7 +5,7 @@ date: 2020-08-19 17:27:04
 image: 'https://m.media-amazon.com/images/I/41TsHNjwt2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001KVK4OA-es Bolsas de esterilización reutilizables Quick Clean Medela'
 sku: 'B001KVK4OA-es'
 tags: [  ]

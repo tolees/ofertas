@@ -5,7 +5,7 @@ date: 2020-04-20 02:30:10
 image: 'https://m.media-amazon.com/images/I/41KIvRasPNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZZQXFJ-es Adidas Predator 19.3 AG J - Botas de fútbol Unisex Niños...'
 sku: 'B07MZZQXFJ-es'
 tags: [  ]

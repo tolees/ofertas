@@ -5,7 +5,7 @@ date: 2020-07-25 08:27:32
 image: 'https://m.media-amazon.com/images/I/31SGAYVo0+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O32UOBQ-es Bourjois Contour Edition Perfilador de Labios Tono 01 Nude...'
 sku: 'B00O32UOBQ-es'
 tags: [  ]

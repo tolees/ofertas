@@ -5,7 +5,7 @@ date: 2020-02-01 15:17:27
 image: 'https://m.media-amazon.com/images/I/41PEINp+d8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XN2J2L-es New Balance Fuel Core 5000 Zapatillas de Running para...'
 sku: 'B075XN2J2L-es'
 tags: [  ]

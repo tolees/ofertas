@@ -5,7 +5,7 @@ date: 2020-08-18 19:13:16
 image: 'https://m.media-amazon.com/images/I/41zvfA0oeJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X2DP1R-es H.Koenig Sopera Eléctrica y Licuadora Máquina para hacer...'
 sku: 'B076X2DP1R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-01 07:56:39
 image: 'https://m.media-amazon.com/images/I/51TT4BZ-1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KM08FZY-es Pulsar Reloj Analógico Unisex con Correa de Chapado En...'
 sku: 'B01KM08FZY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 12:09:17
 image: 'https://m.media-amazon.com/images/I/41xEiptXHEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L1TC27G-es Reebok FLEXAGON FIT Zapatillas de Deporte para Mujer Negro...'
 sku: 'B07L1TC27G-es'
 tags: [  ]

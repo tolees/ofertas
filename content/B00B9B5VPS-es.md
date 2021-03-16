@@ -5,7 +5,7 @@ date: 2020-01-06 17:33:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dub12bPfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B9B5VPS-es Newton Telescopio 130/650 Sph.'
 sku: 'B00B9B5VPS-es'
 tags: [  ]

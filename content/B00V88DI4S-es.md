@@ -5,7 +5,7 @@ date: 2020-02-23 13:20:56
 image: 'https://m.media-amazon.com/images/I/41NKEebB1rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V88DI4S-es Clarins Eclat Du Jour Crema-Gel Pm 30 ml'
 sku: 'B00V88DI4S-es'
 tags: [  ]

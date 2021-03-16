@@ -5,7 +5,7 @@ date: 2020-07-08 04:22:29
 image: 'https://m.media-amazon.com/images/I/41ghz4D6yWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KG6TJY-es Rocontrip Funda de Silicona para Teléfono con el Cordón...'
 sku: 'B082KG6TJY-es'
 tags: [  ]

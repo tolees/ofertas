@@ -5,7 +5,7 @@ date: 2020-08-14 14:31:15
 image: 'https://m.media-amazon.com/images/I/51ZjYHnej9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087Q1W5PS-es FSCOVER Funda para iPad Pro 12 9 2020 Purpurina Ultra...'
 sku: 'B087Q1W5PS-es'
 tags: [  ]

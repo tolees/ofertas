@@ -5,7 +5,7 @@ date: 2020-05-16 12:03:34
 image: 'https://m.media-amazon.com/images/I/41DUkKs1NRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWXDK6M-es Women s Secret New Season Nightdresses Cm Pink Flower Nd...'
 sku: 'B07TWXDK6M-es'
 tags: [  ]

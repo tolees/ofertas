@@ -5,7 +5,7 @@ date: 2020-02-06 07:22:59
 image: 'https://m.media-amazon.com/images/I/41afyjyZACL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJLS7R3-es Wowwee- Wildfire Mascota Interactiva Color Rojo 3861'
 sku: 'B07HJLS7R3-es'
 tags: [  ]

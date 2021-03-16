@@ -5,7 +5,7 @@ date: 2020-05-21 19:02:05
 image: 'https://m.media-amazon.com/images/I/41-giL8cH6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYT3DH2-es Surenhap Espejo retrovisor LED de Bebé Acrílico con...'
 sku: 'B07CYT3DH2-es'
 tags: [  ]

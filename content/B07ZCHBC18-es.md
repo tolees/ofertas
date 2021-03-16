@@ -5,7 +5,7 @@ date: 2020-06-18 09:33:01
 image: 'https://m.media-amazon.com/images/I/41025MYx8gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCHBC18-es NEEGO Juego de Pingüinos Trampa de Pingüinos - Peligro de...'
 sku: 'B07ZCHBC18-es'
 tags: [  ]

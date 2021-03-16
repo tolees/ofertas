@@ -5,7 +5,7 @@ date: 2020-04-23 21:20:50
 image: 'https://m.media-amazon.com/images/I/41cd8Iuu8YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNVQ2K6-es V2000 Auriculares 7.1 Canales 3.5mm Jack Bass Estéreo con...'
 sku: 'B07HNVQ2K6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-29 21:44:02
 image: 'https://m.media-amazon.com/images/I/41tOd48HiJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XNXLBRK-es SUNLU Impresora 3D DIY FDM 310 x 310 x 400 mm tamaño...'
 sku: 'B07XNXLBRK-es'
 tags: [  ]

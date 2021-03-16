@@ -5,7 +5,7 @@ date: 2020-05-25 09:36:17
 image: 'https://m.media-amazon.com/images/I/41BkUwiCzIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E7FNXS-es K&N RC-0982 filtro cromado universal Coche y Moto'
 sku: 'B000E7FNXS-es'
 tags: [  ]

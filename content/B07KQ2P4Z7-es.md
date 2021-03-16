@@ -5,7 +5,7 @@ date: 2020-06-12 19:09:26
 image: 'https://m.media-amazon.com/images/I/31BY0xIyAzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQ2P4Z7-es Juguetrónica- Wonder Cube Cubo infinito Multicolor JUG0322...'
 sku: 'B07KQ2P4Z7-es'
 tags: [  ]

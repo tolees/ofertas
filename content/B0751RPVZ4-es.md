@@ -5,7 +5,7 @@ date: 2020-02-13 09:56:56
 image: 'https://m.media-amazon.com/images/I/41i3t1HczsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751RPVZ4-es New Balance 574 Core Plus Zapatillas para Hombre Azul...'
 sku: 'B0751RPVZ4-es'
 tags: [  ]

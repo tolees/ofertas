@@ -5,7 +5,7 @@ date: 2020-08-04 15:06:36
 image: 'https://m.media-amazon.com/images/I/418H+g+RcqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGTBF81-es Lee Extreme Motion Short Pantalones Cortos Verde Khaki 08...'
 sku: 'B07VGTBF81-es'
 tags: [  ]

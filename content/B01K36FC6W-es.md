@@ -5,7 +5,7 @@ date: 2020-01-10 10:56:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/312crrkdVNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K36FC6W-es Desconocido USB 2.0 MP3 Reproductor de Música Grabación...'
 sku: 'B01K36FC6W-es'
 tags: [  ]

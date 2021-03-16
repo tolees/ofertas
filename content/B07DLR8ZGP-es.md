@@ -5,7 +5,7 @@ date: 2020-09-03 08:50:17
 image: 'https://m.media-amazon.com/images/I/21gAIpCF17L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLR8ZGP-es Béaba - Vaso silicona unisex color azul'
 sku: 'B07DLR8ZGP-es'
 tags: [  ]

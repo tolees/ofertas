@@ -5,7 +5,7 @@ date: 2020-08-07 23:36:46
 image: 'https://m.media-amazon.com/images/I/41YBqwKG28L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0822KCRYN-es HOLULO 3X 10X Lámpara Lupa Lámpara de Aumento con Luz y...'
 sku: 'B0822KCRYN-es'
 tags: [  ]

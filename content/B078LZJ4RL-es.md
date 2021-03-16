@@ -5,7 +5,7 @@ date: 2020-04-03 03:22:20
 image: 'https://m.media-amazon.com/images/I/51e8TG15ZmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078LZJ4RL-es Tonerahorro CF279A XL - Toner laser color negro 2500...'
 sku: 'B078LZJ4RL-es'
 tags: [  ]

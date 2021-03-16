@@ -5,7 +5,7 @@ date: 2020-08-30 04:18:29
 image: 'https://m.media-amazon.com/images/I/51llWjNfSmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FCMD7R2-es Auriculares Bluetooth Auriculares inalámbricos...'
 sku: 'B08FCMD7R2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 19:32:30
 image: 'https://m.media-amazon.com/images/I/41P3IEOLBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M8LCYZ6-es Correa de reloj de repuesto para Samsung Gear S3 color...'
 sku: 'B01M8LCYZ6-es'
 tags: [  ]

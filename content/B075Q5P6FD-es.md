@@ -5,7 +5,7 @@ date: 2020-04-16 00:24:36
 image: 'https://m.media-amazon.com/images/I/41xIuQ0-QLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Q5P6FD-es FOSITAN Anillo de Luz LED 55W 5500K 18" Exterior de...'
 sku: 'B075Q5P6FD-es'
 tags: [  ]

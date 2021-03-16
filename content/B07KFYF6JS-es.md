@@ -5,7 +5,7 @@ date: 2020-02-25 10:53:56
 image: 'https://m.media-amazon.com/images/I/41P46yPMauL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYF6JS-es PUMA Carson 2 Knit NM Zapatillas de Running para Hombre...'
 sku: 'B07KFYF6JS-es'
 tags: [  ]

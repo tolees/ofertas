@@ -5,7 +5,7 @@ date: 2020-06-11 01:12:29
 image: 'https://m.media-amazon.com/images/I/31mQ6r9yOzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Q34PVG-es Cacharel Amor Amor Deo Vaporizador 150 ml'
 sku: 'B000Q34PVG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-13 10:11:20
 image: 'https://m.media-amazon.com/images/I/41eQrYLNrNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTXLRR8-es Crema para las pecas Crema de eliminación de pecas Crema...'
 sku: 'B07RTXLRR8-es'
 tags: [  ]

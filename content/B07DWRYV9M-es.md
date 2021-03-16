@@ -5,7 +5,7 @@ date: 2020-01-20 16:51:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/517GgdWc5rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWRYV9M-es 【2019 Nueva Versión】CHORTAU Camara de Coche Retrovisor 4.8...'
 sku: 'B07DWRYV9M-es'
 tags: [  ]

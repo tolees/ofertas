@@ -5,7 +5,7 @@ date: 2020-04-05 19:56:46
 image: 'https://m.media-amazon.com/images/I/41559v+k3cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8KJY5K-es Salomon AGILE Pequeña mochila 12 set'
 sku: 'B07F8KJY5K-es'
 tags: [  ]

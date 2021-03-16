@@ -5,7 +5,7 @@ date: 2020-02-10 11:18:49
 image: 'https://m.media-amazon.com/images/I/41zv5ORFALL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VV1KKS1-es Fanvans Vestidos de Playa Elegante de Encaje de la Mujer...'
 sku: 'B06VV1KKS1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 07:24:59
 image: 'https://m.media-amazon.com/images/I/41Vyu8Bk12L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HH8A5RQ-es Sony DSC-W830 - Cámara compacta de 20.1 Mp pantalla de...'
 sku: 'B00HH8A5RQ-es'
 tags: [  ]

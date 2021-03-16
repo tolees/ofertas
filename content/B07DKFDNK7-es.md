@@ -5,7 +5,7 @@ date: 2020-01-04 09:03:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31mCbnExYGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKFDNK7-es Kipling - Creativity L Monederos Mujer Morado Active Lilac Bl'
 sku: 'B07DKFDNK7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-20 15:17:41
 image: 'https://m.media-amazon.com/images/I/51wCn2UpfWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHRWDWL-es Mouse para juegos Bluetooth mouse inalámbrico recargable...'
 sku: 'B08BHRWDWL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 19:27:56
 image: 'https://m.media-amazon.com/images/I/31UNJDKskfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XZVNVVG-es Baby Jogger BJ2011982 - Banqueta'
 sku: 'B06XZVNVVG-es'
 tags: [  ]

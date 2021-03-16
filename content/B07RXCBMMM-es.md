@@ -5,7 +5,7 @@ date: 2020-05-08 10:33:05
 image: 'https://m.media-amazon.com/images/I/31yN1P8KWiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXCBMMM-es Vital ZY-080 Canasta de Baloncesto Adultos Unisex...'
 sku: 'B07RXCBMMM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-24 15:23:12
 image: 'https://m.media-amazon.com/images/I/51wQMxEPVBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772ZSDDC-es Columbia Canyon Point Waterproof Zapatillas de Senderismo...'
 sku: 'B0772ZSDDC-es'
 tags: [  ]

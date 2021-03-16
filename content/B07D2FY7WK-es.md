@@ -5,7 +5,7 @@ date: 2020-01-08 08:07:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GXFgJ8VlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2FY7WK-es Dim Generous D4D58 Braguita Rojo Burdeos 6na Tamaño del...'
 sku: 'B07D2FY7WK-es'
 tags: [  ]

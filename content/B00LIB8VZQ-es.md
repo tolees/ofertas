@@ -5,7 +5,7 @@ date: 2020-10-05 11:40:31
 image: 'https://m.media-amazon.com/images/I/41+BqVOGXFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LIB8VZQ-es Fantasy Flight Games- Tie Fantasma Multicolor FFSWX19'
 sku: 'B00LIB8VZQ-es'
 tags: [  ]

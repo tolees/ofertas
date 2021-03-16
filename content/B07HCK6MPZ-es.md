@@ -5,7 +5,7 @@ date: 2020-10-04 10:09:24
 image: 'https://m.media-amazon.com/images/I/41bdeAHMEOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCK6MPZ-es Skechers Men s Stamina Cutback Trainers Grey Charcoal...'
 sku: 'B07HCK6MPZ-es'
 tags: [  ]

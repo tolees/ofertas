@@ -5,7 +5,7 @@ date: 2020-07-12 16:03:34
 image: 'https://m.media-amazon.com/images/I/41aO6YFH9UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1F5LXW-es Cable de Cargador Micro USB Trenzado Duradero Cable de...'
 sku: 'B07K1F5LXW-es'
 tags: [  ]

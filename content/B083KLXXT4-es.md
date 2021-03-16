@@ -5,7 +5,7 @@ date: 2020-09-17 10:19:55
 image: 'https://m.media-amazon.com/images/I/51XbhciisSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KLXXT4-es Scholl Plantillas Gelactiv Uso Diario Mujer + Crema de...'
 sku: 'B083KLXXT4-es'
 tags: [  ]

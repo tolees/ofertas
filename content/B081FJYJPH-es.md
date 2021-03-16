@@ -5,7 +5,7 @@ date: 2020-06-06 19:27:30
 image: 'https://m.media-amazon.com/images/I/411g+3oSHHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081FJYJPH-es Pendientes Luxenter Panya plata y circonita brillante'
 sku: 'B081FJYJPH-es'
 tags: [  ]

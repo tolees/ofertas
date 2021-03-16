@@ -5,7 +5,7 @@ date: 2020-01-17 15:11:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mcRgnyPxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003QPMC3O-es Samsung CLT-C4072S/ELS Tóner Láser Cian 1.000 Páginas'
 sku: 'B003QPMC3O-es'
 tags: [  ]

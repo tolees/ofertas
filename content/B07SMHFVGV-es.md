@@ -5,7 +5,7 @@ date: 2020-10-03 08:49:39
 image: 'https://m.media-amazon.com/images/I/51tfU54dedL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMHFVGV-es One Piece: Unlimited World - Red Deluxe Edition Code In A Box'
 sku: 'B07SMHFVGV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-12 19:41:52
 image: 'https://m.media-amazon.com/images/I/41rHOV4TdwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZWNGW5-es Salomon X Radiant Zapatillas de Senderismo para Hombre...'
 sku: 'B07CZWNGW5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-22 14:19:25
 image: 'https://m.media-amazon.com/images/I/41Nwsy65oAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5NBX7B-es Ordesa Omegakids Gummies Masticables- 54 Unidades - El...'
 sku: 'B07D5NBX7B-es'
 tags: [  ]

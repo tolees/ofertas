@@ -5,7 +5,7 @@ date: 2020-02-14 11:50:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dbiwNvL4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CP4SKME-es Portobello 2.5267 Gin No. 171 70cl'
 sku: 'B00CP4SKME-es'
 tags: [  ]

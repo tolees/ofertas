@@ -5,7 +5,7 @@ date: 2020-03-05 16:40:22
 image: 'https://m.media-amazon.com/images/I/415fCIANrPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WJNIZTY-es Philips Avent SCF551/05 - Vaso con boquilla de silicona...'
 sku: 'B00WJNIZTY-es'
 tags: [  ]

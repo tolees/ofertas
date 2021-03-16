@@ -5,7 +5,7 @@ date: 2020-07-06 17:01:29
 image: 'https://m.media-amazon.com/images/I/317S6ffzknL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087NBCKVW-es Doble verde esmeralda rodillo elíptico masajeador ojo...'
 sku: 'B087NBCKVW-es'
 tags: [  ]

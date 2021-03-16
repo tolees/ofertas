@@ -5,7 +5,7 @@ date: 2020-01-27 18:49:52
 image: 'https://m.media-amazon.com/images/I/31vEWa7SAzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9ZNQCD-es Eva López Botín Piel Cowboy Negro Mujer'
 sku: 'B07Y9ZNQCD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 14:33:55
 image: 'https://m.media-amazon.com/images/I/41dtArv4B6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGCDKZB-es Mr. Tronic 305m Cable de Instalación Red Ethernet Bobina |...'
 sku: 'B07LGCDKZB-es'
 tags: [  ]

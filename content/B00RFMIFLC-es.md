@@ -5,7 +5,7 @@ date: 2020-06-07 19:02:16
 image: 'https://m.media-amazon.com/images/I/31eFC4Kbs8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RFMIFLC-es 111D12-27 - Escuadra Angulo Bicr 40Mm 4 Uds E'
 sku: 'B00RFMIFLC-es'
 tags: [  ]

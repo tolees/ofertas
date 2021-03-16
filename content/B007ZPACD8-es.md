@@ -5,7 +5,7 @@ date: 2020-08-06 20:36:06
 image: 'https://m.media-amazon.com/images/I/51+Q2lX12XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007ZPACD8-es Goloka Juego de Varillas de Incienso - 1 pack'
 sku: 'B007ZPACD8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-24 12:35:17
 image: 'https://m.media-amazon.com/images/I/31y7F2VGUxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MPYLX2-es PUMA Smash v2 L Zapatillas Unisex Adulto White White 44.5 EU'
 sku: 'B077MPYLX2-es'
 tags: [  ]

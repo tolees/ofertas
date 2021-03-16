@@ -5,7 +5,7 @@ date: 2020-03-30 14:36:36
 image: 'https://m.media-amazon.com/images/I/41zrqOUegsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0755ZTBH1-es Skechers Classic Fit-Delson-Camden Men’s Sneakers Taupe 8...'
 sku: 'B0755ZTBH1-es'
 tags: [  ]

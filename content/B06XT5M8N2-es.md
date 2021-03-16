@@ -5,7 +5,7 @@ date: 2020-03-10 06:51:57
 image: 'https://m.media-amazon.com/images/I/41RyUPvskEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XT5M8N2-es Braga impermeable en PVC Ayuda a la incontinencia flexible...'
 sku: 'B06XT5M8N2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-25 15:02:33
 image: 'https://m.media-amazon.com/images/I/51DjR0WQR2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008HNKA8Y-es Los Vengadores 3D + Blu-ray [Blu-ray]'
 sku: 'B008HNKA8Y-es'
 tags: [  ]

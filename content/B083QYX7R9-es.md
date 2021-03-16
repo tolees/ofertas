@@ -5,7 +5,7 @@ date: 2020-04-20 08:32:10
 image: 'https://m.media-amazon.com/images/I/31XRIf2tIBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083QYX7R9-es 1 conector coaxial SMA macho RF para cable RG402.141"...'
 sku: 'B083QYX7R9-es'
 tags: [  ]

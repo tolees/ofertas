@@ -5,7 +5,7 @@ date: 2020-04-09 20:55:45
 image: 'https://m.media-amazon.com/images/I/41VrW5vSwmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RW65KK-es Dyson - Kit de accesorios para aspiradora de mano'
 sku: 'B000RW65KK-es'
 tags: [  ]

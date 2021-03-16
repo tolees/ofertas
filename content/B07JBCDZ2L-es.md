@@ -5,7 +5,7 @@ date: 2020-10-01 05:20:52
 image: 'https://m.media-amazon.com/images/I/41EsyoYtJ7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBCDZ2L-es Logitech Advanced Combo Wireless Keyboard and Mouse - N/A...'
 sku: 'B07JBCDZ2L-es'
 tags: [  ]

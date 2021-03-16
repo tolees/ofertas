@@ -5,7 +5,7 @@ date: 2020-02-23 08:07:32
 image: 'https://m.media-amazon.com/images/I/312OdMoHKsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KP27JJD-es SALOMON Compression 1 Par de Calcetines compresión Unisex...'
 sku: 'B07KP27JJD-es'
 tags: [  ]

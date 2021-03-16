@@ -5,7 +5,7 @@ date: 2020-03-01 09:17:22
 image: 'https://m.media-amazon.com/images/I/41hG0PtisxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076STWCPQ-es Tucano-Bolsa para Ordenador Hombre y Mujer con Bolsillo...'
 sku: 'B076STWCPQ-es'
 tags: [  ]

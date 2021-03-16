@@ -5,7 +5,7 @@ date: 2020-02-23 20:06:34
 image: 'https://m.media-amazon.com/images/I/41xEENek3SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074TKNHWX-es Parrot Mambo Mission - Dron cuadricóptero 30 Km/h 10...'
 sku: 'B074TKNHWX-es'
 tags: [  ]

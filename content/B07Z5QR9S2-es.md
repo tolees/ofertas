@@ -5,7 +5,7 @@ date: 2020-07-22 21:10:34
 image: 'https://m.media-amazon.com/images/I/51mdgeii-ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5QR9S2-es Funny House 40 PCS Bolsa de Fiesta Arco Iris Papel Regalo...'
 sku: 'B07Z5QR9S2-es'
 tags: [  ]

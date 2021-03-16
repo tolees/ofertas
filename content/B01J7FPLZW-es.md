@@ -5,7 +5,7 @@ date: 2020-10-01 15:27:09
 image: 'https://m.media-amazon.com/images/I/51afbXpYTrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J7FPLZW-es Chibis Star Trek 50th Anniversary Complete Mini...'
 sku: 'B01J7FPLZW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-19 15:53:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wymb7hu1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0081G2SBO-es Yamaha EZ-220 - Teclado digital portátil de iniciación con...'
 sku: 'B0081G2SBO-es'
 tags: [  ]

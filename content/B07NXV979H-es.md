@@ -5,7 +5,7 @@ date: 2020-05-04 09:44:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JS43Q1cAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXV979H-es San Ignacio Premium Set de Bateria 5 Piezas + 4...'
 sku: 'B07NXV979H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 14:37:50
 image: 'https://m.media-amazon.com/images/I/51d9ozxnUnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMYTNT2-es Tacklife RTD35ACL/RTD34AC Herramienta multifunción...'
 sku: 'B07MMYTNT2-es'
 tags: [  ]

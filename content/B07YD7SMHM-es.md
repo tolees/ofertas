@@ -5,7 +5,7 @@ date: 2020-06-15 13:52:14
 image: 'https://m.media-amazon.com/images/I/51f7dnjTuCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YD7SMHM-es Linterna LED Vander con foco ajustable linterna de mano...'
 sku: 'B07YD7SMHM-es'
 tags: [  ]

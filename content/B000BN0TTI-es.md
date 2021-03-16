@@ -5,7 +5,7 @@ date: 2020-02-23 01:35:30
 image: 'https://m.media-amazon.com/images/I/418hhPQgePL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BN0TTI-es HP Q7582A - Cartucho de tóner'
 sku: 'B000BN0TTI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 10:11:24
 image: 'https://m.media-amazon.com/images/I/51x-U9wwFML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WT79LS7-es TESmart Interruptor HDMI 5 Entradas 1 Salida 4K @ 60Hz 4:...'
 sku: 'B07WT79LS7-es'
 tags: [  ]

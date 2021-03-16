@@ -5,7 +5,7 @@ date: 2020-10-03 09:03:29
 image: 'https://m.media-amazon.com/images/I/41bJ3I+ZmQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZF3X36-es Reloj de Cuarzo con cronógrafo de Acero Inoxidable y Metal...'
 sku: 'B08BZF3X36-es'
 tags: [  ]

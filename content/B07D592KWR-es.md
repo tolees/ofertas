@@ -5,7 +5,7 @@ date: 2020-08-07 09:43:04
 image: 'https://m.media-amazon.com/images/I/31iUQkIkD0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D592KWR-es Fjallraven Kånken Photo Insert Wallets and Small Bags...'
 sku: 'B07D592KWR-es'
 tags: [  ]

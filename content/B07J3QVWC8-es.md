@@ -5,7 +5,7 @@ date: 2020-01-04 20:23:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BPf-JrN9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3QVWC8-es Dim Soutien-Gorge Sans Armature Invisififree Sujetador sin...'
 sku: 'B07J3QVWC8-es'
 tags: [  ]

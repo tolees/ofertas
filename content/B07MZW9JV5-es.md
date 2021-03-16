@@ -5,7 +5,7 @@ date: 2020-05-31 17:13:00
 image: 'https://m.media-amazon.com/images/I/41mT5bF6NrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZW9JV5-es EsportsMJJ Delantera Y Trasera De Goma De La Rueda...'
 sku: 'B07MZW9JV5-es'
 tags: [  ]

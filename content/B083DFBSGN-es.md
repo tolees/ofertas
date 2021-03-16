@@ -5,7 +5,7 @@ date: 2020-04-25 11:46:49
 image: 'https://m.media-amazon.com/images/I/61ld9DdLBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DFBSGN-es MOZOOSON Juguete para Niños-Splash Pad Piscina para Niños...'
 sku: 'B083DFBSGN-es'
 tags: [  ]

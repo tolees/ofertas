@@ -5,7 +5,7 @@ date: 2020-09-03 05:27:47
 image: 'https://m.media-amazon.com/images/I/41aVjKzYJaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDSH1JS-es Mellerware City Lite Robot Aspirador con Mando a Distancia...'
 sku: 'B07VDSH1JS-es'
 tags: [  ]

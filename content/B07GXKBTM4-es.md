@@ -5,7 +5,7 @@ date: 2020-03-03 11:52:53
 image: 'https://m.media-amazon.com/images/I/41bIiwgBRZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXKBTM4-es Irrigador Bucal Portátil de 300ml iTeknic Irrigador Dental...'
 sku: 'B07GXKBTM4-es'
 tags: [  ]

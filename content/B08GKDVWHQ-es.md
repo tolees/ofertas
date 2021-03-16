@@ -5,7 +5,7 @@ date: 2020-09-25 00:50:11
 image: 'https://m.media-amazon.com/images/I/51LIQF7JOuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GKDVWHQ-es 2 Pares Calcetines Mujer Hombre Senderismo Calcetines para...'
 sku: 'B08GKDVWHQ-es'
 tags: [  ]

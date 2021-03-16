@@ -5,7 +5,7 @@ date: 2020-10-04 10:04:11
 image: 'https://m.media-amazon.com/images/I/31BoLsnjmiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JR8R4M-es HP OMEN 100 - Alfombrilla para ratón Negra 360 mm x 300 mm...'
 sku: 'B071JR8R4M-es'
 tags: [  ]

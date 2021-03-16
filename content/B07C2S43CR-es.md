@@ -5,7 +5,7 @@ date: 2020-04-17 09:32:15
 image: 'https://m.media-amazon.com/images/I/51pJaZrd1gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2S43CR-es ARDITEX AV11918 Gorro de baño-Piscina de poliéster de...'
 sku: 'B07C2S43CR-es'
 tags: [  ]

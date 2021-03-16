@@ -5,7 +5,7 @@ date: 2020-02-15 19:08:39
 image: 'https://m.media-amazon.com/images/I/31xs9aHbyeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSN9MXD-es Llave inglesa multifunción 48 en 1 llave universal con...'
 sku: 'B07PSN9MXD-es'
 tags: [  ]

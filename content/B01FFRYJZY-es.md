@@ -5,7 +5,7 @@ date: 2020-04-29 08:03:58
 image: 'https://m.media-amazon.com/images/I/510zSqG+r2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFRYJZY-es 12pcs Negro Y Blanco A Cuadros Fórmula Uno Que Compite Con...'
 sku: 'B01FFRYJZY-es'
 tags: [  ]

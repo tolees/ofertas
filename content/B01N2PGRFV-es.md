@@ -5,7 +5,7 @@ date: 2020-04-12 00:47:41
 image: 'https://m.media-amazon.com/images/I/41p-Kxn0DTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2PGRFV-es La mejor herramienta de golfista Golf multiherramienta...'
 sku: 'B01N2PGRFV-es'
 tags: [  ]

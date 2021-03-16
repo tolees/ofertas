@@ -5,7 +5,7 @@ date: 2020-09-26 11:50:21
 image: 'https://m.media-amazon.com/images/I/414usNKWSHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHYD492-es Adidas Terrex Eastrail Zapatillas de Deporte para Hombre...'
 sku: 'B07MHYD492-es'
 tags: [  ]

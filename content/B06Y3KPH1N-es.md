@@ -5,7 +5,7 @@ date: 2020-02-26 18:37:40
 image: 'https://m.media-amazon.com/images/I/41cOW48e-mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y3KPH1N-es Festina Reloj Análogo clásico para Hombre de Automático...'
 sku: 'B06Y3KPH1N-es'
 tags: [  ]

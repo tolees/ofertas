@@ -5,7 +5,7 @@ date: 2020-05-24 20:19:52
 image: 'https://m.media-amazon.com/images/I/51m5rcGaHpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H0X33KI-es Steep'
 sku: 'B01H0X33KI-es'
 tags: [  ]

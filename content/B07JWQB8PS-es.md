@@ -5,7 +5,7 @@ date: 2020-06-24 07:56:06
 image: 'https://m.media-amazon.com/images/I/31pAoteZ1tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWQB8PS-es Pepe Jeans Pixlette High Pg201164 Jeans Black Wiser Wash...'
 sku: 'B07JWQB8PS-es'
 tags: [  ]

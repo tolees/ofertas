@@ -5,7 +5,7 @@ date: 2020-03-10 21:53:22
 image: 'https://m.media-amazon.com/images/I/4135+Dl1fFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PT4GTR9-es LOL Surprise - Glamper Van Giochi Preziosi LLU92000'
 sku: 'B07PT4GTR9-es'
 tags: [  ]

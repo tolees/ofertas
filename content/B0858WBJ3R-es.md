@@ -5,7 +5,7 @@ date: 2020-05-16 09:41:28
 image: 'https://m.media-amazon.com/images/I/51YhGbW8fIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0858WBJ3R-es Oihxse Funda Samsung Galaxy J3 2017/J330/J3 Pro Ultra...'
 sku: 'B0858WBJ3R-es'
 tags: [  ]

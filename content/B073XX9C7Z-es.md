@@ -5,7 +5,7 @@ date: 2020-04-10 21:39:16
 image: 'https://m.media-amazon.com/images/I/41uyV7imNXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XX9C7Z-es Scuderia Ferrari Reloj Cronógrafo para Hombre de Cuarzo...'
 sku: 'B073XX9C7Z-es'
 tags: [  ]

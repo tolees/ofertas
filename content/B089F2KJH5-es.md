@@ -5,7 +5,7 @@ date: 2020-09-24 18:17:58
 image: 'https://m.media-amazon.com/images/I/41ZupP8r5gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089F2KJH5-es HOPLYNN - Pantalones cortos 2 en 1 para correr gimnasio...'
 sku: 'B089F2KJH5-es'
 tags: [  ]

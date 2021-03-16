@@ -5,7 +5,7 @@ date: 2020-03-31 19:04:51
 image: 'https://m.media-amazon.com/images/I/41W4W2EK51L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R1HK3GN-es GARVIRP para Mujer Pantalones Cortos de Malla Panel...'
 sku: 'B07R1HK3GN-es'
 tags: [  ]

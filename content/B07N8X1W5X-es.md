@@ -5,7 +5,7 @@ date: 2020-01-14 11:29:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MesOTt9IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8X1W5X-es Calcetines de Algodón 6 Pares Multicolor: 4 x negro 2 x...'
 sku: 'B07N8X1W5X-es'
 tags: [  ]

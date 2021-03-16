@@ -5,7 +5,7 @@ date: 2020-04-28 13:46:36
 image: 'https://m.media-amazon.com/images/I/214WQIR-OoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7K5GXF-es Libartly Translúcido Color sólido Hilado de Vidrio Ventana...'
 sku: 'B07P7K5GXF-es'
 tags: [  ]

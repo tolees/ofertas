@@ -5,7 +5,7 @@ date: 2020-10-09 16:01:19
 image: 'https://m.media-amazon.com/images/I/31Xa6jVjr1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHD4YC8-es TRUUA 100PCS de Goma Tubo de 802 830 815 816 810 835...'
 sku: 'B08DHD4YC8-es'
 tags: [  ]

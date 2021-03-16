@@ -5,7 +5,7 @@ date: 2020-06-02 18:51:39
 image: 'https://m.media-amazon.com/images/I/41vgapeOakL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K9WLB88-es VIPMOON 44 teclas de control remoto inalámbrico por...'
 sku: 'B01K9WLB88-es'
 tags: [  ]

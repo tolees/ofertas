@@ -5,7 +5,7 @@ date: 2020-10-10 22:46:50
 image: 'https://m.media-amazon.com/images/I/41oAO4rjsXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMP3THW-es HOUSE DAY Taburete Plegable de Ligero 22cm Negro plástico...'
 sku: 'B07SMP3THW-es'
 tags: [  ]

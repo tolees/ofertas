@@ -5,7 +5,7 @@ date: 2020-02-29 02:05:40
 image: 'https://m.media-amazon.com/images/I/41FtM6Pau4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDDW3ST-es BLEND 20708180 Polo Marrón Sand Brown 75107 X-Large para...'
 sku: 'B07FDDW3ST-es'
 tags: [  ]

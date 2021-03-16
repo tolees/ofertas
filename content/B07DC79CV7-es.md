@@ -5,7 +5,7 @@ date: 2020-02-18 10:05:21
 image: 'https://m.media-amazon.com/images/I/416EJgAnSNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC79CV7-es Puma Cali-0 Summer Zapatillas Unisex Adulto Azul Fair Aqua...'
 sku: 'B07DC79CV7-es'
 tags: [  ]

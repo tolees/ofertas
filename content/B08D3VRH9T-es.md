@@ -5,7 +5,7 @@ date: 2020-09-17 20:34:10
 image: 'https://m.media-amazon.com/images/I/41c4MbbqO7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3VRH9T-es AA59-00638A Mando a distancia para Samsung Smart 3D LCD...'
 sku: 'B08D3VRH9T-es'
 tags: [  ]

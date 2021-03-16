@@ -5,7 +5,7 @@ date: 2020-03-13 18:45:38
 image: 'https://m.media-amazon.com/images/I/31hM9O4AEgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A3B4LS8-es Essie Esmalte de Uñas 076 Merino Cool'
 sku: 'B00A3B4LS8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-23 12:22:30
 image: 'https://m.media-amazon.com/images/I/41bo85lkNtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V0HI4PK-es Cargador rápido modular Samsung – 2 amperios con cable de...'
 sku: 'B00V0HI4PK-es'
 tags: [  ]

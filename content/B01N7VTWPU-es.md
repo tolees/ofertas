@@ -5,7 +5,7 @@ date: 2020-04-07 21:44:47
 image: 'https://m.media-amazon.com/images/I/51z+bv6182L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7VTWPU-es CLUSE Correa de Reloj CLS053'
 sku: 'B01N7VTWPU-es'
 tags: [  ]

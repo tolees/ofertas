@@ -5,7 +5,7 @@ date: 2020-01-04 22:55:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ANEda2sPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D61TPWI-es TRANGO Brood Sn Pant. Pirata Hombre Kaki/Marron Oscuro 3XL'
 sku: 'B01D61TPWI-es'
 tags: [  ]

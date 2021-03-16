@@ -5,7 +5,7 @@ date: 2020-02-02 20:05:47
 image: 'https://m.media-amazon.com/images/I/41Oc2BNarQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WT997WB-es Mini Cámara Espía WiFi Tesecu Cámara Oculta de vigilancia...'
 sku: 'B07WT997WB-es'
 tags: [  ]

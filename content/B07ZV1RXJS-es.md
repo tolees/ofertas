@@ -5,7 +5,7 @@ date: 2020-08-29 04:54:44
 image: 'https://m.media-amazon.com/images/I/51C+5uyURwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZV1RXJS-es MIKAMEE Botella de Agua Acero Inoxidable 350/500/650/750ml...'
 sku: 'B07ZV1RXJS-es'
 tags: [  ]

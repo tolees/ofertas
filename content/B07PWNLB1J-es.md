@@ -5,7 +5,7 @@ date: 2020-10-06 17:00:25
 image: 'https://m.media-amazon.com/images/I/41NAp06lVHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWNLB1J-es Under Armour Charged Bandit 5 Zapatillas para Correr para...'
 sku: 'B07PWNLB1J-es'
 tags: [  ]

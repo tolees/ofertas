@@ -5,7 +5,7 @@ date: 2020-03-13 12:38:39
 image: 'https://m.media-amazon.com/images/I/41IdmxpibZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074CFQ8FG-es NOVECASA Pantalones Cortos de Compresión para Hombre con...'
 sku: 'B074CFQ8FG-es'
 tags: [  ]

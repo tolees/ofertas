@@ -5,7 +5,7 @@ date: 2020-08-31 21:46:51
 image: 'https://m.media-amazon.com/images/I/41B-C+mlA6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCS8VVR-es Babyline Barco Pirata Chica - Colchoneta para silla grupo 0'
 sku: 'B06XCS8VVR-es'
 tags: [  ]

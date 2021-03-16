@@ -5,7 +5,7 @@ date: 2020-05-13 09:10:51
 image: 'https://m.media-amazon.com/images/I/41Q0fJGYLYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N1XQ49E-es ASUS Strix Glide Control - Alfombrilla Gaming Acabado...'
 sku: 'B00N1XQ49E-es'
 tags: [  ]

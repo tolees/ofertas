@@ -5,7 +5,7 @@ date: 2020-02-04 13:54:53
 image: 'https://m.media-amazon.com/images/I/31yw55nzGSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0778M1FDX-es Repavar Revitalizante Agua Micelar 300Ml. 300 ml'
 sku: 'B0778M1FDX-es'
 tags: [  ]

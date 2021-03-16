@@ -5,7 +5,7 @@ date: 2020-07-13 14:14:20
 image: 'https://m.media-amazon.com/images/I/41FoSpePtjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W41XGTT-es Luces LED Armario Tomshine 6PCS RGBW Lámpara de Armario 10...'
 sku: 'B07W41XGTT-es'
 tags: [  ]

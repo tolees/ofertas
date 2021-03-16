@@ -5,7 +5,7 @@ date: 2020-07-02 17:17:28
 image: 'https://m.media-amazon.com/images/I/51ySgDiVWpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R56GSDK-es LIGE Reloj para Hombre Cronógrafo Deportivo Acero...'
 sku: 'B07R56GSDK-es'
 tags: [  ]

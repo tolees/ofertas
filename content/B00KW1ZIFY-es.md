@@ -5,7 +5,7 @@ date: 2020-09-15 05:20:30
 image: 'https://m.media-amazon.com/images/I/51p1Fl3u6uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KW1ZIFY-es CSL - Ventilador USB - Ventilador de Mesa Ventilador -...'
 sku: 'B00KW1ZIFY-es'
 tags: [  ]

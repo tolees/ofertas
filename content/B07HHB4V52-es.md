@@ -5,7 +5,7 @@ date: 2020-05-09 10:33:21
 image: 'https://m.media-amazon.com/images/I/41rzoPw7QML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHB4V52-es HP 27fh - Monitor de 27" FullHD 1920x1080 panel IPS 16:9...'
 sku: 'B07HHB4V52-es'
 tags: [  ]

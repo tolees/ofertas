@@ -5,7 +5,7 @@ date: 2020-10-10 10:09:44
 image: 'https://m.media-amazon.com/images/I/51Sv0XhSEwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MY1KVFG-es Clementoni- Impossible Puzzle-Dragon Ball-1000 pièces...'
 sku: 'B07MY1KVFG-es'
 tags: [  ]

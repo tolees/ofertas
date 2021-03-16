@@ -5,7 +5,7 @@ date: 2020-03-17 12:22:51
 image: 'https://m.media-amazon.com/images/I/51IDjGA1SFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FJ2OQWC-es ST-23 elástico ajustable Cabeza Casco de la correa de la...'
 sku: 'B00FJ2OQWC-es'
 tags: [  ]

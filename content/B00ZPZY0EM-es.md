@@ -5,7 +5,7 @@ date: 2020-08-23 11:06:45
 image: 'https://m.media-amazon.com/images/I/31kPjT2kN5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZPZY0EM-es Roca AG0082700R Ducha de Mano con una Función Cromado'
 sku: 'B00ZPZY0EM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-17 16:32:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Uo4V%2BO8vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUEEM3B-es Reloj Viceroy - Chicos 401055-05'
 sku: 'B01MUEEM3B-es'
 tags: [  ]

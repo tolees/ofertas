@@ -5,7 +5,7 @@ date: 2020-05-20 23:55:15
 image: 'https://m.media-amazon.com/images/I/41bwI0WMjjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3BLSXP-es G-STAR RAW 3301 Slim 1/2 Pantalones cortos Mehrfarbig...'
 sku: 'B07L3BLSXP-es'
 tags: [  ]

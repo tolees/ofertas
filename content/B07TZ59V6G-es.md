@@ -5,7 +5,7 @@ date: 2020-06-30 12:48:06
 image: 'https://m.media-amazon.com/images/I/41rilFuOeBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ59V6G-es Women s Secret Trendy Tapestry TT Flower Burg Nd FR...'
 sku: 'B07TZ59V6G-es'
 tags: [  ]

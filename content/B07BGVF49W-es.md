@@ -5,7 +5,7 @@ date: 2020-01-18 21:55:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HqKUlSJzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGVF49W-es Navaja táctica de BGT plegable con sistema de cojinete...'
 sku: 'B07BGVF49W-es'
 tags: [  ]

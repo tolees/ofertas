@@ -5,7 +5,7 @@ date: 2020-02-10 08:52:59
 image: 'https://m.media-amazon.com/images/I/51ppYSC2QXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK2M1WS-es GEKER Aspirador Mano de coche Aspiradora Automotriz 6 KPA...'
 sku: 'B07KK2M1WS-es'
 tags: [  ]

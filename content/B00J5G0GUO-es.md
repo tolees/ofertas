@@ -5,7 +5,7 @@ date: 2020-09-21 07:32:17
 image: 'https://m.media-amazon.com/images/I/41TX4LD9ptL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5G0GUO-es Isdin Bexident Encías Uso Diario Pasta Dentrífica Previene...'
 sku: 'B00J5G0GUO-es'
 tags: [  ]

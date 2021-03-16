@@ -5,7 +5,7 @@ date: 2020-04-22 09:39:19
 image: 'https://m.media-amazon.com/images/I/51ZqxlDnSyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4BFGH9-es Silver HT Space - Funda Universal Estampada 9-10.1" Color...'
 sku: 'B07H4BFGH9-es'
 tags: [  ]

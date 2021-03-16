@@ -5,7 +5,7 @@ date: 2020-03-17 13:04:27
 image: 'https://m.media-amazon.com/images/I/41eoZGp-HSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DHKBWR-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B079DHKBWR-es'
 tags: [  ]

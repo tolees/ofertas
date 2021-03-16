@@ -5,7 +5,7 @@ date: 2020-09-12 14:26:17
 image: 'https://m.media-amazon.com/images/I/31cn5a5DAfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074K8BJ9D-es Taurus Mytoast Duplo-Tostadora 1450 W Tres Funciones...'
 sku: 'B074K8BJ9D-es'
 tags: [  ]

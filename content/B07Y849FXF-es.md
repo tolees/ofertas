@@ -5,7 +5,7 @@ date: 2020-07-15 07:07:00
 image: 'https://m.media-amazon.com/images/I/51n2031xLSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y849FXF-es HUYIYI Bolsas para Guardar Ropa Bolsas Vacio Ropa 2Pequeño...'
 sku: 'B07Y849FXF-es'
 tags: [  ]

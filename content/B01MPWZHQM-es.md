@@ -5,7 +5,7 @@ date: 2020-03-24 06:41:26
 image: 'https://m.media-amazon.com/images/I/41bCCwMQHNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MPWZHQM-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B01MPWZHQM-es'
 tags: [  ]

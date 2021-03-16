@@ -5,7 +5,7 @@ date: 2020-05-14 11:07:51
 image: 'https://m.media-amazon.com/images/I/41T82aOEyiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IT12EP6-es Clarins - Crema Alta Exigencia día SPF20 - Todas pieles -...'
 sku: 'B00IT12EP6-es'
 tags: [  ]

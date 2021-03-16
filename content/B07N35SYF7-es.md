@@ -5,7 +5,7 @@ date: 2020-02-07 21:20:50
 image: 'https://m.media-amazon.com/images/I/41e-OjqjvvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N35SYF7-es Mizuno Wave Rider 23 Zapatillas de Running para Mujer Rosa...'
 sku: 'B07N35SYF7-es'
 tags: [  ]

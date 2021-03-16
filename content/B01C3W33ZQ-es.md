@@ -5,7 +5,7 @@ date: 2020-02-15 01:01:58
 image: 'https://m.media-amazon.com/images/I/41IO5IiBaDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C3W33ZQ-es WIDMANN 04814 hinchable Rock Star Guitarra unisex ?...'
 sku: 'B01C3W33ZQ-es'
 tags: [  ]

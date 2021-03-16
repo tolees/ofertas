@@ -5,7 +5,7 @@ date: 2020-06-08 07:13:12
 image: 'https://m.media-amazon.com/images/I/41+rXnMlSFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV6JGTF-es KEXIN 32GB Memoria USB Tipo C y USB 3.0 OTG Flash Drive...'
 sku: 'B07PV6JGTF-es'
 tags: [  ]

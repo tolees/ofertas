@@ -5,7 +5,7 @@ date: 2020-08-03 07:13:21
 image: 'https://m.media-amazon.com/images/I/41sfr1yNf0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBZL81C-es BOSS Plisy 1 Polo Azul Navy 410 Medium para Hombre'
 sku: 'B07VBZL81C-es'
 tags: [  ]

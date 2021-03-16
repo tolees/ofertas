@@ -5,7 +5,7 @@ date: 2020-04-27 20:17:01
 image: 'https://m.media-amazon.com/images/I/31BjoHDJzML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2OJX82-es Mixoo Stylus Lapiz Táctil Capacitivo con Puntas de 2...'
 sku: 'B01N2OJX82-es'
 tags: [  ]

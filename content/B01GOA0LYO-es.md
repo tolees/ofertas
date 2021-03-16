@@ -5,7 +5,7 @@ date: 2020-05-30 18:18:27
 image: 'https://m.media-amazon.com/images/I/41yc+WQKDVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GOA0LYO-es NIRVEL NUTRE COLOR FUCSIA 200ML'
 sku: 'B01GOA0LYO-es'
 tags: [  ]

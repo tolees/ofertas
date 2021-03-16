@@ -5,7 +5,7 @@ date: 2020-05-01 19:55:44
 image: 'https://m.media-amazon.com/images/I/41rqcqOR6vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X69Y9WL-es HP OMEN 15-dc1017ns - Portátil Gaming de 15.6" FullHD...'
 sku: 'B07X69Y9WL-es'
 tags: [  ]

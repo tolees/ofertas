@@ -5,7 +5,7 @@ date: 2020-10-05 10:20:52
 image: 'https://m.media-amazon.com/images/I/41oeoFo6z3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H1NYQ81-es Pkila Fusion Diseñado para Sony Xperia 5 II Funda Cover...'
 sku: 'B08H1NYQ81-es'
 tags: [  ]

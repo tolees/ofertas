@@ -5,7 +5,7 @@ date: 2020-09-09 18:15:42
 image: 'https://m.media-amazon.com/images/I/41r1K-WTO2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876Z1FXY-es Homtiky Medidor pH Digital Medidor TDS Temperatura EC 4 en...'
 sku: 'B0876Z1FXY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-09 15:02:14
 image: 'https://m.media-amazon.com/images/I/51nDeHCc31L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZJP3KQ-es Parabrisas Parasol Auto 2win2buy Parabrisas Parasol...'
 sku: 'B071ZJP3KQ-es'
 tags: [  ]

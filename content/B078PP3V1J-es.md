@@ -5,7 +5,7 @@ date: 2020-03-29 08:08:07
 image: 'https://m.media-amazon.com/images/I/318BUQ4dOjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078PP3V1J-es Acer ED3 Monitor 69 cm 27" Curved 1800R ZeroFrame 144Hz...'
 sku: 'B078PP3V1J-es'
 tags: [  ]

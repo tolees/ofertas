@@ -5,7 +5,7 @@ date: 2020-10-04 08:51:31
 image: 'https://m.media-amazon.com/images/I/51JnUKWtlbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014QLGE7Q-es Manfrotto Holster XS - Bolsa para cámara'
 sku: 'B014QLGE7Q-es'
 tags: [  ]

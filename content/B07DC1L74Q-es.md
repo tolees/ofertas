@@ -5,7 +5,7 @@ date: 2020-03-05 08:56:31
 image: 'https://m.media-amazon.com/images/I/41zLrJp+Q2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC1L74Q-es Puma RS-150 Satin Wn s Zapatillas para Mujer Morado Sweet...'
 sku: 'B07DC1L74Q-es'
 tags: [  ]

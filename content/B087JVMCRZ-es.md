@@ -5,7 +5,7 @@ date: 2020-06-13 11:23:45
 image: 'https://m.media-amazon.com/images/I/31xkQInj-iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JVMCRZ-es 10 unidades – Protector bucal para nariz con soporte nasal...'
 sku: 'B087JVMCRZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 00:43:23
 image: 'https://m.media-amazon.com/images/I/51BtqA-X+0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KRXSJW6-es HP C2P24AE 935XL Cartucho de Tinta Original de alto...'
 sku: 'B00KRXSJW6-es'
 tags: [  ]

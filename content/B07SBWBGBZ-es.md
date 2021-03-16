@@ -5,7 +5,7 @@ date: 2020-10-09 13:38:32
 image: 'https://m.media-amazon.com/images/I/41i23gBfCsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBWBGBZ-es PUMA Future 5.3 Netfit OSG FG/AG Botas de fútbol para...'
 sku: 'B07SBWBGBZ-es'
 tags: [  ]

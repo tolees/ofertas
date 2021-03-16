@@ -5,7 +5,7 @@ date: 2020-01-02 14:11:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51MZTxpbBRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZXHXLR-es DURAGADGET Bandolera para Videocámara Sony Handycam FDR-...'
 sku: 'B01MZXHXLR-es'
 tags: [  ]

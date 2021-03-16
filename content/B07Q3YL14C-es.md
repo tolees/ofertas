@@ -5,7 +5,7 @@ date: 2020-06-21 18:59:53
 image: 'https://m.media-amazon.com/images/I/31WQ7-OThfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3YL14C-es Sauber - Vitrocerámica de Inducción SEV03-3 zonas de...'
 sku: 'B07Q3YL14C-es'
 tags: [  ]

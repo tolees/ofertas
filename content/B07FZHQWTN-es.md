@@ -5,7 +5,7 @@ date: 2020-09-30 18:47:19
 image: 'https://m.media-amazon.com/images/I/415ppdcx19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZHQWTN-es RIIQIICHY Cachemira Invierno Bufanda Pashmina Chal Mantón...'
 sku: 'B07FZHQWTN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-03 20:47:56
 image: 'https://m.media-amazon.com/images/I/41zb+KiNepL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJL45FQ-es FOHYLOY Eléctrica 3 en 1 Depiladora Cortapelos Recortador...'
 sku: 'B07GJL45FQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-08 13:19:38
 image: 'https://m.media-amazon.com/images/I/41P-fX2rnSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015YP76SY-es Beurer ME90-BT - Cardiómetro con Bluetooth compatible con...'
 sku: 'B015YP76SY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-06 16:40:28
 image: 'https://m.media-amazon.com/images/I/41OTL4rbhyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WK68MK7-es Luz Solar Exterior Jardín 12 LED Foco Solar con Sensor de...'
 sku: 'B07WK68MK7-es'
 tags: [  ]

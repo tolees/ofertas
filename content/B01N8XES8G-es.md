@@ -5,7 +5,7 @@ date: 2020-06-08 10:16:11
 image: 'https://m.media-amazon.com/images/I/41f2j0xnBeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8XES8G-es UMBRO Speed Chubasquero de Pesca Hombre Azul Royal M'
 sku: 'B01N8XES8G-es'
 tags: [  ]

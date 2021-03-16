@@ -5,7 +5,7 @@ date: 2020-07-05 13:46:19
 image: 'https://m.media-amazon.com/images/I/31ntBTS3t7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z2KPZQX-es IPOTCH Limpiador de Cepillo de Plástico Maceta Plegable...'
 sku: 'B07Z2KPZQX-es'
 tags: [  ]

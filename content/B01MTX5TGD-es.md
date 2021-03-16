@@ -5,7 +5,7 @@ date: 2020-07-14 16:16:20
 image: 'https://m.media-amazon.com/images/I/41e3xt8qb6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTX5TGD-es Dispensador de jabón Kapitan de repuesto con rosca de 28...'
 sku: 'B01MTX5TGD-es'
 tags: [  ]

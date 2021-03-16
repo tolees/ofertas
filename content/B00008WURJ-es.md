@@ -5,7 +5,7 @@ date: 2020-08-14 14:28:50
 image: 'https://m.media-amazon.com/images/I/31oVDgMnUiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00008WURJ-es Zwilling Twinsharp Afilador Cuchillos Manual Negro'
 sku: 'B00008WURJ-es'
 tags: [  ]

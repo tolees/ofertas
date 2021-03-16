@@ -5,7 +5,7 @@ date: 2020-05-05 09:31:49
 image: 'https://m.media-amazon.com/images/I/51GMy-bZDKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYC944Y-es McFarlane Nave Espacial y Garaje Set de construccion Rick...'
 sku: 'B06ZYC944Y-es'
 tags: [  ]

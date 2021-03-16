@@ -5,7 +5,7 @@ date: 2020-01-22 18:52:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31jpRavvGwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSK5XZ4-es Max Factor Mattitude Powder. Polvos bronceadores Tono 001...'
 sku: 'B07TSK5XZ4-es'
 tags: [  ]

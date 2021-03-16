@@ -5,7 +5,7 @@ date: 2020-04-06 04:53:19
 image: 'https://m.media-amazon.com/images/I/31nLWMiNQvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M2VEASM-es Lacoste DH2050 Polo Azul Marine XXX-Large Talla del...'
 sku: 'B01M2VEASM-es'
 tags: [  ]

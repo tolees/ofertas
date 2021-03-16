@@ -5,7 +5,7 @@ date: 2020-01-02 16:42:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T3VB43AZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FLR43KK-es Hummel Slimmer Stadil Low Zapatillas Unisex Adulto Negro-...'
 sku: 'B00FLR43KK-es'
 tags: [  ]

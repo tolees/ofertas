@@ -5,7 +5,7 @@ date: 2020-10-11 21:28:47
 image: 'https://m.media-amazon.com/images/I/31giJU5mMtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZRX361-es Skechers ROVINA Clean Sheen Zapatillas para Mujer Blanco...'
 sku: 'B07VZRX361-es'
 tags: [  ]

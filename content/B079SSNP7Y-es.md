@@ -5,7 +5,7 @@ date: 2020-09-01 12:10:27
 image: 'https://m.media-amazon.com/images/I/31Zc4bYJXcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SSNP7Y-es Kappa SALCITO TKS Chándal Hombre Negro/Amarillo M'
 sku: 'B079SSNP7Y-es'
 tags: [  ]

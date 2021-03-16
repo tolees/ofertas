@@ -5,7 +5,7 @@ date: 2020-01-28 01:47:04
 image: 'https://m.media-amazon.com/images/I/510fW2ipbyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IYPUB70-es El Agente De C.I.P.O.L. - Temporada 1 Parte 1 [DVD]'
 sku: 'B00IYPUB70-es'
 tags: [  ]

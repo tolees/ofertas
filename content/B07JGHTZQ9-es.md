@@ -5,7 +5,7 @@ date: 2020-03-28 16:04:28
 image: 'https://m.media-amazon.com/images/I/41IjpdPn19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGHTZQ9-es Pepe Jeans Callen Chino Archive Pm211266 Pantalones Sailor...'
 sku: 'B07JGHTZQ9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-08 13:56:23
 image: 'https://m.media-amazon.com/images/I/51erg99bNAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3CHZFJ-es Hugo BOSS Reloj para hombre 1513477 con pulsera de metal'
 sku: 'B01N3CHZFJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-25 10:37:22
 image: 'https://m.media-amazon.com/images/I/51vVZ45VDJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721C6BTZ-es Dishonored: La Muerte Del Forastero'
 sku: 'B0721C6BTZ-es'
 tags: [  ]

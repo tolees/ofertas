@@ -5,7 +5,7 @@ date: 2020-08-11 09:15:31
 image: 'https://m.media-amazon.com/images/I/31VQIE6pT4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BG3SGX-es Asics Gel Quantum 180 5 Sr Zapatillas de Running para...'
 sku: 'B081BG3SGX-es'
 tags: [  ]

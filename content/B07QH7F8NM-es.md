@@ -5,7 +5,7 @@ date: 2020-05-21 16:25:57
 image: 'https://m.media-amazon.com/images/I/41EaVrs0hHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH7F8NM-es AmazonBasics - Cargador de pilas USB rápido color negro'
 sku: 'B07QH7F8NM-es'
 tags: [  ]

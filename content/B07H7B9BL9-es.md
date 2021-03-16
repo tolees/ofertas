@@ -5,7 +5,7 @@ date: 2020-06-06 13:07:51
 image: 'https://m.media-amazon.com/images/I/31Ve0QQZqrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7B9BL9-es NETVIP Repetidor WiFi 300Mbit/s Wireless WiFi Extensor...'
 sku: 'B07H7B9BL9-es'
 tags: [  ]

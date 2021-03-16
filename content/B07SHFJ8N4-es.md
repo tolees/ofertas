@@ -5,7 +5,7 @@ date: 2020-07-05 23:45:31
 image: 'https://m.media-amazon.com/images/I/412qZ9kVySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHFJ8N4-es Asics Gel-Quantum 360 5 Running Shoe Mens Gris Clair Gris...'
 sku: 'B07SHFJ8N4-es'
 tags: [  ]

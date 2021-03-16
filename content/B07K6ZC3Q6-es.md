@@ -5,7 +5,7 @@ date: 2020-01-25 18:30:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qw7ZjrehL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6ZC3Q6-es Asics Patriot 10 Zapatillas de Running para Mujer Rosa...'
 sku: 'B07K6ZC3Q6-es'
 tags: [  ]

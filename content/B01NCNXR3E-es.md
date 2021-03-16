@@ -5,7 +5,7 @@ date: 2020-03-24 08:56:53
 image: 'https://m.media-amazon.com/images/I/31W8xH9oxgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCNXR3E-es Lacoste Lerond BL 1 CAM Zapatillas para Hombre Azul Navy...'
 sku: 'B01NCNXR3E-es'
 tags: [  ]

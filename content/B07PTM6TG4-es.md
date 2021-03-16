@@ -5,7 +5,7 @@ date: 2020-06-21 19:43:09
 image: 'https://m.media-amazon.com/images/I/41vfprN+ULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTM6TG4-es Kipling - Duo Pouch 2 x Monederos Mujer Multicolor Camo...'
 sku: 'B07PTM6TG4-es'
 tags: [  ]

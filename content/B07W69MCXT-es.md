@@ -5,7 +5,7 @@ date: 2020-05-27 18:04:37
 image: 'https://m.media-amazon.com/images/I/41uU7+Gt+0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W69MCXT-es TOUS Urban Capazo Women s U'
 sku: 'B07W69MCXT-es'
 tags: [  ]

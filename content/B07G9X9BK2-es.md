@@ -5,7 +5,7 @@ date: 2020-04-23 15:15:13
 image: 'https://m.media-amazon.com/images/I/41R24tKWB7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9X9BK2-es Adoric Termometro Digital Termometro Bebe Niños y Adultos...'
 sku: 'B07G9X9BK2-es'
 tags: [  ]

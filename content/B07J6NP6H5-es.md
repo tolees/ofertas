@@ -5,7 +5,7 @@ date: 2020-08-22 14:57:26
 image: 'https://m.media-amazon.com/images/I/41olZdyKJ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6NP6H5-es Pop! Rugrats - Figura de Vinilo Spike'
 sku: 'B07J6NP6H5-es'
 tags: [  ]

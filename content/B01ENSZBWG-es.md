@@ -5,7 +5,7 @@ date: 2020-06-11 15:46:48
 image: 'https://m.media-amazon.com/images/I/51S5zWZoPpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ENSZBWG-es Panasonic EW1411H845 - Irrigador Bucal Eléctrico Portátil...'
 sku: 'B01ENSZBWG-es'
 tags: [  ]

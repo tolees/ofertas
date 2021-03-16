@@ -5,7 +5,7 @@ date: 2020-01-22 07:13:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31YsolGQdzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BC49QW-es Icons Corner Pack 4 sillas Verde Oliva IMS Modelo Eiffel...'
 sku: 'B082BC49QW-es'
 tags: [  ]

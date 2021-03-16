@@ -5,7 +5,7 @@ date: 2020-05-15 10:27:49
 image: 'https://m.media-amazon.com/images/I/41Uh2iV1zFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001LFHQYG-es Revlon ColorSilk Tinte de Cabello Permanente Tono #60...'
 sku: 'B001LFHQYG-es'
 tags: [  ]

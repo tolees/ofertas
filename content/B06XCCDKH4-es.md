@@ -5,7 +5,7 @@ date: 2020-02-26 10:16:03
 image: 'https://m.media-amazon.com/images/I/31pk5dOwcvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCCDKH4-es Montibel-Lo Finalfine Laca Ultra Extra Fuerte Sin Gas 400 ml'
 sku: 'B06XCCDKH4-es'
 tags: [  ]

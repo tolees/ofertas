@@ -5,7 +5,7 @@ date: 2020-08-06 07:25:17
 image: 'https://m.media-amazon.com/images/I/31DuOJoDrLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZXYC6H5-es Mercer Culinary Cuchara chapada en acero inoxidable acero...'
 sku: 'B06ZXYC6H5-es'
 tags: [  ]

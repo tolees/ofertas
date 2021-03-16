@@ -5,7 +5,7 @@ date: 2020-07-26 15:09:49
 image: 'https://m.media-amazon.com/images/I/41lrdU2sbtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ61WTV-es Skechers Bounder Verkona Zapatillas para Hombre Rojo...'
 sku: 'B07TZ61WTV-es'
 tags: [  ]

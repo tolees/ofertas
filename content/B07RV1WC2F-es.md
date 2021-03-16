@@ -5,7 +5,7 @@ date: 2020-06-30 14:22:49
 image: 'https://m.media-amazon.com/images/I/51k0pilfm7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RV1WC2F-es Senbos Cartera Hombre Pequeña Cartera de Cuero Suave de...'
 sku: 'B07RV1WC2F-es'
 tags: [  ]

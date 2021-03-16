@@ -5,7 +5,7 @@ date: 2020-04-23 00:05:07
 image: 'https://m.media-amazon.com/images/I/31u+iFENgEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004U7EHCQ-es Kärcher Tubo de chorro telescópico 2.642-347.0'
 sku: 'B004U7EHCQ-es'
 tags: [  ]

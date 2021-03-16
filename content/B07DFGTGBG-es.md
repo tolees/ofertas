@@ -5,7 +5,7 @@ date: 2020-05-15 10:10:13
 image: 'https://m.media-amazon.com/images/I/510UBsoYctL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFGTGBG-es Funko- Pop Vinyl: LOTR/Hobbit: Boromir Lord of The Rings...'
 sku: 'B07DFGTGBG-es'
 tags: [  ]

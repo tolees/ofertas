@@ -5,7 +5,7 @@ date: 2020-04-05 16:31:55
 image: 'https://m.media-amazon.com/images/I/41IOr1c5-RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYNL1ZH-es FMPC Funda Compatible con Xiaomi Mi MAX 2 Caso Carcasa...'
 sku: 'B07XYNL1ZH-es'
 tags: [  ]

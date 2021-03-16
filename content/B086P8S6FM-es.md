@@ -5,7 +5,7 @@ date: 2020-07-10 08:19:51
 image: 'https://m.media-amazon.com/images/I/411zpsEmasL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086P8S6FM-es POMILE HD cámara web computadora portátil USB PC cámara...'
 sku: 'B086P8S6FM-es'
 tags: [  ]

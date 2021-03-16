@@ -5,7 +5,7 @@ date: 2020-04-10 09:26:05
 image: 'https://m.media-amazon.com/images/I/31kFN9QdfgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VDL2BQ6-es Nike Court Royale Zapatillas Hombre Azul/Blanco Midnight...'
 sku: 'B00VDL2BQ6-es'
 tags: [  ]

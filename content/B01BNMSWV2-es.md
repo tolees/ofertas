@@ -5,7 +5,7 @@ date: 2020-03-21 19:16:10
 image: 'https://m.media-amazon.com/images/I/41+gC8OZjvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BNMSWV2-es Philips Satinelle Advanced BRE620/00 - Depiladora Wet &...'
 sku: 'B01BNMSWV2-es'
 tags: [  ]

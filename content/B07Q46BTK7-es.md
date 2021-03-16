@@ -5,7 +5,7 @@ date: 2020-09-22 08:41:17
 image: 'https://m.media-amazon.com/images/I/41rM7UlQWRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q46BTK7-es DURAGADGET Cable De Audio Portátil Medion Erazer X7853 -...'
 sku: 'B07Q46BTK7-es'
 tags: [  ]

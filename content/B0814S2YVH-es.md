@@ -5,7 +5,7 @@ date: 2020-06-24 07:36:23
 image: 'https://m.media-amazon.com/images/I/31jmdTKl7YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814S2YVH-es Under Armour UA Driver Highlight Cap Gorra con Visera...'
 sku: 'B0814S2YVH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-19 11:22:05
 image: 'https://m.media-amazon.com/images/I/41DefMB32FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XWPYZM4-es Nike Tanjun Zapatillas de Running para Hombre Azul...'
 sku: 'B00XWPYZM4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 21:48:34
 image: 'https://m.media-amazon.com/images/I/31pXd7RmuwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJP5L1B-es Nox Hummer Fusion S - NXHUMMERFSNS - Caja PC ARGB USB 3.0...'
 sku: 'B07WJP5L1B-es'
 tags: [  ]

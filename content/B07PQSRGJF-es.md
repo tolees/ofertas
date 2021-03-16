@@ -5,7 +5,7 @@ date: 2020-02-12 12:40:56
 image: 'https://m.media-amazon.com/images/I/41XUFIdSkcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQSRGJF-es deAO Conjunto de Herramientas 3 en 1 de Juguete Play Set...'
 sku: 'B07PQSRGJF-es'
 tags: [  ]

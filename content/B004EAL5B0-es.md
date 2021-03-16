@@ -5,7 +5,7 @@ date: 2020-03-11 17:48:26
 image: 'https://m.media-amazon.com/images/I/416bKI-E3YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004EAL5B0-es Grahams 20 yo Tawny Port 75cl'
 sku: 'B004EAL5B0-es'
 tags: [  ]

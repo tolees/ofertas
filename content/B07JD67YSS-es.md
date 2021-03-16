@@ -5,7 +5,7 @@ date: 2020-03-31 16:28:27
 image: 'https://m.media-amazon.com/images/I/41MOkhAJwML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JD67YSS-es G-STAR RAW Rebel Cinturón Multicolor Sage/Antic Silver...'
 sku: 'B07JD67YSS-es'
 tags: [  ]

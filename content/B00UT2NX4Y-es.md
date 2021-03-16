@@ -5,7 +5,7 @@ date: 2020-06-23 05:46:40
 image: 'https://m.media-amazon.com/images/I/415+eGbu68L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UT2NX4Y-es Tommy Hilfiger Bralette Corsetto Negro BLACK 990 34 talla...'
 sku: 'B00UT2NX4Y-es'
 tags: [  ]

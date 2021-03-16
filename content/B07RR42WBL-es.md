@@ -5,7 +5,7 @@ date: 2020-05-18 11:11:03
 image: 'https://m.media-amazon.com/images/I/41C1xImt5WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RR42WBL-es s.Oliver 03.899.61.5232 suéter Negro Black 9999 Small para...'
 sku: 'B07RR42WBL-es'
 tags: [  ]

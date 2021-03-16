@@ -5,7 +5,7 @@ date: 2020-06-28 10:43:44
 image: 'https://m.media-amazon.com/images/I/2177RxSXkqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8V9W4X-es Tommy Hilfiger Corporate Premium Sneaker Zapatillas para...'
 sku: 'B07V8V9W4X-es'
 tags: [  ]

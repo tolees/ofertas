@@ -5,7 +5,7 @@ date: 2020-09-29 13:25:38
 image: 'https://m.media-amazon.com/images/I/414Ue73vGcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C2GDV55-es Qomolo Compresor de Aire Coche Portátil 12V Bomba de Aire...'
 sku: 'B08C2GDV55-es'
 tags: [  ]

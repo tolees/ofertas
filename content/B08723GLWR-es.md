@@ -5,7 +5,7 @@ date: 2020-04-21 18:01:58
 image: 'https://m.media-amazon.com/images/I/41IHOs-9yYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08723GLWR-es Mono de bebé Promini para bebé con texto en inglés «Future...'
 sku: 'B08723GLWR-es'
 tags: [  ]

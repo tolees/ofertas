@@ -5,7 +5,7 @@ date: 2020-01-10 08:17:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31jjMXE3v-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N96L8SH-es BOSS Prime Polo Rojo Bright Red 622 Large para Hombre'
 sku: 'B07N96L8SH-es'
 tags: [  ]

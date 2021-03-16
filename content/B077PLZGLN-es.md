@@ -5,7 +5,7 @@ date: 2020-08-05 20:05:53
 image: 'https://m.media-amazon.com/images/I/41gaJ0C+HcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PLZGLN-es Trust Gaming GXT 140 Manx - Ratón Gaming inalámbrico...'
 sku: 'B077PLZGLN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-29 12:02:48
 image: 'https://m.media-amazon.com/images/I/41QskSv+DsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0722ZJQGB-es Emuca 9163651 Lote de 10 tiradores para mueble Ø12mm...'
 sku: 'B0722ZJQGB-es'
 tags: [  ]

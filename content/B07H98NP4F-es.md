@@ -5,7 +5,7 @@ date: 2020-08-18 16:30:00
 image: 'https://m.media-amazon.com/images/I/41AILocXRTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H98NP4F-es Suavinex – Pomada Intensiva de pañal para bebés. Cuidado...'
 sku: 'B07H98NP4F-es'
 tags: [  ]

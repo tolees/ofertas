@@ -5,7 +5,7 @@ date: 2020-04-23 07:19:34
 image: 'https://m.media-amazon.com/images/I/218FB8qRcxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4M7IW1-es BRA Efficient Cazo de Cocina Acero INOX Nailon y Silicona...'
 sku: 'B01M4M7IW1-es'
 tags: [  ]

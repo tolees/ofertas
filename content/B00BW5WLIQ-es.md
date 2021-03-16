@@ -5,7 +5,7 @@ date: 2020-03-29 19:32:22
 image: 'https://m.media-amazon.com/images/I/31jMpWmMXgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BW5WLIQ-es Schwarzkopf Professional Igora Royal 7-00 Tinte - 60 ml'
 sku: 'B00BW5WLIQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 13:15:42
 image: 'https://m.media-amazon.com/images/I/51l4L4EoEjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HS3GQAU-es Hama 00101219 maletines para portátil 43 9 cm 17.3"...'
 sku: 'B00HS3GQAU-es'
 tags: [  ]

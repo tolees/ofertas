@@ -5,7 +5,7 @@ date: 2020-02-03 20:27:35
 image: 'https://m.media-amazon.com/images/I/41dp0LgE6WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005UXQA0Q-es Ish - Ginebra London Dry Gin'
 sku: 'B005UXQA0Q-es'
 tags: [  ]

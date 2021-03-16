@@ -5,7 +5,7 @@ date: 2020-05-15 20:45:59
 image: 'https://m.media-amazon.com/images/I/31PmXvgT8WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXB8LPX-es Plastimyr 5970077 Bañera con Cajones y Cambiador de 0 a 12...'
 sku: 'B07VXB8LPX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-04 19:40:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61w4MVrEYcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NXYLXZ-es MEGALITH Relojes Hombre Relojes de Pulsera Militar...'
 sku: 'B082NXYLXZ-es'
 tags: [  ]

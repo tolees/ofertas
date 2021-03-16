@@ -5,7 +5,7 @@ date: 2020-10-06 17:16:09
 image: 'https://m.media-amazon.com/images/I/41E+AjkIMaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001J4ILAC-es Casio Reloj de Pulsera LW-200D-4AVEF'
 sku: 'B001J4ILAC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-20 08:40:40
 image: 'https://m.media-amazon.com/images/I/41dVM9pKdmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083GQJW7V-es 2 piezas de Cubierta de Cinturón de Seguridad para Bebé...'
 sku: 'B083GQJW7V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-25 09:09:36
 image: 'https://m.media-amazon.com/images/I/41v1ZgLnMbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J4MDR8Y-es Difusor de Aceites Esenciales Avaspot 250ml Ultrasónico...'
 sku: 'B07J4MDR8Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 22:09:15
 image: 'https://m.media-amazon.com/images/I/317BVWp3BuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BYMBWO-es Samsung CLT-C4092S/ELS - Cartucho Tóner Color Cian'
 sku: 'B001BYMBWO-es'
 tags: [  ]

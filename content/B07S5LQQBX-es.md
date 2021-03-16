@@ -5,7 +5,7 @@ date: 2020-02-26 22:24:29
 image: 'https://m.media-amazon.com/images/I/41D2oS5-J-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5LQQBX-es New Balance 574v2 Zapatillas para Hombre Gris Grey Spu 42 EU'
 sku: 'B07S5LQQBX-es'
 tags: [  ]

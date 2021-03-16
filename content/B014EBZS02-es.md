@@ -5,7 +5,7 @@ date: 2020-01-04 11:34:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51eSMSldI9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014EBZS02-es Salomon Trail Gaiters Low Polainas Bajas para Senderismo y...'
 sku: 'B014EBZS02-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-14 20:05:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51InLszDM0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYTXQ7H-es AmazonBasics - Juego de fundas de edredón y almohada de...'
 sku: 'B07KYTXQ7H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-12 09:49:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419gPgdQU1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CZOFDZ0-es American Tourister 75506/1099 - Funshine upright 2 ruedas...'
 sku: 'B01CZOFDZ0-es'
 tags: [  ]

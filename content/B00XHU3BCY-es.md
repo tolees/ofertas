@@ -5,7 +5,7 @@ date: 2020-05-15 11:39:50
 image: 'https://m.media-amazon.com/images/I/41epiqrmJrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XHU3BCY-es San Ignacio SARTEN 30cm ROJA Soft Touch Infinity Aluminio...'
 sku: 'B00XHU3BCY-es'
 tags: [  ]

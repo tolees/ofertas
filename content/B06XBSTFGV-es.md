@@ -5,7 +5,7 @@ date: 2020-02-08 10:18:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51r%2B2ym0MAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XBSTFGV-es 8 pcs máscara encaje negro de KAKOO de modo diferente...'
 sku: 'B06XBSTFGV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 16:51:07
 image: 'https://m.media-amazon.com/images/I/41gXQeJ0qAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQZ121Q-es adidas Terrex Eastrail GTX Track and Field Shoe Mens...'
 sku: 'B07JQZ121Q-es'
 tags: [  ]

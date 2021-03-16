@@ -5,7 +5,7 @@ date: 2020-01-05 03:27:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3112EUf4KvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B1CGC62-es Bourjois Rouge Edition Barra de Labios Tono 07 Fuchsia...'
 sku: 'B00B1CGC62-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 09:06:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51amIqh0rLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VTFPB7-es Vintage Rectangle Mantel de lino de algodón Yanyi Brand...'
 sku: 'B071VTFPB7-es'
 tags: [  ]

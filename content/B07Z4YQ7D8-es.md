@@ -5,7 +5,7 @@ date: 2020-10-01 12:40:25
 image: 'https://m.media-amazon.com/images/I/61+fKbCRzLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4YQ7D8-es GREAT ART Juego de 2 Carteles XXL Mundo Submarino...'
 sku: 'B07Z4YQ7D8-es'
 tags: [  ]

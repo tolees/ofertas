@@ -5,7 +5,7 @@ date: 2020-01-28 19:55:36
 image: 'https://m.media-amazon.com/images/I/314ZRwpkP7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VHLKWGI-es 1/12 Casa De Munecas Muebles En Miniatura Nevera Refrigerador'
 sku: 'B00VHLKWGI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-19 23:25:22
 image: 'https://m.media-amazon.com/images/I/41B40gX8Z6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXLPMTN-es Adidas Falcon W Sneaker Womens Footwear White/Footwear...'
 sku: 'B07GXLPMTN-es'
 tags: [  ]

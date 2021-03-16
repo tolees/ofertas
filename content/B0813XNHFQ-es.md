@@ -5,7 +5,7 @@ date: 2020-09-24 04:55:00
 image: 'https://m.media-amazon.com/images/I/41IPg2ge5pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813XNHFQ-es adidas Superstar Zapatillas para Hombre FTWR White/Core...'
 sku: 'B0813XNHFQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 19:49:32
 image: 'https://m.media-amazon.com/images/I/41vyu+wyI+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XNYD3FC-es Xnuoyo Manicura Aparatos eléctricos y accesorios torno...'
 sku: 'B07XNYD3FC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 08:36:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31i7wjJOoaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BCQ8RN-es Icons Corner Pack de 2 Sillas Gris Patas de Madera Kandem...'
 sku: 'B082BCQ8RN-es'
 tags: [  ]

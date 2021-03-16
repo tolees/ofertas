@@ -5,7 +5,7 @@ date: 2020-02-17 14:05:42
 image: 'https://m.media-amazon.com/images/I/41kw1Ed8koL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C7GTCJP-es JACK & JONES Jfwstoke Nubuck Java Botas Clasicas para...'
 sku: 'B07C7GTCJP-es'
 tags: [  ]

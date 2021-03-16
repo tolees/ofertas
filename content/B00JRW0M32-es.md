@@ -5,7 +5,7 @@ date: 2020-04-10 02:32:12
 image: 'https://m.media-amazon.com/images/I/41uGr9GVuZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JRW0M32-es Trust Leto - Set de Altavoces 2.0 6 W alimentados por USB...'
 sku: 'B00JRW0M32-es'
 tags: [  ]

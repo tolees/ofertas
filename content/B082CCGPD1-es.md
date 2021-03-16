@@ -5,7 +5,7 @@ date: 2020-04-12 18:07:44
 image: 'https://m.media-amazon.com/images/I/412i+q7pCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082CCGPD1-es 100 Ml Original Mujer Elegante Perfume Señora Perfume...'
 sku: 'B082CCGPD1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 19:50:13
 image: 'https://m.media-amazon.com/images/I/41X5bu83zPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N543FWP-es Novex Mis Rizos Capilar - 400g'
 sku: 'B01N543FWP-es'
 tags: [  ]

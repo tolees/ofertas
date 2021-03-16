@@ -5,7 +5,7 @@ date: 2020-09-24 08:07:07
 image: 'https://m.media-amazon.com/images/I/213dMi7KmqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGQXEJU-es Pikolin Home - Almohada de fibra con tratamiento aloe vera...'
 sku: 'B01BGQXEJU-es'
 tags: [  ]

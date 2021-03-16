@@ -5,7 +5,7 @@ date: 2020-05-28 15:47:55
 image: 'https://m.media-amazon.com/images/I/31lxo1diraL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O8S0BPO-es Portavasos de plástico Intex PureSpa Beige 26 x 22 x 18 cm'
 sku: 'B00O8S0BPO-es'
 tags: [  ]

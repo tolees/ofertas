@@ -5,7 +5,7 @@ date: 2020-07-20 15:34:06
 image: 'https://m.media-amazon.com/images/I/31OKYuc0PAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2FCCGC-es JACK & JONES Jjiroy Jjjames Sa Noos Pantalones Verde Olive...'
 sku: 'B07S2FCCGC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-20 00:51:44
 image: 'https://m.media-amazon.com/images/I/51BDKKKH6RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087CYM86L-es Fabur 210 * 90CM Cubierta Aislante para Puertas de Tela...'
 sku: 'B087CYM86L-es'
 tags: [  ]

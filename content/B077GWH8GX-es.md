@@ -5,7 +5,7 @@ date: 2020-02-20 20:14:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qP4bK%2BJVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GWH8GX-es Under Armour Challenger II Training Pant Pantalones Hombre...'
 sku: 'B077GWH8GX-es'
 tags: [  ]

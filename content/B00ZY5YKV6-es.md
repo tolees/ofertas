@@ -5,7 +5,7 @@ date: 2020-01-19 00:35:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31awzw1CogL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZY5YKV6-es Roc Soleil-Protect Leche Hidratante Corporal Protección...'
 sku: 'B00ZY5YKV6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-03 08:51:51
 image: 'https://m.media-amazon.com/images/I/41Fzeb3xarL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YL3N5ZG-es MTNG Attitude 84086 Zapatillas para Hombre Negro Cato...'
 sku: 'B07YL3N5ZG-es'
 tags: [  ]

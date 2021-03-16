@@ -5,7 +5,7 @@ date: 2020-07-15 20:26:35
 image: 'https://m.media-amazon.com/images/I/41g65hrPrWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DS2WBVM-es NIVEA SUN Protege & Hidrata Leche Solar FP50+ 1 x 400 ml...'
 sku: 'B01DS2WBVM-es'
 tags: [  ]

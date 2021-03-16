@@ -5,7 +5,7 @@ date: 2020-04-17 08:40:54
 image: 'https://m.media-amazon.com/images/I/41I7gRVgdiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012D59PUU-es NITROPC - PC Gamer VX *Rebajas de marzo 2020* CPU Ryzen 4...'
 sku: 'B012D59PUU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-18 20:21:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61L2YLZYYzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6BH35F-es Rogue Stormers'
 sku: 'B06X6BH35F-es'
 tags: [  ]

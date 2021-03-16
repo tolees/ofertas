@@ -5,7 +5,7 @@ date: 2020-10-12 19:15:49
 image: 'https://m.media-amazon.com/images/I/41UhEWD5N9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZSQT42-es Kerbl Rustica - Casa para Gatos 57 x 45 x 43 cm'
 sku: 'B071ZSQT42-es'
 tags: [  ]

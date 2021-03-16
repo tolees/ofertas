@@ -5,7 +5,7 @@ date: 2020-02-03 14:57:24
 image: 'https://m.media-amazon.com/images/I/518WRd0+jtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PH1ZLXG-es Juego de 3 Bolsas de Almacenaje Plegable Caja de Tela de...'
 sku: 'B07PH1ZLXG-es'
 tags: [  ]

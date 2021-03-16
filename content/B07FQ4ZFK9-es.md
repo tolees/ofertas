@@ -5,7 +5,7 @@ date: 2020-06-01 08:12:17
 image: 'https://m.media-amazon.com/images/I/51KMKw6gCHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQ4ZFK9-es Little Dragons Café - Edición Estándar'
 sku: 'B07FQ4ZFK9-es'
 tags: [  ]

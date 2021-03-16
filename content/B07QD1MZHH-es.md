@@ -5,7 +5,7 @@ date: 2020-03-07 02:24:03
 image: 'https://m.media-amazon.com/images/I/51Rup6QQqDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD1MZHH-es Cudy WU1200 - Adaptador WiFi USB CA 1200 Mbit/s para PC...'
 sku: 'B07QD1MZHH-es'
 tags: [  ]

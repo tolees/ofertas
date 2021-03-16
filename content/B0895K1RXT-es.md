@@ -5,7 +5,7 @@ date: 2020-07-02 12:32:28
 image: 'https://m.media-amazon.com/images/I/31NUHnxY15L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895K1RXT-es AnamSafdarButt59 Negro y Plata Aleación de Aluminio USB...'
 sku: 'B0895K1RXT-es'
 tags: [  ]

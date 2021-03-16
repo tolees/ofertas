@@ -5,7 +5,7 @@ date: 2020-01-13 09:18:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LXqeF0PVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0V6SP5-es Joseph Joseph Tablas de Cortar Plata Mediano 4 Unidades'
 sku: 'B01N0V6SP5-es'
 tags: [  ]

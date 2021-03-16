@@ -5,7 +5,7 @@ date: 2020-10-03 18:11:06
 image: 'https://m.media-amazon.com/images/I/31IQ5beZJfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9RW9HD-es adidas Caflaire Zapatillas Hombre Negro Core Black/Core...'
 sku: 'B07D9RW9HD-es'
 tags: [  ]

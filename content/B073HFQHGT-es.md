@@ -5,7 +5,7 @@ date: 2020-06-25 14:05:21
 image: 'https://m.media-amazon.com/images/I/41YkU16u0nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073HFQHGT-es Cillit Bang - Spray Limpiador Suciedad y Manchas de...'
 sku: 'B073HFQHGT-es'
 tags: [  ]

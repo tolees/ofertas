@@ -5,7 +5,7 @@ date: 2020-03-23 16:21:20
 image: 'https://m.media-amazon.com/images/I/31xV3C1PE+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SRK5VVI-es Rimmel London Scandaleyes XXtreme Máscara de Pestañas Tono...'
 sku: 'B00SRK5VVI-es'
 tags: [  ]

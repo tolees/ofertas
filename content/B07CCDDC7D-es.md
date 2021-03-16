@@ -5,7 +5,7 @@ date: 2020-04-02 14:55:22
 image: 'https://m.media-amazon.com/images/I/41fFfH8KcAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CCDDC7D-es Pepe Jeans Sloane Pantalones Deep Sea 597 W31/L34 para Hombre'
 sku: 'B07CCDDC7D-es'
 tags: [  ]

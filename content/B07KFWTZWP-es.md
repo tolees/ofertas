@@ -5,7 +5,7 @@ date: 2020-01-21 08:56:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KEvCDwDwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFWTZWP-es PUMA Cilia SD Zapatillas para Mujer Vineyard Wine-Pastel...'
 sku: 'B07KFWTZWP-es'
 tags: [  ]

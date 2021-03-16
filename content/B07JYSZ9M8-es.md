@@ -5,7 +5,7 @@ date: 2020-01-04 21:25:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/319dQYawvQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYSZ9M8-es Tommy Hilfiger Tommy Slim Polo Morado Hyacinth Violet 526...'
 sku: 'B07JYSZ9M8-es'
 tags: [  ]

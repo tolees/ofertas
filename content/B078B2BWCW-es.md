@@ -5,7 +5,7 @@ date: 2020-09-17 18:01:41
 image: 'https://m.media-amazon.com/images/I/31uJ-SFe58L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078B2BWCW-es atFoliX Antichoque Película Protectora para Suunto EON...'
 sku: 'B078B2BWCW-es'
 tags: [  ]

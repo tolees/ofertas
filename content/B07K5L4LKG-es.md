@@ -5,7 +5,7 @@ date: 2020-07-17 16:26:10
 image: 'https://m.media-amazon.com/images/I/41omdRfgdiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K5L4LKG-es Levi s 502 Regular Taper Jeans Azul Crocodile Adapt 0160...'
 sku: 'B07K5L4LKG-es'
 tags: [  ]

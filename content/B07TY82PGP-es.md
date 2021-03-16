@@ -5,7 +5,7 @@ date: 2020-05-08 07:51:15
 image: 'https://m.media-amazon.com/images/I/41NX7i9lQhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY82PGP-es Thomas Sabo Mujer Vermeil Abalorios K0334-414-7'
 sku: 'B07TY82PGP-es'
 tags: [  ]

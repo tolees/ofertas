@@ -5,7 +5,7 @@ date: 2020-05-09 09:24:27
 image: 'https://m.media-amazon.com/images/I/31ncsreGJtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q5GNC2S-es MO Bermuda Algodón Hombre - Azul Oscuro - Talla 48'
 sku: 'B07Q5GNC2S-es'
 tags: [  ]

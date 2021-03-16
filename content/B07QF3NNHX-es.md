@@ -5,7 +5,7 @@ date: 2020-01-16 18:05:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51AW9vJG5JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QF3NNHX-es F1 2019 - Anniversary Edición'
 sku: 'B07QF3NNHX-es'
 tags: [  ]

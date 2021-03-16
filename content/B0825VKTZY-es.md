@@ -5,7 +5,7 @@ date: 2020-06-10 16:42:30
 image: 'https://m.media-amazon.com/images/I/410H95SfO2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825VKTZY-es Vicloon Mini Paraguas del Sol Paraguas de Viaje Portátil...'
 sku: 'B0825VKTZY-es'
 tags: [  ]

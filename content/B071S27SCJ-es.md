@@ -5,7 +5,7 @@ date: 2020-01-22 14:16:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51T9Z4GlUcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071S27SCJ-es Cinta Métrica - Fléxometro 20M /66 FT de doble cara mm y...'
 sku: 'B071S27SCJ-es'
 tags: [  ]

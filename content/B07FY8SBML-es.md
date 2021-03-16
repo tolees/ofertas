@@ -5,7 +5,7 @@ date: 2020-05-15 15:25:25
 image: 'https://m.media-amazon.com/images/I/41RHRvNpesL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY8SBML-es NaturGreen Semillas de Sésamo natural - Pack de 6 unidades...'
 sku: 'B07FY8SBML-es'
 tags: [  ]

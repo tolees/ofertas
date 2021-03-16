@@ -5,7 +5,7 @@ date: 2020-02-17 16:39:38
 image: 'https://m.media-amazon.com/images/I/41IhL72iLyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2H19FK-es Hotott Hub USB c Lector de Tarjetas de Memoria UHS-II SD...'
 sku: 'B07X2H19FK-es'
 tags: [  ]

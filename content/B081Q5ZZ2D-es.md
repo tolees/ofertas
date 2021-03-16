@@ -5,7 +5,7 @@ date: 2020-05-19 07:15:16
 image: 'https://m.media-amazon.com/images/I/41A+HxrqiIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081Q5ZZ2D-es Depiladora de Luz Pulsada ACTION 2 Modos Depilación...'
 sku: 'B081Q5ZZ2D-es'
 tags: [  ]

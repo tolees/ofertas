@@ -5,7 +5,7 @@ date: 2020-01-15 18:19:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41e8JeCO-zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRLVB52-es New Balance 574v2 Zapatillas Hombre Rojo Red/White...'
 sku: 'B07KRLVB52-es'
 tags: [  ]

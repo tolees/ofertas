@@ -5,7 +5,7 @@ date: 2020-08-09 10:55:32
 image: 'https://m.media-amazon.com/images/I/41ppRwxZdSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDCLYJW-es Napapijri Elbas 3 Polo Turquesa Reef Turquoise I711 Large...'
 sku: 'B07VDCLYJW-es'
 tags: [  ]

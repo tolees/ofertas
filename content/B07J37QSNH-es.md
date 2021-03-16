@@ -5,7 +5,7 @@ date: 2020-03-16 11:09:31
 image: 'https://m.media-amazon.com/images/I/41EDmwtEsSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J37QSNH-es Under Armour Mid Keyhole Sujetador Deportivo Mujer Gris...'
 sku: 'B07J37QSNH-es'
 tags: [  ]

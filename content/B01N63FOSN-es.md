@@ -5,7 +5,7 @@ date: 2020-10-05 12:11:59
 image: 'https://m.media-amazon.com/images/I/41RVQFVTJHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N63FOSN-es Enna Cycle Copa Menstrual con Aplicador Talla S'
 sku: 'B01N63FOSN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-22 01:07:18
 image: 'https://m.media-amazon.com/images/I/51fPPNVYZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XRRMXW-es Relojes para Hombres LIGE Hombres Acero Inoxidable...'
 sku: 'B078XRRMXW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-17 12:42:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nqjELNHAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PWDXT9O-es Columbia Peakfreak Nomad Chukka WP Omni-Heat Botas de...'
 sku: 'B00PWDXT9O-es'
 tags: [  ]

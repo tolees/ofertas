@@ -5,7 +5,7 @@ date: 2020-07-17 17:24:34
 image: 'https://m.media-amazon.com/images/I/31oReIYzhwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O8GKWPA-es Dim Generous Sujetador Beige Peau 105F para Mujer'
 sku: 'B00O8GKWPA-es'
 tags: [  ]

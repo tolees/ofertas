@@ -5,7 +5,7 @@ date: 2020-05-19 08:19:32
 image: 'https://m.media-amazon.com/images/I/31lPB0pLLNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F93X1YV-es Philips Avent Biberón Natural SCF036/17 - Biberón de 330...'
 sku: 'B07F93X1YV-es'
 tags: [  ]

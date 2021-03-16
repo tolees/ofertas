@@ -5,7 +5,7 @@ date: 2020-05-17 18:03:58
 image: 'https://m.media-amazon.com/images/I/418KAMQSzZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H1T5Z2Q-es Slumberzzz - Pantuflas/Zapatillas de Estar por casa con...'
 sku: 'B07H1T5Z2Q-es'
 tags: [  ]

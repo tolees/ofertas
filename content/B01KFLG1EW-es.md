@@ -5,7 +5,7 @@ date: 2020-05-07 09:27:55
 image: 'https://m.media-amazon.com/images/I/411s3aC4q1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KFLG1EW-es Philips Optimal Temp GC8715/20 - Centro de Planchado de...'
 sku: 'B01KFLG1EW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 11:21:36
 image: 'https://m.media-amazon.com/images/I/51wL0-IZ3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FCJ68TW-es Camara de Fotos Camara Fotos Full HD 2.7K C de 30MP para...'
 sku: 'B08FCJ68TW-es'
 tags: [  ]

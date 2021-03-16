@@ -5,7 +5,7 @@ date: 2020-07-15 18:03:20
 image: 'https://m.media-amazon.com/images/I/31LhLZC0GjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DOY0O0O-es TOPELEK Termometro Carne Digital Termómetro de Cocina de...'
 sku: 'B01DOY0O0O-es'
 tags: [  ]

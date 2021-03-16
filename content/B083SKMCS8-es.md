@@ -5,7 +5,7 @@ date: 2020-01-14 21:23:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ctljrFrkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SKMCS8-es TONGJI Vitrina de Acrílico Compatible con Lego 21319 Ideas...'
 sku: 'B083SKMCS8-es'
 tags: [  ]

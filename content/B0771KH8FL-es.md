@@ -5,7 +5,7 @@ date: 2020-04-25 18:02:46
 image: 'https://m.media-amazon.com/images/I/31jhn2+umXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771KH8FL-es Eastpak Tranverz S Maleta 51 cm 42 L Negro Black'
 sku: 'B0771KH8FL-es'
 tags: [  ]

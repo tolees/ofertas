@@ -5,7 +5,7 @@ date: 2020-01-30 10:12:41
 image: 'https://m.media-amazon.com/images/I/51IObTvz5DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR8NP7X-es Imperial Confort Copenhague - Colchón doble Acolchado...'
 sku: 'B07FR8NP7X-es'
 tags: [  ]

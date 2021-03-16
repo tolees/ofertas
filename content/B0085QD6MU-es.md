@@ -5,7 +5,7 @@ date: 2020-02-18 09:58:30
 image: 'https://m.media-amazon.com/images/I/31huAOPh9JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0085QD6MU-es Tommee Tippee 42302241 - Bolsas para conservar la leche'
 sku: 'B0085QD6MU-es'
 tags: [  ]

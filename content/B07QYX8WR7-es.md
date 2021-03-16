@@ -5,7 +5,7 @@ date: 2020-02-25 08:03:04
 image: 'https://m.media-amazon.com/images/I/41+od-stR9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QYX8WR7-es Stor Vaso Easy 260 ML | Frozen 2'
 sku: 'B07QYX8WR7-es'
 tags: [  ]

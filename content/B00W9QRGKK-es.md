@@ -5,7 +5,7 @@ date: 2020-06-08 16:01:44
 image: 'https://m.media-amazon.com/images/I/41LvCiRXXPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W9QRGKK-es Calvin Klein Radiant Cotton-Thong Tanga Blanco White 100...'
 sku: 'B00W9QRGKK-es'
 tags: [  ]

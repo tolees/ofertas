@@ -5,7 +5,7 @@ date: 2020-05-16 07:20:52
 image: 'https://m.media-amazon.com/images/I/41QOh5vvOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073S3PS4G-es Medidor de Sonido Tacklife MLM02 Decibelímetro 30-130dB...'
 sku: 'B073S3PS4G-es'
 tags: [  ]

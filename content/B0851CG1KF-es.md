@@ -5,7 +5,7 @@ date: 2020-04-17 15:03:21
 image: 'https://m.media-amazon.com/images/I/51k6IhSKJXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0851CG1KF-es Calcetines de barco Calcetines de marea de estudiante...'
 sku: 'B0851CG1KF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 15:45:33
 image: 'https://m.media-amazon.com/images/I/41th0S5DWBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DYXMEV8-es Vibram FiveFingers Kso Evo Zapatillas de Deporte Exterior...'
 sku: 'B00DYXMEV8-es'
 tags: [  ]

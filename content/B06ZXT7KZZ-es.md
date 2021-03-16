@@ -5,7 +5,7 @@ date: 2020-05-16 19:45:15
 image: 'https://m.media-amazon.com/images/I/51J2D51eD4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZXT7KZZ-es Bruni Película Protectora para Olympus TG-850 Protector...'
 sku: 'B06ZXT7KZZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 18:45:50
 image: 'https://m.media-amazon.com/images/I/41eztAdtNVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00006JDME-es Hama 070055 - Filtro ultravioleta color neutro 55 mm'
 sku: 'B00006JDME-es'
 tags: [  ]

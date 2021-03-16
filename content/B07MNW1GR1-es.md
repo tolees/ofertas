@@ -5,7 +5,7 @@ date: 2020-08-18 20:03:11
 image: 'https://m.media-amazon.com/images/I/41Ruw3xFyxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNW1GR1-es Microsoft Surface Pro 6 - Ordenador portátil 2 en 1 12.3...'
 sku: 'B07MNW1GR1-es'
 tags: [  ]

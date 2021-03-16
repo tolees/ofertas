@@ -5,7 +5,7 @@ date: 2020-08-15 17:39:59
 image: 'https://m.media-amazon.com/images/I/41kxQKOnsxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YCXMRX-es HAOYE Funda para Xiaomi Mi 10 5G Shockproof Carcasa con...'
 sku: 'B086YCXMRX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-16 17:37:14
 image: 'https://m.media-amazon.com/images/I/41jSBiDPwhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K4SGCH-es SportPlus SP-ALB-011 Entrenador Abdominal Plegable para...'
 sku: 'B072K4SGCH-es'
 tags: [  ]

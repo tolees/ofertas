@@ -5,7 +5,7 @@ date: 2020-05-26 16:49:58
 image: 'https://m.media-amazon.com/images/I/31fZLW9ncLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B0O08HO-es STANHOME CREMA MUEBLES'
 sku: 'B01B0O08HO-es'
 tags: [  ]

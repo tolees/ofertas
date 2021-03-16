@@ -5,7 +5,7 @@ date: 2020-01-16 20:15:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TDhSan8DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKS5YDT-es BlueXP4 Pieza Ámbar Botellas 10ml 20ml Marrón Boston de...'
 sku: 'B07GKS5YDT-es'
 tags: [  ]

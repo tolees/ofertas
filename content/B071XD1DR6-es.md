@@ -5,7 +5,7 @@ date: 2020-03-18 22:29:00
 image: 'https://m.media-amazon.com/images/I/41K2nOfAyhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XD1DR6-es Xiaomi Mi Band 2 Fitness Smartband Pulsera de actividad...'
 sku: 'B071XD1DR6-es'
 tags: [  ]

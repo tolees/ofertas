@@ -5,7 +5,7 @@ date: 2020-07-15 11:55:55
 image: 'https://m.media-amazon.com/images/I/41NFLiMCwkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08299DJMJ-es IKOHS Limpiador facial HADA - Cepillo Facial de Silicona...'
 sku: 'B08299DJMJ-es'
 tags: [  ]

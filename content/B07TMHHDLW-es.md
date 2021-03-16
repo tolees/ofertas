@@ -5,7 +5,7 @@ date: 2020-06-29 12:56:06
 image: 'https://m.media-amazon.com/images/I/41E6yEOiO+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMHHDLW-es Levi s Original Batwing Polo Multicolor Vine Stripe...'
 sku: 'B07TMHHDLW-es'
 tags: [  ]

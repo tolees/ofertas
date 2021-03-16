@@ -5,7 +5,7 @@ date: 2020-06-04 01:42:12
 image: 'https://m.media-amazon.com/images/I/416NAQXEoCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDTSSC-es Sylvie Flirty Swimwear Bera Traje de Baño de Una Pieza...'
 sku: 'B077YDTSSC-es'
 tags: [  ]

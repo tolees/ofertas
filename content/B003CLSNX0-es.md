@@ -5,7 +5,7 @@ date: 2020-08-31 14:07:01
 image: 'https://m.media-amazon.com/images/I/41Pjq74bDbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003CLSNX0-es FoodSaver FSR2802 Rollos de Envasado al Vacío FoodSaver 2...'
 sku: 'B003CLSNX0-es'
 tags: [  ]

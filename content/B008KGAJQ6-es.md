@@ -5,7 +5,7 @@ date: 2020-04-25 16:31:54
 image: 'https://m.media-amazon.com/images/I/41zX2OO8f5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008KGAJQ6-es Seanergy Crema Corporal 300 ml'
 sku: 'B008KGAJQ6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-30 16:56:05
 image: 'https://m.media-amazon.com/images/I/41q3JGEZCpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01789QMUW-es LaCie Rugged Mini - Disco Duro Externo de 4 TB con USB 3.0...'
 sku: 'B01789QMUW-es'
 tags: [  ]

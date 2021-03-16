@@ -5,7 +5,7 @@ date: 2020-09-04 14:30:44
 image: 'https://m.media-amazon.com/images/I/51NeTR82h4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MB8MZQ-es SELECT Mundo – Balón de Balonmano Color Purple/Orange...'
 sku: 'B072MB8MZQ-es'
 tags: [  ]

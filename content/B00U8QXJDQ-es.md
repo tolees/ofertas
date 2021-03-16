@@ -5,7 +5,7 @@ date: 2020-01-27 18:56:13
 image: 'https://m.media-amazon.com/images/I/41uMvcqWthL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U8QXJDQ-es Beter Lima Uñas Pedicura Cerámica 19.8 cm - 1 Unidad'
 sku: 'B00U8QXJDQ-es'
 tags: [  ]

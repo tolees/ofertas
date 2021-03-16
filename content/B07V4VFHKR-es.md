@@ -5,7 +5,7 @@ date: 2020-05-11 15:17:35
 image: 'https://m.media-amazon.com/images/I/51v2nuo33ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4VFHKR-es flintronic Medidor de Contornos 5"/127MM Herramienta de...'
 sku: 'B07V4VFHKR-es'
 tags: [  ]

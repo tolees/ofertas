@@ -5,7 +5,7 @@ date: 2020-03-03 18:06:31
 image: 'https://m.media-amazon.com/images/I/31tDaZavE+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VY6G7M7-es Memoria USB 64GB Pendrive 2.0 USB Stick Flash Drive Pen...'
 sku: 'B07VY6G7M7-es'
 tags: [  ]

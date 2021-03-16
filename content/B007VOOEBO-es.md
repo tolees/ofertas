@@ -5,7 +5,7 @@ date: 2020-05-08 10:53:23
 image: 'https://m.media-amazon.com/images/I/312vA4T7RHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007VOOEBO-es Lacor - 60386 - Cuchillo Para Corta Verduras 18 cm- VerDe'
 sku: 'B007VOOEBO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-17 09:02:53
 image: 'https://m.media-amazon.com/images/I/31coFyWLRyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M58QUT3-es Umbro Loyal Pantalones Hombre Azul Marino Oscuro XXL'
 sku: 'B01M58QUT3-es'
 tags: [  ]

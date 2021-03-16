@@ -5,7 +5,7 @@ date: 2020-02-25 20:01:25
 image: 'https://m.media-amazon.com/images/I/518ySTwuh1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078J3T2NJ-es Maybelline New York Master Chrome - Polvos Iluminadores...'
 sku: 'B078J3T2NJ-es'
 tags: [  ]

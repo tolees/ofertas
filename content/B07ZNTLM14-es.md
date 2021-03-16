@@ -5,7 +5,7 @@ date: 2020-09-04 17:08:30
 image: 'https://m.media-amazon.com/images/I/41ciaAkPh2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNTLM14-es Hurley M Phtm Block Party 18 Bañador Hombre Iron Grey 36'
 sku: 'B07ZNTLM14-es'
 tags: [  ]

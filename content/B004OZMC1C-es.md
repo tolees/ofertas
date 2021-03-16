@@ -5,7 +5,7 @@ date: 2020-03-03 21:31:47
 image: 'https://m.media-amazon.com/images/I/41LUbDqiwXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004OZMC1C-es Dewalt D25501K-QS Martillo demoledor 1100 W 220 V Negro'
 sku: 'B004OZMC1C-es'
 tags: [  ]

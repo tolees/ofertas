@@ -5,7 +5,7 @@ date: 2020-07-17 12:43:09
 image: 'https://m.media-amazon.com/images/I/31a6UVvc35L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYV98XQ-es Cybex Silver Solution M-fix 519001121 Silla de Coche Grupo...'
 sku: 'B07HYV98XQ-es'
 tags: [  ]

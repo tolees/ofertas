@@ -5,7 +5,7 @@ date: 2020-05-24 19:20:09
 image: 'https://m.media-amazon.com/images/I/41KSt1wSZ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EOO9XAG-es Calvin Klein Carousel-Thong Bragas Blanco WHITE 100 Medium...'
 sku: 'B00EOO9XAG-es'
 tags: [  ]

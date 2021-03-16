@@ -5,7 +5,7 @@ date: 2020-05-30 19:09:08
 image: 'https://m.media-amazon.com/images/I/519HPoVjTIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NJUWM4-es Fellowes 53062 Pack de 100 fundas para plastificar brillo...'
 sku: 'B000NJUWM4-es'
 tags: [  ]

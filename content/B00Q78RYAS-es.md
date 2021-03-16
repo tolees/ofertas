@@ -5,7 +5,7 @@ date: 2020-06-12 14:47:38
 image: 'https://m.media-amazon.com/images/I/411YEAFE8GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q78RYAS-es MENFORSAN Champú Perros Acondicionador - 300 ml'
 sku: 'B00Q78RYAS-es'
 tags: [  ]

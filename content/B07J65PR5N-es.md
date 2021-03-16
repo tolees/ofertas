@@ -5,7 +5,7 @@ date: 2020-04-16 21:31:52
 image: 'https://m.media-amazon.com/images/I/41Bf14KmU9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J65PR5N-es PROTEAR Protectores Auditivos Con Bluetooth y radio AM FM...'
 sku: 'B07J65PR5N-es'
 tags: [  ]

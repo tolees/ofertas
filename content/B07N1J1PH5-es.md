@@ -5,7 +5,7 @@ date: 2020-04-22 23:31:25
 image: 'https://m.media-amazon.com/images/I/31vGl2nN7-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1J1PH5-es Clarks Sillian2.0dusk Botas Slouch para Mujer Rojo Maroon...'
 sku: 'B07N1J1PH5-es'
 tags: [  ]

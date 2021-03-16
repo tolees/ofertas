@@ -5,7 +5,7 @@ date: 2020-05-19 05:17:40
 image: 'https://m.media-amazon.com/images/I/51b1-kcPYAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGLK9V3-es Oral-B Genius 10000N Sensi Ultrathin - Cepillo Eléctrico 1...'
 sku: 'B07DGLK9V3-es'
 tags: [  ]

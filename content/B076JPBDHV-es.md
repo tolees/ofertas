@@ -5,7 +5,7 @@ date: 2020-02-25 11:03:23
 image: 'https://m.media-amazon.com/images/I/412ThimFlKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JPBDHV-es adidas Trefoil T-Shirt T-Shirt Hombre White XL'
 sku: 'B076JPBDHV-es'
 tags: [  ]

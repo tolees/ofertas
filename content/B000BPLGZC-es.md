@@ -5,7 +5,7 @@ date: 2020-03-31 13:34:00
 image: 'https://m.media-amazon.com/images/I/51ICqug-QWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BPLGZC-es HP 643A - Cartucho de tóner original LaserJet para...'
 sku: 'B000BPLGZC-es'
 tags: [  ]

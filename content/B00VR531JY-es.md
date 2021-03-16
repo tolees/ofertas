@@ -5,7 +5,7 @@ date: 2020-06-18 08:54:36
 image: 'https://m.media-amazon.com/images/I/41Tc-lC1LoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VR531JY-es Skechers Men s Stamina Cutback Trainers Grey Charcoal &...'
 sku: 'B00VR531JY-es'
 tags: [  ]

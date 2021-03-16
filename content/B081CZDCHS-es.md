@@ -5,7 +5,7 @@ date: 2020-04-11 07:40:57
 image: 'https://m.media-amazon.com/images/I/41gGBwMrqEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CZDCHS-es JOYUE Joyero Pequeña Joyero portátil de Viaje para Mujer...'
 sku: 'B081CZDCHS-es'
 tags: [  ]

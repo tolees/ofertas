@@ -5,7 +5,7 @@ date: 2020-04-06 08:18:14
 image: 'https://m.media-amazon.com/images/I/41uixQQB+5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0GN1J3-es Kelme - Zapatillas Indoor Copa'
 sku: 'B01N0GN1J3-es'
 tags: [  ]

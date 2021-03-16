@@ -5,7 +5,7 @@ date: 2020-07-28 18:54:13
 image: 'https://m.media-amazon.com/images/I/41BMlzNuIpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFCTM4Y-es Pop! Disney Mickey 90 Years - Figura de Vinilo Conductor...'
 sku: 'B07DFCTM4Y-es'
 tags: [  ]

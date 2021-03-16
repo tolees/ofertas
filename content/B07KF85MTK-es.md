@@ -5,7 +5,7 @@ date: 2020-02-27 08:31:17
 image: 'https://m.media-amazon.com/images/I/31NSv63bSrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF85MTK-es Levi s Housemark Polo Azul Sodalite Blue 0092 Medium para...'
 sku: 'B07KF85MTK-es'
 tags: [  ]

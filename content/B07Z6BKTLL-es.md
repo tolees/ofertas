@@ -5,7 +5,7 @@ date: 2020-06-01 19:02:36
 image: 'https://m.media-amazon.com/images/I/41TWKnbkJ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6BKTLL-es Piccalilly Body de manga larga para bebé suave algodón...'
 sku: 'B07Z6BKTLL-es'
 tags: [  ]

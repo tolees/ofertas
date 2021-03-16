@@ -5,7 +5,7 @@ date: 2020-01-17 09:09:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BvgB3yfIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM33FL2-es Operación Triunfo 2017'
 sku: 'B07FM33FL2-es'
 tags: [  ]

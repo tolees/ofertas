@@ -5,7 +5,7 @@ date: 2020-10-11 17:47:08
 image: 'https://m.media-amazon.com/images/I/41zWjVpy6UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZT39KQ-es PURLINE HOTI F20 Calefactor cerámico con termostato...'
 sku: 'B075ZT39KQ-es'
 tags: [  ]

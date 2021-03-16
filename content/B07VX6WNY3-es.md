@@ -5,7 +5,7 @@ date: 2020-04-16 18:23:52
 image: 'https://m.media-amazon.com/images/I/415UABW+AJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VX6WNY3-es Organizador Cables Cubre Cables de 2 x 1.5m Flexible Funda...'
 sku: 'B07VX6WNY3-es'
 tags: [  ]

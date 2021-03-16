@@ -5,7 +5,7 @@ date: 2020-01-28 08:54:40
 image: 'https://m.media-amazon.com/images/I/511r6EgKrrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H57PGUE-es Timewanderer - Guirnalda de luces LED decorativas funciona...'
 sku: 'B01H57PGUE-es'
 tags: [  ]

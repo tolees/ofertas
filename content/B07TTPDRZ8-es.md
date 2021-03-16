@@ -5,7 +5,7 @@ date: 2020-09-13 16:21:50
 image: 'https://m.media-amazon.com/images/I/41XPPyu9M9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTPDRZ8-es KiplingAbanu MultiMujerBolsos bandoleraMulticolor Speckled...'
 sku: 'B07TTPDRZ8-es'
 tags: [  ]

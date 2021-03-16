@@ -5,7 +5,7 @@ date: 2020-01-03 18:23:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYF7JC-es Puma Unisex Adulto Axis Zapatillas Azul Peacoat-Puma White...'
 sku: 'B07KFYF7JC-es'
 tags: [  ]

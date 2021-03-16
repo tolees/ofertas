@@ -5,7 +5,7 @@ date: 2020-09-28 07:54:06
 image: 'https://m.media-amazon.com/images/I/412N4gHwBkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C94BCKM-es Columbia Canyon Point Zapatillas de Senderismo...'
 sku: 'B07C94BCKM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 10:22:40
 image: 'https://m.media-amazon.com/images/I/41tvoclQbBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E4KYTHW-es Neutro Roberts - Jabón líquido antibacteriano'
 sku: 'B00E4KYTHW-es'
 tags: [  ]

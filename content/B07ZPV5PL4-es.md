@@ -5,7 +5,7 @@ date: 2020-07-09 03:37:49
 image: 'https://m.media-amazon.com/images/I/31TE1+vw33L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPV5PL4-es Yageshark - Pantalones de deporte para hombre de algodón...'
 sku: 'B07ZPV5PL4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 11:34:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41x9pPypg0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL31NV2-es adidas D2m tee 3s T-Shirt Hombre White XL'
 sku: 'B07KL31NV2-es'
 tags: [  ]

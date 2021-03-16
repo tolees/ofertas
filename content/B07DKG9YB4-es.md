@@ -5,7 +5,7 @@ date: 2020-02-08 18:56:57
 image: 'https://m.media-amazon.com/images/I/413312lGuPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKG9YB4-es Kipling Gabbie S Bolsos Bandolera para Mujer Gris Active...'
 sku: 'B07DKG9YB4-es'
 tags: [  ]

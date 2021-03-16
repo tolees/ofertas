@@ -5,7 +5,7 @@ date: 2020-08-07 21:43:36
 image: 'https://m.media-amazon.com/images/I/412z81AjwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CCW7Z2W-es Marca Amazon - Presto! Suavizante concentrado azul 360...'
 sku: 'B07CCW7Z2W-es'
 tags: [  ]

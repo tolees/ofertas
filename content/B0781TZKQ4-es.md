@@ -5,7 +5,7 @@ date: 2020-01-04 11:21:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781TZKQ4-es Reebok Classic Leather Zapatillas para Mujer Blanco...'
 sku: 'B0781TZKQ4-es'
 tags: [  ]

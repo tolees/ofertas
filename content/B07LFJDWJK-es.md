@@ -5,7 +5,7 @@ date: 2020-03-18 20:18:30
 image: 'https://m.media-amazon.com/images/I/41XZ0L-DPfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFJDWJK-es New Balance Suede 996 Zapatillas para Mujer Rosa Pink Yd...'
 sku: 'B07LFJDWJK-es'
 tags: [  ]

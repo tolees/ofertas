@@ -5,7 +5,7 @@ date: 2020-05-18 09:04:27
 image: 'https://m.media-amazon.com/images/I/41lRNCcYfBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084YK5D6G-es Baoblaze 1 Par De Plantillas De Inserción De Talón De...'
 sku: 'B084YK5D6G-es'
 tags: [  ]

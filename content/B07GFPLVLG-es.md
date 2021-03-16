@@ -5,7 +5,7 @@ date: 2020-09-28 09:09:41
 image: 'https://m.media-amazon.com/images/I/41+DbymplNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFPLVLG-es Concentrado de Proteína de Suero Evowhey Protein 2.0 de...'
 sku: 'B07GFPLVLG-es'
 tags: [  ]

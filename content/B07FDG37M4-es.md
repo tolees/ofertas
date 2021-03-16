@@ -5,7 +5,7 @@ date: 2020-04-10 11:29:24
 image: 'https://m.media-amazon.com/images/I/41bXy+ruEoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDG37M4-es Jabra Talk 30 - Auricular Bluetooth Negro'
 sku: 'B07FDG37M4-es'
 tags: [  ]

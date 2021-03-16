@@ -5,7 +5,7 @@ date: 2020-04-22 11:04:03
 image: 'https://m.media-amazon.com/images/I/51ewduVweGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCCNSJD-es HBselect 10 Diademas Mujer Turbantes Mujer Vendas De Pelo...'
 sku: 'B07GCCNSJD-es'
 tags: [  ]

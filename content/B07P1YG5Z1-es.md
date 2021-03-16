@@ -5,7 +5,7 @@ date: 2020-07-17 11:10:10
 image: 'https://m.media-amazon.com/images/I/41OZ5ypfnGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P1YG5Z1-es Himylife HQKJ 160 Bar 2300 PSI 10 Metros Manguera de...'
 sku: 'B07P1YG5Z1-es'
 tags: [  ]

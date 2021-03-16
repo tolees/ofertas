@@ -5,7 +5,7 @@ date: 2020-08-06 22:04:12
 image: 'https://m.media-amazon.com/images/I/41Vkx6xl15L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KPN9K2A-es De Longhi Molinillo de café Delonghi Dedica kg 521.M 150W...'
 sku: 'B01KPN9K2A-es'
 tags: [  ]

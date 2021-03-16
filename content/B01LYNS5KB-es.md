@@ -5,7 +5,7 @@ date: 2020-03-05 07:48:25
 image: 'https://m.media-amazon.com/images/I/41vtR7opepL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYNS5KB-es AGPTEK G02 Mini-Clip Reproductor de MP3 8 GB de Capacidad...'
 sku: 'B01LYNS5KB-es'
 tags: [  ]

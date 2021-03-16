@@ -5,7 +5,7 @@ date: 2020-06-01 15:12:39
 image: 'https://m.media-amazon.com/images/I/41HZiWknmIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VRV9RYQ-es HENDI Bandejas para comida rápida grande - Verde -...'
 sku: 'B00VRV9RYQ-es'
 tags: [  ]

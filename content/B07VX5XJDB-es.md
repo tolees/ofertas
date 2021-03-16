@@ -5,7 +5,7 @@ date: 2020-02-24 11:52:12
 image: 'https://m.media-amazon.com/images/I/41JuWksnXJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VX5XJDB-es Bonio Silla de coche grupo 1/2/3 9-36 kg ISOFIX Reclinable...'
 sku: 'B07VX5XJDB-es'
 tags: [  ]

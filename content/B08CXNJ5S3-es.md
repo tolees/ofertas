@@ -5,7 +5,7 @@ date: 2020-08-16 22:23:27
 image: 'https://m.media-amazon.com/images/I/41rCrp4n+4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXNJ5S3-es Cargador Coche USB Tipo C PD3.0+QC3.0 para Samsung S10 S20...'
 sku: 'B08CXNJ5S3-es'
 tags: [  ]

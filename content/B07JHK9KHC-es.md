@@ -5,7 +5,7 @@ date: 2020-09-14 12:00:53
 image: 'https://m.media-amazon.com/images/I/51U7d2V7I5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHK9KHC-es good01 Big Promotion! Tienda de pintura de diamante diseño...'
 sku: 'B07JHK9KHC-es'
 tags: [  ]

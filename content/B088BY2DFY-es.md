@@ -5,7 +5,7 @@ date: 2020-05-10 13:03:04
 image: 'https://m.media-amazon.com/images/I/51UnJq1NuwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BY2DFY-es Slabo Protector de Pantalla Privacy para Realme 6 Pro...'
 sku: 'B088BY2DFY-es'
 tags: [  ]

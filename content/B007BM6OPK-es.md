@@ -5,7 +5,7 @@ date: 2020-09-23 17:42:17
 image: 'https://m.media-amazon.com/images/I/41o6u8zniyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007BM6OPK-es Alco-367ALF-0030 Hamaca fibreline Color Azul Verdoso...'
 sku: 'B007BM6OPK-es'
 tags: [  ]

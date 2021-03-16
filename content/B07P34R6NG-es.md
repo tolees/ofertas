@@ -5,7 +5,7 @@ date: 2020-09-07 17:13:42
 image: 'https://m.media-amazon.com/images/I/41Qkoe3PdrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P34R6NG-es Princess 142389 - Tostadora de doble ranura larga 1500 W 6...'
 sku: 'B07P34R6NG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-24 13:54:07
 image: 'https://m.media-amazon.com/images/I/41tyy6CCjEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6GY8C8-es Under Armour UA W Charged Assert 8 LTD Zapatillas de...'
 sku: 'B07S6GY8C8-es'
 tags: [  ]

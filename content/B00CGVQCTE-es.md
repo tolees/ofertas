@@ -5,7 +5,7 @@ date: 2020-05-19 22:40:32
 image: 'https://m.media-amazon.com/images/I/41GBFGVRg-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CGVQCTE-es Nike Air Max 90 Essential - Zapatillas de running Hombre...'
 sku: 'B00CGVQCTE-es'
 tags: [  ]

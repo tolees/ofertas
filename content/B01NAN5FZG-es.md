@@ -5,7 +5,7 @@ date: 2020-04-28 17:07:50
 image: 'https://m.media-amazon.com/images/I/41LnMmpbbmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAN5FZG-es Máscara exfoliante de lavado contra puntos negros de la...'
 sku: 'B01NAN5FZG-es'
 tags: [  ]

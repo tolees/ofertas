@@ -5,7 +5,7 @@ date: 2020-05-21 15:31:36
 image: 'https://m.media-amazon.com/images/I/41nMPjkdz9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ3NBLQ-es PETKIT Correa de Perro Retráctil No es Fácil de Romper...'
 sku: 'B07TZ3NBLQ-es'
 tags: [  ]

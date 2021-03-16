@@ -5,7 +5,7 @@ date: 2020-04-28 09:15:27
 image: 'https://m.media-amazon.com/images/I/41AQL-2itkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0863PRHN3-es Enjoyee -4 Viseras Protectoras para la Cara plástico...'
 sku: 'B0863PRHN3-es'
 tags: [  ]

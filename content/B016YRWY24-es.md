@@ -5,7 +5,7 @@ date: 2020-09-11 13:44:16
 image: 'https://m.media-amazon.com/images/I/418gEIGMNWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016YRWY24-es Silla de paseo compacta iCOO Acrobat hasta 18 kg con...'
 sku: 'B016YRWY24-es'
 tags: [  ]

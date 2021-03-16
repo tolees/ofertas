@@ -5,7 +5,7 @@ date: 2020-01-24 19:36:02
 image: 'https://m.media-amazon.com/images/I/31SULb5Cn5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRLJGWY-es New Balance 373 Zapatillas Hombre Negro Black/Blue...'
 sku: 'B07KRLJGWY-es'
 tags: [  ]

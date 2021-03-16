@@ -5,7 +5,7 @@ date: 2020-01-08 12:30:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uy2AmVWJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014Q1BSYU-es Sunstech ARGOS4GBBL - Reproductor MP3 deportivo resistente...'
 sku: 'B014Q1BSYU-es'
 tags: [  ]

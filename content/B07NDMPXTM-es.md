@@ -5,7 +5,7 @@ date: 2020-04-26 21:23:37
 image: 'https://m.media-amazon.com/images/I/315AnREf3iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMPXTM-es G-STAR RAW Core Round Neck suéter Negro Dk Black 6484 XX-...'
 sku: 'B07NDMPXTM-es'
 tags: [  ]

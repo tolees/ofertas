@@ -5,7 +5,7 @@ date: 2020-08-16 08:49:26
 image: 'https://m.media-amazon.com/images/I/51AksthM8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYNHPL8-es AKYGA AK-CA-26 - Rejilla Protectora para Ventilador 120 mm...'
 sku: 'B07TYNHPL8-es'
 tags: [  ]

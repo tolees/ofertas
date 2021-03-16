@@ -5,7 +5,7 @@ date: 2020-08-13 17:33:36
 image: 'https://m.media-amazon.com/images/I/41Sr-V5SXRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DN9K7VC-es Sotya Batido Saciante Chocolate - 700 gr'
 sku: 'B00DN9K7VC-es'
 tags: [  ]

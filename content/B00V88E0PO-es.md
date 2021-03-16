@@ -5,7 +5,7 @@ date: 2020-07-12 19:05:54
 image: 'https://m.media-amazon.com/images/I/319KT3LpydL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V88E0PO-es Clarins - Gel contorno de ojos - Antiojeras Antibolsas -...'
 sku: 'B00V88E0PO-es'
 tags: [  ]

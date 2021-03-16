@@ -5,7 +5,7 @@ date: 2020-05-23 10:51:02
 image: 'https://m.media-amazon.com/images/I/41bPRdOlXtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HX3GQH-es Tommy Hilfiger Painted Flag Loop 4.0 Cinturón Marrón Testi...'
 sku: 'B078HX3GQH-es'
 tags: [  ]

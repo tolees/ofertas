@@ -5,7 +5,7 @@ date: 2020-02-25 12:12:37
 image: 'https://m.media-amazon.com/images/I/41n938Sp6fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HLR5MS-es CINTA ANTIDESLIZANTE - LUMINOSO FLUORESCENTE - 50 mm x 5 M...'
 sku: 'B072HLR5MS-es'
 tags: [  ]

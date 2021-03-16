@@ -5,7 +5,7 @@ date: 2020-01-11 08:05:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hg3xgcezL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRZ3S4B-es New Balance 373 Zapatillas para Hombre Amarillo Yellow...'
 sku: 'B07PRZ3S4B-es'
 tags: [  ]

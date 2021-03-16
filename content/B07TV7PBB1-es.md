@@ -5,7 +5,7 @@ date: 2020-08-09 20:21:42
 image: 'https://m.media-amazon.com/images/I/41HKXKEujQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV7PBB1-es Levi s 501 Original Pantalones Cortos Azul Athens Mid...'
 sku: 'B07TV7PBB1-es'
 tags: [  ]

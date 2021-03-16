@@ -5,7 +5,7 @@ date: 2020-02-14 14:37:36
 image: 'https://m.media-amazon.com/images/I/41wr9AHOZsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZR5RSJB-es Cepillos de Limpieza para Coches 5 Piezas Pinceles de...'
 sku: 'B07ZR5RSJB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-22 09:06:41
 image: 'https://m.media-amazon.com/images/I/41OPJ2eYWsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLL4CXS-es Puig Agua Fresca - 200 ml'
 sku: 'B07CLL4CXS-es'
 tags: [  ]

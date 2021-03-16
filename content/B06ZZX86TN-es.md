@@ -5,7 +5,7 @@ date: 2020-01-12 17:19:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q55HtzG-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZX86TN-es Samsung S27E330H Monitor para Gaming de 27" LCD Full HD...'
 sku: 'B06ZZX86TN-es'
 tags: [  ]

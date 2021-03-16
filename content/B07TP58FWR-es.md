@@ -5,7 +5,7 @@ date: 2020-03-30 09:58:31
 image: 'https://m.media-amazon.com/images/I/31wYQUdTNdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TP58FWR-es Vans Atwood Textile Suede Zapatillas para Hombre Negro...'
 sku: 'B07TP58FWR-es'
 tags: [  ]

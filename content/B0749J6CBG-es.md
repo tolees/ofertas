@@ -5,7 +5,7 @@ date: 2020-03-30 12:33:34
 image: 'https://m.media-amazon.com/images/I/51uK5+VBySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0749J6CBG-es TedGem Bebé Espejo Retrovisor Universal de Coche Asiento...'
 sku: 'B0749J6CBG-es'
 tags: [  ]

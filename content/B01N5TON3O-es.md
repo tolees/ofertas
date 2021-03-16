@@ -5,7 +5,7 @@ date: 2020-01-22 15:05:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31GuUlFHNPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5TON3O-es NYX Professional Makeup Base de maquillaje Total Control...'
 sku: 'B01N5TON3O-es'
 tags: [  ]

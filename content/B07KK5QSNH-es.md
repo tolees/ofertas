@@ -5,7 +5,7 @@ date: 2020-10-12 13:53:39
 image: 'https://m.media-amazon.com/images/I/41Eb1s5OvBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK5QSNH-es Saucony Jazz Original Vitnage Zapatillas para Hombre Verde...'
 sku: 'B07KK5QSNH-es'
 tags: [  ]

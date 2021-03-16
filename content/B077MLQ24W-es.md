@@ -5,7 +5,7 @@ date: 2020-06-06 18:03:17
 image: 'https://m.media-amazon.com/images/I/31CtiC1XhuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MLQ24W-es PUMA Smash WNS V2 L Zapatillas para Mujer Blanco White...'
 sku: 'B077MLQ24W-es'
 tags: [  ]

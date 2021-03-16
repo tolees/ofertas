@@ -5,7 +5,7 @@ date: 2020-02-21 19:46:29
 image: 'https://m.media-amazon.com/images/I/41Btyw5dSbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KUX5ELQ-es Reebok Cuerda Saltar'
 sku: 'B01KUX5ELQ-es'
 tags: [  ]

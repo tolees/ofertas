@@ -5,7 +5,7 @@ date: 2020-08-23 03:02:22
 image: 'https://m.media-amazon.com/images/I/51WPDxP2fnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHS5N3M-es Raid - Recambio para Difusor Eléctrico Anti Mosquitos...'
 sku: 'B07RHS5N3M-es'
 tags: [  ]

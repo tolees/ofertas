@@ -5,7 +5,7 @@ date: 2020-03-28 08:43:40
 image: 'https://m.media-amazon.com/images/I/31EPyq3jRHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000W9FS2Y-es Revlon Pintalabios Lustrous Fire & Ice 720 4.2 gr'
 sku: 'B000W9FS2Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-11 14:21:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416g0dIXKNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7V8QLR-es TACKLIFE-GLB01A-DC Aspirador-soplador'
 sku: 'B07D7V8QLR-es'
 tags: [  ]

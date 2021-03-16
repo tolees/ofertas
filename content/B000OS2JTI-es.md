@@ -5,7 +5,7 @@ date: 2020-09-13 12:45:42
 image: 'https://m.media-amazon.com/images/I/413jTgMv82L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OS2JTI-es Kärcher Presostato electrónico 6.997-357.0'
 sku: 'B000OS2JTI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 18:34:28
 image: 'https://m.media-amazon.com/images/I/51nzWPdEOWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJ2LD14-es UniqueMe Funda para Huawei Mate 20 Pro Ultra [Slim Thin]...'
 sku: 'B07KJ2LD14-es'
 tags: [  ]

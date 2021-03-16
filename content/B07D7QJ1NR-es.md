@@ -5,7 +5,7 @@ date: 2020-01-24 10:33:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31FmwDZYmpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7QJ1NR-es Ecco Crepetray Hybrid M Botas Militar para Hombre Negro...'
 sku: 'B07D7QJ1NR-es'
 tags: [  ]

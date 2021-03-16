@@ -5,7 +5,7 @@ date: 2020-02-05 12:51:19
 image: 'https://m.media-amazon.com/images/I/41Q83HbJr3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WRQQLCN-es Tijeras de Cocina de Alta Resistencia – Galardonadas como...'
 sku: 'B06WRQQLCN-es'
 tags: [  ]

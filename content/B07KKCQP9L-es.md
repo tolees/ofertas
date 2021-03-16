@@ -5,7 +5,7 @@ date: 2020-04-23 16:55:07
 image: 'https://m.media-amazon.com/images/I/51bnrl2KOOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKCQP9L-es Lifewit Mochila Nevera Flexible Bolsa de Compra...'
 sku: 'B07KKCQP9L-es'
 tags: [  ]

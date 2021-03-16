@@ -5,7 +5,7 @@ date: 2020-01-10 07:26:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZNkYfeoxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ5P7ZF-es adidas Superstar El I Zapatillas de Deporte Unisex niño...'
 sku: 'B07JZ5P7ZF-es'
 tags: [  ]

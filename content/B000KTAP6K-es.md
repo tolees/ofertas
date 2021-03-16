@@ -5,7 +5,7 @@ date: 2020-04-01 21:08:58
 image: 'https://m.media-amazon.com/images/I/31TTPXzFbAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KTAP6K-es Edding 212342 - Marcador con punta cónica color azul'
 sku: 'B000KTAP6K-es'
 tags: [  ]

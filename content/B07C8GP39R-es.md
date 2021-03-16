@@ -5,7 +5,7 @@ date: 2020-08-25 20:53:05
 image: 'https://m.media-amazon.com/images/I/41-HaEKipuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C8GP39R-es isYoung Comedero Automático 5.5 L de Alimentos para...'
 sku: 'B07C8GP39R-es'
 tags: [  ]

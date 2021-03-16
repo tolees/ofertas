@@ -5,7 +5,7 @@ date: 2020-01-16 21:40:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51txQ8onSqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ML5H3X3-es Gratlin Cinturón de Maternidad Embarazada y Extensor de...'
 sku: 'B07ML5H3X3-es'
 tags: [  ]

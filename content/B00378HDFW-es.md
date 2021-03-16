@@ -5,7 +5,7 @@ date: 2020-02-08 16:49:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31P6eycbrzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00378HDFW-es L Oréal Paris Barra de Labios Color Riche Creme 302 Bois...'
 sku: 'B00378HDFW-es'
 tags: [  ]

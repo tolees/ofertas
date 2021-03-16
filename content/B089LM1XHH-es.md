@@ -5,7 +5,7 @@ date: 2020-09-07 08:08:12
 image: 'https://m.media-amazon.com/images/I/31whcrFHZ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089LM1XHH-es Firoya 50pcs Lila Triple Capa Transpirable Cómodo para la...'
 sku: 'B089LM1XHH-es'
 tags: [  ]

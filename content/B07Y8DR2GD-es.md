@@ -5,7 +5,7 @@ date: 2020-07-31 20:02:47
 image: 'https://m.media-amazon.com/images/I/41BxsxqLEqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8DR2GD-es Gioseppo Deming Zapatillas para Niñas Multicolor...'
 sku: 'B07Y8DR2GD-es'
 tags: [  ]

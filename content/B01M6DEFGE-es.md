@@ -5,7 +5,7 @@ date: 2020-07-06 21:48:52
 image: 'https://m.media-amazon.com/images/I/41jZHkNPGLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6DEFGE-es Vans UA ISO 2 Zapatillas para Hombre Azul Prime 40 EU'
 sku: 'B01M6DEFGE-es'
 tags: [  ]

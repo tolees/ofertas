@@ -5,7 +5,7 @@ date: 2020-02-07 18:31:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BMIVsZNmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMRRB6S-es Adidas Terrex AX2R CP K Zapatillas de Senderismo Unisex...'
 sku: 'B07FMRRB6S-es'
 tags: [  ]

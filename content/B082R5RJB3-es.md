@@ -5,7 +5,7 @@ date: 2021-03-16 15:02:37
 image: 'https://m.media-amazon.com/images/I/31hHie8SuEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082R5RJB3-es Nike MD Valiant TDV Sneaker Black/White 21 EU'
 sku: 'B082R5RJB3-es'
 tags: [ 'nike', ]
@@ -28,8 +28,8 @@ En este momento está [Nike MD Valiant  TDV   Sneaker  Black/White  21 EU](https
 
 🔎:
 
-- Outer material: sintético
 - Tipo de cierre: Cordones
+- Outer material: sintético
 - Closure: cordones
 - Sole material: caucho
 - Lining: synthetic

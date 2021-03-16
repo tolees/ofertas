@@ -5,7 +5,7 @@ date: 2020-03-03 16:32:43
 image: 'https://m.media-amazon.com/images/I/51gW4mZ2hWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXHM0SQ-es Oral-B Genius 8900 – Cepillo de dientes eléctrico con 2ª...'
 sku: 'B01MXHM0SQ-es'
 tags: [  ]

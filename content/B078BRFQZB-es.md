@@ -5,7 +5,7 @@ date: 2020-01-15 03:23:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Jgz0GSCWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BRFQZB-es L Óreal Paris Barra de Labios Color Riche Shine Tono...'
 sku: 'B078BRFQZB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 22:12:03
 image: 'https://m.media-amazon.com/images/I/31qy8DBB9kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ8J69S-es IPOTCH Toy Magic Iron Memory Memory Shaped Memory Wire...'
 sku: 'B07TQ8J69S-es'
 tags: [  ]

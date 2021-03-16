@@ -5,7 +5,7 @@ date: 2020-01-08 07:22:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZAh81iX7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VK4H3R-es Icons Corner Pack 4 sillas Negro IMS Modelo Eiffel Patas...'
 sku: 'B082VK4H3R-es'
 tags: [  ]

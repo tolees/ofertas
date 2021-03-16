@@ -5,7 +5,7 @@ date: 2020-03-29 16:45:11
 image: 'https://m.media-amazon.com/images/I/41e0RK-2M1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMLPFFK-es Napapijri Damavand V suéter Azul French Blue BB7 XXX-Large...'
 sku: 'B07MMLPFFK-es'
 tags: [  ]

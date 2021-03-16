@@ -5,7 +5,7 @@ date: 2020-07-15 10:54:49
 image: 'https://m.media-amazon.com/images/I/31y7F2VGUxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MJHTPG-es PUMA Smash V2 L Zapatillas Unisex-Adulto Blanco White...'
 sku: 'B077MJHTPG-es'
 tags: [  ]

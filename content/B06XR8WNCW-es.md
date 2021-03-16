@@ -5,7 +5,7 @@ date: 2020-01-03 11:21:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418GvrPTAlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XR8WNCW-es Precision'
 sku: 'B06XR8WNCW-es'
 tags: [  ]

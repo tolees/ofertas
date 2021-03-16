@@ -5,7 +5,7 @@ date: 2020-06-28 08:57:11
 image: 'https://m.media-amazon.com/images/I/51YHtaA7n1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNQCFMM-es Leabags - Cuaderno de notas 68 páginas 9 x 14 cm'
 sku: 'B07CNQCFMM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 07:58:53
 image: 'https://m.media-amazon.com/images/I/31Jgf11SahL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3NGN7J-es Eastpak Springer Riñonera 23 cm 2 L Naranja Blakout Upcoming'
 sku: 'B07X3NGN7J-es'
 tags: [  ]

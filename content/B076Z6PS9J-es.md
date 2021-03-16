@@ -5,7 +5,7 @@ date: 2020-04-04 13:18:24
 image: 'https://m.media-amazon.com/images/I/51ETz97e-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076Z6PS9J-es knowing 100MM Blanco Corazón Madera Rodajas Discos para...'
 sku: 'B076Z6PS9J-es'
 tags: [  ]

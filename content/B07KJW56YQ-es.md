@@ -5,7 +5,7 @@ date: 2020-04-28 15:46:32
 image: 'https://m.media-amazon.com/images/I/31QNibP9pAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJW56YQ-es LoveOlvidoE Soporte de plástico para Almacenamiento de...'
 sku: 'B07KJW56YQ-es'
 tags: [  ]

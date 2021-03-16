@@ -5,7 +5,7 @@ date: 2020-10-05 02:55:54
 image: 'https://m.media-amazon.com/images/I/31mW-YiCjeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2SHWVQ-es Asics Gel-Contend 5 SL Walking Shoe Mens Black/Graphite...'
 sku: 'B07L2SHWVQ-es'
 tags: [  ]

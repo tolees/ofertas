@@ -5,7 +5,7 @@ date: 2020-05-23 12:17:54
 image: 'https://m.media-amazon.com/images/I/41RyN83um0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001B0XG6I-es Merrell Intercept Zapatillas para Hombre Marrón Moth Brown...'
 sku: 'B001B0XG6I-es'
 tags: [  ]

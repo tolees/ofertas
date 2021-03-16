@@ -5,7 +5,7 @@ date: 2020-04-30 09:06:09
 image: 'https://m.media-amazon.com/images/I/41wVUbAZA3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFYZK57-es Under Armour Armour Fly Fast Tight Pantalones...'
 sku: 'B07RFYZK57-es'
 tags: [  ]

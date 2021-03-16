@@ -5,7 +5,7 @@ date: 2020-07-02 17:54:26
 image: 'https://m.media-amazon.com/images/I/51wvjjnTpwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQ7NH4H-es Edge Entertainment- Hellboy: el Juego de Tablero Color...'
 sku: 'B07VQ7NH4H-es'
 tags: [  ]

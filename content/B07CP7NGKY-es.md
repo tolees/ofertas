@@ -5,7 +5,7 @@ date: 2020-07-10 21:11:21
 image: 'https://m.media-amazon.com/images/I/41xPY1C-9LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CP7NGKY-es Relaxdays - Aspersor Riego Regulable 78 metros cuadrados...'
 sku: 'B07CP7NGKY-es'
 tags: [  ]

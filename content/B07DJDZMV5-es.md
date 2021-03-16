@@ -5,7 +5,7 @@ date: 2020-09-28 10:45:50
 image: 'https://m.media-amazon.com/images/I/31SHBM-cd9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJDZMV5-es Tommy Hilfiger K1285esha 6d Zapatillas para Niñas Azul...'
 sku: 'B07DJDZMV5-es'
 tags: [  ]

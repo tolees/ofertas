@@ -5,7 +5,7 @@ date: 2020-08-31 21:27:37
 image: 'https://m.media-amazon.com/images/I/41Sm58+wDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J2WMRK9-es Bosch MSM89160 MaxoMixx Batidora de Mano Con 3 accesorios...'
 sku: 'B07J2WMRK9-es'
 tags: [  ]

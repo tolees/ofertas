@@ -5,7 +5,7 @@ date: 2020-01-06 20:04:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AArF2EyCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VVMMFM-es Desigual - Bols_brilli Cuenca Shoppers y bolsos de hombro...'
 sku: 'B079VVMMFM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 18:54:46
 image: 'https://m.media-amazon.com/images/I/51DXMOuBYKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GCY49KZ-es JARNING Fundas para Xiaomi Redmi 9C Cuero Flip Leather...'
 sku: 'B08GCY49KZ-es'
 tags: [  ]

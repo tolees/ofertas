@@ -5,7 +5,7 @@ date: 2020-07-24 12:28:15
 image: 'https://m.media-amazon.com/images/I/21dlFp8Ok6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088HBB4CX-es NHOUYAO 2pcs Hueso de Papel Manualidades Carpeta para la...'
 sku: 'B088HBB4CX-es'
 tags: [  ]

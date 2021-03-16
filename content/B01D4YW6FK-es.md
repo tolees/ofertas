@@ -5,7 +5,7 @@ date: 2020-10-03 21:31:01
 image: 'https://m.media-amazon.com/images/I/41CcDmQxJDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D4YW6FK-es Orbegozo TF 0144 Ventilador de sobremesa 50 W Color negro'
 sku: 'B01D4YW6FK-es'
 tags: [  ]

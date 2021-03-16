@@ -5,7 +5,7 @@ date: 2020-09-06 14:45:09
 image: 'https://m.media-amazon.com/images/I/51aIyI+O-yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3LYC5H-es LUDILO- Grabolo Educativo Mesa para niños Agilidad Mental...'
 sku: 'B07X3LYC5H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 17:32:28
 image: 'https://m.media-amazon.com/images/I/41w3pM1XjmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WIGQL2-es Estee Lauder 18305 - Base de maquillaje 4N1 Shell Beige'
 sku: 'B000WIGQL2-es'
 tags: [  ]

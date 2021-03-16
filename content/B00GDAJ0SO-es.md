@@ -5,7 +5,7 @@ date: 2020-02-10 19:31:27
 image: 'https://m.media-amazon.com/images/I/4147H9DFqDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GDAJ0SO-es YAZILIND Joyería Hecha a Mano con Encanto étnica de Plata...'
 sku: 'B00GDAJ0SO-es'
 tags: [  ]

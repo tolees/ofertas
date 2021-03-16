@@ -5,7 +5,7 @@ date: 2020-05-25 08:11:52
 image: 'https://m.media-amazon.com/images/I/31kD8jOm3gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3ZD5K4-es 10XDIEZ Relleno COJIN 2 Unidades - Relleno Suave y...'
 sku: 'B07H3ZD5K4-es'
 tags: [  ]

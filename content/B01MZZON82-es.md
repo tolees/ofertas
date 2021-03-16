@@ -5,7 +5,7 @@ date: 2020-04-05 18:15:35
 image: 'https://m.media-amazon.com/images/I/51a3S0B-x2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZZON82-es shenky - Gorro caído - Diseño Vintage - Fantasía 2 - Talla...'
 sku: 'B01MZZON82-es'
 tags: [  ]

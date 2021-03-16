@@ -5,7 +5,7 @@ date: 2020-03-28 23:38:37
 image: 'https://m.media-amazon.com/images/I/41Xeh1K0tfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SM8YSGQ-es Auriculares inalámbricos Tribit FlyBuds - 5.0 Auriculares...'
 sku: 'B07SM8YSGQ-es'
 tags: [  ]

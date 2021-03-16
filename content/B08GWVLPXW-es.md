@@ -5,7 +5,7 @@ date: 2020-09-23 12:24:34
 image: 'https://m.media-amazon.com/images/I/41svulRR7HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GWVLPXW-es Aerku Cámara Trasera Lente Protector de Pantalla para...'
 sku: 'B08GWVLPXW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-11 11:01:48
 image: 'https://m.media-amazon.com/images/I/41ZuO-FgebL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076MQBZ2L-es Cooler Master Hyper H412R - Ventilador CPU Cooler Aire...'
 sku: 'B076MQBZ2L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 20:02:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41V25dAWpJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081MXYGQD-es Masajeador 10 Modos de Vibración Silicona Masajeador...'
 sku: 'B081MXYGQD-es'
 tags: [  ]

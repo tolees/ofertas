@@ -5,7 +5,7 @@ date: 2020-04-16 16:30:07
 image: 'https://m.media-amazon.com/images/I/41IM3zo-XUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVWVXXH-es FITTOO Pantalones Cortos Capris 3/4 Leggings Mujer Mallas...'
 sku: 'B07SVWVXXH-es'
 tags: [  ]

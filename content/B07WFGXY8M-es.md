@@ -5,7 +5,7 @@ date: 2020-08-12 08:03:59
 image: 'https://m.media-amazon.com/images/I/51ZoPuvT8vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFGXY8M-es Bandolera Pequeña Pepe Jeans Irvin'
 sku: 'B07WFGXY8M-es'
 tags: [  ]

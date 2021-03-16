@@ -5,7 +5,7 @@ date: 2020-09-05 12:26:30
 image: 'https://m.media-amazon.com/images/I/316O1LPZloL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007PA9IAQ-es Elli Pendientes Círculo de damas Geo Trend básico en plata...'
 sku: 'B007PA9IAQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 12:26:22
 image: 'https://m.media-amazon.com/images/I/41+8jqlNmkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTM5MGD-es NAME IT Nkmtheo Dnmclas 2082 Pant Noos Jeans Azul Medium...'
 sku: 'B07CTM5MGD-es'
 tags: [  ]

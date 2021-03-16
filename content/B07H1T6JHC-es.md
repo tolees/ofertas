@@ -5,7 +5,7 @@ date: 2020-03-01 11:02:41
 image: 'https://m.media-amazon.com/images/I/41BoMJteiVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H1T6JHC-es ORNARTO Funda Huawei Mate 20 Lite Mate 20 Lite Carcasa...'
 sku: 'B07H1T6JHC-es'
 tags: [  ]

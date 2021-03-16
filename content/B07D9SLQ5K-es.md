@@ -5,7 +5,7 @@ date: 2020-09-21 20:33:45
 image: 'https://m.media-amazon.com/images/I/41rgfL-D-gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9SLQ5K-es Levi s Graphic Po Hoodie-B Capucha Gris Hm Pop Oscuro Mid...'
 sku: 'B07D9SLQ5K-es'
 tags: [  ]

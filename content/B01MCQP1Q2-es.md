@@ -5,7 +5,7 @@ date: 2020-04-08 10:56:25
 image: 'https://m.media-amazon.com/images/I/51Ra1pDuAgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MCQP1Q2-es Tesa 77767-00001-00 77767-00001-00-Smart Mounting System...'
 sku: 'B01MCQP1Q2-es'
 tags: [  ]

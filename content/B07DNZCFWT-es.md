@@ -5,7 +5,7 @@ date: 2020-01-22 14:53:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31hoMOlMXNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNZCFWT-es Termómetro Digital Frente y Oído 4 in 1 Termómetro...'
 sku: 'B07DNZCFWT-es'
 tags: [  ]

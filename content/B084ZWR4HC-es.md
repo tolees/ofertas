@@ -5,7 +5,7 @@ date: 2020-03-26 11:39:57
 image: 'https://m.media-amazon.com/images/I/31oWIpZEJeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZWR4HC-es Juego de 3 pizarras magnéticas Adhesivas 40 x 5 5 cm con 9...'
 sku: 'B084ZWR4HC-es'
 tags: [  ]

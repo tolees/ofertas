@@ -5,7 +5,7 @@ date: 2020-05-31 16:04:27
 image: 'https://m.media-amazon.com/images/I/51SIuO3SENL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9WZL2W-es Wimypet Refuerzo de Coche para Perros Fundas de Asiento de...'
 sku: 'B07H9WZL2W-es'
 tags: [  ]

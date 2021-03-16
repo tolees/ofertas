@@ -5,7 +5,7 @@ date: 2020-03-16 13:49:53
 image: 'https://m.media-amazon.com/images/I/41mU8ePexfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XO22BOY-es Zentrum Gastrocap con Aloe Vera Propóleo y Papaina - 30...'
 sku: 'B00XO22BOY-es'
 tags: [  ]

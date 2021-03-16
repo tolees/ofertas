@@ -5,7 +5,7 @@ date: 2020-09-02 18:16:37
 image: 'https://m.media-amazon.com/images/I/411uH3l6FeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZL78LD-es Polti Vaporella Simply VS20.20 Plancha Generadora de Vapor...'
 sku: 'B07FZL78LD-es'
 tags: [  ]

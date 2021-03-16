@@ -5,7 +5,7 @@ date: 2020-04-12 00:32:03
 image: 'https://m.media-amazon.com/images/I/41UXCzgD5SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XY7VCVC-es Melissa & Doug- Chef s Kitchen Color Charcoal Talla Única...'
 sku: 'B06XY7VCVC-es'
 tags: [  ]

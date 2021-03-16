@@ -5,7 +5,7 @@ date: 2020-06-24 10:19:44
 image: 'https://m.media-amazon.com/images/I/51hms3xGdlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WPR98W4-es Litthing Envoltorio Cera De Abeja Envoltorios de Alimentos...'
 sku: 'B07WPR98W4-es'
 tags: [  ]

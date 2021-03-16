@@ -5,7 +5,7 @@ date: 2020-07-22 03:52:43
 image: 'https://m.media-amazon.com/images/I/41w-bWg92vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYN141M-es Skechers Ultra Groove Pure Vision Zapatillas para Mujer...'
 sku: 'B07VYN141M-es'
 tags: [  ]

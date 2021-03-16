@@ -5,7 +5,7 @@ date: 2020-02-15 22:45:27
 image: 'https://m.media-amazon.com/images/I/41CApfT3zQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1B3N2F-es superfit Husky Botas de Nieve para Niñas Schwarz Rot 05 26 EU'
 sku: 'B07N1B3N2F-es'
 tags: [  ]

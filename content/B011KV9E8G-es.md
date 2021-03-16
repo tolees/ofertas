@@ -5,7 +5,7 @@ date: 2020-03-11 11:46:30
 image: 'https://m.media-amazon.com/images/I/31s9elTSbML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011KV9E8G-es Solac Pedi Active 8 - Aparato de pedicura'
 sku: 'B011KV9E8G-es'
 tags: [  ]

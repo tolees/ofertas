@@ -5,7 +5,7 @@ date: 2020-04-08 06:04:06
 image: 'https://m.media-amazon.com/images/I/51wYlWL9-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVY62FB-es Estuches Multicolor PRINCESAS'
 sku: 'B07NVY62FB-es'
 tags: [  ]

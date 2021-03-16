@@ -5,7 +5,7 @@ date: 2020-10-01 20:38:17
 image: 'https://m.media-amazon.com/images/I/41zprV9LfaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD1Q5J3-es PUMA ST Activate JR Zapatillas Unisex niños Rosa Bright...'
 sku: 'B07SD1Q5J3-es'
 tags: [  ]

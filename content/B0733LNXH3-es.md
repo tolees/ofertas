@@ -5,7 +5,7 @@ date: 2020-09-27 11:28:49
 image: 'https://m.media-amazon.com/images/I/51XkWyFWfDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0733LNXH3-es Wonder Woman [DVD]'
 sku: 'B0733LNXH3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-18 10:32:53
 image: 'https://m.media-amazon.com/images/I/41cU+f6WjxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W92BZZ1-es GLOBE Fusion Zapatillas de Skateboard para Hombre Marrón...'
 sku: 'B07W92BZZ1-es'
 tags: [  ]

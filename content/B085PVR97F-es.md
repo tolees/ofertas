@@ -5,7 +5,7 @@ date: 2020-05-14 06:09:44
 image: 'https://m.media-amazon.com/images/I/51jbEEJfOBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085PVR97F-es Bombilla H4 LED para Moto con Ojos de Angel 6400LM Moto...'
 sku: 'B085PVR97F-es'
 tags: [  ]

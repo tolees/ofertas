@@ -5,7 +5,7 @@ date: 2020-06-11 05:36:46
 image: 'https://m.media-amazon.com/images/I/31rILljiQKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019LZNP38-es Candy CDH30 Encimera Vitrocerámica Dominó Integrada 30 cm...'
 sku: 'B019LZNP38-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 08:46:09
 image: 'https://m.media-amazon.com/images/I/41XUNG0Fk-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMQ6J8G-es Telémetro láser 40m GALAX PRO Medidor Láser Precisión ±2...'
 sku: 'B07SMQ6J8G-es'
 tags: [  ]

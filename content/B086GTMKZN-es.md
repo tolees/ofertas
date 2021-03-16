@@ -5,7 +5,7 @@ date: 2020-05-19 17:35:37
 image: 'https://m.media-amazon.com/images/I/41MHJX-VylL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GTMKZN-es Oihxse Transparente Funda para Huawei Mate 8 Ultrafina...'
 sku: 'B086GTMKZN-es'
 tags: [  ]

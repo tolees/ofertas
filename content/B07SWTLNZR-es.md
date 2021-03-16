@@ -5,7 +5,7 @@ date: 2020-05-13 20:48:28
 image: 'https://m.media-amazon.com/images/I/41P1tLqzvSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWTLNZR-es adidas Terrex Agravic Flow GTX W Zapatillas de Cross para...'
 sku: 'B07SWTLNZR-es'
 tags: [  ]

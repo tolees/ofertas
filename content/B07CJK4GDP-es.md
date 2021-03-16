@@ -5,7 +5,7 @@ date: 2020-03-12 11:39:14
 image: 'https://m.media-amazon.com/images/I/51zA7u+HBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJK4GDP-es Juego de 12 pajitas de acero inoxidable pajitas metálicas...'
 sku: 'B07CJK4GDP-es'
 tags: [  ]

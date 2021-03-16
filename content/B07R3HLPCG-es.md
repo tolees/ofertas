@@ -5,7 +5,7 @@ date: 2020-08-24 07:08:31
 image: 'https://m.media-amazon.com/images/I/41h17Dl9-8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3HLPCG-es GeeRic Ventilador USB Mini Ventilador Deportivo Cuello...'
 sku: 'B07R3HLPCG-es'
 tags: [  ]

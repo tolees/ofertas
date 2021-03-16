@@ -5,7 +5,7 @@ date: 2020-09-19 14:09:14
 image: 'https://m.media-amazon.com/images/I/41oCVf4wcxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDLRH9J-es Salomon RX Slide 4.0 W Zapatillas de Trail Running para...'
 sku: 'B07RDLRH9J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-23 21:16:27
 image: 'https://m.media-amazon.com/images/I/41EBV--Nj3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6ZDX9C-es Rapesco Alu 40 - Perforadora de gruesos de 4 agujeros y 40...'
 sku: 'B01M6ZDX9C-es'
 tags: [  ]

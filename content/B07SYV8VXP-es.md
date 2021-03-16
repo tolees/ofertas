@@ -5,7 +5,7 @@ date: 2020-04-13 19:17:44
 image: 'https://m.media-amazon.com/images/I/41JjyDNTdqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYV8VXP-es Duérmete Online Duérmete Gran Confort-Colchón Muelles...'
 sku: 'B07SYV8VXP-es'
 tags: [  ]

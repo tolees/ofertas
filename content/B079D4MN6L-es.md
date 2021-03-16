@@ -5,7 +5,7 @@ date: 2020-05-27 18:32:51
 image: 'https://m.media-amazon.com/images/I/41AEUl4FeaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079D4MN6L-es Globe Tilt Zapatillas de Deporte para Hombre Multicolor...'
 sku: 'B079D4MN6L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-12 21:39:27
 image: 'https://m.media-amazon.com/images/I/312xFcBmvdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG52TC8-es PUMA Puma Turin II AC PS Zapatillas Unisex Niños Puma...'
 sku: 'B07KG52TC8-es'
 tags: [  ]

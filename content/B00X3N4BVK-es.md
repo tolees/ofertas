@@ -5,7 +5,7 @@ date: 2020-01-21 13:58:25
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X3N4BVK-es Optimum Nutrition Pro BCAA Suplemento para Deportistas...'
 sku: 'B00X3N4BVK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-17 18:08:48
 image: 'https://m.media-amazon.com/images/I/519qVsSK62L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9FYY9Z-es COREGA Acción total tabletas limpiadoras prótesis dentales...'
 sku: 'B06X9FYY9Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 13:55:25
 image: 'https://m.media-amazon.com/images/I/311mFi4gGpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009AQWJRC-es Essie Esmalte de Uñas Tono: 009 Vanity Fairest'
 sku: 'B009AQWJRC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 03:21:36
 image: 'https://m.media-amazon.com/images/I/41NvTtJt1WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKXC26X-es Memoria USB Universal de 64 GB Pen Drive Tipo C Micro USB...'
 sku: 'B07JKXC26X-es'
 tags: [  ]

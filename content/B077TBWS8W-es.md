@@ -5,7 +5,7 @@ date: 2020-01-03 18:09:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hrn2fpFuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TBWS8W-es Trespass unificar de la Mujer Manga Larga Top/Camiseta...'
 sku: 'B077TBWS8W-es'
 tags: [  ]

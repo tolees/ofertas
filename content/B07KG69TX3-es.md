@@ -5,7 +5,7 @@ date: 2020-03-29 12:38:00
 image: 'https://m.media-amazon.com/images/I/41n5-tXUJgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG69TX3-es PUMA Rebound Layup SD Fur Zapatillas Unisex Adulto Burnt...'
 sku: 'B07KG69TX3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 18:04:29
 image: 'https://m.media-amazon.com/images/I/41ZtX5cJmYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7GUPME-es adidas Gazelle Zapatillas Unisex Niños Negro Core...'
 sku: 'B01N7GUPME-es'
 tags: [  ]

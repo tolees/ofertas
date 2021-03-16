@@ -5,7 +5,7 @@ date: 2020-01-18 07:49:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LBIzbPtGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCJ849B-es Memoria USB 2GB 2.0 KOOTION Flash Drive USB Pendrives Pack...'
 sku: 'B07PCJ849B-es'
 tags: [  ]

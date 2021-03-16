@@ -5,7 +5,7 @@ date: 2020-04-08 18:55:40
 image: 'https://m.media-amazon.com/images/I/41CKz7Bo7cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002NBJGNG-es Lexmark 14N1069E - Cartucho tinta color cian'
 sku: 'B002NBJGNG-es'
 tags: [  ]

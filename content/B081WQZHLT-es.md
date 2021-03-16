@@ -5,7 +5,7 @@ date: 2020-02-03 11:05:25
 image: 'https://m.media-amazon.com/images/I/51Y+r2if4rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081WQZHLT-es Agenda Esther Gili 2020 Fondo Marino'
 sku: 'B081WQZHLT-es'
 tags: [  ]

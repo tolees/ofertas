@@ -5,7 +5,7 @@ date: 2020-09-14 15:53:52
 image: 'https://m.media-amazon.com/images/I/41EDQ4PcoPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BK54B8P-es Pendientes De Copo De Nieve Azul Claro y Crema Delicada de...'
 sku: 'B07BK54B8P-es'
 tags: [  ]

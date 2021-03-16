@@ -5,7 +5,7 @@ date: 2020-07-03 18:05:29
 image: 'https://m.media-amazon.com/images/I/41vQhj5zX-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DS2W6Y4-es Garnier Delial Niños Sensitive Advanced - Protector Solar...'
 sku: 'B01DS2W6Y4-es'
 tags: [  ]

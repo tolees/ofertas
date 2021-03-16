@@ -5,7 +5,7 @@ date: 2020-02-03 20:32:36
 image: 'https://m.media-amazon.com/images/I/41gokKUuLcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPPDZ3X-es ACANA Wild Prairie Comida para Gatos'
 sku: 'B06XPPDZ3X-es'
 tags: [  ]

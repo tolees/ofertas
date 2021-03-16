@@ -5,7 +5,7 @@ date: 2020-01-21 06:01:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ouvS7nlGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071SHLT36-es DC Shoes Heathrow Zapatillas para Mujer Rojo Burgundy 36 EU'
 sku: 'B071SHLT36-es'
 tags: [  ]

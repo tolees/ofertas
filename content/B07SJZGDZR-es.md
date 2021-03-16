@@ -5,7 +5,7 @@ date: 2020-01-19 08:54:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fy0y8-xLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJZGDZR-es adidas MTS Co Relax Tracksuit Hombre Active...'
 sku: 'B07SJZGDZR-es'
 tags: [  ]

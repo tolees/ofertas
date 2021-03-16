@@ -5,7 +5,7 @@ date: 2020-09-05 11:21:03
 image: 'https://m.media-amazon.com/images/I/41PDOIv8kkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJM7FLD-es Tapa de WC TACKLIFE TBTS03B Asiento de Inodoro en Forma de...'
 sku: 'B07ZJM7FLD-es'
 tags: [  ]

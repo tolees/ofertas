@@ -5,7 +5,7 @@ date: 2020-10-12 08:26:39
 image: 'https://m.media-amazon.com/images/I/31EhQE6baRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VTYLXS-es BIOTERRA Harina Almendra Ecológica Española Sin Gluten Sin...'
 sku: 'B082VTYLXS-es'
 tags: [  ]

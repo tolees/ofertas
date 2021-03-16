@@ -5,7 +5,7 @@ date: 2020-04-29 13:10:12
 image: 'https://m.media-amazon.com/images/I/41U3c7AajRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QCC3XZ-es Hewlett Packard CF543X - Tóner color Magenta'
 sku: 'B075QCC3XZ-es'
 tags: [  ]

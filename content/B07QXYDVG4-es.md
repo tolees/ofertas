@@ -5,7 +5,7 @@ date: 2020-02-22 11:29:13
 image: 'https://m.media-amazon.com/images/I/41FqOMVjXTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXYDVG4-es USB C a HDMI VGA Adaptador Tipo C 4K HDMI y 1080P VGA para...'
 sku: 'B07QXYDVG4-es'
 tags: [  ]

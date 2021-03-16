@@ -5,7 +5,7 @@ date: 2020-09-25 08:53:45
 image: 'https://m.media-amazon.com/images/I/418mgrjdZvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FC6PKRY-es Longspeed A5 Draw with Light Fun Tablero de Dibujo Tablero...'
 sku: 'B08FC6PKRY-es'
 tags: [  ]

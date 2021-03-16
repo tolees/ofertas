@@ -5,7 +5,7 @@ date: 2020-01-08 16:59:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51CMfvss-cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5OYIII-es keeeper Caja de Almacenaje con Tapa Cars 39 x 29 x 27 cm...'
 sku: 'B01N5OYIII-es'
 tags: [  ]

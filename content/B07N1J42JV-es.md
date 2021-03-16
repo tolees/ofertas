@@ -5,7 +5,7 @@ date: 2020-06-20 17:48:55
 image: 'https://m.media-amazon.com/images/I/31HSaCvbSgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1J42JV-es Superga 2750 COTU Classic Zapatillas Unisex Azul Blue...'
 sku: 'B07N1J42JV-es'
 tags: [  ]

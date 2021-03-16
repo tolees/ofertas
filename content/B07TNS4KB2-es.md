@@ -5,7 +5,7 @@ date: 2020-07-09 12:09:17
 image: 'https://m.media-amazon.com/images/I/412pur8ieTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNS4KB2-es Superdry Orange Label Cotton Crew suéter Verde Fresh Mint...'
 sku: 'B07TNS4KB2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-12 00:21:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51P-oyX5h8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01596GLHU-es Suéter de Gasolina Industrias FW15-KWC283 591 PROFUNDO de...'
 sku: 'B01596GLHU-es'
 tags: [  ]

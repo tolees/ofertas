@@ -5,7 +5,7 @@ date: 2020-10-10 15:05:01
 image: 'https://m.media-amazon.com/images/I/41oRcZnI31L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8LHC23-es Gliss - Champú Long&Sublime - 400ml - Schwarzkopf : pack...'
 sku: 'B07W8LHC23-es'
 tags: [  ]

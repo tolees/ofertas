@@ -5,7 +5,7 @@ date: 2020-06-03 18:31:24
 image: 'https://m.media-amazon.com/images/I/41PUwiUEY5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YPQ5T1R-es Aceite de Onagra 10% GLA + Vitamina E NAVIT PLUS | 200...'
 sku: 'B07YPQ5T1R-es'
 tags: [  ]

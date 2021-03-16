@@ -5,7 +5,7 @@ date: 2020-07-23 16:10:38
 image: 'https://m.media-amazon.com/images/I/41EBXsmwcdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHDZ3H2-es Fossil Pulsera de Hombre con Acero inoxidable Metal Cuero...'
 sku: 'B07ZHDZ3H2-es'
 tags: [  ]

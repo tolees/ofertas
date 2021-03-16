@@ -5,7 +5,7 @@ date: 2020-08-22 03:59:09
 image: 'https://m.media-amazon.com/images/I/41E46e4I90L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHC822P-es YQHbe Caja de Almacenamiento de M-á-scara Desechables...'
 sku: 'B08DHC822P-es'
 tags: [  ]

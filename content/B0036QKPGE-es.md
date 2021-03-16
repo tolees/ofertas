@@ -5,7 +5,7 @@ date: 2020-05-11 08:08:09
 image: 'https://m.media-amazon.com/images/I/41URzVcxceL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0036QKPGE-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene...'
 sku: 'B0036QKPGE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 08:01:20
 image: 'https://m.media-amazon.com/images/I/41ihenS3WgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4YB11D-es Smatree Funda protectora para tableta de 11 5 pulgadas...'
 sku: 'B07X4YB11D-es'
 tags: [  ]

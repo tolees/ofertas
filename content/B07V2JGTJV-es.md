@@ -5,7 +5,7 @@ date: 2020-04-02 14:44:01
 image: 'https://m.media-amazon.com/images/I/31v0kK3jGdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2JGTJV-es Max Factor Velvet Mattes Lipstick Tono 065 1 unidad 40 g'
 sku: 'B07V2JGTJV-es'
 tags: [  ]

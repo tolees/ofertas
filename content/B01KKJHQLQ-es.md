@@ -5,7 +5,7 @@ date: 2020-05-19 18:48:56
 image: 'https://m.media-amazon.com/images/I/41i9qD7hipL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KKJHQLQ-es HP 24o - Monitor Full HD de 24 1920x1080 panel TN 16:9...'
 sku: 'B01KKJHQLQ-es'
 tags: [  ]

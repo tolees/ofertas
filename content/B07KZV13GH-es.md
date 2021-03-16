@@ -5,7 +5,7 @@ date: 2020-08-30 23:25:09
 image: 'https://m.media-amazon.com/images/I/51K+WEpMwZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZV13GH-es kangyh Cinturón para el Vientre Combo Maternity Belly Band...'
 sku: 'B07KZV13GH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 15:59:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41v71t2tdWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079WRY8T4-es Assassin S Creed pp4101as Notebook'
 sku: 'B079WRY8T4-es'
 tags: [  ]

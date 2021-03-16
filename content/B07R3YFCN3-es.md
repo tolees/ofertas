@@ -5,7 +5,7 @@ date: 2020-05-20 15:40:22
 image: 'https://m.media-amazon.com/images/I/418igKkxXWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3YFCN3-es Meinkind Espejo Retrovisor Bebé para Vigilar al Bebé en...'
 sku: 'B07R3YFCN3-es'
 tags: [  ]

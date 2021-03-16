@@ -5,7 +5,7 @@ date: 2020-01-09 15:36:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bt10M5vEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M95FV4V-es Lee Scarlett Corduroy Pantalones Marfil Off White 26 28W /...'
 sku: 'B07M95FV4V-es'
 tags: [  ]

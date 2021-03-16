@@ -5,7 +5,7 @@ date: 2020-02-22 20:30:59
 image: 'https://m.media-amazon.com/images/I/51dAWiErpuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRWB1MT-es Los Sims 4 - Días de Universidad La caja contiene un...'
 sku: 'B07ZRWB1MT-es'
 tags: [  ]

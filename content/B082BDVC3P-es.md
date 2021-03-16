@@ -5,7 +5,7 @@ date: 2020-01-08 10:39:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OaI1fQVXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BDVC3P-es Icons Corner Pack de 2 sillones IMS con Patas de Madera y...'
 sku: 'B082BDVC3P-es'
 tags: [  ]

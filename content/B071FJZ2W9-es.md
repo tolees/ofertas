@@ -5,7 +5,7 @@ date: 2020-04-20 11:03:29
 image: 'https://m.media-amazon.com/images/I/41s7veuqepL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FJZ2W9-es QUEEN ROSE Tendedero Tipo Torre para Interior y Exterior...'
 sku: 'B071FJZ2W9-es'
 tags: [  ]

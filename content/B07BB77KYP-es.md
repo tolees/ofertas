@@ -5,7 +5,7 @@ date: 2020-04-20 11:38:20
 image: 'https://m.media-amazon.com/images/I/51qbrekpZeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB77KYP-es Vileda Colors Ondattiva milleusi 3 + 1 Esponja Multicolor...'
 sku: 'B07BB77KYP-es'
 tags: [  ]

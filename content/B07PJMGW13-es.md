@@ -5,7 +5,7 @@ date: 2020-08-29 08:21:21
 image: 'https://m.media-amazon.com/images/I/51x4doTLWNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJMGW13-es ADATA SD600Q - Disco Duro Externo de Estado sólido 480 GB...'
 sku: 'B07PJMGW13-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-13 12:43:34
 image: 'https://m.media-amazon.com/images/I/31w-4Fn2U+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K3C6GMG-es Legrand 050462 Bases y clavijas - Adaptador de enchufe con...'
 sku: 'B00K3C6GMG-es'
 tags: [  ]

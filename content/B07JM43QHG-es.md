@@ -5,7 +5,7 @@ date: 2020-09-20 16:44:15
 image: 'https://m.media-amazon.com/images/I/410X8GIPMtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM43QHG-es Lee Breese Pantalones para Mujer Azul Jaded Eu 33W / 33L'
 sku: 'B07JM43QHG-es'
 tags: [  ]

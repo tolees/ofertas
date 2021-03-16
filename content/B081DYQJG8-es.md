@@ -5,7 +5,7 @@ date: 2020-02-21 19:04:14
 image: 'https://m.media-amazon.com/images/I/41IFrszNbYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DYQJG8-es Yocktec Funda+Protector de Pantalla de la Cámara para...'
 sku: 'B081DYQJG8-es'
 tags: [  ]

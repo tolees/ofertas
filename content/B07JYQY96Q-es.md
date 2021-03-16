@@ -5,7 +5,7 @@ date: 2020-05-18 10:06:56
 image: 'https://m.media-amazon.com/images/I/31JOkVVHTbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYQY96Q-es Tommy Hilfiger TJM Tommy Classics Solid Polo Gris Lt Grey...'
 sku: 'B07JYQY96Q-es'
 tags: [  ]

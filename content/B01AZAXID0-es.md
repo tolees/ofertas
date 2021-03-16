@@ -5,7 +5,7 @@ date: 2020-03-18 04:18:01
 image: 'https://m.media-amazon.com/images/I/41zZf+jVJWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AZAXID0-es Estee Lauder Mascarilla Facial Advanced Night Repair 4 Sheets'
 sku: 'B01AZAXID0-es'
 tags: [  ]

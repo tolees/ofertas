@@ -5,7 +5,7 @@ date: 2020-07-01 08:31:06
 image: 'https://m.media-amazon.com/images/I/41Jg3DOgCcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KZCXMN-es Riñonera Pepe Jeans Sail Pequeña Negro'
 sku: 'B083KZCXMN-es'
 tags: [  ]

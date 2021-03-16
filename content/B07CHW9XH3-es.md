@@ -5,7 +5,7 @@ date: 2020-01-28 20:03:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IikPh%2BYoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHW9XH3-es Lorus Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07CHW9XH3-es'
 tags: [  ]

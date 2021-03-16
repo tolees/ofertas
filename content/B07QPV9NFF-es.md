@@ -5,7 +5,7 @@ date: 2020-09-27 23:04:34
 image: 'https://m.media-amazon.com/images/I/31-Fd99HEZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPV9NFF-es JETech Funda Compatible iPad Air 10 5 3ª Generación 2019 y...'
 sku: 'B07QPV9NFF-es'
 tags: [  ]

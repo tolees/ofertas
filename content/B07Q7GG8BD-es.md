@@ -5,7 +5,7 @@ date: 2020-02-11 08:50:39
 image: 'https://m.media-amazon.com/images/I/41N7Z3K77vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q7GG8BD-es Umi. Essentials - Auriculares de botón inalámbricos TWS W9...'
 sku: 'B07Q7GG8BD-es'
 tags: [  ]

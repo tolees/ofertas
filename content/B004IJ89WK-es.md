@@ -5,7 +5,7 @@ date: 2020-09-24 11:09:42
 image: 'https://m.media-amazon.com/images/I/41XNOdkqY1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004IJ89WK-es Nike Cortez Basic SL GS Zapatillas de Deporte Unisex...'
 sku: 'B004IJ89WK-es'
 tags: [  ]

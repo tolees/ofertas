@@ -5,7 +5,7 @@ date: 2020-08-31 11:08:59
 image: 'https://m.media-amazon.com/images/I/412i2XeQRbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BYG3OSE-es Nike T-Lite Xi Zapatillas Hombre Negro Black 38.5'
 sku: 'B00BYG3OSE-es'
 tags: [  ]

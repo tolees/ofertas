@@ -5,7 +5,7 @@ date: 2020-08-22 21:17:12
 image: 'https://m.media-amazon.com/images/I/5151MXriJnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C7GJ1YS-es Estuche rígido para Sony Wh-CH510 / Sony WH-CH500...'
 sku: 'B08C7GJ1YS-es'
 tags: [  ]

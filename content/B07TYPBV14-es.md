@@ -5,7 +5,7 @@ date: 2020-04-28 17:46:10
 image: 'https://m.media-amazon.com/images/I/51EahNFWcyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYPBV14-es Rodillo de cocina de acero inoxidable Palo de amasar para...'
 sku: 'B07TYPBV14-es'
 tags: [  ]

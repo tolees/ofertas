@@ -5,7 +5,7 @@ date: 2020-06-25 23:13:49
 image: 'https://m.media-amazon.com/images/I/41bvdF-O+7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R86NMFN-es JAIMIE JACOBS Cartera Hombre Nano Boy Cartera Minimalista...'
 sku: 'B07R86NMFN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 11:45:16
 image: 'https://m.media-amazon.com/images/I/41Rt6W-DwzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVHRWNM-es Kipling - Creativity Xl Monederos Mujer Morado Dark Plum...'
 sku: 'B07MVHRWNM-es'
 tags: [  ]

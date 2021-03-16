@@ -5,7 +5,7 @@ date: 2020-03-22 04:08:56
 image: 'https://m.media-amazon.com/images/I/41gWafUIpBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001KS67KS-es Vans Authentic Zapatillas de Tela Unisex Rojo Red 35 EU'
 sku: 'B001KS67KS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 19:17:40
 image: 'https://m.media-amazon.com/images/I/51ViicvfwtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HX25ZT6-es BELL Casco Integral Sanction MTB Unisex Adulto Color Nitro...'
 sku: 'B07HX25ZT6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 12:01:55
 image: 'https://m.media-amazon.com/images/I/317xjd123QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079HSGZVW-es Bestron Refrigerador/Purificador móvil con Mando a...'
 sku: 'B079HSGZVW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 10:28:17
 image: 'https://m.media-amazon.com/images/I/51oCkheJ9RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08739NJCX-es Anillo de Luz LED Fotografia de Escritorio 8" Ring Light...'
 sku: 'B08739NJCX-es'
 tags: [  ]

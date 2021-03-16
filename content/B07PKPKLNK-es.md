@@ -5,7 +5,7 @@ date: 2020-03-29 14:46:30
 image: 'https://m.media-amazon.com/images/I/41JV8qeEZGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKPKLNK-es Fiambrera de silicona Juego de 4 PCS de Recipientes de...'
 sku: 'B07PKPKLNK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-08 14:01:53
 image: 'https://m.media-amazon.com/images/I/31MQEj5PTIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004OIJUHS-es Mirak - Zapatillas/Zapatos sin Cordones Estilo Marinero...'
 sku: 'B004OIJUHS-es'
 tags: [  ]

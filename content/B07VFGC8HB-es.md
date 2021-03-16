@@ -5,7 +5,7 @@ date: 2020-07-03 14:34:21
 image: 'https://m.media-amazon.com/images/I/41QpYrNyFSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFGC8HB-es Napapijri Elbas 3 Polo Rosa Petal Pink P841 L para Hombre'
 sku: 'B07VFGC8HB-es'
 tags: [  ]

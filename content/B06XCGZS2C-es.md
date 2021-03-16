@@ -5,7 +5,7 @@ date: 2020-06-13 08:20:48
 image: 'https://m.media-amazon.com/images/I/41dEHcFtYoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCGZS2C-es Tommy Hilfiger Corte Regular Tanga de Malla Transparente...'
 sku: 'B06XCGZS2C-es'
 tags: [  ]

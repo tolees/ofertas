@@ -5,7 +5,7 @@ date: 2020-03-30 07:45:41
 image: 'https://m.media-amazon.com/images/I/41NgTTziduL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B7GOI9K-es Eukanuba Adulto Raza pequeña y mediana Rico en cordero y...'
 sku: 'B00B7GOI9K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-14 20:17:13
 image: 'https://m.media-amazon.com/images/I/31797ivqLcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081J8SFR1-es adidas Con20 TR Pnt Pantalones de Deporte Hombre...'
 sku: 'B081J8SFR1-es'
 tags: [  ]

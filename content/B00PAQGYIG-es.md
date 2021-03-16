@@ -5,7 +5,7 @@ date: 2020-06-24 15:48:27
 image: 'https://m.media-amazon.com/images/I/41vNQdKfmQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PAQGYIG-es Pioneer DEH-8700BT DEH-8700BT-Autorradio Multicolor'
 sku: 'B00PAQGYIG-es'
 tags: [  ]

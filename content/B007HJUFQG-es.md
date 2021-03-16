@@ -5,7 +5,7 @@ date: 2020-05-08 19:58:55
 image: 'https://m.media-amazon.com/images/I/31NN0BQIjUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007HJUFQG-es Bloom - Gin Premium London Dry gin 70 C3'
 sku: 'B007HJUFQG-es'
 tags: [  ]

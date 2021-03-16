@@ -5,7 +5,7 @@ date: 2020-07-06 10:24:29
 image: 'https://m.media-amazon.com/images/I/41Kn6+afRqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5VDBJ6-es HUGO - Record ns Zip Bolsa de tela y playa Hombre Azul...'
 sku: 'B07V5VDBJ6-es'
 tags: [  ]

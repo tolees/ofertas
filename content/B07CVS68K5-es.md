@@ -5,7 +5,7 @@ date: 2020-09-08 19:15:06
 image: 'https://m.media-amazon.com/images/I/318uEifw+pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVS68K5-es Aukey - Cargador USB C de 30 W cargador rápido portátil...'
 sku: 'B07CVS68K5-es'
 tags: [  ]

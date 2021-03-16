@@ -5,7 +5,7 @@ date: 2020-04-12 19:02:14
 image: 'https://m.media-amazon.com/images/I/316YdTw4m2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082CV93BS-es 50 Ml Perfume De Mujer Elegante Original Fragancia De...'
 sku: 'B082CV93BS-es'
 tags: [  ]

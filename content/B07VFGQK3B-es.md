@@ -5,7 +5,7 @@ date: 2020-09-04 18:25:19
 image: 'https://m.media-amazon.com/images/I/31JAer6YcsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFGQK3B-es EXTRASTAR Repetidor WiFi 300Mbps Extensor de Red WiFi...'
 sku: 'B07VFGQK3B-es'
 tags: [  ]

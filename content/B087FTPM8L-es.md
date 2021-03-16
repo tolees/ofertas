@@ -5,7 +5,7 @@ date: 2020-07-06 19:46:03
 image: 'https://m.media-amazon.com/images/I/414o9xI929L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087FTPM8L-es househome Piscina Inflable para Niños Bebé Casa De Adultos...'
 sku: 'B087FTPM8L-es'
 tags: [  ]

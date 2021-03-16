@@ -5,7 +5,7 @@ date: 2020-06-16 09:33:40
 image: 'https://m.media-amazon.com/images/I/41IPM7PXF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KNWFWFY-es adidas Fit 2pc 3s Traje de Baño Mujer Negro Black 32'
 sku: 'B07KNWFWFY-es'
 tags: [  ]

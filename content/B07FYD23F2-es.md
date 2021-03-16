@@ -5,7 +5,7 @@ date: 2020-01-21 18:58:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uQ-EVuJQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYD23F2-es Champion The Absolute Workout Sujetador Deportivo Blanc...'
 sku: 'B07FYD23F2-es'
 tags: [  ]

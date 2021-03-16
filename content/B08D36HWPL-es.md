@@ -5,7 +5,7 @@ date: 2020-08-26 09:03:56
 image: 'https://m.media-amazon.com/images/I/51+BVHjDUyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D36HWPL-es Funda Xiaomi Redmi Note 8T 360 Grados Full Body Antishock...'
 sku: 'B08D36HWPL-es'
 tags: [  ]

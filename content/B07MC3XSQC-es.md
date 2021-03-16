@@ -5,7 +5,7 @@ date: 2020-08-26 05:08:36
 image: 'https://m.media-amazon.com/images/I/51Z5NyulUML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC3XSQC-es Taladro Atornillador 2 Baterías GOXAWEE 100Pcs Kit Taladro...'
 sku: 'B07MC3XSQC-es'
 tags: [  ]

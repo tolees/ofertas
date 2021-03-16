@@ -5,7 +5,7 @@ date: 2020-06-23 09:02:27
 image: 'https://m.media-amazon.com/images/I/414HoDILKzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF8WP3W-es Levi s 502 Regular Taper Jeans Azul Cedar Light Mid Overt...'
 sku: 'B07LF8WP3W-es'
 tags: [  ]

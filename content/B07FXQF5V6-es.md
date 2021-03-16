@@ -5,7 +5,7 @@ date: 2020-03-09 17:33:16
 image: 'https://m.media-amazon.com/images/I/41nOTsQ1aEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXQF5V6-es Vans Ward Canvas Zapatillas para Hombre Azul Checkerboard...'
 sku: 'B07FXQF5V6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-12 16:23:06
 image: 'https://m.media-amazon.com/images/I/414VHX+64vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HXBROLC-es Fujifilm XF 56 mm f:1.2 R - Objetivo para Fujifilm X...'
 sku: 'B00HXBROLC-es'
 tags: [  ]

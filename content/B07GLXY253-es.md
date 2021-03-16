@@ -5,7 +5,7 @@ date: 2020-09-28 18:00:37
 image: 'https://m.media-amazon.com/images/I/31tKNLU-dqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLXY253-es Tile Pro con pila reemplazable - Buscador de llaves....'
 sku: 'B07GLXY253-es'
 tags: [  ]

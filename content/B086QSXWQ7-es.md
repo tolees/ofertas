@@ -5,7 +5,7 @@ date: 2020-07-14 16:07:31
 image: 'https://m.media-amazon.com/images/I/41AgbJ2zKWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QSXWQ7-es MOSOTECH Organizador Cables Cubre Cables de 2 x 3m...'
 sku: 'B086QSXWQ7-es'
 tags: [  ]

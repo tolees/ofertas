@@ -5,7 +5,7 @@ date: 2020-05-24 12:29:02
 image: 'https://m.media-amazon.com/images/I/41KTRi3FHHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3WF9F3-es Casio Reloj de Pulsera A158WEAD-1EF'
 sku: 'B07F3WF9F3-es'
 tags: [  ]

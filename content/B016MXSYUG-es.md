@@ -5,7 +5,7 @@ date: 2020-07-17 00:35:55
 image: 'https://m.media-amazon.com/images/I/41cZL11zwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016MXSYUG-es Nike MD Runner 2 PSV Zapatillas de Deporte Unisex niño...'
 sku: 'B016MXSYUG-es'
 tags: [  ]

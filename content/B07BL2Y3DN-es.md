@@ -5,7 +5,7 @@ date: 2020-02-11 10:51:57
 image: 'https://m.media-amazon.com/images/I/41C1iCMoXFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2Y3DN-es New Balance Fresh Foam Zante Pursuit Zapatillas de Running...'
 sku: 'B07BL2Y3DN-es'
 tags: [  ]

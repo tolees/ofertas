@@ -5,7 +5,7 @@ date: 2020-08-13 11:07:01
 image: 'https://m.media-amazon.com/images/I/417gwItnNxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZH6MQL-es Rybozen 4 Puertos USB 3.0 Switch Conmutador KVM USB 2...'
 sku: 'B08CZH6MQL-es'
 tags: [  ]

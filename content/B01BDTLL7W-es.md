@@ -5,7 +5,7 @@ date: 2020-09-08 10:50:29
 image: 'https://m.media-amazon.com/images/I/51kk0Ue4y5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BDTLL7W-es Eritritol 100 % natural 1 kg | Sustituto del azúcar con...'
 sku: 'B01BDTLL7W-es'
 tags: [  ]

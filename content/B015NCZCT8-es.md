@@ -5,7 +5,7 @@ date: 2020-08-26 23:29:58
 image: 'https://m.media-amazon.com/images/I/41sXwx6oEDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015NCZCT8-es Aigostar Queen - Hervidor de Agua Eléctrico con...'
 sku: 'B015NCZCT8-es'
 tags: [  ]

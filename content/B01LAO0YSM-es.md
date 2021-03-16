@@ -5,7 +5,7 @@ date: 2020-02-13 15:37:59
 image: 'https://m.media-amazon.com/images/I/41AwJMmnKjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LAO0YSM-es Castellanisimos C00102 Mocasines Piel Florentic Borlas...'
 sku: 'B01LAO0YSM-es'
 tags: [  ]

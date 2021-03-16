@@ -5,7 +5,7 @@ date: 2020-05-24 11:32:20
 image: 'https://m.media-amazon.com/images/I/316K45bnxmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BLFO2NY-es American Crew Superglue Gel Fijador Fijación Extrema y...'
 sku: 'B00BLFO2NY-es'
 tags: [  ]

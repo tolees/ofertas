@@ -5,7 +5,7 @@ date: 2020-04-07 13:29:36
 image: 'https://m.media-amazon.com/images/I/51JN8TP2x4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082DZ5JJD-es TAZEMAT 48 Hojas Marcapágina Originales para Rascar...'
 sku: 'B082DZ5JJD-es'
 tags: [  ]

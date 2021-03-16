@@ -5,7 +5,7 @@ date: 2020-04-14 00:16:48
 image: 'https://m.media-amazon.com/images/I/41m1hNRxTQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LHD7FT-es K9CK Luces LED para Lego Ideas NASA Apolo Saturno V 21309...'
 sku: 'B083LHD7FT-es'
 tags: [  ]

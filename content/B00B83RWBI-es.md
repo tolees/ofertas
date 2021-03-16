@@ -5,7 +5,7 @@ date: 2020-06-13 10:27:36
 image: 'https://m.media-amazon.com/images/I/41CF6tuFz0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B83RWBI-es Gigandet Reloj de Hombre Automático Sea Ground Vintage...'
 sku: 'B00B83RWBI-es'
 tags: [  ]

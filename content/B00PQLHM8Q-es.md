@@ -5,7 +5,7 @@ date: 2020-09-19 07:49:28
 image: 'https://m.media-amazon.com/images/I/41dhJDFEDlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PQLHM8Q-es Pentrilo - Cubeta plástico economica + rejilla plástico 16...'
 sku: 'B00PQLHM8Q-es'
 tags: [  ]

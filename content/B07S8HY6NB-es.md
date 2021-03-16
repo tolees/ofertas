@@ -5,7 +5,7 @@ date: 2020-04-05 06:51:14
 image: 'https://m.media-amazon.com/images/I/41WmSgQpjzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8HY6NB-es Under Armour Men s Remix 2.0 Laufschuhe Zapatillas de...'
 sku: 'B07S8HY6NB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 12:16:30
 image: 'https://m.media-amazon.com/images/I/41QsvDBK+0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SMZFGD-es San Ignacio Q3246 Set 3pc Utensilios de Cocina Silicona...'
 sku: 'B083SMZFGD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-12 16:34:15
 image: 'https://m.media-amazon.com/images/I/41QsZB5BMOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWC6SCW-es Tommy Hilfiger Th Giftbox 3p Vanity Calcetines Blanco...'
 sku: 'B07TWC6SCW-es'
 tags: [  ]

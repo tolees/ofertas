@@ -5,7 +5,7 @@ date: 2020-08-13 05:46:31
 image: 'https://m.media-amazon.com/images/I/310lncnOSsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPWGVCB-es NYZ - Auriculares inalámbricos con Bluetooth 5.0 Sonido...'
 sku: 'B07ZPWGVCB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-14 00:05:51
 image: 'https://m.media-amazon.com/images/I/415kkfB23aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002MX6OPS-es MONTIS Venture 30 Mochila de Senderismo y Ruta 30 l 1100 g'
 sku: 'B002MX6OPS-es'
 tags: [  ]

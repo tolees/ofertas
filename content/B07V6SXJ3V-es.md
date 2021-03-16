@@ -5,7 +5,7 @@ date: 2020-07-21 12:44:55
 image: 'https://m.media-amazon.com/images/I/41sD6g81--L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6SXJ3V-es Kipling Deny Bolsa de Viaje 44 cm 26 Liters Plateado...'
 sku: 'B07V6SXJ3V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-14 18:12:02
 image: 'https://m.media-amazon.com/images/I/31BOmG2OINL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZDP4Y-es PUMA Caracal Zapatillas Unisex Adulto Black White 40 EU'
 sku: 'B07KFZDP4Y-es'
 tags: [  ]

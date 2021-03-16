@@ -5,7 +5,7 @@ date: 2020-05-26 09:33:45
 image: 'https://m.media-amazon.com/images/I/411rXCdn4IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072Z9QHYR-es Micro USB Splitter Cable Cable de potencia OTG Power...'
 sku: 'B072Z9QHYR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-18 15:02:47
 image: 'https://m.media-amazon.com/images/I/416VZ20BFFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G0O54XC-es DISFRAZ HIPPIE CHICA TALLA XL'
 sku: 'B01G0O54XC-es'
 tags: [  ]

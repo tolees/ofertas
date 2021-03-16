@@ -5,7 +5,7 @@ date: 2020-09-17 05:18:37
 image: 'https://m.media-amazon.com/images/I/41D6Hr3MAtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQFFRL7-es PUMA SF Drift Cat 5 Ultra Zapatillas Unisex Adulto Negro...'
 sku: 'B01MQFFRL7-es'
 tags: [  ]

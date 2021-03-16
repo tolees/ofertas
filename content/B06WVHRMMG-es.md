@@ -5,7 +5,7 @@ date: 2020-07-08 16:11:20
 image: 'https://m.media-amazon.com/images/I/41cnDJo5+IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVHRMMG-es adidas Crazymove Studio Zapatillas de Deporte Interior...'
 sku: 'B06WVHRMMG-es'
 tags: [  ]

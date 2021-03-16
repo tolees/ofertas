@@ -5,7 +5,7 @@ date: 2020-10-07 10:59:56
 image: 'https://m.media-amazon.com/images/I/31QemcAdHPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HGSZVBN-es KUTOOK Pantalones Softshell Mujer Invierno Pantalones...'
 sku: 'B08HGSZVBN-es'
 tags: [  ]

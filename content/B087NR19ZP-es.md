@@ -5,7 +5,7 @@ date: 2020-05-27 06:30:13
 image: 'https://m.media-amazon.com/images/I/41lE31a2ebL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087NR19ZP-es Mascarilla 20PCS Pañuelos de Protección Personal'
 sku: 'B087NR19ZP-es'
 tags: [  ]

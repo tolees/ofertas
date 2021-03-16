@@ -5,7 +5,7 @@ date: 2020-09-09 16:44:13
 image: 'https://m.media-amazon.com/images/I/41IL1sqi08L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMP69ZL-es AmazonBasics – Balancín plegable con toldo Beige'
 sku: 'B07HMP69ZL-es'
 tags: [  ]

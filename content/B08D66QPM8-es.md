@@ -5,7 +5,7 @@ date: 2020-09-12 13:04:17
 image: 'https://m.media-amazon.com/images/I/51PQSdhVtRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D66QPM8-es Manta Manta para sofá Manta de sofá Elegante Borlas Manta...'
 sku: 'B08D66QPM8-es'
 tags: [  ]

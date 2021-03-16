@@ -5,7 +5,7 @@ date: 2020-05-23 18:35:47
 image: 'https://m.media-amazon.com/images/I/21ZyjMA7QLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W79X2IY-es iap PHARMA PARFUMS nº 51 - Perfume Floral con vaporizador...'
 sku: 'B00W79X2IY-es'
 tags: [  ]

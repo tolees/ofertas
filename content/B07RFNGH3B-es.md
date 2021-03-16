@@ -5,7 +5,7 @@ date: 2020-09-11 09:31:29
 image: 'https://m.media-amazon.com/images/I/41ZZ9he742L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFNGH3B-es Salomon Sense Feel GTX Zapatillas para Correr para Hombre...'
 sku: 'B07RFNGH3B-es'
 tags: [  ]

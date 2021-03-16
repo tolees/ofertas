@@ -5,7 +5,7 @@ date: 2020-03-14 09:04:52
 image: 'https://m.media-amazon.com/images/I/517Na4nWg0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDS5SK3-es FGASAD - Trampa de Pesca Plegable portátil para Cangrejo...'
 sku: 'B07QDS5SK3-es'
 tags: [  ]

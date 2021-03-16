@@ -5,7 +5,7 @@ date: 2020-06-14 00:24:53
 image: 'https://m.media-amazon.com/images/I/51eyatAHATL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCNJVGK-es Bandolera grande porta tablet Pepe Jeans Raw'
 sku: 'B07NCNJVGK-es'
 tags: [  ]

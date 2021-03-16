@@ -5,7 +5,7 @@ date: 2020-08-05 03:08:32
 image: 'https://m.media-amazon.com/images/I/41W4m3wujjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V3A9XMC-es Arcos Riviera Blanc - Taco de 4 cuchillos y tijera 5piezas'
 sku: 'B00V3A9XMC-es'
 tags: [  ]

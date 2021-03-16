@@ -5,7 +5,7 @@ date: 2020-02-07 22:40:58
 image: 'https://m.media-amazon.com/images/I/41H0tvR1hrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG16KFT-es PUMA Jaab XT Wn s Zapatillas Deportivas para Interior para...'
 sku: 'B07KG16KFT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 18:01:25
 image: 'https://m.media-amazon.com/images/I/41iae8FZG8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LAV6PF6-es LG Cinebeam Ph150G - Proyector con Batería Integrada hasta...'
 sku: 'B01LAV6PF6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-10 05:45:59
 image: 'https://m.media-amazon.com/images/I/51dXkp1eURL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GK03FYQ-es House Of Cards - Temporada 4 [Blu-ray]'
 sku: 'B01GK03FYQ-es'
 tags: [  ]

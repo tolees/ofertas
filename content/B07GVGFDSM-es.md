@@ -5,7 +5,7 @@ date: 2020-04-11 18:36:47
 image: 'https://m.media-amazon.com/images/I/51jDXluvZxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVGFDSM-es UniqueMe Funda para iPhone XS MAX 2018 Ultra [Slim Thin]...'
 sku: 'B07GVGFDSM-es'
 tags: [  ]

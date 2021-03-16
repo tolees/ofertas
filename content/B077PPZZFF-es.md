@@ -5,7 +5,7 @@ date: 2020-02-20 12:40:05
 image: 'https://m.media-amazon.com/images/I/41IhsDCcsYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PPZZFF-es Disfraz de Cowboy a hombros de Caballo para adultos'
 sku: 'B077PPZZFF-es'
 tags: [  ]

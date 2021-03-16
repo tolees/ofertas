@@ -5,7 +5,7 @@ date: 2020-01-08 08:27:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/316Qi9rJuYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073Q5RPM3-es Real Madrid Funda Tablet Universal de 10.1" Pulgadas -...'
 sku: 'B073Q5RPM3-es'
 tags: [  ]

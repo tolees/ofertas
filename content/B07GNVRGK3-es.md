@@ -5,7 +5,7 @@ date: 2020-01-14 14:26:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ew7p4XiTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNVRGK3-es NIVEA Q10 3en1 Cushion Perfeccionador Facial Hidratante y...'
 sku: 'B07GNVRGK3-es'
 tags: [  ]

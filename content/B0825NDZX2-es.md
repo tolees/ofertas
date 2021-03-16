@@ -5,7 +5,7 @@ date: 2020-06-30 08:43:22
 image: 'https://m.media-amazon.com/images/I/21ZGP3UGvuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825NDZX2-es Quiksilver All Time - Licra De Manga Corta con Protección...'
 sku: 'B0825NDZX2-es'
 tags: [  ]

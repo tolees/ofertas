@@ -5,7 +5,7 @@ date: 2020-02-09 09:36:40
 image: 'https://m.media-amazon.com/images/I/41Cy8kgcHCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9J8MZY-es 6 Inch Llaves ajustables Llaves inglesas con micrómetro 36...'
 sku: 'B07F9J8MZY-es'
 tags: [  ]

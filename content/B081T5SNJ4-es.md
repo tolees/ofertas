@@ -5,7 +5,7 @@ date: 2020-08-15 09:31:15
 image: 'https://m.media-amazon.com/images/I/41znXhX5ZPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081T5SNJ4-es Iberitos - Cachuela - 6 Latas x 250 Gramos'
 sku: 'B081T5SNJ4-es'
 tags: [  ]

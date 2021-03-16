@@ -5,7 +5,7 @@ date: 2020-09-03 19:10:34
 image: 'https://m.media-amazon.com/images/I/51glO73q5oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WGA70WS-es Plantillas de Talón Correctoras de Postura tipo...'
 sku: 'B00WGA70WS-es'
 tags: [  ]

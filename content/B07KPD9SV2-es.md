@@ -5,7 +5,7 @@ date: 2020-03-16 08:40:15
 image: 'https://m.media-amazon.com/images/I/31fG6mc4HTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPD9SV2-es Gant The Original Heavy Rugger Polo Hombre Azul Evening...'
 sku: 'B07KPD9SV2-es'
 tags: [  ]

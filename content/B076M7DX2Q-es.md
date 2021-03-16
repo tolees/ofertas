@@ -5,7 +5,7 @@ date: 2020-04-08 13:34:10
 image: 'https://m.media-amazon.com/images/I/419Y99j6FpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076M7DX2Q-es SADES Ratón Gaming 3500 DPI ratón para juegos RGB...'
 sku: 'B076M7DX2Q-es'
 tags: [  ]

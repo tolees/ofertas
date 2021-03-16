@@ -5,7 +5,7 @@ date: 2020-03-05 08:57:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31xUJjoAqbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCCQ1TP-es Puma RS-150 Satin Wn s Zapatillas para Mujer Rosa Peach...'
 sku: 'B07DCCQ1TP-es'
 tags: [  ]

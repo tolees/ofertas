@@ -5,7 +5,7 @@ date: 2020-04-07 21:50:36
 image: 'https://m.media-amazon.com/images/I/51VrU5s021L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPGPFXP-es Teppiche Fußmatte Indoor-matten Die küche Wohnzimmer...'
 sku: 'B07QPGPFXP-es'
 tags: [  ]

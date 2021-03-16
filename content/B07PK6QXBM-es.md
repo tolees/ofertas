@@ -5,7 +5,7 @@ date: 2020-02-14 09:23:57
 image: 'https://m.media-amazon.com/images/I/51JIvdvgUyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PK6QXBM-es MRACSIY Diadema deportiva Sweatband para yoga Correr...'
 sku: 'B07PK6QXBM-es'
 tags: [  ]

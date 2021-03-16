@@ -5,7 +5,7 @@ date: 2020-07-27 09:53:24
 image: 'https://m.media-amazon.com/images/I/41evVpqKoSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMNW4NM-es Calvin Klein Medium Drawstring Bañador Verde Dark Green...'
 sku: 'B07VMNW4NM-es'
 tags: [  ]

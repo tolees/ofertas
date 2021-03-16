@@ -5,7 +5,7 @@ date: 2020-07-17 17:44:47
 image: 'https://m.media-amazon.com/images/I/41NNkaM9ojL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT4CT4Z-es NEWYES Tableta de Escritura LCD a Color Pizarra Digital...'
 sku: 'B07RT4CT4Z-es'
 tags: [  ]

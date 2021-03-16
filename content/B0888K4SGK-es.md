@@ -5,7 +5,7 @@ date: 2020-08-24 19:21:39
 image: 'https://m.media-amazon.com/images/I/51-aCf3rtRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0888K4SGK-es Awroutdoor Push up Board 14 en 1 Equipo Multifuncional...'
 sku: 'B0888K4SGK-es'
 tags: [  ]

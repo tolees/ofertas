@@ -5,7 +5,7 @@ date: 2020-06-08 19:02:16
 image: 'https://m.media-amazon.com/images/I/31bXDI10BzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086V6RD6R-es Círculo Duradero: Tengo Todo Este Anhelo En Mi Oído Déjame...'
 sku: 'B086V6RD6R-es'
 tags: [  ]

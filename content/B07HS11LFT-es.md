@@ -5,7 +5,7 @@ date: 2020-04-13 16:07:41
 image: 'https://m.media-amazon.com/images/I/410D0QGzJxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HS11LFT-es ASUS ROG Maximus XI Hero Wi-Fi - Placa base Gaming ATX...'
 sku: 'B07HS11LFT-es'
 tags: [  ]

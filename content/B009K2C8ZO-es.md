@@ -5,7 +5,7 @@ date: 2020-05-22 17:34:51
 image: 'https://m.media-amazon.com/images/I/41MY8oVujqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009K2C8ZO-es Fila Reloj analogico para Unisex de Cuarzo con Correa en...'
 sku: 'B009K2C8ZO-es'
 tags: [  ]

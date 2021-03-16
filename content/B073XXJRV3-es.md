@@ -5,7 +5,7 @@ date: 2020-04-10 21:39:41
 image: 'https://m.media-amazon.com/images/I/413gcVm3XmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XXJRV3-es Scuderia Ferrari Reloj Análogo clásico para Hombre de...'
 sku: 'B073XXJRV3-es'
 tags: [  ]

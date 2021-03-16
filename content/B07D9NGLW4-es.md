@@ -5,7 +5,7 @@ date: 2020-03-21 18:33:03
 image: 'https://m.media-amazon.com/images/I/51O1rpkncAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9NGLW4-es Cerdá-2400000410 Paraguas Color Rosa 001 One Size Tamaño...'
 sku: 'B07D9NGLW4-es'
 tags: [  ]

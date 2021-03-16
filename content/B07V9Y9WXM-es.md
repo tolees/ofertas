@@ -5,7 +5,7 @@ date: 2020-09-06 10:36:08
 image: 'https://m.media-amazon.com/images/I/31h02HWMRVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9Y9WXM-es BOSS Carmello Cinturón Azul Navy 410 120 para Hombre'
 sku: 'B07V9Y9WXM-es'
 tags: [  ]

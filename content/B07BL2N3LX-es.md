@@ -5,7 +5,7 @@ date: 2020-02-28 18:05:40
 image: 'https://m.media-amazon.com/images/I/414BV03mEuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2N3LX-es New Balance Fresh Foam 1080v9 Zapatillas de Running para...'
 sku: 'B07BL2N3LX-es'
 tags: [  ]

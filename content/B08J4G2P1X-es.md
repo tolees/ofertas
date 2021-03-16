@@ -5,7 +5,7 @@ date: 2020-09-23 09:03:19
 image: 'https://m.media-amazon.com/images/I/41EFhmFn4GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08J4G2P1X-es Molyflower Mini ratón óptico inalámbrico para Juegos de...'
 sku: 'B08J4G2P1X-es'
 tags: [  ]

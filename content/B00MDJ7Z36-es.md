@@ -5,7 +5,7 @@ date: 2020-02-27 17:08:28
 image: 'https://m.media-amazon.com/images/I/31J8l4-UoSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MDJ7Z36-es Tesa Assa Abloy 1930908NV Barra Antipánico Universal 1930...'
 sku: 'B00MDJ7Z36-es'
 tags: [  ]

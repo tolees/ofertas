@@ -5,7 +5,7 @@ date: 2020-04-11 00:16:29
 image: 'https://m.media-amazon.com/images/I/41GrHfZGJ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RSSRG19-es Gifts Treat Sombrero de niña Summer Sun Hat Sombrero de...'
 sku: 'B07RSSRG19-es'
 tags: [  ]

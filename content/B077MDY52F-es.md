@@ -5,7 +5,7 @@ date: 2020-08-12 17:40:17
 image: 'https://m.media-amazon.com/images/I/416aOlL9FxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MDY52F-es Puma Basket Heart Patent Wn s Zapatillas para Mujer Beige...'
 sku: 'B077MDY52F-es'
 tags: [  ]

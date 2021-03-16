@@ -5,7 +5,7 @@ date: 2020-07-06 09:02:45
 image: 'https://m.media-amazon.com/images/I/513UsVsgHaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSB8GMT-es Power extra Set de soldadura Soldadura 220 V 60 W...'
 sku: 'B07BSB8GMT-es'
 tags: [  ]

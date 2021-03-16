@@ -5,7 +5,7 @@ date: 2020-06-23 14:13:26
 image: 'https://m.media-amazon.com/images/I/31saAC5ue8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFBKR9K-es CARPISA ® Porta documentos mujer - Soya Wallet'
 sku: 'B07VFBKR9K-es'
 tags: [  ]

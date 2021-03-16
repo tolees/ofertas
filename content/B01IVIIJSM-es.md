@@ -5,7 +5,7 @@ date: 2020-03-09 20:10:06
 image: 'https://m.media-amazon.com/images/I/41u8--cmcKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IVIIJSM-es Ariel 3en1 Pods Detergente En Cápsulas Sensaciones...'
 sku: 'B01IVIIJSM-es'
 tags: [  ]

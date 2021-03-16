@@ -5,7 +5,7 @@ date: 2020-04-12 00:19:58
 image: 'https://m.media-amazon.com/images/I/51Pl4QWVKOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBNWGG-es ART VVIES 30x20 Zoll mit Haken Leinwanddrucke Holz...'
 sku: 'B082HBNWGG-es'
 tags: [  ]

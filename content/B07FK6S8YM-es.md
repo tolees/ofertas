@@ -5,7 +5,7 @@ date: 2020-04-03 18:22:51
 image: 'https://m.media-amazon.com/images/I/51-Fs1C-+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FK6S8YM-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B07FK6S8YM-es'
 tags: [  ]

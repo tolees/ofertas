@@ -5,7 +5,7 @@ date: 2020-01-20 10:00:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RJ-5V2B0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0744GNYZR-es DXRacer OH/RE21/NY/NAVI Asiento Acolchado Respaldo...'
 sku: 'B0744GNYZR-es'
 tags: [  ]

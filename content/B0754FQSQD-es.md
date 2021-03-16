@@ -5,7 +5,7 @@ date: 2020-02-24 22:19:26
 image: 'https://m.media-amazon.com/images/I/31UjdnXn9OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0754FQSQD-es Salomon Agile Long Tight M Mallas para Running Mezcla de...'
 sku: 'B0754FQSQD-es'
 tags: [  ]

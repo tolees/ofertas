@@ -5,7 +5,7 @@ date: 2020-05-07 15:28:03
 image: 'https://m.media-amazon.com/images/I/31TYV+ycRKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QDTT986-es Bosch BER634GS1 Serie 8 - Microondas integrable / encastre...'
 sku: 'B00QDTT986-es'
 tags: [  ]

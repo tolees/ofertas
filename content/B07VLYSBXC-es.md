@@ -5,7 +5,7 @@ date: 2020-07-03 14:45:00
 image: 'https://m.media-amazon.com/images/I/41+ojtYfLWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLYSBXC-es DC Shoes Court Graffik Zapatillas de Skateboard para Niños...'
 sku: 'B07VLYSBXC-es'
 tags: [  ]

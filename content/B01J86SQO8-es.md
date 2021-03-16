@@ -5,7 +5,7 @@ date: 2020-04-22 15:08:00
 image: 'https://m.media-amazon.com/images/I/31btfXe006L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J86SQO8-es Everlast Locker - Pantalones cortos de baloncesto para...'
 sku: 'B01J86SQO8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-29 01:25:46
 image: 'https://m.media-amazon.com/images/I/31iUpuv0xgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005LRSI88-es Arcos 692500 - Soporte magnético 300 x 45 mm blister'
 sku: 'B005LRSI88-es'
 tags: [  ]

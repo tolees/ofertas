@@ -5,7 +5,7 @@ date: 2020-01-21 23:24:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VUQ8LUO-es Kappa Trust Footwear Zapatillas Unisex Adulto Negro-...'
 sku: 'B00VUQ8LUO-es'
 tags: [  ]

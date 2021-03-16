@@ -5,7 +5,7 @@ date: 2020-09-01 11:11:57
 image: 'https://m.media-amazon.com/images/I/41dhV48u4JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CW6CJN-es Astro Gaming A20 - Auriculares Gaming Inalámbricos Astro...'
 sku: 'B076CW6CJN-es'
 tags: [  ]

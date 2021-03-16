@@ -5,7 +5,7 @@ date: 2020-06-22 23:00:53
 image: 'https://m.media-amazon.com/images/I/31BMv34RJ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZGG8WB5-es CHOETECH Cargador USB C PD 60W Cargador Rápida Tipo C...'
 sku: 'B07ZGG8WB5-es'
 tags: [  ]

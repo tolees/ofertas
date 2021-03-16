@@ -5,7 +5,7 @@ date: 2020-05-03 11:04:55
 image: 'https://m.media-amazon.com/images/I/41R13wDSXpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1QQ15W-es NAPATEK Lámpara Escritorio LED Lámpara De Mesa Para...'
 sku: 'B07Z1QQ15W-es'
 tags: [  ]

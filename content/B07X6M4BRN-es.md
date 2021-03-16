@@ -5,7 +5,7 @@ date: 2020-10-02 01:20:51
 image: 'https://m.media-amazon.com/images/I/51CyZ6cEezL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6M4BRN-es LIGE Reloj Hombres Negocio Clásico Impermeable Deportes...'
 sku: 'B07X6M4BRN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 09:26:22
 image: 'https://m.media-amazon.com/images/I/31aLiO5Rn2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004TSF8R4-es REAL TECHNIQUES Pincel de maquillaje en polvo el embalaje...'
 sku: 'B004TSF8R4-es'
 tags: [  ]

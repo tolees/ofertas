@@ -5,7 +5,7 @@ date: 2020-02-20 23:30:24
 image: 'https://m.media-amazon.com/images/I/31tF6PY-WtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHTZVMV-es ammoon Soporte Trípode para Micrófono Mini Plegable Mesa...'
 sku: 'B07HHTZVMV-es'
 tags: [  ]

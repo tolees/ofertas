@@ -5,7 +5,7 @@ date: 2020-06-23 22:00:48
 image: 'https://m.media-amazon.com/images/I/41voGeQ-1ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016BUNZWW-es ASUS Tengo rt3117bt Auto/Interior 90w Negro Adaptador e...'
 sku: 'B016BUNZWW-es'
 tags: [  ]

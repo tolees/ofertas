@@ -5,7 +5,7 @@ date: 2020-05-11 10:50:53
 image: 'https://m.media-amazon.com/images/I/41xnIUpK+WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072V4HL4G-es KLIM™ RGB Alfombrilla de Ratón Chroma – Material de Alta...'
 sku: 'B072V4HL4G-es'
 tags: [  ]

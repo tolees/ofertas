@@ -5,7 +5,7 @@ date: 2020-03-23 15:56:57
 image: 'https://m.media-amazon.com/images/I/41JNlTY1uBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTIO5XK-es Final Fantasy TCG Mazo FF X'
 sku: 'B01MTIO5XK-es'
 tags: [  ]

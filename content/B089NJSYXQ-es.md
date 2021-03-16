@@ -5,7 +5,7 @@ date: 2020-09-20 14:01:55
 image: 'https://m.media-amazon.com/images/I/410pkFwYEbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NJSYXQ-es Cuerda de saltar Focuses sin enredos de velocidad rápida...'
 sku: 'B089NJSYXQ-es'
 tags: [  ]

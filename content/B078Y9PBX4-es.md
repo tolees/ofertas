@@ -5,7 +5,7 @@ date: 2020-04-16 17:53:49
 image: 'https://m.media-amazon.com/images/I/41rQ8iY2jaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078Y9PBX4-es CLA - Ácido Linoleico Conjugado | 1000mg x 200 perlas |...'
 sku: 'B078Y9PBX4-es'
 tags: [  ]

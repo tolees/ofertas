@@ -5,7 +5,7 @@ date: 2020-02-21 13:48:55
 image: 'https://m.media-amazon.com/images/I/51iyFLPVyNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1LFQS4-es Jvchengxi Funda Protectora para Galaxy Watch Active 2 40mm...'
 sku: 'B07Z1LFQS4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-26 08:15:55
 image: 'https://m.media-amazon.com/images/I/41FKCa6j+GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2TY9R7-es SPREEY Colchón Hinchable de aire-Cama de aire individual...'
 sku: 'B07G2TY9R7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-11 08:54:30
 image: 'https://m.media-amazon.com/images/I/31zyHOzqO5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZPSJB7-es B Blesiya Nuevo Traje Negro De PC para PC con Cubierta...'
 sku: 'B086ZPSJB7-es'
 tags: [  ]

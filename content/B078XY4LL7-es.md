@@ -5,7 +5,7 @@ date: 2020-03-01 17:37:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/313NQfmf46L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XY4LL7-es BRA Advanced Sartén 20 cm aluminio fundido con...'
 sku: 'B078XY4LL7-es'
 tags: [  ]

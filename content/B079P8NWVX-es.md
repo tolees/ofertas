@@ -5,7 +5,7 @@ date: 2020-09-29 19:19:53
 image: 'https://m.media-amazon.com/images/I/319cFWJcWTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079P8NWVX-es Brabantia Organizador de Fregadero Gris Oscuro 8 5 x 19 x...'
 sku: 'B079P8NWVX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-16 23:18:38
 image: 'https://m.media-amazon.com/images/I/41XaLitZTqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07797WCHZ-es AUSTOR 16 Piezas Ganchos Cocina Adhesivos de Plástico para...'
 sku: 'B07797WCHZ-es'
 tags: [  ]

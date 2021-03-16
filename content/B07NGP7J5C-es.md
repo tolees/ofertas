@@ -5,7 +5,7 @@ date: 2020-05-20 19:27:32
 image: 'https://m.media-amazon.com/images/I/31FIyRlXN6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGP7J5C-es Silla de paseo Rapid Unique azul 2019'
 sku: 'B07NGP7J5C-es'
 tags: [  ]

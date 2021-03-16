@@ -5,7 +5,7 @@ date: 2020-02-26 17:33:27
 image: 'https://m.media-amazon.com/images/I/51Sp0AuKwkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKX97VK-es adidas Finale M CPT - Balon de fútbol Off White/Power...'
 sku: 'B07KKX97VK-es'
 tags: [  ]

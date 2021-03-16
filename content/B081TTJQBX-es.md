@@ -5,7 +5,7 @@ date: 2020-09-16 08:13:41
 image: 'https://m.media-amazon.com/images/I/41TlRdKU5AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TTJQBX-es adidas Trefoil tee T-Shirt Mujer White/Black 40'
 sku: 'B081TTJQBX-es'
 tags: [  ]

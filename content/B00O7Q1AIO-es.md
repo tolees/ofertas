@@ -5,7 +5,7 @@ date: 2020-07-28 13:36:28
 image: 'https://m.media-amazon.com/images/I/510ogbKmTvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O7Q1AIO-es Pelota de Playa Hinchable Bestway Minnie Mouse'
 sku: 'B00O7Q1AIO-es'
 tags: [  ]

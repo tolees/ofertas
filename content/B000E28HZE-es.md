@@ -5,7 +5,7 @@ date: 2020-04-26 15:36:34
 image: 'https://m.media-amazon.com/images/I/41OtJPM4lJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E28HZE-es K&N KA-6503 Filtro de Aire Moto'
 sku: 'B000E28HZE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 19:03:07
 image: 'https://m.media-amazon.com/images/I/31vwaPx3sAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5QQNZB-es Tommy Hilfiger Modern Corporate Leather Runner Zapatillas...'
 sku: 'B07V5QQNZB-es'
 tags: [  ]

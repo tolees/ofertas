@@ -5,7 +5,7 @@ date: 2020-02-29 20:14:41
 image: 'https://m.media-amazon.com/images/I/41lmWmLsPIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MOIX3SC-es Beurer IPL-10000 + - Depiladora de luz pulsada con base...'
 sku: 'B00MOIX3SC-es'
 tags: [  ]

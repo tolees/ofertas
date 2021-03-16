@@ -5,7 +5,7 @@ date: 2020-07-27 05:14:45
 image: 'https://m.media-amazon.com/images/I/4173qbuvB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08923CJSM-es Cordón Goma Elástico Bandas Cordón Elástico Para Costura y...'
 sku: 'B08923CJSM-es'
 tags: [  ]

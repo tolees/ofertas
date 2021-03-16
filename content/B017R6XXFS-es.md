@@ -5,7 +5,7 @@ date: 2020-04-17 16:43:09
 image: 'https://m.media-amazon.com/images/I/31VJdagFDGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017R6XXFS-es 2pcs 1 M 3 3 pies BNC a RCA Cable de vídeo Conector para...'
 sku: 'B017R6XXFS-es'
 tags: [  ]

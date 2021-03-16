@@ -5,7 +5,7 @@ date: 2020-03-21 08:21:53
 image: 'https://m.media-amazon.com/images/I/31CmYbuJ75L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG1FYGL-es Lacoste Sport GH353T Bañador Azul Marine W40 Talla del...'
 sku: 'B07JG1FYGL-es'
 tags: [  ]

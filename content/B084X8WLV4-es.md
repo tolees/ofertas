@@ -5,7 +5,7 @@ date: 2020-04-14 09:25:33
 image: 'https://m.media-amazon.com/images/I/51MWw+4D7wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084X8WLV4-es YPPDPP Toto Likes Videogames Velvet Pillow Cases Cubierta...'
 sku: 'B084X8WLV4-es'
 tags: [  ]

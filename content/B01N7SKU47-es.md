@@ -5,7 +5,7 @@ date: 2020-06-26 19:03:32
 image: 'https://m.media-amazon.com/images/I/51K+Pw1+CfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7SKU47-es Limitless equipment Mark 1 kit de supervivencia: Mil-Spec...'
 sku: 'B01N7SKU47-es'
 tags: [  ]

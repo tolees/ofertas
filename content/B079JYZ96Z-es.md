@@ -5,7 +5,7 @@ date: 2020-06-25 17:32:11
 image: 'https://m.media-amazon.com/images/I/41B1pOm1gsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JYZ96Z-es YAZILIND elegante joyer¨ªa de dise?o simple plata plateado...'
 sku: 'B079JYZ96Z-es'
 tags: [  ]

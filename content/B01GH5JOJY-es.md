@@ -5,7 +5,7 @@ date: 2020-03-27 10:25:18
 image: 'https://m.media-amazon.com/images/I/41KBox52BrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GH5JOJY-es Under Armour Tech Polo Hombre Azul Midnight Navy/Graphite...'
 sku: 'B01GH5JOJY-es'
 tags: [  ]

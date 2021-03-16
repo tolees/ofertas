@@ -5,7 +5,7 @@ date: 2020-08-31 17:15:38
 image: 'https://m.media-amazon.com/images/I/41Qi8Bz9KaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FJMHD4-es StillCool Aire Acondicionado Portátil 3 en 1 Ventilador...'
 sku: 'B088FJMHD4-es'
 tags: [  ]

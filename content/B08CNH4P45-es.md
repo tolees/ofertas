@@ -5,7 +5,7 @@ date: 2020-09-01 12:10:28
 image: 'https://m.media-amazon.com/images/I/51hvmBwuHnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CNH4P45-es Yosoo Health Gear Esponja de Balas Suaves de Cabeza...'
 sku: 'B08CNH4P45-es'
 tags: [  ]

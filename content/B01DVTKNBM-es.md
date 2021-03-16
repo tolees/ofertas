@@ -5,7 +5,7 @@ date: 2020-06-26 12:46:16
 image: 'https://m.media-amazon.com/images/I/51xkQBYU4tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DVTKNBM-es Weider Protein Pancake Mix Vainilla. Tortitas de harina de...'
 sku: 'B01DVTKNBM-es'
 tags: [  ]

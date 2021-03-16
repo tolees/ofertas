@@ -5,7 +5,7 @@ date: 2020-07-01 16:36:44
 image: 'https://m.media-amazon.com/images/I/41tQH8D8LoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089R2NLSM-es Ranura para Tarjeta de Rayas Funda de Cuero sintético con...'
 sku: 'B089R2NLSM-es'
 tags: [  ]

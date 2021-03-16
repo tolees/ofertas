@@ -5,7 +5,7 @@ date: 2020-10-03 19:26:05
 image: 'https://m.media-amazon.com/images/I/41nofWQyw7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P82MVJ7-es Pop! Figura de Vinilo: Música: The Struts - Luke Spiller'
 sku: 'B07P82MVJ7-es'
 tags: [  ]

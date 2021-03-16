@@ -5,7 +5,7 @@ date: 2020-05-31 15:44:25
 image: 'https://m.media-amazon.com/images/I/41qvdys4d6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GL3GGD9-es Cybex Gold - Silla de coche Solution S-Fix para coches con...'
 sku: 'B07GL3GGD9-es'
 tags: [  ]

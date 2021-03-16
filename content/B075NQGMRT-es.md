@@ -5,7 +5,7 @@ date: 2020-06-08 19:25:36
 image: 'https://m.media-amazon.com/images/I/51T3aPJXUkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NQGMRT-es Rotary Reloj de Pulsera GS08303/02'
 sku: 'B075NQGMRT-es'
 tags: [  ]

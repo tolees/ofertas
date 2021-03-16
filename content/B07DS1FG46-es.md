@@ -5,7 +5,7 @@ date: 2020-03-18 06:33:17
 image: 'https://m.media-amazon.com/images/I/41WDJWv82GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DS1FG46-es Salomon Xview Access Máscara de esquí unisex Negro-...'
 sku: 'B07DS1FG46-es'
 tags: [  ]

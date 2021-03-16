@@ -5,7 +5,7 @@ date: 2020-07-10 13:03:13
 image: 'https://m.media-amazon.com/images/I/31irCClHDhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5MV1L6-es Andven USB Transmisor Bluetooth Portátil Inalámbrico...'
 sku: 'B07C5MV1L6-es'
 tags: [  ]

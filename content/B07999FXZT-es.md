@@ -5,7 +5,7 @@ date: 2020-05-30 15:23:03
 image: 'https://m.media-amazon.com/images/I/41vVwl4IqQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07999FXZT-es AUKEY Hub USB C HDMI 4k Ranuras para SD&MicroSD Ethernet...'
 sku: 'B07999FXZT-es'
 tags: [  ]

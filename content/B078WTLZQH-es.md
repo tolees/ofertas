@@ -5,7 +5,7 @@ date: 2020-04-13 12:03:03
 image: 'https://m.media-amazon.com/images/I/41xhFDXrWBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WTLZQH-es Tommy Hilfiger Unlined Bralette Sujetador sin Aros Gris...'
 sku: 'B078WTLZQH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 13:35:13
 image: 'https://m.media-amazon.com/images/I/51m6k7BRYNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MFPCHD6-es Llave USB 16 GB Iron Man - Memoria Flash Drive 2.0...'
 sku: 'B00MFPCHD6-es'
 tags: [  ]

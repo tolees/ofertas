@@ -5,7 +5,7 @@ date: 2020-07-13 20:19:03
 image: 'https://m.media-amazon.com/images/I/41AospFpcDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXD7DN6-es Casio Smart Watch Armbanduhr A168WEGM-9EF'
 sku: 'B07BXD7DN6-es'
 tags: [  ]

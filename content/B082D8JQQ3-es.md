@@ -5,7 +5,7 @@ date: 2020-01-15 08:33:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51S21j16iiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082D8JQQ3-es Mr. Tronic 5m Cable de Red Ethernet Latiguillo | CAT6...'
 sku: 'B082D8JQQ3-es'
 tags: [  ]

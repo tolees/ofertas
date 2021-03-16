@@ -5,7 +5,7 @@ date: 2020-04-28 22:15:43
 image: 'https://m.media-amazon.com/images/I/41WJOwl7M3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JGEQGGM-es Foodsaver FFC003X Recipiente para envasar al vacío 700 ml...'
 sku: 'B01JGEQGGM-es'
 tags: [  ]

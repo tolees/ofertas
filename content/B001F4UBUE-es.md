@@ -5,7 +5,7 @@ date: 2020-03-08 05:50:45
 image: 'https://m.media-amazon.com/images/I/41tXS8ZFG2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001F4UBUE-es HP CE251A - Cartucho de tóner'
 sku: 'B001F4UBUE-es'
 tags: [  ]

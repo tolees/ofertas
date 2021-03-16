@@ -5,7 +5,7 @@ date: 2020-02-01 20:07:43
 image: 'https://m.media-amazon.com/images/I/51UEfMm-1RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB1QFN2-es Versus by Versace Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B07BB1QFN2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-19 13:03:41
 image: 'https://m.media-amazon.com/images/I/31R2Nue5VCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07915BTQD-es Brabantia Bo Pedal - Cubo de basura Acero Inoxidable 2...'
 sku: 'B07915BTQD-es'
 tags: [  ]

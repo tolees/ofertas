@@ -5,7 +5,7 @@ date: 2020-01-03 19:41:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OltE5UA9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7SVGF6-es Orient Reloj de Pulsera RA-AP0003S10B'
 sku: 'B07K7SVGF6-es'
 tags: [  ]

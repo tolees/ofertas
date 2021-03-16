@@ -5,7 +5,7 @@ date: 2020-04-16 09:07:18
 image: 'https://m.media-amazon.com/images/I/411-aVRnOkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHHD3HM-es Melissa Hilo Acrílico Ovillo de Lana Premium para DIY...'
 sku: 'B07ZHHD3HM-es'
 tags: [  ]

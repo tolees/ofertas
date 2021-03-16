@@ -5,7 +5,7 @@ date: 2020-10-10 01:12:10
 image: 'https://m.media-amazon.com/images/I/411R-O9Ep7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0087O4CKK-es Targus - AMW060EU - Targus Wireless Optical Laptop Mouse...'
 sku: 'B0087O4CKK-es'
 tags: [  ]

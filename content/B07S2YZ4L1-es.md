@@ -5,7 +5,7 @@ date: 2020-07-23 18:24:27
 image: 'https://m.media-amazon.com/images/I/41jdJSgm-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2YZ4L1-es New Balance 373v2 Zapatillas para Mujer Negro Black Ce2 35 EU'
 sku: 'B07S2YZ4L1-es'
 tags: [  ]

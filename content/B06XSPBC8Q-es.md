@@ -5,7 +5,7 @@ date: 2020-02-18 14:34:05
 image: 'https://m.media-amazon.com/images/I/51f9EHQBVhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSPBC8Q-es Arteza Cuadernos de dibujo | Pack de 2 blocs en espiral de...'
 sku: 'B06XSPBC8Q-es'
 tags: [  ]

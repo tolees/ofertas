@@ -5,7 +5,7 @@ date: 2020-02-11 08:38:25
 image: 'https://m.media-amazon.com/images/I/51+vu7jzEkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9KYWLX-es Caja de Paternina Banda Azul Crianza D.O. Rioja Vino tinto...'
 sku: 'B07L9KYWLX-es'
 tags: [  ]

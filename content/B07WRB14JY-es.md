@@ -5,7 +5,7 @@ date: 2020-01-22 13:27:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IINXuc4QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRB14JY-es Botas de Nieve para niños y niñas Caminar Senderismo con...'
 sku: 'B07WRB14JY-es'
 tags: [  ]

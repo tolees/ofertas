@@ -5,7 +5,7 @@ date: 2020-04-27 09:16:18
 image: 'https://m.media-amazon.com/images/I/41Vi1oxBhlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QT6PM1T-es Asics Gel-Pulse 11 Zapatillas de Running para Hombre Azul...'
 sku: 'B07QT6PM1T-es'
 tags: [  ]

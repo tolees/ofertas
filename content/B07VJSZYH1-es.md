@@ -5,7 +5,7 @@ date: 2020-09-15 11:24:15
 image: 'https://m.media-amazon.com/images/I/415SKUeS4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJSZYH1-es HUGO Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07VJSZYH1-es'
 tags: [  ]

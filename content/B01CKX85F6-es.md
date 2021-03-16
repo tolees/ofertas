@@ -5,7 +5,7 @@ date: 2020-08-03 06:02:42
 image: 'https://m.media-amazon.com/images/I/41lr3JM54ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CKX85F6-es WER Doberman Alarma casa Alarma Hogar de Seguridad SE-0137...'
 sku: 'B01CKX85F6-es'
 tags: [  ]

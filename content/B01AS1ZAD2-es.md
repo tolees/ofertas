@@ -5,7 +5,7 @@ date: 2020-07-04 08:03:20
 image: 'https://m.media-amazon.com/images/I/51pVq6G1wwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AS1ZAD2-es KHOMO Funda iPad Air 1 - Carcasa Gris Protectora Ultra...'
 sku: 'B01AS1ZAD2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-01 21:55:13
 image: 'https://m.media-amazon.com/images/I/51e6bUJIdCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08911QWRW-es ELTD Webcam Cámara USB HD 1080P para videollamadas...'
 sku: 'B08911QWRW-es'
 tags: [  ]

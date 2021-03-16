@@ -5,7 +5,7 @@ date: 2020-06-12 01:38:15
 image: 'https://m.media-amazon.com/images/I/51z48+TsZKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BMX6DTC-es Game Of Thrones Bend The Knee Door Mat Felpudo Goma...'
 sku: 'B07BMX6DTC-es'
 tags: [  ]

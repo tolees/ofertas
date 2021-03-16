@@ -5,7 +5,7 @@ date: 2020-04-17 16:38:17
 image: 'https://m.media-amazon.com/images/I/51pSRyuZtDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824TQ3RM-es Pllieay - 30 piezas de tela de malla de plástico de 7...'
 sku: 'B0824TQ3RM-es'
 tags: [  ]

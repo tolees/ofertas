@@ -5,7 +5,7 @@ date: 2020-06-23 09:02:22
 image: 'https://m.media-amazon.com/images/I/51TLKj+q8EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0839JQTRW-es Mardozon Correa para Xiaomi Mi Band 3/4 Pulseras Reloj...'
 sku: 'B0839JQTRW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-26 04:32:36
 image: 'https://m.media-amazon.com/images/I/31b5jGeb7pL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IY4F8XW-es Reebok Exofit Lo Clean Logo Zapatillas Para Hombre Negro...'
 sku: 'B01IY4F8XW-es'
 tags: [  ]

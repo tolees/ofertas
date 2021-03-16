@@ -5,7 +5,7 @@ date: 2020-04-21 16:32:11
 image: 'https://m.media-amazon.com/images/I/51Hq91Nvi+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KKKKTW-es FUKTSYSM Cortador de Verdura Mandolina - 8 en 1 Rebanador...'
 sku: 'B082KKKKTW-es'
 tags: [  ]

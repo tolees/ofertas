@@ -5,7 +5,7 @@ date: 2020-02-06 17:30:40
 image: 'https://m.media-amazon.com/images/I/51AliOSZKCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5Y66TS-es Ymea Menopausia Sofoconfort 24h cápsulas'
 sku: 'B01N5Y66TS-es'
 tags: [  ]

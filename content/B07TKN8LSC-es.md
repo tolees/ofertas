@@ -5,7 +5,7 @@ date: 2020-07-29 16:02:47
 image: 'https://m.media-amazon.com/images/I/41ZHzjTNY9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKN8LSC-es Clarks Botanic Poppy Sandalia con Pulsera para Mujer...'
 sku: 'B07TKN8LSC-es'
 tags: [  ]

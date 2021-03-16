@@ -5,7 +5,7 @@ date: 2020-06-08 09:52:56
 image: 'https://m.media-amazon.com/images/I/51wMmgRknjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1SR2SL-es Vareone Cajas Cesta de Almacenamiento Plegables de...'
 sku: 'B07S1SR2SL-es'
 tags: [  ]

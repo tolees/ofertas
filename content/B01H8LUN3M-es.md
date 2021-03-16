@@ -5,7 +5,7 @@ date: 2020-06-28 09:09:55
 image: 'https://m.media-amazon.com/images/I/4189CgTTVsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H8LUN3M-es Under Armour Shinguard Sleeves Espinillera Hombre Negro...'
 sku: 'B01H8LUN3M-es'
 tags: [  ]

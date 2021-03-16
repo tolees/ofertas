@@ -5,7 +5,7 @@ date: 2020-07-12 03:29:33
 image: 'https://m.media-amazon.com/images/I/41D-I6X0kHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8ZDW6L-es Dove Loción Coporal Té Matcha - Pack de 3 x 400 ml Total:...'
 sku: 'B07P8ZDW6L-es'
 tags: [  ]

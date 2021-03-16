@@ -5,7 +5,7 @@ date: 2020-07-18 16:18:06
 image: 'https://m.media-amazon.com/images/I/4184iN17WTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXYEEZS-es King Love - Consolador realista de 20 5 cm con base de...'
 sku: 'B01MXYEEZS-es'
 tags: [  ]

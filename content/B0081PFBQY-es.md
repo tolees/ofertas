@@ -5,7 +5,7 @@ date: 2020-05-28 17:08:23
 image: 'https://m.media-amazon.com/images/I/319E8dPEt+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0081PFBQY-es CLINIQUE CHUBBY STICK #10-bountiful blush 3 gr'
 sku: 'B0081PFBQY-es'
 tags: [  ]

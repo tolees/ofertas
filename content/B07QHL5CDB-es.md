@@ -5,7 +5,7 @@ date: 2020-01-30 17:10:47
 image: 'https://m.media-amazon.com/images/I/31NS80ngEML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHL5CDB-es Pablosky 334510 Mocasines Unisex niño Negro Negro Negro 25 EU'
 sku: 'B07QHL5CDB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 15:34:05
 image: 'https://m.media-amazon.com/images/I/412VPRqRYFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FU7T81Y-es DARDARUGA Pabellon de Jardin cenador Capri Beige 3x3 m...'
 sku: 'B01FU7T81Y-es'
 tags: [  ]

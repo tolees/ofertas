@@ -5,7 +5,7 @@ date: 2020-07-08 16:31:17
 image: 'https://m.media-amazon.com/images/I/41wWJKtEj9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0058NVXGO-es Veet Tarro Cera Depilatoria Tibia de Resultados...'
 sku: 'B0058NVXGO-es'
 tags: [  ]

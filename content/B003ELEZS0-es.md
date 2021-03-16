@@ -5,7 +5,7 @@ date: 2020-09-15 18:15:10
 image: 'https://m.media-amazon.com/images/I/41czFemMWbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ELEZS0-es Piz Buin - Crema solar Allergy Lotion SPF30 200 ml'
 sku: 'B003ELEZS0-es'
 tags: [  ]

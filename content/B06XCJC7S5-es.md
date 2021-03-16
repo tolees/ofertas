@@ -5,7 +5,7 @@ date: 2020-05-22 06:55:35
 image: 'https://m.media-amazon.com/images/I/41Jso5oM2AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCJC7S5-es MEDION ERAZER X58426 - Monitor Gaming Curvo de 80.1 cm...'
 sku: 'B06XCJC7S5-es'
 tags: [  ]

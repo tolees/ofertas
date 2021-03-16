@@ -5,7 +5,7 @@ date: 2020-09-23 08:30:16
 image: 'https://m.media-amazon.com/images/I/41C4Tf7fg2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074WDFJ83-es Puma PUMA UNISEX SNEAKER PLAIN 3P Calcetines Unisex adulto...'
 sku: 'B074WDFJ83-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-22 21:15:41
 image: 'https://m.media-amazon.com/images/I/417ANG73PsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9NSPL8-es Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha Azul...'
 sku: 'B07V9NSPL8-es'
 tags: [  ]

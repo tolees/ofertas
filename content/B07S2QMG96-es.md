@@ -5,7 +5,7 @@ date: 2020-02-24 11:04:39
 image: 'https://m.media-amazon.com/images/I/41hfYiYCbEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2QMG96-es New Balance 574v2 Zapatillas para Hombre Azul Blue E A E...'
 sku: 'B07S2QMG96-es'
 tags: [  ]

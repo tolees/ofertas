@@ -5,7 +5,7 @@ date: 2020-07-08 13:12:13
 image: 'https://m.media-amazon.com/images/I/41R+AC8ehZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XXDYGYW-es SONGMICS Cubo de Basura de Acero Inoxidable Basurero...'
 sku: 'B00XXDYGYW-es'
 tags: [  ]

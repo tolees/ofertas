@@ -5,7 +5,7 @@ date: 2020-09-26 10:33:02
 image: 'https://m.media-amazon.com/images/I/41aq05HDDoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RNQ5RN-es Columbia Drainmaker IV Zapatillas Hombres Black Black Lux...'
 sku: 'B073RNQ5RN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-15 15:17:29
 image: 'https://m.media-amazon.com/images/I/41c5x+7aylL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDZ414D-es Acer Swift 3 - Ordenador portátil de 15.6" FullHD AMD...'
 sku: 'B07RDZ414D-es'
 tags: [  ]

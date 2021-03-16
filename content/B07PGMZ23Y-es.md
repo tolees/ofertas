@@ -5,7 +5,7 @@ date: 2020-08-26 14:07:22
 image: 'https://m.media-amazon.com/images/I/41QH5Jah1xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGMZ23Y-es Sandalia Tipo Chancla Masaje de Hombre Mujer Unisex Tira...'
 sku: 'B07PGMZ23Y-es'
 tags: [  ]

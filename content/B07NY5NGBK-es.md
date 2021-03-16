@@ -5,7 +5,7 @@ date: 2020-07-29 08:16:39
 image: 'https://m.media-amazon.com/images/I/511RHa+0Q-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY5NGBK-es JASHKE Disfraz Dinosaurio Inflable Adulto Traje Dinosaurio...'
 sku: 'B07NY5NGBK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-13 10:49:42
 image: 'https://m.media-amazon.com/images/I/41mX7K0Cr4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WLVFX8-es Depiladora Facial Mujer Electrica Sin dolor 2 en 1 USB...'
 sku: 'B087WLVFX8-es'
 tags: [  ]

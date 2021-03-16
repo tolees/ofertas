@@ -5,7 +5,7 @@ date: 2020-10-11 23:35:55
 image: 'https://m.media-amazon.com/images/I/51oYjvDvTtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH1Q6WL-es Hakeeta Mini USB portátil Barra de Sonido con Cable...'
 sku: 'B07QH1Q6WL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-14 16:25:38
 image: 'https://m.media-amazon.com/images/I/31U-frVMI7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC2S31L-es camel active Houston 488385/2511 Pantalones Grün Khaki 36...'
 sku: 'B07NC2S31L-es'
 tags: [  ]

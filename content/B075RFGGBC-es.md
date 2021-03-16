@@ -5,7 +5,7 @@ date: 2020-03-06 08:11:25
 image: 'https://m.media-amazon.com/images/I/41FtmeotAfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RFGGBC-es GORE WEAR R3 Mallas cortas de mujer 36 Negro'
 sku: 'B075RFGGBC-es'
 tags: [  ]

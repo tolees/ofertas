@@ -5,7 +5,7 @@ date: 2020-01-28 13:34:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GX76iv%2BzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYX5BRY-es JX FITNESS Banco de Pesas multifunción Banco de...'
 sku: 'B07MYX5BRY-es'
 tags: [  ]

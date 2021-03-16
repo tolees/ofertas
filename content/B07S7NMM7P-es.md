@@ -5,7 +5,7 @@ date: 2020-05-26 17:05:29
 image: 'https://m.media-amazon.com/images/I/41brIMmCRCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7NMM7P-es DONPEREGRINO 55cm Maleta Cabina Avión con Candado TSA y...'
 sku: 'B07S7NMM7P-es'
 tags: [  ]

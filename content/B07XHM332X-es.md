@@ -5,7 +5,7 @@ date: 2020-05-08 13:59:54
 image: 'https://m.media-amazon.com/images/I/41wtYexAAeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHM332X-es Skechers Solar Fuse KRYZIK Zapatillas para Hombre Negro...'
 sku: 'B07XHM332X-es'
 tags: [  ]

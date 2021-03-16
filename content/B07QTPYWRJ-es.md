@@ -5,7 +5,7 @@ date: 2020-02-14 12:03:50
 image: 'https://m.media-amazon.com/images/I/41BCM-aac7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTPYWRJ-es Eckonaver Funda de Silla de Oficina Modernas Estilo...'
 sku: 'B07QTPYWRJ-es'
 tags: [  ]

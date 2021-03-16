@@ -5,7 +5,7 @@ date: 2020-08-10 08:01:44
 image: 'https://m.media-amazon.com/images/I/41pHS20TMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XNR1V1N-es WIWJ Funda para Samsung Galaxy A8 2018 Carcasa Hollow...'
 sku: 'B07XNR1V1N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 11:37:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415cCzNTYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J96Q4ZG-es Soporte para Móvil BESTEK Soporte para Teléfono Móvil...'
 sku: 'B00J96Q4ZG-es'
 tags: [  ]

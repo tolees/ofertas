@@ -5,7 +5,7 @@ date: 2020-03-29 13:25:33
 image: 'https://m.media-amazon.com/images/I/51+1tIpgRfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HFAAASO-es Merrell Moab 2 Vent Zapatillas de Senderismo para Hombre...'
 sku: 'B01HFAAASO-es'
 tags: [  ]

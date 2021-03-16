@@ -5,7 +5,7 @@ date: 2020-05-26 17:05:17
 image: 'https://m.media-amazon.com/images/I/51hEloGUrsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076P9M4XK-es HomDSim Organizador de Asiento de Coche con diseño de...'
 sku: 'B076P9M4XK-es'
 tags: [  ]

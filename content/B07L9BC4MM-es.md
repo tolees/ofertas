@@ -5,7 +5,7 @@ date: 2020-03-28 08:10:50
 image: 'https://m.media-amazon.com/images/I/319cwgmzBtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9BC4MM-es Under Armour Challenger III Training Pant Chándal para...'
 sku: 'B07L9BC4MM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 00:24:52
 image: 'https://m.media-amazon.com/images/I/41OH+yeKHwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0819DX3DD-es PUTORSEN® Soporte de Monitor pc - Elevador de Monitor 8cm...'
 sku: 'B0819DX3DD-es'
 tags: [  ]

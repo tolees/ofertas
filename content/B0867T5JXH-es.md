@@ -5,7 +5,7 @@ date: 2020-04-01 20:06:19
 image: 'https://m.media-amazon.com/images/I/41JJ2+HHcxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0867T5JXH-es lámpara de mesa juego de 2 lámparas de noche Lámpara de...'
 sku: 'B0867T5JXH-es'
 tags: [  ]

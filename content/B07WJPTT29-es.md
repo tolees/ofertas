@@ -5,7 +5,7 @@ date: 2020-10-04 21:23:10
 image: 'https://m.media-amazon.com/images/I/41m1PXdIS2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJPTT29-es Skechers Darlow Remego Zapatillas para Hombre Negro Black...'
 sku: 'B07WJPTT29-es'
 tags: [  ]

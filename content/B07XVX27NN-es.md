@@ -5,7 +5,7 @@ date: 2020-08-14 14:46:58
 image: 'https://m.media-amazon.com/images/I/31Xnifv1KpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVX27NN-es Cybex Gold 520000545 Sirona S I-Size Silla de Coche...'
 sku: 'B07XVX27NN-es'
 tags: [  ]

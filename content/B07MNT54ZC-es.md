@@ -5,7 +5,7 @@ date: 2020-03-09 18:34:42
 image: 'https://m.media-amazon.com/images/I/51WQhTx5KfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNT54ZC-es Ferilinso Cristal Templado para Xiaomi Mi 9 Lite Redmi...'
 sku: 'B07MNT54ZC-es'
 tags: [  ]

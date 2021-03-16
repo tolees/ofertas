@@ -5,7 +5,7 @@ date: 2020-05-09 17:17:29
 image: 'https://m.media-amazon.com/images/I/31tZPMSz6xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XH3DW3V-es Helly Hansen W HH LIFA Basleayer Pant Mujer Negro XS'
 sku: 'B06XH3DW3V-es'
 tags: [  ]

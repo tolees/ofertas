@@ -5,7 +5,7 @@ date: 2020-03-15 10:49:05
 image: 'https://m.media-amazon.com/images/I/41+0DuFwNPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6B8DFS-es Bergner Infinity Chef Set de Cuchillos y Barra magnética...'
 sku: 'B01M6B8DFS-es'
 tags: [  ]

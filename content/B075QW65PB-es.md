@@ -5,7 +5,7 @@ date: 2020-08-11 13:31:00
 image: 'https://m.media-amazon.com/images/I/41uD1FCOl+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QW65PB-es Ballery Sac à Dos d Hydratation Sac Vélo avec Poche à Eau...'
 sku: 'B075QW65PB-es'
 tags: [  ]

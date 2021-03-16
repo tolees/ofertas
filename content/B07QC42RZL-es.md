@@ -5,7 +5,7 @@ date: 2020-10-03 18:10:47
 image: 'https://m.media-amazon.com/images/I/41AZafTODEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QC42RZL-es Sterntaler Patucos Botas para Niñas Rosa Magenta 745 18 EU'
 sku: 'B07QC42RZL-es'
 tags: [  ]

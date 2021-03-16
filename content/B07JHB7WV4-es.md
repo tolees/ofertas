@@ -5,7 +5,7 @@ date: 2020-02-02 10:37:02
 image: 'https://m.media-amazon.com/images/I/31iqVL97m9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHB7WV4-es Levi s Cabazon Cinturón Negro R Black 59 90 para Hombre'
 sku: 'B07JHB7WV4-es'
 tags: [  ]

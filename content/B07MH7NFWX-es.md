@@ -5,7 +5,7 @@ date: 2020-01-23 07:04:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411dTO2lWrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MH7NFWX-es Bullpadel Hack 2019 Palas Adultos Unisex Amarillo 380'
 sku: 'B07MH7NFWX-es'
 tags: [  ]

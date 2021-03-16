@@ -5,7 +5,7 @@ date: 2020-06-22 07:30:48
 image: 'https://m.media-amazon.com/images/I/51n-YcHUmjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X15K4YS-es Nautica Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B06X15K4YS-es'
 tags: [  ]

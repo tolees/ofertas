@@ -5,7 +5,7 @@ date: 2020-10-08 09:29:38
 image: 'https://m.media-amazon.com/images/I/51Kt5y1EVhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5JTW3M-es Stranger Things 13072 Figura de acción varios color/modelo...'
 sku: 'B07H5JTW3M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 23:48:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nTmuR5IrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006K4EVRS-es Darphin Crema corporal - 50 ml.'
 sku: 'B006K4EVRS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-31 00:13:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EwBsdxm8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSFCTLP-es ASUS VA326HR Pantalla para PC 80 cm 31.5" Full HD LED...'
 sku: 'B07TSFCTLP-es'
 tags: [  ]

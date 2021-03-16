@@ -5,7 +5,7 @@ date: 2020-02-09 15:36:22
 image: 'https://m.media-amazon.com/images/I/41PX-xxHC1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012OVJQVG-es DC Figura de Vinilo Batman colección Arkham Knight Funko 6383'
 sku: 'B012OVJQVG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-24 12:45:37
 image: 'https://m.media-amazon.com/images/I/41w0r4fqC7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0857R6YZY-es Cecotec 04230 Recortador de barba multifunción Bamba...'
 sku: 'B0857R6YZY-es'
 tags: [  ]

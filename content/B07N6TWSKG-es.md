@@ -5,7 +5,7 @@ date: 2020-03-29 10:33:35
 image: 'https://m.media-amazon.com/images/I/41YbElI74eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6TWSKG-es Tommy Hilfiger Fashion Mix Sneaker Zapatillas para Hombre...'
 sku: 'B07N6TWSKG-es'
 tags: [  ]

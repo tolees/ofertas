@@ -5,7 +5,7 @@ date: 2020-07-16 18:00:55
 image: 'https://m.media-amazon.com/images/I/51rft-Rkg8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q8KWBJN-es yidenguk Almohadilla de enfriamiento para computadora...'
 sku: 'B07Q8KWBJN-es'
 tags: [  ]

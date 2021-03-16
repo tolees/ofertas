@@ -5,7 +5,7 @@ date: 2020-04-06 16:26:19
 image: 'https://m.media-amazon.com/images/I/31zK271xoIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVVH4C3-es Armor Lux Penmarch Impermeable Azul Navire 300 Medium para...'
 sku: 'B07NVVH4C3-es'
 tags: [  ]

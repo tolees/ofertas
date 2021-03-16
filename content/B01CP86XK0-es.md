@@ -5,7 +5,7 @@ date: 2020-02-08 17:49:46
 image: 'https://m.media-amazon.com/images/I/515tbkpTTDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CP86XK0-es Tirma PT042010 - Ambrosías con Relleno Cubiertas de...'
 sku: 'B01CP86XK0-es'
 tags: [  ]

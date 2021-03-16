@@ -5,7 +5,7 @@ date: 2020-08-11 09:02:20
 image: 'https://m.media-amazon.com/images/I/41i9HtPMMmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895WG5CQ-es LEILEI Cámara Web de Video USB Cámara de Video HD de 12MP...'
 sku: 'B0895WG5CQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 04:26:58
 image: 'https://m.media-amazon.com/images/I/41zmM+xNa6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814T3CGH-es Under Armour UA HG Armour Graphic Swerve WM Leggings...'
 sku: 'B0814T3CGH-es'
 tags: [  ]

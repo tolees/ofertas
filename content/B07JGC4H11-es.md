@@ -5,7 +5,7 @@ date: 2020-02-24 09:18:09
 image: 'https://m.media-amazon.com/images/I/31PIyy08aHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGC4H11-es Lacoste HH9553 Pantalones Azul Marine W28 Talla del...'
 sku: 'B07JGC4H11-es'
 tags: [  ]

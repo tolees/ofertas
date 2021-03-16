@@ -5,7 +5,7 @@ date: 2020-02-29 16:10:19
 image: 'https://m.media-amazon.com/images/I/31v1IHPXMwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077G5VPMK-es Brother HLL2370DN - Impresora láser monocromo con red y...'
 sku: 'B077G5VPMK-es'
 tags: [  ]

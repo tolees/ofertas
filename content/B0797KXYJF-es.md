@@ -5,7 +5,7 @@ date: 2020-10-04 11:50:27
 image: 'https://m.media-amazon.com/images/I/41nPioEFtZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797KXYJF-es Smartphone Resistentes 4G Blackview Bv8000Pro IP68 Outdoor...'
 sku: 'B0797KXYJF-es'
 tags: [  ]

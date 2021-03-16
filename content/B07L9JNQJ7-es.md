@@ -5,7 +5,7 @@ date: 2020-08-10 13:17:40
 image: 'https://m.media-amazon.com/images/I/41S-btv8QlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9JNQJ7-es Under Armour Recovery Sleepwear Pantalones Cortos Mujer...'
 sku: 'B07L9JNQJ7-es'
 tags: [  ]

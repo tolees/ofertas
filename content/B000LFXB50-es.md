@@ -5,7 +5,7 @@ date: 2020-02-22 11:48:36
 image: 'https://m.media-amazon.com/images/I/51l2k66pDcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LFXB50-es Silverline 245017 - Alicates'
 sku: 'B000LFXB50-es'
 tags: [  ]

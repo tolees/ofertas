@@ -5,7 +5,7 @@ date: 2020-01-12 19:40:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BE4tc2-0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMS77FD-es SALOMON Side 25 Mochila de montañismo Espaciosa y práctica...'
 sku: 'B07WMS77FD-es'
 tags: [  ]

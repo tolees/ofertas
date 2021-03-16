@@ -5,7 +5,7 @@ date: 2020-08-17 16:10:12
 image: 'https://m.media-amazon.com/images/I/41FYxTCJ7XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC1RYCM-es FUNNY HOUSE 5 Pcs Tapón de Drenaje de Silicona Tapón de...'
 sku: 'B07SC1RYCM-es'
 tags: [  ]

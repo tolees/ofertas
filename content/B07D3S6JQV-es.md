@@ -5,7 +5,7 @@ date: 2020-02-22 08:56:20
 image: 'https://m.media-amazon.com/images/I/31-YyRP6zOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3S6JQV-es Teclado de Unidad de Disco Flojo de Memoria USB de...'
 sku: 'B07D3S6JQV-es'
 tags: [  ]

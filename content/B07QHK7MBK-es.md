@@ -5,7 +5,7 @@ date: 2020-04-30 19:08:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51iWnq5d8%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHK7MBK-es PUMA VCF Future Flare Mini Ball Balón de Fútbol Adultos...'
 sku: 'B07QHK7MBK-es'
 tags: [  ]

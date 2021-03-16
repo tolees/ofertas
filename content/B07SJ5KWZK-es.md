@@ -5,7 +5,7 @@ date: 2020-02-11 11:05:35
 image: 'https://m.media-amazon.com/images/I/41sRtBQSg7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ5KWZK-es 5 Unids Niños Juego de Vajilla Diseño de Dibujos Animados...'
 sku: 'B07SJ5KWZK-es'
 tags: [  ]

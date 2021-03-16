@@ -5,7 +5,7 @@ date: 2020-09-06 15:16:26
 image: 'https://m.media-amazon.com/images/I/41gr8tNrWlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CY6MFKG-es Drift DR150BG - Silla Gaming Profesional Poilipiel Alta...'
 sku: 'B07CY6MFKG-es'
 tags: [  ]

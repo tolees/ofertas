@@ -5,7 +5,7 @@ date: 2020-10-09 21:38:50
 image: 'https://m.media-amazon.com/images/I/41fR6W4XHIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003J37BMK-es Leatherman Style Multi-Tool CS - Black / Steel'
 sku: 'B003J37BMK-es'
 tags: [  ]

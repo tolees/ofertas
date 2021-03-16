@@ -5,7 +5,7 @@ date: 2020-09-01 23:15:34
 image: 'https://m.media-amazon.com/images/I/31-WWhCc8hL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9SKJD7-es Farline GOTAS OCULARES HUMECTANTES CON ACIDO HIALURONICO...'
 sku: 'B07F9SKJD7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 20:13:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418mD5SA8XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076SJCWZL-es Marco Tozzi 23750 Zapatillas para Mujer Negro Black Comb...'
 sku: 'B076SJCWZL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-13 09:58:36
 image: 'https://m.media-amazon.com/images/I/41E3+pmuSXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC3X22S-es AXE Ice Chill - Desodorante Bodyspray para hombre 48 horas...'
 sku: 'B07NC3X22S-es'
 tags: [  ]

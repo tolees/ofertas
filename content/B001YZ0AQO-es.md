@@ -5,7 +5,7 @@ date: 2020-03-06 23:00:28
 image: 'https://m.media-amazon.com/images/I/317d88Mh1UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001YZ0AQO-es Adaptare 20109 - Adaptador de Señal Analógico DVI-D/VGA...'
 sku: 'B001YZ0AQO-es'
 tags: [  ]

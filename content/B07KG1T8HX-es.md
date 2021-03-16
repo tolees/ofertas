@@ -5,7 +5,7 @@ date: 2020-05-23 09:40:40
 image: 'https://m.media-amazon.com/images/I/31nqcvRiviL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1T8HX-es 4 UNIDS/SET Universal Car SUV Asiento Trasero...'
 sku: 'B07KG1T8HX-es'
 tags: [  ]

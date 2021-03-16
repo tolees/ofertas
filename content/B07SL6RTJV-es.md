@@ -5,7 +5,7 @@ date: 2020-06-30 10:03:50
 image: 'https://m.media-amazon.com/images/I/31ZTAeyfKXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SL6RTJV-es Lacoste 739SFA003421G Zapatillas para Mujer Blanco 37 EU'
 sku: 'B07SL6RTJV-es'
 tags: [  ]

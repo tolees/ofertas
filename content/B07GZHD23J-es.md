@@ -5,7 +5,7 @@ date: 2020-04-02 09:07:49
 image: 'https://m.media-amazon.com/images/I/51n-0PJ6E1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZHD23J-es Peluca para disfraz de Capitán América con soldado de...'
 sku: 'B07GZHD23J-es'
 tags: [  ]

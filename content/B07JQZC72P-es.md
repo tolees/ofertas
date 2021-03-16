@@ -5,7 +5,7 @@ date: 2020-06-25 19:56:13
 image: 'https://m.media-amazon.com/images/I/41LZQ9M+qpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQZC72P-es Marca Amazon - 28 Palms - Polo de golf de piqué con...'
 sku: 'B07JQZC72P-es'
 tags: [  ]

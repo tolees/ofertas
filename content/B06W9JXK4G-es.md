@@ -5,7 +5,7 @@ date: 2020-02-28 16:18:38
 image: 'https://m.media-amazon.com/images/I/41lmPSEZKpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9JXK4G-es AMD RYZEN 7 1800X 16 MB 4.0GHz Octa Core AMD'
 sku: 'B06W9JXK4G-es'
 tags: [  ]

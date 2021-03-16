@@ -5,7 +5,7 @@ date: 2020-05-15 19:04:22
 image: 'https://m.media-amazon.com/images/I/31y6c+Q9mxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Z62LMZ-es Panasonic DC-GX9M Panasonic LUMIX DC-GX9M - Cámara Digital...'
 sku: 'B079Z62LMZ-es'
 tags: [  ]

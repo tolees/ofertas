@@ -5,7 +5,7 @@ date: 2020-08-31 12:35:24
 image: 'https://m.media-amazon.com/images/I/511AVJgNDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BCFT2XD-es BOZHZO Piscina Luz LED Sumergible Luces Sumergibles...'
 sku: 'B08BCFT2XD-es'
 tags: [  ]

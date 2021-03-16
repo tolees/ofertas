@@ -5,7 +5,7 @@ date: 2020-07-16 23:41:26
 image: 'https://m.media-amazon.com/images/I/51lbZg-mLiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IYW6AVS-es Bolsa reutilizable Squooshi para comida | Pack con 6 animales'
 sku: 'B01IYW6AVS-es'
 tags: [  ]

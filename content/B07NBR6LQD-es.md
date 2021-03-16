@@ -5,7 +5,7 @@ date: 2020-05-12 10:15:15
 image: 'https://m.media-amazon.com/images/I/31pV9j0ouuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBR6LQD-es ASICS Chaussures Gel Quantum 180 4'
 sku: 'B07NBR6LQD-es'
 tags: [  ]

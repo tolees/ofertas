@@ -5,7 +5,7 @@ date: 2020-08-14 16:31:52
 image: 'https://m.media-amazon.com/images/I/41gs4oHMRiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CITY3UY-es Escher S 1464 7421 Banco para Exterior - Bancos para...'
 sku: 'B00CITY3UY-es'
 tags: [  ]

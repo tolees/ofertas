@@ -5,7 +5,7 @@ date: 2020-01-07 19:55:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HgRePfxRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B5ZQY97-es Asics Chaussures Gel-Court Speed Clay'
 sku: 'B07B5ZQY97-es'
 tags: [  ]

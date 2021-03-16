@@ -5,7 +5,7 @@ date: 2020-05-05 18:05:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dt4X2RarL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PNUHLF4-es adidas Originals Superstar Zapatillas Unisex Adulto Blanco...'
 sku: 'B00PNUHLF4-es'
 tags: [  ]

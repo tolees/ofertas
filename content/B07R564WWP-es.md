@@ -5,7 +5,7 @@ date: 2020-01-10 15:07:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419SHJtfKcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R564WWP-es DlandHome Cama Elastica Ø 152 cm Trampolín Infantil de...'
 sku: 'B07R564WWP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-13 02:01:36
 image: 'https://m.media-amazon.com/images/I/41NGOZM5YmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BG5DXJN-es NECULAMAT Cable Audio vídeo AV RCA Macho Jack 3 5 mm 1...'
 sku: 'B08BG5DXJN-es'
 tags: [  ]

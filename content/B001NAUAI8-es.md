@@ -5,7 +5,7 @@ date: 2020-04-18 12:28:05
 image: 'https://m.media-amazon.com/images/I/41iJyJ88JTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NAUAI8-es K&N HD-0900 Filtro de Aire para Harley Davidson Sportster...'
 sku: 'B001NAUAI8-es'
 tags: [  ]

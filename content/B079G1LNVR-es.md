@@ -5,7 +5,7 @@ date: 2020-01-19 22:32:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CGbNhrbfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079G1LNVR-es Samsung Hyperknit - Funda para Galaxy S9+ color gris'
 sku: 'B079G1LNVR-es'
 tags: [  ]

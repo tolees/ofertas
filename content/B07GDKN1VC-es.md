@@ -5,7 +5,7 @@ date: 2020-02-18 10:19:55
 image: 'https://m.media-amazon.com/images/I/413LWFeJo-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDKN1VC-es Eyoyo Cámara Monitor E5 5 Pulgadas 4K HDMI 1920x1080 Mini...'
 sku: 'B07GDKN1VC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 20:24:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BVMF2BtwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G171XGB-es Just For Chefs Q2903 Sarten Forjado Inducción Infinity...'
 sku: 'B07G171XGB-es'
 tags: [  ]

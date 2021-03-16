@@ -5,7 +5,7 @@ date: 2020-06-25 11:24:39
 image: 'https://m.media-amazon.com/images/I/31rd9LqsY+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012XD2XNS-es Superga 2750 UKFGLU Zapatillas Unisex adulto Blanco White...'
 sku: 'B012XD2XNS-es'
 tags: [  ]

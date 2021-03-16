@@ -5,7 +5,7 @@ date: 2020-08-04 17:33:35
 image: 'https://m.media-amazon.com/images/I/51ytZrV88RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0016VLM1I-es Merrell Choprock Shandal Zapatillas Impermeables para...'
 sku: 'B0016VLM1I-es'
 tags: [  ]

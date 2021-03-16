@@ -5,7 +5,7 @@ date: 2020-04-14 09:46:53
 image: 'https://m.media-amazon.com/images/I/41BZC-CIwNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLGCVJG-es COSORI Mantenedor de Café Caliente de Acero Inoxidable...'
 sku: 'B07CLGCVJG-es'
 tags: [  ]

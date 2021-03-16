@@ -5,7 +5,7 @@ date: 2020-03-27 10:01:45
 image: 'https://m.media-amazon.com/images/I/31wJyPGBDVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD2CF69-es GUANTE DE NITRILO AQL 1.5 5gr SIN POLVO COLOR NEGRO...'
 sku: 'B07DD2CF69-es'
 tags: [  ]

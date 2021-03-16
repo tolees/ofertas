@@ -5,7 +5,7 @@ date: 2020-06-01 07:58:23
 image: 'https://m.media-amazon.com/images/I/41i9GPczTzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072FVK6NT-es New Balance 574v2 Core Lace Modelo GC574GV Zapatillas para...'
 sku: 'B072FVK6NT-es'
 tags: [  ]

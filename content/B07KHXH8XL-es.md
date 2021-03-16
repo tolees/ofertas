@@ -5,7 +5,7 @@ date: 2020-07-17 15:41:08
 image: 'https://m.media-amazon.com/images/I/41vGyczM7iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KHXH8XL-es ECO-WORTHY 12 voltios 5 vatios 10 vatios 120 vatios...'
 sku: 'B07KHXH8XL-es'
 tags: [  ]

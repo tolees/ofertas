@@ -5,7 +5,7 @@ date: 2020-09-01 19:31:15
 image: 'https://m.media-amazon.com/images/I/417HXV7rm6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZS69MF-es Depilación sin dolor en forma de corazón Depilación...'
 sku: 'B08CZS69MF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-26 01:18:49
 image: 'https://m.media-amazon.com/images/I/313k1HSFR5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRCNG32-es adidas Stan Smith W Zapatillas de Gimnasia para Mujer...'
 sku: 'B07SRCNG32-es'
 tags: [  ]

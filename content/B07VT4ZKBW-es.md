@@ -5,7 +5,7 @@ date: 2020-09-30 09:22:01
 image: 'https://m.media-amazon.com/images/I/41RqAok6v0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VT4ZKBW-es Skechers GO Run Pulse Zapatillas para Mujer Blanco Blanco...'
 sku: 'B07VT4ZKBW-es'
 tags: [  ]

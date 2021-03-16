@@ -5,7 +5,7 @@ date: 2020-10-03 18:10:46
 image: 'https://m.media-amazon.com/images/I/41xmU-CSFTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JFL8Y-es Superga 2730-cotu Zapatillas de Gimnasia para Mujer Rosa...'
 sku: 'B07N1JFL8Y-es'
 tags: [  ]

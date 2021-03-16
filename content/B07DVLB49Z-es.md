@@ -5,7 +5,7 @@ date: 2020-06-17 21:25:11
 image: 'https://m.media-amazon.com/images/I/41SsgbwT4mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVLB49Z-es New Balance 574v2 Entrenadores para Hombre Azul Deep Ozone...'
 sku: 'B07DVLB49Z-es'
 tags: [  ]

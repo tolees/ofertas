@@ -5,7 +5,7 @@ date: 2020-01-22 16:55:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JmUuYxYaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZQ9X31-es Under Armour Favorite Legging WM Ar Leggings Mujer Gris...'
 sku: 'B07CZQ9X31-es'
 tags: [  ]

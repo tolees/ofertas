@@ -5,7 +5,7 @@ date: 2020-06-20 08:02:57
 image: 'https://m.media-amazon.com/images/I/41xI7-wb+yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVRP3KS-es MOSISO Tote Bolsa para Mujer hasta 15.6 Pulgadas...'
 sku: 'B07PVRP3KS-es'
 tags: [  ]

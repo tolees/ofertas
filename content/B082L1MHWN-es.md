@@ -5,7 +5,7 @@ date: 2020-05-01 09:33:48
 image: 'https://m.media-amazon.com/images/I/510LRxBY1AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082L1MHWN-es Calcetines de Running para Largas Distancias para Hombre y...'
 sku: 'B082L1MHWN-es'
 tags: [  ]

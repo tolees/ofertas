@@ -5,7 +5,7 @@ date: 2020-01-28 14:18:40
 image: 'https://m.media-amazon.com/images/I/41qd6+-gCwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004X4JRJO-es Braun BN0035WHBKG - Reloj cronógrafo de caballero de...'
 sku: 'B004X4JRJO-es'
 tags: [  ]

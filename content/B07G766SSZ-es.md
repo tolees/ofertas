@@ -5,7 +5,7 @@ date: 2020-01-06 08:32:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51gyI4hcewL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G766SSZ-es TRAIL WATCHER Cámara de Caza 16MP 1080P HD Trail Cámara...'
 sku: 'B07G766SSZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 11:05:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31bcrQWnPkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFHC392-es Tommy Hilfiger Long Sleeve Slim Polo Rojo Haute Red Xbe XL...'
 sku: 'B07NFHC392-es'
 tags: [  ]

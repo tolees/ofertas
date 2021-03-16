@@ -5,7 +5,7 @@ date: 2020-04-14 18:56:35
 image: 'https://m.media-amazon.com/images/I/41yd2JttMkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK3BHQP-es Safety 1st RAINBOW Black Chic - Silla de paseo color negro'
 sku: 'B07KK3BHQP-es'
 tags: [  ]

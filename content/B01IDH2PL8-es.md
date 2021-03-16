@@ -5,7 +5,7 @@ date: 2020-08-23 14:50:09
 image: 'https://m.media-amazon.com/images/I/51LB8qitFDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IDH2PL8-es WandSticker4U - Adhesivo decorativo para pared o ventana...'
 sku: 'B01IDH2PL8-es'
 tags: [  ]

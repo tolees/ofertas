@@ -5,7 +5,7 @@ date: 2020-05-09 13:32:10
 image: 'https://m.media-amazon.com/images/I/418k0Oy9eHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBNQ9VB-es Ease Leap Bufanda Mujer con Tacto Cachemira Fiesta Chal...'
 sku: 'B07HBNQ9VB-es'
 tags: [  ]

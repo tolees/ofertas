@@ -5,7 +5,7 @@ date: 2020-07-05 20:44:35
 image: 'https://m.media-amazon.com/images/I/41orjnOJApL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003V5KWWM-es Australian Gold Aceite corporal acelerador del bronceado -...'
 sku: 'B003V5KWWM-es'
 tags: [  ]

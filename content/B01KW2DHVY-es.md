@@ -5,7 +5,7 @@ date: 2020-09-24 08:41:31
 image: 'https://m.media-amazon.com/images/I/417u2VpifWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KW2DHVY-es BaByliss T840E - Afeitadora y recortadora de barba...'
 sku: 'B01KW2DHVY-es'
 tags: [  ]

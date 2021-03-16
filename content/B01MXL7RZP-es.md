@@ -5,7 +5,7 @@ date: 2020-01-11 19:11:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/619YKitIEKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXL7RZP-es Starcraft II Battlechest 2.0'
 sku: 'B01MXL7RZP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 07:48:08
 image: 'https://m.media-amazon.com/images/I/41Mm8Un8TcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YB8LG1V-es Relaxdays Plancha Cocina Lisa y con Rayas Grill Eléctrico...'
 sku: 'B07YB8LG1V-es'
 tags: [  ]

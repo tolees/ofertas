@@ -5,7 +5,7 @@ date: 2020-04-18 02:50:39
 image: 'https://m.media-amazon.com/images/I/4137ywzyhML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BKT9H8N-es KYG Robot de Cocina al Vapor Procesador de Alimentos para...'
 sku: 'B07BKT9H8N-es'
 tags: [  ]

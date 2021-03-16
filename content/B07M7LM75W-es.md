@@ -5,7 +5,7 @@ date: 2020-07-17 22:59:04
 image: 'https://m.media-amazon.com/images/I/31N+vtWxrrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7LM75W-es Paladone Reloj Digital para Adultos Unisex de Automático...'
 sku: 'B07M7LM75W-es'
 tags: [  ]

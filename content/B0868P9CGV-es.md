@@ -5,7 +5,7 @@ date: 2020-05-14 23:00:07
 image: 'https://m.media-amazon.com/images/I/51RNCQrhONL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868P9CGV-es ZOZOSEP Fundas para Apple iPad Mini 3 iPad Mini 2/1 Case...'
 sku: 'B0868P9CGV-es'
 tags: [  ]

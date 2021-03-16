@@ -5,7 +5,7 @@ date: 2020-09-08 13:31:11
 image: 'https://m.media-amazon.com/images/I/315+K5SDFDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCG288G-es TOPBATHY 2pcs de acero inoxidable fregadero filtros de...'
 sku: 'B07YCG288G-es'
 tags: [  ]

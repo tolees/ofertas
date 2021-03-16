@@ -5,7 +5,7 @@ date: 2020-06-25 11:33:34
 image: 'https://m.media-amazon.com/images/I/51rWigFYSFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDK53DF-es Test de embarazo 3 Pruebas - Prueba de Embarazo Resultado...'
 sku: 'B07QDK53DF-es'
 tags: [  ]

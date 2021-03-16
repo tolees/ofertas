@@ -5,7 +5,7 @@ date: 2020-02-10 11:44:41
 image: 'https://m.media-amazon.com/images/I/41p963OEByL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z8YTPP6-es Eono by Amazon - Paraguas de Golf Resistente al Viento con...'
 sku: 'B07Z8YTPP6-es'
 tags: [  ]

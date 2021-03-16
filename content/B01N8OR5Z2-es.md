@@ -5,7 +5,7 @@ date: 2020-01-07 11:04:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41k2lUKTSTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8OR5Z2-es Gre CPROV510 - Cobertor de Verano para Piscina Ovalada de...'
 sku: 'B01N8OR5Z2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-13 18:04:03
 image: 'https://m.media-amazon.com/images/I/31ZATv+eybL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7V7HD3-es Tamaño 3 puertos HDMI Adaptador divisor Cable HDMI...'
 sku: 'B07V7V7HD3-es'
 tags: [  ]

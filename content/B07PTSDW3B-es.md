@@ -5,7 +5,7 @@ date: 2020-08-27 15:38:29
 image: 'https://m.media-amazon.com/images/I/41qejj3ChvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTSDW3B-es Autan Family Care Aerosol Repelente de Mosquitos e...'
 sku: 'B07PTSDW3B-es'
 tags: [  ]

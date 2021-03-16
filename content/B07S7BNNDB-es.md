@@ -5,7 +5,7 @@ date: 2020-02-04 23:03:48
 image: 'https://m.media-amazon.com/images/I/41ohYFS0m-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7BNNDB-es Mochila Térmica Besrey Mochila Nevera bolsa térmica comida...'
 sku: 'B07S7BNNDB-es'
 tags: [  ]

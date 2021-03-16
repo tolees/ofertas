@@ -5,7 +5,7 @@ date: 2020-03-09 22:10:50
 image: 'https://m.media-amazon.com/images/I/41GW8qhqiJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RBK1N9-es Pawhut Cueva Gato Cama para Gato de Forma de Cáscara Semi-...'
 sku: 'B081RBK1N9-es'
 tags: [  ]

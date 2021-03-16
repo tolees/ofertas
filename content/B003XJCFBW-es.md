@@ -5,7 +5,7 @@ date: 2020-10-09 13:31:34
 image: 'https://m.media-amazon.com/images/I/41Laa9giZyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XJCFBW-es Texet - Plastificadora tamaño A4'
 sku: 'B003XJCFBW-es'
 tags: [  ]

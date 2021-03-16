@@ -5,7 +5,7 @@ date: 2020-04-06 15:56:13
 image: 'https://m.media-amazon.com/images/I/41tIn+h9NML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0058QTMD2-es Caterpillar Colorado Botas para Hombre Negro Black P714010...'
 sku: 'B0058QTMD2-es'
 tags: [  ]

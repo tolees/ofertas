@@ -5,7 +5,7 @@ date: 2020-09-19 19:13:08
 image: 'https://m.media-amazon.com/images/I/41frmjFursL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4DHBSN-es Chronotech Reloj Analógico para Mujer de Cuarzo con Correa...'
 sku: 'B07Q4DHBSN-es'
 tags: [  ]

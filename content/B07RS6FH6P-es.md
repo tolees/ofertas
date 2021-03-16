@@ -5,7 +5,7 @@ date: 2020-06-01 19:53:12
 image: 'https://m.media-amazon.com/images/I/318BsLQWZjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS6FH6P-es Tommy Hilfiger - Th Nylon Tote Bolsos totes Mujer...'
 sku: 'B07RS6FH6P-es'
 tags: [  ]

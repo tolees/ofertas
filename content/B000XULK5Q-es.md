@@ -5,7 +5,7 @@ date: 2020-02-19 13:48:24
 image: 'https://m.media-amazon.com/images/I/41ruobLxRgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XULK5Q-es Romika Laser 20002 70 000 - Zapatillas de lona estilo...'
 sku: 'B000XULK5Q-es'
 tags: [  ]

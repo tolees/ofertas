@@ -5,7 +5,7 @@ date: 2020-02-13 02:15:26
 image: 'https://m.media-amazon.com/images/I/413Tq5yQ0fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHNP4NT-es Max Factor Base de maquillaje Tono: 80 Bronze Pieles...'
 sku: 'B07JHNP4NT-es'
 tags: [  ]

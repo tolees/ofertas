@@ -5,7 +5,7 @@ date: 2020-09-29 19:18:16
 image: 'https://m.media-amazon.com/images/I/41QCt8+qy2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LEJD10G-es POP! Vinilo - Games: Street Fighter: Cammy'
 sku: 'B01LEJD10G-es'
 tags: [  ]

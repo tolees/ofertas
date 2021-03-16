@@ -5,7 +5,7 @@ date: 2020-06-17 16:33:17
 image: 'https://m.media-amazon.com/images/I/21Cvt+Rk7JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013WBJ2ES-es Olympus VP-10 - Grabadora de Voz Estéreo de Calidad con...'
 sku: 'B013WBJ2ES-es'
 tags: [  ]

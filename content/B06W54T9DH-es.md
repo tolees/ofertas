@@ -5,7 +5,7 @@ date: 2020-08-07 21:26:39
 image: 'https://m.media-amazon.com/images/I/41SVfpSWWHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W54T9DH-es Braun FaceSpa 851 - Sistema 3 en 1 de depiladora facial...'
 sku: 'B06W54T9DH-es'
 tags: [  ]

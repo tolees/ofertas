@@ -5,7 +5,7 @@ date: 2020-05-21 17:14:31
 image: 'https://m.media-amazon.com/images/I/51X80SggPDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O4BC6D0-es Beaphar pipetas repelentes Perro pequeño 3 Unidades'
 sku: 'B00O4BC6D0-es'
 tags: [  ]

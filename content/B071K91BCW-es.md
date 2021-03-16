@@ -5,7 +5,7 @@ date: 2020-02-05 13:02:00
 image: 'https://m.media-amazon.com/images/I/41javFS7BiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071K91BCW-es Flor Suavizante Regular Azul Profesional - 10000 ml'
 sku: 'B071K91BCW-es'
 tags: [  ]

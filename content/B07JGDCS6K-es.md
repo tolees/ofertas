@@ -5,7 +5,7 @@ date: 2020-02-27 11:47:04
 image: 'https://m.media-amazon.com/images/I/31+6jZ9xDaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGDCS6K-es Columbia Ivo Trail Zapatillas para Hombre Negro Black...'
 sku: 'B07JGDCS6K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-16 12:03:25
 image: 'https://m.media-amazon.com/images/I/31nwYR7TujL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FMNYK5-es Moly Caja de Toalla Multifuncional de plástico Simple Caja...'
 sku: 'B088FMNYK5-es'
 tags: [  ]

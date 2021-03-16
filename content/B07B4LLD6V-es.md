@@ -5,7 +5,7 @@ date: 2020-01-10 16:57:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hWMvpBQoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4LLD6V-es G-STAR RAW Lanc 3D Tapered Jeans Azul lt Aged Heavy Stone...'
 sku: 'B07B4LLD6V-es'
 tags: [  ]

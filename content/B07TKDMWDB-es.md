@@ -5,7 +5,7 @@ date: 2020-07-09 22:13:28
 image: 'https://m.media-amazon.com/images/I/31dILJsFibL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDMWDB-es Levi s Original Batwing Blanco Hm Patch Polo White + 0000...'
 sku: 'B07TKDMWDB-es'
 tags: [  ]

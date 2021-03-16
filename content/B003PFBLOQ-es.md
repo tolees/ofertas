@@ -5,7 +5,7 @@ date: 2020-07-01 10:49:32
 image: 'https://m.media-amazon.com/images/I/41nFbVtLGLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003PFBLOQ-es Hama pp-245 - Reloj de pared digital color negro plástico'
 sku: 'B003PFBLOQ-es'
 tags: [  ]

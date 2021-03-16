@@ -5,7 +5,7 @@ date: 2020-07-06 18:07:17
 image: 'https://m.media-amazon.com/images/I/41Ewaoi3AnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GYFZ2ZT-es AOQUSSQOA Mujer Shapewear Faja Reductora Abdomen con...'
 sku: 'B07GYFZ2ZT-es'
 tags: [  ]

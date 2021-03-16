@@ -5,7 +5,7 @@ date: 2020-04-10 00:37:49
 image: 'https://m.media-amazon.com/images/I/51DuHt2HHgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G33JG2N-es Toalla Playa Personalizada con Nombre o Texto. Regalo...'
 sku: 'B07G33JG2N-es'
 tags: [  ]

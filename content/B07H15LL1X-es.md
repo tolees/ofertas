@@ -5,7 +5,7 @@ date: 2020-09-09 17:07:03
 image: 'https://m.media-amazon.com/images/I/41BcRiytjOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H15LL1X-es Manta Electrica Lumbar 120W 65×85'
 sku: 'B07H15LL1X-es'
 tags: [  ]

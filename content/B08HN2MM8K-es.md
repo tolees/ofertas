@@ -5,7 +5,7 @@ date: 2020-10-07 13:12:41
 image: 'https://m.media-amazon.com/images/I/41PgCJphKTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HN2MM8K-es Docooler 10"-17" Pulgadas Gaming Laptop Cooler Cooling Pad...'
 sku: 'B08HN2MM8K-es'
 tags: [  ]

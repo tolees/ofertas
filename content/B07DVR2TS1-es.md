@@ -5,7 +5,7 @@ date: 2020-07-28 15:29:18
 image: 'https://m.media-amazon.com/images/I/41vJ0vlR62L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVR2TS1-es Edifier W860NB Auriculares Bluetooth aptX con Smart Touch...'
 sku: 'B07DVR2TS1-es'
 tags: [  ]

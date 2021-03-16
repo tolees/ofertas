@@ -5,7 +5,7 @@ date: 2020-02-01 12:56:15
 image: 'https://m.media-amazon.com/images/I/31BZNG0XJSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0056MHSL6-es Pincho 400401 Soporte sombrilla Rojo 32x18x8 cm'
 sku: 'B0056MHSL6-es'
 tags: [  ]

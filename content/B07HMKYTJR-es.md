@@ -5,7 +5,7 @@ date: 2020-06-22 13:15:23
 image: 'https://m.media-amazon.com/images/I/41ClrkAclML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMKYTJR-es 28 Palms 6" Inseam Tropical Hawaiian Print Swim Trunk...'
 sku: 'B07HMKYTJR-es'
 tags: [  ]

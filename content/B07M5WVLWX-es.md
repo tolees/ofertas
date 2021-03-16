@@ -5,7 +5,7 @@ date: 2020-08-19 19:54:53
 image: 'https://m.media-amazon.com/images/I/41+kfPCR3iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5WVLWX-es VQYSKO Brazalete Pulsera Pareja Novios DIY Personalizado...'
 sku: 'B07M5WVLWX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 00:21:28
 image: 'https://m.media-amazon.com/images/I/311WmfiVXSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L7NBND6-es Trucos de Magia Hierro con Memoria en Forma de Alambre...'
 sku: 'B01L7NBND6-es'
 tags: [  ]

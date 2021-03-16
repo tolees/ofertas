@@ -5,7 +5,7 @@ date: 2020-01-22 06:02:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ4XKP8-es adidas N-5923 Zapatillas de Gimnasia para Hombre Gris Grey...'
 sku: 'B07JZ4XKP8-es'
 tags: [  ]

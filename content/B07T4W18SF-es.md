@@ -5,7 +5,7 @@ date: 2020-08-21 19:22:04
 image: 'https://m.media-amazon.com/images/I/51vJbsfMqvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4W18SF-es SYOSIN Corrección de Postura Entrenador de Postura...'
 sku: 'B07T4W18SF-es'
 tags: [  ]

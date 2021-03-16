@@ -5,7 +5,7 @@ date: 2020-07-01 19:40:57
 image: 'https://m.media-amazon.com/images/I/41+YHqKepGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5K7FLC-es Salomon XA Visor Visera Unisex Adulto Blanco Talla única...'
 sku: 'B07H5K7FLC-es'
 tags: [  ]

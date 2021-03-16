@@ -5,7 +5,7 @@ date: 2020-05-16 21:33:54
 image: 'https://m.media-amazon.com/images/I/51OmqSzEqrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TKH1AJ4-es Sennheiser 0CX 686i Sports - Auriculares in-ear'
 sku: 'B00TKH1AJ4-es'
 tags: [  ]

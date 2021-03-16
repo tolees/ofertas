@@ -5,7 +5,7 @@ date: 2020-02-23 15:09:18
 image: 'https://m.media-amazon.com/images/I/31wIPNa8K7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CMGTL4-es Rimmel London The Only One Lipstick Barra De Labios Mate...'
 sku: 'B015CMGTL4-es'
 tags: [  ]

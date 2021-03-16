@@ -5,7 +5,7 @@ date: 2020-07-12 02:04:53
 image: 'https://m.media-amazon.com/images/I/41RElKu6KeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B7Y7YWQ-es Trust Gaming GXT 845 Tural - Set de Teclado y ratón Gaming...'
 sku: 'B07B7Y7YWQ-es'
 tags: [  ]

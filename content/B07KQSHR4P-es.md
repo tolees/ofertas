@@ -5,7 +5,7 @@ date: 2020-09-10 20:08:05
 image: 'https://m.media-amazon.com/images/I/311qk7DHKTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQSHR4P-es adidas Essentials 3 Bandas Tight Mallas Mujer Negro...'
 sku: 'B07KQSHR4P-es'
 tags: [  ]

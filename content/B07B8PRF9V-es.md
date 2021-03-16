@@ -5,7 +5,7 @@ date: 2020-01-29 23:10:42
 image: 'https://m.media-amazon.com/images/I/51xwuAmTJ2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8PRF9V-es Purina Gourmet Gold Mousse comida para gatos de Pescado...'
 sku: 'B07B8PRF9V-es'
 tags: [  ]

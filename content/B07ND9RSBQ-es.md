@@ -5,7 +5,7 @@ date: 2020-07-05 21:47:51
 image: 'https://m.media-amazon.com/images/I/41PvKuGrGQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ND9RSBQ-es bugatti 311822604100 Botas clásicas. para Hombre marrón 40 EU'
 sku: 'B07ND9RSBQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-06 11:56:38
 image: 'https://m.media-amazon.com/images/I/41BeRTsqTcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKM32DJ-es Taladro Percutor LOMVUM 810W Taladro Eléctrico 3000RPM...'
 sku: 'B07QKM32DJ-es'
 tags: [  ]

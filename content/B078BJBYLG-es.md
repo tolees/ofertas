@@ -5,7 +5,7 @@ date: 2020-04-07 22:03:47
 image: 'https://m.media-amazon.com/images/I/51XtyczXBkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BJBYLG-es ROSENICE Azulejos de mosaico mezclados para manualidades...'
 sku: 'B078BJBYLG-es'
 tags: [  ]

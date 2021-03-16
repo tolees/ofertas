@@ -5,7 +5,7 @@ date: 2020-06-27 09:33:12
 image: 'https://m.media-amazon.com/images/I/31Jzud7nzXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YLLLTY1-es ngzhongtu 4 Puertos HUB de Alta Velocidad Hi-Speed 4...'
 sku: 'B07YLLLTY1-es'
 tags: [  ]

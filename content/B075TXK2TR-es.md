@@ -5,7 +5,7 @@ date: 2020-04-16 09:16:56
 image: 'https://m.media-amazon.com/images/I/51LngHzT6WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075TXK2TR-es MLG Tools Trampa para Ratas. XXL * 6 Unidades faciles de...'
 sku: 'B075TXK2TR-es'
 tags: [  ]

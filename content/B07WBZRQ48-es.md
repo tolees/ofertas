@@ -5,7 +5,7 @@ date: 2020-04-16 09:16:17
 image: 'https://m.media-amazon.com/images/I/318wXLdHftL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBZRQ48-es SALAKA Gardening Weeder Hand Weeder Gardening Weeding Tool...'
 sku: 'B07WBZRQ48-es'
 tags: [  ]

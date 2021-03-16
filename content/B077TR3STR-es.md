@@ -5,7 +5,7 @@ date: 2020-01-08 19:49:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31VFrIXRcSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TR3STR-es Reebok Zapatillas de Deporte Unisex Adulto Multicolor...'
 sku: 'B077TR3STR-es'
 tags: [  ]

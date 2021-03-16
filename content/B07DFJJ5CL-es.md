@@ -5,7 +5,7 @@ date: 2020-09-10 21:21:43
 image: 'https://m.media-amazon.com/images/I/41n-9kwuMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFJJ5CL-es LAST LEVEL- Funko Pop: Kingdom Hearts 3: Goofy Monsters...'
 sku: 'B07DFJJ5CL-es'
 tags: [  ]

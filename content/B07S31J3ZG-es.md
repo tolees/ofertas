@@ -5,7 +5,7 @@ date: 2020-04-12 15:21:47
 image: 'https://m.media-amazon.com/images/I/41GDAUZifwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S31J3ZG-es BOSS Starfish Bañador para Hombre Verde Green Medium'
 sku: 'B07S31J3ZG-es'
 tags: [  ]

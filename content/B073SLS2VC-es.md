@@ -5,7 +5,7 @@ date: 2020-09-01 05:48:46
 image: 'https://m.media-amazon.com/images/I/41dNIYrBF3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073SLS2VC-es Emporio Armani Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B073SLS2VC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 19:31:10
 image: 'https://m.media-amazon.com/images/I/31Mt1GacdCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFKDQX8-es Tranjis Games - POC! - Juego de mesa TRG-014poc'
 sku: 'B07PFKDQX8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 10:43:15
 image: 'https://m.media-amazon.com/images/I/31XMPjkycvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FB53LWX-es Superdry Label Jogger Pantalones de deporte Hombre Azul...'
 sku: 'B07FB53LWX-es'
 tags: [  ]

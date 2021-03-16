@@ -5,7 +5,7 @@ date: 2020-10-08 17:20:41
 image: 'https://m.media-amazon.com/images/I/412G90LEloL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PUAD2TG-es Belkin Boosy Up - Cargador para Coche Universal con Cable...'
 sku: 'B00PUAD2TG-es'
 tags: [  ]

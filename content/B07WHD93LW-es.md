@@ -5,7 +5,7 @@ date: 2020-09-08 10:03:10
 image: 'https://m.media-amazon.com/images/I/41rG0agz-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHD93LW-es Dockers by Gerli 46fz001-706440 Zapatillas para Hombre...'
 sku: 'B07WHD93LW-es'
 tags: [  ]

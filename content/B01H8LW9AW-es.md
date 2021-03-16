@@ -5,7 +5,7 @@ date: 2020-02-24 17:29:51
 image: 'https://m.media-amazon.com/images/I/31ae8kPGlnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H8LW9AW-es Under Armour Men s Shadow Cap 4.0 Gorra Hombre Negro...'
 sku: 'B01H8LW9AW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-26 13:11:18
 image: 'https://m.media-amazon.com/images/I/31mi8ZmjxZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCL5WT4-es Helly Hansen W Pier 2 Pant Bib Mujer Navy XS'
 sku: 'B01NCL5WT4-es'
 tags: [  ]

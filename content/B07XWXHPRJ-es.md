@@ -5,7 +5,7 @@ date: 2020-07-31 11:10:46
 image: 'https://m.media-amazon.com/images/I/41r2Ma4+XzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XWXHPRJ-es WESCO Destornillador Eléctrico Inalámbrico 3 6V...'
 sku: 'B07XWXHPRJ-es'
 tags: [  ]

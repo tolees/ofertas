@@ -5,7 +5,7 @@ date: 2020-08-27 02:56:45
 image: 'https://m.media-amazon.com/images/I/51uruSxfXNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3Y15FZ-es Cepillo de dientes para perros juguete para masticar...'
 sku: 'B08B3Y15FZ-es'
 tags: [  ]

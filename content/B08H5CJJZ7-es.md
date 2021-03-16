@@ -5,7 +5,7 @@ date: 2020-09-11 08:57:45
 image: 'https://m.media-amazon.com/images/I/31yiB5OrW0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H5CJJZ7-es i12-TWS Auriculares inalámbricos Bluetooth 5.0 Toque...'
 sku: 'B08H5CJJZ7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 11:59:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51SHbFkY15L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T63YPOO-es Yazilind Joyas de plata esterlina corazón diseño anillo...'
 sku: 'B00T63YPOO-es'
 tags: [  ]

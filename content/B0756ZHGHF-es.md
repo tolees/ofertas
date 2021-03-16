@@ -5,7 +5,7 @@ date: 2020-08-20 13:34:45
 image: 'https://m.media-amazon.com/images/I/51xrNAOfiEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756ZHGHF-es Intex 57281EU - Unicornio hinchable XL - 287x193x165 cm'
 sku: 'B0756ZHGHF-es'
 tags: [  ]

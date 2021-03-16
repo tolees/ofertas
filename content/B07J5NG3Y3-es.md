@@ -5,7 +5,7 @@ date: 2020-05-31 12:39:32
 image: 'https://m.media-amazon.com/images/I/41nI8jidstL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5NG3Y3-es GARRAPATIN Antiparasitario pulgas casetas y Camas de Perro...'
 sku: 'B07J5NG3Y3-es'
 tags: [  ]

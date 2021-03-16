@@ -5,7 +5,7 @@ date: 2020-01-11 18:22:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BnwdY6d%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NC21BAH-es BabyMoments Cards by Mimuselina Bilingüe: Español-English...'
 sku: 'B01NC21BAH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-30 15:10:04
 image: 'https://m.media-amazon.com/images/I/41J5-NeNB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPB8DMY-es Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con...'
 sku: 'B07RPB8DMY-es'
 tags: [  ]

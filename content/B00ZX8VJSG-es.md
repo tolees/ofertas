@@ -5,7 +5,7 @@ date: 2020-03-23 23:38:56
 image: 'https://m.media-amazon.com/images/I/514EqvzWoKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZX8VJSG-es Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B00ZX8VJSG-es'
 tags: [  ]

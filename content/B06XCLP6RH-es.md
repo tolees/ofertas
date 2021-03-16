@@ -5,7 +5,7 @@ date: 2020-04-23 11:02:37
 image: 'https://m.media-amazon.com/images/I/41uNP+-BgcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCLP6RH-es DH Sports Grofitness Calcetines de compresión para Correr...'
 sku: 'B06XCLP6RH-es'
 tags: [  ]

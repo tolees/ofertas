@@ -5,7 +5,7 @@ date: 2020-09-27 08:39:00
 image: 'https://m.media-amazon.com/images/I/31v2xMlSoXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089DH63FZ-es Sandalia Plana para Mujer Plateado 38 EU'
 sku: 'B089DH63FZ-es'
 tags: [  ]

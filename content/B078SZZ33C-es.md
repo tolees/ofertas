@@ -5,7 +5,7 @@ date: 2020-07-20 22:15:08
 image: 'https://m.media-amazon.com/images/I/41OHdEi0vaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SZZ33C-es Clarks Brixby Shore Sandalia con Pulsera para Hombre...'
 sku: 'B078SZZ33C-es'
 tags: [  ]

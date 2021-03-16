@@ -5,7 +5,7 @@ date: 2020-07-22 07:31:40
 image: 'https://m.media-amazon.com/images/I/31s+ANzlPbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BBTLDQ-es Hagibis Soporte refrigerador enfriador de portátil...'
 sku: 'B088BBTLDQ-es'
 tags: [  ]

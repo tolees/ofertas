@@ -5,7 +5,7 @@ date: 2020-05-15 10:07:28
 image: 'https://m.media-amazon.com/images/I/41BSMvaZWDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872P4JWX-es Funda Transparente Compatible para Redmi K30/K30 Pro...'
 sku: 'B0872P4JWX-es'
 tags: [  ]

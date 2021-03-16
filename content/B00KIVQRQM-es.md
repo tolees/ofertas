@@ -5,7 +5,7 @@ date: 2020-03-14 14:03:40
 image: 'https://m.media-amazon.com/images/I/313T9I+KRuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KIVQRQM-es Dr Irena Eris Crema Contorno Ojos Anti-Arrugas 45+ - 15 ml'
 sku: 'B00KIVQRQM-es'
 tags: [  ]

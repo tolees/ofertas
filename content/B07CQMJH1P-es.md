@@ -5,7 +5,7 @@ date: 2020-05-01 09:41:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hNWJOeT2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQMJH1P-es LEMESO Universal Mosquitera Carrito Bebé Mosquitera para...'
 sku: 'B07CQMJH1P-es'
 tags: [  ]

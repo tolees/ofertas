@@ -5,7 +5,7 @@ date: 2020-04-20 10:02:53
 image: 'https://m.media-amazon.com/images/I/416MaI9L0UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082P5PCHQ-es EShine Acabado Blanco 3 paneles de luz LED de 30 cm para...'
 sku: 'B082P5PCHQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-29 10:32:10
 image: 'https://m.media-amazon.com/images/I/41FGpgldXbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXQ5N4D-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene Verde...'
 sku: 'B07FXQ5N4D-es'
 tags: [  ]

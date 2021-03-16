@@ -5,7 +5,7 @@ date: 2020-04-16 18:19:31
 image: 'https://m.media-amazon.com/images/I/51KdvXxMWHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KRMVHL-es K9CK Juego de Luces para Lego Technic Land Rover Defender...'
 sku: 'B082KRMVHL-es'
 tags: [  ]

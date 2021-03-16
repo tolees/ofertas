@@ -5,7 +5,7 @@ date: 2020-03-11 08:02:39
 image: 'https://m.media-amazon.com/images/I/516sw3Ql2mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXKBQXB-es Batidora de Vaso Deik Batidora 3 en 1 con Molinillo y...'
 sku: 'B07BXKBQXB-es'
 tags: [  ]

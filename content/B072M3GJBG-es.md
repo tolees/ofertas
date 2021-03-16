@@ -5,7 +5,7 @@ date: 2020-04-17 10:01:55
 image: 'https://m.media-amazon.com/images/I/31OWrZ3vHZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072M3GJBG-es Silver HT 17119 - Adaptador tipo-C GN30H a Ethernet y HUB...'
 sku: 'B072M3GJBG-es'
 tags: [  ]

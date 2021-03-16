@@ -5,7 +5,7 @@ date: 2020-05-27 15:41:37
 image: 'https://m.media-amazon.com/images/I/41A3TYgBTcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VK5QF8P-es Camisetas Tirantes Basicas para Mujer Verano LuckyGirls •...'
 sku: 'B07VK5QF8P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 04:11:09
 image: 'https://m.media-amazon.com/images/I/41cxAVicqIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CB8SYBC-es JEVX Megafono Portatil 4 en 1 con BATERIA Recargable +...'
 sku: 'B08CB8SYBC-es'
 tags: [  ]

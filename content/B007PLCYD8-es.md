@@ -5,7 +5,7 @@ date: 2020-08-28 16:11:05
 image: 'https://m.media-amazon.com/images/I/41biJM28I5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007PLCYD8-es Port Designs Colorado - Funda para disco duro de 2.5"...'
 sku: 'B007PLCYD8-es'
 tags: [  ]

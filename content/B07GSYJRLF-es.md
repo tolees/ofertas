@@ -5,7 +5,7 @@ date: 2020-07-25 01:16:49
 image: 'https://m.media-amazon.com/images/I/41jpnjoYzKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSYJRLF-es EKKONG 24 Piezas Ganchos Adhesivos Adhesivo Fuerte uñas...'
 sku: 'B07GSYJRLF-es'
 tags: [  ]

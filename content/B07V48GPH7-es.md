@@ -5,7 +5,7 @@ date: 2020-08-07 20:26:19
 image: 'https://m.media-amazon.com/images/I/31-pkL6kMwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V48GPH7-es BOSS Identity Pants Pantalones de Deporte Azul Dark Blue...'
 sku: 'B07V48GPH7-es'
 tags: [  ]

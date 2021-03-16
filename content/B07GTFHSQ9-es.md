@@ -5,7 +5,7 @@ date: 2020-01-20 18:09:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZHTGmEnUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GTFHSQ9-es Devolo Magic 1 LAN - Starter Kit de Powerline para una Red...'
 sku: 'B07GTFHSQ9-es'
 tags: [  ]

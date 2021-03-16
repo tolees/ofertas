@@ -5,7 +5,7 @@ date: 2020-09-26 09:12:43
 image: 'https://m.media-amazon.com/images/I/519R1d1Kn3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBJ27X3-es LIGE Relojes Hombre Militare Deportivos Impermeable Acero...'
 sku: 'B07XBJ27X3-es'
 tags: [  ]

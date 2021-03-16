@@ -5,7 +5,7 @@ date: 2020-04-21 14:40:42
 image: 'https://m.media-amazon.com/images/I/31f4CIzkLEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9F4JC6-es Cojín Almohada LED Estrella laamei Felpa Juguetes Muñecas...'
 sku: 'B07M9F4JC6-es'
 tags: [  ]

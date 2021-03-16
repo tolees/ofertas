@@ -5,7 +5,7 @@ date: 2020-03-13 07:55:24
 image: 'https://m.media-amazon.com/images/I/41CgZyKnTuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003KR6EOQ-es Kyocera Tk-160 Tóner color negro 1T02LY0NL0 para Ecosys...'
 sku: 'B003KR6EOQ-es'
 tags: [  ]

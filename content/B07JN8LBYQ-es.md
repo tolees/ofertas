@@ -5,7 +5,7 @@ date: 2020-05-12 17:05:15
 image: 'https://m.media-amazon.com/images/I/41aAKY1NOGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JN8LBYQ-es Powerlegs – Ejercita Tus Piernas Sin Esfuerzo Con Mando A...'
 sku: 'B07JN8LBYQ-es'
 tags: [  ]

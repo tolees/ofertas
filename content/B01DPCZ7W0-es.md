@@ -5,7 +5,7 @@ date: 2019-12-31 19:04:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41de1sF74VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DPCZ7W0-es Vangold Reloj silencioso 3D adhesivo efecto cristal para...'
 sku: 'B01DPCZ7W0-es'
 tags: [  ]

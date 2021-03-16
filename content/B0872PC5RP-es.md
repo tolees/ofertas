@@ -5,7 +5,7 @@ date: 2020-05-22 13:01:58
 image: 'https://m.media-amazon.com/images/I/41-OLp8tqcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872PC5RP-es Funda Transparente Compatible para Xiaomi Mi A3 Carcasa...'
 sku: 'B0872PC5RP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-07 13:51:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dKisvnmHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003AWBE8W-es Festina Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B003AWBE8W-es'
 tags: [  ]

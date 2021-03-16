@@ -5,7 +5,7 @@ date: 2020-02-23 05:33:29
 image: 'https://m.media-amazon.com/images/I/31x0FWrhoiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H91CGG9-es Bourjois Rouge Fabuleux Barra De Labios Tono 010 Scarlet...'
 sku: 'B07H91CGG9-es'
 tags: [  ]

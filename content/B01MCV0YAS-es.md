@@ -5,7 +5,7 @@ date: 2020-04-11 12:03:44
 image: 'https://m.media-amazon.com/images/I/61F6UeigJvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MCV0YAS-es Haikyu!! Los Ases Del Voley -Blu-Ray Edición...'
 sku: 'B01MCV0YAS-es'
 tags: [  ]

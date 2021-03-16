@@ -5,7 +5,7 @@ date: 2020-06-26 09:22:53
 image: 'https://m.media-amazon.com/images/I/51fUHBuy7nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4CQVFT-es Abalorios para Hacer Collares Abalorios para Hacer...'
 sku: 'B07V4CQVFT-es'
 tags: [  ]

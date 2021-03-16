@@ -5,7 +5,7 @@ date: 2020-01-25 13:55:29
 image: 'https://m.media-amazon.com/images/I/51LeBH4WhqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1OUIA3-es ALLPOWERS Panel Solar Baterías Cargador 18V 12V 18W Panel...'
 sku: 'B01N1OUIA3-es'
 tags: [  ]

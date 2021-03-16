@@ -5,7 +5,7 @@ date: 2020-05-31 16:05:03
 image: 'https://m.media-amazon.com/images/I/41zMc0iD6UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018UAOPHK-es Cometa espantapájaros de calidad profesional'
 sku: 'B018UAOPHK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 00:04:34
 image: 'https://m.media-amazon.com/images/I/31HlHh5ePXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C59WWGJ-es Khanomak Sólido Ligero y Mediana Altura Auto Cinturón de...'
 sku: 'B07C59WWGJ-es'
 tags: [  ]

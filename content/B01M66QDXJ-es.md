@@ -5,7 +5,7 @@ date: 2020-04-12 07:50:20
 image: 'https://m.media-amazon.com/images/I/41kDpOxpJqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M66QDXJ-es Badabulle B022002 - Anillo de baño plegable montaña'
 sku: 'B01M66QDXJ-es'
 tags: [  ]

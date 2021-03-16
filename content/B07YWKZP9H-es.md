@@ -5,7 +5,7 @@ date: 2020-04-13 08:23:00
 image: 'https://m.media-amazon.com/images/I/413Nt5c9W1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWKZP9H-es Madeb La Bolsa de Basura con cordón de es fácil de Usar...'
 sku: 'B07YWKZP9H-es'
 tags: [  ]

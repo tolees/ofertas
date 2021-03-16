@@ -5,7 +5,7 @@ date: 2020-08-11 18:28:56
 image: 'https://m.media-amazon.com/images/I/41s19F1MPGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYY5DSN-es Tommy Hilfiger TH Essential Flex Pleated Pullon Pantalones...'
 sku: 'B07JYY5DSN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-14 11:02:51
 image: 'https://m.media-amazon.com/images/I/41E1jWj1S9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O511LSA-es Bébé Confort Rodi AirProtect - Silla de coche para niños...'
 sku: 'B00O511LSA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 18:01:01
 image: 'https://m.media-amazon.com/images/I/51PqvnPtyLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG5FSRT-es WowPrint Animal Dragonfly - Mochila para libros mochila...'
 sku: 'B07HG5FSRT-es'
 tags: [  ]

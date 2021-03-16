@@ -5,7 +5,7 @@ date: 2020-04-18 02:31:45
 image: 'https://m.media-amazon.com/images/I/41cTEYTU2mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XX7CS63-es KFD 65W Adaptador Cargador Portátil para Lenovo IdeaPad...'
 sku: 'B06XX7CS63-es'
 tags: [  ]

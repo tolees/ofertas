@@ -5,7 +5,7 @@ date: 2020-02-04 13:19:24
 image: 'https://m.media-amazon.com/images/I/51Ox2mK14wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KZ0WP52-es Black+Decker A7233-XJ - Juego de 31 Piezas para Atornillar...'
 sku: 'B01KZ0WP52-es'
 tags: [  ]

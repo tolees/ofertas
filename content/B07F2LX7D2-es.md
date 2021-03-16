@@ -5,7 +5,7 @@ date: 2020-06-10 06:25:14
 image: 'https://m.media-amazon.com/images/I/41SC3s0TrtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2LX7D2-es Helly Hansen Active Windbreaker Jacket Hombre Negro Ebony 2XL'
 sku: 'B07F2LX7D2-es'
 tags: [  ]

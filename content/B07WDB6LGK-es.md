@@ -5,7 +5,7 @@ date: 2020-07-26 20:41:14
 image: 'https://m.media-amazon.com/images/I/41a8EdIFVtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDB6LGK-es TACKLIFE Juego de Brocas ADC01C Taladros Kit Avanzado de 5...'
 sku: 'B07WDB6LGK-es'
 tags: [  ]

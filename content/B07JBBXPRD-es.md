@@ -5,7 +5,7 @@ date: 2020-06-03 14:13:26
 image: 'https://m.media-amazon.com/images/I/31ohLvjZ16L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBBXPRD-es Columbia Trail Shaker Braga Para El Cuello Unisex adulto...'
 sku: 'B07JBBXPRD-es'
 tags: [  ]

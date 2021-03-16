@@ -5,7 +5,7 @@ date: 2020-08-22 11:11:40
 image: 'https://m.media-amazon.com/images/I/4123ZGnQcQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EY6AU6K-es Olympus OM-D E-M1 - Cámara Evil de 16 MP Pantalla de 3"...'
 sku: 'B00EY6AU6K-es'
 tags: [  ]

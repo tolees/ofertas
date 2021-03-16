@@ -5,7 +5,7 @@ date: 2020-08-14 08:45:52
 image: 'https://m.media-amazon.com/images/I/513DD4KV0hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084NVJ77K-es 29 * 19 cm Bebé Niños Niños Escribir Dibujar Pintura...'
 sku: 'B084NVJ77K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 12:21:08
 image: 'https://m.media-amazon.com/images/I/51KWOPmQBxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KLMKCZ-es Scholl Plantillas Gelactiv Uso Diario Hombre + Crema de...'
 sku: 'B083KLMKCZ-es'
 tags: [  ]

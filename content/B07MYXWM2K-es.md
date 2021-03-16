@@ -5,7 +5,7 @@ date: 2020-02-08 21:16:24
 image: 'https://m.media-amazon.com/images/I/41v+D5hjNGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYXWM2K-es OurLeeme Iluminación para lectura Brillo de 4 niveles...'
 sku: 'B07MYXWM2K-es'
 tags: [  ]

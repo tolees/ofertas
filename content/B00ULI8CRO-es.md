@@ -5,7 +5,7 @@ date: 2020-01-22 15:14:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fJn75d76L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ULI8CRO-es Samsonite Neopulse - Spinner S Ancho: 20 cm Equipaje de...'
 sku: 'B00ULI8CRO-es'
 tags: [  ]

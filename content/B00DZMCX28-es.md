@@ -5,7 +5,7 @@ date: 2020-10-04 15:41:58
 image: 'https://m.media-amazon.com/images/I/41pavrQobDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DZMCX28-es Leotec Hardy Life VERDE'
 sku: 'B00DZMCX28-es'
 tags: [  ]

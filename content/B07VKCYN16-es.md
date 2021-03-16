@@ -5,7 +5,7 @@ date: 2020-03-08 17:12:27
 image: 'https://m.media-amazon.com/images/I/419PmOsyS8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKCYN16-es Fossil Mujer acero inoxidable Pulsera esclava JF03193791'
 sku: 'B07VKCYN16-es'
 tags: [  ]

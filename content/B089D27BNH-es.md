@@ -5,7 +5,7 @@ date: 2020-08-30 04:14:12
 image: 'https://m.media-amazon.com/images/I/51PB7bqpIDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089D27BNH-es TACKLIFE Juego de Llaves Combinadas - 16 Piezas 7-22mm...'
 sku: 'B089D27BNH-es'
 tags: [  ]

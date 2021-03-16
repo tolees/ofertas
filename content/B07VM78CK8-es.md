@@ -5,7 +5,7 @@ date: 2020-07-29 13:28:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31RagKMDvaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VM78CK8-es Verdadero Auricular inalámbrico Bluetooth Auriculares...'
 sku: 'B07VM78CK8-es'
 tags: [  ]

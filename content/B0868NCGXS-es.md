@@ -5,7 +5,7 @@ date: 2020-04-27 11:40:56
 image: 'https://m.media-amazon.com/images/I/51rbiZYVIdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868NCGXS-es Suhctup Transparente Funda Compatible con Xiaomi Mi Mix 3...'
 sku: 'B0868NCGXS-es'
 tags: [  ]

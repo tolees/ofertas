@@ -5,7 +5,7 @@ date: 2020-06-08 08:12:56
 image: 'https://m.media-amazon.com/images/I/31B8uNb2Q5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081TTGZXW-es adidas Drst Ask Bra Sujetador de Deporte Mujer White XS'
 sku: 'B081TTGZXW-es'
 tags: [  ]

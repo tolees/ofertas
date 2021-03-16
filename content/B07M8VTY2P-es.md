@@ -5,7 +5,7 @@ date: 2020-10-08 17:41:52
 image: 'https://m.media-amazon.com/images/I/31bC2985lyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8VTY2P-es Morph Adulto Iluminarse Screaming Payaso del Demonio...'
 sku: 'B07M8VTY2P-es'
 tags: [  ]

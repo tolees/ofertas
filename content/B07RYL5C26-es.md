@@ -5,7 +5,7 @@ date: 2020-06-07 02:04:15
 image: 'https://m.media-amazon.com/images/I/41dxLOiCL+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYL5C26-es New Balance 997h Zapatillas para Mujer Azul Navy/Pink HAO...'
 sku: 'B07RYL5C26-es'
 tags: [  ]

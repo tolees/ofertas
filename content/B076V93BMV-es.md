@@ -5,7 +5,7 @@ date: 2020-01-04 21:02:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gy2Eo1DJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076V93BMV-es Telémetro Láser 60m Profesional Digital Multifuncional...'
 sku: 'B076V93BMV-es'
 tags: [  ]

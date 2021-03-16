@@ -5,7 +5,7 @@ date: 2020-03-02 19:11:01
 image: 'https://m.media-amazon.com/images/I/519NxRldYLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VB6HPV-es LIUMY Pelota de Juguete al Aire Libre para Perros Juguete...'
 sku: 'B082VB6HPV-es'
 tags: [  ]

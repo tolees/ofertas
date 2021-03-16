@@ -5,7 +5,7 @@ date: 2020-06-22 11:52:05
 image: 'https://m.media-amazon.com/images/I/41KdfxReArL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KX6GPGE-es Bering 14440-077 - Reloj para Hombre'
 sku: 'B00KX6GPGE-es'
 tags: [  ]

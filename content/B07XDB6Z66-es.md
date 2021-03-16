@@ -5,7 +5,7 @@ date: 2020-01-06 10:36:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61%2B3klKEpRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDB6Z66-es ERIK - Calendario de pared 2020 Gameration 30 x 30 cm...'
 sku: 'B07XDB6Z66-es'
 tags: [  ]

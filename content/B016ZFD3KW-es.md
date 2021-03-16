@@ -5,7 +5,7 @@ date: 2020-04-18 02:02:35
 image: 'https://m.media-amazon.com/images/I/5119alGdNAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016ZFD3KW-es Kepuch Custer Funda para Kindle Paperwhite 1/2/3 2012 2013...'
 sku: 'B016ZFD3KW-es'
 tags: [  ]

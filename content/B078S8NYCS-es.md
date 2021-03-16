@@ -5,7 +5,7 @@ date: 2020-03-10 15:47:02
 image: 'https://m.media-amazon.com/images/I/41SSEN-TJSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078S8NYCS-es Chlorella Espirulina.Spirulina Potente DETOX Antioxidante-...'
 sku: 'B078S8NYCS-es'
 tags: [  ]

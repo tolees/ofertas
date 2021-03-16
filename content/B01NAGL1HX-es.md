@@ -5,7 +5,7 @@ date: 2020-06-22 21:42:00
 image: 'https://m.media-amazon.com/images/I/41BKLuPeKmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAGL1HX-es Dymatize Elite Whey Strawberry Blast 2 1Kg - Pulverizador...'
 sku: 'B01NAGL1HX-es'
 tags: [  ]

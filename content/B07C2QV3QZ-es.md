@@ -5,7 +5,7 @@ date: 2020-04-08 05:57:08
 image: 'https://m.media-amazon.com/images/I/41u032xT5qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2QV3QZ-es ETEKCITY EK7017 Báscula Digital para Cocina con Pantalla...'
 sku: 'B07C2QV3QZ-es'
 tags: [  ]

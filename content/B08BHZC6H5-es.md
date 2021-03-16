@@ -5,7 +5,7 @@ date: 2020-06-23 17:46:23
 image: 'https://m.media-amazon.com/images/I/61y4MJXdunL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHZC6H5-es BOWFU Funda para LG K51 Case [Ranuras de Tarjeta][Soporte...'
 sku: 'B08BHZC6H5-es'
 tags: [  ]

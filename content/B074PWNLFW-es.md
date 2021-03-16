@@ -5,7 +5,7 @@ date: 2020-09-11 14:32:04
 image: 'https://m.media-amazon.com/images/I/31ND-x-GS9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PWNLFW-es DURAGADGET Cable De Audio Monitor ASUS VX229H VX239H...'
 sku: 'B074PWNLFW-es'
 tags: [  ]

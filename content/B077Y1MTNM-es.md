@@ -5,7 +5,7 @@ date: 2020-07-04 18:38:02
 image: 'https://m.media-amazon.com/images/I/41xaSkOmHnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y1MTNM-es Superga 2730-Cotu Zapatillas de Gimnasio para Mujer Grigio...'
 sku: 'B077Y1MTNM-es'
 tags: [  ]

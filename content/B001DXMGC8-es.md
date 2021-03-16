@@ -5,7 +5,7 @@ date: 2020-05-18 21:07:19
 image: 'https://m.media-amazon.com/images/I/41FEjkkENBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DXMGC8-es HP 304 - Cartucho de tóner Original HP 304A Cian para HP...'
 sku: 'B001DXMGC8-es'
 tags: [  ]

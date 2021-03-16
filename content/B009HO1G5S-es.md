@@ -5,7 +5,7 @@ date: 2020-09-21 09:28:41
 image: 'https://m.media-amazon.com/images/I/41jjTtAJPiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009HO1G5S-es Superga Classic Zapatillas para Hombre Gris Mushroom C26...'
 sku: 'B009HO1G5S-es'
 tags: [  ]

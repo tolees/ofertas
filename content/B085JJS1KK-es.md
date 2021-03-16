@@ -5,7 +5,7 @@ date: 2020-09-05 07:59:57
 image: 'https://m.media-amazon.com/images/I/41A+wo55ZQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085JJS1KK-es Huawei P40 - Smartphone 128GB 8GB RAM Dual Sim Black'
 sku: 'B085JJS1KK-es'
 tags: [  ]

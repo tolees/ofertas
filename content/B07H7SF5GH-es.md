@@ -5,7 +5,7 @@ date: 2020-01-10 11:07:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412h1jfmVeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7SF5GH-es Nike Wmns Downshifter 9 Zapatillas de Running para Mujer...'
 sku: 'B07H7SF5GH-es'
 tags: [  ]

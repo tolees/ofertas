@@ -5,7 +5,7 @@ date: 2020-08-19 18:46:52
 image: 'https://m.media-amazon.com/images/I/510gl+xmWRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BWRGXFX-es LXHGrowH Funda para Huawei P40 Lite E - Carcasa Completa...'
 sku: 'B08BWRGXFX-es'
 tags: [  ]

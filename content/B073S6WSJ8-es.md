@@ -5,7 +5,7 @@ date: 2020-07-19 19:45:39
 image: 'https://m.media-amazon.com/images/I/41aim9Un6jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073S6WSJ8-es HOWADE Ajedrez 12 "x12 pulgadas juego de tablero de madera...'
 sku: 'B073S6WSJ8-es'
 tags: [  ]

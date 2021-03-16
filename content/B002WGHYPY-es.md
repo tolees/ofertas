@@ -5,7 +5,7 @@ date: 2020-07-28 10:24:17
 image: 'https://m.media-amazon.com/images/I/31xAOdsoVcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002WGHYPY-es Superga 2750 Cotu Classic Zapatillas Unisex Adulto Beige...'
 sku: 'B002WGHYPY-es'
 tags: [  ]

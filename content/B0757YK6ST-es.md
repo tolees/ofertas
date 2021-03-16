@@ -5,7 +5,7 @@ date: 2020-01-06 21:16:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51wf-fovZeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757YK6ST-es Marvel -Saco de Cuerdas Storm'
 sku: 'B0757YK6ST-es'
 tags: [  ]

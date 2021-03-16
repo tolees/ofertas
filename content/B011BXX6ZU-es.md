@@ -5,7 +5,7 @@ date: 2020-01-02 09:47:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DuOk3j2rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011BXX6ZU-es Teka 40229085 - Encimera Butano 60 cm Negro'
 sku: 'B011BXX6ZU-es'
 tags: [  ]

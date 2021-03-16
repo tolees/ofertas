@@ -5,7 +5,7 @@ date: 2020-01-14 20:39:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41u0l1wdoUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J2BHHPT-es Lee Rider Short Pantalones Cortos Azul Flick Dark Ka 28W...'
 sku: 'B07J2BHHPT-es'
 tags: [  ]

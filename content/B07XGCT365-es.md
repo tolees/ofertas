@@ -5,7 +5,7 @@ date: 2020-09-07 09:09:20
 image: 'https://m.media-amazon.com/images/I/51k6Lnlq2OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGCT365-es DCL Drone Championship League'
 sku: 'B07XGCT365-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-10 08:57:46
 image: 'https://m.media-amazon.com/images/I/31pbw6OomKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MXGLQV-es KFAWON Ring Pilates Yoga Magic Fitness Circle -Equipo de...'
 sku: 'B086MXGLQV-es'
 tags: [  ]

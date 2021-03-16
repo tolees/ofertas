@@ -5,7 +5,7 @@ date: 2020-05-23 09:36:47
 image: 'https://m.media-amazon.com/images/I/416kPsjvKNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082YQKT8G-es Oihxse Colorido Gradual Cristal Estilo Case Compatible con...'
 sku: 'B082YQKT8G-es'
 tags: [  ]

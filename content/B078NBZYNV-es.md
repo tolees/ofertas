@@ -5,7 +5,7 @@ date: 2020-08-17 13:15:44
 image: 'https://m.media-amazon.com/images/I/51nZRBVNOPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NBZYNV-es Catherine Lansfield - Juego de Funda de edredón de fácil...'
 sku: 'B078NBZYNV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 13:26:27
 image: 'https://m.media-amazon.com/images/I/41znAAqKrgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFDXDB6-es Dremel Versa Limpiador de Alta Velocidad - Kit de Limpieza...'
 sku: 'B07YFDXDB6-es'
 tags: [  ]

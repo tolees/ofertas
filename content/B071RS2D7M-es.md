@@ -5,7 +5,7 @@ date: 2020-05-29 05:46:50
 image: 'https://m.media-amazon.com/images/I/319w9U7ffiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RS2D7M-es Saucony Jazz Original Vintage Zapatillas de Cross Unisex...'
 sku: 'B071RS2D7M-es'
 tags: [  ]

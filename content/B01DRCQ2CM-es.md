@@ -5,7 +5,7 @@ date: 2020-09-20 20:10:44
 image: 'https://m.media-amazon.com/images/I/51ZlEAdxRlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DRCQ2CM-es Operación Soldados de Juguete DVD 1991 Toy Soldiers'
 sku: 'B01DRCQ2CM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-17 20:21:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41F4EZJMkwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P36PLGK-es Skechers Heston Zapatillas para Hombre Negro Black Leather...'
 sku: 'B07P36PLGK-es'
 tags: [  ]

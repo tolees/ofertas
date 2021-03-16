@@ -5,7 +5,7 @@ date: 2020-08-21 12:57:27
 image: 'https://m.media-amazon.com/images/I/516f58IVI0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F6PZKZJ-es Sorel Glacy Short Botas para Mujer Marrón Delta/Autumn...'
 sku: 'B07F6PZKZJ-es'
 tags: [  ]

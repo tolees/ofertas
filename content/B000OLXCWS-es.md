@@ -5,7 +5,7 @@ date: 2020-09-20 16:35:05
 image: 'https://m.media-amazon.com/images/I/51UV9gnUtpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OLXCWS-es Converse Chuck Taylor All Star Hi Top Zapatillas Unisex...'
 sku: 'B000OLXCWS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-09 18:03:34
 image: 'https://m.media-amazon.com/images/I/41YDCUrM-ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0101HXZ1W-es Bote 3 unidades Pelotas Nox'
 sku: 'B0101HXZ1W-es'
 tags: [  ]

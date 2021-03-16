@@ -5,7 +5,7 @@ date: 2020-08-19 07:01:42
 image: 'https://m.media-amazon.com/images/I/41OJ7NRQZFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAH31RX-es OrthoCare S.Fitness - Rodillera Soporte y compresión para...'
 sku: 'B01NAH31RX-es'
 tags: [  ]

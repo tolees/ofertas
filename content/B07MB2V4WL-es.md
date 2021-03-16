@@ -5,7 +5,7 @@ date: 2020-03-28 16:16:40
 image: 'https://m.media-amazon.com/images/I/41tcWPUOzAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MB2V4WL-es Nike The Premier II FG Zapatillas de Fútbol Unisex Adulto...'
 sku: 'B07MB2V4WL-es'
 tags: [  ]

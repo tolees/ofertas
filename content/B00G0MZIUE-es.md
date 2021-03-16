@@ -5,7 +5,7 @@ date: 2020-05-11 20:01:47
 image: 'https://m.media-amazon.com/images/I/41A2eZC-vUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G0MZIUE-es Joe s Super Sealant Antipinchazo Preventivo Reparador 1000 ml'
 sku: 'B00G0MZIUE-es'
 tags: [  ]

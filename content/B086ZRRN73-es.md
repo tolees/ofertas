@@ -5,7 +5,7 @@ date: 2020-09-23 17:02:06
 image: 'https://m.media-amazon.com/images/I/31edWsRhaQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZRRN73-es B Blesiya Mini Adaptador De Audio Inalámbrico Portátil...'
 sku: 'B086ZRRN73-es'
 tags: [  ]

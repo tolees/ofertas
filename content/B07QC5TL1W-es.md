@@ -5,7 +5,7 @@ date: 2020-08-10 08:40:34
 image: 'https://m.media-amazon.com/images/I/31d7guJ6+vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QC5TL1W-es La Toja Selection - Gel de Baño Esencia de Madera de Cedro...'
 sku: 'B07QC5TL1W-es'
 tags: [  ]

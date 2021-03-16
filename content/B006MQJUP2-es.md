@@ -5,7 +5,7 @@ date: 2020-06-23 13:22:43
 image: 'https://m.media-amazon.com/images/I/41lgGyYCSTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006MQJUP2-es Carissima Gold Pendientes de mujer con oro bicolor de 9...'
 sku: 'B006MQJUP2-es'
 tags: [  ]

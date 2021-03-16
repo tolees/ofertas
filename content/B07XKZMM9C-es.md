@@ -5,7 +5,7 @@ date: 2020-06-30 19:56:26
 image: 'https://m.media-amazon.com/images/I/517uyYpQhfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKZMM9C-es Raclette Grill Parrilla Electrico per 8 Persone Portatil...'
 sku: 'B07XKZMM9C-es'
 tags: [  ]

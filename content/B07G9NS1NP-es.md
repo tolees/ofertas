@@ -5,7 +5,7 @@ date: 2020-10-06 23:51:22
 image: 'https://m.media-amazon.com/images/I/415SZ11VUIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9NS1NP-es Seiko Reloj analogico para Hombre de Automático con Correa...'
 sku: 'B07G9NS1NP-es'
 tags: [  ]

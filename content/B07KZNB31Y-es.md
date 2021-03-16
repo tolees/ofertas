@@ -5,7 +5,7 @@ date: 2020-03-14 09:02:53
 image: 'https://m.media-amazon.com/images/I/51lkx6uSb1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZNB31Y-es Alargador de Cintura para Embarazadas. Adapta tu Ropa de...'
 sku: 'B07KZNB31Y-es'
 tags: [  ]

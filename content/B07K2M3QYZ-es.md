@@ -5,7 +5,7 @@ date: 2020-04-23 12:33:21
 image: 'https://m.media-amazon.com/images/I/31nBa81V6zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2M3QYZ-es Adidas Adilette Aqua Zapatillas de Cross Unisex Adulto...'
 sku: 'B07K2M3QYZ-es'
 tags: [  ]

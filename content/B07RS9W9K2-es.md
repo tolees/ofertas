@@ -5,7 +5,7 @@ date: 2020-05-30 15:46:47
 image: 'https://m.media-amazon.com/images/I/41jmEISMmNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS9W9K2-es DaMei Anillo Plata Pareja Personalizados Pare Mujer Hombre...'
 sku: 'B07RS9W9K2-es'
 tags: [  ]

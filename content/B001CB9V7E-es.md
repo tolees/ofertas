@@ -5,7 +5,7 @@ date: 2020-02-02 08:31:42
 image: 'https://m.media-amazon.com/images/I/31+DMuRKXNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001CB9V7E-es Revlon Super Lustrous Pintalabios Wink for Pink'
 sku: 'B001CB9V7E-es'
 tags: [  ]

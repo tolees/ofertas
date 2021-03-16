@@ -5,7 +5,7 @@ date: 2020-06-25 16:52:49
 image: 'https://m.media-amazon.com/images/I/319qzq6OI9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHTKD17-es Lacoste Ziane BL 1 CFA Zapatillas para Mujer Azul Navy 42 EU'
 sku: 'B07DHTKD17-es'
 tags: [  ]

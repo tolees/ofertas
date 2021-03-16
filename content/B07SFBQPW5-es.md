@@ -5,7 +5,7 @@ date: 2020-06-05 09:20:58
 image: 'https://m.media-amazon.com/images/I/41WtRjfWN3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFBQPW5-es Helly Hansen HH Duffel Bag 2 50l Bolsa de Viaje Unisex...'
 sku: 'B07SFBQPW5-es'
 tags: [  ]

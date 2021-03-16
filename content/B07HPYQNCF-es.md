@@ -5,7 +5,7 @@ date: 2020-01-08 17:47:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417INQYC45L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPYQNCF-es DlandHome Mueble de Consola 120 * 23 * 75cm Mesa Auxiliar...'
 sku: 'B07HPYQNCF-es'
 tags: [  ]

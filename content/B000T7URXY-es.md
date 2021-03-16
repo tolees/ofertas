@@ -5,7 +5,7 @@ date: 2020-04-29 10:51:41
 image: 'https://m.media-amazon.com/images/I/31MQgqwh3DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000T7URXY-es Bosch Mixxo MSM6B150 - Batidora de mano 300 W velocidad...'
 sku: 'B000T7URXY-es'
 tags: [  ]

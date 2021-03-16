@@ -5,7 +5,7 @@ date: 2020-04-11 03:28:35
 image: 'https://m.media-amazon.com/images/I/41tlsd2ZB2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CP5MZ1-es Ebotics Croc & Play - Kit creación interactiva 17 entradas...'
 sku: 'B071CP5MZ1-es'
 tags: [  ]

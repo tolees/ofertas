@@ -5,7 +5,7 @@ date: 2020-10-03 11:29:48
 image: 'https://m.media-amazon.com/images/I/312EHb2O4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLSV1VL-es Clarks Un Tread UpGTX Botas clásicas. para Hombre Negro...'
 sku: 'B07MLSV1VL-es'
 tags: [  ]

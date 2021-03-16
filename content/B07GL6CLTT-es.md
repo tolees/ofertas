@@ -5,7 +5,7 @@ date: 2020-10-09 13:03:14
 image: 'https://m.media-amazon.com/images/I/41rp9ywIOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GL6CLTT-es HyperX Predator HX432C16PB3AK2/16 Memoria 3200MHz DDR4...'
 sku: 'B07GL6CLTT-es'
 tags: [  ]

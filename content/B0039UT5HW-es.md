@@ -5,7 +5,7 @@ date: 2020-10-04 10:18:53
 image: 'https://m.media-amazon.com/images/I/41T1w7uXCKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0039UT5HW-es Casio Reloj de Pulsera MTP-1303PD-1AVEF'
 sku: 'B0039UT5HW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-12 13:25:32
 image: 'https://m.media-amazon.com/images/I/41Hz2CZdPYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002V91TYO-es Eminent EM3563 - Auriculares de Diadema Abiertos con...'
 sku: 'B002V91TYO-es'
 tags: [  ]

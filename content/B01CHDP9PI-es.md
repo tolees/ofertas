@@ -5,7 +5,7 @@ date: 2020-01-08 13:18:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/510VzSrG7pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CHDP9PI-es SKYSPER 200 x 200 cm Manta de Picnic Alfombrilla Colchón...'
 sku: 'B01CHDP9PI-es'
 tags: [  ]

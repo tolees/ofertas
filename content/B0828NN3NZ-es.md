@@ -5,7 +5,7 @@ date: 2020-08-17 16:47:55
 image: 'https://m.media-amazon.com/images/I/51J8NGZCSwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0828NN3NZ-es Pincel de Pintura Set de Pinceles Cepillos de Pintura...'
 sku: 'B0828NN3NZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-04 22:28:12
 image: 'https://m.media-amazon.com/images/I/51x0NFsXW5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0083FNBI2-es Calypso Energy Peeling - Esponja de baño vegetal...'
 sku: 'B0083FNBI2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-19 16:28:01
 image: 'https://m.media-amazon.com/images/I/51UaB+w3aLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N22SV4H-es Desigual Dark Fresh Festival 100ml'
 sku: 'B07N22SV4H-es'
 tags: [  ]

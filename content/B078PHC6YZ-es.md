@@ -5,7 +5,7 @@ date: 2020-08-31 18:50:00
 image: 'https://m.media-amazon.com/images/I/41n3upoVtIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078PHC6YZ-es Vans Ward - Zapatillas para Mujer Negro...'
 sku: 'B078PHC6YZ-es'
 tags: [  ]

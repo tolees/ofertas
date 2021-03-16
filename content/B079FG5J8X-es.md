@@ -5,7 +5,7 @@ date: 2020-06-08 13:18:16
 image: 'https://m.media-amazon.com/images/I/319+uJoNpVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FG5J8X-es Beronia Gran Reserva Vino D.O.CA. Rioja - 750 ml'
 sku: 'B079FG5J8X-es'
 tags: [  ]

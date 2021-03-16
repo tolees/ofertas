@@ -5,7 +5,7 @@ date: 2020-07-31 17:46:16
 image: 'https://m.media-amazon.com/images/I/31qvqrWzi0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I7V2KYW-es Imac 5-96696 Bebedero Pájaros Tweety - 100 ml'
 sku: 'B01I7V2KYW-es'
 tags: [  ]

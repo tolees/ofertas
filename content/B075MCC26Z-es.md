@@ -5,7 +5,7 @@ date: 2020-08-12 09:33:25
 image: 'https://m.media-amazon.com/images/I/41J2lGuG9lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MCC26Z-es Altavoz Autoamplificado 250W 8" ThunderSound Biwond'
 sku: 'B075MCC26Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-04 09:39:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31uSHzPdhoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DM6D87B-es JACK & JONES PREMIUM Jprsolaris Trouser Noos Pantalones de...'
 sku: 'B07DM6D87B-es'
 tags: [  ]

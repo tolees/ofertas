@@ -5,7 +5,7 @@ date: 2020-05-09 12:27:31
 image: 'https://m.media-amazon.com/images/I/41AcN+GSaKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVZSSH8-es Columbia Bajada III Zapatillas de Running para Asfalto...'
 sku: 'B07DVZSSH8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 18:32:48
 image: 'https://m.media-amazon.com/images/I/31tDH6L3upL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087X5VG9N-es Suhctup Funda Transparent Compatible para Huawei P Smart...'
 sku: 'B087X5VG9N-es'
 tags: [  ]

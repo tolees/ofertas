@@ -5,7 +5,7 @@ date: 2020-09-25 14:42:34
 image: 'https://m.media-amazon.com/images/I/31rIoWWWN+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCH7VMW-es Quiksilver Miz Kimitt-Polo De Manga Larga para Hombre Navy...'
 sku: 'B07TCH7VMW-es'
 tags: [  ]

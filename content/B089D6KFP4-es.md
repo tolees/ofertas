@@ -5,7 +5,7 @@ date: 2020-08-21 19:14:18
 image: 'https://m.media-amazon.com/images/I/415MoFmJmlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089D6KFP4-es Niños Unisex analógico Digital Resistente al Agua Reloj...'
 sku: 'B089D6KFP4-es'
 tags: [  ]

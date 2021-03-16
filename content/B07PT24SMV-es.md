@@ -5,7 +5,7 @@ date: 2020-10-01 09:41:03
 image: 'https://m.media-amazon.com/images/I/418KGGO8bvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PT24SMV-es New Balance 574v2 Zapatillas para Hombre Verde...'
 sku: 'B07PT24SMV-es'
 tags: [  ]

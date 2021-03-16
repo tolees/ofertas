@@ -5,7 +5,7 @@ date: 2020-10-02 16:27:43
 image: 'https://m.media-amazon.com/images/I/41-RbvWSzjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBWPBT9-es Baby Jogger City Tour LUX color granito. Silla de paseo de...'
 sku: 'B07LBWPBT9-es'
 tags: [  ]

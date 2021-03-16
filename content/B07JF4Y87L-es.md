@@ -5,7 +5,7 @@ date: 2020-02-23 21:37:23
 image: 'https://m.media-amazon.com/images/I/41iZkevIT4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JF4Y87L-es Abanderado Lote X4 Slip de Algodón Calzoncillos Azul...'
 sku: 'B07JF4Y87L-es'
 tags: [  ]

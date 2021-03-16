@@ -5,7 +5,7 @@ date: 2020-10-09 18:37:10
 image: 'https://m.media-amazon.com/images/I/31J1mCXdqoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S73KQVB-es helymore Halloween Mono de Superheroe de Cosplay de...'
 sku: 'B07S73KQVB-es'
 tags: [  ]

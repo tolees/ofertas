@@ -5,7 +5,7 @@ date: 2020-09-11 07:07:58
 image: 'https://m.media-amazon.com/images/I/51645plEVYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XRGJ2V-es BESTBOMG Cortapelos Profesional Hombre Máquina de Cortar...'
 sku: 'B085XRGJ2V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-20 15:40:31
 image: 'https://m.media-amazon.com/images/I/515rsYzSwTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJN837K-es HyAdierTech Protector de Asiento de Coche Premium Cubierta...'
 sku: 'B07RJN837K-es'
 tags: [  ]

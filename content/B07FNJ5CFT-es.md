@@ -5,7 +5,7 @@ date: 2020-09-17 12:01:45
 image: 'https://m.media-amazon.com/images/I/41iOo0+MTyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNJ5CFT-es Ordate Bolsas de Basura con 9 Rollos 40 L Color Azul Verde...'
 sku: 'B07FNJ5CFT-es'
 tags: [  ]

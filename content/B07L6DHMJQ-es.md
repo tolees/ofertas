@@ -5,7 +5,7 @@ date: 2020-04-16 18:27:20
 image: 'https://m.media-amazon.com/images/I/41AJ5yQ3kkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6DHMJQ-es Dispensador automático de pasta de dientes y cepillo de...'
 sku: 'B07L6DHMJQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 17:45:28
 image: 'https://m.media-amazon.com/images/I/31XBOU1X7mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8YRK66-es Crocs Classic Convertible Slipper Zapatillas Altas Unisex...'
 sku: 'B07K8YRK66-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-09 08:40:44
 image: 'https://m.media-amazon.com/images/I/31Cv30dTN4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QG9M9FV-es MTNG Attitude 69618 Zapatillas para Mujer Negro NOU...'
 sku: 'B07QG9M9FV-es'
 tags: [  ]

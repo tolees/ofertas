@@ -5,7 +5,7 @@ date: 2020-08-15 14:57:48
 image: 'https://m.media-amazon.com/images/I/31YuXUvJMtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHV3R78-es Lacoste Graduate BL 1 SMA Zapatillas para Hombre Blanco...'
 sku: 'B07DHV3R78-es'
 tags: [  ]

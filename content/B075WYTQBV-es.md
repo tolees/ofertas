@@ -5,7 +5,7 @@ date: 2020-05-24 13:27:51
 image: 'https://m.media-amazon.com/images/I/41igGpXuGAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WYTQBV-es Maclaren Triumph all star Silla de paseo - ligera de los 6...'
 sku: 'B075WYTQBV-es'
 tags: [  ]

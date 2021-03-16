@@ -5,7 +5,7 @@ date: 2020-05-29 18:33:00
 image: 'https://m.media-amazon.com/images/I/51nXsQ4F9jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000B9RKC6-es Brüder Mannesmann M12588 SDS-Plus - Juego de cinceles y...'
 sku: 'B000B9RKC6-es'
 tags: [  ]

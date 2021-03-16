@@ -5,7 +5,7 @@ date: 2020-07-01 13:40:53
 image: 'https://m.media-amazon.com/images/I/41Dse+ZzyRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076DJRBFP-es Mavala Científico K+ Endurecedor de Uñas Tratamiento para...'
 sku: 'B076DJRBFP-es'
 tags: [  ]

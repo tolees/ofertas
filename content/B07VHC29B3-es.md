@@ -5,7 +5,7 @@ date: 2020-02-22 20:30:32
 image: 'https://m.media-amazon.com/images/I/41XBctLlDtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHC29B3-es JACK & JONES Jcostanford Crew Neck Noos suéter Verde Rosin...'
 sku: 'B07VHC29B3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 13:27:17
 image: 'https://m.media-amazon.com/images/I/41zEZkTSSoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFKR59Y-es Adidas Runfalcon Zapatillas de trail running Hombre Blanco...'
 sku: 'B07KFKR59Y-es'
 tags: [  ]

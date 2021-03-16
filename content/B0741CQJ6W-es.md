@@ -5,7 +5,7 @@ date: 2020-09-17 11:35:06
 image: 'https://m.media-amazon.com/images/I/51tono2KiTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0741CQJ6W-es Haribo Ladrillo Classic - 2000 gr'
 sku: 'B0741CQJ6W-es'
 tags: [  ]

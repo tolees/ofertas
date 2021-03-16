@@ -5,7 +5,7 @@ date: 2020-06-08 16:12:34
 image: 'https://m.media-amazon.com/images/I/41IO6HCgN-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTX5P2X-es Palladium Pampa Hi Zip Pony Botas Slouch para Mujer...'
 sku: 'B07FTX5P2X-es'
 tags: [  ]

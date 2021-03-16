@@ -5,7 +5,7 @@ date: 2020-05-31 14:03:26
 image: 'https://m.media-amazon.com/images/I/41+ku58gUwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N29LLV1-es Dickies Kerman Pantalones Marrón Brown Duck BD Tamaño del...'
 sku: 'B01N29LLV1-es'
 tags: [  ]

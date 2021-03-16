@@ -5,7 +5,7 @@ date: 2020-03-12 14:16:41
 image: 'https://m.media-amazon.com/images/I/31-LLx9Xb4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCC2QH8-es Pepe Jeans Saturn Crop Bañador Blanco Optic White Denim...'
 sku: 'B07NCC2QH8-es'
 tags: [  ]

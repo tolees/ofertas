@@ -5,7 +5,7 @@ date: 2020-09-12 23:21:45
 image: 'https://m.media-amazon.com/images/I/31NYT22o3HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYZ9WF9-es Xiaomi Mi Band 3 Pulsera de Actividad Inteligente...'
 sku: 'B07FYZ9WF9-es'
 tags: [  ]

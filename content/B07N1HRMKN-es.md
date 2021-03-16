@@ -5,7 +5,7 @@ date: 2020-01-17 09:38:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eWo0woCQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HRMKN-es Kipling ART ON WHEELS M - Maleta 41 liters Negro BLACK INDIGO'
 sku: 'B07N1HRMKN-es'
 tags: [  ]

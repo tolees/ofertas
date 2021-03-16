@@ -5,7 +5,7 @@ date: 2020-01-19 16:25:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41W4TsaEX5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779GBYSC-es adidas Ask SPRT Lst M Long Sleeved T-Shirt Hombre Dark...'
 sku: 'B0779GBYSC-es'
 tags: [  ]

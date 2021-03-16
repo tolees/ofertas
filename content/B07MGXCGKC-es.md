@@ -5,7 +5,7 @@ date: 2020-05-25 09:41:05
 image: 'https://m.media-amazon.com/images/I/318tqXSP5FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGXCGKC-es Lee Austin Jeans Negro Moto Black HL 33W / 30L para Hombre'
 sku: 'B07MGXCGKC-es'
 tags: [  ]

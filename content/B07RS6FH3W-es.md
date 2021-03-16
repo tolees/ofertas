@@ -5,7 +5,7 @@ date: 2020-04-21 08:20:47
 image: 'https://m.media-amazon.com/images/I/419gQUufesL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS6FH3W-es Tommy Hilfiger - Modern Nylon Mini Crossover Shoppers y...'
 sku: 'B07RS6FH3W-es'
 tags: [  ]

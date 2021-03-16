@@ -5,7 +5,7 @@ date: 2020-07-27 19:40:54
 image: 'https://m.media-amazon.com/images/I/51GSsZ6dn3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZBFG7W-es efluky Ventilador Portatil Mini Ventilador USB Ventilador...'
 sku: 'B07BZBFG7W-es'
 tags: [  ]

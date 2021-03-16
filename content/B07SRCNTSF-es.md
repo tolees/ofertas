@@ -5,7 +5,7 @@ date: 2020-02-23 11:42:50
 image: 'https://m.media-amazon.com/images/I/41aEi+ki8bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRCNTSF-es adidas EQT Gazelle Zapatillas de Gimnasia para Hombre Gris...'
 sku: 'B07SRCNTSF-es'
 tags: [  ]

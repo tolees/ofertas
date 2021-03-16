@@ -5,7 +5,7 @@ date: 2020-01-11 13:30:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/319qcYLQF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TL4RY5X-es BRA Advanced Cazo 16 cm aluminio fundido con antiadherente...'
 sku: 'B07TL4RY5X-es'
 tags: [  ]

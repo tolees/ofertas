@@ -5,7 +5,7 @@ date: 2020-05-09 16:40:30
 image: 'https://m.media-amazon.com/images/I/31Q38PIThHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0841TSP3P-es Panamami Gel de sílice Galactorrhea Colección Tapa...'
 sku: 'B0841TSP3P-es'
 tags: [  ]

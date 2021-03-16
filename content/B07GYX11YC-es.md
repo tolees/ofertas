@@ -5,7 +5,7 @@ date: 2020-04-20 18:28:18
 image: 'https://m.media-amazon.com/images/I/41o854o6O0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GYX11YC-es NAME IT Nmsian L/s O-Neck Knit Noos suéter Blanco Bright...'
 sku: 'B07GYX11YC-es'
 tags: [  ]

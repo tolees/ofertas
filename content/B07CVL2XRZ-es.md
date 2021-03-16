@@ -5,7 +5,7 @@ date: 2020-05-23 09:11:31
 image: 'https://m.media-amazon.com/images/I/31z0KG1zWFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVL2XRZ-es NANOCABLE 10.16.4401-BK - Adaptador USB-C a 4 x USB 3.0...'
 sku: 'B07CVL2XRZ-es'
 tags: [  ]

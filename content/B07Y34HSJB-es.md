@@ -5,7 +5,7 @@ date: 2020-02-23 12:54:50
 image: 'https://m.media-amazon.com/images/I/41hqNzHFqvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y34HSJB-es Powerextra Pantalla LCD Flash Speedlite 2.4G Kit de...'
 sku: 'B07Y34HSJB-es'
 tags: [  ]

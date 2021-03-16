@@ -5,7 +5,7 @@ date: 2020-03-26 08:42:15
 image: 'https://m.media-amazon.com/images/I/41GGvWBmKjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQV8NR4-es New Balance Fuel Core NERGIZE Zapatillas Deportivas para...'
 sku: 'B07BQV8NR4-es'
 tags: [  ]

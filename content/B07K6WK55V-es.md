@@ -5,7 +5,7 @@ date: 2020-10-04 19:52:46
 image: 'https://m.media-amazon.com/images/I/31if1CINWTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6WK55V-es adidas TIRO19 WOV PNT Pantalones de Deporte Hombre Negro...'
 sku: 'B07K6WK55V-es'
 tags: [  ]

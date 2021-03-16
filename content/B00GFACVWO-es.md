@@ -5,7 +5,7 @@ date: 2020-04-27 17:26:24
 image: 'https://m.media-amazon.com/images/I/41WH4DGeb4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GFACVWO-es K2 de Alta Temperatura de Silicona Masilla dichtsi LIKON...'
 sku: 'B00GFACVWO-es'
 tags: [  ]

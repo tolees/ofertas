@@ -5,7 +5,7 @@ date: 2020-02-26 13:21:41
 image: 'https://m.media-amazon.com/images/I/31SZ2mETh6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG6G85S-es PUMA King Pro SG Botas de fútbol para Hombre Black White...'
 sku: 'B07KG6G85S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-23 08:55:41
 image: 'https://m.media-amazon.com/images/I/51uY99Fr+1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0784RWD7B-es XP-PEN Artist15.6 IPS Monitor de Dibujo 8192 Niveles de...'
 sku: 'B0784RWD7B-es'
 tags: [  ]

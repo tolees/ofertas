@@ -5,7 +5,7 @@ date: 2020-07-14 06:09:36
 image: 'https://m.media-amazon.com/images/I/31Myg8u5AnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M999MUH-es Aroncent Gafa de Sol Polarizada con Clip de Metal Lente...'
 sku: 'B01M999MUH-es'
 tags: [  ]

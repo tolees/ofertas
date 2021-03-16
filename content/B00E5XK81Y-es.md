@@ -5,7 +5,7 @@ date: 2020-08-12 10:31:10
 image: 'https://m.media-amazon.com/images/I/51wprrPp51L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E5XK81Y-es Guess W0247G3 - Reloj de pulsera para hombre color azul'
 sku: 'B00E5XK81Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 16:50:34
 image: 'https://m.media-amazon.com/images/I/41reZgHa9QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751VKSRF-es New Balance 574 Core Plus Zapatillas para Hombre Gris...'
 sku: 'B0751VKSRF-es'
 tags: [  ]

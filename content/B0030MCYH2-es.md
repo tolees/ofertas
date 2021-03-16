@@ -5,7 +5,7 @@ date: 2020-09-01 17:50:45
 image: 'https://m.media-amazon.com/images/I/51Zgb75iECL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0030MCYH2-es Ravensburger-Juego de Aprendizaje ¿Cuanto me Cuesta 24098'
 sku: 'B0030MCYH2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 10:08:03
 image: 'https://m.media-amazon.com/images/I/31N+JSMFk0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DM18JMC-es SAMSONITE Pro-DLX 5 - Sleeve for 15.6 Laptop Maletín 39 cm...'
 sku: 'B07DM18JMC-es'
 tags: [  ]

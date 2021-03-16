@@ -5,7 +5,7 @@ date: 2020-05-27 12:05:47
 image: 'https://m.media-amazon.com/images/I/41dmpD-T3QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPTFW1Y-es ZoomSky Piedras Luminosas Azul 200pcs Stone Brillante Roca...'
 sku: 'B07RPTFW1Y-es'
 tags: [  ]

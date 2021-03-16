@@ -5,7 +5,7 @@ date: 2020-09-22 08:39:54
 image: 'https://m.media-amazon.com/images/I/41V7X1I9n+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081HDNDNR-es Ibergrif M11050 Roma Grifo Baño Clásico Mezclador...'
 sku: 'B081HDNDNR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 12:21:36
 image: 'https://m.media-amazon.com/images/I/31-eB2zZ9TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9B4GHF-es Nike Renew Rival 2 Zapatillas de Running para Hombre Negro...'
 sku: 'B07L9B4GHF-es'
 tags: [  ]

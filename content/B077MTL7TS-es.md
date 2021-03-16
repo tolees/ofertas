@@ -5,7 +5,7 @@ date: 2020-01-16 08:04:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eCXuLzwhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MTL7TS-es PUMA Smash v2 L Zapatillas Unisex Adulto White-Peacoat...'
 sku: 'B077MTL7TS-es'
 tags: [  ]

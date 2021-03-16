@@ -5,7 +5,7 @@ date: 2020-02-09 16:46:37
 image: 'https://m.media-amazon.com/images/I/31aeL-mQbjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Q5NRWV-es Finca La Estacada Vino 12 Meses - 750 ml'
 sku: 'B079Q5NRWV-es'
 tags: [  ]

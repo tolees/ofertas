@@ -5,7 +5,7 @@ date: 2020-08-21 20:20:56
 image: 'https://m.media-amazon.com/images/I/31cmvMSzJTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFSMWW4-es Adidas Grand Court Zapatillas de Tenis para Hombre Blanco...'
 sku: 'B07KFSMWW4-es'
 tags: [  ]

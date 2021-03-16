@@ -5,7 +5,7 @@ date: 2020-02-26 18:05:39
 image: 'https://m.media-amazon.com/images/I/31TjWk2mdoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P47DM1P-es Samsung Space Monitor de 27 WQHD con Marcos Estrechos 2560...'
 sku: 'B07P47DM1P-es'
 tags: [  ]

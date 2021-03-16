@@ -5,7 +5,7 @@ date: 2020-07-19 18:50:10
 image: 'https://m.media-amazon.com/images/I/41jx1z8-15L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6PCRFT-es PUMA Electron Street Zapatillas Unisex Adulto Blanco...'
 sku: 'B07S6PCRFT-es'
 tags: [  ]

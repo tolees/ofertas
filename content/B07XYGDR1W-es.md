@@ -5,7 +5,7 @@ date: 2020-08-26 23:16:45
 image: 'https://m.media-amazon.com/images/I/41Jq4PXSDCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYGDR1W-es S&R Pistola de silicona profesional para cartuchos de...'
 sku: 'B07XYGDR1W-es'
 tags: [  ]

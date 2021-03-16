@@ -5,7 +5,7 @@ date: 2020-03-30 20:58:51
 image: 'https://m.media-amazon.com/images/I/31pywDHGwwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6VPVB6-es Tommy Hilfiger J Basic Women Knitted Scarf Bufanda Black...'
 sku: 'B07N6VPVB6-es'
 tags: [  ]

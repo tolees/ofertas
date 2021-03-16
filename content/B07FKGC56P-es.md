@@ -5,7 +5,7 @@ date: 2020-01-29 06:28:22
 image: 'https://m.media-amazon.com/images/I/41LsfUqpUTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKGC56P-es Bestway 54189 - Spa Hinchable Lay- Z-Spa Helsinki Para 5-7...'
 sku: 'B07FKGC56P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-15 14:43:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zjtPSZXvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDTZGT-es Funko Pop Marvel Studios 10º Aniversario Figura de Vinilo...'
 sku: 'B07DFDTZGT-es'
 tags: [  ]

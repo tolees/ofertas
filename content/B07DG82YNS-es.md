@@ -5,7 +5,7 @@ date: 2020-06-18 18:03:31
 image: 'https://m.media-amazon.com/images/I/51qC3-Wwr5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DG82YNS-es Botones Costura de Colores Mezclados Botones de Resina con...'
 sku: 'B07DG82YNS-es'
 tags: [  ]

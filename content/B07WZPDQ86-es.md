@@ -5,7 +5,7 @@ date: 2020-06-20 09:34:04
 image: 'https://m.media-amazon.com/images/I/31ywSiFvnPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZPDQ86-es Eastpak Springer Riñonera 23 cm 2 L Azul Nep Gulf'
 sku: 'B07WZPDQ86-es'
 tags: [  ]

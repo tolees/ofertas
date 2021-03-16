@@ -5,7 +5,7 @@ date: 2020-04-27 15:21:31
 image: 'https://m.media-amazon.com/images/I/51AfldReooL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9EYUZ8-es Dymatize ISO 100 Gourmet Vanilla 2 2kg - Hidrolizado de...'
 sku: 'B01N9EYUZ8-es'
 tags: [  ]

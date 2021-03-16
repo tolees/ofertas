@@ -5,7 +5,7 @@ date: 2020-09-03 14:00:50
 image: 'https://m.media-amazon.com/images/I/41EQZQpsMPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ6RL1F-es Durex Mutual Climax Preservativos 12 Unidades'
 sku: 'B01LZ6RL1F-es'
 tags: [  ]

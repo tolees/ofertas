@@ -5,7 +5,7 @@ date: 2020-08-18 14:24:02
 image: 'https://m.media-amazon.com/images/I/41yR2CxlN8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TPY5A52-es Nuggela & Sulé champú premium con extracto de cebolla -...'
 sku: 'B00TPY5A52-es'
 tags: [  ]

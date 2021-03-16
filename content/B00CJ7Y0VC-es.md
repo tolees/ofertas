@@ -5,7 +5,7 @@ date: 2020-04-09 08:27:47
 image: 'https://m.media-amazon.com/images/I/41ZZv9A9GiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CJ7Y0VC-es Mousehouse Gifts Huchas Originales Infantiles Decorativa...'
 sku: 'B00CJ7Y0VC-es'
 tags: [  ]

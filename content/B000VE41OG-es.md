@@ -5,7 +5,7 @@ date: 2020-06-16 23:00:28
 image: 'https://m.media-amazon.com/images/I/412dQpYbyaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VE41OG-es Casio WAVE CEPTOR Reloj Radiocontrolado Negro para Hombre...'
 sku: 'B000VE41OG-es'
 tags: [  ]

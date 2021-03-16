@@ -5,7 +5,7 @@ date: 2020-10-06 09:07:41
 image: 'https://m.media-amazon.com/images/I/41dzv--HoUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5XG38M-es Pop! Vinilo: Stranger Things: Steve w/Hat and Ice Cream'
 sku: 'B07N5XG38M-es'
 tags: [  ]

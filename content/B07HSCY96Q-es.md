@@ -5,7 +5,7 @@ date: 2020-05-12 15:53:33
 image: 'https://m.media-amazon.com/images/I/31leZj+hiCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSCY96Q-es Tatay Baobab Cesta para la Colada Plástico polipropileno...'
 sku: 'B07HSCY96Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-24 11:17:17
 image: 'https://m.media-amazon.com/images/I/511VRakWVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BLGS0P4-es Beurer BC31 Tensiómetro muñeca para la medición de la...'
 sku: 'B00BLGS0P4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 22:30:56
 image: 'https://m.media-amazon.com/images/I/414yYrRVLLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHKJRYQ-es Vans Old Skool Platform Zapatillas para Mujer Negro...'
 sku: 'B06XHKJRYQ-es'
 tags: [  ]

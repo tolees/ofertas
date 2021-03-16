@@ -5,7 +5,7 @@ date: 2020-04-11 16:58:51
 image: 'https://m.media-amazon.com/images/I/41tttiLPutL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLWPTFH-es gracosy Zapatillas de Running para Mujer Zapato de Trail...'
 sku: 'B07MLWPTFH-es'
 tags: [  ]

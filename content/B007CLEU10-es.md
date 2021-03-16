@@ -5,7 +5,7 @@ date: 2020-05-21 17:25:25
 image: 'https://m.media-amazon.com/images/I/31CqlQntA8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007CLEU10-es Reebok Workout Plus Zapatillas de Deporte para Hombre...'
 sku: 'B007CLEU10-es'
 tags: [  ]

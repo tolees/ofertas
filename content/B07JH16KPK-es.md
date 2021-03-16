@@ -5,7 +5,7 @@ date: 2020-05-18 06:38:33
 image: 'https://m.media-amazon.com/images/I/51nMQaRFmSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH16KPK-es Maca Peruana Extracto Concentrado 4000 mg | 120 cápsulas...'
 sku: 'B07JH16KPK-es'
 tags: [  ]

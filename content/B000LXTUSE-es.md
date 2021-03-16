@@ -5,7 +5,7 @@ date: 2020-04-06 10:32:39
 image: 'https://m.media-amazon.com/images/I/51WeIpHJH6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LXTUSE-es Versele-laga NUTRIBIRD B14 PERICO 800g 22066'
 sku: 'B000LXTUSE-es'
 tags: [  ]

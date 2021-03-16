@@ -5,7 +5,7 @@ date: 2020-09-22 08:49:33
 image: 'https://m.media-amazon.com/images/I/316YHEAf+LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QN5MYN-es Dani - Salsa para aperitivo - 6 botellines de 250ML'
 sku: 'B087QN5MYN-es'
 tags: [  ]

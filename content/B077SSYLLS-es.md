@@ -5,7 +5,7 @@ date: 2020-02-11 12:51:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IScToexlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SSYLLS-es Puma Liga Baselayer Short Tight Pantalones Cortos Hombre...'
 sku: 'B077SSYLLS-es'
 tags: [  ]

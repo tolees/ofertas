@@ -5,7 +5,7 @@ date: 2020-03-04 16:06:08
 image: 'https://m.media-amazon.com/images/I/51X+FkhldOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XVND29-es Woxter Smartfit15. Pulsera Actividad. Control pulsaciones...'
 sku: 'B071XVND29-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 08:08:29
 image: 'https://m.media-amazon.com/images/I/41-rhbEAY3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WT48H4H-es Memoria USB 128GB SAWAKE Flash Drive USB 3.0 Mini Pendrive...'
 sku: 'B07WT48H4H-es'
 tags: [  ]

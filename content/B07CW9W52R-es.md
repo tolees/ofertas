@@ -5,7 +5,7 @@ date: 2020-09-19 12:51:24
 image: 'https://m.media-amazon.com/images/I/51fE3ECa-CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CW9W52R-es Science In Sport SiS Go Gel Energía Isotónica Varieta...'
 sku: 'B07CW9W52R-es'
 tags: [  ]

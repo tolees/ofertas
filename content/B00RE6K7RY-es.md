@@ -5,7 +5,7 @@ date: 2020-07-12 07:19:15
 image: 'https://m.media-amazon.com/images/I/31ooxby6vfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RE6K7RY-es Dockers Bic Alpha Original Skinny-Stretch Twill Pantalones...'
 sku: 'B00RE6K7RY-es'
 tags: [  ]

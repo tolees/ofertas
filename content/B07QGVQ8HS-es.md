@@ -5,7 +5,7 @@ date: 2020-08-23 21:09:48
 image: 'https://m.media-amazon.com/images/I/31HvBbeoCqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGVQ8HS-es G-STAR RAW Roxic Tapered Cargo Pantalones Azul Mazarine...'
 sku: 'B07QGVQ8HS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 12:48:53
 image: 'https://m.media-amazon.com/images/I/31nFBOMzRrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMWGQQ7-es Tommy Hilfiger AILA Slim Polo SS Azul Desert Sky Dw5 40...'
 sku: 'B07VMWGQQ7-es'
 tags: [  ]

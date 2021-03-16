@@ -5,7 +5,7 @@ date: 2020-02-07 18:40:41
 image: 'https://m.media-amazon.com/images/I/41HNJ-6HtOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD2ND6F-es MTNG Attitude 84361 Zapatillas para Hombre Verde Pila Kaky...'
 sku: 'B07QD2ND6F-es'
 tags: [  ]

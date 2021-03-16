@@ -5,7 +5,7 @@ date: 2020-03-23 16:21:06
 image: 'https://m.media-amazon.com/images/I/41cnCl5FX2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I9CXFU8-es Urban Beauty United Diva Duo - Sacapuntas de Doble Entrada...'
 sku: 'B00I9CXFU8-es'
 tags: [  ]

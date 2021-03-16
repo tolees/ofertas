@@ -5,7 +5,7 @@ date: 2020-03-19 11:04:20
 image: 'https://m.media-amazon.com/images/I/41su+5yfaCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZRJHGF-es Lacoste - Polo de Manga Corta para Mujer King pq8 . 34 EU'
 sku: 'B07RZRJHGF-es'
 tags: [  ]

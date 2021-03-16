@@ -5,7 +5,7 @@ date: 2020-02-10 19:05:34
 image: 'https://m.media-amazon.com/images/I/3165WdJZ3vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQHHBLC-es Kekai KT0586 - Estufa de Gas Blanco Termopatio Tower 13 Kw.'
 sku: 'B07WQHHBLC-es'
 tags: [  ]

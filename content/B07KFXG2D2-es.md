@@ -5,7 +5,7 @@ date: 2020-02-22 15:26:57
 image: 'https://m.media-amazon.com/images/I/417RAkezjOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFXG2D2-es PUMA Tarrenz SB Zapatillas Unisex Adulto Castlerock Black...'
 sku: 'B07KFXG2D2-es'
 tags: [  ]

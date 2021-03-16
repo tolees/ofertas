@@ -5,7 +5,7 @@ date: 2020-01-07 19:28:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51zPk0VDidL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I9GDDTG-es Ceva Feliway Friends - Recambio kit de iniciación para...'
 sku: 'B01I9GDDTG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-13 08:03:23
 image: 'https://m.media-amazon.com/images/I/313eHolL18L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8LRJ8P-es FeliSun Impermeable Memorias USB 3.0 Metal USB Stick USB...'
 sku: 'B07K8LRJ8P-es'
 tags: [  ]

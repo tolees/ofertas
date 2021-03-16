@@ -5,7 +5,7 @@ date: 2020-09-05 08:36:29
 image: 'https://m.media-amazon.com/images/I/41i1a6YvLeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FSJUSK4-es Nox H-FAN - NXHUMMERF120LR - Ventilador para Caja PC 12 cm...'
 sku: 'B01FSJUSK4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 22:05:23
 image: 'https://m.media-amazon.com/images/I/316-PTaJl9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TPN0P1M-es Disney - I-610384s - Disfraz para niños - Classic Woody...'
 sku: 'B00TPN0P1M-es'
 tags: [  ]

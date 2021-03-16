@@ -5,7 +5,7 @@ date: 2020-08-31 21:45:28
 image: 'https://m.media-amazon.com/images/I/41p1TVR5f0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0753NMH3T-es Bourjois Air Mate Powder Polvos Tono 05 Caramel - 47 gr.'
 sku: 'B0753NMH3T-es'
 tags: [  ]

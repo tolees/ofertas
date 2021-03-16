@@ -5,7 +5,7 @@ date: 2020-04-09 08:53:37
 image: 'https://m.media-amazon.com/images/I/510C054G22L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0832Q4LLV-es Videocámara Videocamara Full HD 1080P 30FPS Videocámara...'
 sku: 'B0832Q4LLV-es'
 tags: [  ]

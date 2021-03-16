@@ -5,7 +5,7 @@ date: 2020-02-18 12:50:39
 image: 'https://m.media-amazon.com/images/I/41O6G9JdZ4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0786DTHYP-es New Balance Fresh Foam Gobi v3 Zapatillas de Running para...'
 sku: 'B0786DTHYP-es'
 tags: [  ]

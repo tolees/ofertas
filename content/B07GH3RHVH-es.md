@@ -5,7 +5,7 @@ date: 2020-05-11 18:29:34
 image: 'https://m.media-amazon.com/images/I/41PTAlXUtVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GH3RHVH-es Skechers Stamina-Contic Zapatillas para Hombre Gris Gray &...'
 sku: 'B07GH3RHVH-es'
 tags: [  ]

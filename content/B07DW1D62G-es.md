@@ -5,7 +5,7 @@ date: 2020-04-19 19:12:20
 image: 'https://m.media-amazon.com/images/I/31kBxHd0dFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW1D62G-es Tommy Hilfiger Original Basic Polo Blanco Classic White...'
 sku: 'B07DW1D62G-es'
 tags: [  ]

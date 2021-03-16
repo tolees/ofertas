@@ -5,7 +5,7 @@ date: 2020-01-19 17:08:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wzWROyKEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJBJZS4-es edc by Esprit 099cc1b048 Pantalones Negro Black 001...'
 sku: 'B07VJBJZS4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-01 14:51:36
 image: 'https://m.media-amazon.com/images/I/41bJensx0tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NOGU23M-es Taurus Galexia Premium - Plancha asador lisa 2200 W'
 sku: 'B00NOGU23M-es'
 tags: [  ]

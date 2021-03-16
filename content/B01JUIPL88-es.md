@@ -5,7 +5,7 @@ date: 2020-03-24 13:31:51
 image: 'https://m.media-amazon.com/images/I/41+qO5bNlwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JUIPL88-es Aingoo Silla de Escritorio para niños Silla para niños...'
 sku: 'B01JUIPL88-es'
 tags: [  ]

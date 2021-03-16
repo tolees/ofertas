@@ -5,7 +5,7 @@ date: 2020-05-14 16:43:48
 image: 'https://m.media-amazon.com/images/I/61N0jl3JHmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003SOJ7ZY-es Bosch 2 608 602 385 - Disco de corte recto Rapido Multi...'
 sku: 'B003SOJ7ZY-es'
 tags: [  ]

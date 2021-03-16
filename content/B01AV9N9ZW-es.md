@@ -5,7 +5,7 @@ date: 2020-09-21 16:24:11
 image: 'https://m.media-amazon.com/images/I/51SU4b5DXaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AV9N9ZW-es Arquivet Gran Canaria - Jaula colores Surtidos 40 x 26 x...'
 sku: 'B01AV9N9ZW-es'
 tags: [  ]

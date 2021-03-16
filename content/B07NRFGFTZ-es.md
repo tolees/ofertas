@@ -5,7 +5,7 @@ date: 2020-02-09 19:07:03
 image: 'https://m.media-amazon.com/images/I/31fG65cD6RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRFGFTZ-es Schwarzkopf Gliss Champú seco anti-grasa - 200 ml x Pack...'
 sku: 'B07NRFGFTZ-es'
 tags: [  ]

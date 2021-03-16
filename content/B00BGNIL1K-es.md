@@ -5,7 +5,7 @@ date: 2020-05-30 14:12:58
 image: 'https://m.media-amazon.com/images/I/31Y9pn3B8dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BGNIL1K-es Lancaster Gel y jabón - 250 gr.'
 sku: 'B00BGNIL1K-es'
 tags: [  ]

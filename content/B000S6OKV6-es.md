@@ -5,7 +5,7 @@ date: 2020-10-07 09:37:33
 image: 'https://m.media-amazon.com/images/I/41p7JWp9tnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000S6OKV6-es Sorel Caribou Botas de Invierno para Hombre Marrón Bruno...'
 sku: 'B000S6OKV6-es'
 tags: [  ]

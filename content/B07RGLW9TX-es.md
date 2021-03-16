@@ -5,7 +5,7 @@ date: 2020-01-24 17:07:04
 image: 'https://m.media-amazon.com/images/I/31T682vPeJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGLW9TX-es adidas Stan Smith Zapatillas para Hombre Blanco Footwear...'
 sku: 'B07RGLW9TX-es'
 tags: [  ]

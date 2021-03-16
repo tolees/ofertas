@@ -5,7 +5,7 @@ date: 2020-06-22 14:28:31
 image: 'https://m.media-amazon.com/images/I/41GNycFkLUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DH9Y6EQ-es Victoria Mercedes Terciopelo Zapatillas Unisex Niños Gris...'
 sku: 'B01DH9Y6EQ-es'
 tags: [  ]

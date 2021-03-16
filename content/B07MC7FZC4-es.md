@@ -5,7 +5,7 @@ date: 2020-09-10 00:54:32
 image: 'https://m.media-amazon.com/images/I/311cMW1Q4xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC7FZC4-es Puma St Runner V2 Mesh Zapatillas para Hombre Black White...'
 sku: 'B07MC7FZC4-es'
 tags: [  ]

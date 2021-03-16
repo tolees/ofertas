@@ -5,7 +5,7 @@ date: 2020-04-07 11:49:01
 image: 'https://m.media-amazon.com/images/I/51qu9SkQQ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVTMHMW-es Women s Secret Bralettes 1 Deep Crop Top Corto Negro Negro...'
 sku: 'B07TVTMHMW-es'
 tags: [  ]

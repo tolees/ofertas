@@ -5,7 +5,7 @@ date: 2020-05-07 07:45:36
 image: 'https://m.media-amazon.com/images/I/51enAPNxcDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003SMF0UM-es Prym - Agujas para Coser a Mano tamaños de 1 a 5 Color...'
 sku: 'B003SMF0UM-es'
 tags: [  ]

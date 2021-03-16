@@ -5,7 +5,7 @@ date: 2020-04-14 17:46:56
 image: 'https://m.media-amazon.com/images/I/514UlqwSlNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771GXJKN-es Landove Estampado de animales de manga larga para Bebé-...'
 sku: 'B0771GXJKN-es'
 tags: [  ]

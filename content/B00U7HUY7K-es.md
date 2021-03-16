@@ -5,7 +5,7 @@ date: 2020-01-21 16:33:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51j95yJ5exL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U7HUY7K-es Smile Pin Up Style - Bolsa reversible para cámara réflex...'
 sku: 'B00U7HUY7K-es'
 tags: [  ]

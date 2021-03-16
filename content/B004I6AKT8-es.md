@@ -5,7 +5,7 @@ date: 2020-05-30 18:23:16
 image: 'https://m.media-amazon.com/images/I/41lZ+HRUbbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004I6AKT8-es WIDMANN 7083U - Ametralladora de juguete con sonido'
 sku: 'B004I6AKT8-es'
 tags: [  ]

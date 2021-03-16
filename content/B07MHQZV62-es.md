@@ -5,7 +5,7 @@ date: 2020-09-16 13:26:08
 image: 'https://m.media-amazon.com/images/I/412AmLJg37L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHQZV62-es JBL 104 One Series Monitores de Referencia Pareja'
 sku: 'B07MHQZV62-es'
 tags: [  ]

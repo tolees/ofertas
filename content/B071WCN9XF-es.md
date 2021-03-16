@@ -5,7 +5,7 @@ date: 2020-04-22 19:18:07
 image: 'https://m.media-amazon.com/images/I/41Woran6DYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WCN9XF-es Reebok Club C 85 Melted Metals Zapatillas para Mujer...'
 sku: 'B071WCN9XF-es'
 tags: [  ]

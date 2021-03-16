@@ -5,7 +5,7 @@ date: 2020-03-05 11:32:51
 image: 'https://m.media-amazon.com/images/I/511dQSzXSFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081YMYZ92-es 20m Guirnalda luces LEDOU 200 LED Luces Cable de Cobre...'
 sku: 'B081YMYZ92-es'
 tags: [  ]

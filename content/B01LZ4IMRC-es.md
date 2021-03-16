@@ -5,7 +5,7 @@ date: 2020-02-03 07:57:45
 image: 'https://m.media-amazon.com/images/I/31xtSBz3hUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ4IMRC-es Chiruca-MANAOS 08 GORE-TEX'
 sku: 'B01LZ4IMRC-es'
 tags: [  ]

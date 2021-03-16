@@ -5,7 +5,7 @@ date: 2020-01-15 14:05:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51KbgPUugpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0168QG1TI-es Belle Azul - Cool Legs - Gel de Alivio Instantáneo para...'
 sku: 'B0168QG1TI-es'
 tags: [  ]

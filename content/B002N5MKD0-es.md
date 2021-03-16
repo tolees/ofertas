@@ -5,7 +5,7 @@ date: 2020-03-09 17:03:14
 image: 'https://m.media-amazon.com/images/I/41d2HhPYKWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002N5MKD0-es Clarins - Gentle Crema Noche'
 sku: 'B002N5MKD0-es'
 tags: [  ]

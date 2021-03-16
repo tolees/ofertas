@@ -5,7 +5,7 @@ date: 2020-10-05 15:08:28
 image: 'https://m.media-amazon.com/images/I/51DhoO60J8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5CY1JH-es Narcos: Rise of The Cartels'
 sku: 'B07X5CY1JH-es'
 tags: [  ]

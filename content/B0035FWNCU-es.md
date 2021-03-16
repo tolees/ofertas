@@ -5,7 +5,7 @@ date: 2020-06-04 20:45:18
 image: 'https://m.media-amazon.com/images/I/31VLD9s3X4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0035FWNCU-es Pranarôm Aceite esencial Eucalipto - 10 ml.'
 sku: 'B0035FWNCU-es'
 tags: [  ]

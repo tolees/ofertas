@@ -5,7 +5,7 @@ date: 2020-01-06 12:20:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EAX865pEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DSSFPY-es Antena Interior TV Antena de TV de Rango Amplificado de...'
 sku: 'B081DSSFPY-es'
 tags: [  ]

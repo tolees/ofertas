@@ -5,7 +5,7 @@ date: 2020-05-04 08:23:17
 image: 'https://m.media-amazon.com/images/I/41dLInyfqXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GTF9WS-es adidas Real H Baby Set Blanco/Azuint 68'
 sku: 'B071GTF9WS-es'
 tags: [  ]

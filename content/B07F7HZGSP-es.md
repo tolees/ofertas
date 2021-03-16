@@ -5,7 +5,7 @@ date: 2020-05-31 07:33:07
 image: 'https://m.media-amazon.com/images/I/41xvP89712L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7HZGSP-es BRA Profesional Batería 5 Piezas Apta para Todo Tipo De...'
 sku: 'B07F7HZGSP-es'
 tags: [  ]

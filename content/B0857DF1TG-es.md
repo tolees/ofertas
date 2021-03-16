@@ -5,7 +5,7 @@ date: 2020-06-24 09:04:48
 image: 'https://m.media-amazon.com/images/I/41Rkqx8MD5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0857DF1TG-es CHIKA10 Amira 06 Nude/LG.Pink Talla 39'
 sku: 'B0857DF1TG-es'
 tags: [  ]

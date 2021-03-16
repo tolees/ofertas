@@ -5,7 +5,7 @@ date: 2020-10-05 10:28:17
 image: 'https://m.media-amazon.com/images/I/41uqQQyRnkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBX6HC8-es Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha Gris...'
 sku: 'B07CBX6HC8-es'
 tags: [  ]

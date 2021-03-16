@@ -5,7 +5,7 @@ date: 2020-04-11 08:42:13
 image: 'https://m.media-amazon.com/images/I/41+09abSRiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY3S6PK-es Suvorna Professional 7 Pieces Manicure Stainless Steel Kit...'
 sku: 'B01LY3S6PK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-16 16:09:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514ybHWyNrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077S8NZ9L-es Kit Protector para Esquinas y Bordes de Muebles de Bébé...'
 sku: 'B077S8NZ9L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 13:43:09
 image: 'https://m.media-amazon.com/images/I/41acQO1hRnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XXN7WR-es adidas SST Windbreaker Cortavientos Hombre AMATRI XS'
 sku: 'B078XXN7WR-es'
 tags: [  ]

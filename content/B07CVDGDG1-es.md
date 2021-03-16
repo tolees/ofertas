@@ -5,7 +5,7 @@ date: 2020-01-23 12:17:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31XURd-BdGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVDGDG1-es Under Armour UA W TriBase Reign Zapatillas Deportivas para...'
 sku: 'B07CVDGDG1-es'
 tags: [  ]

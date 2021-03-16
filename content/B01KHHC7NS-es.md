@@ -5,7 +5,7 @@ date: 2020-03-24 06:09:55
 image: 'https://m.media-amazon.com/images/I/415NkrLHdKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KHHC7NS-es Yamaha MusicCast WX-010 - Altavoz Amplificado en Red...'
 sku: 'B01KHHC7NS-es'
 tags: [  ]

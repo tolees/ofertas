@@ -5,7 +5,7 @@ date: 2020-03-18 12:40:13
 image: 'https://m.media-amazon.com/images/I/51keYQrKaIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N7VMIKY-es Control Chocolate Addiction Preservativos - 12 Unidades'
 sku: 'B00N7VMIKY-es'
 tags: [  ]

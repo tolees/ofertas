@@ -5,7 +5,7 @@ date: 2020-04-03 22:26:44
 image: 'https://m.media-amazon.com/images/I/41RNLdPmn9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4X5JD4-es Tommy Hilfiger Tjw Sleeve Logo V-Neck Sweater Suéter Rojo...'
 sku: 'B07N4X5JD4-es'
 tags: [  ]

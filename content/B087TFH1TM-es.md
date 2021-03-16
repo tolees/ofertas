@@ -5,7 +5,7 @@ date: 2020-08-14 22:59:25
 image: 'https://m.media-amazon.com/images/I/41litLZjcQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087TFH1TM-es LIFEBEE Smartwatch Reloj Inteligente Impermeable 5ATM...'
 sku: 'B087TFH1TM-es'
 tags: [  ]

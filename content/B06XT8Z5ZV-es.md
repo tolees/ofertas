@@ -5,7 +5,7 @@ date: 2020-07-31 11:38:52
 image: 'https://m.media-amazon.com/images/I/51Y3zrwdNZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XT8Z5ZV-es AngLink Mini Ventilador USB Portatil Recargable Bateria...'
 sku: 'B06XT8Z5ZV-es'
 tags: [  ]

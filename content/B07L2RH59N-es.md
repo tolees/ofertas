@@ -5,7 +5,7 @@ date: 2020-04-05 11:07:38
 image: 'https://m.media-amazon.com/images/I/41IRnd-+TrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2RH59N-es Gigabyte GeForce GV-N208-TAORUSX W-11GC - Tarjeta gráfica...'
 sku: 'B07L2RH59N-es'
 tags: [  ]

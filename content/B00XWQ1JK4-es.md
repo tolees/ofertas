@@ -5,7 +5,7 @@ date: 2020-02-04 18:12:41
 image: 'https://m.media-amazon.com/images/I/312mkRpPx5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XWQ1JK4-es Nike Tanjun Zapatillas Hombre Negro Black/Black-Anthracite...'
 sku: 'B00XWQ1JK4-es'
 tags: [  ]

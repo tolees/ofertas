@@ -5,7 +5,7 @@ date: 2020-10-09 17:56:26
 image: 'https://m.media-amazon.com/images/I/41wH7bLw7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0773YVS3Y-es adidas Stan Smith Sneaker Mens Blanco Footwear...'
 sku: 'B0773YVS3Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-16 16:37:46
 image: 'https://m.media-amazon.com/images/I/51rmwB8EXKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758VYLLR-es Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con...'
 sku: 'B0758VYLLR-es'
 tags: [  ]

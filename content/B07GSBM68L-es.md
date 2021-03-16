@@ -5,7 +5,7 @@ date: 2020-06-12 09:33:50
 image: 'https://m.media-amazon.com/images/I/31yYGlwa-GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSBM68L-es Rimmel London Super Gel Colour Esmalte de Uñas Tono 19-47 gr'
 sku: 'B07GSBM68L-es'
 tags: [  ]

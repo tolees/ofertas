@@ -5,7 +5,7 @@ date: 2020-03-15 13:33:21
 image: 'https://m.media-amazon.com/images/I/41DAk5DIzZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCKM2PH-es Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07VCKM2PH-es'
 tags: [  ]

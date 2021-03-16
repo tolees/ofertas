@@ -5,7 +5,7 @@ date: 2020-10-08 16:12:33
 image: 'https://m.media-amazon.com/images/I/41U6s65CNWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000AREHO8-es Skechers SPORT - ENERGY Women s Low Top Trainers White Wml...'
 sku: 'B000AREHO8-es'
 tags: [  ]

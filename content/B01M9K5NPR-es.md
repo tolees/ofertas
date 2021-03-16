@@ -5,7 +5,7 @@ date: 2020-10-05 14:44:05
 image: 'https://m.media-amazon.com/images/I/41bPpPyy2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9K5NPR-es Mar de plástico - Serie completa [DVD]'
 sku: 'B01M9K5NPR-es'
 tags: [  ]

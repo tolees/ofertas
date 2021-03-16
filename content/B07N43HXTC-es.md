@@ -5,7 +5,7 @@ date: 2020-04-24 15:41:54
 image: 'https://m.media-amazon.com/images/I/41MSBX9YMbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N43HXTC-es Tommy Hilfiger Pima Cotton Cashmere Crew Neck Suéter Gris...'
 sku: 'B07N43HXTC-es'
 tags: [  ]

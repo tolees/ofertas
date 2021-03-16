@@ -5,7 +5,7 @@ date: 2020-08-13 18:35:01
 image: 'https://m.media-amazon.com/images/I/41jC8SKIKVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076H8BXPQ-es Tuc Tuc 05789 - Trona'
 sku: 'B076H8BXPQ-es'
 tags: [  ]

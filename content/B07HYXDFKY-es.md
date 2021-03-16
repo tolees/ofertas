@@ -5,7 +5,7 @@ date: 2020-10-03 10:27:11
 image: 'https://m.media-amazon.com/images/I/31kKhoA1b5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYXDFKY-es Case Logic Reflect Laptop Sleeve 15.6 funda para...'
 sku: 'B07HYXDFKY-es'
 tags: [  ]

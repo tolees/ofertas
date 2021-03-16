@@ -5,7 +5,7 @@ date: 2020-05-29 13:45:47
 image: 'https://m.media-amazon.com/images/I/41S6hZZ1IvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LPXS3L4-es IBRA® PEARL - 1m metros Cable óptico de Audio Digital...'
 sku: 'B00LPXS3L4-es'
 tags: [  ]

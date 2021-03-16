@@ -5,7 +5,7 @@ date: 2020-04-18 02:24:41
 image: 'https://m.media-amazon.com/images/I/41dcgOwBygL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MURX53U-es Virklyee Colador de cocina plegable 2 piezas de filtro de...'
 sku: 'B01MURX53U-es'
 tags: [  ]

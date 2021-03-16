@@ -5,7 +5,7 @@ date: 2020-03-23 15:25:15
 image: 'https://m.media-amazon.com/images/I/41xTxLORMgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JQKTTE-es NIVEA Good-Bye Celulitis Q10 plus Crema Corporal...'
 sku: 'B003JQKTTE-es'
 tags: [  ]

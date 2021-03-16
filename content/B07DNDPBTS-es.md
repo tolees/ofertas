@@ -5,7 +5,7 @@ date: 2020-08-22 19:42:11
 image: 'https://m.media-amazon.com/images/I/31+AKgaizpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNDPBTS-es adidas Advantage Sneaker Mens Footwear White/Footwear...'
 sku: 'B07DNDPBTS-es'
 tags: [  ]

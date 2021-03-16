@@ -5,7 +5,7 @@ date: 2020-06-11 19:31:00
 image: 'https://m.media-amazon.com/images/I/51EOFr5AKzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SMRJ3C-es Sistema de Riego por Goteo Automático TAOPE Juego de 12...'
 sku: 'B081SMRJ3C-es'
 tags: [  ]

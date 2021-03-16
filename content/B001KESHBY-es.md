@@ -5,7 +5,7 @@ date: 2020-04-22 07:06:38
 image: 'https://m.media-amazon.com/images/I/41blXhRlU9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001KESHBY-es Reloj Seiko - Hombre SNKE49K1'
 sku: 'B001KESHBY-es'
 tags: [  ]

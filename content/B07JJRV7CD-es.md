@@ -5,7 +5,7 @@ date: 2020-02-03 20:21:21
 image: 'https://m.media-amazon.com/images/I/41dnqOiMh3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJRV7CD-es G-STAR RAW Rovic Mid Waist Skinny Pantalones Negro dk...'
 sku: 'B07JJRV7CD-es'
 tags: [  ]

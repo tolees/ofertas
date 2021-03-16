@@ -5,7 +5,7 @@ date: 2020-08-24 23:27:15
 image: 'https://m.media-amazon.com/images/I/413fW4nLFDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8DTKNM-es Blink XT2 | Cámara de seguridad inteligente exteriores e...'
 sku: 'B07M8DTKNM-es'
 tags: [  ]

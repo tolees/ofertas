@@ -5,7 +5,7 @@ date: 2020-09-05 09:15:12
 image: 'https://m.media-amazon.com/images/I/41EaB6wU8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZXLS2G-es Melchioni ARTIC47LT - Mini nevera bar con congelador A+...'
 sku: 'B08BZXLS2G-es'
 tags: [  ]

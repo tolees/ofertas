@@ -5,7 +5,7 @@ date: 2020-07-28 06:19:16
 image: 'https://m.media-amazon.com/images/I/41q8NI-KYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085FV33XX-es Concise Home and Insect Killer 20w/30w/40w luz UV atraer a...'
 sku: 'B085FV33XX-es'
 tags: [  ]

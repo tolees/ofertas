@@ -5,7 +5,7 @@ date: 2020-08-28 12:23:28
 image: 'https://m.media-amazon.com/images/I/31O1il7L9GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT87F6N-es Pepe Jeans Sloane Pantalones Beige Malt 845 Talla única...'
 sku: 'B07RT87F6N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-14 15:12:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xKJsAzmnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZ81SLS-es AmazonBasics - Sábana ajustable de microfibra premium 135...'
 sku: 'B07KZ81SLS-es'
 tags: [  ]

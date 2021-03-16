@@ -5,7 +5,7 @@ date: 2020-02-29 15:31:26
 image: 'https://m.media-amazon.com/images/I/31HTtRYqEWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFVHT3L-es ieGeek Cámara de Vigilancia WiFi Interior Detección Humana...'
 sku: 'B07WFVHT3L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 00:26:38
 image: 'https://m.media-amazon.com/images/I/61aq5whzOiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTXYZCK-es Monster Energy Supercross – The Official Videogame 3'
 sku: 'B07ZTXYZCK-es'
 tags: [  ]

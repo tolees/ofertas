@@ -5,7 +5,7 @@ date: 2020-04-16 17:53:42
 image: 'https://m.media-amazon.com/images/I/41Ub6-Ta8+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJYL6TN-es CLA Ácido Linoleico Conjugado 3000 mg por dosis | 180...'
 sku: 'B07JJYL6TN-es'
 tags: [  ]

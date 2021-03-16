@@ -5,7 +5,7 @@ date: 2020-07-16 19:02:50
 image: 'https://m.media-amazon.com/images/I/317UmBgaEgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013BSRF8M-es Essie Nail Número Laca 203A Cocktail Bling 13 5 ml'
 sku: 'B013BSRF8M-es'
 tags: [  ]

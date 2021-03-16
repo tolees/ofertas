@@ -5,7 +5,7 @@ date: 2020-09-27 05:17:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51XdftdVhsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY4RF9M-es PONY DANCE Cortinas Termicas Exterior - Cortinas Blancas...'
 sku: 'B07NY4RF9M-es'
 tags: [  ]

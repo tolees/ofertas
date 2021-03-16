@@ -5,7 +5,7 @@ date: 2020-05-27 21:13:25
 image: 'https://m.media-amazon.com/images/I/41ej1Fq6VEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007TS6G9U-es Arcos Universal - Taco de 5 cuchillos y tijera 6pzs'
 sku: 'B007TS6G9U-es'
 tags: [  ]

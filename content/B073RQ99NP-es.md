@@ -5,7 +5,7 @@ date: 2020-02-21 09:13:16
 image: 'https://m.media-amazon.com/images/I/41sg8BsxfQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RQ99NP-es JACK & JONES Jcopinn Sweat Hood Noos Capucha Negro Black...'
 sku: 'B073RQ99NP-es'
 tags: [  ]

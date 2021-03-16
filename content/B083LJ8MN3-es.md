@@ -5,7 +5,7 @@ date: 2020-04-15 00:43:26
 image: 'https://m.media-amazon.com/images/I/51afrNee8WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LJ8MN3-es K9CK Luces LED para Lego Technic Mack Anthem 42078 Kit de...'
 sku: 'B083LJ8MN3-es'
 tags: [  ]

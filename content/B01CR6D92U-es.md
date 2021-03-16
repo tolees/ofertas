@@ -5,7 +5,7 @@ date: 2020-04-24 11:33:51
 image: 'https://m.media-amazon.com/images/I/41jw-JfNCgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CR6D92U-es Kripton Halley Zapatillas Unisex Niños Azul Marino 23 EU'
 sku: 'B01CR6D92U-es'
 tags: [  ]

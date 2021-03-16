@@ -5,7 +5,7 @@ date: 2020-02-12 10:04:22
 image: 'https://m.media-amazon.com/images/I/41LOPTvfzTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LB5FY6V-es TOOHUI 6Pcs Acoplador HDMI HDMI Acoplador Hembra a Hembra...'
 sku: 'B07LB5FY6V-es'
 tags: [  ]

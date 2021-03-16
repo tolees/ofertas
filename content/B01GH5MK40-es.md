@@ -5,7 +5,7 @@ date: 2020-06-28 08:29:32
 image: 'https://m.media-amazon.com/images/I/41-8L1GtfSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GH5MK40-es Under Armour Tech Polo Hombre Rojo SM'
 sku: 'B01GH5MK40-es'
 tags: [  ]

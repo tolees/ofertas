@@ -5,7 +5,7 @@ date: 2020-07-25 18:59:09
 image: 'https://m.media-amazon.com/images/I/41gqvIgCgsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8JMB5F-es BOSS Serge-va sz40 Cinturón Marrón Medium Brown 212 95...'
 sku: 'B07V8JMB5F-es'
 tags: [  ]

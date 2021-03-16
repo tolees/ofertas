@@ -5,7 +5,7 @@ date: 2020-04-05 14:23:48
 image: 'https://m.media-amazon.com/images/I/41+kNM+AYAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GG9MSTQ-es Philips Centro de planchado GC8940/20 Plancha sin...'
 sku: 'B07GG9MSTQ-es'
 tags: [  ]

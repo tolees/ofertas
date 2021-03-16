@@ -5,7 +5,7 @@ date: 2020-05-24 07:03:56
 image: 'https://m.media-amazon.com/images/I/31Fw+JNn8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL3S8Z-es G-STAR RAW Citishield 3D Cargo Slim Tapered Pantalones...'
 sku: 'B07NDL3S8Z-es'
 tags: [  ]

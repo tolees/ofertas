@@ -5,7 +5,7 @@ date: 2020-01-02 22:02:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514gECRnPhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9NJ4SD-es KollyKolla Botella de Agua Deporte Botellas Sin BPA Tritan...'
 sku: 'B07M9NJ4SD-es'
 tags: [  ]

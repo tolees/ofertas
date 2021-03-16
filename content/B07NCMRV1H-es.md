@@ -5,7 +5,7 @@ date: 2020-08-09 17:50:24
 image: 'https://m.media-amazon.com/images/I/41MPx7gbcaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCMRV1H-es Juego de 2 maletas rígidas 55-69 Movom Turbo Rojas'
 sku: 'B07NCMRV1H-es'
 tags: [  ]

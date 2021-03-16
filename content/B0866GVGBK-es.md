@@ -5,7 +5,7 @@ date: 2020-08-11 07:15:22
 image: 'https://m.media-amazon.com/images/I/416LUimzqNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0866GVGBK-es GHONLZIN Ventilador Sin Cuchilla USB Portátil 2020 Nuevo...'
 sku: 'B0866GVGBK-es'
 tags: [  ]

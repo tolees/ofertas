@@ -5,7 +5,7 @@ date: 2020-07-01 22:00:50
 image: 'https://m.media-amazon.com/images/I/41Z2mvu8+rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLLD37Y-es Asics Gel-Nimbus 22 Zapatillas de Running para Hombre...'
 sku: 'B07SLLD37Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-15 08:44:47
 image: 'https://m.media-amazon.com/images/I/31mKIC-JJhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CYYXWFY-es Collistar Sensitive Skin Gel de Afeitar - 200 ml'
 sku: 'B01CYYXWFY-es'
 tags: [  ]

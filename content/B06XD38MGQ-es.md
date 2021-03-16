@@ -5,7 +5,7 @@ date: 2020-01-17 07:05:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/219nPuhGGlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XD38MGQ-es Maybelline New York Colossal Kajal Lápiz de Ojos Ultra...'
 sku: 'B06XD38MGQ-es'
 tags: [  ]

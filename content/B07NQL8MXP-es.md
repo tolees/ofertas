@@ -5,7 +5,7 @@ date: 2020-01-13 14:56:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xEs%2BdzgGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQL8MXP-es Springfield Tren Tricolor Cinturón Azul Blue 11 Tamaño del...'
 sku: 'B07NQL8MXP-es'
 tags: [  ]

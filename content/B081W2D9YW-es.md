@@ -5,7 +5,7 @@ date: 2020-06-22 21:54:34
 image: 'https://m.media-amazon.com/images/I/41OfvF6Vp1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081W2D9YW-es Carpeta Clasificadora - ABClife Archivador acordeón 12...'
 sku: 'B081W2D9YW-es'
 tags: [  ]

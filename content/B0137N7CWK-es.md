@@ -5,7 +5,7 @@ date: 2020-01-05 16:50:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BE6EmABZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0137N7CWK-es Sisley Phyto Khol Perfect 03 Steel - 1.5 gr'
 sku: 'B0137N7CWK-es'
 tags: [  ]

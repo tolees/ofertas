@@ -5,7 +5,7 @@ date: 2020-01-07 11:58:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31VSoK9iGjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00521DTDC-es Mascot 05279 Faro - Pantalones de trabajo bolsillos...'
 sku: 'B00521DTDC-es'
 tags: [  ]

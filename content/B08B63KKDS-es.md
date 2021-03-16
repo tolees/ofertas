@@ -5,7 +5,7 @@ date: 2020-08-08 12:09:37
 image: 'https://m.media-amazon.com/images/I/31-xDIJpQVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B63KKDS-es Tamaño portátil 2M Cable USB Tipo C Duradero Cable de...'
 sku: 'B08B63KKDS-es'
 tags: [  ]

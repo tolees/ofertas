@@ -5,7 +5,7 @@ date: 2020-07-21 07:56:26
 image: 'https://m.media-amazon.com/images/I/41ZyN180NPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXXC5VZ-es Wrangler Texas Contrast Hombre Jeans Azul Mistral Green...'
 sku: 'B07TXXC5VZ-es'
 tags: [  ]

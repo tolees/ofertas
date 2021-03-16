@@ -5,7 +5,7 @@ date: 2020-05-27 18:08:31
 image: 'https://m.media-amazon.com/images/I/416RSeu145L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BWCS966-es Detector de Voltaje sin Contacto Meterk 12V-1000V Detector...'
 sku: 'B07BWCS966-es'
 tags: [  ]

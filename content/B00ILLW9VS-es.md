@@ -5,7 +5,7 @@ date: 2020-07-25 14:13:43
 image: 'https://m.media-amazon.com/images/I/21dfyV95cuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ILLW9VS-es Black & Decker FSM1621 Black + Decker FSMH-1621-S-Mopa...'
 sku: 'B00ILLW9VS-es'
 tags: [  ]

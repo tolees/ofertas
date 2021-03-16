@@ -5,7 +5,7 @@ date: 2020-03-04 18:44:10
 image: 'https://m.media-amazon.com/images/I/41-x+UvP-qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT3PHTY-es FLORA GUARD 6.5inch Micro Punta de Hoja Recortadora de...'
 sku: 'B01MT3PHTY-es'
 tags: [  ]

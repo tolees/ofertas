@@ -5,7 +5,7 @@ date: 2020-09-08 13:50:32
 image: 'https://m.media-amazon.com/images/I/5166Sw8zADL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074TGM3P1-es Resistente al agua riñonera bolsa de cintura 3 bolsillos...'
 sku: 'B074TGM3P1-es'
 tags: [  ]

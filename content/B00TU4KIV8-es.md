@@ -5,7 +5,7 @@ date: 2020-08-28 12:23:25
 image: 'https://m.media-amazon.com/images/I/31bdfn8AnQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TU4KIV8-es Ecogarden Irisana 72.EG11.B Mesa de Cultivo Vertical...'
 sku: 'B00TU4KIV8-es'
 tags: [  ]

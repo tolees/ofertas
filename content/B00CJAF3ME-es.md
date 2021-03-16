@@ -5,7 +5,7 @@ date: 2020-07-27 14:41:48
 image: 'https://m.media-amazon.com/images/I/41hMyMyg3rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CJAF3ME-es Logitech F310 Gamepad con Cable Distribución Tipo Consola...'
 sku: 'B00CJAF3ME-es'
 tags: [  ]

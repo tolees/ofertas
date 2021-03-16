@@ -5,7 +5,7 @@ date: 2020-07-14 06:30:48
 image: 'https://m.media-amazon.com/images/I/419tvLtzTGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D878WNG-es SELECTED HOMME Slhslim-Arval Med.Blue Mix Pants W...'
 sku: 'B07D878WNG-es'
 tags: [  ]

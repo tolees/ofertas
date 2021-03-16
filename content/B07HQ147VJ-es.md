@@ -5,7 +5,7 @@ date: 2020-03-21 05:01:24
 image: 'https://m.media-amazon.com/images/I/41uKX5KCHbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQ147VJ-es Funko Pop!- Colección Vinilo Fortnite Black Knight...'
 sku: 'B07HQ147VJ-es'
 tags: [  ]

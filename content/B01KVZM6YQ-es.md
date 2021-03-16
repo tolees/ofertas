@@ -5,7 +5,7 @@ date: 2020-04-16 00:16:20
 image: 'https://m.media-amazon.com/images/I/51Vo8v-GCzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KVZM6YQ-es Zelite Infinity Cuchillo de Chef Santoku 18 cm - Serie...'
 sku: 'B01KVZM6YQ-es'
 tags: [  ]

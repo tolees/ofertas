@@ -5,7 +5,7 @@ date: 2020-01-28 11:54:49
 image: 'https://m.media-amazon.com/images/I/41WgLabqvYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055BYEBU-es BSN Nutrition Amino X Suplementos Deportivos BCAA Polvo...'
 sku: 'B0055BYEBU-es'
 tags: [  ]

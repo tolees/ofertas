@@ -5,7 +5,7 @@ date: 2020-01-29 10:12:01
 image: 'https://m.media-amazon.com/images/I/51GHJPmYfoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012H8IRLQ-es Garmin HRM-Swim - Pulsometro deportivo color Azul'
 sku: 'B012H8IRLQ-es'
 tags: [  ]

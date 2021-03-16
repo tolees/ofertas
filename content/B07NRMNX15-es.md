@@ -5,7 +5,7 @@ date: 2020-01-04 07:53:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iUyzKggkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRMNX15-es Cámara IP Exterior Camara IP WiFi 1080p Cámara Vigilancia...'
 sku: 'B07NRMNX15-es'
 tags: [  ]

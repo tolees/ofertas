@@ -5,7 +5,7 @@ date: 2020-03-16 09:24:59
 image: 'https://m.media-amazon.com/images/I/41ynHzf7FQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG1FYN2-es Lacoste PH5522 Polo Gris Argent Chine Small para Hombre'
 sku: 'B07JG1FYN2-es'
 tags: [  ]

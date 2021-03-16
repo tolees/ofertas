@@ -5,7 +5,7 @@ date: 2020-05-11 18:34:28
 image: 'https://m.media-amazon.com/images/I/51ShbGxzG4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YLCXT41-es Warriors Orochi 4 Ultimate'
 sku: 'B07YLCXT41-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 10:35:40
 image: 'https://m.media-amazon.com/images/I/412IricYVKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXKR4DK-es Testosterona vigorizante aumento de rendimiento masculino....'
 sku: 'B07MXKR4DK-es'
 tags: [  ]

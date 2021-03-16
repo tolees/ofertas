@@ -5,7 +5,7 @@ date: 2020-09-01 19:03:57
 image: 'https://m.media-amazon.com/images/I/41q64h1DRlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBV7NHC-es Baby Jogger City Tour LUX color azul. Silla de paseo de...'
 sku: 'B07LBV7NHC-es'
 tags: [  ]

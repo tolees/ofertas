@@ -5,7 +5,7 @@ date: 2020-06-24 11:45:46
 image: 'https://m.media-amazon.com/images/I/41Fuj+KWbrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00569EOLG-es Nick and Ben - Aspersor loco de flores aspersor de césped...'
 sku: 'B00569EOLG-es'
 tags: [  ]

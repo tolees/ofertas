@@ -5,7 +5,7 @@ date: 2020-05-31 10:39:49
 image: 'https://m.media-amazon.com/images/I/41quhL02OKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072LQGWBD-es REARAND Relaja la Almohada ， Es una Increíble solución...'
 sku: 'B072LQGWBD-es'
 tags: [  ]

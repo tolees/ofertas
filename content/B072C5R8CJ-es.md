@@ -5,7 +5,7 @@ date: 2020-07-01 03:16:37
 image: 'https://m.media-amazon.com/images/I/41b79NylLvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072C5R8CJ-es CREA Grifo Osmosis Grifo de Cocina 3 Vías Ósmosis 360°...'
 sku: 'B072C5R8CJ-es'
 tags: [  ]

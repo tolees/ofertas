@@ -5,7 +5,7 @@ date: 2020-04-17 05:31:25
 image: 'https://m.media-amazon.com/images/I/4124SE7ZIHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NVTQ9JS-es Zortrax M200 3D-impresora single extrudir negro'
 sku: 'B00NVTQ9JS-es'
 tags: [  ]

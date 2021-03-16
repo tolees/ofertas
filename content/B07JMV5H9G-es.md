@@ -5,7 +5,7 @@ date: 2020-03-04 14:10:43
 image: 'https://m.media-amazon.com/images/I/41tBceimdjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMV5H9G-es HiFi Walker A6 Triple Driver Auriculares intrauditivos...'
 sku: 'B07JMV5H9G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-10 20:29:56
 image: 'https://m.media-amazon.com/images/I/313ux4VBfzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5S1CYM-es 3 Unids Perro Ropa de Cama Suave de Poliéster Edredón...'
 sku: 'B07P5S1CYM-es'
 tags: [  ]

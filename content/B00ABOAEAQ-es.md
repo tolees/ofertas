@@ -5,7 +5,7 @@ date: 2020-09-02 13:15:46
 image: 'https://m.media-amazon.com/images/I/41YeFWxmBIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ABOAEAQ-es Bosch Professional GWS 18-125 V-LI Amoladora Angular...'
 sku: 'B00ABOAEAQ-es'
 tags: [  ]

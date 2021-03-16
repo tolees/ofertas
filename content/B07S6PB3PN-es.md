@@ -5,7 +5,7 @@ date: 2020-07-22 02:19:47
 image: 'https://m.media-amazon.com/images/I/310-9eMIzjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6PB3PN-es PUMA X-Ray Zapatillas Unisex-Adulto Blanco White/Gray...'
 sku: 'B07S6PB3PN-es'
 tags: [  ]

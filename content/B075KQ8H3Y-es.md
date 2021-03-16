@@ -5,7 +5,7 @@ date: 2020-01-15 16:03:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Mdi%2BnjfzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KQ8H3Y-es Star Ibaby Oxford Cloth - Parque de bebés ultraligero'
 sku: 'B075KQ8H3Y-es'
 tags: [  ]

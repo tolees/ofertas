@@ -5,7 +5,7 @@ date: 2020-04-08 04:14:37
 image: 'https://m.media-amazon.com/images/I/41BxNZtGThL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F5K6F8U-es Nixon Reloj Mujer de Analogico con Correa en Chapado en...'
 sku: 'B01F5K6F8U-es'
 tags: [  ]

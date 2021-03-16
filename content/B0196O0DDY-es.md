@@ -5,7 +5,7 @@ date: 2020-01-14 22:33:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31GfAuq2zWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0196O0DDY-es VAUDE Hogan UL 2P Tienda Unisex Adulto Verde Talla única'
 sku: 'B0196O0DDY-es'
 tags: [  ]

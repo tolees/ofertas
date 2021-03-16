@@ -5,7 +5,7 @@ date: 2020-03-02 11:04:49
 image: 'https://m.media-amazon.com/images/I/51+dYkYaQpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074D9CHTP-es Casio Reloj Analogico-Digital para Mujer de Cuarzo con...'
 sku: 'B074D9CHTP-es'
 tags: [  ]

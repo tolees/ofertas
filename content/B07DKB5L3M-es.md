@@ -5,7 +5,7 @@ date: 2020-02-08 18:57:20
 image: 'https://m.media-amazon.com/images/I/41bbeockLnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKB5L3M-es Kipling - Izellah Bolsos bandolera Mujer Gris Active Grey Bl'
 sku: 'B07DKB5L3M-es'
 tags: [  ]

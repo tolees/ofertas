@@ -5,7 +5,7 @@ date: 2020-02-16 11:35:05
 image: 'https://m.media-amazon.com/images/I/41JzIbwdwQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZJYY1R-es New Balance 574v2 Zapatillas para Hombre Azul Blue Sos 43 EU'
 sku: 'B07RZJYY1R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-28 22:43:24
 image: 'https://m.media-amazon.com/images/I/41X14aTczTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LRS29SO-es Bébé Confort MILOFIX - Silla de auto de 0 a 4 años R44/04...'
 sku: 'B01LRS29SO-es'
 tags: [  ]

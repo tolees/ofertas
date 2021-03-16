@@ -5,7 +5,7 @@ date: 2020-05-23 09:38:17
 image: 'https://m.media-amazon.com/images/I/41bbFm3-g2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004XBLAEW-es Maped 197512 - Pack de compás abrazadera y estuche de minas'
 sku: 'B004XBLAEW-es'
 tags: [  ]

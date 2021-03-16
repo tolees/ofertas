@@ -5,7 +5,7 @@ date: 2020-10-09 12:26:34
 image: 'https://m.media-amazon.com/images/I/51NC83zrVAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D17KYRX-es BOLSA MERIENDA PATRULLA CANINA COLORS'
 sku: 'B07D17KYRX-es'
 tags: [  ]

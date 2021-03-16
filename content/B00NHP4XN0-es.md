@@ -5,7 +5,7 @@ date: 2020-01-26 18:05:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51bBDaYqb0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NHP4XN0-es Calvin Klein 000NB1042A Calzoncillos Para Hombre Blanco...'
 sku: 'B00NHP4XN0-es'
 tags: [  ]

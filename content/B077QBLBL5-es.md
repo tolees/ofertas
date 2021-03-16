@@ -5,7 +5,7 @@ date: 2020-08-08 07:31:22
 image: 'https://m.media-amazon.com/images/I/414DZpnTtoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QBLBL5-es cuzit fútbol árbitro temporizador deportes Match Juego...'
 sku: 'B077QBLBL5-es'
 tags: [  ]

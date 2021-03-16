@@ -5,7 +5,7 @@ date: 2020-08-10 03:16:06
 image: 'https://m.media-amazon.com/images/I/412PcczWBQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CQOL29A-es adidas Zx Flux Zapatillas de Entrenamiento Hombre Negro...'
 sku: 'B01CQOL29A-es'
 tags: [  ]

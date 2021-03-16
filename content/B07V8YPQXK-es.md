@@ -5,7 +5,7 @@ date: 2020-08-11 09:43:38
 image: 'https://m.media-amazon.com/images/I/41oe3LHGJ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8YPQXK-es Tommy Hilfiger - Seasonal Crossover Bolsos bandolera Mujer...'
 sku: 'B07V8YPQXK-es'
 tags: [  ]

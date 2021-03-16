@@ -5,7 +5,7 @@ date: 2020-01-01 23:49:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjD3LVfbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F8LRG-es Baby Jogger City Tour LUX DUO Cochecito de Bebé Desde...'
 sku: 'B07M5F8LRG-es'
 tags: [  ]

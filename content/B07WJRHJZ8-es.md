@@ -5,7 +5,7 @@ date: 2020-05-16 13:02:16
 image: 'https://m.media-amazon.com/images/I/41RU3yDm+ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJRHJZ8-es Rodillo de la Fascia Rodillo de Espuma de Eva Port¨¢Til...'
 sku: 'B07WJRHJZ8-es'
 tags: [  ]

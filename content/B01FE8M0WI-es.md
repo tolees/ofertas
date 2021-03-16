@@ -5,7 +5,7 @@ date: 2020-08-31 10:01:41
 image: 'https://m.media-amazon.com/images/I/318ft5DnguL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FE8M0WI-es Gardena 08905-20 Tijera de jardín Diámetro máx de corte-Ø:...'
 sku: 'B01FE8M0WI-es'
 tags: [  ]

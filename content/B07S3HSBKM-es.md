@@ -5,7 +5,7 @@ date: 2020-02-12 11:59:25
 image: 'https://m.media-amazon.com/images/I/41lo0QAIvcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3HSBKM-es edc by Esprit 079cc1i006 suéter Marrón Taupe 5 244 Small...'
 sku: 'B07S3HSBKM-es'
 tags: [  ]

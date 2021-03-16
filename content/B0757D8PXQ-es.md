@@ -5,7 +5,7 @@ date: 2020-10-09 18:58:37
 image: 'https://m.media-amazon.com/images/I/51I2-AQDzeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757D8PXQ-es 1 Par 7/8" Motocicleta Perillas Motocicleta Universal Puño...'
 sku: 'B0757D8PXQ-es'
 tags: [  ]

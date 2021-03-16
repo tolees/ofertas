@@ -5,7 +5,7 @@ date: 2020-05-15 17:51:15
 image: 'https://m.media-amazon.com/images/I/41f0Pl6I97L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B0YU8ME-es Russell Hobbs Purity - Hervidor de Agua Eléctrico con...'
 sku: 'B01B0YU8ME-es'
 tags: [  ]

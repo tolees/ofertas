@@ -5,7 +5,7 @@ date: 2020-09-12 23:35:06
 image: 'https://m.media-amazon.com/images/I/51J7R0penFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHD5FZW-es EUKO Guirnalda luces exterior 10 m 100 LEDs impermeable...'
 sku: 'B07VHD5FZW-es'
 tags: [  ]

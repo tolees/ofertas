@@ -5,7 +5,7 @@ date: 2020-09-05 18:03:18
 image: 'https://m.media-amazon.com/images/I/41tMXK1O-SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4WZ1Q3-es Springfield 5Ba Slim Basic-c/61 Polo Rojo Red 61 M Tamaño...'
 sku: 'B07W4WZ1Q3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 14:08:29
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QY96KZP-es 60W Smart Wifi Lámpara de techo Luz de pan Luz LED de Wifi...'
 sku: 'B07QY96KZP-es'
 tags: [  ]

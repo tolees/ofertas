@@ -5,7 +5,7 @@ date: 2020-10-02 11:44:18
 image: 'https://m.media-amazon.com/images/I/51u8XW5JsKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ64QX4-es Laguiole 6050/51 - Cuchillo de carne'
 sku: 'B07JJ64QX4-es'
 tags: [  ]

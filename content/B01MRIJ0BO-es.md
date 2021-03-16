@@ -5,7 +5,7 @@ date: 2020-09-26 06:13:11
 image: 'https://m.media-amazon.com/images/I/313-KK-G3cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRIJ0BO-es Beautural Espejo de Baño Mujer Espejo Maquillaje con luz...'
 sku: 'B01MRIJ0BO-es'
 tags: [  ]

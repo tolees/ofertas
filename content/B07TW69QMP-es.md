@@ -5,7 +5,7 @@ date: 2020-09-14 15:10:26
 image: 'https://m.media-amazon.com/images/I/51i+61RXIsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TW69QMP-es Aggelos'
 sku: 'B07TW69QMP-es'
 tags: [  ]

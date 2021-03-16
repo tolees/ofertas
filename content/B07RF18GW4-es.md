@@ -5,7 +5,7 @@ date: 2020-06-18 20:55:39
 image: 'https://m.media-amazon.com/images/I/31tuEpsUPvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RF18GW4-es G-STAR RAW Premium Basic Type C Sweat Pant Pantalones de...'
 sku: 'B07RF18GW4-es'
 tags: [  ]

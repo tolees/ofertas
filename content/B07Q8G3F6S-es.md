@@ -5,7 +5,7 @@ date: 2020-02-21 14:55:43
 image: 'https://m.media-amazon.com/images/I/51PAawUptmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q8G3F6S-es Tensiómetro de Brazo Digital Recargable USB Monitor...'
 sku: 'B07Q8G3F6S-es'
 tags: [  ]

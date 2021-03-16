@@ -5,7 +5,7 @@ date: 2020-03-31 08:46:02
 image: 'https://m.media-amazon.com/images/I/41B7zrajiHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IICFOIY-es Sujetador Nature Rosa albaricoque 80A'
 sku: 'B01IICFOIY-es'
 tags: [  ]

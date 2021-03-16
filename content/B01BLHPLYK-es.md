@@ -5,7 +5,7 @@ date: 2020-03-22 19:35:32
 image: 'https://m.media-amazon.com/images/I/41CHNlZyIJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLHPLYK-es Clarins Crema diurna facial - 50 gr.'
 sku: 'B01BLHPLYK-es'
 tags: [  ]

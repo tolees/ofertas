@@ -5,7 +5,7 @@ date: 2020-02-13 20:43:11
 image: 'https://m.media-amazon.com/images/I/41wABPpKxPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HWWGPN-es Ritokme Auriculares intrauditivos inalámbricos estéreo...'
 sku: 'B083HWWGPN-es'
 tags: [  ]

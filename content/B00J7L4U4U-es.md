@@ -5,7 +5,7 @@ date: 2020-02-23 18:52:42
 image: 'https://m.media-amazon.com/images/I/41r9qG1qpwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J7L4U4U-es Buff Solid Calentador Polar Unisex Adulto Black Talla única'
 sku: 'B00J7L4U4U-es'
 tags: [  ]

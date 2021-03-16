@@ -5,7 +5,7 @@ date: 2020-04-14 17:30:21
 image: 'https://m.media-amazon.com/images/I/41UA-DuZ3IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BVY4XM1-es seQoya - Colorado | Reloj de Madera con Esfera de Madera y...'
 sku: 'B07BVY4XM1-es'
 tags: [  ]

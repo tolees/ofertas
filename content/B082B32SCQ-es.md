@@ -5,7 +5,7 @@ date: 2020-06-06 14:37:49
 image: 'https://m.media-amazon.com/images/I/51wssH3pFkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082B32SCQ-es Juego de Regalo de Copas de Cristal Roca - Vaso Scotch con...'
 sku: 'B082B32SCQ-es'
 tags: [  ]

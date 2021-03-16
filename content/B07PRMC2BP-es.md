@@ -5,7 +5,7 @@ date: 2020-02-27 12:14:48
 image: 'https://m.media-amazon.com/images/I/31df7qVT4bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRMC2BP-es Bourjois Velvet The Pencil - Pintalabios Tono 4 Amou-rose 3g'
 sku: 'B07PRMC2BP-es'
 tags: [  ]

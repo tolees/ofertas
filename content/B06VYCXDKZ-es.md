@@ -5,7 +5,7 @@ date: 2020-05-08 16:40:22
 image: 'https://m.media-amazon.com/images/I/413VsaB283L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VYCXDKZ-es Joma Tokio II Pantalones Cortos Hombre Multicolor...'
 sku: 'B06VYCXDKZ-es'
 tags: [  ]

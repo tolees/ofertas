@@ -5,7 +5,7 @@ date: 2020-01-20 18:42:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BzP2iACbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWJG61W-es Fantasy Flight Games- Star Wars X-Wing: Renegados de Saw -...'
 sku: 'B07DWJG61W-es'
 tags: [  ]

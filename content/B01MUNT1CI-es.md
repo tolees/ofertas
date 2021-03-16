@@ -5,7 +5,7 @@ date: 2020-02-12 20:04:03
 image: 'https://m.media-amazon.com/images/I/410byOW6EGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUNT1CI-es Uuhome Maletín Vacío para Maquillaje Portátil Impermeable...'
 sku: 'B01MUNT1CI-es'
 tags: [  ]

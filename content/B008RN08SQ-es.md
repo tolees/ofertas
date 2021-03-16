@@ -5,7 +5,7 @@ date: 2020-09-04 18:58:09
 image: 'https://m.media-amazon.com/images/I/41ewCZ3fiQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008RN08SQ-es Bosch Professional GKS 18 V-LI Sierra circular disco...'
 sku: 'B008RN08SQ-es'
 tags: [  ]

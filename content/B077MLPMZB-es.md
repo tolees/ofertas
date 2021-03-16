@@ -5,7 +5,7 @@ date: 2020-08-27 20:12:05
 image: 'https://m.media-amazon.com/images/I/41eFaBn8zlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MLPMZB-es PUMA Smash V2 Zapatillas Unisex-Adulto Azul Peacoat White...'
 sku: 'B077MLPMZB-es'
 tags: [  ]

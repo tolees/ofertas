@@ -5,7 +5,7 @@ date: 2020-08-04 18:49:04
 image: 'https://m.media-amazon.com/images/I/41HhzOCGVnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003H2XUTG-es Merrell Choprock Leather Shandal Zapatillas Impermeables...'
 sku: 'B003H2XUTG-es'
 tags: [  ]

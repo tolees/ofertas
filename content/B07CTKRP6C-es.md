@@ -5,7 +5,7 @@ date: 2020-01-15 12:23:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415x-j88YJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTKRP6C-es JACK & JONES Jfwalbany Leather Brown Stone STS Botas...'
 sku: 'B07CTKRP6C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-11 06:20:41
 image: 'https://m.media-amazon.com/images/I/314HDLh8pUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y46KF6F-es ZIGLINT Z6 sin Cable Aspirador 2 en 1 con una Potencia de...'
 sku: 'B07Y46KF6F-es'
 tags: [  ]

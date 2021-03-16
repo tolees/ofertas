@@ -5,7 +5,7 @@ date: 2020-04-10 05:25:29
 image: 'https://m.media-amazon.com/images/I/41VMCWyhzVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQXNHFX-es Saucony Triumph ISO 5 - Zapatillas de running para hombre...'
 sku: 'B07JQXNHFX-es'
 tags: [  ]

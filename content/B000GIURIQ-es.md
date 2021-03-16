@@ -5,7 +5,7 @@ date: 2020-04-22 05:55:15
 image: 'https://m.media-amazon.com/images/I/41g+bP0y7KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GIURIQ-es Optimum Nutrition ON Gold Standard 100% whey proteína en...'
 sku: 'B000GIURIQ-es'
 tags: [  ]

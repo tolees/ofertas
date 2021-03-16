@@ -5,7 +5,7 @@ date: 2020-05-11 10:34:44
 image: 'https://m.media-amazon.com/images/I/41QWBwYPyxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGHN7Z3-es Buff R-Equilateral Visera Pack Run Unisex Adulto Cape Blue...'
 sku: 'B07KGHN7Z3-es'
 tags: [  ]

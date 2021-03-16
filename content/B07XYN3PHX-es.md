@@ -5,7 +5,7 @@ date: 2020-01-10 19:04:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bAJLEpIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYN3PHX-es FMPC Funda Compatible con Samsung Galaxy J4 2018 Caso...'
 sku: 'B07XYN3PHX-es'
 tags: [  ]

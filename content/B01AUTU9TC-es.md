@@ -5,7 +5,7 @@ date: 2020-02-12 16:31:15
 image: 'https://m.media-amazon.com/images/I/419quQAkzhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AUTU9TC-es L Oréal Paris Sculpt 01 Base De Maquillaje Fluida - 1 Base...'
 sku: 'B01AUTU9TC-es'
 tags: [  ]

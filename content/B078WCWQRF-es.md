@@ -5,7 +5,7 @@ date: 2020-09-09 15:30:35
 image: 'https://m.media-amazon.com/images/I/31Fvln8WxPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WCWQRF-es Palladium Pampa Hi Mono U Zapatillas Altas para Hombre...'
 sku: 'B078WCWQRF-es'
 tags: [  ]

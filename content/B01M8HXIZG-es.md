@@ -5,7 +5,7 @@ date: 2020-08-09 19:45:14
 image: 'https://m.media-amazon.com/images/I/41FZbMOp1QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M8HXIZG-es Arcopal - Vajilla con 18 Piezas Blanco'
 sku: 'B01M8HXIZG-es'
 tags: [  ]

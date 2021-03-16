@@ -5,7 +5,7 @@ date: 2020-09-10 06:43:43
 image: 'https://m.media-amazon.com/images/I/31nNqOQUt+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K1WAPPM-es Hunter Original Short Botas de Agua Unisex Adulto Negro...'
 sku: 'B00K1WAPPM-es'
 tags: [  ]

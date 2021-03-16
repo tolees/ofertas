@@ -5,7 +5,7 @@ date: 2020-03-14 15:03:00
 image: 'https://m.media-amazon.com/images/I/41prIpVwASL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7DNWMQ-es Hackett Amr Long Contrast Paraguas Navy/Red 5dc Talla...'
 sku: 'B07M7DNWMQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-14 08:35:55
 image: 'https://m.media-amazon.com/images/I/51+sgd-S1KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8J43DR-es Calcetines de Running para Largas Distancias 3 Par...'
 sku: 'B07T8J43DR-es'
 tags: [  ]

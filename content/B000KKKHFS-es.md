@@ -5,7 +5,7 @@ date: 2020-01-28 21:25:30
 image: 'https://m.media-amazon.com/images/I/41vJXMDgeOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KKKHFS-es InLine 33101 Adaptador de Cable USB A DB15 Beige -...'
 sku: 'B000KKKHFS-es'
 tags: [  ]

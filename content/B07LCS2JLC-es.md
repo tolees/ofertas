@@ -5,7 +5,7 @@ date: 2020-01-07 17:04:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qtd1pJNIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCS2JLC-es Nike Downshifter 9 PSV Zapatillas de Running Unisex Niños...'
 sku: 'B07LCS2JLC-es'
 tags: [  ]

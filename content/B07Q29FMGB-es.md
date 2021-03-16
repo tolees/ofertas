@@ -5,7 +5,7 @@ date: 2020-07-01 08:37:32
 image: 'https://m.media-amazon.com/images/I/419fXGAjGbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q29FMGB-es Cepillo de Dientes Eléctrico Homever Cepillo de Dientes...'
 sku: 'B07Q29FMGB-es'
 tags: [  ]

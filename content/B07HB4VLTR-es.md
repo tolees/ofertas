@@ -5,7 +5,7 @@ date: 2020-09-23 08:48:36
 image: 'https://m.media-amazon.com/images/I/316E5fmg02L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB4VLTR-es Figura Pop Dragon Ball: Goku Casual'
 sku: 'B07HB4VLTR-es'
 tags: [  ]

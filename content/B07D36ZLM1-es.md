@@ -5,7 +5,7 @@ date: 2020-06-27 08:07:09
 image: 'https://m.media-amazon.com/images/I/416EB1k5ZmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D36ZLM1-es upHere Refrixerador de Memoria RAM - Disipador Térmico De...'
 sku: 'B07D36ZLM1-es'
 tags: [  ]

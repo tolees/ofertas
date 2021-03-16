@@ -5,7 +5,7 @@ date: 2020-03-06 07:20:44
 image: 'https://m.media-amazon.com/images/I/411cz5Dlp4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WCQBGS-es Prozis Instant Oats Vainilla - 1250 gr'
 sku: 'B071WCQBGS-es'
 tags: [  ]

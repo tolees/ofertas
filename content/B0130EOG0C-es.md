@@ -5,7 +5,7 @@ date: 2020-08-22 12:45:50
 image: 'https://m.media-amazon.com/images/I/51ZfrJB5n+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0130EOG0C-es Remington Kit Lithium PG6160 - Recortador Multifunción y...'
 sku: 'B0130EOG0C-es'
 tags: [  ]

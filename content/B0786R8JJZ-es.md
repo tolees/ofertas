@@ -5,7 +5,7 @@ date: 2020-03-27 09:03:35
 image: 'https://m.media-amazon.com/images/I/41TFEp4fjnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0786R8JJZ-es PUMA Liga Training Shorts W Chándal Mujer Negro...'
 sku: 'B0786R8JJZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-22 09:34:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ufWAXF61L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N98XRGS-es BOSS Schino-Regular D Pantalones Azul Navy 413 29W/34L...'
 sku: 'B07N98XRGS-es'
 tags: [  ]

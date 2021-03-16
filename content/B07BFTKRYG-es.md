@@ -5,7 +5,7 @@ date: 2020-01-28 11:21:14
 image: 'https://m.media-amazon.com/images/I/51diobhQBrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFTKRYG-es Karactermania 37063 Frozen Sister Queens Estuches 22 cm Azul'
 sku: 'B07BFTKRYG-es'
 tags: [  ]

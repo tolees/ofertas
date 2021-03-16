@@ -5,7 +5,7 @@ date: 2020-04-09 19:51:03
 image: 'https://m.media-amazon.com/images/I/41ixRk2-klL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZY14SHF-es Masajeador Portátil Louviva Inalámbrico Masajeador Wand...'
 sku: 'B06ZY14SHF-es'
 tags: [  ]

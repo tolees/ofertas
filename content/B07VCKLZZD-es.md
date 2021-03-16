@@ -5,7 +5,7 @@ date: 2020-03-24 03:14:34
 image: 'https://m.media-amazon.com/images/I/41sX075A0LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCKLZZD-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07VCKLZZD-es'
 tags: [  ]

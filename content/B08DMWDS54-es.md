@@ -5,7 +5,7 @@ date: 2020-09-01 11:01:33
 image: 'https://m.media-amazon.com/images/I/51zt54dHyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DMWDS54-es Panamar S485 a TTL Módulo TTL a RS485 Convertidor de señal...'
 sku: 'B08DMWDS54-es'
 tags: [  ]

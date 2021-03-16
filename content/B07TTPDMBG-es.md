@@ -5,7 +5,7 @@ date: 2020-05-25 15:33:05
 image: 'https://m.media-amazon.com/images/I/41ftl6DH0lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTPDMBG-es Kipling Abanu Bolsos con Bandolera para Mujer Negro Carbon...'
 sku: 'B07TTPDMBG-es'
 tags: [  ]

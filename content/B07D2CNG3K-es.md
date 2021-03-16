@@ -5,7 +5,7 @@ date: 2020-02-05 10:54:15
 image: 'https://m.media-amazon.com/images/I/51BNxlOZuwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2CNG3K-es TESMED Cinturón Electroestimulador 7.7 extra Belt para...'
 sku: 'B07D2CNG3K-es'
 tags: [  ]

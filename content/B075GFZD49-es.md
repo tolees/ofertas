@@ -5,7 +5,7 @@ date: 2020-01-13 11:04:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ckuJgs2TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GFZD49-es Triumph Body Make-up Essent WHU Sujetador Marrón Coffee...'
 sku: 'B075GFZD49-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 05:08:45
 image: 'https://m.media-amazon.com/images/I/41MCZfI62LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3PXA1X-es Sigma 01417 Ciclocomputador Negro'
 sku: 'B01M3PXA1X-es'
 tags: [  ]

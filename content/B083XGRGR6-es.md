@@ -5,7 +5,7 @@ date: 2020-09-02 07:58:19
 image: 'https://m.media-amazon.com/images/I/31+OMmha+QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XGRGR6-es SATECHI Adaptador Multi-Puertos Tipo-C Delgado con...'
 sku: 'B083XGRGR6-es'
 tags: [  ]

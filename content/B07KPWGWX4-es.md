@@ -5,7 +5,7 @@ date: 2020-08-15 20:39:52
 image: 'https://m.media-amazon.com/images/I/51zeUrjAr2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPWGWX4-es Brazalete Deportivo Brazalete Running Armband Movil...'
 sku: 'B07KPWGWX4-es'
 tags: [  ]

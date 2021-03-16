@@ -5,7 +5,7 @@ date: 2020-05-27 19:32:57
 image: 'https://m.media-amazon.com/images/I/41z0i5CS0EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T26JYYM-es Air Wick Freshmatic Max Ambientador de Recambio Flor - 250 ml'
 sku: 'B07T26JYYM-es'
 tags: [  ]

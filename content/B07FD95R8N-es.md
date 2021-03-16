@@ -5,7 +5,7 @@ date: 2020-03-12 01:32:03
 image: 'https://m.media-amazon.com/images/I/41nrWThHBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FD95R8N-es BLEND 20708180 Polo Rojo Mineral Red 73817 X-Large para...'
 sku: 'B07FD95R8N-es'
 tags: [  ]

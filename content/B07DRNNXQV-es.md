@@ -5,7 +5,7 @@ date: 2020-02-01 09:26:25
 image: 'https://m.media-amazon.com/images/I/41FSMu3SNpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRNNXQV-es Skechers Boys Go Run 600-Farrox Trainers Black Black Blue...'
 sku: 'B07DRNNXQV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 14:56:45
 image: 'https://m.media-amazon.com/images/I/41rQNL6sL+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BF9N8TT-es Garnier Delial UV Water Spray Protector Solar Transparente...'
 sku: 'B07BF9N8TT-es'
 tags: [  ]

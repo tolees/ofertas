@@ -5,7 +5,7 @@ date: 2020-03-04 12:30:43
 image: 'https://m.media-amazon.com/images/I/41F5dUAc6HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJHJYZS-es adidas VL Court 2.0 Zapatillas para Mujer Rosa Glow...'
 sku: 'B07SJHJYZS-es'
 tags: [  ]

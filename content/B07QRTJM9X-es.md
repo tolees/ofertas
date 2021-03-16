@@ -5,7 +5,7 @@ date: 2020-09-17 07:17:01
 image: 'https://m.media-amazon.com/images/I/41sgRMyx50L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRTJM9X-es Medisana IPL 836 99120 - Depiladora a base de luz para una...'
 sku: 'B07QRTJM9X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-19 00:06:11
 image: 'https://m.media-amazon.com/images/I/41i5M37T7JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JO57YZQ-es Biosilk Mascarilla de pelo - 118 ml.'
 sku: 'B00JO57YZQ-es'
 tags: [  ]

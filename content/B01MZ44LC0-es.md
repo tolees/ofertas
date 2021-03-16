@@ -5,7 +5,7 @@ date: 2020-10-07 00:52:49
 image: 'https://m.media-amazon.com/images/I/41LpBpTcM0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ44LC0-es Nike Classic Cortez Leather Zapatillas para Mujer Blanco...'
 sku: 'B01MZ44LC0-es'
 tags: [  ]

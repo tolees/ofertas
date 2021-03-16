@@ -5,7 +5,7 @@ date: 2020-09-13 09:46:25
 image: 'https://m.media-amazon.com/images/I/41lB3Z4nBxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNBLLRB-es DB15 Adaptador de conector de 15 pines adaptador de puerto...'
 sku: 'B07DNBLLRB-es'
 tags: [  ]

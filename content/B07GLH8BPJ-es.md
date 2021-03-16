@@ -5,7 +5,7 @@ date: 2020-02-20 08:39:00
 image: 'https://m.media-amazon.com/images/I/518tDQIv79L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLH8BPJ-es Luces de Botella de Vino con Corcho 10 Unidades Funciona...'
 sku: 'B07GLH8BPJ-es'
 tags: [  ]

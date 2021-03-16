@@ -5,7 +5,7 @@ date: 2020-02-01 07:35:50
 image: 'https://m.media-amazon.com/images/I/41rQWEk+0AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4JQRGH-es Auriculares Bluetooth Manos Libres Oreja Auricular...'
 sku: 'B07B4JQRGH-es'
 tags: [  ]

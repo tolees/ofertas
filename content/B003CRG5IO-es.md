@@ -5,7 +5,7 @@ date: 2020-02-10 18:04:23
 image: 'https://m.media-amazon.com/images/I/41xh02K6X0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003CRG5IO-es Wolfcraft 4868000 4868000-1 Cascos Anti-Ruido Standard SNR...'
 sku: 'B003CRG5IO-es'
 tags: [  ]

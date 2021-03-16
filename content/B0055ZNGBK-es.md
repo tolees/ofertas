@@ -5,7 +5,7 @@ date: 2020-04-11 02:28:30
 image: 'https://m.media-amazon.com/images/I/510XMSumZ7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055ZNGBK-es Orbegozo FH6035 Calefactor 2200 W Plata y gris'
 sku: 'B0055ZNGBK-es'
 tags: [  ]

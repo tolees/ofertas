@@ -5,7 +5,7 @@ date: 2020-01-22 14:42:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Rh5dcaw2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081V9XVZF-es Disfraz Familiar Carnaval Trajes Super Mario Luigi para...'
 sku: 'B081V9XVZF-es'
 tags: [  ]

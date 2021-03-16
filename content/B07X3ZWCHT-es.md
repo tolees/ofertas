@@ -5,7 +5,7 @@ date: 2020-02-20 23:51:37
 image: 'https://m.media-amazon.com/images/I/51IE-JuaAJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3ZWCHT-es Coche Teledirigido ETEPON 1:16 2.4GHz RC Coche Conducir a...'
 sku: 'B07X3ZWCHT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 08:15:45
 image: 'https://m.media-amazon.com/images/I/41cbGnS5ftL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RGKK9FI-es Bosch Professional - Bolsa para herramrientas talla Medium...'
 sku: 'B00RGKK9FI-es'
 tags: [  ]

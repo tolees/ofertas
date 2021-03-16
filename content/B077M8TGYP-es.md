@@ -5,7 +5,7 @@ date: 2020-01-20 22:57:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-Wb4o3yVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077M8TGYP-es Puma Escaper SL Jr Zapatillas de Running Unisex Niños...'
 sku: 'B077M8TGYP-es'
 tags: [  ]

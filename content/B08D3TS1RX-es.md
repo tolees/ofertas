@@ -5,7 +5,7 @@ date: 2020-07-22 18:45:35
 image: 'https://m.media-amazon.com/images/I/31GROkGSOxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3TS1RX-es Panamar Almohadilla de Juguete Inflable de Agua de PVC de...'
 sku: 'B08D3TS1RX-es'
 tags: [  ]

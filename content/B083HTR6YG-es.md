@@ -5,7 +5,7 @@ date: 2020-03-31 05:17:21
 image: 'https://m.media-amazon.com/images/I/51Mp2C8D2JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HTR6YG-es K9CK Luces LED para Ideas Friends Central Perk 21319 Kit...'
 sku: 'B083HTR6YG-es'
 tags: [  ]

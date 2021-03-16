@@ -5,7 +5,7 @@ date: 2020-04-17 00:32:50
 image: 'https://m.media-amazon.com/images/I/51WQ4+MiL1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MR9NRMT-es Té verde menta Té verde marroquí con menta nana Mezcla de...'
 sku: 'B01MR9NRMT-es'
 tags: [  ]

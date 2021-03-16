@@ -5,7 +5,7 @@ date: 2020-08-25 09:23:25
 image: 'https://m.media-amazon.com/images/I/41YMW8CnZcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNMN576-es G-STAR RAW Carnic Pantalones Cortos Rosa Langoustino Pink...'
 sku: 'B07VNMN576-es'
 tags: [  ]

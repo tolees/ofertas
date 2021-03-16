@@ -5,7 +5,7 @@ date: 2020-03-08 12:53:02
 image: 'https://m.media-amazon.com/images/I/41WGBoaSwIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHLDN2T-es Cartera Pepe Jeans Burned vertical con cierre de clic Marrón'
 sku: 'B07HHLDN2T-es'
 tags: [  ]

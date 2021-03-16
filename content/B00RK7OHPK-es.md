@@ -5,7 +5,7 @@ date: 2020-04-19 12:34:16
 image: 'https://m.media-amazon.com/images/I/412LxLgvDfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RK7OHPK-es Sony Action CAM FDR-X1000VR - Videocámara Deportiva Video...'
 sku: 'B00RK7OHPK-es'
 tags: [  ]

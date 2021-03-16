@@ -5,7 +5,7 @@ date: 2020-05-26 09:44:26
 image: 'https://m.media-amazon.com/images/I/51AEjsMcxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZH5R5LP-es Blevit Plus Blevit Plus Papilla 8 Cereales Y Fruta Para...'
 sku: 'B07ZH5R5LP-es'
 tags: [  ]

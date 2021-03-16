@@ -5,7 +5,7 @@ date: 2020-05-08 07:05:13
 image: 'https://m.media-amazon.com/images/I/41Wl0CN0qiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008FN6YOU-es Optimum Nutrition ON Opti-Men Suplemento multivitamínico...'
 sku: 'B008FN6YOU-es'
 tags: [  ]

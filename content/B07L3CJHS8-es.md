@@ -5,7 +5,7 @@ date: 2020-04-19 08:29:16
 image: 'https://m.media-amazon.com/images/I/31in5FHvYHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3CJHS8-es Tommy Hilfiger Tommy Jeans Casual Sneaker Zapatillas para...'
 sku: 'B07L3CJHS8-es'
 tags: [  ]

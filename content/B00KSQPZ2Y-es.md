@@ -5,7 +5,7 @@ date: 2020-02-13 14:09:18
 image: 'https://m.media-amazon.com/images/I/315oVBlpAwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KSQPZ2Y-es BaByliss Diamond Slim ST325E - Plancha de pelo con placas...'
 sku: 'B00KSQPZ2Y-es'
 tags: [  ]

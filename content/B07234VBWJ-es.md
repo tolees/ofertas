@@ -5,7 +5,7 @@ date: 2020-09-27 20:59:56
 image: 'https://m.media-amazon.com/images/I/51p1Xu7nDXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07234VBWJ-es Manguera de jardín manguera Flexi sailun® Flexible incluye...'
 sku: 'B07234VBWJ-es'
 tags: [  ]

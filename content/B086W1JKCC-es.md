@@ -5,7 +5,7 @@ date: 2020-05-17 13:50:37
 image: 'https://m.media-amazon.com/images/I/51Ko3NUeYDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086W1JKCC-es Cubitera Hielo Silicona Moldes Para Hielo 2 En 1 Ice Cube...'
 sku: 'B086W1JKCC-es'
 tags: [  ]

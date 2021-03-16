@@ -5,7 +5,7 @@ date: 2020-09-08 10:20:40
 image: 'https://m.media-amazon.com/images/I/412ApTsK7DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTH476T-es 3pcs Estuche portátil Guarda mascarilla. Bolsa/Caja de...'
 sku: 'B08BTH476T-es'
 tags: [  ]

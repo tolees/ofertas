@@ -5,7 +5,7 @@ date: 2020-07-31 05:00:53
 image: 'https://m.media-amazon.com/images/I/41TIgV3ddvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014SV3LB6-es Super Design Comedero Lento en Melamina Comedero...'
 sku: 'B014SV3LB6-es'
 tags: [  ]

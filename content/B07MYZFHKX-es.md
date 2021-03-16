@@ -5,7 +5,7 @@ date: 2020-08-28 17:43:20
 image: 'https://m.media-amazon.com/images/I/41cSBeJAhxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYZFHKX-es Skechers Women s Stretch Flat Laced Slip Trainers Negro...'
 sku: 'B07MYZFHKX-es'
 tags: [  ]

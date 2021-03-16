@@ -5,7 +5,7 @@ date: 2020-07-01 15:20:35
 image: 'https://m.media-amazon.com/images/I/41e2U6sM4tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZ4D3Q-es PUMA Ralph Sampson Lo Zapatillas Unisex Adulto Rosa Pastel...'
 sku: 'B07KFZ4D3Q-es'
 tags: [  ]

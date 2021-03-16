@@ -5,7 +5,7 @@ date: 2020-05-24 09:03:43
 image: 'https://m.media-amazon.com/images/I/31n56c8ptdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076H81DZC-es Carat Shop- Colgante Charm Lightning Bolt Harry Potter...'
 sku: 'B076H81DZC-es'
 tags: [  ]

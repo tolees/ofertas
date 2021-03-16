@@ -5,7 +5,7 @@ date: 2020-01-05 09:47:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/516new9nm4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK271PL-es steanum Cargador Inalámbrico Coche Qi 10W Carga Rápida...'
 sku: 'B07MK271PL-es'
 tags: [  ]

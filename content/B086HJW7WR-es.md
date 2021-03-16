@@ -5,7 +5,7 @@ date: 2020-05-11 15:33:02
 image: 'https://m.media-amazon.com/images/I/51aaP6k0u4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086HJW7WR-es Seguridad con válvula de respiración adecuada para muchas...'
 sku: 'B086HJW7WR-es'
 tags: [  ]

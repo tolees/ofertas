@@ -5,7 +5,7 @@ date: 2020-02-01 18:55:57
 image: 'https://m.media-amazon.com/images/I/41-x0EP7VxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGNS4FR-es Ommani Encendedor Electrico USB Encendedor de Doble Arco...'
 sku: 'B07PGNS4FR-es'
 tags: [  ]

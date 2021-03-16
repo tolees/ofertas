@@ -5,7 +5,7 @@ date: 2020-05-10 11:23:25
 image: 'https://m.media-amazon.com/images/I/41zTmuYDM6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GS896CJ-es Lenovo Legion Y920-17IKB - Ordenador portátil gaming de...'
 sku: 'B07GS896CJ-es'
 tags: [  ]

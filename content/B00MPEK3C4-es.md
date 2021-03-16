@@ -5,7 +5,7 @@ date: 2020-04-14 19:02:41
 image: 'https://m.media-amazon.com/images/I/313y02sTsGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MPEK3C4-es Nox TG-10 - NXTG10 - Pasta térmica 10 Gramos'
 sku: 'B00MPEK3C4-es'
 tags: [  ]

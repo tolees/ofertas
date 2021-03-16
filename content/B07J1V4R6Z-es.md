@@ -5,7 +5,7 @@ date: 2020-02-24 18:43:39
 image: 'https://m.media-amazon.com/images/I/31VjpShpcUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J1V4R6Z-es Petusco - Naomi Pistacho Piel de vacuno tipo grano y...'
 sku: 'B07J1V4R6Z-es'
 tags: [  ]

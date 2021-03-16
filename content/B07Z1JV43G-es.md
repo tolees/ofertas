@@ -5,7 +5,7 @@ date: 2020-06-20 19:07:12
 image: 'https://m.media-amazon.com/images/I/4173ra1pX1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1JV43G-es Bolsas de Transporte Bolsa Viaje para Asiento Bebé Acomon...'
 sku: 'B07Z1JV43G-es'
 tags: [  ]

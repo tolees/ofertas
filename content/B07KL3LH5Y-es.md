@@ -5,7 +5,7 @@ date: 2020-01-10 11:34:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41x9pPypg0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL3LH5Y-es adidas D2m tee 3s T-Shirt Hombre White L'
 sku: 'B07KL3LH5Y-es'
 tags: [  ]

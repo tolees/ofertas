@@ -5,7 +5,7 @@ date: 2020-09-05 15:45:35
 image: 'https://m.media-amazon.com/images/I/21r8gYErJ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NWD9PF-es Typicshop Tapa Cámara Ultra Delgada 0.85mm Webcam Cover...'
 sku: 'B089NWD9PF-es'
 tags: [  ]

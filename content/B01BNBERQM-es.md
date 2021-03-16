@@ -5,7 +5,7 @@ date: 2020-07-04 14:30:31
 image: 'https://m.media-amazon.com/images/I/51yDMQ6dBnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BNBERQM-es Hugo Boss Orange 1513352 - Reloj analógico de pulsera para...'
 sku: 'B01BNBERQM-es'
 tags: [  ]

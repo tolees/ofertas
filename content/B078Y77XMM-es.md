@@ -5,7 +5,7 @@ date: 2020-07-10 06:30:41
 image: 'https://m.media-amazon.com/images/I/41D-6gEeT6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078Y77XMM-es Pro Breeze Ventilador de Torre Oscilante 45W. con...'
 sku: 'B078Y77XMM-es'
 tags: [  ]

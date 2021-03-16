@@ -5,7 +5,7 @@ date: 2020-03-26 16:02:16
 image: 'https://m.media-amazon.com/images/I/41yhEke+0RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTL0C0-es G-STAR RAW 5620 Elwood 3D Skinny Jeans Gris dk aged cobler...'
 sku: 'B01BGTL0C0-es'
 tags: [  ]

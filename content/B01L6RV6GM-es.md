@@ -5,7 +5,7 @@ date: 2020-04-28 22:49:45
 image: 'https://m.media-amazon.com/images/I/31UFr7EmYjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L6RV6GM-es Lee Rider Contrast Jeans Rinse 30W / 34L para Hombre'
 sku: 'B01L6RV6GM-es'
 tags: [  ]

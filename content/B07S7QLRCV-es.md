@@ -5,7 +5,7 @@ date: 2020-06-16 17:42:33
 image: 'https://m.media-amazon.com/images/I/41ZT8b7bkEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QLRCV-es PUMA Zone XT WNS Zapatillas Deportivas para Interior para...'
 sku: 'B07S7QLRCV-es'
 tags: [  ]

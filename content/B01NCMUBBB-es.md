@@ -5,7 +5,7 @@ date: 2020-08-05 22:31:09
 image: 'https://m.media-amazon.com/images/I/41ai-IXxekL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCMUBBB-es HP 803181-071 - Teclado Estándar Alámbrico USB Interruptor...'
 sku: 'B01NCMUBBB-es'
 tags: [  ]

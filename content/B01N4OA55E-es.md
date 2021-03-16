@@ -5,7 +5,7 @@ date: 2020-05-13 13:02:59
 image: 'https://m.media-amazon.com/images/I/31ElIXSq9LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4OA55E-es Ivos Suporte Universal de Aluminio para Proyector...'
 sku: 'B01N4OA55E-es'
 tags: [  ]

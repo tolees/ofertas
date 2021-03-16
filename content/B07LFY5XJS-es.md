@@ -5,7 +5,7 @@ date: 2020-08-20 17:55:36
 image: 'https://m.media-amazon.com/images/I/41dtPx5nzWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFY5XJS-es Sloggi Ever Fresh Tai Braguita Skyline 6582 XS para Mujer'
 sku: 'B07LFY5XJS-es'
 tags: [  ]

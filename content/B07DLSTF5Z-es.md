@@ -5,7 +5,7 @@ date: 2020-09-19 20:57:11
 image: 'https://m.media-amazon.com/images/I/318bfBifMEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLSTF5Z-es American Tourister Urban Groove - Bolsa de Viaje 50 cm...'
 sku: 'B07DLSTF5Z-es'
 tags: [  ]

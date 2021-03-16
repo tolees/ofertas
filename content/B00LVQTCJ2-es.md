@@ -5,7 +5,7 @@ date: 2020-04-22 21:52:53
 image: 'https://m.media-amazon.com/images/I/31lwTMDlsPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LVQTCJ2-es Roccat Tyon - Ratón Gaming Sensor Láser 8200 dpi 14 Teclas...'
 sku: 'B00LVQTCJ2-es'
 tags: [  ]

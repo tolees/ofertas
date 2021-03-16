@@ -5,7 +5,7 @@ date: 2020-06-07 17:32:25
 image: 'https://m.media-amazon.com/images/I/41IjVKAap1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MPZJ4YN-es Vans Old Skool Zapatillas Unisex Adulto Negro Black...'
 sku: 'B01MPZJ4YN-es'
 tags: [  ]

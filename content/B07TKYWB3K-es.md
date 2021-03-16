@@ -5,7 +5,7 @@ date: 2020-07-24 17:36:32
 image: 'https://m.media-amazon.com/images/I/51xQ-At9kIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKYWB3K-es Sabrent 1TB Rocket Nvme PCIe 4.0 M.2 2280 Unidad de estado...'
 sku: 'B07TKYWB3K-es'
 tags: [  ]

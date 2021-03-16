@@ -5,7 +5,7 @@ date: 2020-04-16 09:44:23
 image: 'https://m.media-amazon.com/images/I/21m2uiL0CkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1VNWJ-es 1 Par Súper Suave de Silicona Punta del Pie Ballet Zapato...'
 sku: 'B07KG1VNWJ-es'
 tags: [  ]

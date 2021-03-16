@@ -5,7 +5,7 @@ date: 2020-01-07 15:45:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31iqF99ykdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077L6PLT9-es Bourjois Velvet The Lipstick Barra de Labios Tono 13...'
 sku: 'B077L6PLT9-es'
 tags: [  ]

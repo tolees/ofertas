@@ -5,7 +5,7 @@ date: 2020-05-27 18:56:23
 image: 'https://m.media-amazon.com/images/I/31f6mBrQEQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009UNH0EM-es Plantronics 89032-01 - Cable de alimentación USB'
 sku: 'B009UNH0EM-es'
 tags: [  ]

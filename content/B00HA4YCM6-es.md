@@ -5,7 +5,7 @@ date: 2020-08-05 09:48:12
 image: 'https://m.media-amazon.com/images/I/41fp4UXCTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HA4YCM6-es Rubie s 620019-L Avengers - Disfraz Capitán América para...'
 sku: 'B00HA4YCM6-es'
 tags: [  ]

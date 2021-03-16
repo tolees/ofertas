@@ -5,7 +5,7 @@ date: 2020-09-25 12:37:11
 image: 'https://m.media-amazon.com/images/I/41cqQxuQiDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BDQA65Y-es Artémio-Perforadora de esquinas-Croissant-25 mm'
 sku: 'B00BDQA65Y-es'
 tags: [  ]

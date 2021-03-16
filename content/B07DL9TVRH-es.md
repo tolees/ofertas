@@ -5,7 +5,7 @@ date: 2020-07-31 18:27:41
 image: 'https://m.media-amazon.com/images/I/31NDcZrW1NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DL9TVRH-es adidas VL Court 2.0 Zapatillas de Skateboard para Mujer...'
 sku: 'B07DL9TVRH-es'
 tags: [  ]

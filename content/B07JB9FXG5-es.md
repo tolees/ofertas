@@ -5,7 +5,7 @@ date: 2020-05-23 19:36:38
 image: 'https://m.media-amazon.com/images/I/51j9iGR6RAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JB9FXG5-es Vsadey Suero facial de vitamina C con ácido hialurónico...'
 sku: 'B07JB9FXG5-es'
 tags: [  ]

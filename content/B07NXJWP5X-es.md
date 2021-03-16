@@ -5,7 +5,7 @@ date: 2020-09-14 08:02:24
 image: 'https://m.media-amazon.com/images/I/41r8q2IpfvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXJWP5X-es Skechers Dyna-Lights Zapatillas para Niños Azul Navy...'
 sku: 'B07NXJWP5X-es'
 tags: [  ]

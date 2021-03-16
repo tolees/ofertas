@@ -5,7 +5,7 @@ date: 2020-07-30 22:30:45
 image: 'https://m.media-amazon.com/images/I/31V+AklJRXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRDV6Q3-es Fa Desodorante Spray Limones del Caribe - 48h de...'
 sku: 'B07NRDV6Q3-es'
 tags: [  ]

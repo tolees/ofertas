@@ -5,7 +5,7 @@ date: 2020-03-11 16:58:13
 image: 'https://m.media-amazon.com/images/I/41ltkfmGeoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MJHTX5-es PUMA Smash v2 L V Inf Zapatillas Unisex Niños Black White...'
 sku: 'B077MJHTX5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 07:47:22
 image: 'https://m.media-amazon.com/images/I/51iOWeRafPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYJNRFV-es Jevogh JLY03-1 HD Dash Cam 170°Grand Angle 1080P avec...'
 sku: 'B07DYJNRFV-es'
 tags: [  ]

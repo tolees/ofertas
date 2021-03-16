@@ -5,7 +5,7 @@ date: 2020-05-29 15:04:21
 image: 'https://m.media-amazon.com/images/I/41CLqLesy-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P56HSWX-es Interruptor de límite micro 10pcs Interruptor de límite...'
 sku: 'B07P56HSWX-es'
 tags: [  ]

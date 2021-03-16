@@ -5,7 +5,7 @@ date: 2020-09-24 11:30:48
 image: 'https://m.media-amazon.com/images/I/516+7da22cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1V89YS-es VTech-80-177822 Barco Pirata cazatesoros transformable en...'
 sku: 'B07T1V89YS-es'
 tags: [  ]

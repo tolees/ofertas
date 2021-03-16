@@ -5,7 +5,7 @@ date: 2020-05-02 15:40:27
 image: 'https://m.media-amazon.com/images/I/31da2wtQKDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0816CYCRH-es LNIEGE Bolsa de pañales para bebés Multibolsillos Bolsa de...'
 sku: 'B0816CYCRH-es'
 tags: [  ]

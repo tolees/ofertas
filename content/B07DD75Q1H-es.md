@@ -5,7 +5,7 @@ date: 2020-01-24 08:22:16
 image: 'https://m.media-amazon.com/images/I/51H33OtEX3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD75Q1H-es iMagicBox Cife Cubo de Magia Multicolor Spain 41419'
 sku: 'B07DD75Q1H-es'
 tags: [  ]

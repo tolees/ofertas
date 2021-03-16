@@ -5,7 +5,7 @@ date: 2020-05-09 08:59:52
 image: 'https://m.media-amazon.com/images/I/413nHD3NRUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC5FF5R-es Saucony Clarion Zapatillas de Running para Hombre Verde...'
 sku: 'B07NC5FF5R-es'
 tags: [  ]

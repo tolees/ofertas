@@ -5,7 +5,7 @@ date: 2020-06-22 07:26:35
 image: 'https://m.media-amazon.com/images/I/41RaCl-nabL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHXB5WG-es Columbia Five Forks Mid Botas de Senderismo Impermeables...'
 sku: 'B07JHXB5WG-es'
 tags: [  ]

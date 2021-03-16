@@ -5,7 +5,7 @@ date: 2020-10-04 14:40:01
 image: 'https://m.media-amazon.com/images/I/41DrTzqRcmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGLCJ28-es Skechers DARLOW REMEGO Zapatillas para Hombre Tela Vaquera...'
 sku: 'B07XGLCJ28-es'
 tags: [  ]

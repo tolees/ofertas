@@ -5,7 +5,7 @@ date: 2020-04-02 00:27:19
 image: 'https://m.media-amazon.com/images/I/41CEuG1JzCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RQ9P6J-es Helly Hansen W HH Logo Hoodie Mujer Grey Melange S'
 sku: 'B073RQ9P6J-es'
 tags: [  ]

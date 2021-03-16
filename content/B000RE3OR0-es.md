@@ -5,7 +5,7 @@ date: 2020-09-21 11:46:15
 image: 'https://m.media-amazon.com/images/I/31-tENYcF+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RE3OR0-es Brabantia 365164 - Prensapurés Nylon Color Negro'
 sku: 'B000RE3OR0-es'
 tags: [  ]

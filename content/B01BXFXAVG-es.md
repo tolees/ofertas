@@ -5,7 +5,7 @@ date: 2020-06-15 09:08:24
 image: 'https://m.media-amazon.com/images/I/41ckhJJu-sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BXFXAVG-es CLP Silla Racing De Oficina Fire Estilo Deportivo I Silla...'
 sku: 'B01BXFXAVG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 13:15:20
 image: 'https://m.media-amazon.com/images/I/41e2SjvkWxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BP4H4J1-es HengBO Freidora 3L Airfryer Freidora Sin Aceite Freidora...'
 sku: 'B08BP4H4J1-es'
 tags: [  ]

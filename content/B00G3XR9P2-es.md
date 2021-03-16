@@ -5,7 +5,7 @@ date: 2020-02-07 00:11:21
 image: 'https://m.media-amazon.com/images/I/419S+BoEp3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G3XR9P2-es Baby Jogger City Mini GT - Silla de paseo Turquesa / Gris'
 sku: 'B00G3XR9P2-es'
 tags: [  ]

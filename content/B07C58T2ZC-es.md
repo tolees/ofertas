@@ -5,7 +5,7 @@ date: 2020-03-03 11:15:56
 image: 'https://m.media-amazon.com/images/I/418uvMW4gxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C58T2ZC-es IntimaTe WM Heart 2 x Taburetes de Bar Cuadrado y Moderno...'
 sku: 'B07C58T2ZC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 22:40:46
 image: 'https://m.media-amazon.com/images/I/41peZe5Q3YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BU9DLZ0-es Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B01BU9DLZ0-es'
 tags: [  ]

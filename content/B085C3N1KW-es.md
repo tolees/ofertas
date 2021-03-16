@@ -5,7 +5,7 @@ date: 2020-09-15 17:04:05
 image: 'https://m.media-amazon.com/images/I/41kla9j69JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085C3N1KW-es HONOR Smart Watch Magic Watch 2 42 mm Fitness Tracker...'
 sku: 'B085C3N1KW-es'
 tags: [  ]

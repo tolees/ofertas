@@ -5,7 +5,7 @@ date: 2020-08-09 13:27:21
 image: 'https://m.media-amazon.com/images/I/31crMVjMGZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SJ6VHB-es adidas CON20 TR PNT Pantalones de Deporte Hombre Team Navy...'
 sku: 'B081SJ6VHB-es'
 tags: [  ]

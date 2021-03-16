@@ -5,7 +5,7 @@ date: 2020-04-04 17:05:09
 image: 'https://m.media-amazon.com/images/I/4145z1KJmNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072Q2KLVJ-es Wilson Federer Junior 19 21 23 25 26 Raqueta De Tenis + 3...'
 sku: 'B072Q2KLVJ-es'
 tags: [  ]

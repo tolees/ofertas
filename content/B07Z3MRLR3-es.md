@@ -5,7 +5,7 @@ date: 2020-02-21 07:32:23
 image: 'https://m.media-amazon.com/images/I/31eqXtkGjZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3MRLR3-es Revlon uniq one foam treatment 200 ml fine hair'
 sku: 'B07Z3MRLR3-es'
 tags: [  ]

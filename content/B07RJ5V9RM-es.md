@@ -5,7 +5,7 @@ date: 2020-03-15 20:23:37
 image: 'https://m.media-amazon.com/images/I/31B3Ilx2VnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ5V9RM-es G-STAR RAW Graphic 13 Slim Polo Negro Dk Black 6484...'
 sku: 'B07RJ5V9RM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-12 10:10:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412Tsm39I3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1LT56R-es BRA Advanced - Batería de 3 piezas de aluminio fundido con...'
 sku: 'B07V1LT56R-es'
 tags: [  ]

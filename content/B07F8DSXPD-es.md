@@ -5,7 +5,7 @@ date: 2020-05-13 17:43:05
 image: 'https://m.media-amazon.com/images/I/31HlflfR+pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8DSXPD-es Mono/Pelele de manga larga para bebé 3-6 Meses Azul'
 sku: 'B07F8DSXPD-es'
 tags: [  ]

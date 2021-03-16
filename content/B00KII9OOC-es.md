@@ -5,7 +5,7 @@ date: 2020-05-30 17:39:31
 image: 'https://m.media-amazon.com/images/I/41HZvtDBvVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KII9OOC-es Manguitos Hinchables Bestway Spiderman'
 sku: 'B00KII9OOC-es'
 tags: [  ]

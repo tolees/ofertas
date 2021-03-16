@@ -5,7 +5,7 @@ date: 2020-03-29 18:10:09
 image: 'https://m.media-amazon.com/images/I/41dvwrGwIQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08639SMDM-es YANJUN Máscara N95 Respirador Anti PM2.5 Filtro de...'
 sku: 'B08639SMDM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 14:15:10
 image: 'https://m.media-amazon.com/images/I/41vUpv8-zmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZYVJ7K-es 2 Pares Calcetines/Medias de Compresión para Hombres y...'
 sku: 'B07PZYVJ7K-es'
 tags: [  ]

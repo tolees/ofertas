@@ -5,7 +5,7 @@ date: 2020-09-24 17:06:35
 image: 'https://m.media-amazon.com/images/I/412eB3JrSjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K16WJ2D-es adidas DQ1071 - Bolsa deportiva Unisex Adulto Black/White...'
 sku: 'B07K16WJ2D-es'
 tags: [  ]

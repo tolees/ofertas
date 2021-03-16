@@ -5,7 +5,7 @@ date: 2020-05-15 09:02:37
 image: 'https://m.media-amazon.com/images/I/31sa-4dig8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F0INC6Q-es Philips myBathroom Silk - Lámpara de pared LED color gris'
 sku: 'B00F0INC6Q-es'
 tags: [  ]

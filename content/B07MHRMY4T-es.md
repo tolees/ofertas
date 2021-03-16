@@ -5,7 +5,7 @@ date: 2020-08-01 11:34:40
 image: 'https://m.media-amazon.com/images/I/4125FlbZTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHRMY4T-es ZOEON Juegos de Recipientes para Alimentos Apta para...'
 sku: 'B07MHRMY4T-es'
 tags: [  ]

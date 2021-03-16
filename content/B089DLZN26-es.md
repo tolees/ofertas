@@ -5,7 +5,7 @@ date: 2020-09-01 19:10:23
 image: 'https://m.media-amazon.com/images/I/41LEf-M5ayL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089DLZN26-es MUVIP Sandwichera INOX Grill Potencia 750W Placas...'
 sku: 'B089DLZN26-es'
 tags: [  ]

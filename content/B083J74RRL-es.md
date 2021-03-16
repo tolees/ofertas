@@ -5,7 +5,7 @@ date: 2020-02-23 19:32:31
 image: 'https://m.media-amazon.com/images/I/31UuOKrhYyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083J74RRL-es Auriculares inalámbricos Bluetooth 5.0 Auriculares...'
 sku: 'B083J74RRL-es'
 tags: [  ]

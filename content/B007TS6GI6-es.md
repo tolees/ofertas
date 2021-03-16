@@ -5,7 +5,7 @@ date: 2020-07-23 14:44:54
 image: 'https://m.media-amazon.com/images/I/419jZtAevfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007TS6GI6-es Arcos Universal - Set de 2 Cuchillos Negro'
 sku: 'B007TS6GI6-es'
 tags: [  ]

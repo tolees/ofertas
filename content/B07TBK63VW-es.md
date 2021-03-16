@@ -5,7 +5,7 @@ date: 2020-01-08 12:55:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lxZz6zQ7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBK63VW-es Toyvian Largo Clip Recto Trenza Horquillas para El Cabello...'
 sku: 'B07TBK63VW-es'
 tags: [  ]

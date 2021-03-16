@@ -5,7 +5,7 @@ date: 2020-08-01 19:53:26
 image: 'https://m.media-amazon.com/images/I/41NfExGDm4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SKVHCTJ-es TINYAT Riñonera Mujer Cinturón Riñonera Sling - Bolsillo...'
 sku: 'B07SKVHCTJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 20:21:29
 image: 'https://m.media-amazon.com/images/I/41FioQJQ6UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0848R7FDZ-es Hurley M Printed Square Trucker Gorra Hombre Obsidian 1SIZE'
 sku: 'B0848R7FDZ-es'
 tags: [  ]

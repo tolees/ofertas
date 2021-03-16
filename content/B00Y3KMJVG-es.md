@@ -5,7 +5,7 @@ date: 2020-01-27 17:54:38
 image: 'https://m.media-amazon.com/images/I/216OShiwcyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y3KMJVG-es Beter Minnie Eyeliner Azul Océano'
 sku: 'B00Y3KMJVG-es'
 tags: [  ]

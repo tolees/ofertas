@@ -5,7 +5,7 @@ date: 2020-09-13 06:43:36
 image: 'https://m.media-amazon.com/images/I/41MvjNwmaPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I54R1GS-es DIGITNOW! 22MP Escáner de negativos y diapositivas...'
 sku: 'B01I54R1GS-es'
 tags: [  ]

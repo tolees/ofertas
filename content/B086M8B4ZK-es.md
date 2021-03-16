@@ -5,7 +5,7 @@ date: 2020-05-20 08:36:32
 image: 'https://m.media-amazon.com/images/I/51bGS5rqElL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086M8B4ZK-es Oihxse Funda para iPhone XS MAX/iPhone 10 Plus...'
 sku: 'B086M8B4ZK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-02 05:55:15
 image: 'https://m.media-amazon.com/images/I/51QrruLFrhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0754L4KHV-es Easton Marlowe 6 PR Calcetines de Vestir Homber - 6pk #39...'
 sku: 'B0754L4KHV-es'
 tags: [  ]

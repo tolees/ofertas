@@ -5,7 +5,7 @@ date: 2020-07-01 08:18:21
 image: 'https://m.media-amazon.com/images/I/41r6hNcUGRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008ZEKQWA-es ABUS 55971 Antirrobo Disco Moto Rojo Medium'
 sku: 'B008ZEKQWA-es'
 tags: [  ]

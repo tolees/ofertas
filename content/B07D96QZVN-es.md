@@ -5,7 +5,7 @@ date: 2020-01-10 23:49:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61ElQenF%2BCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D96QZVN-es Animal Crossing New Leaf Welcome Amiibo SELECTS'
 sku: 'B07D96QZVN-es'
 tags: [  ]

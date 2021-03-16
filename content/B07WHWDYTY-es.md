@@ -5,7 +5,7 @@ date: 2020-03-24 17:37:23
 image: 'https://m.media-amazon.com/images/I/51FIA89fUIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHWDYTY-es MYMISS San Valentín Regalos pendientes mujer plata...'
 sku: 'B07WHWDYTY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 14:50:08
 image: 'https://m.media-amazon.com/images/I/41vSzAibSzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQZDX91-es Luz Lectura Libros Cama Tomshine Lampara Lectura Pinza con...'
 sku: 'B07VQZDX91-es'
 tags: [  ]

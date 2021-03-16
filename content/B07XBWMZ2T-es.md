@@ -5,7 +5,7 @@ date: 2020-05-27 14:40:32
 image: 'https://m.media-amazon.com/images/I/31cELP8eX7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBWMZ2T-es Manija de puerta Star Design Crash Pad Perilla de puerta...'
 sku: 'B07XBWMZ2T-es'
 tags: [  ]

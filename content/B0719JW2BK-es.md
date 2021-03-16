@@ -5,7 +5,7 @@ date: 2020-06-25 06:16:49
 image: 'https://m.media-amazon.com/images/I/51cDNcurz6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719JW2BK-es Under Armour Men s Heathered Blitzing 3.0 Gorra Hombre...'
 sku: 'B0719JW2BK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-10 16:01:33
 image: 'https://m.media-amazon.com/images/I/51ntWzLpVYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPB7BKZ-es Neadas Caja Cajas Cesta Cesto Plastico Plegable de...'
 sku: 'B07FPB7BKZ-es'
 tags: [  ]

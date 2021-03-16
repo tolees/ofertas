@@ -5,7 +5,7 @@ date: 2020-04-11 09:00:04
 image: 'https://m.media-amazon.com/images/I/41LkCNnhAOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TYN37X-es MarinoBIRD H6 Patrón Agrietado Auriculares Luminosos para...'
 sku: 'B083TYN37X-es'
 tags: [  ]

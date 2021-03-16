@@ -5,7 +5,7 @@ date: 2020-04-27 19:33:44
 image: 'https://m.media-amazon.com/images/I/31p8oCL1UIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EB7Q9YS-es Suunto SS022154000 Monitores de Actividad Unisex Adulto...'
 sku: 'B01EB7Q9YS-es'
 tags: [  ]

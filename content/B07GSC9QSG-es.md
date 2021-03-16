@@ -5,7 +5,7 @@ date: 2020-09-18 23:43:05
 image: 'https://m.media-amazon.com/images/I/412gY33Q4yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSC9QSG-es classic Family Game Mini Consola HDMI - con 621 Videojuego...'
 sku: 'B07GSC9QSG-es'
 tags: [  ]

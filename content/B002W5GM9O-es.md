@@ -5,7 +5,7 @@ date: 2020-01-28 07:55:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31nEQXKlKyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002W5GM9O-es Verbatim Store N Go Pinstripe - Memoria USB de 32 GB 60...'
 sku: 'B002W5GM9O-es'
 tags: [  ]

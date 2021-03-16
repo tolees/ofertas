@@ -5,7 +5,7 @@ date: 2020-03-19 07:59:40
 image: 'https://m.media-amazon.com/images/I/41g89TpsKfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001F0R1FG-es HP CE505A 05A Cartucho de Tóner Original 1 unidad negro'
 sku: 'B001F0R1FG-es'
 tags: [  ]

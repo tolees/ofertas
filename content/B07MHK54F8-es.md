@@ -5,7 +5,7 @@ date: 2020-02-11 16:37:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513lynm1uvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHK54F8-es Qshare - Platos de silicona para bebé una pieza para bebés...'
 sku: 'B07MHK54F8-es'
 tags: [  ]

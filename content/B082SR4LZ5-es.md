@@ -5,7 +5,7 @@ date: 2020-05-20 14:45:35
 image: 'https://m.media-amazon.com/images/I/418yhGuidCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SR4LZ5-es NHUAIYINSHUGUOGUANGGAOJINGY Tarjeta elevadora de Adaptador...'
 sku: 'B082SR4LZ5-es'
 tags: [  ]

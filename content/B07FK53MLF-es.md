@@ -5,7 +5,7 @@ date: 2020-08-07 08:09:24
 image: 'https://m.media-amazon.com/images/I/31rInZuv4tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FK53MLF-es Revlon Accesorio de coloración - 60 ml.'
 sku: 'B07FK53MLF-es'
 tags: [  ]

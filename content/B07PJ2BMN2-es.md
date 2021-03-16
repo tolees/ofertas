@@ -5,7 +5,7 @@ date: 2020-05-25 20:40:17
 image: 'https://m.media-amazon.com/images/I/517JErqBetL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJ2BMN2-es Bolsa de pañales de tela la bolsa de pañales de doble...'
 sku: 'B07PJ2BMN2-es'
 tags: [  ]

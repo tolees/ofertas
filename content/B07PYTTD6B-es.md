@@ -5,7 +5,7 @@ date: 2020-03-21 09:03:04
 image: 'https://m.media-amazon.com/images/I/51VYsbqMMyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYTTD6B-es Toy Partner- Roblox Juguete Figura ROG0101'
 sku: 'B07PYTTD6B-es'
 tags: [  ]

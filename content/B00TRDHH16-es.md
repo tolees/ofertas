@@ -5,7 +5,7 @@ date: 2020-04-14 00:08:47
 image: 'https://m.media-amazon.com/images/I/41HqAYeR5CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TRDHH16-es Funko - Estatuilla de Disney Cars - Doc Hudson Pop 10cm -...'
 sku: 'B00TRDHH16-es'
 tags: [  ]

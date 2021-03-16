@@ -5,7 +5,7 @@ date: 2020-09-04 06:02:19
 image: 'https://m.media-amazon.com/images/I/51fwdXxziZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJKBZ52-es Trilogía Edgar Wright BD [Blu-ray]'
 sku: 'B07TJKBZ52-es'
 tags: [  ]

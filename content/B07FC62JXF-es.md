@@ -5,7 +5,7 @@ date: 2020-04-10 13:02:16
 image: 'https://m.media-amazon.com/images/I/31FPcxcB7ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FC62JXF-es 1 Unidad de Medidor de Presión de Aire para Pelotas de...'
 sku: 'B07FC62JXF-es'
 tags: [  ]

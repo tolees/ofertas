@@ -5,7 +5,7 @@ date: 2020-01-29 12:56:41
 image: 'https://m.media-amazon.com/images/I/41zHw2O2igL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S19ZX8W-es PUMA Cali Mujer Blanco 369155 12'
 sku: 'B07S19ZX8W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 12:04:04
 image: 'https://m.media-amazon.com/images/I/31M4U7YT9TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F5QF87L-es Baoblaze Thickkened Gel Shoe Volver Insertos Del Talón...'
 sku: 'B07F5QF87L-es'
 tags: [  ]

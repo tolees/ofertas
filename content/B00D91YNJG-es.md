@@ -5,7 +5,7 @@ date: 2020-06-06 21:12:18
 image: 'https://m.media-amazon.com/images/I/41ufAOIaeGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D91YNJG-es Borcam 1690037 Juego de 2 bandejas de Horno Care Cristal...'
 sku: 'B00D91YNJG-es'
 tags: [  ]

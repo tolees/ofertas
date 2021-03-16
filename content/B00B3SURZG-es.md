@@ -5,7 +5,7 @@ date: 2020-03-07 14:02:59
 image: 'https://m.media-amazon.com/images/I/31EsWZSDvFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B3SURZG-es BRA Terra - Sartén 18 cm aluminio fundido con...'
 sku: 'B00B3SURZG-es'
 tags: [  ]

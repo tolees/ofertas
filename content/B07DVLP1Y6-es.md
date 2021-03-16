@@ -5,7 +5,7 @@ date: 2020-01-05 15:41:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T812voRxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVLP1Y6-es New Balance Summit Unknown Zapatillas de Running para...'
 sku: 'B07DVLP1Y6-es'
 tags: [  ]

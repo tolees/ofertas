@@ -5,7 +5,7 @@ date: 2020-05-26 10:06:24
 image: 'https://m.media-amazon.com/images/I/41pUN8NTZEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKK1HYQ-es Calvin Klein Trunk 2pk Bañador Negro Black with/White WB...'
 sku: 'B07VKK1HYQ-es'
 tags: [  ]

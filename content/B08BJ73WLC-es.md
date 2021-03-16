@@ -5,7 +5,7 @@ date: 2020-08-05 05:23:38
 image: 'https://m.media-amazon.com/images/I/41XwTUGN2wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJ73WLC-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
 sku: 'B08BJ73WLC-es'
 tags: [  ]

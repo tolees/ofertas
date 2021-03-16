@@ -5,7 +5,7 @@ date: 2020-04-25 17:05:52
 image: 'https://m.media-amazon.com/images/I/31AdVrZ3M3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXSRK6L-es YWCKING Macbook Pro 85W Cargador MagSafe 2 Cargador...'
 sku: 'B07CXSRK6L-es'
 tags: [  ]

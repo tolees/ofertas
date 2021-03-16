@@ -5,7 +5,7 @@ date: 2020-05-07 16:25:08
 image: 'https://m.media-amazon.com/images/I/41QbPClZVeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQRTQXG-es Levi s LEVIS FOOTWEAR AND ACCESSORIES Calypso Cinturón...'
 sku: 'B07SQRTQXG-es'
 tags: [  ]

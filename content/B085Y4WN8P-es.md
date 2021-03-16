@@ -5,7 +5,7 @@ date: 2020-05-08 15:44:20
 image: 'https://m.media-amazon.com/images/I/41lAO4xmBDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085Y4WN8P-es AYUN - Funda Protectora Impermeable para Asiento de Coche...'
 sku: 'B085Y4WN8P-es'
 tags: [  ]

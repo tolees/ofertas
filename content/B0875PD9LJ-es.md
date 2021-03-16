@@ -5,7 +5,7 @@ date: 2020-08-19 15:12:09
 image: 'https://m.media-amazon.com/images/I/41bJyoXhhJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0875PD9LJ-es AIKELA V5.0 - Auriculares Bluetooth inalámbricos con...'
 sku: 'B0875PD9LJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 04:38:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RQXe2ly%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW8QTH6-es Salewa MS Wildfire GTX Zapatillas de Senderismo para...'
 sku: 'B07DW8QTH6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-29 16:41:08
 image: 'https://m.media-amazon.com/images/I/61fzhu3Uq0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007Y4NWSW-es Case Logic TBC-404 - Funda para cámara compacta Negro'
 sku: 'B007Y4NWSW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-06 12:44:24
 image: 'https://m.media-amazon.com/images/I/61Fa2YrGTTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCQU738-es TurnRaise Niños Pretend Play Alimentos Juguete Set - 75 PC...'
 sku: 'B01NCQU738-es'
 tags: [  ]

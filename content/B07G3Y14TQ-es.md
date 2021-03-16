@@ -5,7 +5,7 @@ date: 2020-01-01 04:14:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51UDai4eZeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3Y14TQ-es Acer Aspire 3 A315-53-561Y - Ordenador portátil de 15.6"...'
 sku: 'B07G3Y14TQ-es'
 tags: [  ]

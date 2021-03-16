@@ -5,7 +5,7 @@ date: 2020-06-27 05:30:27
 image: 'https://m.media-amazon.com/images/I/41oaG5x6ETL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M13RILN-es Reloj - MONETTI - Para - 316Lbraun'
 sku: 'B01M13RILN-es'
 tags: [  ]

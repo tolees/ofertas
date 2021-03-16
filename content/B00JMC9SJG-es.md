@@ -5,7 +5,7 @@ date: 2020-02-24 13:49:53
 image: 'https://m.media-amazon.com/images/I/61H8Fo0OpEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JMC9SJG-es Plant Theatre Adirondack - Silla Plegable Madera Noble'
 sku: 'B00JMC9SJG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-19 18:47:11
 image: 'https://m.media-amazon.com/images/I/51YGmLaJPaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWMBHXD-es KuGi para Huawei Mate 20 Pro dureza HD transparente sin...'
 sku: 'B07GWMBHXD-es'
 tags: [  ]

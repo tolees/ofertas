@@ -5,7 +5,7 @@ date: 2020-02-26 06:21:34
 image: 'https://m.media-amazon.com/images/I/41e+XFAb-5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXK4KVK-es Elerose HD 1080P Mini cámara 12MP 140 Degree Gran Angular...'
 sku: 'B07GXK4KVK-es'
 tags: [  ]

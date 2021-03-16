@@ -5,7 +5,7 @@ date: 2020-06-25 07:07:38
 image: 'https://m.media-amazon.com/images/I/41osvv5+c1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRTS7W7-es New Balance Fresh Foam Cruz Hoody Pack m Zapatillas de...'
 sku: 'B06XRTS7W7-es'
 tags: [  ]

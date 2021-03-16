@@ -5,7 +5,7 @@ date: 2020-03-31 11:56:35
 image: 'https://m.media-amazon.com/images/I/41YyLxsXL5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8HYXB1-es Nike Air Zoom Pegasus 36 Zapatillas de Running para Hombre...'
 sku: 'B07H8HYXB1-es'
 tags: [  ]

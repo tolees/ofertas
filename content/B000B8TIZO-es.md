@@ -5,7 +5,7 @@ date: 2020-03-18 12:38:06
 image: 'https://m.media-amazon.com/images/I/41nxVpr2StL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000B8TIZO-es Canon PG-40 Cartucho de tinta original Negro para...'
 sku: 'B000B8TIZO-es'
 tags: [  ]

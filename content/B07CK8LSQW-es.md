@@ -5,7 +5,7 @@ date: 2020-03-09 22:01:24
 image: 'https://m.media-amazon.com/images/I/414g6bvNR6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CK8LSQW-es Rubies - Disfraz oficial de DC Aquaman The Movie disfraz...'
 sku: 'B07CK8LSQW-es'
 tags: [  ]

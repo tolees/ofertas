@@ -5,7 +5,7 @@ date: 2020-07-15 06:29:07
 image: 'https://m.media-amazon.com/images/I/31ln10f4bcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRMSYM4-es Levi s Plus Size Pl 501 Original Short Pantalones Cortos...'
 sku: 'B07TRMSYM4-es'
 tags: [  ]

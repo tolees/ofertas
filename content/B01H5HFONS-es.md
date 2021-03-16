@@ -5,7 +5,7 @@ date: 2020-03-11 00:52:40
 image: 'https://m.media-amazon.com/images/I/41Q4mN5wpEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H5HFONS-es WOXTER i-Headphone PC 780 Auriculares Diadema con...'
 sku: 'B01H5HFONS-es'
 tags: [  ]

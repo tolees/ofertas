@@ -5,7 +5,7 @@ date: 2020-06-27 01:01:45
 image: 'https://m.media-amazon.com/images/I/41r8FU4vTTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K8QR8VK-es Panama Jack Panama 03 Aviator Botas Militar para Hombre...'
 sku: 'B00K8QR8VK-es'
 tags: [  ]

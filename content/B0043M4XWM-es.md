@@ -5,7 +5,7 @@ date: 2020-10-01 19:15:10
 image: 'https://m.media-amazon.com/images/I/41Cx3Xf30PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0043M4XWM-es Oral-B 3DWhite Cabezales De Recambio - Pack De 3 Unidades'
 sku: 'B0043M4XWM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 16:26:26
 image: 'https://m.media-amazon.com/images/I/41d+ohkuRXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGLTRB2-es L Oréal Men Expert Cofre Vitalift Crema antiedad para...'
 sku: 'B07JGLTRB2-es'
 tags: [  ]

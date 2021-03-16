@@ -5,7 +5,7 @@ date: 2020-02-03 10:22:10
 image: 'https://m.media-amazon.com/images/I/31-SUcIicJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N15XHB3-es Lee Scarlett Corduroy Pantalones Rosa Cameo Pink 94 30W /...'
 sku: 'B07N15XHB3-es'
 tags: [  ]

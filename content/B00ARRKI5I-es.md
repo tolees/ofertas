@@ -5,7 +5,7 @@ date: 2020-05-15 14:26:56
 image: 'https://m.media-amazon.com/images/I/31+yBlFltFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ARRKI5I-es Rexel Pizarra magnética individual 360x360m Diseño...'
 sku: 'B00ARRKI5I-es'
 tags: [  ]

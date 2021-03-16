@@ -5,7 +5,7 @@ date: 2020-06-17 18:47:05
 image: 'https://m.media-amazon.com/images/I/41YbRMYSBcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018XNGO5A-es Aftershokz Trekz Titanium Auriculares deportivas con...'
 sku: 'B018XNGO5A-es'
 tags: [  ]

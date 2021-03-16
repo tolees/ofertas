@@ -5,7 +5,7 @@ date: 2020-03-04 14:56:01
 image: 'https://m.media-amazon.com/images/I/41fVq02XIPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWDTBJ6-es TerraMaster F2-210 NAS 2 bahías Quad Core Multimedia de...'
 sku: 'B07PWDTBJ6-es'
 tags: [  ]

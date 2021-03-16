@@ -5,7 +5,7 @@ date: 2020-01-06 12:05:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51uU52PgAbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MD5KTP-es Fantasy Flight Games- Caja de Inicio para Dos Jugadores...'
 sku: 'B075MD5KTP-es'
 tags: [  ]

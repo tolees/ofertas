@@ -5,7 +5,7 @@ date: 2020-08-19 17:53:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z2FLNS1PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F6V4MF5-es Salomon Trailblazer Mochila para Carrera de montaña Cómoda...'
 sku: 'B07F6V4MF5-es'
 tags: [  ]

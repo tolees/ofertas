@@ -5,7 +5,7 @@ date: 2020-08-21 14:32:36
 image: 'https://m.media-amazon.com/images/I/311XmXPjf3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7XQM9V-es Tommy Hilfiger Essential Nautical Sneaker Zapatillas para...'
 sku: 'B07V7XQM9V-es'
 tags: [  ]

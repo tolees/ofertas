@@ -5,7 +5,7 @@ date: 2020-02-26 12:45:27
 image: 'https://m.media-amazon.com/images/I/31SZ2mETh6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZR1B2-es PUMA King Pro SG Botas de fútbol para Hombre Black White...'
 sku: 'B07KFZR1B2-es'
 tags: [  ]

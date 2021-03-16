@@ -5,7 +5,7 @@ date: 2020-07-21 10:33:20
 image: 'https://m.media-amazon.com/images/I/41Pw8A6rhPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XX4KYCT-es New Balance 574 Zapatillas Hombre Verde Olive EGO 42 EU 8 UK'
 sku: 'B06XX4KYCT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 13:15:45
 image: 'https://m.media-amazon.com/images/I/41cUPabU4LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CP8BF26-es Chupa Chups Original Caramelo con Palo de Sabores a Fresa...'
 sku: 'B01CP8BF26-es'
 tags: [  ]

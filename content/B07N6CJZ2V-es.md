@@ -5,7 +5,7 @@ date: 2020-06-11 15:54:36
 image: 'https://m.media-amazon.com/images/I/41DdA6VuDRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6CJZ2V-es Vicloon G4 LED Bombillas 2W Capsule LED Equivalente a 20W...'
 sku: 'B07N6CJZ2V-es'
 tags: [  ]

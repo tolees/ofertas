@@ -5,7 +5,7 @@ date: 2020-03-12 10:14:28
 image: 'https://m.media-amazon.com/images/I/519SDb3GxbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJQ9K3F-es DAM TEKKIWEAR. DMX043BLACK. Smartwatch M26S Plus con...'
 sku: 'B07DJQ9K3F-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-11 18:49:21
 image: 'https://m.media-amazon.com/images/I/51emZXTdoFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CM6N54H-es Dermacol DC Base Makeup Cover Total | Maquillaje Corrector...'
 sku: 'B07CM6N54H-es'
 tags: [  ]

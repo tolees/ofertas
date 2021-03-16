@@ -5,7 +5,7 @@ date: 2020-03-07 12:26:16
 image: 'https://m.media-amazon.com/images/I/41CPCI1-RJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IUP7NFQ-es Ultima Pienso para Gatos Adulto con Pollo'
 sku: 'B01IUP7NFQ-es'
 tags: [  ]

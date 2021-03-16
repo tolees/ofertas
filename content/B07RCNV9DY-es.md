@@ -5,7 +5,7 @@ date: 2020-02-29 16:40:23
 image: 'https://m.media-amazon.com/images/I/41eqQKjIdFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCNV9DY-es Columbia Powder Lite Forro Polar Mujer Color: Azul...'
 sku: 'B07RCNV9DY-es'
 tags: [  ]

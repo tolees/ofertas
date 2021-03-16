@@ -5,7 +5,7 @@ date: 2020-10-11 14:19:04
 image: 'https://m.media-amazon.com/images/I/31mRzm-wu+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDRK2W8-es L Oréal Paris Botanicals Champú para Cabellos Frágiles...'
 sku: 'B06XDRK2W8-es'
 tags: [  ]

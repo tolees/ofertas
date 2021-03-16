@@ -5,7 +5,7 @@ date: 2020-01-12 21:56:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ui9V2DmzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THYCD49-es 1L Botella de Agua con Filtro Infusor de Fruta Swonuk...'
 sku: 'B07THYCD49-es'
 tags: [  ]

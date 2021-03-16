@@ -5,7 +5,7 @@ date: 2020-02-14 19:07:52
 image: 'https://m.media-amazon.com/images/I/31N7ZNAdf0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AKBQM9W-es NanoCable 10.15.0903 - Cable HDMI a Mini HDMI alta...'
 sku: 'B00AKBQM9W-es'
 tags: [  ]

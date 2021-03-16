@@ -5,7 +5,7 @@ date: 2020-08-12 13:29:15
 image: 'https://m.media-amazon.com/images/I/41q49i2R2UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3X53GC-es New Balance 997H m Zapatillas para Mujer Azul Blue Had 37 EU'
 sku: 'B07S3X53GC-es'
 tags: [  ]

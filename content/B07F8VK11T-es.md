@@ -5,7 +5,7 @@ date: 2020-04-13 16:38:23
 image: 'https://m.media-amazon.com/images/I/41rTtNQ2gSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8VK11T-es TACKLIFE Encendedor ELY04 Encendedor Cocina USB Mechero...'
 sku: 'B07F8VK11T-es'
 tags: [  ]

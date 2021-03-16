@@ -5,7 +5,7 @@ date: 2020-08-30 18:15:10
 image: 'https://m.media-amazon.com/images/I/31l4mD-rEOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HV8HDRL-es Gytech Salvamanteles Plegables Ajustables Almohadillas...'
 sku: 'B07HV8HDRL-es'
 tags: [  ]

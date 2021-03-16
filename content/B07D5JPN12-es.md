@@ -5,7 +5,7 @@ date: 2020-08-06 14:04:47
 image: 'https://m.media-amazon.com/images/I/31T+zY9tqzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5JPN12-es Revlon Professional Style Masters Fanaticurls Activador de...'
 sku: 'B07D5JPN12-es'
 tags: [  ]

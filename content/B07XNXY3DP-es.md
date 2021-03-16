@@ -5,7 +5,7 @@ date: 2020-07-10 11:42:30
 image: 'https://m.media-amazon.com/images/I/41sCUyJNyTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XNXY3DP-es ngzhongtuhengtongjianzhugongchen- Clip de cinturón de...'
 sku: 'B07XNXY3DP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-07 00:45:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51jegS-e1PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY66JPV-es Bascula Cocina Bascula de Cocina Homever de 15 kg Panel...'
 sku: 'B07PY66JPV-es'
 tags: [  ]

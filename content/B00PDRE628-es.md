@@ -5,7 +5,7 @@ date: 2020-04-04 05:19:30
 image: 'https://m.media-amazon.com/images/I/41JLogOrm0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PDRE628-es PAPEL SEDA LIDERPAPEL VERDE OSCURO 52X76CM 18 GR/M2...'
 sku: 'B00PDRE628-es'
 tags: [  ]

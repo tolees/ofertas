@@ -5,7 +5,7 @@ date: 2020-04-08 06:05:46
 image: 'https://m.media-amazon.com/images/I/41YqD85tb2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3YKGMS-es 50x Palos de Madera Cuadrados de Madera para Hacer Bastón...'
 sku: 'B07X3YKGMS-es'
 tags: [  ]

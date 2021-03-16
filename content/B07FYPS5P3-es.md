@@ -5,7 +5,7 @@ date: 2020-04-10 21:18:01
 image: 'https://m.media-amazon.com/images/I/4104ulUz-2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYPS5P3-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07FYPS5P3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 09:07:49
 image: 'https://m.media-amazon.com/images/I/41Lzp979BZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DXR362Y-es Quinua Real Barrita de cereal Coco - 20 de 20 gr. Total...'
 sku: 'B07DXR362Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 18:19:25
 image: 'https://m.media-amazon.com/images/I/41-2wFWM7jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BFSZRSP-es Ellaao 50 Piezas 3 Capas Azul Protege La Boca Y La Boca...'
 sku: 'B08BFSZRSP-es'
 tags: [  ]

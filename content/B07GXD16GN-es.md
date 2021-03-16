@@ -5,7 +5,7 @@ date: 2020-10-10 13:15:29
 image: 'https://m.media-amazon.com/images/I/41M8L38MtSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXD16GN-es DH-QN05 Calefactor Portátil Eléctrico PTC Calefacción de...'
 sku: 'B07GXD16GN-es'
 tags: [  ]

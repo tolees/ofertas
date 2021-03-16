@@ -5,7 +5,7 @@ date: 2020-02-11 18:03:59
 image: 'https://m.media-amazon.com/images/I/51Q-RG1rtmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9LF9WN-es Yayuu Gear S3 Frontier/Classic Correa de Reloj Reemplazo...'
 sku: 'B07L9LF9WN-es'
 tags: [  ]

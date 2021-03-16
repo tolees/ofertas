@@ -5,7 +5,7 @@ date: 2020-04-14 09:05:55
 image: 'https://m.media-amazon.com/images/I/41gJEBZKS+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKL65JN-es TK.DILIGARM Look At You Becoming A Medical Coder and Shit...'
 sku: 'B07MKL65JN-es'
 tags: [  ]

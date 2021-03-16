@@ -5,7 +5,7 @@ date: 2020-03-09 22:41:17
 image: 'https://m.media-amazon.com/images/I/41kF+vRKqEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071J4W8QT-es Dc Shoes Magnolia Se Zapatillas para Mujer Negro...'
 sku: 'B071J4W8QT-es'
 tags: [  ]

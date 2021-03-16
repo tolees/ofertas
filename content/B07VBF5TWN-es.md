@@ -5,7 +5,7 @@ date: 2020-05-13 22:25:51
 image: 'https://m.media-amazon.com/images/I/41Jm52J-gXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBF5TWN-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07VBF5TWN-es'
 tags: [  ]

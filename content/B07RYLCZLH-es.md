@@ -5,7 +5,7 @@ date: 2020-08-27 01:30:23
 image: 'https://m.media-amazon.com/images/I/41vbhtYYwCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYLCZLH-es Termómetro Digital para la Fiebre Termómetro Médico Oral...'
 sku: 'B07RYLCZLH-es'
 tags: [  ]

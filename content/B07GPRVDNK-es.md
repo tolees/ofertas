@@ -5,7 +5,7 @@ date: 2020-08-21 23:54:14
 image: 'https://m.media-amazon.com/images/I/31rIRaaZwuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPRVDNK-es Skechers Men s STATUS 2.0- LORANO Moccasins Beige Taupe...'
 sku: 'B07GPRVDNK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 04:39:27
 image: 'https://m.media-amazon.com/images/I/5101S5WqVSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CUQPIXA-es Edge Entertainment- Stormtroopers Sw Imperial Assault:...'
 sku: 'B01CUQPIXA-es'
 tags: [  ]

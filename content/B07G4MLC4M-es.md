@@ -5,7 +5,7 @@ date: 2020-02-01 12:53:18
 image: 'https://m.media-amazon.com/images/I/316bakw2oJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4MLC4M-es Pop! Avengers Infinity War - Figura de Vinilo Groot with...'
 sku: 'B07G4MLC4M-es'
 tags: [  ]

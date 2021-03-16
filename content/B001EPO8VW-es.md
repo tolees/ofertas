@@ -5,7 +5,7 @@ date: 2020-02-24 21:36:27
 image: 'https://m.media-amazon.com/images/I/31qeFSAh1AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001EPO8VW-es Cattier Leche desmaquilladora Caresse d Herboriste - 200 ml'
 sku: 'B001EPO8VW-es'
 tags: [  ]

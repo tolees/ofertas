@@ -5,7 +5,7 @@ date: 2020-10-10 12:09:36
 image: 'https://m.media-amazon.com/images/I/41aOdIsB1fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071Z1LVMV-es Razer Hammerhead iOS Lightning In-Ear Headphones'
 sku: 'B071Z1LVMV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 13:25:41
 image: 'https://m.media-amazon.com/images/I/413e6rY790L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0849HWK4R-es Hurley M Dri-Fit Pier Hat Gorra Hombre Black L/XL'
 sku: 'B0849HWK4R-es'
 tags: [  ]

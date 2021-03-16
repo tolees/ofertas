@@ -5,7 +5,7 @@ date: 2020-08-06 22:21:46
 image: 'https://m.media-amazon.com/images/I/31UNhvoi8DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004NRO2XC-es NIKE Men s Cortez Basic Leather Shoe Zapatillas para...'
 sku: 'B004NRO2XC-es'
 tags: [  ]

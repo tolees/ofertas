@@ -5,7 +5,7 @@ date: 2020-06-18 14:45:50
 image: 'https://m.media-amazon.com/images/I/31YeqhmXqHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQYSMN2-es Espirógrafo multifuncional Gobernante geométrico Niños...'
 sku: 'B07XQYSMN2-es'
 tags: [  ]

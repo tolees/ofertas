@@ -5,7 +5,7 @@ date: 2020-01-19 09:16:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/314qdeRIGqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFGCFQ3-es Lacoste HH9553 Pantalones Beige Viennois W30 Talla del...'
 sku: 'B07JFGCFQ3-es'
 tags: [  ]

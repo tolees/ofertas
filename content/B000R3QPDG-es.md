@@ -5,7 +5,7 @@ date: 2020-09-27 16:01:43
 image: 'https://m.media-amazon.com/images/I/41BTTLMZK3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000R3QPDG-es Vans Old Skool Zapatillas Unisex Adulto Negro Black/White 39'
 sku: 'B000R3QPDG-es'
 tags: [  ]

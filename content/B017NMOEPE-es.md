@@ -5,7 +5,7 @@ date: 2020-07-19 14:12:12
 image: 'https://m.media-amazon.com/images/I/41IczGJgkvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017NMOEPE-es VS Venta-stock Consola/Mueble recibidor de 3C en Color...'
 sku: 'B017NMOEPE-es'
 tags: [  ]

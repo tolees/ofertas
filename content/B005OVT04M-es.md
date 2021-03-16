@@ -5,7 +5,7 @@ date: 2020-04-06 07:02:10
 image: 'https://m.media-amazon.com/images/I/31Uig+0SK1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005OVT04M-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B005OVT04M-es'
 tags: [  ]

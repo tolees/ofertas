@@ -5,7 +5,7 @@ date: 2020-06-28 13:49:00
 image: 'https://m.media-amazon.com/images/I/51iZoCjkoKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWJB9K8-es Edge Entertainment - Misión: Planeta rojo juego de mesa...'
 sku: 'B01LWJB9K8-es'
 tags: [  ]

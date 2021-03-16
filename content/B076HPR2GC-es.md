@@ -5,7 +5,7 @@ date: 2020-09-30 04:23:37
 image: 'https://m.media-amazon.com/images/I/316BXhDWgeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HPR2GC-es Hula Hoop desmontable para niños 25.6 "ejercicio niños...'
 sku: 'B076HPR2GC-es'
 tags: [  ]

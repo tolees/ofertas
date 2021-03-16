@@ -5,7 +5,7 @@ date: 2020-05-22 18:01:41
 image: 'https://m.media-amazon.com/images/I/41BXg2OPMgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MGSMO5I-es Clips 539-6004-94 - Reloj de Pulsera Hombre Caucho Color...'
 sku: 'B00MGSMO5I-es'
 tags: [  ]

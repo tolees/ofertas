@@ -5,7 +5,7 @@ date: 2020-04-10 19:28:49
 image: 'https://m.media-amazon.com/images/I/31PBeUhwwIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6VCNZ6-es Tommy Hilfiger Mono Color Longboot Botas Altas para Mujer...'
 sku: 'B07N6VCNZ6-es'
 tags: [  ]

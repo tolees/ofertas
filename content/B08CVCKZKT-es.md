@@ -5,7 +5,7 @@ date: 2020-07-31 11:02:49
 image: 'https://m.media-amazon.com/images/I/41OgrATkb+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVCKZKT-es Molyflower Black Remote Take Picture 240 * 240 píxeles...'
 sku: 'B08CVCKZKT-es'
 tags: [  ]

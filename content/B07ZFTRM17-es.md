@@ -5,7 +5,7 @@ date: 2020-07-20 14:02:35
 image: 'https://m.media-amazon.com/images/I/610ryYwRV3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFTRM17-es Funda para iPad de 10 2 Pulgadas 2019 7ª generación...'
 sku: 'B07ZFTRM17-es'
 tags: [  ]

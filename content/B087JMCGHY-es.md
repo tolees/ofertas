@@ -5,7 +5,7 @@ date: 2020-07-15 16:52:41
 image: 'https://m.media-amazon.com/images/I/614hZqz4ytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JMCGHY-es Sanlebi Light Up Tracing Board Dibujos para Niños Pintura...'
 sku: 'B087JMCGHY-es'
 tags: [  ]

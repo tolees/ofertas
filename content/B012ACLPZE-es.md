@@ -5,7 +5,7 @@ date: 2020-04-20 06:49:20
 image: 'https://m.media-amazon.com/images/I/41o2bt0ccuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012ACLPZE-es Swimovate Poolmate 2 - Reloj cuenta vueltas color azul'
 sku: 'B012ACLPZE-es'
 tags: [  ]

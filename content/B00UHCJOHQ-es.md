@@ -5,7 +5,7 @@ date: 2020-06-01 10:11:22
 image: 'https://m.media-amazon.com/images/I/412-YCnhFgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UHCJOHQ-es Anillo De Boda De La Flor Cojín Almohada Chica Cesta...'
 sku: 'B00UHCJOHQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 08:04:57
 image: 'https://m.media-amazon.com/images/I/41rB4HPOLXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N132LLH-es Skechers Go Run Fast Sneaker Donna Navy Textile/Coral Trim...'
 sku: 'B07N132LLH-es'
 tags: [  ]

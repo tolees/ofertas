@@ -5,7 +5,7 @@ date: 2020-04-27 22:56:20
 image: 'https://m.media-amazon.com/images/I/41CuFzgxQcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F89QQXS-es Seiko Reloj Analogico para Hombre de Automático con Correa...'
 sku: 'B07F89QQXS-es'
 tags: [  ]

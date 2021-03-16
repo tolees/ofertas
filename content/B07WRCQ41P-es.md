@@ -5,7 +5,7 @@ date: 2020-07-26 21:18:15
 image: 'https://m.media-amazon.com/images/I/41UYHpnrVFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRCQ41P-es Skechers 13278-MVE Zapatillas para Mujer Morado 38 EU'
 sku: 'B07WRCQ41P-es'
 tags: [  ]

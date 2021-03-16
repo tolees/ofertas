@@ -5,7 +5,7 @@ date: 2020-08-18 10:12:55
 image: 'https://m.media-amazon.com/images/I/51bMkQa92fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088KDQP4K-es LK Protector de Pantalla para Xiaomi Note 10 Lite...'
 sku: 'B088KDQP4K-es'
 tags: [  ]

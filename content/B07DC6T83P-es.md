@@ -5,7 +5,7 @@ date: 2020-01-28 20:48:04
 image: 'https://m.media-amazon.com/images/I/41Bto3+erhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC6T83P-es Puma Basket Heart Patent Wn s Zapatillas para Mujer Morado...'
 sku: 'B07DC6T83P-es'
 tags: [  ]

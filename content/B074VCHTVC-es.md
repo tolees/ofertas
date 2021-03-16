@@ -5,7 +5,7 @@ date: 2020-06-30 07:31:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SHJ-hafGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074VCHTVC-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B074VCHTVC-es'
 tags: [  ]

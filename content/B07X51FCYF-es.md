@@ -5,7 +5,7 @@ date: 2020-06-22 08:05:19
 image: 'https://m.media-amazon.com/images/I/31a-nEcAzqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X51FCYF-es Eastpak Traf ik Light L Maleta 85 cm 101 L Negro Blackout...'
 sku: 'B07X51FCYF-es'
 tags: [  ]

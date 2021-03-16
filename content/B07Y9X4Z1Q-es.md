@@ -5,7 +5,7 @@ date: 2020-02-02 18:09:25
 image: 'https://m.media-amazon.com/images/I/31pYkRsthzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9X4Z1Q-es María Barceló Sneaker Alta Piel Blanco Mujer'
 sku: 'B07Y9X4Z1Q-es'
 tags: [  ]

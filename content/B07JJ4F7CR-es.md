@@ -5,7 +5,7 @@ date: 2020-04-15 08:15:50
 image: 'https://m.media-amazon.com/images/I/513qkB4pCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ4F7CR-es TACKLIFE Cinturón para Herramientas Profesionales Tela...'
 sku: 'B07JJ4F7CR-es'
 tags: [  ]

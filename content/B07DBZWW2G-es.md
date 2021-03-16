@@ -5,7 +5,7 @@ date: 2020-02-14 17:02:14
 image: 'https://m.media-amazon.com/images/I/41HBvCQcOKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBZWW2G-es Puma Hybrid NX Zapatillas de Running para Hombre Azul...'
 sku: 'B07DBZWW2G-es'
 tags: [  ]

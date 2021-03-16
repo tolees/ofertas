@@ -5,7 +5,7 @@ date: 2020-08-06 16:34:30
 image: 'https://m.media-amazon.com/images/I/31DkKTsnu4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004R7JD6E-es Australian Gold Intensifier Aceite - 237 ml'
 sku: 'B004R7JD6E-es'
 tags: [  ]

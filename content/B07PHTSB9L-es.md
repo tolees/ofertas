@@ -5,7 +5,7 @@ date: 2020-02-12 15:29:42
 image: 'https://m.media-amazon.com/images/I/31RWfOJ+sgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHTSB9L-es Max Factor Color para cejas - 1 unidad'
 sku: 'B07PHTSB9L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 03:12:17
 image: 'https://m.media-amazon.com/images/I/41PuDYqjdsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DY37LLG-es PUMA Suede Classic+ Zapatillas para Hombre Rojo...'
 sku: 'B00DY37LLG-es'
 tags: [  ]

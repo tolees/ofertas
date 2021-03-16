@@ -5,7 +5,7 @@ date: 2020-08-09 11:10:03
 image: 'https://m.media-amazon.com/images/I/41RjlFkuXEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPD3WXR-es storeofbaby Chicas Princesa Tutus Fiesta Linda Danza...'
 sku: 'B07GPD3WXR-es'
 tags: [  ]

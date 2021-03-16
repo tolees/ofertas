@@ -5,7 +5,7 @@ date: 2020-02-10 11:22:51
 image: 'https://m.media-amazon.com/images/I/51TS+acNmRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016DFCN6O-es URAQT Cartera Delgada De Cuero Delgado Minimalista...'
 sku: 'B016DFCN6O-es'
 tags: [  ]

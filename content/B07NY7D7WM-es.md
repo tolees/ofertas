@@ -5,7 +5,7 @@ date: 2020-03-08 16:52:24
 image: 'https://m.media-amazon.com/images/I/31eMoATCOPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY7D7WM-es Superdry Classic Lite Micro Sports Polo Rojo Rouge Red Wa7...'
 sku: 'B07NY7D7WM-es'
 tags: [  ]

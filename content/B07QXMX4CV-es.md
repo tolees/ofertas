@@ -5,7 +5,7 @@ date: 2020-05-08 16:16:16
 image: 'https://m.media-amazon.com/images/I/41Hy1QjlxaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXMX4CV-es Shackcom 4pcs Alarma para Puertas y Ventanas de 120 dB...'
 sku: 'B07QXMX4CV-es'
 tags: [  ]

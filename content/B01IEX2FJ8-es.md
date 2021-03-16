@@ -5,7 +5,7 @@ date: 2020-01-16 12:26:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410JRXSNfSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IEX2FJ8-es Calcetines de Compresión 1 par Rosa EU 35-38'
 sku: 'B01IEX2FJ8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 20:31:15
 image: 'https://m.media-amazon.com/images/I/41fxRfhFP2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DNBHGKU-es SELECT Trainigsjacke Ultimate Trainingsjacke - Soft Shell...'
 sku: 'B00DNBHGKU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-12 13:16:35
 image: 'https://m.media-amazon.com/images/I/414wlyFX9jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCCHD5S-es Tommee Tippee Juguete transpirable Eddy el Elefante'
 sku: 'B07GCCHD5S-es'
 tags: [  ]

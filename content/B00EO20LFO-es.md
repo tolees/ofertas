@@ -5,7 +5,7 @@ date: 2020-04-07 18:08:39
 image: 'https://m.media-amazon.com/images/I/41ijgTsoehL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EO20LFO-es JVC HA-F160-B-E Gumy - Auriculares de botón color negro'
 sku: 'B00EO20LFO-es'
 tags: [  ]

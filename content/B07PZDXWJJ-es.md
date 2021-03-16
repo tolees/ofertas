@@ -5,7 +5,7 @@ date: 2020-09-06 10:40:57
 image: 'https://m.media-amazon.com/images/I/41l1Kjg5dYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZDXWJJ-es Pop! Figura De Vinil: TV: Dark Crystal - Aughra'
 sku: 'B07PZDXWJJ-es'
 tags: [  ]

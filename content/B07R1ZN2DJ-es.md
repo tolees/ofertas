@@ -5,7 +5,7 @@ date: 2020-06-26 09:54:16
 image: 'https://m.media-amazon.com/images/I/31mtSsTfSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R1ZN2DJ-es Under Armour Challenger III Training Pant Pantalones de...'
 sku: 'B07R1ZN2DJ-es'
 tags: [  ]

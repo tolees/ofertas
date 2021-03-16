@@ -5,7 +5,7 @@ date: 2020-07-25 23:42:05
 image: 'https://m.media-amazon.com/images/I/41P7nv+rvpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZY7JN7-es Skechers Men s Metco-Parken Trainers Gris Gray Black Mesh...'
 sku: 'B07NZY7JN7-es'
 tags: [  ]

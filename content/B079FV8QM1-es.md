@@ -5,7 +5,7 @@ date: 2020-01-09 23:20:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417D6U2hodL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FV8QM1-es bugatti 321622513200 Botas Clasicas para Hombre Negro...'
 sku: 'B079FV8QM1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 17:18:01
 image: 'https://m.media-amazon.com/images/I/21xflWTPbNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HH5T7BB-es AmazonBasics – Auriculares de botón con micrófono Rosa'
 sku: 'B07HH5T7BB-es'
 tags: [  ]

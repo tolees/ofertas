@@ -5,7 +5,7 @@ date: 2020-08-09 11:20:32
 image: 'https://m.media-amazon.com/images/I/41ex2TV+KzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJ66G5S-es Skechers GO Run 400 V2 Zapatillas para Hombre Negro Textil...'
 sku: 'B07XJ66G5S-es'
 tags: [  ]

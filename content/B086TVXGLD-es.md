@@ -5,7 +5,7 @@ date: 2020-07-18 14:18:59
 image: 'https://m.media-amazon.com/images/I/41vXtQ1Hq3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086TVXGLD-es AIORNIY - 1/5/10 mascarillas para polvo resistentes al...'
 sku: 'B086TVXGLD-es'
 tags: [  ]

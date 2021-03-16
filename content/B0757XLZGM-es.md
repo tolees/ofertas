@@ -5,7 +5,7 @@ date: 2020-09-10 12:27:12
 image: 'https://m.media-amazon.com/images/I/513G6hzZVDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757XLZGM-es Edge Entertainment-51st State Set Completo EEPG5101'
 sku: 'B0757XLZGM-es'
 tags: [  ]

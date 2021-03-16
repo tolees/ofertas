@@ -5,7 +5,7 @@ date: 2020-05-19 12:03:47
 image: 'https://m.media-amazon.com/images/I/41NwNcswZ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071V8DY9K-es Powerextra Batería Nikon EN-EL15 de Repuesto y Cargador...'
 sku: 'B071V8DY9K-es'
 tags: [  ]

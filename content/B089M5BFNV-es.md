@@ -5,7 +5,7 @@ date: 2020-10-06 08:37:01
 image: 'https://m.media-amazon.com/images/I/414MuwQ07OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089M5BFNV-es Timbre Inalámbrico para Puerta 300M IP55 Impermeable con...'
 sku: 'B089M5BFNV-es'
 tags: [  ]

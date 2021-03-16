@@ -5,7 +5,7 @@ date: 2020-06-16 17:53:33
 image: 'https://m.media-amazon.com/images/I/41IseSAQGCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJK4XX3-es Tefal Everyday Slim - Placa de inducción portatil 6 modos...'
 sku: 'B07NJK4XX3-es'
 tags: [  ]

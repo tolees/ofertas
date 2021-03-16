@@ -5,7 +5,7 @@ date: 2020-04-12 18:06:57
 image: 'https://m.media-amazon.com/images/I/41XE4PuNQLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0735G2MMM-es Silicone Plug Negro - Juego de 4'
 sku: 'B0735G2MMM-es'
 tags: [  ]

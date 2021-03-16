@@ -5,7 +5,7 @@ date: 2020-01-08 07:10:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31saZnxc2oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDKKH7H-es DC Heathrow M Zapatillas Hombre Negro Black 43 EU 9 UK'
 sku: 'B01MDKKH7H-es'
 tags: [  ]

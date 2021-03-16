@@ -5,7 +5,7 @@ date: 2020-04-27 10:31:43
 image: 'https://m.media-amazon.com/images/I/31Q9ZeV4ErL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HTQ5KC-es Fila Leggings Flex 2.0 negro talla: M Medium'
 sku: 'B078HTQ5KC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-16 16:33:06
 image: 'https://m.media-amazon.com/images/I/51JgTH9RIcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HV6MZ4-es Trilogía X-Men Original Blu-Ray [Blu-ray]'
 sku: 'B071HV6MZ4-es'
 tags: [  ]

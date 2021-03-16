@@ -5,7 +5,7 @@ date: 2020-02-16 11:14:52
 image: 'https://m.media-amazon.com/images/I/41UbyD50mWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCK2Q7B-es Levi s Two Horse Embossed Belt Cinturón Marrón Brown 28 90...'
 sku: 'B07RCK2Q7B-es'
 tags: [  ]

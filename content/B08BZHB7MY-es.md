@@ -5,7 +5,7 @@ date: 2020-07-13 17:19:58
 image: 'https://m.media-amazon.com/images/I/51rwNMoMbvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZHB7MY-es Lomogo Funda Cartera [iPhone XS MAX] Funda de Cuero con...'
 sku: 'B08BZHB7MY-es'
 tags: [  ]

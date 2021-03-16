@@ -5,7 +5,7 @@ date: 2020-01-26 09:13:41
 image: 'https://m.media-amazon.com/images/I/21hW-c8oc4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZS4TRQ-es Trueno S'
 sku: 'B07BZS4TRQ-es'
 tags: [  ]

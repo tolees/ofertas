@@ -5,7 +5,7 @@ date: 2020-01-23 10:37:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51k5pbu8NbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825HPWTR-es San Ignacio MasterPro GRAN FORMATO-Grill 28x28 Wok 28 y...'
 sku: 'B0825HPWTR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 06:19:32
 image: 'https://m.media-amazon.com/images/I/61Q0QaEcGPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072C2KQPP-es Party & Co. Original Adultos Juego de mesa de carreras -...'
 sku: 'B072C2KQPP-es'
 tags: [  ]

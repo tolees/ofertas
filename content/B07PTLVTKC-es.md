@@ -5,7 +5,7 @@ date: 2020-04-13 11:44:49
 image: 'https://m.media-amazon.com/images/I/41EYJvKFe0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTLVTKC-es Kipling - City Pack Mini Mochilas Mujer Multicolor Camo...'
 sku: 'B07PTLVTKC-es'
 tags: [  ]

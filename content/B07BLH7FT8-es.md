@@ -5,7 +5,7 @@ date: 2020-06-01 18:38:10
 image: 'https://m.media-amazon.com/images/I/51CGUehZOsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BLH7FT8-es World Of Warcraft: Battle For Azeroth - Edición Estándar...'
 sku: 'B07BLH7FT8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-05 15:11:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51RgMb6spJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV9SYCV-es Kipling - Amiel Bolsos maletín Mujer Negro Black Indigo...'
 sku: 'B07MV9SYCV-es'
 tags: [  ]

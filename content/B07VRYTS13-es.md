@@ -5,7 +5,7 @@ date: 2020-08-04 06:24:53
 image: 'https://m.media-amazon.com/images/I/412Db27FocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRYTS13-es Calvin Klein Short Drawstring Bañador Negro PVH Black BEH...'
 sku: 'B07VRYTS13-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-27 19:31:51
 image: 'https://m.media-amazon.com/images/I/31Di7v1jmoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZBPF1B-es Under Armour UA Tech Mesh Short Pantalones Cortos Hombre...'
 sku: 'B07CZBPF1B-es'
 tags: [  ]

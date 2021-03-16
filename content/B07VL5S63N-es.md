@@ -5,7 +5,7 @@ date: 2020-06-24 10:15:15
 image: 'https://m.media-amazon.com/images/I/51R5nC2E1EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VL5S63N-es YAMAMAY® Traje de baño Push up - Mirage'
 sku: 'B07VL5S63N-es'
 tags: [  ]

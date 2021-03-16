@@ -5,7 +5,7 @@ date: 2020-04-18 19:56:40
 image: 'https://m.media-amazon.com/images/I/41BHn07wL+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PQBR38-es adidas V Racer 2.0 Zapatillas para Hombre Azul...'
 sku: 'B074PQBR38-es'
 tags: [  ]

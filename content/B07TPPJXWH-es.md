@@ -5,7 +5,7 @@ date: 2020-06-23 21:32:09
 image: 'https://m.media-amazon.com/images/I/41zulCzwhVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPPJXWH-es Levi s 501 Original Shorts Pantalones Cortos Azul Pate...'
 sku: 'B07TPPJXWH-es'
 tags: [  ]

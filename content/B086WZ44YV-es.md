@@ -5,7 +5,7 @@ date: 2020-06-30 23:54:08
 image: 'https://m.media-amazon.com/images/I/417ONfxqnqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086WZ44YV-es HAZUN Cámara Web Full HD de 1080p USB2.0 con micrófono...'
 sku: 'B086WZ44YV-es'
 tags: [  ]

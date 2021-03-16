@@ -5,7 +5,7 @@ date: 2020-01-18 18:41:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514SsChWvCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NLCDFD-es Vicloon 9Pcs Upgrade Princesa Vestir Accesorios -...'
 sku: 'B078NLCDFD-es'
 tags: [  ]

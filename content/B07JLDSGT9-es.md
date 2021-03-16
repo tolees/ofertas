@@ -5,7 +5,7 @@ date: 2020-02-05 12:34:41
 image: 'https://m.media-amazon.com/images/I/51xxACiNUxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLDSGT9-es Glaray Camo Wrap Tape Cinta de Camuflaje Militar del...'
 sku: 'B07JLDSGT9-es'
 tags: [  ]

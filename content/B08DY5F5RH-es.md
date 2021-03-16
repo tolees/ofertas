@@ -5,7 +5,7 @@ date: 2020-10-05 11:56:23
 image: 'https://m.media-amazon.com/images/I/51qeIU4JKzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DY5F5RH-es Rollo de papel de regalo navideño Multipack 6 hojas de...'
 sku: 'B08DY5F5RH-es'
 tags: [  ]

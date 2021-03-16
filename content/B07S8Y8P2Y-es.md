@@ -5,7 +5,7 @@ date: 2020-05-21 15:23:07
 image: 'https://m.media-amazon.com/images/I/411agNQLdfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8Y8P2Y-es Helly Hansen HH Wash Bag 2 Neceser Unisex Adulto Cherry...'
 sku: 'B07S8Y8P2Y-es'
 tags: [  ]

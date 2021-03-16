@@ -5,7 +5,7 @@ date: 2020-04-16 08:31:48
 image: 'https://m.media-amazon.com/images/I/51isM5jlcqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWX8ZDM-es GFF Adornos Modernes Cerámica Escultura Einfaches...'
 sku: 'B07SWX8ZDM-es'
 tags: [  ]

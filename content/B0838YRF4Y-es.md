@@ -5,7 +5,7 @@ date: 2020-04-22 00:45:16
 image: 'https://m.media-amazon.com/images/I/41AXT0fl6JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0838YRF4Y-es LEMEGO Pistola de Masaje Muscular Masajeador de Cuerpo...'
 sku: 'B0838YRF4Y-es'
 tags: [  ]

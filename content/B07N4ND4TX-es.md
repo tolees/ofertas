@@ -5,7 +5,7 @@ date: 2020-04-29 12:20:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eOxz52dXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4ND4TX-es Superga 2750 COTU Classic Zapatillas Unisex Beige Beige...'
 sku: 'B07N4ND4TX-es'
 tags: [  ]

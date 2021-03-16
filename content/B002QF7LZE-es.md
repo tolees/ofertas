@@ -5,7 +5,7 @@ date: 2020-09-07 19:02:09
 image: 'https://m.media-amazon.com/images/I/4126yDmlFvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002QF7LZE-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B002QF7LZE-es'
 tags: [  ]

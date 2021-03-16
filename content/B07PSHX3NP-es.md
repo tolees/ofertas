@@ -5,7 +5,7 @@ date: 2020-01-23 17:22:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411CBgz5ZNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSHX3NP-es HAVIT Auriculares Bluetooth Inalámbricos 5.0 Auricular...'
 sku: 'B07PSHX3NP-es'
 tags: [  ]

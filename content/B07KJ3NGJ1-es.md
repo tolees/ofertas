@@ -5,7 +5,7 @@ date: 2020-01-07 19:37:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41blZIUgwYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJ3NGJ1-es ASICS Gel-Game 7 Clay/OC Zapatillas de Tenis para Mujer...'
 sku: 'B07KJ3NGJ1-es'
 tags: [  ]

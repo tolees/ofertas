@@ -5,7 +5,7 @@ date: 2020-04-15 00:33:41
 image: 'https://m.media-amazon.com/images/I/41IGlqAu1pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NOQ5SA4-es Mousehouse Gifts Juguete de Madera con Figuras de Animales...'
 sku: 'B00NOQ5SA4-es'
 tags: [  ]

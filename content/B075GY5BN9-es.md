@@ -5,7 +5,7 @@ date: 2020-04-17 11:03:23
 image: 'https://m.media-amazon.com/images/I/41KA3ElzLNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GY5BN9-es Adidas VL Court 2.0 K Zapatillas Unisex Niños Blanco...'
 sku: 'B075GY5BN9-es'
 tags: [  ]

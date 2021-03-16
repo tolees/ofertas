@@ -5,7 +5,7 @@ date: 2020-08-26 23:08:15
 image: 'https://m.media-amazon.com/images/I/51LcFQJFUaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089VMDH38-es Jojoin 2 pcs Walkie Talkie Niños con 8/20/22 Canales de...'
 sku: 'B089VMDH38-es'
 tags: [  ]

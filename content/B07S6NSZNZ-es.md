@@ -5,7 +5,7 @@ date: 2020-08-05 13:39:18
 image: 'https://m.media-amazon.com/images/I/41Y-QMd1oqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NSZNZ-es PUMA Ascend Zapatillas Unisex-Adulto Negro Black...'
 sku: 'B07S6NSZNZ-es'
 tags: [  ]

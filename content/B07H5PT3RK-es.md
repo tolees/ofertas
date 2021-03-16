@@ -5,7 +5,7 @@ date: 2020-09-12 11:06:18
 image: 'https://m.media-amazon.com/images/I/41GuVQlSf0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5PT3RK-es Kempa Attack Three Contender Zapatillas de Balonmano...'
 sku: 'B07H5PT3RK-es'
 tags: [  ]

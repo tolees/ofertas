@@ -5,7 +5,7 @@ date: 2020-04-12 00:32:44
 image: 'https://m.media-amazon.com/images/I/31Z3tmRJFCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTMKPPM-es Bqeel Mini PC 【4GB+64GB】 Procesador Intel® Cherry Trail...'
 sku: 'B07VTMKPPM-es'
 tags: [  ]

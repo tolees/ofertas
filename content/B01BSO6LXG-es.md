@@ -5,7 +5,7 @@ date: 2020-03-12 22:13:42
 image: 'https://m.media-amazon.com/images/I/41exXFzyQNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSO6LXG-es Philips Serie 3000 S3510/06 - Afeitadora Eléctrica para...'
 sku: 'B01BSO6LXG-es'
 tags: [  ]

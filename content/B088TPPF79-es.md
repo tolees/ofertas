@@ -5,7 +5,7 @@ date: 2020-05-27 14:33:04
 image: 'https://m.media-amazon.com/images/I/41PcQiKfGdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TPPF79-es Traje de Gasa de Tres Capas de Espesamiento a Pprueba de...'
 sku: 'B088TPPF79-es'
 tags: [  ]

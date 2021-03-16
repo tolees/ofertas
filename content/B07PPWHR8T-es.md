@@ -5,7 +5,7 @@ date: 2020-08-04 17:14:57
 image: 'https://m.media-amazon.com/images/I/31cuqk75hZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPWHR8T-es HUGO Henfords Pantalones Negro Charcoal 010 94 para Hombre'
 sku: 'B07PPWHR8T-es'
 tags: [  ]

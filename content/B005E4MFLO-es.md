@@ -5,7 +5,7 @@ date: 2020-04-11 10:07:31
 image: 'https://m.media-amazon.com/images/I/41kyCxZU4DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005E4MFLO-es Bosch Professional GSH 27 VC - Martillo demoledor 62 J Hex...'
 sku: 'B005E4MFLO-es'
 tags: [  ]

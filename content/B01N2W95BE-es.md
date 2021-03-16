@@ -5,7 +5,7 @@ date: 2020-06-01 11:51:50
 image: 'https://m.media-amazon.com/images/I/31N5MmBRMrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2W95BE-es Signal Frescor Explosivo Blanqueador -75 ml'
 sku: 'B01N2W95BE-es'
 tags: [  ]

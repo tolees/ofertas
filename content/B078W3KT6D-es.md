@@ -5,7 +5,7 @@ date: 2020-07-02 13:03:52
 image: 'https://m.media-amazon.com/images/I/31uuoCywxML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078W3KT6D-es Vans Filmore Zapatillas para Hombre Negro Suede/canvas...'
 sku: 'B078W3KT6D-es'
 tags: [  ]

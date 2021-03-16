@@ -5,7 +5,7 @@ date: 2020-07-21 05:37:13
 image: 'https://m.media-amazon.com/images/I/41Fa9WGB4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B8WW3DA-es Miraculous Ladybug - Set YO-YO y las pendientes'
 sku: 'B01B8WW3DA-es'
 tags: [  ]

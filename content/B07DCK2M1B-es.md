@@ -5,7 +5,7 @@ date: 2020-04-03 13:24:27
 image: 'https://m.media-amazon.com/images/I/41yJO8hvfzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCK2M1B-es PUMA Vikky Stacked L Zapatillas para Mujer Black Black 39 EU'
 sku: 'B07DCK2M1B-es'
 tags: [  ]

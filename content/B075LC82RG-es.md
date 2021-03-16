@@ -5,7 +5,7 @@ date: 2020-07-02 00:11:52
 image: 'https://m.media-amazon.com/images/I/51pADqwMBRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075LC82RG-es Flash Drive 128 MB PenDrive 10 Piezas Memorias USB 2.0 -...'
 sku: 'B075LC82RG-es'
 tags: [  ]

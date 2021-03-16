@@ -5,7 +5,7 @@ date: 2020-04-07 05:22:04
 image: 'https://m.media-amazon.com/images/I/51uM4DCv4IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZF9DMZ5-es Tusenpy 20 Rollos Washi Cintas Rollitos Navideños Cintas...'
 sku: 'B07ZF9DMZ5-es'
 tags: [  ]

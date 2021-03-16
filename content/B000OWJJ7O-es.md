@@ -5,7 +5,7 @@ date: 2020-06-17 10:15:11
 image: 'https://m.media-amazon.com/images/I/41BIXmO4auL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OWJJ7O-es adidas Copa Mundial Zapatillas de Fútbol para Hombre...'
 sku: 'B000OWJJ7O-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 00:16:02
 image: 'https://m.media-amazon.com/images/I/31eIvdu+uBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBXNV58-es Anker Cargador inalámbrico rápido Soporte de Carga...'
 sku: 'B07DBXNV58-es'
 tags: [  ]

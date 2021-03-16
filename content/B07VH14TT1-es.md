@@ -5,7 +5,7 @@ date: 2020-07-13 04:29:25
 image: 'https://m.media-amazon.com/images/I/41jEzP5UyML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VH14TT1-es Pepe Jeans Klein Archive Summer M Zapatillas para Hombre...'
 sku: 'B07VH14TT1-es'
 tags: [  ]

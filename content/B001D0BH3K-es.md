@@ -5,7 +5,7 @@ date: 2020-02-20 05:54:47
 image: 'https://m.media-amazon.com/images/I/21p+iKszSXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001D0BH3K-es Sebastian Tratamiento Capilar - 150 ml'
 sku: 'B001D0BH3K-es'
 tags: [  ]

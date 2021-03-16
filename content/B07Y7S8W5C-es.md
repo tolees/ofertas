@@ -5,7 +5,7 @@ date: 2020-09-15 10:12:25
 image: 'https://m.media-amazon.com/images/I/41wC2duycXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7S8W5C-es Yenks Case compatible con Samsung Galaxy A9 2018 funda de...'
 sku: 'B07Y7S8W5C-es'
 tags: [  ]

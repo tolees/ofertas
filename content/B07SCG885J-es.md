@@ -5,7 +5,7 @@ date: 2020-06-22 09:28:57
 image: 'https://m.media-amazon.com/images/I/41EivgGYFOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCG885J-es Ice-Watch Reloj Analógico 16985'
 sku: 'B07SCG885J-es'
 tags: [  ]

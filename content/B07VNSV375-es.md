@@ -5,7 +5,7 @@ date: 2020-01-11 18:10:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41e4HerAANL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNSV375-es Nike Renew Lucent GS Zapatillas Unisex Niños Negro...'
 sku: 'B07VNSV375-es'
 tags: [  ]

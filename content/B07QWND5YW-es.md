@@ -5,7 +5,7 @@ date: 2020-01-14 07:41:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417fGQ5xx7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWND5YW-es Under Armour Metallic Woven FZ Parte Superior del...'
 sku: 'B07QWND5YW-es'
 tags: [  ]

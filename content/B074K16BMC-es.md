@@ -5,7 +5,7 @@ date: 2020-01-08 15:36:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41peErJ1E-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074K16BMC-es PDP - Pixel Pals DC Comics Joker'
 sku: 'B074K16BMC-es'
 tags: [  ]

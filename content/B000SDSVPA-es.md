@@ -5,7 +5,7 @@ date: 2020-04-28 18:56:46
 image: 'https://m.media-amazon.com/images/I/41vATfUwI-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000SDSVPA-es Moldex MOL6401 - Tapón para los oídos pack de 50'
 sku: 'B000SDSVPA-es'
 tags: [  ]

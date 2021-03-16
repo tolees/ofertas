@@ -5,7 +5,7 @@ date: 2020-06-25 04:48:24
 image: 'https://m.media-amazon.com/images/I/41-I13ru0OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNV7GX9-es Under Armour UA Charged Impulse Zapatillas de Running para...'
 sku: 'B07NNV7GX9-es'
 tags: [  ]

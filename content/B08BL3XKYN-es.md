@@ -5,7 +5,7 @@ date: 2020-08-14 12:08:50
 image: 'https://m.media-amazon.com/images/I/31YaZUl-cTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BL3XKYN-es Lima Electrica Pies Pedicura Profesional Durezas LimaPies...'
 sku: 'B08BL3XKYN-es'
 tags: [  ]

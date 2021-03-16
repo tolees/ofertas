@@ -5,7 +5,7 @@ date: 2020-08-06 10:17:40
 image: 'https://m.media-amazon.com/images/I/515sQ80u29L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008SOPYIS-es Targus AWE77EU - Soporte para Tableta de 7-10" para...'
 sku: 'B008SOPYIS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-17 16:53:42
 image: 'https://m.media-amazon.com/images/I/31PxrFL+cVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HROIE5Y-es Onitsuka Tiger Mexico 66 Zapatillas de Entrenamiento...'
 sku: 'B01HROIE5Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-10 22:54:14
 image: 'https://m.media-amazon.com/images/I/41qlYNpc65L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRK7G8S-es Black Shark 2 8GB+128GB Negro con Switch Kit Black Shark...'
 sku: 'B07WRK7G8S-es'
 tags: [  ]

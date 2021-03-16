@@ -5,7 +5,7 @@ date: 2020-03-15 18:21:02
 image: 'https://m.media-amazon.com/images/I/41wMGrijrOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q8V4WLX-es Dockers by Gerli 43fa307 Botas Militar para Mujer Negro...'
 sku: 'B07Q8V4WLX-es'
 tags: [  ]

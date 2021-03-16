@@ -5,7 +5,7 @@ date: 2020-02-03 06:50:28
 image: 'https://m.media-amazon.com/images/I/31M8X9gyyrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M85LCDP-es GANT MD. Extrafine Lambswool V-Neck suéter Verde Tartan...'
 sku: 'B07M85LCDP-es'
 tags: [  ]

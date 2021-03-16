@@ -5,7 +5,7 @@ date: 2020-10-02 10:38:28
 image: 'https://m.media-amazon.com/images/I/31vSwr4zLrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ8SZVM-es Sebago Schooner Náuticos Hombre Marrón Brown-Gum 925 39 EU'
 sku: 'B07RZ8SZVM-es'
 tags: [  ]

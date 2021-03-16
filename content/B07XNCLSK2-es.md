@@ -5,7 +5,7 @@ date: 2020-07-03 21:28:34
 image: 'https://m.media-amazon.com/images/I/41JvvuOieFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XNCLSK2-es [Versión Nuevo]Dilatador Nasal Anti Ronquidos Dyroe Nose...'
 sku: 'B07XNCLSK2-es'
 tags: [  ]

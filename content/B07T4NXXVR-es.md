@@ -5,7 +5,7 @@ date: 2020-05-30 13:46:04
 image: 'https://m.media-amazon.com/images/I/51TqOjTpghL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4NXXVR-es OrgaWise Neceser Maquillaje Impermeable de Gran Capacidad...'
 sku: 'B07T4NXXVR-es'
 tags: [  ]

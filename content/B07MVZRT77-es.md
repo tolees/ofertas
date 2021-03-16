@@ -5,7 +5,7 @@ date: 2020-10-05 10:58:07
 image: 'https://m.media-amazon.com/images/I/31v7vGe3wtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVZRT77-es RATEL Funda Protectora de Sombrilla Impermeable Resistente...'
 sku: 'B07MVZRT77-es'
 tags: [  ]

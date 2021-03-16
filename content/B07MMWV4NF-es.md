@@ -5,7 +5,7 @@ date: 2020-01-29 13:38:07
 image: 'https://m.media-amazon.com/images/I/41jFuzsbWtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWV4NF-es KangaROOS Kanga X 5000 Zapatillas Unisex Niños Jet...'
 sku: 'B07MMWV4NF-es'
 tags: [  ]

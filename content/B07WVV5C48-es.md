@@ -5,7 +5,7 @@ date: 2020-05-24 07:53:26
 image: 'https://m.media-amazon.com/images/I/31qEao0YlSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVV5C48-es Kinross Gin pink - 6 botellas x 700 ml - Total: 4200 ml'
 sku: 'B07WVV5C48-es'
 tags: [  ]

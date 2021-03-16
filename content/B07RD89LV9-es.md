@@ -5,7 +5,7 @@ date: 2020-07-28 09:08:37
 image: 'https://m.media-amazon.com/images/I/31Vgl8gb0iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RD89LV9-es Tommy Hilfiger Graphic F/b Polo S/s Blanco White Yaf...'
 sku: 'B07RD89LV9-es'
 tags: [  ]

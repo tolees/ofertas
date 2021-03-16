@@ -5,7 +5,7 @@ date: 2020-01-19 17:52:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/512ShwZr3uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6DXM6F-es Spontex Universale - Set de 3 estropajos salvauñas con...'
 sku: 'B01N6DXM6F-es'
 tags: [  ]

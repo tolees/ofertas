@@ -5,7 +5,7 @@ date: 2020-05-10 21:56:03
 image: 'https://m.media-amazon.com/images/I/410OAFZG49L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RKYFR5-es Sorel Explorer Joan Botas para Mujer Negro Black/Dark...'
 sku: 'B079RKYFR5-es'
 tags: [  ]

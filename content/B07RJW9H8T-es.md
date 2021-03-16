@@ -5,7 +5,7 @@ date: 2020-02-26 08:47:36
 image: 'https://m.media-amazon.com/images/I/415lD8xO7dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJW9H8T-es New Balance 574v2 Zapatillas para Hombre Gris Grey/Navy...'
 sku: 'B07RJW9H8T-es'
 tags: [  ]

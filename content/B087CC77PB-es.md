@@ -5,7 +5,7 @@ date: 2020-09-08 14:20:26
 image: 'https://m.media-amazon.com/images/I/513s5P0A1BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087CC77PB-es Dungeons 3 - Complete Collection'
 sku: 'B087CC77PB-es'
 tags: [  ]

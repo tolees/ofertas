@@ -5,7 +5,7 @@ date: 2020-09-17 07:45:41
 image: 'https://m.media-amazon.com/images/I/51Q7hDYB6cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HWBXP5T-es Set 5 Transpirable En Verano Bandas Boca Nariz Protección...'
 sku: 'B08HWBXP5T-es'
 tags: [  ]

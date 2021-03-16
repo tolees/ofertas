@@ -5,7 +5,7 @@ date: 2020-07-27 07:57:45
 image: 'https://m.media-amazon.com/images/I/312XnUxb0uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HLST2C7-es LA Panel LED redondo plano 18W 1600 lumenes reales! driver...'
 sku: 'B07HLST2C7-es'
 tags: [  ]

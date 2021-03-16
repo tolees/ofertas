@@ -5,7 +5,7 @@ date: 2020-05-15 00:27:31
 image: 'https://m.media-amazon.com/images/I/41R07Cd9WoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BNA0IRA-es Tommy Hilfiger Mujer-Reloj de Deporte analógico Everyday...'
 sku: 'B01BNA0IRA-es'
 tags: [  ]

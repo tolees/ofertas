@@ -5,7 +5,7 @@ date: 2020-09-21 16:00:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qZIn%2BCs7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW26HGW-es 2.7inch TFT Digital Resistente al Agua 5MP 1080P máximo de...'
 sku: 'B07KW26HGW-es'
 tags: [  ]

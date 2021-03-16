@@ -5,7 +5,7 @@ date: 2020-03-17 11:10:33
 image: 'https://m.media-amazon.com/images/I/41Dtr-bjJXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9DCNNC-es Máscara para los ojos del sueño - Máscara para los ojos...'
 sku: 'B07V9DCNNC-es'
 tags: [  ]

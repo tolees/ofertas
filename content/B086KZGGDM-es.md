@@ -5,7 +5,7 @@ date: 2020-09-21 19:51:18
 image: 'https://m.media-amazon.com/images/I/6165e2s+6rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086KZGGDM-es Toallas refrigerantes de toalla toalla fría toalla juego...'
 sku: 'B086KZGGDM-es'
 tags: [  ]

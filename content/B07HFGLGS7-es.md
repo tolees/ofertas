@@ -5,7 +5,7 @@ date: 2020-02-05 11:31:02
 image: 'https://m.media-amazon.com/images/I/41-a9Pv5iyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFGLGS7-es Beats Auriculares Negro'
 sku: 'B07HFGLGS7-es'
 tags: [  ]

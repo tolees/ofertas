@@ -5,7 +5,7 @@ date: 2020-06-05 16:36:30
 image: 'https://m.media-amazon.com/images/I/41Vefrm3dvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XQZCLC5-es 7 Enanitos - Estuche portatodo Cuadrado Karactermanía...'
 sku: 'B06XQZCLC5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-09 08:17:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51obc3TPOIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8LT8KF-es Wrangler Arizona Pantalones Azul Court Yard 60f 32W / 34L...'
 sku: 'B07M8LT8KF-es'
 tags: [  ]

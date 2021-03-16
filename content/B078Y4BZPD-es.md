@@ -5,7 +5,7 @@ date: 2020-03-15 19:16:08
 image: 'https://m.media-amazon.com/images/I/41m6SdDBcVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078Y4BZPD-es BRA Advanced Grill con rayas 28 cm aluminio fundido con...'
 sku: 'B078Y4BZPD-es'
 tags: [  ]

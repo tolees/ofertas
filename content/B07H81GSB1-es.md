@@ -5,7 +5,7 @@ date: 2020-02-03 20:20:30
 image: 'https://m.media-amazon.com/images/I/41W4wkCPGCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H81GSB1-es Nike Downshifter 9 Zapatillas de Running para Hombre Azul...'
 sku: 'B07H81GSB1-es'
 tags: [  ]

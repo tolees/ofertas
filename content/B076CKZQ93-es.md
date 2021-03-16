@@ -5,7 +5,7 @@ date: 2020-10-12 13:04:16
 image: 'https://m.media-amazon.com/images/I/31i+jElNRCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CKZQ93-es SAMSONITE Laptop Bag 14.1" Space Blue -Network 3 Equipaje...'
 sku: 'B076CKZQ93-es'
 tags: [  ]

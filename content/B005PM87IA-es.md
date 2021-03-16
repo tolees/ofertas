@@ -5,7 +5,7 @@ date: 2020-07-19 07:01:14
 image: 'https://m.media-amazon.com/images/I/413Poz8tEuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005PM87IA-es GUESS X69004L2S - Reloj de pulsera'
 sku: 'B005PM87IA-es'
 tags: [  ]

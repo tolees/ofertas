@@ -5,7 +5,7 @@ date: 2020-04-17 00:30:59
 image: 'https://m.media-amazon.com/images/I/513blXKLQsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078S8S4DZ-es TEXTURAS HOME - Pack de 6 Paños de Cocina Rizo Algodón...'
 sku: 'B078S8S4DZ-es'
 tags: [  ]

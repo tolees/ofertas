@@ -5,7 +5,7 @@ date: 2020-03-11 08:14:31
 image: 'https://m.media-amazon.com/images/I/51Db8CjQW4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CH2BPWM-es PUTUO Calcetines Cinco Dedos Mujer Calcetines Invisibles...'
 sku: 'B07CH2BPWM-es'
 tags: [  ]

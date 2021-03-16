@@ -5,7 +5,7 @@ date: 2020-02-06 00:31:35
 image: 'https://m.media-amazon.com/images/I/41G6T9813EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BFFF102-es Tribe Game of Thrones Juego de Tronos Daenerys - Memoria...'
 sku: 'B01BFFF102-es'
 tags: [  ]

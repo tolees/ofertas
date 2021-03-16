@@ -5,7 +5,7 @@ date: 2020-01-24 11:50:35
 image: 'https://m.media-amazon.com/images/I/51UfIhaaYqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS7BCKS-es Mini Maquina de Coser Portatil de Mano Herramienta de...'
 sku: 'B07TS7BCKS-es'
 tags: [  ]

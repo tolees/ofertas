@@ -5,7 +5,7 @@ date: 2020-04-16 08:37:00
 image: 'https://m.media-amazon.com/images/I/41z7nyz9uoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082DWTY18-es Auriculares Inalámbricos 2-en 1 Estéreo Auriculares...'
 sku: 'B082DWTY18-es'
 tags: [  ]

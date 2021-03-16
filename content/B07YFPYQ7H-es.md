@@ -5,7 +5,7 @@ date: 2020-05-30 18:36:35
 image: 'https://m.media-amazon.com/images/I/51166dsj9gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFPYQ7H-es Bolsa de Maquillaje Mármol PU Bolsa de Cosméticos de Viaje...'
 sku: 'B07YFPYQ7H-es'
 tags: [  ]

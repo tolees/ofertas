@@ -5,7 +5,7 @@ date: 2020-01-18 10:09:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31s6zCgSH2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WV84KV-es Maclaren Quest Silla de paseo - ligero para recién nacidos...'
 sku: 'B078WV84KV-es'
 tags: [  ]

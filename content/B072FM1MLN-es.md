@@ -5,7 +5,7 @@ date: 2020-05-01 06:11:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ec1aSgDjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072FM1MLN-es find. Zapatillas Clásicas con Cordones para Hombre Azul...'
 sku: 'B072FM1MLN-es'
 tags: [  ]

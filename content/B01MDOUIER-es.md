@@ -5,7 +5,7 @@ date: 2020-03-12 23:52:55
 image: 'https://m.media-amazon.com/images/I/51F3JBPV37L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDOUIER-es Isabel + La corona partida + Carlos Rey Emperador [Blu-ray]'
 sku: 'B01MDOUIER-es'
 tags: [  ]

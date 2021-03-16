@@ -5,7 +5,7 @@ date: 2020-07-25 08:42:05
 image: 'https://m.media-amazon.com/images/I/512-qZzPLDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FRF8KN7-es ZCHI 4 Piezas Bolsa de Almacenamiento Debajo de la Cama de...'
 sku: 'B07FRF8KN7-es'
 tags: [  ]

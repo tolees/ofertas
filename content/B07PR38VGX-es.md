@@ -5,7 +5,7 @@ date: 2020-02-25 20:22:07
 image: 'https://m.media-amazon.com/images/I/41uXSZp0XgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PR38VGX-es MIROCOO V6 Auriculares Bluetooth 5.0 TWS Mini In Ear...'
 sku: 'B07PR38VGX-es'
 tags: [  ]

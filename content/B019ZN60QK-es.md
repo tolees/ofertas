@@ -5,7 +5,7 @@ date: 2020-09-07 13:26:31
 image: 'https://m.media-amazon.com/images/I/41EUSxFk-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019ZN60QK-es Rimmel London Pintalabios - 18 gr. 420 Berry Seductive...'
 sku: 'B019ZN60QK-es'
 tags: [  ]

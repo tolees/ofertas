@@ -5,7 +5,7 @@ date: 2020-06-19 13:33:36
 image: 'https://m.media-amazon.com/images/I/41I8Es00V4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751GPX4P-es VEGAS Pro 15'
 sku: 'B0751GPX4P-es'
 tags: [  ]

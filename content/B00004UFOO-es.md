@@ -5,7 +5,7 @@ date: 2020-05-24 16:52:45
 image: 'https://m.media-amazon.com/images/I/41fVyorBNFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00004UFOO-es Crayola Super Tips Washable Markers'
 sku: 'B00004UFOO-es'
 tags: [  ]

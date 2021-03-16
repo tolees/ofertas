@@ -5,7 +5,7 @@ date: 2020-08-12 14:05:22
 image: 'https://m.media-amazon.com/images/I/412qLI0WwBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QI4ZGOM-es Complejo multivitamínico con Vitamina D 3 para hombre y...'
 sku: 'B00QI4ZGOM-es'
 tags: [  ]

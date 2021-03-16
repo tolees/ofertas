@@ -5,7 +5,7 @@ date: 2020-06-26 19:03:31
 image: 'https://m.media-amazon.com/images/I/41nCvDq2SyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AFSTZSU-es Keter - Caseta de jardín exterior Factor 6x6 con escuadra...'
 sku: 'B00AFSTZSU-es'
 tags: [  ]

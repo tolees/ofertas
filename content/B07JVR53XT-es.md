@@ -5,7 +5,7 @@ date: 2020-03-04 14:45:31
 image: 'https://m.media-amazon.com/images/I/413ycjhzX+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVR53XT-es Meidong HE8C Cancelación de Ruido Activa intrauditivos con...'
 sku: 'B07JVR53XT-es'
 tags: [  ]

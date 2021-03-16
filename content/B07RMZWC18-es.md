@@ -5,7 +5,7 @@ date: 2020-10-03 07:25:57
 image: 'https://m.media-amazon.com/images/I/41QwAcIa4UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMZWC18-es Casio Reloj Mujer de Digital con Correa en Acero...'
 sku: 'B07RMZWC18-es'
 tags: [  ]

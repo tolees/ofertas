@@ -5,7 +5,7 @@ date: 2020-06-01 11:51:48
 image: 'https://m.media-amazon.com/images/I/31QDs0Q5u7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TT7MCQY-es Syoss Espuma Keratin - 250 ml'
 sku: 'B07TT7MCQY-es'
 tags: [  ]

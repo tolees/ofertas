@@ -5,7 +5,7 @@ date: 2020-01-13 03:43:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dJ9RhbUtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KWLF2G-es KROM Khuno USB Óptico 5000DPI Mano Derecha Negro - Ratón...'
 sku: 'B071KWLF2G-es'
 tags: [  ]

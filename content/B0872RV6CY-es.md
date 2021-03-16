@@ -5,7 +5,7 @@ date: 2020-06-19 15:54:12
 image: 'https://m.media-amazon.com/images/I/31qjuRR7-sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872RV6CY-es iVANKY Repetidor HDMI Amplificador HDMI 4K @ 60Hz Hembra a...'
 sku: 'B0872RV6CY-es'
 tags: [  ]

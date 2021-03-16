@@ -5,7 +5,7 @@ date: 2020-04-18 08:17:12
 image: 'https://m.media-amazon.com/images/I/41Kx8Yo8MVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005ZMO85Q-es AEG HTD 5595 - Secador de pelo profesional con difusor 3...'
 sku: 'B005ZMO85Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 15:01:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UJADXIVyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPRC7JV-es Homyl 1 Par Sonido de Sistema de Audio Estéreo de Coche...'
 sku: 'B07BPRC7JV-es'
 tags: [  ]

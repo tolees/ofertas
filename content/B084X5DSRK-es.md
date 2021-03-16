@@ -5,7 +5,7 @@ date: 2020-04-06 16:56:04
 image: 'https://m.media-amazon.com/images/I/414pKt45-lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084X5DSRK-es PACK - Windows 10 Professiona + office pro 2019 +...'
 sku: 'B084X5DSRK-es'
 tags: [  ]

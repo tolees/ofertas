@@ -5,7 +5,7 @@ date: 2020-01-22 16:59:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y21Y0YaZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGSP916-es Adidas Predator 19.3 FG J Botas de fútbol para Niños...'
 sku: 'B07VGSP916-es'
 tags: [  ]

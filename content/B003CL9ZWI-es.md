@@ -5,7 +5,7 @@ date: 2020-03-05 05:16:55
 image: 'https://m.media-amazon.com/images/I/41rqhSI4u2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003CL9ZWI-es HP C9363EE 344 Cartucho de Tinta Original 1 unidad...'
 sku: 'B003CL9ZWI-es'
 tags: [  ]

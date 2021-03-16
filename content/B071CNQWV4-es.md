@@ -5,7 +5,7 @@ date: 2020-02-08 04:36:20
 image: 'https://m.media-amazon.com/images/I/51RJo7CT+aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CNQWV4-es Star Wars: Battlefront II - Edición estándar La caja...'
 sku: 'B071CNQWV4-es'
 tags: [  ]

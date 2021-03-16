@@ -5,7 +5,7 @@ date: 2019-12-31 22:44:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518EE%2BHbbtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBC1PHM-es Cordel de Yute 2 Rollo 328 Pies de Cuerda de Cáñamo...'
 sku: 'B07GBC1PHM-es'
 tags: [  ]

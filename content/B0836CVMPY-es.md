@@ -5,7 +5,7 @@ date: 2020-03-15 18:48:56
 image: 'https://m.media-amazon.com/images/I/41KReiHGfoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0836CVMPY-es Otto Koning - Dortmund- Set 42 cubiertos para 6 comensales...'
 sku: 'B0836CVMPY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 23:29:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Req542dEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0075CPSHQ-es POP! Vinilo - Disney: Minnie Mouse'
 sku: 'B0075CPSHQ-es'
 tags: [  ]

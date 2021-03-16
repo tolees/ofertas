@@ -5,7 +5,7 @@ date: 2020-07-27 08:32:36
 image: 'https://m.media-amazon.com/images/I/41ZD8QR+URL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXBW1DK-es Vicloon Espátula Flexible de Silicona Cocina Gadget y...'
 sku: 'B01LXBW1DK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-28 19:12:04
 image: 'https://m.media-amazon.com/images/I/41QzgNwDBYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KWNWJTE-es Huntvp Mochila Táctica de Nylon 40L Bolsa de Asalto Estilo...'
 sku: 'B01KWNWJTE-es'
 tags: [  ]

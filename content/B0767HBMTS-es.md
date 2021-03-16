@@ -5,7 +5,7 @@ date: 2020-07-30 18:01:15
 image: 'https://m.media-amazon.com/images/I/41YLRS8MabL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0767HBMTS-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B0767HBMTS-es'
 tags: [  ]

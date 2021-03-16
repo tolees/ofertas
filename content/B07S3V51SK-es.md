@@ -5,7 +5,7 @@ date: 2020-05-23 14:06:46
 image: 'https://m.media-amazon.com/images/I/419956AcoPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3V51SK-es New Balance 574v2 Zapatillas para Hombre Negro Black/Grey...'
 sku: 'B07S3V51SK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-19 13:06:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51fHW0T8z6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFQB75B-es DAZAKA Juego de Destornilladores de Precisión Profesional...'
 sku: 'B07XFQB75B-es'
 tags: [  ]

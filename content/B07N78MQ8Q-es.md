@@ -5,7 +5,7 @@ date: 2020-04-02 05:07:18
 image: 'https://m.media-amazon.com/images/I/61Ccl6aBiIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N78MQ8Q-es Joyjoz 164 Pcs Slime Kit Slime Herramientas para artesanía...'
 sku: 'B07N78MQ8Q-es'
 tags: [  ]

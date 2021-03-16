@@ -5,7 +5,7 @@ date: 2020-04-24 16:05:57
 image: 'https://m.media-amazon.com/images/I/418OS5jVdiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00630TLAG-es Naturtint. Tinte Sin Amoniaco. Ingredientes Vegetales. 10N...'
 sku: 'B00630TLAG-es'
 tags: [  ]

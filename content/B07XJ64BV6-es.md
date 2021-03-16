@@ -5,7 +5,7 @@ date: 2020-09-20 07:14:36
 image: 'https://m.media-amazon.com/images/I/41xkLW-aZ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJ64BV6-es Skechers UNO Zapatillas para Hombre Gris carbón de Malla...'
 sku: 'B07XJ64BV6-es'
 tags: [  ]

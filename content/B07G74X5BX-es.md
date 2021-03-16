@@ -5,7 +5,7 @@ date: 2020-02-01 01:49:49
 image: 'https://m.media-amazon.com/images/I/41cjEn9ljcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G74X5BX-es Bolsa de viaje Pepe Jeans Cranford Marrón'
 sku: 'B07G74X5BX-es'
 tags: [  ]

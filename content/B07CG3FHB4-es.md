@@ -5,7 +5,7 @@ date: 2020-10-06 13:56:10
 image: 'https://m.media-amazon.com/images/I/316upk7s1nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CG3FHB4-es Jack & Jones Jjebasic Knit Crew Neck Noos suéter Azul Navy...'
 sku: 'B07CG3FHB4-es'
 tags: [  ]

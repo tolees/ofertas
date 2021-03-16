@@ -5,7 +5,7 @@ date: 2020-04-03 13:20:41
 image: 'https://m.media-amazon.com/images/I/51dPD9uJJAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXK5DT4-es TAZEMAT 36 Hojas Plantillas para Pintar Diseño de Mandala...'
 sku: 'B07YXK5DT4-es'
 tags: [  ]

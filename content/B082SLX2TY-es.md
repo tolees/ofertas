@@ -5,7 +5,7 @@ date: 2020-08-09 23:34:54
 image: 'https://m.media-amazon.com/images/I/51oKuMR6lvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SLX2TY-es OfficeWorld 502 XL Reemplazo para Epson 502 502XL...'
 sku: 'B082SLX2TY-es'
 tags: [  ]

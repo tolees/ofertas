@@ -5,7 +5,7 @@ date: 2020-04-02 19:46:08
 image: 'https://m.media-amazon.com/images/I/41H0Sh6jniL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8VK1NL-es One enjoy Pasta térmica de Metal líquido 79 W/MK de Alto...'
 sku: 'B07S8VK1NL-es'
 tags: [  ]

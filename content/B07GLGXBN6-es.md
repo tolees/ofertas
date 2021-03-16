@@ -5,7 +5,7 @@ date: 2020-02-04 23:13:37
 image: 'https://m.media-amazon.com/images/I/411DygOfmJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLGXBN6-es Timex Reloj de Pulsera TW2R70200'
 sku: 'B07GLGXBN6-es'
 tags: [  ]

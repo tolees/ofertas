@@ -5,7 +5,7 @@ date: 2020-07-21 14:43:47
 image: 'https://m.media-amazon.com/images/I/41XWWJw1WgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQ43NVZ-es Lee Scarlett Jeans Azul Rinse 36 32W / 33L para Mujer'
 sku: 'B07BQ43NVZ-es'
 tags: [  ]

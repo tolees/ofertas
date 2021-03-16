@@ -5,7 +5,7 @@ date: 2020-01-18 16:16:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/212UFFmqyEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVXH53S-es K-Speed Turf'
 sku: 'B07CVXH53S-es'
 tags: [  ]

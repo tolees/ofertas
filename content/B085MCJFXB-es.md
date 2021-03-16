@@ -5,7 +5,7 @@ date: 2020-06-23 18:07:43
 image: 'https://m.media-amazon.com/images/I/51ASJx0UbHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085MCJFXB-es MZY1188 Cielo Azul Molde Rectangular de Silicona Molde...'
 sku: 'B085MCJFXB-es'
 tags: [  ]

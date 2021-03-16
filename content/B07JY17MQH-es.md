@@ -5,7 +5,7 @@ date: 2020-04-08 17:09:20
 image: 'https://m.media-amazon.com/images/I/31hZQPwv0TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JY17MQH-es Tommy Hilfiger Modern Rev Leather Belt 3.5 Cinturón Marrón...'
 sku: 'B07JY17MQH-es'
 tags: [  ]

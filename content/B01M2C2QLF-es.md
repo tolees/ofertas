@@ -5,7 +5,7 @@ date: 2020-04-14 10:10:27
 image: 'https://m.media-amazon.com/images/I/31ijVef2QjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M2C2QLF-es Arlo Accesorio oficial VMA4400 - Batería Recargable para...'
 sku: 'B01M2C2QLF-es'
 tags: [  ]

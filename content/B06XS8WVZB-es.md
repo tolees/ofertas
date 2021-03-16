@@ -5,7 +5,7 @@ date: 2020-09-12 10:39:57
 image: 'https://m.media-amazon.com/images/I/31T4PbdVD-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XS8WVZB-es Waneway Espejo Maquillaje Iluminado con 12 X 3W Bombillas...'
 sku: 'B06XS8WVZB-es'
 tags: [  ]

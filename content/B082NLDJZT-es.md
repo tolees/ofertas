@@ -5,7 +5,7 @@ date: 2020-02-28 11:23:47
 image: 'https://m.media-amazon.com/images/I/41eOFjgM3uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NLDJZT-es LUDOS Ultra Auriculares con Micrófono y Cable Máxima...'
 sku: 'B082NLDJZT-es'
 tags: [  ]

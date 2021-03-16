@@ -5,7 +5,7 @@ date: 2020-05-28 20:13:11
 image: 'https://m.media-amazon.com/images/I/51ZKBwRu9GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7FC8R5-es Vileda 141719 - Bayeta de microfibras antical Azul Pack de...'
 sku: 'B01N7FC8R5-es'
 tags: [  ]

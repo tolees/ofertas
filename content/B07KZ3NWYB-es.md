@@ -5,7 +5,7 @@ date: 2020-01-29 21:04:48
 image: 'https://m.media-amazon.com/images/I/51LwT6fQHUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZ3NWYB-es FurReal Friends JJ mein hopsender Mops'
 sku: 'B07KZ3NWYB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 11:02:11
 image: 'https://m.media-amazon.com/images/I/41NbbaNLlEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087X6TN8B-es Suhctup Funda Transparent Compatible para Samsung Galaxy...'
 sku: 'B087X6TN8B-es'
 tags: [  ]

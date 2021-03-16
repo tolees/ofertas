@@ -5,7 +5,7 @@ date: 2020-01-01 15:23:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ENSGu-chL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXWJQ3R-es Vans Palomar Zapatillas para Niños Negro Suede/Canvas...'
 sku: 'B07FXWJQ3R-es'
 tags: [  ]

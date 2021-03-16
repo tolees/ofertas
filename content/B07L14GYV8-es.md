@@ -5,7 +5,7 @@ date: 2020-07-16 10:54:48
 image: 'https://m.media-amazon.com/images/I/41GZ-AMZaEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L14GYV8-es Under Armour Rival Parte Superior del Calentamiento Mujer...'
 sku: 'B07L14GYV8-es'
 tags: [  ]

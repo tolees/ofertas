@@ -5,7 +5,7 @@ date: 2020-04-04 12:23:43
 image: 'https://m.media-amazon.com/images/I/31qM6QZ3GqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XWOCIPQ-es Nike Court Royale Zapatillas de Gimnasia para Hombre...'
 sku: 'B00XWOCIPQ-es'
 tags: [  ]

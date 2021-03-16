@@ -5,7 +5,7 @@ date: 2020-08-18 10:13:04
 image: 'https://m.media-amazon.com/images/I/21amEDclMeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0893CHDSH-es LG SN9YG - Barra de Sonido Hi-Res con Dolby Atmos 24...'
 sku: 'B0893CHDSH-es'
 tags: [  ]

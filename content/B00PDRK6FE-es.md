@@ -5,7 +5,7 @@ date: 2020-04-02 21:09:32
 image: 'https://m.media-amazon.com/images/I/5163KfNdvuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PDRK6FE-es Papel Maché SIO-2 500 g'
 sku: 'B00PDRK6FE-es'
 tags: [  ]

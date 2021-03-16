@@ -5,7 +5,7 @@ date: 2020-08-09 23:28:48
 image: 'https://m.media-amazon.com/images/I/41Y8I+nVx7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7KVCZF-es SATECHI Adaptador Multi-Puertos Delgado Tipo-C de Aluminio...'
 sku: 'B07F7KVCZF-es'
 tags: [  ]

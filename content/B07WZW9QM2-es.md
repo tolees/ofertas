@@ -5,7 +5,7 @@ date: 2020-08-30 12:58:41
 image: 'https://m.media-amazon.com/images/I/31gNuu1qMIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZW9QM2-es AOQUSSQOA Mujer Yoga Leggings Mallas Pantalones Deportivos...'
 sku: 'B07WZW9QM2-es'
 tags: [  ]

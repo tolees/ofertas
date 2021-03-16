@@ -5,7 +5,7 @@ date: 2020-04-17 15:49:13
 image: 'https://m.media-amazon.com/images/I/41P5lRxHzlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F6ZTSWW-es Salomon HYDRO 45 BELT Riñonera'
 sku: 'B07F6ZTSWW-es'
 tags: [  ]

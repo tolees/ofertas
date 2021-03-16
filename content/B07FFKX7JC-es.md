@@ -5,7 +5,7 @@ date: 2020-05-25 12:26:08
 image: 'https://m.media-amazon.com/images/I/41xmEednpxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFKX7JC-es Armani Exchange Reloj Hombre de Digital con Correa en...'
 sku: 'B07FFKX7JC-es'
 tags: [  ]

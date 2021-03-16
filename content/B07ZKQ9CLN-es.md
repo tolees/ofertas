@@ -5,7 +5,7 @@ date: 2020-05-25 16:54:02
 image: 'https://m.media-amazon.com/images/I/41sMAduDGjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKQ9CLN-es Herbal Essences Daily Detox Brillo Con Té Blanco Y Menta...'
 sku: 'B07ZKQ9CLN-es'
 tags: [  ]

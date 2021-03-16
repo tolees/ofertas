@@ -5,7 +5,7 @@ date: 2020-03-13 16:16:10
 image: 'https://m.media-amazon.com/images/I/41tZE2sDSXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0089SWZDU-es Canon EF 40mm f/2.8 STM - Objetivo para Canon Distancia...'
 sku: 'B0089SWZDU-es'
 tags: [  ]

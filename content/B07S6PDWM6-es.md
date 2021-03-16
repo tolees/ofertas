@@ -5,7 +5,7 @@ date: 2020-09-22 23:00:57
 image: 'https://m.media-amazon.com/images/I/31SgXw4KKWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6PDWM6-es PUMA Smash V2 L Zapatillas Unisex Adulto Weiß White High...'
 sku: 'B07S6PDWM6-es'
 tags: [  ]

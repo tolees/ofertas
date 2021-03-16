@@ -5,7 +5,7 @@ date: 2020-04-25 08:20:45
 image: 'https://m.media-amazon.com/images/I/41f3NjjTpyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XRDFYDU-es Swiss Military 6-4251.04.007'
 sku: 'B00XRDFYDU-es'
 tags: [  ]

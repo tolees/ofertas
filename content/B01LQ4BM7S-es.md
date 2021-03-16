@@ -5,7 +5,7 @@ date: 2020-02-15 03:20:07
 image: 'https://m.media-amazon.com/images/I/41pyYhNoKFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQ4BM7S-es Razer Goliathus Speed Cosmic Extended - Suave alfombrilla...'
 sku: 'B01LQ4BM7S-es'
 tags: [  ]

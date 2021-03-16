@@ -5,7 +5,7 @@ date: 2020-04-03 14:14:20
 image: 'https://m.media-amazon.com/images/I/31rmA3UGKqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GZ3F2WW-es Fonestar STV-649B - Soporte TV orientable brazo articulado'
 sku: 'B00GZ3F2WW-es'
 tags: [  ]

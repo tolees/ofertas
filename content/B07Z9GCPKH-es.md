@@ -5,7 +5,7 @@ date: 2020-08-21 15:21:36
 image: 'https://m.media-amazon.com/images/I/41v53OIhCoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9GCPKH-es Klarstein Bella Elegance robot de cocina - 1300W/1 7PS en...'
 sku: 'B07Z9GCPKH-es'
 tags: [  ]

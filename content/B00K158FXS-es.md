@@ -5,7 +5,7 @@ date: 2020-01-05 16:56:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-G2Rh7BuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K158FXS-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B00K158FXS-es'
 tags: [  ]

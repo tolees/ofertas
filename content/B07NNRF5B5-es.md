@@ -5,7 +5,7 @@ date: 2020-03-20 15:18:34
 image: 'https://m.media-amazon.com/images/I/31zmqbx79dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNRF5B5-es Levi s LEVIS FOOTWEAR AND ACCESSORIES Cloverdale Cinturón...'
 sku: 'B07NNRF5B5-es'
 tags: [  ]

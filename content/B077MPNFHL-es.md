@@ -5,7 +5,7 @@ date: 2020-02-06 10:19:56
 image: 'https://m.media-amazon.com/images/I/41bvexIr-hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MPNFHL-es Puma Vikky Platform Ribbon P Zapatillas para Mujer Negro...'
 sku: 'B077MPNFHL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 10:45:56
 image: 'https://m.media-amazon.com/images/I/41Gnp7M9p0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K49KULK-es TheHealthyTree Company Espirulina Orgánica en Polvo - 250g'
 sku: 'B01K49KULK-es'
 tags: [  ]

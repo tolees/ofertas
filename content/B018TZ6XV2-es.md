@@ -5,7 +5,7 @@ date: 2020-04-03 07:02:47
 image: 'https://m.media-amazon.com/images/I/41WykGuHZOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018TZ6XV2-es Dormio Zafiro - Colchón viscoelástico Blanco 120 x 190 x...'
 sku: 'B018TZ6XV2-es'
 tags: [  ]

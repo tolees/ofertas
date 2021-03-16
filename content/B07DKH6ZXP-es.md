@@ -5,7 +5,7 @@ date: 2020-04-04 19:57:01
 image: 'https://m.media-amazon.com/images/I/41UQ+nm7XSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKH6ZXP-es Kipling - New Hiphurray Bolsos totes Mujer Multicolor...'
 sku: 'B07DKH6ZXP-es'
 tags: [  ]

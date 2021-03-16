@@ -5,7 +5,7 @@ date: 2020-08-24 07:24:35
 image: 'https://m.media-amazon.com/images/I/41G3EhdIwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWRPG55-es Tamaris 1-1-28339-24 Sandalia con Pulsera para Mujer Rosa...'
 sku: 'B07VWRPG55-es'
 tags: [  ]

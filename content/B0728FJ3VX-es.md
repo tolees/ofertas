@@ -5,7 +5,7 @@ date: 2020-01-18 13:48:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31pPTbgYH-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0728FJ3VX-es RED WAGON Zapatillas Altas para Niñas Rosa Pink 30.5 EU'
 sku: 'B0728FJ3VX-es'
 tags: [  ]

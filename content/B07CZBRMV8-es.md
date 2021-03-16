@@ -5,7 +5,7 @@ date: 2020-01-20 09:47:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51IAFAGKX2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZBRMV8-es MyCartridge Compatible con HP 44A CF244A Cartucho de Tóner...'
 sku: 'B07CZBRMV8-es'
 tags: [  ]

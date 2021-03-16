@@ -5,7 +5,7 @@ date: 2020-04-22 16:04:02
 image: 'https://m.media-amazon.com/images/I/610rnu4yekL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKHZ2KV-es LeYi Funda Huawei P Smart 2018 Silicona Purpurina Carcasa...'
 sku: 'B07GKHZ2KV-es'
 tags: [  ]

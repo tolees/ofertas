@@ -5,7 +5,7 @@ date: 2020-08-05 08:05:02
 image: 'https://m.media-amazon.com/images/I/31PAQDAtF-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OB701HA-es Puma PUMA UNISEX SNEAKER PLAIN 3P Calcetines Unisex adulto...'
 sku: 'B00OB701HA-es'
 tags: [  ]

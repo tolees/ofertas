@@ -5,7 +5,7 @@ date: 2020-07-23 21:54:37
 image: 'https://m.media-amazon.com/images/I/41qNHHZ-pcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0783SNLN3-es PUMA Smash V2 Zapatillas Unisex-Adulto Negro Black Black...'
 sku: 'B0783SNLN3-es'
 tags: [  ]

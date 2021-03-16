@@ -5,7 +5,7 @@ date: 2020-04-20 06:20:28
 image: 'https://m.media-amazon.com/images/I/519UCqVufHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5C9SWB-es Suunto Traverse Alpha Black Red'
 sku: 'B01N5C9SWB-es'
 tags: [  ]

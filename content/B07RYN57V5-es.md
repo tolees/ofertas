@@ -5,7 +5,7 @@ date: 2020-05-17 23:54:03
 image: 'https://m.media-amazon.com/images/I/41vG+gPKezL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYN57V5-es New Balance 411 Zapatillas de Running para Mujer Rosa Pink...'
 sku: 'B07RYN57V5-es'
 tags: [  ]

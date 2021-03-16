@@ -5,7 +5,7 @@ date: 2020-09-11 19:46:56
 image: 'https://m.media-amazon.com/images/I/31hAKJpcJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G9BUA7M-es Beronia 198 Barricas Vino D.O.CA. Rioja - 750 ml'
 sku: 'B00G9BUA7M-es'
 tags: [  ]

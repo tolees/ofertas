@@ -5,7 +5,7 @@ date: 2020-01-31 00:21:20
 image: 'https://m.media-amazon.com/images/I/41ICd4YX3+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB5CV3V-es PUMA Originals Gym Sack Bolsa De Cuerdas Adultos Unisex...'
 sku: 'B07RB5CV3V-es'
 tags: [  ]

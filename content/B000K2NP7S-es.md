@@ -5,7 +5,7 @@ date: 2020-02-14 09:32:32
 image: 'https://m.media-amazon.com/images/I/51ZFP4bFbQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000K2NP7S-es Mannesmann - M11242 - Juego de destornilladores 42 piezas.'
 sku: 'B000K2NP7S-es'
 tags: [  ]

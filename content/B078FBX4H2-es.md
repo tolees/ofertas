@@ -5,7 +5,7 @@ date: 2020-01-12 10:09:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31XWDidGxDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078FBX4H2-es Crocs Classic Slipper Zapatillas de Estar por casa Unisex...'
 sku: 'B078FBX4H2-es'
 tags: [  ]

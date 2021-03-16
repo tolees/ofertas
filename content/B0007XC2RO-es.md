@@ -5,7 +5,7 @@ date: 2020-08-09 13:24:09
 image: 'https://m.media-amazon.com/images/I/41zWw5c8wDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0007XC2RO-es Intex 59631NP - Set de reparación parches autoadhesivos 7...'
 sku: 'B0007XC2RO-es'
 tags: [  ]

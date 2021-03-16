@@ -5,7 +5,7 @@ date: 2020-09-25 17:03:20
 image: 'https://m.media-amazon.com/images/I/31YRHAJLfCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VBIB1LW-es PNY Attaché 4 - Memoria USB 3.0 de 16 GB'
 sku: 'B00VBIB1LW-es'
 tags: [  ]

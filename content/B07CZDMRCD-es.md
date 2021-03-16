@@ -5,7 +5,7 @@ date: 2020-05-24 12:40:26
 image: 'https://m.media-amazon.com/images/I/41v3hX6BEuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZDMRCD-es PUMA Basket Heart Patent WN S Zapatillas para Mujer Gris...'
 sku: 'B07CZDMRCD-es'
 tags: [  ]

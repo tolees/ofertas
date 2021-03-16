@@ -5,7 +5,7 @@ date: 2020-08-30 16:55:09
 image: 'https://m.media-amazon.com/images/I/41eTeiRcX2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07989VXRW-es Fossil Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07989VXRW-es'
 tags: [  ]

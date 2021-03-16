@@ -5,7 +5,7 @@ date: 2020-06-19 12:49:19
 image: 'https://m.media-amazon.com/images/I/41-q1slOCiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3WWNPY-es New Balance 574v2 Zapatillas para Mujer Rojo Red Sob 35 EU'
 sku: 'B07S3WWNPY-es'
 tags: [  ]

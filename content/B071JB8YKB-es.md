@@ -5,7 +5,7 @@ date: 2020-06-24 08:55:51
 image: 'https://m.media-amazon.com/images/I/41Ky92NMGGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JB8YKB-es MagicLux Tech 11 a 11 6 Pulgadas Funda Protectora para...'
 sku: 'B071JB8YKB-es'
 tags: [  ]

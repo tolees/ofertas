@@ -5,7 +5,7 @@ date: 2020-03-26 08:23:18
 image: 'https://m.media-amazon.com/images/I/41w2aX8HreL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OHFCA8Y-es Kappa Corato Punto deportivo Hombre Azul Royal L'
 sku: 'B00OHFCA8Y-es'
 tags: [  ]

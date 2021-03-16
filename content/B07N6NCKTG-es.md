@@ -5,7 +5,7 @@ date: 2020-02-23 11:48:39
 image: 'https://m.media-amazon.com/images/I/41ANRx+MHxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6NCKTG-es Lico Cathrin Botas de Nieve para Niñas Rosa Pink/Silber 25 EU'
 sku: 'B07N6NCKTG-es'
 tags: [  ]

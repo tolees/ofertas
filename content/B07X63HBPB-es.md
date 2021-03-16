@@ -5,7 +5,7 @@ date: 2020-07-19 07:42:23
 image: 'https://m.media-amazon.com/images/I/51VK1ci7RRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X63HBPB-es Asterix & Obelix XXL3: The Crystal Menhir - Limited Edition'
 sku: 'B07X63HBPB-es'
 tags: [  ]

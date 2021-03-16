@@ -5,7 +5,7 @@ date: 2020-05-19 21:04:00
 image: 'https://m.media-amazon.com/images/I/311-UC6gzYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGGG1SY-es Buff Shady Gorra Treck Mujer Brindle Browm S'
 sku: 'B07KGGG1SY-es'
 tags: [  ]

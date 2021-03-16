@@ -5,7 +5,7 @@ date: 2020-05-13 17:46:41
 image: 'https://m.media-amazon.com/images/I/41RunsWU-DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082QSBQ8V-es Tablet Funda para Huawei MEDIAPAD T1 10 Honor Note 9.6...'
 sku: 'B082QSBQ8V-es'
 tags: [  ]

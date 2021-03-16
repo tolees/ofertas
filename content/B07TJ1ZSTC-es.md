@@ -5,7 +5,7 @@ date: 2020-02-26 19:39:59
 image: 'https://m.media-amazon.com/images/I/41nGtyjKP-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ1ZSTC-es New Balance Fresh Foam Zante Pursuit Women s Zapatillas...'
 sku: 'B07TJ1ZSTC-es'
 tags: [  ]

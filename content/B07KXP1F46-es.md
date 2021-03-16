@@ -5,7 +5,7 @@ date: 2020-05-23 17:40:55
 image: 'https://m.media-amazon.com/images/I/31cuW1-VF7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXP1F46-es Mini vaporizador facial de la niebla del aerosol nano del...'
 sku: 'B07KXP1F46-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-05 13:15:28
 image: 'https://m.media-amazon.com/images/I/31v00i+UtuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZGZQZGV-es ZOZOSEP Azucarero para medir el azúcar Azucarero de Acero...'
 sku: 'B07ZGZQZGV-es'
 tags: [  ]

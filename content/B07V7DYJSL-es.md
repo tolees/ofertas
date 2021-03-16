@@ -5,7 +5,7 @@ date: 2020-04-26 15:10:32
 image: 'https://m.media-amazon.com/images/I/31RDdBrV9CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7DYJSL-es JACK & JONES Jjiace Jjworker WW Pantalones Verde Olive...'
 sku: 'B07V7DYJSL-es'
 tags: [  ]

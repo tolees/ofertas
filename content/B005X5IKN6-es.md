@@ -5,7 +5,7 @@ date: 2020-01-19 23:41:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31TZYxdMNUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005X5IKN6-es Ted Lapidus Black Soul Imperial - Agua de toilette 50 ml'
 sku: 'B005X5IKN6-es'
 tags: [  ]

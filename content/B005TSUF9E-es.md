@@ -5,7 +5,7 @@ date: 2020-06-30 16:02:02
 image: 'https://m.media-amazon.com/images/I/41b2VuHExyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005TSUF9E-es GRAND CANYON Robson 3 – tienda tipo túnel tienda para 3...'
 sku: 'B005TSUF9E-es'
 tags: [  ]

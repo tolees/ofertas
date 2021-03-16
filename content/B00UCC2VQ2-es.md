@@ -5,7 +5,7 @@ date: 2020-07-03 16:22:03
 image: 'https://m.media-amazon.com/images/I/41fMyjdyVnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UCC2VQ2-es Vitroclen Limpiador de Vitrocerámica en crema acción...'
 sku: 'B00UCC2VQ2-es'
 tags: [  ]

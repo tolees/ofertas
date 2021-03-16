@@ -5,7 +5,7 @@ date: 2020-01-23 13:51:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51cMxqTKFcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757GNNWF-es URCERI Telémetro Láser 60m Medidor Láser de...'
 sku: 'B0757GNNWF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-13 20:02:02
 image: 'https://m.media-amazon.com/images/I/41D+Q8shlVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHWW749-es Juego de Tronos Toalla Targaryen'
 sku: 'B07QHWW749-es'
 tags: [  ]

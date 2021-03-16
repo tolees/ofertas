@@ -5,7 +5,7 @@ date: 2020-03-29 18:04:54
 image: 'https://m.media-amazon.com/images/I/41e0RK-2M1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQVJ3GK-es Napapijri DAMAVAND V Suéter Azul French Blue Bb7 L para...'
 sku: 'B07MQVJ3GK-es'
 tags: [  ]

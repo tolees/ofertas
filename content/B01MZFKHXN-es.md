@@ -5,7 +5,7 @@ date: 2020-10-02 10:12:09
 image: 'https://m.media-amazon.com/images/I/31XMcfaewrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZFKHXN-es L Oreal Paris Colorista Fader - Champú Borrador del color...'
 sku: 'B01MZFKHXN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-28 11:45:46
 image: 'https://m.media-amazon.com/images/I/318i0yWkDtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BQVGLQX-es ZNE 14ct 3 Colores oro'
 sku: 'B08BQVGLQX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-08 15:47:45
 image: 'https://m.media-amazon.com/images/I/51h3A5EbUuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SFNQRR-es AirPods Pro Funda Case ICARER Piel Genuina Cuero Luxury...'
 sku: 'B082SFNQRR-es'
 tags: [  ]

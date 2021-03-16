@@ -5,7 +5,7 @@ date: 2020-05-27 02:05:23
 image: 'https://m.media-amazon.com/images/I/51xy3IKZOyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079BNHSFL-es XP-Pen 16 Pro HD IPS Tableta Gráfica con Pantalla con...'
 sku: 'B079BNHSFL-es'
 tags: [  ]

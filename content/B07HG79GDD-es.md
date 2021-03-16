@@ -5,7 +5,7 @@ date: 2020-05-20 20:48:02
 image: 'https://m.media-amazon.com/images/I/41sWNVL93GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG79GDD-es New Balance Fresh Foam Vongo Zapatillas de Running para...'
 sku: 'B07HG79GDD-es'
 tags: [  ]

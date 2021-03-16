@@ -5,7 +5,7 @@ date: 2020-02-11 14:08:02
 image: 'https://m.media-amazon.com/images/I/31078lcuXKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QK372UC-es AUKEY Bluetooth Receptor portátil inalámbrico Bluetooth...'
 sku: 'B00QK372UC-es'
 tags: [  ]

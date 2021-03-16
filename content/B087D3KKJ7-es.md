@@ -5,7 +5,7 @@ date: 2020-09-29 18:34:09
 image: 'https://m.media-amazon.com/images/I/4138TG+5uRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087D3KKJ7-es PM 2.5 Filter Replacement for Bandana Activated Carbon...'
 sku: 'B087D3KKJ7-es'
 tags: [  ]

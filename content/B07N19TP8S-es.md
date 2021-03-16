@@ -5,7 +5,7 @@ date: 2020-04-14 00:23:57
 image: 'https://m.media-amazon.com/images/I/41IBdR0g02L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N19TP8S-es OurLeeme Digital Pocket Scale 0.01-500g Mini Scales Escala...'
 sku: 'B07N19TP8S-es'
 tags: [  ]

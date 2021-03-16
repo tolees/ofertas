@@ -5,7 +5,7 @@ date: 2020-03-01 21:44:49
 image: 'https://m.media-amazon.com/images/I/41Kw0FlvQWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGG48R6-es Pablosky 064644 Botas para Bebés Amarillo Amarillo...'
 sku: 'B07QGG48R6-es'
 tags: [  ]

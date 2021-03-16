@@ -5,7 +5,7 @@ date: 2020-05-27 23:38:31
 image: 'https://m.media-amazon.com/images/I/412eS8Tey1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VF73Z1H-es Max Power Digital Funda para Xiaomi Mi 9 SE 5.97" con...'
 sku: 'B07VF73Z1H-es'
 tags: [  ]

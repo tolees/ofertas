@@ -5,7 +5,7 @@ date: 2020-01-21 19:34:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Juh9TM0nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O0XMBAK-es Superga 2750 COTU Classic Zapatillas Unisex Gris Grey...'
 sku: 'B00O0XMBAK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-27 19:29:21
 image: 'https://m.media-amazon.com/images/I/31LPifAIO6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMWJVLV-es Wrangler High Rise Skinny Jeans Azul Blue Black 51l 26W /...'
 sku: 'B07MMWJVLV-es'
 tags: [  ]

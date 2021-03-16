@@ -5,7 +5,7 @@ date: 2020-02-12 10:15:18
 image: 'https://m.media-amazon.com/images/I/51WmrLEjhvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MPZV80Z-es Purina Dentalife golosina dental para Perro Grande Pack de...'
 sku: 'B01MPZV80Z-es'
 tags: [  ]

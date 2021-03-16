@@ -5,7 +5,7 @@ date: 2020-05-16 10:09:23
 image: 'https://m.media-amazon.com/images/I/41Ty7H4snKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ITVUHPK-es Wd-40 - Lubricante Doble Accion 500 Ml'
 sku: 'B00ITVUHPK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-10 17:35:28
 image: 'https://m.media-amazon.com/images/I/415bJ62l0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GS67XL-es Oihxse Transparente Funda para Xiaomi Redmi 6A Ultrafina...'
 sku: 'B086GS67XL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 01:02:51
 image: 'https://m.media-amazon.com/images/I/21mzu754uJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPSQ82P-es find. Kitten Heel Sling Back Mary Jane Negro Black 39 EU'
 sku: 'B07HPSQ82P-es'
 tags: [  ]

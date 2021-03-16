@@ -5,7 +5,7 @@ date: 2020-10-09 19:50:36
 image: 'https://m.media-amazon.com/images/I/51qAqTHtayL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NSHRYY-es Hugo Boss Orange Reloj Multiesfera para Hombre de Cuarzo...'
 sku: 'B079NSHRYY-es'
 tags: [  ]

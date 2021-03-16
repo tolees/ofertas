@@ -5,7 +5,7 @@ date: 2020-03-15 12:14:23
 image: 'https://m.media-amazon.com/images/I/319mxCpcGZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW47YM2-es Moliies W50L-5DB 802.11 AC 1200M 2.4G / 5.8G Adaptador...'
 sku: 'B07KW47YM2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 18:29:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qMVR5e7EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OHFXYFW-es Kappa Casarano - Pantalones de Deporte para Hombre Color...'
 sku: 'B00OHFXYFW-es'
 tags: [  ]

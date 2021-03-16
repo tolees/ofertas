@@ -5,7 +5,7 @@ date: 2020-01-27 21:59:14
 image: 'https://m.media-amazon.com/images/I/31kwWi4+4XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BLNSXSG-es Elizabeth Arden Prevage Suero Antienvejecimiento...'
 sku: 'B00BLNSXSG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 07:08:01
 image: 'https://m.media-amazon.com/images/I/41yKzRzymbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS4KLRX-es bugatti 431846015550 Zapatillas para Mujer Amarillo Yellow...'
 sku: 'B07VS4KLRX-es'
 tags: [  ]

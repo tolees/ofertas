@@ -5,7 +5,7 @@ date: 2020-03-14 15:33:03
 image: 'https://m.media-amazon.com/images/I/41KgBdxeBBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYA4MS1-es Bosch Professional GBH 2-28 F - Martillo perforador 3 2 J...'
 sku: 'B01LYA4MS1-es'
 tags: [  ]

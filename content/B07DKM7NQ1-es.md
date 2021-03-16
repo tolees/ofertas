@@ -5,7 +5,7 @@ date: 2020-06-11 23:01:20
 image: 'https://m.media-amazon.com/images/I/516M9WrmcwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKM7NQ1-es Imperial Confort Helsinki - Colchón Viscoelástico de...'
 sku: 'B07DKM7NQ1-es'
 tags: [  ]

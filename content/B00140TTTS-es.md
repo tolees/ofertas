@@ -5,7 +5,7 @@ date: 2020-06-06 16:05:05
 image: 'https://m.media-amazon.com/images/I/31seXFeM1eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00140TTTS-es Trixie Divisorio para el Coche Metálico Ajustable 85-140/...'
 sku: 'B00140TTTS-es'
 tags: [  ]

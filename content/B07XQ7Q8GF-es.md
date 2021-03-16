@@ -5,7 +5,7 @@ date: 2020-01-11 19:33:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QdSPBLGwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQ7Q8GF-es inphic Auriculares Bluetooth reproducción las 24 horas...'
 sku: 'B07XQ7Q8GF-es'
 tags: [  ]

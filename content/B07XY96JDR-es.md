@@ -5,7 +5,7 @@ date: 2020-09-22 17:21:47
 image: 'https://m.media-amazon.com/images/I/31EFmNS1d2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XY96JDR-es LELO SORAYA 2 Conejito masajeador Aqua para placer interno...'
 sku: 'B07XY96JDR-es'
 tags: [  ]

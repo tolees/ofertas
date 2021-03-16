@@ -5,7 +5,7 @@ date: 2020-04-17 17:36:23
 image: 'https://m.media-amazon.com/images/I/41uR1C68jSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRV9KYF-es Adidas Speedex 16.1 Boxeo Zapatillas - 39.3'
 sku: 'B01MRV9KYF-es'
 tags: [  ]

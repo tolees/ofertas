@@ -5,7 +5,7 @@ date: 2020-05-31 06:08:38
 image: 'https://m.media-amazon.com/images/I/51ohKvS1T8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBVJYM6-es Philips QP2520/64 OneBlade - Pack de recortadora de barba...'
 sku: 'B07BBVJYM6-es'
 tags: [  ]

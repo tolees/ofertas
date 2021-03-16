@@ -5,7 +5,7 @@ date: 2020-04-13 01:05:40
 image: 'https://m.media-amazon.com/images/I/412AozkbeRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WS8JTNM-es Power Bank PD 3.0 Batería Externa15800mAh con USB C QC 3.0...'
 sku: 'B07WS8JTNM-es'
 tags: [  ]

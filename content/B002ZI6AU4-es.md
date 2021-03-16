@@ -5,7 +5,7 @@ date: 2020-03-13 11:09:24
 image: 'https://m.media-amazon.com/images/I/41tnD33TSaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002ZI6AU4-es Shimano 42A09000 - Llave Ajuste Eje Pedal Tl-Pd40'
 sku: 'B002ZI6AU4-es'
 tags: [  ]

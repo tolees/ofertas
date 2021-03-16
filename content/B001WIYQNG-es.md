@@ -5,7 +5,7 @@ date: 2020-04-26 19:08:53
 image: 'https://m.media-amazon.com/images/I/41UgGp9q4-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001WIYQNG-es UTG Picatynny/Weaver Schiene Model 500 Shotgun Top Rail...'
 sku: 'B001WIYQNG-es'
 tags: [  ]

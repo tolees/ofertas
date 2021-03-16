@@ -5,7 +5,7 @@ date: 2020-04-13 11:02:44
 image: 'https://m.media-amazon.com/images/I/41zkxMzQzpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KPXBY9-es Perfume Elegante Original De 100 Ml Para Hombres Incienso...'
 sku: 'B082KPXBY9-es'
 tags: [  ]

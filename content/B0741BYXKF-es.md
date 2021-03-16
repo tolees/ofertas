@@ -5,7 +5,7 @@ date: 2020-07-06 07:48:21
 image: 'https://m.media-amazon.com/images/I/51woHl5C0WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0741BYXKF-es Haribo Ladrillo Helado - 1750 gr'
 sku: 'B0741BYXKF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 13:36:02
 image: 'https://m.media-amazon.com/images/I/41coENn6FrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086BXBW1G-es Oihxse Funda Compatible con Samsung Galaxy S20 Plus 5G...'
 sku: 'B086BXBW1G-es'
 tags: [  ]

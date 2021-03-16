@@ -5,7 +5,7 @@ date: 2020-04-11 01:02:09
 image: 'https://m.media-amazon.com/images/I/41S5EzCAH0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M61F8WH-es Swatch Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07M61F8WH-es'
 tags: [  ]

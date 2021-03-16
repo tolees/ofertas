@@ -5,7 +5,7 @@ date: 2020-05-14 06:49:26
 image: 'https://m.media-amazon.com/images/I/51SLDqyXMaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DCDGCXG-es Caterpillar Colorado Botas Hombre Beige Honey Mariner 45 EU'
 sku: 'B00DCDGCXG-es'
 tags: [  ]

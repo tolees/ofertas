@@ -5,7 +5,7 @@ date: 2020-06-30 07:27:09
 image: 'https://m.media-amazon.com/images/I/41JJpU8q74L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825MQTSF-es Quiksilver Psychic Patterns - Gorra Trucker para Chicos...'
 sku: 'B0825MQTSF-es'
 tags: [  ]

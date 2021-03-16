@@ -5,7 +5,7 @@ date: 2020-06-26 21:30:29
 image: 'https://m.media-amazon.com/images/I/31T-DCpbVuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DR5NP1G-es Lee Luke Jeans Clean Black 28W / 34L para Hombre'
 sku: 'B00DR5NP1G-es'
 tags: [  ]

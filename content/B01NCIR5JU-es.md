@@ -5,7 +5,7 @@ date: 2021-03-16 14:53:58
 image: 'https://m.media-amazon.com/images/I/41dOCRUkuFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCIR5JU-es Lip Smacker Caja de metal de Coca Cola con 6 bálsamos...'
 sku: 'B01NCIR5JU-es'
 tags: [ 'lip smacker', ]
@@ -28,9 +28,9 @@ Tienes [Lip Smacker Caja de metal de Coca Cola con 6 bálsamos labiales de aroma
 
 ℹ️:
 
-- Una lata reutilizable para coleccionar y ordenar sus pintalabios labios y otros accesorios
 - Incluye seis pintalabios con fragancias
-- Fragancias: Coca-Cola Classic, vainilla, limón, cereza, limón verde
+- Una lata reutilizable para coleccionar y ordenar sus pintalabios labios y otros accesorios
 - Se suministra en caja de metal en forma de lata Coca-Cola
+- Fragancias: Coca-Cola Classic, vainilla, limón, cereza, limón verde
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01NCIR5JU/?tag=tolees-21)

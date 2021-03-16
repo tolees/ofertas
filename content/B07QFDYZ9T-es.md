@@ -5,7 +5,7 @@ date: 2020-09-17 10:51:34
 image: 'https://m.media-amazon.com/images/I/51NSy7JhvUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFDYZ9T-es adidas Runfalcon Zapatillas para Correr para Mujer Legend...'
 sku: 'B07QFDYZ9T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-27 22:42:56
 image: 'https://m.media-amazon.com/images/I/51i8zEVx7YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00005NPSA-es Varta CR2430 - Pack de 1 pila Litio 3V 300 mAh'
 sku: 'B00005NPSA-es'
 tags: [  ]

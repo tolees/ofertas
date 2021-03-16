@@ -5,7 +5,7 @@ date: 2020-05-23 08:07:33
 image: 'https://m.media-amazon.com/images/I/51pzvbGRZIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G31WK8O-es SueH Design Juego de Manteles Individuales de 8 Unidades...'
 sku: 'B01G31WK8O-es'
 tags: [  ]

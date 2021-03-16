@@ -5,7 +5,7 @@ date: 2020-03-30 19:10:06
 image: 'https://m.media-amazon.com/images/I/31qPn8w-cYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNRGNL1-es Kelme - Zapatillas Precision Elite 2.0'
 sku: 'B07NNRGNL1-es'
 tags: [  ]

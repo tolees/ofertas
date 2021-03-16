@@ -5,7 +5,7 @@ date: 2020-01-20 18:44:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31SPKL63YTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PL25BGT-es Nike Todos Zapatillas de Entrenamiento para Hombre Blanco...'
 sku: 'B07PL25BGT-es'
 tags: [  ]

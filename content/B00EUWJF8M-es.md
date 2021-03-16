@@ -5,7 +5,7 @@ date: 2020-01-13 04:14:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hhwe1rTsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EUWJF8M-es De longhi 5513292831 - Kit de limpieza y mantenimiento...'
 sku: 'B00EUWJF8M-es'
 tags: [  ]

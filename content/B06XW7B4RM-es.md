@@ -5,7 +5,7 @@ date: 2020-07-15 13:12:35
 image: 'https://m.media-amazon.com/images/I/61TWY-7ZpDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XW7B4RM-es Hieha 23 Kit Accesorio Universal de Cámara Deportiva...'
 sku: 'B06XW7B4RM-es'
 tags: [  ]

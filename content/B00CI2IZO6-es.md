@@ -5,7 +5,7 @@ date: 2020-02-01 15:08:16
 image: 'https://m.media-amazon.com/images/I/31bGgfQLZvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CI2IZO6-es NanoCable 10.01.0102 - Cable USB 2.0 para Impresora Tipo...'
 sku: 'B00CI2IZO6-es'
 tags: [  ]

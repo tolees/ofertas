@@ -5,7 +5,7 @@ date: 2020-02-23 12:32:37
 image: 'https://m.media-amazon.com/images/I/41C2ydShCEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013P1ORS6-es Gigaset PRO SL750H. Teléfono inalámbrico para conectar a...'
 sku: 'B013P1ORS6-es'
 tags: [  ]

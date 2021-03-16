@@ -5,7 +5,7 @@ date: 2020-01-05 12:22:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Q919yZ4sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG99FDP-es PUMA Nova 2 Wn s Zapatillas Deportivas para Mujer Negro...'
 sku: 'B07KG99FDP-es'
 tags: [  ]

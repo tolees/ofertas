@@ -5,7 +5,7 @@ date: 2020-08-27 09:32:59
 image: 'https://m.media-amazon.com/images/I/31OlYl9uCAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CJWQVLE-es Vans Atwood Canvas Zapatillas para Hombre Rojo...'
 sku: 'B00CJWQVLE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-16 20:03:39
 image: 'https://m.media-amazon.com/images/I/4185Khg4yIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N33Q7LH-es Desigual Foulard Loki Bufanda Azul Medieval Blue 5074...'
 sku: 'B07N33Q7LH-es'
 tags: [  ]

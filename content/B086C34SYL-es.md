@@ -5,7 +5,7 @@ date: 2020-08-10 08:15:52
 image: 'https://m.media-amazon.com/images/I/415aJN+eIgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086C34SYL-es Luchild Baberos para Bebés Baberos de Alimentación de...'
 sku: 'B086C34SYL-es'
 tags: [  ]

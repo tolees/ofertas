@@ -5,7 +5,7 @@ date: 2020-06-10 17:23:06
 image: 'https://m.media-amazon.com/images/I/41n6nr+hTsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLLFZW2-es Superdry OL Classic Raglan Ziphood Capucha Azul Rich Blue...'
 sku: 'B07TLLFZW2-es'
 tags: [  ]

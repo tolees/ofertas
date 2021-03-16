@@ -5,7 +5,7 @@ date: 2020-03-02 23:30:25
 image: 'https://m.media-amazon.com/images/I/41Hv7lJ9glL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NWGM8O-es Joop! Homme After Shave - 75ml'
 sku: 'B000NWGM8O-es'
 tags: [  ]

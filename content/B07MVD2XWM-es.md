@@ -5,7 +5,7 @@ date: 2020-02-11 16:22:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4133zZKvROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVD2XWM-es Ferilinso Funda para Samsung Galaxy M20 Elegante Armadura...'
 sku: 'B07MVD2XWM-es'
 tags: [  ]

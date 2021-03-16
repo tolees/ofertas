@@ -5,7 +5,7 @@ date: 2020-05-23 13:41:10
 image: 'https://m.media-amazon.com/images/I/514qrfL1ZKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XB7PP9V-es ViVidLife Bolsa de Pañales 2 PCS Bolsa Pañales Impermeable...'
 sku: 'B07XB7PP9V-es'
 tags: [  ]

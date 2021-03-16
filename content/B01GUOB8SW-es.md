@@ -5,7 +5,7 @@ date: 2020-05-13 12:33:18
 image: 'https://m.media-amazon.com/images/I/41OQSR9SR6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GUOB8SW-es Divaz - Zapatillas Deportivas Ellie de Estampado Floral...'
 sku: 'B01GUOB8SW-es'
 tags: [  ]

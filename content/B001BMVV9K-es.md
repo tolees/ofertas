@@ -5,7 +5,7 @@ date: 2020-04-12 14:08:13
 image: 'https://m.media-amazon.com/images/I/41E2ioDw0QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BMVV9K-es Kickers Kick Hi Core Botas para Hombre Negro 46 EU'
 sku: 'B001BMVV9K-es'
 tags: [  ]

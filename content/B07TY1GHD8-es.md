@@ -5,7 +5,7 @@ date: 2020-04-23 09:03:16
 image: 'https://m.media-amazon.com/images/I/41cZojPzsCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY1GHD8-es Women s Secret Feminine 1 Guipur Lace Berry Sujetador con...'
 sku: 'B07TY1GHD8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-25 22:00:27
 image: 'https://m.media-amazon.com/images/I/51niYrP7ZUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H32CGBQ-es Newday1 Botella de Agua de Mantiene Bebidas frías por 24h...'
 sku: 'B07H32CGBQ-es'
 tags: [  ]

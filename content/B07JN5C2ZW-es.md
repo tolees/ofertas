@@ -5,7 +5,7 @@ date: 2020-08-12 06:41:58
 image: 'https://m.media-amazon.com/images/I/418w0PdgUIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JN5C2ZW-es Tural - Protector de Colchón de Cuna Impermeable con...'
 sku: 'B07JN5C2ZW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 08:56:15
 image: 'https://m.media-amazon.com/images/I/51sSXZ8EFuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBGL8Z6-es PowerBar PowerGel Hydro Cola 24x67ml - Gel Energético de...'
 sku: 'B07MBGL8Z6-es'
 tags: [  ]

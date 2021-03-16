@@ -5,7 +5,7 @@ date: 2020-02-06 12:31:21
 image: 'https://m.media-amazon.com/images/I/41l0BctPiiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWSFGK7-es Piz Buin - Protector Solar Allergy Spray SPF 15 - Loción...'
 sku: 'B07RWSFGK7-es'
 tags: [  ]

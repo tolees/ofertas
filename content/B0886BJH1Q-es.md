@@ -5,7 +5,7 @@ date: 2020-07-24 20:49:46
 image: 'https://m.media-amazon.com/images/I/41-ykA9RR4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0886BJH1Q-es Niños Desechables de Filtro de Tres Capas con Pendientes...'
 sku: 'B0886BJH1Q-es'
 tags: [  ]

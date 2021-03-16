@@ -5,7 +5,7 @@ date: 2020-02-08 04:36:13
 image: 'https://m.media-amazon.com/images/I/51LbVRCyi+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XBNNB1-es Rebel Heart Tour [Blu-ray]'
 sku: 'B073XBNNB1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 14:03:43
 image: 'https://m.media-amazon.com/images/I/31lwuZxz0eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5YBCOQ-es Astor Lash Beautifier Volume&Tint Máscara de Pestañas Tono...'
 sku: 'B01N5YBCOQ-es'
 tags: [  ]

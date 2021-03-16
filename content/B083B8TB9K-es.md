@@ -5,7 +5,7 @@ date: 2020-07-20 12:08:50
 image: 'https://m.media-amazon.com/images/I/41ykj0oZmTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083B8TB9K-es Aigostar Diane 32QYD - Secador de pelo 1800W ocupa poco...'
 sku: 'B083B8TB9K-es'
 tags: [  ]

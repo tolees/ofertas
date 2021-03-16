@@ -5,7 +5,7 @@ date: 2020-10-12 09:14:24
 image: 'https://m.media-amazon.com/images/I/31V68WDWjFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HM8QM7S-es CHS Caja de Almacenamiento de máscara portátil Caja de...'
 sku: 'B08HM8QM7S-es'
 tags: [  ]

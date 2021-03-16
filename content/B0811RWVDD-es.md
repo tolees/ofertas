@@ -5,7 +5,7 @@ date: 2020-08-13 20:37:06
 image: 'https://m.media-amazon.com/images/I/41+RH9n8-jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811RWVDD-es Rizador de pestañas con calefacción eléctrica TOUCHBeauty...'
 sku: 'B0811RWVDD-es'
 tags: [  ]

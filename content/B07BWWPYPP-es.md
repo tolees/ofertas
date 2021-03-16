@@ -5,7 +5,7 @@ date: 2020-03-12 19:57:40
 image: 'https://m.media-amazon.com/images/I/413Nzwx8GgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BWWPYPP-es CMP Ahto Náuticos Unisex Niños Gris Antracite U423 25 EU'
 sku: 'B07BWWPYPP-es'
 tags: [  ]

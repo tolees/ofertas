@@ -5,7 +5,7 @@ date: 2020-05-24 18:39:16
 image: 'https://m.media-amazon.com/images/I/51ZQrBeM+pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPWVZFB-es Soulcalibur VI - Edición Coleccionista'
 sku: 'B07DPWVZFB-es'
 tags: [  ]

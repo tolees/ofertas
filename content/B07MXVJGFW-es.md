@@ -5,7 +5,7 @@ date: 2020-06-13 08:07:34
 image: 'https://m.media-amazon.com/images/I/41URggJQObL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXVJGFW-es upHere 300mm Cable con Manguito - Extensión de Cable para...'
 sku: 'B07MXVJGFW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-25 18:12:04
 image: 'https://m.media-amazon.com/images/I/41L06bbN+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHR7DCS-es SELECTED FEMME Slfanna LS X-mas Knit O-Neck B suéter...'
 sku: 'B07WHR7DCS-es'
 tags: [  ]

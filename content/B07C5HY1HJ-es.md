@@ -5,7 +5,7 @@ date: 2020-09-18 12:01:52
 image: 'https://m.media-amazon.com/images/I/41tfMPxMOmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5HY1HJ-es Polaroid Originals - 9008 - Nuevo One Step 2 ViewFinder -...'
 sku: 'B07C5HY1HJ-es'
 tags: [  ]

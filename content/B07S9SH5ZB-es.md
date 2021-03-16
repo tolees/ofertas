@@ -5,7 +5,7 @@ date: 2020-06-25 23:30:51
 image: 'https://m.media-amazon.com/images/I/419gurehyoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9SH5ZB-es PUMA Future 5.3 Netfit FG/AG Zapatillas de fútbol para...'
 sku: 'B07S9SH5ZB-es'
 tags: [  ]

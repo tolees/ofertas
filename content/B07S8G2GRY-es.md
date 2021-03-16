@@ -5,7 +5,7 @@ date: 2020-02-13 06:56:35
 image: 'https://m.media-amazon.com/images/I/41zUza3AoPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8G2GRY-es Vicloon Arnes Bebes Correa Bebe Para Caminar Arnés de...'
 sku: 'B07S8G2GRY-es'
 tags: [  ]

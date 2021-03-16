@@ -5,7 +5,7 @@ date: 2020-06-01 13:06:40
 image: 'https://m.media-amazon.com/images/I/41TRmFTdLvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0123ZWFRK-es BRA Plancha Asar Negro 40 cm'
 sku: 'B0123ZWFRK-es'
 tags: [  ]

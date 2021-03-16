@@ -5,7 +5,7 @@ date: 2020-09-21 15:46:21
 image: 'https://m.media-amazon.com/images/I/31CqW74b4pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SF4MYJ-es Funda Universal para Tableta portátil Funda Ultra Suave...'
 sku: 'B083SF4MYJ-es'
 tags: [  ]

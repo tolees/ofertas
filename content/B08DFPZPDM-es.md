@@ -5,7 +5,7 @@ date: 2020-09-09 17:45:31
 image: 'https://m.media-amazon.com/images/I/51jbE2Uor9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFPZPDM-es DIY Taladro Completo 5D Kits de Pintura de Diamantes...'
 sku: 'B08DFPZPDM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-12 03:07:52
 image: 'https://m.media-amazon.com/images/I/31hAYQcKYPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XWXP9NT-es Ens-ḁnc-hḁdṎr tḁ-po-n ure-trḁl dḮlḁtḁ-dṎr enc-hufe del...'
 sku: 'B07XWXP9NT-es'
 tags: [  ]

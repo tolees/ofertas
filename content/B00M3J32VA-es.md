@@ -5,7 +5,7 @@ date: 2020-04-19 16:14:08
 image: 'https://m.media-amazon.com/images/I/41CNdjVy4aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M3J32VA-es Nixon Men s Wristwatch - rose gold - A0452001'
 sku: 'B00M3J32VA-es'
 tags: [  ]

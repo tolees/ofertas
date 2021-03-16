@@ -5,7 +5,7 @@ date: 2020-07-15 13:12:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/315i8TXnfGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CIEBU22-es Sandisk iXpand - Memoria flash USB de 32 GB para iPhone y...'
 sku: 'B01CIEBU22-es'
 tags: [  ]

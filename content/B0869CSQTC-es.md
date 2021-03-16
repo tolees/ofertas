@@ -5,7 +5,7 @@ date: 2020-07-08 14:02:11
 image: 'https://m.media-amazon.com/images/I/51Vfyzyyp8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0869CSQTC-es Longspeed Honeycomb - Puertos de Carga USB Individuales...'
 sku: 'B0869CSQTC-es'
 tags: [  ]

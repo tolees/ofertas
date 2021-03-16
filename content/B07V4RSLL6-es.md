@@ -5,7 +5,7 @@ date: 2020-07-01 04:23:54
 image: 'https://m.media-amazon.com/images/I/315yZynKKsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4RSLL6-es Tommy Hilfiger - Poppy Tote Bolsos totes Mujer Amarillo...'
 sku: 'B07V4RSLL6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-24 15:57:27
 image: 'https://m.media-amazon.com/images/I/31VIlcStWmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J9WQS9Q-es Philips Sonicare Diamond Clean HX9312/04 - Cepillo de...'
 sku: 'B01J9WQS9Q-es'
 tags: [  ]

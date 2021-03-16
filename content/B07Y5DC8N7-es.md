@@ -5,7 +5,7 @@ date: 2020-04-01 17:02:53
 image: 'https://m.media-amazon.com/images/I/410Icbu1roL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5DC8N7-es MEOMY Licuadora Prensado en Frio Licuadora Frutas Verduras...'
 sku: 'B07Y5DC8N7-es'
 tags: [  ]

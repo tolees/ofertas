@@ -5,7 +5,7 @@ date: 2020-07-13 09:57:40
 image: 'https://m.media-amazon.com/images/I/4124G2Fd+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1P3SJX-es AH Kalkaire - Blanqueamiento dental - Carbón activo de...'
 sku: 'B07N1P3SJX-es'
 tags: [  ]

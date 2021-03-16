@@ -5,7 +5,7 @@ date: 2020-01-14 02:29:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WZbuAFglL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MRVIY7G-es Big Boy Golden XXL Capsulas - 45 Tabletas'
 sku: 'B00MRVIY7G-es'
 tags: [  ]

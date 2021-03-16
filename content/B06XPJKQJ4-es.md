@@ -5,7 +5,7 @@ date: 2020-07-03 05:41:00
 image: 'https://m.media-amazon.com/images/I/517rG2aHOWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPJKQJ4-es IEFIEL Vestidos de Princesa Fiesta Bautizo Tutú con Braga...'
 sku: 'B06XPJKQJ4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-19 15:02:46
 image: 'https://m.media-amazon.com/images/I/31vDeB7AK3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FMR49W-es Hd101 2.5"USB 3.0 Disco Duro Externo Caja de extracción de...'
 sku: 'B088FMR49W-es'
 tags: [  ]

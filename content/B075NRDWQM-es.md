@@ -5,7 +5,7 @@ date: 2020-02-01 12:04:21
 image: 'https://m.media-amazon.com/images/I/31UHMseNnxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NRDWQM-es Trangoworld Trx2 PES Stretch WM Pro Pant. Largo Mujer...'
 sku: 'B075NRDWQM-es'
 tags: [  ]

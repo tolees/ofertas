@@ -5,7 +5,7 @@ date: 2020-05-10 13:01:50
 image: 'https://m.media-amazon.com/images/I/41v-BHRA-OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084P6QPCM-es Motherly Love Play Boca Chupete Boca Silicona Cierre...'
 sku: 'B084P6QPCM-es'
 tags: [  ]

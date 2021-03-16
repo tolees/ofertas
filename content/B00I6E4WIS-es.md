@@ -5,7 +5,7 @@ date: 2020-08-08 21:09:57
 image: 'https://m.media-amazon.com/images/I/41HCM9JlRQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I6E4WIS-es L Oreal Paris Make-up Designer Polvo Bronceador Glam...'
 sku: 'B00I6E4WIS-es'
 tags: [  ]

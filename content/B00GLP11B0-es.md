@@ -5,7 +5,7 @@ date: 2020-04-17 00:30:58
 image: 'https://m.media-amazon.com/images/I/41ziPlUa0WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GLP11B0-es Elbe Regleta Enchufes Esquina Enchufes multiple con 3...'
 sku: 'B00GLP11B0-es'
 tags: [  ]

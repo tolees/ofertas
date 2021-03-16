@@ -5,7 +5,7 @@ date: 2020-02-17 21:20:10
 image: 'https://m.media-amazon.com/images/I/611h1tiYIyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WWD4RLL-es Guilty Gear XRD: Rev2'
 sku: 'B06WWD4RLL-es'
 tags: [  ]

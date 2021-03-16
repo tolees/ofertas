@@ -5,7 +5,7 @@ date: 2020-06-21 19:43:51
 image: 'https://m.media-amazon.com/images/I/41tnUR9oCDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018TMPIPW-es National Geographic 9083000 Action Camera - Videocámara'
 sku: 'B018TMPIPW-es'
 tags: [  ]

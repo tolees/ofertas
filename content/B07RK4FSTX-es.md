@@ -5,7 +5,7 @@ date: 2020-04-03 16:57:05
 image: 'https://m.media-amazon.com/images/I/41nFttbrDFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK4FSTX-es Nike Renew Lucent PS Zapatillas Unisex Niños Negro...'
 sku: 'B07RK4FSTX-es'
 tags: [  ]

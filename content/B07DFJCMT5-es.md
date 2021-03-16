@@ -5,7 +5,7 @@ date: 2020-07-05 07:34:18
 image: 'https://m.media-amazon.com/images/I/51hvKmG-FrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFJCMT5-es Funko-Pop Heroes: Aquaman-Arthur Curry as Gladiator DC...'
 sku: 'B07DFJCMT5-es'
 tags: [  ]

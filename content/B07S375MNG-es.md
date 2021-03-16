@@ -5,7 +5,7 @@ date: 2020-08-11 11:07:00
 image: 'https://m.media-amazon.com/images/I/41R+zX9V1GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S375MNG-es Plastificadora A4 A5 A7 ABOX OL145 Máquina para...'
 sku: 'B07S375MNG-es'
 tags: [  ]

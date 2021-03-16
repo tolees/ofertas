@@ -5,7 +5,7 @@ date: 2020-02-06 10:10:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hb22VoV%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078MDPC2Y-es Asics Gel-Pulse 9 Zapatillas de Entrenamiento para Mujer...'
 sku: 'B078MDPC2Y-es'
 tags: [  ]

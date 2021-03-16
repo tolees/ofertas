@@ -5,7 +5,7 @@ date: 2020-08-07 08:36:17
 image: 'https://m.media-amazon.com/images/I/311XnCd+TgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C8CSTOQ-es Grohe Vitalio Start - Sistema de ducha con termostato...'
 sku: 'B01C8CSTOQ-es'
 tags: [  ]

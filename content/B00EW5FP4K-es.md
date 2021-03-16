@@ -5,7 +5,7 @@ date: 2020-02-06 12:20:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31mUWikiR2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EW5FP4K-es Nike Revolution 4 GS Zapatillas de Running para unisexo...'
 sku: 'B00EW5FP4K-es'
 tags: [  ]

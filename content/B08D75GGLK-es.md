@@ -5,7 +5,7 @@ date: 2020-08-29 18:06:02
 image: 'https://m.media-amazon.com/images/I/41D0YqowpbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D75GGLK-es N-a Amplificador Señal WiFi 300Mbps/2.4 GHz Repetidores...'
 sku: 'B08D75GGLK-es'
 tags: [  ]

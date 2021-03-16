@@ -5,7 +5,7 @@ date: 2020-09-01 19:45:59
 image: 'https://m.media-amazon.com/images/I/51VGMjEVZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVH898C-es Kipling Gabbie S Bolsos Bandolera para Mujer Azul Methyl...'
 sku: 'B07MVH898C-es'
 tags: [  ]

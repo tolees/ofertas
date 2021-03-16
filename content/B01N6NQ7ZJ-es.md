@@ -5,7 +5,7 @@ date: 2020-08-09 15:14:45
 image: 'https://m.media-amazon.com/images/I/31k2HGP+2EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6NQ7ZJ-es Magno - Gel de Ducha Black - Energizante con toque...'
 sku: 'B01N6NQ7ZJ-es'
 tags: [  ]

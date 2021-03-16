@@ -5,7 +5,7 @@ date: 2020-01-22 13:49:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Vp6VjdSDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0040JHLOK-es Bburago 15631204 - Garaje de Ferrari con dos coches escala...'
 sku: 'B0040JHLOK-es'
 tags: [  ]

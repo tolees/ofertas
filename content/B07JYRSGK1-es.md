@@ -5,7 +5,7 @@ date: 2020-01-27 14:49:56
 image: 'https://m.media-amazon.com/images/I/41WWB-ALSDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYRSGK1-es Tommy Hilfiger Corp Merge tee Top Deportivo Amarillo...'
 sku: 'B07JYRSGK1-es'
 tags: [  ]

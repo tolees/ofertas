@@ -5,7 +5,7 @@ date: 2020-06-08 22:51:10
 image: 'https://m.media-amazon.com/images/I/516f2a8Q0pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXLFA76-es Cruzcampo Cerveza - Paquete de 24 x 250 ml - Total: 6000 ml'
 sku: 'B01LXLFA76-es'
 tags: [  ]

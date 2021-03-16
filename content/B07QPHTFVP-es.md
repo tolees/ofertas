@@ -5,7 +5,7 @@ date: 2020-05-27 17:58:48
 image: 'https://m.media-amazon.com/images/I/51HtAbW6DlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPHTFVP-es Cressi Rantau Bag Bolsa para Piscina/Deporte Adultos...'
 sku: 'B07QPHTFVP-es'
 tags: [  ]

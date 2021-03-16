@@ -5,7 +5,7 @@ date: 2020-06-08 18:04:01
 image: 'https://m.media-amazon.com/images/I/41sexuCi2XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0015XHOKA-es DeBuyer Comprador De Mini automático del pistón Embudo 0 8...'
 sku: 'B0015XHOKA-es'
 tags: [  ]

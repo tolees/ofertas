@@ -5,7 +5,7 @@ date: 2020-09-05 11:37:37
 image: 'https://m.media-amazon.com/images/I/31eybdXmXbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SZ1LHJ-es Melchioni - Mini Nevera de Bar silencioso 50 L Nevera...'
 sku: 'B089SZ1LHJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 08:16:51
 image: 'https://m.media-amazon.com/images/I/614msy5Xn3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BQPTZD-es MENGH Teppich Küche 140x140cm Schlafzimmer Teppiche...'
 sku: 'B083BQPTZD-es'
 tags: [  ]

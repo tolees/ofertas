@@ -5,7 +5,7 @@ date: 2020-08-13 19:30:26
 image: 'https://m.media-amazon.com/images/I/41WB3WzXjrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1TTVRP-es Suizo Digital Dulect IP66 Caja de Sonido a Prueba de Agua...'
 sku: 'B07G1TTVRP-es'
 tags: [  ]

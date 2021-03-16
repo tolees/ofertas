@@ -5,7 +5,7 @@ date: 2020-04-23 10:58:31
 image: 'https://m.media-amazon.com/images/I/41F-AIazOHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VW753PP-es JACK & JONES Jorrafael Sweat Hood Capucha Rojo Brick...'
 sku: 'B07VW753PP-es'
 tags: [  ]

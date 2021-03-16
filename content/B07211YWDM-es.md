@@ -5,7 +5,7 @@ date: 2020-01-03 16:51:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418kAZFztPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07211YWDM-es Smoby-3032164106172 PJ Masks Pizarra Color Azul Verde Rojo...'
 sku: 'B07211YWDM-es'
 tags: [  ]

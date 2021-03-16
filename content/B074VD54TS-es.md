@@ -5,7 +5,7 @@ date: 2020-05-29 05:50:00
 image: 'https://m.media-amazon.com/images/I/41FQfe5cDZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074VD54TS-es AmazonBasics – Cable USB 2.0 A a micro USB B con trenzado...'
 sku: 'B074VD54TS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-28 19:45:39
 image: 'https://m.media-amazon.com/images/I/51w6lL97vmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8KYB37-es MOSNOVO [Ultra Hybrid Funda iPhone XR protección híbrida...'
 sku: 'B07K8KYB37-es'
 tags: [  ]

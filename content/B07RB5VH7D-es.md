@@ -5,7 +5,7 @@ date: 2020-05-30 13:57:54
 image: 'https://m.media-amazon.com/images/I/31x0pZQw4pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB5VH7D-es PrimeMatik - Cubierta de Asiento de Coche. Funda...'
 sku: 'B07RB5VH7D-es'
 tags: [  ]

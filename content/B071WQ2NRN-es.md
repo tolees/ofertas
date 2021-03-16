@@ -5,7 +5,7 @@ date: 2020-06-26 09:47:46
 image: 'https://m.media-amazon.com/images/I/61i4a6Zh4xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WQ2NRN-es Pokémon Ultrasol'
 sku: 'B071WQ2NRN-es'
 tags: [  ]

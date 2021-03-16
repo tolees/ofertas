@@ -5,7 +5,7 @@ date: 2020-06-13 21:33:37
 image: 'https://m.media-amazon.com/images/I/51UXojIQJVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NLYX42-es RioRiva En caja de regalo los calcetines para hombre con...'
 sku: 'B082NLYX42-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-20 23:35:33
 image: 'https://m.media-amazon.com/images/I/41Qe4wpbWzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W3QO0VE-es Nokia Lumia 640 XL - Smartphone 5.7" 3G Qualcomm MSM8926...'
 sku: 'B00W3QO0VE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-13 10:45:23
 image: 'https://m.media-amazon.com/images/I/31YQY4j-4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZVFSJ7-es Merrell Vapor Glove 3 Luna Leather Zapatillas Deportivas...'
 sku: 'B07TZVFSJ7-es'
 tags: [  ]

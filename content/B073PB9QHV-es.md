@@ -5,7 +5,7 @@ date: 2020-01-28 13:27:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dl4gaNMAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073PB9QHV-es Filamento PLA Plus de la impresora SUNLU 3D filamento PLA...'
 sku: 'B073PB9QHV-es'
 tags: [  ]

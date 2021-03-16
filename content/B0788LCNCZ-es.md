@@ -5,7 +5,7 @@ date: 2020-08-28 18:31:30
 image: 'https://m.media-amazon.com/images/I/415uOLa+YtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788LCNCZ-es Garmin Vivosmart HR Activity Tracker correa de reloj de...'
 sku: 'B0788LCNCZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 13:29:40
 image: 'https://m.media-amazon.com/images/I/51KMYkBRwxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001AKE2B2-es KidKraft- Arenero de madera para niños diseño de galeón...'
 sku: 'B001AKE2B2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-26 10:33:41
 image: 'https://m.media-amazon.com/images/I/412hiKlR-OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RL7TN4-es RLTech Funda Carcasa para Huawei Matepad 10.4 2020...'
 sku: 'B087RL7TN4-es'
 tags: [  ]

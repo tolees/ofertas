@@ -5,7 +5,7 @@ date: 2020-02-21 21:29:08
 image: 'https://m.media-amazon.com/images/I/41MEAVzYqwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3WF9KV-es JACK & JONES Jfwwalcot Synthetic Suede Navy Blazer...'
 sku: 'B07R3WF9KV-es'
 tags: [  ]

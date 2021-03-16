@@ -5,7 +5,7 @@ date: 2020-08-16 22:19:33
 image: 'https://m.media-amazon.com/images/I/51Nvf-uTh3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087LYZGJ6-es L3 Tech Estuche rígido para Samsung T7 Touch SSD portátil...'
 sku: 'B087LYZGJ6-es'
 tags: [  ]

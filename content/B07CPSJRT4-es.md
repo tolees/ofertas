@@ -5,7 +5,7 @@ date: 2020-01-26 20:31:15
 image: 'https://m.media-amazon.com/images/I/61UK-qEbXGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPSJRT4-es GIGALUMI - Juego de 6 luces colgantes para tarros solares'
 sku: 'B07CPSJRT4-es'
 tags: [  ]

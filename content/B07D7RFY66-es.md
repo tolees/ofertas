@@ -5,7 +5,7 @@ date: 2020-05-15 15:08:38
 image: 'https://m.media-amazon.com/images/I/4146ZUV9QXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7RFY66-es Saucony Ride ISO Zapatillas de Running para Hombre Blanco...'
 sku: 'B07D7RFY66-es'
 tags: [  ]

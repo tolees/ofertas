@@ -5,7 +5,7 @@ date: 2020-02-10 18:46:37
 image: 'https://m.media-amazon.com/images/I/41-DsJK8f6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWD59LB-es JACK & JONES NOS Jcojonah Sweat Hood STS. Capucha Marrón...'
 sku: 'B07RWD59LB-es'
 tags: [  ]

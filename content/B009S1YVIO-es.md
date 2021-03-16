@@ -5,7 +5,7 @@ date: 2020-10-05 18:07:28
 image: 'https://m.media-amazon.com/images/I/41+tlBO7VLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009S1YVIO-es Vans Atwood Canvas Sneaker para Hombre Azul Navy/White 4k1...'
 sku: 'B009S1YVIO-es'
 tags: [  ]

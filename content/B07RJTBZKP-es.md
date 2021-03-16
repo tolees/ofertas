@@ -5,7 +5,7 @@ date: 2020-01-29 09:20:06
 image: 'https://m.media-amazon.com/images/I/41PAUhgQ54L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJTBZKP-es adidas Predator 19.3 FG Zapatillas de Fútbol para Hombre...'
 sku: 'B07RJTBZKP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 08:32:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41feywlUrsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJ5C7HJ-es Real Madrid CF- Estuche Multicolor SAFTA 811954635'
 sku: 'B07VJ5C7HJ-es'
 tags: [  ]

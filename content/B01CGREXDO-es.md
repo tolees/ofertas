@@ -5,7 +5,7 @@ date: 2020-03-13 22:07:51
 image: 'https://m.media-amazon.com/images/I/41sY-OtfGuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CGREXDO-es STANLEY FATMAX FMC694M1-QW - Pack Cargador de 2Ah con 1...'
 sku: 'B01CGREXDO-es'
 tags: [  ]

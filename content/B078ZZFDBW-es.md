@@ -5,7 +5,7 @@ date: 2020-10-06 07:34:03
 image: 'https://m.media-amazon.com/images/I/51t7wvQae7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZZFDBW-es TRESemmé Champú Hidratación Intensa - Paquete de 4 x 900...'
 sku: 'B078ZZFDBW-es'
 tags: [  ]

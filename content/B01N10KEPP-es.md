@@ -5,7 +5,7 @@ date: 2020-07-14 12:43:34
 image: 'https://m.media-amazon.com/images/I/51SUnMoyVxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N10KEPP-es Cable HDMI Premium 1.4V 3D Alta Velocidad Ultra HD...'
 sku: 'B01N10KEPP-es'
 tags: [  ]

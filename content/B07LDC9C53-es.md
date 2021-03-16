@@ -5,7 +5,7 @@ date: 2020-01-14 11:32:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514qN9CZ8ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LDC9C53-es Un Tranvia Llamado Deseo Blu-Ray - Col Oscars [Blu-ray]'
 sku: 'B07LDC9C53-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-03 16:31:16
 image: 'https://m.media-amazon.com/images/I/415dzMaudLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZYS1CV-es Love MoschinoJc4001pp1aMujerBolsos totesNegro Negro...'
 sku: 'B07RZYS1CV-es'
 tags: [  ]

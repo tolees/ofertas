@@ -5,7 +5,7 @@ date: 2020-05-22 11:51:59
 image: 'https://m.media-amazon.com/images/I/314JZNZZ6cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2B6ZGD-es Celio Jopry Pantalones Azul Navy Océano Navy Océano W32...'
 sku: 'B07L2B6ZGD-es'
 tags: [  ]

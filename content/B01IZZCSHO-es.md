@@ -5,7 +5,7 @@ date: 2020-04-28 08:26:51
 image: 'https://m.media-amazon.com/images/I/41yDiCgTkbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IZZCSHO-es Swiffer XXL Mopa & Completo de Sistema de Limpieza Plus 8...'
 sku: 'B01IZZCSHO-es'
 tags: [  ]

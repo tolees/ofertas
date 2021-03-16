@@ -5,7 +5,7 @@ date: 2020-09-29 21:32:37
 image: 'https://m.media-amazon.com/images/I/31yS4NLWYsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5KY2DQ-es Superga 2802-cotw Zapatillas de Gimnasia para Mujer Blanco...'
 sku: 'B07N5KY2DQ-es'
 tags: [  ]

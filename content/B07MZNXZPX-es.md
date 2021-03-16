@@ -5,7 +5,7 @@ date: 2020-02-15 17:22:55
 image: 'https://m.media-amazon.com/images/I/41wG57LOGTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZNXZPX-es Kickers Bonbon Botas Unisex bebé Violeta Violeta Oscuro...'
 sku: 'B07MZNXZPX-es'
 tags: [  ]

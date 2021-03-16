@@ -5,7 +5,7 @@ date: 2020-03-26 13:10:52
 image: 'https://m.media-amazon.com/images/I/31ufCKaNlFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSUY4Q8-es Helly Hansen W Pier 2 Pant Mujer Ebony XL'
 sku: 'B01MSUY4Q8-es'
 tags: [  ]

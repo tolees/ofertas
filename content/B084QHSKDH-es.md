@@ -5,7 +5,7 @@ date: 2020-02-29 11:50:29
 image: 'https://m.media-amazon.com/images/I/31kDzq7ypGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084QHSKDH-es Snner Mascarilla de protección bucal OP con 3 Capas 10...'
 sku: 'B084QHSKDH-es'
 tags: [  ]

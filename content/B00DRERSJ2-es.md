@@ -5,7 +5,7 @@ date: 2020-08-14 20:43:35
 image: 'https://m.media-amazon.com/images/I/41VJ2C0DKVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DRERSJ2-es BRA Bella - Vinagrera 4 Piezas Acero Inoxidable 18/10 y...'
 sku: 'B00DRERSJ2-es'
 tags: [  ]

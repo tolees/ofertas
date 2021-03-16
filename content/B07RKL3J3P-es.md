@@ -5,7 +5,7 @@ date: 2020-04-15 00:34:38
 image: 'https://m.media-amazon.com/images/I/51lX6F9+j6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKL3J3P-es Motivational Posters for Office Room Home Classroom...'
 sku: 'B07RKL3J3P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-19 19:50:44
 image: 'https://m.media-amazon.com/images/I/41ho79cMlDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08186NZWK-es siismi 2 Pares Plantillas de Tacón Alto de Silicona 3/4...'
 sku: 'B08186NZWK-es'
 tags: [  ]

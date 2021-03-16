@@ -5,7 +5,7 @@ date: 2020-09-07 03:22:55
 image: 'https://m.media-amazon.com/images/I/31kNRX8o4CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4HYFC4-es Tommy Hilfiger Hombre Denton Th Flex Satin Chino Gmd Loose...'
 sku: 'B07W4HYFC4-es'
 tags: [  ]

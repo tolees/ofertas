@@ -5,7 +5,7 @@ date: 2020-05-14 10:22:06
 image: 'https://m.media-amazon.com/images/I/41onMcKYz4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YLCM4X1-es S.Oliver Big Size 15.001.35.2335 Polo Verde Pond 6903 5XL...'
 sku: 'B07YLCM4X1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-27 15:49:46
 image: 'https://m.media-amazon.com/images/I/41bUh+MfTsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYCV42G-es Champion Freedom Seamless Soutien-Gorge de Sport Femme...'
 sku: 'B07FYCV42G-es'
 tags: [  ]

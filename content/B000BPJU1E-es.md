@@ -5,7 +5,7 @@ date: 2020-03-18 23:33:21
 image: 'https://m.media-amazon.com/images/I/41Au0cezmuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BPJU1E-es Staub - Olla Cocotte redonda hierro fundido negro mate 24 cm'
 sku: 'B000BPJU1E-es'
 tags: [  ]

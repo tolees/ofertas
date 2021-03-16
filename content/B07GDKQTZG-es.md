@@ -5,7 +5,7 @@ date: 2020-02-02 15:37:53
 image: 'https://m.media-amazon.com/images/I/31xNOfW9oXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDKQTZG-es Lámpara de trabajo de inspección con 3 modos de...'
 sku: 'B07GDKQTZG-es'
 tags: [  ]

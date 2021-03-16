@@ -5,7 +5,7 @@ date: 2020-09-29 16:10:00
 image: 'https://m.media-amazon.com/images/I/41HJHii2deL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQS4G7S-es find. Faroe Zapatillas Altas Negro Black 41 EU'
 sku: 'B07RQS4G7S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-14 18:36:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GZYDPXMEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNSTSJJ-es Robluee - Juego de Pinzas para círculos Cuatro Cabezales...'
 sku: 'B07PNSTSJJ-es'
 tags: [  ]

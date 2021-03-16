@@ -5,7 +5,7 @@ date: 2020-05-29 06:31:49
 image: 'https://m.media-amazon.com/images/I/417s45CFg+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9SQC2U-es Babyliss Ipro 230 Steam - Plancha de Vapor Profesional con...'
 sku: 'B00X9SQC2U-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 19:26:17
 image: 'https://m.media-amazon.com/images/I/51j-bGt0u5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0019TRCK2-es HP 364 - Cartucho de tinta Original HP 364 Magenta para HP...'
 sku: 'B0019TRCK2-es'
 tags: [  ]

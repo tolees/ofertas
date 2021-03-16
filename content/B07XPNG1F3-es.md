@@ -5,7 +5,7 @@ date: 2020-05-25 10:02:23
 image: 'https://m.media-amazon.com/images/I/41-J1zinp+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPNG1F3-es Jevogh GR28D Parte de Repuesto para Coche'
 sku: 'B07XPNG1F3-es'
 tags: [  ]

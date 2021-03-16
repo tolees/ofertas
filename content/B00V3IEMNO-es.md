@@ -5,7 +5,7 @@ date: 2020-09-25 21:42:51
 image: 'https://m.media-amazon.com/images/I/41lBzppz+GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V3IEMNO-es Lexar Professional - Lector de Tarjetas de Memoria Doble...'
 sku: 'B00V3IEMNO-es'
 tags: [  ]

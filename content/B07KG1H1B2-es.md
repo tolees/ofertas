@@ -5,7 +5,7 @@ date: 2020-01-18 20:21:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fiUBZuYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1H1B2-es PUMA Rebound Layup Lo SL Zapatillas Unisex Adulto White...'
 sku: 'B07KG1H1B2-es'
 tags: [  ]

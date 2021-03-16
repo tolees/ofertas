@@ -5,7 +5,7 @@ date: 2020-05-17 17:01:21
 image: 'https://m.media-amazon.com/images/I/41KVhxTS3dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0AS4GN-es Caja de Joyería Forma de Corazón Anillos Plásticos Rosada...'
 sku: 'B01M0AS4GN-es'
 tags: [  ]

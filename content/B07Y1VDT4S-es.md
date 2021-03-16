@@ -5,7 +5,7 @@ date: 2020-03-22 22:46:18
 image: 'https://m.media-amazon.com/images/I/41yjylzahtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1VDT4S-es TATAY Urban Food Roll&Go Denim Blue - Bolsa térmica porta...'
 sku: 'B07Y1VDT4S-es'
 tags: [  ]

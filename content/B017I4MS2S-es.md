@@ -5,7 +5,7 @@ date: 2020-03-05 11:32:53
 image: 'https://m.media-amazon.com/images/I/21j+--68zHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017I4MS2S-es HOMCOM Puerta Corredera 205x77.5cm Puertas Correderas...'
 sku: 'B017I4MS2S-es'
 tags: [  ]

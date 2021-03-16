@@ -5,7 +5,7 @@ date: 2020-04-27 10:55:53
 image: 'https://m.media-amazon.com/images/I/31k+f9TdyDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W68P4SM-es Dickies Slim Fit Work Pant Pantalones Negro Black BK...'
 sku: 'B00W68P4SM-es'
 tags: [  ]

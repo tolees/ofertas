@@ -5,7 +5,7 @@ date: 2020-01-27 08:26:07
 image: 'https://m.media-amazon.com/images/I/31H+A-07r5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V3HV6OS-es Buff Solid Calentador Lana Merino Heavy Unisex Adulto...'
 sku: 'B00V3HV6OS-es'
 tags: [  ]

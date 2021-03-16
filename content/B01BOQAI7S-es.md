@@ -5,7 +5,7 @@ date: 2020-02-25 07:01:35
 image: 'https://m.media-amazon.com/images/I/51IlVLvMreL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BOQAI7S-es 5 Pcs Broca Escalonada Cobalt Múltiples Orificios...'
 sku: 'B01BOQAI7S-es'
 tags: [  ]

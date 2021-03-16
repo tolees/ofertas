@@ -5,7 +5,7 @@ date: 2020-09-06 02:49:53
 image: 'https://m.media-amazon.com/images/I/51XkgEf6CKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q7WMCS8-es Columbia Bugaboot Plus III Omni-Heat Botas Altas de...'
 sku: 'B00Q7WMCS8-es'
 tags: [  ]

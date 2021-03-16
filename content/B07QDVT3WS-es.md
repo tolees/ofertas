@@ -5,7 +5,7 @@ date: 2020-03-16 16:09:58
 image: 'https://m.media-amazon.com/images/I/41nEawqpDzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDVT3WS-es Michael Kors Reloj Analógico-Digital para Mujer Correa en...'
 sku: 'B07QDVT3WS-es'
 tags: [  ]

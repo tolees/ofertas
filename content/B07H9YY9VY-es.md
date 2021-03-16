@@ -5,7 +5,7 @@ date: 2020-08-21 23:32:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vkrNdBeYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9YY9VY-es Extractor de Puntos Negro 3 Modos de Succión Eliminar...'
 sku: 'B07H9YY9VY-es'
 tags: [  ]

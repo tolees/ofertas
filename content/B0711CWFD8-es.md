@@ -5,7 +5,7 @@ date: 2020-08-01 20:18:15
 image: 'https://m.media-amazon.com/images/I/31-+pF-LgPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711CWFD8-es SELECTED HOMME Shnstraight-Scott 1002 Rinse St JNS Noos...'
 sku: 'B0711CWFD8-es'
 tags: [  ]

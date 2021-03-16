@@ -5,7 +5,7 @@ date: 2020-02-05 07:35:03
 image: 'https://m.media-amazon.com/images/I/41zO4VFLt+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3XJ6G4-es Diadermine - Hydralist Crema Hidratante de Día - Textura...'
 sku: 'B07N3XJ6G4-es'
 tags: [  ]

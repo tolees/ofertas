@@ -5,7 +5,7 @@ date: 2020-09-08 03:20:30
 image: 'https://m.media-amazon.com/images/I/41o35-RBm8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDCL3T7-es WANFEI Pulsera Xiaomi Mi Band 3 Correa Band 3 Correa de...'
 sku: 'B07FDCL3T7-es'
 tags: [  ]

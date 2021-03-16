@@ -5,7 +5,7 @@ date: 2020-01-21 15:22:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ItV5ZdjwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798C1NBJ-es Dim AD0062P Sujetador con Copa Completa Negro Negro 127 95...'
 sku: 'B0798C1NBJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 23:46:16
 image: 'https://m.media-amazon.com/images/I/41Z5yWk5i2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013S3UY2E-es Creative Sound Blasterx H3 - Cascos Portátiles Analógicos...'
 sku: 'B013S3UY2E-es'
 tags: [  ]

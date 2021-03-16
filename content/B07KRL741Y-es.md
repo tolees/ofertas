@@ -5,7 +5,7 @@ date: 2020-01-03 12:06:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KBgkFJ3FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRL741Y-es New Balance 574v2 Zapatillas para Mujer Rojo Red/Black...'
 sku: 'B07KRL741Y-es'
 tags: [  ]

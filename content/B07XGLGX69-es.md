@@ -5,7 +5,7 @@ date: 2020-08-28 00:37:59
 image: 'https://m.media-amazon.com/images/I/41UK7-Q+wtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGLGX69-es Skechers GO Run 400 V2 Zapatillas para Hombre Verde Verde...'
 sku: 'B07XGLGX69-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 21:01:00
 image: 'https://m.media-amazon.com/images/I/31IkiRLzjaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0084XWC6U-es Yamaha YWA-10 - Adaptador USB para red Wi-Fi color negro'
 sku: 'B0084XWC6U-es'
 tags: [  ]

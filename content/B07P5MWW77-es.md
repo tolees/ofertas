@@ -5,7 +5,7 @@ date: 2020-09-24 17:02:34
 image: 'https://m.media-amazon.com/images/I/41DHkgk2MjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5MWW77-es American Tourister Soundbox - Spinner Large Expandable...'
 sku: 'B07P5MWW77-es'
 tags: [  ]

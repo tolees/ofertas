@@ -5,7 +5,7 @@ date: 2020-03-18 19:29:14
 image: 'https://m.media-amazon.com/images/I/41YrTN6YxZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGJYX37-es The North Face Mallas en Mezcla de algodón con Logotipo...'
 sku: 'B07MGJYX37-es'
 tags: [  ]

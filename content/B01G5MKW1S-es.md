@@ -5,7 +5,7 @@ date: 2020-09-27 05:32:03
 image: 'https://m.media-amazon.com/images/I/41A8mRIcKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G5MKW1S-es NANOSTAD Estadio Camp NOU LED Edition FC Barcelona Puzzle...'
 sku: 'B01G5MKW1S-es'
 tags: [  ]

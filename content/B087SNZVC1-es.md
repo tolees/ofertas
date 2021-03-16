@@ -5,7 +5,7 @@ date: 2020-07-19 13:31:57
 image: 'https://m.media-amazon.com/images/I/31M8eQQ9W-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087SNZVC1-es Bruni Película Protectora Compatible con BOOX Nova2...'
 sku: 'B087SNZVC1-es'
 tags: [  ]

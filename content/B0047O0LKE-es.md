@@ -5,7 +5,7 @@ date: 2020-05-01 08:25:54
 image: 'https://m.media-amazon.com/images/I/31PbKM4-qlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0047O0LKE-es Medisana Humidificador UHW 32 W plástico Plateado'
 sku: 'B0047O0LKE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-21 13:21:20
 image: 'https://m.media-amazon.com/images/I/51SNSY3dGGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8RZNCP-es Spalding ACB-L.Endesa Tf500 Sz. 7 76-287Z Balón de...'
 sku: 'B07H8RZNCP-es'
 tags: [  ]

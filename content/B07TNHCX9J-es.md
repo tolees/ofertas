@@ -5,7 +5,7 @@ date: 2020-02-09 21:42:09
 image: 'https://m.media-amazon.com/images/I/31kpBYquLzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNHCX9J-es Hanmir Adaptador de Red LAN Ethernet RJ45 USB 2.0 10 /...'
 sku: 'B07TNHCX9J-es'
 tags: [  ]

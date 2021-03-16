@@ -5,7 +5,7 @@ date: 2020-05-16 18:46:10
 image: 'https://m.media-amazon.com/images/I/31H7V5aZbzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KXEGPG0-es Reloj para mujer Hugo Boss 1502395.'
 sku: 'B01KXEGPG0-es'
 tags: [  ]

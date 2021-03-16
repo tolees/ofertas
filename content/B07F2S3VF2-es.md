@@ -5,7 +5,7 @@ date: 2020-03-12 06:32:44
 image: 'https://m.media-amazon.com/images/I/31UjY200h9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2S3VF2-es Helly Hansen Hh Qd Cargo Shorts 11 Pantalones deportivos...'
 sku: 'B07F2S3VF2-es'
 tags: [  ]

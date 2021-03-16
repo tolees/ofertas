@@ -5,7 +5,7 @@ date: 2020-01-06 23:31:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51uGfT-yDWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKDQT1Z-es Max Power Digital Funda para Samsung Galaxy A50 Antigolpes...'
 sku: 'B07TKDQT1Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-09 04:40:19
 image: 'https://m.media-amazon.com/images/I/511F1u5Cm4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMN4NJD-es Giochi Preziosi LLU93000 LOL Surprise - Sorpresa...'
 sku: 'B07PMN4NJD-es'
 tags: [  ]

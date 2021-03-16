@@ -5,7 +5,7 @@ date: 2020-06-29 20:32:20
 image: 'https://m.media-amazon.com/images/I/31S4WoaZr+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWJB81F-es Gant Cocoville Zapatillas para Mujer Multicolor...'
 sku: 'B07TWJB81F-es'
 tags: [  ]

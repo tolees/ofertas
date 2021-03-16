@@ -5,7 +5,7 @@ date: 2020-09-03 14:31:58
 image: 'https://m.media-amazon.com/images/I/41BUhefPAFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFZKSNW-es SPTwj - Mecha para desoldar 3 mm de ancho 1 5 m de largo...'
 sku: 'B07WFZKSNW-es'
 tags: [  ]

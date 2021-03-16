@@ -5,7 +5,7 @@ date: 2020-09-08 19:01:42
 image: 'https://m.media-amazon.com/images/I/41X0oBEdCyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TRWD1L-es N / A Pretyj Funda para UMIDIGI X 6.35" con 3 Piezas...'
 sku: 'B088TRWD1L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-25 08:06:59
 image: 'https://m.media-amazon.com/images/I/41UlQNqtqZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ8QBHS-es Skechers Women s Flex Appeal 3.0-INSIDERS Trainers Black...'
 sku: 'B07CZ8QBHS-es'
 tags: [  ]

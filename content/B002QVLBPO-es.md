@@ -5,7 +5,7 @@ date: 2020-08-17 17:01:37
 image: 'https://m.media-amazon.com/images/I/41elgeIB0CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002QVLBPO-es ARCTIC F9 PWM PST – 99 mm Ventilador de Caja para CPU con...'
 sku: 'B002QVLBPO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-19 10:11:09
 image: 'https://m.media-amazon.com/images/I/415J33VuJhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XDU3IK-es Vans Herren Shirt M Classic White/Black S VGGGYB2'
 sku: 'B003XDU3IK-es'
 tags: [  ]

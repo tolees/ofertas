@@ -5,7 +5,7 @@ date: 2020-04-26 09:33:37
 image: 'https://m.media-amazon.com/images/I/41g4Fxm4xLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4TQ8M5-es Kappa Follow OC Zapatillas Unisex adulto Rojo Red/White...'
 sku: 'B07D4TQ8M5-es'
 tags: [  ]

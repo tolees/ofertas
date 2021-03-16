@@ -5,7 +5,7 @@ date: 2020-07-14 21:54:00
 image: 'https://m.media-amazon.com/images/I/51GGtlpVNbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSLW3JT-es Taurus Greco 16 Elegance Ventilador de sobremesa portátil...'
 sku: 'B07NSLW3JT-es'
 tags: [  ]

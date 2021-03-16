@@ -5,7 +5,7 @@ date: 2020-10-05 22:10:32
 image: 'https://m.media-amazon.com/images/I/4175AZN37OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQSYBPH-es Unidad de Estado Sólido Lexar NS100 2 5" 512GB SATA III 6Gb/s'
 sku: 'B07TQSYBPH-es'
 tags: [  ]

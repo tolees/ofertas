@@ -5,7 +5,7 @@ date: 2020-02-06 12:18:47
 image: 'https://m.media-amazon.com/images/I/41rohrfqlrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S43WLCY-es ASUS ROG Strix G731GU-EV038T Portátil Gaming de 17.3"...'
 sku: 'B07S43WLCY-es'
 tags: [  ]

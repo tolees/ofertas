@@ -5,7 +5,7 @@ date: 2020-09-27 10:07:37
 image: 'https://m.media-amazon.com/images/I/31Un2Wf9-FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078VGQCZ6-es Sony WISP600NW.CE7 - Auriculares deportivos inalámbricos...'
 sku: 'B078VGQCZ6-es'
 tags: [  ]

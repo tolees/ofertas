@@ -5,7 +5,7 @@ date: 2020-01-04 18:33:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MY2dtL9YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRMLXSH-es New Balance 373 Zapatillas Hombre Azul Blue Blue 37 EU'
 sku: 'B07KRMLXSH-es'
 tags: [  ]

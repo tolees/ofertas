@@ -5,7 +5,7 @@ date: 2020-04-19 10:40:21
 image: 'https://m.media-amazon.com/images/I/41jslWN51NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872NYK4V-es Funda Transparente Compatible para Xiaomi Mi MAX 3 Carcasa...'
 sku: 'B0872NYK4V-es'
 tags: [  ]

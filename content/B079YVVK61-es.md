@@ -5,7 +5,7 @@ date: 2020-05-19 19:53:04
 image: 'https://m.media-amazon.com/images/I/41Z-9r2QacL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YVVK61-es Adidas Samba OG Zapatillas de Gimnasia para Hombre Blanco...'
 sku: 'B079YVVK61-es'
 tags: [  ]

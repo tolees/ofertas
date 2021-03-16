@@ -5,7 +5,7 @@ date: 2020-01-28 21:49:12
 image: 'https://m.media-amazon.com/images/I/41BEMuJmhpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VRKIZBI-es Honey Bear Cajón de efectivo de 16 pulgadas 5...'
 sku: 'B00VRKIZBI-es'
 tags: [  ]

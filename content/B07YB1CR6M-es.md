@@ -5,7 +5,7 @@ date: 2020-05-07 15:23:48
 image: 'https://m.media-amazon.com/images/I/41RwvAOqQjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YB1CR6M-es FORMIZON 3 Pack Bombas de Globo Manual Bombas de Globos...'
 sku: 'B07YB1CR6M-es'
 tags: [  ]

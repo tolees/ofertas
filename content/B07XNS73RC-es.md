@@ -5,7 +5,7 @@ date: 2020-06-26 17:46:44
 image: 'https://m.media-amazon.com/images/I/31ks4xNebPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XNS73RC-es Goldyqin Pantalla monocromática Professional HD 1536kbps...'
 sku: 'B07XNS73RC-es'
 tags: [  ]

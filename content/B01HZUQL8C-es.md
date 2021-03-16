@@ -5,7 +5,7 @@ date: 2020-01-21 11:29:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3169UKXhN5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HZUQL8C-es G-STAR RAW Bronson Low Waist Boyfriend Chino Pantalones...'
 sku: 'B01HZUQL8C-es'
 tags: [  ]

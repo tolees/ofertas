@@ -5,7 +5,7 @@ date: 2020-04-22 12:33:33
 image: 'https://m.media-amazon.com/images/I/41JDUEq8RuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKTQSBX-es Lixada Cuerda de Saltar Ajustable—Manijas de Espuma Suave...'
 sku: 'B07ZKTQSBX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-06 21:00:59
 image: 'https://m.media-amazon.com/images/I/51bU0XVd0NL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2SLYF5-es Armani Exchange - Embossed Logo Crossbody Bag Bolsos...'
 sku: 'B07K2SLYF5-es'
 tags: [  ]

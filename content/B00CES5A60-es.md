@@ -5,7 +5,7 @@ date: 2020-03-08 19:46:10
 image: 'https://m.media-amazon.com/images/I/41tJ6EHslxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CES5A60-es Logitech C930e Business Webcam Video-Llamadas Full HD...'
 sku: 'B00CES5A60-es'
 tags: [  ]

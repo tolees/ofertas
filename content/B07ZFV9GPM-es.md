@@ -5,7 +5,7 @@ date: 2020-09-22 20:40:25
 image: 'https://m.media-amazon.com/images/I/41U35skIuIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFV9GPM-es Silla paseo Fox Ranger'
 sku: 'B07ZFV9GPM-es'
 tags: [  ]

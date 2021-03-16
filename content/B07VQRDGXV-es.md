@@ -5,7 +5,7 @@ date: 2020-05-14 15:29:02
 image: 'https://m.media-amazon.com/images/I/41iBmZCFuRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQRDGXV-es Hangsun Irrigador Bucal Portátil de 300ml Irrigador Dental...'
 sku: 'B07VQRDGXV-es'
 tags: [  ]

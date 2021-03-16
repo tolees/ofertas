@@ -5,7 +5,7 @@ date: 2020-08-25 14:00:47
 image: 'https://m.media-amazon.com/images/I/51ZzO-sI0vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3DKBCH-es Vbiger Mochilas Escolares Impermeable para Estudiante Rosa1'
 sku: 'B07X3DKBCH-es'
 tags: [  ]

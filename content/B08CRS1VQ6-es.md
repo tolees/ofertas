@@ -5,7 +5,7 @@ date: 2020-07-26 15:32:02
 image: 'https://m.media-amazon.com/images/I/41tibW4uZvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRS1VQ6-es Altavoz de música inalámbrico portátil Estilo Seta Lindo...'
 sku: 'B08CRS1VQ6-es'
 tags: [  ]

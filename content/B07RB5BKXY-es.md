@@ -5,7 +5,7 @@ date: 2020-07-26 16:34:53
 image: 'https://m.media-amazon.com/images/I/41bzRy+GTyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB5BKXY-es DINOKA Saco De Dormir para Acampar - Bolsa de Dormir 3...'
 sku: 'B07RB5BKXY-es'
 tags: [  ]

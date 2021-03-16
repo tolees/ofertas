@@ -5,7 +5,7 @@ date: 2020-09-17 11:14:42
 image: 'https://m.media-amazon.com/images/I/41jNOZoah1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CG6JMRW-es BIC Marking Ultra Fine Marcador Permanente Tejidos -...'
 sku: 'B01CG6JMRW-es'
 tags: [  ]

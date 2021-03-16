@@ -5,7 +5,7 @@ date: 2020-02-10 18:29:38
 image: 'https://m.media-amazon.com/images/I/51pDR7MxZnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HSF65MC-es LE Tira LED Cadena de Luces 5m 300 LED SMD 2835 Blanco...'
 sku: 'B00HSF65MC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-27 17:05:12
 image: 'https://m.media-amazon.com/images/I/51LtsoxTPJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGFZ2BF-es PUMA Ribbed Classic Beanie Gorro Unisex Adulto Jaffa Orange'
 sku: 'B07QGFZ2BF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 00:59:17
 image: 'https://m.media-amazon.com/images/I/41LRHPysSLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ANQUXE8-es Toner Kingdom Cartuchos de Tinta HP 903 903L 903XL...'
 sku: 'B01ANQUXE8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 07:25:26
 image: 'https://m.media-amazon.com/images/I/41MmMrMm5SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZYQY33-es TRESemmé Champú Color Keratina - Paquete de 3 x 700 ml -...'
 sku: 'B078ZYQY33-es'
 tags: [  ]

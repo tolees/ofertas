@@ -5,7 +5,7 @@ date: 2020-07-23 20:24:14
 image: 'https://m.media-amazon.com/images/I/51SNbi1ywrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4Q1S7M-es Teccpo - Herramienta multifunción 170 W mini herramienta...'
 sku: 'B07H4Q1S7M-es'
 tags: [  ]

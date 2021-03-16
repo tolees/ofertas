@@ -5,7 +5,7 @@ date: 2020-05-28 22:24:31
 image: 'https://m.media-amazon.com/images/I/51aaFdODqCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CK7O8DA-es Energy Sistem Music Box B2 Bluetooth Bluetooth Entrada de...'
 sku: 'B01CK7O8DA-es'
 tags: [  ]

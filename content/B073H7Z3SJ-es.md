@@ -5,7 +5,7 @@ date: 2020-01-22 22:03:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21CUIu%2Baa%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073H7Z3SJ-es L Oréal Paris Infallible Lip Liner rojo 701 Stay Ultraviolet'
 sku: 'B073H7Z3SJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 11:58:06
 image: 'https://m.media-amazon.com/images/I/51o46FBPwxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001JD09BC-es Versele-laga A-16570 Prestige Premium Loro Africano - 1 kg'
 sku: 'B001JD09BC-es'
 tags: [  ]

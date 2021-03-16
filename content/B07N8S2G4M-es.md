@@ -5,7 +5,7 @@ date: 2020-01-23 16:06:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TO2buha7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8S2G4M-es ICONIC TOMMY TOTEMujerBolsos bandoleraAzul Sky Captain...'
 sku: 'B07N8S2G4M-es'
 tags: [  ]

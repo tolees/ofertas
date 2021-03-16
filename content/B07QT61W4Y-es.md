@@ -5,7 +5,7 @@ date: 2020-08-16 17:29:50
 image: 'https://m.media-amazon.com/images/I/51QrEZNIXIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QT61W4Y-es ASUS DUAL-GTX1650-4G - Tarjeta gráfica 4 GB GDDR5 OC 1695...'
 sku: 'B07QT61W4Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-18 10:51:03
 image: 'https://m.media-amazon.com/images/I/41GlGTaO5VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GYOHEMI-es Weider Barrita de Proteína sabor Avellana. Óptima mezcla...'
 sku: 'B00GYOHEMI-es'
 tags: [  ]

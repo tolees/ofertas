@@ -5,7 +5,7 @@ date: 2020-04-23 08:54:01
 image: 'https://m.media-amazon.com/images/I/51Tm5+9O0SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NTN8VUQ-es Diesel Reloj Hombre de Analogico con Correa en Cuero DZ4343'
 sku: 'B00NTN8VUQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 09:39:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VUo0urCpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGSM51L-es Pepe Jeans Fidall Pm541220 Polo Optic White 802 Large para...'
 sku: 'B07JGSM51L-es'
 tags: [  ]

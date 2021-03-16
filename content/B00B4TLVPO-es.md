@@ -5,7 +5,7 @@ date: 2020-03-04 13:49:35
 image: 'https://m.media-amazon.com/images/I/31JYrwYyXhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B4TLVPO-es Essie Esmalte de Uñas 073 Cute As a Button'
 sku: 'B00B4TLVPO-es'
 tags: [  ]

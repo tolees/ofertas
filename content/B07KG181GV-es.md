@@ -5,7 +5,7 @@ date: 2020-07-27 05:35:28
 image: 'https://m.media-amazon.com/images/I/418TZuRuYbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG181GV-es PUMA RS 9.8 Space Zapatillas Unisex Adulto Black-Galaxy...'
 sku: 'B07KG181GV-es'
 tags: [  ]

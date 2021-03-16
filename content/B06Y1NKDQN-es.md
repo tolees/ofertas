@@ -5,7 +5,7 @@ date: 2020-04-11 17:04:37
 image: 'https://m.media-amazon.com/images/I/41IoPCUlWqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y1NKDQN-es Puma Sport Junior 3P Calcetines Unisex para Niños pink...'
 sku: 'B06Y1NKDQN-es'
 tags: [  ]

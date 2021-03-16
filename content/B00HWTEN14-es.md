@@ -5,7 +5,7 @@ date: 2020-05-26 06:27:34
 image: 'https://m.media-amazon.com/images/I/31FlmWYvBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HWTEN14-es NATURALIA - Colchón Cuna Baby Memory visco Talla 117x57cm...'
 sku: 'B00HWTEN14-es'
 tags: [  ]

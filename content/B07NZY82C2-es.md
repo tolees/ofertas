@@ -5,7 +5,7 @@ date: 2020-01-22 19:04:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qn85YKoYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZY82C2-es Skechers Solar Fuse Zapatillas para Hombre Azul Navy...'
 sku: 'B07NZY82C2-es'
 tags: [  ]

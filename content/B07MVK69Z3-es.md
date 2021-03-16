@@ -5,7 +5,7 @@ date: 2020-05-23 19:52:33
 image: 'https://m.media-amazon.com/images/I/41bP7vaIPIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVK69Z3-es Luz De Advertencia De Luz Estroboscópica Giratoria LED De...'
 sku: 'B07MVK69Z3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 19:43:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51P%2BVegFUlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8YCH4M-es Adidas Adipower Light 1.9 Palas Mujer Rosa 360'
 sku: 'B07L8YCH4M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-28 16:45:42
 image: 'https://m.media-amazon.com/images/I/51yJV3etd5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVH1S6K-es Nobleza - 1080 Conde Bolsas de Caca Perro Bolsas para...'
 sku: 'B07GVH1S6K-es'
 tags: [  ]

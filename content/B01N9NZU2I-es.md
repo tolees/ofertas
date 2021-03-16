@@ -5,7 +5,7 @@ date: 2020-10-05 15:08:56
 image: 'https://m.media-amazon.com/images/I/41duk0wPWrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9NZU2I-es Cecotec Aspirador Trineo Conga Turbociclonic. Aspirador...'
 sku: 'B01N9NZU2I-es'
 tags: [  ]

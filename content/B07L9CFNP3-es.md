@@ -5,7 +5,7 @@ date: 2020-08-22 23:58:57
 image: 'https://m.media-amazon.com/images/I/31a30ChUwrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9CFNP3-es ROYAL SLEEP Colchón viscoelástico 90x190 de máxima Calidad...'
 sku: 'B07L9CFNP3-es'
 tags: [  ]

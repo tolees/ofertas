@@ -5,7 +5,7 @@ date: 2020-09-06 05:39:54
 image: 'https://m.media-amazon.com/images/I/51VrSXCJSAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DB1J79P-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07DB1J79P-es'
 tags: [  ]

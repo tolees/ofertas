@@ -5,7 +5,7 @@ date: 2020-02-06 07:05:26
 image: 'https://m.media-amazon.com/images/I/41+wCX7MtTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DS7AMVO-es Lékué - Estuche de vapor Con bandeja y kit principiantes...'
 sku: 'B00DS7AMVO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 09:04:22
 image: 'https://m.media-amazon.com/images/I/51X49F12ggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CZ8AKUO-es atFoliX Protector Película Compatible con Nikon Coolpix...'
 sku: 'B01CZ8AKUO-es'
 tags: [  ]

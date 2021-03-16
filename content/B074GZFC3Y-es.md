@@ -5,7 +5,7 @@ date: 2020-05-26 07:54:15
 image: 'https://m.media-amazon.com/images/I/41JuW6wbnFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074GZFC3Y-es Willful Pulsera Inteligente con Pulsómetro Pulsera de...'
 sku: 'B074GZFC3Y-es'
 tags: [  ]

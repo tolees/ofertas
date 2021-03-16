@@ -5,7 +5,7 @@ date: 2020-05-06 15:07:11
 image: 'https://m.media-amazon.com/images/I/3164coRU8hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJNH7RR-es NIKE Club Short JSY Pantalones Cortos Hombre Gris Dk Grey...'
 sku: 'B07NJNH7RR-es'
 tags: [  ]

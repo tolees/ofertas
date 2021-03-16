@@ -5,7 +5,7 @@ date: 2020-08-01 17:01:31
 image: 'https://m.media-amazon.com/images/I/41RxFNRkzzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089WG8LBK-es Plancha eléctrica Antiadherente Cocina sin Humo Plancha...'
 sku: 'B089WG8LBK-es'
 tags: [  ]

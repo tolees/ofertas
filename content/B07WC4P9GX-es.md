@@ -5,7 +5,7 @@ date: 2020-09-16 14:47:51
 image: 'https://m.media-amazon.com/images/I/41IdOPExVHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC4P9GX-es Explore Scientific Deep Sky Astro - Cámara de Fotos a Color'
 sku: 'B07WC4P9GX-es'
 tags: [  ]

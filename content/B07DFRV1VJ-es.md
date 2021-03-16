@@ -5,7 +5,7 @@ date: 2020-06-08 18:27:56
 image: 'https://m.media-amazon.com/images/I/31d0odH21EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFRV1VJ-es PUMA Active Leggings Pants Mujer Puma Black XS'
 sku: 'B07DFRV1VJ-es'
 tags: [  ]

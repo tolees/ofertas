@@ -5,7 +5,7 @@ date: 2020-08-14 12:05:55
 image: 'https://m.media-amazon.com/images/I/4184eS7ULKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LAI9OM6-es Earth Rated - Pack de bolsas para recoger excrementos de...'
 sku: 'B00LAI9OM6-es'
 tags: [  ]

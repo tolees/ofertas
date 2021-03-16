@@ -5,7 +5,7 @@ date: 2020-02-06 13:08:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dGIfe7HnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKB72VY-es Kipling - Creativity Xl Monederos Mujer Gris Metallic Stony'
 sku: 'B07DKB72VY-es'
 tags: [  ]

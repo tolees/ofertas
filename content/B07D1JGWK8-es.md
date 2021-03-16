@@ -5,7 +5,7 @@ date: 2020-07-08 13:27:07
 image: 'https://m.media-amazon.com/images/I/51DF1napTbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1JGWK8-es Cortador de Verduras opamoo 3 en 1 Cortador en Espiral...'
 sku: 'B07D1JGWK8-es'
 tags: [  ]

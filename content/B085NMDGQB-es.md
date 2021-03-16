@@ -5,7 +5,7 @@ date: 2020-07-25 18:17:43
 image: 'https://m.media-amazon.com/images/I/41FKpxUdpVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085NMDGQB-es CRAPHY Trípode de Fotografía Soporte de luz 51-200cm con...'
 sku: 'B085NMDGQB-es'
 tags: [  ]

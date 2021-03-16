@@ -5,7 +5,7 @@ date: 2020-01-25 15:16:29
 image: 'https://m.media-amazon.com/images/I/41xR6iOHASL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FDNL66-es 2020 Nueva Cámara para Niños Cámara de Fotos/Video HD...'
 sku: 'B082FDNL66-es'
 tags: [  ]

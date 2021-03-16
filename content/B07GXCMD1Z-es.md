@@ -5,7 +5,7 @@ date: 2020-06-23 08:03:20
 image: 'https://m.media-amazon.com/images/I/31uyJgIRdGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXCMD1Z-es WOSAWE - Pantalones deportivos para hombre de secado...'
 sku: 'B07GXCMD1Z-es'
 tags: [  ]

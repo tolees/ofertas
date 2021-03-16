@@ -5,7 +5,7 @@ date: 2020-03-21 22:31:52
 image: 'https://m.media-amazon.com/images/I/41Pl9pdY+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HM84GY-es Doro'
 sku: 'B076HM84GY-es'
 tags: [  ]

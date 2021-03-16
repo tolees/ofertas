@@ -5,7 +5,7 @@ date: 2020-01-29 19:58:43
 image: 'https://m.media-amazon.com/images/I/31EkCWBv+kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JRUJ9XW-es Buff Merino Gorro lana unisex Negro Thermalblack Talla unica'
 sku: 'B01JRUJ9XW-es'
 tags: [  ]

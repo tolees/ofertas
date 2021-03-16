@@ -5,7 +5,7 @@ date: 2020-09-08 20:30:31
 image: 'https://m.media-amazon.com/images/I/51EGNNzrSZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074FZKNDF-es Revell Maqueta Wars Imperial Star Destroyer Kit Modelo...'
 sku: 'B074FZKNDF-es'
 tags: [  ]

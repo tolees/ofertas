@@ -5,7 +5,7 @@ date: 2020-09-24 10:29:48
 image: 'https://m.media-amazon.com/images/I/41cC7mpS+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNQRY5S-es Asics Gel-Nimbus 22 Running Shoe Mens Tuna Blue/Pure...'
 sku: 'B07SNQRY5S-es'
 tags: [  ]

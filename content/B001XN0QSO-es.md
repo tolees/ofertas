@@ -5,7 +5,7 @@ date: 2020-08-27 09:10:08
 image: 'https://m.media-amazon.com/images/I/41Mk13coAQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001XN0QSO-es Vogue Olympia - Fuente redonda de servir de hierro fundido...'
 sku: 'B001XN0QSO-es'
 tags: [  ]

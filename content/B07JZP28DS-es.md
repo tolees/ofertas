@@ -5,7 +5,7 @@ date: 2020-04-21 08:32:36
 image: 'https://m.media-amazon.com/images/I/415cGHX2+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZP28DS-es Leggings de yoga para mujer cintura alta bolsillos para...'
 sku: 'B07JZP28DS-es'
 tags: [  ]

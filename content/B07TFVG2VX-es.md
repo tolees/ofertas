@@ -5,7 +5,7 @@ date: 2020-09-22 03:10:02
 image: 'https://m.media-amazon.com/images/I/41ezQdkopoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFVG2VX-es BelleStyle 24V 15A 360W Fuente Alimentacion Transformador...'
 sku: 'B07TFVG2VX-es'
 tags: [  ]

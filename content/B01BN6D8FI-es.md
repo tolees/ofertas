@@ -5,7 +5,7 @@ date: 2020-04-08 03:57:42
 image: 'https://m.media-amazon.com/images/I/41wxi3GW60L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BN6D8FI-es Reloj Komono Estelle Royale para Mujer KOM-W2863'
 sku: 'B01BN6D8FI-es'
 tags: [  ]

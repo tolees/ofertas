@@ -5,7 +5,7 @@ date: 2020-01-22 19:07:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51fEIxJ6nBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NNIBJVA-es OFERTAS DEL DÍA - 180 Cosmetics - El paquete "potenciador...'
 sku: 'B00NNIBJVA-es'
 tags: [  ]

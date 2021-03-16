@@ -5,7 +5,7 @@ date: 2020-05-31 17:24:38
 image: 'https://m.media-amazon.com/images/I/412-3zio+4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006KNTU16-es CUMLAUDE Visilaude - Toallitas de Higiene Ocular -...'
 sku: 'B006KNTU16-es'
 tags: [  ]

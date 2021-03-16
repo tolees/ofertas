@@ -5,7 +5,7 @@ date: 2020-02-10 12:06:33
 image: 'https://m.media-amazon.com/images/I/41i3oKtRlaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0742M8CMQ-es UO- Pulsera Estampado Supermama Color Dorado'
 sku: 'B0742M8CMQ-es'
 tags: [  ]

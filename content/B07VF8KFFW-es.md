@@ -5,7 +5,7 @@ date: 2020-07-23 10:31:01
 image: 'https://m.media-amazon.com/images/I/41lx5-0m+IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VF8KFFW-es PremiumTech - HUB USB C HDMI 7 en 1 con Cable USB 3.1 y...'
 sku: 'B07VF8KFFW-es'
 tags: [  ]

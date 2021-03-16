@@ -5,7 +5,7 @@ date: 2020-10-07 14:50:25
 image: 'https://m.media-amazon.com/images/I/51DNrzixdFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825X4GRB-es Facial Patches Parches Faciales Antiarrugas Parches...'
 sku: 'B0825X4GRB-es'
 tags: [  ]

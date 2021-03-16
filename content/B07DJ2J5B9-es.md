@@ -5,7 +5,7 @@ date: 2020-08-21 04:05:57
 image: 'https://m.media-amazon.com/images/I/31NH5zyc-FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ2J5B9-es New Balance 997H Core Zapatillas Hombre Negro Black 36 EU'
 sku: 'B07DJ2J5B9-es'
 tags: [  ]

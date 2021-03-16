@@ -5,7 +5,7 @@ date: 2020-01-13 19:29:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qSJVYJwZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009X6UZZM-es Lexmark 50F2U0E - Tóner capacidad 20000 páginas'
 sku: 'B009X6UZZM-es'
 tags: [  ]

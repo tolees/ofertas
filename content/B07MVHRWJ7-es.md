@@ -5,7 +5,7 @@ date: 2020-02-08 19:04:08
 image: 'https://m.media-amazon.com/images/I/51NknE0K5VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVHRWJ7-es Kipling Gabbie S Bolsos Bandolera para Mujer Multicolor...'
 sku: 'B07MVHRWJ7-es'
 tags: [  ]

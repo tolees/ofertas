@@ -5,7 +5,7 @@ date: 2020-02-28 11:29:59
 image: 'https://m.media-amazon.com/images/I/31OZnJp9QLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YG7JX1R-es Indoor Copa'
 sku: 'B07YG7JX1R-es'
 tags: [  ]

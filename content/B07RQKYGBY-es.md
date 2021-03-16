@@ -5,7 +5,7 @@ date: 2020-05-15 10:11:29
 image: 'https://m.media-amazon.com/images/I/412n0tm5ydL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQKYGBY-es BESCHOI Espejo Maquillaje con Luz LED Espejo Aumento 5X...'
 sku: 'B07RQKYGBY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 12:30:02
 image: 'https://m.media-amazon.com/images/I/41BmR4vFVTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VF4NRSZ-es JACK & JONES Jcotony Polo SS WHS Rojo Chinese Red Chinese...'
 sku: 'B07VF4NRSZ-es'
 tags: [  ]

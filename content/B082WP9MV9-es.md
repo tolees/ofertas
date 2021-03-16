@@ -5,7 +5,7 @@ date: 2020-06-13 21:31:15
 image: 'https://m.media-amazon.com/images/I/51ZiZ3F9lrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WP9MV9-es RioRiva En calcetines para hombre de envoltura de regalos...'
 sku: 'B082WP9MV9-es'
 tags: [  ]

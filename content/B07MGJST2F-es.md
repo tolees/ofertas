@@ -5,7 +5,7 @@ date: 2020-05-31 20:12:56
 image: 'https://m.media-amazon.com/images/I/41KFDuCmZML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGJST2F-es Saucony Kinvara 10 Zapatillas de Running para Hombre...'
 sku: 'B07MGJST2F-es'
 tags: [  ]

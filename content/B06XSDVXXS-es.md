@@ -5,7 +5,7 @@ date: 2020-02-09 11:10:55
 image: 'https://m.media-amazon.com/images/I/41GXfDhx1pL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSDVXXS-es New Balance Wxnrgv1 Zapatillas Deportivas para Interior...'
 sku: 'B06XSDVXXS-es'
 tags: [  ]

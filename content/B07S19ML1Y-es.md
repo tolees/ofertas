@@ -5,7 +5,7 @@ date: 2020-01-20 16:03:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oDHcn2PlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S19ML1Y-es Esprit 089ee2k008 Polo Gris Medium Grey 035 Large para Hombre'
 sku: 'B07S19ML1Y-es'
 tags: [  ]

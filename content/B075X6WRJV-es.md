@@ -5,7 +5,7 @@ date: 2020-09-02 15:32:22
 image: 'https://m.media-amazon.com/images/I/41ni8+Ah98L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075X6WRJV-es WMF Küchenminis Cocedor 1 Huevo 55 W con Tritan libre de...'
 sku: 'B075X6WRJV-es'
 tags: [  ]

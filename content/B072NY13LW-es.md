@@ -5,7 +5,7 @@ date: 2020-01-22 14:58:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zmredpZkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072NY13LW-es Philips 223V7QHSB/00 - Monitor IPS de 21.5" Full HD...'
 sku: 'B072NY13LW-es'
 tags: [  ]

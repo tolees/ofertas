@@ -5,7 +5,7 @@ date: 2020-01-12 06:56:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51EOvDovXYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071F4YYKJ-es Asics Noosa FF T722n-9004 Zapatillas de Running para...'
 sku: 'B071F4YYKJ-es'
 tags: [  ]

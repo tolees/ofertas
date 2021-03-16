@@ -5,7 +5,7 @@ date: 2020-04-06 05:06:20
 image: 'https://m.media-amazon.com/images/I/51fK3jInYRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q8RGS6V-es deAO Coche de Muñecas Convertible Conjunto 2en1 Vehículo...'
 sku: 'B07Q8RGS6V-es'
 tags: [  ]

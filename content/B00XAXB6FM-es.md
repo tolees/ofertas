@@ -5,7 +5,7 @@ date: 2020-10-12 12:44:11
 image: 'https://m.media-amazon.com/images/I/419JbHwiLSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAXB6FM-es Tommee Tippee Closer to Nature- Kit de Biberónes...'
 sku: 'B00XAXB6FM-es'
 tags: [  ]

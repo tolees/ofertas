@@ -5,7 +5,7 @@ date: 2020-02-11 10:28:25
 image: 'https://m.media-amazon.com/images/I/51pKCrb29qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYN4FKC-es Hero Baby Trocitos Tarrito de Puré de Espaguetis con...'
 sku: 'B01MYN4FKC-es'
 tags: [  ]

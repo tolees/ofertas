@@ -5,7 +5,7 @@ date: 2020-01-25 00:00:42
 image: 'https://m.media-amazon.com/images/I/316+ZGHAuJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CQ5T3LI-es San Ignacio PK128 Bandeja Grill 35 x 26 cm Aluminio...'
 sku: 'B01CQ5T3LI-es'
 tags: [  ]

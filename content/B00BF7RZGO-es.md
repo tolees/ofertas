@@ -5,7 +5,7 @@ date: 2020-02-28 11:03:18
 image: 'https://m.media-amazon.com/images/I/31W6EYk8XUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BF7RZGO-es Piz Buin - Protección Solar After Sun Loción Hidratante...'
 sku: 'B00BF7RZGO-es'
 tags: [  ]

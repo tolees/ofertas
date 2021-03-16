@@ -5,7 +5,7 @@ date: 2020-03-03 09:28:25
 image: 'https://m.media-amazon.com/images/I/41Itj8LmVUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07415TWKG-es BERING Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B07415TWKG-es'
 tags: [  ]

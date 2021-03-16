@@ -5,7 +5,7 @@ date: 2020-07-18 08:04:04
 image: 'https://m.media-amazon.com/images/I/51hwzlj31mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083PVF5GB-es Jazmiu - Sombrero unisex divertido con dibujos de frutas...'
 sku: 'B083PVF5GB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 00:24:52
 image: 'https://m.media-amazon.com/images/I/41Ug2El6ZBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JY2P7G-es SanDisk - Base iXpand de 32 GB para Cargar iPhone y Hacer...'
 sku: 'B073JY2P7G-es'
 tags: [  ]

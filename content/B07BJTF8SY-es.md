@@ -5,7 +5,7 @@ date: 2020-02-25 15:41:14
 image: 'https://m.media-amazon.com/images/I/51a+iflLuxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJTF8SY-es Philips Barbero con Sistema de aspiración SBT720/15 Set...'
 sku: 'B07BJTF8SY-es'
 tags: [  ]

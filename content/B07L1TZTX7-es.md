@@ -5,7 +5,7 @@ date: 2020-02-07 18:46:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51fCg7aEUjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L1TZTX7-es Relojes Hombre Relojes Grandes de Pulsera Militares...'
 sku: 'B07L1TZTX7-es'
 tags: [  ]

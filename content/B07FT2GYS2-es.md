@@ -5,7 +5,7 @@ date: 2020-06-11 14:24:23
 image: 'https://m.media-amazon.com/images/I/41rhemOh-HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FT2GYS2-es Aceite Orgánico de Rosa Mosqueta 100% Puro y Natural para...'
 sku: 'B07FT2GYS2-es'
 tags: [  ]

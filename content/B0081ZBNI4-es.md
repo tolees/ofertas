@@ -5,7 +5,7 @@ date: 2020-09-25 08:27:30
 image: 'https://m.media-amazon.com/images/I/41tXKekRcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0081ZBNI4-es StarTech MUY1MFFS - Cable Adaptador estéreo 2 x 3.5 mm Negro'
 sku: 'B0081ZBNI4-es'
 tags: [  ]

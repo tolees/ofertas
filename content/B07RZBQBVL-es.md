@@ -5,7 +5,7 @@ date: 2020-09-28 13:39:44
 image: 'https://m.media-amazon.com/images/I/41ihX6xRaKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZBQBVL-es LIGHTAILING Conjunto de Luces Architecture Edificio del...'
 sku: 'B07RZBQBVL-es'
 tags: [  ]

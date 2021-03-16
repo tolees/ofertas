@@ -5,7 +5,7 @@ date: 2020-03-20 20:31:24
 image: 'https://m.media-amazon.com/images/I/41IhYorpXAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAIKTRS-es Baldosinín 8410952001802 Productos de Limpieza para el Hogar'
 sku: 'B00XAIKTRS-es'
 tags: [  ]

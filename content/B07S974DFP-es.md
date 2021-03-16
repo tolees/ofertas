@@ -5,7 +5,7 @@ date: 2020-10-09 07:40:26
 image: 'https://m.media-amazon.com/images/I/41Y-AF9SiKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S974DFP-es Crocs Swiftwater Expedition Sandal Kids Sandalia con...'
 sku: 'B07S974DFP-es'
 tags: [  ]

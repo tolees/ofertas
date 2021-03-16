@@ -5,7 +5,7 @@ date: 2020-08-09 06:42:19
 image: 'https://m.media-amazon.com/images/I/41vtAjNOQ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNND75Z-es Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de...'
 sku: 'B07VNND75Z-es'
 tags: [  ]

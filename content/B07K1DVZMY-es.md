@@ -5,7 +5,7 @@ date: 2020-10-10 13:48:46
 image: 'https://m.media-amazon.com/images/I/41H5JR19FhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1DVZMY-es La Toja Selection - Pack Regalo Mujer - Gel de Baño...'
 sku: 'B07K1DVZMY-es'
 tags: [  ]

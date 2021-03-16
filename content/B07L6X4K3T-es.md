@@ -5,7 +5,7 @@ date: 2020-03-11 08:22:13
 image: 'https://m.media-amazon.com/images/I/31yHBRKPT5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6X4K3T-es BLACK+DECKER NVC115JL-QW - Aspirador de mano sin cable...'
 sku: 'B07L6X4K3T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-11 19:05:22
 image: 'https://m.media-amazon.com/images/I/41khdYd9MlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086BKGJHK-es Oihxse Funda Compatible con Huawei Y5 2018/honor 7s...'
 sku: 'B086BKGJHK-es'
 tags: [  ]

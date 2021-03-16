@@ -5,7 +5,7 @@ date: 2020-06-26 10:20:38
 image: 'https://m.media-amazon.com/images/I/31R-OrSBJeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YMZBNLO-es Intenso 3533491 - Memoria USB de 128 GB Color Negro'
 sku: 'B00YMZBNLO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 16:32:16
 image: 'https://m.media-amazon.com/images/I/41z1zT2FkrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R9J5RTQ-es ORICO Tiras para Organizar Cables y Sujetacables...'
 sku: 'B07R9J5RTQ-es'
 tags: [  ]

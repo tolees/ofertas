@@ -5,7 +5,7 @@ date: 2020-04-13 17:00:29
 image: 'https://m.media-amazon.com/images/I/41Sg9lHvdML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZRKXXW-es BRIKSMAX Kit de Iluminación Led para Ego Star Wars Kylo...'
 sku: 'B07TZRKXXW-es'
 tags: [  ]

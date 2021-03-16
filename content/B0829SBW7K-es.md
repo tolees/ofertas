@@ -5,7 +5,7 @@ date: 2020-01-12 01:02:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51M1JgYYGzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829SBW7K-es Longsing Juego Tema Decoración de Fiesta Videojuegos...'
 sku: 'B0829SBW7K-es'
 tags: [  ]

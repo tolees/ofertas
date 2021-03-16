@@ -5,7 +5,7 @@ date: 2020-10-12 22:23:13
 image: 'https://m.media-amazon.com/images/I/41zh10zsvsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPDMCG7-es Bose SoundLink Revolve+ - Altavoz portátil con Bluetooth...'
 sku: 'B06XPDMCG7-es'
 tags: [  ]

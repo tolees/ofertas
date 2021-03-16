@@ -5,7 +5,7 @@ date: 2020-03-30 11:38:53
 image: 'https://m.media-amazon.com/images/I/41hyyQZzSQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004PVUL9K-es Clatronic FR 3390 Freidora capacidad 2 litros 1800 W...'
 sku: 'B004PVUL9K-es'
 tags: [  ]

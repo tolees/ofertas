@@ -5,7 +5,7 @@ date: 2020-04-03 14:16:04
 image: 'https://m.media-amazon.com/images/I/41ryK8TNikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D1H4TJ5-es Disney Baby 11520 - Hamaca mecedora'
 sku: 'B07D1H4TJ5-es'
 tags: [  ]

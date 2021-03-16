@@ -5,7 +5,7 @@ date: 2020-09-24 05:41:07
 image: 'https://m.media-amazon.com/images/I/419UlSUO+iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C7OW3PG-es CAMPER Wabi Damen Flache Hausschuhe Grau Dark Gray 061 35...'
 sku: 'B01C7OW3PG-es'
 tags: [  ]

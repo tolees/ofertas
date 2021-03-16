@@ -5,7 +5,7 @@ date: 2020-04-01 21:03:49
 image: 'https://m.media-amazon.com/images/I/31xytGTmXKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC342BS-es camel active Houston 488385/2511 Pantalones Beige Beige 23...'
 sku: 'B07NC342BS-es'
 tags: [  ]

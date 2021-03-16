@@ -5,7 +5,7 @@ date: 2020-04-16 18:07:53
 image: 'https://m.media-amazon.com/images/I/51Od19b+sBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TB8TQ3-es Oihxse Case Transparente Suave TPU Compatible con Huawei...'
 sku: 'B083TB8TQ3-es'
 tags: [  ]

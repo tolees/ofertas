@@ -5,7 +5,7 @@ date: 2020-06-27 15:32:47
 image: 'https://m.media-amazon.com/images/I/412cD7a77uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTRM9BS-es Molyflower C6T Smart Bracelet Watch Información de TPU...'
 sku: 'B08BTRM9BS-es'
 tags: [  ]

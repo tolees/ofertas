@@ -5,7 +5,7 @@ date: 2020-05-30 11:47:27
 image: 'https://m.media-amazon.com/images/I/41RXx0WqrfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BVVHZOK-es Astor Eyeartist Luxury Palette Paleta de Sombras Tono 100...'
 sku: 'B01BVVHZOK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 15:56:40
 image: 'https://m.media-amazon.com/images/I/51ndYR0xakL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2YVCB6-es Toyvian Casa de muñecas de Madera de Bricolaje Kit en...'
 sku: 'B07K2YVCB6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-20 23:50:29
 image: 'https://m.media-amazon.com/images/I/41BGbjn9nZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LL92BMI-es Cámara Yuntab Warrior G1S de 32 GB para deportes al aire...'
 sku: 'B01LL92BMI-es'
 tags: [  ]

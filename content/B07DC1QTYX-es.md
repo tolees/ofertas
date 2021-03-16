@@ -5,7 +5,7 @@ date: 2020-04-23 05:18:21
 image: 'https://m.media-amazon.com/images/I/317vyN4IDlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC1QTYX-es Puma Cali Nubuck Zapatillas Deportivas para Mujer Rosa...'
 sku: 'B07DC1QTYX-es'
 tags: [  ]

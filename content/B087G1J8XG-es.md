@@ -5,7 +5,7 @@ date: 2020-09-15 12:16:32
 image: 'https://m.media-amazon.com/images/I/31EqjNrU0yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087G1J8XG-es TOUS Pulsera Good Vibes Mama de Plata Vermeil y shungitas'
 sku: 'B087G1J8XG-es'
 tags: [  ]

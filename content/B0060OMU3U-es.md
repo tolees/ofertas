@@ -5,7 +5,7 @@ date: 2020-09-29 14:33:09
 image: 'https://m.media-amazon.com/images/I/31d039j-mVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0060OMU3U-es La Roche Posay - Agua micelar effaclar 400 ml'
 sku: 'B0060OMU3U-es'
 tags: [  ]

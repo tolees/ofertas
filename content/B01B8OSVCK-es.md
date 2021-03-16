@@ -5,7 +5,7 @@ date: 2020-08-27 18:33:40
 image: 'https://m.media-amazon.com/images/I/31chAFSKzyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B8OSVCK-es DELL KB216 - Teclado USB Universal QWERTY Internacional de...'
 sku: 'B01B8OSVCK-es'
 tags: [  ]

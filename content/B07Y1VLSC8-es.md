@@ -5,7 +5,7 @@ date: 2020-08-18 08:35:44
 image: 'https://m.media-amazon.com/images/I/41lCCmn7mlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1VLSC8-es Nike Court Borough Low 2 Zapatillas de Baloncesto para...'
 sku: 'B07Y1VLSC8-es'
 tags: [  ]

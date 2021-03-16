@@ -5,7 +5,7 @@ date: 2020-06-01 06:49:18
 image: 'https://m.media-amazon.com/images/I/41LjfkUEltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK1DB9M-es Neceser de Viaje Neceser Maquillaje Grande para Hombre y...'
 sku: 'B07SK1DB9M-es'
 tags: [  ]

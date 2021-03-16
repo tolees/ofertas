@@ -5,7 +5,7 @@ date: 2020-09-28 11:05:08
 image: 'https://m.media-amazon.com/images/I/31aXud+odGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9BTFJY-es adidas Sleek Zapatillas para Mujer Color Blanco Footwear...'
 sku: 'B07M9BTFJY-es'
 tags: [  ]

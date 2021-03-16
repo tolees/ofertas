@@ -5,7 +5,7 @@ date: 2020-07-05 12:02:45
 image: 'https://m.media-amazon.com/images/I/418kwDcBQXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6RWXR7-es B6 Dotted Journal de Scribbles That Matter - Crea tu Bujo...'
 sku: 'B07Z6RWXR7-es'
 tags: [  ]

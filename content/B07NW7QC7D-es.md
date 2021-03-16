@@ -5,7 +5,7 @@ date: 2020-01-21 11:44:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eBKilyXsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW7QC7D-es Skechers Flex Appeal 3.0-insiders Zapatillas para Mujer...'
 sku: 'B07NW7QC7D-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-06 10:38:27
 image: 'https://m.media-amazon.com/images/I/41JAvEdtMHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XQJFL7-es Zapatillas de Baloncesto para Hombres Damas Deportes al...'
 sku: 'B082XQJFL7-es'
 tags: [  ]

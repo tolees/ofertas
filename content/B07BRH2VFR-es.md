@@ -5,7 +5,7 @@ date: 2020-07-25 20:45:24
 image: 'https://m.media-amazon.com/images/I/41VxrqI-xML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRH2VFR-es TACKLIFE Pistola de Riego Pistola de Agua para Manguera de...'
 sku: 'B07BRH2VFR-es'
 tags: [  ]

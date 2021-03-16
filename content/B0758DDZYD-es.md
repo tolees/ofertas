@@ -5,7 +5,7 @@ date: 2020-09-17 15:31:44
 image: 'https://m.media-amazon.com/images/I/51IxJipgRZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758DDZYD-es Fairy Detergente para Lavavajillas 400 g'
 sku: 'B0758DDZYD-es'
 tags: [  ]

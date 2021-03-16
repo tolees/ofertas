@@ -5,7 +5,7 @@ date: 2020-03-14 16:02:14
 image: 'https://m.media-amazon.com/images/I/41hSp6jz9HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081Q3VSGV-es Ideapark Sombrero de Invierno para Hombre Mujeres Sombrero...'
 sku: 'B081Q3VSGV-es'
 tags: [  ]

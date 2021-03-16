@@ -5,7 +5,7 @@ date: 2020-04-06 00:00:28
 image: 'https://m.media-amazon.com/images/I/41PIlZ4MuGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077H1KMGG-es Ice-Watch - P. Leclercq Slate - Reloj verde para Hombre...'
 sku: 'B077H1KMGG-es'
 tags: [  ]

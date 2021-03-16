@@ -5,7 +5,7 @@ date: 2020-09-02 16:20:32
 image: 'https://m.media-amazon.com/images/I/51Q04-b9g0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5GYVQ7-es 4 Pack Esponja de ducha de baño JollyJelly Malla de baño...'
 sku: 'B07H5GYVQ7-es'
 tags: [  ]

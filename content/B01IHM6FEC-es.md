@@ -5,7 +5,7 @@ date: 2020-09-30 06:23:29
 image: 'https://m.media-amazon.com/images/I/4187W1mQVSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IHM6FEC-es Severin MY 7101 S POWER Fire 800 W - Aspiradora 800 W...'
 sku: 'B01IHM6FEC-es'
 tags: [  ]

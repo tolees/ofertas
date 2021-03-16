@@ -5,7 +5,7 @@ date: 2020-09-16 13:34:25
 image: 'https://m.media-amazon.com/images/I/51T+k3nOhZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VL5TCR-es Avaspot Difusor de Aceites Esenciales 250ml humidificador...'
 sku: 'B073VL5TCR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 07:41:59
 image: 'https://m.media-amazon.com/images/I/51tZ4VmcwDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZPF1RS-es Camfosy - Botas de Cuero para mujer color Verde talla 39.5 EU'
 sku: 'B07GZPF1RS-es'
 tags: [  ]

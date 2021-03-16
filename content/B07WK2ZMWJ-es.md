@@ -5,7 +5,7 @@ date: 2020-02-16 18:21:44
 image: 'https://m.media-amazon.com/images/I/51RLCUilKxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WK2ZMWJ-es ANGELBLISS Alimentador antiahogo bebe chupete fruta bebe...'
 sku: 'B07WK2ZMWJ-es'
 tags: [  ]

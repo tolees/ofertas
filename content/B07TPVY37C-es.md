@@ -5,7 +5,7 @@ date: 2020-04-03 05:11:36
 image: 'https://m.media-amazon.com/images/I/51BMAoYRFzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPVY37C-es Slay the Spire'
 sku: 'B07TPVY37C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-10 04:27:41
 image: 'https://m.media-amazon.com/images/I/314dW9u6ouL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0759VT1ZN-es LG CineBeam PH30JG - Proyector con batería integrada hasta...'
 sku: 'B0759VT1ZN-es'
 tags: [  ]

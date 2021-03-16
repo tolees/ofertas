@@ -5,7 +5,7 @@ date: 2020-05-13 13:02:59
 image: 'https://m.media-amazon.com/images/I/41NhAEr6rlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872NQYP8-es Funda Transparente Compatible para Huawei Nova 5 Carcasa...'
 sku: 'B0872NQYP8-es'
 tags: [  ]

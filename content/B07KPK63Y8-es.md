@@ -5,7 +5,7 @@ date: 2020-10-05 12:12:21
 image: 'https://m.media-amazon.com/images/I/41AiwNzz9cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPK63Y8-es Pop! Bobble: Avengers Endgame: Nebula'
 sku: 'B07KPK63Y8-es'
 tags: [  ]

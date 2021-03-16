@@ -5,7 +5,7 @@ date: 2020-08-21 06:10:14
 image: 'https://m.media-amazon.com/images/I/41lmofLgFyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KZJERAE-es SAILUN® 48W LED Cristal Lámpara de Araña Moderna Lámpara...'
 sku: 'B01KZJERAE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-27 22:08:10
 image: 'https://m.media-amazon.com/images/I/31PZpTscpCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VF6H2C8-es Hackett London Sanderson Chino Pantalones Azul Navy 595...'
 sku: 'B07VF6H2C8-es'
 tags: [  ]

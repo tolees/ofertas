@@ -5,7 +5,7 @@ date: 2020-09-28 15:04:27
 image: 'https://m.media-amazon.com/images/I/412DgPBCoiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079P4V4CP-es Zyxel N300 LTE 4G Router Wi-Fi de banda dual con ranura...'
 sku: 'B079P4V4CP-es'
 tags: [  ]

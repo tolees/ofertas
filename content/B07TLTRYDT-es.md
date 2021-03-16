@@ -5,7 +5,7 @@ date: 2020-08-10 17:01:34
 image: 'https://m.media-amazon.com/images/I/41Jw+7uggxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLTRYDT-es Clarks Sift Lace Zapatillas para Mujer Negro Black Combi...'
 sku: 'B07TLTRYDT-es'
 tags: [  ]

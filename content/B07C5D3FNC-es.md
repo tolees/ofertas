@@ -5,7 +5,7 @@ date: 2020-05-11 08:04:22
 image: 'https://m.media-amazon.com/images/I/21eYxXRWiHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5D3FNC-es Kelme - Zapatillas Triton'
 sku: 'B07C5D3FNC-es'
 tags: [  ]

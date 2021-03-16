@@ -5,7 +5,7 @@ date: 2020-01-17 18:24:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WnS8YEESL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4NP4I0-es POP! Vinilo - Twin Peaks: Bob'
 sku: 'B01N4NP4I0-es'
 tags: [  ]

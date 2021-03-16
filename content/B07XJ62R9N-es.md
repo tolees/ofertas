@@ -5,7 +5,7 @@ date: 2020-09-17 15:49:35
 image: 'https://m.media-amazon.com/images/I/41cMK3sFl6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJ62R9N-es Skechers Uno Zapatillas para Hombre Negro Black...'
 sku: 'B07XJ62R9N-es'
 tags: [  ]

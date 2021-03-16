@@ -5,7 +5,7 @@ date: 2020-03-27 08:07:24
 image: 'https://m.media-amazon.com/images/I/41P5Ysn1JNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GH5GM5S-es Under Armour Tech Polo Hombre Blanco...'
 sku: 'B01GH5GM5S-es'
 tags: [  ]

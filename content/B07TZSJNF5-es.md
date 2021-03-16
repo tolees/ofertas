@@ -5,7 +5,7 @@ date: 2020-09-14 07:03:46
 image: 'https://m.media-amazon.com/images/I/412YtZ2aOmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZSJNF5-es Skechers Reggae Fest-Rooted Bailarinas con Punta Cerrada...'
 sku: 'B07TZSJNF5-es'
 tags: [  ]

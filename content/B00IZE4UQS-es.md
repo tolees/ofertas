@@ -5,7 +5,7 @@ date: 2020-05-09 19:07:01
 image: 'https://m.media-amazon.com/images/I/51UP5H-HEWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IZE4UQS-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B00IZE4UQS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 16:32:18
 image: 'https://m.media-amazon.com/images/I/51uiJLdbuUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CE5Q37W-es Fajiabao Ajedrez Magnetico Plegable con Tablero Ajedrez...'
 sku: 'B01CE5Q37W-es'
 tags: [  ]

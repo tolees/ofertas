@@ -5,7 +5,7 @@ date: 2020-05-14 23:15:04
 image: 'https://m.media-amazon.com/images/I/41BSMvaZWDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872NSXHX-es Funda Transparente Compatible para Xiaomi Redmi Note 3...'
 sku: 'B0872NSXHX-es'
 tags: [  ]

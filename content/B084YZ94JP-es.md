@@ -5,7 +5,7 @@ date: 2020-05-09 09:44:45
 image: 'https://m.media-amazon.com/images/I/41DExuixzgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084YZ94JP-es Saco Silla Universal Rosy Fuentes en celeste gris'
 sku: 'B084YZ94JP-es'
 tags: [  ]

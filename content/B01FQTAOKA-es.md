@@ -5,7 +5,7 @@ date: 2020-05-09 18:31:37
 image: 'https://m.media-amazon.com/images/I/41kggi4W0eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FQTAOKA-es NETUM Handheld Laser Barcode Scanner 1D Lector de Escáner...'
 sku: 'B01FQTAOKA-es'
 tags: [  ]

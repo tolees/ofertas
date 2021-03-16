@@ -5,7 +5,7 @@ date: 2020-04-03 08:20:29
 image: 'https://m.media-amazon.com/images/I/41+RSW0erXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRCD7PN-es Kipling - Baroe Monederos Mujer Verde Seagrass 20.5x10x7.5...'
 sku: 'B07PRCD7PN-es'
 tags: [  ]

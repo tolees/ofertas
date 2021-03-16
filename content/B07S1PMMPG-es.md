@@ -5,7 +5,7 @@ date: 2020-02-26 12:07:35
 image: 'https://m.media-amazon.com/images/I/41hfYiYCbEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1PMMPG-es New Balance 574v2 Zapatillas para Hombre Azul Blue E A E...'
 sku: 'B07S1PMMPG-es'
 tags: [  ]

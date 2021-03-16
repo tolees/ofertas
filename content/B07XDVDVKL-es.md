@@ -5,7 +5,7 @@ date: 2020-01-24 13:46:09
 image: 'https://m.media-amazon.com/images/I/41u1dSgvx7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDVDVKL-es Martina D Antiochia La Diversión de Martina Grey-Riñonera...'
 sku: 'B07XDVDVKL-es'
 tags: [  ]

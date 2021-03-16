@@ -5,7 +5,7 @@ date: 2020-09-21 11:10:48
 image: 'https://m.media-amazon.com/images/I/31VNFeVSi3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078PKX4QK-es D-Link DAP-1610 - Repetidor WiFi AC1200 1200 Mbps Puerto...'
 sku: 'B078PKX4QK-es'
 tags: [  ]

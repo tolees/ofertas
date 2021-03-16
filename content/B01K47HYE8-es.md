@@ -5,7 +5,7 @@ date: 2020-08-28 08:37:13
 image: 'https://m.media-amazon.com/images/I/41cIGseeNNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K47HYE8-es One For All WM2221 Soporte de pared para TV de 13 a 40”...'
 sku: 'B01K47HYE8-es'
 tags: [  ]

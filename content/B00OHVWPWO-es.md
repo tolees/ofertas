@@ -5,7 +5,7 @@ date: 2020-08-12 21:14:42
 image: 'https://m.media-amazon.com/images/I/41KYfGwcF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OHVWPWO-es HP Omen X9000 - Ratón con Cable Gaming 8200 PPP Negro y Rojo'
 sku: 'B00OHVWPWO-es'
 tags: [  ]

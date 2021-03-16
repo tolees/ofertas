@@ -5,7 +5,7 @@ date: 2020-09-26 14:46:56
 image: 'https://m.media-amazon.com/images/I/41ZNP9lRvXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017NR9Q7A-es Moulinex XF384B10 - Accesorio para cocinar al vapor...'
 sku: 'B017NR9Q7A-es'
 tags: [  ]

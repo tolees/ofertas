@@ -5,7 +5,7 @@ date: 2020-07-31 14:33:13
 image: 'https://m.media-amazon.com/images/I/41qO531hLXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZWWHRQ-es YAZILIND 18 k chapado en oro mujer joyer¨ªa exquisita...'
 sku: 'B06ZZWWHRQ-es'
 tags: [  ]

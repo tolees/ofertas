@@ -5,7 +5,7 @@ date: 2020-09-10 18:52:57
 image: 'https://m.media-amazon.com/images/I/514sg0YyQbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PF8YYT-es 19 Anillo de luz LED con trípode Aro de luz...'
 sku: 'B087PF8YYT-es'
 tags: [  ]

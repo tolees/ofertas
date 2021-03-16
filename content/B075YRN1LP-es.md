@@ -5,7 +5,7 @@ date: 2020-08-03 20:21:45
 image: 'https://m.media-amazon.com/images/I/41uSVoIE2-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YRN1LP-es BRTLX 5W G45 Bombilla LED Mini Globo Blanco Frio 6000K E14...'
 sku: 'B075YRN1LP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 16:09:21
 image: 'https://m.media-amazon.com/images/I/41XwuYa9U2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M2BRYAT-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
 sku: 'B01M2BRYAT-es'
 tags: [  ]

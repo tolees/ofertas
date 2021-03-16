@@ -5,7 +5,7 @@ date: 2020-08-09 19:32:29
 image: 'https://m.media-amazon.com/images/I/51uIkv2ygTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084VH2QLL-es KESOTO Madera USB 2.0 Flash Pen Drive Disco De Memoria...'
 sku: 'B084VH2QLL-es'
 tags: [  ]

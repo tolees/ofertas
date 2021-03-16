@@ -5,7 +5,7 @@ date: 2020-03-16 05:42:45
 image: 'https://m.media-amazon.com/images/I/41yxK7U4rbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZY6CQY-es Skechers Men s Solar Fuse Trainers Black Black...'
 sku: 'B07NZY6CQY-es'
 tags: [  ]

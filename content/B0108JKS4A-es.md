@@ -5,7 +5,7 @@ date: 2020-09-14 20:42:16
 image: 'https://m.media-amazon.com/images/I/511Woa0ezsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0108JKS4A-es Hot Chocolate Design Chocolaticas Notebook Bailarina Mary...'
 sku: 'B0108JKS4A-es'
 tags: [  ]

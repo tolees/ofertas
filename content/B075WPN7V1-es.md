@@ -5,7 +5,7 @@ date: 2020-03-12 13:02:49
 image: 'https://m.media-amazon.com/images/I/41uLlDGh+VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WPN7V1-es 【Versión mejorada】TEC.BEAN Masajeador eléctrico de Mano...'
 sku: 'B075WPN7V1-es'
 tags: [  ]

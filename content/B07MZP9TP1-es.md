@@ -5,7 +5,7 @@ date: 2020-05-28 19:04:13
 image: 'https://m.media-amazon.com/images/I/41SVgUe8MhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZP9TP1-es Pepe Jeans Lia Pantalones Multi 0aa 36 Talla del...'
 sku: 'B07MZP9TP1-es'
 tags: [  ]

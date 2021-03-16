@@ -5,7 +5,7 @@ date: 2020-02-29 23:32:20
 image: 'https://m.media-amazon.com/images/I/41EDBi0rBpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8Y11RK-es Alpina 295441044/A19 Cortacesped Gasolina BL 410 123 CC...'
 sku: 'B07L8Y11RK-es'
 tags: [  ]

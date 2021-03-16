@@ -5,7 +5,7 @@ date: 2020-03-23 11:50:39
 image: 'https://m.media-amazon.com/images/I/41iZqfeV48L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBLZS4D-es Rieker B5124-14 Zapatillas para Hombre Azul...'
 sku: 'B07LBLZS4D-es'
 tags: [  ]

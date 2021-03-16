@@ -5,7 +5,7 @@ date: 2020-04-04 17:20:08
 image: 'https://m.media-amazon.com/images/I/5121sVS6y0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07575WFLT-es Garmin Forerunner 30 - Reloj de carrera con GPS y sensor...'
 sku: 'B07575WFLT-es'
 tags: [  ]

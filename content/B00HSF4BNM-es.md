@@ -5,7 +5,7 @@ date: 2020-03-17 08:23:44
 image: 'https://m.media-amazon.com/images/I/31-qOsmGEvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HSF4BNM-es KUHN RIKON Molinillo con Palanca Rojo Centimeters'
 sku: 'B00HSF4BNM-es'
 tags: [  ]

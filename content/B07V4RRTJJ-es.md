@@ -5,7 +5,7 @@ date: 2020-07-08 16:17:53
 image: 'https://m.media-amazon.com/images/I/51o22RbgjdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4RRTJJ-es Tommy Hilfiger - Soft Turnlock Cc Holder Carteras Mujer...'
 sku: 'B07V4RRTJJ-es'
 tags: [  ]

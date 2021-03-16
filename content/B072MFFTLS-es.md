@@ -5,7 +5,7 @@ date: 2020-01-17 15:46:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31WwMJALEEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MFFTLS-es RED WAGON Zapatillas Back To School para Niños Negro Black...'
 sku: 'B072MFFTLS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 07:51:36
 image: 'https://m.media-amazon.com/images/I/31pwsmRGtPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG65F8Y-es PUMA Nova Wn s Zapatillas Deportivas para Mujer Rosa...'
 sku: 'B07KG65F8Y-es'
 tags: [  ]

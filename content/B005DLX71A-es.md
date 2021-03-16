@@ -5,7 +5,7 @@ date: 2020-05-25 10:51:02
 image: 'https://m.media-amazon.com/images/I/51Focf9VjfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005DLX71A-es Casio Reloj de Pulsera MRW-200H-1B2VEF'
 sku: 'B005DLX71A-es'
 tags: [  ]

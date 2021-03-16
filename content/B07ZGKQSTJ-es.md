@@ -5,7 +5,7 @@ date: 2020-08-04 13:38:21
 image: 'https://m.media-amazon.com/images/I/41cR2xAPWaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZGKQSTJ-es kinder Fluff - Protector de Nieve y Parasol para Coche 8...'
 sku: 'B07ZGKQSTJ-es'
 tags: [  ]

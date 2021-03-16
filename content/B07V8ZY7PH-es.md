@@ -5,7 +5,7 @@ date: 2020-05-11 11:21:57
 image: 'https://m.media-amazon.com/images/I/518U+ZUCiuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8ZY7PH-es Calvin Klein - Striped Logo Pu Mini Reporter Shoppers y...'
 sku: 'B07V8ZY7PH-es'
 tags: [  ]

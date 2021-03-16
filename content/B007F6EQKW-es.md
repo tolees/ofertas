@@ -5,7 +5,7 @@ date: 2020-06-02 13:38:13
 image: 'https://m.media-amazon.com/images/I/21i+R+H2rPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007F6EQKW-es Lékué - Cocedor de Huevos 0.1 litros Silicona Transparente'
 sku: 'B007F6EQKW-es'
 tags: [  ]

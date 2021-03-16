@@ -5,7 +5,7 @@ date: 2020-07-23 18:50:12
 image: 'https://m.media-amazon.com/images/I/410K9ImNYmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQTRP63-es New Balance 574 Zapatillas para Hombre Negro Black Black...'
 sku: 'B07PQTRP63-es'
 tags: [  ]

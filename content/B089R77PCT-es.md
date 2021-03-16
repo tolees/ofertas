@@ -5,7 +5,7 @@ date: 2020-07-01 13:01:43
 image: 'https://m.media-amazon.com/images/I/413lF81zhoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089R77PCT-es LJP Funda Motorola Moto E7 Antigolpes Doble Capa Duro PC +...'
 sku: 'B089R77PCT-es'
 tags: [  ]

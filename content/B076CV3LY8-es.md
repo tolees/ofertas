@@ -5,7 +5,7 @@ date: 2020-08-04 23:21:57
 image: 'https://m.media-amazon.com/images/I/41hXMPLZoqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CV3LY8-es Samsonite Spectrolite 2.0 Rolling Laptop Bag 43 9 cm 17.3"...'
 sku: 'B076CV3LY8-es'
 tags: [  ]

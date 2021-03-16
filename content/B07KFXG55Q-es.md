@@ -5,7 +5,7 @@ date: 2020-03-24 21:22:04
 image: 'https://m.media-amazon.com/images/I/41Rg90Vb5yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFXG55Q-es PUMA Tarrenz SB Puretex Zapatillas Unisex Adulto Black...'
 sku: 'B07KFXG55Q-es'
 tags: [  ]

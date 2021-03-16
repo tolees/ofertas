@@ -5,7 +5,7 @@ date: 2020-01-11 15:47:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQP281L-es Salomon ALPHACROSS W Zapatillas de trail running Mujer...'
 sku: 'B07KQP281L-es'
 tags: [  ]

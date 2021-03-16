@@ -5,7 +5,7 @@ date: 2020-01-22 14:47:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ho5nBVflL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG17T3N-es PUMA NRGY Comet Zapatillas de Running Unisex Adulto...'
 sku: 'B07KG17T3N-es'
 tags: [  ]

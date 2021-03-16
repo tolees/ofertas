@@ -5,7 +5,7 @@ date: 2020-04-08 10:55:59
 image: 'https://m.media-amazon.com/images/I/41Frx5TLyUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD72CTX-es Bedsure Bombilla Inteligente WiFi 2-Pack - Bombilla RGB...'
 sku: 'B07XD72CTX-es'
 tags: [  ]

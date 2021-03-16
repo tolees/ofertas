@@ -5,7 +5,7 @@ date: 2020-09-05 16:41:51
 image: 'https://m.media-amazon.com/images/I/412-WPo+rYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7JRSQW-es Te-Rich 2020 Wake Up Light Luz Despertador Simulación del...'
 sku: 'B07M7JRSQW-es'
 tags: [  ]

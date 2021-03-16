@@ -5,7 +5,7 @@ date: 2020-09-13 21:46:54
 image: 'https://m.media-amazon.com/images/I/513HIZhffAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089DH9G4N-es DEIK Hot&Hot Parrilla Eléctrica de Asar 1400W Parrilla en...'
 sku: 'B089DH9G4N-es'
 tags: [  ]

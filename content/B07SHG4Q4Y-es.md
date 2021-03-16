@@ -5,7 +5,7 @@ date: 2020-08-30 06:41:08
 image: 'https://m.media-amazon.com/images/I/41--2ErpqcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHG4Q4Y-es Active Era® Báscula Grasa Corporal Inteligente - Báscula...'
 sku: 'B07SHG4Q4Y-es'
 tags: [  ]

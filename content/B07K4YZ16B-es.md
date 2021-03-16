@@ -5,7 +5,7 @@ date: 2020-03-04 18:39:08
 image: 'https://m.media-amazon.com/images/I/41Qda4HU5tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4YZ16B-es Conjunto de luces Lightailing para James Bond Aston Martin...'
 sku: 'B07K4YZ16B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-09 00:40:46
 image: 'https://m.media-amazon.com/images/I/41BFZ0xrrBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2ZVZXD-es Joma Olimpia Pantalones Cortos Hombre Negro S'
 sku: 'B06Y2ZVZXD-es'
 tags: [  ]

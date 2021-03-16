@@ -5,7 +5,7 @@ date: 2020-05-16 22:45:20
 image: 'https://m.media-amazon.com/images/I/41gScyKy5ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CMHBOS-es Rimmel London Match Perfection Foundation Base de...'
 sku: 'B015CMHBOS-es'
 tags: [  ]

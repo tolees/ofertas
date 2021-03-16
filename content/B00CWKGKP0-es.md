@@ -5,7 +5,7 @@ date: 2020-05-18 18:08:08
 image: 'https://m.media-amazon.com/images/I/412JSkBxWRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CWKGKP0-es Krafft - Auto-Arranque 210 Ml 12604'
 sku: 'B00CWKGKP0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-07 06:07:39
 image: 'https://m.media-amazon.com/images/I/31hQpws1axL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZ4Y2SG-es Tamron T81140 - Objetivo SP 15-30mm F/2.8 Di VC USD G2...'
 sku: 'B07GZ4Y2SG-es'
 tags: [  ]

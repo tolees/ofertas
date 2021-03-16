@@ -5,7 +5,7 @@ date: 2020-06-13 08:26:22
 image: 'https://m.media-amazon.com/images/I/510YhnotfWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ5ZF7F-es Bammax Parque Infantil Bebe Extensible Parque de Juegos...'
 sku: 'B07TQ5ZF7F-es'
 tags: [  ]

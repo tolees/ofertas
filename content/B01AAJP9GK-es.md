@@ -5,7 +5,7 @@ date: 2020-08-01 18:25:37
 image: 'https://m.media-amazon.com/images/I/31TxR6skdVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AAJP9GK-es Columbia Cascades Explorer Pantalones Convertibles para...'
 sku: 'B01AAJP9GK-es'
 tags: [  ]

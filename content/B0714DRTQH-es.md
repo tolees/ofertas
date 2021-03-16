@@ -5,7 +5,7 @@ date: 2020-04-21 16:07:18
 image: 'https://m.media-amazon.com/images/I/418CxxAxyQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0714DRTQH-es Under Armour Challenger II Knit Warm-Up Ropa de Deporte de...'
 sku: 'B0714DRTQH-es'
 tags: [  ]

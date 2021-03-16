@@ -5,7 +5,7 @@ date: 2020-07-01 11:36:33
 image: 'https://m.media-amazon.com/images/I/51V-B7EuxhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HT952FI-es Einhell TH-US 240 - Esmeriladora combinada 4 patas de goma...'
 sku: 'B00HT952FI-es'
 tags: [  ]

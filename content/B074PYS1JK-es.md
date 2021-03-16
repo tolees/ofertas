@@ -5,7 +5,7 @@ date: 2020-01-16 18:06:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51TSpsYE5%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PYS1JK-es Artix Auriculares Plegables con Micrófono Auriculares...'
 sku: 'B074PYS1JK-es'
 tags: [  ]

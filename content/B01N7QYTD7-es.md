@@ -5,7 +5,7 @@ date: 2020-04-11 07:11:59
 image: 'https://m.media-amazon.com/images/I/31N50Vm-dKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7QYTD7-es Kappa - Pagino Pants Color Negro Talla 14 Years'
 sku: 'B01N7QYTD7-es'
 tags: [  ]

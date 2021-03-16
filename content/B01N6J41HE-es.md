@@ -5,7 +5,7 @@ date: 2020-08-30 16:21:43
 image: 'https://m.media-amazon.com/images/I/51SgvRWPU0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6J41HE-es KDP Casquillo G4 Bombilla LED - 2W/200LM equivalente a 20W...'
 sku: 'B01N6J41HE-es'
 tags: [  ]

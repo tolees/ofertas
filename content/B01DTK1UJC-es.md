@@ -5,7 +5,7 @@ date: 2020-03-25 11:03:05
 image: 'https://m.media-amazon.com/images/I/310DzsLnejL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DTK1UJC-es Ozone TRIFX - OZTRIFX - Auriculares in-Ear para Gaming'
 sku: 'B01DTK1UJC-es'
 tags: [  ]

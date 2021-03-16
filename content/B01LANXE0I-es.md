@@ -5,7 +5,7 @@ date: 2020-01-27 10:28:55
 image: 'https://m.media-amazon.com/images/I/41a0GoEqoTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LANXE0I-es Castellanisimos Mocasines de Piel Marron Hombre Antifaz...'
 sku: 'B01LANXE0I-es'
 tags: [  ]

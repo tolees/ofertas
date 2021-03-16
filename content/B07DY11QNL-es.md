@@ -5,7 +5,7 @@ date: 2020-01-12 14:42:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CKrux0ZKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DY11QNL-es Casio G-SHOCK Reloj Digital Reloj radiocontrolado y solar...'
 sku: 'B07DY11QNL-es'
 tags: [  ]

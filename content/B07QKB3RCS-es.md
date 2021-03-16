@@ -5,7 +5,7 @@ date: 2020-08-11 19:05:42
 image: 'https://m.media-amazon.com/images/I/51zbR00K17L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKB3RCS-es LENBEST Cojín de Agua Inflable para Bebé Alfombra Inflable...'
 sku: 'B07QKB3RCS-es'
 tags: [  ]

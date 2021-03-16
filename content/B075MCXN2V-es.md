@@ -5,7 +5,7 @@ date: 2020-02-15 08:08:01
 image: 'https://m.media-amazon.com/images/I/51tPOLNBEfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MCXN2V-es Cable USB Tipo C CHOETECH USB C a USB 3.0 2 x 2M + 1M...'
 sku: 'B075MCXN2V-es'
 tags: [  ]

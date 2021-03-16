@@ -5,7 +5,7 @@ date: 2020-08-05 17:24:43
 image: 'https://m.media-amazon.com/images/I/416UkO9O4FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KNP2Y6-es YuanLey 26 Port PoE Switch 24 PoE+ Port 100Mbps 2 Uplink...'
 sku: 'B082KNP2Y6-es'
 tags: [  ]

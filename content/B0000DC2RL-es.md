@@ -5,7 +5,7 @@ date: 2020-01-04 12:04:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vMCdL5GRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000DC2RL-es Reebok Classic Nylon - Zapatillas de Entrenamiento Mujer...'
 sku: 'B0000DC2RL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-14 15:41:37
 image: 'https://m.media-amazon.com/images/I/41bF+ucK-RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GT2MLYZ-es Desigual - Bag Clio Yakarta Mini Women Shoppers y bolsos...'
 sku: 'B07GT2MLYZ-es'
 tags: [  ]

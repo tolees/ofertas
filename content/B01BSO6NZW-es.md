@@ -5,7 +5,7 @@ date: 2020-07-06 18:13:14
 image: 'https://m.media-amazon.com/images/I/41cerL8EplL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSO6NZW-es Philips Sonicare HX6322/04 - Cepillo de dientes eléctrico...'
 sku: 'B01BSO6NZW-es'
 tags: [  ]

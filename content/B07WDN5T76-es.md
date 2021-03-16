@@ -5,7 +5,7 @@ date: 2020-04-13 19:45:46
 image: 'https://m.media-amazon.com/images/I/61mfsxoblzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDN5T76-es Jovego Calcetines de Lana Mujer Suave Cómodo Gruesa de...'
 sku: 'B07WDN5T76-es'
 tags: [  ]

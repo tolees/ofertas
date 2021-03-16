@@ -5,7 +5,7 @@ date: 2020-02-22 07:38:17
 image: 'https://m.media-amazon.com/images/I/31-oXGKyARL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPRG98-es Gioseppo 56156 Merceditas para Niñas Negro 36 EU'
 sku: 'B07MZPRG98-es'
 tags: [  ]

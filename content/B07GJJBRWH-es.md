@@ -5,7 +5,7 @@ date: 2020-05-11 12:02:00
 image: 'https://m.media-amazon.com/images/I/41LJTe95mBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJJBRWH-es LKXHarleya Baby Anniversary Monthly Milestone Blanket Age...'
 sku: 'B07GJJBRWH-es'
 tags: [  ]

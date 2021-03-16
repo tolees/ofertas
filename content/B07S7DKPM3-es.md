@@ -5,7 +5,7 @@ date: 2020-10-05 18:09:28
 image: 'https://m.media-amazon.com/images/I/31lwrcOCIyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7DKPM3-es Spiuk Culote Corto C/T BIOMECHANIC Hombre Petroleo/Fluor...'
 sku: 'B07S7DKPM3-es'
 tags: [  ]

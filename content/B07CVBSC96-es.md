@@ -5,7 +5,7 @@ date: 2020-02-04 15:33:52
 image: 'https://m.media-amazon.com/images/I/41Xya25gnvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVBSC96-es FIND - Free Spirit Líquido de labios mate n.1 + Brillo de...'
 sku: 'B07CVBSC96-es'
 tags: [  ]

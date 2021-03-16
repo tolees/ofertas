@@ -5,7 +5,7 @@ date: 2020-06-23 17:16:05
 image: 'https://m.media-amazon.com/images/I/41cE-10gcaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KHPHCBJ-es Under Armour Blitzing II - Gorra Hombre Azul Midnight...'
 sku: 'B07KHPHCBJ-es'
 tags: [  ]

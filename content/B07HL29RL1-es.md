@@ -5,7 +5,7 @@ date: 2020-10-11 11:25:12
 image: 'https://m.media-amazon.com/images/I/51WryLXFMEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL29RL1-es Amazon Essentials - Pack de 3 sacos de dormir de bebé para...'
 sku: 'B07HL29RL1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-14 14:31:18
 image: 'https://m.media-amazon.com/images/I/41K10kDOcvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCNFJ9Y-es Riñonera plana Pepe Jeans Raw'
 sku: 'B07NCNFJ9Y-es'
 tags: [  ]

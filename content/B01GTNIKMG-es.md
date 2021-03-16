@@ -5,7 +5,7 @@ date: 2020-05-04 12:11:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KsTSD9wxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GTNIKMG-es POC POCito Retina Máscaras Nieve Unisex niños Rosa...'
 sku: 'B01GTNIKMG-es'
 tags: [  ]

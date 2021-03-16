@@ -5,7 +5,7 @@ date: 2020-08-26 13:01:12
 image: 'https://m.media-amazon.com/images/I/51iCuIxfM0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTBLV21-es FOGAWA 380-400Pcs Cuentas de Madera Redondas Colores Kit...'
 sku: 'B07MTBLV21-es'
 tags: [  ]

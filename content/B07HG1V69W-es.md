@@ -5,7 +5,7 @@ date: 2020-06-24 11:19:23
 image: 'https://m.media-amazon.com/images/I/41XnEffiP8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG1V69W-es New Balance FuelCell Propel h Zapatillas de Running para...'
 sku: 'B07HG1V69W-es'
 tags: [  ]

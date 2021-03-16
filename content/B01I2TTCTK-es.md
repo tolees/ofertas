@@ -5,7 +5,7 @@ date: 2020-03-09 06:03:49
 image: 'https://m.media-amazon.com/images/I/41I7nvZRZzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I2TTCTK-es Belkin F2CU038BTBLK - Adaptador de USB-C a HDMI 4k a 60 Hz...'
 sku: 'B01I2TTCTK-es'
 tags: [  ]

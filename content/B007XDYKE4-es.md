@@ -5,7 +5,7 @@ date: 2020-07-22 23:14:21
 image: 'https://m.media-amazon.com/images/I/41Zw2YfxF6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007XDYKE4-es Targus Classic+ - Funda de 15-15.6" color negro'
 sku: 'B007XDYKE4-es'
 tags: [  ]

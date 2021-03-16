@@ -5,7 +5,7 @@ date: 2020-09-12 12:17:12
 image: 'https://m.media-amazon.com/images/I/31BCSghNXPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002VVX29W-es Bourjois Contour Clubbing Delineador de Ojos Tono 45 Blue...'
 sku: 'B002VVX29W-es'
 tags: [  ]

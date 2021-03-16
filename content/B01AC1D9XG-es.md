@@ -5,7 +5,7 @@ date: 2020-05-19 19:02:09
 image: 'https://m.media-amazon.com/images/I/31Bv8joU2mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AC1D9XG-es Vizaro - Saco de Dormir Evolutivo 4-36 meses 100g - 4 5Tog...'
 sku: 'B01AC1D9XG-es'
 tags: [  ]

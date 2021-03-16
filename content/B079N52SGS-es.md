@@ -5,7 +5,7 @@ date: 2020-08-22 08:58:26
 image: 'https://m.media-amazon.com/images/I/41XSB3tdGNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079N52SGS-es Mommore Bolsa Almuerzo para bolsa aislante independiente...'
 sku: 'B079N52SGS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-02 19:31:43
 image: 'https://m.media-amazon.com/images/I/51qXXwDQQuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWY3KSJ-es Fairy Tail & Glitzer Fee - Granulado de arena decorativa...'
 sku: 'B07VWY3KSJ-es'
 tags: [  ]

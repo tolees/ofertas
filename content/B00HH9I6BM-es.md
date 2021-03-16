@@ -5,7 +5,7 @@ date: 2020-07-22 16:01:14
 image: 'https://m.media-amazon.com/images/I/41-AZDwZhML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HH9I6BM-es Adaptador VGA DB9 hembra a HD15 pines macho adaptador de'
 sku: 'B00HH9I6BM-es'
 tags: [  ]

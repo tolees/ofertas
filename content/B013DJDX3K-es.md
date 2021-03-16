@@ -5,7 +5,7 @@ date: 2020-01-24 17:04:45
 image: 'https://m.media-amazon.com/images/I/51Ls7AGzxiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013DJDX3K-es Skylanders SuperCharges - Figura High Volt Driver'
 sku: 'B013DJDX3K-es'
 tags: [  ]

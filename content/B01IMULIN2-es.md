@@ -5,7 +5,7 @@ date: 2020-03-11 15:22:26
 image: 'https://m.media-amazon.com/images/I/4145pOtqNrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IMULIN2-es SONGMICS Caja joyero Organizador para bisuterías 26 x 26 x...'
 sku: 'B01IMULIN2-es'
 tags: [  ]

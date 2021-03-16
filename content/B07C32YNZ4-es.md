@@ -5,7 +5,7 @@ date: 2020-02-05 13:07:56
 image: 'https://m.media-amazon.com/images/I/51j+wRubcBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C32YNZ4-es Mascarilla facial con Ácido Hialurónico. Máscara de tejido...'
 sku: 'B07C32YNZ4-es'
 tags: [  ]

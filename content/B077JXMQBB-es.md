@@ -5,7 +5,7 @@ date: 2020-01-16 09:52:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XKaRQvtFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077JXMQBB-es Pala De Padel Head Stratos Pro Ltd'
 sku: 'B077JXMQBB-es'
 tags: [  ]

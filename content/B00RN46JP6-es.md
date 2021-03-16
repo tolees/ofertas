@@ -5,7 +5,7 @@ date: 2020-05-20 10:14:49
 image: 'https://m.media-amazon.com/images/I/31PleePe0gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RN46JP6-es Zefal Piel Armour M Protectores Adhesivos Cuadro Transparente'
 sku: 'B00RN46JP6-es'
 tags: [  ]

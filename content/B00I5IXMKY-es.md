@@ -5,7 +5,7 @@ date: 2020-10-01 06:56:55
 image: 'https://m.media-amazon.com/images/I/41FkodeL-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I5IXMKY-es Intex 29050 - Red recogehojas compatible con mango de 26 2...'
 sku: 'B00I5IXMKY-es'
 tags: [  ]

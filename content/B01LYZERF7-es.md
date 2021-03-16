@@ -5,7 +5,7 @@ date: 2020-07-23 19:15:28
 image: 'https://m.media-amazon.com/images/I/31KtfeRF8vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYZERF7-es Brennenstuhl Comfort Line regleta de enchufes con 6 tomas...'
 sku: 'B01LYZERF7-es'
 tags: [  ]

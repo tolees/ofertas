@@ -5,7 +5,7 @@ date: 2020-08-12 07:16:38
 image: 'https://m.media-amazon.com/images/I/31RZYqvpgkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VP4C5KD-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones...'
 sku: 'B07VP4C5KD-es'
 tags: [  ]

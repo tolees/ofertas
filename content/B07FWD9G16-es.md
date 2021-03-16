@@ -5,7 +5,7 @@ date: 2020-01-22 09:35:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UuTDaLJyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FWD9G16-es Nike Portmore II Ultralight GS Zapatillas de Deporte para...'
 sku: 'B07FWD9G16-es'
 tags: [  ]

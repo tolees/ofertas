@@ -5,7 +5,7 @@ date: 2020-10-11 17:57:34
 image: 'https://m.media-amazon.com/images/I/51Edx1Sd2bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0154B6TAY-es Lorus Reloj Analógico de Cuarzo para Hombre con Correa de...'
 sku: 'B0154B6TAY-es'
 tags: [  ]

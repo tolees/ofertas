@@ -5,7 +5,7 @@ date: 2020-02-19 19:55:30
 image: 'https://m.media-amazon.com/images/I/31Ih-WcbHUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBFYQ58-es Calentador de Mano Recargable Calentador de Mano portátil...'
 sku: 'B07YBFYQ58-es'
 tags: [  ]

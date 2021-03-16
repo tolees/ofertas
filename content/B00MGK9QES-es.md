@@ -5,7 +5,7 @@ date: 2020-08-25 12:22:50
 image: 'https://m.media-amazon.com/images/I/318QNxM2zLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MGK9QES-es Rimmel London Provocalips Barra De Labios Tono 500 Kiss Me...'
 sku: 'B00MGK9QES-es'
 tags: [  ]

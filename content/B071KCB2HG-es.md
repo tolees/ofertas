@@ -5,7 +5,7 @@ date: 2020-03-27 20:40:03
 image: 'https://m.media-amazon.com/images/I/51ClB5yBM9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KCB2HG-es Magno - Desodorante Marine - 150ml pack de 6 Total: 900ml'
 sku: 'B071KCB2HG-es'
 tags: [  ]

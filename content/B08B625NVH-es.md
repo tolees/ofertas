@@ -5,7 +5,7 @@ date: 2020-07-07 16:36:17
 image: 'https://m.media-amazon.com/images/I/31Aklo00vaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B625NVH-es Longspeed TLW03 4.0 Pulsera Inteligente Smartband...'
 sku: 'B08B625NVH-es'
 tags: [  ]

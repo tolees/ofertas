@@ -5,7 +5,7 @@ date: 2020-09-18 14:30:56
 image: 'https://m.media-amazon.com/images/I/51S8xFeZwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083J5ZWJ6-es Luces solares de pared para exteriores'
 sku: 'B083J5ZWJ6-es'
 tags: [  ]

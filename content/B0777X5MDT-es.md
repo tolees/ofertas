@@ -5,7 +5,7 @@ date: 2020-04-03 05:56:57
 image: 'https://m.media-amazon.com/images/I/414c2e2eCTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777X5MDT-es ASUS ROG Strix XG35VQ - Monitor Curvo de Gaming 35...'
 sku: 'B0777X5MDT-es'
 tags: [  ]

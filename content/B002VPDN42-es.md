@@ -5,7 +5,7 @@ date: 2020-06-16 10:56:06
 image: 'https://m.media-amazon.com/images/I/41VK5CT6t4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002VPDN42-es Superga 2750 Jvel Classic Zapatillas Unisex Niños Blanco...'
 sku: 'B002VPDN42-es'
 tags: [  ]

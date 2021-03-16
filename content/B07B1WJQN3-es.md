@@ -5,7 +5,7 @@ date: 2020-03-09 08:07:18
 image: 'https://m.media-amazon.com/images/I/31muVgr9n2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B1WJQN3-es POC Essential Road Bib Shorts Hombre Uranium Black XSM'
 sku: 'B07B1WJQN3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-27 16:31:10
 image: 'https://m.media-amazon.com/images/I/516MA4YwJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0196ZD9VQ-es Hayward Tiger Shark QC Limpiafondos automático Suelo...'
 sku: 'B0196ZD9VQ-es'
 tags: [  ]

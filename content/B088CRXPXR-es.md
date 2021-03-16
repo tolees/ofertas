@@ -5,7 +5,7 @@ date: 2020-05-31 18:03:28
 image: 'https://m.media-amazon.com/images/I/51pYO1nhlEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088CRXPXR-es Syxinn Compatible con Correa de Reloj Gear S3...'
 sku: 'B088CRXPXR-es'
 tags: [  ]

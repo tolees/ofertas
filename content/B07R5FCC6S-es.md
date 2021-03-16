@@ -5,7 +5,7 @@ date: 2020-01-04 08:33:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415tQz66u0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5FCC6S-es Pendrive 8GB 3.0 5 Piezas Memorias USB - Metal Aluminio...'
 sku: 'B07R5FCC6S-es'
 tags: [  ]

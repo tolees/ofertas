@@ -5,7 +5,7 @@ date: 2020-08-26 20:23:32
 image: 'https://m.media-amazon.com/images/I/41d1rwowQ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QG8CXKP-es minzoier Tarjeta de Memoria Flash SDXC Micro SD de 128GB /...'
 sku: 'B07QG8CXKP-es'
 tags: [  ]

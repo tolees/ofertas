@@ -5,7 +5,7 @@ date: 2020-10-12 04:51:36
 image: 'https://m.media-amazon.com/images/I/31P+U9TPqeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPZQ8SP-es Funko- Pocket Pop Keychain: Fortnite: Cuddle Team Leader...'
 sku: 'B07HPZQ8SP-es'
 tags: [  ]

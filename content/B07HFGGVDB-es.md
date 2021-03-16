@@ -5,7 +5,7 @@ date: 2020-04-20 18:18:06
 image: 'https://m.media-amazon.com/images/I/31tGnBtQaqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFGGVDB-es Smilodox Power - Pantalones de chándal para hombre para...'
 sku: 'B07HFGGVDB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 15:54:29
 image: 'https://m.media-amazon.com/images/I/41dtstbZ3xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5HVKGY-es Gb Gold Pockit+ All-City 619000245 Silla de Paseo 6 meses...'
 sku: 'B07P5HVKGY-es'
 tags: [  ]

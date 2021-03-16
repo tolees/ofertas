@@ -5,7 +5,7 @@ date: 2020-05-27 18:18:53
 image: 'https://m.media-amazon.com/images/I/31518JQnP+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PF13NY-es Jam Out There Auriculares bluetooth en el oído con...'
 sku: 'B079PF13NY-es'
 tags: [  ]

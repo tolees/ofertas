@@ -5,7 +5,7 @@ date: 2020-07-29 06:06:16
 image: 'https://m.media-amazon.com/images/I/41tsZpj71jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L41F2II-es Havaianas Origine III Alpargatas Unisex Adulto Rojo Red 42 EU'
 sku: 'B01L41F2II-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 14:55:28
 image: 'https://m.media-amazon.com/images/I/41-aFzzNVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SDRVHK-es Aparato de masaje Icetek para hombros espalda cuello...'
 sku: 'B083SDRVHK-es'
 tags: [  ]

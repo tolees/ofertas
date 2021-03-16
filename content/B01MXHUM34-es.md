@@ -5,7 +5,7 @@ date: 2020-03-28 09:04:40
 image: 'https://m.media-amazon.com/images/I/41a6Im6oSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXHUM34-es Under Armour Rival Fitted Tapered Jogger Pantalones Hombre...'
 sku: 'B01MXHUM34-es'
 tags: [  ]

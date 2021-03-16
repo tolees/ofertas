@@ -5,7 +5,7 @@ date: 2020-06-17 14:17:13
 image: 'https://m.media-amazon.com/images/I/41501BvuOZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJL9VHR-es Jarabe de arce Grado A Very Dark Strong taste - 189ml 250g...'
 sku: 'B07PJL9VHR-es'
 tags: [  ]

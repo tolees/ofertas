@@ -5,7 +5,7 @@ date: 2020-05-07 16:02:00
 image: 'https://m.media-amazon.com/images/I/31sflAlJrgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F98PKK6-es Philips Avent Biberón Natural SCF033/17 - Biberón de 260...'
 sku: 'B07F98PKK6-es'
 tags: [  ]

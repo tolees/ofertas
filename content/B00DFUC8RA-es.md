@@ -5,7 +5,7 @@ date: 2020-02-14 08:36:01
 image: 'https://m.media-amazon.com/images/I/51wMH22mHXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DFUC8RA-es Kappa Bright Mid Kids Botas Clasicas Unisex Niños Beige...'
 sku: 'B00DFUC8RA-es'
 tags: [  ]

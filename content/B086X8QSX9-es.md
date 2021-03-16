@@ -5,7 +5,7 @@ date: 2020-05-14 13:45:33
 image: 'https://m.media-amazon.com/images/I/417tfwPUc9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086X8QSX9-es Batería Recargable LCD Multifuncional Adaptador de Carga...'
 sku: 'B086X8QSX9-es'
 tags: [  ]

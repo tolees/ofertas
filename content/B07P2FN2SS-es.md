@@ -5,7 +5,7 @@ date: 2020-02-09 19:13:27
 image: 'https://m.media-amazon.com/images/I/41jWeri8JbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2FN2SS-es Superdry Core Sport Graphic tee Top de Deporte Azul Dark...'
 sku: 'B07P2FN2SS-es'
 tags: [  ]

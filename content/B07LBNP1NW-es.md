@@ -5,7 +5,7 @@ date: 2020-01-01 15:30:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411c3wEOtbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBNP1NW-es Kappa Klasen Zapatillas Unisex Adulto Coral/White 2910 36 EU'
 sku: 'B07LBNP1NW-es'
 tags: [  ]

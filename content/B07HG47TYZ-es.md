@@ -5,7 +5,7 @@ date: 2020-03-05 15:38:00
 image: 'https://m.media-amazon.com/images/I/41YQySEYE9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG47TYZ-es New Balance 373 Zapatillas para Mujer Negro Black/White...'
 sku: 'B07HG47TYZ-es'
 tags: [  ]

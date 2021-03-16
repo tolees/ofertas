@@ -5,7 +5,7 @@ date: 2020-07-08 12:57:13
 image: 'https://m.media-amazon.com/images/I/41uT0+v0g6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHVDCXG-es Under Armour Play Up Solid Corto Niñas Rosa YXL'
 sku: 'B07SHVDCXG-es'
 tags: [  ]

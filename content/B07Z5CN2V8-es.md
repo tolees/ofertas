@@ -5,7 +5,7 @@ date: 2020-01-27 18:47:42
 image: 'https://m.media-amazon.com/images/I/41DZ4edGYjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5CN2V8-es Eva Lopez Botas Cowboy Piel Napa Mujer Negro'
 sku: 'B07Z5CN2V8-es'
 tags: [  ]

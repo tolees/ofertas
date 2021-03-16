@@ -5,7 +5,7 @@ date: 2020-06-12 14:46:14
 image: 'https://m.media-amazon.com/images/I/411X5XrjHmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010ADAVT6-es Crocs Santa Cruz Clean Cut Loafer Hombre Mocasín Azul...'
 sku: 'B010ADAVT6-es'
 tags: [  ]

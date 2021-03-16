@@ -5,7 +5,7 @@ date: 2020-03-26 10:40:43
 image: 'https://m.media-amazon.com/images/I/51+W+jS73wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCN6N49-es TW Steel VS2 Volante - Reloj Analógico de Pulsera con...'
 sku: 'B06XCN6N49-es'
 tags: [  ]

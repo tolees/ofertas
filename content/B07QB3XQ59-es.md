@@ -5,7 +5,7 @@ date: 2020-07-22 21:56:31
 image: 'https://m.media-amazon.com/images/I/31EnlgLfKoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB3XQ59-es MTNG Attitude 69861 Zapatillas para Mujer Beige Soft Taupe...'
 sku: 'B07QB3XQ59-es'
 tags: [  ]

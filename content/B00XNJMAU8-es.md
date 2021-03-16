@@ -5,7 +5,7 @@ date: 2020-06-16 14:01:40
 image: 'https://m.media-amazon.com/images/I/41Vl0+tXwsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XNJMAU8-es Aigostar - Regleta con 5 enchufes y 1 5 metros con...'
 sku: 'B00XNJMAU8-es'
 tags: [  ]

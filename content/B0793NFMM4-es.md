@@ -5,7 +5,7 @@ date: 2020-09-29 16:44:37
 image: 'https://m.media-amazon.com/images/I/31vASIJspAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793NFMM4-es Rimmel Nail Polish 60 Seconds Flip Flop Fashion 406 Coral...'
 sku: 'B0793NFMM4-es'
 tags: [  ]

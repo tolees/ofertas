@@ -5,7 +5,7 @@ date: 2020-07-17 13:55:30
 image: 'https://m.media-amazon.com/images/I/51vkg5TkhXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8HF5V8-es iAmotus Soporte Movil Coche Soporte Movil Coche Celular...'
 sku: 'B07X8HF5V8-es'
 tags: [  ]

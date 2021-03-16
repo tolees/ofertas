@@ -5,7 +5,7 @@ date: 2020-09-23 18:36:24
 image: 'https://m.media-amazon.com/images/I/313mJNo5jyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VTVGSDW-es Logitech Spotlight Presentador Inalámbrico 2.4 GHz y...'
 sku: 'B06VTVGSDW-es'
 tags: [  ]

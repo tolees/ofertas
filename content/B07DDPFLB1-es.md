@@ -5,7 +5,7 @@ date: 2020-08-18 10:35:41
 image: 'https://m.media-amazon.com/images/I/41Ctl155j7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDPFLB1-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07DDPFLB1-es'
 tags: [  ]

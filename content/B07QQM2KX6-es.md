@@ -5,7 +5,7 @@ date: 2020-01-24 11:40:36
 image: 'https://m.media-amazon.com/images/I/51hJhOgYtLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQM2KX6-es KLIM™ Esports Silla Gaming Rosa + Ergonómica con Soporte...'
 sku: 'B07QQM2KX6-es'
 tags: [  ]

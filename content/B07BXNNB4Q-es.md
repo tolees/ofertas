@@ -5,7 +5,7 @@ date: 2020-03-23 11:29:21
 image: 'https://m.media-amazon.com/images/I/41-UX0NWowL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXNNB4Q-es Lacoste Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07BXNNB4Q-es'
 tags: [  ]

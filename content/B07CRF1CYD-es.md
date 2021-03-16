@@ -5,7 +5,7 @@ date: 2020-06-22 19:25:51
 image: 'https://m.media-amazon.com/images/I/41KzIO74wlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CRF1CYD-es Pepe Jeans Aitana Pantalones Cortos Multi Bleu 0aa 6 años...'
 sku: 'B07CRF1CYD-es'
 tags: [  ]

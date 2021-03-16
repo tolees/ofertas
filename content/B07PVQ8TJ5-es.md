@@ -5,7 +5,7 @@ date: 2020-03-17 11:34:05
 image: 'https://m.media-amazon.com/images/I/31qPn8w-cYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVQ8TJ5-es Kelme - Zapatillas Precision Elite 2.0'
 sku: 'B07PVQ8TJ5-es'
 tags: [  ]

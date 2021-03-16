@@ -5,7 +5,7 @@ date: 2020-04-14 16:35:21
 image: 'https://m.media-amazon.com/images/I/41NvC88Mr0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBRTP7-es ART VVIES Wandbild 40 x 30 Zoll Sonnenuntergang Abend...'
 sku: 'B082HBRTP7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-20 16:47:11
 image: 'https://m.media-amazon.com/images/I/41k9bqfKx3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NMCRJXG-es Cámara Vigilancia WiFi Interior Apeman 1080P Cámara IP...'
 sku: 'B07NMCRJXG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 10:02:16
 image: 'https://m.media-amazon.com/images/I/41jSDY2uNGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D8XH2S-es Suhctup Funda Compatible para Huawei P Smart 2019 Carcasa...'
 sku: 'B088D8XH2S-es'
 tags: [  ]

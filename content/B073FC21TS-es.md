@@ -5,7 +5,7 @@ date: 2020-05-06 09:08:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qr2uf72OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073FC21TS-es Dyson V7 Fluffy Aspiradora Sin Cable con 2 Funciones 100 W...'
 sku: 'B073FC21TS-es'
 tags: [  ]

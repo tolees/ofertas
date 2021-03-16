@@ -5,7 +5,7 @@ date: 2020-06-16 18:02:24
 image: 'https://m.media-amazon.com/images/I/419A6KKZ40L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQ4MX5P-es Divisor de Potencia liviano de Dos vías Jasen Power...'
 sku: 'B07WQ4MX5P-es'
 tags: [  ]

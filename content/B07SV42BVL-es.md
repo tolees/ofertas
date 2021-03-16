@@ -5,7 +5,7 @@ date: 2020-02-26 21:05:18
 image: 'https://m.media-amazon.com/images/I/31YPGvYMLtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SV42BVL-es Diyeeni Ratón para Juegos con Cable Metal USB USB...'
 sku: 'B07SV42BVL-es'
 tags: [  ]

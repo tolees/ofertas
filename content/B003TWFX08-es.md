@@ -5,7 +5,7 @@ date: 2020-02-08 09:10:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41F36n1y60L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003TWFX08-es Oregon Scientific RMR391P - Reloj proyector despertador...'
 sku: 'B003TWFX08-es'
 tags: [  ]

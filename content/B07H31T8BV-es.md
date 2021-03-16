@@ -5,7 +5,7 @@ date: 2020-04-20 12:46:26
 image: 'https://m.media-amazon.com/images/I/31oXwl29gyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H31T8BV-es Marco huellas bebe tu regalo original para el recien...'
 sku: 'B07H31T8BV-es'
 tags: [  ]

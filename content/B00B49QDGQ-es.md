@@ -5,7 +5,7 @@ date: 2020-10-11 14:28:37
 image: 'https://m.media-amazon.com/images/I/21fmEVDDpTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B49QDGQ-es Everlast 2260 Punching de Pie Unisex Negro Ajustable hasta...'
 sku: 'B00B49QDGQ-es'
 tags: [  ]

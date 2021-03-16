@@ -5,7 +5,7 @@ date: 2020-06-18 21:15:23
 image: 'https://m.media-amazon.com/images/I/41+Q0v1cCEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073C7LXRS-es Converse Chuck Taylor CTAS Lift Ox Canvas Zapatillas para...'
 sku: 'B073C7LXRS-es'
 tags: [  ]

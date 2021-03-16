@@ -5,7 +5,7 @@ date: 2020-02-07 15:07:43
 image: 'https://m.media-amazon.com/images/I/51E2ULdb05L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VRXXCB-es Transmisor FM Bluetooth 5.0 Coche Manos Libres Reproductor...'
 sku: 'B082VRXXCB-es'
 tags: [  ]

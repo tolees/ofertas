@@ -5,7 +5,7 @@ date: 2020-06-12 18:13:13
 image: 'https://m.media-amazon.com/images/I/21BXyqfiXxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SXM70UA-es La Roche Posay Agua Micelar Piel Sensible – 750'
 sku: 'B00SXM70UA-es'
 tags: [  ]

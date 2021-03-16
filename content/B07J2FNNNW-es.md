@@ -5,7 +5,7 @@ date: 2020-01-07 18:47:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31MTWiD-vyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J2FNNNW-es Martina Home Tunez Funda sofá Duplex Mostaza 4 Plaza'
 sku: 'B07J2FNNNW-es'
 tags: [  ]

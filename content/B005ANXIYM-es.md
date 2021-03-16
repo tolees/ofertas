@@ -5,7 +5,7 @@ date: 2020-01-08 12:22:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31mUWikiR2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005ANXIYM-es Nike Revolution 4 GS Zapatillas de Running para Niños...'
 sku: 'B005ANXIYM-es'
 tags: [  ]

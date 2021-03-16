@@ -5,7 +5,7 @@ date: 2020-02-13 15:12:44
 image: 'https://m.media-amazon.com/images/I/41XILfq5xKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003UOYBUS-es Mini Ventilador de Escritorio USB'
 sku: 'B003UOYBUS-es'
 tags: [  ]

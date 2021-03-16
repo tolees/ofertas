@@ -5,7 +5,7 @@ date: 2020-02-27 11:44:29
 image: 'https://m.media-amazon.com/images/I/51X6HwUFh6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBQWV41-es adidas Team Glider Balón Fútbol Hombre Naranja...'
 sku: 'B07NBQWV41-es'
 tags: [  ]

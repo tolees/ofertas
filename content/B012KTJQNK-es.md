@@ -5,7 +5,7 @@ date: 2020-09-01 16:15:14
 image: 'https://m.media-amazon.com/images/I/41UHksVchnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012KTJQNK-es Technaxx BT-X15 - Auriculares Gris TXX4545 Circumaural...'
 sku: 'B012KTJQNK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-25 09:33:21
 image: 'https://m.media-amazon.com/images/I/31rEODO9D6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJK9P44-es Clarks Un Costa Lace Zapatillas Azul Navy Leather Navy...'
 sku: 'B07TJK9P44-es'
 tags: [  ]

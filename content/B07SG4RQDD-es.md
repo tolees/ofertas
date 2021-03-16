@@ -5,7 +5,7 @@ date: 2020-02-28 11:04:16
 image: 'https://m.media-amazon.com/images/I/51FEs5iBLGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SG4RQDD-es Zambrero Remanufacturado HP 304XL 304 XL Cartuchos de...'
 sku: 'B07SG4RQDD-es'
 tags: [  ]

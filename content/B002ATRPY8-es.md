@@ -5,7 +5,7 @@ date: 2020-09-15 18:14:18
 image: 'https://m.media-amazon.com/images/I/41ena3DejxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002ATRPY8-es Navigator Eco-Logical - Papel de impresión 2500 hojas A4 5...'
 sku: 'B002ATRPY8-es'
 tags: [  ]

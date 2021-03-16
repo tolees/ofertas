@@ -5,7 +5,7 @@ date: 2020-04-18 13:47:34
 image: 'https://m.media-amazon.com/images/I/41HKlR3h-LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHDDDDS-es Helly Hansen Jr HH LIFA Merino Conjunto Termico de Ropa...'
 sku: 'B06XHDDDDS-es'
 tags: [  ]

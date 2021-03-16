@@ -5,7 +5,7 @@ date: 2020-07-04 12:45:50
 image: 'https://m.media-amazon.com/images/I/410SyS3-v6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GHM2QTW-es Intex 57104NP - Piscina hinchable 3 aros transparente 86 x...'
 sku: 'B01GHM2QTW-es'
 tags: [  ]

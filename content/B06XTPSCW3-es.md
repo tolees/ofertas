@@ -5,7 +5,7 @@ date: 2020-08-22 11:38:05
 image: 'https://m.media-amazon.com/images/I/41VE3Cz6o2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XTPSCW3-es Fintie Funda para iPad 2018/2017 - Trasera Transparente...'
 sku: 'B06XTPSCW3-es'
 tags: [  ]

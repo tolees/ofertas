@@ -5,7 +5,7 @@ date: 2020-01-03 20:04:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cq7-nz3YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018LLLOTK-es Tommy Hilfiger New Aly Belt Cinturón Hombre Marrón TESTA...'
 sku: 'B018LLLOTK-es'
 tags: [  ]

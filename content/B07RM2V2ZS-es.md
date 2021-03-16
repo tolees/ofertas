@@ -5,7 +5,7 @@ date: 2020-10-03 10:19:10
 image: 'https://m.media-amazon.com/images/I/410lvOMb5lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM2V2ZS-es Calvin Klein Unlined Triangle Sujetador de triángulo Negro...'
 sku: 'B07RM2V2ZS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-05 01:37:32
 image: 'https://m.media-amazon.com/images/I/61hq95aHjfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFT1BV3-es HoYiXi Funda para Nuevo Kindle 2019 Kindle Estuche 2019...'
 sku: 'B07QFT1BV3-es'
 tags: [  ]

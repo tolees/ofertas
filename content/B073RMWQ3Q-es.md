@@ -5,7 +5,7 @@ date: 2020-05-01 19:32:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zaq349upL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RMWQ3Q-es Columbia GoodlifeTM Lace Zapatillas Casual para Mujer...'
 sku: 'B073RMWQ3Q-es'
 tags: [  ]

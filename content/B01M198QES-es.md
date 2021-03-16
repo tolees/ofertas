@@ -5,7 +5,7 @@ date: 2020-03-02 10:22:21
 image: 'https://m.media-amazon.com/images/I/41e1w8Qt1OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M198QES-es LEDMO tiras led 12V Blanco 6000K 300led 5m tira led...'
 sku: 'B01M198QES-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-25 03:27:52
 image: 'https://m.media-amazon.com/images/I/315yMmuVLzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OZIHEW-es Olówek automatyczny Grip 1345 czerwony'
 sku: 'B000OZIHEW-es'
 tags: [  ]

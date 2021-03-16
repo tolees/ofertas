@@ -5,7 +5,7 @@ date: 2020-01-25 15:55:05
 image: 'https://m.media-amazon.com/images/I/4124j+dfp4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBVX7G6-es Hackett Aston Martin Racing Yd Str Polo Blk/Grey 9du...'
 sku: 'B07JBVX7G6-es'
 tags: [  ]

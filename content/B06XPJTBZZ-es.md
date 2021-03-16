@@ -5,7 +5,7 @@ date: 2020-04-11 00:24:44
 image: 'https://m.media-amazon.com/images/I/41FgNEMz5hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPJTBZZ-es 6PC Juego de Barbacoa de Acero Inoxidable - Heavy Duty Kit...'
 sku: 'B06XPJTBZZ-es'
 tags: [  ]

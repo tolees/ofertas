@@ -5,7 +5,7 @@ date: 2020-01-16 16:14:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pOetwWVVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811ZHX9L-es Capitán América -Riñonera TPU'
 sku: 'B0811ZHX9L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-01 09:48:27
 image: 'https://m.media-amazon.com/images/I/418VozKb54L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC866QD-es Real Madrid RD-121-RM Despertador Campanas'
 sku: 'B07MC866QD-es'
 tags: [  ]

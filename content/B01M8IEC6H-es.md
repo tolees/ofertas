@@ -5,7 +5,7 @@ date: 2020-08-18 08:14:19
 image: 'https://m.media-amazon.com/images/I/41Vk56w7gWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M8IEC6H-es Razer Gigantus - Alfombrilla de ratón con superficie extra...'
 sku: 'B01M8IEC6H-es'
 tags: [  ]

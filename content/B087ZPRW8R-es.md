@@ -5,7 +5,7 @@ date: 2020-09-19 14:38:34
 image: 'https://m.media-amazon.com/images/I/31WULTEDO0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087ZPRW8R-es Monix Tempo Duo - Set de ollas a presión 4+7 L incluye...'
 sku: 'B087ZPRW8R-es'
 tags: [  ]

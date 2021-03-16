@@ -5,7 +5,7 @@ date: 2020-05-04 07:58:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318bT4vtcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRFTG43-es adidas Essential Linear Medias Mujer Negro/Blanco L'
 sku: 'B07KRFTG43-es'
 tags: [  ]

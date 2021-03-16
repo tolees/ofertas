@@ -5,7 +5,7 @@ date: 2020-02-29 20:02:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zT2psUZNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SMC3JC-es Desigual Blus_Gala Navy 5000 Medium para Mujer'
 sku: 'B079SMC3JC-es'
 tags: [  ]

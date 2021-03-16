@@ -5,7 +5,7 @@ date: 2020-09-01 14:44:04
 image: 'https://m.media-amazon.com/images/I/41WNufgjDGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVQNMVL-es H.Koenig MSX250 Cortafiambre 25 cm profesional precisión...'
 sku: 'B07NVQNMVL-es'
 tags: [  ]

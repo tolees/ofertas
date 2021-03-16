@@ -5,7 +5,7 @@ date: 2020-08-31 20:28:26
 image: 'https://m.media-amazon.com/images/I/4103SwoqqVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079S5JJBY-es Martina Home Ribera Cubre Chaise Longue Brazo Izquierdo...'
 sku: 'B079S5JJBY-es'
 tags: [  ]

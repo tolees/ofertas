@@ -5,7 +5,7 @@ date: 2020-09-10 17:20:23
 image: 'https://m.media-amazon.com/images/I/41q4aoSHOOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ULI8PAS-es Samsonite Neopulse - Spinner L Maleta 75 cm 94 L Marrón...'
 sku: 'B00ULI8PAS-es'
 tags: [  ]

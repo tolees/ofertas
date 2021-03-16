@@ -5,7 +5,7 @@ date: 2020-03-28 14:03:14
 image: 'https://m.media-amazon.com/images/I/41WWLjrT7UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C7HWXJT-es oodji Ultra Mujer Calcetines con Elástico Doble Pack de 6...'
 sku: 'B07C7HWXJT-es'
 tags: [  ]

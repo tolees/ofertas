@@ -5,7 +5,7 @@ date: 2020-06-27 11:28:15
 image: 'https://m.media-amazon.com/images/I/41uO5fxpf5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825NH2YQ-es Quiksilver Beach Please 16" - Short De Natación para...'
 sku: 'B0825NH2YQ-es'
 tags: [  ]

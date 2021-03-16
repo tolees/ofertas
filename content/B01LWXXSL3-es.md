@@ -5,7 +5,7 @@ date: 2020-04-14 00:26:37
 image: 'https://m.media-amazon.com/images/I/31FjZQBA7VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWXXSL3-es Tangle Teezer the Ultimate Finishing Cepillo Color Negro...'
 sku: 'B01LWXXSL3-es'
 tags: [  ]

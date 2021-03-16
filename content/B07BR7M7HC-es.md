@@ -5,7 +5,7 @@ date: 2020-08-11 07:57:00
 image: 'https://m.media-amazon.com/images/I/51b1zzrWywL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BR7M7HC-es Cars Toalla Playa Poliéster Multicolor U'
 sku: 'B07BR7M7HC-es'
 tags: [  ]

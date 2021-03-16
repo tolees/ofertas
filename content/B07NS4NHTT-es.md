@@ -5,7 +5,7 @@ date: 2020-08-07 07:06:38
 image: 'https://m.media-amazon.com/images/I/41XMBg-RA8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NS4NHTT-es GP-PRO GB10L-B 12V 11Ah GEL Batería de arranque compatible...'
 sku: 'B07NS4NHTT-es'
 tags: [  ]

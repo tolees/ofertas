@@ -5,7 +5,7 @@ date: 2020-05-09 09:43:39
 image: 'https://m.media-amazon.com/images/I/41YXUhNJWCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0046XQIFI-es GLOBE Sabre Zapatillas de Skateboarding para Hombre Negro...'
 sku: 'B0046XQIFI-es'
 tags: [  ]

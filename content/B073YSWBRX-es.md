@@ -5,7 +5,7 @@ date: 2020-04-11 06:35:18
 image: 'https://m.media-amazon.com/images/I/41XgriwZEFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073YSWBRX-es Skechers-111 41'
 sku: 'B073YSWBRX-es'
 tags: [  ]

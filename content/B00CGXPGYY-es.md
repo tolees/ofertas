@@ -5,7 +5,7 @@ date: 2020-02-25 15:11:27
 image: 'https://m.media-amazon.com/images/I/41isSGxbbPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CGXPGYY-es Samsung MLT-D204L/ELS - Tóner 5000 páginas negro'
 sku: 'B00CGXPGYY-es'
 tags: [  ]

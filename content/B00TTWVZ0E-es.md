@@ -5,7 +5,7 @@ date: 2020-03-31 13:43:13
 image: 'https://m.media-amazon.com/images/I/31St6qINtuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTWVZ0E-es Lacer Enjuagues Bucales 1 Unidad 200 g'
 sku: 'B00TTWVZ0E-es'
 tags: [  ]

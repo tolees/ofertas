@@ -5,7 +5,7 @@ date: 2020-05-28 17:08:41
 image: 'https://m.media-amazon.com/images/I/31bG1JIBVcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004H5KQ0I-es Clinique 35522 - Barra de labios'
 sku: 'B004H5KQ0I-es'
 tags: [  ]

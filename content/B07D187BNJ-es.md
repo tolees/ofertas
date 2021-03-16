@@ -5,7 +5,7 @@ date: 2020-02-04 23:07:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-T2B6E7VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D187BNJ-es Timex Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07D187BNJ-es'
 tags: [  ]

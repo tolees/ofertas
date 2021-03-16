@@ -5,7 +5,7 @@ date: 2020-06-24 14:33:55
 image: 'https://m.media-amazon.com/images/I/31Yg3mnfGwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LNVF7PW-es Philips Lumea Essential BRI861/00 - Depiladora luz pulsada...'
 sku: 'B01LNVF7PW-es'
 tags: [  ]

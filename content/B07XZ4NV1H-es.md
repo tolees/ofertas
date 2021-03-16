@@ -5,7 +5,7 @@ date: 2020-01-13 20:33:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61FxGx1Nq%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZ4NV1H-es SHENMATE Envoltorio Cera De Abeja Beeswax Wrap Natural...'
 sku: 'B07XZ4NV1H-es'
 tags: [  ]

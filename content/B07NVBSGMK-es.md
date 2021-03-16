@@ -5,7 +5,7 @@ date: 2020-05-09 09:03:53
 image: 'https://m.media-amazon.com/images/I/3129e5SAZwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVBSGMK-es Skechers Men s Expected 2.0 Oxfords Brown Brown Leather...'
 sku: 'B07NVBSGMK-es'
 tags: [  ]

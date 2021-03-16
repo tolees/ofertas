@@ -5,7 +5,7 @@ date: 2020-06-09 12:46:24
 image: 'https://m.media-amazon.com/images/I/41SmlWzDxWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ1YS71-es Lee Daren Zip Fly Jeans Azul Time out Dn 38W / 36L para...'
 sku: 'B07CQ1YS71-es'
 tags: [  ]

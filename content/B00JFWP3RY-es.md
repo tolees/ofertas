@@ -5,7 +5,7 @@ date: 2020-03-11 12:04:25
 image: 'https://m.media-amazon.com/images/I/21aRfZacc8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JFWP3RY-es Brabantia 298264 - Tarro de Cristal 1.1 L Tapa Gris Oscuro'
 sku: 'B00JFWP3RY-es'
 tags: [  ]

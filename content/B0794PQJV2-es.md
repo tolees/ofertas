@@ -5,7 +5,7 @@ date: 2020-03-12 07:41:56
 image: 'https://m.media-amazon.com/images/I/31tNelAMMZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0794PQJV2-es PUMA Liga Sideline Polo T-Shirt Hombre Blanco White/Black S'
 sku: 'B0794PQJV2-es'
 tags: [  ]

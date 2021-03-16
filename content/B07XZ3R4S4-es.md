@@ -5,7 +5,7 @@ date: 2020-05-16 09:31:51
 image: 'https://m.media-amazon.com/images/I/51DitNZwexL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZ3R4S4-es Powcan Ratón Gaming con Cable Profesional USB 16400 DPI...'
 sku: 'B07XZ3R4S4-es'
 tags: [  ]

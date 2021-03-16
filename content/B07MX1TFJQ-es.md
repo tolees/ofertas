@@ -5,7 +5,7 @@ date: 2020-02-15 10:53:27
 image: 'https://m.media-amazon.com/images/I/51LQuiaKE6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MX1TFJQ-es The Division 2'
 sku: 'B07MX1TFJQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-04 01:38:14
 image: 'https://m.media-amazon.com/images/I/51slrTvRnzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M06YYXG-es CORSEE Kit Cámaras de Vigliancia Seguridad Vigilancia...'
 sku: 'B01M06YYXG-es'
 tags: [  ]

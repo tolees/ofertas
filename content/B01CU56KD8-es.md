@@ -5,7 +5,7 @@ date: 2020-01-16 21:37:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41asrv9Cv2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CU56KD8-es Fleur Paint 13247 - Pintura transforma superficies en...'
 sku: 'B01CU56KD8-es'
 tags: [  ]

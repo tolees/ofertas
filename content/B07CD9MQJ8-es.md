@@ -5,7 +5,7 @@ date: 2020-02-25 01:08:26
 image: 'https://m.media-amazon.com/images/I/41warVjzAKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CD9MQJ8-es SALOMON Brigade Casco de esquí y Snowboard para Hombre con...'
 sku: 'B07CD9MQJ8-es'
 tags: [  ]

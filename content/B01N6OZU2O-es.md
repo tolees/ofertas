@@ -5,7 +5,7 @@ date: 2020-09-22 06:28:45
 image: 'https://m.media-amazon.com/images/I/41KKxEp4GcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6OZU2O-es Naipo Almohada de Masaje para Cuello y Espalda Shiatsu...'
 sku: 'B01N6OZU2O-es'
 tags: [  ]

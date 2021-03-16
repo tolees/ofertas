@@ -5,7 +5,7 @@ date: 2020-07-06 12:32:30
 image: 'https://m.media-amazon.com/images/I/315757g56OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WZ7WPUY-es MIAO Soporte portátil Plegable para computadora portátil...'
 sku: 'B00WZ7WPUY-es'
 tags: [  ]

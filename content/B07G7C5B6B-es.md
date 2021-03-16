@@ -5,7 +5,7 @@ date: 2020-05-11 11:21:44
 image: 'https://m.media-amazon.com/images/I/41o5t2DjdrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G7C5B6B-es MSI WT75 8SM-011ES - Ordenador portátil de 17.3" UHD Intel...'
 sku: 'B07G7C5B6B-es'
 tags: [  ]

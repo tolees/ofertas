@@ -5,7 +5,7 @@ date: 2020-02-18 18:03:20
 image: 'https://m.media-amazon.com/images/I/41JW4-JjOFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPX5NPK-es Anbber Aire Acondicionado móvil 4 en 1 multifunción USB...'
 sku: 'B07SPX5NPK-es'
 tags: [  ]

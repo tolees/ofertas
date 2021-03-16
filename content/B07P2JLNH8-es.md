@@ -5,7 +5,7 @@ date: 2020-08-05 20:19:40
 image: 'https://m.media-amazon.com/images/I/51y+18Ho37L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2JLNH8-es Anthem - Standard | Código Origin para PC'
 sku: 'B07P2JLNH8-es'
 tags: [  ]

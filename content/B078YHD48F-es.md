@@ -5,7 +5,7 @@ date: 2020-04-14 14:28:07
 image: 'https://m.media-amazon.com/images/I/5188-M86hhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YHD48F-es Michael Kors Reloj Analogico para Hombre de Cuarzo con...'
 sku: 'B078YHD48F-es'
 tags: [  ]

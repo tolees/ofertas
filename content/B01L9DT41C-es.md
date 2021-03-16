@@ -5,7 +5,7 @@ date: 2020-04-19 13:46:48
 image: 'https://m.media-amazon.com/images/I/41coY3i3B1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L9DT41C-es High Peak Woodpecker 3 Tienda Unisex Rojo Oliva 340 x 190...'
 sku: 'B01L9DT41C-es'
 tags: [  ]

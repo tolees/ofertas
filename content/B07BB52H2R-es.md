@@ -5,7 +5,7 @@ date: 2020-09-30 18:14:27
 image: 'https://m.media-amazon.com/images/I/41gmVD7DYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB52H2R-es Kodak Printomatic - Cámara de impresión instantánea...'
 sku: 'B07BB52H2R-es'
 tags: [  ]

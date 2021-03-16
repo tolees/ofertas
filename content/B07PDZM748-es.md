@@ -5,7 +5,7 @@ date: 2020-09-21 08:08:26
 image: 'https://m.media-amazon.com/images/I/31tETTrk2JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDZM748-es Samsung Galaxy A50 - Smartphone de 6.4" FHD sAmoled...'
 sku: 'B07PDZM748-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-04 07:01:06
 image: 'https://m.media-amazon.com/images/I/51YBPNGbCSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDL3Z84-es Polaroid Snap Touch 2.0 - Cámara digital portátil...'
 sku: 'B07FDL3Z84-es'
 tags: [  ]

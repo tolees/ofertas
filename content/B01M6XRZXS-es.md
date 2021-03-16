@@ -5,7 +5,7 @@ date: 2020-08-05 07:52:42
 image: 'https://m.media-amazon.com/images/I/41lKQbz4U3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6XRZXS-es Play Safe Fix - Silla de coche grupo 1/2/3 color negro y gris'
 sku: 'B01M6XRZXS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-26 10:28:31
 image: 'https://m.media-amazon.com/images/I/41Pr7N4C7GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KMQ9HL-es Proyector WiMiUS 5500 Lúmenes Proyector Portátil Full HD...'
 sku: 'B082KMQ9HL-es'
 tags: [  ]

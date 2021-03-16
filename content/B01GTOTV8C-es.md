@@ -5,7 +5,7 @@ date: 2020-05-15 20:43:37
 image: 'https://m.media-amazon.com/images/I/31d8QL2djhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GTOTV8C-es AOC Q2781PQ - Monitor de 27" QHD IPS resolución 2560 x...'
 sku: 'B01GTOTV8C-es'
 tags: [  ]

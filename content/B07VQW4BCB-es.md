@@ -5,7 +5,7 @@ date: 2020-07-20 03:36:56
 image: 'https://m.media-amazon.com/images/I/41JpBUEIi2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQW4BCB-es Tommy Hilfiger Tjw Tommy Classics Polo Blanco White Ybr 36...'
 sku: 'B07VQW4BCB-es'
 tags: [  ]

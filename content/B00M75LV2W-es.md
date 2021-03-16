@@ -5,7 +5,7 @@ date: 2020-01-01 07:59:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XZl8HrC8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M75LV2W-es Relec Infantil Loción Repelente Eficaz Antimosquitos....'
 sku: 'B00M75LV2W-es'
 tags: [  ]

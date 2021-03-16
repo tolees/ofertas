@@ -5,7 +5,7 @@ date: 2020-09-07 16:11:58
 image: 'https://m.media-amazon.com/images/I/41HrzeSxKhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G4VNZ1Z-es Pack de 6 cajas de almacenamiento de mascarillas + Llave...'
 sku: 'B08G4VNZ1Z-es'
 tags: [  ]

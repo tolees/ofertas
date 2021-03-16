@@ -5,7 +5,7 @@ date: 2020-02-24 14:36:04
 image: 'https://m.media-amazon.com/images/I/41oSzT5ftuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2Q1LL-es HKT by Hackett Hkt LS Str Rby Polo Red/White 2ah Small...'
 sku: 'B07MQ2Q1LL-es'
 tags: [  ]

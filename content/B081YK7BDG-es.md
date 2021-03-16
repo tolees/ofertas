@@ -5,7 +5,7 @@ date: 2020-02-13 12:02:53
 image: 'https://m.media-amazon.com/images/I/519GZLEXM7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081YK7BDG-es Yizhet Intermitentes Led Moto Luz Señal de Giro 4Pcs...'
 sku: 'B081YK7BDG-es'
 tags: [  ]

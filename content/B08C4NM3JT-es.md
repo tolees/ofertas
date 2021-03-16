@@ -5,7 +5,7 @@ date: 2020-10-05 17:57:21
 image: 'https://m.media-amazon.com/images/I/31pApmItrFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C4NM3JT-es JSDing Delantal Cocina Mujer 2 Capa con Correa de Cuello...'
 sku: 'B08C4NM3JT-es'
 tags: [  ]

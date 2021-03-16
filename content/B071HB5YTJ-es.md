@@ -5,7 +5,7 @@ date: 2020-07-20 12:02:45
 image: 'https://m.media-amazon.com/images/I/21BQ+sXHLAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HB5YTJ-es Panasonic SC-HTB488 - Barra De Sonido Cine 2.1 Canales 200...'
 sku: 'B071HB5YTJ-es'
 tags: [  ]

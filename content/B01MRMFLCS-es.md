@@ -5,7 +5,7 @@ date: 2020-06-01 09:47:30
 image: 'https://m.media-amazon.com/images/I/419JmZsRu3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRMFLCS-es L Oreal Paris Colorista Coloración Temporal Colorista...'
 sku: 'B01MRMFLCS-es'
 tags: [  ]

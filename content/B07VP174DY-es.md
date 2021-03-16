@@ -5,7 +5,7 @@ date: 2020-06-27 17:04:27
 image: 'https://m.media-amazon.com/images/I/51mALe9+p7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VP174DY-es GRULLIN Outdoor Survival Kit 13 in 1 Multi-Purpose...'
 sku: 'B07VP174DY-es'
 tags: [  ]

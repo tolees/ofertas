@@ -5,7 +5,7 @@ date: 2020-04-23 15:58:18
 image: 'https://m.media-amazon.com/images/I/41t3QJUcTBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L48ZUX4-es Victoria Safari Serraje Velcro Zapatillas con Velcro...'
 sku: 'B00L48ZUX4-es'
 tags: [  ]

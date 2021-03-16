@@ -5,7 +5,7 @@ date: 2020-01-20 19:54:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51kiIOlRwrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IC0G6K2-es Original Buff Zelig Mineral Tubular Unisex Adulto...'
 sku: 'B01IC0G6K2-es'
 tags: [  ]

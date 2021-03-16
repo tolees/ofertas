@@ -5,7 +5,7 @@ date: 2020-04-11 09:02:38
 image: 'https://m.media-amazon.com/images/I/41-qfeH28UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYN6G6-es PUMA Cell Venom Hypertech Wn s Zapatillas para Mujer Black...'
 sku: 'B07KFYN6G6-es'
 tags: [  ]

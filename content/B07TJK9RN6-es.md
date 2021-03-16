@@ -5,7 +5,7 @@ date: 2020-08-24 08:02:07
 image: 'https://m.media-amazon.com/images/I/31L5IfKV0zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJK9RN6-es Clarks Stanford Top Botas Chelsea para Hombre Negro Black...'
 sku: 'B07TJK9RN6-es'
 tags: [  ]

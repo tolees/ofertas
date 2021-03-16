@@ -5,7 +5,7 @@ date: 2020-07-26 12:32:05
 image: 'https://m.media-amazon.com/images/I/517ZIjr4cQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I6I5TA4-es GoSparking Rose plateó los pendientes Elementos cristalino...'
 sku: 'B00I6I5TA4-es'
 tags: [  ]

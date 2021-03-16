@@ -5,7 +5,7 @@ date: 2020-04-03 22:01:03
 image: 'https://m.media-amazon.com/images/I/51k4+CfifuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y9WTEX4-es Star Wars - Classic Saga Interactive Darth Vader de 45 cm...'
 sku: 'B00Y9WTEX4-es'
 tags: [  ]

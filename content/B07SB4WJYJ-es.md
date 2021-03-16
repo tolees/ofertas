@@ -5,7 +5,7 @@ date: 2020-08-15 07:25:10
 image: 'https://m.media-amazon.com/images/I/41jfjHtsa6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB4WJYJ-es Parasol Coche Bebe Infantil Lateral cortinilla Accesorio...'
 sku: 'B07SB4WJYJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 19:43:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/11I76lu0yJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010DH3E4S-es Zwilling Motion - Cuchillo jamonero 26 cm de hoja acero...'
 sku: 'B010DH3E4S-es'
 tags: [  ]

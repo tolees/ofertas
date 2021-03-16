@@ -5,7 +5,7 @@ date: 2020-07-23 21:01:12
 image: 'https://m.media-amazon.com/images/I/31RlhNWG4XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP3B4H3-es Belkin ScreenForce InvisiGlass Ultra - Protector de...'
 sku: 'B07FP3B4H3-es'
 tags: [  ]

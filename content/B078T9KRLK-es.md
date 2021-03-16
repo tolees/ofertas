@@ -5,7 +5,7 @@ date: 2020-03-02 13:22:14
 image: 'https://m.media-amazon.com/images/I/41vg2Sv68zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T9KRLK-es Columbia Minx Mid III WP Omni-Heat Botas para Niños Gris...'
 sku: 'B078T9KRLK-es'
 tags: [  ]

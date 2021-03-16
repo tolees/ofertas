@@ -5,7 +5,7 @@ date: 2020-05-19 11:05:28
 image: 'https://m.media-amazon.com/images/I/41iYWkL3+OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872NTXHX-es Funda Transparente Compatible para Xiaomi Mi 8 Carcasa...'
 sku: 'B0872NTXHX-es'
 tags: [  ]

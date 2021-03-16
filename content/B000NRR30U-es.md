@@ -5,7 +5,7 @@ date: 2020-05-28 18:59:05
 image: 'https://m.media-amazon.com/images/I/41fLPthQT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NRR30U-es Converse Chuck Taylor All Star Hi Zapatillas de tela...'
 sku: 'B000NRR30U-es'
 tags: [  ]

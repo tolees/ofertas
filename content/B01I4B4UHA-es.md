@@ -5,7 +5,7 @@ date: 2020-01-07 14:55:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415-ykr9mEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I4B4UHA-es Vans UA ISO 2 Zapatillas para Hombre Gris C and L...'
 sku: 'B01I4B4UHA-es'
 tags: [  ]

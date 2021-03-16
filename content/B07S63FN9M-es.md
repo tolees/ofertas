@@ -5,7 +5,7 @@ date: 2020-05-27 18:04:45
 image: 'https://m.media-amazon.com/images/I/41lbJ+5PJ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S63FN9M-es LuckyGirls • • Men Fashion Letter Solid Elastic Running...'
 sku: 'B07S63FN9M-es'
 tags: [  ]

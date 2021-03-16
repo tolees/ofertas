@@ -5,7 +5,7 @@ date: 2020-06-22 08:51:41
 image: 'https://m.media-amazon.com/images/I/41gEBFZoCkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003PPCYKQ-es Eastpak Springer Riñonera 23 cm 2 L Gris Sunday Grey'
 sku: 'B003PPCYKQ-es'
 tags: [  ]

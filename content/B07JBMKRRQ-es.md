@@ -5,7 +5,7 @@ date: 2020-04-20 14:41:32
 image: 'https://m.media-amazon.com/images/I/41YFhsMeUqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBMKRRQ-es BOTÍN DE Mujer XTI Basic con Tacon DE 6 CM con Cierre DE...'
 sku: 'B07JBMKRRQ-es'
 tags: [  ]

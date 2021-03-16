@@ -5,7 +5,7 @@ date: 2020-01-12 18:12:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31WHjt0YcsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MJGVP8-es Puma Smash V2 L Zapatillas Unisex Adulto Black White 47 EU'
 sku: 'B077MJGVP8-es'
 tags: [  ]

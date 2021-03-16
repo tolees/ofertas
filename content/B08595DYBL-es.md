@@ -5,7 +5,7 @@ date: 2020-05-23 13:35:29
 image: 'https://m.media-amazon.com/images/I/413nSEO3qnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08595DYBL-es Oihxse Animal Serie Case Compatible con Huawei Mate 20...'
 sku: 'B08595DYBL-es'
 tags: [  ]

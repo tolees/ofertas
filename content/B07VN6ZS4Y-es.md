@@ -5,7 +5,7 @@ date: 2020-06-24 09:04:40
 image: 'https://m.media-amazon.com/images/I/41uunyZIbUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN6ZS4Y-es YAMAMAY® Slip Traje de baño brasileño - Mirage'
 sku: 'B07VN6ZS4Y-es'
 tags: [  ]

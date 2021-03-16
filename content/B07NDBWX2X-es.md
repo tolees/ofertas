@@ -5,7 +5,7 @@ date: 2020-02-01 02:18:43
 image: 'https://m.media-amazon.com/images/I/41u-2rMd5cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDBWX2X-es Desigual 19WAYP07 - Cartera para mujer de Sintético Mujer...'
 sku: 'B07NDBWX2X-es'
 tags: [  ]

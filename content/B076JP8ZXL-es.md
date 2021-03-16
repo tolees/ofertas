@@ -5,7 +5,7 @@ date: 2020-01-03 16:35:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PLspv6XrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JP8ZXL-es adidas Trefoil T-Shirt Black XL para Hombre'
 sku: 'B076JP8ZXL-es'
 tags: [  ]

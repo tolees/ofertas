@@ -5,7 +5,7 @@ date: 2020-08-07 09:39:51
 image: 'https://m.media-amazon.com/images/I/51MbFZEvnAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082X4PMQD-es neefeaer Adaptador USB C a HDMI VGA 4k USB C Hub con 4K...'
 sku: 'B082X4PMQD-es'
 tags: [  ]

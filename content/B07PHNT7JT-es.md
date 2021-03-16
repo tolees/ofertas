@@ -5,7 +5,7 @@ date: 2020-10-12 10:28:42
 image: 'https://m.media-amazon.com/images/I/41uxblcifPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHNT7JT-es ARCTIC Alpine AM4 Series - Procesador Enfriador Ventilador...'
 sku: 'B07PHNT7JT-es'
 tags: [  ]

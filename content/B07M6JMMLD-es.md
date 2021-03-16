@@ -5,7 +5,7 @@ date: 2020-09-17 14:32:50
 image: 'https://m.media-amazon.com/images/I/41dKn4FaBvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6JMMLD-es Homyl Caja Estuche para Bolsa Funda para Ordenador...'
 sku: 'B07M6JMMLD-es'
 tags: [  ]

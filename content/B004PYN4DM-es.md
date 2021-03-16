@@ -5,7 +5,7 @@ date: 2020-06-04 16:24:50
 image: 'https://m.media-amazon.com/images/I/51C81jTQ33L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004PYN4DM-es Optimum Nutrition Amino Energy Naranja - 270g'
 sku: 'B004PYN4DM-es'
 tags: [  ]

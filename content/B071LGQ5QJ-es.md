@@ -5,7 +5,7 @@ date: 2020-05-21 06:17:28
 image: 'https://m.media-amazon.com/images/I/51tv95Hj4DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LGQ5QJ-es WOLTU Toldo Vela de Sombra Rectangular Prevención Rayos UV...'
 sku: 'B071LGQ5QJ-es'
 tags: [  ]

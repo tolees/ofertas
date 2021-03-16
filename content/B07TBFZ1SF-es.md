@@ -5,7 +5,7 @@ date: 2020-03-07 01:28:51
 image: 'https://m.media-amazon.com/images/I/51MWXJqacqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBFZ1SF-es Quiksilver Mission-Chaqueta para Nieve para Hombre Castle...'
 sku: 'B07TBFZ1SF-es'
 tags: [  ]

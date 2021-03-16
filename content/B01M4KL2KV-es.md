@@ -5,7 +5,7 @@ date: 2020-03-19 17:15:03
 image: 'https://m.media-amazon.com/images/I/41VfQnQQCyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4KL2KV-es Legrand Base de Enchufes de pared 4 tomas y 2 tapas ciegas...'
 sku: 'B01M4KL2KV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-22 17:31:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-P2FmA4BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0791FFK9M-es King internacional acero inoxidable redondo Rado salero y...'
 sku: 'B0791FFK9M-es'
 tags: [  ]

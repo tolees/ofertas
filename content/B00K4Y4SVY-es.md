@@ -5,7 +5,7 @@ date: 2020-03-30 18:48:27
 image: 'https://m.media-amazon.com/images/I/61YXXdKp0yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K4Y4SVY-es Inazuma Eleven Go: Luz'
 sku: 'B00K4Y4SVY-es'
 tags: [  ]

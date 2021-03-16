@@ -5,7 +5,7 @@ date: 2020-08-23 07:12:31
 image: 'https://m.media-amazon.com/images/I/31gjWwtqD9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CI30JVC-es NANOCABLE 10.31.0102 - Tenaza Metalica de carraca para...'
 sku: 'B00CI30JVC-es'
 tags: [  ]

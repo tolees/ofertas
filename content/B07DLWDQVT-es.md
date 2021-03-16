@@ -5,7 +5,7 @@ date: 2020-03-21 20:22:35
 image: 'https://m.media-amazon.com/images/I/51zc262NPpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLWDQVT-es DURAGADGET Trípode Profesional para Cámara Fujifilm X-T100...'
 sku: 'B07DLWDQVT-es'
 tags: [  ]

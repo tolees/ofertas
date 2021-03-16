@@ -5,7 +5,7 @@ date: 2020-09-04 21:00:57
 image: 'https://m.media-amazon.com/images/I/31mgIIEBcLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B9J1OTC-es Roca A5A6125C00 A5A3125C00 Monomando Lavabo Colección...'
 sku: 'B00B9J1OTC-es'
 tags: [  ]

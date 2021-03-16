@@ -5,7 +5,7 @@ date: 2020-10-09 19:18:10
 image: 'https://m.media-amazon.com/images/I/41p7DGeWaGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRLBRAL-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Lt Grey...'
 sku: 'B01MRLBRAL-es'
 tags: [  ]

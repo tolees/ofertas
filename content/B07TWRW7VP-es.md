@@ -5,7 +5,7 @@ date: 2020-04-15 00:42:15
 image: 'https://m.media-amazon.com/images/I/41qR8-qIIHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWRW7VP-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars...'
 sku: 'B07TWRW7VP-es'
 tags: [  ]

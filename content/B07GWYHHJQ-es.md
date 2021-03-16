@@ -5,7 +5,7 @@ date: 2020-02-03 20:46:22
 image: 'https://m.media-amazon.com/images/I/4139+iFs1mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWYHHJQ-es auna Ultrasonic BT Boombox - Bluetooth hasta 10 m Puerto...'
 sku: 'B07GWYHHJQ-es'
 tags: [  ]

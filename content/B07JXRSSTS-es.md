@@ -5,7 +5,7 @@ date: 2020-03-22 08:56:03
 image: 'https://m.media-amazon.com/images/I/41jCY-qK6jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXRSSTS-es Nike Star Runner 2 GS Zapatillas de Running para Asfalto...'
 sku: 'B07JXRSSTS-es'
 tags: [  ]

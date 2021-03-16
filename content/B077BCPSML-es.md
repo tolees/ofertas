@@ -5,7 +5,7 @@ date: 2020-09-21 08:01:28
 image: 'https://m.media-amazon.com/images/I/41uG-sZy3sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BCPSML-es Calvin Klein Cotton Stretch-3er Cierre Negro Black W....'
 sku: 'B077BCPSML-es'
 tags: [  ]

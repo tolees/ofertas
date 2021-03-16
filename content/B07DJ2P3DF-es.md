@@ -5,7 +5,7 @@ date: 2020-10-08 14:26:23
 image: 'https://m.media-amazon.com/images/I/41u1N891QKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ2P3DF-es New Balance 997H Core Zapatillas para Hombre Azul Pigment...'
 sku: 'B07DJ2P3DF-es'
 tags: [  ]

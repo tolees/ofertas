@@ -5,7 +5,7 @@ date: 2020-01-07 13:55:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4150X5slSIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LEP4CQS-es Panasonic KX-TGB213 - Teléfono fijo inalámbrico Trío LCD...'
 sku: 'B00LEP4CQS-es'
 tags: [  ]

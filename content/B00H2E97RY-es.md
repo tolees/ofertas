@@ -5,7 +5,7 @@ date: 2020-08-08 08:01:02
 image: 'https://m.media-amazon.com/images/I/51o0pHrIRmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H2E97RY-es Weider 40% Protein Low Carb. Barrita alto contenido en...'
 sku: 'B00H2E97RY-es'
 tags: [  ]

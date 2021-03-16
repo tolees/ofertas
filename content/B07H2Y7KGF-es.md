@@ -5,7 +5,7 @@ date: 2020-03-10 18:06:23
 image: 'https://m.media-amazon.com/images/I/41slHFBJ9eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2Y7KGF-es Bellivera Giacca Corta da Donna in Ecopelle Scamosciata...'
 sku: 'B07H2Y7KGF-es'
 tags: [  ]

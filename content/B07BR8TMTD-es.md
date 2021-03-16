@@ -5,7 +5,7 @@ date: 2020-07-18 19:25:10
 image: 'https://m.media-amazon.com/images/I/51Iv8rIwuDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BR8TMTD-es Péptidos Colágeno Marino de Peces Salvajes del Atlántico...'
 sku: 'B07BR8TMTD-es'
 tags: [  ]

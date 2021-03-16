@@ -5,7 +5,7 @@ date: 2020-05-15 13:02:47
 image: 'https://m.media-amazon.com/images/I/41ff6jcoCiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GVTT1L-es Oihxse Compatible con Huawei Honor V10 Lite/8X Funda Suave...'
 sku: 'B086GVTT1L-es'
 tags: [  ]

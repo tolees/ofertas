@@ -5,7 +5,7 @@ date: 2020-02-27 11:05:26
 image: 'https://m.media-amazon.com/images/I/51JCDkVA8EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0173HJRKG-es Fresh N Rebel Rockbox Cube - Altavoz portátil con...'
 sku: 'B0173HJRKG-es'
 tags: [  ]

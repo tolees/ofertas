@@ -5,7 +5,7 @@ date: 2020-07-19 15:31:55
 image: 'https://m.media-amazon.com/images/I/41CCJ-B+2XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0855H1XPD-es READ Reloj Digital Deportivos 3D Podómetro Digital...'
 sku: 'B0855H1XPD-es'
 tags: [  ]

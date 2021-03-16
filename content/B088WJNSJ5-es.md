@@ -5,7 +5,7 @@ date: 2020-06-27 10:01:51
 image: 'https://m.media-amazon.com/images/I/51i1qkvzIOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WJNSJ5-es FIGROL Ventilador Cuello Ventilador Portatil USB...'
 sku: 'B088WJNSJ5-es'
 tags: [  ]

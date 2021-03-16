@@ -5,7 +5,7 @@ date: 2020-05-28 14:13:56
 image: 'https://m.media-amazon.com/images/I/41RNvj7Lo8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y3VWW1Q-es Bluefinity Aro Pilates Anillo Ejercicio Yoga Resistencia...'
 sku: 'B06Y3VWW1Q-es'
 tags: [  ]

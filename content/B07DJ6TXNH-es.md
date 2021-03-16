@@ -5,7 +5,7 @@ date: 2020-04-24 02:51:36
 image: 'https://m.media-amazon.com/images/I/41TS3zKbbrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ6TXNH-es New Balance 574S v2 Zapatillas para Mujer Rosa Cashmere...'
 sku: 'B07DJ6TXNH-es'
 tags: [  ]

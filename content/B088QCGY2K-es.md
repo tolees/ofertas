@@ -5,7 +5,7 @@ date: 2020-07-12 09:40:12
 image: 'https://m.media-amazon.com/images/I/519I+6XqLyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088QCGY2K-es IMBZBK Funda para Xiaomi Redmi Note 9 + [2 Pack] Protector...'
 sku: 'B088QCGY2K-es'
 tags: [  ]

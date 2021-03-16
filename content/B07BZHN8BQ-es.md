@@ -5,7 +5,7 @@ date: 2020-05-31 15:34:50
 image: 'https://m.media-amazon.com/images/I/41ghYj7D07L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZHN8BQ-es Visconti - SHIELD 707 - Cartera - Cuero Hunter Azul - RFID'
 sku: 'B07BZHN8BQ-es'
 tags: [  ]

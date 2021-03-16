@@ -5,7 +5,7 @@ date: 2020-01-06 21:04:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31iJ2BOdc3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3QKRN8-es Yizhet Adaptador de Red USB Super Velocidad USB C to RJ45...'
 sku: 'B07R3QKRN8-es'
 tags: [  ]

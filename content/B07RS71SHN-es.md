@@ -5,7 +5,7 @@ date: 2020-04-18 21:26:42
 image: 'https://m.media-amazon.com/images/I/31poYK84YWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS71SHN-es Tommy Hilfiger - Classic Saffiano cartera para mujeres azul'
 sku: 'B07RS71SHN-es'
 tags: [  ]

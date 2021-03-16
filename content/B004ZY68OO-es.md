@@ -5,7 +5,7 @@ date: 2020-09-12 09:32:58
 image: 'https://m.media-amazon.com/images/I/41och+nLfsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ZY68OO-es PUMA Suede Classic+ Zapatillas para Hombre Black White...'
 sku: 'B004ZY68OO-es'
 tags: [  ]

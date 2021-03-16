@@ -5,7 +5,7 @@ date: 2020-05-22 16:56:14
 image: 'https://m.media-amazon.com/images/I/31gOCjw2wPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCB1SSD-es Levi s Malibu Beach S Zapatillas para Mujer Rosa Light...'
 sku: 'B07SCB1SSD-es'
 tags: [  ]

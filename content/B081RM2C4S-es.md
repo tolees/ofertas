@@ -5,7 +5,7 @@ date: 2020-06-25 18:15:59
 image: 'https://m.media-amazon.com/images/I/41P5SpNJkKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RM2C4S-es Taylor Swoden Eddy - Ventilador de mesa digital oscilante...'
 sku: 'B081RM2C4S-es'
 tags: [  ]

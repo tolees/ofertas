@@ -5,7 +5,7 @@ date: 2020-01-26 17:49:12
 image: 'https://m.media-amazon.com/images/I/51kkhX1gyJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPCFYZR-es Cabello fuerte uñas y piel con BIOTIN + ZINC ortiga...'
 sku: 'B07BPCFYZR-es'
 tags: [  ]

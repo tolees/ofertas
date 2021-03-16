@@ -5,7 +5,7 @@ date: 2020-08-10 16:45:27
 image: 'https://m.media-amazon.com/images/I/41TxwZCqcIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z7VLGL4-es Exzact Básculas de Cocina/Balanza Electrónica/Escala...'
 sku: 'B00Z7VLGL4-es'
 tags: [  ]

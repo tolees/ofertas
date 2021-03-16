@@ -5,7 +5,7 @@ date: 2020-05-27 13:13:13
 image: 'https://m.media-amazon.com/images/I/21O60kEYuTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002PWABXW-es HP 516824-B21 - Disco duro 300 GB 88.9 mm 3.5 " 15000 RPM'
 sku: 'B002PWABXW-es'
 tags: [  ]

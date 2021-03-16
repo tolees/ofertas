@@ -5,7 +5,7 @@ date: 2020-06-13 02:08:31
 image: 'https://m.media-amazon.com/images/I/418YuDY0nnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MLQ26Y-es PUMA Smash V2 L V PS Zapatillas Unisex niños Blanco White...'
 sku: 'B077MLQ26Y-es'
 tags: [  ]

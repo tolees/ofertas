@@ -5,7 +5,7 @@ date: 2020-06-01 15:24:27
 image: 'https://m.media-amazon.com/images/I/41s3nF6b5jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083R7JP2G-es Ganchos Adhesivos Wodgreat 18 Piezas Toallero Perchero...'
 sku: 'B083R7JP2G-es'
 tags: [  ]

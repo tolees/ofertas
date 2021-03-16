@@ -5,7 +5,7 @@ date: 2020-07-17 18:07:38
 image: 'https://m.media-amazon.com/images/I/51U8Lr0A8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C4VY9WS-es LXHGrowH Funda Realme 6 Fundas Duro PC Cristal Templado...'
 sku: 'B08C4VY9WS-es'
 tags: [  ]

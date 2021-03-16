@@ -5,7 +5,7 @@ date: 2020-09-30 11:28:26
 image: 'https://m.media-amazon.com/images/I/41zh3UYwqhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X0W9X1M-es Tommy Hilfiger Eton Mini CC Wallet Cartera para Hombre...'
 sku: 'B00X0W9X1M-es'
 tags: [  ]

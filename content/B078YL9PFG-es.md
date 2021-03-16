@@ -5,7 +5,7 @@ date: 2020-10-04 08:22:20
 image: 'https://m.media-amazon.com/images/I/61TotqNlcdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YL9PFG-es Hyrule Warriors - Edición definitiva'
 sku: 'B078YL9PFG-es'
 tags: [  ]

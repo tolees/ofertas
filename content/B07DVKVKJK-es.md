@@ -5,7 +5,7 @@ date: 2020-01-30 10:02:49
 image: 'https://m.media-amazon.com/images/I/411LrdvOiQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVKVKJK-es New Balance W890V7 Zapatillas de Running para Mujer Verde...'
 sku: 'B07DVKVKJK-es'
 tags: [  ]

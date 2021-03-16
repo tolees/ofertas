@@ -5,7 +5,7 @@ date: 2020-05-23 14:28:47
 image: 'https://m.media-amazon.com/images/I/31iiR-+zzRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006FXS5ZS-es Philips Bombilla de bajo consumo en forma de espiral de 8...'
 sku: 'B006FXS5ZS-es'
 tags: [  ]

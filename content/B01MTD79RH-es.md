@@ -5,7 +5,7 @@ date: 2020-09-04 12:01:09
 image: 'https://m.media-amazon.com/images/I/51s2yk9IFML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTD79RH-es Control Xtra Sensation Preservativos - 12 Unidades'
 sku: 'B01MTD79RH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-25 11:15:08
 image: 'https://m.media-amazon.com/images/I/41AWdugbLNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QT6PM1Q-es Asics Gel-Fujitrabuco 7 Zapatillas de Entrenamiento para...'
 sku: 'B07QT6PM1Q-es'
 tags: [  ]

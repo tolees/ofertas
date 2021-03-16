@@ -5,7 +5,7 @@ date: 2020-05-29 15:43:39
 image: 'https://m.media-amazon.com/images/I/51-L+HgAuHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPD5NJQ-es Golvery Metal silbato de árbitro entrenador silbato –...'
 sku: 'B06XPD5NJQ-es'
 tags: [  ]

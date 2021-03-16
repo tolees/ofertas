@@ -5,7 +5,7 @@ date: 2020-08-08 18:23:02
 image: 'https://m.media-amazon.com/images/I/41MgCSlNMoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084NTVDNV-es Eléctrico Lima de uñas del bebé Lima de uñas Set de...'
 sku: 'B084NTVDNV-es'
 tags: [  ]

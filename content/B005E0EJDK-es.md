@@ -5,7 +5,7 @@ date: 2020-03-07 09:11:43
 image: 'https://m.media-amazon.com/images/I/31XY1bsqZcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005E0EJDK-es TooQ TQR-208B - Lector Interno de Tarjetas de Memoria CF...'
 sku: 'B005E0EJDK-es'
 tags: [  ]

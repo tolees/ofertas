@@ -5,7 +5,7 @@ date: 2020-01-14 14:59:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JvnZ-IEiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008O0IE2Y-es Canon EF-EOS M - Adaptador para Objetivos de cámaras Canon...'
 sku: 'B008O0IE2Y-es'
 tags: [  ]

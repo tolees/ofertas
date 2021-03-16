@@ -5,7 +5,7 @@ date: 2020-04-13 17:07:17
 image: 'https://m.media-amazon.com/images/I/41uHQMLET+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N96NIYO-es Giraffe Boy. Juguete de ganchillo'
 sku: 'B01N96NIYO-es'
 tags: [  ]

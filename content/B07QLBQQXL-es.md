@@ -5,7 +5,7 @@ date: 2020-06-18 15:02:27
 image: 'https://m.media-amazon.com/images/I/51g7t1t5lVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLBQQXL-es LeYi Funda iPhone SE 2020/6 / 6S / 7/8 Armor Carcasa con...'
 sku: 'B07QLBQQXL-es'
 tags: [  ]

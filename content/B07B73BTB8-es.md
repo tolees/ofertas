@@ -5,7 +5,7 @@ date: 2020-04-02 14:20:57
 image: 'https://m.media-amazon.com/images/I/41Bgc8su8kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B73BTB8-es New Balance 800 Middle Distance Zapatillas de Atletismo...'
 sku: 'B07B73BTB8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 22:41:51
 image: 'https://m.media-amazon.com/images/I/31TEYzVU5NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SM9W7Z1-es Lacoste Graduate 120 1 SFA Zapatillas para Mujer Blanco...'
 sku: 'B07SM9W7Z1-es'
 tags: [  ]

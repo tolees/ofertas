@@ -5,7 +5,7 @@ date: 2020-03-05 17:08:38
 image: 'https://m.media-amazon.com/images/I/41uKhEgWbNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007RM1ZBM-es Grohe Concetto - Grifo de lavabo mural 1/2"Tamaño S color...'
 sku: 'B007RM1ZBM-es'
 tags: [  ]

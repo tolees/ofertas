@@ -5,7 +5,7 @@ date: 2020-08-28 15:13:24
 image: 'https://m.media-amazon.com/images/I/516Me+gH6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBXGROW-es Garmin DriveSmart 51 Western EU LMT-D - Navegador GPS con...'
 sku: 'B01NBXGROW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-29 22:07:13
 image: 'https://m.media-amazon.com/images/I/51NF84UOWOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYUJ1A8-es Einhell TC-PL 750 -Cepillo electrónico Potencia de 750 W...'
 sku: 'B01MYUJ1A8-es'
 tags: [  ]

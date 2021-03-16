@@ -5,7 +5,7 @@ date: 2020-06-01 07:40:05
 image: 'https://m.media-amazon.com/images/I/51MLBwNb6SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG5STZY-es Panel Solar Fuente de Alimentación Compatible con Cámara...'
 sku: 'B07HG5STZY-es'
 tags: [  ]

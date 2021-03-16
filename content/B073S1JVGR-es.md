@@ -5,7 +5,7 @@ date: 2019-12-31 17:05:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311owFN58KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073S1JVGR-es Finether-Chimenea Eléctrica de la Pared Estufa Eléctrica...'
 sku: 'B073S1JVGR-es'
 tags: [  ]

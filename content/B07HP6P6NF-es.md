@@ -5,7 +5,7 @@ date: 2020-09-15 18:27:12
 image: 'https://m.media-amazon.com/images/I/41oG2MHG7mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HP6P6NF-es Skechers Men s Status 2.0 PEXTON Boat Shoes Grey Taupe...'
 sku: 'B07HP6P6NF-es'
 tags: [  ]

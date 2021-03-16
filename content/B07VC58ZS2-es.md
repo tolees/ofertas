@@ -5,7 +5,7 @@ date: 2020-08-09 22:01:21
 image: 'https://m.media-amazon.com/images/I/41PYMZABIPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC58ZS2-es Mosquitera Mosquitera Carro Bebe Universal Mosquitera...'
 sku: 'B07VC58ZS2-es'
 tags: [  ]

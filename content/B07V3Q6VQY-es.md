@@ -5,7 +5,7 @@ date: 2020-04-05 10:43:17
 image: 'https://m.media-amazon.com/images/I/41dhBOcmEjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3Q6VQY-es Jack & Jones 12158190 Suéter Verde Darkest Spruce Darkest...'
 sku: 'B07V3Q6VQY-es'
 tags: [  ]

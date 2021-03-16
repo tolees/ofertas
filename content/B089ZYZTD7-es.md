@@ -5,7 +5,7 @@ date: 2020-07-12 10:10:03
 image: 'https://m.media-amazon.com/images/I/31owb+8m2HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089ZYZTD7-es Kexing Kit de Resina epoxídica y Agente de curado Material...'
 sku: 'B089ZYZTD7-es'
 tags: [  ]

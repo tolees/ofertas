@@ -5,7 +5,7 @@ date: 2020-06-05 07:52:16
 image: 'https://m.media-amazon.com/images/I/41YfmMDpoeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVWYRWM-es Alcatel 3088X - Teléfono móvil de 2.4" Wi-Fi RAM de 4 GB...'
 sku: 'B07TVWYRWM-es'
 tags: [  ]

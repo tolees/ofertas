@@ -5,7 +5,7 @@ date: 2020-04-12 10:29:08
 image: 'https://m.media-amazon.com/images/I/517IAVEEqDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLTGGTN-es Camela - Rebobinando 3CD+DVD'
 sku: 'B07NLTGGTN-es'
 tags: [  ]

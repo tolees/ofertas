@@ -5,7 +5,7 @@ date: 2020-05-17 09:35:09
 image: 'https://m.media-amazon.com/images/I/21MLezwCjZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798DGHKW-es Precision'
 sku: 'B0798DGHKW-es'
 tags: [  ]

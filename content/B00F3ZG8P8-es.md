@@ -5,7 +5,7 @@ date: 2020-03-19 11:36:57
 image: 'https://m.media-amazon.com/images/I/31NCwxnYhJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F3ZG8P8-es HELLA 9XW 178 878-191 Limpiaparabrisas'
 sku: 'B00F3ZG8P8-es'
 tags: [  ]

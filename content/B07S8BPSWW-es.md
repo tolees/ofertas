@@ -5,7 +5,7 @@ date: 2020-09-20 08:03:41
 image: 'https://m.media-amazon.com/images/I/41SnMUyTvkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8BPSWW-es Justdodo Bolsa de cosméticos de Gran Capacidad Las Mujeres...'
 sku: 'B07S8BPSWW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-31 08:55:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MkQxjtCkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J1TWSMS-es Juego de 5 piezas de para beber sake japonés. Pintadas a...'
 sku: 'B01J1TWSMS-es'
 tags: [  ]

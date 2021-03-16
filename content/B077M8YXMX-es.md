@@ -5,7 +5,7 @@ date: 2020-07-04 14:02:20
 image: 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077M8YXMX-es PUMA SMASH V2 L Zapatillas Unisex-Adulto Blanco White...'
 sku: 'B077M8YXMX-es'
 tags: [  ]

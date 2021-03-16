@@ -5,7 +5,7 @@ date: 2020-01-13 23:38:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417lQsMBv%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081MYWK48-es BLU Ray 4k Grabadora DVD Reproductor Externo Portatil USB...'
 sku: 'B081MYWK48-es'
 tags: [  ]

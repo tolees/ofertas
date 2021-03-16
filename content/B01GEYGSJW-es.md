@@ -5,7 +5,7 @@ date: 2020-02-17 21:50:12
 image: 'https://m.media-amazon.com/images/I/51UXHoUhdfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GEYGSJW-es Brooks Defyance 9 Zapatillas de Gimnasia para Hombre Gris...'
 sku: 'B01GEYGSJW-es'
 tags: [  ]

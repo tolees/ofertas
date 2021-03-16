@@ -5,7 +5,7 @@ date: 2020-01-18 15:52:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51iFMFGheBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AXYMEZ6-es MASERATI Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B01AXYMEZ6-es'
 tags: [  ]

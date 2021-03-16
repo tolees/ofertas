@@ -5,7 +5,7 @@ date: 2020-06-15 21:50:48
 image: 'https://m.media-amazon.com/images/I/31aBLfsRoWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7BJMJ8-es CARE OF by PUMA 372883 Low-Top Sneakers Negro Black Black...'
 sku: 'B07R7BJMJ8-es'
 tags: [  ]

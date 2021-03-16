@@ -5,7 +5,7 @@ date: 2020-06-29 12:33:30
 image: 'https://m.media-amazon.com/images/I/51qL+JiBAzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMFCNS5-es upHere PWM Ventilador PC 120mm 5V ARGB LED Ventilador para...'
 sku: 'B07MMFCNS5-es'
 tags: [  ]

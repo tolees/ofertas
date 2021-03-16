@@ -5,7 +5,7 @@ date: 2020-05-26 10:05:03
 image: 'https://m.media-amazon.com/images/I/41BSMvaZWDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872Q4VQQ-es Funda Transparente Compatible para Xiaomi Redmi 6 Pro...'
 sku: 'B0872Q4VQQ-es'
 tags: [  ]

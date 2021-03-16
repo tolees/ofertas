@@ -5,7 +5,7 @@ date: 2020-08-02 13:03:03
 image: 'https://m.media-amazon.com/images/I/41EVefTzW9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D73GVCQ-es 10A Control remoto inalámbrico inteligente para el hogar...'
 sku: 'B08D73GVCQ-es'
 tags: [  ]

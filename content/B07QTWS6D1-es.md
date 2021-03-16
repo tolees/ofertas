@@ -5,7 +5,7 @@ date: 2020-03-23 23:39:25
 image: 'https://m.media-amazon.com/images/I/41D6Cqf4oxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTWS6D1-es Lotus Reloj Analógico para Niñas de Cuarzo con Correa en...'
 sku: 'B07QTWS6D1-es'
 tags: [  ]

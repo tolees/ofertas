@@ -5,7 +5,7 @@ date: 2020-02-14 14:34:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51M2%2B7aE9WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0819LCQQZ-es Luces de Cadena DazSpirit LED Photo Clip Para Habitación...'
 sku: 'B0819LCQQZ-es'
 tags: [  ]

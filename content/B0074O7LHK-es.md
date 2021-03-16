@@ -5,7 +5,7 @@ date: 2020-04-14 20:27:57
 image: 'https://m.media-amazon.com/images/I/41MVDt5nteL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0074O7LHK-es Sisley Masque Crema À La Rose Noire 60 ml'
 sku: 'B0074O7LHK-es'
 tags: [  ]

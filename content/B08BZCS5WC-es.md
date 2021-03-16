@@ -5,7 +5,7 @@ date: 2020-09-16 15:13:32
 image: 'https://m.media-amazon.com/images/I/417v+-tLSRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZCS5WC-es Poyet 21XL Remanufacturado Cartucho de tinta Reemplazo...'
 sku: 'B08BZCS5WC-es'
 tags: [  ]

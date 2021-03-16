@@ -5,7 +5,7 @@ date: 2020-05-27 09:02:09
 image: 'https://m.media-amazon.com/images/I/41iFUAn1uIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HWN1B5Q-es Espejo Retrovisor de Coche para Vigilar Bebés en Asiento...'
 sku: 'B07HWN1B5Q-es'
 tags: [  ]

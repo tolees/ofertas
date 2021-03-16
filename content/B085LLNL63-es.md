@@ -5,7 +5,7 @@ date: 2020-09-19 16:46:28
 image: 'https://m.media-amazon.com/images/I/31rpiZjbc6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LLNL63-es MKTOSASA-Set de Altavoz con Auriculares intraurales...'
 sku: 'B085LLNL63-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-02 02:03:26
 image: 'https://m.media-amazon.com/images/I/31TQRXVi4OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CC8ZXTQ-es Bestway 65046 - Barca Hinchable Neumática Bestway Hydro-...'
 sku: 'B00CC8ZXTQ-es'
 tags: [  ]

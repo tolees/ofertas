@@ -5,7 +5,7 @@ date: 2020-09-24 13:43:09
 image: 'https://m.media-amazon.com/images/I/51qXmu8MdRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCJ8YRC-es Hosome Juego de Luces Para Bicicleta Recargable por USB...'
 sku: 'B07XCJ8YRC-es'
 tags: [  ]

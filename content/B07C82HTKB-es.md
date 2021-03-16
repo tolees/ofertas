@@ -5,7 +5,7 @@ date: 2020-06-16 19:09:15
 image: 'https://m.media-amazon.com/images/I/41iF+GpNahL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C82HTKB-es Easton Marlowe 6 PR Calcetines Lisos Negros Hombre Mujer...'
 sku: 'B07C82HTKB-es'
 tags: [  ]

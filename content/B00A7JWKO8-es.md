@@ -5,7 +5,7 @@ date: 2020-03-31 10:55:41
 image: 'https://m.media-amazon.com/images/I/31S7sJLdikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A7JWKO8-es SESDERMA Hidraderm Hyal Crema Hidratante 50 ml'
 sku: 'B00A7JWKO8-es'
 tags: [  ]

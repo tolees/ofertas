@@ -5,7 +5,7 @@ date: 2020-04-02 14:59:12
 image: 'https://m.media-amazon.com/images/I/41nKXylg8KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHN3QSR-es JACK & JONES Jorvincey Sweat Hood Capucha Gris Light Grey...'
 sku: 'B07VHN3QSR-es'
 tags: [  ]

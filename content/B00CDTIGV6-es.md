@@ -5,7 +5,7 @@ date: 2020-03-24 20:09:12
 image: 'https://m.media-amazon.com/images/I/31jVlJ7xdFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CDTIGV6-es Edimax EU-4306 - Adaptador USB 3.0 Gigabit Ethernet'
 sku: 'B00CDTIGV6-es'
 tags: [  ]

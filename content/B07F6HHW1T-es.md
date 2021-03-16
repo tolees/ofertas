@@ -5,7 +5,7 @@ date: 2020-09-16 08:49:50
 image: 'https://m.media-amazon.com/images/I/411xs+BNI0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F6HHW1T-es HP 27xq - Monitor gaming con pantalla Quad HD 2560 x 1440...'
 sku: 'B07F6HHW1T-es'
 tags: [  ]

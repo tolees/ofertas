@@ -5,7 +5,7 @@ date: 2020-03-02 11:29:31
 image: 'https://m.media-amazon.com/images/I/51l9yCZ4qxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5G2GZW-es HARTMANN - TIRITAS PLASTIC 20 UN'
 sku: 'B00J5G2GZW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-25 14:57:25
 image: 'https://m.media-amazon.com/images/I/31PXq5P76xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LLH5BNQ-es Orbegozo CM 2360 - Crepera eléctrica superficie...'
 sku: 'B01LLH5BNQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-11 21:15:19
 image: 'https://m.media-amazon.com/images/I/51KonD9ylUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004KRLCGU-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B004KRLCGU-es'
 tags: [  ]

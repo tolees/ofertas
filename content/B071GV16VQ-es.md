@@ -5,7 +5,7 @@ date: 2020-04-19 13:19:08
 image: 'https://m.media-amazon.com/images/I/41oS4PNia4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GV16VQ-es Funko Pop! - Figura de Vinilo Raiden 21711'
 sku: 'B071GV16VQ-es'
 tags: [  ]

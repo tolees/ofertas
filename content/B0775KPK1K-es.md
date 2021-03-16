@@ -5,7 +5,7 @@ date: 2020-02-07 11:17:11
 image: 'https://m.media-amazon.com/images/I/31HHtcHAH1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0775KPK1K-es Armani Exchange Double Stripe Polo Blanco White 1100 Large...'
 sku: 'B0775KPK1K-es'
 tags: [  ]

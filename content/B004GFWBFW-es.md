@@ -5,7 +5,7 @@ date: 2020-02-01 12:49:10
 image: 'https://m.media-amazon.com/images/I/41n0o5y3deL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004GFWBFW-es POP! Vinilo - Horror: Michael Myers'
 sku: 'B004GFWBFW-es'
 tags: [  ]

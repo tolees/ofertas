@@ -5,7 +5,7 @@ date: 2020-02-12 19:45:34
 image: 'https://m.media-amazon.com/images/I/41hFPNwtVCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F92HZB3-es Maleta de cabina Pepe Jeans Olaia rosa rígida 55cm'
 sku: 'B07F92HZB3-es'
 tags: [  ]

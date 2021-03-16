@@ -5,7 +5,7 @@ date: 2020-08-13 13:03:53
 image: 'https://m.media-amazon.com/images/I/41VkePXc99L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002S3XA8G-es Australian Gold Crema Hidratante Extensiva - 227 ml'
 sku: 'B002S3XA8G-es'
 tags: [  ]

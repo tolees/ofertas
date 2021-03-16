@@ -5,7 +5,7 @@ date: 2020-06-25 03:16:20
 image: 'https://m.media-amazon.com/images/I/41F1qEAnTTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q24VX4M-es Under Armour UA W Charged Impulse Zapatillas de Running...'
 sku: 'B07Q24VX4M-es'
 tags: [  ]

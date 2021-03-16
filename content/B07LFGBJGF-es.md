@@ -5,7 +5,7 @@ date: 2020-01-12 03:19:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4133csUS0LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFGBJGF-es Levi s Modern Hm Hoodie Capucha Marrón Warm Cabernet 0020...'
 sku: 'B07LFGBJGF-es'
 tags: [  ]

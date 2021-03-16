@@ -5,7 +5,7 @@ date: 2020-07-09 22:38:16
 image: 'https://m.media-amazon.com/images/I/51dPKKKmiDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYTRTJS-es OSRAM NIGHT BREAKER LASER H1 Gen 2 +150% más luz bombilla...'
 sku: 'B07FYTRTJS-es'
 tags: [  ]

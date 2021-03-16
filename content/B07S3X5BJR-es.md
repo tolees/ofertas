@@ -5,7 +5,7 @@ date: 2020-09-08 00:47:24
 image: 'https://m.media-amazon.com/images/I/41eCazETwYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3X5BJR-es New Balance Fresh Foam Tempo m Zapatillas de Running para...'
 sku: 'B07S3X5BJR-es'
 tags: [  ]

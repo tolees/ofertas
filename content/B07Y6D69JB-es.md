@@ -5,7 +5,7 @@ date: 2020-08-15 20:08:08
 image: 'https://m.media-amazon.com/images/I/41EfmVv0N4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y6D69JB-es FitBeast Esterilla de Yoga Esterilla de Yoga...'
 sku: 'B07Y6D69JB-es'
 tags: [  ]

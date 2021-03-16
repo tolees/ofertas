@@ -5,7 +5,7 @@ date: 2020-01-20 12:21:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410AocSPiRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBX766L-es GlobaLink Espejo Antivaho Redondo Espejo Ideal para...'
 sku: 'B07MBX766L-es'
 tags: [  ]

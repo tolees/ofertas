@@ -5,7 +5,7 @@ date: 2020-04-19 15:04:19
 image: 'https://m.media-amazon.com/images/I/51uxGUgqCCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DV2TCV-es KingYH 10M Cable Eléctrico Transparente 2 Núcleos 0 75 mm²...'
 sku: 'B081DV2TCV-es'
 tags: [  ]

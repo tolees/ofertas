@@ -5,7 +5,7 @@ date: 2020-09-11 02:37:57
 image: 'https://m.media-amazon.com/images/I/41Xtv0zPRhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYYSBWZ-es Under Armour UA W Charged Rogue 2 Zapatillas de Running...'
 sku: 'B07PYYSBWZ-es'
 tags: [  ]

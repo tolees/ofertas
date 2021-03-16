@@ -5,7 +5,7 @@ date: 2020-01-24 15:33:24
 image: 'https://m.media-amazon.com/images/I/41yG8GTJ1oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAEKRNB-es Limpiador de pelotas de golf'
 sku: 'B01NAEKRNB-es'
 tags: [  ]

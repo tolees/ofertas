@@ -5,7 +5,7 @@ date: 2020-03-29 16:30:15
 image: 'https://m.media-amazon.com/images/I/41H4H1AL9AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNKP1HJ-es L.O.L Surprise'
 sku: 'B07PNKP1HJ-es'
 tags: [  ]

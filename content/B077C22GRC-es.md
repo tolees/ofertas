@@ -5,7 +5,7 @@ date: 2020-09-27 16:31:41
 image: 'https://m.media-amazon.com/images/I/314FAe17e9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077C22GRC-es Tous Baby- Oso Musical Color Celeste T.Bear-603 00067 0/36M'
 sku: 'B077C22GRC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 04:57:34
 image: 'https://m.media-amazon.com/images/I/41RX9ok4ZgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D18CTBP-es Joma Costa II Short Caballero Deportivo Hombre Negro M'
 sku: 'B07D18CTBP-es'
 tags: [  ]

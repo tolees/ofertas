@@ -5,7 +5,7 @@ date: 2020-04-05 04:01:40
 image: 'https://m.media-amazon.com/images/I/41Ax3i4DwXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003QPOAPC-es Samsung CLT-M4072S/ELS - Tóner 1000 páginas magenta'
 sku: 'B003QPOAPC-es'
 tags: [  ]

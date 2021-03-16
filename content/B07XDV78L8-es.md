@@ -5,7 +5,7 @@ date: 2020-08-04 01:48:27
 image: 'https://m.media-amazon.com/images/I/41Lz+ZlczUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDV78L8-es PUTORSEN® Soporte Monitor Doble PC Brazo para Monitor...'
 sku: 'B07XDV78L8-es'
 tags: [  ]

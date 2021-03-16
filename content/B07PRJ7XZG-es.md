@@ -5,7 +5,7 @@ date: 2020-05-10 09:42:38
 image: 'https://m.media-amazon.com/images/I/41JD7xMOIHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRJ7XZG-es PUMA Weave XT WN S Zapatillas Deportivas para Interior...'
 sku: 'B07PRJ7XZG-es'
 tags: [  ]

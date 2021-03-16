@@ -5,7 +5,7 @@ date: 2020-04-01 06:59:17
 image: 'https://m.media-amazon.com/images/I/41HU+hE0i3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTVV5Q-es G-STAR RAW Rovic Zip 3D Tapered Pantalones para Hombre...'
 sku: 'B01BGTVV5Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 09:39:06
 image: 'https://m.media-amazon.com/images/I/41bud9X6uAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBQ832P-es Adidas Match Light 1.9 - Pala de Pádel Adultos Unisex...'
 sku: 'B07LBQ832P-es'
 tags: [  ]

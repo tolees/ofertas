@@ -5,7 +5,7 @@ date: 2020-05-20 08:47:39
 image: 'https://m.media-amazon.com/images/I/41kkh6zUugL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X18MKJL-es Ron Millonario 10º aniversario'
 sku: 'B06X18MKJL-es'
 tags: [  ]

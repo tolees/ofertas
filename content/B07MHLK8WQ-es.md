@@ -5,7 +5,7 @@ date: 2020-03-30 07:31:02
 image: 'https://m.media-amazon.com/images/I/41EJXqRS2OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHLK8WQ-es Montse Interiors Saco Nórdico Estrellas y Lunas Moon Gris...'
 sku: 'B07MHLK8WQ-es'
 tags: [  ]

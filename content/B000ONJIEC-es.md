@@ -5,7 +5,7 @@ date: 2020-09-02 09:18:08
 image: 'https://m.media-amazon.com/images/I/31Qw6d8B-xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ONJIEC-es Osram Dulux L - Lámpara 36w/840 lumilux 2g11'
 sku: 'B000ONJIEC-es'
 tags: [  ]

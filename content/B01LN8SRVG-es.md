@@ -5,7 +5,7 @@ date: 2020-07-01 10:47:46
 image: 'https://m.media-amazon.com/images/I/41XDBa+7RxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LN8SRVG-es Britax Römer Silla de coche 9 meses - 12 años 9 - 36 kg...'
 sku: 'B01LN8SRVG-es'
 tags: [  ]

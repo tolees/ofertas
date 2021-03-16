@@ -5,7 +5,7 @@ date: 2020-07-09 19:27:03
 image: 'https://m.media-amazon.com/images/I/41mThCP9BvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVCFN98-es Zephyrr - Pendientes de gota para mujer diseño moderno de...'
 sku: 'B07GVCFN98-es'
 tags: [  ]

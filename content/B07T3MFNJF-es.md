@@ -5,7 +5,7 @@ date: 2020-05-31 10:03:37
 image: 'https://m.media-amazon.com/images/I/31KzLr7QH8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3MFNJF-es Nike Benassi Sandalia de Diapositivas para Hombre Hierro...'
 sku: 'B07T3MFNJF-es'
 tags: [  ]

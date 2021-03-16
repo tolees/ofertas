@@ -5,7 +5,7 @@ date: 2020-02-06 11:47:13
 image: 'https://m.media-amazon.com/images/I/41tCV9QTdsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8PDZRG-es Magic Studio Matte Vs Metallic Lip Colors Talla Única Pack...'
 sku: 'B07Y8PDZRG-es'
 tags: [  ]

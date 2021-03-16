@@ -5,7 +5,7 @@ date: 2020-05-28 18:23:30
 image: 'https://m.media-amazon.com/images/I/31+tf8wFZAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F4GCSKF-es Maybelline New York - Superstay Matte Ink City Edition...'
 sku: 'B07F4GCSKF-es'
 tags: [  ]

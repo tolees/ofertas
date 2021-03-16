@@ -5,7 +5,7 @@ date: 2020-05-16 10:32:14
 image: 'https://m.media-amazon.com/images/I/411yMxdVOZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHL8RP9-es PUMA ACM Away Shirt Replica SS with Sponsor Logo Maillot...'
 sku: 'B07QHL8RP9-es'
 tags: [  ]

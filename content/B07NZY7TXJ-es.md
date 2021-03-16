@@ -5,7 +5,7 @@ date: 2020-02-06 06:38:01
 image: 'https://m.media-amazon.com/images/I/41AyU-eX1xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZY7TXJ-es Skechers Men s Elite Flex-BELBURN Trainers Blue Navy...'
 sku: 'B07NZY7TXJ-es'
 tags: [  ]

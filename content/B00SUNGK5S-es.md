@@ -5,7 +5,7 @@ date: 2020-02-21 18:03:04
 image: 'https://m.media-amazon.com/images/I/41-154ML7GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SUNGK5S-es Shunga Aceite Orgánico Sweet Almond Color Amarillo...'
 sku: 'B00SUNGK5S-es'
 tags: [  ]

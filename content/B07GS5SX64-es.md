@@ -5,7 +5,7 @@ date: 2020-09-13 00:52:24
 image: 'https://m.media-amazon.com/images/I/41yghCM283L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GS5SX64-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07GS5SX64-es'
 tags: [  ]

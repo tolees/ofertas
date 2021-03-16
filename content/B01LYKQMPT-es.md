@@ -5,7 +5,7 @@ date: 2020-07-23 09:41:11
 image: 'https://m.media-amazon.com/images/I/41GbVnASn7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYKQMPT-es HERMA 7188 Surtido cartón diseño carpeta estrellas DIN A4...'
 sku: 'B01LYKQMPT-es'
 tags: [  ]

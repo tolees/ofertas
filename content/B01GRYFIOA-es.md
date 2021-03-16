@@ -5,7 +5,7 @@ date: 2020-02-08 07:01:58
 image: 'https://m.media-amazon.com/images/I/41ukQuYgslL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GRYFIOA-es LEICKE ULL Fuente de alimentación Universal Clavija DE 5 5...'
 sku: 'B01GRYFIOA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-04 21:44:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ML1ZbqtLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XTPHKLG-es Pepe Jeans Original Basic L/S PM503803 Top de manga larga...'
 sku: 'B06XTPHKLG-es'
 tags: [  ]

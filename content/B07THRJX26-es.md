@@ -5,7 +5,7 @@ date: 2020-04-14 16:46:28
 image: 'https://m.media-amazon.com/images/I/41AgE4H3JML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THRJX26-es Relojes Infantiles para niños Reloj Deportivo Digital al...'
 sku: 'B07THRJX26-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-01 15:02:31
 image: 'https://m.media-amazon.com/images/I/4122Ar3sfKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FF6KX4J-es DESCHE para Funda Xiaomi Redmi Note 5 Hard PC Soft TPU 2...'
 sku: 'B07FF6KX4J-es'
 tags: [  ]

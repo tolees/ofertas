@@ -5,7 +5,7 @@ date: 2020-02-07 16:20:08
 image: 'https://m.media-amazon.com/images/I/41Hq+bxWUfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2TLGMF-es JBL Flip 4 - Altavoz inalámbrico portátil con Bluetooth...'
 sku: 'B01N2TLGMF-es'
 tags: [  ]

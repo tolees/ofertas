@@ -5,7 +5,7 @@ date: 2020-05-30 08:07:24
 image: 'https://m.media-amazon.com/images/I/31bI4AUXnZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JP19R4V-es Barra Lateral de Seguridad de la Cama Plegable Guardia...'
 sku: 'B07JP19R4V-es'
 tags: [  ]

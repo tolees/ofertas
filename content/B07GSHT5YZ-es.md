@@ -5,7 +5,7 @@ date: 2020-01-15 18:32:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kuk4HU2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSHT5YZ-es HERZO Taladro/Atornillador Configuración de 2 velocidades...'
 sku: 'B07GSHT5YZ-es'
 tags: [  ]

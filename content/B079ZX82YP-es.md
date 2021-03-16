@@ -5,7 +5,7 @@ date: 2020-04-14 04:29:25
 image: 'https://m.media-amazon.com/images/I/41hRC8XPdML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZX82YP-es VAIRO Polo Masculino Columns Blanco XL'
 sku: 'B079ZX82YP-es'
 tags: [  ]

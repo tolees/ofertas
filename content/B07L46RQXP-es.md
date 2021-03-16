@@ -5,7 +5,7 @@ date: 2020-08-04 14:42:59
 image: 'https://m.media-amazon.com/images/I/410V+g9p2vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L46RQXP-es Adidas Terrex Skychaser Lt GTX W Zapatillas de Deporte...'
 sku: 'B07L46RQXP-es'
 tags: [  ]

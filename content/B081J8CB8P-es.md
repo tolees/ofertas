@@ -5,7 +5,7 @@ date: 2020-09-01 20:20:15
 image: 'https://m.media-amazon.com/images/I/41lEBEfN4aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081J8CB8P-es Delantales de Cocina 2 Piezas con Bolsillo Delantal...'
 sku: 'B081J8CB8P-es'
 tags: [  ]

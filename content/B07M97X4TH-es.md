@@ -5,7 +5,7 @@ date: 2020-04-05 11:05:31
 image: 'https://m.media-amazon.com/images/I/41uJ7uzG6qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M97X4TH-es Braun BT3041 - Recortadora de barba y cortapelos eléctrico...'
 sku: 'B07M97X4TH-es'
 tags: [  ]

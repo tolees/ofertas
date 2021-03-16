@@ -5,7 +5,7 @@ date: 2020-10-02 18:16:38
 image: 'https://m.media-amazon.com/images/I/31IJYbKjgXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008ABNZI0-es StarTech.com USB110EXT2 - Extensor de 1 Puerto USB por...'
 sku: 'B008ABNZI0-es'
 tags: [  ]

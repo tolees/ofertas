@@ -5,7 +5,7 @@ date: 2020-08-22 11:41:24
 image: 'https://m.media-amazon.com/images/I/51MDeXKvJTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9WF2HF-es Kit de accesorios para XIAOMI MI Robot piezas de repuesto...'
 sku: 'B07H9WF2HF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-25 17:41:33
 image: 'https://m.media-amazon.com/images/I/41gV1GQ86IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JG5V0E4-es Gianni Versace Versace Dylan Azul por Gianni Versace'
 sku: 'B01JG5V0E4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 20:22:19
 image: 'https://m.media-amazon.com/images/I/41pTbuHN+sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXTHDY4-es Adidas Nemeziz Tango 18.4 In Zapatillas de fútbol Sala...'
 sku: 'B07FXTHDY4-es'
 tags: [  ]

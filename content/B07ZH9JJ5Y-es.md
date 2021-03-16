@@ -5,7 +5,7 @@ date: 2020-09-19 10:48:14
 image: 'https://m.media-amazon.com/images/I/51SCXZ8tCFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZH9JJ5Y-es FBLWT Smartwatches Reloj Inteligente para Mujer Kw10 Color...'
 sku: 'B07ZH9JJ5Y-es'
 tags: [  ]

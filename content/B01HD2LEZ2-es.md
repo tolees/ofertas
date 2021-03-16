@@ -5,7 +5,7 @@ date: 2020-08-15 18:42:04
 image: 'https://m.media-amazon.com/images/I/41a1RCV8EQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HD2LEZ2-es MiniSun - Lámpara de Pie LED Moderna – Burbujas y Peces de...'
 sku: 'B01HD2LEZ2-es'
 tags: [  ]

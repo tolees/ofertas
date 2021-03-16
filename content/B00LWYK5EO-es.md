@@ -5,7 +5,7 @@ date: 2020-09-14 09:05:00
 image: 'https://m.media-amazon.com/images/I/31UZzK-WC9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LWYK5EO-es Maybelline New York - The Colossal Go Extreme Volum...'
 sku: 'B00LWYK5EO-es'
 tags: [  ]

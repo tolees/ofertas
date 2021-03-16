@@ -5,7 +5,7 @@ date: 2020-06-23 11:33:31
 image: 'https://m.media-amazon.com/images/I/41xYdQ17TkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084JS1SJX-es REFRESH - Sandalia Plana BIOS Casual - Color Camel - Talla 39'
 sku: 'B084JS1SJX-es'
 tags: [  ]

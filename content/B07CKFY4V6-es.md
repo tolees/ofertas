@@ -5,7 +5,7 @@ date: 2020-09-30 11:16:21
 image: 'https://m.media-amazon.com/images/I/413x-ibJPrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKFY4V6-es Funko- Pop Bobble: Marvel: Ant-Man & The Wasp w/Chase Man...'
 sku: 'B07CKFY4V6-es'
 tags: [  ]

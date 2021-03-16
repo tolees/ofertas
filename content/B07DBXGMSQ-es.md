@@ -5,7 +5,7 @@ date: 2020-05-19 13:04:15
 image: 'https://m.media-amazon.com/images/I/41wWhls84+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBXGMSQ-es Escurridor para secado de biberones Lawn Tendedero para...'
 sku: 'B07DBXGMSQ-es'
 tags: [  ]

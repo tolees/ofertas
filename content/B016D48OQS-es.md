@@ -5,7 +5,7 @@ date: 2020-06-12 01:22:58
 image: 'https://m.media-amazon.com/images/I/41Aw8TqkajL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016D48OQS-es PUMA ESS Cap Gorra Unisex Adulto Azul Talla única'
 sku: 'B016D48OQS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 09:25:12
 image: 'https://m.media-amazon.com/images/I/41w6Gr7CEOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK2R55T-es Saucony Xodus ISO 3 Hombre Verde Amarillo 42.5 EU'
 sku: 'B07KK2R55T-es'
 tags: [  ]

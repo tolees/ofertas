@@ -5,7 +5,7 @@ date: 2020-05-17 09:38:15
 image: 'https://m.media-amazon.com/images/I/31MGJtK-2UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P18NWZM-es FITTOO Mallas Pantalones Deportivos Mujer Elásticos...'
 sku: 'B07P18NWZM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-10 19:20:50
 image: 'https://m.media-amazon.com/images/I/31L3FfBX8dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081HFLBNN-es Ibergrif M22115W-2 - Grifo Mezclador de Cocina Profesional...'
 sku: 'B081HFLBNN-es'
 tags: [  ]

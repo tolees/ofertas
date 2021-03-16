@@ -5,7 +5,7 @@ date: 2020-07-15 10:53:32
 image: 'https://m.media-amazon.com/images/I/31malq+GaEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9MS3Q3-es perfk 1 pc Protector de Cables de Carga Animal Ardilla...'
 sku: 'B07H9MS3Q3-es'
 tags: [  ]

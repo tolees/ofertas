@@ -5,7 +5,7 @@ date: 2020-09-08 14:04:55
 image: 'https://m.media-amazon.com/images/I/4105nwK9KvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075TN6LNS-es URCERI Medidor de Luz Luxómetro Portátil Medidor de...'
 sku: 'B075TN6LNS-es'
 tags: [  ]

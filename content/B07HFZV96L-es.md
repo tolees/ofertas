@@ -5,7 +5,7 @@ date: 2020-06-25 06:21:09
 image: 'https://m.media-amazon.com/images/I/41yKuTLrz4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFZV96L-es New Balance Solvi h Zapatillas de Running para Hombre Azul...'
 sku: 'B07HFZV96L-es'
 tags: [  ]

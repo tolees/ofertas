@@ -5,7 +5,7 @@ date: 2020-02-15 13:31:24
 image: 'https://m.media-amazon.com/images/I/5153vuk8+DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C45ZWOM-es DIM Sublim Dentelle Sujetador Negro Black 90B para Mujer'
 sku: 'B01C45ZWOM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 15:24:32
 image: 'https://m.media-amazon.com/images/I/510dOiFxKQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4HZ1XR-es Tommy Hilfiger Buoy Print Regular Polo Azul Large Talla...'
 sku: 'B07W4HZ1XR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 21:17:52
 image: 'https://m.media-amazon.com/images/I/31aE9YArOQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJDS9SG-es Revlon Super Lustrous Pintalabios Mate Audacious Mauve'
 sku: 'B07DJDS9SG-es'
 tags: [  ]

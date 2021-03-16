@@ -5,7 +5,7 @@ date: 2020-04-26 22:16:41
 image: 'https://m.media-amazon.com/images/I/411l03ZKgEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TRMT51K-es Levi s Graphic Sport Capucha Gris Hoodie T3 90 s Serif...'
 sku: 'B07TRMT51K-es'
 tags: [  ]

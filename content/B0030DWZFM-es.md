@@ -5,7 +5,7 @@ date: 2020-04-16 09:16:41
 image: 'https://m.media-amazon.com/images/I/31++UxYXMKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0030DWZFM-es Rubies Buzz Lightyear Toy Story Classic Costume - Child s...'
 sku: 'B0030DWZFM-es'
 tags: [  ]

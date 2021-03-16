@@ -5,7 +5,7 @@ date: 2020-09-01 15:02:11
 image: 'https://m.media-amazon.com/images/I/412igo9ru5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086LJTJ2V-es Mascarilla facial OptiPro para partículas KN95 / FFP2...'
 sku: 'B086LJTJ2V-es'
 tags: [  ]

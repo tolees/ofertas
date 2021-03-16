@@ -5,7 +5,7 @@ date: 2020-02-26 01:25:18
 image: 'https://m.media-amazon.com/images/I/210IbC32aML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZJXGF8-es Avène Aceite corporal - 250 ml.'
 sku: 'B077ZJXGF8-es'
 tags: [  ]

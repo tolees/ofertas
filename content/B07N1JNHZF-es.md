@@ -5,7 +5,7 @@ date: 2020-04-30 18:18:55
 image: 'https://m.media-amazon.com/images/I/31qlb2KzFrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JNHZF-es Clarks Sheer Flora Botas Chelsea para Mujer Azul Navy Navy...'
 sku: 'B07N1JNHZF-es'
 tags: [  ]

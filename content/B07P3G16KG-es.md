@@ -5,7 +5,7 @@ date: 2020-03-22 12:13:07
 image: 'https://m.media-amazon.com/images/I/416sJKLrb+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3G16KG-es Superdry Orange Label Classic Jogger Pantalones de Deporte...'
 sku: 'B07P3G16KG-es'
 tags: [  ]

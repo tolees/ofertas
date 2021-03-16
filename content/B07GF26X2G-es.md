@@ -5,7 +5,7 @@ date: 2020-03-07 09:55:46
 image: 'https://m.media-amazon.com/images/I/412mMZZ8pYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GF26X2G-es YaYuu Garmin Fenix 3/Fenix 5 x Reloj Banda Suave Silicona...'
 sku: 'B07GF26X2G-es'
 tags: [  ]

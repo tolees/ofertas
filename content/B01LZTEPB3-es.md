@@ -5,7 +5,7 @@ date: 2020-05-25 16:53:41
 image: 'https://m.media-amazon.com/images/I/41BeCZ7sLgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZTEPB3-es Garnier Original Remedies Champú Arcilla y Limón -25 cl'
 sku: 'B01LZTEPB3-es'
 tags: [  ]

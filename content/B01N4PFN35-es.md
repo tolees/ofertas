@@ -5,7 +5,7 @@ date: 2020-05-07 18:33:45
 image: 'https://m.media-amazon.com/images/I/31tEl3ZZ5UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4PFN35-es PUMA Cross The Line Pantalones Mujer Negro M'
 sku: 'B01N4PFN35-es'
 tags: [  ]

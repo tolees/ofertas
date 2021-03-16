@@ -5,7 +5,7 @@ date: 2020-03-29 12:06:46
 image: 'https://m.media-amazon.com/images/I/41n5D3lCbzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VVG1L6-es Alfapac – Papel de cocina 18 m 1 unidad'
 sku: 'B082VVG1L6-es'
 tags: [  ]

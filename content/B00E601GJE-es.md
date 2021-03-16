@@ -5,7 +5,7 @@ date: 2020-02-22 00:21:39
 image: 'https://m.media-amazon.com/images/I/51oMIvFoCiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E601GJE-es Oral - B pro - expert premium hilo dental - 40 m'
 sku: 'B00E601GJE-es'
 tags: [  ]

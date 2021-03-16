@@ -5,7 +5,7 @@ date: 2020-03-29 03:59:14
 image: 'https://m.media-amazon.com/images/I/31lO2gZn+SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XKXBWM-es Under Armour UA TAC Patrol Pant II Pantalones Hombre Negro...'
 sku: 'B077XKXBWM-es'
 tags: [  ]

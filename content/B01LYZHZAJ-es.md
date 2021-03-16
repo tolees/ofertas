@@ -5,7 +5,7 @@ date: 2020-06-22 11:49:01
 image: 'https://m.media-amazon.com/images/I/51dK1V-izuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYZHZAJ-es Handy Bag Bolsas de Basura 50L Extra Resistentes No Gotean...'
 sku: 'B01LYZHZAJ-es'
 tags: [  ]

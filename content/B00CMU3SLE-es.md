@@ -5,7 +5,7 @@ date: 2020-07-16 22:29:05
 image: 'https://m.media-amazon.com/images/I/31KxiXfWeBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CMU3SLE-es Revlon Super Lustrous Brillo de Labial Pink Pop'
 sku: 'B00CMU3SLE-es'
 tags: [  ]

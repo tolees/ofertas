@@ -5,7 +5,7 @@ date: 2020-05-02 14:31:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31GSTqw9MDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072LNQ8CN-es Under Armour Challenger II Knit Warm-Up Chándal Hombre...'
 sku: 'B072LNQ8CN-es'
 tags: [  ]

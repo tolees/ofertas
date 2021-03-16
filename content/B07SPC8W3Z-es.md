@@ -5,7 +5,7 @@ date: 2020-09-29 14:57:59
 image: 'https://m.media-amazon.com/images/I/31GVjHbQarL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPC8W3Z-es adidas Advantage C Zapatillas de Tenis Unisex niños...'
 sku: 'B07SPC8W3Z-es'
 tags: [  ]

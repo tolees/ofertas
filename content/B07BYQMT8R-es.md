@@ -5,7 +5,7 @@ date: 2020-05-28 19:12:48
 image: 'https://m.media-amazon.com/images/I/41o9fBK5WSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BYQMT8R-es Bella Aurora B7 Crema Facial Anti-manchas Cara |...'
 sku: 'B07BYQMT8R-es'
 tags: [  ]

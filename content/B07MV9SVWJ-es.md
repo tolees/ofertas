@@ -5,7 +5,7 @@ date: 2020-03-03 12:07:40
 image: 'https://m.media-amazon.com/images/I/41yJmKyjuCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV9SVWJ-es Kipling Cindy Cartera para Mujer Azul Aqua Frost 11.5x8x1...'
 sku: 'B07MV9SVWJ-es'
 tags: [  ]

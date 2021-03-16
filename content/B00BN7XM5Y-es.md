@@ -5,7 +5,7 @@ date: 2020-03-27 10:22:09
 image: 'https://m.media-amazon.com/images/I/31z9wBj89FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN7XM5Y-es Ureadin Lotion 10 - 1000ml'
 sku: 'B00BN7XM5Y-es'
 tags: [  ]

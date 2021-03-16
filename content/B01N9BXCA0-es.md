@@ -5,7 +5,7 @@ date: 2020-01-21 01:40:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fYEYrDxdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9BXCA0-es Dermacol - Barra de Labios Pretty Matte No. 05-1 unidad'
 sku: 'B01N9BXCA0-es'
 tags: [  ]

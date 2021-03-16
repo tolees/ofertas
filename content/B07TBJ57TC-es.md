@@ -5,7 +5,7 @@ date: 2020-04-18 16:08:44
 image: 'https://m.media-amazon.com/images/I/412gDQle9uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBJ57TC-es Adidas Hoops 2.0 CMF C Zapatillas de Baloncesto Unisex...'
 sku: 'B07TBJ57TC-es'
 tags: [  ]

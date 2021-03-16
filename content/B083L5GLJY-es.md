@@ -5,7 +5,7 @@ date: 2020-06-10 14:48:15
 image: 'https://m.media-amazon.com/images/I/41CHBHAnHRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083L5GLJY-es Funda De Silicona Masculino Extendido Juguetes ḔxtêṈṧióṈ...'
 sku: 'B083L5GLJY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-03 08:46:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vs-%2BZspaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001L98SNK-es Babaria Rosa Mosqueta - Aceite puro facial 50 ml'
 sku: 'B001L98SNK-es'
 tags: [  ]

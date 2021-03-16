@@ -5,7 +5,7 @@ date: 2020-01-10 14:13:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413T3VlJNaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LX0ZVXW-es Clatronic TA 3565 Tostadora de Pan Pequeña con 2 Ranuras 3...'
 sku: 'B00LX0ZVXW-es'
 tags: [  ]

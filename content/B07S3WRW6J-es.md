@@ -5,7 +5,7 @@ date: 2020-06-25 00:27:08
 image: 'https://m.media-amazon.com/images/I/41LXxLGydUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3WRW6J-es New Balance 997H m Zapatillas para Mujer Negro Black/Red...'
 sku: 'B07S3WRW6J-es'
 tags: [  ]

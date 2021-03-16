@@ -5,7 +5,7 @@ date: 2020-06-09 12:01:55
 image: 'https://m.media-amazon.com/images/I/31mH7-mdldL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TMRWS8-es AnamSafdarButt59 Estante de Secado portátil Desmontable...'
 sku: 'B088TMRWS8-es'
 tags: [  ]

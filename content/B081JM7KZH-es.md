@@ -5,7 +5,7 @@ date: 2020-07-27 11:32:23
 image: 'https://m.media-amazon.com/images/I/51Z6KcZKyoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081JM7KZH-es DIGITNOW! 16MP Cámaras de Caza 1080P FHD Impermeable Gran...'
 sku: 'B081JM7KZH-es'
 tags: [  ]

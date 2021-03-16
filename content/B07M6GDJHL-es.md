@@ -5,7 +5,7 @@ date: 2020-07-16 23:07:37
 image: 'https://m.media-amazon.com/images/I/31Jwm4FncvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6GDJHL-es Rimmel London Provocalips Barra de labioss Tono 780 Shore...'
 sku: 'B07M6GDJHL-es'
 tags: [  ]

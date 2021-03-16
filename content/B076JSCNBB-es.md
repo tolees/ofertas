@@ -5,7 +5,7 @@ date: 2020-01-20 12:46:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317yv7gMdDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JSCNBB-es Varlion Hexagon Azul - Paletero de pádel Unisex Adulto...'
 sku: 'B076JSCNBB-es'
 tags: [  ]

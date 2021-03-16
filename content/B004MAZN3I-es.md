@@ -5,7 +5,7 @@ date: 2020-03-20 06:08:35
 image: 'https://m.media-amazon.com/images/I/51gG0lvUx9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004MAZN3I-es Seiko Reloj con Correa de Acero para Hombre SNKK27K1'
 sku: 'B004MAZN3I-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 15:30:26
 image: 'https://m.media-amazon.com/images/I/41la3KnVx0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDR1Y9-es Accurist Reloj de Pulsera 7101.01'
 sku: 'B077YDR1Y9-es'
 tags: [  ]

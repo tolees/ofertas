@@ -5,7 +5,7 @@ date: 2020-07-28 23:48:02
 image: 'https://m.media-amazon.com/images/I/41FJhDpr64L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2SKGSZ-es Funda para iPhone X/XS ZHIKE Diseño de una Sola Pieza...'
 sku: 'B07H2SKGSZ-es'
 tags: [  ]

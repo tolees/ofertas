@@ -5,7 +5,7 @@ date: 2020-01-12 23:08:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eIA0OOBhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQPKGH6-es Kerastase 57977 Blond Bain Lumiere 250 ml'
 sku: 'B07KQPKGH6-es'
 tags: [  ]

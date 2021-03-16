@@ -5,7 +5,7 @@ date: 2020-09-02 11:35:48
 image: 'https://m.media-amazon.com/images/I/41ut2lNJdiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0799CLK4T-es Altavoces de Coche Kenwood KFC-S1366 13cm 2 vías 30W RMS 260W'
 sku: 'B0799CLK4T-es'
 tags: [  ]

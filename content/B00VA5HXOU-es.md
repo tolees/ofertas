@@ -5,7 +5,7 @@ date: 2020-01-06 20:58:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41g9DndUFKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VA5HXOU-es LE CREUSET Cocotte Evolution con Tapa Ø 31 cm Ovalada...'
 sku: 'B00VA5HXOU-es'
 tags: [  ]

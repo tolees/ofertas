@@ -5,7 +5,7 @@ date: 2020-01-02 08:53:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LLCBixS5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I4H0AF0-es Urban Classics Hibi Mid Shoe Zapatillas para Hombre Braun...'
 sku: 'B01I4H0AF0-es'
 tags: [  ]

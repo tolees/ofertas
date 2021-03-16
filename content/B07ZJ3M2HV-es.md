@@ -5,7 +5,7 @@ date: 2020-02-01 20:32:06
 image: 'https://m.media-amazon.com/images/I/41aXZSP2CYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJ3M2HV-es NETVIP WiFi USB Adaptador 1200Mpbs Receptor WiFi...'
 sku: 'B07ZJ3M2HV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 13:56:57
 image: 'https://m.media-amazon.com/images/I/31uSJHQYSkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AQDPFR4-es L Oréal Paris Infalible 24h pintalabios permanente rosa...'
 sku: 'B00AQDPFR4-es'
 tags: [  ]

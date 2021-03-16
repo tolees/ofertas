@@ -5,7 +5,7 @@ date: 2020-09-13 18:12:13
 image: 'https://m.media-amazon.com/images/I/51A3zxy5nWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J53ZLXK-es Triumph Amourette Charm W Sujetador con Aros Multicolor...'
 sku: 'B07J53ZLXK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-17 12:00:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BJ17RQdlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2T4XLJ-es EMOCCI Aspiradora de Mano Sin Cable 5500PA 100W 8.4V...'
 sku: 'B07L2T4XLJ-es'
 tags: [  ]

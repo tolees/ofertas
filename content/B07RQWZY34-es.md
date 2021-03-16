@@ -5,7 +5,7 @@ date: 2020-08-21 14:17:23
 image: 'https://m.media-amazon.com/images/I/41zbKNvVQCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQWZY34-es MonQi 24 Bolsillos Expandible Clasificadores Carpetas de...'
 sku: 'B07RQWZY34-es'
 tags: [  ]

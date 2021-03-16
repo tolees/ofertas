@@ -5,7 +5,7 @@ date: 2020-09-28 09:35:36
 image: 'https://m.media-amazon.com/images/I/41i+5USYgQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797MYW7T-es Funko Pop!- 889698299138 Atomic Blonde Figura de vinilo...'
 sku: 'B0797MYW7T-es'
 tags: [  ]

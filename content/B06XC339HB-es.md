@@ -5,7 +5,7 @@ date: 2020-04-05 12:55:44
 image: 'https://m.media-amazon.com/images/I/510eswwdDkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XC339HB-es Nikon D5600 - [Versión Nikonistas] - Kit cámara réflex de...'
 sku: 'B06XC339HB-es'
 tags: [  ]

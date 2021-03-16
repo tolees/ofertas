@@ -5,7 +5,7 @@ date: 2020-03-29 17:35:45
 image: 'https://m.media-amazon.com/images/I/41-HazCFIWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TLJLZQ-es Funda iPhone 11 Pro 5.8" Silicona Anti-Golpes Detalles...'
 sku: 'B085TLJLZQ-es'
 tags: [  ]

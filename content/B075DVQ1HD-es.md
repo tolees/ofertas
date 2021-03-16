@@ -5,7 +5,7 @@ date: 2020-03-26 19:36:26
 image: 'https://m.media-amazon.com/images/I/51HBhDWBYiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DVQ1HD-es Tucano Guscio - Funda tipo libro con tapa extraíble...'
 sku: 'B075DVQ1HD-es'
 tags: [  ]

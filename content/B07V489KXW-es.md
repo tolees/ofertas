@@ -5,7 +5,7 @@ date: 2020-05-08 10:07:59
 image: 'https://m.media-amazon.com/images/I/310C7cx37HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V489KXW-es FCB FC Barcelona Equipaje Niños Unisex Azul Marino 21x8x6'
 sku: 'B07V489KXW-es'
 tags: [  ]

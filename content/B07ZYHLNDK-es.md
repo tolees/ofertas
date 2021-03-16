@@ -5,7 +5,7 @@ date: 2020-02-29 09:48:53
 image: 'https://m.media-amazon.com/images/I/41-6LzBoPZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZYHLNDK-es Linterna Frontal LED Recargable de Trabajo 6000 Lúmenes...'
 sku: 'B07ZYHLNDK-es'
 tags: [  ]

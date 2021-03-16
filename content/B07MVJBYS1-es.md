@@ -5,7 +5,7 @@ date: 2020-01-06 21:21:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418XvjPoXgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJBYS1-es Kipling - Imagine Pack Bolsos totes Mujer Morado Dark Plum...'
 sku: 'B07MVJBYS1-es'
 tags: [  ]

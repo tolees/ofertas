@@ -5,7 +5,7 @@ date: 2020-01-11 19:24:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513hP%2BRWc-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075CGLK1Q-es Essort Funda Mesa Jardin 213x123x74cm Fundas para Muebles...'
 sku: 'B075CGLK1Q-es'
 tags: [  ]

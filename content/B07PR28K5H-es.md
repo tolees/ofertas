@@ -5,7 +5,7 @@ date: 2020-08-05 11:27:43
 image: 'https://m.media-amazon.com/images/I/31VkFtnXXhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PR28K5H-es Under Armour Tech Corto Hombre Gris 30'
 sku: 'B07PR28K5H-es'
 tags: [  ]

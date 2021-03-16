@@ -5,7 +5,7 @@ date: 2020-07-15 12:13:49
 image: 'https://m.media-amazon.com/images/I/41cITyYBsTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NF1CZ7-es VEENAX HS3 Auriculares Inalámbricos Over-Ear Altavoz...'
 sku: 'B075NF1CZ7-es'
 tags: [  ]

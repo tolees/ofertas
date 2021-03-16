@@ -5,7 +5,7 @@ date: 2020-03-19 17:46:32
 image: 'https://m.media-amazon.com/images/I/31L8J1DaVgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MCQQ5VV-es mengjay 1er Pack 6 W E27 filamento LED Lámpara Bombilla de...'
 sku: 'B01MCQQ5VV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-17 18:07:32
 image: 'https://m.media-amazon.com/images/I/41pEzU1V0FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJKDJ3P-es ngzhongtu Smart Band Watch Bracelet Fitness Tracker...'
 sku: 'B07ZJKDJ3P-es'
 tags: [  ]

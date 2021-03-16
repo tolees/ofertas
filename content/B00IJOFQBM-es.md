@@ -5,7 +5,7 @@ date: 2020-04-06 17:08:32
 image: 'https://m.media-amazon.com/images/I/41IKyoXl+gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IJOFQBM-es Russell Hobbs Mix & Go - Batidora de Vaso Individual 300 W...'
 sku: 'B00IJOFQBM-es'
 tags: [  ]

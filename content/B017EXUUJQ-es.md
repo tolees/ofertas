@@ -5,7 +5,7 @@ date: 2020-02-05 17:13:57
 image: 'https://m.media-amazon.com/images/I/415F+tyZC7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017EXUUJQ-es STANLEY FATMAX FME190-QS - Mezclador de pintura 1.600W 80Nm'
 sku: 'B017EXUUJQ-es'
 tags: [  ]

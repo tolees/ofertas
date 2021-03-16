@@ -5,7 +5,7 @@ date: 2020-02-03 20:23:49
 image: 'https://m.media-amazon.com/images/I/41vSdDicS3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001MZV1V4-es Eukanuba Daily Care Adulto Piel sensible [2 3 Kg]'
 sku: 'B001MZV1V4-es'
 tags: [  ]

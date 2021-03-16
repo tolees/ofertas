@@ -5,7 +5,7 @@ date: 2020-08-22 09:57:56
 image: 'https://m.media-amazon.com/images/I/41-BrfZZm6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRG93QT-es Jata Hogar Mod. 773 Balanza de Cocina de Gran precisión...'
 sku: 'B01MRG93QT-es'
 tags: [  ]

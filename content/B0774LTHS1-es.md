@@ -5,7 +5,7 @@ date: 2020-04-09 08:19:40
 image: 'https://m.media-amazon.com/images/I/41CV+3JBuPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774LTHS1-es Herramienta de Espaciador de Cuero Puntada de Costura de...'
 sku: 'B0774LTHS1-es'
 tags: [  ]

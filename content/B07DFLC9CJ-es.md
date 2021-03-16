@@ -5,7 +5,7 @@ date: 2020-03-15 10:11:00
 image: 'https://m.media-amazon.com/images/I/5102qtFsXdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFLC9CJ-es Comficent Juego de Sábanas 3D Ropa de Cama Universo 2...'
 sku: 'B07DFLC9CJ-es'
 tags: [  ]

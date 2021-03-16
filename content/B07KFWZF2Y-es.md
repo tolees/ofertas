@@ -5,7 +5,7 @@ date: 2020-01-08 17:16:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JNvXkQROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFWZF2Y-es PUMA Aeon Heritage Wn s Zapatillas Deportivas para Mujer...'
 sku: 'B07KFWZF2Y-es'
 tags: [  ]

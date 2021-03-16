@@ -5,7 +5,7 @@ date: 2020-06-08 13:32:19
 image: 'https://m.media-amazon.com/images/I/31WCtfFozjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719BMPLY-es Lacoste L1312 Polo Blanco Blanc 6XL Talla del fabricante:...'
 sku: 'B0719BMPLY-es'
 tags: [  ]

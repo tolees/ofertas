@@ -5,7 +5,7 @@ date: 2020-09-05 08:35:03
 image: 'https://m.media-amazon.com/images/I/413p98hfumL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YCC7WY-es Pikmi Pops Serie 2 - Piruleta 2 Peluches Perfumados...'
 sku: 'B077YCC7WY-es'
 tags: [  ]

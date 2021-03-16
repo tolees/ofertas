@@ -5,7 +5,7 @@ date: 2020-04-30 11:02:56
 image: 'https://m.media-amazon.com/images/I/412FdQiEnlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SF28B7C-es PUMA St Activate Zapatillas Unisex Adulto Gris Castlerock...'
 sku: 'B07SF28B7C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-24 10:19:41
 image: 'https://m.media-amazon.com/images/I/41z5T-qUYaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019H2HLH6-es Wurko - Colador Manga Tipo Cono Plástico 12 cm'
 sku: 'B019H2HLH6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-05 16:39:01
 image: 'https://m.media-amazon.com/images/I/31KXDBj-UtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6LPG79-es Tommy Hilfiger Formal Belt 3.0 Cinturón Brown 0im 100...'
 sku: 'B07N6LPG79-es'
 tags: [  ]

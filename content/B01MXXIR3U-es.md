@@ -5,7 +5,7 @@ date: 2019-12-31 15:12:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bbcguz-lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXXIR3U-es Under Armour UA W Thrill 3 Zapatillas de Running para...'
 sku: 'B01MXXIR3U-es'
 tags: [  ]

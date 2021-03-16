@@ -5,7 +5,7 @@ date: 2020-05-13 18:06:58
 image: 'https://m.media-amazon.com/images/I/61oh-dcJmEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07571RHJZ-es Super Mario 3D'
 sku: 'B07571RHJZ-es'
 tags: [  ]

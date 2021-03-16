@@ -5,7 +5,7 @@ date: 2020-06-07 11:07:42
 image: 'https://m.media-amazon.com/images/I/31INpbD0-cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JCS7CY-es SAMSONITE Karissa Biz - Bailhandle 15.6" 2 Computer...'
 sku: 'B073JCS7CY-es'
 tags: [  ]

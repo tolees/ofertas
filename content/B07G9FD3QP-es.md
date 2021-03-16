@@ -5,7 +5,7 @@ date: 2019-12-31 16:57:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31vGayWsN3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9FD3QP-es Joma Academy Pantalon Termico Caballero Hombre Naranja L-XL'
 sku: 'B07G9FD3QP-es'
 tags: [  ]

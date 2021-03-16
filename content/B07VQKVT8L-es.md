@@ -5,7 +5,7 @@ date: 2020-10-09 08:38:43
 image: 'https://m.media-amazon.com/images/I/41IzlErmskL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQKVT8L-es HJ Dispensador de Jabón Automático de Acero Inoxidable...'
 sku: 'B07VQKVT8L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-30 09:30:02
 image: 'https://m.media-amazon.com/images/I/41xm5tXsyGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRZGFYB-es L Oreal Paris Dermo Expertise Revitalift Láser x3 Crema de...'
 sku: 'B01MRZGFYB-es'
 tags: [  ]

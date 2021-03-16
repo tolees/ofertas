@@ -5,7 +5,7 @@ date: 2020-06-24 11:47:34
 image: 'https://m.media-amazon.com/images/I/51oeaZ4hvCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XY7JSNQ-es DoGeek Bolsas de Malla de Lavandería Bolsas de Lavado para...'
 sku: 'B06XY7JSNQ-es'
 tags: [  ]

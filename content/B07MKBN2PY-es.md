@@ -5,7 +5,7 @@ date: 2020-04-11 18:35:32
 image: 'https://m.media-amazon.com/images/I/41z-huxBcoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKBN2PY-es UniqueMe Funda para Samsung Galaxy S10 Funda TPU Suave...'
 sku: 'B07MKBN2PY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-11 22:54:02
 image: 'https://m.media-amazon.com/images/I/51LlXlyFZDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FD5B9SX-es MVMT Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B07FD5B9SX-es'
 tags: [  ]

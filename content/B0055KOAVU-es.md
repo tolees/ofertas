@@ -5,7 +5,7 @@ date: 2020-07-19 22:57:17
 image: 'https://m.media-amazon.com/images/I/61p4mR+ONkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055KOAVU-es Silverado- Bd [Blu-ray]'
 sku: 'B0055KOAVU-es'
 tags: [  ]

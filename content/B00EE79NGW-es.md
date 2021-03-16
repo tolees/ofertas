@@ -5,7 +5,7 @@ date: 2020-06-18 21:25:43
 image: 'https://m.media-amazon.com/images/I/415n7eoIKoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EE79NGW-es Triumph Amourette Spotlight WHP Sujetador Blanco 100A...'
 sku: 'B00EE79NGW-es'
 tags: [  ]

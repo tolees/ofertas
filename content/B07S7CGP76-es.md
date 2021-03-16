@@ -5,7 +5,7 @@ date: 2020-07-10 05:34:16
 image: 'https://m.media-amazon.com/images/I/41Gro7rTcaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7CGP76-es Lee Rider Tonal Jeans Moto Worn 30W / 34L para Hombre'
 sku: 'B07S7CGP76-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 06:56:11
 image: 'https://m.media-amazon.com/images/I/31BzefNnNKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QW6S1T2-es Wrangler Larston Jeans Dark Rinse 29W / 34L para Hombre'
 sku: 'B07QW6S1T2-es'
 tags: [  ]

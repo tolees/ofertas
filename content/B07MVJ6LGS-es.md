@@ -5,7 +5,7 @@ date: 2020-01-24 16:05:58
 image: 'https://m.media-amazon.com/images/I/51HwQojJ9FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJ6LGS-es Kipling - Amiel Bolsos maletín Mujer Gris Chalk Grey...'
 sku: 'B07MVJ6LGS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-11 00:39:39
 image: 'https://m.media-amazon.com/images/I/41-7hDXADdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07478KCVV-es Miyare 2pcs Perchas Pinzas Faldas Antideslizantes de Acero...'
 sku: 'B07478KCVV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 13:54:31
 image: 'https://m.media-amazon.com/images/I/41xTOsWKF3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081K2T1XN-es HoneyHolly Botella de Agua de Acero Inoxidable sin bpa...'
 sku: 'B081K2T1XN-es'
 tags: [  ]

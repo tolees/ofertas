@@ -5,7 +5,7 @@ date: 2020-08-06 08:36:02
 image: 'https://m.media-amazon.com/images/I/41dzDp8ovPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OZQJX8-es Set pelotas playa'
 sku: 'B000OZQJX8-es'
 tags: [  ]

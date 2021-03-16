@@ -5,7 +5,7 @@ date: 2020-01-10 23:27:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ne9eRD2dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JM2VSR0-es HP LaserJet Pro M102w - Impresora láser USB 2.0 WiFi 22...'
 sku: 'B01JM2VSR0-es'
 tags: [  ]

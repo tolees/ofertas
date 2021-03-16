@@ -5,7 +5,7 @@ date: 2020-03-23 16:35:55
 image: 'https://m.media-amazon.com/images/I/41O2SO-lDdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085WRSNVQ-es NOBRAND Baumwolle Seil Korb Wäschekorb Baumwollseilkorb...'
 sku: 'B085WRSNVQ-es'
 tags: [  ]

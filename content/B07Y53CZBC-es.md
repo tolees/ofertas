@@ -5,7 +5,7 @@ date: 2020-09-10 13:30:00
 image: 'https://m.media-amazon.com/images/I/41rzmn8-ywL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y53CZBC-es Compatible con Huawei P30 Pro funda transparente de...'
 sku: 'B07Y53CZBC-es'
 tags: [  ]

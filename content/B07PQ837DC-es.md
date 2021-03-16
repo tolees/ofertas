@@ -5,7 +5,7 @@ date: 2020-03-03 12:09:03
 image: 'https://m.media-amazon.com/images/I/41P3WZBF2NL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQ837DC-es Kipling Cindy Cartera para Mujer Plateado Steel Grey...'
 sku: 'B07PQ837DC-es'
 tags: [  ]

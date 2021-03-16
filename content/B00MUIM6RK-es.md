@@ -5,7 +5,7 @@ date: 2020-01-23 06:08:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21tTM6CAUbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MUIM6RK-es D-Link DNR-312L - Dispositivo de Almacenamiento en Red Negro'
 sku: 'B00MUIM6RK-es'
 tags: [  ]

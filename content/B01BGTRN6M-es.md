@@ -5,7 +5,7 @@ date: 2020-01-30 20:08:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CDUZQExOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTRN6M-es G-STAR RAW Midge Saddle Mid Waist Bootcut Azul Dk Aged...'
 sku: 'B01BGTRN6M-es'
 tags: [  ]

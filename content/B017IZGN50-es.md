@@ -5,7 +5,7 @@ date: 2020-02-27 14:36:06
 image: 'https://m.media-amazon.com/images/I/41yI08bSreL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017IZGN50-es Elizabeth Arden Ceramide Time Complex Desmaquillante...'
 sku: 'B017IZGN50-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-19 22:57:36
 image: 'https://m.media-amazon.com/images/I/3145FaVbMnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KZ8JWGE-es 10 "12" 16 " Barra De Apoyo De Seguridad De Soporte De...'
 sku: 'B01KZ8JWGE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 20:55:38
 image: 'https://m.media-amazon.com/images/I/41zslhl2TAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU2ZI2L-es Signal Cepillo Dental Esencial - 2 Unidades'
 sku: 'B01MU2ZI2L-es'
 tags: [  ]

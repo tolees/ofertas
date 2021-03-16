@@ -5,7 +5,7 @@ date: 2020-06-24 12:52:16
 image: 'https://m.media-amazon.com/images/I/41i6of4Fa+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFJ95PV-es New Balance Trail Nitrel m Zapatillas de Running para...'
 sku: 'B07PFJ95PV-es'
 tags: [  ]

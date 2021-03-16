@@ -5,7 +5,7 @@ date: 2020-09-25 18:27:07
 image: 'https://m.media-amazon.com/images/I/418W9E6ctLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GD6QXCS-es E-concept Stormtrooper Edition.'
 sku: 'B01GD6QXCS-es'
 tags: [  ]

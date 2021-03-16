@@ -5,7 +5,7 @@ date: 2020-08-23 15:16:48
 image: 'https://m.media-amazon.com/images/I/41-Yej9tKsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NV8CH4-es Palladium Pallabrouse BGY Wax Botas Slouch Unisex Adulto...'
 sku: 'B075NV8CH4-es'
 tags: [  ]

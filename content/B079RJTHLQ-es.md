@@ -5,7 +5,7 @@ date: 2020-06-14 17:38:30
 image: 'https://m.media-amazon.com/images/I/41bxasxLIeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RJTHLQ-es Philips BT3226/14 Barbero Recortadora de Barba y Pelo...'
 sku: 'B079RJTHLQ-es'
 tags: [  ]

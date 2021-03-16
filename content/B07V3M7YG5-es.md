@@ -5,7 +5,7 @@ date: 2020-09-07 08:20:54
 image: 'https://m.media-amazon.com/images/I/41Evlnsjo5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3M7YG5-es Kipling Spontaneous S Equipaje de Mano 53 cm 37.5 litros...'
 sku: 'B07V3M7YG5-es'
 tags: [  ]

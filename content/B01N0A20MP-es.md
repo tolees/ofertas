@@ -5,7 +5,7 @@ date: 2020-03-07 07:48:35
 image: 'https://m.media-amazon.com/images/I/31N6qx6q+VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0A20MP-es Kyocera TK5240Y - Cartucho de tóner'
 sku: 'B01N0A20MP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 05:40:39
 image: 'https://m.media-amazon.com/images/I/41EWgllWOIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMHW986-es Panama Jack Bill C2 Botin para Hombre 46 Marron'
 sku: 'B07HMHW986-es'
 tags: [  ]

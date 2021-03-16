@@ -5,7 +5,7 @@ date: 2020-02-06 10:22:38
 image: 'https://m.media-amazon.com/images/I/312VG1N8ZUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC22DPC-es PUMA Smash v2 L Zapatillas Unisex Adulto Black-Gum 44 EU'
 sku: 'B07DC22DPC-es'
 tags: [  ]

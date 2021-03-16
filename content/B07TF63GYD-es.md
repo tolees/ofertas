@@ -5,7 +5,7 @@ date: 2020-08-20 17:50:12
 image: 'https://m.media-amazon.com/images/I/41sKR0JZB2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TF63GYD-es [Nueva versión 2020] Antena TV Interior- Bqeel Antena TV...'
 sku: 'B07TF63GYD-es'
 tags: [  ]

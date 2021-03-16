@@ -5,7 +5,7 @@ date: 2020-04-30 17:43:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41i7c0311LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ZIPKJE-es Helly Hansen Driftline Polo Hombre Negro XL'
 sku: 'B004ZIPKJE-es'
 tags: [  ]

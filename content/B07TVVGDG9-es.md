@@ -5,7 +5,7 @@ date: 2020-10-06 18:51:40
 image: 'https://m.media-amazon.com/images/I/31Tovvf6KSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVVGDG9-es Skechers Go Run Fast Steadfast Zapatillas sin Cordones...'
 sku: 'B07TVVGDG9-es'
 tags: [  ]

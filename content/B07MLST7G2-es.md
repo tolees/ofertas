@@ -5,7 +5,7 @@ date: 2020-02-17 12:07:05
 image: 'https://m.media-amazon.com/images/I/41iNXLhQTqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLST7G2-es Clarks BatcombeAlpGTX Botas de Motorista para Hombre...'
 sku: 'B07MLST7G2-es'
 tags: [  ]

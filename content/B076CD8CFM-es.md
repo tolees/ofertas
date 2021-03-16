@@ -5,7 +5,7 @@ date: 2020-07-29 14:05:05
 image: 'https://m.media-amazon.com/images/I/41tuK7JxDNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CD8CFM-es TACKLIFE Carrete para Manguera 30+2m PVC Manguera...'
 sku: 'B076CD8CFM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-20 19:02:49
 image: 'https://m.media-amazon.com/images/I/61IadHb39VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017Y0R3IU-es MaxHold Sistema de vacío - Toalleros de aro - Acero...'
 sku: 'B017Y0R3IU-es'
 tags: [  ]

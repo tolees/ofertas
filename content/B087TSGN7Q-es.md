@@ -5,7 +5,7 @@ date: 2020-06-03 16:58:16
 image: 'https://m.media-amazon.com/images/I/41Q4Up8LVnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087TSGN7Q-es Docooler Cámara Web USB A870 Cámara Web 480P Micrófono...'
 sku: 'B087TSGN7Q-es'
 tags: [  ]

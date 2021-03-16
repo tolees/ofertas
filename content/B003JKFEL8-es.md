@@ -5,7 +5,7 @@ date: 2020-09-09 14:31:45
 image: 'https://m.media-amazon.com/images/I/31n0z8WhJrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JKFEL8-es Moroccanoil Treatment For All Hair Types Tratamiento...'
 sku: 'B003JKFEL8-es'
 tags: [  ]

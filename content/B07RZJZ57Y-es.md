@@ -5,7 +5,7 @@ date: 2020-07-23 12:57:40
 image: 'https://m.media-amazon.com/images/I/41pA+h+PgaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZJZ57Y-es New Balance 373v2 Zapatillas para Hombre Gris Grey/White...'
 sku: 'B07RZJZ57Y-es'
 tags: [  ]

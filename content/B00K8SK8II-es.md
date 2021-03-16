@@ -5,7 +5,7 @@ date: 2020-07-28 08:02:41
 image: 'https://m.media-amazon.com/images/I/41d1zwMbz-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K8SK8II-es plata Yazilind elegante plateado alrojoedor Pear cortada...'
 sku: 'B00K8SK8II-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-01 04:40:29
 image: 'https://m.media-amazon.com/images/I/41LTOQ1rTaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZCFJE7I-es Juicy Couture I Am Juicy Couture Eau de Parfum 100 ml'
 sku: 'B00ZCFJE7I-es'
 tags: [  ]

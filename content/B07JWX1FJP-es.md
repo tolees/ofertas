@@ -5,7 +5,7 @@ date: 2020-04-03 12:59:28
 image: 'https://m.media-amazon.com/images/I/41xyJSaTGWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWX1FJP-es Columbia Ivo Trail Zapatillas para Hombre Azul Collegiate...'
 sku: 'B07JWX1FJP-es'
 tags: [  ]

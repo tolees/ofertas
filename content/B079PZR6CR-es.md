@@ -5,7 +5,7 @@ date: 2020-09-07 11:01:54
 image: 'https://m.media-amazon.com/images/I/51aW-proglL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079PZR6CR-es Funko Pop! - Marvel: Avengers Infinity War Figura de...'
 sku: 'B079PZR6CR-es'
 tags: [  ]

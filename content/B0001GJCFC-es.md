@@ -5,7 +5,7 @@ date: 2020-08-17 00:19:05
 image: 'https://m.media-amazon.com/images/I/41GN-lUyj3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0001GJCFC-es B+W Clear Haze SC 010 - Filtro UV de 95 mm'
 sku: 'B0001GJCFC-es'
 tags: [  ]

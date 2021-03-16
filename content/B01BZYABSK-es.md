@@ -5,7 +5,7 @@ date: 2020-08-20 18:39:15
 image: 'https://m.media-amazon.com/images/I/41BJy6NWN4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BZYABSK-es Reebok Classic Leather Zapatillas de Deporte para Hombre...'
 sku: 'B01BZYABSK-es'
 tags: [  ]

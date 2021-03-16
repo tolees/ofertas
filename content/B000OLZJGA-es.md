@@ -5,7 +5,7 @@ date: 2020-02-26 11:05:02
 image: 'https://m.media-amazon.com/images/I/41rgfLqNQ1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OLZJGA-es Trixie 5355 Noria con Pelotas Jaula y Cascabel 10 cm'
 sku: 'B000OLZJGA-es'
 tags: [  ]

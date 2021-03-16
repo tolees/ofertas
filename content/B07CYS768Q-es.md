@@ -5,7 +5,7 @@ date: 2020-03-14 09:44:58
 image: 'https://m.media-amazon.com/images/I/41Mf7iryKiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYS768Q-es KIPOZI Mini planchas del pelo de viaje plancha alisadora...'
 sku: 'B07CYS768Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-27 09:11:40
 image: 'https://m.media-amazon.com/images/I/41LrUCJXZ1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QMSSHWC-es Optimum Nutrition Gold Standard 100% Caseina Cookies &...'
 sku: 'B00QMSSHWC-es'
 tags: [  ]

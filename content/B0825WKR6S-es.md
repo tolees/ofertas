@@ -5,7 +5,7 @@ date: 2020-06-27 09:45:45
 image: 'https://m.media-amazon.com/images/I/515BTJ+EOvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825WKR6S-es Funda protectora para Moto E6 Plus E6 con anillo de metal...'
 sku: 'B0825WKR6S-es'
 tags: [  ]

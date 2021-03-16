@@ -5,7 +5,7 @@ date: 2020-09-29 10:34:44
 image: 'https://m.media-amazon.com/images/I/41xIEKSZq3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08J2S1HMS-es Bluelucon lenceria mujer 4 Cajas De Almacenamiento Cajas...'
 sku: 'B08J2S1HMS-es'
 tags: [  ]

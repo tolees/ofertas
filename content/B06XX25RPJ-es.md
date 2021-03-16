@@ -5,7 +5,7 @@ date: 2020-03-05 16:15:01
 image: 'https://m.media-amazon.com/images/I/31uCl7UEfsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XX25RPJ-es Ecran Aftersun Mousse Efecto Hielo - 200 ml'
 sku: 'B06XX25RPJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-22 13:41:05
 image: 'https://m.media-amazon.com/images/I/31ax-y6mJQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHQN2D6-es Lacoste Lerond 119 737cma0045042 Zapatillas para Hombre...'
 sku: 'B07DHQN2D6-es'
 tags: [  ]

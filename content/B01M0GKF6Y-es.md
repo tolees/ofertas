@@ -5,7 +5,7 @@ date: 2020-01-20 21:28:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dlv1Y3QsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0GKF6Y-es Manfrotto MB MA-SB-C1 - Funda Avanzada para cámara'
 sku: 'B01M0GKF6Y-es'
 tags: [  ]

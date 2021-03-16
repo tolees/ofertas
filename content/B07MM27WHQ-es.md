@@ -5,7 +5,7 @@ date: 2020-01-11 07:49:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311k6DCd29L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM27WHQ-es PIKOLINOS Sandalia Plana de Piel Alcudia 816'
 sku: 'B07MM27WHQ-es'
 tags: [  ]

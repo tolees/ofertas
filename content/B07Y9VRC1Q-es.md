@@ -5,7 +5,7 @@ date: 2020-10-02 15:13:06
 image: 'https://m.media-amazon.com/images/I/41Li+aPzLbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9VRC1Q-es edc by Esprit 129cc2i004 suéter Naranja Rust Orange 5 814...'
 sku: 'B07Y9VRC1Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-23 15:31:56
 image: 'https://m.media-amazon.com/images/I/51JJMXVBgjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JYUU5DS-es Sandisk SDSDXPK-128G-GN4IN Extreme Pro Tarjeta de Memoria...'
 sku: 'B01JYUU5DS-es'
 tags: [  ]

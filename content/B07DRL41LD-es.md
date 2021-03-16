@@ -5,7 +5,7 @@ date: 2020-04-04 12:05:35
 image: 'https://m.media-amazon.com/images/I/413Zwv-ZROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRL41LD-es Ricatech PR22 - Radio análoga vintage nostálgica canales...'
 sku: 'B07DRL41LD-es'
 tags: [  ]

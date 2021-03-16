@@ -5,7 +5,7 @@ date: 2020-09-30 18:31:23
 image: 'https://m.media-amazon.com/images/I/41bpyyKu6zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY17VHR-es B Blesiya Kit de Mantenimiento Piscinas Masaje Jet...'
 sku: 'B07PY17VHR-es'
 tags: [  ]

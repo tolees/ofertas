@@ -5,7 +5,7 @@ date: 2020-02-01 11:57:44
 image: 'https://m.media-amazon.com/images/I/31I2nkJhXGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9L9DKD-es Lacoste Sideline 319 1 Cfa Zapatillas para Mujer Blanco...'
 sku: 'B07L9L9DKD-es'
 tags: [  ]

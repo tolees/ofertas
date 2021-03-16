@@ -5,7 +5,7 @@ date: 2020-02-03 19:10:09
 image: 'https://m.media-amazon.com/images/I/51+TxXoTifL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000Z7SZFA-es Oki 43865708 - Cartucho de tóner color negro'
 sku: 'B000Z7SZFA-es'
 tags: [  ]

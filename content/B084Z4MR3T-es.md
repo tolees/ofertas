@@ -5,7 +5,7 @@ date: 2020-03-05 18:03:07
 image: 'https://m.media-amazon.com/images/I/41fjgYZJUhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084Z4MR3T-es XTI 49684 Deportivas XTI Hombre Deportivos Blanco 41'
 sku: 'B084Z4MR3T-es'
 tags: [  ]

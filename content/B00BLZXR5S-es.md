@@ -5,7 +5,7 @@ date: 2020-02-07 17:23:19
 image: 'https://m.media-amazon.com/images/I/51DKS3cvVDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BLZXR5S-es Einhell 4419169 Multiherramienta TH-MG 135 E con 189...'
 sku: 'B00BLZXR5S-es'
 tags: [  ]

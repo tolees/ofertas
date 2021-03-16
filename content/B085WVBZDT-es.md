@@ -5,7 +5,7 @@ date: 2020-04-16 00:02:22
 image: 'https://m.media-amazon.com/images/I/513T01kMNLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085WVBZDT-es Mazhar Natural Beige Cotton Rope Handmade Natural Cotton...'
 sku: 'B085WVBZDT-es'
 tags: [  ]

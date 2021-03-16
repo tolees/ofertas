@@ -5,7 +5,7 @@ date: 2020-03-08 22:25:51
 image: 'https://m.media-amazon.com/images/I/41fO8sPDAVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW6H1BG-es Skechers Outdoor Ultra Botas Altas para Mujer Marrón...'
 sku: 'B07NW6H1BG-es'
 tags: [  ]

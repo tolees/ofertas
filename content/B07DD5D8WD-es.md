@@ -5,7 +5,7 @@ date: 2020-03-04 23:46:08
 image: 'https://m.media-amazon.com/images/I/41oBb1+y-lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD5D8WD-es Nella The Knight - Disfraz de la Princesa Nella para niña...'
 sku: 'B07DD5D8WD-es'
 tags: [  ]

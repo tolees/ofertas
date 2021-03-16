@@ -5,7 +5,7 @@ date: 2020-01-22 17:49:32
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DMGHB7V-es FIFA 19 Edición Legacy'
 sku: 'B07DMGHB7V-es'
 tags: [  ]

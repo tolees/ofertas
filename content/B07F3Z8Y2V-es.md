@@ -5,7 +5,7 @@ date: 2020-02-29 20:57:20
 image: 'https://m.media-amazon.com/images/I/31U4XaibV-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3Z8Y2V-es Amzdeal Grifos de lavabo grifo para baño con filtro...'
 sku: 'B07F3Z8Y2V-es'
 tags: [  ]

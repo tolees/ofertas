@@ -5,7 +5,7 @@ date: 2020-06-12 09:00:59
 image: 'https://m.media-amazon.com/images/I/41w0iybNDPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GTRKZHG-es Reflex Nutrition Instant Whey Pro Chocolate - 4400 gr'
 sku: 'B00GTRKZHG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 17:56:11
 image: 'https://m.media-amazon.com/images/I/41XqUDs8sDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GKYYKW-es adidas X_PLR Zapatillas para Hombre Negro Core Black/Trace...'
 sku: 'B071GKYYKW-es'
 tags: [  ]

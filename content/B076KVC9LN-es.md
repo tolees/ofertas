@@ -5,7 +5,7 @@ date: 2020-01-17 17:06:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RR2kayRoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076KVC9LN-es VAUDE Silk Road L I de Rack Cilindro de Bolsillos Black...'
 sku: 'B076KVC9LN-es'
 tags: [  ]

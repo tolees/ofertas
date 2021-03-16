@@ -5,7 +5,7 @@ date: 2020-02-27 14:35:41
 image: 'https://m.media-amazon.com/images/I/41KEmiWPZ7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004XC5HFO-es Panama Jack Fedro Botas Estilo Motero para Hombre Negro...'
 sku: 'B004XC5HFO-es'
 tags: [  ]

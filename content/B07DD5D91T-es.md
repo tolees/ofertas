@@ -5,7 +5,7 @@ date: 2020-01-17 22:48:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BN%2Bu2NKIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD5D91T-es Miracle Tunes- Vestido/Disfraz Jasmine Color blanco/azul S...'
 sku: 'B07DD5D91T-es'
 tags: [  ]

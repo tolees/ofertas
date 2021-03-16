@@ -5,7 +5,7 @@ date: 2020-04-28 13:03:47
 image: 'https://m.media-amazon.com/images/I/51loRBMxI2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQKSYCT-es Lovewlb Tablet Funda para Alcatel 3t 10 8088q 8088x Funda...'
 sku: 'B07PQKSYCT-es'
 tags: [  ]

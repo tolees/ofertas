@@ -5,7 +5,7 @@ date: 2020-08-09 10:59:57
 image: 'https://m.media-amazon.com/images/I/31e9gV0Dc-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074TGFML6-es Parrot Mambo Fly - Dron cuadricóptero 30 Km/h 8 minutos de...'
 sku: 'B074TGFML6-es'
 tags: [  ]

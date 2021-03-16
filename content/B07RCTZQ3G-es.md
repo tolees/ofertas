@@ -5,7 +5,7 @@ date: 2020-04-18 03:24:44
 image: 'https://m.media-amazon.com/images/I/51j83TD1BYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCTZQ3G-es Tosbess 12 Piezas Minifiguras y Arma Policía Y Gangsters...'
 sku: 'B07RCTZQ3G-es'
 tags: [  ]

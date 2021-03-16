@@ -5,7 +5,7 @@ date: 2020-08-11 08:50:22
 image: 'https://m.media-amazon.com/images/I/4174jRUVnNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5DZZPX-es HandFan Ventilador de Mano Mini Ventilador portátil de...'
 sku: 'B07P5DZZPX-es'
 tags: [  ]

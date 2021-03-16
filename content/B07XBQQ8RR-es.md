@@ -5,7 +5,7 @@ date: 2020-08-28 01:52:45
 image: 'https://m.media-amazon.com/images/I/51GT2uqa+KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBQQ8RR-es BY BENYAR Reloj Casual de Cuarzo para Hombre con Correa de...'
 sku: 'B07XBQQ8RR-es'
 tags: [  ]

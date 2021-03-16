@@ -5,7 +5,7 @@ date: 2020-01-03 20:04:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410lk0PUAwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKLMSJK-es PUMA ESS Crew Sweat TR Big Logo Sweatshirt Hombre Gris...'
 sku: 'B07DKLMSJK-es'
 tags: [  ]

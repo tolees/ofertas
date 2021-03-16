@@ -5,7 +5,7 @@ date: 2020-05-06 18:02:29
 image: 'https://m.media-amazon.com/images/I/610Dw9AVxpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082F2CSQY-es Cobertura de lactancia de algodón Cubiertas de lactancia...'
 sku: 'B082F2CSQY-es'
 tags: [  ]

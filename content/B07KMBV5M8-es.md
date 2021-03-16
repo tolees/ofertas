@@ -5,7 +5,7 @@ date: 2020-10-08 01:13:01
 image: 'https://m.media-amazon.com/images/I/41OTEYjAlDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMBV5M8-es Clarks Un Rio Lace Zapatillas Negro Black Leather Black...'
 sku: 'B07KMBV5M8-es'
 tags: [  ]

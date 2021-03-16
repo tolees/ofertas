@@ -5,7 +5,7 @@ date: 2020-01-27 05:23:17
 image: 'https://m.media-amazon.com/images/I/31rw0op4i+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5QQZQL-es Liu Jo BXX049 PX003 Sneakers Mujer Ocre 36'
 sku: 'B07P5QQZQL-es'
 tags: [  ]

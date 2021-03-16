@@ -5,7 +5,7 @@ date: 2020-04-10 20:04:30
 image: 'https://m.media-amazon.com/images/I/61AObe0XHAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00903LFMU-es LAYEN i-SYNC Adaptador de audio inalámbrico Bluetooth...'
 sku: 'B00903LFMU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 14:33:14
 image: 'https://m.media-amazon.com/images/I/51SUe71LsYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0714BMC1K-es Destiny Games Figura de Vinilo Oryx Funko 20366'
 sku: 'B0714BMC1K-es'
 tags: [  ]

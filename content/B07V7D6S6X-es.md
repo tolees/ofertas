@@ -5,7 +5,7 @@ date: 2020-02-14 08:32:16
 image: 'https://m.media-amazon.com/images/I/51TBHegX8+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7D6S6X-es Cojín para Silla Oficina Cojín Ortopédico y Ergonómico...'
 sku: 'B07V7D6S6X-es'
 tags: [  ]

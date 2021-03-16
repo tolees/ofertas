@@ -5,7 +5,7 @@ date: 2020-01-07 10:47:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PTC2cTlXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1BX3BC-es Parfois - Bandolera De Ante - Mujeres - Tallas M - Gris Pardo'
 sku: 'B07V1BX3BC-es'
 tags: [  ]

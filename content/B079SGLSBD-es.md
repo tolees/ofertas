@@ -5,7 +5,7 @@ date: 2020-08-29 12:00:52
 image: 'https://m.media-amazon.com/images/I/31GNAGVfQNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SGLSBD-es Desigual Abrig Collin Mujer Negro 2000 40 Talla del...'
 sku: 'B079SGLSBD-es'
 tags: [  ]

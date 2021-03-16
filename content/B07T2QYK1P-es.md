@@ -5,7 +5,7 @@ date: 2020-08-21 21:21:55
 image: 'https://m.media-amazon.com/images/I/410qVYXMzSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2QYK1P-es BESTEK Inversor De Corriente 300W para Coche Transformador...'
 sku: 'B07T2QYK1P-es'
 tags: [  ]

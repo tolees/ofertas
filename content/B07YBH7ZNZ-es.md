@@ -5,7 +5,7 @@ date: 2020-07-23 10:17:00
 image: 'https://m.media-amazon.com/images/I/41nqk4OPa-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBH7ZNZ-es Fila Sujetador Deportivo Color Azul Turquesa'
 sku: 'B07YBH7ZNZ-es'
 tags: [  ]

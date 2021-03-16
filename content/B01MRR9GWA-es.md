@@ -5,7 +5,7 @@ date: 2020-06-22 02:07:36
 image: 'https://m.media-amazon.com/images/I/51W67ZlDaaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRR9GWA-es Easton Marlowe 6 PR Calcetines Estampados Hombre - 6pk #17...'
 sku: 'B01MRR9GWA-es'
 tags: [  ]

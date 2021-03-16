@@ -5,7 +5,7 @@ date: 2020-04-08 22:00:41
 image: 'https://m.media-amazon.com/images/I/51HuQuoLDwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G1XJTDY-es EZON Optical Pulsómetros Reloj Recargable para Correr...'
 sku: 'B00G1XJTDY-es'
 tags: [  ]

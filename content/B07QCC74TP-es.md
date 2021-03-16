@@ -5,7 +5,7 @@ date: 2020-10-11 12:48:14
 image: 'https://m.media-amazon.com/images/I/31nons0m3NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCC74TP-es adidas Advantage K Zapatillas de Tenis Unisex Niño Blanc...'
 sku: 'B07QCC74TP-es'
 tags: [  ]

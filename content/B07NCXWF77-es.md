@@ -5,7 +5,7 @@ date: 2020-01-23 08:09:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51KLmgOuOrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCXWF77-es Controlslim -Aquisana | Quema Grasas Potente Para...'
 sku: 'B07NCXWF77-es'
 tags: [  ]

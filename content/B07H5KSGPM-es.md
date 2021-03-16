@@ -5,7 +5,7 @@ date: 2020-01-12 16:36:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HnG25R18L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5KSGPM-es Botas de Invierno para Hombre con Botas de Nieve Camfosy...'
 sku: 'B07H5KSGPM-es'
 tags: [  ]

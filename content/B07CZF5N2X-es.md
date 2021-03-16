@@ -5,7 +5,7 @@ date: 2020-06-28 07:13:12
 image: 'https://m.media-amazon.com/images/I/31X1L7tCqtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZF5N2X-es Salomon RX Break 4.0 Calzado de recuperación para Hombre...'
 sku: 'B07CZF5N2X-es'
 tags: [  ]

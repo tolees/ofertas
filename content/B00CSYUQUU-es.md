@@ -5,7 +5,7 @@ date: 2020-01-01 09:21:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ux3qifaOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CSYUQUU-es Hacienda Zorita Natural Reserve Syrah Vino tinto - 750 ml'
 sku: 'B00CSYUQUU-es'
 tags: [  ]

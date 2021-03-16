@@ -5,7 +5,7 @@ date: 2020-04-26 13:16:17
 image: 'https://m.media-amazon.com/images/I/31vSWFppPLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FJ67MK-es Veramonte Carmenere Vino Chile - 750 ml'
 sku: 'B079FJ67MK-es'
 tags: [  ]

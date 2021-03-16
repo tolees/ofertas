@@ -5,7 +5,7 @@ date: 2020-02-05 21:10:44
 image: 'https://m.media-amazon.com/images/I/41WjdKDr+OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IJ02ZVU-es Nilfisk 128470459 Accesorio Hidrolimpiadora Negro 50 x 30...'
 sku: 'B00IJ02ZVU-es'
 tags: [  ]

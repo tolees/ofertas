@@ -5,7 +5,7 @@ date: 2020-04-12 00:51:23
 image: 'https://m.media-amazon.com/images/I/51hR29I-yyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK76DVL-es Consola de juegos portátil JXD de 4.3 pulgadas y doble...'
 sku: 'B07SK76DVL-es'
 tags: [  ]

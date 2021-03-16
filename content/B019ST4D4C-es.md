@@ -5,7 +5,7 @@ date: 2020-04-03 07:39:19
 image: 'https://m.media-amazon.com/images/I/31iMKYoeH4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019ST4D4C-es iggual Cable alimentación Interna PCI Express - Cables de...'
 sku: 'B019ST4D4C-es'
 tags: [  ]

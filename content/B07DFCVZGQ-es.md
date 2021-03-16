@@ -5,7 +5,7 @@ date: 2020-08-22 11:34:07
 image: 'https://m.media-amazon.com/images/I/51U4d2WLzFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFCVZGQ-es Funko Voltron Figura Pop Allura Multicolor 34202'
 sku: 'B07DFCVZGQ-es'
 tags: [  ]

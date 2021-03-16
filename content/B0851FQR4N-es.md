@@ -5,7 +5,7 @@ date: 2020-08-18 18:45:53
 image: 'https://m.media-amazon.com/images/I/41GXEhX542L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0851FQR4N-es 40G Tamaño pequeño Hogar Hotel Baño Baño Bola de sal Bomba...'
 sku: 'B0851FQR4N-es'
 tags: [  ]

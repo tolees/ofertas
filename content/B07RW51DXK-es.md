@@ -5,7 +5,7 @@ date: 2020-08-20 05:59:01
 image: 'https://m.media-amazon.com/images/I/41GNTI9-l+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RW51DXK-es Estera Para Parrilla de Yawao Forro del Horno Teflon que...'
 sku: 'B07RW51DXK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 08:16:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MbsJtdeXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009CA8X4Y-es Hydor 104I-HY/C01103 Filtro Exterior Prime 10 con Carga...'
 sku: 'B009CA8X4Y-es'
 tags: [  ]

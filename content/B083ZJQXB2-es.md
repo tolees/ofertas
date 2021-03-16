@@ -5,7 +5,7 @@ date: 2020-07-14 03:56:45
 image: 'https://m.media-amazon.com/images/I/31h-YfsVBwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZJQXB2-es ghd curve classic curl - Tenacilla profesional de 26mm...'
 sku: 'B083ZJQXB2-es'
 tags: [  ]

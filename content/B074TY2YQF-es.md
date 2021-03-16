@@ -5,7 +5,7 @@ date: 2020-03-11 20:09:04
 image: 'https://m.media-amazon.com/images/I/31qRHM5lCYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074TY2YQF-es Juvena Tónico corporal - 50 ml.'
 sku: 'B074TY2YQF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-10 20:59:36
 image: 'https://m.media-amazon.com/images/I/41lARCGUMCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9VTFBD-es Lsnisni aspirador robótico Aspiradora automatica con un...'
 sku: 'B07J9VTFBD-es'
 tags: [  ]

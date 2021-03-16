@@ -5,7 +5,7 @@ date: 2020-05-25 16:54:19
 image: 'https://m.media-amazon.com/images/I/41FqeNzmOlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JAIQETE-es GreenBlue GB104 - Programador eléctrico digital diario...'
 sku: 'B00JAIQETE-es'
 tags: [  ]

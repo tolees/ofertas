@@ -5,7 +5,7 @@ date: 2020-09-04 13:55:41
 image: 'https://m.media-amazon.com/images/I/31XYlM1lSsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5QRTKW-es Tommy Hilfiger LowCut Essential Sneaker Zapatillas para...'
 sku: 'B07V5QRTKW-es'
 tags: [  ]

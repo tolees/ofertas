@@ -5,7 +5,7 @@ date: 2020-03-07 07:15:23
 image: 'https://m.media-amazon.com/images/I/31BE-OlJpQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H5OQQ3S-es Angel Schlesser - Eau de cologne bergamota 150 ml'
 sku: 'B01H5OQQ3S-es'
 tags: [  ]

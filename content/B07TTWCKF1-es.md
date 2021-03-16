@@ -5,7 +5,7 @@ date: 2020-07-11 10:46:41
 image: 'https://m.media-amazon.com/images/I/41+I4MOi4jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTWCKF1-es Alcatel 1S - Smartphone de 5.5" Octacore RAM de 4 GB...'
 sku: 'B07TTWCKF1-es'
 tags: [  ]

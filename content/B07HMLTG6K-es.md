@@ -5,7 +5,7 @@ date: 2020-06-13 21:31:13
 image: 'https://m.media-amazon.com/images/I/51AFllT8vnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMLTG6K-es RioRiva Calcetines de colores envueltos para regalo para...'
 sku: 'B07HMLTG6K-es'
 tags: [  ]

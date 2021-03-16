@@ -5,7 +5,7 @@ date: 2020-09-30 16:13:26
 image: 'https://m.media-amazon.com/images/I/41T6DfxrMYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1Y3VTD-es find. Lace Up Leather Botas Estilo Motero Negro Black 36 EU'
 sku: 'B07G1Y3VTD-es'
 tags: [  ]

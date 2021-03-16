@@ -5,7 +5,7 @@ date: 2020-06-06 17:42:38
 image: 'https://m.media-amazon.com/images/I/51T--0dcJeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N12DH2Q-es Ozone Strike X30 - OZSTRIKEX30SPRD - Teclado Gaming...'
 sku: 'B01N12DH2Q-es'
 tags: [  ]

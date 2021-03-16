@@ -5,7 +5,7 @@ date: 2020-09-21 06:32:20
 image: 'https://m.media-amazon.com/images/I/21Mo0oGRC4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSHNJBJ-es Rowenta For Elite CF3112F0 Utensilio de peinado Rizador de...'
 sku: 'B07PSHNJBJ-es'
 tags: [  ]

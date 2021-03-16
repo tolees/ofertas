@@ -5,7 +5,7 @@ date: 2020-04-26 19:55:25
 image: 'https://m.media-amazon.com/images/I/41iQsHr9s1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2PKRC-es HKT by Hackett Hkt SS Str Rby Polo Ink 591 Small para Hombre'
 sku: 'B07MQ2PKRC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-25 12:31:55
 image: 'https://m.media-amazon.com/images/I/41Gb6ln1AdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBXBV3J-es Cepillo alisador eléctrico para barba/pelo 2.0 peine para...'
 sku: 'B07VBXBV3J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 11:55:14
 image: 'https://m.media-amazon.com/images/I/31KQC9jYifL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFLNZMK-es adidas Grand Court Zapatillas de Running para Hombre...'
 sku: 'B07KFLNZMK-es'
 tags: [  ]

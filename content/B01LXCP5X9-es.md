@@ -5,7 +5,7 @@ date: 2020-01-04 10:41:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41L4f%2BJvNaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXCP5X9-es LOBKIN Auriculares Bluetooth Deportivos Resistentes Al...'
 sku: 'B01LXCP5X9-es'
 tags: [  ]

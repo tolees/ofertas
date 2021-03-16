@@ -5,7 +5,7 @@ date: 2020-09-15 10:22:10
 image: 'https://m.media-amazon.com/images/I/41j-U+syCNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GLXW0VM-es Daler Rowney Set Metálico de Viaje de Acuarela Aquafine...'
 sku: 'B00GLXW0VM-es'
 tags: [  ]

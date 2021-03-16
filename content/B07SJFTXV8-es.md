@@ -5,7 +5,7 @@ date: 2020-08-09 14:11:51
 image: 'https://m.media-amazon.com/images/I/41eE5kYOmUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJFTXV8-es LED Reloj Despertador de Dormitorio Vibrante Atenuador de...'
 sku: 'B07SJFTXV8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-01 18:38:55
 image: 'https://m.media-amazon.com/images/I/41mprKbhukL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0746YR3VH-es Camper Uno Zapatillas para Mujer Negro Black 047 37 EU'
 sku: 'B0746YR3VH-es'
 tags: [  ]

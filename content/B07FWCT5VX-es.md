@@ -5,7 +5,7 @@ date: 2020-05-28 00:56:10
 image: 'https://m.media-amazon.com/images/I/41p1eXCZS1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FWCT5VX-es JOYTAG Carcasa ultrafina para Xiaomi Redmi 5 Plus 360...'
 sku: 'B07FWCT5VX-es'
 tags: [  ]

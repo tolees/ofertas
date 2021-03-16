@@ -5,7 +5,7 @@ date: 2020-09-10 08:58:25
 image: 'https://m.media-amazon.com/images/I/31r9zHj5y7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVSWMW-es PUMA LQDCELL Hydra FM Zapatillas Deportivas para Interior...'
 sku: 'B07SBVSWMW-es'
 tags: [  ]

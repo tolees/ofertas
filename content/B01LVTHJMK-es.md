@@ -5,7 +5,7 @@ date: 2020-04-14 20:50:57
 image: 'https://m.media-amazon.com/images/I/517XOwPIGIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LVTHJMK-es Philonext Pan - Bandeja roja de Silicona con 12 Huecos...'
 sku: 'B01LVTHJMK-es'
 tags: [  ]

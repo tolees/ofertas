@@ -5,7 +5,7 @@ date: 2020-08-10 20:46:15
 image: 'https://m.media-amazon.com/images/I/31yJU9120oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q4MXNAC-es Lacoste Crew Neck-sudadera Hombre azul Marine XX-Large...'
 sku: 'B00Q4MXNAC-es'
 tags: [  ]

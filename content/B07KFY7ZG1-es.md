@@ -5,7 +5,7 @@ date: 2020-01-07 17:04:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/319IzI7dFIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFY7ZG1-es PUMA Smash Wns v2 L Zapatillas para Mujer White-Rhubarb...'
 sku: 'B07KFY7ZG1-es'
 tags: [  ]

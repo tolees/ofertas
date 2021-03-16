@@ -5,7 +5,7 @@ date: 2020-04-10 08:48:42
 image: 'https://m.media-amazon.com/images/I/51SeplB4mmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q2S01TE-es Gigandet G6-015 - Reloj Correa de Acero Inoxidable Color...'
 sku: 'B00Q2S01TE-es'
 tags: [  ]

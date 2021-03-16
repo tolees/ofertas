@@ -5,7 +5,7 @@ date: 2020-06-13 09:47:07
 image: 'https://m.media-amazon.com/images/I/41yeGlvsYXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MHSF2R-es Versa 21330009 Set 2 Taburetes de Bar Rústicos con Asiento...'
 sku: 'B086MHSF2R-es'
 tags: [  ]

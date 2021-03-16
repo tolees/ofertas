@@ -5,7 +5,7 @@ date: 2020-03-04 14:31:23
 image: 'https://m.media-amazon.com/images/I/41ZGD2x1UhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5TNTN2-es Vieta pro Smartness - Auricular inalámbrico de Diadema con...'
 sku: 'B07L5TNTN2-es'
 tags: [  ]

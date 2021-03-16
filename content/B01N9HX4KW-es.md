@@ -5,7 +5,7 @@ date: 2020-02-16 22:38:41
 image: 'https://m.media-amazon.com/images/I/41945-MJBoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9HX4KW-es Maybelline New York Master Camo Kit Corrector...'
 sku: 'B01N9HX4KW-es'
 tags: [  ]

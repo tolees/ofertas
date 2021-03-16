@@ -5,7 +5,7 @@ date: 2020-05-10 21:17:12
 image: 'https://m.media-amazon.com/images/I/41dNyzvFa3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R3RHQ4-es New Balance Trail Kaymin Gore Tex Zapatillas de Running...'
 sku: 'B075R3RHQ4-es'
 tags: [  ]

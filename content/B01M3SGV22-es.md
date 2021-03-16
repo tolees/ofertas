@@ -5,7 +5,7 @@ date: 2020-08-30 19:36:00
 image: 'https://m.media-amazon.com/images/I/61wrwN95ZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3SGV22-es TOPLUS Cadena de luces LED Blanco Cálido 10m 100 Leds IP65...'
 sku: 'B01M3SGV22-es'
 tags: [  ]

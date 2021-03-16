@@ -5,7 +5,7 @@ date: 2020-01-14 12:46:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41c1eyIxdFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079C8DDD6-es Paladone lámpara Call of Duty'
 sku: 'B079C8DDD6-es'
 tags: [  ]

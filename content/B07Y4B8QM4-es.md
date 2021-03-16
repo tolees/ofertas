@@ -5,7 +5,7 @@ date: 2020-06-10 21:14:15
 image: 'https://m.media-amazon.com/images/I/41p2qaqL3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4B8QM4-es ZIGLINT Z9 2 en 1 aspiradora a batería 19000Pa de Alta...'
 sku: 'B07Y4B8QM4-es'
 tags: [  ]

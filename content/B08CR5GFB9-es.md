@@ -5,7 +5,7 @@ date: 2020-07-28 15:45:32
 image: 'https://m.media-amazon.com/images/I/41aMZGTqr8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CR5GFB9-es ZZZXX Pintar por Numeros Niños Mujer Sexy Pinceles Y...'
 sku: 'B08CR5GFB9-es'
 tags: [  ]

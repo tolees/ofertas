@@ -5,7 +5,7 @@ date: 2020-03-16 16:37:53
 image: 'https://m.media-amazon.com/images/I/41hBOkTOzXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721NJ9CG-es Superga Damen 2790 Lamew Sneaker Grau Grey 39'
 sku: 'B0721NJ9CG-es'
 tags: [  ]

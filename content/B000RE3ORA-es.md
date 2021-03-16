@@ -5,7 +5,7 @@ date: 2020-10-12 15:00:54
 image: 'https://m.media-amazon.com/images/I/31ALe2haAWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RE3ORA-es Brabantia 365263 Espatula de Cocina pequeña Nailon Negro...'
 sku: 'B000RE3ORA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 05:30:19
 image: 'https://m.media-amazon.com/images/I/41FzTgcocBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TBVHWS-es Webcam 1080P con Micrófono Computadora Webcam para...'
 sku: 'B088TBVHWS-es'
 tags: [  ]

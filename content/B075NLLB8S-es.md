@@ -5,7 +5,7 @@ date: 2020-03-13 21:03:09
 image: 'https://m.media-amazon.com/images/I/41z5lOXO5YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NLLB8S-es Beurer HC55 - Secador de pelo con sistema recogecable 2200...'
 sku: 'B075NLLB8S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-30 08:44:02
 image: 'https://m.media-amazon.com/images/I/51JYOhBcB2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SY9CW9Z-es Roxy Happy At Home-Mochila Mediana para Chicas 8-16 Niñas...'
 sku: 'B07SY9CW9Z-es'
 tags: [  ]

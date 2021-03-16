@@ -5,7 +5,7 @@ date: 2020-09-10 22:02:50
 image: 'https://m.media-amazon.com/images/I/31vhWM0dHvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HPZDMTO-es PUMA Basket Classic LFS Zapatillas para Hombre Blanco...'
 sku: 'B00HPZDMTO-es'
 tags: [  ]

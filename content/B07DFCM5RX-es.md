@@ -5,7 +5,7 @@ date: 2020-02-28 20:09:32
 image: 'https://m.media-amazon.com/images/I/51w5bx7anNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFCM5RX-es Funko- Pop Bobble Marvel Studios 10: Iron Man Chrome...'
 sku: 'B07DFCM5RX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 22:47:43
 image: 'https://m.media-amazon.com/images/I/61zFl+OjwTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EUJ8I74-es Nostalgic-Art - Placa metálica Decorativa 15 x 20 cm...'
 sku: 'B00EUJ8I74-es'
 tags: [  ]

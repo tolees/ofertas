@@ -5,7 +5,7 @@ date: 2020-01-16 11:51:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318dSTkUM0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0024FFSB0-es Nuk Thermo Rapid - Calientabiberón'
 sku: 'B0024FFSB0-es'
 tags: [  ]

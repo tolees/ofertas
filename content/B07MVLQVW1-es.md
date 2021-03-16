@@ -5,7 +5,7 @@ date: 2020-01-02 20:20:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVLQVW1-es Napapijri Eils SS Polo Verde Green Forest 2 GE3 Small para...'
 sku: 'B07MVLQVW1-es'
 tags: [  ]

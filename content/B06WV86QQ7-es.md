@@ -5,7 +5,7 @@ date: 2020-08-30 19:37:16
 image: 'https://m.media-amazon.com/images/I/31M6RuIbueL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WV86QQ7-es Bama Tris Poker-Trío de Juego de Cubos de Basura...'
 sku: 'B06WV86QQ7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 17:42:53
 image: 'https://m.media-amazon.com/images/I/51+pJgJUBEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BTLY2UM-es Bresser MyTime-Reloj de Cocina Retro Acero Inoxidable Dorado'
 sku: 'B01BTLY2UM-es'
 tags: [  ]

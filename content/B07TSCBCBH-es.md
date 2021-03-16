@@ -5,7 +5,7 @@ date: 2020-04-23 08:46:18
 image: 'https://m.media-amazon.com/images/I/517GV5R86xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSCBCBH-es Telémetro láser 50m USB 30mins Carga rápida TECCPO Medidor...'
 sku: 'B07TSCBCBH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-01 13:27:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411MjanWj3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DTYQS6-es Regalo del día de la madre un AAA platino plateado...'
 sku: 'B079DTYQS6-es'
 tags: [  ]

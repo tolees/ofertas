@@ -5,7 +5,7 @@ date: 2020-01-31 10:21:31
 image: 'https://m.media-amazon.com/images/I/41ru7V8CEGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EHSMRZQ-es Pharmadiet Progen Plactive Sabor Naranja - 20 Sobres'
 sku: 'B01EHSMRZQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-03 20:58:11
 image: 'https://m.media-amazon.com/images/I/41AjtXN-NYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IKMKLZO-es Mates Manix Preservativo Masculino en Sexo Seguro 1 Unidad...'
 sku: 'B00IKMKLZO-es'
 tags: [  ]

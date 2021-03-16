@@ -5,7 +5,7 @@ date: 2020-09-17 10:12:58
 image: 'https://m.media-amazon.com/images/I/41iYHelJenL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2NTNB5-es adidas Runfalcon Zapatillas de Running para Hombre Gris...'
 sku: 'B07K2NTNB5-es'
 tags: [  ]

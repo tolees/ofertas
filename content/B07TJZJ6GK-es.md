@@ -5,7 +5,7 @@ date: 2020-09-16 19:00:41
 image: 'https://m.media-amazon.com/images/I/51VSDatJ2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJZJ6GK-es Bestway 56681 | Steel Pro – Piscina exterior redonda 366 x...'
 sku: 'B07TJZJ6GK-es'
 tags: [  ]

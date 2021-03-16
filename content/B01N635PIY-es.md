@@ -5,7 +5,7 @@ date: 2020-09-07 20:51:20
 image: 'https://m.media-amazon.com/images/I/51vKvVOxhML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N635PIY-es Hugo Boss Orange Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B01N635PIY-es'
 tags: [  ]

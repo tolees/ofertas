@@ -5,7 +5,7 @@ date: 2020-06-25 07:01:09
 image: 'https://m.media-amazon.com/images/I/41qgqQDdSTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797VVVQM-es MODAUTO Asiento Deportivo Coche Semibaquet Ajustable de...'
 sku: 'B0797VVVQM-es'
 tags: [  ]

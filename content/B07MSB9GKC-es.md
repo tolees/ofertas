@@ -5,7 +5,7 @@ date: 2020-01-13 09:44:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51gKad2ozBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSB9GKC-es Lacoste Rc2012 Cinturón Azul Blue Horizon D24 90 para Hombre'
 sku: 'B07MSB9GKC-es'
 tags: [  ]

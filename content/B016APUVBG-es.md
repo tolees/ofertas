@@ -5,7 +5,7 @@ date: 2020-01-21 10:32:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wxt%2B6UdRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016APUVBG-es POP! Vinilo - Disney: Toy Story Buzz'
 sku: 'B016APUVBG-es'
 tags: [  ]

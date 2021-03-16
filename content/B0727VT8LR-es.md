@@ -5,7 +5,7 @@ date: 2020-09-29 10:12:13
 image: 'https://m.media-amazon.com/images/I/41LGThLz4rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0727VT8LR-es Saucony Jazz Original Vintage Zapatillas de Cross para...'
 sku: 'B0727VT8LR-es'
 tags: [  ]

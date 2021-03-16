@@ -5,7 +5,7 @@ date: 2020-09-08 07:45:40
 image: 'https://m.media-amazon.com/images/I/51+ZHc0W-0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CL9KDPV-es LOL Surprise - Under Wraps Modelo Surtido 1 Pieza'
 sku: 'B07CL9KDPV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-14 15:03:34
 image: 'https://m.media-amazon.com/images/I/41Rsk2ePmwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQVSLV5-es Monradbitt 1 Pair Fashion Rainbow Striped Socks Ladies...'
 sku: 'B07KQVSLV5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 16:02:06
 image: 'https://m.media-amazon.com/images/I/510QoAv45mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FFFH3WY-es UniqueMe [6 Pack Protector de Pantalla para Xiaomi Mi Band...'
 sku: 'B08FFFH3WY-es'
 tags: [  ]

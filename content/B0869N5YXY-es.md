@@ -5,7 +5,7 @@ date: 2020-05-14 07:40:38
 image: 'https://m.media-amazon.com/images/I/41hC3xwtDQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0869N5YXY-es JK-2 Relleno de Dibujos Animados Animales león de la Felpa...'
 sku: 'B0869N5YXY-es'
 tags: [  ]

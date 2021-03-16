@@ -5,7 +5,7 @@ date: 2020-05-27 18:51:23
 image: 'https://m.media-amazon.com/images/I/31i-YEQbX5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KDFJQH8-es adidas T19 TRK Pnt Y Pantalones de Deporte Unisex niños...'
 sku: 'B07KDFJQH8-es'
 tags: [  ]

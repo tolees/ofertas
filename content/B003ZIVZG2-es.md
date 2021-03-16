@@ -5,7 +5,7 @@ date: 2020-09-11 17:13:11
 image: 'https://m.media-amazon.com/images/I/414yFnYZeUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ZIVZG2-es Patron Añejo Tequila - 700 ml'
 sku: 'B003ZIVZG2-es'
 tags: [  ]

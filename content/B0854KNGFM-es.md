@@ -5,7 +5,7 @@ date: 2020-05-17 09:08:05
 image: 'https://m.media-amazon.com/images/I/311RLLXUgsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0854KNGFM-es Tamaño portátil Fragancia fresca Perfume original Perfume...'
 sku: 'B0854KNGFM-es'
 tags: [  ]

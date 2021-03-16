@@ -5,7 +5,7 @@ date: 2020-08-05 04:16:02
 image: 'https://m.media-amazon.com/images/I/41UcHUMsooL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1PK8TY-es New Balance 574v2 Zapatillas para Mujer Gris Grey/Pink Sat...'
 sku: 'B07S1PK8TY-es'
 tags: [  ]

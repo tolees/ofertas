@@ -5,7 +5,7 @@ date: 2020-05-30 04:06:54
 image: 'https://m.media-amazon.com/images/I/41DIVynEudL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY6GUPR-es Petdentist polvo probiótico para perros y gatos con 17...'
 sku: 'B01LY6GUPR-es'
 tags: [  ]

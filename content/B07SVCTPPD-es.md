@@ -5,7 +5,7 @@ date: 2020-03-14 13:40:32
 image: 'https://m.media-amazon.com/images/I/41t778xNcEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVCTPPD-es Lebze Bebé Muselina Swaddle Manta "Diseño de Panda" Bambú...'
 sku: 'B07SVCTPPD-es'
 tags: [  ]

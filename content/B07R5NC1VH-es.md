@@ -5,7 +5,7 @@ date: 2020-04-12 07:56:01
 image: 'https://m.media-amazon.com/images/I/51zXYp4jIZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5NC1VH-es Extracto de Maca Andina Ecológica Premium para 9 meses |...'
 sku: 'B07R5NC1VH-es'
 tags: [  ]

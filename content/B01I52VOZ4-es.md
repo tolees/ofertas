@@ -5,7 +5,7 @@ date: 2020-10-01 19:03:06
 image: 'https://m.media-amazon.com/images/I/41xRgOKlARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I52VOZ4-es VNOX Banda de Boda de carburo de tungsteno de los Hombres...'
 sku: 'B01I52VOZ4-es'
 tags: [  ]

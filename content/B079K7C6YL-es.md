@@ -5,7 +5,7 @@ date: 2020-02-24 09:38:40
 image: 'https://m.media-amazon.com/images/I/41e22QEml2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079K7C6YL-es Dunlop - Botas de Seguridad estriadas Estilo Wellies...'
 sku: 'B079K7C6YL-es'
 tags: [  ]

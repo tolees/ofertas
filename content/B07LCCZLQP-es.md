@@ -5,7 +5,7 @@ date: 2020-03-14 08:15:50
 image: 'https://m.media-amazon.com/images/I/31r5ZbIe-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCCZLQP-es ETNAB|#Etnies Jameson 2 Eco Zapatillas de Skateboard para...'
 sku: 'B07LCCZLQP-es'
 tags: [  ]

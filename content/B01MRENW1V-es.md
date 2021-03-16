@@ -5,7 +5,7 @@ date: 2020-01-03 11:05:09
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRENW1V-es Luengo - Garbanzo Blanco Lechoso En Paquetes De 1 Kg -...'
 sku: 'B01MRENW1V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-16 19:50:47
 image: 'https://m.media-amazon.com/images/I/41nZ8Q23CKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LLV9PI-es Joydivision Bioglide Lubricante Anal - 80 ml'
 sku: 'B000LLV9PI-es'
 tags: [  ]

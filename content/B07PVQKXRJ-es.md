@@ -5,7 +5,7 @@ date: 2020-09-10 10:03:38
 image: 'https://m.media-amazon.com/images/I/41CEmu0DnNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVQKXRJ-es Under Armour UA W Charged Breathe TR 2 Zapatillas...'
 sku: 'B07PVQKXRJ-es'
 tags: [  ]

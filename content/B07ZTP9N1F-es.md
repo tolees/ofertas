@@ -5,7 +5,7 @@ date: 2020-07-03 19:08:52
 image: 'https://m.media-amazon.com/images/I/41hTni10cCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTP9N1F-es HUAWEI FreeBuds 3 - Auriculares inalámbricos con...'
 sku: 'B07ZTP9N1F-es'
 tags: [  ]

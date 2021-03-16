@@ -5,7 +5,7 @@ date: 2020-04-03 16:22:15
 image: 'https://m.media-amazon.com/images/I/41u2tY6lsEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BNK0VIQ-es Rimmel Supercurler Mascara Extra Black Podkręcający Tusz...'
 sku: 'B01BNK0VIQ-es'
 tags: [  ]

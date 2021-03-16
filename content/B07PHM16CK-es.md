@@ -5,7 +5,7 @@ date: 2020-09-23 15:30:53
 image: 'https://m.media-amazon.com/images/I/41g3hKwJ8XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHM16CK-es Columbia Rainy Creek Gabardina impermeable Mujer Negro S'
 sku: 'B07PHM16CK-es'
 tags: [  ]

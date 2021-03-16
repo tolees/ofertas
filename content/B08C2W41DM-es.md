@@ -5,7 +5,7 @@ date: 2020-07-23 08:17:32
 image: 'https://m.media-amazon.com/images/I/51DhpOgKl+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C2W41DM-es Serum Facial de Ácido Hialurónico Hidratará Aclarará la...'
 sku: 'B08C2W41DM-es'
 tags: [  ]

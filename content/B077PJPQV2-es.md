@@ -5,7 +5,7 @@ date: 2020-07-07 11:30:51
 image: 'https://m.media-amazon.com/images/I/31E-V9cG3-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PJPQV2-es AMD E1-7010 - 4GB - 1TB - DVD Supermulti - Teclado y Ratón...'
 sku: 'B077PJPQV2-es'
 tags: [  ]

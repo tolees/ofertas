@@ -5,7 +5,7 @@ date: 2020-08-12 15:02:00
 image: 'https://m.media-amazon.com/images/I/31Z371z7T5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0869CPG7N-es Controlador de control remoto universal Regulación de...'
 sku: 'B0869CPG7N-es'
 tags: [  ]

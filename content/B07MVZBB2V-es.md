@@ -5,7 +5,7 @@ date: 2020-03-19 14:14:45
 image: 'https://m.media-amazon.com/images/I/41VLNAPxU0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVZBB2V-es Masajeador facial de barra de oro masajeador de bolsa de...'
 sku: 'B07MVZBB2V-es'
 tags: [  ]

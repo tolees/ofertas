@@ -5,7 +5,7 @@ date: 2020-02-14 21:15:35
 image: 'https://m.media-amazon.com/images/I/31bdl57iURL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0743L1WYH-es Rowenta XD9060E0 Cartucho antical para generadores Easy...'
 sku: 'B0743L1WYH-es'
 tags: [  ]

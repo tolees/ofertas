@@ -5,7 +5,7 @@ date: 2020-01-18 11:22:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417hjkA2apL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW7GL12-es Skechers Uno- Roundabout Zapatillas para Mujer White...'
 sku: 'B07NW7GL12-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-07 08:15:36
 image: 'https://m.media-amazon.com/images/I/51RUjvYEHCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PP391PP-es Kipling - Creativity Xl Monederos Mujer Multicolor Navy...'
 sku: 'B07PP391PP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 11:38:46
 image: 'https://m.media-amazon.com/images/I/414yPMcP3AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZN2Z82-es Pepe Jeans LondonRen BackpackNiñosCarterasNegro Black...'
 sku: 'B07MZN2Z82-es'
 tags: [  ]

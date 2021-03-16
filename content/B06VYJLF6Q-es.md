@@ -5,7 +5,7 @@ date: 2020-05-19 18:15:59
 image: 'https://m.media-amazon.com/images/I/51x4GFua5bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VYJLF6Q-es INTEY Plastificador A4 / A5 / A6 : Función ABS / 3 minutos...'
 sku: 'B06VYJLF6Q-es'
 tags: [  ]

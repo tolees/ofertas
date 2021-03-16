@@ -5,7 +5,7 @@ date: 2020-02-21 10:49:36
 image: 'https://m.media-amazon.com/images/I/51TRUc5OKAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082X37JZC-es Cinturón de la cámara Uonner Hebilla del cinturón de...'
 sku: 'B082X37JZC-es'
 tags: [  ]

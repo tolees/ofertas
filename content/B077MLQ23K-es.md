@@ -5,7 +5,7 @@ date: 2020-10-01 10:26:48
 image: 'https://m.media-amazon.com/images/I/31iAbDOz1EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MLQ23K-es PUMA St Runner V2 NL Zapatillas Unisex Adulto Negro Black...'
 sku: 'B077MLQ23K-es'
 tags: [  ]

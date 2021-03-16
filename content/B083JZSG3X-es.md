@@ -5,7 +5,7 @@ date: 2020-03-18 21:12:08
 image: 'https://m.media-amazon.com/images/I/41EexW7WowL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JZSG3X-es Linterna LED 2500 Lumen Yizhet Super Brillante LED...'
 sku: 'B083JZSG3X-es'
 tags: [  ]

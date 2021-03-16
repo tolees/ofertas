@@ -5,7 +5,7 @@ date: 2020-06-06 15:56:49
 image: 'https://m.media-amazon.com/images/I/41U1mTgRl8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001IX6ACA-es K&N E-1987 Filtro de Aire Coche Lavable y Reutilizable'
 sku: 'B001IX6ACA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 16:51:20
 image: 'https://m.media-amazon.com/images/I/41S2JwF6EzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZWX2DK-es Mars gaming MAK1 Teclado Gaming Pulsación Optimizada...'
 sku: 'B01LZWX2DK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-12 11:34:28
 image: 'https://m.media-amazon.com/images/I/410JY5O+adL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CR6CP3E-es HBL Cruze Junior Shiny'
 sku: 'B01CR6CP3E-es'
 tags: [  ]

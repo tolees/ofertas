@@ -5,7 +5,7 @@ date: 2020-03-15 14:28:05
 image: 'https://m.media-amazon.com/images/I/41QJrcgV1wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8LT7SH-es adidas Ultraboost 19 M Zapatillas de Running para Hombre...'
 sku: 'B07M8LT7SH-es'
 tags: [  ]

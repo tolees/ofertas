@@ -5,7 +5,7 @@ date: 2020-05-17 12:03:12
 image: 'https://m.media-amazon.com/images/I/41C8aMNETNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088C1N2VF-es P Prettyia Mini Combo De Teclado Y Mouse Inalámbricos...'
 sku: 'B088C1N2VF-es'
 tags: [  ]

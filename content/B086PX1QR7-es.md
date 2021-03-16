@@ -5,7 +5,7 @@ date: 2020-04-28 18:02:43
 image: 'https://m.media-amazon.com/images/I/41MJQ8TNh5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PX1QR7-es Fundas Transparentes Flexibles: ¡Mantén Tu Gran Estilo En...'
 sku: 'B086PX1QR7-es'
 tags: [  ]

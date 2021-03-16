@@ -5,7 +5,7 @@ date: 2020-02-01 03:59:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nd-SfW4QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0129ZKAEO-es Bulova Marine Star 98B258 - Reloj de pulsera de diseño...'
 sku: 'B0129ZKAEO-es'
 tags: [  ]

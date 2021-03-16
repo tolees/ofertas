@@ -5,7 +5,7 @@ date: 2020-01-02 21:39:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31bEj3Ct0DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWY3GFK-es Joma Combi Polos Caballero Hombre Marino/Royal M'
 sku: 'B07NWY3GFK-es'
 tags: [  ]

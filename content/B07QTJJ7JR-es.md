@@ -5,7 +5,7 @@ date: 2020-01-28 12:48:22
 image: 'https://m.media-amazon.com/images/I/41IhE54QXXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTJJ7JR-es Asics Gel-Cumulus 21 G-TX Zapatillas de Running para Mujer...'
 sku: 'B07QTJJ7JR-es'
 tags: [  ]

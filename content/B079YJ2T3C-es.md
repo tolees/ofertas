@@ -5,7 +5,7 @@ date: 2020-10-05 18:02:35
 image: 'https://m.media-amazon.com/images/I/21KVHxtMGtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YJ2T3C-es Westinghouse Lighting One-Light Indoor Pendant Lámpara de...'
 sku: 'B079YJ2T3C-es'
 tags: [  ]

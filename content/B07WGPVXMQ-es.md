@@ -5,7 +5,7 @@ date: 2020-09-18 17:33:01
 image: 'https://m.media-amazon.com/images/I/317UvgWkXAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGPVXMQ-es Libertroy Sofisticado Motor óptico 2.4GHz 3D 1200dpi Ratón...'
 sku: 'B07WGPVXMQ-es'
 tags: [  ]

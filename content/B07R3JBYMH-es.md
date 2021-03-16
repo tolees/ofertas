@@ -5,7 +5,7 @@ date: 2020-09-22 07:33:34
 image: 'https://m.media-amazon.com/images/I/41p9gISR6KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R3JBYMH-es Ultimate Ears Megaboom Altavoz Portátil Inalámbrico...'
 sku: 'B07R3JBYMH-es'
 tags: [  ]

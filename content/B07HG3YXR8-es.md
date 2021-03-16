@@ -5,7 +5,7 @@ date: 2020-03-26 01:42:31
 image: 'https://m.media-amazon.com/images/I/51LnORf8U6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG3YXR8-es Tahe Fitoxil Forte Plus Tratamiento Anticaída del Cabello...'
 sku: 'B07HG3YXR8-es'
 tags: [  ]

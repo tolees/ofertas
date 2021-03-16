@@ -5,7 +5,7 @@ date: 2020-06-25 11:01:26
 image: 'https://m.media-amazon.com/images/I/41JVSMXOKsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I2YLPM2-es Tuc Tuc 04760 - Bolsa colgadores y bandolera color gris...'
 sku: 'B01I2YLPM2-es'
 tags: [  ]

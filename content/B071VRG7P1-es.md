@@ -5,7 +5,7 @@ date: 2020-03-10 15:41:06
 image: 'https://m.media-amazon.com/images/I/51fY1K7fl7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VRG7P1-es The Binding Of Isaac: Afterbirth'
 sku: 'B071VRG7P1-es'
 tags: [  ]

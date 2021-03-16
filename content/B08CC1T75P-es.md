@@ -5,7 +5,7 @@ date: 2020-08-19 15:50:22
 image: 'https://m.media-amazon.com/images/I/41H5hYWyNDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CC1T75P-es Esterilla portátil para práctica de golf 60 x 30 cm...'
 sku: 'B08CC1T75P-es'
 tags: [  ]

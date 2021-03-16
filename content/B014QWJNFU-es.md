@@ -5,7 +5,7 @@ date: 2020-01-12 12:19:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GPv4W4UuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014QWJNFU-es Monster Adidas Supernova - Auriculares in-ear color negro...'
 sku: 'B014QWJNFU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-02 11:22:49
 image: 'https://m.media-amazon.com/images/I/31-RIGSHJ3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QYW93YL-es Calvin Klein Formal Plaque Belt 3.5cm Cinturón Negro Black...'
 sku: 'B07QYW93YL-es'
 tags: [  ]

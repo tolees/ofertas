@@ -5,7 +5,7 @@ date: 2020-09-11 11:38:01
 image: 'https://m.media-amazon.com/images/I/31cGoHj+kPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLHP3O8-es Biotherm Biocils Waterproof Eye Make Up Remover...'
 sku: 'B01BLHP3O8-es'
 tags: [  ]

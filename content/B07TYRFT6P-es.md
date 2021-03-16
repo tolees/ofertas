@@ -5,7 +5,7 @@ date: 2020-04-09 11:13:25
 image: 'https://m.media-amazon.com/images/I/31I0hxoB8VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYRFT6P-es Pop Doctor Who Kerblam Man Vinyl Figure'
 sku: 'B07TYRFT6P-es'
 tags: [  ]

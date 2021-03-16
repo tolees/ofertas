@@ -5,7 +5,7 @@ date: 2020-03-18 12:44:59
 image: 'https://m.media-amazon.com/images/I/31vvcu8kA1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT888HJ-es Pepe Jeans Rick suéter Gris Light Grey Marl 913 Talla...'
 sku: 'B07RT888HJ-es'
 tags: [  ]

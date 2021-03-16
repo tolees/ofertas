@@ -5,7 +5,7 @@ date: 2020-06-26 10:24:49
 image: 'https://m.media-amazon.com/images/I/51OOfbMSfkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017WHFR56-es Columbia Zero Rules Polo con Protección Solar 30 Hombre...'
 sku: 'B017WHFR56-es'
 tags: [  ]

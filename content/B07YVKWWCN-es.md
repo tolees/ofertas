@@ -5,7 +5,7 @@ date: 2020-07-12 17:01:03
 image: 'https://m.media-amazon.com/images/I/4176PY6S25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVKWWCN-es Tarjetero Pepe Jeans Half vertical Azul'
 sku: 'B07YVKWWCN-es'
 tags: [  ]

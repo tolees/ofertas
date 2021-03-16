@@ -5,7 +5,7 @@ date: 2020-01-28 17:05:31
 image: 'https://m.media-amazon.com/images/I/41oYXVsiYFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QTTEG3S-es iRobot Set - Kit de piezas de repuesto para iRobot Roomba 800'
 sku: 'B00QTTEG3S-es'
 tags: [  ]

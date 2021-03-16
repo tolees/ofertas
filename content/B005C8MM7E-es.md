@@ -5,7 +5,7 @@ date: 2020-09-17 15:31:17
 image: 'https://m.media-amazon.com/images/I/41EHdDM1edL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005C8MM7E-es TOOGOO R Cable de Adaptador USB 2.0 a IDE SATA S-ATA/2.5/3.5'
 sku: 'B005C8MM7E-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-14 06:15:40
 image: 'https://m.media-amazon.com/images/I/51DHOGLV3uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP8T2D2-es Oral-B Genius X 20000 Luxe Edition Cepillo de Dientes...'
 sku: 'B07RP8T2D2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-19 22:31:52
 image: 'https://m.media-amazon.com/images/I/41yTI9h5mxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCYBG52-es D DOLITY Altavoz de Graves Rango Completo Altavoz...'
 sku: 'B07HCYBG52-es'
 tags: [  ]

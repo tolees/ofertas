@@ -5,7 +5,7 @@ date: 2020-08-09 18:25:43
 image: 'https://m.media-amazon.com/images/I/41fsOyU6NML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV3NQKJ-es Tommy Hilfiger Padded Triangle Bra Sujetador de triángulo...'
 sku: 'B07PV3NQKJ-es'
 tags: [  ]

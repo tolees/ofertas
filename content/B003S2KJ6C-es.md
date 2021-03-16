@@ -5,7 +5,7 @@ date: 2020-04-01 09:26:18
 image: 'https://m.media-amazon.com/images/I/31P9CWnGFOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003S2KJ6C-es Vans Herren Classic Vggg T-Shirt Schwarz BLACK-WHITE Y28 L'
 sku: 'B003S2KJ6C-es'
 tags: [  ]

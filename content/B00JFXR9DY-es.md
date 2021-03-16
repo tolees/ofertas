@@ -5,7 +5,7 @@ date: 2020-07-28 05:30:10
 image: 'https://m.media-amazon.com/images/I/51ZZ+dzObGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JFXR9DY-es Memoria USB 128 MB 10 Piezas Pen Drives - Portátil Unidad...'
 sku: 'B00JFXR9DY-es'
 tags: [  ]

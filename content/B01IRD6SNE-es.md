@@ -5,7 +5,7 @@ date: 2020-05-25 07:08:59
 image: 'https://m.media-amazon.com/images/I/51V-XgwRP2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IRD6SNE-es Quntis® - Ganchos Ventosa Fuerte [2 Piezas] Perchas...'
 sku: 'B01IRD6SNE-es'
 tags: [  ]

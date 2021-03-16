@@ -5,7 +5,7 @@ date: 2020-01-06 18:28:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vW9mFamsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5YYDY4-es Skechers Flex Appeal 3.0 Zapatillas para Mujer Gris Light...'
 sku: 'B07H5YYDY4-es'
 tags: [  ]

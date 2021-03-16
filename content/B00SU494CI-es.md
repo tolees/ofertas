@@ -5,7 +5,7 @@ date: 2020-04-28 18:02:11
 image: 'https://m.media-amazon.com/images/I/51kcAu3VJeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SU494CI-es Todeco - Bouncer para Bebés Cuna Bouncer - Tamaño: 80 x 51...'
 sku: 'B00SU494CI-es'
 tags: [  ]

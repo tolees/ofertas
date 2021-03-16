@@ -5,7 +5,7 @@ date: 2020-01-15 08:28:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410yP5GMqFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0090XOFD6-es Sisley Contorno de Ojos - 450 gr'
 sku: 'B0090XOFD6-es'
 tags: [  ]

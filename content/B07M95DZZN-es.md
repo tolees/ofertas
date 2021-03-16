@@ -5,7 +5,7 @@ date: 2020-03-10 11:23:36
 image: 'https://m.media-amazon.com/images/I/41PSqpPx48L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M95DZZN-es Lee Luke Corduroy Pantalones Naranja POTTER S Clay 93 32W...'
 sku: 'B07M95DZZN-es'
 tags: [  ]

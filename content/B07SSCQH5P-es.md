@@ -5,7 +5,7 @@ date: 2020-04-27 14:00:03
 image: 'https://m.media-amazon.com/images/I/41UKJ3dvXKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSCQH5P-es Coronel Tapiocca Maletín Ordenador Red Azul Hombre'
 sku: 'B07SSCQH5P-es'
 tags: [  ]

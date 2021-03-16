@@ -5,7 +5,7 @@ date: 2020-08-14 19:55:57
 image: 'https://m.media-amazon.com/images/I/41RRXWnMPNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BRDZ8HR-es 8 Piezas Latas Pequeñas Rectangulares de Metal con Latas...'
 sku: 'B08BRDZ8HR-es'
 tags: [  ]

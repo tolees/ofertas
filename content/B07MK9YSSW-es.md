@@ -5,7 +5,7 @@ date: 2020-01-27 12:34:44
 image: 'https://m.media-amazon.com/images/I/41cQt2Of1XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK9YSSW-es Skechers GO Walk 5 APPRIZE Zapatillas sin Cordones para...'
 sku: 'B07MK9YSSW-es'
 tags: [  ]

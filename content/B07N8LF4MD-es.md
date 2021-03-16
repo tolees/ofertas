@@ -5,7 +5,7 @@ date: 2020-01-30 07:52:53
 image: 'https://m.media-amazon.com/images/I/41j1IQIJ99L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8LF4MD-es Tommy Hilfiger POPPY BACKPACKMujerBolsos bandoleraNegro...'
 sku: 'B07N8LF4MD-es'
 tags: [  ]

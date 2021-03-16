@@ -5,7 +5,7 @@ date: 2020-04-12 00:52:50
 image: 'https://m.media-amazon.com/images/I/41YP20kyVfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHLNL54-es CY Figuras de Super Mario Toys Mario y Luigi Figuras Yoshi...'
 sku: 'B07SHLNL54-es'
 tags: [  ]

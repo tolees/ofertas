@@ -5,7 +5,7 @@ date: 2020-09-05 09:41:21
 image: 'https://m.media-amazon.com/images/I/21gdY8ARWoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006GWUCLS-es Converse Chuck Taylor All Star Ox Zapatillas Unisex Adulto...'
 sku: 'B006GWUCLS-es'
 tags: [  ]

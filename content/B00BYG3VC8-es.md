@@ -5,7 +5,7 @@ date: 2020-09-20 13:25:34
 image: 'https://m.media-amazon.com/images/I/41QIUyOjCWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BYG3VC8-es Nike T-Lite 11 Zapatillas de Cross Training para Hombre...'
 sku: 'B00BYG3VC8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 09:06:10
 image: 'https://m.media-amazon.com/images/I/51k-tNkBFHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KOC35ZA-es Beurer HK47 - Almohadilla electrónica batería externa de...'
 sku: 'B01KOC35ZA-es'
 tags: [  ]

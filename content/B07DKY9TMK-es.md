@@ -5,7 +5,7 @@ date: 2020-09-04 19:11:00
 image: 'https://m.media-amazon.com/images/I/41htaGbGogL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKY9TMK-es Champion 6pk Sneaker Socken Calcetines Multicolore...'
 sku: 'B07DKY9TMK-es'
 tags: [  ]

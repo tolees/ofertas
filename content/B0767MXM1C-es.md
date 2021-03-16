@@ -5,7 +5,7 @@ date: 2020-01-10 10:58:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518qo%2Bpqy0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0767MXM1C-es GB eye Taza Rick & Morty Better Call Morty Multicolor Unico'
 sku: 'B0767MXM1C-es'
 tags: [  ]

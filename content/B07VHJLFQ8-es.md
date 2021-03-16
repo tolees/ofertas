@@ -5,7 +5,7 @@ date: 2020-09-16 17:24:21
 image: 'https://m.media-amazon.com/images/I/51FjABHjT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHJLFQ8-es OVERPASS Day One Edition para XB1 [Versión Española]'
 sku: 'B07VHJLFQ8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-15 08:07:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IXaJ3i3SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKNJ56Z-es Nike M NSW tee Swoosh BB Core T-Shirt Hombre Black XL'
 sku: 'B07KKNJ56Z-es'
 tags: [  ]

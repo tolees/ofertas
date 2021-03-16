@@ -5,7 +5,7 @@ date: 2020-08-18 20:48:33
 image: 'https://m.media-amazon.com/images/I/41rNyHwX2HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDJ4DLL-es Afeitadora eléctrica para mujer depilación facial para...'
 sku: 'B07FDJ4DLL-es'
 tags: [  ]

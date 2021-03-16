@@ -5,7 +5,7 @@ date: 2020-05-28 11:04:35
 image: 'https://m.media-amazon.com/images/I/61WQm+LXk-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078G8JRB6-es vamei Agua Dibujo Pintura 86 X 57cm Libro magico Agua...'
 sku: 'B078G8JRB6-es'
 tags: [  ]

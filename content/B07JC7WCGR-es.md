@@ -5,7 +5,7 @@ date: 2020-01-16 09:26:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31XNSJ2fCXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JC7WCGR-es Hackett London Archive Colour Block Polo Multicolor...'
 sku: 'B07JC7WCGR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-15 21:34:17
 image: 'https://m.media-amazon.com/images/I/41zwkBY3CeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ7C43L-es Mujer Bañador de Una Pieza Traje de Baño Estampado Vintage...'
 sku: 'B07NJ7C43L-es'
 tags: [  ]

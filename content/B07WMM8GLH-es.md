@@ -5,7 +5,7 @@ date: 2020-09-21 17:45:17
 image: 'https://m.media-amazon.com/images/I/316EQhYG1uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMM8GLH-es TUBBZ Spyro The Dragon Moneybags Collectible Duck'
 sku: 'B07WMM8GLH-es'
 tags: [  ]

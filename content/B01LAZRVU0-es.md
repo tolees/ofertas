@@ -5,7 +5,7 @@ date: 2020-09-06 13:10:01
 image: 'https://m.media-amazon.com/images/I/51Ce9BhHVlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LAZRVU0-es BigBen RR15METRO - Radio despertador pantalla LED de 2"...'
 sku: 'B01LAZRVU0-es'
 tags: [  ]

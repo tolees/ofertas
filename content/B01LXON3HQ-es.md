@@ -5,7 +5,7 @@ date: 2020-08-24 17:19:35
 image: 'https://m.media-amazon.com/images/I/31xNyoEMRKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXON3HQ-es Brabantia Bin newIcon Cubo de Basura con Pedal Acero...'
 sku: 'B01LXON3HQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 10:20:01
 image: 'https://m.media-amazon.com/images/I/21UZiqBwDsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QLTQIUA-es Rayen Barra Extra de Armario Acero Gris 77 x 85 x 2'
 sku: 'B00QLTQIUA-es'
 tags: [  ]

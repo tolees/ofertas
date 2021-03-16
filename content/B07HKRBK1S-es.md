@@ -5,7 +5,7 @@ date: 2020-09-27 07:27:38
 image: 'https://m.media-amazon.com/images/I/41BJee5nV1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKRBK1S-es Tefal Daily Cook - Juego de Sartenes y Cazos Acero...'
 sku: 'B07HKRBK1S-es'
 tags: [  ]

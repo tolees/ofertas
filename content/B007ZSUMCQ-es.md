@@ -5,7 +5,7 @@ date: 2020-04-30 16:04:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ucVa8jobL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007ZSUMCQ-es NanoCable 10.15.0305 - Cable HDMI V1.3 alta velocidad...'
 sku: 'B007ZSUMCQ-es'
 tags: [  ]

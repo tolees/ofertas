@@ -5,7 +5,7 @@ date: 2020-02-01 09:35:32
 image: 'https://m.media-amazon.com/images/I/31l6d+j2SKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N2XNVAI-es Maclean - Mc-628 - Montaje Soporte para Monitor Pantalla...'
 sku: 'B00N2XNVAI-es'
 tags: [  ]

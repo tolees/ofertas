@@ -5,7 +5,7 @@ date: 2020-01-29 16:40:08
 image: 'https://m.media-amazon.com/images/I/41nMKT7cydL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K369BDB-es adidas Runfalcon Zapatillas de Running para Hombre...'
 sku: 'B07K369BDB-es'
 tags: [  ]

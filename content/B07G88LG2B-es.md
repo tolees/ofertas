@@ -5,7 +5,7 @@ date: 2020-02-24 13:02:00
 image: 'https://m.media-amazon.com/images/I/51LBc1DuseL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G88LG2B-es Superdry Hombre Mountain Zip Jacket Azul Large'
 sku: 'B07G88LG2B-es'
 tags: [  ]

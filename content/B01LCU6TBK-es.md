@@ -5,7 +5,7 @@ date: 2020-05-27 19:34:38
 image: 'https://m.media-amazon.com/images/I/41bKy8fkoGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LCU6TBK-es Kinder Bueno Mini Barritas con Relleno de Leche y...'
 sku: 'B01LCU6TBK-es'
 tags: [  ]

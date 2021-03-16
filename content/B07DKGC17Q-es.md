@@ -5,7 +5,7 @@ date: 2020-03-27 20:31:22
 image: 'https://m.media-amazon.com/images/I/31v-6rzRc9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKGC17Q-es Kipling - Earthbeat M Bolsos bandolera Mujer Blanco Dazz...'
 sku: 'B07DKGC17Q-es'
 tags: [  ]

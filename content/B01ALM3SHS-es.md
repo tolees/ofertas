@@ -5,7 +5,7 @@ date: 2020-02-21 20:31:53
 image: 'https://m.media-amazon.com/images/I/51wBSJE7czL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ALM3SHS-es TININNA 1 par Espuma de la Memoria Respirable Altura...'
 sku: 'B01ALM3SHS-es'
 tags: [  ]

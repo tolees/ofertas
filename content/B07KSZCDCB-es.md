@@ -5,7 +5,7 @@ date: 2020-08-04 12:18:44
 image: 'https://m.media-amazon.com/images/I/31XtqxAnOsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSZCDCB-es K KYUER EB-BT810ABA EB-BT810ABE Tablet Batería para...'
 sku: 'B07KSZCDCB-es'
 tags: [  ]

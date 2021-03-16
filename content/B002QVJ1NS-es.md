@@ -5,7 +5,7 @@ date: 2021-03-16 14:54:22
 image: 'https://m.media-amazon.com/images/I/313OgaVXlZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002QVJ1NS-es Targus AMU75EU - Ratón Compacto'
 sku: 'B002QVJ1NS-es'
 tags: [ 'targus', ]

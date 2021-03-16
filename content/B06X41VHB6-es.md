@@ -5,7 +5,7 @@ date: 2020-05-02 04:20:36
 image: 'https://m.media-amazon.com/images/I/41WqobzXTsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X41VHB6-es adidas Vs Set Zapatillas de Deporte Hombre Negro Core...'
 sku: 'B06X41VHB6-es'
 tags: [  ]

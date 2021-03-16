@@ -5,7 +5,7 @@ date: 2020-09-08 17:22:22
 image: 'https://m.media-amazon.com/images/I/41xXKN8Kf2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LIEXSPG-es MAKITA UC4041A Herramienta 1800 W 240 V Negro Azul 40cm'
 sku: 'B00LIEXSPG-es'
 tags: [  ]

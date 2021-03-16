@@ -5,7 +5,7 @@ date: 2020-08-07 21:32:37
 image: 'https://m.media-amazon.com/images/I/518NzbH1HvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089JY4HRP-es EasySMX 2.4G Teclado inalámbrico / cable teclado gamer...'
 sku: 'B089JY4HRP-es'
 tags: [  ]

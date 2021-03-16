@@ -5,7 +5,7 @@ date: 2020-04-07 13:28:09
 image: 'https://m.media-amazon.com/images/I/411X71mRl+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MX72ZXC-es Conjunto de luces Lightailing para Star Wars Destructor...'
 sku: 'B07MX72ZXC-es'
 tags: [  ]

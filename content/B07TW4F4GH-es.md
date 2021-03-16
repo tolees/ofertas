@@ -5,7 +5,7 @@ date: 2020-02-26 03:22:16
 image: 'https://m.media-amazon.com/images/I/41w0dqpYMWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TW4F4GH-es Lenovo S145-15IWL - Ordenador portátil 15.6" HD Intel...'
 sku: 'B07TW4F4GH-es'
 tags: [  ]

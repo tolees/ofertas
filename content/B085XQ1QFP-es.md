@@ -5,7 +5,7 @@ date: 2020-04-18 11:02:13
 image: 'https://m.media-amazon.com/images/I/41wZ4WhOLTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XQ1QFP-es Calcetines deportivos largos de J color unisex mitad...'
 sku: 'B085XQ1QFP-es'
 tags: [  ]

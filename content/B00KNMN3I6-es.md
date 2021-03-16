@@ -5,7 +5,7 @@ date: 2020-02-01 20:40:18
 image: 'https://m.media-amazon.com/images/I/41ZB9o86j9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KNMN3I6-es Onitsuka Tiger Mexico 66 Zapatillas Unisex Blanco...'
 sku: 'B00KNMN3I6-es'
 tags: [  ]

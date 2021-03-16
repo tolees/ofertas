@@ -5,7 +5,7 @@ date: 2020-07-23 15:13:17
 image: 'https://m.media-amazon.com/images/I/31+xRjRaNfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZMQW97-es Hyundai HYBC5080AV Desbrozadora con Motor a 2 Tiempos Pro...'
 sku: 'B071ZMQW97-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-16 17:06:30
 image: 'https://m.media-amazon.com/images/I/21+tmr3ikHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015TTD4BS-es Bondage Play Dilatadores Uretra - 1 unidad'
 sku: 'B015TTD4BS-es'
 tags: [  ]

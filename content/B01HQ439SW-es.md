@@ -5,7 +5,7 @@ date: 2020-09-20 23:05:34
 image: 'https://m.media-amazon.com/images/I/410mdJSZjZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HQ439SW-es Bolero Bebida Instantánea sin Azúcar Sabor Frambuesa -...'
 sku: 'B01HQ439SW-es'
 tags: [  ]

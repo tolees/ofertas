@@ -5,7 +5,7 @@ date: 2020-01-27 12:21:46
 image: 'https://m.media-amazon.com/images/I/31Qe2fOFT4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZFZJL7-es Dickies New York Short Pantalones Cortos Deportivos Beige...'
 sku: 'B01MZFZJL7-es'
 tags: [  ]

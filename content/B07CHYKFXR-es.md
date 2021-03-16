@@ -5,7 +5,7 @@ date: 2020-01-29 12:59:00
 image: 'https://m.media-amazon.com/images/I/41ZaWFSLVrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHYKFXR-es El Naturalista NG24 Lux Suede YUGEN Botas Chelsea para...'
 sku: 'B07CHYKFXR-es'
 tags: [  ]

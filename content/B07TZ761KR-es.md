@@ -5,7 +5,7 @@ date: 2020-03-15 18:56:36
 image: 'https://m.media-amazon.com/images/I/413nPKItSuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ761KR-es Tecboss Encendedor Eléctrico Encendedor de Arco Eléctrico...'
 sku: 'B07TZ761KR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-20 21:42:49
 image: 'https://m.media-amazon.com/images/I/41Mn2mQ+4RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086SWLM97-es Color&Geometry Alfombrilla de Cocina de 2 Piezas Alfombra...'
 sku: 'B086SWLM97-es'
 tags: [  ]

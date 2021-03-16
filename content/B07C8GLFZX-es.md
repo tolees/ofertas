@@ -5,7 +5,7 @@ date: 2020-02-29 20:20:46
 image: 'https://m.media-amazon.com/images/I/31ossNjIQ6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C8GLFZX-es Calypso Reloj Analógico para Niñas de Cuarzo con Correa en...'
 sku: 'B07C8GLFZX-es'
 tags: [  ]

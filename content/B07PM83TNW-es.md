@@ -5,7 +5,7 @@ date: 2020-05-11 18:16:58
 image: 'https://m.media-amazon.com/images/I/31e+6dQz0RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PM83TNW-es Bourjois Velvet The Pencil - Pintalabios Tono 11 Red Vin...'
 sku: 'B07PM83TNW-es'
 tags: [  ]

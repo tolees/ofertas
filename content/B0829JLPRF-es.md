@@ -5,7 +5,7 @@ date: 2020-07-19 23:32:55
 image: 'https://m.media-amazon.com/images/I/31H9ataJnrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829JLPRF-es Guess GUESSTangey Girlfriend CarryallMujerNegroTaglia Unica'
 sku: 'B0829JLPRF-es'
 tags: [  ]

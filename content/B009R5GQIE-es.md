@@ -5,7 +5,7 @@ date: 2020-09-19 09:03:45
 image: 'https://m.media-amazon.com/images/I/41k0NwYaPCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009R5GQIE-es DIM Generous Minimizer Sujetador Reductor Blanco White 95D...'
 sku: 'B009R5GQIE-es'
 tags: [  ]

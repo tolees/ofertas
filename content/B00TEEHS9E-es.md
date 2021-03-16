@@ -5,7 +5,7 @@ date: 2020-04-07 05:18:49
 image: 'https://m.media-amazon.com/images/I/516CSykcuEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TEEHS9E-es PREXTEX - Coche de Policía Teledirigido Monster Truck...'
 sku: 'B00TEEHS9E-es'
 tags: [  ]

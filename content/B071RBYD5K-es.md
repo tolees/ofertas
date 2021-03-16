@@ -5,7 +5,7 @@ date: 2020-01-12 15:31:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61ce%2B3FVrmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RBYD5K-es Saint Seiya Hade Inferno Eliseos Blu-Ray [Blu-ray]'
 sku: 'B071RBYD5K-es'
 tags: [  ]

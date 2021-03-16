@@ -5,7 +5,7 @@ date: 2020-02-01 09:28:31
 image: 'https://m.media-amazon.com/images/I/41p0JIKNCkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQZHGFF-es Skechers Flex Advantage 3.0-transvert Zapatillas para...'
 sku: 'B07NQZHGFF-es'
 tags: [  ]

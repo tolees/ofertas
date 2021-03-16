@@ -5,7 +5,7 @@ date: 2020-04-05 10:49:33
 image: 'https://m.media-amazon.com/images/I/31fSRnaTACL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D61SM1I-es Trangoworld Ghawdex Sn Pantalones Largos Hombre Azul...'
 sku: 'B01D61SM1I-es'
 tags: [  ]

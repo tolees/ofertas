@@ -5,7 +5,7 @@ date: 2020-05-06 07:01:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hY5EXIIuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5FF4MN-es Pulsera Repelente de Mosquitos -12 Paquetes Todo Pulsera...'
 sku: 'B07C5FF4MN-es'
 tags: [  ]

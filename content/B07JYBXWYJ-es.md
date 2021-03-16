@@ -5,7 +5,7 @@ date: 2020-01-18 17:53:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21tcHLRvcWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYBXWYJ-es Trueno Sala'
 sku: 'B07JYBXWYJ-es'
 tags: [  ]

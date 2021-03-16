@@ -5,7 +5,7 @@ date: 2020-01-11 12:27:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-baq85NOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUCCE1R-es Hapilife Grifo Cocina Pared Monomando Mezclador Fregadero...'
 sku: 'B01MUCCE1R-es'
 tags: [  ]

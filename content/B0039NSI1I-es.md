@@ -5,7 +5,7 @@ date: 2020-03-27 23:19:13
 image: 'https://m.media-amazon.com/images/I/316Chxykc4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0039NSI1I-es Wella Sp Volumize Shampoo Champú - 250 ml'
 sku: 'B0039NSI1I-es'
 tags: [  ]

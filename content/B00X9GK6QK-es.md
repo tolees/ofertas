@@ -5,7 +5,7 @@ date: 2020-07-04 18:16:06
 image: 'https://m.media-amazon.com/images/I/31azuULQTsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9GK6QK-es Toshiba TransMemory U301 - Memoria USB de 64 GB color blanco'
 sku: 'B00X9GK6QK-es'
 tags: [  ]

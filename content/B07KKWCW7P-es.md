@@ -5,7 +5,7 @@ date: 2020-01-20 10:06:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xvzDR66qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKWCW7P-es adidas D2m tee 3s T-Shirt Hombre Grey Six 2XL'
 sku: 'B07KKWCW7P-es'
 tags: [  ]

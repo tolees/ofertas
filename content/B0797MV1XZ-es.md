@@ -5,7 +5,7 @@ date: 2020-01-07 10:55:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31iTqUgGMEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797MV1XZ-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer University...'
 sku: 'B0797MV1XZ-es'
 tags: [  ]

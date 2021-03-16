@@ -5,7 +5,7 @@ date: 2020-01-21 19:29:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kQNHWOheL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J1J9NF1-es Skechers Flex Appeal 3.0-Satellites Zapatillas para Mujer...'
 sku: 'B07J1J9NF1-es'
 tags: [  ]

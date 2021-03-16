@@ -5,7 +5,7 @@ date: 2020-03-30 16:33:21
 image: 'https://m.media-amazon.com/images/I/31B7HDPbjTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085KZ6Z9X-es GreceMonday No FFP3 -FFP2 Protección facial desechable...'
 sku: 'B085KZ6Z9X-es'
 tags: [  ]

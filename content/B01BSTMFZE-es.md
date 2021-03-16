@@ -5,7 +5,7 @@ date: 2020-05-19 06:49:04
 image: 'https://m.media-amazon.com/images/I/51BUYkT08GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSTMFZE-es Casio Reloj Analogico-Digital para Hombre de Cuarzo con...'
 sku: 'B01BSTMFZE-es'
 tags: [  ]

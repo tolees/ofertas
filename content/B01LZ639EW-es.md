@@ -5,7 +5,7 @@ date: 2020-09-11 13:35:18
 image: 'https://m.media-amazon.com/images/I/41NJJlX2AgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ639EW-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con...'
 sku: 'B01LZ639EW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 17:45:15
 image: 'https://m.media-amazon.com/images/I/311LMSCjlvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q87NB5Z-es Superdry OL Elite Ziphood Capucha Verde Eagle Green A7h L...'
 sku: 'B07Q87NB5Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-06 12:46:39
 image: 'https://m.media-amazon.com/images/I/51ub5DzmOML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZK45S2-es SOONSOP - Funda para Samsung Galaxy A50 Multicolor...'
 sku: 'B07WZK45S2-es'
 tags: [  ]

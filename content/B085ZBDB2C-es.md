@@ -5,7 +5,7 @@ date: 2020-05-15 20:40:23
 image: 'https://m.media-amazon.com/images/I/41EaKHnHVHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZBDB2C-es por nanda 200 unids/caja Bastoncillo de algodón desechable...'
 sku: 'B085ZBDB2C-es'
 tags: [  ]

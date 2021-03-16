@@ -5,7 +5,7 @@ date: 2020-04-09 13:38:11
 image: 'https://m.media-amazon.com/images/I/31g3fLEVf6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWQNNR1-es Helly Hansen Tokyo Hoodie Hombre Grey Mélange M'
 sku: 'B07KWQNNR1-es'
 tags: [  ]

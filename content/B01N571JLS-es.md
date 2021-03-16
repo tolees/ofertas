@@ -5,7 +5,7 @@ date: 2020-03-06 17:10:03
 image: 'https://m.media-amazon.com/images/I/41k6osOvBsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N571JLS-es Sevilla GS-21-S Set de Desayuno'
 sku: 'B01N571JLS-es'
 tags: [  ]

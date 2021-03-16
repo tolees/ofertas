@@ -5,7 +5,7 @@ date: 2020-03-15 11:08:01
 image: 'https://m.media-amazon.com/images/I/41vyWZF9cYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPF5LGS-es Tom Tailor 7980801 Botas Clasicas para Hombre Marrón...'
 sku: 'B07NPF5LGS-es'
 tags: [  ]

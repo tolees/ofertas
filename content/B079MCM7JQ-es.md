@@ -5,7 +5,7 @@ date: 2020-02-01 02:34:48
 image: 'https://m.media-amazon.com/images/I/41kjApt22EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MCM7JQ-es Salomon XA Pro 3D Winter TS CSWP J Calzado de Invierno...'
 sku: 'B079MCM7JQ-es'
 tags: [  ]

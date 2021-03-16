@@ -5,7 +5,7 @@ date: 2020-06-29 10:28:27
 image: 'https://m.media-amazon.com/images/I/318d2Y666iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721MFK2B-es YanBan Manija plástica estándar de la higiene oral de para...'
 sku: 'B0721MFK2B-es'
 tags: [  ]

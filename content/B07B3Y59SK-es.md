@@ -5,7 +5,7 @@ date: 2020-02-09 14:40:52
 image: 'https://m.media-amazon.com/images/I/41TQhy42JFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3Y59SK-es Clarks Batcombe Lord Botas Chelsea para Hombre Negro Black...'
 sku: 'B07B3Y59SK-es'
 tags: [  ]

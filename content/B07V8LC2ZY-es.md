@@ -5,7 +5,7 @@ date: 2020-06-12 16:15:59
 image: 'https://m.media-amazon.com/images/I/41D8P7htndL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8LC2ZY-es Sistema de alarma inalámbrico PNI SafeHouse HS550 Wifi GSM...'
 sku: 'B07V8LC2ZY-es'
 tags: [  ]

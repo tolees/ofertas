@@ -5,7 +5,7 @@ date: 2020-10-08 14:00:48
 image: 'https://m.media-amazon.com/images/I/41v3zifQ2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IN42K7Q-es Kärcher 1.673-228.0 Limpiador de alta presión 1400 W...'
 sku: 'B00IN42K7Q-es'
 tags: [  ]

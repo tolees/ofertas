@@ -5,7 +5,7 @@ date: 2020-06-21 19:38:20
 image: 'https://m.media-amazon.com/images/I/41497ltN6DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3M8KV4-es PURLINE Parrilla Eléctrica Grill Panini Maker Máxima...'
 sku: 'B07X3M8KV4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2019-12-31 20:53:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413y4uf1d%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTGZQ6T-es Gant 3-Pack Trunk Seasonal Solid Calzoncillos Azul Mid...'
 sku: 'B07MTGZQ6T-es'
 tags: [  ]

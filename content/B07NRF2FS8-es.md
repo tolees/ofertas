@@ -5,7 +5,7 @@ date: 2020-01-29 18:04:16
 image: 'https://m.media-amazon.com/images/I/317135QjqEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRF2FS8-es SYOSS - Espuma Rizos Flex - Rizos Perfectamente Definidos...'
 sku: 'B07NRF2FS8-es'
 tags: [  ]

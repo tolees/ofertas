@@ -5,7 +5,7 @@ date: 2020-06-12 11:31:55
 image: 'https://m.media-amazon.com/images/I/31NZiSfCg7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004LHKBCK-es BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de...'
 sku: 'B004LHKBCK-es'
 tags: [  ]

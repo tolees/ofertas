@@ -5,7 +5,7 @@ date: 2020-01-13 09:04:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ckaAp834L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1NSGNB-es Vernee M6 Smartphone 4G de Pantalla Grande 5.7 Pulgadas...'
 sku: 'B07F1NSGNB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-26 15:48:21
 image: 'https://m.media-amazon.com/images/I/51gqm642xFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BVJM97N-es WisFox Ajustable Antiadherente Fondant Rolling Pins con...'
 sku: 'B07BVJM97N-es'
 tags: [  ]

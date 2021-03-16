@@ -5,7 +5,7 @@ date: 2020-06-27 17:01:42
 image: 'https://m.media-amazon.com/images/I/31n3bdi0ggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T2KHB5-es Puma LIGA Casuals Shorts Pantalones Cortos Hombre Azul...'
 sku: 'B078T2KHB5-es'
 tags: [  ]

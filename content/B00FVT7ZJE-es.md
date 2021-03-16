@@ -5,7 +5,7 @@ date: 2020-05-26 14:03:34
 image: 'https://m.media-amazon.com/images/I/418DtOiCS1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FVT7ZJE-es Soporte Pared Monitor/TV EWENT Easy Pan-Tilt EW1522...'
 sku: 'B00FVT7ZJE-es'
 tags: [  ]

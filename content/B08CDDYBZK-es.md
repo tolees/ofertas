@@ -5,7 +5,7 @@ date: 2020-08-04 15:45:27
 image: 'https://m.media-amazon.com/images/I/31GXuZcxXML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDDYBZK-es AYIYO - Pantalones cortos de algodón y lino para bebés de...'
 sku: 'B08CDDYBZK-es'
 tags: [  ]

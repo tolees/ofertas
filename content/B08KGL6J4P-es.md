@@ -5,7 +5,7 @@ date: 2020-10-09 09:04:52
 image: 'https://m.media-amazon.com/images/I/415Ke3c93YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08KGL6J4P-es NOVELA Apto para NiñOs Estudiantes Linda ImpresióN 3 Capas...'
 sku: 'B08KGL6J4P-es'
 tags: [  ]

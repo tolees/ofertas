@@ -5,7 +5,7 @@ date: 2020-08-06 20:33:12
 image: 'https://m.media-amazon.com/images/I/31j1+pXVPGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A3B3LC0-es Essie Esmalte de Uñas 45 Sole Mate'
 sku: 'B00A3B3LC0-es'
 tags: [  ]

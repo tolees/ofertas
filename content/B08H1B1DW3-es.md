@@ -5,7 +5,7 @@ date: 2020-09-13 22:19:48
 image: 'https://m.media-amazon.com/images/I/61KnFBm8ZsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H1B1DW3-es Ajcoflt 3 Pcs Toallas de enfriamiento de Playa Manta de...'
 sku: 'B08H1B1DW3-es'
 tags: [  ]

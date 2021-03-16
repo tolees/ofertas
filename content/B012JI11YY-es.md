@@ -5,7 +5,7 @@ date: 2020-07-09 23:13:02
 image: 'https://m.media-amazon.com/images/I/31Tnqx1L2kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012JI11YY-es Acrílico Cosmético Lentes De Contacto Lápiz Labial Mak Up...'
 sku: 'B012JI11YY-es'
 tags: [  ]

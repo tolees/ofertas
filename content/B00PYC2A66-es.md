@@ -5,7 +5,7 @@ date: 2020-06-07 15:25:10
 image: 'https://m.media-amazon.com/images/I/41KGced9eAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PYC2A66-es Ritchey WCS Puños Manillar Unisex Adulto Naranja Talla Única'
 sku: 'B00PYC2A66-es'
 tags: [  ]

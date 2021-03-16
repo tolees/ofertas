@@ -5,7 +5,7 @@ date: 2020-04-08 10:12:45
 image: 'https://m.media-amazon.com/images/I/4135mqqLlJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004F0XQ9I-es Cressi Light Aletas Unisex-Youth Blanco 43/44'
 sku: 'B004F0XQ9I-es'
 tags: [  ]

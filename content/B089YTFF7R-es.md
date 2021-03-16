@@ -5,7 +5,7 @@ date: 2020-09-07 13:07:56
 image: 'https://m.media-amazon.com/images/I/41Gta+Kf8TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089YTFF7R-es TELMU Microscopio Óptico Profesionales Microscopios...'
 sku: 'B089YTFF7R-es'
 tags: [  ]

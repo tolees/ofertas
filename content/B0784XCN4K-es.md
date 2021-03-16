@@ -5,7 +5,7 @@ date: 2020-03-21 15:06:38
 image: 'https://m.media-amazon.com/images/I/51Mf4nqhp6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0784XCN4K-es adidas Duramo 8 M Zapatillas de Running para Hombre...'
 sku: 'B0784XCN4K-es'
 tags: [  ]

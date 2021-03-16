@@ -5,7 +5,7 @@ date: 2020-07-05 04:53:32
 image: 'https://m.media-amazon.com/images/I/41BljJP0npL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8RQSX2-es Wonderbra Ultimate Backless Soutien-Gorge Avec Armatures...'
 sku: 'B07N8RQSX2-es'
 tags: [  ]

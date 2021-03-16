@@ -5,7 +5,7 @@ date: 2020-09-22 12:03:28
 image: 'https://m.media-amazon.com/images/I/51RVNE4TlxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BCK82T-es Geographical Norway Polar RIAKOLO Mujer Gris Claro 02'
 sku: 'B082BCK82T-es'
 tags: [  ]

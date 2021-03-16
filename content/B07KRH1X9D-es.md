@@ -5,7 +5,7 @@ date: 2020-06-09 05:06:52
 image: 'https://m.media-amazon.com/images/I/31uu6kIzyYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRH1X9D-es New Balance 574v2 Zapatillas para Mujer Blanco White/Grey...'
 sku: 'B07KRH1X9D-es'
 tags: [  ]

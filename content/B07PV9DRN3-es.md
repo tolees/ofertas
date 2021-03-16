@@ -5,7 +5,7 @@ date: 2020-04-07 22:17:25
 image: 'https://m.media-amazon.com/images/I/51MoDCjINbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV9DRN3-es Tyroler Bright Tools Mopa de Microfibra para Usar Seca y...'
 sku: 'B07PV9DRN3-es'
 tags: [  ]

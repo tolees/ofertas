@@ -5,7 +5,7 @@ date: 2020-05-15 11:10:37
 image: 'https://m.media-amazon.com/images/I/41c83CNpp8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVMNSR6-es PEKITAS Pack 3 Muselinas Extra Grandes Mantas de Muselina...'
 sku: 'B07DVMNSR6-es'
 tags: [  ]

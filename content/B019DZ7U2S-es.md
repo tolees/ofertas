@@ -5,7 +5,7 @@ date: 2020-08-16 08:43:23
 image: 'https://m.media-amazon.com/images/I/41sqMq4PX2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019DZ7U2S-es Sabrent Cable de extensión 22AWG USB 3.0 - A-Macho a...'
 sku: 'B019DZ7U2S-es'
 tags: [  ]

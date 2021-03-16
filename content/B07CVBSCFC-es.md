@@ -5,7 +5,7 @@ date: 2020-03-05 14:51:55
 image: 'https://m.media-amazon.com/images/I/41FRZicjiPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVBSCFC-es FIND - Princess of Shine Barra de labios mate n.5 + Brillo...'
 sku: 'B07CVBSCFC-es'
 tags: [  ]

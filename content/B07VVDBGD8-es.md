@@ -5,7 +5,7 @@ date: 2020-08-21 09:17:54
 image: 'https://m.media-amazon.com/images/I/51+b7XHoSiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVDBGD8-es AI: SOMNIUM FILES COLLECTOR EDITION'
 sku: 'B07VVDBGD8-es'
 tags: [  ]

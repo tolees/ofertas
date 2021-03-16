@@ -5,7 +5,7 @@ date: 2020-09-24 10:02:07
 image: 'https://m.media-amazon.com/images/I/31JgM2P9WrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R8NQWD5-es Máscara de bricolaje para DJ PVC Casco Festival de música...'
 sku: 'B07R8NQWD5-es'
 tags: [  ]

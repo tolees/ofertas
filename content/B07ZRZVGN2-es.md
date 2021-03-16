@@ -5,7 +5,7 @@ date: 2020-03-03 16:33:56
 image: 'https://m.media-amazon.com/images/I/41kZS4kLceL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRZVGN2-es DLOPK Adaptador de Viaje Universal con 4 Puertos USB MAX...'
 sku: 'B07ZRZVGN2-es'
 tags: [  ]

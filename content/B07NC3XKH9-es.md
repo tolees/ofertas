@@ -5,7 +5,7 @@ date: 2020-03-29 09:33:12
 image: 'https://m.media-amazon.com/images/I/41eGvgjmluL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC3XKH9-es AXE Adrenaline Charge Up - Desodorante antitranspirante en...'
 sku: 'B07NC3XKH9-es'
 tags: [  ]

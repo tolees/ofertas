@@ -5,7 +5,7 @@ date: 2020-04-12 23:37:09
 image: 'https://m.media-amazon.com/images/I/41O40NxYekL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9Q7LGN-es True Instinct No Grain Mini Paté de Pollo para Perros 150...'
 sku: 'B07B9Q7LGN-es'
 tags: [  ]

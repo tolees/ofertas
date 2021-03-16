@@ -5,7 +5,7 @@ date: 2020-03-25 19:21:22
 image: 'https://m.media-amazon.com/images/I/41ROjBBxDbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPDDC61-es DAM TEKKIWEAR. DMZ009BK. Pulsera Inteligente Bluetooth...'
 sku: 'B07JPDDC61-es'
 tags: [  ]

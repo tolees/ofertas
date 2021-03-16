@@ -5,7 +5,7 @@ date: 2020-01-10 09:54:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OuqyEg7xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFQ3TSH-es Lacoste Ph5522 Polo Azul Lilium Chiné 9n0 Small Talla del...'
 sku: 'B07JFQ3TSH-es'
 tags: [  ]

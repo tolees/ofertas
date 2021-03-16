@@ -5,7 +5,7 @@ date: 2020-07-30 10:23:32
 image: 'https://m.media-amazon.com/images/I/513qtLTEo+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0739ZBX3L-es CampTeck U6576 3m Cuerda Saltar de Velocidad Ajustable...'
 sku: 'B0739ZBX3L-es'
 tags: [  ]

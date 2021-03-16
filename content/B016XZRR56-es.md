@@ -5,7 +5,7 @@ date: 2020-08-29 09:01:08
 image: 'https://m.media-amazon.com/images/I/41APfMNNzPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016XZRR56-es Steinbach Colector de Sol Speed Solar Exclusiv Negro 110 x...'
 sku: 'B016XZRR56-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-18 13:15:14
 image: 'https://m.media-amazon.com/images/I/51QOA6SfIzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZHRDND-es Molinillo sal y pimienta Molinillos de especias Premium...'
 sku: 'B07YZHRDND-es'
 tags: [  ]

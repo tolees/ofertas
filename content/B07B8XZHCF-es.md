@@ -5,7 +5,7 @@ date: 2020-07-29 11:11:48
 image: 'https://m.media-amazon.com/images/I/51U+GcH4JeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8XZHCF-es Purina ProPlan Comida para Gatos Esterilizados en Salsa...'
 sku: 'B07B8XZHCF-es'
 tags: [  ]

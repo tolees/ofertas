@@ -5,7 +5,7 @@ date: 2020-07-01 17:23:56
 image: 'https://m.media-amazon.com/images/I/41K5vqEdEpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHZCZRH-es AUSONIA protege slips maxi caja 30 uds'
 sku: 'B07DHZCZRH-es'
 tags: [  ]

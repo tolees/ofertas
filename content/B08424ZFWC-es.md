@@ -5,7 +5,7 @@ date: 2020-03-26 09:53:31
 image: 'https://m.media-amazon.com/images/I/31EXAVymaqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08424ZFWC-es Mini Adaptador USB CSR Dual Mode Wireless V4.0 EDR Dongle...'
 sku: 'B08424ZFWC-es'
 tags: [  ]

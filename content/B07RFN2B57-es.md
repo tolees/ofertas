@@ -5,7 +5,7 @@ date: 2020-07-03 14:30:38
 image: 'https://m.media-amazon.com/images/I/31yxVfKDi8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFN2B57-es Salomon RX Break 4.0 W Zapatillas Deportivas para Interior...'
 sku: 'B07RFN2B57-es'
 tags: [  ]

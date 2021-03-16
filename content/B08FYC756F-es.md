@@ -5,7 +5,7 @@ date: 2020-09-23 17:35:49
 image: 'https://m.media-amazon.com/images/I/31b2Pu4oLoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FYC756F-es EC67-R11 Módulo CMOS Red de Internet Cámara de Video HD...'
 sku: 'B08FYC756F-es'
 tags: [  ]

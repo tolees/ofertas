@@ -5,7 +5,7 @@ date: 2020-02-05 21:41:20
 image: 'https://m.media-amazon.com/images/I/41UAzZ7LnlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QN5P25T-es Bourjois Máscara - 1 Unidad'
 sku: 'B07QN5P25T-es'
 tags: [  ]

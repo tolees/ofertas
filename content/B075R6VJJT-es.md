@@ -5,7 +5,7 @@ date: 2020-06-25 04:18:21
 image: 'https://m.media-amazon.com/images/I/51hDqt5AY5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R6VJJT-es New Balance Fresh Foam Cruz v2 m Zapatillas para Mujer...'
 sku: 'B075R6VJJT-es'
 tags: [  ]

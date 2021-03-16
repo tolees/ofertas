@@ -5,7 +5,7 @@ date: 2020-08-09 17:30:18
 image: 'https://m.media-amazon.com/images/I/41ybs4-02+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5G5JUG-es Fotoprotector ISDIN Fusion Fluid Color SPF 50+ | Protector...'
 sku: 'B00J5G5JUG-es'
 tags: [  ]

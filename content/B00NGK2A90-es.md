@@ -5,7 +5,7 @@ date: 2020-03-02 22:27:20
 image: 'https://m.media-amazon.com/images/I/21sCHK4V70L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGK2A90-es Beter Pur Pedicur - Cortacallos con bisagra'
 sku: 'B00NGK2A90-es'
 tags: [  ]

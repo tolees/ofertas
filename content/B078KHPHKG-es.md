@@ -5,7 +5,7 @@ date: 2020-01-17 08:05:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gLiw%2BjVoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078KHPHKG-es Urban Classics Ladies 3-Tone Tape Leggings Multicolor...'
 sku: 'B078KHPHKG-es'
 tags: [  ]

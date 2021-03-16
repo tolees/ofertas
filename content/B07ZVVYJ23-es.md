@@ -5,7 +5,7 @@ date: 2020-07-06 10:14:56
 image: 'https://m.media-amazon.com/images/I/41zHmkmdm+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVVYJ23-es Levi s 511 Slim Hemmed Denim Shorts Rye Short 31 para Hombre'
 sku: 'B07ZVVYJ23-es'
 tags: [  ]

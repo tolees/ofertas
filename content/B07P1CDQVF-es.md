@@ -5,7 +5,7 @@ date: 2020-06-23 07:15:52
 image: 'https://m.media-amazon.com/images/I/41jWHUCD-tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P1CDQVF-es SATECHI Tipo-C de Aluminio a Adaptador de Conector para...'
 sku: 'B07P1CDQVF-es'
 tags: [  ]

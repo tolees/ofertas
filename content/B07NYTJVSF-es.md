@@ -5,7 +5,7 @@ date: 2020-09-27 11:09:21
 image: 'https://m.media-amazon.com/images/I/31nd8vpt6kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NYTJVSF-es Skechers Men s Zinger Trainers Black Black Leather/Navy...'
 sku: 'B07NYTJVSF-es'
 tags: [  ]

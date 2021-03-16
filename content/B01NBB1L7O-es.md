@@ -5,7 +5,7 @@ date: 2020-06-27 20:30:58
 image: 'https://m.media-amazon.com/images/I/41I6z0Y4eBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBB1L7O-es Metal Earth- Tren Expresso Hogwarts Harry Potter Series...'
 sku: 'B01NBB1L7O-es'
 tags: [  ]

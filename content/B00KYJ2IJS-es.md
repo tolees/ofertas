@@ -5,7 +5,7 @@ date: 2020-05-30 20:04:28
 image: 'https://m.media-amazon.com/images/I/41sj399WwbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KYJ2IJS-es K&N YA-9514 Filtro de Aire para Yamaha XVS950 BOLT 950...'
 sku: 'B00KYJ2IJS-es'
 tags: [  ]

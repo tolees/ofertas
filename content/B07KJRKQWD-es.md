@@ -5,7 +5,7 @@ date: 2020-02-12 20:02:28
 image: 'https://m.media-amazon.com/images/I/41ZAoAuZlTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJRKQWD-es Olivia Burton Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07KJRKQWD-es'
 tags: [  ]

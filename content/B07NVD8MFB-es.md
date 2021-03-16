@@ -5,7 +5,7 @@ date: 2020-01-05 13:17:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51YS%2BUPXqzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVD8MFB-es Simpeak Funda Compatible con Huawei P30 Pro 6.47"/2019...'
 sku: 'B07NVD8MFB-es'
 tags: [  ]

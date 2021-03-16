@@ -5,7 +5,7 @@ date: 2020-03-11 18:56:04
 image: 'https://m.media-amazon.com/images/I/41UOH+CBHlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPW25DN-es Asics Gel-Quantum Infinity Zapatillas de Running para...'
 sku: 'B07QPW25DN-es'
 tags: [  ]

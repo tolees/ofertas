@@ -5,7 +5,7 @@ date: 2020-05-31 16:04:40
 image: 'https://m.media-amazon.com/images/I/31d3B+MZcWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJRSMD7-es Oihxse Funda Compatible para Samsung Galaxy A7 2018/A750...'
 sku: 'B07YJRSMD7-es'
 tags: [  ]

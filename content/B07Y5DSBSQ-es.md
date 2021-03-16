@@ -5,7 +5,7 @@ date: 2020-07-25 22:58:06
 image: 'https://m.media-amazon.com/images/I/51i64o5t2nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5DSBSQ-es GRIDINLUX. Batería de cocina. 8 piezas de Alta Gama...'
 sku: 'B07Y5DSBSQ-es'
 tags: [  ]

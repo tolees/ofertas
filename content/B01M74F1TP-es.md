@@ -5,7 +5,7 @@ date: 2020-02-03 20:14:55
 image: 'https://m.media-amazon.com/images/I/21RAY644GeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M74F1TP-es G-STAR RAW ZED Cinturón Marrón Dk Cognac/Antic Silver 8128...'
 sku: 'B01M74F1TP-es'
 tags: [  ]

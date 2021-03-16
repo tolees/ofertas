@@ -5,7 +5,7 @@ date: 2020-06-22 16:24:11
 image: 'https://m.media-amazon.com/images/I/41-iSorhqKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB4JMWF-es Pulsera Hombre Classic Series Men Pulsera Coolman...'
 sku: 'B07GB4JMWF-es'
 tags: [  ]

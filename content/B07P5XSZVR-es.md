@@ -5,7 +5,7 @@ date: 2020-09-06 22:01:13
 image: 'https://m.media-amazon.com/images/I/51ym886yR9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5XSZVR-es OurLeeme 15 unids Pincel de pintura profesional Nail Art...'
 sku: 'B07P5XSZVR-es'
 tags: [  ]

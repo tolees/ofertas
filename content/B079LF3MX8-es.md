@@ -5,7 +5,7 @@ date: 2020-01-11 09:37:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41P1m4NgFkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079LF3MX8-es Sorel Explorer Carnival Botas para Mujer Verde Hiker...'
 sku: 'B079LF3MX8-es'
 tags: [  ]

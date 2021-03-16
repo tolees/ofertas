@@ -5,7 +5,7 @@ date: 2020-04-23 12:10:41
 image: 'https://m.media-amazon.com/images/I/51k-mnn+q-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B1RH5B8-es Bosch Professional GBA 18V 3.0 Ah - Batería de litio 1...'
 sku: 'B00B1RH5B8-es'
 tags: [  ]

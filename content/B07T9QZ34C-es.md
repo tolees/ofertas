@@ -5,7 +5,7 @@ date: 2020-07-05 07:19:38
 image: 'https://m.media-amazon.com/images/I/5112QL8tfeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9QZ34C-es upHere 4 Heatpipes Ventilador de CPU ARGB LED Ventiladores...'
 sku: 'B07T9QZ34C-es'
 tags: [  ]

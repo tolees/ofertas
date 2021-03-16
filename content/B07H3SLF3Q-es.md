@@ -5,7 +5,7 @@ date: 2020-07-14 18:09:15
 image: 'https://m.media-amazon.com/images/I/51z6HE1ac9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3SLF3Q-es TOPERSUN Funda de Barbacoa Funda Protectora para Barbacoa...'
 sku: 'B07H3SLF3Q-es'
 tags: [  ]

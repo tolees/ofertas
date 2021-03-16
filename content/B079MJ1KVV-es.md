@@ -5,7 +5,7 @@ date: 2020-09-09 08:32:19
 image: 'https://m.media-amazon.com/images/I/41+6PLew68L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MJ1KVV-es Metaltex Aquatex Copper - Escurreplatos con Bandeja Color...'
 sku: 'B079MJ1KVV-es'
 tags: [  ]

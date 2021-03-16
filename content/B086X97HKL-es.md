@@ -5,7 +5,7 @@ date: 2020-05-26 18:31:45
 image: 'https://m.media-amazon.com/images/I/41u0xESE9fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086X97HKL-es Mini 8 + 2 Puertos 100M Switch SPOE Fast Power Over...'
 sku: 'B086X97HKL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-14 06:32:20
 image: 'https://m.media-amazon.com/images/I/41Z7-T7vxAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRD3QFD-es Vicloon Tarjetas de Felicitación Tarjeta de San Valentín...'
 sku: 'B07WRD3QFD-es'
 tags: [  ]

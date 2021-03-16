@@ -5,7 +5,7 @@ date: 2020-09-11 10:36:25
 image: 'https://m.media-amazon.com/images/I/419xhVdskJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XBS1HDM-es KOPEKS Piscina Extra Grande Infantil Ideal para...'
 sku: 'B06XBS1HDM-es'
 tags: [  ]

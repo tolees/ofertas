@@ -5,7 +5,7 @@ date: 2020-05-30 11:40:31
 image: 'https://m.media-amazon.com/images/I/519tU60GJvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WVCZLC-es Vigilabebes con Camara Bebé Monitor Inalambrico con 3 5"...'
 sku: 'B075WVCZLC-es'
 tags: [  ]

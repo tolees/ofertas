@@ -5,7 +5,7 @@ date: 2020-01-03 12:29:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-6ZmqqknL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYDZM4H-es Proze Sport Auriculares Inalámbricos Bluetooth con...'
 sku: 'B07XYDZM4H-es'
 tags: [  ]

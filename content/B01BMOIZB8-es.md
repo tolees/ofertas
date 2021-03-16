@@ -5,7 +5,7 @@ date: 2020-03-06 04:23:10
 image: 'https://m.media-amazon.com/images/I/31pxiilFEgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BMOIZB8-es IFC HELIOCARE 360º 30 cápsulas'
 sku: 'B01BMOIZB8-es'
 tags: [  ]

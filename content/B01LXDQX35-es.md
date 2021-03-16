@@ -5,7 +5,7 @@ date: 2020-09-23 18:03:30
 image: 'https://m.media-amazon.com/images/I/41ynDmkApvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXDQX35-es WD Blue disco de estado sólido SSD interno de 250 GB -...'
 sku: 'B01LXDQX35-es'
 tags: [  ]

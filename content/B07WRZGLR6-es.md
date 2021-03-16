@@ -5,7 +5,7 @@ date: 2020-03-16 12:31:51
 image: 'https://m.media-amazon.com/images/I/41OFkU3SFkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRZGLR6-es MP3 BENJIE 16GB 1.8" Reproductor de MP3 Pantalla Táctil...'
 sku: 'B07WRZGLR6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-25 15:06:32
 image: 'https://m.media-amazon.com/images/I/41C87Ia9VBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9CGTOX-es Bensimon Tennis Lacet Femme Zapatillas Mujer Beige Beige...'
 sku: 'B01N9CGTOX-es'
 tags: [  ]

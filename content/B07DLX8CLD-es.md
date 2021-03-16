@@ -5,7 +5,7 @@ date: 2020-05-26 17:34:59
 image: 'https://m.media-amazon.com/images/I/41w+R3VgdXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLX8CLD-es Samsonite Pro-DLX 5 - Wheeled Business Case 15.6"...'
 sku: 'B07DLX8CLD-es'
 tags: [  ]

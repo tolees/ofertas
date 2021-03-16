@@ -5,7 +5,7 @@ date: 2020-01-28 19:40:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51qYJAY4jlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MCDJ4UK-es Epson Workforce WF-2630WF - Impresora multifunción de...'
 sku: 'B00MCDJ4UK-es'
 tags: [  ]

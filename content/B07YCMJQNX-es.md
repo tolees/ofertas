@@ -5,7 +5,7 @@ date: 2020-04-03 15:47:30
 image: 'https://m.media-amazon.com/images/I/41-RO-x8kZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCMJQNX-es TACKLIFE Cortabordes Eléctrico 350W Cortabordes Ancho de...'
 sku: 'B07YCMJQNX-es'
 tags: [  ]

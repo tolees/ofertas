@@ -5,7 +5,7 @@ date: 2020-07-23 23:27:11
 image: 'https://m.media-amazon.com/images/I/41D-78+bhLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088GPBZ97-es PRUNUS J-777 Radio de Transistor portátil FM/Am Mini...'
 sku: 'B088GPBZ97-es'
 tags: [  ]

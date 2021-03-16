@@ -5,7 +5,7 @@ date: 2020-01-16 15:32:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412FPoD9M4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PLQS5XW-es SFR Raptor Patines Unisex Adulto Rojo Red 39.5'
 sku: 'B00PLQS5XW-es'
 tags: [  ]

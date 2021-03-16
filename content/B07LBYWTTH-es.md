@@ -5,7 +5,7 @@ date: 2020-03-31 21:43:31
 image: 'https://m.media-amazon.com/images/I/41-vyaRNc6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBYWTTH-es Etrogo Bombilla Crepuscular Led Sensor Luz E27 10W...'
 sku: 'B07LBYWTTH-es'
 tags: [  ]

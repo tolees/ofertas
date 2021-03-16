@@ -5,7 +5,7 @@ date: 2020-04-11 23:36:02
 image: 'https://m.media-amazon.com/images/I/21P9yiwiVLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C4W3CKV-es Kelme - Zapatillas Flamenco Sala'
 sku: 'B07C4W3CKV-es'
 tags: [  ]

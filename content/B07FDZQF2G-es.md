@@ -5,7 +5,7 @@ date: 2020-02-29 18:14:40
 image: 'https://m.media-amazon.com/images/I/51trwP-NOyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDZQF2G-es Vintage Mochila Mujer Bolsos Mochila Hombre Antirrobo...'
 sku: 'B07FDZQF2G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-24 08:35:16
 image: 'https://m.media-amazon.com/images/I/41aOtvBNBwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WFC5X2-es Oihxse Compatible con Huawei Honor 8 Lite Silicona Funda...'
 sku: 'B088WFC5X2-es'
 tags: [  ]

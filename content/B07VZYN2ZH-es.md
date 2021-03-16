@@ -5,7 +5,7 @@ date: 2020-07-16 13:24:48
 image: 'https://m.media-amazon.com/images/I/411MJyGirzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZYN2ZH-es Jack & Jones Jorpannel Crew Neck. suéter Azul Light Grey...'
 sku: 'B07VZYN2ZH-es'
 tags: [  ]

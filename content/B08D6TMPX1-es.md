@@ -5,7 +5,7 @@ date: 2020-09-13 11:32:43
 image: 'https://m.media-amazon.com/images/I/51uTUHC05cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6TMPX1-es Cama Perro Cama de Perros Grandes Cama para Perros Cama...'
 sku: 'B08D6TMPX1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 11:56:12
 image: 'https://m.media-amazon.com/images/I/2125XwuXfyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077C7HV1Y-es Converse Taylor Chuck 70 Hi Sneaker Unisex-Adult...'
 sku: 'B077C7HV1Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-07 12:26:30
 image: 'https://m.media-amazon.com/images/I/31XIDtSj30L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IOECMXQ-es Sennheiser HD 2.30i - Auriculares de Diadema Cerrados 3.5...'
 sku: 'B01IOECMXQ-es'
 tags: [  ]

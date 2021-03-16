@@ -5,7 +5,7 @@ date: 2020-08-24 08:17:51
 image: 'https://m.media-amazon.com/images/I/4148BcRxmjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXVHQL6-es Helly Hansen Active Duffel Bag 33l Bolsa De Deporte Unisex...'
 sku: 'B07NXVHQL6-es'
 tags: [  ]

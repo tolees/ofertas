@@ -5,7 +5,7 @@ date: 2020-07-12 14:58:40
 image: 'https://m.media-amazon.com/images/I/41VS4brCRcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XMWBWA-es DIM Generous Sujetador Negro 95E para Mujer'
 sku: 'B005XMWBWA-es'
 tags: [  ]

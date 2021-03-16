@@ -5,7 +5,7 @@ date: 2020-05-05 21:12:54
 image: 'https://m.media-amazon.com/images/I/41uSVijlo3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LEYRKGW-es ID Italian Design | Cepillo Alisador Steam Brush Pro 2.0...'
 sku: 'B01LEYRKGW-es'
 tags: [  ]

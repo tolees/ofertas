@@ -5,7 +5,7 @@ date: 2020-10-11 18:11:16
 image: 'https://m.media-amazon.com/images/I/41JVcecMXHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HZSINRC-es CAMPER Peu Cami Damen Sneakers Grau Lt. Pastel Grey 36 EU'
 sku: 'B00HZSINRC-es'
 tags: [  ]

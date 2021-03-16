@@ -5,7 +5,7 @@ date: 2020-07-14 10:12:18
 image: 'https://m.media-amazon.com/images/I/51HZIix-f2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJHT6FB-es Pinte por Number Kit DIY Pintura al óleo Dibujo Elefante...'
 sku: 'B07JJHT6FB-es'
 tags: [  ]

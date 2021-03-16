@@ -5,7 +5,7 @@ date: 2020-04-20 08:01:27
 image: 'https://m.media-amazon.com/images/I/41EuKRkQcVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07945TQZM-es Wally Dude Shoes Hombres Lavado Castaño UK10/EU44'
 sku: 'B07945TQZM-es'
 tags: [  ]

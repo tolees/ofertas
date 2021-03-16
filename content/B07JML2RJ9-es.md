@@ -5,7 +5,7 @@ date: 2020-08-31 02:33:20
 image: 'https://m.media-amazon.com/images/I/31OnmoANyTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JML2RJ9-es Ever-Pretty A-línea Vestito de Gala Cuello Redondo sin...'
 sku: 'B07JML2RJ9-es'
 tags: [  ]

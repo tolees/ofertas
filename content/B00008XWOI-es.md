@@ -5,7 +5,7 @@ date: 2020-07-30 19:01:19
 image: 'https://m.media-amazon.com/images/I/31pf2deiTbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00008XWOI-es WMF Profi Sartén Acero Inoxidable Pulido 28 cm'
 sku: 'B00008XWOI-es'
 tags: [  ]

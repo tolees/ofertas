@@ -5,7 +5,7 @@ date: 2020-05-31 11:40:40
 image: 'https://m.media-amazon.com/images/I/31kS0Ald5ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1XVB9L-es AUOPLUS Multi-Colores LED Luz Nocturna Infantil Lámpara...'
 sku: 'B07Z1XVB9L-es'
 tags: [  ]

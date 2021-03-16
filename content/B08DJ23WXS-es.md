@@ -5,7 +5,7 @@ date: 2020-10-09 16:52:58
 image: 'https://m.media-amazon.com/images/I/41IbgMeC3TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ23WXS-es Smart Sir Calcetines Hombre y Mujer 4 Pares de Calcetines...'
 sku: 'B08DJ23WXS-es'
 tags: [  ]

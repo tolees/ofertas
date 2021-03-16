@@ -5,7 +5,7 @@ date: 2020-06-16 11:13:29
 image: 'https://m.media-amazon.com/images/I/41aFON9uFzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BMCC3QN-es NIVEA MEN Active Clean Champú para hombre para una...'
 sku: 'B07BMCC3QN-es'
 tags: [  ]

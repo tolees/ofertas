@@ -5,7 +5,7 @@ date: 2020-06-20 08:02:43
 image: 'https://m.media-amazon.com/images/I/51pfnRoRUCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWR8H31-es Fmway Funda Carcasa para Huawei Mediapad M6 10.8 2019 con...'
 sku: 'B07SWR8H31-es'
 tags: [  ]

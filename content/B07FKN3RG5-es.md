@@ -5,7 +5,7 @@ date: 2020-05-19 20:51:10
 image: 'https://m.media-amazon.com/images/I/315Acguz8RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKN3RG5-es Joma Cannes II Pantalon Largo Deportivo Hombre Marino S'
 sku: 'B07FKN3RG5-es'
 tags: [  ]

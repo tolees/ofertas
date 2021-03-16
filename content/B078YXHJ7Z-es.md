@@ -5,7 +5,7 @@ date: 2020-01-15 00:36:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41s272NLg6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YXHJ7Z-es Calzoncillo tanga sexi sensual erotico para hombres. TALLA...'
 sku: 'B078YXHJ7Z-es'
 tags: [  ]

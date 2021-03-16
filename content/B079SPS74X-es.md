@@ -5,7 +5,7 @@ date: 2020-01-08 18:34:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UngC8LenL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SPS74X-es GB eye LTD Rick and Morty Mr Meeseeks Taza 3D'
 sku: 'B079SPS74X-es'
 tags: [  ]

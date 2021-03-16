@@ -5,7 +5,7 @@ date: 2020-05-10 17:05:20
 image: 'https://m.media-amazon.com/images/I/412uRyZBgzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFVTMHX-es Superdry Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07MFVTMHX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-18 07:02:26
 image: 'https://m.media-amazon.com/images/I/416xXLJMrdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL9PLDC-es READ Reloj para Hombre Reloj de Cuarzo Marca de fábrica...'
 sku: 'B07HL9PLDC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 11:14:13
 image: 'https://m.media-amazon.com/images/I/51T5-rDNIlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD3SCC8-es L.O.L Surprise Bling - Modelo surtido sorpresa Giochi...'
 sku: 'B07DD3SCC8-es'
 tags: [  ]

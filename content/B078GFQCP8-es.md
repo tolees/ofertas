@@ -5,7 +5,7 @@ date: 2020-02-13 20:03:26
 image: 'https://m.media-amazon.com/images/I/31ET28p1D6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GFQCP8-es L Oreal Paris Stylista Big Hair Spray - 150 ml'
 sku: 'B078GFQCP8-es'
 tags: [  ]

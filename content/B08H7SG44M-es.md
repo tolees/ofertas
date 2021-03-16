@@ -5,7 +5,7 @@ date: 2020-09-11 18:16:24
 image: 'https://m.media-amazon.com/images/I/315UBbswjwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H7SG44M-es Digital para bebés con indicador de Fiebre para Adultos y...'
 sku: 'B08H7SG44M-es'
 tags: [  ]

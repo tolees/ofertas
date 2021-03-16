@@ -5,7 +5,7 @@ date: 2020-09-21 14:54:43
 image: 'https://m.media-amazon.com/images/I/51rjAp+U9XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088F9KJ4M-es AOLUXLM Maquina de Burbujas Juguete para Niños Soplador de...'
 sku: 'B088F9KJ4M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-08 11:58:20
 image: 'https://m.media-amazon.com/images/I/21Aa0y2Y69L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0014TLNJ8-es BaByliss BAB663E PRO - Cepillo térmico Ø 18 mm'
 sku: 'B0014TLNJ8-es'
 tags: [  ]

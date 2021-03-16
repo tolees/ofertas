@@ -5,7 +5,7 @@ date: 2020-04-23 19:03:31
 image: 'https://m.media-amazon.com/images/I/315WEChh83L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0823LHM8C-es Botellas de carga de bolas de gel de 1 pieza con 10000...'
 sku: 'B0823LHM8C-es'
 tags: [  ]

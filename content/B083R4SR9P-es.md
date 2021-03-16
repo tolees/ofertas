@@ -5,7 +5,7 @@ date: 2020-03-13 18:47:50
 image: 'https://m.media-amazon.com/images/I/51afwx61dyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083R4SR9P-es Auriculares Bluetooth Auriculares inalámbricos 5.0...'
 sku: 'B083R4SR9P-es'
 tags: [  ]

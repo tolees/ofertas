@@ -5,7 +5,7 @@ date: 2020-01-19 04:26:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61Hoc1N484L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HNB1O4O-es Odelay [Vinilo]'
 sku: 'B01HNB1O4O-es'
 tags: [  ]

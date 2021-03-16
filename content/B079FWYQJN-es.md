@@ -5,7 +5,7 @@ date: 2020-10-12 22:05:36
 image: 'https://m.media-amazon.com/images/I/319gTH3AO7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FWYQJN-es Samsung Clear View Standing Cover - Funda para Galaxy S9+...'
 sku: 'B079FWYQJN-es'
 tags: [  ]

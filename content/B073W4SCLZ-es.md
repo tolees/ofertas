@@ -5,7 +5,7 @@ date: 2020-04-12 12:16:01
 image: 'https://m.media-amazon.com/images/I/41MpKsK5lXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073W4SCLZ-es Lorus Reloj de Pulsera RT315GX9'
 sku: 'B073W4SCLZ-es'
 tags: [  ]

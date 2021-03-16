@@ -5,7 +5,7 @@ date: 2020-03-26 18:04:48
 image: 'https://m.media-amazon.com/images/I/51607TCvetL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDH8LMX-es Casio G-SHOCK Reloj Analógico-Digital Carbonífero 20 BAR...'
 sku: 'B07PDH8LMX-es'
 tags: [  ]

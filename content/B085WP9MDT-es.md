@@ -5,7 +5,7 @@ date: 2020-03-21 18:53:13
 image: 'https://m.media-amazon.com/images/I/41Z2fKYq7SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085WP9MDT-es FlowerDas Termometro Infrarrojo Termómetro De Frente...'
 sku: 'B085WP9MDT-es'
 tags: [  ]

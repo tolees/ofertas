@@ -5,7 +5,7 @@ date: 2020-08-28 09:49:14
 image: 'https://m.media-amazon.com/images/I/41FSeeTP8ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XUA3Z8Q-es Oxford 100430206 - Recambio hojas sueltas 4 taladros para...'
 sku: 'B00XUA3Z8Q-es'
 tags: [  ]

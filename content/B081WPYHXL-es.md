@@ -5,7 +5,7 @@ date: 2020-02-11 18:31:26
 image: 'https://m.media-amazon.com/images/I/519jyKTpoOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081WPYHXL-es Cuquiland Esencia Agenda ilustrada por Esther Gili Tamaño...'
 sku: 'B081WPYHXL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 13:31:48
 image: 'https://m.media-amazon.com/images/I/51y1kQAc1vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6JJWQF-es HelpCuisine Salvamanteles/Agarrador de ollas/salvamanteles...'
 sku: 'B06X6JJWQF-es'
 tags: [  ]

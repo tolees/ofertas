@@ -5,7 +5,7 @@ date: 2020-01-05 10:15:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51aYjkV80ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076KZW5P1-es find. Cazadora Bomber Mujer Rosa Pink Black Mix 36 Talla...'
 sku: 'B076KZW5P1-es'
 tags: [  ]

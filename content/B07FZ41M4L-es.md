@@ -5,7 +5,7 @@ date: 2020-01-18 17:21:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419Q%2B4IEyLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZ41M4L-es Plancha de pelo herramientas de estilo eléctrico de...'
 sku: 'B07FZ41M4L-es'
 tags: [  ]

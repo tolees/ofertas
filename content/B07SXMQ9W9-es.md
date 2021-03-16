@@ -5,7 +5,7 @@ date: 2020-02-20 15:28:04
 image: 'https://m.media-amazon.com/images/I/412ZzVkR06L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXMQ9W9-es adidas Deerupt Runner Zapatillas de Gimnasia para Hombre...'
 sku: 'B07SXMQ9W9-es'
 tags: [  ]

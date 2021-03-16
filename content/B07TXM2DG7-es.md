@@ -5,7 +5,7 @@ date: 2020-07-14 07:03:43
 image: 'https://m.media-amazon.com/images/I/31A2IIMZvOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXM2DG7-es Skechers MAX Cushioning Elite-Step Up Zapatillas para...'
 sku: 'B07TXM2DG7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 15:01:31
 image: 'https://m.media-amazon.com/images/I/51H5zQF12cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQZT36H-es ASUS DUAL-GTX1650-O4G - Tarjeta gráfica 4 GB GDDR5 OC 1755...'
 sku: 'B07QQZT36H-es'
 tags: [  ]

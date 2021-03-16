@@ -5,7 +5,7 @@ date: 2020-08-14 19:57:39
 image: 'https://m.media-amazon.com/images/I/31NpAd0mOYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WCQRMWQ-es HyperX Fury HX432C16FB3/16 DIMM DDR4 16 GB 3200 MHz CL16...'
 sku: 'B07WCQRMWQ-es'
 tags: [  ]

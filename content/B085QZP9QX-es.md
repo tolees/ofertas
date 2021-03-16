@@ -5,7 +5,7 @@ date: 2020-09-25 10:33:46
 image: 'https://m.media-amazon.com/images/I/413kwG0DYUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085QZP9QX-es Finocam - Agenda Curso 2020-2021 Octavo-120x164 1 Día...'
 sku: 'B085QZP9QX-es'
 tags: [  ]

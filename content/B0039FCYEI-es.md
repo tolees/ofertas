@@ -5,7 +5,7 @@ date: 2020-05-27 02:32:31
 image: 'https://m.media-amazon.com/images/I/41PC2yWm4+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0039FCYEI-es IBILI 716010 - Aro INOX 10X4 50 Cms.'
 sku: 'B0039FCYEI-es'
 tags: [  ]

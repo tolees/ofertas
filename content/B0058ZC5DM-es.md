@@ -5,7 +5,7 @@ date: 2020-04-30 17:32:24
 image: 'https://m.media-amazon.com/images/I/41lea5oxIcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0058ZC5DM-es The North Face Resolve Pantalones para Hombre TNF Negro XL'
 sku: 'B0058ZC5DM-es'
 tags: [  ]

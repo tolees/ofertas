@@ -5,7 +5,7 @@ date: 2020-06-09 03:44:31
 image: 'https://m.media-amazon.com/images/I/51JXk8XESlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD189FL-es Bersigar Hombres de Negocios Casual Sport Design Genuino...'
 sku: 'B07SD189FL-es'
 tags: [  ]

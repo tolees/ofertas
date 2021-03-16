@@ -5,7 +5,7 @@ date: 2020-07-16 15:28:53
 image: 'https://m.media-amazon.com/images/I/41HEAT6x6QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NE3T4XE-es Floïd Floïd After Shave Loción 150 ml'
 sku: 'B00NE3T4XE-es'
 tags: [  ]

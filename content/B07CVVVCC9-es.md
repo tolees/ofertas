@@ -5,7 +5,7 @@ date: 2020-03-07 15:59:29
 image: 'https://m.media-amazon.com/images/I/31fktV03VfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVVVCC9-es Samsung muf-64be4/eu 64gb 3.0 3.1 Gen 1 Conector USB Tipo...'
 sku: 'B07CVVVCC9-es'
 tags: [  ]

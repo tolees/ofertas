@@ -5,7 +5,7 @@ date: 2020-03-22 03:24:50
 image: 'https://m.media-amazon.com/images/I/41MPfD3NCqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLKVTCJ-es Versace Jeans CoutureMarsupioMujerBolso de manoAzul Blu...'
 sku: 'B07NLKVTCJ-es'
 tags: [  ]

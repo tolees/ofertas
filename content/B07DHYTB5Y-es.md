@@ -5,7 +5,7 @@ date: 2020-04-29 11:14:23
 image: 'https://m.media-amazon.com/images/I/31ZH3ezvdsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHYTB5Y-es Lacoste Carnaby EVO BL 2 SUI Zapatillas Unisex Niños...'
 sku: 'B07DHYTB5Y-es'
 tags: [  ]

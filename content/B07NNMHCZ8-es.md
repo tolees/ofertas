@@ -5,7 +5,7 @@ date: 2020-08-18 22:59:23
 image: 'https://m.media-amazon.com/images/I/31g09IT3tUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNMHCZ8-es DFNT - Spray contra Insectos 250 ml Ideal para protección...'
 sku: 'B07NNMHCZ8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 06:56:21
 image: 'https://m.media-amazon.com/images/I/41x+Gv2pCLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O24I0TI-es Nexcare Coldhot Premium - Gel pack 235 mm x 110 mm'
 sku: 'B00O24I0TI-es'
 tags: [  ]

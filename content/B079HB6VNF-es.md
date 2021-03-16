@@ -5,7 +5,7 @@ date: 2020-01-28 12:24:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dlbuXNiVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079HB6VNF-es Optimum Nutrition Protein Whipped Bites barrita proteica...'
 sku: 'B079HB6VNF-es'
 tags: [  ]

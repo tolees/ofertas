@@ -5,7 +5,7 @@ date: 2020-03-14 12:15:58
 image: 'https://m.media-amazon.com/images/I/41mPUiP8-qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JX2BKH-es BLCPRO Repelente Ultrasónico de Plagas 2020 Repelente...'
 sku: 'B083JX2BKH-es'
 tags: [  ]

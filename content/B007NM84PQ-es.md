@@ -5,7 +5,7 @@ date: 2020-09-29 19:44:06
 image: 'https://m.media-amazon.com/images/I/41e-Pi5MWsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007NM84PQ-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B007NM84PQ-es'
 tags: [  ]

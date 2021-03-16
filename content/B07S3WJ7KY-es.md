@@ -5,7 +5,7 @@ date: 2020-03-04 07:38:30
 image: 'https://m.media-amazon.com/images/I/41Djsxr2NML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3WJ7KY-es New Balance 500 Zapatillas para Hombre Gris Grey TRS 42 EU'
 sku: 'B07S3WJ7KY-es'
 tags: [  ]

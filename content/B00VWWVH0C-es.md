@@ -5,7 +5,7 @@ date: 2020-03-18 00:50:02
 image: 'https://m.media-amazon.com/images/I/21ilqbcybuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VWWVH0C-es Versa 18790381 Perchero de pie con paragüero Metal Lacado...'
 sku: 'B00VWWVH0C-es'
 tags: [  ]

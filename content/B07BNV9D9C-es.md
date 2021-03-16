@@ -5,7 +5,7 @@ date: 2020-05-28 09:34:16
 image: 'https://m.media-amazon.com/images/I/513L7EVljEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNV9D9C-es Jurassic Park Poster Classic Logo Multicolor 61 x 91.5cm'
 sku: 'B07BNV9D9C-es'
 tags: [  ]

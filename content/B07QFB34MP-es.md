@@ -5,7 +5,7 @@ date: 2020-02-22 07:38:26
 image: 'https://m.media-amazon.com/images/I/31nPEfl6TqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFB34MP-es Pablosky 334320 Merceditas para Niñas Azul Azul Azul 24 EU'
 sku: 'B07QFB34MP-es'
 tags: [  ]

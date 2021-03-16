@@ -5,7 +5,7 @@ date: 2020-08-07 14:31:25
 image: 'https://m.media-amazon.com/images/I/318sFW6nBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ5R47V-es Skechers Flex Advantage 3.0 Zapatillas para Hombre Azul...'
 sku: 'B07TZ5R47V-es'
 tags: [  ]

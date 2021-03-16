@@ -5,7 +5,7 @@ date: 2020-04-11 04:00:59
 image: 'https://m.media-amazon.com/images/I/41pcmw8GY9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076KRB2S9-es VAUDE Classic Back Alforja Unisex Adulto Negro Phantom...'
 sku: 'B076KRB2S9-es'
 tags: [  ]

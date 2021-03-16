@@ -5,7 +5,7 @@ date: 2020-05-25 20:02:23
 image: 'https://m.media-amazon.com/images/I/51NkdmgNWFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053C9FGA-es El increible Hulk 2ª temporada [DVD]'
 sku: 'B0053C9FGA-es'
 tags: [  ]

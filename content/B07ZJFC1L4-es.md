@@ -5,7 +5,7 @@ date: 2020-02-11 15:47:43
 image: 'https://m.media-amazon.com/images/I/41qlkCqxIcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJFC1L4-es Adaptador Bluetooth Transmisor Receptor 2 en 1 Bluetooth...'
 sku: 'B07ZJFC1L4-es'
 tags: [  ]

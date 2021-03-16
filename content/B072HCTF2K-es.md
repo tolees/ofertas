@@ -5,7 +5,7 @@ date: 2020-09-25 14:25:38
 image: 'https://m.media-amazon.com/images/I/41CBo9uf48L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HCTF2K-es SELECTED HOMME Shddome Crew Neck Noos suéter Azul Dark...'
 sku: 'B072HCTF2K-es'
 tags: [  ]

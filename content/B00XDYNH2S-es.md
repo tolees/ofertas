@@ -5,7 +5,7 @@ date: 2020-04-13 15:51:31
 image: 'https://m.media-amazon.com/images/I/51NsICOJ1XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDYNH2S-es Tommy Hilfiger New Danny Belt Cinturón Cognac 85 para Mujer'
 sku: 'B00XDYNH2S-es'
 tags: [  ]

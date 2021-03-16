@@ -5,7 +5,7 @@ date: 2020-03-11 13:47:53
 image: 'https://m.media-amazon.com/images/I/41xy+Y9NUfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009VBUJ96-es Superga 2750 COTU Classic Zapatillas Unisex Verde Military...'
 sku: 'B009VBUJ96-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-01 08:30:32
 image: 'https://m.media-amazon.com/images/I/41pbbtv6sDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9VT4HX-es E-Deals - Balón de fútbol de Espuma Suave 20 cm Color Rojo'
 sku: 'B06X9VT4HX-es'
 tags: [  ]

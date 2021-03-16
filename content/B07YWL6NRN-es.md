@@ -5,7 +5,7 @@ date: 2020-10-02 21:42:51
 image: 'https://m.media-amazon.com/images/I/31Dy0FukamL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWL6NRN-es Nuk Sports Cup - Botella para aprender a beber antigoteo...'
 sku: 'B07YWL6NRN-es'
 tags: [  ]

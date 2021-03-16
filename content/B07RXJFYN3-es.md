@@ -5,7 +5,7 @@ date: 2020-09-09 11:11:03
 image: 'https://m.media-amazon.com/images/I/41-HaHfchzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXJFYN3-es New Balance 373v2 Zapatillas para Hombre Azul Navy/White...'
 sku: 'B07RXJFYN3-es'
 tags: [  ]

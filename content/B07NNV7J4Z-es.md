@@ -5,7 +5,7 @@ date: 2020-06-11 22:40:30
 image: 'https://m.media-amazon.com/images/I/417QiawLByL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNV7J4Z-es Under Armour Women s Charged Aurora Hallenschuhe...'
 sku: 'B07NNV7J4Z-es'
 tags: [  ]

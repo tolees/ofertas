@@ -5,7 +5,7 @@ date: 2020-05-27 19:13:14
 image: 'https://m.media-amazon.com/images/I/41pT0xLw71L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XK4P6Y-es Hp USB-c Universal Dock w/4.5mm Adapter USB 3.0 3.1 Gen 1 .'
 sku: 'B078XK4P6Y-es'
 tags: [  ]

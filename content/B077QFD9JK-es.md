@@ -5,7 +5,7 @@ date: 2020-08-11 13:42:44
 image: 'https://m.media-amazon.com/images/I/31GQVgjLueL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QFD9JK-es Rimmel London Stay Matte Liquid Lip Colour Urban Romance...'
 sku: 'B077QFD9JK-es'
 tags: [  ]

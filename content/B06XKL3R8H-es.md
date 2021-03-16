@@ -5,7 +5,7 @@ date: 2020-07-29 20:22:24
 image: 'https://m.media-amazon.com/images/I/51WnlaVrUhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XKL3R8H-es JTDEAL Mosquitera para Cama 4 Esquinas Adecuado para Cama...'
 sku: 'B06XKL3R8H-es'
 tags: [  ]

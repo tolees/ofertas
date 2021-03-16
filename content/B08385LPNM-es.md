@@ -5,7 +5,7 @@ date: 2020-08-30 19:26:20
 image: 'https://m.media-amazon.com/images/I/41-Tcsoii5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08385LPNM-es Hurley M Phantom One&Only 18 Bañador Hombre Pacific Blue 30'
 sku: 'B08385LPNM-es'
 tags: [  ]

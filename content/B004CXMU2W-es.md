@@ -5,7 +5,7 @@ date: 2020-03-02 22:58:19
 image: 'https://m.media-amazon.com/images/I/412Ht9snA+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004CXMU2W-es Biofinity Toric Lentes de contacto tóricas mensuales R 8.7...'
 sku: 'B004CXMU2W-es'
 tags: [  ]

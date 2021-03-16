@@ -5,7 +5,7 @@ date: 2020-07-10 22:38:21
 image: 'https://m.media-amazon.com/images/I/513EoByQK6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3NBV1D-es Zoeson Ducha Solar Ducha Portatil Bolsa De Ducha Para...'
 sku: 'B07B3NBV1D-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-06 08:52:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GYys4GnqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IYCHYIC-es uhlsport Pullover Match 1/4 Zip Top - Forro para Mujer...'
 sku: 'B00IYCHYIC-es'
 tags: [  ]

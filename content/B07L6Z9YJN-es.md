@@ -5,7 +5,7 @@ date: 2020-04-16 06:53:34
 image: 'https://m.media-amazon.com/images/I/31M7e3KxJlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6Z9YJN-es FitFlop Anni Flex Zapatillas sin Cordones para Mujer...'
 sku: 'B07L6Z9YJN-es'
 tags: [  ]

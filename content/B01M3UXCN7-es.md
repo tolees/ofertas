@@ -5,7 +5,7 @@ date: 2020-05-17 18:32:15
 image: 'https://m.media-amazon.com/images/I/41YQnhdfVkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3UXCN7-es LG VR9624PR Hombot Turbo Serie 11 - Robot aspirador...'
 sku: 'B01M3UXCN7-es'
 tags: [  ]

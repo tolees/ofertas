@@ -5,7 +5,7 @@ date: 2020-08-23 11:14:23
 image: 'https://m.media-amazon.com/images/I/41zywzY70SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q5RY45F-es ONTA Botella De Agua Plegable-Botella De Agua Plegable De...'
 sku: 'B07Q5RY45F-es'
 tags: [  ]

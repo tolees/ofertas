@@ -5,7 +5,7 @@ date: 2020-10-09 19:30:41
 image: 'https://m.media-amazon.com/images/I/414-F3+XRjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KGB8XII-es Lorus Reloj de Pulsera R2387KX9'
 sku: 'B01KGB8XII-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 18:13:39
 image: 'https://m.media-amazon.com/images/I/41VwZAyZ-aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077J1J8WG-es Casio Reloj Digital para Mujer de Cuarzo con Correa en...'
 sku: 'B077J1J8WG-es'
 tags: [  ]

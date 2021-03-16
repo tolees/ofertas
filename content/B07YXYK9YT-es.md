@@ -5,7 +5,7 @@ date: 2020-01-25 08:28:16
 image: 'https://m.media-amazon.com/images/I/41gzbdzUG9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXYK9YT-es GEARGO Corrector de Postura Ajustar el Peso de la Espalda...'
 sku: 'B07YXYK9YT-es'
 tags: [  ]

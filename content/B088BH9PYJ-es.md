@@ -5,7 +5,7 @@ date: 2020-09-03 11:01:17
 image: 'https://m.media-amazon.com/images/I/417lX5lSGlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BH9PYJ-es Oihxse Cristal Compatible con Samsung Galaxy J4 Funda...'
 sku: 'B088BH9PYJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 10:31:23
 image: 'https://m.media-amazon.com/images/I/4175UWhEc8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8PDPTA-es Plantronics BackBeat Go 3 - Auriculares y Estuche de Carga'
 sku: 'B01N8PDPTA-es'
 tags: [  ]

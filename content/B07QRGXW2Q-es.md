@@ -5,7 +5,7 @@ date: 2020-06-07 18:14:10
 image: 'https://m.media-amazon.com/images/I/41k0K5tKJ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRGXW2Q-es Ellexir - Sillas de Comedor de plástico con Patas de...'
 sku: 'B07QRGXW2Q-es'
 tags: [  ]

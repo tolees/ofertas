@@ -5,7 +5,7 @@ date: 2020-05-15 12:40:33
 image: 'https://m.media-amazon.com/images/I/314bu+C-ZkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PNHZPN-es LNIEGE Anillo de bebé Mam Transparentes de Silicona...'
 sku: 'B086PNHZPN-es'
 tags: [  ]

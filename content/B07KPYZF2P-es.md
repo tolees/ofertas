@@ -5,7 +5,7 @@ date: 2020-03-04 19:11:28
 image: 'https://m.media-amazon.com/images/I/51EpaA4GO8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPYZF2P-es AXT SHADE Toldo Vela de Sombra Rectangular 2 x 3 m...'
 sku: 'B07KPYZF2P-es'
 tags: [  ]

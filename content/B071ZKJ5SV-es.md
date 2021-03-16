@@ -5,7 +5,7 @@ date: 2020-07-02 10:48:15
 image: 'https://m.media-amazon.com/images/I/51dGS579HQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZKJ5SV-es Reloj Lorus - Hombre RH817CX9'
 sku: 'B071ZKJ5SV-es'
 tags: [  ]

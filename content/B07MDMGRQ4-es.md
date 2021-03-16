@@ -5,7 +5,7 @@ date: 2020-08-28 02:29:10
 image: 'https://m.media-amazon.com/images/I/510Y196Np3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDMGRQ4-es Colador de cocina plegable 3PCS Set Cocina Plegable...'
 sku: 'B07MDMGRQ4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-23 21:07:23
 image: 'https://m.media-amazon.com/images/I/311k-mUQ9iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003V42IDE-es Reebok EX-O-FIT High Zapatillas altas Hombre Blanco Int-...'
 sku: 'B003V42IDE-es'
 tags: [  ]

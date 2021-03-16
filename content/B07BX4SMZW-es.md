@@ -5,7 +5,7 @@ date: 2020-04-16 09:06:39
 image: 'https://m.media-amazon.com/images/I/51B491vpG1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BX4SMZW-es Juego de 36 Lana Fieltro Ovillos Colores Suave Kit Fieltro...'
 sku: 'B07BX4SMZW-es'
 tags: [  ]

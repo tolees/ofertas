@@ -5,7 +5,7 @@ date: 2020-02-12 19:45:37
 image: 'https://m.media-amazon.com/images/I/41uIse-J5eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HS7B6NY-es Sharp DR-I470 WH - Radio Internet Digital Estéreo con...'
 sku: 'B07HS7B6NY-es'
 tags: [  ]

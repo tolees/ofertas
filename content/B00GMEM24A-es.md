@@ -5,7 +5,7 @@ date: 2020-03-30 11:55:53
 image: 'https://m.media-amazon.com/images/I/41T6ygbx+JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GMEM24A-es Belkin F8J054btBLK - Cargador para coche 12 W para...'
 sku: 'B00GMEM24A-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-29 16:29:41
 image: 'https://m.media-amazon.com/images/I/41oNa+G3cSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M83VYY3-es Napapijri TALY 2 LS Polo Azul French Blue Bb7 XXXL para...'
 sku: 'B07M83VYY3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-04 07:14:06
 image: 'https://m.media-amazon.com/images/I/4119yzPV5ML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3TTH5X-es IOCHIC Patinete Eléctrico con Bluetooth Niños Unisex Talla...'
 sku: 'B07L3TTH5X-es'
 tags: [  ]

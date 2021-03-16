@@ -5,7 +5,7 @@ date: 2020-05-07 08:06:09
 image: 'https://m.media-amazon.com/images/I/417WI2LwLGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYGQS4X-es Vangold DIY Reloj de pared sin marco espejo grande 3D...'
 sku: 'B01MYGQS4X-es'
 tags: [  ]

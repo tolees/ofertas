@@ -5,7 +5,7 @@ date: 2020-09-11 19:46:09
 image: 'https://m.media-amazon.com/images/I/41rMhuI5M4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YW534HT-es SZBHS Adaptador USB C a USB 3.0 [4 unidades] Adaptador USB...'
 sku: 'B07YW534HT-es'
 tags: [  ]

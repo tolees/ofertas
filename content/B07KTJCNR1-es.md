@@ -5,7 +5,7 @@ date: 2021-03-16 15:46:50
 image: 'https://m.media-amazon.com/images/I/517YhtuA0oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTJCNR1-es Tommy Hilfiger Reloj de Pulsera 1782074'
 sku: 'B07KTJCNR1-es'
 tags: [ 'tommy hilfiger', ]
@@ -29,9 +29,9 @@ Está [Tommy Hilfiger Reloj de Pulsera 1782074](https://www.amazon.es/dp/B07KTJC
 ℹ️:
 
 - Movimiento multifunción
-- 3 ATM de resistencia al agua
 - Grosor de la caja de 7,6 mm
-- Pulsera de malla
+- 3 ATM de resistencia al agua
 - Esfera Blanca
+- Pulsera de malla
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KTJCNR1/?tag=tolees-21)

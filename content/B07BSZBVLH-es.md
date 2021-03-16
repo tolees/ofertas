@@ -5,7 +5,7 @@ date: 2020-01-31 21:11:10
 image: 'https://m.media-amazon.com/images/I/41avZLwswQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSZBVLH-es Wangel Adhesivo 7 Gancho Barra Soportes y Organizadores...'
 sku: 'B07BSZBVLH-es'
 tags: [  ]

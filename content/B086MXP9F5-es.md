@@ -5,7 +5,7 @@ date: 2020-05-24 14:32:23
 image: 'https://m.media-amazon.com/images/I/51wRCiSWWUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086MXP9F5-es Slabo Lámina de Vidrio Premium para MacBook Pro 13" 2018 |...'
 sku: 'B086MXP9F5-es'
 tags: [  ]

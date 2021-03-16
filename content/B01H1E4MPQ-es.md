@@ -5,7 +5,7 @@ date: 2020-06-30 13:39:45
 image: 'https://m.media-amazon.com/images/I/41sXWz6z17L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H1E4MPQ-es LG OM5560 - Microcadena 500 W con Bluetooth 4.0 y USB...'
 sku: 'B01H1E4MPQ-es'
 tags: [  ]

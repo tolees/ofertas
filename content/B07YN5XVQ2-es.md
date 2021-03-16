@@ -5,7 +5,7 @@ date: 2020-08-28 14:50:01
 image: 'https://m.media-amazon.com/images/I/41+8-oxHYSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YN5XVQ2-es Blindecor Estor enrollable translúcido digital Zen...'
 sku: 'B07YN5XVQ2-es'
 tags: [  ]

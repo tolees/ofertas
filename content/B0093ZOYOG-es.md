@@ -5,7 +5,7 @@ date: 2020-04-16 23:15:32
 image: 'https://m.media-amazon.com/images/I/416NTS0u9oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0093ZOYOG-es A.S. Création cenefa autoadhesivo Stick Ups lila 5 00 m x...'
 sku: 'B0093ZOYOG-es'
 tags: [  ]

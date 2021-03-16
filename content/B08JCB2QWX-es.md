@@ -5,7 +5,7 @@ date: 2020-09-20 12:32:15
 image: 'https://m.media-amazon.com/images/I/41PqXREz6hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JCB2QWX-es QLJ Ratón inalámbrico de 2.4GHz Ratón para Juegos...'
 sku: 'B08JCB2QWX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-06 04:16:50
 image: 'https://m.media-amazon.com/images/I/41ZvqpYdusL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082ZZZ81V-es 2PCS Dispensador de pulverizador Oliva Aceite 100ml...'
 sku: 'B082ZZZ81V-es'
 tags: [  ]

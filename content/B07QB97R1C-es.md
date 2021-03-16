@@ -5,7 +5,7 @@ date: 2020-09-29 06:39:39
 image: 'https://m.media-amazon.com/images/I/31YdYILj78L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB97R1C-es PUMA Shift Mesh Tight Mallas Deporte Mujer Black-Blue...'
 sku: 'B07QB97R1C-es'
 tags: [  ]

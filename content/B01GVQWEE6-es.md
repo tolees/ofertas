@@ -5,7 +5,7 @@ date: 2020-03-09 14:32:44
 image: 'https://m.media-amazon.com/images/I/51uJlwvY-eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GVQWEE6-es Prensa Hamburguesas Rellenas con 60 Papeles Encerados...'
 sku: 'B01GVQWEE6-es'
 tags: [  ]

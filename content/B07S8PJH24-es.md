@@ -5,7 +5,7 @@ date: 2020-06-27 15:43:53
 image: 'https://m.media-amazon.com/images/I/31plUKEUwWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8PJH24-es PUMA JARO Zapatillas para Correr de Carretera para Hombre...'
 sku: 'B07S8PJH24-es'
 tags: [  ]

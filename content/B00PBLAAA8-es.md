@@ -5,7 +5,7 @@ date: 2020-01-29 12:59:03
 image: 'https://m.media-amazon.com/images/I/31lhdfL5nBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PBLAAA8-es Mercedes-Benz M1039 Hombre Negro Schwarz 58'
 sku: 'B00PBLAAA8-es'
 tags: [  ]

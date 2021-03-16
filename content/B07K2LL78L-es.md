@@ -5,7 +5,7 @@ date: 2020-08-21 02:10:24
 image: 'https://m.media-amazon.com/images/I/31-7Si1tw2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2LL78L-es Adidas Continental 80 Zapatillas de Gimnasia para Hombre...'
 sku: 'B07K2LL78L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-26 04:29:35
 image: 'https://m.media-amazon.com/images/I/311e6RxpnvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYH7Z33-es Tommy Hilfiger M2285Axwell 11C1 Zapatillas para Hombre...'
 sku: 'B06ZYH7Z33-es'
 tags: [  ]

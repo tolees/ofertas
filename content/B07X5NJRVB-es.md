@@ -5,7 +5,7 @@ date: 2020-05-31 19:28:13
 image: 'https://m.media-amazon.com/images/I/41oS2DKgM1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5NJRVB-es Pnakqil Funda Xiaomi Redmi Note 6 Pro Rosa Ultrafina y...'
 sku: 'B07X5NJRVB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-26 13:08:34
 image: 'https://m.media-amazon.com/images/I/31egm4cmC1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QNR14-es PUMA Radiate XT Pattern WN S Zapatillas Deportivas para...'
 sku: 'B07S7QNR14-es'
 tags: [  ]

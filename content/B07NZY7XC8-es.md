@@ -5,7 +5,7 @@ date: 2020-09-27 15:09:08
 image: 'https://m.media-amazon.com/images/I/31nd8vpt6kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZY7XC8-es Skechers Zinger Zapatillas para Hombre Negro Black...'
 sku: 'B07NZY7XC8-es'
 tags: [  ]

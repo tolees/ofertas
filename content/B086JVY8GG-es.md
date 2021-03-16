@@ -5,7 +5,7 @@ date: 2020-05-12 11:08:51
 image: 'https://m.media-amazon.com/images/I/51251qp0E8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086JVY8GG-es HACR Bolsa Protectora desechable 50 Piezas por Bolsa 3...'
 sku: 'B086JVY8GG-es'
 tags: [  ]

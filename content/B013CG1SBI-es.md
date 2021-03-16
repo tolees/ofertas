@@ -5,7 +5,7 @@ date: 2020-07-08 02:11:20
 image: 'https://m.media-amazon.com/images/I/31y6mfYE5SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013CG1SBI-es Essie Nail Lacquer Número 93 Mezmerised 13 5 ml'
 sku: 'B013CG1SBI-es'
 tags: [  ]

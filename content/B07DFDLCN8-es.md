@@ -5,7 +5,7 @@ date: 2020-03-31 05:15:29
 image: 'https://m.media-amazon.com/images/I/31BwwuX+zIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDLCN8-es Funko Pop! Game of Thrones - Keychain Night King'
 sku: 'B07DFDLCN8-es'
 tags: [  ]

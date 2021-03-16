@@ -5,7 +5,7 @@ date: 2020-02-05 20:32:06
 image: 'https://m.media-amazon.com/images/I/41rB4HPOLXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N13XY2Y-es Skechers Women s Go Run Fast Trainers Blue Navy...'
 sku: 'B07N13XY2Y-es'
 tags: [  ]

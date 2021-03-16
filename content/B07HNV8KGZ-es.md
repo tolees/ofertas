@@ -5,7 +5,7 @@ date: 2020-05-12 13:31:25
 image: 'https://m.media-amazon.com/images/I/415khw8hjDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNV8KGZ-es 100 hojas 4x6in Papel fotográfico para impresión láser a...'
 sku: 'B07HNV8KGZ-es'
 tags: [  ]

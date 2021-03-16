@@ -5,7 +5,7 @@ date: 2020-09-07 18:40:56
 image: 'https://m.media-amazon.com/images/I/61hJKO6WsRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GK8LCS-es FLZONE Gorros de Ducha 4 Piezas Gorro de Ducha Impermeable...'
 sku: 'B089GK8LCS-es'
 tags: [  ]

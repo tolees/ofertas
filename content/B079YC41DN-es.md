@@ -5,7 +5,7 @@ date: 2020-02-14 07:41:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51CM8QcU48L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YC41DN-es Funko Pop!- Hermione Herbology Figura de Vinilo 29502'
 sku: 'B079YC41DN-es'
 tags: [  ]

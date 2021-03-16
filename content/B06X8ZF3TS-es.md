@@ -5,7 +5,7 @@ date: 2020-02-27 23:53:41
 image: 'https://m.media-amazon.com/images/I/51jG4mJO8OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X8ZF3TS-es Bandolera con solapa Pepe Jeans Nicole'
 sku: 'B06X8ZF3TS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-27 13:36:01
 image: 'https://m.media-amazon.com/images/I/41Qd2jWALYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BF7KG7-es Kodak Mini Shot - Impresiones Inalámbricas de 5 X 7.6 cm...'
 sku: 'B077BF7KG7-es'
 tags: [  ]

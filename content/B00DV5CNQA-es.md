@@ -5,7 +5,7 @@ date: 2020-09-02 08:12:47
 image: 'https://m.media-amazon.com/images/I/41++2CKqo6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DV5CNQA-es Superga Classic Zapatillas Unisex Adulto Marrón Brown Dk...'
 sku: 'B00DV5CNQA-es'
 tags: [  ]

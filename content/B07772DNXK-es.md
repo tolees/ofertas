@@ -5,7 +5,7 @@ date: 2020-08-04 09:43:07
 image: 'https://m.media-amazon.com/images/I/41m9mC8tAsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07772DNXK-es Tommy Jeans Hombre Original Ryan-DM0DM03947 Jeans Azul...'
 sku: 'B07772DNXK-es'
 tags: [  ]

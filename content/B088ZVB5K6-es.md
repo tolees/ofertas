@@ -5,7 +5,7 @@ date: 2020-06-17 18:02:10
 image: 'https://m.media-amazon.com/images/I/51chsdXShWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088ZVB5K6-es Fifet Conector coaxial Metal Oro 3 Way RP-SMA Macho a RP-...'
 sku: 'B088ZVB5K6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-29 14:02:13
 image: 'https://m.media-amazon.com/images/I/411aRcpG0ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YFS09AO-es Nike Tanjun S Zapatillas para Niños Negro Black/White 30 EU'
 sku: 'B00YFS09AO-es'
 tags: [  ]

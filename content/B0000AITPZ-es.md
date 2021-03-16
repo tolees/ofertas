@@ -5,7 +5,7 @@ date: 2020-07-01 17:02:35
 image: 'https://m.media-amazon.com/images/I/31yxWuCL6KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000AITPZ-es Kärcher Bolsa de filtro de papel 6.959-130.0'
 sku: 'B0000AITPZ-es'
 tags: [  ]

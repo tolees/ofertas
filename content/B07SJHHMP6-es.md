@@ -5,7 +5,7 @@ date: 2020-07-21 08:18:42
 image: 'https://m.media-amazon.com/images/I/51v27G7+XIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJHHMP6-es Pala de Pádel Masai | Black Crown | Nivel: Avanzado...'
 sku: 'B07SJHHMP6-es'
 tags: [  ]

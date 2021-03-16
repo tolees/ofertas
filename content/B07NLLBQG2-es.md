@@ -5,7 +5,7 @@ date: 2020-05-13 14:43:46
 image: 'https://m.media-amazon.com/images/I/41aSrdo9lcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLLBQG2-es Antipodes Merino Saco de Dormir para bebé niño y niña -...'
 sku: 'B07NLLBQG2-es'
 tags: [  ]

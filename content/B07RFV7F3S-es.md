@@ -5,7 +5,7 @@ date: 2020-04-08 06:05:42
 image: 'https://m.media-amazon.com/images/I/41YrVJ-+gTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFV7F3S-es Arfbear Mini Pistola de Silicona Caliente 50W con 50 PSC...'
 sku: 'B07RFV7F3S-es'
 tags: [  ]

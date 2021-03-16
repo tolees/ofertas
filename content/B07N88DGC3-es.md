@@ -5,7 +5,7 @@ date: 2020-04-16 11:35:45
 image: 'https://m.media-amazon.com/images/I/41G7jLzHEkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N88DGC3-es Pala De Padel Adidas Faster Pink 1 9'
 sku: 'B07N88DGC3-es'
 tags: [  ]

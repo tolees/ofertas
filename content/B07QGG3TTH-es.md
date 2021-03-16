@@ -5,7 +5,7 @@ date: 2020-04-13 14:57:12
 image: 'https://m.media-amazon.com/images/I/41RnCSeywoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGG3TTH-es Pablosky 064554 Botas para Bebés Gris Gris Gris 22 EU'
 sku: 'B07QGG3TTH-es'
 tags: [  ]

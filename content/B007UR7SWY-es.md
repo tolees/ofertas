@@ -5,7 +5,7 @@ date: 2020-02-17 19:31:32
 image: 'https://m.media-amazon.com/images/I/51oawFHklTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007UR7SWY-es Máscara de payaso monstruo Halloween'
 sku: 'B007UR7SWY-es'
 tags: [  ]

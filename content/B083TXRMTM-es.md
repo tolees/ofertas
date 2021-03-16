@@ -5,7 +5,7 @@ date: 2020-06-15 11:52:50
 image: 'https://m.media-amazon.com/images/I/41d5qG5Z5HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TXRMTM-es memumi Delgado para Samsung Galaxy S20 Ultra 6.9" Funda...'
 sku: 'B083TXRMTM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2021-03-16 15:45:34
 image: 'https://m.media-amazon.com/images/I/51+unl1F6rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBJFCJF-es Funko 35763 5 Estrellas: Aladdin: Genie Multi'
 sku: 'B07KBJFCJF-es'
 tags: [ 'funko', ]
@@ -28,9 +28,9 @@ Ahora mismo tienes [Funko 35763 5 Estrellas: Aladdin: Genie  Multi](https://www.
 
 🔎:
 
-- Fabricada en vinilo
+- Figura Funko 5 Star, Genie de Aladdin
 - Este producto encantará a todos los fan de Aladdin
 - Presentada en una caja con ventana que simula un libro
-- Figura Funko 5 Star, Genie de Aladdin
+- Fabricada en vinilo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KBJFCJF/?tag=tolees-21)

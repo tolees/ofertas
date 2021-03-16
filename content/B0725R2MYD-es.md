@@ -5,7 +5,7 @@ date: 2020-03-17 11:50:38
 image: 'https://m.media-amazon.com/images/I/31xSZx76PpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0725R2MYD-es Adidas Terrex Tracerocker Zapatillas de Senderismo para...'
 sku: 'B0725R2MYD-es'
 tags: [  ]

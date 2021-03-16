@@ -5,7 +5,7 @@ date: 2020-05-17 10:06:45
 image: 'https://m.media-amazon.com/images/I/41bc1IdDvZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AQGDY5A-es ZTOP 2 Pack negro SuperSpeed USB 3.0 tipo A hembra a...'
 sku: 'B01AQGDY5A-es'
 tags: [  ]

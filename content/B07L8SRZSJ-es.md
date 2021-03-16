@@ -5,7 +5,7 @@ date: 2020-05-26 20:02:48
 image: 'https://m.media-amazon.com/images/I/41P5+j-LeFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8SRZSJ-es Rubie s- Avengers Disfraz Multicolor small 700672 S'
 sku: 'B07L8SRZSJ-es'
 tags: [  ]

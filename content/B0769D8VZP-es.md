@@ -5,7 +5,7 @@ date: 2020-05-13 16:46:09
 image: 'https://m.media-amazon.com/images/I/41YPwPm-KLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0769D8VZP-es HAORUI Telón De Fondo De Los 3mx3m De Seda Blanca del Sin...'
 sku: 'B0769D8VZP-es'
 tags: [  ]

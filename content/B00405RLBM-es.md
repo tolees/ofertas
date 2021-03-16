@@ -5,7 +5,7 @@ date: 2020-02-21 21:17:46
 image: 'https://m.media-amazon.com/images/I/31C6iu2dVpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00405RLBM-es Kenwood CH580 Picadora 4 cuchillas con accesorio mayonnesa...'
 sku: 'B00405RLBM-es'
 tags: [  ]

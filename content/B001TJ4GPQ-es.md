@@ -5,7 +5,7 @@ date: 2020-03-15 10:02:57
 image: 'https://m.media-amazon.com/images/I/41GgwDxdG+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001TJ4GPQ-es Kärcher Set completo 1/2" de 20metros con pistola de riego...'
 sku: 'B001TJ4GPQ-es'
 tags: [  ]

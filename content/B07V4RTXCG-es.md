@@ -5,7 +5,7 @@ date: 2020-08-14 18:07:18
 image: 'https://m.media-amazon.com/images/I/31YJrwW58RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4RTXCG-es Tommy Hilfiger - Soft Turnlock Lrg Za Carteras Mujer Gris...'
 sku: 'B07V4RTXCG-es'
 tags: [  ]

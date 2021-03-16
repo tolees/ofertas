@@ -5,7 +5,7 @@ date: 2021-02-01 21:31:28
 image: 'https://m.media-amazon.com/images/I/51TuPn4bY1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008F5MRFI-es Varta LR6 - Pilas alcalinas AA 12 unidades plata'
 sku: 'B008F5MRFI-es'
 tags: [ 'varta', ]
@@ -29,8 +29,8 @@ Tienes [Varta LR6  - Pilas alcalinas AA  12 unidades   plata](https://www.amazon
 ℹ️:
 
 - Puede retirar cada batería por separado y distinguir las nuevas de las ya usadas
-- Voltaje de 1.5 V
-- Disponibles en varios paquetes
 - Adecuados para juguetes, equipos de audio, linternas LED y dispositivos informáticos
+- Disponibles en varios paquetes
+- Voltaje de 1.5 V
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B008F5MRFI/?tag=tolees-21)

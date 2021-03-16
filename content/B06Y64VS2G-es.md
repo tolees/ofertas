@@ -5,7 +5,7 @@ date: 2020-03-03 14:31:59
 image: 'https://m.media-amazon.com/images/I/41DqwU5GFRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y64VS2G-es HOMCOM Triciclo para Niños con Capota Desmontable y...'
 sku: 'B06Y64VS2G-es'
 tags: [  ]

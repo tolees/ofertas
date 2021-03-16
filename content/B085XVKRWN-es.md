@@ -5,7 +5,7 @@ date: 2020-08-21 00:10:37
 image: 'https://m.media-amazon.com/images/I/4170lN8dL-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XVKRWN-es Vitamina C 1000mg. Vitamina C natural. Complemento...'
 sku: 'B085XVKRWN-es'
 tags: [  ]

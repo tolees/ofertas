@@ -5,7 +5,7 @@ date: 2020-06-11 16:18:28
 image: 'https://m.media-amazon.com/images/I/41nl13a-wbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V32KNRX-es American Tourister Disney Legends Spinner L Maleta...'
 sku: 'B07V32KNRX-es'
 tags: [  ]

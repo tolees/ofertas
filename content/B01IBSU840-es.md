@@ -5,7 +5,7 @@ date: 2020-05-30 17:57:23
 image: 'https://m.media-amazon.com/images/I/51M2hmiGXyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IBSU840-es Bishilin Acero Inoxidable 6Mm Wedding Anillos de...'
 sku: 'B01IBSU840-es'
 tags: [  ]

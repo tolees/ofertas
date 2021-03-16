@@ -5,7 +5,7 @@ date: 2020-06-10 15:42:53
 image: 'https://m.media-amazon.com/images/I/31G1eYYAAJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC9L27T-es Pepe Jeans Drifter Pantalones Verde Dark Olive 768 W29/L30...'
 sku: 'B07NC9L27T-es'
 tags: [  ]

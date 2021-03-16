@@ -5,7 +5,7 @@ date: 2020-08-04 11:53:48
 image: 'https://m.media-amazon.com/images/I/411d68Od2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ1NMZ8-es KiplingBaroeMujerMonederosNegro Carbon Metallic...'
 sku: 'B07TZ1NMZ8-es'
 tags: [  ]

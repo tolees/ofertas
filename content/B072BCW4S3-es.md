@@ -5,7 +5,7 @@ date: 2020-09-27 13:43:37
 image: 'https://m.media-amazon.com/images/I/61Gsah-PZGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BCW4S3-es Bolero Bebida para el control de peso - 513 gr.'
 sku: 'B072BCW4S3-es'
 tags: [  ]

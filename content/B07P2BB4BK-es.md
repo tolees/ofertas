@@ -5,7 +5,7 @@ date: 2020-02-06 13:14:55
 image: 'https://m.media-amazon.com/images/I/31PapdNBmKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2BB4BK-es Superdry OL Elite Crop Hood Capucha Blanco White 04c...'
 sku: 'B07P2BB4BK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 10:37:32
 image: 'https://m.media-amazon.com/images/I/413iz0pOypL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R1ZR65V-es Under Armour Coldgear Rush S Legging Hombre Negro SM'
 sku: 'B07R1ZR65V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-25 06:51:57
 image: 'https://m.media-amazon.com/images/I/41tk+PB9jwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYYR663-es Under Armour UA Charged Escape 3 Zapatillas para Correr...'
 sku: 'B07PYYR663-es'
 tags: [  ]

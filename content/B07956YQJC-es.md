@@ -5,7 +5,7 @@ date: 2020-01-20 13:41:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XXXqLFt-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07956YQJC-es adidas Lite Racer CLN K Zapatillas de Deporte Unisex...'
 sku: 'B07956YQJC-es'
 tags: [  ]

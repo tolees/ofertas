@@ -5,7 +5,7 @@ date: 2020-02-02 11:49:22
 image: 'https://m.media-amazon.com/images/I/41s2WvKUyvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9QVTKW-es Napapijri Erzin Polo Verde New Olive Green Gd6 X-Large...'
 sku: 'B07L9QVTKW-es'
 tags: [  ]

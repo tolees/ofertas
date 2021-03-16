@@ -5,7 +5,7 @@ date: 2020-05-05 23:20:58
 image: 'https://m.media-amazon.com/images/I/41Kb98aGuML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHD5SXJ-es Helly Hansen Verglas Hooded Down Insulator Jacket Hombre...'
 sku: 'B06XHD5SXJ-es'
 tags: [  ]

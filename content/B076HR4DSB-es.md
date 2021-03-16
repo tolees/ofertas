@@ -5,7 +5,7 @@ date: 2020-08-07 11:18:58
 image: 'https://m.media-amazon.com/images/I/31lzpXaKovL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HR4DSB-es Adidas CORE18 POLO Polo shirt Hombre Black/ White S'
 sku: 'B076HR4DSB-es'
 tags: [  ]

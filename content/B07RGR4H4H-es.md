@@ -5,7 +5,7 @@ date: 2020-09-23 16:28:15
 image: 'https://m.media-amazon.com/images/I/41UsU9xUhnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGR4H4H-es Columbia Rainy Creek Gabardina Impermeable con Capucha...'
 sku: 'B07RGR4H4H-es'
 tags: [  ]

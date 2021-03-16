@@ -5,7 +5,7 @@ date: 2020-08-30 15:36:45
 image: 'https://m.media-amazon.com/images/I/61tB06J0q6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DV51GFY-es Monedas oro Juguete ZoneYan Monedas de oro y Gemas 100...'
 sku: 'B08DV51GFY-es'
 tags: [  ]

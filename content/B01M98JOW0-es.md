@@ -5,7 +5,7 @@ date: 2020-09-12 09:09:45
 image: 'https://m.media-amazon.com/images/I/41uRz-3Kh1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M98JOW0-es Manduca by MAM 199–41–13–003 Deluxe Cover Flex Pluie Cover...'
 sku: 'B01M98JOW0-es'
 tags: [  ]

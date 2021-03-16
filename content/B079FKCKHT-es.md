@@ -5,7 +5,7 @@ date: 2020-04-18 12:03:57
 image: 'https://m.media-amazon.com/images/I/41lxIgaON9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FKCKHT-es Casio EDIFICE Reloj en caja sólida de acero inoxidable 10...'
 sku: 'B079FKCKHT-es'
 tags: [  ]

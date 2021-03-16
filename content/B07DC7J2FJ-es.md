@@ -5,7 +5,7 @@ date: 2020-04-04 08:14:19
 image: 'https://m.media-amazon.com/images/I/319-cO1qMQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC7J2FJ-es Revlon Kiss Tinte para Labios #250 High End Coral'
 sku: 'B07DC7J2FJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-08 07:31:46
 image: 'https://m.media-amazon.com/images/I/41in3eZRVjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTJSD9Z-es Wrangler Texas Contrast Jeans Azul Game On 087 35W / 32L...'
 sku: 'B07TTJSD9Z-es'
 tags: [  ]

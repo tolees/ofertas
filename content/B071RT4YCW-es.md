@@ -5,7 +5,7 @@ date: 2020-05-28 02:53:05
 image: 'https://m.media-amazon.com/images/I/51xAN-pf6pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RT4YCW-es Piquadro Coleos Trolley para portátil Negro Nero'
 sku: 'B071RT4YCW-es'
 tags: [  ]

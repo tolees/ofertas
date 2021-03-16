@@ -5,7 +5,7 @@ date: 2020-05-23 09:04:21
 image: 'https://m.media-amazon.com/images/I/41O3mgyG-nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPB17DQ-es Qhui Protector Asiento Coche Silla Bebe Fundas Asiento...'
 sku: 'B07KPB17DQ-es'
 tags: [  ]

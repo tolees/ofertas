@@ -5,7 +5,7 @@ date: 2020-04-09 09:06:06
 image: 'https://m.media-amazon.com/images/I/41tDXK-+ozL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013PH9D5M-es 5 Piezas Memorias USB 8GB Pendrive Práctico USB 2.0 Flash...'
 sku: 'B013PH9D5M-es'
 tags: [  ]

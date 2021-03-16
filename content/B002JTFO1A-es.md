@@ -5,7 +5,7 @@ date: 2020-07-17 17:23:19
 image: 'https://m.media-amazon.com/images/I/3111de097TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002JTFO1A-es Lancome Hypnose Drama - Rímel negro 6.5 ml'
 sku: 'B002JTFO1A-es'
 tags: [  ]

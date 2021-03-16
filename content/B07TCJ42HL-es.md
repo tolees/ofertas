@@ -5,7 +5,7 @@ date: 2020-02-06 02:15:40
 image: 'https://m.media-amazon.com/images/I/4174+sZa62L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCJ42HL-es ProbioMax X7 [60 billones de CFU] | Fórmula única de...'
 sku: 'B07TCJ42HL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-24 15:22:38
 image: 'https://m.media-amazon.com/images/I/511PlYaDrJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LF7PCSX-es Coronas Perforadoras Meterk 17 PCS Sierras Perforadoras 13...'
 sku: 'B07LF7PCSX-es'
 tags: [  ]

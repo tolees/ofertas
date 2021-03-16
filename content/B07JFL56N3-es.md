@@ -5,7 +5,7 @@ date: 2020-09-14 17:01:50
 image: 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFL56N3-es PUMA Carina L Zapatillas para Mujer Blanco White White...'
 sku: 'B07JFL56N3-es'
 tags: [  ]

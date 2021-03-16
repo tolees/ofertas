@@ -5,7 +5,7 @@ date: 2020-08-09 13:55:34
 image: 'https://m.media-amazon.com/images/I/31zhwdIdxlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGS33YL-es TEEHON Funda de Protección para Sombrilla Funda Parasol...'
 sku: 'B07VGS33YL-es'
 tags: [  ]

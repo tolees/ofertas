@@ -5,7 +5,7 @@ date: 2020-01-08 07:44:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51niSZuMJ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDS2JN1-es Yooka-Laylee and the Impossible Lair'
 sku: 'B07TDS2JN1-es'
 tags: [  ]

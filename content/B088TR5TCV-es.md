@@ -5,7 +5,7 @@ date: 2020-06-13 16:54:48
 image: 'https://m.media-amazon.com/images/I/412zhP5g8jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TR5TCV-es Time COVER 2 Mascarillas Reutilizables con 10 Filtros...'
 sku: 'B088TR5TCV-es'
 tags: [  ]

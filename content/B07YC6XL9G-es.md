@@ -5,7 +5,7 @@ date: 2020-05-30 19:03:06
 image: 'https://m.media-amazon.com/images/I/51A1a4YpkoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YC6XL9G-es MISKQ Funda giratoria Universal para teléfono de 360...'
 sku: 'B07YC6XL9G-es'
 tags: [  ]

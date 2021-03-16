@@ -5,7 +5,7 @@ date: 2020-05-29 12:40:18
 image: 'https://m.media-amazon.com/images/I/41Gm1owjVUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QF7M6J-es Tiny Love Take-Along Mobile Carrousel cuna rosa bebé y...'
 sku: 'B076QF7M6J-es'
 tags: [  ]

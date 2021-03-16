@@ -5,7 +5,7 @@ date: 2020-04-04 07:16:24
 image: 'https://m.media-amazon.com/images/I/41RsJLSZhgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016AFQVA6-es Dormio Ortopédico - Colchón de Eliocel Blanco 150 x 190 cm'
 sku: 'B016AFQVA6-es'
 tags: [  ]

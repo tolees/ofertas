@@ -5,7 +5,7 @@ date: 2020-06-09 12:02:56
 image: 'https://m.media-amazon.com/images/I/21WwG3aP1UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084Z7YKSJ-es Para Oral Para Braun Cepillo de dientes eléctrico...'
 sku: 'B084Z7YKSJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 12:43:40
 image: 'https://m.media-amazon.com/images/I/41IeeBGv2xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077F6TFNV-es Aigostar Koud 33JTL - Climatizador evaporativo con mando a...'
 sku: 'B077F6TFNV-es'
 tags: [  ]

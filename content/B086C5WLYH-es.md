@@ -5,7 +5,7 @@ date: 2020-05-28 19:04:06
 image: 'https://m.media-amazon.com/images/I/41hS-GCAmvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086C5WLYH-es Funda para Samsung Galaxy Note 10 Lite 360°Full Body...'
 sku: 'B086C5WLYH-es'
 tags: [  ]

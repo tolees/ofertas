@@ -5,7 +5,7 @@ date: 2020-08-25 03:23:18
 image: 'https://m.media-amazon.com/images/I/51uv1VEeLoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DR2PLGQ-es WERNNSAI Manta de Hito de la Jungla - 150 x 100 cm Franela...'
 sku: 'B08DR2PLGQ-es'
 tags: [  ]

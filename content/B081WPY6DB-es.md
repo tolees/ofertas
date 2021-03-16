@@ -5,7 +5,7 @@ date: 2020-03-04 11:58:59
 image: 'https://m.media-amazon.com/images/I/51neKgzlreL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081WPY6DB-es El Ministerio del Tiempo - Temporadas 1 a 3 [Blu-ray]'
 sku: 'B081WPY6DB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 00:04:20
 image: 'https://m.media-amazon.com/images/I/41DSt5m0H5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBCSKJS-es Khanomak de Mujer de Manga Larga básica de Cuello V Crop...'
 sku: 'B07HBCSKJS-es'
 tags: [  ]

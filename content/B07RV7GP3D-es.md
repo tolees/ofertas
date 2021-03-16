@@ -5,7 +5,7 @@ date: 2020-08-27 04:00:11
 image: 'https://m.media-amazon.com/images/I/41+AObs5xgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RV7GP3D-es Adidas Originals Continental 80 Zapatillas para Correr...'
 sku: 'B07RV7GP3D-es'
 tags: [  ]

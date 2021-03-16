@@ -5,7 +5,7 @@ date: 2020-03-26 09:04:37
 image: 'https://m.media-amazon.com/images/I/31vd5jiNHEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRJWGCX-es adidas Forest Grove Zapatillas de Gimnasia para Hombre...'
 sku: 'B07SRJWGCX-es'
 tags: [  ]

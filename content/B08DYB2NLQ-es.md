@@ -5,7 +5,7 @@ date: 2020-10-09 20:57:04
 image: 'https://m.media-amazon.com/images/I/61t18zCktML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DYB2NLQ-es yideng Fiesta de Halloween Globos Conjunto Grande de...'
 sku: 'B08DYB2NLQ-es'
 tags: [  ]

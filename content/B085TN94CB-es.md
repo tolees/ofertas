@@ -5,7 +5,7 @@ date: 2020-05-06 15:03:31
 image: 'https://m.media-amazon.com/images/I/31j2E2lwgyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085TN94CB-es luosh Cesto de Ropa Cesto de succión Suspensión Montado en...'
 sku: 'B085TN94CB-es'
 tags: [  ]

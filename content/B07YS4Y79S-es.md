@@ -5,7 +5,7 @@ date: 2020-05-19 15:10:41
 image: 'https://m.media-amazon.com/images/I/51GhU2HdeNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YS4Y79S-es Scitec Endurance Energy hydrogel + caff orange - 12 x 55 ml'
 sku: 'B07YS4Y79S-es'
 tags: [  ]

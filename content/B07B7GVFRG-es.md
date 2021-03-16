@@ -5,7 +5,7 @@ date: 2020-08-22 07:20:46
 image: 'https://m.media-amazon.com/images/I/71QHsxRLPcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B7GVFRG-es Kuman 100pcs WS2812B 5050 Addressable SMD smart rgb led...'
 sku: 'B07B7GVFRG-es'
 tags: [  ]

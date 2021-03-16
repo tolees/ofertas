@@ -5,7 +5,7 @@ date: 2020-10-12 13:26:06
 image: 'https://m.media-amazon.com/images/I/51gMizzFOML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1DZBRM-es HEZHEN Set Cuchillo Cocina 5 Piezas Damascus Cuchillo Chef...'
 sku: 'B07K1DZBRM-es'
 tags: [  ]

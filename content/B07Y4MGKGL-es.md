@@ -5,7 +5,7 @@ date: 2020-07-29 03:08:42
 image: 'https://m.media-amazon.com/images/I/51cLt537P8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4MGKGL-es Luchild Protector de Cuna 360cm Parachoques Protector Cuna...'
 sku: 'B07Y4MGKGL-es'
 tags: [  ]

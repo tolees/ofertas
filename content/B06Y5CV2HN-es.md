@@ -5,7 +5,7 @@ date: 2020-09-18 10:44:33
 image: 'https://m.media-amazon.com/images/I/41KPECSUklL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y5CV2HN-es Vans Herren Classic T - Shirt Blau Navy/white Medium'
 sku: 'B06Y5CV2HN-es'
 tags: [  ]

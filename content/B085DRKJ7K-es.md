@@ -5,7 +5,7 @@ date: 2020-07-05 08:39:21
 image: 'https://m.media-amazon.com/images/I/31VjJ07bcoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085DRKJ7K-es LTDNB Cargador Inalámbrico 10W Qi Wireless Carga Rápida...'
 sku: 'B085DRKJ7K-es'
 tags: [  ]

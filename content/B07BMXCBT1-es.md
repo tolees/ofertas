@@ -5,7 +5,7 @@ date: 2020-07-18 20:15:22
 image: 'https://m.media-amazon.com/images/I/51+1xR-QpML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BMXCBT1-es [12-Unidades]Bolsas al Vacío para Ropa Mantas 50x70cm 3 ud...'
 sku: 'B07BMXCBT1-es'
 tags: [  ]

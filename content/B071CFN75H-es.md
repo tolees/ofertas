@@ -5,7 +5,7 @@ date: 2020-09-13 16:15:07
 image: 'https://m.media-amazon.com/images/I/514SlIVzfOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CFN75H-es Sapphire Nitro+ Radeon RX 580 4GB GDDR5 Tarjeta Grafica Negro'
 sku: 'B071CFN75H-es'
 tags: [  ]

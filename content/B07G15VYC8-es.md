@@ -5,7 +5,7 @@ date: 2020-07-21 15:25:33
 image: 'https://m.media-amazon.com/images/I/41EJG3uR0iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G15VYC8-es New Balance Zapatillas KJ373PDY Azul/Rojo Deporte Unisex...'
 sku: 'B07G15VYC8-es'
 tags: [  ]

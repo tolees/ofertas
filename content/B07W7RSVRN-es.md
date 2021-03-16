@@ -5,7 +5,7 @@ date: 2020-09-07 07:50:17
 image: 'https://m.media-amazon.com/images/I/411Yzgx2gWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7RSVRN-es Tommy Hilfiger Shoulder GS Insert Slim Polo Azul Desert...'
 sku: 'B07W7RSVRN-es'
 tags: [  ]

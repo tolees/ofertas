@@ -5,7 +5,7 @@ date: 2020-07-16 22:38:07
 image: 'https://m.media-amazon.com/images/I/51Cz5dXaBJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4EZU4M-es Bourjois Smokey Stories Sombra de ojos Tono 13 Taupissime...'
 sku: 'B01N4EZU4M-es'
 tags: [  ]

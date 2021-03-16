@@ -5,7 +5,7 @@ date: 2020-01-09 06:01:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dw8ABib5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CMH0HG-es Rimmel London 3 The Only One Lipstick Barra De Labios Mate...'
 sku: 'B015CMH0HG-es'
 tags: [  ]

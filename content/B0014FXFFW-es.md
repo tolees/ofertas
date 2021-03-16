@@ -5,7 +5,7 @@ date: 2020-06-21 15:50:56
 image: 'https://m.media-amazon.com/images/I/51E3fTsPBAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0014FXFFW-es Casio Reloj de Pulsera BEM-116L-1AVEF'
 sku: 'B0014FXFFW-es'
 tags: [  ]

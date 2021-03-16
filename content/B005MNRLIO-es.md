@@ -5,7 +5,7 @@ date: 2020-09-22 05:23:57
 image: 'https://m.media-amazon.com/images/I/41GMydbPdxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005MNRLIO-es APC Surge Arrest Essential - PL5B-DE - Regleta con...'
 sku: 'B005MNRLIO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-23 07:44:15
 image: 'https://m.media-amazon.com/images/I/319p1I-ftWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5LNBFH-es BOSS Starfish Bañador para Hombre Negro Black 007 XL'
 sku: 'B07M5LNBFH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 16:46:07
 image: 'https://m.media-amazon.com/images/I/51t16V88e2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085QNTDQN-es DY Jin Tablero de Juego de matemáticas de Madera con Juego...'
 sku: 'B085QNTDQN-es'
 tags: [  ]

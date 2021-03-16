@@ -5,7 +5,7 @@ date: 2020-06-30 10:23:30
 image: 'https://m.media-amazon.com/images/I/31dux5hDLuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQWPBNW-es Clarks Un Trail Step Mocasines para Hombre Negro Black...'
 sku: 'B07FQWPBNW-es'
 tags: [  ]

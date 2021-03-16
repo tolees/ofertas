@@ -5,7 +5,7 @@ date: 2020-01-07 20:55:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416yqkLHzrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L1LP5GB-es Funko Bobble Captain Marvel: Pop 15 Figura Coleccionable...'
 sku: 'B07L1LP5GB-es'
 tags: [  ]

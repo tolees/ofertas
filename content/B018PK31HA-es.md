@@ -5,7 +5,7 @@ date: 2020-07-09 05:29:35
 image: 'https://m.media-amazon.com/images/I/41Fl9J6cOlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018PK31HA-es Seiko Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B018PK31HA-es'
 tags: [  ]

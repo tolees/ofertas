@@ -5,7 +5,7 @@ date: 2020-01-04 09:37:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Qlrh-3m-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B4X4RUK-es Tous Happy Moments 90ml'
 sku: 'B01B4X4RUK-es'
 tags: [  ]

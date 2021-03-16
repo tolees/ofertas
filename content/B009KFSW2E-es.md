@@ -5,7 +5,7 @@ date: 2020-02-18 23:33:55
 image: 'https://m.media-amazon.com/images/I/41pLPaeYp3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009KFSW2E-es HP 651A - Cartucho de tóner original LaserJet para...'
 sku: 'B009KFSW2E-es'
 tags: [  ]

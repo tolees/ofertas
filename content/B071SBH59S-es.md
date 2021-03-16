@@ -5,7 +5,7 @@ date: 2020-05-15 17:10:58
 image: 'https://m.media-amazon.com/images/I/41-CBK8329L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071SBH59S-es Buscador de Llaves Esky 4 en 1 Key Finder Control remoto...'
 sku: 'B071SBH59S-es'
 tags: [  ]

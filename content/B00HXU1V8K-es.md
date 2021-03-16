@@ -5,7 +5,7 @@ date: 2020-03-20 05:05:15
 image: 'https://m.media-amazon.com/images/I/31GlQ7YM8oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HXU1V8K-es Modern Muse by Estee Lauder Eau de Parfum Spray 50ml'
 sku: 'B00HXU1V8K-es'
 tags: [  ]

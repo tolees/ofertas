@@ -5,7 +5,7 @@ date: 2020-01-27 20:03:20
 image: 'https://m.media-amazon.com/images/I/411GGi5qmZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074XJG13H-es Sharplace 2 Pares CW CCW Piezas de Recambio Portátiles...'
 sku: 'B074XJG13H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 10:03:44
 image: 'https://m.media-amazon.com/images/I/31pIE3-2UoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F2NI0S4-es Bellota 3555 - Tijeras cortacésped para cortar el césped...'
 sku: 'B00F2NI0S4-es'
 tags: [  ]
