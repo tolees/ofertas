@@ -28,9 +28,9 @@ Tienes [Tayg 601354  Bidón 5L](https://www.amazon.es/dp/B005ZUD9AI/?tag=tolees-
 
 🔎:
 
-- Construcción robusta y resistente al impacto
-- Con tapa roscada y caño de salida flexible
-- Ventilación flexible del tubo del canalón en el bote
 - Homologado para transporte de combustible
+- Con tapa roscada y caño de salida flexible
+- Construcción robusta y resistente al impacto
+- Ventilación flexible del tubo del canalón en el bote
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005ZUD9AI/?tag=tolees-21)

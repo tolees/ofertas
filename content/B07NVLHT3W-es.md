@@ -28,10 +28,10 @@ En este momento está [RENOVA Pañuelos De Bolsillo Sensitive Mentol - 6 Paquete
 
 🔎:
 
-- Papel Blanco
+- Dimensión pañuelo abierto: 21x21cm
 - Pañuelos de Bolsillo premium de 4 capas
 - 6 Paquete X 9 Pañuelos Por Paquete
 - Perfume Mentolado
-- Dimensión pañuelo abierto: 21x21cm
+- Papel Blanco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NVLHT3W/?tag=tolees-21)
