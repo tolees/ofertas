@@ -28,10 +28,10 @@ Tienes [Columbia Silver Ridge II Short Cargo  Hombre  Azul  Dark Mountain   W28/
 
 ℹ️:
 
-- Pantalones cortos para hombres con óptima transpiración, elasticidad y espacio de almacenamiento
-- Construcción parcialmente elástica en la cintura para una gran movilidad, Tecnología Omni-Shade con protección solar UPF 50
+- Durabilidad y confort gracias al material de nylon Ripstop transpirable y al tejido elástico, Capacidad de secado rápido gracias a la tecnología Omni-Wick
 - 1x Columbia Silver Ridge II, Pantalones cortos cargo para hombre, Fibra sintética, Azul (Dark Mountain), W28/L10, Art. 1794921
 - Bolsillos cargo, Bolsillo de seguridad con cierre de cremallera y bolsillos detrás, Buen diseño para llevar objetos esenciales y de valor
-- Durabilidad y confort gracias al material de nylon Ripstop transpirable y al tejido elástico, Capacidad de secado rápido gracias a la tecnología Omni-Wick
+- Pantalones cortos para hombres con óptima transpiración, elasticidad y espacio de almacenamiento
+- Construcción parcialmente elástica en la cintura para una gran movilidad, Tecnología Omni-Shade con protección solar UPF 50
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0817HT5BH/?tag=tolees-21)

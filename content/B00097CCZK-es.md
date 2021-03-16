@@ -28,10 +28,10 @@ Ahora mismo tienes [Verbatim DVD-R 4 7 GB / 120 Min / 16X Tarrina  25 Discos  Da
 
 🔎:
 
-- Tipo de medio: DVD
-- Protección AZO
-- 25 unidades
-- Capacidad del disco: 4.7 GB
 - Non-imprimible
+- 25 unidades
+- Protección AZO
+- Capacidad del disco: 4.7 GB
+- Tipo de medio: DVD
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00097CCZK/?tag=tolees-21)

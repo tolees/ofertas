@@ -28,9 +28,9 @@ Tienes [NIKE Paris Saint-Germain Temporada 2020/21-PSG Y NK BRT STAD JSY SS HMCD
 
 🔎:
 
-- Short sleeves
-- Tipo de deporte: atletismo
 - Soccer shirt
+- Tipo de deporte: atletismo
 - Stretch fabric
+- Short sleeves
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DL33DG9/?tag=tolees-21)

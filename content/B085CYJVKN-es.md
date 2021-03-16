@@ -28,10 +28,10 @@ Tienes [Braun Series 6 60-N7650cc Afeitadora Eléctrica  máquina de afeitar bar
 
 ℹ️:
 
-- Afeitadoras para barba 100% resistentes al agua para usarlas en seco y mojado
-- Batería de iones de litio con hasta 3 semanas de autonomía (50 min); Carga rápida en 5 min suficiente para un afeitado
 - Incluye: centro de limpieza SmartCare 4 en 1 y accesorios de recortadora de barba y depiladora corporal
 - Afeitadora eléctrica hombre con SensoFlex: cabezal pivotante testado dermatológicamente para pieles sensibles que se adapta para minimizar la presión cutánea
+- Batería de iones de litio con hasta 3 semanas de autonomía (50 min); Carga rápida en 5 min suficiente para un afeitado
+- Afeitadoras para barba 100% resistentes al agua para usarlas en seco y mojado
 - Láminas SensoFoil diseñadas específicamente para ofrecer un afeitado apurado y bienestar en la piel
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085CYJVKN/?tag=tolees-21)

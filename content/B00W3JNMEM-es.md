@@ -28,8 +28,8 @@ En este momento está [Bushnell Natureview HD MAX Cámara de vigilancia  Unisex 
 
 🔎:
 
-- Resolución de Video: 1920 x 1080p
 - Resolución 14MP a todo color y de máxima calidad 
 - 32 Black LED No-Glow
+- Resolución de Video: 1920 x 1080p
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00W3JNMEM/?tag=tolees-21)

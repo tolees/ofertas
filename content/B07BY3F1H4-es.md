@@ -28,9 +28,9 @@ Tienes [MARSGAMING Mars Gaming MKBC  Teclado Gaming Oficial FC Barcelona  USB  P
 
 🔎:
 
-- DISEÑO COMPACTO: Teclado compacto y potente, diseñado para los escritorios más reducidos; Está equipado con una base metálica y USB chapado en oro para garantizar una mejor conectividad
-- PULSACIÓN OPTIMIZADA: Pulsación optimizada para gaming con teclas elevadas y ratio de respuesta ultra rápido; Capacidad anti-ghosting
 - TECLADO OFICIAL FC BARCELONA: El MKBC, teclado oficial del FC Barcelona, cuenta con un diseño en Azul y granate y el escudo del equipo
+- PULSACIÓN OPTIMIZADA: Pulsación optimizada para gaming con teclas elevadas y ratio de respuesta ultra rápido; Capacidad anti-ghosting
 - COMPATIBILIDAD: Teclado Gaming para PS4 /XBOX ONE / Switch /Windows/Linux/Mac, podrás utilizarlo con tus dispositivos favoritos
+- DISEÑO COMPACTO: Teclado compacto y potente, diseñado para los escritorios más reducidos; Está equipado con una base metálica y USB chapado en oro para garantizar una mejor conectividad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BY3F1H4/?tag=tolees-21)
