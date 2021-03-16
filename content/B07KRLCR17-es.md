@@ -28,9 +28,9 @@ Ahora mismo tienes [New Balance 624v5 M  Zapatillas Mujer  Negro  Triple Black  
 
 🔎:
 
-- Cierre: Cordones
-- Material exterior: Cuero
 - Material de la suela: Sintético
+- Material exterior: Cuero
+- Cierre: Cordones
 - Revestimiento: Tela
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KRLCR17/?tag=tolees-21)

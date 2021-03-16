@@ -28,8 +28,8 @@ En este momento está [Clarks Garratt Street  Zapatos de Cordones Derby Hombre  
 
 🔎:
 
-- Exterior: piel
 - plano
 - Interior: textil
+- Exterior: piel
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TJK9P8X/?tag=tolees-21)

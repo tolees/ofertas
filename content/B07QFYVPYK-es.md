@@ -28,9 +28,9 @@ Ahora mismo tienes [Diesel Pulsera para Hombre DX1185040](https://www.amazon.es/
 
 🔎:
 
-- Medidas: 18 cm-19,5 cm
-- Cierre: Cierre de mosquetón
 - Se presenta en caja de regalo Diesel
+- Cierre: Cierre de mosquetón
 - Esta pulsera coleccionable presenta aros en tres tonos enlazados alrededor de una pulsera de acero inoxidable con cierre de mosquetón.
+- Medidas: 18 cm-19,5 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QFYVPYK/?tag=tolees-21)
