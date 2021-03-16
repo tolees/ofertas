@@ -28,10 +28,10 @@ En este momento está [Habor Termometro de Cocina  5.9   Sonda Larga  5S Lectura
 
 🔎:
 
-- Auto Shutdown : Automatically shuts off after 10 minutes. (Battery Included)
-- High Quality : Made of high quality 304 stainless steel and stored in the plastic tube, this thermometer is perfect for indoor or outdoor use. ( NEVER use the thermometer in a closed oven )
-- Quick and Accurate Read: LCD display shows accurate temperature results in about 10 second
-- Long Probe : 5.9inch long probe keeps you from burning your hands while measuring
 - Wide Temperature Range : Temperature measurement range of -50ºC (-58°F) to 300°C (572º F)
+- Long Probe : 5.9inch long probe keeps you from burning your hands while measuring
+- Quick and Accurate Read: LCD display shows accurate temperature results in about 10 second
+- High Quality : Made of high quality 304 stainless steel and stored in the plastic tube, this thermometer is perfect for indoor or outdoor use. ( NEVER use the thermometer in a closed oven )
+- Auto Shutdown : Automatically shuts off after 10 minutes. (Battery Included)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01DK8EFSG/?tag=tolees-21)

@@ -28,8 +28,8 @@ Está [Maybelline New York Dream Radiant Liquid  Base de Maquillaje Líquida con
 
 ℹ️:
 
-- Elimina los poros, dejando la piel lisa
-- su textura se funde y transforma la piel aportando un acabado satinado
 - la fórmula está enriquecida con un sérum hidratante, para una hidratación de hasta 12 horas
+- su textura se funde y transforma la piel aportando un acabado satinado
+- Elimina los poros, dejando la piel lisa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078GBD86S/?tag=tolees-21)
