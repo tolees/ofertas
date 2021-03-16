@@ -28,10 +28,10 @@ Está [Spectrum Noir SPECN-SPA-CLE3 Sparkle Fine Glitter Purpurina Brush Set de 
 
 ℹ️:
 
-- Spectrum Noir Sparkle Pens 3 pack llamado Clear Overlay
-- Estas plumas contienen micro pigmento fino
 - Agrega un toque de Sparkle con estas fabulosas plumas con brillo de Spectrum Noir
 - Perfecto para todas las cosas ostentosas y brillantes
+- Spectrum Noir Sparkle Pens 3 pack llamado Clear Overlay
 - Con un cepillo de nylon flexible para una aplicación precisa y sin problemas
+- Estas plumas contienen micro pigmento fino
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016WLPYHE/?tag=tolees-21)

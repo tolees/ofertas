@@ -28,10 +28,10 @@ Tienes [HAWKERS New Classic Sunglasses  Negro/Dorado  talla única Unisex-Adult]
 
 🔎:
 
+- Medidas: Frente: 13,95cm; Altura: 4,56cm; Patillas: 14,5cm; Puente: 1,9cm
 - Lentes de TR18 con el sello de Eastman, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistencia
-- Montura fabricada en TR90, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Más ancho para mejorar la ergonomía y confort. Embellecedor piramidal en acero inoxidable que suaviza la unión entre patilla y terminal dándole un acabado más elegante. Almohadillas de silicona antideslizantes y anti-alérgicas.
 - Producto original Hawkers. La caja incluye funda de microfibra, caja y set de pegatinas decorativas.
 - Gafas de Sol New Classic Brown, Unisex, con montura en negro pulido y aros inferiores metálicos dorados y lentes marrones degradadas.
-- Medidas: Frente: 13,95cm; Altura: 4,56cm; Patillas: 14,5cm; Puente: 1,9cm
+- Montura fabricada en TR90, considerado el mejor Nylon para monturas del mundo que proporciona más flexibilidad y resistencia. Más ancho para mejorar la ergonomía y confort. Embellecedor piramidal en acero inoxidable que suaviza la unión entre patilla y terminal dándole un acabado más elegante. Almohadillas de silicona antideslizantes y anti-alérgicas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D9T29SN/?tag=tolees-21)

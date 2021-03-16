@@ -28,8 +28,8 @@ En este momento está [Brother DR241CL - Tambor para impresora  duración estima
 
 🔎:
 
+- Equipos relacionados: HL3140CW,HL3150CDW,HL3170CDW, DCP9015CDW, DCP9020CDW, MFC9140CDN, MFC9330CDW, MFC9340CDW
 - Tambor
 - Duración estimada: 15.000 páginas A4
-- Equipos relacionados: HL3140CW,HL3150CDW,HL3170CDW, DCP9015CDW, DCP9020CDW, MFC9140CDN, MFC9330CDW, MFC9340CDW
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BJOA8A8/?tag=tolees-21)

@@ -28,10 +28,10 @@ Ahora mismo tienes [Festina Reloj de Pulsera F20369/2](https://www.amazon.es/dp/
 
 🔎:
 
-- - Material de la Carcasa: Acero inoxidable
-- - Forma de la Carcasa: Redondo
-- Carcasa
-- - Color de la caja: Negro
 - - Cristal: Cristal Mineral
+- - Forma de la Carcasa: Redondo
+- - Material de la Carcasa: Acero inoxidable
+- - Color de la caja: Negro
+- Carcasa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F9RWLT7/?tag=tolees-21)

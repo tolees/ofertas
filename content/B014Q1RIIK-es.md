@@ -28,10 +28,10 @@ Está [HoMedics MAN-3023A-EU - Set de manicura y pedicura  bañera y secador de 
 
 ℹ️:
 
-- Disco fino y grueso para dar forma; removedor de piel fino y grueso; disco de pulido; puntas gruesas y delgadas de zafiro; punta de bola (zafiro)
 - Rotación bidireccional con control de 2 velocidades
-- Secador de uñas con función de aroma; tanque de agua con suave masaje de burbujas para suavizar la cutícula y las uñas antes de la manicura
 - Cono de grano fino (zafiro); cepillo; elevador de cutícula automático; stick hoof
 - Una amplia gama de herramientas para la manicura y pedicura
+- Secador de uñas con función de aroma; tanque de agua con suave masaje de burbujas para suavizar la cutícula y las uñas antes de la manicura
+- Disco fino y grueso para dar forma; removedor de piel fino y grueso; disco de pulido; puntas gruesas y delgadas de zafiro; punta de bola (zafiro)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B014Q1RIIK/?tag=tolees-21)

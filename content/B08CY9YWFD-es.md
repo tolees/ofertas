@@ -28,9 +28,9 @@ Tienes [Dicora UrbanFit - Dicora Urban Fit® Gel De Baño Detox Blue Tea 750 Ml]
 
 🔎:
 
-- El té azul con su capacidad antioxidante y reparadora, mejora la elasticidad de la piel y elimina el exceso de grasa, dejándola más suave.
-- Hidratación y suavidad para una piel en forma.
-- Extractos naturales de jengibre, canela y té azul.
 - Gel de ducha hidratante con extracto suave y sofisticado de té azul.
+- Hidratación y suavidad para una piel en forma.
+- El té azul con su capacidad antioxidante y reparadora, mejora la elasticidad de la piel y elimina el exceso de grasa, dejándola más suave.
+- Extractos naturales de jengibre, canela y té azul.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CY9YWFD/?tag=tolees-21)

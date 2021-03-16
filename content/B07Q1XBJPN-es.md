@@ -28,11 +28,11 @@ Está [Casio Reloj Digital para Hombre de Cuarzo con Correa en Plástico GBD-800
 
 ℹ️:
 
-- Resistente al agua: 20 bar -peso: 62 g
-- Reloj Casio para los hombres con un movimiento del calendario: día-fecha-mes, bluetooth, cronómetro, cuenta atrás, tiempo Dual, alarma
 - La función Bluetooth se puede utilizar después de la descarga de la Casio "G-SHOCK Conectado" de la aplicación
 - El reloj viene en una caja de regalo con una garantía de 2 años
 - Diámetro de la caja: 48 mm, grueso: 14 mm, color de la caja: gris y color del dial: negro
 - Correa de alta calidad de Plástico gris 21 cm de longitud y 19 mm de ancho con un cierre fibbia
+- Reloj Casio para los hombres con un movimiento del calendario: día-fecha-mes, bluetooth, cronómetro, cuenta atrás, tiempo Dual, alarma
+- Resistente al agua: 20 bar -peso: 62 g
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Q1XBJPN/?tag=tolees-21)

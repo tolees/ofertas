@@ -28,8 +28,8 @@ Tienes [Draper 39223 - Kit Universal de alineación de Embrague](https://www.ama
 
 ℹ️:
 
-- Adecuado para su uso en la mayoría de coches y vehículos comerciales ligeros
 - Fácil de usar
+- Adecuado para su uso en la mayoría de coches y vehículos comerciales ligeros
 - Arbustos de acero fabricados con precisión con acabado químicamente negro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001FCN0DG/?tag=tolees-21)

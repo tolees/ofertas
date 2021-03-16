@@ -28,10 +28,10 @@ Está [SHURE SE215-CL - Auriculares Profesionales con cable sobre la oreja  aisl
 
 ℹ️:
 
-- Cable 64” Detachable (at ear) with wireform fit
-- Frequency Range 22Hz – 17.5kHz
-- Impedance (1kHz) 20 : Noise Attenuation Up to 37 dB
-- Input Connector Gold-plated 3.5 mm (1/8”)
 - Sensitivity (1kHz) 107 dB SPL/mW
+- Input Connector Gold-plated 3.5 mm (1/8”)
+- Impedance (1kHz) 20 : Noise Attenuation Up to 37 dB
+- Frequency Range 22Hz – 17.5kHz
+- Cable 64” Detachable (at ear) with wireform fit
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004V3Q1ZA/?tag=tolees-21)
