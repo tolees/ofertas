@@ -5,7 +5,7 @@ date: 2020-04-03 17:05:49
 image: 'https://m.media-amazon.com/images/I/419MN1w-6fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6BS7P3-es EMPIRE GAMING - Micrófono Gamer PC Mac Consolas – Micro...'
 sku: 'B07S6BS7P3-es'
 tags: [  ]

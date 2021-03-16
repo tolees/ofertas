@@ -5,7 +5,7 @@ date: 2020-03-24 10:37:31
 image: 'https://m.media-amazon.com/images/I/51d0xmSbsbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSK1SBK-es Playtex Soutien-Gorge Emboitant Avec Armatures Essential...'
 sku: 'B07PSK1SBK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 08:25:07
 image: 'https://m.media-amazon.com/images/I/51yL9kauReL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6SDYZC-es KHOMO - Funda para iPad de 9 7 Pulgadas 2017 y 2018 Serie...'
 sku: 'B07D6SDYZC-es'
 tags: [  ]

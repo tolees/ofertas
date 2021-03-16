@@ -5,7 +5,7 @@ date: 2020-08-22 19:40:59
 image: 'https://m.media-amazon.com/images/I/31RE5f9dCSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Z3V9WT-es HP LaserJet Pro M28w - Impresora multifunción láser USB...'
 sku: 'B079Z3V9WT-es'
 tags: [  ]

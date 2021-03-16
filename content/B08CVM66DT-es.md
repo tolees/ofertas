@@ -5,7 +5,7 @@ date: 2020-07-24 11:22:31
 image: 'https://m.media-amazon.com/images/I/41v9r4COBzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVM66DT-es Altavoz inalámbrico portátil A10 Caja de Sonido estéreo...'
 sku: 'B08CVM66DT-es'
 tags: [  ]

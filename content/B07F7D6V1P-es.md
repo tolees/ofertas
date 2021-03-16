@@ -5,7 +5,7 @@ date: 2020-04-02 06:50:17
 image: 'https://m.media-amazon.com/images/I/31MrAuaUitL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7D6V1P-es INTEY Perchero de Pie Perchero Metálico de Árbol de Pie...'
 sku: 'B07F7D6V1P-es'
 tags: [  ]

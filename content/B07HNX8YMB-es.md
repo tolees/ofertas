@@ -5,7 +5,7 @@ date: 2020-05-27 09:31:29
 image: 'https://m.media-amazon.com/images/I/41Wc2Jk5S9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNX8YMB-es Reloj - Menton Ezil - para - TMEUWA9333B01'
 sku: 'B07HNX8YMB-es'
 tags: [  ]

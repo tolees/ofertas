@@ -5,7 +5,7 @@ date: 2020-05-20 03:43:31
 image: 'https://m.media-amazon.com/images/I/31QiCJG1-2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ANSICV2-es Trio Lighting Embassy Trio 603800487-Plafón LED Cuadrado...'
 sku: 'B01ANSICV2-es'
 tags: [  ]

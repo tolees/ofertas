@@ -5,7 +5,7 @@ date: 2020-04-16 00:29:30
 image: 'https://m.media-amazon.com/images/I/51VTkoMiaCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVGZWLH-es Black Tornado Tools Bobina de Hilo para desbrozadora -...'
 sku: 'B07SVGZWLH-es'
 tags: [  ]

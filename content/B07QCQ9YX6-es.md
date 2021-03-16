@@ -5,7 +5,7 @@ date: 2020-04-06 16:44:24
 image: 'https://m.media-amazon.com/images/I/31Sv1HWaTWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCQ9YX6-es Funko Pop Figura De Vinil TV: Mad Men-Betty Coleccionable...'
 sku: 'B07QCQ9YX6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-03 13:08:52
 image: 'https://m.media-amazon.com/images/I/41fm1D5miYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074MDBL6M-es La Silla Española Santander Oficina con Reposacabezas Piel...'
 sku: 'B074MDBL6M-es'
 tags: [  ]

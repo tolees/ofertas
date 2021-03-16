@@ -5,7 +5,7 @@ date: 2020-04-12 15:30:52
 image: 'https://m.media-amazon.com/images/I/51EbAWevDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00455IKWQ-es HP CF031A - Cartucho de tóner'
 sku: 'B00455IKWQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 02:28:42
 image: 'https://m.media-amazon.com/images/I/41RfdNdtXtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RW5Q28Z-es find. Mellor Botas Chukka Gris Charcoal 42 EU'
 sku: 'B07RW5Q28Z-es'
 tags: [  ]

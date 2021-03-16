@@ -5,7 +5,7 @@ date: 2020-03-31 14:34:18
 image: 'https://m.media-amazon.com/images/I/51W5nh2R+-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1MY1BG-es TELMU 10X42 Telescopio Monocular para Movil BAK4 Prisma...'
 sku: 'B07F1MY1BG-es'
 tags: [  ]

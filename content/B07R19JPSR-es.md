@@ -5,7 +5,7 @@ date: 2020-01-24 19:01:10
 image: 'https://m.media-amazon.com/images/I/4101aGlq4hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R19JPSR-es Provide the best 4pcs / Set Universal de reemplazo...'
 sku: 'B07R19JPSR-es'
 tags: [  ]

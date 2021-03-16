@@ -5,7 +5,7 @@ date: 2020-04-28 18:17:10
 image: 'https://m.media-amazon.com/images/I/417JMI4S-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW6BJGT-es Skechers Women s Stamina-Classy Trail Trainers Black...'
 sku: 'B07NW6BJGT-es'
 tags: [  ]

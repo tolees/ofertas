@@ -5,7 +5,7 @@ date: 2020-01-28 13:48:25
 image: 'https://m.media-amazon.com/images/I/41OGjauwQoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHCN2HQ-es Pitaya Afilador De Cuchillos Profesional Amoladora Angular...'
 sku: 'B07ZHCN2HQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-07 15:25:04
 image: 'https://m.media-amazon.com/images/I/41RY91QDbwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LLSD4YE-es adidas Originals Superstar Zapatillas de deporte Unisex...'
 sku: 'B00LLSD4YE-es'
 tags: [  ]

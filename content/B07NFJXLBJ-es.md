@@ -5,7 +5,7 @@ date: 2020-05-20 15:25:50
 image: 'https://m.media-amazon.com/images/I/41JA6aWSD+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFJXLBJ-es Monix Pisa Gold - Set de cubiertos de 24 piezas con...'
 sku: 'B07NFJXLBJ-es'
 tags: [  ]

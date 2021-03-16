@@ -5,7 +5,7 @@ date: 2020-10-09 09:23:01
 image: 'https://m.media-amazon.com/images/I/41WPnTtNmDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0899TKGPV-es PISEN PowerCube 20000 mAh negro cargador portátil portátil...'
 sku: 'B0899TKGPV-es'
 tags: [  ]

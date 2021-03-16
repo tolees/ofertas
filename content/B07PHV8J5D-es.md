@@ -5,7 +5,7 @@ date: 2020-04-20 14:42:10
 image: 'https://m.media-amazon.com/images/I/41TcxxIgWGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHV8J5D-es XTI 49506 Zapatillas para Mujer Azul Navy Navy 38 EU'
 sku: 'B07PHV8J5D-es'
 tags: [  ]

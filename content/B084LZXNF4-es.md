@@ -5,7 +5,7 @@ date: 2020-04-13 00:36:48
 image: 'https://m.media-amazon.com/images/I/51uv9La0VSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084LZXNF4-es Botones de Resina Botones Costura 240 Piezas Colores...'
 sku: 'B084LZXNF4-es'
 tags: [  ]

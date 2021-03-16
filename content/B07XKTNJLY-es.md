@@ -5,7 +5,7 @@ date: 2020-08-17 14:37:35
 image: 'https://m.media-amazon.com/images/I/41PBkyOJpBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKTNJLY-es PUMA Fundamentals Sports Bag S Bolsa Deporte Unisex-Adult...'
 sku: 'B07XKTNJLY-es'
 tags: [  ]

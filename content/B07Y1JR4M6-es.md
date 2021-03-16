@@ -5,7 +5,7 @@ date: 2020-03-26 17:32:06
 image: 'https://m.media-amazon.com/images/I/41ZXE7rH0DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1JR4M6-es AUTLEAD C5 - Compresor Aire Coche 12V Compresor de Aire...'
 sku: 'B07Y1JR4M6-es'
 tags: [  ]

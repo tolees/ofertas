@@ -5,7 +5,7 @@ date: 2020-04-06 17:49:35
 image: 'https://m.media-amazon.com/images/I/417jVbSB-sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKV6PR1-es Under Armour UA W Charged Escape 3 Zapatillas de Running...'
 sku: 'B07HKV6PR1-es'
 tags: [  ]

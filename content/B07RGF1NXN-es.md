@@ -5,7 +5,7 @@ date: 2020-06-02 16:32:13
 image: 'https://m.media-amazon.com/images/I/41lnZlqzpwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGF1NXN-es RenFox Cesta Colgante de Metal Organizador de Cesta...'
 sku: 'B07RGF1NXN-es'
 tags: [  ]

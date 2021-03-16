@@ -5,7 +5,7 @@ date: 2020-03-23 10:16:44
 image: 'https://m.media-amazon.com/images/I/41HXtCWXS7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9N4YJS-es Estación meteorológica inalámbrica Reloj digital colorido...'
 sku: 'B07V9N4YJS-es'
 tags: [  ]

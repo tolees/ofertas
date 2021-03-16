@@ -5,7 +5,7 @@ date: 2020-03-17 12:20:40
 image: 'https://m.media-amazon.com/images/I/41uVmC2JbUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDFL6G2-es 19 compartimentos Bolsa de almacenamiento de viaje de 2 ml...'
 sku: 'B07VDFL6G2-es'
 tags: [  ]

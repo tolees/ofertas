@@ -5,7 +5,7 @@ date: 2020-08-03 19:35:24
 image: 'https://m.media-amazon.com/images/I/41s9UtCwSIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYRTHL8-es ASUS VZ27AQ - Monitor Eye Care de 27 Pulgadas WQHD IPS...'
 sku: 'B06ZYRTHL8-es'
 tags: [  ]

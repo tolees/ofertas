@@ -5,7 +5,7 @@ date: 2020-08-05 15:02:53
 image: 'https://m.media-amazon.com/images/I/41IGE8xW3+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CD8NDR3-es Bullet - Reloj monitor de actividad/podómetro modelo Get-...'
 sku: 'B07CD8NDR3-es'
 tags: [  ]

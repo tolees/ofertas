@@ -5,7 +5,7 @@ date: 2020-07-11 23:24:04
 image: 'https://m.media-amazon.com/images/I/31d2ev4Re4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMX4WZ4-es Clarks Tri Amelia Bar Zapatillas sin Cordones para Mujer...'
 sku: 'B07TMX4WZ4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-27 04:41:02
 image: 'https://m.media-amazon.com/images/I/51B7172y1AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X5G14WY-es Case Logic HDC11B - Funda rígida para Disco Duro de 2.5"...'
 sku: 'B00X5G14WY-es'
 tags: [  ]

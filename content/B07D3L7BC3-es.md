@@ -5,7 +5,7 @@ date: 2020-10-04 23:59:07
 image: 'https://m.media-amazon.com/images/I/511ijVCBEDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3L7BC3-es Campeones [DVD]'
 sku: 'B07D3L7BC3-es'
 tags: [  ]

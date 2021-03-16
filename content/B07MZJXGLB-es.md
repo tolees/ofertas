@@ -5,7 +5,7 @@ date: 2020-04-14 16:56:47
 image: 'https://m.media-amazon.com/images/I/51Cwv85CuVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZJXGLB-es Reloj Inteligente Ninos con Musica MP3 - Smartwatch Niños...'
 sku: 'B07MZJXGLB-es'
 tags: [  ]

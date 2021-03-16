@@ -5,7 +5,7 @@ date: 2020-03-10 10:47:41
 image: 'https://m.media-amazon.com/images/I/41yiWaaKDqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG16CDB-es PUMA LQDCELL Tension Rave Zapatillas Deportivas para...'
 sku: 'B07KG16CDB-es'
 tags: [  ]

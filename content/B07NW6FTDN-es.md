@@ -5,7 +5,7 @@ date: 2020-03-18 04:49:18
 image: 'https://m.media-amazon.com/images/I/41xfoYrQ3iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW6FTDN-es Skechers On-the- Go Joy Botas Altas Mujer Dark Taupe Suede...'
 sku: 'B07NW6FTDN-es'
 tags: [  ]

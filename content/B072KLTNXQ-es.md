@@ -5,7 +5,7 @@ date: 2020-04-28 20:06:56
 image: 'https://m.media-amazon.com/images/I/41IvHdW5pzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KLTNXQ-es Vans Old Skool Zapatillas Unisex Niños Rosa Suede/Canvas...'
 sku: 'B072KLTNXQ-es'
 tags: [  ]

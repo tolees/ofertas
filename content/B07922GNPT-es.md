@@ -5,7 +5,7 @@ date: 2020-04-14 09:26:48
 image: 'https://m.media-amazon.com/images/I/41C3hkhs+rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07922GNPT-es Mini Surveillance Cámara Portable HD CAM Espía HD 1080P...'
 sku: 'B07922GNPT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 14:02:51
 image: 'https://m.media-amazon.com/images/I/31dKCrQMhAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQ1P73C-es TUBBZ Fallout Vault Boy Collectible Duck'
 sku: 'B07WQ1P73C-es'
 tags: [  ]

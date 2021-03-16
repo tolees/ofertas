@@ -5,7 +5,7 @@ date: 2020-08-24 10:18:21
 image: 'https://m.media-amazon.com/images/I/41LfjBW63qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSKWFNH-es KiplingArtMujerBolsos maletínNegro Charcoal 44x27x20...'
 sku: 'B07TSKWFNH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-04 15:34:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Hqv1JoX9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHDD5X2-es Salomon XA Gap Gorra para Entrenamientos Protección UV...'
 sku: 'B07FHDD5X2-es'
 tags: [  ]

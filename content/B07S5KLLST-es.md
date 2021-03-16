@@ -5,7 +5,7 @@ date: 2020-09-06 17:08:26
 image: 'https://m.media-amazon.com/images/I/41ePF9GIh+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5KLLST-es Aigostar Mini Sunshine 30MPX - Tostadora de 2 rebanadas...'
 sku: 'B07S5KLLST-es'
 tags: [  ]

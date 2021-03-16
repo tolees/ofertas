@@ -5,7 +5,7 @@ date: 2020-03-10 16:26:50
 image: 'https://m.media-amazon.com/images/I/41XVpMF3ZBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHC25QY-es JACK & JONES Jcostanford Crew Neck Noos suéter Marrón...'
 sku: 'B07VHC25QY-es'
 tags: [  ]

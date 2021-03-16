@@ -5,7 +5,7 @@ date: 2020-02-25 14:48:47
 image: 'https://m.media-amazon.com/images/I/41ukr+YAnbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSDDHZ4-es Licuadora para Frutas y Verduras de Prensado en Frío...'
 sku: 'B01MSDDHZ4-es'
 tags: [  ]

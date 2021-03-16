@@ -5,7 +5,7 @@ date: 2020-09-20 19:54:50
 image: 'https://m.media-amazon.com/images/I/41BBGlwZaRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBSW24C-es MUSITREND Tocadiscos de Vinilo con 2 Altavoces...'
 sku: 'B07SBSW24C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 11:02:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QXVFoB3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CE9LAC6-es Italian Bed Linen Più Bello Protector de Asiento para Sofá...'
 sku: 'B01CE9LAC6-es'
 tags: [  ]

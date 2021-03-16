@@ -5,7 +5,7 @@ date: 2020-08-12 18:10:28
 image: 'https://m.media-amazon.com/images/I/51ku7vVyOgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BYSPKPG-es Fantasy Flight Games- Star Wars Imperial Assault Boba Fett...'
 sku: 'B01BYSPKPG-es'
 tags: [  ]

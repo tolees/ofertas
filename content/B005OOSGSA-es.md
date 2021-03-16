@@ -5,7 +5,7 @@ date: 2020-09-28 17:36:16
 image: 'https://m.media-amazon.com/images/I/6125v8SWtnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005OOSGSA-es Disney - Cars 2 - DVD'
 sku: 'B005OOSGSA-es'
 tags: [  ]

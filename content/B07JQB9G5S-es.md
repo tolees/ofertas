@@ -5,7 +5,7 @@ date: 2020-03-30 20:41:35
 image: 'https://m.media-amazon.com/images/I/31-kl26szGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQB9G5S-es Tommy Hilfiger Patch Cap Gorra de béisbol Azul Talla única...'
 sku: 'B07JQB9G5S-es'
 tags: [  ]

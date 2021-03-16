@@ -5,7 +5,7 @@ date: 2020-10-09 15:33:52
 image: 'https://m.media-amazon.com/images/I/419m+gCYfbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WKNN1W7-es Skechers Flex Appeal 3.0-Quick Voyage Zapatillas sin...'
 sku: 'B07WKNN1W7-es'
 tags: [  ]

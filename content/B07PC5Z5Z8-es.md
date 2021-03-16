@@ -5,7 +5,7 @@ date: 2020-08-26 15:39:57
 image: 'https://m.media-amazon.com/images/I/414rWUrLoAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PC5Z5Z8-es Lenovo T530 - Ordenador sobremesa Intel Core i7-8700 8GB...'
 sku: 'B07PC5Z5Z8-es'
 tags: [  ]

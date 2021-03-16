@@ -5,7 +5,7 @@ date: 2020-01-15 09:49:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eSx07SF5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXGDGJL-es 12W Lámpara de baño LED Lámpara de espejo Aplique de Baño...'
 sku: 'B07FXGDGJL-es'
 tags: [  ]

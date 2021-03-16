@@ -5,7 +5,7 @@ date: 2020-10-03 11:48:01
 image: 'https://m.media-amazon.com/images/I/411hD7wwU7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHMTP7W-es NIVEA mascarilla facial minimiza los poros urban detox...'
 sku: 'B07DHMTP7W-es'
 tags: [  ]

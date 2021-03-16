@@ -5,7 +5,7 @@ date: 2020-04-20 21:25:52
 image: 'https://m.media-amazon.com/images/I/51aDege7FwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3FPGQL-es HP OMEN 15-dc0000ns - Portátil Gaming de 15.6" FullHD...'
 sku: 'B07F3FPGQL-es'
 tags: [  ]

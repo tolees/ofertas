@@ -5,7 +5,7 @@ date: 2020-02-17 14:55:31
 image: 'https://m.media-amazon.com/images/I/51E5jIeGJ5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NV67Y2C-es ZHENROG Electroestimulador Muscular Gluteos EMS Gluteos...'
 sku: 'B07NV67Y2C-es'
 tags: [  ]

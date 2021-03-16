@@ -5,7 +5,7 @@ date: 2020-05-08 08:42:59
 image: 'https://m.media-amazon.com/images/I/41zLPunMS2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9BV5PL-es Saucony Ride ISO 2 Zapatillas de Running para Hombre Verde...'
 sku: 'B07M9BV5PL-es'
 tags: [  ]

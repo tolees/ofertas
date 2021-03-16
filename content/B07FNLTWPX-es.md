@@ -5,7 +5,7 @@ date: 2020-05-09 00:10:12
 image: 'https://m.media-amazon.com/images/I/41muLzZRaeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNLTWPX-es Clarks Cloud Air T Zapatillas Altas para Niños Azul Navy...'
 sku: 'B07FNLTWPX-es'
 tags: [  ]

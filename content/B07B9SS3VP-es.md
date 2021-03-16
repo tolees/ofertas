@@ -5,7 +5,7 @@ date: 2020-06-19 15:34:09
 image: 'https://m.media-amazon.com/images/I/51S-+KpTRAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9SS3VP-es Tous K Mini Cartera para Mujer Beige 695790024 19.5x11x2...'
 sku: 'B07B9SS3VP-es'
 tags: [  ]

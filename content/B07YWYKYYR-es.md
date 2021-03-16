@@ -5,7 +5,7 @@ date: 2020-01-18 10:02:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41W5loKN-4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWYKYYR-es NUONA Humidificador Ultrasónico Silencioso 400ml Aceites...'
 sku: 'B07YWYKYYR-es'
 tags: [  ]

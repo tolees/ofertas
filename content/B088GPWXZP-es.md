@@ -5,7 +5,7 @@ date: 2020-08-26 11:14:39
 image: 'https://m.media-amazon.com/images/I/61j9B9wMzGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088GPWXZP-es DIY Slime Kit para Niñas Niños Fabrica de Slime con 18...'
 sku: 'B088GPWXZP-es'
 tags: [  ]

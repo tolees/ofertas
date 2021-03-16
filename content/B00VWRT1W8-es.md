@@ -5,7 +5,7 @@ date: 2020-01-27 04:40:08
 image: 'https://m.media-amazon.com/images/I/41p9f9LyjbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VWRT1W8-es Ecus Kids colchón cuna para bebé anti-plagiocefalia - Pigü...'
 sku: 'B00VWRT1W8-es'
 tags: [  ]

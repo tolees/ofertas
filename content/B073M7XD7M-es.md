@@ -5,7 +5,7 @@ date: 2020-07-14 14:57:33
 image: 'https://m.media-amazon.com/images/I/51R4Xcr+djL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073M7XD7M-es Luz LED sumergible luces LED multicolores con control...'
 sku: 'B073M7XD7M-es'
 tags: [  ]

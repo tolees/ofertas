@@ -5,7 +5,7 @@ date: 2020-07-10 19:50:32
 image: 'https://m.media-amazon.com/images/I/31fBW5mBbxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTN3C1Y-es iDesign Organizador de baño portacepillos de dientes de...'
 sku: 'B07PTN3C1Y-es'
 tags: [  ]

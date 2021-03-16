@@ -5,7 +5,7 @@ date: 2020-06-19 15:45:41
 image: 'https://m.media-amazon.com/images/I/417dpkBN4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YC24NJ8-es Irrigador Bucal Portátil de 330ml iTeknic Irrigador Dental...'
 sku: 'B07YC24NJ8-es'
 tags: [  ]

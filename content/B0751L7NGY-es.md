@@ -5,7 +5,7 @@ date: 2020-05-04 13:44:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xF5PTs9kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751L7NGY-es Samsung Gear Fit 2 Pro - Pulsera de Fitness de 1.5 4 GB 1...'
 sku: 'B0751L7NGY-es'
 tags: [  ]

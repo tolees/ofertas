@@ -5,7 +5,7 @@ date: 2020-07-02 14:21:49
 image: 'https://m.media-amazon.com/images/I/41XCDNhI6AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGG1GCT-es Funko Pop! - Warden Figura de Vinilo seria The Elder...'
 sku: 'B06XGG1GCT-es'
 tags: [  ]

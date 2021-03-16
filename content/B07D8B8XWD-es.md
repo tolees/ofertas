@@ -5,7 +5,7 @@ date: 2020-03-19 17:41:24
 image: 'https://m.media-amazon.com/images/I/41fHVt8mP7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8B8XWD-es New Balance Fresh Foam Cruz Sockfit Zapatillas para Hombre...'
 sku: 'B07D8B8XWD-es'
 tags: [  ]

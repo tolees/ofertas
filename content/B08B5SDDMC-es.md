@@ -5,7 +5,7 @@ date: 2020-08-29 10:05:42
 image: 'https://m.media-amazon.com/images/I/31ccOXw1HoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5SDDMC-es alvorog Espejo Maquillaje con Luz LED Espejo de Pared con...'
 sku: 'B08B5SDDMC-es'
 tags: [  ]

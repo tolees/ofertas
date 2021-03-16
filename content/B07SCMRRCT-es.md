@@ -5,7 +5,7 @@ date: 2020-06-10 17:27:48
 image: 'https://m.media-amazon.com/images/I/41Gro7rTcaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCMRRCT-es Lee Rider Tonal Jeans Moto Worn 31W / 34L para Hombre'
 sku: 'B07SCMRRCT-es'
 tags: [  ]

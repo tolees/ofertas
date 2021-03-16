@@ -5,7 +5,7 @@ date: 2020-08-14 05:56:44
 image: 'https://m.media-amazon.com/images/I/41EhSJ-u+rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DLFN67-es Cubierta Webcam JEANGO 9pcs Ultradelgado Webcam Cover...'
 sku: 'B083DLFN67-es'
 tags: [  ]

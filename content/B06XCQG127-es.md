@@ -5,7 +5,7 @@ date: 2020-05-18 10:02:54
 image: 'https://m.media-amazon.com/images/I/31C5tKo1PrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCQG127-es Roberto Verino Agua fresca - 75 ml.'
 sku: 'B06XCQG127-es'
 tags: [  ]

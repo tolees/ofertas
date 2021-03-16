@@ -5,7 +5,7 @@ date: 2020-08-15 14:45:57
 image: 'https://m.media-amazon.com/images/I/61JX2J8g+IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DMM5MC8-es DIY 5D Pintura de Diamante Taladro Parcial Resina Bordado...'
 sku: 'B07DMM5MC8-es'
 tags: [  ]

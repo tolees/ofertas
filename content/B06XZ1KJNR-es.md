@@ -5,7 +5,7 @@ date: 2020-09-06 13:42:11
 image: 'https://m.media-amazon.com/images/I/41W7BePuF7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XZ1KJNR-es Di4 Aspirojet Duo Limpiacristales 2 en 1 Exclusivo Cabezal...'
 sku: 'B06XZ1KJNR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-05 12:30:19
 image: 'https://m.media-amazon.com/images/I/31fztM15eqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQPSCWY-es adidas Saturday Short Pantalones Cortos de Deporte Hombre...'
 sku: 'B07DQPSCWY-es'
 tags: [  ]

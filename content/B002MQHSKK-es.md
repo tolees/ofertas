@@ -5,7 +5,7 @@ date: 2020-09-17 22:23:36
 image: 'https://m.media-amazon.com/images/I/31j7+gIiHYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002MQHSKK-es Brennenstuhl Eco-Line regleta de enchufes con 3 tomas de...'
 sku: 'B002MQHSKK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-10 08:03:02
 image: 'https://m.media-amazon.com/images/I/51GeDjIMenL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K8ZVVA0-es plata Plated Yazilind deslumbrante corte princesa champán...'
 sku: 'B00K8ZVVA0-es'
 tags: [  ]

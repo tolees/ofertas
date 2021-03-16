@@ -5,7 +5,7 @@ date: 2020-05-28 08:34:36
 image: 'https://m.media-amazon.com/images/I/31FEeyqdqBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z7RZ7JA-es Otterbox Alpha Flex Protector de Pantalla Flexible y...'
 sku: 'B00Z7RZ7JA-es'
 tags: [  ]

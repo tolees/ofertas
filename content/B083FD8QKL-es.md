@@ -5,7 +5,7 @@ date: 2020-04-17 00:40:30
 image: 'https://m.media-amazon.com/images/I/51VS2yX8wLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FD8QKL-es Videocámara Camara de Video Ultra HD 2.7K 30MP 18X Zoom...'
 sku: 'B083FD8QKL-es'
 tags: [  ]

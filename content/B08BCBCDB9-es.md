@@ -5,7 +5,7 @@ date: 2020-08-13 17:46:30
 image: 'https://m.media-amazon.com/images/I/51vmqAZJ2UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BCBCDB9-es feihao-Rodillo de Amasar-Rodillos Ajustables de Acero...'
 sku: 'B08BCBCDB9-es'
 tags: [  ]

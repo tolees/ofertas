@@ -5,7 +5,7 @@ date: 2020-05-06 14:34:42
 image: 'https://m.media-amazon.com/images/I/412tEoRE89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3N8F9N-es Pour Moi? Opulence Underwired Bra Sujetador con Aros Beige...'
 sku: 'B07V3N8F9N-es'
 tags: [  ]

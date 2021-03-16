@@ -5,7 +5,7 @@ date: 2020-05-22 12:05:51
 image: 'https://m.media-amazon.com/images/I/31dnFb5n23L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZ18NX7-es Parasol Profesional de Repuesto para Lente de Objetivo...'
 sku: 'B07NZ18NX7-es'
 tags: [  ]

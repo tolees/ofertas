@@ -5,7 +5,7 @@ date: 2020-03-02 17:16:18
 image: 'https://m.media-amazon.com/images/I/21XJikuIQZL._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZV4X79-es TOUS - Pendientes BRIGHT cristal de roca hidrotermal'
 sku: 'B07TZV4X79-es'
 tags: [  ]

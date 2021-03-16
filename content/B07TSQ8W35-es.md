@@ -5,7 +5,7 @@ date: 2020-07-12 22:35:54
 image: 'https://m.media-amazon.com/images/I/41XBXApiy5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ8W35-es Skechers Ingram Streetway Zapatillas sin Cordones para...'
 sku: 'B07TSQ8W35-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-05 10:16:52
 image: 'https://m.media-amazon.com/images/I/41655fYf-7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMMG2TG-es Crucial Ballistix Tactical Tracer BLT2K8G4D32AET4K RGB...'
 sku: 'B07WMMG2TG-es'
 tags: [  ]

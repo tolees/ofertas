@@ -5,7 +5,7 @@ date: 2020-06-25 13:52:52
 image: 'https://m.media-amazon.com/images/I/51Q5dC08ztL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NJY47R-es Medidor de Contornos Careslong 10"/250MM Herramienta de...'
 sku: 'B082NJY47R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-08 13:32:10
 image: 'https://m.media-amazon.com/images/I/51uL559HO9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J37RVPQ-es Under Armour Playoff 2.0 Polo Hombre Morado Optic...'
 sku: 'B07J37RVPQ-es'
 tags: [  ]

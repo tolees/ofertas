@@ -5,7 +5,7 @@ date: 2020-07-19 12:42:14
 image: 'https://m.media-amazon.com/images/I/41-fon5PYGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GYQDNH3-es HICKIES Cordones Elásticos No-Tie 2.0 Performance - Taupe Tan'
 sku: 'B07GYQDNH3-es'
 tags: [  ]

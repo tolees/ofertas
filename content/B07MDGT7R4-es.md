@@ -5,7 +5,7 @@ date: 2020-02-12 03:07:56
 image: 'https://m.media-amazon.com/images/I/31yi2n+uwnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDGT7R4-es Skechers Girls OMNE SCHOLASTIC STYLE Trainers Black Black...'
 sku: 'B07MDGT7R4-es'
 tags: [  ]

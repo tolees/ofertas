@@ -5,7 +5,7 @@ date: 2020-08-07 08:46:20
 image: 'https://m.media-amazon.com/images/I/41ckZQPNVHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3LZT9F-es Love MoschinoJc4289pp0aMujerBolso de manoNegro Black...'
 sku: 'B07V3LZT9F-es'
 tags: [  ]

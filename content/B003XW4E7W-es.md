@@ -5,7 +5,7 @@ date: 2020-03-05 09:46:22
 image: 'https://m.media-amazon.com/images/I/41s7EafMz3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XW4E7W-es HP CE323A 128A Cartucho de Tóner Original 1 unidad magenta'
 sku: 'B003XW4E7W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-19 00:37:37
 image: 'https://m.media-amazon.com/images/I/417lZnf4aIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KP5SN2V-es Lámpara Secador de Uñas NAVANINO LED/UV Gel Esmalte de...'
 sku: 'B07KP5SN2V-es'
 tags: [  ]

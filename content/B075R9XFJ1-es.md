@@ -5,7 +5,7 @@ date: 2020-01-23 07:16:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31UZvlgHKhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R9XFJ1-es Suavinex 304006 biberón Physio Panda 360 ml'
 sku: 'B075R9XFJ1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 18:52:27
 image: 'https://m.media-amazon.com/images/I/41uzAF3EWaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKT1W65-es LG 27UL850-W - Monitor 4K UHD de 68 6 cm 27" con Panel IPS...'
 sku: 'B07MKT1W65-es'
 tags: [  ]

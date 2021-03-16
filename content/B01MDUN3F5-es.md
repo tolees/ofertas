@@ -5,7 +5,7 @@ date: 2020-04-12 15:45:34
 image: 'https://m.media-amazon.com/images/I/41VQiE6hz7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDUN3F5-es Coffret EMC Legacy'
 sku: 'B01MDUN3F5-es'
 tags: [  ]

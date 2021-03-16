@@ -5,7 +5,7 @@ date: 2020-05-28 11:40:14
 image: 'https://m.media-amazon.com/images/I/31hB1c+OUoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H57N8SK-es Cooler Master MasterBox MB520 RGB ATX Mid-Tower con Panel...'
 sku: 'B07H57N8SK-es'
 tags: [  ]

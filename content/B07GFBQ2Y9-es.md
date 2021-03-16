@@ -5,7 +5,7 @@ date: 2020-09-13 23:46:42
 image: 'https://m.media-amazon.com/images/I/31hpJFKM5TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFBQ2Y9-es Canon Zoemini Pv-123 - Mini Impresora Bluetooth USB 314 x...'
 sku: 'B07GFBQ2Y9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-05 15:01:09
 image: 'https://m.media-amazon.com/images/I/41keTGY1HuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXXVC78-es LvShui Stranger Things Samsung Galaxy A9 Stae Pro Funda...'
 sku: 'B08CXXVC78-es'
 tags: [  ]

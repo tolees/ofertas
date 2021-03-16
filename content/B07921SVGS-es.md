@@ -5,7 +5,7 @@ date: 2020-04-01 11:38:10
 image: 'https://m.media-amazon.com/images/I/41f8uPuQ1DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07921SVGS-es Nike Park18 Knit Pantalónes de Entrenamiento Hombre Negro...'
 sku: 'B07921SVGS-es'
 tags: [  ]

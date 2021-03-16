@@ -5,7 +5,7 @@ date: 2020-04-02 20:31:32
 image: 'https://m.media-amazon.com/images/I/51TEDxyaE1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4FN48X-es Autel MaxiCOM MK908 OBD2 Coche Herramienta de Escáner con...'
 sku: 'B07V4FN48X-es'
 tags: [  ]

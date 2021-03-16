@@ -5,7 +5,7 @@ date: 2020-05-20 13:33:00
 image: 'https://m.media-amazon.com/images/I/31RUsdlmnrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811PWTZ6-es Tamaño portátil Round Airplay 1080P Wireless WiFi Display...'
 sku: 'B0811PWTZ6-es'
 tags: [  ]

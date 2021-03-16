@@ -5,7 +5,7 @@ date: 2020-05-31 11:42:54
 image: 'https://m.media-amazon.com/images/I/41nazR0irQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ORHLZ8-es 3 5 mm Estéreo Conector Jack Divisor Adaptador Cable Cable...'
 sku: 'B003ORHLZ8-es'
 tags: [  ]

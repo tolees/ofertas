@@ -5,7 +5,7 @@ date: 2020-05-21 21:43:05
 image: 'https://m.media-amazon.com/images/I/41XRms4KvhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002STCCMU-es Stanley FatMax Taller de laminado de metal-plástico...'
 sku: 'B002STCCMU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:07:53
 image: 'https://m.media-amazon.com/images/I/51F15tcSgUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCYKC77-es 60g 0.13lb té negro hecho a mano de China Yunnan Dianhong...'
 sku: 'B07FCYKC77-es'
 tags: [  ]

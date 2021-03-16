@@ -5,7 +5,7 @@ date: 2020-07-06 09:09:33
 image: 'https://m.media-amazon.com/images/I/51lpllS2aCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0847WWP3T-es Oddworld: Stranger s Wrath HD'
 sku: 'B0847WWP3T-es'
 tags: [  ]

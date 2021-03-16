@@ -5,7 +5,7 @@ date: 2020-03-07 18:50:45
 image: 'https://m.media-amazon.com/images/I/51mzaZpZ7QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JK63LH3-es dreamlock Pedales con articulado de construcción 261 pcs...'
 sku: 'B07JK63LH3-es'
 tags: [  ]

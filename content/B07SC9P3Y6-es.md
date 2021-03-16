@@ -5,7 +5,7 @@ date: 2020-03-29 15:22:34
 image: 'https://m.media-amazon.com/images/I/41ocMSkLP+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC9P3Y6-es Levi s Reddinger Botas Slouch para Hombre Negro R Black 59...'
 sku: 'B07SC9P3Y6-es'
 tags: [  ]

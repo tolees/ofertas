@@ -5,7 +5,7 @@ date: 2020-07-09 23:05:39
 image: 'https://m.media-amazon.com/images/I/41OSxHybElL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0858ZVXR1-es Oihxse Funda Huawei P Smart 2019/Honor 10 Lite Ultra...'
 sku: 'B0858ZVXR1-es'
 tags: [  ]

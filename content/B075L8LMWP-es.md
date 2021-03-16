@@ -5,7 +5,7 @@ date: 2020-04-22 09:34:06
 image: 'https://m.media-amazon.com/images/I/51eiWF93GXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075L8LMWP-es Memoria Flash USB 128MB 10 Piezas Pen Drives - Pequeña...'
 sku: 'B075L8LMWP-es'
 tags: [  ]

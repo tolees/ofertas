@@ -5,7 +5,7 @@ date: 2020-01-15 08:36:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AZqqfkwEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHN91BB-es Swimways 6038062 - Pelota de fútbol Luminosa reactorz...'
 sku: 'B06XHN91BB-es'
 tags: [  ]

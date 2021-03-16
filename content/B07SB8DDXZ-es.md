@@ -5,7 +5,7 @@ date: 2020-09-01 13:54:03
 image: 'https://m.media-amazon.com/images/I/51t2EDsyPhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB8DDXZ-es Purina DentaLife Snack Dental para Gato con Sabor a Salmón...'
 sku: 'B07SB8DDXZ-es'
 tags: [  ]

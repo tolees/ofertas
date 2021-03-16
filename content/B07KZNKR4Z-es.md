@@ -5,7 +5,7 @@ date: 2020-04-14 10:07:51
 image: 'https://m.media-amazon.com/images/I/418D8iXH+EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZNKR4Z-es Alex Perry Regalo Día de la Madre pulseras mujer pulsera...'
 sku: 'B07KZNKR4Z-es'
 tags: [  ]

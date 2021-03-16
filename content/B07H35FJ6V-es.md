@@ -5,7 +5,7 @@ date: 2020-06-12 13:45:30
 image: 'https://m.media-amazon.com/images/I/51ikrRAKoXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H35FJ6V-es Caseflex CS000002AP - Carcasa de gel transparente para...'
 sku: 'B07H35FJ6V-es'
 tags: [  ]

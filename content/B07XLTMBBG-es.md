@@ -5,7 +5,7 @@ date: 2020-03-14 08:41:12
 image: 'https://m.media-amazon.com/images/I/31XuCsvt7OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLTMBBG-es Cybex - Silla de coche grupo 0+/1 Sirona M2 i-size desde...'
 sku: 'B07XLTMBBG-es'
 tags: [  ]

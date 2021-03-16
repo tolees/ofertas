@@ -5,7 +5,7 @@ date: 2020-01-23 12:38:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31LUCbFmuCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B658BLP-es Super Impulse Llavero Tiny Arcade Dig Dug Multicolor...'
 sku: 'B07B658BLP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-17 16:21:44
 image: 'https://m.media-amazon.com/images/I/41SretzDxsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008RHG27S-es Cuerda Bungee Elástica Red De Carga Para Motocicleta Casco...'
 sku: 'B008RHG27S-es'
 tags: [  ]

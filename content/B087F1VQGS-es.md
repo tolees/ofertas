@@ -5,7 +5,7 @@ date: 2020-04-27 12:46:17
 image: 'https://m.media-amazon.com/images/I/519q+5VQ8iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087F1VQGS-es Naruto Sudaderas con Capucha de Manga Larga de otoño...'
 sku: 'B087F1VQGS-es'
 tags: [  ]

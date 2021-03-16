@@ -5,7 +5,7 @@ date: 2020-03-13 05:39:22
 image: 'https://m.media-amazon.com/images/I/51Laotqq+HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0083XFHIG-es Timex Expedition Rugged - Reloj análogico de cuarzo con...'
 sku: 'B0083XFHIG-es'
 tags: [  ]

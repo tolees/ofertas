@@ -5,7 +5,7 @@ date: 2020-05-08 18:00:37
 image: 'https://m.media-amazon.com/images/I/51DHYu9AxvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NM5KG4-es Lenovo Ideapad 520S-14IKB - Ordenador Portátil de 14"...'
 sku: 'B075NM5KG4-es'
 tags: [  ]

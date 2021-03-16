@@ -5,7 +5,7 @@ date: 2020-05-27 19:34:33
 image: 'https://m.media-amazon.com/images/I/51qFEIekXtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X67MLNC-es Chupa Chups Sin Azúcar Caramelo con Palo de Sabores...'
 sku: 'B07X67MLNC-es'
 tags: [  ]

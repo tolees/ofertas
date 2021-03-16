@@ -5,7 +5,7 @@ date: 2020-08-08 20:11:07
 image: 'https://m.media-amazon.com/images/I/41+8+wP9gSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4P1KQB-es Triumph Tempting Lace Tai Braguita Azul Peacock 1512 36...'
 sku: 'B07V4P1KQB-es'
 tags: [  ]

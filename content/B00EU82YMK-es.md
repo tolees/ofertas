@@ -5,7 +5,7 @@ date: 2020-02-24 11:26:38
 image: 'https://m.media-amazon.com/images/I/31Jmxax+W9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EU82YMK-es Jeanne Piaubert Suprem`Advance Premium Sérum 30 ml'
 sku: 'B00EU82YMK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 04:44:31
 image: 'https://m.media-amazon.com/images/I/31cb5GktFIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYQDKQ5-es Superga 2750-cotcontrastu Zapatillas de Gimnasia Unisex...'
 sku: 'B07TYQDKQ5-es'
 tags: [  ]

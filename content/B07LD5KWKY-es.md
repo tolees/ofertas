@@ -5,7 +5,7 @@ date: 2020-01-26 10:27:22
 image: 'https://m.media-amazon.com/images/I/61FaCw8iqZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LD5KWKY-es Shayson Paquete de 16 Mascarilla rcp CPR Máscara de...'
 sku: 'B07LD5KWKY-es'
 tags: [  ]

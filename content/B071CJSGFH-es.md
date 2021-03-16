@@ -5,7 +5,7 @@ date: 2020-05-29 13:59:54
 image: 'https://m.media-amazon.com/images/I/41cXIlsdyoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CJSGFH-es POWERADD Versión Mejorada Pilot 2GS Power Bank 10000mAh...'
 sku: 'B071CJSGFH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 08:01:25
 image: 'https://m.media-amazon.com/images/I/210ptUyeMGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LZGNGV-es Samsung - Funda Clear View para Galaxy S20+ negro'
 sku: 'B083LZGNGV-es'
 tags: [  ]

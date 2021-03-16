@@ -5,7 +5,7 @@ date: 2020-01-13 19:50:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vK77cWVPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVHSHX7-es Weideworld [2 Pack Protector de Pantalla para Realme X2...'
 sku: 'B07ZVHSHX7-es'
 tags: [  ]

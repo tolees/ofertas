@@ -5,7 +5,7 @@ date: 2020-02-28 12:06:33
 image: 'https://m.media-amazon.com/images/I/41k4RzRcSVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW7VXC4-es Skechers Women s SYNERGY Ankle Boots Brown Chestnut Micro...'
 sku: 'B07NW7VXC4-es'
 tags: [  ]

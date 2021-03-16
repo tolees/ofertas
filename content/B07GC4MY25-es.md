@@ -5,7 +5,7 @@ date: 2020-03-31 11:01:42
 image: 'https://m.media-amazon.com/images/I/41ReWJZRkAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GC4MY25-es TECCPO Cortabordes 18V 2.0Ah Cortacésped sin Cable 2X...'
 sku: 'B07GC4MY25-es'
 tags: [  ]

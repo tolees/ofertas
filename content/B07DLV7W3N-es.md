@@ -5,7 +5,7 @@ date: 2020-04-28 05:35:18
 image: 'https://m.media-amazon.com/images/I/416W5-T29WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLV7W3N-es SAMSONITE Pro-DLX 5 - Bailhandle for 14.1 Laptop 1 KG...'
 sku: 'B07DLV7W3N-es'
 tags: [  ]

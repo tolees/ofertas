@@ -5,7 +5,7 @@ date: 2020-03-29 19:32:20
 image: 'https://m.media-amazon.com/images/I/31p3O5qfXZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001RSVPEO-es Reebok Classic Leather Zapatillas de Running Niños Blanco...'
 sku: 'B001RSVPEO-es'
 tags: [  ]

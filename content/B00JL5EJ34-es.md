@@ -5,7 +5,7 @@ date: 2020-09-27 07:50:32
 image: 'https://m.media-amazon.com/images/I/413jUI6gMqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JL5EJ34-es Sundis ORGAMIX A4 MM 3 cajones Plata'
 sku: 'B00JL5EJ34-es'
 tags: [  ]

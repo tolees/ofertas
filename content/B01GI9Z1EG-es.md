@@ -5,7 +5,7 @@ date: 2020-02-05 00:49:49
 image: 'https://m.media-amazon.com/images/I/51uzXOrCuhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GI9Z1EG-es Reloj - Casio - para - AE-1000W-1A3VCF'
 sku: 'B01GI9Z1EG-es'
 tags: [  ]

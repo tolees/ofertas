@@ -5,7 +5,7 @@ date: 2020-10-09 12:26:34
 image: 'https://m.media-amazon.com/images/I/41DWmSlXAJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002B8IMT0-es Tommee Tippee Biberones Closer to Nature 150 ml 1 Unidad...'
 sku: 'B002B8IMT0-es'
 tags: [  ]

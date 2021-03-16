@@ -5,7 +5,7 @@ date: 2020-01-02 09:13:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41faEXrbMcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077RWSMHV-es MYCARBON Escala del Equipaje Pesa Maletas Báscula Digital...'
 sku: 'B077RWSMHV-es'
 tags: [  ]

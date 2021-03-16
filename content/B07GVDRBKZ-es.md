@@ -5,7 +5,7 @@ date: 2020-09-19 06:53:24
 image: 'https://m.media-amazon.com/images/I/51oTlFsiPLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVDRBKZ-es TACKLIFE Bandas de Lija 10PCS 75x457mm Papeles de Lija...'
 sku: 'B07GVDRBKZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 20:36:55
 image: 'https://m.media-amazon.com/images/I/410kXhsP73L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VYN6KG-es Intex 58652EU - Manguitos hinchables marino 23x15 cm de 3...'
 sku: 'B000VYN6KG-es'
 tags: [  ]

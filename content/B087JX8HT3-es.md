@@ -5,7 +5,7 @@ date: 2020-07-14 23:01:42
 image: 'https://m.media-amazon.com/images/I/21-hzD5fvHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JX8HT3-es Blindecor Ara Estor Enrollable translúcido Liso Poliéster...'
 sku: 'B087JX8HT3-es'
 tags: [  ]

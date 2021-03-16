@@ -5,7 +5,7 @@ date: 2020-06-27 19:45:44
 image: 'https://m.media-amazon.com/images/I/41xtRs6qz7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXSSM83-es 5pcs Niños Pinceles Cepillo De Mango De Plástico para...'
 sku: 'B07KXSSM83-es'
 tags: [  ]

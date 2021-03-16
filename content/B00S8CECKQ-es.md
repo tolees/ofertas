@@ -5,7 +5,7 @@ date: 2020-08-28 22:58:31
 image: 'https://m.media-amazon.com/images/I/41ljl-cfAPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S8CECKQ-es Energy Sistem Earphones Urban 2 Black Auriculares In-Ear...'
 sku: 'B00S8CECKQ-es'
 tags: [  ]

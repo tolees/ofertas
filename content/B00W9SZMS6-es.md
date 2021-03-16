@@ -5,7 +5,7 @@ date: 2020-05-26 10:41:46
 image: 'https://m.media-amazon.com/images/I/51frUpj4ERL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W9SZMS6-es Calvin Klein Radiant Cotton-Bikini Tanga Negro Black 001...'
 sku: 'B00W9SZMS6-es'
 tags: [  ]

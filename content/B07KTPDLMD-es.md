@@ -5,7 +5,7 @@ date: 2020-10-04 23:03:39
 image: 'https://m.media-amazon.com/images/I/41V0tOcFfxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTPDLMD-es Hugo BOSS Reloj de pulsera 1513679'
 sku: 'B07KTPDLMD-es'
 tags: [  ]

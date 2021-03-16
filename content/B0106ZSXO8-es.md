@@ -5,7 +5,7 @@ date: 2020-07-17 16:01:51
 image: 'https://m.media-amazon.com/images/I/510KJpn35RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0106ZSXO8-es Trespass - Tartera/mochila para la comida Modelo Playpiece...'
 sku: 'B0106ZSXO8-es'
 tags: [  ]

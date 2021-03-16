@@ -5,7 +5,7 @@ date: 2020-04-20 11:52:27
 image: 'https://m.media-amazon.com/images/I/31CmYx8vNzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776ZRJ4P-es Tommy Hilfiger Original Fine Pique Polo Blanco Classic...'
 sku: 'B0776ZRJ4P-es'
 tags: [  ]

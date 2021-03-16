@@ -5,7 +5,7 @@ date: 2020-10-08 15:37:13
 image: 'https://m.media-amazon.com/images/I/41XJ76QgS+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6SWSP7-es Kipling PARAC Bolsa de Aseo 22 cm 4.5 Liters Azul Blue Bleu'
 sku: 'B07V6SWSP7-es'
 tags: [  ]

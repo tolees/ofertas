@@ -5,7 +5,7 @@ date: 2020-09-09 06:43:05
 image: 'https://m.media-amazon.com/images/I/410P5MEdr3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0744GPJQK-es Eau Majeure 50 Ml.'
 sku: 'B0744GPJQK-es'
 tags: [  ]

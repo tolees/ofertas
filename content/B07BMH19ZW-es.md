@@ -5,7 +5,7 @@ date: 2020-01-09 23:09:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51CDsQbyqaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BMH19ZW-es South Park: Retaguardia en Peligro'
 sku: 'B07BMH19ZW-es'
 tags: [  ]

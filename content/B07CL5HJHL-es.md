@@ -5,7 +5,7 @@ date: 2020-10-03 09:10:32
 image: 'https://m.media-amazon.com/images/I/519EhVID5KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CL5HJHL-es BEN 10 - Alien Creation Chamber Laboratorio Crea Aliens...'
 sku: 'B07CL5HJHL-es'
 tags: [  ]

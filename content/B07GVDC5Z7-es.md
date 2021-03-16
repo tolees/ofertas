@@ -5,7 +5,7 @@ date: 2020-05-27 16:35:04
 image: 'https://m.media-amazon.com/images/I/41m4uq7fByL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVDC5Z7-es Xiaomi Mix 2S - Smartphone con Pantalla de 5.99" Memoria 6...'
 sku: 'B07GVDC5Z7-es'
 tags: [  ]

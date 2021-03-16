@@ -5,7 +5,7 @@ date: 2020-03-01 17:04:39
 image: 'https://m.media-amazon.com/images/I/41tnC7msJzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CM1SZTF-es GLEADING Ventilador portátil Control táctil Inteligente...'
 sku: 'B07CM1SZTF-es'
 tags: [  ]

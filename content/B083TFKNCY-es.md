@@ -5,7 +5,7 @@ date: 2020-07-16 22:08:00
 image: 'https://m.media-amazon.com/images/I/41BVZe0QqqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TFKNCY-es NETVIP Repetidor WiFi AC1200 Extensor WiFi Amplificador...'
 sku: 'B083TFKNCY-es'
 tags: [  ]

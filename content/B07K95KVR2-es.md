@@ -5,7 +5,7 @@ date: 2020-07-04 09:30:16
 image: 'https://m.media-amazon.com/images/I/21IuLngCyiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K95KVR2-es Motorola Lifestyle VerveLoop200 - Auriculares...'
 sku: 'B07K95KVR2-es'
 tags: [  ]

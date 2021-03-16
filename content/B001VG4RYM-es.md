@@ -5,7 +5,7 @@ date: 2020-09-10 08:00:50
 image: 'https://m.media-amazon.com/images/I/41BweBmTBbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001VG4RYM-es Calvin Klein 3P Hip Brief Calzoncillos para Hombre 3...'
 sku: 'B001VG4RYM-es'
 tags: [  ]

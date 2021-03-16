@@ -5,7 +5,7 @@ date: 2020-10-06 19:45:24
 image: 'https://m.media-amazon.com/images/I/41HP4brnzdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHRZFM7-es GC Pro Cargador para Portátil ASUS F553 F553M F553MA R540L...'
 sku: 'B07WHRZFM7-es'
 tags: [  ]

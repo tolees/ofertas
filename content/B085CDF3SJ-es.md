@@ -5,7 +5,7 @@ date: 2020-06-26 09:46:14
 image: 'https://m.media-amazon.com/images/I/41RtIheByDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CDF3SJ-es FMPC Carcasa con Cuerda Samsung Galaxy S20 Ultra Cristal...'
 sku: 'B085CDF3SJ-es'
 tags: [  ]

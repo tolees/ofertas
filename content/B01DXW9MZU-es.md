@@ -5,7 +5,7 @@ date: 2020-07-24 11:37:33
 image: 'https://m.media-amazon.com/images/I/41R3HkFWPQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DXW9MZU-es habitatetjardin Comedor de jardín en textileno Cordoba -...'
 sku: 'B01DXW9MZU-es'
 tags: [  ]

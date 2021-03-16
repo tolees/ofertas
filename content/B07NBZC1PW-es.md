@@ -5,7 +5,7 @@ date: 2020-09-19 13:01:11
 image: 'https://m.media-amazon.com/images/I/21eGF8Lzj7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBZC1PW-es Samsung Silicone Cover funda oficial para Samsung Galaxy...'
 sku: 'B07NBZC1PW-es'
 tags: [  ]

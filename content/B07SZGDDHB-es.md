@@ -5,7 +5,7 @@ date: 2020-01-27 15:31:33
 image: 'https://m.media-amazon.com/images/I/412w++Uv5hL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZGDDHB-es YWLINK Mezcla de algodón sin mangas del verano cómodo...'
 sku: 'B07SZGDDHB-es'
 tags: [  ]

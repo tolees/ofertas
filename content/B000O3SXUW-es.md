@@ -5,7 +5,7 @@ date: 2020-01-09 06:19:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SnmSht4QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000O3SXUW-es Cressi DP182041 Aletas Unisex-Youth Azul 41/42'
 sku: 'B000O3SXUW-es'
 tags: [  ]

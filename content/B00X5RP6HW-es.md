@@ -5,7 +5,7 @@ date: 2020-01-23 18:12:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AaBvhViiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X5RP6HW-es Disney Frozen - Cuerda de Saltar Smoby 27244'
 sku: 'B00X5RP6HW-es'
 tags: [  ]

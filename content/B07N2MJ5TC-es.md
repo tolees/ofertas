@@ -5,7 +5,7 @@ date: 2020-07-13 20:09:49
 image: 'https://m.media-amazon.com/images/I/41zzwZCDSML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2MJ5TC-es non-brand Juego de 7 Pieza de Ollas y Cocina para Niños...'
 sku: 'B07N2MJ5TC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-08 15:01:26
 image: 'https://m.media-amazon.com/images/I/31-DzWaG3zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7YYFV4-es Always Control Juguetes Eróticos 1 Unidad 250 g'
 sku: 'B07R7YYFV4-es'
 tags: [  ]

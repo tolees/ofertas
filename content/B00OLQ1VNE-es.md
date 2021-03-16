@@ -5,7 +5,7 @@ date: 2020-05-31 09:28:43
 image: 'https://m.media-amazon.com/images/I/51dE8T4j0lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OLQ1VNE-es SOGO SS-5150 Batidora de Vaso Uso Profesional Licuadora...'
 sku: 'B00OLQ1VNE-es'
 tags: [  ]

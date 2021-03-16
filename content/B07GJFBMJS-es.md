@@ -5,7 +5,7 @@ date: 2020-04-02 05:07:39
 image: 'https://m.media-amazon.com/images/I/51aEYc9uGYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJFBMJS-es YuamMei 5 rollos de cinta de encaje hueca para...'
 sku: 'B07GJFBMJS-es'
 tags: [  ]

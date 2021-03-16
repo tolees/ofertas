@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Tommy Hilfiger - Tommy Jeans Hombre SCAN con un 50.44 % de descuento'
-date: 2021-03-15 16:22:30
+date: 2021-03-16 16:45:38
 image: 'https://m.media-amazon.com/images/I/31w7p7+e25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0841D3WPS-es Tommy Hilfiger - Tommy Jeans Hombre SCANTON SLIM OLBBCF...'
 sku: 'B0841D3WPS-es'
-tags: [  ]
+tags: [ 'tommy hilfiger', ]
 actualPrice: 47.08 EUR
 currency: EUR
 price: 47.08

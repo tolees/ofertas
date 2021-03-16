@@ -5,7 +5,7 @@ date: 2020-06-01 22:41:37
 image: 'https://m.media-amazon.com/images/I/41Eb7gdqOcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RR4PDXP-es Tommy Hilfiger - Th Nylon Camera Bag Bolsos bandolera...'
 sku: 'B07RR4PDXP-es'
 tags: [  ]

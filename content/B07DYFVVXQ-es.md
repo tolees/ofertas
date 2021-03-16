@@ -5,7 +5,7 @@ date: 2020-08-23 15:23:51
 image: 'https://m.media-amazon.com/images/I/41Jeo2uiBzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYFVVXQ-es Merrell Trail Glove 5 Zapatillas Deportivas para Interior...'
 sku: 'B07DYFVVXQ-es'
 tags: [  ]

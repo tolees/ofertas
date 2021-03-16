@@ -5,7 +5,7 @@ date: 2020-06-29 14:21:14
 image: 'https://m.media-amazon.com/images/I/516D3Z5c0rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WRT14S5-es Top Trumps Match Harry Potter Juego de mesa-versión en...'
 sku: 'B06WRT14S5-es'
 tags: [  ]

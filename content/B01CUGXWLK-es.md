@@ -5,7 +5,7 @@ date: 2020-05-02 10:06:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31EyWTV9k7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CUGXWLK-es Remington MB4130 Máquinas de Afeitar Negro y Gris 4.1 cm'
 sku: 'B01CUGXWLK-es'
 tags: [  ]

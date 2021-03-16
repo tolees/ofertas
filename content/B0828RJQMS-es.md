@@ -5,7 +5,7 @@ date: 2020-09-30 06:45:19
 image: 'https://m.media-amazon.com/images/I/41anvakTJRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0828RJQMS-es Adaptador WiFi de Largo Alcance USB 17500Mbps Dongle...'
 sku: 'B0828RJQMS-es'
 tags: [  ]

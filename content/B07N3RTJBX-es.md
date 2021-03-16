@@ -5,7 +5,7 @@ date: 2020-10-06 19:10:29
 image: 'https://m.media-amazon.com/images/I/51wbqa6aZBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3RTJBX-es Palette Intense - Tono 4.6 Castaño Marrón - 2 uds -...'
 sku: 'B07N3RTJBX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-30 09:33:08
 image: 'https://m.media-amazon.com/images/I/31wkqxxWS1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EAP3IK4-es Pantalones de chándal para hombre de la marca Lonsdale...'
 sku: 'B01EAP3IK4-es'
 tags: [  ]

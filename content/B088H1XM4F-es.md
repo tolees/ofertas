@@ -5,7 +5,7 @@ date: 2020-06-27 05:25:51
 image: 'https://m.media-amazon.com/images/I/41Q4Up8LVnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088H1XM4F-es Docooler Cámara Web USB A870 Cámara Web 1080P Sonido...'
 sku: 'B088H1XM4F-es'
 tags: [  ]

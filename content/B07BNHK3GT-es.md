@@ -5,7 +5,7 @@ date: 2020-04-28 11:41:08
 image: 'https://m.media-amazon.com/images/I/31siAxCkFWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNHK3GT-es TOPmountain Caja de caja de leche en polvo para bebés...'
 sku: 'B07BNHK3GT-es'
 tags: [  ]

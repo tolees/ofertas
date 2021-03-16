@@ -5,7 +5,7 @@ date: 2020-09-21 09:58:06
 image: 'https://m.media-amazon.com/images/I/31mepO3El+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XC5G9X-es Manfrotto Befree Advanced Camo Trípode de Viaje con Cabeza...'
 sku: 'B083XC5G9X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-12 17:07:31
 image: 'https://m.media-amazon.com/images/I/41WlthvbnUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014TBJA10-es Reloj Casio - Hombre GD-X6900MC-7ER'
 sku: 'B014TBJA10-es'
 tags: [  ]

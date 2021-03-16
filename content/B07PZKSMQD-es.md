@@ -5,7 +5,7 @@ date: 2020-06-13 06:02:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/517hgsHQRnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZKSMQD-es NWOUIIAY Cargador de Batería Coche Mantenimiento...'
 sku: 'B07PZKSMQD-es'
 tags: [  ]

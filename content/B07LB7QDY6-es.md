@@ -5,7 +5,7 @@ date: 2020-08-04 03:40:37
 image: 'https://m.media-amazon.com/images/I/41LdX5nid1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LB7QDY6-es Adidas Terrex EASTRAIL GTX Zapatillas de Deporte para...'
 sku: 'B07LB7QDY6-es'
 tags: [  ]

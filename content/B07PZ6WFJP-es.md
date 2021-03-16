@@ -5,7 +5,7 @@ date: 2020-04-26 11:45:29
 image: 'https://m.media-amazon.com/images/I/41FdmaEG4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZ6WFJP-es FREDI Cámara espía Wireless Mini cámara de Seguridad HD...'
 sku: 'B07PZ6WFJP-es'
 tags: [  ]

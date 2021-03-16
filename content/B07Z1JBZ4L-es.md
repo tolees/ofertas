@@ -5,7 +5,7 @@ date: 2020-06-18 17:50:23
 image: 'https://m.media-amazon.com/images/I/51zVwvYqcfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1JBZ4L-es HengBO Barbacoa Grill Eléctrica de Mesa Superficie de...'
 sku: 'B07Z1JBZ4L-es'
 tags: [  ]

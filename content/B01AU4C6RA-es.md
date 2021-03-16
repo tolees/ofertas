@@ -5,7 +5,7 @@ date: 2020-03-28 19:45:28
 image: 'https://m.media-amazon.com/images/I/314wlmDAOGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AU4C6RA-es Einhell GC-ET 4530 Set - Recortabordes eléctrico 450W 230V...'
 sku: 'B01AU4C6RA-es'
 tags: [  ]

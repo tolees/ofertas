@@ -5,7 +5,7 @@ date: 2020-01-10 20:24:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JTYGCk2pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3NNSZ3-es PLA Plus Filament 1.75mm Tidy Winding 3D Printer Filament...'
 sku: 'B07L3NNSZ3-es'
 tags: [  ]

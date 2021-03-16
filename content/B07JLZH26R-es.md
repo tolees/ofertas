@@ -5,7 +5,7 @@ date: 2020-01-13 14:18:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UlCEdFXZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLZH26R-es Wrangler Arizona Jeans Azul Fuse Blue 40d 34W / 34L para...'
 sku: 'B07JLZH26R-es'
 tags: [  ]

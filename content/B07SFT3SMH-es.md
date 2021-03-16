@@ -5,7 +5,7 @@ date: 2020-09-29 00:51:30
 image: 'https://m.media-amazon.com/images/I/31wZI4OWOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFT3SMH-es adidas Adilette Aqua Slide Sandal Womens Dust...'
 sku: 'B07SFT3SMH-es'
 tags: [  ]

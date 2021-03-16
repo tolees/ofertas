@@ -5,7 +5,7 @@ date: 2020-03-08 12:21:04
 image: 'https://m.media-amazon.com/images/I/51Y9I7kukQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0057GTUXA-es Epson Multipack T0807 6 colores etiqueta RF - Cartucho de...'
 sku: 'B0057GTUXA-es'
 tags: [  ]

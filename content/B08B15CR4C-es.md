@@ -5,7 +5,7 @@ date: 2020-09-26 07:12:49
 image: 'https://m.media-amazon.com/images/I/31boc2e17lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B15CR4C-es Tryone Soporte Tablet Multiángulo Soporte Tablet - Altura...'
 sku: 'B08B15CR4C-es'
 tags: [  ]

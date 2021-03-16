@@ -5,7 +5,7 @@ date: 2020-08-12 09:01:14
 image: 'https://m.media-amazon.com/images/I/51r3qlVjVmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CGJRSM4-es Feleph Kit de peinture animalière Enfants artisanat et...'
 sku: 'B08CGJRSM4-es'
 tags: [  ]

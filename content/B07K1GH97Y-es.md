@@ -5,7 +5,7 @@ date: 2020-08-14 12:34:42
 image: 'https://m.media-amazon.com/images/I/21mLqclePfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1GH97Y-es Mini Vibrador Neo muy potente/Masajeador perfecto para uso...'
 sku: 'B07K1GH97Y-es'
 tags: [  ]

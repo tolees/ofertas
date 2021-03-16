@@ -5,7 +5,7 @@ date: 2020-09-01 11:42:38
 image: 'https://m.media-amazon.com/images/I/4198G7in+UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ2LQ4H-es Bable Calienta Biberones 丨 Esterilizador Biberon 丨...'
 sku: 'B07JZ2LQ4H-es'
 tags: [  ]

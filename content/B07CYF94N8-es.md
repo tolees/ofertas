@@ -5,7 +5,7 @@ date: 2020-07-01 13:02:53
 image: 'https://m.media-amazon.com/images/I/41oS9dxHVqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYF94N8-es Sonoka Lector Tarjetas de Memoria - Auelek 4 en 1...'
 sku: 'B07CYF94N8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-01 12:58:41
 image: 'https://m.media-amazon.com/images/I/51707uoVETL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B1YVL5W-es LA Lakers - Bandera oficial Talla Única Azul/Naranja'
 sku: 'B07B1YVL5W-es'
 tags: [  ]

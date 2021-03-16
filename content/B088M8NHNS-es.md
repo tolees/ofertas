@@ -5,7 +5,7 @@ date: 2020-09-15 17:46:30
 image: 'https://m.media-amazon.com/images/I/41Gcixzg-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M8NHNS-es Amiiaz Cojín de Repuesto para Tumbona Silla Portátil...'
 sku: 'B088M8NHNS-es'
 tags: [  ]

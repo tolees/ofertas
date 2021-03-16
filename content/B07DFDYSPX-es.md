@@ -5,7 +5,7 @@ date: 2020-02-23 08:35:25
 image: 'https://m.media-amazon.com/images/I/41D272x6MkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFDYSPX-es Funko Pop Doctor Who Figura de Vinilo Missy Multicolor 32830'
 sku: 'B07DFDYSPX-es'
 tags: [  ]

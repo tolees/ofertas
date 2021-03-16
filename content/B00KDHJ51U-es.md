@@ -5,7 +5,7 @@ date: 2020-03-20 05:39:30
 image: 'https://m.media-amazon.com/images/I/316QKIHYrML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KDHJ51U-es Lacor - 68601 - Botella Para Sifón CO2 1 Litro'
 sku: 'B00KDHJ51U-es'
 tags: [  ]

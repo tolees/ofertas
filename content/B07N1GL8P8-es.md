@@ -5,7 +5,7 @@ date: 2020-03-18 00:57:58
 image: 'https://m.media-amazon.com/images/I/41tsmTXQ1xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GL8P8-es Clarks Un Darcey Ease Mocasines para Mujer Multicolor...'
 sku: 'B07N1GL8P8-es'
 tags: [  ]

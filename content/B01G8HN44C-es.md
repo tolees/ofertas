@@ -5,7 +5,7 @@ date: 2020-06-17 17:42:15
 image: 'https://m.media-amazon.com/images/I/51fo15nrz4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G8HN44C-es Superga2754 Lamew - Zapatillas de Deporte Mujer Gris Gris...'
 sku: 'B01G8HN44C-es'
 tags: [  ]

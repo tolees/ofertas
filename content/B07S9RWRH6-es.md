@@ -5,7 +5,7 @@ date: 2020-06-22 10:38:02
 image: 'https://m.media-amazon.com/images/I/41tdl0PH6aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9RWRH6-es PUMA JARO Metal WNS Zapatillas de Running para Mujer...'
 sku: 'B07S9RWRH6-es'
 tags: [  ]

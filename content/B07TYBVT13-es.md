@@ -5,7 +5,7 @@ date: 2020-02-12 07:24:05
 image: 'https://m.media-amazon.com/images/I/51nr+0YQ2VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYBVT13-es S.Lux Hombres Cinturón de Lona YKK Hebilla de Plástico...'
 sku: 'B07TYBVT13-es'
 tags: [  ]

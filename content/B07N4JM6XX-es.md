@@ -5,7 +5,7 @@ date: 2020-08-04 13:47:44
 image: 'https://m.media-amazon.com/images/I/31jcXUNGQFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4JM6XX-es Levi s Woods W Zapatillas para Mujer Blanco B White 50 39 EU'
 sku: 'B07N4JM6XX-es'
 tags: [  ]

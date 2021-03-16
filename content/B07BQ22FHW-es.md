@@ -5,7 +5,7 @@ date: 2020-07-10 00:27:39
 image: 'https://m.media-amazon.com/images/I/51ETR-jkvML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQ22FHW-es TomTom GO Camper GPS para caravana 6 Pulgadas con...'
 sku: 'B07BQ22FHW-es'
 tags: [  ]

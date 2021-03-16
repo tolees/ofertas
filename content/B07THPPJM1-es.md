@@ -5,7 +5,7 @@ date: 2020-07-25 12:05:19
 image: 'https://m.media-amazon.com/images/I/41P55wF+x4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THPPJM1-es Picadora de Carne Eléctrica 1500W Negro - Para Carne y...'
 sku: 'B07THPPJM1-es'
 tags: [  ]

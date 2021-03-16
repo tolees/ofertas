@@ -5,7 +5,7 @@ date: 2020-08-30 15:56:38
 image: 'https://m.media-amazon.com/images/I/51pMG-iqfCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BMK9FK-es 80 piezas Bolsas Regalo Bolsas de Papel Bolsas para...'
 sku: 'B088BMK9FK-es'
 tags: [  ]

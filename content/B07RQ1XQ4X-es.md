@@ -5,7 +5,7 @@ date: 2020-04-06 18:02:29
 image: 'https://m.media-amazon.com/images/I/41L5z-pP3iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQ1XQ4X-es Tommy Hilfiger - Th Corporate Camera Bag Bolsos bandolera...'
 sku: 'B07RQ1XQ4X-es'
 tags: [  ]

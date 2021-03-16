@@ -5,7 +5,7 @@ date: 2020-02-20 16:27:01
 image: 'https://m.media-amazon.com/images/I/41VpU2DFlrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGGLX62-es Buff Ultimate Logo Cinta de Cabeza Fastwick Unisex Adulto...'
 sku: 'B07KGGLX62-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-02 19:06:18
 image: 'https://m.media-amazon.com/images/I/51nLTi06N2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004APWJJ6-es Goliath 50400 - Juego Rummikub Original - Clásico Español'
 sku: 'B004APWJJ6-es'
 tags: [  ]

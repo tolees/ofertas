@@ -5,7 +5,7 @@ date: 2020-03-21 07:00:28
 image: 'https://m.media-amazon.com/images/I/41uCA-KUwLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXVKHBK-es DAM. DMX195BKCorrea Cerámica Iwatch 38Mm / 40Mm. Cierre De...'
 sku: 'B07JXVKHBK-es'
 tags: [  ]

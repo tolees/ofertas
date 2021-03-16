@@ -5,7 +5,7 @@ date: 2020-02-09 08:11:59
 image: 'https://m.media-amazon.com/images/I/41zlpUgjTyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079GZBV4Z-es Philips Avent SCF334/31 - Sacaleches doble silencioso...'
 sku: 'B079GZBV4Z-es'
 tags: [  ]

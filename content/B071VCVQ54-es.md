@@ -5,7 +5,7 @@ date: 2020-02-18 21:27:26
 image: 'https://m.media-amazon.com/images/I/31cuWY0LPhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VCVQ54-es ASUS BRT-AC828 - Router Dual-WAN AC2600 para Empresa...'
 sku: 'B071VCVQ54-es'
 tags: [  ]

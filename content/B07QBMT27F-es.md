@@ -5,7 +5,7 @@ date: 2020-08-11 21:09:47
 image: 'https://m.media-amazon.com/images/I/51uPoqguTOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QBMT27F-es Fregona con Pulverizador 4 mopas lavables Mopa Spray...'
 sku: 'B07QBMT27F-es'
 tags: [  ]

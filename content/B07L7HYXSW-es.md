@@ -5,7 +5,7 @@ date: 2020-08-13 12:20:17
 image: 'https://m.media-amazon.com/images/I/31Im4nxusdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L7HYXSW-es Baoblaze Tarjeta de Felicitación Hecha a Mano de Pluma...'
 sku: 'B07L7HYXSW-es'
 tags: [  ]

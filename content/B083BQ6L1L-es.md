@@ -5,7 +5,7 @@ date: 2020-04-14 00:08:49
 image: 'https://m.media-amazon.com/images/I/61BEOILrFUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BQ6L1L-es MENGH Antirutschmatte küche 120x140cm Wohnzimmer Carpet...'
 sku: 'B083BQ6L1L-es'
 tags: [  ]

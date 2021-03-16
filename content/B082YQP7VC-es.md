@@ -5,7 +5,7 @@ date: 2020-09-04 18:01:11
 image: 'https://m.media-amazon.com/images/I/51zlaeYEogL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082YQP7VC-es Hilo de bordado diy de 100 colores Hilo de bordado de 8 m...'
 sku: 'B082YQP7VC-es'
 tags: [  ]

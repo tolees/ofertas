@@ -5,7 +5,7 @@ date: 2020-03-16 04:01:13
 image: 'https://m.media-amazon.com/images/I/31OjDQjhT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JUUM13K-es MyProtein Flavdrops Saborizante Natural Sabor Caramelo -...'
 sku: 'B00JUUM13K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-28 12:04:06
 image: 'https://m.media-amazon.com/images/I/41uRaS1zJBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KZP7ZH0-es Wet Brush-pro Pink Floral'
 sku: 'B01KZP7ZH0-es'
 tags: [  ]

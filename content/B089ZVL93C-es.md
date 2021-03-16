@@ -5,7 +5,7 @@ date: 2020-08-25 22:31:03
 image: 'https://m.media-amazon.com/images/I/51K2ZPGHuzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089ZVL93C-es GiiYoon-3 Piezas Protector de Pantalla para Xiaomi Redmi...'
 sku: 'B089ZVL93C-es'
 tags: [  ]

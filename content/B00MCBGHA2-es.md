@@ -5,7 +5,7 @@ date: 2020-04-29 17:49:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51wMNzdNLVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MCBGHA2-es Seiko Reloj Analógico Automático para Hombre con Correa de...'
 sku: 'B00MCBGHA2-es'
 tags: [  ]

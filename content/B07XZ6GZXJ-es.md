@@ -5,7 +5,7 @@ date: 2020-02-24 17:07:30
 image: 'https://m.media-amazon.com/images/I/41Wf6OAvfyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZ6GZXJ-es ITECHNIK Recambios Cepillo Compatible Oral B Cabezal de...'
 sku: 'B07XZ6GZXJ-es'
 tags: [  ]

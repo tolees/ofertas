@@ -5,7 +5,7 @@ date: 2020-05-15 17:40:53
 image: 'https://m.media-amazon.com/images/I/31JXUo7X-wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YVD68W-es Mono de bebé Promini para bebé superhéroe futuro justo...'
 sku: 'B086YVD68W-es'
 tags: [  ]

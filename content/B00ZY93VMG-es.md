@@ -5,7 +5,7 @@ date: 2020-03-10 11:09:21
 image: 'https://m.media-amazon.com/images/I/41iq57xhfLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZY93VMG-es Nuxe Nuxuriance Ultra Mascarilla Roll-on Redensifiante 50ml'
 sku: 'B00ZY93VMG-es'
 tags: [  ]

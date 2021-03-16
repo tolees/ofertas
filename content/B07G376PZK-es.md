@@ -5,7 +5,7 @@ date: 2020-06-02 15:02:14
 image: 'https://m.media-amazon.com/images/I/510+8OL7oFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G376PZK-es Maddox Detail - Premium Microfiber - Paño de Microfibra 40...'
 sku: 'B07G376PZK-es'
 tags: [  ]

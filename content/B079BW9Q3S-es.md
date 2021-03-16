@@ -5,7 +5,7 @@ date: 2020-06-07 09:01:31
 image: 'https://m.media-amazon.com/images/I/317DANUR3PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079BW9Q3S-es perfk Manija de Maleta con Asa de 22.7cm Suministros de...'
 sku: 'B079BW9Q3S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-29 12:34:57
 image: 'https://m.media-amazon.com/images/I/31C0KGy-0vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083PQM3S2-es Muebles Marieta Old Style now Silla Bunny Terracota'
 sku: 'B083PQM3S2-es'
 tags: [  ]

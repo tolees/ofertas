@@ -5,7 +5,7 @@ date: 2019-12-31 19:07:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nFlkuvYHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBLW3K9-es Kappa Dolomo Botas Clasicas para Hombre Black/Grey 1116 41 EU'
 sku: 'B07LBLW3K9-es'
 tags: [  ]

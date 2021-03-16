@@ -5,7 +5,7 @@ date: 2020-10-02 01:21:00
 image: 'https://m.media-amazon.com/images/I/51lB0Lj1SWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1ZP4HR-es LIGE Relojes para Hombre Impermeable Deporte Análogo...'
 sku: 'B07X1ZP4HR-es'
 tags: [  ]

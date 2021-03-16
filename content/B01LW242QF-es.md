@@ -5,7 +5,7 @@ date: 2020-02-11 06:07:48
 image: 'https://m.media-amazon.com/images/I/31Ac+Zbz6nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW242QF-es Thierry Mugler Mugler Cologne Edt Vapo 300 ml 300 g'
 sku: 'B01LW242QF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 17:07:34
 image: 'https://m.media-amazon.com/images/I/41eGM6sPUOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y15LY4T-es Mini Cámara Espía Oculta Mini Cámara de Vigilancia con...'
 sku: 'B07Y15LY4T-es'
 tags: [  ]

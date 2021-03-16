@@ -5,7 +5,7 @@ date: 2020-04-12 18:08:25
 image: 'https://m.media-amazon.com/images/I/41W-if3x3GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLHTCHK-es Tommy Hilfiger Tommy Regular Polo Faded Indigo Medium para...'
 sku: 'B07VLHTCHK-es'
 tags: [  ]

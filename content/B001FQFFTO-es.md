@@ -5,7 +5,7 @@ date: 2020-07-29 08:27:08
 image: 'https://m.media-amazon.com/images/I/411qL92+BEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FQFFTO-es Merrell Zapatillas J73703 Smooth Black'
 sku: 'B001FQFFTO-es'
 tags: [  ]

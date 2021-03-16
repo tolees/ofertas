@@ -5,7 +5,7 @@ date: 2020-04-04 05:13:35
 image: 'https://m.media-amazon.com/images/I/41iJzXu6H7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017NQWKTW-es Pocket POP! Keychain - Harry Potter: Harry Potter'
 sku: 'B017NQWKTW-es'
 tags: [  ]

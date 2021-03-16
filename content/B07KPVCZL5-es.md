@@ -5,7 +5,7 @@ date: 2020-03-08 16:53:20
 image: 'https://m.media-amazon.com/images/I/41LvWVB+UyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPVCZL5-es Columbia Minx Slip III Botas para Niños Gris Ti Grey Steel...'
 sku: 'B07KPVCZL5-es'
 tags: [  ]

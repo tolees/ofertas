@@ -5,7 +5,7 @@ date: 2020-02-05 18:04:47
 image: 'https://m.media-amazon.com/images/I/31vCQoEo2cL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM968SZ-es Lee Breese Pantalones para Mujer Negro Black Rinse 47 24W...'
 sku: 'B07JM968SZ-es'
 tags: [  ]

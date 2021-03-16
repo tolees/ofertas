@@ -5,7 +5,7 @@ date: 2020-03-19 12:41:37
 image: 'https://m.media-amazon.com/images/I/51BpIzYRJYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H0YJ9EG-es Moto Racer 4 Deluxe Edition'
 sku: 'B01H0YJ9EG-es'
 tags: [  ]

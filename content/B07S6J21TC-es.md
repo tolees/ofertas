@@ -5,7 +5,7 @@ date: 2020-07-02 16:04:54
 image: 'https://m.media-amazon.com/images/I/211ZRaxa79L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6J21TC-es KELME - Short Portero 18/19 A.d Alcorcon'
 sku: 'B07S6J21TC-es'
 tags: [  ]

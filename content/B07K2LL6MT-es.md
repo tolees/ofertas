@@ -5,7 +5,7 @@ date: 2020-08-09 08:03:47
 image: 'https://m.media-amazon.com/images/I/41DRa9GU7kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2LL6MT-es adidas Galaxy 4 Zapatillas de Running para Hombre Gris...'
 sku: 'B07K2LL6MT-es'
 tags: [  ]

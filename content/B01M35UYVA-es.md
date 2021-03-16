@@ -5,7 +5,7 @@ date: 2020-06-01 10:45:52
 image: 'https://m.media-amazon.com/images/I/318qAxLN63L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M35UYVA-es TUTUO Lector de Tarjetas SD/Micro SD TF USB Tipo C a USB A...'
 sku: 'B01M35UYVA-es'
 tags: [  ]

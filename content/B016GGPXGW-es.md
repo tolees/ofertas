@@ -5,7 +5,7 @@ date: 2020-03-14 22:30:28
 image: 'https://m.media-amazon.com/images/I/31+74N67uqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016GGPXGW-es Victoria S Secret Hombres 1 Unidad 200 g'
 sku: 'B016GGPXGW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 17:02:38
 image: 'https://m.media-amazon.com/images/I/41CB7Jt4pdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085SW6HJK-es Transmisor Bluetooth con Pantalla Visual Transmisor...'
 sku: 'B085SW6HJK-es'
 tags: [  ]

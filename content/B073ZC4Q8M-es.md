@@ -5,7 +5,7 @@ date: 2020-08-09 12:01:18
 image: 'https://m.media-amazon.com/images/I/41zNJIXfHML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZC4Q8M-es DEIK Cuchillos Cocina Juego de Cuchillos de Acero...'
 sku: 'B073ZC4Q8M-es'
 tags: [  ]

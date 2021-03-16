@@ -5,7 +5,7 @@ date: 2020-05-22 09:46:53
 image: 'https://m.media-amazon.com/images/I/41b0GWE8-0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0816FJ4JW-es Funda con Cuerda para Samsung Galaxy A70 - Carcasa Samsung...'
 sku: 'B0816FJ4JW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 09:33:45
 image: 'https://m.media-amazon.com/images/I/31My8A0djmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006OZW4WM-es Speedo Solid Leisure - Bañador de natación para hombre...'
 sku: 'B006OZW4WM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-12 07:32:39
 image: 'https://m.media-amazon.com/images/I/51L+ghWaHQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MD4XNV-es MagiDeal Apareciendo Bolsa de Papel Caja Flor de Cerca...'
 sku: 'B077MD4XNV-es'
 tags: [  ]

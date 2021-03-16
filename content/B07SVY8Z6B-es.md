@@ -5,7 +5,7 @@ date: 2020-04-07 17:31:37
 image: 'https://m.media-amazon.com/images/I/41DTmvUNhvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVY8Z6B-es Labanema Moto G7 Power Funda 360 Rotating Ring Grip Stand...'
 sku: 'B07SVY8Z6B-es'
 tags: [  ]

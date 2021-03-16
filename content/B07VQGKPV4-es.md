@@ -5,7 +5,7 @@ date: 2020-04-12 18:48:41
 image: 'https://m.media-amazon.com/images/I/31w172ii0EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQGKPV4-es Nike Men s Premier II Anti-Clog Traction SG-Pro Soft-...'
 sku: 'B07VQGKPV4-es'
 tags: [  ]

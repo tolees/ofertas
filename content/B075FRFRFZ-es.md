@@ -5,7 +5,7 @@ date: 2020-02-29 12:29:08
 image: 'https://m.media-amazon.com/images/I/41kgt3uz6eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FRFRFZ-es Vicloon 106cm Aluminio Trípode para Cámara Trípode...'
 sku: 'B075FRFRFZ-es'
 tags: [  ]

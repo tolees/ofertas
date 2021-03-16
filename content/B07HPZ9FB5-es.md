@@ -5,7 +5,7 @@ date: 2020-02-07 06:37:33
 image: 'https://m.media-amazon.com/images/I/41nH37JkeNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPZ9FB5-es Neutrogena Radiance Boost Mascarilla Iluminadora - 4...'
 sku: 'B07HPZ9FB5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-20 14:35:43
 image: 'https://m.media-amazon.com/images/I/41F7u7pHtgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073FV78PK-es Max Factor Healthy Skin Harmony Base de Maquillaje Tono 77...'
 sku: 'B073FV78PK-es'
 tags: [  ]

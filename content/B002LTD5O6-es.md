@@ -5,7 +5,7 @@ date: 2020-03-12 19:15:35
 image: 'https://m.media-amazon.com/images/I/31vAVfW4gvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LTD5O6-es Superga 2750 COTU Classic Zapatillas Unisex Azul Navy S933...'
 sku: 'B002LTD5O6-es'
 tags: [  ]

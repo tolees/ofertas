@@ -5,7 +5,7 @@ date: 2020-05-05 14:04:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412rjeZ-xVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00COI61O0-es versando VLR5X175 - Estantería galvanizada 178 x 90 x 40...'
 sku: 'B00COI61O0-es'
 tags: [  ]

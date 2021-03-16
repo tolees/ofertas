@@ -5,7 +5,7 @@ date: 2020-08-07 15:50:30
 image: 'https://m.media-amazon.com/images/I/41K-HzasjSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLSVLDJ-es Clarks Clarkdale Gobi Botas Chelsea para Hombre Grau Taupe...'
 sku: 'B07MLSVLDJ-es'
 tags: [  ]

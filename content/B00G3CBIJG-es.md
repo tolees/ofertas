@@ -5,7 +5,7 @@ date: 2020-07-10 13:25:50
 image: 'https://m.media-amazon.com/images/I/318gsR7dE6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G3CBIJG-es Led Lenser T7.2 - Linterna LED'
 sku: 'B00G3CBIJG-es'
 tags: [  ]

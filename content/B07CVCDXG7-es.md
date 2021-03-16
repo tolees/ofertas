@@ -5,7 +5,7 @@ date: 2020-07-30 08:26:58
 image: 'https://m.media-amazon.com/images/I/41X33f+9xaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVCDXG7-es Tryone Flexible Soporte móvil Teléfono – Soporte con...'
 sku: 'B07CVCDXG7-es'
 tags: [  ]

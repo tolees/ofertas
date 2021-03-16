@@ -5,7 +5,7 @@ date: 2020-08-15 18:41:49
 image: 'https://m.media-amazon.com/images/I/41-wSTk5KOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNRZNGT-es Minisun – Lámpara de Mesa Mono Resina Negra- Clase de...'
 sku: 'B07YNRZNGT-es'
 tags: [  ]

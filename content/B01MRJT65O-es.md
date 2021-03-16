@@ -5,7 +5,7 @@ date: 2020-01-26 11:52:36
 image: 'https://m.media-amazon.com/images/I/41Znd4SFGLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRJT65O-es Lee Scarlett Cropped Jeans Mujer Negro Black Rinse W26/L33...'
 sku: 'B01MRJT65O-es'
 tags: [  ]

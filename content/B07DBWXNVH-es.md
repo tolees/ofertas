@@ -5,7 +5,7 @@ date: 2020-06-28 07:35:52
 image: 'https://m.media-amazon.com/images/I/31V6uZEgTCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBWXNVH-es PUMA Vikky V2 Zapatillas para Mujer Negro Black White...'
 sku: 'B07DBWXNVH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-19 12:34:02
 image: 'https://m.media-amazon.com/images/I/51MAMyC6GzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0754JNQBP-es AMD Ryzen Threadripper 1900X Box sTR4 - Microprocesador...'
 sku: 'B0754JNQBP-es'
 tags: [  ]

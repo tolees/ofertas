@@ -5,7 +5,7 @@ date: 2020-06-03 15:24:25
 image: 'https://m.media-amazon.com/images/I/51V5M9JhFqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895TMCRX-es FSXMPL Pintura por NúMeros NiñOs para Adultos...'
 sku: 'B0895TMCRX-es'
 tags: [  ]

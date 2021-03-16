@@ -5,7 +5,7 @@ date: 2020-02-02 09:40:59
 image: 'https://m.media-amazon.com/images/I/51HXWq1ZaSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JG1JYMS-es Ingersoll Men s The Grafton Quartz Watch with Grey Dial...'
 sku: 'B01JG1JYMS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-19 09:57:37
 image: 'https://m.media-amazon.com/images/I/310jfW2LycL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L37VHEC-es Artero Acondicionador y desenredante para Perros y Gatos...'
 sku: 'B00L37VHEC-es'
 tags: [  ]

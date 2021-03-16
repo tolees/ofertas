@@ -5,7 +5,7 @@ date: 2020-04-02 22:03:22
 image: 'https://m.media-amazon.com/images/I/31-pArgKQIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ34FZR-es New Balance 411 Zapatillas de Running para Mujer Negro...'
 sku: 'B07DJ34FZR-es'
 tags: [  ]

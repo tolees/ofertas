@@ -5,7 +5,7 @@ date: 2020-04-16 21:54:22
 image: 'https://m.media-amazon.com/images/I/41EkDCeDZJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008M11XBE-es HP CF210A 131A Cartucho de Tóner Original 1 unidad negro'
 sku: 'B008M11XBE-es'
 tags: [  ]

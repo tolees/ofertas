@@ -5,7 +5,7 @@ date: 2020-04-16 09:38:01
 image: 'https://m.media-amazon.com/images/I/4104fR+c7CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YXOHIO0-es Lifestyle 2427 Pelador Vertical para Frutas Verduras y...'
 sku: 'B00YXOHIO0-es'
 tags: [  ]

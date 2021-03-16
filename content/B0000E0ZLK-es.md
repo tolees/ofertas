@@ -5,7 +5,7 @@ date: 2020-07-26 14:18:49
 image: 'https://m.media-amazon.com/images/I/21v2tN3w3VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000E0ZLK-es Zwilling Twin Pollux - Cuchillo cebollero con Hoja...'
 sku: 'B0000E0ZLK-es'
 tags: [  ]

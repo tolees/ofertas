@@ -5,7 +5,7 @@ date: 2020-05-24 17:40:21
 image: 'https://m.media-amazon.com/images/I/31lR0k-cshL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVZ4D67-es Fenteer Papel Garland Colgando Banner Boda Cumpleaños Prom...'
 sku: 'B07TVZ4D67-es'
 tags: [  ]

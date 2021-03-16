@@ -5,7 +5,7 @@ date: 2020-04-08 06:06:12
 image: 'https://m.media-amazon.com/images/I/41EuF4A+fXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XXT7TZR-es FOGAWA Banda de Cuero Plana Banda de Piel Correa 20mmx2mm...'
 sku: 'B07XXT7TZR-es'
 tags: [  ]

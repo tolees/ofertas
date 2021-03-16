@@ -5,7 +5,7 @@ date: 2020-07-17 12:26:42
 image: 'https://m.media-amazon.com/images/I/41iTx-qzuCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XRW6NX-es Oxímetro de pulso para dispositivo de medición de oxígeno...'
 sku: 'B085XRW6NX-es'
 tags: [  ]

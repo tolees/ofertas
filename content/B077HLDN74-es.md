@@ -5,7 +5,7 @@ date: 2020-01-06 11:17:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pqxIhCH4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HLDN74-es find. MDR 40625 vestidos mujer Negro Black 40 Talla del...'
 sku: 'B077HLDN74-es'
 tags: [  ]

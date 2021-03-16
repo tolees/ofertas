@@ -5,7 +5,7 @@ date: 2020-08-06 21:18:37
 image: 'https://m.media-amazon.com/images/I/41VsG7WGA9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FNVQCT-es Qomolo Barbacoa Cepillo 3 En 1 BBQ Grill Cepillo con El...'
 sku: 'B083FNVQCT-es'
 tags: [  ]

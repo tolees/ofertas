@@ -5,7 +5,7 @@ date: 2020-04-27 09:42:57
 image: 'https://m.media-amazon.com/images/I/41VvjCDKpiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KXVMQ0W-es Dim Generous Invisible Sujetador Beige New Skin 105.B para...'
 sku: 'B01KXVMQ0W-es'
 tags: [  ]

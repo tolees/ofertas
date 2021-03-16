@@ -5,7 +5,7 @@ date: 2020-06-29 19:33:46
 image: 'https://m.media-amazon.com/images/I/51lVU22XvZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD12SXN-es BLAVOR - Cargador Solar inalámbrico batería Externa de...'
 sku: 'B07XD12SXN-es'
 tags: [  ]

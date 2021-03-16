@@ -5,7 +5,7 @@ date: 2020-07-01 15:00:57
 image: 'https://m.media-amazon.com/images/I/41T8cyxalZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPLMGS1-es Skechers Status 2.0 Lorano Náuticos para Hombre Negro...'
 sku: 'B07GPLMGS1-es'
 tags: [  ]

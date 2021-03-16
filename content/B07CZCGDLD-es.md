@@ -5,7 +5,7 @@ date: 2020-07-13 01:26:18
 image: 'https://m.media-amazon.com/images/I/51f0Qqr63UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZCGDLD-es ieGeek Reproductor de DVD rosso N'
 sku: 'B07CZCGDLD-es'
 tags: [  ]

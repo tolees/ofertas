@@ -5,7 +5,7 @@ date: 2020-03-18 12:17:20
 image: 'https://m.media-amazon.com/images/I/41U0jyNkJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6JNL92-es HANPURE Bluetooth USB PC Adaptador Bluetooth USB USB...'
 sku: 'B07K6JNL92-es'
 tags: [  ]

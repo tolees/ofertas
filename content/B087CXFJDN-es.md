@@ -5,7 +5,7 @@ date: 2020-04-23 19:03:31
 image: 'https://m.media-amazon.com/images/I/41Bgui-6MUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087CXFJDN-es Coolcept Women Casual Slip On Court Shoes Flat Pumps Shoes...'
 sku: 'B087CXFJDN-es'
 tags: [  ]

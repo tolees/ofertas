@@ -5,7 +5,7 @@ date: 2020-10-08 05:58:04
 image: 'https://m.media-amazon.com/images/I/41372CkXIfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR3Y5D9-es Skechers MAX Cushioning Elite Zapatillas para Hombre Azul...'
 sku: 'B07NR3Y5D9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-09 19:27:09
 image: 'https://m.media-amazon.com/images/I/51h5FxaR8QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087LTD4J3-es Fuutuu Mini Máquinas de coser Portátil Herramienta de...'
 sku: 'B087LTD4J3-es'
 tags: [  ]

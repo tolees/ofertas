@@ -5,7 +5,7 @@ date: 2020-08-30 00:29:20
 image: 'https://m.media-amazon.com/images/I/61V8VnfciRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XL4H7Y-es EYEPOWER Suelo de Gimnasio de Goma EVA 10mm de Grosor...'
 sku: 'B073XL4H7Y-es'
 tags: [  ]

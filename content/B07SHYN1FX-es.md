@@ -5,7 +5,7 @@ date: 2020-09-22 02:51:37
 image: 'https://m.media-amazon.com/images/I/31lBfuXIEYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SHYN1FX-es Levi s Pillsbury Zapatillas para Hombre Blanco R White 51...'
 sku: 'B07SHYN1FX-es'
 tags: [  ]

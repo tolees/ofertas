@@ -5,7 +5,7 @@ date: 2020-06-23 12:46:05
 image: 'https://m.media-amazon.com/images/I/41JRIpXU5xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXL5BZ5-es 1 x de Almohadilla de Tinta para Dedos para Pintura de...'
 sku: 'B07CXL5BZ5-es'
 tags: [  ]

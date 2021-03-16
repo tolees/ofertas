@@ -5,7 +5,7 @@ date: 2020-07-26 14:25:44
 image: 'https://m.media-amazon.com/images/I/31RU4uByPKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTJ2L8P-es Belkin SoundForm - Auriculares USB-C para Samsung Galaxy...'
 sku: 'B07TTJ2L8P-es'
 tags: [  ]

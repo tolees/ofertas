@@ -5,7 +5,7 @@ date: 2020-04-02 17:14:22
 image: 'https://m.media-amazon.com/images/I/41YtO06Np0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M74EW9C-es G-STAR RAW Duko Belt Cinturón Negro Black/black 406 80...'
 sku: 'B01M74EW9C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 07:59:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51wjKbvk2yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKRCCJ8-es WiMiUS Cámara de Caza 20MP 1080P 30FPS Camara Caza con...'
 sku: 'B07RKRCCJ8-es'
 tags: [  ]

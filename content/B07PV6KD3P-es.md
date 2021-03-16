@@ -5,7 +5,7 @@ date: 2020-07-31 04:32:49
 image: 'https://m.media-amazon.com/images/I/41QuvkYPsPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV6KD3P-es K KYUER T8220E Tablet Batería para Samsung Galaxy Note...'
 sku: 'B07PV6KD3P-es'
 tags: [  ]

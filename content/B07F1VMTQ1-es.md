@@ -5,7 +5,7 @@ date: 2020-03-12 15:04:52
 image: 'https://m.media-amazon.com/images/I/41KGFwUNe7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1VMTQ1-es Columbia Sombrero trenzado Mujer Bella Falls Straw Hat...'
 sku: 'B07F1VMTQ1-es'
 tags: [  ]

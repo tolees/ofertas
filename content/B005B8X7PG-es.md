@@ -5,7 +5,7 @@ date: 2020-05-19 08:33:25
 image: 'https://m.media-amazon.com/images/I/41kb6X9LEwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005B8X7PG-es Saucony Ride ISO Zapatillas de Running para Hombre Naranja...'
 sku: 'B005B8X7PG-es'
 tags: [  ]

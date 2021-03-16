@@ -5,7 +5,7 @@ date: 2020-08-30 08:01:13
 image: 'https://m.media-amazon.com/images/I/51pIXw0iPKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6PGZTT-es Lámpara LED de techo regulable para dormitorio salón...'
 sku: 'B07S6PGZTT-es'
 tags: [  ]

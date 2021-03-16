@@ -5,7 +5,7 @@ date: 2020-01-28 12:34:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DNQL1ecRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6QJWZP-es American Tourister Modern Dream - Spinner S Equipaje de...'
 sku: 'B07J6QJWZP-es'
 tags: [  ]

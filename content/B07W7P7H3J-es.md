@@ -5,7 +5,7 @@ date: 2020-01-05 10:36:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZDv8EPtCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7P7H3J-es Tapas de Silicona Elásticas DYROE 12 Tapas silicona...'
 sku: 'B07W7P7H3J-es'
 tags: [  ]

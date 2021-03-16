@@ -5,7 +5,7 @@ date: 2020-04-13 09:08:58
 image: 'https://m.media-amazon.com/images/I/51PfIcSNG9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMWVG5L-es Pour Moi? Illicit Underwired Bra Sujetador con Aros Negro...'
 sku: 'B07KMWVG5L-es'
 tags: [  ]

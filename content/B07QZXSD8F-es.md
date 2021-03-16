@@ -5,7 +5,7 @@ date: 2020-02-10 13:44:40
 image: 'https://m.media-amazon.com/images/I/51f1RMfndpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZXSD8F-es Tonysa SU-668 1.5KM Sistema de Llamadas Restaurante...'
 sku: 'B07QZXSD8F-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-16 19:24:01
 image: 'https://m.media-amazon.com/images/I/41RnY1OECVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CQ5ST1I-es San Ignacio Set De Sartenes Ø 18 20 Y 24 De Acero De...'
 sku: 'B01CQ5ST1I-es'
 tags: [  ]

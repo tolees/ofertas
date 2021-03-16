@@ -5,7 +5,7 @@ date: 2020-08-27 18:11:45
 image: 'https://m.media-amazon.com/images/I/514HgTXDRLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086Q3R6JN-es Kit Dibujo Completo - Principiante/Profesional - 19...'
 sku: 'B086Q3R6JN-es'
 tags: [  ]

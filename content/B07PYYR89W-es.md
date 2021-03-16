@@ -5,7 +5,7 @@ date: 2020-06-19 17:23:16
 image: 'https://m.media-amazon.com/images/I/41Xxm01vMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYYR89W-es Under Armour Men s Charged Engage Hallenschuhe Zapatillas...'
 sku: 'B07PYYR89W-es'
 tags: [  ]

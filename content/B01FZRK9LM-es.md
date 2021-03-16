@@ -5,7 +5,7 @@ date: 2020-01-10 11:49:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XHHJRV31L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FZRK9LM-es Nike Air MAX 90 Leather Zapatillas para Niños Negro Black...'
 sku: 'B01FZRK9LM-es'
 tags: [  ]

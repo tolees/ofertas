@@ -5,7 +5,7 @@ date: 2020-01-07 11:34:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B0843BIWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYF2QD-es PUMA Carina L Zapatillas para Mujer White-Gum 40 EU'
 sku: 'B07KFYF2QD-es'
 tags: [  ]

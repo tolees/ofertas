@@ -5,7 +5,7 @@ date: 2020-02-17 12:41:37
 image: 'https://m.media-amazon.com/images/I/41J+CVKiwTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GN3BB-es Clarks Un Maui Lace Zapatillas para Mujer Natural Snake 40 EU'
 sku: 'B07N1GN3BB-es'
 tags: [  ]

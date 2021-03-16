@@ -5,7 +5,7 @@ date: 2020-04-28 16:05:23
 image: 'https://m.media-amazon.com/images/I/51aB07CbvSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BVH1Y00-es Physionics Mini trampolín en Varias tamaños - Peso máximo:...'
 sku: 'B01BVH1Y00-es'
 tags: [  ]

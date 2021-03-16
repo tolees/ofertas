@@ -5,7 +5,7 @@ date: 2020-05-28 05:04:40
 image: 'https://m.media-amazon.com/images/I/51lp2ycl9LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011SVN6HI-es The Blacklist Temporada 2 Blu-Ray [Blu-ray]'
 sku: 'B011SVN6HI-es'
 tags: [  ]

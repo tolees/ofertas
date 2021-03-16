@@ -5,7 +5,7 @@ date: 2020-08-29 12:31:32
 image: 'https://m.media-amazon.com/images/I/31WwgncYoNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L91KW5D-es Rubie s - Disfraz Avengers Capitan America Talla M'
 sku: 'B07L91KW5D-es'
 tags: [  ]

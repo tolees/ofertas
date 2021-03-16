@@ -5,7 +5,7 @@ date: 2020-10-11 07:15:41
 image: 'https://m.media-amazon.com/images/I/51BOvLRU7bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SFZWIKW-es Smiffys-44226 Kit de Maquillaje para el día de los Muertos...'
 sku: 'B00SFZWIKW-es'
 tags: [  ]

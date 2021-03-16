@@ -5,7 +5,7 @@ date: 2020-01-26 13:07:06
 image: 'https://m.media-amazon.com/images/I/41nTEFpCaeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGPJ6ZC-es Aicok SD60K Juicer Filter & Cups Juicer Accesorios para...'
 sku: 'B07JGPJ6ZC-es'
 tags: [  ]

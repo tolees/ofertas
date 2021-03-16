@@ -5,7 +5,7 @@ date: 2020-04-22 08:47:13
 image: 'https://m.media-amazon.com/images/I/31wvrVt1JZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHFNM1F-es Helly Hansen W HH LIFA Active Basleayer Pant Mujer Black XS'
 sku: 'B06XHFNM1F-es'
 tags: [  ]

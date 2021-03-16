@@ -5,7 +5,7 @@ date: 2020-03-17 21:57:45
 image: 'https://m.media-amazon.com/images/I/41X5JkeQLdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KIUEUDO-es Trust Premo - Presentador láser y ratón inalámbricos Color...'
 sku: 'B01KIUEUDO-es'
 tags: [  ]

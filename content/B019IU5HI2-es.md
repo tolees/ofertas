@@ -5,7 +5,7 @@ date: 2020-06-21 17:16:19
 image: 'https://m.media-amazon.com/images/I/51xpiE+UkXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019IU5HI2-es KLIM™ Wind + Base de refrigeración para portátil + La más...'
 sku: 'B019IU5HI2-es'
 tags: [  ]

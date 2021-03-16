@@ -5,7 +5,7 @@ date: 2020-08-25 08:03:56
 image: 'https://m.media-amazon.com/images/I/41aXmwWxyuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKXH4KC-es Hackett London Coral Swim Trim Polo Amarillo 022fresh...'
 sku: 'B07VKXH4KC-es'
 tags: [  ]

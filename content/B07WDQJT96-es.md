@@ -5,7 +5,7 @@ date: 2020-09-10 10:58:15
 image: 'https://m.media-amazon.com/images/I/31If4R61+fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDQJT96-es Samsung Galaxy A30s - Smartphone de 6.4" Super AMOLED 4 GB...'
 sku: 'B07WDQJT96-es'
 tags: [  ]

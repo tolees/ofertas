@@ -5,7 +5,7 @@ date: 2020-03-13 22:20:15
 image: 'https://m.media-amazon.com/images/I/41w344oOVPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG69J6S-es PUMA Caracal Zapatillas Unisex Adulto White Silver 42 EU'
 sku: 'B07KG69J6S-es'
 tags: [  ]

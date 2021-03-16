@@ -5,7 +5,7 @@ date: 2020-07-22 04:56:36
 image: 'https://m.media-amazon.com/images/I/51yKiR+1IhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053CBDIS-es El Libro De Eli - Bd [Blu-ray]'
 sku: 'B0053CBDIS-es'
 tags: [  ]

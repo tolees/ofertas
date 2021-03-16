@@ -5,7 +5,7 @@ date: 2020-08-13 19:51:40
 image: 'https://m.media-amazon.com/images/I/61oC6ibpSWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMJ74P5-es The Nisha 24 PC pegatinas para pared Adhesivo de Pared...'
 sku: 'B07PMJ74P5-es'
 tags: [  ]

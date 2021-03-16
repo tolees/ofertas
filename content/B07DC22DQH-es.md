@@ -5,7 +5,7 @@ date: 2020-01-14 08:53:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41U6TWsEtDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC22DQH-es Puma Turin II Zapatillas Unisex Adulto Azul Peacoat White...'
 sku: 'B07DC22DQH-es'
 tags: [  ]

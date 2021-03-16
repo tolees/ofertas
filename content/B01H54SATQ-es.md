@@ -5,7 +5,7 @@ date: 2020-04-26 09:28:16
 image: 'https://m.media-amazon.com/images/I/41zCJpOJlLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H54SATQ-es Philips Optimal Temp GC9410/60 - Centro de Planchado de...'
 sku: 'B01H54SATQ-es'
 tags: [  ]

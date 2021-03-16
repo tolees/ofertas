@@ -5,7 +5,7 @@ date: 2020-05-04 11:10:51
 image: ''
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C4WBL14-es LuckyGirls Bañadores de Natación Hombre Calzoncillos...'
 sku: 'B07C4WBL14-es'
 tags: [  ]

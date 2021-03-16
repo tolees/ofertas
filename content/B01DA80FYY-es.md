@@ -5,7 +5,7 @@ date: 2020-04-19 02:38:15
 image: 'https://m.media-amazon.com/images/I/41lKy7VLt7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DA80FYY-es HP L0S07AE 973X Cartucho de Tinta Original de alto...'
 sku: 'B01DA80FYY-es'
 tags: [  ]

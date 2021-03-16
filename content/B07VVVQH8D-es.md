@@ -5,7 +5,7 @@ date: 2020-08-15 16:16:16
 image: 'https://m.media-amazon.com/images/I/41Pnqer35yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVVQH8D-es Controlador de Gamepad，DOYO Gamepad USB con Cable para PC...'
 sku: 'B07VVVQH8D-es'
 tags: [  ]

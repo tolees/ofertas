@@ -5,7 +5,7 @@ date: 2020-01-05 17:05:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FXIMWVOvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K19NT9N-es adidas Tiro19 PES Jkty Sport Jacket Unisex niños...'
 sku: 'B07K19NT9N-es'
 tags: [  ]

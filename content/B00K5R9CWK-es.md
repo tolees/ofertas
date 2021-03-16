@@ -5,7 +5,7 @@ date: 2020-08-17 16:56:41
 image: 'https://m.media-amazon.com/images/I/41LDQXjNJDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5R9CWK-es Tommy Hilfiger 3p Lr Trunk Calcetines Negro Black 990...'
 sku: 'B00K5R9CWK-es'
 tags: [  ]

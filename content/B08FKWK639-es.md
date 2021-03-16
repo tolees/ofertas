@@ -5,7 +5,7 @@ date: 2020-09-29 12:19:37
 image: 'https://m.media-amazon.com/images/I/412k1k+S2kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FKWK639-es Cordón que cubre la cara de longitud ajustable conveniente...'
 sku: 'B08FKWK639-es'
 tags: [  ]

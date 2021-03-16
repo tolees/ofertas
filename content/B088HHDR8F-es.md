@@ -5,7 +5,7 @@ date: 2020-06-16 07:50:33
 image: 'https://m.media-amazon.com/images/I/51c5XjjNKjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088HHDR8F-es HAPPY - 10 para nin@s productos el efecto alcanza el 95% CE'
 sku: 'B088HHDR8F-es'
 tags: [  ]

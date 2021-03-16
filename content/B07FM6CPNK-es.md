@@ -5,7 +5,7 @@ date: 2020-08-21 05:46:06
 image: 'https://m.media-amazon.com/images/I/41XFTigshTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM6CPNK-es TiaoBug S-XXL 3Pcs Mujer Disfraz de Chica Japonesa Cosplay...'
 sku: 'B07FM6CPNK-es'
 tags: [  ]

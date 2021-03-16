@@ -5,7 +5,7 @@ date: 2020-04-17 17:33:14
 image: 'https://m.media-amazon.com/images/I/41ASdSBZupL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081PNYQZM-es Babacom Soporte Movil Coche Magnético 360 Grados Rotación...'
 sku: 'B081PNYQZM-es'
 tags: [  ]

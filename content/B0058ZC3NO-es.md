@@ -5,7 +5,7 @@ date: 2020-03-05 08:15:05
 image: 'https://m.media-amazon.com/images/I/41lea5oxIcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0058ZC3NO-es The North Face Resolve Pantalones para Hombre TNF Negro M'
 sku: 'B0058ZC3NO-es'
 tags: [  ]

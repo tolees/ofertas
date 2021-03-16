@@ -5,7 +5,7 @@ date: 2020-05-20 12:32:27
 image: 'https://m.media-amazon.com/images/I/41rVqKbvQWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077KK4PGJ-es Zapatillas/Botas de Estar por casa Suaves con Detalle de...'
 sku: 'B077KK4PGJ-es'
 tags: [  ]

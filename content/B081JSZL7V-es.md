@@ -5,7 +5,7 @@ date: 2020-09-25 15:11:17
 image: 'https://m.media-amazon.com/images/I/41XDkXJYgoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081JSZL7V-es adidas Fef H Mini Equipamento de Fútbol Unisex niños...'
 sku: 'B081JSZL7V-es'
 tags: [  ]

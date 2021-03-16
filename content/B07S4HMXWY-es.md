@@ -5,7 +5,7 @@ date: 2020-05-03 18:27:26
 image: 'https://m.media-amazon.com/images/I/31LaFmeosDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4HMXWY-es Tom Tailor Denim Cargo Pantalones de Deporte Verde Green...'
 sku: 'B07S4HMXWY-es'
 tags: [  ]

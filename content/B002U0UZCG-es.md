@@ -5,7 +5,7 @@ date: 2020-03-16 15:14:55
 image: 'https://m.media-amazon.com/images/I/31CZo45D+iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002U0UZCG-es Obey Your Body Peeling Facial'
 sku: 'B002U0UZCG-es'
 tags: [  ]

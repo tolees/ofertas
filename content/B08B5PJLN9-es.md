@@ -5,7 +5,7 @@ date: 2020-08-23 04:06:47
 image: 'https://m.media-amazon.com/images/I/41C--U3NKxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5PJLN9-es Widamin 6Pack Protector de Pantalla para Mi Band 5 TPU...'
 sku: 'B08B5PJLN9-es'
 tags: [  ]

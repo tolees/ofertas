@@ -5,7 +5,7 @@ date: 2020-03-18 19:32:27
 image: 'https://m.media-amazon.com/images/I/51bCmAaESdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7RWFG1-es Durex Preservativos Dame Placer + Preservativos Sensitivo...'
 sku: 'B07W7RWFG1-es'
 tags: [  ]

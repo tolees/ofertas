@@ -5,7 +5,7 @@ date: 2020-02-29 11:10:15
 image: 'https://m.media-amazon.com/images/I/31UVK41XO2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP2MVXN-es Under Armour Zinger SL Polo Mujer Azul Dust/Dust/Dust 416 L'
 sku: 'B07DP2MVXN-es'
 tags: [  ]

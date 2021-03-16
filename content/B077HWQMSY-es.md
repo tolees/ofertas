@@ -5,7 +5,7 @@ date: 2020-01-17 07:01:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HWQMSY-es find. MDR 40625 vestidos mujer Verde Green 44 Talla del...'
 sku: 'B077HWQMSY-es'
 tags: [  ]

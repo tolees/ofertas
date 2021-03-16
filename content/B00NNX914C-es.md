@@ -5,7 +5,7 @@ date: 2020-02-25 05:41:05
 image: 'https://m.media-amazon.com/images/I/41Tizvq22KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NNX914C-es Blend Jeans - Noos Cirrus - Parte de arriba para hombre...'
 sku: 'B00NNX914C-es'
 tags: [  ]

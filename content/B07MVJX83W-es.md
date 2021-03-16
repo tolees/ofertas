@@ -5,7 +5,7 @@ date: 2020-01-26 11:36:28
 image: 'https://m.media-amazon.com/images/I/41zmLddZlnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJX83W-es Napapijri Eils SS Polo Azul BLU Marine 176 XX-Large para...'
 sku: 'B07MVJX83W-es'
 tags: [  ]

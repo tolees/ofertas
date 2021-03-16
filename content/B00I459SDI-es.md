@@ -5,7 +5,7 @@ date: 2020-03-26 00:39:35
 image: 'https://m.media-amazon.com/images/I/41KnlJDr5nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I459SDI-es Cojín antiescaras cuadrado y con agujero 44x44x9 cm'
 sku: 'B00I459SDI-es'
 tags: [  ]

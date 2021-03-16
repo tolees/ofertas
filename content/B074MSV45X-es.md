@@ -5,7 +5,7 @@ date: 2020-04-01 18:46:52
 image: 'https://m.media-amazon.com/images/I/41X5l-JaH-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074MSV45X-es Powerextra Batería Canon LP-E6 y LP-E6N con Cargador...'
 sku: 'B074MSV45X-es'
 tags: [  ]

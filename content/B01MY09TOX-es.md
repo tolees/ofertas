@@ -5,7 +5,7 @@ date: 2020-04-17 00:25:00
 image: 'https://m.media-amazon.com/images/I/41tb-Iub78L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY09TOX-es Lacoste Carnaby EVO BL 1 SPW Zapatillas para Mujer Negro...'
 sku: 'B01MY09TOX-es'
 tags: [  ]

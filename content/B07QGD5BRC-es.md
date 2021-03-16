@@ -5,7 +5,7 @@ date: 2020-01-06 14:43:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51gEjqMAZiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGD5BRC-es Roc Soleil - Pack Ahorro con Neceser de Regalo Incluye...'
 sku: 'B07QGD5BRC-es'
 tags: [  ]

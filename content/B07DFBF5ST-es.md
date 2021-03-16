@@ -5,7 +5,7 @@ date: 2020-08-10 07:32:01
 image: 'https://m.media-amazon.com/images/I/41UNZSLeN+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBF5ST-es Funko Vynl Star Wars Darth Vader+Stormtrooper'
 sku: 'B07DFBF5ST-es'
 tags: [  ]

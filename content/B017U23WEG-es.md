@@ -5,7 +5,7 @@ date: 2020-04-14 16:53:40
 image: 'https://m.media-amazon.com/images/I/41GM48bS1zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017U23WEG-es MaxHold Sistema de vacío -Soportes de Pared para...'
 sku: 'B017U23WEG-es'
 tags: [  ]

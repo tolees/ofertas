@@ -5,7 +5,7 @@ date: 2020-09-27 17:50:20
 image: 'https://m.media-amazon.com/images/I/3192xtaKHGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089DHDP9X-es Sandalia Plana para Mujer Nude 37 EU'
 sku: 'B089DHDP9X-es'
 tags: [  ]

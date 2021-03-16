@@ -5,7 +5,7 @@ date: 2020-01-10 08:09:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41g2-r2iXcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDNF45R-es Phister Philina B0303-0441-Camiseta de Manga Larga Bebé-...'
 sku: 'B06XDNF45R-es'
 tags: [  ]

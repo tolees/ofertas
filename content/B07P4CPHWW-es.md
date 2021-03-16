@@ -5,7 +5,7 @@ date: 2020-06-01 17:46:22
 image: 'https://m.media-amazon.com/images/I/41nGYilDavL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4CPHWW-es AGPTEK Z05 Micrófono de Solapa Omnidireccional Micrófono...'
 sku: 'B07P4CPHWW-es'
 tags: [  ]

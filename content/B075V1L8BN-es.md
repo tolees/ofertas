@@ -5,7 +5,7 @@ date: 2020-05-24 13:25:23
 image: 'https://m.media-amazon.com/images/I/418ylYuQxwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075V1L8BN-es AUKEY Bateria Externa 20000mAh Cargador Portatil con 2...'
 sku: 'B075V1L8BN-es'
 tags: [  ]

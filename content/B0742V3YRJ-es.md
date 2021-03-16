@@ -5,7 +5,7 @@ date: 2020-01-15 11:55:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411CcCmTBZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0742V3YRJ-es Russell Hobbs Colours Plus - Hervidor de Agua Eléctrico...'
 sku: 'B0742V3YRJ-es'
 tags: [  ]

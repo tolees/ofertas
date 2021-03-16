@@ -5,7 +5,7 @@ date: 2020-01-05 20:51:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41C1Q10u0nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CAJGQ3O-es Beckham David Beckham Classic Agua de toilette con...'
 sku: 'B00CAJGQ3O-es'
 tags: [  ]

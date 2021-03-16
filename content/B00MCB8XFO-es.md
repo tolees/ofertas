@@ -5,7 +5,7 @@ date: 2020-06-15 20:40:45
 image: 'https://m.media-amazon.com/images/I/41qX5pFtdvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MCB8XFO-es Seiko SUT162P1 ES si we 29xh9mm Solar'
 sku: 'B00MCB8XFO-es'
 tags: [  ]

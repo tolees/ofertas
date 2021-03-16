@@ -5,7 +5,7 @@ date: 2020-06-19 19:01:24
 image: 'https://m.media-amazon.com/images/I/31tUeYlRAHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSWY4X3-es Womanizer +Size Vibrator Potente estimulador del clítoris...'
 sku: 'B01MSWY4X3-es'
 tags: [  ]

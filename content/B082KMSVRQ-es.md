@@ -5,7 +5,7 @@ date: 2020-09-24 11:29:30
 image: 'https://m.media-amazon.com/images/I/41BNP8s+dEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KMSVRQ-es LABISTS Impresora 3D Impresora Mini y Portátil con...'
 sku: 'B082KMSVRQ-es'
 tags: [  ]

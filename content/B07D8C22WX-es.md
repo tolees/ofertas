@@ -5,7 +5,7 @@ date: 2020-01-29 08:37:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31V4UhhAnXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8C22WX-es Dove Loción corporal - 6 de 190 ml. Total 1140 ml.'
 sku: 'B07D8C22WX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-02 14:44:08
 image: 'https://m.media-amazon.com/images/I/31gpCMVijtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K69TVZA-es Max Factor CC Colour Corrector Sticks Correctores Tono...'
 sku: 'B00K69TVZA-es'
 tags: [  ]

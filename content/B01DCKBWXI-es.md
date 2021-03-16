@@ -5,7 +5,7 @@ date: 2020-04-14 13:43:48
 image: 'https://m.media-amazon.com/images/I/41gXwOFbivL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DCKBWXI-es VIASOLAR Panel Solar policristalino 50W 12V'
 sku: 'B01DCKBWXI-es'
 tags: [  ]

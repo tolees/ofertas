@@ -5,7 +5,7 @@ date: 2020-05-06 11:45:51
 image: 'https://m.media-amazon.com/images/I/31tIWElTeZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NMYNWD-es Baby Teething Toys Silicona suave Mordedor de frutas sin...'
 sku: 'B083NMYNWD-es'
 tags: [  ]

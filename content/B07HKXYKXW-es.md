@@ -5,7 +5,7 @@ date: 2020-06-11 13:20:27
 image: 'https://m.media-amazon.com/images/I/41o917e43ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKXYKXW-es Mr. Wonderful WOA09073ES Taza Multicolor'
 sku: 'B07HKXYKXW-es'
 tags: [  ]

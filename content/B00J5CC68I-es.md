@@ -5,7 +5,7 @@ date: 2020-08-20 07:08:43
 image: 'https://m.media-amazon.com/images/I/31pI9dMtUkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5CC68I-es The London Nº1 Ginebra - 1000 ml'
 sku: 'B00J5CC68I-es'
 tags: [  ]

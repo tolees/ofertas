@@ -5,7 +5,7 @@ date: 2020-03-29 11:06:02
 image: 'https://m.media-amazon.com/images/I/41wyhsrY6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC43D4P-es AXE Black - Desodorante Bodyspray para hombre 48 horas de...'
 sku: 'B07NC43D4P-es'
 tags: [  ]

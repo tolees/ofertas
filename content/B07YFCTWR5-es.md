@@ -5,7 +5,7 @@ date: 2020-05-17 16:03:54
 image: 'https://m.media-amazon.com/images/I/41djmHfvDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFCTWR5-es TROMEE Bastones de Senderismo'
 sku: 'B07YFCTWR5-es'
 tags: [  ]

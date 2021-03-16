@@ -5,7 +5,7 @@ date: 2020-06-27 19:04:15
 image: 'https://m.media-amazon.com/images/I/41y-eDQyR0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B62L4PB-es Pulsera de joyería Inteligente Multifuncional 18K Gold...'
 sku: 'B08B62L4PB-es'
 tags: [  ]

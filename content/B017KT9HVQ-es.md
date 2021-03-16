@@ -5,7 +5,7 @@ date: 2020-01-05 19:29:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51spk5YUZQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017KT9HVQ-es Chic Orange Alfombra Scherzo Crema 120 x 170 cm'
 sku: 'B017KT9HVQ-es'
 tags: [  ]

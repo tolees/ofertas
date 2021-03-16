@@ -5,7 +5,7 @@ date: 2020-08-17 21:41:48
 image: 'https://m.media-amazon.com/images/I/51W48OgkkfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V68DQGV-es Masthome - Sartén para Leche con Olla 10 Piezas Acero...'
 sku: 'B07V68DQGV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:19:46
 image: 'https://m.media-amazon.com/images/I/51dM28YkfCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X7TJ2P2-es BRIKSMAX Kit de Iluminación Led para Lego Technic Mack...'
 sku: 'B07X7TJ2P2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-06 18:46:35
 image: 'https://m.media-amazon.com/images/I/41QkF8MRabL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVMLSN9-es Desigual Blus Venecia Rojo Borgoña 3007 Large para Mujer'
 sku: 'B07WVMLSN9-es'
 tags: [  ]

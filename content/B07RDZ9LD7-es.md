@@ -5,7 +5,7 @@ date: 2020-03-23 11:53:36
 image: 'https://m.media-amazon.com/images/I/41gsapw62OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDZ9LD7-es ASUS ROG Zephyrus M GU502GV-ES004T - Ordenador portátil...'
 sku: 'B07RDZ9LD7-es'
 tags: [  ]

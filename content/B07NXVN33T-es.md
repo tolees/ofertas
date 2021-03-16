@@ -5,7 +5,7 @@ date: 2020-02-27 11:19:00
 image: 'https://m.media-amazon.com/images/I/41usEbkSJgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXVN33T-es Skechers Go Run 600 Zapatillas para Hombre Negro Black...'
 sku: 'B07NXVN33T-es'
 tags: [  ]

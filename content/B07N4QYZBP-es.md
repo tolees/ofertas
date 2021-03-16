@@ -5,7 +5,7 @@ date: 2020-09-23 14:52:54
 image: 'https://m.media-amazon.com/images/I/31dWyR+pyzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4QYZBP-es Under Armour Tech Pant 2.0 Pantalones Deportivos Mujer...'
 sku: 'B07N4QYZBP-es'
 tags: [  ]

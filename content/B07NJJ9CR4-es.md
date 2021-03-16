@@ -5,7 +5,7 @@ date: 2020-04-09 11:41:43
 image: 'https://m.media-amazon.com/images/I/41VJI2qFovL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJJ9CR4-es Tamaris 1-1-25252-23 Zapatillas Altas para Mujer Marrón...'
 sku: 'B07NJJ9CR4-es'
 tags: [  ]

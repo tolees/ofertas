@@ -5,7 +5,7 @@ date: 2020-09-22 09:18:49
 image: 'https://m.media-amazon.com/images/I/51W8+WuxJjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B4QESVQ-es HGST Travelstar 7K1000 1TB - Disco Duro Interno de 1 TB...'
 sku: 'B00B4QESVQ-es'
 tags: [  ]

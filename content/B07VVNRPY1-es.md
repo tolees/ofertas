@@ -5,7 +5,7 @@ date: 2020-07-15 07:06:51
 image: 'https://m.media-amazon.com/images/I/41bT0cWH5ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVNRPY1-es Bolsas Vacio Ropa Bolsas de Almacenaje al Vacío Bolsas...'
 sku: 'B07VVNRPY1-es'
 tags: [  ]

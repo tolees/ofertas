@@ -5,7 +5,7 @@ date: 2020-05-13 16:09:14
 image: 'https://m.media-amazon.com/images/I/51g-NA0XtSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M87ZMLD-es PETEMOO Asiento del Coche de Seguridad para Mascotas Perro...'
 sku: 'B07M87ZMLD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 18:02:31
 image: 'https://m.media-amazon.com/images/I/41ZL6e9yGxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017R8TCQ0-es Tatkraft Frogs Gancho Toallero Adhesivo Colgador Infantil...'
 sku: 'B017R8TCQ0-es'
 tags: [  ]

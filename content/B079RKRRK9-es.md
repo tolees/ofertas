@@ -5,7 +5,7 @@ date: 2020-01-14 18:43:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gFSmhwIBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RKRRK9-es Sorel Explorer Joan Botas para Mujer Gris Quarry/Black 052...'
 sku: 'B079RKRRK9-es'
 tags: [  ]

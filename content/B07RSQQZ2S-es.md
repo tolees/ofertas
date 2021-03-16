@@ -5,7 +5,7 @@ date: 2020-04-28 07:01:15
 image: 'https://m.media-amazon.com/images/I/31cfh6ZM3JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RSQQZ2S-es LTDNB Cargador Inalámbrico Rápido Qi Wireless Charger por...'
 sku: 'B07RSQQZ2S-es'
 tags: [  ]

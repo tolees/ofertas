@@ -5,7 +5,7 @@ date: 2020-07-16 23:08:41
 image: 'https://m.media-amazon.com/images/I/41nCVzDqk8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0784GGBFG-es Rimmel London Super Gel Esmalte de Uñas Tono 50 - 12 ml'
 sku: 'B0784GGBFG-es'
 tags: [  ]

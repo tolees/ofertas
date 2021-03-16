@@ -5,7 +5,7 @@ date: 2020-07-07 15:35:31
 image: 'https://m.media-amazon.com/images/I/516TyGeyeUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXW2KCT-es Lámpara de ilusión 3D Siete regalos de Dragon Ball...'
 sku: 'B07QXW2KCT-es'
 tags: [  ]

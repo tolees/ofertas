@@ -5,7 +5,7 @@ date: 2020-08-25 07:13:13
 image: 'https://m.media-amazon.com/images/I/51iX7tqbDfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VWS63K7-es Joyoldelf 30 Moldes para Galletas Moldes Galletas Acero...'
 sku: 'B06VWS63K7-es'
 tags: [  ]

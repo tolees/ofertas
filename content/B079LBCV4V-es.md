@@ -5,7 +5,7 @@ date: 2020-04-15 00:34:53
 image: 'https://m.media-amazon.com/images/I/41EQwjP98hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079LBCV4V-es Gifts Treat Turbante de Secado de Pelo Toalla de Secado de...'
 sku: 'B079LBCV4V-es'
 tags: [  ]

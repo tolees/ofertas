@@ -5,7 +5,7 @@ date: 2020-09-11 09:19:37
 image: 'https://m.media-amazon.com/images/I/41kCTYT4sFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZY96YF-es Skechers Women s Flex Appeal 3.0 Trainers Black Black Knit...'
 sku: 'B079ZY96YF-es'
 tags: [  ]

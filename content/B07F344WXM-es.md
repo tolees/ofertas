@@ -5,7 +5,7 @@ date: 2020-02-08 07:22:51
 image: 'https://m.media-amazon.com/images/I/41UDsUR-zHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F344WXM-es Helly Hansen - HH Racing Bag Shoppers y Bolsos de Hombro...'
 sku: 'B07F344WXM-es'
 tags: [  ]

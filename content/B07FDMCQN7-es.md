@@ -5,7 +5,7 @@ date: 2020-03-08 01:21:19
 image: 'https://m.media-amazon.com/images/I/41wQtLURNkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDMCQN7-es Millet Ld Seneca Tecno polar mujer 111573_99152 rosa small'
 sku: 'B07FDMCQN7-es'
 tags: [  ]

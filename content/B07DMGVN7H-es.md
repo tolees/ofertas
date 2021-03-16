@@ -5,7 +5,7 @@ date: 2020-06-26 13:02:06
 image: 'https://m.media-amazon.com/images/I/51uJmrhKqYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DMGVN7H-es Funko – Royal Family Idea Regalo Statue collezionabili...'
 sku: 'B07DMGVN7H-es'
 tags: [  ]

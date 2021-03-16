@@ -5,7 +5,7 @@ date: 2020-08-22 17:48:42
 image: 'https://m.media-amazon.com/images/I/31iEP5LfuLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMKY68T-es Dickie - Harry Potter - Coche Ford Anglia 1:24 3185002'
 sku: 'B07PMKY68T-es'
 tags: [  ]

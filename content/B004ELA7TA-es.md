@@ -5,7 +5,7 @@ date: 2020-09-19 06:15:57
 image: 'https://m.media-amazon.com/images/I/41l0F0z2MIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ELA7TA-es Jabra Speak 410 - Altavoz Portátil para Conferencias con...'
 sku: 'B004ELA7TA-es'
 tags: [  ]

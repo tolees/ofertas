@@ -5,7 +5,7 @@ date: 2020-05-30 12:03:16
 image: 'https://m.media-amazon.com/images/I/51wPKgdxGaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000AYHN60-es Hama Dan Import 207-26 Bolas de Color de la Piel'
 sku: 'B000AYHN60-es'
 tags: [  ]

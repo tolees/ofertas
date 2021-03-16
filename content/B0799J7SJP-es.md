@@ -5,7 +5,7 @@ date: 2020-01-28 01:47:30
 image: 'https://m.media-amazon.com/images/I/519g5fdrkRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0799J7SJP-es QIMEI-SHOP Arnés de Perro Arnés de Mascotas Ajustable de...'
 sku: 'B0799J7SJP-es'
 tags: [  ]

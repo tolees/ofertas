@@ -5,7 +5,7 @@ date: 2020-04-20 09:33:53
 image: 'https://m.media-amazon.com/images/I/31xJpUrIpfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXJ28QT-es Lee Daren Zip Fly Jeans Azul Dark Diamond Ft 29W / 34L...'
 sku: 'B07JXJ28QT-es'
 tags: [  ]

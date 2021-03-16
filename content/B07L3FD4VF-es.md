@@ -5,7 +5,7 @@ date: 2020-03-27 12:27:56
 image: 'https://m.media-amazon.com/images/I/410-jwogSyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3FD4VF-es Tommy Hilfiger TH Patch Espadrille Alpargata para Mujer...'
 sku: 'B07L3FD4VF-es'
 tags: [  ]

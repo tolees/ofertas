@@ -5,7 +5,7 @@ date: 2020-05-13 23:15:56
 image: 'https://m.media-amazon.com/images/I/4170eFJZCmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTQZJDN-es Hugo Boss Reloj de Pulsera 1513677'
 sku: 'B07KTQZJDN-es'
 tags: [  ]

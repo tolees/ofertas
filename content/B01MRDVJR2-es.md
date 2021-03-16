@@ -5,7 +5,7 @@ date: 2020-08-20 18:06:15
 image: 'https://m.media-amazon.com/images/I/41pQzbAJwYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRDVJR2-es i-Buy Funda de Cuero Microfibra PU Resistente al Agua para...'
 sku: 'B01MRDVJR2-es'
 tags: [  ]

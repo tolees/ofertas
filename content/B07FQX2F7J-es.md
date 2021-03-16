@@ -5,7 +5,7 @@ date: 2020-07-25 12:28:04
 image: 'https://m.media-amazon.com/images/I/41NJP1HjK3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQX2F7J-es Clarks Step Urban Mix Zapatillas para Hombre Negro Black...'
 sku: 'B07FQX2F7J-es'
 tags: [  ]

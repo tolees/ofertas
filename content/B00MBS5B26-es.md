@@ -5,7 +5,7 @@ date: 2020-01-08 16:48:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jW5zff70L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MBS5B26-es Clatronic WK 3445 Hervidor de Agua eléctrico con Apagado...'
 sku: 'B00MBS5B26-es'
 tags: [  ]

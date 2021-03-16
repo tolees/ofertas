@@ -5,7 +5,7 @@ date: 2020-02-21 20:14:14
 image: 'https://m.media-amazon.com/images/I/5130P3clcvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ48CZM-es Paquete de 5 parches de lentejuelas bordados con diseño de...'
 sku: 'B07JJ48CZM-es'
 tags: [  ]

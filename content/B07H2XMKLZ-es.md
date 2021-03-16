@@ -5,7 +5,7 @@ date: 2020-05-29 07:43:26
 image: 'https://m.media-amazon.com/images/I/41EUVAocYnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2XMKLZ-es Smeg 770926334 Tostador 2000 W Beige'
 sku: 'B07H2XMKLZ-es'
 tags: [  ]

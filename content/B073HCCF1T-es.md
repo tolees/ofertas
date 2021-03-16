@@ -5,7 +5,7 @@ date: 2020-06-06 16:45:00
 image: 'https://m.media-amazon.com/images/I/510kUx6aUxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073HCCF1T-es Casio Reloj Analogico para Unisex de Cuarzo con Correa en...'
 sku: 'B073HCCF1T-es'
 tags: [  ]

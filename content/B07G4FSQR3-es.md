@@ -5,7 +5,7 @@ date: 2021-03-16 14:54:02
 image: 'https://m.media-amazon.com/images/I/51kooV5AkbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4FSQR3-es Hugo BOSS Reloj Esqueleto para Hombre de Automático con...'
 sku: 'B07G4FSQR3-es'
 tags: [ 'hugo boss', ]
@@ -28,10 +28,10 @@ En este momento está [Hugo BOSS Reloj Esqueleto para Hombre de Automático con 
 
 🔎:
 
-- Esfera con maquinaria vista
-- Grosor de la caja de 12,00 mm
-- Correa negra y azul en nailon y goma
-- Movimiento automático
 - 5 ATM de resistencia al agua
+- Correa negra y azul en nailon y goma
+- Esfera con maquinaria vista
+- Movimiento automático
+- Grosor de la caja de 12,00 mm
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G4FSQR3/?tag=tolees-21)

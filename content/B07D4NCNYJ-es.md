@@ -5,7 +5,7 @@ date: 2020-07-13 16:36:40
 image: 'https://m.media-amazon.com/images/I/31HV2dtBj1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4NCNYJ-es Krups Dispensador de cerveza The Sub Compact VB641810 -...'
 sku: 'B07D4NCNYJ-es'
 tags: [  ]

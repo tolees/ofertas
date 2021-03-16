@@ -5,7 +5,7 @@ date: 2020-03-12 09:51:33
 image: 'https://m.media-amazon.com/images/I/31B27c9z7HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8MPPR1-es Lacoste Ph5522 Polo Rojo Bordeaux 476 X-Small para Hombre'
 sku: 'B07B8MPPR1-es'
 tags: [  ]

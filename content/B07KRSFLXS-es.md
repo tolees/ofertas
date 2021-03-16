@@ -5,7 +5,7 @@ date: 2020-05-22 23:19:02
 image: 'https://m.media-amazon.com/images/I/315Dw1QRMfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRSFLXS-es Columbia Sun Ridge Polo Hombre Azul Blue Sky S'
 sku: 'B07KRSFLXS-es'
 tags: [  ]

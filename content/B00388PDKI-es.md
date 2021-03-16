@@ -5,7 +5,7 @@ date: 2020-04-08 14:40:13
 image: 'https://m.media-amazon.com/images/I/41K+P17IhsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00388PDKI-es Advance Pienso para Gato Adulto con Pollo y Arroz - 3000 gr'
 sku: 'B00388PDKI-es'
 tags: [  ]

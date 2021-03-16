@@ -5,7 +5,7 @@ date: 2020-01-05 10:07:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410DMwo%2BIPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBNDJNJ-es National Geographic - Telescopio y microscopio para...'
 sku: 'B07NBNDJNJ-es'
 tags: [  ]

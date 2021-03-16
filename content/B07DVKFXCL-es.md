@@ -5,7 +5,7 @@ date: 2020-06-25 05:04:24
 image: 'https://m.media-amazon.com/images/I/41m5tS6RzIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVKFXCL-es New Balance Summit Unknown m Zapatillas de Running para...'
 sku: 'B07DVKFXCL-es'
 tags: [  ]

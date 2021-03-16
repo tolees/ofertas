@@ -5,7 +5,7 @@ date: 2020-09-04 08:10:05
 image: 'https://m.media-amazon.com/images/I/41VslC22D4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCEPETY-es Funko Pop! - Vinyl The Dark Tower: The Man in Black 12704'
 sku: 'B01NCEPETY-es'
 tags: [  ]

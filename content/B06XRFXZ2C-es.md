@@ -5,7 +5,7 @@ date: 2020-06-16 19:12:51
 image: 'https://m.media-amazon.com/images/I/51Ljerw5hpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRFXZ2C-es Corsair HD140 RGB - Ventilador de PC 140 mm Iluminación a...'
 sku: 'B06XRFXZ2C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 20:01:12
 image: 'https://m.media-amazon.com/images/I/41qgDx1DP0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798CQNH2-es Smoby- Spielhaus Doorbell Timbre electrónico Casitas 810900'
 sku: 'B0798CQNH2-es'
 tags: [  ]

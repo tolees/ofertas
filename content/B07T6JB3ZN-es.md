@@ -5,7 +5,7 @@ date: 2020-08-05 05:12:32
 image: 'https://m.media-amazon.com/images/I/31ir-aAaRVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T6JB3ZN-es Orbegozo ADR 126 – Aire Acondicionado portátil con Bomba...'
 sku: 'B07T6JB3ZN-es'
 tags: [  ]

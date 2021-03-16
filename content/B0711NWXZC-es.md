@@ -5,7 +5,7 @@ date: 2020-02-11 14:40:12
 image: 'https://m.media-amazon.com/images/I/41JvwcS-E9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711NWXZC-es Puma One 17.4 AG Zapatillas de Fútbol para Hombre Azul...'
 sku: 'B0711NWXZC-es'
 tags: [  ]

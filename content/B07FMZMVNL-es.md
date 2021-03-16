@@ -5,7 +5,7 @@ date: 2020-08-25 18:17:20
 image: 'https://m.media-amazon.com/images/I/41NFbWex0NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMZMVNL-es adidas Galaxy 26 Zapatillas de Running para Hombre Negro...'
 sku: 'B07FMZMVNL-es'
 tags: [  ]

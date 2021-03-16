@@ -5,7 +5,7 @@ date: 2020-02-29 08:22:39
 image: 'https://m.media-amazon.com/images/I/41lTWAgqqxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8TRHHM-es Charles Wilson Vaquero Corto Elástico Cómodo para Hombre...'
 sku: 'B07P8TRHHM-es'
 tags: [  ]

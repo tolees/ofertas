@@ -5,7 +5,7 @@ date: 2020-02-14 15:53:58
 image: 'https://m.media-amazon.com/images/I/41dl8oESB+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y31LB1T-es New Balance 574 Core Zapatillas Hombre Gris Grey EGG 44.5...'
 sku: 'B06Y31LB1T-es'
 tags: [  ]

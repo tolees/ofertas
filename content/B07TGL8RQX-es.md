@@ -5,7 +5,7 @@ date: 2020-03-07 23:34:17
 image: 'https://m.media-amazon.com/images/I/51OHq-Nt06L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TGL8RQX-es Muñeco Diabolico BD + DVD de Extras + Slip Cover 1988...'
 sku: 'B07TGL8RQX-es'
 tags: [  ]

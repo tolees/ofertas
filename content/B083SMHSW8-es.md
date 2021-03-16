@@ -5,7 +5,7 @@ date: 2020-06-11 05:45:39
 image: 'https://m.media-amazon.com/images/I/41AjxsdyO3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SMHSW8-es Cinta Métrica Láser 2 En 1 Meterk Telémetro láser...'
 sku: 'B083SMHSW8-es'
 tags: [  ]

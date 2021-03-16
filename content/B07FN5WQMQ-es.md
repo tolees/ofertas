@@ -5,7 +5,7 @@ date: 2020-08-10 16:51:16
 image: 'https://m.media-amazon.com/images/I/41NFbWex0NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FN5WQMQ-es adidas Galaxy 4 Zapatillas de Running para Hombre Negro...'
 sku: 'B07FN5WQMQ-es'
 tags: [  ]

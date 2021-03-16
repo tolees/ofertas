@@ -5,7 +5,7 @@ date: 2020-09-08 14:50:07
 image: 'https://m.media-amazon.com/images/I/41kwNdOkWGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XPV2HL-es Under Armour Men s Braided 2.0 Belt Cinturón Hombre Azul...'
 sku: 'B077XPV2HL-es'
 tags: [  ]

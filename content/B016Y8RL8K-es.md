@@ -5,7 +5,7 @@ date: 2020-04-15 20:02:31
 image: 'https://m.media-amazon.com/images/I/41fVIIuvYoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016Y8RL8K-es Tierhausschuhe Disney Star Wars Meister Yoda'
 sku: 'B016Y8RL8K-es'
 tags: [  ]

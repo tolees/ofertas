@@ -5,7 +5,7 @@ date: 2020-02-18 11:05:49
 image: 'https://m.media-amazon.com/images/I/31IeFUntU1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBSJQJ8-es Gelink Soporte de Pared Wall Mount para Dot 3ª generación...'
 sku: 'B07MBSJQJ8-es'
 tags: [  ]

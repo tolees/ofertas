@@ -5,7 +5,7 @@ date: 2020-01-18 18:54:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31f8p5gn7NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8XP1L1-es Crocs Classic Slipper Zapatillas Bajas Unisex Adulto Rojo...'
 sku: 'B07K8XP1L1-es'
 tags: [  ]

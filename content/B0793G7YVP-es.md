@@ -5,7 +5,7 @@ date: 2020-08-26 06:37:04
 image: 'https://m.media-amazon.com/images/I/31z65Lg+YwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0793G7YVP-es Kit Cuidado de Barba Champú Sérum Bálsamo Peine - Regalo...'
 sku: 'B0793G7YVP-es'
 tags: [  ]

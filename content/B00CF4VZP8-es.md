@@ -5,7 +5,7 @@ date: 2020-08-10 00:05:52
 image: 'https://m.media-amazon.com/images/I/41Zpm2eMPcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CF4VZP8-es Nike W React Element 55 Zapatillas de Running para Mujer...'
 sku: 'B00CF4VZP8-es'
 tags: [  ]

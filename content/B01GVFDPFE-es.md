@@ -5,7 +5,7 @@ date: 2020-05-27 06:38:28
 image: 'https://m.media-amazon.com/images/I/317-otxh3GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GVFDPFE-es Optoma HEM2 - Auriculares Alámbrico Dentro de oído...'
 sku: 'B01GVFDPFE-es'
 tags: [  ]

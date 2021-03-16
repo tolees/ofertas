@@ -5,7 +5,7 @@ date: 2020-04-27 09:43:47
 image: 'https://m.media-amazon.com/images/I/41utSYa5-2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XMJCWC-es DIM Generous Invisible Sujetador Blanco Nacre 100B para Mujer'
 sku: 'B005XMJCWC-es'
 tags: [  ]

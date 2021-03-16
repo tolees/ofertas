@@ -5,7 +5,7 @@ date: 2020-02-02 16:35:00
 image: 'https://m.media-amazon.com/images/I/51OefWfE2wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWWZ6HH-es Antena de TV Antena de TV Digital HD para Interiores...'
 sku: 'B07QWWZ6HH-es'
 tags: [  ]

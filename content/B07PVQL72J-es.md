@@ -5,7 +5,7 @@ date: 2020-05-16 10:23:05
 image: 'https://m.media-amazon.com/images/I/513TEwOfelL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVQL72J-es Under Armour UA HOVR Sonic 3 Zapatillas Ligeras para...'
 sku: 'B07PVQL72J-es'
 tags: [  ]

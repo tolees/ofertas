@@ -5,7 +5,7 @@ date: 2020-06-14 16:48:59
 image: 'https://m.media-amazon.com/images/I/4162Twa+TdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4TTS99-es NIKE BA5819 Mochilla de Deporte Unisex Adulto Deep Royal...'
 sku: 'B07T4TTS99-es'
 tags: [  ]

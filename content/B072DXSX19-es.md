@@ -5,7 +5,7 @@ date: 2020-09-06 13:30:13
 image: 'https://m.media-amazon.com/images/I/41e1ob3DQfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072DXSX19-es Funko Pop! - Llavero de Vinilo Jon Snow 14690-PDQ'
 sku: 'B072DXSX19-es'
 tags: [  ]

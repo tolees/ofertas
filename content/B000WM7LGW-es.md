@@ -5,7 +5,7 @@ date: 2020-03-07 00:51:17
 image: 'https://m.media-amazon.com/images/I/410im3wIlGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WM7LGW-es Philips Avent SCF152/01 - Pezonera para curar pezones...'
 sku: 'B000WM7LGW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-12 15:32:34
 image: 'https://m.media-amazon.com/images/I/51Qsj83I8tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWV3Z5S-es ELTD Funda + Protector Pantalla para Samsung Galaxy Tab A...'
 sku: 'B07WWV3Z5S-es'
 tags: [  ]

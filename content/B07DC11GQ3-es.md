@@ -5,7 +5,7 @@ date: 2020-02-25 17:39:55
 image: 'https://m.media-amazon.com/images/I/41ykxPE4iDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC11GQ3-es Puma Icra Trainer SD Zapatillas Unisex adulto Marrón...'
 sku: 'B07DC11GQ3-es'
 tags: [  ]

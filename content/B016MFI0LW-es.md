@@ -5,7 +5,7 @@ date: 2020-07-09 20:51:00
 image: 'https://m.media-amazon.com/images/I/31vxgn3c34L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016MFI0LW-es Medisana FS 881 bañera de hidromasaje para pies con...'
 sku: 'B016MFI0LW-es'
 tags: [  ]

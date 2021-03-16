@@ -5,7 +5,7 @@ date: 2020-09-06 18:02:27
 image: 'https://m.media-amazon.com/images/I/41x9fDMiYFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FC9HBHX-es Juego de cuchillos Homever juego moderno de bloques de...'
 sku: 'B07FC9HBHX-es'
 tags: [  ]

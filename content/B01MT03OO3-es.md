@@ -5,7 +5,7 @@ date: 2020-07-16 18:52:46
 image: 'https://m.media-amazon.com/images/I/41Mz41Zw2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT03OO3-es Bourjois Healthy Mix Base de Maquillaje Tono 53 Light...'
 sku: 'B01MT03OO3-es'
 tags: [  ]

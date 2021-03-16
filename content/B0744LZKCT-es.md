@@ -5,7 +5,7 @@ date: 2020-05-28 19:41:48
 image: 'https://m.media-amazon.com/images/I/31DYa7b55cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0744LZKCT-es ARDITEX FP10016 Bolsa Mamá multifuncional de 39x14x30.5cm...'
 sku: 'B0744LZKCT-es'
 tags: [  ]

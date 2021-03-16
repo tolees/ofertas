@@ -5,7 +5,7 @@ date: 2020-06-22 19:39:19
 image: 'https://m.media-amazon.com/images/I/41k8VUgRNsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TX9D2HG-es American Tourister Disney Legends Spinner S Equipaje de...'
 sku: 'B07TX9D2HG-es'
 tags: [  ]

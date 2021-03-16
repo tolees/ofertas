@@ -5,7 +5,7 @@ date: 2020-08-25 11:52:24
 image: 'https://m.media-amazon.com/images/I/51fDBTjvfNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B4KJG78-es Luces solares Jardín Exterior 【2020 Más Reciente-4 Pcs】...'
 sku: 'B08B4KJG78-es'
 tags: [  ]

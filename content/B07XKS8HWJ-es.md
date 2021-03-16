@@ -5,7 +5,7 @@ date: 2020-03-31 21:08:14
 image: 'https://m.media-amazon.com/images/I/41Te1Lnn8VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKS8HWJ-es LileZbox - Soporte Expositor de acrílico para Figuras...'
 sku: 'B07XKS8HWJ-es'
 tags: [  ]

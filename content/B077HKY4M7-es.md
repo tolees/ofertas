@@ -5,7 +5,7 @@ date: 2020-01-03 06:48:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51FPrn6KXyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HKY4M7-es find. MDR 40621 vestidos mujer Rojo Red 38 Talla del...'
 sku: 'B077HKY4M7-es'
 tags: [  ]

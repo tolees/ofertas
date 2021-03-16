@@ -5,7 +5,7 @@ date: 2020-02-02 00:04:24
 image: 'https://m.media-amazon.com/images/I/41AYhAtktBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071J55BYN-es Mono Corto con Tela de Cambray - Large - Azul Claro Chambray'
 sku: 'B071J55BYN-es'
 tags: [  ]

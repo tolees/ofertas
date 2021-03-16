@@ -5,7 +5,7 @@ date: 2020-05-29 07:04:56
 image: 'https://m.media-amazon.com/images/I/31g+Xve3I0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JQIYPIA-es ENERGETICS Pesas Mancuernas Neopreno Unisex Hantel Neopren...'
 sku: 'B00JQIYPIA-es'
 tags: [  ]

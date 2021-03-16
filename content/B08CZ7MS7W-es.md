@@ -5,7 +5,7 @@ date: 2020-09-16 16:23:16
 image: 'https://m.media-amazon.com/images/I/41vFZ6q00fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZ7MS7W-es Trampa de Red de Pesca portátil Cuenta Luminosa Cobre...'
 sku: 'B08CZ7MS7W-es'
 tags: [  ]

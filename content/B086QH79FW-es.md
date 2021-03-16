@@ -5,7 +5,7 @@ date: 2020-04-18 15:02:03
 image: 'https://m.media-amazon.com/images/I/31ccV9vsEbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QH79FW-es Agger Transparente bebé de Silicona Mam Anillo Chupete...'
 sku: 'B086QH79FW-es'
 tags: [  ]

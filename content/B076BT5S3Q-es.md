@@ -5,7 +5,7 @@ date: 2020-01-21 20:56:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oxnHqSV1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076BT5S3Q-es La Ormiga Cuadros Marino Conjunto de Ropa Bebé-Niños Azul...'
 sku: 'B076BT5S3Q-es'
 tags: [  ]

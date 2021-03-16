@@ -5,7 +5,7 @@ date: 2020-08-05 07:34:11
 image: 'https://m.media-amazon.com/images/I/51VDKkPQVWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008UHA58M-es Beurer FM60 - Masajeador 50 W función calor color blanco y...'
 sku: 'B008UHA58M-es'
 tags: [  ]

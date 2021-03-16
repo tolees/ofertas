@@ -5,7 +5,7 @@ date: 2020-10-04 16:38:21
 image: 'https://m.media-amazon.com/images/I/31NPK6AL5ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L56VQXS-es Verdeo Verdejo Vino Blanco. DO Rueda - 750ml'
 sku: 'B00L56VQXS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 00:20:32
 image: 'https://m.media-amazon.com/images/I/41-inSD+3yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DRPFTR-es estante Gourmet Kitchen Rail con ganchos Montado en la...'
 sku: 'B083DRPFTR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 16:10:13
 image: 'https://m.media-amazon.com/images/I/51NwQhK3NQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0851BWX6Q-es HERSITY Camión de Basura Montar y Desmontar Coches con...'
 sku: 'B0851BWX6Q-es'
 tags: [  ]

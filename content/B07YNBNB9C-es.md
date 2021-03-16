@@ -5,7 +5,7 @@ date: 2020-07-07 08:24:42
 image: 'https://m.media-amazon.com/images/I/41jbvLTpCFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNBNB9C-es Braun Hogar Multi Quick 7 Batidora de Mano 1000 W plástico...'
 sku: 'B07YNBNB9C-es'
 tags: [  ]

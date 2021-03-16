@@ -5,7 +5,7 @@ date: 2020-09-03 12:05:36
 image: 'https://m.media-amazon.com/images/I/41+LdmytWzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLZZ2DJ-es Kindle Luces Toolove Lámpara de Lectura LED Recargable USB...'
 sku: 'B07DLZZ2DJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-19 08:00:58
 image: 'https://m.media-amazon.com/images/I/51FQVR6VuYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6SV8N3-es KHOMO - Carcasa Trasera Transparente para iPad de 9 7...'
 sku: 'B07D6SV8N3-es'
 tags: [  ]

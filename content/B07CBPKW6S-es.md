@@ -5,7 +5,7 @@ date: 2020-09-23 19:10:31
 image: 'https://m.media-amazon.com/images/I/318yCPXYpbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBPKW6S-es Victoria Basket Lona Plataforma Autoclave Zapatillas para...'
 sku: 'B07CBPKW6S-es'
 tags: [  ]

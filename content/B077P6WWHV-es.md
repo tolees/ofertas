@@ -5,7 +5,7 @@ date: 2020-02-02 18:24:42
 image: 'https://m.media-amazon.com/images/I/41wAmc58RiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077P6WWHV-es Puma Suede Heart Bubble Zapatillas para Mujer Marrón...'
 sku: 'B077P6WWHV-es'
 tags: [  ]

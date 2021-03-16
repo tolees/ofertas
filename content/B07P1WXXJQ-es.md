@@ -5,7 +5,7 @@ date: 2020-09-28 21:54:28
 image: 'https://m.media-amazon.com/images/I/41XF46ammjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P1WXXJQ-es Ombar Teclado Mecánico Gaming 105 Teclas y Switches Blue...'
 sku: 'B07P1WXXJQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 15:11:36
 image: 'https://m.media-amazon.com/images/I/51leuyIzztL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSBX5SS-es Sharp DR-P355 Radio despertador Digital Estéreo Dab/Dab+ y...'
 sku: 'B07HSBX5SS-es'
 tags: [  ]

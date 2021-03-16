@@ -5,7 +5,7 @@ date: 2020-03-04 08:36:05
 image: 'https://m.media-amazon.com/images/I/514pd5iHB0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LC7QHLS-es Campark X20 - Cámara de acción 4K de 20 MP con Pantalla...'
 sku: 'B07LC7QHLS-es'
 tags: [  ]

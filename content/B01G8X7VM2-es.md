@@ -5,7 +5,7 @@ date: 2020-09-29 06:03:48
 image: 'https://m.media-amazon.com/images/I/41FSksjNYPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G8X7VM2-es BBC micro: bit go'
 sku: 'B01G8X7VM2-es'
 tags: [  ]

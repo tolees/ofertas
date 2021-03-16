@@ -5,7 +5,7 @@ date: 2020-06-01 08:03:33
 image: 'https://m.media-amazon.com/images/I/516F5U7itEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M2X3QL-es Suhctup Funda Compatible con Xiaomi Redmi 7A Transparente...'
 sku: 'B088M2X3QL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-08 15:55:11
 image: 'https://m.media-amazon.com/images/I/51h+GVixXxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMCY9KR-es MOISO SEBS Plantillas Alivio de Pies Dolorosos Soles de...'
 sku: 'B07KMCY9KR-es'
 tags: [  ]

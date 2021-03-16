@@ -5,7 +5,7 @@ date: 2020-07-17 13:31:18
 image: 'https://m.media-amazon.com/images/I/31hG7O7pbxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0RAYE8-es BenQ W1090 Proyector 1080P modo Deporte pantalla grande de...'
 sku: 'B01M0RAYE8-es'
 tags: [  ]

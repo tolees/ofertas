@@ -5,7 +5,7 @@ date: 2020-04-11 18:36:51
 image: 'https://m.media-amazon.com/images/I/51jDXluvZxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVDCDQM-es UniqueMe Funda para iPhone XS 2018 / iPhone X 2017 Ultra...'
 sku: 'B07GVDCDQM-es'
 tags: [  ]

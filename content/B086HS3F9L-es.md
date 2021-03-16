@@ -5,7 +5,7 @@ date: 2020-10-02 08:13:59
 image: 'https://m.media-amazon.com/images/I/417q3SgJ6zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086HS3F9L-es Olay Gel Limpiador En Espuma Piel Normal 150 ml'
 sku: 'B086HS3F9L-es'
 tags: [  ]

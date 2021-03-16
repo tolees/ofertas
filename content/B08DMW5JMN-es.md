@@ -5,7 +5,7 @@ date: 2020-08-23 13:09:37
 image: 'https://m.media-amazon.com/images/I/21DxcqHq7AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DMW5JMN-es Panamar NE555 + CD4017 Rojo Azul Doble Color Juego de...'
 sku: 'B08DMW5JMN-es'
 tags: [  ]

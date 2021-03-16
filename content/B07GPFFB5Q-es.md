@@ -5,7 +5,7 @@ date: 2020-07-23 08:26:24
 image: 'https://m.media-amazon.com/images/I/412H+rCjbSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPFFB5Q-es Piz Buin - Protector Solar Tan & Protect Intensificador...'
 sku: 'B07GPFFB5Q-es'
 tags: [  ]

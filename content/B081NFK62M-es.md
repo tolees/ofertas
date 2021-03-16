@@ -5,7 +5,7 @@ date: 2020-08-15 13:27:31
 image: 'https://m.media-amazon.com/images/I/51psNJiv9NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081NFK62M-es VADIM Sillas Comedor Blanca Nordica Juego de 4 Silla...'
 sku: 'B081NFK62M-es'
 tags: [  ]

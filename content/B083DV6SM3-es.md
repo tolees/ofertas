@@ -5,7 +5,7 @@ date: 2020-05-27 18:04:58
 image: 'https://m.media-amazon.com/images/I/41NTALdLSNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DV6SM3-es Potente acabado de manga 8x48mm - Plata 8x48mm'
 sku: 'B083DV6SM3-es'
 tags: [  ]

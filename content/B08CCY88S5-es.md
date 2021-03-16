@@ -5,7 +5,7 @@ date: 2020-08-09 17:06:05
 image: 'https://m.media-amazon.com/images/I/519XJOC9q5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CCY88S5-es Auriculares Bluetooth 5.0 Auriculares inalámbricos 3D...'
 sku: 'B08CCY88S5-es'
 tags: [  ]

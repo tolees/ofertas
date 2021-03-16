@@ -5,7 +5,7 @@ date: 2020-02-07 00:33:01
 image: 'https://m.media-amazon.com/images/I/31ijqNjcBTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XK81TPK-es Perixx PERIMICE-718 - Ratón Izquierda Diseño vertical...'
 sku: 'B06XK81TPK-es'
 tags: [  ]

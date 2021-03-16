@@ -5,7 +5,7 @@ date: 2020-08-25 17:28:34
 image: 'https://m.media-amazon.com/images/I/31oiPKEnImL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019A7XR3A-es Rexona Desodorante Antitranspirante Shower Fresh 200ml'
 sku: 'B019A7XR3A-es'
 tags: [  ]

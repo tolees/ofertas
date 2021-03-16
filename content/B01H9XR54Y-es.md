@@ -5,7 +5,7 @@ date: 2020-07-18 14:36:15
 image: 'https://m.media-amazon.com/images/I/31n84SWqvKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H9XR54Y-es SPC Harmony - Teléfono móvil Dual SIM Números y letras...'
 sku: 'B01H9XR54Y-es'
 tags: [  ]

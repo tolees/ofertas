@@ -5,7 +5,7 @@ date: 2020-08-01 14:47:25
 image: 'https://m.media-amazon.com/images/I/41OJ7NRQZFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7V2IB5-es OrthoCare S.Fitness - Rodillera Soporte y compresión para...'
 sku: 'B01M7V2IB5-es'
 tags: [  ]

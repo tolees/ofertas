@@ -5,7 +5,7 @@ date: 2020-05-27 11:04:20
 image: 'https://m.media-amazon.com/images/I/314WlHLj16L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M34GB7X-es Cecotec Microondas con Horno Convection. Capacidad de 23l...'
 sku: 'B01M34GB7X-es'
 tags: [  ]

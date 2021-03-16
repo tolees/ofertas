@@ -5,7 +5,7 @@ date: 2020-09-07 18:53:45
 image: 'https://m.media-amazon.com/images/I/31PrjriAIhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z9YXDTW-es One For All URC1912 - Mando a Distancia de reemplazo para...'
 sku: 'B00Z9YXDTW-es'
 tags: [  ]

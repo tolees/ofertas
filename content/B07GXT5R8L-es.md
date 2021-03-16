@@ -5,7 +5,7 @@ date: 2020-05-31 08:04:51
 image: 'https://m.media-amazon.com/images/I/41JfN4EgvCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXT5R8L-es NGS Wild Punk 1- Altavoz Bluetooth con Doble Subwoofer...'
 sku: 'B07GXT5R8L-es'
 tags: [  ]

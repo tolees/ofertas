@@ -5,7 +5,7 @@ date: 2020-09-25 17:02:07
 image: 'https://m.media-amazon.com/images/I/41srAa6uxsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HGS8TD2-es #N/A 2 Kits de Ropa de Baño en Miniatura para Muñecas...'
 sku: 'B08HGS8TD2-es'
 tags: [  ]

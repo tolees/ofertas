@@ -5,7 +5,7 @@ date: 2020-02-17 15:42:19
 image: 'https://m.media-amazon.com/images/I/21uhCl+JOsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4LL9IU-es G-STAR RAW Rovulc Denim Mid Sneakers Zapatillas para...'
 sku: 'B01N4LL9IU-es'
 tags: [  ]

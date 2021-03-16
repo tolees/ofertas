@@ -5,7 +5,7 @@ date: 2020-06-13 17:02:03
 image: 'https://m.media-amazon.com/images/I/41l97SxKXSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GLRNBT-es BEUSS Pez Mariposa Botella de Agua Frasco de Vacío...'
 sku: 'B089GLRNBT-es'
 tags: [  ]

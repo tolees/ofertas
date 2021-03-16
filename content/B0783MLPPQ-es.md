@@ -5,7 +5,7 @@ date: 2020-07-14 10:20:39
 image: 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0783MLPPQ-es New Balance 574 Core Zapatillas Hombre Negro Blackout ETE...'
 sku: 'B0783MLPPQ-es'
 tags: [  ]

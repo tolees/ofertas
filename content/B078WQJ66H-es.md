@@ -5,7 +5,7 @@ date: 2020-02-18 18:47:22
 image: 'https://m.media-amazon.com/images/I/41nvzkiFzrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WQJ66H-es SD2VITA Pro - Adaptador Pro 5.0 para tarjeta de memoria PS...'
 sku: 'B078WQJ66H-es'
 tags: [  ]

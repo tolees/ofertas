@@ -5,7 +5,7 @@ date: 2020-02-10 00:07:26
 image: 'https://m.media-amazon.com/images/I/41BGFqbqliL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003U9WU7O-es Bosch PLL 360 - Nivel láser 360º con trípode'
 sku: 'B003U9WU7O-es'
 tags: [  ]

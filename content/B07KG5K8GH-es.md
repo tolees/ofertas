@@ -5,7 +5,7 @@ date: 2020-07-15 10:03:55
 image: 'https://m.media-amazon.com/images/I/41Wn1RQirBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG5K8GH-es PUMA Vikky v2 Fur Zapatillas para Mujer Marrón Nougat-Puma...'
 sku: 'B07KG5K8GH-es'
 tags: [  ]

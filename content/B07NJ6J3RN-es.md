@@ -5,7 +5,7 @@ date: 2020-03-04 17:33:11
 image: 'https://m.media-amazon.com/images/I/41PQAxSvQUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ6J3RN-es KLARSTEIN GrowIt Seeds Lote de Semillas - 9 paquetitos...'
 sku: 'B07NJ6J3RN-es'
 tags: [  ]

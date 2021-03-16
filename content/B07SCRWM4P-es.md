@@ -5,7 +5,7 @@ date: 2020-09-29 19:01:10
 image: 'https://m.media-amazon.com/images/I/51Aq-YVGRGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCRWM4P-es MOSNOVO [Transparente Funda iPhone XR con Absorción de...'
 sku: 'B07SCRWM4P-es'
 tags: [  ]

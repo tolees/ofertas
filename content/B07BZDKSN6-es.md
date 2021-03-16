@@ -5,7 +5,7 @@ date: 2020-01-12 18:44:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51AaCdzOafL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZDKSN6-es Magnético cerveza soporte Soporte magnético 2pcs...'
 sku: 'B07BZDKSN6-es'
 tags: [  ]

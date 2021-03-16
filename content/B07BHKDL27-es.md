@@ -5,7 +5,7 @@ date: 2020-05-25 07:37:35
 image: 'https://m.media-amazon.com/images/I/41QuJ6eUOuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHKDL27-es Mpow Auriculares con Cancelación de Ruido Activos con...'
 sku: 'B07BHKDL27-es'
 tags: [  ]

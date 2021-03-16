@@ -5,7 +5,7 @@ date: 2020-09-28 02:33:53
 image: 'https://m.media-amazon.com/images/I/311C7Wr6phL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J2VTSIC-es Ever-Pretty A-línea Vestito de Gala Cuello en V Manga...'
 sku: 'B01J2VTSIC-es'
 tags: [  ]

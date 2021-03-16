@@ -5,7 +5,7 @@ date: 2020-09-07 05:40:35
 image: 'https://m.media-amazon.com/images/I/41PE1N5A7yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQNCHY8-es Adidas V Racer 2.0 Zapatillas de Deporte para Hombre...'
 sku: 'B07FQNCHY8-es'
 tags: [  ]

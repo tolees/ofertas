@@ -5,7 +5,7 @@ date: 2020-05-02 17:15:57
 image: 'https://m.media-amazon.com/images/I/51Fab-AOgNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0836LJKLM-es Lifewit 24can Nevera Portatil Bolsa Térmica Comida Doble...'
 sku: 'B0836LJKLM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-23 10:01:57
 image: 'https://m.media-amazon.com/images/I/41T++py-73L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRP6Z1W-es ZZZXX Pintar por Numeros Niños Chicas Sexy Niños Pintura...'
 sku: 'B08CRP6Z1W-es'
 tags: [  ]

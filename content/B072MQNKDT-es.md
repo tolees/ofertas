@@ -5,7 +5,7 @@ date: 2020-01-27 18:27:53
 image: 'https://m.media-amazon.com/images/I/21iAigU9ttL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MQNKDT-es Nuevo Apple MacBook de 12 pulgadas Intel Core m3 de doble...'
 sku: 'B072MQNKDT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 11:05:25
 image: 'https://m.media-amazon.com/images/I/41AfxPInwyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J35W9GL-es Levi s Hodges Botas Militares para Hombre Amarillo Boots...'
 sku: 'B07J35W9GL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-29 21:01:31
 image: 'https://m.media-amazon.com/images/I/316LWYkYpSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMQT867-es ASICS Gel-Lyte Runner 2 Zapatillas para Correr para Hombre...'
 sku: 'B07SMQT867-es'
 tags: [  ]

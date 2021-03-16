@@ -5,7 +5,7 @@ date: 2020-08-10 05:24:14
 image: 'https://m.media-amazon.com/images/I/61vIBXZeUYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXPPP3H-es Botella de Agua Acero Inoxidable 350/500/750ml Cantimplora...'
 sku: 'B08CXPPP3H-es'
 tags: [  ]

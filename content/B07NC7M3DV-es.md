@@ -5,7 +5,7 @@ date: 2020-08-04 06:43:48
 image: 'https://m.media-amazon.com/images/I/51Y9mbPd0PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC7M3DV-es BATTLEFIELD 1 - Standard | Código Origin para PC'
 sku: 'B07NC7M3DV-es'
 tags: [  ]

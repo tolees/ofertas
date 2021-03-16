@@ -5,7 +5,7 @@ date: 2020-10-09 06:31:57
 image: 'https://m.media-amazon.com/images/I/41AX0QMBfJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JLI77L6-es Tommy Hilfiger - Reloj para mujer - 1781742'
 sku: 'B01JLI77L6-es'
 tags: [  ]

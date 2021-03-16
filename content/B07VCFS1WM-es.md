@@ -5,7 +5,7 @@ date: 2020-10-06 02:15:32
 image: 'https://m.media-amazon.com/images/I/31hQgdxiFlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCFS1WM-es Logitech M350 PEBBLE Ratón Inalámbrico Bluetooth o 2.4 GHz...'
 sku: 'B07VCFS1WM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 09:00:56
 image: 'https://m.media-amazon.com/images/I/41L9D+mRgIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EQ45Y1G-es Trípode para altavoces de poliamida con bolsa de transporte'
 sku: 'B00EQ45Y1G-es'
 tags: [  ]

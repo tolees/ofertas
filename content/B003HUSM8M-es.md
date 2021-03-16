@@ -5,7 +5,7 @@ date: 2020-02-09 09:40:52
 image: 'https://m.media-amazon.com/images/I/31Q5+N8a7mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003HUSM8M-es Tigi 57432 - Champú 300 ml'
 sku: 'B003HUSM8M-es'
 tags: [  ]

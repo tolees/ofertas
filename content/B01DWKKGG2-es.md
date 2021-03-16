@@ -5,7 +5,7 @@ date: 2020-07-21 08:34:11
 image: 'https://m.media-amazon.com/images/I/415ZvGKCbjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DWKKGG2-es Bourjois Velvet Barra de Labios Líquida Tono 15 Red-...'
 sku: 'B01DWKKGG2-es'
 tags: [  ]

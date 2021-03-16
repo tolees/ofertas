@@ -5,7 +5,7 @@ date: 2020-03-14 16:33:42
 image: 'https://m.media-amazon.com/images/I/41uGb8tnC6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC67WCY-es PUMA Challenger Duffel Bag M Bolsa Deporte Adultos Unisex...'
 sku: 'B07RC67WCY-es'
 tags: [  ]

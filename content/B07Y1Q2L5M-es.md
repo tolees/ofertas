@@ -5,7 +5,7 @@ date: 2020-05-16 07:31:45
 image: 'https://m.media-amazon.com/images/I/410vyPy8gbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1Q2L5M-es Alclap. 1 0 m gris'
 sku: 'B07Y1Q2L5M-es'
 tags: [  ]

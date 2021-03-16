@@ -5,7 +5,7 @@ date: 2020-09-09 09:49:27
 image: 'https://m.media-amazon.com/images/I/41AkRe3Z60L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PPZJKL-es Sharkoon SKILLER SGS2 – Silla Gaming Profesional Tela...'
 sku: 'B077PPZJKL-es'
 tags: [  ]

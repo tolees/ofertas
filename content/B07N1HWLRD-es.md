@@ -5,7 +5,7 @@ date: 2020-06-07 21:05:32
 image: 'https://m.media-amazon.com/images/I/415bgodsMaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1HWLRD-es Superga 2730-cotropew Zapatillas de Gimnasia para Mujer...'
 sku: 'B07N1HWLRD-es'
 tags: [  ]

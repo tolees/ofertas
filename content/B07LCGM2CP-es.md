@@ -5,7 +5,7 @@ date: 2020-04-13 00:27:18
 image: 'https://m.media-amazon.com/images/I/512CpBp2ZrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LCGM2CP-es Tolyneil 36 piezas de acero Punch Alphabet Letter Number...'
 sku: 'B07LCGM2CP-es'
 tags: [  ]

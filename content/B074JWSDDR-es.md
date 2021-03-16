@@ -5,7 +5,7 @@ date: 2020-04-19 23:31:45
 image: 'https://m.media-amazon.com/images/I/514k04AZAtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074JWSDDR-es Bulova Reloj de Pulsera 98A197'
 sku: 'B074JWSDDR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-06 18:34:01
 image: 'https://m.media-amazon.com/images/I/31moLaLf8RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG52DM6-es New Balance Hombre U420 Sneaker Vino tinto 40.5 EU'
 sku: 'B07HG52DM6-es'
 tags: [  ]

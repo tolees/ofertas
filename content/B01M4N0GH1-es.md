@@ -5,7 +5,7 @@ date: 2020-02-22 10:38:38
 image: 'https://m.media-amazon.com/images/I/41jPGluftwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4N0GH1-es DANISH ENDURANCE Calcetines de Compresión de Algodón...'
 sku: 'B01M4N0GH1-es'
 tags: [  ]

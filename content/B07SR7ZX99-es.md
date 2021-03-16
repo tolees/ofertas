@@ -5,7 +5,7 @@ date: 2020-04-15 07:48:53
 image: 'https://m.media-amazon.com/images/I/41o32j3wEPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SR7ZX99-es Cadena Chupetes Personalizado con Nombre Koala Mordedor...'
 sku: 'B07SR7ZX99-es'
 tags: [  ]

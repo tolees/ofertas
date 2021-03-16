@@ -5,7 +5,7 @@ date: 2020-01-19 14:11:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZlhGrIAVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5H3GQ8-es Jata MP423 CORTAPELOS Gris PEQUEÑO'
 sku: 'B07V5H3GQ8-es'
 tags: [  ]

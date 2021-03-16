@@ -5,7 +5,7 @@ date: 2020-09-30 04:28:17
 image: 'https://m.media-amazon.com/images/I/41KzKKoe5GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004TW7WAQ-es Autoleads PC5-27 - Adaptador de Antena ISO-DIN'
 sku: 'B004TW7WAQ-es'
 tags: [  ]

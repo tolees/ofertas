@@ -5,7 +5,7 @@ date: 2020-04-20 09:28:13
 image: 'https://m.media-amazon.com/images/I/41hGF4pOKqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T63SJP-es PUMA Liga Casuals Polo Hombre Verde Pepper Green/White M'
 sku: 'B078T63SJP-es'
 tags: [  ]

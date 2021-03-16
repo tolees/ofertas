@@ -5,7 +5,7 @@ date: 2020-01-18 02:33:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412nvxQQ4lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SMFXJRN-es Mini PC Intel Atom Z8350 de Windows 10 Mini computadora...'
 sku: 'B07SMFXJRN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-28 06:20:10
 image: 'https://m.media-amazon.com/images/I/315kwhNFmKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FG5SPFC-es Lacoste Sport GH353T Bañador Negro Noir W40 Talla del...'
 sku: 'B07FG5SPFC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 18:12:10
 image: 'https://m.media-amazon.com/images/I/51azoHBGMgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073P8VHD1-es FIRENZE ARTEGIANI.Bolso Tote de Mujer Piel auténtica.Bolso...'
 sku: 'B073P8VHD1-es'
 tags: [  ]

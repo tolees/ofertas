@@ -5,7 +5,7 @@ date: 2020-01-18 17:32:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ippz9HR3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002YYTVU-es Wolfcraft 1573000 1573000-1 Atornillador Manual con diseño...'
 sku: 'B0002YYTVU-es'
 tags: [  ]

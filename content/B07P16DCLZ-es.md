@@ -5,7 +5,7 @@ date: 2020-02-03 11:34:32
 image: 'https://m.media-amazon.com/images/I/413xnVJJ9OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P16DCLZ-es Superdry Classic Lite Micro Pique Polo Amarillo Sulphur...'
 sku: 'B07P16DCLZ-es'
 tags: [  ]

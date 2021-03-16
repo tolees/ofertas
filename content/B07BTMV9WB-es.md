@@ -5,7 +5,7 @@ date: 2020-08-25 16:53:42
 image: 'https://m.media-amazon.com/images/I/512-eHgJZAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BTMV9WB-es Autan - Spray Family Care repelente de insectos y...'
 sku: 'B07BTMV9WB-es'
 tags: [  ]

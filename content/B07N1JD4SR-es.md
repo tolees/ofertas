@@ -5,7 +5,7 @@ date: 2020-03-26 11:54:19
 image: 'https://m.media-amazon.com/images/I/31rvhioyjaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JD4SR-es Clarks Sharon Gracie Mocasines para Mujer Plateado...'
 sku: 'B07N1JD4SR-es'
 tags: [  ]

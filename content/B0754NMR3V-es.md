@@ -5,7 +5,7 @@ date: 2020-05-08 16:40:10
 image: 'https://m.media-amazon.com/images/I/31ixSrmIJiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0754NMR3V-es Salomon Shorts para running AGILE 7" tafetán negro hombre...'
 sku: 'B0754NMR3V-es'
 tags: [  ]

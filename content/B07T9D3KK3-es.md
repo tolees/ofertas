@@ -5,7 +5,7 @@ date: 2020-06-13 14:13:36
 image: 'https://m.media-amazon.com/images/I/51MTkdY2bJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9D3KK3-es Aspiradora de Coche VOONEEN 7KPa Aspiradora para Automóvil...'
 sku: 'B07T9D3KK3-es'
 tags: [  ]

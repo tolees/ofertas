@@ -5,7 +5,7 @@ date: 2020-09-20 15:31:59
 image: 'https://m.media-amazon.com/images/I/41g61H5cXlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNSGSQ4-es Lámpara de mesita de Noche Redonda Minimalista de Madera...'
 sku: 'B07QNSGSQ4-es'
 tags: [  ]

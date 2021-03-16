@@ -5,7 +5,7 @@ date: 2020-04-30 13:02:55
 image: 'https://m.media-amazon.com/images/I/41XT7TDVtNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086BX8PRM-es Oihxse Funda Compatible con Huawei Nova 5/Nova 5 Pro...'
 sku: 'B086BX8PRM-es'
 tags: [  ]

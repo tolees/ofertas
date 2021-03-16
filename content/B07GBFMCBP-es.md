@@ -5,7 +5,7 @@ date: 2020-02-23 13:11:41
 image: 'https://m.media-amazon.com/images/I/41yKD2O41UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBFMCBP-es Casio G-SHOCK Reloj Digital Contador de pasos Sensor de...'
 sku: 'B07GBFMCBP-es'
 tags: [  ]

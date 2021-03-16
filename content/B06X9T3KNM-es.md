@@ -5,7 +5,7 @@ date: 2020-08-23 10:27:09
 image: 'https://m.media-amazon.com/images/I/418FGMyh6NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9T3KNM-es Revell IL-2 Stormovik Kit de Modelo Escala 1: 48 3932 03932'
 sku: 'B06X9T3KNM-es'
 tags: [  ]

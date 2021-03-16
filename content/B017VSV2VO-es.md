@@ -5,7 +5,7 @@ date: 2020-06-08 11:45:54
 image: 'https://m.media-amazon.com/images/I/51otJeFF7TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017VSV2VO-es JUGUETE DE PINTURA POR NUMEROS - Flores - INTERHOME©'
 sku: 'B017VSV2VO-es'
 tags: [  ]

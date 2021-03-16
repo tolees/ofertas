@@ -5,7 +5,7 @@ date: 2020-04-08 13:10:20
 image: 'https://m.media-amazon.com/images/I/31cf5BMaZ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1CZT2G-es AUNA Connect System Equipo estéreo - Equipo de música...'
 sku: 'B07G1CZT2G-es'
 tags: [  ]

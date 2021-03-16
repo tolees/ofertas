@@ -5,7 +5,7 @@ date: 2020-09-28 18:04:35
 image: 'https://m.media-amazon.com/images/I/41H7uFl4g9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P37M3QW-es Moon and Back de Hanna Andersson - Pack de 5 camisetas de...'
 sku: 'B07P37M3QW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 18:08:46
 image: 'https://m.media-amazon.com/images/I/31sxhJjr2EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9U6TTO-es Garnier Fructis Style Espuma Melena Abundante Efecto...'
 sku: 'B00X9U6TTO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-02 04:05:48
 image: 'https://m.media-amazon.com/images/I/41X5+0IiwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDP8CK1-es RECCI - Topper Colchón de Espuma 90x190cm Topper...'
 sku: 'B07XDP8CK1-es'
 tags: [  ]

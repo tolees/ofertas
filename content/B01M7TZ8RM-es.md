@@ -5,7 +5,7 @@ date: 2020-02-15 21:52:05
 image: 'https://m.media-amazon.com/images/I/41dj1XBzM0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7TZ8RM-es Grefusa - MisterCorn | Cocktail de Frutos Secos con Sabor...'
 sku: 'B01M7TZ8RM-es'
 tags: [  ]

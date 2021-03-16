@@ -5,7 +5,7 @@ date: 2020-07-08 20:58:54
 image: 'https://m.media-amazon.com/images/I/41ZxSIz9YZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFF81GF-es Funko- 5 Star: Horror: Chucky Multicolor 34011'
 sku: 'B07DFF81GF-es'
 tags: [  ]

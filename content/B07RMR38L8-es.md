@@ -5,7 +5,7 @@ date: 2020-01-12 18:35:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41D11vyOaJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMR38L8-es JACK & JONES Jcomondo Sweat Hood Capucha Gris Light Grey...'
 sku: 'B07RMR38L8-es'
 tags: [  ]

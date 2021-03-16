@@ -5,7 +5,7 @@ date: 2020-07-09 22:11:36
 image: 'https://m.media-amazon.com/images/I/4161iGHa1ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DXVL6K-es AnySharp Afilador De Cuchillos Azul'
 sku: 'B001DXVL6K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-25 08:34:04
 image: 'https://m.media-amazon.com/images/I/41JrZ8i1awL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0799FJ3NP-es TACKLIFE Cortasetos Eléctrico 600W Cortasetos 20mm Ancho...'
 sku: 'B0799FJ3NP-es'
 tags: [  ]

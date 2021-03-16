@@ -5,7 +5,7 @@ date: 2020-07-31 23:48:37
 image: 'https://m.media-amazon.com/images/I/41L9yciw6eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTCLFFD-es MoKo Ventilador USB Portátil Mini Cuello Ventilador de...'
 sku: 'B07TTCLFFD-es'
 tags: [  ]

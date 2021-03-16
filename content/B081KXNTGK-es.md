@@ -5,7 +5,7 @@ date: 2020-07-14 23:12:08
 image: 'https://m.media-amazon.com/images/I/41UpiXH-ApL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081KXNTGK-es amzdeal Inflador Globo electrico para inflar Globos...'
 sku: 'B081KXNTGK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-11 09:07:40
 image: 'https://m.media-amazon.com/images/I/41klOtMPaCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SN4VFKJ-es Pepe Jeans Liberty - Maleta de cabina rígida 55 cm Rosa'
 sku: 'B07SN4VFKJ-es'
 tags: [  ]

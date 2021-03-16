@@ -5,7 +5,7 @@ date: 2020-01-03 09:43:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uMvy-oo7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005L8YXYA-es Madison U4167-10 - Reloj de Pulsera para Hombre Verde'
 sku: 'B005L8YXYA-es'
 tags: [  ]

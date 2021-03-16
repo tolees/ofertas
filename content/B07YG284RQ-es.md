@@ -5,7 +5,7 @@ date: 2020-05-29 20:40:26
 image: 'https://m.media-amazon.com/images/I/41wDq1MrQZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YG284RQ-es SONARIN Silla Asiento de mesa para bebé trona de mesa...'
 sku: 'B07YG284RQ-es'
 tags: [  ]

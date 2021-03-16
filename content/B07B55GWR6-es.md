@@ -5,7 +5,7 @@ date: 2020-03-17 18:03:06
 image: 'https://m.media-amazon.com/images/I/41ZHTqBoCML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B55GWR6-es Gabol Maleta Unisex Azul 50 cm'
 sku: 'B07B55GWR6-es'
 tags: [  ]

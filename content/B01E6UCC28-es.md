@@ -5,7 +5,7 @@ date: 2020-08-24 11:13:38
 image: 'https://m.media-amazon.com/images/I/41hkJ93z8-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E6UCC28-es Brabantia Sort & Go Cubo Integrado de Basura Menta y Gris...'
 sku: 'B01E6UCC28-es'
 tags: [  ]

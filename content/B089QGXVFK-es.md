@@ -5,7 +5,7 @@ date: 2020-08-21 08:21:18
 image: 'https://m.media-amazon.com/images/I/419BgvuZZoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089QGXVFK-es YFish HD Webcam Autofocus PC con Micrófono Incorporado USB...'
 sku: 'B089QGXVFK-es'
 tags: [  ]

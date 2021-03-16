@@ -5,7 +5,7 @@ date: 2020-05-31 13:52:22
 image: 'https://m.media-amazon.com/images/I/51Dlpv7fFIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8NBH6L-es 【136 LED/3 modos】Luz Solar Exterior Luz de Seguridad...'
 sku: 'B07T8NBH6L-es'
 tags: [  ]

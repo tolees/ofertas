@@ -5,7 +5,7 @@ date: 2020-04-04 18:31:31
 image: 'https://m.media-amazon.com/images/I/31a6wxoKHDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CV5P18V-es JACK & JONES Jfwolly Nubuck Noos Zapatillas para Hombre...'
 sku: 'B07CV5P18V-es'
 tags: [  ]

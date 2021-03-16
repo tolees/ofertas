@@ -5,7 +5,7 @@ date: 2020-04-15 11:16:26
 image: 'https://m.media-amazon.com/images/I/31BOmG2OINL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG2WZD5-es PUMA CARACAL Zapatillas Unisex Adulto Negro Black White 39 EU'
 sku: 'B07KG2WZD5-es'
 tags: [  ]

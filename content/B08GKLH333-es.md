@@ -5,7 +5,7 @@ date: 2020-09-23 11:46:12
 image: 'https://m.media-amazon.com/images/I/41fk0nonR2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GKLH333-es yaoyan Nuevo Inalámbrico 2.4G Modo Dual Azul Rosa...'
 sku: 'B08GKLH333-es'
 tags: [  ]

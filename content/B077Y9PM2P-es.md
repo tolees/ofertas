@@ -5,7 +5,7 @@ date: 2020-05-10 18:36:06
 image: 'https://m.media-amazon.com/images/I/318RSEhiBlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y9PM2P-es Sensilis Sun Secret - Crema Ultraligera Protector Solar...'
 sku: 'B077Y9PM2P-es'
 tags: [  ]

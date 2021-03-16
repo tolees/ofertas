@@ -5,7 +5,7 @@ date: 2020-03-15 18:32:06
 image: 'https://m.media-amazon.com/images/I/31jQ+z1NKEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4PSDJC-es Caja de luz iluminadora de película de rayos X LED Panel...'
 sku: 'B07Q4PSDJC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-14 10:33:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ApDY0U2rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1HFNPH-es Plantronics RIG 300 HS Binaural Diadema Negro -...'
 sku: 'B07G1HFNPH-es'
 tags: [  ]

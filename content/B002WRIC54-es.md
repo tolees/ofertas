@@ -5,7 +5,7 @@ date: 2020-03-25 09:56:39
 image: 'https://m.media-amazon.com/images/I/41fXXlATvxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002WRIC54-es Bosch 2 609 255 127 - Juego de 5 brocas para metal HSS-G...'
 sku: 'B002WRIC54-es'
 tags: [  ]

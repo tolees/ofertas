@@ -5,7 +5,7 @@ date: 2020-07-11 01:47:49
 image: 'https://m.media-amazon.com/images/I/41zif878MkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DIISP9S-es TOMSHOO Bolsas Estancas 10L/20L Bolsa Seca para Viajar...'
 sku: 'B01DIISP9S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-22 15:45:39
 image: 'https://m.media-amazon.com/images/I/4198K4h51gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073H6NDKC-es adidas Core18 Sweat Top Sweatshirts Hombre Black/White M'
 sku: 'B073H6NDKC-es'
 tags: [  ]

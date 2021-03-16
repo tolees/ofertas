@@ -5,7 +5,7 @@ date: 2020-08-25 14:05:32
 image: 'https://m.media-amazon.com/images/I/41j8H1ILOVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCBGNDM-es PUMA Smash V2 Zapatillas Unisex Adulto Azul Peacoat Team...'
 sku: 'B07DCBGNDM-es'
 tags: [  ]

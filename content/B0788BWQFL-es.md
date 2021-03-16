@@ -5,7 +5,7 @@ date: 2020-05-20 16:59:30
 image: 'https://m.media-amazon.com/images/I/41cK2wXVQ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788BWQFL-es Tommy Hilfiger Legging Mallas Azul Navy Blazer 416 Medium...'
 sku: 'B0788BWQFL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-18 19:52:28
 image: 'https://m.media-amazon.com/images/I/41SXRTtJgJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYEMFWH-es Victor Toallitas Perfumadas - 10 Unidades'
 sku: 'B01LYEMFWH-es'
 tags: [  ]

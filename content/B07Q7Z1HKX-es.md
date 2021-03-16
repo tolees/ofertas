@@ -5,7 +5,7 @@ date: 2020-01-14 11:08:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31sYu2hBl9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q7Z1HKX-es Erasky Memoria USB De 64GB Pendrive Flash Drive Aluminio...'
 sku: 'B07Q7Z1HKX-es'
 tags: [  ]

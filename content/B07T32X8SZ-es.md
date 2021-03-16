@@ -5,7 +5,7 @@ date: 2020-05-14 14:05:24
 image: 'https://m.media-amazon.com/images/I/410CjgAjzRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T32X8SZ-es Cámaras bala 700TVL AHD Cámara impermeable aire libre...'
 sku: 'B07T32X8SZ-es'
 tags: [  ]

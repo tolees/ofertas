@@ -5,7 +5,7 @@ date: 2020-01-14 07:57:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31jrfjOYVLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSZY5WG-es New Balance 373 Zapatillas para Hombre Negro Black/Magnet...'
 sku: 'B07PSZY5WG-es'
 tags: [  ]

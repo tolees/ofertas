@@ -5,7 +5,7 @@ date: 2020-04-14 13:21:00
 image: 'https://m.media-amazon.com/images/I/41RdNaAypoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXXVN2P-es Soporte de Carga para A pple Watch Estación de Carga...'
 sku: 'B07YXXVN2P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 16:06:51
 image: 'https://m.media-amazon.com/images/I/41Oq9mrTuTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9PGMBR-es Adaptador de enchufe macho RCA a terminal AV hembra de 2...'
 sku: 'B07B9PGMBR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 20:18:46
 image: 'https://m.media-amazon.com/images/I/31Fr+oT+6pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDF75K7-es Nike Air Jordan First Class Bg Zapatillas de Deporte para...'
 sku: 'B07FDF75K7-es'
 tags: [  ]

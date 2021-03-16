@@ -5,7 +5,7 @@ date: 2020-03-02 01:57:15
 image: 'https://m.media-amazon.com/images/I/41zXRPH2RIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010SPYLOC-es Elizabeth Arden Always Red - Agua de toilette 50 ml'
 sku: 'B010SPYLOC-es'
 tags: [  ]

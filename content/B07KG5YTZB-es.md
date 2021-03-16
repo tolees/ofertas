@@ -5,7 +5,7 @@ date: 2020-02-01 20:15:20
 image: 'https://m.media-amazon.com/images/I/41fnbGHvtRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG5YTZB-es AJOXEL Pulverizador Aceite Dispensador de Aceite Aceitera...'
 sku: 'B07KG5YTZB-es'
 tags: [  ]

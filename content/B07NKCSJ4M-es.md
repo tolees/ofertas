@@ -5,7 +5,7 @@ date: 2020-05-20 11:16:30
 image: 'https://m.media-amazon.com/images/I/31+e1JNkZIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NKCSJ4M-es Calienta Biberones Eccomum 6 en 1 Calentamiento...'
 sku: 'B07NKCSJ4M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 14:06:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qG3%2BN8jhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTYY2HN-es Kidear Serie de Calzón Suave de Algodón Calzoncillo para...'
 sku: 'B07QTYY2HN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 17:03:09
 image: 'https://m.media-amazon.com/images/I/51H0ycCYhRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HY4SMNQ-es Key chain Back To The Future - Llavero de Goma License Plate'
 sku: 'B01HY4SMNQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-23 17:08:13
 image: 'https://m.media-amazon.com/images/I/41lSMl66IEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BU0HENO-es DEWALT DWE4056-QS - Mini Amoladora 115mm 800W 11.800 rpm'
 sku: 'B01BU0HENO-es'
 tags: [  ]

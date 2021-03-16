@@ -5,7 +5,7 @@ date: 2020-05-18 09:32:50
 image: 'https://m.media-amazon.com/images/I/51wqTIV9nuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6QNX3F-es Los SIMS 4 y Perros y Gatos Colección'
 sku: 'B07J6QNX3F-es'
 tags: [  ]

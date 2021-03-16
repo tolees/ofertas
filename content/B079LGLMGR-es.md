@@ -5,7 +5,7 @@ date: 2020-02-05 13:10:14
 image: 'https://m.media-amazon.com/images/I/413LIADlP5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079LGLMGR-es American Tourister - Bon Air - Spinner Equipaje de mano 55...'
 sku: 'B079LGLMGR-es'
 tags: [  ]

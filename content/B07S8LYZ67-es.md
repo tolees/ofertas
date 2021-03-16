@@ -5,7 +5,7 @@ date: 2020-03-27 16:31:38
 image: 'https://m.media-amazon.com/images/I/410MsTeEslL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8LYZ67-es Azzaro Wanted Girl Edp Vapo 80 ml - 80 ml'
 sku: 'B07S8LYZ67-es'
 tags: [  ]

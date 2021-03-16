@@ -5,7 +5,7 @@ date: 2020-08-20 23:35:17
 image: 'https://m.media-amazon.com/images/I/41VvBvkqM0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK43Z5Z-es Saucony Xodus ISO 3 Mujer Morado Púrpura 37 37.5 EU'
 sku: 'B07KK43Z5Z-es'
 tags: [  ]

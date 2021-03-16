@@ -5,7 +5,7 @@ date: 2020-04-21 11:28:29
 image: 'https://m.media-amazon.com/images/I/41DBd5+ZKKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015KKKHR0-es Kappa Rocket Zapatillas Unisex Adulto Negro Black/White...'
 sku: 'B015KKKHR0-es'
 tags: [  ]

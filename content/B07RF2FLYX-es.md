@@ -5,7 +5,7 @@ date: 2020-05-23 16:39:43
 image: 'https://m.media-amazon.com/images/I/41vrfEbTZLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RF2FLYX-es Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón Azul Blue 0Gy...'
 sku: 'B07RF2FLYX-es'
 tags: [  ]

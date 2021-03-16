@@ -5,7 +5,7 @@ date: 2020-01-11 19:04:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mx%2BYTKUJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWVFPTJ-es Batería de Repuesto ENEGON Paquete de 2 y Smart LED...'
 sku: 'B07PWVFPTJ-es'
 tags: [  ]

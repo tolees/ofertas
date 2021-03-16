@@ -5,7 +5,7 @@ date: 2020-07-04 17:09:43
 image: 'https://m.media-amazon.com/images/I/51XxpDy9cIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPQCR29-es Philips Avent SCF349/21 - Pack de 2 chupetes Ultra Air...'
 sku: 'B07TPQCR29-es'
 tags: [  ]

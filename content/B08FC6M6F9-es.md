@@ -5,7 +5,7 @@ date: 2020-08-13 14:03:29
 image: 'https://m.media-amazon.com/images/I/31Ou1JcueuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FC6M6F9-es Máquina de molienda en seco Placa de molienda Manual...'
 sku: 'B08FC6M6F9-es'
 tags: [  ]

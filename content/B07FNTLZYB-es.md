@@ -5,7 +5,7 @@ date: 2020-02-07 16:05:28
 image: 'https://m.media-amazon.com/images/I/51uy1BRUCRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNTLZYB-es Buff Ebba Cloud Calentador Tricot Y Polar Mujer Talla única'
 sku: 'B07FNTLZYB-es'
 tags: [  ]

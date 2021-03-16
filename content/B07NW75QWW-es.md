@@ -5,7 +5,7 @@ date: 2020-05-24 14:46:31
 image: 'https://m.media-amazon.com/images/I/412lfTm98kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW75QWW-es Skechers Women s Stamina Trainers Grey Gray Suede/Orange &...'
 sku: 'B07NW75QWW-es'
 tags: [  ]

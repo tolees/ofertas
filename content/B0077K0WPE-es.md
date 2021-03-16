@@ -5,7 +5,7 @@ date: 2020-01-03 09:43:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410vhcOY21L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0077K0WPE-es Tamiya 40-Foot Container - Scale Model Accessories Azul'
 sku: 'B0077K0WPE-es'
 tags: [  ]

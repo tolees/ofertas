@@ -5,7 +5,7 @@ date: 2020-09-04 13:45:00
 image: 'https://m.media-amazon.com/images/I/41zfXr+B8oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2L88KF-es Burton Moto Black Snowboard Botas Negro 40 5'
 sku: 'B07F2L88KF-es'
 tags: [  ]

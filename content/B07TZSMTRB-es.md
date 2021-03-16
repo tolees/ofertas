@@ -5,7 +5,7 @@ date: 2020-05-08 16:55:58
 image: 'https://m.media-amazon.com/images/I/41uZYegGPEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZSMTRB-es Opriox Protector Bucal Profesional Deportivo para Boxeo...'
 sku: 'B07TZSMTRB-es'
 tags: [  ]

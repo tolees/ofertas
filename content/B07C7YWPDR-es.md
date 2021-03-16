@@ -5,7 +5,7 @@ date: 2020-01-13 13:20:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31lAJ-C-OzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C7YWPDR-es Mr. Wonderful WOA09056ES - Organizador semanal en formato...'
 sku: 'B07C7YWPDR-es'
 tags: [  ]

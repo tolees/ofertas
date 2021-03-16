@@ -5,7 +5,7 @@ date: 2020-06-23 12:04:34
 image: 'https://m.media-amazon.com/images/I/41Tdt2K7knL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZQ23YH-es Fossil Smartwatch Pantalla táctil para Hombre de Connected...'
 sku: 'B083ZQ23YH-es'
 tags: [  ]

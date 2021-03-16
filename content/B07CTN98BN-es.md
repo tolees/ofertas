@@ -5,7 +5,7 @@ date: 2020-03-02 20:18:52
 image: 'https://m.media-amazon.com/images/I/31ONGc2JW6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTN98BN-es FIND - Deep Forest - Trío de sombras de ojos n.10 n.11 n.12'
 sku: 'B07CTN98BN-es'
 tags: [  ]

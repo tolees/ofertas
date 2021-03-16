@@ -5,7 +5,7 @@ date: 2020-06-28 22:01:36
 image: 'https://m.media-amazon.com/images/I/410Ufe9tR8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011UMD60M-es CABLEDECONN Mini Displayport Puerto Thunderbolt Compatible...'
 sku: 'B011UMD60M-es'
 tags: [  ]

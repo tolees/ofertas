@@ -5,7 +5,7 @@ date: 2020-09-17 16:06:11
 image: 'https://m.media-amazon.com/images/I/41LvM6d2GsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825PFXNH-es DC Shoes Tussler - Riñonera - Hombre - ONE SIZE'
 sku: 'B0825PFXNH-es'
 tags: [  ]

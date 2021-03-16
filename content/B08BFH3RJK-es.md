@@ -5,7 +5,7 @@ date: 2020-07-03 15:32:26
 image: 'https://m.media-amazon.com/images/I/31gq1jlWVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BFH3RJK-es Mini tamaño pequeño gsm 1800/900 Rda8851 teléfono Celular...'
 sku: 'B08BFH3RJK-es'
 tags: [  ]

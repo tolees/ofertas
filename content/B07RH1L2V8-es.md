@@ -5,7 +5,7 @@ date: 2020-09-10 18:22:18
 image: 'https://m.media-amazon.com/images/I/41H41vEsrIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH1L2V8-es G-Star Raw 3301 Straight Jeans Dritto Uomo Nero antic...'
 sku: 'B07RH1L2V8-es'
 tags: [  ]

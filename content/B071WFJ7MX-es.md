@@ -5,7 +5,7 @@ date: 2020-05-08 18:26:12
 image: 'https://m.media-amazon.com/images/I/41fS3n0MPQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WFJ7MX-es Adidas Campus Zapatillas para Hombre Negro Core...'
 sku: 'B071WFJ7MX-es'
 tags: [  ]

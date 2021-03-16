@@ -5,7 +5,7 @@ date: 2020-07-23 09:34:04
 image: 'https://m.media-amazon.com/images/I/41WliTF+6ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPRN6C2-es Hurley M Icon Textures Hat Gorra Hombre Deep Royal Blue S/M'
 sku: 'B07ZPRN6C2-es'
 tags: [  ]

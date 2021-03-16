@@ -5,7 +5,7 @@ date: 2020-10-06 06:47:37
 image: 'https://m.media-amazon.com/images/I/51hOancZy-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083Y5NPQJ-es PRIXTON KIT610 - Kit de 13 Accesorios para Camara...'
 sku: 'B083Y5NPQJ-es'
 tags: [  ]

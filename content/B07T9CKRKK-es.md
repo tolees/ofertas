@@ -5,7 +5,7 @@ date: 2020-07-11 09:48:21
 image: 'https://m.media-amazon.com/images/I/511EDI8AcoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9CKRKK-es Lepfun SS154/SS155 Tobilleras Deportivas de Compresión...'
 sku: 'B07T9CKRKK-es'
 tags: [  ]

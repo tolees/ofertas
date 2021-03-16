@@ -5,7 +5,7 @@ date: 2020-07-30 18:06:34
 image: 'https://m.media-amazon.com/images/I/4132yBeDcNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QFTJ53-es L Occitane VERBENA gel de ducha Cuerpo 500 ml - Geles de...'
 sku: 'B077QFTJ53-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-18 11:35:45
 image: 'https://m.media-amazon.com/images/I/41wAjh3D+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKLWR6P-es Vitamina E Natural 400 UI | 200 perlas Más de 6 meses de...'
 sku: 'B07HKLWR6P-es'
 tags: [  ]

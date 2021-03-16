@@ -5,7 +5,7 @@ date: 2020-07-17 06:12:30
 image: 'https://m.media-amazon.com/images/I/41rk+3kKbzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3PFN3B-es DINOKA Corrección de Postura Ajustable Corrector de...'
 sku: 'B07H3PFN3B-es'
 tags: [  ]

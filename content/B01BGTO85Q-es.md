@@ -5,7 +5,7 @@ date: 2020-04-13 09:08:27
 image: 'https://m.media-amazon.com/images/I/31ZfTGAZ8FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTO85Q-es G-Star Raw Bronson Pantalones Para Hombre Gris Grey W28/L30'
 sku: 'B01BGTO85Q-es'
 tags: [  ]

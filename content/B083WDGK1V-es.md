@@ -5,7 +5,7 @@ date: 2020-07-18 20:25:46
 image: 'https://m.media-amazon.com/images/I/41SVPjCdeML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083WDGK1V-es Qomolo Lámpara Anti Mosquitos Mata Mosquitos Electrico...'
 sku: 'B083WDGK1V-es'
 tags: [  ]

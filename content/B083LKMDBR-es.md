@@ -5,7 +5,7 @@ date: 2020-04-16 18:20:17
 image: 'https://m.media-amazon.com/images/I/41RX33M4LHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LKMDBR-es K9CK Luces LED para Lego Technic Bugatti Chiron 42083 Kit...'
 sku: 'B083LKMDBR-es'
 tags: [  ]

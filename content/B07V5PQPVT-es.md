@@ -5,7 +5,7 @@ date: 2020-07-10 20:15:56
 image: 'https://m.media-amazon.com/images/I/31meubm5z2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5PQPVT-es Love Moschino Jc4260pp0a Bolsa de mensajero para Mujer...'
 sku: 'B07V5PQPVT-es'
 tags: [  ]

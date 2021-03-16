@@ -5,7 +5,7 @@ date: 2020-10-08 04:29:40
 image: 'https://m.media-amazon.com/images/I/318QVZPD4ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3QB29H-es CORNERIA Exprimidor de tubo con ruedas de 2 piezas-...'
 sku: 'B08D3QB29H-es'
 tags: [  ]

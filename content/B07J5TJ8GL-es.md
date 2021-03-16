@@ -5,7 +5,7 @@ date: 2020-01-24 13:04:28
 image: 'https://m.media-amazon.com/images/I/31HKyFfqT-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5TJ8GL-es Skechers Equalizer 3.0 Zapatillas sin Cordones para Hombre...'
 sku: 'B07J5TJ8GL-es'
 tags: [  ]

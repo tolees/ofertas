@@ -5,7 +5,7 @@ date: 2020-02-25 13:34:35
 image: 'https://m.media-amazon.com/images/I/51lppDj-cKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGRT6NT-es UMI. Essentials Marco de Fotos 13 x 18 cm Set de 12 Negro'
 sku: 'B07HGRT6NT-es'
 tags: [  ]

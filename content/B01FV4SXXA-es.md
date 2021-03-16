@@ -5,7 +5,7 @@ date: 2020-02-21 19:15:50
 image: 'https://m.media-amazon.com/images/I/31ESqz4o9-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FV4SXXA-es Anne Moller Pour Homme Control Triple Action Desodorante -...'
 sku: 'B01FV4SXXA-es'
 tags: [  ]

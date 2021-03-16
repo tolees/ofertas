@@ -5,7 +5,7 @@ date: 2020-01-14 21:04:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31FV1jSXjCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QC89BCK-es Pablosky 714410 Zapatillas Unisex niño Negro Negro Negro...'
 sku: 'B07QC89BCK-es'
 tags: [  ]

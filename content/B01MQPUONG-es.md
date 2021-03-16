@@ -5,7 +5,7 @@ date: 2020-05-14 10:24:16
 image: 'https://m.media-amazon.com/images/I/41AoqevxXQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQPUONG-es Adidas Vs Pace Zapatillas para Hombre Negro Core...'
 sku: 'B01MQPUONG-es'
 tags: [  ]

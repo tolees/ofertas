@@ -5,7 +5,7 @@ date: 2020-04-08 05:35:23
 image: 'https://m.media-amazon.com/images/I/31Y9Xv6kRQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZ5CJ7W-es KECC MacBook Pro Retina 13 Pulgadas Funda Dura Case w/EU...'
 sku: 'B07RZ5CJ7W-es'
 tags: [  ]

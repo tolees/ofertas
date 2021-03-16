@@ -5,7 +5,7 @@ date: 2020-07-11 12:52:17
 image: 'https://m.media-amazon.com/images/I/51lt0ye0tPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MY6YBKK-es P Prettyia Cable Adaptador 2 RCA a 2 Machos RCA 1.5M...'
 sku: 'B07MY6YBKK-es'
 tags: [  ]

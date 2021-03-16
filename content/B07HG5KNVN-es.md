@@ -5,7 +5,7 @@ date: 2020-04-05 01:19:28
 image: 'https://m.media-amazon.com/images/I/41XVrTdLAOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG5KNVN-es New Balance Cm997hv1 Zapatillas para Hombre Gris Grey Grey...'
 sku: 'B07HG5KNVN-es'
 tags: [  ]

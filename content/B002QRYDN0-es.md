@@ -5,7 +5,7 @@ date: 2020-08-13 13:15:55
 image: 'https://m.media-amazon.com/images/I/41ss0zMVR-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002QRYDN0-es Silverline 633400 - Carretilla con caja plegable 25 kg'
 sku: 'B002QRYDN0-es'
 tags: [  ]

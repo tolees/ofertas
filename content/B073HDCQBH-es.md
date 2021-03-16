@@ -5,7 +5,7 @@ date: 2020-06-06 20:55:39
 image: 'https://m.media-amazon.com/images/I/414X-GrCPgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073HDCQBH-es Scholl Recambio Wet&Dry Durezas Leves'
 sku: 'B073HDCQBH-es'
 tags: [  ]

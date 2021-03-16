@@ -5,7 +5,7 @@ date: 2020-06-08 01:57:55
 image: 'https://m.media-amazon.com/images/I/31AOdZVaCOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLHKZL-es adidas Countryxkamanda Zapatillas de Gimnasia para Hombre...'
 sku: 'B07STLHKZL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-04 10:15:10
 image: 'https://m.media-amazon.com/images/I/41Cw8lI+OIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZPHGMQ-es 3D Antifaz para Dormir METALBAY Ojos Máscara de Poliéster...'
 sku: 'B07NZPHGMQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 11:12:52
 image: 'https://m.media-amazon.com/images/I/513YkBst3SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XP3R2VZ-es XCYYOO Carcasa de movil con Cuerda para Colgar Samsung...'
 sku: 'B07XP3R2VZ-es'
 tags: [  ]

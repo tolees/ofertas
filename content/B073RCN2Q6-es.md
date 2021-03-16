@@ -5,7 +5,7 @@ date: 2020-08-22 14:46:04
 image: 'https://m.media-amazon.com/images/I/41Y0ZAZvvTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RCN2Q6-es SVUK brochas de pintura 12-20170704'
 sku: 'B073RCN2Q6-es'
 tags: [  ]

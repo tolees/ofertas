@@ -5,7 +5,7 @@ date: 2020-08-22 13:07:58
 image: 'https://m.media-amazon.com/images/I/31ISCXijEvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D76RNLS-es Manfrotto MTPIXI-B - Minitrípode Pixi para Cámaras CSC...'
 sku: 'B00D76RNLS-es'
 tags: [  ]

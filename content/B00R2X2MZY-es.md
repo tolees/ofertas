@@ -5,7 +5,7 @@ date: 2020-09-22 11:29:04
 image: 'https://m.media-amazon.com/images/I/41YoM77VFZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R2X2MZY-es MAGEFESA Star Olla a presión rápida fácil Uso Acero...'
 sku: 'B00R2X2MZY-es'
 tags: [  ]

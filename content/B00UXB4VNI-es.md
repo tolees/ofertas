@@ -5,7 +5,7 @@ date: 2020-05-31 14:32:58
 image: 'https://m.media-amazon.com/images/I/41kt39KJj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UXB4VNI-es Muvit MUSCP0825 - MCA Protector de pantalla para Samsung...'
 sku: 'B00UXB4VNI-es'
 tags: [  ]

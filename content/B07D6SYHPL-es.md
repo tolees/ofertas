@@ -5,7 +5,7 @@ date: 2020-09-08 17:12:39
 image: 'https://m.media-amazon.com/images/I/41AGuSHk0ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6SYHPL-es MODAUTO Estructura para Videojuego Estructura Simulador de...'
 sku: 'B07D6SYHPL-es'
 tags: [  ]

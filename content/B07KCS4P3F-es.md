@@ -5,7 +5,7 @@ date: 2020-08-15 13:02:34
 image: 'https://m.media-amazon.com/images/I/31a30Enf8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCS4P3F-es Hurley M Icon Stretch Chino 19 Pantalones Cortos Hombre...'
 sku: 'B07KCS4P3F-es'
 tags: [  ]

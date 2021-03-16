@@ -5,7 +5,7 @@ date: 2020-07-14 00:15:09
 image: 'https://m.media-amazon.com/images/I/3135rgqlelL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN8NRR1-es LÄSSIG Maleta para niños a partir de 3 años/Trolley About...'
 sku: 'B07VN8NRR1-es'
 tags: [  ]

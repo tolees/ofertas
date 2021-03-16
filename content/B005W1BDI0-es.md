@@ -5,7 +5,7 @@ date: 2020-03-12 11:43:46
 image: 'https://m.media-amazon.com/images/I/311MfthXCpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005W1BDI0-es Max Factor Colour Elixir Lipstick Barra de labios Tono 75...'
 sku: 'B005W1BDI0-es'
 tags: [  ]

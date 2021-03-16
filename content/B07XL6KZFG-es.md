@@ -5,7 +5,7 @@ date: 2020-04-05 13:17:32
 image: 'https://m.media-amazon.com/images/I/41RP6BohioL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL6KZFG-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Clone...'
 sku: 'B07XL6KZFG-es'
 tags: [  ]

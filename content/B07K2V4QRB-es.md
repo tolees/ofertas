@@ -5,7 +5,7 @@ date: 2020-06-08 15:04:01
 image: 'https://m.media-amazon.com/images/I/41iYHelJenL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2V4QRB-es Adidas Falcon Zapatillas de Running Hombre Gris Grey...'
 sku: 'B07K2V4QRB-es'
 tags: [  ]

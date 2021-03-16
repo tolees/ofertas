@@ -5,7 +5,7 @@ date: 2020-05-30 04:57:56
 image: 'https://m.media-amazon.com/images/I/31WmgfVJ6CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCKVX8K-es Nirvel Nutre Color Violeta 200ml'
 sku: 'B06XCKVX8K-es'
 tags: [  ]

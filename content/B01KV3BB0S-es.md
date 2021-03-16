@@ -5,7 +5,7 @@ date: 2020-05-24 08:21:57
 image: 'https://m.media-amazon.com/images/I/41Rx5OJN-OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KV3BB0S-es Sennheiser GSP 300 - Microauricular Cerrado para Gaming...'
 sku: 'B01KV3BB0S-es'
 tags: [  ]

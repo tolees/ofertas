@@ -5,7 +5,7 @@ date: 2020-02-17 10:33:25
 image: 'https://m.media-amazon.com/images/I/517r8eAIZbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N44CW1L-es Desigual Trousers Pat Pantalones Negro 2000 W Talla de...'
 sku: 'B07N44CW1L-es'
 tags: [  ]

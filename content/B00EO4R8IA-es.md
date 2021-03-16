@@ -5,7 +5,7 @@ date: 2020-05-27 20:38:24
 image: 'https://m.media-amazon.com/images/I/314t-kKeq1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EO4R8IA-es Philips myBathroom Pool - Plafón casquillo E27 luz blanca...'
 sku: 'B00EO4R8IA-es'
 tags: [  ]

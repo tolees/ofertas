@@ -5,7 +5,7 @@ date: 2020-08-21 10:55:20
 image: 'https://m.media-amazon.com/images/I/51mCKS41jGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZXQM1MM-es Uposao Compatible con Funda Samsung Galaxy A20/A30 360...'
 sku: 'B07ZXQM1MM-es'
 tags: [  ]

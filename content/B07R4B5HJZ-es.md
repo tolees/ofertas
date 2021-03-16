@@ -5,7 +5,7 @@ date: 2020-03-22 12:05:16
 image: 'https://m.media-amazon.com/images/I/41RT8zE4zhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4B5HJZ-es Levi s Big Box Tab Beanie Gorro de Punto Azul Navy Blue 17...'
 sku: 'B07R4B5HJZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-31 08:21:50
 image: 'https://m.media-amazon.com/images/I/51EjiSnJq0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WECVLB4-es Orbegozo PW 1019 Mini ventilador USB de sobremesa 4 W Plata'
 sku: 'B00WECVLB4-es'
 tags: [  ]

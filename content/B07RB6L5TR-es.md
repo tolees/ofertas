@@ -5,7 +5,7 @@ date: 2020-04-20 06:43:14
 image: 'https://m.media-amazon.com/images/I/41ZEHaiVKDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB6L5TR-es Lenovo Legion Y44w - Monitor de 43.4" Pantalla UHD 3840 x...'
 sku: 'B07RB6L5TR-es'
 tags: [  ]

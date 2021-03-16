@@ -5,7 +5,7 @@ date: 2020-05-24 14:02:30
 image: 'https://m.media-amazon.com/images/I/41biMm6ntTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ4Y3KY-es Caler Funda Compatible con iPhone 7 Plus/iPhone 8 Plus...'
 sku: 'B07TQ4Y3KY-es'
 tags: [  ]

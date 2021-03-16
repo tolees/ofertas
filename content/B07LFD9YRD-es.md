@@ -5,7 +5,7 @@ date: 2020-06-14 11:35:09
 image: 'https://m.media-amazon.com/images/I/51djsbphjXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFD9YRD-es SWIM ELITE Gorro Piscina - Gorro Natación Mujer y Hombre -...'
 sku: 'B07LFD9YRD-es'
 tags: [  ]

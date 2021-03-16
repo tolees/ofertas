@@ -5,7 +5,7 @@ date: 2020-01-30 08:33:57
 image: 'https://m.media-amazon.com/images/I/41uRO8LQ-AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGD8Y94-es Columbia Nikiski Botas Bajas para Mujer Beige Elk Lagoon...'
 sku: 'B07JGD8Y94-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 09:52:14
 image: 'https://m.media-amazon.com/images/I/41k9SV1lzJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K67K2EQ-es L Oréal Paris Millón de Pestañas So Couture Máscara...'
 sku: 'B00K67K2EQ-es'
 tags: [  ]

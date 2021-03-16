@@ -5,7 +5,7 @@ date: 2020-08-24 15:38:05
 image: 'https://m.media-amazon.com/images/I/31hVvOU-EEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBW1D2N-es PUMA Smash WNS V2 SD Zapatillas para Mujer Gris Silver...'
 sku: 'B07SBW1D2N-es'
 tags: [  ]

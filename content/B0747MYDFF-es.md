@@ -5,7 +5,7 @@ date: 2020-04-21 16:02:51
 image: 'https://m.media-amazon.com/images/I/412EiOSEuoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0747MYDFF-es Tul Dosel Azul Mosquitera Cuna Bebe Cortina para Cama...'
 sku: 'B0747MYDFF-es'
 tags: [  ]

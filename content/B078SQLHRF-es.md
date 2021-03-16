@@ -5,7 +5,7 @@ date: 2020-01-16 11:40:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51fbchUA2kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SQLHRF-es Victure Cámara Deportiva 4k WiFi Camara Acción Deporte...'
 sku: 'B078SQLHRF-es'
 tags: [  ]

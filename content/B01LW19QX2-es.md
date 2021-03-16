@@ -5,7 +5,7 @@ date: 2020-10-07 09:37:27
 image: 'https://m.media-amazon.com/images/I/41Tvcz1003L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW19QX2-es Rollei C6i Trípode Carbono'
 sku: 'B01LW19QX2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 11:32:18
 image: 'https://m.media-amazon.com/images/I/41BtpncgBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLCF26R-es Nike Revolution 5 Zapatillas de Atletismo para Hombre...'
 sku: 'B07NLCF26R-es'
 tags: [  ]

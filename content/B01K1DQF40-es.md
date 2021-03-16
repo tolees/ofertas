@@ -5,7 +5,7 @@ date: 2020-04-09 03:27:30
 image: 'https://m.media-amazon.com/images/I/31W2HNp1mvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K1DQF40-es Ozone M10 - Ratón 2000 dpi'
 sku: 'B01K1DQF40-es'
 tags: [  ]

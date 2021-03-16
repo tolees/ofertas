@@ -5,7 +5,7 @@ date: 2020-10-12 20:20:56
 image: 'https://m.media-amazon.com/images/I/31v+xuSzAsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N0E1KDE-es Olympus M.Zuiko - Objetivo Digital ED 12 mm F2.0 longitud...'
 sku: 'B00N0E1KDE-es'
 tags: [  ]

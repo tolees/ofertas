@@ -5,7 +5,7 @@ date: 2020-03-13 09:32:00
 image: 'https://m.media-amazon.com/images/I/41To3pOt+uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V42V6MS-es Valily Anillo Superman Plata Acero Inoxidable Joyería de...'
 sku: 'B07V42V6MS-es'
 tags: [  ]

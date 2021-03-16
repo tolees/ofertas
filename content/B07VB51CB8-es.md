@@ -5,7 +5,7 @@ date: 2020-02-05 18:23:32
 image: 'https://m.media-amazon.com/images/I/41nzWDk1EDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB51CB8-es Pepe Jeans Bandolera con Solapa 28 cm 6.01 Liters Negro'
 sku: 'B07VB51CB8-es'
 tags: [  ]

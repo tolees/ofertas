@@ -5,7 +5,7 @@ date: 2020-03-29 12:06:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gYrZkzTmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4V3Z1N-es Osram Smart Encufe Controlable Con El Móvil Blanco'
 sku: 'B07H4V3Z1N-es'
 tags: [  ]

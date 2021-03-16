@@ -5,7 +5,7 @@ date: 2020-04-16 09:01:52
 image: 'https://m.media-amazon.com/images/I/3189GxxeZ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC7VDKM-es Microsoft Surface Laptop 2 - Ordenador portátil ultrafino...'
 sku: 'B07MC7VDKM-es'
 tags: [  ]

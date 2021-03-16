@@ -5,7 +5,7 @@ date: 2020-10-11 10:31:10
 image: 'https://m.media-amazon.com/images/I/41FsmXSui0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VXC99LK-es G-STAR RAW 3301 Straight Classic Jeans Azul Dk Aged...'
 sku: 'B00VXC99LK-es'
 tags: [  ]

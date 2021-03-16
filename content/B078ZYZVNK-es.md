@@ -5,7 +5,7 @@ date: 2020-03-03 07:25:32
 image: 'https://m.media-amazon.com/images/I/41gWktXYvIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZYZVNK-es TRESemmé Acondicionador Color Keratina - Paquete de 3 x...'
 sku: 'B078ZYZVNK-es'
 tags: [  ]

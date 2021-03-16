@@ -5,7 +5,7 @@ date: 2020-08-25 09:13:55
 image: 'https://m.media-amazon.com/images/I/51fgqQl9LCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0854G7GSK-es HERSITY Camión de Basura Coches de Friccion con Luces y...'
 sku: 'B0854G7GSK-es'
 tags: [  ]

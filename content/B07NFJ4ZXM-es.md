@@ -5,7 +5,7 @@ date: 2020-06-01 16:04:47
 image: 'https://m.media-amazon.com/images/I/41g7gYSMOxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFJ4ZXM-es U.S. Polo Assn. Wilde2 Zapatillas de Gimnasia para Hombre...'
 sku: 'B07NFJ4ZXM-es'
 tags: [  ]

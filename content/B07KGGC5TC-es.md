@@ -5,7 +5,7 @@ date: 2020-09-24 13:50:42
 image: 'https://m.media-amazon.com/images/I/41lBDtwqIhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGGC5TC-es Buff Aralia Cinta de Cabeza Coolnet Mujer Multi Talla única'
 sku: 'B07KGGC5TC-es'
 tags: [  ]

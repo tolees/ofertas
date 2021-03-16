@@ -5,7 +5,7 @@ date: 2020-04-08 14:09:11
 image: 'https://m.media-amazon.com/images/I/316z9F8JBbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N61JRS3-es DC Shoes DCSHI Heathrow-Low-Top Shoes for Men Zapatillas...'
 sku: 'B07N61JRS3-es'
 tags: [  ]

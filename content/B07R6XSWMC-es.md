@@ -5,7 +5,7 @@ date: 2020-04-19 01:03:52
 image: 'https://m.media-amazon.com/images/I/41Sos7DNIWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6XSWMC-es Only & Sons NOS Onswinston Sweat Hoodie Noos Capucha Azul...'
 sku: 'B07R6XSWMC-es'
 tags: [  ]

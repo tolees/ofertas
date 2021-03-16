@@ -5,7 +5,7 @@ date: 2020-02-18 16:27:18
 image: 'https://m.media-amazon.com/images/I/41yVf6BIGFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NZ3WZ2-es Hapilife Grifo 360° Giratorio Grifo de Cocina Grifo de...'
 sku: 'B079NZ3WZ2-es'
 tags: [  ]

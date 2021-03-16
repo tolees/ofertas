@@ -5,7 +5,7 @@ date: 2020-09-04 09:46:16
 image: 'https://m.media-amazon.com/images/I/51UAlML5KrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZDZ6TW-es Grupo Erik Editores Rick & Morty - Carpeta con 4 anillas...'
 sku: 'B07BZDZ6TW-es'
 tags: [  ]

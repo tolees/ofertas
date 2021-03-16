@@ -5,7 +5,7 @@ date: 2020-07-30 18:29:53
 image: 'https://m.media-amazon.com/images/I/51w-nv6xk6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008A4MNFS-es HELLA 1F8 006 800-321 Faro de carretera - Rallye 3000 -...'
 sku: 'B008A4MNFS-es'
 tags: [  ]

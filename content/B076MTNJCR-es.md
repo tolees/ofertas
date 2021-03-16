@@ -5,7 +5,7 @@ date: 2020-06-25 05:23:47
 image: 'https://m.media-amazon.com/images/I/418QOS3gqlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076MTNJCR-es Bella Aurora Splendor 10 Crema Facial Hidratante Anti-Edad...'
 sku: 'B076MTNJCR-es'
 tags: [  ]

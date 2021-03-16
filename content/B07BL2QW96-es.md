@@ -5,7 +5,7 @@ date: 2020-01-14 07:56:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-2iLQF3OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2QW96-es New Balance 373 Zapatillas para Mujer Rosa Pink Sand/White...'
 sku: 'B07BL2QW96-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-24 18:13:18
 image: 'https://m.media-amazon.com/images/I/41bmVAlHggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EVPRX8M-es Calvin Klein Thong Tanga Blanco White 100 40 Talla del...'
 sku: 'B00EVPRX8M-es'
 tags: [  ]

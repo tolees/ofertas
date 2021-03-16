@@ -5,7 +5,7 @@ date: 2020-03-10 17:32:52
 image: 'https://m.media-amazon.com/images/I/41injgfW2oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8SB1XW-es UCMDA Funda para Huawei Mate 30 Lite con Protector de...'
 sku: 'B07X8SB1XW-es'
 tags: [  ]

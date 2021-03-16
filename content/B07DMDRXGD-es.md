@@ -5,7 +5,7 @@ date: 2020-07-06 18:20:10
 image: 'https://m.media-amazon.com/images/I/51G5TzRoB3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DMDRXGD-es Forza Horizon 4 [Importación italiana]'
 sku: 'B07DMDRXGD-es'
 tags: [  ]

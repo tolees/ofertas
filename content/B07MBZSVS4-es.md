@@ -5,7 +5,7 @@ date: 2020-03-03 11:45:36
 image: 'https://m.media-amazon.com/images/I/41iP-uTMyDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBZSVS4-es Estuche rígido para Unidades de Estado sólido externas...'
 sku: 'B07MBZSVS4-es'
 tags: [  ]

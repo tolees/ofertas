@@ -5,7 +5,7 @@ date: 2020-04-01 06:50:22
 image: 'https://m.media-amazon.com/images/I/318lUofrekL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYNDZLD-es Trust GXT 188 Laban - Ratón Gaming ergonómico y...'
 sku: 'B06XYNDZLD-es'
 tags: [  ]

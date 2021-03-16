@@ -5,7 +5,7 @@ date: 2020-01-23 10:28:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iXOXRf5jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073C59YBN-es Caterpillar Deplete WP Botas Clasicas para Hombre Negro...'
 sku: 'B073C59YBN-es'
 tags: [  ]

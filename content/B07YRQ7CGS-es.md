@@ -5,7 +5,7 @@ date: 2020-03-09 17:13:42
 image: 'https://m.media-amazon.com/images/I/41ZJtgc8s0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YRQ7CGS-es Yoozon Mini Palo Selfie Bluetooth Selfie Stick Giratorio...'
 sku: 'B07YRQ7CGS-es'
 tags: [  ]

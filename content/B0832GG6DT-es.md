@@ -5,7 +5,7 @@ date: 2020-05-28 00:13:07
 image: 'https://m.media-amazon.com/images/I/31RE71UmtTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0832GG6DT-es Yoowei Funda para Xiaomi Air 2 3in1 Silicona Funda + Cable...'
 sku: 'B0832GG6DT-es'
 tags: [  ]

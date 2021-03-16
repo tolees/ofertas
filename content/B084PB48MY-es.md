@@ -5,7 +5,7 @@ date: 2020-04-18 12:04:15
 image: 'https://m.media-amazon.com/images/I/4142eJ8kzSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084PB48MY-es 4 en 1 4 x 1 DiSEqc Interruptor de Banda Ancha de 4 vías...'
 sku: 'B084PB48MY-es'
 tags: [  ]

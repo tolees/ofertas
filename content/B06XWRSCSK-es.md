@@ -5,7 +5,7 @@ date: 2020-01-26 08:40:30
 image: 'https://m.media-amazon.com/images/I/312igFf+s9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWRSCSK-es Philips Avent SCF798/02 - Vaso con pajita flexible 300 ml...'
 sku: 'B06XWRSCSK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-19 21:18:19
 image: 'https://m.media-amazon.com/images/I/51pK0KWsVgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7XJ9CW-es Skechers You Zapatillas sin cordones para Mujer Blanco Wbk...'
 sku: 'B01M7XJ9CW-es'
 tags: [  ]

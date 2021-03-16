@@ -5,7 +5,7 @@ date: 2020-04-16 17:53:02
 image: 'https://m.media-amazon.com/images/I/31DK-pQR6aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MKQMM4O-es Wella Sp Aceite para el cabello - 100 ml.'
 sku: 'B00MKQMM4O-es'
 tags: [  ]

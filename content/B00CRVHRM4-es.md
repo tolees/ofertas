@@ -5,7 +5,7 @@ date: 2020-03-05 00:54:46
 image: 'https://m.media-amazon.com/images/I/31usqE5uZlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CRVHRM4-es L Oreal Majirel Eu Absolu Tinte 9.22 - 125 gr'
 sku: 'B00CRVHRM4-es'
 tags: [  ]

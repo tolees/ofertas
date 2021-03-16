@@ -5,7 +5,7 @@ date: 2020-08-15 17:38:51
 image: 'https://m.media-amazon.com/images/I/51iY+gcU0AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BCDHP3H-es YINGJEE Tienda de Playa Pop Up Tienda Campaña Playa...'
 sku: 'B08BCDHP3H-es'
 tags: [  ]

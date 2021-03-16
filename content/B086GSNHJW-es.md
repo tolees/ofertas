@@ -5,7 +5,7 @@ date: 2020-05-21 10:03:13
 image: 'https://m.media-amazon.com/images/I/41EN0VEDSEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GSNHJW-es Oihxse Compatible con OPPO Reno2 Funda Suave Gel TPU...'
 sku: 'B086GSNHJW-es'
 tags: [  ]

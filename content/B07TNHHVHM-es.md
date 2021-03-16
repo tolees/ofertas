@@ -5,7 +5,7 @@ date: 2020-09-25 10:41:47
 image: 'https://m.media-amazon.com/images/I/61VZ9RTeQgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNHHVHM-es WIN.MAX Diana Electrónica Diana Dardos Las diana se...'
 sku: 'B07TNHHVHM-es'
 tags: [  ]

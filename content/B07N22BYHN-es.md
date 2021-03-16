@@ -5,7 +5,7 @@ date: 2020-09-24 20:01:05
 image: 'https://m.media-amazon.com/images/I/318uLWB-dHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N22BYHN-es Sennheiser HD 100 - Auriculares supraurales Ligeros y...'
 sku: 'B07N22BYHN-es'
 tags: [  ]

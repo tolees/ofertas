@@ -5,7 +5,7 @@ date: 2020-04-14 17:22:54
 image: 'https://m.media-amazon.com/images/I/31+dTyqpbpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D98CYZE-es D-Link DWM-157 - Modem 3G USB 2.0 Libre HSPA+ 21.6 Mbps...'
 sku: 'B00D98CYZE-es'
 tags: [  ]

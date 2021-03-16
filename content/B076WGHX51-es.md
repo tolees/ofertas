@@ -5,7 +5,7 @@ date: 2020-04-01 07:46:20
 image: 'https://m.media-amazon.com/images/I/41FpCWFhAGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076WGHX51-es Vans Ward Canvas Zapatillas para Hombre Gris Pewter/White...'
 sku: 'B076WGHX51-es'
 tags: [  ]

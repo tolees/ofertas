@@ -5,7 +5,7 @@ date: 2020-04-27 18:43:17
 image: 'https://m.media-amazon.com/images/I/51NHmbEX4cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RZT6N9-es ANNKE Sistema de Seguridad 1080P CCTV Kit de 8 Cámaras de...'
 sku: 'B071RZT6N9-es'
 tags: [  ]

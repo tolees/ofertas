@@ -5,7 +5,7 @@ date: 2020-07-07 06:45:37
 image: 'https://m.media-amazon.com/images/I/41taTJFtwiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNSCNWK-es Mars Gaming MH318 - Auriculares gaming surround 7.1...'
 sku: 'B07DNSCNWK-es'
 tags: [  ]

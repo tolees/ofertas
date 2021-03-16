@@ -5,7 +5,7 @@ date: 2020-05-31 22:17:34
 image: 'https://m.media-amazon.com/images/I/41exIVNzUSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GHMK95-es fanola Violet bleac de conmutación Powder – blondier polvo...'
 sku: 'B075GHMK95-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-03 19:02:47
 image: 'https://m.media-amazon.com/images/I/31KlTrmWnFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG8CJ7J-es PUMA Cali-0 Zapatillas deportivas de piel Unisex adulto...'
 sku: 'B07KG8CJ7J-es'
 tags: [  ]

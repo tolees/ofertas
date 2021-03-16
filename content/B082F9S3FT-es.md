@@ -5,7 +5,7 @@ date: 2020-01-01 11:34:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xR6iOHASL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082F9S3FT-es 2020 Neuf Appareil Photo pour Enfants Appareil Photo/Vidéo...'
 sku: 'B082F9S3FT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-22 12:03:45
 image: 'https://m.media-amazon.com/images/I/41kXoWSLGJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTRH486-es Skechers FLEX ADVANTAGE 3.0- STALLY Men’s Trainers Blue...'
 sku: 'B07CTRH486-es'
 tags: [  ]

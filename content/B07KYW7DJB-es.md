@@ -5,7 +5,7 @@ date: 2020-02-14 11:40:39
 image: 'https://m.media-amazon.com/images/I/41DY0gn+Y1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYW7DJB-es Nemesis Now Boss - Figura Decorativa de Calavera 18 cm...'
 sku: 'B07KYW7DJB-es'
 tags: [  ]

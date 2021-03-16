@@ -5,7 +5,7 @@ date: 2020-02-23 00:34:34
 image: 'https://m.media-amazon.com/images/I/41JxpqVm5jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IS5EKLO-es Cubre escayolas brazo'
 sku: 'B00IS5EKLO-es'
 tags: [  ]

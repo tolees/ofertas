@@ -5,7 +5,7 @@ date: 2020-04-14 09:10:41
 image: 'https://m.media-amazon.com/images/I/41eodup5NdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TPM2D8-es TONGJI Vitrina de Acrílico Compatible con Lego 75159 Star...'
 sku: 'B083TPM2D8-es'
 tags: [  ]

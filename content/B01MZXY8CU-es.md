@@ -5,7 +5,7 @@ date: 2020-02-07 18:54:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SthdniBHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZXY8CU-es Puma Basket Heart Patent Zapatillas para Mujer Negro Black...'
 sku: 'B01MZXY8CU-es'
 tags: [  ]

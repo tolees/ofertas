@@ -5,7 +5,7 @@ date: 2020-03-03 12:42:18
 image: 'https://m.media-amazon.com/images/I/41SiKGxK1mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZXGD6H-es Dickies Adairville suéter Azul X-Small Talla del...'
 sku: 'B07NZXGD6H-es'
 tags: [  ]

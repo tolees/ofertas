@@ -5,7 +5,7 @@ date: 2020-02-05 17:51:43
 image: 'https://m.media-amazon.com/images/I/312mkRpPx5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XWQ1QQG-es Nike Tanjun Zapatillas de Running para Hombre Negro...'
 sku: 'B00XWQ1QQG-es'
 tags: [  ]

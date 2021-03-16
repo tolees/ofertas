@@ -5,7 +5,7 @@ date: 2020-04-26 12:23:18
 image: 'https://m.media-amazon.com/images/I/31JrU09mGpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M5DBSP1-es Wrangler Straight Jeans Negro Blueblack 51L 27W / 30L para...'
 sku: 'B01M5DBSP1-es'
 tags: [  ]

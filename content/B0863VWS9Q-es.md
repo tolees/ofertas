@@ -5,7 +5,7 @@ date: 2020-05-12 11:04:24
 image: 'https://m.media-amazon.com/images/I/41-nDRyRvHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0863VWS9Q-es Dasket Bin cesto de Ropa de lavandería Cesta de Malla...'
 sku: 'B0863VWS9Q-es'
 tags: [  ]

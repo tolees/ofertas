@@ -5,7 +5,7 @@ date: 2020-03-05 23:28:27
 image: 'https://m.media-amazon.com/images/I/31+IsZ9md-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3T6F9Q-es CARPISA ® Carro pequeño rígido - Tea'
 sku: 'B07V3T6F9Q-es'
 tags: [  ]

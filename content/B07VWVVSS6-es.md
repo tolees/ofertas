@@ -5,7 +5,7 @@ date: 2020-08-25 17:47:34
 image: 'https://m.media-amazon.com/images/I/51hUuYx90XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWVVSS6-es amzdeal Air Football Kit Juguete Balón de Fútbol（1 x Air...'
 sku: 'B07VWVVSS6-es'
 tags: [  ]

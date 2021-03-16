@@ -5,7 +5,7 @@ date: 2020-05-28 06:57:48
 image: 'https://m.media-amazon.com/images/I/51VC1YSKg1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJ2DYPX-es Ringke Fusion-X Diseñado para Funda Redmi Note 7 Funda...'
 sku: 'B07WJ2DYPX-es'
 tags: [  ]

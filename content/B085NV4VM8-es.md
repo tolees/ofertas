@@ -5,7 +5,7 @@ date: 2020-07-21 05:23:30
 image: 'https://m.media-amazon.com/images/I/51iG4hSnLQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085NV4VM8-es DoGeek Zapato Seguridad Calzado Seguridad Hombre con Punta...'
 sku: 'B085NV4VM8-es'
 tags: [  ]

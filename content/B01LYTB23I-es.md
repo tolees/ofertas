@@ -5,7 +5,7 @@ date: 2020-09-15 16:55:42
 image: 'https://m.media-amazon.com/images/I/41eSehutwGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYTB23I-es EUCERIN PH5 Skin Protection Bálsamo Nutritivo 450 ml'
 sku: 'B01LYTB23I-es'
 tags: [  ]

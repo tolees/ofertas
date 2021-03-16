@@ -5,7 +5,7 @@ date: 2020-01-18 13:18:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WbI0UcdXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GHQSC9C-es Orphelia OR53172181 - Reloj de Pulsera Mujer Piel'
 sku: 'B00GHQSC9C-es'
 tags: [  ]

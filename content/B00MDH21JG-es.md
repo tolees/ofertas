@@ -5,7 +5,7 @@ date: 2020-04-18 16:06:01
 image: 'https://m.media-amazon.com/images/I/31bBOVYVPSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MDH21JG-es Revlon ColorStay Delineador de Ojos Brown'
 sku: 'B00MDH21JG-es'
 tags: [  ]

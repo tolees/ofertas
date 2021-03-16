@@ -5,7 +5,7 @@ date: 2020-06-30 11:44:17
 image: 'https://m.media-amazon.com/images/I/51Of3PkOiZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSBVJ24-es NIVEA Bajo la Ducha Body Milk Nutritivo en pack de 6 6 x...'
 sku: 'B07GSBVJ24-es'
 tags: [  ]

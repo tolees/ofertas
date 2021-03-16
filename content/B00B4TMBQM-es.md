@@ -5,7 +5,7 @@ date: 2020-08-06 07:30:32
 image: 'https://m.media-amazon.com/images/I/318+Bv6ItHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B4TMBQM-es Essie Esmalte de Uñas 067 Meet Me At Sunset'
 sku: 'B00B4TMBQM-es'
 tags: [  ]

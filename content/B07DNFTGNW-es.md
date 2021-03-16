@@ -5,7 +5,7 @@ date: 2020-10-10 16:01:27
 image: 'https://m.media-amazon.com/images/I/41BfbLD7sfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNFTGNW-es Limpiador de Cepillo de Acero Inoxidable con Mango Usar...'
 sku: 'B07DNFTGNW-es'
 tags: [  ]

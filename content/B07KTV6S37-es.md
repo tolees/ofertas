@@ -5,7 +5,7 @@ date: 2020-03-30 14:38:50
 image: 'https://m.media-amazon.com/images/I/51B6ikAPifL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTV6S37-es Columbia Urban Uplift - Bolsa Cruzada Unisex Adulto...'
 sku: 'B07KTV6S37-es'
 tags: [  ]

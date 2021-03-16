@@ -5,7 +5,7 @@ date: 2020-08-21 19:33:50
 image: 'https://m.media-amazon.com/images/I/31Yp5xsXXVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4RY6DC-es BOSS Schino-Slim D Pantalones Beige Open Beige 280 W30/L32...'
 sku: 'B07K4RY6DC-es'
 tags: [  ]

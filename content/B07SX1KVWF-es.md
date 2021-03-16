@@ -5,7 +5,7 @@ date: 2020-01-04 17:47:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oZExhmSVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SX1KVWF-es Auriculares inalámbricos Bluetooth Cascos Bluetooth 5.0...'
 sku: 'B07SX1KVWF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-15 18:58:32
 image: 'https://m.media-amazon.com/images/I/51ODtqvvDbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPNL4CH-es Besrey Mochilas Senderismo Mochilas Portabebés Portador de...'
 sku: 'B07NPNL4CH-es'
 tags: [  ]

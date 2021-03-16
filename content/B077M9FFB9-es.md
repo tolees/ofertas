@@ -5,7 +5,7 @@ date: 2020-07-27 10:08:16
 image: 'https://m.media-amazon.com/images/I/41K8gZDdyML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077M9FFB9-es PUMA Smash V2 L Zapatillas Unisex-Adulto White-Peacoat 41 EU'
 sku: 'B077M9FFB9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-15 18:01:56
 image: 'https://m.media-amazon.com/images/I/31Y18f9ThSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D57TM2R-es COMVIP Mujer metal común'
 sku: 'B07D57TM2R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 14:02:52
 image: 'https://m.media-amazon.com/images/I/41akbdfN9OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMRSSH8-es TUBBZ Oficial Borderlands 3 Mercancías Lillith Figurita...'
 sku: 'B07TMRSSH8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 02:52:23
 image: 'https://m.media-amazon.com/images/I/41qqhK+JGyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2TFDYS-es A'
 sku: 'B07C2TFDYS-es'
 tags: [  ]

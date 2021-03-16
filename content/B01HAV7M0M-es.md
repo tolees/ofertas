@@ -5,7 +5,7 @@ date: 2020-05-27 17:55:33
 image: 'https://m.media-amazon.com/images/I/51FEOQKP3tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HAV7M0M-es HUION GT-185 Tableta Gráfica con Pantalla TFT 2048 Niveles'
 sku: 'B01HAV7M0M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-12 15:07:23
 image: 'https://m.media-amazon.com/images/I/41tz5xPytHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0714FLJJD-es adidas Zx Flux J Zapatillas de Deporte Unisex Niños Rosa...'
 sku: 'B0714FLJJD-es'
 tags: [  ]

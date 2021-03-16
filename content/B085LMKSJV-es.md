@@ -5,7 +5,7 @@ date: 2020-09-29 05:42:46
 image: 'https://m.media-amazon.com/images/I/41NObZx3QLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LMKSJV-es MKTOSASA - Altavoz Bluetooth y 3W de Potencia. Función...'
 sku: 'B085LMKSJV-es'
 tags: [  ]

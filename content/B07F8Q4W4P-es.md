@@ -5,7 +5,7 @@ date: 2020-08-01 15:07:03
 image: 'https://m.media-amazon.com/images/I/3112Kws948L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8Q4W4P-es Donna Karan Stories EAU De Parfum Mujeres 100 ml - Eau de...'
 sku: 'B07F8Q4W4P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-09 19:28:56
 image: 'https://m.media-amazon.com/images/I/51yOJyU1lUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KD6QRTP-es Repuhand 300 Piezas Hojas de Arce Otoño Papeles...'
 sku: 'B07KD6QRTP-es'
 tags: [  ]

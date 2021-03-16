@@ -5,7 +5,7 @@ date: 2020-01-08 02:37:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ePECvK%2B1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RPIVJL4-es adidas Zx Flux Zapatillas Unisex para Niños Negro...'
 sku: 'B00RPIVJL4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 22:05:25
 image: 'https://m.media-amazon.com/images/I/41m0sCOPPOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VK9SD3-es Casio G-SHOCK Reloj Digital Contador de pasos Sensor de...'
 sku: 'B079VK9SD3-es'
 tags: [  ]

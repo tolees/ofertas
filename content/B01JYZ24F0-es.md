@@ -5,7 +5,7 @@ date: 2020-02-11 07:11:22
 image: 'https://m.media-amazon.com/images/I/41E-0s4Fh1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JYZ24F0-es Einhell 1002231 Cargador Bateria CC-BC 6 m con...'
 sku: 'B01JYZ24F0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-20 11:03:44
 image: 'https://m.media-amazon.com/images/I/41+AkCsXwDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J7OV4EU-es Candy CMXG22DS Microondas con Grill y Cook In App 40...'
 sku: 'B01J7OV4EU-es'
 tags: [  ]

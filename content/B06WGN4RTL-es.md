@@ -5,7 +5,7 @@ date: 2020-08-08 15:02:40
 image: 'https://m.media-amazon.com/images/I/51iG93DItJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGN4RTL-es Foxom Cronómetro Deportivo Profesional Portátil Digital...'
 sku: 'B06WGN4RTL-es'
 tags: [  ]

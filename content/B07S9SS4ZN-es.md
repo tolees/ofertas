@@ -5,7 +5,7 @@ date: 2020-09-09 10:38:15
 image: 'https://m.media-amazon.com/images/I/31VSFK+kL1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9SS4ZN-es PUMA Carina L Zapatillas de Cuero para Mujer Negro White...'
 sku: 'B07S9SS4ZN-es'
 tags: [  ]

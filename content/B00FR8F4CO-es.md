@@ -5,7 +5,7 @@ date: 2020-07-31 13:07:55
 image: 'https://m.media-amazon.com/images/I/31xHVWchUOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FR8F4CO-es SUCK UK Sacacorchos De Vino | Abridor Manual Diseño Pirata...'
 sku: 'B00FR8F4CO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-23 20:31:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HC9%2BSAMjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4FV8SJ-es Hugo Boss Reloj Multiesfera para Hombre de Cuarzo con...'
 sku: 'B07G4FV8SJ-es'
 tags: [  ]

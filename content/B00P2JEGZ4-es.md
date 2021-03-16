@@ -5,7 +5,7 @@ date: 2020-07-07 03:45:46
 image: 'https://m.media-amazon.com/images/I/411hxTk5eKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P2JEGZ4-es Memoria USB 16GB 10 Piezas Pen Drives - Portátil Pendrive...'
 sku: 'B00P2JEGZ4-es'
 tags: [  ]

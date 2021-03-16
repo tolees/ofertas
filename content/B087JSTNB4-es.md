@@ -5,7 +5,7 @@ date: 2020-05-07 19:02:00
 image: 'https://m.media-amazon.com/images/I/31HhXWs-7-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JSTNB4-es Saco Silla Universal Rosy Fuentes en blanco gris'
 sku: 'B087JSTNB4-es'
 tags: [  ]

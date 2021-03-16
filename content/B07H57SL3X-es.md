@@ -5,7 +5,7 @@ date: 2020-03-04 08:48:37
 image: 'https://m.media-amazon.com/images/I/41TCc3NUMZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H57SL3X-es AZDOME Mini Altavoz Bluetooth Portatiles Pequeño...'
 sku: 'B07H57SL3X-es'
 tags: [  ]

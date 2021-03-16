@@ -5,7 +5,7 @@ date: 2020-07-25 12:32:05
 image: 'https://m.media-amazon.com/images/I/41kKH5X-VwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SXDV7X-es READ Reloj Digital Deportivos 3D Podómetro Digital...'
 sku: 'B082SXDV7X-es'
 tags: [  ]

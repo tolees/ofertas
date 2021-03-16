@@ -5,7 +5,7 @@ date: 2020-08-30 09:45:39
 image: 'https://m.media-amazon.com/images/I/415M0AsCdKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYZ2Q98-es IPOTCH Juego de Viaje de Madera Plegable 3 en 1 con Damas...'
 sku: 'B07SYZ2Q98-es'
 tags: [  ]

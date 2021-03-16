@@ -5,7 +5,7 @@ date: 2020-02-14 17:08:29
 image: 'https://m.media-amazon.com/images/I/31-gjikzY4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UFBZOKK-es Crucial Ballistix Sport LT BLS4G4D240FSB 2400 MHz DDR4...'
 sku: 'B00UFBZOKK-es'
 tags: [  ]

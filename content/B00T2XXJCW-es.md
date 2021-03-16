@@ -5,7 +5,7 @@ date: 2020-05-06 10:06:18
 image: 'https://m.media-amazon.com/images/I/21t4Q2bLdbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T2XXJCW-es Remington Dual Curl CI63E1 - Rizador de pelo Pinza de 19 a...'
 sku: 'B00T2XXJCW-es'
 tags: [  ]

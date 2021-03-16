@@ -5,7 +5,7 @@ date: 2020-05-28 11:44:11
 image: 'https://m.media-amazon.com/images/I/31pqQH93xeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STD9Z1K-es Sartén de 22 cm con 3 5mm de espesor Full Induction...'
 sku: 'B07STD9Z1K-es'
 tags: [  ]

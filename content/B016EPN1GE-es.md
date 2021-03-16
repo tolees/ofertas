@@ -5,7 +5,7 @@ date: 2020-08-07 09:38:10
 image: 'https://m.media-amazon.com/images/I/41cZL11zwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016EPN1GE-es Nike MD Runner 2 PSV Zapatillas Unisex Niños Multicolor...'
 sku: 'B016EPN1GE-es'
 tags: [  ]

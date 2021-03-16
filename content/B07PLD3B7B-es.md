@@ -5,7 +5,7 @@ date: 2020-08-26 18:14:45
 image: 'https://m.media-amazon.com/images/I/51XsdC2oQgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLD3B7B-es Jumbo-19765 Papiro Quilling Multicolor 19765'
 sku: 'B07PLD3B7B-es'
 tags: [  ]

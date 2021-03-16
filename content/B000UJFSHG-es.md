@@ -5,7 +5,7 @@ date: 2020-02-12 12:26:40
 image: 'https://m.media-amazon.com/images/I/41cMl+-BHaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UJFSHG-es Bausch & Lomb Soflens Tóricas Lentes de Contacto para...'
 sku: 'B000UJFSHG-es'
 tags: [  ]

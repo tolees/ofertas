@@ -5,7 +5,7 @@ date: 2020-08-17 10:10:44
 image: 'https://m.media-amazon.com/images/I/41xiU-8CTnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7TDWHJ-es Beurer EM28 Electroestimulador para Muñeca Antebrazo Tens...'
 sku: 'B07H7TDWHJ-es'
 tags: [  ]

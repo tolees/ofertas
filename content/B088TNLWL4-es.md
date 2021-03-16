@@ -5,7 +5,7 @@ date: 2020-07-19 21:33:09
 image: 'https://m.media-amazon.com/images/I/41-R44Q0YPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TNLWL4-es Cabello colorido + Cepillo de dientes con mango de bambú...'
 sku: 'B088TNLWL4-es'
 tags: [  ]

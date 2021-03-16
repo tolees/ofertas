@@ -5,7 +5,7 @@ date: 2020-06-14 14:26:59
 image: 'https://m.media-amazon.com/images/I/41fmMUTxrXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082V2H6HL-es Newentor - Aire acondicionado y humidificador portátil 3...'
 sku: 'B082V2H6HL-es'
 tags: [  ]

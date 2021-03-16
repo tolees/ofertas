@@ -5,7 +5,7 @@ date: 2020-06-01 07:10:36
 image: 'https://m.media-amazon.com/images/I/41WIWupDEXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCWL8MF-es MolCar Parasol Coche para Luna Delantera Universal con 2...'
 sku: 'B07DCWL8MF-es'
 tags: [  ]

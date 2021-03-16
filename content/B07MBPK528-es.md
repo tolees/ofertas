@@ -5,7 +5,7 @@ date: 2020-01-22 11:24:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513w3n0NiVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBPK528-es WOSTOO Coches de Animales 6 Paquetes Tire hacia atrás de...'
 sku: 'B07MBPK528-es'
 tags: [  ]

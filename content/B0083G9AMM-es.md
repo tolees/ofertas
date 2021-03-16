@@ -5,7 +5,7 @@ date: 2020-05-22 23:31:04
 image: 'https://m.media-amazon.com/images/I/510inFVLkvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0083G9AMM-es MOTOGP MESSENGER BOLSA CASCO: MOTOGP'
 sku: 'B0083G9AMM-es'
 tags: [  ]

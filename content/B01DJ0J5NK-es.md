@@ -5,7 +5,7 @@ date: 2020-06-05 17:26:17
 image: 'https://m.media-amazon.com/images/I/41whOT+o3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DJ0J5NK-es EMPO Toalla Grande Microfibra de 140cm x 80cm Toalla...'
 sku: 'B01DJ0J5NK-es'
 tags: [  ]

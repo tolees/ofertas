@@ -5,7 +5,7 @@ date: 2020-04-09 11:35:25
 image: 'https://m.media-amazon.com/images/I/41nm397l9GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYF74Z-es PUMA Carina Lux L Zapatillas para Mujer Black Black 40 EU'
 sku: 'B07KFYF74Z-es'
 tags: [  ]

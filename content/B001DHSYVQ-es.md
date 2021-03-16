@@ -5,7 +5,7 @@ date: 2020-03-27 04:08:22
 image: 'https://m.media-amazon.com/images/I/41g1sTXhVbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DHSYVQ-es Brother LC1100HYBK - Cartucho de tinta negro de larga...'
 sku: 'B001DHSYVQ-es'
 tags: [  ]

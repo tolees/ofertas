@@ -5,7 +5,7 @@ date: 2020-02-05 10:36:07
 image: 'https://m.media-amazon.com/images/I/415MmRi0AqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNZQ6N7-es Micrófono de cámara Emiral Micrófono de entrevista estéreo...'
 sku: 'B07HNZQ6N7-es'
 tags: [  ]

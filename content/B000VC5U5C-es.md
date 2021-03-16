@@ -5,7 +5,7 @@ date: 2020-04-21 18:32:10
 image: 'https://m.media-amazon.com/images/I/31fr8+IFjML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VC5U5C-es Bosch 2 602 317 031 - Carril guía FSN 140 1400 mm pack de 1'
 sku: 'B000VC5U5C-es'
 tags: [  ]

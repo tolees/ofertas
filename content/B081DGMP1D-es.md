@@ -5,7 +5,7 @@ date: 2020-05-22 14:42:19
 image: 'https://m.media-amazon.com/images/I/51lEEjqc5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DGMP1D-es FNBK Funda para Samsung Galaxy S8 Funda de Piel con Stand...'
 sku: 'B081DGMP1D-es'
 tags: [  ]

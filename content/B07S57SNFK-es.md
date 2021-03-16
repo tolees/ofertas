@@ -5,7 +5,7 @@ date: 2020-06-23 15:54:03
 image: 'https://m.media-amazon.com/images/I/41VSplg04qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S57SNFK-es Columbia Ivo Trail Zapatillas para Hombre Gris Monument...'
 sku: 'B07S57SNFK-es'
 tags: [  ]

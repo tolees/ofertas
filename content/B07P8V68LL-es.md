@@ -5,7 +5,7 @@ date: 2020-01-03 07:57:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41u9MMETlIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8V68LL-es Toy Story-GGH40 - Figura de acción Infantil'
 sku: 'B07P8V68LL-es'
 tags: [  ]

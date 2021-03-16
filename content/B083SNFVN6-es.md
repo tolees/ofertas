@@ -5,7 +5,7 @@ date: 2020-05-06 11:24:37
 image: 'https://m.media-amazon.com/images/I/41JDCQ+rgXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SNFVN6-es San Ignacio Q3249 Set 3pc Utensilios de Cocina Nylon...'
 sku: 'B083SNFVN6-es'
 tags: [  ]

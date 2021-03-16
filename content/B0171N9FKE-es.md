@@ -5,7 +5,7 @@ date: 2020-08-12 11:57:31
 image: 'https://m.media-amazon.com/images/I/51uZnCCEBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0171N9FKE-es MyCarSit - Asiento de coche para niños respaldo alto 9 a...'
 sku: 'B0171N9FKE-es'
 tags: [  ]

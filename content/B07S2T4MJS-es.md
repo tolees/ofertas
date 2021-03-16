@@ -5,7 +5,7 @@ date: 2020-04-18 11:44:26
 image: 'https://m.media-amazon.com/images/I/41w8vDeAtlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2T4MJS-es BOSS Plisy Polo Gris Medium Grey 34 Hombre'
 sku: 'B07S2T4MJS-es'
 tags: [  ]

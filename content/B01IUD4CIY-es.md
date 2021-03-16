@@ -5,7 +5,7 @@ date: 2020-04-16 18:07:03
 image: 'https://m.media-amazon.com/images/I/51mu0rrWgGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IUD4CIY-es Conservas Dantza Esparrago - 345 gr'
 sku: 'B01IUD4CIY-es'
 tags: [  ]

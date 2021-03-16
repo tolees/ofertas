@@ -5,7 +5,7 @@ date: 2020-01-19 12:06:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41V4aTEMFPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000SKEJU4-es GORE WEAR M Calcetines unisex Talla: 35-37 Color:...'
 sku: 'B000SKEJU4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-23 09:04:54
 image: 'https://m.media-amazon.com/images/I/41eAT6N4oVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W55BPS4-es Procos - Vaso de plástico 200 ml Avengers Mighty...'
 sku: 'B06W55BPS4-es'
 tags: [  ]

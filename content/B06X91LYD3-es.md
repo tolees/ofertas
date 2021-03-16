@@ -5,7 +5,7 @@ date: 2020-09-25 10:46:46
 image: 'https://m.media-amazon.com/images/I/51YswBQDqmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X91LYD3-es Educa- Identic Gorjuss Juego Educativo de Memoria para...'
 sku: 'B06X91LYD3-es'
 tags: [  ]

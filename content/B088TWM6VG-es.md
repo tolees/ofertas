@@ -5,7 +5,7 @@ date: 2020-09-12 03:30:31
 image: 'https://m.media-amazon.com/images/I/31Nj5pvET8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TWM6VG-es NOV8Tech - Cámara web Full HD 1080p con micrófono para...'
 sku: 'B088TWM6VG-es'
 tags: [  ]

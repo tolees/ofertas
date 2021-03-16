@@ -5,7 +5,7 @@ date: 2020-07-20 19:02:39
 image: 'https://m.media-amazon.com/images/I/51ia1T+F5xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K4NB9P-es Gillette Venus Swirl Extra Smooth - Afeitadora para Mujer...'
 sku: 'B072K4NB9P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-29 10:04:38
 image: 'https://m.media-amazon.com/images/I/41XW8xKvQYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076G8RHJC-es PUMA Smash V2 L JR Zapatillas Unisex niños Negro Black...'
 sku: 'B076G8RHJC-es'
 tags: [  ]

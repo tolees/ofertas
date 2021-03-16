@@ -5,7 +5,7 @@ date: 2020-09-16 12:31:21
 image: 'https://m.media-amazon.com/images/I/51BQj1kfg9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CH14K3L-es Uniqueheart Home Kitchen Baking Accessories Easy Clean...'
 sku: 'B08CH14K3L-es'
 tags: [  ]

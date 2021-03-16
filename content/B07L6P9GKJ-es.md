@@ -5,7 +5,7 @@ date: 2020-06-26 14:49:47
 image: 'https://m.media-amazon.com/images/I/31yfw8zm73L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6P9GKJ-es FitFlop Lena Mocasines para Mujer Black All Black 090 39 EU'
 sku: 'B07L6P9GKJ-es'
 tags: [  ]

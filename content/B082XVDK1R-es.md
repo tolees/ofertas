@@ -5,7 +5,7 @@ date: 2020-01-15 09:06:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BUQSiVKRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XVDK1R-es Star Wars Póster Multicolor 61 x 91.5cm'
 sku: 'B082XVDK1R-es'
 tags: [  ]

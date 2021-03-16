@@ -5,7 +5,7 @@ date: 2020-09-05 07:42:37
 image: 'https://m.media-amazon.com/images/I/51nUOPyI+JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZR8LK6-es Miropure Cepillo alisador de cabello con calentamiento MCH...'
 sku: 'B01LZR8LK6-es'
 tags: [  ]

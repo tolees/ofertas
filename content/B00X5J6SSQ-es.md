@@ -5,7 +5,7 @@ date: 2020-07-31 07:39:25
 image: 'https://m.media-amazon.com/images/I/41ySasJCPkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X5J6SSQ-es IGLOO Nevera Portátil Transformer 56 litros con Ruedas y...'
 sku: 'B00X5J6SSQ-es'
 tags: [  ]

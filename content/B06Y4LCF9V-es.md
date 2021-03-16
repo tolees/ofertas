@@ -5,7 +5,7 @@ date: 2020-07-13 00:29:29
 image: 'https://m.media-amazon.com/images/I/41gz2Sds2QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y4LCF9V-es ICZI Hub USB Ethernet 3.0 +3 Puertos USB 3.0 Hub USB 3.0...'
 sku: 'B06Y4LCF9V-es'
 tags: [  ]

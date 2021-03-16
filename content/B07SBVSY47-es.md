@@ -5,7 +5,7 @@ date: 2020-08-07 07:52:46
 image: 'https://m.media-amazon.com/images/I/41tNY7UfKRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVSY47-es PUMA LQDCELL Shatter TR FM WN S Zapatillas Deportivas para...'
 sku: 'B07SBVSY47-es'
 tags: [  ]

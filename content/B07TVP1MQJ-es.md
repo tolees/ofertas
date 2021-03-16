@@ -5,7 +5,7 @@ date: 2020-04-16 18:13:38
 image: 'https://m.media-amazon.com/images/I/51hypQH9lHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVP1MQJ-es BRIKSMAX Kit de Iluminación Led para Lego Ideas Tron...'
 sku: 'B07TVP1MQJ-es'
 tags: [  ]

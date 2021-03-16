@@ -5,7 +5,7 @@ date: 2020-07-20 05:31:15
 image: 'https://m.media-amazon.com/images/I/61Cl7ABaFUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IEKKQVA-es Curver 230010 Rectangular Azul Bruma 27.6x20.2x15.2 cm'
 sku: 'B01IEKKQVA-es'
 tags: [  ]

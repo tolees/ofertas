@@ -5,7 +5,7 @@ date: 2020-06-24 02:58:40
 image: 'https://m.media-amazon.com/images/I/41Hkn+K5BbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J3FB9RF-es Under Armour Undeniable Duffel 4.0 MD Deportes Bolsa De...'
 sku: 'B07J3FB9RF-es'
 tags: [  ]

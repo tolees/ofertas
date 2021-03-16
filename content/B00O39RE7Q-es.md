@@ -5,7 +5,7 @@ date: 2020-05-09 11:53:31
 image: 'https://m.media-amazon.com/images/I/31RpyyQEuOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O39RE7Q-es Ramón Bilbao Vino Viñedos de Altura - 750 ml'
 sku: 'B00O39RE7Q-es'
 tags: [  ]

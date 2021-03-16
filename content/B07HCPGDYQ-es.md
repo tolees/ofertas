@@ -5,7 +5,7 @@ date: 2020-05-15 09:12:26
 image: 'https://m.media-amazon.com/images/I/31S0YVm2DxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCPGDYQ-es MODAUTO Antena de Radio Universal Varilla 9.5cm 4...'
 sku: 'B07HCPGDYQ-es'
 tags: [  ]

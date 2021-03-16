@@ -5,7 +5,7 @@ date: 2020-07-16 20:29:52
 image: 'https://m.media-amazon.com/images/I/41Mhtfov80L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AK22GJU-es NIKE Swoosh - Diadema para Mujer Mujer N.JN.D6.010.OS...'
 sku: 'B01AK22GJU-es'
 tags: [  ]

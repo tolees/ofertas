@@ -5,7 +5,7 @@ date: 2020-07-11 16:35:11
 image: 'https://m.media-amazon.com/images/I/41lYM4okQWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BC5PSHF-es Bourjois Satin Edition Sombra de Ojos Líquida Tono 1 Beige...'
 sku: 'B07BC5PSHF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 15:06:13
 image: 'https://m.media-amazon.com/images/I/41GMmwZh0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8NJK8C-es Braun 9 En 1 Recortadora todo en uno MGK5080 Máquina...'
 sku: 'B07M8NJK8C-es'
 tags: [  ]

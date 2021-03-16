@@ -5,7 +5,7 @@ date: 2020-09-28 16:02:34
 image: 'https://m.media-amazon.com/images/I/410UR+X0GeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894FNHZ7-es Juego de 2 cucharas de decoración de dibujo culinario de...'
 sku: 'B0894FNHZ7-es'
 tags: [  ]

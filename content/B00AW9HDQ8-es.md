@@ -5,7 +5,7 @@ date: 2020-05-28 12:11:38
 image: 'https://m.media-amazon.com/images/I/4144TdN6h7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AW9HDQ8-es FERM WEM1042 Soldador de arco 40-100A'
 sku: 'B00AW9HDQ8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 04:02:34
 image: 'https://m.media-amazon.com/images/I/31V8QIvwT7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0051PRCNC-es Revlon ZP11 - Champú Anticaspa Cabellos Normales 400 ml'
 sku: 'B0051PRCNC-es'
 tags: [  ]

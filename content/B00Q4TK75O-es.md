@@ -5,7 +5,7 @@ date: 2020-01-10 00:29:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rG4k%2B%2BfJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q4TK75O-es AmazonBasics FTD Sábanas Ajustables 90 x 190 x 30 cm Azul'
 sku: 'B00Q4TK75O-es'
 tags: [  ]

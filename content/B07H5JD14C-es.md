@@ -5,7 +5,7 @@ date: 2020-05-28 07:34:36
 image: 'https://m.media-amazon.com/images/I/51L+1ht7y5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5JD14C-es Weta Collectibles- Mini Epics Figura Coleccionable Balrog...'
 sku: 'B07H5JD14C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 08:42:32
 image: 'https://m.media-amazon.com/images/I/51icXoXSsmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011XCY7TI-es Vengadores: La Era De Ultrón BD 3D + 2D [Blu-ray]'
 sku: 'B011XCY7TI-es'
 tags: [  ]

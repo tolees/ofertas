@@ -5,7 +5,7 @@ date: 2020-03-17 09:26:36
 image: 'https://m.media-amazon.com/images/I/31iLnUqN0xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000R9QHWY-es Vallejo 028011 - Espray de prelacado 400 ml Gris'
 sku: 'B000R9QHWY-es'
 tags: [  ]

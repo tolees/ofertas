@@ -5,7 +5,7 @@ date: 2020-01-16 07:43:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nctBw0NrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003VTVRVS-es Madal Bal Gel Aloe Árbol Te - 200 gr'
 sku: 'B003VTVRVS-es'
 tags: [  ]

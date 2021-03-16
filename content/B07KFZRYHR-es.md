@@ -5,7 +5,7 @@ date: 2020-05-26 08:46:06
 image: 'https://m.media-amazon.com/images/I/412CI8cqW4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZRYHR-es PUMA Cali PS Zapatillas para Niñas Black-Milky Blue 30 EU'
 sku: 'B07KFZRYHR-es'
 tags: [  ]

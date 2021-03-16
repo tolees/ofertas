@@ -5,7 +5,7 @@ date: 2020-01-26 10:57:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5115seNhbOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBB4GJB-es deAO Tienda de Campaña Tipi Castillo con Luces LED Casita...'
 sku: 'B07RBB4GJB-es'
 tags: [  ]

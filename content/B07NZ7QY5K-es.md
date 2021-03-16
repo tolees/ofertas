@@ -5,7 +5,7 @@ date: 2020-06-06 17:45:10
 image: 'https://m.media-amazon.com/images/I/419XZKIGqKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZ7QY5K-es Chatham Grampian Botas Clasicas para Hombre Khaki Nubuck...'
 sku: 'B07NZ7QY5K-es'
 tags: [  ]

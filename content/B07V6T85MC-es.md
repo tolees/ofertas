@@ -5,7 +5,7 @@ date: 2020-05-19 19:40:25
 image: 'https://m.media-amazon.com/images/I/41Guy0NqhAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6T85MC-es Asiento del automóvil Asiento trasero Protector de la...'
 sku: 'B07V6T85MC-es'
 tags: [  ]

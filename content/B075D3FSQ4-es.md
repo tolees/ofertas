@@ -5,7 +5,7 @@ date: 2020-06-25 13:04:16
 image: 'https://m.media-amazon.com/images/I/41peqimRWVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075D3FSQ4-es Trust GXT 310D Radius - Auriculares Gaming Multi-...'
 sku: 'B075D3FSQ4-es'
 tags: [  ]

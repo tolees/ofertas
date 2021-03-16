@@ -5,7 +5,7 @@ date: 2020-01-13 19:05:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BAG37RV6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HXSXFH-es Pokémon Crystal - Edición Limitada Código Digital'
 sku: 'B078HXSXFH-es'
 tags: [  ]

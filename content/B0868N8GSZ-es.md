@@ -5,7 +5,7 @@ date: 2020-04-26 17:03:40
 image: 'https://m.media-amazon.com/images/I/51UBJKOBnSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868N8GSZ-es Suhctup Transparente Funda Compatible con Huawei Mate 8...'
 sku: 'B0868N8GSZ-es'
 tags: [  ]

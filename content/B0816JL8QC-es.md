@@ -5,7 +5,7 @@ date: 2020-03-29 18:33:10
 image: 'https://m.media-amazon.com/images/I/51YCRvcGs5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0816JL8QC-es Ferilinso Cristal Templado para Xiaomi Redmi Note 8T...'
 sku: 'B0816JL8QC-es'
 tags: [  ]

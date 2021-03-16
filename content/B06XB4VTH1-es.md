@@ -5,7 +5,7 @@ date: 2020-08-29 23:10:42
 image: 'https://m.media-amazon.com/images/I/41mP7pd8AhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XB4VTH1-es Skechers Men Elite Flex-Hartnell Trainers Blue Navy/Blue...'
 sku: 'B06XB4VTH1-es'
 tags: [  ]

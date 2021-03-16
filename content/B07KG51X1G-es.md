@@ -5,7 +5,7 @@ date: 2020-02-05 18:33:04
 image: 'https://m.media-amazon.com/images/I/41w7TY5DI9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG51X1G-es PUMA Speed Orbiter Zapatillas de Running para Hombre Black...'
 sku: 'B07KG51X1G-es'
 tags: [  ]

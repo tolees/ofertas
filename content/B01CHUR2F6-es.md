@@ -5,7 +5,7 @@ date: 2020-08-12 08:47:05
 image: 'https://m.media-amazon.com/images/I/41Z7cuyHnyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CHUR2F6-es Wilkinson Sword Hydro – Maquinilla de afeitar con 8 recambios'
 sku: 'B01CHUR2F6-es'
 tags: [  ]

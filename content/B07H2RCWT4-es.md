@@ -5,7 +5,7 @@ date: 2020-05-27 06:57:13
 image: 'https://m.media-amazon.com/images/I/41EEJ66+0fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2RCWT4-es ESR Auriculares inalámbricos con Controladores duales...'
 sku: 'B07H2RCWT4-es'
 tags: [  ]

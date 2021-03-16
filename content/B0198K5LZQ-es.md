@@ -5,7 +5,7 @@ date: 2020-03-24 20:33:59
 image: 'https://m.media-amazon.com/images/I/41MsuoS1WqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0198K5LZQ-es Dickies Pensacola Short Pantalones Cortos Deportivos para...'
 sku: 'B0198K5LZQ-es'
 tags: [  ]

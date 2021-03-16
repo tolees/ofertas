@@ -5,7 +5,7 @@ date: 2020-01-07 09:54:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Azw5K2F2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R7CFLK-es New Balance Minimus 40 Zapatillas de Cross para Mujer...'
 sku: 'B075R7CFLK-es'
 tags: [  ]

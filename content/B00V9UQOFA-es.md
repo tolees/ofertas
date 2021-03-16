@@ -5,7 +5,7 @@ date: 2020-03-24 04:57:11
 image: 'https://m.media-amazon.com/images/I/414i6UZmaPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V9UQOFA-es KFD 65W Adaptador Cargador portátil para Intel NUC...'
 sku: 'B00V9UQOFA-es'
 tags: [  ]

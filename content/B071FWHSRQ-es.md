@@ -5,7 +5,7 @@ date: 2020-10-04 15:06:41
 image: 'https://m.media-amazon.com/images/I/41f0+dikG0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FWHSRQ-es adidas Campus Zapatillas de Deporte para Hombre Azul...'
 sku: 'B071FWHSRQ-es'
 tags: [  ]

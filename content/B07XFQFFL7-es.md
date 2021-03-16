@@ -5,7 +5,7 @@ date: 2020-01-06 06:03:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51KwlqN0-DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFQFFL7-es Mr. Tronic 30m Cable de Red Ethernet Latiguillo | CAT6...'
 sku: 'B07XFQFFL7-es'
 tags: [  ]

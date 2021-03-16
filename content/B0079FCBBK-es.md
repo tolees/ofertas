@@ -5,7 +5,7 @@ date: 2020-04-21 04:35:29
 image: 'https://m.media-amazon.com/images/I/51VnSme2dsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0079FCBBK-es Natural History Museum The Linterna con proyector de...'
 sku: 'B0079FCBBK-es'
 tags: [  ]

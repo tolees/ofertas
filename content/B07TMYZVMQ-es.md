@@ -5,7 +5,7 @@ date: 2020-04-17 15:53:38
 image: 'https://m.media-amazon.com/images/I/51AtYFtXz+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMYZVMQ-es Cortapelos Nariz y Oreja Recargable 5 en 1 Recortador de...'
 sku: 'B07TMYZVMQ-es'
 tags: [  ]

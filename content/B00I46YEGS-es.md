@@ -5,7 +5,7 @@ date: 2020-05-29 08:48:39
 image: 'https://m.media-amazon.com/images/I/41jU7UUOdWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I46YEGS-es Delta Dore 6053005 Termostato Programab Tybox 117 Blanco...'
 sku: 'B00I46YEGS-es'
 tags: [  ]

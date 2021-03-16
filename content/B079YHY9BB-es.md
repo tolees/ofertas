@@ -5,7 +5,7 @@ date: 2020-09-21 15:17:24
 image: 'https://m.media-amazon.com/images/I/31Z+CqaSJhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YHY9BB-es Manfrotto MKBFRLA-BH Befree Advanced - Trípode de Viaje...'
 sku: 'B079YHY9BB-es'
 tags: [  ]

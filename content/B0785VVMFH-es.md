@@ -5,7 +5,7 @@ date: 2020-04-11 00:15:57
 image: 'https://m.media-amazon.com/images/I/51RgtmNI2aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785VVMFH-es Gifts Treat Calentadores de oído Unisex orejeras plegables...'
 sku: 'B0785VVMFH-es'
 tags: [  ]

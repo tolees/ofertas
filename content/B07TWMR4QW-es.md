@@ -5,7 +5,7 @@ date: 2020-05-12 16:47:37
 image: 'https://m.media-amazon.com/images/I/51XP0AMkAGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWMR4QW-es Casio Reloj Analógico-Digital para Hombre Correa en Resina...'
 sku: 'B07TWMR4QW-es'
 tags: [  ]

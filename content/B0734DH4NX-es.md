@@ -5,7 +5,7 @@ date: 2020-09-19 12:01:11
 image: 'https://m.media-amazon.com/images/I/31nT3Gv4xqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0734DH4NX-es Asus ROG Pugio - Ratón óptico por cable diseño ambidiestro...'
 sku: 'B0734DH4NX-es'
 tags: [  ]

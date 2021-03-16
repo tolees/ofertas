@@ -5,7 +5,7 @@ date: 2020-06-25 02:46:22
 image: 'https://m.media-amazon.com/images/I/41x17dU2yZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R7JNTS-es New Balance Fresh Foam Cruz v2 Knit m Zapatillas para...'
 sku: 'B075R7JNTS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 20:54:50
 image: 'https://m.media-amazon.com/images/I/41wCpolzr+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085BPBW2J-es HIDARLING Bolsa Seca Impermeable con Correa Larga...'
 sku: 'B085BPBW2J-es'
 tags: [  ]

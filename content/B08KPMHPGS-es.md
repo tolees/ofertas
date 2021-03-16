@@ -5,7 +5,7 @@ date: 2020-10-12 00:46:17
 image: 'https://m.media-amazon.com/images/I/51Dd+G7dh3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08KPMHPGS-es Bisoo - Toalla Bebe con Capucha - Set de Baño 4 Piezas con...'
 sku: 'B08KPMHPGS-es'
 tags: [  ]

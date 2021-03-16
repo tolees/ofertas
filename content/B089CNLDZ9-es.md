@@ -5,7 +5,7 @@ date: 2020-07-18 09:47:15
 image: 'https://m.media-amazon.com/images/I/31S9m5q4-QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089CNLDZ9-es WXQ Bote de Basura de Acero Inoxidable Tipo Pedal Duradero...'
 sku: 'B089CNLDZ9-es'
 tags: [  ]

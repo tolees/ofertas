@@ -5,7 +5,7 @@ date: 2020-07-22 12:32:57
 image: 'https://m.media-amazon.com/images/I/41k9WiNPCRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089ZPBW4J-es ASICS Training Club Pantalones - L'
 sku: 'B089ZPBW4J-es'
 tags: [  ]

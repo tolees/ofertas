@@ -5,7 +5,7 @@ date: 2020-05-15 09:37:21
 image: 'https://m.media-amazon.com/images/I/31gHrBt521L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZGS23P-es Siux Cajon DE 24 Botes con Bolas Match'
 sku: 'B07YZGS23P-es'
 tags: [  ]

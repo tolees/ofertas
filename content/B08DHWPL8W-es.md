@@ -5,7 +5,7 @@ date: 2020-09-14 20:02:57
 image: 'https://m.media-amazon.com/images/I/51An88g3r-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHWPL8W-es OTraki Cortina Ducha Translúcido Antimoho 200cm x 200 cm...'
 sku: 'B08DHWPL8W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-20 10:30:41
 image: 'https://m.media-amazon.com/images/I/41U0+RBqosL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6PLB9K-es TACKLIFE Divisor de Manguera Válvula de Doble Salida para...'
 sku: 'B07M6PLB9K-es'
 tags: [  ]

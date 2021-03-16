@@ -5,7 +5,7 @@ date: 2020-06-02 18:20:30
 image: 'https://m.media-amazon.com/images/I/51ZNlmVSRHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018XP9SQK-es Quamtrax Nutrition Avena Instantánea Sabor Galleta...'
 sku: 'B018XP9SQK-es'
 tags: [  ]

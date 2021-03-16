@@ -5,7 +5,7 @@ date: 2020-08-27 18:36:16
 image: 'https://m.media-amazon.com/images/I/31Oa5srEVIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXX6LKX-es Tucano Smilza Maletines para Portátil 35 6 cm 14"...'
 sku: 'B07FXX6LKX-es'
 tags: [  ]

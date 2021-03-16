@@ -5,7 +5,7 @@ date: 2020-05-25 19:08:09
 image: 'https://m.media-amazon.com/images/I/41Vb0l4a8BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLTH84Y-es Old Spice Citron Antitranspirante y Desodorante en Barra...'
 sku: 'B07XLTH84Y-es'
 tags: [  ]

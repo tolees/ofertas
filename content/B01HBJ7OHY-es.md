@@ -5,7 +5,7 @@ date: 2020-09-11 21:13:55
 image: 'https://m.media-amazon.com/images/I/51y8HtfmtQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HBJ7OHY-es Tommy Hilfiger 1791269 - Reloj análogico de cuarzo con...'
 sku: 'B01HBJ7OHY-es'
 tags: [  ]

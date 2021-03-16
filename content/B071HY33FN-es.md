@@ -5,7 +5,7 @@ date: 2020-09-20 08:33:44
 image: 'https://m.media-amazon.com/images/I/41T36ByMnjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HY33FN-es Salomon X Ultra 3 GTX W Zapatillas de Senderismo para...'
 sku: 'B071HY33FN-es'
 tags: [  ]

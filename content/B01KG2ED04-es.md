@@ -5,7 +5,7 @@ date: 2020-01-05 09:16:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FcnYekMLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KG2ED04-es Juego de 7 destornilladores aislados y buscapolos de...'
 sku: 'B01KG2ED04-es'
 tags: [  ]

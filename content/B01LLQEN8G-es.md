@@ -5,7 +5,7 @@ date: 2020-10-09 22:59:20
 image: 'https://m.media-amazon.com/images/I/31Cg2NeH5VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LLQEN8G-es Quid Intense - Tartera de aluminio fundido 32cm 5L asas de...'
 sku: 'B01LLQEN8G-es'
 tags: [  ]

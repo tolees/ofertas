@@ -5,7 +5,7 @@ date: 2020-10-03 19:25:59
 image: 'https://m.media-amazon.com/images/I/31fI3aOSmoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P81T8QS-es Pop! Figura de Vinilo: Música: The Police - Andy Summers'
 sku: 'B07P81T8QS-es'
 tags: [  ]

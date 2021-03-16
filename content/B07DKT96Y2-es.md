@@ -5,7 +5,7 @@ date: 2020-09-21 10:34:49
 image: 'https://m.media-amazon.com/images/I/51tgkTXxcnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKT96Y2-es Rollo de 5 metros de Tira de Luz LED Directa a 220v. Color...'
 sku: 'B07DKT96Y2-es'
 tags: [  ]

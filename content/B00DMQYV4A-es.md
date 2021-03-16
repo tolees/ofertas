@@ -5,7 +5,7 @@ date: 2020-04-18 01:37:20
 image: 'https://m.media-amazon.com/images/I/51o31C-KQSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DMQYV4A-es Yosoo C Forma Decoración Levitación Magnética Flotante...'
 sku: 'B00DMQYV4A-es'
 tags: [  ]

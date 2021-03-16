@@ -5,7 +5,7 @@ date: 2020-06-13 08:08:03
 image: 'https://m.media-amazon.com/images/I/41FiNDFkoeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPQFM88-es Grabadora CD/DVD Externa USB 3.0 Colourstone USB 3.0 y...'
 sku: 'B07PPQFM88-es'
 tags: [  ]

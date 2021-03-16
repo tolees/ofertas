@@ -5,7 +5,7 @@ date: 2020-04-22 13:29:18
 image: 'https://m.media-amazon.com/images/I/41Zyb0qQVRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0833WRFB9-es Filtro de ducha - Filtro de cabezal de ducha de 16 etapas...'
 sku: 'B0833WRFB9-es'
 tags: [  ]

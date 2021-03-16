@@ -5,7 +5,7 @@ date: 2020-06-23 07:05:38
 image: 'https://m.media-amazon.com/images/I/41nI-4Id7sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDJPHNJ-es Bombilla LED G4 2 W de repuesto para bombillas halógenas...'
 sku: 'B07XDJPHNJ-es'
 tags: [  ]

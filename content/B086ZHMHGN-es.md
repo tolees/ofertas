@@ -5,7 +5,7 @@ date: 2020-05-14 12:33:58
 image: 'https://m.media-amazon.com/images/I/51Ad2pjCmZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZHMHGN-es Microondas Cocina rápida Tejido de poliéster Lavable Bolsa...'
 sku: 'B086ZHMHGN-es'
 tags: [  ]

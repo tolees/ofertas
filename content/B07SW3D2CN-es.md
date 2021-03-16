@@ -5,7 +5,7 @@ date: 2020-03-17 11:15:44
 image: 'https://m.media-amazon.com/images/I/412Kz6xdHoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SW3D2CN-es Aerku Protector de Pantalla para Echó Show 5 9H Dureza...'
 sku: 'B07SW3D2CN-es'
 tags: [  ]

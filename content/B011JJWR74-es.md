@@ -5,7 +5,7 @@ date: 2020-07-03 20:01:00
 image: 'https://m.media-amazon.com/images/I/41VSi2L3dEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011JJWR74-es Supra Zapatillas abotinadas Negro 45 EU'
 sku: 'B011JJWR74-es'
 tags: [  ]

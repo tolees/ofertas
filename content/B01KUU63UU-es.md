@@ -5,7 +5,7 @@ date: 2020-08-19 11:36:55
 image: 'https://m.media-amazon.com/images/I/411bqI6SgsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KUU63UU-es Beurer EM 32 Electroestimulador EMS Cinturón Abdominal 5...'
 sku: 'B01KUU63UU-es'
 tags: [  ]

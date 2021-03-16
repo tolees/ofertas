@@ -5,7 +5,7 @@ date: 2020-07-21 09:47:52
 image: 'https://m.media-amazon.com/images/I/41kOIus2tsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C24LKKJ-es Panamar Bolsas de Compras de Lona de Gran Capacidad Bolsas...'
 sku: 'B08C24LKKJ-es'
 tags: [  ]

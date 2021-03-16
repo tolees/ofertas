@@ -5,7 +5,7 @@ date: 2020-02-19 16:03:24
 image: 'https://m.media-amazon.com/images/I/51xHnbWt+vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076TCQ63Q-es My Lovely Bed - Edredón Nórdico 4 Estaciones - 220x240 cm...'
 sku: 'B076TCQ63Q-es'
 tags: [  ]

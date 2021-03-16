@@ -5,7 +5,7 @@ date: 2020-04-25 19:54:38
 image: 'https://m.media-amazon.com/images/I/414K5z1rJpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ5VQ67-es Scotch & Soda Nos Mott-Classic Slim Fit Chino Pantalones...'
 sku: 'B07MQ5VQ67-es'
 tags: [  ]

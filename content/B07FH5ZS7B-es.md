@@ -5,7 +5,7 @@ date: 2020-03-17 11:23:12
 image: 'https://m.media-amazon.com/images/I/41teyyqA9XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FH5ZS7B-es Element Dusk II Beanie A Gorro Hombre Rojo Napa Red Talla...'
 sku: 'B07FH5ZS7B-es'
 tags: [  ]

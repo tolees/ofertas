@@ -5,7 +5,7 @@ date: 2020-05-31 13:33:35
 image: 'https://m.media-amazon.com/images/I/41N3bqGqSJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSEYUIC-es Philips Avent SCF169/25 - Set de 2 chupetes Gama Safari de...'
 sku: 'B01MSEYUIC-es'
 tags: [  ]

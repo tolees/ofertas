@@ -5,7 +5,7 @@ date: 2020-06-19 10:55:48
 image: 'https://m.media-amazon.com/images/I/41P7hig9T3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y67W4TF-es Joma Champion IV Sudaderas Mujer Rojo-Blanco M'
 sku: 'B06Y67W4TF-es'
 tags: [  ]

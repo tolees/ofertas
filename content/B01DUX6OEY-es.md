@@ -5,7 +5,7 @@ date: 2020-02-19 16:03:57
 image: 'https://m.media-amazon.com/images/I/51euzq5SBsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DUX6OEY-es Knorr - Ligeresa - Crema de Verduras de la Huerta - 500 ml'
 sku: 'B01DUX6OEY-es'
 tags: [  ]

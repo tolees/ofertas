@@ -5,7 +5,7 @@ date: 2020-01-28 07:09:23
 image: 'https://m.media-amazon.com/images/I/410RV53WQoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4NKDZ8-es La Toja Selection - Sales de Baño con Minerales Termales...'
 sku: 'B07D4NKDZ8-es'
 tags: [  ]

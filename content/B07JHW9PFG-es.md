@@ -5,7 +5,7 @@ date: 2020-03-10 16:18:09
 image: 'https://m.media-amazon.com/images/I/417B7bzz9qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHW9PFG-es Columbia MARAGAL WP Botas Casual para Mujer Negro Black...'
 sku: 'B07JHW9PFG-es'
 tags: [  ]

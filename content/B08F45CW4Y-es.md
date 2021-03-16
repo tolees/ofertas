@@ -5,7 +5,7 @@ date: 2020-09-14 18:02:13
 image: 'https://m.media-amazon.com/images/I/41QFt24Nh1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F45CW4Y-es Toallero de baño Organizador de baño Toallero de pared de...'
 sku: 'B08F45CW4Y-es'
 tags: [  ]

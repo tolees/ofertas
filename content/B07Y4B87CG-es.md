@@ -5,7 +5,7 @@ date: 2020-02-19 14:02:49
 image: 'https://m.media-amazon.com/images/I/51JEwWv026L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4B87CG-es JEEUE 4PCS TV Antena Macho Coaxial Enchufe a Enchufe F...'
 sku: 'B07Y4B87CG-es'
 tags: [  ]

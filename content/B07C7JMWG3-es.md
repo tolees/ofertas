@@ -5,7 +5,7 @@ date: 2020-06-18 06:58:18
 image: 'https://m.media-amazon.com/images/I/41UQDbnEvoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C7JMWG3-es Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B07C7JMWG3-es'
 tags: [  ]

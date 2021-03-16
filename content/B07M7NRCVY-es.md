@@ -5,7 +5,7 @@ date: 2020-06-16 06:39:19
 image: 'https://m.media-amazon.com/images/I/41o7CsvHSfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7NRCVY-es Adidas Fortagym CF Jr Zapatillas de Competición Unisex...'
 sku: 'B07M7NRCVY-es'
 tags: [  ]

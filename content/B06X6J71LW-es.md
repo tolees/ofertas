@@ -5,7 +5,7 @@ date: 2020-04-14 16:55:43
 image: 'https://m.media-amazon.com/images/I/51oHYhlQIJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6J71LW-es Metal Bookmark with Tassels and Envelope - Amupper Página...'
 sku: 'B06X6J71LW-es'
 tags: [  ]

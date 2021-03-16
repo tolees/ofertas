@@ -5,7 +5,7 @@ date: 2020-03-21 04:02:38
 image: 'https://m.media-amazon.com/images/I/51F6GTJCw6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLBLT23-es 7 Unids UV Gel Nail Art Pluma Cepillos de Pintura Punteada...'
 sku: 'B07MLBLT23-es'
 tags: [  ]

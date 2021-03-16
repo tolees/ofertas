@@ -5,7 +5,7 @@ date: 2020-04-18 03:13:24
 image: 'https://m.media-amazon.com/images/I/41JKUKdD-2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LDXWHD7-es Agerul Vinagre de Limpieza 1l'
 sku: 'B07LDXWHD7-es'
 tags: [  ]

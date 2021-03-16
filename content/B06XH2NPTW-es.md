@@ -5,7 +5,7 @@ date: 2020-04-10 17:58:25
 image: 'https://m.media-amazon.com/images/I/31kWNkKIKML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XH2NPTW-es Helly Hansen HH LIFA Merino Crew LS Baselayer Hombre Negro...'
 sku: 'B06XH2NPTW-es'
 tags: [  ]

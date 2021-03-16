@@ -5,7 +5,7 @@ date: 2020-08-22 21:11:30
 image: 'https://m.media-amazon.com/images/I/31avt1E+1oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J1K2JG4-es Macrimo - Lámpara de altavoz Bluetooth luz nocturna...'
 sku: 'B07J1K2JG4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 12:05:35
 image: 'https://m.media-amazon.com/images/I/41yYm63CTlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0787GLJVB-es Columbia Meadows Slip-on Omni-Heat 3D Botas de Nieve para...'
 sku: 'B0787GLJVB-es'
 tags: [  ]

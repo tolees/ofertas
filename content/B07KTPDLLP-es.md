@@ -5,7 +5,7 @@ date: 2020-05-16 18:13:08
 image: 'https://m.media-amazon.com/images/I/51-NMxb1AqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTPDLLP-es Scuderia Ferrari Reloj de Pulsera 830595'
 sku: 'B07KTPDLLP-es'
 tags: [  ]

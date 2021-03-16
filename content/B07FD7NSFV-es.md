@@ -5,7 +5,7 @@ date: 2020-07-08 23:20:06
 image: 'https://m.media-amazon.com/images/I/51X15wK0OqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FD7NSFV-es Starlink Co-Op Pack'
 sku: 'B07FD7NSFV-es'
 tags: [  ]

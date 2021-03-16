@@ -5,7 +5,7 @@ date: 2020-04-11 19:52:45
 image: 'https://m.media-amazon.com/images/I/51Fhr7XZCyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZS4YGV-es UniqueMe [3 Pack] Protector de Pantalla para Samsung...'
 sku: 'B07TZS4YGV-es'
 tags: [  ]

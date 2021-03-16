@@ -5,7 +5,7 @@ date: 2020-09-05 06:00:49
 image: 'https://m.media-amazon.com/images/I/41qnbN+jzFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073WC78HC-es Colchón ANTIAHOGO Bebé Plastificado para Minicuna blanco...'
 sku: 'B073WC78HC-es'
 tags: [  ]

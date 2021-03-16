@@ -5,7 +5,7 @@ date: 2020-02-13 11:04:14
 image: 'https://m.media-amazon.com/images/I/418mOh4RCgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BFX1H5V-es Doble Consolador Double Consolador en color rosa...'
 sku: 'B07BFX1H5V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-06 18:14:10
 image: 'https://m.media-amazon.com/images/I/41D9L7uIMIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY69XHN-es DONPEREGRINO 55cm Maletas de Cabina Rígidas y Resistentes...'
 sku: 'B07TY69XHN-es'
 tags: [  ]

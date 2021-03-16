@@ -5,7 +5,7 @@ date: 2020-03-26 18:54:52
 image: 'https://m.media-amazon.com/images/I/41Z7WBaLARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SL53WC5-es Funko- Pop TV: La Casa de Papel-Professor O Clown...'
 sku: 'B07SL53WC5-es'
 tags: [  ]

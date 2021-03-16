@@ -5,7 +5,7 @@ date: 2020-08-27 14:43:58
 image: 'https://m.media-amazon.com/images/I/317caVdghdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJFMTJ5-es Essie Esmalte de Uñas N.630 Take The Lead 13.5 ml'
 sku: 'B07PJFMTJ5-es'
 tags: [  ]

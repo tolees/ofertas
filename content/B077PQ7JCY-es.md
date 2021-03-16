@@ -5,7 +5,7 @@ date: 2020-08-16 08:50:32
 image: 'https://m.media-amazon.com/images/I/51xqIcQamKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PQ7JCY-es HORIZON ZERO DAWN - ORIGINAL SOUNDTRACK'
 sku: 'B077PQ7JCY-es'
 tags: [  ]

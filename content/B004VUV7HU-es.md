@@ -5,7 +5,7 @@ date: 2020-04-16 18:23:13
 image: 'https://m.media-amazon.com/images/I/41WFGK6fKcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004VUV7HU-es 5 Star 424410 Mini Dispensador de cinta Negro'
 sku: 'B004VUV7HU-es'
 tags: [  ]

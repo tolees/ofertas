@@ -5,7 +5,7 @@ date: 2020-08-11 23:11:35
 image: 'https://m.media-amazon.com/images/I/410s2JRpuXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYRKXR6-es FIXKIT Silla Oficina Ergonómica Giratoria 360° Silla de...'
 sku: 'B07FYRKXR6-es'
 tags: [  ]

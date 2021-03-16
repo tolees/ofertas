@@ -5,7 +5,7 @@ date: 2020-02-09 13:13:08
 image: 'https://m.media-amazon.com/images/I/31adV1yLicL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBZG13G-es LEVIS FOOTWEAR AND ACCESSORIES - The Levi s® L Pack...'
 sku: 'B07MBZG13G-es'
 tags: [  ]

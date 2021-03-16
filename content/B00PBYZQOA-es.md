@@ -5,7 +5,7 @@ date: 2020-01-19 19:36:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/511XsavPPRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PBYZQOA-es Linterna para la cabeza con 21 luces LED - Linterna Ligera...'
 sku: 'B00PBYZQOA-es'
 tags: [  ]

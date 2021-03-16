@@ -5,7 +5,7 @@ date: 2020-06-19 07:57:18
 image: 'https://m.media-amazon.com/images/I/318yQ5P-VBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7L65OW-es Orbegozo MIG 2038 - Microondas con grill 700 W de potencia...'
 sku: 'B01N7L65OW-es'
 tags: [  ]

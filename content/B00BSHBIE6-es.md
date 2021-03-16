@@ -5,7 +5,7 @@ date: 2020-03-26 06:38:40
 image: 'https://m.media-amazon.com/images/I/51ocfqqRsXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BSHBIE6-es UNYQUE Compresas Maternidad de Algodon Puro 100%...'
 sku: 'B00BSHBIE6-es'
 tags: [  ]

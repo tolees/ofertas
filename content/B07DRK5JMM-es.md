@@ -5,7 +5,7 @@ date: 2020-01-25 21:17:25
 image: 'https://m.media-amazon.com/images/I/514H2rs3H1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRK5JMM-es Sendowtek Mini Calefactor Cerámico 1200W Calentador de...'
 sku: 'B07DRK5JMM-es'
 tags: [  ]

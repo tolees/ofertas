@@ -5,7 +5,7 @@ date: 2020-04-11 19:08:18
 image: 'https://m.media-amazon.com/images/I/31y68Ga3suL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F86R2NQ-es Adidas 3MC Zapatillas de Skateboarding Unisex Adulto Azul...'
 sku: 'B07F86R2NQ-es'
 tags: [  ]

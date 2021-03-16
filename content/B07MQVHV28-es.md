@@ -5,7 +5,7 @@ date: 2020-01-10 11:08:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/315mlEUAR5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQVHV28-es Napapijri EISBERG Polo Negro Black 041 S para Hombre'
 sku: 'B07MQVHV28-es'
 tags: [  ]

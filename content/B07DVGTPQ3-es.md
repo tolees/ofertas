@@ -5,7 +5,7 @@ date: 2020-05-05 20:39:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3168%2Bn3fnwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVGTPQ3-es New Balance W890V7 Zapatillas de Running para Mujer Blanco...'
 sku: 'B07DVGTPQ3-es'
 tags: [  ]

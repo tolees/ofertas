@@ -5,7 +5,7 @@ date: 2020-04-14 08:34:09
 image: 'https://m.media-amazon.com/images/I/41KtefPkFDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081N4XHVH-es Decoración para tarta de cumpleaños de acrílico 6 Stück...'
 sku: 'B081N4XHVH-es'
 tags: [  ]

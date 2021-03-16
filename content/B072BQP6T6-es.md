@@ -5,7 +5,7 @@ date: 2020-08-25 17:08:33
 image: 'https://m.media-amazon.com/images/I/51kTl4QQAkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BQP6T6-es MagiDeal DIY 5D Diamante de Imitación Bordado Pintura...'
 sku: 'B072BQP6T6-es'
 tags: [  ]

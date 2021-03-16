@@ -5,7 +5,7 @@ date: 2020-01-19 21:38:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yLHTvTxDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K72JXL8-es Asics Patriot 10 Zapatillas de Running para Hombre Rojo...'
 sku: 'B07K72JXL8-es'
 tags: [  ]

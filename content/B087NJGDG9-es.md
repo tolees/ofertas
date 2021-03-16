@@ -5,7 +5,7 @@ date: 2020-09-19 14:34:58
 image: 'https://m.media-amazon.com/images/I/51nA+Hcaq6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087NJGDG9-es TOMSHOO Rueda Abdominales Fitness Kit AB Roller y...'
 sku: 'B087NJGDG9-es'
 tags: [  ]

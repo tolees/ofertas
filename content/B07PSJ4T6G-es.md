@@ -5,7 +5,7 @@ date: 2020-01-05 02:55:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ifTMiaFhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJ4T6G-es Hurley Prem Enjoy tee SS Geo Camisetas Hombre White S'
 sku: 'B07PSJ4T6G-es'
 tags: [  ]

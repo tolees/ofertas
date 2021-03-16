@@ -5,7 +5,7 @@ date: 2020-05-18 13:09:35
 image: 'https://m.media-amazon.com/images/I/318bT4vtcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQT51HD-es adidas Essential Linear Medias Mujer Negro/Blanco XS'
 sku: 'B07KQT51HD-es'
 tags: [  ]

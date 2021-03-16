@@ -5,7 +5,7 @@ date: 2020-05-28 09:34:25
 image: 'https://m.media-amazon.com/images/I/41q5wuE0uqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ERUI816-es Joma - Malla Corta Elite v Royal para Hombre'
 sku: 'B01ERUI816-es'
 tags: [  ]

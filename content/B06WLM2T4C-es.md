@@ -5,7 +5,7 @@ date: 2020-07-07 16:25:20
 image: 'https://m.media-amazon.com/images/I/4143EwL8cgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WLM2T4C-es Reloj Guess - Hombre W0971G1'
 sku: 'B06WLM2T4C-es'
 tags: [  ]

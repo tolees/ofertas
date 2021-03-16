@@ -5,7 +5,7 @@ date: 2020-05-29 14:33:08
 image: 'https://m.media-amazon.com/images/I/41we6Q1RavL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWN53LK-es Under Armour Bolsa de Deporte One Size Gr'
 sku: 'B07DWN53LK-es'
 tags: [  ]

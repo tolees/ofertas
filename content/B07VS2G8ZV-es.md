@@ -5,7 +5,7 @@ date: 2020-04-15 10:23:37
 image: 'https://m.media-amazon.com/images/I/51WFo9fOPPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS2G8ZV-es Luces De Jardin Solares Qomolo 30 LED Luz Jardín IP65...'
 sku: 'B07VS2G8ZV-es'
 tags: [  ]

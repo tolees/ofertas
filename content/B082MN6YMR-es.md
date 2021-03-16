@@ -5,7 +5,7 @@ date: 2020-08-28 14:26:04
 image: 'https://m.media-amazon.com/images/I/51MQpSTnwhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MN6YMR-es Bewater™ Corrector de Postura Espalda - Nueva versión 3.0...'
 sku: 'B082MN6YMR-es'
 tags: [  ]

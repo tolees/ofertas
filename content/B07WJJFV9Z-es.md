@@ -5,7 +5,7 @@ date: 2020-10-10 12:35:05
 image: 'https://m.media-amazon.com/images/I/31J40WUKbvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJJFV9Z-es HyperX Fury HX432C16FB3A/8 Memoria DIMM DDR4 8GB 3200MHz...'
 sku: 'B07WJJFV9Z-es'
 tags: [  ]

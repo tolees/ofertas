@@ -5,7 +5,7 @@ date: 2020-06-23 19:32:24
 image: 'https://m.media-amazon.com/images/I/41+zss9KUmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0881V3BKF-es Godya Pendientes de Tejido con Papel higiénico Divertido...'
 sku: 'B0881V3BKF-es'
 tags: [  ]

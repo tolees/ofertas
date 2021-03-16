@@ -5,7 +5,7 @@ date: 2020-07-14 16:59:31
 image: 'https://m.media-amazon.com/images/I/41x-7JMhXCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRCM1BR-es TACKLIFE T8 ARRANCADOR DE Coches de hasta 6500cc Gasolina...'
 sku: 'B07NRCM1BR-es'
 tags: [  ]

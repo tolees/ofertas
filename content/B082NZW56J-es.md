@@ -5,7 +5,7 @@ date: 2020-02-10 20:55:25
 image: 'https://m.media-amazon.com/images/I/514dyQ0MIRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NZW56J-es KAILH Doble Pared con Aislamiento de Botella Agua de Acero...'
 sku: 'B082NZW56J-es'
 tags: [  ]

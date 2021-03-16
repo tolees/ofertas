@@ -5,7 +5,7 @@ date: 2020-04-19 05:42:21
 image: 'https://m.media-amazon.com/images/I/417JMI4S-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW53KKJ-es Skechers Women s STAMINA-CLASSY TRAIL Trainers Black Black...'
 sku: 'B07NW53KKJ-es'
 tags: [  ]

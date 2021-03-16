@@ -5,7 +5,7 @@ date: 2020-02-16 09:02:23
 image: 'https://m.media-amazon.com/images/I/41xFBybpHKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4G57CJ-es LA Active Polainas Antideslizantes Agarre – 3 Pares – Bebé...'
 sku: 'B07S4G57CJ-es'
 tags: [  ]

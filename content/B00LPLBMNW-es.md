@@ -5,7 +5,7 @@ date: 2020-08-27 14:44:03
 image: 'https://m.media-amazon.com/images/I/31G2Iz-PByL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LPLBMNW-es L Oréal Paris Infalible Gel Laca de Uñas Tono 001 Stay Nue'
 sku: 'B00LPLBMNW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-08 18:15:38
 image: 'https://m.media-amazon.com/images/I/41TzJKj-wjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00280MUVC-es Chuckit! 17020 Ultra Ball 2 Pelotas para Perros Compatible...'
 sku: 'B00280MUVC-es'
 tags: [  ]

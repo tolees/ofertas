@@ -5,7 +5,7 @@ date: 2020-04-01 10:41:13
 image: 'https://m.media-amazon.com/images/I/41XR8-EgdVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LA5FCJ2-es CamelBak 1228401003 Bolsa de hidratación Unisex Azul 3 litros'
 sku: 'B01LA5FCJ2-es'
 tags: [  ]

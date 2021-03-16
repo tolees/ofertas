@@ -5,7 +5,7 @@ date: 2020-04-27 16:05:09
 image: 'https://m.media-amazon.com/images/I/411+pnQw0wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003VEILMG-es Bosch Professional Bosch GSR 12V-15 Professional-...'
 sku: 'B003VEILMG-es'
 tags: [  ]

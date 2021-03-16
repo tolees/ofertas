@@ -5,7 +5,7 @@ date: 2020-02-17 17:41:37
 image: 'https://m.media-amazon.com/images/I/41ZiEPYaU3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNMK19J-es adidas Trefoil T-Shirt Hombre Power Red M'
 sku: 'B07JNMK19J-es'
 tags: [  ]

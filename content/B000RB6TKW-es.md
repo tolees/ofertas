@@ -5,7 +5,7 @@ date: 2020-04-16 09:45:13
 image: 'https://m.media-amazon.com/images/I/31S7197H-kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RB6TKW-es reisenthel CU 0004 - Carro de la Compra Color Rojo'
 sku: 'B000RB6TKW-es'
 tags: [  ]

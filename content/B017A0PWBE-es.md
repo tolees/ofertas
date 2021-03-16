@@ -5,7 +5,7 @@ date: 2020-01-25 12:02:26
 image: 'https://m.media-amazon.com/images/I/51s+2o-QS5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017A0PWBE-es Norton Security Deluxe 2019 - Antivirus PC/Mac/iOS/Android...'
 sku: 'B017A0PWBE-es'
 tags: [  ]

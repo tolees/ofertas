@@ -5,7 +5,7 @@ date: 2020-10-07 11:07:34
 image: 'https://m.media-amazon.com/images/I/51Sk3jpItLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HLYQKYX-es Bolsas Reutilizables PEVA 15 Pack KEEHOM Bolsa Congelación...'
 sku: 'B08HLYQKYX-es'
 tags: [  ]

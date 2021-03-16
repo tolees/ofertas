@@ -5,7 +5,7 @@ date: 2020-05-20 12:13:08
 image: 'https://m.media-amazon.com/images/I/31UtmoF+H4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00380XNZS-es Panasonic ER-1411 - Cortapelos profesional Versión Importada'
 sku: 'B00380XNZS-es'
 tags: [  ]

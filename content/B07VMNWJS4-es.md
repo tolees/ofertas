@@ -5,7 +5,7 @@ date: 2020-05-19 12:04:48
 image: 'https://m.media-amazon.com/images/I/41x6KcOu7EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMNWJS4-es Calvin Klein Medium Double WB Bañador Negro PVH Black BEH...'
 sku: 'B07VMNWJS4-es'
 tags: [  ]

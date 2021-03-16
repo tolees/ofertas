@@ -5,7 +5,7 @@ date: 2020-06-18 20:34:55
 image: 'https://m.media-amazon.com/images/I/41W6W0P2T1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HOFPAJE-es Gigandet Reloj Hombre Cuarzo Minimalism Analógico Correa...'
 sku: 'B01HOFPAJE-es'
 tags: [  ]

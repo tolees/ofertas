@@ -5,7 +5,7 @@ date: 2020-02-09 18:57:13
 image: 'https://m.media-amazon.com/images/I/41MDXvUWocL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVLQVWB-es Napapijri Eils SS Polo Azul Clematis Blue VB1 Large para...'
 sku: 'B07MVLQVWB-es'
 tags: [  ]

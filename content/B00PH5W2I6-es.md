@@ -5,7 +5,7 @@ date: 2020-08-18 13:20:21
 image: 'https://m.media-amazon.com/images/I/31sEeZju+DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PH5W2I6-es adidas Originals Superstar Zapatillas Unisex Niños Blanco...'
 sku: 'B00PH5W2I6-es'
 tags: [  ]

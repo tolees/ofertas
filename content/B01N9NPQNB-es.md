@@ -5,7 +5,7 @@ date: 2020-08-05 06:41:49
 image: 'https://m.media-amazon.com/images/I/41mFPD0m2xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9NPQNB-es VULKKANO Blast el Altavoz Bluetooth más potente con 30W...'
 sku: 'B01N9NPQNB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 09:34:17
 image: 'https://m.media-amazon.com/images/I/316zQ0a+oML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYZHTMS-es Tappetino professionale da scrivania in pelle Mega Size...'
 sku: 'B07YYZHTMS-es'
 tags: [  ]

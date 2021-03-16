@@ -5,7 +5,7 @@ date: 2020-06-08 10:25:00
 image: 'https://m.media-amazon.com/images/I/31KQ2B32ffL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V29NSG6-es Chinchón Seco - Anís - 1000 ml'
 sku: 'B07V29NSG6-es'
 tags: [  ]

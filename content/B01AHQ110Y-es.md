@@ -5,7 +5,7 @@ date: 2020-07-17 02:19:48
 image: 'https://m.media-amazon.com/images/I/31oVnIJUtfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AHQ110Y-es TP-Link T1600G-28PS TL-SG2424P Switch Smart Gigabit PoE+...'
 sku: 'B01AHQ110Y-es'
 tags: [  ]

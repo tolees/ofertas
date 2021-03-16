@@ -5,7 +5,7 @@ date: 2020-04-18 01:24:36
 image: 'https://m.media-amazon.com/images/I/51iurbwwGjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004D3UPB4-es Creation Station - Lote de limpiapipas tamaño Jumbo...'
 sku: 'B004D3UPB4-es'
 tags: [  ]

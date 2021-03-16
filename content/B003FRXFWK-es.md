@@ -5,7 +5,7 @@ date: 2020-02-22 01:52:32
 image: 'https://m.media-amazon.com/images/I/51-bRn9vH1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003FRXFWK-es Logitech® Speakers Z130 - Black - Analog - PLUGC - EMEA - EU'
 sku: 'B003FRXFWK-es'
 tags: [  ]

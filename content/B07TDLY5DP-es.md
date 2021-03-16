@@ -5,7 +5,7 @@ date: 2020-01-25 18:08:28
 image: 'https://m.media-amazon.com/images/I/41in3emIGNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDLY5DP-es Haofy Bombillas LED 30W Bombillas de Luz Cuadradas...'
 sku: 'B07TDLY5DP-es'
 tags: [  ]

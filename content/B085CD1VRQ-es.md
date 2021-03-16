@@ -5,7 +5,7 @@ date: 2020-06-01 08:05:38
 image: 'https://m.media-amazon.com/images/I/412DRFsLcKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CD1VRQ-es FMPC Carcasa con Cuerda Samsung Galaxy A70 Cristal TPU...'
 sku: 'B085CD1VRQ-es'
 tags: [  ]

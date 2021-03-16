@@ -5,7 +5,7 @@ date: 2020-09-15 18:56:41
 image: 'https://m.media-amazon.com/images/I/41yQQjsDQZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNYH42M-es Frozen 2 Classic Disfraz Anna Travel M Multicolor Rubie S...'
 sku: 'B07SNYH42M-es'
 tags: [  ]

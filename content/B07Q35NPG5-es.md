@@ -5,7 +5,7 @@ date: 2020-06-02 07:17:04
 image: 'https://m.media-amazon.com/images/I/31yWh5kkT1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q35NPG5-es MicarBa cámara de Seguridad HD visión Nocturna 170 Grados...'
 sku: 'B07Q35NPG5-es'
 tags: [  ]

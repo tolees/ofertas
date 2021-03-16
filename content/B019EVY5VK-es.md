@@ -5,7 +5,7 @@ date: 2020-05-01 20:49:00
 image: 'https://m.media-amazon.com/images/I/41SuIYblPOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019EVY5VK-es Mobicool G30 AC/DC - Nevera termoeléctrica portátil...'
 sku: 'B019EVY5VK-es'
 tags: [  ]

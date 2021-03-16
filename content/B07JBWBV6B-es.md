@@ -5,7 +5,7 @@ date: 2020-07-09 22:33:40
 image: 'https://m.media-amazon.com/images/I/31EVLYFpcjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBWBV6B-es Natural Honey Loción Corporal Extra Hidratante 700ml'
 sku: 'B07JBWBV6B-es'
 tags: [  ]

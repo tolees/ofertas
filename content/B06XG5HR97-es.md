@@ -5,7 +5,7 @@ date: 2020-10-06 12:55:27
 image: 'https://m.media-amazon.com/images/I/41Y61kCCw5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG5HR97-es Amazfit Pace Black Pulsera Inteligente con Ritmo Cardíaco...'
 sku: 'B06XG5HR97-es'
 tags: [  ]

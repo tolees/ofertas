@@ -5,7 +5,7 @@ date: 2020-08-04 08:46:02
 image: 'https://m.media-amazon.com/images/I/21wfrImMX4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQCBH3F-es Fujitsu Scansnap IX 1500 Escáner de documentos'
 sku: 'B07HQCBH3F-es'
 tags: [  ]

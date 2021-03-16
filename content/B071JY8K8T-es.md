@@ -5,7 +5,7 @@ date: 2020-05-29 10:32:20
 image: 'https://m.media-amazon.com/images/I/413olalKlWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JY8K8T-es NEW C 2 Unidades Protector de Pantalla para Huawei P8 Lite...'
 sku: 'B071JY8K8T-es'
 tags: [  ]

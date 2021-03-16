@@ -5,7 +5,7 @@ date: 2020-02-05 00:08:09
 image: 'https://m.media-amazon.com/images/I/4113dI1iY0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2B33KT-es JACK & JONES Jjebasic Knit V-Neck Noos suéter Azul Navy...'
 sku: 'B07C2B33KT-es'
 tags: [  ]

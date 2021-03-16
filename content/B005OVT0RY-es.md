@@ -5,7 +5,7 @@ date: 2020-01-08 13:55:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411blffG%2BuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005OVT0RY-es BERING Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B005OVT0RY-es'
 tags: [  ]

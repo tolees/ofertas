@@ -5,7 +5,7 @@ date: 2020-04-08 06:00:39
 image: 'https://m.media-amazon.com/images/I/413WbpapWkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNRHTCW-es Igrome Utensilios Cocina Camping 13PCS Camping Kit de...'
 sku: 'B07SNRHTCW-es'
 tags: [  ]

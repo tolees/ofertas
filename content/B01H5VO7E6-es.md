@@ -5,7 +5,7 @@ date: 2020-10-08 18:11:38
 image: 'https://m.media-amazon.com/images/I/31OP-HiVdVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H5VO7E6-es L Óreal Paris Dermo Expertise - Age Perfect loción serum...'
 sku: 'B01H5VO7E6-es'
 tags: [  ]

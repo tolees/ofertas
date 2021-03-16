@@ -5,7 +5,7 @@ date: 2020-08-27 06:57:34
 image: 'https://m.media-amazon.com/images/I/41Ma3axfOgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TFB0YX8-es Optimum Nutrition Gold Standard Pre Workout en Polvo...'
 sku: 'B00TFB0YX8-es'
 tags: [  ]

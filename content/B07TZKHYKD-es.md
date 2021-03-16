@@ -5,7 +5,7 @@ date: 2020-03-12 13:46:10
 image: 'https://m.media-amazon.com/images/I/51zOTSWCXbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZKHYKD-es QHOHQ Protector de Pantalla para Xiaomi Mi A3 [3 Unidades]...'
 sku: 'B07TZKHYKD-es'
 tags: [  ]

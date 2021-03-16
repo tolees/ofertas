@@ -5,7 +5,7 @@ date: 2020-03-30 18:44:27
 image: 'https://m.media-amazon.com/images/I/41NNF+pPKIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0784BSCVR-es Aigostar MR. Black 32JVO - Maquinilla para cortar el pelo...'
 sku: 'B0784BSCVR-es'
 tags: [  ]

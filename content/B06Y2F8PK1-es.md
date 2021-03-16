@@ -5,7 +5,7 @@ date: 2020-05-16 17:09:12
 image: 'https://m.media-amazon.com/images/I/41uqaNhlCXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2F8PK1-es Kelme - Zapatillas Precision'
 sku: 'B06Y2F8PK1-es'
 tags: [  ]

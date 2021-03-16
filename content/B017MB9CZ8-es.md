@@ -5,7 +5,7 @@ date: 2020-07-27 13:03:07
 image: 'https://m.media-amazon.com/images/I/41CqqGP92aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017MB9CZ8-es Lonsdale - Pantalones de boxeo para hombre gris XXXL'
 sku: 'B017MB9CZ8-es'
 tags: [  ]

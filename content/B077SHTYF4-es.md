@@ -5,7 +5,7 @@ date: 2020-04-16 18:23:44
 image: 'https://m.media-amazon.com/images/I/51gVwn4rveL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SHTYF4-es Exerz Cajón archivador de Oficina/Clasificador de Papel...'
 sku: 'B077SHTYF4-es'
 tags: [  ]

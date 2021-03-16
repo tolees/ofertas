@@ -5,7 +5,7 @@ date: 2020-01-27 23:52:53
 image: 'https://m.media-amazon.com/images/I/419y2jAii+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1P0OQ4-es B+W 1089607 - Soporte para filtros 100 x 100'
 sku: 'B01N1P0OQ4-es'
 tags: [  ]

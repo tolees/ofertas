@@ -5,7 +5,7 @@ date: 2020-06-01 11:47:49
 image: 'https://m.media-amazon.com/images/I/41WNi9GKblL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PVZZYM-es Skechers Women s Ultra Flex-First Take Slip On Trainers...'
 sku: 'B076PVZZYM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-17 10:31:05
 image: 'https://m.media-amazon.com/images/I/31eBSZHpohL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087R87JYL-es DIGITNOW! USB 3.0 HD Grabadora Video Live Gamer Portable...'
 sku: 'B087R87JYL-es'
 tags: [  ]

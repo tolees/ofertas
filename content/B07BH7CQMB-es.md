@@ -5,7 +5,7 @@ date: 2020-10-01 05:26:06
 image: 'https://m.media-amazon.com/images/I/41B3P+RqUZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BH7CQMB-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07BH7CQMB-es'
 tags: [  ]

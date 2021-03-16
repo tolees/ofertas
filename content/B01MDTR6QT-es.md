@@ -5,7 +5,7 @@ date: 2020-07-21 06:30:34
 image: 'https://m.media-amazon.com/images/I/41krBOSMURL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDTR6QT-es G-STAR RAW Duko Belt Cinturón Marrón Dk Brown/black Metal...'
 sku: 'B01MDTR6QT-es'
 tags: [  ]

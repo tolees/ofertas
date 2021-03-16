@@ -5,7 +5,7 @@ date: 2020-03-31 07:58:51
 image: 'https://m.media-amazon.com/images/I/41oddKYVORL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0861YXPCM-es KOKO Zhu Plata coaxial Adaptador de Conector de Cable...'
 sku: 'B0861YXPCM-es'
 tags: [  ]

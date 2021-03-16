@@ -5,7 +5,7 @@ date: 2020-09-22 10:03:54
 image: 'https://m.media-amazon.com/images/I/31Eq5Dwmg4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JD1MCL5-es Nihlsfen Ratón USB para Juegos con Cable Z-7600...'
 sku: 'B08JD1MCL5-es'
 tags: [  ]

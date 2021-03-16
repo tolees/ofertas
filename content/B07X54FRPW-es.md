@@ -5,7 +5,7 @@ date: 2020-07-27 07:31:18
 image: 'https://m.media-amazon.com/images/I/51j-ZbibmdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X54FRPW-es Lomogo Funda Huawei Y6 2018 Cartera Funda de Cuero Ranuras...'
 sku: 'B07X54FRPW-es'
 tags: [  ]

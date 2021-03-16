@@ -5,7 +5,7 @@ date: 2020-09-25 12:04:08
 image: 'https://m.media-amazon.com/images/I/51sn-DwlqwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NSL99F-es TomTom VIA 53 GPS Navegación con pantalla táctil de 5...'
 sku: 'B071NSL99F-es'
 tags: [  ]

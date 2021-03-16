@@ -5,7 +5,7 @@ date: 2020-05-07 06:59:57
 image: 'https://m.media-amazon.com/images/I/41Wxbz8WT8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WWB1HQ-es Nike Internationalist Women s Shoe Zapatillas para Mujer...'
 sku: 'B078WWB1HQ-es'
 tags: [  ]

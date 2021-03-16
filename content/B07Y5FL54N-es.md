@@ -5,7 +5,7 @@ date: 2020-04-14 12:31:44
 image: 'https://m.media-amazon.com/images/I/51ayWgT1hgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5FL54N-es Aprettysunny Tacón Alto Zapato'
 sku: 'B07Y5FL54N-es'
 tags: [  ]

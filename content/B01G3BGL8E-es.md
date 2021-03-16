@@ -5,7 +5,7 @@ date: 2020-05-31 17:23:06
 image: 'https://m.media-amazon.com/images/I/41iMCktRqgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G3BGL8E-es MAKITA DEAADP06 - Adaptador para usb 10.8v'
 sku: 'B01G3BGL8E-es'
 tags: [  ]

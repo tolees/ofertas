@@ -5,7 +5,7 @@ date: 2020-05-03 00:54:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41d8%2Bwhao-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9K47KG-es Reebok Club C 85 Zapatillas Deportivas para Interior...'
 sku: 'B01N9K47KG-es'
 tags: [  ]

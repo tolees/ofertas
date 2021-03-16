@@ -5,7 +5,7 @@ date: 2020-08-25 06:32:39
 image: 'https://m.media-amazon.com/images/I/31wQKfwq-kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9ZNMF6-es Calvin Klein Essential Tipping Slim Polo Negro CK...'
 sku: 'B07V9ZNMF6-es'
 tags: [  ]

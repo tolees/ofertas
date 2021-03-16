@@ -5,7 +5,7 @@ date: 2020-02-06 14:32:38
 image: 'https://m.media-amazon.com/images/I/51yicKKLl6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCY2N62-es Ringke Protector de Pantalla Motorola Moto G6 2018...'
 sku: 'B07DCY2N62-es'
 tags: [  ]

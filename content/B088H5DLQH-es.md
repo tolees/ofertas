@@ -5,7 +5,7 @@ date: 2020-06-15 01:33:45
 image: 'https://m.media-amazon.com/images/I/31s8lwWk8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088H5DLQH-es ANWIKE Cámara Web con micrófono Dual cámara Web Full HD...'
 sku: 'B088H5DLQH-es'
 tags: [  ]

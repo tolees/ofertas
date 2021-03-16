@@ -5,7 +5,7 @@ date: 2020-03-30 05:05:39
 image: 'https://m.media-amazon.com/images/I/51H8vfqBl4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XC7CM99-es Giochi Preziosi - Camión de policía con 2 Personajes y...'
 sku: 'B07XC7CM99-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 05:34:47
 image: 'https://m.media-amazon.com/images/I/31HiRSBSJDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VT9LTML-es Tommy Hilfiger Organic Cotton Silk V Neck Pantalones Azul...'
 sku: 'B07VT9LTML-es'
 tags: [  ]

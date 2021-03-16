@@ -5,7 +5,7 @@ date: 2020-09-09 09:24:30
 image: 'https://m.media-amazon.com/images/I/51x8jlgIHHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FB7Q4UC-es Guess Reloj de Pulsera W0289L1'
 sku: 'B00FB7Q4UC-es'
 tags: [  ]

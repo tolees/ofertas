@@ -5,7 +5,7 @@ date: 2020-07-22 21:55:42
 image: 'https://m.media-amazon.com/images/I/41DrwvO521L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQTW714-es Superdry Classic Superstate S/s Polo Azul Eclipse Navy 98t...'
 sku: 'B07TQTW714-es'
 tags: [  ]

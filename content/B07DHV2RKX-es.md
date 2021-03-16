@@ -5,7 +5,7 @@ date: 2020-01-01 12:33:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41i1I%2Bv8shL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHV2RKX-es AmazonBasics - Juego de ropa de cama con funda de edredón...'
 sku: 'B07DHV2RKX-es'
 tags: [  ]

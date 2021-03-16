@@ -5,7 +5,7 @@ date: 2020-05-28 14:11:11
 image: 'https://m.media-amazon.com/images/I/41DXT8hnnDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3BTJ24-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B07N3BTJ24-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 09:47:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUuMu23tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9KWH1B-es Adidas Yatra Zapatillas de Deporte para Mujer Multicolor...'
 sku: 'B07L9KWH1B-es'
 tags: [  ]

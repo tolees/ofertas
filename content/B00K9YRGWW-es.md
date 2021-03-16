@@ -5,7 +5,7 @@ date: 2020-09-18 05:58:06
 image: 'https://m.media-amazon.com/images/I/41wFPAu3rbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K9YRGWW-es Original Album Classics. 5cd Slipcase'
 sku: 'B00K9YRGWW-es'
 tags: [  ]

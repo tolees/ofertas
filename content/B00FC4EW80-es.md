@@ -5,7 +5,7 @@ date: 2020-02-13 18:17:12
 image: 'https://m.media-amazon.com/images/I/415pGCe2izL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FC4EW80-es Contour XT Glucómetro'
 sku: 'B00FC4EW80-es'
 tags: [  ]

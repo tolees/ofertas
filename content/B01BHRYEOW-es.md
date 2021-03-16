@@ -5,7 +5,7 @@ date: 2020-08-12 13:08:00
 image: 'https://m.media-amazon.com/images/I/51PEf9gJddL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BHRYEOW-es Rimmel London Magnifeyes Mono Sombra de Ojos Tono 014...'
 sku: 'B01BHRYEOW-es'
 tags: [  ]

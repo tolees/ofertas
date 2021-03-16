@@ -5,7 +5,7 @@ date: 2020-07-31 21:37:46
 image: 'https://m.media-amazon.com/images/I/51qw48F3zKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XX6P7C4-es WESCO Telémetro Láser 40m Telémetro con Rango Distancia de...'
 sku: 'B07XX6P7C4-es'
 tags: [  ]

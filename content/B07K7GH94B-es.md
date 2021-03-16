@@ -5,7 +5,7 @@ date: 2020-05-27 18:54:11
 image: 'https://m.media-amazon.com/images/I/317AWX30ICL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7GH94B-es adidas Tiro19 WOV PNTY Pantalones de Deporte Unisex niños...'
 sku: 'B07K7GH94B-es'
 tags: [  ]

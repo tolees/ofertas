@@ -5,7 +5,7 @@ date: 2020-05-24 15:04:46
 image: 'https://m.media-amazon.com/images/I/41ncLhveXoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015SGE37G-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene...'
 sku: 'B015SGE37G-es'
 tags: [  ]

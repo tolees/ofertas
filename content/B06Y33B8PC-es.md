@@ -5,7 +5,7 @@ date: 2020-08-24 19:39:05
 image: 'https://m.media-amazon.com/images/I/51KczhFExmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y33B8PC-es Bizak- Bunchbot Actividad Creativa Multicolor Miscelanea...'
 sku: 'B06Y33B8PC-es'
 tags: [  ]

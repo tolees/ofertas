@@ -5,7 +5,7 @@ date: 2020-01-20 08:08:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41F3t1HcLkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D86HPJY-es New Balance Fresh Foam Cruz v2 Sock Zapatillas para Hombre...'
 sku: 'B07D86HPJY-es'
 tags: [  ]

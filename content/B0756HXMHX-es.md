@@ -5,7 +5,7 @@ date: 2020-01-31 09:42:52
 image: 'https://m.media-amazon.com/images/I/41PQTY4KL7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756HXMHX-es Tiny Love 3 in 1 Close to Me Bouncer - Balancín'
 sku: 'B0756HXMHX-es'
 tags: [  ]

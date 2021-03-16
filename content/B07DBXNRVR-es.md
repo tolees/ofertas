@@ -5,7 +5,7 @@ date: 2020-01-23 02:59:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31PLEM5wL5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBXNRVR-es PUMA Vikky v2 Ribbon Core Zapatillas para Mujer Black...'
 sku: 'B07DBXNRVR-es'
 tags: [  ]

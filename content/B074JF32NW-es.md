@@ -5,7 +5,7 @@ date: 2020-08-29 17:27:31
 image: 'https://m.media-amazon.com/images/I/41vykCmTsiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074JF32NW-es Air Wick Essential Mist - Aparato y recambio de...'
 sku: 'B074JF32NW-es'
 tags: [  ]

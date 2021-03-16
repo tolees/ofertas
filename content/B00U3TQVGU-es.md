@@ -5,7 +5,7 @@ date: 2020-07-07 16:22:19
 image: 'https://m.media-amazon.com/images/I/41Qeq2QlZ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U3TQVGU-es Lowepro Torba ADVENTURA SH 140 II Black'
 sku: 'B00U3TQVGU-es'
 tags: [  ]

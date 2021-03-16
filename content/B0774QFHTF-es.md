@@ -5,7 +5,7 @@ date: 2020-09-01 10:58:35
 image: 'https://m.media-amazon.com/images/I/41mmUe31M-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774QFHTF-es Pikolin Home - Protector de colchón tejido rizo algodón...'
 sku: 'B0774QFHTF-es'
 tags: [  ]

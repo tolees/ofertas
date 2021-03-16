@@ -5,7 +5,7 @@ date: 2020-05-29 11:02:42
 image: 'https://m.media-amazon.com/images/I/41Kg5r8Lh2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D5NPF2-es Suhctup Funda Compatible para Xiaomi Mi 6 Carcasa...'
 sku: 'B088D5NPF2-es'
 tags: [  ]

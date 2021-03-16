@@ -5,7 +5,7 @@ date: 2020-07-24 09:11:54
 image: 'https://m.media-amazon.com/images/I/51abKvngsOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009NBP4M6-es BIC Marking marcadores permanentes punta media Cónica –...'
 sku: 'B009NBP4M6-es'
 tags: [  ]

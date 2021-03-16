@@ -5,7 +5,7 @@ date: 2020-04-28 09:45:39
 image: 'https://m.media-amazon.com/images/I/41hWKGNksLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KWKP63-es Aeeque - Funda de cuero para iPhone 6 6S Plus 5S 5 Samsung...'
 sku: 'B071KWKP63-es'
 tags: [  ]

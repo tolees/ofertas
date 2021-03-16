@@ -5,7 +5,7 @@ date: 2020-02-29 20:07:33
 image: 'https://m.media-amazon.com/images/I/41mNENl8t3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076FCRHMS-es Funko-Disney: Aladdin: Abu Pop Vinilo Multicolor 9 cm 24923'
 sku: 'B076FCRHMS-es'
 tags: [  ]

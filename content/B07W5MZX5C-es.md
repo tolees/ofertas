@@ -5,7 +5,7 @@ date: 2020-08-05 18:25:57
 image: 'https://m.media-amazon.com/images/I/31Df-9jYjVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5MZX5C-es Tommy Hilfiger Tommy Tipped Slim Polo Azul Desert Sky XX-...'
 sku: 'B07W5MZX5C-es'
 tags: [  ]

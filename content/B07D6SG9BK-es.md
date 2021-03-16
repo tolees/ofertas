@@ -5,7 +5,7 @@ date: 2020-05-24 10:02:28
 image: 'https://m.media-amazon.com/images/I/31heJ3RI30L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6SG9BK-es non-brand 10 Pedazos de Protector de Borde de Seguridad...'
 sku: 'B07D6SG9BK-es'
 tags: [  ]

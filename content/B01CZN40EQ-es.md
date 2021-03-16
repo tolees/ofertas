@@ -5,7 +5,7 @@ date: 2020-05-26 14:22:30
 image: 'https://m.media-amazon.com/images/I/21t8xdI8jkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CZN40EQ-es Rochas Eau De Rochas Body Lotion 500 ml'
 sku: 'B01CZN40EQ-es'
 tags: [  ]

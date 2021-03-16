@@ -5,7 +5,7 @@ date: 2020-04-14 16:34:26
 image: 'https://m.media-amazon.com/images/I/31I3apEX8FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZLZWGKY-es NMDD Ornament Modernen Minimalistischen Mode Mädchen Band...'
 sku: 'B07ZLZWGKY-es'
 tags: [  ]

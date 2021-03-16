@@ -5,7 +5,7 @@ date: 2020-03-10 18:50:19
 image: 'https://m.media-amazon.com/images/I/31XfllhhcTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005B2ZTW6-es Caterpillar Haycox Zapatillas para Hombre Marrón Beaned 0...'
 sku: 'B005B2ZTW6-es'
 tags: [  ]

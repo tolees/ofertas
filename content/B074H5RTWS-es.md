@@ -5,7 +5,7 @@ date: 2020-03-29 10:02:14
 image: 'https://m.media-amazon.com/images/I/41BV+bJfcLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074H5RTWS-es Nike Y Nk Gmsk-GFX Sports Bag Unisex niños Black/Black/...'
 sku: 'B074H5RTWS-es'
 tags: [  ]

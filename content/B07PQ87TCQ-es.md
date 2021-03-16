@@ -5,7 +5,7 @@ date: 2020-05-07 17:20:20
 image: 'https://m.media-amazon.com/images/I/41AKz5+P2FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQ87TCQ-es Kipling - Multiple Bolsos bandolera Mujer Verde Seagrass...'
 sku: 'B07PQ87TCQ-es'
 tags: [  ]

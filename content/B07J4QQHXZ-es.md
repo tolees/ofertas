@@ -5,7 +5,7 @@ date: 2020-07-15 07:40:47
 image: 'https://m.media-amazon.com/images/I/51WA1JtNwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J4QQHXZ-es Funko 31621 VYNL 10 16 cm 2-Pack: Star Wars: Darth Maul &...'
 sku: 'B07J4QQHXZ-es'
 tags: [  ]

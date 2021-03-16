@@ -5,7 +5,7 @@ date: 2020-02-21 01:50:15
 image: 'https://m.media-amazon.com/images/I/41+ilCLW5LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D1JQ2YY-es Croci C5055478 Guinz; flexi Giant Prof. 10m L Neon'
 sku: 'B01D1JQ2YY-es'
 tags: [  ]

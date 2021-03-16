@@ -5,7 +5,7 @@ date: 2020-01-06 23:00:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318S8tNRK2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NIVEQ6M-es Mustard M 16028 - Soporte magnético para clips con diseño...'
 sku: 'B00NIVEQ6M-es'
 tags: [  ]

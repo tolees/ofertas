@@ -5,7 +5,7 @@ date: 2020-05-26 07:41:13
 image: 'https://m.media-amazon.com/images/I/41PwhTVOMHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872PMYCK-es Funda Transparente Compatible para Huawei P Smart 2019...'
 sku: 'B0872PMYCK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 11:33:31
 image: 'https://m.media-amazon.com/images/I/41e5rz43yGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BWVD02K-es Pasta de dientes blanqueadora Colgate Sensation dientes...'
 sku: 'B01BWVD02K-es'
 tags: [  ]

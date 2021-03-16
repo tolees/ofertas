@@ -5,7 +5,7 @@ date: 2020-01-08 11:43:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nGAmi6NNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRLLYBP-es Berglander - Juego de cubiertos 30 piezas plateado negro...'
 sku: 'B07BRLLYBP-es'
 tags: [  ]

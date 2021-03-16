@@ -5,7 +5,7 @@ date: 2020-07-06 08:28:17
 image: 'https://m.media-amazon.com/images/I/41WnCLLRemL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0089KRZOM-es Dow s Fine Ruby Porto - 3 botellas de 75 cl Total: 2250 ml'
 sku: 'B0089KRZOM-es'
 tags: [  ]

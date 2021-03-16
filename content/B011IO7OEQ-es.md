@@ -5,7 +5,7 @@ date: 2020-05-14 04:25:30
 image: 'https://m.media-amazon.com/images/I/51oUfLasE1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011IO7OEQ-es Tommy Hilfiger Hombre Reloj de Pulsera analógico Cuarzo...'
 sku: 'B011IO7OEQ-es'
 tags: [  ]

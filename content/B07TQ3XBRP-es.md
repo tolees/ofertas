@@ -5,7 +5,7 @@ date: 2020-09-07 21:32:04
 image: 'https://m.media-amazon.com/images/I/31tevG5+JTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ3XBRP-es Clarks Hamble Loafer Mocasines Negro Black Leather Black...'
 sku: 'B07TQ3XBRP-es'
 tags: [  ]

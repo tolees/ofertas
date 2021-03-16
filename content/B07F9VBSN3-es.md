@@ -5,7 +5,7 @@ date: 2020-06-14 20:45:34
 image: 'https://m.media-amazon.com/images/I/51YaDQDLzZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9VBSN3-es E-MANIS Bolsa Almuerzo Bolsa Térmica con Compartimentos...'
 sku: 'B07F9VBSN3-es'
 tags: [  ]

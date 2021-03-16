@@ -5,7 +5,7 @@ date: 2020-06-14 09:42:29
 image: 'https://m.media-amazon.com/images/I/41ygoyyOejL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FWRFQK4-es Sternitz Botella de Agua Hydra Acero Inoxidable con...'
 sku: 'B01FWRFQK4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 08:20:32
 image: 'https://m.media-amazon.com/images/I/51A3kRZ0SLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK6S5XC-es Aibesser - Juego de pistones de pintura al fuego para...'
 sku: 'B07RK6S5XC-es'
 tags: [  ]

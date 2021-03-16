@@ -5,7 +5,7 @@ date: 2020-10-04 06:01:39
 image: 'https://m.media-amazon.com/images/I/41mYVtZKXSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MDTKCW1-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
 sku: 'B01MDTKCW1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-04 20:30:23
 image: 'https://m.media-amazon.com/images/I/31P64QZ-4jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPXNGV6-es Lacoste 739CMA00111B4 Zapatillas para Hombre Negro 43 EU'
 sku: 'B07SPXNGV6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-24 06:52:57
 image: 'https://m.media-amazon.com/images/I/31--46vyZuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00008XVJD-es WMF Profi Plus Tenedor para Carne Acero Inoxidable Pulido'
 sku: 'B00008XVJD-es'
 tags: [  ]

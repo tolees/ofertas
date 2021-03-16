@@ -5,7 +5,7 @@ date: 2020-03-04 01:00:48
 image: 'https://m.media-amazon.com/images/I/41UJADXIVyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQY8GZB-es 2 Piezas de Altavoces Accesorios para Coche Automóvil Mini...'
 sku: 'B07BQY8GZB-es'
 tags: [  ]

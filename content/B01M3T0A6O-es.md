@@ -5,7 +5,7 @@ date: 2020-05-24 16:03:30
 image: 'https://m.media-amazon.com/images/I/31VvygAEv1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3T0A6O-es Penisso Delay • Retardante sexual • Sex Spray 50 ml •...'
 sku: 'B01M3T0A6O-es'
 tags: [  ]

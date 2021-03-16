@@ -5,7 +5,7 @@ date: 2020-01-07 22:01:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DzuO0pQNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC126RV-es Clarks Fairford Run Zapatillas para Hombre Negro Black...'
 sku: 'B07MC126RV-es'
 tags: [  ]

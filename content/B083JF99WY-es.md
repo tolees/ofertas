@@ -5,7 +5,7 @@ date: 2020-08-15 14:43:58
 image: 'https://m.media-amazon.com/images/I/41brm499eSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083JF99WY-es Pistola de Masaje Muscular ACTION Pistola Masajeadora...'
 sku: 'B083JF99WY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-15 10:03:25
 image: 'https://m.media-amazon.com/images/I/41hFDNo2gcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGPNTF5-es Helly Hansen W Rigging Coat Shell Jacket Mujer para Black XL'
 sku: 'B06XGPNTF5-es'
 tags: [  ]

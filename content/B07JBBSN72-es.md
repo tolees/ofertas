@@ -5,7 +5,7 @@ date: 2020-04-15 00:32:45
 image: 'https://m.media-amazon.com/images/I/41lP0fVtYNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBBSN72-es E-Reader Funda para Bq Cervantes 4 Funda Soporte Cuero...'
 sku: 'B07JBBSN72-es'
 tags: [  ]

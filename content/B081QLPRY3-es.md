@@ -5,7 +5,7 @@ date: 2020-07-10 21:39:36
 image: 'https://m.media-amazon.com/images/I/31R8i71CcgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QLPRY3-es adidas Trefoil Tgh Mallas Mujer Rojo Lush Red/White 34'
 sku: 'B081QLPRY3-es'
 tags: [  ]

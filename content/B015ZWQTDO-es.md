@@ -5,7 +5,7 @@ date: 2020-04-15 11:04:01
 image: 'https://m.media-amazon.com/images/I/41StTfd0eRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015ZWQTDO-es Inglesina Twin Swift - Sillita de paseo doble unisex color...'
 sku: 'B015ZWQTDO-es'
 tags: [  ]

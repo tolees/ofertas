@@ -5,7 +5,7 @@ date: 2020-03-16 16:09:20
 image: 'https://m.media-amazon.com/images/I/21uM+FjhKqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NIYJKL0-es GoPro AHBBP-401 - Cargador de batería Dual y batería para...'
 sku: 'B00NIYJKL0-es'
 tags: [  ]

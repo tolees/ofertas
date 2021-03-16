@@ -5,7 +5,7 @@ date: 2020-08-17 03:58:30
 image: 'https://m.media-amazon.com/images/I/51VGufjLkIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082V8V6RX-es Rucae - Juego de tornillos para ordenador portátil 500...'
 sku: 'B082V8V6RX-es'
 tags: [  ]

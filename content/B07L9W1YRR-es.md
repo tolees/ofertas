@@ -5,7 +5,7 @@ date: 2020-01-23 17:19:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31h7k5gg7vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9W1YRR-es Lacoste Courtline 319 1 Us Cfa Zapatillas para Mujer...'
 sku: 'B07L9W1YRR-es'
 tags: [  ]

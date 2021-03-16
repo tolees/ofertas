@@ -5,7 +5,7 @@ date: 2020-05-28 19:02:53
 image: 'https://m.media-amazon.com/images/I/51suNCZkrzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LT1SG7-es qingqingR Estuche dispensador automático de bastoncillos...'
 sku: 'B088LT1SG7-es'
 tags: [  ]

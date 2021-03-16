@@ -5,7 +5,7 @@ date: 2020-04-17 00:39:33
 image: 'https://m.media-amazon.com/images/I/41UvRQjfcJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08443VXLJ-es Huawei Matebook D 15 - Ordenador Portátil de 15. 6" FullHD...'
 sku: 'B08443VXLJ-es'
 tags: [  ]

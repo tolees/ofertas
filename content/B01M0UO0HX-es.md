@@ -5,7 +5,7 @@ date: 2020-04-01 13:13:06
 image: 'https://m.media-amazon.com/images/I/41ANRHk4SjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0UO0HX-es Sigma F1.4 DG AF HSM Art - Objetivo para cámara para...'
 sku: 'B01M0UO0HX-es'
 tags: [  ]

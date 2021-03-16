@@ -5,7 +5,7 @@ date: 2020-05-25 13:52:41
 image: 'https://m.media-amazon.com/images/I/41Ffzsi5taL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HSEV8B6-es Leifheit Pegasus 200 Solid Comfort - Tendedero con alas de...'
 sku: 'B00HSEV8B6-es'
 tags: [  ]

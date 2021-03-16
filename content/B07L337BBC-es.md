@@ -5,7 +5,7 @@ date: 2020-09-13 06:12:55
 image: 'https://m.media-amazon.com/images/I/41rjwjyKiJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L337BBC-es Asics Patriot 11 Zapatillas de Running para Hombre Negro...'
 sku: 'B07L337BBC-es'
 tags: [  ]

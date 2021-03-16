@@ -5,7 +5,7 @@ date: 2020-04-11 12:06:24
 image: 'https://m.media-amazon.com/images/I/41Ip+3yobgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGHV3SD-es Pepe Jeans Lena Pl800863 Bañador Multi Bleu 0aa W32 Talla...'
 sku: 'B07JGHV3SD-es'
 tags: [  ]

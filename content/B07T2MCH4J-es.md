@@ -5,7 +5,7 @@ date: 2020-09-24 16:02:10
 image: 'https://m.media-amazon.com/images/I/21e6CclfCHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2MCH4J-es Softee Equipment Pica Madera - 150CM - Color Madera'
 sku: 'B07T2MCH4J-es'
 tags: [  ]

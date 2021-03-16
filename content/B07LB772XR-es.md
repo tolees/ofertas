@@ -5,7 +5,7 @@ date: 2020-09-28 18:06:58
 image: 'https://m.media-amazon.com/images/I/41lrb+g4u8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LB772XR-es Bowflex PR1000 Gimnasio casero Adultos Unisex Rojo Negro...'
 sku: 'B07LB772XR-es'
 tags: [  ]

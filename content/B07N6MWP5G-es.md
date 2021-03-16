@@ -5,7 +5,7 @@ date: 2020-01-20 12:08:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41L2soAr2aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6MWP5G-es DUNLOP Sting 360 2.0 2019 Adultos Unisex Multicolor Talla...'
 sku: 'B07N6MWP5G-es'
 tags: [  ]

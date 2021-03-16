@@ -5,7 +5,7 @@ date: 2020-05-11 16:57:20
 image: 'https://m.media-amazon.com/images/I/41WpzhnrUbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YNPIKDW-es Adidas ZX Flux J Zapatillas Unisex Niños Blanco Footwear...'
 sku: 'B00YNPIKDW-es'
 tags: [  ]

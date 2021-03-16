@@ -5,7 +5,7 @@ date: 2020-02-16 10:30:07
 image: 'https://m.media-amazon.com/images/I/41GcpuTeRiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KSFXB12-es ABC PARTS Princesas Disney PRIN104 Alzador'
 sku: 'B00KSFXB12-es'
 tags: [  ]

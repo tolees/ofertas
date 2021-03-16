@@ -5,7 +5,7 @@ date: 2020-04-02 21:43:48
 image: 'https://m.media-amazon.com/images/I/31BvBWEKesL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSCXXCF-es Bourjois Velvet The Lipstick Barra De Labios Tono 021...'
 sku: 'B07GSCXXCF-es'
 tags: [  ]

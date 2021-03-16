@@ -5,7 +5,7 @@ date: 2020-05-28 18:32:37
 image: 'https://m.media-amazon.com/images/I/310zA1+xaXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V38C2CJ-es Bullpadel Hack Knit 2019 Gris Num Zapatillas Deportivas...'
 sku: 'B07V38C2CJ-es'
 tags: [  ]

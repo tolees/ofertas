@@ -5,7 +5,7 @@ date: 2020-04-24 13:02:16
 image: 'https://m.media-amazon.com/images/I/51E0wu3n20L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074V4CS4Z-es Lebze Muselina Manta Bebé -"Diente de Ballena" Bambú...'
 sku: 'B074V4CS4Z-es'
 tags: [  ]

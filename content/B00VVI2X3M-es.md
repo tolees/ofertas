@@ -5,7 +5,7 @@ date: 2020-03-22 10:04:05
 image: 'https://m.media-amazon.com/images/I/51BiUij3VpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VVI2X3M-es ANGOPE Gas de 227Gr Pack Multicolor 4 x Cartucho'
 sku: 'B00VVI2X3M-es'
 tags: [  ]

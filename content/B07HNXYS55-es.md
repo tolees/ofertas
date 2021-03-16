@@ -5,7 +5,7 @@ date: 2020-09-26 20:30:55
 image: 'https://m.media-amazon.com/images/I/419RRfZtTnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNXYS55-es Sonew Buscador de Seguimiento de Mascotas Portátil USB...'
 sku: 'B07HNXYS55-es'
 tags: [  ]

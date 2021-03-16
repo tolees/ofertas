@@ -5,7 +5,7 @@ date: 2020-08-03 11:30:33
 image: 'https://m.media-amazon.com/images/I/41szBFpC3KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I2KYSPI-es Nuk - Detergente líquido especialmente para...'
 sku: 'B00I2KYSPI-es'
 tags: [  ]

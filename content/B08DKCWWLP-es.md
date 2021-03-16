@@ -5,7 +5,7 @@ date: 2020-09-03 20:31:11
 image: 'https://m.media-amazon.com/images/I/21YvUt6OOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKCWWLP-es Sauber - Frigorífico Combi SERIE 3-176B - Eficiencia...'
 sku: 'B08DKCWWLP-es'
 tags: [  ]

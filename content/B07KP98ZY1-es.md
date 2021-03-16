@@ -5,7 +5,7 @@ date: 2020-07-25 06:54:55
 image: 'https://m.media-amazon.com/images/I/31f62Pbzk2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KP98ZY1-es HongHu Vocaloid MIKU Peluca larga y recta con lado Doble...'
 sku: 'B07KP98ZY1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-29 10:50:22
 image: 'https://m.media-amazon.com/images/I/3172lgfKyZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZHMJW8-es nakw88 Universal Montaje Lateral Magnético Soporte con...'
 sku: 'B086ZHMJW8-es'
 tags: [  ]

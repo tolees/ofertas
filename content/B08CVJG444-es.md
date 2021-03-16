@@ -5,7 +5,7 @@ date: 2020-07-30 18:53:04
 image: 'https://m.media-amazon.com/images/I/31ussrWOx+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVJG444-es Máscara para adultos N95 / FFP2 paquete de 10 unidades...'
 sku: 'B08CVJG444-es'
 tags: [  ]

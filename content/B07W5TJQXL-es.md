@@ -5,7 +5,7 @@ date: 2020-05-14 21:03:23
 image: 'https://m.media-amazon.com/images/I/4199kUCPV+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5TJQXL-es Only 15186153 Pantalones Cortos Negro Black Black Talla...'
 sku: 'B07W5TJQXL-es'
 tags: [  ]

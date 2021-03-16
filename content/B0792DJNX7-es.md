@@ -5,7 +5,7 @@ date: 2020-03-21 14:06:38
 image: 'https://m.media-amazon.com/images/I/51aKhtehYFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792DJNX7-es XOMAX XL-518 Silla de coche con ISOFIX I creciendo con...'
 sku: 'B0792DJNX7-es'
 tags: [  ]

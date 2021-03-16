@@ -5,7 +5,7 @@ date: 2020-05-20 13:09:05
 image: 'https://m.media-amazon.com/images/I/31VRyc6lh4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9K2PBQ-es Corsair Scimitar Pro RGB - Ratón óptico para juegos...'
 sku: 'B01N9K2PBQ-es'
 tags: [  ]

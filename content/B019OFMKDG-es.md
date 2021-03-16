@@ -5,7 +5,7 @@ date: 2020-06-11 06:04:56
 image: 'https://m.media-amazon.com/images/I/31QVyTrKnGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019OFMKDG-es Lacoste PH4012 Polo Para Hombre Blanco Blanc X-Small Talla...'
 sku: 'B019OFMKDG-es'
 tags: [  ]

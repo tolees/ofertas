@@ -5,7 +5,7 @@ date: 2020-02-20 07:47:05
 image: 'https://m.media-amazon.com/images/I/413EKqdWn5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CKRDT5-es American Tourister - Bon Air - Spinner Maleta 75 cm 91 L...'
 sku: 'B076CKRDT5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-11 17:48:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ps2Rzq8CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3QZBQN-es RESPIRFIX DILATADOR Nasal Deportivo ANTIRONQUIDO 2...'
 sku: 'B07H3QZBQN-es'
 tags: [  ]

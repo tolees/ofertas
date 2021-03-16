@@ -5,7 +5,7 @@ date: 2020-06-02 06:54:05
 image: 'https://m.media-amazon.com/images/I/51QXflTNyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UM79F5M-es Crystal Ball - Globos Giochi Preziosi 12020 colores surtidos'
 sku: 'B00UM79F5M-es'
 tags: [  ]

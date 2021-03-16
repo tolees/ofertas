@@ -5,7 +5,7 @@ date: 2020-06-30 10:47:12
 image: 'https://m.media-amazon.com/images/I/41HLFw0e8wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078MXRQ7H-es TOPELEK Luz Lectura Libros LED con 3 Modos de Luz Lampara...'
 sku: 'B078MXRQ7H-es'
 tags: [  ]

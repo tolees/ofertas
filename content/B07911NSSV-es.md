@@ -5,7 +5,7 @@ date: 2020-06-08 11:24:19
 image: 'https://m.media-amazon.com/images/I/410+0nw5t-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07911NSSV-es culiclean Pinza Flor 48 Piezas Azul-Amarillo-Verde-Rosa'
 sku: 'B07911NSSV-es'
 tags: [  ]

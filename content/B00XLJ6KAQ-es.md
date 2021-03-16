@@ -5,7 +5,7 @@ date: 2020-04-06 16:30:18
 image: 'https://m.media-amazon.com/images/I/41MAEH0p86L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XLJ6KAQ-es Playtex APP01P4 Sujetador Blanco 95D para Mujer'
 sku: 'B00XLJ6KAQ-es'
 tags: [  ]

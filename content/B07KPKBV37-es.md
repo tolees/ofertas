@@ -5,7 +5,7 @@ date: 2020-05-27 19:44:58
 image: 'https://m.media-amazon.com/images/I/41fMtEUDjCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPKBV37-es San Ignacio PK661 San Ignacio Set de Cacerolas Ã˜20/24/28...'
 sku: 'B07KPKBV37-es'
 tags: [  ]

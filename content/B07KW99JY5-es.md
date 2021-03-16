@@ -5,7 +5,7 @@ date: 2020-01-13 19:05:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QskeEU2dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW99JY5-es Salomon Trailster Zapatillas de trail running Hombre Gris...'
 sku: 'B07KW99JY5-es'
 tags: [  ]

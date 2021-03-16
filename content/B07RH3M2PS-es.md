@@ -5,7 +5,7 @@ date: 2020-03-19 22:27:09
 image: 'https://m.media-amazon.com/images/I/41w8+zI8S0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH3M2PS-es Reebok Rush Runner Zapatillas de Entrenamiento para Niñas...'
 sku: 'B07RH3M2PS-es'
 tags: [  ]

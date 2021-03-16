@@ -5,7 +5,7 @@ date: 2020-05-09 21:36:19
 image: 'https://m.media-amazon.com/images/I/41v2Po54T5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001QMQE3S-es Waterpik WP-70 - Producto de cuidado dental color blanco'
 sku: 'B001QMQE3S-es'
 tags: [  ]

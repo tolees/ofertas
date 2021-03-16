@@ -5,7 +5,7 @@ date: 2020-01-05 06:30:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41oZeuE1KBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJKNZTD-es Yunteng Precisión Cosido y Durable Dragonfly Oil Custom...'
 sku: 'B07PJKNZTD-es'
 tags: [  ]

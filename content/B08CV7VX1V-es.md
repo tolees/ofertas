@@ -5,7 +5,7 @@ date: 2020-10-11 06:53:58
 image: 'https://m.media-amazon.com/images/I/31GivOZttTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CV7VX1V-es Amplificador Señal WiFi 300Mbps/2.4 GHz Repetidores WiFi...'
 sku: 'B08CV7VX1V-es'
 tags: [  ]

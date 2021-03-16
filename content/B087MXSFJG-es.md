@@ -5,7 +5,7 @@ date: 2020-06-20 12:45:23
 image: 'https://m.media-amazon.com/images/I/51VQBdQ07gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087MXSFJG-es 50 colores 100 colores punto de cruz hilo poliéster...'
 sku: 'B087MXSFJG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 07:08:37
 image: 'https://m.media-amazon.com/images/I/41ToD2+LtUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WGBB5YG-es Kerastase Suero de pelo - 30 ml.'
 sku: 'B00WGBB5YG-es'
 tags: [  ]

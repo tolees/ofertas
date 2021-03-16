@@ -5,7 +5,7 @@ date: 2020-02-03 07:49:42
 image: 'https://m.media-amazon.com/images/I/41NHIfE-RaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPTR9RT-es PUMA Axis Zapatillas Unisex Adulto Black White 40.5 EU'
 sku: 'B07FPTR9RT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 15:02:36
 image: 'https://m.media-amazon.com/images/I/41XgZlb-Q1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTDP4T8-es TWBB Pantalones de chándal con cordón Casual para Hombre...'
 sku: 'B07MTDP4T8-es'
 tags: [  ]

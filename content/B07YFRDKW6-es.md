@@ -5,7 +5,7 @@ date: 2020-05-14 22:26:52
 image: 'https://m.media-amazon.com/images/I/41C+R9IipyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFRDKW6-es MARTISAN Soporte de guitarra Universal Plegable para...'
 sku: 'B07YFRDKW6-es'
 tags: [  ]

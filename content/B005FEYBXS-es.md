@@ -5,7 +5,7 @@ date: 2020-07-10 08:32:55
 image: 'https://m.media-amazon.com/images/I/51Qzt78DTTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005FEYBXS-es Casio Reloj de pulsera MRW-200H-1BVEF'
 sku: 'B005FEYBXS-es'
 tags: [  ]

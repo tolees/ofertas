@@ -5,7 +5,7 @@ date: 2020-06-24 17:43:21
 image: 'https://m.media-amazon.com/images/I/41qzQ4Xl2QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWNN9DK-es Under Armour UA W Charged Intake 4 Zapatillas de Running...'
 sku: 'B07PWNN9DK-es'
 tags: [  ]

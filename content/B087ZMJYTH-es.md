@@ -5,7 +5,7 @@ date: 2020-07-22 18:01:15
 image: 'https://m.media-amazon.com/images/I/51qLEL2OM8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087ZMJYTH-es TTMOW Bandas Elásticas Musculacion Bandas de Resistencia...'
 sku: 'B087ZMJYTH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-29 08:16:36
 image: 'https://m.media-amazon.com/images/I/51B-AcFbL-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCXCVG1-es MiMiya Deshidratador de Alimentos Profesional de 5...'
 sku: 'B07MCXCVG1-es'
 tags: [  ]

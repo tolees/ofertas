@@ -5,7 +5,7 @@ date: 2020-09-25 10:57:39
 image: 'https://m.media-amazon.com/images/I/41zsyRFi9OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055EGCJE-es Calvin Klein Cotton Stretch-3er Tanga de hilo Multicolor...'
 sku: 'B0055EGCJE-es'
 tags: [  ]

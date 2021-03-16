@@ -5,7 +5,7 @@ date: 2020-05-01 17:48:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rMAnLlvxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1H9JYD-es Angelady Timeline Brazaletes de Oro Rosa Pulseras para...'
 sku: 'B07N1H9JYD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 08:34:57
 image: 'https://m.media-amazon.com/images/I/41G0+8ZfWaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JRZG3K0-es Pioneer TS-SW2002D2 Subwoofer de Poca Profundidad Negro'
 sku: 'B00JRZG3K0-es'
 tags: [  ]

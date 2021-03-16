@@ -5,7 +5,7 @@ date: 2020-04-16 09:04:10
 image: 'https://m.media-amazon.com/images/I/415W5uI0L3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYVG51V-es BRIKSMAX Kit de Iluminación Lego Batman Coche Misterioso...'
 sku: 'B07TYVG51V-es'
 tags: [  ]

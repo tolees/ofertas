@@ -5,7 +5,7 @@ date: 2020-06-28 16:31:58
 image: 'https://m.media-amazon.com/images/I/419F-UKMu4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQFTZP1-es Salomon Alphacross Zapatillas de trail running para Hombre...'
 sku: 'B07KQFTZP1-es'
 tags: [  ]

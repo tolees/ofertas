@@ -5,7 +5,7 @@ date: 2020-06-24 14:09:02
 image: 'https://m.media-amazon.com/images/I/41iHM4BV-UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXLFBF7-es New Balance 997H h Zapatillas para Hombre Azul Navy Hex 42 EU'
 sku: 'B07RXLFBF7-es'
 tags: [  ]

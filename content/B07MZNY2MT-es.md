@@ -5,7 +5,7 @@ date: 2020-06-04 19:35:46
 image: 'https://m.media-amazon.com/images/I/411BCm-kxJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZNY2MT-es Funko- Pop Figura de Vinilo: Disney: Little Mermaid-Prince...'
 sku: 'B07MZNY2MT-es'
 tags: [  ]

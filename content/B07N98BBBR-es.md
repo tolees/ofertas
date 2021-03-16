@@ -5,7 +5,7 @@ date: 2020-01-02 21:05:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31IsfJzygxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N98BBBR-es BOSS Prime Polo Azul Bright Blue 434 Small para Hombre'
 sku: 'B07N98BBBR-es'
 tags: [  ]

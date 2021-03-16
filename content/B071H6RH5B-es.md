@@ -5,7 +5,7 @@ date: 2020-07-30 09:24:34
 image: 'https://m.media-amazon.com/images/I/41Kr1j7+71L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071H6RH5B-es Antena Yagi para Amplificador de señal Celular Repetidor...'
 sku: 'B071H6RH5B-es'
 tags: [  ]

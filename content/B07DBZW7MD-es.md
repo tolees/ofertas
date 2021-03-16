@@ -5,7 +5,7 @@ date: 2020-05-04 21:05:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41z%2B2KKgjKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBZW7MD-es Puma RS-150 Nylon Wn s Zapatillas para Mujer Rosa Coral...'
 sku: 'B07DBZW7MD-es'
 tags: [  ]

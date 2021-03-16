@@ -5,7 +5,7 @@ date: 2020-07-25 13:18:33
 image: 'https://m.media-amazon.com/images/I/51FzEyseF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797TLSGC-es VENTILADOR Digital Dardaruga WFD NEBULIZADOR tanque XXL de...'
 sku: 'B0797TLSGC-es'
 tags: [  ]

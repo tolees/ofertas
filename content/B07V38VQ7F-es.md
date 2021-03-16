@@ -5,7 +5,7 @@ date: 2020-06-01 04:52:31
 image: 'https://m.media-amazon.com/images/I/41aoth8HbFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V38VQ7F-es Sanetta Badehose Bañador de natación Azul Blau 50150 92 cm...'
 sku: 'B07V38VQ7F-es'
 tags: [  ]

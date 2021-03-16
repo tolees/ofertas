@@ -5,7 +5,7 @@ date: 2020-08-06 08:35:29
 image: 'https://m.media-amazon.com/images/I/41gZEfTw5UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NSW394Q-es Pro Garden 07972-Baliza de luz solar acero inoxidable 36...'
 sku: 'B00NSW394Q-es'
 tags: [  ]

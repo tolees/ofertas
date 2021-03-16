@@ -5,7 +5,7 @@ date: 2020-09-26 15:55:39
 image: 'https://m.media-amazon.com/images/I/41Qw+MOc4ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYZVVZB-es Skechers Solar Fuse-Lite Joy Zapatillas para Mujer Negro...'
 sku: 'B07VYZVVZB-es'
 tags: [  ]

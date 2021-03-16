@@ -5,7 +5,7 @@ date: 2020-02-29 05:44:40
 image: 'https://m.media-amazon.com/images/I/51CeyXHnXSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IMU2RFG-es Estee Lauder Youth Dew Edp Vapo 65 Ml 15 ml'
 sku: 'B00IMU2RFG-es'
 tags: [  ]

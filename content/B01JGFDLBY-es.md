@@ -5,7 +5,7 @@ date: 2020-08-28 13:43:30
 image: 'https://m.media-amazon.com/images/I/412YeXG61pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JGFDLBY-es Bourjois Volume Reveal Máscara de pestañas Tono 22 Ultra...'
 sku: 'B01JGFDLBY-es'
 tags: [  ]

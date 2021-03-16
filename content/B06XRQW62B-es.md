@@ -5,7 +5,7 @@ date: 2020-06-15 14:34:21
 image: 'https://m.media-amazon.com/images/I/41rFFM0CLgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XRQW62B-es Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con...'
 sku: 'B06XRQW62B-es'
 tags: [  ]

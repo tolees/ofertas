@@ -5,7 +5,7 @@ date: 2020-03-10 20:36:57
 image: 'https://m.media-amazon.com/images/I/41jtSqP2FrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAAGJIV-es Asics Gel-Lyte V Zapatillas de Entrenamiento Unisex Adulto...'
 sku: 'B01NAAGJIV-es'
 tags: [  ]

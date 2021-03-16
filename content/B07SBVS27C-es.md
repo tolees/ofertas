@@ -5,7 +5,7 @@ date: 2020-06-25 20:27:06
 image: 'https://m.media-amazon.com/images/I/41f6q+cJANL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVS27C-es PUMA Ignite Flash Evoknit Zapatillas de Running para...'
 sku: 'B07SBVS27C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-06 19:35:53
 image: 'https://m.media-amazon.com/images/I/31RbJG7yl5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXLHK7T-es Funko- Pop Animation: Speed Racer X Collectible Toy...'
 sku: 'B07TXLHK7T-es'
 tags: [  ]

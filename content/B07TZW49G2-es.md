@@ -5,7 +5,7 @@ date: 2020-08-03 13:43:50
 image: 'https://m.media-amazon.com/images/I/413GL3XF7hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZW49G2-es Merrell Terran Cross II Sandalia con Pulsera para Mujer...'
 sku: 'B07TZW49G2-es'
 tags: [  ]

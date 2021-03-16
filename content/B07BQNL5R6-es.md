@@ -5,7 +5,7 @@ date: 2020-08-06 17:43:42
 image: 'https://m.media-amazon.com/images/I/41Grj5TAc1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQNL5R6-es Goliath- Boomtrix Pack Lanzadera y trampolines 80602...'
 sku: 'B07BQNL5R6-es'
 tags: [  ]

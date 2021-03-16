@@ -5,7 +5,7 @@ date: 2020-03-23 12:28:10
 image: 'https://m.media-amazon.com/images/I/411bx0eQYGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QMCT8W-es HP OMEN 15-dh0017ns - Ordenador portátil de 15.6" FullHD...'
 sku: 'B081QMCT8W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-01 08:15:51
 image: 'https://m.media-amazon.com/images/I/41KcOOg0yjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V88DXMU-es Clarins - Crema Eclat du Jour - Hidratación frescor buena...'
 sku: 'B00V88DXMU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-18 12:02:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nV8WzM19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ84G4-es Pepe Jeans London Zion Mesh Zapatillas para Mujer Black...'
 sku: 'B07MZQ84G4-es'
 tags: [  ]

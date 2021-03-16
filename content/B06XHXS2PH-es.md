@@ -5,7 +5,7 @@ date: 2020-05-19 18:45:19
 image: 'https://m.media-amazon.com/images/I/41M1JQTaK5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHXS2PH-es Cascos Bluetooth inalámbricos Hisonic Auriculares...'
 sku: 'B06XHXS2PH-es'
 tags: [  ]

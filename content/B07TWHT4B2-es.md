@@ -5,7 +5,7 @@ date: 2020-06-26 12:50:39
 image: 'https://m.media-amazon.com/images/I/4126HYdxDKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWHT4B2-es Superga 2750-cot3strapu Zapatillas de Gimnasia Unisex...'
 sku: 'B07TWHT4B2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 13:10:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mpkfDqRjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003SOZXNE-es Stagg SGC6 Instrumento Cable 6m de calidad Teléfono Plug-...'
 sku: 'B003SOZXNE-es'
 tags: [  ]

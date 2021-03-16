@@ -5,7 +5,7 @@ date: 2020-02-12 12:20:00
 image: 'https://m.media-amazon.com/images/I/41L45W1aXPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079C4HPCW-es Birkenstock Rio Sandalia con Pulsera para Niñas Blanco...'
 sku: 'B079C4HPCW-es'
 tags: [  ]

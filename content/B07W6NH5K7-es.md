@@ -5,7 +5,7 @@ date: 2020-08-12 17:52:08
 image: 'https://m.media-amazon.com/images/I/41sPiqPQGVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6NH5K7-es Tommy Hilfiger Hilfiger Slim Polo Azul Blue Ink Small...'
 sku: 'B07W6NH5K7-es'
 tags: [  ]

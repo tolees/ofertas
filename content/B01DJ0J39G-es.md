@@ -5,7 +5,7 @@ date: 2020-01-11 17:16:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/510EYmrP8xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DJ0J39G-es EMPO El Apoyo de Abrazadera de Rodilla Carreras -...'
 sku: 'B01DJ0J39G-es'
 tags: [  ]

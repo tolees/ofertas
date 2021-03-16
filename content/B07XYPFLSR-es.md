@@ -5,7 +5,7 @@ date: 2020-05-20 10:39:40
 image: 'https://m.media-amazon.com/images/I/41XeNAvZtyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYPFLSR-es Olympus OM-D E-M5 Mark III Micro Four Thirds carcasa de la...'
 sku: 'B07XYPFLSR-es'
 tags: [  ]

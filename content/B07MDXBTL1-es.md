@@ -5,7 +5,7 @@ date: 2020-07-21 12:02:05
 image: 'https://m.media-amazon.com/images/I/31F2H5cuB7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDXBTL1-es SanDisk Cruzer Fit Memoria Flash 50 Negro/Plata'
 sku: 'B07MDXBTL1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 00:27:28
 image: 'https://m.media-amazon.com/images/I/51zFoyNBkJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5B8FSF-es Ronda Impermeable Bebé Niños Baño Libro Early Educational...'
 sku: 'B07G5B8FSF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-07 19:45:52
 image: 'https://m.media-amazon.com/images/I/31leXaRyYnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLMCNH3-es TRUUA 30 Hojas de Papel Blanco del arroz de la caligrafía...'
 sku: 'B08BLMCNH3-es'
 tags: [  ]

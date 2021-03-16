@@ -5,7 +5,7 @@ date: 2020-01-24 18:20:19
 image: 'https://m.media-amazon.com/images/I/61NpfsyatLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGDCD9Y-es DazSpirit Kit de Tatuajes Temporales Con 24 Brillos 3...'
 sku: 'B07VGDCD9Y-es'
 tags: [  ]

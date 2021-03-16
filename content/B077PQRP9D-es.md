@@ -5,7 +5,7 @@ date: 2020-06-22 23:27:19
 image: 'https://m.media-amazon.com/images/I/415Vag9sC6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PQRP9D-es Superga 2750 COTU Classic Zapatillas Unisex Rosa Pink Skin...'
 sku: 'B077PQRP9D-es'
 tags: [  ]

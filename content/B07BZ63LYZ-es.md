@@ -5,7 +5,7 @@ date: 2020-05-08 07:14:58
 image: 'https://m.media-amazon.com/images/I/51Ouy-ZPLQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZ63LYZ-es Sotech - Juego de Herramientas de Pinzas de Freno Kit de...'
 sku: 'B07BZ63LYZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 12:04:04
 image: 'https://m.media-amazon.com/images/I/51GTKiFsacL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R8ZCYF4-es Hisense H32BE5000 - TV LED 32 HD 2 HDMI 1 USB Salida...'
 sku: 'B07R8ZCYF4-es'
 tags: [  ]

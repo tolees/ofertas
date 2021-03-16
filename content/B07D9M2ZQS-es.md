@@ -5,7 +5,7 @@ date: 2020-02-25 12:51:23
 image: 'https://m.media-amazon.com/images/I/41AsYX0QcQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9M2ZQS-es Sensor de nivel de agua ultrasónico con pantalla LCD de...'
 sku: 'B07D9M2ZQS-es'
 tags: [  ]

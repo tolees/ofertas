@@ -5,7 +5,7 @@ date: 2020-07-14 18:54:44
 image: 'https://m.media-amazon.com/images/I/41ke-0K9jXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JV81Y6V-es 5 Star: Fortnite: Omega Full Armor'
 sku: 'B07JV81Y6V-es'
 tags: [  ]

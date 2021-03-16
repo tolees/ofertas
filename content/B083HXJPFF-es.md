@@ -5,7 +5,7 @@ date: 2020-09-20 15:03:01
 image: 'https://m.media-amazon.com/images/I/41fMRH9W0ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HXJPFF-es Ligas para Hombres 1 par de Liguero Individual Liguero...'
 sku: 'B083HXJPFF-es'
 tags: [  ]

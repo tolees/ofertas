@@ -5,7 +5,7 @@ date: 2020-01-01 20:42:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41T5xUBJwoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQNF1WY-es Asics Gel-Lyte V Zapatillas Unisex Adulto Blanco Bianco 36 EU'
 sku: 'B01MQNF1WY-es'
 tags: [  ]

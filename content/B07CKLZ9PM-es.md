@@ -5,7 +5,7 @@ date: 2020-04-14 02:12:15
 image: 'https://m.media-amazon.com/images/I/31cbtA7B6IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKLZ9PM-es BlueXP 2 Piezas Armario Interruptor para Puerta del...'
 sku: 'B07CKLZ9PM-es'
 tags: [  ]

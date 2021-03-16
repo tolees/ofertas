@@ -5,7 +5,7 @@ date: 2020-10-11 08:30:28
 image: 'https://m.media-amazon.com/images/I/51O5ew9vboL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JHNG6KR-es Grifo de Filtro de Salpicaduras Universal Boquilla de...'
 sku: 'B08JHNG6KR-es'
 tags: [  ]

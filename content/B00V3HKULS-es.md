@@ -5,7 +5,7 @@ date: 2020-01-15 20:40:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31u72atH8dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V3HKULS-es AmazonBasics - Protector de colchón de moletón impermeable...'
 sku: 'B00V3HKULS-es'
 tags: [  ]

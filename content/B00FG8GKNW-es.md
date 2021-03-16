@@ -5,7 +5,7 @@ date: 2020-05-29 09:21:23
 image: 'https://m.media-amazon.com/images/I/314BypZvBqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FG8GKNW-es Ciroc Red Berry Vodka - 700 ml'
 sku: 'B00FG8GKNW-es'
 tags: [  ]

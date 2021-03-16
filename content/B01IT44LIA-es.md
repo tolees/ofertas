@@ -5,7 +5,7 @@ date: 2020-04-15 10:31:06
 image: 'https://m.media-amazon.com/images/I/41ZHdHBwvRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IT44LIA-es LaCasa - Turron Praline De Trufa 225 g'
 sku: 'B01IT44LIA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-30 16:31:18
 image: 'https://m.media-amazon.com/images/I/41YrFtO1B4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1C19P-es PUMA RS 9.8 Cosmic Zapatillas Unisex Adulto White-Galaxy...'
 sku: 'B07KG1C19P-es'
 tags: [  ]

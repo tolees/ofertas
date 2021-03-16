@@ -5,7 +5,7 @@ date: 2020-04-27 11:25:56
 image: 'https://m.media-amazon.com/images/I/417I7jqMgIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000G4OZ4M-es adidas Originals Mundial Team Botas de fútbol Unisex...'
 sku: 'B000G4OZ4M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-12 08:19:24
 image: 'https://m.media-amazon.com/images/I/418NDBH-9AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D8NXEHG-es Esponja Konjac Facial 100% Naturales Esponja Exfoliante...'
 sku: 'B01D8NXEHG-es'
 tags: [  ]

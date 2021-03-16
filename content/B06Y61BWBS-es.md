@@ -5,7 +5,7 @@ date: 2020-05-01 15:36:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DtZ-8-ZyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y61BWBS-es Joma Treviso Pantalones Cortos Equipamiento Hombre Azul...'
 sku: 'B06Y61BWBS-es'
 tags: [  ]

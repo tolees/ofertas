@@ -5,7 +5,7 @@ date: 2020-06-25 03:16:22
 image: 'https://m.media-amazon.com/images/I/31ltNe2R4pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RL62ZNQ-es Under Armour UA Charged Assert 8 LTD Zapatillas para...'
 sku: 'B07RL62ZNQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 00:31:32
 image: 'https://m.media-amazon.com/images/I/41UXrbc6tNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZ6Y46Z-es CableDeconn HDMI to 3RCA Cable HDMI to 3RCA AV Composite...'
 sku: 'B07FZ6Y46Z-es'
 tags: [  ]

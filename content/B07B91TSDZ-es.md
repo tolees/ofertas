@@ -5,7 +5,7 @@ date: 2020-04-29 15:52:00
 image: 'https://m.media-amazon.com/images/I/41KnNRlNksL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B91TSDZ-es Clarks Rushwaymid GTX Botas Chelsea para Hombre Negro Blk...'
 sku: 'B07B91TSDZ-es'
 tags: [  ]

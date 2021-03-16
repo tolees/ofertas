@@ -5,7 +5,7 @@ date: 2020-05-26 09:10:41
 image: 'https://m.media-amazon.com/images/I/51eXPYb5xwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LPLDERE-es L Oréal Paris - Infallible 24H Maquillaje en Polvo...'
 sku: 'B00LPLDERE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-15 13:28:09
 image: 'https://m.media-amazon.com/images/I/410I-Hc8o2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0043M4XWW-es Oral-B Pulsonic - Pack de 3 cabezales de recambio para...'
 sku: 'B0043M4XWW-es'
 tags: [  ]

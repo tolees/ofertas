@@ -5,7 +5,7 @@ date: 2020-09-05 12:31:18
 image: 'https://m.media-amazon.com/images/I/51xsQ7YkhdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBTR4PS-es Máscara para pelo Crecimiento del cabell Tratamiento para...'
 sku: 'B07YBTR4PS-es'
 tags: [  ]

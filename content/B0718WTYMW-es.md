@@ -5,7 +5,7 @@ date: 2020-07-16 15:49:38
 image: 'https://m.media-amazon.com/images/I/31NQ3666JAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0718WTYMW-es Rimmel London Stay Matte Pintalabios Tono 800 Midnight 5.5 ml'
 sku: 'B0718WTYMW-es'
 tags: [  ]

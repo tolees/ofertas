@@ -5,7 +5,7 @@ date: 2020-07-06 16:34:04
 image: 'https://m.media-amazon.com/images/I/41izNQ2TGyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CAXC6KW-es Campingaz Kühltasche Flaschen Kühler für 1 5 Liter Nevera...'
 sku: 'B00CAXC6KW-es'
 tags: [  ]

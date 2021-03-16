@@ -5,7 +5,7 @@ date: 2020-01-05 17:34:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41olp0d2w0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFWMP5P-es Tropicaleu Grifo de Cocina 360° Tire Moderno Fregadero...'
 sku: 'B07FFWMP5P-es'
 tags: [  ]

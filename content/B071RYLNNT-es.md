@@ -5,7 +5,7 @@ date: 2020-01-13 09:40:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-TD5K5ufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RYLNNT-es Joma Tropical Malla Corta Mujer Verde S'
 sku: 'B071RYLNNT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 19:39:44
 image: 'https://m.media-amazon.com/images/I/41MT4ERLAML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ58HKS-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07NJ58HKS-es'
 tags: [  ]

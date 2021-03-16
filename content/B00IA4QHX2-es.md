@@ -5,7 +5,7 @@ date: 2020-03-05 16:36:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lR%2BzV6OVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IA4QHX2-es Gimi Lift 100 Tendedero de pared y techo de acero 6 m de...'
 sku: 'B00IA4QHX2-es'
 tags: [  ]

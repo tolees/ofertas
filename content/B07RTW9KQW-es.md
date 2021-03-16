@@ -5,7 +5,7 @@ date: 2020-01-31 22:14:06
 image: 'https://m.media-amazon.com/images/I/51OVcOXXsvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTW9KQW-es DAYNEW Dispensador De Aceite De Oliva y Vinagre con...'
 sku: 'B07RTW9KQW-es'
 tags: [  ]

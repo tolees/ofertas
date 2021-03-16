@@ -5,7 +5,7 @@ date: 2020-08-06 15:32:03
 image: 'https://m.media-amazon.com/images/I/412dK8wX73L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084T76ZBW-es kesoto M10 Timbres Inalambricos para Exterior Conectar...'
 sku: 'B084T76ZBW-es'
 tags: [  ]

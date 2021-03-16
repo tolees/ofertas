@@ -5,7 +5,7 @@ date: 2020-07-18 01:49:22
 image: 'https://m.media-amazon.com/images/I/41odWif7-uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089YQJ9BJ-es VIBORA Pala de Padel Cascabel 2020'
 sku: 'B089YQJ9BJ-es'
 tags: [  ]

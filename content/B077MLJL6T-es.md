@@ -5,7 +5,7 @@ date: 2020-01-03 02:46:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31OmUHo9nqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MLJL6T-es Clarilou Funda Smartphone - Diseño Exclusivo Love Yourself...'
 sku: 'B077MLJL6T-es'
 tags: [  ]

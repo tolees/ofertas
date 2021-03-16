@@ -5,7 +5,7 @@ date: 2020-07-11 23:11:55
 image: 'https://m.media-amazon.com/images/I/510BYT5V9TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9R2PRL-es Junfire 2019 - Funda para iPad de 10 2 Pulgadas función...'
 sku: 'B07Y9R2PRL-es'
 tags: [  ]

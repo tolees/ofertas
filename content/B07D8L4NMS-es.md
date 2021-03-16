@@ -5,7 +5,7 @@ date: 2020-09-17 17:33:01
 image: 'https://m.media-amazon.com/images/I/41VcK9uXMkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8L4NMS-es Homyl - Candado antirrobo para Ordenador portátil con 2...'
 sku: 'B07D8L4NMS-es'
 tags: [  ]

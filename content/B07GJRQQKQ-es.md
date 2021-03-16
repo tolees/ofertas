@@ -5,7 +5,7 @@ date: 2020-08-04 14:26:25
 image: 'https://m.media-amazon.com/images/I/51sONA7w7UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJRQQKQ-es Foreo - Cepillo Inteligente De Limpieza Facial Luna Fofo...'
 sku: 'B07GJRQQKQ-es'
 tags: [  ]

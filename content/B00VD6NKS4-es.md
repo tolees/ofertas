@@ -5,7 +5,7 @@ date: 2020-07-23 20:23:11
 image: 'https://m.media-amazon.com/images/I/41kfAkpWoJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VD6NKS4-es Veopulse Veopulse – Soporte Magnético de Teléfono para...'
 sku: 'B00VD6NKS4-es'
 tags: [  ]

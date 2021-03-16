@@ -5,7 +5,7 @@ date: 2020-06-01 12:03:43
 image: 'https://m.media-amazon.com/images/I/51FzJw60WyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VT2DCJ9-es Gorjuss Ladybird Santoro Set de Regalo - 2 Piezas'
 sku: 'B06VT2DCJ9-es'
 tags: [  ]

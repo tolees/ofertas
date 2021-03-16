@@ -5,7 +5,7 @@ date: 2020-05-03 15:15:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yzlTlvqsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FEJC1KO-es Kit de Reparación Bestway Parche Extra Fuerte'
 sku: 'B00FEJC1KO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-19 08:01:15
 image: 'https://m.media-amazon.com/images/I/511L7Tl6JLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895WV3BQ-es Bebé Pantalones Cortos Niñas Niños Bombacho Estampado...'
 sku: 'B0895WV3BQ-es'
 tags: [  ]

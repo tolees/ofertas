@@ -5,7 +5,7 @@ date: 2020-09-24 19:42:14
 image: 'https://m.media-amazon.com/images/I/41tOfufT5iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRLPP8Z-es New Balance 500 Zapatillas para Mujer Plateado Metallic...'
 sku: 'B07KRLPP8Z-es'
 tags: [  ]

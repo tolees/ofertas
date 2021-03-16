@@ -5,7 +5,7 @@ date: 2020-02-22 12:14:49
 image: 'https://m.media-amazon.com/images/I/41OSZlBr3wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHRMY4T-es 00779 XuanPad'
 sku: 'B07VHRMY4T-es'
 tags: [  ]

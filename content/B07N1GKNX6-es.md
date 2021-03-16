@@ -5,7 +5,7 @@ date: 2020-09-10 13:38:11
 image: 'https://m.media-amazon.com/images/I/31v-Y2YO5kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GKNX6-es Clarks Sillian2.0pace Zapatillas para Mujer Negro Black...'
 sku: 'B07N1GKNX6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-03 17:43:02
 image: 'https://m.media-amazon.com/images/I/41d2Q4nXZ7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IBG6XH4-es NUK 10750796 – detergente en espuma para biberón con...'
 sku: 'B00IBG6XH4-es'
 tags: [  ]

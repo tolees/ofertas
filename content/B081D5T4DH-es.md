@@ -5,7 +5,7 @@ date: 2020-09-02 08:41:30
 image: 'https://m.media-amazon.com/images/I/41oAux9WIzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081D5T4DH-es Candy CS 1292D3/P-S - Lavadora carga frontal 9Kgs 16...'
 sku: 'B081D5T4DH-es'
 tags: [  ]

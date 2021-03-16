@@ -5,7 +5,7 @@ date: 2020-05-14 14:05:21
 image: 'https://m.media-amazon.com/images/I/41+4htZWDmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUHUSYS-es Tommy Hilfiger 3p Lr Trunk Calcetines Multicolor...'
 sku: 'B01MUHUSYS-es'
 tags: [  ]

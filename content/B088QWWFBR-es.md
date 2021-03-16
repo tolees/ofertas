@@ -5,7 +5,7 @@ date: 2020-07-16 14:46:16
 image: 'https://m.media-amazon.com/images/I/51FjHO+urPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088QWWFBR-es Taiso Dispensador de jabón automático dispensadores de...'
 sku: 'B088QWWFBR-es'
 tags: [  ]

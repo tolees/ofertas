@@ -5,7 +5,7 @@ date: 2020-07-07 08:01:23
 image: 'https://m.media-amazon.com/images/I/51BfyS8mOxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFP361M-es Spin Master - Kit de Pulseras y collares para niños'
 sku: 'B07NFP361M-es'
 tags: [  ]

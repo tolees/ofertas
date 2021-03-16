@@ -5,7 +5,7 @@ date: 2020-07-26 19:37:23
 image: 'https://m.media-amazon.com/images/I/51k6IkvuxjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01720OTNE-es Taurus Dublin - Báscula de baño'
 sku: 'B01720OTNE-es'
 tags: [  ]

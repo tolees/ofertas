@@ -5,7 +5,7 @@ date: 2020-03-02 17:24:49
 image: 'https://m.media-amazon.com/images/I/41Ld+xsSEJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8TNGBG-es Bruni Película Protectora Compatible con Huawei Watch GT 2...'
 sku: 'B07Y8TNGBG-es'
 tags: [  ]

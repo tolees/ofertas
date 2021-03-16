@@ -5,7 +5,7 @@ date: 2020-05-05 12:35:43
 image: 'https://m.media-amazon.com/images/I/41d4HpFFDCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9RYWWJ-es San Ignacio Premium Dina - Bateria de cocina de 4 piezas...'
 sku: 'B07F9RYWWJ-es'
 tags: [  ]

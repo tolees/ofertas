@@ -5,7 +5,7 @@ date: 2020-04-10 20:04:09
 image: 'https://m.media-amazon.com/images/I/31n77Rpk-mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FKL29D4-es Revlon Ultra HD Pintalabios Matte #650 Spark'
 sku: 'B01FKL29D4-es'
 tags: [  ]

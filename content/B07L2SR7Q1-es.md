@@ -5,7 +5,7 @@ date: 2020-07-22 20:54:25
 image: 'https://m.media-amazon.com/images/I/41GjldhyLlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2SR7Q1-es Asics Patriot 11 Running Shoe Womens Black/White 39 EU'
 sku: 'B07L2SR7Q1-es'
 tags: [  ]

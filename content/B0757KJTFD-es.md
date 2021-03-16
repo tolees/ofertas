@@ -5,7 +5,7 @@ date: 2020-09-12 11:10:11
 image: 'https://m.media-amazon.com/images/I/41-ri1N-REL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757KJTFD-es Rowenta tn1422 F0 Nomad Cortapelos batería de red de...'
 sku: 'B0757KJTFD-es'
 tags: [  ]

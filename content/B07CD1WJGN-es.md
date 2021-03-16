@@ -5,7 +5,7 @@ date: 2020-08-04 23:14:05
 image: 'https://m.media-amazon.com/images/I/41pcdVzmMNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CD1WJGN-es Skechers Men s RELVEN-VELTON-65659 Trainers Black Black...'
 sku: 'B07CD1WJGN-es'
 tags: [  ]

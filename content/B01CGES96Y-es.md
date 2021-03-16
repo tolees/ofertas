@@ -5,7 +5,7 @@ date: 2020-08-04 07:57:04
 image: 'https://m.media-amazon.com/images/I/41L2VtvPFhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CGES96Y-es Relec Infantil Spray Antimosquitos | Fórmula especial para...'
 sku: 'B01CGES96Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 23:02:47
 image: 'https://m.media-amazon.com/images/I/41KjnVJEr2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK418MD-es Columbia Fairbanks Omni-Heat Bota de Invierno para Hombre...'
 sku: 'B07KK418MD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 08:54:18
 image: 'https://m.media-amazon.com/images/I/41xQ+pVVRRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0763PTDZB-es MolinQ Cartera para Tarjetas de Crédito | Tarjetero...'
 sku: 'B0763PTDZB-es'
 tags: [  ]

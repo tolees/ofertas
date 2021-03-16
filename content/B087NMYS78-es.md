@@ -5,7 +5,7 @@ date: 2020-06-01 07:38:26
 image: 'https://m.media-amazon.com/images/I/41PcQiKfGdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087NMYS78-es Respirador desechable de Tres Capas Transpirable Antipolvo...'
 sku: 'B087NMYS78-es'
 tags: [  ]

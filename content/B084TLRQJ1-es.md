@@ -5,7 +5,7 @@ date: 2020-04-11 08:59:37
 image: 'https://m.media-amazon.com/images/I/51tOWhliyKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084TLRQJ1-es FLYFLY Artículos de Fiestas para Fanáticos de los...'
 sku: 'B084TLRQJ1-es'
 tags: [  ]

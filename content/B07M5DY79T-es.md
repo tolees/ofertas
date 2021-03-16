@@ -5,7 +5,7 @@ date: 2020-03-16 18:54:14
 image: 'https://m.media-amazon.com/images/I/41C8+dmXRjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5DY79T-es Wrangler Skinny Jeans Azul Water Blue 78X 31W / 34L para...'
 sku: 'B07M5DY79T-es'
 tags: [  ]

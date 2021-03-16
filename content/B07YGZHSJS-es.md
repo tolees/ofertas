@@ -5,7 +5,7 @@ date: 2020-08-15 14:24:06
 image: 'https://m.media-amazon.com/images/I/41M4vqi9pkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGZHSJS-es Kingston Canvas Select Plus Tarjeta microSD SDCS2/16GB...'
 sku: 'B07YGZHSJS-es'
 tags: [  ]

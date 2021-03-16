@@ -5,7 +5,7 @@ date: 2020-09-03 15:25:06
 image: 'https://m.media-amazon.com/images/I/41bBo9ZmOdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GCTKYLX-es Bluelucon 1 Unidad de paños faciales de protección Facial...'
 sku: 'B08GCTKYLX-es'
 tags: [  ]

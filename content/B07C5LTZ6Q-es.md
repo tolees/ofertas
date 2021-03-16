@@ -5,7 +5,7 @@ date: 2020-01-20 18:04:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gzR1Ca%2B6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5LTZ6Q-es Removedor espinilla Chuangmeida Limpiador de Poros...'
 sku: 'B07C5LTZ6Q-es'
 tags: [  ]

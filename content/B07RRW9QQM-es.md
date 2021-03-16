@@ -5,7 +5,7 @@ date: 2020-10-03 18:13:30
 image: 'https://m.media-amazon.com/images/I/415hw3XJ0ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRW9QQM-es find. Fletcher Zapatillas Blanco White/Navy 43 EU'
 sku: 'B07RRW9QQM-es'
 tags: [  ]

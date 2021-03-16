@@ -5,7 +5,7 @@ date: 2020-01-14 08:53:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51SqrOi4HgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792Y9RGP-es Neviti- Glitz & Glamour-Cake Topper-Gold-Age 18 Figura...'
 sku: 'B0792Y9RGP-es'
 tags: [  ]

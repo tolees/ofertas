@@ -5,7 +5,7 @@ date: 2020-01-27 08:46:01
 image: 'https://m.media-amazon.com/images/I/51G0ZF2ietL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHK8N35-es PUMA One Strap Ball Balón de Fútbol Adultos Unisex Black-...'
 sku: 'B07QHK8N35-es'
 tags: [  ]

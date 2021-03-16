@@ -5,7 +5,7 @@ date: 2020-09-15 16:55:41
 image: 'https://m.media-amazon.com/images/I/41den76tS2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6T7GR3-es American Tourister Jetglam Maleta de Mano S 55 cm 35.5 L...'
 sku: 'B07Z6T7GR3-es'
 tags: [  ]

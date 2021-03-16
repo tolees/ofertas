@@ -5,7 +5,7 @@ date: 2020-04-30 14:39:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mOr4o%2BICL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EUN9XD2-es Ingenuity Jungle Journey - Columpio portátil unisex'
 sku: 'B01EUN9XD2-es'
 tags: [  ]

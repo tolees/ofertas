@@ -5,7 +5,7 @@ date: 2020-05-29 07:26:33
 image: 'https://m.media-amazon.com/images/I/31i6vS8Z5EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2XSS5C-es PRIXTON - Soporte para Tablet Coche/Soporte Universal de...'
 sku: 'B06Y2XSS5C-es'
 tags: [  ]

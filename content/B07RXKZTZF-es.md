@@ -5,7 +5,7 @@ date: 2020-09-13 01:22:21
 image: 'https://m.media-amazon.com/images/I/41ZTt2xNmQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXKZTZF-es Levi s 502 Regular Taper Jeans Azul Biologia ADV 0548...'
 sku: 'B07RXKZTZF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-02 07:20:40
 image: 'https://m.media-amazon.com/images/I/31OR+lSelhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PNUHNUW-es adidas Superstar Foundation Zapatillas Blanco White B27136...'
 sku: 'B00PNUHNUW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 10:29:26
 image: 'https://m.media-amazon.com/images/I/3170edOccBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLYLMYR-es Columbia IVO TRAIL BREEZE Zapatillas deportivas para...'
 sku: 'B07RLYLMYR-es'
 tags: [  ]

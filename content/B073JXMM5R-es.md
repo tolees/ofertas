@@ -5,7 +5,7 @@ date: 2020-06-08 09:51:04
 image: 'https://m.media-amazon.com/images/I/51yYrSZDkWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073JXMM5R-es Baby Jogger City Mini 4 - Silla de paseo color azulón/gris'
 sku: 'B073JXMM5R-es'
 tags: [  ]

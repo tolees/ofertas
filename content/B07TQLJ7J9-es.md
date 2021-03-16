@@ -5,7 +5,7 @@ date: 2020-09-18 19:43:14
 image: 'https://m.media-amazon.com/images/I/41dfdI+CtML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQLJ7J9-es Meykey Slow Juicer - Licuadora de verduras y frutas sin...'
 sku: 'B07TQLJ7J9-es'
 tags: [  ]

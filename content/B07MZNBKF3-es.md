@@ -5,7 +5,7 @@ date: 2020-04-13 13:34:48
 image: 'https://m.media-amazon.com/images/I/41+x6qDP3zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZNBKF3-es Kickers BONKRO Botas para Bebés Azul Marine 10 18 EU'
 sku: 'B07MZNBKF3-es'
 tags: [  ]

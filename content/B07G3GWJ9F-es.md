@@ -5,7 +5,7 @@ date: 2020-10-11 22:09:19
 image: 'https://m.media-amazon.com/images/I/41LsFK1RYUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3GWJ9F-es Funda de cáscara dura mCover para los NUEVOS 14" Yoga 530...'
 sku: 'B07G3GWJ9F-es'
 tags: [  ]

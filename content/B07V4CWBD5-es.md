@@ -5,7 +5,7 @@ date: 2020-02-12 16:36:04
 image: 'https://m.media-amazon.com/images/I/51wFjYMeWQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4CWBD5-es LK [3 Pack] Protector de Pantalla para iPhone 11 / iPhone...'
 sku: 'B07V4CWBD5-es'
 tags: [  ]

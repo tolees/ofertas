@@ -5,7 +5,7 @@ date: 2020-01-07 13:08:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dp6GfivAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IN2C8KC-es Samyang F1111006101 - Objetivo fotográfico DSLR para Sony...'
 sku: 'B00IN2C8KC-es'
 tags: [  ]

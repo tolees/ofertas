@@ -5,7 +5,7 @@ date: 2020-05-28 17:41:51
 image: 'https://m.media-amazon.com/images/I/41HrPAZ3cjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088QFKJLB-es taquxinlaowan Caballo Palomino en el Desierto de Arena con...'
 sku: 'B088QFKJLB-es'
 tags: [  ]

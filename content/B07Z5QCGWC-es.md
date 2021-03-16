@@ -5,7 +5,7 @@ date: 2020-01-28 11:14:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61CIi5wd6GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5QCGWC-es LEADSTAR Bolsa de Pañales 3 PCS Wetbag Lavable...'
 sku: 'B07Z5QCGWC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-24 09:42:25
 image: 'https://m.media-amazon.com/images/I/51Q8riEfDJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008YKRRI6-es Beethoven: Symphonies & Overtures'
 sku: 'B008YKRRI6-es'
 tags: [  ]

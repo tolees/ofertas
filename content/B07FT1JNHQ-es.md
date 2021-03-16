@@ -5,7 +5,7 @@ date: 2020-04-20 09:04:03
 image: 'https://m.media-amazon.com/images/I/41bcu1SalKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FT1JNHQ-es Buff Approach Spider-Man Junior Gorro Polar Unisex Adulto...'
 sku: 'B07FT1JNHQ-es'
 tags: [  ]

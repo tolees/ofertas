@@ -5,7 +5,7 @@ date: 2020-03-12 23:35:26
 image: 'https://m.media-amazon.com/images/I/31mHhyhpxnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJFPZTC-es Rowenta Access Steam Care DR9100D1 - Cepillo de vapor 1600...'
 sku: 'B07NJFPZTC-es'
 tags: [  ]

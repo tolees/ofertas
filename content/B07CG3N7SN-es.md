@@ -5,7 +5,7 @@ date: 2020-05-23 07:16:01
 image: 'https://m.media-amazon.com/images/I/41BTMjnbzQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CG3N7SN-es WMF Perfect Premium - Set de olla ultra rápida/a presión...'
 sku: 'B07CG3N7SN-es'
 tags: [  ]

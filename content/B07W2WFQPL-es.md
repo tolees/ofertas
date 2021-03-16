@@ -5,7 +5,7 @@ date: 2020-01-07 10:41:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31BLJ-jXqDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W2WFQPL-es BESTEK Abrazadera de Soporte de Tableta Ajustable Flexible...'
 sku: 'B07W2WFQPL-es'
 tags: [  ]

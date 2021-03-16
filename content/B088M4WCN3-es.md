@@ -5,7 +5,7 @@ date: 2020-08-20 15:13:50
 image: 'https://m.media-amazon.com/images/I/51+Ut8TgV5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M4WCN3-es Abanicos Plegables 2 Piezas Abanicos de Mano Plegable Seda...'
 sku: 'B088M4WCN3-es'
 tags: [  ]

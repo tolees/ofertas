@@ -5,7 +5,7 @@ date: 2020-01-19 12:44:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4196i3z-nCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDBDYNP-es [3 Piezas] Protector de Pantalla para Huawei Mate 20 Lite...'
 sku: 'B07PDBDYNP-es'
 tags: [  ]

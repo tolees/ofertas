@@ -5,7 +5,7 @@ date: 2020-04-29 07:11:27
 image: 'https://m.media-amazon.com/images/I/41BowjgXvnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HM9YRCY-es Maverick - Almohada de viaje de ALGODÓN. Cojín cervical...'
 sku: 'B07HM9YRCY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-03 07:02:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jd7Zg8UmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K9VUP54-es Pack 5 x Bombilla LED esférica 6W equivalente a 40W Luz...'
 sku: 'B01K9VUP54-es'
 tags: [  ]

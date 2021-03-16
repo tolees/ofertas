@@ -5,7 +5,7 @@ date: 2020-03-03 12:36:39
 image: 'https://m.media-amazon.com/images/I/61OuGnNJKnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZS8KF4K-es Happy Home Designer + 1 Carte Amiibo Animal Crossing'
 sku: 'B00ZS8KF4K-es'
 tags: [  ]

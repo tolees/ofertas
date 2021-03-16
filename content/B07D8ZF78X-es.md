@@ -5,7 +5,7 @@ date: 2020-06-15 11:35:53
 image: 'https://m.media-amazon.com/images/I/41Hul2gXU+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8ZF78X-es Adidas LITE RACER CLN I Zapatillas de deporte Unisex niños...'
 sku: 'B07D8ZF78X-es'
 tags: [  ]

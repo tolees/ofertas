@@ -5,7 +5,7 @@ date: 2020-08-26 17:26:55
 image: 'https://m.media-amazon.com/images/I/41EEKzHI68L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086KXZ4LJ-es 108 rollos de papel higiénico doble capa'
 sku: 'B086KXZ4LJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-04 01:14:20
 image: 'https://m.media-amazon.com/images/I/41srfAxEnxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HMNBVN-es adidas Core18 PES Pnt Pantalones de Deporte Hombre Azul...'
 sku: 'B076HMNBVN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 17:57:28
 image: 'https://m.media-amazon.com/images/I/41RWG9GRw6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MG4MHQK-es Memoria flash USB 2 en 1 de Escomdp Memorias de animales...'
 sku: 'B07MG4MHQK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-27 21:47:16
 image: 'https://m.media-amazon.com/images/I/413WoKgVehL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AZTTSV8-es HP CN626AE 971XL Cartucho de Tinta Original de alto...'
 sku: 'B00AZTTSV8-es'
 tags: [  ]

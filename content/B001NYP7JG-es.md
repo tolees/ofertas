@@ -5,7 +5,7 @@ date: 2020-01-11 17:34:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zi%2BQSQXlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NYP7JG-es BaByliss 2735E - Cepillo rotativo de aire caliente 4...'
 sku: 'B001NYP7JG-es'
 tags: [  ]

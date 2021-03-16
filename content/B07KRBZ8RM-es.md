@@ -5,7 +5,7 @@ date: 2020-03-25 17:01:53
 image: 'https://m.media-amazon.com/images/I/21rER87C52L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRBZ8RM-es PEKITAS Lote 2 Unidades Barrera Protector de Espuma Para...'
 sku: 'B07KRBZ8RM-es'
 tags: [  ]

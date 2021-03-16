@@ -5,7 +5,7 @@ date: 2020-03-02 06:53:18
 image: 'https://m.media-amazon.com/images/I/41CPGeLoXOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KOC3QIG-es Beurer MP 55 Máquina para Callos Recargable Eliminador de...'
 sku: 'B01KOC3QIG-es'
 tags: [  ]

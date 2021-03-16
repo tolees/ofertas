@@ -5,7 +5,7 @@ date: 2020-01-19 14:55:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41axN%2BHD6EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQL5MV-es Esprit Maternity Pants Knit Utb Yd Check Pantalones...'
 sku: 'B07MZQL5MV-es'
 tags: [  ]

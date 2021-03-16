@@ -5,7 +5,7 @@ date: 2020-07-01 14:22:11
 image: 'https://m.media-amazon.com/images/I/41Qu0bE6lZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000JU7N5Q-es Cable HDMI de alta calidad con contactos dorados 1 5 m'
 sku: 'B000JU7N5Q-es'
 tags: [  ]

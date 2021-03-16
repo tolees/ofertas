@@ -5,7 +5,7 @@ date: 2020-01-24 09:24:31
 image: 'https://m.media-amazon.com/images/I/41uxG5MmG-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXN38SS-es Pistola de Masaje portátil con Pantalla LCD de 6 Cabezas...'
 sku: 'B07YXN38SS-es'
 tags: [  ]

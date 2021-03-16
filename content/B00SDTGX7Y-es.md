@@ -5,7 +5,7 @@ date: 2020-01-14 18:22:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518hU8nMLUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SDTGX7Y-es Sophie La Girafe 000004 - Mi primer set y muselina'
 sku: 'B00SDTGX7Y-es'
 tags: [  ]

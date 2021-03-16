@@ -5,7 +5,7 @@ date: 2020-09-02 12:45:25
 image: 'https://m.media-amazon.com/images/I/510dOiFxKQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5N32JQ-es Tommy Hilfiger Buoy Print Regular Polo Azul Small Talla...'
 sku: 'B07W5N32JQ-es'
 tags: [  ]

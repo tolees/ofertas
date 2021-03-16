@@ -5,7 +5,7 @@ date: 2020-02-25 12:42:07
 image: 'https://m.media-amazon.com/images/I/31npoWaIeAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LWYCKV-es Chromecast de Google Timoom 5G/2.4G WiFi Display Dongle...'
 sku: 'B083LWYCKV-es'
 tags: [  ]

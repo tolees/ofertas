@@ -5,7 +5,7 @@ date: 2020-04-25 20:34:57
 image: 'https://m.media-amazon.com/images/I/41bDlJzi1jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4FGLMS-es Cabin Max Manhattan Stowaway XL – Maleta de Cabina para...'
 sku: 'B07K4FGLMS-es'
 tags: [  ]

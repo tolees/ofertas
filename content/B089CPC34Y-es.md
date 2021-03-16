@@ -5,7 +5,7 @@ date: 2020-06-03 20:38:20
 image: 'https://m.media-amazon.com/images/I/31EkEaPvGvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089CPC34Y-es WXQ Tapa de Basura de Acero Inoxidable de Tipo Pedal...'
 sku: 'B089CPC34Y-es'
 tags: [  ]

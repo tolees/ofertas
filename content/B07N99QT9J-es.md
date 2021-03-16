@@ -5,7 +5,7 @@ date: 2020-04-13 22:37:09
 image: 'https://m.media-amazon.com/images/I/41AjGxmVnWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N99QT9J-es Max Factor Polvos Miracle Veil Polvos sueltos - 4 gr.'
 sku: 'B07N99QT9J-es'
 tags: [  ]

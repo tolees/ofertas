@@ -5,7 +5,7 @@ date: 2020-05-24 09:45:57
 image: 'https://m.media-amazon.com/images/I/51Z3l1jNhRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCEJ1YA-es POP! Vinilo - Seraph of the End: Ferid Bathory'
 sku: 'B01NCEJ1YA-es'
 tags: [  ]

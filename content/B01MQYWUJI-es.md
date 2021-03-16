@@ -5,7 +5,7 @@ date: 2020-03-11 10:26:30
 image: 'https://m.media-amazon.com/images/I/51wHJ1osF7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQYWUJI-es DAONLY Levadura Cerveza fortalece el Cabello y Evita la...'
 sku: 'B01MQYWUJI-es'
 tags: [  ]

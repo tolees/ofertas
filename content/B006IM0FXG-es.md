@@ -5,7 +5,7 @@ date: 2020-01-02 19:32:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4191QrOFj7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006IM0FXG-es Tamron B011S AF 18-200 mm F/3 5-6.3 - Objetivo para...'
 sku: 'B006IM0FXG-es'
 tags: [  ]

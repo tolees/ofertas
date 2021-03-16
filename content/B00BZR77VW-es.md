@@ -5,7 +5,7 @@ date: 2020-09-11 03:50:30
 image: 'https://m.media-amazon.com/images/I/31v6gMg6uBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BZR77VW-es Victoria Blucher Lona - Botas para mujer Blanco 40 EU'
 sku: 'B00BZR77VW-es'
 tags: [  ]

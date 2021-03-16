@@ -5,7 +5,7 @@ date: 2020-09-26 09:08:19
 image: 'https://m.media-amazon.com/images/I/41L7-Vm+14L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0816R8MQF-es CERDÁ LIFE S LITTLE MOMENTS 2200005545 Conjunto Polaina y...'
 sku: 'B0816R8MQF-es'
 tags: [  ]

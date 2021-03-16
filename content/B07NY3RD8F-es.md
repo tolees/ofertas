@@ -5,7 +5,7 @@ date: 2020-05-31 01:32:12
 image: 'https://m.media-amazon.com/images/I/31mTh2KERCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY3RD8F-es Superdry Raven Slim Jogger Pantalones de Deporte Verde...'
 sku: 'B07NY3RD8F-es'
 tags: [  ]

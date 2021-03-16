@@ -5,7 +5,7 @@ date: 2020-05-28 16:33:50
 image: 'https://m.media-amazon.com/images/I/41EfwSPMWmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C9Z7JC6-es Toomax 162R Baùl Plástico Antracita'
 sku: 'B00C9Z7JC6-es'
 tags: [  ]

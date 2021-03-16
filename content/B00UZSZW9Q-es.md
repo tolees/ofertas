@@ -5,7 +5,7 @@ date: 2020-05-24 09:04:28
 image: 'https://m.media-amazon.com/images/I/51vpM0wzNzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UZSZW9Q-es Jako Polyesterjacke Pro Junior Jacke Blue-Navy-Citro - 152'
 sku: 'B00UZSZW9Q-es'
 tags: [  ]

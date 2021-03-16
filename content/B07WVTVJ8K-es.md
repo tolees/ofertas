@@ -5,7 +5,7 @@ date: 2020-06-12 08:23:55
 image: 'https://m.media-amazon.com/images/I/41S0BxMNs3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVTVJ8K-es Lámpara de Techo Moderna Tomshine 24W 169 Piezas * 2835...'
 sku: 'B07WVTVJ8K-es'
 tags: [  ]

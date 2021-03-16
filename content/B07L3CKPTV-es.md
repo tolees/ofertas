@@ -5,7 +5,7 @@ date: 2020-10-11 06:16:03
 image: 'https://m.media-amazon.com/images/I/31A4NYf0Z0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3CKPTV-es Tommy Hilfiger Lightweight Leather Sneaker Zapatillas para...'
 sku: 'B07L3CKPTV-es'
 tags: [  ]

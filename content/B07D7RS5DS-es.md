@@ -5,7 +5,7 @@ date: 2020-09-23 14:35:43
 image: 'https://m.media-amazon.com/images/I/316bH9NWoXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7RS5DS-es MEDION ERAZER P6689 - Portátil gaming 15.6" FullHD Intel...'
 sku: 'B07D7RS5DS-es'
 tags: [  ]

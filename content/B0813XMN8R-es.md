@@ -5,7 +5,7 @@ date: 2020-06-14 10:10:07
 image: 'https://m.media-amazon.com/images/I/410rEqnSUpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813XMN8R-es adidas Duramo Lite 2.0 Zapatillas para Correr para Hombre...'
 sku: 'B0813XMN8R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 19:13:17
 image: 'https://m.media-amazon.com/images/I/41qH04UY2TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXKKNTR-es Tommy Hilfiger Thong Tanga Gris Grey Heather 004 Small...'
 sku: 'B07MXKKNTR-es'
 tags: [  ]

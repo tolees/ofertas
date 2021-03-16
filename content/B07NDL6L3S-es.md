@@ -5,7 +5,7 @@ date: 2020-03-02 11:41:39
 image: 'https://m.media-amazon.com/images/I/41wFxjAIQHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL6L3S-es G-STAR RAW Fascia Polo Multicolor Milk/Imperial Blue...'
 sku: 'B07NDL6L3S-es'
 tags: [  ]

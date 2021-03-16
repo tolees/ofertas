@@ -5,7 +5,7 @@ date: 2020-06-29 15:24:24
 image: 'https://m.media-amazon.com/images/I/31H2DVylFsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLDZXPG-es AUKEY Batería Externa de 5000 mAh Cargadores portátiles...'
 sku: 'B07RLDZXPG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-11 11:20:05
 image: 'https://m.media-amazon.com/images/I/51xPSvKOS3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STYPTY1-es NWOUIIAY Compresor de Aire Portátil 150PSI 35L/Min Bomba...'
 sku: 'B07STYPTY1-es'
 tags: [  ]

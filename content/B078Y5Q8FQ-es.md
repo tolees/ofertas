@@ -5,7 +5,7 @@ date: 2020-05-28 00:56:08
 image: 'https://m.media-amazon.com/images/I/313NQfmf46L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078Y5Q8FQ-es BRA Advanced Sartén 22 cm aluminio fundido con...'
 sku: 'B078Y5Q8FQ-es'
 tags: [  ]

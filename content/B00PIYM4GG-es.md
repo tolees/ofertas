@@ -5,7 +5,7 @@ date: 2020-05-29 14:22:50
 image: 'https://m.media-amazon.com/images/I/41vEyxStBXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PIYM4GG-es Victoria S Secret Spray corporal con fragancia para...'
 sku: 'B00PIYM4GG-es'
 tags: [  ]

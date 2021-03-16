@@ -5,7 +5,7 @@ date: 2020-08-12 13:18:21
 image: 'https://m.media-amazon.com/images/I/31x-BXsGiHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A3B2LV2-es Essie Esmalte de Uñas Tono: 014 Fiji'
 sku: 'B00A3B2LV2-es'
 tags: [  ]

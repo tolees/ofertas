@@ -5,7 +5,7 @@ date: 2020-09-17 10:36:16
 image: 'https://m.media-amazon.com/images/I/31HXXSuFCzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2PKDM5-es HOMCOM Mesilla de Centro Mesita de Noche Mesa de Café Té...'
 sku: 'B07N2PKDM5-es'
 tags: [  ]

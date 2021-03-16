@@ -5,7 +5,7 @@ date: 2020-07-08 13:49:18
 image: 'https://m.media-amazon.com/images/I/51SnKj4pulL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0778LHWRM-es WAVLINK Tipo-A USB 3.0 a 4 Puertos de USB 3.0 Hub Alta...'
 sku: 'B0778LHWRM-es'
 tags: [  ]

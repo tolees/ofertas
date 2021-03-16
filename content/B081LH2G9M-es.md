@@ -5,7 +5,7 @@ date: 2020-04-19 11:33:04
 image: 'https://m.media-amazon.com/images/I/41q-ZK2kimL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081LH2G9M-es Disfraz de La casa de Papel para Disfraz Ladrón Disfraces...'
 sku: 'B081LH2G9M-es'
 tags: [  ]

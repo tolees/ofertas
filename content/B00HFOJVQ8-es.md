@@ -5,7 +5,7 @@ date: 2020-03-19 17:36:36
 image: 'https://m.media-amazon.com/images/I/41o+j6LPK-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HFOJVQ8-es TATAY 7738001 Carrito auxiliar de cocina con 3 cestas y...'
 sku: 'B00HFOJVQ8-es'
 tags: [  ]

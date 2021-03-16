@@ -5,7 +5,7 @@ date: 2020-09-23 12:27:41
 image: 'https://m.media-amazon.com/images/I/517RYY39f4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089VRJJF1-es 3 Modos y 3 Capas Filtración Cabezal Ducha Ainkedin...'
 sku: 'B089VRJJF1-es'
 tags: [  ]

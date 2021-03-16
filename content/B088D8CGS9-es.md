@@ -5,7 +5,7 @@ date: 2020-08-07 13:48:19
 image: 'https://m.media-amazon.com/images/I/41W45LaTjQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D8CGS9-es Younsea Correa Galaxy Watch Active 2 Correas de Acero...'
 sku: 'B088D8CGS9-es'
 tags: [  ]

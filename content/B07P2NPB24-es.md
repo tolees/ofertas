@@ -5,7 +5,7 @@ date: 2020-06-09 23:53:07
 image: 'https://m.media-amazon.com/images/I/41k1e8w-imL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2NPB24-es Adidas Terrex Free Hiker Zapatillas de Deporte para Hombre...'
 sku: 'B07P2NPB24-es'
 tags: [  ]

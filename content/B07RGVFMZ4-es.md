@@ -5,7 +5,7 @@ date: 2020-07-14 03:56:39
 image: 'https://m.media-amazon.com/images/I/411L7DNj7lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGVFMZ4-es Hawiton Camisón Mujer Verano Camisones de Algodon Ropa de...'
 sku: 'B07RGVFMZ4-es'
 tags: [  ]

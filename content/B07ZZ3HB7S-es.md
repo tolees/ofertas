@@ -5,7 +5,7 @@ date: 2020-07-08 03:45:07
 image: 'https://m.media-amazon.com/images/I/41RS5cJ63FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZZ3HB7S-es Helly Hansen HH Scout Duffel M Bolsa De Deporte Unisex...'
 sku: 'B07ZZ3HB7S-es'
 tags: [  ]

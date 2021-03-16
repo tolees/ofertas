@@ -5,7 +5,7 @@ date: 2020-03-04 08:02:03
 image: 'https://m.media-amazon.com/images/I/419JOB-14dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHFZ81J-es Carttiya Cojin Lumbar Coche Almohada de Soporte Lumbar de...'
 sku: 'B07DHFZ81J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-05 11:20:57
 image: 'https://m.media-amazon.com/images/I/41TUA8e8JQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IVQVOS6-es One For All WM4411 - Soporte de pared para TV de 32 a 60”...'
 sku: 'B01IVQVOS6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-16 16:31:41
 image: 'https://m.media-amazon.com/images/I/41JPzaYw5AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XD29BN-es Uso duradero Accesorios de piezas de repuesto para...'
 sku: 'B082XD29BN-es'
 tags: [  ]

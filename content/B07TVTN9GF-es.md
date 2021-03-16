@@ -5,7 +5,7 @@ date: 2020-05-14 05:00:23
 image: 'https://m.media-amazon.com/images/I/414jRRe2iOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVTN9GF-es Women s Secret Print Flower Mesh Grey Sujetador de...'
 sku: 'B07TVTN9GF-es'
 tags: [  ]

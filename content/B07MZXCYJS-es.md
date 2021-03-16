@@ -5,7 +5,7 @@ date: 2020-07-26 14:37:53
 image: 'https://m.media-amazon.com/images/I/41PDxfRHs7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZXCYJS-es Skechers Men s Status 2.0-Mosent Moccasins Blue Blue Blu...'
 sku: 'B07MZXCYJS-es'
 tags: [  ]

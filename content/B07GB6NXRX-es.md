@@ -5,7 +5,7 @@ date: 2020-05-28 09:26:30
 image: 'https://m.media-amazon.com/images/I/41j491UexyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB6NXRX-es Funda Xiaomi Mi A2 Lite Eouine Cárcasa Silicona 3D...'
 sku: 'B07GB6NXRX-es'
 tags: [  ]

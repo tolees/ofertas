@@ -5,7 +5,7 @@ date: 2020-01-04 06:44:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31hYzKcJ2QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KOC318G-es Beurer HK42 Almohadilla eléctrica térmica transpirable...'
 sku: 'B01KOC318G-es'
 tags: [  ]

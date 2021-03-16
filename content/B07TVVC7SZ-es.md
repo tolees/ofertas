@@ -5,7 +5,7 @@ date: 2020-08-07 14:42:26
 image: 'https://m.media-amazon.com/images/I/31dD-7jiQjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVVC7SZ-es Skechers Equalizer 4.0 Zapatillas para Hombre Azul Navy...'
 sku: 'B07TVVC7SZ-es'
 tags: [  ]

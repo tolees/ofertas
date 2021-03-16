@@ -5,7 +5,7 @@ date: 2020-03-13 06:07:19
 image: 'https://m.media-amazon.com/images/I/31FPcxcB7ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCP6FB9-es Baoblaze Premium Monitor de Presión de Aire para...'
 sku: 'B07FCP6FB9-es'
 tags: [  ]

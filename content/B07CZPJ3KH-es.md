@@ -5,7 +5,7 @@ date: 2020-01-02 08:26:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414QAHIFMrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZPJ3KH-es Under Armour HG Armour Graphic Legging Leggings Mujer Gris...'
 sku: 'B07CZPJ3KH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 17:26:46
 image: 'https://m.media-amazon.com/images/I/41x3QzHF7RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJP4HS9-es HUGO Dinoso202 Polo Rosa Open Pink 693 X-Large para Hombre'
 sku: 'B07VJP4HS9-es'
 tags: [  ]

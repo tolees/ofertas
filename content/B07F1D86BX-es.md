@@ -5,7 +5,7 @@ date: 2020-01-07 18:12:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41D3cYgIIdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1D86BX-es Armani Exchange - Crossbody Bag Colorful Shoppers y bolsos...'
 sku: 'B07F1D86BX-es'
 tags: [  ]

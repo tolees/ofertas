@@ -5,7 +5,7 @@ date: 2020-10-10 08:46:12
 image: 'https://m.media-amazon.com/images/I/31RWAB3kNKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNS7C37-es adidas TIRO19 TR PNTY Pantalones de Deporte Unisex niños...'
 sku: 'B07JNS7C37-es'
 tags: [  ]

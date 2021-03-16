@@ -5,7 +5,7 @@ date: 2020-07-20 12:12:10
 image: 'https://m.media-amazon.com/images/I/41RtfvYP-FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNTVNJF-es Under Armour UA GS Charged Rogue 2 Zapatillas para Correr...'
 sku: 'B07NNTVNJF-es'
 tags: [  ]

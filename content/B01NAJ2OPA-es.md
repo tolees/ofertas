@@ -5,7 +5,7 @@ date: 2020-03-07 14:02:50
 image: 'https://m.media-amazon.com/images/I/41WbUpNgdIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAJ2OPA-es Jata QP398N Quitapelusas Cuchillas de acero inoxidable...'
 sku: 'B01NAJ2OPA-es'
 tags: [  ]

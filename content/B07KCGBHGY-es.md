@@ -5,7 +5,7 @@ date: 2020-03-13 10:21:32
 image: 'https://m.media-amazon.com/images/I/41lIHakdlOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCGBHGY-es Baoblaze Commlite Ct-g430cr Receptor de Disparo de Flash...'
 sku: 'B07KCGBHGY-es'
 tags: [  ]

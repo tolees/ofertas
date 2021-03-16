@@ -5,7 +5,7 @@ date: 2020-08-09 13:27:46
 image: 'https://m.media-amazon.com/images/I/31ACACpEXuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNKWHQ9-es Cecotec Ready Warm 6600 Turbo Convection Plus - Convector...'
 sku: 'B07JNKWHQ9-es'
 tags: [  ]

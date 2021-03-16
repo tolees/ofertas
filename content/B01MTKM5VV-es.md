@@ -5,7 +5,7 @@ date: 2020-09-28 11:31:11
 image: 'https://m.media-amazon.com/images/I/31XZFIIZJNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTKM5VV-es Under NY Sky Delantal Azul - Tela Vaquera Profesional -...'
 sku: 'B01MTKM5VV-es'
 tags: [  ]

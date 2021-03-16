@@ -5,7 +5,7 @@ date: 2020-06-19 08:32:24
 image: 'https://m.media-amazon.com/images/I/51u4lmvImvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0886JSZYD-es 10x Mascarilla KN***95'
 sku: 'B0886JSZYD-es'
 tags: [  ]

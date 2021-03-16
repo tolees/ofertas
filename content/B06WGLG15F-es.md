@@ -5,7 +5,7 @@ date: 2020-09-08 05:06:34
 image: 'https://m.media-amazon.com/images/I/31Npc+KwLML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGLG15F-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B06WGLG15F-es'
 tags: [  ]

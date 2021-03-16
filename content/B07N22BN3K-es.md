@@ -5,7 +5,7 @@ date: 2020-07-30 22:22:00
 image: 'https://m.media-amazon.com/images/I/312dyyTvBlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N22BN3K-es Sennheiser HD 300 Auriculares Circumaurales Ligeros y...'
 sku: 'B07N22BN3K-es'
 tags: [  ]

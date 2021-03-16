@@ -5,7 +5,7 @@ date: 2020-04-17 14:36:28
 image: 'https://m.media-amazon.com/images/I/41ZXwfFiu5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D2YOK5W-es Creative A250 - Equipo de altavoces 2.1'
 sku: 'B00D2YOK5W-es'
 tags: [  ]

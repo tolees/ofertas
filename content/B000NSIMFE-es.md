@@ -5,7 +5,7 @@ date: 2020-05-06 16:22:48
 image: 'https://m.media-amazon.com/images/I/41IjVKAap1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NSIMFE-es Vans Old Skool Zapatillas Unisex Adulto Negro Black/White...'
 sku: 'B000NSIMFE-es'
 tags: [  ]

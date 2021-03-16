@@ -5,7 +5,7 @@ date: 2020-01-14 09:19:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41plch0lAeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6FJ5SP-es 3Pares Hombre Medias Deportivas 15-20mmHg Reduce la Fatiga...'
 sku: 'B07H6FJ5SP-es'
 tags: [  ]

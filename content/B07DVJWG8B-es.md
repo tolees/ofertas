@@ -5,7 +5,7 @@ date: 2020-01-07 13:10:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jgcXWqktL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVJWG8B-es New Balance 247v2 Entrenadores para Mujer Rosa Birch Birch...'
 sku: 'B07DVJWG8B-es'
 tags: [  ]

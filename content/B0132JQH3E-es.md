@@ -5,7 +5,7 @@ date: 2020-09-28 06:28:01
 image: 'https://m.media-amazon.com/images/I/51mazR5QdLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0132JQH3E-es Un Paso Adelante - Serie Completa 25 años A3 [DVD]'
 sku: 'B0132JQH3E-es'
 tags: [  ]

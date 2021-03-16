@@ -5,7 +5,7 @@ date: 2020-05-18 18:32:02
 image: 'https://m.media-amazon.com/images/I/41z5mvsq-HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JDX9D1H-es Dek - Deportivas de Cordones Dakota para Chico Hombre 39...'
 sku: 'B07JDX9D1H-es'
 tags: [  ]

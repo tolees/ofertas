@@ -5,7 +5,7 @@ date: 2020-08-06 10:11:56
 image: 'https://m.media-amazon.com/images/I/41oILAvXTyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072ZSYFSR-es Wandf Kit para artículos de tocador expandible Dopp con...'
 sku: 'B072ZSYFSR-es'
 tags: [  ]

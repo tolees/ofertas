@@ -5,7 +5,7 @@ date: 2020-07-20 08:35:10
 image: 'https://m.media-amazon.com/images/I/31DCzjaIupL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T7BZB8Y-es APC PM8-GR Surge Arrest Essential - Regleta con protección...'
 sku: 'B00T7BZB8Y-es'
 tags: [  ]

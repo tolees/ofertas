@@ -5,7 +5,7 @@ date: 2020-02-25 11:02:45
 image: 'https://m.media-amazon.com/images/I/517x8jy5TzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BNGH4HG-es Wera 05057434001 Juego de Herramientas con 30 Piezas'
 sku: 'B01BNGH4HG-es'
 tags: [  ]

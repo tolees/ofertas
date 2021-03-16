@@ -5,7 +5,7 @@ date: 2020-08-18 06:53:41
 image: 'https://m.media-amazon.com/images/I/31BAItHQCBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XYFLWW-es Bestway 41113 - Unicornio de Fantasía Hinchable 224x164 cm...'
 sku: 'B078XYFLWW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 08:23:23
 image: 'https://m.media-amazon.com/images/I/41YCtRtnFGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085S1GHP3-es Aigostar - Bombilla LED G45 7W casquillo fino E14 Bajo...'
 sku: 'B085S1GHP3-es'
 tags: [  ]

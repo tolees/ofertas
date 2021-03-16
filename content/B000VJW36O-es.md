@@ -5,7 +5,7 @@ date: 2020-08-26 17:30:57
 image: 'https://m.media-amazon.com/images/I/31mPjWUH3CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VJW36O-es Ferplast 66005017 - Estante para Fondo de Acuario 52 x 28...'
 sku: 'B000VJW36O-es'
 tags: [  ]

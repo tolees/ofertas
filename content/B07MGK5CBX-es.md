@@ -5,7 +5,7 @@ date: 2020-03-25 16:43:36
 image: 'https://m.media-amazon.com/images/I/41pax+EihzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGK5CBX-es Pistola de arie caliente Tacklife HGP69AC 2000W Pistola de...'
 sku: 'B07MGK5CBX-es'
 tags: [  ]

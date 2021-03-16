@@ -5,7 +5,7 @@ date: 2020-03-15 09:42:39
 image: 'https://m.media-amazon.com/images/I/516IbqpCxSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPH2S65-es POWER DOUGH Multicolor Canal Toys Amazon ES1 DP016'
 sku: 'B07DPH2S65-es'
 tags: [  ]

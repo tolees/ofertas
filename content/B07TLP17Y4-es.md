@@ -5,7 +5,7 @@ date: 2020-05-18 17:51:01
 image: 'https://m.media-amazon.com/images/I/41jUmDqeYEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLP17Y4-es Clarks Sift Lace Zapatillas para Mujer Amarillo Rose Gold...'
 sku: 'B07TLP17Y4-es'
 tags: [  ]

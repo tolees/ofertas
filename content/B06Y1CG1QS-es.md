@@ -5,7 +5,7 @@ date: 2020-10-10 13:14:37
 image: 'https://m.media-amazon.com/images/I/31wUmm+9-YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y1CG1QS-es Wrangler HIGH RISE SKINNY Pantalones Negro Rinsewash 023...'
 sku: 'B06Y1CG1QS-es'
 tags: [  ]

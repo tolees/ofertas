@@ -5,7 +5,7 @@ date: 2020-06-26 00:04:37
 image: 'https://m.media-amazon.com/images/I/41vtkrWawHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NW54J-es PUMA X-Ray Game Zapatillas Unisex-Adulto Blanco White/Gray...'
 sku: 'B07S6NW54J-es'
 tags: [  ]

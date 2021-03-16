@@ -5,7 +5,7 @@ date: 2020-08-19 17:45:07
 image: 'https://m.media-amazon.com/images/I/31XGyxGyN0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLGL1NL-es BEUSS Matemática Tech Light Art Botella de Agua Frasco de...'
 sku: 'B08BLGL1NL-es'
 tags: [  ]

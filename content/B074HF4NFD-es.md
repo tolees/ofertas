@@ -5,7 +5,7 @@ date: 2020-01-15 11:11:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nt-Q3jkJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074HF4NFD-es G-STAR RAW Rovulc Denim Low Sneakers Zapatillas para...'
 sku: 'B074HF4NFD-es'
 tags: [  ]

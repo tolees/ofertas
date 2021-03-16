@@ -5,7 +5,7 @@ date: 2020-09-23 10:33:55
 image: 'https://m.media-amazon.com/images/I/41iCBtanUgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XP737QP-es Naipo Silla de Masaje Plegable Ligera y Portátil para...'
 sku: 'B06XP737QP-es'
 tags: [  ]

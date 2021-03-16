@@ -5,7 +5,7 @@ date: 2020-03-05 18:13:57
 image: 'https://m.media-amazon.com/images/I/612X0heuWNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ERF2FW4-es The Body Source Pulseras Repelentes de Mosquitos 10 Piezas...'
 sku: 'B01ERF2FW4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-31 11:15:59
 image: 'https://m.media-amazon.com/images/I/41wA3gOumkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CWWYF9-es Gillette Platinum Cuchillas de afeitar de doble filo para...'
 sku: 'B081CWWYF9-es'
 tags: [  ]

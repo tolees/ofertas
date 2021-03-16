@@ -5,7 +5,7 @@ date: 2020-04-19 15:33:30
 image: 'https://m.media-amazon.com/images/I/41aEIVgt2qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VIXRB6O-es PetSafe PFD19-15521 Comedero para Mascotas con Programador...'
 sku: 'B00VIXRB6O-es'
 tags: [  ]

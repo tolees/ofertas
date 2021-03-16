@@ -5,7 +5,7 @@ date: 2020-08-04 18:38:00
 image: 'https://m.media-amazon.com/images/I/41RKZubc4OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B6BRFCM-es Correa para Reloj Hanyixue Active Correa de reemplazo...'
 sku: 'B08B6BRFCM-es'
 tags: [  ]

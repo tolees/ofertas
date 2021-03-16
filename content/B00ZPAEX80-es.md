@@ -5,7 +5,7 @@ date: 2020-02-17 16:29:38
 image: 'https://m.media-amazon.com/images/I/31pTPsc7xjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZPAEX80-es DISFRAZ ROBIN MUJER TALLA M-L-'
 sku: 'B00ZPAEX80-es'
 tags: [  ]

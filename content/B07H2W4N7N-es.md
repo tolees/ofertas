@@ -5,7 +5,7 @@ date: 2020-04-14 00:02:15
 image: 'https://m.media-amazon.com/images/I/51hhhJv66NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2W4N7N-es Camión de Bomberos Eléctrico Juguete Coche Vehiculo con...'
 sku: 'B07H2W4N7N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-01 21:28:39
 image: 'https://m.media-amazon.com/images/I/41evihWwnWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004GEF6LO-es Bering Classic - Reloj analógico de caballero de cuarzo...'
 sku: 'B004GEF6LO-es'
 tags: [  ]

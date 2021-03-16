@@ -5,7 +5,7 @@ date: 2020-08-11 16:12:26
 image: 'https://m.media-amazon.com/images/I/31aP6DKEH7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFB8DLY-es Pop! Wrek - It Ralph 2 - Figura de Vinilo Shank'
 sku: 'B07DFB8DLY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-12 12:47:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518DB0n2UpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DN9JJAW-es Soria Natural - FOST PRINT JUNIOR SABOR FRESA -...'
 sku: 'B00DN9JJAW-es'
 tags: [  ]

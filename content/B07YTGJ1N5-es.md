@@ -5,7 +5,7 @@ date: 2020-06-24 12:09:16
 image: 'https://m.media-amazon.com/images/I/41axeF9jtHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YTGJ1N5-es Organizador de fregadero Anglink Organizador de fregadero...'
 sku: 'B07YTGJ1N5-es'
 tags: [  ]

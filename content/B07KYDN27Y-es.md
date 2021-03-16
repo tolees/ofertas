@@ -5,7 +5,7 @@ date: 2020-01-03 09:44:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21MaTKxU23L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYDN27Y-es Saro 1435-C - Porta chupete unisex'
 sku: 'B07KYDN27Y-es'
 tags: [  ]

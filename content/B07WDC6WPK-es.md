@@ -5,7 +5,7 @@ date: 2020-06-30 18:03:53
 image: 'https://m.media-amazon.com/images/I/51POKqFiDML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WDC6WPK-es Medidor pH Digital Medidor TDS de Prueba PH Medidor...'
 sku: 'B07WDC6WPK-es'
 tags: [  ]

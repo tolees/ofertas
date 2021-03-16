@@ -5,7 +5,7 @@ date: 2020-03-19 08:10:22
 image: 'https://m.media-amazon.com/images/I/31TcpJqhhqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN7X7FY-es Nelly Laca Spray - 125 ml'
 sku: 'B00BN7X7FY-es'
 tags: [  ]

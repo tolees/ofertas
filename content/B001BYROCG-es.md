@@ -5,7 +5,7 @@ date: 2020-07-01 21:26:03
 image: 'https://m.media-amazon.com/images/I/417dpJx4AxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BYROCG-es Vacu Vin 38855626-Enfriador rápido Estampado Color Platino...'
 sku: 'B001BYROCG-es'
 tags: [  ]

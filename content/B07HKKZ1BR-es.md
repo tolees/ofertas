@@ -5,7 +5,7 @@ date: 2020-03-21 07:30:46
 image: 'https://m.media-amazon.com/images/I/41UF5Z76cfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKKZ1BR-es Globo Flotante de levitación magnética gira del mapa del...'
 sku: 'B07HKKZ1BR-es'
 tags: [  ]

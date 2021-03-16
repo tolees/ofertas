@@ -5,7 +5,7 @@ date: 2020-08-25 16:11:55
 image: 'https://m.media-amazon.com/images/I/317ehMZiBsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017K62ONW-es Ghd ghd Style Final Shine Spray 100 Ml 100 g'
 sku: 'B017K62ONW-es'
 tags: [  ]

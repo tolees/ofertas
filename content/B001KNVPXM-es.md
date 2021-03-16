@@ -5,7 +5,7 @@ date: 2020-01-04 21:28:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31nabmA-xbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001KNVPXM-es Max Factor LipFinity Colour & Gloss Lip Gloss Pintalabios...'
 sku: 'B001KNVPXM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 12:31:52
 image: 'https://m.media-amazon.com/images/I/41J6MiahCjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRTRP8G-es Ocobudbxw 10 Piezas SMA-JB3 Conector RF RP-SMA Macho Jack...'
 sku: 'B08CRTRP8G-es'
 tags: [  ]

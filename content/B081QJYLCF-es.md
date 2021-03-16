@@ -5,7 +5,7 @@ date: 2020-03-14 12:05:59
 image: 'https://m.media-amazon.com/images/I/51mD8YyCUVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QJYLCF-es Deik Juego de 5 Utensilios Antiadherentes para Horno-...'
 sku: 'B081QJYLCF-es'
 tags: [  ]

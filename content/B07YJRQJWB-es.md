@@ -5,7 +5,7 @@ date: 2020-07-10 22:43:52
 image: 'https://m.media-amazon.com/images/I/41eRzzAlGqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJRQJWB-es Oihxse Funda Compatible para Samsung Galaxy J4 2018 Ultra...'
 sku: 'B07YJRQJWB-es'
 tags: [  ]

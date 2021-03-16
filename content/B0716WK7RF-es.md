@@ -5,7 +5,7 @@ date: 2020-01-27 07:43:36
 image: 'https://m.media-amazon.com/images/I/51jaH9kD98L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0716WK7RF-es Asics Kanmei Zapatillas de Running para Hombre Azul...'
 sku: 'B0716WK7RF-es'
 tags: [  ]

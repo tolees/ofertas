@@ -5,7 +5,7 @@ date: 2020-01-26 13:19:21
 image: 'https://m.media-amazon.com/images/I/41M5saSuVhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW9QR1D-es Salomon XA Pro 3D GTX Zapatillas de Trail Running para...'
 sku: 'B07KW9QR1D-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-18 12:12:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fTBiLeGqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7RJTVW-es Antena TV Antena TV Interior HDTV Digital con Amplificador...'
 sku: 'B07W7RJTVW-es'
 tags: [  ]

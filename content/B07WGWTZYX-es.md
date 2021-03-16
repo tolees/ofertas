@@ -5,7 +5,7 @@ date: 2020-07-11 07:32:57
 image: 'https://m.media-amazon.com/images/I/41NyD2Doq0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGWTZYX-es Auriculares Inalámbrico de Diadema AUSDOM M09 Cascos...'
 sku: 'B07WGWTZYX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-11 15:27:24
 image: 'https://m.media-amazon.com/images/I/51j43YH-fWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0DQ8Z5-es Ariete 155/15 - Tostador 2 ranuras anchas vintage 6...'
 sku: 'B01N0DQ8Z5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 19:31:26
 image: 'https://m.media-amazon.com/images/I/51fj1uzca0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0068FARUE-es Continental Schlauch MTB 29 AV 42 Cámara Unisex a40 40 mm'
 sku: 'B0068FARUE-es'
 tags: [  ]

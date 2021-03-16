@@ -5,7 +5,7 @@ date: 2020-09-29 05:00:39
 image: 'https://m.media-amazon.com/images/I/316vbpUQ5yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MWR5IVA-es Logitech M280 Ratón Inalámbrico 2 4 GHz con Nano Receptor...'
 sku: 'B00MWR5IVA-es'
 tags: [  ]

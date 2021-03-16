@@ -5,7 +5,7 @@ date: 2020-07-01 16:29:17
 image: 'https://m.media-amazon.com/images/I/41ArsFJD5OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D75YSCS-es Brewsly Botella de Agua - 1000ML de Doble Pared con...'
 sku: 'B07D75YSCS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-06 13:29:26
 image: 'https://m.media-amazon.com/images/I/31Xe7zAbXRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G8JZWG7-es TRESemmé - Acondicionador Botanique Coco - 700 ml Paquete...'
 sku: 'B07G8JZWG7-es'
 tags: [  ]

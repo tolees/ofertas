@@ -5,7 +5,7 @@ date: 2020-03-10 17:28:25
 image: 'https://m.media-amazon.com/images/I/415OFkCUW0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D55JQJR-es D DOLITY Indicador de Presión de Aire de Balones con...'
 sku: 'B07D55JQJR-es'
 tags: [  ]

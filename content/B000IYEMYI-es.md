@@ -5,7 +5,7 @@ date: 2020-09-28 18:16:54
 image: 'https://m.media-amazon.com/images/I/41TgbpWH9NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000IYEMYI-es Bosch MFQ3540 Batidora y Amasadora con Accesorios 450 W 5...'
 sku: 'B000IYEMYI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 19:23:08
 image: 'https://m.media-amazon.com/images/I/41VhxWSiJ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RYJTDH-es Ferplast - Comedero con balanza integrada para Perros y...'
 sku: 'B075RYJTDH-es'
 tags: [  ]

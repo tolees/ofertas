@@ -5,7 +5,7 @@ date: 2020-02-25 16:41:27
 image: 'https://m.media-amazon.com/images/I/31pzNkuhUFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1XCF2K-es Cocoarm Secador de Pelo Caja de Piel sintética con Suave...'
 sku: 'B07W1XCF2K-es'
 tags: [  ]

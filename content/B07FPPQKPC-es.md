@@ -5,7 +5,7 @@ date: 2020-05-28 10:38:04
 image: 'https://m.media-amazon.com/images/I/21dMR241crL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPPQKPC-es Zafferano Poldina Lámpara de Mesa LED Recargable Regulable...'
 sku: 'B07FPPQKPC-es'
 tags: [  ]

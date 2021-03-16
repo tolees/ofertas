@@ -5,7 +5,7 @@ date: 2020-06-01 09:23:27
 image: 'https://m.media-amazon.com/images/I/41hLAmrq-ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZCM1BM-es adidas Tastigo19 SHO Pantalones Cortos de Deporte Niños...'
 sku: 'B07JZCM1BM-es'
 tags: [  ]

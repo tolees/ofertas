@@ -5,7 +5,7 @@ date: 2020-04-03 12:04:10
 image: 'https://m.media-amazon.com/images/I/31DEwO4zWrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00STGS5CW-es Energy Tower 5 Torre de Sonido con Bluetooth y Mando a...'
 sku: 'B00STGS5CW-es'
 tags: [  ]

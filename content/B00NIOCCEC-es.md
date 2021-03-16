@@ -5,7 +5,7 @@ date: 2020-05-02 13:02:09
 image: 'https://m.media-amazon.com/images/I/51JpIxHDO6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NIOCCEC-es Panasonic ER-GB80-S503 - Cortapelos impermeable con Peine-...'
 sku: 'B00NIOCCEC-es'
 tags: [  ]

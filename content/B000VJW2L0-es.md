@@ -5,7 +5,7 @@ date: 2020-09-23 16:15:05
 image: 'https://m.media-amazon.com/images/I/4125fmQyCBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VJW2L0-es Eukanuba Working & Endurance - Comida seca para perros...'
 sku: 'B000VJW2L0-es'
 tags: [  ]

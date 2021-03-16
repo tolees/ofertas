@@ -5,7 +5,7 @@ date: 2020-02-23 15:45:47
 image: 'https://m.media-amazon.com/images/I/51uj+Aa1wfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M4N16YM-es MyKronoz MKZESPORT - Reloj de Actividad y sueño...'
 sku: 'B01M4N16YM-es'
 tags: [  ]

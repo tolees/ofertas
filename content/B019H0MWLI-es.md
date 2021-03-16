@@ -5,7 +5,7 @@ date: 2020-01-13 10:15:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ptc5bNQIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019H0MWLI-es Calzoncillo de carreras para hombre traje de baño HEAD...'
 sku: 'B019H0MWLI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 08:20:49
 image: 'https://m.media-amazon.com/images/I/41vT82UL2UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UTC9T7E-es SONGMICS Silla ergonómica de oficina estudio con ruedas...'
 sku: 'B00UTC9T7E-es'
 tags: [  ]

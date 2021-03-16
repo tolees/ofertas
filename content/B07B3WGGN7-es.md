@@ -5,7 +5,7 @@ date: 2020-09-01 01:21:36
 image: 'https://m.media-amazon.com/images/I/41j-nwtilYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3WGGN7-es Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07B3WGGN7-es'
 tags: [  ]

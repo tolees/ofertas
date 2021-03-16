@@ -5,7 +5,7 @@ date: 2020-06-27 08:04:49
 image: 'https://m.media-amazon.com/images/I/414Om32+GqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ22G4W-es AMDXD Joyería Pendientes para Mujer Oro de 18K Lágrima...'
 sku: 'B07JJ22G4W-es'
 tags: [  ]

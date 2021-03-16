@@ -5,7 +5,7 @@ date: 2020-08-05 21:44:57
 image: 'https://m.media-amazon.com/images/I/314LB+QMbvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVSY3NZ-es edc by Esprit 118cc1b003 Pantalones Azul Navy 400 W34/L30...'
 sku: 'B07GVSY3NZ-es'
 tags: [  ]

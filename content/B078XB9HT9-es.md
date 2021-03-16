@@ -5,7 +5,7 @@ date: 2020-08-18 18:17:28
 image: 'https://m.media-amazon.com/images/I/41DmsuNML3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XB9HT9-es JORLAI 33/45/78 Tocadiscos con Pantalla LCD Radio FM Am...'
 sku: 'B078XB9HT9-es'
 tags: [  ]

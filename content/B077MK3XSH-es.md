@@ -5,7 +5,7 @@ date: 2020-01-28 14:40:30
 image: 'https://m.media-amazon.com/images/I/51+sZnIar7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MK3XSH-es Build a Bot dec164494 Zorro'
 sku: 'B077MK3XSH-es'
 tags: [  ]

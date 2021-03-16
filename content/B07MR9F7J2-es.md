@@ -5,7 +5,7 @@ date: 2020-05-29 12:27:06
 image: 'https://m.media-amazon.com/images/I/31M9FtRgnBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MR9F7J2-es Lee Luke Jeans Moto Grey Hga 31W / 30L para Hombre'
 sku: 'B07MR9F7J2-es'
 tags: [  ]

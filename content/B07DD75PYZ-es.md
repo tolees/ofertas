@@ -5,7 +5,7 @@ date: 2020-03-10 20:03:20
 image: 'https://m.media-amazon.com/images/I/41TI0GOUqbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD75PYZ-es Gormiti - Brazalete Role Play Con 4 Medallones Luz y...'
 sku: 'B07DD75PYZ-es'
 tags: [  ]

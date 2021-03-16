@@ -5,7 +5,7 @@ date: 2020-07-18 18:18:42
 image: 'https://m.media-amazon.com/images/I/415QsVgfQWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRZNMIC-es adidas Gazelle J Zapatillas Unisex Niños Azul Collegiate...'
 sku: 'B01MRZNMIC-es'
 tags: [  ]

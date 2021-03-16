@@ -5,7 +5,7 @@ date: 2020-01-07 12:19:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ciqdj4xpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQJ2NPT-es SunTop LED Lámpara de Inspección Recargable Linterna de...'
 sku: 'B07DQJ2NPT-es'
 tags: [  ]

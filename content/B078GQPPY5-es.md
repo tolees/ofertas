@@ -5,7 +5,7 @@ date: 2020-02-04 07:12:22
 image: 'https://m.media-amazon.com/images/I/41uZbz7-OIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GQPPY5-es Muscletech Hydroxycut Pro Clinical 72 caps 72 Unidades 40 g'
 sku: 'B078GQPPY5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-27 13:18:22
 image: 'https://m.media-amazon.com/images/I/41FzXe3qGPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GH5FTH0-es Under Armour Tech Polo Hombre Azul Royal/Graphite 400 S'
 sku: 'B01GH5FTH0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-26 19:29:03
 image: 'https://m.media-amazon.com/images/I/51YdnEngUwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5YGZJD-es Bandas Elasticas Fitness Glúteos Bandas de Resistencia de...'
 sku: 'B07S5YGZJD-es'
 tags: [  ]

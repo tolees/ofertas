@@ -5,7 +5,7 @@ date: 2021-03-16 15:42:24
 image: 'https://m.media-amazon.com/images/I/41cr6LowDFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FWBC1X-es Casio EDIFICE Reloj en caja sólida 10 BAR Azul para Hombre...'
 sku: 'B079FWBC1X-es'
 tags: [ 'casio', ]
@@ -28,10 +28,10 @@ Está [Casio EDIFICE Reloj en caja sólida  10 BAR  Azul  para Hombre  con Corre
 
 ℹ️:
 
-- Pantalla de neón
-- Clasificación de resistencia al agua (10 bar)
-- Material: cristal mineral
-- Indicador de fecha
 - Fondo de la carcasa atornillado
+- Material: cristal mineral
+- Clasificación de resistencia al agua (10 bar)
+- Indicador de fecha
+- Pantalla de neón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079FWBC1X/?tag=tolees-21)

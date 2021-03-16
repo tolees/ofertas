@@ -5,7 +5,7 @@ date: 2020-03-19 04:30:11
 image: 'https://m.media-amazon.com/images/I/519a6Jx7ydL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MIKJ4MU-es Krups KH442D 2slice s 720W Acero inoxidable - Tostador 2...'
 sku: 'B00MIKJ4MU-es'
 tags: [  ]

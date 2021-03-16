@@ -5,7 +5,7 @@ date: 2020-05-05 07:54:40
 image: 'https://m.media-amazon.com/images/I/61TavA4DOhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0718WXRRX-es Call Of Duty WWII'
 sku: 'B0718WXRRX-es'
 tags: [  ]

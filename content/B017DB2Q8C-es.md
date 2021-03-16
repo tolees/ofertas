@@ -5,7 +5,7 @@ date: 2020-01-02 02:13:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31QbP2CJeNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017DB2Q8C-es L Oréal Paris Infalible Gel Laca de Uñas Tono 042'
 sku: 'B017DB2Q8C-es'
 tags: [  ]

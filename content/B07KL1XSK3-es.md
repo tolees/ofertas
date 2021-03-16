@@ -5,7 +5,7 @@ date: 2020-01-14 06:40:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NRN4fBMQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL1XSK3-es Safety 1st TIMBA con Cojín Petrol Blue - Trona evolutiva...'
 sku: 'B07KL1XSK3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 16:34:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31CSNnZXNiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQYJJ7J-es Tommy Hilfiger Brooklyn Short Light Twill Belt Pantalones...'
 sku: 'B07JQYJJ7J-es'
 tags: [  ]

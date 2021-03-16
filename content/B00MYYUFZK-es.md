@@ -5,7 +5,7 @@ date: 2020-02-21 08:16:24
 image: 'https://m.media-amazon.com/images/I/31IISDHlO6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MYYUFZK-es Maybelline New York - Color Drama Pintalabios Tono 410'
 sku: 'B00MYYUFZK-es'
 tags: [  ]

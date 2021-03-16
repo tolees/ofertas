@@ -5,7 +5,7 @@ date: 2020-05-27 10:21:05
 image: 'https://m.media-amazon.com/images/I/31twpx8m0cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCXHVRR-es adidas DX7301 Pantalones Cortos de Deporte Niños Rojo...'
 sku: 'B07KCXHVRR-es'
 tags: [  ]

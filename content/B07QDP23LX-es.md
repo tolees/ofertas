@@ -5,7 +5,7 @@ date: 2020-04-06 17:14:57
 image: 'https://m.media-amazon.com/images/I/31ckDyRrSVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDP23LX-es Funko Pop Figura De Vinil TV: Mad Men-Roger Coleccionable...'
 sku: 'B07QDP23LX-es'
 tags: [  ]

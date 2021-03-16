@@ -5,7 +5,7 @@ date: 2020-02-08 08:32:30
 image: 'https://m.media-amazon.com/images/I/41JwHInerlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RLFZT7-es Funko- Pocket Pop Avengers Infinity War PPK 4 Figura de...'
 sku: 'B079RLFZT7-es'
 tags: [  ]

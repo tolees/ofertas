@@ -5,7 +5,7 @@ date: 2020-02-02 09:44:33
 image: 'https://m.media-amazon.com/images/I/51mSjmayc6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQLF3QD-es ROMIX Esterilla Deporte Antideslizante Extra Gruesa 10MM...'
 sku: 'B07TQLF3QD-es'
 tags: [  ]

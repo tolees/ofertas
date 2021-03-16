@@ -5,7 +5,7 @@ date: 2020-09-26 08:48:45
 image: 'https://m.media-amazon.com/images/I/51xK7lGCbQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG6D5CJ-es Boriyuan Funda teclado iPad 9.7 Funda con teclado español...'
 sku: 'B07JG6D5CJ-es'
 tags: [  ]

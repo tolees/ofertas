@@ -5,7 +5,7 @@ date: 2020-05-15 14:38:54
 image: 'https://m.media-amazon.com/images/I/41DOHoejqcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTW14YB-es Carrera- Mercedes-AMG F1 W09 EQ Power+L. Hamilton No.44...'
 sku: 'B07PTW14YB-es'
 tags: [  ]

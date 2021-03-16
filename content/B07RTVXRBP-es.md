@@ -5,7 +5,7 @@ date: 2020-06-20 21:45:25
 image: 'https://m.media-amazon.com/images/I/31CQZAI+hWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTVXRBP-es Peine Eléctrico para Hombres - AKIMO Plancha de Pelo con...'
 sku: 'B07RTVXRBP-es'
 tags: [  ]

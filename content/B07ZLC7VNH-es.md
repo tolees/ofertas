@@ -5,7 +5,7 @@ date: 2020-09-18 08:30:42
 image: 'https://m.media-amazon.com/images/I/51esjcOy79L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZLC7VNH-es Crucial CT32G4SFD832A Memoria RAM de 32 GB DDR4 3200 MT/s...'
 sku: 'B07ZLC7VNH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 15:40:57
 image: 'https://m.media-amazon.com/images/I/41Jj1Z-n7-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D486JRF-es KUNGYO Decoraciones de Fiesta de Cumpleaños para Adultos y...'
 sku: 'B07D486JRF-es'
 tags: [  ]

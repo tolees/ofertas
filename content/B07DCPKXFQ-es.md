@@ -5,7 +5,7 @@ date: 2020-04-18 02:56:09
 image: 'https://m.media-amazon.com/images/I/414p4EWLLML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCPKXFQ-es LIGHTAILING Conjunto de Luces Technic Porsche 911 GT3 RS...'
 sku: 'B07DCPKXFQ-es'
 tags: [  ]

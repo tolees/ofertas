@@ -5,7 +5,7 @@ date: 2020-02-15 09:45:19
 image: 'https://m.media-amazon.com/images/I/31ngLL445gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T42DHNJ-es GoPro HERO7 Black - Cámara de acción sumergible hasta 10 m...'
 sku: 'B07T42DHNJ-es'
 tags: [  ]

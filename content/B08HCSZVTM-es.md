@@ -5,7 +5,7 @@ date: 2020-09-24 06:36:40
 image: 'https://m.media-amazon.com/images/I/51LYXe20ejL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HCSZVTM-es LK Funda para Samsung Galaxy A51 + [2 Pack] Protector de...'
 sku: 'B08HCSZVTM-es'
 tags: [  ]

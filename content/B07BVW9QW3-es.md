@@ -5,7 +5,7 @@ date: 2020-04-01 17:01:24
 image: 'https://m.media-amazon.com/images/I/41FGXVli6aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BVW9QW3-es seQoya - Crooked | Reloj de Madera con Esfera de Madera y...'
 sku: 'B07BVW9QW3-es'
 tags: [  ]

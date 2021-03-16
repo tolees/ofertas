@@ -5,7 +5,7 @@ date: 2020-05-12 11:05:40
 image: 'https://m.media-amazon.com/images/I/416V+nsEfrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QQM733I-es Munchkin - Espejo musical con luz Day & Night'
 sku: 'B00QQM733I-es'
 tags: [  ]

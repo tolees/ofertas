@@ -5,7 +5,7 @@ date: 2020-02-08 09:13:13
 image: 'https://m.media-amazon.com/images/I/311-ywE0d1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PYX34W8-es Kelme Precision Elite 2.0 Zapatillas de fútbol Sala Unisex...'
 sku: 'B07PYX34W8-es'
 tags: [  ]

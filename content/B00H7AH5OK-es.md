@@ -5,7 +5,7 @@ date: 2020-02-27 12:47:32
 image: 'https://m.media-amazon.com/images/I/51xE7EPJxEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H7AH5OK-es Head - Pinzas para Pelotas de Mujer Color Rosa y Transparente'
 sku: 'B00H7AH5OK-es'
 tags: [  ]

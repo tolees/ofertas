@@ -5,7 +5,7 @@ date: 2020-03-05 22:35:28
 image: 'https://m.media-amazon.com/images/I/41aVZiGko6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8TLKLY-es CHICTRY Cola de Sirena Mujer para Nadar Bañador Ropa de...'
 sku: 'B07F8TLKLY-es'
 tags: [  ]

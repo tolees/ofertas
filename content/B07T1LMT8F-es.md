@@ -5,7 +5,7 @@ date: 2020-09-22 10:01:23
 image: 'https://m.media-amazon.com/images/I/41jxCSKEKqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1LMT8F-es Otterbox Symmetry Clear - Funda Protectora Trasera...'
 sku: 'B07T1LMT8F-es'
 tags: [  ]

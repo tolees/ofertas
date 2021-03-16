@@ -5,7 +5,7 @@ date: 2020-03-02 20:05:59
 image: 'https://m.media-amazon.com/images/I/51iAXkdvhgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VV5W7Z5-es Procos mantel plástico 120 x 180 cm Avengers Mighty...'
 sku: 'B06VV5W7Z5-es'
 tags: [  ]

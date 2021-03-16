@@ -5,7 +5,7 @@ date: 2020-10-10 11:23:40
 image: 'https://m.media-amazon.com/images/I/31qReD753wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008HQU0JK-es Tommee Tippee Closer to Nature - Sacaleches eléctrico'
 sku: 'B008HQU0JK-es'
 tags: [  ]

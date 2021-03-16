@@ -5,7 +5,7 @@ date: 2020-07-17 06:31:34
 image: 'https://m.media-amazon.com/images/I/31UCs2RPekL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYXK6QM-es Intex 57294EU - Isla Hinchable Llama'
 sku: 'B07VYXK6QM-es'
 tags: [  ]

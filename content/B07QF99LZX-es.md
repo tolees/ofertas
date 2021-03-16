@@ -5,7 +5,7 @@ date: 2020-01-28 20:32:55
 image: 'https://m.media-amazon.com/images/I/31+LYWe7WEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QF99LZX-es PUMA Prime Street Large Shopper Bandolera Mujeres Bridal...'
 sku: 'B07QF99LZX-es'
 tags: [  ]

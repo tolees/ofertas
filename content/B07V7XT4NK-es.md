@@ -5,7 +5,7 @@ date: 2020-05-23 11:32:55
 image: 'https://m.media-amazon.com/images/I/41paiHIe4OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7XT4NK-es Tommy Hilfiger Essential Long Lace Sneaker Zapatillas para...'
 sku: 'B07V7XT4NK-es'
 tags: [  ]

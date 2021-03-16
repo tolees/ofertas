@@ -5,7 +5,7 @@ date: 2020-07-17 21:09:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21aseyr8NkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GNOCAHM-es Luz Solar Kealive Lámpara Solar Exterior 8 Colores...'
 sku: 'B01GNOCAHM-es'
 tags: [  ]

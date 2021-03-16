@@ -5,7 +5,7 @@ date: 2020-08-21 09:17:02
 image: 'https://m.media-amazon.com/images/I/51pDXLF-kcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005ZAJS6C-es Feplast Jaula para hámsteres FAVOLA para pequeños roedores...'
 sku: 'B005ZAJS6C-es'
 tags: [  ]

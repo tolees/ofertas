@@ -5,7 +5,7 @@ date: 2020-09-23 20:29:33
 image: 'https://m.media-amazon.com/images/I/31WCGZW-Y8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTK7LDY-es JACK & JONES JFWALBANY Leather STS Chukka Boots para...'
 sku: 'B07CTK7LDY-es'
 tags: [  ]

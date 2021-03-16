@@ -5,7 +5,7 @@ date: 2020-02-05 11:31:55
 image: 'https://m.media-amazon.com/images/I/510Hs+9eY6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B27FR4P-es Mr. Wonderful Woa08925es Neceser'
 sku: 'B07B27FR4P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 20:20:37
 image: 'https://m.media-amazon.com/images/I/41fnDFE-SPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZV4G9B-es HyAdierTech Almohadilla De Cuna Impermeable para Bebé...'
 sku: 'B07QZV4G9B-es'
 tags: [  ]

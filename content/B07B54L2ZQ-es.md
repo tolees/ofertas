@@ -5,7 +5,7 @@ date: 2020-04-05 07:45:26
 image: 'https://m.media-amazon.com/images/I/31qpiSRFmJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B54L2ZQ-es Astan Hogar Confort Plus Sillón Relax con Reclinación...'
 sku: 'B07B54L2ZQ-es'
 tags: [  ]

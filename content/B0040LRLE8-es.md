@@ -5,7 +5,7 @@ date: 2020-03-09 00:53:15
 image: 'https://m.media-amazon.com/images/I/41miMlSN3lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0040LRLE8-es Davines Authentic Fórmulas Cleansing Nectar C&C - 280 ml'
 sku: 'B0040LRLE8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 20:08:47
 image: 'https://m.media-amazon.com/images/I/419hTr9KB2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMMYH1V-es KIMISS RS3 Style Front Sport Hex Mesh Honeycomb Hood Grill...'
 sku: 'B07MMMYH1V-es'
 tags: [  ]

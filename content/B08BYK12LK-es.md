@@ -5,7 +5,7 @@ date: 2020-07-21 23:07:54
 image: 'https://m.media-amazon.com/images/I/51BARINazaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BYK12LK-es Limpiador de Oídos Limpia Cera Oidos Q grips Cera Oidos...'
 sku: 'B08BYK12LK-es'
 tags: [  ]

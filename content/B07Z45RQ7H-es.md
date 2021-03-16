@@ -5,7 +5,7 @@ date: 2020-02-13 22:59:30
 image: 'https://m.media-amazon.com/images/I/31dcAC7ca1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z45RQ7H-es Windows 10 Profesional 32/64 bits Mcrosoft | 100% garantía...'
 sku: 'B07Z45RQ7H-es'
 tags: [  ]

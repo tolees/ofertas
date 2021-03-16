@@ -5,7 +5,7 @@ date: 2020-07-01 13:31:20
 image: 'https://m.media-amazon.com/images/I/417ZWIMyvuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WP261BR-es adidas Stan Smith Zapatillas Unisex Niños Blanco Footwear...'
 sku: 'B06WP261BR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-14 12:03:05
 image: 'https://m.media-amazon.com/images/I/31cx9TDeqKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895PFFCL-es Molyflower Caja de conservación Blanca Fresca Caja de...'
 sku: 'B0895PFFCL-es'
 tags: [  ]

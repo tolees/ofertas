@@ -5,7 +5,7 @@ date: 2020-06-23 18:56:15
 image: 'https://m.media-amazon.com/images/I/51+jVbkGBPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZX76HJ-es Collares Mujer Colgante Corazón Plata 925 Rosa Colgante...'
 sku: 'B083ZX76HJ-es'
 tags: [  ]

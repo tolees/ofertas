@@ -5,7 +5,7 @@ date: 2020-06-22 10:16:17
 image: 'https://m.media-amazon.com/images/I/41sWS18gY7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ERS8CLO-es Joma Drive Bermuda Deporte Hombre Blanco 4XS-3XS'
 sku: 'B01ERS8CLO-es'
 tags: [  ]

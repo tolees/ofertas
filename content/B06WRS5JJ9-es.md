@@ -5,7 +5,7 @@ date: 2020-05-28 08:44:40
 image: 'https://m.media-amazon.com/images/I/41DcGriwGPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WRS5JJ9-es Corsair Force LE200 - Unidad de estado sólido de TLC NY...'
 sku: 'B06WRS5JJ9-es'
 tags: [  ]

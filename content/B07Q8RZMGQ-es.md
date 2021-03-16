@@ -5,7 +5,7 @@ date: 2020-02-13 20:03:11
 image: 'https://m.media-amazon.com/images/I/31IdUqiqvDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q8RZMGQ-es Xiaomi Soocas H3 Secador de cabello de secado rápido con...'
 sku: 'B07Q8RZMGQ-es'
 tags: [  ]

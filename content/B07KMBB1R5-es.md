@@ -5,7 +5,7 @@ date: 2020-08-20 11:56:27
 image: 'https://m.media-amazon.com/images/I/31TiV8MKqEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMBB1R5-es Merrell Bare Access XTR Zapatillas Deportivas para...'
 sku: 'B07KMBB1R5-es'
 tags: [  ]

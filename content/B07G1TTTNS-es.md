@@ -5,7 +5,7 @@ date: 2020-07-09 23:23:19
 image: 'https://m.media-amazon.com/images/I/41D1VreHexL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1TTTNS-es Torno de Uñas Profesional de 20000 RPM morpilot Kit...'
 sku: 'B07G1TTTNS-es'
 tags: [  ]

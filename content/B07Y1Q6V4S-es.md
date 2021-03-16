@@ -5,7 +5,7 @@ date: 2020-02-24 09:18:05
 image: 'https://m.media-amazon.com/images/I/31I9M0XfDBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1Q6V4S-es WateLves Leggings de yoga para mujer pantalones de deporte...'
 sku: 'B07Y1Q6V4S-es'
 tags: [  ]

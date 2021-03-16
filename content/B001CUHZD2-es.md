@@ -5,7 +5,7 @@ date: 2020-09-27 05:00:49
 image: 'https://m.media-amazon.com/images/I/31+78rjmLcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001CUHZD2-es MANN-FILTER W 719/30 Filtro de Aceite para automóviles y...'
 sku: 'B001CUHZD2-es'
 tags: [  ]

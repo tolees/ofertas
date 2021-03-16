@@ -5,7 +5,7 @@ date: 2020-06-28 18:42:31
 image: 'https://m.media-amazon.com/images/I/31btBdAQIzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKSG789-es Joma Academy Chandal Caballero Hombre Amarillo/Negro L'
 sku: 'B07FKSG789-es'
 tags: [  ]

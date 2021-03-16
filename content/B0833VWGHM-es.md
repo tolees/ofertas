@@ -5,7 +5,7 @@ date: 2020-02-12 07:47:22
 image: 'https://m.media-amazon.com/images/I/51mQSlm9-QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0833VWGHM-es Cudy AX3000 WiFi 6 Adaptador PCIe Tarjeta WiFi pc...'
 sku: 'B0833VWGHM-es'
 tags: [  ]

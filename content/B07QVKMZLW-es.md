@@ -5,7 +5,7 @@ date: 2020-04-05 13:07:47
 image: 'https://m.media-amazon.com/images/I/31D1175MIgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVKMZLW-es Receptor Bluetooth Jack 3.5 MM ieGeek Adaptador de Audio...'
 sku: 'B07QVKMZLW-es'
 tags: [  ]

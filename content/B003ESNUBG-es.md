@@ -5,7 +5,7 @@ date: 2020-09-20 15:01:37
 image: 'https://m.media-amazon.com/images/I/31fnId2lE5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ESNUBG-es Zeller 13145 - Cajón multiusos de madera blanda conífera...'
 sku: 'B003ESNUBG-es'
 tags: [  ]

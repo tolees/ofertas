@@ -5,7 +5,7 @@ date: 2020-03-13 13:17:02
 image: 'https://m.media-amazon.com/images/I/41gcHBBbzEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MPFCM5-es Chocolates Valor Chocolate Negro 70% con Naranja - 200 gr.'
 sku: 'B077MPFCM5-es'
 tags: [  ]

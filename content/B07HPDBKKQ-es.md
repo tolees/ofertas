@@ -5,7 +5,7 @@ date: 2020-07-26 13:30:21
 image: 'https://m.media-amazon.com/images/I/51EDX0DWF-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPDBKKQ-es Apple iPhone XS de 512GB - Oro'
 sku: 'B07HPDBKKQ-es'
 tags: [  ]

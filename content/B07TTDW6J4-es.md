@@ -5,7 +5,7 @@ date: 2020-09-29 20:24:50
 image: 'https://m.media-amazon.com/images/I/41G+Uvt1RPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTDW6J4-es Gant Leisha Zapatillas para Mujer Amarillo Light Yellow...'
 sku: 'B07TTDW6J4-es'
 tags: [  ]

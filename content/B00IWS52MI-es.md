@@ -5,7 +5,7 @@ date: 2020-06-21 09:01:15
 image: 'https://m.media-amazon.com/images/I/51pUWm4orDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IWS52MI-es Panasonic Eneloop SY3052630 - Pack 4 Pilas Recargables AA'
 sku: 'B00IWS52MI-es'
 tags: [  ]

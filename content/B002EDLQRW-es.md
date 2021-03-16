@@ -5,7 +5,7 @@ date: 2020-04-21 04:34:28
 image: 'https://m.media-amazon.com/images/I/41iMPRl5XOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002EDLQRW-es HP CE255A 55A Cartucho de Tóner Original 1 unidad negro'
 sku: 'B002EDLQRW-es'
 tags: [  ]

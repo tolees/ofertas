@@ -5,7 +5,7 @@ date: 2020-04-27 07:40:56
 image: 'https://m.media-amazon.com/images/I/317-m-l4qlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV66PSS-es Occitop Mujer Unisex No metálico'
 sku: 'B07MV66PSS-es'
 tags: [  ]

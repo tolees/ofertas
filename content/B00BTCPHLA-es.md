@@ -5,7 +5,7 @@ date: 2020-01-16 11:32:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51fSIIx7GNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BTCPHLA-es Samsung Flip - Funda para móvil Galaxy S4 Con tapa...'
 sku: 'B00BTCPHLA-es'
 tags: [  ]

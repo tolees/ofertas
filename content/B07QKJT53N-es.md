@@ -5,7 +5,7 @@ date: 2020-02-01 15:04:01
 image: 'https://m.media-amazon.com/images/I/41pf3JlmAHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKJT53N-es MS Windows 10 Pro 32 Bits y 64 Bits - Clave de Licencia...'
 sku: 'B07QKJT53N-es'
 tags: [  ]

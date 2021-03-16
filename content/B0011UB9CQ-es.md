@@ -5,7 +5,7 @@ date: 2020-09-27 15:19:21
 image: 'https://m.media-amazon.com/images/I/41zIDVYVMxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0011UB9CQ-es Beyerdynamic DT 990 PRO - Auriculares de Estudio'
 sku: 'B0011UB9CQ-es'
 tags: [  ]

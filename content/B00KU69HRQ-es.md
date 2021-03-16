@@ -5,7 +5,7 @@ date: 2020-08-12 06:51:55
 image: 'https://m.media-amazon.com/images/I/51oQ6j2WUEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KU69HRQ-es Prices Citronella Tealight Candles Mosquito Fly Insect...'
 sku: 'B00KU69HRQ-es'
 tags: [  ]

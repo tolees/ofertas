@@ -5,7 +5,7 @@ date: 2020-06-28 20:07:01
 image: 'https://m.media-amazon.com/images/I/31E+MldWHKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXZ7FXW-es Pepe Jeans Sloane Pantalones Azul Chatham Blue 586 Talla...'
 sku: 'B07RXZ7FXW-es'
 tags: [  ]

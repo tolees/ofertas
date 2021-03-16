@@ -5,7 +5,7 @@ date: 2020-08-05 15:18:01
 image: 'https://m.media-amazon.com/images/I/31RQSW24TPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GUZJIEC-es Adidas Stan Smith C Zapatillas Unisex Niños Blanco...'
 sku: 'B01GUZJIEC-es'
 tags: [  ]

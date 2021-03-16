@@ -5,7 +5,7 @@ date: 2020-05-07 20:19:27
 image: 'https://m.media-amazon.com/images/I/21Gk8MftK4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4FPPQB-es Lacoste Marice Bl 2 CAM Blk Zapatillas para Hombre Blanco...'
 sku: 'B01N4FPPQB-es'
 tags: [  ]

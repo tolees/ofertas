@@ -5,7 +5,7 @@ date: 2020-10-11 02:16:29
 image: 'https://m.media-amazon.com/images/I/413S7oG2oLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW5PBFV-es Skechers Women s SOLAR FUSE-BRISK ESCAPE Trainers Black...'
 sku: 'B07NW5PBFV-es'
 tags: [  ]

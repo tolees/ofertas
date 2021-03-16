@@ -5,7 +5,7 @@ date: 2020-02-01 06:50:31
 image: 'https://m.media-amazon.com/images/I/414jD6-Be8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F3PZVHI-es Ice-Watch - ICE duo Ombre orange - Reloj blu para Hombre...'
 sku: 'B01F3PZVHI-es'
 tags: [  ]

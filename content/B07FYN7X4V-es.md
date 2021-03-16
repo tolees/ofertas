@@ -5,7 +5,7 @@ date: 2020-04-22 11:29:50
 image: 'https://m.media-amazon.com/images/I/41iJIkt4yRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYN7X4V-es Bandolera Pepe Jeans Bromley Azul cruzada'
 sku: 'B07FYN7X4V-es'
 tags: [  ]

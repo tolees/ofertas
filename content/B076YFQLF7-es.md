@@ -5,7 +5,7 @@ date: 2020-09-26 11:09:27
 image: 'https://m.media-amazon.com/images/I/31xy+0JPr7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076YFQLF7-es Nilian chapado en plata'
 sku: 'B076YFQLF7-es'
 tags: [  ]

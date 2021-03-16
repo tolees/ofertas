@@ -5,7 +5,7 @@ date: 2020-07-12 19:41:24
 image: 'https://m.media-amazon.com/images/I/51YU7SeXg8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRYM5TR-es Amy & Benton Juego de Mini Dinosaurios 72 Piezas...'
 sku: 'B07SRYM5TR-es'
 tags: [  ]

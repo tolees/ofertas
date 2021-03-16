@@ -5,7 +5,7 @@ date: 2020-10-03 09:56:13
 image: 'https://m.media-amazon.com/images/I/313km80T57L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XPBPW1-es Under Armour Enduro Pant Pantalones Hombre Negro...'
 sku: 'B077XPBPW1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-16 23:09:35
 image: 'https://m.media-amazon.com/images/I/41u1N891QKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ21WYX-es New Balance 997H Core Zapatillas para Hombre Plateado...'
 sku: 'B07DJ21WYX-es'
 tags: [  ]

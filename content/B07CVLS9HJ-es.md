@@ -5,7 +5,7 @@ date: 2020-09-03 07:30:57
 image: 'https://m.media-amazon.com/images/I/4119lI0vo5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVLS9HJ-es Brunoko Plato para bebe con babero Azul - Plato Silicona...'
 sku: 'B07CVLS9HJ-es'
 tags: [  ]

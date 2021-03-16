@@ -5,7 +5,7 @@ date: 2020-04-14 09:09:50
 image: 'https://m.media-amazon.com/images/I/41SISDUiLiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084V3GQ8J-es BatPower A1527 Bateria de Laptop para Apple Early 2015...'
 sku: 'B084V3GQ8J-es'
 tags: [  ]

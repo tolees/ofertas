@@ -5,7 +5,7 @@ date: 2020-03-06 10:54:10
 image: 'https://m.media-amazon.com/images/I/51T5V9BEgnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073R4MBLS-es BILLABONG All Day Gorro Hombre Gris Grey Heather U'
 sku: 'B073R4MBLS-es'
 tags: [  ]

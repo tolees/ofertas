@@ -5,7 +5,7 @@ date: 2020-09-11 21:40:33
 image: 'https://m.media-amazon.com/images/I/516vsMtQhyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLLD8N7-es TECKEPIC Fitness Tracker Color Screen Activity Tracker...'
 sku: 'B07JLLD8N7-es'
 tags: [  ]

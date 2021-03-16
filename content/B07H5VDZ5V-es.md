@@ -5,7 +5,7 @@ date: 2020-01-18 06:19:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41el5-aK8RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5VDZ5V-es Skechers Flex Appeal 3.0 Zapatillas para Mujer Negro Black...'
 sku: 'B07H5VDZ5V-es'
 tags: [  ]

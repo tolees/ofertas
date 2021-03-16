@@ -5,7 +5,7 @@ date: 2020-10-01 06:25:11
 image: 'https://m.media-amazon.com/images/I/518TnJaAO6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006C0QMHM-es Spidi Z140-016 Warrior EVO Protección de Espalda para Moto...'
 sku: 'B006C0QMHM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-22 07:37:35
 image: 'https://m.media-amazon.com/images/I/31GO7ZP3vlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DH9XJY4-es Victoria Mercedes Terciopelo Bailarinas con Punta Cerrada...'
 sku: 'B01DH9XJY4-es'
 tags: [  ]

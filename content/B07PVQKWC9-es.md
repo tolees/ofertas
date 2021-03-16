@@ -5,7 +5,7 @@ date: 2020-06-01 11:50:01
 image: 'https://m.media-amazon.com/images/I/41JUzdcS0vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVQKWC9-es Under Armour Women s Tribase Edge Trainer Hallenschuhe...'
 sku: 'B07PVQKWC9-es'
 tags: [  ]

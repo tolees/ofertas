@@ -5,7 +5,7 @@ date: 2020-06-27 10:46:59
 image: 'https://m.media-amazon.com/images/I/4191fgrrFtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JRJXHQ-es Carcasa Funda Llave Remoto Mando 2 Botones para Opel...'
 sku: 'B076JRJXHQ-es'
 tags: [  ]

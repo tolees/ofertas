@@ -5,7 +5,7 @@ date: 2020-01-17 13:29:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61B5fFpZRuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCQLPHY-es MINI BOX Mini van Maped Creativ 907017'
 sku: 'B07KCQLPHY-es'
 tags: [  ]

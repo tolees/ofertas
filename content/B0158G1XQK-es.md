@@ -5,7 +5,7 @@ date: 2020-05-01 17:15:25
 image: 'https://m.media-amazon.com/images/I/41bzelMQVEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0158G1XQK-es Cluse Reloj Analógico Automático para Mujer con Correa de...'
 sku: 'B0158G1XQK-es'
 tags: [  ]

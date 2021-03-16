@@ -5,7 +5,7 @@ date: 2020-06-28 16:32:02
 image: 'https://m.media-amazon.com/images/I/41HvTJH8W8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6PN1S2-es Lemnoi Cámaras A3 y Fuente de Alimentación del Panel Solar'
 sku: 'B07P6PN1S2-es'
 tags: [  ]

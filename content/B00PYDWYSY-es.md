@@ -5,7 +5,7 @@ date: 2020-08-18 06:38:20
 image: 'https://m.media-amazon.com/images/I/419G6zWttPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PYDWYSY-es Nike MD Runner 2 Zapatillas para Hombre Midnight...'
 sku: 'B00PYDWYSY-es'
 tags: [  ]

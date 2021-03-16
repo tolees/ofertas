@@ -5,7 +5,7 @@ date: 2020-10-09 06:58:35
 image: 'https://m.media-amazon.com/images/I/41iiN312l2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6VX5CT-es Eastpak SPRINGER Riñonera 23 cm 2 L Gris Nep Whale'
 sku: 'B07X6VX5CT-es'
 tags: [  ]

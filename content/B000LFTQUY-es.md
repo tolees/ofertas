@@ -5,7 +5,7 @@ date: 2020-03-23 17:08:34
 image: 'https://m.media-amazon.com/images/I/21hhInFiFZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LFTQUY-es Silverline WR40 Llave Inglesa Ajustable Longitud 300 mm...'
 sku: 'B000LFTQUY-es'
 tags: [  ]

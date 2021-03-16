@@ -5,7 +5,7 @@ date: 2020-07-08 15:18:29
 image: 'https://m.media-amazon.com/images/I/41ktO9ASw2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8NF2F2-es Beikell Corrector de Postura Corrector de Postura Espalda...'
 sku: 'B07W8NF2F2-es'
 tags: [  ]

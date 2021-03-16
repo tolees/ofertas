@@ -5,7 +5,7 @@ date: 2020-09-16 12:46:00
 image: 'https://m.media-amazon.com/images/I/51BXKY-9FkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRX7NFV-es Lomogo Funda Huawei Y5 2019 / Honor 8S Cartera Funda de...'
 sku: 'B07WRX7NFV-es'
 tags: [  ]

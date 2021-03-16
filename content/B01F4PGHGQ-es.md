@@ -5,7 +5,7 @@ date: 2020-02-15 02:17:02
 image: 'https://m.media-amazon.com/images/I/41I6V6yjaiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F4PGHGQ-es XP-Pen G430S Tableta Gráfica 4x3 Pulgadas Tableta de Dibujo'
 sku: 'B01F4PGHGQ-es'
 tags: [  ]

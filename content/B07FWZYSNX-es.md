@@ -5,7 +5,7 @@ date: 2020-08-31 14:10:26
 image: 'https://m.media-amazon.com/images/I/41E94PeIhNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FWZYSNX-es Bosch Professional GLI 18V-2200 C Foco de obra 2200...'
 sku: 'B07FWZYSNX-es'
 tags: [  ]

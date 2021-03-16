@@ -5,7 +5,7 @@ date: 2020-08-22 08:09:11
 image: 'https://m.media-amazon.com/images/I/41901Y3IlXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLJCCGW-es Smartphone Oferta del día Ofertas móviles 3 GB RAM 32 GB...'
 sku: 'B08BLJCCGW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 08:17:31
 image: 'https://m.media-amazon.com/images/I/31j335HeREL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BYKU536-es Got2b - Espuma Twisted Rizos Perfectos - 3 unidades de...'
 sku: 'B01BYKU536-es'
 tags: [  ]

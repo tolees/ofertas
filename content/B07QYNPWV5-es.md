@@ -5,7 +5,7 @@ date: 2020-09-07 17:24:44
 image: 'https://m.media-amazon.com/images/I/41iB1+MxI+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QYNPWV5-es Speedo Minnie Placement con Espalda en U Bañador Mujer...'
 sku: 'B07QYNPWV5-es'
 tags: [  ]

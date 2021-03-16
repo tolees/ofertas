@@ -5,7 +5,7 @@ date: 2020-10-01 12:40:18
 image: 'https://m.media-amazon.com/images/I/61i6pBrRvsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0895Y7NLY-es GREAT ART set de 2 posters XXL – Nueva York Graffiti -...'
 sku: 'B0895Y7NLY-es'
 tags: [  ]

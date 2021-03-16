@@ -5,7 +5,7 @@ date: 2020-03-19 07:25:38
 image: 'https://m.media-amazon.com/images/I/41tbuc-VrWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYLN8H1-es HP Pavilion 15-cw0001ns - Ordenador Portátil 15.6" FullHD...'
 sku: 'B07DYLN8H1-es'
 tags: [  ]

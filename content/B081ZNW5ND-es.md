@@ -5,7 +5,7 @@ date: 2020-09-15 11:34:40
 image: 'https://m.media-amazon.com/images/I/415iRYx61aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081ZNW5ND-es Roll para Joyería GIKPAL joyas rollo de bolsa organizador...'
 sku: 'B081ZNW5ND-es'
 tags: [  ]

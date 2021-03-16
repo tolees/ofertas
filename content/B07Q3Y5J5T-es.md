@@ -5,7 +5,7 @@ date: 2020-01-19 23:00:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AAghiKhYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3Y5J5T-es DataOcean 2 Piezas USB 2.0 64GB Memorias USB PenDrives...'
 sku: 'B07Q3Y5J5T-es'
 tags: [  ]

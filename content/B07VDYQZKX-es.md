@@ -5,7 +5,7 @@ date: 2020-05-21 17:52:29
 image: 'https://m.media-amazon.com/images/I/3147AJYmK0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDYQZKX-es Tommy Hilfiger Adan Leather 3.5 Cinturón Marrón Testa Di...'
 sku: 'B07VDYQZKX-es'
 tags: [  ]

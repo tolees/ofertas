@@ -5,7 +5,7 @@ date: 2020-01-10 09:30:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41r%2Bkuj58JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076SDS2MD-es Bose SoundSport Free - Auriculares intraurales...'
 sku: 'B076SDS2MD-es'
 tags: [  ]

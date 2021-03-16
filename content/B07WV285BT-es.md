@@ -5,7 +5,7 @@ date: 2020-09-03 09:48:36
 image: 'https://m.media-amazon.com/images/I/5118pQOMXtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WV285BT-es Gricol Portarrollos para Papel Higiénico Porta Rollos con...'
 sku: 'B07WV285BT-es'
 tags: [  ]

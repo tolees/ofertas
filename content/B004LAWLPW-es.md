@@ -5,7 +5,7 @@ date: 2020-07-30 06:15:10
 image: 'https://m.media-amazon.com/images/I/41TlR9EsaiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004LAWLPW-es Logitech K120 Teclado con Cable Business para Windows...'
 sku: 'B004LAWLPW-es'
 tags: [  ]

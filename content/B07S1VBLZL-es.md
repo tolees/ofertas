@@ -5,7 +5,7 @@ date: 2020-10-05 18:55:12
 image: 'https://m.media-amazon.com/images/I/51OisVvNfxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1VBLZL-es Wangel Toallero Barra Fijar Sin Taladro Porta Toallas Baño...'
 sku: 'B07S1VBLZL-es'
 tags: [  ]

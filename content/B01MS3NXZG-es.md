@@ -5,7 +5,7 @@ date: 2020-07-10 17:00:05
 image: 'https://m.media-amazon.com/images/I/41mKVIdKqYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MS3NXZG-es Reebok Club C 85 Zapatillas Deportivas para Interior...'
 sku: 'B01MS3NXZG-es'
 tags: [  ]

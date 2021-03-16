@@ -5,7 +5,7 @@ date: 2020-03-24 00:56:00
 image: 'https://m.media-amazon.com/images/I/41KBJ7Q1qfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1CDKHF-es ghd curve classic curl - Tenacilla profesional con barril...'
 sku: 'B07G1CDKHF-es'
 tags: [  ]

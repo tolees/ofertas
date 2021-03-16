@@ -5,7 +5,7 @@ date: 2020-08-09 07:16:28
 image: 'https://m.media-amazon.com/images/I/31YC46I6iZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ8LZJT-es Cámara Web de 1 Pieza Cámara Web Full HD 480P Cámara de...'
 sku: 'B08DJ8LZJT-es'
 tags: [  ]

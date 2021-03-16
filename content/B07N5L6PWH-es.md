@@ -5,7 +5,7 @@ date: 2020-06-08 14:47:58
 image: 'https://m.media-amazon.com/images/I/41vq+4YQECL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5L6PWH-es Banpresto Blood of Saiyans Dragon Ball Estatua Super...'
 sku: 'B07N5L6PWH-es'
 tags: [  ]

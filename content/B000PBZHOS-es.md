@@ -5,7 +5,7 @@ date: 2020-04-05 03:30:55
 image: 'https://m.media-amazon.com/images/I/410SCRwy2ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000PBZHOS-es Wilton Gomas para Mangas pasteleras 12 Unidades Morado...'
 sku: 'B000PBZHOS-es'
 tags: [  ]

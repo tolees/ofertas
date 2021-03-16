@@ -5,7 +5,7 @@ date: 2020-06-06 18:28:56
 image: 'https://m.media-amazon.com/images/I/4115fr5-a6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJF954N-es Asics Fujitrabuco Pro Running Shoe Womens Metropolis/Black...'
 sku: 'B07SJF954N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-24 16:01:48
 image: 'https://m.media-amazon.com/images/I/51SmUR+ZWFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7NJQ8Y-es ZHENROG EMS Masajeador de Pie Estimulador de Pie...'
 sku: 'B07Z7NJQ8Y-es'
 tags: [  ]

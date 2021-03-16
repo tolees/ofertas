@@ -5,7 +5,7 @@ date: 2020-06-12 13:16:46
 image: 'https://m.media-amazon.com/images/I/414Sf1kcSsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCNFDQS-es Tommee Tippee Juguete transpirable Jiggy la Jirafa'
 sku: 'B07GCNFDQS-es'
 tags: [  ]

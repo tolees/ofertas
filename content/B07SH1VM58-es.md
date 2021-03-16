@@ -5,7 +5,7 @@ date: 2020-06-23 00:57:11
 image: 'https://m.media-amazon.com/images/I/31QfYQE+JFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SH1VM58-es Levi s Woodward L Zapatillas para Hombre Blanco R White 51...'
 sku: 'B07SH1VM58-es'
 tags: [  ]

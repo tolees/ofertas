@@ -5,7 +5,7 @@ date: 2020-02-09 20:34:14
 image: 'https://m.media-amazon.com/images/I/31VzPsWgp-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XU8KKUE-es Burberry My Burberry Edt Vapo 90 Ml 1 Unidad 90 g'
 sku: 'B00XU8KKUE-es'
 tags: [  ]

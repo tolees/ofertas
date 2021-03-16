@@ -5,7 +5,7 @@ date: 2020-08-12 23:17:45
 image: 'https://m.media-amazon.com/images/I/514XUD128IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4PRCQ4-es WinArrow Cabezal Ducha Filtro Vitamina C Iones KDF55...'
 sku: 'B07V4PRCQ4-es'
 tags: [  ]

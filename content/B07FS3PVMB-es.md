@@ -5,7 +5,7 @@ date: 2020-07-13 17:11:05
 image: 'https://m.media-amazon.com/images/I/41K3nVk2iXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FS3PVMB-es TOMALL Funda de Repuesto para Fitbit Zip Clip Sujetador...'
 sku: 'B07FS3PVMB-es'
 tags: [  ]

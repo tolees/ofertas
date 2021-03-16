@@ -5,7 +5,7 @@ date: 2020-10-03 04:21:10
 image: 'https://m.media-amazon.com/images/I/41JrBG9t8WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4GMP2W-es Reloj Viceroy Hombre 42367-16 Colección Antonio Banderas'
 sku: 'B07K4GMP2W-es'
 tags: [  ]

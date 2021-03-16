@@ -5,7 +5,7 @@ date: 2020-04-19 08:43:48
 image: 'https://m.media-amazon.com/images/I/41KW-+Wq22L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F0RD2TY-es SHIMANO BR-9000 R55C4 Zapatas Sueltas Unisex Adulto...'
 sku: 'B00F0RD2TY-es'
 tags: [  ]

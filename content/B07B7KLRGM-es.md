@@ -5,7 +5,7 @@ date: 2020-06-11 14:29:17
 image: 'https://m.media-amazon.com/images/I/61JOa+ZcjoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B7KLRGM-es Huarisi Brazilian Deep Wave With Frontal Free Part 3...'
 sku: 'B07B7KLRGM-es'
 tags: [  ]

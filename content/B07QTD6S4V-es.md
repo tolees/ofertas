@@ -5,7 +5,7 @@ date: 2020-08-12 09:39:51
 image: 'https://m.media-amazon.com/images/I/416Wj8zl3QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTD6S4V-es Funko- Pop Star Wars The Rise of Skywalker-PoE Dameron...'
 sku: 'B07QTD6S4V-es'
 tags: [  ]

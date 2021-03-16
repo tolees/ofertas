@@ -5,7 +5,7 @@ date: 2020-07-05 05:50:46
 image: 'https://m.media-amazon.com/images/I/31fMwcJvQEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SL2YV12-es adidas SPT 3s Short Pantalones Cortos de Deporte Hombre...'
 sku: 'B07SL2YV12-es'
 tags: [  ]

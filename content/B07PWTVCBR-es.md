@@ -5,7 +5,7 @@ date: 2020-01-23 11:24:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416v2ZqQ6dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWTVCBR-es Crema para los ojos reduce las arrugas y las arrugas...'
 sku: 'B07PWTVCBR-es'
 tags: [  ]

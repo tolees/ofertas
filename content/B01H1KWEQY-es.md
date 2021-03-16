@@ -5,7 +5,7 @@ date: 2020-07-15 15:03:53
 image: 'https://m.media-amazon.com/images/I/411bzfGzE8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H1KWEQY-es Michael Kors Pendiente MK6176'
 sku: 'B01H1KWEQY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-10 18:36:24
 image: 'https://m.media-amazon.com/images/I/51JeGNpYNjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LIZ9N90-es YAZILIND Hoja diseño Ancho Brazalete Pulsera Mujer Oro Joyas'
 sku: 'B00LIZ9N90-es'
 tags: [  ]

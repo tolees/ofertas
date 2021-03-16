@@ -5,7 +5,7 @@ date: 2020-06-01 17:42:36
 image: 'https://m.media-amazon.com/images/I/31bVNiBylGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JX767SP-es 6800mAh 14.4V Capacidad de la batería Ni-MH para iRobot...'
 sku: 'B07JX767SP-es'
 tags: [  ]

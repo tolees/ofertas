@@ -5,7 +5,7 @@ date: 2020-01-12 12:41:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51m%2BQSuYUWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BH0WW5W-es S&R 25 Discos de corte 125 Metal y Acero INOX .Set de 25...'
 sku: 'B01BH0WW5W-es'
 tags: [  ]

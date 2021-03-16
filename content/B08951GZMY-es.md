@@ -5,7 +5,7 @@ date: 2020-08-08 08:03:42
 image: 'https://m.media-amazon.com/images/I/31vHS5H8cQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08951GZMY-es Disco de Almacenamiento USB 2.0 Disco Flash Disco U de...'
 sku: 'B08951GZMY-es'
 tags: [  ]

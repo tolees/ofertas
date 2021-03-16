@@ -5,7 +5,7 @@ date: 2020-06-15 09:09:36
 image: 'https://m.media-amazon.com/images/I/41PYz6rjwvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9TVQ82-es HyperX Pulsefire Surge Ratón para Juegos Rgb 1 Negro'
 sku: 'B07B9TVQ82-es'
 tags: [  ]

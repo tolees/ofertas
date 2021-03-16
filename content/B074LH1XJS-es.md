@@ -5,7 +5,7 @@ date: 2020-07-20 19:02:45
 image: 'https://m.media-amazon.com/images/I/51kbYmONHeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074LH1XJS-es ecuphar SE506061 Orozyme Tiras Dentífricas S'
 sku: 'B074LH1XJS-es'
 tags: [  ]

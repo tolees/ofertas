@@ -5,7 +5,7 @@ date: 2020-06-15 13:04:20
 image: 'https://m.media-amazon.com/images/I/41HCqEKk5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGHM7DQ-es Oral-B Smart 4 4000N CrossAction - Cepillo Eléctrico 1...'
 sku: 'B07DGHM7DQ-es'
 tags: [  ]

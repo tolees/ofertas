@@ -5,7 +5,7 @@ date: 2020-04-04 11:48:50
 image: 'https://m.media-amazon.com/images/I/41pAjsKJpxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TB1LY83-es Puma Vikky Stacked L Zapatillas para Mujer Black White 40 EU'
 sku: 'B07TB1LY83-es'
 tags: [  ]

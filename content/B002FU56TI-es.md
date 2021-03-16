@@ -5,7 +5,7 @@ date: 2020-10-02 21:40:13
 image: 'https://m.media-amazon.com/images/I/41TqoSX3L4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002FU56TI-es Rubies - Disfraz infantil de bruja color púrpura 1-2 años...'
 sku: 'B002FU56TI-es'
 tags: [  ]

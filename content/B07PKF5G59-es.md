@@ -5,7 +5,7 @@ date: 2020-05-14 11:35:41
 image: 'https://m.media-amazon.com/images/I/41P2GhphsUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PKF5G59-es Wenko 23615100 Vetro-Dispensador de jabón líquido...'
 sku: 'B07PKF5G59-es'
 tags: [  ]

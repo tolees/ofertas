@@ -5,7 +5,7 @@ date: 2020-02-20 16:42:24
 image: 'https://m.media-amazon.com/images/I/41ZKQ+3JBEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017B9KBWO-es Bresser FlipMe Despertador radio controlado - blanco'
 sku: 'B017B9KBWO-es'
 tags: [  ]

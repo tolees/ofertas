@@ -5,7 +5,7 @@ date: 2020-09-21 13:29:10
 image: 'https://m.media-amazon.com/images/I/411Bjd-ZcJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZOKJVAG-es Parasol Kinder Fluff 4 x - El único parasol certificado de...'
 sku: 'B00ZOKJVAG-es'
 tags: [  ]

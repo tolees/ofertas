@@ -5,7 +5,7 @@ date: 2020-03-21 11:02:22
 image: 'https://m.media-amazon.com/images/I/41fxUqyDUaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG5LSQ7-es PUMA Tarrenz SB Puretex Zapatillas Unisex Adulto Moss...'
 sku: 'B07KG5LSQ7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 08:47:24
 image: 'https://m.media-amazon.com/images/I/31bBKE8dXzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WVB2HRD-es Princess 201852 Exprimidor Champion Juicer – Brazo de...'
 sku: 'B06WVB2HRD-es'
 tags: [  ]

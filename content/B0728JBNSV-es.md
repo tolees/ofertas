@@ -5,7 +5,7 @@ date: 2020-10-01 05:47:28
 image: 'https://m.media-amazon.com/images/I/417h5k+EcAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0728JBNSV-es Aigostar Protector 33JHG - Radiador de aceite portátil 13...'
 sku: 'B0728JBNSV-es'
 tags: [  ]

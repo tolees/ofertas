@@ -5,7 +5,7 @@ date: 2020-07-16 18:13:33
 image: 'https://m.media-amazon.com/images/I/41yLp9RCU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGXF4PT-es Vans Herren Colorblock Tee T - Shirt Schwarz...'
 sku: 'B06WGXF4PT-es'
 tags: [  ]

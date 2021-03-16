@@ -5,7 +5,7 @@ date: 2020-04-20 17:58:05
 image: 'https://m.media-amazon.com/images/I/31vRAQHpQ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPHGJW4-es Jack & Jones Jcopolar Sweat Half Zip Capucha Verde Forest...'
 sku: 'B07XPHGJW4-es'
 tags: [  ]

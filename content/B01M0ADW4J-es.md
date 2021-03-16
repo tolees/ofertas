@@ -5,7 +5,7 @@ date: 2020-08-18 11:37:30
 image: 'https://m.media-amazon.com/images/I/318wknTaHKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0ADW4J-es Brabantia Newicon Cubo de Basura con Pedal Acero...'
 sku: 'B01M0ADW4J-es'
 tags: [  ]

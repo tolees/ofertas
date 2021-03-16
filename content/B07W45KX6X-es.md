@@ -5,7 +5,7 @@ date: 2020-02-20 04:04:45
 image: 'https://m.media-amazon.com/images/I/41ze-PjHSQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W45KX6X-es Funko- Huckleberry-Pop 10 Collectible Toy Multicolor 45542'
 sku: 'B07W45KX6X-es'
 tags: [  ]

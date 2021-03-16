@@ -5,7 +5,7 @@ date: 2020-02-24 10:03:34
 image: 'https://m.media-amazon.com/images/I/51wZjDhpS9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCLMGL3-es MVPOWER Bolsas de Basura de Jardín Set de 3pcs x 300L Gran...'
 sku: 'B07GCLMGL3-es'
 tags: [  ]

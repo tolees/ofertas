@@ -5,7 +5,7 @@ date: 2020-03-11 02:35:09
 image: 'https://m.media-amazon.com/images/I/51QE6aJurvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVBFGWN-es BRIKSMAX Kit de Iluminación Led para Lego Apollo 11 Lunar...'
 sku: 'B07WVBFGWN-es'
 tags: [  ]

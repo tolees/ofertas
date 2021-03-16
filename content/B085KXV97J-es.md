@@ -5,7 +5,7 @@ date: 2020-09-01 16:46:44
 image: 'https://m.media-amazon.com/images/I/51hnMIxYrqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085KXV97J-es AETKFO Guirnalda Luces Exterior Cadena de Luces G40...'
 sku: 'B085KXV97J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-19 13:24:01
 image: 'https://m.media-amazon.com/images/I/41fpSE6D2wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN7XF1U-es Instituto Español Gel de Baño y Ducha 10% Urea para Piel...'
 sku: 'B00BN7XF1U-es'
 tags: [  ]

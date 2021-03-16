@@ -5,7 +5,7 @@ date: 2020-02-05 16:34:19
 image: 'https://m.media-amazon.com/images/I/51cqa7ObwxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZTDFRN-es PartyWoo Globos Oro Rosas Globos 44 Unidades de Globos...'
 sku: 'B07KZTDFRN-es'
 tags: [  ]

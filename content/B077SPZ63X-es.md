@@ -5,7 +5,7 @@ date: 2020-04-16 12:23:21
 image: 'https://m.media-amazon.com/images/I/31cqSC-lF9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SPZ63X-es Puma Liga Casuals Shorts Pantalones Cortos Hombre Negro...'
 sku: 'B077SPZ63X-es'
 tags: [  ]

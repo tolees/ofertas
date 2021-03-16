@@ -5,7 +5,7 @@ date: 2020-04-16 00:02:15
 image: 'https://m.media-amazon.com/images/I/51MZPz5OlLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4VVZF1-es Frcolor 3D Slices Nails Art Stickers Rueda de arcilla...'
 sku: 'B07L4VVZF1-es'
 tags: [  ]

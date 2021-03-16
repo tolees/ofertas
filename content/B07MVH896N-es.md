@@ -5,7 +5,7 @@ date: 2020-04-07 11:43:32
 image: 'https://m.media-amazon.com/images/I/41rcPxlvMkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVH896N-es Kipling Women s KI4219 3 x Wallet Grey Grey NIGHT GREY BL N85'
 sku: 'B07MVH896N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-21 10:51:22
 image: 'https://m.media-amazon.com/images/I/41MdJr2NZCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TW2S4YG-es ALDO Preilia Zapatillas para Hombre Marrón Rust 221 44 EU'
 sku: 'B07TW2S4YG-es'
 tags: [  ]

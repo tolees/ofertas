@@ -5,7 +5,7 @@ date: 2020-08-05 10:39:43
 image: 'https://m.media-amazon.com/images/I/51A+prC+1PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPSYW4R-es Pop! Vinilo: Spider-Man Far from Home: Molten Man'
 sku: 'B07KPSYW4R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 03:18:13
 image: 'https://m.media-amazon.com/images/I/51sXKrVq7dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVJ3QLQ-es Kaisi Kit Herramienta movil Destornillador Apertura de...'
 sku: 'B07NVJ3QLQ-es'
 tags: [  ]

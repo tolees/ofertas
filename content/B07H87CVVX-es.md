@@ -5,7 +5,7 @@ date: 2020-01-26 11:02:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41enVlXIJCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H87CVVX-es Amplificador WiFi Repetidor Extensor de Red WiFi Punto de...'
 sku: 'B07H87CVVX-es'
 tags: [  ]

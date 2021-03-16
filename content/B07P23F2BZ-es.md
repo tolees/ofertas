@@ -5,7 +5,7 @@ date: 2020-02-15 00:10:11
 image: 'https://m.media-amazon.com/images/I/41Eo3Wl7TJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P23F2BZ-es Skechers Energy-brunkz Zapatillas para Hombre Blanco White...'
 sku: 'B07P23F2BZ-es'
 tags: [  ]

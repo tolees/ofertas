@@ -5,7 +5,7 @@ date: 2020-07-18 18:16:07
 image: 'https://m.media-amazon.com/images/I/41tF1nVi-gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SJ6YVX-es Stretch 06575 Elastigirl - Figura de acción'
 sku: 'B079SJ6YVX-es'
 tags: [  ]

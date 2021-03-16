@@ -5,7 +5,7 @@ date: 2020-05-25 16:53:49
 image: 'https://m.media-amazon.com/images/I/31sBOthettL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8ZGCQW-es L Oreal Paris Men Expert Hydra Sensitive Gel de Ducha...'
 sku: 'B07V8ZGCQW-es'
 tags: [  ]

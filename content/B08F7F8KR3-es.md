@@ -5,7 +5,7 @@ date: 2020-09-08 09:08:19
 image: 'https://m.media-amazon.com/images/I/41H766ZcQZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F7F8KR3-es Lepeuxi Maquina de Gofres Mini Waffle Maker Máquina de...'
 sku: 'B08F7F8KR3-es'
 tags: [  ]

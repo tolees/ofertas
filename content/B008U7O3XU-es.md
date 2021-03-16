@@ -5,7 +5,7 @@ date: 2020-02-10 17:27:58
 image: 'https://m.media-amazon.com/images/I/41TF7A4OTTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008U7O3XU-es Rubbies - Disfraz de Thor para hombre talla L 880946STD'
 sku: 'B008U7O3XU-es'
 tags: [  ]

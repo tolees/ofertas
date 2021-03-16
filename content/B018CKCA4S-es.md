@@ -5,7 +5,7 @@ date: 2020-06-27 13:04:38
 image: 'https://m.media-amazon.com/images/I/41TyXea29SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018CKCA4S-es Cambiador Portátil de Pañales para Bebé - Kit Cambiador de...'
 sku: 'B018CKCA4S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 06:20:26
 image: 'https://m.media-amazon.com/images/I/41+5J66QHoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KT5X6Z5-es Cámara de Video Digital HD-100 Full HD 1080P Pantalla TFT...'
 sku: 'B07KT5X6Z5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-12 14:08:34
 image: 'https://m.media-amazon.com/images/I/41SoUB7iXhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008FX5VSK-es Magefesa Black Sartén 18 cm de acero esmaltado...'
 sku: 'B008FX5VSK-es'
 tags: [  ]

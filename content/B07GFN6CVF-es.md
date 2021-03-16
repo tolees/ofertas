@@ -5,7 +5,7 @@ date: 2020-06-05 16:17:10
 image: 'https://m.media-amazon.com/images/I/41PpwEHzHOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFN6CVF-es AMD 2950X Ryzen ThreadRipper - Procesador 4.4 GHz y Cache...'
 sku: 'B07GFN6CVF-es'
 tags: [  ]

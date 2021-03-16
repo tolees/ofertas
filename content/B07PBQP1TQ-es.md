@@ -5,7 +5,7 @@ date: 2020-09-17 18:31:53
 image: 'https://m.media-amazon.com/images/I/41dfwHx9KAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBQP1TQ-es 100pcs Bola de Vidrio Guijarro de Mármol Color Sólido...'
 sku: 'B07PBQP1TQ-es'
 tags: [  ]

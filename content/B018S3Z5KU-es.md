@@ -5,7 +5,7 @@ date: 2020-01-14 18:59:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41O9wfjdCSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018S3Z5KU-es Hill s HPD Feline Metabolic - 4 kg'
 sku: 'B018S3Z5KU-es'
 tags: [  ]

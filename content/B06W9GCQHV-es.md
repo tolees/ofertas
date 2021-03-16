@@ -5,7 +5,7 @@ date: 2020-08-05 07:22:03
 image: 'https://m.media-amazon.com/images/I/51G++waDhVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9GCQHV-es Schleich - Quad con remolque y ranger - Con múltiples...'
 sku: 'B06W9GCQHV-es'
 tags: [  ]

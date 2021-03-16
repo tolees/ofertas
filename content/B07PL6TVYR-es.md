@@ -5,7 +5,7 @@ date: 2020-02-17 07:26:19
 image: 'https://m.media-amazon.com/images/I/31kIYvaxw8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PL6TVYR-es SikaWall 08 Fijador Imprimación para fijar superficies...'
 sku: 'B07PL6TVYR-es'
 tags: [  ]

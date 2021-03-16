@@ -5,7 +5,7 @@ date: 2020-07-20 14:23:04
 image: 'https://m.media-amazon.com/images/I/41QYt4-BfHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ9SDHV-es Levi s Original Batwing Azul Hm Patch Polo Dress Blues...'
 sku: 'B07TJ9SDHV-es'
 tags: [  ]

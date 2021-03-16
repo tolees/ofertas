@@ -5,7 +5,7 @@ date: 2020-07-21 15:02:51
 image: 'https://m.media-amazon.com/images/I/41DzhYKApvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003BU90CK-es Wolfcraft 4135000 4135000-1 cúter de Seguridad de plástico...'
 sku: 'B003BU90CK-es'
 tags: [  ]

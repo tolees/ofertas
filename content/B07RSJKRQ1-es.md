@@ -5,7 +5,7 @@ date: 2020-05-26 11:41:17
 image: 'https://m.media-amazon.com/images/I/41n3f1Vgx7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RSJKRQ1-es Kegel Kit de ejercicio de peso – 5 bolas de kegel para...'
 sku: 'B07RSJKRQ1-es'
 tags: [  ]

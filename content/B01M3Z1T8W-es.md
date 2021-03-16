@@ -5,7 +5,7 @@ date: 2020-04-04 11:09:34
 image: 'https://m.media-amazon.com/images/I/51JtRg-ayuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M3Z1T8W-es Skechers Energy Lights Entrenadores para Niñas Rosa Rose...'
 sku: 'B01M3Z1T8W-es'
 tags: [  ]

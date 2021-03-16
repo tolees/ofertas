@@ -5,7 +5,7 @@ date: 2020-05-20 10:55:55
 image: 'https://m.media-amazon.com/images/I/41IXjcWWMuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S31J3ZN-es BOSS Starfish Bañador para Hombre Negro Black Medium'
 sku: 'B07S31J3ZN-es'
 tags: [  ]

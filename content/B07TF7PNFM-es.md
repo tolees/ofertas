@@ -5,7 +5,7 @@ date: 2020-04-18 03:29:50
 image: 'https://m.media-amazon.com/images/I/51+qpkCvq4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TF7PNFM-es LIGHTAILING Conjunto de Luces Technic Chevrolet Corvette...'
 sku: 'B07TF7PNFM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 12:01:15
 image: 'https://m.media-amazon.com/images/I/513k-XvAMnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D7ZUTZ6-es Canon EF-M 11-22mm f/4-5.6 IS STM - Objetivo para Canon...'
 sku: 'B00D7ZUTZ6-es'
 tags: [  ]

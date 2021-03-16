@@ -5,7 +5,7 @@ date: 2020-02-29 16:59:50
 image: 'https://m.media-amazon.com/images/I/312ZTowYt5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDGL5WC-es Got2b - Perfume de cabello Ocean Vibe - 5 unidades de 75ml...'
 sku: 'B07SDGL5WC-es'
 tags: [  ]

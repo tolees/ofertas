@@ -5,7 +5,7 @@ date: 2020-05-05 17:40:43
 image: 'https://m.media-amazon.com/images/I/41QZ1HYAPfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0863SHCZ8-es Suhctup Transparente Funda Compatible con Huawei View 10...'
 sku: 'B0863SHCZ8-es'
 tags: [  ]

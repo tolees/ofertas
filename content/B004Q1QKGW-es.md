@@ -5,7 +5,7 @@ date: 2020-03-05 00:12:54
 image: 'https://m.media-amazon.com/images/I/41zsecLcqCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004Q1QKGW-es Kelo-Cote Gel de silicona para el tratamiento de cicatrices'
 sku: 'B004Q1QKGW-es'
 tags: [  ]

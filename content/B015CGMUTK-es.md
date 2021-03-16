@@ -5,7 +5,7 @@ date: 2020-01-03 15:26:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31GafUas7GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CGMUTK-es Calvin Klein Bari SLIM FIT FTC-Camisa Hombre Blanco WHITE...'
 sku: 'B015CGMUTK-es'
 tags: [  ]

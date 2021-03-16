@@ -5,7 +5,7 @@ date: 2020-02-17 13:55:14
 image: 'https://m.media-amazon.com/images/I/41JFLseYVqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018EMSYG2-es Silver HT 111932940199 - Mini Teclado Universal...'
 sku: 'B018EMSYG2-es'
 tags: [  ]

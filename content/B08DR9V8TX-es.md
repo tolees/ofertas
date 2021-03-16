@@ -5,7 +5,7 @@ date: 2020-08-26 10:57:45
 image: 'https://m.media-amazon.com/images/I/41+gJmjnYkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DR9V8TX-es Tarjeta de captura de video USB 2.0 HDMI Video HD 1080P...'
 sku: 'B08DR9V8TX-es'
 tags: [  ]

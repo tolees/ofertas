@@ -5,7 +5,7 @@ date: 2020-04-11 08:45:27
 image: 'https://m.media-amazon.com/images/I/51Fl0-iHmhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9A4XFF-es Castillo de Princesa-Sonyabecca Castillo de Tienda de...'
 sku: 'B01M9A4XFF-es'
 tags: [  ]

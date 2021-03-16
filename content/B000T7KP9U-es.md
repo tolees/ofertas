@@ -5,7 +5,7 @@ date: 2020-08-15 09:30:36
 image: 'https://m.media-amazon.com/images/I/513aQAIFYDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000T7KP9U-es Finder serie 40 - Rele mini reticulado 5mm conmutado 16a...'
 sku: 'B000T7KP9U-es'
 tags: [  ]

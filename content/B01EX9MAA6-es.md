@@ -5,7 +5,7 @@ date: 2020-07-18 06:11:17
 image: 'https://m.media-amazon.com/images/I/31DDvxO7--L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EX9MAA6-es LEDKIA LIGHTING Lámpara Colgante Jagger Negro'
 sku: 'B01EX9MAA6-es'
 tags: [  ]

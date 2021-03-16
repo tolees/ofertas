@@ -5,7 +5,7 @@ date: 2020-10-11 09:48:56
 image: 'https://m.media-amazon.com/images/I/31zAorLr7lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XD4S19N-es Calvin Klein Top Hoodie Full Zip Capucha Negro Black 001...'
 sku: 'B06XD4S19N-es'
 tags: [  ]

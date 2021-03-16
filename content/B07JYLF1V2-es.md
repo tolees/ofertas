@@ -5,7 +5,7 @@ date: 2020-03-19 05:52:57
 image: 'https://m.media-amazon.com/images/I/41wq8oQ8g+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYLF1V2-es Tommy Hilfiger 1985 Straight Mmst Jeans Azul Denim 911 95...'
 sku: 'B07JYLF1V2-es'
 tags: [  ]

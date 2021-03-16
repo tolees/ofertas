@@ -5,7 +5,7 @@ date: 2020-08-23 03:53:21
 image: 'https://m.media-amazon.com/images/I/41kYwB58fpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDGQ2QG-es Uniky Cortador de Verdura 4 en 1【2020 La última versión】...'
 sku: 'B08CDGQ2QG-es'
 tags: [  ]

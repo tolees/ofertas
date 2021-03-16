@@ -5,7 +5,7 @@ date: 2020-09-07 13:57:35
 image: 'https://m.media-amazon.com/images/I/51w0Cqv+x9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXSFWHY-es LolaPix Cartera Personalizada con tu Foto/Diseño/Texto....'
 sku: 'B07YXSFWHY-es'
 tags: [  ]

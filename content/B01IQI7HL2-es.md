@@ -5,7 +5,7 @@ date: 2020-04-16 07:08:26
 image: 'https://m.media-amazon.com/images/I/41gYDhOJv0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IQI7HL2-es Osprey Tempest 20 Women s Hiking Pack - Mystic Magenta WS/WM'
 sku: 'B01IQI7HL2-es'
 tags: [  ]

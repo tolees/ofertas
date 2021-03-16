@@ -5,7 +5,7 @@ date: 2020-10-03 08:26:41
 image: 'https://m.media-amazon.com/images/I/51sJnf0NVcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J46ZDZC-es Khomo - Funda Universal con Cremallera para Tablet Negro...'
 sku: 'B01J46ZDZC-es'
 tags: [  ]

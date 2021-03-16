@@ -5,7 +5,7 @@ date: 2020-08-20 07:25:57
 image: 'https://m.media-amazon.com/images/I/51C0hDgaA2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B65YH2F-es Bolsa de maquillaje Tpocean neceser portátil para viajar...'
 sku: 'B07B65YH2F-es'
 tags: [  ]

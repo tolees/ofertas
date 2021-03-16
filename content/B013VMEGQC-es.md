@@ -5,7 +5,7 @@ date: 2020-06-28 18:01:12
 image: 'https://m.media-amazon.com/images/I/41MPGJqez4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013VMEGQC-es Volcom Frickin Modern Stret Pantalones Hombre Azul Dark...'
 sku: 'B013VMEGQC-es'
 tags: [  ]

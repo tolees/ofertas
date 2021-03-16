@@ -5,7 +5,7 @@ date: 2020-10-06 19:27:03
 image: 'https://m.media-amazon.com/images/I/41hUNL0W2XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XQ1W2C8-es VTech-80-196622 Suave muñeca interactiva para abrazar al...'
 sku: 'B06XQ1W2C8-es'
 tags: [  ]

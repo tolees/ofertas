@@ -5,7 +5,7 @@ date: 2020-01-22 21:12:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51RBX9TvvXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPG512Q-es Ride 3'
 sku: 'B07DPG512Q-es'
 tags: [  ]

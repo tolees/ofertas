@@ -5,7 +5,7 @@ date: 2020-09-01 14:47:41
 image: 'https://m.media-amazon.com/images/I/21yTuZhApsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FDTK4SU-es LEDKIA LIGHTING Baliza Augusta'
 sku: 'B01FDTK4SU-es'
 tags: [  ]

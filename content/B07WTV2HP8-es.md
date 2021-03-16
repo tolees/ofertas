@@ -5,7 +5,7 @@ date: 2020-06-01 21:22:12
 image: 'https://m.media-amazon.com/images/I/41suiqxzPHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTV2HP8-es J.Endéar Letra Inicial A-Z Alfabeto Pulsera de Piedras...'
 sku: 'B07WTV2HP8-es'
 tags: [  ]

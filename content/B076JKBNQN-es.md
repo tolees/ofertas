@@ -5,7 +5,7 @@ date: 2020-03-25 12:54:46
 image: 'https://m.media-amazon.com/images/I/31PoNkDm5nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JKBNQN-es Astor Soft Sentation Color & Care Barra de Labios color 405'
 sku: 'B076JKBNQN-es'
 tags: [  ]

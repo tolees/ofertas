@@ -5,7 +5,7 @@ date: 2020-05-17 09:48:52
 image: 'https://m.media-amazon.com/images/I/31AJiYmE2vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9XW0II-es Philips Sonicare AirFloss HX8432/03 - Irrigador dental...'
 sku: 'B01N9XW0II-es'
 tags: [  ]

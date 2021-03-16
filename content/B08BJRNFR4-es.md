@@ -5,7 +5,7 @@ date: 2020-08-23 03:08:32
 image: 'https://m.media-amazon.com/images/I/51TW8Qwo67L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJRNFR4-es RuiDaXiang Casa de muñecas baño con Muebles iluminación...'
 sku: 'B08BJRNFR4-es'
 tags: [  ]

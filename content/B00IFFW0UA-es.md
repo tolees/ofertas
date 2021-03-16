@@ -5,7 +5,7 @@ date: 2020-07-16 10:59:30
 image: 'https://m.media-amazon.com/images/I/41thrn+EdWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IFFW0UA-es dcasa - Mesa cuadrado plegable blanca 48x48x65 cm'
 sku: 'B00IFFW0UA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-25 16:02:51
 image: 'https://m.media-amazon.com/images/I/41FvWal-NJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M15SYY-es Suhctup Funda Compatible con Xiaomi Redmi Note 6...'
 sku: 'B088M15SYY-es'
 tags: [  ]

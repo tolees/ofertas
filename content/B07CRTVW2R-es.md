@@ -5,7 +5,7 @@ date: 2020-10-09 08:50:24
 image: 'https://m.media-amazon.com/images/I/41AYL91TpcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CRTVW2R-es Philips Sonicare ProtectiveClean 4300 HX6809/34 Pack Doble...'
 sku: 'B07CRTVW2R-es'
 tags: [  ]

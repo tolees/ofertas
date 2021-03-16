@@ -5,7 +5,7 @@ date: 2020-09-15 16:41:34
 image: 'https://m.media-amazon.com/images/I/41rcNsQMNCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KGCO1M-es Pyrex Classic Vidrio - Cazuela redonda con tapa 2.1 l 25 x...'
 sku: 'B000KGCO1M-es'
 tags: [  ]

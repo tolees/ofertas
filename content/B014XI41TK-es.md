@@ -5,7 +5,7 @@ date: 2020-02-12 14:53:29
 image: 'https://m.media-amazon.com/images/I/31NWCIkS08L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014XI41TK-es Silky - Leggings de uso diario para mujer Mediana M /Negro'
 sku: 'B014XI41TK-es'
 tags: [  ]

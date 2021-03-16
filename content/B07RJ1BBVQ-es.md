@@ -5,7 +5,7 @@ date: 2020-04-02 16:34:28
 image: 'https://m.media-amazon.com/images/I/31uLLrVywaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ1BBVQ-es Nike Pico 5 PSV Zapatillas de Tenis Unisex Niños Blanco...'
 sku: 'B07RJ1BBVQ-es'
 tags: [  ]

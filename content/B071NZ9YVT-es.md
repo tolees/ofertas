@@ -5,7 +5,7 @@ date: 2020-09-19 17:18:09
 image: 'https://m.media-amazon.com/images/I/51147NHt2pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NZ9YVT-es PUMA Iconic Racer Back Bra 1P Ropa Interior Mujer Gris...'
 sku: 'B071NZ9YVT-es'
 tags: [  ]

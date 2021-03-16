@@ -5,7 +5,7 @@ date: 2020-08-12 16:31:26
 image: 'https://m.media-amazon.com/images/I/411axG2wlfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BYKTMXJ-es LNIEGE Aspirador Motor del Cepillo de carbón...'
 sku: 'B08BYKTMXJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-06 13:47:42
 image: 'https://m.media-amazon.com/images/I/41b557RuTAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RFR1R7-es Pioneer SX-10AE-B - Receptor de Audio Color Negro'
 sku: 'B075RFR1R7-es'
 tags: [  ]

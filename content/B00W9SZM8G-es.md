@@ -5,7 +5,7 @@ date: 2020-06-13 20:20:54
 image: 'https://m.media-amazon.com/images/I/51frUpj4ERL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W9SZM8G-es Calvin Klein Radiant Cotton-Bikini Lencería Negro Black...'
 sku: 'B00W9SZM8G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-06 23:39:32
 image: 'https://m.media-amazon.com/images/I/51bZ9QmIJbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTPNGJC-es Alminatur Papilla de Multicereales con Plátano a Partir de...'
 sku: 'B07CTPNGJC-es'
 tags: [  ]

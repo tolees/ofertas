@@ -5,7 +5,7 @@ date: 2020-08-23 18:46:03
 image: 'https://m.media-amazon.com/images/I/41QNQ1PPAML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DY3TSBT-es Unknow 16 sq ft rojoParque Juegos Bebe con Malla...'
 sku: 'B08DY3TSBT-es'
 tags: [  ]

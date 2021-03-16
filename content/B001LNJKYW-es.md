@@ -5,7 +5,7 @@ date: 2020-01-06 05:37:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31MKP2Ua0yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001LNJKYW-es Samsung MLT-D2082L/ELS - Tóner AC SCX-5635FN/5835FN color...'
 sku: 'B001LNJKYW-es'
 tags: [  ]

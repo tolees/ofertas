@@ -5,7 +5,7 @@ date: 2020-05-19 13:42:29
 image: 'https://m.media-amazon.com/images/I/31-be+Z6I9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTRQBG8-es Emporio Armani Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07CTRQBG8-es'
 tags: [  ]

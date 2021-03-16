@@ -5,7 +5,7 @@ date: 2020-06-04 10:21:00
 image: 'https://m.media-amazon.com/images/I/51ffsl6HW3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YMGT4B4-es TW Steel Reloj Analógico para Unisex de Cuarzo con Correa...'
 sku: 'B00YMGT4B4-es'
 tags: [  ]

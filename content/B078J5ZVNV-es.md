@@ -5,7 +5,7 @@ date: 2020-06-29 15:27:19
 image: 'https://m.media-amazon.com/images/I/41n-Q3gqG9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078J5ZVNV-es Fossil Reloj Híbrido para Mujer de Connected con Correa en...'
 sku: 'B078J5ZVNV-es'
 tags: [  ]

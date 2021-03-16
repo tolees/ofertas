@@ -5,7 +5,7 @@ date: 2020-08-14 17:32:17
 image: 'https://m.media-amazon.com/images/I/41Sy0hUl2ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CHG51ZC-es HUHUDAY Abrelatas Herramienta De Barra para Abridor De...'
 sku: 'B08CHG51ZC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 22:28:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NpL1ot0sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJGZCQR-es Pop! Stranger Things S2 - Figura de Vinilo Eleven Snowball...'
 sku: 'B07HJGZCQR-es'
 tags: [  ]

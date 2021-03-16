@@ -5,7 +5,7 @@ date: 2020-10-01 06:57:05
 image: 'https://m.media-amazon.com/images/I/410zCEpibVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001DCHTZS-es ZEFAL Doomap Soporte Portamapas Al Manillar Unisex Adulto...'
 sku: 'B001DCHTZS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-13 14:03:37
 image: 'https://m.media-amazon.com/images/I/41mdiOXyjPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C56XDRW-es Candados Combinación LEADSTAR 2 x Candado TSA Equipaje de...'
 sku: 'B07C56XDRW-es'
 tags: [  ]

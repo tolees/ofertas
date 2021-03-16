@@ -5,7 +5,7 @@ date: 2020-04-15 15:07:56
 image: 'https://m.media-amazon.com/images/I/41QZ1HYAPfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0863SRK5J-es Suhctup Transparente Funda Compatible con Huawei P20 Pro...'
 sku: 'B0863SRK5J-es'
 tags: [  ]

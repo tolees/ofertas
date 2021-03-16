@@ -5,7 +5,7 @@ date: 2020-03-31 14:49:36
 image: 'https://m.media-amazon.com/images/I/41l-2jEpWIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2MMMXW-es adidas Runfalcon Zapatillas de Running para Mujer Negro...'
 sku: 'B07K2MMMXW-es'
 tags: [  ]

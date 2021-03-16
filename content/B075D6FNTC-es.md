@@ -5,7 +5,7 @@ date: 2020-03-11 07:15:24
 image: 'https://m.media-amazon.com/images/I/31nmLx4dFeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075D6FNTC-es EIS Lubricante Deluxe Aqua sandía efecto de larga duración...'
 sku: 'B075D6FNTC-es'
 tags: [  ]

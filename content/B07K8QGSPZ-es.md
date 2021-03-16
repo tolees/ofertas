@@ -5,7 +5,7 @@ date: 2020-02-15 08:20:53
 image: 'https://m.media-amazon.com/images/I/41yDWXNkuIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8QGSPZ-es Disney Pijamas de Manga Larga para niños The Incredibles...'
 sku: 'B07K8QGSPZ-es'
 tags: [  ]

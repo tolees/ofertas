@@ -5,7 +5,7 @@ date: 2020-07-14 20:15:59
 image: 'https://m.media-amazon.com/images/I/41tsK9S3vXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NYYXPR-es DOHUI Funda Samsung Galaxy S20 5G UW 2 en 1 Robusta...'
 sku: 'B089NYYXPR-es'
 tags: [  ]

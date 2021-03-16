@@ -5,7 +5,7 @@ date: 2020-02-01 12:25:21
 image: 'https://m.media-amazon.com/images/I/41yB0Mv4S8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ3JZL5-es Iams refrigerios para gatos liofilizados sin granos...'
 sku: 'B07TZ3JZL5-es'
 tags: [  ]

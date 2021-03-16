@@ -5,7 +5,7 @@ date: 2020-03-20 13:34:15
 image: 'https://m.media-amazon.com/images/I/31FVgXwgIxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJBR8VH-es Hackett Lambswool V suéter Navy 595 Small para Hombre'
 sku: 'B07MJBR8VH-es'
 tags: [  ]

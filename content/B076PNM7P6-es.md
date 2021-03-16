@@ -5,7 +5,7 @@ date: 2020-09-05 15:03:56
 image: 'https://m.media-amazon.com/images/I/51Xupcf4cVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PNM7P6-es Firefighters: The Simulation'
 sku: 'B076PNM7P6-es'
 tags: [  ]

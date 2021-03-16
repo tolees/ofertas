@@ -5,7 +5,7 @@ date: 2020-06-23 13:03:11
 image: 'https://m.media-amazon.com/images/I/41EpkiKlhaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z8XTD2J-es Reshias Funda LG K30 2019 Modelo Clear Cárcasa Silicona...'
 sku: 'B07Z8XTD2J-es'
 tags: [  ]

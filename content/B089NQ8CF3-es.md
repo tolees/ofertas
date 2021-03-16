@@ -5,7 +5,7 @@ date: 2020-07-13 14:26:05
 image: 'https://m.media-amazon.com/images/I/51ekVhVHX4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NQ8CF3-es Juguete Sorpresas De Joyería Azul Seguros Y Cómodos De 3...'
 sku: 'B089NQ8CF3-es'
 tags: [  ]

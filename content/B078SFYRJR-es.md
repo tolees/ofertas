@@ -5,7 +5,7 @@ date: 2020-10-03 09:42:26
 image: 'https://m.media-amazon.com/images/I/41C2UASWwqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SFYRJR-es Michael Kors Reloj Analogico para Unisex de Cuarzo con...'
 sku: 'B078SFYRJR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-08 13:07:22
 image: 'https://m.media-amazon.com/images/I/31oonqpVBKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTT6QGL-es Molyflower 1 PC Cámara Web HD 1080P Cámara de Video de...'
 sku: 'B08BTT6QGL-es'
 tags: [  ]

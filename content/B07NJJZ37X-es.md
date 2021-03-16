@@ -5,7 +5,7 @@ date: 2020-06-04 23:00:13
 image: 'https://m.media-amazon.com/images/I/41F9mNaINvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJJZ37X-es Steiff Jogginghose Pantalones de Deporte Azul Patriot Blue...'
 sku: 'B07NJJZ37X-es'
 tags: [  ]

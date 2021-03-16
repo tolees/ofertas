@@ -5,7 +5,7 @@ date: 2020-03-06 11:44:55
 image: 'https://m.media-amazon.com/images/I/41V9SW77vpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLJ7MR6-es Mochila vintage de cuero unisex | Hecho a mano | Mochila...'
 sku: 'B07QLJ7MR6-es'
 tags: [  ]

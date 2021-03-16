@@ -5,7 +5,7 @@ date: 2020-04-07 21:55:41
 image: 'https://m.media-amazon.com/images/I/41H5xDsXb9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VTQD4PF-es Zetiling Kids Mini Kitchen Toys Toy Kitchen Playset...'
 sku: 'B07VTQD4PF-es'
 tags: [  ]

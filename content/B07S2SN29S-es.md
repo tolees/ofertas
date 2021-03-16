@@ -5,7 +5,7 @@ date: 2020-06-24 09:14:40
 image: 'https://m.media-amazon.com/images/I/41yAY-lz0jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2SN29S-es New Balance 997H m Zapatillas para Mujer Morado Purple Haq...'
 sku: 'B07S2SN29S-es'
 tags: [  ]

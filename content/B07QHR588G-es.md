@@ -5,7 +5,7 @@ date: 2020-09-13 13:08:46
 image: 'https://m.media-amazon.com/images/I/415undk9g7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QHR588G-es NYX Professional Makeup Paleta de correctores y contouring...'
 sku: 'B07QHR588G-es'
 tags: [  ]

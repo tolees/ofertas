@@ -5,7 +5,7 @@ date: 2020-02-06 17:11:36
 image: 'https://m.media-amazon.com/images/I/51jsU4a4HUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2KZR1T-es Swiss Alpine Military by Grovana Hombre Reloj Chrono 10...'
 sku: 'B07C2KZR1T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 22:30:51
 image: 'https://m.media-amazon.com/images/I/41nYevUK+4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJ8X2BN-es Lixada Esterilla de Yoga Antideslizante TPE Insípido con...'
 sku: 'B07ZJ8X2BN-es'
 tags: [  ]

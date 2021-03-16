@@ -5,7 +5,7 @@ date: 2020-07-05 15:32:53
 image: 'https://m.media-amazon.com/images/I/51JgprHDzxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QJYM1K-es cuzit Durable modo de reloj para el entrenamiento regazo...'
 sku: 'B077QJYM1K-es'
 tags: [  ]

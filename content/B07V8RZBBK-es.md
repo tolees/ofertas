@@ -5,7 +5,7 @@ date: 2020-08-09 15:51:41
 image: 'https://m.media-amazon.com/images/I/51V6j4XzdzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8RZBBK-es ZIGJOY Strangers TV Unisex Students School Bookbags para...'
 sku: 'B07V8RZBBK-es'
 tags: [  ]

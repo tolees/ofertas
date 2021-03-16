@@ -5,7 +5,7 @@ date: 2020-07-22 11:43:55
 image: 'https://m.media-amazon.com/images/I/51WL5hiKXfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077V17MVK-es Kipling Creativity S Cartera para Mujer Marrón True Beige...'
 sku: 'B077V17MVK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-09 11:35:11
 image: 'https://m.media-amazon.com/images/I/41poOVUsWcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYF6M4-es PUMA Carina Lux SD Zapatillas Mujer Rosa Bridal Rose-Puma...'
 sku: 'B07KFYF6M4-es'
 tags: [  ]

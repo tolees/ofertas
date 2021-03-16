@@ -5,7 +5,7 @@ date: 2020-02-05 12:53:16
 image: 'https://m.media-amazon.com/images/I/41PCYVYUj0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBMRVGS-es Finocam Escribir Calendario de Pared 2020 L - 340 x 320 mm'
 sku: 'B07TBMRVGS-es'
 tags: [  ]

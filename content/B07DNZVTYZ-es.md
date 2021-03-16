@@ -5,7 +5,7 @@ date: 2020-01-03 16:17:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ODqi1tNqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNZVTYZ-es Eastpak STATION + Bolsa de viaje 62 cm 58 liters Negro Black'
 sku: 'B07DNZVTYZ-es'
 tags: [  ]

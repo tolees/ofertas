@@ -5,7 +5,7 @@ date: 2020-08-11 11:00:56
 image: 'https://m.media-amazon.com/images/I/21IS-EF54tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1ZWJLX-es Samsung - Funda de silicona para Galaxy Note 9 color...'
 sku: 'B07F1ZWJLX-es'
 tags: [  ]

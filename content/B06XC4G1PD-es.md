@@ -5,7 +5,7 @@ date: 2020-09-20 18:04:13
 image: 'https://m.media-amazon.com/images/I/51iWIRrvezL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XC4G1PD-es INJUSA – Moto África Twin de 6V Licenciada con Maletín...'
 sku: 'B06XC4G1PD-es'
 tags: [  ]

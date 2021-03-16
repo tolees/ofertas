@@ -5,7 +5,7 @@ date: 2020-09-27 00:59:34
 image: 'https://m.media-amazon.com/images/I/41BeBnMI4ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GX2PFL9-es 3 Pares Calcetines Running Para Hombre Mujer - Deporte...'
 sku: 'B08GX2PFL9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-26 16:03:24
 image: 'https://m.media-amazon.com/images/I/41geFRRRKJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GWK9BK-es Lente de Cámara de Seguridad 1080P 4mm M12 Lente de...'
 sku: 'B077GWK9BK-es'
 tags: [  ]

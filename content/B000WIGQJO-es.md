@@ -5,7 +5,7 @@ date: 2020-01-22 22:01:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31CIncSb-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WIGQJO-es Estee Lauder 50590 - Base de maquillaje'
 sku: 'B000WIGQJO-es'
 tags: [  ]

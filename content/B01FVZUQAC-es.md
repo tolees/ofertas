@@ -5,7 +5,7 @@ date: 2020-02-14 17:48:46
 image: 'https://m.media-amazon.com/images/I/31OssFqJHrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FVZUQAC-es Ice-Watch - ICE duo White sage - Reloj blu para Mujer con...'
 sku: 'B01FVZUQAC-es'
 tags: [  ]

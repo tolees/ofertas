@@ -5,7 +5,7 @@ date: 2020-04-03 08:01:59
 image: 'https://m.media-amazon.com/images/I/51IjhduZvLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJWZV9W-es Almohadilla Eléctrica Térmica 50 x 60 cm con Función de...'
 sku: 'B07JJWZV9W-es'
 tags: [  ]

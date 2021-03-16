@@ -5,7 +5,7 @@ date: 2020-05-26 13:42:42
 image: 'https://m.media-amazon.com/images/I/41LrhU1PUaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E0CE3G6-es S.Oliver Reloj Analógico de Cuarzo para Mujer con Correa...'
 sku: 'B00E0CE3G6-es'
 tags: [  ]

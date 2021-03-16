@@ -5,7 +5,7 @@ date: 2020-03-18 20:28:25
 image: 'https://m.media-amazon.com/images/I/41PYyT4ps3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQYKNLN-es Zapatillas New Balance GS574 Lifestyle Cordon 39'
 sku: 'B07BQYKNLN-es'
 tags: [  ]

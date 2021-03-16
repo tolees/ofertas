@@ -5,7 +5,7 @@ date: 2020-01-29 11:54:39
 image: 'https://m.media-amazon.com/images/I/4147Z7-E28L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQNRRHF-es KESOTO 3 Piezas Barril de Cerveza Modelo Accesorios de...'
 sku: 'B07KQNRRHF-es'
 tags: [  ]

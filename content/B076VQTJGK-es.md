@@ -5,7 +5,7 @@ date: 2020-04-14 17:02:34
 image: 'https://m.media-amazon.com/images/I/511ebPDV+eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VQTJGK-es Zelite Infinity Cuchillo de Trinchar 30 cm - Serie...'
 sku: 'B076VQTJGK-es'
 tags: [  ]

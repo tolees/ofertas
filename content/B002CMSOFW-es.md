@@ -5,7 +5,7 @@ date: 2020-02-18 04:41:10
 image: 'https://m.media-amazon.com/images/I/51xH+bZUeyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002CMSOFW-es Mantona Premium Funda para Cámara Reflex Correa para...'
 sku: 'B002CMSOFW-es'
 tags: [  ]

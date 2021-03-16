@@ -5,7 +5,7 @@ date: 2020-09-08 14:15:36
 image: 'https://m.media-amazon.com/images/I/41cJTr4WLmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HF5WGV4-es Dulceida Mucho Amor Velvet - Funda para portátil de 13"...'
 sku: 'B07HF5WGV4-es'
 tags: [  ]

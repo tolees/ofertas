@@ -5,7 +5,7 @@ date: 2020-04-23 05:02:47
 image: 'https://m.media-amazon.com/images/I/41wnxmeVw1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005FJSVV6-es Epson C13T70144010 - Cartucho de tinta amarillo'
 sku: 'B005FJSVV6-es'
 tags: [  ]

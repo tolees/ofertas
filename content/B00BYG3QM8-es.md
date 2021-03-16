@@ -5,7 +5,7 @@ date: 2020-08-30 16:40:41
 image: 'https://m.media-amazon.com/images/I/412i2XeQRbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BYG3QM8-es Nike T-Lite XI Zapatillas Hombre Negro Black 44'
 sku: 'B00BYG3QM8-es'
 tags: [  ]

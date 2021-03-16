@@ -5,7 +5,7 @@ date: 2020-06-29 20:26:49
 image: 'https://m.media-amazon.com/images/I/51nB4dVbO+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQCG6RJ-es Funda iPhone 11 Pro MAX Fundas 11Pro MAX Libro Carcasa...'
 sku: 'B07XQCG6RJ-es'
 tags: [  ]

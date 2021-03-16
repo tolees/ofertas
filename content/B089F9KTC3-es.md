@@ -5,7 +5,7 @@ date: 2020-09-26 16:31:28
 image: 'https://m.media-amazon.com/images/I/41P6uRDze0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089F9KTC3-es MagiDeal Mando A Distancia De Repuesto para 2 PCS Apto...'
 sku: 'B089F9KTC3-es'
 tags: [  ]

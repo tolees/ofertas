@@ -5,7 +5,7 @@ date: 2020-07-04 22:33:47
 image: 'https://m.media-amazon.com/images/I/4100eN9AziL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002QZN8JW-es Optimum Nutrition ON Platinum Hydro Whey Proteínas en...'
 sku: 'B002QZN8JW-es'
 tags: [  ]

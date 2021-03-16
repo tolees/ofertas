@@ -5,7 +5,7 @@ date: 2020-06-26 20:31:20
 image: 'https://m.media-amazon.com/images/I/418jzmQNfhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0714DHKPW-es Under Armour Ua Ultimate Speed Zapatillas de deporte...'
 sku: 'B0714DHKPW-es'
 tags: [  ]

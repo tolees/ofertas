@@ -5,7 +5,7 @@ date: 2020-10-01 13:15:54
 image: 'https://m.media-amazon.com/images/I/41oCkETjlnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G8BYYX5-es TRESEMMÉ champú liso keratina bote 700 ml'
 sku: 'B07G8BYYX5-es'
 tags: [  ]

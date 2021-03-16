@@ -5,7 +5,7 @@ date: 2020-01-03 12:11:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BmeulpbFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JIHQQ7Q-es Nuei Cosmetics Gel Oh Holy Mary Sliding - 100 ml'
 sku: 'B01JIHQQ7Q-es'
 tags: [  ]

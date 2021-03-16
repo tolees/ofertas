@@ -5,7 +5,7 @@ date: 2020-10-02 06:12:58
 image: 'https://m.media-amazon.com/images/I/41XSHm8Td+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZGYCN22-es Plastificadora A4 A5 A7 ABOX Pixseal II Máquina para...'
 sku: 'B07ZGYCN22-es'
 tags: [  ]

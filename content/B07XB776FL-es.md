@@ -5,7 +5,7 @@ date: 2020-01-07 18:19:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413aLCP15gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XB776FL-es QHOHQ Funda para Xiaomi Redmi Note 8 Pro Cases Silicona...'
 sku: 'B07XB776FL-es'
 tags: [  ]

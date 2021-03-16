@@ -5,7 +5,7 @@ date: 2020-09-06 12:12:59
 image: 'https://m.media-amazon.com/images/I/51wBrHml8iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT8SDQB-es Funko Vinyl: Rick & Morty: Squanchy 12444'
 sku: 'B01MT8SDQB-es'
 tags: [  ]

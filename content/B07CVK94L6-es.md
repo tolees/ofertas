@@ -5,7 +5,7 @@ date: 2020-02-26 07:54:44
 image: 'https://m.media-amazon.com/images/I/31ZfVQQnStL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVK94L6-es Porsche Design Bolsa de ordenador portátil 15? azul'
 sku: 'B07CVK94L6-es'
 tags: [  ]

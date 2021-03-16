@@ -5,7 +5,7 @@ date: 2020-03-22 12:02:42
 image: 'https://m.media-amazon.com/images/I/41mPewHIk8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000CCAQ0K-es Maxell 2347477'
 sku: 'B000CCAQ0K-es'
 tags: [  ]

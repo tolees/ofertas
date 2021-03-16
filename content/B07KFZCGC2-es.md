@@ -5,7 +5,7 @@ date: 2020-06-09 16:59:52
 image: 'https://m.media-amazon.com/images/I/31Vi4v+qIqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZCGC2-es PUMA King Pro IT Zapatillas de fútbol Unisex Adulto Negro...'
 sku: 'B07KFZCGC2-es'
 tags: [  ]

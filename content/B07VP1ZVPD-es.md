@@ -5,7 +5,7 @@ date: 2020-10-08 14:44:45
 image: 'https://m.media-amazon.com/images/I/41mOkerX9OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VP1ZVPD-es Skechers GO Walk Lite Zapatillas para Mujer Azul Marino...'
 sku: 'B07VP1ZVPD-es'
 tags: [  ]

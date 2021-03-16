@@ -5,7 +5,7 @@ date: 2020-07-07 07:31:45
 image: 'https://m.media-amazon.com/images/I/416ZSi1rXTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MZ2QJX-es Coleman - Nevera térmica rígida 16 QT Alto Rendimiento 15...'
 sku: 'B082MZ2QJX-es'
 tags: [  ]

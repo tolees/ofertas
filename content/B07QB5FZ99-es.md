@@ -5,7 +5,7 @@ date: 2020-01-23 20:01:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tE8drXl1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB5FZ99-es Lebze Muselina Manta Bebé -"Diseño de Zorro" Muselinas...'
 sku: 'B07QB5FZ99-es'
 tags: [  ]

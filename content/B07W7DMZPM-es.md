@@ -5,7 +5,7 @@ date: 2020-04-13 17:16:58
 image: 'https://m.media-amazon.com/images/I/41SF5Y2XbvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7DMZPM-es Ganchos para silla de ruedas Silla de ruedas Cochecito...'
 sku: 'B07W7DMZPM-es'
 tags: [  ]

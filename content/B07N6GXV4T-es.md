@@ -5,7 +5,7 @@ date: 2020-08-21 15:01:04
 image: 'https://m.media-amazon.com/images/I/41rjKctSdyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6GXV4T-es Homelody Tapa y AsientoTapadera WC Universal en Forma de U...'
 sku: 'B07N6GXV4T-es'
 tags: [  ]

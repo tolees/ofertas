@@ -5,7 +5,7 @@ date: 2020-04-30 14:37:44
 image: 'https://m.media-amazon.com/images/I/41P7nv+rvpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZY7DC7-es Skechers Metco-Parken Zapatillas para Hombre Gris Gray...'
 sku: 'B07NZY7DC7-es'
 tags: [  ]

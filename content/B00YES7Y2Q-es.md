@@ -5,7 +5,7 @@ date: 2020-05-27 23:20:22
 image: 'https://m.media-amazon.com/images/I/41NuHJEkecL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YES7Y2Q-es Calvin Klein Reloj Digital para Mujer de Cuarzo con Correa...'
 sku: 'B00YES7Y2Q-es'
 tags: [  ]

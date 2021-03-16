@@ -5,7 +5,7 @@ date: 2020-04-14 09:35:12
 image: 'https://m.media-amazon.com/images/I/41EwHppC5CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086SXX8D2-es ZHBRE Humidificador de 400 ml de Gran Capacidad Apagado...'
 sku: 'B086SXX8D2-es'
 tags: [  ]

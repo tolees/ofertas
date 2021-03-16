@@ -5,7 +5,7 @@ date: 2020-04-13 18:02:16
 image: 'https://m.media-amazon.com/images/I/41ATiqESUyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DG3LBZ-es EIS Lubricante Deluxe Aqua chocolate efecto de larga...'
 sku: 'B075DG3LBZ-es'
 tags: [  ]

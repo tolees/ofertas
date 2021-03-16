@@ -5,7 +5,7 @@ date: 2020-05-08 09:05:32
 image: 'https://m.media-amazon.com/images/I/51EtYohR29L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNDZKLQ-es SKYSPER 60L / 65L Mochila de Senderismo Impermeable...'
 sku: 'B07PNDZKLQ-es'
 tags: [  ]

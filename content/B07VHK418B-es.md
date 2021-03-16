@@ -5,7 +5,7 @@ date: 2020-04-18 08:33:26
 image: 'https://m.media-amazon.com/images/I/51ffm1CVq2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHK418B-es Cartucho de Tinta Original 912XL 825 páginas 21 7 ml'
 sku: 'B07VHK418B-es'
 tags: [  ]

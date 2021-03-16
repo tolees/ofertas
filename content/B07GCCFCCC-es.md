@@ -5,7 +5,7 @@ date: 2020-06-12 13:16:47
 image: 'https://m.media-amazon.com/images/I/41doyQTVN7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCCFCCC-es Tommee Tippee Juguete transpirable Betty el Conejo'
 sku: 'B07GCCFCCC-es'
 tags: [  ]

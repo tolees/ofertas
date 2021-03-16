@@ -5,7 +5,7 @@ date: 2020-08-15 02:15:12
 image: 'https://m.media-amazon.com/images/I/41U8o73ugIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YSQRYMR-es runya Teclado Numérico Inalámbrico 2.4G Mini 18 Teclas...'
 sku: 'B07YSQRYMR-es'
 tags: [  ]

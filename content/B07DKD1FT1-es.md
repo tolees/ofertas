@@ -5,7 +5,7 @@ date: 2020-04-26 18:31:49
 image: 'https://m.media-amazon.com/images/I/51wbLRVVjkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKD1FT1-es Energy Music Box 5+ Yall Edition Bluetooth 4.1 10 W...'
 sku: 'B07DKD1FT1-es'
 tags: [  ]

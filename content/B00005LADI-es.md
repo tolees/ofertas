@@ -5,7 +5,7 @@ date: 2020-08-16 23:03:19
 image: 'https://m.media-amazon.com/images/I/51pkdksn86L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00005LADI-es Hama Cubo Cartón 10000 Perlas'
 sku: 'B00005LADI-es'
 tags: [  ]

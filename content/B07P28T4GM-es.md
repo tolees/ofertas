@@ -5,7 +5,7 @@ date: 2020-02-26 02:26:12
 image: 'https://m.media-amazon.com/images/I/31ZPiT+OUML._SL500_._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P28T4GM-es Herbalgem Olivo - 30 gr'
 sku: 'B07P28T4GM-es'
 tags: [  ]

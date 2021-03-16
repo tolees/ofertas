@@ -5,7 +5,7 @@ date: 2020-03-01 19:02:28
 image: 'https://m.media-amazon.com/images/I/31pglwK3t8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0168IAEN0-es Beurer FC 76 - Exfoliador profesional de...'
 sku: 'B0168IAEN0-es'
 tags: [  ]

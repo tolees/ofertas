@@ -5,7 +5,7 @@ date: 2020-07-10 00:49:13
 image: 'https://m.media-amazon.com/images/I/41QXSKS+4QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ18KY8-es Master & Dynamic MW50+ - Auricular bluetooth color plata'
 sku: 'B07DJ18KY8-es'
 tags: [  ]

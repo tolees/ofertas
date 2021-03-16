@@ -5,7 +5,7 @@ date: 2020-08-13 17:33:44
 image: 'https://m.media-amazon.com/images/I/410w0suw8oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6MYHP2-es Hugo Boss-Boss The Scent for Her 3 productos 107 ml'
 sku: 'B07J6MYHP2-es'
 tags: [  ]

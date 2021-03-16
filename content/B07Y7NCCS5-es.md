@@ -5,7 +5,7 @@ date: 2020-03-10 22:32:34
 image: 'https://m.media-amazon.com/images/I/31+uGBknjiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7NCCS5-es MEDION AKOYA M80 - PCC964 Ordenador de sobremesa Intel...'
 sku: 'B07Y7NCCS5-es'
 tags: [  ]

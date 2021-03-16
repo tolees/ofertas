@@ -5,7 +5,7 @@ date: 2020-02-09 12:36:24
 image: 'https://m.media-amazon.com/images/I/51hk0eKTLTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XQMYHW-es FIRENZE ARTEGIANI.Cartera de Mujer Piel auténtica.Cartera...'
 sku: 'B073XQMYHW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 16:51:34
 image: 'https://m.media-amazon.com/images/I/51eDx1mv+dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A77J8HM-es iRobot HEPA Replensishment Kit de Recambios serie 700...'
 sku: 'B00A77J8HM-es'
 tags: [  ]

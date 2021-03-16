@@ -5,7 +5,7 @@ date: 2020-04-30 09:34:38
 image: 'https://m.media-amazon.com/images/I/51EE5dcNlKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EA5H0BW-es BaByliss AS81E - Cepillo de aire caliente 800 W cabezal...'
 sku: 'B01EA5H0BW-es'
 tags: [  ]

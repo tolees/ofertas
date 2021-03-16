@@ -5,7 +5,7 @@ date: 2020-05-30 13:45:21
 image: 'https://m.media-amazon.com/images/I/314uJ5bHNFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZNYFMM-es DURAGADGET Práctico Divisor De Auriculares para...'
 sku: 'B07CZNYFMM-es'
 tags: [  ]

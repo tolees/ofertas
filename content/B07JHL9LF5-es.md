@@ -5,7 +5,7 @@ date: 2020-03-12 19:59:02
 image: 'https://m.media-amazon.com/images/I/41AJ1em4wbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHL9LF5-es Columbia Nikiski 503 Botas Bajas para Mujer Rojo Rich Wine...'
 sku: 'B07JHL9LF5-es'
 tags: [  ]

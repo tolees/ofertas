@@ -5,7 +5,7 @@ date: 2020-01-22 12:19:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31AZVC7bTML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPM5C-es Napapijri TALY 2 LS Polo Azul BLU Marine 176 L para Hombre'
 sku: 'B07MCSPM5C-es'
 tags: [  ]

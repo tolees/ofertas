@@ -5,7 +5,7 @@ date: 2020-04-19 18:02:01
 image: 'https://m.media-amazon.com/images/I/41qPia0+TzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08724KNXX-es Mono de bebé Promini para bebé con texto en inglés "My...'
 sku: 'B08724KNXX-es'
 tags: [  ]

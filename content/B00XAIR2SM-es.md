@@ -5,7 +5,7 @@ date: 2020-06-30 15:59:07
 image: 'https://m.media-amazon.com/images/I/51PM2SZlBBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAIR2SM-es Aire De Sevilla Primavera Set de Regalo - 3 Piezas'
 sku: 'B00XAIR2SM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 09:40:12
 image: 'https://m.media-amazon.com/images/I/6156gEH-M6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BWH3Q2W-es deAO Soldados en Battalla Fuerzas Armadas Unidad de...'
 sku: 'B07BWH3Q2W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-08 18:30:32
 image: 'https://m.media-amazon.com/images/I/41BgHqXrz-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XM3VR5-es Targus Click-in - Funda para el iPad Pro de 10.5" Color...'
 sku: 'B071XM3VR5-es'
 tags: [  ]

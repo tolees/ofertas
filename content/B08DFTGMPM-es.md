@@ -5,7 +5,7 @@ date: 2020-08-05 08:45:25
 image: 'https://m.media-amazon.com/images/I/51T-KdxXVnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFTGMPM-es 50 colores 100 colores hilo de punto de cruz hilo de...'
 sku: 'B08DFTGMPM-es'
 tags: [  ]

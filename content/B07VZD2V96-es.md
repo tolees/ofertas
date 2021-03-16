@@ -5,7 +5,7 @@ date: 2020-01-09 14:23:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wdd6XjIoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZD2V96-es Cepillo Secador 1200W Abody 4 en 1 Cepillo Secador de Pelo...'
 sku: 'B07VZD2V96-es'
 tags: [  ]

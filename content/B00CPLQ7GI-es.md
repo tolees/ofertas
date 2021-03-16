@@ -5,7 +5,7 @@ date: 2020-06-01 13:23:49
 image: 'https://m.media-amazon.com/images/I/416anlzfQkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CPLQ7GI-es Objetivo Olympus M.Zuiko Digital 45 mm F1.8 longitud focal...'
 sku: 'B00CPLQ7GI-es'
 tags: [  ]

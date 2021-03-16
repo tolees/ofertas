@@ -5,7 +5,7 @@ date: 2020-04-02 11:45:34
 image: 'https://m.media-amazon.com/images/I/41ocSv4BXQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078S9DX9D-es Quemagrasas Natural Termogénico Adelgazante Fat Burner...'
 sku: 'B078S9DX9D-es'
 tags: [  ]

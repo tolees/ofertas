@@ -5,7 +5,7 @@ date: 2020-09-04 20:15:39
 image: 'https://m.media-amazon.com/images/I/41EY1FQqaWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PYAD51C-es SOTYA - SOTYA Carbonato de Magnesio Bote 180 gr'
 sku: 'B00PYAD51C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-19 11:52:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Zt3xbbW4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C1SJSC7-es Parker Jotter - Pluma estilográfica cuerpo de acero...'
 sku: 'B07C1SJSC7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-24 07:37:18
 image: 'https://m.media-amazon.com/images/I/31JAxKVxu3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H2J30HC-es Softee Equipment 0024103 Juego Pesas Verde S'
 sku: 'B00H2J30HC-es'
 tags: [  ]

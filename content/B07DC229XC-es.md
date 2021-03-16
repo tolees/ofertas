@@ -5,7 +5,7 @@ date: 2020-09-15 15:50:02
 image: 'https://m.media-amazon.com/images/I/41avL3BUXXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC229XC-es PUMA Vista Zapatillas Unisex-Adulto Azul Peacoat...'
 sku: 'B07DC229XC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 05:58:37
 image: 'https://m.media-amazon.com/images/I/51DhvKXcynL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4GWUWY-es San Ignacio PK332 Set Tres sartenes + Batería 5 Piezas +...'
 sku: 'B01N4GWUWY-es'
 tags: [  ]

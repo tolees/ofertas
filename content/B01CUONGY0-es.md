@@ -5,7 +5,7 @@ date: 2020-06-19 13:49:12
 image: 'https://m.media-amazon.com/images/I/31O0VSbvPnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CUONGY0-es Hoover TE-75 - Aspiradora 700 W A 27 kWh Aspiradora...'
 sku: 'B01CUONGY0-es'
 tags: [  ]

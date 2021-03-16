@@ -5,7 +5,7 @@ date: 2020-10-08 19:46:53
 image: 'https://m.media-amazon.com/images/I/3144mFOiT1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0001JZVEK-es D-Link DGS-1005D – Switch de red con 5 puertos Gigabit...'
 sku: 'B0001JZVEK-es'
 tags: [  ]

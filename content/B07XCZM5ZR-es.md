@@ -5,7 +5,7 @@ date: 2020-04-01 21:16:04
 image: 'https://m.media-amazon.com/images/I/512Tz8nNciL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCZM5ZR-es Bolsa de Lino con Cordón KATOOM 24pcs Bolsitas de Tela...'
 sku: 'B07XCZM5ZR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 03:45:44
 image: 'https://m.media-amazon.com/images/I/41oLyeGgnUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HRYF2F1-es Akuoly Juego de Tornillos M.2 SSD para M.2 SSD NVMe...'
 sku: 'B08HRYF2F1-es'
 tags: [  ]

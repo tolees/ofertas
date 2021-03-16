@@ -5,7 +5,7 @@ date: 2020-10-06 18:47:21
 image: 'https://m.media-amazon.com/images/I/41EfkaEMvVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824KT2PB-es BERGNER Gaming Chair con Sound System y Conexiones...'
 sku: 'B0824KT2PB-es'
 tags: [  ]

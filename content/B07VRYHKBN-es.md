@@ -5,7 +5,7 @@ date: 2020-08-22 08:42:32
 image: 'https://m.media-amazon.com/images/I/41Unut45QNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRYHKBN-es Calvin Klein Thong Tanga Negro Black 001 Talla del...'
 sku: 'B07VRYHKBN-es'
 tags: [  ]

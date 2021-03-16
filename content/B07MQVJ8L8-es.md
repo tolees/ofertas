@@ -5,7 +5,7 @@ date: 2020-02-01 02:04:50
 image: 'https://m.media-amazon.com/images/I/31sF0LpWTvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQVJ8L8-es Napapijri EISBERG Polo Rojo Red Scarlet R01 M para Hombre'
 sku: 'B07MQVJ8L8-es'
 tags: [  ]

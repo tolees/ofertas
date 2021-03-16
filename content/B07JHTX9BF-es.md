@@ -5,7 +5,7 @@ date: 2020-01-28 01:47:43
 image: 'https://m.media-amazon.com/images/I/414OPCSqgoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHTX9BF-es Liebeskind Berlin - Dive Bag Beltbag Bolsos bandolera...'
 sku: 'B07JHTX9BF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 13:03:26
 image: 'https://m.media-amazon.com/images/I/41Rs2HvThOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LLZKG7-es Sphero R2-D2 App-Enabled Droid de Sphero'
 sku: 'B071LLZKG7-es'
 tags: [  ]

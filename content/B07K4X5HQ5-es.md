@@ -5,7 +5,7 @@ date: 2020-04-07 13:27:54
 image: 'https://m.media-amazon.com/images/I/51uemCowffL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4X5HQ5-es Conjunto de luces Lightailing para Star Wars Quadjumper De...'
 sku: 'B07K4X5HQ5-es'
 tags: [  ]

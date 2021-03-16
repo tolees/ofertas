@@ -5,7 +5,7 @@ date: 2020-07-31 23:10:59
 image: 'https://m.media-amazon.com/images/I/41cyOVJiB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VFLZW1-es Recipientes para envasar al vacío Aicok Juego de...'
 sku: 'B076VFLZW1-es'
 tags: [  ]

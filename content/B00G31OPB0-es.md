@@ -5,7 +5,7 @@ date: 2020-03-31 02:56:21
 image: 'https://m.media-amazon.com/images/I/31cIx7L4CqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G31OPB0-es Kingston DTVP30/8GB - Memoria USB 3.0 de 8 GB'
 sku: 'B00G31OPB0-es'
 tags: [  ]

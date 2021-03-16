@@ -5,7 +5,7 @@ date: 2020-10-09 07:43:36
 image: 'https://m.media-amazon.com/images/I/41GXTW1jcNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFB55GD-es Cowboy Bebop - Pack 2 Figuras Funko Pop - Edward & Ein'
 sku: 'B07DFB55GD-es'
 tags: [  ]

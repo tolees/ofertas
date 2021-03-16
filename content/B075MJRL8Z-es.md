@@ -5,7 +5,7 @@ date: 2020-03-25 09:29:14
 image: 'https://m.media-amazon.com/images/I/315S6oFFdZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MJRL8Z-es Solac PV1651 Plancha de viaje Bi-tensión mango plegable...'
 sku: 'B075MJRL8Z-es'
 tags: [  ]

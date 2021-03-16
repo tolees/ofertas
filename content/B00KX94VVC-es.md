@@ -5,7 +5,7 @@ date: 2020-07-20 07:54:03
 image: 'https://m.media-amazon.com/images/I/41vqXwL6z+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KX94VVC-es Fossil Joyas para Mujer JA6539791'
 sku: 'B00KX94VVC-es'
 tags: [  ]

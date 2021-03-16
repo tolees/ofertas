@@ -5,7 +5,7 @@ date: 2020-02-23 11:52:51
 image: 'https://m.media-amazon.com/images/I/41-EgMIApAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7RH56K-es BOSS Passerby Polo Gris Light/Pastel Grey 051 XXX-Large...'
 sku: 'B07D7RH56K-es'
 tags: [  ]

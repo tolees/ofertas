@@ -5,7 +5,7 @@ date: 2020-02-16 21:40:42
 image: 'https://m.media-amazon.com/images/I/51g+Nldw5aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0753YSBXN-es Balvi chicletera American Dream Rojo Hucha y dispensador...'
 sku: 'B0753YSBXN-es'
 tags: [  ]

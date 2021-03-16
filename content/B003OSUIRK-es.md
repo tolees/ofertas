@@ -5,7 +5,7 @@ date: 2020-09-14 06:50:44
 image: 'https://m.media-amazon.com/images/I/31VhqKqZoIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003OSUIRK-es IEC 10a C14 3 Pines Chasis Panel Montar Clavija Pines...'
 sku: 'B003OSUIRK-es'
 tags: [  ]

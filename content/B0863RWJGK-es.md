@@ -5,7 +5,7 @@ date: 2020-04-19 17:43:04
 image: 'https://m.media-amazon.com/images/I/41dS+BT5eKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0863RWJGK-es Suhctup Transparente Funda Compatible con Xiaomi Redmi 8...'
 sku: 'B0863RWJGK-es'
 tags: [  ]

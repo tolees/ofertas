@@ -5,7 +5,7 @@ date: 2020-01-03 11:08:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/610zZuwABeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074TL4CGJ-es AmazonBasics - Balón medicinal 7 kg'
 sku: 'B074TL4CGJ-es'
 tags: [  ]

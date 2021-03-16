@@ -5,7 +5,7 @@ date: 2020-08-30 18:43:58
 image: 'https://m.media-amazon.com/images/I/31qLX9089yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZ6QG63-es Art Cambridge Botas Clasicas para Hombre Rojo Burdeos...'
 sku: 'B07NZ6QG63-es'
 tags: [  ]

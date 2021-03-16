@@ -5,7 +5,7 @@ date: 2020-04-17 07:36:52
 image: 'https://m.media-amazon.com/images/I/419zhCmyOaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GY9A2N6-es fascinations- Darth Vader s Tie Fighter Maqueta metálica...'
 sku: 'B00GY9A2N6-es'
 tags: [  ]

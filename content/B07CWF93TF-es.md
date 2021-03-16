@@ -5,7 +5,7 @@ date: 2020-04-10 16:30:29
 image: 'https://m.media-amazon.com/images/I/418wjKafelL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CWF93TF-es Gifts Treat Chica Gorra De Béisbol Primavera Verano...'
 sku: 'B07CWF93TF-es'
 tags: [  ]

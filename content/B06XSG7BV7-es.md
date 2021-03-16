@@ -5,7 +5,7 @@ date: 2020-04-09 06:01:49
 image: 'https://m.media-amazon.com/images/I/51GL24F-cRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSG7BV7-es Reloj Hugo Boss para Hombre 1513493'
 sku: 'B06XSG7BV7-es'
 tags: [  ]

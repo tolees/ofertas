@@ -5,7 +5,7 @@ date: 2020-01-20 11:37:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4166YxRBAjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SF90E4K-es G-STAR RAW Stean Tapered Jeans Azul dk aged 7056-89 30W /...'
 sku: 'B00SF90E4K-es'
 tags: [  ]

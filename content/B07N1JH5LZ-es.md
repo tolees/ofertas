@@ -5,7 +5,7 @@ date: 2020-04-15 06:28:57
 image: 'https://m.media-amazon.com/images/I/41t2i1G596L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JH5LZ-es Clarks Boot Botas Desert para Mujer Verde Khaki Suede...'
 sku: 'B07N1JH5LZ-es'
 tags: [  ]

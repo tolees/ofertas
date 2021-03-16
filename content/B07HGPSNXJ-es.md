@@ -5,7 +5,7 @@ date: 2020-02-25 13:34:13
 image: 'https://m.media-amazon.com/images/I/51E5+tJSpyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGPSNXJ-es UMI. Essentials Marco de Fotos 20 x 25 cm Set de 8 Negro'
 sku: 'B07HGPSNXJ-es'
 tags: [  ]

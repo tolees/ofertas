@@ -5,7 +5,7 @@ date: 2020-09-07 14:58:25
 image: 'https://m.media-amazon.com/images/I/41rFTQSmLcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFJBNRG-es Levi s Global Vulca-Low s Zapatillas para Mujer Negro R...'
 sku: 'B07SFJBNRG-es'
 tags: [  ]

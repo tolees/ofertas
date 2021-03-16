@@ -5,7 +5,7 @@ date: 2020-04-15 08:24:05
 image: 'https://m.media-amazon.com/images/I/41X6G6UCP6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LRUWAYU-es Hauck Shopper Neo II - Silla de paseo con respaldo...'
 sku: 'B01LRUWAYU-es'
 tags: [  ]

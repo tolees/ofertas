@@ -5,7 +5,7 @@ date: 2020-01-16 19:25:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31NXEjvS48L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2BCNQB-es Superdry Superstate Classic Polo Blanco Optic 01c X-Large...'
 sku: 'B07P2BCNQB-es'
 tags: [  ]

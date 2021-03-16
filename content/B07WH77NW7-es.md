@@ -5,7 +5,7 @@ date: 2020-04-25 18:04:05
 image: 'https://m.media-amazon.com/images/I/41sUaMcdqLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WH77NW7-es Artesania Cerda Deportiva Suela Ligera Avengers Capitan...'
 sku: 'B07WH77NW7-es'
 tags: [  ]

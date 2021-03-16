@@ -5,7 +5,7 @@ date: 2020-03-12 20:03:02
 image: 'https://m.media-amazon.com/images/I/31NfwsGVETL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZNL2X8-es Gioseppo 56776 Zapatillas Altas para Mujer Azul Marino...'
 sku: 'B07MZNL2X8-es'
 tags: [  ]

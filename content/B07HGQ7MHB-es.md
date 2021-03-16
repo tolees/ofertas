@@ -5,7 +5,7 @@ date: 2020-02-25 07:05:55
 image: 'https://m.media-amazon.com/images/I/51D3HdMtyVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGQ7MHB-es UMI. Essentials Marco de Fotos 15 x 10 cm Set de 12 Negro'
 sku: 'B07HGQ7MHB-es'
 tags: [  ]

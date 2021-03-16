@@ -5,7 +5,7 @@ date: 2020-01-22 16:38:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MOGCfnaRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CDZCPQ-es ENKEEO - 23x103.5cm Longboard Monopatín con Rodamiento de...'
 sku: 'B076CDZCPQ-es'
 tags: [  ]

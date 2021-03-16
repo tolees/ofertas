@@ -5,7 +5,7 @@ date: 2020-01-09 15:36:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31eoNSVYe8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG5K8H5-es PUMA Smash v2 L V PS Zapatillas Unisex Niños Peacoat...'
 sku: 'B07KG5K8H5-es'
 tags: [  ]

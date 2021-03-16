@@ -5,7 +5,7 @@ date: 2020-06-04 01:13:29
 image: 'https://m.media-amazon.com/images/I/51unYbdKY2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVHT78V-es Kipling - Art Nc Bolsos maletín Mujer Naranja Funky Orange...'
 sku: 'B07MVHT78V-es'
 tags: [  ]

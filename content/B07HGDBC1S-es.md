@@ -5,7 +5,7 @@ date: 2020-03-27 17:48:01
 image: 'https://m.media-amazon.com/images/I/31zC5QuHL4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGDBC1S-es New Balance Numeric Nm255 Black 9'
 sku: 'B07HGDBC1S-es'
 tags: [  ]

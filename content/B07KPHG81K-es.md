@@ -5,7 +5,7 @@ date: 2020-05-24 00:25:24
 image: 'https://m.media-amazon.com/images/I/41wFUNnjOXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPHG81K-es adidas Falcon W Zapatillas de Deporte para Mujer...'
 sku: 'B07KPHG81K-es'
 tags: [  ]

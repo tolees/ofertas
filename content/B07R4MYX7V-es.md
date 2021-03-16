@@ -5,7 +5,7 @@ date: 2020-04-07 05:47:35
 image: 'https://m.media-amazon.com/images/I/41TaV6Ew9dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4MYX7V-es AL OFA Vibrador Rabbit G-punto Clitoris Vibrante...'
 sku: 'B07R4MYX7V-es'
 tags: [  ]

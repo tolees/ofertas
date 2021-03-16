@@ -5,7 +5,7 @@ date: 2020-06-20 08:03:41
 image: 'https://m.media-amazon.com/images/I/51Zt5xWjYLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B97DVVP-es Purina Gourmet Perle Delicias en Salsa comida para gato...'
 sku: 'B07B97DVVP-es'
 tags: [  ]

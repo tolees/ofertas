@@ -5,7 +5,7 @@ date: 2020-01-18 12:09:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3180OXPwSwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJ2JCBJ-es Tommy Hilfiger TH Jeans Flag 1p Calcetines Hombre Azul...'
 sku: 'B07CJ2JCBJ-es'
 tags: [  ]

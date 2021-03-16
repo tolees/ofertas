@@ -5,7 +5,7 @@ date: 2020-04-10 11:48:29
 image: 'https://m.media-amazon.com/images/I/41ltMap9-fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJPC2M-es Wedo 212200 Taburete con Ruedas Blanco'
 sku: 'B000KJPC2M-es'
 tags: [  ]

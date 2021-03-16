@@ -5,7 +5,7 @@ date: 2020-07-31 17:57:10
 image: 'https://m.media-amazon.com/images/I/41a3CvJ38RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRX5M3D-es MSI Alpha 15 A3DDK-001XES - Ordenador Portátil Gaming de...'
 sku: 'B07ZRX5M3D-es'
 tags: [  ]

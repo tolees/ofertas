@@ -5,7 +5,7 @@ date: 2020-02-17 19:01:41
 image: 'https://m.media-amazon.com/images/I/51H4tQ65E+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRHLGPX-es 100 Etiquetas Termoadhesivas Personalizadas con Icono para...'
 sku: 'B07PRHLGPX-es'
 tags: [  ]

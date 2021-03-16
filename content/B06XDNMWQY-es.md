@@ -5,7 +5,7 @@ date: 2020-04-01 15:53:12
 image: 'https://m.media-amazon.com/images/I/41KtES4YOLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDNMWQY-es Bourjois Rouge Laque Barra de Labios Líquida Tono 07...'
 sku: 'B06XDNMWQY-es'
 tags: [  ]

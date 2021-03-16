@@ -5,7 +5,7 @@ date: 2020-06-30 08:07:44
 image: 'https://m.media-amazon.com/images/I/41MSH1SDGbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZQK48X-es Maxi-Cosi Zelia Carrito bebé 2 en 1 hamaca se transforma...'
 sku: 'B07YZQK48X-es'
 tags: [  ]

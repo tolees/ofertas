@@ -5,7 +5,7 @@ date: 2020-09-10 21:11:28
 image: 'https://m.media-amazon.com/images/I/41l5+bJQyZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DCCFJC4-es Jooheli Cámara Digital para Niños Cámara Infantil con...'
 sku: 'B08DCCFJC4-es'
 tags: [  ]

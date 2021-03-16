@@ -5,7 +5,7 @@ date: 2020-05-15 16:38:43
 image: 'https://m.media-amazon.com/images/I/41calGkizHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788LQYH2-es Salomon Cami seta deportiva de manga larga agile ls tee...'
 sku: 'B0788LQYH2-es'
 tags: [  ]

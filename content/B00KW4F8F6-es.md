@@ -5,7 +5,7 @@ date: 2020-09-23 09:32:46
 image: 'https://m.media-amazon.com/images/I/41qp7xNe5zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KW4F8F6-es NUK 10255253 - Biberón con asas botella de acero...'
 sku: 'B00KW4F8F6-es'
 tags: [  ]

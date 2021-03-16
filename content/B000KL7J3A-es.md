@@ -5,7 +5,7 @@ date: 2020-07-31 11:01:18
 image: 'https://m.media-amazon.com/images/I/41GIxK9WFOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KL7J3A-es Hoya Pro 1 Digital - Filtro polarizador para Objetivos de...'
 sku: 'B000KL7J3A-es'
 tags: [  ]

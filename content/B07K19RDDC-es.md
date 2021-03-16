@@ -5,7 +5,7 @@ date: 2020-01-06 12:23:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cwzs%2BA3bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K19RDDC-es adidas Tiro19 2in1 SHO Sport Trousers Hombre Black/White 2XL'
 sku: 'B07K19RDDC-es'
 tags: [  ]

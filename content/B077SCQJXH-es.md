@@ -5,7 +5,7 @@ date: 2020-01-11 10:06:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SGRmHQmyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SCQJXH-es New Balance W1400V6 Zapatillas de Running para Mujer Negro...'
 sku: 'B077SCQJXH-es'
 tags: [  ]

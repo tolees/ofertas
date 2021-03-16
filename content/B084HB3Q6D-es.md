@@ -5,7 +5,7 @@ date: 2020-06-29 08:27:19
 image: 'https://m.media-amazon.com/images/I/51k8no6Rd9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084HB3Q6D-es Mini Enfriador de Aire Acondicionador de Aire Móviles...'
 sku: 'B084HB3Q6D-es'
 tags: [  ]

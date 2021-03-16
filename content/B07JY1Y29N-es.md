@@ -5,7 +5,7 @@ date: 2020-04-01 02:03:20
 image: 'https://m.media-amazon.com/images/I/51Huuqz987L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JY1Y29N-es Under Armour Men s Printed Blitzing 3.0 Gorra Hombre Gris M/L'
 sku: 'B07JY1Y29N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-08 14:16:32
 image: 'https://m.media-amazon.com/images/I/51bgeCru9nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4EC42N-es Mafia III - Deluxe Edition Includes Family Kick-Back'
 sku: 'B01N4EC42N-es'
 tags: [  ]

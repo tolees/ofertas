@@ -5,7 +5,7 @@ date: 2020-01-22 13:24:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QuB1posVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8RC0MG-es Funko Pop!-Son of Zorn: Business Color Blanco 100g 12297'
 sku: 'B01N8RC0MG-es'
 tags: [  ]

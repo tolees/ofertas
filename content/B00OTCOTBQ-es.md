@@ -5,7 +5,7 @@ date: 2020-09-13 20:09:35
 image: 'https://m.media-amazon.com/images/I/41b+-Y6MS2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OTCOTBQ-es Intex 28454EX - Spa octogonal Deluxe Burbujas y Jets 795...'
 sku: 'B00OTCOTBQ-es'
 tags: [  ]

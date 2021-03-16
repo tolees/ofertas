@@ -5,7 +5,7 @@ date: 2020-04-28 15:17:20
 image: 'https://m.media-amazon.com/images/I/51pBOU3mCsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868NT9CM-es Suhctup Transparente Funda Compatible con LG K4 2017...'
 sku: 'B0868NT9CM-es'
 tags: [  ]

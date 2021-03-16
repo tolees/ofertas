@@ -5,7 +5,7 @@ date: 2020-02-20 11:23:44
 image: 'https://m.media-amazon.com/images/I/41YHgQSOMDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ5MWDH-es Levi s Tumbled Belt Cinturón Marrón Medium Brown 27 105...'
 sku: 'B07RJ5MWDH-es'
 tags: [  ]

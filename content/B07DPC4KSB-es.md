@@ -5,7 +5,7 @@ date: 2020-06-08 16:43:06
 image: 'https://m.media-amazon.com/images/I/31AM2hEsyBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DPC4KSB-es Puma Active Wovens Pantalones Cortos Mujer Negro Black XS'
 sku: 'B07DPC4KSB-es'
 tags: [  ]

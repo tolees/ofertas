@@ -5,7 +5,7 @@ date: 2020-09-14 09:39:32
 image: 'https://m.media-amazon.com/images/I/41woGJhrXsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XJ1JLC-es Bosch 2 608 628 403 - Fresas de disco para ranurar 8 mm D1...'
 sku: 'B000XJ1JLC-es'
 tags: [  ]

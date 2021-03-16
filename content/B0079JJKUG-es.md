@@ -5,7 +5,7 @@ date: 2020-02-11 11:56:48
 image: 'https://m.media-amazon.com/images/I/31j5Gg-94UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0079JJKUG-es BRA Cazo 16cm Efficient Orange Aluminio Fundido Naranja 16 cm'
 sku: 'B0079JJKUG-es'
 tags: [  ]

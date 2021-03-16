@@ -5,7 +5,7 @@ date: 2020-02-20 08:58:18
 image: 'https://m.media-amazon.com/images/I/412TPcKed3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R8BP8TS-es KFD Cargador USB Tipo C 90W USB C Adaptador de Pared para...'
 sku: 'B07R8BP8TS-es'
 tags: [  ]

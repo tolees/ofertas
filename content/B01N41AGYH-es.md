@@ -5,7 +5,7 @@ date: 2020-09-08 14:41:07
 image: 'https://m.media-amazon.com/images/I/41xhU1+GMGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N41AGYH-es Biwond S10 Dual SIM+Camara+Bluetooth+Radio Flip...'
 sku: 'B01N41AGYH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-12 08:16:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41m7e1jnxWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y65KF1Q-es Tommy Hilfiger STSSLD99003 Pantalones de traje para Hombre...'
 sku: 'B06Y65KF1Q-es'
 tags: [  ]

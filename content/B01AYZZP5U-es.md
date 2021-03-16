@@ -5,7 +5,7 @@ date: 2020-08-28 12:50:47
 image: 'https://m.media-amazon.com/images/I/512QUJFXYtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AYZZP5U-es Audio-Technica ATH-ADG1X Auriculares de Diadema Micro...'
 sku: 'B01AYZZP5U-es'
 tags: [  ]

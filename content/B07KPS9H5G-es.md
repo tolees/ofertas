@@ -5,7 +5,7 @@ date: 2020-04-18 03:11:41
 image: 'https://m.media-amazon.com/images/I/41QLjpzDp2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPS9H5G-es Funko Vinyl: Disney: Dumbo: Pop 1 Fireman Figura de Vinilo...'
 sku: 'B07KPS9H5G-es'
 tags: [  ]

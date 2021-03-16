@@ -5,7 +5,7 @@ date: 2020-06-22 23:13:52
 image: 'https://m.media-amazon.com/images/I/41YDp2LffXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L41EBDA-es Havaianas Origine III Alpargatas Unisex Adulto Verde Green...'
 sku: 'B01L41EBDA-es'
 tags: [  ]

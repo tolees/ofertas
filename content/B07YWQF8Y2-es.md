@@ -5,7 +5,7 @@ date: 2020-07-11 00:44:35
 image: 'https://m.media-amazon.com/images/I/41484qUtUPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWQF8Y2-es Tusscle Almohada Cojín Lumbar，Soporte Lumbar Dormir，Apoyo...'
 sku: 'B07YWQF8Y2-es'
 tags: [  ]

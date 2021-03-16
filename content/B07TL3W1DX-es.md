@@ -5,7 +5,7 @@ date: 2020-09-28 10:54:26
 image: 'https://m.media-amazon.com/images/I/31q5xGAR9fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TL3W1DX-es BRA Advanced Cacerola 24 cm Aluminio Fundido con...'
 sku: 'B07TL3W1DX-es'
 tags: [  ]

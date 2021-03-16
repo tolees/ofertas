@@ -5,7 +5,7 @@ date: 2020-02-14 09:50:01
 image: 'https://m.media-amazon.com/images/I/41Y9bG0mzXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCNSFG8-es NOVECASA Sauna Pantalones Neopreno Deportivos Mujer para...'
 sku: 'B07HCNSFG8-es'
 tags: [  ]

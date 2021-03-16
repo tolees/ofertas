@@ -5,7 +5,7 @@ date: 2020-01-23 10:32:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZVLC6ch3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC6DWNG-es Far Cry 5 - Standard Edition | Código Uplay para PC'
 sku: 'B07NC6DWNG-es'
 tags: [  ]

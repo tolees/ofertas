@@ -5,7 +5,7 @@ date: 2020-06-04 21:35:54
 image: 'https://m.media-amazon.com/images/I/413N0CTtWwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002VLDE4-es Hudora Pylonen Aprox. 25 cm de Alto 8 Unidades . 76105'
 sku: 'B0002VLDE4-es'
 tags: [  ]

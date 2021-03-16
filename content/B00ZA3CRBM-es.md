@@ -5,7 +5,7 @@ date: 2020-08-25 11:33:55
 image: 'https://m.media-amazon.com/images/I/41s+nDcLn4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZA3CRBM-es Aussie Repair Miracle Champú su Fórmula Milagrosa Llena de...'
 sku: 'B00ZA3CRBM-es'
 tags: [  ]

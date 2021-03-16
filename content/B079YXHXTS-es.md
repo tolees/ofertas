@@ -5,7 +5,7 @@ date: 2020-08-19 07:28:18
 image: 'https://m.media-amazon.com/images/I/51fNzp9R6LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YXHXTS-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B079YXHXTS-es'
 tags: [  ]

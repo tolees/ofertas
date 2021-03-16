@@ -5,7 +5,7 @@ date: 2020-07-01 08:08:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61DWqF8%2BpkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BF1SYVL-es Sushi Striker: The Way Of Sushido'
 sku: 'B07BF1SYVL-es'
 tags: [  ]

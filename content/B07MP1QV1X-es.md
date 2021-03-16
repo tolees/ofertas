@@ -5,7 +5,7 @@ date: 2020-04-15 00:40:33
 image: 'https://m.media-amazon.com/images/I/41i3883WyXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MP1QV1X-es BRIKSMAX Kit de Iluminación Led para Aston Martin...'
 sku: 'B07MP1QV1X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-25 20:11:02
 image: 'https://m.media-amazon.com/images/I/31Va5yug+9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0817JLC9B-es Columbia Tech Shade Hat Gorra Unisex Adulto Gris City Grey...'
 sku: 'B0817JLC9B-es'
 tags: [  ]

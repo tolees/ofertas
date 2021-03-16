@@ -5,7 +5,7 @@ date: 2020-04-21 13:02:20
 image: 'https://m.media-amazon.com/images/I/41NomIFw+TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TY13GQ-es Saco PRIMAVERA/VERANO ENTRETIEMPO para CUCO/CAPAZO...'
 sku: 'B079TY13GQ-es'
 tags: [  ]

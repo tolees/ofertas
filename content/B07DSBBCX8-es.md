@@ -5,7 +5,7 @@ date: 2020-02-19 09:06:30
 image: 'https://m.media-amazon.com/images/I/41C8UYFqTtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DSBBCX8-es 1 Unidad de Etiqueta Protectora de Raqueta de Tenis para...'
 sku: 'B07DSBBCX8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-07 10:04:12
 image: 'https://m.media-amazon.com/images/I/31o27-JvvAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFPT3QP-es Belkin Boost Up Base de carga inalámbrica 10 W cargador...'
 sku: 'B07PFPT3QP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-22 08:54:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rv3eSZtfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5RHZTJ-es Calvin Klein CK UP MINI REPORTERHombreShoppers y bolsos de...'
 sku: 'B07N5RHZTJ-es'
 tags: [  ]

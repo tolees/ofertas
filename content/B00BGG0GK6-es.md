@@ -5,7 +5,7 @@ date: 2020-06-04 20:54:21
 image: 'https://m.media-amazon.com/images/I/310QhRZr7pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BGG0GK6-es Borella Casalighi Vira Juego 6 Cuencos para Macedonia 6...'
 sku: 'B00BGG0GK6-es'
 tags: [  ]

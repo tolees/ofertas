@@ -5,7 +5,7 @@ date: 2020-02-08 15:50:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21rxFTxcrBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XSSLW4C-es Neutrogena Visibly Renew Loción Corporal Elasticidad...'
 sku: 'B06XSSLW4C-es'
 tags: [  ]

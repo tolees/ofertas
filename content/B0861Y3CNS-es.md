@@ -5,7 +5,7 @@ date: 2020-08-18 01:30:19
 image: 'https://m.media-amazon.com/images/I/41iXMiw3QPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0861Y3CNS-es AGAKY Mini Ventilador de Mano Ventiladores USB Recargable...'
 sku: 'B0861Y3CNS-es'
 tags: [  ]

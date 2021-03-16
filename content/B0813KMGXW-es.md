@@ -5,7 +5,7 @@ date: 2020-10-02 21:23:24
 image: 'https://m.media-amazon.com/images/I/51x3ZrTDwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813KMGXW-es SHUIBIAN Kits de pintura diamante 5D cuadro diamantes 5d...'
 sku: 'B0813KMGXW-es'
 tags: [  ]

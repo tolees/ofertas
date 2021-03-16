@@ -5,7 +5,7 @@ date: 2020-07-13 00:19:05
 image: 'https://m.media-amazon.com/images/I/51dDBR1TKGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4Q9GHW-es Mycartridge 5 Compatibles Epson 603XL 603 XL Cartuchos de...'
 sku: 'B07Y4Q9GHW-es'
 tags: [  ]

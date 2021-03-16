@@ -5,7 +5,7 @@ date: 2020-04-12 14:31:54
 image: 'https://m.media-amazon.com/images/I/41YAx9wujlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N34X3BP-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07N34X3BP-es'
 tags: [  ]

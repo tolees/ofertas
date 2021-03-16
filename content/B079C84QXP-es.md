@@ -5,7 +5,7 @@ date: 2020-03-02 20:48:07
 image: 'https://m.media-amazon.com/images/I/31LohGtFr4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079C84QXP-es JACK & JONES Jjepaulos Polo SS Noos Blanco White Detail:...'
 sku: 'B079C84QXP-es'
 tags: [  ]

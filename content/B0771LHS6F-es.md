@@ -5,7 +5,7 @@ date: 2020-02-08 16:38:36
 image: 'https://m.media-amazon.com/images/I/51EUhASJ-5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771LHS6F-es Funko Pop! - Games: Ni No Kuni Roland W/ Higgledy Figura...'
 sku: 'B0771LHS6F-es'
 tags: [  ]

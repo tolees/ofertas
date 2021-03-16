@@ -5,7 +5,7 @@ date: 2020-08-08 15:36:20
 image: 'https://m.media-amazon.com/images/I/31Hj7GrX9WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002DGTH4O-es Zwilling Twin Choice - Sartén acero inoxidable 20 cm'
 sku: 'B002DGTH4O-es'
 tags: [  ]

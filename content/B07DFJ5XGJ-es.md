@@ -5,7 +5,7 @@ date: 2020-04-07 13:16:10
 image: 'https://m.media-amazon.com/images/I/51kaMw0kOWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFJ5XGJ-es Pop! Marvel Studios 10th - Figura Chrome Hulk'
 sku: 'B07DFJ5XGJ-es'
 tags: [  ]

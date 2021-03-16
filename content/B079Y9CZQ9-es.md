@@ -5,7 +5,7 @@ date: 2020-09-30 15:54:15
 image: 'https://m.media-amazon.com/images/I/31ELQDyyxbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Y9CZQ9-es Braun Facespa Pro 921 - Sistema para Depilación y Limpieza...'
 sku: 'B079Y9CZQ9-es'
 tags: [  ]

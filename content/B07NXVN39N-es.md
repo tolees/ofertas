@@ -5,7 +5,7 @@ date: 2020-07-01 14:34:53
 image: 'https://m.media-amazon.com/images/I/31N-EzSmdZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXVN39N-es Skechers Elite Flex Zapatillas para Hombre Negro Black...'
 sku: 'B07NXVN39N-es'
 tags: [  ]

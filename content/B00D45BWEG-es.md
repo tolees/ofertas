@@ -5,7 +5,7 @@ date: 2020-04-14 00:14:02
 image: 'https://m.media-amazon.com/images/I/41TJJu5gbzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D45BWEG-es Mousehouse Gifts Caja Mediana con Juego de libreta y...'
 sku: 'B00D45BWEG-es'
 tags: [  ]

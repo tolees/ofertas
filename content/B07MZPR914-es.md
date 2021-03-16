@@ -5,7 +5,7 @@ date: 2020-01-27 20:03:33
 image: 'https://m.media-amazon.com/images/I/41pOO7Nm-fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPR914-es Vans Filmore Decon Zapatillas para Mujer Verde Suede Grape...'
 sku: 'B07MZPR914-es'
 tags: [  ]

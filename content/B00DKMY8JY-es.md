@@ -5,7 +5,7 @@ date: 2020-03-20 14:28:45
 image: 'https://m.media-amazon.com/images/I/51M8MWj68BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DKMY8JY-es Burberry London Men Perfume - 50 ml'
 sku: 'B00DKMY8JY-es'
 tags: [  ]

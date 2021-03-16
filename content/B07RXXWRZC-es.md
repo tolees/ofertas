@@ -5,7 +5,7 @@ date: 2020-08-03 20:29:11
 image: 'https://m.media-amazon.com/images/I/315fLT-FamL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXXWRZC-es adidas Ctr365 Crew Calcetines Unisex Adulto Blanco/Negro 2XL'
 sku: 'B07RXXWRZC-es'
 tags: [  ]

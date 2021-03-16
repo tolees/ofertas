@@ -5,7 +5,7 @@ date: 2020-06-01 07:06:30
 image: 'https://m.media-amazon.com/images/I/31UQCTCWDHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P56TBRD-es Bourjois Brocha para maquillaje facial - 40 gr.'
 sku: 'B07P56TBRD-es'
 tags: [  ]

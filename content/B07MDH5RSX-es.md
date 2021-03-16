@@ -5,7 +5,7 @@ date: 2020-01-08 13:07:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61LQynrW3-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDH5RSX-es Altavoz Bluetooth Ducha COMISO IPX7 Impermeable Altavoz...'
 sku: 'B07MDH5RSX-es'
 tags: [  ]

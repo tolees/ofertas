@@ -5,7 +5,7 @@ date: 2020-06-27 08:05:27
 image: 'https://m.media-amazon.com/images/I/51E3qMq8j6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM1TLKW-es upHere Rendimiento Alto Ventilador para Ordenador 140mm...'
 sku: 'B07MM1TLKW-es'
 tags: [  ]

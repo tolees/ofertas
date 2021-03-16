@@ -5,7 +5,7 @@ date: 2020-04-16 19:04:17
 image: 'https://m.media-amazon.com/images/I/41WnKg-ZT-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MURQ151-es Nike Court Borough Low PSV Zapatillas para Niñas Blanco...'
 sku: 'B01MURQ151-es'
 tags: [  ]

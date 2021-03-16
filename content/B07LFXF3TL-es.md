@@ -5,7 +5,7 @@ date: 2020-06-25 10:08:00
 image: 'https://m.media-amazon.com/images/I/41714bNpdQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFXF3TL-es Sloggi Zero Feel Bralette Ex Sujetador estilo Rojo...'
 sku: 'B07LFXF3TL-es'
 tags: [  ]

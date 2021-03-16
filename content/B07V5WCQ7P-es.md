@@ -5,7 +5,7 @@ date: 2020-06-12 13:08:34
 image: 'https://m.media-amazon.com/images/I/41ezaS2yCxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5WCQ7P-es Neutrex Quitamanchas Pistola Color - 600 ml'
 sku: 'B07V5WCQ7P-es'
 tags: [  ]

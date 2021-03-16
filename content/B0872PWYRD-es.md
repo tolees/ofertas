@@ -5,7 +5,7 @@ date: 2020-05-16 19:02:49
 image: 'https://m.media-amazon.com/images/I/41-OLp8tqcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872PWYRD-es Funda Transparente Compatible para Mi 9 Pro/Mi 9 Pro 5G...'
 sku: 'B0872PWYRD-es'
 tags: [  ]

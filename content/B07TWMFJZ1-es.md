@@ -5,7 +5,7 @@ date: 2020-08-18 19:51:42
 image: 'https://m.media-amazon.com/images/I/41L9vnLfQWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWMFJZ1-es Beholder CE - Collector s Edition'
 sku: 'B07TWMFJZ1-es'
 tags: [  ]

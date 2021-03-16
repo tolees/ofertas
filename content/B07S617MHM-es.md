@@ -5,7 +5,7 @@ date: 2020-06-27 17:08:12
 image: 'https://m.media-amazon.com/images/I/41WTUoJzh2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S617MHM-es Twinzen Bata Mujer Invierno Microfibra con Capucha para...'
 sku: 'B07S617MHM-es'
 tags: [  ]

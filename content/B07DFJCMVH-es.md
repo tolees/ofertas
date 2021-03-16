@@ -5,7 +5,7 @@ date: 2020-06-08 07:03:14
 image: 'https://m.media-amazon.com/images/I/41iE2r3N5lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFJCMVH-es Pop! Austin Powers - Figura de Vinilo Dr. Evil'
 sku: 'B07DFJCMVH-es'
 tags: [  ]

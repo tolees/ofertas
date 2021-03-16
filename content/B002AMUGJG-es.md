@@ -5,7 +5,7 @@ date: 2020-07-23 13:55:42
 image: 'https://m.media-amazon.com/images/I/31P93iBtDLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002AMUGJG-es Sisley Phyto Corps Confort Extrême 150 ml'
 sku: 'B002AMUGJG-es'
 tags: [  ]

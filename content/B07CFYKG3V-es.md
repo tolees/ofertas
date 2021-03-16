@@ -5,7 +5,7 @@ date: 2020-06-06 15:20:34
 image: 'https://m.media-amazon.com/images/I/31x2NIduEBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CFYKG3V-es Rimmel London Stay Matte Liquid Lip Colour Nude Barra De...'
 sku: 'B07CFYKG3V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 19:03:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51VDl0Z-irL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZGH5DTL-es 80 en 1 juego de destornillador de precisión Kit de...'
 sku: 'B07ZGH5DTL-es'
 tags: [  ]

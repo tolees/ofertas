@@ -5,7 +5,7 @@ date: 2020-01-06 10:27:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QQk5RAvGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5GMXSJ-es Skechers Flex Advantage 3.0 Zapatillas para Niños Azul...'
 sku: 'B07J5GMXSJ-es'
 tags: [  ]

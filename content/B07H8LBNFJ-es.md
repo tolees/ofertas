@@ -5,7 +5,7 @@ date: 2020-02-01 07:44:07
 image: 'https://m.media-amazon.com/images/I/31AuuY9Ci+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8LBNFJ-es Castellanísimos Mocasines de Mujer con Antifaz en Piel...'
 sku: 'B07H8LBNFJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-02 11:12:17
 image: 'https://m.media-amazon.com/images/I/319WPSRaYRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CJMHSI4-es Nike NSW Pq Matchup Polo Hombre Blanco L'
 sku: 'B00CJMHSI4-es'
 tags: [  ]

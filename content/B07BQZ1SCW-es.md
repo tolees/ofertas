@@ -5,7 +5,7 @@ date: 2020-06-12 09:17:33
 image: 'https://m.media-amazon.com/images/I/41w7OKyqTZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQZ1SCW-es Taurus Striker 2.0 Robot Aspirador Compacto con Sensor...'
 sku: 'B07BQZ1SCW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 10:37:56
 image: 'https://m.media-amazon.com/images/I/41IANZUwkWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVLC24Y-es Real Madrid CF- Bolsa deporte Color negro Safta 711924553'
 sku: 'B07MVLC24Y-es'
 tags: [  ]

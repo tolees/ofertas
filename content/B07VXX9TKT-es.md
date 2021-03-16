@@ -5,7 +5,7 @@ date: 2021-02-10 20:12:40
 image: 'https://m.media-amazon.com/images/I/41GoeJEjGkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXX9TKT-es Pepe Jeans Cash Short Jeans Azul Denim 000 40 para Hombre'
 sku: 'B07VXX9TKT-es'
 tags: [ 'pepe jeans', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 09:56:19
 image: 'https://m.media-amazon.com/images/I/41PGoQk3acL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8NPR4H-es Samsonite Maleta Oro Amarillo Amarillo - 115518/1371'
 sku: 'B07M8NPR4H-es'
 tags: [  ]

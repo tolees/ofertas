@@ -5,7 +5,7 @@ date: 2020-01-14 10:41:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51jRzVqnwDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQBKQ9X-es TICTID Raspberry Pi 4 Accesorios Caja para Raspberry Pi 4...'
 sku: 'B07ZQBKQ9X-es'
 tags: [  ]

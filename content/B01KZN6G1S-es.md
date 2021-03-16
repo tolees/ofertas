@@ -5,7 +5,7 @@ date: 2020-01-28 17:42:53
 image: 'https://m.media-amazon.com/images/I/41y1NuH7WIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KZN6G1S-es Yuntab BL20 proyector multimedia portátil HD 1080P USB AV...'
 sku: 'B01KZN6G1S-es'
 tags: [  ]

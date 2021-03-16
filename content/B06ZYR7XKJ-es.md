@@ -5,7 +5,7 @@ date: 2020-01-26 09:42:02
 image: 'https://m.media-amazon.com/images/I/61mmPXzBZ6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYR7XKJ-es Saint Seiya Hade Sanctuary Blu-Ray [Blu-ray]'
 sku: 'B06ZYR7XKJ-es'
 tags: [  ]

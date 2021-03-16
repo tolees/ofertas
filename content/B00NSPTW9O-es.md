@@ -5,7 +5,7 @@ date: 2020-08-31 07:29:27
 image: 'https://m.media-amazon.com/images/I/51UKwiNQjdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NSPTW9O-es Cartera de piel para documentos del coche de la marca...'
 sku: 'B00NSPTW9O-es'
 tags: [  ]

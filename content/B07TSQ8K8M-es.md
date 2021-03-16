@@ -5,7 +5,7 @@ date: 2020-09-29 21:24:49
 image: 'https://m.media-amazon.com/images/I/411hOQSGZCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ8K8M-es Skechers Arch Fit Zapatillas sin Cordones para Hombre Azul...'
 sku: 'B07TSQ8K8M-es'
 tags: [  ]

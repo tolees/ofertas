@@ -5,7 +5,7 @@ date: 2020-09-16 18:32:36
 image: 'https://m.media-amazon.com/images/I/41G95cqCHSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3KZH4T-es yaoyan Trampa de Red de Pesca portátil Cuenta Luminosa...'
 sku: 'B08D3KZH4T-es'
 tags: [  ]

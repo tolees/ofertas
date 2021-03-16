@@ -5,7 +5,7 @@ date: 2020-03-22 16:57:57
 image: 'https://m.media-amazon.com/images/I/41iizGGPQHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EXOBTWC-es Beurer MG148 - Aparato de Masaje Shiatsu con función de...'
 sku: 'B00EXOBTWC-es'
 tags: [  ]

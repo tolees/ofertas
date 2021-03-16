@@ -5,7 +5,7 @@ date: 2020-02-28 09:27:53
 image: 'https://m.media-amazon.com/images/I/41TNEdfhSCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8H79GW-es Pioneer DEH-S110UBG - Sintonizador RDS con CD Color Negro'
 sku: 'B07H8H79GW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-15 15:48:25
 image: 'https://m.media-amazon.com/images/I/31XfTa-oA0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0767VT7WH-es Jamo - Altavoces Estéreo S-801 60 W 85 Db Negro'
 sku: 'B0767VT7WH-es'
 tags: [  ]

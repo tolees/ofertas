@@ -5,7 +5,7 @@ date: 2020-03-24 09:07:33
 image: 'https://m.media-amazon.com/images/I/51W-vM2U3LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0013LNAE8-es Dewalt DW745-QS Sierra 1.700W-diámetro de 250 mm-Mesa 630...'
 sku: 'B0013LNAE8-es'
 tags: [  ]

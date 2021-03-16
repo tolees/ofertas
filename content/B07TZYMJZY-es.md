@@ -5,7 +5,7 @@ date: 2020-09-25 14:22:56
 image: 'https://m.media-amazon.com/images/I/41RMSI59MHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZYMJZY-es KiplingDelia CompactMujerMochilasNegro Charcoal 18x23.5x13...'
 sku: 'B07TZYMJZY-es'
 tags: [  ]

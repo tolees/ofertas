@@ -5,7 +5,7 @@ date: 2020-03-31 17:11:07
 image: 'https://m.media-amazon.com/images/I/51oA5pNrWiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRLD7JR-es PREMYO Bandas Reflectantes Set de 4 Ajustable Brazalete...'
 sku: 'B07HRLD7JR-es'
 tags: [  ]

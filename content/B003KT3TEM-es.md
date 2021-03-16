@@ -5,7 +5,7 @@ date: 2020-08-29 20:47:26
 image: 'https://m.media-amazon.com/images/I/31pCZX3zfqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003KT3TEM-es Astor Eyeartist Liner Longlasting Eyeliner Líquido Tono...'
 sku: 'B003KT3TEM-es'
 tags: [  ]

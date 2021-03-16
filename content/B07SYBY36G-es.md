@@ -5,7 +5,7 @@ date: 2020-09-11 12:22:12
 image: 'https://m.media-amazon.com/images/I/41nX1TL1OVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SYBY36G-es Huawei Mini Altavoz Bluetooth CM510 Color Negro'
 sku: 'B07SYBY36G-es'
 tags: [  ]

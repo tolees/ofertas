@@ -5,7 +5,7 @@ date: 2020-08-07 11:19:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Nnxl6lriL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJHTX7R-es SimpleLife Los Huevos de Pascua llenan con un Mini Robot...'
 sku: 'B07TJHTX7R-es'
 tags: [  ]

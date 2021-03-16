@@ -5,7 +5,7 @@ date: 2020-08-23 17:52:32
 image: 'https://m.media-amazon.com/images/I/31dN+vH-k4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1V44BG-es Skechers Ultra Flex Candy Cravings Zapatillas para Mujer...'
 sku: 'B07W1V44BG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-13 18:20:32
 image: 'https://m.media-amazon.com/images/I/41YAgCDC9gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0817HFFL8-es TOPERSUN Sacaleches Eléctrico Recargable Extractor de...'
 sku: 'B0817HFFL8-es'
 tags: [  ]

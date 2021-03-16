@@ -5,7 +5,7 @@ date: 2020-08-23 18:00:56
 image: 'https://m.media-amazon.com/images/I/41unDDyUEbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8FLSLS-es Gioseppo Livermore Zapatillas sin Cordones para Mujer...'
 sku: 'B07Y8FLSLS-es'
 tags: [  ]

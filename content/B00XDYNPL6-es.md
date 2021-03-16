@@ -5,7 +5,7 @@ date: 2020-04-12 16:21:13
 image: 'https://m.media-amazon.com/images/I/41VYhv-KnbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDYNPL6-es Tommy Hilfiger New Danny Belt Cinturón Masters Black 90 cm...'
 sku: 'B00XDYNPL6-es'
 tags: [  ]

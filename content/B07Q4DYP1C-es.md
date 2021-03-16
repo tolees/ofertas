@@ -5,7 +5,7 @@ date: 2020-09-27 16:38:49
 image: 'https://m.media-amazon.com/images/I/51C0A3zlRhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4DYP1C-es Licor Picante de Guindilla Verde Dr Zas - 3 botellas de 70...'
 sku: 'B07Q4DYP1C-es'
 tags: [  ]

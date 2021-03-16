@@ -5,7 +5,7 @@ date: 2020-05-12 17:35:14
 image: 'https://m.media-amazon.com/images/I/31w3hqoYPuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5CZWH3-es Brunoko Vajilla Bebé Set de Plato Ventosa + Cubiertos...'
 sku: 'B07W5CZWH3-es'
 tags: [  ]

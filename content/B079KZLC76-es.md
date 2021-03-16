@@ -5,7 +5,7 @@ date: 2020-07-10 00:46:33
 image: 'https://m.media-amazon.com/images/I/51pd6ycv+7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KZLC76-es Veatree Bloques Magnéticos de Construcción para Niños...'
 sku: 'B079KZLC76-es'
 tags: [  ]

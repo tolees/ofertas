@@ -5,7 +5,7 @@ date: 2020-04-16 00:02:12
 image: 'https://m.media-amazon.com/images/I/51k9Pvihf9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WNFY1N7-es Anyutai Hermosa Starfish Beach Crafts Garden Decoration...'
 sku: 'B07WNFY1N7-es'
 tags: [  ]

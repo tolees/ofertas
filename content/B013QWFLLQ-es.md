@@ -5,7 +5,7 @@ date: 2020-08-23 16:51:56
 image: 'https://m.media-amazon.com/images/I/513+SONB1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013QWFLLQ-es Olympus OM-D E-M10 Mark II cámara de Sistema Micro Cuatro...'
 sku: 'B013QWFLLQ-es'
 tags: [  ]

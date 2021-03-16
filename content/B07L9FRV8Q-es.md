@@ -5,7 +5,7 @@ date: 2020-03-27 13:18:49
 image: 'https://m.media-amazon.com/images/I/31tpjc5vNnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9FRV8Q-es Under Armour Speed Stride Capri Legging Mujer Negro SM'
 sku: 'B07L9FRV8Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-05 11:47:51
 image: 'https://m.media-amazon.com/images/I/41oVzNGfVNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTD3PLW-es Funko- Pop Disney: Onward-Ian w/Staff Collectible Toy...'
 sku: 'B07TTD3PLW-es'
 tags: [  ]

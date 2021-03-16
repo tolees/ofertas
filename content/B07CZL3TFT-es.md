@@ -5,7 +5,7 @@ date: 2020-01-15 15:03:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51b8f5tCC8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZL3TFT-es 8-Bit Armies'
 sku: 'B07CZL3TFT-es'
 tags: [  ]

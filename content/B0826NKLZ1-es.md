@@ -5,7 +5,7 @@ date: 2020-10-04 14:13:05
 image: 'https://m.media-amazon.com/images/I/51eLxFsNKwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0826NKLZ1-es ysister Album de Fotos Our Adventure Book Álbum de Fotos...'
 sku: 'B0826NKLZ1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-14 23:31:38
 image: 'https://m.media-amazon.com/images/I/515W2XVik4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZ9QVT4-es UniqueMe [3 Pack] Protector de Pantalla para Xiaomi Redmi...'
 sku: 'B08CZ9QVT4-es'
 tags: [  ]

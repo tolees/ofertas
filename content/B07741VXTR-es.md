@@ -5,7 +5,7 @@ date: 2020-04-28 14:05:45
 image: 'https://m.media-amazon.com/images/I/41pFCRPHieL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07741VXTR-es Adidas Stan Smith Zapatillas de Deporte para Hombre Blanco...'
 sku: 'B07741VXTR-es'
 tags: [  ]

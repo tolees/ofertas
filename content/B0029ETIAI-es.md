@@ -5,7 +5,7 @@ date: 2020-05-27 13:50:35
 image: 'https://m.media-amazon.com/images/I/51lo-44txvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0029ETIAI-es Trixie Rejilla Ventilación para Coche 30-110 cm Negro'
 sku: 'B0029ETIAI-es'
 tags: [  ]

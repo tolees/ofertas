@@ -5,7 +5,7 @@ date: 2020-07-31 09:05:51
 image: 'https://m.media-amazon.com/images/I/41OC8vsJWOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVJX2Z2-es La Cabine Ampollas Lip Up Lift 10x2ml'
 sku: 'B07VVJX2Z2-es'
 tags: [  ]

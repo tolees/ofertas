@@ -5,7 +5,7 @@ date: 2020-06-22 22:28:33
 image: 'https://m.media-amazon.com/images/I/41crqsr61rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SYN7ZF-es Salomon Speedcross 4 GTX Zapatillas de Trail Running para...'
 sku: 'B078SYN7ZF-es'
 tags: [  ]

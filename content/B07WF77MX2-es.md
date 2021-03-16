@@ -5,7 +5,7 @@ date: 2020-06-30 17:37:42
 image: 'https://m.media-amazon.com/images/I/41y0sBjfZUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WF77MX2-es CIRAGO Licuadora Prensado en Frio Fruta y verdura...'
 sku: 'B07WF77MX2-es'
 tags: [  ]

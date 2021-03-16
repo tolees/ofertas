@@ -5,7 +5,7 @@ date: 2020-09-10 15:04:38
 image: 'https://m.media-amazon.com/images/I/31elurPRppL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LLQDASU-es Quid Set 5 Gadgets INOX con Soporte Brassia Acero...'
 sku: 'B01LLQDASU-es'
 tags: [  ]

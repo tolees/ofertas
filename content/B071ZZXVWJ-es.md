@@ -5,7 +5,7 @@ date: 2020-01-13 17:26:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51sw4FgdElL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZZXVWJ-es Tasty Bites Cheesy carne y queso de 140g para educar |...'
 sku: 'B071ZZXVWJ-es'
 tags: [  ]

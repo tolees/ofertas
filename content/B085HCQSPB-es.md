@@ -5,7 +5,7 @@ date: 2020-03-29 09:58:57
 image: 'https://m.media-amazon.com/images/I/41I+AnlODrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HCQSPB-es Total Safe 500ml Spray | Ideal para una higiene profunda...'
 sku: 'B085HCQSPB-es'
 tags: [  ]

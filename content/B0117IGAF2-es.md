@@ -5,7 +5,7 @@ date: 2020-03-09 21:55:59
 image: 'https://m.media-amazon.com/images/I/21yTz5vEaEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0117IGAF2-es HP X3000 - Ratón inalámbrico óptico Color Blanco'
 sku: 'B0117IGAF2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-14 10:15:43
 image: 'https://m.media-amazon.com/images/I/41Mjpa0G3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081CP8QY9-es LNIEGE SMT SMD Teléfono Celular TF Micro SD Ranuras para...'
 sku: 'B081CP8QY9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-20 17:08:15
 image: 'https://m.media-amazon.com/images/I/31JZH+roK7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07657JMWF-es Auna Stealth Bar 60 Altavoz soundbar 2.1 Canales 80 W...'
 sku: 'B07657JMWF-es'
 tags: [  ]

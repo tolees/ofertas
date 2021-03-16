@@ -5,7 +5,7 @@ date: 2020-08-19 17:41:51
 image: 'https://m.media-amazon.com/images/I/41tKnPKIm1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014R2W3MO-es Sony MDRXB50APR.CE7 - Auriculares intraurales Extra Bass...'
 sku: 'B014R2W3MO-es'
 tags: [  ]

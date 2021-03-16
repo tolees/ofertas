@@ -5,7 +5,7 @@ date: 2020-03-07 10:32:06
 image: 'https://m.media-amazon.com/images/I/31ry3Y6ueNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1JQY91-es Lámpara de Nocturna LED Lámpara de Mesita de Noche...'
 sku: 'B07X1JQY91-es'
 tags: [  ]

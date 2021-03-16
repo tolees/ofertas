@@ -5,7 +5,7 @@ date: 2020-03-08 22:43:43
 image: 'https://m.media-amazon.com/images/I/31dfX8af6gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VFYWHB-es Objetivo Tamron 100-400mm F/4.5-6.3 Di VC y Ultrasonic...'
 sku: 'B076VFYWHB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-17 18:01:57
 image: 'https://m.media-amazon.com/images/I/311oX6EElLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X5EHM5Y-es Star Wars - Disfraz de Storm Trooper para niños talla M...'
 sku: 'B00X5EHM5Y-es'
 tags: [  ]

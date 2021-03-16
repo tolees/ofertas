@@ -5,7 +5,7 @@ date: 2020-10-05 00:51:25
 image: 'https://m.media-amazon.com/images/I/31iK1bMpNbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NSZWP-es PUMA ANZARUN Lite Zapatillas Unisex Adulto Negro Black...'
 sku: 'B07S6NSZWP-es'
 tags: [  ]

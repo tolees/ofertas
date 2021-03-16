@@ -5,7 +5,7 @@ date: 2020-01-12 09:07:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51cKIWp830L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0827QG4WK-es Cadena de Luces LED 1.5M 10 Luces LED para Pascua Pollito...'
 sku: 'B0827QG4WK-es'
 tags: [  ]

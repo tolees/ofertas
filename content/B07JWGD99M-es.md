@@ -5,7 +5,7 @@ date: 2020-05-13 13:02:20
 image: 'https://m.media-amazon.com/images/I/41mtAoz7hYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWGD99M-es auna RCD-70 Radio Dab con CD - Radio Dab Radio Retro...'
 sku: 'B07JWGD99M-es'
 tags: [  ]

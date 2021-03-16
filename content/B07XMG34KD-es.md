@@ -5,7 +5,7 @@ date: 2020-09-03 06:51:16
 image: 'https://m.media-amazon.com/images/I/41qLYWflauL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XMG34KD-es Skechers Go Run Pulse Zapatillas para Hombre Cclm Tela de...'
 sku: 'B07XMG34KD-es'
 tags: [  ]

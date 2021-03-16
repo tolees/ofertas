@@ -5,7 +5,7 @@ date: 2020-09-12 12:24:12
 image: 'https://m.media-amazon.com/images/I/41u396PIq5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K3IM5Y2-es Nike SB Portmore II Solar Zapatillas de Skateboard para...'
 sku: 'B01K3IM5Y2-es'
 tags: [  ]

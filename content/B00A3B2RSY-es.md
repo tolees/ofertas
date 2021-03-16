@@ -5,7 +5,7 @@ date: 2020-02-24 23:59:42
 image: 'https://m.media-amazon.com/images/I/31DhZbV3LSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A3B2RSY-es Essie Esmalte de Uñas 318 Resort fling'
 sku: 'B00A3B2RSY-es'
 tags: [  ]

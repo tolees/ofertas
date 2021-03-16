@@ -5,7 +5,7 @@ date: 2020-02-10 23:46:57
 image: 'https://m.media-amazon.com/images/I/41vNJN71qML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPSFH5Z-es Funko- Pop Vinilo: BTS: J-Hope Figura Coleccionable...'
 sku: 'B07KPSFH5Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-31 16:01:56
 image: 'https://m.media-amazon.com/images/I/311ZovvwBSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV59PNN-es TWBB Hombres Inicio Yoga Tie-up Pantalones cómodos'
 sku: 'B07MV59PNN-es'
 tags: [  ]

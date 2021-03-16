@@ -5,7 +5,7 @@ date: 2020-06-18 10:31:47
 image: 'https://m.media-amazon.com/images/I/41da9fbSugL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HM116LZ-es ADWITS USB 3.1 Gen2 10Gbps Tipo-C a NVMe M.2 Adaptador SSD...'
 sku: 'B07HM116LZ-es'
 tags: [  ]

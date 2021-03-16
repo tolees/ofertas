@@ -5,7 +5,7 @@ date: 2020-04-10 00:12:22
 image: 'https://m.media-amazon.com/images/I/51hytk8GeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5YY39D-es 500x Negro Sujetacables profesional Cable Sujetacables...'
 sku: 'B07W5YY39D-es'
 tags: [  ]

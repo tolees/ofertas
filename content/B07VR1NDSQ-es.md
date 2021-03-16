@@ -5,7 +5,7 @@ date: 2020-09-18 11:33:44
 image: 'https://m.media-amazon.com/images/I/41c17Kr9YaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VR1NDSQ-es Olaplex No.7 Bond Smoother New 30 ml 90 g'
 sku: 'B07VR1NDSQ-es'
 tags: [  ]

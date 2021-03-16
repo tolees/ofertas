@@ -5,7 +5,7 @@ date: 2020-09-03 10:42:46
 image: 'https://m.media-amazon.com/images/I/31iVysi-G-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F98NJZN-es Trust Urban Ula - Cargador portátil con batería integrada...'
 sku: 'B07F98NJZN-es'
 tags: [  ]

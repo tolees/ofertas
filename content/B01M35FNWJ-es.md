@@ -5,7 +5,7 @@ date: 2020-01-20 14:24:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EshoxEbUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M35FNWJ-es Kyocera Ecosys P5021cdn - Impresora láser a color 21 ppm...'
 sku: 'B01M35FNWJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 02:52:40
 image: 'https://m.media-amazon.com/images/I/5109ybcrWuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RVIVZVC-es Colocado Directamente Bajo el Agua Roleadro 54W Luz de...'
 sku: 'B00RVIVZVC-es'
 tags: [  ]

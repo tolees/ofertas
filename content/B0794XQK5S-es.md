@@ -5,7 +5,7 @@ date: 2020-08-31 14:02:11
 image: 'https://m.media-amazon.com/images/I/51yQS0FmRfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0794XQK5S-es Echo Plus 2.ª generación - Sonido de alta calidad y...'
 sku: 'B0794XQK5S-es'
 tags: [  ]

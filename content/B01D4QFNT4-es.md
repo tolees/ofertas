@@ -5,7 +5,7 @@ date: 2020-04-01 19:48:18
 image: 'https://m.media-amazon.com/images/I/51r1GUA5JSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D4QFNT4-es Revell- Modelo Clamp Set 8 Color Negro 39070'
 sku: 'B01D4QFNT4-es'
 tags: [  ]

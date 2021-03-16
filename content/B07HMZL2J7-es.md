@@ -5,7 +5,7 @@ date: 2020-03-18 20:13:25
 image: 'https://m.media-amazon.com/images/I/31R5cJXpFDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMZL2J7-es Athletic Club B-04-AC Botella Aluminio 500 ml'
 sku: 'B07HMZL2J7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 19:35:18
 image: 'https://m.media-amazon.com/images/I/41lO1yl6i0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PDT9KSG-es MAM - Conjunto de 2 chupetes que brillan en la oscuridad...'
 sku: 'B00PDT9KSG-es'
 tags: [  ]

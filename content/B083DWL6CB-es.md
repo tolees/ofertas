@@ -5,7 +5,7 @@ date: 2020-07-18 12:44:13
 image: 'https://m.media-amazon.com/images/I/61umSBgAIZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DWL6CB-es Caja para pilas ignífuga bolsa de transporte con probador...'
 sku: 'B083DWL6CB-es'
 tags: [  ]

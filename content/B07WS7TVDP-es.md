@@ -5,7 +5,7 @@ date: 2020-08-26 11:25:56
 image: 'https://m.media-amazon.com/images/I/51HPnAMqLoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WS7TVDP-es Note D Espresso - Cápsulas de tisana de ciruela y canela...'
 sku: 'B07WS7TVDP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-13 10:25:43
 image: 'https://m.media-amazon.com/images/I/41buMIgPz1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPJMWGX-es El Ganso Casual 1 Polo Rojo Rojo 0005 Small para Hombre'
 sku: 'B07PPJMWGX-es'
 tags: [  ]

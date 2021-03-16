@@ -5,7 +5,7 @@ date: 2020-06-20 15:21:03
 image: 'https://m.media-amazon.com/images/I/31XQoYwrl8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBNFWGP-es Victoria Aire Nylon/Serraje PU Zapatillas Unisex Adulto...'
 sku: 'B07MBNFWGP-es'
 tags: [  ]

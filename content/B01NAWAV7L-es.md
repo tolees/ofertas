@@ -5,7 +5,7 @@ date: 2020-05-07 18:32:05
 image: 'https://m.media-amazon.com/images/I/51MdudlZdaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAWAV7L-es Utawarerumono: Mask Of Deception'
 sku: 'B01NAWAV7L-es'
 tags: [  ]

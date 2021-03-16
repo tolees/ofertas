@@ -5,7 +5,7 @@ date: 2020-09-16 01:21:17
 image: 'https://m.media-amazon.com/images/I/418FgyUe-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DLYVGC-es Clarks Brixby Cove Sandalia con Pulsera para Hombre Marrón...'
 sku: 'B075DLYVGC-es'
 tags: [  ]

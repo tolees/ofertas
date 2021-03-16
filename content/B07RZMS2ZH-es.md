@@ -5,7 +5,7 @@ date: 2020-01-21 20:42:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51dO0OaeZoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZMS2ZH-es YABER Arrancador de Coches 1200A Arrancador Batería Coche...'
 sku: 'B07RZMS2ZH-es'
 tags: [  ]

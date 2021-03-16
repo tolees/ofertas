@@ -5,7 +5,7 @@ date: 2020-06-11 06:28:20
 image: 'https://m.media-amazon.com/images/I/41XsRMbRqtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2HVWS6-es FILA - Women Bra - Pink Panther'
 sku: 'B07S2HVWS6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-04 23:44:34
 image: 'https://m.media-amazon.com/images/I/31CVBfolUFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCDDSKX-es GANT Johanna Botas Chelsea para Mujer Negro Black G00 37 EU'
 sku: 'B07MCDDSKX-es'
 tags: [  ]

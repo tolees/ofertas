@@ -5,7 +5,7 @@ date: 2020-07-25 11:44:10
 image: 'https://m.media-amazon.com/images/I/41KJ4rPA4hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9S3JDV-es LIGE Reloj para Hombre Cronógrafo Impermeable Moonphase...'
 sku: 'B07Z9S3JDV-es'
 tags: [  ]

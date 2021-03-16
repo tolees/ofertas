@@ -5,7 +5,7 @@ date: 2020-01-02 10:46:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41neQxR%2B4yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQ2KPY5-es Young & Ming 2 Unidades Cristal Templado para Xiaomi Redmi...'
 sku: 'B07XQ2KPY5-es'
 tags: [  ]

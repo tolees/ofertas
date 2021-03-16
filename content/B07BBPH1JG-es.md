@@ -5,7 +5,7 @@ date: 2020-08-17 10:14:49
 image: 'https://m.media-amazon.com/images/I/414XS-AZBXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBPH1JG-es Foco LED con Sensor de Movimiento Negro 50W Proyector LED...'
 sku: 'B07BBPH1JG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 11:27:49
 image: 'https://m.media-amazon.com/images/I/41d+MrFaYWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2ZLRDR-es adidas CLAS BP Bos Mochilla de Deporte Unisex Adulto Real...'
 sku: 'B07S2ZLRDR-es'
 tags: [  ]

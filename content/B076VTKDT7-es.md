@@ -5,7 +5,7 @@ date: 2020-09-29 17:14:29
 image: 'https://m.media-amazon.com/images/I/411uQBddN+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VTKDT7-es Nixon Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B076VTKDT7-es'
 tags: [  ]

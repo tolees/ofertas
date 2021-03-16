@@ -5,7 +5,7 @@ date: 2020-09-16 05:03:41
 image: 'https://m.media-amazon.com/images/I/414nZvwuJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009L1HC2I-es Fujifilm 14 mm f:2.8 XF R - Objetivo Distancia Focal Fija...'
 sku: 'B009L1HC2I-es'
 tags: [  ]

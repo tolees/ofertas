@@ -5,7 +5,7 @@ date: 2020-01-24 19:35:08
 image: 'https://m.media-amazon.com/images/I/61dbRh3-LeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VRJ8YK-es Bizak-61921455 Día de Playa 61921455'
 sku: 'B079VRJ8YK-es'
 tags: [  ]

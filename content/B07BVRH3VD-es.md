@@ -5,7 +5,7 @@ date: 2020-05-31 17:55:34
 image: 'https://m.media-amazon.com/images/I/41G+3RQ6sUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BVRH3VD-es ZARLLE CláSico Mujer Damas Chica Unisex Reloj De Pulsera...'
 sku: 'B07BVRH3VD-es'
 tags: [  ]

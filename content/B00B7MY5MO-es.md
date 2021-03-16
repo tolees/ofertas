@@ -5,7 +5,7 @@ date: 2020-09-09 02:13:30
 image: 'https://m.media-amazon.com/images/I/51AJXGoNOLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B7MY5MO-es Seiko Reloj de Cuarzo para Hombre con Correa de Acero...'
 sku: 'B00B7MY5MO-es'
 tags: [  ]

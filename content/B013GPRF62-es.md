@@ -5,7 +5,7 @@ date: 2020-05-05 21:44:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TKOPMon8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013GPRF62-es Thumbs Up iLounge - Cojín para Tablet Color Azul'
 sku: 'B013GPRF62-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 20:23:54
 image: 'https://m.media-amazon.com/images/I/5197lMQ7YsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQLZTD-es LATEC Pulsera Actividad [Última Versión] Pulsera de...'
 sku: 'B07MZQLZTD-es'
 tags: [  ]

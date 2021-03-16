@@ -5,7 +5,7 @@ date: 2020-04-16 00:27:49
 image: 'https://m.media-amazon.com/images/I/4159dZsJQbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBK3PQ2-es non-brand Mini Space Toys Airplane Rocket Car Model Set...'
 sku: 'B07PBK3PQ2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-23 01:37:11
 image: 'https://m.media-amazon.com/images/I/31F5P8UF8-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CY1GMN9-es Belkin - Cable de Audio de 3 5 mm con Conector Lightning...'
 sku: 'B07CY1GMN9-es'
 tags: [  ]

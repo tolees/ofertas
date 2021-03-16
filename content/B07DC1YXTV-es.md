@@ -5,7 +5,7 @@ date: 2020-01-09 22:51:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41U6TWsEtDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC1YXTV-es Puma Turin Ii Zapatillas Unisex adulto Azul Peacoat-Puma...'
 sku: 'B07DC1YXTV-es'
 tags: [  ]

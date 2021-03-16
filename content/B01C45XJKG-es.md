@@ -5,7 +5,7 @@ date: 2020-01-11 19:55:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41norz5v4%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C45XJKG-es DIM Generous Sujetador Beige New Skin 105B para Mujer'
 sku: 'B01C45XJKG-es'
 tags: [  ]

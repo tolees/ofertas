@@ -5,7 +5,7 @@ date: 2020-04-25 11:40:52
 image: 'https://m.media-amazon.com/images/I/51NJJDchEeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYJYFPF-es Storeofbaby Paños de baño de bebé Reutilizable Ultra suave...'
 sku: 'B07DYJYFPF-es'
 tags: [  ]

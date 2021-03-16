@@ -5,7 +5,7 @@ date: 2020-07-12 07:13:22
 image: 'https://m.media-amazon.com/images/I/41Fyq0CFeIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZTFSVN-es RECCI Cubre Colchón 135x190/200 - Cubrecolchón Impermeable...'
 sku: 'B07GZTFSVN-es'
 tags: [  ]

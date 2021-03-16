@@ -5,7 +5,7 @@ date: 2020-10-03 17:31:08
 image: 'https://m.media-amazon.com/images/I/41pF0XFwsIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003PZHYLK-es STANLEY 1-97-483 - Organizador SortMaster Junior'
 sku: 'B003PZHYLK-es'
 tags: [  ]

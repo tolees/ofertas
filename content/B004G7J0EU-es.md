@@ -5,7 +5,7 @@ date: 2020-02-28 12:31:13
 image: 'https://m.media-amazon.com/images/I/414yQoq9wqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004G7J0EU-es Julius-K9 Correa Negro y Gris 2 cm'
 sku: 'B004G7J0EU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-07 13:25:37
 image: 'https://m.media-amazon.com/images/I/41nHIzni6fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXB7P66-es Jack & Jones Jjehill Knit Crew Neck Noos suéter Verde...'
 sku: 'B07TXB7P66-es'
 tags: [  ]

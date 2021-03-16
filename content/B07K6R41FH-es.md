@@ -5,7 +5,7 @@ date: 2020-09-22 15:03:35
 image: 'https://m.media-amazon.com/images/I/41vdAGpap9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6R41FH-es Keto Plus Actives AM 60 CAPS - Quemagrasas potente para...'
 sku: 'B07K6R41FH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 16:32:08
 image: 'https://m.media-amazon.com/images/I/51HlJATtnXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8X1SRN-es Bourjois Sombra de ojos Tono: 16 Nude Gama Nudes - 3.2 g'
 sku: 'B07H8X1SRN-es'
 tags: [  ]

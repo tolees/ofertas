@@ -5,7 +5,7 @@ date: 2020-05-20 13:02:28
 image: 'https://m.media-amazon.com/images/I/316f0gPYteL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VL29ZTH-es laamei Paño Muselinas Multifunción para Bebé de Algodón...'
 sku: 'B07VL29ZTH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 13:27:17
 image: 'https://m.media-amazon.com/images/I/21l7vR-+4sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813FGJZ3-es Polos Hombre Manga Corta Blanco Algodón Marca Casual...'
 sku: 'B0813FGJZ3-es'
 tags: [  ]

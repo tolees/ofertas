@@ -5,7 +5,7 @@ date: 2020-06-08 07:51:26
 image: 'https://m.media-amazon.com/images/I/51j1mHXhjWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HSMN9M-es Rocket League - Edición Coleccionista'
 sku: 'B078HSMN9M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-24 07:51:59
 image: 'https://m.media-amazon.com/images/I/41PLqa3nOwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVQDL28-es Under Armour Men‘s Baseball Cap UA Blitzing 3.0 Visera...'
 sku: 'B07PVQDL28-es'
 tags: [  ]

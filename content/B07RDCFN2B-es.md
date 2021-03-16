@@ -5,7 +5,7 @@ date: 2020-06-06 16:13:34
 image: 'https://m.media-amazon.com/images/I/31F4npo9hHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDCFN2B-es Tommy Hilfiger Anya 1a1 Zapatillas para Mujer Beige White...'
 sku: 'B07RDCFN2B-es'
 tags: [  ]

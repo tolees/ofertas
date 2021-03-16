@@ -5,7 +5,7 @@ date: 2020-06-05 01:45:48
 image: 'https://m.media-amazon.com/images/I/41+K8bGidhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0ERE63-es Superga'
 sku: 'B01N0ERE63-es'
 tags: [  ]

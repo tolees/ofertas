@@ -5,7 +5,7 @@ date: 2020-08-13 19:02:43
 image: 'https://m.media-amazon.com/images/I/51zVJyAcZOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HZ6FHT-es Caja del teléfono móvil TPU Blanco Mate en Relieve...'
 sku: 'B083HZ6FHT-es'
 tags: [  ]

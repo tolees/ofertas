@@ -5,7 +5,7 @@ date: 2020-06-02 07:25:46
 image: 'https://m.media-amazon.com/images/I/416FqWSvJWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKRZF7B-es Bestway 41125 - Camello Hinchable 221x132 cm'
 sku: 'B07FKRZF7B-es'
 tags: [  ]

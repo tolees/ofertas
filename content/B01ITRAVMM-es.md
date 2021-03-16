@@ -5,7 +5,7 @@ date: 2020-03-15 16:01:49
 image: 'https://m.media-amazon.com/images/I/51FCWONVDUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ITRAVMM-es bonmedico Kubo Codera Elástica Coderas para Articulaciones...'
 sku: 'B01ITRAVMM-es'
 tags: [  ]

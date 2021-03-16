@@ -5,7 +5,7 @@ date: 2020-09-17 11:33:46
 image: 'https://m.media-amazon.com/images/I/41XanHm29mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089DDZMNL-es Fristone - Colchón de espuma viscoelástica para perro con...'
 sku: 'B089DDZMNL-es'
 tags: [  ]

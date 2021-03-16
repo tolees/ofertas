@@ -5,7 +5,7 @@ date: 2020-05-01 09:56:28
 image: 'https://m.media-amazon.com/images/I/41XtqXr9hnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J24YJJ8-es Michael Kors Reloj Cronógrafo para Unisex Adultos de...'
 sku: 'B07J24YJJ8-es'
 tags: [  ]

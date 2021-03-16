@@ -5,7 +5,7 @@ date: 2020-04-12 08:32:54
 image: 'https://m.media-amazon.com/images/I/51lpBiA754L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LGFDCV-es 100pcs Discos de Madera Rebanada SEELOK Rodajas de Madera...'
 sku: 'B083LGFDCV-es'
 tags: [  ]

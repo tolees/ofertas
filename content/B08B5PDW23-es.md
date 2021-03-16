@@ -5,7 +5,7 @@ date: 2020-07-02 12:28:50
 image: 'https://m.media-amazon.com/images/I/213nHOBMXcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5PDW23-es MERIGLARE Cepillo De Eléctrico Con Batería De Limpieza...'
 sku: 'B08B5PDW23-es'
 tags: [  ]

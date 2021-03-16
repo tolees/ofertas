@@ -5,7 +5,7 @@ date: 2020-04-10 13:58:12
 image: 'https://m.media-amazon.com/images/I/41KHtWdKrGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CQX2NWG-es Rowenta Infini Pro Elite CV8732 Negro 2200 W - Secador de...'
 sku: 'B01CQX2NWG-es'
 tags: [  ]

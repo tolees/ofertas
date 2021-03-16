@@ -5,7 +5,7 @@ date: 2020-09-02 09:14:01
 image: 'https://m.media-amazon.com/images/I/31o4Cmp4azL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071G45CWC-es Reloj Calvin Klein - Mujer K8E2M111'
 sku: 'B071G45CWC-es'
 tags: [  ]

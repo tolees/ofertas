@@ -5,7 +5,7 @@ date: 2020-08-05 18:10:04
 image: 'https://m.media-amazon.com/images/I/41ph7G90c1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTS6VXZ-es Valentino by Mario - Doxy Shoppers y bolsos de hombro...'
 sku: 'B07TTS6VXZ-es'
 tags: [  ]

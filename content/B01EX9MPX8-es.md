@@ -5,7 +5,7 @@ date: 2020-05-31 07:02:36
 image: 'https://m.media-amazon.com/images/I/21rOG39da4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EX9MPX8-es LEDKIA LIGHTING Plafón LED Cuadrado 24W Blanco Cálido...'
 sku: 'B01EX9MPX8-es'
 tags: [  ]

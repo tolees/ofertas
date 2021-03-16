@@ -5,7 +5,7 @@ date: 2020-08-22 14:27:02
 image: 'https://m.media-amazon.com/images/I/41T78vlSeDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LAWZ2F4-es Tenswall Humidificador Ultrasónico 400ml Difusor de...'
 sku: 'B01LAWZ2F4-es'
 tags: [  ]

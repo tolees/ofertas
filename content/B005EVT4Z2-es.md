@@ -5,7 +5,7 @@ date: 2020-09-27 11:38:25
 image: 'https://m.media-amazon.com/images/I/51IZ9dEQgWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005EVT4Z2-es Cars 2'
 sku: 'B005EVT4Z2-es'
 tags: [  ]

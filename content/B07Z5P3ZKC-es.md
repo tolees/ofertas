@@ -5,7 +5,7 @@ date: 2020-03-12 10:33:55
 image: 'https://m.media-amazon.com/images/I/413sNPlzzIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5P3ZKC-es Masajeador personal de varita recargable masajeador...'
 sku: 'B07Z5P3ZKC-es'
 tags: [  ]

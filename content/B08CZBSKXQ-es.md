@@ -5,7 +5,7 @@ date: 2020-08-14 23:35:00
 image: 'https://m.media-amazon.com/images/I/4188qEVkaKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZBSKXQ-es 2x200ML Comedero para Perros y Gatode Acero Inoxidable 2...'
 sku: 'B08CZBSKXQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-16 20:12:39
 image: 'https://m.media-amazon.com/images/I/51A4Aq08QLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IJZQXT4-es Philips SB300B/00 - Altavoz Bluetooth portátil inalámbrico...'
 sku: 'B01IJZQXT4-es'
 tags: [  ]

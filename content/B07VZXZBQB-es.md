@@ -5,7 +5,7 @@ date: 2020-01-27 12:59:26
 image: 'https://m.media-amazon.com/images/I/41ONHYY72zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZXZBQB-es Antartica - Juego de Maletas 3 Maletas de Equipaje Maletas...'
 sku: 'B07VZXZBQB-es'
 tags: [  ]

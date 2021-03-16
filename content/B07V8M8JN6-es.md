@@ -5,7 +5,7 @@ date: 2020-02-23 10:32:38
 image: 'https://m.media-amazon.com/images/I/41DYjxIi-vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8M8JN6-es SaponinTree Humidificador Aromaterapia Ultrasónico 100ml...'
 sku: 'B07V8M8JN6-es'
 tags: [  ]

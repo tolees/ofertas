@@ -5,7 +5,7 @@ date: 2020-06-11 23:23:56
 image: 'https://m.media-amazon.com/images/I/413Rq+iPolL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LMPTVV-es Poligono Calcetines Cortos para Hombre y Mujer Medias...'
 sku: 'B085LMPTVV-es'
 tags: [  ]

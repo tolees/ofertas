@@ -5,7 +5,7 @@ date: 2020-02-11 10:32:12
 image: 'https://m.media-amazon.com/images/I/41kF-mBYopL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHYP9GG-es Maleta de cabina Pepe Jeans Cambridge Roja rígida 55cm'
 sku: 'B07BHYP9GG-es'
 tags: [  ]

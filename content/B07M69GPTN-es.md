@@ -5,7 +5,7 @@ date: 2020-07-14 11:24:40
 image: 'https://m.media-amazon.com/images/I/51ZlWKTyCnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M69GPTN-es Ventilador Silencioso Aire acondicionado con 25db...'
 sku: 'B07M69GPTN-es'
 tags: [  ]

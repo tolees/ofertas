@@ -5,7 +5,7 @@ date: 2020-05-06 21:55:21
 image: 'https://m.media-amazon.com/images/I/41Jjh+8c9-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E7FNNI-es K&N RC-4650DR funda para filtro de aire Coche y Moto'
 sku: 'B000E7FNNI-es'
 tags: [  ]

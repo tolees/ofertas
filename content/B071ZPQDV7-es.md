@@ -5,7 +5,7 @@ date: 2020-05-12 20:01:47
 image: 'https://m.media-amazon.com/images/I/512YtGpVEFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZPQDV7-es Marvel VS Capcom Infinite'
 sku: 'B071ZPQDV7-es'
 tags: [  ]

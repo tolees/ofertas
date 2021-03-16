@@ -5,7 +5,7 @@ date: 2020-05-28 12:28:30
 image: 'https://m.media-amazon.com/images/I/31PQ-9K-IfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ADMLUUY-es Sisley Global Perfect Pore Minimizer 30 Ml 1 Unidad 30 ml'
 sku: 'B00ADMLUUY-es'
 tags: [  ]

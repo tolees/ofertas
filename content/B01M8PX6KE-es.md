@@ -5,7 +5,7 @@ date: 2020-02-01 09:47:45
 image: 'https://m.media-amazon.com/images/I/412m40pkRdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M8PX6KE-es Sándalo Pulsera de Cuentas Tibetano Budista Buda...'
 sku: 'B01M8PX6KE-es'
 tags: [  ]

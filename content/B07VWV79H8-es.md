@@ -5,7 +5,7 @@ date: 2020-05-23 18:45:46
 image: 'https://m.media-amazon.com/images/I/51nfT2AuWpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWV79H8-es FORMIZON Loom Bands 4400 Kit Completo 22 Colores Kit de...'
 sku: 'B07VWV79H8-es'
 tags: [  ]

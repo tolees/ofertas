@@ -5,7 +5,7 @@ date: 2020-10-11 11:42:31
 image: 'https://m.media-amazon.com/images/I/51y+S61lvnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NPQ76X-es SunRace Csmz90 12s-11-50T Cassete 12 velocidades Deportes...'
 sku: 'B075NPQ76X-es'
 tags: [  ]

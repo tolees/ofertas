@@ -5,7 +5,7 @@ date: 2020-09-23 09:47:57
 image: 'https://m.media-amazon.com/images/I/419TNMtf1ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KH4DPKD-es Under Armour Rush P Mallas de Compresion con Cinturilla...'
 sku: 'B07KH4DPKD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-23 08:17:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31mAhLVzclL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BUISXJQ-es Nioxin Sistema 6 Acondicionador - 300 ml.'
 sku: 'B00BUISXJQ-es'
 tags: [  ]

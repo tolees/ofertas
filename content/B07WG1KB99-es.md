@@ -5,7 +5,7 @@ date: 2020-01-03 09:46:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZyyhH7E6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WG1KB99-es COOLJOY Juguete de Excavadora Excavadora Camión Camión del...'
 sku: 'B07WG1KB99-es'
 tags: [  ]

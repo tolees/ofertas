@@ -5,7 +5,7 @@ date: 2020-08-11 09:50:10
 image: 'https://m.media-amazon.com/images/I/41Q5YHJ+P3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4F8FTD-es Dockers by Gerli 43fa307 Botas Militar para Mujer Beige...'
 sku: 'B07Q4F8FTD-es'
 tags: [  ]

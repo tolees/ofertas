@@ -5,7 +5,7 @@ date: 2020-01-31 07:26:24
 image: 'https://m.media-amazon.com/images/I/51X6XMo1lgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IYEESUW-es Einhell TH-CS 1200/1 - Sierra circular 5000 rpm diámetro...'
 sku: 'B00IYEESUW-es'
 tags: [  ]

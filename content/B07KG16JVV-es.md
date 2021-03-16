@@ -5,7 +5,7 @@ date: 2020-01-20 12:11:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DkrGx5LML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG16JVV-es PUMA Hybrid Fuego Lights Zapatillas de Running para Hombre...'
 sku: 'B07KG16JVV-es'
 tags: [  ]

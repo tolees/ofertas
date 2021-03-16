@@ -5,7 +5,7 @@ date: 2020-05-09 11:06:29
 image: 'https://m.media-amazon.com/images/I/51hjBoN19-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083MXB2QM-es Mardozon Pulseras para Xiaomi Mi Band 3/4 Impermeable...'
 sku: 'B083MXB2QM-es'
 tags: [  ]

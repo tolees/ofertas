@@ -5,7 +5,7 @@ date: 2020-03-29 09:33:50
 image: 'https://m.media-amazon.com/images/I/31JJ5+rGilL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CX1ZBLR-es Belkin Boost Up Soporte de Carga Inalámbrica de 10 W...'
 sku: 'B07CX1ZBLR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-03 12:15:37
 image: 'https://m.media-amazon.com/images/I/41RpVLqHW+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYSQ7T1-es Brita Maxtra Plus - Cartucho de Filtro de Agua'
 sku: 'B06XYSQ7T1-es'
 tags: [  ]

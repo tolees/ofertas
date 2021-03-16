@@ -5,7 +5,7 @@ date: 2020-06-18 10:18:12
 image: 'https://m.media-amazon.com/images/I/41C6Ur1SiSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4C41SM-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Capucha...'
 sku: 'B07Z4C41SM-es'
 tags: [  ]

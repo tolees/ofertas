@@ -5,7 +5,7 @@ date: 2020-04-26 17:13:05
 image: 'https://m.media-amazon.com/images/I/41u5TfVbgTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDL5RR5-es G-STAR RAW Siva Round Neck suéter Beige Milk 111 XX-Small...'
 sku: 'B07NDL5RR5-es'
 tags: [  ]

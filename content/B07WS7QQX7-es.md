@@ -5,7 +5,7 @@ date: 2020-04-07 13:24:39
 image: 'https://m.media-amazon.com/images/I/51UV5w0g6mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WS7QQX7-es BRIKSMAX Kit de Iluminación Led para Lego Technic Depósito...'
 sku: 'B07WS7QQX7-es'
 tags: [  ]

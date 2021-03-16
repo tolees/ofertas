@@ -5,7 +5,7 @@ date: 2020-08-22 16:44:15
 image: 'https://m.media-amazon.com/images/I/31POgiT6BDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HZ49PXS-es Petusco - Ana Blanco y Azul Piel de Vacuno tipo grano y...'
 sku: 'B07HZ49PXS-es'
 tags: [  ]

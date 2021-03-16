@@ -5,7 +5,7 @@ date: 2020-02-02 12:07:23
 image: 'https://m.media-amazon.com/images/I/41LHb2N8reL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG496YC-es PUMA Vikky v2 Mid WTR Zapatillas Altas para Mujer...'
 sku: 'B07KG496YC-es'
 tags: [  ]

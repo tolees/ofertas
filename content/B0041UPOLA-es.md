@@ -5,7 +5,7 @@ date: 2020-04-12 16:16:05
 image: 'https://m.media-amazon.com/images/I/31p3O5qfXZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0041UPOLA-es Reebok Classic Leather Zapatillas de Trail Running para...'
 sku: 'B0041UPOLA-es'
 tags: [  ]

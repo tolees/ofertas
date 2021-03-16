@@ -5,7 +5,7 @@ date: 2020-03-02 20:48:32
 image: 'https://m.media-amazon.com/images/I/41hYfvDSOxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JD2AR6C-es Bulova 98A167 - Reloj de Pulsera de Diseño para Hombre -...'
 sku: 'B01JD2AR6C-es'
 tags: [  ]

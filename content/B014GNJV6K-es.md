@@ -5,7 +5,7 @@ date: 2020-10-09 14:28:36
 image: 'https://m.media-amazon.com/images/I/41vIVcmo4cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014GNJV6K-es Skechers 11936 Zapatillas para Mujer Blanco White/Silver...'
 sku: 'B014GNJV6K-es'
 tags: [  ]

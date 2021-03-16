@@ -5,7 +5,7 @@ date: 2020-08-24 08:55:30
 image: 'https://m.media-amazon.com/images/I/41nSoplsyzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTPDXMT-es Kipling KiplingTotepackMujerBolsos maletínGris D Carbon...'
 sku: 'B07TTPDXMT-es'
 tags: [  ]

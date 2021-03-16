@@ -5,7 +5,7 @@ date: 2020-04-28 18:33:12
 image: 'https://m.media-amazon.com/images/I/415y75LOYsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHX3TDB-es Columbia WHEATLEIGH Botas de Nieve de caña Baja para Mujer...'
 sku: 'B07JHX3TDB-es'
 tags: [  ]

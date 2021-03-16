@@ -5,7 +5,7 @@ date: 2020-03-23 18:42:58
 image: 'https://m.media-amazon.com/images/I/41eVE6y9W8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074N98VRP-es Canon 12x32 IS - Prismático 12x diámetro Efectivo de 32 mm...'
 sku: 'B074N98VRP-es'
 tags: [  ]

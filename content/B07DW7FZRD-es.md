@@ -5,7 +5,7 @@ date: 2020-05-18 23:37:00
 image: 'https://m.media-amazon.com/images/I/41G2Oi1CT0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW7FZRD-es Eono Essentials - Soporte con Total Movimiento para...'
 sku: 'B07DW7FZRD-es'
 tags: [  ]

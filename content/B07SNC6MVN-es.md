@@ -5,7 +5,7 @@ date: 2020-07-17 11:16:07
 image: 'https://m.media-amazon.com/images/I/51ytYKxWS4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNC6MVN-es ThickTails Cepillo Alisador De Pelo Ionico - Con bolsa de...'
 sku: 'B07SNC6MVN-es'
 tags: [  ]

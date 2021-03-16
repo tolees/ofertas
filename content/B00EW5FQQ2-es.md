@@ -5,7 +5,7 @@ date: 2020-01-29 08:14:31
 image: 'https://m.media-amazon.com/images/I/31mUWikiR2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EW5FQQ2-es Nike Revolution 4 GS Zapatillas de Running para Niños...'
 sku: 'B00EW5FQQ2-es'
 tags: [  ]

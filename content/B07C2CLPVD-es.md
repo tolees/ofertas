@@ -5,7 +5,7 @@ date: 2020-04-07 16:06:21
 image: 'https://m.media-amazon.com/images/I/417bmEUeYCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2CLPVD-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter Rojo Port...'
 sku: 'B07C2CLPVD-es'
 tags: [  ]

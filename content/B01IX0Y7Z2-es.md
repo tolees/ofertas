@@ -5,7 +5,7 @@ date: 2020-10-03 16:30:23
 image: 'https://m.media-amazon.com/images/I/310ZLGiyhcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IX0Y7Z2-es Triumph Beauty-Full Essential WDP Sujetador para Mujer...'
 sku: 'B01IX0Y7Z2-es'
 tags: [  ]

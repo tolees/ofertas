@@ -5,7 +5,7 @@ date: 2020-05-01 13:21:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HJERyvSSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K12HYWB-es adidas I-5923 Zapatillas de Gimnasia para Hombre Blanco...'
 sku: 'B07K12HYWB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-10 07:20:24
 image: 'https://m.media-amazon.com/images/I/51GeISUFjDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9FR1R5-es Outsunny Calefactor Infrarrojo Calentador Eléctrico de...'
 sku: 'B07G9FR1R5-es'
 tags: [  ]

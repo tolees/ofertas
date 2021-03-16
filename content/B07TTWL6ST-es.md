@@ -5,7 +5,7 @@ date: 2020-04-26 10:26:44
 image: 'https://m.media-amazon.com/images/I/51wr8h3LmvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTWL6ST-es Cámara de acción 2 en 1 portátil + Kit de vídeo para...'
 sku: 'B07TTWL6ST-es'
 tags: [  ]

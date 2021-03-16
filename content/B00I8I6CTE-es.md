@@ -5,7 +5,7 @@ date: 2020-08-14 19:43:22
 image: 'https://m.media-amazon.com/images/I/41Q1PF1ol2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I8I6CTE-es Bomb Cosmetics Regalo para el cuidado de la piel Little...'
 sku: 'B00I8I6CTE-es'
 tags: [  ]

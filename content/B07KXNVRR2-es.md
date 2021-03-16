@@ -5,7 +5,7 @@ date: 2020-10-05 12:25:47
 image: 'https://m.media-amazon.com/images/I/41u3EWw3INL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXNVRR2-es Frozen 2- Disney Muñeca Princesa Anna con Figuras de Olaf...'
 sku: 'B07KXNVRR2-es'
 tags: [  ]

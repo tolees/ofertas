@@ -5,7 +5,7 @@ date: 2020-01-27 09:13:43
 image: 'https://m.media-amazon.com/images/I/318+H2SJcWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IR0NTK2-es Philips Airfryer HD9621/90 - Freidora sin Aceite...'
 sku: 'B01IR0NTK2-es'
 tags: [  ]

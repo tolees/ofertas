@@ -5,7 +5,7 @@ date: 2020-02-26 19:31:38
 image: 'https://m.media-amazon.com/images/I/41GD0ZjCyQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFBHLMW-es FAMTOP Purificador de Aire para Hogar Air Purifier 4 en 1...'
 sku: 'B07RFBHLMW-es'
 tags: [  ]

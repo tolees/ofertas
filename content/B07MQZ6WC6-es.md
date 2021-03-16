@@ -5,7 +5,7 @@ date: 2020-01-24 15:47:29
 image: 'https://m.media-amazon.com/images/I/31iz4j72ayL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQZ6WC6-es Le Coq Sportif COURTSTAR Craft Zapatillas para Hombre...'
 sku: 'B07MQZ6WC6-es'
 tags: [  ]

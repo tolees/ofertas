@@ -5,7 +5,7 @@ date: 2020-05-26 08:03:05
 image: 'https://m.media-amazon.com/images/I/41eETMP8FRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9TR2HN-es Yutwo Funda Huawei Honor 7s Estuche Protector de 360...'
 sku: 'B07M9TR2HN-es'
 tags: [  ]

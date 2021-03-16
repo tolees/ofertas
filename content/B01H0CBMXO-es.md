@@ -5,7 +5,7 @@ date: 2020-01-23 21:20:58
 image: 'https://m.media-amazon.com/images/I/519WICB2qJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H0CBMXO-es Electronic Arts - Titanfall 2'
 sku: 'B01H0CBMXO-es'
 tags: [  ]

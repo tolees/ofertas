@@ -5,7 +5,7 @@ date: 2020-04-03 16:22:22
 image: 'https://m.media-amazon.com/images/I/51QA-JiiVJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EUZUNJO-es Bourjois Poudre De Java Polvos Tono 3.5gr'
 sku: 'B00EUZUNJO-es'
 tags: [  ]

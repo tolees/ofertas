@@ -5,7 +5,7 @@ date: 2020-04-09 08:33:36
 image: 'https://m.media-amazon.com/images/I/31JZrzm16TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ61BC5-es Grifo de filtro de agua potable de acero inoxidable para...'
 sku: 'B07TQ61BC5-es'
 tags: [  ]

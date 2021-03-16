@@ -5,7 +5,7 @@ date: 2020-06-20 13:01:36
 image: 'https://m.media-amazon.com/images/I/31bwKr+232L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I9UDS2K-es Icicles Hand Blown Glass Massager No. 62-1 Unidad'
 sku: 'B00I9UDS2K-es'
 tags: [  ]

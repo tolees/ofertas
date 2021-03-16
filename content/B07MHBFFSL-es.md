@@ -5,7 +5,7 @@ date: 2020-01-22 15:39:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51w%2B4CyTSvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHBFFSL-es Star vie Aquila Pro'
 sku: 'B07MHBFFSL-es'
 tags: [  ]

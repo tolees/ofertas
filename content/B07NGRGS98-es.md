@@ -5,7 +5,7 @@ date: 2020-01-14 11:48:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DvXn05TXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGRGS98-es Zippy ZY Retro Zapatillas de Estar por casa para Bebés...'
 sku: 'B07NGRGS98-es'
 tags: [  ]

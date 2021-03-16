@@ -5,7 +5,7 @@ date: 2020-08-14 00:48:29
 image: 'https://m.media-amazon.com/images/I/41qJKSwb0CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HZM82GY-es Pulsar Reloj Mujer de Analogico PH7447X1'
 sku: 'B01HZM82GY-es'
 tags: [  ]

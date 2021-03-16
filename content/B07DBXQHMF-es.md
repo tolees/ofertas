@@ -5,7 +5,7 @@ date: 2020-05-26 12:08:02
 image: 'https://m.media-amazon.com/images/I/31-+cuqxrBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBXQHMF-es PUMA Vikky Stacked SD Zapatillas para Mujer Negro Black...'
 sku: 'B07DBXQHMF-es'
 tags: [  ]

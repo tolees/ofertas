@@ -5,7 +5,7 @@ date: 2020-03-01 09:38:01
 image: 'https://m.media-amazon.com/images/I/31UUxxCq8UL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9WS56X-es Lacoste Masters Cup 319 1 SMA Zapatillas para Hombre...'
 sku: 'B07L9WS56X-es'
 tags: [  ]

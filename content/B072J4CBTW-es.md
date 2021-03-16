@@ -5,7 +5,7 @@ date: 2020-03-28 08:30:02
 image: 'https://m.media-amazon.com/images/I/418CxxAxyQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072J4CBTW-es Under Armour Challenger II Knit Warm-Up Ropa de Deporte de...'
 sku: 'B072J4CBTW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-02 14:32:07
 image: 'https://m.media-amazon.com/images/I/41CpiZ285ML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084M1JG4W-es Mini cámara espía Oculta Diseño de Cargador USB Full HD...'
 sku: 'B084M1JG4W-es'
 tags: [  ]

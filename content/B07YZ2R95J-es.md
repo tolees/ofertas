@@ -5,7 +5,7 @@ date: 2020-06-12 02:10:04
 image: 'https://m.media-amazon.com/images/I/41cEp1yR+TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZ2R95J-es JIMMY Xiaomi JV71 Aspirador sin Cable Aspirador Escoba...'
 sku: 'B07YZ2R95J-es'
 tags: [  ]

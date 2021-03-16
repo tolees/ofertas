@@ -5,7 +5,7 @@ date: 2020-02-11 11:36:52
 image: 'https://m.media-amazon.com/images/I/51FDMBpQcKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KLBRP7-es Protector de Colchón Impermeable para Cuna Cuna 70 x 140...'
 sku: 'B075KLBRP7-es'
 tags: [  ]

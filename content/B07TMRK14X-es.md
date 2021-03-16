@@ -5,7 +5,7 @@ date: 2020-10-03 17:03:16
 image: 'https://m.media-amazon.com/images/I/41TmLY0tcDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMRK14X-es Clarks Un Rio Lace Zapatillas Gris Stone Leather Stone...'
 sku: 'B07TMRK14X-es'
 tags: [  ]

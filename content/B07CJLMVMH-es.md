@@ -5,7 +5,7 @@ date: 2020-02-02 15:25:41
 image: 'https://m.media-amazon.com/images/I/414Ouvbg--L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJLMVMH-es Only Onlelcos 4/5 Top Jrs Noos suéter Gris Night Sky AOP:...'
 sku: 'B07CJLMVMH-es'
 tags: [  ]

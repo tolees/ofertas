@@ -5,7 +5,7 @@ date: 2020-08-10 17:49:15
 image: 'https://m.media-amazon.com/images/I/51y9-7HXGkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018YDMFRU-es CORDAYS - Organizador de Mandos a Distancia y Material de...'
 sku: 'B018YDMFRU-es'
 tags: [  ]

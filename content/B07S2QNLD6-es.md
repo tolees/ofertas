@@ -5,7 +5,7 @@ date: 2020-06-26 11:49:36
 image: 'https://m.media-amazon.com/images/I/31TOAG45HxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2QNLD6-es New Balance Draft Zapatillas para Correr de Carretera para...'
 sku: 'B07S2QNLD6-es'
 tags: [  ]

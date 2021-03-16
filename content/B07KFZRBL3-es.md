@@ -5,7 +5,7 @@ date: 2020-04-14 17:41:47
 image: 'https://m.media-amazon.com/images/I/41-TU1n-VpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZRBL3-es PUMA Future 4.3 Netfit FG/AG Botas de fútbol para Hombre...'
 sku: 'B07KFZRBL3-es'
 tags: [  ]

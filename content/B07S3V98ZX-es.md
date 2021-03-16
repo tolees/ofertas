@@ -5,7 +5,7 @@ date: 2020-03-10 16:55:54
 image: 'https://m.media-amazon.com/images/I/41Sr6N5u90L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3V98ZX-es Muñequera Tunel Carpiano Férula Muñequera con Correa...'
 sku: 'B07S3V98ZX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 17:22:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51M8GlUsvwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BPLGYS-es HP Q5953A - Cartucho de tóner'
 sku: 'B000BPLGYS-es'
 tags: [  ]

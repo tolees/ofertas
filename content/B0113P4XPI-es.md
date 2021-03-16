@@ -5,7 +5,7 @@ date: 2020-08-24 07:10:08
 image: 'https://m.media-amazon.com/images/I/41Tfh1IdlCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0113P4XPI-es Skechers Synergy-Winter Nights Botas para Mujer Negro...'
 sku: 'B0113P4XPI-es'
 tags: [  ]

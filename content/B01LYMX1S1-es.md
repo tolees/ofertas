@@ -5,7 +5,7 @@ date: 2020-04-08 05:59:04
 image: 'https://m.media-amazon.com/images/I/51ZEP-LqwoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYMX1S1-es Mandolina ajustable por Chef s INSPIRATIONS. Ideal para...'
 sku: 'B01LYMX1S1-es'
 tags: [  ]

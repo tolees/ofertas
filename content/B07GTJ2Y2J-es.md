@@ -5,7 +5,7 @@ date: 2020-01-29 22:18:09
 image: 'https://m.media-amazon.com/images/I/416TbBcjMIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GTJ2Y2J-es 3 M 9312pro10 Máscara para mano lazos 10 unidades'
 sku: 'B07GTJ2Y2J-es'
 tags: [  ]

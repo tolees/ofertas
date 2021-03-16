@@ -5,7 +5,7 @@ date: 2020-05-03 12:06:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QYY-otlNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCDX8ZM-es STANLEY FATMAX FMST1-80149 - Bolsa para ordenador y...'
 sku: 'B06XCDX8ZM-es'
 tags: [  ]

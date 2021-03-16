@@ -5,7 +5,7 @@ date: 2020-05-31 10:12:59
 image: 'https://m.media-amazon.com/images/I/51uo6uDlV6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R1LVMW9-es dothnix Collares Antiparasitos para Perros y Gatos contra...'
 sku: 'B07R1LVMW9-es'
 tags: [  ]

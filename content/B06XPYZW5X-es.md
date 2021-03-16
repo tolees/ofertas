@@ -5,7 +5,7 @@ date: 2020-08-07 18:33:46
 image: 'https://m.media-amazon.com/images/I/418tp9Iw9PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPYZW5X-es 3 5 mm Macho a 2 5 mm Hembra Adaptador de Audio Chapado en...'
 sku: 'B06XPYZW5X-es'
 tags: [  ]

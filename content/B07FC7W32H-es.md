@@ -5,7 +5,7 @@ date: 2020-05-27 13:58:13
 image: 'https://m.media-amazon.com/images/I/41NANB99TvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FC7W32H-es Integral INMSDX128G-100/90V30 Ultimapro Micro SDXC Class...'
 sku: 'B07FC7W32H-es'
 tags: [  ]

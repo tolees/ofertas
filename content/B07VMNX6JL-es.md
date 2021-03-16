@@ -5,7 +5,7 @@ date: 2020-04-19 09:57:22
 image: 'https://m.media-amazon.com/images/I/41XOye7hgxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VMNX6JL-es Calvin Klein Medium Drawstring Bañador Blanco PVH Classic...'
 sku: 'B07VMNX6JL-es'
 tags: [  ]

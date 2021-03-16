@@ -5,7 +5,7 @@ date: 2020-05-23 08:50:37
 image: 'https://m.media-amazon.com/images/I/31ihniua6JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAH7S5K-es Heno de Pravia - Desodorante roll-on 50 ml'
 sku: 'B00XAH7S5K-es'
 tags: [  ]

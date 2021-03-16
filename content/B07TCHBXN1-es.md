@@ -5,7 +5,7 @@ date: 2020-01-09 15:11:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41G44gPpsAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCHBXN1-es Quiksilver Mission-Guantes para Snowboard/Esquí para...'
 sku: 'B07TCHBXN1-es'
 tags: [  ]

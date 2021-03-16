@@ -5,7 +5,7 @@ date: 2020-04-13 17:05:51
 image: 'https://m.media-amazon.com/images/I/415xj3DbIrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXE590O-es Aigostar Black Pearl 30IMV - Hervidor de agua Premium con...'
 sku: 'B01MXE590O-es'
 tags: [  ]

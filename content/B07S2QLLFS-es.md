@@ -5,7 +5,7 @@ date: 2020-06-01 20:34:24
 image: 'https://m.media-amazon.com/images/I/41mIfxPoM6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2QLLFS-es New Balance 574 Zapatillas Clásicas para Mujer Morado...'
 sku: 'B07S2QLLFS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-08 19:02:13
 image: 'https://m.media-amazon.com/images/I/41kgFjHpDGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J2MQBVJ-es REYLEO'
 sku: 'B07J2MQBVJ-es'
 tags: [  ]

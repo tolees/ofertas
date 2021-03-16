@@ -5,7 +5,7 @@ date: 2020-02-03 06:36:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41w3Gje12oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6KH9LV-es RAOYI 2X 32GB Memoria USB 3.0 Pendrive USB Portátil 32GB...'
 sku: 'B07R6KH9LV-es'
 tags: [  ]

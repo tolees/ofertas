@@ -5,7 +5,7 @@ date: 2020-10-10 05:20:06
 image: 'https://m.media-amazon.com/images/I/31dYVHXL0wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IDM36MA-es 3 Claveles Tijera Alto Rendimiento de 8" Acero Carbono...'
 sku: 'B01IDM36MA-es'
 tags: [  ]

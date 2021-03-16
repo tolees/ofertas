@@ -5,7 +5,7 @@ date: 2020-07-19 15:23:14
 image: 'https://m.media-amazon.com/images/I/41PMdT9K0nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNZHBL9-es Cúrcuma Orgánica 1490mg con BioPerine®. Suplemento Nº 1 en...'
 sku: 'B07CNZHBL9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-24 09:29:21
 image: 'https://m.media-amazon.com/images/I/31KJqqHVMeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYLGH7J-es Adidas Swift Run J Zapatillas de Gimnasia Unisex Niños...'
 sku: 'B07JYLGH7J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-29 17:58:47
 image: 'https://m.media-amazon.com/images/I/41J2WsSm-BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Z17XPP-es Tommee Tippee 42257975 - Biberón anticólico 340 ml rosa'
 sku: 'B079Z17XPP-es'
 tags: [  ]

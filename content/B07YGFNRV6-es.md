@@ -5,7 +5,7 @@ date: 2020-09-04 18:56:30
 image: 'https://m.media-amazon.com/images/I/41nz1JS3w3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGFNRV6-es MTNG Attitude 69145 Zapatillas para Mujer Azul /Puntini...'
 sku: 'B07YGFNRV6-es'
 tags: [  ]

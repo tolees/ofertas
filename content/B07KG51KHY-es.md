@@ -5,7 +5,7 @@ date: 2020-04-06 16:16:08
 image: 'https://m.media-amazon.com/images/I/31mhFbAiDCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG51KHY-es PUMA Monarch TT Jr Botas de fútbol Unisex Niños Black...'
 sku: 'B07KG51KHY-es'
 tags: [  ]

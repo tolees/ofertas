@@ -5,7 +5,7 @@ date: 2020-01-17 19:02:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31P-1LRGc3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779K4GYK-es Pepe Jeans Poppy Pantalones Cortos Para Mujer Azul Denim...'
 sku: 'B0779K4GYK-es'
 tags: [  ]

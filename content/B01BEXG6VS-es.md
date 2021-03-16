@@ -5,7 +5,7 @@ date: 2020-09-28 08:52:55
 image: 'https://m.media-amazon.com/images/I/517jwbGO+mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BEXG6VS-es POP! Vinilo - Flash Gordon: General Klytus'
 sku: 'B01BEXG6VS-es'
 tags: [  ]

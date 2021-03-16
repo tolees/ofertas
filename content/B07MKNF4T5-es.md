@@ -5,7 +5,7 @@ date: 2020-02-28 11:04:06
 image: 'https://m.media-amazon.com/images/I/31QkZKM2X+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKNF4T5-es Tom Tailor 1008650 Polo Negro Black 29999 M para Hombre'
 sku: 'B07MKNF4T5-es'
 tags: [  ]

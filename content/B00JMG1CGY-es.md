@@ -5,7 +5,7 @@ date: 2020-04-10 18:10:37
 image: 'https://m.media-amazon.com/images/I/41W4n91aVwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JMG1CGY-es Faibo - Hojas lavables de recambio para borrador 15 M/ 15...'
 sku: 'B00JMG1CGY-es'
 tags: [  ]

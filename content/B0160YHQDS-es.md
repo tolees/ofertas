@@ -5,7 +5,7 @@ date: 2020-03-16 09:25:45
 image: 'https://m.media-amazon.com/images/I/51D8XwIt9UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0160YHQDS-es CMP Rigel - Zapatillas de senderismo Mujer Gris Grey-...'
 sku: 'B0160YHQDS-es'
 tags: [  ]

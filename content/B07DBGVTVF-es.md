@@ -5,7 +5,7 @@ date: 2020-04-23 23:15:24
 image: 'https://m.media-amazon.com/images/I/41gzDX24P2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBGVTVF-es Lenovo Ideapad 320-15AST - Ordenador Portátil 15.6" HD AMD...'
 sku: 'B07DBGVTVF-es'
 tags: [  ]

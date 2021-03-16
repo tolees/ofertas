@@ -5,7 +5,7 @@ date: 2020-02-26 09:04:13
 image: 'https://m.media-amazon.com/images/I/41t-zaYeCNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHDHMCC-es Qkiss Caja de Almacenamiento de joyería de 12 Ranuras Caja...'
 sku: 'B07VHDHMCC-es'
 tags: [  ]

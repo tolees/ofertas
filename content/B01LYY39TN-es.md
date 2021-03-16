@@ -5,7 +5,7 @@ date: 2020-09-12 18:53:46
 image: 'https://m.media-amazon.com/images/I/51L5Z5ijltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYY39TN-es Vaultskin Eton Armour - Funda de cuero para iPhone 6 Plus...'
 sku: 'B01LYY39TN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-15 20:47:37
 image: 'https://m.media-amazon.com/images/I/41ir8epmE7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGWYBVV-es Antena TV Interior DVB-T Mayor Rango de Recepción de 120...'
 sku: 'B07LGWYBVV-es'
 tags: [  ]

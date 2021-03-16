@@ -5,7 +5,7 @@ date: 2020-03-27 13:27:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-Ezxi50SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K12K2YV-es adidas Deerupt Runner C Zapatillas de Gimnasia Unisex...'
 sku: 'B07K12K2YV-es'
 tags: [  ]

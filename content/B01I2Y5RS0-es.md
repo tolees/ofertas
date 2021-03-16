@@ -5,7 +5,7 @@ date: 2020-05-30 16:46:47
 image: 'https://m.media-amazon.com/images/I/41lBiyNpohL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I2Y5RS0-es Astor Perfect Finish Powder Polvos Compactos Tono 102-56 gr'
 sku: 'B01I2Y5RS0-es'
 tags: [  ]

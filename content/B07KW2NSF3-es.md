@@ -5,7 +5,7 @@ date: 2020-02-09 14:50:47
 image: 'https://m.media-amazon.com/images/I/41nbj3bOXwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW2NSF3-es Baseus Cargador de Coche Quick Charge 3.0 5A 30W Carga...'
 sku: 'B07KW2NSF3-es'
 tags: [  ]

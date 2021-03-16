@@ -5,7 +5,7 @@ date: 2020-08-04 20:53:12
 image: 'https://m.media-amazon.com/images/I/41U8WAU4v-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GONK8JE-es Hollister Wave D Edp 100 Vapo Multicolor'
 sku: 'B01GONK8JE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 14:43:18
 image: 'https://m.media-amazon.com/images/I/418HLEgpCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0749WNBLJ-es SanDisk Ultra Imaging - Tarjeta de Memoria Micro SDHC de...'
 sku: 'B0749WNBLJ-es'
 tags: [  ]

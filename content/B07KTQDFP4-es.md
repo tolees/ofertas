@@ -5,7 +5,7 @@ date: 2020-03-01 15:49:45
 image: 'https://m.media-amazon.com/images/I/31KFUIYb31L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTQDFP4-es Tommy Hilfiger Reloj de Pulsera 1782038'
 sku: 'B07KTQDFP4-es'
 tags: [  ]

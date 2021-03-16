@@ -5,7 +5,7 @@ date: 2020-09-28 13:21:13
 image: 'https://m.media-amazon.com/images/I/31vxMeO3fiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYL66D4-es New Balance 373v2 Zapatillas para Hombre Negro Black/White...'
 sku: 'B07RYL66D4-es'
 tags: [  ]

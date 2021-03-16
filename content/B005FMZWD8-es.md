@@ -5,7 +5,7 @@ date: 2020-08-21 06:31:07
 image: 'https://m.media-amazon.com/images/I/513m3e0b8UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005FMZWD8-es Invicta 1513 I-Force Reloj para Hombre acero inoxidable...'
 sku: 'B005FMZWD8-es'
 tags: [  ]

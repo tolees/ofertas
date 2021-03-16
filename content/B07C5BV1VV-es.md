@@ -5,7 +5,7 @@ date: 2020-02-02 00:01:21
 image: 'https://m.media-amazon.com/images/I/41Y13kfIieL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5BV1VV-es Khanomak - Top Informal de Manga Corta con Cuello en V -...'
 sku: 'B07C5BV1VV-es'
 tags: [  ]

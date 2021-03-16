@@ -5,7 +5,7 @@ date: 2020-09-16 08:19:05
 image: 'https://m.media-amazon.com/images/I/415QAjeJdNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYWNV1R-es Lol Surprise - Disfraz Diva para niñas 5-6 años Rubies...'
 sku: 'B07HYWNV1R-es'
 tags: [  ]

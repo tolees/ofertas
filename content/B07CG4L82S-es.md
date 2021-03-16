@@ -5,7 +5,7 @@ date: 2020-08-28 19:35:11
 image: 'https://m.media-amazon.com/images/I/41XTjzxshfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CG4L82S-es Filtro para Ducha Universal AUELEK 10 Etapas Filtro...'
 sku: 'B07CG4L82S-es'
 tags: [  ]

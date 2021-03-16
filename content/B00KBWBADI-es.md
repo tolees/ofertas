@@ -5,7 +5,7 @@ date: 2020-02-12 14:56:53
 image: 'https://m.media-amazon.com/images/I/41N0+BfAJLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KBWBADI-es Oral-B SmartSeries 6000 Cepillo de Dientes Eléctrico con...'
 sku: 'B00KBWBADI-es'
 tags: [  ]

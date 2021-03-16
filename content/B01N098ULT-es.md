@@ -5,7 +5,7 @@ date: 2020-06-16 07:50:36
 image: 'https://m.media-amazon.com/images/I/41vmBZRo7wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N098ULT-es EverVanz Mochila de Lona para Portátil Maleta Grande para...'
 sku: 'B01N098ULT-es'
 tags: [  ]

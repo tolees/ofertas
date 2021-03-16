@@ -5,7 +5,7 @@ date: 2020-01-11 10:08:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31cgmcsejPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSV82YM-es Luchild Dispensador de Leche en Polvo Fórmula Portátil...'
 sku: 'B07WSV82YM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-11 09:02:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51-gxXaKdbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HDQYB5-es Lebze Muselina Manta Bebé -"Diseño de Conejo" Bambú...'
 sku: 'B071HDQYB5-es'
 tags: [  ]

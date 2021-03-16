@@ -5,7 +5,7 @@ date: 2020-01-26 22:53:44
 image: 'https://m.media-amazon.com/images/I/410r1Hiiy-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00402JUBE-es Dual DT 210 USB - Tocadiscos para equipo de audio USB...'
 sku: 'B00402JUBE-es'
 tags: [  ]

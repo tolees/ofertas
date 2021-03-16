@@ -5,7 +5,7 @@ date: 2020-09-21 10:38:04
 image: 'https://m.media-amazon.com/images/I/51P-JP5Q0dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081GSRDS5-es VaKo Hub USB C a HDMI 12 En 1 Pantalla Triple Adaptador...'
 sku: 'B081GSRDS5-es'
 tags: [  ]

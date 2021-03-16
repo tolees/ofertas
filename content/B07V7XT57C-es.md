@@ -5,7 +5,7 @@ date: 2020-08-10 20:15:21
 image: 'https://m.media-amazon.com/images/I/317X6OHNY8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7XT57C-es Tommy Hilfiger Corporate Material Mix Runner Zapatillas...'
 sku: 'B07V7XT57C-es'
 tags: [  ]

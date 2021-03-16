@@ -5,7 +5,7 @@ date: 2020-09-06 04:07:33
 image: 'https://m.media-amazon.com/images/I/41fdl5nBrwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXN5FX8-es Seiko Reloj analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B07FXN5FX8-es'
 tags: [  ]

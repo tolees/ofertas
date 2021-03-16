@@ -5,7 +5,7 @@ date: 2020-02-17 10:14:05
 image: 'https://m.media-amazon.com/images/I/41RwR3213JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4E8ITJ-es find. Lace Detail Ribbed Suéter para Mujer Rosa Orchid 40...'
 sku: 'B01N4E8ITJ-es'
 tags: [  ]

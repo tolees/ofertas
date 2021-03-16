@@ -5,7 +5,7 @@ date: 2020-04-17 15:49:24
 image: 'https://m.media-amazon.com/images/I/41MBf4uFnHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T1MMDQ-es Clarks Brixby Cove Sandalia con Pulsera para Hombre Negro...'
 sku: 'B078T1MMDQ-es'
 tags: [  ]

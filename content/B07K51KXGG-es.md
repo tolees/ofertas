@@ -5,7 +5,7 @@ date: 2020-10-06 19:12:04
 image: 'https://m.media-amazon.com/images/I/31zrvKXROWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K51KXGG-es adidas Handball Spezial Sneaker Mens Collegiate Navy/Clear...'
 sku: 'B07K51KXGG-es'
 tags: [  ]

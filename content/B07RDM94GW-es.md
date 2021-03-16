@@ -5,7 +5,7 @@ date: 2020-10-02 07:57:06
 image: 'https://m.media-amazon.com/images/I/41L9URkTuXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDM94GW-es Columbia Vitesse Zapatillas de Deporte para Mujer Black...'
 sku: 'B07RDM94GW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-02 00:51:57
 image: 'https://m.media-amazon.com/images/I/51kA72BWV4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YTC914H-es Cortapelo Profesional Hombre Máquina Afeitar Barba...'
 sku: 'B07YTC914H-es'
 tags: [  ]

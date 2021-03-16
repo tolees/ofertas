@@ -5,7 +5,7 @@ date: 2020-02-28 11:08:40
 image: 'https://m.media-amazon.com/images/I/419ys6kROBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F18ZAP6-es Fjällräven Kånken no 2 Mochila de senderismo Unisex Adulto...'
 sku: 'B00F18ZAP6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-05 15:48:37
 image: 'https://m.media-amazon.com/images/I/31fYt0nlU6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KV6E5HG-es MiroPure Cepillo Limpiador Eléctrico Facial y corporal...'
 sku: 'B01KV6E5HG-es'
 tags: [  ]

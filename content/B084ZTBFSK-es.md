@@ -5,7 +5,7 @@ date: 2020-06-24 12:02:25
 image: 'https://m.media-amazon.com/images/I/31XinoGpYcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZTBFSK-es 2018 New Water Guns Pool Toys para niños Squirt Guns Pull-...'
 sku: 'B084ZTBFSK-es'
 tags: [  ]

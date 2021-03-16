@@ -5,7 +5,7 @@ date: 2020-04-12 00:07:20
 image: 'https://m.media-amazon.com/images/I/31YwvSkYqEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ3MRZY-es Springfield 4.2.Pc.Mono Liso Navy Pantalones para Mujer...'
 sku: 'B07NJ3MRZY-es'
 tags: [  ]

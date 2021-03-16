@@ -5,7 +5,7 @@ date: 2020-09-20 21:36:02
 image: 'https://m.media-amazon.com/images/I/51lM93nqmkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFSZ8R8-es Kaishuai Alfombrilla de Ratón Grande Gaming Mouse Pad...'
 sku: 'B08DFSZ8R8-es'
 tags: [  ]

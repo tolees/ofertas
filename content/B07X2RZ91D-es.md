@@ -5,7 +5,7 @@ date: 2020-02-23 10:30:41
 image: 'https://m.media-amazon.com/images/I/31vpi6+3jEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2RZ91D-es KIWI design Funda Protectora para dji Osmo Pocket Cubierta...'
 sku: 'B07X2RZ91D-es'
 tags: [  ]

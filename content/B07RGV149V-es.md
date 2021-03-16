@@ -5,7 +5,7 @@ date: 2020-09-19 01:03:59
 image: 'https://m.media-amazon.com/images/I/41Wq5TAX1KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGV149V-es New Balance Hombre Fresh Foam Arishi v3 Scarpe Running...'
 sku: 'B07RGV149V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 08:23:32
 image: 'https://m.media-amazon.com/images/I/51L7x6HZG8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FX2TXPW-es LIERAS Grifos de cocina Girar Primavera Canalon Extraer...'
 sku: 'B01FX2TXPW-es'
 tags: [  ]

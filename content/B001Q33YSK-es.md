@@ -5,7 +5,7 @@ date: 2020-05-31 17:15:54
 image: 'https://m.media-amazon.com/images/I/31HInix87lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001Q33YSK-es Reebok Classic Lthr 2214 Zapatillas de Trail Running para...'
 sku: 'B001Q33YSK-es'
 tags: [  ]

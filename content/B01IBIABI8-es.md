@@ -5,7 +5,7 @@ date: 2020-02-16 08:08:32
 image: 'https://m.media-amazon.com/images/I/41qPzTlrLhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IBIABI8-es JACK & JONES JJIPAUL JJLEATHER BELT NOOS Cinturón Hombre...'
 sku: 'B01IBIABI8-es'
 tags: [  ]

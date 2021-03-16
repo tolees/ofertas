@@ -5,7 +5,7 @@ date: 2020-05-13 09:48:01
 image: 'https://m.media-amazon.com/images/I/51VPTSF6p9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053CAKM8-es X-Men Orígenes: Lobezno [DVD]'
 sku: 'B0053CAKM8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-07 13:19:43
 image: 'https://m.media-amazon.com/images/I/41o7lQc3JwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006J1S9SY-es Braun Silk-épil 5 - Depiladora para mujer con 3...'
 sku: 'B006J1S9SY-es'
 tags: [  ]

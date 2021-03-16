@@ -5,7 +5,7 @@ date: 2020-08-20 16:43:06
 image: 'https://m.media-amazon.com/images/I/41dujJbcx1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTD3PM1-es Funko- Pop Disney: Onward-Manticore Collectible Toy...'
 sku: 'B07TTD3PM1-es'
 tags: [  ]

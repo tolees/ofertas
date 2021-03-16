@@ -5,7 +5,7 @@ date: 2020-02-22 11:31:23
 image: 'https://m.media-amazon.com/images/I/51+TFOUo8LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHH8V4F-es QHOHQ Protector de Pantalla para Realme 5 Pro [3 Piezas]...'
 sku: 'B07ZHH8V4F-es'
 tags: [  ]

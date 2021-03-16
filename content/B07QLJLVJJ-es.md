@@ -5,7 +5,7 @@ date: 2020-05-27 20:02:09
 image: 'https://m.media-amazon.com/images/I/514GpJWisYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLJLVJJ-es Game Of Thrones Póster Multicolor 61 x 91.5cm'
 sku: 'B07QLJLVJJ-es'
 tags: [  ]

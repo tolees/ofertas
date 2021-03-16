@@ -5,7 +5,7 @@ date: 2020-06-26 09:57:57
 image: 'https://m.media-amazon.com/images/I/41Xz2GdP0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798GTLX7-es Figura Pop! Garbage Pail Kids Ghastly Ashley'
 sku: 'B0798GTLX7-es'
 tags: [  ]

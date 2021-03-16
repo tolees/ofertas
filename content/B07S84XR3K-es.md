@@ -5,7 +5,7 @@ date: 2020-01-08 16:56:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hQZmBuThL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S84XR3K-es adidas Real Madrid Mini Home Kids Equipamiento de Fútbol...'
 sku: 'B07S84XR3K-es'
 tags: [  ]

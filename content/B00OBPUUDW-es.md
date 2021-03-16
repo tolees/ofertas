@@ -5,7 +5,7 @@ date: 2020-03-21 17:43:38
 image: 'https://m.media-amazon.com/images/I/41mS-ycyndL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OBPUUDW-es Sharkoon Skiller Pro - Teclado USB Juego QWERTY Inglés de...'
 sku: 'B00OBPUUDW-es'
 tags: [  ]

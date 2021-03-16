@@ -5,7 +5,7 @@ date: 2020-04-17 08:26:48
 image: 'https://m.media-amazon.com/images/I/41rRxKSq-rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BY33PC-es LEADSTAR 6FT Juego De Paracaídas de Color para Niños Arco...'
 sku: 'B072BY33PC-es'
 tags: [  ]

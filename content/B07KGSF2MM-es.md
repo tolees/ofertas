@@ -5,7 +5,7 @@ date: 2020-01-17 11:55:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vs9SwD6UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGSF2MM-es Energy Beat Box 2+ Lightcube Beat Lights TWS Bluetooth...'
 sku: 'B07KGSF2MM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-28 11:41:51
 image: 'https://m.media-amazon.com/images/I/418+X3h7fyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCCBD3D-es Arsenal FC - Bufanda modelo Gunners 132 x 19cm Azul marino'
 sku: 'B07MCCBD3D-es'
 tags: [  ]

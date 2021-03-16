@@ -5,7 +5,7 @@ date: 2020-06-02 20:38:47
 image: 'https://m.media-amazon.com/images/I/41SONWyTQ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYL65M3-es New Balance 997h Zapatillas para Mujer Gris Grey/Blue HAP...'
 sku: 'B07RYL65M3-es'
 tags: [  ]

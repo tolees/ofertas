@@ -5,7 +5,7 @@ date: 2020-03-11 12:31:38
 image: 'https://m.media-amazon.com/images/I/51FGUeujvUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3PVDB8-es Gliss - Mascarilla Ultimate Repair para Cabellos Muy...'
 sku: 'B07N3PVDB8-es'
 tags: [  ]

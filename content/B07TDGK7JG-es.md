@@ -5,7 +5,7 @@ date: 2020-02-25 10:04:17
 image: 'https://m.media-amazon.com/images/I/41zwV99MkcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TDGK7JG-es Xnuoyo Limpiador de poros Extractor Puntos Negros...'
 sku: 'B07TDGK7JG-es'
 tags: [  ]

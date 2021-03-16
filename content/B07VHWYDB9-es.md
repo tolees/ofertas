@@ -5,7 +5,7 @@ date: 2020-09-30 05:37:26
 image: 'https://m.media-amazon.com/images/I/41nKzb0F+kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHWYDB9-es Vans Atwood Canvas Zapatillas para Hombre Azul Enzyme Wash...'
 sku: 'B07VHWYDB9-es'
 tags: [  ]

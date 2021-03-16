@@ -5,7 +5,7 @@ date: 2020-03-31 08:04:21
 image: 'https://m.media-amazon.com/images/I/41Y1K349qBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U27ZIVC-es dn-nightwear Mujer Albornoz/Bata SDB.7059 con Capucha...'
 sku: 'B00U27ZIVC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 14:50:34
 image: 'https://m.media-amazon.com/images/I/31Y+mNQZbRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XQJSNM-es Under Armour Sujetador Deportivo para Mujer Cross Back...'
 sku: 'B077XQJSNM-es'
 tags: [  ]

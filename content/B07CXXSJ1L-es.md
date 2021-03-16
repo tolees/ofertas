@@ -5,7 +5,7 @@ date: 2020-01-17 20:43:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RE4iXXvXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXXSJ1L-es Salomon Trailster GTX W Zapatillas de Trail Running para...'
 sku: 'B07CXXSJ1L-es'
 tags: [  ]

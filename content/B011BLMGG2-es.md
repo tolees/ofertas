@@ -5,7 +5,7 @@ date: 2020-08-28 14:44:36
 image: 'https://m.media-amazon.com/images/I/41jgdX9NhGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011BLMGG2-es Tribe Los Minions Despicable Me Egyptian - Memoria USB 2.0...'
 sku: 'B011BLMGG2-es'
 tags: [  ]

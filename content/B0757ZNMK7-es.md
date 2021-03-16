@@ -5,7 +5,7 @@ date: 2020-01-01 09:35:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41izVKT0nrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757ZNMK7-es find. Skinny Jeans Azul Indigo Raw W30/L32'
 sku: 'B0757ZNMK7-es'
 tags: [  ]

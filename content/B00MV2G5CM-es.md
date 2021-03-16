@@ -5,7 +5,7 @@ date: 2020-03-20 08:51:20
 image: 'https://m.media-amazon.com/images/I/31vDcF1GQKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MV2G5CM-es Sisley Phyto-Teint Expert #3-Natural 30 ml'
 sku: 'B00MV2G5CM-es'
 tags: [  ]

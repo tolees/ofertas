@@ -5,7 +5,7 @@ date: 2020-03-16 09:57:44
 image: 'https://m.media-amazon.com/images/I/31zQ8nVtJxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YB5XR83-es Cable USB-C Tipo C Muelle en Espiral Espiral Tipo-C Cable...'
 sku: 'B07YB5XR83-es'
 tags: [  ]

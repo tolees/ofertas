@@ -5,7 +5,7 @@ date: 2020-09-10 11:01:00
 image: 'https://m.media-amazon.com/images/I/51WTb-n4amL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088T6QPJW-es SpringPear® 15 × 15 cm 5 9 × 5 9 pulgadas Cuadrado 64...'
 sku: 'B088T6QPJW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 10:33:37
 image: 'https://m.media-amazon.com/images/I/41dRySFLobL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5H6N6W-es Salomon ALPHACROSS Blast Zapatillas de Trail Running para...'
 sku: 'B07Z5H6N6W-es'
 tags: [  ]

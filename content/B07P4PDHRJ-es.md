@@ -5,7 +5,7 @@ date: 2020-04-12 20:30:49
 image: 'https://m.media-amazon.com/images/I/41rT9FH269L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4PDHRJ-es Art Marina Botas Clasicas Unisex Adulto Negro Black Black...'
 sku: 'B07P4PDHRJ-es'
 tags: [  ]

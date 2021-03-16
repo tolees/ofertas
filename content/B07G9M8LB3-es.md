@@ -5,7 +5,7 @@ date: 2020-04-11 16:41:02
 image: 'https://m.media-amazon.com/images/I/31yYU0T6MSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9M8LB3-es Craft Sweatshirt Femme Emotion Crew'
 sku: 'B07G9M8LB3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-23 18:17:22
 image: 'https://m.media-amazon.com/images/I/41i8wYsp-zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007FTKXWY-es RockShox Kit Mantenimiento Horquilla Reba/SID...'
 sku: 'B007FTKXWY-es'
 tags: [  ]

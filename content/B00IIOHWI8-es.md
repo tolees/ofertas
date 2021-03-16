@@ -5,7 +5,7 @@ date: 2020-05-23 05:40:38
 image: 'https://m.media-amazon.com/images/I/41MuNUouI1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IIOHWI8-es Muvit MUGOO0008 Riñonera Cinturón Elástico Impermeable...'
 sku: 'B00IIOHWI8-es'
 tags: [  ]

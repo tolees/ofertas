@@ -5,7 +5,7 @@ date: 2020-05-26 17:48:15
 image: 'https://m.media-amazon.com/images/I/514V6BU3xeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N29HM0N-es Epson Workforce DS-770 - Escáner 215 9 x 215 9 mm 600 x...'
 sku: 'B01N29HM0N-es'
 tags: [  ]

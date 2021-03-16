@@ -5,7 +5,7 @@ date: 2020-07-08 16:49:29
 image: 'https://m.media-amazon.com/images/I/41juq2jUhrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003TCSYJU-es Chupa Chups Original Caramelo con Palo de Sabores Variados...'
 sku: 'B003TCSYJU-es'
 tags: [  ]

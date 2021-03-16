@@ -5,7 +5,7 @@ date: 2020-07-06 21:07:26
 image: 'https://m.media-amazon.com/images/I/41BkCRepZYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ751GR-es Adidas Tensaur I Zapatillas de Estar por casa Bebé Unisex...'
 sku: 'B07SJ751GR-es'
 tags: [  ]

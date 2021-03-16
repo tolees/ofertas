@@ -5,7 +5,7 @@ date: 2020-02-19 00:51:00
 image: 'https://m.media-amazon.com/images/I/41WpXRjcLeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRXTXDW-es Mr. Tronic 20m Cable de Red Plano Ethernet Latiguillo |...'
 sku: 'B07SRXTXDW-es'
 tags: [  ]

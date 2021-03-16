@@ -5,7 +5,7 @@ date: 2020-08-13 08:36:26
 image: 'https://m.media-amazon.com/images/I/41kTPcn6LVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FANJSSC-es Cybex Silver - Portabebé Aton en contra de la marcha...'
 sku: 'B00FANJSSC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-01 07:27:13
 image: 'https://m.media-amazon.com/images/I/41255FJnTSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ8RZ3F-es Kickers Atryo Zapatillas para Hombre Azul Bleu Denim 5 42 EU'
 sku: 'B07TJ8RZ3F-es'
 tags: [  ]

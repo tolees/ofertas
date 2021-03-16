@@ -5,7 +5,7 @@ date: 2020-06-06 21:11:54
 image: 'https://m.media-amazon.com/images/I/41TWmKeklHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0843ZYHWQ-es Skip Liquido Ultimate Triple Poder Fragancia Mimosin 50...'
 sku: 'B0843ZYHWQ-es'
 tags: [  ]

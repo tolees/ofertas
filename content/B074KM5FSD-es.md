@@ -5,7 +5,7 @@ date: 2020-03-17 11:40:52
 image: 'https://m.media-amazon.com/images/I/51OS0rbU2bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074KM5FSD-es Fantasy Flight Games- Hera Syndulla y C1-10P colección...'
 sku: 'B074KM5FSD-es'
 tags: [  ]

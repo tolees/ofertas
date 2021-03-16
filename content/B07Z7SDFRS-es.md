@@ -5,7 +5,7 @@ date: 2020-04-04 05:20:03
 image: 'https://m.media-amazon.com/images/I/516OnlVF4PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7SDFRS-es 6ml 12 colores Acrílico profesional Pinturas pintadas a...'
 sku: 'B07Z7SDFRS-es'
 tags: [  ]

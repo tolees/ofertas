@@ -5,7 +5,7 @@ date: 2020-02-05 22:12:33
 image: 'https://m.media-amazon.com/images/I/31qC8BF0ddL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB7TS5V-es Columbia Buga Conjunto para la Nieve Niños Azul Super Blue...'
 sku: 'B07RB7TS5V-es'
 tags: [  ]

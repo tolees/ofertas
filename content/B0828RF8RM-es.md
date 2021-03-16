@@ -5,7 +5,7 @@ date: 2020-03-02 09:03:06
 image: 'https://m.media-amazon.com/images/I/41mopLZ7-tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0828RF8RM-es ivencase Funda para Samsung Galaxy A71 Ultra Fina Silicona...'
 sku: 'B0828RF8RM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-10 17:21:53
 image: 'https://m.media-amazon.com/images/I/41CU1TGTKZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HEVAPSO-es Michael Kors Reloj Analogico para Hombre de Cuarzo con...'
 sku: 'B01HEVAPSO-es'
 tags: [  ]

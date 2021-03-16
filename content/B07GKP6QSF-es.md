@@ -5,7 +5,7 @@ date: 2020-03-31 07:09:21
 image: 'https://m.media-amazon.com/images/I/31fcZqGyZWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKP6QSF-es Philips Serie 7000 BG7020/15 - Afeitadora corporal con...'
 sku: 'B07GKP6QSF-es'
 tags: [  ]

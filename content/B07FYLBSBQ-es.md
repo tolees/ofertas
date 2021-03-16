@@ -5,7 +5,7 @@ date: 2020-01-29 09:16:31
 image: 'https://m.media-amazon.com/images/I/51NnJdaBRoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYLBSBQ-es Bandolera Pepe Jeans Bromley Verde'
 sku: 'B07FYLBSBQ-es'
 tags: [  ]

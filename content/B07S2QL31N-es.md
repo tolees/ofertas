@@ -5,7 +5,7 @@ date: 2020-06-25 00:12:05
 image: 'https://m.media-amazon.com/images/I/41JwznKI5XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2QL31N-es New Balance Fresh Foam Tempo h Zapatillas de Running para...'
 sku: 'B07S2QL31N-es'
 tags: [  ]

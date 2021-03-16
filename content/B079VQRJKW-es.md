@@ -5,7 +5,7 @@ date: 2020-01-29 07:51:08
 image: 'https://m.media-amazon.com/images/I/512c6WzL-GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VQRJKW-es Meccano Ducati Moto GP - Juegos de construcción Juego de...'
 sku: 'B079VQRJKW-es'
 tags: [  ]

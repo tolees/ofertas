@@ -5,7 +5,7 @@ date: 2020-04-16 18:13:51
 image: 'https://m.media-amazon.com/images/I/4178Tj3AzfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SH1DBD-es K9CK Vitrina para 21319 Ideas Friends Central Perk Caja de...'
 sku: 'B083SH1DBD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 12:41:26
 image: 'https://m.media-amazon.com/images/I/41GUTTiAMpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H29Z3YW-es Gowind6 - Extensión de pestañas de algodón para...'
 sku: 'B07H29Z3YW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-29 00:22:05
 image: 'https://m.media-amazon.com/images/I/31z-OnZ3gvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SX8SH6C-es Nike Free RN 5.0 Zapatillas de Running para Mujer Morado...'
 sku: 'B07SX8SH6C-es'
 tags: [  ]

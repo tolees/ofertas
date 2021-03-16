@@ -5,7 +5,7 @@ date: 2020-02-28 09:32:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AR9AcsRbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC89WMM-es Sloggi Zero Feel Top Ex Corsé Azul Cool Ice 00iu 38 Talla...'
 sku: 'B07DC89WMM-es'
 tags: [  ]

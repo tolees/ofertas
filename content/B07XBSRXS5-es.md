@@ -5,7 +5,7 @@ date: 2020-10-07 19:07:47
 image: 'https://m.media-amazon.com/images/I/31MRbZfOa3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBSRXS5-es PUMA Logo Elastic 3/4 Tight Mallas Deporte Mujer Black XS'
 sku: 'B07XBSRXS5-es'
 tags: [  ]

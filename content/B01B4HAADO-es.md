@@ -5,7 +5,7 @@ date: 2020-03-15 20:56:32
 image: 'https://m.media-amazon.com/images/I/319r6iq1MHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B4HAADO-es PUMA Unisex Running Cap III Gorra Hombre Black Adult'
 sku: 'B01B4HAADO-es'
 tags: [  ]

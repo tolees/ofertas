@@ -5,7 +5,7 @@ date: 2020-04-16 11:42:13
 image: 'https://m.media-amazon.com/images/I/41kJUAH8EPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HHLZRMA-es Crocs Fun Lab Minions Clog Unisex Niños Zueco Azul Ocean...'
 sku: 'B01HHLZRMA-es'
 tags: [  ]

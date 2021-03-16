@@ -5,7 +5,7 @@ date: 2020-05-31 09:16:38
 image: 'https://m.media-amazon.com/images/I/416BF064VTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082P4KNG3-es Flamingueo Mapa Mundi Corcho Pared - Mapamundi Grande con...'
 sku: 'B082P4KNG3-es'
 tags: [  ]

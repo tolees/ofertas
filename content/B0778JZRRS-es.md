@@ -5,7 +5,7 @@ date: 2020-02-28 14:46:04
 image: 'https://m.media-amazon.com/images/I/51DxG-ZWvRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0778JZRRS-es Pro Breeze Calefactor Eléctrico Cerámico 500W - con...'
 sku: 'B0778JZRRS-es'
 tags: [  ]

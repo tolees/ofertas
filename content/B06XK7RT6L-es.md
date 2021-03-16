@@ -5,7 +5,7 @@ date: 2020-01-08 16:26:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31qi1Dky0aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XK7RT6L-es Pasito a pasito 73748 - Bolsa canastilla acolchada Inés...'
 sku: 'B06XK7RT6L-es'
 tags: [  ]

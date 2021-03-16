@@ -5,7 +5,7 @@ date: 2020-09-30 17:37:22
 image: 'https://m.media-amazon.com/images/I/41J0WA7v+sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VT2X4L-es Diyife Báscula Digital de Cocina 0.01g/500g Báscula...'
 sku: 'B082VT2X4L-es'
 tags: [  ]

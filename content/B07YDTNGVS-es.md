@@ -5,7 +5,7 @@ date: 2020-01-29 10:33:08
 image: 'https://m.media-amazon.com/images/I/41D2T-pgNOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDTNGVS-es Pikolin Leah colchón viscoelástico y espuma HR 160x200...'
 sku: 'B07YDTNGVS-es'
 tags: [  ]

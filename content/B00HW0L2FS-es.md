@@ -5,7 +5,7 @@ date: 2020-07-14 03:56:47
 image: 'https://m.media-amazon.com/images/I/31sClds2wiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HW0L2FS-es Vileda Bayetas Microfibra Azul - 5 Unidades'
 sku: 'B00HW0L2FS-es'
 tags: [  ]

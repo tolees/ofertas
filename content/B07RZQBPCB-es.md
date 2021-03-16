@@ -5,7 +5,7 @@ date: 2020-04-16 06:52:27
 image: 'https://m.media-amazon.com/images/I/31yLCnbpkFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZQBPCB-es Lacoste - Polo Manga Corta Hombre - Ph8522'
 sku: 'B07RZQBPCB-es'
 tags: [  ]

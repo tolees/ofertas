@@ -5,7 +5,7 @@ date: 2020-03-27 12:29:10
 image: 'https://m.media-amazon.com/images/I/41WIofWY3KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWC3NFM-es New Balance Ml574 D Zapatillas para Hombre Negro Egn Black...'
 sku: 'B07NWC3NFM-es'
 tags: [  ]

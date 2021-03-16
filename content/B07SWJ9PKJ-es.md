@@ -5,7 +5,7 @@ date: 2020-05-01 17:44:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415qSCjn24L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWJ9PKJ-es Cozime Vigilabebés Inalámbrico Bebé Monitor Inteligente...'
 sku: 'B07SWJ9PKJ-es'
 tags: [  ]

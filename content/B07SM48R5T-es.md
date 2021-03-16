@@ -5,7 +5,7 @@ date: 2020-07-17 09:41:03
 image: 'https://m.media-amazon.com/images/I/31-kghtZimL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SM48R5T-es 128GB Pendrive RAOYI Memoria USB 3.0 Pen Drive 128GB Alta...'
 sku: 'B07SM48R5T-es'
 tags: [  ]

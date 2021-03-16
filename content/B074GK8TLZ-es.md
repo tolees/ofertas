@@ -5,7 +5,7 @@ date: 2020-10-06 17:45:40
 image: 'https://m.media-amazon.com/images/I/51bfwLB0tCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074GK8TLZ-es CUADERNO DE DIBUJO ZenART B5 18x24 cm – Cubierta de Cuero...'
 sku: 'B074GK8TLZ-es'
 tags: [  ]

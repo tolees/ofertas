@@ -5,7 +5,7 @@ date: 2020-01-01 11:18:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31x37CsLc9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AXVQLP8-es Butter London Plush Rush Pintalabios'
 sku: 'B01AXVQLP8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-02 16:22:01
 image: 'https://m.media-amazon.com/images/I/41CQZsdvi4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKFF7YZ-es Clarks Step Urban Mix Zapatillas para Hombre Verde Khaki...'
 sku: 'B07FKFF7YZ-es'
 tags: [  ]

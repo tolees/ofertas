@@ -5,7 +5,7 @@ date: 2020-04-21 10:01:37
 image: 'https://m.media-amazon.com/images/I/31kci3Kw7jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074L44VZL-es SELECTED HOMME Shhoneluca St Pants Noos Pantalones Azul...'
 sku: 'B074L44VZL-es'
 tags: [  ]

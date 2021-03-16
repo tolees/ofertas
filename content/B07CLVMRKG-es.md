@@ -5,7 +5,7 @@ date: 2020-08-10 06:14:39
 image: 'https://m.media-amazon.com/images/I/51BrVtg8JfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLVMRKG-es Memorias USB 5 Piezas 16GB USB 2.0 Stick Flash Drive...'
 sku: 'B07CLVMRKG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-31 16:01:08
 image: 'https://m.media-amazon.com/images/I/51c7yxSfsFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081VHCTXJ-es Dasket Set de Pinceles para Pincel de Pintura de acrílicos...'
 sku: 'B081VHCTXJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-03 13:16:40
 image: 'https://m.media-amazon.com/images/I/41tj9iBl3TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTNHF3G-es BRIKSMAX Kit de Iluminación Led para Lego Technic Camión...'
 sku: 'B07TTNHF3G-es'
 tags: [  ]

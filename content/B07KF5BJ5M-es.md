@@ -5,7 +5,7 @@ date: 2020-01-04 13:25:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31lHdaQfs4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF5BJ5M-es Levi s unbasic Hoodie Capucha Blanco White + 0006 X-Small...'
 sku: 'B07KF5BJ5M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 12:19:32
 image: 'https://m.media-amazon.com/images/I/41bh1g0HKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBMJ98L-es Anker Soundcore Icon Mini Altavoz Bluetooth Impermeable...'
 sku: 'B07LBMJ98L-es'
 tags: [  ]

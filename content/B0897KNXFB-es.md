@@ -5,7 +5,7 @@ date: 2020-05-29 17:45:45
 image: 'https://m.media-amazon.com/images/I/5136RgjMUqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0897KNXFB-es NA Organizador de Maquillaje de lápiz Organizador de lápiz...'
 sku: 'B0897KNXFB-es'
 tags: [  ]

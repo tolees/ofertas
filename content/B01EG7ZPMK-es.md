@@ -5,7 +5,7 @@ date: 2020-01-30 09:13:31
 image: 'https://m.media-amazon.com/images/I/412CdpkkM0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EG7ZPMK-es Gigandet Reloj de Hombre Cuarzo Red Touch Cronógrafo...'
 sku: 'B01EG7ZPMK-es'
 tags: [  ]

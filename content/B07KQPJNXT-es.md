@@ -5,7 +5,7 @@ date: 2020-02-05 15:09:05
 image: 'https://m.media-amazon.com/images/I/417Q3xrJwDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQPJNXT-es Salomon XA Discovery GTX Zapatillas de Trail Running para...'
 sku: 'B07KQPJNXT-es'
 tags: [  ]

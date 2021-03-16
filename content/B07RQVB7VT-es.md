@@ -5,7 +5,7 @@ date: 2020-09-22 14:27:26
 image: 'https://m.media-amazon.com/images/I/41buS4hOMrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQVB7VT-es 3D Simulación de la Vagina la Lengua y los Dientes Fácil...'
 sku: 'B07RQVB7VT-es'
 tags: [  ]

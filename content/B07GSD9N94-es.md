@@ -5,7 +5,7 @@ date: 2020-06-25 16:36:59
 image: 'https://m.media-amazon.com/images/I/51fMyVV2msL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSD9N94-es Einhell HEROCCO Martillo perforador inalámbrico no Incluye...'
 sku: 'B07GSD9N94-es'
 tags: [  ]

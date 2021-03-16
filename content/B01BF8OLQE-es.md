@@ -5,7 +5,7 @@ date: 2020-09-03 22:40:02
 image: 'https://m.media-amazon.com/images/I/31tgKPeaGuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BF8OLQE-es Astor Mattitude Foundation Base de Maquillaje Tono 102'
 sku: 'B01BF8OLQE-es'
 tags: [  ]

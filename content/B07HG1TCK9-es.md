@@ -5,7 +5,7 @@ date: 2020-01-02 10:51:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31uMgS3ThbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG1TCK9-es New Balance 373 Zapatillas Hombre Negro Black Black 37 EU'
 sku: 'B07HG1TCK9-es'
 tags: [  ]

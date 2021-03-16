@@ -5,7 +5,7 @@ date: 2020-03-05 16:37:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CjQjPV8%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0768RKYNZ-es Hoover Jazz SM156WDP4 - Aspirador de mano sin cable hasta...'
 sku: 'B0768RKYNZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 13:32:41
 image: 'https://m.media-amazon.com/images/I/31Dh8+dmUVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ERC8DTG-es L Oréal Paris - False Lash Mariposa Máscara de Pestañas...'
 sku: 'B01ERC8DTG-es'
 tags: [  ]

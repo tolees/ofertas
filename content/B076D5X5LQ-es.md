@@ -5,7 +5,7 @@ date: 2020-05-30 14:03:45
 image: 'https://m.media-amazon.com/images/I/41tTCC9--bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076D5X5LQ-es 4 Piezas Gorras de Peluca URAQT Redecillas Casquillo de...'
 sku: 'B076D5X5LQ-es'
 tags: [  ]

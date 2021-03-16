@@ -5,7 +5,7 @@ date: 2020-07-24 05:14:53
 image: 'https://m.media-amazon.com/images/I/419JESkpqTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CD2PZG5-es azorex Mini Enfriador Portátil USB Aire Acondicionado...'
 sku: 'B08CD2PZG5-es'
 tags: [  ]

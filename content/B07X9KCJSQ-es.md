@@ -5,7 +5,7 @@ date: 2020-07-10 12:27:44
 image: 'https://m.media-amazon.com/images/I/41fwb8pg7DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X9KCJSQ-es IPOTCH El Soporte del Porta Bolsas De Lona Enrolla El...'
 sku: 'B07X9KCJSQ-es'
 tags: [  ]

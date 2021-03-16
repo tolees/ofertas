@@ -5,7 +5,7 @@ date: 2020-04-21 18:03:05
 image: 'https://m.media-amazon.com/images/I/41tfdPUX+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SS5G6X-es Desigual Sweat Daniela suéter Negro 2000 Large para Mujer'
 sku: 'B079SS5G6X-es'
 tags: [  ]

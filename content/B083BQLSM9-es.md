@@ -5,7 +5,7 @@ date: 2020-08-27 08:52:55
 image: 'https://m.media-amazon.com/images/I/51b92uC8maL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BQLSM9-es Toozey Juguetes para Gatos 24 Piezas Juguetes para Gatitos...'
 sku: 'B083BQLSM9-es'
 tags: [  ]

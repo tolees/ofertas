@@ -5,7 +5,7 @@ date: 2020-07-18 09:13:54
 image: 'https://m.media-amazon.com/images/I/41cbW38X9sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW21YSF-es Masajeador de ojos sónico de varita galvanica...'
 sku: 'B07KW21YSF-es'
 tags: [  ]

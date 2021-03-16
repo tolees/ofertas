@@ -5,7 +5,7 @@ date: 2020-06-22 22:10:40
 image: 'https://m.media-amazon.com/images/I/41ZnqqcnzhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFR5Y6V-es New Balance Fresh Foam Cruz v2 Deconstructed m Zapatillas...'
 sku: 'B07DFR5Y6V-es'
 tags: [  ]

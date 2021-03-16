@@ -5,7 +5,7 @@ date: 2020-06-04 13:29:11
 image: 'https://m.media-amazon.com/images/I/41S9Su0t1pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2ZVH2C-es Joma Miami Bermuda Deporte de Tenis Hombre Negro 2XL/3XL'
 sku: 'B06Y2ZVH2C-es'
 tags: [  ]

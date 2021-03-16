@@ -5,7 +5,7 @@ date: 2020-09-10 06:01:04
 image: 'https://m.media-amazon.com/images/I/41zuayQIJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CFRGQK-es Samsonite 93057-1820 maletines para portátil 39 6 cm 15.6"...'
 sku: 'B076CFRGQK-es'
 tags: [  ]

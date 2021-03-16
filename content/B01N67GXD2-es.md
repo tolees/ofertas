@@ -5,7 +5,7 @@ date: 2020-02-12 10:08:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411qSPaI6FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N67GXD2-es Salomon Speedcross Vario 2 Zapatillas de Trail Running...'
 sku: 'B01N67GXD2-es'
 tags: [  ]

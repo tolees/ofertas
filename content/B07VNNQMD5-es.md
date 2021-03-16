@@ -5,7 +5,7 @@ date: 2020-05-09 09:37:30
 image: 'https://m.media-amazon.com/images/I/41pxRUK3nEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNNQMD5-es Calvin Klein Thong 3pk Tanga Blanco Bubble Gum/White/Grey...'
 sku: 'B07VNNQMD5-es'
 tags: [  ]

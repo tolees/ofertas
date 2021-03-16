@@ -5,7 +5,7 @@ date: 2020-06-16 11:23:40
 image: 'https://m.media-amazon.com/images/I/51cglgPIouL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPJ9TKW-es [Nueva versión de 136 LED] Luces solares para exteriores...'
 sku: 'B07SPJ9TKW-es'
 tags: [  ]

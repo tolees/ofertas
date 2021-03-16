@@ -5,7 +5,7 @@ date: 2020-08-27 04:38:05
 image: 'https://m.media-amazon.com/images/I/51G-QDos1eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082V9WMND-es DANISH ENDURANCE Calcetines de Senderismo y Trekking de...'
 sku: 'B082V9WMND-es'
 tags: [  ]

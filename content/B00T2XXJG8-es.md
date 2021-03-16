@@ -5,7 +5,7 @@ date: 2020-09-01 13:18:43
 image: 'https://m.media-amazon.com/images/I/51ZzlSx5CBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T2XXJG8-es Remington AS800 Dry & Style - Moldeador de Aire Caliente...'
 sku: 'B00T2XXJG8-es'
 tags: [  ]

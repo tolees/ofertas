@@ -5,7 +5,7 @@ date: 2020-04-13 09:50:07
 image: 'https://m.media-amazon.com/images/I/31pl4BxoIJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082D2BHNR-es 30 ml Perfume De Mujer Elegante Original Fragancia De...'
 sku: 'B082D2BHNR-es'
 tags: [  ]

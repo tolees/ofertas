@@ -5,7 +5,7 @@ date: 2020-08-25 17:17:45
 image: 'https://m.media-amazon.com/images/I/519st9M8JkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDMYM5K-es HP Pavilion 32 QHD - Monitor de 31.5" QHD 2560 x 1440 300...'
 sku: 'B07PDMYM5K-es'
 tags: [  ]

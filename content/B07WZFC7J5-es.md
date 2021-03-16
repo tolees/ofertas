@@ -5,7 +5,7 @@ date: 2020-04-07 22:01:36
 image: 'https://m.media-amazon.com/images/I/5145pFW+fzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZFC7J5-es Medidor de Contornos para Suelo 120MM Herramienta de...'
 sku: 'B07WZFC7J5-es'
 tags: [  ]

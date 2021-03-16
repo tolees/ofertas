@@ -5,7 +5,7 @@ date: 2020-04-22 12:12:50
 image: 'https://m.media-amazon.com/images/I/41Y3kp7LwlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BF16JS-es Canon Cartucho de tinta Negro para...'
 sku: 'B000BF16JS-es'
 tags: [  ]

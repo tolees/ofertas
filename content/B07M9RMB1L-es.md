@@ -5,7 +5,7 @@ date: 2020-05-14 03:18:44
 image: 'https://m.media-amazon.com/images/I/41cqoBoNIeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9RMB1L-es Swatch Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07M9RMB1L-es'
 tags: [  ]

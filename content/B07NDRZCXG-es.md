@@ -5,7 +5,7 @@ date: 2020-04-28 15:55:35
 image: 'https://m.media-amazon.com/images/I/31FphwchRQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDRZCXG-es MEDION AKOYA M80 - PCC893 Ordenador de sobremesa Intel...'
 sku: 'B07NDRZCXG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-09 10:05:31
 image: 'https://m.media-amazon.com/images/I/31hnjI8bptL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PJ4TZ6-es Golden Goose Casual Zapatillas de piel Super Star para...'
 sku: 'B086PJ4TZ6-es'
 tags: [  ]

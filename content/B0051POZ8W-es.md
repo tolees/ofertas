@@ -5,7 +5,7 @@ date: 2020-01-27 19:01:31
 image: 'https://m.media-amazon.com/images/I/313zFyo2-oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0051POZ8W-es Johnson s Baby Crema Protectora de Pañal ideal para la...'
 sku: 'B0051POZ8W-es'
 tags: [  ]

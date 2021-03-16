@@ -5,7 +5,7 @@ date: 2020-02-13 04:41:58
 image: 'https://m.media-amazon.com/images/I/518mYQyw26L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779JLZV2-es Skechers Litebeams-Gleam N dream Zapatillas para Niñas...'
 sku: 'B0779JLZV2-es'
 tags: [  ]

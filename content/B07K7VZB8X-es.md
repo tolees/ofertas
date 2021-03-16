@@ -5,7 +5,7 @@ date: 2020-01-11 12:18:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41J73U2Ta8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7VZB8X-es BOSS Saturn_lowp_Meth Zapatillas para Hombre Gris Light...'
 sku: 'B07K7VZB8X-es'
 tags: [  ]

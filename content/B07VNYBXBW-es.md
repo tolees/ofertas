@@ -5,7 +5,7 @@ date: 2020-07-19 15:40:37
 image: 'https://m.media-amazon.com/images/I/41OS4AZcoFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNYBXBW-es NEW C 2 Unidades Protector de Pantalla para Xiaomi Mi 9 SE...'
 sku: 'B07VNYBXBW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-05 08:55:36
 image: 'https://m.media-amazon.com/images/I/4167jBnDpxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS7GBLC-es LUDOS Clamor Auriculares con Micrófono y Cable Cascos...'
 sku: 'B07VS7GBLC-es'
 tags: [  ]

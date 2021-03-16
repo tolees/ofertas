@@ -5,7 +5,7 @@ date: 2020-03-29 08:48:28
 image: 'https://m.media-amazon.com/images/I/51QkLEhGJ7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FQKNR4-es Imanes Neodimio FEYG imanes pequeños potentes Imanes...'
 sku: 'B075FQKNR4-es'
 tags: [  ]

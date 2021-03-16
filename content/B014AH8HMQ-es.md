@@ -5,7 +5,7 @@ date: 2020-03-13 04:20:05
 image: 'https://m.media-amazon.com/images/I/319eD10di+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014AH8HMQ-es L Oreal Paris Volume Million Lashes Feline - Mascara Negro...'
 sku: 'B014AH8HMQ-es'
 tags: [  ]

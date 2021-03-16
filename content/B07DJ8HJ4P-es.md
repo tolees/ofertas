@@ -5,7 +5,7 @@ date: 2020-07-24 09:55:45
 image: 'https://m.media-amazon.com/images/I/418Y4J925yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ8HJ4P-es Utensilios Cocina de Silicona - 10+1Piezas Menaje Cocina...'
 sku: 'B07DJ8HJ4P-es'
 tags: [  ]

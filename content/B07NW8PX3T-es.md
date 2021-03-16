@@ -5,7 +5,7 @@ date: 2020-03-17 19:09:37
 image: 'https://m.media-amazon.com/images/I/41F4vkSy5EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW8PX3T-es Skechers On-the-go Joy Botas Altas Mujer Negro Black...'
 sku: 'B07NW8PX3T-es'
 tags: [  ]

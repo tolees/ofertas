@@ -5,7 +5,7 @@ date: 2020-06-01 18:08:25
 image: 'https://m.media-amazon.com/images/I/31D0qZrB7yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRSRVD4-es DC Shoes Switch Zapatillas de Skateboard para Hombre Negro...'
 sku: 'B07SRSRVD4-es'
 tags: [  ]

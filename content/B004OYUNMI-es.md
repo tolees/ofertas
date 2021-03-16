@@ -5,7 +5,7 @@ date: 2020-03-21 13:27:38
 image: 'https://m.media-amazon.com/images/I/41rlRGY3nqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004OYUNMI-es Casio G-SHOCK Reloj Analógico-Digital 20 BAR Azul/Negro...'
 sku: 'B004OYUNMI-es'
 tags: [  ]

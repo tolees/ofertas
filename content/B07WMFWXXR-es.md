@@ -5,7 +5,7 @@ date: 2020-06-27 10:03:24
 image: 'https://m.media-amazon.com/images/I/31SRXGsdeKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMFWXXR-es CAFELE Funda Protectora para teléfono de Silicona Suave...'
 sku: 'B07WMFWXXR-es'
 tags: [  ]

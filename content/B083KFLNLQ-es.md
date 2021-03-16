@@ -5,7 +5,7 @@ date: 2020-08-03 13:45:43
 image: 'https://m.media-amazon.com/images/I/51e9Li-32UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KFLNLQ-es Voodoo Vixen Nicole Grey 40s Style Mujer Abrigos Negro-...'
 sku: 'B083KFLNLQ-es'
 tags: [  ]

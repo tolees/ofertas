@@ -5,7 +5,7 @@ date: 2020-08-30 01:48:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mTR0cVy7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L13ERLC-es CRAPHY Kit de Iluminación para Fotografía: 3X Ventana de...'
 sku: 'B01L13ERLC-es'
 tags: [  ]

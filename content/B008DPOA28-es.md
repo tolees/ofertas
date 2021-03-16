@@ -5,7 +5,7 @@ date: 2020-01-04 20:16:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZR9mkRfhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008DPOA28-es Danish Design DZ120139 - Reloj para Caballero de Cuero Blanco'
 sku: 'B008DPOA28-es'
 tags: [  ]

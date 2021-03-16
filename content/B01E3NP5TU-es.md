@@ -5,7 +5,7 @@ date: 2020-02-20 10:07:46
 image: 'https://m.media-amazon.com/images/I/51WFHCjDcwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E3NP5TU-es Chicco Wellbeing - Set de regalo con biberón chupete y...'
 sku: 'B01E3NP5TU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 10:33:21
 image: 'https://m.media-amazon.com/images/I/31T-9R-HQzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WS9RZW-es Sony MHC-V71D - Sistema Audio Bluetooth Luces de Fiesta...'
 sku: 'B078WS9RZW-es'
 tags: [  ]

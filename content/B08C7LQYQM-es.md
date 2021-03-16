@@ -5,7 +5,7 @@ date: 2020-09-20 15:54:46
 image: 'https://m.media-amazon.com/images/I/61Xqbm5SetL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C7LQYQM-es COOLAPA LED Strip Lights Impermeable IP65 Color Changing...'
 sku: 'B08C7LQYQM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-15 07:39:13
 image: 'https://m.media-amazon.com/images/I/41FzW6b3PML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNG16CQ-es Calcetines de Tenis Performance Crew 3 Pares Blanco EU 35-38'
 sku: 'B07DNG16CQ-es'
 tags: [  ]

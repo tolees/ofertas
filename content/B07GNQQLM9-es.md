@@ -5,7 +5,7 @@ date: 2020-04-09 08:47:03
 image: 'https://m.media-amazon.com/images/I/51ZvBNFQMQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GNQQLM9-es Hoja de Fieltro 20 * 30cm 40 Colores No Tejido Tela de...'
 sku: 'B07GNQQLM9-es'
 tags: [  ]

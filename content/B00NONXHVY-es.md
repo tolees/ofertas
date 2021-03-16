@@ -5,7 +5,7 @@ date: 2020-06-28 16:26:08
 image: 'https://m.media-amazon.com/images/I/41DUmL3A2vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NONXHVY-es Tommy Hilfiger New Denton Belt 4.0 Cinturón Negro NEGRO...'
 sku: 'B00NONXHVY-es'
 tags: [  ]

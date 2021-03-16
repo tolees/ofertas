@@ -5,7 +5,7 @@ date: 2020-06-10 13:49:39
 image: 'https://m.media-amazon.com/images/I/516eSNyfjKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TYJ4UA4-es IMC Toys - La caja registradora de Minnie Mouse 181700...'
 sku: 'B00TYJ4UA4-es'
 tags: [  ]

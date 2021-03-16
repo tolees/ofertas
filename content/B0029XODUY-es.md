@@ -5,7 +5,7 @@ date: 2020-10-09 06:01:44
 image: 'https://m.media-amazon.com/images/I/31O7IrqBkVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0029XODUY-es Reebok Workout Plus Zapatillas de Deporte para Hombre...'
 sku: 'B0029XODUY-es'
 tags: [  ]

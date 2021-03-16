@@ -5,7 +5,7 @@ date: 2020-08-16 01:16:23
 image: 'https://m.media-amazon.com/images/I/41yn7Frz8rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0856XWK5P-es Jabra Speak 750 - Altavoz Portátil para Conferencias con...'
 sku: 'B0856XWK5P-es'
 tags: [  ]

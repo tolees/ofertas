@@ -5,7 +5,7 @@ date: 2020-02-09 11:03:39
 image: 'https://m.media-amazon.com/images/I/51aB85n1OqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GV1G9GK-es TomTom Funda protectora clásica para todos los navegadores...'
 sku: 'B01GV1G9GK-es'
 tags: [  ]

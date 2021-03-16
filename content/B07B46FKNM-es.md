@@ -5,7 +5,7 @@ date: 2020-08-19 19:50:25
 image: 'https://m.media-amazon.com/images/I/41CRpbFOwkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B46FKNM-es Bourjois Rouge Edition Velvet Barra de Labios Líquida Tono...'
 sku: 'B07B46FKNM-es'
 tags: [  ]

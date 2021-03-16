@@ -5,7 +5,7 @@ date: 2020-04-06 16:29:12
 image: 'https://m.media-amazon.com/images/I/313VkZ4MOlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8TJ1PT-es Izod Performance Pique Polo Blanco Bright White 116 XL...'
 sku: 'B07N8TJ1PT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 13:26:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318GSaVoRSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXP2M63-es TOUCHBeauty Manicura y Pedicura Lima de uñas eléctrico...'
 sku: 'B07FXP2M63-es'
 tags: [  ]

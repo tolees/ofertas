@@ -5,7 +5,7 @@ date: 2020-09-27 09:13:31
 image: 'https://m.media-amazon.com/images/I/31Jdrrc98aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078TM3CPC-es Pepe Jeans Vincent Polo Azul Navy 595 Medium para Hombre'
 sku: 'B078TM3CPC-es'
 tags: [  ]

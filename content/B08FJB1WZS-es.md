@@ -5,7 +5,7 @@ date: 2020-09-14 16:50:53
 image: 'https://m.media-amazon.com/images/I/317fif+-9XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FJB1WZS-es MAGIC SELECT 4Estuche para mascarillas/Caja para...'
 sku: 'B08FJB1WZS-es'
 tags: [  ]

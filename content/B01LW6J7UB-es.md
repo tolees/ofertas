@@ -5,7 +5,7 @@ date: 2020-06-18 14:12:56
 image: 'https://m.media-amazon.com/images/I/41f0fdh9d+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW6J7UB-es Activision - SIM Classic Triple Pack 3 Countdown - Stealth...'
 sku: 'B01LW6J7UB-es'
 tags: [  ]

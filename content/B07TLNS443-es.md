@@ -5,7 +5,7 @@ date: 2020-04-01 19:47:52
 image: 'https://m.media-amazon.com/images/I/51kzBHxnCWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLNS443-es FRIENDS MS65091 Imanes Multicolor 18 x 24 cm'
 sku: 'B07TLNS443-es'
 tags: [  ]

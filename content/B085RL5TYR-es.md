@@ -5,7 +5,7 @@ date: 2020-04-18 03:02:56
 image: 'https://m.media-amazon.com/images/I/515xAWoyPIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085RL5TYR-es Libershine Cubierta De La Lactancia Del Bebé Gran calidad...'
 sku: 'B085RL5TYR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-23 16:20:10
 image: 'https://m.media-amazon.com/images/I/31N6jC6p8IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001V9LAWG-es Rimmel London Exaggerate Automatic Lipliner. Perfilador de...'
 sku: 'B001V9LAWG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 13:29:37
 image: 'https://m.media-amazon.com/images/I/41+CGY3IGgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCY74BM-es non-brand 50pcs Juego de Dados de Madera en Blanco D6 3cm...'
 sku: 'B07NCY74BM-es'
 tags: [  ]

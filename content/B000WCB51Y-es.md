@@ -5,7 +5,7 @@ date: 2020-08-27 15:59:58
 image: 'https://m.media-amazon.com/images/I/51EJyo1-TgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WCB51Y-es STANLEY 1-93-329 - Cinturón portaherramientas de Nylon'
 sku: 'B000WCB51Y-es'
 tags: [  ]

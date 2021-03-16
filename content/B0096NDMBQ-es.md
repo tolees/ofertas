@@ -5,7 +5,7 @@ date: 2020-06-20 12:52:58
 image: 'https://m.media-amazon.com/images/I/31DazDsAaLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0096NDMBQ-es Lampa - 90139 - Adaptador para Espejo Accesorio de Moto'
 sku: 'B0096NDMBQ-es'
 tags: [  ]

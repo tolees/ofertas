@@ -5,7 +5,7 @@ date: 2020-03-02 16:52:12
 image: 'https://m.media-amazon.com/images/I/41mKwofx+uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDCJWV4-es Purplert Gorro De Dormir De Capó De Seda Satinada Grande...'
 sku: 'B07YDCJWV4-es'
 tags: [  ]

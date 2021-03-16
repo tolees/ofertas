@@ -5,7 +5,7 @@ date: 2020-04-12 19:01:41
 image: 'https://m.media-amazon.com/images/I/41JFo++8U1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RNGTHD-es Precioso lindo oso patrón de dibujos animados almohada...'
 sku: 'B084RNGTHD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 17:49:31
 image: 'https://m.media-amazon.com/images/I/41Rt1ZtGRRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T18P2QH-es INPHIC - Ratón Gaming con Cable Ratón Gamer ergonómico USB...'
 sku: 'B07T18P2QH-es'
 tags: [  ]

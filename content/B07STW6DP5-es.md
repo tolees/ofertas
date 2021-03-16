@@ -5,7 +5,7 @@ date: 2020-07-25 06:06:01
 image: 'https://m.media-amazon.com/images/I/31hveIMaYQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STW6DP5-es Lorjoyx Silicona Cono de Helado Molde en Forma de Cubos de...'
 sku: 'B07STW6DP5-es'
 tags: [  ]

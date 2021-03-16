@@ -5,7 +5,7 @@ date: 2020-09-22 16:15:05
 image: 'https://m.media-amazon.com/images/I/31E3Ik3m5xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JVJRKZY-es Bionaire BTF001X-01 Ventilador de torre 40 W 10 litros Gris'
 sku: 'B00JVJRKZY-es'
 tags: [  ]

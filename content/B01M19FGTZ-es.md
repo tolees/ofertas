@@ -5,7 +5,7 @@ date: 2020-03-30 06:20:51
 image: 'https://m.media-amazon.com/images/I/413Yldv8PkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M19FGTZ-es Audio Pro Addon T5 - Altavoz inalámbrico Color Gris'
 sku: 'B01M19FGTZ-es'
 tags: [  ]

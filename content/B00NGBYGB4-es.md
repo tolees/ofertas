@@ -5,7 +5,7 @@ date: 2020-05-19 19:25:50
 image: 'https://m.media-amazon.com/images/I/51CFc2P9ETL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGBYGB4-es Anita Still-BH Fleur - Sujetador básico para mujer Negro...'
 sku: 'B00NGBYGB4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 20:27:34
 image: 'https://m.media-amazon.com/images/I/41x3RyfPHrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3XYK78-es Fujifilm X-T3 - Cámara de objetivo intercambiable sin...'
 sku: 'B07H3XYK78-es'
 tags: [  ]

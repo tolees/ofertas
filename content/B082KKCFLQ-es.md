@@ -5,7 +5,7 @@ date: 2020-02-25 10:44:52
 image: 'https://m.media-amazon.com/images/I/415+PK5iWtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KKCFLQ-es Xnuoyo Cepillo de Limpieza Facial Set Completo de Spa...'
 sku: 'B082KKCFLQ-es'
 tags: [  ]

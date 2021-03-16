@@ -5,7 +5,7 @@ date: 2020-08-20 03:40:22
 image: 'https://m.media-amazon.com/images/I/31w6bJ7sicL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F9CKLHZ-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
 sku: 'B08F9CKLHZ-es'
 tags: [  ]

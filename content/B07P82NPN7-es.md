@@ -5,7 +5,7 @@ date: 2020-09-16 22:51:28
 image: 'https://m.media-amazon.com/images/I/41nt3RBcGeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P82NPN7-es Pop! Figura de Vinilo: Disney: Hocus Pocus - Winifred w/Magic'
 sku: 'B07P82NPN7-es'
 tags: [  ]

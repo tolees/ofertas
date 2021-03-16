@@ -5,7 +5,7 @@ date: 2020-06-27 20:59:55
 image: 'https://m.media-amazon.com/images/I/41i3VmZvOLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4FRBHD-es Tapa de WC HIMIMI Asiento de inodoro familiar asiento de...'
 sku: 'B07X4FRBHD-es'
 tags: [  ]

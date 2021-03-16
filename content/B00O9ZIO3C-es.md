@@ -5,7 +5,7 @@ date: 2020-02-29 18:56:53
 image: 'https://m.media-amazon.com/images/I/41aKyXhUTqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O9ZIO3C-es The Rocky Horror Picture Show - Blu-Ray [Blu-ray]'
 sku: 'B00O9ZIO3C-es'
 tags: [  ]

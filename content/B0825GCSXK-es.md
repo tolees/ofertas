@@ -5,7 +5,7 @@ date: 2020-05-24 17:33:39
 image: 'https://m.media-amazon.com/images/I/41bUr3cupcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825GCSXK-es Baoblaze 5 Unids Almohadillas Adhesivas Antidesgaste...'
 sku: 'B0825GCSXK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-05 11:06:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OwD6-OWOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079RNJNCR-es Sorel out N About Plus Botas para Mujer Marrón Elk 286 38 EU'
 sku: 'B079RNJNCR-es'
 tags: [  ]

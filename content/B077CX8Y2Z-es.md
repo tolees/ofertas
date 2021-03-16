@@ -5,7 +5,7 @@ date: 2020-09-18 04:55:07
 image: 'https://m.media-amazon.com/images/I/3189euQg1DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077CX8Y2Z-es Diesel S-Clever Low Zapatillas para Hombre Blanco H4034...'
 sku: 'B077CX8Y2Z-es'
 tags: [  ]

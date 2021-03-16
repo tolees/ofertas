@@ -5,7 +5,7 @@ date: 2020-02-26 16:31:45
 image: 'https://m.media-amazon.com/images/I/41yXlwe3P0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMCRDGC-es Pre-Workout X6 | Potente Pre-entreno Ultra Concentrado |...'
 sku: 'B07TMCRDGC-es'
 tags: [  ]

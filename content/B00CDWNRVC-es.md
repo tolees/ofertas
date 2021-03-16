@@ -5,7 +5,7 @@ date: 2020-03-18 20:10:09
 image: 'https://m.media-amazon.com/images/I/41ak8ximGdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CDWNRVC-es Roger & Gallet 65882 - Gel de ducha 200 ml'
 sku: 'B00CDWNRVC-es'
 tags: [  ]

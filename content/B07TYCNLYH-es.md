@@ -5,7 +5,7 @@ date: 2020-08-09 19:16:20
 image: 'https://m.media-amazon.com/images/I/3199LJKFZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYCNLYH-es Lee Plain Crew Suéter Azul Midnight Navy Ma Medium para...'
 sku: 'B07TYCNLYH-es'
 tags: [  ]

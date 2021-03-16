@@ -5,7 +5,7 @@ date: 2020-06-05 18:36:42
 image: 'https://m.media-amazon.com/images/I/51NhTg-wwhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TR7K2QJ-es Comando G - La Batalla de los Planetas Serie Completa 7...'
 sku: 'B07TR7K2QJ-es'
 tags: [  ]

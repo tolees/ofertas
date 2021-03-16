@@ -5,7 +5,7 @@ date: 2020-05-26 22:20:36
 image: 'https://m.media-amazon.com/images/I/31MoxDc+HOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004WQP0NK-es Grohe 46374000 46374000-Cartucho Grifo de Recambio 46mm'
 sku: 'B004WQP0NK-es'
 tags: [  ]

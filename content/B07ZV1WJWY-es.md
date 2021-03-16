@@ -5,7 +5,7 @@ date: 2020-04-11 07:09:26
 image: 'https://m.media-amazon.com/images/I/41a0HEXnjiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZV1WJWY-es Rosendo - Mi Tiempo Señorías… 2CD+DVD'
 sku: 'B07ZV1WJWY-es'
 tags: [  ]

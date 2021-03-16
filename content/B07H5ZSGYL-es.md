@@ -5,7 +5,7 @@ date: 2020-08-10 03:00:12
 image: 'https://m.media-amazon.com/images/I/31pM4ujlquL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5ZSGYL-es Skechers Sepulveda Blvd-A La Mode Zapatillas sin Cordones...'
 sku: 'B07H5ZSGYL-es'
 tags: [  ]

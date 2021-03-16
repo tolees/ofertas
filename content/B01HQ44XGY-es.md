@@ -5,7 +5,7 @@ date: 2020-08-28 12:43:26
 image: 'https://m.media-amazon.com/images/I/41klcBx18nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HQ44XGY-es Donna Karan DKNY Be Tempted Eau de Perfumé - 50 ml'
 sku: 'B01HQ44XGY-es'
 tags: [  ]

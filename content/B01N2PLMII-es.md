@@ -5,7 +5,7 @@ date: 2020-01-02 21:56:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zHJAa%2BfsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2PLMII-es adidas 6P Cotton Gorra de Tenis Hombre Blanco...'
 sku: 'B01N2PLMII-es'
 tags: [  ]

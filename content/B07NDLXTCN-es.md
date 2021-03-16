@@ -5,7 +5,7 @@ date: 2020-08-05 07:49:32
 image: 'https://m.media-amazon.com/images/I/41r5L9Dg2gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDLXTCN-es Nixon Reloj Hombre de Digital con Correa en Acero...'
 sku: 'B07NDLXTCN-es'
 tags: [  ]

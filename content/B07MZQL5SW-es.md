@@ -5,7 +5,7 @@ date: 2020-06-26 09:05:49
 image: 'https://m.media-amazon.com/images/I/416hAXfw2wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQL5SW-es Vans Ward Zapatillas para Niñas Rosa Canvas Chalk Pink Vuz...'
 sku: 'B07MZQL5SW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-25 13:01:26
 image: 'https://m.media-amazon.com/images/I/41zmcHV4p2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015KG0QIY-es King Cock Dildo Correa - 1 unidad'
 sku: 'B015KG0QIY-es'
 tags: [  ]

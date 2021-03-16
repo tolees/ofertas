@@ -5,7 +5,7 @@ date: 2020-08-13 18:34:59
 image: 'https://m.media-amazon.com/images/I/31JAgk5mneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0088DK4EI-es D-Link DWR-730 - Router móvil 3G para SIM de Datos HSPA+...'
 sku: 'B0088DK4EI-es'
 tags: [  ]

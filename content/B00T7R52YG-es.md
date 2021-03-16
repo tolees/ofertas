@@ -5,7 +5,7 @@ date: 2020-05-13 08:51:20
 image: 'https://m.media-amazon.com/images/I/418a--1RZfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T7R52YG-es Maclaren Organizador Universal Twin Para Tener Lo Esencial...'
 sku: 'B00T7R52YG-es'
 tags: [  ]

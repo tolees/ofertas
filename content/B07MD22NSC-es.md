@@ -5,7 +5,7 @@ date: 2020-01-13 15:49:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31iz4j72ayL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MD22NSC-es Le Coq Sportif COURTSTAR Craft Zapatillas para Hombre...'
 sku: 'B07MD22NSC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 08:20:54
 image: 'https://m.media-amazon.com/images/I/41aLOkGztaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7GF9DH-es Solido S1802202 421184930-1:18 Renault 4LF4 1975 Modelo de...'
 sku: 'B07T7GF9DH-es'
 tags: [  ]

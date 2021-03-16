@@ -5,7 +5,7 @@ date: 2020-03-12 14:55:56
 image: 'https://m.media-amazon.com/images/I/51q0JMz-l6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNRYW1H-es O³ Crema Anticelulítica 200 ml | Crema Reductora Abdomen...'
 sku: 'B07QNRYW1H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 19:50:13
 image: 'https://m.media-amazon.com/images/I/41Nz-+BS1NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5SPNSY-es Usogood - Prismáticos 10 x 25 mm compactos resistentes al...'
 sku: 'B07W5SPNSY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 08:11:43
 image: 'https://m.media-amazon.com/images/I/51cCJpexvzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F4F5TJR-es Hellraiser IV: El Final de la Dinastía Sangrienta BLU RAY...'
 sku: 'B08F4F5TJR-es'
 tags: [  ]

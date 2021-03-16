@@ -5,7 +5,7 @@ date: 2020-09-22 07:35:38
 image: 'https://m.media-amazon.com/images/I/51D7jGi-ySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPG8HYY-es Ultimate Ears Boom 3 Altavoz Portátil Inalámbrico...'
 sku: 'B07NPG8HYY-es'
 tags: [  ]

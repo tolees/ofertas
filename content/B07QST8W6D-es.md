@@ -5,7 +5,7 @@ date: 2020-09-05 15:08:35
 image: 'https://m.media-amazon.com/images/I/41MRivk56kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QST8W6D-es Huevos Vibradores FIDECH pro 2 - Balas para Mujer 12 Modos...'
 sku: 'B07QST8W6D-es'
 tags: [  ]

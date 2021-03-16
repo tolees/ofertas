@@ -5,7 +5,7 @@ date: 2020-04-14 19:35:53
 image: 'https://m.media-amazon.com/images/I/31m8Du6s3sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T927XWB-es Belkin ScreenForce TemperedGlass - Protector de Pantalla...'
 sku: 'B07T927XWB-es'
 tags: [  ]

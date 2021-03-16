@@ -5,7 +5,7 @@ date: 2020-04-26 11:37:55
 image: 'https://m.media-amazon.com/images/I/61j4m2eSGxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GC8QDGV-es Persona 5: Dancing in Starlight - Edición Estándar'
 sku: 'B07GC8QDGV-es'
 tags: [  ]

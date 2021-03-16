@@ -5,7 +5,7 @@ date: 2020-08-24 16:10:57
 image: 'https://m.media-amazon.com/images/I/61ZxgT1N9qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085MYBJPX-es CT Aspersor Trampolín Set Cama elástica de Jardín Water...'
 sku: 'B085MYBJPX-es'
 tags: [  ]

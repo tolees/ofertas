@@ -5,7 +5,7 @@ date: 2020-05-30 16:10:08
 image: 'https://m.media-amazon.com/images/I/51pNYlcaaWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072VH9CSW-es Super wings pelota 40 cm'
 sku: 'B072VH9CSW-es'
 tags: [  ]

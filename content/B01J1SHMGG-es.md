@@ -5,7 +5,7 @@ date: 2020-01-08 16:43:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51yMuiw0G%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J1SHMGG-es WWE 2K17 - Edición NXT'
 sku: 'B01J1SHMGG-es'
 tags: [  ]

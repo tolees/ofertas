@@ -5,7 +5,7 @@ date: 2020-08-30 19:42:29
 image: 'https://m.media-amazon.com/images/I/31KrTQifFcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BHZPO3K-es Arcos Universal - Cuchillo para queso 145 mm hoja'
 sku: 'B00BHZPO3K-es'
 tags: [  ]

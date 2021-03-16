@@ -5,7 +5,7 @@ date: 2020-02-04 10:51:56
 image: 'https://m.media-amazon.com/images/I/51wuZE6BWPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008DCII10-es Faibo 607-2 - Pizarra de corcho'
 sku: 'B008DCII10-es'
 tags: [  ]

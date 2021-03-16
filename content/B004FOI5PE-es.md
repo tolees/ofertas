@@ -5,7 +5,7 @@ date: 2020-01-28 17:58:59
 image: 'https://m.media-amazon.com/images/I/4180ijWWTQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004FOI5PE-es Einhell GC-EM 1743 HW - Cortacésped eléctrico 1700W altura...'
 sku: 'B004FOI5PE-es'
 tags: [  ]

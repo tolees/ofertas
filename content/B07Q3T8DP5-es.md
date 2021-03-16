@@ -5,7 +5,7 @@ date: 2020-01-29 13:25:49
 image: 'https://m.media-amazon.com/images/I/41wG6UzM5bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3T8DP5-es Cerike Funda para Samsung Galaxy Watch 42mm de Parachoques...'
 sku: 'B07Q3T8DP5-es'
 tags: [  ]

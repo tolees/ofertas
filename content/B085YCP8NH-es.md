@@ -5,7 +5,7 @@ date: 2020-06-24 11:22:55
 image: 'https://m.media-amazon.com/images/I/41DCMY5PaSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085YCP8NH-es YAMAMAY® Pyjamas - Ultimi arrivi'
 sku: 'B085YCP8NH-es'
 tags: [  ]

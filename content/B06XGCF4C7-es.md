@@ -5,7 +5,7 @@ date: 2020-07-22 17:45:28
 image: 'https://m.media-amazon.com/images/I/21fumsRUs0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGCF4C7-es Sonos PBASEWH - Base TV Multiroom color blanco'
 sku: 'B06XGCF4C7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 14:33:20
 image: 'https://m.media-amazon.com/images/I/411ejgqjcAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0146L4IKQ-es Clinique Smart Night - Crema antiarrugas 50 ml'
 sku: 'B0146L4IKQ-es'
 tags: [  ]

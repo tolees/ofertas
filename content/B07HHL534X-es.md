@@ -5,7 +5,7 @@ date: 2020-02-11 16:46:22
 image: 'https://m.media-amazon.com/images/I/31Zy-nVErYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHL534X-es LCQI Bufanda Real Madrid 2019 2020 Licencia Oficial por...'
 sku: 'B07HHL534X-es'
 tags: [  ]

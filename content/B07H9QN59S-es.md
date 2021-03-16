@@ -5,7 +5,7 @@ date: 2020-07-12 15:46:37
 image: 'https://m.media-amazon.com/images/I/41-juHpqNQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9QN59S-es Monix Mineral-Set de 3 sartenes 20-24-28 cm Aluminio...'
 sku: 'B07H9QN59S-es'
 tags: [  ]

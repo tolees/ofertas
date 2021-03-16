@@ -5,7 +5,7 @@ date: 2020-07-22 20:38:18
 image: 'https://m.media-amazon.com/images/I/51cVaJtpJXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00108WPFE-es Nixon A045511-00 - Reloj analógico de cuarzo para hombre...'
 sku: 'B00108WPFE-es'
 tags: [  ]

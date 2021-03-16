@@ -5,7 +5,7 @@ date: 2020-05-31 10:46:18
 image: 'https://m.media-amazon.com/images/I/61BOSeyZbtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPB9R79-es FORMIZON Loom Bands 6800 Kit Completo 22 Colores Kit de...'
 sku: 'B07SPB9R79-es'
 tags: [  ]

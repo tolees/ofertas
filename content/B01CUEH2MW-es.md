@@ -5,7 +5,7 @@ date: 2020-01-30 13:51:09
 image: 'https://m.media-amazon.com/images/I/413vDq73LxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CUEH2MW-es ROC Pro Correct - Fluido Anti Arrugas Rejuvenecedor 40 ml'
 sku: 'B01CUEH2MW-es'
 tags: [  ]

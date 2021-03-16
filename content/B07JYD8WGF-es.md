@@ -5,7 +5,7 @@ date: 2020-04-28 17:08:40
 image: 'https://m.media-amazon.com/images/I/21tcHLRvcWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYD8WGF-es Kelme - Zapatillas Trueno Sala'
 sku: 'B07JYD8WGF-es'
 tags: [  ]

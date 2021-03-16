@@ -5,7 +5,7 @@ date: 2020-01-29 11:55:56
 image: 'https://m.media-amazon.com/images/I/41BNzzziyJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZLBYVM-es KESOTO 1/12 Cama de Madera en Miniatura Muebles para...'
 sku: 'B07KZLBYVM-es'
 tags: [  ]

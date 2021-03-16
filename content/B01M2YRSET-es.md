@@ -5,7 +5,7 @@ date: 2020-06-02 20:56:59
 image: 'https://m.media-amazon.com/images/I/41w9TJOuLRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M2YRSET-es Roxy Endless Summer Pantalones Cortos Mujer Negro Antracite M'
 sku: 'B01M2YRSET-es'
 tags: [  ]

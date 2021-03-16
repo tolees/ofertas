@@ -5,7 +5,7 @@ date: 2020-06-01 21:34:18
 image: 'https://m.media-amazon.com/images/I/41bdyJ1Io2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000GIPJ0M-es Optimum Nutrition ON Serious Mass proteina en polvo mass...'
 sku: 'B000GIPJ0M-es'
 tags: [  ]

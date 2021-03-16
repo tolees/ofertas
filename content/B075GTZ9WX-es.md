@@ -5,7 +5,7 @@ date: 2020-04-02 18:14:04
 image: 'https://m.media-amazon.com/images/I/31fWkKATt2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GTZ9WX-es adidas VL Court 2.0 CMF I Zapatillas de Gimnasia Unisex...'
 sku: 'B075GTZ9WX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 12:22:35
 image: 'https://m.media-amazon.com/images/I/31P-4utLGlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMP1BXS-es Mr. Wonderful 8436557692085 - Batería Externa de 10.000...'
 sku: 'B07KMP1BXS-es'
 tags: [  ]

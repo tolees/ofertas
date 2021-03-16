@@ -5,7 +5,7 @@ date: 2020-08-31 16:10:10
 image: 'https://m.media-amazon.com/images/I/41XxfAA1lbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4CMS4S-es FitFlop Uberknit F-Sporty Sneaker Zapatillas para Mujer...'
 sku: 'B07S4CMS4S-es'
 tags: [  ]

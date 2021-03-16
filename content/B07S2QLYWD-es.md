@@ -5,7 +5,7 @@ date: 2020-05-24 02:58:06
 image: 'https://m.media-amazon.com/images/I/41AYHyAgH7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2QLYWD-es New Balance 574v2 Zapatillas para Hombre Gris Grey/White...'
 sku: 'B07S2QLYWD-es'
 tags: [  ]

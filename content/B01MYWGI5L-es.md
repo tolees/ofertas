@@ -5,7 +5,7 @@ date: 2020-09-16 16:13:56
 image: 'https://m.media-amazon.com/images/I/41RrYpfV5PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYWGI5L-es B+W XS-Pro - Filtro densidad neutra ND 0.9 803 NANO 72 mm'
 sku: 'B01MYWGI5L-es'
 tags: [  ]

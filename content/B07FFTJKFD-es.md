@@ -5,7 +5,7 @@ date: 2020-04-14 09:17:07
 image: 'https://m.media-amazon.com/images/I/51QtAdO6TyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFTJKFD-es Juguetes Montessori Puzzle 3D DIY 200 Piezas Rompecabezas...'
 sku: 'B07FFTJKFD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-14 13:07:32
 image: 'https://m.media-amazon.com/images/I/318UnwruGTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZLXS88-es New Balance 500 Zapatillas para Hombre Negro Black Tra 42 EU'
 sku: 'B07RZLXS88-es'
 tags: [  ]

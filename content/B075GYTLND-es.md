@@ -5,7 +5,7 @@ date: 2020-06-01 17:38:19
 image: 'https://m.media-amazon.com/images/I/51dis+ExAML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GYTLND-es Nemesis Now House Stark - Taza 20 cm color negro'
 sku: 'B075GYTLND-es'
 tags: [  ]

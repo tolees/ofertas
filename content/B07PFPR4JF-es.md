@@ -5,7 +5,7 @@ date: 2020-07-28 18:01:16
 image: 'https://m.media-amazon.com/images/I/41qWmKktBML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFPR4JF-es Sekey 200X 80cm Cortina Magnética de Puerta a Prueba de...'
 sku: 'B07PFPR4JF-es'
 tags: [  ]

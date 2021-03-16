@@ -5,7 +5,7 @@ date: 2020-05-26 09:36:10
 image: 'https://m.media-amazon.com/images/I/21imtIMgwcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0136JEFO8-es Astor Lash Beautifier Argan Oil Máscara de Pestañas'
 sku: 'B0136JEFO8-es'
 tags: [  ]

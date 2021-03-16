@@ -5,7 +5,7 @@ date: 2020-02-28 10:40:16
 image: 'https://m.media-amazon.com/images/I/514FYQylvjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0722TTFD7-es Lebze Muselina Manta Bebé -"Diente de Plumas" Bambú...'
 sku: 'B0722TTFD7-es'
 tags: [  ]

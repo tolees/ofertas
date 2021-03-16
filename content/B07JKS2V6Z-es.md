@@ -5,7 +5,7 @@ date: 2020-01-18 11:30:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51O3R-OAzOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKS2V6Z-es YaYuu Compatible Samsung Galaxy Watch Active/Active2 40mm...'
 sku: 'B07JKS2V6Z-es'
 tags: [  ]

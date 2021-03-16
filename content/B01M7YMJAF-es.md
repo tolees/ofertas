@@ -5,7 +5,7 @@ date: 2020-10-04 05:50:16
 image: 'https://m.media-amazon.com/images/I/416FryhhkoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7YMJAF-es Cool Area Toldo Vela de Sombra Rectangular 3 x 4 Metros...'
 sku: 'B01M7YMJAF-es'
 tags: [  ]

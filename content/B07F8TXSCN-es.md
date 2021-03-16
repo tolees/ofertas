@@ -5,7 +5,7 @@ date: 2020-02-14 08:19:30
 image: 'https://m.media-amazon.com/images/I/41e2tCNgPwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8TXSCN-es TACKLIFE 2 Piezas Encendedor Eléctrico ELY08 Encendedor...'
 sku: 'B07F8TXSCN-es'
 tags: [  ]

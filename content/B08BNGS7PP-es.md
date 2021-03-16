@@ -5,7 +5,7 @@ date: 2020-10-05 20:11:13
 image: 'https://m.media-amazon.com/images/I/418Zvo5wbWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNGS7PP-es Feagar Lima Pies para quitar Dureza y Callo Duro Kit...'
 sku: 'B08BNGS7PP-es'
 tags: [  ]

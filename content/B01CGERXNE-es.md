@@ -5,7 +5,7 @@ date: 2020-08-30 19:50:00
 image: 'https://m.media-amazon.com/images/I/412NVXBtsFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CGERXNE-es Esteve CORTAGRIP Spray Bucal Antivirus 7 ml'
 sku: 'B01CGERXNE-es'
 tags: [  ]

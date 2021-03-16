@@ -5,7 +5,7 @@ date: 2020-02-17 16:29:08
 image: 'https://m.media-amazon.com/images/I/41rQv9WYBLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008OI5E9M-es Atosa - Disfraz de vikingo para hombre talla 50-52...'
 sku: 'B008OI5E9M-es'
 tags: [  ]

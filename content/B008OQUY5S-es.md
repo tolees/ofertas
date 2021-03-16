@@ -5,7 +5,7 @@ date: 2020-09-27 12:31:03
 image: 'https://m.media-amazon.com/images/I/51MxCyfjMzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008OQUY5S-es Lowepro POKROWIEC DASHPOINT 10 Slate Grey'
 sku: 'B008OQUY5S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-20 21:30:50
 image: 'https://m.media-amazon.com/images/I/41SveviKmUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NMNOB5M-es ORICO Tarjeta de expansión PCI-E de 4 puertos USB 3.0...'
 sku: 'B00NMNOB5M-es'
 tags: [  ]

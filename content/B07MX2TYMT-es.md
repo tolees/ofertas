@@ -5,7 +5,7 @@ date: 2020-06-25 18:32:40
 image: 'https://m.media-amazon.com/images/I/21riF2-yr9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MX2TYMT-es Apple Smart Battery Case for iPhone XS MAX - White'
 sku: 'B07MX2TYMT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 18:21:03
 image: 'https://m.media-amazon.com/images/I/51a2cDP2zyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2WL6SJ-es Wangel Estante de Cocina con 7 Ganchos Organizadores para...'
 sku: 'B07S2WL6SJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-16 18:25:04
 image: 'https://m.media-amazon.com/images/I/51dwobX6A+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGG93S1-es Buff Flash Logo Cinta De Cabeza Coolnet Unisex Adulto...'
 sku: 'B07KGG93S1-es'
 tags: [  ]

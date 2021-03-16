@@ -5,7 +5,7 @@ date: 2020-05-15 11:18:24
 image: 'https://m.media-amazon.com/images/I/41kYbO6WwvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RF1K5Q5-es MODAUTO Alerón Trasero para Coche Longitud 1.45cm Ancho...'
 sku: 'B07RF1K5Q5-es'
 tags: [  ]

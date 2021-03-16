@@ -5,7 +5,7 @@ date: 2020-02-29 10:14:29
 image: 'https://m.media-amazon.com/images/I/315R8U0IISL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRXQNOX-es Maybelline Pintalabios Larga Duración Superstay 24H Tono...'
 sku: 'B01MRXQNOX-es'
 tags: [  ]

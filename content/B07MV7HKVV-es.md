@@ -5,7 +5,7 @@ date: 2020-04-28 09:41:19
 image: 'https://m.media-amazon.com/images/I/417IrrihV2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV7HKVV-es Pekebaby 01111370000 - Saco entretiempo universal...'
 sku: 'B07MV7HKVV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-01 13:29:10
 image: 'https://m.media-amazon.com/images/I/41sTBjH70wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002B7VE6Y-es Plantronics - Aps-11 - accesorio para auriculares'
 sku: 'B002B7VE6Y-es'
 tags: [  ]

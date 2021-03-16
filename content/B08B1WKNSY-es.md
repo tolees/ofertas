@@ -5,7 +5,7 @@ date: 2020-08-31 19:46:18
 image: 'https://m.media-amazon.com/images/I/41u6m-ABeSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B1WKNSY-es WINMI para Huawei Y5p Funda Color Degradado Silicona TPU...'
 sku: 'B08B1WKNSY-es'
 tags: [  ]

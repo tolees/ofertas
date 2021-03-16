@@ -5,7 +5,7 @@ date: 2020-07-30 08:01:15
 image: 'https://m.media-amazon.com/images/I/31P7hOqWDRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3M7LQZ-es Kipling Distance S Equipaje de Mano 52 cm 30 Liters Negro...'
 sku: 'B07V3M7LQZ-es'
 tags: [  ]

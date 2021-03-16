@@ -5,7 +5,7 @@ date: 2020-01-10 22:49:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KVAHNp8kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4RQVFV-es Hugo Boss Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B07G4RQVFV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 10:48:46
 image: 'https://m.media-amazon.com/images/I/31JVXKinKsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2YHWKQ-es Brabantia NewIcon Cubo de basura de pedal Acero Inoxidable...'
 sku: 'B06Y2YHWKQ-es'
 tags: [  ]

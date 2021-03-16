@@ -5,7 +5,7 @@ date: 2020-06-24 07:20:32
 image: 'https://m.media-amazon.com/images/I/41GNRVSQnVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNS23B5-es Under Armour Knockout Tanque Mujer Negro SM'
 sku: 'B07PNS23B5-es'
 tags: [  ]

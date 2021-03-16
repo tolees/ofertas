@@ -5,7 +5,7 @@ date: 2020-07-02 21:05:17
 image: 'https://m.media-amazon.com/images/I/31rwZTXT+rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007YJ3WO6-es Universal Microondas Plato Giratorio Placa de Cristal con...'
 sku: 'B007YJ3WO6-es'
 tags: [  ]

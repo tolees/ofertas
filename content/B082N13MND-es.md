@@ -5,7 +5,7 @@ date: 2020-05-18 06:59:06
 image: 'https://m.media-amazon.com/images/I/51FpmmzkUCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082N13MND-es Adiós BD [Blu-ray]'
 sku: 'B082N13MND-es'
 tags: [  ]

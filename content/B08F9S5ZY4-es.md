@@ -5,7 +5,7 @@ date: 2020-08-29 04:07:16
 image: 'https://m.media-amazon.com/images/I/41zhxEvcxqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F9S5ZY4-es Funda para Xiaomi Redmi 9A con [2 Pack] Cristal Templado...'
 sku: 'B08F9S5ZY4-es'
 tags: [  ]

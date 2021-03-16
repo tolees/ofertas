@@ -5,7 +5,7 @@ date: 2020-03-22 08:08:00
 image: 'https://m.media-amazon.com/images/I/41UL4HLR5HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPW2QGY-es Superdry Poolside Pique S/s Polo Gris Black/Grey Marl Nln...'
 sku: 'B07TPW2QGY-es'
 tags: [  ]

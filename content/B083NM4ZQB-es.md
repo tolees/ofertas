@@ -5,7 +5,7 @@ date: 2020-05-14 10:10:59
 image: 'https://m.media-amazon.com/images/I/31H8ow01CCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NM4ZQB-es 1 unid profesional salón peluquería tinte crema batidor...'
 sku: 'B083NM4ZQB-es'
 tags: [  ]

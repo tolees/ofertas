@@ -5,7 +5,7 @@ date: 2020-02-28 21:01:19
 image: 'https://m.media-amazon.com/images/I/41t+LbBZ5wL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YV2X5JJ-es kampre - Mascarilla de carbón Activo de 4 Capas 50 Piezas...'
 sku: 'B07YV2X5JJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 19:31:09
 image: 'https://m.media-amazon.com/images/I/613usCj5ZAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085S1KN8C-es MIWIND 24 parches para planchar en el coche de ingeniería...'
 sku: 'B085S1KN8C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 16:34:19
 image: 'https://m.media-amazon.com/images/I/41ZkdyCB7-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N52JQL8-es Polar M200 Pulsómetro GPS Unisex Rojo M/L'
 sku: 'B01N52JQL8-es'
 tags: [  ]

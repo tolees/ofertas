@@ -5,7 +5,7 @@ date: 2020-06-15 13:13:04
 image: 'https://m.media-amazon.com/images/I/416jxvliL5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004EPYEMC-es Scitec Nutrition Whey Protein Proteína Chocolate Blanco -...'
 sku: 'B004EPYEMC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 07:02:20
 image: 'https://m.media-amazon.com/images/I/51Zy0erFLvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNDYGFS-es Yizhet 10uds Universal Stylus de la Pluma del Tacto de la...'
 sku: 'B07TNDYGFS-es'
 tags: [  ]

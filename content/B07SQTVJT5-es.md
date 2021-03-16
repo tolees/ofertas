@@ -5,7 +5,7 @@ date: 2020-05-14 15:37:39
 image: 'https://m.media-amazon.com/images/I/51AdZVwxXWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQTVJT5-es HoYiXi Funda para Samsung Galaxy Tab A 10.1 2019 Anti-Drop...'
 sku: 'B07SQTVJT5-es'
 tags: [  ]

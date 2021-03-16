@@ -5,7 +5,7 @@ date: 2020-07-24 09:50:18
 image: 'https://m.media-amazon.com/images/I/516WCZE7awL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075LDMVCB-es Memoria Flash USB 512MB 10 Piezas Pequeña Capacidad Pen...'
 sku: 'B075LDMVCB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-17 17:05:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51KFtztuzlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKFDNRB-es Kipling Gabbie S Bolsos Bandolera para Mujer Azul Dynamic...'
 sku: 'B07DKFDNRB-es'
 tags: [  ]

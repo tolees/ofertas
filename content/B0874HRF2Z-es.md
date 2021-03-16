@@ -5,7 +5,7 @@ date: 2020-05-25 19:05:06
 image: 'https://m.media-amazon.com/images/I/413kV3syNyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0874HRF2Z-es AYIYO - Pantalones cortos unisex para recién nacidos con...'
 sku: 'B0874HRF2Z-es'
 tags: [  ]

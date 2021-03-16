@@ -5,7 +5,7 @@ date: 2020-09-23 12:53:01
 image: 'https://m.media-amazon.com/images/I/51fWh+GvquL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDXQKT1-es Bolsas Reutilizables 40Pack bolsas congelación...'
 sku: 'B08CDXQKT1-es'
 tags: [  ]

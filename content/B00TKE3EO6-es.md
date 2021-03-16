@@ -5,7 +5,7 @@ date: 2020-07-19 12:10:33
 image: 'https://m.media-amazon.com/images/I/419cUSIZjyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TKE3EO6-es Trust Siano - Ratón inalámbrico Bluetooth Negro y Gris'
 sku: 'B00TKE3EO6-es'
 tags: [  ]

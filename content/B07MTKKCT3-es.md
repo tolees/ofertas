@@ -5,7 +5,7 @@ date: 2020-03-21 16:15:28
 image: 'https://m.media-amazon.com/images/I/416P0As+eJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTKKCT3-es Paw Patrol Impermeable para niños La Patrulla Canina Azul...'
 sku: 'B07MTKKCT3-es'
 tags: [  ]

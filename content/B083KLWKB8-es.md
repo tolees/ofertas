@@ -5,7 +5,7 @@ date: 2020-10-11 18:11:00
 image: 'https://m.media-amazon.com/images/I/41jUWhA-HqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083KLWKB8-es Scholl Plantillas GelActiv para Zapato Plano + Crema de...'
 sku: 'B083KLWKB8-es'
 tags: [  ]

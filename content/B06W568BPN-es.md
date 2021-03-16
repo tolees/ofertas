@@ -5,7 +5,7 @@ date: 2020-03-30 16:15:33
 image: 'https://m.media-amazon.com/images/I/411mtIypfPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W568BPN-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B06W568BPN-es'
 tags: [  ]

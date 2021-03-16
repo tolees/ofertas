@@ -5,7 +5,7 @@ date: 2020-09-06 18:45:55
 image: 'https://m.media-amazon.com/images/I/41WM9-2EM6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ1NK7K-es Kipling Imali Carteras para Mujer Verde Light Aloe 19x10x1 cm'
 sku: 'B07TZ1NK7K-es'
 tags: [  ]

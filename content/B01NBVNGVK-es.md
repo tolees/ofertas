@@ -5,7 +5,7 @@ date: 2020-07-21 11:55:44
 image: 'https://m.media-amazon.com/images/I/31lAhuvXl1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBVNGVK-es Campingaz 2000031416 Barbacoa Universal Negro 105 x 61 x...'
 sku: 'B01NBVNGVK-es'
 tags: [  ]

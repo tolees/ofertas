@@ -5,7 +5,7 @@ date: 2020-04-20 10:40:28
 image: 'https://m.media-amazon.com/images/I/51pBOU3mCsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868P4WPW-es Suhctup Transparente Funda Compatible con UMIDIGI Power 3...'
 sku: 'B0868P4WPW-es'
 tags: [  ]

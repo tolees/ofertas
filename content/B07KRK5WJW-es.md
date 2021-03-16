@@ -5,7 +5,7 @@ date: 2020-05-05 14:12:01
 image: 'https://m.media-amazon.com/images/I/31SuPVzjj5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRK5WJW-es New Balance 624v5 Zapatillas Deportivas para Interior para...'
 sku: 'B07KRK5WJW-es'
 tags: [  ]

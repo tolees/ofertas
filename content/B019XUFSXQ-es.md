@@ -5,7 +5,7 @@ date: 2020-06-23 06:35:47
 image: 'https://m.media-amazon.com/images/I/41LFzcPzZ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019XUFSXQ-es Clarins Multi Active Crema de Noche Piel Normal a Seca -...'
 sku: 'B019XUFSXQ-es'
 tags: [  ]

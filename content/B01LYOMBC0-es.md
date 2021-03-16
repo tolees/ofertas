@@ -5,7 +5,7 @@ date: 2020-06-12 00:22:34
 image: 'https://m.media-amazon.com/images/I/51ojb0zQCLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYOMBC0-es Gaming ratón Zelotes 12 botones Ratón Gaming Programable...'
 sku: 'B01LYOMBC0-es'
 tags: [  ]

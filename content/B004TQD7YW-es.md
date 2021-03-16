@@ -5,7 +5,7 @@ date: 2020-09-22 20:53:53
 image: 'https://m.media-amazon.com/images/I/31iNBafRpzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004TQD7YW-es Beurer LB12 Mini humidificador ultrasónico óptimo para...'
 sku: 'B004TQD7YW-es'
 tags: [  ]

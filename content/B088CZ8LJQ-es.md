@@ -5,7 +5,7 @@ date: 2020-05-14 15:05:32
 image: 'https://m.media-amazon.com/images/I/417X8UChokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088CZ8LJQ-es Suhctup Funda Compatible para Xiaomi Redmi 5 Plus Carcasa...'
 sku: 'B088CZ8LJQ-es'
 tags: [  ]

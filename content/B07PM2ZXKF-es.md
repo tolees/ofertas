@@ -5,7 +5,7 @@ date: 2020-04-14 18:12:11
 image: 'https://m.media-amazon.com/images/I/3133gpX7QlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PM2ZXKF-es Rieker Herbst/Winter Mocasines para Mujer Negro Schwarz 00...'
 sku: 'B07PM2ZXKF-es'
 tags: [  ]

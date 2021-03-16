@@ -5,7 +5,7 @@ date: 2020-05-24 07:40:33
 image: 'https://m.media-amazon.com/images/I/31C3FstVJbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007QA5UZW-es Soother Cadena Rosa'
 sku: 'B007QA5UZW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-25 08:21:10
 image: 'https://m.media-amazon.com/images/I/414-Q-ek0WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMLSXS2-es Lámpara de Mesa de Cristal Tomshine Lámpara Mesilla de...'
 sku: 'B07TMLSXS2-es'
 tags: [  ]

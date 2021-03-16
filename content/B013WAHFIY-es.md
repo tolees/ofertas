@@ -5,7 +5,7 @@ date: 2020-06-02 06:49:16
 image: 'https://m.media-amazon.com/images/I/41eptgzRQ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013WAHFIY-es Bosch Professional GAM 220 - Medidor de ángulos /...'
 sku: 'B013WAHFIY-es'
 tags: [  ]

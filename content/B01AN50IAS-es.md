@@ -5,7 +5,7 @@ date: 2020-05-10 16:31:34
 image: 'https://m.media-amazon.com/images/I/41WS-6Z74LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AN50IAS-es Dek Kids - Zapatillas Unisex de tela blanca con cordones...'
 sku: 'B01AN50IAS-es'
 tags: [  ]

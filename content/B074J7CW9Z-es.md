@@ -5,7 +5,7 @@ date: 2020-06-29 06:38:17
 image: 'https://m.media-amazon.com/images/I/51ljd1JoW3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074J7CW9Z-es Calcetines de 3 Dedos para Hombres para Deportes Ciclismo...'
 sku: 'B074J7CW9Z-es'
 tags: [  ]

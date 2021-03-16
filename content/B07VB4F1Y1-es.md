@@ -5,7 +5,7 @@ date: 2020-04-06 15:59:42
 image: 'https://m.media-amazon.com/images/I/41zDJaN961L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB4F1Y1-es Pour Moi? Remix Underwired Basque Bustier Negro Black...'
 sku: 'B07VB4F1Y1-es'
 tags: [  ]

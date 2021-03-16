@@ -5,7 +5,7 @@ date: 2020-05-11 09:38:55
 image: 'https://m.media-amazon.com/images/I/51dp98mRTLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HFQDL8A-es YAZILIND Joyería de la Vendimia de Plata tibetana Twisted...'
 sku: 'B00HFQDL8A-es'
 tags: [  ]

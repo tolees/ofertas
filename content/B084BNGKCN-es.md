@@ -5,7 +5,7 @@ date: 2020-08-27 06:04:59
 image: 'https://m.media-amazon.com/images/I/510eVx+zAYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084BNGKCN-es HelpCuisine Molde para Helados/Moldes de Polos - Juego de...'
 sku: 'B084BNGKCN-es'
 tags: [  ]

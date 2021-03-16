@@ -5,7 +5,7 @@ date: 2020-07-12 13:03:10
 image: 'https://m.media-amazon.com/images/I/41jIV-1FSUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894X3BBH-es MagiDeal 1 Par Auriculares con Cable para Juegos de...'
 sku: 'B0894X3BBH-es'
 tags: [  ]

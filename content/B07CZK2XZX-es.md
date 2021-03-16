@@ -5,7 +5,7 @@ date: 2020-05-26 09:25:13
 image: 'https://m.media-amazon.com/images/I/41KEIBYF0lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZK2XZX-es Under Armour UA Pennant Jacket 2.0 Parte Superior del...'
 sku: 'B07CZK2XZX-es'
 tags: [  ]

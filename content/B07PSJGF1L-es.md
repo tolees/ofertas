@@ -5,7 +5,7 @@ date: 2020-05-03 14:37:03
 image: 'https://m.media-amazon.com/images/I/41DutITBWZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJGF1L-es Kipling - Creativity S Monederos Mujer Dorado Cloud Metal...'
 sku: 'B07PSJGF1L-es'
 tags: [  ]

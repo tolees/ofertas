@@ -5,7 +5,7 @@ date: 2020-08-23 07:19:52
 image: 'https://m.media-amazon.com/images/I/41TJd6EMhOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072T2TQ7Y-es Skechers On The Go 600-Brilliancy Sandalia con Pulsera...'
 sku: 'B072T2TQ7Y-es'
 tags: [  ]

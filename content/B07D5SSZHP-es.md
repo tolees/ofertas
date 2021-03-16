@@ -5,7 +5,7 @@ date: 2020-06-24 01:57:35
 image: 'https://m.media-amazon.com/images/I/41C6eDwqqIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5SSZHP-es Under Armour Tech 6in 2 Pack Ropa Interior Hombre Negro...'
 sku: 'B07D5SSZHP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-28 06:29:18
 image: 'https://m.media-amazon.com/images/I/31ZFg4j-QdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMWZ1S5-es Clarks Bay Rosie Sandalia con Pulsera para Mujer Gris Grey...'
 sku: 'B07TMWZ1S5-es'
 tags: [  ]

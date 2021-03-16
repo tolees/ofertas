@@ -5,7 +5,7 @@ date: 2020-09-04 18:27:58
 image: 'https://m.media-amazon.com/images/I/41J2LYorusL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002KFYTBY-es Lacor - 69082 - Licuadora De fruta + Batidor Inox 1.8 Litros'
 sku: 'B002KFYTBY-es'
 tags: [  ]

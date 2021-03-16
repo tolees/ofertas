@@ -5,7 +5,7 @@ date: 2020-05-20 02:36:04
 image: 'https://m.media-amazon.com/images/I/41NK4iPucNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MEE4EQ5-es New Balance ML373 Zapatillas para Hombre Azul Navy 45 EU'
 sku: 'B01MEE4EQ5-es'
 tags: [  ]

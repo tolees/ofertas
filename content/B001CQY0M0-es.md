@@ -5,7 +5,7 @@ date: 2020-01-30 04:47:34
 image: 'https://m.media-amazon.com/images/I/41uub453xYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001CQY0M0-es Reebok F/S Hi 2431 Zapatillas de Deporte para Mujer Blanco...'
 sku: 'B001CQY0M0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-02 22:24:55
 image: 'https://m.media-amazon.com/images/I/31jOFFN7SML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM7VQF9-es Joseph Joseph Delta Pasapuré plegable - Gris / Verde'
 sku: 'B07FM7VQF9-es'
 tags: [  ]

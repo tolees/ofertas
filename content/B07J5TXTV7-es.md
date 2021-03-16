@@ -5,7 +5,7 @@ date: 2020-08-17 07:13:46
 image: 'https://m.media-amazon.com/images/I/41UQlY12HbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5TXTV7-es Triumph Lace Spotlight W Sujetador con Aros Negro Black...'
 sku: 'B07J5TXTV7-es'
 tags: [  ]

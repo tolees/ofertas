@@ -5,7 +5,7 @@ date: 2020-04-23 19:46:05
 image: 'https://m.media-amazon.com/images/I/410fedpak+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3JBKKJ-es MANZI - 3 pares de medias de ballet para mujer y niña 40...'
 sku: 'B07T3JBKKJ-es'
 tags: [  ]

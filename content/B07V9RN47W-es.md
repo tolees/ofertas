@@ -5,7 +5,7 @@ date: 2020-06-08 20:14:11
 image: 'https://m.media-amazon.com/images/I/31ESozlA+SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9RN47W-es Cepillo de dientes eléctrico Ctbd Cepillo de dientes...'
 sku: 'B07V9RN47W-es'
 tags: [  ]

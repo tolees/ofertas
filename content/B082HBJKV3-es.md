@@ -5,7 +5,7 @@ date: 2020-04-14 08:33:55
 image: 'https://m.media-amazon.com/images/I/41Biu8ZL5GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBJKV3-es ART VVIES Wandbild mit Haken Sonnenwende Sommer Sonne Rot...'
 sku: 'B082HBJKV3-es'
 tags: [  ]

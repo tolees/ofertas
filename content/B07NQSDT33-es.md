@@ -5,7 +5,7 @@ date: 2019-12-31 23:36:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gwXq2LjvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQSDT33-es Skechers Comfy Flex 2.0 Zapatillas para Niñas Plateado...'
 sku: 'B07NQSDT33-es'
 tags: [  ]

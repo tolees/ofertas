@@ -5,7 +5,7 @@ date: 2020-07-24 15:07:57
 image: 'https://m.media-amazon.com/images/I/41iiXWMXYxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5PH17X-es Casco Motocicleta Auriculares FreedConn T-comVB Casco Moto...'
 sku: 'B07C5PH17X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-28 19:40:08
 image: 'https://m.media-amazon.com/images/I/41i0A6R+OcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKB18LB-es Columbia Caldorado III Outdry Zapatillas de Running para...'
 sku: 'B07JKB18LB-es'
 tags: [  ]

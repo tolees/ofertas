@@ -5,7 +5,7 @@ date: 2020-02-01 16:12:05
 image: 'https://m.media-amazon.com/images/I/41uwwLPnZLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1YRH4-es Puma Icra Trainer Sd V Inf Zapatillas Unisex Niños Rojo...'
 sku: 'B07KG1YRH4-es'
 tags: [  ]

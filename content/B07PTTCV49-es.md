@@ -5,7 +5,7 @@ date: 2020-06-30 13:43:17
 image: 'https://m.media-amazon.com/images/I/41EiCLsTvxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTTCV49-es Kipling - Atlez Duo Bolsos bandolera Mujer Marrón Metallic...'
 sku: 'B07PTTCV49-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 11:29:10
 image: 'https://m.media-amazon.com/images/I/31m9wuipuyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HMG2R9W-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos...'
 sku: 'B08HMG2R9W-es'
 tags: [  ]

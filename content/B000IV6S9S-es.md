@@ -5,7 +5,7 @@ date: 2020-07-05 16:39:20
 image: 'https://m.media-amazon.com/images/I/41STvOAgQ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000IV6S9S-es StarTech.com USBMBADAPT - Cable Adaptador Extensor USB 2.0...'
 sku: 'B000IV6S9S-es'
 tags: [  ]

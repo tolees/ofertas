@@ -5,7 +5,7 @@ date: 2020-10-10 07:25:27
 image: 'https://m.media-amazon.com/images/I/41oI6eTGrWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFVBT4Q-es L´Oreal París Dermo Expertise - Set de Regalo Incluye...'
 sku: 'B07QFVBT4Q-es'
 tags: [  ]

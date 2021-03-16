@@ -5,7 +5,7 @@ date: 2020-08-17 13:22:24
 image: 'https://m.media-amazon.com/images/I/41+PGvTZIDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZT1VZN-es Hugo BOSS Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B075ZT1VZN-es'
 tags: [  ]

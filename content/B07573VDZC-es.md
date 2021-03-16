@@ -5,7 +5,7 @@ date: 2020-09-22 09:45:54
 image: 'https://m.media-amazon.com/images/I/41S5xpIiYmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07573VDZC-es Intex 57441NP - Unicornio Hinchable Piscina con pulverizador'
 sku: 'B07573VDZC-es'
 tags: [  ]

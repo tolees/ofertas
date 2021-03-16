@@ -5,7 +5,7 @@ date: 2020-07-21 07:51:38
 image: 'https://m.media-amazon.com/images/I/41IKOq2YiFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00429KKMI-es Herradura Reposado Tequila - 700 ml'
 sku: 'B00429KKMI-es'
 tags: [  ]

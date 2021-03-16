@@ -5,7 +5,7 @@ date: 2020-06-17 09:45:25
 image: 'https://m.media-amazon.com/images/I/31nqWXb2gNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BW6YWJ-es Dasket 35x25cm 30 Hojas de Papel de arroz Duradero Xuan...'
 sku: 'B088BW6YWJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 09:29:46
 image: 'https://m.media-amazon.com/images/I/31pspWXGNuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ7X4DX-es Lacoste Ziane BL 2 CFA Zapatillas para Mujer Azul...'
 sku: 'B07DJ7X4DX-es'
 tags: [  ]

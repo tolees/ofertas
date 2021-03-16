@@ -5,7 +5,7 @@ date: 2020-01-22 07:28:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41V7VxuTqdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KVZV8KX-es Cámara DV180 16MP Mini vídeo Digital con 1 5" TFT Zoom...'
 sku: 'B07KVZV8KX-es'
 tags: [  ]

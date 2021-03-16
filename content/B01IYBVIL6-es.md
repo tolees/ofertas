@@ -5,7 +5,7 @@ date: 2020-09-07 07:44:21
 image: 'https://m.media-amazon.com/images/I/31uW9YDrQWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IYBVIL6-es Carolina Herrera Good Girl Eau de Parfum Spray 80 ml'
 sku: 'B01IYBVIL6-es'
 tags: [  ]

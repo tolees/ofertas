@@ -5,7 +5,7 @@ date: 2020-08-25 19:07:38
 image: 'https://m.media-amazon.com/images/I/41cDq4YmiZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DNSDBDS-es Suunto - Traverse Alpha - Reloj GPS Outdoor para pesca...'
 sku: 'B01DNSDBDS-es'
 tags: [  ]

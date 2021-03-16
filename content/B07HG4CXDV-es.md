@@ -5,7 +5,7 @@ date: 2020-07-03 17:41:57
 image: 'https://m.media-amazon.com/images/I/41qorC7FvOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG4CXDV-es New Balance 247v2 Zapatillas para Hombre Blanco Pigment...'
 sku: 'B07HG4CXDV-es'
 tags: [  ]

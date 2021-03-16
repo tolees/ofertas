@@ -5,7 +5,7 @@ date: 2020-08-13 05:10:55
 image: 'https://m.media-amazon.com/images/I/41n9jCQsdrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088GTFC5W-es Auriculares Inalámbricos Bluetooth 5.0 True Auriculares...'
 sku: 'B088GTFC5W-es'
 tags: [  ]

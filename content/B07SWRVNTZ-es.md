@@ -5,7 +5,7 @@ date: 2020-01-30 08:44:09
 image: 'https://m.media-amazon.com/images/I/519SuV-2UPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWRVNTZ-es Roxy Sugar Baby-Mochila Mediana para Mujer Heritage...'
 sku: 'B07SWRVNTZ-es'
 tags: [  ]

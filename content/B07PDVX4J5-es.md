@@ -5,7 +5,7 @@ date: 2020-04-11 01:22:56
 image: 'https://m.media-amazon.com/images/I/41ePOXAaARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDVX4J5-es Swatch Reloj Analógico para Unisex Adultos de Cuarzo con...'
 sku: 'B07PDVX4J5-es'
 tags: [  ]

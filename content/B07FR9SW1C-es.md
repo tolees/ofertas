@@ -5,7 +5,7 @@ date: 2020-07-06 21:48:17
 image: 'https://m.media-amazon.com/images/I/41li7odHsCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR9SW1C-es Clarks Blake Jewel Sandalia con Pulsera para Mujer Marrón...'
 sku: 'B07FR9SW1C-es'
 tags: [  ]

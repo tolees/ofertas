@@ -5,7 +5,7 @@ date: 2020-02-05 14:19:01
 image: 'https://m.media-amazon.com/images/I/41x+M9slPDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z35W9DK-es ECHTPower Plancha Vertical Vapor Plancha de Ropa...'
 sku: 'B07Z35W9DK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-06 13:59:41
 image: 'https://m.media-amazon.com/images/I/41rQwX0wvUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006O87VUY-es K&N AL-1010 Filtro de Aire para Aprilia RSV4R FACTORY...'
 sku: 'B006O87VUY-es'
 tags: [  ]

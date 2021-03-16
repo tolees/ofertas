@@ -5,7 +5,7 @@ date: 2020-03-11 10:46:58
 image: 'https://m.media-amazon.com/images/I/31oPl18575L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQF3DWK-es DESIGUAL Letras Abrigos Femmes Negro - EU 36 - Plumas'
 sku: 'B07XQF3DWK-es'
 tags: [  ]

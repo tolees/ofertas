@@ -5,7 +5,7 @@ date: 2020-05-27 18:45:01
 image: 'https://m.media-amazon.com/images/I/41R0+EXEGyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKQT6B2-es Daniel Wellington 0505DW - Reloj con correa para mujer...'
 sku: 'B00BKQT6B2-es'
 tags: [  ]

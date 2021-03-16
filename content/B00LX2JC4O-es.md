@@ -5,7 +5,7 @@ date: 2020-09-22 05:31:32
 image: 'https://m.media-amazon.com/images/I/51RoaOubENL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LX2JC4O-es Acer Monitor K222HQLbid 55cm 21.5 5ms 100M:1 ACM 200nits...'
 sku: 'B00LX2JC4O-es'
 tags: [  ]

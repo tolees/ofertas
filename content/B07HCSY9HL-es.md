@@ -5,7 +5,7 @@ date: 2020-08-07 05:11:50
 image: 'https://m.media-amazon.com/images/I/41Jzjz7KhdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCSY9HL-es Dell Precision 3530 - Ordenador portátil 15.6" FullHD...'
 sku: 'B07HCSY9HL-es'
 tags: [  ]

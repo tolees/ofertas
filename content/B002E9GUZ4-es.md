@@ -5,7 +5,7 @@ date: 2020-09-16 11:24:15
 image: 'https://m.media-amazon.com/images/I/41SH-T84pkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002E9GUZ4-es Winsor & Newton- Winton Set de 10 Tubos de 37 ml de óleo...'
 sku: 'B002E9GUZ4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 07:41:53
 image: 'https://m.media-amazon.com/images/I/41ZvvZ8qRQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007AAC9DE-es Triumph Body Make-Up - Sujetador sin Aros para Mujer Color...'
 sku: 'B007AAC9DE-es'
 tags: [  ]

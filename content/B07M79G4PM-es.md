@@ -5,7 +5,7 @@ date: 2020-03-11 14:15:17
 image: 'https://m.media-amazon.com/images/I/41iQsHr9s1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M79G4PM-es HKT by Hackett Hkt SS Str Rby Polo Ink 591 Medium para Hombre'
 sku: 'B07M79G4PM-es'
 tags: [  ]

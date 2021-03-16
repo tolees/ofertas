@@ -5,7 +5,7 @@ date: 2020-01-12 19:33:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3116zx47H2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFY47MG-es PUMA Drift Cat 5 AC Zapatillas Unisex Adulto White White...'
 sku: 'B07KFY47MG-es'
 tags: [  ]

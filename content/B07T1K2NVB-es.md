@@ -5,7 +5,7 @@ date: 2020-02-14 11:29:26
 image: 'https://m.media-amazon.com/images/I/31nX4k5bDwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1K2NVB-es San Ignacio Q2956 Cuchillo multiusos 12.5cm acer inox...'
 sku: 'B07T1K2NVB-es'
 tags: [  ]

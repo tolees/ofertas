@@ -5,7 +5,7 @@ date: 2020-02-14 12:07:37
 image: 'https://m.media-amazon.com/images/I/317fiQYcTHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG7SMT6-es oneConcept Woodpecker Equipo de Sonido 5.1 - Equipo para...'
 sku: 'B07JG7SMT6-es'
 tags: [  ]

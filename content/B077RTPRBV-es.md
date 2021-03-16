@@ -5,7 +5,7 @@ date: 2020-04-18 20:28:11
 image: 'https://m.media-amazon.com/images/I/31Af9d49QpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077RTPRBV-es Nike Air MAX 270 Zapatillas de Gimnasia para Hombre Negro...'
 sku: 'B077RTPRBV-es'
 tags: [  ]

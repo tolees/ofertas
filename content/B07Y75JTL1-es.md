@@ -5,7 +5,7 @@ date: 2020-08-29 09:24:04
 image: 'https://m.media-amazon.com/images/I/41GCqeFwvsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y75JTL1-es Pantuflas de invierno para hombre y mujer con espuma...'
 sku: 'B07Y75JTL1-es'
 tags: [  ]

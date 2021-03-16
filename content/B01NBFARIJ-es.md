@@ -5,7 +5,7 @@ date: 2020-08-19 12:51:59
 image: 'https://m.media-amazon.com/images/I/51rHIbmuOGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBFARIJ-es Ukelele Redondo de 21” Construido con Funda Bolsa de...'
 sku: 'B01NBFARIJ-es'
 tags: [  ]

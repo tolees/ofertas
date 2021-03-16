@@ -5,7 +5,7 @@ date: 2020-03-10 08:31:25
 image: 'https://m.media-amazon.com/images/I/41NyCF99W3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YXVZFC-es Tijeras de Podar Profesional Yunque y Jardín OSPREY 190...'
 sku: 'B078YXVZFC-es'
 tags: [  ]

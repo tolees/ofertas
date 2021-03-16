@@ -5,7 +5,7 @@ date: 2020-06-08 15:31:26
 image: 'https://m.media-amazon.com/images/I/31dw2qJb-JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5G2P5S-es HARTMANN - TIRITAS SPORT EXPRESS 15 U'
 sku: 'B00J5G2P5S-es'
 tags: [  ]

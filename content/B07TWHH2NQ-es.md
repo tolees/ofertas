@@ -5,7 +5,7 @@ date: 2020-10-03 08:52:35
 image: 'https://m.media-amazon.com/images/I/313JNKPydRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWHH2NQ-es Funko- Pop Marvel: Fantastic Four-Silver Surfer...'
 sku: 'B07TWHH2NQ-es'
 tags: [  ]

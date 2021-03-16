@@ -5,7 +5,7 @@ date: 2020-04-23 12:30:11
 image: 'https://m.media-amazon.com/images/I/31C4iyqp-ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYRFH3D-es Beko BWH50EUC - Termo eléctrico / calentador 50 litros...'
 sku: 'B06ZYRFH3D-es'
 tags: [  ]

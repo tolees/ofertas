@@ -5,7 +5,7 @@ date: 2020-07-24 08:34:04
 image: 'https://m.media-amazon.com/images/I/41N9Sqscq5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2SPHHD-es New Balance 574v2 Zapatillas para Hombre Rojo Red/Navy Spq...'
 sku: 'B07S2SPHHD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-17 09:41:18
 image: 'https://m.media-amazon.com/images/I/41UVFbUhN6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7H34VY-es Doosl Tableta de Escritura LCD Tableta para Escribir y...'
 sku: 'B07Z7H34VY-es'
 tags: [  ]

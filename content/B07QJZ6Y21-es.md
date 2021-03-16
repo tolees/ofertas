@@ -5,7 +5,7 @@ date: 2020-04-20 11:32:41
 image: 'https://m.media-amazon.com/images/I/41o1-8GGOFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJZ6Y21-es LuckyGirls ❤️• •❤️ Men s Solid Casual Anti-Slip SpOrot...'
 sku: 'B07QJZ6Y21-es'
 tags: [  ]

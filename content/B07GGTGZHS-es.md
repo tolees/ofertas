@@ -5,7 +5,7 @@ date: 2020-08-21 17:12:20
 image: 'https://m.media-amazon.com/images/I/51ABCmd-fLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGTGZHS-es We Happy Few'
 sku: 'B07GGTGZHS-es'
 tags: [  ]

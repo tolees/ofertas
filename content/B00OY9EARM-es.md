@@ -5,7 +5,7 @@ date: 2020-01-02 08:14:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51eBnLgKshL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OY9EARM-es VAUDE Jacke Girls Centipede Jacket - Soft Shell para niña...'
 sku: 'B00OY9EARM-es'
 tags: [  ]

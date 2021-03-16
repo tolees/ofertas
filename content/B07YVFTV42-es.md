@@ -5,7 +5,7 @@ date: 2020-08-05 14:31:15
 image: 'https://m.media-amazon.com/images/I/41PEMncnIcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVFTV42-es Regalo Botella de Acero Inoxidable de Aislamiento al vacío...'
 sku: 'B07YVFTV42-es'
 tags: [  ]

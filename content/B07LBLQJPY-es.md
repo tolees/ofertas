@@ -5,7 +5,7 @@ date: 2020-07-18 19:02:40
 image: 'https://m.media-amazon.com/images/I/31D-aMo-8rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBLQJPY-es Napapijri Nakuro 2 Pantalones Cortos Blanco Bright White...'
 sku: 'B07LBLQJPY-es'
 tags: [  ]

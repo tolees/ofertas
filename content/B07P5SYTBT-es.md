@@ -5,7 +5,7 @@ date: 2020-07-13 22:19:19
 image: 'https://m.media-amazon.com/images/I/31Aa3LZi1IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5SYTBT-es Clarks'
 sku: 'B07P5SYTBT-es'
 tags: [  ]

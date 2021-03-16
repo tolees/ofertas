@@ -5,7 +5,7 @@ date: 2020-02-22 20:49:37
 image: 'https://m.media-amazon.com/images/I/41RsPa+qpKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHDFGWD-es PUMA Puma Vikky v2 Ribbon P Zapatillas Mujer Negro Puma...'
 sku: 'B07FHDFGWD-es'
 tags: [  ]

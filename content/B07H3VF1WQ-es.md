@@ -5,7 +5,7 @@ date: 2020-07-21 08:15:55
 image: 'https://m.media-amazon.com/images/I/51Tc9woZVTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3VF1WQ-es Venus Swirl Cuchillas afeitar mujer maquinilla + 5...'
 sku: 'B07H3VF1WQ-es'
 tags: [  ]

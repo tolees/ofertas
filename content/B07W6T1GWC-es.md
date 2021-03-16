@@ -5,7 +5,7 @@ date: 2020-09-10 21:54:06
 image: 'https://m.media-amazon.com/images/I/51tR0332rIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6T1GWC-es YOZATIA - Guirnalda de luces de corcho de 2 m 3 modos de...'
 sku: 'B07W6T1GWC-es'
 tags: [  ]

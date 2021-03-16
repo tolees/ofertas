@@ -5,7 +5,7 @@ date: 2020-10-02 10:45:31
 image: 'https://m.media-amazon.com/images/I/41AdXAJYt7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086KXZ6W2-es Arthome 43.5 × 305cm Muebles De Ladrillo Blanco Pegatinas...'
 sku: 'B086KXZ6W2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-02 18:36:15
 image: 'https://m.media-amazon.com/images/I/41dTPp14OuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0833WHQDJ-es DONPEREGRINO Maleta Cabina Avión 55x40x20 Rígida Ligera y...'
 sku: 'B0833WHQDJ-es'
 tags: [  ]

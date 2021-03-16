@@ -5,7 +5,7 @@ date: 2020-02-23 08:38:49
 image: 'https://m.media-amazon.com/images/I/41bXz2mb88L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UB70K8Y-es Einhell GC-EM 1030 - Cortacésped eléctrico 1000 W altura...'
 sku: 'B00UB70K8Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 01:08:47
 image: 'https://m.media-amazon.com/images/I/41La4g2sSfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0001Y8YKI-es Converse Chuck C Taylor A/S Hi Zapatillas Unisex Negro 53 EU'
 sku: 'B0001Y8YKI-es'
 tags: [  ]

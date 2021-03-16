@@ -5,7 +5,7 @@ date: 2020-08-06 09:14:16
 image: 'https://m.media-amazon.com/images/I/41QF0Y6fapL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8GNSBF-es Fossil Pulsera para Hombre JF03171040'
 sku: 'B07V8GNSBF-es'
 tags: [  ]

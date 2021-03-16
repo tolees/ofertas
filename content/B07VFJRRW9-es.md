@@ -5,7 +5,7 @@ date: 2020-07-18 22:47:02
 image: 'https://m.media-amazon.com/images/I/416K9ArzLaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFJRRW9-es Skechers Arch FIT Zapatillas para Hombre Negro Negro Negro...'
 sku: 'B07VFJRRW9-es'
 tags: [  ]

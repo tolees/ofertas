@@ -5,7 +5,7 @@ date: 2020-09-07 10:30:46
 image: 'https://m.media-amazon.com/images/I/51ixs69nZyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K5XTTVW-es TensCare Sports TENS - Electroestimulador muscular....'
 sku: 'B01K5XTTVW-es'
 tags: [  ]

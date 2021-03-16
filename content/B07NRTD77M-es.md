@@ -5,7 +5,7 @@ date: 2020-10-08 18:11:44
 image: 'https://m.media-amazon.com/images/I/51qarmWGRXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRTD77M-es Schwarzkopf Gliss - Reparador de puntas Ultimate Repair 2...'
 sku: 'B07NRTD77M-es'
 tags: [  ]

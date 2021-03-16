@@ -5,7 +5,7 @@ date: 2020-04-17 00:30:13
 image: 'https://m.media-amazon.com/images/I/41yMhSgNDZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZP2WZ6W-es BLU Ray 4k Grabadora DVD Reproductor Externo Portatil USB...'
 sku: 'B07ZP2WZ6W-es'
 tags: [  ]

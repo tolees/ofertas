@@ -5,7 +5,7 @@ date: 2020-05-28 16:28:12
 image: 'https://m.media-amazon.com/images/I/31rV-CRmccL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F63SBTI-es Chloe 22812 - Desodorante 100 ml'
 sku: 'B00F63SBTI-es'
 tags: [  ]

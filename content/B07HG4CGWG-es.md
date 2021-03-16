@@ -5,7 +5,7 @@ date: 2020-06-08 07:43:34
 image: 'https://m.media-amazon.com/images/I/41FS+B8ShkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG4CGWG-es New Balance 247v2 Zapatillas para Hombre Negro Black Black...'
 sku: 'B07HG4CGWG-es'
 tags: [  ]

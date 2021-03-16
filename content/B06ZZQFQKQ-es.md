@@ -5,7 +5,7 @@ date: 2020-07-09 19:06:52
 image: 'https://m.media-amazon.com/images/I/51zXKlQrAyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZQFQKQ-es Instituto Español Piel Sana Crema Corporal Hidratante -...'
 sku: 'B06ZZQFQKQ-es'
 tags: [  ]

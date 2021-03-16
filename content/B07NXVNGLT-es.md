@@ -5,7 +5,7 @@ date: 2020-10-08 14:18:31
 image: 'https://m.media-amazon.com/images/I/415rtqGepQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXVNGLT-es Skechers Solar Fuse Zapatillas para Hombre Negro Black...'
 sku: 'B07NXVNGLT-es'
 tags: [  ]

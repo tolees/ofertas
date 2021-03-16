@@ -5,7 +5,7 @@ date: 2020-01-19 03:13:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wBtAAj7aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6LYLJM-es Skagen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07L6LYLJM-es'
 tags: [  ]

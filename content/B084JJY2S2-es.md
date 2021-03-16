@@ -5,7 +5,7 @@ date: 2020-08-15 14:01:10
 image: 'https://m.media-amazon.com/images/I/41uFN-aK0GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084JJY2S2-es Moliies Esponja Almacenamiento de desagüe Cesta para...'
 sku: 'B084JJY2S2-es'
 tags: [  ]

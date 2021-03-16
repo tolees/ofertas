@@ -5,7 +5,7 @@ date: 2020-05-26 14:51:07
 image: 'https://m.media-amazon.com/images/I/41fxxVk+UWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVM6CCX-es New Balance 574v2 Entrenadores para Hombre Turquesa Dark...'
 sku: 'B07DVM6CCX-es'
 tags: [  ]

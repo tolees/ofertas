@@ -5,7 +5,7 @@ date: 2020-05-24 13:02:15
 image: 'https://m.media-amazon.com/images/I/51eLsxr-Z9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868MWX5G-es Suhctup Transparente Funda Compatible con Huawei Nova 4...'
 sku: 'B0868MWX5G-es'
 tags: [  ]

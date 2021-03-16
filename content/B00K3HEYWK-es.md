@@ -5,7 +5,7 @@ date: 2020-07-16 17:09:52
 image: 'https://m.media-amazon.com/images/I/41zI-ez3r1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K3HEYWK-es Trust Sura - Ratón óptico inalámbrico Negro y Gris'
 sku: 'B00K3HEYWK-es'
 tags: [  ]

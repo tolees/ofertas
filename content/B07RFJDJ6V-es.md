@@ -5,7 +5,7 @@ date: 2020-06-24 01:21:18
 image: 'https://m.media-amazon.com/images/I/519hX1LRzNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFJDJ6V-es Percetey - Cinturón de natación para niños y adultos...'
 sku: 'B07RFJDJ6V-es'
 tags: [  ]

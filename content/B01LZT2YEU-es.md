@@ -5,7 +5,7 @@ date: 2020-05-27 10:10:21
 image: 'https://m.media-amazon.com/images/I/31xtSUOnp1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZT2YEU-es Intenso 6021512 4000GB Negro - Disco Duro Externo 4000 GB...'
 sku: 'B01LZT2YEU-es'
 tags: [  ]

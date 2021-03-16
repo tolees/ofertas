@@ -5,7 +5,7 @@ date: 2020-08-24 09:35:19
 image: 'https://m.media-amazon.com/images/I/41UcSQhmxML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1VWFQS-es adidas Lite Racer Zapatillas de Running para Hombre Negro...'
 sku: 'B07N1VWFQS-es'
 tags: [  ]

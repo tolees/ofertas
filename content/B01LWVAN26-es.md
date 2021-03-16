@@ -5,7 +5,7 @@ date: 2020-03-29 05:04:02
 image: 'https://m.media-amazon.com/images/I/51k+O4pjtmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWVAN26-es Canon EF-M 18-150 - Objetivo para Canon EOS M5 EF-M 18-150...'
 sku: 'B01LWVAN26-es'
 tags: [  ]

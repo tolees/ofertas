@@ -5,7 +5,7 @@ date: 2020-07-10 21:19:55
 image: 'https://m.media-amazon.com/images/I/41yfUrGJUYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5DY7C6-es Wrangler Greensboro Jeans Azul Green Night 26M 32W / 31L...'
 sku: 'B07M5DY7C6-es'
 tags: [  ]

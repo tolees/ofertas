@@ -5,7 +5,7 @@ date: 2020-03-09 07:36:32
 image: 'https://m.media-amazon.com/images/I/41bP9NxhjOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017XP1HOM-es Helly Hansen Vancouver Jacket Hombre Black S'
 sku: 'B017XP1HOM-es'
 tags: [  ]

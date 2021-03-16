@@ -5,7 +5,7 @@ date: 2020-10-01 18:15:12
 image: 'https://m.media-amazon.com/images/I/31JOXgsdENL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4SBAAS-es Emuca - Barra de armario abatible perchero basculante...'
 sku: 'B01N4SBAAS-es'
 tags: [  ]

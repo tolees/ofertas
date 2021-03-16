@@ -5,7 +5,7 @@ date: 2020-05-29 13:34:49
 image: 'https://m.media-amazon.com/images/I/51UGW6r8SRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N484WJJ-es POP! Vinilo - Kingdom Hearts: Pete'
 sku: 'B01N484WJJ-es'
 tags: [  ]

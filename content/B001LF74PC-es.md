@@ -5,7 +5,7 @@ date: 2020-05-15 10:36:22
 image: 'https://m.media-amazon.com/images/I/41gzz4oKA0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001LF74PC-es Grohe SilverFlex - Flexo con pieza de unión giratoria para...'
 sku: 'B001LF74PC-es'
 tags: [  ]

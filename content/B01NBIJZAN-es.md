@@ -5,7 +5,7 @@ date: 2020-07-10 20:08:46
 image: 'https://m.media-amazon.com/images/I/512B1-KB13L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBIJZAN-es Karciane Podziemia'
 sku: 'B01NBIJZAN-es'
 tags: [  ]

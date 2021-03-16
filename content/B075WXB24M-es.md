@@ -5,7 +5,7 @@ date: 2020-09-26 20:02:51
 image: 'https://m.media-amazon.com/images/I/41SfJjExQUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WXB24M-es Cecotec Tostadora Acero Steel&Toast 1L. 6 Niveles de...'
 sku: 'B075WXB24M-es'
 tags: [  ]

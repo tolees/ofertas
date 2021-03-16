@@ -5,7 +5,7 @@ date: 2020-01-29 13:48:05
 image: 'https://m.media-amazon.com/images/I/41hIIOn0QhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GRHR9JW-es Adidas Lite Racer Inf Zapatillas de Estar por casa Bebé...'
 sku: 'B07GRHR9JW-es'
 tags: [  ]

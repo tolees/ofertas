@@ -5,7 +5,7 @@ date: 2020-01-25 21:20:45
 image: 'https://m.media-amazon.com/images/I/31KqotGcY1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MK3Q2M-es Karmin T70 - Maquina de cortar pelo/cabello profesional...'
 sku: 'B077MK3Q2M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-20 15:02:21
 image: 'https://m.media-amazon.com/images/I/41jeGLGxiIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPLBBJ8-es LEADSTAR Toalla Bebé con Capucha Capa de Baño Infantil 90...'
 sku: 'B07ZPLBBJ8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-04 12:03:18
 image: 'https://m.media-amazon.com/images/I/21g41evgWAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZGCNMF-es Molyflower 18L Nordic Garbage Bag Storage Box Baño Estante...'
 sku: 'B08BZGCNMF-es'
 tags: [  ]

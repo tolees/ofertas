@@ -5,7 +5,7 @@ date: 2020-04-19 06:10:08
 image: 'https://m.media-amazon.com/images/I/41SvpBqeI4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UBMO7RY-es HP CF401X 201X Cartucho de Tóner Original de alto...'
 sku: 'B00UBMO7RY-es'
 tags: [  ]

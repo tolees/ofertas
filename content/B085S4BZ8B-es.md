@@ -5,7 +5,7 @@ date: 2020-09-02 09:31:19
 image: 'https://m.media-amazon.com/images/I/51xhhA-G1HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085S4BZ8B-es Rollo Césped de 7mm 2x5 Metros'
 sku: 'B085S4BZ8B-es'
 tags: [  ]

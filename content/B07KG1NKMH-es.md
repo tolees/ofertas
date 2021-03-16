@@ -5,7 +5,7 @@ date: 2020-01-30 13:10:21
 image: 'https://m.media-amazon.com/images/I/41oGfkcJlkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1NKMH-es PUMA Hybrid Astro Zapatillas de Running para Hombre -...'
 sku: 'B07KG1NKMH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-11 07:28:59
 image: 'https://m.media-amazon.com/images/I/41kwXI3PQsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FIVKGM8-es Singer SMC4423 Heavy Duty 4423 18/8 Stainless Steel...'
 sku: 'B00FIVKGM8-es'
 tags: [  ]

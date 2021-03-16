@@ -5,7 +5,7 @@ date: 2020-07-28 14:01:49
 image: 'https://m.media-amazon.com/images/I/51IPCyoHEzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811LXHP2-es FYLINA Almohada de Viaje Viscoelástica de Espuma de...'
 sku: 'B0811LXHP2-es'
 tags: [  ]

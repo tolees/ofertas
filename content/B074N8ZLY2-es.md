@@ -5,7 +5,7 @@ date: 2020-03-17 17:35:59
 image: 'https://m.media-amazon.com/images/I/31YC9hK1s5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074N8ZLY2-es Apple iPhone 7 - Smartphone DE 4 7” con tecnología IPS...'
 sku: 'B074N8ZLY2-es'
 tags: [  ]

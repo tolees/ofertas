@@ -5,7 +5,7 @@ date: 2020-04-15 12:30:03
 image: 'https://m.media-amazon.com/images/I/41sAo-4pJBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4F3NND-es Tom Tailor Print Polo Gris Grey Triangle Design 22587 M...'
 sku: 'B07V4F3NND-es'
 tags: [  ]

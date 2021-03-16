@@ -5,7 +5,7 @@ date: 2020-01-14 14:35:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dwlOaJOeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTNZ1RK-es Frozen Wind-Bolsa de Deporte'
 sku: 'B07ZTNZ1RK-es'
 tags: [  ]

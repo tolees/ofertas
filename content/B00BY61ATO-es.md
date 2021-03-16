@@ -5,7 +5,7 @@ date: 2020-01-30 14:45:10
 image: 'https://m.media-amazon.com/images/I/41WuLucL2dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BY61ATO-es Panasonic KX-TG7851 - Teléfono fijo inalámbrico LCD de...'
 sku: 'B00BY61ATO-es'
 tags: [  ]

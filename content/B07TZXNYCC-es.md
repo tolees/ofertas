@@ -5,7 +5,7 @@ date: 2020-01-18 11:17:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31-Y9WXKlQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZXNYCC-es Roxy You Gotta Be-Top De Manga Larga con Cuello En Pico...'
 sku: 'B07TZXNYCC-es'
 tags: [  ]

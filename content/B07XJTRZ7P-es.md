@@ -5,7 +5,7 @@ date: 2020-05-05 18:17:30
 image: 'https://m.media-amazon.com/images/I/51TBfoTdPIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJTRZ7P-es Young & Ming Funda para Xiaomi Redmi Note 8 Pro 3 Pack...'
 sku: 'B07XJTRZ7P-es'
 tags: [  ]

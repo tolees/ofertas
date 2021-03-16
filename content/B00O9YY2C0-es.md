@@ -5,7 +5,7 @@ date: 2020-03-14 20:11:26
 image: 'https://m.media-amazon.com/images/I/41IulGZ0AnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O9YY2C0-es SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva...'
 sku: 'B00O9YY2C0-es'
 tags: [  ]

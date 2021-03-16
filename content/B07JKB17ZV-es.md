@@ -5,7 +5,7 @@ date: 2020-05-13 06:54:30
 image: 'https://m.media-amazon.com/images/I/41Mpr+jfWmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKB17ZV-es Columbia Mojave Trail II Outdry Zapatillas de Running para...'
 sku: 'B07JKB17ZV-es'
 tags: [  ]

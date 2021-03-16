@@ -5,7 +5,7 @@ date: 2020-06-09 09:45:28
 image: 'https://m.media-amazon.com/images/I/31ekNSgB2ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081V3VT2R-es Arbily Auriculares Inalámbricos Auriculares Estéreo...'
 sku: 'B081V3VT2R-es'
 tags: [  ]

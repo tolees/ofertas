@@ -5,7 +5,7 @@ date: 2020-08-09 19:16:20
 image: 'https://m.media-amazon.com/images/I/41aO0D1+vGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVQN3LK-es Wrangler SS Colourblock Polo Blanco White 989 Small para...'
 sku: 'B07TVQN3LK-es'
 tags: [  ]

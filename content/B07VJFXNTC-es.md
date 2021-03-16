@@ -5,7 +5,7 @@ date: 2020-08-06 08:46:15
 image: 'https://m.media-amazon.com/images/I/31Gl5Kd3wQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJFXNTC-es ieGeek Cámara de Vigilancia WiFi Interior Cámara IP WiFi...'
 sku: 'B07VJFXNTC-es'
 tags: [  ]

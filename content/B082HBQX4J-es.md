@@ -5,7 +5,7 @@ date: 2020-04-16 08:32:36
 image: 'https://m.media-amazon.com/images/I/41rPLOed5bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBQX4J-es ART VVIES Leinwandbilder Holzrahmen für Hauptdekorationen...'
 sku: 'B082HBQX4J-es'
 tags: [  ]

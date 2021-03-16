@@ -5,7 +5,7 @@ date: 2020-04-12 17:52:58
 image: 'https://m.media-amazon.com/images/I/41jiQjsusmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I8EV41E-es Epson C13T789240 - Cartucho de tinta para la serie WF-5xxx...'
 sku: 'B00I8EV41E-es'
 tags: [  ]

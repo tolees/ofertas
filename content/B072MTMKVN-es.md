@@ -5,7 +5,7 @@ date: 2020-01-11 17:12:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31cyodwL24L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MTMKVN-es find. Botas Efecto Ante para Mujer Gris Grey 36 EU'
 sku: 'B072MTMKVN-es'
 tags: [  ]

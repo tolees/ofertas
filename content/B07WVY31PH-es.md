@@ -5,7 +5,7 @@ date: 2020-03-17 21:38:56
 image: 'https://m.media-amazon.com/images/I/41HlJY1icPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVY31PH-es Auriculares Bluetooth Auriculares Inalámbricos 2000mAh con...'
 sku: 'B07WVY31PH-es'
 tags: [  ]

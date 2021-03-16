@@ -5,7 +5,7 @@ date: 2020-05-23 07:30:23
 image: 'https://m.media-amazon.com/images/I/31KF5bKRjpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MP5MYQ-es Belkin Cable de Carga USB 2.0 USB-A a USB Type C USB-C de...'
 sku: 'B075MP5MYQ-es'
 tags: [  ]

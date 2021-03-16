@@ -5,7 +5,7 @@ date: 2020-06-10 05:20:25
 image: 'https://m.media-amazon.com/images/I/51IkpwLLJKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OISVG4O-es Pazo Das Bruxas Vino Blanco - 3 botellas de 75 cl Total:...'
 sku: 'B00OISVG4O-es'
 tags: [  ]

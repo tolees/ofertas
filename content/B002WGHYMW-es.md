@@ -5,7 +5,7 @@ date: 2020-06-28 18:05:31
 image: 'https://m.media-amazon.com/images/I/31bOz06WqpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002WGHYMW-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Black...'
 sku: 'B002WGHYMW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-29 15:43:09
 image: 'https://m.media-amazon.com/images/I/41hE9vYI1qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AJOMDSI-es Linksys EA7500-EU - Router WiFi Gigabit MU-MIMO AC1900...'
 sku: 'B01AJOMDSI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-30 17:47:30
 image: 'https://m.media-amazon.com/images/I/51oVnFlFYML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B6N1MG5-es HONCENMAX Tipo D Vehículo Cubierta del Volante Coche...'
 sku: 'B07B6N1MG5-es'
 tags: [  ]

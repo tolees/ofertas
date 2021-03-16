@@ -5,7 +5,7 @@ date: 2020-08-03 16:32:17
 image: 'https://m.media-amazon.com/images/I/31lVcKk0MXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0833CLWP9-es Pendientes de tuerca de bola de oro amarillo de 14...'
 sku: 'B0833CLWP9-es'
 tags: [  ]

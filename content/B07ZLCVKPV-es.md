@@ -5,7 +5,7 @@ date: 2020-09-22 12:59:21
 image: 'https://m.media-amazon.com/images/I/51zmCH7F5tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZLCVKPV-es Crucial CT2K32G4SFD832A Kit de Memoria Ram de 64 GB 32 GB...'
 sku: 'B07ZLCVKPV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-26 22:57:32
 image: 'https://m.media-amazon.com/images/I/61tj3yJh+oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ALCE9TY-es Forestry 2017'
 sku: 'B01ALCE9TY-es'
 tags: [  ]

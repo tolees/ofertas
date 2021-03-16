@@ -5,7 +5,7 @@ date: 2020-03-06 08:02:14
 image: 'https://m.media-amazon.com/images/I/21Jiz6MfopL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N11KNE0-es Toshiba Canvio - Disco Duro Externo 500 GB Blanco'
 sku: 'B01N11KNE0-es'
 tags: [  ]

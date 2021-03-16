@@ -5,7 +5,7 @@ date: 2020-05-14 11:26:18
 image: 'https://m.media-amazon.com/images/I/41vUfJjFFrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFBH6BJ-es Tevlaphee Soporte Móvil para Coche Universal Soporte Móvil...'
 sku: 'B07YFBH6BJ-es'
 tags: [  ]

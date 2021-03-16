@@ -5,7 +5,7 @@ date: 2020-06-28 18:28:14
 image: 'https://m.media-amazon.com/images/I/31wmqR1NvmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XBSXBDH-es PUMA Rtg 3/4 Tight Mallas Deporte Mujer Black S'
 sku: 'B07XBSXBDH-es'
 tags: [  ]

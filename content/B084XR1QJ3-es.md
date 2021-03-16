@@ -5,7 +5,7 @@ date: 2020-07-20 21:41:13
 image: 'https://m.media-amazon.com/images/I/51H+NcMl6qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084XR1QJ3-es Ymea Silueta| Tratamiento de la Menopausia | Doble acción...'
 sku: 'B084XR1QJ3-es'
 tags: [  ]

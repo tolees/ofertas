@@ -5,7 +5,7 @@ date: 2020-07-16 17:19:04
 image: 'https://m.media-amazon.com/images/I/31tYAPLYSNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K5VHJJY-es Monrodbitt Black Durable Lightweight Plug & Play USB 2.0 a...'
 sku: 'B07K5VHJJY-es'
 tags: [  ]

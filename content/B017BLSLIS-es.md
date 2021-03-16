@@ -5,7 +5,7 @@ date: 2020-04-17 08:38:01
 image: 'https://m.media-amazon.com/images/I/41rBxykF2JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017BLSLIS-es Silverline 360375 - Polipasto de tracción resistente 3.500 kg'
 sku: 'B017BLSLIS-es'
 tags: [  ]

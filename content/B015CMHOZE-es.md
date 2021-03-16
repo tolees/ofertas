@@ -5,7 +5,7 @@ date: 2020-06-06 18:38:50
 image: 'https://m.media-amazon.com/images/I/41aWyt4F9zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CMHOZE-es Rimmel London Supercurler Máscara de Pestañas Tono Black -...'
 sku: 'B015CMHOZE-es'
 tags: [  ]

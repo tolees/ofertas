@@ -5,7 +5,7 @@ date: 2020-05-01 09:48:46
 image: 'https://m.media-amazon.com/images/I/31xuvWiwcQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E7LOXTW-es Belkin F8J088bt - Base con cable USB de 1 2 m integrado...'
 sku: 'B00E7LOXTW-es'
 tags: [  ]

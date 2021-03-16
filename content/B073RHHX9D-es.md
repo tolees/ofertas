@@ -5,7 +5,7 @@ date: 2020-06-21 23:25:27
 image: 'https://m.media-amazon.com/images/I/41-uVdNyQfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RHHX9D-es Adidas Terrex Swift R2 Mid GTX Zapatillas de Marcha...'
 sku: 'B073RHHX9D-es'
 tags: [  ]

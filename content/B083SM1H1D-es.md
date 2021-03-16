@@ -5,7 +5,7 @@ date: 2020-02-28 14:24:09
 image: 'https://m.media-amazon.com/images/I/41J9fc3JgwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SM1H1D-es 2020 Auriculares inalámbricos Bluetooth actualizados con...'
 sku: 'B083SM1H1D-es'
 tags: [  ]

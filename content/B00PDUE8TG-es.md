@@ -5,7 +5,7 @@ date: 2020-04-06 18:35:39
 image: 'https://m.media-amazon.com/images/I/41eSCmEjMtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PDUE8TG-es Ultimate Ears Megaboom - Altavoz portátil Bluetooth 360...'
 sku: 'B00PDUE8TG-es'
 tags: [  ]

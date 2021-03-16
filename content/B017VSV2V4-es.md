@@ -5,7 +5,7 @@ date: 2020-06-14 15:01:29
 image: 'https://m.media-amazon.com/images/I/61oQiz0V72L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017VSV2V4-es JUGUETE DE PINTURA POR NUMEROS - Paisaje - INTERHOME©'
 sku: 'B017VSV2V4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-03 07:47:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bo9ZWZw9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKGB5Z3-es Under Armour UA W Breathe Trainer x NM Zapatillas de...'
 sku: 'B07HKGB5Z3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-18 23:35:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YdMx5ewFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079J5DBY6-es Tefal Daily Cook - Sartén de 20 cm antiadherente de acero...'
 sku: 'B079J5DBY6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-19 15:32:57
 image: 'https://m.media-amazon.com/images/I/319faBQ+suL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083QY3ZBV-es yaoyan Funda Universal para Tableta portátil Funda Ultra...'
 sku: 'B083QY3ZBV-es'
 tags: [  ]

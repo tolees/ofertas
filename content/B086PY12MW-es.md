@@ -5,7 +5,7 @@ date: 2020-09-09 07:06:25
 image: 'https://m.media-amazon.com/images/I/618nJtXOzUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PY12MW-es Beikell Pulseras Repelentes de Mosquitos 12 Piezas Pulsera...'
 sku: 'B086PY12MW-es'
 tags: [  ]

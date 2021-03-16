@@ -5,7 +5,7 @@ date: 2020-04-19 07:29:22
 image: 'https://m.media-amazon.com/images/I/41WKQSL6l6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BUDIY2G-es Wagner Wood&Metal Sprayer Pulverizador eléctrico de...'
 sku: 'B01BUDIY2G-es'
 tags: [  ]

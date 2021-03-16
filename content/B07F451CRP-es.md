@@ -5,7 +5,7 @@ date: 2020-09-26 10:09:11
 image: 'https://m.media-amazon.com/images/I/41rkSljtPoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F451CRP-es Mr; Wonderful Woa09057Es Organizador Semanal De Sobremesa...'
 sku: 'B07F451CRP-es'
 tags: [  ]

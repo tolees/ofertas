@@ -5,7 +5,7 @@ date: 2020-05-26 16:11:12
 image: 'https://m.media-amazon.com/images/I/41Aru2cUcJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007N1BIJ6-es K&N 33-2474 Filtro de Aire Coche Lavable y Reutilizable'
 sku: 'B007N1BIJ6-es'
 tags: [  ]

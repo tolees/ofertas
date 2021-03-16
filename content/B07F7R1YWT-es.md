@@ -5,7 +5,7 @@ date: 2020-03-15 08:08:27
 image: 'https://m.media-amazon.com/images/I/21A6slxRD7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7R1YWT-es Dermacol - Magnetic Metal 16H Delineador de ojos Tono 4...'
 sku: 'B07F7R1YWT-es'
 tags: [  ]

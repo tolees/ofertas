@@ -5,7 +5,7 @@ date: 2020-01-21 11:42:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51U-ygUSi-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XKDTWSC-es Lepfun P3000 1 pcs Correa Protector Deportiva Ajustable de...'
 sku: 'B06XKDTWSC-es'
 tags: [  ]

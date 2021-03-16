@@ -5,7 +5,7 @@ date: 2020-10-07 06:57:58
 image: 'https://m.media-amazon.com/images/I/41VQYJatRmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009VBWBNS-es Superga 2750 Cotu Classic Zapatillas Unisex Verde C60...'
 sku: 'B009VBWBNS-es'
 tags: [  ]

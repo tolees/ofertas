@@ -5,7 +5,7 @@ date: 2020-05-16 21:36:28
 image: 'https://m.media-amazon.com/images/I/31XhdkfidxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M76NBB4-es EISFEU LED 18W Lámpara de Techo Reemplaza 100W Bombillas...'
 sku: 'B07M76NBB4-es'
 tags: [  ]

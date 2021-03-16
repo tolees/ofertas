@@ -5,7 +5,7 @@ date: 2020-06-21 17:39:02
 image: 'https://m.media-amazon.com/images/I/519dhvNuL8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6JP71J-es GRIDINLUX. Ejercitador de Piernas TRAINER LEGS. Gimnasia...'
 sku: 'B07W6JP71J-es'
 tags: [  ]

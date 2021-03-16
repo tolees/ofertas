@@ -5,7 +5,7 @@ date: 2020-01-23 18:53:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21lNZ2e0rUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IDLP6SI-es BATH+ by Cosmic Espejo B-Box 50 x 80 cm'
 sku: 'B01IDLP6SI-es'
 tags: [  ]

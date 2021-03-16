@@ -5,7 +5,7 @@ date: 2020-05-21 10:07:56
 image: 'https://m.media-amazon.com/images/I/31fYcAiBg2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HNEMK2C-es Ikea Glis Caja con Tapa Azul Blanco y Verde 17x10x8 cm 3...'
 sku: 'B00HNEMK2C-es'
 tags: [  ]

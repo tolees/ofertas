@@ -5,7 +5,7 @@ date: 2020-08-29 11:30:20
 image: 'https://m.media-amazon.com/images/I/31rwVOo0+oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8V9VSH-es Tommy Hilfiger Lightweight Signature Colour-Blocked Trn...'
 sku: 'B07V8V9VSH-es'
 tags: [  ]

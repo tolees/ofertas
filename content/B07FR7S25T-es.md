@@ -5,7 +5,7 @@ date: 2020-02-07 15:37:10
 image: 'https://m.media-amazon.com/images/I/31DGwn+QeDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR7S25T-es Clarks Tri Spark Zapatillas para Hombre Blanco White...'
 sku: 'B07FR7S25T-es'
 tags: [  ]

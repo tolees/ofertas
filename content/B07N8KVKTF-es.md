@@ -5,7 +5,7 @@ date: 2020-05-01 13:45:09
 image: 'https://m.media-amazon.com/images/I/41wiBs7PpaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8KVKTF-es HOMYBABY Ganchos Carrito Bebé 2 pcs | Diseño...'
 sku: 'B07N8KVKTF-es'
 tags: [  ]

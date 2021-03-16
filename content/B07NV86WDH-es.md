@@ -5,7 +5,7 @@ date: 2020-06-24 17:33:02
 image: 'https://m.media-amazon.com/images/I/41aJT2HarqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NV86WDH-es YuhooTech Cámara Trasera Lente Pantalla para Huawei P20...'
 sku: 'B07NV86WDH-es'
 tags: [  ]

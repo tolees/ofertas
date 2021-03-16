@@ -5,7 +5,7 @@ date: 2020-06-01 06:01:34
 image: 'https://m.media-amazon.com/images/I/31On1kHqh0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084BTZJV6-es PEKITAS LOTE 2 Sábanas Bajera Ajustable Protectora...'
 sku: 'B084BTZJV6-es'
 tags: [  ]

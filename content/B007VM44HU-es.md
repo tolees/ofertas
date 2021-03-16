@@ -5,7 +5,7 @@ date: 2020-01-21 20:54:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rDFoJvUZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007VM44HU-es Makita 195584-2 - Cargador rápido 18V DC18RC Litio-Ion'
 sku: 'B007VM44HU-es'
 tags: [  ]

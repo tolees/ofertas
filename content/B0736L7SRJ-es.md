@@ -5,7 +5,7 @@ date: 2020-03-29 12:43:55
 image: 'https://m.media-amazon.com/images/I/41MjPJBLhTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0736L7SRJ-es 3 en 1 Faja Postparto Reductora Mujer Recuperación después...'
 sku: 'B0736L7SRJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-28 16:16:30
 image: 'https://m.media-amazon.com/images/I/51P7GJ6NAcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VFXDJK4-es Akileine NOK - Crema anti rozamientos Anti-rozaduras para...'
 sku: 'B00VFXDJK4-es'
 tags: [  ]

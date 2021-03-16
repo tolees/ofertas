@@ -5,7 +5,7 @@ date: 2020-04-12 08:46:17
 image: 'https://m.media-amazon.com/images/I/4186FTPdrkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DTTKZS-es Ringke Fusion Compatible con Funda Samsung Galaxy Note 8...'
 sku: 'B074DTTKZS-es'
 tags: [  ]

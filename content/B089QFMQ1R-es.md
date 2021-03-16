@@ -5,7 +5,7 @@ date: 2020-09-26 10:54:41
 image: 'https://m.media-amazon.com/images/I/51ksJoPxA6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089QFMQ1R-es VPCOK Mini Ventilador USB Silencioso 2 en 1 Ventiladores...'
 sku: 'B089QFMQ1R-es'
 tags: [  ]

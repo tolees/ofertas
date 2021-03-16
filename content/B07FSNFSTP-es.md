@@ -5,7 +5,7 @@ date: 2020-06-17 02:06:37
 image: 'https://m.media-amazon.com/images/I/31k3+ukdtXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSNFSTP-es Clarks Un Adorn Strap Mocasines para Mujer Negro Black...'
 sku: 'B07FSNFSTP-es'
 tags: [  ]

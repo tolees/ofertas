@@ -5,7 +5,7 @@ date: 2020-06-25 16:32:24
 image: 'https://m.media-amazon.com/images/I/512wCzz5-CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWNLVCN-es YZCX Auriculares Gaming G2000 USB 3.5mm Estéreo Gaming...'
 sku: 'B07DWNLVCN-es'
 tags: [  ]

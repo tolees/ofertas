@@ -5,7 +5,7 @@ date: 2020-03-11 13:04:19
 image: 'https://m.media-amazon.com/images/I/51SqFzhoEnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DWXFG8-es Versace 19V69 Funda Nórdico Y Almohada para Cama Algodón-...'
 sku: 'B074DWXFG8-es'
 tags: [  ]

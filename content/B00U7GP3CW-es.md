@@ -5,7 +5,7 @@ date: 2020-03-30 17:34:56
 image: 'https://m.media-amazon.com/images/I/41jRppb3mqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U7GP3CW-es BLACK+DECKER GW2500-QS - Aspirador soplador y triturador...'
 sku: 'B00U7GP3CW-es'
 tags: [  ]

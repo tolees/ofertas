@@ -5,7 +5,7 @@ date: 2020-05-07 17:20:22
 image: 'https://m.media-amazon.com/images/I/4168Afj-reL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PS5DJYK-es Victoria 1915 Doble Lona Zapatillas para Mujer Negro Negro...'
 sku: 'B07PS5DJYK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-15 08:53:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JQb-UvObL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083J49VHC-es CRZ YOGA Mujer Deportivos Leggings Mallas Fitness...'
 sku: 'B083J49VHC-es'
 tags: [  ]

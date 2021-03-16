@@ -5,7 +5,7 @@ date: 2020-01-22 16:30:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51X%2Bb8OBfEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJNHKRM-es Eono Essentials Travel Microfibre Towel Blue 100 x 50 cm'
 sku: 'B07GJNHKRM-es'
 tags: [  ]

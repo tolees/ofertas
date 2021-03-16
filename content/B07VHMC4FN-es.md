@@ -5,7 +5,7 @@ date: 2020-01-23 20:32:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NeGUPajdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHMC4FN-es Bombilla de Filamento LED Demum 25 Piezas G40 Globo...'
 sku: 'B07VHMC4FN-es'
 tags: [  ]

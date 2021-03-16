@@ -5,7 +5,7 @@ date: 2020-03-09 04:51:04
 image: 'https://m.media-amazon.com/images/I/41lRR8nzr1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSSH57S-es Samsung Flip Wallet - Funda Oficial Galaxy S7 Color Negro-...'
 sku: 'B01BSSH57S-es'
 tags: [  ]

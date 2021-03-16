@@ -5,7 +5,7 @@ date: 2020-03-04 23:00:52
 image: 'https://m.media-amazon.com/images/I/31+mY6EKHGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7PKR42-es GANT Malin Botas Chelsea para Mujer Rojo Port Red G537 41 EU'
 sku: 'B07M7PKR42-es'
 tags: [  ]

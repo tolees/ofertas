@@ -5,7 +5,7 @@ date: 2020-04-13 00:23:00
 image: 'https://m.media-amazon.com/images/I/31XMKfY58GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GDMXP8-es Pioneer SE-E7BT-Y - Auricular Deportivo con Bluetooth...'
 sku: 'B075GDMXP8-es'
 tags: [  ]

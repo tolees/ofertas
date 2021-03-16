@@ -5,7 +5,7 @@ date: 2020-05-17 13:40:24
 image: 'https://m.media-amazon.com/images/I/41gcMRGsj1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PBWW4C-es Luces LED de silicona Luces nocturnas Micro Paisaje LED...'
 sku: 'B087PBWW4C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-03 09:34:34
 image: 'https://m.media-amazon.com/images/I/31vTrs5aZAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001KIRPGS-es Thierry Mugler Angel Body Cream 200 ml'
 sku: 'B001KIRPGS-es'
 tags: [  ]

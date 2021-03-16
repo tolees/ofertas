@@ -5,7 +5,7 @@ date: 2020-05-11 08:53:49
 image: 'https://m.media-amazon.com/images/I/51EAPZ5k30L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003Z2KO5G-es Pink 47 - Ginebra Botella 70 cl'
 sku: 'B003Z2KO5G-es'
 tags: [  ]

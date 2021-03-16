@@ -5,7 +5,7 @@ date: 2020-02-18 12:54:38
 image: 'https://m.media-amazon.com/images/I/51sdvEyqMHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017UW5Y6K-es Sorel Childrens Yoot Pac Nylon Botas de Nieve para Niños...'
 sku: 'B017UW5Y6K-es'
 tags: [  ]

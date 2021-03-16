@@ -5,7 +5,7 @@ date: 2020-05-06 09:32:43
 image: 'https://m.media-amazon.com/images/I/51alAgLgMuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D4QFG5K-es Revell Star Wars Boba Fett s Slave I Kit modele Escala...'
 sku: 'B01D4QFG5K-es'
 tags: [  ]

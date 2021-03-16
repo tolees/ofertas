@@ -5,7 +5,7 @@ date: 2020-05-08 02:01:16
 image: 'https://m.media-amazon.com/images/I/41gAK1okRvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZYS1CT-es Love MoschinoJc4004pp1aMujerBolsos mochilaBeige Naturale...'
 sku: 'B07RZYS1CT-es'
 tags: [  ]

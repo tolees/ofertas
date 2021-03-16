@@ -5,7 +5,7 @@ date: 2020-01-13 08:16:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FG2l1nbwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MCJ0QP6-es Nike Wmns Flex Experience RN 8 Zapatillas de Running para...'
 sku: 'B00MCJ0QP6-es'
 tags: [  ]

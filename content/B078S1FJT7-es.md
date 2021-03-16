@@ -5,7 +5,7 @@ date: 2020-08-26 23:17:16
 image: 'https://m.media-amazon.com/images/I/51yBrnDj5wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078S1FJT7-es Lentejuelas Portátil - 2 Color Reversible diario de...'
 sku: 'B078S1FJT7-es'
 tags: [  ]

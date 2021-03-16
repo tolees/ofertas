@@ -5,7 +5,7 @@ date: 2020-09-28 17:00:43
 image: 'https://m.media-amazon.com/images/I/31yYo3al7WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5TW5SJ-es LCTXDY El diseño ergonómico le Brinda la sensación más...'
 sku: 'B08B5TW5SJ-es'
 tags: [  ]

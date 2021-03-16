@@ -5,7 +5,7 @@ date: 2020-07-08 22:38:10
 image: 'https://m.media-amazon.com/images/I/41qFuqXjY4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XABWX7Y-es Dove Gel de Ducha - 600 ml'
 sku: 'B00XABWX7Y-es'
 tags: [  ]

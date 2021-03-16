@@ -5,7 +5,7 @@ date: 2020-05-28 23:06:04
 image: 'https://m.media-amazon.com/images/I/51XeB+FJ+wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TIMW75C-es PowerBar PowerGel Shots Orange 16x60g - Gomas de Alta...'
 sku: 'B00TIMW75C-es'
 tags: [  ]

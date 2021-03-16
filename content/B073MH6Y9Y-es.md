@@ -5,7 +5,7 @@ date: 2020-01-16 18:26:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kxo87whWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073MH6Y9Y-es SELECTED FEMME Sfgaia HR Jegging New Black Noos Pantalones...'
 sku: 'B073MH6Y9Y-es'
 tags: [  ]

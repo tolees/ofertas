@@ -5,7 +5,7 @@ date: 2020-08-21 09:36:37
 image: 'https://m.media-amazon.com/images/I/418M1DAS9BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVPYVVL-es KiplingImagine PackMujerBolsos totesVerde Light Aloe...'
 sku: 'B07TVPYVVL-es'
 tags: [  ]

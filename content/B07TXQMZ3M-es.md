@@ -5,7 +5,7 @@ date: 2020-03-01 12:19:45
 image: 'https://m.media-amazon.com/images/I/31c8eGXyIKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXQMZ3M-es Legend COMO-A - Bolsa de Cuero Mujer color Negro talla...'
 sku: 'B07TXQMZ3M-es'
 tags: [  ]

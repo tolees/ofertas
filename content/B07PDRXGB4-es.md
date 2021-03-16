@@ -5,7 +5,7 @@ date: 2020-07-13 10:53:31
 image: 'https://m.media-amazon.com/images/I/41tvuHIIyDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDRXGB4-es Belkin Boost Up Soporte de carga inalámbrica de 10 W...'
 sku: 'B07PDRXGB4-es'
 tags: [  ]

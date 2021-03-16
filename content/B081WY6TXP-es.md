@@ -5,7 +5,7 @@ date: 2020-02-23 10:08:08
 image: 'https://m.media-amazon.com/images/I/51R25fkYVvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081WY6TXP-es Luce Solare Jardín GolWof Lámpara Solar para Jardín Búho...'
 sku: 'B081WY6TXP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-10 06:15:47
 image: 'https://m.media-amazon.com/images/I/31wWBc5dwIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001TMZDD2-es Brabantia 401084 - Cubo de Basura Touch Bin 2 x 20 litros...'
 sku: 'B001TMZDD2-es'
 tags: [  ]

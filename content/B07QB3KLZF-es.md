@@ -5,7 +5,7 @@ date: 2020-05-23 17:48:23
 image: 'https://m.media-amazon.com/images/I/414TjgQeK9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QB3KLZF-es TACKLIFE 600m Telémetro de Golf Telémetro Profesional...'
 sku: 'B07QB3KLZF-es'
 tags: [  ]

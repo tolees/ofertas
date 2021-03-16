@@ -5,7 +5,7 @@ date: 2020-01-22 22:19:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51x7a9sktKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RPNTFVT-es Stranger Things Minde Flayer - Cuaderno de notas en...'
 sku: 'B07RPNTFVT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 05:10:46
 image: 'https://m.media-amazon.com/images/I/4196BUCrmiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XP3SBNN-es YGJT Termos para Comida Conjunto de 2 Piezas 500ML + 700ML...'
 sku: 'B07XP3SBNN-es'
 tags: [  ]

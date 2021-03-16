@@ -5,7 +5,7 @@ date: 2020-09-23 17:37:14
 image: 'https://m.media-amazon.com/images/I/41HctfOjUQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086W3TWCY-es 10 pzs Viseras Pantalla Facial Protector de cara...'
 sku: 'B086W3TWCY-es'
 tags: [  ]

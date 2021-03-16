@@ -5,7 +5,7 @@ date: 2020-03-31 09:06:47
 image: 'https://m.media-amazon.com/images/I/313ClchY2nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XJYRHE6-es Reebok Classic Leather Zapatillas Mujer Blanco Int-White /...'
 sku: 'B00XJYRHE6-es'
 tags: [  ]

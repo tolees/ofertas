@@ -5,7 +5,7 @@ date: 2020-03-31 05:13:35
 image: 'https://m.media-amazon.com/images/I/51nCcRvZ8sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCJP51J-es BRIKSMAX Kit de Iluminación Led para Harry Potter Cabaña...'
 sku: 'B07XCJP51J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-31 14:32:58
 image: 'https://m.media-amazon.com/images/I/41YxZNPOLIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTMT66G-es Juego de 4 Sillas de Comedor Modernas de Medio Siglo...'
 sku: 'B07TTMT66G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-07 17:45:38
 image: 'https://m.media-amazon.com/images/I/41CeKBmIYVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DL173HT-es XINFULUK DIY Color sólido 3D Fluffy Foam Clay Slime DIY...'
 sku: 'B08DL173HT-es'
 tags: [  ]

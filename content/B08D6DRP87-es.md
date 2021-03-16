@@ -5,7 +5,7 @@ date: 2020-08-21 22:07:26
 image: 'https://m.media-amazon.com/images/I/41ALZfu6l1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6DRP87-es Primewire - 0 25m Cable de Red Cat 8 - Gigabit Ethernet...'
 sku: 'B08D6DRP87-es'
 tags: [  ]

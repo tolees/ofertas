@@ -5,7 +5,7 @@ date: 2020-01-24 13:20:15
 image: 'https://m.media-amazon.com/images/I/417bf4Kw4kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0057DO5CE-es Orlane Royale Crema Cou & Décolleté 50 ml'
 sku: 'B0057DO5CE-es'
 tags: [  ]

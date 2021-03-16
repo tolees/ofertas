@@ -5,7 +5,7 @@ date: 2020-05-04 10:34:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51qyJhVp2bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MB7YQN5-es Cartera Tarjetero Hombre Cartera Tarjeta de Crédito...'
 sku: 'B07MB7YQN5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-17 12:51:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41V1jSk3k9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7TFJKJ-es HXDZFX Barra de cristal transparente con revestimiento de...'
 sku: 'B07V7TFJKJ-es'
 tags: [  ]

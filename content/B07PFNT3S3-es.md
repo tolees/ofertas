@@ -5,7 +5,7 @@ date: 2020-03-13 18:48:32
 image: 'https://m.media-amazon.com/images/I/41yyEexeMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFNT3S3-es New Balance 997h Zapatillas para Hombre Verde Green Green...'
 sku: 'B07PFNT3S3-es'
 tags: [  ]

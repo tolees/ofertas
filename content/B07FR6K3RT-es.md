@@ -5,7 +5,7 @@ date: 2020-02-07 14:23:50
 image: 'https://m.media-amazon.com/images/I/41rVCkFoubL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR6K3RT-es Clarks Triactive Up Zapatillas para Hombre Verde Olive...'
 sku: 'B07FR6K3RT-es'
 tags: [  ]

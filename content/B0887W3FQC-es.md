@@ -5,7 +5,7 @@ date: 2020-10-03 16:33:18
 image: 'https://m.media-amazon.com/images/I/31FfdqJqn6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0887W3FQC-es LNIEGE Por Rod del Carril de Soporte zócalo 2pcs Montaje...'
 sku: 'B0887W3FQC-es'
 tags: [  ]

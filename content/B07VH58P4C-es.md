@@ -5,7 +5,7 @@ date: 2020-01-16 08:04:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51BLhtwNDgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VH58P4C-es AHANGA Correa para Mi Band 4 Xiaomi Mi Band 3 Correas...'
 sku: 'B07VH58P4C-es'
 tags: [  ]

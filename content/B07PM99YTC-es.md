@@ -5,7 +5,7 @@ date: 2020-04-07 13:24:52
 image: 'https://m.media-amazon.com/images/I/41FRJ09Y8dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PM99YTC-es BRIKSMAX Kit de Iluminación Led para Mini Cooper-...'
 sku: 'B07PM99YTC-es'
 tags: [  ]

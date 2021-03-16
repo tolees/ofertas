@@ -5,7 +5,7 @@ date: 2020-07-13 19:13:42
 image: 'https://m.media-amazon.com/images/I/31ybk9T+pXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HAFT86K-es Bourjois - 123 Perfect CC Cream crema correctora con color...'
 sku: 'B00HAFT86K-es'
 tags: [  ]

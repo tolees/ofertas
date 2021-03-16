@@ -5,7 +5,7 @@ date: 2020-08-25 08:13:14
 image: 'https://m.media-amazon.com/images/I/31BZrmipafL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2RZMLV-es Rowenta Depiladora WET & DRY ELITE EP8002F0 - Sin cable y...'
 sku: 'B07S2RZMLV-es'
 tags: [  ]

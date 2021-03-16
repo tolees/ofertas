@@ -5,7 +5,7 @@ date: 2020-02-25 21:03:19
 image: 'https://m.media-amazon.com/images/I/31qzLXOuo4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY8WP22-es L Oréal Paris Rouge Signature 203 I Magnetize Pintalabios...'
 sku: 'B07TY8WP22-es'
 tags: [  ]

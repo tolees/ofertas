@@ -5,7 +5,7 @@ date: 2020-04-16 18:23:11
 image: 'https://m.media-amazon.com/images/I/51d7UpwlDeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788H7WRY-es Soporte de teléfono celular COOLBROS Porta-lápiz de...'
 sku: 'B0788H7WRY-es'
 tags: [  ]

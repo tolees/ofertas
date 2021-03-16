@@ -5,7 +5,7 @@ date: 2020-06-16 07:41:09
 image: 'https://m.media-amazon.com/images/I/313e2rbHXnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KP5FM2N-es adidas Pro Suit 3S Traje de baño FR : 4XL Taille Fabricant...'
 sku: 'B07KP5FM2N-es'
 tags: [  ]

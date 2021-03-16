@@ -5,7 +5,7 @@ date: 2020-06-12 08:24:03
 image: 'https://m.media-amazon.com/images/I/41B4rL8YAyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3RT15L-es Calvin Klein - Ck Panache 5cc + Coin Carteras Hombre Negro...'
 sku: 'B07V3RT15L-es'
 tags: [  ]

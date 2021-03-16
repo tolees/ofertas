@@ -5,7 +5,7 @@ date: 2020-09-14 02:53:44
 image: 'https://m.media-amazon.com/images/I/41g517ijmJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W11LHM4-es Skechers MAX Cushioning Elite Zapatillas para Hombre Negro...'
 sku: 'B07W11LHM4-es'
 tags: [  ]

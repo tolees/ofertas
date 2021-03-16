@@ -5,7 +5,7 @@ date: 2020-07-28 13:33:42
 image: 'https://m.media-amazon.com/images/I/41wa5ZmLh3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0041VQH8I-es Julius-K9 16IDC - Arnés de Potencia para Perros color...'
 sku: 'B0041VQH8I-es'
 tags: [  ]

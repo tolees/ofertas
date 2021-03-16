@@ -5,7 +5,7 @@ date: 2020-05-27 19:31:29
 image: 'https://m.media-amazon.com/images/I/31qFavDcykL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NV9LSEE-es Transcend StoreJet 500 - 512GB SSD Externo Metálico para...'
 sku: 'B00NV9LSEE-es'
 tags: [  ]

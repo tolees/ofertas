@@ -5,7 +5,7 @@ date: 2020-02-21 22:18:09
 image: 'https://m.media-amazon.com/images/I/31WX1fL692L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BM67VB6-es Mustela Stelatopia Aceite de Baño 200 ml'
 sku: 'B01BM67VB6-es'
 tags: [  ]

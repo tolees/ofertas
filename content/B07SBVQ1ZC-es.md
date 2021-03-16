@@ -5,7 +5,7 @@ date: 2020-04-30 18:56:39
 image: 'https://m.media-amazon.com/images/I/41Pr2AweaaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVQ1ZC-es PUMA NRGY Neko Knit Zapatillas de Running para Hombre Rojo...'
 sku: 'B07SBVQ1ZC-es'
 tags: [  ]

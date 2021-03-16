@@ -5,7 +5,7 @@ date: 2020-09-13 14:01:57
 image: 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0783PM5BM-es PUMA Smash V2 L Zapatillas para Hombre Blanco White Black...'
 sku: 'B0783PM5BM-es'
 tags: [  ]

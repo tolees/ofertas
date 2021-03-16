@@ -5,7 +5,7 @@ date: 2020-02-24 18:44:02
 image: 'https://m.media-amazon.com/images/I/413WkuYA9EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J1V4NPN-es Petusco - Judith Amarillo Piel de Vacuno tipo grano y...'
 sku: 'B07J1V4NPN-es'
 tags: [  ]

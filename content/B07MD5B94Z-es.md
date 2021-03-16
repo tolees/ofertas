@@ -5,7 +5,7 @@ date: 2020-09-29 21:37:55
 image: 'https://m.media-amazon.com/images/I/51Ji1pu9joL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MD5B94Z-es Masthome tabla de cortar de bambú con ranura para jugo y...'
 sku: 'B07MD5B94Z-es'
 tags: [  ]

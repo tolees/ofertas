@@ -5,7 +5,7 @@ date: 2020-06-02 07:05:56
 image: 'https://m.media-amazon.com/images/I/41EMbSr5P-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9ZYV3U-es Bosch Professional GIC 120 Professional - Cámara de...'
 sku: 'B00X9ZYV3U-es'
 tags: [  ]

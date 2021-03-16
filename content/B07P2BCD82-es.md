@@ -5,7 +5,7 @@ date: 2020-01-29 17:10:53
 image: 'https://m.media-amazon.com/images/I/41JewYqMdQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2BCD82-es Superdry OL Elite Ziphood Capucha Gris Slate 07x XX-Small...'
 sku: 'B07P2BCD82-es'
 tags: [  ]

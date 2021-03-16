@@ -5,7 +5,7 @@ date: 2020-06-01 13:07:00
 image: 'https://m.media-amazon.com/images/I/5101jZnY8ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086Z2MMN9-es 1pcs electrodomésticos de Cocina de Acero Inoxidable...'
 sku: 'B086Z2MMN9-es'
 tags: [  ]

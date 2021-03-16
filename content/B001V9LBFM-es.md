@@ -5,7 +5,7 @@ date: 2020-06-07 16:15:38
 image: 'https://m.media-amazon.com/images/I/31PAcpOns0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001V9LBFM-es Rimmel London Hide The Blemish Corrector Tono 001 Ivory -...'
 sku: 'B001V9LBFM-es'
 tags: [  ]

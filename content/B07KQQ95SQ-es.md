@@ -5,7 +5,7 @@ date: 2020-01-05 10:46:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KJMlvn3YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQQ95SQ-es Salomon XA Pro 3D Zapatillas de Trail Running para Hombre...'
 sku: 'B07KQQ95SQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-21 15:15:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xDyZ-RD5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D78YH3M-es Glamorise Full Figure MagicLift Moisture Control Bra #1264...'
 sku: 'B07D78YH3M-es'
 tags: [  ]

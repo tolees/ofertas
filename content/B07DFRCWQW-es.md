@@ -5,7 +5,7 @@ date: 2020-09-28 21:18:50
 image: 'https://m.media-amazon.com/images/I/41tOfufT5iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFRCWQW-es New Balance Gw500v1 Zapatillas de Deporte para Mujer...'
 sku: 'B07DFRCWQW-es'
 tags: [  ]

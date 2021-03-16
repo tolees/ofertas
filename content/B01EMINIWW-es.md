@@ -5,7 +5,7 @@ date: 2020-10-08 09:32:36
 image: 'https://m.media-amazon.com/images/I/41m00hH8VcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EMINIWW-es Anker Powerline USB-C auf USB C 2.0 Kabel 1.8 m für USB...'
 sku: 'B01EMINIWW-es'
 tags: [  ]

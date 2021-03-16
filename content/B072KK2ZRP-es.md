@@ -5,7 +5,7 @@ date: 2020-02-07 11:27:56
 image: 'https://m.media-amazon.com/images/I/31Gu4RpvjxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KK2ZRP-es HP Spectre Bluetooth 500 Bluetooth Blue LED 1600DPI...'
 sku: 'B072KK2ZRP-es'
 tags: [  ]

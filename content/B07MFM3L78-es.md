@@ -5,7 +5,7 @@ date: 2020-03-12 20:02:02
 image: 'https://m.media-amazon.com/images/I/31T+YKi7ioL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFM3L78-es Clarks Tri Solar Zapatillas para Hombre Negro Black...'
 sku: 'B07MFM3L78-es'
 tags: [  ]

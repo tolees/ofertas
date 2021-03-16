@@ -5,7 +5,7 @@ date: 2020-04-14 08:46:12
 image: 'https://m.media-amazon.com/images/I/41JfhAfVY0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2H3DM7-es Craft Lightcraft Shineball S-XL Set lámparas Esfera...'
 sku: 'B06Y2H3DM7-es'
 tags: [  ]

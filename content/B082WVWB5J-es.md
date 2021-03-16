@@ -5,7 +5,7 @@ date: 2020-08-25 15:53:03
 image: 'https://m.media-amazon.com/images/I/51U5rmAjYiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WVWB5J-es Aigostar - Recipientes para envasar al vacío. Conservación...'
 sku: 'B082WVWB5J-es'
 tags: [  ]

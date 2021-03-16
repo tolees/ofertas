@@ -5,7 +5,7 @@ date: 2020-08-11 13:03:19
 image: 'https://m.media-amazon.com/images/I/41-3DPmYdCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TBB6H5-es Cable guy Iron man soporte de sujeción o carga para mando...'
 sku: 'B079TBB6H5-es'
 tags: [  ]

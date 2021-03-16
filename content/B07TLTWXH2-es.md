@@ -5,7 +5,7 @@ date: 2020-07-04 23:35:54
 image: 'https://m.media-amazon.com/images/I/41Id6bBbecL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLTWXH2-es Clarks Un Cosmo Strap Sandalia con Pulsera para Mujer Gris...'
 sku: 'B07TLTWXH2-es'
 tags: [  ]

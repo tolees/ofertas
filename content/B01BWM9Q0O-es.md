@@ -5,7 +5,7 @@ date: 2020-03-05 21:06:01
 image: 'https://m.media-amazon.com/images/I/41XAinNydML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BWM9Q0O-es Panasonic Lumix DMC-TZ100EG-K - Cámara Compacta Premium de...'
 sku: 'B01BWM9Q0O-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-03 09:11:04
 image: 'https://m.media-amazon.com/images/I/41MpiEF-L2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY6DYHM-es Vans Ward Hi Mujer Zapatillas Altas Negro Canvas...'
 sku: 'B07FY6DYHM-es'
 tags: [  ]

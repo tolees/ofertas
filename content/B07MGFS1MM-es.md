@@ -5,7 +5,7 @@ date: 2020-04-01 09:01:25
 image: 'https://m.media-amazon.com/images/I/31nZOeiGEvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFS1MM-es Napapijri Moto Wint Pantalones Negro Black 041 42 Talla...'
 sku: 'B07MGFS1MM-es'
 tags: [  ]

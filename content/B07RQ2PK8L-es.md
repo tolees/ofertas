@@ -5,7 +5,7 @@ date: 2020-08-01 08:36:51
 image: 'https://m.media-amazon.com/images/I/51HS-NUichL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQ2PK8L-es Calvin Klein - Ck Cast Pebble Mini 6cc W/Coin Carteras...'
 sku: 'B07RQ2PK8L-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 18:02:05
 image: 'https://m.media-amazon.com/images/I/41BMCa4dopL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QC1Y6-es PUMA RS 9.8 Fresh Zapatillas para Hombre Blanco White High...'
 sku: 'B07S7QC1Y6-es'
 tags: [  ]

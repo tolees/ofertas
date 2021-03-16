@@ -5,7 +5,7 @@ date: 2020-05-16 13:02:22
 image: 'https://m.media-amazon.com/images/I/31P00+Us96L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F5WJ1G2-es Salomon Soft Flask Botella de Agua Flexible Unisex Adulto...'
 sku: 'B00F5WJ1G2-es'
 tags: [  ]

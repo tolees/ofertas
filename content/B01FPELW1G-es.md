@@ -5,7 +5,7 @@ date: 2020-07-09 21:31:00
 image: 'https://m.media-amazon.com/images/I/61lsmvScfgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FPELW1G-es Idea de regalo"especialidades de cerveza de Alemania" para...'
 sku: 'B01FPELW1G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-22 20:57:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417cdCFMdHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLE985G-es Kerastase Densifique Homme Treatment 30 X - 6 ml'
 sku: 'B01BLE985G-es'
 tags: [  ]

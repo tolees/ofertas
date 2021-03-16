@@ -5,7 +5,7 @@ date: 2020-08-21 08:30:49
 image: 'https://m.media-amazon.com/images/I/51bElgQ--bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XCDX8B0-es Sades A6 7.1 Surround Sonido Estéreo Pro PC Gaming Headset...'
 sku: 'B00XCDX8B0-es'
 tags: [  ]

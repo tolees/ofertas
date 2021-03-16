@@ -5,7 +5,7 @@ date: 2020-01-18 15:58:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51pFoGoyvAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVGY5GN-es The Fisherman: Fishing Planet - Day One Edition [Versión...'
 sku: 'B07SVGY5GN-es'
 tags: [  ]

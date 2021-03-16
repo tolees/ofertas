@@ -5,7 +5,7 @@ date: 2020-04-12 20:38:24
 image: 'https://m.media-amazon.com/images/I/41I7JAfQEmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0006FMASE-es Converse Youths Chuck Taylor All Star Hi Zapatillas de...'
 sku: 'B0006FMASE-es'
 tags: [  ]

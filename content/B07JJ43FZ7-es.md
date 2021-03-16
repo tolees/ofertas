@@ -5,7 +5,7 @@ date: 2020-03-09 12:49:37
 image: 'https://m.media-amazon.com/images/I/41KDtcrbmsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ43FZ7-es G-STAR RAW Feldspar High Waist Straight Cargo Pantalones...'
 sku: 'B07JJ43FZ7-es'
 tags: [  ]

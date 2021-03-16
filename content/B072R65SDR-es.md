@@ -5,7 +5,7 @@ date: 2020-02-10 21:03:35
 image: 'https://m.media-amazon.com/images/I/31QmGb5tmpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072R65SDR-es Pioneer X-SMC02-W - Microcadena slim CD Bluetooth color negro'
 sku: 'B072R65SDR-es'
 tags: [  ]

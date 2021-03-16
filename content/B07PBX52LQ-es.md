@@ -5,7 +5,7 @@ date: 2020-05-27 08:16:02
 image: 'https://m.media-amazon.com/images/I/41axiIcxOfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBX52LQ-es San Ignacio PK1320 Set de Sartenes VINUM-Ø20/24/28 cms...'
 sku: 'B07PBX52LQ-es'
 tags: [  ]

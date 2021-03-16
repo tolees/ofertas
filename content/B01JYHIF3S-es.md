@@ -5,7 +5,7 @@ date: 2020-06-29 06:30:02
 image: 'https://m.media-amazon.com/images/I/51KNqYDVk0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JYHIF3S-es Loverly gatos adhesivo decorativo para pared casa de...'
 sku: 'B01JYHIF3S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-01 18:21:24
 image: 'https://m.media-amazon.com/images/I/41hyFEifJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YDIUHHG-es Merrell Terran Lattice Ii Tira de tobillo para Mujer...'
 sku: 'B00YDIUHHG-es'
 tags: [  ]

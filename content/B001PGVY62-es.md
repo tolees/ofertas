@@ -5,7 +5,7 @@ date: 2020-05-02 15:34:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MRkwWddqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001PGVY62-es Vans Classic Patch Trucker - Gorra para hombre...'
 sku: 'B001PGVY62-es'
 tags: [  ]

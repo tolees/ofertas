@@ -5,7 +5,7 @@ date: 2020-08-06 07:21:52
 image: 'https://m.media-amazon.com/images/I/51Q+t1YGP-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJFXJ3B-es Naruto Ultimate Ninja Storm Trilogy'
 sku: 'B07NJFXJ3B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 03:06:41
 image: 'https://m.media-amazon.com/images/I/31FQ829LJkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XMGB9Q2-es Skechers GO Run Pulse Zapatillas para Hombre Negro Negro...'
 sku: 'B07XMGB9Q2-es'
 tags: [  ]

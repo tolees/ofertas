@@ -5,7 +5,7 @@ date: 2020-08-18 12:52:16
 image: 'https://m.media-amazon.com/images/I/51DxwXS9inL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004LR7SD0-es Pulsar Uhren PT3005X1 - Reloj cronógrafo de Cuarzo para...'
 sku: 'B004LR7SD0-es'
 tags: [  ]

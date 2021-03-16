@@ -5,7 +5,7 @@ date: 2020-04-12 15:17:44
 image: 'https://m.media-amazon.com/images/I/41ilx5mOvaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK3G1HR-es Columbia Peakfreak Venture S II Mid Botas de Senderismo...'
 sku: 'B07KK3G1HR-es'
 tags: [  ]

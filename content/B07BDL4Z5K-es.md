@@ -5,7 +5,7 @@ date: 2020-04-08 03:57:44
 image: 'https://m.media-amazon.com/images/I/41BHzva9hgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BDL4Z5K-es Pulsar Reloj de Pulsera PZ4035X1'
 sku: 'B07BDL4Z5K-es'
 tags: [  ]

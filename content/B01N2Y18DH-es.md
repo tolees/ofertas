@@ -5,7 +5,7 @@ date: 2020-08-18 19:27:58
 image: 'https://m.media-amazon.com/images/I/51hnUG5EPcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2Y18DH-es Intex 56265NP - Rueda hinchable Donut de fresa 107 x 99 cm'
 sku: 'B01N2Y18DH-es'
 tags: [  ]

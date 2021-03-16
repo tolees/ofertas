@@ -5,7 +5,7 @@ date: 2020-06-24 13:54:06
 image: 'https://m.media-amazon.com/images/I/41gl2UtLPjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG25B1N-es New Balance 420 m Zapatillas para Mujer Rosa Pink Pink...'
 sku: 'B07HG25B1N-es'
 tags: [  ]

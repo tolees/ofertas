@@ -5,7 +5,7 @@ date: 2020-01-21 13:03:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q7fdXS7LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CIVUTLE-es Ultrasport Rts flicka - Forro Color Gris Talla XL'
 sku: 'B00CIVUTLE-es'
 tags: [  ]

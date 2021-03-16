@@ -5,7 +5,7 @@ date: 2020-03-11 09:48:04
 image: 'https://m.media-amazon.com/images/I/51ryQd6LRdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQQ85RN-es Gioteck - Cascos TX30+Farcry 5'
 sku: 'B07NQQ85RN-es'
 tags: [  ]

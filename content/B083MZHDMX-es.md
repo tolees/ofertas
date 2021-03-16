@@ -5,7 +5,7 @@ date: 2020-07-23 14:32:18
 image: 'https://m.media-amazon.com/images/I/51f0z2jkD1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083MZHDMX-es Mardozon Correa para Xiaomi Mi Band 4 / Mi Band 3 Pulsera...'
 sku: 'B083MZHDMX-es'
 tags: [  ]

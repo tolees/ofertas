@@ -5,7 +5,7 @@ date: 2020-09-23 08:32:04
 image: 'https://m.media-amazon.com/images/I/316DmL2TdIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7B2FGS-es YISSVIC Humidificador Ultrasónico Silencioso 4.8L con...'
 sku: 'B07V7B2FGS-es'
 tags: [  ]

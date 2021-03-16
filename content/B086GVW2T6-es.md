@@ -5,7 +5,7 @@ date: 2020-04-16 18:38:15
 image: 'https://m.media-amazon.com/images/I/41XgXSXnBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GVW2T6-es Oihxse Transparente Funda para Xiaomi Redmi Note 5A...'
 sku: 'B086GVW2T6-es'
 tags: [  ]

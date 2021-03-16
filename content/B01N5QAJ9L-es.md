@@ -5,7 +5,7 @@ date: 2020-02-29 13:52:10
 image: 'https://m.media-amazon.com/images/I/21LMTSGgyYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5QAJ9L-es FOREO Espada tratamiento de luz azul para acné Cobalt Blue'
 sku: 'B01N5QAJ9L-es'
 tags: [  ]

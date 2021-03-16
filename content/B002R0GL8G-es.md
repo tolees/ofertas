@@ -5,7 +5,7 @@ date: 2020-03-31 09:37:18
 image: 'https://m.media-amazon.com/images/I/51ssHaWuo6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002R0GL8G-es WAHL Peines de plástico Arco Adelar y Bravura - Color Negro'
 sku: 'B002R0GL8G-es'
 tags: [  ]

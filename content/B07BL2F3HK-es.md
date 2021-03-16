@@ -5,7 +5,7 @@ date: 2020-07-07 07:45:43
 image: 'https://m.media-amazon.com/images/I/31UIQrPelLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2F3HK-es New Balance Fresh Foam LAZR v2 Hypoknit Zapatillas para...'
 sku: 'B07BL2F3HK-es'
 tags: [  ]

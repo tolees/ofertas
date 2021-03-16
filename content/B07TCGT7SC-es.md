@@ -5,7 +5,7 @@ date: 2020-05-15 13:40:36
 image: 'https://m.media-amazon.com/images/I/51Ei-r01-EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCGT7SC-es OG Online&Go Mochila Táctica Militar USB Impermeable 40L...'
 sku: 'B07TCGT7SC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 16:33:19
 image: 'https://m.media-amazon.com/images/I/51UdTMIHokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0845YRM7B-es Jamon Iberico de Bellota 100% Iberico Reserva Pata Negra –...'
 sku: 'B0845YRM7B-es'
 tags: [  ]

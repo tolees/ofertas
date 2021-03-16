@@ -5,7 +5,7 @@ date: 2020-05-29 07:45:55
 image: 'https://m.media-amazon.com/images/I/410q1ou7lwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017RQ7S5Y-es Babolat Custom Damp X2 Amortiguador de vibración de Tenis...'
 sku: 'B017RQ7S5Y-es'
 tags: [  ]

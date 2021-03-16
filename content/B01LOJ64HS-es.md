@@ -5,7 +5,7 @@ date: 2020-03-11 20:38:17
 image: 'https://m.media-amazon.com/images/I/41GmMMg0X0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LOJ64HS-es Corsair K65 Lux RGB Teclado Mecánico Gaming Cherry MX Red...'
 sku: 'B01LOJ64HS-es'
 tags: [  ]

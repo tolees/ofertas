@@ -5,7 +5,7 @@ date: 2020-03-02 15:39:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411MvEJyATL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7IZ7NC-es Kappa Olymp Zapatillas Unisex Adulto Negro Black/White...'
 sku: 'B01N7IZ7NC-es'
 tags: [  ]

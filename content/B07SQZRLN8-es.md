@@ -5,7 +5,7 @@ date: 2020-07-27 10:59:59
 image: 'https://m.media-amazon.com/images/I/41u9gFXMTwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQZRLN8-es Hurley U Rebound Solid Wallet Monederos Hombre Black 1SIZE'
 sku: 'B07SQZRLN8-es'
 tags: [  ]

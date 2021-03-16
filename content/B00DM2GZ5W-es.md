@@ -5,7 +5,7 @@ date: 2020-01-12 13:31:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51sioeL2LYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DM2GZ5W-es Xnuoyo Plancha de pelo profesional Plancha Alisadora y...'
 sku: 'B00DM2GZ5W-es'
 tags: [  ]

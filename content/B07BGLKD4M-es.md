@@ -5,7 +5,7 @@ date: 2020-06-05 20:30:52
 image: 'https://m.media-amazon.com/images/I/41Fm712y+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGLKD4M-es HyperX Impact DDR4 HX432S20IBK2/32 Memoria RAM 3200MHz...'
 sku: 'B07BGLKD4M-es'
 tags: [  ]

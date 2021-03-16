@@ -5,7 +5,7 @@ date: 2020-02-21 12:29:27
 image: 'https://m.media-amazon.com/images/I/31NT0F+2BzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL5TL3S-es Skagen Smartwatch SKT5100'
 sku: 'B07HL5TL3S-es'
 tags: [  ]

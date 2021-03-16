@@ -5,7 +5,7 @@ date: 2020-01-09 23:12:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/314b0JeUUCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LB48GPE-es Taurus Vilna 1200W Emisor Térmico Digital Tecnología Seca...'
 sku: 'B01LB48GPE-es'
 tags: [  ]

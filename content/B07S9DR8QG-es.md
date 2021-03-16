@@ -5,7 +5,7 @@ date: 2020-10-02 19:08:59
 image: 'https://m.media-amazon.com/images/I/31k8NSk-7tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9DR8QG-es Logitech G703 Lightspeed Ratón Gaming Inalámbrico Captor...'
 sku: 'B07S9DR8QG-es'
 tags: [  ]

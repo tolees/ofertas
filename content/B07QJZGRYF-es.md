@@ -5,7 +5,7 @@ date: 2020-09-04 16:10:49
 image: 'https://m.media-amazon.com/images/I/41DCIRkbxNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJZGRYF-es Grafoplás Bits & Bobs - Estuche 3 Compartimentos con...'
 sku: 'B07QJZGRYF-es'
 tags: [  ]

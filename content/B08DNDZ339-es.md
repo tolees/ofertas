@@ -5,7 +5,7 @@ date: 2020-08-25 22:22:52
 image: 'https://m.media-amazon.com/images/I/51RE+O9PvyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNDZ339-es UniqueMe [3 Pack] Cristal Templado para Samsung Galaxy...'
 sku: 'B08DNDZ339-es'
 tags: [  ]

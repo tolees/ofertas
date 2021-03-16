@@ -5,7 +5,7 @@ date: 2020-06-28 21:06:39
 image: 'https://m.media-amazon.com/images/I/41PnimBMYDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085RGD9VG-es Agatha Ruiz de la Prada Bufanda Fular Pashmina Pareo Verde...'
 sku: 'B085RGD9VG-es'
 tags: [  ]

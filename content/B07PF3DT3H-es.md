@@ -5,7 +5,7 @@ date: 2020-07-18 15:33:00
 image: 'https://m.media-amazon.com/images/I/416TpJ2+mdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PF3DT3H-es Naipo Mesa de Masaje 3 Secciones Camilla Plegable de...'
 sku: 'B07PF3DT3H-es'
 tags: [  ]

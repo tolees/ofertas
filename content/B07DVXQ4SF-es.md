@@ -5,7 +5,7 @@ date: 2020-09-27 15:57:42
 image: 'https://m.media-amazon.com/images/I/51UIVpW5b1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVXQ4SF-es BelleStyle Alfombra Musical - Musical Canto Teclado Estera...'
 sku: 'B07DVXQ4SF-es'
 tags: [  ]

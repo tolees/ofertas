@@ -5,7 +5,7 @@ date: 2020-06-30 17:02:14
 image: 'https://m.media-amazon.com/images/I/41rVe6SX6WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018LLP9O6-es Tommy Hilfiger New Danny Belt Cinturón Azul NIGHT SKY 421...'
 sku: 'B018LLP9O6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-14 20:59:52
 image: 'https://m.media-amazon.com/images/I/51JS10dfeDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0029F4XZW-es Zestaw twist n flex nielamliwa linijka 15 ekierka katomierz'
 sku: 'B0029F4XZW-es'
 tags: [  ]

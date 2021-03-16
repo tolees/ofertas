@@ -5,7 +5,7 @@ date: 2020-05-29 18:32:19
 image: 'https://m.media-amazon.com/images/I/51VfZ9CNCpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083PNSQT9-es VALSOLE Plantillas Ortopédicas soportes de arco y talones...'
 sku: 'B083PNSQT9-es'
 tags: [  ]

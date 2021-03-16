@@ -5,7 +5,7 @@ date: 2020-05-06 12:20:15
 image: 'https://m.media-amazon.com/images/I/41VeFGLz+SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7RCKIK-es Rexona Desodorante Aerosol Cobalt Blue - 200 ml'
 sku: 'B01K7RCKIK-es'
 tags: [  ]

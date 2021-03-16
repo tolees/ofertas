@@ -5,7 +5,7 @@ date: 2020-03-29 19:16:54
 image: 'https://m.media-amazon.com/images/I/31XtssupOyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002H6BJ3M-es Nike Benassi JDI Slide Sandal Womens Black/Vivid...'
 sku: 'B002H6BJ3M-es'
 tags: [  ]

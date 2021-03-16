@@ -5,7 +5,7 @@ date: 2020-09-01 08:30:20
 image: 'https://m.media-amazon.com/images/I/412Yq8UESwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKZKK2R-es s.Oliver Reloj Analógico para Mujer de Cuarzo con Correa...'
 sku: 'B07KKZKK2R-es'
 tags: [  ]

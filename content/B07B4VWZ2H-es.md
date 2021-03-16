@@ -5,7 +5,7 @@ date: 2019-12-31 17:35:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51xQCWBb45L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4VWZ2H-es Timbre Inalámbrico VOXON Impermeable Doble de Pared Plug-...'
 sku: 'B07B4VWZ2H-es'
 tags: [  ]

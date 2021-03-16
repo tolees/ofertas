@@ -5,7 +5,7 @@ date: 2020-04-13 20:21:33
 image: 'https://m.media-amazon.com/images/I/51nD5QREmQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B37TT7C-es Goula- Maxi cosí Jungla Multicolor 52045'
 sku: 'B07B37TT7C-es'
 tags: [  ]

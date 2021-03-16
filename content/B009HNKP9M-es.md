@@ -5,7 +5,7 @@ date: 2020-08-18 14:18:58
 image: 'https://m.media-amazon.com/images/I/31dVc6mBxUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009HNKP9M-es Rayen 6061 - Funda para aire acondicionado con doble...'
 sku: 'B009HNKP9M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 22:33:39
 image: 'https://m.media-amazon.com/images/I/31Hojmtt3aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013T5I2HA-es Lacoste PH4012 Polo Para Hombre Rojo Rouge Medium Talla...'
 sku: 'B013T5I2HA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-23 15:19:26
 image: 'https://m.media-amazon.com/images/I/51i0ohSagPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DLSXQX3-es YIMORE Raquetas de Tenis bádminton con Bolas Juguete para...'
 sku: 'B07DLSXQX3-es'
 tags: [  ]

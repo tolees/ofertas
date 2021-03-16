@@ -5,7 +5,7 @@ date: 2020-06-05 11:51:29
 image: 'https://m.media-amazon.com/images/I/41x6yqGTO5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNVMGM8-es Clarks Un Rio Lace Zapatillas para Mujer Gris Stone...'
 sku: 'B07TNVMGM8-es'
 tags: [  ]

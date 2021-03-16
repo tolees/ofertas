@@ -5,7 +5,7 @@ date: 2020-04-16 09:15:19
 image: 'https://m.media-amazon.com/images/I/510oIvXNbjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074GTSNR4-es Color Technik Water Colouring Brush Pens Set of 6 Premium...'
 sku: 'B074GTSNR4-es'
 tags: [  ]

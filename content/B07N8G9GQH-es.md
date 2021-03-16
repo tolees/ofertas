@@ -5,7 +5,7 @@ date: 2020-05-16 08:43:46
 image: 'https://m.media-amazon.com/images/I/41QT5sT8u0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8G9GQH-es Disney Enjoy The Day Neceser de viaje 29 cm 9.14 litros...'
 sku: 'B07N8G9GQH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-26 09:20:55
 image: 'https://m.media-amazon.com/images/I/31ReKNuIQ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F9NGKSJ-es Auriculare/Auriculares Auriculares Cableados En El Ruido...'
 sku: 'B08F9NGKSJ-es'
 tags: [  ]

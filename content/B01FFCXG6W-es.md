@@ -5,7 +5,7 @@ date: 2020-06-20 12:28:36
 image: 'https://m.media-amazon.com/images/I/612decd+bRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFCXG6W-es Dino Dini s Kick Off Revival - Day One Edition'
 sku: 'B01FFCXG6W-es'
 tags: [  ]

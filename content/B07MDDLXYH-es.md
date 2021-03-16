@@ -5,7 +5,7 @@ date: 2020-02-26 21:56:26
 image: 'https://m.media-amazon.com/images/I/41u-c1APnQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDDLXYH-es Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B07MDDLXYH-es'
 tags: [  ]

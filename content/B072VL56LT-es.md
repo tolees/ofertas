@@ -5,7 +5,7 @@ date: 2020-01-29 22:38:06
 image: 'https://m.media-amazon.com/images/I/41foRODNZiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072VL56LT-es BERING Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B072VL56LT-es'
 tags: [  ]

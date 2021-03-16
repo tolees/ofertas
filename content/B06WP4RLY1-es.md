@@ -5,7 +5,7 @@ date: 2020-04-03 16:45:30
 image: 'https://m.media-amazon.com/images/I/41+gOiO+G5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WP4RLY1-es adidas Altasport CF I Zapatillas Unisex Niños Blanco...'
 sku: 'B06WP4RLY1-es'
 tags: [  ]

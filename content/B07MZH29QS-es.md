@@ -5,7 +5,7 @@ date: 2020-10-10 17:41:36
 image: 'https://m.media-amazon.com/images/I/51-cHl0c2iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZH29QS-es HengBO Raclette con Placa de Piedra Natural 8 Mini...'
 sku: 'B07MZH29QS-es'
 tags: [  ]

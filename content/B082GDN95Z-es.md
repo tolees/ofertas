@@ -5,7 +5,7 @@ date: 2020-03-26 15:39:27
 image: 'https://m.media-amazon.com/images/I/41tuRU4gZ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082GDN95Z-es Pgige Funda Universal de 7 Pulgadas con patrón de Cristal...'
 sku: 'B082GDN95Z-es'
 tags: [  ]

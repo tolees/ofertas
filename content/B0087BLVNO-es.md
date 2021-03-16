@@ -5,7 +5,7 @@ date: 2020-10-01 18:01:13
 image: 'https://m.media-amazon.com/images/I/41G0oCsG+NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0087BLVNO-es Zeno Watch Basel 6569-a1 - Reloj analógico automático para...'
 sku: 'B0087BLVNO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-21 18:07:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51q4F1GKSkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHD33P7-es Teslagrad - Value Pack'
 sku: 'B07VHD33P7-es'
 tags: [  ]

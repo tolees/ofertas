@@ -5,7 +5,7 @@ date: 2020-08-21 02:41:16
 image: 'https://m.media-amazon.com/images/I/41VEVs3UQpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N14DMWQ-es Skechers Go Walk 5 Prized Zapatillas para Mujer Negro...'
 sku: 'B07N14DMWQ-es'
 tags: [  ]

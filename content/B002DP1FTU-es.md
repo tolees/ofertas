@@ -5,7 +5,7 @@ date: 2020-04-12 06:21:57
 image: 'https://m.media-amazon.com/images/I/41J4IgZOx-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002DP1FTU-es Shure SRH440 - Auriculares de diadema cerrados'
 sku: 'B002DP1FTU-es'
 tags: [  ]

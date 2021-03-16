@@ -5,7 +5,7 @@ date: 2020-06-27 16:04:55
 image: 'https://m.media-amazon.com/images/I/41E4ddQ7UvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFQ179M-es Lee Extreme Motion Skinny Jeans Azul Blue Prodigy AB 33W /...'
 sku: 'B07VFQ179M-es'
 tags: [  ]

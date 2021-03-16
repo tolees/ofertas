@@ -5,7 +5,7 @@ date: 2020-05-29 09:36:42
 image: 'https://m.media-amazon.com/images/I/41EPn+0UyNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9GW54K-es Jack & Jones Jorrafael Sweat Hood Capucha Azul Sea Moss...'
 sku: 'B07V9GW54K-es'
 tags: [  ]

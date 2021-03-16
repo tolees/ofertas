@@ -5,7 +5,7 @@ date: 2020-05-11 07:43:41
 image: 'https://m.media-amazon.com/images/I/41g5SEI5kwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000G4NFO8-es adidas Copa Mundial Zapatillas de Fútbol para Hombre...'
 sku: 'B000G4NFO8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-23 12:11:20
 image: 'https://m.media-amazon.com/images/I/315aTnK2b6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDRLWJB-es Calcetines Deportivos Quarter Pro 5 Pares Negro sólido EU...'
 sku: 'B07VDRLWJB-es'
 tags: [  ]

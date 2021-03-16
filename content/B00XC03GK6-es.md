@@ -5,7 +5,7 @@ date: 2020-03-16 08:06:55
 image: 'https://m.media-amazon.com/images/I/31hG9n8SvyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XC03GK6-es Wetbrush Detangle Professional Cepillo para El Pelo Color...'
 sku: 'B00XC03GK6-es'
 tags: [  ]

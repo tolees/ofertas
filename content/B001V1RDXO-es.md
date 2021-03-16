@@ -5,7 +5,7 @@ date: 2020-05-15 18:50:46
 image: 'https://m.media-amazon.com/images/I/4195X62ladL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001V1RDXO-es Gum Cepillo de Dientes 40 unidades'
 sku: 'B001V1RDXO-es'
 tags: [  ]

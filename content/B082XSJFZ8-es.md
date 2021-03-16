@@ -5,7 +5,7 @@ date: 2020-05-23 14:45:22
 image: 'https://m.media-amazon.com/images/I/41jrInLUzYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XSJFZ8-es Foto láser digital Tacómetro Sin contacto RPM Tacómetro...'
 sku: 'B082XSJFZ8-es'
 tags: [  ]

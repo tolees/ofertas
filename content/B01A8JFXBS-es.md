@@ -5,7 +5,7 @@ date: 2020-10-09 14:29:06
 image: 'https://m.media-amazon.com/images/I/51oUVb2MgpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A8JFXBS-es OGX Champú Hidratante de Agua de Coco Cabellos...'
 sku: 'B01A8JFXBS-es'
 tags: [  ]

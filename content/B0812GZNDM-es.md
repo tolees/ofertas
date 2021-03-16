@@ -5,7 +5,7 @@ date: 2020-08-27 04:26:09
 image: 'https://m.media-amazon.com/images/I/41EJo8ktNfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0812GZNDM-es Asics GT-1000 9 GS Running Shoe Unisex niños Directoire...'
 sku: 'B0812GZNDM-es'
 tags: [  ]

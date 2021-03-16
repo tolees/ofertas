@@ -5,7 +5,7 @@ date: 2020-07-06 09:47:44
 image: 'https://m.media-amazon.com/images/I/31idfbhzrkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9ZBQFY-es adidas Powerlift 4 Zapatillas para Hombre Core Black/Night...'
 sku: 'B07S9ZBQFY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-13 19:05:16
 image: 'https://m.media-amazon.com/images/I/41lre9pcfeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q5WBFNB-es My Lovely Bed - Almohada Cervical Viscoelástica | Memory...'
 sku: 'B07Q5WBFNB-es'
 tags: [  ]

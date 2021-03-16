@@ -5,7 +5,7 @@ date: 2020-06-24 09:04:33
 image: 'https://m.media-amazon.com/images/I/61R0BA4PumL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKTRK46-es PUMA SPIN Ball Balón de Fútbol Unisex-Adult Black-Ultra...'
 sku: 'B07XKTRK46-es'
 tags: [  ]

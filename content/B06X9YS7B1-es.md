@@ -5,7 +5,7 @@ date: 2020-10-12 01:26:14
 image: 'https://m.media-amazon.com/images/I/41L+YIox+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9YS7B1-es Reebok Club C 85 Zapatillas para Hombre Blanco Intense...'
 sku: 'B06X9YS7B1-es'
 tags: [  ]

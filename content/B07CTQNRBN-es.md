@@ -5,7 +5,7 @@ date: 2020-04-20 09:31:42
 image: 'https://m.media-amazon.com/images/I/31hEDk7nfXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTQNRBN-es FIND - Bon voyage - Paleta de cuatro sombras de ojos n.3'
 sku: 'B07CTQNRBN-es'
 tags: [  ]

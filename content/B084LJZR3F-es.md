@@ -5,7 +5,7 @@ date: 2020-09-15 17:57:15
 image: 'https://m.media-amazon.com/images/I/41jVvnIQtbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084LJZR3F-es Rimmel London Pack look ojos Incluye Paleta de Sombras...'
 sku: 'B084LJZR3F-es'
 tags: [  ]

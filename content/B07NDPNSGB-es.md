@@ -5,7 +5,7 @@ date: 2020-01-22 18:41:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wFxjAIQHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDPNSGB-es G-STAR RAW Fascia Polo Multicolor Milk/Imperial Blue...'
 sku: 'B07NDPNSGB-es'
 tags: [  ]

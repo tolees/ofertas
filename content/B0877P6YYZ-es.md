@@ -5,7 +5,7 @@ date: 2020-09-08 21:24:00
 image: 'https://m.media-amazon.com/images/I/41ExVwfu5kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0877P6YYZ-es Unibear Mascarilla Protectora Desechable Respiratoria FFP2...'
 sku: 'B0877P6YYZ-es'
 tags: [  ]

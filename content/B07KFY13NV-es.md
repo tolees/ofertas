@@ -5,7 +5,7 @@ date: 2020-05-04 19:05:00
 image: 'https://m.media-amazon.com/images/I/41uTY7MQksL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFY13NV-es PUMA LQDCell Shatter XT Wn s Zapatillas Deportivas para...'
 sku: 'B07KFY13NV-es'
 tags: [  ]

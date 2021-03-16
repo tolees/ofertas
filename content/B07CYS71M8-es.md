@@ -5,7 +5,7 @@ date: 2020-07-11 23:57:50
 image: 'https://m.media-amazon.com/images/I/51Fn4tlC5WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYS71M8-es TankerStreet 2 Piezas Alfombras de Cocina Antideslizante...'
 sku: 'B07CYS71M8-es'
 tags: [  ]

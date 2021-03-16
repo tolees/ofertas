@@ -5,7 +5,7 @@ date: 2020-09-25 17:51:04
 image: 'https://m.media-amazon.com/images/I/41W2plZG1TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFJ38KV-es NASUM Mini Ventilador USB Ventilador Portatil Batería...'
 sku: 'B07PFJ38KV-es'
 tags: [  ]

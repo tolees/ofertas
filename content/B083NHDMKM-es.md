@@ -5,7 +5,7 @@ date: 2020-06-06 13:31:37
 image: 'https://m.media-amazon.com/images/I/51+70bh0MNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NHDMKM-es Auriculares Bluetooth TWS Wireless Bluetooth 5.0...'
 sku: 'B083NHDMKM-es'
 tags: [  ]

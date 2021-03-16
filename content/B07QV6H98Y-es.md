@@ -5,7 +5,7 @@ date: 2020-05-21 12:25:38
 image: 'https://m.media-amazon.com/images/I/312qBs7JDHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QV6H98Y-es Wrangler Greensboro Regular Jeans Azul Dark Rinse 90a 40W...'
 sku: 'B07QV6H98Y-es'
 tags: [  ]

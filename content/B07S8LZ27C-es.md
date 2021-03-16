@@ -5,7 +5,7 @@ date: 2020-07-06 17:37:39
 image: 'https://m.media-amazon.com/images/I/31RiWc3frAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8LZ27C-es AXE gel de ducha gold bote 400 ml'
 sku: 'B07S8LZ27C-es'
 tags: [  ]

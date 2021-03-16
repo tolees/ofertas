@@ -5,7 +5,7 @@ date: 2020-06-08 07:09:08
 image: 'https://m.media-amazon.com/images/I/41pYZasYsaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F9XBELC-es DeLOCK 65508 Adaptador de Cable HDMI Negro - Adaptador...'
 sku: 'B00F9XBELC-es'
 tags: [  ]

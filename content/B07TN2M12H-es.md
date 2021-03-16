@@ -5,7 +5,7 @@ date: 2020-04-23 12:29:26
 image: 'https://m.media-amazon.com/images/I/41XtoAzEjTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TN2M12H-es Vans Atwood Textile Zapatillas para Hombre Rojo Corduroy...'
 sku: 'B07TN2M12H-es'
 tags: [  ]

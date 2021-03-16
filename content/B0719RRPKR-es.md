@@ -5,7 +5,7 @@ date: 2020-01-31 09:47:52
 image: 'https://m.media-amazon.com/images/I/41jXhASaSeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719RRPKR-es Finether Armario de Cultivo Interior 120x120x200 cm Grow...'
 sku: 'B0719RRPKR-es'
 tags: [  ]

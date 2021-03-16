@@ -5,7 +5,7 @@ date: 2020-02-01 03:50:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41TOLHQIq0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077LZRPGF-es Timex Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B077LZRPGF-es'
 tags: [  ]

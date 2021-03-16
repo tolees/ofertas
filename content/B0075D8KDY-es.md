@@ -5,7 +5,7 @@ date: 2020-06-07 13:24:29
 image: 'https://m.media-amazon.com/images/I/31h6EXMxo8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0075D8KDY-es Fiskars Bloque de cuchillos con 5 cuchillos Ancho: 15 5 cm...'
 sku: 'B0075D8KDY-es'
 tags: [  ]

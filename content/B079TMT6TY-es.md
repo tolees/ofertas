@@ -5,7 +5,7 @@ date: 2020-05-08 09:36:08
 image: 'https://m.media-amazon.com/images/I/31mTzTV4jTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TMT6TY-es Funko- Black Panther T Challa Figura de Vinilo -...'
 sku: 'B079TMT6TY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-10 20:26:58
 image: 'https://m.media-amazon.com/images/I/31QVFohsqgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFYFFZB-es PUMA Cell Plasmic Fluo Wn s Zapatillas Deportivas para...'
 sku: 'B07KFYFFZB-es'
 tags: [  ]

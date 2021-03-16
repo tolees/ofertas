@@ -5,7 +5,7 @@ date: 2020-08-08 17:30:27
 image: 'https://m.media-amazon.com/images/I/31MQbP-B1fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB5FC8T-es HCFKJ 2.4G Ratón Inalámbrico Recargable Silencioso Infame...'
 sku: 'B07SB5FC8T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-18 16:48:29
 image: 'https://m.media-amazon.com/images/I/414HlZf1dhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GQ1Y7AU-es DAEN Crema Depilatoria 1 Unidad 430 g'
 sku: 'B01GQ1Y7AU-es'
 tags: [  ]

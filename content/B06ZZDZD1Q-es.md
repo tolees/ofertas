@@ -5,7 +5,7 @@ date: 2020-05-17 21:01:05
 image: 'https://m.media-amazon.com/images/I/31P2oqn3M5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZDZD1Q-es HAPPERS Puff Pelota Polipiel Indoor Fucsia'
 sku: 'B06ZZDZD1Q-es'
 tags: [  ]

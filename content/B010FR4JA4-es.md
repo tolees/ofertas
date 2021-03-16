@@ -5,7 +5,7 @@ date: 2020-01-10 09:19:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31dPBXfUYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010FR4JA4-es New Balance Wx624Wb4 - entrenamiento/correr de cuero mujer...'
 sku: 'B010FR4JA4-es'
 tags: [  ]

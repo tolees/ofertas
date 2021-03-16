@@ -5,7 +5,7 @@ date: 2020-09-29 15:18:13
 image: 'https://m.media-amazon.com/images/I/41aIMv-GurL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWN8NVB-es GABOL L Atlanta Maleta 52x75x29 cm 90 liters Turquesa'
 sku: 'B07PWN8NVB-es'
 tags: [  ]

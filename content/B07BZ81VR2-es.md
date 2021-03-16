@@ -5,7 +5,7 @@ date: 2020-08-27 23:15:11
 image: 'https://m.media-amazon.com/images/I/517HOHogRLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZ81VR2-es TACKLIFE Carrete de Manguera de Aire Enrollador de...'
 sku: 'B07BZ81VR2-es'
 tags: [  ]

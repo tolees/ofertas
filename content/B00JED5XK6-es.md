@@ -5,7 +5,7 @@ date: 2020-06-28 08:02:49
 image: 'https://m.media-amazon.com/images/I/5192HNUvSCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JED5XK6-es Pen Drive 512MB 10 Piezas Memorias Flash USB 2.0 -...'
 sku: 'B00JED5XK6-es'
 tags: [  ]

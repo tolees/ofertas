@@ -5,7 +5,7 @@ date: 2020-05-20 16:01:52
 image: 'https://m.media-amazon.com/images/I/41b9SehrkXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084NYSW7B-es LoveOlvido Mini tamaño Simulación Aleación Finger Bike...'
 sku: 'B084NYSW7B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 05:19:50
 image: 'https://m.media-amazon.com/images/I/31R0C3CKRhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LC5M4N3-es Adidas VS Set Zapatillas de Tenis para Hombre Multicolor...'
 sku: 'B07LC5M4N3-es'
 tags: [  ]

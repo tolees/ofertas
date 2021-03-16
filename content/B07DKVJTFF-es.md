@@ -5,7 +5,7 @@ date: 2020-06-11 11:36:13
 image: 'https://m.media-amazon.com/images/I/31WfzdYDFIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKVJTFF-es Sebago Schooner Náuticos para Hombre Azul Blue Navy/Gum...'
 sku: 'B07DKVJTFF-es'
 tags: [  ]

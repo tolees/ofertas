@@ -5,7 +5,7 @@ date: 2020-03-07 07:51:17
 image: 'https://m.media-amazon.com/images/I/410tH2mJK6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2F9JS1-es Candelabros de Tubos Retro Vintage Personalidad Hierro...'
 sku: 'B07Q2F9JS1-es'
 tags: [  ]

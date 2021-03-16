@@ -5,7 +5,7 @@ date: 2020-04-18 12:04:24
 image: 'https://m.media-amazon.com/images/I/51MaGUj-QWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085T5BVVP-es Funda para Samsung Galaxy A71 + [2 Pack] Cristal Templado...'
 sku: 'B085T5BVVP-es'
 tags: [  ]

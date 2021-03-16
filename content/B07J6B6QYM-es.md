@@ -5,7 +5,7 @@ date: 2020-05-16 15:42:46
 image: 'https://m.media-amazon.com/images/I/31oaQ+4NvQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6B6QYM-es Cuña de Cama Ortopédica + Almohada anti-estrés! Cojín de...'
 sku: 'B07J6B6QYM-es'
 tags: [  ]

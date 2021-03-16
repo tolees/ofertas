@@ -5,7 +5,7 @@ date: 2020-07-05 15:01:02
 image: 'https://m.media-amazon.com/images/I/31quMq66ffL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCZZCB9-es Hoover SGE1000 Limpiador seco para tejidos Vapor húmedo...'
 sku: 'B07PCZZCB9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-01 19:47:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WLagyJOlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DQV11SO-es Twins Looney Tunes 1 127 67-Camiseta Bebé Bebé unisex Weiß...'
 sku: 'B01DQV11SO-es'
 tags: [  ]

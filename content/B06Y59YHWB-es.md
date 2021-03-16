@@ -5,7 +5,7 @@ date: 2020-03-17 17:06:26
 image: 'https://m.media-amazon.com/images/I/41gAdDaGEML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y59YHWB-es Sesderma Repaskin Protector Solar Facial SPF 50 Tacto Seda...'
 sku: 'B06Y59YHWB-es'
 tags: [  ]

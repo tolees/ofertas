@@ -5,7 +5,7 @@ date: 2020-09-17 18:21:46
 image: 'https://m.media-amazon.com/images/I/41G6pjrFsuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8DVW76-es Munich Massana Zapatillas de Deporte para Hombre Verde...'
 sku: 'B07D8DVW76-es'
 tags: [  ]

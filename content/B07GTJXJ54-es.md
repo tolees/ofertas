@@ -5,7 +5,7 @@ date: 2020-01-30 18:42:58
 image: 'https://m.media-amazon.com/images/I/51oKlZgQRRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GTJXJ54-es Ferilinso Cristal Templado para Huawei Mate 20 Lite [2...'
 sku: 'B07GTJXJ54-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 14:43:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gCzI56JjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6QF2P4-es Parasol Coche Infantil Lateral UV Parasol Coche Bebe-...'
 sku: 'B07P6QF2P4-es'
 tags: [  ]

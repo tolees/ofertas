@@ -5,7 +5,7 @@ date: 2020-02-07 17:16:31
 image: 'https://m.media-amazon.com/images/I/31m9dWOw8pL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JB2GJMR-es Mondial A12 Calentador Calefactor Portátil 350 W Negro'
 sku: 'B07JB2GJMR-es'
 tags: [  ]

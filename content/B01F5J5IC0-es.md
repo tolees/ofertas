@@ -5,7 +5,7 @@ date: 2020-05-12 18:54:10
 image: 'https://m.media-amazon.com/images/I/4161PfxVplL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F5J5IC0-es BeerCup-Classics 100 Vasos Rojos para Jugar al Beer Pong...'
 sku: 'B01F5J5IC0-es'
 tags: [  ]

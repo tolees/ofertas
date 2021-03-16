@@ -5,7 +5,7 @@ date: 2020-01-21 19:24:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ctip0rmeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0787KRDX1-es Pepe Jeans London Verona W Sequins Zapatillas Mujer Rosa...'
 sku: 'B0787KRDX1-es'
 tags: [  ]

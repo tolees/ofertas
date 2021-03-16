@@ -5,7 +5,7 @@ date: 2020-03-04 22:00:50
 image: 'https://m.media-amazon.com/images/I/416txjSf3rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4RQND6-es Rubies - Disfraz Oficial de Los Vengadores Endgame Thanos...'
 sku: 'B07L4RQND6-es'
 tags: [  ]

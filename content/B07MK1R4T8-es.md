@@ -5,7 +5,7 @@ date: 2021-03-08 23:52:03
 image: 'https://m.media-amazon.com/images/I/31RHWCJW5SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1R4T8-es Napapijri Maun Pantalones Gris Dark Grey Solid 198 46...'
 sku: 'B07MK1R4T8-es'
 tags: [ 'napapijri', ]

@@ -5,7 +5,7 @@ date: 2020-08-15 20:12:02
 image: 'https://m.media-amazon.com/images/I/51oqhBa+ViL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7PWTTK-es VPCOK Envasadora al vacío automático 110W Máquina del...'
 sku: 'B07S7PWTTK-es'
 tags: [  ]

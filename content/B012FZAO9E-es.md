@@ -5,7 +5,7 @@ date: 2020-01-22 21:33:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31m%2BMIRc3IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012FZAO9E-es WMF Kult X Mix & Go Keep Cool Mini licuadora 300 vatios...'
 sku: 'B012FZAO9E-es'
 tags: [  ]

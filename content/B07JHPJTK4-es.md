@@ -5,7 +5,7 @@ date: 2020-02-10 19:28:02
 image: 'https://m.media-amazon.com/images/I/31q1zr1B0OL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHPJTK4-es JACK & JONES Jfwtrent PU 19 Noos Zapatillas para Hombre...'
 sku: 'B07JHPJTK4-es'
 tags: [  ]

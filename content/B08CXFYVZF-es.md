@@ -5,7 +5,7 @@ date: 2020-08-06 12:18:05
 image: 'https://m.media-amazon.com/images/I/3107igYcPfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXFYVZF-es Beuya Colores sólidos Cajas de Almacenamiento para máscara...'
 sku: 'B08CXFYVZF-es'
 tags: [  ]

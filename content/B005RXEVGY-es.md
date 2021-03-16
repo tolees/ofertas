@@ -5,7 +5,7 @@ date: 2020-01-07 11:13:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GJjanE%2BWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005RXEVGY-es Eddie Bauer - Pantalones Mujer Color Marfil Talla 38/30 US: 8'
 sku: 'B005RXEVGY-es'
 tags: [  ]

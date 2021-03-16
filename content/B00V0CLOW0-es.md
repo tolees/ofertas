@@ -5,7 +5,7 @@ date: 2020-01-21 04:48:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51VlsNgNc1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V0CLOW0-es Poltergeist Ii / Poltergeist Iii [Edizione: Stati Uniti]...'
 sku: 'B00V0CLOW0-es'
 tags: [  ]

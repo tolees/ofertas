@@ -5,7 +5,7 @@ date: 2020-10-04 06:19:30
 image: 'https://m.media-amazon.com/images/I/31lPyFC8XRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7RSH3W-es Sanex Dermo Extra Control Desodorante Spray - 200 ml'
 sku: 'B01K7RSH3W-es'
 tags: [  ]

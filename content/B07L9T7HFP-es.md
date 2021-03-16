@@ -5,7 +5,7 @@ date: 2020-02-18 11:17:41
 image: 'https://m.media-amazon.com/images/I/31Y-uceIQXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9T7HFP-es Lacoste Carnaby EVO Light-WT 3191 SMA Zapatillas para...'
 sku: 'B07L9T7HFP-es'
 tags: [  ]

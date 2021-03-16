@@ -5,7 +5,7 @@ date: 2020-08-27 09:33:08
 image: 'https://m.media-amazon.com/images/I/31FefegAFHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0044DXVCI-es CAMPER Pelotas XL Herren Sneakers Schwarz Black 45 EU 11 UK'
 sku: 'B0044DXVCI-es'
 tags: [  ]

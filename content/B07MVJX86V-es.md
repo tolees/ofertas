@@ -5,7 +5,7 @@ date: 2020-03-29 12:16:05
 image: 'https://m.media-amazon.com/images/I/31ExM36MOrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJX86V-es Napapijri Damavand V suéter Verde Green Forest 2 GE3 Small...'
 sku: 'B07MVJX86V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-22 09:03:15
 image: 'https://m.media-amazon.com/images/I/31WHeQS9bsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FV7VM5N-es BaByliss ST455E Plancha de pelo Sensitive Edición Especial...'
 sku: 'B07FV7VM5N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-04 09:35:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31TdECoKggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNZHR98-es Lacoste HH9553 Pantalones Beige Viennois 46 Talla del...'
 sku: 'B07MNZHR98-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-14 07:42:21
 image: 'https://m.media-amazon.com/images/I/413EeXB+xuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9YWW3P-es Funko Modern Family Llavero Pop Gloria Color Mulitcolor...'
 sku: 'B07H9YWW3P-es'
 tags: [  ]

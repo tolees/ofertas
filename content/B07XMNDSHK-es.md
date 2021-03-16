@@ -5,7 +5,7 @@ date: 2020-01-24 08:11:19
 image: 'https://m.media-amazon.com/images/I/41EJw6CCFiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XMNDSHK-es TEEHON Cartera Hombre Cartera RFID Cartera Cuero Hombre...'
 sku: 'B07XMNDSHK-es'
 tags: [  ]

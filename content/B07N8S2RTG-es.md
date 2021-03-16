@@ -5,7 +5,7 @@ date: 2020-01-14 20:10:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31pnkpmdw0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8S2RTG-es BOSS Paule 4 Polo Hombre Blanco Natural XX-Large'
 sku: 'B07N8S2RTG-es'
 tags: [  ]

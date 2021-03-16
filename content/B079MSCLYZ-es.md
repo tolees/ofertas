@@ -5,7 +5,7 @@ date: 2020-03-04 17:03:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51aCA5szPuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MSCLYZ-es Owlboy'
 sku: 'B079MSCLYZ-es'
 tags: [  ]

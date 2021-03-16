@@ -5,7 +5,7 @@ date: 2020-02-16 13:55:45
 image: 'https://m.media-amazon.com/images/I/31BKpjmaRtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y1MNM1X-es Wrangler Arizona Jeans Azul Blue Stroke 1O 32W / 32L para...'
 sku: 'B06Y1MNM1X-es'
 tags: [  ]

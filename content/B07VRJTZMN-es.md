@@ -5,7 +5,7 @@ date: 2020-01-23 22:55:31
 image: 'https://m.media-amazon.com/images/I/51FE-50Z3CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRJTZMN-es ZHENROG Electroestimulador Muscular Abdominales Cinturón...'
 sku: 'B07VRJTZMN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 19:22:20
 image: 'https://m.media-amazon.com/images/I/51zMPC9DclL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RR7V99C-es viewstar Almohadas Antiácaros Pack de 2 Almohadas 100%...'
 sku: 'B07RR7V99C-es'
 tags: [  ]

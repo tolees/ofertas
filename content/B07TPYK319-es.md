@@ -5,7 +5,7 @@ date: 2020-09-14 05:27:43
 image: 'https://m.media-amazon.com/images/I/41ce+yf40hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPYK319-es Clarks Sift Speed Zapatillas para Hombre Marrón British...'
 sku: 'B07TPYK319-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 12:21:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CESZ4FxDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NMBSFCY-es Leathlux Funda Xiaomi Redmi 7 + Cristal Templado Xiaomi...'
 sku: 'B00NMBSFCY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-08 08:59:17
 image: 'https://m.media-amazon.com/images/I/31oU27FodRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3XXWF9-es La Toja - Espuma Afeitado Protect 7 - Enriquecida con...'
 sku: 'B07N3XXWF9-es'
 tags: [  ]

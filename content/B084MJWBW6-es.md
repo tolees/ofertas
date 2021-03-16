@@ -5,7 +5,7 @@ date: 2020-05-22 10:18:46
 image: 'https://m.media-amazon.com/images/I/41ldWZ-uPiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084MJWBW6-es EUMI Smartwatch Reloj Inteligente IP67 con Pulsómetro...'
 sku: 'B084MJWBW6-es'
 tags: [  ]

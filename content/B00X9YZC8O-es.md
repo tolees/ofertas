@@ -5,7 +5,7 @@ date: 2020-08-10 17:08:23
 image: 'https://m.media-amazon.com/images/I/41KJ8IJCDML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9YZC8O-es Le Petit Marsellais - Gel Mandarina & Lima - 400 ml'
 sku: 'B00X9YZC8O-es'
 tags: [  ]

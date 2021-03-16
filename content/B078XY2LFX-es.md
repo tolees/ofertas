@@ -5,7 +5,7 @@ date: 2020-02-17 17:02:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/313NQfmf46L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XY2LFX-es BRA Advanced Sartén 26 cm aluminio fundido con...'
 sku: 'B078XY2LFX-es'
 tags: [  ]

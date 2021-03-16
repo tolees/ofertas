@@ -5,7 +5,7 @@ date: 2020-09-28 16:47:57
 image: 'https://m.media-amazon.com/images/I/51EBnc8OzxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YTC4MFX-es Cine Quinqui [Blu-ray]'
 sku: 'B07YTC4MFX-es'
 tags: [  ]

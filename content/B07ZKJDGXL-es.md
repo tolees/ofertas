@@ -5,7 +5,7 @@ date: 2020-04-21 10:41:18
 image: 'https://m.media-amazon.com/images/I/41Sn+R5KqDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKJDGXL-es JK-2 Cómoda Manta Tejida de Tela Baby Stretch Wrap Cerca...'
 sku: 'B07ZKJDGXL-es'
 tags: [  ]

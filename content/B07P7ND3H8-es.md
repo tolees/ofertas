@@ -5,7 +5,7 @@ date: 2020-03-25 18:31:26
 image: 'https://m.media-amazon.com/images/I/41nc+dJEXyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7ND3H8-es Magiin Jarrón de Vidrio Transparente Terrario de Plantas...'
 sku: 'B07P7ND3H8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-29 09:35:15
 image: 'https://m.media-amazon.com/images/I/310WG-2L04L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002OJYK5G-es Brennenstuhl Eco-Line regleta de enchufes con 6 tomas de...'
 sku: 'B002OJYK5G-es'
 tags: [  ]

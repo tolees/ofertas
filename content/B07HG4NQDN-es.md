@@ -5,7 +5,7 @@ date: 2020-05-18 18:03:49
 image: 'https://m.media-amazon.com/images/I/31qtViqqnsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG4NQDN-es New Balance Calzado Deportivo NM213 Tim para Hombre Beige...'
 sku: 'B07HG4NQDN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 17:20:27
 image: 'https://m.media-amazon.com/images/I/41oNSATZjIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TIWGURI-es Lacoste Crew Neck-sudadera Hombre gris Argent Chine X-Small'
 sku: 'B00TIWGURI-es'
 tags: [  ]

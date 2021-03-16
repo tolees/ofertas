@@ -5,7 +5,7 @@ date: 2020-06-22 09:41:55
 image: 'https://m.media-amazon.com/images/I/41TXZEJEmmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDK26W6-es TOUS Shopping Sherton de Piel en color negro'
 sku: 'B07DDK26W6-es'
 tags: [  ]

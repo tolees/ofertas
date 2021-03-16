@@ -5,7 +5,7 @@ date: 2020-10-08 19:20:20
 image: 'https://m.media-amazon.com/images/I/41JCc1CofhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1CCZ0S-es Skechers Women 12615 Low-Top Trainers Grey Charcoal...'
 sku: 'B01M1CCZ0S-es'
 tags: [  ]

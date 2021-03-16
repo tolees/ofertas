@@ -5,7 +5,7 @@ date: 2020-03-03 11:33:56
 image: 'https://m.media-amazon.com/images/I/51Pg9r0ircL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSM55FD-es Lorus Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B07NSM55FD-es'
 tags: [  ]

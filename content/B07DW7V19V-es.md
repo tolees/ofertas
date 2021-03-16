@@ -5,7 +5,7 @@ date: 2020-02-14 11:32:37
 image: 'https://m.media-amazon.com/images/I/31xUkO-QJ0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW7V19V-es LE COQ SPORTIF Flag Zapatillas para Hombre Azul Dress Blue...'
 sku: 'B07DW7V19V-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 15:28:58
 image: 'https://m.media-amazon.com/images/I/31TgUbtVAeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GQCDLL-es Maybelline New York Dream Radiant Liquid - Base de...'
 sku: 'B078GQCDLL-es'
 tags: [  ]

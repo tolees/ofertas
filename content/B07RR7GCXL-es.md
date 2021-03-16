@@ -5,7 +5,7 @@ date: 2020-08-05 12:37:28
 image: 'https://m.media-amazon.com/images/I/41mIe7YgG3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RR7GCXL-es Aibrou Pijamas Hombre Verano Corto de 100% Algodón...'
 sku: 'B07RR7GCXL-es'
 tags: [  ]

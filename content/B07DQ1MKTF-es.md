@@ -5,7 +5,7 @@ date: 2020-09-17 17:08:35
 image: 'https://m.media-amazon.com/images/I/31yRUTuUucL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQ1MKTF-es LG SPK8 140W Negro Altavoz - Altavoces 2.0 Canales...'
 sku: 'B07DQ1MKTF-es'
 tags: [  ]

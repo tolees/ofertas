@@ -5,7 +5,7 @@ date: 2020-06-25 06:36:58
 image: 'https://m.media-amazon.com/images/I/410YGSWfdpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG4LGSC-es New Balance Ypariv2 n Zapatillas Deportivas para Interior...'
 sku: 'B07HG4LGSC-es'
 tags: [  ]

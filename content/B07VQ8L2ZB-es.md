@@ -5,7 +5,7 @@ date: 2020-05-23 10:39:12
 image: 'https://m.media-amazon.com/images/I/31qd4AOC+zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQ8L2ZB-es G-STAR RAW Rackam Core Low Zapatillas para Hombre...'
 sku: 'B07VQ8L2ZB-es'
 tags: [  ]

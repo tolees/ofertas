@@ -5,7 +5,7 @@ date: 2020-04-02 15:11:53
 image: 'https://m.media-amazon.com/images/I/41Q8yyMiGcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TFK6BJL-es Arbily Auriculares Bluetooth Auriculares Inalámbricos...'
 sku: 'B07TFK6BJL-es'
 tags: [  ]

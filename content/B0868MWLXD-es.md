@@ -5,7 +5,7 @@ date: 2020-04-21 20:55:41
 image: 'https://m.media-amazon.com/images/I/510Sc3+eCFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868MWLXD-es Suhctup Transparente Funda Compatible con Samsung Galaxy...'
 sku: 'B0868MWLXD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-02 22:15:01
 image: 'https://m.media-amazon.com/images/I/41ktk1XA36L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVW7Q7P-es Moderna lámpara LED de techo para salón regulable pantalla...'
 sku: 'B07PVW7Q7P-es'
 tags: [  ]

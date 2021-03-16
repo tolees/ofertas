@@ -5,7 +5,7 @@ date: 2020-05-13 10:08:40
 image: 'https://m.media-amazon.com/images/I/31jtW+4gM8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P36FSL7-es Dickies Fairdale Pantalones para Hombre Negro Black Bk...'
 sku: 'B07P36FSL7-es'
 tags: [  ]

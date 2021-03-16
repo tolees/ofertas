@@ -5,7 +5,7 @@ date: 2020-04-27 09:01:31
 image: 'https://m.media-amazon.com/images/I/51UYzFCbs8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZPT6NT9-es ranninao Gofrera Europea de 350W | Máquina de Hacer gofres...'
 sku: 'B07ZPT6NT9-es'
 tags: [  ]

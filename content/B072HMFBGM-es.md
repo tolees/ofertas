@@ -5,7 +5,7 @@ date: 2020-01-15 18:47:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/516aMr-iu1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HMFBGM-es Ferplast Espaciosa Jaula para Canarios periquitos y...'
 sku: 'B072HMFBGM-es'
 tags: [  ]

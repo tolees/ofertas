@@ -5,7 +5,7 @@ date: 2020-03-30 09:41:34
 image: 'https://m.media-amazon.com/images/I/41-2jFEHppL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXBWWV7-es Kenwood KMM-BT306 - Radio para Coche con USB y Manos...'
 sku: 'B07YXBWWV7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-09 13:01:12
 image: 'https://m.media-amazon.com/images/I/41EQQjPXVJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872T6GDW-es Funda Transparente Compatible para Mi Note 10/Note 10 Pro...'
 sku: 'B0872T6GDW-es'
 tags: [  ]

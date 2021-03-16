@@ -5,7 +5,7 @@ date: 2020-05-22 11:40:36
 image: 'https://m.media-amazon.com/images/I/41IOUMfIQZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YZG5DT-es Fifet Chupete Chupete Clips Cadenas x 4 para Bebés y Niños'
 sku: 'B086YZG5DT-es'
 tags: [  ]

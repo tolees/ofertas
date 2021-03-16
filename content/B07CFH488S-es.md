@@ -5,7 +5,7 @@ date: 2020-01-31 14:00:29
 image: 'https://m.media-amazon.com/images/I/41DFsWXyDTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CFH488S-es JACK & JONES Jjeholmen Sweat Hood Noos Capucha Azul Navy...'
 sku: 'B07CFH488S-es'
 tags: [  ]

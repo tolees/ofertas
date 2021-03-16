@@ -5,7 +5,7 @@ date: 2020-03-04 12:23:31
 image: 'https://m.media-amazon.com/images/I/3171uv4bQfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075H1LVZF-es Adidas Vl Court 2.0 K Zapatillas de deporte Unisex niños...'
 sku: 'B075H1LVZF-es'
 tags: [  ]

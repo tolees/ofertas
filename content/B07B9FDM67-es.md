@@ -5,7 +5,7 @@ date: 2020-02-27 08:44:11
 image: 'https://m.media-amazon.com/images/I/41wt7Tu0AdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9FDM67-es Easton Marlowe 6 PR Calcetines Lisos Negros Hombre Algodón...'
 sku: 'B07B9FDM67-es'
 tags: [  ]

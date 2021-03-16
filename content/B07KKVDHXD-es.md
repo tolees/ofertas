@@ -5,7 +5,7 @@ date: 2020-10-04 08:05:01
 image: 'https://m.media-amazon.com/images/I/31-SQ-lWRSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKVDHXD-es Nike M CFD Pant FLC TM Club19 Sport - Pantalones Hombre...'
 sku: 'B07KKVDHXD-es'
 tags: [  ]

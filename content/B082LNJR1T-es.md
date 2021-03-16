@@ -5,7 +5,7 @@ date: 2020-04-16 18:20:38
 image: 'https://m.media-amazon.com/images/I/41S-00ygzML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082LNJR1T-es K9CK Juego de Luces para Lego Technic Porsche 911 RSR...'
 sku: 'B082LNJR1T-es'
 tags: [  ]

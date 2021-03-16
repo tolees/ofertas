@@ -5,7 +5,7 @@ date: 2020-03-28 21:15:05
 image: 'https://m.media-amazon.com/images/I/31U8d+dr6IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003VFEF8O-es SRAM 89.2711.114.105 Cadena 1071 Hollowpin 114 eslabones...'
 sku: 'B003VFEF8O-es'
 tags: [  ]

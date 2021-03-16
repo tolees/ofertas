@@ -5,7 +5,7 @@ date: 2020-09-19 08:32:22
 image: 'https://m.media-amazon.com/images/I/31v-mafxShL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08J6VPKCZ-es DEtasyXworld Funda para portátil de 15 Pulgadas Funda...'
 sku: 'B08J6VPKCZ-es'
 tags: [  ]

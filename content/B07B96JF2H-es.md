@@ -5,7 +5,7 @@ date: 2020-01-29 23:10:18
 image: 'https://m.media-amazon.com/images/I/51T329IIjcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B96JF2H-es Purina Gourmet Gold Doble Placer comida para gatos Surtido...'
 sku: 'B07B96JF2H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-24 18:05:44
 image: 'https://m.media-amazon.com/images/I/51HxKRu+KXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ANWSYE8-es Think Gizmos Equipo de construcción para niños – Ingenious...'
 sku: 'B01ANWSYE8-es'
 tags: [  ]

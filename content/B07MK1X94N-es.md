@@ -5,7 +5,7 @@ date: 2020-03-24 04:58:25
 image: 'https://m.media-amazon.com/images/I/41O3oOZYLpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MK1X94N-es KFD - Cargador de 65 W 19 V para ASUS ROG Swift PG278Q...'
 sku: 'B07MK1X94N-es'
 tags: [  ]

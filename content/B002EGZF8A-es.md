@@ -5,7 +5,7 @@ date: 2020-06-16 13:37:52
 image: 'https://m.media-amazon.com/images/I/41iq05-HfEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002EGZF8A-es Escalerita de Ikea de madera color beis modelo Bekvam...'
 sku: 'B002EGZF8A-es'
 tags: [  ]

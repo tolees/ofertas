@@ -5,7 +5,7 @@ date: 2020-02-02 13:25:22
 image: 'https://m.media-amazon.com/images/I/41qo3pQZTpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6PF3VD-es Maleta grande Mickey Colored rígida 68cm blanca'
 sku: 'B07J6PF3VD-es'
 tags: [  ]

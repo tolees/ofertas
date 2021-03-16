@@ -5,7 +5,7 @@ date: 2020-04-08 16:12:46
 image: 'https://m.media-amazon.com/images/I/41zguQVLtTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQT4DVJ-es Cadmus Pantalones Cortos de compresión para Mujer de...'
 sku: 'B07TQT4DVJ-es'
 tags: [  ]

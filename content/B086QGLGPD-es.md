@@ -5,7 +5,7 @@ date: 2020-05-29 08:03:02
 image: 'https://m.media-amazon.com/images/I/41y5VjxrjcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QGLGPD-es Suhctup Funda Compatible con iPhone XR Carcasa...'
 sku: 'B086QGLGPD-es'
 tags: [  ]

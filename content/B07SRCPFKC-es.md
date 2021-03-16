@@ -5,7 +5,7 @@ date: 2020-01-17 14:42:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31-rn91VjYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRCPFKC-es adidas NMD_r1 Zapatillas de Gimnasia para Hombre Blanco...'
 sku: 'B07SRCPFKC-es'
 tags: [  ]

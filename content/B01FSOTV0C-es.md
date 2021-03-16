@@ -5,7 +5,7 @@ date: 2020-05-16 05:10:47
 image: 'https://m.media-amazon.com/images/I/51uW5Oy9mrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FSOTV0C-es BABY HEROE - Cinturón de seguridad embarazada. Cinturón de...'
 sku: 'B01FSOTV0C-es'
 tags: [  ]

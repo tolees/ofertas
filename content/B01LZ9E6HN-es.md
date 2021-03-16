@@ -5,7 +5,7 @@ date: 2020-04-29 10:54:55
 image: 'https://m.media-amazon.com/images/I/41fpj318y3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ9E6HN-es Hugo Boss Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B01LZ9E6HN-es'
 tags: [  ]

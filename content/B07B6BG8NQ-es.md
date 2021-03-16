@@ -5,7 +5,7 @@ date: 2020-01-24 09:26:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bg6l9nkTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B6BG8NQ-es Lacoste Reloj Multiesfera para Mujer de Cuarzo con Correa...'
 sku: 'B07B6BG8NQ-es'
 tags: [  ]

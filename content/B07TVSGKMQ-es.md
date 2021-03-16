@@ -5,7 +5,7 @@ date: 2020-08-15 08:37:32
 image: 'https://m.media-amazon.com/images/I/41cItU6blYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVSGKMQ-es Tommy Hilfiger Th Women Short Sock 2p Translucent...'
 sku: 'B07TVSGKMQ-es'
 tags: [  ]

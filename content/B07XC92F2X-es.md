@@ -5,7 +5,7 @@ date: 2020-09-15 10:11:57
 image: 'https://m.media-amazon.com/images/I/41UAvS9wKmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XC92F2X-es Hauck Stop N Safe 2 puerta de seguridad incluido extensión...'
 sku: 'B07XC92F2X-es'
 tags: [  ]

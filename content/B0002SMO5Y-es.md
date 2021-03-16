@@ -5,7 +5,7 @@ date: 2020-03-06 11:02:30
 image: 'https://m.media-amazon.com/images/I/41bgiVYiFJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002SMO5Y-es Dremel 628 Juego de Brocas de Precisión - Kit de 7...'
 sku: 'B0002SMO5Y-es'
 tags: [  ]

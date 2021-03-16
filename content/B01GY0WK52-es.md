@@ -5,7 +5,7 @@ date: 2020-01-14 17:25:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31VfOQ1ZaSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GY0WK52-es Mercedes-Benz M7003 Hombre Azul Blau 59'
 sku: 'B01GY0WK52-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-10 21:50:10
 image: 'https://m.media-amazon.com/images/I/31d1dHm6XdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0759LH9HC-es Volcom Lido Trunks 16" Boardshorts Hombre Neon Green M'
 sku: 'B0759LH9HC-es'
 tags: [  ]

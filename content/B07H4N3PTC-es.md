@@ -5,7 +5,7 @@ date: 2020-02-29 15:54:33
 image: 'https://m.media-amazon.com/images/I/41V0GpEW+tL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4N3PTC-es CONFU Quitapelusas Eléctrico Recargable USB adecuado para...'
 sku: 'B07H4N3PTC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-06 12:47:29
 image: 'https://m.media-amazon.com/images/I/41DtgZ6niEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMT5V84-es New Balance 574v2 Core Zapatillas para Hombre Negro Black...'
 sku: 'B07QMT5V84-es'
 tags: [  ]

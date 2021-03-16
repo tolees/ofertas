@@ -5,7 +5,7 @@ date: 2020-09-13 17:46:37
 image: 'https://m.media-amazon.com/images/I/41KU-nKPW9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B94NCB7-es Clarks Ashcombemidgtx Botas Chelsea para Hombre Marrón...'
 sku: 'B07B94NCB7-es'
 tags: [  ]

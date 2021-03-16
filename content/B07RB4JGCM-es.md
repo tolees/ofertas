@@ -5,7 +5,7 @@ date: 2020-01-11 21:01:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31jaFn8I6OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB4JGCM-es Bombilla de maíz de cerámica lámpara de ahorro de energía...'
 sku: 'B07RB4JGCM-es'
 tags: [  ]

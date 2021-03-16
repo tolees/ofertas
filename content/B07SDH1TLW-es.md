@@ -5,7 +5,7 @@ date: 2020-01-18 09:56:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41t3U1-MfwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDH1TLW-es adidas I Lin Jogg FL Tracksuit Unisex niños Real...'
 sku: 'B07SDH1TLW-es'
 tags: [  ]

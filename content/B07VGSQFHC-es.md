@@ -5,7 +5,7 @@ date: 2020-07-16 04:21:20
 image: 'https://m.media-amazon.com/images/I/31zwpubywwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGSQFHC-es Vans Atwood Canvas Zapatillas para Hombre Multicolor Otw...'
 sku: 'B07VGSQFHC-es'
 tags: [  ]

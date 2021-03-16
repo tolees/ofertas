@@ -5,7 +5,7 @@ date: 2020-09-11 09:15:12
 image: 'https://m.media-amazon.com/images/I/51Ggog49K0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081F8YZP6-es The Glenrothes 18 años Single Malt Scotch Whisky 43% +...'
 sku: 'B081F8YZP6-es'
 tags: [  ]

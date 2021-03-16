@@ -5,7 +5,7 @@ date: 2020-01-29 12:14:41
 image: 'https://m.media-amazon.com/images/I/41oeCR8IPLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HMNLRMB-es Skechers Men s Heston-ROGIC Oxfords Grey Grey Gry 9.5 44 EU'
 sku: 'B07HMNLRMB-es'
 tags: [  ]

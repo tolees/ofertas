@@ -5,7 +5,7 @@ date: 2020-06-18 05:04:01
 image: 'https://m.media-amazon.com/images/I/31oReIYzhwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XMVU2W-es DIM Generous Sujetador Blanco 100E para Mujer'
 sku: 'B005XMVU2W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 21:09:58
 image: 'https://m.media-amazon.com/images/I/61ftosvJi2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08258XNZN-es Baker Ross Kits de Costura de Madera Flores paquete de 4 -...'
 sku: 'B08258XNZN-es'
 tags: [  ]

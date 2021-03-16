@@ -5,7 +5,7 @@ date: 2020-01-03 15:00:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nMJBm4TeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3MW3KF-es GUESS Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07F3MW3KF-es'
 tags: [  ]

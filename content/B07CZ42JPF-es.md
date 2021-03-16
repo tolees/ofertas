@@ -5,7 +5,7 @@ date: 2020-07-11 23:35:47
 image: 'https://m.media-amazon.com/images/I/414tej-mVxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ42JPF-es PUMA Basket Heart Patent WN S Zapatillas para Mujer Gris...'
 sku: 'B07CZ42JPF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-09 05:31:25
 image: 'https://m.media-amazon.com/images/I/41m417uzztL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDPYPQL-es Tommy Hilfiger Longline Bra Sujetador con Push-up Rosa...'
 sku: 'B07RDPYPQL-es'
 tags: [  ]

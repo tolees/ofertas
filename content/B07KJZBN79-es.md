@@ -5,7 +5,7 @@ date: 2020-07-13 10:50:16
 image: 'https://m.media-amazon.com/images/I/51JARLqDQKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJZBN79-es Toyvian Scratch Draw 10 unids Papel de rascar Arte Scratch...'
 sku: 'B07KJZBN79-es'
 tags: [  ]

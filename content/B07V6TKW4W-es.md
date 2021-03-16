@@ -5,7 +5,7 @@ date: 2020-06-29 10:12:15
 image: 'https://m.media-amazon.com/images/I/31zko06p5LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6TKW4W-es Tommy Hilfiger Iconic Long Lace Sneaker Zapatillas para...'
 sku: 'B07V6TKW4W-es'
 tags: [  ]

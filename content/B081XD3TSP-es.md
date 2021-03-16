@@ -5,7 +5,7 @@ date: 2020-10-09 06:39:26
 image: 'https://m.media-amazon.com/images/I/51nvlczk2FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081XD3TSP-es Babaria Crema Intensiva Antimanchas Noche Dobre Efecto...'
 sku: 'B081XD3TSP-es'
 tags: [  ]

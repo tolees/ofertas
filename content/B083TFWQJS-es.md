@@ -5,7 +5,7 @@ date: 2020-08-07 12:44:02
 image: 'https://m.media-amazon.com/images/I/51P9fmKpLHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TFWQJS-es INTEY Ahuyentador de Animales 2 Piezas Ultrasonido...'
 sku: 'B083TFWQJS-es'
 tags: [  ]

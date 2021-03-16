@@ -5,7 +5,7 @@ date: 2020-09-03 15:46:07
 image: 'https://m.media-amazon.com/images/I/51AN2Dg4vIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083LRKJ5M-es XINYUNEW Funda LG K30 360 Grados Protective+Pantalla de...'
 sku: 'B083LRKJ5M-es'
 tags: [  ]

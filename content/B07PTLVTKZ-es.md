@@ -5,7 +5,7 @@ date: 2020-05-21 11:51:52
 image: 'https://m.media-amazon.com/images/I/51GD3stT-+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTLVTKZ-es Kipling City Pack Mochilas para Mujer Multicolor Navy...'
 sku: 'B07PTLVTKZ-es'
 tags: [  ]

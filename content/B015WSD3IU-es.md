@@ -5,7 +5,7 @@ date: 2020-01-08 21:58:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41H1TPcJfPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015WSD3IU-es Bourjois Boite Ronde Sombra de ojos Tono 4 Emauvante - 18 gr.'
 sku: 'B015WSD3IU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 17:36:01
 image: 'https://m.media-amazon.com/images/I/61zJwQ+dHzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FRX55V3-es Shadows Awakening'
 sku: 'B07FRX55V3-es'
 tags: [  ]

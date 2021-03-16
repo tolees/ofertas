@@ -5,7 +5,7 @@ date: 2020-06-16 16:01:23
 image: 'https://m.media-amazon.com/images/I/418xKHdancL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV7MVXW-es Levi s 501 Short Long Pantalones Cortos Blanco Beg Two...'
 sku: 'B07TV7MVXW-es'
 tags: [  ]

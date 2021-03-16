@@ -5,7 +5,7 @@ date: 2020-02-01 01:35:57
 image: 'https://m.media-amazon.com/images/I/41GHiyt7YyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQZQ6Z2-es Skechers Boys Bounder Trainers Blue Blue & Black...'
 sku: 'B07NQZQ6Z2-es'
 tags: [  ]

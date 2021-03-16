@@ -5,7 +5,7 @@ date: 2020-09-21 14:36:23
 image: 'https://m.media-amazon.com/images/I/41Ytv6AVKwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXBTC6G-es Candy GVSW 486T/5S - Lavasecadora 8+6Kgs NFC display...'
 sku: 'B07GXBTC6G-es'
 tags: [  ]

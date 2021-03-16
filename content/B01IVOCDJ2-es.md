@@ -5,7 +5,7 @@ date: 2020-03-13 18:42:36
 image: 'https://m.media-amazon.com/images/I/31Fm1yFtBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IVOCDJ2-es AUKEY - Lámpara de escritorio tipo LED 6 W Lámpara de...'
 sku: 'B01IVOCDJ2-es'
 tags: [  ]

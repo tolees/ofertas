@@ -5,7 +5,7 @@ date: 2020-01-15 19:27:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vcLNfLSjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WWCLH5-es Maclaren Quest - Silla de paseo para recién nacidos hasta...'
 sku: 'B078WWCLH5-es'
 tags: [  ]

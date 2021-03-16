@@ -5,7 +5,7 @@ date: 2020-04-10 08:14:46
 image: 'https://m.media-amazon.com/images/I/417asWBmazL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018BITKYO-es COMPRESSPORT Ultralight Visera Unisex Blanco Talla Única'
 sku: 'B018BITKYO-es'
 tags: [  ]

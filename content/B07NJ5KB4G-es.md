@@ -5,7 +5,7 @@ date: 2020-09-05 01:15:34
 image: 'https://m.media-amazon.com/images/I/312eb807+oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ5KB4G-es BABARIA SEMILLA DE Cannabis Gel DE BAÑO 1000ML 1L Negro...'
 sku: 'B07NJ5KB4G-es'
 tags: [  ]

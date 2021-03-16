@@ -5,7 +5,7 @@ date: 2020-09-26 08:53:16
 image: 'https://m.media-amazon.com/images/I/317Vp7uqtAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014MS0U6O-es Original Junta de Cuchillas para Thermomix TM 21/ TM 31'
 sku: 'B014MS0U6O-es'
 tags: [  ]

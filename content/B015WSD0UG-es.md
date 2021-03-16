@@ -5,7 +5,7 @@ date: 2020-03-09 06:11:02
 image: 'https://m.media-amazon.com/images/I/41q5Ry2-35L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015WSD0UG-es Bourjois Boite Ronde Sombra de ojos Tono 1 Ingénude - 17 gr.'
 sku: 'B015WSD0UG-es'
 tags: [  ]

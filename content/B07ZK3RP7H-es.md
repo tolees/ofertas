@@ -5,7 +5,7 @@ date: 2020-08-05 12:36:31
 image: 'https://m.media-amazon.com/images/I/41i-u5C54BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZK3RP7H-es Auriculares Bluetooth Inalámbricos AUSDOM AH01 Auriculares...'
 sku: 'B07ZK3RP7H-es'
 tags: [  ]

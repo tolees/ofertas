@@ -5,7 +5,7 @@ date: 2020-01-21 13:50:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xhPpeIvqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0084B1TUM-es Julius-K9 16IDC - Power Harness'
 sku: 'B0084B1TUM-es'
 tags: [  ]

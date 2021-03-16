@@ -5,7 +5,7 @@ date: 2020-01-02 19:38:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZyqGT4Q1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTL49QM-es AngLink Linterna de Buceo 2000 Lumens CREE XHP-50 LED...'
 sku: 'B07WTL49QM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-19 11:03:50
 image: 'https://m.media-amazon.com/images/I/417HwPmyusL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C3TF69L-es Cocina SolThermic F9LT50G2-I INOX PORTABOMBONA de color...'
 sku: 'B07C3TF69L-es'
 tags: [  ]

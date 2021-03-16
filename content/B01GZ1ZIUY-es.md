@@ -5,7 +5,7 @@ date: 2020-06-29 03:00:27
 image: 'https://m.media-amazon.com/images/I/3156qUus5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GZ1ZIUY-es HP Adaptador de CA de alimentación Inteligente de 90 W -...'
 sku: 'B01GZ1ZIUY-es'
 tags: [  ]

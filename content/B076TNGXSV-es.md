@@ -5,7 +5,7 @@ date: 2020-10-08 10:48:26
 image: 'https://m.media-amazon.com/images/I/41rctUfQ6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076TNGXSV-es Funko Pop!- Comics: Saga Marko W/Sword Figura de Vinilo 27414'
 sku: 'B076TNGXSV-es'
 tags: [  ]

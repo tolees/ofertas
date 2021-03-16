@@ -5,7 +5,7 @@ date: 2020-08-09 05:26:48
 image: 'https://m.media-amazon.com/images/I/41Xc8D3YIcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V44MNZM-es Pantalones de Verano de Mujer con Cintura Elástica con...'
 sku: 'B07V44MNZM-es'
 tags: [  ]

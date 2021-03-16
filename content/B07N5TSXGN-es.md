@@ -5,7 +5,7 @@ date: 2020-02-01 11:16:25
 image: 'https://m.media-amazon.com/images/I/51frOL1WyEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5TSXGN-es Calvin Klein ENFOLD CARD HOLDER WALLETMujerBolsos...'
 sku: 'B07N5TSXGN-es'
 tags: [  ]

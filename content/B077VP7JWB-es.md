@@ -5,7 +5,7 @@ date: 2020-09-23 17:32:00
 image: 'https://m.media-amazon.com/images/I/41zyV7GuVGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VP7JWB-es BaByliss C1500E – Rizador de pelo automático con Sensor...'
 sku: 'B077VP7JWB-es'
 tags: [  ]

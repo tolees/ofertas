@@ -5,7 +5,7 @@ date: 2020-02-21 04:57:15
 image: 'https://m.media-amazon.com/images/I/51RMZEXSoXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000R4LZ3A-es MediaRange MR222 CD de reescritura - CD-RW vírgenes CD-R...'
 sku: 'B000R4LZ3A-es'
 tags: [  ]

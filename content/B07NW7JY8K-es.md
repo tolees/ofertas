@@ -5,7 +5,7 @@ date: 2020-03-05 07:34:45
 image: 'https://m.media-amazon.com/images/I/31OFqDGG55L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW7JY8K-es Skechers Breathe-easy - Sole-full Zapatillas sin cordones...'
 sku: 'B07NW7JY8K-es'
 tags: [  ]

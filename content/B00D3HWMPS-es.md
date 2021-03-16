@@ -5,7 +5,7 @@ date: 2020-08-13 16:53:48
 image: 'https://m.media-amazon.com/images/I/31YhhodkssL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D3HWMPS-es VICHY IDEAL SOLEIL Leche Protectora Niños spf 50 300 ml'
 sku: 'B00D3HWMPS-es'
 tags: [  ]

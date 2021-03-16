@@ -5,7 +5,7 @@ date: 2020-08-28 12:14:17
 image: 'https://m.media-amazon.com/images/I/514Zz9+NeXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFK1J2Z-es Arkmiido Máscara de Buceo máscara de Snorkel Full Face 180...'
 sku: 'B07PFK1J2Z-es'
 tags: [  ]

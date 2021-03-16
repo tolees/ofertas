@@ -5,7 +5,7 @@ date: 2020-08-12 11:00:46
 image: 'https://m.media-amazon.com/images/I/3163z9fN8SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWJ9NLJ-es Manija de Maleta Reemplazo Perfecto para Viejos Rotos...'
 sku: 'B07DWJ9NLJ-es'
 tags: [  ]

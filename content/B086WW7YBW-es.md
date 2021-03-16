@@ -5,7 +5,7 @@ date: 2020-06-19 20:14:57
 image: 'https://m.media-amazon.com/images/I/512cFg8obLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086WW7YBW-es Soporte Movil Coche Magnético Universal Avolare N52 Iman...'
 sku: 'B086WW7YBW-es'
 tags: [  ]

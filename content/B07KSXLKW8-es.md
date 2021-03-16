@@ -5,7 +5,7 @@ date: 2020-04-07 10:32:36
 image: 'https://m.media-amazon.com/images/I/31sJFH0pQ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSXLKW8-es adidas Adilette Aqua K Zapatillas de Deporte Unisex Niños...'
 sku: 'B07KSXLKW8-es'
 tags: [  ]

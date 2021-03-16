@@ -5,7 +5,7 @@ date: 2020-06-01 17:27:59
 image: 'https://m.media-amazon.com/images/I/41MKVlNey1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000LFXHO0-es Silverline TB05 - Banco de trabajo resistente y plegable...'
 sku: 'B000LFXHO0-es'
 tags: [  ]

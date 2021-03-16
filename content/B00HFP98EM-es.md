@@ -5,7 +5,7 @@ date: 2020-01-21 15:18:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41omvWL1whL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HFP98EM-es Zwilling Twin Nova - Juego de 113 cubiertos de mesa acero...'
 sku: 'B00HFP98EM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-21 14:39:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/415Czsz1NRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFANV70-es Babymoov A012374 Doomoo Nid New Generation - Hamaca diseño...'
 sku: 'B01MFANV70-es'
 tags: [  ]

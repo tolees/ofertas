@@ -5,7 +5,7 @@ date: 2020-04-27 09:27:23
 image: 'https://m.media-amazon.com/images/I/31GZ5NEKnQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005OQ4OKW-es Hudora 71655 All Stars - Canasta de Baloncesto con Soporte'
 sku: 'B005OQ4OKW-es'
 tags: [  ]

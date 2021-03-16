@@ -5,7 +5,7 @@ date: 2020-05-10 19:16:33
 image: 'https://m.media-amazon.com/images/I/41rqUhRXtJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSKLYRQ-es Skechers Boys GRAVLEN Metro-Trek Hi-Top Trainers Black...'
 sku: 'B07TSKLYRQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-07 06:54:07
 image: 'https://m.media-amazon.com/images/I/413W989S8wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071DV7NLV-es Glighone Apliques de Pared LED 6W Lámpara de Pared...'
 sku: 'B071DV7NLV-es'
 tags: [  ]

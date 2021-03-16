@@ -5,7 +5,7 @@ date: 2020-08-29 17:55:10
 image: 'https://m.media-amazon.com/images/I/51bsBpa4H4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005E0DKN0-es Techair TAN1204V2 - Maletín para portátil de 14.1" Negro'
 sku: 'B005E0DKN0-es'
 tags: [  ]

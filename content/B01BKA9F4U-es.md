@@ -5,7 +5,7 @@ date: 2020-04-01 15:06:41
 image: 'https://m.media-amazon.com/images/I/41e0rAAjOXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BKA9F4U-es Festina Reloj Analógico para Unisex de Cuarzo con Correa...'
 sku: 'B01BKA9F4U-es'
 tags: [  ]

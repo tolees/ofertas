@@ -5,7 +5,7 @@ date: 2020-08-07 21:58:45
 image: 'https://m.media-amazon.com/images/I/61Qe6enTqZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CZ6U6LA-es Fablon Fine Décor Rollo de plástico Adhesivo 45 x 200 cm...'
 sku: 'B00CZ6U6LA-es'
 tags: [  ]

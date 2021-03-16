@@ -5,7 +5,7 @@ date: 2020-01-02 21:06:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/511VQ3%2BIklL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0039NZTII-es Anita Active Momentum - Sujetador deportivo para mujer...'
 sku: 'B0039NZTII-es'
 tags: [  ]

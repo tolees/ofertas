@@ -5,7 +5,7 @@ date: 2020-10-03 19:13:07
 image: 'https://m.media-amazon.com/images/I/514BOq-CrDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6F8ZR9-es Correa Apple Watch Correa Compatible con Apple Watch 44 mm...'
 sku: 'B08D6F8ZR9-es'
 tags: [  ]

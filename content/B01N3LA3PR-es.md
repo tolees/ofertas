@@ -5,7 +5,7 @@ date: 2020-10-01 06:57:14
 image: 'https://m.media-amazon.com/images/I/51d-xkKqq4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3LA3PR-es The Prisioner El prisionero [DVD]'
 sku: 'B01N3LA3PR-es'
 tags: [  ]

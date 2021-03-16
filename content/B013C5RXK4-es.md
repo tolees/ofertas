@@ -5,7 +5,7 @@ date: 2020-07-22 16:59:26
 image: 'https://m.media-amazon.com/images/I/41zM2LkX6dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013C5RXK4-es Bolero Bebida Instantánea sin Azúcar Sabor Limón - Paquete...'
 sku: 'B013C5RXK4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 09:11:42
 image: 'https://m.media-amazon.com/images/I/51dpJxJeX5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084F9YC5H-es Avoalre Organizador de Bolsos de Fieltro Mujer Organizador...'
 sku: 'B084F9YC5H-es'
 tags: [  ]

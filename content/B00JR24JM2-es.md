@@ -5,7 +5,7 @@ date: 2020-05-25 09:12:17
 image: 'https://m.media-amazon.com/images/I/41Xdo2yPnHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JR24JM2-es Ghd 60950 - Cepillo de pelo'
 sku: 'B00JR24JM2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-16 20:11:31
 image: 'https://m.media-amazon.com/images/I/41mJaOoeeSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUFKO6O-es Mr. Wonderful Vela lata con mensaje "Cuando te veo ¡me...'
 sku: 'B01MUFKO6O-es'
 tags: [  ]

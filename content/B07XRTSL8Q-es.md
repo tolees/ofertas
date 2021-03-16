@@ -5,7 +5,7 @@ date: 2020-10-11 14:25:36
 image: 'https://m.media-amazon.com/images/I/41jx4D-or+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRTSL8Q-es Anpro - Micrófono de condensador USB con cable USB de 1 8...'
 sku: 'B07XRTSL8Q-es'
 tags: [  ]

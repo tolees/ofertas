@@ -5,7 +5,7 @@ date: 2020-02-26 17:22:18
 image: 'https://m.media-amazon.com/images/I/61FR8lj5pvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JRGWGG6-es LeYi Funda Xiaomi Redmi Note 6 Pro Silicona Purpurina...'
 sku: 'B07JRGWGG6-es'
 tags: [  ]

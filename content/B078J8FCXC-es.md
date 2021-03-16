@@ -5,7 +5,7 @@ date: 2020-04-14 00:21:14
 image: 'https://m.media-amazon.com/images/I/41Av+bctjpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078J8FCXC-es MOISO Plantillas ortopédicas con soporte de arco cojín de...'
 sku: 'B078J8FCXC-es'
 tags: [  ]

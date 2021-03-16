@@ -5,7 +5,7 @@ date: 2020-07-23 13:47:18
 image: 'https://m.media-amazon.com/images/I/41c7UkZRWKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NS7CHG9-es Marco Tozzi 2-2-25112-33 Botas Chukka para Mujer Beige...'
 sku: 'B07NS7CHG9-es'
 tags: [  ]

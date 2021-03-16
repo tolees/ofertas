@@ -5,7 +5,7 @@ date: 2020-05-31 18:18:53
 image: 'https://m.media-amazon.com/images/I/31ROT2SqIBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q7L6KF1-es Sally Hansen Airbrush Legs Maquillaje para piernas Spray...'
 sku: 'B07Q7L6KF1-es'
 tags: [  ]

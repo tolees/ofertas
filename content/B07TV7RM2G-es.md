@@ -5,7 +5,7 @@ date: 2020-06-23 21:05:37
 image: 'https://m.media-amazon.com/images/I/41XWnp5TPqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV7RM2G-es Cat Footwear Quadrate Botas Clasicas para Hombre Gris...'
 sku: 'B07TV7RM2G-es'
 tags: [  ]

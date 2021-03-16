@@ -5,7 +5,7 @@ date: 2020-06-22 11:12:54
 image: 'https://m.media-amazon.com/images/I/412rKCttOmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HF49WWG-es Timex Expédition Scout - Reloj análogico de cuarzo con...'
 sku: 'B00HF49WWG-es'
 tags: [  ]

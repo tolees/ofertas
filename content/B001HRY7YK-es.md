@@ -5,7 +5,7 @@ date: 2020-04-03 21:53:12
 image: 'https://m.media-amazon.com/images/I/41YIajbosFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001HRY7YK-es Converse 015860_Blanc optical - Zapatillas de tela para...'
 sku: 'B001HRY7YK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 21:38:51
 image: 'https://m.media-amazon.com/images/I/41pVj-w0uSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VT7J7DH-es EDIMAX RG21S INALAMBRICO ENRUTADOR AC2600 2.4/5 GHz Dual...'
 sku: 'B06VT7J7DH-es'
 tags: [  ]

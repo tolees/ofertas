@@ -5,7 +5,7 @@ date: 2020-06-15 19:01:47
 image: 'https://m.media-amazon.com/images/I/51swRsE8pUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9WX15J-es Funda compatible con iPhone XR mármol flexible de silicona...'
 sku: 'B07Z9WX15J-es'
 tags: [  ]

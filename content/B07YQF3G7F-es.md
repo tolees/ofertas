@@ -5,7 +5,7 @@ date: 2020-08-08 08:40:30
 image: 'https://m.media-amazon.com/images/I/51zfFycc3uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQF3G7F-es Almirón Galletitas sin gluten a partir de los 4 meses 180g'
 sku: 'B07YQF3G7F-es'
 tags: [  ]

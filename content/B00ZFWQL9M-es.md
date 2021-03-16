@@ -5,7 +5,7 @@ date: 2020-09-27 08:39:55
 image: 'https://m.media-amazon.com/images/I/41emHevewAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZFWQL9M-es Flower 10723 Abono líquido orquídeas'
 sku: 'B00ZFWQL9M-es'
 tags: [  ]

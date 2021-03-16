@@ -5,7 +5,7 @@ date: 2020-06-01 06:50:55
 image: 'https://m.media-amazon.com/images/I/61I6Lgl4qhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0822VNMFM-es MRSTER Funda Compatible con Xiaomi Redmi Note 8 3D Brillos...'
 sku: 'B0822VNMFM-es'
 tags: [  ]

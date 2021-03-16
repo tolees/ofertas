@@ -5,7 +5,7 @@ date: 2020-03-26 18:27:53
 image: 'https://m.media-amazon.com/images/I/51Jmkkg5ulL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQM75MH-es ONEVER Bolsa De Bloqueo De Señal GPS RFID Faraday Bolsa De...'
 sku: 'B07BQM75MH-es'
 tags: [  ]

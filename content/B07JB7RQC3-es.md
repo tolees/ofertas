@@ -5,7 +5,7 @@ date: 2020-01-08 19:52:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PZLlfaTpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JB7RQC3-es Mustriend Tocadiscos de Madera 33/45/78 Velocidad con...'
 sku: 'B07JB7RQC3-es'
 tags: [  ]

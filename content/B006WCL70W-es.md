@@ -5,7 +5,7 @@ date: 2020-04-02 09:21:39
 image: 'https://m.media-amazon.com/images/I/41uYjd1yOQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006WCL70W-es Grohe Eurocube - Parte exterior llave de paso Color cromo...'
 sku: 'B006WCL70W-es'
 tags: [  ]

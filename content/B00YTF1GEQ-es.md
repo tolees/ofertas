@@ -5,7 +5,7 @@ date: 2020-06-03 02:52:48
 image: 'https://m.media-amazon.com/images/I/31BgxDdwqFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YTF1GEQ-es We R Memory Keepers 1-2-3 Punch Board Blanco 1 Pack'
 sku: 'B00YTF1GEQ-es'
 tags: [  ]

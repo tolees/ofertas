@@ -5,7 +5,7 @@ date: 2020-09-18 10:12:36
 image: 'https://m.media-amazon.com/images/I/51SCrRUi-NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FCBRKR-es Zapatillas de Running para Unisex Niños Gimnasia Ligero...'
 sku: 'B083FCBRKR-es'
 tags: [  ]

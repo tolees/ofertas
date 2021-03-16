@@ -5,7 +5,7 @@ date: 2020-03-07 08:47:01
 image: 'https://m.media-amazon.com/images/I/41xBaRm61XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZT2R7LC-es Redpawz R13 LED RTF Drone Para Niños RC Quadcopter con...'
 sku: 'B07ZT2R7LC-es'
 tags: [  ]

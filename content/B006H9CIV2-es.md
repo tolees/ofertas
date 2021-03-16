@@ -5,7 +5,7 @@ date: 2020-01-01 02:54:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GngXjMY7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006H9CIV2-es Clinique 36567 - Gel de ducha'
 sku: 'B006H9CIV2-es'
 tags: [  ]

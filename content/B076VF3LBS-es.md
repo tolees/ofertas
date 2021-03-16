@@ -5,7 +5,7 @@ date: 2020-05-12 09:10:41
 image: 'https://m.media-amazon.com/images/I/51NgHCXJsbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VF3LBS-es Smatree Estación de Carga de Baterías Múltiple para dji...'
 sku: 'B076VF3LBS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-01 19:01:00
 image: 'https://m.media-amazon.com/images/I/41sSUdXfdwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LSCCHV-es PU Funda de Cuero para teléfono Riñonera Cinturón Clip...'
 sku: 'B088LSCCHV-es'
 tags: [  ]

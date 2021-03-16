@@ -5,7 +5,7 @@ date: 2020-09-03 08:15:54
 image: 'https://m.media-amazon.com/images/I/51qxXgHn6KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079YYW8KD-es Flipping Death - Edición Estándar'
 sku: 'B079YYW8KD-es'
 tags: [  ]

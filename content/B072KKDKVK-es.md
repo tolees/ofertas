@@ -5,7 +5,7 @@ date: 2020-05-26 13:59:47
 image: 'https://m.media-amazon.com/images/I/41WXry0eY2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KKDKVK-es Vibram Fivefingers KSO EVO Zapatillas de Deporte para...'
 sku: 'B072KKDKVK-es'
 tags: [  ]

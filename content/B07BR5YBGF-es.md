@@ -5,7 +5,7 @@ date: 2020-02-16 23:20:37
 image: 'https://m.media-amazon.com/images/I/41QcJXoyCtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BR5YBGF-es L Oreal Paris Colorista Hair Make Up Red'
 sku: 'B07BR5YBGF-es'
 tags: [  ]

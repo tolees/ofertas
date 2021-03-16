@@ -5,7 +5,7 @@ date: 2020-04-14 00:16:37
 image: 'https://m.media-amazon.com/images/I/31lF+SGaR2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWN9ST5-es NNJXD Partido del Unicornio Flor de Las Muchachas del...'
 sku: 'B07GWN9ST5-es'
 tags: [  ]

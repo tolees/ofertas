@@ -5,7 +5,7 @@ date: 2020-05-11 17:14:23
 image: 'https://m.media-amazon.com/images/I/41ZX0NBv1AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JM4K8G1-es 78mm Interruptor de botón a prueba de agua ON/OFF- 380V...'
 sku: 'B07JM4K8G1-es'
 tags: [  ]

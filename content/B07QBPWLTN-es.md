@@ -5,7 +5,7 @@ date: 2020-02-11 14:37:10
 image: 'https://m.media-amazon.com/images/I/51huPI9OBFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QBPWLTN-es ZunBo Electroestimulador Muscular Abdominales Cinturón...'
 sku: 'B07QBPWLTN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-03 16:39:21
 image: 'https://m.media-amazon.com/images/I/31ZVr7IzfOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086HYPP5K-es Braun Hogar Minipimer 5245 - Batidora de mano 1000 W 21...'
 sku: 'B086HYPP5K-es'
 tags: [  ]

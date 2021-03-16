@@ -5,7 +5,7 @@ date: 2020-06-09 07:39:53
 image: 'https://m.media-amazon.com/images/I/51RIOQQKmxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNKKRWC-es RLTech Funda Carcasa para Teclast P80X Slim Smart Carcasa...'
 sku: 'B07YNKKRWC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-08 10:39:33
 image: 'https://m.media-amazon.com/images/I/316mMJylyUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CCJJ95V-es JACK & JONES Jjeholmen Sweat Hood Noos Capucha Hombre...'
 sku: 'B07CCJJ95V-es'
 tags: [  ]

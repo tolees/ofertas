@@ -5,7 +5,7 @@ date: 2020-08-23 17:51:09
 image: 'https://m.media-amazon.com/images/I/31HC0N0Lq2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L8CTW44-es Revlon ColorStay Gel Envy Esmalte de Uñas de Larga...'
 sku: 'B00L8CTW44-es'
 tags: [  ]

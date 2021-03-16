@@ -5,7 +5,7 @@ date: 2020-06-11 05:10:00
 image: 'https://m.media-amazon.com/images/I/31rSqE-i6tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFRKNLP-es PUMA Essential TR Cl Pantalones de Chándal Mujer Gris...'
 sku: 'B07DFRKNLP-es'
 tags: [  ]

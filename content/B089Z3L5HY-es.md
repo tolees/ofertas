@@ -5,7 +5,7 @@ date: 2020-08-25 08:11:56
 image: 'https://m.media-amazon.com/images/I/41S4yvAbGzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089Z3L5HY-es Nightmare Boy - Mongano´s Edition'
 sku: 'B089Z3L5HY-es'
 tags: [  ]

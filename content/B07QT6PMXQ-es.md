@@ -5,7 +5,7 @@ date: 2020-01-26 04:35:35
 image: 'https://m.media-amazon.com/images/I/41QLHvlnqFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QT6PMXQ-es Asics Gel-Kayano 26 LS Zapatillas de Running para Hombre...'
 sku: 'B07QT6PMXQ-es'
 tags: [  ]

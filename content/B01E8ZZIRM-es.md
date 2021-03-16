@@ -5,7 +5,7 @@ date: 2020-01-18 19:09:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VtL2LVLvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E8ZZIRM-es G-STAR RAW 3301 Low Waist Super Skinny Jeans Ajustados...'
 sku: 'B01E8ZZIRM-es'
 tags: [  ]

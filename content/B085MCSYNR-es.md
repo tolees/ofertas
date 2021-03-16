@@ -5,7 +5,7 @@ date: 2020-04-26 10:04:07
 image: 'https://m.media-amazon.com/images/I/41SS0IB603L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085MCSYNR-es Agger Silicona Biberón Botella de alimentación a Prueba de...'
 sku: 'B085MCSYNR-es'
 tags: [  ]

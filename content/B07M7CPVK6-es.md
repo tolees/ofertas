@@ -5,7 +5,7 @@ date: 2020-01-28 17:53:40
 image: 'https://m.media-amazon.com/images/I/41OJQDyXUBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7CPVK6-es Skechers Dynamight 2.0- Rayhill Men s Trainers Black...'
 sku: 'B07M7CPVK6-es'
 tags: [  ]

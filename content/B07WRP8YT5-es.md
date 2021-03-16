@@ -5,7 +5,7 @@ date: 2020-07-16 10:54:28
 image: 'https://m.media-amazon.com/images/I/51nGEflUlgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRP8YT5-es Abody 5-en-1 Rizador de Pelo Profesional Rizador y...'
 sku: 'B07WRP8YT5-es'
 tags: [  ]

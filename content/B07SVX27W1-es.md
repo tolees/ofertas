@@ -5,7 +5,7 @@ date: 2020-07-15 18:58:54
 image: 'https://m.media-amazon.com/images/I/41UhgJbHbjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVX27W1-es ORICO Funda para Disco Duro con Asa Impermeable Resistente...'
 sku: 'B07SVX27W1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-27 09:32:04
 image: 'https://m.media-amazon.com/images/I/41KGWb7hqPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MR2X4DG-es Fashion·LIFE Plancha De Vapor de Mano para Ropa Plancha...'
 sku: 'B07MR2X4DG-es'
 tags: [  ]

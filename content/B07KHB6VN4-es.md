@@ -5,7 +5,7 @@ date: 2020-03-15 15:16:42
 image: 'https://m.media-amazon.com/images/I/41XO19LOJLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KHB6VN4-es Auriculares Bluetooth Deportivos Syllable D15 Auriculares...'
 sku: 'B07KHB6VN4-es'
 tags: [  ]

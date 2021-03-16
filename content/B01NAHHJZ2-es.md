@@ -5,7 +5,7 @@ date: 2020-04-30 18:03:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41E0sTYl-5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAHHJZ2-es find. 17AMZ025 camisetas mujer fiesta Rosa Old Rose 42...'
 sku: 'B01NAHHJZ2-es'
 tags: [  ]

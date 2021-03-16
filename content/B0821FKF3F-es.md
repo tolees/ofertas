@@ -5,7 +5,7 @@ date: 2020-07-19 22:02:51
 image: 'https://m.media-amazon.com/images/I/41Ql3mA32PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0821FKF3F-es SMARTOMI - 2 cartucho de tóner negro de alto rendimiento...'
 sku: 'B0821FKF3F-es'
 tags: [  ]

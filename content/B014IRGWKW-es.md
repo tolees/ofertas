@@ -5,7 +5,7 @@ date: 2020-10-09 01:44:54
 image: 'https://m.media-amazon.com/images/I/51MXJyB2YtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014IRGWKW-es Emporio Armani Reloj Esqueleto para Hombre de Automático...'
 sku: 'B014IRGWKW-es'
 tags: [  ]

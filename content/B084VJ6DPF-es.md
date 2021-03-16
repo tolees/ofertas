@@ -5,7 +5,7 @@ date: 2020-07-04 23:46:55
 image: 'https://m.media-amazon.com/images/I/41Otgk21uBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084VJ6DPF-es Mesa de cama para ordenador portátil escritorio de regazo...'
 sku: 'B084VJ6DPF-es'
 tags: [  ]

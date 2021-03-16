@@ -5,7 +5,7 @@ date: 2020-06-04 01:03:17
 image: 'https://m.media-amazon.com/images/I/51bF-522hSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0050IG9DE-es STANLEY 1-96-181 - Cinturón portaherramientas'
 sku: 'B0050IG9DE-es'
 tags: [  ]

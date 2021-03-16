@@ -5,7 +5,7 @@ date: 2020-04-21 08:07:36
 image: 'https://m.media-amazon.com/images/I/41klOY-hg+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQNIY77-es Pioneer SE-MS5T-R - Auriculares de tipo diadema HiRes...'
 sku: 'B01MQNIY77-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 19:42:15
 image: 'https://m.media-amazon.com/images/I/41Eym27LNKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0012RW0VC-es Bosch Professional GLI 12V-80 - Linterna a batería sin...'
 sku: 'B0012RW0VC-es'
 tags: [  ]

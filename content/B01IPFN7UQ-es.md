@@ -5,7 +5,7 @@ date: 2020-04-06 21:07:30
 image: 'https://m.media-amazon.com/images/I/514Qr96mDlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IPFN7UQ-es ASUS DUAL-GTX1060-O6G - Tarjeta gráfica Dual NVIDIA...'
 sku: 'B01IPFN7UQ-es'
 tags: [  ]

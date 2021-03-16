@@ -5,7 +5,7 @@ date: 2020-06-02 19:51:03
 image: 'https://m.media-amazon.com/images/I/414OfkzmnFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDWKV4R-es Trswyop Batería Externa para Móvil 25800mAh【Colorido...'
 sku: 'B07VDWKV4R-es'
 tags: [  ]

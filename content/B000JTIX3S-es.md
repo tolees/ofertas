@@ -5,7 +5,7 @@ date: 2020-09-30 16:19:35
 image: 'https://m.media-amazon.com/images/I/41uaevSXixL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000JTIX3S-es MASTER LOCK Caja fuerte para llaves [Mediana] [Montaje...'
 sku: 'B000JTIX3S-es'
 tags: [  ]

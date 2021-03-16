@@ -5,7 +5,7 @@ date: 2020-02-15 17:02:29
 image: 'https://m.media-amazon.com/images/I/41I-zSXAomL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRH4KSQ-es SYOSS - Champú Rizos Pro - Definición e Hidratación - 3...'
 sku: 'B07NRH4KSQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-07 15:27:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IrgesH-xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IX0OVNK-es Triumph Modern Posy W Sujetador para Mujer Beige Neutral...'
 sku: 'B01IX0OVNK-es'
 tags: [  ]

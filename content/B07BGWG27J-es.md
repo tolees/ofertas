@@ -5,7 +5,7 @@ date: 2020-02-03 19:10:54
 image: 'https://m.media-amazon.com/images/I/317r4QzlTDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGWG27J-es Balay 3CG5172B0 Integrado - Microondas integrable /...'
 sku: 'B07BGWG27J-es'
 tags: [  ]

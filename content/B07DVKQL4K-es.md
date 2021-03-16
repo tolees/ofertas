@@ -5,7 +5,7 @@ date: 2020-03-23 12:11:47
 image: 'https://m.media-amazon.com/images/I/41JfqUDh59L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVKQL4K-es New Balance Rubix Zapatillas de Running para Mujer Blanc...'
 sku: 'B07DVKQL4K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 18:43:04
 image: 'https://m.media-amazon.com/images/I/41jZfKoym-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWNG32Q-es Under Armour Unstoppable Essential Bomber Parte Superior...'
 sku: 'B07QWNG32Q-es'
 tags: [  ]

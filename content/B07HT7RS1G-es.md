@@ -5,7 +5,7 @@ date: 2020-04-03 12:41:09
 image: 'https://m.media-amazon.com/images/I/51uBzI95+iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HT7RS1G-es VGROUND LED Linterna XML T6 Portátil e Impermeable...'
 sku: 'B07HT7RS1G-es'
 tags: [  ]

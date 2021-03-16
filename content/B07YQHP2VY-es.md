@@ -5,7 +5,7 @@ date: 2020-08-19 10:12:49
 image: 'https://m.media-amazon.com/images/I/41lCCmn7mlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQHP2VY-es Nike Court Borough Low 2 Sneaker Boys Black/Black-Black 30 EU'
 sku: 'B07YQHP2VY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-26 19:48:28
 image: 'https://m.media-amazon.com/images/I/21AbH70D60L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9M8M1M-es RECCI Breeze Almohada de Fibra 40x80 cm Altura Ajustable...'
 sku: 'B07L9M8M1M-es'
 tags: [  ]

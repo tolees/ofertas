@@ -5,7 +5,7 @@ date: 2020-04-12 06:03:17
 image: 'https://m.media-amazon.com/images/I/41HqYb-sjRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2N3TT9-es PUMA Axis Zapatillas Unisex Adulto White High Rise 41 EU'
 sku: 'B07F2N3TT9-es'
 tags: [  ]

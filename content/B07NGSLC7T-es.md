@@ -5,7 +5,7 @@ date: 2020-01-08 12:38:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kMK-UIM0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGSLC7T-es MEDION Ultrafino S6445 - Ordenador portátil de 15.6" Full...'
 sku: 'B07NGSLC7T-es'
 tags: [  ]

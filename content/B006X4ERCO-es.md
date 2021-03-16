@@ -5,7 +5,7 @@ date: 2020-04-17 16:32:52
 image: 'https://m.media-amazon.com/images/I/41u7anIh2SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006X4ERCO-es Dickies Men s No-Scratch Mechanic Belt Black Small'
 sku: 'B006X4ERCO-es'
 tags: [  ]

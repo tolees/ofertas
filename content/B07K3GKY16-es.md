@@ -5,7 +5,7 @@ date: 2020-09-10 21:53:31
 image: 'https://m.media-amazon.com/images/I/41R8RqxRl4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K3GKY16-es SteelSeries Apex M750 - Teclado para Juegos mecánico -...'
 sku: 'B07K3GKY16-es'
 tags: [  ]

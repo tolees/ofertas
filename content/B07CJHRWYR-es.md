@@ -5,7 +5,7 @@ date: 2020-09-09 12:53:31
 image: 'https://m.media-amazon.com/images/I/41OYL0CozWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJHRWYR-es Calvin Klein Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07CJHRWYR-es'
 tags: [  ]

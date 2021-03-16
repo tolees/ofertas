@@ -5,7 +5,7 @@ date: 2020-03-31 11:32:30
 image: 'https://m.media-amazon.com/images/I/41teeyVcshL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNN3DX4-es BONTEC Smart Plug WiFi Outlet Mini Interruptor de conexión...'
 sku: 'B07PNN3DX4-es'
 tags: [  ]

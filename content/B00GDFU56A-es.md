@@ -5,7 +5,7 @@ date: 2020-08-08 12:16:19
 image: 'https://m.media-amazon.com/images/I/41AMxl00INL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GDFU56A-es Makita HP457DWE - Taladro Percutor A Bateria 18V Litio-Ion...'
 sku: 'B00GDFU56A-es'
 tags: [  ]

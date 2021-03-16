@@ -5,7 +5,7 @@ date: 2020-08-14 18:38:26
 image: 'https://m.media-amazon.com/images/I/41Qq64K6UCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8PGY23-es Huawei Y6 2019 - Smartphone de 6.09" RAM de 2GB Memoria de...'
 sku: 'B07N8PGY23-es'
 tags: [  ]

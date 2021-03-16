@@ -5,7 +5,7 @@ date: 2020-08-04 14:00:53
 image: 'https://m.media-amazon.com/images/I/3110qxBwDeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQEM6OU-es Intex 28602 - Depuradora cartucho tipo H Krystal Clear...'
 sku: 'B01MQEM6OU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 10:37:36
 image: 'https://m.media-amazon.com/images/I/31X+7puvFJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8Z1R3R-es Tommy Jeans Retro Flag Sneaker Zapatillas para Hombre...'
 sku: 'B07D8Z1R3R-es'
 tags: [  ]

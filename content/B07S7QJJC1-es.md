@@ -5,7 +5,7 @@ date: 2020-06-25 14:07:27
 image: 'https://m.media-amazon.com/images/I/41zBo1ICC9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QJJC1-es PUMA Cell Ultimate Point Zapatillas de Running para Hombre...'
 sku: 'B07S7QJJC1-es'
 tags: [  ]

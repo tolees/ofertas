@@ -5,7 +5,7 @@ date: 2020-07-08 16:39:06
 image: 'https://m.media-amazon.com/images/I/41+BYb8iCVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B1PYPGH-es Cámara de Conferencia USB sin Disco con micrófono HD...'
 sku: 'B08B1PYPGH-es'
 tags: [  ]

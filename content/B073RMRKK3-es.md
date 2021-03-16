@@ -5,7 +5,7 @@ date: 2020-09-24 08:24:27
 image: 'https://m.media-amazon.com/images/I/41crcX-JQfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RMRKK3-es Silver HT - Funda para eReader Libro electrónico eBook de...'
 sku: 'B073RMRKK3-es'
 tags: [  ]

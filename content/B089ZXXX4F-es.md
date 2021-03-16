@@ -5,7 +5,7 @@ date: 2020-09-06 09:42:37
 image: 'https://m.media-amazon.com/images/I/41jLsY6nP-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089ZXXX4F-es FFP2 Mascarilla protectora 5 capas de mascarilla filtrante...'
 sku: 'B089ZXXX4F-es'
 tags: [  ]

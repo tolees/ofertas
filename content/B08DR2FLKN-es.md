@@ -5,7 +5,7 @@ date: 2020-08-21 03:44:11
 image: 'https://m.media-amazon.com/images/I/41er6Vc5YAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DR2FLKN-es X-Crystal Mini Ventilador de Aire Acondicionado portátil...'
 sku: 'B08DR2FLKN-es'
 tags: [  ]

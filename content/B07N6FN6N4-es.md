@@ -5,7 +5,7 @@ date: 2020-03-05 17:56:52
 image: 'https://m.media-amazon.com/images/I/5156I-PIqgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6FN6N4-es MyGel by Mylee - Esmalte de uñas en gel de 4 x 10 ml...'
 sku: 'B07N6FN6N4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 06:30:54
 image: 'https://m.media-amazon.com/images/I/513-fW88iQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSPVVDR-es PowerBar Protein Plus 52% Chocolate Nut 20x50g - Barras de...'
 sku: 'B07BSPVVDR-es'
 tags: [  ]

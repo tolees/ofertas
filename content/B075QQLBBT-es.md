@@ -5,7 +5,7 @@ date: 2020-02-01 12:09:12
 image: 'https://m.media-amazon.com/images/I/412sQ+kSx4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QQLBBT-es GORE WEAR C3 Cubrezapato para ciclismo unisex Partial GORE...'
 sku: 'B075QQLBBT-es'
 tags: [  ]

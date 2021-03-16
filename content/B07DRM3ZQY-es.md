@@ -5,7 +5,7 @@ date: 2020-06-02 21:33:07
 image: 'https://m.media-amazon.com/images/I/41P+Po6Yp-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRM3ZQY-es Kipling ART M Bolsa de tela y playa 58 cm 26 liters Negro...'
 sku: 'B07DRM3ZQY-es'
 tags: [  ]

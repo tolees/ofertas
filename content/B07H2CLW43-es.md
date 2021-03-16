@@ -5,7 +5,7 @@ date: 2020-03-13 10:52:23
 image: 'https://m.media-amazon.com/images/I/31RSmDwC3zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2CLW43-es Joma Combi Camisetas Equip. M/C Hombre Burdeos'
 sku: 'B07H2CLW43-es'
 tags: [  ]

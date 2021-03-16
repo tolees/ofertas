@@ -5,7 +5,7 @@ date: 2020-01-29 20:33:54
 image: 'https://m.media-amazon.com/images/I/31btgZYL5aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BHMT3K-es BOSS Prime Polo Negro Black 1 XXX-Large para Hombre'
 sku: 'B078BHMT3K-es'
 tags: [  ]

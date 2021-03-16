@@ -5,7 +5,7 @@ date: 2020-08-08 06:05:35
 image: 'https://m.media-amazon.com/images/I/31G4cVMLDoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QSYWGZ-es Fesjoy V-111 Altavoz de computadora Cableado USB Barra...'
 sku: 'B086QSYWGZ-es'
 tags: [  ]

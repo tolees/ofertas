@@ -5,7 +5,7 @@ date: 2020-08-24 13:31:22
 image: 'https://m.media-amazon.com/images/I/51gUYfcutkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085DMQ8CG-es Crema anticelulítica crema anticelulítica crema de masaje...'
 sku: 'B085DMQ8CG-es'
 tags: [  ]

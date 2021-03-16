@@ -5,7 +5,7 @@ date: 2020-08-16 21:53:54
 image: 'https://m.media-amazon.com/images/I/41bBu9veTGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQ4BM0K-es Razer Goliathus Control Fissure Medium - Suave alfombrilla...'
 sku: 'B01LQ4BM0K-es'
 tags: [  ]

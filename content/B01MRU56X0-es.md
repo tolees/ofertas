@@ -5,7 +5,7 @@ date: 2020-08-13 07:01:22
 image: 'https://m.media-amazon.com/images/I/31THwHDsdSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRU56X0-es B+W XS-Pro - Filtro Densidad Neutra ND 1.8 806 Nano 77 mm'
 sku: 'B01MRU56X0-es'
 tags: [  ]

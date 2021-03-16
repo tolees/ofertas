@@ -5,7 +5,7 @@ date: 2020-06-30 21:30:41
 image: 'https://m.media-amazon.com/images/I/412xeiOaS4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJJ6L39-es Targus Pulse - Funda para tabletas de 15.6" Color Negro y...'
 sku: 'B06XJJ6L39-es'
 tags: [  ]

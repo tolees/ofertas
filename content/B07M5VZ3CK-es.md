@@ -5,7 +5,7 @@ date: 2020-02-14 21:55:34
 image: 'https://m.media-amazon.com/images/I/51Ra30X3K7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5VZ3CK-es Micoke Cámara de Caza 16MP 1080P IP65 Impermeable 36 LED...'
 sku: 'B07M5VZ3CK-es'
 tags: [  ]

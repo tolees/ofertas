@@ -5,7 +5,7 @@ date: 2020-01-13 10:10:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zedJuG2eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSR7IV5-es Aigle B. Flac Botas de Agua Unisex Niños Rosa Guimauve 21 EU'
 sku: 'B01MSR7IV5-es'
 tags: [  ]

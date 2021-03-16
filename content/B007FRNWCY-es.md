@@ -5,7 +5,7 @@ date: 2020-09-13 08:06:26
 image: 'https://m.media-amazon.com/images/I/41mav9CI3JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007FRNWCY-es L oreal paris - Sublime loción autobronceadora tono medio...'
 sku: 'B007FRNWCY-es'
 tags: [  ]

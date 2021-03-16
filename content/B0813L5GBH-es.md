@@ -5,7 +5,7 @@ date: 2020-04-14 00:18:05
 image: 'https://m.media-amazon.com/images/I/41xFyth3gwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813L5GBH-es Rytaki Surface Pro Cargador 15V 2.58A 44W Surface Pro...'
 sku: 'B0813L5GBH-es'
 tags: [  ]

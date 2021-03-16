@@ -5,7 +5,7 @@ date: 2020-07-16 00:39:42
 image: 'https://m.media-amazon.com/images/I/41C-vj5dPGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HX4L1X-es Monix Siena - Set de cubiertos de 24 piezas con cuchillo...'
 sku: 'B078HX4L1X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-05 05:21:10
 image: 'https://m.media-amazon.com/images/I/31I+Y7L8wPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MM4F33N-es Aussie Acondicionador de pelo - 6 de 75 ml. Total: 450 ml.'
 sku: 'B07MM4F33N-es'
 tags: [  ]

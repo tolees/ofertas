@@ -5,7 +5,7 @@ date: 2020-02-03 08:16:10
 image: 'https://m.media-amazon.com/images/I/41kj8yaG2GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I0WAS1K-es ENKEEO - 2 pcs Bastones Trekking Fibra de Carbono Duradero...'
 sku: 'B01I0WAS1K-es'
 tags: [  ]

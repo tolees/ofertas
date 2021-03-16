@@ -5,7 +5,7 @@ date: 2020-06-30 16:26:15
 image: 'https://m.media-amazon.com/images/I/41aTWghMeML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXSPR2C-es Terry White Brandy Blanco 36% - 700 ml'
 sku: 'B07PXSPR2C-es'
 tags: [  ]

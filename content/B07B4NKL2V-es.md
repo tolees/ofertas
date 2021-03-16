@@ -5,7 +5,7 @@ date: 2020-06-12 11:12:56
 image: 'https://m.media-amazon.com/images/I/51yI8spmq2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4NKL2V-es Passionata Georgia Sujetador con Aros Negro Schwarz 11 95D...'
 sku: 'B07B4NKL2V-es'
 tags: [  ]

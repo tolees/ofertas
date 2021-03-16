@@ -5,7 +5,7 @@ date: 2020-02-24 17:15:55
 image: 'https://m.media-amazon.com/images/I/41uRyCsPHyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRN8DYS-es Rizador de Pestañas Electrico Rizador de Pestañas Termico...'
 sku: 'B07XRN8DYS-es'
 tags: [  ]

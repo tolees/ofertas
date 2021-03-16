@@ -5,7 +5,7 @@ date: 2020-02-16 20:37:26
 image: 'https://m.media-amazon.com/images/I/51EHyls+HaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0143IIP4W-es SanDisk SDSDUNC-064G-GN6IN Ultra Tarjeta de Memoria SDXC...'
 sku: 'B0143IIP4W-es'
 tags: [  ]

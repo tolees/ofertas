@@ -5,7 +5,7 @@ date: 2020-04-09 09:41:58
 image: 'https://m.media-amazon.com/images/I/41sQ1YULRzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZ29T5N-es Superdry OL Elite Ziphood Capucha Morado Dusty Lilac De U...'
 sku: 'B07NZ29T5N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-05 06:50:17
 image: 'https://m.media-amazon.com/images/I/51OtK0L0wLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LTV2BBK-es Crucial CT102464BF186D Memoria RAM de 8 GB DDR3 1866 MT/s...'
 sku: 'B00LTV2BBK-es'
 tags: [  ]

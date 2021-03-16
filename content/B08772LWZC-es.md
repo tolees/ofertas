@@ -5,7 +5,7 @@ date: 2020-07-07 13:03:33
 image: 'https://m.media-amazon.com/images/I/31EO2rIfqsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08772LWZC-es fgdjfhsdfgsdfh Negro SFR1M44-U100K 5V 3.5 1.44MB 1000...'
 sku: 'B08772LWZC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-05 00:17:17
 image: 'https://m.media-amazon.com/images/I/51YOjlnxZOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKR8W23-es Gillette Fusion5 Power Maquinilla Afeitar 8 Recambios'
 sku: 'B07ZKR8W23-es'
 tags: [  ]

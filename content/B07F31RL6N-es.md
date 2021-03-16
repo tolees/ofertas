@@ -5,7 +5,7 @@ date: 2020-03-28 15:09:51
 image: 'https://m.media-amazon.com/images/I/418wWjF1VTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F31RL6N-es Helly Hansen W Kirkwall II Raincoat Jacket Mujer Essential...'
 sku: 'B07F31RL6N-es'
 tags: [  ]

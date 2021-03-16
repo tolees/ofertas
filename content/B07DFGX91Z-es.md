@@ -5,7 +5,7 @@ date: 2020-04-29 09:43:37
 image: 'https://m.media-amazon.com/images/I/31ru1ZE6eVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFGX91Z-es Crocs LiteRide Clog Zuecosnisex Adulto Negro Black/Smoke...'
 sku: 'B07DFGX91Z-es'
 tags: [  ]

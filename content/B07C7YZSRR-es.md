@@ -5,7 +5,7 @@ date: 2020-04-20 18:07:24
 image: 'https://m.media-amazon.com/images/I/41zogcfnuPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C7YZSRR-es Ariete 4615 - Mini freidora saludable Airy sin aceite...'
 sku: 'B07C7YZSRR-es'
 tags: [  ]

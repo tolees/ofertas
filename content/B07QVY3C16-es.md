@@ -5,7 +5,7 @@ date: 2020-09-11 15:29:24
 image: 'https://m.media-amazon.com/images/I/41pNV5D2V5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVY3C16-es Espejo de Maquillaje de Doble Cara con luz LED 5X de...'
 sku: 'B07QVY3C16-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-11 13:12:10
 image: 'https://m.media-amazon.com/images/I/517-JHz36oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ5S94N-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07NJ5S94N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 04:00:08
 image: 'https://m.media-amazon.com/images/I/51Z3AeWcwaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKRVXXG-es QHOHQ Correa Metal Compatible con Xiaomi Mi Band 5...'
 sku: 'B08DKRVXXG-es'
 tags: [  ]

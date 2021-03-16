@@ -5,7 +5,7 @@ date: 2020-04-16 08:35:04
 image: 'https://m.media-amazon.com/images/I/51eut763hmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019CN3AUC-es Invero anti-vibración Universal para habitaciones...'
 sku: 'B019CN3AUC-es'
 tags: [  ]

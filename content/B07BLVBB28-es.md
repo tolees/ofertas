@@ -5,7 +5,7 @@ date: 2020-07-13 15:48:07
 image: 'https://m.media-amazon.com/images/I/41yRK5Q9NML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BLVBB28-es Bolsa/NIKE:NK ACDMY Team S MISC Marino'
 sku: 'B07BLVBB28-es'
 tags: [  ]

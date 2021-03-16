@@ -5,7 +5,7 @@ date: 2020-05-12 13:26:03
 image: 'https://m.media-amazon.com/images/I/51ASdf3p3RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015NKPVL4-es Rust-Oleum 4081303 Pintura Grafito 750 ml'
 sku: 'B015NKPVL4-es'
 tags: [  ]

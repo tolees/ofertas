@@ -5,7 +5,7 @@ date: 2020-02-19 14:19:57
 image: 'https://m.media-amazon.com/images/I/41k5haqKxEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074TC3YWH-es 1home Soporte TV con Ruedas Móvil Carro de exhibición...'
 sku: 'B074TC3YWH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 16:44:44
 image: 'https://m.media-amazon.com/images/I/31N-EzSmdZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P23BNGD-es Skechers Elite Flex Zapatillas para Hombre Negro Black...'
 sku: 'B07P23BNGD-es'
 tags: [  ]

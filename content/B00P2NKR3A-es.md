@@ -5,7 +5,7 @@ date: 2020-05-04 17:51:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41F7r4al9fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P2NKR3A-es BLACK+DECKER MT188KB - Taladro percutor y multiherramienta...'
 sku: 'B00P2NKR3A-es'
 tags: [  ]

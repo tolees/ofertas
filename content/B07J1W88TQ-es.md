@@ -5,7 +5,7 @@ date: 2020-02-04 08:50:18
 image: 'https://m.media-amazon.com/images/I/31h2Xmq8tnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J1W88TQ-es Greylags Prima Calzoncillos Retro | Boxershorts | Tubo...'
 sku: 'B07J1W88TQ-es'
 tags: [  ]

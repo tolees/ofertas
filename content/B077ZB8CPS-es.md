@@ -5,7 +5,7 @@ date: 2020-01-16 09:54:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XaT0uOZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZB8CPS-es NV Compression Race and Recover Calentadores de...'
 sku: 'B077ZB8CPS-es'
 tags: [  ]

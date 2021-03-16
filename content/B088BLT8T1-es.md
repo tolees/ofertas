@@ -5,7 +5,7 @@ date: 2020-08-15 05:23:03
 image: 'https://m.media-amazon.com/images/I/417fly-5K0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BLT8T1-es Souke Sports - Pantalones Cortos De Ciclismo para Mujer 4D...'
 sku: 'B088BLT8T1-es'
 tags: [  ]

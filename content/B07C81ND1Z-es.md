@@ -5,7 +5,7 @@ date: 2020-03-22 09:03:24
 image: 'https://m.media-amazon.com/images/I/416IgVPtzLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C81ND1Z-es Altavoz Portátil Bluetooth Muzili Altavoz Bluetooth...'
 sku: 'B07C81ND1Z-es'
 tags: [  ]

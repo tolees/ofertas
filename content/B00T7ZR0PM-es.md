@@ -5,7 +5,7 @@ date: 2020-02-10 17:06:57
 image: 'https://m.media-amazon.com/images/I/41+5RbqBd2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T7ZR0PM-es Shock Absorber Active Multi Sports Sujetador Deportivo...'
 sku: 'B00T7ZR0PM-es'
 tags: [  ]

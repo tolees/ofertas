@@ -5,7 +5,7 @@ date: 2020-01-13 19:19:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BubAtBWqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY7DSQC-es Sotech 108 Piezas Juego de Llaves de Vaso Llave de Carraca...'
 sku: 'B07NY7DSQC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 13:05:35
 image: 'https://m.media-amazon.com/images/I/41hYhaRRgtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0743CZWCP-es BOLD UNIQ by B Uniq - Champú matizador con pigmentos...'
 sku: 'B0743CZWCP-es'
 tags: [  ]

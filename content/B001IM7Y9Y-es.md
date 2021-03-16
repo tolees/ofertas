@@ -5,7 +5,7 @@ date: 2020-05-29 04:58:08
 image: 'https://m.media-amazon.com/images/I/51lhnDha6SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001IM7Y9Y-es Versele-laga A-16540 Prestige Premium Loro Peri...'
 sku: 'B001IM7Y9Y-es'
 tags: [  ]

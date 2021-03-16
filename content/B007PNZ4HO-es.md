@@ -5,7 +5,7 @@ date: 2020-01-06 10:09:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MzUph%2BjTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007PNZ4HO-es Romika Alaska 02 Botas de Nieve para Mujer Negro 39 EU'
 sku: 'B007PNZ4HO-es'
 tags: [  ]

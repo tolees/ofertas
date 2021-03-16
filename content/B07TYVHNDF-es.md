@@ -5,7 +5,7 @@ date: 2020-07-21 08:44:50
 image: 'https://m.media-amazon.com/images/I/51mxRQ6ErVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYVHNDF-es Giow Papel Pintado Thicken Square Bedroom Non-Wove Wall...'
 sku: 'B07TYVHNDF-es'
 tags: [  ]

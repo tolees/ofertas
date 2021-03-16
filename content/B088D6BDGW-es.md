@@ -5,7 +5,7 @@ date: 2020-05-26 10:06:51
 image: 'https://m.media-amazon.com/images/I/41TJ9avQ1ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D6BDGW-es Suhctup Funda Compatible para Xiaomi Mi 8 SE Carcasa...'
 sku: 'B088D6BDGW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-26 17:02:55
 image: 'https://m.media-amazon.com/images/I/31RFvdQ-YoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQWGZDH-es Clarks Sift Lace Zapatillas para Mujer Blanco White Combi...'
 sku: 'B07TQWGZDH-es'
 tags: [  ]

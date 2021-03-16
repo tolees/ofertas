@@ -5,7 +5,7 @@ date: 2020-02-15 09:07:31
 image: 'https://m.media-amazon.com/images/I/41LEjsnk2iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SNS6RKC-es adidas Forest Grove W Zapatillas de Gimnasia para Mujer...'
 sku: 'B07SNS6RKC-es'
 tags: [  ]

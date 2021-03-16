@@ -5,7 +5,7 @@ date: 2020-03-14 15:33:50
 image: 'https://m.media-amazon.com/images/I/414IWeLYbEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VSLB42-es Sigma Sport Aura 25 Set Luces Ciclismo Unisex Negro Talla...'
 sku: 'B076VSLB42-es'
 tags: [  ]

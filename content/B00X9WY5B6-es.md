@@ -5,7 +5,7 @@ date: 2020-10-09 11:51:42
 image: 'https://m.media-amazon.com/images/I/41PBggt9D7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9WY5B6-es L Oreal Paris Dermo Expertise - Revitalift Filler Sérum...'
 sku: 'B00X9WY5B6-es'
 tags: [  ]

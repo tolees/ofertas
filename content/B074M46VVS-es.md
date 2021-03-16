@@ -5,7 +5,7 @@ date: 2020-08-04 15:31:57
 image: 'https://m.media-amazon.com/images/I/61I5sx3eFAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074M46VVS-es ELEGOO 32 Piezas Doble Cara Junta de PCB Doble Cara...'
 sku: 'B074M46VVS-es'
 tags: [  ]

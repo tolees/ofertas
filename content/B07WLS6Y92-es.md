@@ -5,7 +5,7 @@ date: 2020-07-22 07:12:41
 image: 'https://m.media-amazon.com/images/I/41E-MKjvO4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLS6Y92-es Jack & Jones Jorpannel Crew Neck. Suéter Azul Navy Blazer...'
 sku: 'B07WLS6Y92-es'
 tags: [  ]

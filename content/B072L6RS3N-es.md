@@ -5,7 +5,7 @@ date: 2020-02-09 21:34:21
 image: 'https://m.media-amazon.com/images/I/41TVOMKNfDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072L6RS3N-es Hollister Wave 2 for her eau de perfume spray 50ml'
 sku: 'B072L6RS3N-es'
 tags: [  ]

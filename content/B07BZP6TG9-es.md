@@ -5,7 +5,7 @@ date: 2020-07-25 02:17:25
 image: 'https://m.media-amazon.com/images/I/418m200M-FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZP6TG9-es New Bee Cargador Inalámbrico 5W con Soporte Auriculares...'
 sku: 'B07BZP6TG9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 18:25:37
 image: 'https://m.media-amazon.com/images/I/31qm2sTyiwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNSD2J9-es Jack & Jones Jjimarco Jjbowie Sa Noos Pantalones Negro...'
 sku: 'B07JNSD2J9-es'
 tags: [  ]

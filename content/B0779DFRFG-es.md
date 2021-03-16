@@ -5,7 +5,7 @@ date: 2020-06-02 07:35:34
 image: 'https://m.media-amazon.com/images/I/41DaTydCbeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779DFRFG-es adidas Entrada 18 JSY T-Shirt Hombre Bold Blue/White 2XL'
 sku: 'B0779DFRFG-es'
 tags: [  ]

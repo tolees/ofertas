@@ -5,7 +5,7 @@ date: 2020-08-12 08:16:27
 image: 'https://m.media-amazon.com/images/I/51YJaPBcgkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MLDKNL2-es Cabezal de Ducha con 5 Modos de Spray con Manguera de...'
 sku: 'B07MLDKNL2-es'
 tags: [  ]

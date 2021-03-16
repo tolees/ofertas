@@ -5,7 +5,7 @@ date: 2020-07-03 21:55:41
 image: 'https://m.media-amazon.com/images/I/31oiJM9RH8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ27D5X-es Wrangler High Rise Skinny Jeans Negro Black Sea 45a 29W /...'
 sku: 'B07TZ27D5X-es'
 tags: [  ]

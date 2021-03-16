@@ -5,7 +5,7 @@ date: 2020-04-14 09:55:07
 image: 'https://m.media-amazon.com/images/I/31z9hy7-F4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016Y9A2YE-es SAMs Tierhausschuhe Disney Star Wars Darth Vader lustig'
 sku: 'B016Y9A2YE-es'
 tags: [  ]

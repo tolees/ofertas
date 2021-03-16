@@ -5,7 +5,7 @@ date: 2020-07-04 08:30:41
 image: 'https://m.media-amazon.com/images/I/41YAneqBDrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0156X5MYO-es Panasonic DMC-GH4RE-K-Cámara Digita de 16 MP Pantalla de 3...'
 sku: 'B0156X5MYO-es'
 tags: [  ]

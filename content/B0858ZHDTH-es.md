@@ -5,7 +5,7 @@ date: 2020-05-07 08:35:56
 image: 'https://m.media-amazon.com/images/I/51Yd4VyyPxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0858ZHDTH-es Oihxse Funda Huawei Honor 8C Ultra Delgado Transparente...'
 sku: 'B0858ZHDTH-es'
 tags: [  ]

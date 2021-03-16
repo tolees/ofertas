@@ -5,7 +5,7 @@ date: 2020-06-26 10:46:00
 image: 'https://m.media-amazon.com/images/I/314oakctHgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2J7KNM-es Jabón Facial Limpiador Micelar 4 en 1 - UNISEX -...'
 sku: 'B07V2J7KNM-es'
 tags: [  ]

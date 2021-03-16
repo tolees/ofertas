@@ -5,7 +5,7 @@ date: 2020-07-01 08:31:05
 image: 'https://m.media-amazon.com/images/I/31c2ry7UczL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0811WBVW3-es TACKLIFE- 10 Pulgadas Alicates Extensibles Tenaza de Tipo...'
 sku: 'B0811WBVW3-es'
 tags: [  ]

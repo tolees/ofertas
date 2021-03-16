@@ -5,7 +5,7 @@ date: 2020-07-07 09:36:39
 image: 'https://m.media-amazon.com/images/I/41lU5qrFjcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSH6MT3-es BESTBOMG Plancha de pelo barba flequillo para Los hombres...'
 sku: 'B07TSH6MT3-es'
 tags: [  ]

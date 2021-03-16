@@ -5,7 +5,7 @@ date: 2020-09-04 13:23:47
 image: 'https://m.media-amazon.com/images/I/31uGoMVBSeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WT8M2Y3-es Samsung Galaxy Watch Active 2 - Smartwatch de Acero 40mm...'
 sku: 'B07WT8M2Y3-es'
 tags: [  ]

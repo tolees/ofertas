@@ -5,7 +5,7 @@ date: 2020-03-16 11:47:01
 image: 'https://m.media-amazon.com/images/I/41rnNTKGvyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MQ9T1M-es ASUS VZ27VQ - Monitor 27 pulgadas Full HD Eye Care Curvo...'
 sku: 'B072MQ9T1M-es'
 tags: [  ]

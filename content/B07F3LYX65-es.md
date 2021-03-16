@@ -5,7 +5,7 @@ date: 2020-06-02 21:00:57
 image: 'https://m.media-amazon.com/images/I/41A-34Q7O+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3LYX65-es 2pcs Cintas de Gimnasia Rítmica Cinta de Baile Ballet...'
 sku: 'B07F3LYX65-es'
 tags: [  ]

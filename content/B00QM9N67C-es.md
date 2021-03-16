@@ -5,7 +5,7 @@ date: 2020-01-17 17:23:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KF73SGT2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QM9N67C-es Kärcher T 350T-Racer Surface Cleaner 2.643-252.0'
 sku: 'B00QM9N67C-es'
 tags: [  ]

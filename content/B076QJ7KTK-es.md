@@ -5,7 +5,7 @@ date: 2020-01-16 13:47:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414XMzD4J2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QJ7KTK-es Mark Maddox Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B076QJ7KTK-es'
 tags: [  ]

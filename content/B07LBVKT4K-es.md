@@ -5,7 +5,7 @@ date: 2020-06-23 06:11:52
 image: 'https://m.media-amazon.com/images/I/41NrufONuYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBVKT4K-es Calvin Klein Unlined Sujetador estilo bralette Azul Blue...'
 sku: 'B07LBVKT4K-es'
 tags: [  ]

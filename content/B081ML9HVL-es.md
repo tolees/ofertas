@@ -5,7 +5,7 @@ date: 2020-05-29 15:40:52
 image: 'https://m.media-amazon.com/images/I/41TIcvLPJVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081ML9HVL-es Almohadilla de protección para la cabeza del bebé Almohada...'
 sku: 'B081ML9HVL-es'
 tags: [  ]

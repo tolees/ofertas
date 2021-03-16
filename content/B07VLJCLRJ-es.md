@@ -5,7 +5,7 @@ date: 2020-05-27 20:55:30
 image: 'https://m.media-amazon.com/images/I/419VfC4yCXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VLJCLRJ-es Calvin Klein Brazilian Braguita brasileña Rosa Pink GLO...'
 sku: 'B07VLJCLRJ-es'
 tags: [  ]

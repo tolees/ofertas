@@ -5,7 +5,7 @@ date: 2020-09-18 03:06:39
 image: 'https://m.media-amazon.com/images/I/51TmPwaAilL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F5CKWBA-es AmazonBasics - Funda de disco duro color negro y naranja'
 sku: 'B00F5CKWBA-es'
 tags: [  ]

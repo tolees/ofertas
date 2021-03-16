@@ -5,7 +5,7 @@ date: 2020-10-05 12:10:46
 image: 'https://m.media-amazon.com/images/I/418tBDJojxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P96JYSH-es Pop! Figura de Vinilo: Películas: The Nun - Demonic Nun'
 sku: 'B07P96JYSH-es'
 tags: [  ]

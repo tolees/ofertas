@@ -5,7 +5,7 @@ date: 2020-08-10 16:20:55
 image: 'https://m.media-amazon.com/images/I/41s0iY9AZvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FBAF9IM-es Lacoste L1230 Polo de Manga Corta para Hombre Azul Marine...'
 sku: 'B00FBAF9IM-es'
 tags: [  ]

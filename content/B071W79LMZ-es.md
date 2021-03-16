@@ -5,7 +5,7 @@ date: 2020-03-02 04:59:09
 image: 'https://m.media-amazon.com/images/I/317DRmiPFyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071W79LMZ-es L Óreal Paris Máscara de Pestañas Mega Volumen Miss Baby...'
 sku: 'B071W79LMZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-04 23:40:10
 image: 'https://m.media-amazon.com/images/I/510+Ol26WWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071R3FYRG-es Fast & Furious 8 [Blu-ray]'
 sku: 'B071R3FYRG-es'
 tags: [  ]

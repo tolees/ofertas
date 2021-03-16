@@ -5,7 +5,7 @@ date: 2020-10-10 08:15:31
 image: 'https://m.media-amazon.com/images/I/31TLuTzIH+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHBY2RR-es Helly Hansen W HH LIFA Merino Basleayer Pant Mujer Black S'
 sku: 'B06XHBY2RR-es'
 tags: [  ]

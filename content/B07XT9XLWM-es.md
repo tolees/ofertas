@@ -5,7 +5,7 @@ date: 2020-03-08 20:46:50
 image: 'https://m.media-amazon.com/images/I/51Bbpnp1zrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XT9XLWM-es ANKENGS Protector de Pantalla para Xiaomi Redmi Note 8 Pro...'
 sku: 'B07XT9XLWM-es'
 tags: [  ]

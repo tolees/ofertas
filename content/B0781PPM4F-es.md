@@ -5,7 +5,7 @@ date: 2020-04-22 09:02:47
 image: 'https://m.media-amazon.com/images/I/31Zw7DifIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781PPM4F-es Portarrollos de MEZOOM de 304 acero inoxidable de 3m...'
 sku: 'B0781PPM4F-es'
 tags: [  ]

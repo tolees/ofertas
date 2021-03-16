@@ -5,7 +5,7 @@ date: 2020-08-06 19:30:00
 image: 'https://m.media-amazon.com/images/I/41-j0PbGNEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009BEO9DU-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B009BEO9DU-es'
 tags: [  ]

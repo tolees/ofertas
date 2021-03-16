@@ -5,7 +5,7 @@ date: 2020-05-06 11:24:35
 image: 'https://m.media-amazon.com/images/I/41tOd5p52tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K16SXKX-es Leggings de yoga para mujer talle alto bolsillos para...'
 sku: 'B07K16SXKX-es'
 tags: [  ]

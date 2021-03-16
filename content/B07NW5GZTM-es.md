@@ -5,7 +5,7 @@ date: 2020-04-14 20:28:44
 image: 'https://m.media-amazon.com/images/I/41kjq5EOEaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW5GZTM-es Skechers Street Cleats 2 Zapatillas para Mujer Olive Suede...'
 sku: 'B07NW5GZTM-es'
 tags: [  ]

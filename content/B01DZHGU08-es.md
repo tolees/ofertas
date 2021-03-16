@@ -5,7 +5,7 @@ date: 2020-05-19 13:04:17
 image: 'https://m.media-amazon.com/images/I/41sv+f79-CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DZHGU08-es Britax Römer Kidfix II XP SICT / Kidfix II XP / Kidfix XP...'
 sku: 'B01DZHGU08-es'
 tags: [  ]

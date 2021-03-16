@@ -5,7 +5,7 @@ date: 2020-09-22 09:08:14
 image: 'https://m.media-amazon.com/images/I/419QZOBFCQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000CBVAQ0-es Toppik Fibras Capilares Castaño Oscuro Fibras de Queratina...'
 sku: 'B000CBVAQ0-es'
 tags: [  ]

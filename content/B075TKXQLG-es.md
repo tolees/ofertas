@@ -5,7 +5,7 @@ date: 2020-08-29 21:49:02
 image: 'https://m.media-amazon.com/images/I/41Sic5CInCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075TKXQLG-es VOVEES Theia – Contorno ojos – Emulsión Gel – 30 ml –...'
 sku: 'B075TKXQLG-es'
 tags: [  ]

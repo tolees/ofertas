@@ -5,7 +5,7 @@ date: 2020-05-27 20:12:56
 image: 'https://m.media-amazon.com/images/I/41ekkRrmI0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KVMT6M7-es Xiaomi Redmi Note 8t Tim Blue 6.3" 4gb/64gb Dual Sim'
 sku: 'B07KVMT6M7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 09:36:58
 image: 'https://m.media-amazon.com/images/I/31ZHVPwTUML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y3LXYMF-es L Oréal Professionnel - Champú experto Silver Series para...'
 sku: 'B06Y3LXYMF-es'
 tags: [  ]

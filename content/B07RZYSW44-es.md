@@ -5,7 +5,7 @@ date: 2020-04-11 02:25:39
 image: 'https://m.media-amazon.com/images/I/41sRySjjplL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RZYSW44-es Love MoschinoJc4009pp1aMujerBolsos mochilaRojo Rosso...'
 sku: 'B07RZYSW44-es'
 tags: [  ]

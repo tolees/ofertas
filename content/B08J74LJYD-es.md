@@ -5,7 +5,7 @@ date: 2020-09-20 07:01:39
 image: 'https://m.media-amazon.com/images/I/31v-mafxShL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08J74LJYD-es DEtasyXworld Bolsa para portátil de 13 Pulgadas Bolsa...'
 sku: 'B08J74LJYD-es'
 tags: [  ]

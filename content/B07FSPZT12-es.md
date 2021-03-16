@@ -5,7 +5,7 @@ date: 2020-07-02 00:13:18
 image: 'https://m.media-amazon.com/images/I/418x5kLWqAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSPZT12-es Clarks Step Cali Cove Zapatillas para Mujer Azul Blue -...'
 sku: 'B07FSPZT12-es'
 tags: [  ]

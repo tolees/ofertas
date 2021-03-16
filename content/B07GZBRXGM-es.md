@@ -5,7 +5,7 @@ date: 2020-05-26 10:32:07
 image: 'https://m.media-amazon.com/images/I/413aw8sjKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZBRXGM-es XCYYOO [1-Pack]para Samsung Galaxy S8 Plus Protector de...'
 sku: 'B07GZBRXGM-es'
 tags: [  ]

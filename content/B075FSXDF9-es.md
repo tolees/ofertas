@@ -5,7 +5,7 @@ date: 2020-06-23 17:05:21
 image: 'https://m.media-amazon.com/images/I/41zwVKYTRIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FSXDF9-es HAVIT Auricular Bluetooth V4.2 IPX5 Deportes magnéticos...'
 sku: 'B075FSXDF9-es'
 tags: [  ]

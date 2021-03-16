@@ -5,7 +5,7 @@ date: 2020-01-06 12:56:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hRNcpQ7uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG17KJ3-es Puma Future Runner Premium Zapatillas Unisex Adulto Blanco...'
 sku: 'B07KG17KJ3-es'
 tags: [  ]

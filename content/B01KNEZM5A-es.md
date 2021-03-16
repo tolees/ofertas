@@ -5,7 +5,7 @@ date: 2020-03-02 17:36:21
 image: 'https://m.media-amazon.com/images/I/41swtXRU0GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KNEZM5A-es Finether-Joyero Bloqueable（Caja para joyas Estuche...'
 sku: 'B01KNEZM5A-es'
 tags: [  ]

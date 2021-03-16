@@ -5,7 +5,7 @@ date: 2020-02-14 15:02:46
 image: 'https://m.media-amazon.com/images/I/41vFnjrl+FL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P114FJH-es LIGHTAILING Conjunto de Luces Harry Potter Gran Comedor de...'
 sku: 'B07P114FJH-es'
 tags: [  ]

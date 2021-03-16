@@ -5,7 +5,7 @@ date: 2020-04-14 16:56:25
 image: 'https://m.media-amazon.com/images/I/41Z4zreMV6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6GWB6D-es Amerigo Whisky Stones Gift Set - ¿Aguar tu Whisky? Nunca...'
 sku: 'B07S6GWB6D-es'
 tags: [  ]

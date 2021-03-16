@@ -5,7 +5,7 @@ date: 2020-06-17 19:43:59
 image: 'https://m.media-amazon.com/images/I/41FFPsLJ3FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJGZZJC-es Adidas Deerupt Runner I Zapatillas de Deporte Unisex niño...'
 sku: 'B07NJGZZJC-es'
 tags: [  ]

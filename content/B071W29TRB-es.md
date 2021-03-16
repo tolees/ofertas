@@ -5,7 +5,7 @@ date: 2020-01-13 11:56:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hD2fBEzGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071W29TRB-es Ty Beanie Boos Twiggy-Búho Rosa 15 cm 37158TY Color United...'
 sku: 'B071W29TRB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-28 09:54:39
 image: 'https://m.media-amazon.com/images/I/31GIgPrAwSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G7DQ95W-es Lacoste Ah3467 suéter Azul Farine-Marine Multicolore M65...'
 sku: 'B07G7DQ95W-es'
 tags: [  ]

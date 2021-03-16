@@ -5,7 +5,7 @@ date: 2020-08-23 23:05:39
 image: 'https://m.media-amazon.com/images/I/41gZ+wKlhEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB5VQV6-es AUNA IR-120 Radio de Internet - MP3 WMA Acc Wi-Fi conexión...'
 sku: 'B07HB5VQV6-es'
 tags: [  ]

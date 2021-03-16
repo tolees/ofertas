@@ -5,7 +5,7 @@ date: 2020-06-18 08:20:43
 image: 'https://m.media-amazon.com/images/I/41CTlHHiGVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000WO87VI-es Bormioli Rocco 6238002 Plato Hondo Parma Cuadrado 23 Cm...'
 sku: 'B000WO87VI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:22:06
 image: 'https://m.media-amazon.com/images/I/51N0ue3YblL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BGRMS6Q-es Diealles 26pcs Sellos de Entintado de Animales para Favor...'
 sku: 'B07BGRMS6Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 17:25:23
 image: 'https://m.media-amazon.com/images/I/31dRKlGQCgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000E0ZLP-es Zwilling TWIN POLLUX - Juego 3 piezas puntilla carne y...'
 sku: 'B0000E0ZLP-es'
 tags: [  ]

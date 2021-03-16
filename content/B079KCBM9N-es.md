@@ -5,7 +5,7 @@ date: 2020-04-21 01:03:22
 image: 'https://m.media-amazon.com/images/I/31oTI8UpB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KCBM9N-es Camper Damen Katie Mary Jane Halbschuhe Schwarz Black 1 40 EU'
 sku: 'B079KCBM9N-es'
 tags: [  ]

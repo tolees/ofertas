@@ -5,7 +5,7 @@ date: 2020-09-21 19:50:12
 image: 'https://m.media-amazon.com/images/I/31hvhn8S4dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8V9WVF-es Tommy Hilfiger Classic Low Tommy Jeans Sneaker Zapatillas...'
 sku: 'B07V8V9WVF-es'
 tags: [  ]

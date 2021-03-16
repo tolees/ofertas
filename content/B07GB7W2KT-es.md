@@ -5,7 +5,7 @@ date: 2020-05-05 00:18:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GJO1ZOmXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB7W2KT-es Pulsar Reloj analogico para Mujer de Energía Solar con...'
 sku: 'B07GB7W2KT-es'
 tags: [  ]

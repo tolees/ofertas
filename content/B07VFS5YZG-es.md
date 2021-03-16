@@ -5,7 +5,7 @@ date: 2020-05-10 14:42:13
 image: 'https://m.media-amazon.com/images/I/31dPbdlKHYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFS5YZG-es Protectores de la cubierta del respaldo del asiento...'
 sku: 'B07VFS5YZG-es'
 tags: [  ]

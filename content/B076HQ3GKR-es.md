@@ -5,7 +5,7 @@ date: 2020-03-24 13:54:24
 image: 'https://m.media-amazon.com/images/I/318idnfaBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HQ3GKR-es Vogel s WALL 3345 Blanco Soporte de pared para TV 40 - 65...'
 sku: 'B076HQ3GKR-es'
 tags: [  ]

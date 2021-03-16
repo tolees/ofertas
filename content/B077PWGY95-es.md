@@ -5,7 +5,7 @@ date: 2020-02-15 08:12:44
 image: 'https://m.media-amazon.com/images/I/31GH-hBdTQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PWGY95-es Emma Colchón 135x190 cm - Viscoelástico Premium -...'
 sku: 'B077PWGY95-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 18:02:33
 image: 'https://m.media-amazon.com/images/I/31U+hW0ob4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VV3R97N-es Bugatti 321926015400 Zapatillas para Hombre Azul Dark Blue...'
 sku: 'B07VV3R97N-es'
 tags: [  ]

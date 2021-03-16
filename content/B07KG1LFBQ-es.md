@@ -5,7 +5,7 @@ date: 2020-04-22 11:32:32
 image: 'https://m.media-amazon.com/images/I/41v-aOXxskL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1LFBQ-es PUMA RS 9.8 Space Zapatillas Unisex Adulto White-High Risk...'
 sku: 'B07KG1LFBQ-es'
 tags: [  ]

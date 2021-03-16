@@ -5,7 +5,7 @@ date: 2020-02-11 08:34:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41msSQnom1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDMJD6P-es Cocoda Soporte para Echo Dot 3.ª Generación Solución de...'
 sku: 'B07MDMJD6P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 12:01:01
 image: 'https://m.media-amazon.com/images/I/417zmJha0WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085BLMS26-es YIMINYUER Cómodas alfombras para niños Juego para niños...'
 sku: 'B085BLMS26-es'
 tags: [  ]

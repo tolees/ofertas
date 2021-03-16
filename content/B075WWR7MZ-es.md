@@ -5,7 +5,7 @@ date: 2020-06-27 15:01:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qccNKYVeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075WWR7MZ-es Michael Kors Reloj Analogico para Hombre de Cuarzo con...'
 sku: 'B075WWR7MZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 16:56:33
 image: 'https://m.media-amazon.com/images/I/51Na69hD7iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078XTP1HJ-es Kitchen Emperor Cuchillo de Cocina Profesional Cuchillo de...'
 sku: 'B078XTP1HJ-es'
 tags: [  ]

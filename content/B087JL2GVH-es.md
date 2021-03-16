@@ -5,7 +5,7 @@ date: 2020-09-12 08:08:03
 image: 'https://m.media-amazon.com/images/I/51DpxAcs98L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JL2GVH-es FOGAWA 50 PCS Papiroflexia 50 Colores Creativo Origami...'
 sku: 'B087JL2GVH-es'
 tags: [  ]

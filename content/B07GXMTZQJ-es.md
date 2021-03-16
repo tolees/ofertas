@@ -5,7 +5,7 @@ date: 2020-10-01 18:27:15
 image: 'https://m.media-amazon.com/images/I/41B40gX8Z6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXMTZQJ-es adidas Falcon W Running Shoe Womens Footwear White...'
 sku: 'B07GXMTZQJ-es'
 tags: [  ]

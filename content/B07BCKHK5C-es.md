@@ -5,7 +5,7 @@ date: 2020-04-24 10:40:42
 image: 'https://m.media-amazon.com/images/I/31yZsMdj7qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BCKHK5C-es ZU ELEMENTS Z170092051644C ALBERTINE Denim Jeans Mujer...'
 sku: 'B07BCKHK5C-es'
 tags: [  ]

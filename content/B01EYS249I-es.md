@@ -5,7 +5,7 @@ date: 2020-06-15 08:02:08
 image: 'https://m.media-amazon.com/images/I/51XTzC-vqqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EYS249I-es Zuru - Bunch O Balloons Set globos 3 manojos x 35 globos...'
 sku: 'B01EYS249I-es'
 tags: [  ]

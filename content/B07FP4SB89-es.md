@@ -5,7 +5,7 @@ date: 2020-03-09 11:59:44
 image: 'https://m.media-amazon.com/images/I/41HgxLy9HWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP4SB89-es PUMA Carson 2 Knit NM Zapatillas de Running para Hombre...'
 sku: 'B07FP4SB89-es'
 tags: [  ]

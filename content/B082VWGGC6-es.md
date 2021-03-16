@@ -5,7 +5,7 @@ date: 2020-09-01 16:55:49
 image: 'https://m.media-amazon.com/images/I/41uGoqRLQUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VWGGC6-es Auriculares-Micrófono-Cascos-Cable-Alambricos LUDOS Turbo...'
 sku: 'B082VWGGC6-es'
 tags: [  ]

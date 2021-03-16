@@ -5,7 +5,7 @@ date: 2020-04-07 14:58:15
 image: 'https://m.media-amazon.com/images/I/41EGGtvHXeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074GJNBFC-es My Little Pony-21642 MLP Movie Figura de Vinilo Pinkie Pie...'
 sku: 'B074GJNBFC-es'
 tags: [  ]

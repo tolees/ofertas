@@ -5,7 +5,7 @@ date: 2020-05-23 11:17:52
 image: 'https://m.media-amazon.com/images/I/31eYwuUEeSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBTHZ2T-es Vans MN Full Patch Snapback Gorra de béisbol Verde Sharp...'
 sku: 'B07SBTHZ2T-es'
 tags: [  ]

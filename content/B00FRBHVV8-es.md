@@ -5,7 +5,7 @@ date: 2020-04-21 15:34:50
 image: 'https://m.media-amazon.com/images/I/31rWLPXEl6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FRBHVV8-es PURLINE SIRIUS Biochimenea con tamaño compacto y vidrio...'
 sku: 'B00FRBHVV8-es'
 tags: [  ]

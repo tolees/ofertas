@@ -5,7 +5,7 @@ date: 2020-07-08 21:31:55
 image: 'https://m.media-amazon.com/images/I/515TPNrmY+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GJNL04W-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B00GJNL04W-es'
 tags: [  ]

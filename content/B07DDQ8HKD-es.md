@@ -5,7 +5,7 @@ date: 2020-04-30 17:01:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hW8rwkYnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDQ8HKD-es Vila Clothes Viplace V-Neck Knit Top-Noos suéter Beige...'
 sku: 'B07DDQ8HKD-es'
 tags: [  ]

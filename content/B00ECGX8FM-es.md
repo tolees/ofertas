@@ -5,7 +5,7 @@ date: 2020-02-22 13:47:28
 image: 'https://m.media-amazon.com/images/I/41OJXTYOVOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ECGX8FM-es Nikon AF-S DX NIKKOR 18-140 f/3.5-5.6G ED VR - Objetivo...'
 sku: 'B00ECGX8FM-es'
 tags: [  ]

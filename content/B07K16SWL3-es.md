@@ -5,7 +5,7 @@ date: 2020-10-08 16:07:59
 image: 'https://m.media-amazon.com/images/I/31m1vlJRWKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K16SWL3-es adidas Estro 19 JSY T-Shirt Boys Black 5-6 años'
 sku: 'B07K16SWL3-es'
 tags: [  ]

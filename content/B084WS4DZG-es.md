@@ -5,7 +5,7 @@ date: 2020-08-09 23:31:19
 image: 'https://m.media-amazon.com/images/I/51YEtBtbTqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084WS4DZG-es LxTek Reemplazo Compatible para Epson 29 29XL Multipack...'
 sku: 'B084WS4DZG-es'
 tags: [  ]

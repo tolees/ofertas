@@ -5,7 +5,7 @@ date: 2020-04-04 15:57:11
 image: 'https://m.media-amazon.com/images/I/51XlnUc+FiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085RJ6BXC-es Mbuynow 50PCS Color Azul'
 sku: 'B085RJ6BXC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 16:23:49
 image: 'https://m.media-amazon.com/images/I/41muGdwCj6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JQDOALC-es Sennheiser Game One Auriculares de diadema abiertas para...'
 sku: 'B00JQDOALC-es'
 tags: [  ]

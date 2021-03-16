@@ -5,7 +5,7 @@ date: 2020-08-09 14:13:14
 image: 'https://m.media-amazon.com/images/I/31UEcIm6I4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKX747F-es Denon AVR-S650H 5.2 - Receptor AV de Red 4 K Wi-Fi...'
 sku: 'B07RKX747F-es'
 tags: [  ]

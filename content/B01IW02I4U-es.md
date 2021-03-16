@@ -5,7 +5,7 @@ date: 2020-07-12 11:43:52
 image: 'https://m.media-amazon.com/images/I/412oiDvARWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IW02I4U-es NYX Professional Makeup Paleta de sombra de ojos Ultimate...'
 sku: 'B01IW02I4U-es'
 tags: [  ]

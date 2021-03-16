@@ -5,7 +5,7 @@ date: 2020-04-16 00:27:42
 image: 'https://m.media-amazon.com/images/I/51jiyyAq1TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRJ2B1F-es HANMUN Kid Electronic Musical Microphone Toys Toddler...'
 sku: 'B07NRJ2B1F-es'
 tags: [  ]

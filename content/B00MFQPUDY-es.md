@@ -5,7 +5,7 @@ date: 2020-01-17 07:37:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4176EXbau%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MFQPUDY-es Tectonic - Reloj Analógico de Cuarzo unisex correa de...'
 sku: 'B00MFQPUDY-es'
 tags: [  ]

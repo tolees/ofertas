@@ -5,7 +5,7 @@ date: 2020-10-06 14:49:39
 image: 'https://m.media-amazon.com/images/I/41W4afVd4PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087V58KHV-es Inibsa Alcogel 100 ml - Gel hidroalcóholico manos 70%. Sin...'
 sku: 'B087V58KHV-es'
 tags: [  ]

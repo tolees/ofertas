@@ -5,7 +5,7 @@ date: 2020-02-27 12:10:17
 image: 'https://m.media-amazon.com/images/I/41ne7kXUURL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DBX4JYU-es GRÜNTEK Tijera de podar jardin FALCON 215 mm Profesional y...'
 sku: 'B01DBX4JYU-es'
 tags: [  ]

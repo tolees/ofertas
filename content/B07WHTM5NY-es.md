@@ -5,7 +5,7 @@ date: 2020-10-09 12:12:25
 image: 'https://m.media-amazon.com/images/I/31N20E3mF2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHTM5NY-es VAUDE Men s Air Vest Iii Weste Hombre white uni M'
 sku: 'B07WHTM5NY-es'
 tags: [  ]

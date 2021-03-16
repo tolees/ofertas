@@ -5,7 +5,7 @@ date: 2020-08-24 12:01:01
 image: 'https://m.media-amazon.com/images/I/41NNDTDMJDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJ41GN2-es FONDBERYL Conjuntos de lencería Mujer Sexy Lencería...'
 sku: 'B07HJ41GN2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-03 17:08:41
 image: 'https://m.media-amazon.com/images/I/51SSktHdx+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XM2B5C-es Instant 2610731 - Paquete de 12 temperas sólidas de...'
 sku: 'B005XM2B5C-es'
 tags: [  ]

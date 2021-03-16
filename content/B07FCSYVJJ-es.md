@@ -5,7 +5,7 @@ date: 2020-03-10 17:39:30
 image: 'https://m.media-amazon.com/images/I/41Qn+-8ZkFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCSYVJJ-es Adidas Lite Racer Cln K Zapatillas de deporte Unisex niños...'
 sku: 'B07FCSYVJJ-es'
 tags: [  ]

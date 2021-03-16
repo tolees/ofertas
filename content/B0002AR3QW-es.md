@@ -5,7 +5,7 @@ date: 2020-05-29 10:31:15
 image: 'https://m.media-amazon.com/images/I/51lher+1k2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002AR3QW-es Exo Terra Infra-Rojo Nocturno Heat GLO 100 W'
 sku: 'B0002AR3QW-es'
 tags: [  ]

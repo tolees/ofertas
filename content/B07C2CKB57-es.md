@@ -5,7 +5,7 @@ date: 2020-02-23 19:31:47
 image: 'https://m.media-amazon.com/images/I/41jnfcAyq2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2CKB57-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter Verde...'
 sku: 'B07C2CKB57-es'
 tags: [  ]

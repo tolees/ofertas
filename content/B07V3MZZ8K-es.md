@@ -5,7 +5,7 @@ date: 2020-08-07 20:04:14
 image: 'https://m.media-amazon.com/images/I/31Fimfo28qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3MZZ8K-es Tommy Hilfiger Core Corporate High Textile SNK Zapatillas...'
 sku: 'B07V3MZZ8K-es'
 tags: [  ]

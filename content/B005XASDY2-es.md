@@ -5,7 +5,7 @@ date: 2020-01-28 17:06:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kv%2BsUJtcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XASDY2-es Cybex 512110004 Silver Pallas-Fix Silla de Coche Grupo...'
 sku: 'B005XASDY2-es'
 tags: [  ]

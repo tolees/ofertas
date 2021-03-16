@@ -5,7 +5,7 @@ date: 2020-02-02 09:34:09
 image: 'https://m.media-amazon.com/images/I/41AiSZq+JSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SRHM2M-es Bastilipo TLM-2000 Termoventilador-Calefactor de Aire...'
 sku: 'B083SRHM2M-es'
 tags: [  ]

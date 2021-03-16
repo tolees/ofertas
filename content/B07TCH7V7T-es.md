@@ -5,7 +5,7 @@ date: 2020-03-13 09:32:48
 image: 'https://m.media-amazon.com/images/I/417IQ5ZpGIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCH7V7T-es Quiksilver Emboss-Sudadera con Capucha para Chicos 8-16...'
 sku: 'B07TCH7V7T-es'
 tags: [  ]

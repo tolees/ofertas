@@ -5,7 +5,7 @@ date: 2020-09-05 15:40:54
 image: 'https://m.media-amazon.com/images/I/61QYxgMrHEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FLZD4B-es Far Cry 5'
 sku: 'B071FLZD4B-es'
 tags: [  ]

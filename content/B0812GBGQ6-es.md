@@ -5,7 +5,7 @@ date: 2020-09-02 13:01:31
 image: 'https://m.media-amazon.com/images/I/41Z2mvu8+rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0812GBGQ6-es Asics Gel-Nimbus 22 Zapatillas de Running para Hombre...'
 sku: 'B0812GBGQ6-es'
 tags: [  ]

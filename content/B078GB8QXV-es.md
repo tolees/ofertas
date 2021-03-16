@@ -5,7 +5,7 @@ date: 2020-04-20 17:56:05
 image: 'https://m.media-amazon.com/images/I/51dj77etyXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GB8QXV-es Tommy Hilfiger Brazilian Braguita brasileña Azul Navy...'
 sku: 'B078GB8QXV-es'
 tags: [  ]

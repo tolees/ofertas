@@ -5,7 +5,7 @@ date: 2020-09-11 12:33:20
 image: 'https://m.media-amazon.com/images/I/41V6fs-cQiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088V7FJVX-es Aussie 3 Minute Miracle Reconstructor Tratamiento...'
 sku: 'B088V7FJVX-es'
 tags: [  ]

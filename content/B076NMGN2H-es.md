@@ -5,7 +5,7 @@ date: 2020-05-30 17:27:23
 image: 'https://m.media-amazon.com/images/I/414FEUlgOUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076NMGN2H-es DIXIUZA 72Pcs Spoke Skins Cubierta del Radio de Rueda de...'
 sku: 'B076NMGN2H-es'
 tags: [  ]

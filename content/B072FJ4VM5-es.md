@@ -5,7 +5,7 @@ date: 2020-02-11 22:40:26
 image: 'https://m.media-amazon.com/images/I/51HCcnGBHiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072FJ4VM5-es Grace & Stella Co. Tratamiento de pérdida de cabello...'
 sku: 'B072FJ4VM5-es'
 tags: [  ]

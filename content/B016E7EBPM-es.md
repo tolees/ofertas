@@ -5,7 +5,7 @@ date: 2020-05-10 19:55:17
 image: 'https://m.media-amazon.com/images/I/319N17L9I+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016E7EBPM-es Toshiba Hayabusa - Memoria USB 2.0 de 64 GB color blanco'
 sku: 'B016E7EBPM-es'
 tags: [  ]

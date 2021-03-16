@@ -5,7 +5,7 @@ date: 2020-05-28 23:00:55
 image: 'https://m.media-amazon.com/images/I/41Iz28xxaUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LTCH4G-es New Balance Pc574v1 Zapatillas Unisex Niños Negro...'
 sku: 'B071LTCH4G-es'
 tags: [  ]

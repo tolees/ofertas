@@ -5,7 +5,7 @@ date: 2020-02-10 18:47:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BXgigeyqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2KV6FN-es SALOMON XA Short Mujer Gris Urban Chic XL'
 sku: 'B07F2KV6FN-es'
 tags: [  ]

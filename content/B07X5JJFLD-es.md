@@ -5,7 +5,7 @@ date: 2020-05-27 22:13:07
 image: 'https://m.media-amazon.com/images/I/41zmuZg+76L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5JJFLD-es Funda para Xiaomi Redmi Note 8 Pro + Protector de Pantalla...'
 sku: 'B07X5JJFLD-es'
 tags: [  ]

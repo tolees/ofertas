@@ -5,7 +5,7 @@ date: 2020-09-19 20:06:56
 image: 'https://m.media-amazon.com/images/I/51+FZzufcdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FHTCPM5-es InnooCare 12 unidades lavable y reutilizable'
 sku: 'B08FHTCPM5-es'
 tags: [  ]

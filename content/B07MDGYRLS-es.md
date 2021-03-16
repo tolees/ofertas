@@ -5,7 +5,7 @@ date: 2021-02-26 22:27:23
 image: 'https://m.media-amazon.com/images/I/41hOJwDv84L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDGYRLS-es Nike Renew Lucent Zapatillas Hombre Negro Black/White 002...'
 sku: 'B07MDGYRLS-es'
 tags: [ 'nike', ]

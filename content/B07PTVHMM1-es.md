@@ -5,7 +5,7 @@ date: 2020-04-20 13:06:41
 image: 'https://m.media-amazon.com/images/I/41HbIRmaE-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PTVHMM1-es Kipling - Aicil Mochilas Mujer Multicolor Camo Large...'
 sku: 'B07PTVHMM1-es'
 tags: [  ]

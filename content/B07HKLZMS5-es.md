@@ -5,7 +5,7 @@ date: 2020-04-05 03:00:35
 image: 'https://m.media-amazon.com/images/I/41dK43YnV0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKLZMS5-es Under Armour UA Ripple 2.0 Zapatillas de Running para...'
 sku: 'B07HKLZMS5-es'
 tags: [  ]

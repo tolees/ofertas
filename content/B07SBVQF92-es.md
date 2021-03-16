@@ -5,7 +5,7 @@ date: 2020-06-24 11:22:26
 image: 'https://m.media-amazon.com/images/I/411EPp+05OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVQF92-es PUMA Flyer Modern Zapatillas de Running Unisex-Adulto...'
 sku: 'B07SBVQF92-es'
 tags: [  ]

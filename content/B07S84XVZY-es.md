@@ -5,7 +5,7 @@ date: 2020-09-22 14:51:21
 image: 'https://m.media-amazon.com/images/I/41cg23bs3UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S84XVZY-es adidas Strngr Swim Top Traje de Baño Mujer Black 4B'
 sku: 'B07S84XVZY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-15 18:26:50
 image: 'https://m.media-amazon.com/images/I/31h7H3Cvy8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3BXT8J-es Ecco St.1 M Zapatillas para Hombre Gris Titanium 2244 45 EU'
 sku: 'B07N3BXT8J-es'
 tags: [  ]

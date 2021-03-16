@@ -5,7 +5,7 @@ date: 2020-02-09 15:34:49
 image: 'https://m.media-amazon.com/images/I/51Pg3J9TwHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYHJXRM-es Montse Interiors Juego de sábanas Estampado Colores Piezas...'
 sku: 'B06XYHJXRM-es'
 tags: [  ]

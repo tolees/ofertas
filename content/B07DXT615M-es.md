@@ -5,7 +5,7 @@ date: 2020-06-23 23:38:33
 image: 'https://m.media-amazon.com/images/I/31PwBW-1lJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DXT615M-es Camiseta/UNDER ARMOUR:FOUNTATION L'
 sku: 'B07DXT615M-es'
 tags: [  ]

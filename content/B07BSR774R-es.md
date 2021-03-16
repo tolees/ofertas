@@ -5,7 +5,7 @@ date: 2020-03-30 17:36:22
 image: 'https://m.media-amazon.com/images/I/41ld6Ay-7qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSR774R-es Corsair HS70 Auriculares Inalámbricos para Juegos Sonido...'
 sku: 'B07BSR774R-es'
 tags: [  ]

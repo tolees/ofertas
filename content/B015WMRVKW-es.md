@@ -5,7 +5,7 @@ date: 2020-01-19 16:06:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XfSbVhfDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015WMRVKW-es Optimum Nutrition ON Serious Mass Proteina en Polvo Mass...'
 sku: 'B015WMRVKW-es'
 tags: [  ]

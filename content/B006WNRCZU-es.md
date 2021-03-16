@@ -5,7 +5,7 @@ date: 2020-03-09 17:04:58
 image: 'https://m.media-amazon.com/images/I/41QCv80vZaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006WNRCZU-es Grohe Cosmopolitan - Dispensador de jabón líquido con...'
 sku: 'B006WNRCZU-es'
 tags: [  ]

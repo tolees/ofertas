@@ -5,7 +5,7 @@ date: 2020-01-16 20:04:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412UjT4fShL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MG6LLP-es PUMA Basket Classic LFS Zapatillas Unisex Adultos White-...'
 sku: 'B077MG6LLP-es'
 tags: [  ]

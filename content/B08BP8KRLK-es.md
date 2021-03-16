@@ -5,7 +5,7 @@ date: 2020-09-01 16:31:24
 image: 'https://m.media-amazon.com/images/I/41iHfwpZ+OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BP8KRLK-es Wuyee Naranja de Halloween Que cuelga del Fantasma de...'
 sku: 'B08BP8KRLK-es'
 tags: [  ]

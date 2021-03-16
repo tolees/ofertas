@@ -5,7 +5,7 @@ date: 2020-04-04 14:02:34
 image: 'https://m.media-amazon.com/images/I/41TkB2Vi9+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006A34BWY-es VAUDE Farley ZO IV - Pantalones para hombre color beige...'
 sku: 'B006A34BWY-es'
 tags: [  ]

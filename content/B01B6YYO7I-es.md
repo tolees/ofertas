@@ -5,7 +5,7 @@ date: 2019-12-31 16:47:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41aN9qSGSNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B6YYO7I-es Puma Suede Classic Mono Ref Iced Calzado desert flower'
 sku: 'B01B6YYO7I-es'
 tags: [  ]

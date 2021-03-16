@@ -5,7 +5,7 @@ date: 2020-04-16 17:49:12
 image: 'https://m.media-amazon.com/images/I/41j5SGDl7RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SL5Z5HY-es Lékué Molde de Silicona Pan Redondo Marrón Centimeters'
 sku: 'B00SL5Z5HY-es'
 tags: [  ]

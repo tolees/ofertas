@@ -5,7 +5,7 @@ date: 2020-10-04 18:24:20
 image: 'https://m.media-amazon.com/images/I/41IHo0CQlfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08176LGWW-es Columbia Klamath Range II Forro Polar con Media Cremallera...'
 sku: 'B08176LGWW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-12 06:56:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej1wAqGOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QJ2JVW-es Moussel Classique Gel Moussant 900 Ml - 900 ml'
 sku: 'B076QJ2JVW-es'
 tags: [  ]

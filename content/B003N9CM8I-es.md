@@ -5,7 +5,7 @@ date: 2020-10-04 16:08:59
 image: 'https://m.media-amazon.com/images/I/31CTb84xthL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003N9CM8I-es Curver Touch 240269 - Cubo de basura mecanismo de apertura...'
 sku: 'B003N9CM8I-es'
 tags: [  ]

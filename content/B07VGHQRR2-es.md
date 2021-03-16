@@ -5,7 +5,7 @@ date: 2020-02-16 19:58:03
 image: 'https://m.media-amazon.com/images/I/41Jvpqk3AvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGHQRR2-es Disney Pijamas de Manga Corta para niños Toy Story Azul...'
 sku: 'B07VGHQRR2-es'
 tags: [  ]

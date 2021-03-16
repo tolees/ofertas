@@ -5,7 +5,7 @@ date: 2020-05-13 13:52:50
 image: 'https://m.media-amazon.com/images/I/31ECg9o4XIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJHQ8M9-es Brabantia Tasty+ Sacacorchos Terracotta Pink'
 sku: 'B07NJHQ8M9-es'
 tags: [  ]

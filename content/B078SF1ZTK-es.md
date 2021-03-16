@@ -5,7 +5,7 @@ date: 2020-02-29 18:54:08
 image: 'https://m.media-amazon.com/images/I/5199O9DK-ML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SF1ZTK-es RENBERG - Set 3 SARTENES 20/24/28CM. Aluminio Forjado...'
 sku: 'B078SF1ZTK-es'
 tags: [  ]

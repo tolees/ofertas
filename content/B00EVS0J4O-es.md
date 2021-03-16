@@ -5,7 +5,7 @@ date: 2020-02-06 17:48:12
 image: 'https://m.media-amazon.com/images/I/41SDkohQ30L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EVS0J4O-es Rimmel London Lasting Finish Mono Blush Colorete Tono 190...'
 sku: 'B00EVS0J4O-es'
 tags: [  ]

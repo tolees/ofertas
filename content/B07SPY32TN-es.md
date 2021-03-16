@@ -5,7 +5,7 @@ date: 2020-04-27 08:02:04
 image: 'https://m.media-amazon.com/images/I/419Bc-66xaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPY32TN-es Agenda 2020 semana vista - Pedrita Parker'
 sku: 'B07SPY32TN-es'
 tags: [  ]

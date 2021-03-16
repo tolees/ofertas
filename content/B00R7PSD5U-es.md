@@ -5,7 +5,7 @@ date: 2020-05-30 12:05:10
 image: 'https://m.media-amazon.com/images/I/41d8zSbAIOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R7PSD5U-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B00R7PSD5U-es'
 tags: [  ]

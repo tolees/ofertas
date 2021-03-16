@@ -5,7 +5,7 @@ date: 2020-01-11 12:19:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31So29q7AxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9P21RS-es Lacoste Masters Cup 319 1 SMA Zapatillas para Hombre Azul...'
 sku: 'B07L9P21RS-es'
 tags: [  ]

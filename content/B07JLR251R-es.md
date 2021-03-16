@@ -5,7 +5,7 @@ date: 2020-02-26 15:20:32
 image: 'https://m.media-amazon.com/images/I/31NGjxGl8CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLR251R-es Lee Breese Pantalones para Mujer Negro Pitch Raw Hem Lw...'
 sku: 'B07JLR251R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-24 15:31:53
 image: 'https://m.media-amazon.com/images/I/31wg+XccI-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V92EVPS-es Chung Shi 8200050 Botas Chukka Hombre Negro 44.5 EU'
 sku: 'B00V92EVPS-es'
 tags: [  ]

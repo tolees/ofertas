@@ -5,7 +5,7 @@ date: 2020-07-25 18:43:35
 image: 'https://m.media-amazon.com/images/I/51+BlfTIKgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0762XPSM1-es Weider Mega Mass 4000 Sabor Chocolate 4000 g . 69% de...'
 sku: 'B0762XPSM1-es'
 tags: [  ]

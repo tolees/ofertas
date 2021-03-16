@@ -5,7 +5,7 @@ date: 2020-08-28 01:12:08
 image: 'https://m.media-amazon.com/images/I/41FiBRlwfeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYVPN8K-es Skechers Arya-Airy Days Bailarinas con Punta Cerrada para...'
 sku: 'B07TYVPN8K-es'
 tags: [  ]

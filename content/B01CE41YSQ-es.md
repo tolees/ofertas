@@ -5,7 +5,7 @@ date: 2020-02-07 07:35:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419icvbnISL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CE41YSQ-es Under Armour UA Drift RN Mineral Zapatillas de Running...'
 sku: 'B01CE41YSQ-es'
 tags: [  ]

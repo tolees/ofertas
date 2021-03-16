@@ -5,7 +5,7 @@ date: 2020-04-28 10:06:32
 image: 'https://m.media-amazon.com/images/I/41Zzg4wNOLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788BQZGB-es Tommy Hilfiger Sujetador Estilo Bralette Gris Grey Heather...'
 sku: 'B0788BQZGB-es'
 tags: [  ]

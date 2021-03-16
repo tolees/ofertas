@@ -5,7 +5,7 @@ date: 2020-05-09 21:50:55
 image: 'https://m.media-amazon.com/images/I/41IRIRYz63L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK2V6BV-es Festina Reloj Multiesfera para Hombre de Cuarzo con Correa...'
 sku: 'B07RK2V6BV-es'
 tags: [  ]

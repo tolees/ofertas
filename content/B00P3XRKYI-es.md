@@ -5,7 +5,7 @@ date: 2020-06-06 15:55:36
 image: 'https://m.media-amazon.com/images/I/41hDJGMWZSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P3XRKYI-es K&N HD-1614 Filtro de Aire Moto'
 sku: 'B00P3XRKYI-es'
 tags: [  ]

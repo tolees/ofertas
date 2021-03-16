@@ -5,7 +5,7 @@ date: 2020-01-19 10:08:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41L62SXxy-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W7H3ZME-es LEABAGS Fort Wayne Estuche de auténtico Cuero búfalo en el...'
 sku: 'B00W7H3ZME-es'
 tags: [  ]

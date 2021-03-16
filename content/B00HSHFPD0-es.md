@@ -5,7 +5,7 @@ date: 2020-08-23 18:31:09
 image: 'https://m.media-amazon.com/images/I/41dq6qz1XNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HSHFPD0-es Sony Fe 28-70Mm F/3.5-5.6 OSS - Objetivo para Sony...'
 sku: 'B00HSHFPD0-es'
 tags: [  ]

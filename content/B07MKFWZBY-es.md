@@ -5,7 +5,7 @@ date: 2020-07-12 12:14:31
 image: 'https://m.media-amazon.com/images/I/414DWxDqPpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MKFWZBY-es Aitsite Vaso de plástico con Tapa Botes de Polietileno...'
 sku: 'B07MKFWZBY-es'
 tags: [  ]

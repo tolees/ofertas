@@ -5,7 +5,7 @@ date: 2020-03-26 19:20:37
 image: 'https://m.media-amazon.com/images/I/418W9mHsYuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077WKJLHF-es afeitadora hombre corporal cable recortadora barba...'
 sku: 'B077WKJLHF-es'
 tags: [  ]

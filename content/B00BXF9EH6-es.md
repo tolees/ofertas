@@ -5,7 +5,7 @@ date: 2020-01-08 17:09:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31z7MoQyn4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BXF9EH6-es Piz Buin Piz Buin Wet Skin Transparent Sun Spray Spf15 150 ml'
 sku: 'B00BXF9EH6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-02 19:36:46
 image: 'https://m.media-amazon.com/images/I/31Iv44NwSjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OS0X1Y-es Pfeilring Solingen Pinza de Depilar - 1 Unidad'
 sku: 'B000OS0X1Y-es'
 tags: [  ]

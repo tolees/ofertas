@@ -5,7 +5,7 @@ date: 2020-02-06 15:17:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31hdsdoLzSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU98WHH-es dockers Alpha Original Khaki Slim Tapered-Stretch Twill...'
 sku: 'B01MU98WHH-es'
 tags: [  ]

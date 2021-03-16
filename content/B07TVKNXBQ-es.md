@@ -5,7 +5,7 @@ date: 2020-02-02 13:38:31
 image: 'https://m.media-amazon.com/images/I/41OjgdxoXVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVKNXBQ-es Fanilife - Mesa de comedor rectangular de 110 cm diseño...'
 sku: 'B07TVKNXBQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-01 11:10:46
 image: 'https://m.media-amazon.com/images/I/41n25T5pdnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L72ZFVK-es Adidas Lite Racer RBN Zapatillas de Deporte para Mujer...'
 sku: 'B07L72ZFVK-es'
 tags: [  ]

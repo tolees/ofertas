@@ -5,7 +5,7 @@ date: 2020-06-29 01:45:26
 image: 'https://m.media-amazon.com/images/I/41LJRUoxczL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWYZW9K-es FITTOO Mallas 3/4 Leggings Mujer Pantalones de Yoga Alta...'
 sku: 'B07SWYZW9K-es'
 tags: [  ]

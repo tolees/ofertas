@@ -5,7 +5,7 @@ date: 2020-08-18 08:32:53
 image: 'https://m.media-amazon.com/images/I/41Yn70jugKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084TNJH6L-es Triamisu Vaporizador de Ropa portátil de Viaje...'
 sku: 'B084TNJH6L-es'
 tags: [  ]

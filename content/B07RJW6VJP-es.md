@@ -5,7 +5,7 @@ date: 2020-05-31 23:23:23
 image: 'https://m.media-amazon.com/images/I/41alaT0QxSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJW6VJP-es New Balance 997h Zapatillas para Hombre Rojo Red/Navy Hbj...'
 sku: 'B07RJW6VJP-es'
 tags: [  ]

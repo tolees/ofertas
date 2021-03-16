@@ -5,7 +5,7 @@ date: 2020-04-22 07:50:09
 image: 'https://m.media-amazon.com/images/I/51V8HBOqocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVTMJ6Z-es Women s Secret Cotton Print Black Flower Sujetador básico...'
 sku: 'B07TVTMJ6Z-es'
 tags: [  ]

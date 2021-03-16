@@ -5,7 +5,7 @@ date: 2020-01-10 11:07:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DQaCYjNWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M3H9DBU-es deAO Cocinita de Juguete Playset Taburete & Maletín 2en1...'
 sku: 'B00M3H9DBU-es'
 tags: [  ]

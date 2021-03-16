@@ -5,7 +5,7 @@ date: 2020-05-27 01:20:40
 image: 'https://m.media-amazon.com/images/I/41lXr9Jo44L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074FQTLZ5-es Festina Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B074FQTLZ5-es'
 tags: [  ]

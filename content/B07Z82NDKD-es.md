@@ -5,7 +5,7 @@ date: 2020-05-17 08:18:51
 image: 'https://m.media-amazon.com/images/I/61hm1+iRWvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z82NDKD-es Juego de sábanas cómodas y Suaves Juego de Ropa de Cama...'
 sku: 'B07Z82NDKD-es'
 tags: [  ]

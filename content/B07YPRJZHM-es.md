@@ -5,7 +5,7 @@ date: 2020-07-24 15:48:11
 image: 'https://m.media-amazon.com/images/I/415kQmGHkCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YPRJZHM-es Safety 1st Looky Trona para bebé evolutiva y reclinable en...'
 sku: 'B07YPRJZHM-es'
 tags: [  ]

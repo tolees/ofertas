@@ -5,7 +5,7 @@ date: 2020-06-14 14:02:25
 image: 'https://m.media-amazon.com/images/I/316LQz7ko5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NCHLLD-es SDINAZ Mochilas para computadora portátil para con Puerto...'
 sku: 'B089NCHLLD-es'
 tags: [  ]

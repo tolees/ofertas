@@ -5,7 +5,7 @@ date: 2020-10-04 13:13:10
 image: 'https://m.media-amazon.com/images/I/51C5pdmiPEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074T7Q2WB-es TACKLIFE M1 Compresor Aire Coche Inflador Digital 150PSI...'
 sku: 'B074T7Q2WB-es'
 tags: [  ]

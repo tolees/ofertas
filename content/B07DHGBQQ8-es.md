@@ -5,7 +5,7 @@ date: 2020-02-07 17:15:48
 image: 'https://m.media-amazon.com/images/I/41fHSlwaeyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHGBQQ8-es INTEY Perchero de Pie Perchero de Burro de Metal...'
 sku: 'B07DHGBQQ8-es'
 tags: [  ]

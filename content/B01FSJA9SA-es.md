@@ -5,7 +5,7 @@ date: 2020-02-26 21:01:40
 image: 'https://m.media-amazon.com/images/I/410KNTdnxeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FSJA9SA-es New Balance 490v4 Zapatillas Deportivas para Interior para...'
 sku: 'B01FSJA9SA-es'
 tags: [  ]

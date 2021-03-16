@@ -5,7 +5,7 @@ date: 2020-09-21 15:49:03
 image: 'https://m.media-amazon.com/images/I/31FZSMiN6xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BYR8TWH-es Chicco - Barra de alivio post picaduras mosquito para...'
 sku: 'B07BYR8TWH-es'
 tags: [  ]

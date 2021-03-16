@@ -5,7 +5,7 @@ date: 2020-07-23 14:03:03
 image: 'https://m.media-amazon.com/images/I/41iDjsrk6kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVMFGP7-es Reloj Deportivo Inteligente Edición para jóvenes...'
 sku: 'B08CVMFGP7-es'
 tags: [  ]

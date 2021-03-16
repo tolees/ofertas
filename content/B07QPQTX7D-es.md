@@ -5,7 +5,7 @@ date: 2020-09-11 06:22:51
 image: 'https://m.media-amazon.com/images/I/41tBBbaDKsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPQTX7D-es Pistola de Aire Caliente GALAX PRO 2000W Dos Niveles de...'
 sku: 'B07QPQTX7D-es'
 tags: [  ]

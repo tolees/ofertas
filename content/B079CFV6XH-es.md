@@ -5,7 +5,7 @@ date: 2020-09-21 12:00:32
 image: 'https://m.media-amazon.com/images/I/41x2qfiQ6eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079CFV6XH-es Bourjois Velvet Barra de Labios Líquida Tono 32 Trop...'
 sku: 'B079CFV6XH-es'
 tags: [  ]

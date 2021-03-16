@@ -5,7 +5,7 @@ date: 2020-06-12 09:33:51
 image: 'https://m.media-amazon.com/images/I/417TnG66HpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC8F2L3-es Sabrent Interruptor de Intercambio USB 2.0 de hasta 4...'
 sku: 'B07RC8F2L3-es'
 tags: [  ]

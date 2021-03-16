@@ -5,7 +5,7 @@ date: 2020-01-27 09:28:01
 image: 'https://m.media-amazon.com/images/I/413EjDu-bfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L32FVW5-es ASICS Chaussures Roadhawk FF 2'
 sku: 'B07L32FVW5-es'
 tags: [  ]

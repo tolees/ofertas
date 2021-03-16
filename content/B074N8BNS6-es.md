@@ -5,7 +5,7 @@ date: 2020-08-15 09:44:53
 image: 'https://m.media-amazon.com/images/I/41nGH2+UGaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074N8BNS6-es Reloj REGENT - Mujer 12211008'
 sku: 'B074N8BNS6-es'
 tags: [  ]

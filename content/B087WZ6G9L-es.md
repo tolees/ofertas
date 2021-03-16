@@ -5,7 +5,7 @@ date: 2020-05-26 15:02:04
 image: 'https://m.media-amazon.com/images/I/41luWgaV4IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WZ6G9L-es HAOT 10Pcs Kick Shuttlecock Colorful Feather Jianzi Goose...'
 sku: 'B087WZ6G9L-es'
 tags: [  ]

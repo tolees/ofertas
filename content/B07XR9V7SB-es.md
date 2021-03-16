@@ -5,7 +5,7 @@ date: 2020-07-14 21:09:15
 image: 'https://m.media-amazon.com/images/I/31eLBIPQhqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XR9V7SB-es Apple Funda Leather Case para el iPhone 11 Pro MAX - Azul...'
 sku: 'B07XR9V7SB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 15:01:42
 image: 'https://m.media-amazon.com/images/I/41Cy1XrqntL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007EKFT78-es Buiten speel Pulpo Waterparty'
 sku: 'B007EKFT78-es'
 tags: [  ]

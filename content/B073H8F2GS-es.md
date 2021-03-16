@@ -5,7 +5,7 @@ date: 2020-09-26 17:51:08
 image: 'https://m.media-amazon.com/images/I/41uUJP1ifPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073H8F2GS-es Cybex Silla de coche grupo 2/3 Solution M-Fix SL Para...'
 sku: 'B073H8F2GS-es'
 tags: [  ]

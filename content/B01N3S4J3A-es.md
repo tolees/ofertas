@@ -5,7 +5,7 @@ date: 2020-09-19 15:44:38
 image: 'https://m.media-amazon.com/images/I/416tDhczJ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3S4J3A-es Only onlGEENA XO L/S PULLOVER KNT NOOS Suéter para Mujer...'
 sku: 'B01N3S4J3A-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-03 09:52:19
 image: 'https://m.media-amazon.com/images/I/41VhG4oPYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVK3HYZ-es Kipling Women s KI3697 3 x Wallet Grey Grey STEEL GR METAL...'
 sku: 'B07MVK3HYZ-es'
 tags: [  ]

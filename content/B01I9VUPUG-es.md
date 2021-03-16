@@ -5,7 +5,7 @@ date: 2020-07-13 03:06:36
 image: 'https://m.media-amazon.com/images/I/41gcpw33pbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I9VUPUG-es New Balance Gw500v1 Zapatillas de Deporte para Mujer Azul...'
 sku: 'B01I9VUPUG-es'
 tags: [  ]

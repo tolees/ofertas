@@ -5,7 +5,7 @@ date: 2020-05-26 09:43:14
 image: 'https://m.media-amazon.com/images/I/41beUr9-01L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSKWPK9-es KiplingDuo PouchMujerMonederosVerde Frozen Mint 20x14x1...'
 sku: 'B07TSKWPK9-es'
 tags: [  ]

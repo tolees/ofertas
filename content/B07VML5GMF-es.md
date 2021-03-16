@@ -5,7 +5,7 @@ date: 2020-04-19 11:04:29
 image: 'https://m.media-amazon.com/images/I/51gXsOHZTqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VML5GMF-es Reloj - LIGE - para - LG9852'
 sku: 'B07VML5GMF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-29 23:20:44
 image: 'https://m.media-amazon.com/images/I/51hO5PpkBRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000PVH3ZE-es Quercetti-Quercetti-2123 FC Básico d.15-Juego Educativo de...'
 sku: 'B000PVH3ZE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-04 01:10:14
 image: 'https://m.media-amazon.com/images/I/51sfpRTDAPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCV549Q-es Fdit 48 Color Lápiz Assorted Professional Arte Lápices...'
 sku: 'B07DCV549Q-es'
 tags: [  ]

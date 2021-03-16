@@ -5,7 +5,7 @@ date: 2020-06-23 09:06:49
 image: 'https://m.media-amazon.com/images/I/318aGgAVv+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AKBSB1E-es NANOCABLE 10.20.0401 - Cable de Red Ethernet RJ45 Cat.6...'
 sku: 'B00AKBSB1E-es'
 tags: [  ]

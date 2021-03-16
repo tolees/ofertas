@@ -5,7 +5,7 @@ date: 2020-02-11 17:34:04
 image: 'https://m.media-amazon.com/images/I/314fqUASitL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1J7TVC-es Clarks Step Weltfree Zapatillas para Mujer Negro Black...'
 sku: 'B07N1J7TVC-es'
 tags: [  ]

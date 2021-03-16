@@ -5,7 +5,7 @@ date: 2020-05-07 18:08:40
 image: 'https://m.media-amazon.com/images/I/412t9IxouBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825PWDDT-es Roxy Milady Beach-Short Vaquero Elástico para Mujer Dark...'
 sku: 'B0825PWDDT-es'
 tags: [  ]

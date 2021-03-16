@@ -5,7 +5,7 @@ date: 2020-01-14 17:05:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51wETgRVl1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBNXRV2-es Helly Hansen Traverse Beanie Gorro Sombrero de Invierno...'
 sku: 'B07LBNXRV2-es'
 tags: [  ]

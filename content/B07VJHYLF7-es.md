@@ -5,7 +5,7 @@ date: 2020-07-06 20:57:48
 image: 'https://m.media-amazon.com/images/I/41wkyCdRsHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJHYLF7-es Hackett London Slim Fit Logo Polo Azul 593royal Blue 593...'
 sku: 'B07VJHYLF7-es'
 tags: [  ]

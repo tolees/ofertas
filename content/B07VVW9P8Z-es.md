@@ -5,7 +5,7 @@ date: 2020-08-05 08:21:06
 image: 'https://m.media-amazon.com/images/I/51bPrJDlyjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVW9P8Z-es Reloj LIGE para Hombre Deporte Cronógrafo Analógico Cuarzo...'
 sku: 'B07VVW9P8Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 16:51:36
 image: 'https://m.media-amazon.com/images/I/312zRyUgEFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRYTQGK-es HP Color Laser 150a - Impresora láser 18 ppm/4 ppm Bandeja...'
 sku: 'B07RRYTQGK-es'
 tags: [  ]

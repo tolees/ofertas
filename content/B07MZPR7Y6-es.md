@@ -5,7 +5,7 @@ date: 2020-04-22 12:25:28
 image: 'https://m.media-amazon.com/images/I/41sXnS0sJdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPR7Y6-es Pepe Jeans London Koko Archi Zapatillas Altas para Mujer...'
 sku: 'B07MZPR7Y6-es'
 tags: [  ]

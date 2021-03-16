@@ -5,7 +5,7 @@ date: 2020-05-18 12:05:08
 image: 'https://m.media-amazon.com/images/I/414lKFNRKCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5N16JV-es Cipriata Valentina - Deportivas con Cordones y Cremallera...'
 sku: 'B07D5N16JV-es'
 tags: [  ]

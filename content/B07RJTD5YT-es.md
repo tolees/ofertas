@@ -5,7 +5,7 @@ date: 2020-01-22 08:53:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nbHtGUNmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJTD5YT-es adidas Gazelle Zapatillas para Hombre Azul Real...'
 sku: 'B07RJTD5YT-es'
 tags: [  ]

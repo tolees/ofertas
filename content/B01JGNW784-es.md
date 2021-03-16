@@ -5,7 +5,7 @@ date: 2020-08-12 12:34:19
 image: 'https://m.media-amazon.com/images/I/41AdNnWca6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JGNW784-es MutecPower 1m Sat Cable coaxial de la Antena Conector...'
 sku: 'B01JGNW784-es'
 tags: [  ]

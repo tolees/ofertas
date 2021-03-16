@@ -5,7 +5,7 @@ date: 2020-02-21 11:17:59
 image: 'https://m.media-amazon.com/images/I/41r3uMvjuNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N76LDBE-es NILFISK GM80 Aspirador icónico de Trineo con o sin Bolsa...'
 sku: 'B00N76LDBE-es'
 tags: [  ]

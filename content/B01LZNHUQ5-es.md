@@ -5,7 +5,7 @@ date: 2020-08-25 07:59:44
 image: 'https://m.media-amazon.com/images/I/318k+VzwC9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZNHUQ5-es Victoria Sierra Deportivo Piel Zapatillas Unisex Adulto...'
 sku: 'B01LZNHUQ5-es'
 tags: [  ]

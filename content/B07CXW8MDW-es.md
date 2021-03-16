@@ -5,7 +5,7 @@ date: 2020-02-16 20:18:37
 image: 'https://m.media-amazon.com/images/I/519rql2QzeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXW8MDW-es Salomon Ellipse 2 GTX W Zapatillas de Trail Running para...'
 sku: 'B07CXW8MDW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 08:32:04
 image: 'https://m.media-amazon.com/images/I/41utg7rK+IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTPD8GH-es Kipling Firefly Up Mochilas para Mujer Negro Carbon...'
 sku: 'B07TTPD8GH-es'
 tags: [  ]

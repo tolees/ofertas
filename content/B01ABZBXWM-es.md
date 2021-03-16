@@ -5,7 +5,7 @@ date: 2020-01-25 10:35:10
 image: 'https://m.media-amazon.com/images/I/41CF9dlO4zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ABZBXWM-es Wilson BLX Seven raqueta de tenis cubierta + + 3 pelotas'
 sku: 'B01ABZBXWM-es'
 tags: [  ]

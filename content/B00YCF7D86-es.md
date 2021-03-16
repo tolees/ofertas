@@ -5,7 +5,7 @@ date: 2020-03-24 11:49:46
 image: 'https://m.media-amazon.com/images/I/31Gdh-TlB1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YCF7D86-es Max Factor Skin Luminizer Foundation 47 Nude Podkład do...'
 sku: 'B00YCF7D86-es'
 tags: [  ]

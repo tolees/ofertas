@@ -5,7 +5,7 @@ date: 2020-05-23 17:34:44
 image: 'https://m.media-amazon.com/images/I/41ALTbBwgFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQWFYSV-es Calvin Klein Short Runner Bañador Azul Snorkel Blue CJR...'
 sku: 'B07VQWFYSV-es'
 tags: [  ]

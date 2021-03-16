@@ -5,7 +5,7 @@ date: 2020-10-05 05:44:36
 image: 'https://m.media-amazon.com/images/I/41UKCeNSYEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5TJ8F7-es Skechers Men s Bounder Trainers Red Burgundy Burgundy 10...'
 sku: 'B07J5TJ8F7-es'
 tags: [  ]

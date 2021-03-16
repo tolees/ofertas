@@ -5,7 +5,7 @@ date: 2020-07-17 02:38:42
 image: 'https://m.media-amazon.com/images/I/41yEVxLsFEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPVD9ZK-es Superdry Core Cargo Shorts Pantalones Cortos Beige Dress...'
 sku: 'B07TPVD9ZK-es'
 tags: [  ]

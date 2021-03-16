@@ -5,7 +5,7 @@ date: 2020-06-21 08:45:36
 image: 'https://m.media-amazon.com/images/I/51eF7vOiIEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XP1NGDS-es WIWJ Funda para iPhone XR Carcasa Hollow Pintado Suave...'
 sku: 'B07XP1NGDS-es'
 tags: [  ]

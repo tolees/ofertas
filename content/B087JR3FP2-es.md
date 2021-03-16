@@ -5,7 +5,7 @@ date: 2020-04-27 12:35:18
 image: 'https://m.media-amazon.com/images/I/41aJHqO-BPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JR3FP2-es Agger 1PC 800ml Gel Duradero Bolas Cargando Botellas con...'
 sku: 'B087JR3FP2-es'
 tags: [  ]

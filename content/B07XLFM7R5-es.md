@@ -5,7 +5,7 @@ date: 2020-03-10 16:31:41
 image: 'https://m.media-amazon.com/images/I/41q+nfl-2XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLFM7R5-es KZIOACSH 5X Funda para Xiaomi Redmi Note 8 Carcasas Ultra...'
 sku: 'B07XLFM7R5-es'
 tags: [  ]

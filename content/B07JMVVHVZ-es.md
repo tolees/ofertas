@@ -5,7 +5,7 @@ date: 2020-03-09 15:20:57
 image: 'https://m.media-amazon.com/images/I/41m1urcUzLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMVVHVZ-es Biotina 10.000 mcg Vitamina B7 | 365 comprimidos...'
 sku: 'B07JMVVHVZ-es'
 tags: [  ]

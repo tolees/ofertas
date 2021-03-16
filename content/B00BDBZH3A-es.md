@@ -5,7 +5,7 @@ date: 2020-02-04 15:23:49
 image: 'https://m.media-amazon.com/images/I/51sYDq4iNhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BDBZH3A-es Thermaltake SMART SE 630W Alimentación'
 sku: 'B00BDBZH3A-es'
 tags: [  ]

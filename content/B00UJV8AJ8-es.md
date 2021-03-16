@@ -5,7 +5,7 @@ date: 2020-05-25 11:38:17
 image: 'https://m.media-amazon.com/images/I/514XGKMsZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UJV8AJ8-es Final Fantasy XIV: Heavensward'
 sku: 'B00UJV8AJ8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-09 12:31:02
 image: 'https://m.media-amazon.com/images/I/61WvqC1RzQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F6ZFXBX-es Grand Line Cubiertas Impermeables para La Lluvia con Forro...'
 sku: 'B07F6ZFXBX-es'
 tags: [  ]

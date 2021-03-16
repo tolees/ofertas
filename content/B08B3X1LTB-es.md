@@ -5,7 +5,7 @@ date: 2020-06-25 11:04:37
 image: 'https://m.media-amazon.com/images/I/4133z0qxsLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3X1LTB-es Interruptores automáticos Interruptor automático WIFI de...'
 sku: 'B08B3X1LTB-es'
 tags: [  ]

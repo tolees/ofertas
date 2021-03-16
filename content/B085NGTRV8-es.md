@@ -5,7 +5,7 @@ date: 2020-08-05 05:43:02
 image: 'https://m.media-amazon.com/images/I/416sXIsxVvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085NGTRV8-es Aire Acondicionado Móvil Enfriador de Aire Portátil con...'
 sku: 'B085NGTRV8-es'
 tags: [  ]

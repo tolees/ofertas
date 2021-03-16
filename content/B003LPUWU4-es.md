@@ -5,7 +5,7 @@ date: 2020-07-21 08:38:09
 image: 'https://m.media-amazon.com/images/I/218WWa0NdML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003LPUWU4-es Rimmel London 1000 Kisses Lipliner Perfilador de Labios...'
 sku: 'B003LPUWU4-es'
 tags: [  ]

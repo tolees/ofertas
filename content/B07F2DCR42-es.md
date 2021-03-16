@@ -5,7 +5,7 @@ date: 2020-02-29 18:02:55
 image: 'https://m.media-amazon.com/images/I/41n5h7uncbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2DCR42-es Star Wars Reloj Niños de Digital con Correa en PU SWJ4041'
 sku: 'B07F2DCR42-es'
 tags: [  ]

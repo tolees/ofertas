@@ -5,7 +5,7 @@ date: 2020-01-10 09:28:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416jOBKElKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJF8VB1-es FIAT500 Rodilleras y Coderas FIAT 500 F500-PKL-K Color...'
 sku: 'B07CJF8VB1-es'
 tags: [  ]

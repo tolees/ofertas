@@ -5,7 +5,7 @@ date: 2020-07-04 11:11:44
 image: 'https://m.media-amazon.com/images/I/31iAbDOz1EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MPNFLD-es PUMA St Runner V2 NL Zapatillas Unisex adulto Negro Black...'
 sku: 'B077MPNFLD-es'
 tags: [  ]

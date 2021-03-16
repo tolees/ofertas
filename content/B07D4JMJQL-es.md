@@ -5,7 +5,7 @@ date: 2020-04-16 14:04:04
 image: 'https://m.media-amazon.com/images/I/318W+-tqmgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4JMJQL-es Máquina Eléctrica de Pulir Pulido Herramienta de Artesanía...'
 sku: 'B07D4JMJQL-es'
 tags: [  ]

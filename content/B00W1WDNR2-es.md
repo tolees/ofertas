@@ -5,7 +5,7 @@ date: 2020-05-30 23:18:23
 image: 'https://m.media-amazon.com/images/I/41KOEFASZ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W1WDNR2-es Keter - Conjunto de jardín de 4 plazas Corfu Color marrón'
 sku: 'B00W1WDNR2-es'
 tags: [  ]

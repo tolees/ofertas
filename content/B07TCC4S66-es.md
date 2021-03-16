@@ -5,7 +5,7 @@ date: 2020-10-07 07:28:42
 image: 'https://m.media-amazon.com/images/I/31EqteGQsiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCC4S66-es Helly Hansen W Copenhagen Leather Zapatillas para Mujer...'
 sku: 'B07TCC4S66-es'
 tags: [  ]

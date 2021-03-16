@@ -5,7 +5,7 @@ date: 2020-01-03 12:38:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KYNzRITNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCVKPNN-es sogoo 50 x 70cm 22.5W Espejo de pared espejo luminoso con...'
 sku: 'B07GCVKPNN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-18 14:37:07
 image: 'https://m.media-amazon.com/images/I/41Fz9HL4RKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3NKHWP-es Eastpak Springer Riñonera 23 cm 2 L Multicolor Blurred Lines'
 sku: 'B07X3NKHWP-es'
 tags: [  ]

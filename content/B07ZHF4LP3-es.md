@@ -5,7 +5,7 @@ date: 2020-04-08 06:07:55
 image: 'https://m.media-amazon.com/images/I/61jkODiGgVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHF4LP3-es Mydours Almohadilla Teclado y Alfombrilla de Ratón...'
 sku: 'B07ZHF4LP3-es'
 tags: [  ]

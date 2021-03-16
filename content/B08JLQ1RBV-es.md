@@ -5,7 +5,7 @@ date: 2020-10-10 10:47:57
 image: 'https://m.media-amazon.com/images/I/4113Fbx05sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JLQ1RBV-es Webcam con micrófono cámara Web de transmisión HD 1080P...'
 sku: 'B08JLQ1RBV-es'
 tags: [  ]

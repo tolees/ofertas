@@ -5,7 +5,7 @@ date: 2020-05-15 19:35:51
 image: 'https://m.media-amazon.com/images/I/51dt2Z+gdVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085X9RZVB-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
 sku: 'B085X9RZVB-es'
 tags: [  ]

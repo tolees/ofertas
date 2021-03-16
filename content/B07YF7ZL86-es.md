@@ -5,7 +5,7 @@ date: 2020-02-16 19:02:17
 image: 'https://m.media-amazon.com/images/I/419t9b8MF3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YF7ZL86-es Bigherdez 1 unid Tatuaje Falso Manga elástica del Brazo...'
 sku: 'B07YF7ZL86-es'
 tags: [  ]

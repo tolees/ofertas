@@ -5,7 +5,7 @@ date: 2020-04-08 05:16:15
 image: 'https://m.media-amazon.com/images/I/41sbzrgvktL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9R3TGQ-es Festina Reloj de Pulsera F20361/1'
 sku: 'B07F9R3TGQ-es'
 tags: [  ]

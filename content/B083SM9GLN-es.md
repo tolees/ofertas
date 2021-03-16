@@ -5,7 +5,7 @@ date: 2020-04-16 18:13:55
 image: 'https://m.media-amazon.com/images/I/51D1gb+iThL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SM9GLN-es TONGJI Vitrina de Acrílico con Luces Compatible con Lego...'
 sku: 'B083SM9GLN-es'
 tags: [  ]

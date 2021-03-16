@@ -5,7 +5,7 @@ date: 2021-03-16 15:36:37
 image: 'https://m.media-amazon.com/images/I/51J9r23jTvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006IWDWGS-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con...'
 sku: 'B006IWDWGS-es'
 tags: [ 'michael kors', ]
@@ -30,7 +30,7 @@ Está [Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero I
 
 - Reloj de mujer MICHAEL KORS - Caja redonda de acero inoxidable (diám. 42 mm) con acabado pulido en color dorado - 2 pulsadores dorados - 10 ATM de resistencia a la presión del agua
 - Brazalete de acero inoxidable con acabado pulido brillante y mate dorado - Cierre de seguridad desplegable
-- Esfera dorada con índices dorados y números romanos a las 2/4/8/10/12 - Cronógrafo con fecha y modo 24h - Agujas doradas - Cristal mineral
 - Presentado en estuche MICHAEL KORS
+- Esfera dorada con índices dorados y números romanos a las 2/4/8/10/12 - Cronógrafo con fecha y modo 24h - Agujas doradas - Cristal mineral
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006IWDWGS/?tag=tolees-21)

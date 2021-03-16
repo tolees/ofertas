@@ -5,7 +5,7 @@ date: 2020-02-03 01:01:31
 image: 'https://m.media-amazon.com/images/I/31Pd39Q4gpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXLXVWG-es GANT Kelly Mocasines para Mujer Negro Black G00 39 EU'
 sku: 'B07MXLXVWG-es'
 tags: [  ]

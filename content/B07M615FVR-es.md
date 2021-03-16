@@ -5,7 +5,7 @@ date: 2020-10-08 11:39:14
 image: 'https://m.media-amazon.com/images/I/51Ugqa6JifL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M615FVR-es AWESAFE GPS para Coches con 5 Pulgadas Pantalla LCD...'
 sku: 'B07M615FVR-es'
 tags: [  ]

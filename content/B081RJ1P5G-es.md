@@ -5,7 +5,7 @@ date: 2020-03-03 09:41:08
 image: 'https://m.media-amazon.com/images/I/61eo1c0Fd3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RJ1P5G-es Dookey Pintura Facial Maquillaje al Agua Pinturas Cara...'
 sku: 'B081RJ1P5G-es'
 tags: [  ]

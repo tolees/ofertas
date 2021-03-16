@@ -5,7 +5,7 @@ date: 2020-02-29 19:48:07
 image: 'https://m.media-amazon.com/images/I/418KvJpoj3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PD71LVM-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B00PD71LVM-es'
 tags: [  ]

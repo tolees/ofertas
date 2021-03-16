@@ -5,7 +5,7 @@ date: 2020-01-02 07:47:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/411mAqm%2BGTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078K5KPS2-es The North Face Hedgehog Hike II GTX Zapatillas de...'
 sku: 'B078K5KPS2-es'
 tags: [  ]

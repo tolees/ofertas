@@ -5,7 +5,7 @@ date: 2020-03-28 18:45:27
 image: 'https://m.media-amazon.com/images/I/519ZutuHpuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BTTBC0S-es KidKraft- Set de pista de carreras de madera Mega Ramp con...'
 sku: 'B00BTTBC0S-es'
 tags: [  ]

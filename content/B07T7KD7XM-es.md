@@ -5,7 +5,7 @@ date: 2020-01-29 12:58:56
 image: 'https://m.media-amazon.com/images/I/41lbwaWm-9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7KD7XM-es Arena Cruiser EVO Goggles Adultos Unisex Clear-Blue TU'
 sku: 'B07T7KD7XM-es'
 tags: [  ]

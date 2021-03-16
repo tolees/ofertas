@@ -5,7 +5,7 @@ date: 2020-01-17 12:15:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41raP%2BI7y7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F15F5JF-es Neceser Pepe Jeans Cranford Marrón'
 sku: 'B07F15F5JF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 18:08:47
 image: 'https://m.media-amazon.com/images/I/31MwE0jpKvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000TUNMW4-es Bioderma Sebium Gel Moussant Nettoyant Purifiant 200 ml'
 sku: 'B000TUNMW4-es'
 tags: [  ]

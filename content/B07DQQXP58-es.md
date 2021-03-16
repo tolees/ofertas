@@ -5,7 +5,7 @@ date: 2020-03-09 14:56:34
 image: 'https://m.media-amazon.com/images/I/31cNJ6LVwIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQQXP58-es adidas Runr Splt Short Sport Shorts Hombre Black M'
 sku: 'B07DQQXP58-es'
 tags: [  ]

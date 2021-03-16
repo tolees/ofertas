@@ -5,7 +5,7 @@ date: 2020-04-24 19:29:00
 image: 'https://m.media-amazon.com/images/I/41qQvLt7HfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBW5XJ1-es Baseus Soporte Móvil Coche Soporte del Coche Móvil...'
 sku: 'B07GBW5XJ1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-16 18:12:07
 image: 'https://m.media-amazon.com/images/I/41-v0S8J2uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBXMLP1-es URAQT Parasol de Coche Parasol Coche Bebe Parasoles para...'
 sku: 'B07RBXMLP1-es'
 tags: [  ]

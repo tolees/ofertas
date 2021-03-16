@@ -5,7 +5,7 @@ date: 2020-01-11 08:56:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RP798DSVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPR8M9C-es Nivel Láser Autonivelante Verde LOMVUM LL-DR2-G2 Nivelador...'
 sku: 'B07QPR8M9C-es'
 tags: [  ]

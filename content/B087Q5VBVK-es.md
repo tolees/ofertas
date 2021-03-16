@@ -5,7 +5,7 @@ date: 2020-08-26 16:35:22
 image: 'https://m.media-amazon.com/images/I/510jh6HL+FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087Q5VBVK-es Cámara Digital para Niños 8MP Digital Cámaras Fotos...'
 sku: 'B087Q5VBVK-es'
 tags: [  ]

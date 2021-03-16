@@ -5,7 +5,7 @@ date: 2020-06-10 09:19:29
 image: 'https://m.media-amazon.com/images/I/41iehQoVLsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WP4PMB-es Benkeg Generador de ozono purificador de Aire eléctrico...'
 sku: 'B088WP4PMB-es'
 tags: [  ]

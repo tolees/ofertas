@@ -5,7 +5,7 @@ date: 2020-08-19 12:18:06
 image: 'https://m.media-amazon.com/images/I/41p6HMyfSFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075ZTCX4K-es Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con...'
 sku: 'B075ZTCX4K-es'
 tags: [  ]

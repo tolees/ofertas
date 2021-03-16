@@ -5,7 +5,7 @@ date: 2020-04-27 01:10:20
 image: 'https://m.media-amazon.com/images/I/31xoh4H2K2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVX2M3N-es Superdry Orange Label Jogger Pantalones de deporte Gris...'
 sku: 'B07JVX2M3N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-05 22:26:38
 image: 'https://m.media-amazon.com/images/I/31YH-tQEKpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TT33I3A-es Bahco 2485 BH2485'
 sku: 'B00TT33I3A-es'
 tags: [  ]

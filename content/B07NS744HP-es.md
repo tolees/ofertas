@@ -5,7 +5,7 @@ date: 2020-03-28 15:18:27
 image: 'https://m.media-amazon.com/images/I/41Gex2xypHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NS744HP-es Marco Tozzi 2-2-25112-33 Botas Chukka para Mujer Gris...'
 sku: 'B07NS744HP-es'
 tags: [  ]

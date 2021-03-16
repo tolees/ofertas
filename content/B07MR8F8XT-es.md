@@ -5,7 +5,7 @@ date: 2020-08-13 21:33:14
 image: 'https://m.media-amazon.com/images/I/41+nbPgA3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MR8F8XT-es Lee Scarlett High Jeans Azul Mid Copan Iw 29W / 31L para...'
 sku: 'B07MR8F8XT-es'
 tags: [  ]

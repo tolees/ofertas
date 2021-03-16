@@ -5,7 +5,7 @@ date: 2020-04-06 21:07:02
 image: 'https://m.media-amazon.com/images/I/51B6nWY0NfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076H7TTM3-es Liebeskind Berlin - Piperf8 Core Mujer Carteras Beige...'
 sku: 'B076H7TTM3-es'
 tags: [  ]

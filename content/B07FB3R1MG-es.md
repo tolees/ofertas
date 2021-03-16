@@ -5,7 +5,7 @@ date: 2020-06-16 11:01:43
 image: 'https://m.media-amazon.com/images/I/51RTZ6Y7mCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FB3R1MG-es Viaman Plus - Fórmula Natural Para El Rendimiento...'
 sku: 'B07FB3R1MG-es'
 tags: [  ]

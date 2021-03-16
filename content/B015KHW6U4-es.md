@@ -5,7 +5,7 @@ date: 2020-10-07 06:17:16
 image: 'https://m.media-amazon.com/images/I/41dUlZLIfZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015KHW6U4-es Nike Air Max Command Leather - Zapatillas de running...'
 sku: 'B015KHW6U4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-09 13:19:59
 image: 'https://m.media-amazon.com/images/I/414i0UJomBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NJ73Z-es PUMA Flyer Runner Zapatillas de Running para Hombre Azul...'
 sku: 'B07S6NJ73Z-es'
 tags: [  ]

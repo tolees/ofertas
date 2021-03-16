@@ -5,7 +5,7 @@ date: 2020-09-23 12:25:20
 image: 'https://m.media-amazon.com/images/I/41UaaaLWvoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087CSNDRT-es FitBeast Banda de Resistencia con Anclaje para Puerta...'
 sku: 'B087CSNDRT-es'
 tags: [  ]

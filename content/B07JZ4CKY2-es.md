@@ -5,7 +5,7 @@ date: 2020-07-16 16:53:44
 image: 'https://m.media-amazon.com/images/I/51Xrz+bfVzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ4CKY2-es 400pcs pluma de color ZoomSky pluma manualidad de plumaje...'
 sku: 'B07JZ4CKY2-es'
 tags: [  ]

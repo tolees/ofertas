@@ -5,7 +5,7 @@ date: 2020-02-24 18:20:13
 image: 'https://m.media-amazon.com/images/I/41HKbfmtVPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R38ISL0-es Philips Lighting Iron Man Linterna LED 0.3 W Azul'
 sku: 'B00R38ISL0-es'
 tags: [  ]

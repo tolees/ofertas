@@ -5,7 +5,7 @@ date: 2020-05-28 17:23:32
 image: 'https://m.media-amazon.com/images/I/51ZkyRdWkUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HQ2IXZ8-es TensCare Flexistim - Electroestimulador Completo con 4...'
 sku: 'B01HQ2IXZ8-es'
 tags: [  ]

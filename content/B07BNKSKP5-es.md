@@ -5,7 +5,7 @@ date: 2020-10-07 06:17:47
 image: 'https://m.media-amazon.com/images/I/41jlq0oUnOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNKSKP5-es LEDKIA LIGHTING Lámpara de Techo Orientable Ates 4 Focos...'
 sku: 'B07BNKSKP5-es'
 tags: [  ]

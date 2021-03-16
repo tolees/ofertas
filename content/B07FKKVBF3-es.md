@@ -5,7 +5,7 @@ date: 2020-02-19 16:17:45
 image: 'https://m.media-amazon.com/images/I/31csnDzYi1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKKVBF3-es Joma Academy Chandal Caballero Hombre Marino/Blanco L'
 sku: 'B07FKKVBF3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 17:05:07
 image: 'https://m.media-amazon.com/images/I/41tyYfj+EWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NOW988G-es BAUSCH + LOMB - SofLens® Natural Colors - Lentes De...'
 sku: 'B00NOW988G-es'
 tags: [  ]

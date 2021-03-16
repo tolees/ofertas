@@ -5,7 +5,7 @@ date: 2020-06-01 11:08:28
 image: 'https://m.media-amazon.com/images/I/41DBNOZ8v5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGCS7WF-es AJOXEL Antifaz para Dormir Máscara De Dormir Antifaz Gel...'
 sku: 'B07SGCS7WF-es'
 tags: [  ]

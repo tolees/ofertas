@@ -5,7 +5,7 @@ date: 2020-09-28 12:31:21
 image: 'https://m.media-amazon.com/images/I/313xSQ5HJzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868RPS5L-es DeoMeat 2 mm HSS Acero de Alta Velocidad a 3 mm dañado...'
 sku: 'B0868RPS5L-es'
 tags: [  ]

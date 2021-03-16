@@ -5,7 +5,7 @@ date: 2020-07-18 08:17:36
 image: 'https://m.media-amazon.com/images/I/41zv7rQvvjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NQGL5T-es Royal Padel EFE Carbon Attack 2020 Amarilla-Azul'
 sku: 'B089NQGL5T-es'
 tags: [  ]

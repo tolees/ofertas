@@ -5,7 +5,7 @@ date: 2020-09-19 09:01:16
 image: 'https://m.media-amazon.com/images/I/21gQeTqOMvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6NXEY7-es Sony HT-ST5000 - Barra de Sonido 7.1.2 Canales 800 W Dolby...'
 sku: 'B01N6NXEY7-es'
 tags: [  ]

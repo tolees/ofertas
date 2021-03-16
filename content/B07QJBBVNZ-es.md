@@ -5,7 +5,7 @@ date: 2020-01-12 11:37:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417gZV4f3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJBBVNZ-es ROYAL SLEEP Canapé Abatible 105x190 de Gran Capacidad Tapa...'
 sku: 'B07QJBBVNZ-es'
 tags: [  ]

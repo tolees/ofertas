@@ -5,7 +5,7 @@ date: 2020-01-04 20:14:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qv1zOyL8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJ8V3L-es Kipling - Amiel Bolsos maletín Mujer Morado Dark Plum...'
 sku: 'B07MVJ8V3L-es'
 tags: [  ]

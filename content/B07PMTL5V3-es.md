@@ -5,7 +5,7 @@ date: 2020-06-27 18:54:25
 image: 'https://m.media-amazon.com/images/I/31SKHVEBrdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PMTL5V3-es Under Armour Favorite 2.0 Bolsa Deportiva Mujer Negro OSFA'
 sku: 'B07PMTL5V3-es'
 tags: [  ]

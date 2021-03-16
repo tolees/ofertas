@@ -5,7 +5,7 @@ date: 2020-03-11 22:37:58
 image: 'https://m.media-amazon.com/images/I/31dz+9iEGOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G6F8TOM-es Gant Contrast Color Pique - Polo con manga corta para...'
 sku: 'B00G6F8TOM-es'
 tags: [  ]

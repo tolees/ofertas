@@ -5,7 +5,7 @@ date: 2020-08-17 16:58:06
 image: 'https://m.media-amazon.com/images/I/41y-8Aa-FBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS7XM87-es Laelr Dual Reloj Despertador Digital con Formato con luz...'
 sku: 'B07VS7XM87-es'
 tags: [  ]

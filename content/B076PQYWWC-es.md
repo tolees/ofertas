@@ -5,7 +5,7 @@ date: 2020-01-19 13:48:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B7sIgSiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PQYWWC-es Nilfisk - Aspiradora Hepa Basic EU - Serie Nilfisk VP300'
 sku: 'B076PQYWWC-es'
 tags: [  ]

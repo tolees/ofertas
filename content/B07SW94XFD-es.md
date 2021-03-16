@@ -5,7 +5,7 @@ date: 2020-07-03 22:29:25
 image: 'https://m.media-amazon.com/images/I/41ihT6k-++L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SW94XFD-es Fintie Funda Compatible con Samsung Galaxy Tab A 10.1 2019...'
 sku: 'B07SW94XFD-es'
 tags: [  ]

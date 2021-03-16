@@ -5,7 +5,7 @@ date: 2020-07-11 17:12:39
 image: 'https://m.media-amazon.com/images/I/519ktWbbPNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7WW2GT-es NUNCAD Anillo Hombre/Mujer con Shell + Madera/Ópalo de...'
 sku: 'B07N7WW2GT-es'
 tags: [  ]

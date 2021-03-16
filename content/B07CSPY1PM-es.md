@@ -5,7 +5,7 @@ date: 2020-04-13 10:16:47
 image: 'https://m.media-amazon.com/images/I/41caGFKIlgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CSPY1PM-es ValueHall 18 Piezas Sierra de Corona Perforadora Juego de...'
 sku: 'B07CSPY1PM-es'
 tags: [  ]

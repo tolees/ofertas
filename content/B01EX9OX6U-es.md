@@ -5,7 +5,7 @@ date: 2020-06-25 16:17:38
 image: 'https://m.media-amazon.com/images/I/31Tfj2AfL-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EX9OX6U-es LEDKIA LIGHTING Placa LED Circular SuperSlim 18W Silver...'
 sku: 'B01EX9OX6U-es'
 tags: [  ]

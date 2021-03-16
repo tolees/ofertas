@@ -5,7 +5,7 @@ date: 2020-10-09 19:14:38
 image: 'https://m.media-amazon.com/images/I/41E0EKjO3pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XH3DTCV-es Esprit 109ee1i003 suéter Gris Medium Grey 5 039 Small para...'
 sku: 'B07XH3DTCV-es'
 tags: [  ]

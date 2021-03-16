@@ -5,7 +5,7 @@ date: 2020-04-25 07:55:28
 image: 'https://m.media-amazon.com/images/I/31ww8aSW9sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCC6Y7S-es Adidas Grand Court K Zapatillas de Tenis Unisex niño Blanc...'
 sku: 'B07QCC6Y7S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-16 13:10:28
 image: 'https://m.media-amazon.com/images/I/41vHsaXdWJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WHRCF7U-es NIVEA SUN Protege & Hidrata Leche Solar FP30 1 x 400 ml...'
 sku: 'B00WHRCF7U-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 00:34:13
 image: 'https://m.media-amazon.com/images/I/51yGr4-+06L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXYBQXK-es Bolsa de Herramientas TECCPO Professional Bolsa de Trabajo...'
 sku: 'B07FXYBQXK-es'
 tags: [  ]

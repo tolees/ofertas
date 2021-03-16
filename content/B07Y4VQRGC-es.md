@@ -5,7 +5,7 @@ date: 2020-09-28 13:01:53
 image: 'https://m.media-amazon.com/images/I/41gdPb8oS4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4VQRGC-es Compatible con Samsung Galaxy S10 Plus funda transparente...'
 sku: 'B07Y4VQRGC-es'
 tags: [  ]

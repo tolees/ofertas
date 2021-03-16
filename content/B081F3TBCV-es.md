@@ -5,7 +5,7 @@ date: 2020-05-09 15:02:15
 image: 'https://m.media-amazon.com/images/I/41zwhWu76rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081F3TBCV-es LoveOlvido Transparente Antiadherente acrílico Fondant...'
 sku: 'B081F3TBCV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-20 06:59:53
 image: 'https://m.media-amazon.com/images/I/41Rn9Aja9tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JF1R32S-es Monix VELOCE - Olla a presión rápida de 7 litros'
 sku: 'B00JF1R32S-es'
 tags: [  ]

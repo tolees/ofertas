@@ -5,7 +5,7 @@ date: 2020-02-04 07:31:18
 image: 'https://m.media-amazon.com/images/I/41h5OtZfYTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781YCK4M-es caseable - Funda para Kindle y Kindle Paperwhite Gold Dots'
 sku: 'B0781YCK4M-es'
 tags: [  ]

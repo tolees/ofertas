@@ -5,7 +5,7 @@ date: 2020-09-07 10:42:28
 image: 'https://m.media-amazon.com/images/I/41tOTnZz3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B8C3YLB-es Head Pala de Padel Alpha Speed 2020'
 sku: 'B08B8C3YLB-es'
 tags: [  ]

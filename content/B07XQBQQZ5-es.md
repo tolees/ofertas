@@ -5,7 +5,7 @@ date: 2020-01-19 11:23:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31vwX3gLNwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQBQQZ5-es Montse Interiors S.L. Cuadrante o Cojín Decoración Rústico...'
 sku: 'B07XQBQQZ5-es'
 tags: [  ]

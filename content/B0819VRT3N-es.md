@@ -5,7 +5,7 @@ date: 2020-05-23 09:50:30
 image: 'https://m.media-amazon.com/images/I/41PGs2bXKXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0819VRT3N-es Guess jeans HWSM74 76180 logo city'
 sku: 'B0819VRT3N-es'
 tags: [  ]

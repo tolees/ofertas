@@ -5,7 +5,7 @@ date: 2020-07-18 20:14:11
 image: 'https://m.media-amazon.com/images/I/31e9Vpoa0fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6DRQMO-es Jata Hogar 762 Balanza electrónica dietética Capacidad 5kg...'
 sku: 'B01M6DRQMO-es'
 tags: [  ]

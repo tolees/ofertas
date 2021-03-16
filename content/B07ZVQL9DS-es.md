@@ -5,7 +5,7 @@ date: 2020-10-12 01:49:54
 image: 'https://m.media-amazon.com/images/I/31NYtUlsxNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVQL9DS-es LED Lámpara de Techo Kimjo 36W IP44 Impermeable Plafón LED...'
 sku: 'B07ZVQL9DS-es'
 tags: [  ]

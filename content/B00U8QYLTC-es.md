@@ -5,7 +5,7 @@ date: 2020-04-22 17:04:26
 image: 'https://m.media-amazon.com/images/I/31KepSMOqbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U8QYLTC-es Beter 34062 - Pinzas punta cangrejo doradas 9 3 cm'
 sku: 'B00U8QYLTC-es'
 tags: [  ]

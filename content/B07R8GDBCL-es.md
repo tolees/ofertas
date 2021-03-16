@@ -5,7 +5,7 @@ date: 2020-01-09 14:04:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ek%2BSsIIkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R8GDBCL-es CARE OF by PUMA Zapatillas bajas en cuero y con plataforma...'
 sku: 'B07R8GDBCL-es'
 tags: [  ]

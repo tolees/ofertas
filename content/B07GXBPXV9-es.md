@@ -5,7 +5,7 @@ date: 2020-01-17 01:01:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xNHXcnJWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXBPXV9-es PNI ZN101 - Ordenador portátil de 10.6" Intel Z8350 2 GB...'
 sku: 'B07GXBPXV9-es'
 tags: [  ]

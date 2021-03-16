@@ -5,7 +5,7 @@ date: 2020-01-22 19:35:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Vbv6qRHFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772P8HCP-es SUBITO Knit'
 sku: 'B0772P8HCP-es'
 tags: [  ]

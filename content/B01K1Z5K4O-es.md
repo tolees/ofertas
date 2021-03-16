@@ -5,7 +5,7 @@ date: 2020-10-01 07:10:51
 image: 'https://m.media-amazon.com/images/I/41KoyXFd7FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K1Z5K4O-es Electrolux Love Your Day Collection Batidora de repostería...'
 sku: 'B01K1Z5K4O-es'
 tags: [  ]

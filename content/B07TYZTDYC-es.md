@@ -5,7 +5,7 @@ date: 2020-05-15 18:32:32
 image: 'https://m.media-amazon.com/images/I/51814P4d0vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYZTDYC-es QHOHQ Protector de Pantalla para Echo Show 5 [3 Unidades]...'
 sku: 'B07TYZTDYC-es'
 tags: [  ]

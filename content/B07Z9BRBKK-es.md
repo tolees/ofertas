@@ -5,7 +5,7 @@ date: 2020-08-08 17:18:19
 image: 'https://m.media-amazon.com/images/I/41jkRcLfyCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9BRBKK-es B Baosity Filtro de Aire para Cabina de Polen para Coche...'
 sku: 'B07Z9BRBKK-es'
 tags: [  ]

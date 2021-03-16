@@ -5,7 +5,7 @@ date: 2020-04-16 11:27:59
 image: 'https://m.media-amazon.com/images/I/51VNLHpGwlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CNSQ8BQ-es royalfirst tablón brasileño Virgen Pelo Humano Pelucas De...'
 sku: 'B01CNSQ8BQ-es'
 tags: [  ]

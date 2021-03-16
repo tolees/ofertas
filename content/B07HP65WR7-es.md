@@ -5,7 +5,7 @@ date: 2020-01-22 15:39:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412Kac19k1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HP65WR7-es Slimming Essence Crema anticelulítica 60ml Adelgazante...'
 sku: 'B07HP65WR7-es'
 tags: [  ]

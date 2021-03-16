@@ -5,7 +5,7 @@ date: 2020-03-10 08:50:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ToopxTzwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GKQG2DC-es Wilson Pro Feel Antivibrador Raqueta-Unisex...'
 sku: 'B00GKQG2DC-es'
 tags: [  ]

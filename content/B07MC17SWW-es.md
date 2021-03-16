@@ -5,7 +5,7 @@ date: 2020-04-15 19:04:45
 image: 'https://m.media-amazon.com/images/I/41eWRugCqvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC17SWW-es HKT by Hackett Hkt SS Str Polo Ink 591 Large para Hombre'
 sku: 'B07MC17SWW-es'
 tags: [  ]

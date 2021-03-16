@@ -5,7 +5,7 @@ date: 2020-04-20 11:45:26
 image: 'https://m.media-amazon.com/images/I/51Y72Qrq4-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDWAVKQ-es Naturtint. Tinte Sin Amoniaco. Ingredientes Vegetales. 7G...'
 sku: 'B00XDWAVKQ-es'
 tags: [  ]

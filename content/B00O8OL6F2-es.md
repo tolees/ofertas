@@ -5,7 +5,7 @@ date: 2020-07-02 13:08:10
 image: 'https://m.media-amazon.com/images/I/41kn-CNf4JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O8OL6F2-es Manguitos Hinchables Bestway Minnie Mouse'
 sku: 'B00O8OL6F2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-19 12:47:50
 image: 'https://m.media-amazon.com/images/I/41uM+G9w5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QMT1T3-es Dani - Cebolla escamas - Pack 12 x 40 gr.'
 sku: 'B087QMT1T3-es'
 tags: [  ]

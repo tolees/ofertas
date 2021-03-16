@@ -5,7 +5,7 @@ date: 2020-08-05 13:26:19
 image: 'https://m.media-amazon.com/images/I/418ibVgmqdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HM5W4WJ-es LS LOVELY STORY REGALA HISTORIAS BONITAS LD0629 PACK 2...'
 sku: 'B07HM5W4WJ-es'
 tags: [  ]

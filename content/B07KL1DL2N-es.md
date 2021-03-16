@@ -5,7 +5,7 @@ date: 2020-04-15 12:03:25
 image: 'https://m.media-amazon.com/images/I/41fNSFx5ApL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL1DL2N-es Safety 1st Soft Dreams Cuna de viaje plegable y portatil...'
 sku: 'B07KL1DL2N-es'
 tags: [  ]

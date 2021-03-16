@@ -5,7 +5,7 @@ date: 2020-09-09 10:00:33
 image: 'https://m.media-amazon.com/images/I/51Id1IAvCAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WCC24N-es MASERATI Reloj Analógico para Hombre de Automático con...'
 sku: 'B078WCC24N-es'
 tags: [  ]

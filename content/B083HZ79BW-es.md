@@ -5,7 +5,7 @@ date: 2020-07-23 09:01:28
 image: 'https://m.media-amazon.com/images/I/61y8E83ObKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HZ79BW-es J35038-Tm Anti-Fall Creative Simple Marble Pattern...'
 sku: 'B083HZ79BW-es'
 tags: [  ]

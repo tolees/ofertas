@@ -5,7 +5,7 @@ date: 2020-04-12 17:28:14
 image: 'https://m.media-amazon.com/images/I/41bpXM0M8fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0054QE6FU-es Mister Vac A307 - Filtro HEPA H 12 para aspiradoras...'
 sku: 'B0054QE6FU-es'
 tags: [  ]

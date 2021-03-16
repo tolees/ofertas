@@ -5,7 +5,7 @@ date: 2020-05-29 07:49:35
 image: 'https://m.media-amazon.com/images/I/51Oj2HcycXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HRJN47-es adidas Core18 TR SHO Y Pantalones Cortos de Deporte Unisex...'
 sku: 'B076HRJN47-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-25 00:39:15
 image: 'https://m.media-amazon.com/images/I/41XwKEc6+6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075L7KZXQ-es Auriculares Bluetooth V4.1 Yuanguo Auriculares V4.1...'
 sku: 'B075L7KZXQ-es'
 tags: [  ]

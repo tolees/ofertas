@@ -5,7 +5,7 @@ date: 2020-05-06 20:05:43
 image: 'https://m.media-amazon.com/images/I/41nGr4Mf9VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CD5KL6R-es MEDION S3409 - MD 60999 - Ordenador portátil de 13.3" Full...'
 sku: 'B07CD5KL6R-es'
 tags: [  ]

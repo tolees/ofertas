@@ -5,7 +5,7 @@ date: 2020-05-16 09:08:33
 image: 'https://m.media-amazon.com/images/I/41JQG5DBd4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087M1CL7Y-es Agger 2 Piezas de Asiento Ajustable posicionador del sueño...'
 sku: 'B087M1CL7Y-es'
 tags: [  ]

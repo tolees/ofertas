@@ -5,7 +5,7 @@ date: 2020-03-12 14:55:57
 image: 'https://m.media-amazon.com/images/I/41Fv4in1VOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004QSDVIA-es BELCILS - VIÑAS BELCILS Corrector Invisible 4 g'
 sku: 'B004QSDVIA-es'
 tags: [  ]

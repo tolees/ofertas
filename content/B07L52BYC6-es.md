@@ -5,7 +5,7 @@ date: 2020-01-22 13:35:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jlxa1BNDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L52BYC6-es adidas Terrex Ax3 GTX W Zapatillas de Senderismo para...'
 sku: 'B07L52BYC6-es'
 tags: [  ]

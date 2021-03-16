@@ -5,7 +5,7 @@ date: 2020-06-11 00:57:46
 image: 'https://m.media-amazon.com/images/I/51-DvnX+CWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J4JRXBM-es Xylazel M57858 - Carcomas 750 ml'
 sku: 'B00J4JRXBM-es'
 tags: [  ]

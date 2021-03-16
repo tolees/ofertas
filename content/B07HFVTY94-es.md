@@ -5,7 +5,7 @@ date: 2020-01-04 17:21:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hz2i1-2VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFVTY94-es Autmor OBD II Auto Diagnóstico de Coches OBD2 OBD Lector...'
 sku: 'B07HFVTY94-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-03 18:33:16
 image: 'https://m.media-amazon.com/images/I/41Txbmq0JjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTS3Z2Q-es D18 Smart Fitness Pulsera Banda con medidor de Pulso de...'
 sku: 'B08BTS3Z2Q-es'
 tags: [  ]

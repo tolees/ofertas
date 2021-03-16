@@ -5,7 +5,7 @@ date: 2020-02-12 19:36:14
 image: 'https://m.media-amazon.com/images/I/41jVUHwUVxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2S1PK7-es Sharp XL-B710 BK All In One Sound System con Radio Fm...'
 sku: 'B07F2S1PK7-es'
 tags: [  ]

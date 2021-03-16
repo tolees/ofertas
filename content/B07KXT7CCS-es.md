@@ -5,7 +5,7 @@ date: 2020-02-03 21:49:22
 image: 'https://m.media-amazon.com/images/I/51fpGg4I4JL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXT7CCS-es Sinis Hispania - Polen Natural de Abeja - Pack 2 unidades...'
 sku: 'B07KXT7CCS-es'
 tags: [  ]

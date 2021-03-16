@@ -5,7 +5,7 @@ date: 2020-04-17 10:59:08
 image: 'https://m.media-amazon.com/images/I/41OMP6I82EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZFLFK8-es Mustang Ben H Logo Capucha Gris Mid Grey Melange 4140...'
 sku: 'B07MZFLFK8-es'
 tags: [  ]

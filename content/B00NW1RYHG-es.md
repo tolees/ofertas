@@ -5,7 +5,7 @@ date: 2020-10-08 13:35:32
 image: 'https://m.media-amazon.com/images/I/31lkm6f6LrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NW1RYHG-es Kenwood KAH647PL Accesorio procesador de alimentos...'
 sku: 'B00NW1RYHG-es'
 tags: [  ]

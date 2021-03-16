@@ -5,7 +5,7 @@ date: 2020-01-18 22:55:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RgMMmDceL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012GR9HS0-es Buff Solid Gorro Lana Merino Lightweight Unisex Adulto...'
 sku: 'B012GR9HS0-es'
 tags: [  ]

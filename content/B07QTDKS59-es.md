@@ -5,7 +5,7 @@ date: 2020-10-09 14:17:15
 image: 'https://m.media-amazon.com/images/I/413r7QDca1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTDKS59-es Focusrite Scarlett Solo Studio 3rd Gen Interfaz de Audio...'
 sku: 'B07QTDKS59-es'
 tags: [  ]

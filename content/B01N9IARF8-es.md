@@ -5,7 +5,7 @@ date: 2020-02-08 10:09:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41886-2QuiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9IARF8-es Kappa Kickoff Zapatillas de Deporte Interior Unisex Niños...'
 sku: 'B01N9IARF8-es'
 tags: [  ]

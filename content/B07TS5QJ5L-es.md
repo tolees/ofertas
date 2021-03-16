@@ -5,7 +5,7 @@ date: 2020-02-07 12:28:00
 image: 'https://m.media-amazon.com/images/I/41Tk0+9sMVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS5QJ5L-es Mini Camara Espia FREDI/Cámara Oculta HD 1080P Spy Mini...'
 sku: 'B07TS5QJ5L-es'
 tags: [  ]

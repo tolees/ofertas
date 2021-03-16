@@ -5,7 +5,7 @@ date: 2020-04-02 19:10:23
 image: 'https://m.media-amazon.com/images/I/31hhcrSQf-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M95B5MC-es Lee 5 Pocket Wide Leg Corduroy Pantalones para Mujer Rosa...'
 sku: 'B07M95B5MC-es'
 tags: [  ]

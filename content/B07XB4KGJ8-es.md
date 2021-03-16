@@ -5,7 +5,7 @@ date: 2020-05-07 10:29:28
 image: 'https://m.media-amazon.com/images/I/41T4piOkKHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XB4KGJ8-es FENICAL Gorro quirúrgico Ajustable Perro Impreso médico...'
 sku: 'B07XB4KGJ8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 18:50:33
 image: 'https://m.media-amazon.com/images/I/417npVMbBnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OASPVVG-es SONGMICS LJB65W - Taburete de Bar con Respaldo Sintético...'
 sku: 'B00OASPVVG-es'
 tags: [  ]

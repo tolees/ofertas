@@ -5,7 +5,7 @@ date: 2020-07-06 18:11:56
 image: 'https://m.media-amazon.com/images/I/31a-4NAQ7AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QM6F2M-es Tommy Hilfiger New ALY Belt Cinturón Braun DARK TAN 257...'
 sku: 'B016QM6F2M-es'
 tags: [  ]

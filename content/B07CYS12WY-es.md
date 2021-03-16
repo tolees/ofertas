@@ -5,7 +5,7 @@ date: 2020-10-08 19:16:20
 image: 'https://m.media-amazon.com/images/I/41wpaxLJljL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYS12WY-es Calvin Klein Reloj para de con Correa en Caucho K8R114D1'
 sku: 'B07CYS12WY-es'
 tags: [  ]

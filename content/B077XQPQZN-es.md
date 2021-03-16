@@ -5,7 +5,7 @@ date: 2020-04-19 15:37:00
 image: 'https://m.media-amazon.com/images/I/41o5pSI13UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XQPQZN-es Adidas Nemeziz Messi Tango 17.4 TF J Botas de fútbol...'
 sku: 'B077XQPQZN-es'
 tags: [  ]

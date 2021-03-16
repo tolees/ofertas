@@ -5,7 +5,7 @@ date: 2020-10-10 08:44:55
 image: 'https://m.media-amazon.com/images/I/41706JWXdCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9W35GM-es L Oréal Paris Men Expert Hydra Sensitive Espuma de Afeitar...'
 sku: 'B00X9W35GM-es'
 tags: [  ]

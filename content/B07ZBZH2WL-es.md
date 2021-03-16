@@ -5,7 +5,7 @@ date: 2020-05-17 17:44:34
 image: 'https://m.media-amazon.com/images/I/31eA+syyP9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZBZH2WL-es Ozono Peel Peeling Enzimático. 210 Ml'
 sku: 'B07ZBZH2WL-es'
 tags: [  ]

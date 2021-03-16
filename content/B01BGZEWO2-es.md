@@ -5,7 +5,7 @@ date: 2020-09-14 02:39:18
 image: 'https://m.media-amazon.com/images/I/51QXBU+1CRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGZEWO2-es Corsair Dominator Platinum - Módulo de Memoria XMP 2.0 de...'
 sku: 'B01BGZEWO2-es'
 tags: [  ]

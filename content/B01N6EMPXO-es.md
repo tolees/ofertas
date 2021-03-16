@@ -5,7 +5,7 @@ date: 2020-02-09 21:50:32
 image: 'https://m.media-amazon.com/images/I/41elRPLPp8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6EMPXO-es Vitamaze® Vitamina B Complex con 180 tabletas veganas de...'
 sku: 'B01N6EMPXO-es'
 tags: [  ]

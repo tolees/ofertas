@@ -5,7 +5,7 @@ date: 2020-10-09 20:00:25
 image: 'https://m.media-amazon.com/images/I/41YWLO-DqfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075K9H5GH-es New Balance Hombre 574v2-core Trainers Zapatillas Negro...'
 sku: 'B075K9H5GH-es'
 tags: [  ]

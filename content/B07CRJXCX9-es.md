@@ -5,7 +5,7 @@ date: 2020-04-28 09:35:36
 image: 'https://m.media-amazon.com/images/I/41dgGTICzFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CRJXCX9-es American Tourister Holiday Heat - Upright Equipaje de Mano...'
 sku: 'B07CRJXCX9-es'
 tags: [  ]

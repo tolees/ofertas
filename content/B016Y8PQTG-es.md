@@ -5,7 +5,7 @@ date: 2020-04-05 20:01:41
 image: 'https://m.media-amazon.com/images/I/31wf0VBEvOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016Y8PQTG-es SAMs Tierhausschuhe Disney Star Wars Trooper Hausschuhe'
 sku: 'B016Y8PQTG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-30 18:07:58
 image: 'https://m.media-amazon.com/images/I/41EIeYJ8KAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BYSY65V-es L Oreal Paris Dermo Expertise Revitalift Filler Mascarilla...'
 sku: 'B07BYSY65V-es'
 tags: [  ]

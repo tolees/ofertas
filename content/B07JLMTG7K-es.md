@@ -5,7 +5,7 @@ date: 2020-07-29 16:17:34
 image: 'https://m.media-amazon.com/images/I/41c8NQmauiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JLMTG7K-es Deik Planchas de Ropa 2000W Plancha Ropa Vapor Vapor...'
 sku: 'B07JLMTG7K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-24 18:46:53
 image: 'https://m.media-amazon.com/images/I/41UDhaRWK1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVQNL3C-es Under Armour UA W Charged Aurora Zapatillas Deportivas...'
 sku: 'B07PVQNL3C-es'
 tags: [  ]

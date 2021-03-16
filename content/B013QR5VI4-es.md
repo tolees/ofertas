@@ -5,7 +5,7 @@ date: 2020-10-08 14:23:17
 image: 'https://m.media-amazon.com/images/I/51X86bqPbgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013QR5VI4-es Tamron AF 18-200 mm F/3.5-6.3 XR Di II - Objetivo para...'
 sku: 'B013QR5VI4-es'
 tags: [  ]

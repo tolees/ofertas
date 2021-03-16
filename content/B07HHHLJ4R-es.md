@@ -5,7 +5,7 @@ date: 2020-07-21 12:54:42
 image: 'https://m.media-amazon.com/images/I/51pV4d3tLvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHHLJ4R-es SYOSS Coloración permanente - 6 unidades Sin Amoníaco Tono...'
 sku: 'B07HHHLJ4R-es'
 tags: [  ]

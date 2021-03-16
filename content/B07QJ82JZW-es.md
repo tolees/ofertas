@@ -5,7 +5,7 @@ date: 2020-03-03 18:10:39
 image: 'https://m.media-amazon.com/images/I/41aZx9y01xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJ82JZW-es Armani Exchange Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07QJ82JZW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-06 08:03:50
 image: 'https://m.media-amazon.com/images/I/31BC3a6w1YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078X5MK7G-es Sony HT-XF9000 - Barra de Sonido 2.1 Dolby Atmos DTS:X...'
 sku: 'B078X5MK7G-es'
 tags: [  ]

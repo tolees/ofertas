@@ -5,7 +5,7 @@ date: 2020-04-11 07:50:39
 image: 'https://m.media-amazon.com/images/I/41SKIG7cMaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC4BGSS-es SKYSPER Ciclismo Maillot Hombres Pantalones Cortos Culote...'
 sku: 'B07DC4BGSS-es'
 tags: [  ]

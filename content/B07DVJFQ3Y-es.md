@@ -5,7 +5,7 @@ date: 2020-03-14 22:25:32
 image: 'https://m.media-amazon.com/images/I/41+BbquyrkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVJFQ3Y-es Haofy Bombillas Sensor de Luz LED 7W E26/E27 Bombillas...'
 sku: 'B07DVJFQ3Y-es'
 tags: [  ]

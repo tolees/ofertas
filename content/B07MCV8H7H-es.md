@@ -5,7 +5,7 @@ date: 2020-06-26 14:06:35
 image: 'https://m.media-amazon.com/images/I/41yIe06KNSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCV8H7H-es Pole Watches Reloj de Pulsera Analógico Monoaguja de...'
 sku: 'B07MCV8H7H-es'
 tags: [  ]

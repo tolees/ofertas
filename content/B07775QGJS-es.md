@@ -5,7 +5,7 @@ date: 2020-08-17 18:58:02
 image: 'https://m.media-amazon.com/images/I/31r8j0I83HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07775QGJS-es Tommy Jeans Mujer Mid Rise Nora Jeans Azul Boogie Blue...'
 sku: 'B07775QGJS-es'
 tags: [  ]

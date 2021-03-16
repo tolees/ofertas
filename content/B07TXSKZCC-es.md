@@ -5,7 +5,7 @@ date: 2020-09-21 01:49:01
 image: 'https://m.media-amazon.com/images/I/51xW9UaMe3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXSKZCC-es PMFS Reloj Inteligente Relojes para niños Bambini para...'
 sku: 'B07TXSKZCC-es'
 tags: [  ]

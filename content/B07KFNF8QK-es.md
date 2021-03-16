@@ -5,7 +5,7 @@ date: 2020-08-24 09:35:06
 image: 'https://m.media-amazon.com/images/I/41jeo39NmfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFNF8QK-es Cuckool-5 test de embarazo ultrasensibles 10mIU/ml 5 HCG'
 sku: 'B07KFNF8QK-es'
 tags: [  ]

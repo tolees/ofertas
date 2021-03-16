@@ -5,7 +5,7 @@ date: 2020-07-28 19:01:25
 image: 'https://m.media-amazon.com/images/I/41VLh0MmdpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WYD9GX-es Agger MicroUSB Conector Macho de 5 Pines Micro USB Tipo B...'
 sku: 'B088WYD9GX-es'
 tags: [  ]

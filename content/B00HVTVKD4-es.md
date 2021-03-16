@@ -5,7 +5,7 @@ date: 2020-05-25 16:32:27
 image: 'https://m.media-amazon.com/images/I/41vNvjbZWnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HVTVKD4-es Superga 2750 COTU Classic Zapatillas de Gimnasia Unisexo...'
 sku: 'B00HVTVKD4-es'
 tags: [  ]

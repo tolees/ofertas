@@ -5,7 +5,7 @@ date: 2020-09-22 05:40:52
 image: 'https://m.media-amazon.com/images/I/41mq7vEm7jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJPR5XL-es Skechers DARLOW REMEGO Zapatillas para Hombre Lona...'
 sku: 'B07WJPR5XL-es'
 tags: [  ]

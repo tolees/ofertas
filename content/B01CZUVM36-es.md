@@ -5,7 +5,7 @@ date: 2020-05-25 09:55:10
 image: 'https://m.media-amazon.com/images/I/411dPFJH-AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CZUVM36-es American Tourister- Funshine spinner 4 ruedas 55/20...'
 sku: 'B01CZUVM36-es'
 tags: [  ]

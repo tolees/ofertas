@@ -5,7 +5,7 @@ date: 2020-05-15 08:24:01
 image: 'https://m.media-amazon.com/images/I/31J9HlrB9iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB6ZCZ7-es Nike Wmns Free RN 5.0 Zapatillas de Atletismo para Mujer...'
 sku: 'B07HB6ZCZ7-es'
 tags: [  ]

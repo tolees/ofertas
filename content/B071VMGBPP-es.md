@@ -5,7 +5,7 @@ date: 2020-02-18 10:39:32
 image: 'https://m.media-amazon.com/images/I/41aEMkCrG-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VMGBPP-es Under Armour Armour Mid Crossback Heather Sujetador...'
 sku: 'B071VMGBPP-es'
 tags: [  ]

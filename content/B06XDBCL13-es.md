@@ -5,7 +5,7 @@ date: 2020-06-04 20:13:12
 image: 'https://m.media-amazon.com/images/I/41hz6CS4AVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDBCL13-es Vicloon Grifo Dispensador de bebidas de repuesto Acero...'
 sku: 'B06XDBCL13-es'
 tags: [  ]

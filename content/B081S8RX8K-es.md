@@ -5,7 +5,7 @@ date: 2020-04-17 05:24:08
 image: 'https://m.media-amazon.com/images/I/41gohFyp6uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081S8RX8K-es Duérmete Online Colchón Juvenil Vale Reversible Eliocel...'
 sku: 'B081S8RX8K-es'
 tags: [  ]

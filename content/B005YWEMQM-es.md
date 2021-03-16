@@ -5,7 +5,7 @@ date: 2020-05-31 08:23:48
 image: 'https://m.media-amazon.com/images/I/519fD8jXXKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005YWEMQM-es Lip Smacker Coca Cola Lip Gloss paquete de 6 sabores variados'
 sku: 'B005YWEMQM-es'
 tags: [  ]

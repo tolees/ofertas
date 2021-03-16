@@ -5,7 +5,7 @@ date: 2020-04-25 19:08:10
 image: 'https://m.media-amazon.com/images/I/41yAoLxwL4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PAJNQES-es PUMA Suede Classic + Zapatillas para Hombre Azul...'
 sku: 'B00PAJNQES-es'
 tags: [  ]

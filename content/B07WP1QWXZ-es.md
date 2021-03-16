@@ -5,7 +5,7 @@ date: 2020-01-09 14:19:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51X3Mk9-L0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WP1QWXZ-es EBY 29XL Alta Capacidad Cartuchos de Tinta para Epson 29...'
 sku: 'B07WP1QWXZ-es'
 tags: [  ]

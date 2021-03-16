@@ -5,7 +5,7 @@ date: 2020-04-23 10:28:09
 image: 'https://m.media-amazon.com/images/I/410lijSh4AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002AMUGIM-es Sisley Phyto Jour&Nuit Crema Hidratantee ConcSombra Pot 50 ml'
 sku: 'B002AMUGIM-es'
 tags: [  ]

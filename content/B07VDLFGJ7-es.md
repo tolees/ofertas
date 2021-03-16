@@ -5,7 +5,7 @@ date: 2020-07-31 04:21:10
 image: 'https://m.media-amazon.com/images/I/41xhcXxxbvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDLFGJ7-es Vans Atwood Canvas Zapatillas para Hombre Gris Enzyme Wash...'
 sku: 'B07VDLFGJ7-es'
 tags: [  ]

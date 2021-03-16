@@ -5,7 +5,7 @@ date: 2020-06-27 08:05:36
 image: 'https://m.media-amazon.com/images/I/41VB1+BF3YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010E09CRM-es Medinc Dirá Todo el Mundo a Salvar Vidas con el Ritmo...'
 sku: 'B010E09CRM-es'
 tags: [  ]

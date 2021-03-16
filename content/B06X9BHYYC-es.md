@@ -5,7 +5,7 @@ date: 2020-09-29 12:02:00
 image: 'https://m.media-amazon.com/images/I/41x2Y8feTqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9BHYYC-es find. Zapatillas con Plataforma Mujer Azul Light Blue 40 EU'
 sku: 'B06X9BHYYC-es'
 tags: [  ]

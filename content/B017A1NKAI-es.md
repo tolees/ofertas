@@ -5,7 +5,7 @@ date: 2020-02-23 20:16:51
 image: 'https://m.media-amazon.com/images/I/51hDSI5dFrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017A1NKAI-es Mercurio Distribuciones- Juego de Estrategia A0036'
 sku: 'B017A1NKAI-es'
 tags: [  ]

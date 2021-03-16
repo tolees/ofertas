@@ -5,7 +5,7 @@ date: 2020-05-14 10:52:05
 image: 'https://m.media-amazon.com/images/I/41VMlY6XYZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872PQ5WX-es Funda Transparente Compatible para Xiaomi Mi Mix 2S...'
 sku: 'B0872PQ5WX-es'
 tags: [  ]

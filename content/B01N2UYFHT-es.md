@@ -5,7 +5,7 @@ date: 2020-03-03 23:07:20
 image: 'https://m.media-amazon.com/images/I/31zqaqwaeQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2UYFHT-es Bourjois Healthy Mix Base de Maquillaje Tono 52 Vanilla 30 ml'
 sku: 'B01N2UYFHT-es'
 tags: [  ]

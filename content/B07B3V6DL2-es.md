@@ -5,7 +5,7 @@ date: 2020-02-11 11:38:48
 image: 'https://m.media-amazon.com/images/I/51P+cZK82TL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B3V6DL2-es Dreamzie Protector de Colchón Impermeable 80 x 200 cm -...'
 sku: 'B07B3V6DL2-es'
 tags: [  ]

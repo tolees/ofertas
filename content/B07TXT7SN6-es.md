@@ -5,7 +5,7 @@ date: 2020-06-20 15:33:05
 image: 'https://m.media-amazon.com/images/I/41pl2NF8KhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXT7SN6-es Merrell Waterpro Maipo 2 Zapatillas Impermeables para...'
 sku: 'B07TXT7SN6-es'
 tags: [  ]

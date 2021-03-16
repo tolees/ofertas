@@ -5,7 +5,7 @@ date: 2021-02-22 11:28:38
 image: 'https://m.media-amazon.com/images/I/31ITBndweqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VSHLPR-es Lee Daren Zip Fly Jeans Enjuague 33W x 30L para Hombre'
 sku: 'B082VSHLPR-es'
 tags: [ 'lee', ]

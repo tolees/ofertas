@@ -5,7 +5,7 @@ date: 2020-04-17 16:37:34
 image: 'https://m.media-amazon.com/images/I/41qtpi+8D3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2WP9VJ-es Máquina picadora de carne manual máquina trituradora de...'
 sku: 'B07K2WP9VJ-es'
 tags: [  ]

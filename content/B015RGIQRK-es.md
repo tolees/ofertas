@@ -5,7 +5,7 @@ date: 2020-05-13 20:48:28
 image: 'https://m.media-amazon.com/images/I/41sT+2nItTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015RGIQRK-es adidas Stan Smith Cf - Zapatillas de running Hombre Blanc...'
 sku: 'B015RGIQRK-es'
 tags: [  ]

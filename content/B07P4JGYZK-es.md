@@ -5,7 +5,7 @@ date: 2020-01-06 11:42:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31V5ReoqYwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P4JGYZK-es Superdry Classic Lite Micro Pique Polo Blanco Optic 01c...'
 sku: 'B07P4JGYZK-es'
 tags: [  ]

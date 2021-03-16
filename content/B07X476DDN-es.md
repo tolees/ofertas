@@ -5,7 +5,7 @@ date: 2020-02-24 19:05:39
 image: 'https://m.media-amazon.com/images/I/51d-D7ZRShL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X476DDN-es Smint Tin Frutos Rojos Caramelo Comprimido Sin Azúcar - 2...'
 sku: 'B07X476DDN-es'
 tags: [  ]

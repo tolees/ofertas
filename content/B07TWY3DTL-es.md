@@ -5,7 +5,7 @@ date: 2020-07-11 20:20:38
 image: 'https://m.media-amazon.com/images/I/41Hf4pnri0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWY3DTL-es Skechers D lux Walker Zapatillas para Hombre Azul Black...'
 sku: 'B07TWY3DTL-es'
 tags: [  ]

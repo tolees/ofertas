@@ -5,7 +5,7 @@ date: 2020-06-23 19:12:26
 image: 'https://m.media-amazon.com/images/I/31AfQvvG0kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPX6C4Y-es Joma Academy Chandal Caballero Hombre Negro/Blanco M'
 sku: 'B07CPX6C4Y-es'
 tags: [  ]

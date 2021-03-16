@@ -5,7 +5,7 @@ date: 2020-09-26 08:46:48
 image: 'https://m.media-amazon.com/images/I/31aIbdFWTGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4CNZ6C-es ADWITS DisplayPort 1.2 DP a Adaptador de Cable VGA...'
 sku: 'B07D4CNZ6C-es'
 tags: [  ]

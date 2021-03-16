@@ -5,7 +5,7 @@ date: 2020-02-01 03:46:13
 image: 'https://m.media-amazon.com/images/I/31SOPongeIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O32UMK4-es Bourjois Contour Edition Perfilador de Labios Tono 03...'
 sku: 'B00O32UMK4-es'
 tags: [  ]

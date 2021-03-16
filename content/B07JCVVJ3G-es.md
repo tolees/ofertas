@@ -5,7 +5,7 @@ date: 2020-04-01 09:36:32
 image: 'https://m.media-amazon.com/images/I/41s+FOdb0uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCVVJ3G-es KAKOO 4pcs brazaletes Reflectantes Visibilidad Alta...'
 sku: 'B07JCVVJ3G-es'
 tags: [  ]

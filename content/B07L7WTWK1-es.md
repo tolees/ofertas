@@ -5,7 +5,7 @@ date: 2020-05-16 10:53:16
 image: 'https://m.media-amazon.com/images/I/4121DDo6RoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L7WTWK1-es Casio Reloj de Pulsera DW-5900-1ER'
 sku: 'B07L7WTWK1-es'
 tags: [  ]

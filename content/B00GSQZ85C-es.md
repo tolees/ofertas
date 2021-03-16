@@ -5,7 +5,7 @@ date: 2020-01-28 07:35:55
 image: 'https://m.media-amazon.com/images/I/41FXeecjyBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GSQZ85C-es Victory Endurance Fat Burner - 120 Cápsulas'
 sku: 'B00GSQZ85C-es'
 tags: [  ]

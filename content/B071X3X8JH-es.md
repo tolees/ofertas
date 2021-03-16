@@ -5,7 +5,7 @@ date: 2020-04-30 02:39:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41W%2BkYWvhYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071X3X8JH-es find. Gabardina Larga Oversize para Mujer Beige Stone 44...'
 sku: 'B071X3X8JH-es'
 tags: [  ]

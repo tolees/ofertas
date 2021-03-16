@@ -5,7 +5,7 @@ date: 2020-05-28 11:35:12
 image: 'https://m.media-amazon.com/images/I/41ib23gT7mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXDG7PJ-es New Balance 574 Zapatillas Hombre Verde Olive EGO 42.5 EU...'
 sku: 'B06XXDG7PJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 08:41:01
 image: 'https://m.media-amazon.com/images/I/41sC4KnTdjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRPXWG9-es HOUSE DAY 8Pcs Perchas mágicas Armario Ahorro de Espacio...'
 sku: 'B01MRPXWG9-es'
 tags: [  ]

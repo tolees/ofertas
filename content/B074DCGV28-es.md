@@ -5,7 +5,7 @@ date: 2020-07-17 11:27:51
 image: 'https://m.media-amazon.com/images/I/61iAla60HFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DCGV28-es Depple - Set de costura con 234 piezas de accesorios de...'
 sku: 'B074DCGV28-es'
 tags: [  ]

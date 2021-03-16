@@ -5,7 +5,7 @@ date: 2020-08-22 20:36:33
 image: 'https://m.media-amazon.com/images/I/41A1z2UkfOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CR8NBQB-es Garmin Smartwatch Vivoactive 3 Music GPS Mano Ciclismo...'
 sku: 'B07CR8NBQB-es'
 tags: [  ]

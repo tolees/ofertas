@@ -5,7 +5,7 @@ date: 2020-09-24 17:39:41
 image: 'https://m.media-amazon.com/images/I/41e7NfLkM0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVVGKMK-es Skechers Bounder Zapatillas para Hombre Gris Black...'
 sku: 'B07TVVGKMK-es'
 tags: [  ]

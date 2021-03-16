@@ -5,7 +5,7 @@ date: 2020-08-16 07:00:58
 image: 'https://m.media-amazon.com/images/I/41rlm9qAcAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N19AK1A-es HUAWEI BXHU1907 - Funda View Cover P10 Lite Color Gris Claro'
 sku: 'B01N19AK1A-es'
 tags: [  ]

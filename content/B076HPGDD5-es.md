@@ -5,7 +5,7 @@ date: 2020-06-29 12:56:08
 image: 'https://m.media-amazon.com/images/I/31TMG6qvbTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HPGDD5-es Adidas Core 18 Presentation TR Pnt Pantalones Deportivos...'
 sku: 'B076HPGDD5-es'
 tags: [  ]

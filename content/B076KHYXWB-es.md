@@ -5,7 +5,7 @@ date: 2020-03-31 13:20:26
 image: 'https://m.media-amazon.com/images/I/31Yho0UcSJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076KHYXWB-es ORICO - Soporte para Monitor de computadora portátil...'
 sku: 'B076KHYXWB-es'
 tags: [  ]

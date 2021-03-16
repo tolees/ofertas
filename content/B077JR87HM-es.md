@@ -5,7 +5,7 @@ date: 2020-02-14 07:48:11
 image: 'https://m.media-amazon.com/images/I/51hZtm8It4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077JR87HM-es Makita DTD152Z - Destornillador de impacto inalámbrico LXT...'
 sku: 'B077JR87HM-es'
 tags: [  ]

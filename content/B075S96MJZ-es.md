@@ -5,7 +5,7 @@ date: 2020-10-05 03:31:28
 image: 'https://m.media-amazon.com/images/I/31+mITADkuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075S96MJZ-es ultrapower100® Cargador Compatible iPhone 1A 5 W 1400 +...'
 sku: 'B075S96MJZ-es'
 tags: [  ]

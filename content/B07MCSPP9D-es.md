@@ -5,7 +5,7 @@ date: 2020-04-04 16:43:14
 image: 'https://m.media-amazon.com/images/I/41h4syxp6gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPP9D-es Napapijri DAIN C Suéter Gris Dark Grey Mel 197 S para Hombre'
 sku: 'B07MCSPP9D-es'
 tags: [  ]

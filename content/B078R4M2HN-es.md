@@ -5,7 +5,7 @@ date: 2020-04-06 21:13:22
 image: 'https://m.media-amazon.com/images/I/61hOo9cnfzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078R4M2HN-es 3 x 70m de cuerda de algodón cinta cordel Bakers regalo...'
 sku: 'B078R4M2HN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-04 07:29:26
 image: 'https://m.media-amazon.com/images/I/41JoEWuyIqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZRZH88-es Funko- Pop Figura de Vinilo: Música Morrissey...'
 sku: 'B07MZRZH88-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-01 16:48:36
 image: 'https://m.media-amazon.com/images/I/41tZcffXpAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Y9P6JY-es Funko Pop!- Disney: The Incredibles 2 Figura de Vinilo 29208'
 sku: 'B079Y9P6JY-es'
 tags: [  ]

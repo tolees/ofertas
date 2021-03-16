@@ -5,7 +5,7 @@ date: 2020-07-09 15:37:36
 image: 'https://m.media-amazon.com/images/I/615zhdwSltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RJWHB4-es Dinosaurio Luz Nocturna Infantil Juguete Dinosaurio para...'
 sku: 'B081RJWHB4-es'
 tags: [  ]

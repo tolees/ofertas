@@ -5,7 +5,7 @@ date: 2020-03-09 08:16:22
 image: 'https://m.media-amazon.com/images/I/41tamQo9IYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073P9P4WN-es Bourjois Velvet The Lipstick Barra de Labios Tono 03...'
 sku: 'B073P9P4WN-es'
 tags: [  ]

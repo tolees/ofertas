@@ -5,7 +5,7 @@ date: 2020-07-05 05:18:24
 image: 'https://m.media-amazon.com/images/I/31TsA0BzqBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T536GKP-es Cartuchos de Filtro para Todos Los Filtros de Agua BRITA...'
 sku: 'B07T536GKP-es'
 tags: [  ]

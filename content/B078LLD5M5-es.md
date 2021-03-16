@@ -5,7 +5,7 @@ date: 2020-09-14 16:27:19
 image: 'https://m.media-amazon.com/images/I/31LeMD6qpFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078LLD5M5-es Maybelline New York - Color Sensational Pintalabios Mate...'
 sku: 'B078LLD5M5-es'
 tags: [  ]

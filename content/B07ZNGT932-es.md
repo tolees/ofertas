@@ -5,7 +5,7 @@ date: 2020-09-02 12:01:59
 image: 'https://m.media-amazon.com/images/I/31Cmb-wOyGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNGT932-es BSEED Interruptor de luz Interruptor de pared con Botón...'
 sku: 'B07ZNGT932-es'
 tags: [  ]

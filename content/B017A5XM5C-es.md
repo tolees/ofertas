@@ -5,7 +5,7 @@ date: 2020-06-17 21:15:40
 image: 'https://m.media-amazon.com/images/I/51YYn3RuxWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017A5XM5C-es PEDEA 66063013 15.6" Bandolera Gris maletines para...'
 sku: 'B017A5XM5C-es'
 tags: [  ]

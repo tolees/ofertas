@@ -5,7 +5,7 @@ date: 2020-02-23 19:33:24
 image: 'https://m.media-amazon.com/images/I/513d08aZ5vL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074J8X8CW-es Alienwork Navy Blue Reloj Unisex Relojes Hombre Mujer...'
 sku: 'B074J8X8CW-es'
 tags: [  ]

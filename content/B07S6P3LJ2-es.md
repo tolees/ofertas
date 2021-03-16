@@ -5,7 +5,7 @@ date: 2020-04-01 06:55:30
 image: 'https://m.media-amazon.com/images/I/411UmzK4VDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6P3LJ2-es PUMA Future 5.4 FG/AG Botas de fútbol para Hombre Azul...'
 sku: 'B07S6P3LJ2-es'
 tags: [  ]

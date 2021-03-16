@@ -5,7 +5,7 @@ date: 2020-01-05 16:13:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ldVZmX5%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQ45TRP-es Ferilinso Funda para Xiaomi Mi A3 Elegante Armadura...'
 sku: 'B07QQ45TRP-es'
 tags: [  ]

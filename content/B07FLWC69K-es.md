@@ -5,7 +5,7 @@ date: 2020-08-13 06:16:15
 image: 'https://m.media-amazon.com/images/I/413i9iWf12L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLWC69K-es KLIM - Alfombrilla de ratón XL - Superficie Amplia -...'
 sku: 'B07FLWC69K-es'
 tags: [  ]

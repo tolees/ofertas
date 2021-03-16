@@ -5,7 +5,7 @@ date: 2020-02-21 19:07:52
 image: 'https://m.media-amazon.com/images/I/51A-HdOsBEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXFP3MV-es MIULEE Juego de 4 Lino Cojines Serie de Películas Funda de...'
 sku: 'B07FXFP3MV-es'
 tags: [  ]

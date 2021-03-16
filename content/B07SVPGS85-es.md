@@ -5,7 +5,7 @@ date: 2020-03-24 19:27:04
 image: 'https://m.media-amazon.com/images/I/418tsB5QbYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVPGS85-es adidas Terrex Agravic Flow W Zapatillas de Cross para...'
 sku: 'B07SVPGS85-es'
 tags: [  ]

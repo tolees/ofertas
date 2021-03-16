@@ -5,7 +5,7 @@ date: 2020-01-01 20:33:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tsHPrcLwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB1V7H1-es VSADEY Crema Antiarrugas Facial para Día y Noche 2.5%...'
 sku: 'B07GB1V7H1-es'
 tags: [  ]

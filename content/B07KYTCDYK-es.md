@@ -5,7 +5,7 @@ date: 2020-01-23 08:01:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kCcsXeHnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYTCDYK-es iTieTie 2-Unidades Protector de Pantalla para Pixel 3 XL...'
 sku: 'B07KYTCDYK-es'
 tags: [  ]

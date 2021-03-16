@@ -5,7 +5,7 @@ date: 2020-03-27 17:30:02
 image: 'https://m.media-amazon.com/images/I/41Xrou-ZdhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GOW2X4O-es Silver HT - Funda universal gripcase con teclado 9"-10.1"...'
 sku: 'B00GOW2X4O-es'
 tags: [  ]

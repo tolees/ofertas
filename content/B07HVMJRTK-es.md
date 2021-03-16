@@ -5,7 +5,7 @@ date: 2020-04-28 09:38:29
 image: 'https://m.media-amazon.com/images/I/312iHjX2jbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HVMJRTK-es Botella de aerosol perfume portátil 12ml Mini bala Forma...'
 sku: 'B07HVMJRTK-es'
 tags: [  ]

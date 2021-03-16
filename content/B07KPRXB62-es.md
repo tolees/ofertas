@@ -5,7 +5,7 @@ date: 2020-03-03 22:46:55
 image: 'https://m.media-amazon.com/images/I/41s6EGUOjNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPRXB62-es Asics Patriot 10 SP 1012a236-101 Zapatillas de Running...'
 sku: 'B07KPRXB62-es'
 tags: [  ]

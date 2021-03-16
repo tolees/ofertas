@@ -5,7 +5,7 @@ date: 2020-01-23 18:58:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41zf37ofKIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DSGHF7-es Muñequera Túnel Carpiano Estabilizador de Muñeca Ajustable...'
 sku: 'B081DSGHF7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-17 08:52:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41x%2BiKhACUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016DMWV50-es Moulinex AF220010 - Freidora Capacidad de 1 litro de...'
 sku: 'B016DMWV50-es'
 tags: [  ]

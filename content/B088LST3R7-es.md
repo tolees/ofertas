@@ -5,7 +5,7 @@ date: 2020-05-25 14:40:21
 image: 'https://m.media-amazon.com/images/I/41SIM+cDzPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LST3R7-es 1pcs Limpiador de orejas Fácil extracción de la cera del...'
 sku: 'B088LST3R7-es'
 tags: [  ]

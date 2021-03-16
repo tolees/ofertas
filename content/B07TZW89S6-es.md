@@ -5,7 +5,7 @@ date: 2020-09-23 15:13:16
 image: 'https://m.media-amazon.com/images/I/41WZ91eJCiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZW89S6-es KiplingAbanu MultiMujerBolsos bandoleraRojo Metallic Rust...'
 sku: 'B07TZW89S6-es'
 tags: [  ]

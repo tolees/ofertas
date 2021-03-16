@@ -5,7 +5,7 @@ date: 2020-09-15 07:06:10
 image: 'https://m.media-amazon.com/images/I/41f7eDUPabL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0722Y8KSG-es Bosch EasyDrill 1200 - Atornillador con batería de litio...'
 sku: 'B0722Y8KSG-es'
 tags: [  ]

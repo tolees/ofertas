@@ -5,7 +5,7 @@ date: 2020-04-13 21:34:12
 image: 'https://m.media-amazon.com/images/I/418+Bzzff7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M79D4RH-es Fossil Reloj de Bolsillo Digital FTW4019'
 sku: 'B07M79D4RH-es'
 tags: [  ]

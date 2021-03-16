@@ -5,7 +5,7 @@ date: 2020-06-08 19:02:17
 image: 'https://m.media-amazon.com/images/I/31nAJ5l5oGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G73T8LT-es ENDARK Papercraft 3D T-Rex'
 sku: 'B07G73T8LT-es'
 tags: [  ]

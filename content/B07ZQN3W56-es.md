@@ -5,7 +5,7 @@ date: 2020-06-13 06:30:05
 image: 'https://m.media-amazon.com/images/I/31S3REfN+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQN3W56-es adidas Duramo 9 Zapatillas para Correr para Mujer Tinte...'
 sku: 'B07ZQN3W56-es'
 tags: [  ]

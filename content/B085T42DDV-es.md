@@ -5,7 +5,7 @@ date: 2020-07-21 15:03:20
 image: 'https://m.media-amazon.com/images/I/51mTJIFxGWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085T42DDV-es Yorbay Mini Ventilador de Mano USB Portátil 2600mAh...'
 sku: 'B085T42DDV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 10:28:22
 image: 'https://m.media-amazon.com/images/I/41vszI3819L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNDLCDF-es DAM TEKKIWEAR. DMX222BK. Pulsera Inteligente Ak-Q8S...'
 sku: 'B07JNDLCDF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-04 20:41:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418E%2BzmLXsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719KNBJ7-es Adidas Terrex Tracerocker Zapatillas de Senderismo para...'
 sku: 'B0719KNBJ7-es'
 tags: [  ]

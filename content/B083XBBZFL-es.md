@@ -5,7 +5,7 @@ date: 2020-06-15 21:37:15
 image: 'https://m.media-amazon.com/images/I/31zm6jLl5lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083XBBZFL-es Kosiy Dispensadores de jabón automático Dispensador Jabón...'
 sku: 'B083XBBZFL-es'
 tags: [  ]

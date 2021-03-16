@@ -5,7 +5,7 @@ date: 2020-02-29 11:16:10
 image: 'https://m.media-amazon.com/images/I/41wA1XeHtrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CVNY9K-es Balvi Bandeja Caramel Color Amarillo bandejas...'
 sku: 'B015CVNY9K-es'
 tags: [  ]

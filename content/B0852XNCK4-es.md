@@ -5,7 +5,7 @@ date: 2020-04-16 19:46:16
 image: 'https://m.media-amazon.com/images/I/51hlC7V7+hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0852XNCK4-es LAQI Funda para Apple iPad Pro 10.5 2017 iPad Air 3 2019...'
 sku: 'B0852XNCK4-es'
 tags: [  ]

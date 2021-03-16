@@ -5,7 +5,7 @@ date: 2020-01-17 14:06:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GJQyjcr8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB9YWKD-es edc by Esprit 099cc1i020 suéter Gris Gunmetal 5 019 Medium...'
 sku: 'B07VB9YWKD-es'
 tags: [  ]

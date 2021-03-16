@@ -5,7 +5,7 @@ date: 2020-01-06 08:55:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41aHM5niyBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B1C66KH-es Chantelle DE Pyramide Sujetador con Aros Negro Schwarz 11...'
 sku: 'B07B1C66KH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-06 12:04:19
 image: 'https://m.media-amazon.com/images/I/31m5ZPL-frL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QL9RZ9M-es Targus Click-In 20 1 cm 7.9" Folio Negro - Fundas para...'
 sku: 'B07QL9RZ9M-es'
 tags: [  ]

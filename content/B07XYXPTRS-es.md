@@ -5,7 +5,7 @@ date: 2020-01-26 14:02:19
 image: 'https://m.media-amazon.com/images/I/51qbqc+46aL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYXPTRS-es UCMDA Funda para Xiaomi Redmi Note 8 Pro con Protector de...'
 sku: 'B07XYXPTRS-es'
 tags: [  ]

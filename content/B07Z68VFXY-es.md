@@ -5,7 +5,7 @@ date: 2020-04-09 06:43:15
 image: 'https://m.media-amazon.com/images/I/513Abu6XU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z68VFXY-es Aigostar 30IMX - Licuadora y extractor de frutas y...'
 sku: 'B07Z68VFXY-es'
 tags: [  ]

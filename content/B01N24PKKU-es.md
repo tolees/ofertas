@@ -5,7 +5,7 @@ date: 2020-10-11 21:46:17
 image: 'https://m.media-amazon.com/images/I/41SORyMfyFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N24PKKU-es Skechers Women Synergy 2.0 Fashion Sneaker Black...'
 sku: 'B01N24PKKU-es'
 tags: [  ]

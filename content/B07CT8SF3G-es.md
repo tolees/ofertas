@@ -5,7 +5,7 @@ date: 2020-09-17 19:31:09
 image: 'https://m.media-amazon.com/images/I/51XgHX+JRTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CT8SF3G-es Orient Reloj Analógico para Hombre de Automático con...'
 sku: 'B07CT8SF3G-es'
 tags: [  ]

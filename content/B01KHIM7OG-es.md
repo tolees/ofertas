@@ -5,7 +5,7 @@ date: 2021-03-16 14:57:21
 image: 'https://m.media-amazon.com/images/I/41JV85q+b0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KHIM7OG-es Philips Bombilla LED esférica casquillo E27 8 W...'
 sku: 'B01KHIM7OG-es'
 tags: [ 'philips', ]
@@ -28,11 +28,11 @@ Ahora mismo tienes [Philips Bombilla LED esférica casquillo E27  8 W  equivalen
 
 🔎:
 
-- Luz instantánea al encenderse
 - No regulable
-- Bombillas LED de bajo consumo, ahorra hasta un 80%
-- Su acabado mate es adecuado para iluminación general sin crear sombras
 - Recomendado para uso en salones, habitaciones y pasillos creando un espacio acogedor
+- Su acabado mate es adecuado para iluminación general sin crear sombras
+- Bombillas LED de bajo consumo, ahorra hasta un 80%
+- Luz instantánea al encenderse
 - Larga duración: hasta 15 años (15.000 horas)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01KHIM7OG/?tag=tolees-21)

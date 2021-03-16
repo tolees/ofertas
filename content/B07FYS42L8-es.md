@@ -5,7 +5,7 @@ date: 2020-01-29 09:16:55
 image: 'https://m.media-amazon.com/images/I/41CYFWB2QQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYS42L8-es Bandolera para portátil Pepe Jeans Bromley con solapa Verde'
 sku: 'B07FYS42L8-es'
 tags: [  ]

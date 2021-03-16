@@ -5,7 +5,7 @@ date: 2020-06-12 07:30:08
 image: 'https://m.media-amazon.com/images/I/41gfXySW0CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S941FZM-es Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas...'
 sku: 'B07S941FZM-es'
 tags: [  ]

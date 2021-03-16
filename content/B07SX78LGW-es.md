@@ -5,7 +5,7 @@ date: 2020-08-06 03:30:20
 image: 'https://m.media-amazon.com/images/I/41ujywt2sPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SX78LGW-es Homealexa Ventilador de Mesa Diam 17cm Ventilador USB...'
 sku: 'B07SX78LGW-es'
 tags: [  ]

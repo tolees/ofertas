@@ -5,7 +5,7 @@ date: 2020-03-24 21:48:14
 image: 'https://m.media-amazon.com/images/I/51atb60rjyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017IFXUUG-es DELL UltraSharp UP3216Q LED Display 80 cm 31.5" 4K Ultra...'
 sku: 'B017IFXUUG-es'
 tags: [  ]

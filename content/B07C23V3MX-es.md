@@ -5,7 +5,7 @@ date: 2020-04-17 08:38:15
 image: 'https://m.media-amazon.com/images/I/51rm3q-rHEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C23V3MX-es WILBEST Exprimidor Limón Manual Exprimidor Manual de...'
 sku: 'B07C23V3MX-es'
 tags: [  ]

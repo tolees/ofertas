@@ -5,7 +5,7 @@ date: 2020-02-15 14:03:18
 image: 'https://m.media-amazon.com/images/I/41YVIBlVF4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCT4ZYS-es NGS Matrix Kit Teclado + RATÓN INALÁMBRICOS Ultra Plano...'
 sku: 'B07QCT4ZYS-es'
 tags: [  ]

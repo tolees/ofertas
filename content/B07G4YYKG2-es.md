@@ -5,7 +5,7 @@ date: 2020-02-11 23:37:30
 image: 'https://m.media-amazon.com/images/I/41ZRWLDDzaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4YYKG2-es Pop! Avengers Infinity War - Figura de Vinilo Bucky Barnes...'
 sku: 'B07G4YYKG2-es'
 tags: [  ]

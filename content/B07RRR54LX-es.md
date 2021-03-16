@@ -5,7 +5,7 @@ date: 2020-03-26 13:25:54
 image: 'https://m.media-amazon.com/images/I/51zFas-23aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRR54LX-es Casio Reloj Analógico-Digital para Hombre de Cuarzo con...'
 sku: 'B07RRR54LX-es'
 tags: [  ]

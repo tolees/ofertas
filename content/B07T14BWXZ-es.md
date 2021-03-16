@@ -5,7 +5,7 @@ date: 2020-03-30 19:40:50
 image: 'https://m.media-amazon.com/images/I/518kWutm0lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T14BWXZ-es Charles Wilson Lote 12 Pares Calcetines Básicos 9-11 Navy...'
 sku: 'B07T14BWXZ-es'
 tags: [  ]

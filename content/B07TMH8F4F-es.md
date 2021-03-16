@@ -5,7 +5,7 @@ date: 2020-07-12 14:03:03
 image: 'https://m.media-amazon.com/images/I/41IvJzqNIYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMH8F4F-es Hummel Actus Trainer 2.0 Zapatillas Unisex Adulto Gris...'
 sku: 'B07TMH8F4F-es'
 tags: [  ]

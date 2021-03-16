@@ -5,7 +5,7 @@ date: 2020-05-13 18:32:11
 image: 'https://m.media-amazon.com/images/I/41CONYKuZ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SQW66M-es perfk T10 2in1 Bluetooth4.2 Receptor De Audio/Transmisor...'
 sku: 'B081SQW66M-es'
 tags: [  ]

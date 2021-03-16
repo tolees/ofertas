@@ -5,7 +5,7 @@ date: 2020-07-03 09:04:26
 image: 'https://m.media-amazon.com/images/I/41hQvAC8JPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKY8YY1-es Nike Revolution 5 GS Zapatillas de Running para Niñas...'
 sku: 'B07RKY8YY1-es'
 tags: [  ]

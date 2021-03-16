@@ -5,7 +5,7 @@ date: 2020-07-13 17:25:09
 image: 'https://m.media-amazon.com/images/I/312ln8bRyqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZT4TR9-es Galapara Bebedero Gatos Automático de la Fuente de Agua...'
 sku: 'B07SZT4TR9-es'
 tags: [  ]

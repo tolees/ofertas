@@ -5,7 +5,7 @@ date: 2020-03-09 22:07:50
 image: 'https://m.media-amazon.com/images/I/51SrLfxArDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084QH6MR1-es 1 unid Etiqueta engomada de la Historieta del termómetro...'
 sku: 'B084QH6MR1-es'
 tags: [  ]

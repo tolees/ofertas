@@ -5,7 +5,7 @@ date: 2020-02-28 16:40:25
 image: 'https://m.media-amazon.com/images/I/415hduvsnAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV4CWBM-es Lychee Grabadora de Voz Digital Portátil 8GB 1536kbps...'
 sku: 'B07MV4CWBM-es'
 tags: [  ]

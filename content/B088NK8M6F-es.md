@@ -5,7 +5,7 @@ date: 2020-07-27 23:43:13
 image: 'https://m.media-amazon.com/images/I/51ihQ5zKoKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088NK8M6F-es Tela algodon para coser 7 PCS DIY Floral Telas Patchwork...'
 sku: 'B088NK8M6F-es'
 tags: [  ]

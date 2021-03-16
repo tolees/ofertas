@@ -5,7 +5,7 @@ date: 2020-04-04 16:03:06
 image: 'https://m.media-amazon.com/images/I/511AoYj1MFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TLYT2X-es Match Mujer Sujetador Deportivo Racerback de Doble Capa...'
 sku: 'B077TLYT2X-es'
 tags: [  ]

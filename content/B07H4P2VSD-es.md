@@ -5,7 +5,7 @@ date: 2020-08-16 14:04:13
 image: 'https://m.media-amazon.com/images/I/51q6xFwuL7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H4P2VSD-es Mallalah Blanqueamiento Dental Polvo de Blanqueamiento de...'
 sku: 'B07H4P2VSD-es'
 tags: [  ]

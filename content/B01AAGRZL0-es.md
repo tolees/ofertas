@@ -5,7 +5,7 @@ date: 2020-03-19 17:59:58
 image: 'https://m.media-amazon.com/images/I/41EohsUp+qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AAGRZL0-es Hercules - HERCULES P32 DJ - Controlador DJ - PC / Mac -...'
 sku: 'B01AAGRZL0-es'
 tags: [  ]

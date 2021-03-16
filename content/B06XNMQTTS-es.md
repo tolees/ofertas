@@ -5,7 +5,7 @@ date: 2020-04-29 10:26:56
 image: 'https://m.media-amazon.com/images/I/31VZ3VB1Q3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XNMQTTS-es Bosch Serie 4 DFT63AC50 - Campana 360 m³/h...'
 sku: 'B06XNMQTTS-es'
 tags: [  ]

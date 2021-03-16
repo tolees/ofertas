@@ -5,7 +5,7 @@ date: 2020-05-21 22:23:27
 image: 'https://m.media-amazon.com/images/I/41iQzVoLx-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3V5GJB-es New Balance Ryval Run Zapatillas para Correr de Carretera...'
 sku: 'B07S3V5GJB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-04 12:28:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51coH-C6jCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K56HWZ-es Braun Series 5 Waterflex Wf2S Afeitadora Eléctrica de...'
 sku: 'B072K56HWZ-es'
 tags: [  ]

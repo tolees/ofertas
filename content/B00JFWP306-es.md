@@ -5,7 +5,7 @@ date: 2020-03-11 12:04:24
 image: 'https://m.media-amazon.com/images/I/31vmXYYPdDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JFWP306-es Brabantia 298240 Bote de Cristal 1.9 L Gris/Transparente 1...'
 sku: 'B00JFWP306-es'
 tags: [  ]

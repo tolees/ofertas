@@ -5,7 +5,7 @@ date: 2020-08-31 21:37:37
 image: 'https://m.media-amazon.com/images/I/51MT4a-yLlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYFXM02-es Babyline Toile - Saco de silla de paseo color azul'
 sku: 'B01LYFXM02-es'
 tags: [  ]

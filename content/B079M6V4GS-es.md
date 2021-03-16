@@ -5,7 +5,7 @@ date: 2020-02-11 15:55:58
 image: 'https://m.media-amazon.com/images/I/31ajh5H5cjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079M6V4GS-es Dunlop - Botas Estilo Wellington Unisex Modelo Pricemastor...'
 sku: 'B079M6V4GS-es'
 tags: [  ]

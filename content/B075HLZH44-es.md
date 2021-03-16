@@ -5,7 +5,7 @@ date: 2020-06-22 11:56:21
 image: 'https://m.media-amazon.com/images/I/41v0FCpBYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075HLZH44-es Dolce & Gabbana The One Men Agua Colonia 150 ml'
 sku: 'B075HLZH44-es'
 tags: [  ]

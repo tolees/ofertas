@@ -5,7 +5,7 @@ date: 2020-04-21 06:30:54
 image: 'https://m.media-amazon.com/images/I/41nF5gzTl3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZ4LQKV-es Parasol de Coche otumixx 2 Unidades Visera para Ventana...'
 sku: 'B07NZ4LQKV-es'
 tags: [  ]

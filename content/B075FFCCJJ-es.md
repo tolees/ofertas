@@ -5,7 +5,7 @@ date: 2020-09-21 08:24:14
 image: 'https://m.media-amazon.com/images/I/414iijCqdPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FFCCJJ-es Maxi-Cosi CabrioFix Silla de auto reclinable y seguro para...'
 sku: 'B075FFCCJJ-es'
 tags: [  ]

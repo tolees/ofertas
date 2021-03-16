@@ -5,7 +5,7 @@ date: 2020-05-30 17:11:33
 image: 'https://m.media-amazon.com/images/I/41YHiDwpT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9MC1JX-es Onlyoily Lápiz labial 5 colores mate de larga duración...'
 sku: 'B07Y9MC1JX-es'
 tags: [  ]

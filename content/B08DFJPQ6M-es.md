@@ -5,7 +5,7 @@ date: 2020-08-14 13:39:19
 image: 'https://m.media-amazon.com/images/I/31OndRIibsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFJPQ6M-es Homgrace Termómetro Infrarrojos Ain Contacto- Pistola...'
 sku: 'B08DFJPQ6M-es'
 tags: [  ]

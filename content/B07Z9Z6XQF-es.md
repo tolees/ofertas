@@ -5,7 +5,7 @@ date: 2020-09-12 22:47:32
 image: 'https://m.media-amazon.com/images/I/419uA+fn7tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9Z6XQF-es TKL Teclado mecánico para juegos interruptor azul Clicky...'
 sku: 'B07Z9Z6XQF-es'
 tags: [  ]

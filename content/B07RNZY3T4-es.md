@@ -5,7 +5,7 @@ date: 2020-06-11 13:25:00
 image: 'https://m.media-amazon.com/images/I/31-9zlupBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RNZY3T4-es OtterBox Commuter Lite - Funda de Protección para Samsung...'
 sku: 'B07RNZY3T4-es'
 tags: [  ]

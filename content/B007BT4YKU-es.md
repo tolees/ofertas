@@ -5,7 +5,7 @@ date: 2020-01-16 12:50:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51g3Z3iJrhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007BT4YKU-es Nike Core Items 3.0 Bolsa de Hombro Negro...'
 sku: 'B007BT4YKU-es'
 tags: [  ]

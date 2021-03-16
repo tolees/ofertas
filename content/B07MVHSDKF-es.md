@@ -5,7 +5,7 @@ date: 2020-08-26 20:28:33
 image: 'https://m.media-amazon.com/images/I/61iZklm-1GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVHSDKF-es Bolsa isotermica para llevar almuerzo - Bolsa termica para...'
 sku: 'B07MVHSDKF-es'
 tags: [  ]

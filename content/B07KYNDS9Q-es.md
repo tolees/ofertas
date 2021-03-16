@@ -5,7 +5,7 @@ date: 2020-07-04 18:45:51
 image: 'https://m.media-amazon.com/images/I/31FOMBmYMqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYNDS9Q-es DIY hecho a mano de costura de costura de alta calidad...'
 sku: 'B07KYNDS9Q-es'
 tags: [  ]

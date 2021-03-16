@@ -5,7 +5,7 @@ date: 2020-07-18 08:01:28
 image: 'https://m.media-amazon.com/images/I/41nkczbTlrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MW24RRF-es EZDIY-FAB M.2 Estuche USB 3.1 Gen2 para SATA M.2 SSD Key...'
 sku: 'B07MW24RRF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 13:55:14
 image: 'https://m.media-amazon.com/images/I/31dpvm771CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ARQRRS0-es Rimmel London Lasting Finish Matte by Kate Barra De Labios...'
 sku: 'B00ARQRRS0-es'
 tags: [  ]

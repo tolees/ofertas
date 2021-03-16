@@ -5,7 +5,7 @@ date: 2020-01-12 23:35:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51NWjfP5dUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079XWZWL1-es Mr. Tronic 20m Cable de Red Ethernet Latiguillo | CAT5e...'
 sku: 'B079XWZWL1-es'
 tags: [  ]

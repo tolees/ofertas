@@ -5,7 +5,7 @@ date: 2020-01-19 06:01:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41le2LGzceL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ31GMC-es Gant Elastic Braid Belt Cinturón Negro Black 5 105 Talla...'
 sku: 'B01MZ31GMC-es'
 tags: [  ]

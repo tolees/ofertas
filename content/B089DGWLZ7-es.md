@@ -5,7 +5,7 @@ date: 2020-08-08 16:45:54
 image: 'https://m.media-amazon.com/images/I/210263z6loL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089DGWLZ7-es luosh Kraft Paper Roll 10m Rollo de Papel de Dibujo Blanco...'
 sku: 'B089DGWLZ7-es'
 tags: [  ]

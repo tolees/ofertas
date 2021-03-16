@@ -5,7 +5,7 @@ date: 2020-08-08 16:51:57
 image: 'https://m.media-amazon.com/images/I/51SYH3LJWEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I9KCS8Y-es Lancardo Reloj Analógico Cuadrado Movimiento de Cuarzo...'
 sku: 'B01I9KCS8Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 08:16:15
 image: 'https://m.media-amazon.com/images/I/61JBtRBHUsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Y3BD5B-es Funda de almohada de seda marrón Ruwado | Funda de...'
 sku: 'B075Y3BD5B-es'
 tags: [  ]

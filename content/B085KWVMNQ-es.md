@@ -5,7 +5,7 @@ date: 2020-06-24 09:15:32
 image: 'https://m.media-amazon.com/images/I/41kZdzDftCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085KWVMNQ-es HUNDA Cargador Surface Pro 44W 15V 2.58A Surface Cargador...'
 sku: 'B085KWVMNQ-es'
 tags: [  ]

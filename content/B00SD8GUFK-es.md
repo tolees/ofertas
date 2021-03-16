@@ -5,7 +5,7 @@ date: 2020-03-08 09:32:52
 image: 'https://m.media-amazon.com/images/I/31MceNp9uzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SD8GUFK-es Star Wars: El Retorno del Jedi Luke Skywalker Sable láser...'
 sku: 'B00SD8GUFK-es'
 tags: [  ]

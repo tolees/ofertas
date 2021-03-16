@@ -5,7 +5,7 @@ date: 2020-03-31 01:19:10
 image: 'https://m.media-amazon.com/images/I/51ElQ8XPT5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829JLPNN-es World of Warcraft Nueva - Edición de jugador este juego...'
 sku: 'B0829JLPNN-es'
 tags: [  ]

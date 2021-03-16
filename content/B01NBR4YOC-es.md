@@ -5,7 +5,7 @@ date: 2020-05-30 14:59:41
 image: 'https://m.media-amazon.com/images/I/41DJUz4LTUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBR4YOC-es Sony MDR-XB550AP - Auriculares de Diadema Extra Bass...'
 sku: 'B01NBR4YOC-es'
 tags: [  ]

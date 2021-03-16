@@ -5,7 +5,7 @@ date: 2020-01-22 13:51:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JmRxp78bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2K8SV6-es Luz Solar Exterior 138 LED Feob Luces Solares Exterior con...'
 sku: 'B07Q2K8SV6-es'
 tags: [  ]

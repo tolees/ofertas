@@ -5,7 +5,7 @@ date: 2020-06-22 14:22:36
 image: 'https://m.media-amazon.com/images/I/41PWG4EQPIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071S2KT8J-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B071S2KT8J-es'
 tags: [  ]

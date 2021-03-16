@@ -5,7 +5,7 @@ date: 2020-09-07 22:51:04
 image: 'https://m.media-amazon.com/images/I/41ywHEz0oBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072HDGST5-es Mujer Pendientes Azul Joyería Circonita Lágrima con blanco...'
 sku: 'B072HDGST5-es'
 tags: [  ]

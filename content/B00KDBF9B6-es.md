@@ -5,7 +5,7 @@ date: 2020-03-13 08:27:25
 image: 'https://m.media-amazon.com/images/I/41S0MALz3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KDBF9B6-es whiskas Dentabites de 40g para higiene oral de uso diario...'
 sku: 'B00KDBF9B6-es'
 tags: [  ]

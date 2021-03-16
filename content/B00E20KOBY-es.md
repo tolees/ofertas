@@ -5,7 +5,7 @@ date: 2020-09-24 15:30:41
 image: 'https://m.media-amazon.com/images/I/41oEhvwmsBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E20KOBY-es Vogel s Base 05 L - Soporte de Pared Fijo para TV 40 - 80"...'
 sku: 'B00E20KOBY-es'
 tags: [  ]

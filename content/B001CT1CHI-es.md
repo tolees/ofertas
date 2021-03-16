@@ -5,7 +5,7 @@ date: 2020-02-12 23:10:28
 image: 'https://m.media-amazon.com/images/I/31mH11qvtsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001CT1CHI-es SHIMANO 1Mm M970/770/600 Zapatas Unisex Multicolor Talla...'
 sku: 'B001CT1CHI-es'
 tags: [  ]

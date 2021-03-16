@@ -5,7 +5,7 @@ date: 2020-06-01 12:04:12
 image: 'https://m.media-amazon.com/images/I/41JWHyxHuVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RG9NKW-es El más Nuevo Estuche de Soporte de Espejo Inteligente...'
 sku: 'B084RG9NKW-es'
 tags: [  ]

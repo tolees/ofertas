@@ -5,7 +5,7 @@ date: 2020-04-25 04:55:26
 image: 'https://m.media-amazon.com/images/I/41Jd7Zg8UmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K9VUPF4-es A2BC LED Lighting Bombilla Esférica con Luz Calida 6 W...'
 sku: 'B01K9VUPF4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-01 12:04:34
 image: 'https://m.media-amazon.com/images/I/31M1FZBr-CL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNPNFTZ-es Mocasines Piel Florentic Hombre Suela Goma Castellanisimos'
 sku: 'B07PNPNFTZ-es'
 tags: [  ]

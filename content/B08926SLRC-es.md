@@ -5,7 +5,7 @@ date: 2020-08-06 07:05:26
 image: 'https://m.media-amazon.com/images/I/41DBqgCor2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08926SLRC-es JOEAIS Tableta de Escritura LCD 12 Pulgadas Vistoso Anti-...'
 sku: 'B08926SLRC-es'
 tags: [  ]

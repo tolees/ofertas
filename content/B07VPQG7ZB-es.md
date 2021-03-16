@@ -5,7 +5,7 @@ date: 2020-06-27 18:39:28
 image: 'https://m.media-amazon.com/images/I/41FX4RZzeUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPQG7ZB-es G-STAR RAW ARC 3D Sport Bañador Azul Worn in Deep Ocean...'
 sku: 'B07VPQG7ZB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-15 04:26:23
 image: 'https://m.media-amazon.com/images/I/41uisBEFwML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQZQJU0-es New Balance 247v1 Zapatillas para Hombre Negro Black/White...'
 sku: 'B01MQZQJU0-es'
 tags: [  ]

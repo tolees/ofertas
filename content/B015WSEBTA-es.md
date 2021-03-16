@@ -5,7 +5,7 @@ date: 2020-05-10 09:43:28
 image: 'https://m.media-amazon.com/images/I/417XiogxUKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015WSEBTA-es Bourjois Velvet Barra de Labios Líquida Tono 13 Fu n chsia...'
 sku: 'B015WSEBTA-es'
 tags: [  ]

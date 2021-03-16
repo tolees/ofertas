@@ -5,7 +5,7 @@ date: 2020-04-28 12:06:47
 image: 'https://m.media-amazon.com/images/I/31ljZRn2+4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4VY5ZR-es SALAKA Peine Plegable de plástico Negro de Doble Cabeza...'
 sku: 'B07Z4VY5ZR-es'
 tags: [  ]

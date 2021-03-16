@@ -5,7 +5,7 @@ date: 2020-06-20 06:45:51
 image: 'https://m.media-amazon.com/images/I/416EBmGQefL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0826T7WBV-es HP ProDesk 600 G2 i5 6500 3.60GHz 8GB 256gb ssd + 500GB...'
 sku: 'B0826T7WBV-es'
 tags: [  ]

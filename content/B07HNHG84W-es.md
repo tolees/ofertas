@@ -5,7 +5,7 @@ date: 2020-04-28 11:35:47
 image: 'https://m.media-amazon.com/images/I/41s1mFc9NLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNHG84W-es TOPELEK Luz de Lectura Recargable con 60H de Autonomía...'
 sku: 'B07HNHG84W-es'
 tags: [  ]

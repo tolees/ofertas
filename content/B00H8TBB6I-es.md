@@ -5,7 +5,7 @@ date: 2020-04-29 18:48:25
 image: 'https://m.media-amazon.com/images/I/41UMdT00etL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H8TBB6I-es FLEXI Vario S Cordón 8 m marrón'
 sku: 'B00H8TBB6I-es'
 tags: [  ]

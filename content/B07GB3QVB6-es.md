@@ -5,7 +5,7 @@ date: 2020-06-14 18:29:15
 image: 'https://m.media-amazon.com/images/I/31h5r4ONvnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB3QVB6-es Lacoste HH9553 Pantalones Azul Marine 36 Talla del...'
 sku: 'B07GB3QVB6-es'
 tags: [  ]

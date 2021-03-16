@@ -5,7 +5,7 @@ date: 2020-05-30 07:57:49
 image: 'https://m.media-amazon.com/images/I/510GEpenRUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RV3P1YL-es Bikinis Mujer 2020 Push up Sexy de Lunares de Playa...'
 sku: 'B07RV3P1YL-es'
 tags: [  ]

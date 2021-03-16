@@ -5,7 +5,7 @@ date: 2020-09-17 11:34:11
 image: 'https://m.media-amazon.com/images/I/41W1OrV13aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NYTF5QW-es adidas U Path Run Zapatillas de Gimnasia para Hombre Negro...'
 sku: 'B07NYTF5QW-es'
 tags: [  ]

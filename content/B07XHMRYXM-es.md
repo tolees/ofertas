@@ -5,7 +5,7 @@ date: 2020-08-23 14:02:24
 image: 'https://m.media-amazon.com/images/I/51eEbEb4VkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHMRYXM-es GUIFIER 12 Piezas Candelabros de Velas en Cristal Soporte...'
 sku: 'B07XHMRYXM-es'
 tags: [  ]

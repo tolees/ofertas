@@ -5,7 +5,7 @@ date: 2020-05-23 13:16:05
 image: 'https://m.media-amazon.com/images/I/61WQshbhqqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4JLBJ1-es S&R Disco de corte 125 mm para Metal y Hierro 125 x2 0x22...'
 sku: 'B07D4JLBJ1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-19 19:19:56
 image: 'https://m.media-amazon.com/images/I/41eF+-V8rNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFF72WD-es Disney Bañador para Mujer Minnie Mouse Blanco Medium'
 sku: 'B07PFF72WD-es'
 tags: [  ]

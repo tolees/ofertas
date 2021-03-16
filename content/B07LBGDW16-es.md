@@ -5,7 +5,7 @@ date: 2020-01-13 12:07:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317MaKsvNlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBGDW16-es Kappa Memni Zapatillas para Mujer Black/White 1110 39 EU'
 sku: 'B07LBGDW16-es'
 tags: [  ]

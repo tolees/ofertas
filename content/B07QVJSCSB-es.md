@@ -5,7 +5,7 @@ date: 2020-07-05 22:07:33
 image: 'https://m.media-amazon.com/images/I/41kJtE1UdhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVJSCSB-es KEXIN 64GB Memoria USB 2.0 Llave Pendrive 64GB Memoria...'
 sku: 'B07QVJSCSB-es'
 tags: [  ]

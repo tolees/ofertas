@@ -5,7 +5,7 @@ date: 2020-09-17 08:50:48
 image: 'https://m.media-amazon.com/images/I/41Yztq-+dkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DDXM75Q-es Star Wars - Taza de cerámica diseño R2-D2 3D sin Tapa'
 sku: 'B01DDXM75Q-es'
 tags: [  ]

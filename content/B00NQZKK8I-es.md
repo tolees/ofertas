@@ -5,7 +5,7 @@ date: 2020-07-08 17:48:56
 image: 'https://m.media-amazon.com/images/I/51nZnAYB16L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NQZKK8I-es Control Touch And Feel Preservativos - 12 Unidades'
 sku: 'B00NQZKK8I-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-12 11:12:32
 image: 'https://m.media-amazon.com/images/I/41qOY8AFsXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0F8UM7-es MONTEMAGGI - Mueble de planchado con tabla y 3 cestas de...'
 sku: 'B01N0F8UM7-es'
 tags: [  ]

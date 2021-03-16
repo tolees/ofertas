@@ -5,7 +5,7 @@ date: 2020-01-15 04:55:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kZe-iq5ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M6C3PS8-es Maybelline New York The 24 Karat Nudes Paleta de Sombras...'
 sku: 'B01M6C3PS8-es'
 tags: [  ]

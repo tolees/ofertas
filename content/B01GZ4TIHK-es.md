@@ -5,7 +5,7 @@ date: 2020-02-03 20:25:27
 image: 'https://m.media-amazon.com/images/I/41hNMcyEVYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GZ4TIHK-es Licor del Polo - Pasta de dientes 2 en 1 Blanqueador...'
 sku: 'B01GZ4TIHK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-30 18:06:54
 image: 'https://m.media-amazon.com/images/I/41ZWhfdzREL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ERVW2SU-es Braun Oral-B Stages Power Kids Batería de Cepillo de...'
 sku: 'B01ERVW2SU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 10:01:19
 image: 'https://m.media-amazon.com/images/I/41634YxsfRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9SGH68-es Fitbit Versa Smartwatch Deportivo Gris Talla única'
 sku: 'B07B9SGH68-es'
 tags: [  ]

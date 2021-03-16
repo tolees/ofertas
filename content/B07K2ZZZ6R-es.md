@@ -5,7 +5,7 @@ date: 2020-09-07 15:33:26
 image: 'https://m.media-amazon.com/images/I/41-SzyY9tbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2ZZZ6R-es Cabin Max Rio Stowaway – Bolsa de Hombro de 40x25x20cm -...'
 sku: 'B07K2ZZZ6R-es'
 tags: [  ]

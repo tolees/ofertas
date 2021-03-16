@@ -5,7 +5,7 @@ date: 2020-05-08 16:39:09
 image: 'https://m.media-amazon.com/images/I/41JxeQM3+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IR9XLG0-es Maclaren AM1Y031872 Union Jack Princess Blue Forro de...'
 sku: 'B01IR9XLG0-es'
 tags: [  ]

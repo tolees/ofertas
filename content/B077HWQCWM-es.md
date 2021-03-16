@@ -5,7 +5,7 @@ date: 2020-03-26 14:03:57
 image: 'https://m.media-amazon.com/images/I/31d7SYWG9LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HWQCWM-es FM London Vest Top and Leggings Conjunto Ropa Deportiva...'
 sku: 'B077HWQCWM-es'
 tags: [  ]

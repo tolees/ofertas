@@ -5,7 +5,7 @@ date: 2020-09-21 06:35:05
 image: 'https://m.media-amazon.com/images/I/41RTcRXaefL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NLMD5N9-es FILA Disruptor Zapatillas para Hombre Black/Black 45 EU'
 sku: 'B07NLMD5N9-es'
 tags: [  ]

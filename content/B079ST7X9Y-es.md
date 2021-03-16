@@ -5,7 +5,7 @@ date: 2020-05-24 09:03:37
 image: 'https://m.media-amazon.com/images/I/41Z1FVYLA3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ST7X9Y-es Desigual Jers edimburgo suéter Negro 2000 Large para Mujer'
 sku: 'B079ST7X9Y-es'
 tags: [  ]

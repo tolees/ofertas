@@ -5,7 +5,7 @@ date: 2020-09-07 17:23:46
 image: 'https://m.media-amazon.com/images/I/41mmwP480tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYRZK73-es Calvin Klein Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07CYRZK73-es'
 tags: [  ]

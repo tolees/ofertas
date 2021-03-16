@@ -5,7 +5,7 @@ date: 2020-04-08 23:03:58
 image: 'https://m.media-amazon.com/images/I/51NM0Kg08LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JLI7HKC-es Reloj para hombre Tommy Hilfiger 1791308.'
 sku: 'B01JLI7HKC-es'
 tags: [  ]

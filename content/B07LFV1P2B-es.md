@@ -5,7 +5,7 @@ date: 2020-03-25 06:50:56
 image: 'https://m.media-amazon.com/images/I/41muPuO1H3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFV1P2B-es Micrófono Gaming Voice USB de escritorio Luz LED Micrófono...'
 sku: 'B07LFV1P2B-es'
 tags: [  ]

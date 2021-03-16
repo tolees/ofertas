@@ -5,7 +5,7 @@ date: 2020-09-03 12:41:41
 image: 'https://m.media-amazon.com/images/I/41hIeXpZ3CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0819FKX3H-es PUTORSEN® Soporte TV de Pared para la Mayoría de los...'
 sku: 'B0819FKX3H-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-23 14:09:05
 image: 'https://m.media-amazon.com/images/I/41gKM1ToMzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000HL1MU4-es Bourjois Delice De Poudre Polvos Bronceadores Tono 51 - 68 g'
 sku: 'B000HL1MU4-es'
 tags: [  ]

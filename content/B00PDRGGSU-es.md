@@ -5,7 +5,7 @@ date: 2020-04-21 02:01:13
 image: 'https://m.media-amazon.com/images/I/3139Z6ObEoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PDRGGSU-es Liderpapel - 100024 Plantillas Curvas 3 Piezas'
 sku: 'B00PDRGGSU-es'
 tags: [  ]

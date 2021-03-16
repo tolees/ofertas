@@ -5,7 +5,7 @@ date: 2020-04-18 03:10:34
 image: 'https://m.media-amazon.com/images/I/51tGZbFMOML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG3LV8F-es Conjunto de luces Lightailing para Bugatti Chiron Modelo...'
 sku: 'B07KG3LV8F-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 18:06:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pcLkHLEzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJMSZ8-es Napapijri Semiury 2 Gorro de Punto Gris Dark Grey Mel 197...'
 sku: 'B07MVJMSZ8-es'
 tags: [  ]

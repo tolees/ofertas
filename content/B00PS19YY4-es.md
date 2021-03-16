@@ -5,7 +5,7 @@ date: 2020-04-02 11:02:05
 image: 'https://m.media-amazon.com/images/I/51hC088SwYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PS19YY4-es DeWalt DT70523T-QZ Juego de Piezas para Atornillar 0 W 0 V'
 sku: 'B00PS19YY4-es'
 tags: [  ]

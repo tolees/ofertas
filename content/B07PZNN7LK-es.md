@@ -5,7 +5,7 @@ date: 2020-07-18 15:41:21
 image: 'https://m.media-amazon.com/images/I/31b7YY2o0JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZNN7LK-es Ufesa Velvet Pro 2400 - Secador Profesional con tecnología...'
 sku: 'B07PZNN7LK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-13 08:53:57
 image: 'https://m.media-amazon.com/images/I/31Yf7I7vqcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079C8RP9Y-es Jack & Jones Jjepaulos Polo SS Noos Azul Bright Cobalt...'
 sku: 'B079C8RP9Y-es'
 tags: [  ]

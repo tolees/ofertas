@@ -5,7 +5,7 @@ date: 2020-01-02 16:07:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51GyzqncBSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P75RNQN-es deAO Unidad de Defensa Base Militar Vehículos de Fuerzas...'
 sku: 'B07P75RNQN-es'
 tags: [  ]

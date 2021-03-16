@@ -5,7 +5,7 @@ date: 2020-05-14 22:19:48
 image: 'https://m.media-amazon.com/images/I/41NORvJv-OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H1FKNAY-es Cayro - Tablero Parchís 4-6 con Accesorios 40 x 40 cm T134/A'
 sku: 'B00H1FKNAY-es'
 tags: [  ]

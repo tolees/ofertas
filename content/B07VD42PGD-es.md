@@ -5,7 +5,7 @@ date: 2020-01-29 10:49:30
 image: 'https://m.media-amazon.com/images/I/51sanNWz1jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD42PGD-es IWAVION Cable Phone 3PACK 1M Cable Cargador Phon Nylon...'
 sku: 'B07VD42PGD-es'
 tags: [  ]

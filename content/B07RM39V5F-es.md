@@ -5,7 +5,7 @@ date: 2020-09-06 13:44:53
 image: 'https://m.media-amazon.com/images/I/41W8FzNy-zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM39V5F-es Corsair Vengeance LPX 16GB 2x8GB DDR4 3600MHz C18 Módulo...'
 sku: 'B07RM39V5F-es'
 tags: [  ]

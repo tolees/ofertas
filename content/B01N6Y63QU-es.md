@@ -5,7 +5,7 @@ date: 2020-06-12 15:02:29
 image: 'https://m.media-amazon.com/images/I/41hU7TDg-3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6Y63QU-es Samsung Silicone Funda para smartphone Samsung Galaxy S8...'
 sku: 'B01N6Y63QU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-17 10:09:41
 image: 'https://m.media-amazon.com/images/I/31kVgU0GSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NP33PY-es Girona FC Oficial Polo Paseo 2019-20 Hombre Rojo XL'
 sku: 'B078NP33PY-es'
 tags: [  ]

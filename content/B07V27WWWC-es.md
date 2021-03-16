@@ -5,7 +5,7 @@ date: 2020-02-25 21:16:34
 image: 'https://m.media-amazon.com/images/I/31sje+bBpkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V27WWWC-es Juego de herramientas de perforación 4 piezas/juego de...'
 sku: 'B07V27WWWC-es'
 tags: [  ]

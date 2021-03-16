@@ -5,7 +5,7 @@ date: 2020-10-06 06:02:45
 image: 'https://m.media-amazon.com/images/I/51L-ktPNEsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0732XQXQ3-es TONZE Ajedrez Magnetico Juegos de Mesa Tablero de Ajedrez...'
 sku: 'B0732XQXQ3-es'
 tags: [  ]

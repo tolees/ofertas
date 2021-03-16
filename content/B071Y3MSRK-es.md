@@ -5,7 +5,7 @@ date: 2020-01-23 22:05:11
 image: 'https://m.media-amazon.com/images/I/41ODGIRqdiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071Y3MSRK-es Rocketbook Everlast Smart - Cuaderno reutilizable Negro...'
 sku: 'B071Y3MSRK-es'
 tags: [  ]

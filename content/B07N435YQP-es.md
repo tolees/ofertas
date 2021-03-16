@@ -5,7 +5,7 @@ date: 2020-08-05 05:24:57
 image: 'https://m.media-amazon.com/images/I/413qsWqKn5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N435YQP-es Levi s 501 Original Short Pantalones Cortos Azul Silver...'
 sku: 'B07N435YQP-es'
 tags: [  ]

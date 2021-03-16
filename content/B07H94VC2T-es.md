@@ -5,7 +5,7 @@ date: 2020-07-03 14:32:59
 image: 'https://m.media-amazon.com/images/I/51D+TF106ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H94VC2T-es YAZILIND Encaje Flor Halloween Masquerade Disfraces Fiesta...'
 sku: 'B07H94VC2T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-03 19:03:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BY4N7xz-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X23RKST-es EASE LEAP Calcetines Ejecutivos para Hombre Largos Negros...'
 sku: 'B07X23RKST-es'
 tags: [  ]

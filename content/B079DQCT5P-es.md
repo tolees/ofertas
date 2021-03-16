@@ -5,7 +5,7 @@ date: 2020-04-14 16:56:35
 image: 'https://m.media-amazon.com/images/I/51yD9f5aaBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DQCT5P-es [Gifts for Women] ROWNYEON PU Leather Makeup Bag...'
 sku: 'B079DQCT5P-es'
 tags: [  ]

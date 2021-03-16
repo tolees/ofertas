@@ -5,7 +5,7 @@ date: 2020-04-14 00:12:17
 image: 'https://m.media-amazon.com/images/I/41k27Kg4CwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJLGXV9-es La crema blanqueadora para las axilas nutre repara y...'
 sku: 'B07SJLGXV9-es'
 tags: [  ]

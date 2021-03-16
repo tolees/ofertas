@@ -5,7 +5,7 @@ date: 2020-06-01 14:28:35
 image: 'https://m.media-amazon.com/images/I/41tuTnof+FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1LXP6Z-es Buffalo Chai Zapatillas Altas para Mujer Beige Beige 000...'
 sku: 'B07T1LXP6Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-28 10:45:59
 image: 'https://m.media-amazon.com/images/I/41s3zgKRDRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B54V6CG-es Genericc Tarjeta Micro SD SDXC 128 GB/256 GB de alta...'
 sku: 'B08B54V6CG-es'
 tags: [  ]

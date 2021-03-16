@@ -5,7 +5,7 @@ date: 2020-04-18 19:27:22
 image: 'https://m.media-amazon.com/images/I/41YfhD-5fQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPBPRVV-es Pinko Love Classic Simply 1 Cl Pelle Bolsa de mensajero...'
 sku: 'B07VPBPRVV-es'
 tags: [  ]

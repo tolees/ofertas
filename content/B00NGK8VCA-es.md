@@ -5,7 +5,7 @@ date: 2020-03-28 10:51:25
 image: 'https://m.media-amazon.com/images/I/41kIekX-BML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGK8VCA-es Sesderma Repaskin Fotoprotector Solar- 50 ML'
 sku: 'B00NGK8VCA-es'
 tags: [  ]

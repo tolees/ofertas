@@ -5,7 +5,7 @@ date: 2020-01-16 13:09:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PeA1OGknL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJK3DBP-es Funnyrunstore Herramienta de eliminación de la espinilla...'
 sku: 'B07NJK3DBP-es'
 tags: [  ]

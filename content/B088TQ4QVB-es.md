@@ -5,7 +5,7 @@ date: 2020-08-20 17:48:47
 image: 'https://m.media-amazon.com/images/I/51k9nO9ANLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TQ4QVB-es IDEASY Tableta de Escritura LCD de 8.5 Pulgadas Tableta de...'
 sku: 'B088TQ4QVB-es'
 tags: [  ]

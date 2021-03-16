@@ -5,7 +5,7 @@ date: 2020-08-18 18:21:26
 image: 'https://m.media-amazon.com/images/I/51E214PXl+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXNKR4O-es Imetec CH 3000 - Picadora 4 Cuchillas de Acero Inoxidable...'
 sku: 'B01LXNKR4O-es'
 tags: [  ]

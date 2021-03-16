@@ -5,7 +5,7 @@ date: 2020-02-17 17:19:17
 image: 'https://m.media-amazon.com/images/I/518i7vBXe2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813SMZVQ-es BESTKEE Cinturón táctico para hombres 1.5 pulgadas estilo...'
 sku: 'B0813SMZVQ-es'
 tags: [  ]

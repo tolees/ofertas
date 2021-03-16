@@ -5,7 +5,7 @@ date: 2020-01-04 21:37:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/319noMNDV6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004S9EO4M-es Cudié Catànies - 80 gr.'
 sku: 'B004S9EO4M-es'
 tags: [  ]

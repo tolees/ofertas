@@ -5,7 +5,7 @@ date: 2020-04-02 16:04:34
 image: 'https://m.media-amazon.com/images/I/511FpEm4l3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B1FIA3G-es San Miguel Cerveza Sin Alcohol - Paquete de 24 x 250 ml -...'
 sku: 'B01B1FIA3G-es'
 tags: [  ]

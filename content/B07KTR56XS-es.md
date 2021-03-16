@@ -5,7 +5,7 @@ date: 2020-07-09 23:40:45
 image: 'https://m.media-amazon.com/images/I/41tWAgOY0EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTR56XS-es Tommy Hilfiger Reloj de Pulsera 1791578'
 sku: 'B07KTR56XS-es'
 tags: [  ]

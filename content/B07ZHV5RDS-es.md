@@ -5,7 +5,7 @@ date: 2020-09-06 11:53:55
 image: 'https://m.media-amazon.com/images/I/51o2V-qA+xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHV5RDS-es F1 2019'
 sku: 'B07ZHV5RDS-es'
 tags: [  ]

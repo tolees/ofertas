@@ -5,7 +5,7 @@ date: 2020-01-28 11:53:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41--C73plEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXYOPSH-es The North Face Back-to-Berkeley Redux Leather Botas de...'
 sku: 'B01MXYOPSH-es'
 tags: [  ]

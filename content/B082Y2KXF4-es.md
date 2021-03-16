@@ -5,7 +5,7 @@ date: 2020-09-20 21:36:01
 image: 'https://m.media-amazon.com/images/I/41WBXmVxmzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082Y2KXF4-es Cocoda Dispensador Jabón Automático 500ml/17oz Dispensador...'
 sku: 'B082Y2KXF4-es'
 tags: [  ]

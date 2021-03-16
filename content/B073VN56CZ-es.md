@@ -5,7 +5,7 @@ date: 2020-05-31 13:44:42
 image: 'https://m.media-amazon.com/images/I/31boXn8YK3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VN56CZ-es Maybelline New York - SuperStay 24H Base de Maquillaje...'
 sku: 'B073VN56CZ-es'
 tags: [  ]

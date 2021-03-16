@@ -5,7 +5,7 @@ date: 2020-08-03 08:15:29
 image: 'https://m.media-amazon.com/images/I/41x7TsFXxtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B5Y5CF5-es Zerodis Plasma Ball Light USB Globe Night Touch Sensible...'
 sku: 'B07B5Y5CF5-es'
 tags: [  ]

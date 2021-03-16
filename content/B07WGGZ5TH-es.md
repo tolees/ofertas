@@ -5,7 +5,7 @@ date: 2020-05-29 07:40:26
 image: 'https://m.media-amazon.com/images/I/51miMdJQEeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGGZ5TH-es Manta Dragón Bebe Personalizada con Nombre. Regalo Bebé...'
 sku: 'B07WGGZ5TH-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-03 15:31:04
 image: 'https://m.media-amazon.com/images/I/51dXjdBauVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLMRK34-es ISOPHO Colchoneta Inflable colchón de Camping Ultraligero...'
 sku: 'B07WLMRK34-es'
 tags: [  ]

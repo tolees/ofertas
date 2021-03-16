@@ -5,7 +5,7 @@ date: 2020-10-02 11:58:45
 image: 'https://m.media-amazon.com/images/I/417B+AUqksL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IWVWUWA-es Alesis VI49 - Teclado Controlador MIDI USB de 49 Teclas...'
 sku: 'B00IWVWUWA-es'
 tags: [  ]

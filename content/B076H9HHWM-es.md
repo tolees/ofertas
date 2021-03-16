@@ -5,7 +5,7 @@ date: 2020-03-13 10:21:36
 image: 'https://m.media-amazon.com/images/I/41WxRqOm3dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076H9HHWM-es ADIDAS Duramo Lite 2.0 Zapatillas de Entrenamiento para...'
 sku: 'B076H9HHWM-es'
 tags: [  ]

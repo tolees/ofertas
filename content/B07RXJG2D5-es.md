@@ -5,7 +5,7 @@ date: 2020-06-02 20:02:23
 image: 'https://m.media-amazon.com/images/I/41GhARX80bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXJG2D5-es New Balance 373v2 Zapatillas para Mujer Azul Blue Cb2 35 EU'
 sku: 'B07RXJG2D5-es'
 tags: [  ]

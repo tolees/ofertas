@@ -5,7 +5,7 @@ date: 2020-01-22 09:17:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mtOe9XcbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MPP6BBK-es Snailax Masaje cervical Shiatsu con cuello térmico y...'
 sku: 'B07MPP6BBK-es'
 tags: [  ]

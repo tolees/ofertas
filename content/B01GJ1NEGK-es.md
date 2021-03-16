@@ -5,7 +5,7 @@ date: 2020-05-21 11:16:30
 image: 'https://m.media-amazon.com/images/I/51BsG+hMmpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GJ1NEGK-es Activ Life Luces LED Ruedas de bicis 1 Set Verde . Aporte...'
 sku: 'B01GJ1NEGK-es'
 tags: [  ]

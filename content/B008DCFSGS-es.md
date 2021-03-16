@@ -5,7 +5,7 @@ date: 2020-09-26 08:26:03
 image: 'https://m.media-amazon.com/images/I/31+h2-svk3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008DCFSGS-es Safta - Carro Portamochilas Pequeño 67x22cm Color Negro'
 sku: 'B008DCFSGS-es'
 tags: [  ]

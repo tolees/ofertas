@@ -5,7 +5,7 @@ date: 2020-04-16 18:11:03
 image: 'https://m.media-amazon.com/images/I/41vwKPmkHlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CUKZNP4-es Amazon - Funda protectora para Kindle color blanco y gris...'
 sku: 'B01CUKZNP4-es'
 tags: [  ]

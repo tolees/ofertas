@@ -5,7 +5,7 @@ date: 2020-06-20 11:31:47
 image: 'https://m.media-amazon.com/images/I/41mAxJu1ESL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721YVYDF-es TATAY Urban Food Roll & Go Bolsa Porta Alimentos...'
 sku: 'B0721YVYDF-es'
 tags: [  ]

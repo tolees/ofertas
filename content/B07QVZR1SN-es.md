@@ -5,7 +5,7 @@ date: 2020-01-25 07:33:21
 image: 'https://m.media-amazon.com/images/I/41Y3uFAmw2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVZR1SN-es Asics Gel-Cumulus 21 Zapatillas de Running para Hombre...'
 sku: 'B07QVZR1SN-es'
 tags: [  ]

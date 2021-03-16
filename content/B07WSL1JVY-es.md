@@ -5,7 +5,7 @@ date: 2020-01-05 08:55:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51A4aiVMvdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSL1JVY-es Byroras Electroestimulador Muscular Abdominales EMS...'
 sku: 'B07WSL1JVY-es'
 tags: [  ]

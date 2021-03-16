@@ -5,7 +5,7 @@ date: 2020-01-19 23:16:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AO10%2BNTGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK7N4HW-es ELEGIANT Mini LED Luz USB con Altavoz Bluetooth Lámpara...'
 sku: 'B07KK7N4HW-es'
 tags: [  ]

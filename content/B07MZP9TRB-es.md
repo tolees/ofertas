@@ -5,7 +5,7 @@ date: 2020-02-28 17:04:02
 image: 'https://m.media-amazon.com/images/I/41vwzdu5ocL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZP9TRB-es Pepe Jeans Kim suéter Black 999 Large para Mujer'
 sku: 'B07MZP9TRB-es'
 tags: [  ]

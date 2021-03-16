@@ -5,7 +5,7 @@ date: 2020-02-11 01:58:04
 image: 'https://m.media-amazon.com/images/I/31Lg2+ERm2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A5NNPHG-es Maybelline New York Brow Drama Máscara De Cejas Medium...'
 sku: 'B01A5NNPHG-es'
 tags: [  ]

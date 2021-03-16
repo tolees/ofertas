@@ -5,7 +5,7 @@ date: 2020-06-27 10:47:41
 image: 'https://m.media-amazon.com/images/I/417qoksp2XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSV5MP5-es Cat Footwear Quadrate Botas Clasicas para Hombre Naranja...'
 sku: 'B07MSV5MP5-es'
 tags: [  ]

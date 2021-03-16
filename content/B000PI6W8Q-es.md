@@ -5,7 +5,7 @@ date: 2020-06-14 18:50:25
 image: 'https://m.media-amazon.com/images/I/41HsAJq62iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000PI6W8Q-es Converse AS Ox Can 1Q112 - Zapatillas de lona unisex...'
 sku: 'B000PI6W8Q-es'
 tags: [  ]

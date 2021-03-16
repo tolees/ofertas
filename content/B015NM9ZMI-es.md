@@ -5,7 +5,7 @@ date: 2020-02-09 11:15:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31v-FJq8pfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015NM9ZMI-es Clarins 72176 - Desmaquillante'
 sku: 'B015NM9ZMI-es'
 tags: [  ]

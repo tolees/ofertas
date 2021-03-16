@@ -5,7 +5,7 @@ date: 2020-05-31 09:03:33
 image: 'https://m.media-amazon.com/images/I/41eQSORfNxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014JWTHLM-es Lancaster 365 Skin Repair Serum Youth Renewal Tratamiento...'
 sku: 'B014JWTHLM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-23 10:03:51
 image: 'https://m.media-amazon.com/images/I/31zKz+jOD3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JCPLGZQ-es Unitedheart Caja del Banco de la energía 2600MAH Tamaño...'
 sku: 'B07JCPLGZQ-es'
 tags: [  ]

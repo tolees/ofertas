@@ -5,7 +5,7 @@ date: 2020-02-22 18:39:48
 image: 'https://m.media-amazon.com/images/I/41KkmY4I9kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2GPS8C-es Transya B530 - Auriculares inalámbricos Bluetooth 5.0 con...'
 sku: 'B07V2GPS8C-es'
 tags: [  ]

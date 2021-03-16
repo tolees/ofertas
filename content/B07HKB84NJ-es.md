@@ -5,7 +5,7 @@ date: 2020-01-31 21:49:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41f2PB8AmqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKB84NJ-es Feilaxleer Ropa Ciclismo Otoño/Invierno/Primavera para...'
 sku: 'B07HKB84NJ-es'
 tags: [  ]

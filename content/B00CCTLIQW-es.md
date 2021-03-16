@@ -5,7 +5,7 @@ date: 2020-03-31 12:24:47
 image: 'https://m.media-amazon.com/images/I/4111Kd0WLkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CCTLIQW-es Vaso medidor Kitchen Craft de cristal 50 ml'
 sku: 'B00CCTLIQW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 10:54:31
 image: 'https://m.media-amazon.com/images/I/315eTgCW4XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQ78VH5-es Rimmel London Lasting Radiance Concealer Corrector de...'
 sku: 'B07NQ78VH5-es'
 tags: [  ]

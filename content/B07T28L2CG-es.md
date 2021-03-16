@@ -5,7 +5,7 @@ date: 2020-06-06 21:53:45
 image: 'https://m.media-amazon.com/images/I/41y5KUnS8yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T28L2CG-es B Blesiya Reloj de Tiempo de Contador Cuenta Atrás con...'
 sku: 'B07T28L2CG-es'
 tags: [  ]

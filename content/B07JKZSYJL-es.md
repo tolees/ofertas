@@ -5,7 +5,7 @@ date: 2020-07-07 19:13:23
 image: 'https://m.media-amazon.com/images/I/41jn+JXEjCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKZSYJL-es NIVEA Pack Hyalurron Cellular Filler Crema Antiedad Día y...'
 sku: 'B07JKZSYJL-es'
 tags: [  ]

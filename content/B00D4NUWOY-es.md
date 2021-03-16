@@ -5,7 +5,7 @@ date: 2020-06-21 02:00:55
 image: 'https://m.media-amazon.com/images/I/41tKAVELDmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D4NUWOY-es Supportiback Almohada terapéutica de cama con gel...'
 sku: 'B00D4NUWOY-es'
 tags: [  ]

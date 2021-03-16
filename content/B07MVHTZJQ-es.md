@@ -5,7 +5,7 @@ date: 2020-06-15 18:31:32
 image: 'https://m.media-amazon.com/images/I/517orosO2jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVHTZJQ-es Kipling - Card Keeper Carteras Mujer Morado Dark Plum...'
 sku: 'B07MVHTZJQ-es'
 tags: [  ]

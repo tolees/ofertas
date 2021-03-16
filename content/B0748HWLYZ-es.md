@@ -5,7 +5,7 @@ date: 2020-03-13 12:50:40
 image: 'https://m.media-amazon.com/images/I/413AHUy-juL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0748HWLYZ-es TACKLIFE Encendedor ELY02 220mAh Encendedor Eléctrico con...'
 sku: 'B0748HWLYZ-es'
 tags: [  ]

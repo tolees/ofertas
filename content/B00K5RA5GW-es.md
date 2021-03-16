@@ -5,7 +5,7 @@ date: 2020-06-15 19:04:32
 image: 'https://m.media-amazon.com/images/I/41dxb4gorRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5RA5GW-es Tommy Hilfiger 3p Trunk Ropa interior Negro Black 990 XX-...'
 sku: 'B00K5RA5GW-es'
 tags: [  ]

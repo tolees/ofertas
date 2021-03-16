@@ -5,7 +5,7 @@ date: 2020-09-17 14:02:37
 image: 'https://m.media-amazon.com/images/I/31HEdAJvqwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G51D3QA-es Biomecanics 161141 Zapatillas de Estar por casa para Bebés...'
 sku: 'B01G51D3QA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-23 09:02:36
 image: 'https://m.media-amazon.com/images/I/51gsrDdLWHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9W9NYU-es L Oréal Paris Sublime Mousse Tinte en Espuma Coloración...'
 sku: 'B00X9W9NYU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-28 13:21:48
 image: 'https://m.media-amazon.com/images/I/41taB1FGeHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQ1ZP9F-es Cámara Digital réflex Digital de Alta...'
 sku: 'B07JQ1ZP9F-es'
 tags: [  ]

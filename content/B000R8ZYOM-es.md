@@ -5,7 +5,7 @@ date: 2020-05-03 15:45:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41k3ES%2B0-EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000R8ZYOM-es Bestway-24087 44007-colchón neón Finish 183x69 8321035'
 sku: 'B000R8ZYOM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 18:54:44
 image: 'https://m.media-amazon.com/images/I/41cIL8WfWZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NIAARK2-es NYX Professional Makeup Base de Maquillaje Can t Stop Won...'
 sku: 'B00NIAARK2-es'
 tags: [  ]

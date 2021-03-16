@@ -5,7 +5,7 @@ date: 2020-09-25 08:53:35
 image: 'https://m.media-amazon.com/images/I/41iTlMMtNcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S456WLX-es BOSS Trunk 24 Print Calzón para Hombre Rojo Small'
 sku: 'B07S456WLX-es'
 tags: [  ]

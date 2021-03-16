@@ -5,7 +5,7 @@ date: 2020-09-01 12:53:40
 image: 'https://m.media-amazon.com/images/I/41CwvMj8jbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QSQFX17-es Amzchef Picadora de Carne Eléctrica con alta y baja...'
 sku: 'B07QSQFX17-es'
 tags: [  ]

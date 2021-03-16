@@ -5,7 +5,7 @@ date: 2020-04-30 23:25:00
 image: 'https://m.media-amazon.com/images/I/51L1l588tLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BQJW60K-es Amscan 9900558 - Pack de decoración para 18 cumpleaños'
 sku: 'B01BQJW60K-es'
 tags: [  ]

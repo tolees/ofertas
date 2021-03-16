@@ -5,7 +5,7 @@ date: 2020-04-02 05:07:24
 image: 'https://m.media-amazon.com/images/I/41os+lhWgIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKNPFDG-es Giow Lupa de Lectura LED de Escritorio Lupa Grande 5X con...'
 sku: 'B07ZKNPFDG-es'
 tags: [  ]

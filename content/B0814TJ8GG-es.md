@@ -5,7 +5,7 @@ date: 2020-03-28 19:31:51
 image: 'https://m.media-amazon.com/images/I/41Kzit90ysL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814TJ8GG-es Under Armour Tech Wordmark Corto Hombre Negro XL'
 sku: 'B0814TJ8GG-es'
 tags: [  ]

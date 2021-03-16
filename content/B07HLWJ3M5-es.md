@@ -5,7 +5,7 @@ date: 2020-04-30 00:05:55
 image: 'https://m.media-amazon.com/images/I/41kewxNw6CL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HLWJ3M5-es READ Reloj Deportivo Impermeable para Hombres con Fecha...'
 sku: 'B07HLWJ3M5-es'
 tags: [  ]

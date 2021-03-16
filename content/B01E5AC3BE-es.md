@@ -5,7 +5,7 @@ date: 2020-05-26 06:51:36
 image: 'https://m.media-amazon.com/images/I/41m9ThG0ELL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E5AC3BE-es BRA Tekna - Olla a presión rápida 4 litros de fácil uso...'
 sku: 'B01E5AC3BE-es'
 tags: [  ]

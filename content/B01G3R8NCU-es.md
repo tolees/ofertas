@@ -5,7 +5,7 @@ date: 2020-07-12 18:45:57
 image: 'https://m.media-amazon.com/images/I/61q06BI4zLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G3R8NCU-es Diset Soy Luna - Decora con Tachuelas Juego de Arte y...'
 sku: 'B01G3R8NCU-es'
 tags: [  ]

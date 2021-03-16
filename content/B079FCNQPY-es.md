@@ -5,7 +5,7 @@ date: 2021-03-16 14:36:36
 image: 'https://m.media-amazon.com/images/I/61hFzOk-CfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FCNQPY-es Trilogía El Corredor Del Laberinto [DVD]'
 sku: 'B079FCNQPY-es'
 tags: [  ]

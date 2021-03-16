@@ -5,7 +5,7 @@ date: 2020-02-06 16:00:09
 image: 'https://m.media-amazon.com/images/I/41WNPyy0kOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKP1PWQ-es Under Armour UA GS Infinity 2 Zapatillas de Running Unisex...'
 sku: 'B07HKP1PWQ-es'
 tags: [  ]

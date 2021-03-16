@@ -5,7 +5,7 @@ date: 2020-06-27 08:05:53
 image: 'https://m.media-amazon.com/images/I/41shX+241qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010QX3P3Y-es Tyrannosaurus Rex T-Rex Idea de Vinilo temática para...'
 sku: 'B010QX3P3Y-es'
 tags: [  ]

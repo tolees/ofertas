@@ -5,7 +5,7 @@ date: 2020-06-22 22:33:03
 image: 'https://m.media-amazon.com/images/I/413zP65vweL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W3RMQDW-es Joma Record Pantalones cortos Hombre Rojo M'
 sku: 'B00W3RMQDW-es'
 tags: [  ]

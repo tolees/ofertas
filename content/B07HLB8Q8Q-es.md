@@ -5,7 +5,7 @@ date: 2020-01-31 04:51:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Kr5kDr5aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HLB8Q8Q-es Apple iPhone XS Max de 256GB - Gris espacial'
 sku: 'B07HLB8Q8Q-es'
 tags: [  ]

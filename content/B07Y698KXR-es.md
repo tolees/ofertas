@@ -5,7 +5,7 @@ date: 2020-04-07 21:50:18
 image: 'https://m.media-amazon.com/images/I/414oo5NviiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y698KXR-es HOMRanger Keine Bohrer Zugvorhangstange dusche Einstellbar...'
 sku: 'B07Y698KXR-es'
 tags: [  ]

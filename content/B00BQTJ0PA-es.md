@@ -5,7 +5,7 @@ date: 2020-01-10 19:09:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/313UXppIzYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BQTJ0PA-es HP CF373AM 125A Cartucho de Tóner Original 3 unidades cian...'
 sku: 'B00BQTJ0PA-es'
 tags: [  ]

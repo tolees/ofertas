@@ -5,7 +5,7 @@ date: 2020-01-26 23:45:51
 image: 'https://m.media-amazon.com/images/I/410wjRj-2qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBGMF6H-es FOGAWA 2 Pcs Paño de Queso Cucina Telas Filtrantes de...'
 sku: 'B07LBGMF6H-es'
 tags: [  ]

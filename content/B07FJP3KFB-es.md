@@ -5,7 +5,7 @@ date: 2020-05-10 18:02:10
 image: 'https://m.media-amazon.com/images/I/51KS4VleHjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FJP3KFB-es Surplex 2 pza Soporte Seguridad de la Cabeza para Bebe en...'
 sku: 'B07FJP3KFB-es'
 tags: [  ]

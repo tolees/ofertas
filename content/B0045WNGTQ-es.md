@@ -5,7 +5,7 @@ date: 2020-02-19 22:56:58
 image: 'https://m.media-amazon.com/images/I/410WeqcKRtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0045WNGTQ-es Calvados Boulard Calvados Pays d Auge XO mit...'
 sku: 'B0045WNGTQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-31 00:33:07
 image: 'https://m.media-amazon.com/images/I/41dHzBTGWUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R1KXYX-es 50x56cm Manta Electrica Espalda y Cuello Almohadilla...'
 sku: 'B075R1KXYX-es'
 tags: [  ]

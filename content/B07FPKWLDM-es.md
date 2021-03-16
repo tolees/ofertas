@@ -5,7 +5,7 @@ date: 2020-05-12 05:08:09
 image: 'https://m.media-amazon.com/images/I/41b-1uSSv+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPKWLDM-es PUMA Cilia Zapatillas para Mujer Negro Black White/Gray...'
 sku: 'B07FPKWLDM-es'
 tags: [  ]

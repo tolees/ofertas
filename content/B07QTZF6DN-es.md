@@ -5,7 +5,7 @@ date: 2020-02-21 15:15:50
 image: 'https://m.media-amazon.com/images/I/41qPqy4YhKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QTZF6DN-es Asics Gel-Sonoma 4 Zapatillas de Running para Hombre Negro...'
 sku: 'B07QTZF6DN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-21 07:30:54
 image: 'https://m.media-amazon.com/images/I/41r-nJO8LpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014SRLJUU-es Garmin Montana 680T - Navegador GPS 10.2 cm 4" 272 x 480...'
 sku: 'B014SRLJUU-es'
 tags: [  ]

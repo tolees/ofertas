@@ -5,7 +5,7 @@ date: 2020-04-16 19:31:23
 image: 'https://m.media-amazon.com/images/I/51D4acZK17L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EFHQXZ4-es Palette Intense - Tono 5.5 Castaño Luminoso - Coloración...'
 sku: 'B01EFHQXZ4-es'
 tags: [  ]

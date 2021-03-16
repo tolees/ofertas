@@ -5,7 +5,7 @@ date: 2020-02-22 15:35:25
 image: 'https://m.media-amazon.com/images/I/51J-bD4phdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTMSJFV-es ZHENROG Electroestimulador Muscular Abdominales...'
 sku: 'B07RTMSJFV-es'
 tags: [  ]

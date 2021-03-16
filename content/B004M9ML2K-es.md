@@ -5,7 +5,7 @@ date: 2020-09-16 17:56:48
 image: 'https://m.media-amazon.com/images/I/31HA+PDeXRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004M9ML2K-es Rimmel London Lasting Finish Barra De Labios Tono 170...'
 sku: 'B004M9ML2K-es'
 tags: [  ]

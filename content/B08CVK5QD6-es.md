@@ -5,7 +5,7 @@ date: 2020-08-05 10:21:29
 image: 'https://m.media-amazon.com/images/I/31wwJNr+eAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVK5QD6-es Klas Remo - Dispensador de jabón automático 400 ml...'
 sku: 'B08CVK5QD6-es'
 tags: [  ]

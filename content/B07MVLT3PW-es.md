@@ -5,7 +5,7 @@ date: 2020-01-04 13:33:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sS774DJmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVLT3PW-es Napapijri Eils SS Polo Blanco Bright White 002 Large para...'
 sku: 'B07MVLT3PW-es'
 tags: [  ]

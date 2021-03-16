@@ -5,7 +5,7 @@ date: 2020-02-11 08:46:51
 image: 'https://m.media-amazon.com/images/I/41dalutyccL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0044AHBAE-es POP! Vinilo - DC: The Flash'
 sku: 'B0044AHBAE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 19:15:24
 image: 'https://m.media-amazon.com/images/I/41d90RULcDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJD9RC5-es H.Koenig RP328 Raclette 8 Personas Plancha de Piedra...'
 sku: 'B07HJD9RC5-es'
 tags: [  ]

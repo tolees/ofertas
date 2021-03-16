@@ -5,7 +5,7 @@ date: 2020-01-30 20:09:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tlbvgVGQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K36FEWE-es Desconocido USB 2.0 MP3 Reproductor de Música Grabación...'
 sku: 'B01K36FEWE-es'
 tags: [  ]

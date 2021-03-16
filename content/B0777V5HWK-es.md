@@ -5,7 +5,7 @@ date: 2020-04-09 08:22:20
 image: 'https://m.media-amazon.com/images/I/41PzPY7qIaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777V5HWK-es Funko Pop! - Hobbit Gollum Figura de Vinilo 13559'
 sku: 'B0777V5HWK-es'
 tags: [  ]

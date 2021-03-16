@@ -5,7 +5,7 @@ date: 2020-07-23 12:19:25
 image: 'https://m.media-amazon.com/images/I/31mBbj-7xfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B7WQKGZ-es Ultra Delgado 7000mAh Banco de energía Externa Tamaño...'
 sku: 'B08B7WQKGZ-es'
 tags: [  ]

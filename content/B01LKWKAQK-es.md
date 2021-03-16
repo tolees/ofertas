@@ -5,7 +5,7 @@ date: 2020-04-09 20:45:40
 image: 'https://m.media-amazon.com/images/I/517rMFSH+HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LKWKAQK-es Epson WFDS570W - Escáner de Documentos en Color A4...'
 sku: 'B01LKWKAQK-es'
 tags: [  ]

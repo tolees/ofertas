@@ -5,7 +5,7 @@ date: 2020-03-29 23:00:22
 image: 'https://m.media-amazon.com/images/I/41C4-YUX+VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BMBRG6P-es Wrangler Larston Jeans Indigo Wit 36W / 32L para Hombre'
 sku: 'B07BMBRG6P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 21:33:01
 image: 'https://m.media-amazon.com/images/I/31G4xkud2fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VV95JW-es Bionsan Harina de Trigo Sarraceno - 500 gr'
 sku: 'B082VV95JW-es'
 tags: [  ]

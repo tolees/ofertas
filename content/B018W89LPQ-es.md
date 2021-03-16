@@ -5,7 +5,7 @@ date: 2020-05-18 20:55:26
 image: 'https://m.media-amazon.com/images/I/51MH4tGUT8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018W89LPQ-es Superga 2790-COTROPEW Zapatillas Mujer Azul Marineblau 40...'
 sku: 'B018W89LPQ-es'
 tags: [  ]

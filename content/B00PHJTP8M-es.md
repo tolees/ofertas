@@ -5,7 +5,7 @@ date: 2020-10-01 19:02:06
 image: 'https://m.media-amazon.com/images/I/51Y-a74oxqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PHJTP8M-es Epson Stylus - Kit cartucho de tinta Ya disponible en...'
 sku: 'B00PHJTP8M-es'
 tags: [  ]

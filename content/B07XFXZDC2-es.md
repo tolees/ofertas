@@ -5,7 +5,7 @@ date: 2020-04-17 15:45:34
 image: 'https://m.media-amazon.com/images/I/415kt+Ix7wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFXZDC2-es ERIK - Agenda 2020 semana vista Harry Potter A5'
 sku: 'B07XFXZDC2-es'
 tags: [  ]

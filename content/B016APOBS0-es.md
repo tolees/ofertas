@@ -5,7 +5,7 @@ date: 2020-05-09 13:02:09
 image: 'https://m.media-amazon.com/images/I/31yNd2o74AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016APOBS0-es Twistshake 78012 - Biberón color Blanco'
 sku: 'B016APOBS0-es'
 tags: [  ]

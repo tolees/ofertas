@@ -5,7 +5,7 @@ date: 2020-09-05 05:02:35
 image: 'https://m.media-amazon.com/images/I/41S20GApG1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5MYFR5-es amzdeal Bomba Sumergible 500L/H 6W con Filtro y 2...'
 sku: 'B07M5MYFR5-es'
 tags: [  ]

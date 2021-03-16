@@ -5,7 +5,7 @@ date: 2020-08-29 06:31:04
 image: 'https://m.media-amazon.com/images/I/31GiOURbP3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKCWP19-es INPHIC Ratón inalámbrico Recargable Mouse Deslizante Mouse...'
 sku: 'B07ZKCWP19-es'
 tags: [  ]

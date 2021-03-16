@@ -5,7 +5,7 @@ date: 2020-07-26 18:02:12
 image: 'https://m.media-amazon.com/images/I/514MOcdbUaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZJPHT7-es Bruni Película Protectora para Suunto Ambit3 Run Protector...'
 sku: 'B06ZZJPHT7-es'
 tags: [  ]

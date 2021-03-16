@@ -5,7 +5,7 @@ date: 2020-05-10 20:03:00
 image: 'https://m.media-amazon.com/images/I/31IVG0WG6bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XZVGZ31-es Tous Baby Lámpara de Noche en Forma de Oso 3 watts Blanco...'
 sku: 'B06XZVGZ31-es'
 tags: [  ]

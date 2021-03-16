@@ -5,7 +5,7 @@ date: 2020-01-27 19:40:06
 image: 'https://m.media-amazon.com/images/I/41xo-5m3rzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6MYTBP-es FTVOGUE SOS - Reloj inteligente para niños y niñas con GPS...'
 sku: 'B07H6MYTBP-es'
 tags: [  ]

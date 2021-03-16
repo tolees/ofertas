@@ -5,7 +5,7 @@ date: 2020-01-19 06:02:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nKnL5h1kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDZFYXX-es KFD 45W Adaptador de Corriente Cargador portátil para...'
 sku: 'B07NDZFYXX-es'
 tags: [  ]

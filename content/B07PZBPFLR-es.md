@@ -5,7 +5,7 @@ date: 2020-03-10 18:38:04
 image: 'https://m.media-amazon.com/images/I/41EaNH3ADZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZBPFLR-es KFD - Adaptador de Corriente DC 19 V para Intel NUC...'
 sku: 'B07PZBPFLR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-22 10:27:06
 image: 'https://m.media-amazon.com/images/I/41bcgRzkimL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HZQ58TP-es Timex Reloj Mujer de Digital con Correa en Silicona TW5M23600'
 sku: 'B07HZQ58TP-es'
 tags: [  ]

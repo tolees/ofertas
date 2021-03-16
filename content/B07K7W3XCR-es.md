@@ -5,7 +5,7 @@ date: 2020-02-19 20:58:06
 image: 'https://m.media-amazon.com/images/I/310lJzY1JzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K7W3XCR-es Reebok Rapide Mu Zapatillas de Gimnasia para Hombre...'
 sku: 'B07K7W3XCR-es'
 tags: [  ]

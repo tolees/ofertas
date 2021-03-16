@@ -5,7 +5,7 @@ date: 2020-06-28 15:11:29
 image: 'https://m.media-amazon.com/images/I/515qusTlf3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBZY9JV-es Edge Entertainment- Narcos el Juego de Mesa Color EECMNA01'
 sku: 'B07RBZY9JV-es'
 tags: [  ]

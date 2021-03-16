@@ -5,7 +5,7 @@ date: 2020-01-10 10:18:08
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vkxFKzF%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXLBHNX-es Asics Gel-BND Zapatillas de Balonmano para Hombre Negro...'
 sku: 'B07RXLBHNX-es'
 tags: [  ]

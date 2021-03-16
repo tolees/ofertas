@@ -5,7 +5,7 @@ date: 2020-07-03 13:58:37
 image: 'https://m.media-amazon.com/images/I/4111ok40lUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKHVJ5C-es American Tourister Wavebreaker Barbie - Spinner M color...'
 sku: 'B07TKHVJ5C-es'
 tags: [  ]

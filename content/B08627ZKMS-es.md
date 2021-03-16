@@ -5,7 +5,7 @@ date: 2020-06-10 18:44:42
 image: 'https://m.media-amazon.com/images/I/51q1dypAtML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08627ZKMS-es Wimypet Alfombra Refrescante para Perro Alfombrilla para...'
 sku: 'B08627ZKMS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 13:23:37
 image: 'https://m.media-amazon.com/images/I/316FyAczySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N94SLCW-es BENETTON PINK COL WOM 80V'
 sku: 'B01N94SLCW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-25 11:03:53
 image: 'https://m.media-amazon.com/images/I/41iwL8TFEwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08598FXBN-es Oihxse Funda Samsung Galaxy S6 Ultra Delgado Transparente...'
 sku: 'B08598FXBN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-21 23:57:05
 image: 'https://m.media-amazon.com/images/I/51NfO5uZ01L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFHS667-es Kalokelvin Fregona Giratoria Juego de Fregona Cubo con...'
 sku: 'B07DFHS667-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-07 20:34:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413T1ypcTIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NI1OZY-es Clevamama Capa de Baño Bebé - Toalla Delantal con Capucha...'
 sku: 'B000NI1OZY-es'
 tags: [  ]

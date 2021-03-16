@@ -5,7 +5,7 @@ date: 2020-04-14 00:22:26
 image: 'https://m.media-amazon.com/images/I/41YM6YudQZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083MYRL9Y-es BOROK Display Stand Soporte para Lego 75105 Halcón Milenario'
 sku: 'B083MYRL9Y-es'
 tags: [  ]

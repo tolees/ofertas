@@ -5,7 +5,7 @@ date: 2020-01-08 21:02:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ylLkp1B6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000BMZHVY-es HP Q6471A - Cartucho de tóner'
 sku: 'B000BMZHVY-es'
 tags: [  ]

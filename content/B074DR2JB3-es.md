@@ -5,7 +5,7 @@ date: 2020-03-26 16:38:18
 image: 'https://m.media-amazon.com/images/I/41xGN8QFuVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074DR2JB3-es AUKEY Regleta con 3 Enchufes con el Cable Eléctrico de...'
 sku: 'B074DR2JB3-es'
 tags: [  ]

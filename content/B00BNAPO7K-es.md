@@ -5,7 +5,7 @@ date: 2020-04-09 20:23:36
 image: 'https://m.media-amazon.com/images/I/31sGKjayzTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BNAPO7K-es Lancaster Suractif Comfort Lift Rich Day Cream 50 ml'
 sku: 'B00BNAPO7K-es'
 tags: [  ]

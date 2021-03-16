@@ -5,7 +5,7 @@ date: 2020-07-30 15:32:20
 image: 'https://m.media-amazon.com/images/I/41QDE8Pdo7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RW7XL2T-es AMX Cesta organizadora de Almacenamiento Plegable con Tapa...'
 sku: 'B07RW7XL2T-es'
 tags: [  ]

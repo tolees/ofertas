@@ -5,7 +5,7 @@ date: 2020-07-21 23:08:39
 image: 'https://m.media-amazon.com/images/I/41X6CfQFpEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788XQXKF-es MagiDeal Cubierta Protectora de Teclado de Silicona para...'
 sku: 'B0788XQXKF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:27:02
 image: 'https://m.media-amazon.com/images/I/41pJW4E9PSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKP2YLH-es The Gourmet Collection - Mezcla de especias - Sazonador de...'
 sku: 'B07FKP2YLH-es'
 tags: [  ]

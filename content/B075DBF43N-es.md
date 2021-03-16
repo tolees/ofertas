@@ -5,7 +5,7 @@ date: 2020-08-02 15:21:29
 image: 'https://m.media-amazon.com/images/I/41L-B6V23WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DBF43N-es Epson EcoTank ET-7700 - Impresora color negro'
 sku: 'B075DBF43N-es'
 tags: [  ]

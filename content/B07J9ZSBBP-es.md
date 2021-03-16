@@ -5,7 +5,7 @@ date: 2020-04-06 16:32:20
 image: 'https://m.media-amazon.com/images/I/51MDkw3JSkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9ZSBBP-es World of Warcraft: Battle For Azeroth - Standard | Código...'
 sku: 'B07J9ZSBBP-es'
 tags: [  ]

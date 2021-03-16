@@ -5,7 +5,7 @@ date: 2020-05-20 17:46:53
 image: 'https://m.media-amazon.com/images/I/41wtU3WuPlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1G53ZW-es KUONIIY Tijeras de Cocina para Trabajo Pesado Tijeras de...'
 sku: 'B07K1G53ZW-es'
 tags: [  ]

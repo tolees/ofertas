@@ -5,7 +5,7 @@ date: 2020-03-22 20:38:22
 image: 'https://m.media-amazon.com/images/I/31aS5BCHZRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EX8TDH0-es TBS Phenis Náuticos para Hombre Azul Marine + Tan E8c32 40 EU'
 sku: 'B01EX8TDH0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-16 06:46:44
 image: 'https://m.media-amazon.com/images/I/31nfV9SDLQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSF1DZ8-es Sneaky Steve Cumberland Botas Chelsea para Hombre Braun...'
 sku: 'B07FSF1DZ8-es'
 tags: [  ]

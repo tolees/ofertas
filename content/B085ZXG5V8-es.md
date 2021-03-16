@@ -5,7 +5,7 @@ date: 2020-08-28 15:43:29
 image: 'https://m.media-amazon.com/images/I/41MnXMoKBuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZXG5V8-es WIN.MAX Tirantes Ancho 35 mm X-Forma con 4 Clips Extra...'
 sku: 'B085ZXG5V8-es'
 tags: [  ]

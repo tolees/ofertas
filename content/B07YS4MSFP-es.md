@@ -5,7 +5,7 @@ date: 2020-04-08 11:51:24
 image: 'https://m.media-amazon.com/images/I/41Hmy9ONj8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YS4MSFP-es ZoneYan Gorras Bebé Recién Nacido Sombreros Bebé Invierno...'
 sku: 'B07YS4MSFP-es'
 tags: [  ]

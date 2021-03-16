@@ -5,7 +5,7 @@ date: 2020-03-07 09:03:33
 image: 'https://m.media-amazon.com/images/I/31YP7PXBoML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4P8FS1-es UMI by Amazon Escobilla de Baño con Soporte Juego de...'
 sku: 'B07W4P8FS1-es'
 tags: [  ]

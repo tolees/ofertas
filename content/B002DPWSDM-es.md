@@ -5,7 +5,7 @@ date: 2020-01-28 18:08:42
 image: 'https://m.media-amazon.com/images/I/412t5r87ogL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002DPWSDM-es Reebok CL LTHR 3912 - Zapatillas de cuero nobuck unisex...'
 sku: 'B002DPWSDM-es'
 tags: [  ]

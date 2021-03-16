@@ -5,7 +5,7 @@ date: 2020-07-17 12:43:18
 image: 'https://m.media-amazon.com/images/I/41NVl6shNsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083GQGCXC-es TEENO 10 Pulgadas 4G Tablet con Ranuras para Tarjetas SIM...'
 sku: 'B083GQGCXC-es'
 tags: [  ]

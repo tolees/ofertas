@@ -5,7 +5,7 @@ date: 2020-02-02 09:08:55
 image: 'https://m.media-amazon.com/images/I/31Sjxtxav2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9T1QQ7-es Lacoste Carnaby EVO 419 2 SFA Zapatillas para Mujer Blanco...'
 sku: 'B07L9T1QQ7-es'
 tags: [  ]

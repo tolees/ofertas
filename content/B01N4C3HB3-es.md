@@ -5,7 +5,7 @@ date: 2020-09-06 10:06:11
 image: 'https://m.media-amazon.com/images/I/51Cdc-i-xLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4C3HB3-es Samadoyo taza de té de cristal de borosilicato de alta...'
 sku: 'B01N4C3HB3-es'
 tags: [  ]

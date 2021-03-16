@@ -5,7 +5,7 @@ date: 2020-06-27 16:05:03
 image: 'https://m.media-amazon.com/images/I/41l7llZMqBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PYYYV4-es Reloj - findtime - Para - MSLLP80PROWEISS'
 sku: 'B087PYYYV4-es'
 tags: [  ]

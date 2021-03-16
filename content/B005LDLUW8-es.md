@@ -5,7 +5,7 @@ date: 2020-06-28 17:49:14
 image: 'https://m.media-amazon.com/images/I/31Tu0ITu5hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005LDLUW8-es Crucial CT51264BD160B - Memoria RAM de 4 GB DDR3L 1600...'
 sku: 'B005LDLUW8-es'
 tags: [  ]

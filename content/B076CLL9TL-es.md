@@ -5,7 +5,7 @@ date: 2020-09-19 17:43:45
 image: 'https://m.media-amazon.com/images/I/41f0mlcYY-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CLL9TL-es TECLADO BLUETOOTH UNIVERSAL BLANCO'
 sku: 'B076CLL9TL-es'
 tags: [  ]

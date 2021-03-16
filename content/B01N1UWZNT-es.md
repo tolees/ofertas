@@ -5,7 +5,7 @@ date: 2020-02-24 01:43:31
 image: 'https://m.media-amazon.com/images/I/41aXSs3ahdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1UWZNT-es Gant Classic Leather Belt Cinturón Negro Black 130 Talla...'
 sku: 'B01N1UWZNT-es'
 tags: [  ]

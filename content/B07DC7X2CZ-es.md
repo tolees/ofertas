@@ -5,7 +5,7 @@ date: 2020-08-08 12:40:40
 image: 'https://m.media-amazon.com/images/I/41e89HuyFtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC7X2CZ-es Puma Cell Viper Zapatillas de running Unisex Adulto Blanco...'
 sku: 'B07DC7X2CZ-es'
 tags: [  ]

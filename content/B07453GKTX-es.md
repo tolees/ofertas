@@ -5,7 +5,7 @@ date: 2020-08-22 00:15:23
 image: 'https://m.media-amazon.com/images/I/51PRcf4+xsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07453GKTX-es TY- Beanie Boo s Mandy Poodle caniche Color azul 23 cm...'
 sku: 'B07453GKTX-es'
 tags: [  ]

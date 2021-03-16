@@ -5,7 +5,7 @@ date: 2020-01-10 11:36:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51vI-5pm%2BhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPY9B2M-es 200 palos luminosos equipo para festivales luces festivas...'
 sku: 'B07QPY9B2M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 13:24:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31oZ6fU4R-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FWGHPF-es find. Botín de Ante con Tacón Western Mujer Azul Navy Navy...'
 sku: 'B079FWGHPF-es'
 tags: [  ]

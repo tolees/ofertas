@@ -5,7 +5,7 @@ date: 2020-04-16 17:53:00
 image: 'https://m.media-amazon.com/images/I/51BAxb7BiKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y5G7FFS-es Aceite de Rosa Mosqueta 120ml . Aceite orgánico...'
 sku: 'B00Y5G7FFS-es'
 tags: [  ]

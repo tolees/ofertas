@@ -5,7 +5,7 @@ date: 2020-08-01 12:08:32
 image: 'https://m.media-amazon.com/images/I/41LbmbP1LiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG6GK5P-es PUMJV|#Puma Vista Zapatillas Unisex adulto Gris Gray...'
 sku: 'B07KG6GK5P-es'
 tags: [  ]

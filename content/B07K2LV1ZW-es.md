@@ -5,7 +5,7 @@ date: 2020-03-30 19:56:18
 image: 'https://m.media-amazon.com/images/I/41JdxoRBCXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2LV1ZW-es adidas Continental 80 I Zapatillas de Estar por casa Bebé...'
 sku: 'B07K2LV1ZW-es'
 tags: [  ]

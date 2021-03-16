@@ -5,7 +5,7 @@ date: 2020-07-30 02:46:02
 image: 'https://m.media-amazon.com/images/I/51wapKiaYoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GQZ2MVI-es Reticare 352T-3500-B - Protector de ojos para tablets de...'
 sku: 'B00GQZ2MVI-es'
 tags: [  ]

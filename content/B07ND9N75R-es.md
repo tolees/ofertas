@@ -5,7 +5,7 @@ date: 2020-01-14 11:53:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BCgH3PPKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ND9N75R-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07ND9N75R-es'
 tags: [  ]

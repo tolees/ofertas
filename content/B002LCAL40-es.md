@@ -5,7 +5,7 @@ date: 2020-09-22 14:09:30
 image: 'https://m.media-amazon.com/images/I/31LU89fgV8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LCAL40-es Bosch Professional BT 300 HD Trípode para nivel láser y...'
 sku: 'B002LCAL40-es'
 tags: [  ]

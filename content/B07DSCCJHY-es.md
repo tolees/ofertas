@@ -5,7 +5,7 @@ date: 2020-01-04 16:07:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31a1zIbbZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DSCCJHY-es Reebok Te Woven Tracksuit Chándal Hombre Negro L'
 sku: 'B07DSCCJHY-es'
 tags: [  ]

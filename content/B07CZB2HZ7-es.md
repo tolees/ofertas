@@ -5,7 +5,7 @@ date: 2020-01-20 20:31:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41SGwf1d1hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZB2HZ7-es Asics Gel-Lyte Zapatillas para Mujer Blanco White/White...'
 sku: 'B07CZB2HZ7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 09:57:26
 image: 'https://m.media-amazon.com/images/I/41ED3yV334L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3TVH3R-es Zapatillas de Estar por casa Hombre Mujer Espuma de...'
 sku: 'B07H3TVH3R-es'
 tags: [  ]

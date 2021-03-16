@@ -5,7 +5,7 @@ date: 2020-04-13 16:58:35
 image: 'https://m.media-amazon.com/images/I/51VtMUGtOHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6TZKR5-es Scratch Art LANMOK Rascar Creativas Papel Manualidades con...'
 sku: 'B07W6TZKR5-es'
 tags: [  ]

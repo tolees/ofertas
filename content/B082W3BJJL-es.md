@@ -5,7 +5,7 @@ date: 2020-04-04 21:10:47
 image: 'https://m.media-amazon.com/images/I/41fzkNQmN7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082W3BJJL-es Pistola de Masaje Electrónica Masajeador de Tejido...'
 sku: 'B082W3BJJL-es'
 tags: [  ]

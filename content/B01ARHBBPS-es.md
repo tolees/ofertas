@@ -5,7 +5,7 @@ date: 2020-05-13 10:29:21
 image: 'https://m.media-amazon.com/images/I/31FjNaAtamL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ARHBBPS-es Corsair Vengeance LPX - Módulo de memoria XMP 2.0 de alto...'
 sku: 'B01ARHBBPS-es'
 tags: [  ]

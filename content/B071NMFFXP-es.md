@@ -5,7 +5,7 @@ date: 2020-06-16 15:01:55
 image: 'https://m.media-amazon.com/images/I/611UfYfElZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071NMFFXP-es Lapices de Colores Kasimir 48 lapiz colores profesional...'
 sku: 'B071NMFFXP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-29 17:14:53
 image: 'https://m.media-amazon.com/images/I/41TO4PDTdLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076FHTW27-es Hurley M DRI-FIT Breathe 19 Bermudas Hombre Negro 31'
 sku: 'B076FHTW27-es'
 tags: [  ]

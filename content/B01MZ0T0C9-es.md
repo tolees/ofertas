@@ -5,7 +5,7 @@ date: 2020-09-13 10:45:07
 image: 'https://m.media-amazon.com/images/I/41RNPPGBatL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ0T0C9-es Bourjois Healthy Mix Concealer Corrector Tono 52 Medium...'
 sku: 'B01MZ0T0C9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-08 15:03:00
 image: 'https://m.media-amazon.com/images/I/41fzQiZ5qeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYHQH38-es H&S Nutre & Cuida Champú Anticaspa - 540 ml'
 sku: 'B06ZYHQH38-es'
 tags: [  ]

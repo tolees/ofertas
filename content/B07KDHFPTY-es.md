@@ -5,7 +5,7 @@ date: 2020-03-29 18:02:37
 image: 'https://m.media-amazon.com/images/I/312TenzD5TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KDHFPTY-es Pepe Jeans Stanley Pantalones Verde Dark Khaki Green 785...'
 sku: 'B07KDHFPTY-es'
 tags: [  ]

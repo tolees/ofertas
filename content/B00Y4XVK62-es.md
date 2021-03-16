@@ -5,7 +5,7 @@ date: 2020-09-02 13:43:45
 image: 'https://m.media-amazon.com/images/I/41BqUF8VG9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y4XVK62-es Lacoste PH4012 Polo Para Hombre Gris Argent Chine Large...'
 sku: 'B00Y4XVK62-es'
 tags: [  ]

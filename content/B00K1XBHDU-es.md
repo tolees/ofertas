@@ -5,7 +5,7 @@ date: 2020-09-22 17:29:41
 image: 'https://m.media-amazon.com/images/I/31YHFkaB6UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K1XBHDU-es Hunter Original Tall Classic Botas de Agua para Unisex...'
 sku: 'B00K1XBHDU-es'
 tags: [  ]

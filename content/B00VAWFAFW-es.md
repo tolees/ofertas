@@ -5,7 +5,7 @@ date: 2020-05-19 21:22:52
 image: 'https://m.media-amazon.com/images/I/31BTtfmczbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VAWFAFW-es HP OfficeJet Pro 9020 - Impresora multifunción'
 sku: 'B00VAWFAFW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 05:27:56
 image: 'https://m.media-amazon.com/images/I/41+zwrcQ9vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM1D6RM-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07RM1D6RM-es'
 tags: [  ]

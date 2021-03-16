@@ -5,7 +5,7 @@ date: 2020-03-21 15:03:51
 image: 'https://m.media-amazon.com/images/I/41k2YBFqi3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CTLDY4W-es Imetec Bellissima PC5 2500 Secador de pelo profesional...'
 sku: 'B00CTLDY4W-es'
 tags: [  ]

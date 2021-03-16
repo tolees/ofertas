@@ -5,7 +5,7 @@ date: 2020-09-15 13:01:21
 image: 'https://m.media-amazon.com/images/I/31sa3+aaMpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9SB7DS-es Brocha de Madera de Nylon para Pintura de Acrílico de...'
 sku: 'B07L9SB7DS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-24 17:37:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513lO3BfSRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HF128KW-es UniqueMe [2 Pack] Protector de Pantalla para Huawei Mate...'
 sku: 'B07HF128KW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-13 08:08:43
 image: 'https://m.media-amazon.com/images/I/51VpqIlmt1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRFP3VK-es Amore Funda Carcasa para Huawei Mediapad M6 10.8 2019 con...'
 sku: 'B07SRFP3VK-es'
 tags: [  ]

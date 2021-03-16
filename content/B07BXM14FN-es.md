@@ -5,7 +5,7 @@ date: 2020-08-05 14:43:16
 image: 'https://m.media-amazon.com/images/I/51fO8md334L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXM14FN-es Arthome Papel Pintado Adhesivo 53cm x 565cm Autoadhesivo...'
 sku: 'B07BXM14FN-es'
 tags: [  ]

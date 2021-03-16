@@ -5,7 +5,7 @@ date: 2020-04-12 17:02:12
 image: 'https://m.media-amazon.com/images/I/411J-yFNSyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YS3DS8-es Mono de bebé Promini para bebé de una sola pieza tías...'
 sku: 'B086YS3DS8-es'
 tags: [  ]

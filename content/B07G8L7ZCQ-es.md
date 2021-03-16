@@ -5,7 +5,7 @@ date: 2020-04-27 10:55:21
 image: 'https://m.media-amazon.com/images/I/415qN7W-bVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G8L7ZCQ-es adidas Real 3 Y Kit Conjunto Unisex niños Multicolor...'
 sku: 'B07G8L7ZCQ-es'
 tags: [  ]

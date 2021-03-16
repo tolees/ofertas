@@ -5,7 +5,7 @@ date: 2020-05-09 16:57:48
 image: 'https://m.media-amazon.com/images/I/41sKWFz7+5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LVVF90V-es Apple iPhone 7 - Smartphone de 4.7" 32 GB oro rosa'
 sku: 'B01LVVF90V-es'
 tags: [  ]

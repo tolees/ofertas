@@ -5,7 +5,7 @@ date: 2020-02-13 10:04:39
 image: 'https://m.media-amazon.com/images/I/31Swe+lSJqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084DVJSX8-es Cartera Caballero en Piel Modelo Americano'
 sku: 'B084DVJSX8-es'
 tags: [  ]

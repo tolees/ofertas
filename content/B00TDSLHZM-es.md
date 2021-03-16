@@ -5,7 +5,7 @@ date: 2020-08-11 16:04:50
 image: 'https://m.media-amazon.com/images/I/41VLsIZ-cOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TDSLHZM-es Clarks Taylor Shine Botas Chelsea para Mujer Azul Navy...'
 sku: 'B00TDSLHZM-es'
 tags: [  ]

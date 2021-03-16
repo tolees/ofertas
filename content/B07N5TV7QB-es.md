@@ -5,7 +5,7 @@ date: 2020-08-13 00:16:48
 image: 'https://m.media-amazon.com/images/I/415tPim87pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5TV7QB-es Pop! Vinilo: NSYNC: Chris Kirkpatrick'
 sku: 'B07N5TV7QB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-07 17:13:58
 image: 'https://m.media-amazon.com/images/I/31ubovWWPgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BHPQVH-es BOSS Prime Polo Azul Dark Blue 402 XXX-Large para Hombre'
 sku: 'B078BHPQVH-es'
 tags: [  ]

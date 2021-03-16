@@ -5,7 +5,7 @@ date: 2020-07-03 09:04:13
 image: 'https://m.media-amazon.com/images/I/4140Voj+O9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WT8D5K-es Llave Usb 32 Gb Darth Vader Tlj - Memoria Flash Drive 2.0...'
 sku: 'B078WT8D5K-es'
 tags: [  ]

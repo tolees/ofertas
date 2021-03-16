@@ -5,7 +5,7 @@ date: 2020-07-06 16:29:09
 image: 'https://m.media-amazon.com/images/I/41fA3U6bsHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081BGVKV3-es Asics Gel-Sonoma 5 Running Shoe Mens Graphite Grey/Black...'
 sku: 'B081BGVKV3-es'
 tags: [  ]

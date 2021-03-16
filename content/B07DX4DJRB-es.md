@@ -5,7 +5,7 @@ date: 2020-03-01 21:43:09
 image: 'https://m.media-amazon.com/images/I/41vWNyvWkAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DX4DJRB-es Caterpillar Prepense Botas Chukka para Hombre Marrón Sand...'
 sku: 'B07DX4DJRB-es'
 tags: [  ]

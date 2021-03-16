@@ -5,7 +5,7 @@ date: 2020-05-25 19:10:21
 image: 'https://m.media-amazon.com/images/I/41g+TbLei0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZL23FPC-es Old Spice Wolfthorn Desodorante En Barra Para Hombres 50 ml'
 sku: 'B07ZL23FPC-es'
 tags: [  ]

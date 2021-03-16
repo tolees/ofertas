@@ -5,7 +5,7 @@ date: 2020-08-30 01:21:37
 image: 'https://m.media-amazon.com/images/I/41FVHbk3u1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006FXBUM8-es BRA RÁPIDA Vitesse Olla de 6 litros apta para todo tipo de...'
 sku: 'B006FXBUM8-es'
 tags: [  ]

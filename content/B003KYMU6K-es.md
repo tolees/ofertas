@@ -5,7 +5,7 @@ date: 2020-03-10 05:31:59
 image: 'https://m.media-amazon.com/images/I/41Sj-ztD1YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003KYMU6K-es Kyocera 1T02LZ0NL0 - Tóner TK 170/FS1320/1370 color negro'
 sku: 'B003KYMU6K-es'
 tags: [  ]

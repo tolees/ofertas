@@ -5,7 +5,7 @@ date: 2020-06-01 07:33:36
 image: 'https://m.media-amazon.com/images/I/51pjumMZJQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074BNZPB1-es The Big Bang Theory Temporada 1-10 Blu-Ray [Blu-ray]'
 sku: 'B074BNZPB1-es'
 tags: [  ]

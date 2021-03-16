@@ -5,7 +5,7 @@ date: 2020-02-08 18:57:12
 image: 'https://m.media-amazon.com/images/I/31VmvQ1x-QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKGC41N-es Kipling - City Pack Mini Mochilas Mujer Gris Active Grey Bl'
 sku: 'B07DKGC41N-es'
 tags: [  ]

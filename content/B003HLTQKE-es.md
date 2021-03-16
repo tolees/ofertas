@@ -5,7 +5,7 @@ date: 2020-07-02 14:41:33
 image: 'https://m.media-amazon.com/images/I/41S2SfGXNbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003HLTQKE-es Tabac Tabac Luxury Soap Box Jabón - 150 gr'
 sku: 'B003HLTQKE-es'
 tags: [  ]

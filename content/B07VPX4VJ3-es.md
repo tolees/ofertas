@@ -5,7 +5,7 @@ date: 2020-08-30 16:11:51
 image: 'https://m.media-amazon.com/images/I/41lPADRwF8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPX4VJ3-es bugatti 431846045059 Zapatillas para Mujer Blanco Blanco y...'
 sku: 'B07VPX4VJ3-es'
 tags: [  ]

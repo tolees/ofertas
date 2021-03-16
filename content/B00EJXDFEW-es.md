@@ -5,7 +5,7 @@ date: 2020-04-08 18:41:39
 image: 'https://m.media-amazon.com/images/I/4174wOAr75L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EJXDFEW-es Skagen Reloj de Pulsera SKW2076'
 sku: 'B00EJXDFEW-es'
 tags: [  ]

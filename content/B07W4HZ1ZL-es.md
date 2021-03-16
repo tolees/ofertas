@@ -5,7 +5,7 @@ date: 2020-09-09 13:03:21
 image: 'https://m.media-amazon.com/images/I/31fXHZarTXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4HZ1ZL-es Tommy Hilfiger Hombre Bleecker Th Flex Satin Chino Gmd...'
 sku: 'B07W4HZ1ZL-es'
 tags: [  ]

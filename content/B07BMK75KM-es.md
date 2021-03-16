@@ -5,7 +5,7 @@ date: 2020-01-28 20:25:23
 image: 'https://m.media-amazon.com/images/I/416I-7wQThL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BMK75KM-es Fantasy Flight Games- Soldados de Asalto FFSWL07'
 sku: 'B07BMK75KM-es'
 tags: [  ]

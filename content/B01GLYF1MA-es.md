@@ -5,7 +5,7 @@ date: 2020-09-01 07:45:45
 image: 'https://m.media-amazon.com/images/I/511B+xAeFYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GLYF1MA-es Bellota 7230042S3 Botas piel 42'
 sku: 'B01GLYF1MA-es'
 tags: [  ]

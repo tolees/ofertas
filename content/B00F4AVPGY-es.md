@@ -5,7 +5,7 @@ date: 2020-09-25 12:34:52
 image: 'https://m.media-amazon.com/images/I/31Csnyj5YvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F4AVPGY-es Calvin Klein Carousel-Bikini Sujetador Negro BLACK 001...'
 sku: 'B00F4AVPGY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 02:46:28
 image: 'https://m.media-amazon.com/images/I/413Z8zOV-AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BNRJOOC-es Superga Classic Zapatillas Unisex Adulto gris gris claro...'
 sku: 'B00BNRJOOC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-04 19:27:18
 image: 'https://m.media-amazon.com/images/I/31I7nNcnJoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R4JTQSW-es Roca A5A3025C00 A5A2025C02 Monomando Mezclador Ducha...'
 sku: 'B00R4JTQSW-es'
 tags: [  ]

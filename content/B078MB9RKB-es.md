@@ -5,7 +5,7 @@ date: 2020-01-26 05:24:57
 image: 'https://m.media-amazon.com/images/I/41CzlsYVbZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078MB9RKB-es Asics Noosa Ff 2 Zapatillas de Entrenamiento para Mujer...'
 sku: 'B078MB9RKB-es'
 tags: [  ]

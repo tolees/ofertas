@@ -5,7 +5,7 @@ date: 2020-07-19 08:30:24
 image: 'https://m.media-amazon.com/images/I/51cHeAXZH3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6HJ6JQ-es Puma Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B06X6HJ6JQ-es'
 tags: [  ]

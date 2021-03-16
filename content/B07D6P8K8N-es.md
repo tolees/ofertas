@@ -5,7 +5,7 @@ date: 2020-04-28 08:28:55
 image: 'https://m.media-amazon.com/images/I/51iFdRfgWiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6P8K8N-es LOFIR Calcetines Cortos de Algodón para Hombres Calcetines...'
 sku: 'B07D6P8K8N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 09:43:45
 image: 'https://m.media-amazon.com/images/I/41FIWmkr9GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGVCBZQ-es Funko Vinyl: Bojack Horseman: Princess Carolyn 13993'
 sku: 'B06XGVCBZQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 10:12:45
 image: 'https://m.media-amazon.com/images/I/41ZG3r9cY1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086HG1MPV-es Docooler Pulsera Inteligente Termómetro Medición de la...'
 sku: 'B086HG1MPV-es'
 tags: [  ]

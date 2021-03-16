@@ -5,7 +5,7 @@ date: 2020-02-14 22:04:37
 image: 'https://m.media-amazon.com/images/I/41y+T1E-wqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YC1FRX-es Sylvie Flirty Swimwear Bela Traje de Baño de Una Pieza...'
 sku: 'B077YC1FRX-es'
 tags: [  ]

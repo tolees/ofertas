@@ -5,7 +5,7 @@ date: 2020-05-14 07:16:45
 image: 'https://m.media-amazon.com/images/I/51r6wQ7MtWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GHOKVC0-es Concordia'
 sku: 'B00GHOKVC0-es'
 tags: [  ]

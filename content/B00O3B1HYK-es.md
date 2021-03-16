@@ -5,7 +5,7 @@ date: 2020-08-14 16:08:22
 image: 'https://m.media-amazon.com/images/I/41dO1uHbFiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O3B1HYK-es Arppe 2090010101 Flexi New Classic Cordon 5 m S Rojo'
 sku: 'B00O3B1HYK-es'
 tags: [  ]

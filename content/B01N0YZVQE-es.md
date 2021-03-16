@@ -5,7 +5,7 @@ date: 2020-09-22 16:21:44
 image: 'https://m.media-amazon.com/images/I/41JWDxMXKrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0YZVQE-es Sandisk SDCZ800-128G-G46 Memoria Flash Usb Sandisk Extreme...'
 sku: 'B01N0YZVQE-es'
 tags: [  ]

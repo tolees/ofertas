@@ -5,7 +5,7 @@ date: 2020-04-17 11:25:05
 image: 'https://m.media-amazon.com/images/I/41FmN5kMUvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RN9HBN-es Garnier Skin Active Gel Limpiador con Hoja de Té Verde -...'
 sku: 'B071RN9HBN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-11 19:41:58
 image: 'https://m.media-amazon.com/images/I/412E19aLJSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CTAMI0I-es 226ERS Recovery Drink Recuperador a base de Proteína...'
 sku: 'B01CTAMI0I-es'
 tags: [  ]

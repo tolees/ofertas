@@ -5,7 +5,7 @@ date: 2020-01-17 08:55:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej3dKECFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZMGLYL-es Under Armour Sc30 Sleeveless tee Tanque Niños Negro...'
 sku: 'B07CZMGLYL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 17:44:42
 image: 'https://m.media-amazon.com/images/I/41KHZ8clj6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FKVTSE2-es Paquete de 4 bloqueos de bloqueo de cadena de bloqueo de...'
 sku: 'B01FKVTSE2-es'
 tags: [  ]

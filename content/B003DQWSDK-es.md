@@ -5,7 +5,7 @@ date: 2020-04-24 19:24:39
 image: 'https://m.media-amazon.com/images/I/31YHxJlSh3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003DQWSDK-es Gembird 1.8m USB 2.0 A/Micro-B M - Cable USB 2.0 a Micro...'
 sku: 'B003DQWSDK-es'
 tags: [  ]

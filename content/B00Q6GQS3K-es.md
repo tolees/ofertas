@@ -5,7 +5,7 @@ date: 2020-01-01 21:11:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51y15H8vRDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q6GQS3K-es KEEP OUT KEP-F80S - Teclado Gaming retroiluminado Color Negro'
 sku: 'B00Q6GQS3K-es'
 tags: [  ]

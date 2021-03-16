@@ -5,7 +5,7 @@ date: 2020-04-08 22:05:27
 image: 'https://m.media-amazon.com/images/I/51rPjkPYOkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077L5X1WQ-es Curren hombres reloj de cuarzo analógico reloj de pulsera...'
 sku: 'B077L5X1WQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-13 20:16:36
 image: 'https://m.media-amazon.com/images/I/41jLzySOs-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRMMT1B-es New Balance 373 Zapatillas para Mujer Gris Grey Grey 37.5 EU'
 sku: 'B07KRMMT1B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-28 06:49:01
 image: 'https://m.media-amazon.com/images/I/31P0fAZS4sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BEC6S8-es Calvin Klein Hombre - Pack de 3 bóxers de tiro medio -...'
 sku: 'B001BEC6S8-es'
 tags: [  ]

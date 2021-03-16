@@ -5,7 +5,7 @@ date: 2020-04-05 15:01:51
 image: 'https://m.media-amazon.com/images/I/31AJtmN1W3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F8RLJ4L-es Samsung Led View - Funda para Galaxy Note 9 color lavanda...'
 sku: 'B07F8RLJ4L-es'
 tags: [  ]

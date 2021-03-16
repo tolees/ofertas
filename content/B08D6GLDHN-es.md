@@ -5,7 +5,7 @@ date: 2020-09-01 04:01:08
 image: 'https://m.media-amazon.com/images/I/41cQxYpjtuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6GLDHN-es Family Game classic Mini Consola - con 621 Videojuego de...'
 sku: 'B08D6GLDHN-es'
 tags: [  ]

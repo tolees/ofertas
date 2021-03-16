@@ -5,7 +5,7 @@ date: 2020-02-04 23:15:55
 image: 'https://m.media-amazon.com/images/I/41LyzoZ5ojL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JQN69TS-es Etnies Scout Zapatillas de Skateboard para Hombre Azul...'
 sku: 'B00JQN69TS-es'
 tags: [  ]

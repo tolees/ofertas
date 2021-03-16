@@ -5,7 +5,7 @@ date: 2020-08-06 20:03:23
 image: 'https://m.media-amazon.com/images/I/31YV23nKlIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001LF1KGG-es Grohe Minta - Grifo de fregadero 1/2" caño en L cromo Ref....'
 sku: 'B001LF1KGG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-27 17:41:33
 image: 'https://m.media-amazon.com/images/I/419Mxo6R3NL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SGJ49YG-es Jeffergarden Mosquitero electrónico Potencia de batería...'
 sku: 'B07SGJ49YG-es'
 tags: [  ]

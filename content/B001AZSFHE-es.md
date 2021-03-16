@@ -5,7 +5,7 @@ date: 2020-09-13 09:06:42
 image: 'https://m.media-amazon.com/images/I/41G24Fc8k+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001AZSFHE-es Solgar D-Ribosa en Polvo 150 g'
 sku: 'B001AZSFHE-es'
 tags: [  ]

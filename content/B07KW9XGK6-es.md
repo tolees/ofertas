@@ -5,7 +5,7 @@ date: 2020-02-16 19:52:19
 image: 'https://m.media-amazon.com/images/I/4189qO0CSQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KW9XGK6-es Salomon X Ultra 3 Prime GTX W Zapatillas de Senderismo...'
 sku: 'B07KW9XGK6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-24 10:17:22
 image: 'https://m.media-amazon.com/images/I/511-rZLKxOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EICDZIK-es Ushuaia Polynésie Aceite de ducha con flor monoi y tiare...'
 sku: 'B00EICDZIK-es'
 tags: [  ]

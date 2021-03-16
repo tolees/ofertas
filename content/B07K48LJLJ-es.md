@@ -5,7 +5,7 @@ date: 2020-07-02 05:03:55
 image: 'https://m.media-amazon.com/images/I/3182ZmjBTtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K48LJLJ-es Reloj Viceroy Mujer 42358-06 Colección Antonio Banderas'
 sku: 'B07K48LJLJ-es'
 tags: [  ]

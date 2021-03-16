@@ -5,7 +5,7 @@ date: 2020-09-06 12:45:41
 image: 'https://m.media-amazon.com/images/I/31aWbqPjN7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FYVXXZ-es Samsung Protective Standing Cover - Funda para Galaxy S9+...'
 sku: 'B079FYVXXZ-es'
 tags: [  ]

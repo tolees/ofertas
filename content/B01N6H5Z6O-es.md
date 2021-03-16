@@ -5,7 +5,7 @@ date: 2020-01-12 02:48:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31hvSoBC8fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6H5Z6O-es Maybelline New York Super Stay 24H Barra de Labios 353 - 1...'
 sku: 'B01N6H5Z6O-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-28 13:01:33
 image: 'https://m.media-amazon.com/images/I/31aVwcaoRgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXND6YY-es Under Armour Elevated Golf Visera Mujer Blanco OSFA'
 sku: 'B07YXND6YY-es'
 tags: [  ]

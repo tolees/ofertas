@@ -5,7 +5,7 @@ date: 2020-01-04 22:33:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51v9e-b%2BDjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVMWXG7-es BRIKSMAX Kit de Iluminación Led para Lego Super Heroes...'
 sku: 'B07TVMWXG7-es'
 tags: [  ]

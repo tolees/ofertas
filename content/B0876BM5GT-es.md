@@ -5,7 +5,7 @@ date: 2020-07-03 09:34:30
 image: 'https://m.media-amazon.com/images/I/31t2kNY+5wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876BM5GT-es Mampara de Protección para mostradores...'
 sku: 'B0876BM5GT-es'
 tags: [  ]

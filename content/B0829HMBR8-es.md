@@ -5,7 +5,7 @@ date: 2020-07-31 08:32:07
 image: 'https://m.media-amazon.com/images/I/31ddnA9gWhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829HMBR8-es adidas Tan Training Pants Pantalon Hombre DGH Solid Grey M'
 sku: 'B0829HMBR8-es'
 tags: [  ]

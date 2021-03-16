@@ -5,7 +5,7 @@ date: 2020-09-30 17:16:05
 image: 'https://m.media-amazon.com/images/I/41WdC8gbN7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894T4TKW-es Enotepad Gráfico Electrónico Portátil eWriter Digital...'
 sku: 'B0894T4TKW-es'
 tags: [  ]

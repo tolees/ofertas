@@ -5,7 +5,7 @@ date: 2020-01-21 14:21:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lFPznDj7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMY7WFT-es Lepfun A7000 1 par Rodillera con Soporte De Baloncesto...'
 sku: 'B07MMY7WFT-es'
 tags: [  ]

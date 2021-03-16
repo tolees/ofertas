@@ -5,7 +5,7 @@ date: 2020-03-09 13:46:36
 image: 'https://m.media-amazon.com/images/I/51jLKmOK71L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083GJJ6LX-es scottpown Reproductor de música de Tarjeta de Altavoz...'
 sku: 'B083GJJ6LX-es'
 tags: [  ]

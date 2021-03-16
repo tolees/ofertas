@@ -5,7 +5,7 @@ date: 2020-05-27 11:02:21
 image: 'https://m.media-amazon.com/images/I/516xvPgnk7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJVKKPW-es HOTLIKE Bolsa de Pañales 3PCS Bebé Reutilizable...'
 sku: 'B07WJVKKPW-es'
 tags: [  ]

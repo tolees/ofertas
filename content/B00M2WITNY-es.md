@@ -5,7 +5,7 @@ date: 2020-05-21 01:46:59
 image: 'https://m.media-amazon.com/images/I/41ZzdBtIiDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M2WITNY-es Helly Hansen THE FORESTER Botas de nieve para Hombre Negro...'
 sku: 'B00M2WITNY-es'
 tags: [  ]

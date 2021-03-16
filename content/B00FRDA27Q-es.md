@@ -5,7 +5,7 @@ date: 2020-03-03 13:17:16
 image: 'https://m.media-amazon.com/images/I/31gM8gcnyRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FRDA27Q-es Microsoft – Bluetooth Mobile Mouse 3600 Inalámbrico Azul'
 sku: 'B00FRDA27Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-06 14:10:51
 image: 'https://m.media-amazon.com/images/I/41tCpWHon3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB4Q2VS-es The North Face Edgewood Botas Chukka para Hombre Negro Tnf...'
 sku: 'B07BB4Q2VS-es'
 tags: [  ]

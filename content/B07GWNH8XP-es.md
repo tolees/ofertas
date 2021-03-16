@@ -5,7 +5,7 @@ date: 2020-08-25 08:04:04
 image: 'https://m.media-amazon.com/images/I/41y7zmw8FwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWNH8XP-es SUPORE Vivosmart HR Activity Tracker Correa de Reloj de...'
 sku: 'B07GWNH8XP-es'
 tags: [  ]

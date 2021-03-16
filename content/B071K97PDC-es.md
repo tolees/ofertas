@@ -5,7 +5,7 @@ date: 2020-06-10 03:40:15
 image: 'https://m.media-amazon.com/images/I/41UHkUrpDFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071K97PDC-es Reebok Royal Techque T Zapatillas para Hombre Negro Black...'
 sku: 'B071K97PDC-es'
 tags: [  ]

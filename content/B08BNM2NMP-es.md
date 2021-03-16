@@ -5,7 +5,7 @@ date: 2020-08-24 22:25:24
 image: 'https://m.media-amazon.com/images/I/41xw88T8jML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNM2NMP-es Linkevp Lima de pie eléctrica para eliminar callos y...'
 sku: 'B08BNM2NMP-es'
 tags: [  ]

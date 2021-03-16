@@ -5,7 +5,7 @@ date: 2020-03-10 04:50:47
 image: 'https://m.media-amazon.com/images/I/31F-QIMw24L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PIF4FLW-es Schwarzkopf Professional BC Moisture Kick Shampoo Champú -...'
 sku: 'B00PIF4FLW-es'
 tags: [  ]

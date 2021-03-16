@@ -5,7 +5,7 @@ date: 2020-02-16 16:14:17
 image: 'https://m.media-amazon.com/images/I/41CK11ASVrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZ3HZTY-es Kipling - Fundamental Nc Mochilas Mujer Azul Lively Navy'
 sku: 'B07FZ3HZTY-es'
 tags: [  ]

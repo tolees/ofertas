@@ -5,7 +5,7 @@ date: 2020-03-31 07:02:14
 image: 'https://m.media-amazon.com/images/I/41MKyulN4EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9V6LP5-es Ritiriko Unisex Zapatillas de Deporte para Hombre -...'
 sku: 'B07Z9V6LP5-es'
 tags: [  ]

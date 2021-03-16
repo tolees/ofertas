@@ -5,7 +5,7 @@ date: 2020-07-07 14:04:49
 image: 'https://m.media-amazon.com/images/I/41mHlsQQJnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B8JBBB4-es Portátil Creativo Único Cobre Clave Forma USB2.0 Interfaz...'
 sku: 'B08B8JBBB4-es'
 tags: [  ]

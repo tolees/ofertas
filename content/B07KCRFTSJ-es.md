@@ -5,7 +5,7 @@ date: 2020-05-27 17:27:49
 image: 'https://m.media-amazon.com/images/I/31HSRbisaqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCRFTSJ-es adidas T19 M Polo Shirt Hombre Team Navy Blue/White L'
 sku: 'B07KCRFTSJ-es'
 tags: [  ]

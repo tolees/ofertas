@@ -5,7 +5,7 @@ date: 2020-05-27 18:13:34
 image: 'https://m.media-amazon.com/images/I/41mbPxqZv7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IH3CD60-es Nike Court Borough Mid Zapatillas de Baloncesto para Niños...'
 sku: 'B01IH3CD60-es'
 tags: [  ]

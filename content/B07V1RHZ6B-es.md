@@ -5,7 +5,7 @@ date: 2020-06-06 12:47:15
 image: 'https://m.media-amazon.com/images/I/51Az5C43hzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1RHZ6B-es Regalos Originales Hombre Muñequera magnética - Regalo...'
 sku: 'B07V1RHZ6B-es'
 tags: [  ]

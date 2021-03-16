@@ -5,7 +5,7 @@ date: 2020-03-25 11:20:02
 image: 'https://m.media-amazon.com/images/I/51oNeVLRuYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKP79B6-es Amy&Benton Coches de Juguete Surtido 4PCS Figuras Coches...'
 sku: 'B07JKP79B6-es'
 tags: [  ]

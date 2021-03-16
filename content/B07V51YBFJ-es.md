@@ -5,7 +5,7 @@ date: 2020-05-15 09:10:33
 image: 'https://m.media-amazon.com/images/I/41KKUzGl35L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V51YBFJ-es Libertroy DC-DC Step Down Converter 5-36V to 1.25-32V 5A...'
 sku: 'B07V51YBFJ-es'
 tags: [  ]

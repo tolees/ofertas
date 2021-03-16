@@ -5,7 +5,7 @@ date: 2020-04-07 19:04:24
 image: 'https://m.media-amazon.com/images/I/31hLauoUxYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLQNC8G-es FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon...'
 sku: 'B07SLQNC8G-es'
 tags: [  ]

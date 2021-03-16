@@ -5,7 +5,7 @@ date: 2020-08-17 08:46:24
 image: 'https://m.media-amazon.com/images/I/51jHJHZ8bUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004FVA5ZA-es Emsa Clip & Close Conservador Hermético de Plástico...'
 sku: 'B004FVA5ZA-es'
 tags: [  ]

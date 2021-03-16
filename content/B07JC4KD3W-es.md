@@ -5,7 +5,7 @@ date: 2020-05-28 09:53:37
 image: 'https://m.media-amazon.com/images/I/41oXreGLxFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JC4KD3W-es Pioneer DJ HDJ-X5BT-R Auriculares Bluetooth para DJ Rojo'
 sku: 'B07JC4KD3W-es'
 tags: [  ]

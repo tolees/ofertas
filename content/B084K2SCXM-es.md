@@ -5,7 +5,7 @@ date: 2020-07-08 22:34:22
 image: 'https://m.media-amazon.com/images/I/41VmKv4NI4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084K2SCXM-es GARNIER Fructis Hair Food Champú de Papaya Reparadora para...'
 sku: 'B084K2SCXM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 01:10:16
 image: 'https://m.media-amazon.com/images/I/31ZTAeyfKXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQZWRX9-es Lacoste Carnaby EVO 120 6 Us SFA Zapatillas para Mujer...'
 sku: 'B07SQZWRX9-es'
 tags: [  ]

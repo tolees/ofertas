@@ -5,7 +5,7 @@ date: 2020-07-23 15:07:42
 image: 'https://m.media-amazon.com/images/I/515XdEooSXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFG4KTM-es Intex 57266EU - Unicornio Hinchable Gigante'
 sku: 'B07LFG4KTM-es'
 tags: [  ]

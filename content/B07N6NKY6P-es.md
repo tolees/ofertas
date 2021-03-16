@@ -5,7 +5,7 @@ date: 2020-04-06 14:44:30
 image: 'https://m.media-amazon.com/images/I/318CQjwAmPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6NKY6P-es Tommy Hilfiger Legging Tanga Azul Blue 416 Talla única...'
 sku: 'B07N6NKY6P-es'
 tags: [  ]

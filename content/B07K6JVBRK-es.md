@@ -5,7 +5,7 @@ date: 2020-04-16 08:35:15
 image: 'https://m.media-amazon.com/images/I/31o-2G1QxlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6JVBRK-es Moliies BENETECH GM1311 Digital Food Thermometer Küche...'
 sku: 'B07K6JVBRK-es'
 tags: [  ]

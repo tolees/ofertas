@@ -5,7 +5,7 @@ date: 2020-03-06 16:02:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41OLowHh6GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785VP7RM-es Louviva Bolas da Masaje Set de 6 con Bolsa de Terciopelo'
 sku: 'B0785VP7RM-es'
 tags: [  ]

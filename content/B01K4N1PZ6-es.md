@@ -5,7 +5,7 @@ date: 2020-03-20 19:15:35
 image: 'https://m.media-amazon.com/images/I/41RxVOrcXCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K4N1PZ6-es Sennheiser HD 4.20s - Microauriculares de Diadema Cerrados...'
 sku: 'B01K4N1PZ6-es'
 tags: [  ]

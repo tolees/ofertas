@@ -5,7 +5,7 @@ date: 2020-09-18 07:06:27
 image: 'https://m.media-amazon.com/images/I/41Q6+dJqOFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EKB0H1W-es Canon NB-6LH - Batería para cámara de Fotos 3.7 V 1060 mAh...'
 sku: 'B00EKB0H1W-es'
 tags: [  ]

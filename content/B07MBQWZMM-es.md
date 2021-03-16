@@ -5,7 +5,7 @@ date: 2020-01-17 19:55:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31gAXLDSzbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBQWZMM-es Kickers Bromer Botas Clasicas para Hombre Marrón Marron...'
 sku: 'B07MBQWZMM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 14:32:45
 image: 'https://m.media-amazon.com/images/I/313sPzsk-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V54Z3CM-es Amarillo 25 x 22 x 2 mm L x W xH 2 Piezas Adaptador Micro...'
 sku: 'B07V54Z3CM-es'
 tags: [  ]

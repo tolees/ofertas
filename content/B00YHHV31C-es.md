@@ -5,7 +5,7 @@ date: 2020-09-27 15:07:38
 image: 'https://m.media-amazon.com/images/I/31qEV4tX8ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YHHV31C-es Oralteck - Esterilizador por UV y Ozono. UV Sanitizer....'
 sku: 'B00YHHV31C-es'
 tags: [  ]

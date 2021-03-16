@@ -5,7 +5,7 @@ date: 2020-02-11 17:12:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41G7UWl5uoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QF8HLF6-es cortapelos nariz y orejas recargable 4 en 1 Breett...'
 sku: 'B07QF8HLF6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-29 11:59:02
 image: 'https://m.media-amazon.com/images/I/51xJsme0fbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NB6SQD-es FirstE Altavoz Portátil Inalámbrico Bluetooth con Luz...'
 sku: 'B089NB6SQD-es'
 tags: [  ]

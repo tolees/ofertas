@@ -5,7 +5,7 @@ date: 2020-01-14 09:10:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41u-fhBTKhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N27XY8F-es Lacoste Europa 417 Zapatillas para Hombre Negro Black...'
 sku: 'B01N27XY8F-es'
 tags: [  ]

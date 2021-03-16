@@ -5,7 +5,7 @@ date: 2020-04-20 09:01:57
 image: 'https://m.media-amazon.com/images/I/31gK87LsmUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGLW4Q5-es BOSS Authentic Shorts Pantalones Cortos Azul Bright Blue...'
 sku: 'B07KGLW4Q5-es'
 tags: [  ]

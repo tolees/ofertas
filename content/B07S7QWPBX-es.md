@@ -5,7 +5,7 @@ date: 2020-06-26 10:44:47
 image: 'https://m.media-amazon.com/images/I/31FvoOiZm8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QWPBX-es PUMA Carina L JR Zapatillas para Niñas Blanco White/Gulf...'
 sku: 'B07S7QWPBX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-12 16:02:42
 image: 'https://m.media-amazon.com/images/I/51wGOi+mkOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BT4NT7Y-es Mr. Wonderful Neceser para Cables Imprescindibles para...'
 sku: 'B07BT4NT7Y-es'
 tags: [  ]

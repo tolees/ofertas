@@ -5,7 +5,7 @@ date: 2020-04-16 08:32:35
 image: 'https://m.media-amazon.com/images/I/51ypAW5k+FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081KRXDK2-es ZXL Adornos Modernes Cerámica Escultura Einfaches...'
 sku: 'B081KRXDK2-es'
 tags: [  ]

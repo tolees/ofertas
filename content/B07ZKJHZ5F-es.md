@@ -5,7 +5,7 @@ date: 2020-07-10 12:02:42
 image: 'https://m.media-amazon.com/images/I/51c7omNzcZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZKJHZ5F-es Hollylife Bandeja Extraible de Papel para Oficina...'
 sku: 'B07ZKJHZ5F-es'
 tags: [  ]

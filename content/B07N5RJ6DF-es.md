@@ -5,7 +5,7 @@ date: 2020-02-04 07:09:20
 image: 'https://m.media-amazon.com/images/I/31K13af1EoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5RJ6DF-es Calvin Klein ENFOLD TOP HANDLEMujerBolsos bandoleraRosa...'
 sku: 'B07N5RJ6DF-es'
 tags: [  ]

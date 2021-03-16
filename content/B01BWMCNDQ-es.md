@@ -5,7 +5,7 @@ date: 2020-02-06 11:31:54
 image: 'https://m.media-amazon.com/images/I/41aaahWFjaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BWMCNDQ-es Llave USB 16 GB Kylo Ren - Memoria Flash Drive 2.0...'
 sku: 'B01BWMCNDQ-es'
 tags: [  ]

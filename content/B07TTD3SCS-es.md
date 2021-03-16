@@ -5,7 +5,7 @@ date: 2020-08-17 14:53:06
 image: 'https://m.media-amazon.com/images/I/41UMtsvxCZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTD3SCS-es Funko- Pop Ride Racer-Speed w/Mach 5 Collectible Toy...'
 sku: 'B07TTD3SCS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-20 12:15:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31JF%2BA9u8mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFL7SAI-es Under Armour Heatgear - Pantalones Cortos de compresión...'
 sku: 'B01FFL7SAI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-12 12:32:26
 image: 'https://m.media-amazon.com/images/I/41Uv0GhAsKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L4CB9X0-es PetSafe PAL19-14656 Caja de Arena autolimpiante para Gatos...'
 sku: 'B00L4CB9X0-es'
 tags: [  ]

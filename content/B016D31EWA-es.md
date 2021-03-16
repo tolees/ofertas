@@ -5,7 +5,7 @@ date: 2020-02-27 08:29:31
 image: 'https://m.media-amazon.com/images/I/41NVtrT5RGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016D31EWA-es De Longhi DEX16F - Deshumidificador silencioso función...'
 sku: 'B016D31EWA-es'
 tags: [  ]

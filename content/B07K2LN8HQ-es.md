@@ -5,7 +5,7 @@ date: 2020-02-11 21:58:41
 image: 'https://m.media-amazon.com/images/I/41u45igmXSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2LN8HQ-es Under Armour Pre School Assert 8 Ufm Syn Ac Zapatillas de...'
 sku: 'B07K2LN8HQ-es'
 tags: [  ]

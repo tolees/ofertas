@@ -5,7 +5,7 @@ date: 2020-01-23 23:07:26
 image: 'https://m.media-amazon.com/images/I/412krqpE6iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9DGVL1-es Timex Reloj de Pulsera TW2R70400'
 sku: 'B07N9DGVL1-es'
 tags: [  ]

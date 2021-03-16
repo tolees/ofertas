@@ -5,7 +5,7 @@ date: 2020-05-06 16:33:41
 image: 'https://m.media-amazon.com/images/I/41680jtTvIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRSKT5S-es Brooks Mach 18 Zapatillas de Cross para Hombre...'
 sku: 'B07DRSKT5S-es'
 tags: [  ]

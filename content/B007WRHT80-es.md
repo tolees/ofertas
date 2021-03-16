@@ -5,7 +5,7 @@ date: 2020-07-18 13:38:51
 image: 'https://m.media-amazon.com/images/I/61jIyD6rutL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007WRHT80-es Gre KIT730W Pacific - Piscina Elevada Ovalada Aspecto...'
 sku: 'B007WRHT80-es'
 tags: [  ]

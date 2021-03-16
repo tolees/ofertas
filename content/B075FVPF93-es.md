@@ -5,7 +5,7 @@ date: 2020-02-18 17:18:27
 image: 'https://m.media-amazon.com/images/I/31i7gw9e0jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FVPF93-es D-Link DIR-878 – Router WiFi Gaming AC1900 MU-MIMO Dual-...'
 sku: 'B075FVPF93-es'
 tags: [  ]

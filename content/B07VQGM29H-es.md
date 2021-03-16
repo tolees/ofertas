@@ -5,7 +5,7 @@ date: 2020-04-01 06:59:20
 image: 'https://m.media-amazon.com/images/I/41hIBTlrusL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQGM29H-es Nike Pico 5 TDV Zapatillas Unisex Niños Gris Smoke...'
 sku: 'B07VQGM29H-es'
 tags: [  ]

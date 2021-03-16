@@ -5,7 +5,7 @@ date: 2020-05-18 10:32:56
 image: 'https://m.media-amazon.com/images/I/41eLftgcpQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087WZPK6X-es Pretty See 100Pcs Tamaño de Cara Libre desechable Azul 3-PLY'
 sku: 'B087WZPK6X-es'
 tags: [  ]

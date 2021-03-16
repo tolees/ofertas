@@ -5,7 +5,7 @@ date: 2020-08-22 19:38:05
 image: 'https://m.media-amazon.com/images/I/31YpugCgaZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVVFMVR-es Skechers Equalizer 4.0 Zapatillas para Hombre Azul Black...'
 sku: 'B07TVVFMVR-es'
 tags: [  ]

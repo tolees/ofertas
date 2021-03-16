@@ -5,7 +5,7 @@ date: 2020-03-30 22:25:36
 image: 'https://m.media-amazon.com/images/I/41kq0a4Yz2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6QX2W9-es Hackett London Archive Ujk Clr Polo Gris Grey Marl 933...'
 sku: 'B07J6QX2W9-es'
 tags: [  ]

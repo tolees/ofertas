@@ -5,7 +5,7 @@ date: 2020-08-26 08:54:24
 image: 'https://m.media-amazon.com/images/I/31bgZhG3xZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4G25BF-es Levi s Tijuana Zapatillas para Mujer Blanco Sneakers 51 39 EU'
 sku: 'B07N4G25BF-es'
 tags: [  ]

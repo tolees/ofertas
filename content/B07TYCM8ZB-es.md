@@ -5,7 +5,7 @@ date: 2020-08-09 20:28:41
 image: 'https://m.media-amazon.com/images/I/3199LJKFZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYCM8ZB-es Lee Plain Crew Suéter Azul Midnight Navy Ma Small para Hombre'
 sku: 'B07TYCM8ZB-es'
 tags: [  ]

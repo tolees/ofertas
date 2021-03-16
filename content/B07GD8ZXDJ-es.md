@@ -5,7 +5,7 @@ date: 2020-09-24 18:48:08
 image: 'https://m.media-amazon.com/images/I/411UTR-UdpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GD8ZXDJ-es Emporio Armani Smartwatch ART5007'
 sku: 'B07GD8ZXDJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-05 21:13:57
 image: 'https://m.media-amazon.com/images/I/41Shq93Op0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2YN89Z-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07Q2YN89Z-es'
 tags: [  ]

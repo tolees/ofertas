@@ -5,7 +5,7 @@ date: 2020-02-20 12:28:56
 image: 'https://m.media-amazon.com/images/I/41JallmymZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004JNXLX2-es TBS Globek Mocasines para Hombre Negro 45 EU'
 sku: 'B004JNXLX2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-27 11:46:50
 image: 'https://m.media-amazon.com/images/I/41FsVafdyML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC7HLGW-es Cooko Decantador de Vino Decantador de Aireación de Vino...'
 sku: 'B07SC7HLGW-es'
 tags: [  ]

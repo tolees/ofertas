@@ -5,7 +5,7 @@ date: 2020-07-12 23:19:47
 image: 'https://m.media-amazon.com/images/I/41GIVL1xtPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DHJL9B0-es TRIXES Protector elástico para dedos apoyo artritis ayuda...'
 sku: 'B00DHJL9B0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-20 18:02:01
 image: 'https://m.media-amazon.com/images/I/41KBuJeMI-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVYJHF8-es 16 Tipos 20pc 75 Mm Lijar Discos De Papel De Lija Gancho Y...'
 sku: 'B07TVYJHF8-es'
 tags: [  ]

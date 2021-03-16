@@ -5,7 +5,7 @@ date: 2020-07-24 07:15:31
 image: 'https://m.media-amazon.com/images/I/31YdSZhgBZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJM1BJM-es IKOHS Mambo VG301 - Aspiradora Vertical sin Cable 3 en 1...'
 sku: 'B07NJM1BJM-es'
 tags: [  ]

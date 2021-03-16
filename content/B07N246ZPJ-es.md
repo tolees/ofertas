@@ -5,7 +5,7 @@ date: 2020-10-07 06:50:22
 image: 'https://m.media-amazon.com/images/I/31a0UH5uUTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N246ZPJ-es Sennheiser CX 300S - Auriculares intraurales con control...'
 sku: 'B07N246ZPJ-es'
 tags: [  ]

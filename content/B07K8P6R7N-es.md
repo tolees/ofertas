@@ -5,7 +5,7 @@ date: 2020-04-14 00:11:10
 image: 'https://m.media-amazon.com/images/I/51IGIjk-8PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8P6R7N-es B Blesiya Juguete de Peonza Ráfaga Gyro Burst de Lucha...'
 sku: 'B07K8P6R7N-es'
 tags: [  ]

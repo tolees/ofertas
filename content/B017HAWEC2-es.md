@@ -5,7 +5,7 @@ date: 2020-04-20 06:01:49
 image: 'https://m.media-amazon.com/images/I/31fOjhQ1XIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017HAWEC2-es Fiskars Cortador de queso curado Acero inoxidable/Plástico...'
 sku: 'B017HAWEC2-es'
 tags: [  ]

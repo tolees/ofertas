@@ -5,7 +5,7 @@ date: 2020-06-28 12:03:24
 image: 'https://m.media-amazon.com/images/I/31RXZrWHVKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0888CZCTB-es GONGFF Archivadores Armario Armario Cosmético Caja de...'
 sku: 'B0888CZCTB-es'
 tags: [  ]

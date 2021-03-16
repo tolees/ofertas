@@ -5,7 +5,7 @@ date: 2020-01-13 10:33:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419G36YnBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GCW0LFO-es Lalique Lalique Encre Noire Sport Etv 50Ml - 1 Unidad'
 sku: 'B00GCW0LFO-es'
 tags: [  ]

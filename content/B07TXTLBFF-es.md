@@ -5,7 +5,7 @@ date: 2020-01-16 17:36:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41CTkUF-LpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXTLBFF-es Kalolary 2 en 1 Diseños UV PolyGel Poly Gel Nail Brush...'
 sku: 'B07TXTLBFF-es'
 tags: [  ]

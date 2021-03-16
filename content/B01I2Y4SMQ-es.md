@@ -5,7 +5,7 @@ date: 2020-08-07 16:34:08
 image: 'https://m.media-amazon.com/images/I/516NZqSD2-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I2Y4SMQ-es Taky Chocolate Bandas De Cera Corporales Depilatorias 12 +...'
 sku: 'B01I2Y4SMQ-es'
 tags: [  ]

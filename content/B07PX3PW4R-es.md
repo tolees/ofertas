@@ -5,7 +5,7 @@ date: 2020-08-07 13:07:32
 image: 'https://m.media-amazon.com/images/I/41SZfQ7XY8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PX3PW4R-es Funko- Pop Figura De Vinil: Disney Clause-Santa...'
 sku: 'B07PX3PW4R-es'
 tags: [  ]

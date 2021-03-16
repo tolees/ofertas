@@ -5,7 +5,7 @@ date: 2020-05-13 07:50:38
 image: 'https://m.media-amazon.com/images/I/41IwiLhm2tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQQVLW4-es SALOMON Logo Hoodie M Hombre Verde Green Gables L'
 sku: 'B07KQQVLW4-es'
 tags: [  ]

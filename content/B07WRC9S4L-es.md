@@ -5,7 +5,7 @@ date: 2020-04-07 22:01:15
 image: 'https://m.media-amazon.com/images/I/41B3ejeTrVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRC9S4L-es Huntvp Bolsa de Riñonera Mochila de Bandolera 2 Vías de...'
 sku: 'B07WRC9S4L-es'
 tags: [  ]

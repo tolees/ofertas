@@ -5,7 +5,7 @@ date: 2020-04-13 09:26:39
 image: 'https://m.media-amazon.com/images/I/31aqK50sI6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07538WDGV-es Nike Benassi JDI Slide Sandal Mens Black/Metallic Gold 40 EU'
 sku: 'B07538WDGV-es'
 tags: [  ]

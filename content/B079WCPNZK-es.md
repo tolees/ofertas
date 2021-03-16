@@ -5,7 +5,7 @@ date: 2020-04-12 17:35:25
 image: 'https://m.media-amazon.com/images/I/41Vz-ZD-WpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079WCPNZK-es Lenovo 120S-11IAP - Ordenador portátil de 11.6" HD Intel...'
 sku: 'B079WCPNZK-es'
 tags: [  ]

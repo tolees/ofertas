@@ -5,7 +5,7 @@ date: 2020-09-22 12:30:37
 image: 'https://m.media-amazon.com/images/I/51HZZjY5h8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GFYCJZ4-es 6 Pares Calcetines Running Para Hombre Mujer - Deporte...'
 sku: 'B08GFYCJZ4-es'
 tags: [  ]

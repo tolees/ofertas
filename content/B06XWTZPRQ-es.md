@@ -5,7 +5,7 @@ date: 2020-07-21 20:27:46
 image: 'https://m.media-amazon.com/images/I/41I9H5draFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWTZPRQ-es New Balance WL574EB Zapatillas Mujer Azul WL574EN 35 EU'
 sku: 'B06XWTZPRQ-es'
 tags: [  ]

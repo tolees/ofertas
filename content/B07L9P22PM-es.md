@@ -5,7 +5,7 @@ date: 2020-01-14 10:11:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317ZDlYPnzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9P22PM-es Lacoste Ampthill 319 1 CMA Zapatillas para Hombre Negro...'
 sku: 'B07L9P22PM-es'
 tags: [  ]

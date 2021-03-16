@@ -5,7 +5,7 @@ date: 2020-02-26 17:11:22
 image: 'https://m.media-amazon.com/images/I/31LTCe0AzZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IY4FHPG-es Reebok Ex-o-Fit Clean Logo Int Zapatillas para Hombre...'
 sku: 'B01IY4FHPG-es'
 tags: [  ]

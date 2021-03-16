@@ -5,7 +5,7 @@ date: 2020-09-06 13:45:24
 image: 'https://m.media-amazon.com/images/I/41d1-qKqcWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084S9GMC4-es Mc Haus GROTTA - Mesa Comedor Extensible Madera salón Mesa...'
 sku: 'B084S9GMC4-es'
 tags: [  ]

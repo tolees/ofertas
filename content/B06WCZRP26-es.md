@@ -5,7 +5,7 @@ date: 2020-05-22 05:10:26
 image: 'https://m.media-amazon.com/images/I/31bTFy7bobL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WCZRP26-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B06WCZRP26-es'
 tags: [  ]

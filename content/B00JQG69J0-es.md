@@ -5,7 +5,7 @@ date: 2020-06-29 13:08:27
 image: 'https://m.media-amazon.com/images/I/41EYJ6BWVnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JQG69J0-es VALUELINE Cable EUROCONECTOR con IN'
 sku: 'B00JQG69J0-es'
 tags: [  ]

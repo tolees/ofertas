@@ -5,7 +5,7 @@ date: 2020-04-12 03:37:52
 image: 'https://m.media-amazon.com/images/I/41Ff+iKNy-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009RHOFQW-es Ghostbusters Silicone Tray'
 sku: 'B009RHOFQW-es'
 tags: [  ]

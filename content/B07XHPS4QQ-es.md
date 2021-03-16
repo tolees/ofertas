@@ -5,7 +5,7 @@ date: 2020-05-26 18:46:00
 image: 'https://m.media-amazon.com/images/I/31ZSYz+Rd8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHPS4QQ-es SALAKA 1pc 30cm × 5m Portátil PCB Película Seca...'
 sku: 'B07XHPS4QQ-es'
 tags: [  ]

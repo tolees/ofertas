@@ -5,7 +5,7 @@ date: 2020-08-10 16:25:46
 image: 'https://m.media-amazon.com/images/I/418tRjjuXJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2PDVY-es New Balance 997H Core Zapatillas para Hombre Negro...'
 sku: 'B07BL2PDVY-es'
 tags: [  ]

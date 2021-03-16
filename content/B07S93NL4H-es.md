@@ -5,7 +5,7 @@ date: 2020-01-16 11:33:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31cyWsSZNiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S93NL4H-es Encendedor USB TECCPO Encendedor Electrico sin Llama...'
 sku: 'B07S93NL4H-es'
 tags: [  ]

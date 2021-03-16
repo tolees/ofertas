@@ -5,7 +5,7 @@ date: 2020-02-27 15:53:03
 image: 'https://m.media-amazon.com/images/I/41BGHCOxMmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5ZD6KL-es Botas de Mujer PANAMA JACK Panama 03 Igloo B34 Nobuck Natural'
 sku: 'B07G5ZD6KL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-03 15:00:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4137sGst%2B-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772ZCY6H-es Columbia Canyon Point Zapatillas de Senderismo para Hombre...'
 sku: 'B0772ZCY6H-es'
 tags: [  ]

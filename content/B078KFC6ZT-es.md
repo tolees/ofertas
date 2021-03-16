@@ -5,7 +5,7 @@ date: 2020-02-26 20:52:50
 image: 'https://m.media-amazon.com/images/I/51qzz7UtTeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078KFC6ZT-es 3D Ilusión óptica Lámpara LED Luz de noche Deco LED...'
 sku: 'B078KFC6ZT-es'
 tags: [  ]

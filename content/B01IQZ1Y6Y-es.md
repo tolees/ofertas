@@ -5,7 +5,7 @@ date: 2020-01-14 16:39:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41uiBpl7euL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IQZ1Y6Y-es Star Wars Rogue One - Disfraz de Death Trooper para niños...'
 sku: 'B01IQZ1Y6Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 19:44:24
 image: 'https://m.media-amazon.com/images/I/41p85rr8EYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5TGS9B-es BHR 41691 Casco Moto Demi-Jet Linea One 801 L 59 cm'
 sku: 'B01N5TGS9B-es'
 tags: [  ]

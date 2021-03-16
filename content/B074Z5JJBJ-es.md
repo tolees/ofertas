@@ -5,7 +5,7 @@ date: 2020-05-29 17:21:40
 image: 'https://m.media-amazon.com/images/I/51DdDKEhmyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074Z5JJBJ-es GOXAWEE 20 Piezas Fresas HSS Encaminamiento Router Bits...'
 sku: 'B074Z5JJBJ-es'
 tags: [  ]

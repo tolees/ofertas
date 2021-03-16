@@ -5,7 +5,7 @@ date: 2020-06-18 07:16:56
 image: 'https://m.media-amazon.com/images/I/41pIAscPSgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088F1K5DN-es OWSOO 720P Cámara Webcam Incorporado Micrófono Cámara USB...'
 sku: 'B088F1K5DN-es'
 tags: [  ]

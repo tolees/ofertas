@@ -5,7 +5,7 @@ date: 2020-01-04 01:49:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/313jDx7uRqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IINTKDE-es Lancaster Sun Beauty Velvet Tanning Milk SPF30 Protector...'
 sku: 'B00IINTKDE-es'
 tags: [  ]

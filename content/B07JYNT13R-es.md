@@ -5,7 +5,7 @@ date: 2020-01-08 07:09:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IuIBF50GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYNT13R-es Tommy Hilfiger Essential Craft Vulc Zapatillas para Hombre...'
 sku: 'B07JYNT13R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 10:36:14
 image: 'https://m.media-amazon.com/images/I/41gShjs4LeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFRN36C-es Bosch CityMower 18 - Cortacésped sin batería sistema de 18...'
 sku: 'B07QFRN36C-es'
 tags: [  ]

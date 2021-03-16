@@ -5,7 +5,7 @@ date: 2020-09-07 23:04:08
 image: 'https://m.media-amazon.com/images/I/41Q7j2D5xML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1V6YMZ-es Skechers Skech-Air Stratus Super Galaxy Zapatillas para...'
 sku: 'B07W1V6YMZ-es'
 tags: [  ]

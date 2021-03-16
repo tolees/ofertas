@@ -5,7 +5,7 @@ date: 2020-01-05 13:50:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31vjsveFHCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW8VRZF-es Skechers D lites 3.0-Proven Force Zapatillas para Mujer...'
 sku: 'B07NW8VRZF-es'
 tags: [  ]

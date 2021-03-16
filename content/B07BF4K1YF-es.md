@@ -5,7 +5,7 @@ date: 2020-06-02 14:13:54
 image: 'https://m.media-amazon.com/images/I/41SEBOZGnqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BF4K1YF-es LAMURO Kit para Colgantes Columpios de árboles Correas...'
 sku: 'B07BF4K1YF-es'
 tags: [  ]

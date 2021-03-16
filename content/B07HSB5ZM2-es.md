@@ -5,7 +5,7 @@ date: 2020-09-08 11:38:24
 image: 'https://m.media-amazon.com/images/I/416Ur4r9+NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSB5ZM2-es SHARP PS-940 Altavoces Bluetooth Karaoke Party con...'
 sku: 'B07HSB5ZM2-es'
 tags: [  ]

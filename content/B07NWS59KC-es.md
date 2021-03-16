@@ -5,7 +5,7 @@ date: 2020-09-17 11:40:33
 image: 'https://m.media-amazon.com/images/I/51zlzDYjXBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWS59KC-es AICOOK Tetera eléctrica hervidor eléctrico y tetera 2 en 1...'
 sku: 'B07NWS59KC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 19:58:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DX7WIYM9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFCLLNR-es Ezfull Protector para Parabrisas Protector de Parabrisas...'
 sku: 'B07XFCLLNR-es'
 tags: [  ]

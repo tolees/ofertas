@@ -5,7 +5,7 @@ date: 2020-10-11 06:55:49
 image: 'https://m.media-amazon.com/images/I/419ZnZAIkcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZRWT9H-es Skechers Solar Fuse Cosmic View Zapatillas para Mujer Rosa...'
 sku: 'B07VZRWT9H-es'
 tags: [  ]

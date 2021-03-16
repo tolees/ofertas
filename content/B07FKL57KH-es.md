@@ -5,7 +5,7 @@ date: 2020-04-27 08:48:32
 image: 'https://m.media-amazon.com/images/I/41D3IgOdYZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKL57KH-es Nike Renew Arena Zapatillas de Atletismo para Hombre...'
 sku: 'B07FKL57KH-es'
 tags: [  ]

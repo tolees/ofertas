@@ -5,7 +5,7 @@ date: 2020-02-21 18:04:13
 image: 'https://m.media-amazon.com/images/I/417pb934rqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNNQK5V-es Calvin Klein Medium Drawstring Bañador Azul Black Iris CBK...'
 sku: 'B07VNNQK5V-es'
 tags: [  ]

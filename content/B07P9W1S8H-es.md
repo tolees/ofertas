@@ -5,7 +5,7 @@ date: 2020-06-12 17:35:32
 image: 'https://m.media-amazon.com/images/I/41KvV9egyvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9W1S8H-es Philips SHB-3175BK/00 BASS+ Auriculares Wireless negro'
 sku: 'B07P9W1S8H-es'
 tags: [  ]

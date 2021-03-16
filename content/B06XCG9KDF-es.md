@@ -5,7 +5,7 @@ date: 2020-07-04 11:51:51
 image: 'https://m.media-amazon.com/images/I/41awnP9GY-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCG9KDF-es G-STAR RAW Classic Trunk Clr 3 Pack Pantalones Cortos...'
 sku: 'B06XCG9KDF-es'
 tags: [  ]

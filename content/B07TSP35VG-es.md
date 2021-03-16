@@ -5,7 +5,7 @@ date: 2020-03-09 19:55:00
 image: 'https://m.media-amazon.com/images/I/41P6-ZeuRaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSP35VG-es Depesche Cepillo de Pelo Plegable 8846 Modelo Top Aprox. 7...'
 sku: 'B07TSP35VG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-01 19:16:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41C8RIQ0HQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SC9RLQ1-es AICOK Sous Vide Aparato de Cocina Precisión 1500W...'
 sku: 'B07SC9RLQ1-es'
 tags: [  ]

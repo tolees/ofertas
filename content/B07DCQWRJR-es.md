@@ -5,7 +5,7 @@ date: 2020-05-01 05:40:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ERgbp0XcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCQWRJR-es Hombre Digital Relojes digitaluhr Negro Classic Casual...'
 sku: 'B07DCQWRJR-es'
 tags: [  ]

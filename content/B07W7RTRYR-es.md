@@ -5,7 +5,7 @@ date: 2020-09-02 00:11:47
 image: 'https://m.media-amazon.com/images/I/31xxkWDsgSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7RTRYR-es Tommy Hilfiger Tommy Tipped Slim Polo Azul Pitch Blue XX-...'
 sku: 'B07W7RTRYR-es'
 tags: [  ]

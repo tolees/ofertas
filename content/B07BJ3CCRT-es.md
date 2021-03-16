@@ -5,7 +5,7 @@ date: 2020-03-08 13:45:49
 image: 'https://m.media-amazon.com/images/I/41zssDBp8qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJ3CCRT-es Lámpara solar Luces Jardín 42 LED solares exterior foco...'
 sku: 'B07BJ3CCRT-es'
 tags: [  ]

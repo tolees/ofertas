@@ -5,7 +5,7 @@ date: 2020-03-03 18:57:41
 image: 'https://m.media-amazon.com/images/I/419RnvU8WpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB3HXJM-es Funko- Pop Vinyl: The Lion King-Luau Timon Disney Figura...'
 sku: 'B07HB3HXJM-es'
 tags: [  ]

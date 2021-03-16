@@ -5,7 +5,7 @@ date: 2020-08-20 17:20:26
 image: 'https://m.media-amazon.com/images/I/31x+xovCC2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I9XTLSC-es Arcos 610600 - Afilador con mango'
 sku: 'B00I9XTLSC-es'
 tags: [  ]

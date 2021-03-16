@@ -5,7 +5,7 @@ date: 2020-04-02 17:32:33
 image: 'https://m.media-amazon.com/images/I/51084wSj5LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0736H1DLG-es Podofo Kit de cámara de respaldo inalámbrico DC 12V-24V...'
 sku: 'B0736H1DLG-es'
 tags: [  ]

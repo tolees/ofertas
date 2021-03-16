@@ -5,7 +5,7 @@ date: 2020-06-11 00:47:51
 image: 'https://m.media-amazon.com/images/I/41YJojYCBcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL23D3M-es Safety 1st Keeny Trona evolutiva Trona bebé compacta...'
 sku: 'B07KL23D3M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-21 11:45:00
 image: 'https://m.media-amazon.com/images/I/417HxzBY6mL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVHX58C-es Kipling - Creativity L Monederos Mujer Multicolor Music...'
 sku: 'B07MVHX58C-es'
 tags: [  ]

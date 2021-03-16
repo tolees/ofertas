@@ -5,7 +5,7 @@ date: 2020-06-13 17:49:24
 image: 'https://m.media-amazon.com/images/I/41euQtpbPvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG1D3YH-es PUMA Future 4.3 Netfit FG/AG Jr Botas de fútbol Unisex...'
 sku: 'B07KG1D3YH-es'
 tags: [  ]

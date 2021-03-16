@@ -5,7 +5,7 @@ date: 2020-02-03 15:45:25
 image: 'https://m.media-amazon.com/images/I/31sByXWVKhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9SNPZM-es Lacoste Masters 319 1 SMA Zapatillas para Hombre Blanco...'
 sku: 'B07L9SNPZM-es'
 tags: [  ]

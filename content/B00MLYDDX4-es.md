@@ -5,7 +5,7 @@ date: 2020-07-24 20:49:56
 image: 'https://m.media-amazon.com/images/I/51Z+nYt5Z+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MLYDDX4-es Reloj para mujer Tommy Hilfiger 1781488 mecanismo de...'
 sku: 'B00MLYDDX4-es'
 tags: [  ]

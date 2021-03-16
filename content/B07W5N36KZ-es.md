@@ -5,7 +5,7 @@ date: 2020-08-25 06:32:40
 image: 'https://m.media-amazon.com/images/I/416prtHRVQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5N36KZ-es Tommy Hilfiger Hilfiger Slim Polo Azul Blue Quartz X-Large...'
 sku: 'B07W5N36KZ-es'
 tags: [  ]

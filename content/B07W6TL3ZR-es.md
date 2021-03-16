@@ -5,7 +5,7 @@ date: 2020-08-16 04:42:56
 image: 'https://m.media-amazon.com/images/I/31hWLV5veuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6TL3ZR-es Proyector portátil Nebula Mars II Pro de 500 lúmenes ANSI...'
 sku: 'B07W6TL3ZR-es'
 tags: [  ]

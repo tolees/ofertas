@@ -5,7 +5,7 @@ date: 2020-07-01 17:48:46
 image: 'https://m.media-amazon.com/images/I/21-GsvNXyzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MAY30W9-es Legrand Marco interruptor Marco enchufe NILOE Blanco'
 sku: 'B01MAY30W9-es'
 tags: [  ]

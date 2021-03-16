@@ -5,7 +5,7 @@ date: 2020-01-09 14:40:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wLZjRCK%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078X2QHL8-es Dockers by Gerli 36ai227-777200 Mocasines para Mujer Gris...'
 sku: 'B078X2QHL8-es'
 tags: [  ]

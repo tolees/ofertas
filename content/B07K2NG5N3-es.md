@@ -5,7 +5,7 @@ date: 2020-09-21 10:11:19
 image: 'https://m.media-amazon.com/images/I/31mOfI1AmzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2NG5N3-es Auriculares urBeats3 con conector Lightning - Azul'
 sku: 'B07K2NG5N3-es'
 tags: [  ]

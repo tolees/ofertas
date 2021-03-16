@@ -5,7 +5,7 @@ date: 2020-05-26 18:31:44
 image: 'https://m.media-amazon.com/images/I/21AxrNEYzoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088ZTPM4J-es P Prettyia Película Protectora De Pantalla Templada Anti-...'
 sku: 'B088ZTPM4J-es'
 tags: [  ]

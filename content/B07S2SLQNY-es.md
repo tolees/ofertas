@@ -5,7 +5,7 @@ date: 2020-03-31 13:49:17
 image: 'https://m.media-amazon.com/images/I/41KvSwvgqaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2SLQNY-es New Balance 500 Zapatillas para Hombre Verde Green True 43 EU'
 sku: 'B07S2SLQNY-es'
 tags: [  ]

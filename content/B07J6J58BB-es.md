@@ -5,7 +5,7 @@ date: 2020-01-13 08:15:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6J58BB-es Under Armour UA W Breathe Lace Zapatillas para Mujer...'
 sku: 'B07J6J58BB-es'
 tags: [  ]

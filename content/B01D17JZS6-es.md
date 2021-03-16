@@ -5,7 +5,7 @@ date: 2020-10-06 14:13:21
 image: 'https://m.media-amazon.com/images/I/31PU-247aKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D17JZS6-es Samsonite Paradiver Light Bolsa de Viaje con Ruedas S...'
 sku: 'B01D17JZS6-es'
 tags: [  ]

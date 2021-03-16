@@ -5,7 +5,7 @@ date: 2020-08-02 17:00:55
 image: 'https://m.media-amazon.com/images/I/317hx69Z4KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTDW3D5-es Gant Prepville Zapatillas para Hombre Blanco Off White G20...'
 sku: 'B07TTDW3D5-es'
 tags: [  ]

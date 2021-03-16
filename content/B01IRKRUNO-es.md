@@ -5,7 +5,7 @@ date: 2020-03-24 00:25:04
 image: 'https://m.media-amazon.com/images/I/41K8W0ATebL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IRKRUNO-es NIXON Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B01IRKRUNO-es'
 tags: [  ]

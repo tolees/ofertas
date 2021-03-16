@@ -5,7 +5,7 @@ date: 2020-06-02 09:28:31
 image: 'https://m.media-amazon.com/images/I/31dXjQobYaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DN7XSF-es Ever-Pretty A-línea Vestito de Gala Gasa Cuello en V sin...'
 sku: 'B079DN7XSF-es'
 tags: [  ]

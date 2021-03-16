@@ -5,7 +5,7 @@ date: 2020-06-08 09:25:42
 image: 'https://m.media-amazon.com/images/I/41BcdJ-UK1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGM1YZP-es Columbia Ivo Trail Zapatillas para Hombre Marrón Oatmeal...'
 sku: 'B07RGM1YZP-es'
 tags: [  ]

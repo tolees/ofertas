@@ -5,7 +5,7 @@ date: 2020-04-25 13:03:14
 image: 'https://m.media-amazon.com/images/I/41jQjoIfjuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084VRX92F-es P Prettyia Fragancia de Perfume de Hombre de 50 ml Hombre...'
 sku: 'B084VRX92F-es'
 tags: [  ]

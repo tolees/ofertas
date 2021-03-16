@@ -5,7 +5,7 @@ date: 2020-04-12 18:35:39
 image: 'https://m.media-amazon.com/images/I/41XgU5NTQaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082D1J7FX-es 50ml Original Perfume Para Hombres Perfume Estilo Líquido...'
 sku: 'B082D1J7FX-es'
 tags: [  ]

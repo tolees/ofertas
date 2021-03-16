@@ -5,7 +5,7 @@ date: 2020-04-18 03:14:29
 image: 'https://m.media-amazon.com/images/I/41ZJpfZEBjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZP23WQ-es Funko- Pop Vinilo: Gears of War S3: Queen Myrrah Figura...'
 sku: 'B07MZP23WQ-es'
 tags: [  ]

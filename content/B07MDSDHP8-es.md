@@ -5,7 +5,7 @@ date: 2020-04-28 18:31:55
 image: 'https://m.media-amazon.com/images/I/51iDSLtXQNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDSDHP8-es Lacoste'
 sku: 'B07MDSDHP8-es'
 tags: [  ]

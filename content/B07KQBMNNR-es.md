@@ -5,7 +5,7 @@ date: 2020-02-28 13:15:53
 image: 'https://m.media-amazon.com/images/I/41KvsLECmNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQBMNNR-es Uten Batidoras Multifuncional Máquina de Batidos de...'
 sku: 'B07KQBMNNR-es'
 tags: [  ]

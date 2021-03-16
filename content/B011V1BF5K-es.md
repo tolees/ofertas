@@ -5,7 +5,7 @@ date: 2020-05-12 06:05:01
 image: 'https://m.media-amazon.com/images/I/31crac3dpaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011V1BF5K-es Puma Modern Soleil SL Zapatillas para Mujer Negro 40 EU'
 sku: 'B011V1BF5K-es'
 tags: [  ]

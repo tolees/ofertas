@@ -5,7 +5,7 @@ date: 2020-06-13 20:23:34
 image: 'https://m.media-amazon.com/images/I/41+Ge3iCJnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJ66S6C-es Desodorante Mussvital Dermactive Nature Pack 2 Uds x 75ml....'
 sku: 'B07BJ66S6C-es'
 tags: [  ]

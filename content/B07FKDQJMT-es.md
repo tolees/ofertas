@@ -5,7 +5,7 @@ date: 2020-03-14 23:50:12
 image: 'https://m.media-amazon.com/images/I/31GhXgPcqFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKDQJMT-es Nike Sunray Adjust 5 TD Zapatillas de Gimnasia para Niños...'
 sku: 'B07FKDQJMT-es'
 tags: [  ]

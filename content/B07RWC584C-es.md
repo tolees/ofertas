@@ -5,7 +5,7 @@ date: 2020-07-14 19:02:01
 image: 'https://m.media-amazon.com/images/I/41cXr7InlBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWC584C-es Cadena Colgante de Silla de Peluquero Dorada para Ropa...'
 sku: 'B07RWC584C-es'
 tags: [  ]

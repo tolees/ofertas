@@ -5,7 +5,7 @@ date: 2020-05-04 08:04:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41X9dmwBnBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000X29DSA-es STANLEY 4-18-298 - Juego de 3 cinceles de albanil'
 sku: 'B000X29DSA-es'
 tags: [  ]

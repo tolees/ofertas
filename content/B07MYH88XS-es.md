@@ -5,7 +5,7 @@ date: 2020-01-24 09:07:30
 image: 'https://m.media-amazon.com/images/I/51HeVFat5qL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYH88XS-es ORNARTO Funda Huawei P30 Pro Carcasa Silicona Transparente...'
 sku: 'B07MYH88XS-es'
 tags: [  ]

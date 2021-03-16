@@ -5,7 +5,7 @@ date: 2020-06-23 18:11:03
 image: 'https://m.media-amazon.com/images/I/51MvsrnJR8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P1RZFVZ-es Alambre de soldadura sin plomo 0.8mm Hilo de estaño para...'
 sku: 'B07P1RZFVZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 04:16:09
 image: 'https://m.media-amazon.com/images/I/31AjtpNd5OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZTLLJ2-es GoPro AMCRU-001 - Lector de Tarjetas MicroSD Portátil con...'
 sku: 'B01LZTLLJ2-es'
 tags: [  ]

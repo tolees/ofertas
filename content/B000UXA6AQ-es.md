@@ -5,7 +5,7 @@ date: 2020-05-08 11:24:21
 image: 'https://m.media-amazon.com/images/I/41OeLDVxmeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UXA6AQ-es Osram 64210 Original Line Lámpara Halógena de Faros 1 Unidad'
 sku: 'B000UXA6AQ-es'
 tags: [  ]

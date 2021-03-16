@@ -5,7 +5,7 @@ date: 2020-06-01 08:05:16
 image: 'https://m.media-amazon.com/images/I/41kvDGMinTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PLKV5W-es Cecotec Rollos Gofrados Set de 2 Rollos Grandes 28 x 600...'
 sku: 'B076PLKV5W-es'
 tags: [  ]

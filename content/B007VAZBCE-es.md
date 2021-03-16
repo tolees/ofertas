@@ -5,7 +5,7 @@ date: 2020-08-24 09:21:03
 image: 'https://m.media-amazon.com/images/I/41UcoSCzkuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007VAZBCE-es Tamron A0A007S SP 24-70 mm F/2.8 Di USD - Objetivo para...'
 sku: 'B007VAZBCE-es'
 tags: [  ]

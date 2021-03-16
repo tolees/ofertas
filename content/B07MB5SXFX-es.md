@@ -5,7 +5,7 @@ date: 2020-03-15 17:05:52
 image: 'https://m.media-amazon.com/images/I/518pfsTHTlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MB5SXFX-es FANDINIER Cartera hombre billeteras hombre cartera hombre...'
 sku: 'B07MB5SXFX-es'
 tags: [  ]

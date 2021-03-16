@@ -5,7 +5,7 @@ date: 2020-01-20 18:52:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DQ1%2BPRTEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F74M1JM-es Godagoda T244D - Juego de 5 hojas de sierra para sierra de...'
 sku: 'B07F74M1JM-es'
 tags: [  ]

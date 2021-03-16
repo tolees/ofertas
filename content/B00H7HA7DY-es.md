@@ -5,7 +5,7 @@ date: 2020-05-29 09:33:45
 image: 'https://m.media-amazon.com/images/I/515zkymxJaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H7HA7DY-es BOSS - Arezzo Carteras Hombre Negro Schwarz 1x1x1 cm B x H T'
 sku: 'B00H7HA7DY-es'
 tags: [  ]

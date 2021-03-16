@@ -5,7 +5,7 @@ date: 2020-04-15 09:43:24
 image: 'https://m.media-amazon.com/images/I/51WE7WeI2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NHHDQ4-es iMagicBox Kit de Magia con Cartas Cife Spain 41448'
 sku: 'B079NHHDQ4-es'
 tags: [  ]

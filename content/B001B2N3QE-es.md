@@ -5,7 +5,7 @@ date: 2020-06-11 15:00:01
 image: 'https://m.media-amazon.com/images/I/4136vCeJOhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001B2N3QE-es Revlon ColorSilk Tinte de Cabello Permanente Tono #10 Negro'
 sku: 'B001B2N3QE-es'
 tags: [  ]

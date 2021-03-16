@@ -5,7 +5,7 @@ date: 2020-06-24 19:02:04
 image: 'https://m.media-amazon.com/images/I/41GLiGd5CYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R7JNK2-es New Balance Wl697trb m Zapatillas de Running para Mujer...'
 sku: 'B075R7JNK2-es'
 tags: [  ]

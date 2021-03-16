@@ -5,7 +5,7 @@ date: 2020-05-03 10:32:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41M24z0YLvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0000AFSXF-es Converse Chuck Taylor All Star Season Ox Zapatillas de...'
 sku: 'B0000AFSXF-es'
 tags: [  ]

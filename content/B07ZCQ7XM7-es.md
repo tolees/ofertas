@@ -5,7 +5,7 @@ date: 2020-06-09 17:45:38
 image: 'https://m.media-amazon.com/images/I/41gpc9jMozL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCQ7XM7-es Funda para Huawei Mate 20 diseño de mármol silicona suave...'
 sku: 'B07ZCQ7XM7-es'
 tags: [  ]

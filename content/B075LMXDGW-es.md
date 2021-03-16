@@ -5,7 +5,7 @@ date: 2020-03-31 17:42:53
 image: 'https://m.media-amazon.com/images/I/51ww1ZfXKSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075LMXDGW-es adidas CE8097 Balón Hombre Negro S'
 sku: 'B075LMXDGW-es'
 tags: [  ]

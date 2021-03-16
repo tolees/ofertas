@@ -5,7 +5,7 @@ date: 2020-04-12 08:13:51
 image: 'https://m.media-amazon.com/images/I/41YPdlLP5RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFVZ9Y1-es New Balance 574v2 Zapatillas para Mujer Azul Blue Sos 39 EU'
 sku: 'B07RFVZ9Y1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 04:45:56
 image: 'https://m.media-amazon.com/images/I/41tdjHrqApL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RCJRKV-es HAUEA Almohadilla Teclado y Alfombrilla de Ratón...'
 sku: 'B073RCJRKV-es'
 tags: [  ]

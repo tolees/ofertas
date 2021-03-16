@@ -5,7 +5,7 @@ date: 2020-02-22 10:26:10
 image: 'https://m.media-amazon.com/images/I/41hdPYPtSaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SV1XL7W-es Herefun 32 en 1 Juego de Destornilladores Mini Profesional...'
 sku: 'B07SV1XL7W-es'
 tags: [  ]

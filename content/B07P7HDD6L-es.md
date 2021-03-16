@@ -5,7 +5,7 @@ date: 2020-05-16 07:31:43
 image: 'https://m.media-amazon.com/images/I/41T8tWVNrOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7HDD6L-es Aigle Alten Leather Zapatillas para Hombre Marrón Brown...'
 sku: 'B07P7HDD6L-es'
 tags: [  ]

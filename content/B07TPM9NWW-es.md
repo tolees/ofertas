@@ -5,7 +5,7 @@ date: 2020-04-11 08:50:56
 image: 'https://m.media-amazon.com/images/I/51rdgaXbVyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPM9NWW-es LolaPix Toalla Surf Personalizada con Nombre o Texto |...'
 sku: 'B07TPM9NWW-es'
 tags: [  ]

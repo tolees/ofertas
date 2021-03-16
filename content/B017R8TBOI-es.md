@@ -5,7 +5,7 @@ date: 2020-02-15 20:01:34
 image: 'https://m.media-amazon.com/images/I/41Uou46ry3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017R8TBOI-es Tatkraft Panda Gancho Toallero Adhesivo Colgador Infantil...'
 sku: 'B017R8TBOI-es'
 tags: [  ]

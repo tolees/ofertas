@@ -5,7 +5,7 @@ date: 2020-03-11 00:45:13
 image: 'https://m.media-amazon.com/images/I/41lirWYsDJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001LWRHA2-es Hagen Catit Design Senses Massage Centre'
 sku: 'B001LWRHA2-es'
 tags: [  ]

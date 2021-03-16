@@ -5,7 +5,7 @@ date: 2020-06-16 13:01:29
 image: 'https://m.media-amazon.com/images/I/51VtD-nX5mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003WUBIZQ-es Case Logic QHDC101K - Estuche compacto para disco duro...'
 sku: 'B003WUBIZQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-13 09:52:46
 image: 'https://m.media-amazon.com/images/I/41D4tdU56cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VM41QW2-es Schneespitze Kitchen Sink Estantería Fregadero Soporte...'
 sku: 'B07VM41QW2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 20:01:17
 image: 'https://m.media-amazon.com/images/I/51x9O5lPoQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073TVCGLC-es didisky 2 unidades LED linterna 5 modos enfoque ajustable...'
 sku: 'B073TVCGLC-es'
 tags: [  ]

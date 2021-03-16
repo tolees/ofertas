@@ -5,7 +5,7 @@ date: 2020-10-12 06:40:00
 image: 'https://m.media-amazon.com/images/I/3193do-+-JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BD0PPJ2-es BRA Terra - Sartén Grill asador Liso 22 cm Aluminio...'
 sku: 'B00BD0PPJ2-es'
 tags: [  ]

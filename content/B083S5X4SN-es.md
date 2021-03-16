@@ -5,7 +5,7 @@ date: 2020-05-26 07:54:12
 image: 'https://m.media-amazon.com/images/I/41Uu4OWY6tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083S5X4SN-es totobay Reloj Inteligente Hombre Mujer Smartwatch...'
 sku: 'B083S5X4SN-es'
 tags: [  ]

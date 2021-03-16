@@ -5,7 +5,7 @@ date: 2020-08-12 13:18:11
 image: 'https://m.media-amazon.com/images/I/51pRX333CBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015Y92QBM-es Rimmel London Magnifeyes Mono Sombra de Ojos Tono 005...'
 sku: 'B015Y92QBM-es'
 tags: [  ]

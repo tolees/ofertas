@@ -5,7 +5,7 @@ date: 2020-08-15 19:41:24
 image: 'https://m.media-amazon.com/images/I/41fv3PEbZDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EUWJHUS-es DeLonghi EO12012W Horno de sobremesa con temporizador de...'
 sku: 'B00EUWJHUS-es'
 tags: [  ]

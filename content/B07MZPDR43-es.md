@@ -5,7 +5,7 @@ date: 2020-08-06 12:52:41
 image: 'https://m.media-amazon.com/images/I/41GSGrpKSfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZPDR43-es Gioseppo 40840 Botas Slouch para Mujer Azul Marino 39 EU'
 sku: 'B07MZPDR43-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-25 14:56:09
 image: 'https://m.media-amazon.com/images/I/31cKbVuOCKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M8HGAVU-es New Balance ML373 Zapatillas para Hombre Negro Black Grey...'
 sku: 'B01M8HGAVU-es'
 tags: [  ]

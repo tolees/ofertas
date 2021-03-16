@@ -5,7 +5,7 @@ date: 2020-07-10 11:07:41
 image: 'https://m.media-amazon.com/images/I/41eoYC4NdQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB7WTQD-es Funko- Pop Vinyl: Rocks: AC/DC: Angus Young w/Chase Styles...'
 sku: 'B07HB7WTQD-es'
 tags: [  ]

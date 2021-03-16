@@ -5,7 +5,7 @@ date: 2020-03-04 17:03:45
 image: 'https://m.media-amazon.com/images/I/31aEClDH+eL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFK239N-es Amazon Essentials Studio Relaxed-Fit Crewneck T-Shirt...'
 sku: 'B07FFK239N-es'
 tags: [  ]

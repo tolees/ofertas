@@ -5,7 +5,7 @@ date: 2020-06-20 07:22:49
 image: 'https://m.media-amazon.com/images/I/317TM7YXmaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016N2D6AO-es Tescoma JGO 8 Cortapastas Galletas Tradicionales Delicia'
 sku: 'B016N2D6AO-es'
 tags: [  ]

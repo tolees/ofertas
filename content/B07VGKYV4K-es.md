@@ -5,7 +5,7 @@ date: 2020-01-06 07:03:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51FV1Dz7IWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGKYV4K-es HANPURE Bluetooth Gorro Invierno Hombre Regalos Originales...'
 sku: 'B07VGKYV4K-es'
 tags: [  ]

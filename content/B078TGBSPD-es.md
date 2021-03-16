@@ -5,7 +5,7 @@ date: 2020-09-03 11:42:29
 image: 'https://m.media-amazon.com/images/I/51F1OTtSY6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078TGBSPD-es JUNING Kit de Costura Costurero 90pcs Accesorios Costura...'
 sku: 'B078TGBSPD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 10:10:16
 image: 'https://m.media-amazon.com/images/I/41ZUNze2HKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9BWNLP-es YESKAMO Kit Cámaras de Vigilancia Wifi Exterior 8 Canales...'
 sku: 'B07T9BWNLP-es'
 tags: [  ]

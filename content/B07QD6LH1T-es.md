@@ -5,7 +5,7 @@ date: 2020-01-14 12:08:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31juMA%2BN1BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD6LH1T-es PUMA Hit Feel It 7/8 Tight Mallas Deporte Mujer Black-...'
 sku: 'B07QD6LH1T-es'
 tags: [  ]

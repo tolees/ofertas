@@ -5,7 +5,7 @@ date: 2020-05-08 07:10:50
 image: 'https://m.media-amazon.com/images/I/31G3tOUBUjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077K6R4BT-es La Vecina Rubia Pendrive USB 16 GB - con Forma de...'
 sku: 'B077K6R4BT-es'
 tags: [  ]

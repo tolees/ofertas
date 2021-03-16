@@ -5,7 +5,7 @@ date: 2020-06-15 15:27:27
 image: 'https://m.media-amazon.com/images/I/51TfcmZIB3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYRMLF6-es Relojes Hombre Cuero Marrón Impermeable Cuarzo Analógico...'
 sku: 'B07TYRMLF6-es'
 tags: [  ]

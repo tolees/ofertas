@@ -5,7 +5,7 @@ date: 2020-02-03 08:16:38
 image: 'https://m.media-amazon.com/images/I/51eTfZmJD+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SQKDJF-es Numark Party Mix Pro - Controlador de DJ con Luces...'
 sku: 'B077SQKDJF-es'
 tags: [  ]

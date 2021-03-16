@@ -5,7 +5,7 @@ date: 2020-09-05 19:26:09
 image: 'https://m.media-amazon.com/images/I/51t73z5-xzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTZ78ST-es GALAX PRO Sierras circulares/Sierra Sable 20V Batería...'
 sku: 'B07WTZ78ST-es'
 tags: [  ]

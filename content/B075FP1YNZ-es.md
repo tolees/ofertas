@@ -5,7 +5,7 @@ date: 2020-04-28 17:11:16
 image: 'https://m.media-amazon.com/images/I/31xPaMmU8NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FP1YNZ-es Maxmer Lámpara Vintage Colgante Luz Industrial Lámpara de...'
 sku: 'B075FP1YNZ-es'
 tags: [  ]

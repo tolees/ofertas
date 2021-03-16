@@ -5,7 +5,7 @@ date: 2020-08-09 08:32:07
 image: 'https://m.media-amazon.com/images/I/318FWXSiWlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088ZTJZRH-es iMiMi - Tabla de planchar de pared para puerta o pared...'
 sku: 'B088ZTJZRH-es'
 tags: [  ]

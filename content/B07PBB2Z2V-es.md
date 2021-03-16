@@ -5,7 +5,7 @@ date: 2020-08-11 16:12:16
 image: 'https://m.media-amazon.com/images/I/411OoJrNfgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBB2Z2V-es Pop! Figura de Vinilo: Música: The Police - Sting'
 sku: 'B07PBB2Z2V-es'
 tags: [  ]

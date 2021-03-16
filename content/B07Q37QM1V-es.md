@@ -5,7 +5,7 @@ date: 2020-01-11 16:31:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51AaBSFPbML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q37QM1V-es Ferilinso Funda para Xiaomi Redmi S3/ Redmi 7 Funda...'
 sku: 'B07Q37QM1V-es'
 tags: [  ]

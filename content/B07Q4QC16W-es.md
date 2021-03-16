@@ -5,7 +5,7 @@ date: 2020-06-05 19:18:57
 image: 'https://m.media-amazon.com/images/I/51iJxNve+wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4QC16W-es SkinXmed Sérum para pestañas y cejas | volumen densidad |...'
 sku: 'B07Q4QC16W-es'
 tags: [  ]

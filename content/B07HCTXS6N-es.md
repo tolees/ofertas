@@ -5,7 +5,7 @@ date: 2020-01-02 00:53:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41yg%2B4uwEVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCTXS6N-es Tommy Hilfiger - Th Core Pouch W/Wristlet Carteras Mujer...'
 sku: 'B07HCTXS6N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-14 19:12:28
 image: 'https://m.media-amazon.com/images/I/415WldZFD2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FURW81G-es Colgate 1032-39773 Maximum Protection Pasta Dentífrica 100 ml'
 sku: 'B01FURW81G-es'
 tags: [  ]

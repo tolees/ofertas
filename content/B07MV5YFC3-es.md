@@ -5,7 +5,7 @@ date: 2020-05-25 19:10:27
 image: 'https://m.media-amazon.com/images/I/41CwaeUq1WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV5YFC3-es NOVOO - Batería Externa 20000mAh Powerbank con 3 Puertos 1...'
 sku: 'B07MV5YFC3-es'
 tags: [  ]

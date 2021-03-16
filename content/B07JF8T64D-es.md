@@ -5,7 +5,7 @@ date: 2020-07-27 06:23:27
 image: 'https://m.media-amazon.com/images/I/41Krd+GkbvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JF8T64D-es Linterna LED Recargable 3500mAh Linterna Tactica...'
 sku: 'B07JF8T64D-es'
 tags: [  ]

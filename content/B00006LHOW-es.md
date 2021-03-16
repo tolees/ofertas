@@ -5,7 +5,7 @@ date: 2020-03-11 09:46:04
 image: 'https://m.media-amazon.com/images/I/51sH-oP4veL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00006LHOW-es HP 38A - Cartucho de tóner original LaserJet para Laserjet...'
 sku: 'B00006LHOW-es'
 tags: [  ]

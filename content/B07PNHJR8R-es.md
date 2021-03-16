@@ -5,7 +5,7 @@ date: 2020-01-17 13:10:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414Hcti7y3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PNHJR8R-es Champú reestructurante para cabello rizado con aceite de...'
 sku: 'B07PNHJR8R-es'
 tags: [  ]

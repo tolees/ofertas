@@ -5,7 +5,7 @@ date: 2020-02-08 19:36:04
 image: 'https://m.media-amazon.com/images/I/41X9-xAn+EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00INT57DA-es Bolsa de agua caliente forrada | Mobiclinic'
 sku: 'B00INT57DA-es'
 tags: [  ]

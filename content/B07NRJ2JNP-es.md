@@ -5,7 +5,7 @@ date: 2020-06-08 16:32:27
 image: 'https://m.media-amazon.com/images/I/41CvJblqELL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRJ2JNP-es Gliss - Acondicionador Express Fiber Therapy - Sin...'
 sku: 'B07NRJ2JNP-es'
 tags: [  ]

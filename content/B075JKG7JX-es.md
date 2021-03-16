@@ -5,7 +5,7 @@ date: 2020-01-18 14:58:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FXDYo2BcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JKG7JX-es Red Castle Citylink III - Silla de paseo plegable color...'
 sku: 'B075JKG7JX-es'
 tags: [  ]

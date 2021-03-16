@@ -5,7 +5,7 @@ date: 2020-01-17 03:07:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51QqUsD3BUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083HTZR3X-es K9CK Luces LED para Ideas La casa del árbol 21318 Kit de...'
 sku: 'B083HTZR3X-es'
 tags: [  ]

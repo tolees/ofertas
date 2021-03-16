@@ -5,7 +5,7 @@ date: 2020-03-07 16:03:27
 image: 'https://m.media-amazon.com/images/I/31VDXFI1bnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QW5W82J-es Surplex Rascador de silicona 3 en 1 kit de herramienta de...'
 sku: 'B07QW5W82J-es'
 tags: [  ]

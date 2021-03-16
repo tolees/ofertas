@@ -5,7 +5,7 @@ date: 2020-01-14 14:53:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419OlAA3rpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JDXBHNF-es Crocs Crocband Rain Boot Kids Botas de Agua Unisex Niños...'
 sku: 'B07JDXBHNF-es'
 tags: [  ]

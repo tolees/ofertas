@@ -5,7 +5,7 @@ date: 2020-01-27 15:34:59
 image: 'https://m.media-amazon.com/images/I/41lj-fd10+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018JT55NU-es Levi s LEVIS 200SF BRIEF 2P - Calzoncillo Hombre Azul...'
 sku: 'B018JT55NU-es'
 tags: [  ]

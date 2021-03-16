@@ -5,7 +5,7 @@ date: 2020-09-09 21:36:26
 image: 'https://m.media-amazon.com/images/I/41F-Xp6lX5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004JI83RQ-es Seiko Reloj con Correa de Acero para Hombre SNKK71K1'
 sku: 'B004JI83RQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-16 17:42:16
 image: 'https://m.media-amazon.com/images/I/41miuWJMooL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DXX2L2C-es Nestlé Papillas NESTUM Cereales para bebé con galleta - 3...'
 sku: 'B07DXX2L2C-es'
 tags: [  ]

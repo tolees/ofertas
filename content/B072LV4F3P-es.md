@@ -5,7 +5,7 @@ date: 2020-08-03 20:21:45
 image: 'https://m.media-amazon.com/images/I/419FCnNiqwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072LV4F3P-es BRTLX Bombillas de Vela LED E14 7W Equivalente a 40W...'
 sku: 'B072LV4F3P-es'
 tags: [  ]

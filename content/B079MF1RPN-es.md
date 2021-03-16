@@ -5,7 +5,7 @@ date: 2020-07-13 14:04:14
 image: 'https://m.media-amazon.com/images/I/518O4mgV3JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MF1RPN-es QH-Shop Mosquitera Puertas Mosquitera Magnética Automático...'
 sku: 'B079MF1RPN-es'
 tags: [  ]

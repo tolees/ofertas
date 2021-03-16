@@ -5,7 +5,7 @@ date: 2020-03-18 20:20:10
 image: 'https://m.media-amazon.com/images/I/41c0UY79upL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002AQI7M-es Marina 11061 Limpiador de Grava Easy Clean S'
 sku: 'B0002AQI7M-es'
 tags: [  ]

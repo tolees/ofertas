@@ -5,7 +5,7 @@ date: 2020-03-28 16:50:32
 image: 'https://m.media-amazon.com/images/I/41-5isA5i5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QNF4X3-es Zapatillas de Taekwondo Cómodos Antideslizantes Zapatillas...'
 sku: 'B077QNF4X3-es'
 tags: [  ]

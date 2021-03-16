@@ -5,7 +5,7 @@ date: 2020-06-26 19:45:37
 image: 'https://m.media-amazon.com/images/I/41AzMKuLFrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0893TFYL4-es TianTa Funda para Galaxy Tab A 8.0 2019 SM-T290/T295...'
 sku: 'B0893TFYL4-es'
 tags: [  ]

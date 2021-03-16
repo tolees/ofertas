@@ -5,7 +5,7 @@ date: 2020-08-07 22:00:15
 image: 'https://m.media-amazon.com/images/I/51YndxZLJmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IAGSD5O-es Crucial MX300 CT275MX300SSD1 - Disco Duro sólido Interno...'
 sku: 'B01IAGSD5O-es'
 tags: [  ]

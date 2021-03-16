@@ -5,7 +5,7 @@ date: 2020-02-13 10:33:45
 image: 'https://m.media-amazon.com/images/I/51y75REj4XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T136WCN-es BSDY YQWRFEWYT Repuesto para Cecotec Conga Excellence 990...'
 sku: 'B07T136WCN-es'
 tags: [  ]

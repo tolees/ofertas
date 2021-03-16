@@ -5,7 +5,7 @@ date: 2020-05-08 09:05:31
 image: 'https://m.media-amazon.com/images/I/519dGixq7PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719TS7XY-es TAZA MICRO 350 ML | AVENGERS GALLERY'
 sku: 'B0719TS7XY-es'
 tags: [  ]

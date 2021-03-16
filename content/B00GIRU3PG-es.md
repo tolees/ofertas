@@ -5,7 +5,7 @@ date: 2020-02-15 04:57:05
 image: 'https://m.media-amazon.com/images/I/41tCHxOI3lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GIRU3PG-es B+W Vario XS-Pro - Filtro ND de 58 mm MRC Nano'
 sku: 'B00GIRU3PG-es'
 tags: [  ]

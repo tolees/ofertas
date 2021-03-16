@@ -5,7 +5,7 @@ date: 2020-10-03 14:20:28
 image: 'https://m.media-amazon.com/images/I/41qHJxuvh8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089Y2RHR9-es Clevefun - Cable USB C 1 m 2 unidades nailon resistente...'
 sku: 'B089Y2RHR9-es'
 tags: [  ]

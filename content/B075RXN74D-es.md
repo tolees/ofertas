@@ -5,7 +5,7 @@ date: 2020-09-10 21:14:15
 image: 'https://m.media-amazon.com/images/I/31VIRhuIBCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RXN74D-es MRCOOL Lámpara de Noche con Altavoz Bluetooth Lámpara de...'
 sku: 'B075RXN74D-es'
 tags: [  ]

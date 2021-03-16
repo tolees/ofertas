@@ -5,7 +5,7 @@ date: 2020-08-12 17:49:49
 image: 'https://m.media-amazon.com/images/I/41wJPTlq5QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YB47HC5-es Pantalla HD Mini cámara Digital Recargable Niños Dibujos...'
 sku: 'B07YB47HC5-es'
 tags: [  ]

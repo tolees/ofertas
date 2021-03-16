@@ -5,7 +5,7 @@ date: 2020-05-09 15:12:37
 image: 'https://m.media-amazon.com/images/I/31AoFigW7TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077T1MGH4-es Panasonic RP-HTX80BE-K - Auriculares Bluetooth Diadema 24...'
 sku: 'B077T1MGH4-es'
 tags: [  ]

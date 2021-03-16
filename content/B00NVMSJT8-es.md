@@ -5,7 +5,7 @@ date: 2020-01-03 11:45:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51CB1bfp%2BrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NVMSJT8-es Mantona 20142 - Bolsa para cámara Color Rojo'
 sku: 'B00NVMSJT8-es'
 tags: [  ]

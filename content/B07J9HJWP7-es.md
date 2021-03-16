@@ -5,7 +5,7 @@ date: 2020-02-23 17:36:43
 image: 'https://m.media-amazon.com/images/I/51cGxN6EVLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9HJWP7-es Awenia Calcetines de Compresión Deportivos Medias...'
 sku: 'B07J9HJWP7-es'
 tags: [  ]

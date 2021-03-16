@@ -5,7 +5,7 @@ date: 2020-02-11 13:36:55
 image: 'https://m.media-amazon.com/images/I/414640zgTpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMYFM1G-es Adidas ASWEERUN Zapatillas de deporte Hombre Negro...'
 sku: 'B07JMYFM1G-es'
 tags: [  ]

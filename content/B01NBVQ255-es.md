@@ -5,7 +5,7 @@ date: 2020-08-27 18:37:40
 image: 'https://m.media-amazon.com/images/I/413AGacnMKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBVQ255-es Hugo BOSS - Reloj para hombre - 1513460'
 sku: 'B01NBVQ255-es'
 tags: [  ]

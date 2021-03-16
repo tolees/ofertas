@@ -5,7 +5,7 @@ date: 2020-06-11 08:51:35
 image: 'https://m.media-amazon.com/images/I/5152SgfPJHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNWY64W-es SNAPTAIN Mini Drone H823H Plus con 3 baterías para 21...'
 sku: 'B07MNWY64W-es'
 tags: [  ]

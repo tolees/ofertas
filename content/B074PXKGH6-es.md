@@ -5,7 +5,7 @@ date: 2020-04-14 21:34:26
 image: 'https://m.media-amazon.com/images/I/51IaOmAAnyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PXKGH6-es Hugo BOSS Reloj Análogo clásico para Hombre de Cuarzo con...'
 sku: 'B074PXKGH6-es'
 tags: [  ]

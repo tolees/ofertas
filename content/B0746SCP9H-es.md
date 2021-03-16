@@ -5,7 +5,7 @@ date: 2019-12-31 15:43:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31UV2uOlPhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0746SCP9H-es L Oréal Paris Make-up designer Accord Parfait Base...'
 sku: 'B0746SCP9H-es'
 tags: [  ]

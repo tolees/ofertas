@@ -5,7 +5,7 @@ date: 2020-02-29 13:51:20
 image: 'https://m.media-amazon.com/images/I/41KfnUYhpRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD29NH7-es MTNG Attitude 69643 Zapatillas para Mujer Multicolor Soft...'
 sku: 'B07QD29NH7-es'
 tags: [  ]

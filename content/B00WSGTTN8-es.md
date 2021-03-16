@@ -5,7 +5,7 @@ date: 2020-07-30 19:33:28
 image: 'https://m.media-amazon.com/images/I/41zpSj6xltL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WSGTTN8-es Compo Compo Fazilo Insecticida Acción Total Para plantas...'
 sku: 'B00WSGTTN8-es'
 tags: [  ]

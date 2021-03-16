@@ -5,7 +5,7 @@ date: 2020-06-19 21:47:06
 image: 'https://m.media-amazon.com/images/I/614KUrCBsyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAP1MEA-es Haribo - Lampions Rojos - Geles dulces - 2 kg'
 sku: 'B00XAP1MEA-es'
 tags: [  ]

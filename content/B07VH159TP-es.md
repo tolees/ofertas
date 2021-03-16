@@ -5,7 +5,7 @@ date: 2020-04-11 15:13:39
 image: 'https://m.media-amazon.com/images/I/5103rW+ifGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VH159TP-es NEW C 2 Unidades Protector de Pantalla para Huawei Mate...'
 sku: 'B07VH159TP-es'
 tags: [  ]

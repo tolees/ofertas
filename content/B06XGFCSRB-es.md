@@ -5,7 +5,7 @@ date: 2020-07-21 08:37:45
 image: 'https://m.media-amazon.com/images/I/31M3aurZsKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGFCSRB-es find. Zapato de Cordones Piel Grabada para Hombre Negro...'
 sku: 'B06XGFCSRB-es'
 tags: [  ]

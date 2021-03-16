@@ -5,7 +5,7 @@ date: 2020-01-15 23:06:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BkfbLtVjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077Y3GCD4-es Sennheiser CX 6.00BT - Auriculares inalámbricos...'
 sku: 'B077Y3GCD4-es'
 tags: [  ]

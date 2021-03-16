@@ -5,7 +5,7 @@ date: 2020-07-18 12:49:33
 image: 'https://m.media-amazon.com/images/I/31kOi3VyeSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBN9JTD-es Pepe Jeans Adams Logo Zapatillas para Mujer Color Blanco...'
 sku: 'B07VBN9JTD-es'
 tags: [  ]

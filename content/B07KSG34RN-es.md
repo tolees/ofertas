@@ -5,7 +5,7 @@ date: 2020-02-12 15:50:47
 image: 'https://m.media-amazon.com/images/I/51Nzjjnfp-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSG34RN-es WERKFIX Juego de 15 Llaves Fijas Combinadas 6-21 mm'
 sku: 'B07KSG34RN-es'
 tags: [  ]

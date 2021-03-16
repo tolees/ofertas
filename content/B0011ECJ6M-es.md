@@ -5,7 +5,7 @@ date: 2020-06-17 09:02:37
 image: 'https://m.media-amazon.com/images/I/412hzbaLZmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0011ECJ6M-es DeLOCK Cable Power SATA 15pin > 2X SATA HDD – Straight 0...'
 sku: 'B0011ECJ6M-es'
 tags: [  ]

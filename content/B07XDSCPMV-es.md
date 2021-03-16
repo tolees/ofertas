@@ -5,7 +5,7 @@ date: 2020-01-23 08:57:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NCOhw4%2BYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDSCPMV-es UMIDIGI Reloj Inteligente Pulsera Actividad con Pulsómetro...'
 sku: 'B07XDSCPMV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 03:43:47
 image: 'https://m.media-amazon.com/images/I/31E-hN68tVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFB8L41-es MaoXinTek Sofa Hinchable Tumbona Inflable con Paquete...'
 sku: 'B07WFB8L41-es'
 tags: [  ]

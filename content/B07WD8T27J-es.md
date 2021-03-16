@@ -5,7 +5,7 @@ date: 2020-08-21 09:01:15
 image: 'https://m.media-amazon.com/images/I/41NLvVhuNrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WD8T27J-es Relaxdays Marrón Pasamanos Escalera Redondo para Interior...'
 sku: 'B07WD8T27J-es'
 tags: [  ]

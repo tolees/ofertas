@@ -5,7 +5,7 @@ date: 2020-04-15 23:22:54
 image: 'https://m.media-amazon.com/images/I/41IGew6NqRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJ28Z9H-es GY6 125CC 150CC GY6 PD24J QMI152 QMJ157 para Motor Scooter...'
 sku: 'B07HJ28Z9H-es'
 tags: [  ]

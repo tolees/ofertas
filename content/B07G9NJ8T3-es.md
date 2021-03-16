@@ -5,7 +5,7 @@ date: 2020-09-07 12:55:20
 image: 'https://m.media-amazon.com/images/I/41CCPSjXicL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9NJ8T3-es LolaPix Caja Merienda Unicornio Vuelta al Cole...'
 sku: 'B07G9NJ8T3-es'
 tags: [  ]

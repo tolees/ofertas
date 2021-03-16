@@ -5,7 +5,7 @@ date: 2020-05-13 09:55:32
 image: 'https://m.media-amazon.com/images/I/419kAdVdpdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JN2GXWM-es Buffalo Corin Zapatillas Altas para Mujer Blanco White 000...'
 sku: 'B07JN2GXWM-es'
 tags: [  ]

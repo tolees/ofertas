@@ -5,7 +5,7 @@ date: 2020-03-15 12:50:51
 image: 'https://m.media-amazon.com/images/I/41jk8FZVCcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085GC7SMY-es VIPITH Máscara facial de gasa transpirable desechable...'
 sku: 'B085GC7SMY-es'
 tags: [  ]

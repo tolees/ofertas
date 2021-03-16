@@ -5,7 +5,7 @@ date: 2020-04-17 00:35:26
 image: 'https://m.media-amazon.com/images/I/5151wAH3DVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082QPQMMQ-es SEELOK Lentejuelas Redondas Planas 24 bolsas Lentejuelas...'
 sku: 'B082QPQMMQ-es'
 tags: [  ]

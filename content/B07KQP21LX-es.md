@@ -5,7 +5,7 @@ date: 2020-01-25 11:09:36
 image: 'https://m.media-amazon.com/images/I/31YPKQS-oJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQP21LX-es Salomon ALPHACROSS W Zapatillas de Trail Running para...'
 sku: 'B07KQP21LX-es'
 tags: [  ]

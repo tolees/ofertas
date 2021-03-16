@@ -5,7 +5,7 @@ date: 2020-10-12 16:45:29
 image: 'https://m.media-amazon.com/images/I/51Di75yCOUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GFCYZRN-es Tarjeta Micro SD de 400 GB de alta velocidad clase 10...'
 sku: 'B08GFCYZRN-es'
 tags: [  ]

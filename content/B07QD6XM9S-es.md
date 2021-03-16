@@ -5,7 +5,7 @@ date: 2020-03-15 13:45:21
 image: 'https://m.media-amazon.com/images/I/411uwCi4djL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD6XM9S-es PUMA ESS Logo Beanie Gorro Unisex Adulto Black-Big Cat'
 sku: 'B07QD6XM9S-es'
 tags: [  ]

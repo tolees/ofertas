@@ -5,7 +5,7 @@ date: 2020-09-12 15:02:36
 image: 'https://m.media-amazon.com/images/I/41CXJ+bOh-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RSXPRPH-es American Tourister Summerfunk Equipaje de Mano 55...'
 sku: 'B07RSXPRPH-es'
 tags: [  ]

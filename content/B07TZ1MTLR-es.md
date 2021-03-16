@@ -5,7 +5,7 @@ date: 2020-08-10 19:29:40
 image: 'https://m.media-amazon.com/images/I/41nWI7sw93L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ1MTLR-es Kipling Gabbie S Bolsos Bandolera para Mujer Rojo Metallic...'
 sku: 'B07TZ1MTLR-es'
 tags: [  ]

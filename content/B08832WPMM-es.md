@@ -5,7 +5,7 @@ date: 2020-05-14 17:02:05
 image: 'https://m.media-amazon.com/images/I/419-N2+U60L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08832WPMM-es Lector de Tarjetas de Memoria Secure Digital USB Micro USB...'
 sku: 'B08832WPMM-es'
 tags: [  ]

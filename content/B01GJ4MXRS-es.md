@@ -5,7 +5,7 @@ date: 2020-10-09 17:58:07
 image: 'https://m.media-amazon.com/images/I/311J6-4DIXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GJ4MXRS-es Essie Gel Couture Laca de Uñas Tono: 410 Hung Up the Heels'
 sku: 'B01GJ4MXRS-es'
 tags: [  ]

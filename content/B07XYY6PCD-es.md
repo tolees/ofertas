@@ -5,7 +5,7 @@ date: 2020-02-23 14:37:10
 image: 'https://m.media-amazon.com/images/I/51E9jM81SYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XYY6PCD-es SaponinTree Humidificador Aromaterapia Ultrasónico 550ML...'
 sku: 'B07XYY6PCD-es'
 tags: [  ]

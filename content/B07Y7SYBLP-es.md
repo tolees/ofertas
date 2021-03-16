@@ -5,7 +5,7 @@ date: 2020-09-25 11:01:14
 image: 'https://m.media-amazon.com/images/I/41ewU4NdwUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7SYBLP-es Carcasa de silicona transparente y ultrafina para Samsung...'
 sku: 'B07Y7SYBLP-es'
 tags: [  ]

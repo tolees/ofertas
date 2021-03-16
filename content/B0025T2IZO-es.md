@@ -5,7 +5,7 @@ date: 2020-03-06 19:22:11
 image: 'https://m.media-amazon.com/images/I/41PLUbqf0gL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0025T2IZO-es Stargazer Sombra de ojos Negro Pack of 2 x 3.5gr 7 gr'
 sku: 'B0025T2IZO-es'
 tags: [  ]

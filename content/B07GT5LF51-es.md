@@ -5,7 +5,7 @@ date: 2020-02-06 20:57:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jRyjwzDgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GT5LF51-es Desigual - Bag Orangina Capri Zipper Women Shoppers y...'
 sku: 'B07GT5LF51-es'
 tags: [  ]

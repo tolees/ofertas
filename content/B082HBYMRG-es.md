@@ -5,7 +5,7 @@ date: 2020-04-14 16:35:11
 image: 'https://m.media-amazon.com/images/I/51S+RR0eKkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBYMRG-es ART VVIES Wandbild 24x24 Zoll Kunst Malerei mit Haken...'
 sku: 'B082HBYMRG-es'
 tags: [  ]

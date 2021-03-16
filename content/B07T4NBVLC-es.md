@@ -5,7 +5,7 @@ date: 2020-06-02 06:53:54
 image: 'https://m.media-amazon.com/images/I/41M6kfAH7tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4NBVLC-es REYLEO Maleta de Cabina Rígida Ligera Equipaje de Mano de...'
 sku: 'B07T4NBVLC-es'
 tags: [  ]

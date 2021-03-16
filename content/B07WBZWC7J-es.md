@@ -5,7 +5,7 @@ date: 2020-04-27 00:26:29
 image: 'https://m.media-amazon.com/images/I/41pL-6khfnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WBZWC7J-es Jack & Jones Jcomilla Sweat Hood Capucha Multicolor Light...'
 sku: 'B07WBZWC7J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-13 19:47:52
 image: 'https://m.media-amazon.com/images/I/31+-QG11kjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0885WGJJV-es Vaporizador de Tela portátil Fast-Heat 1200W Potente...'
 sku: 'B0885WGJJV-es'
 tags: [  ]

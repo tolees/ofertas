@@ -5,7 +5,7 @@ date: 2020-08-06 16:03:17
 image: 'https://m.media-amazon.com/images/I/51tRSIQG2DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08637MGNL-es Locisne Portátil 14-en-1 Ultra Push Up Board Bracket Board...'
 sku: 'B08637MGNL-es'
 tags: [  ]

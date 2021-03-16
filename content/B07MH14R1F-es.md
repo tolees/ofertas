@@ -5,7 +5,7 @@ date: 2020-04-11 18:35:12
 image: 'https://m.media-amazon.com/images/I/418qmlFhFPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MH14R1F-es UniqueMe Funda para Huawei P30 Ultra [Slim Thin] TPU Funda...'
 sku: 'B07MH14R1F-es'
 tags: [  ]

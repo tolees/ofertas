@@ -5,7 +5,7 @@ date: 2020-05-08 11:16:45
 image: 'https://m.media-amazon.com/images/I/51gSRlmju5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FZ3TSJ1-es MEDION AKOYA PCC722 - Ordenador de sobremesa Intel Core...'
 sku: 'B07FZ3TSJ1-es'
 tags: [  ]

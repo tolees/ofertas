@@ -5,7 +5,7 @@ date: 2020-09-06 18:31:21
 image: 'https://m.media-amazon.com/images/I/41NqSUkemEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PYAJCCS-es Control Senso Preservativos - Pack de 24 preservativos'
 sku: 'B00PYAJCCS-es'
 tags: [  ]

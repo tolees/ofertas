@@ -5,7 +5,7 @@ date: 2020-05-14 07:51:48
 image: 'https://m.media-amazon.com/images/I/410vpoGozUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UVVY0Y-es McDavid 414R Cincha Unisex adulto Negro Única'
 sku: 'B000UVVY0Y-es'
 tags: [  ]

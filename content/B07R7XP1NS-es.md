@@ -5,7 +5,7 @@ date: 2020-01-13 11:46:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/514V4sewDWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7XP1NS-es Columbia Buga Conjunto para la Nieve Niños Mezclar rosa /...'
 sku: 'B07R7XP1NS-es'
 tags: [  ]

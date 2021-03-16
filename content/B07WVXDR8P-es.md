@@ -5,7 +5,7 @@ date: 2020-03-21 10:08:19
 image: 'https://m.media-amazon.com/images/I/51i56tVNy2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVXDR8P-es TAIFU - Adaptador de alimentación CA 65 W Chargeur...'
 sku: 'B07WVXDR8P-es'
 tags: [  ]

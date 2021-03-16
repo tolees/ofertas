@@ -5,7 +5,7 @@ date: 2020-06-06 19:06:27
 image: 'https://m.media-amazon.com/images/I/41VSx9lzSFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BG5W74A-es Bosch ErgoMixx MSM66150 - Batidora de mano 600 W con vaso...'
 sku: 'B00BG5W74A-es'
 tags: [  ]

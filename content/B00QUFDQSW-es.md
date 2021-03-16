@@ -5,7 +5,7 @@ date: 2020-04-26 08:41:08
 image: 'https://m.media-amazon.com/images/I/51LlGh9phyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QUFDQSW-es Scitec Nutrition Hot Blood 3.0 Complejo estimulante de...'
 sku: 'B00QUFDQSW-es'
 tags: [  ]

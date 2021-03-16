@@ -5,7 +5,7 @@ date: 2020-03-23 13:43:32
 image: 'https://m.media-amazon.com/images/I/31uwq-rWCDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SLMS8HY-es Qkiss Rejuvenecimiento Facial Máquina Cuidado Facial de la...'
 sku: 'B07SLMS8HY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-15 05:43:10
 image: 'https://m.media-amazon.com/images/I/41PTAlXUtVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GH2R45H-es Skechers Men s Stamina-CONTIC Trainers Grey Gray & Red...'
 sku: 'B07GH2R45H-es'
 tags: [  ]

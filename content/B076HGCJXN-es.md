@@ -5,7 +5,7 @@ date: 2020-09-19 15:31:36
 image: 'https://m.media-amazon.com/images/I/51O-tRC37FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HGCJXN-es Balvi salvamanteles Tomato Sauce En Forma de Bote de...'
 sku: 'B076HGCJXN-es'
 tags: [  ]

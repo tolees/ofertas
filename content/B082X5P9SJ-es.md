@@ -5,7 +5,7 @@ date: 2020-05-21 08:02:59
 image: 'https://m.media-amazon.com/images/I/514-4UYF1WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082X5P9SJ-es 2 piezas Protecciones para bordes y esquinas Protecciones...'
 sku: 'B082X5P9SJ-es'
 tags: [  ]

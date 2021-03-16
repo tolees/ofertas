@@ -5,7 +5,7 @@ date: 2020-04-03 17:10:41
 image: 'https://m.media-amazon.com/images/I/413D1g7xiZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2GPDSB-es GRAT.UNIC Pantalones Cortos de Bicicleta Shorts de...'
 sku: 'B07T2GPDSB-es'
 tags: [  ]

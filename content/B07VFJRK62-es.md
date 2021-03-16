@@ -5,7 +5,7 @@ date: 2020-08-21 13:37:23
 image: 'https://m.media-amazon.com/images/I/31o7tEJ6kBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFJRK62-es Skechers Flex Advantage 3.0 Landess Zapatillas para Hombre...'
 sku: 'B07VFJRK62-es'
 tags: [  ]

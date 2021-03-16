@@ -5,7 +5,7 @@ date: 2020-09-12 09:07:23
 image: 'https://m.media-amazon.com/images/I/41mwTUMARKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0779DRZYZ-es adidas Entrada 18 JSY T-Shirt Hombre Black/White 2XL'
 sku: 'B0779DRZYZ-es'
 tags: [  ]

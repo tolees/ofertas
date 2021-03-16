@@ -5,7 +5,7 @@ date: 2020-08-24 10:48:40
 image: 'https://m.media-amazon.com/images/I/41fvKLR6LUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VR3PJKZ-es Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta Azul...'
 sku: 'B07VR3PJKZ-es'
 tags: [  ]

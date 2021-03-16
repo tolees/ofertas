@@ -5,7 +5,7 @@ date: 2020-09-07 11:33:23
 image: 'https://m.media-amazon.com/images/I/41L3+OVvpuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2S5SK2-es Levi s Relaxed Graphic Hoodie Capucha Negro 90 s Serif...'
 sku: 'B07S2S5SK2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-24 17:30:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mtMpA4iwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQRH898-es Cámaras Espía Oculta HD 1080P 120°Gran Angular Grabadora...'
 sku: 'B07PQRH898-es'
 tags: [  ]

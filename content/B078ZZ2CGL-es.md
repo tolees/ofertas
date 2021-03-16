@@ -5,7 +5,7 @@ date: 2020-07-17 12:27:01
 image: 'https://m.media-amazon.com/images/I/518Gx8mbDQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078ZZ2CGL-es TRESemmé Champú Cuidado Clásico - Paquete de 4 x 900 ml -...'
 sku: 'B078ZZ2CGL-es'
 tags: [  ]

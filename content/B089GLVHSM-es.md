@@ -5,7 +5,7 @@ date: 2020-07-17 14:32:32
 image: 'https://m.media-amazon.com/images/I/41nSmht8jbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GLVHSM-es 3.5mm Auriculares Auriculares Auriculares Auriculares...'
 sku: 'B089GLVHSM-es'
 tags: [  ]

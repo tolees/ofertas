@@ -5,7 +5,7 @@ date: 2020-09-08 13:44:45
 image: 'https://m.media-amazon.com/images/I/317cmD-YP3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KB9XT4Q-es Nyx Professional Makeup Corrector No Comedogénico...'
 sku: 'B07KB9XT4Q-es'
 tags: [  ]

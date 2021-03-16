@@ -5,7 +5,7 @@ date: 2020-01-28 11:12:23
 image: 'https://m.media-amazon.com/images/I/41tgdUVJfHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JKE1T70-es Repuesto de bombilla Foxnovo en forma de U de 9 W y 365...'
 sku: 'B00JKE1T70-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 10:23:40
 image: 'https://m.media-amazon.com/images/I/31f1tdWg6vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y4XUTGE-es Lacoste Ph4014 Polo para Hombre Blanco White Large Talla...'
 sku: 'B00Y4XUTGE-es'
 tags: [  ]

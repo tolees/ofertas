@@ -5,7 +5,7 @@ date: 2020-09-04 06:13:13
 image: 'https://m.media-amazon.com/images/I/31UQo7ZH-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F277MLV-es NKare - Dispensador de Jabón automático de Pie 1L Sensor...'
 sku: 'B08F277MLV-es'
 tags: [  ]

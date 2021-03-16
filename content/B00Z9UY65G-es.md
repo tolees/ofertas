@@ -5,7 +5,7 @@ date: 2020-05-20 12:54:11
 image: 'https://m.media-amazon.com/images/I/31xPDWXwzzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z9UY65G-es Anker PowerCore 13000 Batería externa Universal Micro-USB...'
 sku: 'B00Z9UY65G-es'
 tags: [  ]

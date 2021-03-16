@@ -5,7 +5,7 @@ date: 2020-04-14 09:00:05
 image: 'https://m.media-amazon.com/images/I/41n08cWZBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X6TK0OS-es Phenovo 100pcs 5.5cm Díametro Tarjetas Redondas...'
 sku: 'B00X6TK0OS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-06 22:30:43
 image: 'https://m.media-amazon.com/images/I/41p23zIzOZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ZUXTUU-es Casio Reloj de Pulsera W-S210H-1AVEF'
 sku: 'B003ZUXTUU-es'
 tags: [  ]

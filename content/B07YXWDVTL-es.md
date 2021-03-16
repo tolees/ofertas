@@ -5,7 +5,7 @@ date: 2020-04-21 10:49:47
 image: 'https://m.media-amazon.com/images/I/51VtSu-cAPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXWDVTL-es Mansso Cámara para Niños con Tarjeta TF 16GB Cámara...'
 sku: 'B07YXWDVTL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-13 08:07:16
 image: 'https://m.media-amazon.com/images/I/41J0Qp6p2QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WP7WHSM-es Funda Protectora para Huawei MediaPad M6 10.8 Pulgadas...'
 sku: 'B07WP7WHSM-es'
 tags: [  ]

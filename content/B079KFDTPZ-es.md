@@ -5,7 +5,7 @@ date: 2020-02-22 09:50:47
 image: 'https://m.media-amazon.com/images/I/41QSpy5qCHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KFDTPZ-es BULLPADEL GOLD EDITION JUNIOR'
 sku: 'B079KFDTPZ-es'
 tags: [  ]

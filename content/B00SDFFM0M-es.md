@@ -5,7 +5,7 @@ date: 2020-09-30 11:08:40
 image: 'https://m.media-amazon.com/images/I/41iTcJcNWaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SDFFM0M-es Topcom RC-6430 – Walkie-talkie alcance hasta 3 km número...'
 sku: 'B00SDFFM0M-es'
 tags: [  ]

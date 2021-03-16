@@ -5,7 +5,7 @@ date: 2020-02-23 08:19:29
 image: 'https://m.media-amazon.com/images/I/51vW1A04uIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HP6GC85-es Emma & Giovanni - Pullover - Top - Mujer XL/XXL Verde'
 sku: 'B07HP6GC85-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-05 18:08:38
 image: 'https://m.media-amazon.com/images/I/51BH1LVGJwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPQCQRG-es Outgeek Luz De Cadena 20 Luces de Bombillas LED luz de luz...'
 sku: 'B07NPQCQRG-es'
 tags: [  ]

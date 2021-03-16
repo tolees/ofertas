@@ -5,7 +5,7 @@ date: 2020-01-31 09:18:44
 image: 'https://m.media-amazon.com/images/I/410bYPy8sRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DDND7C-es Clatronic WKS 3691 Hervidor de Agua Eléctrico 2200 W 1.5...'
 sku: 'B079DDND7C-es'
 tags: [  ]

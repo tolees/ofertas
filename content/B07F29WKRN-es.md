@@ -5,7 +5,7 @@ date: 2020-06-15 12:07:50
 image: 'https://m.media-amazon.com/images/I/61I+4bKkQJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F29WKRN-es NEWHEY Bolsa Deporte Bolsa Gimnasio de Viaje Impermeable...'
 sku: 'B07F29WKRN-es'
 tags: [  ]

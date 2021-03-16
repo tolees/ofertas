@@ -5,7 +5,7 @@ date: 2020-09-20 08:02:51
 image: 'https://m.media-amazon.com/images/I/41tR53BhCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085BLYZG7-es YIMINYUER Juego de Alfombrillas de Espuma EVA para niños...'
 sku: 'B085BLYZG7-es'
 tags: [  ]

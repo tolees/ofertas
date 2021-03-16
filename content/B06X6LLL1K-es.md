@@ -5,7 +5,7 @@ date: 2020-01-10 11:50:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31AXlM0A1QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6LLL1K-es Braun MQ 3025 Spaghetti - Licuadora 600 L 0 35 L Botones...'
 sku: 'B06X6LLL1K-es'
 tags: [  ]

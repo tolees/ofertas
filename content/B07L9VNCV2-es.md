@@ -5,7 +5,7 @@ date: 2020-01-05 21:01:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414NK91qtNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9VNCV2-es Auriculares Inalámbricos Verdaderos iHaper TWS Audífonos...'
 sku: 'B07L9VNCV2-es'
 tags: [  ]

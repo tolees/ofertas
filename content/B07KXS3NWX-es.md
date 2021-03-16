@@ -5,7 +5,7 @@ date: 2020-07-22 08:11:21
 image: 'https://m.media-amazon.com/images/I/416ARUaTYTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXS3NWX-es P Prettyia 1 Juego de Tornillos Accesorios de Fotografía...'
 sku: 'B07KXS3NWX-es'
 tags: [  ]

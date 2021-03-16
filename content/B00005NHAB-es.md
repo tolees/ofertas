@@ -5,7 +5,7 @@ date: 2020-01-09 06:52:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zuna25UqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00005NHAB-es HP C7115X - Tóner color negro'
 sku: 'B00005NHAB-es'
 tags: [  ]

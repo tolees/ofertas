@@ -5,7 +5,7 @@ date: 2020-08-20 15:11:07
 image: 'https://m.media-amazon.com/images/I/513WxN9iZkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083P1DLVP-es HERSITY Mini Camiones de Construccion Metal 5 Vehículos de...'
 sku: 'B083P1DLVP-es'
 tags: [  ]

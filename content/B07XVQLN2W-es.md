@@ -5,7 +5,7 @@ date: 2020-07-28 11:40:31
 image: 'https://m.media-amazon.com/images/I/41xKW-s97qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVQLN2W-es Esprit 119EE1G007 Torera Negro Black 001 M para Mujer'
 sku: 'B07XVQLN2W-es'
 tags: [  ]

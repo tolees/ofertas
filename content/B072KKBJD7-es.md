@@ -5,7 +5,7 @@ date: 2020-06-22 22:33:03
 image: 'https://m.media-amazon.com/images/I/4133oMmqhQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KKBJD7-es PUMA 074892 01 Bolsa Mediana Unisex Adulto Negro Talla única'
 sku: 'B072KKBJD7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-24 18:03:35
 image: 'https://m.media-amazon.com/images/I/41pyrZQ6EOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFWTZNK-es PUMA AURIZ JR Zapatillas de Balonmano Unisex niños Blanco...'
 sku: 'B07KFWTZNK-es'
 tags: [  ]

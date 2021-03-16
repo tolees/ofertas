@@ -5,7 +5,7 @@ date: 2020-01-29 20:50:02
 image: 'https://m.media-amazon.com/images/I/41U4aDpNUpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZY8STF-es Skechers Ultra Flex 2.0-Kelmer Zapatillas para Hombre...'
 sku: 'B07NZY8STF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-01 16:00:48
 image: 'https://m.media-amazon.com/images/I/61N1rY1HKpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V69QMK1-es Neusky - Aspersor de agua para niños bebés y perros en verano'
 sku: 'B07V69QMK1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 10:10:17
 image: 'https://m.media-amazon.com/images/I/41Z7KAYrnyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A3BOFSO-es Dodot Toallitas Para Bebé 1 Paquetes 64 Toallitas'
 sku: 'B00A3BOFSO-es'
 tags: [  ]

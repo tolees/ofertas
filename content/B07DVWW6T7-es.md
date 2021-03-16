@@ -5,7 +5,7 @@ date: 2020-01-13 12:07:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qyDCGRbqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVWW6T7-es Columbia Trans Alps F.k.t. II Zapatillas de Running para...'
 sku: 'B07DVWW6T7-es'
 tags: [  ]

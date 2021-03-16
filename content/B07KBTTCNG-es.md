@@ -5,7 +5,7 @@ date: 2020-04-15 00:41:40
 image: 'https://m.media-amazon.com/images/I/51f9z8v6doL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBTTCNG-es LIGHTAILING Conjunto de Luces Star Wars Estrella De La...'
 sku: 'B07KBTTCNG-es'
 tags: [  ]

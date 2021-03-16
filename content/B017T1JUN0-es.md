@@ -5,7 +5,7 @@ date: 2020-02-10 16:52:30
 image: 'https://m.media-amazon.com/images/I/41qXy+yOIaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017T1JUN0-es ID Italian Design | Cepillo Eléctrico Alisador para el...'
 sku: 'B017T1JUN0-es'
 tags: [  ]

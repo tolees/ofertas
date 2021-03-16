@@ -5,7 +5,7 @@ date: 2020-04-18 18:12:16
 image: 'https://m.media-amazon.com/images/I/41Zp05OxewL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL183DR-es New Balance Fuel Core Sonic V2 Zapatillas de Running para...'
 sku: 'B07BL183DR-es'
 tags: [  ]

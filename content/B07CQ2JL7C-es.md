@@ -5,7 +5,7 @@ date: 2020-07-17 09:43:32
 image: 'https://m.media-amazon.com/images/I/51vum7fIABL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CQ2JL7C-es Brillante Benefit Legumbres Chía Verduras 250G - [Pack De...'
 sku: 'B07CQ2JL7C-es'
 tags: [  ]

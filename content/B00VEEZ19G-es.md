@@ -5,7 +5,7 @@ date: 2020-08-23 20:38:42
 image: 'https://m.media-amazon.com/images/I/31RLxQn41rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VEEZ19G-es JVC HA-FX10-B-E - Auriculares In-Ear Color Negro'
 sku: 'B00VEEZ19G-es'
 tags: [  ]

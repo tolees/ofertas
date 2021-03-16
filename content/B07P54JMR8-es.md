@@ -5,7 +5,7 @@ date: 2020-04-19 08:40:15
 image: 'https://m.media-amazon.com/images/I/41w9YYiPccL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P54JMR8-es Sotech - Cuna Bouncer Bouncer para Bebés Patrón de Leon...'
 sku: 'B07P54JMR8-es'
 tags: [  ]

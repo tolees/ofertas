@@ -5,7 +5,7 @@ date: 2020-04-07 16:04:22
 image: 'https://m.media-amazon.com/images/I/41B5BgVKD1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJWG62F-es Triumph Amourette 300 W X Sujetador con Aros Negro Black...'
 sku: 'B07CJWG62F-es'
 tags: [  ]

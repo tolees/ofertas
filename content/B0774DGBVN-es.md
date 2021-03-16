@@ -5,7 +5,7 @@ date: 2020-05-08 07:47:57
 image: 'https://m.media-amazon.com/images/I/41XOmI8HY2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774DGBVN-es Calcetines antideslizantes de algodón 3 pares para pilates...'
 sku: 'B0774DGBVN-es'
 tags: [  ]

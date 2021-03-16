@@ -5,7 +5,7 @@ date: 2020-01-20 16:19:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513D69SqjPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNL26YB-es deAO Juego de Herramientas y Accessorios Taller de...'
 sku: 'B07BNL26YB-es'
 tags: [  ]

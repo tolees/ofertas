@@ -5,7 +5,7 @@ date: 2020-02-24 02:25:57
 image: 'https://m.media-amazon.com/images/I/41VAwA7dEBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3GBHPD-es The Indian Face Windsurf Gorra Born to Windsurf Hombre y...'
 sku: 'B07Q3GBHPD-es'
 tags: [  ]

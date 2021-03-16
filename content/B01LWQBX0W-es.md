@@ -5,7 +5,7 @@ date: 2020-04-05 17:03:12
 image: 'https://m.media-amazon.com/images/I/414lGd6bb5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWQBX0W-es Tefal C620SET3 - Juego de 3 Sartenes Aluminio de 21 24 y...'
 sku: 'B01LWQBX0W-es'
 tags: [  ]

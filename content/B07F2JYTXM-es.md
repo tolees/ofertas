@@ -5,7 +5,7 @@ date: 2020-06-23 13:25:19
 image: 'https://m.media-amazon.com/images/I/41ZWcUJ8DZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2JYTXM-es PUMA Axis Zapatillas Unisex-Adulto Blanco White/Peacoat 40 EU'
 sku: 'B07F2JYTXM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 08:17:23
 image: 'https://m.media-amazon.com/images/I/31uy8opRfUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087J3MHKJ-es ZoneYan Mini Ventilador USB Portatil Ventilador de Mano...'
 sku: 'B087J3MHKJ-es'
 tags: [  ]

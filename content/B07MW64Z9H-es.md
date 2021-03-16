@@ -5,7 +5,7 @@ date: 2020-09-02 08:02:40
 image: 'https://m.media-amazon.com/images/I/512XD+vlp5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MW64Z9H-es E·Durable Soldador estaño 60W 220V Kit del Soldador 200 ℃...'
 sku: 'B07MW64Z9H-es'
 tags: [  ]

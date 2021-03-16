@@ -5,7 +5,7 @@ date: 2020-01-15 12:44:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51LBeJitMyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBTY4RV-es Cadena de luces exterior luz cadena Bombillas exterior...'
 sku: 'B07GBTY4RV-es'
 tags: [  ]

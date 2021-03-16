@@ -5,7 +5,7 @@ date: 2020-02-03 09:04:29
 image: 'https://m.media-amazon.com/images/I/41I01L+lGkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BR5B62Q-es L Oreal Paris Colorista Hair Make Up Chocolate Rose'
 sku: 'B07BR5B62Q-es'
 tags: [  ]

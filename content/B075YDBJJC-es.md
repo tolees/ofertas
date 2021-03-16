@@ -5,7 +5,7 @@ date: 2020-01-07 19:34:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/314h1H3sILL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YDBJJC-es Facetoworld Lampada da Tavolo 4W Luce LED Pieghevole Touch...'
 sku: 'B075YDBJJC-es'
 tags: [  ]

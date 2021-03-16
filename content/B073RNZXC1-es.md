@@ -5,7 +5,7 @@ date: 2020-08-03 15:10:17
 image: 'https://m.media-amazon.com/images/I/41XN9aDXj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RNZXC1-es Columbia Drainmaker IV Zapatillas para Hombre Gris City...'
 sku: 'B073RNZXC1-es'
 tags: [  ]

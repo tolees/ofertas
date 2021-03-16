@@ -5,7 +5,7 @@ date: 2020-03-20 14:31:27
 image: 'https://m.media-amazon.com/images/I/51Whq9J-4dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJS1MWF-es Hot Mom - barandillas de la cama 150 cm para bebés...'
 sku: 'B06XJS1MWF-es'
 tags: [  ]

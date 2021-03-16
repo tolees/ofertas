@@ -5,7 +5,7 @@ date: 2020-04-16 08:01:24
 image: 'https://m.media-amazon.com/images/I/417Ly7nf6QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNP1R35-es Yamaha MusicCast RX-V485 - Receptor AV Color Negro'
 sku: 'B07CNP1R35-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-01 07:43:29
 image: 'https://m.media-amazon.com/images/I/41XNCfWpV+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GFT22K-es Triumph Amourette Charm WHP Sujetador Blanco White 03 95B...'
 sku: 'B075GFT22K-es'
 tags: [  ]

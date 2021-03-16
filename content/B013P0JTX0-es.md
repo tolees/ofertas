@@ -5,7 +5,7 @@ date: 2020-04-03 12:57:36
 image: 'https://m.media-amazon.com/images/I/418Sz0yxrfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013P0JTX0-es Belkin F2CD079bt - Adaptador de Mini DisplayPort a HDMI 4K...'
 sku: 'B013P0JTX0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-29 02:52:11
 image: 'https://m.media-amazon.com/images/I/418c74fW0TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YB5HV8L-es Taurus Vac600 Envasadora al vacío Acero Inoxidable'
 sku: 'B07YB5HV8L-es'
 tags: [  ]

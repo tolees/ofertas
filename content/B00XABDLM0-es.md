@@ -5,7 +5,7 @@ date: 2020-07-06 07:48:23
 image: 'https://m.media-amazon.com/images/I/414-bhsO38L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XABDLM0-es Haribo - Pasta Basta Cola - Geles dulces - 200 unidades'
 sku: 'B00XABDLM0-es'
 tags: [  ]

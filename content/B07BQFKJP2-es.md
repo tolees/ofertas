@@ -5,7 +5,7 @@ date: 2020-03-02 18:03:59
 image: 'https://m.media-amazon.com/images/I/51kqirLLZ9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQFKJP2-es Scottex Collection Servilletas - 1500 unidades'
 sku: 'B07BQFKJP2-es'
 tags: [  ]

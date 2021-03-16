@@ -5,7 +5,7 @@ date: 2020-04-25 13:23:57
 image: 'https://m.media-amazon.com/images/I/51YnFnuheeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0786W1XXQ-es adidas Gazelle Zapatillas de deporte Unisex niños Rojo...'
 sku: 'B0786W1XXQ-es'
 tags: [  ]

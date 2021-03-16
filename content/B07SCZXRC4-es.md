@@ -5,7 +5,7 @@ date: 2020-05-10 19:52:48
 image: 'https://m.media-amazon.com/images/I/41s8t5UKeaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCZXRC4-es PUMA NRGY Neko Retro Zapatillas de Running para Hombre...'
 sku: 'B07SCZXRC4-es'
 tags: [  ]

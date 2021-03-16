@@ -5,7 +5,7 @@ date: 2019-12-31 17:39:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41l6BIRmV3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0711GRRDL-es Philips SHB3075RD - Auriculares Inalambricos Bluetooth con...'
 sku: 'B0711GRRDL-es'
 tags: [  ]

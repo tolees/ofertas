@@ -5,7 +5,7 @@ date: 2020-01-11 18:46:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eFaTFZxPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG256PT-es New Balance Fresh Foam Roav Zapatillas de Running para...'
 sku: 'B07HG256PT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-20 20:25:46
 image: 'https://m.media-amazon.com/images/I/41Kry3YFf-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072QYZ7LR-es Pinza Digital Multímetro Meterk Medida Amperímetro...'
 sku: 'B072QYZ7LR-es'
 tags: [  ]

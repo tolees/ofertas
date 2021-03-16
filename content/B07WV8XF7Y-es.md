@@ -5,7 +5,7 @@ date: 2020-09-30 07:38:35
 image: 'https://m.media-amazon.com/images/I/51AVzfXiDrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WV8XF7Y-es Alled Cámara Correa Correa de Cuello Camara De Hombro...'
 sku: 'B07WV8XF7Y-es'
 tags: [  ]

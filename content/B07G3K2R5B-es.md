@@ -5,7 +5,7 @@ date: 2020-01-18 12:43:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41QdrkfiMTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G3K2R5B-es XPLORA 3S - Smartwatch Resistente al Agua para tu hijo SIM...'
 sku: 'B07G3K2R5B-es'
 tags: [  ]

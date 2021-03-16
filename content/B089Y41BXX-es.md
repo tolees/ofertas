@@ -5,7 +5,7 @@ date: 2020-08-23 09:07:05
 image: 'https://m.media-amazon.com/images/I/51pnIKWEIsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089Y41BXX-es Auriculares Bluetooth 5.0 Auriculares inalámbricos...'
 sku: 'B089Y41BXX-es'
 tags: [  ]

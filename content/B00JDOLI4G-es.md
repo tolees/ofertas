@@ -5,7 +5,7 @@ date: 2020-04-11 16:42:06
 image: 'https://m.media-amazon.com/images/I/51A3DM-uRfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JDOLI4G-es La Couronne de Paille The Puppet Crown'
 sku: 'B00JDOLI4G-es'
 tags: [  ]

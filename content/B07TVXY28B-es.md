@@ -5,7 +5,7 @@ date: 2020-02-29 08:05:50
 image: 'https://m.media-amazon.com/images/I/41++iNeiE1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVXY28B-es Báscula de Baño Zuzpao Báscula Grasa Corporal Básculas...'
 sku: 'B07TVXY28B-es'
 tags: [  ]

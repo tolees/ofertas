@@ -5,7 +5,7 @@ date: 2020-06-02 17:41:49
 image: 'https://m.media-amazon.com/images/I/51m4IvCVAmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PRVJH1-es 4 Pack cinturón de seguridad ajustable perro de mascota...'
 sku: 'B074PRVJH1-es'
 tags: [  ]

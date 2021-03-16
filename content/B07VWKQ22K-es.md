@@ -5,7 +5,7 @@ date: 2020-09-17 15:49:36
 image: 'https://m.media-amazon.com/images/I/411vOhmhxnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWKQ22K-es Skechers Skech-Air Element 2.0 Zapatillas para Mujer Negro...'
 sku: 'B07VWKQ22K-es'
 tags: [  ]

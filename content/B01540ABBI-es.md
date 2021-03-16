@@ -5,7 +5,7 @@ date: 2020-10-05 19:37:47
 image: 'https://m.media-amazon.com/images/I/31cWtmGCCEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01540ABBI-es MATRIX total results HIGHT AMPLIFY - Champú 300 ml'
 sku: 'B01540ABBI-es'
 tags: [  ]

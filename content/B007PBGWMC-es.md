@@ -5,7 +5,7 @@ date: 2020-10-02 12:06:03
 image: 'https://m.media-amazon.com/images/I/31xJTEgbSxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007PBGWMC-es Converse Chuck Taylor Core Lea Ox Zapatillas De Cuero...'
 sku: 'B007PBGWMC-es'
 tags: [  ]

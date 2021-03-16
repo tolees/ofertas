@@ -5,7 +5,7 @@ date: 2020-03-23 10:32:30
 image: 'https://m.media-amazon.com/images/I/41YoYJgy2rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK9FLKD-es Opret Chubasqueros Impermeable Paquete de 2 Ponchos...'
 sku: 'B07KK9FLKD-es'
 tags: [  ]

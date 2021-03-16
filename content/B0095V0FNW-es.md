@@ -5,7 +5,7 @@ date: 2020-05-03 09:02:16
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0095V0FNW-es STANLEY 1-93-333 - Caja de herramientas 12.5"/31.75 cm con...'
 sku: 'B0095V0FNW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 13:09:41
 image: 'https://m.media-amazon.com/images/I/515rtdRqyVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085G5JKN7-es Radio Meteorológica de 5 Vías para Emergencias Domésticas...'
 sku: 'B085G5JKN7-es'
 tags: [  ]

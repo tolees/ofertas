@@ -5,7 +5,7 @@ date: 2020-01-03 14:24:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51zt-QAtdcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Y0UCQV2-es Superga 2790-COTROPEW Zapatillas Mujer Blanco 901 White 37...'
 sku: 'B00Y0UCQV2-es'
 tags: [  ]

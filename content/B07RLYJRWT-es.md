@@ -5,7 +5,7 @@ date: 2020-04-17 08:42:40
 image: 'https://m.media-amazon.com/images/I/41e1F0jEz0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLYJRWT-es WERNNSAI Juego Cumpleaños Pancartas - Vídeo Juego...'
 sku: 'B07RLYJRWT-es'
 tags: [  ]

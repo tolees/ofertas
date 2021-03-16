@@ -5,7 +5,7 @@ date: 2020-09-22 08:45:58
 image: 'https://m.media-amazon.com/images/I/31gaWnCajWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTGCYV5-es 1Life Auriculares SoundOne Micrófono Ultra Ligero'
 sku: 'B07MTGCYV5-es'
 tags: [  ]

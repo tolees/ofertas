@@ -5,7 +5,7 @@ date: 2020-09-16 18:58:25
 image: 'https://m.media-amazon.com/images/I/41mSxyMOvQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2LHMZL-es Adidas Falcon Zapatillas de Trail Running para Hombre...'
 sku: 'B07K2LHMZL-es'
 tags: [  ]

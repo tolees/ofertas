@@ -5,7 +5,7 @@ date: 2020-05-31 20:45:11
 image: 'https://m.media-amazon.com/images/I/31XonVL4b4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0177VSKLK-es La Pajarita 124237 Barniz Ultramate 175 ml'
 sku: 'B0177VSKLK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-11 15:48:50
 image: 'https://m.media-amazon.com/images/I/41wgZKwxBaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2NRCMN-es Walser Car Comfort 11652 Cubierta del Asiento del Coche...'
 sku: 'B07F2NRCMN-es'
 tags: [  ]

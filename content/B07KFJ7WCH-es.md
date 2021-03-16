@@ -5,7 +5,7 @@ date: 2020-07-15 10:54:24
 image: 'https://m.media-amazon.com/images/I/41aWtFMxW9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFJ7WCH-es G-Star Raw Dunda Slim Polo S/s grey htr 906 Medium para...'
 sku: 'B07KFJ7WCH-es'
 tags: [  ]

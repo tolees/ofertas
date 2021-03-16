@@ -5,7 +5,7 @@ date: 2020-05-01 09:29:56
 image: 'https://m.media-amazon.com/images/I/312xgvheKFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002AMUGQY-es Sisley Loción Tónica Floral sin alcohol piel seca /...'
 sku: 'B002AMUGQY-es'
 tags: [  ]

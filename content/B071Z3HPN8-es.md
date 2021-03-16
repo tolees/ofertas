@@ -5,7 +5,7 @@ date: 2020-09-25 20:28:04
 image: 'https://m.media-amazon.com/images/I/41UBkD5N4lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071Z3HPN8-es Asics B756Y 1990 Zapatillas de Deporte Unisex Adulto...'
 sku: 'B071Z3HPN8-es'
 tags: [  ]

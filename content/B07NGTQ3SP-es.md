@@ -5,7 +5,7 @@ date: 2020-02-10 09:40:11
 image: 'https://m.media-amazon.com/images/I/41vAoQcP6rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGTQ3SP-es Primigi Pbb 43604 Botas para Bebés Zaffiro 4360411 20 EU'
 sku: 'B07NGTQ3SP-es'
 tags: [  ]

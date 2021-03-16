@@ -5,7 +5,7 @@ date: 2020-06-18 02:20:06
 image: 'https://m.media-amazon.com/images/I/41iFs7yp8pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OG5SBOW-es Komono Reloj Analógico de Cuarzo para Hombre con Correa de...'
 sku: 'B00OG5SBOW-es'
 tags: [  ]

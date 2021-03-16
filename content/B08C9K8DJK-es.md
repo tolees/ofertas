@@ -5,7 +5,7 @@ date: 2020-07-31 13:13:03
 image: 'https://m.media-amazon.com/images/I/41pIfJ3ttzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9K8DJK-es Homfa Mesa Ordenador Mesa Escritorio de Estilo Industrial...'
 sku: 'B08C9K8DJK-es'
 tags: [  ]

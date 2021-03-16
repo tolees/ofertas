@@ -5,7 +5,7 @@ date: 2020-05-14 12:33:50
 image: 'https://m.media-amazon.com/images/I/41t3P68l2JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084X2D6GP-es Rettos - Zapatillas Bajas Hombre Afelpado Color: Brandy...'
 sku: 'B084X2D6GP-es'
 tags: [  ]

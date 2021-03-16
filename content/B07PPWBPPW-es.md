@@ -5,7 +5,7 @@ date: 2020-07-12 16:34:21
 image: 'https://m.media-amazon.com/images/I/51tTsmWTH2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PPWBPPW-es Anoopsyche Hombrera Ajustable Hombro Apoyo Transpirable de...'
 sku: 'B07PPWBPPW-es'
 tags: [  ]

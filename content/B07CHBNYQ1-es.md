@@ -5,7 +5,7 @@ date: 2020-03-02 18:36:53
 image: 'https://m.media-amazon.com/images/I/31RdnmtwRtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHBNYQ1-es Samsung HW-N400 Barra de Sonido Inalámbrica Estéreo 2 Ch 1...'
 sku: 'B07CHBNYQ1-es'
 tags: [  ]

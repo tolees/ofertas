@@ -5,7 +5,7 @@ date: 2020-07-02 07:03:27
 image: 'https://m.media-amazon.com/images/I/51Nac85ci9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M7MSRQ8-es JARBO TN2320 Tóner Compatible para Brother TN-2320 para...'
 sku: 'B01M7MSRQ8-es'
 tags: [  ]

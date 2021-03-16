@@ -5,7 +5,7 @@ date: 2020-07-17 17:22:12
 image: 'https://m.media-amazon.com/images/I/31lnM6F2rTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HTBD6KS-es HAMSWAN Termómetro de Frente Sin Contacto Termómetro...'
 sku: 'B01HTBD6KS-es'
 tags: [  ]

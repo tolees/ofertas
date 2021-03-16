@@ -5,7 +5,7 @@ date: 2020-08-15 12:47:55
 image: 'https://m.media-amazon.com/images/I/41yPn-zeLFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y62BYB1-es Pikolin Home - Protector de colchón/Cubre colchón...'
 sku: 'B06Y62BYB1-es'
 tags: [  ]

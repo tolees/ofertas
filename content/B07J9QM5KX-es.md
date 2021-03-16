@@ -5,7 +5,7 @@ date: 2020-01-25 13:02:05
 image: 'https://m.media-amazon.com/images/I/41h51n+wdYL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J9QM5KX-es Asics Gel-Excite 6 - Zapatillas de Running para Hombre...'
 sku: 'B07J9QM5KX-es'
 tags: [  ]

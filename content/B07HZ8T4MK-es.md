@@ -5,7 +5,7 @@ date: 2020-10-06 22:15:13
 image: 'https://m.media-amazon.com/images/I/31213lPF5iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HZ8T4MK-es Amazon Essentials - Pantalones cargo para niño Caqui 9-10...'
 sku: 'B07HZ8T4MK-es'
 tags: [  ]

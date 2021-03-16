@@ -5,7 +5,7 @@ date: 2020-09-12 06:17:56
 image: 'https://m.media-amazon.com/images/I/41fp6FL0gIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E1IVSE4-es BioTechUSA Iso Whey Zero Premium Protein Isolat Pulver...'
 sku: 'B00E1IVSE4-es'
 tags: [  ]

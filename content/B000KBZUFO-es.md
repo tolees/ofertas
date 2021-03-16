@@ -5,7 +5,7 @@ date: 2020-02-05 10:53:49
 image: 'https://m.media-amazon.com/images/I/51ahT+uEWqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KBZUFO-es Shimano PD-M424 - Pedales M-424 Spd'
 sku: 'B000KBZUFO-es'
 tags: [  ]

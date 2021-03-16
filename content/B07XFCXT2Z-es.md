@@ -5,7 +5,7 @@ date: 2020-09-11 09:16:55
 image: 'https://m.media-amazon.com/images/I/51xYo8vSrSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFCXT2Z-es XGEAR Canasta Baloncesto Tablero Baloncesto Juego Al Aire...'
 sku: 'B07XFCXT2Z-es'
 tags: [  ]

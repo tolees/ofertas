@@ -5,7 +5,7 @@ date: 2020-08-22 09:55:41
 image: 'https://m.media-amazon.com/images/I/41dncayVJaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LWBGL2-es sumgott - Soporte para monitor de madera para monitor...'
 sku: 'B088LWBGL2-es'
 tags: [  ]

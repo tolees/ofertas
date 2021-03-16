@@ -5,7 +5,7 @@ date: 2020-09-30 12:11:12
 image: 'https://m.media-amazon.com/images/I/51x9IGG3S0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088LSL22G-es Haton Bandas Elasticas Musculacion Antideslizantes Banda...'
 sku: 'B088LSL22G-es'
 tags: [  ]

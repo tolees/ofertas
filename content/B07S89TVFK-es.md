@@ -5,7 +5,7 @@ date: 2020-08-09 19:16:28
 image: 'https://m.media-amazon.com/images/I/31YicYS6OhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S89TVFK-es Lee Belt Cinturón Negro Black 01 85 para Hombre'
 sku: 'B07S89TVFK-es'
 tags: [  ]

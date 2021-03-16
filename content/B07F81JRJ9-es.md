@@ -5,7 +5,7 @@ date: 2020-07-08 18:10:51
 image: 'https://m.media-amazon.com/images/I/41j3oyyYo5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F81JRJ9-es Cepillo de pelo de cerda de jabalí Cepillo de pelo de...'
 sku: 'B07F81JRJ9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 13:39:15
 image: 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQNVU7O-es New Balance 373 Core Zapatillas Bajas para Hombre Bordeaux...'
 sku: 'B01MQNVU7O-es'
 tags: [  ]

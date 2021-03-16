@@ -5,7 +5,7 @@ date: 2020-06-06 19:36:06
 image: 'https://m.media-amazon.com/images/I/51F9OfPnA9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JR73DK-es CLTYQ Tire de la Cuerda de Rodillos Bandas de Resistencia...'
 sku: 'B087JR73DK-es'
 tags: [  ]

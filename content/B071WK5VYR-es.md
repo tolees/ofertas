@@ -5,7 +5,7 @@ date: 2020-09-02 04:00:59
 image: 'https://m.media-amazon.com/images/I/61QWJhup31L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WK5VYR-es Carterón Pepe Jeans Treval'
 sku: 'B071WK5VYR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 11:44:31
 image: 'https://m.media-amazon.com/images/I/41jBRCvYMxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXXNWOF-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B01MXXNWOF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-03 21:14:39
 image: 'https://m.media-amazon.com/images/I/51TAwIOYI5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9FIYCI-es CLP Estantería de Madera de 3 hasta 5 Niveles | Estantería...'
 sku: 'B01N9FIYCI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-30 21:13:58
 image: 'https://m.media-amazon.com/images/I/41VpDgnKAfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9WRDWM-es The Glenrothes 12 Años Single Malt Whisky Escoces 40% -...'
 sku: 'B07H9WRDWM-es'
 tags: [  ]

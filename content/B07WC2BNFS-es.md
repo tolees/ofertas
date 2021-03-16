@@ -5,7 +5,7 @@ date: 2020-06-14 19:54:22
 image: 'https://m.media-amazon.com/images/I/41NZEfzp6wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC2BNFS-es Powerbeats Pro Auriculares Totalmente Inalámbricos- Almizcle'
 sku: 'B07WC2BNFS-es'
 tags: [  ]

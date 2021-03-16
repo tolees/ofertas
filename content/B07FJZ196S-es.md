@@ -5,7 +5,7 @@ date: 2020-04-25 09:28:21
 image: 'https://m.media-amazon.com/images/I/51RtrBg63VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FJZ196S-es Dodot Splashers - 12 Pañales Bañadores Desechables 6 a 11...'
 sku: 'B07FJZ196S-es'
 tags: [  ]

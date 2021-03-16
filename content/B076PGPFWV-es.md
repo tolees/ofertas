@@ -5,7 +5,7 @@ date: 2020-05-01 19:28:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419mB6XDTiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PGPFWV-es Cooler Master MasterWatt 650 EU - Fuentes de alimentación...'
 sku: 'B076PGPFWV-es'
 tags: [  ]

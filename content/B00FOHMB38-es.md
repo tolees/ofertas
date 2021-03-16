@@ -5,7 +5,7 @@ date: 2020-01-07 20:02:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51qXl3V9fwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FOHMB38-es ACTIVISION Skylanders: Swap Force - Figurina Single...'
 sku: 'B00FOHMB38-es'
 tags: [  ]

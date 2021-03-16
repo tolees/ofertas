@@ -5,7 +5,7 @@ date: 2020-03-04 12:28:39
 image: 'https://m.media-amazon.com/images/I/41rNzU73y0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GIH4U8W-es RockJam RJEG01 - Paquete completo de guitarra eléctrica'
 sku: 'B00GIH4U8W-es'
 tags: [  ]

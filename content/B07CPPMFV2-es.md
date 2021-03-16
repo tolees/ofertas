@@ -5,7 +5,7 @@ date: 2020-04-18 07:36:29
 image: 'https://m.media-amazon.com/images/I/41w27eQrKuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPPMFV2-es Munvot Mujer Mallas Deportivas Pantalones Cortos con...'
 sku: 'B07CPPMFV2-es'
 tags: [  ]

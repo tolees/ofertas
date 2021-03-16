@@ -5,7 +5,7 @@ date: 2020-08-03 18:12:35
 image: 'https://m.media-amazon.com/images/I/41+EIrYN37L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XVR2M75-es Esprit 119EE2K006 suéter Azul Navy 400 Medium para Hombre'
 sku: 'B07XVR2M75-es'
 tags: [  ]

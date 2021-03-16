@@ -5,7 +5,7 @@ date: 2020-09-29 17:43:33
 image: 'https://m.media-amazon.com/images/I/31wbaLWvsAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T6FCZN6-es Auriculares inalámbricos auténticos resistentes al sudor...'
 sku: 'B07T6FCZN6-es'
 tags: [  ]

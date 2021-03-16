@@ -5,7 +5,7 @@ date: 2020-03-04 12:46:05
 image: 'https://m.media-amazon.com/images/I/31pw3JKldqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008S9B3ZQ-es Dickies Hose Orgnl 874work Pants - Pantalones deportivos...'
 sku: 'B008S9B3ZQ-es'
 tags: [  ]

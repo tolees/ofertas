@@ -5,7 +5,7 @@ date: 2020-02-24 15:57:17
 image: 'https://m.media-amazon.com/images/I/31JhgPtXXjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHYJTRS-es Lacoste Chaymon BL 1 CMA Zapatillas para Hombre Azul...'
 sku: 'B07DHYJTRS-es'
 tags: [  ]

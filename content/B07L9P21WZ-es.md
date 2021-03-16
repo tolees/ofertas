@@ -5,7 +5,7 @@ date: 2020-01-07 13:04:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B5QBM9v-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9P21WZ-es Lacoste Carnaby EVO 319 1 SMA Zapatillas para Hombre...'
 sku: 'B07L9P21WZ-es'
 tags: [  ]

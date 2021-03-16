@@ -5,7 +5,7 @@ date: 2020-05-26 06:24:43
 image: 'https://m.media-amazon.com/images/I/51VEKYVRqTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000FGD03S-es K&N KN-185 Filro the Aceite Moto'
 sku: 'B000FGD03S-es'
 tags: [  ]

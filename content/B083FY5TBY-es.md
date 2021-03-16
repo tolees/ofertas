@@ -5,7 +5,7 @@ date: 2020-03-21 19:51:49
 image: 'https://m.media-amazon.com/images/I/51ISOd44NOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FY5TBY-es BEFANS Kit de Barra de Pilates portátil con Banda de...'
 sku: 'B083FY5TBY-es'
 tags: [  ]

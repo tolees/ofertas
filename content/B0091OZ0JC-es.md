@@ -5,7 +5,7 @@ date: 2020-01-19 12:07:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DJTWnIjRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0091OZ0JC-es BabyBjörn Balance soft - Hamaca Negro /Gris oscuro'
 sku: 'B0091OZ0JC-es'
 tags: [  ]

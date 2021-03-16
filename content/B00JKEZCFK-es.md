@@ -5,7 +5,7 @@ date: 2020-07-17 05:33:24
 image: 'https://m.media-amazon.com/images/I/41WEbZossXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JKEZCFK-es Yazilind Elegante diseño único 14K Gold Filled Inlay...'
 sku: 'B00JKEZCFK-es'
 tags: [  ]

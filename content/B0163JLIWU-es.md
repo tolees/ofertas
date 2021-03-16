@@ -5,7 +5,7 @@ date: 2020-10-12 18:28:06
 image: 'https://m.media-amazon.com/images/I/41I42GXfUjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0163JLIWU-es AOC U2879VF - Monitor de 28" 4K UHD 3840 x 2160 60 Hz TN 1...'
 sku: 'B0163JLIWU-es'
 tags: [  ]

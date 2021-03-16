@@ -5,7 +5,7 @@ date: 2020-09-12 15:02:36
 image: 'https://m.media-amazon.com/images/I/41lnHnVlR9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MCRV7YR-es DURABOL Bandera de Inde.Catalan Estelada blava-catalunya...'
 sku: 'B01MCRV7YR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-22 11:33:40
 image: 'https://m.media-amazon.com/images/I/51tYtAVPzxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SV4KW1L-es S&R Disco Tronzador Diamante 230 mm x22 2 para Hormigón...'
 sku: 'B07SV4KW1L-es'
 tags: [  ]

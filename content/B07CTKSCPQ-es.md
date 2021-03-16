@@ -5,7 +5,7 @@ date: 2020-03-08 11:20:20
 image: 'https://m.media-amazon.com/images/I/519iqL46GnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTKSCPQ-es BONAI Pila Recargable 9V Bateria Lithium 600mAh 7.4V 1200...'
 sku: 'B07CTKSCPQ-es'
 tags: [  ]

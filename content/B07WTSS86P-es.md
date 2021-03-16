@@ -5,7 +5,7 @@ date: 2020-06-01 12:06:46
 image: 'https://m.media-amazon.com/images/I/51zFuPhco1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTSS86P-es KIRIFLY Ramo de Flores Artificiales de Seda de peonía...'
 sku: 'B07WTSS86P-es'
 tags: [  ]

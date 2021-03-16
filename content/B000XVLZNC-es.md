@@ -5,7 +5,7 @@ date: 2020-04-17 09:29:02
 image: 'https://m.media-amazon.com/images/I/41JT5ybHY1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XVLZNC-es HP CB436A 36A Cartucho de Tóner Original 1 unidad negro'
 sku: 'B000XVLZNC-es'
 tags: [  ]

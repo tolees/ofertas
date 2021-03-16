@@ -5,7 +5,7 @@ date: 2020-01-21 21:00:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51myxpSpq5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M11IZ7B-es Scottex Sensitive Papel Higiénico - 18 Rollos'
 sku: 'B01M11IZ7B-es'
 tags: [  ]

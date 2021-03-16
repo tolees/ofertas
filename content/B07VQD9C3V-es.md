@@ -5,7 +5,7 @@ date: 2020-02-24 09:17:02
 image: 'https://m.media-amazon.com/images/I/51ipC88y6GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQD9C3V-es Ueleknight Reproductor de MP3 MP4 con Micro SD de 16G de...'
 sku: 'B07VQD9C3V-es'
 tags: [  ]

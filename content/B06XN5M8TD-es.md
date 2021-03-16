@@ -5,7 +5,7 @@ date: 2020-03-05 22:21:58
 image: 'https://m.media-amazon.com/images/I/51mtxtdGWrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XN5M8TD-es Rollei Camera Cleaning Kit Travel - Kit de Limpieza para...'
 sku: 'B06XN5M8TD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-20 18:24:34
 image: 'https://m.media-amazon.com/images/I/41gAmKlFrXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMLGLYS-es Calvin Klein - Revealed Laptop Bag Organizadores de bolsos...'
 sku: 'B07RMLGLYS-es'
 tags: [  ]

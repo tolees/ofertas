@@ -5,7 +5,7 @@ date: 2020-04-03 08:23:50
 image: 'https://m.media-amazon.com/images/I/514na5XzLwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHRBHWR-es Desigual Foul_Fruits Bufanda Multicolor Blanco/Negro 9024...'
 sku: 'B07VHRBHWR-es'
 tags: [  ]

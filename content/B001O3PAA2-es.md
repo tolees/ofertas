@@ -5,7 +5,7 @@ date: 2020-02-02 13:53:17
 image: 'https://m.media-amazon.com/images/I/51LvfWwwPeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001O3PAA2-es Q-Connect Pizarra Corcho Marco De Madera 60x40 Cm'
 sku: 'B001O3PAA2-es'
 tags: [  ]

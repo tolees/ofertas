@@ -5,7 +5,7 @@ date: 2020-09-13 02:56:08
 image: 'https://m.media-amazon.com/images/I/51wc1dxr+EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPF7MX8-es Cincuenta Sombras De Grey - Películas 1-3 [Blu-ray]'
 sku: 'B07CPF7MX8-es'
 tags: [  ]

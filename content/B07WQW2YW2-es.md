@@ -5,7 +5,7 @@ date: 2020-04-14 11:35:23
 image: 'https://m.media-amazon.com/images/I/41cY8cFx2PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQW2YW2-es LEWOTE Airpods Carcasa de Silicona Compatible con Airpods...'
 sku: 'B07WQW2YW2-es'
 tags: [  ]

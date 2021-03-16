@@ -5,7 +5,7 @@ date: 2020-05-31 08:33:28
 image: 'https://m.media-amazon.com/images/I/410JGtS7FtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W98NC5H-es New Look Damen Pullover Op Fashioned Grün Verde Menta 37...'
 sku: 'B07W98NC5H-es'
 tags: [  ]

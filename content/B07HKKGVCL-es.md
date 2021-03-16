@@ -5,7 +5,7 @@ date: 2020-05-22 04:04:41
 image: 'https://m.media-amazon.com/images/I/31wsLG57HwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKKGVCL-es JDC Anclaje Al Suelo De Acero Endurecido De Alta...'
 sku: 'B07HKKGVCL-es'
 tags: [  ]

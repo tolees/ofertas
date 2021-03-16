@@ -5,7 +5,7 @@ date: 2020-04-12 11:04:19
 image: 'https://m.media-amazon.com/images/I/41D0UTYKIQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSO6Q7W-es Philips HP6548/01 - Set con depiladora perfilador y bolsa...'
 sku: 'B01BSO6Q7W-es'
 tags: [  ]

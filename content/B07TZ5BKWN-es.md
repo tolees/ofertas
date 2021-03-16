@@ -5,7 +5,7 @@ date: 2020-03-25 18:49:38
 image: 'https://m.media-amazon.com/images/I/41GxlKWoOoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZ5BKWN-es Women s Secret Soft Touch 2 St Special Nd Grey Camisón...'
 sku: 'B07TZ5BKWN-es'
 tags: [  ]

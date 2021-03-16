@@ -5,7 +5,7 @@ date: 2020-07-08 18:11:19
 image: 'https://m.media-amazon.com/images/I/41fL5AkQx+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004KQXS8G-es adidas Barra de Empuje'
 sku: 'B004KQXS8G-es'
 tags: [  ]

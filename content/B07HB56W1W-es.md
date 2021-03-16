@@ -5,7 +5,7 @@ date: 2020-05-11 09:56:09
 image: 'https://m.media-amazon.com/images/I/41pJz4aRsVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB56W1W-es Woxter Stinger RX 1100 H - Auriculares Gaming...'
 sku: 'B07HB56W1W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 06:46:12
 image: 'https://m.media-amazon.com/images/I/518O87pkyYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MFBNWS-es FIRENZE ARTEGIANI.Bolso de Mujer Piel auténtica.Bolso de...'
 sku: 'B077MFBNWS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-02 16:38:57
 image: 'https://m.media-amazon.com/images/I/31D6EhGtK2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJLB4CK-es AiSi - Cartera de mano para mujer negro negro Talla única'
 sku: 'B06XJLB4CK-es'
 tags: [  ]

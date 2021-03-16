@@ -5,7 +5,7 @@ date: 2020-07-18 10:24:31
 image: 'https://m.media-amazon.com/images/I/31p3O5qfXZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0041UWVB6-es Reebok Classic Leather Zapatillas de Trail Running para...'
 sku: 'B0041UWVB6-es'
 tags: [  ]

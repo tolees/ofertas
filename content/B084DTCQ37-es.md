@@ -5,7 +5,7 @@ date: 2020-02-13 09:08:35
 image: 'https://m.media-amazon.com/images/I/21dCiAGJytL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084DTCQ37-es Cartera Caballero en Piel napa'
 sku: 'B084DTCQ37-es'
 tags: [  ]

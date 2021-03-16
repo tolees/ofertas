@@ -5,7 +5,7 @@ date: 2020-05-08 06:50:48
 image: 'https://m.media-amazon.com/images/I/61N73DHFFVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004JU0ETE-es Orchard Toys - Juego de Mesa de los Tres Cerditos'
 sku: 'B004JU0ETE-es'
 tags: [  ]

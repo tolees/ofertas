@@ -5,7 +5,7 @@ date: 2020-04-27 06:47:24
 image: 'https://m.media-amazon.com/images/I/31SIvFu+xNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7S9XQ6-es Garnier Skin Active Agua Micelar Clásica para pieles...'
 sku: 'B01K7S9XQ6-es'
 tags: [  ]

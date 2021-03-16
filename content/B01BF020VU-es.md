@@ -5,7 +5,7 @@ date: 2020-08-16 23:03:39
 image: 'https://m.media-amazon.com/images/I/517-PsdT76L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BF020VU-es Seiko Reloj Analógico para Hombre con Correa de Cuero –...'
 sku: 'B01BF020VU-es'
 tags: [  ]

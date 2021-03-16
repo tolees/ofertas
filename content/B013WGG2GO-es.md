@@ -5,7 +5,7 @@ date: 2020-04-28 07:46:11
 image: 'https://m.media-amazon.com/images/I/41oWmbyxJOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013WGG2GO-es New Balance WX624WB4 Zapatillas para Mujer Blanco...'
 sku: 'B013WGG2GO-es'
 tags: [  ]

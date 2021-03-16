@@ -5,7 +5,7 @@ date: 2020-07-11 10:17:35
 image: 'https://m.media-amazon.com/images/I/31K8xZrb7HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTVGJ42-es PNY Memoria USB Attaché 4 3.1 256GB'
 sku: 'B07XTVGJ42-es'
 tags: [  ]

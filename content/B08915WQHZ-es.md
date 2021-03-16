@@ -5,7 +5,7 @@ date: 2020-06-24 12:04:17
 image: 'https://m.media-amazon.com/images/I/31w+b9WdjiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08915WQHZ-es B Blesiya Electrónica 8.5 LCD Escritura Tabletas De...'
 sku: 'B08915WQHZ-es'
 tags: [  ]

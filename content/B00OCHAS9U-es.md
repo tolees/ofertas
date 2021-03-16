@@ -5,7 +5,7 @@ date: 2020-09-14 17:48:28
 image: 'https://m.media-amazon.com/images/I/51FSugr4jJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OCHAS9U-es Sónica cepillo de dientes portátil con pilas 2 cepillos de...'
 sku: 'B00OCHAS9U-es'
 tags: [  ]

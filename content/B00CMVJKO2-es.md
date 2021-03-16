@@ -5,7 +5,7 @@ date: 2020-04-20 08:23:20
 image: 'https://m.media-amazon.com/images/I/31UINAgmYaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CMVJKO2-es Philips Avent SCF676/01 - Funda para biberón de cristal...'
 sku: 'B00CMVJKO2-es'
 tags: [  ]

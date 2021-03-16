@@ -5,7 +5,7 @@ date: 2020-06-23 06:36:33
 image: 'https://m.media-amazon.com/images/I/4191zZ1g6uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075T9LL3N-es Proyector LED de proyector detector de movimiento...'
 sku: 'B075T9LL3N-es'
 tags: [  ]

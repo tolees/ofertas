@@ -5,7 +5,7 @@ date: 2020-03-12 07:57:20
 image: 'https://m.media-amazon.com/images/I/31oEebwyZAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NJGXV4Y-es Acuvue Oasys - Lentes de contacto esféricas quincenales R...'
 sku: 'B00NJGXV4Y-es'
 tags: [  ]

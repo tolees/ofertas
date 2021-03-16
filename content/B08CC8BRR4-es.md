@@ -5,7 +5,7 @@ date: 2020-08-27 13:01:56
 image: 'https://m.media-amazon.com/images/I/41oc0T4mhuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CC8BRR4-es Cepillo de pelo rizado y rizado Peine Salón Cepillo...'
 sku: 'B08CC8BRR4-es'
 tags: [  ]

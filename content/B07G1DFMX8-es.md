@@ -5,7 +5,7 @@ date: 2020-01-16 09:47:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xH532otRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1DFMX8-es Superfit Heaven Zapatillas para Niñas Hellblau 85 25 EU'
 sku: 'B07G1DFMX8-es'
 tags: [  ]

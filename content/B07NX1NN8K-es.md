@@ -5,7 +5,7 @@ date: 2020-04-21 09:15:22
 image: 'https://m.media-amazon.com/images/I/41aRJIEWOUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NX1NN8K-es Igi&Co Uomo-41145 Zapatillas de Gimnasia para Hombre...'
 sku: 'B07NX1NN8K-es'
 tags: [  ]

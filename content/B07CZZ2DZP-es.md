@@ -5,7 +5,7 @@ date: 2020-06-22 14:24:55
 image: 'https://m.media-amazon.com/images/I/41r0HDPjl2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZZ2DZP-es Under Armour Playoff 2.0 Polo Hombre Blanco White/Mod Gray...'
 sku: 'B07CZZ2DZP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-22 10:03:35
 image: 'https://m.media-amazon.com/images/I/51hSd0-L+kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPRJ7X3-es Outsunny Columpio Balancín Jardín 3 Plazas Convertible en...'
 sku: 'B07CPRJ7X3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-10 08:14:57
 image: 'https://m.media-amazon.com/images/I/5156WvYgcoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXRRLD2-es Alarma Personal Alarma Personal de Emergencia Scream...'
 sku: 'B07NXRRLD2-es'
 tags: [  ]

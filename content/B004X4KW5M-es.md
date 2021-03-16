@@ -5,7 +5,7 @@ date: 2020-07-12 10:44:11
 image: 'https://m.media-amazon.com/images/I/51ejKL6oCJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004X4KW5M-es Braun BN0032WHSLMHG - Reloj análogico de cuarzo con correa...'
 sku: 'B004X4KW5M-es'
 tags: [  ]

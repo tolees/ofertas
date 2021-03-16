@@ -5,7 +5,7 @@ date: 2020-06-19 15:04:11
 image: 'https://m.media-amazon.com/images/I/41BKDOuPtJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAF0O2Q-es Astor Mattitude Powder Polvos Compactos Tono 1 14 gr'
 sku: 'B00XAF0O2Q-es'
 tags: [  ]

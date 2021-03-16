@@ -5,7 +5,7 @@ date: 2020-10-02 17:55:27
 image: 'https://m.media-amazon.com/images/I/31dTz+khT2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001QMCBN0-es Pimms Licores - 1000 ml'
 sku: 'B001QMCBN0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-11 22:20:27
 image: 'https://m.media-amazon.com/images/I/414drfhU0rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EZPSBJ8-es Merc Of London Card Polo Shirt - Polo para hombre Negro...'
 sku: 'B00EZPSBJ8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-09 21:07:02
 image: 'https://m.media-amazon.com/images/I/41BdZ3kLBvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMFBJM7-es Marshall Major III Bluetooth Auriculares plegables Marrón'
 sku: 'B07CMFBJM7-es'
 tags: [  ]

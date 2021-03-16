@@ -5,7 +5,7 @@ date: 2020-09-19 17:31:51
 image: 'https://m.media-amazon.com/images/I/31H7lwBNcgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082Y75JBS-es perfk Protector para Asiento de Coche Antideslizante Fácil...'
 sku: 'B082Y75JBS-es'
 tags: [  ]

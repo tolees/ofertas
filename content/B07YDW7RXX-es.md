@@ -5,7 +5,7 @@ date: 2020-06-18 13:39:17
 image: 'https://m.media-amazon.com/images/I/411WANHJUTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDW7RXX-es Pikolin Veza colchón de muelles ensacados y viscoelástica...'
 sku: 'B07YDW7RXX-es'
 tags: [  ]

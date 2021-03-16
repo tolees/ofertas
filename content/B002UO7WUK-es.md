@@ -5,7 +5,7 @@ date: 2020-07-05 14:02:26
 image: 'https://m.media-amazon.com/images/I/41jYs3QolNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002UO7WUK-es Playgro Set de Animales Rociadores Azul/Verde 8 figuras...'
 sku: 'B002UO7WUK-es'
 tags: [  ]

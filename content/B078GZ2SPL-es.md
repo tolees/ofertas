@@ -5,7 +5,7 @@ date: 2020-09-29 04:25:23
 image: 'https://m.media-amazon.com/images/I/31sO2KAwsgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GZ2SPL-es find. Bailarinas Planas con Empeine Alto Mujer Beige Sand...'
 sku: 'B078GZ2SPL-es'
 tags: [  ]

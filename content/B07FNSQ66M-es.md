@@ -5,7 +5,7 @@ date: 2020-01-31 00:07:11
 image: 'https://m.media-amazon.com/images/I/41s0g1bk2lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNSQ66M-es AGPTEK Reproductor Mp3 Bluetooth 8GB HD Pantalla 2.4 a...'
 sku: 'B07FNSQ66M-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 00:27:20
 image: 'https://m.media-amazon.com/images/I/51JbLmLcRqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082Q3M9KF-es Janhe Sheer Classic Videogames Pattern Headpiece Chiffon...'
 sku: 'B082Q3M9KF-es'
 tags: [  ]

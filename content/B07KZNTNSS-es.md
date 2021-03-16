@@ -5,7 +5,7 @@ date: 2020-04-07 22:11:24
 image: 'https://m.media-amazon.com/images/I/31qy8DBB9kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZNTNSS-es Magic Memory Iron Wire Card Magic Trick Permitir Que El...'
 sku: 'B07KZNTNSS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 09:30:17
 image: 'https://m.media-amazon.com/images/I/41VUuX45qHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017QYODG4-es Superga 2790-COTROPEW Zapatillas Mujer Negro Nero 999 38...'
 sku: 'B017QYODG4-es'
 tags: [  ]

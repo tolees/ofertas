@@ -5,7 +5,7 @@ date: 2019-12-31 16:06:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41AwaPZhNTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6ZJ54T-es adidas ARKYN Zapatillas de Deporte para Mujer Negro Core...'
 sku: 'B07D6ZJ54T-es'
 tags: [  ]

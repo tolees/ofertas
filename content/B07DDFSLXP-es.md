@@ -5,7 +5,7 @@ date: 2020-05-06 18:40:36
 image: 'https://m.media-amazon.com/images/I/51wESKRj2AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDFSLXP-es New Soul Protector de Asientos de Coche para Bebé...'
 sku: 'B07DDFSLXP-es'
 tags: [  ]

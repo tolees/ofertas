@@ -5,7 +5,7 @@ date: 2020-03-15 00:35:30
 image: 'https://m.media-amazon.com/images/I/41BpLQkSHEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076J9FNKM-es adidas SST TP Sport Trousers Hombre Black XL'
 sku: 'B076J9FNKM-es'
 tags: [  ]

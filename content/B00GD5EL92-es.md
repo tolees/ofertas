@@ -5,7 +5,7 @@ date: 2020-06-08 11:44:11
 image: 'https://m.media-amazon.com/images/I/31OSD-qkauL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GD5EL92-es Versa 20361010 Mesa entrada madera color blanco Dallas...'
 sku: 'B00GD5EL92-es'
 tags: [  ]

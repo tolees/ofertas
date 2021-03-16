@@ -5,7 +5,7 @@ date: 2020-02-22 07:55:59
 image: 'https://m.media-amazon.com/images/I/419O-JqRd3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CP1QDN4-es Sierra de Mano Plegable TIBURÓN GRÜNTEK. Serrucho de poda...'
 sku: 'B01CP1QDN4-es'
 tags: [  ]

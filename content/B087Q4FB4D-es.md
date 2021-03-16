@@ -5,7 +5,7 @@ date: 2020-06-15 15:02:14
 image: 'https://m.media-amazon.com/images/I/41kdzM7gMLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087Q4FB4D-es VIDOO 2 Pairs Hurricane 51499 3-Blade 5Mm/Popo Propeller...'
 sku: 'B087Q4FB4D-es'
 tags: [  ]

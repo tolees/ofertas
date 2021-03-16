@@ -5,7 +5,7 @@ date: 2020-03-15 11:40:28
 image: 'https://m.media-amazon.com/images/I/51Bn0gwWAyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B8XTJPQ-es Purina ProPlan Medium Puppy Derma pienso para perro...'
 sku: 'B07B8XTJPQ-es'
 tags: [  ]

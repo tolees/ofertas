@@ -5,7 +5,7 @@ date: 2020-05-25 18:41:03
 image: 'https://m.media-amazon.com/images/I/41jqBSYv2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRJH2JM-es Tirol Nuevo Espejo ajustable para el asiento trasero del...'
 sku: 'B07ZRJH2JM-es'
 tags: [  ]

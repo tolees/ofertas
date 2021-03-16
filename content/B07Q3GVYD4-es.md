@@ -5,7 +5,7 @@ date: 2020-03-26 20:03:54
 image: 'https://m.media-amazon.com/images/I/41BnekhacaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3GVYD4-es Dockers by Gerli 43ad101 Botas Militar para Hombre Gris...'
 sku: 'B07Q3GVYD4-es'
 tags: [  ]

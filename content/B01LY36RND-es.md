@@ -5,7 +5,7 @@ date: 2020-02-15 21:32:16
 image: 'https://m.media-amazon.com/images/I/41mmLtVYhDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY36RND-es Audio Pro Addon T5 - Altavoz inalámbrico Color Rosa empolvado'
 sku: 'B01LY36RND-es'
 tags: [  ]

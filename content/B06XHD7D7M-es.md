@@ -5,7 +5,7 @@ date: 2020-05-11 01:50:21
 image: 'https://m.media-amazon.com/images/I/31kWNkKIKML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHD7D7M-es Helly Hansen HH LIFA Merino Crew LS Baselayer Hombre Negro M'
 sku: 'B06XHD7D7M-es'
 tags: [  ]

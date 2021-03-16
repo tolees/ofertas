@@ -5,7 +5,7 @@ date: 2020-03-30 20:13:16
 image: 'https://m.media-amazon.com/images/I/31PpM0p1-xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6N8FC6-es Tommy Hilfiger BB Cap Gorra de béisbol Pink Tf6 Talla...'
 sku: 'B07N6N8FC6-es'
 tags: [  ]

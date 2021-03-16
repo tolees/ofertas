@@ -5,7 +5,7 @@ date: 2020-09-09 13:51:35
 image: 'https://m.media-amazon.com/images/I/41g8VxI-K2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HSXTDV7-es Lepfun Laxuri Calcetines de Compresión Medias de...'
 sku: 'B07HSXTDV7-es'
 tags: [  ]

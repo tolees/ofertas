@@ -5,7 +5,7 @@ date: 2020-05-28 10:09:14
 image: 'https://m.media-amazon.com/images/I/41SfRnsocVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H44LBDO-es Universo DC - Robin Carrie Kelley vinyl pop heroes The...'
 sku: 'B01H44LBDO-es'
 tags: [  ]

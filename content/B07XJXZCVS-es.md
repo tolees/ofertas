@@ -5,7 +5,7 @@ date: 2020-04-16 18:27:25
 image: 'https://m.media-amazon.com/images/I/41NBHCRIytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJXZCVS-es Konesky Fabricante de Fideos de Acero Inoxidable Máquina...'
 sku: 'B07XJXZCVS-es'
 tags: [  ]

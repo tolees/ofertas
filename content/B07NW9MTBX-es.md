@@ -5,7 +5,7 @@ date: 2020-10-04 03:43:28
 image: 'https://m.media-amazon.com/images/I/41KFrl7zBVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW9MTBX-es Skechers Women s Solar Fuse-Brisk Escape Trainers Grey...'
 sku: 'B07NW9MTBX-es'
 tags: [  ]

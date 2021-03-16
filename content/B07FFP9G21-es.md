@@ -5,7 +5,7 @@ date: 2020-04-18 02:59:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518gCrIQmcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFP9G21-es Woo Well Bolsas de vegetales reutilizables de algodón...'
 sku: 'B07FFP9G21-es'
 tags: [  ]

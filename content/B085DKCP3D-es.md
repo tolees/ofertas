@@ -5,7 +5,7 @@ date: 2020-03-23 10:33:40
 image: 'https://m.media-amazon.com/images/I/41EkAVZL9kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085DKCP3D-es Paquete de 10 máscaras Desechables máscara de Filtro de...'
 sku: 'B085DKCP3D-es'
 tags: [  ]

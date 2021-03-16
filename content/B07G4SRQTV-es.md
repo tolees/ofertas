@@ -5,7 +5,7 @@ date: 2020-09-17 03:46:18
 image: 'https://m.media-amazon.com/images/I/41e3JsDBHsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4SRQTV-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07G4SRQTV-es'
 tags: [  ]

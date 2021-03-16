@@ -5,7 +5,7 @@ date: 2020-04-14 09:01:28
 image: 'https://m.media-amazon.com/images/I/61Qo7QP3cqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4D9JSV-es Huasiru Pintura Caso Funda para Amazon Kindle 8th...'
 sku: 'B07D4D9JSV-es'
 tags: [  ]

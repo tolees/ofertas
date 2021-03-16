@@ -5,7 +5,7 @@ date: 2020-02-08 09:59:32
 image: 'https://m.media-amazon.com/images/I/41O0EwbX4IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0822W5BXX-es GRÜNTEK Tijera de podar de 1 Mano Bussard 20 cm. Podadora...'
 sku: 'B0822W5BXX-es'
 tags: [  ]

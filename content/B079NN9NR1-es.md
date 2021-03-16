@@ -5,7 +5,7 @@ date: 2020-01-24 13:16:16
 image: 'https://m.media-amazon.com/images/I/51aHWyjOBjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NN9NR1-es iMagicBox- Street Edition Cife Spain 41374'
 sku: 'B079NN9NR1-es'
 tags: [  ]

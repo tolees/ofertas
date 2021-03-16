@@ -5,7 +5,7 @@ date: 2020-08-05 19:40:35
 image: 'https://m.media-amazon.com/images/I/414H0PMf85L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDF9P6Y-es Head 811904 Calcetín Unisex Adulto Gris 43 46'
 sku: 'B07YDF9P6Y-es'
 tags: [  ]

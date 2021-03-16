@@ -5,7 +5,7 @@ date: 2020-10-11 09:32:12
 image: 'https://m.media-amazon.com/images/I/412d+z6VRyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DCP9JG-es Trust GXT 310C Radius - Auriculares Gaming Multi-...'
 sku: 'B075DCP9JG-es'
 tags: [  ]

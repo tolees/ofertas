@@ -5,7 +5,7 @@ date: 2020-01-13 12:17:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UdOz78vdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G897HRR-es New Balance Fuell Cell Propel Zapatillas de Running para...'
 sku: 'B07G897HRR-es'
 tags: [  ]

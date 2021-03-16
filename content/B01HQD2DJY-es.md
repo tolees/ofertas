@@ -5,7 +5,7 @@ date: 2020-06-13 08:04:18
 image: 'https://m.media-amazon.com/images/I/51NlLmdqeNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HQD2DJY-es iCozzier 15-15 6 Pulgadas Funda para portátil con Espuma...'
 sku: 'B01HQD2DJY-es'
 tags: [  ]

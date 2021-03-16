@@ -5,7 +5,7 @@ date: 2020-06-02 18:02:30
 image: 'https://m.media-amazon.com/images/I/51-UkiCrbkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CKS3JQC-es KOOOPER Mapa del Mundo Mapa Mural para Rascar del Mundo...'
 sku: 'B07CKS3JQC-es'
 tags: [  ]

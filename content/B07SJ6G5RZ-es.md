@@ -5,7 +5,7 @@ date: 2020-04-14 09:08:33
 image: 'https://m.media-amazon.com/images/I/416OqUJBjdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ6G5RZ-es TOPBATHY Vegetable and Fruit Can Strainer Washing Drain...'
 sku: 'B07SJ6G5RZ-es'
 tags: [  ]

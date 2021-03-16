@@ -5,7 +5,7 @@ date: 2020-04-08 06:00:50
 image: 'https://m.media-amazon.com/images/I/51rRiRLhcpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LBF86B-es 8 piezas Broca Uso Power Tuerca Conductor Juego de puntas...'
 sku: 'B085LBF86B-es'
 tags: [  ]

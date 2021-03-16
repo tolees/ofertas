@@ -5,7 +5,7 @@ date: 2020-09-19 16:02:54
 image: 'https://m.media-amazon.com/images/I/41hcrK0eKkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZNDVJL9-es Wuyee 1Pcs Interruptor de Bloqueo para la máquina de...'
 sku: 'B07ZNDVJL9-es'
 tags: [  ]

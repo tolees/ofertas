@@ -5,7 +5,7 @@ date: 2020-09-24 16:07:47
 image: 'https://m.media-amazon.com/images/I/31XoLeuO3tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PS6VDDD-es Under Armour Favorite 2.0 Bolsa Deportiva Mujer Azul OSFA'
 sku: 'B07PS6VDDD-es'
 tags: [  ]

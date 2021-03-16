@@ -5,7 +5,7 @@ date: 2020-02-21 14:30:29
 image: 'https://m.media-amazon.com/images/I/51eBLR62WeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZIDGS0-es Serum contorno ojos 30ml con ácido hialurónico y colágeno....'
 sku: 'B01MZIDGS0-es'
 tags: [  ]

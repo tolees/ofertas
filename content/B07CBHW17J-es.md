@@ -5,7 +5,7 @@ date: 2020-09-30 17:10:42
 image: 'https://m.media-amazon.com/images/I/2107dqLRHAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CBHW17J-es Yves Saint Laurent DESSIN DES SOURCILS eyebrow pencil...'
 sku: 'B07CBHW17J-es'
 tags: [  ]

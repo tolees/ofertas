@@ -5,7 +5,7 @@ date: 2020-09-25 22:14:23
 image: 'https://m.media-amazon.com/images/I/41f+I2LEdQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSQ8FYQ-es Skechers Moreno Zapatillas para Hombre Negro Black Natural...'
 sku: 'B07TSQ8FYQ-es'
 tags: [  ]

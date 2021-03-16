@@ -5,7 +5,7 @@ date: 2020-09-15 23:21:51
 image: 'https://m.media-amazon.com/images/I/51VU284Oq0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9W70YU-es L Oréal Paris Sublime Mousse Coloración Permanente Tono:...'
 sku: 'B00X9W70YU-es'
 tags: [  ]

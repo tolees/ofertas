@@ -5,7 +5,7 @@ date: 2020-06-22 05:55:37
 image: 'https://m.media-amazon.com/images/I/41JMaDvLgTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FW2PSF-es Durex Naturals Hidratante Lubricante Ácido Hialurónico...'
 sku: 'B083FW2PSF-es'
 tags: [  ]

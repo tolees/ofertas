@@ -5,7 +5,7 @@ date: 2020-03-20 14:02:17
 image: 'https://m.media-amazon.com/images/I/41y7gtpPwmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J68IA5I-es [casa.pro] Set de 2 tumbonas plegables 190cm beige con...'
 sku: 'B01J68IA5I-es'
 tags: [  ]

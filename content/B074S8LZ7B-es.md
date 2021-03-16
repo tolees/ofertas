@@ -5,7 +5,7 @@ date: 2020-08-24 04:59:05
 image: 'https://m.media-amazon.com/images/I/51u-LPFDiUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074S8LZ7B-es Victorem Set de Bandas elásticas – Entrenamiento de...'
 sku: 'B074S8LZ7B-es'
 tags: [  ]

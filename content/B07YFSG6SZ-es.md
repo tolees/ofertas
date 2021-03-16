@@ -5,7 +5,7 @@ date: 2020-07-21 14:06:04
 image: 'https://m.media-amazon.com/images/I/51z4-0AiLvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFSG6SZ-es Horquillas Pelo Niña Remebe 36 Piezas Pinzas Niña e Gomas...'
 sku: 'B07YFSG6SZ-es'
 tags: [  ]

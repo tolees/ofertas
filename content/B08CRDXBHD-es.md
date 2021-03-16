@@ -5,7 +5,7 @@ date: 2020-08-22 15:44:11
 image: 'https://m.media-amazon.com/images/I/41yqOdMkn-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRDXBHD-es Auriculares inalámbricos de diadema para TV con estación...'
 sku: 'B08CRDXBHD-es'
 tags: [  ]

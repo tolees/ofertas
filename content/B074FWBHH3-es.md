@@ -5,7 +5,7 @@ date: 2020-01-23 20:05:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31UTP3S5WuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074FWBHH3-es Kiokids C/C - Porta chupetes esterilizador unisex color...'
 sku: 'B074FWBHH3-es'
 tags: [  ]

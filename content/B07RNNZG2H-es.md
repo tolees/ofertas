@@ -5,7 +5,7 @@ date: 2020-04-02 12:31:21
 image: 'https://m.media-amazon.com/images/I/41MyAyqLFmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RNNZG2H-es Portarrollos MEZOOM 2pcs cuelga papel higienico de 304...'
 sku: 'B07RNNZG2H-es'
 tags: [  ]

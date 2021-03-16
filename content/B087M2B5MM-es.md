@@ -5,7 +5,7 @@ date: 2020-07-31 13:55:48
 image: 'https://m.media-amazon.com/images/I/41Xb4ZqQtuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087M2B5MM-es Bichiro Dispensador de jabón automático 450 ml...'
 sku: 'B087M2B5MM-es'
 tags: [  ]

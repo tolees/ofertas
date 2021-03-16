@@ -5,7 +5,7 @@ date: 2020-01-04 09:06:54
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V83DT5D-es Halloween Tatuajes Temporales Halloween Zombie Tattoo 3...'
 sku: 'B07V83DT5D-es'
 tags: [  ]

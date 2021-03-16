@@ -5,7 +5,7 @@ date: 2020-03-31 21:13:41
 image: 'https://m.media-amazon.com/images/I/41NjXyCYDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RC65KG-es BRIKSMAX Kit de Iluminación Led para Lego Creator...'
 sku: 'B081RC65KG-es'
 tags: [  ]

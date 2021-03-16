@@ -5,7 +5,7 @@ date: 2020-08-06 14:57:48
 image: 'https://m.media-amazon.com/images/I/417k1sK2RpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ2JJ3P-es Clarks Step Explor Hi Botas para Nieve para Hombre Azul...'
 sku: 'B07MQ2JJ3P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-21 09:43:51
 image: 'https://m.media-amazon.com/images/I/41EiNzbf06L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6JR67J-es CapitalSports Alatech CS010 Pulsómetro - Sensor de Pulso...'
 sku: 'B07L6JR67J-es'
 tags: [  ]

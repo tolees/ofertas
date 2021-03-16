@@ -5,7 +5,7 @@ date: 2020-04-15 00:42:20
 image: 'https://m.media-amazon.com/images/I/41KOy7xr-uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSJZB5V-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Y-Wing...'
 sku: 'B07TSJZB5V-es'
 tags: [  ]

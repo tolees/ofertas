@@ -5,7 +5,7 @@ date: 2020-03-12 22:25:24
 image: 'https://m.media-amazon.com/images/I/4176HjUmyRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK418MS-es Columbia Redmond V2 Mid Botas de Senderismo de Piel...'
 sku: 'B07KK418MS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 11:30:10
 image: 'https://m.media-amazon.com/images/I/51tNJywnbzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LSYEHFQ-es Bosch PHO 2000 - Cuchilla cepilladora caja de cartón 680 W...'
 sku: 'B00LSYEHFQ-es'
 tags: [  ]

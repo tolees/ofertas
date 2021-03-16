@@ -5,7 +5,7 @@ date: 2020-08-01 16:46:55
 image: 'https://m.media-amazon.com/images/I/41d8PZyRibL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DV580WG-es Superga Classic Zapatillas Unisex Adulto Azul Blue Shadow...'
 sku: 'B00DV580WG-es'
 tags: [  ]

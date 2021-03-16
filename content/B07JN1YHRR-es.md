@@ -5,7 +5,7 @@ date: 2020-03-21 22:56:16
 image: 'https://m.media-amazon.com/images/I/41EDnMuD79L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JN1YHRR-es Relojes de Hombre Reloj Deportivo Digital para Hombre...'
 sku: 'B07JN1YHRR-es'
 tags: [  ]

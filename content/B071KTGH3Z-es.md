@@ -5,7 +5,7 @@ date: 2020-06-07 18:02:12
 image: 'https://m.media-amazon.com/images/I/31pU19ry3nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KTGH3Z-es Rimmel London Stay Matte Liquid Lip Colour Barra De Labios...'
 sku: 'B071KTGH3Z-es'
 tags: [  ]

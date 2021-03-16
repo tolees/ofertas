@@ -5,7 +5,7 @@ date: 2020-01-14 21:07:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IbZ2aUWHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XRDJXNX-es HOMECHO Mesa Auxiliar con 3 Estantes Mesa para Lámpara...'
 sku: 'B07XRDJXNX-es'
 tags: [  ]

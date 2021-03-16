@@ -5,7 +5,7 @@ date: 2020-01-08 17:16:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31IiM6SadAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FWSTNX-es Woxter Power Bank QC 16000 Silver - Batería portátil con...'
 sku: 'B079FWSTNX-es'
 tags: [  ]

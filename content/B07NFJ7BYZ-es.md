@@ -5,7 +5,7 @@ date: 2020-08-02 19:32:11
 image: 'https://m.media-amazon.com/images/I/51Vr4ekN9tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFJ7BYZ-es Casio Reloj Analógico para Unisex Adultos de Cuarzo con...'
 sku: 'B07NFJ7BYZ-es'
 tags: [  ]

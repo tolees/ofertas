@@ -5,7 +5,7 @@ date: 2020-02-06 09:38:42
 image: 'https://m.media-amazon.com/images/I/418rqSdXe0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGHZXDY-es Ayete Smartwatch Fitness Tracker con frecuencia cardíaca...'
 sku: 'B07XGHZXDY-es'
 tags: [  ]

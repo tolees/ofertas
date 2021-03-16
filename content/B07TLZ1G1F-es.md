@@ -5,7 +5,7 @@ date: 2020-04-14 10:42:15
 image: 'https://m.media-amazon.com/images/I/414iiXo2UZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLZ1G1F-es Vans Atwood Textile Zapatillas para Hombre Azul Corduroy...'
 sku: 'B07TLZ1G1F-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-11 11:07:33
 image: 'https://m.media-amazon.com/images/I/41UCRWsKMOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078TPK9JF-es Toshiba THN-M203K0160EA Tarjeta de memoria 16 GB MicroSDXC...'
 sku: 'B078TPK9JF-es'
 tags: [  ]

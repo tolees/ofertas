@@ -5,7 +5,7 @@ date: 2020-07-31 20:55:37
 image: 'https://m.media-amazon.com/images/I/41Uw5aVka-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNV8X8-es G-STAR RAW Drego Belt Cinturón Multicolor Natural/Antic...'
 sku: 'B07NDNV8X8-es'
 tags: [  ]

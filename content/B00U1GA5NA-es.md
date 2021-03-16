@@ -5,7 +5,7 @@ date: 2020-03-11 11:43:08
 image: 'https://m.media-amazon.com/images/I/51-1qWlwZwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U1GA5NA-es INJUSA - Triciclo City Max Blanco para Bebés +6 Meses con...'
 sku: 'B00U1GA5NA-es'
 tags: [  ]

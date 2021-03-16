@@ -5,7 +5,7 @@ date: 2020-06-23 18:32:27
 image: 'https://m.media-amazon.com/images/I/31jxFj1s8WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WJTZXFW-es Libertroy USB Splitter 3usb Multifunción 3a Conversor...'
 sku: 'B07WJTZXFW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 16:45:53
 image: 'https://m.media-amazon.com/images/I/51gR+OurffL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RY4GHLS-es Funda con Cuerda para Xiaomi Redmi Note 5 Silicona...'
 sku: 'B07RY4GHLS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 12:33:59
 image: 'https://m.media-amazon.com/images/I/41CjF6sQtZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SDEXHPK-es K&N 33-3025 Filtro de Aire Coche Lavable y Reutilizable'
 sku: 'B00SDEXHPK-es'
 tags: [  ]

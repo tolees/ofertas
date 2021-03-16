@@ -5,7 +5,7 @@ date: 2020-01-06 20:04:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41E%2BuaiVd%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5F3ZV5-es Wrangler Logo Hoodie Capucha Gris Dark Grey Mel X06 Large...'
 sku: 'B07M5F3ZV5-es'
 tags: [  ]

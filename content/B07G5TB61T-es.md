@@ -5,7 +5,7 @@ date: 2020-09-08 12:47:06
 image: 'https://m.media-amazon.com/images/I/51YUUlsj3AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5TB61T-es ZHENROG Electroestimulador Muscular Abdominales Masajeador...'
 sku: 'B07G5TB61T-es'
 tags: [  ]

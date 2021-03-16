@@ -5,7 +5,7 @@ date: 2020-01-18 21:05:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hcOqY4tvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004QBRX5Y-es OROFLUIDO Mask Mascarilla - 250 ml'
 sku: 'B004QBRX5Y-es'
 tags: [  ]

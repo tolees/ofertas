@@ -5,7 +5,7 @@ date: 2020-02-28 12:32:43
 image: 'https://m.media-amazon.com/images/I/41jeP+M2dcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFKTZ8K-es Fossil Smartwatch para Hombre con Correa en Cuero FTW4016'
 sku: 'B07FFKTZ8K-es'
 tags: [  ]

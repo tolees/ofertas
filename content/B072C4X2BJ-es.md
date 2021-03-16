@@ -5,7 +5,7 @@ date: 2020-01-02 07:30:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/416tjvMewtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072C4X2BJ-es Di4 Jet Pressing Centro de Planchado Doble Sistema de...'
 sku: 'B072C4X2BJ-es'
 tags: [  ]

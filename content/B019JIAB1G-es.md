@@ -5,7 +5,7 @@ date: 2019-12-30 14:07:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JQnpqZ1fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019JIAB1G-es Funko-6560 Triwizard Tournament Figura de Vinilo colección...'
 sku: 'B019JIAB1G-es'
 tags: [  ]

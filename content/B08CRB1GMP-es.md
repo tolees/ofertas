@@ -5,7 +5,7 @@ date: 2020-09-23 10:02:59
 image: 'https://m.media-amazon.com/images/I/410A7IpY6zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRB1GMP-es Yoga portátil Pilates Mat Bolsa de Nylon Carrier Mesh...'
 sku: 'B08CRB1GMP-es'
 tags: [  ]

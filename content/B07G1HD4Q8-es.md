@@ -5,7 +5,7 @@ date: 2020-10-03 23:51:21
 image: 'https://m.media-amazon.com/images/I/41WNsyiTSOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1HD4Q8-es find. Chunky Leather Botas Chelsea Negro Black 36 EU'
 sku: 'B07G1HD4Q8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-03 15:32:36
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51xO8LzclQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053C9CDG-es The Hulk [Blu-ray]'
 sku: 'B0053C9CDG-es'
 tags: [  ]

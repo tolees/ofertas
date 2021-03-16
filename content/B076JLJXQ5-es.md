@@ -5,7 +5,7 @@ date: 2020-09-24 08:02:34
 image: 'https://m.media-amazon.com/images/I/41WIF0qdv0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JLJXQ5-es Oral-B Pro 750 Sensi Ultrathin Adulto Azul - Cepillo de...'
 sku: 'B076JLJXQ5-es'
 tags: [  ]

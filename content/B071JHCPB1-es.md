@@ -5,7 +5,7 @@ date: 2020-05-04 01:44:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-pwj3ZWML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JHCPB1-es adidas Campus Zapatillas de Deporte para Hombre Gris Grey...'
 sku: 'B071JHCPB1-es'
 tags: [  ]

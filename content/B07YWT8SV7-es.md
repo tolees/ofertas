@@ -5,7 +5,7 @@ date: 2020-05-28 14:46:00
 image: 'https://m.media-amazon.com/images/I/51y3G+xZWyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWT8SV7-es CXZC Cojín de silla de salón de patio de 120 cm cojines de...'
 sku: 'B07YWT8SV7-es'
 tags: [  ]

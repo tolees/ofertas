@@ -5,7 +5,7 @@ date: 2020-08-24 08:27:02
 image: 'https://m.media-amazon.com/images/I/31MCV0u8S0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ODRSBPW-es Jabra Evolve 20 UC - Auriculares Estéreo de Comunicaciones...'
 sku: 'B00ODRSBPW-es'
 tags: [  ]

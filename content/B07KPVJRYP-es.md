@@ -5,7 +5,7 @@ date: 2020-02-10 09:54:26
 image: 'https://m.media-amazon.com/images/I/41pdGZzBwCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPVJRYP-es Columbia Meadows Omni Botas Bajas para Mujer Marrón Heat-...'
 sku: 'B07KPVJRYP-es'
 tags: [  ]

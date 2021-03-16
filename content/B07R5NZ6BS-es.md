@@ -5,7 +5,7 @@ date: 2020-05-23 08:48:53
 image: 'https://m.media-amazon.com/images/I/41NPk8+ZxEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5NZ6BS-es Viviance Universal Motocicleta Quad Pit Dirt Moto Tambor...'
 sku: 'B07R5NZ6BS-es'
 tags: [  ]

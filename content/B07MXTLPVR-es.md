@@ -5,7 +5,7 @@ date: 2020-04-19 15:05:11
 image: 'https://m.media-amazon.com/images/I/41ndY2ij-NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXTLPVR-es SALOMON Explore Graphic SS tee T-Shirt Hombre Azul...'
 sku: 'B07MXTLPVR-es'
 tags: [  ]

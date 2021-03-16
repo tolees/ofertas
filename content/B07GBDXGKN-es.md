@@ -5,7 +5,7 @@ date: 2020-07-09 03:41:18
 image: 'https://m.media-amazon.com/images/I/51R1j5hbM3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBDXGKN-es Pulsar Reloj cronografo para Hombre de Energía Solar con...'
 sku: 'B07GBDXGKN-es'
 tags: [  ]

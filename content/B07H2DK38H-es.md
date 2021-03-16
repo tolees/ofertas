@@ -5,7 +5,7 @@ date: 2020-06-21 14:03:09
 image: 'https://m.media-amazon.com/images/I/41w2XLqIQnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2DK38H-es Juntas Cilindro Maestro Junta de Mirilla de Vista Hierro +...'
 sku: 'B07H2DK38H-es'
 tags: [  ]

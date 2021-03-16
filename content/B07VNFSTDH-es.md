@@ -5,7 +5,7 @@ date: 2020-08-11 10:45:32
 image: 'https://m.media-amazon.com/images/I/51v3nVxlY3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNFSTDH-es Anself 18 pcs Kit de Manicura Pedicura Profesional Kit de...'
 sku: 'B07VNFSTDH-es'
 tags: [  ]

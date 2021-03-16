@@ -5,7 +5,7 @@ date: 2020-04-09 08:11:47
 image: 'https://m.media-amazon.com/images/I/415kU+8PlSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWPWND7-es Gitany Juego de 10 Utensilios de Cocina Set de Utensilios...'
 sku: 'B07QWPWND7-es'
 tags: [  ]

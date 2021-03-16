@@ -5,7 +5,7 @@ date: 2020-02-14 21:37:51
 image: 'https://m.media-amazon.com/images/I/51loodpXI4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RM5JQ25-es HyAdierTech Cucharas Siliconas Bebé 2 Piezas Cucharillas...'
 sku: 'B07RM5JQ25-es'
 tags: [  ]

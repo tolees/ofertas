@@ -5,7 +5,7 @@ date: 2020-08-21 08:50:34
 image: 'https://m.media-amazon.com/images/I/41bDM-RUIuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYC0D7N-es Brabantia Newicon-Cubo de Basura con Pedal 3 l Color Fpp...'
 sku: 'B01LYC0D7N-es'
 tags: [  ]

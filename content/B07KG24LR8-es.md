@@ -5,7 +5,7 @@ date: 2020-04-12 15:06:30
 image: 'https://m.media-amazon.com/images/I/31SZ2mETh6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG24LR8-es PUMA King Pro SG Botas de fútbol para Hombre Black White...'
 sku: 'B07KG24LR8-es'
 tags: [  ]

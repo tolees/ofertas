@@ -5,7 +5,7 @@ date: 2020-07-27 21:38:27
 image: 'https://m.media-amazon.com/images/I/41cYDb7z5RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JYRNBH-es Victoria Deportivo Serraje P. Negro Zapatillas para Mujer...'
 sku: 'B071JYRNBH-es'
 tags: [  ]

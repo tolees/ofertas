@@ -5,7 +5,7 @@ date: 2020-05-29 16:06:49
 image: 'https://m.media-amazon.com/images/I/4140YD6srOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071HTHZN3-es Piquadro BV3849MO Modus Trolley para portátil 40 x 20 x 55...'
 sku: 'B071HTHZN3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 08:27:49
 image: 'https://m.media-amazon.com/images/I/412kWmOq8OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPM5G8X-es Lunvon 12 Canales Enchufes Inalámbricos Inteligentes con...'
 sku: 'B07CPM5G8X-es'
 tags: [  ]

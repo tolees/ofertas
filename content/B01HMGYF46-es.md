@@ -5,7 +5,7 @@ date: 2020-05-04 12:57:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQe1Ks30L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HMGYF46-es Canon MAXIFY MB2750 - Impresora de inyección de tinta 2...'
 sku: 'B01HMGYF46-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 22:33:13
 image: 'https://m.media-amazon.com/images/I/31JrxaF2qSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JH6JYB8-es Auriculares Bluetooth 5.0 Auricular Inalámbrico reducción...'
 sku: 'B08JH6JYB8-es'
 tags: [  ]

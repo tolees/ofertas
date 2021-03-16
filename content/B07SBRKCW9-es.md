@@ -5,7 +5,7 @@ date: 2020-09-01 14:01:18
 image: 'https://m.media-amazon.com/images/I/41H1Iu46xPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBRKCW9-es Nihlsen Almohadilla de PVC Inflable Redonda para niños...'
 sku: 'B07SBRKCW9-es'
 tags: [  ]

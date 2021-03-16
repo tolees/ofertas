@@ -5,7 +5,7 @@ date: 2020-03-31 12:32:29
 image: 'https://m.media-amazon.com/images/I/41iCdWIRuaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSXFXJP-es Hoverkart Profesional | Hoverkart Metal | Hoverboard...'
 sku: 'B07GSXFXJP-es'
 tags: [  ]

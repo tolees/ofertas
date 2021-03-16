@@ -5,7 +5,7 @@ date: 2020-07-18 17:10:08
 image: 'https://m.media-amazon.com/images/I/41f8P3yq3KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NK7N58S-es Famgizmo Soporte de Pared para TV 14-37 Pulgadas 35-94cm...'
 sku: 'B07NK7N58S-es'
 tags: [  ]

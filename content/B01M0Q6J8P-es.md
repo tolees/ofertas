@@ -5,7 +5,7 @@ date: 2020-07-06 09:34:47
 image: 'https://m.media-amazon.com/images/I/31+UP94LqtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0Q6J8P-es 14.4V 2600mAh Bateria de laptop L12L4E01 L12S4E01 L12M4E01...'
 sku: 'B01M0Q6J8P-es'
 tags: [  ]

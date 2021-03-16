@@ -5,7 +5,7 @@ date: 2020-07-09 21:14:15
 image: 'https://m.media-amazon.com/images/I/41nRI27y2VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFLR4XS-es Optimum Nutrition Optimum Protein Shakes Vanilla Listo a...'
 sku: 'B07VFLR4XS-es'
 tags: [  ]

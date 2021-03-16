@@ -5,7 +5,7 @@ date: 2020-07-17 17:43:41
 image: 'https://m.media-amazon.com/images/I/41RffqQEeJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZHP2H7J-es BaByliss 668E Cepillo de aire de viaje 2 temperaturas...'
 sku: 'B07ZHP2H7J-es'
 tags: [  ]

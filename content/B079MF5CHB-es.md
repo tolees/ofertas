@@ -5,7 +5,7 @@ date: 2020-06-25 05:34:50
 image: 'https://m.media-amazon.com/images/I/41lgUAo-aHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MF5CHB-es New Balance 411 m Zapatillas de Running para Mujer Negro...'
 sku: 'B079MF5CHB-es'
 tags: [  ]

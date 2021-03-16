@@ -5,7 +5,7 @@ date: 2020-08-13 09:46:36
 image: 'https://m.media-amazon.com/images/I/518eE6dOm5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFJJ5FZ-es SUMMONERS War - Pop Paladin Light Jeanne'
 sku: 'B07DFJJ5FZ-es'
 tags: [  ]

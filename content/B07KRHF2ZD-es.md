@@ -5,7 +5,7 @@ date: 2020-01-01 15:18:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRHF2ZD-es New Balance 373 Zapatillas Hombre Marrón Brown 43 EU'
 sku: 'B07KRHF2ZD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-24 00:41:33
 image: 'https://m.media-amazon.com/images/I/31Q4JlSAXPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPTXZ67-es PUMA Cilia Zapatillas para Mujer Blanco White/Gray Violet...'
 sku: 'B07FPTXZ67-es'
 tags: [  ]

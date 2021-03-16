@@ -5,7 +5,7 @@ date: 2020-05-07 08:12:13
 image: 'https://m.media-amazon.com/images/I/312-RzAPUqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073QSXXCH-es Osram 819559 Bombilla LED E27 14 W Blanco Frío 3 Unidades'
 sku: 'B073QSXXCH-es'
 tags: [  ]

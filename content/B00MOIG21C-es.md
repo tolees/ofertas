@@ -5,7 +5,7 @@ date: 2020-01-16 20:02:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/315ZV195x6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MOIG21C-es WMF Kitchenminis Hervidor de agua eléctrico 0.8 litros...'
 sku: 'B00MOIG21C-es'
 tags: [  ]

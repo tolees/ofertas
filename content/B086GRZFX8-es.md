@@ -5,7 +5,7 @@ date: 2020-04-26 16:15:20
 image: 'https://m.media-amazon.com/images/I/512m0dFLFmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GRZFX8-es SIMBR General - 30 unidades KN-95 N-95 FFP2 PM2.5...'
 sku: 'B086GRZFX8-es'
 tags: [  ]

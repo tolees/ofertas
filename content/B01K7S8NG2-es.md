@@ -5,7 +5,7 @@ date: 2020-04-26 22:30:25
 image: 'https://m.media-amazon.com/images/I/31gYFgQVykL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7S8NG2-es Gran Cremant Cava Codorníu Semiseco - 0.75 l'
 sku: 'B01K7S8NG2-es'
 tags: [  ]

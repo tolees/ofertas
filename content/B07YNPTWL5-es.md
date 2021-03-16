@@ -5,7 +5,7 @@ date: 2020-07-10 06:15:51
 image: 'https://m.media-amazon.com/images/I/41MahS8U7eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNPTWL5-es Cecotec Afeitadora Multifunción 5 en 1 Bamba PrecisionCare...'
 sku: 'B07YNPTWL5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 09:31:25
 image: 'https://m.media-amazon.com/images/I/512OinjoF0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077T1M3DS-es Tomshine Lámpara de Mesa Lámpara Mesita de Noche Madera...'
 sku: 'B077T1M3DS-es'
 tags: [  ]

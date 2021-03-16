@@ -5,7 +5,7 @@ date: 2020-02-29 08:05:51
 image: 'https://m.media-amazon.com/images/I/41ZJPrWnDNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NHS2ZJH-es Tamaris 1-1-23720-33 Zapatillas para Mujer Negro...'
 sku: 'B07NHS2ZJH-es'
 tags: [  ]

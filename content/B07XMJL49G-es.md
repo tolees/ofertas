@@ -5,7 +5,7 @@ date: 2020-07-27 17:11:33
 image: 'https://m.media-amazon.com/images/I/51Qrz0mCyfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XMJL49G-es HBselect 3 Piezas Sujetador Lactancia Sostén De Maternidad...'
 sku: 'B07XMJL49G-es'
 tags: [  ]

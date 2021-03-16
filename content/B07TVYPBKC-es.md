@@ -5,7 +5,7 @@ date: 2020-08-18 19:31:16
 image: 'https://m.media-amazon.com/images/I/31VTUeXUjTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVYPBKC-es Cable de programación USB portátil y Ligero para Hytera...'
 sku: 'B07TVYPBKC-es'
 tags: [  ]

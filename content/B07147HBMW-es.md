@@ -5,7 +5,7 @@ date: 2020-06-08 18:18:38
 image: 'https://m.media-amazon.com/images/I/41UBkD5N4lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07147HBMW-es Asics Gel-Rocket 8 Zapatillas de Voleibol para Mujer Rosa...'
 sku: 'B07147HBMW-es'
 tags: [  ]

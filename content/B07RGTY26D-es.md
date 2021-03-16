@@ -5,7 +5,7 @@ date: 2020-10-10 19:16:26
 image: 'https://m.media-amazon.com/images/I/31arHtcyU6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGTY26D-es New Balance Hombre Fresh Foam Arishi v3 Scarpe Running...'
 sku: 'B07RGTY26D-es'
 tags: [  ]

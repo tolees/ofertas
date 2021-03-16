@@ -5,7 +5,7 @@ date: 2020-01-13 17:05:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XQtvwKt8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVBNV7P-es Napapijri Eisberg SS Polo Azul Clematis Blue VB1 Large...'
 sku: 'B07MVBNV7P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 20:16:03
 image: 'https://m.media-amazon.com/images/I/51EVRIuQ5FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VQYVDT-es Targus TSS959GL 14" Gris maletines para Portátil - Funda...'
 sku: 'B079VQYVDT-es'
 tags: [  ]

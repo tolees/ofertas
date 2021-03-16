@@ -5,7 +5,7 @@ date: 2020-07-20 15:46:56
 image: 'https://m.media-amazon.com/images/I/41HoOPZK4AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089R6WD1D-es LJP Funda Huawei Y9S Funda Huawei Honor 9X Antigolpes...'
 sku: 'B089R6WD1D-es'
 tags: [  ]

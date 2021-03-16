@@ -5,7 +5,7 @@ date: 2020-03-09 04:48:34
 image: 'https://m.media-amazon.com/images/I/31jow+th6QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007LNJ94W-es L Oréal Tratamiento para pestañas - 9 gr.'
 sku: 'B007LNJ94W-es'
 tags: [  ]

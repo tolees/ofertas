@@ -5,7 +5,7 @@ date: 2020-01-26 19:32:57
 image: 'https://m.media-amazon.com/images/I/31R4DdHtLcL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0027UY3IG-es St.Tropez Mousse De Bronceado - 120 ml.'
 sku: 'B0027UY3IG-es'
 tags: [  ]

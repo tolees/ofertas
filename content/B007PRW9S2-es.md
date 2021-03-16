@@ -5,7 +5,7 @@ date: 2020-05-30 19:24:28
 image: 'https://m.media-amazon.com/images/I/41PfFN2o8vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007PRW9S2-es Orbegozo WF 0242 Ventilador de pared 40 W 3 Velocidades...'
 sku: 'B007PRW9S2-es'
 tags: [  ]

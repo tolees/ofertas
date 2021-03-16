@@ -5,7 +5,7 @@ date: 2020-08-17 15:50:11
 image: 'https://m.media-amazon.com/images/I/41PeLXM+oSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZWBMCHW-es The Mind - Extreme'
 sku: 'B07ZWBMCHW-es'
 tags: [  ]

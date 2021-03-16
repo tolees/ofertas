@@ -5,7 +5,7 @@ date: 2020-01-05 10:11:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/518zdIi86FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1WSY1C-es Melissa Pack Hilo Acrílico Ovillos de Lanas de Hilo Lana...'
 sku: 'B07S1WSY1C-es'
 tags: [  ]

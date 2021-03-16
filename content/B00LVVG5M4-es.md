@@ -5,7 +5,7 @@ date: 2020-07-20 15:08:50
 image: 'https://m.media-amazon.com/images/I/41pHr9e+CdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LVVG5M4-es Rio LAHR-C - Depiladora con láser'
 sku: 'B00LVVG5M4-es'
 tags: [  ]

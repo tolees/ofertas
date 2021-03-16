@@ -5,7 +5,7 @@ date: 2020-07-07 08:28:13
 image: 'https://m.media-amazon.com/images/I/31IyXMn2qvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014SP20AK-es TOUCHBeauty Mujeres Mini Ladies Shaver Pluma Portátil...'
 sku: 'B014SP20AK-es'
 tags: [  ]

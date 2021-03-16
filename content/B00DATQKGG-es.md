@@ -5,7 +5,7 @@ date: 2020-03-31 12:36:00
 image: 'https://m.media-amazon.com/images/I/51en5wl3CxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DATQKGG-es Comodynes Self-Tanning Manopla Autobronceadora - 3 Unidades'
 sku: 'B00DATQKGG-es'
 tags: [  ]

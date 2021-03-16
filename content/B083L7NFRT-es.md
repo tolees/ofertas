@@ -5,7 +5,7 @@ date: 2020-04-13 16:28:58
 image: 'https://m.media-amazon.com/images/I/51pgEtCZIFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083L7NFRT-es Queta Ei-Separator Eiweiß-Eigelb-Filter-Separator Küchen-...'
 sku: 'B083L7NFRT-es'
 tags: [  ]

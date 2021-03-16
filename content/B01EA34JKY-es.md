@@ -5,7 +5,7 @@ date: 2020-03-20 09:32:07
 image: 'https://m.media-amazon.com/images/I/31SiToRdqVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EA34JKY-es American Tourister WaveBreaker Spinner 55/20 - Equipaje de...'
 sku: 'B01EA34JKY-es'
 tags: [  ]

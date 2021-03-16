@@ -5,7 +5,7 @@ date: 2020-08-06 12:06:32
 image: 'https://m.media-amazon.com/images/I/31R8tiTxMfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0012YEZKO-es Philips HQ110/02 - Spray limpiador para cabezales'
 sku: 'B0012YEZKO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 07:59:40
 image: 'https://m.media-amazon.com/images/I/31zn7QHX2WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004UBU8IE-es TP-Link TL-WA801ND V5.0 - Punto de acceso...'
 sku: 'B004UBU8IE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-08 06:52:50
 image: 'https://m.media-amazon.com/images/I/411-Qd8AhOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZWF0NKU-es Muvit MUCHL0052 Coche - Soporte Teléfono móvil/Smartphone...'
 sku: 'B00ZWF0NKU-es'
 tags: [  ]

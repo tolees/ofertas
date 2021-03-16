@@ -5,7 +5,7 @@ date: 2020-06-25 10:19:05
 image: 'https://m.media-amazon.com/images/I/51M26XzDX4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089YF6RW7-es BAÑADOR DE Hombre QUORIMINEL ASSOR B Blanco XL'
 sku: 'B089YF6RW7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-14 14:03:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41eTL2paYuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRBNH4Z-es AROYI Funda iPhone 11+2 x Protector de Pantalla iPhone 11...'
 sku: 'B07ZRBNH4Z-es'
 tags: [  ]

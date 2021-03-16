@@ -5,7 +5,7 @@ date: 2020-06-27 08:05:38
 image: 'https://m.media-amazon.com/images/I/41E5kKgKMeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DPPWLH-es MASOMRUN Adaptador de Lector de Tarjeta SD Kit Conexión de...'
 sku: 'B081DPPWLH-es'
 tags: [  ]

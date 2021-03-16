@@ -5,7 +5,7 @@ date: 2020-01-02 21:06:00
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758GPL2C-es BOSS Prime Polo Negro Black 1 Medium para Hombre'
 sku: 'B0758GPL2C-es'
 tags: [  ]

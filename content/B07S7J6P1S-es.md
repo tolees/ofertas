@@ -5,7 +5,7 @@ date: 2020-07-28 13:45:47
 image: 'https://m.media-amazon.com/images/I/51n5LctzS8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7J6P1S-es Festina Hombre F20279/A'
 sku: 'B07S7J6P1S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-01 20:40:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41N2qCFFj4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2HM5MG-es Reebok REAGO Pulse Zapatillas de Deporte Interior para...'
 sku: 'B07P2HM5MG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-19 19:02:59
 image: 'https://m.media-amazon.com/images/I/41s9wxzcreL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079CCMFS7-es ITALY MORN Hombre Jogger Pantalones Khaki para el Trabajo...'
 sku: 'B079CCMFS7-es'
 tags: [  ]

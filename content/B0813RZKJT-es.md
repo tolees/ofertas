@@ -5,7 +5,7 @@ date: 2020-08-26 19:47:54
 image: 'https://m.media-amazon.com/images/I/31i+UFF+IXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813RZKJT-es adidas Adilette Comfort Slide Sandal Womens Core...'
 sku: 'B0813RZKJT-es'
 tags: [  ]

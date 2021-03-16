@@ -5,7 +5,7 @@ date: 2020-04-24 17:46:12
 image: 'https://m.media-amazon.com/images/I/417Gp9dFw4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPVG67C-es Tccmebius Externo Caja de disco duro Adaptador USB 3.0 a...'
 sku: 'B07KPVG67C-es'
 tags: [  ]

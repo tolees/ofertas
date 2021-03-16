@@ -5,7 +5,7 @@ date: 2020-05-18 18:32:38
 image: 'https://m.media-amazon.com/images/I/317ysclR8zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004EXON0W-es Fifty Pounds Ginebra - 700 ml'
 sku: 'B004EXON0W-es'
 tags: [  ]

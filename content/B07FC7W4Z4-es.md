@@ -5,7 +5,7 @@ date: 2020-01-11 19:31:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41n3p5CwkZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FC7W4Z4-es HUION Kamvas Pro 13 HD 13.3 in Tableta Monitor con función...'
 sku: 'B07FC7W4Z4-es'
 tags: [  ]

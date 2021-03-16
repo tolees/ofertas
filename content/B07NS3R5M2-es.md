@@ -5,7 +5,7 @@ date: 2020-06-14 11:16:37
 image: 'https://m.media-amazon.com/images/I/51Q8C-1q9ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NS3R5M2-es BERSIGAR Negocio de los Hombres Casual Cronógrafo Cuarzo...'
 sku: 'B07NS3R5M2-es'
 tags: [  ]

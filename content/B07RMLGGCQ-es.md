@@ -5,7 +5,7 @@ date: 2020-03-08 15:13:22
 image: 'https://m.media-amazon.com/images/I/41UZb9DnQ2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMLGGCQ-es Calvin Klein - Worked Shopper Bolsos totes Mujer Negro...'
 sku: 'B07RMLGGCQ-es'
 tags: [  ]

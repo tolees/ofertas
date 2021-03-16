@@ -5,7 +5,7 @@ date: 2020-05-24 23:08:16
 image: 'https://m.media-amazon.com/images/I/419UjFvOhFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVCCTJQ-es Ácido Hialurónico puro 400 mg | 120 cápsulas veganas...'
 sku: 'B07TVCCTJQ-es'
 tags: [  ]

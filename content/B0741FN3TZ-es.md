@@ -5,7 +5,7 @@ date: 2020-05-03 13:16:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31EVKv7ptYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0741FN3TZ-es Orbegozo HU 2016 Humidificador 20 W Blanco'
 sku: 'B0741FN3TZ-es'
 tags: [  ]

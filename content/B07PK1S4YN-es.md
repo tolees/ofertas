@@ -5,7 +5,7 @@ date: 2020-01-09 15:41:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41n0oqSZeOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PK1S4YN-es G-STAR RAW Tach Trunk 3-Pack Bañador Multicolor Hudson...'
 sku: 'B07PK1S4YN-es'
 tags: [  ]

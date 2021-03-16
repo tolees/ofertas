@@ -5,7 +5,7 @@ date: 2020-08-14 16:32:44
 image: 'https://m.media-amazon.com/images/I/41FiG-wj0BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B44J8HQ-es Relec Roll On Post-Picaduras de Insectos y Plantas |...'
 sku: 'B07B44J8HQ-es'
 tags: [  ]

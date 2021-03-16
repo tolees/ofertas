@@ -5,7 +5,7 @@ date: 2020-02-01 02:14:23
 image: 'https://m.media-amazon.com/images/I/41NVOpFYRCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GODPB6U-es Baby Jogger Deluxe - Capazo color negro'
 sku: 'B00GODPB6U-es'
 tags: [  ]

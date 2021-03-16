@@ -5,7 +5,7 @@ date: 2020-08-05 08:04:14
 image: 'https://m.media-amazon.com/images/I/41E5w+xna8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBWPBTB-es Baby Jogger City Tour LUX color berenjena. Silla de paseo...'
 sku: 'B07LBWPBTB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 19:35:15
 image: 'https://m.media-amazon.com/images/I/51ehOFHf9IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NZY7SWG-es New Era ERA MLB Side Bolsa de Hombro Unisex Adulto Negro...'
 sku: 'B07NZY7SWG-es'
 tags: [  ]

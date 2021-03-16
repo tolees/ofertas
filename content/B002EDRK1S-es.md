@@ -5,7 +5,7 @@ date: 2020-07-20 15:08:06
 image: 'https://m.media-amazon.com/images/I/51XYaLv7RvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002EDRK1S-es HP CE255X 55X Cartucho de Tóner Original de alto...'
 sku: 'B002EDRK1S-es'
 tags: [  ]

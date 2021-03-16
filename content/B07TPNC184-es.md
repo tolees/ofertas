@@ -5,7 +5,7 @@ date: 2020-01-15 09:34:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YeFSPOfZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPNC184-es Legami - Agenda semanal de 12 meses - Tema Take It Easy -...'
 sku: 'B07TPNC184-es'
 tags: [  ]

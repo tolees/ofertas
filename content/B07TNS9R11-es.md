@@ -5,7 +5,7 @@ date: 2020-10-12 13:06:58
 image: 'https://m.media-amazon.com/images/I/41zMFgVttDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNS9R11-es Revamp Progloss Quad Ionic 3800 Secador de Pelo Iónico...'
 sku: 'B07TNS9R11-es'
 tags: [  ]

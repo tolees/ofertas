@@ -5,7 +5,7 @@ date: 2020-01-16 11:24:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ai2a1VRGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVHKZ2B-es Napapijri Semiury WOM Gorro de Punto Morado Purple Wine...'
 sku: 'B07MVHKZ2B-es'
 tags: [  ]

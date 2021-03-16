@@ -5,7 +5,7 @@ date: 2020-09-11 11:45:38
 image: 'https://m.media-amazon.com/images/I/41A5sTeYgeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ITHI8RW-es Otterbox Clearly Protected Skin - Funda de Gel...'
 sku: 'B01ITHI8RW-es'
 tags: [  ]

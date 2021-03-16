@@ -5,7 +5,7 @@ date: 2020-06-05 12:28:14
 image: 'https://m.media-amazon.com/images/I/41V7d8ZFCSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5MCHUK-es Bourjois Velvet Barra de Labios Líquida Tono 03 Hot pepper...'
 sku: 'B00J5MCHUK-es'
 tags: [  ]

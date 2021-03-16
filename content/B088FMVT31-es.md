@@ -5,7 +5,7 @@ date: 2020-07-21 12:19:24
 image: 'https://m.media-amazon.com/images/I/31zcKH2VwcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FMVT31-es Nuevo 1 par 1 Canal transceptor de Video pasivo para...'
 sku: 'B088FMVT31-es'
 tags: [  ]

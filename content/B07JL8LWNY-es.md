@@ -5,7 +5,7 @@ date: 2020-01-15 22:50:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51j5p6cDnjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JL8LWNY-es dreamlock vehículo articulado retrofriction de...'
 sku: 'B07JL8LWNY-es'
 tags: [  ]

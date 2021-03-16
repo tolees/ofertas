@@ -5,7 +5,7 @@ date: 2020-05-17 10:37:07
 image: 'https://m.media-amazon.com/images/I/41CaQd04h5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJHSGYC-es Tamaris 1-1-25249-23 Botas Militar para Mujer Marrón Taupe...'
 sku: 'B07NJHSGYC-es'
 tags: [  ]

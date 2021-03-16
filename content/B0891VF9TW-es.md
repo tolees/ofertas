@@ -5,7 +5,7 @@ date: 2020-07-25 08:02:18
 image: 'https://m.media-amazon.com/images/I/412D5U3esJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0891VF9TW-es Sweetmini Pantalones deportivos para hombre con cordón de...'
 sku: 'B0891VF9TW-es'
 tags: [  ]

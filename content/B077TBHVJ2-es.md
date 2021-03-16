@@ -5,7 +5,7 @@ date: 2020-06-06 22:06:56
 image: 'https://m.media-amazon.com/images/I/41ILw2WnCWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TBHVJ2-es BaByliss AS500E – Cepillo de aire con sensor digital...'
 sku: 'B077TBHVJ2-es'
 tags: [  ]

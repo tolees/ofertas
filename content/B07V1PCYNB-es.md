@@ -5,7 +5,7 @@ date: 2020-07-07 12:04:25
 image: 'https://m.media-amazon.com/images/I/31IlmwhmzJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V1PCYNB-es Otterbox Symmetry Clear - Funda Anti-Caídas Fina y...'
 sku: 'B07V1PCYNB-es'
 tags: [  ]

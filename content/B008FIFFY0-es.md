@@ -5,7 +5,7 @@ date: 2020-03-23 08:44:30
 image: 'https://m.media-amazon.com/images/I/31kWtc9McRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008FIFFY0-es Columbia Bora Bora Booney Sombrero unisex Fibra sintética...'
 sku: 'B008FIFFY0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-02 10:25:24
 image: 'https://m.media-amazon.com/images/I/31EmaLSewDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGYLM7M-es El Naturalista NG33 Soft Grain YUGEN Botas Clasicas para...'
 sku: 'B07NGYLM7M-es'
 tags: [  ]

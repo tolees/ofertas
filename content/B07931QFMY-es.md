@@ -5,7 +5,7 @@ date: 2020-02-02 13:26:58
 image: 'https://m.media-amazon.com/images/I/41CUgaPMOlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07931QFMY-es Mr; Wonderful Woa08921Es Vela Con Mensaje "Eres La...'
 sku: 'B07931QFMY-es'
 tags: [  ]

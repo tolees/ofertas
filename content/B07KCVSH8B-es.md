@@ -5,7 +5,7 @@ date: 2020-01-30 14:11:12
 image: 'https://m.media-amazon.com/images/I/41P8SicD0YL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCVSH8B-es Hurley Frame Work PRM tee SS Camisetas Hombre iglu XXL'
 sku: 'B07KCVSH8B-es'
 tags: [  ]

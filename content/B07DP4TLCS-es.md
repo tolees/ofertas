@@ -5,7 +5,7 @@ date: 2020-06-10 11:48:05
 image: 'https://m.media-amazon.com/images/I/31iRToytSrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP4TLCS-es Neutrogena Hydro Boost Loción Corporal En Gel - 750 ml.'
 sku: 'B07DP4TLCS-es'
 tags: [  ]

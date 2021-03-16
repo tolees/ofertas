@@ -5,7 +5,7 @@ date: 2020-09-11 19:19:50
 image: 'https://m.media-amazon.com/images/I/41k5ruktMGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBFD27D-es Versus by Versace Reloj Analogico para Hombre de Cuarzo...'
 sku: 'B07BBFD27D-es'
 tags: [  ]

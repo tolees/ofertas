@@ -5,7 +5,7 @@ date: 2020-08-20 07:10:17
 image: 'https://m.media-amazon.com/images/I/51eovvKT--L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L147KMD-es Cecotec Barbacoa eléctrica PerfectSteak 4250 Stand con...'
 sku: 'B07L147KMD-es'
 tags: [  ]

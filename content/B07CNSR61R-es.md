@@ -5,7 +5,7 @@ date: 2020-06-27 07:39:30
 image: 'https://m.media-amazon.com/images/I/51TjKQZoTPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNSR61R-es Minar by Homemania Homemania - Escritorio Snap Color Blanco'
 sku: 'B07CNSR61R-es'
 tags: [  ]

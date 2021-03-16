@@ -5,7 +5,7 @@ date: 2020-01-08 08:20:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-LNgNl9LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EUZTRRI-es Seiko SRN049P1 Reloj de caballero'
 sku: 'B00EUZTRRI-es'
 tags: [  ]

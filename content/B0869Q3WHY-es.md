@@ -5,7 +5,7 @@ date: 2020-09-28 09:11:43
 image: 'https://m.media-amazon.com/images/I/31hA79WsxkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0869Q3WHY-es WOLTU Mesa de Bar Mesa de Bistro Mesa de Comedor con 2...'
 sku: 'B0869Q3WHY-es'
 tags: [  ]

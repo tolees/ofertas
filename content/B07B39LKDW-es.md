@@ -5,7 +5,7 @@ date: 2020-04-04 05:19:25
 image: 'https://m.media-amazon.com/images/I/51Fzz+tGJUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B39LKDW-es Falomir Alfarería Piratas Mesa. Juego Artístico. 28438'
 sku: 'B07B39LKDW-es'
 tags: [  ]

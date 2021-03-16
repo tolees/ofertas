@@ -5,7 +5,7 @@ date: 2020-01-18 11:51:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iqyxM5uzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWL42XR-es ANSIO Deshumidificador 12l / día con Temporizador de 24...'
 sku: 'B07TWL42XR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 10:22:00
 image: 'https://m.media-amazon.com/images/I/41uG-sZy3sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BB6T7R-es Calvin Klein Cotton Stretch-3er Calcetines Negro Black W....'
 sku: 'B077BB6T7R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-09 17:04:11
 image: 'https://m.media-amazon.com/images/I/41qfXahVLlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5LG5S4-es Jack & Jones Jjeholmen Sweat Hood Noos Capucha Rojo Port...'
 sku: 'B07C5LG5S4-es'
 tags: [  ]

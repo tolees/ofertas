@@ -5,7 +5,7 @@ date: 2020-02-01 20:13:20
 image: 'https://m.media-amazon.com/images/I/41Wda5SHCCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTBG1RZ-es Adidas Predator 19.1 FG J Botas de fútbol para Niños...'
 sku: 'B07TTBG1RZ-es'
 tags: [  ]

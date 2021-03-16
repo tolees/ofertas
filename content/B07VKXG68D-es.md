@@ -5,7 +5,7 @@ date: 2020-07-12 11:01:34
 image: 'https://m.media-amazon.com/images/I/41SMAmXLVLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKXG68D-es Hackett London New Classic Polo Verde 6fpfir Green 6fp...'
 sku: 'B07VKXG68D-es'
 tags: [  ]

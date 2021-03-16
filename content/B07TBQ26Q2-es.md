@@ -5,7 +5,7 @@ date: 2020-06-22 18:56:46
 image: 'https://m.media-amazon.com/images/I/51tXPw6DQgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TBQ26Q2-es BY BENYAR Reloj Casual de Cuarzo para Hombre con Correa de...'
 sku: 'B07TBQ26Q2-es'
 tags: [  ]

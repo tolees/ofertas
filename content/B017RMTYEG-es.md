@@ -5,7 +5,7 @@ date: 2020-06-24 09:03:13
 image: 'https://m.media-amazon.com/images/I/41Q6sTbPuKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017RMTYEG-es PET MAGASIN - Huesos de Cuero Crudo Natural – Delicias...'
 sku: 'B017RMTYEG-es'
 tags: [  ]

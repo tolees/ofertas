@@ -5,7 +5,7 @@ date: 2020-01-21 15:42:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41N-oqCPhoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFZQLRF-es New Balance 247v2 Zapatillas para Hombre Plateado Steel...'
 sku: 'B07HFZQLRF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 20:32:31
 image: 'https://m.media-amazon.com/images/I/3117oAdHjOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KW9PEFA-es AUSONIA - 34400 NAVAJA INJERTADORA DE TRIÁNGULO CON HOJA...'
 sku: 'B00KW9PEFA-es'
 tags: [  ]

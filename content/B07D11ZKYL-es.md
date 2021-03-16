@@ -5,7 +5,7 @@ date: 2020-06-01 06:39:09
 image: 'https://m.media-amazon.com/images/I/41XI6-fKTgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D11ZKYL-es SlowTon Dog Dog Doble cinturón de Seguridad con Correa sin...'
 sku: 'B07D11ZKYL-es'
 tags: [  ]

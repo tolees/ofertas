@@ -5,7 +5,7 @@ date: 2020-08-07 21:12:10
 image: 'https://m.media-amazon.com/images/I/41EkyJcflML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088ZRN7P9-es IVSO Webcam con Micrófono Webcam Full HD 1080P Ángulo de...'
 sku: 'B088ZRN7P9-es'
 tags: [  ]

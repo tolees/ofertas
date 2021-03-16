@@ -5,7 +5,7 @@ date: 2020-05-18 13:03:12
 image: 'https://m.media-amazon.com/images/I/41G-y8woYRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QFQ8DL-es Suhctup Funda Compatible con Huawei Honor V20 Carcasa...'
 sku: 'B086QFQ8DL-es'
 tags: [  ]

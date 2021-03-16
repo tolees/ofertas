@@ -5,7 +5,7 @@ date: 2020-05-12 14:35:33
 image: 'https://m.media-amazon.com/images/I/51AKFiJsU0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PCX3NZ-es Anzkzo Cojín Cojines de Asiento Cojín de Silla Larga para...'
 sku: 'B087PCX3NZ-es'
 tags: [  ]

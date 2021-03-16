@@ -5,7 +5,7 @@ date: 2020-01-01 16:52:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31bOz06WqpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002WGIY0I-es Superga 2750 COTU Classic Zapatillas Unisex Negro Full...'
 sku: 'B002WGIY0I-es'
 tags: [  ]

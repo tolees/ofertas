@@ -5,7 +5,7 @@ date: 2020-04-27 21:50:37
 image: 'https://m.media-amazon.com/images/I/41quiQPFKkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BSTQUDI-es Lotus Reloj Analógico para Nios de Cuarzo con Correa en...'
 sku: 'B00BSTQUDI-es'
 tags: [  ]

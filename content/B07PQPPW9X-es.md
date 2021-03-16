@@ -5,7 +5,7 @@ date: 2020-06-27 06:25:35
 image: 'https://m.media-amazon.com/images/I/51MCxTSMxcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQPPW9X-es TOROCAT 1080P - Sistema de cámara de vigilancia 4 x 1080p...'
 sku: 'B07PQPPW9X-es'
 tags: [  ]

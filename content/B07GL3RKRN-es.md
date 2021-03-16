@@ -5,7 +5,7 @@ date: 2020-07-31 15:32:40
 image: 'https://m.media-amazon.com/images/I/41igP03fGcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GL3RKRN-es Nuxe Reve De Miel Baume Levres Ultra-Nourrissant 15 Ml -...'
 sku: 'B07GL3RKRN-es'
 tags: [  ]

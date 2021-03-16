@@ -5,7 +5,7 @@ date: 2020-07-19 22:29:58
 image: 'https://m.media-amazon.com/images/I/41oFSYJ+mNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4M3WX8-es Love MoschinoJc4247pp0aMujerCarteras de manoPlateado...'
 sku: 'B07V4M3WX8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-04 14:18:53
 image: 'https://m.media-amazon.com/images/I/41bm3mNvIqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CF9BCK-es Shock Absorber Ultimate Fly Bra Sujetador Deportivo Negro...'
 sku: 'B076CF9BCK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 06:26:49
 image: 'https://m.media-amazon.com/images/I/314WbFIT7EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH3X28L-es Tommy Hilfiger Formal Reversbile Adjustable 3.5 Cinturón...'
 sku: 'B07RH3X28L-es'
 tags: [  ]

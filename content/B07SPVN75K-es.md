@@ -5,7 +5,7 @@ date: 2020-04-18 03:28:13
 image: 'https://m.media-amazon.com/images/I/31EO7QvJ2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPVN75K-es Funko- Pop TV: La Casa de Papel-Helsinki Collectible...'
 sku: 'B07SPVN75K-es'
 tags: [  ]

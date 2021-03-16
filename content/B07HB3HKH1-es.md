@@ -5,7 +5,7 @@ date: 2020-02-12 16:18:06
 image: 'https://m.media-amazon.com/images/I/41tyRE5LmvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB3HKH1-es Pop! Fallout - Figura de Vinilo Nerd Rage'
 sku: 'B07HB3HKH1-es'
 tags: [  ]

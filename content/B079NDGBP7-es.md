@@ -5,7 +5,7 @@ date: 2020-06-27 09:02:11
 image: 'https://m.media-amazon.com/images/I/31Tn9VBTfEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NDGBP7-es Huawei P20 Lite - Funda flip negra'
 sku: 'B079NDGBP7-es'
 tags: [  ]

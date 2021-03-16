@@ -5,7 +5,7 @@ date: 2020-08-10 13:35:15
 image: 'https://m.media-amazon.com/images/I/41uVcscaX+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3Z8Z1X-es WIFORT Dispensador de Jabón Automático 400ML Dispensador...'
 sku: 'B08B3Z8Z1X-es'
 tags: [  ]

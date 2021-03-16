@@ -5,7 +5,7 @@ date: 2020-01-19 09:44:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419pAZnf3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFFRDW9-es Aitsite Multi herramienta copo de nieve Tarjeta de la...'
 sku: 'B07KFFRDW9-es'
 tags: [  ]

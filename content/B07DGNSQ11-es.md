@@ -5,7 +5,7 @@ date: 2020-05-28 08:44:38
 image: 'https://m.media-amazon.com/images/I/41uvMeFoyPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGNSQ11-es Dreaming Kamahaus Damas Colchón 120 x 200'
 sku: 'B07DGNSQ11-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 01:14:58
 image: 'https://m.media-amazon.com/images/I/41AgS7h1h7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFX52BM-es 24x Gris blanco Lámina impresa 2D 10x10cm PEGATINAS lisas...'
 sku: 'B07ZFX52BM-es'
 tags: [  ]

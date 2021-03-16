@@ -5,7 +5,7 @@ date: 2020-01-12 23:21:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41j7etkzrFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZ025BN-es find. Floral Wide Leg Pantalones para Mujer Negro Black...'
 sku: 'B01MZ025BN-es'
 tags: [  ]

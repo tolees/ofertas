@@ -5,7 +5,7 @@ date: 2020-02-20 07:46:24
 image: 'https://m.media-amazon.com/images/I/41nBblVW37L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MXP6FHM-es American Tourister - Bon Air - Spinner Maleta 66 cm 57.5 L...'
 sku: 'B00MXP6FHM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 18:51:34
 image: 'https://m.media-amazon.com/images/I/416K-MYXfaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756ZHXXN-es Globos de Confeti Dorado 12 Pulgadas Globos de Fiesta de...'
 sku: 'B0756ZHXXN-es'
 tags: [  ]

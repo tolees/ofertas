@@ -5,7 +5,7 @@ date: 2020-08-17 11:34:49
 image: 'https://m.media-amazon.com/images/I/41npTQPWrxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NWVCX4V-es Rollerblade Patines RB Cruiser Adultos Unisex Negro/Azul...'
 sku: 'B07NWVCX4V-es'
 tags: [  ]

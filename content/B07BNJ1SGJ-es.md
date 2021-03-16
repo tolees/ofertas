@@ -5,7 +5,7 @@ date: 2020-01-24 02:13:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51-mE1b%2BmUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BNJ1SGJ-es Disney Frozen - El reino del hielo Bañador de dos piezas...'
 sku: 'B07BNJ1SGJ-es'
 tags: [  ]

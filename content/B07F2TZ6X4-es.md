@@ -5,7 +5,7 @@ date: 2020-09-13 12:50:29
 image: 'https://m.media-amazon.com/images/I/517CqPdqPeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2TZ6X4-es COMLIFE Mini Ventilador USB de Mano Portátil Batería...'
 sku: 'B07F2TZ6X4-es'
 tags: [  ]

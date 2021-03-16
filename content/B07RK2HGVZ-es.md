@@ -5,7 +5,7 @@ date: 2020-01-26 09:50:54
 image: 'https://m.media-amazon.com/images/I/517u3NGET-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK2HGVZ-es Licuadora Prensado en Frio Jocuu Licuadora Frutas Verduras...'
 sku: 'B07RK2HGVZ-es'
 tags: [  ]

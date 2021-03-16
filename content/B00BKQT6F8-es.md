@@ -5,7 +5,7 @@ date: 2020-09-06 01:17:44
 image: 'https://m.media-amazon.com/images/I/41pmh1-Z2vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKQT6F8-es Daniel Wellington Reloj con Correa de Acero para Hombre...'
 sku: 'B00BKQT6F8-es'
 tags: [  ]

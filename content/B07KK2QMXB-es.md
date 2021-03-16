@@ -5,7 +5,7 @@ date: 2020-09-06 07:30:13
 image: 'https://m.media-amazon.com/images/I/514PBhVu-4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK2QMXB-es Super Neptunia RPG'
 sku: 'B07KK2QMXB-es'
 tags: [  ]

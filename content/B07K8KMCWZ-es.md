@@ -5,7 +5,7 @@ date: 2020-07-12 16:01:27
 image: 'https://m.media-amazon.com/images/I/51eExDhXX+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8KMCWZ-es MOSNOVO Funda para iPhone XR Transparente Carcasa para...'
 sku: 'B07K8KMCWZ-es'
 tags: [  ]

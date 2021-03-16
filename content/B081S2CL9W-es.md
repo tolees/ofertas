@@ -5,7 +5,7 @@ date: 2020-08-01 19:31:03
 image: 'https://m.media-amazon.com/images/I/51gV++tBh-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081S2CL9W-es Moliies Animal Toys Skeleton Simulation Model Set Mini...'
 sku: 'B081S2CL9W-es'
 tags: [  ]

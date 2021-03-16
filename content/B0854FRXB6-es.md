@@ -5,7 +5,7 @@ date: 2020-04-14 08:55:36
 image: 'https://m.media-amazon.com/images/I/51wmBFoqQqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0854FRXB6-es AirSMall Ganchos de Extensiones Herramientas para...'
 sku: 'B0854FRXB6-es'
 tags: [  ]

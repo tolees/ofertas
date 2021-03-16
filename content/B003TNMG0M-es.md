@@ -5,7 +5,7 @@ date: 2020-06-18 13:53:00
 image: 'https://m.media-amazon.com/images/I/31I0Hh3V8bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003TNMG0M-es Wahl Groomsman - Cortapelos recargable color gris'
 sku: 'B003TNMG0M-es'
 tags: [  ]

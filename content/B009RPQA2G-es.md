@@ -5,7 +5,7 @@ date: 2020-04-11 10:11:18
 image: 'https://m.media-amazon.com/images/I/41ESyVy4rHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009RPQA2G-es Creative Sound Blaster Z - Tarjeta de sonido interna...'
 sku: 'B009RPQA2G-es'
 tags: [  ]

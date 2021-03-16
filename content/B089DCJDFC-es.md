@@ -5,7 +5,7 @@ date: 2020-10-04 01:51:45
 image: 'https://m.media-amazon.com/images/I/51m-szDrwKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089DCJDFC-es VATOS Juegos de Lógica Niños Adultos Stem Juguete Policías...'
 sku: 'B089DCJDFC-es'
 tags: [  ]

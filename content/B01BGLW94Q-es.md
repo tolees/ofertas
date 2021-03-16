@@ -5,7 +5,7 @@ date: 2020-01-28 06:40:11
 image: 'https://m.media-amazon.com/images/I/31hR336CIEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGLW94Q-es Biotherm Aquasource Crème SPF15 Tratamiento Facial - 50 ml'
 sku: 'B01BGLW94Q-es'
 tags: [  ]

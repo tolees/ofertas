@@ -5,7 +5,7 @@ date: 2020-09-29 17:23:22
 image: 'https://m.media-amazon.com/images/I/51xT2W2h4WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013JGHQ58-es Sony ICF-306 - Radio analógica portátil FM/AM color negro'
 sku: 'B013JGHQ58-es'
 tags: [  ]

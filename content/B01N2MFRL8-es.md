@@ -5,7 +5,7 @@ date: 2020-03-28 12:13:23
 image: 'https://m.media-amazon.com/images/I/315lqG9p5IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2MFRL8-es Tommy Hilfiger Iconic Slip On Sneaker Zapatillas para...'
 sku: 'B01N2MFRL8-es'
 tags: [  ]

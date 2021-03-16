@@ -5,7 +5,7 @@ date: 2020-06-15 06:15:47
 image: 'https://m.media-amazon.com/images/I/51BcouqtelL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071XJMHM8-es Aquabot Bravo Limpiafondo Automático de Piscina Amarillo...'
 sku: 'B071XJMHM8-es'
 tags: [  ]

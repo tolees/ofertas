@@ -5,7 +5,7 @@ date: 2020-03-13 09:32:48
 image: 'https://m.media-amazon.com/images/I/3171t-Ip04L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2SSN9B-es CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga...'
 sku: 'B07N2SSN9B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-03 08:45:24
 image: 'https://m.media-amazon.com/images/I/41ZyWNGY3SL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRLT1XJ-es New Balance Yv373v1 Zapatillas para Niñas Plateado Silver...'
 sku: 'B07KRLT1XJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-20 00:12:04
 image: 'https://m.media-amazon.com/images/I/51Z5lB7UEAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FTNCBS-es Reebok Club C 85 Melted Metal Zapatillas de Deporte para...'
 sku: 'B071FTNCBS-es'
 tags: [  ]

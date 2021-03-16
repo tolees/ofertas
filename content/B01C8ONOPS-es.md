@@ -5,7 +5,7 @@ date: 2020-05-20 22:56:26
 image: 'https://m.media-amazon.com/images/I/31PyrUrIKNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C8ONOPS-es Pikolin Home - Edredón/Relleno nórdico de fibra antiácaros...'
 sku: 'B01C8ONOPS-es'
 tags: [  ]

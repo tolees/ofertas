@@ -5,7 +5,7 @@ date: 2020-02-09 10:05:00
 image: 'https://m.media-amazon.com/images/I/31EktId6lSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHN77QR-es Parfois - Poncho Cuello Mao - Mujeres - Tallas Única - Negro'
 sku: 'B07HHN77QR-es'
 tags: [  ]

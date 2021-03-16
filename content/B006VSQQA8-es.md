@@ -5,7 +5,7 @@ date: 2020-09-03 17:02:05
 image: 'https://m.media-amazon.com/images/I/31ZGqjN1fCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006VSQQA8-es KanaaN Converter - Convertidor de BNC-Video S-Video o...'
 sku: 'B006VSQQA8-es'
 tags: [  ]

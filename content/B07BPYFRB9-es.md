@@ -5,7 +5,7 @@ date: 2020-02-20 21:15:43
 image: 'https://m.media-amazon.com/images/I/41j05n6raOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPYFRB9-es Colchoneta de Masaje Estera de Masaje de Yoga 4 Programas...'
 sku: 'B07BPYFRB9-es'
 tags: [  ]

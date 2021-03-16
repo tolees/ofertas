@@ -5,7 +5,7 @@ date: 2020-06-24 19:12:31
 image: 'https://m.media-amazon.com/images/I/41yJxvZwZ6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01765JIBI-es JACK & JONES Jjspider Canvas Sneaker Anthracite Men s...'
 sku: 'B01765JIBI-es'
 tags: [  ]

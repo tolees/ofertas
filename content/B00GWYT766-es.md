@@ -5,7 +5,7 @@ date: 2020-01-01 08:17:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41h0g2aEydL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GWYT766-es Eshow Bolsos Bandolera a Hombro Tela de Lona para Hombres...'
 sku: 'B00GWYT766-es'
 tags: [  ]

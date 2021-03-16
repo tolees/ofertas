@@ -5,7 +5,7 @@ date: 2020-02-16 08:51:00
 image: 'https://m.media-amazon.com/images/I/41Qa4DRg0-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071P2PR7P-es Under Armour Warp Knit High Impact Bra Sujetador Deportivo...'
 sku: 'B071P2PR7P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-28 02:22:41
 image: 'https://m.media-amazon.com/images/I/31-r6CnzozL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BHYBD5Y-es BaByliss I Pro Curler C525E - Rizador de pelo cerámico 25...'
 sku: 'B00BHYBD5Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-24 13:57:43
 image: 'https://m.media-amazon.com/images/I/5191SbGqNYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DVUOLFA-es NZI 150262G860 Capital Visor Graphics Bloom Casco de Moto...'
 sku: 'B01DVUOLFA-es'
 tags: [  ]

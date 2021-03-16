@@ -5,7 +5,7 @@ date: 2020-07-26 14:02:25
 image: 'https://m.media-amazon.com/images/I/31ckCnIDKpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SXL8VL-es Longspeed Nuevo Fashion 1.54 3.0 Smart Wrist Watch Phone...'
 sku: 'B089SXL8VL-es'
 tags: [  ]

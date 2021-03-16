@@ -5,7 +5,7 @@ date: 2020-05-05 17:29:04
 image: 'https://m.media-amazon.com/images/I/513mX5yVe8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BHL2WB0-es Police 14536JSB/12A - Reloj mecánico para hombre con...'
 sku: 'B01BHL2WB0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-02 06:08:16
 image: 'https://m.media-amazon.com/images/I/31p1E8J+ZhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1SNH4B-es Trust GXT 570 - Volante Gaming de Competición con...'
 sku: 'B01M1SNH4B-es'
 tags: [  ]

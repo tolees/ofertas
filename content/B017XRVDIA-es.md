@@ -5,7 +5,7 @@ date: 2020-09-01 18:45:59
 image: 'https://m.media-amazon.com/images/I/51jWUMJEihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017XRVDIA-es Compa G-250 - Ingletadora'
 sku: 'B017XRVDIA-es'
 tags: [  ]

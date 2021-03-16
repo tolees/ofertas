@@ -5,7 +5,7 @@ date: 2020-06-28 08:23:21
 image: 'https://m.media-amazon.com/images/I/41RCMq5rfgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0035PVUAG-es Bosch Professional GST 150 CE - Sierra de calar 780 W 500...'
 sku: 'B0035PVUAG-es'
 tags: [  ]

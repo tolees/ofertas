@@ -5,7 +5,7 @@ date: 2020-02-01 11:34:18
 image: 'https://m.media-amazon.com/images/I/51seMN3jhIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZT3NPW-es LEADSTAR Funda para Samsung Galaxy Tab A 10.1 2019 Ligero...'
 sku: 'B07SZT3NPW-es'
 tags: [  ]

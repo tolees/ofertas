@@ -5,7 +5,7 @@ date: 2020-01-02 13:26:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51nA-rNFtML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y836JTX-es BANLVS Smartwatch Reloj Inteligente Impermeable 67 con...'
 sku: 'B07Y836JTX-es'
 tags: [  ]

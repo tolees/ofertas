@@ -5,7 +5,7 @@ date: 2020-05-25 16:54:07
 image: 'https://m.media-amazon.com/images/I/31PHhy5RzNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZ5V44U-es Timotei Champú Fresco Y Puro - 400 ml'
 sku: 'B01LZ5V44U-es'
 tags: [  ]

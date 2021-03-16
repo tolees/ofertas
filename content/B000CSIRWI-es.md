@@ -5,7 +5,7 @@ date: 2020-05-31 11:09:12
 image: 'https://m.media-amazon.com/images/I/31SbUKKdB4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000CSIRWI-es NGK CR9E - Bujía'
 sku: 'B000CSIRWI-es'
 tags: [  ]

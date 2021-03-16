@@ -5,7 +5,7 @@ date: 2020-05-26 10:45:45
 image: 'https://m.media-amazon.com/images/I/41k6keAf6ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZY975FR-es Bruni Película Protectora Compatible con Fossil Sport 41...'
 sku: 'B07ZY975FR-es'
 tags: [  ]

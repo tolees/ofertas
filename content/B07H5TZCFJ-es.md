@@ -5,7 +5,7 @@ date: 2020-02-04 17:26:19
 image: 'https://m.media-amazon.com/images/I/41XRSpZdhML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5TZCFJ-es Fujifilm Instax Mini 9 - Cámara instantanea solo cámara...'
 sku: 'B07H5TZCFJ-es'
 tags: [  ]

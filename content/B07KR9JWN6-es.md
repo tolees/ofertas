@@ -5,7 +5,7 @@ date: 2020-03-18 02:44:27
 image: 'https://m.media-amazon.com/images/I/41AW5AareqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KR9JWN6-es New Balance 574v2 Zapatillas Hombre Rojo Red/Grey 40 EU...'
 sku: 'B07KR9JWN6-es'
 tags: [  ]

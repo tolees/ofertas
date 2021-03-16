@@ -5,7 +5,7 @@ date: 2020-05-25 18:13:25
 image: 'https://m.media-amazon.com/images/I/51wtbtILXHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6E5UZQ-es Avaner Rosa Reloj para Mujer La Torre Eiffel con Diamantes...'
 sku: 'B01N6E5UZQ-es'
 tags: [  ]

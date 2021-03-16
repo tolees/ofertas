@@ -5,7 +5,7 @@ date: 2020-08-25 14:02:10
 image: 'https://m.media-amazon.com/images/I/31B7a+1KgsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBZD5DD-es TODOHOME Escoba y recogedor con Tapa—121 cm de Altura...'
 sku: 'B07MBZD5DD-es'
 tags: [  ]

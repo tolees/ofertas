@@ -5,7 +5,7 @@ date: 2020-04-12 00:28:57
 image: 'https://m.media-amazon.com/images/I/51-rAOo4ryL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VJ5TZBY-es Craft Creator Soporte de Vasos de chupito de Marca de...'
 sku: 'B07VJ5TZBY-es'
 tags: [  ]

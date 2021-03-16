@@ -5,7 +5,7 @@ date: 2020-05-28 00:37:56
 image: 'https://m.media-amazon.com/images/I/410cE+loCJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D1ULH0I-es Bosch Professional GAS 35 L SFC+ - Aspirador seco/húmedo...'
 sku: 'B00D1ULH0I-es'
 tags: [  ]

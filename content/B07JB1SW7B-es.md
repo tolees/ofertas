@@ -5,7 +5,7 @@ date: 2020-05-09 22:32:08
 image: 'https://m.media-amazon.com/images/I/417mKWD2klL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JB1SW7B-es MEDION ERAZER P6705 - Portátil gaming 15.6" FullHD Intel...'
 sku: 'B07JB1SW7B-es'
 tags: [  ]

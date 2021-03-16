@@ -5,7 +5,7 @@ date: 2020-03-25 12:54:49
 image: 'https://m.media-amazon.com/images/I/31-nDeX1C7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQX1NJ0-es Bourjois Eye Primer Base de Maquielle Tono 1- 6ml'
 sku: 'B01MQX1NJ0-es'
 tags: [  ]

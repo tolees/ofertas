@@ -5,7 +5,7 @@ date: 2020-02-20 14:21:11
 image: 'https://m.media-amazon.com/images/I/41P0ptjqNfL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZH8RNT6-es Lubricante Intimo a Base de Agua Natural lubricante - 250 Ml'
 sku: 'B07ZH8RNT6-es'
 tags: [  ]

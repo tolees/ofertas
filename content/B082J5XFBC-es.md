@@ -5,7 +5,7 @@ date: 2020-10-09 13:03:56
 image: 'https://m.media-amazon.com/images/I/41EfCiusS0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082J5XFBC-es HOMYBABY Reductor WC Niños | Adaptador WC Niños para...'
 sku: 'B082J5XFBC-es'
 tags: [  ]

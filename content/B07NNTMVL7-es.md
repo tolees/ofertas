@@ -5,7 +5,7 @@ date: 2020-06-24 14:40:03
 image: 'https://m.media-amazon.com/images/I/31AY46ZruPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNTMVL7-es Under Armour UA W Charged Bandit 5 Zapatillas de Running...'
 sku: 'B07NNTMVL7-es'
 tags: [  ]

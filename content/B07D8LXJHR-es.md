@@ -5,7 +5,7 @@ date: 2020-01-30 23:27:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4157zIA0kPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8LXJHR-es Receptor Bluetooth Coche Amplificador HiFi 4.1 Manos...'
 sku: 'B07D8LXJHR-es'
 tags: [  ]

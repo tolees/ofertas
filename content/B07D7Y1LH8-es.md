@@ -5,7 +5,7 @@ date: 2020-02-15 18:21:40
 image: 'https://m.media-amazon.com/images/I/31Kl1W5V+4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7Y1LH8-es Dailydream colchón Topper viscoelástico Espuma con Efecto...'
 sku: 'B07D7Y1LH8-es'
 tags: [  ]

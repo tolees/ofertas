@@ -5,7 +5,7 @@ date: 2020-07-29 04:15:50
 image: 'https://m.media-amazon.com/images/I/413cM30AyGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MEHHVTO-es Under Armour Sportstyle Tricot Jogger Pantalones Hombre...'
 sku: 'B01MEHHVTO-es'
 tags: [  ]

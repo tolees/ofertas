@@ -5,7 +5,7 @@ date: 2020-06-23 18:20:53
 image: 'https://m.media-amazon.com/images/I/41KwAX5hnWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814TN3GJ-es Under Armour Waist Bag Riñonera Unisex Adulto Negro OSFA'
 sku: 'B0814TN3GJ-es'
 tags: [  ]

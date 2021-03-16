@@ -5,7 +5,7 @@ date: 2020-06-04 15:18:38
 image: 'https://m.media-amazon.com/images/I/41oofj9TsiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008OFEPBI-es NANOCABLE 10.01.0500 - Cable USB 2.0 a Micro USB Uso...'
 sku: 'B008OFEPBI-es'
 tags: [  ]

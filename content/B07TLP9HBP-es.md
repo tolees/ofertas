@@ -5,7 +5,7 @@ date: 2020-10-08 05:57:46
 image: 'https://m.media-amazon.com/images/I/41G2cK13qWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLP9HBP-es TUBBZ Oficial Borderlands 3 Mercancías Tina Figurita...'
 sku: 'B07TLP9HBP-es'
 tags: [  ]

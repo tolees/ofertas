@@ -5,7 +5,7 @@ date: 2020-01-10 10:25:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZNkYfeoxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K15CW8W-es adidas Superstar El I Zapatillas de Deporte Unisex niño...'
 sku: 'B07K15CW8W-es'
 tags: [  ]

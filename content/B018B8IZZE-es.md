@@ -5,7 +5,7 @@ date: 2020-05-29 19:22:29
 image: 'https://m.media-amazon.com/images/I/41DfQQ8LnTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018B8IZZE-es AXE Colonia Adrenaline - 100 ml'
 sku: 'B018B8IZZE-es'
 tags: [  ]

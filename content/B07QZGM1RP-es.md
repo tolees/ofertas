@@ -5,7 +5,7 @@ date: 2020-05-09 09:32:16
 image: 'https://m.media-amazon.com/images/I/418t3sLFcsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZGM1RP-es Espejo de Maquillaje Morpilot Espejo de Aumento 1x/5x con...'
 sku: 'B07QZGM1RP-es'
 tags: [  ]

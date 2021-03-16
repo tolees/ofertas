@@ -5,7 +5,7 @@ date: 2020-06-27 12:02:45
 image: 'https://m.media-amazon.com/images/I/41AjNuhxi5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0858YQQPX-es Oihxse Animal Serie Case Compatible con Xiaomi Redmi S2...'
 sku: 'B0858YQQPX-es'
 tags: [  ]

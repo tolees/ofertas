@@ -5,7 +5,7 @@ date: 2020-04-14 16:38:03
 image: 'https://m.media-amazon.com/images/I/41KPRucwK6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HBHJ9R-es ART VVIES Für Hauptdekorationen Baum Mond See Mondlicht...'
 sku: 'B082HBHJ9R-es'
 tags: [  ]

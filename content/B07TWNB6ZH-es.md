@@ -5,7 +5,7 @@ date: 2020-04-23 11:26:43
 image: 'https://m.media-amazon.com/images/I/41kQE+WcnvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWNB6ZH-es Wrangler Icons Jeans Blue 6 Months 923 33W / 34L para Hombre'
 sku: 'B07TWNB6ZH-es'
 tags: [  ]

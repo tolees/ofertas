@@ -5,7 +5,7 @@ date: 2020-06-25 07:07:32
 image: 'https://m.media-amazon.com/images/I/41q-zs0c7GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXLGWXK-es New Balance Ryval Run Zapatillas de Running para Mujer...'
 sku: 'B07RXLGWXK-es'
 tags: [  ]

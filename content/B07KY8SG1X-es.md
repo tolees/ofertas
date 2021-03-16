@@ -5,7 +5,7 @@ date: 2020-06-04 01:18:04
 image: 'https://m.media-amazon.com/images/I/41vQisXhC5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KY8SG1X-es Eastpak Springer Riñonera Interior 23 cm 2 Liters Morado...'
 sku: 'B07KY8SG1X-es'
 tags: [  ]

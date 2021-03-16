@@ -5,7 +5,7 @@ date: 2020-05-11 14:27:44
 image: 'https://m.media-amazon.com/images/I/41R+dl68lML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FWCYE9I-es Caja organizadora Ivosmart con 24 secciones de terciopelo...'
 sku: 'B01FWCYE9I-es'
 tags: [  ]

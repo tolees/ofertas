@@ -5,7 +5,7 @@ date: 2020-06-05 21:03:47
 image: 'https://m.media-amazon.com/images/I/31fmedf3zZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZGS1LP-es Netgear Nighthawk GS810EMX-100PES - Switch Pro Gaming SX10...'
 sku: 'B077ZGS1LP-es'
 tags: [  ]

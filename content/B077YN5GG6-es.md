@@ -5,7 +5,7 @@ date: 2020-05-04 07:10:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dkdbWSI%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YN5GG6-es HIKARO AMA HAYAND camisetas Verde Khaki 40 Talla del...'
 sku: 'B077YN5GG6-es'
 tags: [  ]

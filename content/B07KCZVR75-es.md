@@ -5,7 +5,7 @@ date: 2020-08-10 04:38:15
 image: 'https://m.media-amazon.com/images/I/414GWWkaNRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCZVR75-es LANCARDO Reloj Médico de Bolsillo Colgante Enfermera...'
 sku: 'B07KCZVR75-es'
 tags: [  ]

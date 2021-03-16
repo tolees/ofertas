@@ -5,7 +5,7 @@ date: 2020-04-06 18:15:46
 image: 'https://m.media-amazon.com/images/I/518A97i7L1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XL1Q14H-es KPCB Máquina de Coser para Principiantes con Material de...'
 sku: 'B07XL1Q14H-es'
 tags: [  ]

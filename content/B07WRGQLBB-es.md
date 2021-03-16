@@ -5,7 +5,7 @@ date: 2020-06-02 10:16:08
 image: 'https://m.media-amazon.com/images/I/41NCmiszXsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRGQLBB-es Black Shark 2 8GB+128GB Negro con Pro Kit Black Shark...'
 sku: 'B07WRGQLBB-es'
 tags: [  ]

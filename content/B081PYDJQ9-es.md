@@ -5,7 +5,7 @@ date: 2020-04-07 05:21:40
 image: 'https://m.media-amazon.com/images/I/51XC+ifT6KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081PYDJQ9-es Pllieay - 60 palos de bambú natural para manualidades 39...'
 sku: 'B081PYDJQ9-es'
 tags: [  ]

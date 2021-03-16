@@ -5,7 +5,7 @@ date: 2020-07-14 17:03:33
 image: 'https://m.media-amazon.com/images/I/51k6R6m8w+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M2PHM9-es Suhctup Funda Compatible con Huawei P8 Lite/P9 Lite...'
 sku: 'B088M2PHM9-es'
 tags: [  ]

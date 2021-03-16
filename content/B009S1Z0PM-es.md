@@ -5,7 +5,7 @@ date: 2020-10-04 13:45:35
 image: 'https://m.media-amazon.com/images/I/41+tlBO7VLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009S1Z0PM-es Vans Atwood Canvas Zapatillas para Hombre Azul Navy/White...'
 sku: 'B009S1Z0PM-es'
 tags: [  ]

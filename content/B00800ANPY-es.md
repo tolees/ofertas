@@ -5,7 +5,7 @@ date: 2020-06-08 06:18:52
 image: 'https://m.media-amazon.com/images/I/31t5NbbHBPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00800ANPY-es No Name -30 - Delantal de algodón tamaño King Size Color...'
 sku: 'B00800ANPY-es'
 tags: [  ]

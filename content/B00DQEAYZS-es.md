@@ -5,7 +5,7 @@ date: 2020-05-28 11:29:15
 image: 'https://m.media-amazon.com/images/I/411Qsg+nVbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DQEAYZS-es MANN-FILTER HU 7008 Z Original Filtro de Aceite Set de...'
 sku: 'B00DQEAYZS-es'
 tags: [  ]

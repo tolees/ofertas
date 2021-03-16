@@ -5,7 +5,7 @@ date: 2020-02-06 20:20:14
 image: 'https://m.media-amazon.com/images/I/41NYBAYWxtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNYSPWC-es Vagisil Vagisil Higiene Intima Diaria Sensitive 250 ml'
 sku: 'B07DNYSPWC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-30 09:13:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jYqhFfFyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G9AN10Q-es Continental Grand Sport Race Cubierta Unisex Negro 700 x 25'
 sku: 'B00G9AN10Q-es'
 tags: [  ]

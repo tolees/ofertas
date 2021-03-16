@@ -5,7 +5,7 @@ date: 2020-04-21 17:04:33
 image: 'https://m.media-amazon.com/images/I/417ZWIMyvuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCWHLW3-es adidas Stan Smith Zapatillas Unisex Niños Blanco Footwear...'
 sku: 'B01NCWHLW3-es'
 tags: [  ]

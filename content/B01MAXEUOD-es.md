@@ -5,7 +5,7 @@ date: 2020-01-03 15:09:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41THogHw7BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MAXEUOD-es Vicloon Reina de las Nieves Accesorios de Princesa del...'
 sku: 'B01MAXEUOD-es'
 tags: [  ]

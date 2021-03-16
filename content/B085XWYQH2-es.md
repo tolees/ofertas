@@ -5,7 +5,7 @@ date: 2020-05-08 19:09:09
 image: 'https://m.media-amazon.com/images/I/41Rq0n9P7yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085XWYQH2-es Luz Lámpara de pared Pájaro pastoral fresco Nordic Little...'
 sku: 'B085XWYQH2-es'
 tags: [  ]

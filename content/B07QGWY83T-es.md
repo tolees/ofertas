@@ -5,7 +5,7 @@ date: 2020-08-26 18:04:37
 image: 'https://m.media-amazon.com/images/I/41aA0fysLNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGWY83T-es Funko Pop Bobble Vinyle: Star Wars The Mandalorian-Kuiil...'
 sku: 'B07QGWY83T-es'
 tags: [  ]

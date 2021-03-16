@@ -5,7 +5,7 @@ date: 2020-08-13 18:01:43
 image: 'https://m.media-amazon.com/images/I/31TW5gLBWcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7J8R8F-es Salomon SFLASK 250/8 STD 28 Botella Flexible LC1312400...'
 sku: 'B07V7J8R8F-es'
 tags: [  ]

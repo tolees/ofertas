@@ -5,7 +5,7 @@ date: 2020-09-12 00:31:06
 image: 'https://m.media-amazon.com/images/I/51siIDIeA4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KA5K57C-es Thumbs Up!- 1001473 Retro Mini Arcade Machine Multicolor...'
 sku: 'B01KA5K57C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 10:13:46
 image: 'https://m.media-amazon.com/images/I/41npc0p-pIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDZ9ZYN-es L.O.L Surprise Squishy Pocket Plush - Modelo surtido...'
 sku: 'B07MDZ9ZYN-es'
 tags: [  ]

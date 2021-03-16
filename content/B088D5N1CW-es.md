@@ -5,7 +5,7 @@ date: 2020-05-15 19:40:29
 image: 'https://m.media-amazon.com/images/I/417X8UChokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D5N1CW-es Suhctup Funda Compatible para Xiaomi Redmi Note 8T Carcasa...'
 sku: 'B088D5N1CW-es'
 tags: [  ]

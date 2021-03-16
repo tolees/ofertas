@@ -5,7 +5,7 @@ date: 2020-01-16 13:32:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31mNPF4GSQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BATEEK6-es Black+Decker GWC1820PC-QW - Soplador PowerCommand 18V 2 Ah...'
 sku: 'B01BATEEK6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-28 09:34:05
 image: 'https://m.media-amazon.com/images/I/51C6VxJ1duL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000R5LQBK-es Bosch Professional 2607010146 Bosch 2607010146-Cuchilla de...'
 sku: 'B000R5LQBK-es'
 tags: [  ]

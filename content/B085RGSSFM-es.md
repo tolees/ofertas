@@ -5,7 +5,7 @@ date: 2020-04-13 13:46:13
 image: 'https://m.media-amazon.com/images/I/41BRNJA2rNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085RGSSFM-es Calcetines de fútbol J color personalizados con número de...'
 sku: 'B085RGSSFM-es'
 tags: [  ]

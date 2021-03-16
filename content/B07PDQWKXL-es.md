@@ -5,7 +5,7 @@ date: 2020-05-04 08:07:51
 image: 'https://m.media-amazon.com/images/I/31hZOLU1qbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDQWKXL-es New Balance 997h Zapatillas para Hombre Marfil Off White...'
 sku: 'B07PDQWKXL-es'
 tags: [  ]

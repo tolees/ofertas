@@ -5,7 +5,7 @@ date: 2020-09-11 15:06:10
 image: 'https://m.media-amazon.com/images/I/41Xm8oTMh2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BF9DR89-es Garnier Delial Sensitive Advanced - Protector Solar Facial...'
 sku: 'B07BF9DR89-es'
 tags: [  ]

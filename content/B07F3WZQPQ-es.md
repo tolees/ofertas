@@ -5,7 +5,7 @@ date: 2020-01-25 09:58:59
 image: 'https://m.media-amazon.com/images/I/51m94XcqprL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3WZQPQ-es Cortapelos Profesional Hombre Cortadora de Pelo Eléctrico...'
 sku: 'B07F3WZQPQ-es'
 tags: [  ]

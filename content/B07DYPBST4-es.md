@@ -5,7 +5,7 @@ date: 2020-09-26 20:20:46
 image: 'https://m.media-amazon.com/images/I/41akcD1QxRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYPBST4-es Veeki - Ratón inalámbrico Bluetooth Ultrafino Portátil con...'
 sku: 'B07DYPBST4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 19:09:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61%2B9csN8toL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7MNT3C-es Rage 2'
 sku: 'B07S7MNT3C-es'
 tags: [  ]

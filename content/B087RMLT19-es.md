@@ -5,7 +5,7 @@ date: 2020-10-03 13:02:15
 image: 'https://m.media-amazon.com/images/I/51arxYYWeFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RMLT19-es RLTech Funda Carcasa para iPad Pro 11 2020 Silicona TPU...'
 sku: 'B087RMLT19-es'
 tags: [  ]

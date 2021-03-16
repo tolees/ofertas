@@ -5,7 +5,7 @@ date: 2020-03-26 12:02:15
 image: 'https://m.media-amazon.com/images/I/41CmTPn9SAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MED145E-es Dr Brown s prevent chupete 6 A 12 meses color azul pack de 2'
 sku: 'B01MED145E-es'
 tags: [  ]

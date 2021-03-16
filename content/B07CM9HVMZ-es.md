@@ -5,7 +5,7 @@ date: 2020-04-14 06:46:47
 image: 'https://m.media-amazon.com/images/I/41KIyep69cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CM9HVMZ-es STANLEY STHT77502-1 Nivel láser rojo cubix cruzadas y...'
 sku: 'B07CM9HVMZ-es'
 tags: [  ]

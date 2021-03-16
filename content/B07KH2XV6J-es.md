@@ -5,7 +5,7 @@ date: 2020-01-12 07:33:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31CXADwpm5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KH2XV6J-es Under Armour UA Rush Tank Tanque Mujer Gris Ash...'
 sku: 'B07KH2XV6J-es'
 tags: [  ]

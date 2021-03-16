@@ -5,7 +5,7 @@ date: 2020-08-06 18:07:03
 image: 'https://m.media-amazon.com/images/I/31JrrruKIOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVHBR6N-es FLYLINKTECH 14.4V 4500mAh Ni-MH Aspiradoras de Repuesto...'
 sku: 'B07TVHBR6N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 19:04:03
 image: 'https://m.media-amazon.com/images/I/41MBPC+7vnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKK3R6Y-es Under Armour UA HOVR Sonic 2 Zapatillas de Running para...'
 sku: 'B07HKK3R6Y-es'
 tags: [  ]

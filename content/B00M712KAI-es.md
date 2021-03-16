@@ -5,7 +5,7 @@ date: 2020-04-26 21:01:16
 image: 'https://m.media-amazon.com/images/I/212qkrncPaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M712KAI-es Adler AD 4437 - Pimentero Cerámico Color rojo'
 sku: 'B00M712KAI-es'
 tags: [  ]

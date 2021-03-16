@@ -5,7 +5,7 @@ date: 2020-06-08 07:13:14
 image: 'https://m.media-amazon.com/images/I/51oSglH0qdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2MSKQ6-es Tommy Hilfiger - Th Essential Mini Cc Wallet Carteras...'
 sku: 'B07V2MSKQ6-es'
 tags: [  ]

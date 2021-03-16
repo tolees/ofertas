@@ -5,7 +5,7 @@ date: 2020-04-21 22:33:02
 image: 'https://m.media-amazon.com/images/I/41jp6lZUn4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXVS8ZW-es Brother HL-L3270CDW - Impresora láser color Wifi USB 2.0...'
 sku: 'B07FXVS8ZW-es'
 tags: [  ]

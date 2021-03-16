@@ -5,7 +5,7 @@ date: 2020-06-12 13:29:41
 image: 'https://m.media-amazon.com/images/I/51PufrZzQML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WW8BVOM-es Braun Series 3 ProSkin 3030 S Afeitadora Eléctrica Hombre...'
 sku: 'B00WW8BVOM-es'
 tags: [  ]

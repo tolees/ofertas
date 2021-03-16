@@ -5,7 +5,7 @@ date: 2020-06-24 00:24:53
 image: 'https://m.media-amazon.com/images/I/413zTqNROUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019ZIC0XM-es Under Armour Sportswear Stirnband UA Mini Headband 6 Pack...'
 sku: 'B019ZIC0XM-es'
 tags: [  ]

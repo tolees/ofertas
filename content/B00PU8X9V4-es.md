@@ -5,7 +5,7 @@ date: 2020-01-11 08:14:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVS1zkj-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PU8X9V4-es Homyl Adaptador Soporte de Extension Vastago Accesorio de...'
 sku: 'B00PU8X9V4-es'
 tags: [  ]

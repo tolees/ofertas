@@ -5,7 +5,7 @@ date: 2020-02-08 18:04:24
 image: 'https://m.media-amazon.com/images/I/41JsnPSNs2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WJXPNG2-es Lee LF0450FZ Cinturón Para Hombre Marrón Dark Cognac 85 cm'
 sku: 'B00WJXPNG2-es'
 tags: [  ]

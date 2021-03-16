@@ -5,7 +5,7 @@ date: 2020-05-10 12:32:11
 image: 'https://m.media-amazon.com/images/I/31RMhQ+T7OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LLSDVFG-es adidas Superstar Zapatillas de deporte Unisex Adulto...'
 sku: 'B00LLSDVFG-es'
 tags: [  ]

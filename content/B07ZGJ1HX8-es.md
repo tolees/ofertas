@@ -5,7 +5,7 @@ date: 2020-01-13 01:04:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51DwP26AmEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZGJ1HX8-es TW1000 Hub USB C 6-en-1 Adaptador MacBook Pro/MacBook Air...'
 sku: 'B07ZGJ1HX8-es'
 tags: [  ]

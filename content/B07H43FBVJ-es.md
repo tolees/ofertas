@@ -5,7 +5,7 @@ date: 2020-02-17 20:24:00
 image: 'https://m.media-amazon.com/images/I/41MrpJqiaRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H43FBVJ-es Crema Facial de Acido Hialuronico Vegano 50ml de la Más...'
 sku: 'B07H43FBVJ-es'
 tags: [  ]

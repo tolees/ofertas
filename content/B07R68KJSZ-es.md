@@ -5,7 +5,7 @@ date: 2020-04-08 14:38:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ahljlab1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R68KJSZ-es Cabezal de Recambio para Oral-B Cepillo de Dientes...'
 sku: 'B07R68KJSZ-es'
 tags: [  ]

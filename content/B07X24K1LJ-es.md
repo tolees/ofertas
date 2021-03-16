@@ -5,7 +5,7 @@ date: 2020-03-03 09:11:33
 image: 'https://m.media-amazon.com/images/I/51epJ5nYe1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X24K1LJ-es 4PCS Guirnalda Luces Pilas Tomshine 6m/19.69FT 60LED Luces...'
 sku: 'B07X24K1LJ-es'
 tags: [  ]

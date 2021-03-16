@@ -5,7 +5,7 @@ date: 2020-06-29 19:07:23
 image: 'https://m.media-amazon.com/images/I/41Ea3w1eD4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8ZSFPR-es Tratamiento de hongos anti hongos Tratamiento de hongos...'
 sku: 'B07S8ZSFPR-es'
 tags: [  ]

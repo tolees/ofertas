@@ -5,7 +5,7 @@ date: 2020-01-17 10:06:57
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41i4E3Y1NhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQGVL48-es ORNARTO Funda Huawei P20 Lite HW P20 Lite Carcasa [Ultra-...'
 sku: 'B07BQGVL48-es'
 tags: [  ]

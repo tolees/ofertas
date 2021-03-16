@@ -5,7 +5,7 @@ date: 2020-03-23 10:43:28
 image: 'https://m.media-amazon.com/images/I/51D0TWn5SFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WY4TVCC-es jerryvon Dinosaurios Juguetes Bebe - Electronico Caminando...'
 sku: 'B07WY4TVCC-es'
 tags: [  ]

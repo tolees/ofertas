@@ -5,7 +5,7 @@ date: 2020-07-28 15:41:54
 image: 'https://m.media-amazon.com/images/I/51qD-2lsP6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BQXNY2Q-es Taurus TodoPan - Tostadora para cualquier tipo de pan...'
 sku: 'B00BQXNY2Q-es'
 tags: [  ]

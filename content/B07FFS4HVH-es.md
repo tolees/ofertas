@@ -5,7 +5,7 @@ date: 2020-08-26 07:48:25
 image: 'https://m.media-amazon.com/images/I/51NigVhX6SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFS4HVH-es Import - Consola - Retro Blast Legends Space Invaders 12...'
 sku: 'B07FFS4HVH-es'
 tags: [  ]

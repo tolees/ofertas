@@ -5,7 +5,7 @@ date: 2020-06-18 08:21:30
 image: 'https://m.media-amazon.com/images/I/41RUCdrFSRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000MX59JC-es Casio Collection AQ-230A-7BMQYES Reloj Analógico-Digital...'
 sku: 'B000MX59JC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-28 18:21:36
 image: 'https://m.media-amazon.com/images/I/41QhmdKrOpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HXVK676-es Wilson Pro Overgrip Empuñadura 30 unidades unisex blanco'
 sku: 'B00HXVK676-es'
 tags: [  ]

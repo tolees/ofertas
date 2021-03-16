@@ -5,7 +5,7 @@ date: 2020-06-12 15:47:42
 image: 'https://m.media-amazon.com/images/I/51UHhQ1cYmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRBQGYR-es Papel de Lija de 60 Piezas 40 60 80 120 180 240 Granos...'
 sku: 'B07DRBQGYR-es'
 tags: [  ]

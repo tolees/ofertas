@@ -5,7 +5,7 @@ date: 2020-04-23 00:35:27
 image: 'https://m.media-amazon.com/images/I/31rNR0zFIBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JMD00PG-es Canson Iris - Cartulina 50 Unidades Color Gris Perla'
 sku: 'B00JMD00PG-es'
 tags: [  ]

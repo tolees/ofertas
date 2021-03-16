@@ -5,7 +5,7 @@ date: 2020-03-12 21:42:56
 image: 'https://m.media-amazon.com/images/I/41GYFeu-mlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVVCHCG-es Armor Lux 77646 suéter Azul Rich Navy D85 Medium para Hombre'
 sku: 'B07NVVCHCG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-02 17:12:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51QkwJc2PjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002EWYW9C-es Bosch Home and Garden 0.603.502.002 Sierra circular...'
 sku: 'B002EWYW9C-es'
 tags: [  ]

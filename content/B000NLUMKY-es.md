@@ -5,7 +5,7 @@ date: 2020-08-13 17:48:26
 image: 'https://m.media-amazon.com/images/I/417MwNYLuFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NLUMKY-es Casio Reloj Digital para Mujer de Cuarzo con Correa en...'
 sku: 'B000NLUMKY-es'
 tags: [  ]

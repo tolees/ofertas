@@ -5,7 +5,7 @@ date: 2020-07-08 04:19:04
 image: 'https://m.media-amazon.com/images/I/51OJPHxGMRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053C8KYS-es Notting Hill [Blu-ray]'
 sku: 'B0053C8KYS-es'
 tags: [  ]

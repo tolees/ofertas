@@ -5,7 +5,7 @@ date: 2020-09-30 16:41:55
 image: 'https://m.media-amazon.com/images/I/51M+JNogeXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N23OZCR-es Radio de Transistor portátil pequeña L-218 Radio Am/FM...'
 sku: 'B01N23OZCR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 02:03:03
 image: 'https://m.media-amazon.com/images/I/41c2VbMbWGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017EW5TG6-es ORICO USB Adaptador Bluetooth 4.0 Adaptador Bluetooth USB...'
 sku: 'B017EW5TG6-es'
 tags: [  ]

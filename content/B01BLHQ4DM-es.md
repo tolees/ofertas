@@ -5,7 +5,7 @@ date: 2020-03-01 08:16:52
 image: 'https://m.media-amazon.com/images/I/41Z0SZBfHtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BLHQ4DM-es Clarins Joli Rouge Brillant #07-Raspberry 3 5 Gr 1 Unidad...'
 sku: 'B01BLHQ4DM-es'
 tags: [  ]

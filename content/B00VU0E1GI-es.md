@@ -5,7 +5,7 @@ date: 2020-01-01 10:30:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41gQGlvgBVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VU0E1GI-es Nike Knee High Classic Football Dri Fit Calcetines Unisex...'
 sku: 'B00VU0E1GI-es'
 tags: [  ]

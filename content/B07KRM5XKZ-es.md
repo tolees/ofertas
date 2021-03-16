@@ -5,7 +5,7 @@ date: 2020-01-21 15:39:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41W2CQv5%2BUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRM5XKZ-es New Balance 247v2 Zapatillas para Hombre Blanco Team Royal...'
 sku: 'B07KRM5XKZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 15:49:11
 image: 'https://m.media-amazon.com/images/I/41HNHrH0VRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK4P2S9-es Columbia Grixsen Boot WP Botas Chukka para Hombre Beige...'
 sku: 'B07KK4P2S9-es'
 tags: [  ]

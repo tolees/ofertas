@@ -5,7 +5,7 @@ date: 2020-09-06 18:01:31
 image: 'https://m.media-amazon.com/images/I/51aeJTL4zvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDBNVFC-es Tacklife SWS2A - Juego de llaves de vaso 88 piezas 12...'
 sku: 'B07RDBNVFC-es'
 tags: [  ]

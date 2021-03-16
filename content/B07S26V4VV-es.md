@@ -5,7 +5,7 @@ date: 2020-07-28 19:52:05
 image: 'https://m.media-amazon.com/images/I/31vZcowNd2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S26V4VV-es KangaROOS Raceyard Ev Zapatillas Unisex Adulto Negro Jet...'
 sku: 'B07S26V4VV-es'
 tags: [  ]

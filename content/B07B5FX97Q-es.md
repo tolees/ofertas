@@ -5,7 +5,7 @@ date: 2020-08-04 19:16:37
 image: 'https://m.media-amazon.com/images/I/31ZwwRhE1yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B5FX97Q-es Trabanco Sidra Natural. Caja de 6 Botellas de 70 cl.'
 sku: 'B07B5FX97Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 06:09:03
 image: 'https://m.media-amazon.com/images/I/517RI4OEGnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FCG8WBW-es Uverbon Manguera de Jardín Extensible 50FT/ 15M Manguera...'
 sku: 'B07FCG8WBW-es'
 tags: [  ]

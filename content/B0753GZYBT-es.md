@@ -5,7 +5,7 @@ date: 2020-02-01 01:49:15
 image: 'https://m.media-amazon.com/images/I/41gkRWEGatL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0753GZYBT-es adidas Coneo Qt Zapatillas para Mujer Negro Core...'
 sku: 'B0753GZYBT-es'
 tags: [  ]

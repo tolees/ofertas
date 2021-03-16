@@ -5,7 +5,7 @@ date: 2020-04-14 12:10:49
 image: 'https://m.media-amazon.com/images/I/41WaFxm0a5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LX7LN2W-es Lindt Excellence Tableta de Chocolate Suave 70% - 100 g'
 sku: 'B01LX7LN2W-es'
 tags: [  ]

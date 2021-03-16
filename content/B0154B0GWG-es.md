@@ -5,7 +5,7 @@ date: 2020-03-01 21:21:06
 image: 'https://m.media-amazon.com/images/I/41NDV0AAuxL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0154B0GWG-es Linksys WRT1900ACS - Router inalámbrico Smart Wi-Fi de...'
 sku: 'B0154B0GWG-es'
 tags: [  ]

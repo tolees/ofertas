@@ -5,7 +5,7 @@ date: 2020-07-13 00:14:08
 image: 'https://m.media-amazon.com/images/I/417VEkWyyIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTQPTJT-es Tommy Hilfiger Reloj de Pulsera 1782021'
 sku: 'B07KTQPTJT-es'
 tags: [  ]

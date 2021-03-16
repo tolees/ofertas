@@ -5,7 +5,7 @@ date: 2020-03-08 13:03:58
 image: 'https://m.media-amazon.com/images/I/41EYREFWp5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY3RQ6K-es Superdry Core Sport Small Logo tee Top de Deporte Gris...'
 sku: 'B07NY3RQ6K-es'
 tags: [  ]

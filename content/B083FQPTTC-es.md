@@ -5,7 +5,7 @@ date: 2020-06-28 10:02:50
 image: 'https://m.media-amazon.com/images/I/51lcT7ys1tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FQPTTC-es Camara de Fotos Camara Fotos Full HD 2.7K 24MP...'
 sku: 'B083FQPTTC-es'
 tags: [  ]

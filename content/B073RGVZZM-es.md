@@ -5,7 +5,7 @@ date: 2020-01-28 08:04:54
 image: 'https://m.media-amazon.com/images/I/31nzxBZk9EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RGVZZM-es Pikolin Home - Edredón/Relleno nórdico de fibra DUO cuatro...'
 sku: 'B073RGVZZM-es'
 tags: [  ]

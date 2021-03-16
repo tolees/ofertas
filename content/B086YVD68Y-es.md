@@ -5,7 +5,7 @@ date: 2020-05-11 14:01:08
 image: 'https://m.media-amazon.com/images/I/41Bf8H5Mq0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086YVD68Y-es Mono de bebé Promini para bebé de una pieza con texto en...'
 sku: 'B086YVD68Y-es'
 tags: [  ]

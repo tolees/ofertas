@@ -5,7 +5,7 @@ date: 2020-05-24 12:32:59
 image: 'https://m.media-amazon.com/images/I/41WAer2e6uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRK69MY-es Distribuidor Divisor de TV vía satélite/Antena/Cable de 4...'
 sku: 'B07ZRK69MY-es'
 tags: [  ]

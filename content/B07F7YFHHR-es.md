@@ -5,7 +5,7 @@ date: 2020-01-25 20:23:37
 image: 'https://m.media-amazon.com/images/I/41c1w0vtu-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7YFHHR-es Ferilinso Funda para Xiaomi Redmi Note 6 Pro Híbrido...'
 sku: 'B07F7YFHHR-es'
 tags: [  ]

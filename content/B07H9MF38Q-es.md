@@ -5,7 +5,7 @@ date: 2020-03-18 06:40:23
 image: 'https://m.media-amazon.com/images/I/41V+NCxizML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9MF38Q-es Skechers Boys Go Run 600-Haddox Trainers Black Black Red...'
 sku: 'B07H9MF38Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 18:22:31
 image: 'https://m.media-amazon.com/images/I/41q-MmO5+uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V6D76BQ-es YARDLEY English Rose Talco perfumado 200 g'
 sku: 'B00V6D76BQ-es'
 tags: [  ]

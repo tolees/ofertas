@@ -5,7 +5,7 @@ date: 2020-07-03 14:03:29
 image: 'https://m.media-amazon.com/images/I/413DZvrXBWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B8L1Y5C-es loonBonnie Reloj Inteligente Resistente al Agua para...'
 sku: 'B08B8L1Y5C-es'
 tags: [  ]

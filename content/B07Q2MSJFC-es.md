@@ -5,7 +5,7 @@ date: 2020-09-29 09:07:30
 image: 'https://m.media-amazon.com/images/I/31DWQkjigdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2MSJFC-es Pop! Figura De Vinil: Harry Potter: Harry Potter - George...'
 sku: 'B07Q2MSJFC-es'
 tags: [  ]

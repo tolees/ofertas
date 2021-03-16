@@ -5,7 +5,7 @@ date: 2020-04-27 18:06:56
 image: 'https://m.media-amazon.com/images/I/41LfKZTFlAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZ51JSL-es on way Balon DE Futbol REGLAMENTARIO'
 sku: 'B07MZ51JSL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 09:00:42
 image: 'https://m.media-amazon.com/images/I/3157bEp9f+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZP6S85W-es Tarros de Almacenamiento Tarros de Cristal con Cierre...'
 sku: 'B07ZP6S85W-es'
 tags: [  ]

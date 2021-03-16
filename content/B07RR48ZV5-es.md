@@ -5,7 +5,7 @@ date: 2020-06-08 21:41:58
 image: 'https://m.media-amazon.com/images/I/31J64MMdwtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RR48ZV5-es Tommy Hilfiger - Th Nylon Tote Bolsos totes Mujer Negro...'
 sku: 'B07RR48ZV5-es'
 tags: [  ]

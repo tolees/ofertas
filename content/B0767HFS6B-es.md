@@ -5,7 +5,7 @@ date: 2020-08-19 05:59:55
 image: 'https://m.media-amazon.com/images/I/51wFCA28IhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0767HFS6B-es Biwond Thundersound Altavoces Autoamplificados 470W TS15”...'
 sku: 'B0767HFS6B-es'
 tags: [  ]

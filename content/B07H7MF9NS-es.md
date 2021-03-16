@@ -5,7 +5,7 @@ date: 2020-09-26 15:33:51
 image: 'https://m.media-amazon.com/images/I/41-XnbZdTAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7MF9NS-es K9 Powerharness Tamaño: Mini Colore: Mocca Tela de Saco'
 sku: 'B07H7MF9NS-es'
 tags: [  ]

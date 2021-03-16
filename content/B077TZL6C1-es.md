@@ -5,7 +5,7 @@ date: 2020-07-09 02:51:50
 image: 'https://m.media-amazon.com/images/I/41r6e-AinwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TZL6C1-es Kipling Multiple Riñonera de Marcha 25 cm True Black'
 sku: 'B077TZL6C1-es'
 tags: [  ]

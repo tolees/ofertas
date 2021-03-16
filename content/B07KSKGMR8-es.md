@@ -5,7 +5,7 @@ date: 2020-07-14 06:35:36
 image: 'https://m.media-amazon.com/images/I/41l5pZ+GsOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSKGMR8-es The Raven Remastered'
 sku: 'B07KSKGMR8-es'
 tags: [  ]

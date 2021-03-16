@@ -5,7 +5,7 @@ date: 2020-08-27 18:31:24
 image: 'https://m.media-amazon.com/images/I/51YrsgrI3LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MY1W25T-es Relojes de Pulsera Electrónicos Para Niños Niños Digital...'
 sku: 'B07MY1W25T-es'
 tags: [  ]

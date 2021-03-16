@@ -5,7 +5,7 @@ date: 2020-01-02 20:23:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jCvmReeKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRY3Y99-es Nike Air MAX Axis PS Zapatillas de Running para Niños...'
 sku: 'B07QRY3Y99-es'
 tags: [  ]

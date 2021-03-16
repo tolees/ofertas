@@ -5,7 +5,7 @@ date: 2020-03-04 06:22:09
 image: 'https://m.media-amazon.com/images/I/31++UUgtD3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBSH68-es Funko Pop Mortal Engines Figura de Vinilo Anna Fang...'
 sku: 'B07DFBSH68-es'
 tags: [  ]

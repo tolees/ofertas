@@ -5,7 +5,7 @@ date: 2020-05-28 14:27:46
 image: 'https://m.media-amazon.com/images/I/51kYxRZ7pbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LN8SS1A-es Britax Römer Evolva 123 SL SICT - Silla de coche grupo...'
 sku: 'B01LN8SS1A-es'
 tags: [  ]

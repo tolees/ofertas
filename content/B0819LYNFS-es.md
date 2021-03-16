@@ -5,7 +5,7 @@ date: 2020-05-31 17:46:17
 image: 'https://m.media-amazon.com/images/I/41918p4EIyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0819LYNFS-es Meeter Funda Xiaomi Redmi 8A 7 x Unidades Carcasas Ultra...'
 sku: 'B0819LYNFS-es'
 tags: [  ]

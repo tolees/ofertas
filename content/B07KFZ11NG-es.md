@@ -5,7 +5,7 @@ date: 2020-02-13 22:51:48
 image: 'https://m.media-amazon.com/images/I/41LHb2N8reL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZ11NG-es PUMA Vikky v2 Mid WTR Zapatillas Altas para Mujer...'
 sku: 'B07KFZ11NG-es'
 tags: [  ]

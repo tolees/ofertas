@@ -5,7 +5,7 @@ date: 2020-05-01 17:36:58
 image: 'https://m.media-amazon.com/images/I/41hMP8XPl3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KPPY0H4-es MAKITA DTW450Z llave de impacto 18 V Negro Azul M12 M16 M22'
 sku: 'B00KPPY0H4-es'
 tags: [  ]

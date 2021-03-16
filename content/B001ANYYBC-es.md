@@ -5,7 +5,7 @@ date: 2020-01-01 10:14:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BymgiO7rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001ANYYBC-es Clairefontaine 3999C - Lote de 25 Cuadernos grapados...'
 sku: 'B001ANYYBC-es'
 tags: [  ]

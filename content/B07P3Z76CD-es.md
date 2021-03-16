@@ -5,7 +5,7 @@ date: 2020-02-29 14:16:59
 image: 'https://m.media-amazon.com/images/I/418oD2w-fbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3Z76CD-es Cámara IP HD IP66 Impermeable Cámara Bullet con IR Vision...'
 sku: 'B07P3Z76CD-es'
 tags: [  ]

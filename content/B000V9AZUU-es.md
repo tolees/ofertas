@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'TRIXIE Set Higiene Dental  Pasta y cepil al 55.52 % de rebaja'
-date: 2021-03-15 10:42:02
+date: 2021-03-16 16:18:54
 image: 'https://m.media-amazon.com/images/I/415LmVN1s6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000V9AZUU-es TRIXIE Set Higiene Dental Pasta y cepillos dedos Perro'
 sku: 'B000V9AZUU-es'
-tags: [  ]
+tags: [ 'trixie', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trixie'
 buyurl: 'https://www.amazon.es/dp/B000V9AZUU/?tag=tolees-21'
 descuento: '55.52'
-average: '3.91692607003891'
+average: '3.91749034749035'
 ---
 
 Tienes [TRIXIE Set Higiene Dental  Pasta y cepillos dedos  Perro](https://www.amazon.es/dp/B000V9AZUU/?tag=tolees-21) con precio final de  3.99 EUR (original: 8.97 EUR) (55.52 %  de rebaja) aqui!

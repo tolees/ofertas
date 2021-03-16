@@ -5,7 +5,7 @@ date: 2020-09-13 13:03:53
 image: 'https://m.media-amazon.com/images/I/510qdnTaKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTPDXMV-es Kipling KiplingTotepackMujerBolsos maletínMulticolor Camo...'
 sku: 'B07TTPDXMV-es'
 tags: [  ]

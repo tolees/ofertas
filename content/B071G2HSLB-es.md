@@ -5,7 +5,7 @@ date: 2020-02-12 21:44:01
 image: 'https://m.media-amazon.com/images/I/31ZhLBawQhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071G2HSLB-es Apple Funda de piel para el iPad Pro de 10 5 pulgadas -...'
 sku: 'B071G2HSLB-es'
 tags: [  ]

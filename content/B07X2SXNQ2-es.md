@@ -5,7 +5,7 @@ date: 2020-07-23 18:34:15
 image: 'https://m.media-amazon.com/images/I/41RRBtXtCIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X2SXNQ2-es Eastpak SPRINGER Riñonera 23 cm 2 L Verde Meshknit Green'
 sku: 'B07X2SXNQ2-es'
 tags: [  ]

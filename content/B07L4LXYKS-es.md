@@ -5,7 +5,7 @@ date: 2020-04-03 16:32:33
 image: 'https://m.media-amazon.com/images/I/41pqc8W1g8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4LXYKS-es 60 x 85cm Almohadilla Térmica Eléctrica para la Espalda...'
 sku: 'B07L4LXYKS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-14 17:46:12
 image: 'https://m.media-amazon.com/images/I/51UeEvNkzpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QYVLWHK-es ZERHOK Muñequeras y Diadema Sudor Conjunto de muñequeras y...'
 sku: 'B07QYVLWHK-es'
 tags: [  ]

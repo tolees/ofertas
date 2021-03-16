@@ -5,7 +5,7 @@ date: 2020-02-10 12:13:54
 image: 'https://m.media-amazon.com/images/I/51y-5t8gV-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y5X87QQ-es Pantene Rizos Definidos Mascarilla Hidrata para Conseguir...'
 sku: 'B06Y5X87QQ-es'
 tags: [  ]

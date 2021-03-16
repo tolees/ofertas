@@ -5,7 +5,7 @@ date: 2020-07-22 05:15:28
 image: 'https://m.media-amazon.com/images/I/21wvG0fqyNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V9HWG53-es BOSS Schino-Slim D Pantalones Plateado Silver 43 W36/L36...'
 sku: 'B07V9HWG53-es'
 tags: [  ]

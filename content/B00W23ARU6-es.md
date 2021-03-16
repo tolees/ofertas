@@ -5,7 +5,7 @@ date: 2020-05-18 14:03:53
 image: 'https://m.media-amazon.com/images/I/41I6a61yGrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W23ARU6-es Pack 2 Kajal delineador de ojos arabe /...'
 sku: 'B00W23ARU6-es'
 tags: [  ]

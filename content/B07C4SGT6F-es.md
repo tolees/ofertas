@@ -5,7 +5,7 @@ date: 2020-01-08 22:44:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419gRbQFNRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C4SGT6F-es EasyAcc USB Mini Ventilador de Escritorio Ventilador...'
 sku: 'B07C4SGT6F-es'
 tags: [  ]

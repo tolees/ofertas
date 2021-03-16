@@ -5,7 +5,7 @@ date: 2020-06-12 07:50:28
 image: 'https://m.media-amazon.com/images/I/31tUF53Q-ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003AK3XA6-es RÖSLE 12844 - Soplete flambeador'
 sku: 'B003AK3XA6-es'
 tags: [  ]

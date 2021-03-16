@@ -5,7 +5,7 @@ date: 2020-03-11 06:36:13
 image: 'https://m.media-amazon.com/images/I/41wOiv28QtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPDDSLG-es DAM. DMX197BKCorrea Diseño Flores De Piel Sintética Iwatch...'
 sku: 'B07JPDDSLG-es'
 tags: [  ]

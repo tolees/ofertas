@@ -5,7 +5,7 @@ date: 2020-02-17 13:04:09
 image: 'https://m.media-amazon.com/images/I/51QMkc3k-kL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3PSDFP-es homgeek Batidora de Vaso Licuadora Smoothies de Alta...'
 sku: 'B07V3PSDFP-es'
 tags: [  ]

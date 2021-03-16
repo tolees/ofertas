@@ -5,7 +5,7 @@ date: 2020-09-21 15:49:13
 image: 'https://m.media-amazon.com/images/I/21IhPp6gIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U2IGFB8-es Pikolin Home - Almohada de fibra antiácaros funda 100%...'
 sku: 'B00U2IGFB8-es'
 tags: [  ]

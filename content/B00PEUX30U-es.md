@@ -5,7 +5,7 @@ date: 2020-10-01 16:47:36
 image: 'https://m.media-amazon.com/images/I/3126GbxAqYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PEUX30U-es Auriculares plegables JVC HA-S180-W color blanco'
 sku: 'B00PEUX30U-es'
 tags: [  ]

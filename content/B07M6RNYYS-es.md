@@ -5,7 +5,7 @@ date: 2020-08-24 17:13:51
 image: 'https://m.media-amazon.com/images/I/21UElM+OKyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6RNYYS-es De Longhi Pingüino PAC N77ECO Aire Acondicionado Portátil...'
 sku: 'B07M6RNYYS-es'
 tags: [  ]

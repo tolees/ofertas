@@ -5,7 +5,7 @@ date: 2020-01-28 08:29:55
 image: 'https://m.media-amazon.com/images/I/417mBdHFf-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ3PJBP-es Puma Vikky Platform VT Zapatillas para Mujer Negro Black...'
 sku: 'B07CZ3PJBP-es'
 tags: [  ]

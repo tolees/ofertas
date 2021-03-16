@@ -5,7 +5,7 @@ date: 2020-10-11 14:07:21
 image: 'https://m.media-amazon.com/images/I/41OlrpEgcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ816QS-es Under Armour Men s Core Golf Visor Gorras Con Visera De...'
 sku: 'B07CZ816QS-es'
 tags: [  ]

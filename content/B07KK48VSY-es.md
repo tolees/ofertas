@@ -5,7 +5,7 @@ date: 2020-07-13 17:50:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41f2OKIJwhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK48VSY-es SIMBR Soporte TV de Pared para 30"-85" Pantalla...'
 sku: 'B07KK48VSY-es'
 tags: [  ]

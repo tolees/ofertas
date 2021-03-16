@@ -5,7 +5,7 @@ date: 2020-10-04 18:13:19
 image: 'https://m.media-amazon.com/images/I/51L4m5egW0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HDNBF9C-es ZLJ Cojín Largo Grueso para Tumbona cojín reclinable para...'
 sku: 'B08HDNBF9C-es'
 tags: [  ]

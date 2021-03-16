@@ -5,7 +5,7 @@ date: 2020-10-09 21:01:15
 image: 'https://m.media-amazon.com/images/I/31wphSBsTCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYZXV7P-es Max Factor Perfect Gel Shine; Laca de Uñas Tono 101 - 12 ml'
 sku: 'B07TYZXV7P-es'
 tags: [  ]

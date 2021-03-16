@@ -5,7 +5,7 @@ date: 2020-08-28 12:12:53
 image: 'https://m.media-amazon.com/images/I/41hXXSSD6+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B144PDQ-es Skechers Women s Flex Appeal 3.0 Trainers Grey Slate &...'
 sku: 'B07B144PDQ-es'
 tags: [  ]

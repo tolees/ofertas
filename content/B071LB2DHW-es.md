@@ -5,7 +5,7 @@ date: 2020-06-09 06:43:16
 image: 'https://m.media-amazon.com/images/I/418AomlDleL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LB2DHW-es Mesa auxiliar de cama plegable reclinable y con ruedas y...'
 sku: 'B071LB2DHW-es'
 tags: [  ]

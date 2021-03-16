@@ -5,7 +5,7 @@ date: 2020-07-15 10:12:19
 image: 'https://m.media-amazon.com/images/I/31HcXKG-INL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XB5RYCJ-es Mini Pluma para cámara-Bolígrafo de cámara espía-Pluma...'
 sku: 'B07XB5RYCJ-es'
 tags: [  ]

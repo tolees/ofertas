@@ -5,7 +5,7 @@ date: 2020-08-11 08:02:27
 image: 'https://m.media-amazon.com/images/I/31t4+xuKBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFF37CN-es Jabra Talk 45 – Auricular Monoaural In-Ear Llamadas...'
 sku: 'B07DFF37CN-es'
 tags: [  ]

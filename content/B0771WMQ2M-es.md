@@ -5,7 +5,7 @@ date: 2020-01-27 23:49:41
 image: 'https://m.media-amazon.com/images/I/51VfaIGV3dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771WMQ2M-es Art 1351 Memphis Pedrera Zapatillas para Mujer Naranja...'
 sku: 'B0771WMQ2M-es'
 tags: [  ]

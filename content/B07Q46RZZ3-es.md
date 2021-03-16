@@ -5,7 +5,7 @@ date: 2020-07-22 05:35:43
 image: 'https://m.media-amazon.com/images/I/51WjaLiiWDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q46RZZ3-es Juego de carreras de huevos - contiene 8 cucharas 8 huevos...'
 sku: 'B07Q46RZZ3-es'
 tags: [  ]

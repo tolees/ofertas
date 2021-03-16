@@ -5,7 +5,7 @@ date: 2020-07-01 20:18:09
 image: 'https://m.media-amazon.com/images/I/4106pORgAKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XURKIVG-es Tanqueray London Dry Gin - 1000 ml'
 sku: 'B00XURKIVG-es'
 tags: [  ]

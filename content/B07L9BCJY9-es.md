@@ -5,7 +5,7 @@ date: 2020-04-05 11:03:48
 image: 'https://m.media-amazon.com/images/I/412nOlvd8tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9BCJY9-es Nike Legend React 2 Zapatillas de Trail Running para...'
 sku: 'B07L9BCJY9-es'
 tags: [  ]

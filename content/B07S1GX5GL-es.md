@@ -5,7 +5,7 @@ date: 2020-08-16 12:05:42
 image: 'https://m.media-amazon.com/images/I/51ABUWIvyRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1GX5GL-es Agenda 2020 con Vista Semanal – Planificador 2020 Semana...'
 sku: 'B07S1GX5GL-es'
 tags: [  ]

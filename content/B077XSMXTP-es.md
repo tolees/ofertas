@@ -5,7 +5,7 @@ date: 2020-05-01 07:03:53
 image: 'https://m.media-amazon.com/images/I/31-VVo5lQrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XSMXTP-es Under Armour Armour Fleece Jogger Pantalones Niños Gris...'
 sku: 'B077XSMXTP-es'
 tags: [  ]

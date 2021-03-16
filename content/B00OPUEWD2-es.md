@@ -5,7 +5,7 @@ date: 2020-09-01 15:01:34
 image: 'https://m.media-amazon.com/images/I/41VPhX4hFlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OPUEWD2-es iHealth Monitor de Actividad y Sueño - 1 Monitor'
 sku: 'B00OPUEWD2-es'
 tags: [  ]

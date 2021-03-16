@@ -5,7 +5,7 @@ date: 2020-07-23 19:29:14
 image: 'https://m.media-amazon.com/images/I/4131opdp6eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K18FB1L-es Nixon Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07K18FB1L-es'
 tags: [  ]

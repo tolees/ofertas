@@ -5,7 +5,7 @@ date: 2020-10-11 05:12:51
 image: 'https://m.media-amazon.com/images/I/31JgP9vwFuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0PTTXE-es GoPro AWALC-002-ES - Cargador rápido de Puerto Dual...'
 sku: 'B01M0PTTXE-es'
 tags: [  ]

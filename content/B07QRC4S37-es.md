@@ -5,7 +5,7 @@ date: 2020-04-20 18:10:39
 image: 'https://m.media-amazon.com/images/I/417-4p3-rQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRC4S37-es Fortnite FNT0039 Durrr Burger Felpa'
 sku: 'B07QRC4S37-es'
 tags: [  ]

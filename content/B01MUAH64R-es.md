@@ -5,7 +5,7 @@ date: 2020-03-20 17:53:33
 image: 'https://m.media-amazon.com/images/I/41T0NJUqonL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUAH64R-es Diesel UMBX-SHAWNTHREEPACK Calzoncillo para Hombre Negro M...'
 sku: 'B01MUAH64R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 18:47:22
 image: 'https://m.media-amazon.com/images/I/41Kao2EjJNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XG5JXQJ-es Chicco Physio Soft Pack de 2 Chupetes de Silicona 6-16...'
 sku: 'B06XG5JXQJ-es'
 tags: [  ]

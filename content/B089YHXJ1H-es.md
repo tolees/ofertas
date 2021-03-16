@@ -5,7 +5,7 @@ date: 2020-07-15 19:15:44
 image: 'https://m.media-amazon.com/images/I/41sKvFeyrBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089YHXJ1H-es Decdeal Piscina de Baño para Mascotas Piscina Plegable PVC...'
 sku: 'B089YHXJ1H-es'
 tags: [  ]

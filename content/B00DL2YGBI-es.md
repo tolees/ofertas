@@ -5,7 +5,7 @@ date: 2020-06-28 15:33:28
 image: 'https://m.media-amazon.com/images/I/31YoGT8bYJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DL2YGBI-es Zwilling Kellnermesser Classic'
 sku: 'B00DL2YGBI-es'
 tags: [  ]

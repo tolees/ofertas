@@ -5,7 +5,7 @@ date: 2020-04-27 10:41:01
 image: 'https://m.media-amazon.com/images/I/51jtNVeCN4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWPQB41-es Cubierta de lactancia para bebés y poncho de lactancia -...'
 sku: 'B07QWPQB41-es'
 tags: [  ]

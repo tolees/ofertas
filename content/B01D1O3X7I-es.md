@@ -5,7 +5,7 @@ date: 2020-07-31 09:15:08
 image: 'https://m.media-amazon.com/images/I/51+w7A0URKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D1O3X7I-es Sherlock Holmes: The Devil s Daughter'
 sku: 'B01D1O3X7I-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-29 05:28:44
 image: 'https://m.media-amazon.com/images/I/21FOe48q8PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081C4NKVG-es Divit Shilp Streamline Ganchillo con mango ergonómico para...'
 sku: 'B081C4NKVG-es'
 tags: [  ]

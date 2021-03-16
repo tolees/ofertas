@@ -5,7 +5,7 @@ date: 2020-10-05 18:29:47
 image: 'https://m.media-amazon.com/images/I/41mwPsj-9UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDLS3VL-es Salomon Sense Feel W Zapatillas para Correr para Mujer...'
 sku: 'B07RDLS3VL-es'
 tags: [  ]

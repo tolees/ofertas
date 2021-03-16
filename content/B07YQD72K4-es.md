@@ -5,7 +5,7 @@ date: 2020-07-01 10:15:42
 image: 'https://m.media-amazon.com/images/I/41MT7eMRkJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQD72K4-es Palette Schwarzkopf Intense Coloración Permanente Tono 6.1...'
 sku: 'B07YQD72K4-es'
 tags: [  ]

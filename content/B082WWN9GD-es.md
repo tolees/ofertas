@@ -5,7 +5,7 @@ date: 2020-08-12 14:48:46
 image: 'https://m.media-amazon.com/images/I/51KbrAZVA3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082WWN9GD-es AOQUSSQOA Mujer Trajes de baño de una Pieza con Volantes...'
 sku: 'B082WWN9GD-es'
 tags: [  ]

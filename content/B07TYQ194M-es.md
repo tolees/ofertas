@@ -5,7 +5,7 @@ date: 2020-10-06 11:26:21
 image: 'https://m.media-amazon.com/images/I/51oy360yOfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYQ194M-es Funko- Pop Marvel: Endgame-Thor w/Can Collectible Toy...'
 sku: 'B07TYQ194M-es'
 tags: [  ]

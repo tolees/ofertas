@@ -5,7 +5,7 @@ date: 2020-02-20 20:05:34
 image: 'https://m.media-amazon.com/images/I/51CE0fu5p7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N5ZGGJW-es QITAYO Protector de Pantalla Huawei P30 Lite [0.3mm 2.5D]...'
 sku: 'B07N5ZGGJW-es'
 tags: [  ]

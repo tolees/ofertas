@@ -5,7 +5,7 @@ date: 2020-06-22 18:24:26
 image: 'https://m.media-amazon.com/images/I/415tKLqKueL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9SRW57-es PUMA Cilia Zapatillas para Mujer Rosa Black/Pink Rosewater...'
 sku: 'B07S9SRW57-es'
 tags: [  ]

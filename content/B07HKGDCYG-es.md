@@ -5,7 +5,7 @@ date: 2020-07-23 22:04:59
 image: 'https://m.media-amazon.com/images/I/31haWvWV4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKGDCYG-es Under Armour UA Charged Bandit 5 Zapatillas para Correr...'
 sku: 'B07HKGDCYG-es'
 tags: [  ]

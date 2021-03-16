@@ -5,7 +5,7 @@ date: 2020-08-13 16:00:45
 image: 'https://m.media-amazon.com/images/I/419sOGyNNFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UCL2L2M-es Aqua Control Riego por Goteo para Balcones-Programador...'
 sku: 'B00UCL2L2M-es'
 tags: [  ]

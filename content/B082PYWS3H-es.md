@@ -5,7 +5,7 @@ date: 2020-08-20 18:01:10
 image: 'https://m.media-amazon.com/images/I/21ZXEr2Nw7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PYWS3H-es Samsung A71 - Carcasa de silicona color Negro'
 sku: 'B082PYWS3H-es'
 tags: [  ]

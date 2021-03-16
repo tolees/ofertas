@@ -5,7 +5,7 @@ date: 2020-08-23 22:21:00
 image: 'https://m.media-amazon.com/images/I/51WzuchQCKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F38VL6D-es Oumakiku Botellas de Spray Botellas de Viaje Spray de...'
 sku: 'B08F38VL6D-es'
 tags: [  ]

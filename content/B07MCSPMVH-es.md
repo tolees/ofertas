@@ -5,7 +5,7 @@ date: 2020-03-29 16:27:59
 image: 'https://m.media-amazon.com/images/I/41ByMXespzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPMVH-es Napapijri EILS Polo Rojo Red Scarlet R01 XXXL para Hombre'
 sku: 'B07MCSPMVH-es'
 tags: [  ]

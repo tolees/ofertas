@@ -5,7 +5,7 @@ date: 2020-09-11 13:34:52
 image: 'https://m.media-amazon.com/images/I/41C82Ne9poL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TRXZ9N-es Crucial Ballistix BL2K16G36C16U4R 3600 MHz DDR4 DRAM...'
 sku: 'B083TRXZ9N-es'
 tags: [  ]

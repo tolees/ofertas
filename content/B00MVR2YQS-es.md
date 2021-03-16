@@ -5,7 +5,7 @@ date: 2020-03-06 06:09:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31C0GxX3eqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MVR2YQS-es D-Link DCH-M225 - Repetidor WiFi N 300 Amplificador...'
 sku: 'B00MVR2YQS-es'
 tags: [  ]

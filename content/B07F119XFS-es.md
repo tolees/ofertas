@@ -5,7 +5,7 @@ date: 2020-02-26 08:28:17
 image: 'https://m.media-amazon.com/images/I/41pjJ5IHNTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F119XFS-es LA HAUTE - Paréo - Bustier - Femme - Noir - 38'
 sku: 'B07F119XFS-es'
 tags: [  ]

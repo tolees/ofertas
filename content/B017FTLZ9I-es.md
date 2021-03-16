@@ -5,7 +5,7 @@ date: 2020-04-14 17:17:47
 image: 'https://m.media-amazon.com/images/I/419OTu7VTyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017FTLZ9I-es KS Tools 713.1103 módulo de abolladuras de carrocería 3...'
 sku: 'B017FTLZ9I-es'
 tags: [  ]

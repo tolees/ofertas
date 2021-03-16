@@ -5,7 +5,7 @@ date: 2020-08-25 20:14:54
 image: 'https://m.media-amazon.com/images/I/41fUftgw2VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBXNWH4-es PUMA Vista Zapatillas Unisex-Adulto Negro Black...'
 sku: 'B07DBXNWH4-es'
 tags: [  ]

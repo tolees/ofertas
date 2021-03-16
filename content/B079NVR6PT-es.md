@@ -5,7 +5,7 @@ date: 2020-06-08 08:13:42
 image: 'https://m.media-amazon.com/images/I/41qGK0JHWQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NVR6PT-es ProfiCare HTH 3003 - Secador de casco iónico 2 niveles de...'
 sku: 'B079NVR6PT-es'
 tags: [  ]

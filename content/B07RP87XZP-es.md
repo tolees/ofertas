@@ -5,7 +5,7 @@ date: 2020-02-08 18:04:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nUB5GUaCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP87XZP-es Calvin Klein CK Rev.Adj. New Mono Belt 3.5cm Cinturón...'
 sku: 'B07RP87XZP-es'
 tags: [  ]

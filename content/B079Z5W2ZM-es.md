@@ -5,7 +5,7 @@ date: 2020-02-24 10:25:31
 image: 'https://m.media-amazon.com/images/I/31KNaDzxfCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Z5W2ZM-es Elizabeth Arden Liquid Lip Gloss Finish Pintalabios Pretty...'
 sku: 'B079Z5W2ZM-es'
 tags: [  ]

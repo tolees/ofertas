@@ -5,7 +5,7 @@ date: 2020-03-14 12:21:38
 image: 'https://m.media-amazon.com/images/I/31haPtObxTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK3GWNF-es Quiksilver Everyday Shorts Hombre Safety Yellow L'
 sku: 'B07KK3GWNF-es'
 tags: [  ]

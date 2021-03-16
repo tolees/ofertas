@@ -5,7 +5,7 @@ date: 2020-01-19 11:59:39
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wYCQ0amvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002DYJ0N4-es Optimum Nutrition Suplemento Dietético en Polvo "Gold...'
 sku: 'B002DYJ0N4-es'
 tags: [  ]

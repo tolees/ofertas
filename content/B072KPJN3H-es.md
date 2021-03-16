@@ -5,7 +5,7 @@ date: 2020-01-11 12:23:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/410gFckHsWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KPJN3H-es Salewa WS Ultra Train 2 Zapatillas de Running para Asfalto...'
 sku: 'B072KPJN3H-es'
 tags: [  ]

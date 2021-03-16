@@ -5,7 +5,7 @@ date: 2020-04-22 06:00:57
 image: 'https://m.media-amazon.com/images/I/41pFYyU4zgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086JHXXYK-es N/ A Mascara Ninos Mascarilla Antipolvo Boca Mascarillas...'
 sku: 'B086JHXXYK-es'
 tags: [  ]

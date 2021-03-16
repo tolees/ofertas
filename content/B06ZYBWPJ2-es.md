@@ -5,7 +5,7 @@ date: 2020-03-01 09:42:20
 image: 'https://m.media-amazon.com/images/I/41QMrOoHDsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYBWPJ2-es Shock Absorber Active Crop Top Sujetador Estilo Bralette...'
 sku: 'B06ZYBWPJ2-es'
 tags: [  ]

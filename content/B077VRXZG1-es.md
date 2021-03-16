@@ -5,7 +5,7 @@ date: 2020-05-09 19:56:23
 image: 'https://m.media-amazon.com/images/I/41ghIpmBTML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VRXZG1-es adidas VL Court 2.0 Zapatillas para Hombre Azul Collegiate...'
 sku: 'B077VRXZG1-es'
 tags: [  ]

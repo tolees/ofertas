@@ -5,7 +5,7 @@ date: 2020-07-19 18:33:07
 image: 'https://m.media-amazon.com/images/I/41MibauegrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8BPWRC-es DORRISO Linda Sombrero y Bufanda Niño Niña Primavera Otoño...'
 sku: 'B07H8BPWRC-es'
 tags: [  ]

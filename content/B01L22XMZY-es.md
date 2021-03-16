@@ -5,7 +5,7 @@ date: 2020-09-09 17:35:47
 image: 'https://m.media-amazon.com/images/I/41shvluVolL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L22XMZY-es EVOWHEY PROTEIN 2.0 Chocolate 2Kg'
 sku: 'B01L22XMZY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-08 16:08:28
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZM2mQgPiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RMBC65C-es Juvena Aceite corporal - 100 ml.'
 sku: 'B00RMBC65C-es'
 tags: [  ]

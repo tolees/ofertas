@@ -5,7 +5,7 @@ date: 2020-02-29 11:05:17
 image: 'https://m.media-amazon.com/images/I/41VDRSQSkeL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K1WCMJE-es Lacoste L1312 Polo Azul Marine M Talla del fabricante: 4...'
 sku: 'B00K1WCMJE-es'
 tags: [  ]

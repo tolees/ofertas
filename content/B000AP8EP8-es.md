@@ -5,7 +5,7 @@ date: 2020-06-08 13:09:16
 image: 'https://m.media-amazon.com/images/I/41AF2u7g0AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000AP8EP8-es K&N BM-0300 Filtro de Aire Moto'
 sku: 'B000AP8EP8-es'
 tags: [  ]

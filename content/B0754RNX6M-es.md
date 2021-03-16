@@ -5,7 +5,7 @@ date: 2020-04-02 09:35:40
 image: 'https://m.media-amazon.com/images/I/51V5OcfyvWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0754RNX6M-es Salomon shorts para running agile short tafetán negro...'
 sku: 'B0754RNX6M-es'
 tags: [  ]

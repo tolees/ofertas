@@ -5,7 +5,7 @@ date: 2020-02-29 06:58:22
 image: 'https://m.media-amazon.com/images/I/31DNQq6sPAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019O9BAGU-es Under Armour UA TAC Performance Polo Hombre Negro...'
 sku: 'B019O9BAGU-es'
 tags: [  ]

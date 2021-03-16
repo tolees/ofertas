@@ -5,7 +5,7 @@ date: 2020-07-09 22:37:15
 image: 'https://m.media-amazon.com/images/I/31nneb4yYAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ1D7TK-es Levi s Woodward L Zapatillas para Hombre Gris R Grey 55 40 EU'
 sku: 'B07SJ1D7TK-es'
 tags: [  ]

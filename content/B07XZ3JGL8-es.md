@@ -5,7 +5,7 @@ date: 2020-05-15 11:28:18
 image: 'https://m.media-amazon.com/images/I/41MCfT24O-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZ3JGL8-es Micrófono inalámbrico con auriculares 2 en 1 EXJOY del...'
 sku: 'B07XZ3JGL8-es'
 tags: [  ]

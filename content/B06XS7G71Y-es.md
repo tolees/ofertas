@@ -5,7 +5,7 @@ date: 2020-09-10 21:33:21
 image: 'https://m.media-amazon.com/images/I/31XiBak6UzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XS7G71Y-es Apple Funda Smart Cover para el iPad - Gris carbón'
 sku: 'B06XS7G71Y-es'
 tags: [  ]

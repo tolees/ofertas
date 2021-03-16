@@ -5,7 +5,7 @@ date: 2020-05-30 17:33:01
 image: 'https://m.media-amazon.com/images/I/41jMW+QIXOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872NNDZ3-es Funda Transparente Compatible para Huawei Enjoy 7 Carcasa...'
 sku: 'B0872NNDZ3-es'
 tags: [  ]

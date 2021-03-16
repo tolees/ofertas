@@ -5,7 +5,7 @@ date: 2020-09-22 07:10:14
 image: 'https://m.media-amazon.com/images/I/41Q-Wqy5H6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W9OYBP0-es Calvin Klein Radiant Cotton-Thong Tanga Negro BLACK Large...'
 sku: 'B00W9OYBP0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-19 11:05:25
 image: 'https://m.media-amazon.com/images/I/41iwhKX3eaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXQK3Z8-es Lacoste - Polo de Manga Corta para Mujer Fairground Pink 3...'
 sku: 'B07RXQK3Z8-es'
 tags: [  ]

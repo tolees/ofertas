@@ -5,7 +5,7 @@ date: 2020-09-04 10:35:14
 image: 'https://m.media-amazon.com/images/I/61tB4VVSMhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077ZCHV7S-es Crazy pawn- Juego de Mesa Dentro del Laberinto Multicolor...'
 sku: 'B077ZCHV7S-es'
 tags: [  ]

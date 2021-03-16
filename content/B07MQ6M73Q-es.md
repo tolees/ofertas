@@ -5,7 +5,7 @@ date: 2020-03-14 11:39:47
 image: 'https://m.media-amazon.com/images/I/31D6tykqIlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ6M73Q-es Scotch & Soda Mott-Classic Garment-dyed Twill Chino...'
 sku: 'B07MQ6M73Q-es'
 tags: [  ]

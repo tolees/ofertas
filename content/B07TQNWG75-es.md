@@ -5,7 +5,7 @@ date: 2020-03-18 20:55:19
 image: 'https://m.media-amazon.com/images/I/41HywEwD28L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQNWG75-es Levi s Azul Hm Patch Housemark Polo Riverside 0110 Small...'
 sku: 'B07TQNWG75-es'
 tags: [  ]

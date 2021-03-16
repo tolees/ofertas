@@ -5,7 +5,7 @@ date: 2020-08-08 12:21:52
 image: 'https://m.media-amazon.com/images/I/31zChAfLIIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5B24CX-es adidas Galaxy 4 Zapatillas de Entrenamiento para Hombre...'
 sku: 'B07M5B24CX-es'
 tags: [  ]

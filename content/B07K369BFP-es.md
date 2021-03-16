@@ -5,7 +5,7 @@ date: 2020-01-07 19:39:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31Nu0JWG%2BOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K369BFP-es Adidas Vs Advantage Cl K Zapatillas de Deporte Unisex...'
 sku: 'B07K369BFP-es'
 tags: [  ]

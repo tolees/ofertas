@@ -5,7 +5,7 @@ date: 2020-03-31 08:18:58
 image: 'https://m.media-amazon.com/images/I/41G1+kHqtNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001U5ERVM-es Nike Force 1 PS Zapatillas de Baloncesto para Niños Blanco...'
 sku: 'B001U5ERVM-es'
 tags: [  ]

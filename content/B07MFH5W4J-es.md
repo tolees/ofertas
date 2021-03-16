@@ -5,7 +5,7 @@ date: 2020-04-26 20:27:40
 image: 'https://m.media-amazon.com/images/I/31aQRsUm-EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFH5W4J-es Chanel Chance Eau Tendre Edp Vapo 50 Ml - 50 ml'
 sku: 'B07MFH5W4J-es'
 tags: [  ]

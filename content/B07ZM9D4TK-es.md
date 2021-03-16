@@ -5,7 +5,7 @@ date: 2020-05-23 17:32:42
 image: 'https://m.media-amazon.com/images/I/516p4rJLeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZM9D4TK-es HYMY Funda para LG K40S Smartphone + 2 x Cristal Templado...'
 sku: 'B07ZM9D4TK-es'
 tags: [  ]

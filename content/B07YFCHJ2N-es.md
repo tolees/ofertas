@@ -5,7 +5,7 @@ date: 2020-04-08 06:07:25
 image: 'https://m.media-amazon.com/images/I/5159pXr79NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YFCHJ2N-es incarpo Zapatillas Casa Mujer Lana de Coral Zapatillas de...'
 sku: 'B07YFCHJ2N-es'
 tags: [  ]

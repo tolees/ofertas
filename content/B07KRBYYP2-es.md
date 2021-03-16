@@ -5,7 +5,7 @@ date: 2020-01-11 05:19:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DZ%2BixcebL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRBYYP2-es GANT Footwear Portland Zapatillas para Hombre Multicolor...'
 sku: 'B07KRBYYP2-es'
 tags: [  ]

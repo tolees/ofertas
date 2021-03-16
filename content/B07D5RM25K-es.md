@@ -5,7 +5,7 @@ date: 2020-02-24 20:49:59
 image: 'https://m.media-amazon.com/images/I/41O4hYWlPWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5RM25K-es Funko- Pop Games The Dragon-Spyro and Sparx Figura de...'
 sku: 'B07D5RM25K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-06 21:07:55
 image: 'https://m.media-amazon.com/images/I/51Sgny6KbGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CY6X8X8-es Scottex - Toallitas Íntimas - 16 packs de 25 toallitas -...'
 sku: 'B07CY6X8X8-es'
 tags: [  ]

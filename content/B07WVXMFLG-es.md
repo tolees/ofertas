@@ -5,7 +5,7 @@ date: 2020-02-01 02:02:48
 image: 'https://m.media-amazon.com/images/I/51rYrGvT84L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVXMFLG-es Xnuoyo Cepillo de Limpieza Facial 5 en 1 Masajeador Facial...'
 sku: 'B07WVXMFLG-es'
 tags: [  ]

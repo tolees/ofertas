@@ -5,7 +5,7 @@ date: 2020-06-16 17:25:28
 image: 'https://m.media-amazon.com/images/I/41JVT6oO1yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012GWD04W-es 3 Piezas Sujetador Deportivo para Mujeres Sin Costuras...'
 sku: 'B012GWD04W-es'
 tags: [  ]

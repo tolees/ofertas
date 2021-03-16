@@ -5,7 +5,7 @@ date: 2020-06-28 14:24:05
 image: 'https://m.media-amazon.com/images/I/419q7LDgw5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R2MXJD6-es Amazon Essentials Plus Size Sherpa-Lined Full-Zip Hoodie...'
 sku: 'B07R2MXJD6-es'
 tags: [  ]

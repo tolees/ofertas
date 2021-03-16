@@ -5,7 +5,7 @@ date: 2020-09-04 05:41:12
 image: 'https://m.media-amazon.com/images/I/41uSyGeuX6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DL2QX9-es Ato Bea Pistola Masaje Muscular Pistola de Masaje Massage...'
 sku: 'B083DL2QX9-es'
 tags: [  ]

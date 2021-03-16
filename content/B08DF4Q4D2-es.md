@@ -5,7 +5,7 @@ date: 2020-09-30 10:05:18
 image: 'https://m.media-amazon.com/images/I/41kHtd1OZdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DF4Q4D2-es KingShark Funda Silicone Case para Samsung Galaxy Note 20...'
 sku: 'B08DF4Q4D2-es'
 tags: [  ]

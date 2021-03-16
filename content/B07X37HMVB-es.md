@@ -5,7 +5,7 @@ date: 2020-07-06 08:38:15
 image: 'https://m.media-amazon.com/images/I/51fbUoJzVuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X37HMVB-es Monitor Táctil 7 pulgadas para Raspberry Pi 4B Pantalla...'
 sku: 'B07X37HMVB-es'
 tags: [  ]

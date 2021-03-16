@@ -5,7 +5,7 @@ date: 2020-06-06 19:49:51
 image: 'https://m.media-amazon.com/images/I/41WqXajLSoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0041O4LVA-es Lékué - Decomax - Manga pastelera de Silicona 6 boquillas...'
 sku: 'B0041O4LVA-es'
 tags: [  ]

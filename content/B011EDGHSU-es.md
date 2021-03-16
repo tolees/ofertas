@@ -5,7 +5,7 @@ date: 2020-01-31 07:16:10
 image: 'https://m.media-amazon.com/images/I/51ANQvTWFVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011EDGHSU-es Apilables Recipiente De Lavado - Ideal para Camping Los...'
 sku: 'B011EDGHSU-es'
 tags: [  ]

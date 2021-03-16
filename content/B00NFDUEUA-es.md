@@ -5,7 +5,7 @@ date: 2020-01-25 18:41:09
 image: 'https://m.media-amazon.com/images/I/31FDUuk6MXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NFDUEUA-es Braun Minipimer 5 MQ5020WH Pasta - Batidora de mano 750 w...'
 sku: 'B00NFDUEUA-es'
 tags: [  ]

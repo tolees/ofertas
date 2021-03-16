@@ -5,7 +5,7 @@ date: 2020-02-22 09:05:08
 image: 'https://m.media-amazon.com/images/I/41KkwPELo8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVRGLM5-es Lámpara LED de Armario 10 LED USB Recargable Barra de Luz...'
 sku: 'B07TVRGLM5-es'
 tags: [  ]

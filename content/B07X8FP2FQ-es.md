@@ -5,7 +5,7 @@ date: 2020-08-21 17:08:32
 image: 'https://m.media-amazon.com/images/I/51aeyqUBVYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8FP2FQ-es Iron Maiden - A Matter Of Life And Death Collectors Box CD'
 sku: 'B07X8FP2FQ-es'
 tags: [  ]

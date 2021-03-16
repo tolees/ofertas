@@ -5,7 +5,7 @@ date: 2020-04-16 20:21:44
 image: 'https://m.media-amazon.com/images/I/41xMjjKHs7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCX5FJ6-es Victoria Tribu Doble Botin Lona Zapatillas Unisex Adulto...'
 sku: 'B07DCX5FJ6-es'
 tags: [  ]

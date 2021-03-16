@@ -5,7 +5,7 @@ date: 2020-09-16 11:35:30
 image: 'https://m.media-amazon.com/images/I/41ckrmLyJFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHH9SRP-es Funme USB Mini Ventilador de Escritorio Ventilador...'
 sku: 'B07RHH9SRP-es'
 tags: [  ]

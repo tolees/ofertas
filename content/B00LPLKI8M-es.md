@@ -5,7 +5,7 @@ date: 2020-10-04 20:24:39
 image: 'https://m.media-amazon.com/images/I/41TAgTPTqkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LPLKI8M-es Bella Aurora Gel Exfoliante Facial Anti-Manchas | Limpia...'
 sku: 'B00LPLKI8M-es'
 tags: [  ]

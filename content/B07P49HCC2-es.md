@@ -5,7 +5,7 @@ date: 2020-02-10 18:27:51
 image: 'https://m.media-amazon.com/images/I/41bxHzuNPrL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P49HCC2-es Skechers Meridian-Ostwall Zapatillas para Hombre Verde...'
 sku: 'B07P49HCC2-es'
 tags: [  ]

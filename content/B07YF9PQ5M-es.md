@@ -5,7 +5,7 @@ date: 2020-06-01 15:24:16
 image: 'https://m.media-amazon.com/images/I/41EiMDRWFsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YF9PQ5M-es Wodgreat Reproductor MP3 Reproductor de Música MP4...'
 sku: 'B07YF9PQ5M-es'
 tags: [  ]

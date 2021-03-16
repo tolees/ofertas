@@ -5,7 +5,7 @@ date: 2020-04-20 15:31:41
 image: 'https://m.media-amazon.com/images/I/51G-tdj1kVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y3TZP84-es ELEGOO Mega 2560 R3 Tarjeta Placa Compatible con Arduino...'
 sku: 'B06Y3TZP84-es'
 tags: [  ]

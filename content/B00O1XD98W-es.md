@@ -5,7 +5,7 @@ date: 2020-02-13 12:32:18
 image: 'https://m.media-amazon.com/images/I/41GJ5c6G+XL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O1XD98W-es WIDMANN 23945 Hinchable Rock Guitarra One Size'
 sku: 'B00O1XD98W-es'
 tags: [  ]

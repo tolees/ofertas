@@ -5,7 +5,7 @@ date: 2020-03-13 13:32:37
 image: 'https://m.media-amazon.com/images/I/5176T73KljL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07THTH5PP-es E·Durable 5 pcs Kit de herramientas de reparación en el...'
 sku: 'B07THTH5PP-es'
 tags: [  ]

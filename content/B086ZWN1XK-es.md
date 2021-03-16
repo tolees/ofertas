@@ -5,7 +5,7 @@ date: 2020-04-21 18:03:23
 image: 'https://m.media-amazon.com/images/I/413NU2Iy5pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZWN1XK-es B Blesiya Tablero De Dibujo De Tableta De Escritura LCD De...'
 sku: 'B086ZWN1XK-es'
 tags: [  ]

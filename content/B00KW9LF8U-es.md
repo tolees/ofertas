@@ -5,7 +5,7 @@ date: 2020-03-04 13:16:44
 image: 'https://m.media-amazon.com/images/I/31bgKC3y8BL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KW9LF8U-es AUSONIA - 72007 ABRELATAS PROFESIONAL DE MESA'
 sku: 'B00KW9LF8U-es'
 tags: [  ]

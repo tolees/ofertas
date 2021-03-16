@@ -5,7 +5,7 @@ date: 2020-10-05 15:40:39
 image: 'https://m.media-amazon.com/images/I/21UT+xEIf+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BCLX3WS-es Tefal Ingenio Ice Cuchillo pelador acero cepillado...'
 sku: 'B07BCLX3WS-es'
 tags: [  ]

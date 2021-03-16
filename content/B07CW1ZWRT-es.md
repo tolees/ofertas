@@ -5,7 +5,7 @@ date: 2020-09-08 16:30:53
 image: 'https://m.media-amazon.com/images/I/61BLBA2stTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CW1ZWRT-es Sheba Craft Collection - Elegante alimento húmedo para...'
 sku: 'B07CW1ZWRT-es'
 tags: [  ]

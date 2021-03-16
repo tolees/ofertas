@@ -5,7 +5,7 @@ date: 2020-01-19 17:55:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61roIEkbTGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XH1NW11-es Element Carrier II Beanie Gorro Hombre Gris Charcoal...'
 sku: 'B06XH1NW11-es'
 tags: [  ]

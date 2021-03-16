@@ -5,7 +5,7 @@ date: 2020-04-26 15:34:12
 image: 'https://m.media-amazon.com/images/I/315FlANgc7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NGWB6-es PUMA JARO Zapatillas de Running para Hombre Negro Black...'
 sku: 'B07S6NGWB6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-22 08:45:27
 image: 'https://m.media-amazon.com/images/I/31t6ievBIoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVK2M57-es touchbeauty ag-0676 3-en-1 Set Manicura y Pedicura...'
 sku: 'B07CVK2M57-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-20 11:24:06
 image: 'https://m.media-amazon.com/images/I/319dquCRqBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008YIPPT6-es L Oreal Paris Color Riche 376 Cassis Passion Barra de...'
 sku: 'B008YIPPT6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-05 23:20:01
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ko1J%2Bkj1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072PRNLPN-es Grohe Lineare - Grifo de bidé 1/2"Tamaño S color cromo...'
 sku: 'B072PRNLPN-es'
 tags: [  ]

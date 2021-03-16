@@ -5,7 +5,7 @@ date: 2020-04-16 13:04:43
 image: 'https://m.media-amazon.com/images/I/31ldvxtNHoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MPW7XTK-es HP OMEN Gaming 875-0013ns - Ordenador de sobremesa Intel...'
 sku: 'B07MPW7XTK-es'
 tags: [  ]

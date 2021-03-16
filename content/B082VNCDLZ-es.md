@@ -5,7 +5,7 @@ date: 2020-10-02 21:44:49
 image: 'https://m.media-amazon.com/images/I/41lQWlOXhRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VNCDLZ-es Rexona Maximum Protection Crema Antitranspirante Stress...'
 sku: 'B082VNCDLZ-es'
 tags: [  ]

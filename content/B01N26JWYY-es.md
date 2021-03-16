@@ -5,7 +5,7 @@ date: 2020-01-29 05:51:42
 image: 'https://m.media-amazon.com/images/I/41aPkIRcyaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N26JWYY-es Ozone Neon M50 USB Óptico 5000DPI Mano Derecha Blanco -...'
 sku: 'B01N26JWYY-es'
 tags: [  ]

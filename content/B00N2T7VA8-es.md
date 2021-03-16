@@ -5,7 +5,7 @@ date: 2020-06-18 08:31:10
 image: 'https://m.media-amazon.com/images/I/41WVkW-c1uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N2T7VA8-es Sikasil Pool Sellante silicona neutra para sellados en...'
 sku: 'B00N2T7VA8-es'
 tags: [  ]

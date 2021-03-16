@@ -5,7 +5,7 @@ date: 2020-07-09 17:44:00
 image: 'https://m.media-amazon.com/images/I/41v8bqjaulL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F0LEGJU-es Hauck Sport Silla de paseo ligera y practica para bebes de...'
 sku: 'B00F0LEGJU-es'
 tags: [  ]

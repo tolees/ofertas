@@ -5,7 +5,7 @@ date: 2020-07-20 10:30:07
 image: 'https://m.media-amazon.com/images/I/41RbwTQlZ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MH66XGD-es Fossil Reloj de Bolsillo Analógico de Cuarzo FTW5039'
 sku: 'B07MH66XGD-es'
 tags: [  ]

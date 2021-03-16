@@ -5,7 +5,7 @@ date: 2020-06-04 14:49:58
 image: 'https://m.media-amazon.com/images/I/51z5mFeroSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVZCM58-es TAZEMAT Toss Game 2pcs Juguete Inflable de Reno Marrón con...'
 sku: 'B07QVZCM58-es'
 tags: [  ]

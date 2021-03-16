@@ -5,7 +5,7 @@ date: 2020-09-17 13:12:01
 image: 'https://m.media-amazon.com/images/I/51k7WKLNDeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003A6NU3U-es Sigma DC - Objetivo para Nikon 17-50mm f/2.8 estabilizador...'
 sku: 'B003A6NU3U-es'
 tags: [  ]

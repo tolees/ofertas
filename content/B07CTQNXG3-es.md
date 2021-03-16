@@ -5,7 +5,7 @@ date: 2020-03-09 17:12:44
 image: 'https://m.media-amazon.com/images/I/31mePVbU9uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTQNXG3-es FIND - Cat Lady Máscara efecto alargador marrón +...'
 sku: 'B07CTQNXG3-es'
 tags: [  ]

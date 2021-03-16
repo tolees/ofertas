@@ -5,7 +5,7 @@ date: 2020-09-19 14:41:22
 image: 'https://m.media-amazon.com/images/I/51M4osm0JAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004QQSGJG-es Huggies Pull-Ups - Calzoncillos de aprendizaje para niños...'
 sku: 'B004QQSGJG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-30 07:18:49
 image: 'https://m.media-amazon.com/images/I/51rOJoHcKHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJFHFZ8-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B07NJFHFZ8-es'
 tags: [  ]

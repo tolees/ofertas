@@ -5,7 +5,7 @@ date: 2020-03-23 16:04:12
 image: 'https://m.media-amazon.com/images/I/415YFADjqFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFJ6BKZ-es Nike W M2k Tekno Zapatillas de Gimnasia para Mujer Verde...'
 sku: 'B07SFJ6BKZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-24 09:28:12
 image: 'https://m.media-amazon.com/images/I/51IdjjmX2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QQBYJ8Q-es MonQi 28 Piezas Juguete de Buceo Incluir Anillos de...'
 sku: 'B07QQBYJ8Q-es'
 tags: [  ]

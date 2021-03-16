@@ -5,7 +5,7 @@ date: 2020-05-29 13:08:23
 image: 'https://m.media-amazon.com/images/I/41ZUZb8cZ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHLX1R8-es Intel bx80684i59600k - CPU intel Core i5-9600k 3.70ghz 9m...'
 sku: 'B07HHLX1R8-es'
 tags: [  ]

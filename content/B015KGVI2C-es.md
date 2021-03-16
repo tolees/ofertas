@@ -5,7 +5,7 @@ date: 2020-07-25 17:27:54
 image: 'https://m.media-amazon.com/images/I/41H2kY+EXDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015KGVI2C-es Colnatur Classic Neutro 300 g - Colágeno natural...'
 sku: 'B015KGVI2C-es'
 tags: [  ]

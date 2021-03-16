@@ -5,7 +5,7 @@ date: 2020-02-10 11:29:52
 image: 'https://m.media-amazon.com/images/I/31um6kMo--L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016ICEZOK-es Taurus Unlimited 25.6 Lithium - Aspirador escoba 3 en 1'
 sku: 'B016ICEZOK-es'
 tags: [  ]

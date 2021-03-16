@@ -5,7 +5,7 @@ date: 2020-04-11 09:32:16
 image: 'https://m.media-amazon.com/images/I/51rB3YW9MiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFJ5JXZ-es Paletero Bullpadel 18004 Azul Flúor'
 sku: 'B07DFJ5JXZ-es'
 tags: [  ]

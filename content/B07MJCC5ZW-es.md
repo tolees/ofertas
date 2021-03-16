@@ -5,7 +5,7 @@ date: 2020-03-15 09:03:41
 image: 'https://m.media-amazon.com/images/I/41RQnEUBboL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJCC5ZW-es Puckator Taza/mug Mando Videojuego Cerámica Multicolor...'
 sku: 'B07MJCC5ZW-es'
 tags: [  ]

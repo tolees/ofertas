@@ -5,7 +5,7 @@ date: 2020-08-19 15:14:19
 image: 'https://m.media-amazon.com/images/I/41aFmmIbFiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FW6P2Y-es Otium - Auriculares inalámbricos Bluetooth 5.0 IPX7...'
 sku: 'B088FW6P2Y-es'
 tags: [  ]

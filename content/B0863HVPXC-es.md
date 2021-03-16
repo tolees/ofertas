@@ -5,7 +5,7 @@ date: 2020-07-11 20:46:49
 image: 'https://m.media-amazon.com/images/I/51NlgzdtHUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0863HVPXC-es AGOTD Bombillas LED G9 4W Equivale 40W Halógena 6000K...'
 sku: 'B0863HVPXC-es'
 tags: [  ]

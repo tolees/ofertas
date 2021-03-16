@@ -5,7 +5,7 @@ date: 2020-03-15 09:17:00
 image: 'https://m.media-amazon.com/images/I/41CyXMZhHTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K5RA5IA-es Tommy Hilfiger 3p Trunk Bóxers Blanco White 100 Small Pack...'
 sku: 'B00K5RA5IA-es'
 tags: [  ]

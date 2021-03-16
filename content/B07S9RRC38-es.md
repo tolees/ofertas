@@ -5,7 +5,7 @@ date: 2020-09-22 06:25:00
 image: 'https://m.media-amazon.com/images/I/41yxeyHXdCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9RRC38-es PUMA RS-X Reinvent WN S Zapatillas para Mujer Rosa...'
 sku: 'B07S9RRC38-es'
 tags: [  ]

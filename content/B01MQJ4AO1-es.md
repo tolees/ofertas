@@ -5,7 +5,7 @@ date: 2020-09-20 08:22:56
 image: 'https://m.media-amazon.com/images/I/51f1+m+pB0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQJ4AO1-es Vaultskin Eton Armour - Funda de cuero para iPhone SE y 5s...'
 sku: 'B01MQJ4AO1-es'
 tags: [  ]

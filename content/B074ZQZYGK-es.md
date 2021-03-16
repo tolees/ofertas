@@ -5,7 +5,7 @@ date: 2020-06-02 09:49:05
 image: 'https://m.media-amazon.com/images/I/41SIF14xl3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZQZYGK-es Funko Pop!- 24972 Wonder Woman ETTA Sword & Shield Figura...'
 sku: 'B074ZQZYGK-es'
 tags: [  ]

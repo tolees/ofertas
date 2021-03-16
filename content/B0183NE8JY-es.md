@@ -5,7 +5,7 @@ date: 2020-08-29 06:42:10
 image: 'https://m.media-amazon.com/images/I/41OMbJOYV6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0183NE8JY-es Jivo Technology GoGear Xtra Kit – Piezas de Repuesto para...'
 sku: 'B0183NE8JY-es'
 tags: [  ]

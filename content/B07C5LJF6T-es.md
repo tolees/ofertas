@@ -5,7 +5,7 @@ date: 2020-05-22 11:57:49
 image: 'https://m.media-amazon.com/images/I/41u9l9u49sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C5LJF6T-es Jack & Jones Jjebasic Knit Crew Neck Noos suéter Negro...'
 sku: 'B07C5LJF6T-es'
 tags: [  ]

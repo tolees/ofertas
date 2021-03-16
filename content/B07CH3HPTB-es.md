@@ -5,7 +5,7 @@ date: 2020-05-16 09:28:54
 image: 'https://m.media-amazon.com/images/I/517S0z00TuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CH3HPTB-es PUTUO Mujer cinco dedos calcetines de deporte Calcetines...'
 sku: 'B07CH3HPTB-es'
 tags: [  ]

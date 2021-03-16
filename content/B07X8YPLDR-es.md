@@ -5,7 +5,7 @@ date: 2020-07-17 19:04:46
 image: 'https://m.media-amazon.com/images/I/312aoGAJWqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8YPLDR-es ISDIN BodySenses Loción Corporal Gama Refrescante con Flor...'
 sku: 'B07X8YPLDR-es'
 tags: [  ]

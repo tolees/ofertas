@@ -5,7 +5,7 @@ date: 2020-01-07 21:15:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fHEcwe0yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3WXNSW-es Asics Patriot 11 GS Zapatillas de Running Unisex Niños...'
 sku: 'B07S3WXNSW-es'
 tags: [  ]

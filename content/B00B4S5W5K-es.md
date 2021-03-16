@@ -5,7 +5,7 @@ date: 2020-09-09 16:03:17
 image: 'https://m.media-amazon.com/images/I/41XqWr3kH9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B4S5W5K-es Rowenta Steamforce DW9240D1 - Plancha ropa vapor 3.100 W...'
 sku: 'B00B4S5W5K-es'
 tags: [  ]

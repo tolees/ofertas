@@ -5,7 +5,7 @@ date: 2020-08-30 12:16:41
 image: 'https://m.media-amazon.com/images/I/413PDjsyXbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ6WM3B-es Reebok Nano 9 Zapatillas de Deporte para Hombre Negro...'
 sku: 'B07RJ6WM3B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-10 12:03:02
 image: 'https://m.media-amazon.com/images/I/51bt+qgKN1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FFRI9AU-es ROYAL RASCALS | Espejo para vigilar al bebé en el coche |...'
 sku: 'B01FFRI9AU-es'
 tags: [  ]

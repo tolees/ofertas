@@ -5,7 +5,7 @@ date: 2020-10-09 18:37:07
 image: 'https://m.media-amazon.com/images/I/41RkE-1zS9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B6JMXB4-es Tommy Hilfiger X Sujetador estilo bralette Negro Black 990...'
 sku: 'B07B6JMXB4-es'
 tags: [  ]

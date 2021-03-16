@@ -5,7 +5,7 @@ date: 2020-01-08 17:17:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41iY8rnrblL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QPNVC0I-es Real Techniques Esponja para maquillaje facial - 2 unidades'
 sku: 'B00QPNVC0I-es'
 tags: [  ]

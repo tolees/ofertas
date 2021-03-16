@@ -5,7 +5,7 @@ date: 2020-09-23 17:33:22
 image: 'https://m.media-amazon.com/images/I/41ZZEfXhGCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JNVRR-es Clarks Un.loop2 Walk Mocasines para Mujer Marrón Dark Tan...'
 sku: 'B07N1JNVRR-es'
 tags: [  ]

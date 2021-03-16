@@ -5,7 +5,7 @@ date: 2020-01-22 09:35:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31FriKhYBwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MPYHBHD-es Hummel Slimmer Stadil Tonal Low Zapatillas Unisex Adulto...'
 sku: 'B01MPYHBHD-es'
 tags: [  ]

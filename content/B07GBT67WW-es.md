@@ -5,7 +5,7 @@ date: 2020-08-27 16:41:10
 image: 'https://m.media-amazon.com/images/I/4133zVHJHRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBT67WW-es Pulsar Reloj analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07GBT67WW-es'
 tags: [  ]

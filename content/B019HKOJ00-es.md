@@ -5,7 +5,7 @@ date: 2020-05-26 08:40:21
 image: 'https://m.media-amazon.com/images/I/31jfq6nYbpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019HKOJ00-es EXO Lighting - Aplique de pared modelo IV en aluminio IP20...'
 sku: 'B019HKOJ00-es'
 tags: [  ]

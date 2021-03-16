@@ -5,7 +5,7 @@ date: 2020-03-01 22:03:40
 image: 'https://m.media-amazon.com/images/I/31VS2fn7HwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DC3LR4-es Pasito a Pasito Canastilla Acolchada Ines - Bolsa unisex...'
 sku: 'B075DC3LR4-es'
 tags: [  ]

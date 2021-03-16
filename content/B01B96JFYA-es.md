@@ -5,7 +5,7 @@ date: 2020-03-31 15:33:17
 image: 'https://m.media-amazon.com/images/I/51YdnCy8wlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B96JFYA-es ESI PROPOLAID PROPOLGOLA Spray 20ml voz de la garganta...'
 sku: 'B01B96JFYA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-01 16:56:46
 image: 'https://m.media-amazon.com/images/I/41lUKiQQOcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00004YSYM-es Intex 29000 - Cartucho tipo A altura 20 2 cm & diámetros...'
 sku: 'B00004YSYM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-23 17:56:06
 image: 'https://m.media-amazon.com/images/I/41dVOi66COL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NMTQDW9-es Nike Revolution 5 Walking Shoe Unisex-Child Racer...'
 sku: 'B07NMTQDW9-es'
 tags: [  ]

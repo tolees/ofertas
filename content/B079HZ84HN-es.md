@@ -5,7 +5,7 @@ date: 2020-02-01 09:16:52
 image: 'https://m.media-amazon.com/images/I/41bLptUEQ5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079HZ84HN-es Racketworld Wilson Six Two BLX – Raqueta de Tenis + 3...'
 sku: 'B079HZ84HN-es'
 tags: [  ]

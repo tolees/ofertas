@@ -5,7 +5,7 @@ date: 2020-09-19 22:59:53
 image: 'https://m.media-amazon.com/images/I/41PXAoj1vTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRY5TY9-es Skechers GO Walk 5 PRIZED Zapatillas para Mujer Beige...'
 sku: 'B07SRY5TY9-es'
 tags: [  ]

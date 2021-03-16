@@ -5,7 +5,7 @@ date: 2020-05-22 18:10:06
 image: 'https://m.media-amazon.com/images/I/31NVk72HXmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDSFXPS-es MTNG Collection 58640 Botas Altas para Mujer Negro Antil...'
 sku: 'B07QDSFXPS-es'
 tags: [  ]

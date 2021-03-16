@@ -5,7 +5,7 @@ date: 2020-07-16 07:10:37
 image: 'https://m.media-amazon.com/images/I/41gODbRo2OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY6KFPP-es YOUKE Multifuncional para，Mesa de Centro Mesa para Sofá...'
 sku: 'B07YY6KFPP-es'
 tags: [  ]

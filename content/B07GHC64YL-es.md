@@ -5,7 +5,7 @@ date: 2020-04-17 07:38:25
 image: 'https://m.media-amazon.com/images/I/41gA1e2C4wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GHC64YL-es Rowenta Multistyler 8 en 1 Basic TN8940F0 - Cortapelos y...'
 sku: 'B07GHC64YL-es'
 tags: [  ]

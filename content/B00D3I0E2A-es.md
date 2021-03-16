@@ -5,7 +5,7 @@ date: 2020-03-01 18:45:49
 image: 'https://m.media-amazon.com/images/I/51TP2LsZsJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D3I0E2A-es NODOL ESI 60 cápsulas'
 sku: 'B00D3I0E2A-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-04 11:58:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FeWgxkCEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S6OMGY0-es MAKITA DGA504Z Herramienta'
 sku: 'B00S6OMGY0-es'
 tags: [  ]

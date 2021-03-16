@@ -5,7 +5,7 @@ date: 2020-07-05 09:56:59
 image: 'https://m.media-amazon.com/images/I/615B50HwV0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078J17FGJ-es Dragon Quest Builders - Edición Estándar'
 sku: 'B078J17FGJ-es'
 tags: [  ]

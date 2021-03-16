@@ -5,7 +5,7 @@ date: 2020-09-25 16:04:26
 image: 'https://m.media-amazon.com/images/I/41jdpNqTJdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004X8GL8K-es Revlon ColorSilk Tinte de Cabello Permanente Tono #61...'
 sku: 'B004X8GL8K-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 08:40:31
 image: 'https://m.media-amazon.com/images/I/41fFqYirV4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KBMSXA6-es Control Nature Preservativos - Pack de 24 preservativos'
 sku: 'B00KBMSXA6-es'
 tags: [  ]

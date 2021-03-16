@@ -5,7 +5,7 @@ date: 2020-04-30 17:33:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31uJ7I8wCmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FK6HP8D-es ETNAB|#Etnies Cyprus SC Zapatillas para Hombre Black/White...'
 sku: 'B07FK6HP8D-es'
 tags: [  ]

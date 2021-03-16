@@ -5,7 +5,7 @@ date: 2020-09-05 02:30:50
 image: 'https://m.media-amazon.com/images/I/41d-nOIvRML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XL0N60W-es Orbegozo TF 0123 Ventilador de sobremesa 25 W Blanco y negro'
 sku: 'B00XL0N60W-es'
 tags: [  ]

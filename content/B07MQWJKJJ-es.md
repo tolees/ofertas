@@ -5,7 +5,7 @@ date: 2020-09-11 11:15:21
 image: 'https://m.media-amazon.com/images/I/514tBb44RTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQWJKJJ-es VGBEY 5 Unids Señuelo de Pesca Calamar Jig Hooks Silicona...'
 sku: 'B07MQWJKJJ-es'
 tags: [  ]

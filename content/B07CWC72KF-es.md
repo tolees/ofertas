@@ -5,7 +5,7 @@ date: 2020-07-10 13:10:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51nT-hCOafL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CWC72KF-es Estera de la Danza del USB Almohadilla de la Danza Durable...'
 sku: 'B07CWC72KF-es'
 tags: [  ]

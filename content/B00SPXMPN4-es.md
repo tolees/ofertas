@@ -5,7 +5,7 @@ date: 2020-01-27 22:02:44
 image: 'https://m.media-amazon.com/images/I/41X-dUcEjGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SPXMPN4-es Yummy Bee Lencería Babydoll Conjunto Ropa Interior Noche...'
 sku: 'B00SPXMPN4-es'
 tags: [  ]

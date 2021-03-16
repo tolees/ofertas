@@ -5,7 +5,7 @@ date: 2020-06-25 16:54:42
 image: 'https://m.media-amazon.com/images/I/317XMf3NAaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0851MT2TL-es Icons Corner PUF TAPIZADO Amarillo 2 TAMAÑOS'
 sku: 'B0851MT2TL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-14 06:43:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41jtSqP2FrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXPL415-es Asics Gel-Lyte V Zapatillas de Entrenamiento Unisex Adulto...'
 sku: 'B01MXPL415-es'
 tags: [  ]

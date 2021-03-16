@@ -5,7 +5,7 @@ date: 2020-09-06 15:00:43
 image: 'https://m.media-amazon.com/images/I/31PNfehH5-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC9KLFZ-es Razer Kraken Kitty Quartz Edition Auriculares Gaming con...'
 sku: 'B07WC9KLFZ-es'
 tags: [  ]

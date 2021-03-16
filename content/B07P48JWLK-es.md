@@ -5,7 +5,7 @@ date: 2020-01-12 13:47:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41usEbkSJgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P48JWLK-es Skechers Go Run 600 Zapatillas para Hombre Negro Black...'
 sku: 'B07P48JWLK-es'
 tags: [  ]

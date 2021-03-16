@@ -5,7 +5,7 @@ date: 2020-04-03 12:04:12
 image: 'https://m.media-amazon.com/images/I/41jFPOpGHfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTJC59X-es BONAI Bateria Externa Wireless 12000mAh 2 In 1 Cargador...'
 sku: 'B07FTJC59X-es'
 tags: [  ]

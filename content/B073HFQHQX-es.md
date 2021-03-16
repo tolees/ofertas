@@ -5,7 +5,7 @@ date: 2020-05-25 16:54:13
 image: 'https://m.media-amazon.com/images/I/41qb0heheEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073HFQHQX-es Cillit Bang Instant Power Limpiador para WC Lejía...'
 sku: 'B073HFQHQX-es'
 tags: [  ]

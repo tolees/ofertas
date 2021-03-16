@@ -5,7 +5,7 @@ date: 2020-02-27 08:26:47
 image: 'https://m.media-amazon.com/images/I/31zxzW-V+VL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LB5GRJT-es Nike W NSW LEGASEE HW JDI - Leggings Mujer Black/White M'
 sku: 'B07LB5GRJT-es'
 tags: [  ]

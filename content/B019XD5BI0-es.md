@@ -5,7 +5,7 @@ date: 2020-06-06 17:12:18
 image: 'https://m.media-amazon.com/images/I/513Lvo55ERL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019XD5BI0-es Desigual Bols Elmira Silvana Borse a spalla - berenjena...'
 sku: 'B019XD5BI0-es'
 tags: [  ]

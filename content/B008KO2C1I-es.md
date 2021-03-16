@@ -5,7 +5,7 @@ date: 2020-09-11 23:36:08
 image: 'https://m.media-amazon.com/images/I/31VuHpsS0CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008KO2C1I-es Monix VELOCE - Olla a presión rápida de 4 litros'
 sku: 'B008KO2C1I-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 05:05:49
 image: 'https://m.media-amazon.com/images/I/41ith+9KMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085KXXGM5-es Aire Acondicionado Portatil Aire Acondicionado Móvil con...'
 sku: 'B085KXXGM5-es'
 tags: [  ]

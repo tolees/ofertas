@@ -5,7 +5,7 @@ date: 2020-03-10 21:39:18
 image: 'https://m.media-amazon.com/images/I/41DCIYOJknL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RTFZMFM-es Grohe Eurosmart - Grifo de bidé con cadena retráctil 1/2"...'
 sku: 'B00RTFZMFM-es'
 tags: [  ]

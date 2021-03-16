@@ -5,7 +5,7 @@ date: 2020-10-04 10:24:48
 image: 'https://m.media-amazon.com/images/I/51Y6NDZ0YxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WENHF8Q-es Case Logic HDC11K - Funda rígida para disco duro de 2.5"...'
 sku: 'B00WENHF8Q-es'
 tags: [  ]

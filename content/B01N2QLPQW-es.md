@@ -5,7 +5,7 @@ date: 2020-09-16 06:15:30
 image: 'https://m.media-amazon.com/images/I/31RDkPBcsgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2QLPQW-es B+W XS-Pro - Filtro densidad neutra ND 3.0 810 NANO 62 mm'
 sku: 'B01N2QLPQW-es'
 tags: [  ]

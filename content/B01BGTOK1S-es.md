@@ -5,7 +5,7 @@ date: 2020-03-19 11:38:06
 image: 'https://m.media-amazon.com/images/I/41ldIJXXyuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTOK1S-es G-Star Raw Bronson Pantalones Para Hombre Negro D00523...'
 sku: 'B01BGTOK1S-es'
 tags: [  ]

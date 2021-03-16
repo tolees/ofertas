@@ -5,7 +5,7 @@ date: 2020-05-25 13:23:33
 image: 'https://m.media-amazon.com/images/I/41i4xFzAluL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXKSPCK-es Tommy Hilfiger Triangle Bra Sujetador de triángulo Gris...'
 sku: 'B07MXKSPCK-es'
 tags: [  ]

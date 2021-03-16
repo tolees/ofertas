@@ -5,7 +5,7 @@ date: 2020-08-04 00:52:27
 image: 'https://m.media-amazon.com/images/I/41t7w+hD+WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XXZWKLG-es KIWI design Correa Ajustable de Nudillo para Controlador...'
 sku: 'B07XXZWKLG-es'
 tags: [  ]

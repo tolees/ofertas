@@ -5,7 +5,7 @@ date: 2020-01-04 21:35:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YdcvipctL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076SDJYQS-es D.Vinity Kit de Belleza Ultra Soft - 3 Piezas'
 sku: 'B076SDJYQS-es'
 tags: [  ]

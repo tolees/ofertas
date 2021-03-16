@@ -5,7 +5,7 @@ date: 2020-01-26 07:28:53
 image: 'https://m.media-amazon.com/images/I/41lYlB9dI5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EYQL4VO-es BERING Reloj Analógico para Unisex de Cuarzo con Correa en...'
 sku: 'B01EYQL4VO-es'
 tags: [  ]

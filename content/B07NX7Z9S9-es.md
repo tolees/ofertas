@@ -5,7 +5,7 @@ date: 2020-02-02 19:25:42
 image: 'https://m.media-amazon.com/images/I/412JCj76KnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NX7Z9S9-es Superdry Vintage Logo Pop Entry Hood Capucha Azul Eclipse...'
 sku: 'B07NX7Z9S9-es'
 tags: [  ]

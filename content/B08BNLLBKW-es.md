@@ -5,7 +5,7 @@ date: 2020-10-10 08:46:13
 image: 'https://m.media-amazon.com/images/I/416cKeAbHNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNLLBKW-es 20x Clips de Cierre de Plástico 11cm Pinzas de Cierre en...'
 sku: 'B08BNLLBKW-es'
 tags: [  ]

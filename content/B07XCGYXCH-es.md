@@ -5,7 +5,7 @@ date: 2020-09-26 09:13:22
 image: 'https://m.media-amazon.com/images/I/51F5eFtE1ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCGYXCH-es LIGE Relojes Hombre Militare Deportivos Impermeable Acero...'
 sku: 'B07XCGYXCH-es'
 tags: [  ]

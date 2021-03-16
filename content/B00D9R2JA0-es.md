@@ -5,7 +5,7 @@ date: 2020-03-28 00:52:11
 image: 'https://m.media-amazon.com/images/I/41BVf9ibDCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D9R2JA0-es Samsung EB-B500BEBECWW - Batería oficial para móvil Galaxy...'
 sku: 'B00D9R2JA0-es'
 tags: [  ]

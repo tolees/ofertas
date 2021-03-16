@@ -5,7 +5,7 @@ date: 2020-09-17 06:26:02
 image: 'https://m.media-amazon.com/images/I/41+fllUk2vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005NFXQ76-es MANN-FILTER HU 718/1 N Original Filtro de Aceite para...'
 sku: 'B005NFXQ76-es'
 tags: [  ]

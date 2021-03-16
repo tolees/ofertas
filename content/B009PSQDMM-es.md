@@ -5,7 +5,7 @@ date: 2020-01-02 15:11:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BJvYMcYZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009PSQDMM-es deAO Camion Correpasillos Vehículo de Arrastre sin Pedales...'
 sku: 'B009PSQDMM-es'
 tags: [  ]

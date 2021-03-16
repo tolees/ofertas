@@ -5,7 +5,7 @@ date: 2020-05-09 08:29:19
 image: 'https://m.media-amazon.com/images/I/31g7xoe+oFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3WPNB3-es Calcetines Deportivos Quarter Pro 1 Par Negro sólido EU 43-47'
 sku: 'B07L3WPNB3-es'
 tags: [  ]

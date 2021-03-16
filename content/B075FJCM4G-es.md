@@ -5,7 +5,7 @@ date: 2020-08-07 12:40:22
 image: 'https://m.media-amazon.com/images/I/514rb9CxEuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FJCM4G-es Spigen Rugged Armor Pro Compatible con Apple Watch Funda...'
 sku: 'B075FJCM4G-es'
 tags: [  ]

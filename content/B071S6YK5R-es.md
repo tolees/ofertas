@@ -5,7 +5,7 @@ date: 2020-08-18 18:38:24
 image: 'https://m.media-amazon.com/images/I/31UVYdbDEwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071S6YK5R-es 30 juegos de broches de bronce antiguo de 15 x 20 mm C2180'
 sku: 'B071S6YK5R-es'
 tags: [  ]

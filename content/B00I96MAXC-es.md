@@ -5,7 +5,7 @@ date: 2020-08-06 17:53:52
 image: 'https://m.media-amazon.com/images/I/31pR1L-B0+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I96MAXC-es Moulinex Multimoulinette Compact DJ300110 Picadora 0.25 l...'
 sku: 'B00I96MAXC-es'
 tags: [  ]

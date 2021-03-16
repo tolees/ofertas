@@ -5,7 +5,7 @@ date: 2020-03-14 20:31:08
 image: 'https://m.media-amazon.com/images/I/314KwuWsQpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XK9Y7C5-es Happilax Alfombrilla Perro y Gato en Silicona...'
 sku: 'B06XK9Y7C5-es'
 tags: [  ]

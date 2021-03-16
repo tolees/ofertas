@@ -5,7 +5,7 @@ date: 2020-04-24 14:33:53
 image: 'https://m.media-amazon.com/images/I/41Z5H0pyvEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FMVJGW-es Novex Aceite de Oliva Mascarilla Capilar - 400g'
 sku: 'B071FMVJGW-es'
 tags: [  ]

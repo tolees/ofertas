@@ -5,7 +5,7 @@ date: 2020-07-12 11:54:19
 image: 'https://m.media-amazon.com/images/I/31IEGMwj2ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNCK544-es Hawaiian Tropic Island Sport SPF 15 - Bruma Solar...'
 sku: 'B07DNCK544-es'
 tags: [  ]

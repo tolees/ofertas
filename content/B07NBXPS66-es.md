@@ -5,7 +5,7 @@ date: 2020-09-11 08:24:40
 image: 'https://m.media-amazon.com/images/I/21NYXDTuzBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBXPS66-es Samsung Leather Cover funda oficial para Samsung Galaxy 10...'
 sku: 'B07NBXPS66-es'
 tags: [  ]

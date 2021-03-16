@@ -5,7 +5,7 @@ date: 2020-06-14 18:46:13
 image: 'https://m.media-amazon.com/images/I/51CiAHdP6ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZM3NMM-es 【2020 Nueva Versión】 CHORTAU Camara de Coche Retrovisor 7...'
 sku: 'B07GZM3NMM-es'
 tags: [  ]

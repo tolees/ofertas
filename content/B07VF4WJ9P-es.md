@@ -5,7 +5,7 @@ date: 2020-01-01 06:24:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31H1cgElW2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VF4WJ9P-es mama stadt Peluca de Cosplay Peluca para Adultos y Niños...'
 sku: 'B07VF4WJ9P-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-24 07:15:30
 image: 'https://m.media-amazon.com/images/I/41PI11GwMhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZRZSDR-es Irrigador Dental Portátil - Liberex Irrigador Bucal...'
 sku: 'B07QZRZSDR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-13 23:19:02
 image: 'https://m.media-amazon.com/images/I/41GfMoFM+4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002DR3W6M-es Cables To Go - Cable de Audio XLR Macho a XLR Hembra 5 m'
 sku: 'B002DR3W6M-es'
 tags: [  ]

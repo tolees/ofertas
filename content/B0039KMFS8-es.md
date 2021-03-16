@@ -5,7 +5,7 @@ date: 2020-07-12 11:28:56
 image: 'https://m.media-amazon.com/images/I/21BNLmj0fTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0039KMFS8-es Ibili 405014 Indubasic Sartén Aluminio Diámetro 14 cm'
 sku: 'B0039KMFS8-es'
 tags: [  ]

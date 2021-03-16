@@ -5,7 +5,7 @@ date: 2020-01-01 10:56:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41DGaEI3dJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRJWD6F-es Reebok Flexagon Energy MT Zapatillas de Gimnasia para...'
 sku: 'B07SRJWD6F-es'
 tags: [  ]

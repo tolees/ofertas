@@ -5,7 +5,7 @@ date: 2020-04-06 15:07:32
 image: 'https://m.media-amazon.com/images/I/31KXzqrstuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00166WSLQ-es HP CB386A Original Trommel 824A Gelb Bildtrommel CP6015...'
 sku: 'B00166WSLQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-19 18:07:18
 image: 'https://m.media-amazon.com/images/I/41bHxW1FTTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZDPP1K-es RECCI - 4CM Topper Colchón de Espuma 135x190cm Topper...'
 sku: 'B083ZDPP1K-es'
 tags: [  ]

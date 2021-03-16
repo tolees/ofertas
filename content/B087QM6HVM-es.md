@@ -5,7 +5,7 @@ date: 2020-09-17 16:42:46
 image: 'https://m.media-amazon.com/images/I/41EsRkWw-CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QM6HVM-es Dani - Estragón hoja - Pack 12 x 8g'
 sku: 'B087QM6HVM-es'
 tags: [  ]

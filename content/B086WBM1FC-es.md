@@ -5,7 +5,7 @@ date: 2020-04-14 09:46:09
 image: 'https://m.media-amazon.com/images/I/31CGBpuYYvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086WBM1FC-es ZXL Protector de Borde Protector de Esquina de Mesa Gel de...'
 sku: 'B086WBM1FC-es'
 tags: [  ]

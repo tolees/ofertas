@@ -5,7 +5,7 @@ date: 2020-08-30 22:19:35
 image: 'https://m.media-amazon.com/images/I/41AGgnTg+5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT6MVKH-es DIESEL ShoesBoldmessage DoublecrossHombreCarterasAzul Blue...'
 sku: 'B07RT6MVKH-es'
 tags: [  ]

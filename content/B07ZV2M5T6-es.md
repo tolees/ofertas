@@ -5,7 +5,7 @@ date: 2020-06-09 14:13:21
 image: 'https://m.media-amazon.com/images/I/31aMhXnjDyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZV2M5T6-es Helly Hansen Transat Polo Hombre Navy L'
 sku: 'B07ZV2M5T6-es'
 tags: [  ]

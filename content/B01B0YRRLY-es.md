@@ -5,7 +5,7 @@ date: 2020-01-23 13:04:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41njiTviS7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B0YRRLY-es Russell Hobbs Textures Plus - Tostadora 2 Ranuras Anchas...'
 sku: 'B01B0YRRLY-es'
 tags: [  ]

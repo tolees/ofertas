@@ -5,7 +5,7 @@ date: 2020-04-19 18:52:32
 image: 'https://m.media-amazon.com/images/I/41vGHG+W5aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015KKJQJU-es Kappa Rocket Zapatillas Unisex Adulto Azul Navy/White 6710...'
 sku: 'B015KKJQJU-es'
 tags: [  ]

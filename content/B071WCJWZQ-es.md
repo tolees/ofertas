@@ -5,7 +5,7 @@ date: 2020-05-18 07:55:10
 image: 'https://m.media-amazon.com/images/I/51LbLW6AuhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WCJWZQ-es Need for Speed Payback - Edición estándar'
 sku: 'B071WCJWZQ-es'
 tags: [  ]

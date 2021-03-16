@@ -5,7 +5,7 @@ date: 2020-04-28 17:03:07
 image: 'https://m.media-amazon.com/images/I/4144KcIHgpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L1W4DTH-es YIY Bandeja de Viaje para Asiento de Coche para niños -...'
 sku: 'B07L1W4DTH-es'
 tags: [  ]

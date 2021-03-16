@@ -5,7 +5,7 @@ date: 2020-07-13 06:38:42
 image: 'https://m.media-amazon.com/images/I/41MLK-3+QML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZWZY4Z8-es TACKLIFE Pistola de Calor 2000W Decapadora 2 Temperaturas...'
 sku: 'B07ZWZY4Z8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-15 11:46:17
 image: 'https://m.media-amazon.com/images/I/41eYGTqR+xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D41FLD-es Suhctup Funda Compatible para Xiaomi Redmi Note 3 Carcasa...'
 sku: 'B088D41FLD-es'
 tags: [  ]

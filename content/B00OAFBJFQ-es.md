@@ -5,7 +5,7 @@ date: 2020-03-06 18:36:46
 image: 'https://m.media-amazon.com/images/I/51vLZvOGcPL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OAFBJFQ-es STANLEY XTHT0-33501 - Flexómetro AutoLock 8 metros x 32mm...'
 sku: 'B00OAFBJFQ-es'
 tags: [  ]

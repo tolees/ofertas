@@ -5,7 +5,7 @@ date: 2020-03-27 11:53:40
 image: 'https://m.media-amazon.com/images/I/31XieOVojrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XSZ1QT-es Under Armour Coldgear Run Tight Leggings Mujer Negro...'
 sku: 'B077XSZ1QT-es'
 tags: [  ]

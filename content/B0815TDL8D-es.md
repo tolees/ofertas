@@ -5,7 +5,7 @@ date: 2020-05-08 14:30:09
 image: 'https://m.media-amazon.com/images/I/518FDFX0E8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0815TDL8D-es Luz de noche lámpara de noche Smart Touch Luz blanca...'
 sku: 'B0815TDL8D-es'
 tags: [  ]

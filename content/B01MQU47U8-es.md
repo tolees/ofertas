@@ -5,7 +5,7 @@ date: 2020-05-16 11:41:22
 image: 'https://m.media-amazon.com/images/I/41WkGoqgbNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQU47U8-es Braun BT3040 - Máquina Cortar Pelo Recortadora Barba y...'
 sku: 'B01MQU47U8-es'
 tags: [  ]

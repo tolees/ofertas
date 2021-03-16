@@ -5,7 +5,7 @@ date: 2020-01-17 09:28:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31NAICzU79L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004KSN2K8-es Docena de juguetes para el sexo'
 sku: 'B004KSN2K8-es'
 tags: [  ]

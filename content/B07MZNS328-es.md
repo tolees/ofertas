@@ -5,7 +5,7 @@ date: 2020-07-28 18:54:14
 image: 'https://m.media-amazon.com/images/I/41-rSAbP2gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZNS328-es Pop! Figura de Vinilo: Disney: Little Mermaid - Ariel...'
 sku: 'B07MZNS328-es'
 tags: [  ]

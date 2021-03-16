@@ -5,7 +5,7 @@ date: 2020-06-15 15:02:15
 image: 'https://m.media-amazon.com/images/I/41b8JCFVRHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK8W7ZR-es DIY 5D pintura de diamante resina bordado imágenes arte...'
 sku: 'B07DK8W7ZR-es'
 tags: [  ]

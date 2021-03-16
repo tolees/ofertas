@@ -5,7 +5,7 @@ date: 2020-04-23 18:16:12
 image: 'https://m.media-amazon.com/images/I/31yetEifjhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHYCJ4T-es Multi Enchufe/Pararrayos - Eaton Protection Strip 4 DIN -...'
 sku: 'B07WHYCJ4T-es'
 tags: [  ]

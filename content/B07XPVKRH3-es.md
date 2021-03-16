@@ -5,7 +5,7 @@ date: 2020-05-07 08:02:56
 image: 'https://m.media-amazon.com/images/I/41Z6CJXH1jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XPVKRH3-es Zapatillas de espinilleras de fútbol para Profesionales...'
 sku: 'B07XPVKRH3-es'
 tags: [  ]

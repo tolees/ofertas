@@ -5,7 +5,7 @@ date: 2020-05-23 13:03:56
 image: 'https://m.media-amazon.com/images/I/31VDEIqBQGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0869MP3FH-es Suhctup Funda Compatible con Huawei Y5 2018 Transparente...'
 sku: 'B0869MP3FH-es'
 tags: [  ]

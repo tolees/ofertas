@@ -5,7 +5,7 @@ date: 2020-07-11 07:24:50
 image: 'https://m.media-amazon.com/images/I/31FN9y9hNvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLP17W6-es Clarks Couture Bloom Bailarinas para Mujer Verde Fuchsia...'
 sku: 'B07TLP17W6-es'
 tags: [  ]

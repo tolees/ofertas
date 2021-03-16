@@ -5,7 +5,7 @@ date: 2020-05-26 21:21:00
 image: 'https://m.media-amazon.com/images/I/517zjpei2mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077F6RQZD-es Shark Tiburón Nano homenaje cascos de motocicleta color...'
 sku: 'B077F6RQZD-es'
 tags: [  ]

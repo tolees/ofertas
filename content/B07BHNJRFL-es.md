@@ -5,7 +5,7 @@ date: 2020-02-18 16:40:14
 image: 'https://m.media-amazon.com/images/I/41yHq025xDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHNJRFL-es Babyline Lion - Colchoneta ligera unisex'
 sku: 'B07BHNJRFL-es'
 tags: [  ]

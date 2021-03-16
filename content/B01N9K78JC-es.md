@@ -5,7 +5,7 @@ date: 2020-04-05 16:14:41
 image: 'https://m.media-amazon.com/images/I/41yNdQQ2JLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9K78JC-es Gant Classic Leather Belt Cinturón Marrón Dark Brown 120...'
 sku: 'B01N9K78JC-es'
 tags: [  ]

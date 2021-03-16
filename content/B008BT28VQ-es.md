@@ -5,7 +5,7 @@ date: 2020-04-03 23:43:11
 image: 'https://m.media-amazon.com/images/I/31Jtj9kHd9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008BT28VQ-es Samsung CLT-M406S - Tóner para Samsung CLP-360/365/368...'
 sku: 'B008BT28VQ-es'
 tags: [  ]

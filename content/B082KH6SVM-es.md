@@ -5,7 +5,7 @@ date: 2020-07-05 19:53:02
 image: 'https://m.media-amazon.com/images/I/41wazT8xf-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082KH6SVM-es Funda para teléfono Impermeable al Aire Libre con Correa...'
 sku: 'B082KH6SVM-es'
 tags: [  ]

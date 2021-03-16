@@ -5,7 +5,7 @@ date: 2020-09-24 07:15:06
 image: 'https://m.media-amazon.com/images/I/41V7E43mjNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LHUPN22-es Belkin SurgeStrip - Regleta de protección contra...'
 sku: 'B00LHUPN22-es'
 tags: [  ]

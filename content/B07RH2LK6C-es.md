@@ -5,7 +5,7 @@ date: 2020-07-26 18:18:34
 image: 'https://m.media-amazon.com/images/I/41QmphUM7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH2LK6C-es G-STAR RAW 3301 Slim Fit Jeans Antic Faded Ripped Marine...'
 sku: 'B07RH2LK6C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-28 15:28:19
 image: 'https://m.media-amazon.com/images/I/31qUx22ORVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5HXFBJ-es Impresora Multifuncional Canon PIXMA TS6251 Blanca Wifi de...'
 sku: 'B07G5HXFBJ-es'
 tags: [  ]

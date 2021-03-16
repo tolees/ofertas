@@ -5,7 +5,7 @@ date: 2020-04-11 08:52:18
 image: 'https://m.media-amazon.com/images/I/51eSoHh2-8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071H8DYKL-es FOSITAN TL-160S LED Video Light 160 LED 3200K 5500K Ultra...'
 sku: 'B071H8DYKL-es'
 tags: [  ]

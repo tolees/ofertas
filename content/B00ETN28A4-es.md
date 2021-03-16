@@ -5,7 +5,7 @@ date: 2020-09-10 11:00:52
 image: 'https://m.media-amazon.com/images/I/41qRbqWqYcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ETN28A4-es Hauck Sport Silla de paseo ligera y practica para bebes de...'
 sku: 'B00ETN28A4-es'
 tags: [  ]

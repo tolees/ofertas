@@ -5,7 +5,7 @@ date: 2020-10-09 19:16:18
 image: 'https://m.media-amazon.com/images/I/3111qTIUyJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDMYPDF-es DOC ECO 2 BLACK'
 sku: 'B07GDMYPDF-es'
 tags: [  ]

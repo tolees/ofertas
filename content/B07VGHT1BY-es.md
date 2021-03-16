@@ -5,7 +5,7 @@ date: 2020-03-01 20:03:13
 image: 'https://m.media-amazon.com/images/I/51m5tTM+IKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGHT1BY-es Bandolera Grande Pepe Jeans Lambert Burdeos'
 sku: 'B07VGHT1BY-es'
 tags: [  ]

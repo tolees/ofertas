@@ -5,7 +5,7 @@ date: 2020-01-25 09:06:01
 image: 'https://m.media-amazon.com/images/I/411Rw+IbvOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ABW7B8Q-es Optimum Nutrition Gold Standard 100% Caseina Vainilla - 450 g'
 sku: 'B00ABW7B8Q-es'
 tags: [  ]

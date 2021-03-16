@@ -5,7 +5,7 @@ date: 2020-04-29 08:05:37
 image: 'https://m.media-amazon.com/images/I/41STgPGue1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T4MZK8G-es Lapens Zapatillas de correr para mujer color talla 35.5 EU'
 sku: 'B07T4MZK8G-es'
 tags: [  ]

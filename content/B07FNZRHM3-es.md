@@ -5,7 +5,7 @@ date: 2020-07-02 17:45:15
 image: 'https://m.media-amazon.com/images/I/41X6jr1L2YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNZRHM3-es Panasonic RP-HD605NE-T Auriculares Bluetooth Premium...'
 sku: 'B07FNZRHM3-es'
 tags: [  ]

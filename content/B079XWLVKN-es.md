@@ -5,7 +5,7 @@ date: 2020-06-11 06:37:26
 image: 'https://m.media-amazon.com/images/I/41R8hzjqviL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079XWLVKN-es Bergner Q2655 Sarten 20x4.3cm aluminio forjado inducción...'
 sku: 'B079XWLVKN-es'
 tags: [  ]

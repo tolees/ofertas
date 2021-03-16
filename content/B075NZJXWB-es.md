@@ -5,7 +5,7 @@ date: 2020-09-30 17:47:49
 image: 'https://m.media-amazon.com/images/I/318EPNrYHcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NZJXWB-es Apple - Funda de Piel para el iPad Pro de 10 5 Pulgadas -...'
 sku: 'B075NZJXWB-es'
 tags: [  ]

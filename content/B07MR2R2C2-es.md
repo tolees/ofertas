@@ -5,7 +5,7 @@ date: 2020-01-10 10:51:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51k9I0U9NSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MR2R2C2-es GOTOTOP Mini Calefactor Eléctrico Calentador de Ventilador...'
 sku: 'B07MR2R2C2-es'
 tags: [  ]

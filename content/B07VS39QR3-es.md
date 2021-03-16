@@ -5,7 +5,7 @@ date: 2020-07-22 16:31:30
 image: 'https://m.media-amazon.com/images/I/41PT6zQ7m6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VS39QR3-es Clarks Un Trail Form Derbys Derby Braun Mahogany Leather...'
 sku: 'B07VS39QR3-es'
 tags: [  ]

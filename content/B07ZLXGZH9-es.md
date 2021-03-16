@@ -5,7 +5,7 @@ date: 2020-04-14 16:34:29
 image: 'https://m.media-amazon.com/images/I/31s4tOtW0xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZLXGZH9-es NMDD Ornament Schöne Harz Ballon Hund Handwerk Zimmer...'
 sku: 'B07ZLXGZH9-es'
 tags: [  ]

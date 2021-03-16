@@ -5,7 +5,7 @@ date: 2020-08-07 09:02:51
 image: 'https://m.media-amazon.com/images/I/31jhDSiJ5RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LRYUJQS-es Mini-Concentrador USB 3.0 Giratorio de Aluminio Sabrent...'
 sku: 'B00LRYUJQS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-12 15:03:48
 image: 'https://m.media-amazon.com/images/I/51ebcjE4YJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQPVC2L-es Dihope - Medias de fútbol - para hombre 3*noir+3blanc...'
 sku: 'B07DQPVC2L-es'
 tags: [  ]

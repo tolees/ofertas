@@ -5,7 +5,7 @@ date: 2020-02-04 14:39:50
 image: 'https://m.media-amazon.com/images/I/41YEeDNDNhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MD3WDLS-es Crucial Ballistix Sport LT BLS2K16G4D30AESC 3000 MHz DDR4...'
 sku: 'B07MD3WDLS-es'
 tags: [  ]

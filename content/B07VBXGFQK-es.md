@@ -5,7 +5,7 @@ date: 2020-07-13 15:49:55
 image: 'https://m.media-amazon.com/images/I/51z+Ek56j4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VBXGFQK-es Masthome - Batería de Cocina de 11 Piezas de Acero...'
 sku: 'B07VBXGFQK-es'
 tags: [  ]

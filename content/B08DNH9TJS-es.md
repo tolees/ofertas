@@ -5,7 +5,7 @@ date: 2020-08-24 03:43:29
 image: 'https://m.media-amazon.com/images/I/41MSYANT7BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNH9TJS-es HDMI a SCART Convertidor convierte la señal digital de...'
 sku: 'B08DNH9TJS-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-06 22:22:57
 image: 'https://m.media-amazon.com/images/I/41OXzGMfafL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KMGVI6W-es Calvin Klein Modern Cotton-Thong Tanga Grau Grey Heather...'
 sku: 'B00KMGVI6W-es'
 tags: [  ]

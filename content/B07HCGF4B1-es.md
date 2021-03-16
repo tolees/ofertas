@@ -5,7 +5,7 @@ date: 2020-02-18 12:14:01
 image: 'https://m.media-amazon.com/images/I/41zdhZAsYUL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCGF4B1-es Braun Series 9 9292 Clean&Charge Afeitadora Eléctrica...'
 sku: 'B07HCGF4B1-es'
 tags: [  ]

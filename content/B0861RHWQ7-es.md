@@ -5,7 +5,7 @@ date: 2020-07-22 10:14:45
 image: 'https://m.media-amazon.com/images/I/41RTZAD7L5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0861RHWQ7-es GEREE Cámara de seguridad interior 1080P...'
 sku: 'B0861RHWQ7-es'
 tags: [  ]

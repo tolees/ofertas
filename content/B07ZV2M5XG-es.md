@@ -5,7 +5,7 @@ date: 2020-06-09 15:31:20
 image: 'https://m.media-amazon.com/images/I/31cS+A6s7tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZV2M5XG-es Helly Hansen HH Scout Wash Bag Neceser Unisex Adulto...'
 sku: 'B07ZV2M5XG-es'
 tags: [  ]

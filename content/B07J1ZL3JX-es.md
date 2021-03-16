@@ -5,7 +5,7 @@ date: 2020-01-02 11:03:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41LLVqZgSPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J1ZL3JX-es JACK & JONES Jcochallenge Polo SS Noos Gris Light Grey...'
 sku: 'B07J1ZL3JX-es'
 tags: [  ]

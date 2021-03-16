@@ -5,7 +5,7 @@ date: 2020-09-14 12:34:01
 image: 'https://m.media-amazon.com/images/I/617rW8FXF4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0747MF4SY-es Tomshine Clip Cadena de Luces LED 40LEDs 5m Fotoclips...'
 sku: 'B0747MF4SY-es'
 tags: [  ]

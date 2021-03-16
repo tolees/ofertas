@@ -5,7 +5,7 @@ date: 2020-07-17 13:20:20
 image: 'https://m.media-amazon.com/images/I/31kh8oVZYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015GYQM06-es L Oréal Paris Accord Parfait Base de maquillaje acabado...'
 sku: 'B015GYQM06-es'
 tags: [  ]

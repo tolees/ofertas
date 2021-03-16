@@ -5,7 +5,7 @@ date: 2020-03-04 12:36:39
 image: 'https://m.media-amazon.com/images/I/21fYWCI93bL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U8QXDO6-es Beter Swing - Lima ergonómica láser'
 sku: 'B00U8QXDO6-es'
 tags: [  ]

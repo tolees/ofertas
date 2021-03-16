@@ -5,7 +5,7 @@ date: 2020-02-07 16:12:00
 image: 'https://m.media-amazon.com/images/I/41HplG-8fAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRK5XML-es New Balance Cm997hv1 Zapatillas para Hombre Blanco...'
 sku: 'B07KRK5XML-es'
 tags: [  ]

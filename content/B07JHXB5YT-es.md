@@ -5,7 +5,7 @@ date: 2020-01-08 07:09:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41v-PEhW%2BCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHXB5YT-es Columbia Redmond V2 Mid Botas de Senderismo Impermeables...'
 sku: 'B07JHXB5YT-es'
 tags: [  ]

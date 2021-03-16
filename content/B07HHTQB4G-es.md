@@ -5,7 +5,7 @@ date: 2020-05-18 14:39:43
 image: 'https://m.media-amazon.com/images/I/51m7eT6J-tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HHTQB4G-es Omars USB C Hub 9 en 1 Adaptador USB Tipo C con HDMI 4K...'
 sku: 'B07HHTQB4G-es'
 tags: [  ]

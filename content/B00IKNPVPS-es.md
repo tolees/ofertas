@@ -5,7 +5,7 @@ date: 2020-04-10 15:09:48
 image: 'https://m.media-amazon.com/images/I/41F0+sFskXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IKNPVPS-es SportPlus Cinta de Correr 16 km/h con Ajuste de...'
 sku: 'B00IKNPVPS-es'
 tags: [  ]

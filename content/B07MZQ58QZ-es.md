@@ -5,7 +5,7 @@ date: 2020-03-07 20:02:50
 image: 'https://m.media-amazon.com/images/I/5172TVUQqVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ58QZ-es Funko- Mystery Mini Cajita misteriosa incluye algún...'
 sku: 'B07MZQ58QZ-es'
 tags: [  ]

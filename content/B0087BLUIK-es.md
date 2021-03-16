@@ -5,7 +5,7 @@ date: 2020-02-27 19:58:03
 image: 'https://m.media-amazon.com/images/I/41h-YYb0+RL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0087BLUIK-es Zeno Watch Basel 3554-a1 - Reloj analógico automático para...'
 sku: 'B0087BLUIK-es'
 tags: [  ]

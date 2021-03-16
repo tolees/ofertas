@@ -5,7 +5,7 @@ date: 2020-03-20 13:36:07
 image: 'https://m.media-amazon.com/images/I/51+yng0sehL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QV6HFLD-es DOOKEY Pinturas Cara para Niños Pintura Facial no Tóxicos...'
 sku: 'B07QV6HFLD-es'
 tags: [  ]

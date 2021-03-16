@@ -5,7 +5,7 @@ date: 2020-05-29 12:31:38
 image: 'https://m.media-amazon.com/images/I/41SsaAti32L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFLRYXC-es Saucony Xodus ISO 3 Zapatillas de Trail Running para...'
 sku: 'B07FFLRYXC-es'
 tags: [  ]

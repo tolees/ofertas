@@ -5,7 +5,7 @@ date: 2020-04-14 00:15:30
 image: 'https://m.media-amazon.com/images/I/416GCD+FSCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KSJM3C-es Amerigo Forma de Bala Whisky Piedras Set de Regalo de...'
 sku: 'B079KSJM3C-es'
 tags: [  ]

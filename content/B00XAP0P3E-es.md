@@ -5,7 +5,7 @@ date: 2020-09-03 18:13:53
 image: 'https://m.media-amazon.com/images/I/51i1I6HqemL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAP0P3E-es Haribo Delfines Azules 1kg'
 sku: 'B00XAP0P3E-es'
 tags: [  ]

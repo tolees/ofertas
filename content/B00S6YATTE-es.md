@@ -5,7 +5,7 @@ date: 2020-04-02 14:43:13
 image: 'https://m.media-amazon.com/images/I/410h3k8J4qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S6YATTE-es Max Factor Eye Luminizer Miracle Base de Maquillaje Tono 3...'
 sku: 'B00S6YATTE-es'
 tags: [  ]

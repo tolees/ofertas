@@ -5,7 +5,7 @@ date: 2020-03-14 19:43:32
 image: 'https://m.media-amazon.com/images/I/51-p7Elt41L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H8NMYH4-es ELITE BAGS DIA´S Bolsillo de los diabéticos negro'
 sku: 'B00H8NMYH4-es'
 tags: [  ]

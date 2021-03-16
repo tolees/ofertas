@@ -5,7 +5,7 @@ date: 2020-08-17 01:01:19
 image: 'https://m.media-amazon.com/images/I/41AMcZbghZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BBLVFDD-es PUTORSEN® Soporte de Escritorio para Monitor de Las...'
 sku: 'B07BBLVFDD-es'
 tags: [  ]

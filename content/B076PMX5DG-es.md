@@ -5,7 +5,7 @@ date: 2020-02-25 19:05:38
 image: 'https://m.media-amazon.com/images/I/41GnFJRUCIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076PMX5DG-es Pasito a Pasito 74026 - Bolsa panera Inés Gris'
 sku: 'B076PMX5DG-es'
 tags: [  ]

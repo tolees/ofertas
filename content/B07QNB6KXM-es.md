@@ -5,7 +5,7 @@ date: 2020-07-06 09:10:22
 image: 'https://m.media-amazon.com/images/I/51W-zkOs1-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNB6KXM-es TedGem Ventilador USB Ventilador PC Mini Ventilador USB...'
 sku: 'B07QNB6KXM-es'
 tags: [  ]

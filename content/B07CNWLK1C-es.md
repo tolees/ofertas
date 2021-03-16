@@ -5,7 +5,7 @@ date: 2020-08-14 07:31:23
 image: 'https://m.media-amazon.com/images/I/519gleVEMdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNWLK1C-es Gorra de béisbol para niños Gorra de béisbol Gorra de...'
 sku: 'B07CNWLK1C-es'
 tags: [  ]

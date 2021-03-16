@@ -5,7 +5,7 @@ date: 2020-03-30 13:17:58
 image: 'https://m.media-amazon.com/images/I/416ZPM5sQPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FAMADXW-es Bosch Professional GBA 18V 2.0Ah litio 1 batería x 2.0 Ah...'
 sku: 'B00FAMADXW-es'
 tags: [  ]

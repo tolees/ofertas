@@ -5,7 +5,7 @@ date: 2020-07-02 10:33:13
 image: 'https://m.media-amazon.com/images/I/318F0U4nGKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JGLC11O-es Tria Beauty HRLP W - Depiladora láser de precisión'
 sku: 'B01JGLC11O-es'
 tags: [  ]

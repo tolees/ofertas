@@ -5,7 +5,7 @@ date: 2020-05-10 17:43:07
 image: 'https://m.media-amazon.com/images/I/41xwPGu35eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWSGUPN-es Lutsine Xeramance Crema Reestructurante Intensiva Piel Muy...'
 sku: 'B01LWSGUPN-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-03 12:13:35
 image: 'https://m.media-amazon.com/images/I/41CnPTfZ8RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDXZR1J-es PUMA X-Ray Zapatillas Unisex-Adulto Azul Royal White/High...'
 sku: 'B07SDXZR1J-es'
 tags: [  ]

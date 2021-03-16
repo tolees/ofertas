@@ -5,7 +5,7 @@ date: 2020-04-30 17:39:44
 image: 'https://m.media-amazon.com/images/I/41190y8w+DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CDB3BQR-es Corsair HS70 Wireless - Auriculares inalámbricos para...'
 sku: 'B07CDB3BQR-es'
 tags: [  ]

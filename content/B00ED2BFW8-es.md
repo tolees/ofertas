@@ -5,7 +5,7 @@ date: 2020-08-03 13:58:11
 image: 'https://m.media-amazon.com/images/I/51wfStDIwlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ED2BFW8-es Grupo Erik Editores Poster Breaking Bad- I Am The One Who...'
 sku: 'B00ED2BFW8-es'
 tags: [  ]

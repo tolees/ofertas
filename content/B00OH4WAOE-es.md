@@ -5,7 +5,7 @@ date: 2020-01-28 02:37:50
 image: 'https://m.media-amazon.com/images/I/41deN2zbPML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OH4WAOE-es L Oréal Paris Accord Perfect Le Blush - Colorete en Polvo...'
 sku: 'B00OH4WAOE-es'
 tags: [  ]

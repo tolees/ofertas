@@ -5,7 +5,7 @@ date: 2020-03-27 16:30:57
 image: 'https://m.media-amazon.com/images/I/41sFULAKbJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XRWHB8-es Under Armour Seamless Longline Sujetador Deportivo Mujer...'
 sku: 'B077XRWHB8-es'
 tags: [  ]

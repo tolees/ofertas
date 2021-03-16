@@ -5,7 +5,7 @@ date: 2020-10-09 00:47:12
 image: 'https://m.media-amazon.com/images/I/415d6kR8VfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBWLS3D-es PUMA X-Ray Zapatillas Unisex Adulto Negro Black/Dark...'
 sku: 'B07SBWLS3D-es'
 tags: [  ]

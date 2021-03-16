@@ -5,7 +5,7 @@ date: 2020-04-17 07:12:04
 image: 'https://m.media-amazon.com/images/I/41kXoWSLGJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTRH469-es Skechers Flex Advantage 3.0-Stally Zapatillas Deportivas...'
 sku: 'B07CTRH469-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 16:06:36
 image: 'https://m.media-amazon.com/images/I/41vppef4foL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N7WOCBB-es Bluegreen - Greenblue gb114 - minutero de escalera'
 sku: 'B01N7WOCBB-es'
 tags: [  ]

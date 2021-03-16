@@ -5,7 +5,7 @@ date: 2020-01-08 14:01:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41cum3w0yXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZSCCR-es PUMA Cell Venom Alert Zapatillas Unisex Adulto White Black...'
 sku: 'B07KFZSCCR-es'
 tags: [  ]

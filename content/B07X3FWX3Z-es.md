@@ -5,7 +5,7 @@ date: 2020-03-21 08:16:35
 image: 'https://m.media-amazon.com/images/I/41YW+Gpu9VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3FWX3Z-es Orfeld Remachadora Remachadora Manual con 4 Cabezales...'
 sku: 'B07X3FWX3Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-10 16:50:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tyTPMFz1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQDSFZY-es Argentina - Figura SoccerStarz de Messi 5cm Multicolor'
 sku: 'B07MQDSFZY-es'
 tags: [  ]

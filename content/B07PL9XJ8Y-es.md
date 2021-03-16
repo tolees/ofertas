@@ -5,7 +5,7 @@ date: 2020-05-30 19:40:31
 image: 'https://m.media-amazon.com/images/I/31-nOpWZ5iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PL9XJ8Y-es Gel de sílice Galactorrea Colección de coberturas...'
 sku: 'B07PL9XJ8Y-es'
 tags: [  ]

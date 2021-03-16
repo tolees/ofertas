@@ -5,7 +5,7 @@ date: 2020-08-22 11:34:03
 image: 'https://m.media-amazon.com/images/I/61HyKnZR0vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751BYKW9-es Urvoix - Funda para Samsung Galaxy S8 función atril piel...'
 sku: 'B0751BYKW9-es'
 tags: [  ]

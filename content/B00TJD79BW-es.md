@@ -5,7 +5,7 @@ date: 2020-07-12 19:01:00
 image: 'https://m.media-amazon.com/images/I/41X6hnUsdbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TJD79BW-es Acer MR.JKY11.00L - Videoproyector 3000 lúmenes'
 sku: 'B00TJD79BW-es'
 tags: [  ]

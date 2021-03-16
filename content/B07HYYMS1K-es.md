@@ -5,7 +5,7 @@ date: 2020-01-08 17:01:15
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VyyAlja4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HYYMS1K-es Lunasol Home Funda de Silicona con Cremallera para...'
 sku: 'B07HYYMS1K-es'
 tags: [  ]

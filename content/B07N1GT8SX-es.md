@@ -5,7 +5,7 @@ date: 2020-06-28 15:36:35
 image: 'https://m.media-amazon.com/images/I/41EvzxgQo+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GT8SX-es Clarks Un Rio Lace Zapatillas Marrón Aubergine Lea...'
 sku: 'B07N1GT8SX-es'
 tags: [  ]

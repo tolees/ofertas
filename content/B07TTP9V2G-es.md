@@ -5,7 +5,7 @@ date: 2020-07-13 18:13:28
 image: 'https://m.media-amazon.com/images/I/51WwwZ0xQOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTP9V2G-es KiplingTopsMujerCarterasNegro Charcoal 7.5x10x2.5...'
 sku: 'B07TTP9V2G-es'
 tags: [  ]

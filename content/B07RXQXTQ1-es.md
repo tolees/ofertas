@@ -5,7 +5,7 @@ date: 2020-07-23 16:13:53
 image: 'https://m.media-amazon.com/images/I/51aZcIHBdML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RXQXTQ1-es Atornillador de impacto TECCPO 18V 180 Nm 4.0Ah Baterías...'
 sku: 'B07RXQXTQ1-es'
 tags: [  ]

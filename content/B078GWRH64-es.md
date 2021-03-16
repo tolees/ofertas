@@ -5,7 +5,7 @@ date: 2020-09-04 10:01:17
 image: 'https://m.media-amazon.com/images/I/31bIqtbw5DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GWRH64-es Eve Button - Mando para la casa conectada con tecnología...'
 sku: 'B078GWRH64-es'
 tags: [  ]

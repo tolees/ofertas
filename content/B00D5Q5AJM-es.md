@@ -5,7 +5,7 @@ date: 2020-07-21 06:19:41
 image: 'https://m.media-amazon.com/images/I/416GruXk2pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D5Q5AJM-es Yimidear Anillos de Gimnasia Madera Anillos Olímpicos con...'
 sku: 'B00D5Q5AJM-es'
 tags: [  ]

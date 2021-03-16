@@ -5,7 +5,7 @@ date: 2020-01-15 08:07:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419i8fJIvhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0798QM8BP-es LG 27UK850-W - Monitor 4K UHD de 68 6 cm 27" con Panel IPS...'
 sku: 'B0798QM8BP-es'
 tags: [  ]

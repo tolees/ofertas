@@ -5,7 +5,7 @@ date: 2020-03-30 19:58:03
 image: 'https://m.media-amazon.com/images/I/31YF8BroYPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXW54KT-es GLOBE Motley Zapatillas de Skateboard para Hombre Negro...'
 sku: 'B07MXW54KT-es'
 tags: [  ]

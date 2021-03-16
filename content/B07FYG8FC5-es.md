@@ -5,7 +5,7 @@ date: 2020-04-14 17:13:37
 image: 'https://m.media-amazon.com/images/I/51Z7AwS5ZEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FYG8FC5-es Smart MAX My First Farm Animals Multicolor 25cm x 25cm x...'
 sku: 'B07FYG8FC5-es'
 tags: [  ]

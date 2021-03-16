@@ -5,7 +5,7 @@ date: 2020-04-15 16:10:48
 image: 'https://m.media-amazon.com/images/I/41peF28NO6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085G7FCY1-es 14 Piezas Perilla Estrella Negro M9 Tornillo Perilla de...'
 sku: 'B085G7FCY1-es'
 tags: [  ]

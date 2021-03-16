@@ -5,7 +5,7 @@ date: 2020-09-30 12:44:41
 image: 'https://m.media-amazon.com/images/I/51T5FW7c3tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G4WDLXK-es VTech-80-190922 Oso de Tela Interactivo Multicolor...'
 sku: 'B01G4WDLXK-es'
 tags: [  ]

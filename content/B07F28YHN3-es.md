@@ -5,7 +5,7 @@ date: 2020-01-30 23:54:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51SzQFt4LBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F28YHN3-es TACKLIFE Manguera para Riego por Goteo 15M Manguera La...'
 sku: 'B07F28YHN3-es'
 tags: [  ]

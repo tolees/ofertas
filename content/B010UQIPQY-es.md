@@ -5,7 +5,7 @@ date: 2020-06-07 10:40:02
 image: 'https://m.media-amazon.com/images/I/31Ok5Ls5bFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010UQIPQY-es Philips Bombilla LED Vela E14 4 W equivalentes a 25 W luz...'
 sku: 'B010UQIPQY-es'
 tags: [  ]

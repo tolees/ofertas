@@ -5,7 +5,7 @@ date: 2020-05-30 14:40:49
 image: 'https://m.media-amazon.com/images/I/31k03U0VHvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVQL1R8-es Artpad Nordic Modern Milky Glass Ball Lámpara de pared Luz...'
 sku: 'B07ZVQL1R8-es'
 tags: [  ]

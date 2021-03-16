@@ -5,7 +5,7 @@ date: 2020-04-18 03:21:31
 image: 'https://m.media-amazon.com/images/I/41pz1+iB6WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKY1N9D-es HAMSWAN Despertadores [Regalos] Reloi Alarma Clock...'
 sku: 'B07QKY1N9D-es'
 tags: [  ]

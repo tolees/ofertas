@@ -5,7 +5,7 @@ date: 2020-03-16 10:12:08
 image: 'https://m.media-amazon.com/images/I/41TC4jyBE9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4YF7TS-es HP Pavilion Gaming TG01-0024ns - Ordenador de sobremesa de...'
 sku: 'B07Y4YF7TS-es'
 tags: [  ]

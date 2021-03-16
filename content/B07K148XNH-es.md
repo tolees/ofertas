@@ -5,7 +5,7 @@ date: 2020-04-01 11:03:26
 image: 'https://m.media-amazon.com/images/I/31CpOh0KQvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K148XNH-es Adidas Altasport K Zapatillas de Entrenamiento Unisex...'
 sku: 'B07K148XNH-es'
 tags: [  ]

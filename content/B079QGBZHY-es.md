@@ -5,7 +5,7 @@ date: 2020-06-23 08:44:06
 image: 'https://m.media-amazon.com/images/I/41P7nV9YP9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QGBZHY-es Levi s 502 Regular Taper Jeans Azul Stonewash 95978 0182...'
 sku: 'B079QGBZHY-es'
 tags: [  ]

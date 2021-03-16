@@ -5,7 +5,7 @@ date: 2020-05-19 14:54:52
 image: 'https://m.media-amazon.com/images/I/511iXLL+FeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTJCNQB-es Lacoste Reloj de Pulsera 2011003'
 sku: 'B07KTJCNQB-es'
 tags: [  ]

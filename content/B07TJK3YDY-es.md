@@ -5,7 +5,7 @@ date: 2020-07-16 17:39:29
 image: 'https://m.media-amazon.com/images/I/41h029EeadL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJK3YDY-es Clarks Alexis Shine Sandalia con Pulsera para Mujer Azul...'
 sku: 'B07TJK3YDY-es'
 tags: [  ]

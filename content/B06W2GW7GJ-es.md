@@ -5,7 +5,7 @@ date: 2020-05-06 14:04:20
 image: 'https://m.media-amazon.com/images/I/61WEx2UdiBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W2GW7GJ-es Aquabeads- Plantillas Epoch para Imaginar 30288'
 sku: 'B06W2GW7GJ-es'
 tags: [  ]

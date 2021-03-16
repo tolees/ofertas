@@ -5,7 +5,7 @@ date: 2020-09-07 19:10:25
 image: 'https://m.media-amazon.com/images/I/51J2z8-IkCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D29CTLZ-es TACKLIFE Cortadora de Setos Eléctrica 40V 2.5 Ah con...'
 sku: 'B07D29CTLZ-es'
 tags: [  ]

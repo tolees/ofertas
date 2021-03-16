@@ -5,7 +5,7 @@ date: 2020-10-09 20:54:07
 image: 'https://m.media-amazon.com/images/I/31mPg2IROeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00140VYBE-es Salter Báscula de Cocina Digital de Acero Inoxidable...'
 sku: 'B00140VYBE-es'
 tags: [  ]

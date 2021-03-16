@@ -5,7 +5,7 @@ date: 2020-09-11 12:07:53
 image: 'https://m.media-amazon.com/images/I/41nNVDdftDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0071T3MFI-es Bosch Professional GST 90 E - Sierra de calar 650 W 500 -...'
 sku: 'B0071T3MFI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-31 22:40:38
 image: 'https://m.media-amazon.com/images/I/61nVKcE9PSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5N2MT8-es HOMOZE Manguera de Agua expandible de jardín con Conector...'
 sku: 'B07P5N2MT8-es'
 tags: [  ]

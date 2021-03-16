@@ -5,7 +5,7 @@ date: 2020-07-04 18:40:24
 image: 'https://m.media-amazon.com/images/I/41yz1tewLUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SNCHTJC-es Gamdias EREBOS-GMS7510 - Ratón USB Laser 8200DPI...'
 sku: 'B00SNCHTJC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-12 09:30:35
 image: 'https://m.media-amazon.com/images/I/41W+toO3AAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGCKQZ1-es Alomejor Controlador sin escobillas del Motor 48V 500W...'
 sku: 'B07KGCKQZ1-es'
 tags: [  ]

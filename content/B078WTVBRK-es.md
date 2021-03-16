@@ -5,7 +5,7 @@ date: 2020-09-21 07:56:35
 image: 'https://m.media-amazon.com/images/I/41FMaCadfdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WTVBRK-es Rowenta VU1950 Classic Compact VU1930F0 Ventilador 45 W...'
 sku: 'B078WTVBRK-es'
 tags: [  ]

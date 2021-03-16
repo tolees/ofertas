@@ -5,7 +5,7 @@ date: 2020-01-24 16:06:06
 image: 'https://m.media-amazon.com/images/I/31143o2g56L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQ8FXKM-es JACK & JONES Jjestructure Knit Crew Neck Noos suéter Gris...'
 sku: 'B07FQ8FXKM-es'
 tags: [  ]

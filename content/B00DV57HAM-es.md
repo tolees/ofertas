@@ -5,7 +5,7 @@ date: 2020-09-21 09:11:53
 image: 'https://m.media-amazon.com/images/I/31VLUjJ1AtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DV57HAM-es Superga Classic Zapatillas para Mujer Amarillo Yellow...'
 sku: 'B00DV57HAM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 14:46:26
 image: 'https://m.media-amazon.com/images/I/41wdzJS5JqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872VGQC7-es Webcam Full HD 1080p Cámara Web USB con Micrófono...'
 sku: 'B0872VGQC7-es'
 tags: [  ]

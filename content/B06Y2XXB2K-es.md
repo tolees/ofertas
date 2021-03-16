@@ -5,7 +5,7 @@ date: 2020-07-07 15:50:06
 image: 'https://m.media-amazon.com/images/I/41KUR0yv07L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2XXB2K-es New Balance 574 Core Zapatillas Hombre Gris Grey EGG 43 EU...'
 sku: 'B06Y2XXB2K-es'
 tags: [  ]

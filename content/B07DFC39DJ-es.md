@@ -5,7 +5,7 @@ date: 2020-10-09 10:21:11
 image: 'https://m.media-amazon.com/images/I/41u8YrVotwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFC39DJ-es Pop! Smallfoot - Figura de Vinilo Percy'
 sku: 'B07DFC39DJ-es'
 tags: [  ]

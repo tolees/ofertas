@@ -5,7 +5,7 @@ date: 2020-03-06 17:43:20
 image: 'https://m.media-amazon.com/images/I/41J+CVKiwTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GN7HR-es Clarks Un Maui Lace Zapatillas para Mujer Multicolor...'
 sku: 'B07N1GN7HR-es'
 tags: [  ]

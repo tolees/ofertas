@@ -5,7 +5,7 @@ date: 2020-02-04 09:23:09
 image: 'https://m.media-amazon.com/images/I/41vgHt9XR+L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBKC102-es Reebok Club C 85 Zapatillas para Hombre Blanco INT...'
 sku: 'B01NBKC102-es'
 tags: [  ]

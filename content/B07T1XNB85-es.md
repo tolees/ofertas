@@ -5,7 +5,7 @@ date: 2020-08-17 13:51:51
 image: 'https://m.media-amazon.com/images/I/41uqATUS-aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1XNB85-es Marco digital'
 sku: 'B07T1XNB85-es'
 tags: [  ]

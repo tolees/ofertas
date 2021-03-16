@@ -5,7 +5,7 @@ date: 2020-04-02 10:31:38
 image: 'https://m.media-amazon.com/images/I/31b30dylhjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6LRY9Y-es TiooDre Cargador USB 60W 10 Puertos USB rápido Cargador de...'
 sku: 'B07H6LRY9Y-es'
 tags: [  ]

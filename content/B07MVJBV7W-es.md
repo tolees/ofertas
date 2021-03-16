@@ -5,7 +5,7 @@ date: 2020-06-29 14:54:49
 image: 'https://m.media-amazon.com/images/I/41QTGooBc8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVJBV7W-es Kipling - Imagine Pack Bolsos totes Mujer Multicolor Tile...'
 sku: 'B07MVJBV7W-es'
 tags: [  ]

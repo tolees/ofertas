@@ -5,7 +5,7 @@ date: 2020-02-04 04:21:59
 image: 'https://m.media-amazon.com/images/I/41ozNC5m+oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0063PYMFU-es Baby Art 34120085 - Marco para fotos recuerdo del primer...'
 sku: 'B0063PYMFU-es'
 tags: [  ]

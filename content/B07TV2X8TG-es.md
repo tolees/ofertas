@@ -5,7 +5,7 @@ date: 2020-04-04 07:15:27
 image: 'https://m.media-amazon.com/images/I/51nsrk1RdYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV2X8TG-es AICOK Deshidratador de Alimentos 250W Temporizador...'
 sku: 'B07TV2X8TG-es'
 tags: [  ]

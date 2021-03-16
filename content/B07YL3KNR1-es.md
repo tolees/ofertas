@@ -5,7 +5,7 @@ date: 2020-07-20 16:44:52
 image: 'https://m.media-amazon.com/images/I/41LoeSAqkML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YL3KNR1-es MTNG Attitude 84361B Zapatillas para Hombre Azul Wax Suede...'
 sku: 'B07YL3KNR1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-01 18:03:38
 image: 'https://m.media-amazon.com/images/I/51XjfLGmESL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K3X2G2S-es E·Durable 86in1 Herramientas pc Kit Destornilladores...'
 sku: 'B07K3X2G2S-es'
 tags: [  ]

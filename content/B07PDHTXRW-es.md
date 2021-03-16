@@ -5,7 +5,7 @@ date: 2020-05-27 08:17:51
 image: 'https://m.media-amazon.com/images/I/21CYeVcQzwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PDHTXRW-es Philips Aspirador vertical sin cable FC6722/01 -...'
 sku: 'B07PDHTXRW-es'
 tags: [  ]

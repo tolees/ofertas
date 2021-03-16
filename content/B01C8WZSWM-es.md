@@ -5,7 +5,7 @@ date: 2020-06-15 21:16:22
 image: 'https://m.media-amazon.com/images/I/51U8ax4JonL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C8WZSWM-es Seiko Reloj Analogico para Hombre de Automático con Correa...'
 sku: 'B01C8WZSWM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 17:21:39
 image: 'https://m.media-amazon.com/images/I/51fY4jtzYlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVMY36H-es Panamar Damas / Tejidos no Tejidos Tablero de ajedrez...'
 sku: 'B08CVMY36H-es'
 tags: [  ]

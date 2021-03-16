@@ -5,7 +5,7 @@ date: 2020-06-19 12:25:24
 image: 'https://m.media-amazon.com/images/I/41yhAqW+CvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYN5MZV-es New Balance 373v2 Zapatillas para Mujer Dorado Gold Ga2 37 EU'
 sku: 'B07RYN5MZV-es'
 tags: [  ]

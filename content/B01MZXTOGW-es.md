@@ -5,7 +5,7 @@ date: 2020-01-13 11:54:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B5eVmZWJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZXTOGW-es NIZZIN Fenna Pullover Manga Larga Mujer Gris Light Grey...'
 sku: 'B01MZXTOGW-es'
 tags: [  ]

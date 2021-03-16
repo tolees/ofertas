@@ -5,7 +5,7 @@ date: 2020-06-14 22:00:52
 image: 'https://m.media-amazon.com/images/I/31RUuCVKS+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0036GT4RA-es Converse Chuck Taylor All Star Zapatillas de Lona Infantil...'
 sku: 'B0036GT4RA-es'
 tags: [  ]

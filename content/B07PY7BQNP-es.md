@@ -5,7 +5,7 @@ date: 2020-06-29 19:24:24
 image: 'https://m.media-amazon.com/images/I/51HSA40CavL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY7BQNP-es JOJOR Cuerda para Saltar Ajustable para Niños y Adultos...'
 sku: 'B07PY7BQNP-es'
 tags: [  ]

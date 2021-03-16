@@ -5,7 +5,7 @@ date: 2020-04-22 23:01:53
 image: 'https://m.media-amazon.com/images/I/4116ZRY2bwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FM2XP2G-es Manfrotto Advanced Tri - Funda para cámara DSLR negro'
 sku: 'B00FM2XP2G-es'
 tags: [  ]

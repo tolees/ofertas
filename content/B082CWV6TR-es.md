@@ -5,7 +5,7 @@ date: 2020-04-13 12:35:25
 image: 'https://m.media-amazon.com/images/I/31cuJi+lTcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082CWV6TR-es 20 Ml Perfume De Mujer Elegante Original Fragancia De...'
 sku: 'B082CWV6TR-es'
 tags: [  ]

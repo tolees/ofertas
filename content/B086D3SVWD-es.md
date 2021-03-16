@@ -5,7 +5,7 @@ date: 2020-04-14 16:56:44
 image: 'https://m.media-amazon.com/images/I/41cRQ7t4-KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086D3SVWD-es WaYiNg #B006 - Hombre Short Sleeve Motogp Vr46 The Doctor...'
 sku: 'B086D3SVWD-es'
 tags: [  ]

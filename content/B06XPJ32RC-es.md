@@ -5,7 +5,7 @@ date: 2020-03-23 16:20:07
 image: 'https://m.media-amazon.com/images/I/41MuHvmXkyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XPJ32RC-es Rimmel London Fresher Skin Base de Maquillaje Tono 101...'
 sku: 'B06XPJ32RC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-29 15:03:54
 image: 'https://m.media-amazon.com/images/I/31LHSHATtYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZHCZG3-es Brabantia Bo Touch Bin Cubo de Basura 11 + 23 litros Rojo...'
 sku: 'B073ZHCZG3-es'
 tags: [  ]

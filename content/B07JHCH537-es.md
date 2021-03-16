@@ -5,7 +5,7 @@ date: 2020-06-11 05:55:24
 image: 'https://m.media-amazon.com/images/I/41TowwiLg9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHCH537-es Columbia Redmond V2 Zapatillas de Senderismo para Hombre...'
 sku: 'B07JHCH537-es'
 tags: [  ]

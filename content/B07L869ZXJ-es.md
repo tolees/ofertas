@@ -5,7 +5,7 @@ date: 2020-08-27 12:34:27
 image: 'https://m.media-amazon.com/images/I/514GNNHgTEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L869ZXJ-es URCERI Mini Amoladora eléctrica batería con 60pcs...'
 sku: 'B07L869ZXJ-es'
 tags: [  ]

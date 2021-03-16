@@ -5,7 +5,7 @@ date: 2020-08-26 20:50:37
 image: 'https://m.media-amazon.com/images/I/41fnVN7QNsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JFL6CJ6-es PUMA Carina Zapatillas para Mujer Negro Black Black Silver...'
 sku: 'B07JFL6CJ6-es'
 tags: [  ]

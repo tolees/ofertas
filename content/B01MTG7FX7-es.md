@@ -5,7 +5,7 @@ date: 2020-04-16 18:11:00
 image: 'https://m.media-amazon.com/images/I/51nqbyNMHKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTG7FX7-es Warner Bros Interactive Spain Harry Potter - Hermione Fun...'
 sku: 'B01MTG7FX7-es'
 tags: [  ]

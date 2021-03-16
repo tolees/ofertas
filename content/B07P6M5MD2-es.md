@@ -5,7 +5,7 @@ date: 2020-01-28 17:45:48
 image: 'https://m.media-amazon.com/images/I/51o0pO48eGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6M5MD2-es SUNLU filamento PLA de 1.75 mm filamento de impresión 3D...'
 sku: 'B07P6M5MD2-es'
 tags: [  ]

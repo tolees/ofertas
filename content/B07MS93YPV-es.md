@@ -5,7 +5,7 @@ date: 2020-02-10 14:38:03
 image: 'https://m.media-amazon.com/images/I/31bxVUjFZSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MS93YPV-es Kickers Hobbytwo Botas Slouch para Mujer Gris Taupe 123 36 EU'
 sku: 'B07MS93YPV-es'
 tags: [  ]

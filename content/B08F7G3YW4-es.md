@@ -5,7 +5,7 @@ date: 2020-09-07 00:24:23
 image: 'https://m.media-amazon.com/images/I/41X6CoqT-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F7G3YW4-es Transmisor FM Bluetooth 5.0 Reproductor MP3 Coche QC3.0...'
 sku: 'B08F7G3YW4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 00:50:18
 image: 'https://m.media-amazon.com/images/I/41ppgY6S-wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PV95B3L-es SAWAKE Ventilador Clip Portátil Mini Ventilador de...'
 sku: 'B07PV95B3L-es'
 tags: [  ]

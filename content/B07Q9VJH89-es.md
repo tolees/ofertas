@@ -5,7 +5,7 @@ date: 2020-07-21 07:36:37
 image: 'https://m.media-amazon.com/images/I/4191jktI+rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9VJH89-es Ufesa FF1450 - Ventilador de Pie 45cm diámetro Potente...'
 sku: 'B07Q9VJH89-es'
 tags: [  ]

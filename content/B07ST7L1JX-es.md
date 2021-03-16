@@ -5,7 +5,7 @@ date: 2020-05-27 15:40:41
 image: 'https://m.media-amazon.com/images/I/41pO-HuNgiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ST7L1JX-es HP EliteDisplay E223d - Monitor Docking de 21.5" Ajustable...'
 sku: 'B07ST7L1JX-es'
 tags: [  ]

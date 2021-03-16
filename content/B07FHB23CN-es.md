@@ -5,7 +5,7 @@ date: 2020-04-19 04:14:28
 image: 'https://m.media-amazon.com/images/I/41rgfL-D-gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FHB23CN-es Levi s Graphic Po Hoodie-B suéter Grigio Hm Pop Co Midtone...'
 sku: 'B07FHB23CN-es'
 tags: [  ]

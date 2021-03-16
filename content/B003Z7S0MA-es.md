@@ -5,7 +5,7 @@ date: 2020-04-17 16:25:50
 image: 'https://m.media-amazon.com/images/I/61hKJegEbfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003Z7S0MA-es Hermano oso [DVD]'
 sku: 'B003Z7S0MA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 22:37:50
 image: 'https://m.media-amazon.com/images/I/51nVO4c94XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PML382R-es Marea: El Azogue'
 sku: 'B07PML382R-es'
 tags: [  ]

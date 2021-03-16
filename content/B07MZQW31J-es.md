@@ -5,7 +5,7 @@ date: 2020-03-20 13:20:34
 image: 'https://m.media-amazon.com/images/I/41M49eMjGdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQW31J-es Pepe Jeans London Sinyu New Block Zapatillas para Mujer...'
 sku: 'B07MZQW31J-es'
 tags: [  ]

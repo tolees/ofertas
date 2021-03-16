@@ -5,7 +5,7 @@ date: 2020-02-23 21:33:22
 image: 'https://m.media-amazon.com/images/I/41-R0Q4PLvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000CSLJDW-es ghd original - Plancha de pelo profesional tecnología...'
 sku: 'B000CSLJDW-es'
 tags: [  ]

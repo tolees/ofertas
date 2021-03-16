@@ -5,7 +5,7 @@ date: 2020-09-15 23:02:23
 image: 'https://m.media-amazon.com/images/I/31pFav1FzWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BKQTA4A-es Daniel Wellington Reloj con Correa de Acero para Mujer 0608DW'
 sku: 'B00BKQTA4A-es'
 tags: [  ]

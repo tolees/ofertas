@@ -5,7 +5,7 @@ date: 2020-03-28 20:32:19
 image: 'https://m.media-amazon.com/images/I/41tQ1ez5r1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QJ6W5SZ-es Hackett Aston Martin Racing T544 Polo Negro Blk/Multi 9eg...'
 sku: 'B07QJ6W5SZ-es'
 tags: [  ]

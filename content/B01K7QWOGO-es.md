@@ -5,7 +5,7 @@ date: 2020-06-22 16:15:09
 image: 'https://m.media-amazon.com/images/I/41SacZPZ+AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7QWOGO-es Vernel Cielo Azul Suavizante Concentrado - 57 Dosis'
 sku: 'B01K7QWOGO-es'
 tags: [  ]

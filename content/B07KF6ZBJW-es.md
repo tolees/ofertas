@@ -5,7 +5,7 @@ date: 2020-01-27 20:44:42
 image: 'https://m.media-amazon.com/images/I/41jTczf2Q5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF6ZBJW-es Levi s 501 Long Pantalones Cortos Azul Montgomery Stone...'
 sku: 'B07KF6ZBJW-es'
 tags: [  ]

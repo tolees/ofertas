@@ -5,7 +5,7 @@ date: 2020-05-27 19:34:33
 image: 'https://m.media-amazon.com/images/I/51JSJslJ3-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWPILNG-es Gourmet Extra Lenteja - 1 Kg'
 sku: 'B01LWPILNG-es'
 tags: [  ]

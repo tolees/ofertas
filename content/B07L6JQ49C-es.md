@@ -5,7 +5,7 @@ date: 2020-05-07 00:41:05
 image: 'https://m.media-amazon.com/images/I/41jj9ABdbGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6JQ49C-es B Blesiya Unidad de Disquete SSD USB Tornillos...'
 sku: 'B07L6JQ49C-es'
 tags: [  ]

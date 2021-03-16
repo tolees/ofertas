@@ -5,7 +5,7 @@ date: 2020-03-18 01:04:37
 image: 'https://m.media-amazon.com/images/I/41gFZtGnuwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00020IAPA-es Solgar Comprimidos Masticables Sublinguales Vitamina B 12...'
 sku: 'B00020IAPA-es'
 tags: [  ]

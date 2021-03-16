@@ -5,7 +5,7 @@ date: 2020-06-11 06:14:13
 image: 'https://m.media-amazon.com/images/I/41FL-lfHNuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0834ZNRKZ-es Fila Slip Deportivo Color Azul'
 sku: 'B0834ZNRKZ-es'
 tags: [  ]

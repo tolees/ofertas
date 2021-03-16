@@ -5,7 +5,7 @@ date: 2020-06-01 08:05:30
 image: 'https://m.media-amazon.com/images/I/411PT2CYXRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VF75DX3-es Max Power Digital Funda para Xiaomi Mi 9T / Xiaomi Mi 9T...'
 sku: 'B07VF75DX3-es'
 tags: [  ]

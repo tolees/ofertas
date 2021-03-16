@@ -5,7 +5,7 @@ date: 2020-02-01 09:27:08
 image: 'https://m.media-amazon.com/images/I/519o6-Qq7jL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BMWHCFP-es Skechers Flex Play-Early Start Zapatillas para Niñas Azul...'
 sku: 'B07BMWHCFP-es'
 tags: [  ]

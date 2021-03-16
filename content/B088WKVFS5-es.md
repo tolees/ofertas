@@ -5,7 +5,7 @@ date: 2020-08-16 13:19:17
 image: 'https://m.media-amazon.com/images/I/41tTMSwuTdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WKVFS5-es Femometer Copa Menstrual 1 Piezas Pequeña y 1 Piezas...'
 sku: 'B088WKVFS5-es'
 tags: [  ]

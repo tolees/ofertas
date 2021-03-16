@@ -5,7 +5,7 @@ date: 2020-01-13 23:37:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31h4nvOWmFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082BC75XB-es Icons Corner Pack 4 sillas Negra Patas Negras IMS Modelo...'
 sku: 'B082BC75XB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-07 17:18:56
 image: 'https://m.media-amazon.com/images/I/41AthYLz+9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NYTJJ6B-es Skechers Go Run 600 Zapatillas para Hombre Azul Blue...'
 sku: 'B07NYTJJ6B-es'
 tags: [  ]

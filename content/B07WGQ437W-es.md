@@ -5,7 +5,7 @@ date: 2020-07-16 17:38:53
 image: 'https://m.media-amazon.com/images/I/51j4c00x0DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WGQ437W-es Desigual Foul Galaxy Bufanda Rojo Red Ocre 3069 Talla...'
 sku: 'B07WGQ437W-es'
 tags: [  ]

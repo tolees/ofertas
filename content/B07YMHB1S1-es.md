@@ -5,7 +5,7 @@ date: 2020-05-26 09:05:43
 image: 'https://m.media-amazon.com/images/I/51QM-HIGxhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YMHB1S1-es Terminator Salvation 4K Ultra HD + BD [Blu-ray]'
 sku: 'B07YMHB1S1-es'
 tags: [  ]

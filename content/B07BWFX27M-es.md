@@ -5,7 +5,7 @@ date: 2020-08-04 07:20:53
 image: 'https://m.media-amazon.com/images/I/41EKZVYY7kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BWFX27M-es HGHMLIFE - Portarrollos de papel higiénico autoadhesivo de...'
 sku: 'B07BWFX27M-es'
 tags: [  ]

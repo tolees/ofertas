@@ -5,7 +5,7 @@ date: 2020-07-20 17:17:06
 image: 'https://m.media-amazon.com/images/I/412j9xpYgrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894TBQ6M-es REDSTORM Espejo Con Luz De Mano Para Maquillaje Aumentos...'
 sku: 'B0894TBQ6M-es'
 tags: [  ]

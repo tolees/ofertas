@@ -5,7 +5,7 @@ date: 2020-07-04 10:03:53
 image: 'https://m.media-amazon.com/images/I/410GvKJ0HQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071X4LVKD-es Waldbeck Clearflow 55UV Filtro Exterior Acuario con...'
 sku: 'B071X4LVKD-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:23:29
 image: 'https://m.media-amazon.com/images/I/31OxJQarMBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GZSW8M8-es WILIT T3 Lámpara de Escritorio Táctil Flexo LED Regulable...'
 sku: 'B01GZSW8M8-es'
 tags: [  ]

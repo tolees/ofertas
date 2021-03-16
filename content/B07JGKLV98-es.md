@@ -5,7 +5,7 @@ date: 2020-06-23 13:32:15
 image: 'https://m.media-amazon.com/images/I/51pfNV+q6-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGKLV98-es HBselect Gorros De Punto Bebe Niños Invierno Gorra Bebe...'
 sku: 'B07JGKLV98-es'
 tags: [  ]

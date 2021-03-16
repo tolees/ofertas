@@ -5,7 +5,7 @@ date: 2020-09-29 10:02:05
 image: 'https://m.media-amazon.com/images/I/51cG8qgjmVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L5M0XJK-es Bomann RG2279CB Raclette Grill con Piedra Natural y Placa...'
 sku: 'B00L5M0XJK-es'
 tags: [  ]

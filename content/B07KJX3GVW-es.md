@@ -5,7 +5,7 @@ date: 2020-05-28 16:35:49
 image: 'https://m.media-amazon.com/images/I/41ZzQ2BV0yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJX3GVW-es Columbia Backpedal Clime Outdry Zapatillas de Cross para...'
 sku: 'B07KJX3GVW-es'
 tags: [  ]

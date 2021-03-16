@@ -5,7 +5,7 @@ date: 2020-10-08 08:01:59
 image: 'https://m.media-amazon.com/images/I/31QsuMyOl2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZNQ722-es Funko- Pop TV: Black Mirror-Doll w/Evil Chase Styles May...'
 sku: 'B07TZNQ722-es'
 tags: [  ]

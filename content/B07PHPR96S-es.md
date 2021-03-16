@@ -5,7 +5,7 @@ date: 2020-04-01 17:34:51
 image: 'https://m.media-amazon.com/images/I/41KueMKD-jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PHPR96S-es SweetLF Afeitadora Electrica Hombre Máquina de Afeitar...'
 sku: 'B07PHPR96S-es'
 tags: [  ]

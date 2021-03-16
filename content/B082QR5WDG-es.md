@@ -5,7 +5,7 @@ date: 2020-03-01 09:32:29
 image: 'https://m.media-amazon.com/images/I/51kw0D9SG4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082QR5WDG-es Pulsera de Actividad Inteligente IP68 Impermeable Reloj...'
 sku: 'B082QR5WDG-es'
 tags: [  ]

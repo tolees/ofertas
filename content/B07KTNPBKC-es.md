@@ -5,7 +5,7 @@ date: 2020-07-19 02:33:53
 image: 'https://m.media-amazon.com/images/I/31RjhYHVawL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTNPBKC-es Helly Hansen 3 Pares de Calcetines Invisibles para...'
 sku: 'B07KTNPBKC-es'
 tags: [  ]

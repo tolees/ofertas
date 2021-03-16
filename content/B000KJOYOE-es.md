@@ -5,7 +5,7 @@ date: 2020-04-13 13:05:16
 image: 'https://m.media-amazon.com/images/I/31AVTahaJJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KJOYOE-es Edding 950 - Marcador permanente de pasta opaca trazo de...'
 sku: 'B000KJOYOE-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-21 07:31:49
 image: 'https://m.media-amazon.com/images/I/41dA+VdsYbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVGWW1G-es Kipling - Hiphurray Packable Bolsos totes Mujer Morado...'
 sku: 'B07MVGWW1G-es'
 tags: [  ]

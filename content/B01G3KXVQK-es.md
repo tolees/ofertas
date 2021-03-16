@@ -5,7 +5,7 @@ date: 2020-01-26 18:00:07
 image: 'https://m.media-amazon.com/images/I/31h17tulCSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G3KXVQK-es Philips Lumea Essential BRI862/00 - Depiladora IPL por luz...'
 sku: 'B01G3KXVQK-es'
 tags: [  ]

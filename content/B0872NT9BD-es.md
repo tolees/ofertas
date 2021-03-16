@@ -5,7 +5,7 @@ date: 2020-05-12 12:03:04
 image: 'https://m.media-amazon.com/images/I/41PjZSwc2GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872NT9BD-es Funda Transparente Compatible para Xiaomi Mi MAX 3 Carcasa...'
 sku: 'B0872NT9BD-es'
 tags: [  ]

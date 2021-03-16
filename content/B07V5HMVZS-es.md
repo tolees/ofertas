@@ -5,7 +5,7 @@ date: 2020-07-06 11:42:18
 image: 'https://m.media-amazon.com/images/I/41mCeuj0m2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V5HMVZS-es HUGO 2p Stripe Cc Calcetines Azul Dark Blue 401 35/38...'
 sku: 'B07V5HMVZS-es'
 tags: [  ]

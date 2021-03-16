@@ -5,7 +5,7 @@ date: 2020-09-20 14:55:15
 image: 'https://m.media-amazon.com/images/I/41aoTzy4BkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XR9TVPG-es Valeton Dapper Mini Stage Session Gigging Gear Overdrive...'
 sku: 'B06XR9TVPG-es'
 tags: [  ]

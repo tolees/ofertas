@@ -5,7 +5,7 @@ date: 2020-06-02 09:12:47
 image: 'https://m.media-amazon.com/images/I/412pWoecTiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078W3MRGP-es Vans Filmore Zapatillas para Hombre Negro Suede/canvas 47 EU'
 sku: 'B078W3MRGP-es'
 tags: [  ]

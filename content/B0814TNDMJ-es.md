@@ -5,7 +5,7 @@ date: 2020-02-25 10:03:25
 image: 'https://m.media-amazon.com/images/I/411ZG121l5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0814TNDMJ-es GRDE Power Bank 24000mAh Cargador Portátil con Doble 2.1A...'
 sku: 'B0814TNDMJ-es'
 tags: [  ]

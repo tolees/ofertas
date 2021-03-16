@@ -5,7 +5,7 @@ date: 2020-05-27 16:29:56
 image: 'https://m.media-amazon.com/images/I/31H2lN9Bs1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCMSYRV-es adidas T19 WOV Pnt W Pantalones de Deporte Mujer...'
 sku: 'B07KCMSYRV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-17 09:27:28
 image: 'https://m.media-amazon.com/images/I/417OIJ01slL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M72GCIU-es Cole Haan Herren Zerogrand Stitchlite Oxfords Grau...'
 sku: 'B01M72GCIU-es'
 tags: [  ]

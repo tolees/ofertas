@@ -5,7 +5,7 @@ date: 2020-10-06 09:35:06
 image: 'https://m.media-amazon.com/images/I/41+lSXP2R9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074KBLR8Y-es Fitbit Ionic El Smartwatch Deportivo Azulado/Gris Plateado'
 sku: 'B074KBLR8Y-es'
 tags: [  ]

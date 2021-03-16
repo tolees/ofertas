@@ -5,7 +5,7 @@ date: 2020-01-29 08:09:45
 image: 'https://m.media-amazon.com/images/I/61pO71YaiWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HKCXM9S-es WOSTOO Purpurinas Polvo Chunky Glitter Purpurina para el...'
 sku: 'B07HKCXM9S-es'
 tags: [  ]

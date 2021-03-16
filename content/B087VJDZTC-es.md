@@ -5,7 +5,7 @@ date: 2020-10-01 20:59:10
 image: 'https://m.media-amazon.com/images/I/41IV36HTARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087VJDZTC-es Columbia Fast Trek II Forro Polar con Cremallera Hombre...'
 sku: 'B087VJDZTC-es'
 tags: [  ]

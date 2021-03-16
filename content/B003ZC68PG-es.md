@@ -5,7 +5,7 @@ date: 2020-04-03 16:22:25
 image: 'https://m.media-amazon.com/images/I/31wWqYSEO9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ZC68PG-es Rimmel London Exaggerate Automatic Eyeliner Waterproof -...'
 sku: 'B003ZC68PG-es'
 tags: [  ]

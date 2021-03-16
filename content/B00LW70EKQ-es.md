@@ -5,7 +5,7 @@ date: 2020-07-13 09:18:59
 image: 'https://m.media-amazon.com/images/I/412a6yeu2CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LW70EKQ-es Nivea soft - Tarro 300 ml pack of 3'
 sku: 'B00LW70EKQ-es'
 tags: [  ]

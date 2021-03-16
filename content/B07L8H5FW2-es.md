@@ -5,7 +5,7 @@ date: 2020-04-05 06:28:09
 image: 'https://m.media-amazon.com/images/I/31sJcLS2CbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8H5FW2-es iWork - L-81-855 - Bomba de Agua de Profundidad 1000 w...'
 sku: 'B07L8H5FW2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-22 11:36:33
 image: 'https://m.media-amazon.com/images/I/41A8wkuFBlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MNX5G21-es Palladium 75156 - Botas de Otra Piel Unisex Adulto Marrón...'
 sku: 'B07MNX5G21-es'
 tags: [  ]

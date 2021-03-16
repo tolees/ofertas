@@ -5,7 +5,7 @@ date: 2020-07-29 07:08:08
 image: 'https://m.media-amazon.com/images/I/51qLeJqYlxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T98KN5K-es Blusea Piscina Perros y Gatos Piscina Bañera Plegable PVC...'
 sku: 'B07T98KN5K-es'
 tags: [  ]

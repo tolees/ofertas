@@ -5,7 +5,7 @@ date: 2020-04-18 17:29:42
 image: 'https://m.media-amazon.com/images/I/517nOWdRcCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T9FGYY9-es Buff Breaker Tubular Original Hombre Multi Talla única'
 sku: 'B07T9FGYY9-es'
 tags: [  ]

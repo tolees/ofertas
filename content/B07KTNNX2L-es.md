@@ -5,7 +5,7 @@ date: 2020-06-01 11:51:57
 image: 'https://m.media-amazon.com/images/I/41taM5knd-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTNNX2L-es Evax Liberty Compresas Super Alas - 10 unidades'
 sku: 'B07KTNNX2L-es'
 tags: [  ]

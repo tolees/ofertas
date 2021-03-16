@@ -5,7 +5,7 @@ date: 2020-02-22 03:54:41
 image: 'https://m.media-amazon.com/images/I/316bki97KzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0013CEY0Q-es Fellowes Memory Foam - Reposamuñecas para teclado negro'
 sku: 'B0013CEY0Q-es'
 tags: [  ]

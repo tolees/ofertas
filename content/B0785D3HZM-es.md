@@ -5,7 +5,7 @@ date: 2020-04-20 07:09:10
 image: 'https://m.media-amazon.com/images/I/510LfaAq5BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0785D3HZM-es Tasty Bone Bovino para Asar y Vino Tinto pequeño'
 sku: 'B0785D3HZM-es'
 tags: [  ]

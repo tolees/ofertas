@@ -5,7 +5,7 @@ date: 2020-03-06 10:17:47
 image: 'https://m.media-amazon.com/images/I/41Ym2sLCNGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HB8HFR8-es Funko Capitan Marvel Pop talos Multicolor 36378'
 sku: 'B07HB8HFR8-es'
 tags: [  ]

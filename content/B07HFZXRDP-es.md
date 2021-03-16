@@ -5,7 +5,7 @@ date: 2020-04-14 09:39:38
 image: 'https://m.media-amazon.com/images/I/319L64AiyEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFZXRDP-es New Balance 420 Zapatillas para Mujer Negro Black Black 35 EU'
 sku: 'B07HFZXRDP-es'
 tags: [  ]

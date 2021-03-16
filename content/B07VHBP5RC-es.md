@@ -5,7 +5,7 @@ date: 2020-10-03 08:26:03
 image: 'https://m.media-amazon.com/images/I/41scmc1YLXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHBP5RC-es HOTLIFE Funda iPad Air 3 10.5 2019/iPad Pro 10.5 2017...'
 sku: 'B07VHBP5RC-es'
 tags: [  ]

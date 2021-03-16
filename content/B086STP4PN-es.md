@@ -5,7 +5,7 @@ date: 2020-04-28 18:04:12
 image: 'https://m.media-amazon.com/images/I/3133oGQ8RrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086STP4PN-es Bullpadel BEWER 19 Rojo Negro Naranja'
 sku: 'B086STP4PN-es'
 tags: [  ]

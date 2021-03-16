@@ -5,7 +5,7 @@ date: 2020-08-17 15:09:42
 image: 'https://m.media-amazon.com/images/I/51frv8-g7AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0899MWX4W-es PCTEB Rosas 24K Rosa de la Galaxia Rosas Artificiales...'
 sku: 'B0899MWX4W-es'
 tags: [  ]

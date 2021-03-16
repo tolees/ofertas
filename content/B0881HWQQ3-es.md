@@ -5,7 +5,7 @@ date: 2020-09-07 14:03:23
 image: 'https://m.media-amazon.com/images/I/51g97+qfReL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0881HWQQ3-es Mooness - Funda de piel sintética para Xiaomi Redmi...'
 sku: 'B0881HWQQ3-es'
 tags: [  ]

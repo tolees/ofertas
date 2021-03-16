@@ -5,7 +5,7 @@ date: 2020-06-27 21:53:39
 image: 'https://m.media-amazon.com/images/I/31afh08sSLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVKQLT8-es Wrangler Texas Contrast Hombre Pantalones Beige Sand 58n...'
 sku: 'B07TVKQLT8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-22 09:12:43
 image: 'https://m.media-amazon.com/images/I/41Iv3ticilL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWNDXXF-es Under Armour UNDKU Heatgear Crew Calcetines Unisex adulto...'
 sku: 'B07QWNDXXF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 08:41:43
 image: 'https://m.media-amazon.com/images/I/51uVbVG6NiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FCYMHDZ-es Captain Tsubasa: Rise Of New Champions - Special Edition'
 sku: 'B08FCYMHDZ-es'
 tags: [  ]

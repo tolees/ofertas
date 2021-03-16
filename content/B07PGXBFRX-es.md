@@ -5,7 +5,7 @@ date: 2020-05-06 16:05:27
 image: 'https://m.media-amazon.com/images/I/414MMZ-Ng5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGXBFRX-es LA Active Calcetines Antideslizantes - Para Yoga Pilates...'
 sku: 'B07PGXBFRX-es'
 tags: [  ]

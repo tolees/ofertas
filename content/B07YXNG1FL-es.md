@@ -5,7 +5,7 @@ date: 2020-10-02 11:57:57
 image: 'https://m.media-amazon.com/images/I/312lE+rZhnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YXNG1FL-es Under Armour Challenger III Jacket Hombre para Hacer Ropa...'
 sku: 'B07YXNG1FL-es'
 tags: [  ]

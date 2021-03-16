@@ -5,7 +5,7 @@ date: 2020-08-20 15:20:47
 image: 'https://m.media-amazon.com/images/I/51D3maqjHWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087NR7TQ7-es Set de Regalo de Piedras Refrigerantes para Whisky - 6...'
 sku: 'B087NR7TQ7-es'
 tags: [  ]

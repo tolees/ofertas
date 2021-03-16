@@ -5,7 +5,7 @@ date: 2020-09-12 12:00:52
 image: 'https://m.media-amazon.com/images/I/41glxUW-4uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GQ5MDMS-es 4 pcs Caja para Guardar Mas/carillas - Estuche Rectangular...'
 sku: 'B08GQ5MDMS-es'
 tags: [  ]

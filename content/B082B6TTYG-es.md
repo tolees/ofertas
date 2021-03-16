@@ -5,7 +5,7 @@ date: 2020-04-12 19:35:51
 image: 'https://m.media-amazon.com/images/I/41MFED5jvtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082B6TTYG-es 90ml Original Mujer Quicksand Perfume Fragancia De Flores...'
 sku: 'B082B6TTYG-es'
 tags: [  ]

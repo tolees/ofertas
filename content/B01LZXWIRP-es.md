@@ -5,7 +5,7 @@ date: 2020-03-08 20:02:08
 image: 'https://m.media-amazon.com/images/I/41S+3CJ5lIL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZXWIRP-es Tribe Star Wars - Cable USB Lightning para Apple iPhone...'
 sku: 'B01LZXWIRP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 07:39:35
 image: 'https://m.media-amazon.com/images/I/513bpX2ZFtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVKDZLF-es Ghost in the Shell BD + BD Extras [Blu-ray]'
 sku: 'B07YVKDZLF-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 04:39:03
 image: 'https://m.media-amazon.com/images/I/41tIzpkQeyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X7MGFCU-es Reebok Cl Lthr Zapatillas de Deporte para Hombre Blanco...'
 sku: 'B00X7MGFCU-es'
 tags: [  ]

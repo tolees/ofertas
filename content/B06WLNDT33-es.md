@@ -5,7 +5,7 @@ date: 2020-06-23 17:41:58
 image: 'https://m.media-amazon.com/images/I/51mYuQh0NeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WLNDT33-es La Ciudad De Las Estrellas: La La Land [Blu-ray]'
 sku: 'B06WLNDT33-es'
 tags: [  ]

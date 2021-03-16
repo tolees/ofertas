@@ -5,7 +5,7 @@ date: 2020-01-18 08:17:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419hBKHq0UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082CVX6WR-es 2020 Auriculares inalámbricos Bluetooth actualizados con...'
 sku: 'B082CVX6WR-es'
 tags: [  ]

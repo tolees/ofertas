@@ -5,7 +5,7 @@ date: 2020-06-14 17:08:17
 image: 'https://m.media-amazon.com/images/I/31SoffH9TvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084QFZ94M-es Maksexy Masajeador para Mujer 12 Modos para Relajación de...'
 sku: 'B084QFZ94M-es'
 tags: [  ]

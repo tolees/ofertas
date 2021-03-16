@@ -5,7 +5,7 @@ date: 2020-08-18 08:12:53
 image: 'https://m.media-amazon.com/images/I/51CQDfKBmwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N3U9SPI-es KLIM™ Fusion - Auriculares con micrófono para móvil +...'
 sku: 'B01N3U9SPI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-17 21:51:24
 image: 'https://m.media-amazon.com/images/I/315Rj0glTjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZP8MM5-es Gioseppo 56139 Botas Clasicas para Niños Negro 26 EU'
 sku: 'B07MZP8MM5-es'
 tags: [  ]

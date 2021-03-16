@@ -5,7 +5,7 @@ date: 2020-08-02 23:18:29
 image: 'https://m.media-amazon.com/images/I/51-Xc7gbaAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FM6SKMG-es Mesa para Niños en la Asiento de Coche lenbest Bandeja de...'
 sku: 'B07FM6SKMG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-09 16:03:42
 image: 'https://m.media-amazon.com/images/I/41brh4mIJSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RYL546B-es New Balance 500 Zapatillas para Mujer Rosa Pink Hhe 37.5 EU'
 sku: 'B07RYL546B-es'
 tags: [  ]

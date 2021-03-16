@@ -5,7 +5,7 @@ date: 2020-08-06 13:25:46
 image: 'https://m.media-amazon.com/images/I/51bY1yyvLoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZKZL92-es FOREO UFO mini - Tratamiento de Mascarilla Inteligente...'
 sku: 'B07CZKZL92-es'
 tags: [  ]

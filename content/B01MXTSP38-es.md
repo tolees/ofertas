@@ -5,7 +5,7 @@ date: 2020-07-10 00:31:01
 image: 'https://m.media-amazon.com/images/I/31Ril9qCLTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXTSP38-es Lacoste Lerond BL 2 CAM Zapatillas para Hombre Negro Black...'
 sku: 'B01MXTSP38-es'
 tags: [  ]

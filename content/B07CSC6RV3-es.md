@@ -5,7 +5,7 @@ date: 2020-01-20 20:34:38
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rK-GRhBKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CSC6RV3-es Puma Vikky Platform Ribbon P Zapatillas para Mujer Rosa...'
 sku: 'B07CSC6RV3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-15 16:48:06
 image: 'https://m.media-amazon.com/images/I/41Bbcguz-lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYZ2OQH-es Under Armour W Thrill 3 1295770-001 Zapatillas de...'
 sku: 'B01MYZ2OQH-es'
 tags: [  ]

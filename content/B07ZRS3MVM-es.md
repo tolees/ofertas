@@ -5,7 +5,7 @@ date: 2020-06-01 09:02:39
 image: 'https://m.media-amazon.com/images/I/41WOYs8X79L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRS3MVM-es Suhctup Funda Reemplazo para Huawei Mate 10 Cubierta Flip...'
 sku: 'B07ZRS3MVM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 10:04:00
 image: 'https://m.media-amazon.com/images/I/41ouMd35heL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H54MSN6-es WOWLIVE - Cesta para la Ropa Sucia tamaño Grande con...'
 sku: 'B07H54MSN6-es'
 tags: [  ]

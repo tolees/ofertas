@@ -5,7 +5,7 @@ date: 2020-05-16 17:46:12
 image: 'https://m.media-amazon.com/images/I/41UrqD+YBnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077QLXGWM-es Salcar Carcasa Box Externa para Disco Duro USB 3.0 a SATA...'
 sku: 'B077QLXGWM-es'
 tags: [  ]

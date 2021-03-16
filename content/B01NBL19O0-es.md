@@ -5,7 +5,7 @@ date: 2020-01-01 20:26:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wivS-ZRkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBL19O0-es Merrell Moab Adventure Lace Zapatillas de Senderismo para...'
 sku: 'B01NBL19O0-es'
 tags: [  ]

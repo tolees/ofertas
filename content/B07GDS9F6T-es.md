@@ -5,7 +5,7 @@ date: 2020-03-03 19:37:34
 image: 'https://m.media-amazon.com/images/I/41x2LtGde6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDS9F6T-es VARLION Funda SUMMUM Pro Gris'
 sku: 'B07GDS9F6T-es'
 tags: [  ]

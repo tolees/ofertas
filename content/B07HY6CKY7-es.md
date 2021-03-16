@@ -5,7 +5,7 @@ date: 2020-09-26 16:27:42
 image: 'https://m.media-amazon.com/images/I/51YVOydUB0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HY6CKY7-es Rowenta Perfect Steam Pro DG8642F0 - Centro de planchado...'
 sku: 'B07HY6CKY7-es'
 tags: [  ]

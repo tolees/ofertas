@@ -5,7 +5,7 @@ date: 2020-02-20 23:34:24
 image: 'https://m.media-amazon.com/images/I/41mvpdk70AL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCHSC34-es Buff Karlin Mardi Grape Tubular Polar Mujer Talla única'
 sku: 'B07TCHSC34-es'
 tags: [  ]

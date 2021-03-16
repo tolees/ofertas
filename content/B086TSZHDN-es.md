@@ -5,7 +5,7 @@ date: 2020-09-30 17:25:18
 image: 'https://m.media-amazon.com/images/I/51ZNXaQ6YiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086TSZHDN-es Aorula 48 Colores Air Dry Clay Arcilla de Modelado...'
 sku: 'B086TSZHDN-es'
 tags: [  ]

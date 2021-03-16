@@ -5,7 +5,7 @@ date: 2020-02-29 14:27:15
 image: 'https://m.media-amazon.com/images/I/41XQUNfdloL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C28HBDF-es JACK & JONES Jjipaul Jjflake AKM 542 Olive Night Noos...'
 sku: 'B07C28HBDF-es'
 tags: [  ]

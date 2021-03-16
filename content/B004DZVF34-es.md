@@ -5,7 +5,7 @@ date: 2020-01-06 10:39:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31SUU9bk7EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004DZVF34-es Bresser Messier AR-90/900 EXOS1/EQ4 Telescopio'
 sku: 'B004DZVF34-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-31 13:46:05
 image: 'https://m.media-amazon.com/images/I/41tk7wNSprL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089YW9CT4-es DOHUI Funda para Xiaomi Redmi 10X Pro 5G Silicona Suave...'
 sku: 'B089YW9CT4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-06 13:23:38
 image: 'https://m.media-amazon.com/images/I/51lvanzfn9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXC927T-es Plumas de Ganso 250 pcs Blanco Natural Plumas de Gallo...'
 sku: 'B07BXC927T-es'
 tags: [  ]

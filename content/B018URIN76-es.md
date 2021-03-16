@@ -5,7 +5,7 @@ date: 2020-09-13 10:17:36
 image: 'https://m.media-amazon.com/images/I/41B9+xHuAeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018URIN76-es Shiseido Bio-Performance Glow Revival Crema - 50 ml...'
 sku: 'B018URIN76-es'
 tags: [  ]

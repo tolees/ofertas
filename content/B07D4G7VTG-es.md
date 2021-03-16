@@ -5,7 +5,7 @@ date: 2020-07-02 07:35:36
 image: 'https://m.media-amazon.com/images/I/51kQrN-4fCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4G7VTG-es Linterna LED Thorfire Q8 Linterna Súper Brillante BLF 5000...'
 sku: 'B07D4G7VTG-es'
 tags: [  ]

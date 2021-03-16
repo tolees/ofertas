@@ -5,7 +5,7 @@ date: 2020-01-29 08:49:10
 image: 'https://m.media-amazon.com/images/I/41244vpoo3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVH1ZW1-es KLIM™ Talk – Micrófono USB de Escritorio para PC y Mac –...'
 sku: 'B07PVH1ZW1-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 11:16:36
 image: 'https://m.media-amazon.com/images/I/51Y3pLjmo3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07576NTQM-es Garmin Forerunner 30 - Reloj de carrera con GPS y sensor...'
 sku: 'B07576NTQM-es'
 tags: [  ]

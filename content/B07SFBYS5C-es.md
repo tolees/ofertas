@@ -5,7 +5,7 @@ date: 2020-04-24 19:40:49
 image: 'https://m.media-amazon.com/images/I/41+qvXhlpYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFBYS5C-es Homvik Mosquitera Universal Antimosquitos para Bebé Red...'
 sku: 'B07SFBYS5C-es'
 tags: [  ]

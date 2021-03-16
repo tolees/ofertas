@@ -5,7 +5,7 @@ date: 2020-04-05 09:27:01
 image: 'https://m.media-amazon.com/images/I/41ZDiDZ+PSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079ZYLNBF-es VAIRO Short Columns Negro XXL'
 sku: 'B079ZYLNBF-es'
 tags: [  ]

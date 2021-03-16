@@ -5,7 +5,7 @@ date: 2020-10-03 05:51:33
 image: 'https://m.media-amazon.com/images/I/31WWaTeo0WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QLMBDX-es PIKOLINOS Botín de Piel Royal W4D'
 sku: 'B075QLMBDX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 15:38:26
 image: 'https://m.media-amazon.com/images/I/31xpE+wpvuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C5FFZZ5-es Sandalia Plataforma para Mujer'
 sku: 'B08C5FFZZ5-es'
 tags: [  ]

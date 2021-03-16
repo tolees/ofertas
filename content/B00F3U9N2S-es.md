@@ -5,7 +5,7 @@ date: 2020-05-02 15:02:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51RPKjx2EJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F3U9N2S-es Iron Man 2 [DVD]'
 sku: 'B00F3U9N2S-es'
 tags: [  ]

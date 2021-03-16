@@ -5,7 +5,7 @@ date: 2020-08-16 09:43:11
 image: 'https://m.media-amazon.com/images/I/51icimWJamL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FF5Z9M8-es Bestway 43185 - Helado Hinchable Pop Art 188x95 cm'
 sku: 'B07FF5Z9M8-es'
 tags: [  ]

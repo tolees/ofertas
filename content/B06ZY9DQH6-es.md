@@ -5,7 +5,7 @@ date: 2019-12-31 17:17:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jm8sn1MLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZY9DQH6-es ZENBRE Altavoz Bluetooth Z4 Parlante Estéreo Inalámbrico...'
 sku: 'B06ZY9DQH6-es'
 tags: [  ]

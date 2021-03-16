@@ -5,7 +5,7 @@ date: 2020-04-24 14:57:19
 image: 'https://m.media-amazon.com/images/I/41raWg1OAwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWKTYQP-es SkinXmed Crema Glúteos y Muslos | Reafirmante +...'
 sku: 'B07VWKTYQP-es'
 tags: [  ]

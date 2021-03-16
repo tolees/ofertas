@@ -5,7 +5,7 @@ date: 2020-03-30 12:49:58
 image: 'https://m.media-amazon.com/images/I/31ltNe2R4pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHY16Q4-es Under Armour Men s Charged Assert 8 Ltd Laufschuhe...'
 sku: 'B07RHY16Q4-es'
 tags: [  ]

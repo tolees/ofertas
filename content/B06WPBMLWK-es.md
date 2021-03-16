@@ -5,7 +5,7 @@ date: 2020-07-04 08:03:16
 image: 'https://m.media-amazon.com/images/I/41wCqrOrTxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WPBMLWK-es Cable USB-A 2.0 a USB Tipo C Certificado USB-IF con Forro...'
 sku: 'B06WPBMLWK-es'
 tags: [  ]

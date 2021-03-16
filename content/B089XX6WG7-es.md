@@ -5,7 +5,7 @@ date: 2020-07-17 11:26:15
 image: 'https://m.media-amazon.com/images/I/51M4G6d0MSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089XX6WG7-es Opret Cubiteras para Hielo Silicona 2 pcs Cubitos de Hielo...'
 sku: 'B089XX6WG7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 10:51:44
 image: 'https://m.media-amazon.com/images/I/41wSSKzPgcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0191TGYG4-es Cartulinas Colores'
 sku: 'B0191TGYG4-es'
 tags: [  ]

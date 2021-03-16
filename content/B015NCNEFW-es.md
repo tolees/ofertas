@@ -5,7 +5,7 @@ date: 2020-04-18 02:01:18
 image: 'https://m.media-amazon.com/images/I/614RYgCc5VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015NCNEFW-es DCCN Carcasa para portátiles Alfombrilla de ratón de...'
 sku: 'B015NCNEFW-es'
 tags: [  ]

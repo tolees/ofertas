@@ -5,7 +5,7 @@ date: 2020-09-14 20:08:27
 image: 'https://m.media-amazon.com/images/I/41zNnRJEKcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GLMLX8G-es SNUNGPHIR® 4pcs Protector de Pantalla para Xiaomi Mi Band...'
 sku: 'B08GLMLX8G-es'
 tags: [  ]

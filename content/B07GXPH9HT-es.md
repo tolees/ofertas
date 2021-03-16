@@ -5,7 +5,7 @@ date: 2020-06-17 08:16:09
 image: 'https://m.media-amazon.com/images/I/51Qez0CrDTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXPH9HT-es SOLEDI Fieltro Manualidades Tela no Tejido de Lana 41...'
 sku: 'B07GXPH9HT-es'
 tags: [  ]

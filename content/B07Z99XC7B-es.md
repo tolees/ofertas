@@ -5,7 +5,7 @@ date: 2020-09-16 17:03:28
 image: 'https://m.media-amazon.com/images/I/5173T6oEsxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z99XC7B-es SOOPSON Alfombrilla para ratón Gaming Alfombrilla de Gel...'
 sku: 'B07Z99XC7B-es'
 tags: [  ]

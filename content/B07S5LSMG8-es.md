@@ -5,7 +5,7 @@ date: 2020-06-25 08:58:48
 image: 'https://m.media-amazon.com/images/I/41viYARlYtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5LSMG8-es New Balance 574v2 Zapatillas para Mujer Azul Navy Soc 36 EU'
 sku: 'B07S5LSMG8-es'
 tags: [  ]

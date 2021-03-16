@@ -5,7 +5,7 @@ date: 2020-06-07 16:10:58
 image: 'https://m.media-amazon.com/images/I/31jvgWPVcIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001KL18FO-es Moulinex Vitae JU200045 - Licuadoras para Verduras y...'
 sku: 'B001KL18FO-es'
 tags: [  ]

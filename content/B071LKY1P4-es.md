@@ -5,7 +5,7 @@ date: 2020-08-25 03:21:43
 image: 'https://m.media-amazon.com/images/I/41wDcAW6J3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LKY1P4-es Pack Bones Temporada 1-12 [DVD]'
 sku: 'B071LKY1P4-es'
 tags: [  ]

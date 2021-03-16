@@ -5,7 +5,7 @@ date: 2020-09-21 09:02:54
 image: 'https://m.media-amazon.com/images/I/51cZ2U9NheL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076V4DQMB-es Kayond Forest Series Funda para portátil de 11" a 17"...'
 sku: 'B076V4DQMB-es'
 tags: [  ]

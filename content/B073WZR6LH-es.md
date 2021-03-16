@@ -5,7 +5,7 @@ date: 2020-01-11 19:14:32
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kT3oPGKtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073WZR6LH-es find. Mdr 40444 vestidos mujer Mujer Rojo Red Mehrfarbig...'
 sku: 'B073WZR6LH-es'
 tags: [  ]

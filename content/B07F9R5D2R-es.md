@@ -5,7 +5,7 @@ date: 2020-03-05 09:44:32
 image: 'https://m.media-amazon.com/images/I/31A6rkgAAKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9R5D2R-es adidas 3Mc Zapatillas de Skateboard Unisex Adulto Negro...'
 sku: 'B07F9R5D2R-es'
 tags: [  ]

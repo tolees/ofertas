@@ -5,7 +5,7 @@ date: 2020-06-07 03:49:07
 image: 'https://m.media-amazon.com/images/I/413eW7wHYLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCWGX6G-es WMF 778046380 Vario Cuisine-Batería de Cocina de 4 Piezas...'
 sku: 'B07DCWGX6G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-08 19:34:03
 image: 'https://m.media-amazon.com/images/I/61ppc5YJ+9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0743GXJ6T-es Iberitos - Crema de Iberico al Pedro Ximénez - Bandeja de...'
 sku: 'B0743GXJ6T-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-25 16:56:01
 image: 'https://m.media-amazon.com/images/I/41rvd+ZcaGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NDA9QZY-es Compex Wireless Fit 5.0 Electroestimulador Unisex Azul'
 sku: 'B00NDA9QZY-es'
 tags: [  ]

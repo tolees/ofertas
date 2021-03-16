@@ -5,7 +5,7 @@ date: 2020-01-27 21:20:46
 image: 'https://m.media-amazon.com/images/I/410xr3bGF0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L97TTQF-es Under Armour UNDKU Rival Fleece FZ Parte Superior del...'
 sku: 'B07L97TTQF-es'
 tags: [  ]

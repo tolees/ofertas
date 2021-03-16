@@ -5,7 +5,7 @@ date: 2020-09-12 17:10:14
 image: 'https://m.media-amazon.com/images/I/314XZecK+fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPMRRB5-es Camper Damen Alright Pumps Pink Black 1 35 EU'
 sku: 'B07BPMRRB5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-29 10:02:13
 image: 'https://m.media-amazon.com/images/I/51TDbfLu--L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N39JTJQ-es QITAYO Funda Huawei P30 Pro de Tup Suave Carcasa...'
 sku: 'B07N39JTJQ-es'
 tags: [  ]

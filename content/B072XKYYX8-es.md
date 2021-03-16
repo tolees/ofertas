@@ -5,7 +5,7 @@ date: 2020-08-17 12:22:23
 image: 'https://m.media-amazon.com/images/I/41jVFz5U9ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072XKYYX8-es Tural - Protector de colchón Impermeable y transpirable....'
 sku: 'B072XKYYX8-es'
 tags: [  ]

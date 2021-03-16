@@ -5,7 +5,7 @@ date: 2020-08-09 17:31:28
 image: 'https://m.media-amazon.com/images/I/41hAX44lfIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085WR4KJB-es IDEASY Actualice la Tableta de Escritura LCD de Borrado...'
 sku: 'B085WR4KJB-es'
 tags: [  ]

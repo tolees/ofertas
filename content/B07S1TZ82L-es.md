@@ -5,7 +5,7 @@ date: 2020-05-17 19:32:04
 image: 'https://m.media-amazon.com/images/I/41+IPOu5IXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1TZ82L-es OurLeeme Scooter Bolsa de Almacenamiento Bolsa Delantera...'
 sku: 'B07S1TZ82L-es'
 tags: [  ]

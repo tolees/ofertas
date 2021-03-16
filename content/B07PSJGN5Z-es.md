@@ -5,7 +5,7 @@ date: 2020-04-20 10:26:43
 image: 'https://m.media-amazon.com/images/I/41qS4OmAEsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJGN5Z-es Kipling - Multiple Bolsos bandolera Mujer Multicolor Camo...'
 sku: 'B07PSJGN5Z-es'
 tags: [  ]

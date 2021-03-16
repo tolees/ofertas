@@ -5,7 +5,7 @@ date: 2020-01-06 05:01:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41-wx3nTi2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XJP45YG-es Fullmosa Correa Compatible de Acero Inoxidable y Desmontar...'
 sku: 'B07XJP45YG-es'
 tags: [  ]

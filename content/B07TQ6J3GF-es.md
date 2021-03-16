@@ -5,7 +5,7 @@ date: 2020-06-19 11:02:20
 image: 'https://m.media-amazon.com/images/I/41tVjIL6gmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ6J3GF-es Cocoty-store Pantalones 2019 Pantalones Hombre Verano...'
 sku: 'B07TQ6J3GF-es'
 tags: [  ]

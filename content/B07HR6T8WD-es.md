@@ -5,7 +5,7 @@ date: 2020-01-23 00:01:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41h0EekQUQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HR6T8WD-es Radio de Coche Rixow Autoradio FM Estéreo Bluetooth 60W*4...'
 sku: 'B07HR6T8WD-es'
 tags: [  ]

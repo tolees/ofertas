@@ -5,7 +5,7 @@ date: 2020-01-20 09:32:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hnh1u%2BAjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078KP6K7S-es CASALS VBLI12 - Taladro Atornillador con batería de Litio...'
 sku: 'B078KP6K7S-es'
 tags: [  ]

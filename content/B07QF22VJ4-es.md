@@ -5,7 +5,7 @@ date: 2020-06-01 03:03:38
 image: 'https://m.media-amazon.com/images/I/51aaf8tzhRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QF22VJ4-es WOTEK Conjunto de bandas de aptitud bandas de...'
 sku: 'B07QF22VJ4-es'
 tags: [  ]

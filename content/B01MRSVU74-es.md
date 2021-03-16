@@ -5,7 +5,7 @@ date: 2020-09-26 11:35:04
 image: 'https://m.media-amazon.com/images/I/41ykBEki50L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MRSVU74-es Braun MGK3060 Corta Barbas Hombre 8En1 Recortadora Barba y...'
 sku: 'B01MRSVU74-es'
 tags: [  ]

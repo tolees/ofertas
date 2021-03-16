@@ -5,7 +5,7 @@ date: 2020-06-29 20:26:50
 image: 'https://m.media-amazon.com/images/I/51L0oJD7u0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGJ9DW4-es Funda iPhone XR Fundas iPhone XR Libro Carcasa iPhoneXR...'
 sku: 'B07LGJ9DW4-es'
 tags: [  ]

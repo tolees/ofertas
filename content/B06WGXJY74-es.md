@@ -5,7 +5,7 @@ date: 2020-07-23 11:37:07
 image: 'https://m.media-amazon.com/images/I/31U8C8O7E+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGXJY74-es Bosch TAT7203 Tostador Compacto de Acero Inoxidable 2...'
 sku: 'B06WGXJY74-es'
 tags: [  ]

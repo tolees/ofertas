@@ -5,7 +5,7 @@ date: 2020-05-27 10:29:33
 image: 'https://m.media-amazon.com/images/I/3148hkq0vcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZRPTV58-es Astor Perfect Stay 16H Barra de Labios de Larga Duración...'
 sku: 'B00ZRPTV58-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 15:32:58
 image: 'https://m.media-amazon.com/images/I/41c6J6phvQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ZBUY78-es Seiko Reloj Analógico Automático para Mujer con Correa de...'
 sku: 'B000ZBUY78-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 13:29:16
 image: 'https://m.media-amazon.com/images/I/414dmpo9bmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHMQ9D2-es Tubbz - Destiny Sweeperbot'
 sku: 'B07WHMQ9D2-es'
 tags: [  ]

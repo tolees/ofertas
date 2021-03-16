@@ -5,7 +5,7 @@ date: 2020-04-16 08:59:06
 image: 'https://m.media-amazon.com/images/I/51-zJfIc+jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGVG5RC-es Tian 19Pcs Kit Herramientas de Desmontaje Coche Interior...'
 sku: 'B07GGVG5RC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-01 20:22:02
 image: 'https://m.media-amazon.com/images/I/41B+h2vpx8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQ2ZS6-es Pepe Jeans London Koko Sky Zapatillas para Mujer Stone 856...'
 sku: 'B07MZQ2ZS6-es'
 tags: [  ]

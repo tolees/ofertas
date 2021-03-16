@@ -5,7 +5,7 @@ date: 2020-01-23 19:23:54
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41flivCS4HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y1LK7LL-es Soporte de aluminio universal Zice para proyector para...'
 sku: 'B06Y1LK7LL-es'
 tags: [  ]

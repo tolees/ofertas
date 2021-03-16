@@ -5,7 +5,7 @@ date: 2020-03-21 16:57:29
 image: 'https://m.media-amazon.com/images/I/41jwSWnp0UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZTWLGVV-es Nike Jordan Jumpman 2020 Zapatillas de básquetbol para...'
 sku: 'B07ZTWLGVV-es'
 tags: [  ]

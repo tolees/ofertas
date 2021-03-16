@@ -5,7 +5,7 @@ date: 2020-07-18 13:10:12
 image: 'https://m.media-amazon.com/images/I/31BETwGItzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D2FXQXY-es Levi s 502 Regular Taper Jeans Azul Headed South 0279 31W...'
 sku: 'B07D2FXQXY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-16 18:45:40
 image: 'https://m.media-amazon.com/images/I/41XnazSZbUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08317VLTJ-es 40G Tamaño pequeño Hogar Hotel Baño Baño Bola de sal Bomba...'
 sku: 'B08317VLTJ-es'
 tags: [  ]

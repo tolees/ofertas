@@ -5,7 +5,7 @@ date: 2020-02-04 16:12:20
 image: 'https://m.media-amazon.com/images/I/41cLudUlOqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082SFRSP6-es Auriculares inalámbricos Bluetooth Micrófono con...'
 sku: 'B082SFRSP6-es'
 tags: [  ]

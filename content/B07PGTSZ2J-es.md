@@ -5,7 +5,7 @@ date: 2020-07-20 10:24:39
 image: 'https://m.media-amazon.com/images/I/31abRv7womL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGTSZ2J-es Lenovo D24f - Monitor de 23.6" Pantalla Full HD 1920 x...'
 sku: 'B07PGTSZ2J-es'
 tags: [  ]

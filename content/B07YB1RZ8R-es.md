@@ -5,7 +5,7 @@ date: 2020-04-04 05:20:04
 image: 'https://m.media-amazon.com/images/I/51j-DPO0YGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YB1RZ8R-es WinWonder Kit de Arcilla de Modelado 24 Colores de Arcilla...'
 sku: 'B07YB1RZ8R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 00:54:00
 image: 'https://m.media-amazon.com/images/I/21XL0VjM0oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K34LJGX-es Bolsas de plástico resellables bolsa sellada bolsa de...'
 sku: 'B07K34LJGX-es'
 tags: [  ]

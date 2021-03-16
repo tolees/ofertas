@@ -5,7 +5,7 @@ date: 2020-10-08 22:38:37
 image: 'https://m.media-amazon.com/images/I/41VAHfaBP+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HH1C6TC-es KUTOOK Pantalones Trekking Hombre Softshell Impermeables y...'
 sku: 'B08HH1C6TC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-14 22:30:21
 image: 'https://m.media-amazon.com/images/I/31G3GoFVZTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GT08USE-es Victoria S Secret Mango Temptation Body Mist 250 Ml - 250 ml.'
 sku: 'B00GT08USE-es'
 tags: [  ]

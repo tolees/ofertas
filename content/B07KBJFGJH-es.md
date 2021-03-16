@@ -5,7 +5,7 @@ date: 2020-04-16 00:06:57
 image: 'https://m.media-amazon.com/images/I/51xmb8z9B1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBJFGJH-es Funko- 5 Star: Aladdin: Jasmine 5 Estrellas Multicolor...'
 sku: 'B07KBJFGJH-es'
 tags: [  ]

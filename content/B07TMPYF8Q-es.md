@@ -5,7 +5,7 @@ date: 2020-03-11 20:39:36
 image: 'https://m.media-amazon.com/images/I/31bBWPiKaXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMPYF8Q-es Nuevo 8 Cnady Colors Stylus Pen Crystal 2 in1 Pantalla...'
 sku: 'B07TMPYF8Q-es'
 tags: [  ]

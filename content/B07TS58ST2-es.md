@@ -5,7 +5,7 @@ date: 2020-06-20 19:56:58
 image: 'https://m.media-amazon.com/images/I/61bQqz9TgvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS58ST2-es 24x Color de la mezcla Lámina impresa 2d PEGATINAS lisas...'
 sku: 'B07TS58ST2-es'
 tags: [  ]

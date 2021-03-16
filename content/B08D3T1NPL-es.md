@@ -5,7 +5,7 @@ date: 2020-09-22 18:01:05
 image: 'https://m.media-amazon.com/images/I/51IK5vel5IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3T1NPL-es Panamar Negro Diseño portátil USB Hembra a Mini 5P USB B...'
 sku: 'B08D3T1NPL-es'
 tags: [  ]

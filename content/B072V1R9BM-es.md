@@ -5,7 +5,7 @@ date: 2020-04-25 09:29:02
 image: 'https://m.media-amazon.com/images/I/414s+kN5EfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072V1R9BM-es CtopoGo Pantalones Cortos de Deporte 2 en 1 para Mujer...'
 sku: 'B072V1R9BM-es'
 tags: [  ]

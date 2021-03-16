@@ -5,7 +5,7 @@ date: 2020-08-22 14:54:08
 image: 'https://m.media-amazon.com/images/I/41Kv1jGziTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BVVGF9P-es Proficare BHT 3015 - Set de Cortapelo afeitadora corporal...'
 sku: 'B07BVVGF9P-es'
 tags: [  ]

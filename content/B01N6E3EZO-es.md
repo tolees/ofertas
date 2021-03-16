@@ -5,7 +5,7 @@ date: 2020-09-05 08:22:52
 image: 'https://m.media-amazon.com/images/I/31KlLwCJhGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6E3EZO-es Lenovo Ideacentre AIO 910-27ISH - Ordenador de sobremesa...'
 sku: 'B01N6E3EZO-es'
 tags: [  ]

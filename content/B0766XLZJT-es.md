@@ -5,7 +5,7 @@ date: 2020-08-09 00:18:53
 image: 'https://m.media-amazon.com/images/I/41-pcrNli1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0766XLZJT-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B0766XLZJT-es'
 tags: [  ]

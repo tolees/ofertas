@@ -5,7 +5,7 @@ date: 2020-09-19 12:30:31
 image: 'https://m.media-amazon.com/images/I/51UWrIiTkRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYLN4KJ-es Hode Vinilos Decorativos Actualización Grano Madera Vinilo...'
 sku: 'B07KYLN4KJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-27 04:14:53
 image: 'https://m.media-amazon.com/images/I/413nDlbvjmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BYW98S-es Funko - Pop! Vinilo Colección Liga de la Justicia - Figura...'
 sku: 'B072BYW98S-es'
 tags: [  ]

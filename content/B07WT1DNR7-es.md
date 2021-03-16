@@ -5,7 +5,7 @@ date: 2020-08-26 21:23:13
 image: 'https://m.media-amazon.com/images/I/41A450PqXrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WT1DNR7-es Onnea 7 Pares de Pendientes con Clip para Ni?as Bebes Flor...'
 sku: 'B07WT1DNR7-es'
 tags: [  ]

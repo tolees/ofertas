@@ -5,7 +5,7 @@ date: 2020-07-20 09:08:15
 image: 'https://m.media-amazon.com/images/I/51v-vgi9eOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5Z16JB-es Wehouseware Ventilador de sobremesa con Reloj y...'
 sku: 'B07P5Z16JB-es'
 tags: [  ]

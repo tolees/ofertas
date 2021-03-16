@@ -5,7 +5,7 @@ date: 2020-01-26 09:24:22
 image: 'https://m.media-amazon.com/images/I/41uz4m37Q7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T7VFQ8-es Columbia Childrens Rope Tow III Waterproof Botas de Nieve...'
 sku: 'B078T7VFQ8-es'
 tags: [  ]

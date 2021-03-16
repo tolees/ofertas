@@ -5,7 +5,7 @@ date: 2020-05-31 14:03:22
 image: 'https://m.media-amazon.com/images/I/21fSAFhk1fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DSYT86B-es ISDIN FOTOPROTECTOR PEDIATRICS EXTREM SPF50+ LOCION SPRAY...'
 sku: 'B07DSYT86B-es'
 tags: [  ]

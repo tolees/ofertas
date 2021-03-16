@@ -5,7 +5,7 @@ date: 2020-10-01 09:08:01
 image: 'https://m.media-amazon.com/images/I/41IEQYtu0TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6JK2FB-es Russell Hobbs Velocity Pro - Batidora de vaso 1000W jarra...'
 sku: 'B07W6JK2FB-es'
 tags: [  ]

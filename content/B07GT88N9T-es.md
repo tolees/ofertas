@@ -5,7 +5,7 @@ date: 2020-01-03 20:12:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ag-ZHKfML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GT88N9T-es Desigual - Bag Clio London Women Shoppers y bolsos de...'
 sku: 'B07GT88N9T-es'
 tags: [  ]

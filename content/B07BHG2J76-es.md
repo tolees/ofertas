@@ -5,7 +5,7 @@ date: 2020-03-08 11:15:24
 image: 'https://m.media-amazon.com/images/I/31Pu2DHabnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHG2J76-es Suhu Taburete De Almacenamiento Banco Puff Asiento Lino...'
 sku: 'B07BHG2J76-es'
 tags: [  ]

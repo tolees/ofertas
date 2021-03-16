@@ -5,7 +5,7 @@ date: 2020-04-16 18:17:48
 image: 'https://m.media-amazon.com/images/I/41nos7lD-sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZGT4ZZ-es Yizhet 50 piezas Imanes de nevera de cilindro de neodimio...'
 sku: 'B083ZGT4ZZ-es'
 tags: [  ]

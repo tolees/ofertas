@@ -5,7 +5,7 @@ date: 2020-02-13 14:50:32
 image: 'https://m.media-amazon.com/images/I/616sbtLYV9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWWVGN4-es IMC Toys IMC Toys-96073 Lovely Tresse Trenza-Decora Pelo...'
 sku: 'B06XWWVGN4-es'
 tags: [  ]

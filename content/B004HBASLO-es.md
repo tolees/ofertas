@@ -5,7 +5,7 @@ date: 2020-09-26 19:40:11
 image: 'https://m.media-amazon.com/images/I/21MET4bllUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004HBASLO-es Kensington Anclaje de Seguridad ClickSafe Bloqueo T:Bar...'
 sku: 'B004HBASLO-es'
 tags: [  ]

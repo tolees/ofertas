@@ -5,7 +5,7 @@ date: 2020-03-27 11:53:50
 image: 'https://m.media-amazon.com/images/I/418l62KyXyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXXKKNE-es Panasonic Lumix DMC-FZ2000- Cámara digital híbrida de 20.1...'
 sku: 'B01LXXKKNE-es'
 tags: [  ]

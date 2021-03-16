@@ -5,7 +5,7 @@ date: 2020-01-23 06:08:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YLIrf2QZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073SZDXBX-es bollé 31497 Juliet Cascos de Esquí Mujer Negro Black Rose...'
 sku: 'B073SZDXBX-es'
 tags: [  ]

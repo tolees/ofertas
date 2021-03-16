@@ -5,7 +5,7 @@ date: 2020-03-13 14:16:35
 image: 'https://m.media-amazon.com/images/I/41d8xeLhCXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SKTA9O0-es Smartshake SmartShake Signature Series Phil Heath Standard...'
 sku: 'B00SKTA9O0-es'
 tags: [  ]

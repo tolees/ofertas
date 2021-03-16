@@ -5,7 +5,7 @@ date: 2020-01-13 06:52:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hzgLTq0EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVLD827-es Bestlife- Equipaje- Maletas Color negro Safta 641989808'
 sku: 'B07YVLD827-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-28 08:10:07
 image: 'https://m.media-amazon.com/images/I/41Ley52kmqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007PYBNSC-es SanDisk SDCZ50-032G-FFP 32 GB Cruzer Blade Flash Drive -...'
 sku: 'B007PYBNSC-es'
 tags: [  ]

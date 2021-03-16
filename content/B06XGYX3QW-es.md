@@ -5,7 +5,7 @@ date: 2020-03-19 13:25:00
 image: 'https://m.media-amazon.com/images/I/41uHoXroPfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XGYX3QW-es Funko Vinyl: Valerian: Doghan Daguis 10 cm 14336'
 sku: 'B06XGYX3QW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-18 23:17:39
 image: 'https://m.media-amazon.com/images/I/41IAULf-FLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5CH3SS-es Love MoschinoJc4054pp1aMujerBolsos bandoleraMarfil Avorio...'
 sku: 'B07S5CH3SS-es'
 tags: [  ]

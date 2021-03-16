@@ -5,7 +5,7 @@ date: 2020-03-09 08:31:51
 image: 'https://m.media-amazon.com/images/I/41UXstD8YkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZLNJ46-es Under Armour Playoff 2.0 Polo Hombre Negro...'
 sku: 'B07CZLNJ46-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-15 07:36:59
 image: 'https://m.media-amazon.com/images/I/51sXco47L5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PLGYV2-es fullmark multiusos pegamento lavable escuela oficina no...'
 sku: 'B074PLGYV2-es'
 tags: [  ]

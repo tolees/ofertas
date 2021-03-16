@@ -5,7 +5,7 @@ date: 2020-01-11 21:22:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41e4HerAANL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VR1H23C-es Nike Renew Lucent GS Zapatillas Unisex Niños Negro...'
 sku: 'B07VR1H23C-es'
 tags: [  ]

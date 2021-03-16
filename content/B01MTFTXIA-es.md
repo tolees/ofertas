@@ -5,7 +5,7 @@ date: 2020-07-11 16:35:59
 image: 'https://m.media-amazon.com/images/I/315TJu6rW1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTFTXIA-es Brother QL-800 - Impresora de Etiquetas USB 2.0 Cortador...'
 sku: 'B01MTFTXIA-es'
 tags: [  ]

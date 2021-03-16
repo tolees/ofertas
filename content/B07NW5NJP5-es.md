@@ -5,7 +5,7 @@ date: 2020-01-23 20:08:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/417VscOi6tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW5NJP5-es Skechers Envy-Good Thinking Zapatillas para Mujer Azul...'
 sku: 'B07NW5NJP5-es'
 tags: [  ]

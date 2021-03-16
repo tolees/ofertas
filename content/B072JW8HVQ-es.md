@@ -5,7 +5,7 @@ date: 2020-10-04 08:15:29
 image: 'https://m.media-amazon.com/images/I/51aHGZPbfWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JW8HVQ-es Cesta Picnic de Masha y el Oso con 21 accesorios Smoby 310564'
 sku: 'B072JW8HVQ-es'
 tags: [  ]

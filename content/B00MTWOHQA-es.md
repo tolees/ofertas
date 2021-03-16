@@ -5,7 +5,7 @@ date: 2020-02-01 04:04:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51aSG2f8ZgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MTWOHQA-es Timex Reloj de Pulsera T49983'
 sku: 'B00MTWOHQA-es'
 tags: [  ]

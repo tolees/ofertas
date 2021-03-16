@@ -5,7 +5,7 @@ date: 2020-08-30 17:03:14
 image: 'https://m.media-amazon.com/images/I/510gl+xmWRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FZ32XQX-es LXHGrowH Funda para Xiaomi Redmi 9A - Carcasa Completa...'
 sku: 'B08FZ32XQX-es'
 tags: [  ]

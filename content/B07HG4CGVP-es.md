@@ -5,7 +5,7 @@ date: 2020-02-11 09:46:17
 image: 'https://m.media-amazon.com/images/I/41JX35Jz85L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG4CGVP-es New Balance 373 Zapatillas para Mujer Azul Navy Navy 35 EU'
 sku: 'B07HG4CGVP-es'
 tags: [  ]

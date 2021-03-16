@@ -5,7 +5,7 @@ date: 2020-08-07 21:33:14
 image: 'https://m.media-amazon.com/images/I/51wzt6LN3bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3M9BCG-es Kipling PALMBEACH Bolsa de Viaje 23 cm 7 Liters Negro...'
 sku: 'B07V3M9BCG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 22:24:06
 image: 'https://m.media-amazon.com/images/I/41yD6b7LZiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFLD441-es Emporio Armani Smartwatch ART3030'
 sku: 'B07FFLD441-es'
 tags: [  ]

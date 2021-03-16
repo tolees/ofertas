@@ -5,7 +5,7 @@ date: 2020-05-06 08:17:37
 image: 'https://m.media-amazon.com/images/I/51pBOU3mCsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868N9HDP-es Suhctup Transparente Funda Compatible con OnePlus 5...'
 sku: 'B0868N9HDP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-03 18:45:52
 image: 'https://m.media-amazon.com/images/I/41jUCJGwChL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089YVDMLV-es DOHUI Funda para Motorola Moto G Fast Silicona Suave TPU...'
 sku: 'B089YVDMLV-es'
 tags: [  ]

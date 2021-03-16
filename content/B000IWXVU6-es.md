@@ -5,7 +5,7 @@ date: 2020-02-03 07:55:12
 image: 'https://m.media-amazon.com/images/I/51ar4640RlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000IWXVU6-es Energizer 626177 - Pilas Recargables NiMh 9 V 175 mAh'
 sku: 'B000IWXVU6-es'
 tags: [  ]

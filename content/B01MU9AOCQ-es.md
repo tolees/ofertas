@@ -5,7 +5,7 @@ date: 2020-06-22 09:01:53
 image: 'https://m.media-amazon.com/images/I/31Y7ajYPMJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU9AOCQ-es Llavero Circle Bear Tous'
 sku: 'B01MU9AOCQ-es'
 tags: [  ]

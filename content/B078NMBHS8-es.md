@@ -5,7 +5,7 @@ date: 2020-04-22 06:45:21
 image: 'https://m.media-amazon.com/images/I/41-iGuYcT-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NMBHS8-es NIX Advance Marco Digital Fotos y Videos 8 Pulgadas HD....'
 sku: 'B078NMBHS8-es'
 tags: [  ]

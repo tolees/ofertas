@@ -5,7 +5,7 @@ date: 2020-03-06 19:53:45
 image: 'https://m.media-amazon.com/images/I/41ySWvuuJzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSNX35V-es Ferilinso Funda para Xiaomi Redmi Note 8 Carcasa Cuero...'
 sku: 'B07WSNX35V-es'
 tags: [  ]

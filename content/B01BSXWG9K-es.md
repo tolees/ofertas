@@ -5,7 +5,7 @@ date: 2020-08-16 13:32:25
 image: 'https://m.media-amazon.com/images/I/51p0WyDRfiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSXWG9K-es DURAGADGET Funda/Riñonera Negra Sumergible para Canon...'
 sku: 'B01BSXWG9K-es'
 tags: [  ]

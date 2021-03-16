@@ -5,7 +5,7 @@ date: 2020-06-26 16:42:02
 image: 'https://m.media-amazon.com/images/I/51uZoq8BNmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TGLPQF-es Rowenta Skin Spirit EP2910 - Depiladora de 2 velocidades...'
 sku: 'B079TGLPQF-es'
 tags: [  ]

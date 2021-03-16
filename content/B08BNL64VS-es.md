@@ -5,7 +5,7 @@ date: 2020-10-06 17:44:42
 image: 'https://m.media-amazon.com/images/I/31wlMzi7E7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNL64VS-es Kono Bolsa de Viaje Ligero 40x20x25 Maleta de Cabina...'
 sku: 'B08BNL64VS-es'
 tags: [  ]

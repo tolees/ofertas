@@ -5,7 +5,7 @@ date: 2020-08-19 08:29:35
 image: 'https://m.media-amazon.com/images/I/517tUfFU32L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V468CQV-es CARAMAZ Parasol Coche con protección UV Extra Oscura -...'
 sku: 'B07V468CQV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-21 09:56:19
 image: 'https://m.media-amazon.com/images/I/31UywDuwCtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGJG6FD-es Qkiss Cepillo Redondo Cepillo Redondo Cerámico Profesional...'
 sku: 'B07VGJG6FD-es'
 tags: [  ]

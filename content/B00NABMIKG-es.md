@@ -5,7 +5,7 @@ date: 2020-02-07 08:56:21
 image: 'https://m.media-amazon.com/images/I/41RMaY85QRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NABMIKG-es Beurer MG147 - Almohada de Masaje Shiatsu con función...'
 sku: 'B00NABMIKG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 02:55:43
 image: 'https://m.media-amazon.com/images/I/41CyGiau0VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6XXC0R-es Seiko Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B01N6XXC0R-es'
 tags: [  ]

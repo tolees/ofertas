@@ -5,7 +5,7 @@ date: 2020-05-22 11:15:34
 image: 'https://m.media-amazon.com/images/I/41KcqCISQTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5MMH9Z-es BOSS Starfish Bañador para Hombre Azul Blue Medium'
 sku: 'B07S5MMH9Z-es'
 tags: [  ]

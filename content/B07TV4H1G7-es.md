@@ -5,7 +5,7 @@ date: 2020-01-27 18:35:52
 image: 'https://m.media-amazon.com/images/I/51vChEmKtvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV4H1G7-es H1 LED 10800LM Bombillas para Montaje de Faros Delanteros...'
 sku: 'B07TV4H1G7-es'
 tags: [  ]

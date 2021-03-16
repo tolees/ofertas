@@ -5,7 +5,7 @@ date: 2020-10-04 16:03:47
 image: 'https://m.media-amazon.com/images/I/41-03wFthDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XIBCFCY-es IMEX EL ZORRO Cajón para Barbacoa con Parrilla de INOX 68...'
 sku: 'B00XIBCFCY-es'
 tags: [  ]

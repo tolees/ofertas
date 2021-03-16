@@ -5,7 +5,7 @@ date: 2020-02-08 18:08:22
 image: 'https://m.media-amazon.com/images/I/413qiHKlC1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FDZNY5-es Wrangler Arizona Corduroy Pantalones Verde Dusty Olive 275...'
 sku: 'B075FDZNY5-es'
 tags: [  ]

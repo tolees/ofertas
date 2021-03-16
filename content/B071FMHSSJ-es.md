@@ -5,7 +5,7 @@ date: 2020-09-16 13:03:25
 image: 'https://m.media-amazon.com/images/I/31vECwe2p9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FMHSSJ-es Olivares de Altomira Aceite Oliva Virgen Extra 500 ml -...'
 sku: 'B071FMHSSJ-es'
 tags: [  ]

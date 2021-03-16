@@ -5,7 +5,7 @@ date: 2020-09-14 16:45:30
 image: 'https://m.media-amazon.com/images/I/41QJ+1vDwzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CMKV6F6-es Reloj Digital Deportivo para Niños Reloj de Pulsera Niña...'
 sku: 'B08CMKV6F6-es'
 tags: [  ]

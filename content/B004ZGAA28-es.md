@@ -5,7 +5,7 @@ date: 2020-10-04 08:51:22
 image: 'https://m.media-amazon.com/images/I/41F-rscMFQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ZGAA28-es HifloFiltro HFA3615 Filtro para Moto'
 sku: 'B004ZGAA28-es'
 tags: [  ]

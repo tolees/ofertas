@@ -5,7 +5,7 @@ date: 2020-05-12 09:24:25
 image: 'https://m.media-amazon.com/images/I/41d78+cstKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N44CK6S-es Desigual Blouse Larson Blusas Azul Navy 5000 M para Mujer'
 sku: 'B07N44CK6S-es'
 tags: [  ]

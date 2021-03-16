@@ -5,7 +5,7 @@ date: 2020-07-10 11:29:22
 image: 'https://m.media-amazon.com/images/I/41gg7huybRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ3JN3N-es Salomon PROLOG 40 BAG Bolsa'
 sku: 'B07NJ3JN3N-es'
 tags: [  ]

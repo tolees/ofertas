@@ -5,7 +5,7 @@ date: 2020-08-27 19:01:08
 image: 'https://m.media-amazon.com/images/I/51kevMcmY7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R9XMKW-es Dymatize Super Mass Gainer Rich Chocolate 2 9kg - Polvo...'
 sku: 'B075R9XMKW-es'
 tags: [  ]

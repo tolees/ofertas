@@ -5,7 +5,7 @@ date: 2020-04-14 10:02:18
 image: 'https://m.media-amazon.com/images/I/41usc8liVnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BTWOJ4-es Fellowes Gel con Canal Health-V - Alfombrilla con...'
 sku: 'B001BTWOJ4-es'
 tags: [  ]

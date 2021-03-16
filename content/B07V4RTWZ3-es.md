@@ -5,7 +5,7 @@ date: 2020-07-17 14:33:56
 image: 'https://m.media-amazon.com/images/I/5154hTXNrsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4RTWZ3-es Tommy Hilfiger - Honey Lrg Ew Carteras Mujer Negro Black...'
 sku: 'B07V4RTWZ3-es'
 tags: [  ]

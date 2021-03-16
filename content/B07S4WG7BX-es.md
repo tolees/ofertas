@@ -5,7 +5,7 @@ date: 2020-08-20 21:29:55
 image: 'https://m.media-amazon.com/images/I/31-YduzNLJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S4WG7BX-es New Balance 997H h Zapatillas para Hombre Marfil Off Hbp...'
 sku: 'B07S4WG7BX-es'
 tags: [  ]

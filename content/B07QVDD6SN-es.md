@@ -5,7 +5,7 @@ date: 2020-05-29 12:14:43
 image: 'https://m.media-amazon.com/images/I/41DCFhbvNOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVDD6SN-es Funda XiaoMi Mi 9 SE con Cristal Templado AChris 3 en 1...'
 sku: 'B07QVDD6SN-es'
 tags: [  ]

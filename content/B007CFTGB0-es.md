@@ -5,7 +5,7 @@ date: 2020-01-26 10:59:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XVFNmXLPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007CFTGB0-es Orbegozo HO 810 A Mini horno- tostador multifunción 800 W...'
 sku: 'B007CFTGB0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-23 03:54:51
 image: 'https://m.media-amazon.com/images/I/31GBJ2gKBQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004U8I3HK-es Lindy 70421 - Conector acodado Toslink'
 sku: 'B004U8I3HK-es'
 tags: [  ]

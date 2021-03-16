@@ -5,7 +5,7 @@ date: 2020-03-14 16:01:12
 image: 'https://m.media-amazon.com/images/I/31XsHVuCrlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCJJCH3-es P Prettyia 1 Par Cuernos Tornillos de Fijación Sonido para...'
 sku: 'B07HCJJCH3-es'
 tags: [  ]

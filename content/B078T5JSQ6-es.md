@@ -5,7 +5,7 @@ date: 2020-06-11 14:33:35
 image: 'https://m.media-amazon.com/images/I/51FuRz9-g3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T5JSQ6-es Puma Final 5 HS Trainer Balón de Fútbol White Red Black'
 sku: 'B078T5JSQ6-es'
 tags: [  ]

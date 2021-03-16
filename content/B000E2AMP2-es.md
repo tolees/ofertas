@@ -5,7 +5,7 @@ date: 2020-05-06 21:53:52
 image: 'https://m.media-amazon.com/images/I/41z6dVhzXlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000E2AMP2-es K&N HA-6089 Filtro de Aire para XL600V TRANSALP 89-99 Moto'
 sku: 'B000E2AMP2-es'
 tags: [  ]

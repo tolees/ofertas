@@ -5,7 +5,7 @@ date: 2020-10-08 09:52:41
 image: 'https://m.media-amazon.com/images/I/412XgWV2CCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HPZR8DZ-es Funko Pop: Fortnite: Raptor multicolor 36823 color/modelo...'
 sku: 'B07HPZR8DZ-es'
 tags: [  ]

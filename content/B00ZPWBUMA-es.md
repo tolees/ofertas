@@ -5,7 +5,7 @@ date: 2020-08-22 08:43:39
 image: 'https://m.media-amazon.com/images/I/31cfCUTIcsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZPWBUMA-es Roca - Brazo de pared para rociador de 400 mm . Duchas y...'
 sku: 'B00ZPWBUMA-es'
 tags: [  ]

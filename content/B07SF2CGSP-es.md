@@ -5,7 +5,7 @@ date: 2020-04-20 14:51:34
 image: 'https://m.media-amazon.com/images/I/31WFsPuX6wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SF2CGSP-es PUMA Flyer Runner Zapatillas de Running Unisex Adulto...'
 sku: 'B07SF2CGSP-es'
 tags: [  ]

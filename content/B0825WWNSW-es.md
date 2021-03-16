@@ -5,7 +5,7 @@ date: 2020-07-31 09:00:55
 image: 'https://m.media-amazon.com/images/I/51zgGvOY2sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0825WWNSW-es Compatible con Moto One Zoom/One Pro funda de metal anillo...'
 sku: 'B0825WWNSW-es'
 tags: [  ]

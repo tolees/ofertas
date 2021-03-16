@@ -5,7 +5,7 @@ date: 2020-04-04 23:58:53
 image: 'https://m.media-amazon.com/images/I/41y6bIgvtuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077J4P3SF-es Novex Aceite de Argán Mascarilla Capilar - 400g'
 sku: 'B077J4P3SF-es'
 tags: [  ]

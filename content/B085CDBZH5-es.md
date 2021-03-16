@@ -5,7 +5,7 @@ date: 2020-07-01 18:35:00
 image: 'https://m.media-amazon.com/images/I/41nyFeZnkqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085CDBZH5-es FMPC Carcasa con Cuerda Samsung Galaxy J6 Plus Cristal TPU...'
 sku: 'B085CDBZH5-es'
 tags: [  ]

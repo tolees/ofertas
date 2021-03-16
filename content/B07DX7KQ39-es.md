@@ -5,7 +5,7 @@ date: 2020-04-24 18:33:41
 image: 'https://m.media-amazon.com/images/I/4131tEPi1IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DX7KQ39-es Energy Sistem Box 1+ Altavoz inalámbrico portátil con...'
 sku: 'B07DX7KQ39-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 00:38:33
 image: 'https://m.media-amazon.com/images/I/51gY7h4vqGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QHD8L9-es Suhctup Funda Compatible con Samsung Galaxy A6S Carcasa...'
 sku: 'B086QHD8L9-es'
 tags: [  ]

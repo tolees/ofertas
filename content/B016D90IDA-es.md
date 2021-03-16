@@ -5,7 +5,7 @@ date: 2020-05-27 09:48:54
 image: 'https://m.media-amazon.com/images/I/51ojzMnTS7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016D90IDA-es Jamara- Flyscout AHP+ Quadrocopter Brújula LED Camara...'
 sku: 'B016D90IDA-es'
 tags: [  ]

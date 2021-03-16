@@ -5,7 +5,7 @@ date: 2021-03-16 15:47:51
 image: 'https://m.media-amazon.com/images/I/31btCTsvytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZBGJ1Y-es Limpiador Multiusos de Superficies Perfumado Pulverizador...'
 sku: 'B06ZZBGJ1Y-es'
 tags: [ 'mayordomo', ]
@@ -28,9 +28,9 @@ Está [Limpiador Multiusos de Superficies Perfumado Pulverizador para Cristales 
 
 ℹ️:
 
-- producto de calidad
-- fácil de usar
 - multiuso
 - Dimensiones del producto: 8 x 8 x 30 cm
+- fácil de usar
+- producto de calidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06ZZBGJ1Y/?tag=tolees-21)

@@ -5,7 +5,7 @@ date: 2020-08-01 18:31:49
 image: 'https://m.media-amazon.com/images/I/41LPZJoqsZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3KY83L-es WowPrint - Bolsa de maquillaje diseño de frutas sandía...'
 sku: 'B07L3KY83L-es'
 tags: [  ]

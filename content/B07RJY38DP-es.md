@@ -5,7 +5,7 @@ date: 2020-10-03 21:25:30
 image: 'https://m.media-amazon.com/images/I/51oTzI-OsuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJY38DP-es KooPower - Guirnalda de luces cable de cobre funciona con...'
 sku: 'B07RJY38DP-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 12:32:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41e3NKwzjsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ML3F2RQ-es JINYU Loft Vintage Rústico Industrial Lámpara de...'
 sku: 'B07ML3F2RQ-es'
 tags: [  ]

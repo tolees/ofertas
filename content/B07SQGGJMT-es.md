@@ -5,7 +5,7 @@ date: 2020-02-06 12:20:21
 image: 'https://m.media-amazon.com/images/I/41GcB3bv5DL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SQGGJMT-es adidas Predator 19.1 FG Zapatillas de Fútbol para Hombre...'
 sku: 'B07SQGGJMT-es'
 tags: [  ]

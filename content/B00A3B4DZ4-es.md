@@ -5,7 +5,7 @@ date: 2020-08-06 20:33:28
 image: 'https://m.media-amazon.com/images/I/318C5b6-33L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A3B4DZ4-es Essie Esmalte de Uñas Nr. 67 Lady Like'
 sku: 'B00A3B4DZ4-es'
 tags: [  ]

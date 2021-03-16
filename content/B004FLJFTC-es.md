@@ -5,7 +5,7 @@ date: 2020-01-27 10:40:56
 image: 'https://m.media-amazon.com/images/I/41h8asNGShL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004FLJFTC-es Superga 2750 Jvel Classic Zapatillas Unisex Para Niños...'
 sku: 'B004FLJFTC-es'
 tags: [  ]

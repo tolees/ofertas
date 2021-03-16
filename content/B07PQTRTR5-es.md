@@ -5,7 +5,7 @@ date: 2020-06-24 13:37:45
 image: 'https://m.media-amazon.com/images/I/41U4S80cluL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQTRTR5-es New Balance 373 n Zapatillas para Niños Verde Green/Yellow...'
 sku: 'B07PQTRTR5-es'
 tags: [  ]

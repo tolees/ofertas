@@ -5,7 +5,7 @@ date: 2020-05-25 08:40:21
 image: 'https://m.media-amazon.com/images/I/31QycEptWPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083NN4SD8-es Cómoda Manta de Franela súper Suave y cálida Tamaño Grande...'
 sku: 'B083NN4SD8-es'
 tags: [  ]

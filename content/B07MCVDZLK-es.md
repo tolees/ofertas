@@ -5,7 +5,7 @@ date: 2020-01-05 13:33:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41UzzdLz-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCVDZLK-es Gant 3-Pack Trunk Seasonal Solid Calzoncillos Negro Black...'
 sku: 'B07MCVDZLK-es'
 tags: [  ]

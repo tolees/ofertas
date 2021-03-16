@@ -5,7 +5,7 @@ date: 2020-05-07 18:40:41
 image: 'https://m.media-amazon.com/images/I/415b12xtKBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0751GPX5W-es New Balance 247 Zapatillas para Mujer Rosa Rosa Rosa 40.5 EU'
 sku: 'B0751GPX5W-es'
 tags: [  ]

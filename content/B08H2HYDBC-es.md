@@ -5,7 +5,7 @@ date: 2020-09-17 16:45:48
 image: 'https://m.media-amazon.com/images/I/51h-JyVtPRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H2HYDBC-es LJP Funda Samsung Galaxy Note 20 Ultra Anti-arañazos...'
 sku: 'B08H2HYDBC-es'
 tags: [  ]

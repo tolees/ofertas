@@ -5,7 +5,7 @@ date: 2020-10-05 20:27:33
 image: 'https://m.media-amazon.com/images/I/31Rhh1XQvwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BCNZ9L6-es Moulinex Wizzo Robot De Repostería Con Kit Para Masas 700...'
 sku: 'B07BCNZ9L6-es'
 tags: [  ]

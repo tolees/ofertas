@@ -5,7 +5,7 @@ date: 2020-08-31 10:59:15
 image: 'https://m.media-amazon.com/images/I/51Tt2kX4owL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07589QZMC-es Spintires: MudRunner'
 sku: 'B07589QZMC-es'
 tags: [  ]

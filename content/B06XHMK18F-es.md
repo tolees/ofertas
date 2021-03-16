@@ -5,7 +5,7 @@ date: 2020-05-07 11:54:37
 image: 'https://m.media-amazon.com/images/I/418umpcoZ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHMK18F-es auna TT-931 - Tocadiscos Reproductor de vinilos...'
 sku: 'B06XHMK18F-es'
 tags: [  ]

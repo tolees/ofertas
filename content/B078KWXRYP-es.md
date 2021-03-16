@@ -5,7 +5,7 @@ date: 2020-01-04 20:50:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ruwslpv0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078KWXRYP-es adidas Originals X_PLR Zapatillas para Hombre Negro Core...'
 sku: 'B078KWXRYP-es'
 tags: [  ]

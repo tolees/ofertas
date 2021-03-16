@@ -5,7 +5,7 @@ date: 2020-08-04 07:55:19
 image: 'https://m.media-amazon.com/images/I/51z1B7-l4WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RK2NBGD-es UPF50+ Sombrero de Sol con Cubrenuca para Bebé Niños Niñas...'
 sku: 'B07RK2NBGD-es'
 tags: [  ]

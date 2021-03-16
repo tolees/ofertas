@@ -5,7 +5,7 @@ date: 2020-04-15 00:42:11
 image: 'https://m.media-amazon.com/images/I/41BaRYBmAgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXVSWZ6-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Halcón...'
 sku: 'B07TXVSWZ6-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 11:28:30
 image: 'https://m.media-amazon.com/images/I/513dWE-OHpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDTVK5B-es Proyector Estrellas Lampara Estrellas Proyector 4 in 1...'
 sku: 'B08CDTVK5B-es'
 tags: [  ]

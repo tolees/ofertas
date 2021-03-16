@@ -5,7 +5,7 @@ date: 2020-07-29 18:32:35
 image: 'https://m.media-amazon.com/images/I/41TZI+OoyqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C1VH81S-es Plameca - Plan 21 Garcinia Activ 60 Cápsulas'
 sku: 'B07C1VH81S-es'
 tags: [  ]

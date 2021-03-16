@@ -5,7 +5,7 @@ date: 2020-03-26 08:40:40
 image: 'https://m.media-amazon.com/images/I/41DfJzeTThL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3X2DBH-es New Balance Draft Zapatillas de Running para Mujer Gris...'
 sku: 'B07S3X2DBH-es'
 tags: [  ]

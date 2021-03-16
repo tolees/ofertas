@@ -5,7 +5,7 @@ date: 2020-09-12 12:28:16
 image: 'https://m.media-amazon.com/images/I/41KBchiMoPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJFMTQ-es Kipling Creativity L Monederos para Mujer Multicolor Camo...'
 sku: 'B07PSJFMTQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-29 11:03:35
 image: 'https://m.media-amazon.com/images/I/31gLfuXsyVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C272WBZ-es JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos...'
 sku: 'B07C272WBZ-es'
 tags: [  ]

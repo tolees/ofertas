@@ -5,7 +5,7 @@ date: 2020-09-21 17:15:38
 image: 'https://m.media-amazon.com/images/I/41tnRMBAV4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QLBS91X-es VLIKE Estación meteorológica con 2PCS sensores Estación...'
 sku: 'B07QLBS91X-es'
 tags: [  ]

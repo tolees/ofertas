@@ -5,7 +5,7 @@ date: 2020-07-15 00:20:37
 image: 'https://m.media-amazon.com/images/I/31DiVVVk4EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYXRZ4L-es Aogled LED Lámpara de Techo 18W 1800LM 4000K Blanco...'
 sku: 'B07TYXRZ4L-es'
 tags: [  ]

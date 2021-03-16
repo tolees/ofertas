@@ -5,7 +5,7 @@ date: 2020-03-18 03:24:56
 image: 'https://m.media-amazon.com/images/I/51Mh3oYnx0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6LRMB7-es Asics Gel-Nimbus 21 Zapatillas de Running para Hombre Azul...'
 sku: 'B07K6LRMB7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-01 20:31:57
 image: 'https://m.media-amazon.com/images/I/41IqAySfjqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IHZLXFU-es Lullage acneXpert Gel Limpiador Purificante para la...'
 sku: 'B01IHZLXFU-es'
 tags: [  ]

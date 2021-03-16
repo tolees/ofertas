@@ -5,7 +5,7 @@ date: 2020-01-07 20:51:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DmVefEGrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6TWV99-es Tommy Hilfiger Leather Lifestyle Sneaker Zapatillas para...'
 sku: 'B07N6TWV99-es'
 tags: [  ]

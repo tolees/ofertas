@@ -5,7 +5,7 @@ date: 2020-01-20 09:12:20
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61IvNhYfDIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076X4HB4D-es Gardena NatureUp Set vertical grifo sistema de riego...'
 sku: 'B076X4HB4D-es'
 tags: [  ]

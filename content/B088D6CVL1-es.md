@@ -5,7 +5,7 @@ date: 2020-09-06 08:45:35
 image: 'https://m.media-amazon.com/images/I/41c3o9cxzOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D6CVL1-es Suhctup Funda Compatible para Samsung Galaxy S6 Edge...'
 sku: 'B088D6CVL1-es'
 tags: [  ]

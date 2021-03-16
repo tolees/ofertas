@@ -5,7 +5,7 @@ date: 2020-04-20 23:16:12
 image: 'https://m.media-amazon.com/images/I/41HU4ovhkHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BSCBW7H-es SaintderG® Fundas para sillas Pack de 6 Fundas sillas...'
 sku: 'B07BSCBW7H-es'
 tags: [  ]

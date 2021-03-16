@@ -5,7 +5,7 @@ date: 2020-02-03 19:24:28
 image: 'https://m.media-amazon.com/images/I/41wiq-fIIoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0759JQQ7F-es Funko Pop!- Rocks Elton John Figura de Vinilo 25320'
 sku: 'B0759JQQ7F-es'
 tags: [  ]

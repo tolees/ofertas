@@ -5,7 +5,7 @@ date: 2020-08-06 07:15:21
 image: 'https://m.media-amazon.com/images/I/41MKS3f+aZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087TYY2Q2-es JOEAIS Tableta Escritura LCD 8 5 Pulgadas Anti-caída...'
 sku: 'B087TYY2Q2-es'
 tags: [  ]

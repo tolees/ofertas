@@ -5,7 +5,7 @@ date: 2020-05-04 08:02:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41NQ6fm8CkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SSS6M3Q-es Simply Natural Cortaúñas para Mascotas Cortaúñas para...'
 sku: 'B07SSS6M3Q-es'
 tags: [  ]

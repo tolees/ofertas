@@ -5,7 +5,7 @@ date: 2020-04-27 19:20:22
 image: 'https://m.media-amazon.com/images/I/41Vv-SJagaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F4AVPFA-es Calvin Klein Carousel-Bikini Sujetador Blanco WHITE 100...'
 sku: 'B00F4AVPFA-es'
 tags: [  ]

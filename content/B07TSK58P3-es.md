@@ -5,7 +5,7 @@ date: 2020-05-12 19:50:22
 image: 'https://m.media-amazon.com/images/I/31LJUrUlNoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSK58P3-es Max Factor Mattitude Powder. Polvos bronceadores Tono 003...'
 sku: 'B07TSK58P3-es'
 tags: [  ]

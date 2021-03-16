@@ -5,7 +5,7 @@ date: 2020-01-23 10:23:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FSMu3SNpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRL6S24-es Skechers Go Run 600-Farrox 97867L Zapatillas para Niños...'
 sku: 'B07DRL6S24-es'
 tags: [  ]

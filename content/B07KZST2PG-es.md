@@ -5,7 +5,7 @@ date: 2020-03-29 21:23:37
 image: 'https://m.media-amazon.com/images/I/51uVe3vg7GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KZST2PG-es EisEyen RC Auto 1: 22 2 WD Rallye Offroad Rock Crawler...'
 sku: 'B07KZST2PG-es'
 tags: [  ]

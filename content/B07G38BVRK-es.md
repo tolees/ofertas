@@ -5,7 +5,7 @@ date: 2020-03-11 20:36:11
 image: 'https://m.media-amazon.com/images/I/418uiPQaeSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G38BVRK-es Chicco Miinimo2 Silla de paseo ultracompacta y ligera solo...'
 sku: 'B07G38BVRK-es'
 tags: [  ]

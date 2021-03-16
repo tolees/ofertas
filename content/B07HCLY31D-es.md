@@ -5,7 +5,7 @@ date: 2020-02-09 20:09:58
 image: 'https://m.media-amazon.com/images/I/41XEvtoH3lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HCLY31D-es Cable Eléctrico de 3 Núcleos Redondo de PVC Cable...'
 sku: 'B07HCLY31D-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-21 16:20:01
 image: 'https://m.media-amazon.com/images/I/31r-ksIu+ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QVH7T1-es Figura Vinyl Cuphead'
 sku: 'B075QVH7T1-es'
 tags: [  ]

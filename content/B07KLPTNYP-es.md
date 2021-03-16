@@ -5,7 +5,7 @@ date: 2020-02-17 15:42:58
 image: 'https://m.media-amazon.com/images/I/41j7f35Wb1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KLPTNYP-es El Mal Querer'
 sku: 'B07KLPTNYP-es'
 tags: [  ]

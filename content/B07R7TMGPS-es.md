@@ -5,7 +5,7 @@ date: 2020-03-22 09:20:44
 image: 'https://m.media-amazon.com/images/I/41bcdE-w4pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7TMGPS-es Liberex Máquina de Cortar Pelo Profesional - Barbero...'
 sku: 'B07R7TMGPS-es'
 tags: [  ]

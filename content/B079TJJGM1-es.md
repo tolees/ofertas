@@ -5,7 +5,7 @@ date: 2020-08-01 17:48:48
 image: 'https://m.media-amazon.com/images/I/411BK0D8jvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TJJGM1-es Funko Pop!- Pop Marvel: Deadpool-Cable Figura de Vinilo...'
 sku: 'B079TJJGM1-es'
 tags: [  ]

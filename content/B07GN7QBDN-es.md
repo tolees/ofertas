@@ -5,7 +5,7 @@ date: 2020-08-05 05:29:21
 image: 'https://m.media-amazon.com/images/I/31SZygTXIOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GN7QBDN-es Automático Dispensador de Pasta de Dientes y Conjunto de...'
 sku: 'B07GN7QBDN-es'
 tags: [  ]

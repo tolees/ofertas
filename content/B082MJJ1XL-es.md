@@ -5,7 +5,7 @@ date: 2020-06-11 12:41:27
 image: 'https://m.media-amazon.com/images/I/41p3dc1LNaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MJJ1XL-es Klarstein Beer Baron nevera de bebidas - 46 litros de...'
 sku: 'B082MJJ1XL-es'
 tags: [  ]

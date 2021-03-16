@@ -5,7 +5,7 @@ date: 2020-03-01 06:13:43
 image: 'https://m.media-amazon.com/images/I/31XVJbvwUsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PND15C-es Rostro Prebase Sos Primer'
 sku: 'B077PND15C-es'
 tags: [  ]

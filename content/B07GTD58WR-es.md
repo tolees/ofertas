@@ -5,7 +5,7 @@ date: 2020-03-23 08:56:26
 image: 'https://m.media-amazon.com/images/I/41ZtcUCCF-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GTD58WR-es Devolo Magic 2 Magic 2 Kit de Inicio Powerline 1 Multicolor'
 sku: 'B07GTD58WR-es'
 tags: [  ]

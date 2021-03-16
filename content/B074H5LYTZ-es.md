@@ -5,7 +5,7 @@ date: 2020-02-12 08:20:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41J7iEeX18L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074H5LYTZ-es Russell Hobbs Light & Easy Brights - Plancha de Ropa de...'
 sku: 'B074H5LYTZ-es'
 tags: [  ]

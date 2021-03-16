@@ -5,7 +5,7 @@ date: 2020-05-31 19:30:12
 image: 'https://m.media-amazon.com/images/I/61jnmzfWuKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6YF86M-es Tommy Hilfiger - Business Leather Extra Cc & Coin Carteras...'
 sku: 'B07V6YF86M-es'
 tags: [  ]

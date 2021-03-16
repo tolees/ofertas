@@ -5,7 +5,7 @@ date: 2020-03-13 11:04:51
 image: 'https://m.media-amazon.com/images/I/412c5KcUTCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZCH8MM-es Under Armour Performance Polo 2.0 Niños Azul Academy/Mod...'
 sku: 'B07CZCH8MM-es'
 tags: [  ]

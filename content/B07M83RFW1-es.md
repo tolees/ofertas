@@ -5,7 +5,7 @@ date: 2020-07-10 06:36:21
 image: 'https://m.media-amazon.com/images/I/51XeEv8Rr1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M83RFW1-es Taladro Atornillador FLOUREON Taladro Inalambrico...'
 sku: 'B07M83RFW1-es'
 tags: [  ]

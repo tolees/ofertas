@@ -5,7 +5,7 @@ date: 2020-02-12 16:33:00
 image: 'https://m.media-amazon.com/images/I/41MwWmjz-QL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000CNKJSI-es Jaguar Blue - Agua de toilette 100 ml'
 sku: 'B000CNKJSI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 19:28:09
 image: 'https://m.media-amazon.com/images/I/31iabKcprEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCJ7NGW-es Samsonite Spinner 69/25 Equipaje de Mano 69 cm 85 Litros...'
 sku: 'B07TCJ7NGW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-16 07:40:31
 image: 'https://m.media-amazon.com/images/I/519419xYiDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V6XSOR6-es Scitec Nutrition Protein Pancake comida funcional...'
 sku: 'B00V6XSOR6-es'
 tags: [  ]

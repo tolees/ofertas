@@ -5,7 +5,7 @@ date: 2020-06-17 17:06:59
 image: 'https://m.media-amazon.com/images/I/41a3YP8BETL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NF4CWDY-es Olympus Objetivo M.Zuiko Digital ED 12-200 mm F3.5-6.3...'
 sku: 'B07NF4CWDY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 00:25:39
 image: 'https://m.media-amazon.com/images/I/51L1zB8EeNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08195SGQJ-es Zambrero 502XL Cartuchos de Tinta Reemplazo para Epson 502...'
 sku: 'B08195SGQJ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 08:57:46
 image: 'https://m.media-amazon.com/images/I/61SDo0qYesL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083K3ZPJ2-es Teddy Bear Gift Teddy Bear 3D Lámpara de ilusión óptica...'
 sku: 'B083K3ZPJ2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-03 08:45:58
 image: 'https://m.media-amazon.com/images/I/41QTQbk+d4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084Q8L5LJ-es Formulaone Borradores de ajedrez y Damas de Madera Natural...'
 sku: 'B084Q8L5LJ-es'
 tags: [  ]

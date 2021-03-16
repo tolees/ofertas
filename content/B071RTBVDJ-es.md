@@ -5,7 +5,7 @@ date: 2020-04-17 18:38:36
 image: 'https://m.media-amazon.com/images/I/31JIVBqXXyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071RTBVDJ-es Reebok Royal Glide LX Zapatillas de Gimnasia para Hombre...'
 sku: 'B071RTBVDJ-es'
 tags: [  ]

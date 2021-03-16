@@ -5,7 +5,7 @@ date: 2020-05-29 18:33:58
 image: 'https://m.media-amazon.com/images/I/51LJdMMq7aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J1A1KUS-es Rimmel London Royal Blush Colorete en crema Tono 3 3.5 g'
 sku: 'B01J1A1KUS-es'
 tags: [  ]

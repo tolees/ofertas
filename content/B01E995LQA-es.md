@@ -5,7 +5,7 @@ date: 2020-05-28 09:03:44
 image: 'https://m.media-amazon.com/images/I/41sWS18gY7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E995LQA-es Joma Drive Bermuda Deporte Hombre Blanco M'
 sku: 'B01E995LQA-es'
 tags: [  ]

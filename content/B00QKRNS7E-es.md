@@ -5,7 +5,7 @@ date: 2020-04-11 16:42:41
 image: 'https://m.media-amazon.com/images/I/51ePUxG3WEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QKRNS7E-es Seconde Chance'
 sku: 'B00QKRNS7E-es'
 tags: [  ]

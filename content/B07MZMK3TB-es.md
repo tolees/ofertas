@@ -5,7 +5,7 @@ date: 2020-04-06 11:16:15
 image: 'https://m.media-amazon.com/images/I/41NrFU+71cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZMK3TB-es Pepe Jeans Kim suéter Candle 806 Medium para Mujer'
 sku: 'B07MZMK3TB-es'
 tags: [  ]

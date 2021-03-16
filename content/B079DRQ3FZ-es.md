@@ -5,7 +5,7 @@ date: 2020-02-13 13:31:48
 image: 'https://m.media-amazon.com/images/I/51x93NNj3KL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079DRQ3FZ-es DYNASONIC - Altavoz Bluetooth con Karaoke 10W |...'
 sku: 'B079DRQ3FZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-03 15:03:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51erReMLDEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053CASPC-es Terminator Salvation [DVD]'
 sku: 'B0053CASPC-es'
 tags: [  ]

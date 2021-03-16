@@ -5,7 +5,7 @@ date: 2020-05-15 12:38:28
 image: 'https://m.media-amazon.com/images/I/41s6jAkkRSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZPJ66M-es Hauck Sport Silla de paseo ultra ligera de 5 9kg sistema...'
 sku: 'B07XZPJ66M-es'
 tags: [  ]

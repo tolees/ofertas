@@ -5,7 +5,7 @@ date: 2020-05-18 07:39:24
 image: 'https://m.media-amazon.com/images/I/514tkHf-qXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7LF4PG-es Cómo Entrenar A Tu Dragón 3 4K UHD + BD [Blu-ray]'
 sku: 'B07P7LF4PG-es'
 tags: [  ]

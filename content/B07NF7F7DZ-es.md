@@ -5,7 +5,7 @@ date: 2020-02-05 19:42:33
 image: 'https://m.media-amazon.com/images/I/41rKpR0lNJL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NF7F7DZ-es Skechers Women s BOBS Squad 2-Grand Jubilee Trainers Black...'
 sku: 'B07NF7F7DZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-18 14:33:22
 image: 'https://m.media-amazon.com/images/I/41fMn6XMOpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4PCBL4-es Amzdeal Alcachofa de ducha Cabezal de Ducha de Agua Ahorro...'
 sku: 'B07Q4PCBL4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-09 21:58:00
 image: 'https://m.media-amazon.com/images/I/41ziLA2vdUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZNQ75J-es Funko- Pop Disney: Onward-Barley Collectible Toy...'
 sku: 'B07TZNQ75J-es'
 tags: [  ]

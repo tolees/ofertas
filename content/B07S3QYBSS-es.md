@@ -5,7 +5,7 @@ date: 2020-01-02 17:37:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31M0Sy41baL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3QYBSS-es koulate Luz De Gabinete Led 2 Piezas De Gabinete...'
 sku: 'B07S3QYBSS-es'
 tags: [  ]

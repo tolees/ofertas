@@ -5,7 +5,7 @@ date: 2020-09-06 02:50:27
 image: 'https://m.media-amazon.com/images/I/41M08D9TM7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IZXYUQY-es Braun PLANCHA TS725 VAPOR 2400W ELOXAL AZUL BLAqc 2400 W 0...'
 sku: 'B00IZXYUQY-es'
 tags: [  ]

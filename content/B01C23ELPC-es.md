@@ -5,7 +5,7 @@ date: 2020-05-31 15:18:53
 image: 'https://m.media-amazon.com/images/I/416cwm62IaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C23ELPC-es Chicco Physio Air - Pack de 2 chupetes de látex/caucho...'
 sku: 'B01C23ELPC-es'
 tags: [  ]

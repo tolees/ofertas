@@ -5,7 +5,7 @@ date: 2020-08-29 16:12:50
 image: 'https://m.media-amazon.com/images/I/51Ftj0NNLHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078JG94GV-es Kicode Los titulares cama lámina elástica De sujeción...'
 sku: 'B078JG94GV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-08 09:02:26
 image: 'https://m.media-amazon.com/images/I/41yQ+DhkbiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756WRBKF-es Aigostar Tank 30JRI - Aspirador ciclónico sin bolsa 700 W...'
 sku: 'B0756WRBKF-es'
 tags: [  ]

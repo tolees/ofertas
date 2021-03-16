@@ -5,7 +5,7 @@ date: 2020-08-02 12:00:51
 image: 'https://m.media-amazon.com/images/I/314v4nFhMjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TSKW8HD-es Kipling Abanu Bolsos con Bandolera para Mujer Blanco White...'
 sku: 'B07TSKW8HD-es'
 tags: [  ]

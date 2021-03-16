@@ -5,7 +5,7 @@ date: 2020-04-14 17:31:11
 image: 'https://m.media-amazon.com/images/I/41FW6tsjauL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F24BDCM-es JIANYE Calcetines Ciclismo Transpirable Que Absorbe...'
 sku: 'B07F24BDCM-es'
 tags: [  ]

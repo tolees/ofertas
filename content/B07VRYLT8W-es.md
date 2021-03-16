@@ -5,7 +5,7 @@ date: 2020-07-01 19:34:15
 image: 'https://m.media-amazon.com/images/I/41JNnD5dLyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRYLT8W-es Calvin Klein Medium Drawstring Bañador Rojo High Risk XBG...'
 sku: 'B07VRYLT8W-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 06:15:01
 image: 'https://m.media-amazon.com/images/I/514iNtcdL0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0898ZY3JL-es Pack Escuadrón suicida + Aves de Presa Y la fantabulosa...'
 sku: 'B0898ZY3JL-es'
 tags: [  ]

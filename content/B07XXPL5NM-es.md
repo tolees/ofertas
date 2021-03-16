@@ -5,7 +5,7 @@ date: 2020-06-15 20:32:38
 image: 'https://m.media-amazon.com/images/I/51tXPw6DQgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XXPL5NM-es BENYAR Cuarzo cronógrafo Impermeable Relojes Business...'
 sku: 'B07XXPL5NM-es'
 tags: [  ]

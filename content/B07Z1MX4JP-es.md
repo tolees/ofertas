@@ -5,7 +5,7 @@ date: 2020-05-25 10:03:32
 image: 'https://m.media-amazon.com/images/I/41Fd0SivpiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z1MX4JP-es Compatible con Samsung Galaxy S8 diseño de mármol 360...'
 sku: 'B07Z1MX4JP-es'
 tags: [  ]

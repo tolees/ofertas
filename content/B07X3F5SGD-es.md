@@ -5,7 +5,7 @@ date: 2020-03-03 06:11:26
 image: 'https://m.media-amazon.com/images/I/31HawJOGYpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3F5SGD-es Hiboy Silla Self Balancing Compatible con Todos los...'
 sku: 'B07X3F5SGD-es'
 tags: [  ]

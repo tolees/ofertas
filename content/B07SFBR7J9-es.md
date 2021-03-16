@@ -5,7 +5,7 @@ date: 2020-06-21 07:34:40
 image: 'https://m.media-amazon.com/images/I/31UcrTDDARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFBR7J9-es Helly Hansen Daybreaker 1/2 Zip Fleece Forro Polar Hombre...'
 sku: 'B07SFBR7J9-es'
 tags: [  ]

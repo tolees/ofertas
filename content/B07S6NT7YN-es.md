@@ -5,7 +5,7 @@ date: 2020-10-07 12:45:13
 image: 'https://m.media-amazon.com/images/I/412zMLLveKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6NT7YN-es PUMA R78 Zapatillas Unisex Adulto Grey 37.5 EU'
 sku: 'B07S6NT7YN-es'
 tags: [  ]

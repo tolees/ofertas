@@ -5,7 +5,7 @@ date: 2020-04-25 10:20:56
 image: 'https://m.media-amazon.com/images/I/41J2o9+GFHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079NP2DL4-es Macallan Triple Cask 15 Años Single Malt Whisky Escoces...'
 sku: 'B079NP2DL4-es'
 tags: [  ]

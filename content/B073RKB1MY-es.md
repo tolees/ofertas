@@ -5,7 +5,7 @@ date: 2020-05-28 10:05:38
 image: 'https://m.media-amazon.com/images/I/41Cc-ZVvioL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RKB1MY-es Adidas Cloudfoam Pure Zapatillas para Mujer Blanco...'
 sku: 'B073RKB1MY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-25 18:34:46
 image: 'https://m.media-amazon.com/images/I/41CX15aFK5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYLJYXZ-es Rampow Adaptador Micro USB a Tipo C Aluminio Duradero...'
 sku: 'B06ZYLJYXZ-es'
 tags: [  ]

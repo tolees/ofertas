@@ -5,7 +5,7 @@ date: 2020-02-04 10:09:07
 image: 'https://m.media-amazon.com/images/I/319RvvNN4GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XHKBJKD-es VEIERSIA Calentador de Mano Recargable Portátil con USB...'
 sku: 'B07XHKBJKD-es'
 tags: [  ]

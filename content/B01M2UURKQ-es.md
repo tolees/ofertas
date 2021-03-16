@@ -5,7 +5,7 @@ date: 2020-08-28 02:38:09
 image: 'https://m.media-amazon.com/images/I/518D0A3juML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M2UURKQ-es Amzdeal Caja de Fotografía Caja de Luz Portátil 50 x 50 x...'
 sku: 'B01M2UURKQ-es'
 tags: [  ]

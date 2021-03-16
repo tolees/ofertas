@@ -5,7 +5,7 @@ date: 2020-05-25 14:02:31
 image: 'https://m.media-amazon.com/images/I/41Sz7Xv-1rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0049RQUQI-es Tremblay - Bombe de Froid 400 ml Taille - Unique'
 sku: 'B0049RQUQI-es'
 tags: [  ]

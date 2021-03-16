@@ -5,7 +5,7 @@ date: 2020-02-26 00:27:05
 image: 'https://m.media-amazon.com/images/I/41g-+ypiZXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072QFLXM7-es Panama Jack Glasgow Igloo Botas Clasicas para Hombre Negro...'
 sku: 'B072QFLXM7-es'
 tags: [  ]

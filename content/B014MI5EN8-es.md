@@ -5,7 +5,7 @@ date: 2020-07-25 19:17:57
 image: 'https://m.media-amazon.com/images/I/41WGqj4JieL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014MI5EN8-es S R SUNRISE SRSB-3027 SRSB3027-Soporte cuadrado para...'
 sku: 'B014MI5EN8-es'
 tags: [  ]

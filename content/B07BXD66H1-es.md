@@ -5,7 +5,7 @@ date: 2020-07-21 21:30:12
 image: 'https://m.media-amazon.com/images/I/41cySjB+RJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BXD66H1-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07BXD66H1-es'
 tags: [  ]

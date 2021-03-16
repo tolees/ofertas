@@ -5,7 +5,7 @@ date: 2020-07-12 01:07:29
 image: 'https://m.media-amazon.com/images/I/41snXgsZbkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTT1J7G-es Relojes electrónicos para Hombre Reloj Deportivo Aire...'
 sku: 'B08BTT1J7G-es'
 tags: [  ]

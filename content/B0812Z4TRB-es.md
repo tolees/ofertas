@@ -5,7 +5,7 @@ date: 2020-05-10 07:00:55
 image: 'https://m.media-amazon.com/images/I/21oa2o0NYnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0812Z4TRB-es Gancho de jardín de infantes Fibra de bambú Cuadrado...'
 sku: 'B0812Z4TRB-es'
 tags: [  ]

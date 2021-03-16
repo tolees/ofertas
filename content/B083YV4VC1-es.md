@@ -5,7 +5,7 @@ date: 2020-05-16 08:40:21
 image: 'https://m.media-amazon.com/images/I/51uuu6KcFOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083YV4VC1-es Sujeciones de cable de nylon autoblocantes Manejo de...'
 sku: 'B083YV4VC1-es'
 tags: [  ]

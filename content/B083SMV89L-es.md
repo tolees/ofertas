@@ -5,7 +5,7 @@ date: 2020-08-05 16:26:30
 image: 'https://m.media-amazon.com/images/I/51Fu-gysZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SMV89L-es Pulsera de Actividad Inteligente IP67 Impermeable Reloj...'
 sku: 'B083SMV89L-es'
 tags: [  ]

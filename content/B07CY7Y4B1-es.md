@@ -5,7 +5,7 @@ date: 2020-07-20 18:23:45
 image: 'https://m.media-amazon.com/images/I/41o6n69iYjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CY7Y4B1-es Motorola Moto G6 Plus - Smartphone de 5.9" procesador de...'
 sku: 'B07CY7Y4B1-es'
 tags: [  ]

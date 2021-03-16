@@ -5,7 +5,7 @@ date: 2020-01-11 11:18:44
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2BkYnIXdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNXPQXQ-es Buff Lyne Calentador Tricot Y Polar Hombre Night Blue...'
 sku: 'B07FNXPQXQ-es'
 tags: [  ]

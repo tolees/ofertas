@@ -5,7 +5,7 @@ date: 2020-03-11 15:38:49
 image: 'https://m.media-amazon.com/images/I/41Dg3nhWuLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDWBBFS-es Adidas by Nixon Reloj Analógico para de con Correa en...'
 sku: 'B07NDWBBFS-es'
 tags: [  ]

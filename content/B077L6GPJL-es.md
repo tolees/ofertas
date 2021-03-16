@@ -5,7 +5,7 @@ date: 2020-07-23 15:46:11
 image: 'https://m.media-amazon.com/images/I/41AQWUu3KgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077L6GPJL-es Bourjois Fard Joues Colorete Tono 54 Rose frisson - 2.5 gr'
 sku: 'B077L6GPJL-es'
 tags: [  ]

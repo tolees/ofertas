@@ -5,7 +5,7 @@ date: 2020-07-21 19:14:12
 image: 'https://m.media-amazon.com/images/I/41vNmu1amtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNP7M5C-es Hombres Sombrero de Safari Bucket Hat Verano Protección UV...'
 sku: 'B07QNP7M5C-es'
 tags: [  ]

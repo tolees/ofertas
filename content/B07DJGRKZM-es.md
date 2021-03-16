@@ -5,7 +5,7 @@ date: 2020-04-14 15:32:55
 image: 'https://m.media-amazon.com/images/I/41tkmOrH-vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJGRKZM-es Dockers by Gerli 43ta302 Botas de Nieve para Mujer Blanco...'
 sku: 'B07DJGRKZM-es'
 tags: [  ]

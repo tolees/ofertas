@@ -5,7 +5,7 @@ date: 2020-05-07 15:20:44
 image: 'https://m.media-amazon.com/images/I/41raA6sX68L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0788BZJTM-es Tommy Hilfiger Sujetador Estilo Bralette Blanco White 100...'
 sku: 'B0788BZJTM-es'
 tags: [  ]

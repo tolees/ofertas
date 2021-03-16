@@ -5,7 +5,7 @@ date: 2020-08-29 08:23:14
 image: 'https://m.media-amazon.com/images/I/51QGeDfgx5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SJ6LF6R-es Little Nightmares - Complete Edition Code In A Box'
 sku: 'B07SJ6LF6R-es'
 tags: [  ]

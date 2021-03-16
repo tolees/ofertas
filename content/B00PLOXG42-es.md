@@ -5,7 +5,7 @@ date: 2020-01-21 01:54:25
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31T6xJP%2Bf5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PLOXG42-es Western Digtal - Disco Duro De 2Tb - Wd Elements 2.5 Pulgadas'
 sku: 'B00PLOXG42-es'
 tags: [  ]

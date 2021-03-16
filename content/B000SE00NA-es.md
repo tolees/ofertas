@@ -5,7 +5,7 @@ date: 2020-06-24 17:38:52
 image: 'https://m.media-amazon.com/images/I/51AGhbDhEyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000SE00NA-es Trixie Cuerda de Juego con Bola ø5.5 cm 30 cm'
 sku: 'B000SE00NA-es'
 tags: [  ]

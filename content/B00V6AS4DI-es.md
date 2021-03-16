@@ -5,7 +5,7 @@ date: 2020-06-05 19:18:13
 image: 'https://m.media-amazon.com/images/I/31bqh3XpslL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V6AS4DI-es Soria Natural Bolsas de Planta - 1 unidad'
 sku: 'B00V6AS4DI-es'
 tags: [  ]

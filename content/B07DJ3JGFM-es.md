@@ -5,7 +5,7 @@ date: 2020-02-11 11:47:02
 image: 'https://m.media-amazon.com/images/I/515wEe8QysL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJ3JGFM-es New Balance Fresh Faom Cruz v2 Hygge Pack Zapatillas para...'
 sku: 'B07DJ3JGFM-es'
 tags: [  ]

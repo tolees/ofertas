@@ -5,7 +5,7 @@ date: 2020-04-14 17:00:04
 image: 'https://m.media-amazon.com/images/I/61BQF9wUfpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T7ZVRSS-es Des Nems Sauce Grabuge'
 sku: 'B00T7ZVRSS-es'
 tags: [  ]

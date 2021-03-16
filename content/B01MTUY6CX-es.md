@@ -5,7 +5,7 @@ date: 2020-08-19 12:07:29
 image: 'https://m.media-amazon.com/images/I/41Qy1uqYeAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTUY6CX-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B01MTUY6CX-es'
 tags: [  ]

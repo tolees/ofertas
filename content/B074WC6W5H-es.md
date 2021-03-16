@@ -5,7 +5,7 @@ date: 2020-07-29 12:00:58
 image: 'https://m.media-amazon.com/images/I/41iwcY6Jv7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074WC6W5H-es JOBY GorillaPod 325 - Trípode Mini Flexible con Rótula...'
 sku: 'B074WC6W5H-es'
 tags: [  ]

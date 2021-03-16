@@ -5,7 +5,7 @@ date: 2020-01-17 08:09:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31zRmfw8EnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNRDR6L-es Pinko 1G13F67080 Pantalone Mujer 44'
 sku: 'B07JNRDR6L-es'
 tags: [  ]

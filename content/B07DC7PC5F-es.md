@@ -5,7 +5,7 @@ date: 2020-10-08 21:04:09
 image: 'https://m.media-amazon.com/images/I/41avL3BUXXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC7PC5F-es PUMA Vista Zapatillas Unisex Adulto Azul Peacoat...'
 sku: 'B07DC7PC5F-es'
 tags: [  ]

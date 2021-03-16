@@ -5,7 +5,7 @@ date: 2020-07-30 22:21:42
 image: 'https://m.media-amazon.com/images/I/41jLVlBQvPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F28DY1W-es BAUSCH + LOMB - Renu® MultiPlus Solución de Mantenimiento...'
 sku: 'B07F28DY1W-es'
 tags: [  ]

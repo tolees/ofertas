@@ -5,7 +5,7 @@ date: 2020-06-10 17:37:50
 image: 'https://m.media-amazon.com/images/I/31I9CNc1apL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019PT5RW2-es Mobicool 9103501263 V26 AC/DC Nevera Termoeléctrica...'
 sku: 'B019PT5RW2-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-09 12:19:40
 image: 'https://m.media-amazon.com/images/I/41nwLWy5JaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQB7CKX-es ATZEBE Cable HDMI Fibra Óptica - 50m Cable HDMI 4k...'
 sku: 'B07JQB7CKX-es'
 tags: [  ]

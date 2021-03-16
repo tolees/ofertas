@@ -5,7 +5,7 @@ date: 2020-05-18 17:23:30
 image: 'https://m.media-amazon.com/images/I/41PwRrRxMqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TH68S6T-es Gyvazla Molde para Helados Reutilizable Moldes Silicona 6...'
 sku: 'B07TH68S6T-es'
 tags: [  ]

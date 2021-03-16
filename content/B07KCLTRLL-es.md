@@ -5,7 +5,7 @@ date: 2020-07-09 06:15:47
 image: 'https://m.media-amazon.com/images/I/41CIefM9S5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCLTRLL-es ETEREAUTY Rosa de Oro de 24 Quilates para Siempre Rosa...'
 sku: 'B07KCLTRLL-es'
 tags: [  ]

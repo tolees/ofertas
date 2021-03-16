@@ -5,7 +5,7 @@ date: 2020-09-15 09:56:39
 image: 'https://m.media-amazon.com/images/I/41rPi538tFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N194XDV-es Neutrogena T/Gel Champú Anticaspa Cuero Cabelludo Sensible...'
 sku: 'B07N194XDV-es'
 tags: [  ]

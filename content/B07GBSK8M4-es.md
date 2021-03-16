@@ -5,7 +5,7 @@ date: 2020-05-14 19:05:55
 image: 'https://m.media-amazon.com/images/I/41myCN8ienL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBSK8M4-es HpyAlwys - Organizador Universal de Piel para Guardar...'
 sku: 'B07GBSK8M4-es'
 tags: [  ]

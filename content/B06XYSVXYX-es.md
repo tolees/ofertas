@@ -5,7 +5,7 @@ date: 2020-07-07 12:16:18
 image: 'https://m.media-amazon.com/images/I/41rVvZf2yZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYSVXYX-es NZXT Kraken X52 240 mm - Refrigerador líquido de CPU RGB...'
 sku: 'B06XYSVXYX-es'
 tags: [  ]

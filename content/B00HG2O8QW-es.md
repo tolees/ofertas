@@ -5,7 +5,7 @@ date: 2020-06-11 06:10:06
 image: 'https://m.media-amazon.com/images/I/41+Xq7sVyeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HG2O8QW-es Makita D-41517 - Estuche de llaves de vaso 9 piezas'
 sku: 'B00HG2O8QW-es'
 tags: [  ]

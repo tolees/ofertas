@@ -5,7 +5,7 @@ date: 2020-03-14 04:01:12
 image: 'https://m.media-amazon.com/images/I/41NVNAdm76L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T1GJSXP-es Odoland Vajilla de Acero Inoxidable 13 en 1 con Placa...'
 sku: 'B07T1GJSXP-es'
 tags: [  ]

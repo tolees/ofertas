@@ -5,7 +5,7 @@ date: 2020-10-06 17:06:18
 image: 'https://m.media-amazon.com/images/I/41srHFfwYRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZFSQHK-es Pistola de Calor TACKLIFE Pistola de Aire Caliente 2000W 3...'
 sku: 'B07XZFSQHK-es'
 tags: [  ]

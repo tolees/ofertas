@@ -5,7 +5,7 @@ date: 2020-07-06 07:54:09
 image: 'https://m.media-amazon.com/images/I/41WVYxhjBpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085W3J8VG-es Head Pala de Padel Graphene Monster 2020'
 sku: 'B085W3J8VG-es'
 tags: [  ]

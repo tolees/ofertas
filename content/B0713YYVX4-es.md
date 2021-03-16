@@ -5,7 +5,7 @@ date: 2020-10-01 08:56:11
 image: 'https://m.media-amazon.com/images/I/51RXa1MNF1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0713YYVX4-es Star Wars-Funko Pop Figura de Vinilo Death Star Droid...'
 sku: 'B0713YYVX4-es'
 tags: [  ]

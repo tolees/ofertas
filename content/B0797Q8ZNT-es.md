@@ -5,7 +5,7 @@ date: 2020-06-02 09:24:32
 image: 'https://m.media-amazon.com/images/I/31DZUW0P7aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797Q8ZNT-es PUMA LIGA Shorts Pants Hombre White Black M'
 sku: 'B0797Q8ZNT-es'
 tags: [  ]

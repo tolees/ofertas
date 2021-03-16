@@ -5,7 +5,7 @@ date: 2020-06-10 13:46:36
 image: 'https://m.media-amazon.com/images/I/516PBDQLeRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0894MXDQZ-es BOWFU Funda para Samsung Galaxy A51 5G Case 【Silicona...'
 sku: 'B0894MXDQZ-es'
 tags: [  ]

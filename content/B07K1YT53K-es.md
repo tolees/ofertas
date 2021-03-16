@@ -5,7 +5,7 @@ date: 2020-02-14 07:46:37
 image: 'https://m.media-amazon.com/images/I/51yqqwK0qlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1YT53K-es Apple Watch Series 4 GPS + Cellular con caja de 40 mm de...'
 sku: 'B07K1YT53K-es'
 tags: [  ]

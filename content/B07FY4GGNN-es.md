@@ -5,7 +5,7 @@ date: 2020-06-26 09:05:05
 image: 'https://m.media-amazon.com/images/I/41A9YiWnr0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY4GGNN-es Vans Ward Canvas Zapatillas Unisex Niños Rojo Canvas Port...'
 sku: 'B07FY4GGNN-es'
 tags: [  ]

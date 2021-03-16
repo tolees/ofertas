@@ -5,7 +5,7 @@ date: 2020-01-03 11:49:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2R4XSW-es New Balance 574 Core Zapatillas Hombre Rojo Burgundy 44.5...'
 sku: 'B06Y2R4XSW-es'
 tags: [  ]

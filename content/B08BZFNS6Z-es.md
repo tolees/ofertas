@@ -5,7 +5,7 @@ date: 2020-08-02 18:03:03
 image: 'https://m.media-amazon.com/images/I/31WoRJHLNxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BZFNS6Z-es 4.4inches Protección para los Ojos Almohadilla de Dibujo...'
 sku: 'B08BZFNS6Z-es'
 tags: [  ]

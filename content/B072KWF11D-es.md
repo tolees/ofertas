@@ -5,7 +5,7 @@ date: 2020-03-28 22:01:11
 image: 'https://m.media-amazon.com/images/I/41GTUQM9HcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KWF11D-es ONTA® Deporte Ligero Plegable Auriculares Cascos con...'
 sku: 'B072KWF11D-es'
 tags: [  ]

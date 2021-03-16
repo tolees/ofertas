@@ -5,7 +5,7 @@ date: 2020-08-16 22:07:03
 image: 'https://m.media-amazon.com/images/I/51zgSpMPVBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082QZNLD2-es Pulsera de Actividad Inteligente IP67 Impermeable Reloj...'
 sku: 'B082QZNLD2-es'
 tags: [  ]

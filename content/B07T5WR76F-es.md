@@ -5,7 +5,7 @@ date: 2020-10-03 08:27:01
 image: 'https://m.media-amazon.com/images/I/513cjZ7MUgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T5WR76F-es GLEGLE 16XL Cartuchos Tinta 12 Multipack Reemplazo para...'
 sku: 'B07T5WR76F-es'
 tags: [  ]

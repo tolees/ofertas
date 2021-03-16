@@ -5,7 +5,7 @@ date: 2020-05-20 13:24:59
 image: 'https://m.media-amazon.com/images/I/41I7+SX7x0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVXH1TF-es G-Star Raw 3301 Slim 1/2 Pantalones cortos Negro medium...'
 sku: 'B07NVXH1TF-es'
 tags: [  ]

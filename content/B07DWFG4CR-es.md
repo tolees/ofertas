@@ -5,7 +5,7 @@ date: 2020-01-11 15:27:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31jUnvUsc7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWFG4CR-es AmazonBasics - Cable USB A con conector Lightning...'
 sku: 'B07DWFG4CR-es'
 tags: [  ]

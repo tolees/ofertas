@@ -5,7 +5,7 @@ date: 2020-10-09 16:17:52
 image: 'https://m.media-amazon.com/images/I/41gMrKTlevL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013J7HO8G-es Toshiba X300 - Disco Duro Interno de 4 TB 3.5"'
 sku: 'B013J7HO8G-es'
 tags: [  ]

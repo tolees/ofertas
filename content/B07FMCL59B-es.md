@@ -5,7 +5,7 @@ date: 2020-04-05 06:00:25
 image: 'https://m.media-amazon.com/images/I/410148dt45L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FMCL59B-es Energy Headphones BT Travel 7 ANC Active Noise Cancelling...'
 sku: 'B07FMCL59B-es'
 tags: [  ]

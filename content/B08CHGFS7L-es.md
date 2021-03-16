@@ -5,7 +5,7 @@ date: 2020-09-21 07:46:21
 image: 'https://m.media-amazon.com/images/I/31x2Vw3+ChL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CHGFS7L-es GZ Caja De Almacenamiento De Máscara A Prueba De Polvo A...'
 sku: 'B08CHGFS7L-es'
 tags: [  ]

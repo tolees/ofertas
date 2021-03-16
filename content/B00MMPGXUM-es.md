@@ -5,7 +5,7 @@ date: 2020-06-06 03:08:55
 image: 'https://m.media-amazon.com/images/I/41KidXCK2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MMPGXUM-es Vittoria MTB Lite-Box Camara Unisex Adulto Negro 26 x...'
 sku: 'B00MMPGXUM-es'
 tags: [  ]

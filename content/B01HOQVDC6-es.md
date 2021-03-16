@@ -5,7 +5,7 @@ date: 2020-06-07 09:10:49
 image: 'https://m.media-amazon.com/images/I/41VdEEYKcWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HOQVDC6-es Optimum Nutrition ON Amino Energy Pre Workout Powder Keto...'
 sku: 'B01HOQVDC6-es'
 tags: [  ]

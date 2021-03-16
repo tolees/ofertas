@@ -5,7 +5,7 @@ date: 2020-01-08 16:31:10
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ckdh5nUML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015QMDW1A-es Solo En Casa Aniversario - 25 Años Blu Ray [Blu-ray]'
 sku: 'B015QMDW1A-es'
 tags: [  ]

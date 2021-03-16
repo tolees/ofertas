@@ -5,7 +5,7 @@ date: 2020-01-21 19:22:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41tjAT1O-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CM3CM2H-es Termometro Infrarrojos laser - AUELEK Profesional Medidor...'
 sku: 'B07CM3CM2H-es'
 tags: [  ]

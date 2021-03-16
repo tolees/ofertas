@@ -5,7 +5,7 @@ date: 2020-07-10 01:07:15
 image: 'https://m.media-amazon.com/images/I/418lN+JsmxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSJMCJ3-es MODAUTO Soporte de Videojuego Soporte de Juego de Carreras...'
 sku: 'B07WSJMCJ3-es'
 tags: [  ]

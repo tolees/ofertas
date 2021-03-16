@@ -5,7 +5,7 @@ date: 2020-01-10 16:09:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51GQ2wO-2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009UWECJO-es Glenfarclas - Single Highland Malt Miniature Gift Set'
 sku: 'B009UWECJO-es'
 tags: [  ]

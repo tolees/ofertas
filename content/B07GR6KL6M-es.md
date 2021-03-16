@@ -5,7 +5,7 @@ date: 2020-02-17 12:33:11
 image: 'https://m.media-amazon.com/images/I/41e+lMnfgsL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GR6KL6M-es Fdit Deriva Lazos pulir taladrar Cortes Herramientas de...'
 sku: 'B07GR6KL6M-es'
 tags: [  ]

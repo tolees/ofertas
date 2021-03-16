@@ -5,7 +5,7 @@ date: 2020-07-30 18:25:01
 image: 'https://m.media-amazon.com/images/I/41zzMIRfyqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B9QYCJK-es True Instinct No Grain Mini Paté de Buey para Perros 150...'
 sku: 'B07B9QYCJK-es'
 tags: [  ]

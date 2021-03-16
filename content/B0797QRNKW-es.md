@@ -5,7 +5,7 @@ date: 2020-08-16 14:17:29
 image: 'https://m.media-amazon.com/images/I/41eLN7wozGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797QRNKW-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B0797QRNKW-es'
 tags: [  ]

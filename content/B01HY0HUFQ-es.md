@@ -5,7 +5,7 @@ date: 2020-06-28 22:46:06
 image: 'https://m.media-amazon.com/images/I/31MKx9jTVWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HY0HUFQ-es Burrito Blanco Juego de Sábanas Blanco de Hostelería para...'
 sku: 'B01HY0HUFQ-es'
 tags: [  ]

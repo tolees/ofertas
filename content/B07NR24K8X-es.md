@@ -5,7 +5,7 @@ date: 2020-06-09 07:40:11
 image: 'https://m.media-amazon.com/images/I/41lfRPn7vIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR24K8X-es Versa 15810415 Carro verdulero de Cocina y botellero Rojo...'
 sku: 'B07NR24K8X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-09 09:36:26
 image: 'https://m.media-amazon.com/images/I/41jN-HpI5RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3JSX2R-es Superdry Storm Hybrid Ziphood Capucha Gris Silver Heather...'
 sku: 'B07P3JSX2R-es'
 tags: [  ]

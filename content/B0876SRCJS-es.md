@@ -5,7 +5,7 @@ date: 2020-05-19 15:02:54
 image: 'https://m.media-amazon.com/images/I/317y00HkOKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876SRCJS-es AYUN 1PC del arnés de Clip Asiento Seguro Hebilla Negro...'
 sku: 'B0876SRCJS-es'
 tags: [  ]

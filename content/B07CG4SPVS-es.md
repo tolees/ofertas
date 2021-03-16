@@ -5,7 +5,7 @@ date: 2020-10-06 18:53:32
 image: 'https://m.media-amazon.com/images/I/51SyZ1n7eHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CG4SPVS-es ERAY Manguera Jardín Manguera Extensible 15M/50FT Triple...'
 sku: 'B07CG4SPVS-es'
 tags: [  ]

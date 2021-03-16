@@ -5,7 +5,7 @@ date: 2020-01-22 18:20:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hopaF2PpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYZ52XV-es Skechers Solar Fuse Zapatillas para Mujer Black Mesh/White...'
 sku: 'B07MYZ52XV-es'
 tags: [  ]

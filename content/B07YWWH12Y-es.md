@@ -5,7 +5,7 @@ date: 2020-08-30 01:34:23
 image: 'https://m.media-amazon.com/images/I/51syzOCJW3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YWWH12Y-es ISOPHO Alfombra de Playa Esterilla Playa Manta Picnic...'
 sku: 'B07YWWH12Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-10 18:05:21
 image: 'https://m.media-amazon.com/images/I/41sP4g5j5BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQY468-es Pepe Jeans Misshine suéter Light Khaki 715 Large para Mujer'
 sku: 'B07MZQY468-es'
 tags: [  ]

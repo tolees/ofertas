@@ -5,7 +5,7 @@ date: 2020-02-04 13:31:44
 image: 'https://m.media-amazon.com/images/I/41c0Ot8H-WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRPM8N9-es Nike Internationalist Zapatillas para Mujer Blanco...'
 sku: 'B07BRPM8N9-es'
 tags: [  ]

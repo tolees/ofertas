@@ -5,7 +5,7 @@ date: 2020-07-03 15:47:54
 image: 'https://m.media-amazon.com/images/I/41rWAhuUMUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DY5Y6L2-es Orient Reloj Analógico para Hombre de Automático con...'
 sku: 'B07DY5Y6L2-es'
 tags: [  ]

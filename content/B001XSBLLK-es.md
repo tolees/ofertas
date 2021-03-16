@@ -5,7 +5,7 @@ date: 2020-02-08 17:33:52
 image: 'https://m.media-amazon.com/images/I/31pR9E0oudL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001XSBLLK-es Reebok Classic Leather Zapatillas de Running Niños Negro...'
 sku: 'B001XSBLLK-es'
 tags: [  ]

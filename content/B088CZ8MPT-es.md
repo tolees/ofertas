@@ -5,7 +5,7 @@ date: 2020-06-12 02:11:02
 image: 'https://m.media-amazon.com/images/I/41gQFtZBXQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088CZ8MPT-es LIDIWEE Web Cámara de Video de HD con Micrófono...'
 sku: 'B088CZ8MPT-es'
 tags: [  ]

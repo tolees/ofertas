@@ -5,7 +5,7 @@ date: 2020-07-19 21:57:56
 image: 'https://m.media-amazon.com/images/I/41qO0r61cuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TCC5GWB-es Helly Hansen Ahiga V4 Hydropower Náuticos para Hombre Gris...'
 sku: 'B07TCC5GWB-es'
 tags: [  ]

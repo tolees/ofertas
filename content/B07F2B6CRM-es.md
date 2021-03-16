@@ -5,7 +5,7 @@ date: 2020-06-19 16:15:47
 image: 'https://m.media-amazon.com/images/I/51eF7VIUcHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2B6CRM-es OurLeeme Cubierta Impermeable Barbacoa Grande Protector...'
 sku: 'B07F2B6CRM-es'
 tags: [  ]

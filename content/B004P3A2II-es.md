@@ -5,7 +5,7 @@ date: 2020-08-27 12:14:00
 image: 'https://m.media-amazon.com/images/I/31rNlfGunxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004P3A2II-es Dickies Original 874 Work Pant Pantalones Para Hombre...'
 sku: 'B004P3A2II-es'
 tags: [  ]

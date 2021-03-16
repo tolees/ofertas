@@ -5,7 +5,7 @@ date: 2020-04-19 13:16:14
 image: 'https://m.media-amazon.com/images/I/41BIh8Xw9eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781VKCPX-es Habitdesign - Estantería librería estanteria despacho...'
 sku: 'B0781VKCPX-es'
 tags: [  ]

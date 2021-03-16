@@ -5,7 +5,7 @@ date: 2020-09-22 17:45:45
 image: 'https://m.media-amazon.com/images/I/41Pl4gdC97L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HY7N6MK-es Rowenta Perfect Steam Pro DG8626 Centro de Planchado...'
 sku: 'B07HY7N6MK-es'
 tags: [  ]

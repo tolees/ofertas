@@ -5,7 +5,7 @@ date: 2020-10-05 11:44:20
 image: 'https://m.media-amazon.com/images/I/21hoCRu++AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077N77HSB-es Maybelline New York - Superstay Matte Ink Pintalabios Mate...'
 sku: 'B077N77HSB-es'
 tags: [  ]

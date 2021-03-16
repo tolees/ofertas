@@ -5,7 +5,7 @@ date: 2020-02-06 13:24:10
 image: 'https://m.media-amazon.com/images/I/311sHkLWa9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGGV6MG-es Buff R-Solid Gorra One Touch Unisex Adulto Black Talla única'
 sku: 'B07KGGV6MG-es'
 tags: [  ]

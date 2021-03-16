@@ -5,7 +5,7 @@ date: 2020-01-27 21:46:15
 image: 'https://m.media-amazon.com/images/I/41Cu1z2o9EL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG1TCQJ-es New Balance Fresh Foam Beacon Zapatillas de Running para...'
 sku: 'B07HG1TCQJ-es'
 tags: [  ]

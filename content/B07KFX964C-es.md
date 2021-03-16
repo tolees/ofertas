@@ -5,7 +5,7 @@ date: 2020-10-07 07:13:04
 image: 'https://m.media-amazon.com/images/I/31vTb+dfOLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFX964C-es PUMA TARRENZ SB PURETEX Zapatillas Unisex Adulto Black...'
 sku: 'B07KFX964C-es'
 tags: [  ]

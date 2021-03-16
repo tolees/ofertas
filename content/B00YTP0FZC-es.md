@@ -5,7 +5,7 @@ date: 2020-05-12 19:33:42
 image: 'https://m.media-amazon.com/images/I/41abXm1zF3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YTP0FZC-es Piz Buin Tan & Protect Protector Solar Acelerador del...'
 sku: 'B00YTP0FZC-es'
 tags: [  ]

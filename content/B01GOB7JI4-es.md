@@ -5,7 +5,7 @@ date: 2020-03-18 20:36:30
 image: 'https://m.media-amazon.com/images/I/41R4MOHcELL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GOB7JI4-es Aigostar Steel Blue 31HGB-Plancha de vapor de suela de...'
 sku: 'B01GOB7JI4-es'
 tags: [  ]

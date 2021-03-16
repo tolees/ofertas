@@ -5,7 +5,7 @@ date: 2020-04-09 19:23:49
 image: 'https://m.media-amazon.com/images/I/41mKHVOSJRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QFGYFX9-es Skagen Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07QFGYFX9-es'
 tags: [  ]

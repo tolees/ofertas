@@ -5,7 +5,7 @@ date: 2020-05-28 17:21:31
 image: 'https://m.media-amazon.com/images/I/41oFvNzdMIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088JTFWRT-es First - Lote de 50 máscaras de protección para la boca 3...'
 sku: 'B088JTFWRT-es'
 tags: [  ]

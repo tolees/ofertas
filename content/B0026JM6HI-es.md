@@ -5,7 +5,7 @@ date: 2020-10-08 05:52:50
 image: 'https://m.media-amazon.com/images/I/31JCPvlvdjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0026JM6HI-es Calvin Klein Seductive Comfort-Customized Lift Sujetador...'
 sku: 'B0026JM6HI-es'
 tags: [  ]

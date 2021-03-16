@@ -5,7 +5,7 @@ date: 2020-02-16 18:22:09
 image: 'https://m.media-amazon.com/images/I/41TRgyOQb5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFXK29K-es PUMA Vikky Platform Glitz Jr Zapatillas para Niñas Bridal...'
 sku: 'B07KFXK29K-es'
 tags: [  ]

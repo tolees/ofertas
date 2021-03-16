@@ -5,7 +5,7 @@ date: 2020-07-25 16:29:15
 image: 'https://m.media-amazon.com/images/I/51ZBjdTM4nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y7H34RJ-es Gwertipab Manguera de ducha de acero inoxidable 1.5m...'
 sku: 'B07Y7H34RJ-es'
 tags: [  ]

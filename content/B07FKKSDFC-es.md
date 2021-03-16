@@ -5,7 +5,7 @@ date: 2020-09-26 22:44:19
 image: 'https://m.media-amazon.com/images/I/41xsLMg-dUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKKSDFC-es Energizer - Pilas Recargables Accu Recharge Universal'
 sku: 'B07FKKSDFC-es'
 tags: [  ]

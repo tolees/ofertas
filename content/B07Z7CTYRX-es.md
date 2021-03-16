@@ -5,7 +5,7 @@ date: 2020-09-22 16:46:22
 image: 'https://m.media-amazon.com/images/I/51t5BtXAMpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z7CTYRX-es Alfombrilla de ratón para juegos RGB ampliada extra grande...'
 sku: 'B07Z7CTYRX-es'
 tags: [  ]

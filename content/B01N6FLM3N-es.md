@@ -5,7 +5,7 @@ date: 2020-05-29 14:34:41
 image: 'https://m.media-amazon.com/images/I/41Zj21bpjHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6FLM3N-es Motorola MBP 481 - Vigilabebés vídeo con pantalla LCD a...'
 sku: 'B01N6FLM3N-es'
 tags: [  ]

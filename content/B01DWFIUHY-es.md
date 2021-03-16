@@ -5,7 +5,7 @@ date: 2020-01-23 01:39:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51x3OfctoiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DWFIUHY-es Colgate Fun Smile Cepillo de Dientes Surtido: Modelos...'
 sku: 'B01DWFIUHY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-14 14:44:54
 image: 'https://m.media-amazon.com/images/I/41DJ32blQCL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XPM5L6-es New Balance 247v2 Zapatillas para Mujer Verde Covert...'
 sku: 'B077XPM5L6-es'
 tags: [  ]

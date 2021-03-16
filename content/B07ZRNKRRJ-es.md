@@ -5,7 +5,7 @@ date: 2020-08-16 11:30:44
 image: 'https://m.media-amazon.com/images/I/41TFatt1osL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRNKRRJ-es MIFA X12 Auriculares Bluetooth Auriculares Inalámbricos...'
 sku: 'B07ZRNKRRJ-es'
 tags: [  ]

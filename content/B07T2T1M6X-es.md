@@ -5,7 +5,7 @@ date: 2020-05-24 08:41:07
 image: 'https://m.media-amazon.com/images/I/317zXChxbcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2T1M6X-es MSI PS42 Modern 8RA-280XES - Ordenador portátil de 14" FHD...'
 sku: 'B07T2T1M6X-es'
 tags: [  ]

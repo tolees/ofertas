@@ -5,7 +5,7 @@ date: 2020-09-23 01:08:01
 image: 'https://m.media-amazon.com/images/I/41gtxc92rKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZEI409-es StarTech.com HDMM2MP - Cable HDMI de 2 m color negro'
 sku: 'B01LZEI409-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 10:02:08
 image: 'https://m.media-amazon.com/images/I/413sLr6mP2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082V9Q8VZ-es ventilador silencioso USB RATEL ventilador de Escritorio...'
 sku: 'B082V9Q8VZ-es'
 tags: [  ]

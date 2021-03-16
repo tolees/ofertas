@@ -5,7 +5,7 @@ date: 2020-01-10 07:42:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/4193PGry3lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JN2DS5F-es Buffalo Corin Zapatillas Altas para Mujer Negro Black 000...'
 sku: 'B07JN2DS5F-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 16:02:44
 image: 'https://m.media-amazon.com/images/I/41DvhMO6tOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YW5YH3N-es Funda compatible con Huawei Mate 20 Lite ultrafina suave...'
 sku: 'B07YW5YH3N-es'
 tags: [  ]

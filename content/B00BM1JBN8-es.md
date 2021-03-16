@@ -5,7 +5,7 @@ date: 2020-01-28 20:34:33
 image: 'https://m.media-amazon.com/images/I/41aiVSrWFyL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BM1JBN8-es BaByliss Multigroom 8 en 1 E835E - Cortapelos multifunción...'
 sku: 'B00BM1JBN8-es'
 tags: [  ]

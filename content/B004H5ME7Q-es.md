@@ -5,7 +5,7 @@ date: 2020-05-28 17:08:31
 image: 'https://m.media-amazon.com/images/I/31F3EajZh5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004H5ME7Q-es Clinique 35520 - Barra de labios'
 sku: 'B004H5ME7Q-es'
 tags: [  ]

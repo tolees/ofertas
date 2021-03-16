@@ -5,7 +5,7 @@ date: 2020-07-28 09:33:05
 image: 'https://m.media-amazon.com/images/I/41HN5mRtWEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0XDCFM-es PDP Pixel Pals Luigi - #4 Figuras coleccionables Adultos -...'
 sku: 'B01N0XDCFM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-09 15:05:23
 image: 'https://m.media-amazon.com/images/I/41E7yb41OSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K4CSWR-es COMPRESSPORT Compress Port Hombre V3 Sock Low Unidad...'
 sku: 'B072K4CSWR-es'
 tags: [  ]

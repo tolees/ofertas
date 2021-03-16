@@ -5,7 +5,7 @@ date: 2020-09-21 17:44:45
 image: 'https://m.media-amazon.com/images/I/31yRX4LP4BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMM9CMT-es TUBBZ Fallout T-51 Collectible Duck'
 sku: 'B07WMM9CMT-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-26 18:51:24
 image: 'https://m.media-amazon.com/images/I/41IyocxWaGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MJLB55-es Klarstein Speed Iron V2 plancha de vapor - 2100 W depósito...'
 sku: 'B082MJLB55-es'
 tags: [  ]

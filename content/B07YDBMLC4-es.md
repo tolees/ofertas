@@ -5,7 +5,7 @@ date: 2020-08-17 07:43:04
 image: 'https://m.media-amazon.com/images/I/41bjIndzW-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDBMLC4-es Luchild Almohada para lactancia Almohada multifuncional...'
 sku: 'B07YDBMLC4-es'
 tags: [  ]

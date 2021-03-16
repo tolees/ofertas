@@ -5,7 +5,7 @@ date: 2020-08-21 18:36:01
 image: 'https://m.media-amazon.com/images/I/41zwHwm0JxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H7L4RMN-es Rowenta RR6971WH Smart Force Essential Aqua - Robot...'
 sku: 'B07H7L4RMN-es'
 tags: [  ]

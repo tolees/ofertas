@@ -5,7 +5,7 @@ date: 2020-09-15 06:34:45
 image: 'https://m.media-amazon.com/images/I/51xp2YSUwkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004IV9PFS-es Haflinger Paul Zapatillas de Casa Infantil Azul Blau/Jeans...'
 sku: 'B004IV9PFS-es'
 tags: [  ]

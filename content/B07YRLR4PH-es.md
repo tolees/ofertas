@@ -5,7 +5,7 @@ date: 2020-04-18 09:40:46
 image: 'https://m.media-amazon.com/images/I/41dfS4P6BWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YRLR4PH-es Cincobebé Manta Swaddle/Toalla de Baño Acogedora y Suave 6...'
 sku: 'B07YRLR4PH-es'
 tags: [  ]

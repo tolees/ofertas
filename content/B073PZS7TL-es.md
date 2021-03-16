@@ -5,7 +5,7 @@ date: 2020-03-30 12:32:08
 image: 'https://m.media-amazon.com/images/I/41ys9FI893L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073PZS7TL-es Panasonic SC-UA3E-K 300W Negro Sistema de Audio para el...'
 sku: 'B073PZS7TL-es'
 tags: [  ]

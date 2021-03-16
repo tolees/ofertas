@@ -5,7 +5,7 @@ date: 2020-09-24 13:48:26
 image: 'https://m.media-amazon.com/images/I/41stLvTRrXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9RX5J7-es PUMA LQDCELL Hydra Zapatillas Deportivas para Interior...'
 sku: 'B07S9RX5J7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 06:31:28
 image: 'https://m.media-amazon.com/images/I/41F9kMhvKYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SDRHLM-es Funda Universal para Tableta portátil Funda Ultra Suave a...'
 sku: 'B083SDRHLM-es'
 tags: [  ]

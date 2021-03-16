@@ -5,7 +5,7 @@ date: 2020-10-09 13:08:14
 image: 'https://m.media-amazon.com/images/I/41qq0h3hH8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008OUVLTC-es L Oréal Paris Excellence Creme Tinte Tono 9.3 Rubio Claro...'
 sku: 'B008OUVLTC-es'
 tags: [  ]

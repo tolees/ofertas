@@ -5,7 +5,7 @@ date: 2020-05-14 12:02:21
 image: 'https://m.media-amazon.com/images/I/41qDcxvyp9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086RKB3RS-es Equipaje Maletas y Bolsas de Viaje - Premium Designer...'
 sku: 'B086RKB3RS-es'
 tags: [  ]

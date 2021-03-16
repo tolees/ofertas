@@ -5,7 +5,7 @@ date: 2020-04-17 08:38:03
 image: 'https://m.media-amazon.com/images/I/51q-zqGcmDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QVZV8Q5-es Exprimidor Manual de Acero Inoxidable 304 con Recipiente...'
 sku: 'B07QVZV8Q5-es'
 tags: [  ]

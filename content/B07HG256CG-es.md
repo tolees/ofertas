@@ -5,7 +5,7 @@ date: 2020-01-16 08:36:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41WQsraVRHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HG256CG-es New Balance 373 Zapatillas Hombre Gris Grey Grey 43 EU'
 sku: 'B07HG256CG-es'
 tags: [  ]

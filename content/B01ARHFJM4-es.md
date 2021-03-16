@@ -5,7 +5,7 @@ date: 2020-10-01 17:30:55
 image: 'https://m.media-amazon.com/images/I/418SCgh+2kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ARHFJM4-es Conceptronic CSPKBTBASSPARTY 20 W Negro Rojo - Altavoces...'
 sku: 'B01ARHFJM4-es'
 tags: [  ]

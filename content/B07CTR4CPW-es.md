@@ -5,7 +5,7 @@ date: 2020-07-09 14:16:46
 image: 'https://m.media-amazon.com/images/I/41dY3N6+w0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTR4CPW-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B07CTR4CPW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-08 19:00:28
 image: 'https://m.media-amazon.com/images/I/41QrmRCSyXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKHFXY5-es Kipling Gabbie S Bolsos Bandolera para Mujer Morado Active...'
 sku: 'B07DKHFXY5-es'
 tags: [  ]

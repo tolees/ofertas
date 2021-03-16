@@ -5,7 +5,7 @@ date: 2020-07-01 23:18:29
 image: 'https://m.media-amazon.com/images/I/51NBhmS75TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FSWYDC-es Familybox Red de Piscina Skimmer Recoge Hojas Recogehojas...'
 sku: 'B082FSWYDC-es'
 tags: [  ]

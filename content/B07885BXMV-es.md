@@ -5,7 +5,7 @@ date: 2020-08-26 07:38:44
 image: 'https://m.media-amazon.com/images/I/41VwJDFTrOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07885BXMV-es Casio Smart Watch Armbanduhr LA670WEM-7EF'
 sku: 'B07885BXMV-es'
 tags: [  ]

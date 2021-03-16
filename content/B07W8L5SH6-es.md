@@ -5,7 +5,7 @@ date: 2020-10-08 18:47:39
 image: 'https://m.media-amazon.com/images/I/41dgUPUZLNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8L5SH6-es MyHGRC - Mando a distancia para reproductor de DVD...'
 sku: 'B07W8L5SH6-es'
 tags: [  ]

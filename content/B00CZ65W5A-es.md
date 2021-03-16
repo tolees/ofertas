@@ -5,7 +5,7 @@ date: 2020-03-14 09:32:02
 image: 'https://m.media-amazon.com/images/I/41l-aSGCphL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CZ65W5A-es whiskas Anti-Hairball de 60g para Bolas de Pelo de Uso...'
 sku: 'B00CZ65W5A-es'
 tags: [  ]

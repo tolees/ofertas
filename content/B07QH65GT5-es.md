@@ -5,7 +5,7 @@ date: 2020-02-06 12:31:17
 image: 'https://m.media-amazon.com/images/I/31GMeo-ek8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QH65GT5-es Chicco Lamparita Dulces Sueños - Lámpara quita miedos anti...'
 sku: 'B07QH65GT5-es'
 tags: [  ]

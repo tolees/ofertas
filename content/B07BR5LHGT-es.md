@@ -5,7 +5,7 @@ date: 2020-05-23 12:33:47
 image: 'https://m.media-amazon.com/images/I/51w5GHz-lKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BR5LHGT-es L Oreal Paris Colorista Hair Make Up Metallic Blue'
 sku: 'B07BR5LHGT-es'
 tags: [  ]

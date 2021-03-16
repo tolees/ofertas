@@ -5,7 +5,7 @@ date: 2020-01-17 19:22:55
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51XHqaKQHVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07919DNLB-es Súper brillante 24V 5m RGBWW RGB + blanco cálido 4 en 1...'
 sku: 'B07919DNLB-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-07 05:03:34
 image: 'https://m.media-amazon.com/images/I/410Pv3wVB0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C4QL66Y-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 128...'
 sku: 'B01C4QL66Y-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-02 21:48:37
 image: 'https://m.media-amazon.com/images/I/41dFtCpNTwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHBLC7V-es Kipling - New Hiphurray Bolsos totes Mujer Rojo Lively Red...'
 sku: 'B07BHBLC7V-es'
 tags: [  ]

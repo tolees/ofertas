@@ -5,7 +5,7 @@ date: 2020-02-03 09:04:35
 image: 'https://m.media-amazon.com/images/I/41j+v+jihgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG5XMX5-es PUMA LQDCELL Origin Tech Zapatillas de Running para Hombre...'
 sku: 'B07KG5XMX5-es'
 tags: [  ]

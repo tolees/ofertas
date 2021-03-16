@@ -5,7 +5,7 @@ date: 2020-10-01 10:22:42
 image: 'https://m.media-amazon.com/images/I/41ZfDLIkzJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FXX7M8J-es Levi s 502 Regular Taper Jeans Azul Rock Cod 0280 34W /...'
 sku: 'B07FXX7M8J-es'
 tags: [  ]

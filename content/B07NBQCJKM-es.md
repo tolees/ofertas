@@ -5,7 +5,7 @@ date: 2020-04-15 08:35:41
 image: 'https://m.media-amazon.com/images/I/41x6iycOSIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NBQCJKM-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07NBQCJKM-es'
 tags: [  ]

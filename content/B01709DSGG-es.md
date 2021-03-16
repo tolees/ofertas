@@ -5,7 +5,7 @@ date: 2020-03-21 13:28:59
 image: 'https://m.media-amazon.com/images/I/51419CuPR1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01709DSGG-es Bergner Red Stone Plancha-asador en Aluminio Fundido...'
 sku: 'B01709DSGG-es'
 tags: [  ]

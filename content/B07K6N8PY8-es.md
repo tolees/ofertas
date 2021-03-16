@@ -5,7 +5,7 @@ date: 2020-09-04 15:16:00
 image: 'https://m.media-amazon.com/images/I/51Cp-s1vbOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6N8PY8-es Columbia Snuggly Bunny Mono de esquí infantil Niño Verde...'
 sku: 'B07K6N8PY8-es'
 tags: [  ]

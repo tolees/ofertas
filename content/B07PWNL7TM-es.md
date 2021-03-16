@@ -5,7 +5,7 @@ date: 2020-06-24 18:29:37
 image: 'https://m.media-amazon.com/images/I/414SsKhx8lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWNL7TM-es Under Armour UA GS Charged Pursuit 2 Zapatillas de Running...'
 sku: 'B07PWNL7TM-es'
 tags: [  ]

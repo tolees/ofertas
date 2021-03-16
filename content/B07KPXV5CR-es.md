@@ -5,7 +5,7 @@ date: 2020-04-11 18:33:51
 image: 'https://m.media-amazon.com/images/I/51Vpk4G1TFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPXV5CR-es UniqueMe Funda para Nokia 9 Ultra [Slim Thin] TPU Funda...'
 sku: 'B07KPXV5CR-es'
 tags: [  ]

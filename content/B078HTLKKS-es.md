@@ -5,7 +5,7 @@ date: 2020-08-03 18:08:34
 image: 'https://m.media-amazon.com/images/I/510cXFGO01L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HTLKKS-es reer 83221 protector para plantas Negro Nylon -...'
 sku: 'B078HTLKKS-es'
 tags: [  ]

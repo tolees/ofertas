@@ -5,7 +5,7 @@ date: 2020-02-20 12:37:57
 image: 'https://m.media-amazon.com/images/I/31YTAIIvfdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC82MJ2-es LE COQ SPORTIF Verdon Sport Zapatillas para Hombre Beige...'
 sku: 'B07DC82MJ2-es'
 tags: [  ]

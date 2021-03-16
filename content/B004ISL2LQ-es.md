@@ -5,7 +5,7 @@ date: 2020-05-29 13:15:48
 image: 'https://m.media-amazon.com/images/I/41QQ5E9qvbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ISL2LQ-es Gowi 454-81 - Juego de cubiertos y bandeja 17 piezas...'
 sku: 'B004ISL2LQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-12 16:09:23
 image: 'https://m.media-amazon.com/images/I/418OmbO-lOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088D3RGT5-es Suhctup Funda Compatible para Samsung Galaxy S10E Carcasa...'
 sku: 'B088D3RGT5-es'
 tags: [  ]

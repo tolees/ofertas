@@ -5,7 +5,7 @@ date: 2020-10-09 15:02:08
 image: 'https://m.media-amazon.com/images/I/31n70CQuXkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XGC335R-es Cosmopolitan Rainbow Shine Hair Waver Tong - Rizos sueltos...'
 sku: 'B07XGC335R-es'
 tags: [  ]

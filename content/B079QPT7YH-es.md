@@ -5,7 +5,7 @@ date: 2020-03-19 11:49:48
 image: 'https://m.media-amazon.com/images/I/41pUYHrFTRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QPT7YH-es McAfee Total Protection 2020 - Antivirus | 5 Dispositivos...'
 sku: 'B079QPT7YH-es'
 tags: [  ]

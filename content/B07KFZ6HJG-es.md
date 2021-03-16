@@ -5,7 +5,7 @@ date: 2020-01-30 19:41:05
 image: 'https://m.media-amazon.com/images/I/41L33AwF1LL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZ6HJG-es PUMA Vista Mid WTR Zapatillas Altas Unisex Adulto Taffy-...'
 sku: 'B07KFZ6HJG-es'
 tags: [  ]

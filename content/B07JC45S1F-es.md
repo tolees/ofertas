@@ -5,7 +5,7 @@ date: 2020-06-26 19:04:54
 image: 'https://m.media-amazon.com/images/I/41wJndhr9CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JC45S1F-es Pioneer DJ HDJ-X5BT-W Auriculares Bluetooth Blanco'
 sku: 'B07JC45S1F-es'
 tags: [  ]

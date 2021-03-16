@@ -5,7 +5,7 @@ date: 2020-05-13 01:28:16
 image: 'https://m.media-amazon.com/images/I/41xMI2q+O9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFXXNKM-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07NFXXNKM-es'
 tags: [  ]

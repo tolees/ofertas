@@ -5,7 +5,7 @@ date: 2020-02-13 12:16:45
 image: 'https://m.media-amazon.com/images/I/31YXL+T2p8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084DTQ5TZ-es Cartera Caballero en Piel Modelo Americano'
 sku: 'B084DTQ5TZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 16:31:06
 image: 'https://m.media-amazon.com/images/I/61ZRP8WP60L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJ9VKFC-es TianMai Caliente Nueva DIY 5D Kit de Pintura Taladro...'
 sku: 'B07CJ9VKFC-es'
 tags: [  ]

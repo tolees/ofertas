@@ -5,7 +5,7 @@ date: 2020-04-14 09:28:38
 image: 'https://m.media-amazon.com/images/I/513Am3Jif4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJPQL33-es Clay Dinosaur Toys Set for Kids - Magic Modeling Clay 26...'
 sku: 'B07KJPQL33-es'
 tags: [  ]

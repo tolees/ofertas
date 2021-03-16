@@ -5,7 +5,7 @@ date: 2020-06-17 15:46:26
 image: 'https://m.media-amazon.com/images/I/41uERwvIjIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0897QKKFR-es ZXYAN Wind Up mecánica Ballena de plástico con la Rueda...'
 sku: 'B0897QKKFR-es'
 tags: [  ]

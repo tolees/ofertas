@@ -5,7 +5,7 @@ date: 2020-08-28 08:11:44
 image: 'https://m.media-amazon.com/images/I/41UaV4mHcyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MV9MNDF-es Kipling - Creativity L Monederos Mujer Gris Night Grey...'
 sku: 'B07MV9MNDF-es'
 tags: [  ]

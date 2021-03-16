@@ -5,7 +5,7 @@ date: 2020-03-27 14:39:18
 image: 'https://m.media-amazon.com/images/I/41vWqkGLFML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CFH2D8S-es JACK & JONES Jjivega Jjretro WW Black Noos Pantalones de...'
 sku: 'B07CFH2D8S-es'
 tags: [  ]

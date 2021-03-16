@@ -5,7 +5,7 @@ date: 2020-06-16 08:30:39
 image: 'https://m.media-amazon.com/images/I/41-hYZzQ8qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0011ZX6GS-es Anita Maternity 5068 Sujetador de Lactancia Para Mujer...'
 sku: 'B0011ZX6GS-es'
 tags: [  ]

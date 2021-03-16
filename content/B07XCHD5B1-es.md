@@ -5,7 +5,7 @@ date: 2020-06-14 17:55:10
 image: 'https://m.media-amazon.com/images/I/51eFG034QlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCHD5B1-es Relojes Hombre Relojes de Pulsera Marea Cronometro...'
 sku: 'B07XCHD5B1-es'
 tags: [  ]

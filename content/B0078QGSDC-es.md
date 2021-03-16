@@ -5,7 +5,7 @@ date: 2020-05-16 00:30:57
 image: 'https://m.media-amazon.com/images/I/41+Vvt-XqzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0078QGSDC-es Timex T2N794 - Reloj análogico de cuarzo con correa de...'
 sku: 'B0078QGSDC-es'
 tags: [  ]

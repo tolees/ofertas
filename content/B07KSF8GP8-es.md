@@ -5,7 +5,7 @@ date: 2020-06-02 08:43:05
 image: 'https://m.media-amazon.com/images/I/41GVkVLWV9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSF8GP8-es KIKI Alimento Completo para jilgueros y pájaros Silvestres'
 sku: 'B07KSF8GP8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-04 11:58:32
 image: 'https://m.media-amazon.com/images/I/41yQQGFhEzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMQ9RMB-es GRIDINLUX. Aparato de Radiofrecuencia Facial. Tecnología...'
 sku: 'B07TMQ9RMB-es'
 tags: [  ]

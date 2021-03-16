@@ -5,7 +5,7 @@ date: 2020-05-12 21:34:50
 image: 'https://m.media-amazon.com/images/I/21wPInCh7vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWZN42Z-es Könighaus - Calefactor por infrarrojos 800 y 1000 W 12-34...'
 sku: 'B07VWZN42Z-es'
 tags: [  ]

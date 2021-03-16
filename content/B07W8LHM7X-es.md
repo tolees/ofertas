@@ -5,7 +5,7 @@ date: 2020-09-13 18:32:16
 image: 'https://m.media-amazon.com/images/I/51T+KoObu1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8LHM7X-es Dc Colección 7 Películas 2019 Blu-Ray [Blu-ray]'
 sku: 'B07W8LHM7X-es'
 tags: [  ]

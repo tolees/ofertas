@@ -5,7 +5,7 @@ date: 2020-01-21 03:33:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414RTB6JjOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VEAD0HK-es Andador Caminador de aluminio con rueda doble y sin asiento'
 sku: 'B00VEAD0HK-es'
 tags: [  ]

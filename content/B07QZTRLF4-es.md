@@ -5,7 +5,7 @@ date: 2020-02-17 10:33:57
 image: 'https://m.media-amazon.com/images/I/314JBl677iL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZTRLF4-es Under Armour Qualifier 2-In-1 Pantalones Cortos Hombre...'
 sku: 'B07QZTRLF4-es'
 tags: [  ]

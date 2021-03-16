@@ -5,7 +5,7 @@ date: 2020-02-02 02:01:07
 image: 'https://m.media-amazon.com/images/I/41aj1+WnrBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWMECSJ-es San Ignacio Cazo Aluminio Forjado Gris 16 cm'
 sku: 'B01LWMECSJ-es'
 tags: [  ]

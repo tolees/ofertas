@@ -5,7 +5,7 @@ date: 2020-07-04 05:35:47
 image: 'https://m.media-amazon.com/images/I/41-Hf64h7LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RD1MPYD-es Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón Rosa Pink Tf4...'
 sku: 'B07RD1MPYD-es'
 tags: [  ]

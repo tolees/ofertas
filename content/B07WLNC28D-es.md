@@ -5,7 +5,7 @@ date: 2020-10-05 12:08:19
 image: 'https://m.media-amazon.com/images/I/51gy1Idc+ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLNC28D-es Tommy Hilfiger Medium Drawstring Bañador Blanco XX-Large...'
 sku: 'B07WLNC28D-es'
 tags: [  ]

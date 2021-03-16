@@ -5,7 +5,7 @@ date: 2020-07-10 10:48:22
 image: 'https://m.media-amazon.com/images/I/51ifmvl-e8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCF1W4F-es Farol Solar Exterior Jardin Tomshine Lámpara Solar...'
 sku: 'B07RCF1W4F-es'
 tags: [  ]

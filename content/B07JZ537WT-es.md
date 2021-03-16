@@ -5,7 +5,7 @@ date: 2020-05-17 19:22:59
 image: 'https://m.media-amazon.com/images/I/41XWbMLHmvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JZ537WT-es adidas Superstar J Zapatillas de Gimnasia Unisex Niños...'
 sku: 'B07JZ537WT-es'
 tags: [  ]

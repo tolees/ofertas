@@ -5,7 +5,7 @@ date: 2020-05-07 16:01:43
 image: 'https://m.media-amazon.com/images/I/41g9P+LyYBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKYSPQ5-es Asiento del automóvil Asiento trasero Protector de la...'
 sku: 'B07VKYSPQ5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 19:29:05
 image: 'https://m.media-amazon.com/images/I/51yAZB0i7YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085VX2XR7-es QHOHQ Protector de Pantalla Compatible para Xiaomi Redmi...'
 sku: 'B085VX2XR7-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-02 21:09:45
 image: 'https://m.media-amazon.com/images/I/61BI+LIXHbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079P2Y4FP-es Diset- Pinto con el Dedo 2 años 68953'
 sku: 'B079P2Y4FP-es'
 tags: [  ]

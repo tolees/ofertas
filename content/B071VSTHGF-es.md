@@ -5,7 +5,7 @@ date: 2020-05-27 17:44:38
 image: 'https://m.media-amazon.com/images/I/51BO5zLToEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071VSTHGF-es Vegetalia Jengibre seco en polvo - 80 gr.'
 sku: 'B071VSTHGF-es'
 tags: [  ]

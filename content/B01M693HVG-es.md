@@ -5,7 +5,7 @@ date: 2020-04-28 15:21:35
 image: 'https://m.media-amazon.com/images/I/41aF0a9uw7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M693HVG-es Auna iAdapt 280 - Adaptador de Radio Digital Módulo de...'
 sku: 'B01M693HVG-es'
 tags: [  ]

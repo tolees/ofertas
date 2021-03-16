@@ -5,7 +5,7 @@ date: 2020-06-02 16:09:51
 image: 'https://m.media-amazon.com/images/I/21YkVP9KS3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HWKFQD6-es ASUS ROG Gaming Wrist Rest'
 sku: 'B07HWKFQD6-es'
 tags: [  ]

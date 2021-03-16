@@ -5,7 +5,7 @@ date: 2020-04-07 21:56:12
 image: 'https://m.media-amazon.com/images/I/41GrPqEsX3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4MTCTQ-es Lazmin Mini Kids Play Kitchen Modern Red Kitchen Toy...'
 sku: 'B07W4MTCTQ-es'
 tags: [  ]

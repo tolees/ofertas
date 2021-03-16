@@ -5,7 +5,7 @@ date: 2020-01-11 21:06:19
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41VIkE0be9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KNK7RR-es Targus Click-in - Funda para el iPad Pro de 10.5" Color Gris'
 sku: 'B071KNK7RR-es'
 tags: [  ]

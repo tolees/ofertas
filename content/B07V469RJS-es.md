@@ -5,7 +5,7 @@ date: 2020-06-14 14:23:11
 image: 'https://m.media-amazon.com/images/I/51aWDbvDaJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V469RJS-es Xpassion Mini Maquina de Coser Portátil de Mano...'
 sku: 'B07V469RJS-es'
 tags: [  ]

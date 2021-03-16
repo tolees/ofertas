@@ -5,7 +5,7 @@ date: 2020-02-20 20:25:42
 image: 'https://m.media-amazon.com/images/I/31w4sYc6EWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PBCBG3B-es Wrangler Arizona Pantalones Azul Oxford Blue 072 W33/L30...'
 sku: 'B07PBCBG3B-es'
 tags: [  ]

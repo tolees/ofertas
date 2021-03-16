@@ -5,7 +5,7 @@ date: 2020-09-05 11:40:10
 image: 'https://m.media-amazon.com/images/I/51TnWuqpqOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYVJY3Q-es Fintie SlimShell Funda para Kindle Paperwhite 10.ª...'
 sku: 'B07JYVJY3Q-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-02 15:05:14
 image: 'https://m.media-amazon.com/images/I/41O9dX1IPBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PNUCGAY-es Gardena 18311-20 Pistola Gris Naranja embalado'
 sku: 'B00PNUCGAY-es'
 tags: [  ]

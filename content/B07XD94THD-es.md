@@ -5,7 +5,7 @@ date: 2020-05-14 09:00:34
 image: 'https://m.media-amazon.com/images/I/413rr6Jzs1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD94THD-es BAIGIO Bolsa de Herramientas con Cinturón de Nailon...'
 sku: 'B07XD94THD-es'
 tags: [  ]

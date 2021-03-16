@@ -5,7 +5,7 @@ date: 2020-06-09 09:11:01
 image: 'https://m.media-amazon.com/images/I/41sigBCgnPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1QLW14-es Orimade Adhesivo Estantes Cesta para Ducha Estanteria con...'
 sku: 'B07X1QLW14-es'
 tags: [  ]

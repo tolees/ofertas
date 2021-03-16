@@ -5,7 +5,7 @@ date: 2020-05-06 22:03:26
 image: 'https://m.media-amazon.com/images/I/41LdF+1TQAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2MSK9X-es Tommy Hilfiger - Mini Reporter Shoppers y bolsos de hombro...'
 sku: 'B07V2MSK9X-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-29 14:46:14
 image: 'https://m.media-amazon.com/images/I/417pKXcvTSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YTHQWB-es 4UMOR Báscula Digital para Maleta Viaje de Mano de...'
 sku: 'B075YTHQWB-es'
 tags: [  ]

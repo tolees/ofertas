@@ -5,7 +5,7 @@ date: 2020-04-07 21:52:37
 image: 'https://m.media-amazon.com/images/I/41U7QKl0Y+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083B7YN7F-es hollylife Utensilio de Cocina 5 Piezas Moderna Sólidas...'
 sku: 'B083B7YN7F-es'
 tags: [  ]

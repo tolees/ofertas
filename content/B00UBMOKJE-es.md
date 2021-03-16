@@ -5,7 +5,7 @@ date: 2020-04-03 17:47:51
 image: 'https://m.media-amazon.com/images/I/41asqBTYczL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UBMOKJE-es HP CF361X 508X Cartucho de Tóner Original de alto...'
 sku: 'B00UBMOKJE-es'
 tags: [  ]

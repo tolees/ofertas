@@ -5,7 +5,7 @@ date: 2020-01-12 17:03:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31GhGVf53%2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCZCY3B-es Luz solar para el césped luz solar de la flor del jacinto...'
 sku: 'B07QCZCY3B-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-02 21:45:30
 image: 'https://m.media-amazon.com/images/I/31FTa2iicoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0BFAJ6-es Taurus UNIC500PLUSINOX Batidora 500 W 0 Decibelios...'
 sku: 'B01N0BFAJ6-es'
 tags: [  ]

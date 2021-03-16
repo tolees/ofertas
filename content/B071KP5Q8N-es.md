@@ -5,7 +5,7 @@ date: 2020-06-11 16:44:27
 image: 'https://m.media-amazon.com/images/I/417kWVW3MyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071KP5Q8N-es Tommy Hilfiger Demi Lift Sujetador Negro Black 001 70D...'
 sku: 'B071KP5Q8N-es'
 tags: [  ]

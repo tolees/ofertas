@@ -5,7 +5,7 @@ date: 2020-09-11 21:25:38
 image: 'https://m.media-amazon.com/images/I/41kV1Mcc6YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRY9PQ5-es feihao Juguetes para Gatos Interactivos Bola de Gato...'
 sku: 'B08CRY9PQ5-es'
 tags: [  ]

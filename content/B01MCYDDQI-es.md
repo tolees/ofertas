@@ -5,7 +5,7 @@ date: 2020-08-16 14:52:47
 image: 'https://m.media-amazon.com/images/I/51qjSht2emL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MCYDDQI-es Blood Rage Bogowie Asgardu'
 sku: 'B01MCYDDQI-es'
 tags: [  ]

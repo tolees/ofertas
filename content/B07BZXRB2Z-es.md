@@ -5,7 +5,7 @@ date: 2020-05-10 15:05:22
 image: 'https://m.media-amazon.com/images/I/41vvNjQqXkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BZXRB2Z-es Fleet & Foster - Zapatillas Deportivas Canary Summer para...'
 sku: 'B07BZXRB2Z-es'
 tags: [  ]

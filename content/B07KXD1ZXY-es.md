@@ -5,7 +5,7 @@ date: 2020-06-22 13:25:41
 image: 'https://m.media-amazon.com/images/I/41EdzuiushL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXD1ZXY-es Keter Duotech M Maceta Sequoia Tamaño M'
 sku: 'B07KXD1ZXY-es'
 tags: [  ]

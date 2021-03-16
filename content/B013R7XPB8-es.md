@@ -5,7 +5,7 @@ date: 2020-08-29 09:02:48
 image: 'https://m.media-amazon.com/images/I/41COKmjRQdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013R7XPB8-es AmazonBasics - Bayeta de microfibra 6 unidades color...'
 sku: 'B013R7XPB8-es'
 tags: [  ]

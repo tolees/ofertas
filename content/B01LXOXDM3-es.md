@@ -5,7 +5,7 @@ date: 2020-07-05 22:07:04
 image: 'https://m.media-amazon.com/images/I/411vUD9pihL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LXOXDM3-es TENMOS X96 Ratón Gaming inalámbrico Recargable Silenciosa...'
 sku: 'B01LXOXDM3-es'
 tags: [  ]

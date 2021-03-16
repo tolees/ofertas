@@ -5,7 +5,7 @@ date: 2020-08-17 19:53:25
 image: 'https://m.media-amazon.com/images/I/51nB5sCah2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHVNKT3-es PATO® - Active Clean Colgador para Inodoro frescor Intenso...'
 sku: 'B07RHVNKT3-es'
 tags: [  ]

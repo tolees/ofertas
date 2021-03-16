@@ -5,7 +5,7 @@ date: 2020-07-04 07:56:15
 image: 'https://m.media-amazon.com/images/I/513xRXQetiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076Q8SYJ4-es Esprit Rachel Padded Bra Sujetador Negro Black 001 100C...'
 sku: 'B076Q8SYJ4-es'
 tags: [  ]

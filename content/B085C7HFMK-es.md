@@ -5,7 +5,7 @@ date: 2020-07-11 18:34:21
 image: 'https://m.media-amazon.com/images/I/51ZLkERSMAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085C7HFMK-es Yaspark Fenix 5X Correa Silicona Bandas 26mm Repuesto...'
 sku: 'B085C7HFMK-es'
 tags: [  ]

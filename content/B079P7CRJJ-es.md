@@ -5,7 +5,7 @@ date: 2020-01-03 09:15:48
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41vXDUzI6SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079P7CRJJ-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer lt Green...'
 sku: 'B079P7CRJJ-es'
 tags: [  ]

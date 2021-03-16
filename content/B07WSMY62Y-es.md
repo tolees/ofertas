@@ -5,7 +5,7 @@ date: 2020-02-19 06:54:32
 image: 'https://m.media-amazon.com/images/I/41Zs2LJteML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSMY62Y-es memumi Case para iPhone 11 Pro MAX Funda Ultra Delgada...'
 sku: 'B07WSMY62Y-es'
 tags: [  ]

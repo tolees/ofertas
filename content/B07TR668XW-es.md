@@ -5,7 +5,7 @@ date: 2020-03-24 14:03:56
 image: 'https://m.media-amazon.com/images/I/411goE0DT4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TR668XW-es Vans Ward Suede/Canvas Zapatillas para Hombre Negro Otw...'
 sku: 'B07TR668XW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-27 19:01:05
 image: 'https://m.media-amazon.com/images/I/31e8swgREWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089WL1KPV-es MERIGLARE 2 Piezas De Viaje Frasco Vacío Olla Muestra De...'
 sku: 'B089WL1KPV-es'
 tags: [  ]

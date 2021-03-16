@@ -5,7 +5,7 @@ date: 2020-05-23 14:15:33
 image: 'https://m.media-amazon.com/images/I/51MqEYxY8ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DEID79G-es CTEK MXS 5.0 Cargador de Batería Totalmente Automático...'
 sku: 'B00DEID79G-es'
 tags: [  ]

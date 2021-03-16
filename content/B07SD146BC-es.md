@@ -5,7 +5,7 @@ date: 2020-04-14 13:34:17
 image: 'https://m.media-amazon.com/images/I/41D2r89ZKlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SD146BC-es PUMA COURTFLEX V2 V INF Zapatillas Unisex niños Azul...'
 sku: 'B07SD146BC-es'
 tags: [  ]

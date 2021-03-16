@@ -5,7 +5,7 @@ date: 2020-06-27 12:39:20
 image: 'https://m.media-amazon.com/images/I/41B6pvVNwfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0817FMGKX-es Columbia Fast Trek Light Forro Polar con Cremallera Mujer...'
 sku: 'B0817FMGKX-es'
 tags: [  ]

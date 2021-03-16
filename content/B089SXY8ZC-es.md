@@ -5,7 +5,7 @@ date: 2020-08-10 18:36:02
 image: 'https://m.media-amazon.com/images/I/31hwuDqEggL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SXY8ZC-es Faux Gemstones Naturales Colgante de Reiki Puntiagudo...'
 sku: 'B089SXY8ZC-es'
 tags: [  ]

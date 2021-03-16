@@ -5,7 +5,7 @@ date: 2020-09-01 15:31:40
 image: 'https://m.media-amazon.com/images/I/51U01rhP3xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M3YGTM-es Suhctup Funda Compatible con Xiaomi Redmi K20/K20 Pro...'
 sku: 'B088M3YGTM-es'
 tags: [  ]

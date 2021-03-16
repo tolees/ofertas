@@ -5,7 +5,7 @@ date: 2020-02-13 16:23:12
 image: 'https://m.media-amazon.com/images/I/31i8PJO9HuL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KTPMCYS-es BaByliss iPro Large Styler Iónico Negro'
 sku: 'B00KTPMCYS-es'
 tags: [  ]

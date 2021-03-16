@@ -5,7 +5,7 @@ date: 2020-02-10 04:22:54
 image: 'https://m.media-amazon.com/images/I/31wsmWfgBQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WR4H2TE-es L Oréal Paris Barra de Labios Color Riche 335'
 sku: 'B00WR4H2TE-es'
 tags: [  ]

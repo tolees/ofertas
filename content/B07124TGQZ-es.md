@@ -5,7 +5,7 @@ date: 2020-02-15 18:16:44
 image: 'https://m.media-amazon.com/images/I/312dFIVV+sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07124TGQZ-es Grohe Nova Cosmopolitan S Escudo - Placa de descarga'
 sku: 'B07124TGQZ-es'
 tags: [  ]

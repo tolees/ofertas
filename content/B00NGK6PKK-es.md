@@ -5,7 +5,7 @@ date: 2020-01-16 11:48:39
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NGK6PKK-es Cumlaude Rilastil Sunlaude Spf50 y Compacto Medium - 10 gr'
 sku: 'B00NGK6PKK-es'
 tags: [  ]

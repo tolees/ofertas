@@ -5,7 +5,7 @@ date: 2020-05-23 08:36:53
 image: 'https://m.media-amazon.com/images/I/41e1rjGHusL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N39P9SY-es Belmont Plus: Maleta DE Cabina 4 Ruedas Dobles 55 CM'
 sku: 'B07N39P9SY-es'
 tags: [  ]

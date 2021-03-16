@@ -5,7 +5,7 @@ date: 2020-05-31 22:53:41
 image: 'https://m.media-amazon.com/images/I/51qrYzDj4nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DKRBKK-es Fertuo Funda para Xiaomi Redmi Note 8T Carcasa Libro con...'
 sku: 'B081DKRBKK-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-22 18:03:56
 image: 'https://m.media-amazon.com/images/I/41zbxekQT4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJZVJXX-es Sorel Madson Hiker Waterproof Botas para Hombre Marrón...'
 sku: 'B07KJZVJXX-es'
 tags: [  ]

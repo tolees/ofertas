@@ -5,7 +5,7 @@ date: 2020-07-03 23:54:56
 image: 'https://m.media-amazon.com/images/I/31mrreYzwOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYQN5TV-es Gant Preptown Zapatillas para Mujer Rosa Blossom Pink G583...'
 sku: 'B07TYQN5TV-es'
 tags: [  ]

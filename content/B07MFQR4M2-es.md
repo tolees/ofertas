@@ -5,7 +5,7 @@ date: 2020-07-11 10:10:50
 image: 'https://m.media-amazon.com/images/I/31RXEZRIHuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MFQR4M2-es Urban Classics Block Swim Shorts Pnt Pantalones Cortos...'
 sku: 'B07MFQR4M2-es'
 tags: [  ]

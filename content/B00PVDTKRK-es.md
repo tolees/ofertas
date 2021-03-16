@@ -5,7 +5,7 @@ date: 2020-07-26 13:48:48
 image: 'https://m.media-amazon.com/images/I/41u2TQaF-ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PVDTKRK-es D-Link DIR-809 - Router WiFi AC 750 Mbps 4 Puertos de Red...'
 sku: 'B00PVDTKRK-es'
 tags: [  ]

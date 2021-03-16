@@ -5,7 +5,7 @@ date: 2020-10-12 16:46:36
 image: 'https://m.media-amazon.com/images/I/31QEydtPY0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DZW8LBS-es Levi s Turner Zapatillas para Hombre Negro R Black 159 39 EU'
 sku: 'B07DZW8LBS-es'
 tags: [  ]

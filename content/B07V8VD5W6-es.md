@@ -5,7 +5,7 @@ date: 2020-08-29 11:29:53
 image: 'https://m.media-amazon.com/images/I/31YBL0KA95L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8VD5W6-es Tommy Hilfiger Essential Retro Sneaker Zapatillas para...'
 sku: 'B07V8VD5W6-es'
 tags: [  ]

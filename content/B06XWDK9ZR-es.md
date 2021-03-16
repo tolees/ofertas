@@ -5,7 +5,7 @@ date: 2020-06-27 09:31:50
 image: 'https://m.media-amazon.com/images/I/41K4wKQ0LlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWDK9ZR-es Zodiac TornaX OT 3200 – Robot limpiafondos de piscina'
 sku: 'B06XWDK9ZR-es'
 tags: [  ]

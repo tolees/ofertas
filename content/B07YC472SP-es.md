@@ -5,7 +5,7 @@ date: 2020-02-09 18:49:25
 image: 'https://m.media-amazon.com/images/I/51gU0XoVZ0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YC472SP-es Gimbal Estabilizador 3 en1 para Cámara Digital/Gopro...'
 sku: 'B07YC472SP-es'
 tags: [  ]

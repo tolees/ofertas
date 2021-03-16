@@ -5,7 +5,7 @@ date: 2020-10-03 07:29:19
 image: 'https://m.media-amazon.com/images/I/413nZUeoo4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GB8M7WJ-es Casio G-SHOCK Reloj Digital Contador de pasos Sensor de...'
 sku: 'B07GB8M7WJ-es'
 tags: [  ]

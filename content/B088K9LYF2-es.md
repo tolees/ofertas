@@ -5,7 +5,7 @@ date: 2020-08-22 18:39:56
 image: 'https://m.media-amazon.com/images/I/51euuLxtA0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088K9LYF2-es Repelente Ultrasónico Mosquitos Repelente Ultrasónico de...'
 sku: 'B088K9LYF2-es'
 tags: [  ]

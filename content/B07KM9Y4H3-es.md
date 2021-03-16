@@ -5,7 +5,7 @@ date: 2020-02-29 11:09:12
 image: 'https://m.media-amazon.com/images/I/31fEMx-X9dL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KM9Y4H3-es Merrell Vapor Glove 4 Zapatillas Deportivas para Interior...'
 sku: 'B07KM9Y4H3-es'
 tags: [  ]

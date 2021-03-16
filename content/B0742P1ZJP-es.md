@@ -5,7 +5,7 @@ date: 2020-05-12 15:14:06
 image: 'https://m.media-amazon.com/images/I/41LQU-AAW5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0742P1ZJP-es Camper Uno Zapatillas para Mujer Blanco White Natural 100...'
 sku: 'B0742P1ZJP-es'
 tags: [  ]

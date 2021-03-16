@@ -1,28 +1,28 @@
 ---
 layout: post
-title: 'Konami - eFootball PES 2021: Season Upda al 53.35 % de descuento'
-date: 2021-02-22 13:43:33
+title: 'Konami - eFootball PES 2021: Season Upda al 58.02 % de descuento'
+date: 2021-03-16 16:41:53
 image: 'https://m.media-amazon.com/images/I/51C7cYFbEwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DG846FF-es Konami - eFootball PES 2021: Season Update'
 sku: 'B08DG846FF-es'
-tags: [  ]
-actualPrice: 13.99 EUR
+tags: [ 'konami', ]
+actualPrice: 12.59 EUR
 currency: EUR
-price: 13.99
+price: 12.59
 comparePrice: 29.99 EUR
 prodname: 'Konami - eFootball PES 2021: Season Update'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Konami'
 buyurl: 'https://www.amazon.es/dp/B08DG846FF/?tag=tolees-21'
-descuento: '53.35'
-average: '13.99'
+descuento: '58.02'
+average: '13.29'
 ---
 
-Está [Konami - eFootball PES 2021: Season Update](https://www.amazon.es/dp/B08DG846FF/?tag=tolees-21) con 53.35 de descuento por 13.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Konami - eFootball PES 2021: Season Update](https://www.amazon.es/dp/B08DG846FF/?tag=tolees-21) con 58.02 de descuento por 12.59 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Konami - eFootball PES 2021: Season Upda](https://m.media-amazon.com/images/I/51C7cYFbEwL._SL400_.jpg)](https://www.amazon.es/dp/B08DG846FF/?tag=tolees-21)
 

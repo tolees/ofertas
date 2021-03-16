@@ -5,7 +5,7 @@ date: 2020-08-08 22:05:33
 image: 'https://m.media-amazon.com/images/I/41USr41vW3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWHR22C-es Hub USB 3.0 de 4 Puertos de Datos iAmotus Adaptador usb...'
 sku: 'B07RWHR22C-es'
 tags: [  ]

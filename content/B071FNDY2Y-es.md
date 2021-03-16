@@ -5,7 +5,7 @@ date: 2020-02-23 19:56:02
 image: 'https://m.media-amazon.com/images/I/518TQ15QrmL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071FNDY2Y-es Estuche impermeable con puerto de domo para GoPro Hero 5 6...'
 sku: 'B071FNDY2Y-es'
 tags: [  ]

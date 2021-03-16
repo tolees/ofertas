@@ -5,7 +5,7 @@ date: 2020-01-24 22:40:36
 image: 'https://m.media-amazon.com/images/I/31e9MM0VkzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EJIMZZ2-es 3M xA004837747 Respirador Antipartículas de Plegado Plano...'
 sku: 'B00EJIMZZ2-es'
 tags: [  ]

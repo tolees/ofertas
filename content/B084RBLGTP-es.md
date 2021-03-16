@@ -5,7 +5,7 @@ date: 2020-05-26 15:03:04
 image: 'https://m.media-amazon.com/images/I/41TKGJizHnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084RBLGTP-es 100pcs / Set Hoja conductora Profesional 2.5x0.5CM Pestaña...'
 sku: 'B084RBLGTP-es'
 tags: [  ]

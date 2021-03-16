@@ -5,7 +5,7 @@ date: 2020-06-08 05:56:28
 image: 'https://m.media-amazon.com/images/I/41u4Jol2ohL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SZ3ZSL4-es Armani Exchange Mujer Chic Small Shopping Tote 22 x 11 x...'
 sku: 'B07SZ3ZSL4-es'
 tags: [  ]

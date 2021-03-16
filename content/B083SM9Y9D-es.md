@@ -5,7 +5,7 @@ date: 2020-06-25 17:06:02
 image: 'https://m.media-amazon.com/images/I/31yKKxrHUfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SM9Y9D-es Masajeador Portátil 10 modos ricaricabile'
 sku: 'B083SM9Y9D-es'
 tags: [  ]

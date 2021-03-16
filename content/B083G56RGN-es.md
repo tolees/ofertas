@@ -5,7 +5,7 @@ date: 2020-04-21 11:03:51
 image: 'https://m.media-amazon.com/images/I/51tnrquXiLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083G56RGN-es Tablet Funda para Samsung Galaxy Note 10.1 2014 SM-P600...'
 sku: 'B083G56RGN-es'
 tags: [  ]

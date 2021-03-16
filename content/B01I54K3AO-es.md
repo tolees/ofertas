@@ -5,7 +5,7 @@ date: 2020-01-22 16:41:22
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41aaoZ2J%2BtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I54K3AO-es Gel Pad Juanete manga corrector de juanetes pantalla para...'
 sku: 'B01I54K3AO-es'
 tags: [  ]

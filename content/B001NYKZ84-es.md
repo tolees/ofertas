@@ -5,7 +5,7 @@ date: 2020-01-13 10:24:02
 image: 'https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NYKZ84-es Reebok Classic Leather Zapatillas Mujer Negro Int / Black...'
 sku: 'B001NYKZ84-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-18 15:16:00
 image: 'https://m.media-amazon.com/images/I/31zIqgZEomL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D9NY73N-es Klarstein Infinity Storm - Ventilador de pie 40 cm 16" 55...'
 sku: 'B07D9NY73N-es'
 tags: [  ]

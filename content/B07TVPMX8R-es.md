@@ -5,7 +5,7 @@ date: 2020-04-16 22:48:25
 image: 'https://m.media-amazon.com/images/I/417ZzqtTZTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TVPMX8R-es Skechers Boys Elite Flex HYDROX Trainers Grey Stone...'
 sku: 'B07TVPMX8R-es'
 tags: [  ]

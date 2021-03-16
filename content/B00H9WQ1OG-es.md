@@ -5,7 +5,7 @@ date: 2020-09-26 09:12:50
 image: 'https://m.media-amazon.com/images/I/41xux5guB1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H9WQ1OG-es Merc of London Card Polo Shirt Gris Mineral Marl XL para...'
 sku: 'B00H9WQ1OG-es'
 tags: [  ]

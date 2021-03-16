@@ -5,7 +5,7 @@ date: 2020-04-15 00:45:49
 image: 'https://m.media-amazon.com/images/I/51LvoLhettL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SVSVBP-es Office Ink Toner Reemplazo para Canon PGI-580XXL...'
 sku: 'B081SVSVBP-es'
 tags: [  ]

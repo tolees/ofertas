@@ -5,7 +5,7 @@ date: 2020-03-01 11:06:27
 image: 'https://m.media-amazon.com/images/I/31-DhPacVoL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TMKGZ3-es Temfly Amplificador de WiFi Repetidor WiFi 300Mbps/2.4GHz...'
 sku: 'B083TMKGZ3-es'
 tags: [  ]

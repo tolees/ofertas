@@ -5,7 +5,7 @@ date: 2020-03-19 08:54:18
 image: 'https://m.media-amazon.com/images/I/41BOQm5gmLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAZ2VVB-es Jimmy Choo L Eau Perfume - 60 ml'
 sku: 'B01NAZ2VVB-es'
 tags: [  ]

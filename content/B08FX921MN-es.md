@@ -5,7 +5,7 @@ date: 2020-10-03 07:54:53
 image: 'https://m.media-amazon.com/images/I/41pSptSbb0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FX921MN-es Antena de TV Interior/Exterior Antena per DVB-T/DVB-T2 de...'
 sku: 'B08FX921MN-es'
 tags: [  ]

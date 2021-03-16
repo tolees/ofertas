@@ -5,7 +5,7 @@ date: 2020-01-08 10:22:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41wKWOZ4tVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FVLSDD6-es Destornillador Eléctrico TECCPO 4Nm Atornillador...'
 sku: 'B07FVLSDD6-es'
 tags: [  ]

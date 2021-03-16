@@ -5,7 +5,7 @@ date: 2020-07-09 22:40:14
 image: 'https://m.media-amazon.com/images/I/41VGeyXM4zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K1VXDS4-es Reloj Calvin Klein - Mujer K4U23121'
 sku: 'B00K1VXDS4-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-14 13:43:14
 image: 'https://m.media-amazon.com/images/I/51npkNPrkWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DHVVC2-es VIASOLAR Panel Solar fotovoltaico 50W 12V Cable 5m'
 sku: 'B075DHVVC2-es'
 tags: [  ]

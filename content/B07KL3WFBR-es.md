@@ -5,7 +5,7 @@ date: 2020-09-23 21:33:52
 image: 'https://m.media-amazon.com/images/I/31jO8TwTFFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL3WFBR-es adidas W E PLN Pant Sport Trousers Mujer Medium Grey...'
 sku: 'B07KL3WFBR-es'
 tags: [  ]

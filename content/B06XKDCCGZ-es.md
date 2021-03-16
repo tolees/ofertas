@@ -5,7 +5,7 @@ date: 2020-02-03 23:44:02
 image: 'https://m.media-amazon.com/images/I/51i6-8UgOQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XKDCCGZ-es Epson DURABrite Ultra Ink Cartucho de Tinta para...'
 sku: 'B06XKDCCGZ-es'
 tags: [  ]

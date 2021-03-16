@@ -5,7 +5,7 @@ date: 2020-09-27 02:14:25
 image: 'https://m.media-amazon.com/images/I/513hUruSLaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003V8BIC2-es BIC Velleda 1741 - Blíster de 4 unidades marcadores de...'
 sku: 'B003V8BIC2-es'
 tags: [  ]

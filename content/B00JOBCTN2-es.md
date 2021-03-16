@@ -5,7 +5,7 @@ date: 2020-02-19 16:03:29
 image: 'https://m.media-amazon.com/images/I/31kSbOJO+WL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JOBCTN2-es Clarins Loción Corporal Hidratante con Aloe Vera 400 ml'
 sku: 'B00JOBCTN2-es'
 tags: [  ]

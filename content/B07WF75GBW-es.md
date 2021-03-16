@@ -5,7 +5,7 @@ date: 2020-04-06 21:14:11
 image: 'https://m.media-amazon.com/images/I/61v3WEQ99-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WF75GBW-es Sntieecr 36 piezas tamaño A5 brillante tela hojas con 60...'
 sku: 'B07WF75GBW-es'
 tags: [  ]

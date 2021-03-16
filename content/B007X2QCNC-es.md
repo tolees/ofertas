@@ -5,7 +5,7 @@ date: 2020-10-08 09:57:40
 image: 'https://m.media-amazon.com/images/I/31a7v4DS+9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007X2QCNC-es Samsonite Aeris Spinner L Maleta 75 cm 87.5 L Azul Vivid Blue'
 sku: 'B007X2QCNC-es'
 tags: [  ]

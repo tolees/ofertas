@@ -5,7 +5,7 @@ date: 2020-02-24 15:53:42
 image: 'https://m.media-amazon.com/images/I/4198ZWepfhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MF9LHHO-es Calvin Klein Damen String MODERN - THONG Einfarbig Gr. 34...'
 sku: 'B00MF9LHHO-es'
 tags: [  ]

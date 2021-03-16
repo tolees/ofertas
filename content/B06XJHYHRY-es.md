@@ -5,7 +5,7 @@ date: 2020-10-05 03:00:28
 image: 'https://m.media-amazon.com/images/I/51eKr6AK3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XJHYHRY-es Targus 360 Perimeter - Funda para tabletas de 14" Color Gris'
 sku: 'B06XJHYHRY-es'
 tags: [  ]

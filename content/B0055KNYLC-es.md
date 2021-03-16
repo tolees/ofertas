@@ -5,7 +5,7 @@ date: 2020-02-16 22:00:35
 image: 'https://m.media-amazon.com/images/I/514GXejWG6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055KNYLC-es Caja Stargate Atlantis Temporadas 1-4 [DVD]'
 sku: 'B0055KNYLC-es'
 tags: [  ]

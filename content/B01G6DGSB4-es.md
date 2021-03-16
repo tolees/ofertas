@@ -5,7 +5,7 @@ date: 2020-01-13 17:22:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G6DGSB4-es Utensilios barbacoa Blusmart Juego de utensilios para...'
 sku: 'B01G6DGSB4-es'
 tags: [  ]

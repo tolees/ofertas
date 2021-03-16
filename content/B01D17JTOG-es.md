@@ -5,7 +5,7 @@ date: 2020-02-17 17:37:42
 image: 'https://m.media-amazon.com/images/I/41u+LR7i28L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D17JTOG-es Samsonite Paradiver Light - Bolsa de viaje Amarillo Yellow...'
 sku: 'B01D17JTOG-es'
 tags: [  ]

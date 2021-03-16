@@ -5,7 +5,7 @@ date: 2020-05-30 16:35:26
 image: 'https://m.media-amazon.com/images/I/41l4Tqsw2gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQX7DS2-es Pnakqil Funda Xiaomi Redmi 7A Clear Transparente Silicona...'
 sku: 'B07WQX7DS2-es'
 tags: [  ]

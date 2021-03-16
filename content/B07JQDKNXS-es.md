@@ -5,7 +5,7 @@ date: 2020-05-28 04:42:54
 image: 'https://m.media-amazon.com/images/I/41BrBXWqvuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQDKNXS-es XFX RX-590P8DFD6 Tarjeta Gráfica Radeon RX 590 Tamaño...'
 sku: 'B07JQDKNXS-es'
 tags: [  ]

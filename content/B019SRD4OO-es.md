@@ -5,7 +5,7 @@ date: 2020-09-30 06:39:14
 image: 'https://m.media-amazon.com/images/I/414YxzPtZJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019SRD4OO-es Kmise - Ukelele tenor 66 cm madera maciza de caoba puente...'
 sku: 'B019SRD4OO-es'
 tags: [  ]

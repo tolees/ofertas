@@ -5,7 +5,7 @@ date: 2020-05-28 08:58:32
 image: 'https://m.media-amazon.com/images/I/41zqst+gBzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LCJA9V2-es Suntec Wellness RKO-9974 Thùy-Denise Hervidor de arroz...'
 sku: 'B01LCJA9V2-es'
 tags: [  ]

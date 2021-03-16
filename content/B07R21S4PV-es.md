@@ -5,7 +5,7 @@ date: 2020-07-01 09:02:16
 image: 'https://m.media-amazon.com/images/I/41RY91QDbwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R21S4PV-es adidas Superstar Zapatillas de deporte para Hombre Blanco...'
 sku: 'B07R21S4PV-es'
 tags: [  ]

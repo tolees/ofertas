@@ -5,7 +5,7 @@ date: 2020-09-24 05:01:23
 image: 'https://m.media-amazon.com/images/I/31G3HzuD+YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y3ZSR7D-es HUAWEI 4G Mobile WiFi - Mobile WiFi 4G LTE CAT4 Piunto de...'
 sku: 'B07Y3ZSR7D-es'
 tags: [  ]

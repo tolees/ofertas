@@ -5,7 +5,7 @@ date: 2020-04-01 23:19:45
 image: 'https://m.media-amazon.com/images/I/51NhhI3q-+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078T8ZKZL-es Columbia Youth Rope Tow III Waterproof Botas de Nieve para...'
 sku: 'B078T8ZKZL-es'
 tags: [  ]

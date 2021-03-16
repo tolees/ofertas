@@ -5,7 +5,7 @@ date: 2020-09-29 12:50:20
 image: 'https://m.media-amazon.com/images/I/41yyHGtcGHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P377ZQJ-es Moon and Back de Hanna Andersson - Pack de 3 pantalones de...'
 sku: 'B07P377ZQJ-es'
 tags: [  ]

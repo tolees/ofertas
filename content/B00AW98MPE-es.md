@@ -5,7 +5,7 @@ date: 2020-04-06 07:29:08
 image: 'https://m.media-amazon.com/images/I/31995PXiOHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AW98MPE-es Revlon ColorStay Corrector 24h #050 Medium Deep - 6.2ml'
 sku: 'B00AW98MPE-es'
 tags: [  ]

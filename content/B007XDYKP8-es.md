@@ -5,7 +5,7 @@ date: 2020-10-11 13:39:33
 image: 'https://m.media-amazon.com/images/I/51uS5yF5uXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007XDYKP8-es Targus Classic+ - Maleta de 17-18" color negro'
 sku: 'B007XDYKP8-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-03 18:28:21
 image: 'https://m.media-amazon.com/images/I/31-6sqZyASL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY2RQZH-es L Oréal Paris - Les Macarons Pintalabios Mate Permanente...'
 sku: 'B07PY2RQZH-es'
 tags: [  ]

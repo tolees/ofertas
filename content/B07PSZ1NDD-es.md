@@ -5,7 +5,7 @@ date: 2020-03-31 19:48:51
 image: 'https://m.media-amazon.com/images/I/317-OJBR1aL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSZ1NDD-es Celio Pegetop Polo Azul Navy Blue 02 Navy Blue 02 Large...'
 sku: 'B07PSZ1NDD-es'
 tags: [  ]

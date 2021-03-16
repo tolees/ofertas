@@ -5,7 +5,7 @@ date: 2020-01-11 16:54:18
 image: 'https://images-eu.ssl-images-amazon.com/images/I/21n5Vo7YOZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZPUKYV0-es Roca A816850001 Portarrollo sin tapa Posibilidad de...'
 sku: 'B00ZPUKYV0-es'
 tags: [  ]

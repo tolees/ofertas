@@ -5,7 +5,7 @@ date: 2020-03-30 16:04:16
 image: 'https://m.media-amazon.com/images/I/51kWUPq284L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMTF44F-es Cloudnola Botanical Palm - Reloj de Pared Talla única...'
 sku: 'B07JMTF44F-es'
 tags: [  ]

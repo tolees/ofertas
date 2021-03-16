@@ -5,7 +5,7 @@ date: 2020-07-14 16:37:42
 image: 'https://m.media-amazon.com/images/I/515UuojDT7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WP5GF22-es TensCare Perfect Tens+ 12 electrodos – Electroestimulador...'
 sku: 'B06WP5GF22-es'
 tags: [  ]

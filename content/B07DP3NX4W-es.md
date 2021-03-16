@@ -5,7 +5,7 @@ date: 2020-09-21 11:45:09
 image: 'https://m.media-amazon.com/images/I/31hytjDoGCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP3NX4W-es Eastpak Stand + Bolsa de viaje 53 cm 34 L Azul Cloud Navy'
 sku: 'B07DP3NX4W-es'
 tags: [  ]

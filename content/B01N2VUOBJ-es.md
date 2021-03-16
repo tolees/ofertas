@@ -5,7 +5,7 @@ date: 2020-08-29 18:23:45
 image: 'https://m.media-amazon.com/images/I/41Fm712y+8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2VUOBJ-es HyperX Impact DDR4 HX426S15IB2K2/16 Memoria RAM 2666MHz...'
 sku: 'B01N2VUOBJ-es'
 tags: [  ]

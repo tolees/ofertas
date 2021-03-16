@@ -5,7 +5,7 @@ date: 2020-04-14 16:34:09
 image: 'https://m.media-amazon.com/images/I/41idL3JzQuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081KV8R3V-es Adornos Einfache Escultura Decoración Moderna Keramik...'
 sku: 'B081KV8R3V-es'
 tags: [  ]

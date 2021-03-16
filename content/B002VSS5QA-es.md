@@ -5,7 +5,7 @@ date: 2020-08-27 02:09:22
 image: 'https://m.media-amazon.com/images/I/311DeEGYTVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002VSS5QA-es Converse Chuck Taylor All Star Zapatillas Unisex Negro...'
 sku: 'B002VSS5QA-es'
 tags: [  ]

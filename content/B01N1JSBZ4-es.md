@@ -5,7 +5,7 @@ date: 2020-04-17 17:48:38
 image: 'https://m.media-amazon.com/images/I/316wgBU1-0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1JSBZ4-es PRO PRBT0018 - Bote Porta Herramientas Negro'
 sku: 'B01N1JSBZ4-es'
 tags: [  ]

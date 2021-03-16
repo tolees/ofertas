@@ -5,7 +5,7 @@ date: 2020-01-15 13:34:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51I-Uzbj-6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKSSR9H-es Pagani Design automático de buceadores Relojes Reloj...'
 sku: 'B07QKSSR9H-es'
 tags: [  ]

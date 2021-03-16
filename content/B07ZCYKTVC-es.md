@@ -5,7 +5,7 @@ date: 2020-05-20 06:31:51
 image: 'https://m.media-amazon.com/images/I/41zSSqwNkFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCYKTVC-es Bálsamo de labios Lip Balm Cuidado De Labios Barra de...'
 sku: 'B07ZCYKTVC-es'
 tags: [  ]

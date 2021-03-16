@@ -5,7 +5,7 @@ date: 2020-03-10 23:18:34
 image: 'https://m.media-amazon.com/images/I/41OXzGMfafL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WW4W2OE-es Calvin Klein Thong Tanga Grau Grey Heather 020 XL para Mujer'
 sku: 'B00WW4W2OE-es'
 tags: [  ]

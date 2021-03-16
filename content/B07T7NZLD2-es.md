@@ -5,7 +5,7 @@ date: 2020-10-10 09:33:26
 image: 'https://m.media-amazon.com/images/I/41Lmj2UoYPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7NZLD2-es The North Face M Croda Rossa Forro Polar Hombre Asphalt...'
 sku: 'B07T7NZLD2-es'
 tags: [  ]

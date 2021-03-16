@@ -5,7 +5,7 @@ date: 2020-07-06 15:29:35
 image: 'https://m.media-amazon.com/images/I/41OD2WHoFkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9RBRMM-es JOTHIN Hombre Mochila Táctica 40L Grandes Bolsa de...'
 sku: 'B07L9RBRMM-es'
 tags: [  ]

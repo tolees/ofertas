@@ -5,7 +5,7 @@ date: 2020-08-01 19:53:16
 image: 'https://m.media-amazon.com/images/I/41o3OumgFsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0185TDWXE-es Tuc Tuc 03591 - Bolsa colgadores y bandolera color gris'
 sku: 'B0185TDWXE-es'
 tags: [  ]

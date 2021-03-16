@@ -5,7 +5,7 @@ date: 2020-01-29 16:33:22
 image: 'https://m.media-amazon.com/images/I/31qRqhbDtaL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2MBQGR-es adidas RUNFALCON Zapatillas de Trail Running para Mujer...'
 sku: 'B07K2MBQGR-es'
 tags: [  ]

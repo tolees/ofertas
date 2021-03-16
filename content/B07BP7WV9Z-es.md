@@ -5,7 +5,7 @@ date: 2020-08-29 09:19:22
 image: 'https://m.media-amazon.com/images/I/61bNNBP0cgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BP7WV9Z-es Los Chicos del Maíz I-II-III Edición Digipack [Blu-ray]'
 sku: 'B07BP7WV9Z-es'
 tags: [  ]

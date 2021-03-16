@@ -5,7 +5,7 @@ date: 2020-09-15 15:26:58
 image: 'https://m.media-amazon.com/images/I/41nlKsYJlZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLYZK8C-es Axe Necesser Ice Chill Bodyspray 150 ml + Eau de Toillete...'
 sku: 'B07XLYZK8C-es'
 tags: [  ]

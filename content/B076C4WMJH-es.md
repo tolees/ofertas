@@ -5,7 +5,7 @@ date: 2020-07-19 02:29:40
 image: 'https://m.media-amazon.com/images/I/51jUTtrdN2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076C4WMJH-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B076C4WMJH-es'
 tags: [  ]

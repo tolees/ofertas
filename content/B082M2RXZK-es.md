@@ -5,7 +5,7 @@ date: 2020-08-10 21:28:19
 image: 'https://m.media-amazon.com/images/I/41ueR+wM62L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082M2RXZK-es Aigital Transmisor Receptor Bluetooth 5.0 2 en 1 Adaptador...'
 sku: 'B082M2RXZK-es'
 tags: [  ]

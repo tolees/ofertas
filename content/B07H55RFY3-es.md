@@ -5,7 +5,7 @@ date: 2020-05-09 17:05:04
 image: 'https://m.media-amazon.com/images/I/419li5B3OHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H55RFY3-es X-TIGER Hombres de Bicicleta Manga corta Shorts Top...'
 sku: 'B07H55RFY3-es'
 tags: [  ]

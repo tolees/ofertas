@@ -5,7 +5,7 @@ date: 2020-02-07 04:06:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61qXIZ638KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LNH9CLW-es Shimano Alivio CSHG4009134 - Cassette Hg400 12/36 9V....'
 sku: 'B00LNH9CLW-es'
 tags: [  ]

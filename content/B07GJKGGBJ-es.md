@@ -5,7 +5,7 @@ date: 2020-01-18 11:31:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HXUiiVvXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJKGGBJ-es MODERN LIFE Soporte de Pared para TV 14-42 Pulgadas...'
 sku: 'B07GJKGGBJ-es'
 tags: [  ]

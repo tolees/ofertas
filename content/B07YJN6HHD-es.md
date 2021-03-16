@@ -5,7 +5,7 @@ date: 2020-05-12 19:32:08
 image: 'https://m.media-amazon.com/images/I/31ndcb0OYeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJN6HHD-es DADAWEN - Zapatillas de Deporte para Mujer Color Blanco...'
 sku: 'B07YJN6HHD-es'
 tags: [  ]

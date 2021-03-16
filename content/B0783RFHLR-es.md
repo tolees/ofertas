@@ -5,7 +5,7 @@ date: 2020-06-25 20:27:05
 image: 'https://m.media-amazon.com/images/I/41Nh9sPtwWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0783RFHLR-es PUMA Ignite Flash Evoknit Zapatillas para Correr de...'
 sku: 'B0783RFHLR-es'
 tags: [  ]

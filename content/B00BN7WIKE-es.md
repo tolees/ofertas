@@ -5,7 +5,7 @@ date: 2020-04-20 15:31:20
 image: 'https://m.media-amazon.com/images/I/31YUVzyvePL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BN7WIKE-es Giorgi - Gel Fijador No. 3 - Perfect Fix 24h - 150 ml'
 sku: 'B00BN7WIKE-es'
 tags: [  ]

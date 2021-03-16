@@ -5,7 +5,7 @@ date: 2020-01-04 09:37:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418nI2lW%2BmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003N8GSTI-es Triumph True Shape Sensation Maxi Culotte Verde 40 Talla...'
 sku: 'B003N8GSTI-es'
 tags: [  ]

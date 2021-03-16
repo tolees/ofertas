@@ -5,7 +5,7 @@ date: 2020-06-06 12:48:44
 image: 'https://m.media-amazon.com/images/I/515LAUP8qYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B2H3VFG-es ¡Rompe Ralph! [DVD]'
 sku: 'B00B2H3VFG-es'
 tags: [  ]

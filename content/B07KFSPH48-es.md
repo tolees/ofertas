@@ -5,7 +5,7 @@ date: 2020-03-24 13:21:54
 image: 'https://m.media-amazon.com/images/I/41zEZkTSSoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFSPH48-es Adidas RUNFALCON Zapatillas de Trail Running para Hombre...'
 sku: 'B07KFSPH48-es'
 tags: [  ]

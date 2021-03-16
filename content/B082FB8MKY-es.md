@@ -5,7 +5,7 @@ date: 2020-01-07 22:50:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KB47YJpoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FB8MKY-es 2020 Nueva Cámara para Niños Cámara de Fotos/Video HD...'
 sku: 'B082FB8MKY-es'
 tags: [  ]

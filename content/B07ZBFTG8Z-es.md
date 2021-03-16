@@ -5,7 +5,7 @@ date: 2020-03-24 03:32:12
 image: 'https://m.media-amazon.com/images/I/412wQiPl2EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZBFTG8Z-es Hztyyier Pistola de Calor 1800W Pistola de Aire Caliente...'
 sku: 'B07ZBFTG8Z-es'
 tags: [  ]

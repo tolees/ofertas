@@ -5,7 +5,7 @@ date: 2020-06-26 15:04:30
 image: 'https://m.media-amazon.com/images/I/41ShzgoBzsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WFRRW1Q-es JOOMFEEN Quick Charge 3.0 Cargador USB de Pared 30W QC 3.0...'
 sku: 'B07WFRRW1Q-es'
 tags: [  ]

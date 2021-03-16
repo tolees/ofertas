@@ -5,7 +5,7 @@ date: 2020-01-06 10:36:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/413VVj9hyuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXSK5R1-es Gb Gold Pockit Air All Terrain - Silla de Paseo...'
 sku: 'B07MXSK5R1-es'
 tags: [  ]

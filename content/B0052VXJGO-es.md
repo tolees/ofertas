@@ -5,7 +5,7 @@ date: 2020-05-15 09:12:23
 image: 'https://m.media-amazon.com/images/I/314gi5KNCSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0052VXJGO-es Fackelmann Espumadera alambre de acero inoxidable. Color...'
 sku: 'B0052VXJGO-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-16 14:05:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZskniYq5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LW6E1B3-es 5 Pack Pocketman 1500 Lúmenes CREE XML T6 al aire libre...'
 sku: 'B01LW6E1B3-es'
 tags: [  ]

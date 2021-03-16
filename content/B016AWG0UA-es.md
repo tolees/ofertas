@@ -5,7 +5,7 @@ date: 2020-10-02 19:27:21
 image: 'https://m.media-amazon.com/images/I/41GjhLBUneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016AWG0UA-es ASUS BE249QLB 23.8" Full HD IPS Mate Negro Pantalla para...'
 sku: 'B016AWG0UA-es'
 tags: [  ]

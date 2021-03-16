@@ -5,7 +5,7 @@ date: 2020-02-01 08:49:52
 image: 'https://m.media-amazon.com/images/I/41Ofyrh6ulL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T8HK35K-es Finocam Espiral You Floral Agenda 2020 Mediano - E5-117 x...'
 sku: 'B07T8HK35K-es'
 tags: [  ]

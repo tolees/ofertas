@@ -5,7 +5,7 @@ date: 2020-06-11 23:31:59
 image: 'https://m.media-amazon.com/images/I/413nKjP90AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BFWNQ7Q-es Repsol RP141L55 Elite Competición 5W-40 Aceite de Motor...'
 sku: 'B00BFWNQ7Q-es'
 tags: [  ]

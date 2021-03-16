@@ -5,7 +5,7 @@ date: 2020-09-01 06:03:34
 image: 'https://m.media-amazon.com/images/I/41d5wTYHBXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FJ672SG-es ShyaWorld Decantador De Vino Oxigenador Aireador 1 8L....'
 sku: 'B08FJ672SG-es'
 tags: [  ]

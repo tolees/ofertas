@@ -5,7 +5,7 @@ date: 2020-03-09 17:32:14
 image: 'https://m.media-amazon.com/images/I/41NFbWex0NL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FN1LHTH-es adidas Galaxy 28 Zapatillas de Running para Hombre Negro...'
 sku: 'B07FN1LHTH-es'
 tags: [  ]

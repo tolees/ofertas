@@ -5,7 +5,7 @@ date: 2020-09-28 14:35:27
 image: 'https://m.media-amazon.com/images/I/415g65Do7gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HLXGD6-es Vivir sin permiso - Serie completa [DVD]'
 sku: 'B085HLXGD6-es'
 tags: [  ]

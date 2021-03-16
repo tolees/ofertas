@@ -5,7 +5,7 @@ date: 2020-05-10 18:43:22
 image: 'https://m.media-amazon.com/images/I/51JWUzudWPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ITK5JLI-es Crema de calor 200 ml'
 sku: 'B00ITK5JLI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-21 08:31:19
 image: 'https://m.media-amazon.com/images/I/41iaEk2UOEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVRSBV4-es Nike JR Vapor 13 Club MDS TF PS V Botas de fútbol Unisex...'
 sku: 'B07YVRSBV4-es'
 tags: [  ]

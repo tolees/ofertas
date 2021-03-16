@@ -5,7 +5,7 @@ date: 2020-08-14 09:30:05
 image: 'https://m.media-amazon.com/images/I/41J4YohAn4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJ1PMJQ-es Set M Playlife de caza AMG 500 con figura y accesorios...'
 sku: 'B07BJ1PMJQ-es'
 tags: [  ]

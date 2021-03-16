@@ -5,7 +5,7 @@ date: 2020-05-18 10:55:07
 image: 'https://m.media-amazon.com/images/I/31PMKNLtioL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0ZR24R-es CAMPER Hoops Damen Low-top Weiß White Natural 100 35 EU'
 sku: 'B01N0ZR24R-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-02-04 08:26:15
 image: 'https://m.media-amazon.com/images/I/41+35Fj-m6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KWB2PW7-es Salomon XA Pro 3D W Zapatillas de trail running Mujer...'
 sku: 'B07KWB2PW7-es'
 tags: [  ]

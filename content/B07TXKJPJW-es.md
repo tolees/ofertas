@@ -5,7 +5,7 @@ date: 2020-03-13 16:10:23
 image: 'https://m.media-amazon.com/images/I/51+wD8tNyfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXKJPJW-es Kit de cuidado de la barba para hombres kit de cuidado de...'
 sku: 'B07TXKJPJW-es'
 tags: [  ]

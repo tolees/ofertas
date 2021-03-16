@@ -5,7 +5,7 @@ date: 2020-10-05 20:00:58
 image: 'https://m.media-amazon.com/images/I/418QVw2hWoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0050IHWYO-es Balanza de cocina mecánica con BOL Laica K 711 pesa hasta...'
 sku: 'B0050IHWYO-es'
 tags: [  ]

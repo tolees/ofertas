@@ -5,7 +5,7 @@ date: 2020-02-19 19:33:13
 image: 'https://m.media-amazon.com/images/I/41gf1Ng9cFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AZFJIVM-es H.Koenig FO35 Electrico Sobremesa Horno Conveccion...'
 sku: 'B00AZFJIVM-es'
 tags: [  ]

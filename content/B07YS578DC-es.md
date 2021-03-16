@@ -5,7 +5,7 @@ date: 2020-03-16 09:38:34
 image: 'https://m.media-amazon.com/images/I/41e2Jf+xWxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YS578DC-es HOMCOM Banco de Pesas Multifuncional Tipo Banco de...'
 sku: 'B07YS578DC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-12 16:09:58
 image: 'https://m.media-amazon.com/images/I/416MIuIHu6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXMYR55-es adidas Mid Cut CRW Sck Socks Unisex Adulto White/Black 3942'
 sku: 'B07KXMYR55-es'
 tags: [  ]

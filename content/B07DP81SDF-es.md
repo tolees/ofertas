@@ -5,7 +5,7 @@ date: 2020-09-12 18:01:32
 image: 'https://m.media-amazon.com/images/I/41hmFBZXKmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DP81SDF-es adidas Falcon W Running Shoe Womens Core Black/Core...'
 sku: 'B07DP81SDF-es'
 tags: [  ]

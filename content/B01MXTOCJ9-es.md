@@ -5,7 +5,7 @@ date: 2020-01-30 13:47:37
 image: 'https://m.media-amazon.com/images/I/41ELfeSbYDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MXTOCJ9-es Finether Carretilla Plegable Carro de Transporte con 2...'
 sku: 'B01MXTOCJ9-es'
 tags: [  ]

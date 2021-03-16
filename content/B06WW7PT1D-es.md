@@ -5,7 +5,7 @@ date: 2020-01-03 20:03:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZPypXMNbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WW7PT1D-es Goonies / Gremlins / Gremlins 2 [Edizione: Stati Uniti]...'
 sku: 'B06WW7PT1D-es'
 tags: [  ]

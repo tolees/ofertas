@@ -5,7 +5,7 @@ date: 2020-03-09 11:57:08
 image: 'https://m.media-amazon.com/images/I/41FVaCsZUqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S1VZXJ4-es BOSS Schino-Slim D Pantalones Rojo Medium Red 615 W42/L34...'
 sku: 'B07S1VZXJ4-es'
 tags: [  ]

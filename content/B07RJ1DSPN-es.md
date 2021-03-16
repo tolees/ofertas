@@ -5,7 +5,7 @@ date: 2020-07-12 19:52:08
 image: 'https://m.media-amazon.com/images/I/419ALbZP5sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJ1DSPN-es Levi s 502 Taper Shorts 10" Pantalones Cortos Azul...'
 sku: 'B07RJ1DSPN-es'
 tags: [  ]

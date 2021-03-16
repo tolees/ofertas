@@ -5,7 +5,7 @@ date: 2020-03-25 12:54:44
 image: 'https://m.media-amazon.com/images/I/21a3K-ThtGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015CYQT6M-es Astor SkinMatch Concealer Corrector'
 sku: 'B015CYQT6M-es'
 tags: [  ]

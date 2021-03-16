@@ -5,7 +5,7 @@ date: 2020-02-24 11:32:13
 image: 'https://m.media-amazon.com/images/I/41xQ203+BtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVDCLK1-es Disney Pijamas de Manga Corta para niñas Dumbo Azul 8-9 Años'
 sku: 'B07PVDCLK1-es'
 tags: [  ]

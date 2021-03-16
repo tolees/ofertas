@@ -5,7 +5,7 @@ date: 2020-02-25 19:30:14
 image: 'https://m.media-amazon.com/images/I/31Ab0Jhb1zL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0848LVCXC-es Mascarilla de protección respiratoria N95 – Máscara...'
 sku: 'B0848LVCXC-es'
 tags: [  ]

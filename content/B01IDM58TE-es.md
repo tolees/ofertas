@@ -5,7 +5,7 @@ date: 2020-04-16 18:06:45
 image: 'https://m.media-amazon.com/images/I/51pJTDYL90L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IDM58TE-es Cuca Berberecho Grande - 63 gr'
 sku: 'B01IDM58TE-es'
 tags: [  ]

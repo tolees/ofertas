@@ -5,7 +5,7 @@ date: 2020-02-01 09:34:19
 image: 'https://m.media-amazon.com/images/I/41kxc0Eks6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QYTXQSG-es BANLVS 1080P Cámara IP WiFi Cámara de Vigilancia WiFi...'
 sku: 'B07QYTXQSG-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-23 17:14:03
 image: 'https://m.media-amazon.com/images/I/41SCPTrWXYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E0SSOAQ-es Repsol RP172X51 Moto Fork Oil 10W Aceite de Motor 1 L'
 sku: 'B00E0SSOAQ-es'
 tags: [  ]

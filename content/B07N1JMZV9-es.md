@@ -5,7 +5,7 @@ date: 2020-04-28 22:49:39
 image: 'https://m.media-amazon.com/images/I/31J5j+cYa4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JMZV9-es Clarks Un Elda Mid Botas Slouch para Mujer Negro Black...'
 sku: 'B07N1JMZV9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-31 05:45:30
 image: 'https://m.media-amazon.com/images/I/219vRK6a8oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MTY3FFX-es Samsung Galaxy S10 - Smartphone de 6.1” Dual SIM 512GB...'
 sku: 'B07MTY3FFX-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-16 17:53:54
 image: 'https://m.media-amazon.com/images/I/51hOn+WCsHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PN34GPV-es VSADEY Aceite de Ricino Orgánico 100% Natural Castor Oil...'
 sku: 'B07PN34GPV-es'
 tags: [  ]

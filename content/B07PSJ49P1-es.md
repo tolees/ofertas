@@ -5,7 +5,7 @@ date: 2020-04-07 22:07:12
 image: 'https://m.media-amazon.com/images/I/51O17OhtmmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSJ49P1-es BRIKSMAX Kit de Iluminación Led para Harry Potter-Hogwarts...'
 sku: 'B07PSJ49P1-es'
 tags: [  ]

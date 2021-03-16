@@ -5,7 +5,7 @@ date: 2020-02-15 17:02:59
 image: 'https://m.media-amazon.com/images/I/31GqOPbtfQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TL9Y6CS-es Negro Cepillo y Recogedor para Ventana de Seguimiento...'
 sku: 'B07TL9Y6CS-es'
 tags: [  ]

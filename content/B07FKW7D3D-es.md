@@ -5,7 +5,7 @@ date: 2020-05-11 16:54:33
 image: 'https://m.media-amazon.com/images/I/41vQoJQBEUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKW7D3D-es Nikon COOLPIX P1000 - Cámara compacta tipo Bridge 16 MP...'
 sku: 'B07FKW7D3D-es'
 tags: [  ]

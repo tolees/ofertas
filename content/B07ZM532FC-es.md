@@ -5,7 +5,7 @@ date: 2020-09-08 15:06:15
 image: 'https://m.media-amazon.com/images/I/41Id2YeoGAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZM532FC-es Repelente ultrasonico antimosquitos antimosquitos...'
 sku: 'B07ZM532FC-es'
 tags: [  ]

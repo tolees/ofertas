@@ -5,7 +5,7 @@ date: 2020-01-07 08:45:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31P8oucdarL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4K74FF-es BOSS Prime Polo Naranja Open Orange 842 Large para Hombre'
 sku: 'B07K4K74FF-es'
 tags: [  ]

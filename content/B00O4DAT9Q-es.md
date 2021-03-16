@@ -5,7 +5,7 @@ date: 2020-02-08 23:38:09
 image: 'https://m.media-amazon.com/images/I/41IchI8dHXL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O4DAT9Q-es Reloj Komono Moneypenny Royale para Mujer KOM-W1241'
 sku: 'B00O4DAT9Q-es'
 tags: [  ]

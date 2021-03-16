@@ -5,7 +5,7 @@ date: 2020-08-16 12:38:01
 image: 'https://m.media-amazon.com/images/I/41cTlFC3C6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTQDRDB-es Scuderia Ferrari Reloj de Pulsera 830588'
 sku: 'B07KTQDRDB-es'
 tags: [  ]

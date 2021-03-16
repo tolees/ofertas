@@ -5,7 +5,7 @@ date: 2020-04-06 10:38:58
 image: 'https://m.media-amazon.com/images/I/31Z1EpPTt6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MR16Z1S-es G-STAR Lynn Mid Skinny Wmn - frakto superstretch -...'
 sku: 'B00MR16Z1S-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 16:26:36
 image: 'https://m.media-amazon.com/images/I/51btxUm2WgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088M2PX4T-es Suhctup Funda Compatible con Xiaomi Redmi Note 8...'
 sku: 'B088M2PX4T-es'
 tags: [  ]

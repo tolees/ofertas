@@ -5,7 +5,7 @@ date: 2020-05-20 14:36:35
 image: 'https://m.media-amazon.com/images/I/5162bFq8hBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFY13M4-es RS-05 CLASSIC - JET VESPA MOTO SCOOTER RETRO VINTAGE MOPED...'
 sku: 'B07SFY13M4-es'
 tags: [  ]

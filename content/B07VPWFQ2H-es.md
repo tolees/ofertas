@@ -5,7 +5,7 @@ date: 2020-06-07 13:02:30
 image: 'https://m.media-amazon.com/images/I/51l3h44C3GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPWFQ2H-es Leuzea carthamoides Ecdysterone Maral raíz 200mg Extracto...'
 sku: 'B07VPWFQ2H-es'
 tags: [  ]

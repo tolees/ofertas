@@ -5,7 +5,7 @@ date: 2020-01-03 11:44:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/318GdqSzU0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QBXH97-es hummel Pantalon Junior Corporate Fit Polyester'
 sku: 'B079QBXH97-es'
 tags: [  ]

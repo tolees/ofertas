@@ -5,7 +5,7 @@ date: 2020-08-09 12:17:58
 image: 'https://m.media-amazon.com/images/I/31lm7IGhRDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZYHL9Q-es Kipling KiplingDrawpackMujerBolsos totesVerde Fro Mint...'
 sku: 'B07TZYHL9Q-es'
 tags: [  ]

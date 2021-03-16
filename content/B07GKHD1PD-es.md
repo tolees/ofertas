@@ -5,7 +5,7 @@ date: 2020-08-07 00:33:59
 image: 'https://m.media-amazon.com/images/I/514TgOV6UyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GKHD1PD-es LexonElec Teclado mecánico para juegos de una sola mano...'
 sku: 'B07GKHD1PD-es'
 tags: [  ]

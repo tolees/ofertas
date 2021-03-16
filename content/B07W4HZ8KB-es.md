@@ -5,7 +5,7 @@ date: 2020-07-31 17:35:06
 image: 'https://m.media-amazon.com/images/I/31L6R0hWIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4HZ8KB-es Tommy Hilfiger Tommy Tipped Slim Polo Blanco White Large...'
 sku: 'B07W4HZ8KB-es'
 tags: [  ]

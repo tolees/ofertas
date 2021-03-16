@@ -5,7 +5,7 @@ date: 2020-05-08 10:04:31
 image: 'https://m.media-amazon.com/images/I/41kXoMrm9UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G74S8CD-es laamei Manta de Invierno para Bebé Recién Nacido Manta...'
 sku: 'B07G74S8CD-es'
 tags: [  ]

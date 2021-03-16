@@ -5,7 +5,7 @@ date: 2020-05-25 15:22:25
 image: 'https://m.media-amazon.com/images/I/31O3m1E3c1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UCDEOHA-es Autan Protection Plus Repelente de Mosquitos'
 sku: 'B00UCDEOHA-es'
 tags: [  ]

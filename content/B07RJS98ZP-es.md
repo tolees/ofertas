@@ -5,7 +5,7 @@ date: 2020-01-30 15:07:39
 image: 'https://m.media-amazon.com/images/I/41cl+5A8tbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJS98ZP-es Rodillo de jade Incluye tres cabezas reemplazables Piedra...'
 sku: 'B07RJS98ZP-es'
 tags: [  ]

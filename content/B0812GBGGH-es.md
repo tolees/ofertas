@@ -5,7 +5,7 @@ date: 2020-05-27 21:19:15
 image: 'https://m.media-amazon.com/images/I/41ZaqRGPcRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0812GBGGH-es Asics Gel-Cumulus 21 Running Shoe Mens - Midnight/Midnight...'
 sku: 'B0812GBGGH-es'
 tags: [  ]

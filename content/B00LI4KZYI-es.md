@@ -5,7 +5,7 @@ date: 2020-04-03 08:46:03
 image: 'https://m.media-amazon.com/images/I/21hD9stYiiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LI4KZYI-es Max Factor Mastertouch Concealer Corrector Tono 303-Ivory'
 sku: 'B00LI4KZYI-es'
 tags: [  ]

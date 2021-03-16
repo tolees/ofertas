@@ -5,7 +5,7 @@ date: 2020-02-08 00:24:02
 image: 'https://m.media-amazon.com/images/I/41eeFWt5o5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D51Y7GY-es Veet Bandas de Cera Depilatoria -Easy Gelwax Pieles...'
 sku: 'B07D51Y7GY-es'
 tags: [  ]

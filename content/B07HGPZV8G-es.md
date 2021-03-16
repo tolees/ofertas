@@ -5,7 +5,7 @@ date: 2020-03-16 22:28:44
 image: 'https://m.media-amazon.com/images/I/51jd1c7FYjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HGPZV8G-es Battle Snacks Battle Bites 12x62g 12 Unidades 740 g'
 sku: 'B07HGPZV8G-es'
 tags: [  ]

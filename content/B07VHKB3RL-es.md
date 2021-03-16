@@ -5,7 +5,7 @@ date: 2020-05-18 13:35:02
 image: 'https://m.media-amazon.com/images/I/41YPJR4XtjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHKB3RL-es Jack & Jones Jjeliam Knit Crew Neck Noos suéter Verde...'
 sku: 'B07VHKB3RL-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-07 08:19:35
 image: 'https://m.media-amazon.com/images/I/41dq-UsVpQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001MZYJ9U-es Ferplast Siesta Deluxe 4 - Cama para Gatos y Perros 61 5 x...'
 sku: 'B001MZYJ9U-es'
 tags: [  ]

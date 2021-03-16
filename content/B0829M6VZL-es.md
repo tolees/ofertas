@@ -5,7 +5,7 @@ date: 2020-08-09 10:46:02
 image: 'https://m.media-amazon.com/images/I/31ni07J1-xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829M6VZL-es Moliies USB 2.0 A Hembra A RS232 DB9 Hembra Convertidor de...'
 sku: 'B0829M6VZL-es'
 tags: [  ]

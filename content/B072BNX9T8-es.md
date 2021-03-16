@@ -5,7 +5,7 @@ date: 2020-01-24 19:13:51
 image: 'https://m.media-amazon.com/images/I/51eAR7AUZ0L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072BNX9T8-es Gigandet Chrono King Reloj Hombres Cronógrafo Analógico...'
 sku: 'B072BNX9T8-es'
 tags: [  ]

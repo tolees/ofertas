@@ -5,7 +5,7 @@ date: 2020-04-08 06:05:29
 image: 'https://m.media-amazon.com/images/I/41XJyrOixgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6WDN3X-es Pllieay 88 piezas 6 tamaños bolas de espuma de...'
 sku: 'B07P6WDN3X-es'
 tags: [  ]

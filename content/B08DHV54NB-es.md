@@ -5,7 +5,7 @@ date: 2020-08-26 19:01:28
 image: 'https://m.media-amazon.com/images/I/516J5zUD3FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHV54NB-es JCKSimpleLife DIY Pintura por NúMeros Ciervo de Nieve...'
 sku: 'B08DHV54NB-es'
 tags: [  ]

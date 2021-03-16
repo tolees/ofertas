@@ -5,7 +5,7 @@ date: 2020-07-24 01:16:18
 image: 'https://m.media-amazon.com/images/I/41PHO3zcHNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJZJL3N-es Sorel Glacy Explorer Shortie Botas para Mujer Gris Quarry...'
 sku: 'B07KJZJL3N-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-20 19:38:23
 image: 'https://m.media-amazon.com/images/I/51vc3Cx2R2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085BLSJLR-es YIMINYUER Colchonetas de Espuma para Yoga Gimnasio -...'
 sku: 'B085BLSJLR-es'
 tags: [  ]

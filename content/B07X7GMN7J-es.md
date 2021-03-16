@@ -5,7 +5,7 @@ date: 2020-03-13 20:05:42
 image: 'https://m.media-amazon.com/images/I/31L-1s9ws2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X7GMN7J-es SELECTED HOMME 16049517 Polo Verde Hemlock Hemlock M para...'
 sku: 'B07X7GMN7J-es'
 tags: [  ]

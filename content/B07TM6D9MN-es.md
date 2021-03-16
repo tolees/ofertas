@@ -5,7 +5,7 @@ date: 2020-07-19 06:44:51
 image: 'https://m.media-amazon.com/images/I/41ys2OgOmYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TM6D9MN-es find. Arthur HS01 Botas Clasicas Marrón Napa Tan Napa Tan 47'
 sku: 'B07TM6D9MN-es'
 tags: [  ]

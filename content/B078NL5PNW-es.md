@@ -5,7 +5,7 @@ date: 2020-01-14 18:07:56
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yh1XeRqsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NL5PNW-es Asics Gel-Lyte Runner Zapatillas para Hombre Rosa Pale...'
 sku: 'B078NL5PNW-es'
 tags: [  ]

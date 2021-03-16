@@ -5,7 +5,7 @@ date: 2020-01-14 08:26:00
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Co4f7-DZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HNACKVM-es Anita - Sujetador para mujer Negro schwarz 001 115D'
 sku: 'B00HNACKVM-es'
 tags: [  ]

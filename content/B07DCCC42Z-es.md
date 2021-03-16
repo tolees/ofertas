@@ -5,7 +5,7 @@ date: 2020-04-03 17:46:02
 image: 'https://m.media-amazon.com/images/I/41aBQKmRTFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCCC42Z-es PUMA Flyer Runner Zapatillas de Running Unisex Adulto...'
 sku: 'B07DCCC42Z-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-06 21:38:50
 image: 'https://m.media-amazon.com/images/I/41lwlUT7sHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0747W2XFX-es Philips Sonicare DiamondClean Smart HX9924/03 - Cepillo de...'
 sku: 'B0747W2XFX-es'
 tags: [  ]

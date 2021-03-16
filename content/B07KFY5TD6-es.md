@@ -5,7 +5,7 @@ date: 2020-02-07 22:04:27
 image: 'https://m.media-amazon.com/images/I/418nlXjohRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFY5TD6-es Puma Future Runner Premium Zapatillas Unisex Adulto Gris...'
 sku: 'B07KFY5TD6-es'
 tags: [  ]

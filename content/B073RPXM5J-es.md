@@ -5,7 +5,7 @@ date: 2020-06-12 10:49:33
 image: 'https://m.media-amazon.com/images/I/31ro3Hi6fcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RPXM5J-es Helly Hansen TRANSAT Polo Polo Hombre Negro Negro 990...'
 sku: 'B073RPXM5J-es'
 tags: [  ]

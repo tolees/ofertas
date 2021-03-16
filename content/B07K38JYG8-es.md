@@ -5,7 +5,7 @@ date: 2020-01-30 16:25:33
 image: 'https://m.media-amazon.com/images/I/41u+LRQQHtL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K38JYG8-es Adidas Runfalcon Zapatillas de Trail Running para Mujer...'
 sku: 'B07K38JYG8-es'
 tags: [  ]

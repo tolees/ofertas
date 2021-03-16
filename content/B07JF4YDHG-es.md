@@ -5,7 +5,7 @@ date: 2020-04-17 13:25:51
 image: 'https://m.media-amazon.com/images/I/21KVpzJGM9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JF4YDHG-es Abanderado Lote x4 Camisetas Tirantes algodón Ropa...'
 sku: 'B07JF4YDHG-es'
 tags: [  ]

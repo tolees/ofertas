@@ -5,7 +5,7 @@ date: 2020-03-05 14:03:44
 image: 'https://m.media-amazon.com/images/I/41HAUf8b7sL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JGXC6Y-es Panasonic Lumix DC-GH5L - Cámara EVIL de 20.3 MP Pantalla...'
 sku: 'B072JGXC6Y-es'
 tags: [  ]

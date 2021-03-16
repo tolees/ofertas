@@ -5,7 +5,7 @@ date: 2020-01-21 16:22:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41veS56s2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00H44YJAC-es Linksys EA6900-EJ - Router inalámbrico Smart Wi-Fi de...'
 sku: 'B00H44YJAC-es'
 tags: [  ]

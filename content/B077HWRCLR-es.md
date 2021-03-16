@@ -5,7 +5,7 @@ date: 2020-01-19 16:14:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51cgXz4YRnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HWRCLR-es find. MDR 40621 vestidos mujer Azul Blue 42 Talla del...'
 sku: 'B077HWRCLR-es'
 tags: [  ]

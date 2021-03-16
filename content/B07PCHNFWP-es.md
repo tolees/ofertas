@@ -5,7 +5,7 @@ date: 2020-02-26 11:33:11
 image: 'https://m.media-amazon.com/images/I/31qnwX2BMEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCHNFWP-es KOOTION Pendrive 64GB 3.0 Memoria USB Stick Flash Drive...'
 sku: 'B07PCHNFWP-es'
 tags: [  ]

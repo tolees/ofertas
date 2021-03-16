@@ -5,7 +5,7 @@ date: 2020-08-14 10:36:05
 image: 'https://m.media-amazon.com/images/I/51e7-qcwndL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756WD4VL-es Intex 58762EU - Colchoneta hinchable Cucurucho fresa 107 x...'
 sku: 'B0756WD4VL-es'
 tags: [  ]

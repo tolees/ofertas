@@ -5,7 +5,7 @@ date: 2020-01-23 22:13:08
 image: 'https://m.media-amazon.com/images/I/51ha7owAgDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077C3GRM7-es Air Wick Spray V.I. Poo Perfume Anti Olor Fragrancia Lemon...'
 sku: 'B077C3GRM7-es'
 tags: [  ]

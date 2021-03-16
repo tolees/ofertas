@@ -5,7 +5,7 @@ date: 2020-06-29 13:44:56
 image: 'https://m.media-amazon.com/images/I/312Hg9cHrGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GRF6HLM-es Bourjois Contour Clubbing; Delineador de Ojos. Tono 61...'
 sku: 'B01GRF6HLM-es'
 tags: [  ]

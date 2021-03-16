@@ -5,7 +5,7 @@ date: 2020-03-27 18:08:09
 image: 'https://m.media-amazon.com/images/I/411sCo8WytL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MT4D1BY-es Asics Gel-Lyte Iii Zapatillas Unisex Adulto Negro...'
 sku: 'B01MT4D1BY-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-12 02:05:31
 image: 'https://m.media-amazon.com/images/I/313HJfMbNuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073HBZRX3-es Maybelline New York Super Stay Barra de Labios Matte Ink...'
 sku: 'B073HBZRX3-es'
 tags: [  ]

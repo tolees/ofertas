@@ -5,7 +5,7 @@ date: 2020-06-22 17:03:45
 image: 'https://m.media-amazon.com/images/I/31T3dwPyeCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QGPF1QC-es E.INFINITY Aretes de Perlas para Mujer Plata Esterlina 925...'
 sku: 'B07QGPF1QC-es'
 tags: [  ]

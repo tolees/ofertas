@@ -5,7 +5,7 @@ date: 2020-06-24 10:14:37
 image: 'https://m.media-amazon.com/images/I/4146Ho+hcbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD9W8JV-es YAMAMAY® Bañador brasileño – Essentials'
 sku: 'B07VD9W8JV-es'
 tags: [  ]

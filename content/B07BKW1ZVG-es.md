@@ -5,7 +5,7 @@ date: 2020-07-02 19:32:58
 image: 'https://m.media-amazon.com/images/I/41CWwswJBvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BKW1ZVG-es Reloj para hombre brújula altímetro barómetro termómetro...'
 sku: 'B07BKW1ZVG-es'
 tags: [  ]

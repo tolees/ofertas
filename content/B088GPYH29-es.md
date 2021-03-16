@@ -5,7 +5,7 @@ date: 2020-08-19 12:06:03
 image: 'https://m.media-amazon.com/images/I/416fmdlfJqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088GPYH29-es BOIFUN Webcam 1080P con Micrófono para PC Full HD Cámara...'
 sku: 'B088GPYH29-es'
 tags: [  ]

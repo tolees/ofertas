@@ -5,7 +5,7 @@ date: 2020-01-13 10:03:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/414iFtT-W2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0772NFTKS-es Gazechimp 4 Piezas RC Tren de Rodaje de Drone para Hubsan...'
 sku: 'B0772NFTKS-es'
 tags: [  ]

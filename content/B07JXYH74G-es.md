@@ -5,7 +5,7 @@ date: 2020-03-30 20:25:09
 image: 'https://m.media-amazon.com/images/I/31LVN6NMUEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JXYH74G-es Tommy Hilfiger Formal Belt 3.5 Cinturón Beige 100 Talla...'
 sku: 'B07JXYH74G-es'
 tags: [  ]

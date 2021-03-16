@@ -5,7 +5,7 @@ date: 2020-04-10 00:21:29
 image: 'https://m.media-amazon.com/images/I/51zN3iWywrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQ71W2W-es Office Ink Toner reemplazo para Brother DR241 DR245 unidad...'
 sku: 'B07RQ71W2W-es'
 tags: [  ]

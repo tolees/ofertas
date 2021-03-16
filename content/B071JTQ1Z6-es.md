@@ -5,7 +5,7 @@ date: 2020-02-06 05:50:43
 image: 'https://m.media-amazon.com/images/I/41-1QSNt-IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JTQ1Z6-es Tefal Optigrill XL GC722D - Plancha Grill 2000W 6 modos de...'
 sku: 'B071JTQ1Z6-es'
 tags: [  ]

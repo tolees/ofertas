@@ -5,7 +5,7 @@ date: 2020-03-18 16:02:20
 image: 'https://m.media-amazon.com/images/I/41IISuqNtDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015ORRJCK-es Niré Brochas de Maquillaje con Esponja Maquillaje Estuche...'
 sku: 'B015ORRJCK-es'
 tags: [  ]

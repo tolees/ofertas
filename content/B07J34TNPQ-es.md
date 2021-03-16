@@ -5,7 +5,7 @@ date: 2020-04-10 16:28:44
 image: 'https://m.media-amazon.com/images/I/51kUnGpAA5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J34TNPQ-es Funko- Pop Bobble Marvel Studios 10: Doctor Strange Chrome...'
 sku: 'B07J34TNPQ-es'
 tags: [  ]

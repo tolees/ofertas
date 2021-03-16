@@ -5,7 +5,7 @@ date: 2020-09-28 08:51:39
 image: 'https://m.media-amazon.com/images/I/41zjJO-LKML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RT8B4CS-es Pepe Jeans Rick suéter Verde Hunter Green 781 Talla única...'
 sku: 'B07RT8B4CS-es'
 tags: [  ]

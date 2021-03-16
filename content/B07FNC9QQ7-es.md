@@ -5,7 +5,7 @@ date: 2020-01-23 13:27:12
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KlnGqfEyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNC9QQ7-es Syoss Champú Oleo 21 3 Pack 3 x 500 ml'
 sku: 'B07FNC9QQ7-es'
 tags: [  ]

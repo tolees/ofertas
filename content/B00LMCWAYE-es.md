@@ -5,7 +5,7 @@ date: 2020-08-22 11:09:19
 image: 'https://m.media-amazon.com/images/I/41aue4gJeuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LMCWAYE-es Joseph Joseph Palm Scrub Cepillo Dispensador Verde...'
 sku: 'B00LMCWAYE-es'
 tags: [  ]

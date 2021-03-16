@@ -5,7 +5,7 @@ date: 2020-03-26 13:02:21
 image: 'https://m.media-amazon.com/images/I/31ybLkBdNdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077N4K4HQ-es L Oréal Paris False Lash Xfiber Xtreme Máscara de Pestañas...'
 sku: 'B077N4K4HQ-es'
 tags: [  ]

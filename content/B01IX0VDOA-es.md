@@ -5,7 +5,7 @@ date: 2020-04-07 16:08:33
 image: 'https://m.media-amazon.com/images/I/51R6opqNLnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IX0VDOA-es Triumph Amourette 300 W X Sujetador Mujer Beige SKIN 75B'
 sku: 'B01IX0VDOA-es'
 tags: [  ]

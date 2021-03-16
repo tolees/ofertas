@@ -5,7 +5,7 @@ date: 2020-10-02 21:46:46
 image: 'https://m.media-amazon.com/images/I/41KbBAj32mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LOJU07S-es Hot Chocolate Design Chocolaticas Unicorn Tacon Mary Jane...'
 sku: 'B01LOJU07S-es'
 tags: [  ]

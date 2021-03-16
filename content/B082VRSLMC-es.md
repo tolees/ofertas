@@ -5,7 +5,7 @@ date: 2020-03-01 06:44:39
 image: 'https://m.media-amazon.com/images/I/41JN4-B2PlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VRSLMC-es La Vecina Rubia Funda Smartphone - Plateada y Compatible...'
 sku: 'B082VRSLMC-es'
 tags: [  ]

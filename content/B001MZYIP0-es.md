@@ -5,7 +5,7 @@ date: 2020-03-21 16:26:49
 image: 'https://m.media-amazon.com/images/I/513LPUK8sfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001MZYIP0-es EUKANUBA Raza Mediana Adulto Activo rico en pollo fresco...'
 sku: 'B001MZYIP0-es'
 tags: [  ]

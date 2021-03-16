@@ -5,7 +5,7 @@ date: 2020-06-11 05:33:08
 image: 'https://m.media-amazon.com/images/I/41CbEYr7rcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M12KJQ3-es Philips Speedtouch HR2642/00 - Batidora de Mano 700 W...'
 sku: 'B01M12KJQ3-es'
 tags: [  ]

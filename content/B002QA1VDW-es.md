@@ -5,7 +5,7 @@ date: 2020-06-01 12:25:15
 image: 'https://m.media-amazon.com/images/I/31JNstH1Z-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002QA1VDW-es St Moritz Autobronceador corporal piel normal - 200 ml.'
 sku: 'B002QA1VDW-es'
 tags: [  ]

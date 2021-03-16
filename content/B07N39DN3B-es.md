@@ -5,7 +5,7 @@ date: 2020-03-06 09:32:05
 image: 'https://m.media-amazon.com/images/I/41rfJN4wKvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N39DN3B-es AINOYA Funda Carcasa Gel para Huawei P30 Lite Ultra Fina...'
 sku: 'B07N39DN3B-es'
 tags: [  ]

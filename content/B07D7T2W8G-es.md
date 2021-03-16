@@ -5,7 +5,7 @@ date: 2020-04-05 10:02:49
 image: 'https://m.media-amazon.com/images/I/413E0+Fd4hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7T2W8G-es SiYear - Cable de conexión para micrófono 2 conectores XLR...'
 sku: 'B07D7T2W8G-es'
 tags: [  ]

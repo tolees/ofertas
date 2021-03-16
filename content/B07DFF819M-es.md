@@ -5,7 +5,7 @@ date: 2020-04-18 02:57:52
 image: 'https://m.media-amazon.com/images/I/51+VEri3Q0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFF819M-es Funko The Figura Pop Fugitive Predator Multicolor Standard...'
 sku: 'B07DFF819M-es'
 tags: [  ]

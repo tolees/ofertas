@@ -5,7 +5,7 @@ date: 2020-03-08 18:04:52
 image: 'https://m.media-amazon.com/images/I/4118P6HJonL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081Q9PQVR-es Masajeador Control Remoto Inalámbrico 15m Para Mujer con...'
 sku: 'B081Q9PQVR-es'
 tags: [  ]

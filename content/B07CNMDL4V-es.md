@@ -5,7 +5,7 @@ date: 2020-06-21 10:28:54
 image: 'https://m.media-amazon.com/images/I/41lifRPQQDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNMDL4V-es Jack & Jones Jjepaulos Polo SS Plus Azul Bright Cobalt...'
 sku: 'B07CNMDL4V-es'
 tags: [  ]

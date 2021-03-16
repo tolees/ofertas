@@ -5,7 +5,7 @@ date: 2020-02-02 00:01:15
 image: 'https://m.media-amazon.com/images/I/416rswNwuGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFN7CBD-es Khanomak de Mujeres de Manga Larga de Punto Abierto Frente...'
 sku: 'B07LFN7CBD-es'
 tags: [  ]

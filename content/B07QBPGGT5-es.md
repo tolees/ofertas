@@ -5,7 +5,7 @@ date: 2020-07-28 15:52:19
 image: 'https://m.media-amazon.com/images/I/31AOEJVwNUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QBPGGT5-es G-STAR RAW Vetar Slim Chino Pantalones Beige Sahara...'
 sku: 'B07QBPGGT5-es'
 tags: [  ]

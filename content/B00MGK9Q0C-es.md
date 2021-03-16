@@ -5,7 +5,7 @@ date: 2020-07-01 14:14:46
 image: 'https://m.media-amazon.com/images/I/31QuH7mBs+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MGK9Q0C-es Rimmel London Extra 3D Lash - Rimel Negro'
 sku: 'B00MGK9Q0C-es'
 tags: [  ]

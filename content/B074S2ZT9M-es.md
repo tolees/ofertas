@@ -5,7 +5,7 @@ date: 2020-06-17 04:30:42
 image: 'https://m.media-amazon.com/images/I/41cJka-6rCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074S2ZT9M-es Carcasa para Disco Duro ORICO Caja Transparente Externo...'
 sku: 'B074S2ZT9M-es'
 tags: [  ]

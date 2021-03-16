@@ -5,7 +5,7 @@ date: 2020-01-05 17:44:09
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41J24oq4i3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K4XGXB-es Decyam Comedero de Perros para ralentizar la Comida...'
 sku: 'B072K4XGXB-es'
 tags: [  ]

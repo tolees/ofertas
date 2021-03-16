@@ -5,7 +5,7 @@ date: 2020-02-18 09:07:50
 image: 'https://m.media-amazon.com/images/I/31c-jriPvFL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDC1R4Z-es Epson WF4720 Impresora multifunción c11cf74402 Ya...'
 sku: 'B06XDC1R4Z-es'
 tags: [  ]

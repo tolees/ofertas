@@ -5,7 +5,7 @@ date: 2020-07-20 10:03:07
 image: 'https://m.media-amazon.com/images/I/41som5vfWTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W36VXRZ-es Pepe Jeans Bryan Bañador Azul Beat 549 Medium para Hombre'
 sku: 'B07W36VXRZ-es'
 tags: [  ]

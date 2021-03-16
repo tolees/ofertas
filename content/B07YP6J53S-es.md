@@ -5,7 +5,7 @@ date: 2020-01-17 16:36:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51KU9Y%2BbP2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YP6J53S-es Showyoo Reloj inteligente Pulsera de Actividad Pantalla a...'
 sku: 'B07YP6J53S-es'
 tags: [  ]

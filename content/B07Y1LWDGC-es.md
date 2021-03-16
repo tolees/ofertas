@@ -5,7 +5,7 @@ date: 2020-07-02 17:17:26
 image: 'https://m.media-amazon.com/images/I/51Dog9-bUUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1LWDGC-es LIGE Relojes para Hombre Impermeable Cuarzo Analógica...'
 sku: 'B07Y1LWDGC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-21 11:47:25
 image: 'https://m.media-amazon.com/images/I/31RhGbAlNIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EMZWAE2-es Fleck DUO5 80 EU - Termo electrico Duo 80 litros...'
 sku: 'B01EMZWAE2-es'
 tags: [  ]

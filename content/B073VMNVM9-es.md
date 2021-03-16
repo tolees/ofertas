@@ -5,7 +5,7 @@ date: 2020-07-18 08:18:50
 image: 'https://m.media-amazon.com/images/I/31vFAE-9akL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073VMNVM9-es Maybelline New York - Superstay Matte Ink Pintalabios Mate...'
 sku: 'B073VMNVM9-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 07:36:54
 image: 'https://m.media-amazon.com/images/I/41ovxzVcHQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J1RXBS8-es FitFitaly Rodillera Protectora Ortopédica para Ligamentos...'
 sku: 'B07J1RXBS8-es'
 tags: [  ]

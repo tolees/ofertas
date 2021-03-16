@@ -5,7 +5,7 @@ date: 2020-08-03 08:02:09
 image: 'https://m.media-amazon.com/images/I/31ytG8TcRoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRNR64N-es Onnea 5 Pares Pendientes Aro de Acero Inoxidable para...'
 sku: 'B07VRNR64N-es'
 tags: [  ]

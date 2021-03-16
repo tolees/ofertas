@@ -5,7 +5,7 @@ date: 2020-05-15 17:17:10
 image: 'https://m.media-amazon.com/images/I/41nEGIVW7UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M7PK2XZ-es GANT Fay Botas de Motorista para Mujer Braun Tobacco Brown...'
 sku: 'B07M7PK2XZ-es'
 tags: [  ]

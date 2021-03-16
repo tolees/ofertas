@@ -5,7 +5,7 @@ date: 2020-06-06 20:43:52
 image: 'https://m.media-amazon.com/images/I/31WCtfFozjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002LU1I6W-es Lacoste L1312 Polo Blanco Blanc S Talla del fabricante: 3...'
 sku: 'B002LU1I6W-es'
 tags: [  ]

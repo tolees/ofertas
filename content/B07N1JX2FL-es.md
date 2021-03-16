@@ -5,7 +5,7 @@ date: 2020-08-04 11:48:05
 image: 'https://m.media-amazon.com/images/I/31c87iGVE6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1JX2FL-es Clarks Un Maui Lace Zapatillas para Mujer Marrón Aubergine...'
 sku: 'B07N1JX2FL-es'
 tags: [  ]

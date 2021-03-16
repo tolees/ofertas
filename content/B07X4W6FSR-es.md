@@ -5,7 +5,7 @@ date: 2020-04-20 14:27:17
 image: 'https://m.media-amazon.com/images/I/515zUvF+IGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4W6FSR-es Mochilas Infantiles Mochilas para Niños Niñas Bolsa de...'
 sku: 'B07X4W6FSR-es'
 tags: [  ]

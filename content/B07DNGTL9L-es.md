@@ -5,7 +5,7 @@ date: 2020-02-07 19:09:08
 image: 'https://m.media-amazon.com/images/I/41Tx5nSqY3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DNGTL9L-es Pablosky Merceditas para Niñas Negro 328210 34 EU'
 sku: 'B07DNGTL9L-es'
 tags: [  ]

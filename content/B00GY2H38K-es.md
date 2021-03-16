@@ -5,7 +5,7 @@ date: 2020-04-18 01:39:53
 image: 'https://m.media-amazon.com/images/I/41vqtUufbYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GY2H38K-es GASA ESTERIL INDAS CAJA 100 UNID SOBRE 5 U'
 sku: 'B00GY2H38K-es'
 tags: [  ]

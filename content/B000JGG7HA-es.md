@@ -5,7 +5,7 @@ date: 2020-01-14 03:30:14
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000JGG7HA-es HP Q7553X - Cartucho de tóner'
 sku: 'B000JGG7HA-es'
 tags: [  ]

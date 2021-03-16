@@ -5,7 +5,7 @@ date: 2020-05-04 18:58:04
 image: 'https://m.media-amazon.com/images/I/41NY2t+TFBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083S4RHQZ-es Reproductor MP3 Wodgreat MP4 Player 8GB Reproductor de...'
 sku: 'B083S4RHQZ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-07 16:43:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41nbh7yXYLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KG17Z4X-es PUMA Palace Guard Zapatillas Unisex Adulto White-Jaffa...'
 sku: 'B07KG17Z4X-es'
 tags: [  ]

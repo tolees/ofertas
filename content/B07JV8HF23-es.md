@@ -5,7 +5,7 @@ date: 2020-04-21 13:31:40
 image: 'https://m.media-amazon.com/images/I/51MgNVjVjML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JV8HF23-es LeYi Funda Huawei Mate 20 Lite Silicona Purpurina Carcasa...'
 sku: 'B07JV8HF23-es'
 tags: [  ]

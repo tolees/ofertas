@@ -5,7 +5,7 @@ date: 2020-03-18 11:47:58
 image: 'https://m.media-amazon.com/images/I/51tc0ydq-uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074F31CNS-es Spider-Man: Homecoming [DVD]'
 sku: 'B074F31CNS-es'
 tags: [  ]

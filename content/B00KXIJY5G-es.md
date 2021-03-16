@@ -5,7 +5,7 @@ date: 2020-06-23 22:52:24
 image: 'https://m.media-amazon.com/images/I/417RB61y6jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KXIJY5G-es Under Armour UA RAID 8 SHORT Pantalones Cortos Deportivos...'
 sku: 'B00KXIJY5G-es'
 tags: [  ]

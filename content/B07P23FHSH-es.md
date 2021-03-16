@@ -5,7 +5,7 @@ date: 2020-01-19 21:09:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bxHzuNPrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P23FHSH-es Skechers Meridian-Ostwall Zapatillas para Hombre Verde...'
 sku: 'B07P23FHSH-es'
 tags: [  ]

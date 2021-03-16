@@ -5,7 +5,7 @@ date: 2020-02-25 18:46:22
 image: 'https://m.media-amazon.com/images/I/41-vbj9g3rL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M4L4P7W-es Apple iPad Air 32GB Wi-Fi - Silver Reacondicionado'
 sku: 'B00M4L4P7W-es'
 tags: [  ]

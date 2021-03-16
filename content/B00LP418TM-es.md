@@ -5,7 +5,7 @@ date: 2020-09-07 06:26:14
 image: 'https://m.media-amazon.com/images/I/41Hw2W6OQgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LP418TM-es Bourjois Delice De Poudre Polvos Bronceadores Tono 55...'
 sku: 'B00LP418TM-es'
 tags: [  ]

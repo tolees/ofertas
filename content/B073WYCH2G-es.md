@@ -5,7 +5,7 @@ date: 2020-03-25 12:54:45
 image: 'https://m.media-amazon.com/images/I/31Yy6EhI4vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073WYCH2G-es Rimmel London WonderWing Eyeliner Delineador de Ojos Tono...'
 sku: 'B073WYCH2G-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-18 10:08:58
 image: 'https://m.media-amazon.com/images/I/31Bj67AOZNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0159AYF1U-es Teka 42080015 Termo Eléctrico Blanco 15 l'
 sku: 'B0159AYF1U-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-16 16:29:32
 image: 'https://m.media-amazon.com/images/I/511Xdx99n0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VC3J7ZN-es Foundation Color Changing Make Up Corrector 30ml &...'
 sku: 'B07VC3J7ZN-es'
 tags: [  ]

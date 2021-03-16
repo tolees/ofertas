@@ -5,7 +5,7 @@ date: 2020-06-25 17:17:57
 image: 'https://m.media-amazon.com/images/I/41lLJl0G-sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGGG1Q2-es Buff Bone Gorra Trucker Niños Multi Talla única'
 sku: 'B07KGGG1Q2-es'
 tags: [  ]

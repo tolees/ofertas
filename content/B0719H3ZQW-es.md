@@ -5,7 +5,7 @@ date: 2020-08-14 17:56:59
 image: 'https://m.media-amazon.com/images/I/51MLfY9TOsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719H3ZQW-es Compartimientos plegables del almacenaje del yute cesta de...'
 sku: 'B0719H3ZQW-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-22 08:21:31
 image: 'https://m.media-amazon.com/images/I/417janfitbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000XQC41E-es Bosch Professional GBH 4-32 DFR - Martillo perforador 4 2...'
 sku: 'B000XQC41E-es'
 tags: [  ]

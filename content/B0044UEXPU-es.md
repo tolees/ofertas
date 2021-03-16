@@ -5,7 +5,7 @@ date: 2020-02-24 06:12:12
 image: 'https://m.media-amazon.com/images/I/415vd8dKI6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0044UEXPU-es HP CE312A 126A Cartucho de Tóner Original 1 unidad amarillo'
 sku: 'B0044UEXPU-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-07 21:55:41
 image: 'https://m.media-amazon.com/images/I/51dRwQYaKZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FSD57Q-es BRIKSMAX Kit de Iluminación Led para Lego City Space Port...'
 sku: 'B083FSD57Q-es'
 tags: [  ]

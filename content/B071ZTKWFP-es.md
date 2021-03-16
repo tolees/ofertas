@@ -5,7 +5,7 @@ date: 2020-05-18 08:01:27
 image: 'https://m.media-amazon.com/images/I/41z4UJT0GcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZTKWFP-es Lenovo Yoga 910-13IKB - Portátil táctil convertible de...'
 sku: 'B071ZTKWFP-es'
 tags: [  ]

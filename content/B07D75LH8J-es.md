@@ -5,7 +5,7 @@ date: 2020-09-05 07:23:03
 image: 'https://m.media-amazon.com/images/I/41ngFDDjtVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D75LH8J-es adidas Gazelle Zapatillas de Gimnasia para Hombre Rojo...'
 sku: 'B07D75LH8J-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-22 18:26:52
 image: 'https://m.media-amazon.com/images/I/412pGswaKAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DW8MZDM-es Salewa WS Speed Beat GTX Zapatillas de Running para...'
 sku: 'B07DW8MZDM-es'
 tags: [  ]

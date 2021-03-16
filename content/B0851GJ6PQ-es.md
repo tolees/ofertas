@@ -5,7 +5,7 @@ date: 2020-09-21 22:37:40
 image: 'https://m.media-amazon.com/images/I/41qGrHnblqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0851GJ6PQ-es TACKLIFE Lector de Código de Barras 1D 2.4G USB Escáner de...'
 sku: 'B0851GJ6PQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-18 02:56:30
 image: 'https://m.media-amazon.com/images/I/519AVgi+fHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DCRZTHC-es LIGHTAILING Conjunto de Luces Creator Series Volkswagen T1...'
 sku: 'B07DCRZTHC-es'
 tags: [  ]

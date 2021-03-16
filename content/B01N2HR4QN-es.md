@@ -5,7 +5,7 @@ date: 2020-06-18 16:45:49
 image: 'https://m.media-amazon.com/images/I/41RSLEbGBfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2HR4QN-es Diamante - grande 42cm/16 5 en artesanal clásico ajedrez...'
 sku: 'B01N2HR4QN-es'
 tags: [  ]

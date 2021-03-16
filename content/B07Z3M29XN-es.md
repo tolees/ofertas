@@ -5,7 +5,7 @@ date: 2020-01-24 11:39:59
 image: 'https://m.media-amazon.com/images/I/21bNCwaVBOL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3M29XN-es K-GOLEIRO Kids'
 sku: 'B07Z3M29XN-es'
 tags: [  ]

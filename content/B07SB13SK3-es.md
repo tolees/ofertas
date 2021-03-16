@@ -5,7 +5,7 @@ date: 2020-08-10 07:33:23
 image: 'https://m.media-amazon.com/images/I/41TzeNBJNmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SB13SK3-es Energy Sistem Headphones BT Urban 2 Radio Black...'
 sku: 'B07SB13SK3-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-17 11:03:25
 image: 'https://m.media-amazon.com/images/I/31LJTc1DDzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005IPM8Q6-es Philips Sonicare DiamondClean HX9332/04 - Cepillo de...'
 sku: 'B005IPM8Q6-es'
 tags: [  ]

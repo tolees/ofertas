@@ -5,7 +5,7 @@ date: 2020-06-12 07:12:15
 image: 'https://m.media-amazon.com/images/I/41xBouz1ECL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DU93LMC-es Crocs Jaunt Shorty Boot Botas de Agua para Mujer Negro...'
 sku: 'B00DU93LMC-es'
 tags: [  ]

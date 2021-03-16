@@ -5,7 +5,7 @@ date: 2020-04-24 12:19:15
 image: 'https://m.media-amazon.com/images/I/419GWBY1MAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MCW5Z1B-es ECO-WORTHY 3.5 G 220 V Generador De Ozono Industriales -...'
 sku: 'B01MCW5Z1B-es'
 tags: [  ]

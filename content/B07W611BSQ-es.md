@@ -5,7 +5,7 @@ date: 2020-09-16 09:53:12
 image: 'https://m.media-amazon.com/images/I/417j+1nReTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W611BSQ-es McNory Mini Ventilador USB Mini Fan Portátil 3000mah...'
 sku: 'B07W611BSQ-es'
 tags: [  ]

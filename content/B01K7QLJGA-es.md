@@ -5,7 +5,7 @@ date: 2020-06-12 13:07:35
 image: 'https://m.media-amazon.com/images/I/51Gq885TeEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7QLJGA-es Foxy Seda Papel Higiénico con pH Neutro - 6 Rollos'
 sku: 'B01K7QLJGA-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-22 02:28:39
 image: 'https://m.media-amazon.com/images/I/31X-CEjRbHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776XC5HH-es Tommy Hilfiger Original Slim Fit Chino Pantalones Beige...'
 sku: 'B0776XC5HH-es'
 tags: [  ]

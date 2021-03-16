@@ -5,7 +5,7 @@ date: 2020-09-23 16:12:22
 image: 'https://m.media-amazon.com/images/I/415tyMq3sbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ISU9TQU-es Casio Collection TP-1154PQ-7B Reloj Redondo para Mujer...'
 sku: 'B00ISU9TQU-es'
 tags: [  ]

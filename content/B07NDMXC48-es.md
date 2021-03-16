@@ -5,7 +5,7 @@ date: 2020-05-31 11:50:36
 image: 'https://m.media-amazon.com/images/I/41bY+vJhHCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDMXC48-es G-STAR RAW Motac Slim Tapered Pantalones de Deporte Gris...'
 sku: 'B07NDMXC48-es'
 tags: [  ]

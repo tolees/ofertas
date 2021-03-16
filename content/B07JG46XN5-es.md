@@ -5,7 +5,7 @@ date: 2020-01-29 06:32:47
 image: 'https://m.media-amazon.com/images/I/31VM9bdzx2L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JG46XN5-es Crocs 205827 Botas de Agua Unisex Niños Azul Navy/Bright...'
 sku: 'B07JG46XN5-es'
 tags: [  ]

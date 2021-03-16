@@ -5,7 +5,7 @@ date: 2020-03-08 10:23:24
 image: 'https://m.media-amazon.com/images/I/31MQczTC63L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CQ5Z2P0-es Revlon Super Lustrous Pintalabios Tono 25 Lovers Coral -...'
 sku: 'B00CQ5Z2P0-es'
 tags: [  ]

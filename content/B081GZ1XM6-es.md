@@ -5,7 +5,7 @@ date: 2020-06-06 12:49:12
 image: 'https://m.media-amazon.com/images/I/510heNXRWXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081GZ1XM6-es int!rend Caja de Regalo | Caja de Sorpresa Personalizada 5...'
 sku: 'B081GZ1XM6-es'
 tags: [  ]

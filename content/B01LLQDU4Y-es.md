@@ -5,7 +5,7 @@ date: 2020-03-11 05:16:19
 image: 'https://m.media-amazon.com/images/I/31WttYFMP4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LLQDU4Y-es Quid Senia- Paellera En Acero De 26 Cm 2 Raciones Apta...'
 sku: 'B01LLQDU4Y-es'
 tags: [  ]

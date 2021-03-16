@@ -5,7 +5,7 @@ date: 2020-04-07 22:03:58
 image: 'https://m.media-amazon.com/images/I/51JNAKHg79L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TR1ZNG-es flintronic Fresas Set 15 PCS Cortadores Caja de plastico...'
 sku: 'B083TR1ZNG-es'
 tags: [  ]

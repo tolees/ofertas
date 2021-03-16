@@ -5,7 +5,7 @@ date: 2020-08-13 10:29:52
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51MMvhdLJ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJQN4P7-es ATOYX Mini Drone AT-66 RC Drone Niños 3D Flips Modo sin...'
 sku: 'B07GJQN4P7-es'
 tags: [  ]

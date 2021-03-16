@@ -5,7 +5,7 @@ date: 2020-05-27 08:12:19
 image: 'https://m.media-amazon.com/images/I/51xK2I9dPOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSG374Z-es Silence'
 sku: 'B07NSG374Z-es'
 tags: [  ]

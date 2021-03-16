@@ -5,7 +5,7 @@ date: 2020-05-31 16:09:18
 image: 'https://m.media-amazon.com/images/I/415fVtUKdRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SW4VNQ-es PUMA Liga Striped Maillot Hombre Electric Blue...'
 sku: 'B077SW4VNQ-es'
 tags: [  ]

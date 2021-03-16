@@ -5,7 +5,7 @@ date: 2020-07-08 07:09:23
 image: 'https://m.media-amazon.com/images/I/41eWWlYjDxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTDW9PN-es Gant Hightown Zapatillas para Hombre Rojo Bright Red G518...'
 sku: 'B07TTDW9PN-es'
 tags: [  ]

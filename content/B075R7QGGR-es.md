@@ -5,7 +5,7 @@ date: 2020-01-23 15:57:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41XjlE6ZQmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075R7QGGR-es New Balance Fresh Foam Cruz v2 Zapatillas para Mujer Rosa...'
 sku: 'B075R7QGGR-es'
 tags: [  ]

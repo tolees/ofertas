@@ -5,7 +5,7 @@ date: 2020-08-06 09:30:50
 image: 'https://m.media-amazon.com/images/I/41BdZfksObL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TNX6NW-es Phipuds Webcam PC Full HD 1080P con Micrófono Webcam...'
 sku: 'B088TNX6NW-es'
 tags: [  ]

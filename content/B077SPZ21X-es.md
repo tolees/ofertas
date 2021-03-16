@@ -5,7 +5,7 @@ date: 2020-07-03 03:48:57
 image: 'https://m.media-amazon.com/images/I/31b9zI0stfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077SPZ21X-es PUMA 655307 03 Capucha Hombre Rojo Red/White S'
 sku: 'B077SPZ21X-es'
 tags: [  ]

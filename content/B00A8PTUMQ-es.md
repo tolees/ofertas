@@ -5,7 +5,7 @@ date: 2020-03-12 20:43:46
 image: 'https://m.media-amazon.com/images/I/51ijtXKotlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A8PTUMQ-es Orlane Fermete Cuidado de Nuit Thermo Lift 50 ml'
 sku: 'B00A8PTUMQ-es'
 tags: [  ]

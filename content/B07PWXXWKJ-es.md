@@ -5,7 +5,7 @@ date: 2020-06-02 20:56:19
 image: 'https://m.media-amazon.com/images/I/41ldM1D5dRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PWXXWKJ-es Under Armour UA Remix 2.0 Zapatillas de Running Deportivas...'
 sku: 'B07PWXXWKJ-es'
 tags: [  ]

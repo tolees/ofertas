@@ -5,7 +5,7 @@ date: 2020-03-11 16:04:17
 image: 'https://m.media-amazon.com/images/I/4148BCaRqhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0787FVCJW-es Brother MFCJ895DW - Equipo multifunción de tinta A4 con...'
 sku: 'B0787FVCJW-es'
 tags: [  ]

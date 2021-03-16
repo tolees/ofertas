@@ -5,7 +5,7 @@ date: 2020-03-24 14:44:16
 image: 'https://m.media-amazon.com/images/I/313tRqEO5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4YF7TK-es HP M01-F0026ns - Ordenador de sobremesa AMD Athlon SDRAM...'
 sku: 'B07Y4YF7TK-es'
 tags: [  ]

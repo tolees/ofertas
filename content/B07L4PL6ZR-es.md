@@ -5,7 +5,7 @@ date: 2020-07-06 10:28:48
 image: 'https://m.media-amazon.com/images/I/41n-MVzI12L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L4PL6ZR-es Adidas Terrex AX3 Mid GTX Zapatillas de Deporte para...'
 sku: 'B07L4PL6ZR-es'
 tags: [  ]

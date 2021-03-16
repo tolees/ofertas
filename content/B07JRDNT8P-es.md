@@ -5,7 +5,7 @@ date: 2020-07-06 08:15:46
 image: 'https://m.media-amazon.com/images/I/31zNoHWtH4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JRDNT8P-es Tommy Hilfiger Coco Legging Leggings Morado Beet Red 840...'
 sku: 'B07JRDNT8P-es'
 tags: [  ]

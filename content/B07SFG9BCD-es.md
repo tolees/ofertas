@@ -5,7 +5,7 @@ date: 2020-08-29 06:41:07
 image: 'https://m.media-amazon.com/images/I/51dulIHgbgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFG9BCD-es VHOME Manguera De Jardín Flexible 30M Juego De Manguera De...'
 sku: 'B07SFG9BCD-es'
 tags: [  ]

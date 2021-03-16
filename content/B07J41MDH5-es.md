@@ -5,7 +5,7 @@ date: 2020-06-25 15:14:18
 image: 'https://m.media-amazon.com/images/I/41P1YZ23HIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J41MDH5-es Emporio Armani Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B07J41MDH5-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-11 02:00:22
 image: 'https://m.media-amazon.com/images/I/415FyMJbnBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5JK1LJ-es Logitech G512 SE Teclado Gaming Mecánico Retroiluminado...'
 sku: 'B07W5JK1LJ-es'
 tags: [  ]

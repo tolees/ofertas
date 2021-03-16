@@ -5,7 +5,7 @@ date: 2020-02-26 21:01:42
 image: 'https://m.media-amazon.com/images/I/41GCSO0afVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFXK4VM-es PUMA Storm Adrenaline Zapatillas Unisex Adulto Black-Gray...'
 sku: 'B07KFXK4VM-es'
 tags: [  ]

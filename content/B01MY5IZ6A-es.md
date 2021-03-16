@@ -5,7 +5,7 @@ date: 2020-10-11 07:14:33
 image: 'https://m.media-amazon.com/images/I/31PJvAQICBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY5IZ6A-es Rimmel London Oh My Gloss Tint Brillo de Labios Tono 100 -...'
 sku: 'B01MY5IZ6A-es'
 tags: [  ]

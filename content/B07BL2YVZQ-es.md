@@ -5,7 +5,7 @@ date: 2020-01-16 17:17:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/319x9zeQusL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2YVZQ-es New Balance 220 Zapatillas para Mujer Negro Black/White...'
 sku: 'B07BL2YVZQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-03-21 02:01:17
 image: 'https://m.media-amazon.com/images/I/41EeRyhPILL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRLN4V1-es New Balance 373 Zapatillas para Mujer Verde Green Green 35 EU'
 sku: 'B07KRLN4V1-es'
 tags: [  ]

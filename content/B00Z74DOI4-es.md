@@ -5,7 +5,7 @@ date: 2020-05-01 07:38:53
 image: 'https://m.media-amazon.com/images/I/41vgrywQBjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z74DOI4-es MICHELIN 009518 Mini Compresor Digital 12V Norme'
 sku: 'B00Z74DOI4-es'
 tags: [  ]

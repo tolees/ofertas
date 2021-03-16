@@ -5,7 +5,7 @@ date: 2020-05-31 08:13:03
 image: 'https://m.media-amazon.com/images/I/31AZg4g6ZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07856VSNC-es L Oréal Paris Make-up designer Infaillible Stick de...'
 sku: 'B07856VSNC-es'
 tags: [  ]

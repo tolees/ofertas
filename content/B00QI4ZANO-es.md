@@ -5,7 +5,7 @@ date: 2020-02-09 12:53:10
 image: 'https://m.media-amazon.com/images/I/41JATLOfwML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QI4ZANO-es L-Carnitina suplemento deportivo quemagrasas ayuda perdida...'
 sku: 'B00QI4ZANO-es'
 tags: [  ]

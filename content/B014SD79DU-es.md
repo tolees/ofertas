@@ -5,7 +5,7 @@ date: 2020-07-08 16:45:18
 image: 'https://m.media-amazon.com/images/I/51yLw2cBScL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014SD79DU-es Nike MD Runner 2 TDV Zapatillas de Deporte Unisex niño...'
 sku: 'B014SD79DU-es'
 tags: [  ]

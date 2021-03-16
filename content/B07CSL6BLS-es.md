@@ -5,7 +5,7 @@ date: 2020-10-06 21:37:40
 image: 'https://m.media-amazon.com/images/I/51VGJ6GPEPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CSL6BLS-es Acabado sal mejor protección de la máquina 3Kg'
 sku: 'B07CSL6BLS-es'
 tags: [  ]

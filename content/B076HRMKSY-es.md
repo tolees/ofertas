@@ -5,7 +5,7 @@ date: 2020-10-03 17:42:44
 image: 'https://m.media-amazon.com/images/I/316cVVWrMkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HRMKSY-es adidas CORE18 TR PNT Pantalones de Deporte Hombre...'
 sku: 'B076HRMKSY-es'
 tags: [  ]

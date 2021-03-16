@@ -5,7 +5,7 @@ date: 2020-01-01 19:45:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41kDY9qu%2BfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZFDP4F-es Ferilinso Funda para Xiaomi Redmi 7A Elegante Armadura...'
 sku: 'B07TZFDP4F-es'
 tags: [  ]

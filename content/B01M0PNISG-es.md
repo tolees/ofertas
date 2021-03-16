@@ -5,7 +5,7 @@ date: 2020-03-04 23:03:04
 image: 'https://m.media-amazon.com/images/I/31MJBkCqVpL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0PNISG-es Diesel UMBR-ANDRETHREEPACK Calzoncillo para Hombre Negro...'
 sku: 'B01M0PNISG-es'
 tags: [  ]

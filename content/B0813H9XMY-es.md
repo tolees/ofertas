@@ -5,7 +5,7 @@ date: 2020-10-02 21:22:52
 image: 'https://m.media-amazon.com/images/I/51BU3NSfTeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0813H9XMY-es SHUIBIAN 5D DIY Diamante Pintura Diamante Completo Tigre...'
 sku: 'B0813H9XMY-es'
 tags: [  ]

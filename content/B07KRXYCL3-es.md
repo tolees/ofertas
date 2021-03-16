@@ -5,7 +5,7 @@ date: 2020-02-27 09:45:58
 image: 'https://m.media-amazon.com/images/I/31NRr41if1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRXYCL3-es SALOMON Agile LS tee M Hombre Azul Night Sky'
 sku: 'B07KRXYCL3-es'
 tags: [  ]

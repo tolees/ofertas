@@ -5,7 +5,7 @@ date: 2020-09-28 09:20:31
 image: 'https://m.media-amazon.com/images/I/51f0eJBdEUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHRN916-es Cinturón de Cintura para Correr HAISSKY Deportiva...'
 sku: 'B08BHRN916-es'
 tags: [  ]

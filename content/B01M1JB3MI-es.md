@@ -5,7 +5,7 @@ date: 2020-05-07 07:33:05
 image: 'https://m.media-amazon.com/images/I/41G8vEkWJ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M1JB3MI-es Foonii Pack de 4 Luces LED Sensores de Movimiento Sensor...'
 sku: 'B01M1JB3MI-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-06 17:50:07
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51JomA-Y3QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L8DZWWS-es Coche Electrico de Bateria 12V para Niños Infantil...'
 sku: 'B01L8DZWWS-es'
 tags: [  ]

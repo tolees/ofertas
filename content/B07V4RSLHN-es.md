@@ -5,7 +5,7 @@ date: 2020-07-01 05:39:58
 image: 'https://m.media-amazon.com/images/I/41+BU1h4loL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V4RSLHN-es Tommy Hilfiger - Poppy Small Tote Bolsos totes Mujer Rojo...'
 sku: 'B07V4RSLHN-es'
 tags: [  ]

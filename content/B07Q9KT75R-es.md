@@ -5,7 +5,7 @@ date: 2020-08-06 20:10:48
 image: 'https://m.media-amazon.com/images/I/51DzYILf1RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9KT75R-es casa pura Alfombras de Goma Escaleras - Peldaños de Goma |...'
 sku: 'B07Q9KT75R-es'
 tags: [  ]

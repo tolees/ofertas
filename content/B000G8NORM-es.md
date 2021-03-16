@@ -5,7 +5,7 @@ date: 2020-05-20 08:50:39
 image: 'https://m.media-amazon.com/images/I/41uA-L2KYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000G8NORM-es Alessi Ethno Stefano Giovannoni - Salvamanteles'
 sku: 'B000G8NORM-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 13:34:22
 image: 'https://m.media-amazon.com/images/I/51Jy76qglIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TXJKNLG-es GOAMZ Mini Ventilador Micro USB de Cuello Portatil Mano...'
 sku: 'B07TXJKNLG-es'
 tags: [  ]

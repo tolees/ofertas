@@ -5,7 +5,7 @@ date: 2020-07-25 17:45:34
 image: 'https://m.media-amazon.com/images/I/51dIhjHrpnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SHL89Q6-es Selvi 3600 - Bloc manualidades'
 sku: 'B00SHL89Q6-es'
 tags: [  ]

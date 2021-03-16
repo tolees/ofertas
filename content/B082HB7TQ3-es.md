@@ -5,7 +5,7 @@ date: 2020-04-14 08:34:06
 image: 'https://m.media-amazon.com/images/I/51Ill6KvOCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082HB7TQ3-es ART VVIES Leinwandbilder für Wohndekorationen Küche...'
 sku: 'B082HB7TQ3-es'
 tags: [  ]

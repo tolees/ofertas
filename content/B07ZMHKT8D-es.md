@@ -5,7 +5,7 @@ date: 2020-01-09 08:28:33
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5187M0FWKNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZMHKT8D-es Mochilero Compatible with Apple Watch Band 40mm 44mm...'
 sku: 'B07ZMHKT8D-es'
 tags: [  ]

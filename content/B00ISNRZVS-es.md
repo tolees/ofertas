@@ -5,7 +5,7 @@ date: 2020-05-10 09:46:22
 image: 'https://m.media-amazon.com/images/I/41eotjJ-waL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ISNRZVS-es Taurus 999.185 Recambio Envasadora'
 sku: 'B00ISNRZVS-es'
 tags: [  ]

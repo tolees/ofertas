@@ -5,7 +5,7 @@ date: 2020-07-24 09:55:57
 image: 'https://m.media-amazon.com/images/I/51ZvFbnpsYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089YQ3D5C-es Luclay Arcilla Polimerica - 48 Colores Segura y No Tóxico...'
 sku: 'B089YQ3D5C-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-05 16:31:26
 image: 'https://m.media-amazon.com/images/I/41DpCf3frnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0077WWDG8-es CASIO Reloj de Cuarzo W-734-1A'
 sku: 'B0077WWDG8-es'
 tags: [  ]

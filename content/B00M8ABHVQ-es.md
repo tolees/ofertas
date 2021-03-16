@@ -5,7 +5,7 @@ date: 2020-06-25 01:00:24
 image: 'https://m.media-amazon.com/images/I/41sbX+6g4PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M8ABHVQ-es SanDisk Ultra II - Disco Duro sólido Interno SSD de 960 GB...'
 sku: 'B00M8ABHVQ-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-18 18:54:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51Do8oVVE3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HD9LY7S-es Fujifilm Instax Mini 70 - Cámara analógica instantánea ISO...'
 sku: 'B01HD9LY7S-es'
 tags: [  ]

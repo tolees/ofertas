@@ -5,7 +5,7 @@ date: 2020-05-31 00:06:30
 image: 'https://m.media-amazon.com/images/I/41o6-992ObL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJLXMW9-es Adidas Sambarose Zapatillas Clasicas para Mujer Multicolor...'
 sku: 'B07MJLXMW9-es'
 tags: [  ]

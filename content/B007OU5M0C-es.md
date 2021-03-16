@@ -5,7 +5,7 @@ date: 2020-04-16 19:53:33
 image: 'https://m.media-amazon.com/images/I/41NP8rbjZLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007OU5M0C-es Coca Cola Zero Azúcar - Lata 330ml X 24 Latas'
 sku: 'B007OU5M0C-es'
 tags: [  ]

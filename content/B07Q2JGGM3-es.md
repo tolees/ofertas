@@ -5,7 +5,7 @@ date: 2020-08-20 03:42:10
 image: 'https://m.media-amazon.com/images/I/51c3he9VWcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2JGGM3-es Tvird Máscara de Buceo Máscara de Snorkel 180 ° Vista...'
 sku: 'B07Q2JGGM3-es'
 tags: [  ]

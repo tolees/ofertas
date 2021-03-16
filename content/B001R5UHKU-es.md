@@ -5,7 +5,7 @@ date: 2020-03-14 20:27:41
 image: 'https://m.media-amazon.com/images/I/416mjvdIuUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001R5UHKU-es Merrell Sprint Blast Zapatillas para Hombre Gris...'
 sku: 'B001R5UHKU-es'
 tags: [  ]

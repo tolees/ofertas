@@ -5,7 +5,7 @@ date: 2020-08-01 18:02:47
 image: 'https://m.media-amazon.com/images/I/51NdOX01I2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074WB2JFH-es Navachi Metal chapado en oro de 18 quilates redondo rosa...'
 sku: 'B074WB2JFH-es'
 tags: [  ]

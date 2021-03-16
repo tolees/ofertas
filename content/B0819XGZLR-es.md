@@ -5,7 +5,7 @@ date: 2020-01-17 21:15:58
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51CIycyANQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0819XGZLR-es Botella Agua Acero Inoxidable 750 ml Botella Termoaislada...'
 sku: 'B0819XGZLR-es'
 tags: [  ]

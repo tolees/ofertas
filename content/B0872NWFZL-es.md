@@ -5,7 +5,7 @@ date: 2020-05-09 09:13:03
 image: 'https://m.media-amazon.com/images/I/41NhAEr6rlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0872NWFZL-es Funda Transparente Compatible para Huawei P10 Lite Carcasa...'
 sku: 'B0872NWFZL-es'
 tags: [  ]

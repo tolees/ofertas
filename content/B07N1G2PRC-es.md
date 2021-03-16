@@ -5,7 +5,7 @@ date: 2020-01-27 19:05:56
 image: 'https://m.media-amazon.com/images/I/41vRC5NcvTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1G2PRC-es Kipling HONEST PACK - Bolsa de viaje 1 liters Morado DARK...'
 sku: 'B07N1G2PRC-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-01-13 10:12:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ldW3xZcTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GFDLH7-es find. Zapatillas Deportivas con Textura para Hombre Azul...'
 sku: 'B071GFDLH7-es'
 tags: [  ]

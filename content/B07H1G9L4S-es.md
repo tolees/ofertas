@@ -5,7 +5,7 @@ date: 2020-06-28 18:06:15
 image: 'https://m.media-amazon.com/images/I/21A6QjTECkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H1G9L4S-es Formulaone Adaptador de Tarjeta de Sonido Externo para...'
 sku: 'B07H1G9L4S-es'
 tags: [  ]

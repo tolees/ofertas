@@ -5,7 +5,7 @@ date: 2020-08-23 14:03:38
 image: 'https://m.media-amazon.com/images/I/41H3IDZ6K6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RKPNTB5-es Tommy Hilfiger Hilfiger Slim Polo Rojo Primary Red Medium...'
 sku: 'B07RKPNTB5-es'
 tags: [  ]

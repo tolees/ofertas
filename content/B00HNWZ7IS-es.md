@@ -5,7 +5,7 @@ date: 2020-01-17 14:08:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51IWjUarLOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HNWZ7IS-es Hozelock - Carrete portamangueras Pico Reel con 10 m de...'
 sku: 'B00HNWZ7IS-es'
 tags: [  ]

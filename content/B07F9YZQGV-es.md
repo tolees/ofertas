@@ -5,7 +5,7 @@ date: 2020-02-22 09:46:52
 image: 'https://m.media-amazon.com/images/I/51VH+CB5KnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9YZQGV-es LEDMO tira led 12v 600leds 3000K blanco cálido SMD2835 5M...'
 sku: 'B07F9YZQGV-es'
 tags: [  ]

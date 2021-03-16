@@ -5,7 +5,7 @@ date: 2020-03-04 12:49:08
 image: 'https://m.media-amazon.com/images/I/411sKhpNX4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RFJD6H7-es Herramientas de pulido de la joyería de la regla del papel...'
 sku: 'B07RFJD6H7-es'
 tags: [  ]

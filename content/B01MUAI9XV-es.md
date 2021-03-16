@@ -5,7 +5,7 @@ date: 2020-08-02 15:12:31
 image: 'https://m.media-amazon.com/images/I/31Pq4faIXzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MUAI9XV-es Diesel UMBX-SHAWNTHREEPACK Calzoncillo para Hombre...'
 sku: 'B01MUAI9XV-es'
 tags: [  ]

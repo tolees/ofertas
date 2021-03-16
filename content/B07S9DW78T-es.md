@@ -5,7 +5,7 @@ date: 2020-09-25 23:15:40
 image: 'https://m.media-amazon.com/images/I/4102Fpy--bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9DW78T-es Asics Gel-Contend 6 Sneaker Mens Negro 42 EU'
 sku: 'B07S9DW78T-es'
 tags: [  ]

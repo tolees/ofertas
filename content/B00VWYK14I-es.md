@@ -5,7 +5,7 @@ date: 2020-07-27 05:01:14
 image: 'https://m.media-amazon.com/images/I/41Gxhqaa9sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VWYK14I-es Joma Record Malla Larga Hombre Rojo L'
 sku: 'B00VWYK14I-es'
 tags: [  ]

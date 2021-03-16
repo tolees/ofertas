@@ -5,7 +5,7 @@ date: 2020-04-13 20:16:53
 image: 'https://m.media-amazon.com/images/I/31cqPBEitfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D42KDJ3-es Rimmel London Stay Satin Liquid Lip Colour Barra De Labios...'
 sku: 'B07D42KDJ3-es'
 tags: [  ]

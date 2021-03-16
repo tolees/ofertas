@@ -5,7 +5,7 @@ date: 2020-08-29 06:05:35
 image: 'https://m.media-amazon.com/images/I/41fbHXCf7iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085C2HBW9-es EACLL Bombillas LED GU10 6000K Blanco Frio 5W 535 Lúmenes...'
 sku: 'B085C2HBW9-es'
 tags: [  ]

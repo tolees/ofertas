@@ -5,7 +5,7 @@ date: 2020-09-20 08:42:53
 image: 'https://m.media-amazon.com/images/I/51B281ZDXvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CRYP1D6-es Pop Vinyl - G Dota 2 S1 Phantom Assasin with Sword'
 sku: 'B07CRYP1D6-es'
 tags: [  ]

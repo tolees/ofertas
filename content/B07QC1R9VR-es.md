@@ -5,7 +5,7 @@ date: 2020-03-16 17:32:52
 image: 'https://m.media-amazon.com/images/I/31g9bcIMtOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QC1R9VR-es Calcetines de Compresión 1 par Blanco sólido EU 39-42'
 sku: 'B07QC1R9VR-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 16:41:44
 image: 'https://m.media-amazon.com/images/I/51QuD-wtQAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004NG9SZU-es Metronic 477201 - Radio portátil AM FM pantalla LCD roja'
 sku: 'B004NG9SZU-es'
 tags: [  ]

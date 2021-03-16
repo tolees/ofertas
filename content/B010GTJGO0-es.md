@@ -5,7 +5,7 @@ date: 2020-01-14 06:51:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51MJDsRUaDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010GTJGO0-es Timex Grid Shock - Reloj digital con correa de resina para...'
 sku: 'B010GTJGO0-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-04 21:00:25
 image: 'https://m.media-amazon.com/images/I/31F5yQo9WHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007UZPNXM-es Lacoste L1230 Polo de Manga Corta para Hombre Blanco Blanc...'
 sku: 'B007UZPNXM-es'
 tags: [  ]

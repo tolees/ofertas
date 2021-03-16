@@ -5,7 +5,7 @@ date: 2020-09-03 12:35:27
 image: 'https://m.media-amazon.com/images/I/41IPi3bnC6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DF7CBSM-es ADJU Muñeca Flip Octopus de Doble Cara Lindo Pulpo...'
 sku: 'B08DF7CBSM-es'
 tags: [  ]

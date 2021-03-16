@@ -5,7 +5,7 @@ date: 2020-01-27 18:01:48
 image: 'https://m.media-amazon.com/images/I/41zQ3Jc7GKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YHQLXFX-es Character World Disney Frozen Juego de Ropa de Cama...'
 sku: 'B07YHQLXFX-es'
 tags: [  ]

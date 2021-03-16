@@ -5,7 +5,7 @@ date: 2020-06-06 17:56:58
 image: 'https://m.media-amazon.com/images/I/412ywhvw8ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MFP9NV-es AEG LX7-2-EB-P Aspiradora de Trineo Sin Bolsa Gran...'
 sku: 'B077MFP9NV-es'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-04-27 15:38:30
 image: 'https://m.media-amazon.com/images/I/51X3LIF8ZZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B6GKT7H-es Kellogg s KG30683 - Caja Cereales Metal Blanco Negro 18 5...'
 sku: 'B07B6GKT7H-es'
 tags: [  ]

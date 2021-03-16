@@ -5,7 +5,7 @@ date: 2020-08-12 07:45:39
 image: 'https://m.media-amazon.com/images/I/41GlOOj5DFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792ZJ4QT-es Exprimidor Eléctrico Aicok Exprimidor Zumo de naranjas 100...'
 sku: 'B0792ZJ4QT-es'
 tags: [  ]

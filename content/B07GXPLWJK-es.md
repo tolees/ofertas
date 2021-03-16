@@ -5,7 +5,7 @@ date: 2020-08-02 04:06:31
 image: 'https://m.media-amazon.com/images/I/41K9djOlH0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXPLWJK-es RECCI - Topper Colchón de Espuma 140x190 cm Topper...'
 sku: 'B07GXPLWJK-es'
 tags: [  ]

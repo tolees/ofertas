@@ -5,7 +5,7 @@ date: 2020-04-25 14:25:01
 image: 'https://m.media-amazon.com/images/I/51KvSVmlRgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BFN2XB0-es Casio EDIFICE Reloj en caja sólida de acero inoxidable 10...'
 sku: 'B00BFN2XB0-es'
 tags: [  ]

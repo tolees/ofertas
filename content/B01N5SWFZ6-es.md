@@ -5,7 +5,7 @@ date: 2020-01-29 06:08:32
 image: 'https://m.media-amazon.com/images/I/41566B9yH6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5SWFZ6-es Philips Sonicare DiamondClean HX9394/92 - Pack 2 Cepillos...'
 sku: 'B01N5SWFZ6-es'
 tags: [  ]

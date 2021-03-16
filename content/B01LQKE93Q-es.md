@@ -5,7 +5,7 @@ date: 2020-06-12 07:15:57
 image: 'https://m.media-amazon.com/images/I/41BPsm45IzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LQKE93Q-es SD toys Juego de Tronos Jarra de Cerveza 3D Rotating...'
 sku: 'B01LQKE93Q-es'
 tags: [  ]

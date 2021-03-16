@@ -5,7 +5,7 @@ date: 2020-08-16 12:52:47
 image: 'https://m.media-amazon.com/images/I/31W+vfI-r1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN7FD1N-es ibohr Mini Ventilador silencioso Ventilador eléctrico de...'
 sku: 'B07CN7FD1N-es'
 tags: [  ]

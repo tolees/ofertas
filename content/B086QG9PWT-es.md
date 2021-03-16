@@ -5,7 +5,7 @@ date: 2020-04-17 07:40:39
 image: 'https://m.media-amazon.com/images/I/41ifCUhaHTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QG9PWT-es Suhctup Funda Compatible con Huawei Honor 9i Carcasa...'
 sku: 'B086QG9PWT-es'
 tags: [  ]

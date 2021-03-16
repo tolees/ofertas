@@ -5,7 +5,7 @@ date: 2020-03-24 12:02:31
 image: 'https://m.media-amazon.com/images/I/41SHBzYG9mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCJR4KJ-es Susan Y Regalos para Mujer San valentín Pulsera Mujer...'
 sku: 'B07XCJR4KJ-es'
 tags: [  ]

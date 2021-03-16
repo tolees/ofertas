@@ -5,7 +5,7 @@ date: 2020-04-12 01:32:44
 image: 'https://m.media-amazon.com/images/I/41eijltXtOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2XZT77-es Charles Wilson 5er Packung Einfarbige T-Shirts mit...'
 sku: 'B07K2XZT77-es'
 tags: [  ]

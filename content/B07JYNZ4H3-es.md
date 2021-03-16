@@ -5,7 +5,7 @@ date: 2020-01-10 10:48:53
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41a2cREISKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYNZ4H3-es Tommy Hilfiger Core Corporate High Vulc Sneaker Zapatillas...'
 sku: 'B07JYNZ4H3-es'
 tags: [  ]

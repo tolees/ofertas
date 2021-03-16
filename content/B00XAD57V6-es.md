@@ -5,7 +5,7 @@ date: 2020-03-14 17:17:35
 image: 'https://m.media-amazon.com/images/I/41PJKR2nq0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XAD57V6-es Durex Play Lubricante Base Agua Sabor Cereza - 50 ml'
 sku: 'B00XAD57V6-es'
 tags: [  ]

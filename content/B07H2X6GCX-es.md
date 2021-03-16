@@ -5,7 +5,7 @@ date: 2020-06-01 08:46:37
 image: 'https://m.media-amazon.com/images/I/41-NmYnwI5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2X6GCX-es 6x Bolas de Baño Sal de Baño Bolas Perfumadas Esenciales...'
 sku: 'B07H2X6GCX-es'
 tags: [  ]

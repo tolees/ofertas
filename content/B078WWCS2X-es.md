@@ -5,7 +5,7 @@ date: 2020-06-09 21:10:17
 image: 'https://m.media-amazon.com/images/I/41Q-WoDquFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WWCS2X-es Maclaren Triumph Silla de paseo - ligera de los 6 meses...'
 sku: 'B078WWCS2X-es'
 tags: [  ]
