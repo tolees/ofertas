@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 41.86 % en TP-Link TL-SF1005D - Switch Ethernet con'
-date: 2021-03-15 22:27:42
+date: 2021-03-16 23:01:19
 image: 'https://m.media-amazon.com/images/I/31DRzr1MWGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000FNFSPY-es TP-Link TL-SF1005D - Switch Ethernet con 5 Puertos 10/100...'
 sku: 'B000FNFSPY-es'
-tags: [  ]
+tags: [ 'tp-link', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.es/dp/B000FNFSPY/?tag=tolees-21'
 descuento: '41.86'
-average: '7.66368159203982'
+average: '7.66287128712874'
 ---
 
 Tienes [TP-Link TL-SF1005D - Switch Ethernet con 5 Puertos  10/100 Mbps  RJ45  Concentrador de ethernet  Plug and Play  sin Ventilador  No Gestionado ](https://www.amazon.es/dp/B000FNFSPY/?tag=tolees-21) con un 41.86 % de descuento con precio de oferta de 7.5 EUR (original: 12.9 EUR) en el siguiente enlace!
@@ -28,13 +28,13 @@ Tienes [TP-Link TL-SF1005D - Switch Ethernet con 5 Puertos  10/100 Mbps  RJ45  C
 
 ℹ️:
 
-- Soporta 10k de Jumbo Frame, mejorando significantemente el rendimiento de las transfencias de grandes archivos.
-- 5 puertos RJ45 con negociación automática de velocidad 10/100 Mbps, admite MDI/MDIX automático.
-- Requisitos del sistema : Microsoft Windows 8/7/Vista/XP , MAC OS, NetWare, UNIX o Linux.
 - El diseño sin ventilador garantiza un funcionamiento silencioso.
+- Requisitos del sistema : Microsoft Windows 8/7/Vista/XP , MAC OS, NetWare, UNIX o Linux.
+- 5 puertos RJ45 con negociación automática de velocidad 10/100 Mbps, admite MDI/MDIX automático.
 - El control de flujo IEEE 802.3x proporciona una transferencia de datos confiable.
-- Tecnología de ahorro de energía para ethernet que reduce el consumo.
+- Soporta 10k de Jumbo Frame, mejorando significantemente el rendimiento de las transfencias de grandes archivos.
 - Carcasa de plástico, diseñado para ser usado como equipo de sobremesa.
 - Plug and play, sin ninguna configuración adicional.
+- Tecnología de ahorro de energía para ethernet que reduce el consumo.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000FNFSPY/?tag=tolees-21)

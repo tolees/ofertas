@@ -28,8 +28,8 @@ Ahora mismo tienes [Nike Renew Lucent  Zapatillas Hombre  Negro  Black/White 002
 
 🔎:
 
-- Shoe Width : medium
-- sintética, Textíl, sintética, sintética, Cordones, Zapatillas bajas
 - 1
+- sintética, Textíl, sintética, sintética, Cordones, Zapatillas bajas
+- Shoe Width : medium
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MDGYRLS/?tag=tolees-21)
