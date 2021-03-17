@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'G-Technology G-DRIVE 14TB Enterprise Cla al 33.18 % de descuento'
-date: 2021-03-15 08:42:11
+date: 2021-03-17 10:53:02
 image: 'https://m.media-amazon.com/images/I/415GcAcIMCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PFZRSB-es G-Technology G-DRIVE 14TB Enterprise Clase 7200 RPM...'
 sku: 'B082PFZRSB-es'
-tags: [  ]
+tags: [ 'Accesorios','Accesorios para monitores','Almacenamiento de datos','Almacenamiento de datos externo','Brazos y soportes para monitores','Cuidado y limpieza del hogar','Cámaras deportivas para casco','Cámaras deportivas para casco y accesorios','Deportes y aire libre','Detergente líquido para textiles','Discos duros externos','Electrónica','Electrónica y dispositivos para el deporte','Fotografía y videocámaras','Informática','Juguetes','Juguetes y juegos','Muñecos y figuras','Playsets de figuras de juguete para niños','Productos para la lavandería','Salud y cuidado personal','Sandalias de vestir para hombre','Videocámaras','Zapatos','Zapatos para hombre','Zapatos y complementos','g-technology', ]
 actualPrice: 295.99 EUR
 currency: EUR
 price: 295.99
@@ -29,9 +29,9 @@ Ahora mismo tienes [G-Technology G-DRIVE 14TB Enterprise Clase 7200 RPM  245MB/s
 🔎:
 
 - Carcasa sólida y totalmente de aluminio para proporcionar durabilidad
-- Usb 3.0 de alta velocidad para transferencias de datos a gran velocidad y universales
+- plug-and-play» en mac; se puede reformatear fácilmente en windows
 - Preparada para time machine para realizar copias de seguridad de los archivos con fácil idad
 - Capacidad de almacenamiento de hasta 14.tb para archivos multimedia pesados
-- plug-and-play» en mac; se puede reformatear fácilmente en windows
+- Usb 3.0 de alta velocidad para transferencias de datos a gran velocidad y universales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082PFZRSB/?tag=tolees-21)
