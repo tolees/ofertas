@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'APLI Kids 11805 - Bolsa de pegatinas est al 28.57 % de descuento'
-date: 2021-03-15 22:29:44
+date: 2021-03-17 04:20:49
 image: 'https://m.media-amazon.com/images/I/41URqlSc1iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007ORGVT6-es APLI Kids 11805 - Bolsa de pegatinas estrella oro grandes...'
 sku: 'B007ORGVT6-es'
-tags: [  ]
+tags: [ 'apli kids', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3
@@ -28,9 +28,9 @@ Está [APLI Kids 11805 - Bolsa de pegatinas estrella oro  grandes y pequeñas 3 
 
 ℹ️:
 
+- Se suministra en tres hojas
 - Etiquetas autoadhesivas permanentes en forma de estrella
 - La bolsa incluye 120 unidades
-- Se suministra en tres hojas
 - Adecuados para actividades creativas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B007ORGVT6/?tag=tolees-21)

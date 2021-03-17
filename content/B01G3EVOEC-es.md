@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Hombre de Acero 4k Uhd [Blu-ray] con un 39.05 % de descuento'
-date: 2021-03-15 16:41:17
+date: 2021-03-17 05:52:37
 image: 'https://m.media-amazon.com/images/I/51fbZ9cvaQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G3EVOEC-es Hombre de Acero 4k Uhd [Blu-ray]'
 sku: 'B01G3EVOEC-es'
 tags: [  ]
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G3EVOEC/?tag=tolees-21'
 descuento: '39.05'
-average: '15.7271428571429'
+average: '15.71'
 ---
 
 En este momento está [Hombre de Acero 4k Uhd [Blu-ray]](https://www.amazon.es/dp/B01G3EVOEC/?tag=tolees-21) a 15.59 EUR (original: 25.58 EUR) (39.05 %  de descuento) en el siguiente enlace!

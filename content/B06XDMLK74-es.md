@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Logan  4K Ultra HD  [Blu-ray] al 38.47 % de rebaja'
-date: 2021-03-02 10:23:44
+date: 2021-03-17 05:56:37
 image: 'https://m.media-amazon.com/images/I/51+Jw46qOuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDMLK74-es Logan 4K Ultra HD [Blu-ray]'
 sku: 'B06XDMLK74-es'
 tags: [  ]
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XDMLK74/?tag=tolees-21'
 descuento: '38.47'
-average: '11.8766666666667'
+average: '12.162'
 ---
 
 Tienes [Logan  4K Ultra HD  [Blu-ray]](https://www.amazon.es/dp/B06XDMLK74/?tag=tolees-21) con precio final de  12.59 EUR (original: 20.46 EUR) (38.47 %  de rebaja) aqui!
