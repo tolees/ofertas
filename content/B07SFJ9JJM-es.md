@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFJ9JJM-es Levi s June Batwing Chanclas Hombre Negro R Black 59 42 EU'
 sku: 'B07SFJ9JJM-es'
-tags: [ 'Sandalias de vestir para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','levis', ]
+tags: [ 'Accesorios decorativos','Adhesivos y selladores','Almacenamiento de datos','Almacenamiento de datos externo','Bolsas escolares','Bricolaje y herramientas','Bóxers ajustados para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chalecos de fútbol para hombre','Comunicación móvil y accesorios','Decoración del hogar','Deportes y aire libre','Electrónica','Equipaje','Ferretería','Fútbol','Hogar y cocina','Informática','Jerséis para hombre','Jerséis, cárdigans y sudaderas para hombre','Juguetes','Juguetes y juegos','Licuadoras multifunción','Licuadoras y exprimidores eléctricos','Memorias USB','Mochilas, estuches y sets escolares','Muñecas bebé','Muñecas y accesorios','Móviles','Móviles decorativos','Móviles y smartphones libres','Pegamentos instantáneos','Pequeño electrodoméstico','Polos para hombre','Ropa','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa interior para hombre','Ropa para hombre','Ropa para niño','Sandalias de vestir para hombre','Vaqueros para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','levis', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49
