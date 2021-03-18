@@ -28,9 +28,9 @@ En este momento está [Friskies - Bon Bacon - Alimento Complementario para Perro
 
 🔎:
 
-- 100% completo y equilibrado
+- Sin colorantes añadidos, sin aromatizantes artificiales añadidos ni conservantes artificiales añadidos
 - Su fórmula de defensa dual funciona en paralelo en el interior, ayudando a mantener la producción natural de anticuerpos de tu gato, y en el exterior manteniendo piel y pelaje saludables
 - El embalaje puede ser diferente
-- Sin colorantes añadidos, sin aromatizantes artificiales añadidos ni conservantes artificiales añadidos
+- 100% completo y equilibrado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00B4XHU3C/?tag=tolees-21)

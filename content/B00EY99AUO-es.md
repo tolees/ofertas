@@ -29,9 +29,9 @@ Tienes [Gre 90173 - Lámpara Solar de Fantasía Led para Jardín y Piscina  8 Di
 🔎:
 
 - Se recarga con energía solar, por lo que te supondrá un ahorro energético
-- Incluye 2 pilas recargables Ni-MH AA 1,2 V
-- Led de 8 diodos: 4 led de luz blanca y 4 led de luz de color
 - Para el jardín, estanque o piscina, con materiales especialmente resistentes al agua
+- Incluye 2 pilas recargables Ni-MH AA 1,2 V
 - Lámpara de fantasía para exteriores con 7 programas distintos de luces
+- Led de 8 diodos: 4 led de luz blanca y 4 led de luz de color
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00EY99AUO/?tag=tolees-21)
