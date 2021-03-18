@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'HP - Ratón Inalámbrico HP 200 con Perfil con un 52.97 % de descuento'
-date: 2021-03-17 17:23:23
+date: 2021-03-18 19:53:55
 image: 'https://m.media-amazon.com/images/I/41Muk0dYD3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00HCYTOV8-es HP - Ratón Inalámbrico HP 200 con Perfil Redondeado Color...'
 sku: 'B00HCYTOV8-es'
+tags: [ 'Accesorios','Informática','Ratones','Teclados, ratones y periféricos de entrada','hp', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B00HCYTOV8/?tag=tolees-21'
 descuento: '52.97'
-average: '9.11130434782609'
+average: '9.02160000000001'
 ---
 
 En este momento está [HP - Ratón Inalámbrico HP 200 con Perfil Redondeado  Color Rojo](https://www.amazon.es/dp/B00HCYTOV8/?tag=tolees-21) a 7.99 EUR (original: 16.99 EUR) (52.97 %  de descuento) en el siguiente enlace!
