@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFWTZVP-es PUMA Carina Lux SD Zapatillas Mujer Negro Puma Black-Teal...'
 sku: 'B07KFWTZVP-es'
+tags: [  ]
 actualPrice: 18.07 EUR
 currency: EUR
 price: 18.07

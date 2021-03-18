@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003QPOAPC-es Samsung CLT-M4072S/ELS - Tóner 1000 páginas magenta'
 sku: 'B003QPOAPC-es'
+tags: [  ]
 actualPrice: 32.8 EUR
 currency: EUR
 price: 32.8

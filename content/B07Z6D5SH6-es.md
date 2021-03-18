@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z6D5SH6-es Supore Correa Galaxy Watch Active 40mm Correas de Silicona...'
 sku: 'B07Z6D5SH6-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

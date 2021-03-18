@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSJGN5K-es Kipling Cindy Cartera para Mujer Verde Seagrass 11.5x8x1...'
 sku: 'B07PSJGN5K-es'
+tags: [  ]
 actualPrice: 10.75 EUR
 currency: EUR
 price: 10.75

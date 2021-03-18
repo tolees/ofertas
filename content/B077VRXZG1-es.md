@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VRXZG1-es adidas VL Court 2.0 Zapatillas para Hombre Azul Collegiate...'
 sku: 'B077VRXZG1-es'
+tags: [  ]
 actualPrice: 39.56 EUR
 currency: EUR
 price: 39.56

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRMC2BH-es Bourjois Velvet The Pencil - Pintalabios Tono 18 I m so...'
 sku: 'B07PRMC2BH-es'
+tags: [  ]
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

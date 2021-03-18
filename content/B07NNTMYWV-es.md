@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNTMYWV-es Under Armour UA Charged Bandit 5 Zapatillas para Correr...'
 sku: 'B07NNTMYWV-es'
+tags: [  ]
 actualPrice: 50.39 EUR
 currency: EUR
 price: 50.39

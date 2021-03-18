@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084TLRQJ1-es FLYFLY Artículos de Fiestas para Fanáticos de los...'
 sku: 'B084TLRQJ1-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

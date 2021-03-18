@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K69PWLT-es Ganchos adhesivos KGOGO – Ganchos mágicos para colgar...'
 sku: 'B07K69PWLT-es'
+tags: [  ]
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

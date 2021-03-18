@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DSMFX2M-es Precision'
 sku: 'B00DSMFX2M-es'
+tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

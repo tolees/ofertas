@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089YTFF7R-es TELMU Microscopio Óptico Profesionales Microscopios...'
 sku: 'B089YTFF7R-es'
+tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

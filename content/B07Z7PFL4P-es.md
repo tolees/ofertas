@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7PFL4P-es Muñecas Arias - Elegance 36 cm con Conjunto Joy-60310'
 sku: 'B07Z7PFL4P-es'
+tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

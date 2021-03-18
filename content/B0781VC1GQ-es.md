@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781VC1GQ-es PUMA Liga Training Shorts W Chándal Mujer Negro Black/White M'
 sku: 'B0781VC1GQ-es'
+tags: [  ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

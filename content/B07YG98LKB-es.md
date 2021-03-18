@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YG98LKB-es Mr. Wonderful Agenda Clásica 2020'
 sku: 'B07YG98LKB-es'
+tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

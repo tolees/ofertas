@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W67TY6P-es Feline 7.0'
 sku: 'B07W67TY6P-es'
+tags: [  ]
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

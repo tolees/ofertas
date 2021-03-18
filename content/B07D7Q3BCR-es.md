@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7Q3BCR-es Astor Perfect Stay Gel Shine Esmalte de Uñas Tono 635...'
 sku: 'B07D7Q3BCR-es'
+tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

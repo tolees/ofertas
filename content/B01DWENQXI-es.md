@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWENQXI-es Samsung WMN550M/XC Mini Soporte de Pared Negro'
 sku: 'B01DWENQXI-es'
+tags: [  ]
 actualPrice: 31.35 EUR
 currency: EUR
 price: 31.35

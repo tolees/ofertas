@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002N5MKD0-es Clarins - Gentle Crema Noche'
 sku: 'B002N5MKD0-es'
+tags: [  ]
 actualPrice: 7.41 EUR
 currency: EUR
 price: 7.41

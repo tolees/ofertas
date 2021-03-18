@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079CDBSGJ-es JACK & JONES Jjepaulos Polo SS Noos Blanco White Detail:...'
 sku: 'B079CDBSGJ-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

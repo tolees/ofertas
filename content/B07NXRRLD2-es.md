@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXRRLD2-es Alarma Personal Alarma Personal de Emergencia Scream...'
 sku: 'B07NXRRLD2-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRS12XC-es Todocama - Almohada viscoelástica Cervical con diseño...'
 sku: 'B07NRS12XC-es'
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

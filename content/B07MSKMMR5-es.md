@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSKMMR5-es Clarks Tri Path Mid Zapatillas Altas para Hombre Braun Tan...'
 sku: 'B07MSKMMR5-es'
+tags: [  ]
 actualPrice: 74.76 EUR
 currency: EUR
 price: 74.76

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081WPYHXL-es Cuquiland Esencia Agenda ilustrada por Esther Gili Tamaño...'
 sku: 'B081WPYHXL-es'
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

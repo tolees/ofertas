@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZYVJ7K-es 2 Pares Calcetines/Medias de Compresión para Hombres y...'
 sku: 'B07PZYVJ7K-es'
+tags: [  ]
 actualPrice: 7.42 EUR
 currency: EUR
 price: 7.42

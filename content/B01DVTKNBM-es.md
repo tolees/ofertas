@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DVTKNBM-es Weider Protein Pancake Mix Vainilla. Tortitas de harina de...'
 sku: 'B01DVTKNBM-es'
+tags: [  ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

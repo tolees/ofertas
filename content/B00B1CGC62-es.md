@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B1CGC62-es Bourjois Rouge Edition Barra de Labios Tono 07 Fuchsia...'
 sku: 'B00B1CGC62-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

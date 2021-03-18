@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4P56MZ-es B Blesiya 1 x Unidad Flash USB 2.0 Panelado de Arce...'
 sku: 'B07H4P56MZ-es'
+tags: [  ]
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

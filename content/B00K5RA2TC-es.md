@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K5RA2TC-es Tommy Hilfiger 3p Brief Calzoncillos Ngro Negro 990 Medium...'
 sku: 'B00K5RA2TC-es'
+tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

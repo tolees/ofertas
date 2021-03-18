@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L7HYXSW-es Baoblaze Tarjeta de Felicitación Hecha a Mano de Pluma...'
 sku: 'B07L7HYXSW-es'
+tags: [  ]
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWFH3PQ-es FITTOO Sujetador Deportivo Tops de Yoga Correr Gimnasio...'
 sku: 'B07VWFH3PQ-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

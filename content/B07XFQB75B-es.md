@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFQB75B-es DAZAKA Juego de Destornilladores de Precisión Profesional...'
 sku: 'B07XFQB75B-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

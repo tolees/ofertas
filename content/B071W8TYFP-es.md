@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071W8TYFP-es Belkin Classic Pro - Bolsa Messenger para Ordenador...'
 sku: 'B071W8TYFP-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

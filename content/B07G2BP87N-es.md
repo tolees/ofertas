@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2BP87N-es TACKLIFE Juego de Destornilladores de Precisión...'
 sku: 'B07G2BP87N-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

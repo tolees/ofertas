@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CMQHF2T-es THEE Alfombrilla de Planchar Esterilla de Planchar...'
 sku: 'B07CMQHF2T-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSQ94W3-es Columbia Mujer Trenca Rainy Creek Trenca Poliéster Azul...'
 sku: 'B07KSQ94W3-es'
+tags: [  ]
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

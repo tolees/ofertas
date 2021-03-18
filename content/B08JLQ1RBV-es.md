@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JLQ1RBV-es Webcam con micrófono cámara Web de transmisión HD 1080P...'
 sku: 'B08JLQ1RBV-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

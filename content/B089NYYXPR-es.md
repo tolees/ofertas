@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NYYXPR-es DOHUI Funda Samsung Galaxy S20 5G UW 2 en 1 Robusta...'
 sku: 'B089NYYXPR-es'
+tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

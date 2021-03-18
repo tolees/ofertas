@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746SCP9H-es L Oréal Paris Make-up designer Accord Parfait Base...'
 sku: 'B0746SCP9H-es'
+tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

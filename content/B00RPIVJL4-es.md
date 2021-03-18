@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RPIVJL4-es adidas Zx Flux Zapatillas Unisex para Niños Negro...'
 sku: 'B00RPIVJL4-es'
+tags: [  ]
 actualPrice: 23.22 EUR
 currency: EUR
 price: 23.22

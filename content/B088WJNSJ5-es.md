@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088WJNSJ5-es FIGROL Ventilador Cuello Ventilador Portatil USB...'
 sku: 'B088WJNSJ5-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

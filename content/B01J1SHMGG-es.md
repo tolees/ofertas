@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J1SHMGG-es WWE 2K17 - Edición NXT'
 sku: 'B01J1SHMGG-es'
+tags: [  ]
 actualPrice: 60 EUR
 currency: EUR
 price: 60

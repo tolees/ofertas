@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K28QLNH-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07K28QLNH-es'
+tags: [  ]
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

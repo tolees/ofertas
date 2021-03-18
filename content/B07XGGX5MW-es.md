@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGGX5MW-es Baño Stick Wall Hanging Slippers Rackhelf Hanger para uso...'
 sku: 'B07XGGX5MW-es'
+tags: [  ]
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

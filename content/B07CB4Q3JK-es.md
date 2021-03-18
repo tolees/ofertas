@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CB4Q3JK-es BRADLEY CROMPTON El Set De 2 Cinturones Marrón y marrón...'
 sku: 'B07CB4Q3JK-es'
+tags: [  ]
 actualPrice: 16.26 EUR
 currency: EUR
 price: 16.26

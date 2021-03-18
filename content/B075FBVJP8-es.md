@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FBVJP8-es PUSHIDE 2PCS Alta Calidad Almohadillas para cinturón de...'
 sku: 'B075FBVJP8-es'
+tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

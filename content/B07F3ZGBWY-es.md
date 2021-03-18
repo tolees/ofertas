@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3ZGBWY-es Bonsenkitchen Termómetro Digital de Cocina para Carne...'
 sku: 'B07F3ZGBWY-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

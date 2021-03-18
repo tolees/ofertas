@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1VJZYM-es Purina Felix Party Mix Original Snacks golosinas y chuches...'
 sku: 'B01M1VJZYM-es'
+tags: [  ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

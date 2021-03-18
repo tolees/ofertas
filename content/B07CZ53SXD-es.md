@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ53SXD-es Asics Gel-Lyte Zapatillas Unisex Niños Negro Black/Black...'
 sku: 'B07CZ53SXD-es'
+tags: [  ]
 actualPrice: 19.36 EUR
 currency: EUR
 price: 19.36

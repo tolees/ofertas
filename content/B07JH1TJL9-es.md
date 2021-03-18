@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH1TJL9-es Skechers VERRADO BROGEN Zapatillas Altas para Hombre...'
 sku: 'B07JH1TJL9-es'
+tags: [  ]
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

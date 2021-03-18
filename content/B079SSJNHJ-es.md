@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SSJNHJ-es Kappa SALCITO TKS Chándal Hombre Azul Marino/Blanco L'
 sku: 'B079SSJNHJ-es'
+tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

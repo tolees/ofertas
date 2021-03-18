@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGX5HMG-es Kit de Punto de Cruz Estampado Tela Impresa con Kit de...'
 sku: 'B07RGX5HMG-es'
+tags: [  ]
 actualPrice: 14.01 EUR
 currency: EUR
 price: 14.01

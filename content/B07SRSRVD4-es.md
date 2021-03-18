@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRSRVD4-es DC Shoes Switch Zapatillas de Skateboard para Hombre Negro...'
 sku: 'B07SRSRVD4-es'
+tags: [  ]
 actualPrice: 40.2 EUR
 currency: EUR
 price: 40.2

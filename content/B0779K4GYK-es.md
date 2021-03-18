@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779K4GYK-es Pepe Jeans Poppy Pantalones Cortos Para Mujer Azul Denim...'
 sku: 'B0779K4GYK-es'
+tags: [  ]
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

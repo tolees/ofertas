@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYJJ1Q5-es Vibrador Parejas FIDECH Estimulador de Clítoris...'
 sku: 'B07VYJJ1Q5-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

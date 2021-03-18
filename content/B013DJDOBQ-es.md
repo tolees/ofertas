@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013DJDOBQ-es Skylanders SuperCharges - Figura Smash Hit Driver'
 sku: 'B013DJDOBQ-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

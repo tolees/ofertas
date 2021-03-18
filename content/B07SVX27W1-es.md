@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVX27W1-es ORICO Funda para Disco Duro con Asa Impermeable Resistente...'
 sku: 'B07SVX27W1-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

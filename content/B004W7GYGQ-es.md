@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004W7GYGQ-es Duracell Plus Power 6LR61/MN1604 Batería alcalina...'
 sku: 'B004W7GYGQ-es'
+tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MCXN2V-es Cable USB Tipo C CHOETECH USB C a USB 3.0 2 x 2M + 1M...'
 sku: 'B075MCXN2V-es'
+tags: [  ]
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

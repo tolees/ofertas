@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHRWDWL-es Mouse para juegos Bluetooth mouse inalámbrico recargable...'
 sku: 'B08BHRWDWL-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

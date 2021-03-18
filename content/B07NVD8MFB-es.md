@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVD8MFB-es Simpeak Funda Compatible con Huawei P30 Pro 6.47"/2019...'
 sku: 'B07NVD8MFB-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

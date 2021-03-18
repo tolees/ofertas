@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AXL18NS-es Happy People Baby planschbecken Wehncke Watch Piscinas...'
 sku: 'B01AXL18NS-es'
+tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5HMPJ7-es Tom Tailor Besticktes Polo Azul Blue Grindle Pique 19473 S...'
 sku: 'B07V5HMPJ7-es'
+tags: [  ]
 actualPrice: 8.46 EUR
 currency: EUR
 price: 8.46

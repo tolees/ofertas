@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY2F6CN-es 2X Funda Xiaomi Redmi Note 7 Cárcasa Silicona Transparente...'
 sku: 'B07PY2F6CN-es'
+tags: [  ]
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVGWW1G-es Kipling - Hiphurray Packable Bolsos totes Mujer Morado...'
 sku: 'B07MVGWW1G-es'
+tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

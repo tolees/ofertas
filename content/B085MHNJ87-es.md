@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085MHNJ87-es Funda Xiaomi Redmi Note 8T Carcasa Ultra Fina Shockproof...'
 sku: 'B085MHNJ87-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

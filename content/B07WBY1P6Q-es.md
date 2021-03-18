@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WBY1P6Q-es Rimmel Super Gel Esmalte de Uñas 30g Pack de 1'
 sku: 'B07WBY1P6Q-es'
+tags: [  ]
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

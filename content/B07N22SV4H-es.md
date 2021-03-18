@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N22SV4H-es Desigual Dark Fresh Festival 100ml'
 sku: 'B07N22SV4H-es'
+tags: [  ]
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

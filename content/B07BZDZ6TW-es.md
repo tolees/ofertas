@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZDZ6TW-es Grupo Erik Editores Rick & Morty - Carpeta con 4 anillas...'
 sku: 'B07BZDZ6TW-es'
+tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNRJ7R4-es adidas Gazelle Zapatillas para Hombre Azul Real...'
 sku: 'B07SNRJ7R4-es'
+tags: [  ]
 actualPrice: 47.48 EUR
 currency: EUR
 price: 47.48

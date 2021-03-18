@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HF49WWG-es Timex Expédition Scout - Reloj análogico de cuarzo con...'
 sku: 'B00HF49WWG-es'
+tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

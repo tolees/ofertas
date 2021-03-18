@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFZXNFK-es New Balance Fresh Foam Vongo Zapatillas de Running para...'
 sku: 'B07HFZXNFK-es'
+tags: [  ]
 actualPrice: 67.78 EUR
 currency: EUR
 price: 67.78

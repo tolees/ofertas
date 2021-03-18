@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMJSZ52-es WEOFUN Galaxy Tab S3/S2 9.7 Protector de Pantalla Cristal...'
 sku: 'B07FMJSZ52-es'
+tags: [  ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

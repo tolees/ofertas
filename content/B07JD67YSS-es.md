@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JD67YSS-es G-STAR RAW Rebel Cinturón Multicolor Sage/Antic Silver...'
 sku: 'B07JD67YSS-es'
+tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

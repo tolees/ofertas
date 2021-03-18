@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC3J7ZN-es Foundation Color Changing Make Up Corrector 30ml &...'
 sku: 'B07VC3J7ZN-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

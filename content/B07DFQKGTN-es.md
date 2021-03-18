@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFQKGTN-es PUMA ESS Sweat TR cl Pants Mujer Negro Cotton Black XL'
 sku: 'B07DFQKGTN-es'
+tags: [  ]
 actualPrice: 23.91 EUR
 currency: EUR
 price: 23.91

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZJFPXQ-es Under Armour Tech Mesh 3 Inch Corto Mujer Negro SM'
 sku: 'B07CZJFPXQ-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

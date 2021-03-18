@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZ3CB8-es Friends Impreso TPU A Prueba de Golpes Ligero Ultra...'
 sku: 'B083HZ3CB8-es'
+tags: [  ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

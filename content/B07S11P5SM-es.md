@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S11P5SM-es Only Frsfalcon Sweat Pants-Unit Pantalones de Deporte...'
 sku: 'B07S11P5SM-es'
+tags: [  ]
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

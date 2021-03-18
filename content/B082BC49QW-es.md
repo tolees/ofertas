@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BC49QW-es Icons Corner Pack 4 sillas Verde Oliva IMS Modelo Eiffel...'
 sku: 'B082BC49QW-es'
+tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

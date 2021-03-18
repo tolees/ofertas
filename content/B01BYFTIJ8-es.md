@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BYFTIJ8-es S&R Disco Diamante 125 mm para corte de Porcelanico...'
 sku: 'B01BYFTIJ8-es'
+tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

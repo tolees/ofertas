@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D91S6NC-es KabelDirekt - Adaptador USB C a DisplayPort DP - 0 15 m -...'
 sku: 'B07D91S6NC-es'
+tags: [  ]
 actualPrice: 7.82 EUR
 currency: EUR
 price: 7.82

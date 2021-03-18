@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXT615M-es Camiseta/UNDER ARMOUR:FOUNTATION L'
 sku: 'B07DXT615M-es'
+tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

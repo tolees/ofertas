@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQ4ZFK9-es Little Dragons Café - Edición Estándar'
 sku: 'B07FQ4ZFK9-es'
+tags: [  ]
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I0TUQX4-es Objetivo Olympus M.Zuiko Digital 14-42 mm F3.5-5.6 EZ Zoom...'
 sku: 'B00I0TUQX4-es'
+tags: [  ]
 actualPrice: 185.19 EUR
 currency: EUR
 price: 185.19

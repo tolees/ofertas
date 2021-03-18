@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LZPKSCY-es Braun 80 Face - Set de 2 recambios de cepillo facial de...'
 sku: 'B00LZPKSCY-es'
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

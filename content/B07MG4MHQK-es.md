@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MG4MHQK-es Memoria flash USB 2 en 1 de Escomdp Memorias de animales...'
 sku: 'B07MG4MHQK-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

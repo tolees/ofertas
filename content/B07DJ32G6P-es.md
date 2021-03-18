@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ32G6P-es Lacoste Ziane BL 2 CFA Zapatillas para Mujer Azul...'
 sku: 'B07DJ32G6P-es'
+tags: [  ]
 actualPrice: 34.74 EUR
 currency: EUR
 price: 34.74

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CDTIGV6-es Edimax EU-4306 - Adaptador USB 3.0 Gigabit Ethernet'
 sku: 'B00CDTIGV6-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

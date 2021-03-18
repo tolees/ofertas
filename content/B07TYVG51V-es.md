@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYVG51V-es BRIKSMAX Kit de Iluminación Lego Batman Coche Misterioso...'
 sku: 'B07TYVG51V-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

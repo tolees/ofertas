@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBCBG3B-es Wrangler Arizona Pantalones Azul Oxford Blue 072 W33/L30...'
 sku: 'B07PBCBG3B-es'
+tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

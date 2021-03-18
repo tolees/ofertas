@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005UVO3GG-es Cuéntame Cómo Pasó - Temporada 12 [DVD]'
 sku: 'B005UVO3GG-es'
+tags: [  ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

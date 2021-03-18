@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072DXTH3J-es Funko Pop! - David Rugged Figura de Vinilo seria Alien...'
 sku: 'B072DXTH3J-es'
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

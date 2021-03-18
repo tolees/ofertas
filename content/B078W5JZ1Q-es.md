@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078W5JZ1Q-es 9Tong Reloj Inteligente para Niños con GPS Reloj...'
 sku: 'B078W5JZ1Q-es'
+tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

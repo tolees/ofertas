@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HBDRF2-es ART VVIES mit Haken für hauptdekorationen Vintage kätzchen...'
 sku: 'B082HBDRF2-es'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

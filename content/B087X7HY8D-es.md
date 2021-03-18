@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087X7HY8D-es Suhctup Funda Transparent Compatible para Galaxy A6 Plus...'
 sku: 'B087X7HY8D-es'
+tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWN99M4-es Precision Elite 2.0'
 sku: 'B07PWN99M4-es'
+tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

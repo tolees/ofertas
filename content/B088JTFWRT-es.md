@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088JTFWRT-es First - Lote de 50 máscaras de protección para la boca 3...'
 sku: 'B088JTFWRT-es'
+tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

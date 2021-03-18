@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWMECSJ-es San Ignacio Cazo Aluminio Forjado Gris 16 cm'
 sku: 'B01LWMECSJ-es'
+tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

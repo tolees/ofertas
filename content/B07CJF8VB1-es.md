@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJF8VB1-es FIAT500 Rodilleras y Coderas FIAT 500 F500-PKL-K Color...'
 sku: 'B07CJF8VB1-es'
+tags: [  ]
 actualPrice: 1.98 EUR
 currency: EUR
 price: 1.98

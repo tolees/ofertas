@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PVVK0BW-es Calvin Klein Underwear Perfectly FIT-Memory Touch Push-UP...'
 sku: 'B00PVVK0BW-es'
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

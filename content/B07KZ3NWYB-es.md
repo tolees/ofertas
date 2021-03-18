@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZ3NWYB-es FurReal Friends JJ mein hopsender Mops'
 sku: 'B07KZ3NWYB-es'
+tags: [  ]
 actualPrice: 21.83 EUR
 currency: EUR
 price: 21.83

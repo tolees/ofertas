@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D1GYWWP-es Asics Aaron Zapatillas para Hombre Azul Peacoat/Gris Blue...'
 sku: 'B07D1GYWWP-es'
+tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

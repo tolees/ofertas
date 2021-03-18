@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076PND2SG-es MERAKI Anorak Mujer con Cuello Alto Plateado Silver X-Large'
 sku: 'B076PND2SG-es'
+tags: [  ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

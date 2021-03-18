@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RT6L8XC-es Diesel ShoesZippy Hiresh SHombreCarterasAzul Blue Nights...'
 sku: 'B07RT6L8XC-es'
+tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

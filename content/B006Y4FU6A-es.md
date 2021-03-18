@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006Y4FU6A-es Gigaset SL910 - Teléfono Inalámbrico con Pantalla táctil...'
 sku: 'B006Y4FU6A-es'
+tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

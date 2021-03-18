@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JB6ZGJP-es Hackett London Aston Martin Racing Knitted Hzip Suéter...'
 sku: 'B07JB6ZGJP-es'
+tags: [  ]
 actualPrice: 57.55 EUR
 currency: EUR
 price: 57.55

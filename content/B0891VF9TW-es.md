@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0891VF9TW-es Sweetmini Pantalones deportivos para hombre con cordón de...'
 sku: 'B0891VF9TW-es'
+tags: [  ]
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

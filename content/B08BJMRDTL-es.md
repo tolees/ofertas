@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJMRDTL-es Sivane Aire humidificador ultrasónico difusor de...'
 sku: 'B08BJMRDTL-es'
+tags: [  ]
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

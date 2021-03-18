@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGH5DTL-es 80 en 1 juego de destornillador de precisión Kit de...'
 sku: 'B07ZGH5DTL-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRC53ZM-es New Balance 574v2 Zapatillas para Mujer Gris Grey Grey...'
 sku: 'B07KRC53ZM-es'
+tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMV5H9G-es HiFi Walker A6 Triple Driver Auriculares intrauditivos...'
 sku: 'B07JMV5H9G-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

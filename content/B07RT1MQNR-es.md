@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RT1MQNR-es Oral-B Kids Cabezales de Recambio con Los Personajes de...'
 sku: 'B07RT1MQNR-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

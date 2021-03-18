@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8W4HNH-es Tommy Hilfiger Hilfiger Slim Polo Azul Blue Ink Medium...'
 sku: 'B07W8W4HNH-es'
+tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

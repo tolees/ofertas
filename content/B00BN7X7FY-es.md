@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN7X7FY-es Nelly Laca Spray - 125 ml'
 sku: 'B00BN7X7FY-es'
+tags: [  ]
 actualPrice: 0.98 EUR
 currency: EUR
 price: 0.98

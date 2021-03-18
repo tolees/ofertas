@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078VGQCZ6-es Sony WISP600NW.CE7 - Auriculares deportivos inalámbricos...'
 sku: 'B078VGQCZ6-es'
+tags: [  ]
 actualPrice: 71.32 EUR
 currency: EUR
 price: 71.32

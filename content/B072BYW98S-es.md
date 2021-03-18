@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BYW98S-es Funko - Pop! Vinilo Colección Liga de la Justicia - Figura...'
 sku: 'B072BYW98S-es'
+tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

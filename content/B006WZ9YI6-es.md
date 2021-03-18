@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006WZ9YI6-es Rimmel London Lasting Barra de Labios Tono 8 Dusty Rose 4 g'
 sku: 'B006WZ9YI6-es'
+tags: [  ]
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

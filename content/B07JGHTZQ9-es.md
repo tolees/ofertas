@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGHTZQ9-es Pepe Jeans Callen Chino Archive Pm211266 Pantalones Sailor...'
 sku: 'B07JGHTZQ9-es'
+tags: [  ]
 actualPrice: 52.25 EUR
 currency: EUR
 price: 52.25

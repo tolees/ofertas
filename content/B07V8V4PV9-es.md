@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8V4PV9-es Love MoschinoJc4247pp0aMujerCarteras de manoDorado...'
 sku: 'B07V8V4PV9-es'
+tags: [  ]
 actualPrice: 69.96 EUR
 currency: EUR
 price: 69.96

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078VJ8MDM-es Sony WISP600NY.CE7 - Auriculares deportivos inalámbricos...'
 sku: 'B078VJ8MDM-es'
+tags: [  ]
 actualPrice: 56.42 EUR
 currency: EUR
 price: 56.42

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088M3YGTM-es Suhctup Funda Compatible con Xiaomi Redmi K20/K20 Pro...'
 sku: 'B088M3YGTM-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

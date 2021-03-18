@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000G8NORM-es Alessi Ethno Stefano Giovannoni - Salvamanteles'
 sku: 'B000G8NORM-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

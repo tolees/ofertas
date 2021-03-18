@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00COI61O0-es versando VLR5X175 - Estantería galvanizada 178 x 90 x 40...'
 sku: 'B00COI61O0-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

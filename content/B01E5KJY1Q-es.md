@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E5KJY1Q-es BSN Nitrix 2.0 240 g 180 Caps'
 sku: 'B01E5KJY1Q-es'
+tags: [  ]
 actualPrice: 27.53 EUR
 currency: EUR
 price: 27.53

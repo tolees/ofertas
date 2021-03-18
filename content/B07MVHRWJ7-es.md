@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVHRWJ7-es Kipling Gabbie S Bolsos Bandolera para Mujer Multicolor...'
 sku: 'B07MVHRWJ7-es'
+tags: [  ]
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

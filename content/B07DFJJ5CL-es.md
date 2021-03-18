@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFJJ5CL-es LAST LEVEL- Funko Pop: Kingdom Hearts 3: Goofy Monsters...'
 sku: 'B07DFJJ5CL-es'
+tags: [  ]
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

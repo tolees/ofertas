@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001YZ0AQO-es Adaptare 20109 - Adaptador de Señal Analógico DVI-D/VGA...'
 sku: 'B001YZ0AQO-es'
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HZCYVL7-es Timex Reloj de Pulsera TW2R85500'
 sku: 'B07HZCYVL7-es'
+tags: [  ]
 actualPrice: 39.06 EUR
 currency: EUR
 price: 39.06

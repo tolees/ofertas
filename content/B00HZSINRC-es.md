@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HZSINRC-es CAMPER Peu Cami Damen Sneakers Grau Lt. Pastel Grey 36 EU'
 sku: 'B00HZSINRC-es'
+tags: [  ]
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

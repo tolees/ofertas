@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBLVTTD-es Kappa Bonfire Botas Clasicas Unisex Adulto Beige 4141 38 EU'
 sku: 'B07LBLVTTD-es'
+tags: [  ]
 actualPrice: 16.63 EUR
 currency: EUR
 price: 16.63

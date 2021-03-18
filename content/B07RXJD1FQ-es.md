@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXJD1FQ-es New Balance 997H h Zapatillas para Hombre Amarillo Yellow...'
 sku: 'B07RXJD1FQ-es'
+tags: [  ]
 actualPrice: 53.12 EUR
 currency: EUR
 price: 53.12

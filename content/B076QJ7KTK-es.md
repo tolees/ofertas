@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QJ7KTK-es Mark Maddox Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B076QJ7KTK-es'
+tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

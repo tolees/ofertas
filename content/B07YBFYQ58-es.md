@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBFYQ58-es Calentador de Mano Recargable Calentador de Mano portátil...'
 sku: 'B07YBFYQ58-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

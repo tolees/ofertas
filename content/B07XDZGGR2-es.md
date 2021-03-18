@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDZGGR2-es PUMA Studio Porcelain Bra Sujetador Deportivo Mujer Black XS'
 sku: 'B07XDZGGR2-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

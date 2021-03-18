@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZA6URIY-es Wpro SKS101 Stacking kit - Piezas y accesorios de...'
 sku: 'B00ZA6URIY-es'
+tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

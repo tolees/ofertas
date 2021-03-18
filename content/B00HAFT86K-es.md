@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HAFT86K-es Bourjois - 123 Perfect CC Cream crema correctora con color...'
 sku: 'B00HAFT86K-es'
+tags: [  ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089WL1KPV-es MERIGLARE 2 Piezas De Viaje Frasco Vacío Olla Muestra De...'
 sku: 'B089WL1KPV-es'
+tags: [  ]
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

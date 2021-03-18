@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LIB8VZQ-es Fantasy Flight Games- Tie Fantasma Multicolor FFSWX19'
 sku: 'B00LIB8VZQ-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076SPXM4H-es Lote de 100 Mixto Multicolor cuentas de madera de...'
 sku: 'B076SPXM4H-es'
+tags: [  ]
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OH4WAOE-es L Oréal Paris Accord Perfect Le Blush - Colorete en Polvo...'
 sku: 'B00OH4WAOE-es'
+tags: [  ]
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

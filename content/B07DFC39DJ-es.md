@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFC39DJ-es Pop! Smallfoot - Figura de Vinilo Percy'
 sku: 'B07DFC39DJ-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

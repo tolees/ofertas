@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BWM9Q0O-es Panasonic Lumix DMC-TZ100EG-K - Cámara Compacta Premium de...'
 sku: 'B01BWM9Q0O-es'
+tags: [  ]
 actualPrice: 410.51 EUR
 currency: EUR
 price: 410.51

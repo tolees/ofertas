@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPVJRYP-es Columbia Meadows Omni Botas Bajas para Mujer Marrón Heat-...'
 sku: 'B07KPVJRYP-es'
+tags: [  ]
 actualPrice: 25.96 EUR
 currency: EUR
 price: 25.96

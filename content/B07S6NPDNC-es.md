@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6NPDNC-es 40 x Copas de vino desechable de plástico 40 unidades |...'
 sku: 'B07S6NPDNC-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

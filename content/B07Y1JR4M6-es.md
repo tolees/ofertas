@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1JR4M6-es AUTLEAD C5 - Compresor Aire Coche 12V Compresor de Aire...'
 sku: 'B07Y1JR4M6-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01COW00OW-es A Little Lovely Company LTPP010 - Lámpara en forma de pera...'
 sku: 'B01COW00OW-es'
+tags: [  ]
 actualPrice: 4.67 EUR
 currency: EUR
 price: 4.67

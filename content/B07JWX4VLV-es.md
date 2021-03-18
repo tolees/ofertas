@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWX4VLV-es Columbia Nikiski Botas Bajas para Mujer Beige Elk Lagoon...'
 sku: 'B07JWX4VLV-es'
+tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

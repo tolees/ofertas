@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMY12S6-es Syoss Acondicionador Hidratación+ 500 ml Pack de 1'
 sku: 'B07WMY12S6-es'
+tags: [  ]
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLJB7PW-es Calvin Klein Medium Drawstring Bañador Azul Snorkel Blue...'
 sku: 'B07VLJB7PW-es'
+tags: [  ]
 actualPrice: 29.7 EUR
 currency: EUR
 price: 29.7

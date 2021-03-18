@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHGGL1D-es Yizhet 7/8" 22 mm Espejos de manillar de la motocicleta...'
 sku: 'B07SHGGL1D-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

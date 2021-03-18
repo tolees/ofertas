@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FRCHQ6B-es HOMIEE Bolsa para Portátil Maletín Portátil 15...'
 sku: 'B07FRCHQ6B-es'
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

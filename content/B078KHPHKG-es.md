@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078KHPHKG-es Urban Classics Ladies 3-Tone Tape Leggings Multicolor...'
 sku: 'B078KHPHKG-es'
+tags: [  ]
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F4TCFO6-es Viceni - Marco para fotos con borde fino bañado en plata...'
 sku: 'B00F4TCFO6-es'
+tags: [  ]
 actualPrice: 7.18 EUR
 currency: EUR
 price: 7.18

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QTJJ7JR-es Asics Gel-Cumulus 21 G-TX Zapatillas de Running para Mujer...'
 sku: 'B07QTJJ7JR-es'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

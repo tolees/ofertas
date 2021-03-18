@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000TCV7TW-es Reflex Nutrition Creapure Creatine Monohydrate Standard -...'
 sku: 'B000TCV7TW-es'
+tags: [  ]
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

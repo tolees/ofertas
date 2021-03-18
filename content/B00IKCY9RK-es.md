@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IKCY9RK-es MOTUL 7100 10W40 4T 4L'
 sku: 'B00IKCY9RK-es'
+tags: [  ]
 actualPrice: 12.24 EUR
 currency: EUR
 price: 12.24

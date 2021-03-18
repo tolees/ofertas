@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RMBC65C-es Juvena Aceite corporal - 100 ml.'
 sku: 'B00RMBC65C-es'
+tags: [  ]
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

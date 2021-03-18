@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1H8LDS-es Asics T722N 2301 Zapatillas de Deporte Unisex Adulto...'
 sku: 'B01N1H8LDS-es'
+tags: [  ]
 actualPrice: 56.63 EUR
 currency: EUR
 price: 56.63

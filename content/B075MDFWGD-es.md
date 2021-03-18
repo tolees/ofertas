@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MDFWGD-es Cutícula Clipper Kemei Cuticle Nippers 6PCS Profesional...'
 sku: 'B075MDFWGD-es'
+tags: [  ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0837QZJG4-es Auriculares Bluetooth Auriculares inalámbricos Mini TWS...'
 sku: 'B0837QZJG4-es'
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

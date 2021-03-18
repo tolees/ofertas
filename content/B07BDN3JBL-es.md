@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDN3JBL-es BaByliss Pro Miracurl Rose Gold - Rizador de pelo...'
 sku: 'B07BDN3JBL-es'
+tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

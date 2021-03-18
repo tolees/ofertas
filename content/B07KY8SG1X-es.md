@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KY8SG1X-es Eastpak Springer Riñonera Interior 23 cm 2 Liters Morado...'
 sku: 'B07KY8SG1X-es'
+tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

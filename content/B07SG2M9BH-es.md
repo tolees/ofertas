@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SG2M9BH-es ENJOHOS Arnés de Escalada Arnés de guía Cinturones de...'
 sku: 'B07SG2M9BH-es'
+tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY29BQL-es Samsonite B-Lite Icon - Bolsa de Viaje Duffle 45/18 45 cm...'
 sku: 'B07CY29BQL-es'
+tags: [  ]
 actualPrice: 76.95 EUR
 currency: EUR
 price: 76.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UXABDJO-es Dräger X-pect 8110 | Cubregafas Protectoras | Lentes de...'
 sku: 'B00UXABDJO-es'
+tags: [  ]
 actualPrice: 4.94 EUR
 currency: EUR
 price: 4.94

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D9Y2MZO-es Clarins Solaire Lait Fondant Auto-Bronzant Hydratation 24H...'
 sku: 'B01D9Y2MZO-es'
+tags: [  ]
 actualPrice: 17.55 EUR
 currency: EUR
 price: 17.55

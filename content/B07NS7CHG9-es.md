@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NS7CHG9-es Marco Tozzi 2-2-25112-33 Botas Chukka para Mujer Beige...'
 sku: 'B07NS7CHG9-es'
+tags: [  ]
 actualPrice: 26.44 EUR
 currency: EUR
 price: 26.44

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPRBXVC-es Tommy Hilfiger Essential Original tee S/s Camiseta Azul...'
 sku: 'B07VPRBXVC-es'
+tags: [  ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

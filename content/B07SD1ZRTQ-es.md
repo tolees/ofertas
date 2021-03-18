@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD1ZRTQ-es Playtex Sujetador C/A Absolute Lift Aros Beige Piel 313 95...'
 sku: 'B07SD1ZRTQ-es'
+tags: [  ]
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

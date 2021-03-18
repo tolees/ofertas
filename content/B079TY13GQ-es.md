@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079TY13GQ-es Saco PRIMAVERA/VERANO ENTRETIEMPO para CUCO/CAPAZO...'
 sku: 'B079TY13GQ-es'
+tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004ZIPKJE-es Helly Hansen Driftline Polo Hombre Negro XL'
 sku: 'B004ZIPKJE-es'
+tags: [  ]
 actualPrice: 32.73 EUR
 currency: EUR
 price: 32.73

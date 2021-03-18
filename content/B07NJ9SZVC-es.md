@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ9SZVC-es MERRELL Fluxion GTX Zapatillas Tiempo Libre y Senderismo...'
 sku: 'B07NJ9SZVC-es'
+tags: [  ]
 actualPrice: 45.59 EUR
 currency: EUR
 price: 45.59

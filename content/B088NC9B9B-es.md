@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088NC9B9B-es Junio1 Cubierta de Techo con Dosel Giratorio para Patio...'
 sku: 'B088NC9B9B-es'
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

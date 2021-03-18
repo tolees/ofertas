@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQFTTTW-es Yesterday Origins'
 sku: 'B07BQFTTTW-es'
+tags: [  ]
 actualPrice: 18.38 EUR
 currency: EUR
 price: 18.38

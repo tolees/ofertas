@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QGLGPD-es Suhctup Funda Compatible con iPhone XR Carcasa...'
 sku: 'B086QGLGPD-es'
+tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

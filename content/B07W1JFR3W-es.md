@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W1JFR3W-es CUAgain Funda Compatible con Xiaomi Redmi 7A Silicona...'
 sku: 'B07W1JFR3W-es'
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

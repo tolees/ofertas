@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFZXRDP-es New Balance 420 Zapatillas para Mujer Negro Black Black 35 EU'
 sku: 'B07HFZXRDP-es'
+tags: [  ]
 actualPrice: 42.3 EUR
 currency: EUR
 price: 42.3

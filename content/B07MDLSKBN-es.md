@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDLSKBN-es LIGHTAILING Conjunto de Luces Ghostbusters Ecto-1 Modelo...'
 sku: 'B07MDLSKBN-es'
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

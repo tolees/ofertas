@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B4SIHB0-es The Look Of Love [Vinilo]'
 sku: 'B01B4SIHB0-es'
+tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

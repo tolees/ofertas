@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AP8EP8-es K&N BM-0300 Filtro de Aire Moto'
 sku: 'B000AP8EP8-es'
+tags: [  ]
 actualPrice: 78.35 EUR
 currency: EUR
 price: 78.35

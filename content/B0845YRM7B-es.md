@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0845YRM7B-es Jamon Iberico de Bellota 100% Iberico Reserva Pata Negra –...'
 sku: 'B0845YRM7B-es'
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

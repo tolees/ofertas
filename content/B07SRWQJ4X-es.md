@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRWQJ4X-es Armani Exchange Icon Tracksuit Bottom Pantalones de...'
 sku: 'B07SRWQJ4X-es'
+tags: [  ]
 actualPrice: 21.62 EUR
 currency: EUR
 price: 21.62

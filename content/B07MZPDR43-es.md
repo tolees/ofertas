@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPDR43-es Gioseppo 40840 Botas Slouch para Mujer Azul Marino 39 EU'
 sku: 'B07MZPDR43-es'
+tags: [  ]
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

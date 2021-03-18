@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XLFZW7-es Under Armour Rival Fleece Jogger Pantalones Hombre Gris...'
 sku: 'B077XLFZW7-es'
+tags: [  ]
 actualPrice: 34.28 EUR
 currency: EUR
 price: 34.28

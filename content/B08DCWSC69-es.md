@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DCWSC69-es Ocobudbxw Rociador de Agua Aspersor Niños Diversión al...'
 sku: 'B08DCWSC69-es'
+tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

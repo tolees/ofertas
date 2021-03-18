@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXB5F4T-es New Balance 574 Zapatillas Hombre Verde Olive EGO 41.5 EU...'
 sku: 'B06XXB5F4T-es'
+tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

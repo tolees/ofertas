@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079RLB6WD-es Converse Taylor Chuck 70 Hi Sneaker para Hombre...'
 sku: 'B079RLB6WD-es'
+tags: [  ]
 actualPrice: 49.82 EUR
 currency: EUR
 price: 49.82

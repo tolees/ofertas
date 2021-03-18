@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYPBV14-es Rodillo de cocina de acero inoxidable Palo de amasar para...'
 sku: 'B07TYPBV14-es'
+tags: [  ]
 actualPrice: 10.62 EUR
 currency: EUR
 price: 10.62

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSG7BV7-es Reloj Hugo Boss para Hombre 1513493'
 sku: 'B06XSG7BV7-es'
+tags: [  ]
 actualPrice: 150.4 EUR
 currency: EUR
 price: 150.4

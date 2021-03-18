@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVLZMMR-es Under Armour Women s Essential NS Calcetines Mujer Negro SM'
 sku: 'B07QVLZMMR-es'
+tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

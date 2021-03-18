@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7FC8R5-es Vileda 141719 - Bayeta de microfibras antical Azul Pack de...'
 sku: 'B01N7FC8R5-es'
+tags: [  ]
 actualPrice: 11.05 EUR
 currency: EUR
 price: 11.05

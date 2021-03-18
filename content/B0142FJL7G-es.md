@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0142FJL7G-es Garmin Forerunner 25 Reloj Deportivo Negro/Rojo L'
 sku: 'B0142FJL7G-es'
+tags: [  ]
 actualPrice: 69.11 EUR
 currency: EUR
 price: 69.11

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0819LYNFS-es Meeter Funda Xiaomi Redmi 8A 7 x Unidades Carcasas Ultra...'
 sku: 'B0819LYNFS-es'
+tags: [  ]
 actualPrice: 5.44 EUR
 currency: EUR
 price: 5.44

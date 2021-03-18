@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNNQMD5-es Calvin Klein Thong 3pk Tanga Blanco Bubble Gum/White/Grey...'
 sku: 'B07VNNQMD5-es'
+tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

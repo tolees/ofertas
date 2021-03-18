@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073HFQHGT-es Cillit Bang - Spray Limpiador Suciedad y Manchas de...'
 sku: 'B073HFQHGT-es'
+tags: [  ]
 actualPrice: 2.68 EUR
 currency: EUR
 price: 2.68

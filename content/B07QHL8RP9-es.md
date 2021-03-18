@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QHL8RP9-es PUMA ACM Away Shirt Replica SS with Sponsor Logo Maillot...'
 sku: 'B07QHL8RP9-es'
+tags: [  ]
 actualPrice: 57.07 EUR
 currency: EUR
 price: 57.07

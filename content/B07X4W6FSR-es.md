@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4W6FSR-es Mochilas Infantiles Mochilas para Niños Niñas Bolsa de...'
 sku: 'B07X4W6FSR-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKHD1PD-es LexonElec Teclado mecánico para juegos de una sola mano...'
 sku: 'B07GKHD1PD-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

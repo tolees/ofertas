@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N194XDV-es Neutrogena T/Gel Champú Anticaspa Cuero Cabelludo Sensible...'
 sku: 'B07N194XDV-es'
+tags: [  ]
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

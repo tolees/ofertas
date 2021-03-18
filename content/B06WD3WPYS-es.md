@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WD3WPYS-es Purina ONE Bifensis Pienso para gatos Esterilizados Salmón...'
 sku: 'B06WD3WPYS-es'
+tags: [  ]
 actualPrice: 1.64 EUR
 currency: EUR
 price: 1.64

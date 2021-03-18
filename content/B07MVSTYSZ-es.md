@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVSTYSZ-es Cerdá 8427934274819 Toalla Poliéster LOL Azul 113 x 108 cm'
 sku: 'B07MVSTYSZ-es'
+tags: [  ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

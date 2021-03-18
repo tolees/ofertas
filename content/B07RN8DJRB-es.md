@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RN8DJRB-es Funko Pop Movies: Us-Pluto w/Mask Chase Stlyes May Vary...'
 sku: 'B07RN8DJRB-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

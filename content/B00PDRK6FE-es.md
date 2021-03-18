@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PDRK6FE-es Papel Maché SIO-2 500 g'
 sku: 'B00PDRK6FE-es'
+tags: [  ]
 actualPrice: 4.13 EUR
 currency: EUR
 price: 4.13

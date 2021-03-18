@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R7RBYZ-es New Balance Fresh Foam Cruz v2 Knit Zapatillas de Running...'
 sku: 'B075R7RBYZ-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RNZY3T4-es OtterBox Commuter Lite - Funda de Protección para Samsung...'
 sku: 'B07RNZY3T4-es'
+tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

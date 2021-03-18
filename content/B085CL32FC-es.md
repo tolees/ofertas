@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CL32FC-es Baoblaze 50ml de Fragancia Masculina Perfume de Fragancia...'
 sku: 'B085CL32FC-es'
+tags: [  ]
 actualPrice: 19.38 EUR
 currency: EUR
 price: 19.38

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LLQDU4Y-es Quid Senia- Paellera En Acero De 26 Cm 2 Raciones Apta...'
 sku: 'B01LLQDU4Y-es'
+tags: [  ]
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

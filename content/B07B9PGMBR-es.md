@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9PGMBR-es Adaptador de enchufe macho RCA a terminal AV hembra de 2...'
 sku: 'B07B9PGMBR-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

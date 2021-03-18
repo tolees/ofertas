@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018SH2WUM-es Reebok Classic Leather Zapatillas de Gimnasia para Hombre...'
 sku: 'B018SH2WUM-es'
+tags: [  ]
 actualPrice: 38.55 EUR
 currency: EUR
 price: 38.55

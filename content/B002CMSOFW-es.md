@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002CMSOFW-es Mantona Premium Funda para Cámara Reflex Correa para...'
 sku: 'B002CMSOFW-es'
+tags: [  ]
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

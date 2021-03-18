@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072MWDZH9-es Volcom Rockout Skinny Vintage Black 7'
 sku: 'B072MWDZH9-es'
+tags: [  ]
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

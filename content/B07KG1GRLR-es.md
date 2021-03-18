@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG1GRLR-es PUMA NRGY Comet Zapatillas de Running Unisex Adulto...'
 sku: 'B07KG1GRLR-es'
+tags: [  ]
 actualPrice: 35.71 EUR
 currency: EUR
 price: 35.71

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HBKP847-es Pop! Modern Family - Figura de Vinilo Jay'
 sku: 'B07HBKP847-es'
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

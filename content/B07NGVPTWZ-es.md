@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGVPTWZ-es IMC Toys- GOLOSINI S Juguete Color variado Talla unica...'
 sku: 'B07NGVPTWZ-es'
+tags: [  ]
 actualPrice: 9.37 EUR
 currency: EUR
 price: 9.37

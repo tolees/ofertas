@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6WQPY1-es Original Buff 115177 Gorro Unisex Adulto Multicolor Talla...'
 sku: 'B01N6WQPY1-es'
+tags: [  ]
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081KV8R3V-es Adornos Einfache Escultura Decoración Moderna Keramik...'
 sku: 'B081KV8R3V-es'
+tags: [  ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

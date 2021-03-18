@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XY7JSNQ-es DoGeek Bolsas de Malla de Lavandería Bolsas de Lavado para...'
 sku: 'B06XY7JSNQ-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

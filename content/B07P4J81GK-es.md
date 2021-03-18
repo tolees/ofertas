@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4J81GK-es Superdry Track & Field Jogger Pantalones de Deporte Rosa...'
 sku: 'B07P4J81GK-es'
+tags: [  ]
 actualPrice: 18.26 EUR
 currency: EUR
 price: 18.26

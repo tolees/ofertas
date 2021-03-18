@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CIVUTLE-es Ultrasport Rts flicka - Forro Color Gris Talla XL'
 sku: 'B00CIVUTLE-es'
+tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

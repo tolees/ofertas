@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2XXB2K-es New Balance 574 Core Zapatillas Hombre Gris Grey EGG 43 EU...'
 sku: 'B06Y2XXB2K-es'
+tags: [  ]
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

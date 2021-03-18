@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087FTPM8L-es househome Piscina Inflable para Niños Bebé Casa De Adultos...'
 sku: 'B087FTPM8L-es'
+tags: [  ]
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

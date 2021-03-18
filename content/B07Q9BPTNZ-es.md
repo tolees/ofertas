@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q9BPTNZ-es Superdry VL Tonal Tape Hood Sudadera con Capucha Negro...'
 sku: 'B07Q9BPTNZ-es'
+tags: [  ]
 actualPrice: 37.55 EUR
 currency: EUR
 price: 37.55

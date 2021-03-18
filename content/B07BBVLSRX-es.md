@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BBVLSRX-es Pendientes con forma de pera de ópalo y diamante en plata...'
 sku: 'B07BBVLSRX-es'
+tags: [  ]
 actualPrice: 66.71 EUR
 currency: EUR
 price: 66.71

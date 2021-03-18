@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB87JKY-es BRIKSMAX Kit de Iluminación Led para Lego Ideas NASA Apolo...'
 sku: 'B07TB87JKY-es'
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

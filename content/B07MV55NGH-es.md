@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV55NGH-es KZIOACSH [2 Unidades] Protector de Pantalla para Xiaomi...'
 sku: 'B07MV55NGH-es'
+tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

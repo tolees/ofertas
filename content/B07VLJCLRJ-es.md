@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VLJCLRJ-es Calvin Klein Brazilian Braguita brasileña Rosa Pink GLO...'
 sku: 'B07VLJCLRJ-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

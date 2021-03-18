@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5RWF46-es Pop! My Hero Academia - Figura de Vinilo 5 Star Deku'
 sku: 'B07N5RWF46-es'
+tags: [  ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

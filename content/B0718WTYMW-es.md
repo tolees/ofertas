@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0718WTYMW-es Rimmel London Stay Matte Pintalabios Tono 800 Midnight 5.5 ml'
 sku: 'B0718WTYMW-es'
+tags: [  ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

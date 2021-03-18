@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BW6YWJ-es Dasket 35x25cm 30 Hojas de Papel de arroz Duradero Xuan...'
 sku: 'B088BW6YWJ-es'
+tags: [  ]
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

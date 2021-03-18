@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPTXZ67-es PUMA Cilia Zapatillas para Mujer Blanco White/Gray Violet...'
 sku: 'B07FPTXZ67-es'
+tags: [  ]
 actualPrice: 30.74 EUR
 currency: EUR
 price: 30.74

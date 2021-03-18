@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D315GYF-es B Blesiya Trompetas Cornetas Válvula Deslice El Anillo De...'
 sku: 'B07D315GYF-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

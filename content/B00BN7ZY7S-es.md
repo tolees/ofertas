@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN7ZY7S-es VARON DANDY colonia masaje botella 1 lt'
 sku: 'B00BN7ZY7S-es'
+tags: [  ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

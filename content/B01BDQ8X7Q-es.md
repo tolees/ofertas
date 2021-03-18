@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BDQ8X7Q-es Leifheit 7216-Recambio Classic mop Compuesto 8.5x8.5x31 cm'
 sku: 'B01BDQ8X7Q-es'
+tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

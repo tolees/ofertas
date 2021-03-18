@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KBMSXA6-es Control Nature Preservativos - Pack de 24 preservativos'
 sku: 'B00KBMSXA6-es'
+tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

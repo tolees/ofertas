@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0RUZFX-es Bourjois Healthy Mix Concealer Corrector Tono 51 Light -...'
 sku: 'B01N0RUZFX-es'
+tags: [  ]
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

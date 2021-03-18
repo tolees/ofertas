@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHPBRD3-es Herbalgem - 22450010 - Balsamo consuelda Bio - 100 ml'
 sku: 'B07PHPBRD3-es'
+tags: [  ]
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

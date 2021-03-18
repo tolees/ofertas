@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OZIHEW-es Olówek automatyczny Grip 1345 czerwony'
 sku: 'B000OZIHEW-es'
+tags: [  ]
 actualPrice: 2.92 EUR
 currency: EUR
 price: 2.92

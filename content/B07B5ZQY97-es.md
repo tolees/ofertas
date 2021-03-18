@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B5ZQY97-es Asics Chaussures Gel-Court Speed Clay'
 sku: 'B07B5ZQY97-es'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

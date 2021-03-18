@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHMTP7W-es NIVEA mascarilla facial minimiza los poros urban detox...'
 sku: 'B07DHMTP7W-es'
+tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRB43VG-es Under Armour Unstoppable Move Lightjogger Pantalones...'
 sku: 'B07KRB43VG-es'
+tags: [  ]
 actualPrice: 20.28 EUR
 currency: EUR
 price: 20.28

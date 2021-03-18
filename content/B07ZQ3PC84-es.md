@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZQ3PC84-es KOKO Zhu Toy Kid s Gift Solar Flip Flap Dancing Flower Toy...'
 sku: 'B07ZQ3PC84-es'
+tags: [  ]
 actualPrice: 2.67 EUR
 currency: EUR
 price: 2.67

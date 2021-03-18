@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N435YQP-es Levi s 501 Original Short Pantalones Cortos Azul Silver...'
 sku: 'B07N435YQP-es'
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

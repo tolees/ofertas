@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLLF6SK-es Versace Jeans CoutureBorsaMujerBolsos mochilaMorado...'
 sku: 'B07NLLF6SK-es'
+tags: [  ]
 actualPrice: 86.0 EUR
 currency: EUR
 price: 86.0

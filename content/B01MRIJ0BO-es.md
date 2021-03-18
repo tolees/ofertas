@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRIJ0BO-es Beautural Espejo de Baño Mujer Espejo Maquillaje con luz...'
 sku: 'B01MRIJ0BO-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

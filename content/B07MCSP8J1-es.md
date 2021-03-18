@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCSP8J1-es Napapijri ERBER Polo Negro Black 041 S para Hombre'
 sku: 'B07MCSP8J1-es'
+tags: [  ]
 actualPrice: 31.6 EUR
 currency: EUR
 price: 31.6

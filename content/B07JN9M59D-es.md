@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JN9M59D-es Cloudnola Botanical Magnolia - Reloj de Pared Talla única...'
 sku: 'B07JN9M59D-es'
+tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

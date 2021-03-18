@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GHQPGQ4-es Intex 29002 - Cartucho para filtros para piscinas 2 unidades'
 sku: 'B00GHQPGQ4-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

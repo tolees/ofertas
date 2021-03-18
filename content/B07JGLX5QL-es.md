@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGLX5QL-es Microsoft Office Professional PLUS 2019 - Digital Download...'
 sku: 'B07JGLX5QL-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

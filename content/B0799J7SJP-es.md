@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0799J7SJP-es QIMEI-SHOP Arnés de Perro Arnés de Mascotas Ajustable de...'
 sku: 'B0799J7SJP-es'
+tags: [  ]
 actualPrice: 10.69 EUR
 currency: EUR
 price: 10.69

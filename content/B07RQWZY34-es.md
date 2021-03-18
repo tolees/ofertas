@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQWZY34-es MonQi 24 Bolsillos Expandible Clasificadores Carpetas de...'
 sku: 'B07RQWZY34-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

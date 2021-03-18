@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFQML9L-es American Tourister Disney Legends Spinner L Maleta...'
 sku: 'B07PFQML9L-es'
+tags: [  ]
 actualPrice: 87.77 EUR
 currency: EUR
 price: 87.77

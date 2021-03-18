@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQLJ7J9-es Meykey Slow Juicer - Licuadora de verduras y frutas sin...'
 sku: 'B07TQLJ7J9-es'
+tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

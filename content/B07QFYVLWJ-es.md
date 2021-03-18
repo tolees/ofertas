@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFYVLWJ-es Emporio Armani Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07QFYVLWJ-es'
+tags: [  ]
 actualPrice: 163.44 EUR
 currency: EUR
 price: 163.44

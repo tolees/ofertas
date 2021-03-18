@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7GZK99-es Reloj de Hombre BENYAR cronógrafo Resistente al Agua con...'
 sku: 'B07W7GZK99-es'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

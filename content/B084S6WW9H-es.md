@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084S6WW9H-es Spiderman Dark-Carpeta Anillas'
 sku: 'B084S6WW9H-es'
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

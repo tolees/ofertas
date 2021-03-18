@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085JJS1KK-es Huawei P40 - Smartphone 128GB 8GB RAM Dual Sim Black'
 sku: 'B085JJS1KK-es'
+tags: [  ]
 actualPrice: 470.0 EUR
 currency: EUR
 price: 470.0

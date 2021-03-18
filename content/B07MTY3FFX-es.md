@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTY3FFX-es Samsung Galaxy S10 - Smartphone de 6.1” Dual SIM 512GB...'
 sku: 'B07MTY3FFX-es'
+tags: [  ]
 actualPrice: 731.76 EUR
 currency: EUR
 price: 731.76

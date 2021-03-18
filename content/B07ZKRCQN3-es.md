@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKRCQN3-es Gillette Mach3 Recambio De Maquinilla De Afeitar Para...'
 sku: 'B07ZKRCQN3-es'
+tags: [  ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

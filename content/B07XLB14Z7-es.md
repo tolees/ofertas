@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLB14Z7-es LeYi Funda Xiaomi Redmi Note 8 Silicona Purpurina Carcasa...'
 sku: 'B07XLB14Z7-es'
+tags: [  ]
 actualPrice: 3 EUR
 currency: EUR
 price: 3

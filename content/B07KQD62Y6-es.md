@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQD62Y6-es Salomon ALPHACROSS W Zapatillas de trail running Mujer...'
 sku: 'B07KQD62Y6-es'
+tags: [  ]
 actualPrice: 30.08 EUR
 currency: EUR
 price: 30.08

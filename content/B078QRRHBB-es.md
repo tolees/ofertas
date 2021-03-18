@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078QRRHBB-es Luz para Correr Running BraceTek luz led Frontal correr...'
 sku: 'B078QRRHBB-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

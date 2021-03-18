@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W9NPHP3-es Rimmel Nail Polish SuperGel Kate 82 Purple Splash Żelowy...'
 sku: 'B06W9NPHP3-es'
+tags: [  ]
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

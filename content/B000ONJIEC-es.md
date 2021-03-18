@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ONJIEC-es Osram Dulux L - Lámpara 36w/840 lumilux 2g11'
 sku: 'B000ONJIEC-es'
+tags: [  ]
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

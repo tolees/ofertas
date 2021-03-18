@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GNFCX45-es HyperX Predator - Memoria RAM de 64 GB DDR4 Kit 4 x 16 GB...'
 sku: 'B07GNFCX45-es'
+tags: [  ]
 actualPrice: 321.97 EUR
 currency: EUR
 price: 321.97

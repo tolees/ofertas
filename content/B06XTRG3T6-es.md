@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XTRG3T6-es Guardians O/T Galaxy 2 Llavero Gris Gris - BIO-KE109108GOG'
 sku: 'B06XTRG3T6-es'
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G7DQ95W-es Lacoste Ah3467 suéter Azul Farine-Marine Multicolore M65...'
 sku: 'B07G7DQ95W-es'
+tags: [  ]
 actualPrice: 56.42 EUR
 currency: EUR
 price: 56.42

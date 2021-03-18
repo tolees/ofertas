@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CC8BRR4-es Cepillo de pelo rizado y rizado Peine Salón Cepillo...'
 sku: 'B08CC8BRR4-es'
+tags: [  ]
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

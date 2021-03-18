@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXD16GN-es DH-QN05 Calefactor Portátil Eléctrico PTC Calefacción de...'
 sku: 'B07GXD16GN-es'
+tags: [  ]
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

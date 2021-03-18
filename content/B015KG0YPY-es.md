@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015KG0YPY-es King Cock Arnés king cock strap-on - 20 cm 1 Unidad 820 g'
 sku: 'B015KG0YPY-es'
+tags: [  ]
 actualPrice: 30.31 EUR
 currency: EUR
 price: 30.31

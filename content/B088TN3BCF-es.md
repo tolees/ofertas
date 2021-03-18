@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TN3BCF-es Caja de Almacenamiento de batería AAA Soporte de Caja de...'
 sku: 'B088TN3BCF-es'
+tags: [  ]
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48

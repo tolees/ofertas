@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007XC72JA-es M MOLTO Pupitre Pizarra 2 en 1'
 sku: 'B007XC72JA-es'
+tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

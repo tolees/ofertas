@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNTLM14-es Hurley M Phtm Block Party 18 Bañador Hombre Iron Grey 36'
 sku: 'B07ZNTLM14-es'
+tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

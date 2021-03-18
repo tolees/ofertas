@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7QC1Y6-es PUMA RS 9.8 Fresh Zapatillas para Hombre Blanco White High...'
 sku: 'B07S7QC1Y6-es'
+tags: [  ]
 actualPrice: 43.9 EUR
 currency: EUR
 price: 43.9

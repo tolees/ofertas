@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FR6K4N6-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
 sku: 'B08FR6K4N6-es'
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

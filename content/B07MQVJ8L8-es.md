@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQVJ8L8-es Napapijri EISBERG Polo Rojo Red Scarlet R01 M para Hombre'
 sku: 'B07MQVJ8L8-es'
+tags: [  ]
 actualPrice: 24.33 EUR
 currency: EUR
 price: 24.33

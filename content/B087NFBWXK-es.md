@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NFBWXK-es 50Pcs Tamaño de Cara Libre desechable Azul'
 sku: 'B087NFBWXK-es'
+tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

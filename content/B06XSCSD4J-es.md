@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSCSD4J-es New balance wlazr MP'
 sku: 'B06XSCSD4J-es'
+tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

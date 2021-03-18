@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075TD7ZK4-es Aqua Moto Racing: Utopia - Versión Española'
 sku: 'B075TD7ZK4-es'
+tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y8MPVFY-es BaronHong Sport Bra Chest Binder Transpirable Malla Corset...'
 sku: 'B06Y8MPVFY-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

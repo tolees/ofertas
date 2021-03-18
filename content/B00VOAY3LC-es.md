@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VOAY3LC-es Croci C5055240 Flexi Design Cord S 5M Rosa'
 sku: 'B00VOAY3LC-es'
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L2RXYZL-es ammoon Inalámbrico Guitarra Receptor Transmisor de...'
 sku: 'B07L2RXYZL-es'
+tags: [  ]
 actualPrice: 37.89 EUR
 currency: EUR
 price: 37.89

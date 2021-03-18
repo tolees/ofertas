@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BIJ0NAO-es Vans Atwood Zapatillas Unisex Niños Negro Canvas...'
 sku: 'B00BIJ0NAO-es'
+tags: [  ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

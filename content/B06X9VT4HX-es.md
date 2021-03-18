@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9VT4HX-es E-Deals - Balón de fútbol de Espuma Suave 20 cm Color Rojo'
 sku: 'B06X9VT4HX-es'
+tags: [  ]
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

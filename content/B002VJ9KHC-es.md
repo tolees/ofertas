@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002VJ9KHC-es Fellowes Helios 30 - Encuadernadora térmica uso frecuente...'
 sku: 'B002VJ9KHC-es'
+tags: [  ]
 actualPrice: 107.68 EUR
 currency: EUR
 price: 107.68

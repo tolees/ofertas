@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFY5TG9-es PUMA Jaab XT Wn s Zapatillas Deportivas para Interior para...'
 sku: 'B07KFY5TG9-es'
+tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

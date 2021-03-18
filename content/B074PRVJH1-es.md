@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PRVJH1-es 4 Pack cinturón de seguridad ajustable perro de mascota...'
 sku: 'B074PRVJH1-es'
+tags: [  ]
 actualPrice: 4.03 EUR
 currency: EUR
 price: 4.03

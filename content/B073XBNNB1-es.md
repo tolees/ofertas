@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XBNNB1-es Rebel Heart Tour [Blu-ray]'
 sku: 'B073XBNNB1-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

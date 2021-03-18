@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V29NSG6-es Chinchón Seco - Anís - 1000 ml'
 sku: 'B07V29NSG6-es'
+tags: [  ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

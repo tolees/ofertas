@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHL534X-es LCQI Bufanda Real Madrid 2019 2020 Licencia Oficial por...'
 sku: 'B07HHL534X-es'
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

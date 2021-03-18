@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IVKIT7G-es Head Basic - Bóxer para hombre Azul Peacoat/Orange Large...'
 sku: 'B01IVKIT7G-es'
+tags: [  ]
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

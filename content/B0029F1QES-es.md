@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0029F1QES-es Leifheit Limpiacristales Professional limpiaventanas con...'
 sku: 'B0029F1QES-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

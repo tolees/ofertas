@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0793HNB6Y-es Victor Vran: Overkill Edition'
 sku: 'B0793HNB6Y-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

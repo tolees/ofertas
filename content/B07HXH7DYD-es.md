@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HXH7DYD-es LEXIBOOK Powerman: el Robot Educativo Inteligente para...'
 sku: 'B07HXH7DYD-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVKLN12-es Napapijri Eisberg SS Polo Azul BLU Marine 176 XX-Large...'
 sku: 'B07MVKLN12-es'
+tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

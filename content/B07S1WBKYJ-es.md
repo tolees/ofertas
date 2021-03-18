@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1WBKYJ-es Liberex Barbero Electrico Hombres - Máquina de Cortar Pelo...'
 sku: 'B07S1WBKYJ-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F60RTJ4-es Equip 625423 - Cable de Red 0 25 m Cat6 U/UTP UTP RJ-45...'
 sku: 'B00F60RTJ4-es'
+tags: [  ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

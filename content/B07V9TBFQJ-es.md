@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9TBFQJ-es CARPISA ® Almohada de Viaje - Go'
 sku: 'B07V9TBFQJ-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

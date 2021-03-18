@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L3KO3YU-es AmazonBasics - Cable óptico de audio digital Toslink 3 m'
 sku: 'B00L3KO3YU-es'
+tags: [  ]
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

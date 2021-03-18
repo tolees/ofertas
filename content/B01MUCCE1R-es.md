@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUCCE1R-es Hapilife Grifo Cocina Pared Monomando Mezclador Fregadero...'
 sku: 'B01MUCCE1R-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

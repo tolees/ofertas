@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCLP6RH-es DH Sports Grofitness Calcetines de compresión para Correr...'
 sku: 'B06XCLP6RH-es'
+tags: [  ]
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

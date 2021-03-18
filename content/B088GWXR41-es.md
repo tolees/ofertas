@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088GWXR41-es gestionado por Amazon cámara Web 1080P HD cámara Web...'
 sku: 'B088GWXR41-es'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

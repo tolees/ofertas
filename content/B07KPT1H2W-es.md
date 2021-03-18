@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPT1H2W-es Funko Bobble Captain Marvel: Pop 1 Figura Coleccionable...'
 sku: 'B07KPT1H2W-es'
+tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

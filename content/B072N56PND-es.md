@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072N56PND-es Vibram Fivefingers KSO EVO Zapatillas de Deporte para...'
 sku: 'B072N56PND-es'
+tags: [  ]
 actualPrice: 58.73 EUR
 currency: EUR
 price: 58.73

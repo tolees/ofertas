@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D57HBYB-es COMVIP Mujer cobre'
 sku: 'B07D57HBYB-es'
+tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

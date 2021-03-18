@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GHEY040-es McCulloch 00096-72.078.01 B26 PS Desbrozadora con un ancho...'
 sku: 'B00GHEY040-es'
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

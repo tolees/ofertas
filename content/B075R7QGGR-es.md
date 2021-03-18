@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R7QGGR-es New Balance Fresh Foam Cruz v2 Zapatillas para Mujer Rosa...'
 sku: 'B075R7QGGR-es'
+tags: [  ]
 actualPrice: 57 EUR
 currency: EUR
 price: 57

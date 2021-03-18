@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHF132X-es adidas Continental Zapatillas para Hombre Multicolor Cloud...'
 sku: 'B07SHF132X-es'
+tags: [  ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

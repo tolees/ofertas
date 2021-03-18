@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ5BKWN-es Women s Secret Soft Touch 2 St Special Nd Grey Camisón...'
 sku: 'B07TZ5BKWN-es'
+tags: [  ]
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

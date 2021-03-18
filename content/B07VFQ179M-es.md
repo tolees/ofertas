@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFQ179M-es Lee Extreme Motion Skinny Jeans Azul Blue Prodigy AB 33W /...'
 sku: 'B07VFQ179M-es'
+tags: [  ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

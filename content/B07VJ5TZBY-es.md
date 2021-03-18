@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJ5TZBY-es Craft Creator Soporte de Vasos de chupito de Marca de...'
 sku: 'B07VJ5TZBY-es'
+tags: [  ]
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

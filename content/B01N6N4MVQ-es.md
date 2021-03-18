@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6N4MVQ-es SALEWA Cammino 50 BP Accesorio Unisex Adulto Azul Talla Única'
 sku: 'B01N6N4MVQ-es'
+tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

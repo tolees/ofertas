@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W9GCQHV-es Schleich - Quad con remolque y ranger - Con múltiples...'
 sku: 'B06W9GCQHV-es'
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

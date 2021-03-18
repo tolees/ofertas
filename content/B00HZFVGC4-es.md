@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HZFVGC4-es SHIMANO Adaptador SM-RTAD05 Center-Lock / 6 Agujeros 2016...'
 sku: 'B00HZFVGC4-es'
+tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSJMCJ3-es MODAUTO Soporte de Videojuego Soporte de Juego de Carreras...'
 sku: 'B07WSJMCJ3-es'
+tags: [  ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

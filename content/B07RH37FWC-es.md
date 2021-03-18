@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH37FWC-es Under Armour UA HG Armour Capri Leggings Mujer Rosa Hushed...'
 sku: 'B07RH37FWC-es'
+tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

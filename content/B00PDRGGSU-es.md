@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PDRGGSU-es Liderpapel - 100024 Plantillas Curvas 3 Piezas'
 sku: 'B00PDRGGSU-es'
+tags: [  ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5VDBJ6-es HUGO - Record ns Zip Bolsa de tela y playa Hombre Azul...'
 sku: 'B07V5VDBJ6-es'
+tags: [  ]
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

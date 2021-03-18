@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQ58MZM-es QYD - Cargador original para portátil Lenovo Yoga pro 4...'
 sku: 'B07RQ58MZM-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

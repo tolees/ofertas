@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QW6S1T2-es Wrangler Larston Jeans Dark Rinse 29W / 34L para Hombre'
 sku: 'B07QW6S1T2-es'
+tags: [  ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IZE4RW0-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B00IZE4RW0-es'
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

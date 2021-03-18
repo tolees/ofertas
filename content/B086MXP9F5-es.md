@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086MXP9F5-es Slabo Lámina de Vidrio Premium para MacBook Pro 13" 2018 |...'
 sku: 'B086MXP9F5-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

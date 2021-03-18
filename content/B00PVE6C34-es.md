@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PVE6C34-es D-Link DAP-1330 - Repetidor WiFi / amplificador de red...'
 sku: 'B00PVE6C34-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G38BVRK-es Chicco Miinimo2 Silla de paseo ultracompacta y ligera solo...'
 sku: 'B07G38BVRK-es'
+tags: [  ]
 actualPrice: 140.0 EUR
 currency: EUR
 price: 140.0

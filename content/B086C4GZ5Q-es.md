@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086C4GZ5Q-es K9CK Soporte para Lego Star Wars Millennium Falcon 75105...'
 sku: 'B086C4GZ5Q-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

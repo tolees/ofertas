@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQY468-es Pepe Jeans Misshine suéter Light Khaki 715 Large para Mujer'
 sku: 'B07MZQY468-es'
+tags: [  ]
 actualPrice: 40.5 EUR
 currency: EUR
 price: 40.5

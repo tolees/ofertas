@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HP65WR7-es Slimming Essence Crema anticelulítica 60ml Adelgazante...'
 sku: 'B07HP65WR7-es'
+tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

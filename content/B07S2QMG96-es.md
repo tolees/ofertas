@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2QMG96-es New Balance 574v2 Zapatillas para Hombre Azul Blue E A E...'
 sku: 'B07S2QMG96-es'
+tags: [  ]
 actualPrice: 56.55 EUR
 currency: EUR
 price: 56.55

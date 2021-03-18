@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7ZKT5Q-es Oihxse Compatible con Samsung Galaxy Note 9 Funda Silicona...'
 sku: 'B07Z7ZKT5Q-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

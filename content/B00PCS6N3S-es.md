@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PCS6N3S-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Begonia...'
 sku: 'B00PCS6N3S-es'
+tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

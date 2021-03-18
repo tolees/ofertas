@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DQLH44A-es Puma Suede Classic + Zapatillas Unisex Adulto Negro...'
 sku: 'B00DQLH44A-es'
+tags: [  ]
 actualPrice: 32 EUR
 currency: EUR
 price: 32

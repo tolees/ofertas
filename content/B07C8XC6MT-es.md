@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C8XC6MT-es Pikolin Home - Edredón/Relleno nórdico de fibra DUO cuatro...'
 sku: 'B07C8XC6MT-es'
+tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

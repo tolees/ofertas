@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZQYV9Q6-es WIN.MAX Tirantes Ancho 35 mm Y-Forma con 6 Clips Extra...'
 sku: 'B07ZQYV9Q6-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

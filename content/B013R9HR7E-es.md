@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013R9HR7E-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B013R9HR7E-es'
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

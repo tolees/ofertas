@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6MSTZN-es Aquabeads - 31331 - Flip Tray®'
 sku: 'B07M6MSTZN-es'
+tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

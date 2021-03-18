@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DF4Q4D2-es KingShark Funda Silicone Case para Samsung Galaxy Note 20...'
 sku: 'B08DF4Q4D2-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

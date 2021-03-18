@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072NMGCY8-es Quiksilver Mission V Botas de Nieve para Hombre Negro...'
 sku: 'B072NMGCY8-es'
+tags: [  ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

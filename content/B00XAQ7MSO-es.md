@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAQ7MSO-es Fini Tronc - Marshmallow Bicolor - Espumas Dulces - 125...'
 sku: 'B00XAQ7MSO-es'
+tags: [  ]
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N06GCOG-es CAJA REGALO de etiquetas personalizadas. INCLUYE código...'
 sku: 'B01N06GCOG-es'
+tags: [  ]
 actualPrice: 8.91 EUR
 currency: EUR
 price: 8.91

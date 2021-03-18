@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SJS99K-es Wella Sp Perfect Hair - 150 ml'
 sku: 'B002SJS99K-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

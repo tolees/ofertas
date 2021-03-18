@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FGCSWCL-es New Balance W890V7 Zapatillas de Running para Mujer Blanco...'
 sku: 'B07FGCSWCL-es'
+tags: [  ]
 actualPrice: 33.64 EUR
 currency: EUR
 price: 33.64

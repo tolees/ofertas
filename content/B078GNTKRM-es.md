@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GNTKRM-es Tommy Hilfiger Brazilian Braguita brasileña Azul Navy...'
 sku: 'B078GNTKRM-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

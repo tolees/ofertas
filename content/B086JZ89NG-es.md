@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086JZ89NG-es TRUUA 50pcs Papel Pintura colador Embudo de Filtro de...'
 sku: 'B086JZ89NG-es'
+tags: [  ]
 actualPrice: 7.22 EUR
 currency: EUR
 price: 7.22

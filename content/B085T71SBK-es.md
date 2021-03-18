@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085T71SBK-es Kingston SDCG3/128GBSP Tarjeta microSD 128GB microSDXC...'
 sku: 'B085T71SBK-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

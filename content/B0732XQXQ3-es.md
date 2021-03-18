@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0732XQXQ3-es TONZE Ajedrez Magnetico Juegos de Mesa Tablero de Ajedrez...'
 sku: 'B0732XQXQ3-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

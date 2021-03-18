@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P54JMR8-es Sotech - Cuna Bouncer Bouncer para Bebés Patrón de Leon...'
 sku: 'B07P54JMR8-es'
+tags: [  ]
 actualPrice: 48.29 EUR
 currency: EUR
 price: 48.29

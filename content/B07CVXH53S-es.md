@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVXH53S-es K-Speed Turf'
 sku: 'B07CVXH53S-es'
+tags: [  ]
 actualPrice: 15.58 EUR
 currency: EUR
 price: 15.58

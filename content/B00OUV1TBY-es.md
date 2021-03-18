@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OUV1TBY-es Bourjois Sourcil Precision Lápiz de cejas Tono 6 Blond...'
 sku: 'B00OUV1TBY-es'
+tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

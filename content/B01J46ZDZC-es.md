@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J46ZDZC-es Khomo - Funda Universal con Cremallera para Tablet Negro...'
 sku: 'B01J46ZDZC-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

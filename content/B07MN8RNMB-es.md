@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MN8RNMB-es Lenovo Legion Y910-17ISK - Ordenador portátil gaming de 17...'
 sku: 'B07MN8RNMB-es'
+tags: [  ]
 actualPrice: 1499.0 EUR
 currency: EUR
 price: 1499.0

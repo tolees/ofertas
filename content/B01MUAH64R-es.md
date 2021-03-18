@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUAH64R-es Diesel UMBX-SHAWNTHREEPACK Calzoncillo para Hombre Negro M...'
 sku: 'B01MUAH64R-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TXCWQG-es memumi Delgado para Samsung Galaxy S20 Plus 6.7" Funda...'
 sku: 'B083TXCWQG-es'
+tags: [  ]
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

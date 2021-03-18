@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2MSK9X-es Tommy Hilfiger - Mini Reporter Shoppers y bolsos de hombro...'
 sku: 'B07V2MSK9X-es'
+tags: [  ]
 actualPrice: 35.94 EUR
 currency: EUR
 price: 35.94

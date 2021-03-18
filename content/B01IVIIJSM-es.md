@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IVIIJSM-es Ariel 3en1 Pods Detergente En Cápsulas Sensaciones...'
 sku: 'B01IVIIJSM-es'
+tags: [  ]
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

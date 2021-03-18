@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SC1RYCM-es FUNNY HOUSE 5 Pcs Tapón de Drenaje de Silicona Tapón de...'
 sku: 'B07SC1RYCM-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

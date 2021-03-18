@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVQN3LK-es Wrangler SS Colourblock Polo Blanco White 989 Small para...'
 sku: 'B07TVQN3LK-es'
+tags: [  ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

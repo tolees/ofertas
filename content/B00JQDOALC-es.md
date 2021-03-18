@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JQDOALC-es Sennheiser Game One Auriculares de diadema abiertas para...'
 sku: 'B00JQDOALC-es'
+tags: [  ]
 actualPrice: 127.74 EUR
 currency: EUR
 price: 127.74

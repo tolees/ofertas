@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868MWX5G-es Suhctup Transparente Funda Compatible con Huawei Nova 4...'
 sku: 'B0868MWX5G-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5YGZJD-es Bandas Elasticas Fitness Glúteos Bandas de Resistencia de...'
 sku: 'B07S5YGZJD-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZPAEX80-es DISFRAZ ROBIN MUJER TALLA M-L-'
 sku: 'B00ZPAEX80-es'
+tags: [  ]
 actualPrice: 8.81 EUR
 currency: EUR
 price: 8.81

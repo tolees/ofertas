@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FP1YNZ-es Maxmer Lámpara Vintage Colgante Luz Industrial Lámpara de...'
 sku: 'B075FP1YNZ-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYTB23I-es EUCERIN PH5 Skin Protection Bálsamo Nutritivo 450 ml'
 sku: 'B01LYTB23I-es'
+tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

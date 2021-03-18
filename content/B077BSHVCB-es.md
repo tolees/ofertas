@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077BSHVCB-es ASUS DSL-AC51 - Módem Router ADSL/VDSL AC750 Dual Band 2...'
 sku: 'B077BSHVCB-es'
+tags: [  ]
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

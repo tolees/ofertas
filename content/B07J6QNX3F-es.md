@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6QNX3F-es Los SIMS 4 y Perros y Gatos Colección'
 sku: 'B07J6QNX3F-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

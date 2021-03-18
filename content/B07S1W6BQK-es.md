@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1W6BQK-es Maclaren Quest arc Silla de paseo - ligero manillar unido...'
 sku: 'B07S1W6BQK-es'
+tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

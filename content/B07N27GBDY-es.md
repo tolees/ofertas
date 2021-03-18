@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N27GBDY-es Quiksilver Shorebreak Mid Sherpa-Shoes for Men Botas...'
 sku: 'B07N27GBDY-es'
+tags: [  ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

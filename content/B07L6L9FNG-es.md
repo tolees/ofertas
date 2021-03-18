@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6L9FNG-es B Blesiya Unidad Disquete USB Externa Sfrm72-du26...'
 sku: 'B07L6L9FNG-es'
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

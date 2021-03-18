@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078X5MK7G-es Sony HT-XF9000 - Barra de Sonido 2.1 Dolby Atmos DTS:X...'
 sku: 'B078X5MK7G-es'
+tags: [  ]
 actualPrice: 308.55 EUR
 currency: EUR
 price: 308.55

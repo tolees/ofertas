@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG1LNF7-es PUMA Rebound Layup Lo Mesh Zapatillas Unisex Adulto White...'
 sku: 'B07KG1LNF7-es'
+tags: [  ]
 actualPrice: 22.92 EUR
 currency: EUR
 price: 22.92

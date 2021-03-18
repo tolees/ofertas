@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXTT7WB-es FITTOO Leggings Sin Costuras Mujer Pantalon Deportivo Alta...'
 sku: 'B07YXTT7WB-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

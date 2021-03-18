@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N22BYHN-es Sennheiser HD 100 - Auriculares supraurales Ligeros y...'
 sku: 'B07N22BYHN-es'
+tags: [  ]
 actualPrice: 20.08 EUR
 currency: EUR
 price: 20.08

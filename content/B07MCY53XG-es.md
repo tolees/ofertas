@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCY53XG-es Saucony Freedom ISO 2 Zapatillas de Running para Mujer...'
 sku: 'B07MCY53XG-es'
+tags: [  ]
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

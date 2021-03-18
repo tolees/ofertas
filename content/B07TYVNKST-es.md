@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYVNKST-es TBS Phenis Náuticos para Hombre Gris Gris Clair D8261 39 EU'
 sku: 'B07TYVNKST-es'
+tags: [  ]
 actualPrice: 51.93 EUR
 currency: EUR
 price: 51.93

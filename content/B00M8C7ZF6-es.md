@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M8C7ZF6-es Kodak Cám. FZ201 Negra'
 sku: 'B00M8C7ZF6-es'
+tags: [  ]
 actualPrice: 110.1 EUR
 currency: EUR
 price: 110.1

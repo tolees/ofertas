@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XR8MNVQ-es Kelme - Zapatillas Trueno Sala'
 sku: 'B06XR8MNVQ-es'
+tags: [  ]
 actualPrice: 27.47 EUR
 currency: EUR
 price: 27.47

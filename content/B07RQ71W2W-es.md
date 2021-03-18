@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQ71W2W-es Office Ink Toner reemplazo para Brother DR241 DR245 unidad...'
 sku: 'B07RQ71W2W-es'
+tags: [  ]
 actualPrice: 65.85 EUR
 currency: EUR
 price: 65.85

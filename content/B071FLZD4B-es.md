@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FLZD4B-es Far Cry 5'
 sku: 'B071FLZD4B-es'
+tags: [  ]
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

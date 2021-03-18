@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085LMKSJV-es MKTOSASA - Altavoz Bluetooth y 3W de Potencia. Función...'
 sku: 'B085LMKSJV-es'
+tags: [  ]
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

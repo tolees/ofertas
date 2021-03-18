@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0038PJTFG-es Universal 00057-76.161.26 Cuchilla de repuesto para...'
 sku: 'B0038PJTFG-es'
+tags: [  ]
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

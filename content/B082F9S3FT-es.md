@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082F9S3FT-es 2020 Neuf Appareil Photo pour Enfants Appareil Photo/Vidéo...'
 sku: 'B082F9S3FT-es'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

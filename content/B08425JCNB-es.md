@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08425JCNB-es Cámara Domo de Seguridad CCTV de vigilancia de imitación...'
 sku: 'B08425JCNB-es'
+tags: [  ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

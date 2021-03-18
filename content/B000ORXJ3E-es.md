@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ORXJ3E-es Max factor - Miracle touch creamy blush base de maquillaje...'
 sku: 'B000ORXJ3E-es'
+tags: [  ]
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

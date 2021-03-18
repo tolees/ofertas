@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHH9SRP-es Funme USB Mini Ventilador de Escritorio Ventilador...'
 sku: 'B07RHH9SRP-es'
+tags: [  ]
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

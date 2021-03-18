@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSUY4Q8-es Helly Hansen W Pier 2 Pant Mujer Ebony XL'
 sku: 'B01MSUY4Q8-es'
+tags: [  ]
 actualPrice: 83.5 EUR
 currency: EUR
 price: 83.5

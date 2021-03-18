@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JX2BKH-es BLCPRO Repelente Ultrasónico de Plagas 2020 Repelente...'
 sku: 'B083JX2BKH-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NRK95G-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B079NRK95G-es'
+tags: [  ]
 actualPrice: 67.37 EUR
 currency: EUR
 price: 67.37

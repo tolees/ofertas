@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MA4BOHU-es Air Wick Freshmatic Life Ambientador Scents Oasis Color...'
 sku: 'B01MA4BOHU-es'
+tags: [  ]
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

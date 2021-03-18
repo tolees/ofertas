@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FZ3HZTY-es Kipling - Fundamental Nc Mochilas Mujer Azul Lively Navy'
 sku: 'B07FZ3HZTY-es'
+tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

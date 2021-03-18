@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNBHMPG-es Amplificador Señal WiFi 300Mbps/2.4 GHz Repetidores WiFi...'
 sku: 'B08BNBHMPG-es'
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

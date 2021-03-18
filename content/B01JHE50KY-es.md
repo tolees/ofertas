@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JHE50KY-es Kingston DT50/16GB Llave Usb 16 Gb Verde'
 sku: 'B01JHE50KY-es'
+tags: [  ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

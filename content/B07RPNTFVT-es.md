@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPNTFVT-es Stranger Things Minde Flayer - Cuaderno de notas en...'
 sku: 'B07RPNTFVT-es'
+tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

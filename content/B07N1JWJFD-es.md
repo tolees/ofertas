@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JWJFD-es Clarks Un Adorn Zip Mocasines para Mujer Beige Pebble...'
 sku: 'B07N1JWJFD-es'
+tags: [  ]
 actualPrice: 37.14 EUR
 currency: EUR
 price: 37.14

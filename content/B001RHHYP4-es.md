@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001RHHYP4-es AIM - Alfombrilla Gaming Profesional Superficie de Tela...'
 sku: 'B001RHHYP4-es'
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

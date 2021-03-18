@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKGG18N-es Kipling - Creativity L Monederos Mujer Negro Powder Black'
 sku: 'B07DKGG18N-es'
+tags: [  ]
 actualPrice: 16.44 EUR
 currency: EUR
 price: 16.44

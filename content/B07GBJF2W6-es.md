@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBJF2W6-es Rage 2 Collectors Edition'
 sku: 'B07GBJF2W6-es'
+tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

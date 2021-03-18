@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G0QBL8M-es DISFRAZ SHERIFF CHICA TALLA M-L'
 sku: 'B01G0QBL8M-es'
+tags: [  ]
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

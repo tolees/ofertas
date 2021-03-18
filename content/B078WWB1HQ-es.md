@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WWB1HQ-es Nike Internationalist Women s Shoe Zapatillas para Mujer...'
 sku: 'B078WWB1HQ-es'
+tags: [  ]
 actualPrice: 42.38 EUR
 currency: EUR
 price: 42.38

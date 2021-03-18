@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JYNMCG-es RYMALL Álbum de Fotos para bebé Álbum de Memorias Little...'
 sku: 'B072JYNMCG-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

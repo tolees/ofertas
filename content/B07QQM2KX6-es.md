@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQM2KX6-es KLIM™ Esports Silla Gaming Rosa + Ergonómica con Soporte...'
 sku: 'B07QQM2KX6-es'
+tags: [  ]
 actualPrice: 262.43 EUR
 currency: EUR
 price: 262.43

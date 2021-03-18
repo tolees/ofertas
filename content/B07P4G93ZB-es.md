@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4G93ZB-es PopSockets PopGrip - Soporte y Agarre para Teléfonos...'
 sku: 'B07P4G93ZB-es'
+tags: [  ]
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKFJ6N8-es Buff New Obsession Tubular Original Unisex Adulto Multi...'
 sku: 'B07GKFJ6N8-es'
+tags: [  ]
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

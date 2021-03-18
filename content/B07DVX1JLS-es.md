@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVX1JLS-es Columbia Caldorado III Zapatillas de Running para Asfalto...'
 sku: 'B07DVX1JLS-es'
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

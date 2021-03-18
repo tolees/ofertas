@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFF37CN-es Jabra Talk 45 – Auricular Monoaural In-Ear Llamadas...'
 sku: 'B07DFF37CN-es'
+tags: [  ]
 actualPrice: 41.69 EUR
 currency: EUR
 price: 41.69

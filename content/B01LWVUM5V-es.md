@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWVUM5V-es Old Spice Original Desodorante En Barra Para Hombres 50 ml'
 sku: 'B01LWVUM5V-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

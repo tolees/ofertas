@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YS4Y79S-es Scitec Endurance Energy hydrogel + caff orange - 12 x 55 ml'
 sku: 'B07YS4Y79S-es'
+tags: [  ]
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

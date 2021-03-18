@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078J8FCXC-es MOISO Plantillas ortopédicas con soporte de arco cojín de...'
 sku: 'B078J8FCXC-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

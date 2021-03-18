@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082DDGKTS-es Funda Colgante movil con Cuerda para Xiaomi Redmi Note 8T...'
 sku: 'B082DDGKTS-es'
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

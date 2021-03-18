@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWX386N-es MARTINELLI Mocasín de Piel Pacific 1411'
 sku: 'B07VWX386N-es'
+tags: [  ]
 actualPrice: 53.82 EUR
 currency: EUR
 price: 53.82

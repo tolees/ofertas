@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PF13NY-es Jam Out There Auriculares bluetooth en el oído con...'
 sku: 'B079PF13NY-es'
+tags: [  ]
 actualPrice: 31.05 EUR
 currency: EUR
 price: 31.05

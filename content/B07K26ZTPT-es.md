@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K26ZTPT-es Hurley M Phantom Bird 18 Bañadores Hombre Azul Blue Fury 34'
 sku: 'B07K26ZTPT-es'
+tags: [  ]
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DLHRRDN-es Sensor de Detector de Humo eWeLink Inalámbrico 433MHz...'
 sku: 'B08DLHRRDN-es'
+tags: [  ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

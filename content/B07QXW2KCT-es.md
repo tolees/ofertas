@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXW2KCT-es Lámpara de ilusión 3D Siete regalos de Dragon Ball...'
 sku: 'B07QXW2KCT-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

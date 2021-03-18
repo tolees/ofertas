@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872N8VKH-es Funda Transparente Compatible para Xiaomi Redmi 7A Carcasa...'
 sku: 'B0872N8VKH-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

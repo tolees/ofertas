@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKGC17Q-es Kipling - Earthbeat M Bolsos bandolera Mujer Blanco Dazz...'
 sku: 'B07DKGC17Q-es'
+tags: [  ]
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

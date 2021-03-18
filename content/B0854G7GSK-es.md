@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0854G7GSK-es HERSITY Camión de Basura Coches de Friccion con Luces y...'
 sku: 'B0854G7GSK-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

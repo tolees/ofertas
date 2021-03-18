@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004VKHIA0-es OPI Natural Nail Strengthener – Endurecedor para Uñas...'
 sku: 'B004VKHIA0-es'
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

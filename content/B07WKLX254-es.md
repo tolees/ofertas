@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WKLX254-es ieGeek Autoradio Bluetooth Estéreo RDS 60W * 4 Sistema de...'
 sku: 'B07WKLX254-es'
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

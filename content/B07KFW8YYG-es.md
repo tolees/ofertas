@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFW8YYG-es PUMA Source Mid Buzzer Zapatillas Altas Unisex Adulto...'
 sku: 'B07KFW8YYG-es'
+tags: [  ]
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

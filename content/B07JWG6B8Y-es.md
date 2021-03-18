@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWG6B8Y-es Bolsa de aseo transparente + 7 ollas contenedores botellas...'
 sku: 'B07JWG6B8Y-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1MMH67-es Mizuno Wave Daichi 5 Zapatillas de Running para Asfalto...'
 sku: 'B07S1MMH67-es'
+tags: [  ]
 actualPrice: 77.49 EUR
 currency: EUR
 price: 77.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BSSH57S-es Samsung Flip Wallet - Funda Oficial Galaxy S7 Color Negro-...'
 sku: 'B01BSSH57S-es'
+tags: [  ]
 actualPrice: 6.54 EUR
 currency: EUR
 price: 6.54

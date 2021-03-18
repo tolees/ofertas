@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY7NPMS-es Superdry Core Sport Shorts Pantalones Cortos Deportivos...'
 sku: 'B07NY7NPMS-es'
+tags: [  ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

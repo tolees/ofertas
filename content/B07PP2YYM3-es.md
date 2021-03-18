@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PP2YYM3-es Warxin Funda para Huawei P30 Ultra Hybrid TPU Transparente...'
 sku: 'B07PP2YYM3-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

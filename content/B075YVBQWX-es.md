@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075YVBQWX-es BRTLX 5W G45 Bombilla LED Mini Globo Blanco Cálido 3000K...'
 sku: 'B075YVBQWX-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

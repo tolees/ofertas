@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFMFNBP-es Fossil Smartwatch FTW4012'
 sku: 'B07FFMFNBP-es'
+tags: [  ]
 actualPrice: 167.4 EUR
 currency: EUR
 price: 167.4

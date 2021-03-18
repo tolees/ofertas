@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BFX98SF-es Funda para Xiaomi Redmi Note 9 con [2 Pack] Cristal...'
 sku: 'B08BFX98SF-es'
+tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

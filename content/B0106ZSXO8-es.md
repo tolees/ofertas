@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0106ZSXO8-es Trespass - Tartera/mochila para la comida Modelo Playpiece...'
 sku: 'B0106ZSXO8-es'
+tags: [  ]
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

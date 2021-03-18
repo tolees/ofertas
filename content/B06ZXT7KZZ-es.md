@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZXT7KZZ-es Bruni Película Protectora para Olympus TG-850 Protector...'
 sku: 'B06ZXT7KZZ-es'
+tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

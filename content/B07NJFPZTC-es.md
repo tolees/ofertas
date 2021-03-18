@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJFPZTC-es Rowenta Access Steam Care DR9100D1 - Cepillo de vapor 1600...'
 sku: 'B07NJFPZTC-es'
+tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

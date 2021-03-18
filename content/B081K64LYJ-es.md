@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081K64LYJ-es Ksix Smartwatch HR Multitáctil Urban'
 sku: 'B081K64LYJ-es'
+tags: [  ]
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

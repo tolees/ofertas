@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BQVGLQX-es ZNE 14ct 3 Colores oro'
 sku: 'B08BQVGLQX-es'
+tags: [  ]
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

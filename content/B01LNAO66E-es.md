@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LNAO66E-es Powerextra 2 X Batería Canon LP-E8 1800mAh Reemplazon...'
 sku: 'B01LNAO66E-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

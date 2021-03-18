@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M35UYVA-es TUTUO Lector de Tarjetas SD/Micro SD TF USB Tipo C a USB A...'
 sku: 'B01M35UYVA-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

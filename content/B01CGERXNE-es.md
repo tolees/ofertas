@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CGERXNE-es Esteve CORTAGRIP Spray Bucal Antivirus 7 ml'
 sku: 'B01CGERXNE-es'
+tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

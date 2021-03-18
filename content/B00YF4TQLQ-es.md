@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YF4TQLQ-es BRA PRIOR - Cacerola baja con tapa de cristal y asas de...'
 sku: 'B00YF4TQLQ-es'
+tags: [  ]
 actualPrice: 43.65 EUR
 currency: EUR
 price: 43.65

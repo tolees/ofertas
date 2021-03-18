@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L4KWD22-es Swonuk Alfombra Inflable con Agua 66*50 Juego de Esterilla...'
 sku: 'B07L4KWD22-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813DSBK3-es i-baby Manta Infantil Manta Franela para Chicas Manta de...'
 sku: 'B0813DSBK3-es'
+tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

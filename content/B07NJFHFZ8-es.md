@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJFHFZ8-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B07NJFHFZ8-es'
+tags: [  ]
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

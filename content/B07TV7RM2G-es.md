@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV7RM2G-es Cat Footwear Quadrate Botas Clasicas para Hombre Gris...'
 sku: 'B07TV7RM2G-es'
+tags: [  ]
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

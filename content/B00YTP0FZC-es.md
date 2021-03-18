@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YTP0FZC-es Piz Buin Tan & Protect Protector Solar Acelerador del...'
 sku: 'B00YTP0FZC-es'
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK418MS-es Columbia Redmond V2 Mid Botas de Senderismo de Piel...'
 sku: 'B07KK418MS-es'
+tags: [  ]
 actualPrice: 58.95 EUR
 currency: EUR
 price: 58.95

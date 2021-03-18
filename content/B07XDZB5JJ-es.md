@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDZB5JJ-es Trust Yvi Ratón inalámbrico - Multicolor'
 sku: 'B07XDZB5JJ-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XMGB9PV-es Skechers GO Run 400 V2 Zapatillas para Hombre Negro Textil...'
 sku: 'B07XMGB9PV-es'
+tags: [  ]
 actualPrice: 33.8 EUR
 currency: EUR
 price: 33.8

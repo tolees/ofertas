@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBHRJ9L-es Fila Sujetador Deportivo Color Azul Turquesa'
 sku: 'B07YBHRJ9L-es'
+tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

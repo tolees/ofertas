@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2WL6SJ-es Wangel Estante de Cocina con 7 Ganchos Organizadores para...'
 sku: 'B07S2WL6SJ-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

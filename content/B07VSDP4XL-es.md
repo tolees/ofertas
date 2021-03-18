@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSDP4XL-es JACK & JONES Jorflash suéter Azul Sea Mossblau X-Large...'
 sku: 'B07VSDP4XL-es'
+tags: [  ]
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

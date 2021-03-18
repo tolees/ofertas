@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005IEH4TI-es Bourjois Effect 3d Gloss Gloss Tono 23 Framboise magnific...'
 sku: 'B005IEH4TI-es'
+tags: [  ]
 actualPrice: 4.09 EUR
 currency: EUR
 price: 4.09

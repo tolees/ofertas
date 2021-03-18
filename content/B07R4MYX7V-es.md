@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R4MYX7V-es AL OFA Vibrador Rabbit G-punto Clitoris Vibrante...'
 sku: 'B07R4MYX7V-es'
+tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

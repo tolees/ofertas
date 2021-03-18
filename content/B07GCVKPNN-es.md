@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCVKPNN-es sogoo 50 x 70cm 22.5W Espejo de pared espejo luminoso con...'
 sku: 'B07GCVKPNN-es'
+tags: [  ]
 actualPrice: 158.23 EUR
 currency: EUR
 price: 158.23

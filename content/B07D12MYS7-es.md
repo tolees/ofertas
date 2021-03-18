@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D12MYS7-es Salomon X Radiant Mid GTX W Zapatillas de Senderismo para...'
 sku: 'B07D12MYS7-es'
+tags: [  ]
 actualPrice: 73.35 EUR
 currency: EUR
 price: 73.35

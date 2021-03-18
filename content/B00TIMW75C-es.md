@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TIMW75C-es PowerBar PowerGel Shots Orange 16x60g - Gomas de Alta...'
 sku: 'B00TIMW75C-es'
+tags: [  ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZYQNP1X-es Gazechimp Interruptor de Encendido Tercer Engranaje Pin de...'
 sku: 'B06ZYQNP1X-es'
+tags: [  ]
 actualPrice: 2.05 EUR
 currency: EUR
 price: 2.05

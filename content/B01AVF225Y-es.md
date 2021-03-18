@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AVF225Y-es Revlon Super Lustroso Pintalabios mate – 4.2 g realmente rojo'
 sku: 'B01AVF225Y-es'
+tags: [  ]
 actualPrice: 2.65 EUR
 currency: EUR
 price: 2.65

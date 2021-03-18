@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTIUTG7-es Speedo Girls Boom Allover Bañador para niña Multicolor...'
 sku: 'B01MTIUTG7-es'
+tags: [  ]
 actualPrice: 19.33 EUR
 currency: EUR
 price: 19.33

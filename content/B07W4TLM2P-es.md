@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4TLM2P-es GHONLZIN Bandeja de Comida Fresca Bandeja Fresca...'
 sku: 'B07W4TLM2P-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

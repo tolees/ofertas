@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXV2CUV-es Vernel Aromaterapia Secretos de Bienestar Suavizante...'
 sku: 'B01LXV2CUV-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0841JY8TR-es mfavour Cajas giratorias para Relojes con Motor silencioso...'
 sku: 'B0841JY8TR-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

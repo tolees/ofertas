@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078PP3V1J-es Acer ED3 Monitor 69 cm 27" Curved 1800R ZeroFrame 144Hz...'
 sku: 'B078PP3V1J-es'
+tags: [  ]
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079F4YRVZ-es Vans Ward Zapatillas para Mujer Rosa Canvas/Sepia Rose Oln...'
 sku: 'B079F4YRVZ-es'
+tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

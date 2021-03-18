@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006MKBVNM-es 3M Cinta Americana Universal 1900 50 mm x 50 m color negro...'
 sku: 'B006MKBVNM-es'
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

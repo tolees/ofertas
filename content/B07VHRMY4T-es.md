@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHRMY4T-es 00779 XuanPad'
 sku: 'B07VHRMY4T-es'
+tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

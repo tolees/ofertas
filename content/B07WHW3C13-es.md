@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHW3C13-es Pistola Aire Caliente 2000W Tilswall Decapador Profesional...'
 sku: 'B07WHW3C13-es'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

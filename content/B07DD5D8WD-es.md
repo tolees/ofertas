@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD5D8WD-es Nella The Knight - Disfraz de la Princesa Nella para niña...'
 sku: 'B07DD5D8WD-es'
+tags: [  ]
 actualPrice: 11.85 EUR
 currency: EUR
 price: 11.85

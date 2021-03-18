@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007YJ3WO6-es Universal Microondas Plato Giratorio Placa de Cristal con...'
 sku: 'B007YJ3WO6-es'
+tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

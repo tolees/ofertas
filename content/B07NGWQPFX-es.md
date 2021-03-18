@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGWQPFX-es Primigi Pbb 43604 Botas para Bebés Senape 4360444 18 EU'
 sku: 'B07NGWQPFX-es'
+tags: [  ]
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

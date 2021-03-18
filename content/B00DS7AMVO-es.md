@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DS7AMVO-es Lékué - Estuche de vapor Con bandeja y kit principiantes...'
 sku: 'B00DS7AMVO-es'
+tags: [  ]
 actualPrice: 15.47 EUR
 currency: EUR
 price: 15.47

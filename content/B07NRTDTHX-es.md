@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRTDTHX-es Vis a vis - Serie Completa - BD [Blu-ray]'
 sku: 'B07NRTDTHX-es'
+tags: [  ]
 actualPrice: 35.78 EUR
 currency: EUR
 price: 35.78

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0744LZKCT-es ARDITEX FP10016 Bolsa Mamá multifuncional de 39x14x30.5cm...'
 sku: 'B0744LZKCT-es'
+tags: [  ]
 actualPrice: 36.05 EUR
 currency: EUR
 price: 36.05

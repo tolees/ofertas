@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFBSH68-es Funko Pop Mortal Engines Figura de Vinilo Anna Fang...'
 sku: 'B07DFBSH68-es'
+tags: [  ]
 actualPrice: 7.82 EUR
 currency: EUR
 price: 7.82

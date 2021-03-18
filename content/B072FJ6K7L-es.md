@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FJ6K7L-es Under Armour MK1 Shorts Pantalón Corto Hombre Negro...'
 sku: 'B072FJ6K7L-es'
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4QQ55M-es Lámpara Secador de Uñas Winpok Lámpara LED Uñas Pantalla...'
 sku: 'B07V4QQ55M-es'
+tags: [  ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

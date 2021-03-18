@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003JQKTTE-es NIVEA Good-Bye Celulitis Q10 plus Crema Corporal...'
 sku: 'B003JQKTTE-es'
+tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

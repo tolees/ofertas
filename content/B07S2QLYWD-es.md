@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2QLYWD-es New Balance 574v2 Zapatillas para Hombre Gris Grey/White...'
 sku: 'B07S2QLYWD-es'
+tags: [  ]
 actualPrice: 41.88 EUR
 currency: EUR
 price: 41.88

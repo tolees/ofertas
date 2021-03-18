@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XTHRPY-es Kitchen Emperor Cuchillo Santoku Damasco Cuchillo Acero...'
 sku: 'B078XTHRPY-es'
+tags: [  ]
 actualPrice: 59.89 EUR
 currency: EUR
 price: 59.89

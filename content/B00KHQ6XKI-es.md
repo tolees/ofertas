@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHQ6XKI-es Descanso Tamaño de Funda de edredón 50 por ciento...'
 sku: 'B00KHQ6XKI-es'
+tags: [  ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

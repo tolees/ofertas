@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MWT5JJ-es Bourjois Velvet The Lipstick Barra de Labios Tono 33 2.5 gr'
 sku: 'B082MWT5JJ-es'
+tags: [  ]
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

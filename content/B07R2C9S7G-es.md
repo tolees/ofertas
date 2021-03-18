@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R2C9S7G-es Zombie Army Trilogy - Survivor Edition'
 sku: 'B07R2C9S7G-es'
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

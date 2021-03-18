@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DRERSJ2-es BRA Bella - Vinagrera 4 Piezas Acero Inoxidable 18/10 y...'
 sku: 'B00DRERSJ2-es'
+tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

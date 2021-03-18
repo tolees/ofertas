@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYTFHY1-es Reloj Gusset Pocket Zeiger Steampunk Esqueleto Mecánico...'
 sku: 'B01MYTFHY1-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SBW6L5-es Auriculares Inalambricos Bluetooth 5.0 Donerton IPX8...'
 sku: 'B081SBW6L5-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

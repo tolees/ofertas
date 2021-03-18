@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000Z8WW5I-es Solgar Fórmula Antioxidante Avanzada Protege a las Células...'
 sku: 'B000Z8WW5I-es'
+tags: [  ]
 actualPrice: 32.3 EUR
 currency: EUR
 price: 32.3

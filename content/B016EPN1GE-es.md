@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016EPN1GE-es Nike MD Runner 2 PSV Zapatillas Unisex Niños Multicolor...'
 sku: 'B016EPN1GE-es'
+tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

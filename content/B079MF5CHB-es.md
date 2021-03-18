@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MF5CHB-es New Balance 411 m Zapatillas de Running para Mujer Negro...'
 sku: 'B079MF5CHB-es'
+tags: [  ]
 actualPrice: 22.16 EUR
 currency: EUR
 price: 22.16

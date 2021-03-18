@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GNXO2RA-es Salki 8500301.0 Pistola Encoladora de Silicona 25 W 240 V...'
 sku: 'B00GNXO2RA-es'
+tags: [  ]
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

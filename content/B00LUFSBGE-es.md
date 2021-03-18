@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LUFSBGE-es Revlon ColorStay Gel Envy Esmalte de Uñas de Larga...'
 sku: 'B00LUFSBGE-es'
+tags: [  ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

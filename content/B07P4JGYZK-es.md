@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4JGYZK-es Superdry Classic Lite Micro Pique Polo Blanco Optic 01c...'
 sku: 'B07P4JGYZK-es'
+tags: [  ]
 actualPrice: 19.34 EUR
 currency: EUR
 price: 19.34

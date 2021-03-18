@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3LYX65-es 2pcs Cintas de Gimnasia Rítmica Cinta de Baile Ballet...'
 sku: 'B07F3LYX65-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

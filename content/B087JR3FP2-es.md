@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087JR3FP2-es Agger 1PC 800ml Gel Duradero Bolas Cargando Botellas con...'
 sku: 'B087JR3FP2-es'
+tags: [  ]
 actualPrice: 5.08 EUR
 currency: EUR
 price: 5.08

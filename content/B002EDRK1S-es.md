@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002EDRK1S-es HP CE255X 55X Cartucho de Tóner Original de alto...'
 sku: 'B002EDRK1S-es'
+tags: [  ]
 actualPrice: 187.94 EUR
 currency: EUR
 price: 187.94

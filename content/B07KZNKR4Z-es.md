@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZNKR4Z-es Alex Perry Regalo Día de la Madre pulseras mujer pulsera...'
 sku: 'B07KZNKR4Z-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

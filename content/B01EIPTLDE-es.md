@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EIPTLDE-es Dragon Ball Z. Tv Special 1:Batalla Final Solitaria + Tv...'
 sku: 'B01EIPTLDE-es'
+tags: [  ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

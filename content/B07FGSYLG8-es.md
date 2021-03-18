@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FGSYLG8-es Under Armour Favorite Graphic Legging-WM Pantalones Mujer...'
 sku: 'B07FGSYLG8-es'
+tags: [  ]
 actualPrice: 19.23 EUR
 currency: EUR
 price: 19.23

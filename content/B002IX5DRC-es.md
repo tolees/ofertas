@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002IX5DRC-es NP-60 - Batería de Ion de Litio para Fuji 1200 mAh 3 7 V'
 sku: 'B002IX5DRC-es'
+tags: [  ]
 actualPrice: 7.31 EUR
 currency: EUR
 price: 7.31

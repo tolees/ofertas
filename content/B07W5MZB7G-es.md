@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5MZB7G-es Tommy Hilfiger Tommy Tipped Slim Polo Azul Desert Sky...'
 sku: 'B07W5MZB7G-es'
+tags: [  ]
 actualPrice: 31.96 EUR
 currency: EUR
 price: 31.96

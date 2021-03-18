@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNS1NND-es AOQUSSQOA Mujer Yoga Leggings Mallas Pantalones Deportivos...'
 sku: 'B07ZNS1NND-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

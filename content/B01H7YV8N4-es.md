@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H7YV8N4-es SELECT Handball Pantalones Cortos Mexico 62102 Todo el año...'
 sku: 'B01H7YV8N4-es'
+tags: [  ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

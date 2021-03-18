@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWVF98X-es TECHBREY Ventilador de Techo LED Modern Negro 40W Blanco...'
 sku: 'B07GWVF98X-es'
+tags: [  ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HLDBTQH-es READ Reloj para Hombre Reloj de Cuarzo Marca de fábrica...'
 sku: 'B07HLDBTQH-es'
+tags: [  ]
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

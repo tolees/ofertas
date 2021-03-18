@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088B8YQ6L-es Docooler USB Webcam HD Web CAM Cámara Web Digital con Clip...'
 sku: 'B088B8YQ6L-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ53Y2V-es Women s Secret Bralettes 2 Sbhtop Sujetador de triángulo...'
 sku: 'B07TZ53Y2V-es'
+tags: [  ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

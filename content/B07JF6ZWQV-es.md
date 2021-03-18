@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JF6ZWQV-es Dedo Extensión Férula para Dedo en Gatillo Tirante...'
 sku: 'B07JF6ZWQV-es'
+tags: [  ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFRYJZY-es 12pcs Negro Y Blanco A Cuadros Fórmula Uno Que Compite Con...'
 sku: 'B01FFRYJZY-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

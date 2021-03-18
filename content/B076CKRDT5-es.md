@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CKRDT5-es American Tourister - Bon Air - Spinner Maleta 75 cm 91 L...'
 sku: 'B076CKRDT5-es'
+tags: [  ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

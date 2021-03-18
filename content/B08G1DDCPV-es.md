@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G1DDCPV-es Gentai 128 GB/400 GB Tarjeta Micro SD Clase 10 UHS-I TF...'
 sku: 'B08G1DDCPV-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

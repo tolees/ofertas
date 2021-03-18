@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJ8X2BN-es Lixada Esterilla de Yoga Antideslizante TPE Insípido con...'
 sku: 'B07ZJ8X2BN-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

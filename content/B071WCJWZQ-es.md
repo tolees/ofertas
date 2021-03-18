@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WCJWZQ-es Need for Speed Payback - Edición estándar'
 sku: 'B071WCJWZQ-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

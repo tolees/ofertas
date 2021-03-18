@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003UWRYBI-es TP-Link TL-SG1016D - Gigabit Ethernet con 16 Puertos...'
 sku: 'B003UWRYBI-es'
+tags: [  ]
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

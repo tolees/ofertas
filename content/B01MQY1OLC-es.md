@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQY1OLC-es Lacoste Lerond BL 1 CAM Zapatillas para Hombre Negro Black...'
 sku: 'B01MQY1OLC-es'
+tags: [  ]
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

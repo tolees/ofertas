@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XY5FVZZ-es Valkyria Revolution - Edición Limitada'
 sku: 'B06XY5FVZZ-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

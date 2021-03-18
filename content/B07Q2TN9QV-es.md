@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2TN9QV-es Dihope zapatillas de deporte para mujer zapatillas...'
 sku: 'B07Q2TN9QV-es'
+tags: [  ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQH188Z-es Pop! Rocks: Slayer - Jeff Hanneman'
 sku: 'B07YQH188Z-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

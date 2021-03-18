@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQW6VS5-es Helly Hansen KOS Polo Hombre Azul Azul Navy 597 S'
 sku: 'B07KQW6VS5-es'
+tags: [  ]
 actualPrice: 20.63 EUR
 currency: EUR
 price: 20.63

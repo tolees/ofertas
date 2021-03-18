@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJFXJ3B-es Naruto Ultimate Ninja Storm Trilogy'
 sku: 'B07NJFXJ3B-es'
+tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

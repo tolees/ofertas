@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NRL6PF-es Bosch BGC05AAA1 GS05 Cleann n Serie | 2 Aspirador sin...'
 sku: 'B079NRL6PF-es'
+tags: [  ]
 actualPrice: 71.46 EUR
 currency: EUR
 price: 71.46

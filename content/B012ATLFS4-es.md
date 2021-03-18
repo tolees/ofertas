@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012ATLFS4-es KabelDirekt 12cm Cable 3.5mm Jack Cable de Adaptador 3.5mm...'
 sku: 'B012ATLFS4-es'
+tags: [  ]
 actualPrice: 6.73 EUR
 currency: EUR
 price: 6.73

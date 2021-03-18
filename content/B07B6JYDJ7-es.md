@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B6JYDJ7-es Skechers Segment-Garnet 65573 Botas Chukka para Hombre...'
 sku: 'B07B6JYDJ7-es'
+tags: [  ]
 actualPrice: 50.26 EUR
 currency: EUR
 price: 50.26

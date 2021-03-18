@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PV95B3L-es SAWAKE Ventilador Clip Portátil Mini Ventilador de...'
 sku: 'B07PV95B3L-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

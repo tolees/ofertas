@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DGK5S2K-es E-Vitta PCS71103EVLB000302 - Maletín para Ordenador...'
 sku: 'B01DGK5S2K-es'
+tags: [  ]
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

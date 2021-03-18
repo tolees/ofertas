@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2GJVXB-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07G2GJVXB-es'
+tags: [  ]
 actualPrice: 75.6 EUR
 currency: EUR
 price: 75.6

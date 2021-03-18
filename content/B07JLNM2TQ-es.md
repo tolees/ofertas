@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLNM2TQ-es KFD Adaptador 15V 4A 65W Cargador Portatil para Microsoft...'
 sku: 'B07JLNM2TQ-es'
+tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

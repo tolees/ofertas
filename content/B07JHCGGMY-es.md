@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHCGGMY-es Columbia Ivo Trail Zapatillas para Hombre Azul Collegiate...'
 sku: 'B07JHCGGMY-es'
+tags: [  ]
 actualPrice: 60 EUR
 currency: EUR
 price: 60

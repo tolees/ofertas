@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EALAYJ2-es Bausch & Lomb - Biotrue One Day Esféricas - Lentes de...'
 sku: 'B00EALAYJ2-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGHPP75-es FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon...'
 sku: 'B07SGHPP75-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

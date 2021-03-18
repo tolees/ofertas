@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4D5JPB-es Funda compatible con Huawei Honor 10 funda ultrafina suave...'
 sku: 'B07Z4D5JPB-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

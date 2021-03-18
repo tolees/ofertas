@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VH8IHT0-es Butterfly Pro Afeitadora Eléctrica para Mujer Afeitadora...'
 sku: 'B00VH8IHT0-es'
+tags: [  ]
 actualPrice: 43.16 EUR
 currency: EUR
 price: 43.16

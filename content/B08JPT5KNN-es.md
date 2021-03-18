@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JPT5KNN-es Toalla para Adultos de Color sólido Reutilizable y Lavable...'
 sku: 'B08JPT5KNN-es'
+tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087X6BLMY-es Suhctup Funda Transparent Compatible para Samsung Galaxy...'
 sku: 'B087X6BLMY-es'
+tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

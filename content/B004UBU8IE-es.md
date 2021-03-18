@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004UBU8IE-es TP-Link TL-WA801ND V5.0 - Punto de acceso...'
 sku: 'B004UBU8IE-es'
+tags: [  ]
 actualPrice: 28.63 EUR
 currency: EUR
 price: 28.63

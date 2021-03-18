@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVP2FC9-es BRIKSMAX Kit de Iluminación Led para Lego Creator...'
 sku: 'B07TVP2FC9-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTQDFP4-es Tommy Hilfiger Reloj de Pulsera 1782038'
 sku: 'B07KTQDFP4-es'
+tags: [  ]
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

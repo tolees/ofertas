@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K4YZ16B-es Conjunto de luces Lightailing para James Bond Aston Martin...'
 sku: 'B07K4YZ16B-es'
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

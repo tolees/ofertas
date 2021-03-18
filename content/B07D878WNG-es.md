@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D878WNG-es SELECTED HOMME Slhslim-Arval Med.Blue Mix Pants W...'
 sku: 'B07D878WNG-es'
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

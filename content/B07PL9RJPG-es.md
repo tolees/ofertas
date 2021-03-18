@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PL9RJPG-es LA Active Calcetines Antideslizantes - Para Yoga Pilates...'
 sku: 'B07PL9RJPG-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

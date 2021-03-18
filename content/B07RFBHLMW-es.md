@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFBHLMW-es FAMTOP Purificador de Aire para Hogar Air Purifier 4 en 1...'
 sku: 'B07RFBHLMW-es'
+tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

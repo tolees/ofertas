@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6NJGB9-es PUMA Weave XT Wn s Zapatillas Deportivas para Interior...'
 sku: 'B07S6NJGB9-es'
+tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

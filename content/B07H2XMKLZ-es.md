@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2XMKLZ-es Smeg 770926334 Tostador 2000 W Beige'
 sku: 'B07H2XMKLZ-es'
+tags: [  ]
 actualPrice: 110.97 EUR
 currency: EUR
 price: 110.97

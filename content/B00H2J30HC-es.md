@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H2J30HC-es Softee Equipment 0024103 Juego Pesas Verde S'
 sku: 'B00H2J30HC-es'
+tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

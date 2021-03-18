@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D4QFNT4-es Revell- Modelo Clamp Set 8 Color Negro 39070'
 sku: 'B01D4QFNT4-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

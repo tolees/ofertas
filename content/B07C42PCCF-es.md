@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C42PCCF-es H. Koenig stc68 aspirador Multi Ciclónico sin bolsa...'
 sku: 'B07C42PCCF-es'
+tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

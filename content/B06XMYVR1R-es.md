@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XMYVR1R-es Cluse Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B06XMYVR1R-es'
+tags: [  ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

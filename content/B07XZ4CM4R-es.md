@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZ4CM4R-es Bolsa de Dulces de Dinosaurio，KATOOM，24pcs，Bolsa de Regalo...'
 sku: 'B07XZ4CM4R-es'
+tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

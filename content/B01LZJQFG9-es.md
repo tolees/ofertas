@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZJQFG9-es Colgate Max White One Pasta Dentífrica - 75 ml'
 sku: 'B01LZJQFG9-es'
+tags: [  ]
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

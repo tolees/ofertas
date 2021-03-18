@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6DWGZL-es Guess - Open Road Bolsos bandolera Mujer Verde Forest...'
 sku: 'B07P6DWGZL-es'
+tags: [  ]
 actualPrice: 64.54 EUR
 currency: EUR
 price: 64.54

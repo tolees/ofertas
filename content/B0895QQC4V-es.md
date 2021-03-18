@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895QQC4V-es Wakana Ventilador Portatil Ventilador Cuello Diseño de...'
 sku: 'B0895QQC4V-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

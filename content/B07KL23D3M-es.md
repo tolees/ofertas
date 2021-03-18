@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KL23D3M-es Safety 1st Keeny Trona evolutiva Trona bebé compacta...'
 sku: 'B07KL23D3M-es'
+tags: [  ]
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

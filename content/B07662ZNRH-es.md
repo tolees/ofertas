@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07662ZNRH-es BOSS Schino-Slim D Pantalones Azul Open Blue 463 W33/L34...'
 sku: 'B07662ZNRH-es'
+tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

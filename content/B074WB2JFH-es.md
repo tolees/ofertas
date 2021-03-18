@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074WB2JFH-es Navachi Metal chapado en oro de 18 quilates redondo rosa...'
 sku: 'B074WB2JFH-es'
+tags: [  ]
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S48P5GG-es Viedouce Baberos Bebés con Mangas Impermeables Baberos...'
 sku: 'B07S48P5GG-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

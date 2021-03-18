@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNHHH18-es Twinz up - Sacacorchos Eléctrico Inalámbrico - Estuche...'
 sku: 'B07TNHHH18-es'
+tags: [  ]
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

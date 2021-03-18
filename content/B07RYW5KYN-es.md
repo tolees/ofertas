@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYW5KYN-es BOSS Trunk 2p Gift Co Bóxer Rojo Bright Red 624 Small Pack...'
 sku: 'B07RYW5KYN-es'
+tags: [  ]
 actualPrice: 20.74 EUR
 currency: EUR
 price: 20.74

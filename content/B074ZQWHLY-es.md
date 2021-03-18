@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074ZQWHLY-es Zadig & Voltaire Reloj Analógico para Unisex Adultos de...'
 sku: 'B074ZQWHLY-es'
+tags: [  ]
 actualPrice: 110.3 EUR
 currency: EUR
 price: 110.3

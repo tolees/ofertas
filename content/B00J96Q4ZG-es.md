@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J96Q4ZG-es Soporte para Móvil BESTEK Soporte para Teléfono Móvil...'
 sku: 'B00J96Q4ZG-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

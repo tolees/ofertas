@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SHL89Q6-es Selvi 3600 - Bloc manualidades'
 sku: 'B00SHL89Q6-es'
+tags: [  ]
 actualPrice: 4.64 EUR
 currency: EUR
 price: 4.64

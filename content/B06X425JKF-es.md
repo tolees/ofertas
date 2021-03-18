@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X425JKF-es Tommy Hilfiger Bra Sujetador Push-up Negro Black 990 75D...'
 sku: 'B06X425JKF-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

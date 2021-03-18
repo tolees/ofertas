@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BYM6JYS-es Fantiff Mini cuello portátil masajeador eléctrico aliviar...'
 sku: 'B08BYM6JYS-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

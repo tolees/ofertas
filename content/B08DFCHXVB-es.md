@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFCHXVB-es DREAMWIN Dispensador Jabón Automático 280mL Dispensador de...'
 sku: 'B08DFCHXVB-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

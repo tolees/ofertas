@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6P3LJ2-es PUMA Future 5.4 FG/AG Botas de fútbol para Hombre Azul...'
 sku: 'B07S6P3LJ2-es'
+tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W72TXTR-es BaByliss AS136E Cepillo de aire 1000W iónico 4 accesorios...'
 sku: 'B07W72TXTR-es'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

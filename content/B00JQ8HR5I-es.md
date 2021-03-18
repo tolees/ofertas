@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JQ8HR5I-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B00JQ8HR5I-es'
+tags: [  ]
 actualPrice: 62.66 EUR
 currency: EUR
 price: 62.66

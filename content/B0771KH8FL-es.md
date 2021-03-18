@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771KH8FL-es Eastpak Tranverz S Maleta 51 cm 42 L Negro Black'
 sku: 'B0771KH8FL-es'
+tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

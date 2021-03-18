@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG56SHW-es New Balance Fuell Cell Propel Zapatillas de Running para...'
 sku: 'B07HG56SHW-es'
+tags: [  ]
 actualPrice: 60 EUR
 currency: EUR
 price: 60

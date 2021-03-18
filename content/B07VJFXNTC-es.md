@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJFXNTC-es ieGeek Cámara de Vigilancia WiFi Interior Cámara IP WiFi...'
 sku: 'B07VJFXNTC-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

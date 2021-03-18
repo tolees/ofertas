@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FB6XKN-es SRAM Power Lock Cadena cierre color plata 4 packs de 2 piezas'
 sku: 'B075FB6XKN-es'
+tags: [  ]
 actualPrice: 10.15 EUR
 currency: EUR
 price: 10.15

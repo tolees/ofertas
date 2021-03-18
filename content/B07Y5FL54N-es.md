@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5FL54N-es Aprettysunny Tacón Alto Zapato'
 sku: 'B07Y5FL54N-es'
+tags: [  ]
 actualPrice: 2.88 EUR
 currency: EUR
 price: 2.88

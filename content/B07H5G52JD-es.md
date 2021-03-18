@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5G52JD-es X-TIGER Hombres Ropa Interior de Bicicleta con 5D Gel...'
 sku: 'B07H5G52JD-es'
+tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

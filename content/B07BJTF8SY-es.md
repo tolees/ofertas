@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJTF8SY-es Philips Barbero con Sistema de aspiración SBT720/15 Set...'
 sku: 'B07BJTF8SY-es'
+tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

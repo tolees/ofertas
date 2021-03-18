@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074TGFML6-es Parrot Mambo Fly - Dron cuadricóptero 30 Km/h 8 minutos de...'
 sku: 'B074TGFML6-es'
+tags: [  ]
 actualPrice: 58.9 EUR
 currency: EUR
 price: 58.9

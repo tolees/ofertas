@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLYJRWT-es WERNNSAI Juego Cumpleaños Pancartas - Vídeo Juego...'
 sku: 'B07RLYJRWT-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

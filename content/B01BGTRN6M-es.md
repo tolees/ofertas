@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGTRN6M-es G-STAR RAW Midge Saddle Mid Waist Bootcut Azul Dk Aged...'
 sku: 'B01BGTRN6M-es'
+tags: [  ]
 actualPrice: 35.34 EUR
 currency: EUR
 price: 35.34

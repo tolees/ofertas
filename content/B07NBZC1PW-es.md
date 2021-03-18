@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBZC1PW-es Samsung Silicone Cover funda oficial para Samsung Galaxy...'
 sku: 'B07NBZC1PW-es'
+tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

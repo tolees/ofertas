@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015WJR4FW-es Wenger Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B015WJR4FW-es'
+tags: [  ]
 actualPrice: 72.46 EUR
 currency: EUR
 price: 72.46

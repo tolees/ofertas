@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1VNJNL-es Maybelline New York - Fit Me Base de Maquillaje Mate Afina...'
 sku: 'B01N1VNJNL-es'
+tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

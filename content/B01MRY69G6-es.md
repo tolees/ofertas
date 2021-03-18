@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRY69G6-es NAUTICAL Classic Bag'
 sku: 'B01MRY69G6-es'
+tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

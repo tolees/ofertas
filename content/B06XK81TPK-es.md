@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XK81TPK-es Perixx PERIMICE-718 - Ratón Izquierda Diseño vertical...'
 sku: 'B06XK81TPK-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

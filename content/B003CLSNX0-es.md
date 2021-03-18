@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003CLSNX0-es FoodSaver FSR2802 Rollos de Envasado al Vacío FoodSaver 2...'
 sku: 'B003CLSNX0-es'
+tags: [  ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4DSPLX-es Skechers Bikers-Lineage Botas Estilo Motero para Mujer...'
 sku: 'B07B4DSPLX-es'
+tags: [  ]
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

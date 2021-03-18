@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCSNCDJ-es Bee Simulator [Versión Española]'
 sku: 'B07VCSNCDJ-es'
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

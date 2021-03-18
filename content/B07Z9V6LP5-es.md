@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z9V6LP5-es Ritiriko Unisex Zapatillas de Deporte para Hombre -...'
 sku: 'B07Z9V6LP5-es'
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

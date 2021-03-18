@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088M2X3QL-es Suhctup Funda Compatible con Xiaomi Redmi 7A Transparente...'
 sku: 'B088M2X3QL-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

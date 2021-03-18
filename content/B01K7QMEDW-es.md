@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QMEDW-es La Estrella Café Molido de tueste natural 50% y torrefacto...'
 sku: 'B01K7QMEDW-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

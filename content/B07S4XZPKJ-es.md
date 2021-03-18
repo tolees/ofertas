@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4XZPKJ-es New Balance 500 h Zapatillas para Hombre Azul Blue TSB 43 EU'
 sku: 'B07S4XZPKJ-es'
+tags: [  ]
 actualPrice: 44.23 EUR
 currency: EUR
 price: 44.23

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHQ8LBW-es Columbia IVO Trail Breeze Zapatillas Deportivas para...'
 sku: 'B07RHQ8LBW-es'
+tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

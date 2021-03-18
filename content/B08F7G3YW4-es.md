@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F7G3YW4-es Transmisor FM Bluetooth 5.0 Reproductor MP3 Coche QC3.0...'
 sku: 'B08F7G3YW4-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

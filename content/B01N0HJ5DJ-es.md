@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0HJ5DJ-es Salomon Speedcross Vario 2 GTX Calzado de Trail Running...'
 sku: 'B01N0HJ5DJ-es'
+tags: [  ]
 actualPrice: 60.65 EUR
 currency: EUR
 price: 60.65

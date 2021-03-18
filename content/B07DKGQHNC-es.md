@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKGQHNC-es Relaxdays Silla Oficina Ergonómica Regulable Rosa 102 x 55...'
 sku: 'B07DKGQHNC-es'
+tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

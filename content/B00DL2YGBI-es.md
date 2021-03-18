@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DL2YGBI-es Zwilling Kellnermesser Classic'
 sku: 'B00DL2YGBI-es'
+tags: [  ]
 actualPrice: 36.02 EUR
 currency: EUR
 price: 36.02

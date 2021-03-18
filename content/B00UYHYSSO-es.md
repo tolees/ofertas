@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UYHYSSO-es Superga 2750 COTU Classic Zapatillas Unisex Negro Total...'
 sku: 'B00UYHYSSO-es'
+tags: [  ]
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

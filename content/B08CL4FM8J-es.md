@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CL4FM8J-es VIBORA Tiger 2020'
 sku: 'B08CL4FM8J-es'
+tags: [  ]
 actualPrice: 114.95 EUR
 currency: EUR
 price: 114.95

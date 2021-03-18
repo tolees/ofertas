@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FSGK6F-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars...'
 sku: 'B083FSGK6F-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

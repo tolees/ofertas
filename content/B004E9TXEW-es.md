@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004E9TXEW-es GANT Solid Pique SS Rugger Polo para Hombre Blanco White...'
 sku: 'B004E9TXEW-es'
+tags: [  ]
 actualPrice: 44.61 EUR
 currency: EUR
 price: 44.61

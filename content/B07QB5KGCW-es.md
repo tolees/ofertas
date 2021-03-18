@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB5KGCW-es Laelr Ventilador de Mesa USB Mini Ventilador de Mesa con...'
 sku: 'B07QB5KGCW-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

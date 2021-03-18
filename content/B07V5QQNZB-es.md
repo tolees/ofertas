@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5QQNZB-es Tommy Hilfiger Modern Corporate Leather Runner Zapatillas...'
 sku: 'B07V5QQNZB-es'
+tags: [  ]
 actualPrice: 49.27 EUR
 currency: EUR
 price: 49.27

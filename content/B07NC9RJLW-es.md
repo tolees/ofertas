@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC9RJLW-es Pepe Jeans Stanley Pantalones Azul Blueing 565 W34/L32...'
 sku: 'B07NC9RJLW-es'
+tags: [  ]
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

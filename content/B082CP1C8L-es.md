@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082CP1C8L-es 2020 Auriculares inalámbricos Bluetooth actualizados con...'
 sku: 'B082CP1C8L-es'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

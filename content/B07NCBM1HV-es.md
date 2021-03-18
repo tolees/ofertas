@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NCBM1HV-es Pepe Jeans James Pantalones Azul Blueing 565 W32/L30 para...'
 sku: 'B07NCBM1HV-es'
+tags: [  ]
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

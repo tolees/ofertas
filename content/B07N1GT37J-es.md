@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1GT37J-es Clarks Griffin Lane Zapatos de Cordones Derby para Mujer...'
 sku: 'B07N1GT37J-es'
+tags: [  ]
 actualPrice: 40.68 EUR
 currency: EUR
 price: 40.68

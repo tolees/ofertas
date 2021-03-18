@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WCC24N-es MASERATI Reloj Analógico para Hombre de Automático con...'
 sku: 'B078WCC24N-es'
+tags: [  ]
 actualPrice: 244.18 EUR
 currency: EUR
 price: 244.18

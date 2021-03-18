@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ALCE9TY-es Forestry 2017'
 sku: 'B01ALCE9TY-es'
+tags: [  ]
 actualPrice: 18.67 EUR
 currency: EUR
 price: 18.67

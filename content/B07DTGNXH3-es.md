@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DTGNXH3-es Calcetines de Deporte Low Cut Pack de 5 Multicolor: 2 x...'
 sku: 'B07DTGNXH3-es'
+tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

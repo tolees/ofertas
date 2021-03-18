@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767MXM1C-es GB eye Taza Rick & Morty Better Call Morty Multicolor Unico'
 sku: 'B0767MXM1C-es'
+tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

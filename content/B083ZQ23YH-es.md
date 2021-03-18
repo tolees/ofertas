@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZQ23YH-es Fossil Smartwatch Pantalla táctil para Hombre de Connected...'
 sku: 'B083ZQ23YH-es'
+tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

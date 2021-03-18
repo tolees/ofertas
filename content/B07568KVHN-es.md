@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07568KVHN-es Skechers Classic Fit-Delson-Camden Men’s Sneakers Taupe 9...'
 sku: 'B07568KVHN-es'
+tags: [  ]
 actualPrice: 29.3 EUR
 currency: EUR
 price: 29.3

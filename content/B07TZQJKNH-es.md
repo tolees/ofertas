@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZQJKNH-es Finether Carretilla Plegable Carro de Transporte con 2...'
 sku: 'B07TZQJKNH-es'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

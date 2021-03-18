@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082TTGMH5-es Manga De Vibración De Doble Dedo Vïbradörès Dèdö...'
 sku: 'B082TTGMH5-es'
+tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NWGM8O-es Joop! Homme After Shave - 75ml'
 sku: 'B000NWGM8O-es'
+tags: [  ]
 actualPrice: 18.2 EUR
 currency: EUR
 price: 18.2

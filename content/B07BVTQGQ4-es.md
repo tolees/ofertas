@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BVTQGQ4-es seQoya - Purple Heart| Reloj de Madera con Esfera de...'
 sku: 'B07BVTQGQ4-es'
+tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

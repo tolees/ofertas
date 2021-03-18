@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGY62NZ-es Under Armour Blitzing II - Gorra Hombre Azul Midnight...'
 sku: 'B07KGY62NZ-es'
+tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

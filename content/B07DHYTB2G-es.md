@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHYTB2G-es Lacoste Graduate BL 1 SFA Zapatillas para Mujer Blanco...'
 sku: 'B07DHYTB2G-es'
+tags: [  ]
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

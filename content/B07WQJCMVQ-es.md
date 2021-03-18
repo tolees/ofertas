@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQJCMVQ-es Baoblaze Regla De Planchado En Caliente Patchwork Tailor...'
 sku: 'B07WQJCMVQ-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

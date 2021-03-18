@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7R6WF5-es Hually Funda Carcasa Gel para Huawei P30 Lite Transparente...'
 sku: 'B07R7R6WF5-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

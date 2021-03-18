@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C7L4UHI-es Capucha negra tela'
 sku: 'B01C7L4UHI-es'
+tags: [  ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

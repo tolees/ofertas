@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3B3XNM-es Essie Esmalte de Uñas 52 Thigh High'
 sku: 'B00A3B3XNM-es'
+tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

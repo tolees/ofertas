@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081GJJJVM-es Morpilot Multímetro Digital Verdadero RMS 6000 Cuenta...'
 sku: 'B081GJJJVM-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

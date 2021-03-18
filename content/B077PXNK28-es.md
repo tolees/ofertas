@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PXNK28-es Maybelline New York - The Colossal Big Shot Base de...'
 sku: 'B077PXNK28-es'
+tags: [  ]
 actualPrice: 4.34 EUR
 currency: EUR
 price: 4.34

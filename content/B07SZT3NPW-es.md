@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZT3NPW-es LEADSTAR Funda para Samsung Galaxy Tab A 10.1 2019 Ligero...'
 sku: 'B07SZT3NPW-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088LT1SG7-es qingqingR Estuche dispensador automático de bastoncillos...'
 sku: 'B088LT1SG7-es'
+tags: [  ]
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

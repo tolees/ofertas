@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WLM2T4C-es Reloj Guess - Hombre W0971G1'
 sku: 'B06WLM2T4C-es'
+tags: [  ]
 actualPrice: 113.4 EUR
 currency: EUR
 price: 113.4

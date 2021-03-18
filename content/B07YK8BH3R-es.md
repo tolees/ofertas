@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YK8BH3R-es EKKONG Scratch Art Manualidades para Niños 48PCS Scratch...'
 sku: 'B07YK8BH3R-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

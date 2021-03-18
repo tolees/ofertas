@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPX4VJ3-es bugatti 431846045059 Zapatillas para Mujer Blanco Blanco y...'
 sku: 'B07VPX4VJ3-es'
+tags: [  ]
 actualPrice: 23.87 EUR
 currency: EUR
 price: 23.87

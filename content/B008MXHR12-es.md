@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008MXHR12-es Premier Housewares - Cubo para compost color púrpura'
 sku: 'B008MXHR12-es'
+tags: [  ]
 actualPrice: 22.21 EUR
 currency: EUR
 price: 22.21

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNDZ339-es UniqueMe [3 Pack] Cristal Templado para Samsung Galaxy...'
 sku: 'B08DNDZ339-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

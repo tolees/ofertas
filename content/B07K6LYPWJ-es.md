@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6LYPWJ-es Columbia Buga II Mono de esquí Niños Azul Collegiate Navy...'
 sku: 'B07K6LYPWJ-es'
+tags: [  ]
 actualPrice: 82.53 EUR
 currency: EUR
 price: 82.53

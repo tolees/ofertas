@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2FCCGC-es JACK & JONES Jjiroy Jjjames Sa Noos Pantalones Verde Olive...'
 sku: 'B07S2FCCGC-es'
+tags: [  ]
 actualPrice: 8.14 EUR
 currency: EUR
 price: 8.14

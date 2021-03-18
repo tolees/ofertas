@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KWCRQM6-es Asics Mexico 66 Zapatillas Unisex Blanco White/White 0101...'
 sku: 'B00KWCRQM6-es'
+tags: [  ]
 actualPrice: 51.3 EUR
 currency: EUR
 price: 51.3

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5S5BK1-es Cronus y Rhea® | Carpeta Exclusiva de Cuero Exclusivo...'
 sku: 'B06W5S5BK1-es'
+tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

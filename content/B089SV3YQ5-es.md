@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SV3YQ5-es Cortador de pan Faminess hecho a mano cortador para masa...'
 sku: 'B089SV3YQ5-es'
+tags: [  ]
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

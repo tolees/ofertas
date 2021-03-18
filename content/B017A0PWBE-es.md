@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017A0PWBE-es Norton Security Deluxe 2019 - Antivirus PC/Mac/iOS/Android...'
 sku: 'B017A0PWBE-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RMDNLH-es Columbia SANTIAM 2 Strap Zapatillas para Hombre Gris Dark...'
 sku: 'B073RMDNLH-es'
+tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

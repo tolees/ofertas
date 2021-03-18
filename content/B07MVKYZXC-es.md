@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVKYZXC-es Napapijri Eisberg SS Polo Blanco Bright White 002 Small...'
 sku: 'B07MVKYZXC-es'
+tags: [  ]
 actualPrice: 23.21 EUR
 currency: EUR
 price: 23.21

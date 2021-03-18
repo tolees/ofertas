@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQZQJU0-es New Balance 247v1 Zapatillas para Hombre Negro Black/White...'
 sku: 'B01MQZQJU0-es'
+tags: [  ]
 actualPrice: 65.97 EUR
 currency: EUR
 price: 65.97

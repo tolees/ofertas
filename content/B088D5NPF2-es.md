@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088D5NPF2-es Suhctup Funda Compatible para Xiaomi Mi 6 Carcasa...'
 sku: 'B088D5NPF2-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

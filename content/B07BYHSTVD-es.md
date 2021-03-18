@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BYHSTVD-es Trueno Kids 2.0'
 sku: 'B07BYHSTVD-es'
+tags: [  ]
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

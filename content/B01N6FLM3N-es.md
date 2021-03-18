@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6FLM3N-es Motorola MBP 481 - Vigilabebés vídeo con pantalla LCD a...'
 sku: 'B01N6FLM3N-es'
+tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPH2S65-es POWER DOUGH Multicolor Canal Toys Amazon ES1 DP016'
 sku: 'B07DPH2S65-es'
+tags: [  ]
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

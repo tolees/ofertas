@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083WF3GHZ-es KYEYGWO Runas de Piedras Set con Gravur Golden Elder...'
 sku: 'B083WF3GHZ-es'
+tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

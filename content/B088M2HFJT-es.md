@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088M2HFJT-es Suhctup Funda Compatible con Xiaomi Mi 9 Transparente...'
 sku: 'B088M2HFJT-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

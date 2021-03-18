@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT7MCQY-es Syoss Espuma Keratin - 250 ml'
 sku: 'B07TT7MCQY-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

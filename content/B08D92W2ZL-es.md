@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D92W2ZL-es Mono Azul Atrevido Bolsa de Mano de Compra Reutilizable...'
 sku: 'B08D92W2ZL-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

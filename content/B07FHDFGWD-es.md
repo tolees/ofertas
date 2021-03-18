@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FHDFGWD-es PUMA Puma Vikky v2 Ribbon P Zapatillas Mujer Negro Puma...'
 sku: 'B07FHDFGWD-es'
+tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

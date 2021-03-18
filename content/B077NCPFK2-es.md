@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NCPFK2-es modamoda de - pequeño de cuero embrague ital metálico...'
 sku: 'B077NCPFK2-es'
+tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

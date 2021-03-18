@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHKFZH6-es JACK & JONES Jfwabbott PU Botas Chelsea para Hombre Negro...'
 sku: 'B07CHKFZH6-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M2X0OH9-es Scholl Velvet Smooth Diamond Crystals - Lima electrónica...'
 sku: 'B01M2X0OH9-es'
+tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

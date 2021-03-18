@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG5LSQ5-es PUMA Tarrenz SB Zapatillas Unisex Adulto Black-Whisper...'
 sku: 'B07KG5LSQ5-es'
+tags: [  ]
 actualPrice: 36.58 EUR
 currency: EUR
 price: 36.58

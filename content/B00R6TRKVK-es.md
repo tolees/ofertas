@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R6TRKVK-es Nike Y Nk H86 Cap Metal Swoosh Hat Unisex niños Azul...'
 sku: 'B00R6TRKVK-es'
+tags: [  ]
 actualPrice: 2.01 EUR
 currency: EUR
 price: 2.01

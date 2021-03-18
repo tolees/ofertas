@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXPV2FJ-es Energy Sistem Tower 1 - Sistema de altavoces en torre con...'
 sku: 'B01MXPV2FJ-es'
+tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

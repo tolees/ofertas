@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C8LVTCJ-es Fantasy Flight Games- AT-ST FFSWL08'
 sku: 'B07C8LVTCJ-es'
+tags: [  ]
 actualPrice: 24.81 EUR
 currency: EUR
 price: 24.81

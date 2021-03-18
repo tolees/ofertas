@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSN9MXD-es Llave inglesa multifunción 48 en 1 llave universal con...'
 sku: 'B07PSN9MXD-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

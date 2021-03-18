@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WR3WQZU-es Skechers Equalizer Double Play Men s Fitness Shoes Blue...'
 sku: 'B00WR3WQZU-es'
+tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

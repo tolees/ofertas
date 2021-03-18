@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9DCNNC-es Máscara para los ojos del sueño - Máscara para los ojos...'
 sku: 'B07V9DCNNC-es'
+tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

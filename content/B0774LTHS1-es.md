@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774LTHS1-es Herramienta de Espaciador de Cuero Puntada de Costura de...'
 sku: 'B0774LTHS1-es'
+tags: [  ]
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

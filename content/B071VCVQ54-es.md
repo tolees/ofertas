@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VCVQ54-es ASUS BRT-AC828 - Router Dual-WAN AC2600 para Empresa...'
 sku: 'B071VCVQ54-es'
+tags: [  ]
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

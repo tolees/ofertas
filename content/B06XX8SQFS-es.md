@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XX8SQFS-es New Balance WL574EB Zapatillas Mujer Gris Grey 35 EU'
 sku: 'B06XX8SQFS-es'
+tags: [  ]
 actualPrice: 46.58 EUR
 currency: EUR
 price: 46.58

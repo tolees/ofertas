@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WW4BMJ8-es MEGALITH Relojes Hombre Relojes Grandes de Pulsera...'
 sku: 'B07WW4BMJ8-es'
+tags: [  ]
 actualPrice: 33.29 EUR
 currency: EUR
 price: 33.29

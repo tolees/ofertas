@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ERS8CLO-es Joma Drive Bermuda Deporte Hombre Blanco 4XS-3XS'
 sku: 'B01ERS8CLO-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

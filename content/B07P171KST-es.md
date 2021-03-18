@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P171KST-es FITTOO Mallas Pantalones Deportivos Mujer Elásticos...'
 sku: 'B07P171KST-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

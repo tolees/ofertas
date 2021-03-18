@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH3X28L-es Tommy Hilfiger Formal Reversbile Adjustable 3.5 Cinturón...'
 sku: 'B07RH3X28L-es'
+tags: [  ]
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L06LV5K-es Pulsar Reloj Digital para Unisex de Analogico con Correa...'
 sku: 'B01L06LV5K-es'
+tags: [  ]
 actualPrice: 122.49 EUR
 currency: EUR
 price: 122.49

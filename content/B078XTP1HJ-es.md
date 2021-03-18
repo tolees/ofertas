@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XTP1HJ-es Kitchen Emperor Cuchillo de Cocina Profesional Cuchillo de...'
 sku: 'B078XTP1HJ-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

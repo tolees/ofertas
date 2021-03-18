@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001AZSFHE-es Solgar D-Ribosa en Polvo 150 g'
 sku: 'B001AZSFHE-es'
+tags: [  ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

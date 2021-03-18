@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HQ44XGY-es Donna Karan DKNY Be Tempted Eau de Perfumé - 50 ml'
 sku: 'B01HQ44XGY-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

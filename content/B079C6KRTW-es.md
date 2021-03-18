@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079C6KRTW-es Jack & Jones Jjepaulos Polo SS Noos Azul Bright Cobalt...'
 sku: 'B079C6KRTW-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

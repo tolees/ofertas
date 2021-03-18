@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5JTW3M-es Stranger Things 13072 Figura de acción varios color/modelo...'
 sku: 'B07H5JTW3M-es'
+tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

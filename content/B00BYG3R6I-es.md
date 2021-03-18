@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BYG3R6I-es Nike T-Lite XI Zapatillas Hombre Negro Black 45'
 sku: 'B00BYG3R6I-es'
+tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

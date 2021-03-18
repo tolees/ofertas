@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FCR7T6F-es LNLYY Stranger Things Galaxy A9 Star Lite 2018 Funda...'
 sku: 'B08FCR7T6F-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

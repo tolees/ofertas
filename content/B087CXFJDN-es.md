@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087CXFJDN-es Coolcept Women Casual Slip On Court Shoes Flat Pumps Shoes...'
 sku: 'B087CXFJDN-es'
+tags: [  ]
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

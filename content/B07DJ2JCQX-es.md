@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ2JCQX-es New Balance 997H Core h Zapatillas para Hombre Morado Dark...'
 sku: 'B07DJ2JCQX-es'
+tags: [  ]
 actualPrice: 37.43 EUR
 currency: EUR
 price: 37.43

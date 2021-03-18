@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XPG6WF1-es 1 - B.Catcher Silver Necklace Pearl Jewellery 925...'
 sku: 'B06XPG6WF1-es'
+tags: [  ]
 actualPrice: 13.87 EUR
 currency: EUR
 price: 13.87

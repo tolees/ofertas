@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BQPTZD-es MENGH Teppich Küche 140x140cm Schlafzimmer Teppiche...'
 sku: 'B083BQPTZD-es'
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

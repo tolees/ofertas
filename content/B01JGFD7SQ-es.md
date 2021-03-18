@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JGFD7SQ-es Bourjois Boite Ronde Sombra de ojos Tono 9 Lunaire - 16 gr.'
 sku: 'B01JGFD7SQ-es'
+tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

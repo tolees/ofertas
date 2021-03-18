@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SP4GGN1-es Under Armour Sportstyle Logo Tank Tanque Hombre Azul...'
 sku: 'B07SP4GGN1-es'
+tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

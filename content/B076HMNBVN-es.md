@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HMNBVN-es adidas Core18 PES Pnt Pantalones de Deporte Hombre Azul...'
 sku: 'B076HMNBVN-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

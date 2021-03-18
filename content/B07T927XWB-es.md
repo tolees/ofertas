@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T927XWB-es Belkin ScreenForce TemperedGlass - Protector de Pantalla...'
 sku: 'B07T927XWB-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

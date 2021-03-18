@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZHCN2HQ-es Pitaya Afilador De Cuchillos Profesional Amoladora Angular...'
 sku: 'B07ZHCN2HQ-es'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

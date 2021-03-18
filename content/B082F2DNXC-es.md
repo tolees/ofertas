@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082F2DNXC-es Luces solares al aire libre 100 LED 8 modos Luces solares...'
 sku: 'B082F2DNXC-es'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876VDW6D-es Disco Duro Externo 2 TB klfjskldjflksjdkfd. 2TB Negro'
 sku: 'B0876VDW6D-es'
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

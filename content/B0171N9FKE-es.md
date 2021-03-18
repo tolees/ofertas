@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0171N9FKE-es MyCarSit - Asiento de coche para niños respaldo alto 9 a...'
 sku: 'B0171N9FKE-es'
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

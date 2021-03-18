@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBNXRV2-es Helly Hansen Traverse Beanie Gorro Sombrero de Invierno...'
 sku: 'B07LBNXRV2-es'
+tags: [  ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

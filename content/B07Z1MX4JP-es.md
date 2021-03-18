@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z1MX4JP-es Compatible con Samsung Galaxy S8 diseño de mármol 360...'
 sku: 'B07Z1MX4JP-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

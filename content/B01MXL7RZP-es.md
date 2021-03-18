@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXL7RZP-es Starcraft II Battlechest 2.0'
 sku: 'B01MXL7RZP-es'
+tags: [  ]
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

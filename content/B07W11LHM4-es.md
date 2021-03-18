@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W11LHM4-es Skechers MAX Cushioning Elite Zapatillas para Hombre Negro...'
 sku: 'B07W11LHM4-es'
+tags: [  ]
 actualPrice: 45.88 EUR
 currency: EUR
 price: 45.88

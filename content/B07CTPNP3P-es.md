@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTPNP3P-es FIND - Camouflaged Pink Perfilador de labios n.7 + Líquido...'
 sku: 'B07CTPNP3P-es'
+tags: [  ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

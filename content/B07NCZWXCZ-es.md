@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NCZWXCZ-es SYOSS - Reavivador de Rizos y Ondas - Efecto Anti...'
 sku: 'B07NCZWXCZ-es'
+tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

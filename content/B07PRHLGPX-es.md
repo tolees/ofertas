@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRHLGPX-es 100 Etiquetas Termoadhesivas Personalizadas con Icono para...'
 sku: 'B07PRHLGPX-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

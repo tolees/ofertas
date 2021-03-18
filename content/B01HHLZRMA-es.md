@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HHLZRMA-es Crocs Fun Lab Minions Clog Unisex Niños Zueco Azul Ocean...'
 sku: 'B01HHLZRMA-es'
+tags: [  ]
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

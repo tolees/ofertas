@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087X8GSS3-es P Prettyia 2.5"500G 1T 2T Unidad De Disco Duro Externo USB...'
 sku: 'B087X8GSS3-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

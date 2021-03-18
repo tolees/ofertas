@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHPR96S-es SweetLF Afeitadora Electrica Hombre Máquina de Afeitar...'
 sku: 'B07PHPR96S-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

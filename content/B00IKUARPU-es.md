@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IKUARPU-es Smiffys Aloha! Traje - destacan Trajes Adultas - Disfraz -...'
 sku: 'B00IKUARPU-es'
+tags: [  ]
 actualPrice: 26.46 EUR
 currency: EUR
 price: 26.46

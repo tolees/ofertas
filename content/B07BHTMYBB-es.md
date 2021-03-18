@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHTMYBB-es Orient Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07BHTMYBB-es'
+tags: [  ]
 actualPrice: 44.63 EUR
 currency: EUR
 price: 44.63

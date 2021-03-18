@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9RQ5N5-es PUMA Nova 2 WN S Zapatillas Deportivas para Mujer Blanco...'
 sku: 'B07S9RQ5N5-es'
+tags: [  ]
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

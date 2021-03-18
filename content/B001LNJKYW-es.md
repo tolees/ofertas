@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001LNJKYW-es Samsung MLT-D2082L/ELS - Tóner AC SCX-5635FN/5835FN color...'
 sku: 'B001LNJKYW-es'
+tags: [  ]
 actualPrice: 76.97 EUR
 currency: EUR
 price: 76.97

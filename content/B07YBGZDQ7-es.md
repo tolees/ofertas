@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBGZDQ7-es Vans Colorblock tee Camiseta Multicolor Sulphur...'
 sku: 'B07YBGZDQ7-es'
+tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

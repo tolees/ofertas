@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5K7FLC-es Salomon XA Visor Visera Unisex Adulto Blanco Talla única...'
 sku: 'B07H5K7FLC-es'
+tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

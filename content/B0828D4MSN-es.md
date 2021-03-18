@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0828D4MSN-es Searchyou True Blue Mini Ultradrive Pack con 813 Juegos...'
 sku: 'B0828D4MSN-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

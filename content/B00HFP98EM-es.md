@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HFP98EM-es Zwilling Twin Nova - Juego de 113 cubiertos de mesa acero...'
 sku: 'B00HFP98EM-es'
+tags: [  ]
 actualPrice: 179.49 EUR
 currency: EUR
 price: 179.49

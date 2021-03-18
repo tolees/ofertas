@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGTO85Q-es G-Star Raw Bronson Pantalones Para Hombre Gris Grey W28/L30'
 sku: 'B01BGTO85Q-es'
+tags: [  ]
 actualPrice: 27.17 EUR
 currency: EUR
 price: 27.17

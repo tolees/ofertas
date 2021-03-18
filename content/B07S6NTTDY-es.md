@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6NTTDY-es PUMA COURTFLEX V2 V INF Zapatillas Unisex niños Azul...'
 sku: 'B07S6NTTDY-es'
+tags: [  ]
 actualPrice: 10.02 EUR
 currency: EUR
 price: 10.02

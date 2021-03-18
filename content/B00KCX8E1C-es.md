@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KCX8E1C-es GoPro Bodyboard Mount - Soporte para Cámara Gopro de 3.8...'
 sku: 'B00KCX8E1C-es'
+tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B42MF7N-es Ravensburger-00.016.099 Puzle Shaped Mickey Color Amarillo...'
 sku: 'B07B42MF7N-es'
+tags: [  ]
 actualPrice: 21.56 EUR
 currency: EUR
 price: 21.56

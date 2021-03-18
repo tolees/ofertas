@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGCS7WF-es AJOXEL Antifaz para Dormir Máscara De Dormir Antifaz Gel...'
 sku: 'B07SGCS7WF-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

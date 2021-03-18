@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014RD18XI-es Elten 2062237 - Luis s3 tamaño 49 zapato de seguridad'
 sku: 'B014RD18XI-es'
+tags: [  ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VT3BFKK-es Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta Gris...'
 sku: 'B07VT3BFKK-es'
+tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

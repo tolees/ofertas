@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AH4USY6-es Cruzado Azul - M/L'
 sku: 'B01AH4USY6-es'
+tags: [  ]
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

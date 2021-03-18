@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWMVGVN-es Element Blazin SS Camisetas Hombre Blanco Optic White XS'
 sku: 'B07DWMVGVN-es'
+tags: [  ]
 actualPrice: 6.03 EUR
 currency: EUR
 price: 6.03

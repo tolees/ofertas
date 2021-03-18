@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6Y63QU-es Samsung Silicone Funda para smartphone Samsung Galaxy S8...'
 sku: 'B01N6Y63QU-es'
+tags: [  ]
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

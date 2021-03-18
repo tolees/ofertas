@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FAD71KY-es Samsung EE-V200SA - Soporte de móviles para coches Diseño...'
 sku: 'B00FAD71KY-es'
+tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC2L2RB-es Hackett New Classic Polo Verde 6fpfir Green 6fp L para Hombre'
 sku: 'B07VC2L2RB-es'
+tags: [  ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

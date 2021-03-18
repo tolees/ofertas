@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XXJRV3-es Scuderia Ferrari Reloj Análogo clásico para Hombre de...'
 sku: 'B073XXJRV3-es'
+tags: [  ]
 actualPrice: 94.45 EUR
 currency: EUR
 price: 94.45

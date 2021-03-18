@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IUP7NFQ-es Ultima Pienso para Gatos Adulto con Pollo'
 sku: 'B01IUP7NFQ-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDKMGP7-es VBIGER Riñonera Running para Botellas de Agua Bolsa...'
 sku: 'B07WDKMGP7-es'
+tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

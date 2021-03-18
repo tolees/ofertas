@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1VDT4S-es TATAY Urban Food Roll&Go Denim Blue - Bolsa térmica porta...'
 sku: 'B07Y1VDT4S-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

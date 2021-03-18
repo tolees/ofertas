@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I9GDDTG-es Ceva Feliway Friends - Recambio kit de iniciación para...'
 sku: 'B01I9GDDTG-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

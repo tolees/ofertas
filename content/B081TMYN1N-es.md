@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TMYN1N-es adidas UNIFO LGE Balón de Fútbol Men s White/Black/Signal...'
 sku: 'B081TMYN1N-es'
+tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

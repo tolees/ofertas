@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZFDP4F-es Ferilinso Funda para Xiaomi Redmi 7A Elegante Armadura...'
 sku: 'B07TZFDP4F-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

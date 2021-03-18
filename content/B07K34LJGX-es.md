@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K34LJGX-es Bolsas de plástico resellables bolsa sellada bolsa de...'
 sku: 'B07K34LJGX-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

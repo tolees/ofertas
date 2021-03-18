@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZZON82-es shenky - Gorro caído - Diseño Vintage - Fantasía 2 - Talla...'
 sku: 'B01MZZON82-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

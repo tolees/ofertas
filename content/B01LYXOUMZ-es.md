@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYXOUMZ-es Taurus Phoenix-Sandwichera 800 W 2 Indicadores Luminosos...'
 sku: 'B01LYXOUMZ-es'
+tags: [  ]
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

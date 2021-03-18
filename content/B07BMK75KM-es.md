@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BMK75KM-es Fantasy Flight Games- Soldados de Asalto FFSWL07'
 sku: 'B07BMK75KM-es'
+tags: [  ]
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NALDZLH-es Vans Classic Slip-on Platform Zapatillas sin Cordones para...'
 sku: 'B01NALDZLH-es'
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

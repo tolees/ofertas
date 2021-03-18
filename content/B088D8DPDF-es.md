@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088D8DPDF-es Suhctup Funda Compatible para Xiaomi Redmi 6 Carcasa...'
 sku: 'B088D8DPDF-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

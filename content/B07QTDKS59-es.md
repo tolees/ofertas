@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QTDKS59-es Focusrite Scarlett Solo Studio 3rd Gen Interfaz de Audio...'
 sku: 'B07QTDKS59-es'
+tags: [  ]
 actualPrice: 146.61 EUR
 currency: EUR
 price: 146.61

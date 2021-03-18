@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825X4GRB-es Facial Patches Parches Faciales Antiarrugas Parches...'
 sku: 'B0825X4GRB-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

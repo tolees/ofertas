@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872LNKWG-es NMBC Cojín de Asiento de Coche con Cuentas de Madera 1 con...'
 sku: 'B0872LNKWG-es'
+tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

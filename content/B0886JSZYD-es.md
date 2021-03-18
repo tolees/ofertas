@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0886JSZYD-es 10x Mascarilla KN***95'
 sku: 'B0886JSZYD-es'
+tags: [  ]
 actualPrice: 5.54 EUR
 currency: EUR
 price: 5.54

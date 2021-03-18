@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BP5X8DS-es TOPOSH Windows 10 Ordenador Portátil 10 1" 4 GB RAM+64 GB...'
 sku: 'B08BP5X8DS-es'
+tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

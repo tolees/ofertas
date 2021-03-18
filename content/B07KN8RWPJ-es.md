@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KN8RWPJ-es AUKEY Batería Externa de 5000 mAh Cargadores portátiles...'
 sku: 'B07KN8RWPJ-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

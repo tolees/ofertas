@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2QNLD6-es New Balance Draft Zapatillas para Correr de Carretera para...'
 sku: 'B07S2QNLD6-es'
+tags: [  ]
 actualPrice: 28.32 EUR
 currency: EUR
 price: 28.32

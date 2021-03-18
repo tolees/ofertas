@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZTRLF4-es Under Armour Qualifier 2-In-1 Pantalones Cortos Hombre...'
 sku: 'B07QZTRLF4-es'
+tags: [  ]
 actualPrice: 29.09 EUR
 currency: EUR
 price: 29.09

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KHSUQ62-es Revlon Ultra HD Gel Pintalabios Vineyard'
 sku: 'B01KHSUQ62-es'
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

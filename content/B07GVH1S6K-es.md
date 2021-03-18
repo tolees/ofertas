@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVH1S6K-es Nobleza - 1080 Conde Bolsas de Caca Perro Bolsas para...'
 sku: 'B07GVH1S6K-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

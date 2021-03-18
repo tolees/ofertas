@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC4CM2X-es Hackett London Amr SS Polo Navy/Multi 5cv Large para Hombre'
 sku: 'B07MC4CM2X-es'
+tags: [  ]
 actualPrice: 65.92 EUR
 currency: EUR
 price: 65.92

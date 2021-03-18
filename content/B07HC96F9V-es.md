@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HC96F9V-es Botas de Nieve Antideslizantes Impermeables Clásicas para...'
 sku: 'B07HC96F9V-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

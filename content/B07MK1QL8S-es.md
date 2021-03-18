@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QL8S-es Napapijri Moto Wint Pantalones Verde Green Forest 2 GE3 42...'
 sku: 'B07MK1QL8S-es'
+tags: [  ]
 actualPrice: 34.34 EUR
 currency: EUR
 price: 34.34

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WPBMLWK-es Cable USB-A 2.0 a USB Tipo C Certificado USB-IF con Forro...'
 sku: 'B06WPBMLWK-es'
+tags: [  ]
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083J28XTJ-es BENYAR Cuarzo cronógrafo Impermeable Relojes Business...'
 sku: 'B083J28XTJ-es'
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

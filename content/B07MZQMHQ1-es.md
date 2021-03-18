@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQMHQ1-es Pepe Jeans Finly Jeans Black Used Denim 000 2 años para Niños'
 sku: 'B07MZQMHQ1-es'
+tags: [  ]
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXKHP6C-es Tommy Hilfiger Thong Tanga Blanco White 100 Medium para Mujer'
 sku: 'B07MXKHP6C-es'
+tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

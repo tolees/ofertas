@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZSYTTM-es Magicfun Mini Ventilador de Mano Ventilador USB de 3000mAh...'
 sku: 'B083ZSYTTM-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

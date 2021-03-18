@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS2G8ZV-es Luces De Jardin Solares Qomolo 30 LED Luz Jardín IP65...'
 sku: 'B07VS2G8ZV-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2KWG46-es Baoblaze 2 Pares Altavoces de Audio para Automóvil Junta...'
 sku: 'B07H2KWG46-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

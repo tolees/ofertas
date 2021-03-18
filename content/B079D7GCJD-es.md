@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079D7GCJD-es s.Oliver Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B079D7GCJD-es'
+tags: [  ]
 actualPrice: 38.43 EUR
 currency: EUR
 price: 38.43

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q5YTKHG-es Superdry Classic Pique S/s Polo Azul Pilot Mid Blue J6p...'
 sku: 'B07Q5YTKHG-es'
+tags: [  ]
 actualPrice: 20.83 EUR
 currency: EUR
 price: 20.83

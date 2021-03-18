@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQXB1ZP-es Cinturón de Calefacción Eléctrico para la Parte Inferior...'
 sku: 'B07WQXB1ZP-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

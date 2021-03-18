@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U8QXJDQ-es Beter Lima Uñas Pedicura Cerámica 19.8 cm - 1 Unidad'
 sku: 'B00U8QXJDQ-es'
+tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

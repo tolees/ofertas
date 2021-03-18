@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0743C1GJM-es Amzdeal Mesa de Luz Dibujo A4 LED Portátil Tableta de Luz...'
 sku: 'B0743C1GJM-es'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

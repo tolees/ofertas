@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV9SYCV-es Kipling - Amiel Bolsos maletín Mujer Negro Black Indigo...'
 sku: 'B07MV9SYCV-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

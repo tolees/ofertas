@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0841VCDR6-es Generador de ozono Ionizador Purificador de aire...'
 sku: 'B0841VCDR6-es'
+tags: [  ]
 actualPrice: 52.01 EUR
 currency: EUR
 price: 52.01

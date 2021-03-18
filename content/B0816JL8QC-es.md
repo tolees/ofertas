@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0816JL8QC-es Ferilinso Cristal Templado para Xiaomi Redmi Note 8T...'
 sku: 'B0816JL8QC-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

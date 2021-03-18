@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LLH6X9W-es Monix Mineral - Cacerola alta 20 cm aluminio forjado con...'
 sku: 'B01LLH6X9W-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

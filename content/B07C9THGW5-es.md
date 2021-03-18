@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C9THGW5-es Mr. Wonderful Llavero Mamátesales Metal Verde 5x4.9x0.2 cm'
 sku: 'B07C9THGW5-es'
+tags: [  ]
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQTRTSD-es New Balance 373 Zapatillas para Hombre Amarillo Yellow...'
 sku: 'B07PQTRTSD-es'
+tags: [  ]
 actualPrice: 40 EUR
 currency: EUR
 price: 40

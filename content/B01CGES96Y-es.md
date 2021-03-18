@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CGES96Y-es Relec Infantil Spray Antimosquitos | Fórmula especial para...'
 sku: 'B01CGES96Y-es'
+tags: [  ]
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B55GWR6-es Gabol Maleta Unisex Azul 50 cm'
 sku: 'B07B55GWR6-es'
+tags: [  ]
 actualPrice: 33.11 EUR
 currency: EUR
 price: 33.11

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFK239N-es Amazon Essentials Studio Relaxed-Fit Crewneck T-Shirt...'
 sku: 'B07FFK239N-es'
+tags: [  ]
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

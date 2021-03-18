@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ3MP48-es Salomon PROLOG 25 BAG Bolsa'
 sku: 'B07NJ3MP48-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

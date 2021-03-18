@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZLXRZ2-es New Balance 574v2 Zapatillas para Mujer Negro Black SAU 40 EU'
 sku: 'B07RZLXRZ2-es'
+tags: [  ]
 actualPrice: 49.19 EUR
 currency: EUR
 price: 49.19

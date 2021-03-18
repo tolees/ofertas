@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLP8CY6-es Clarks Stanford Zip Botas Chelsea para Hombre Marrón Tan...'
 sku: 'B07TLP8CY6-es'
+tags: [  ]
 actualPrice: 54.44 EUR
 currency: EUR
 price: 54.44

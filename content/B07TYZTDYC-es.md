@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYZTDYC-es QHOHQ Protector de Pantalla para Echo Show 5 [3 Unidades]...'
 sku: 'B07TYZTDYC-es'
+tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

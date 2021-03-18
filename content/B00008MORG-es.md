@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00008MORG-es Max Factor LipFinity Classic Pintalabios Tono 110...'
 sku: 'B00008MORG-es'
+tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

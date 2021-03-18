@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002DP8IEK-es Shure SRH840 - Auriculares de Diadema abiertos Negro...'
 sku: 'B002DP8IEK-es'
+tags: [  ]
 actualPrice: 86.95 EUR
 currency: EUR
 price: 86.95

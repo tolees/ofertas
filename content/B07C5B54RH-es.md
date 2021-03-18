@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C5B54RH-es Flamenco Sala'
 sku: 'B07C5B54RH-es'
+tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

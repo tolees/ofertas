@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH3Z79T-es Pepe Jeans Jose Pm701939 suéter Sherwood 664 Large para...'
 sku: 'B07JH3Z79T-es'
+tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

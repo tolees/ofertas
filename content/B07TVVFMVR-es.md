@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVVFMVR-es Skechers Equalizer 4.0 Zapatillas para Hombre Azul Black...'
 sku: 'B07TVVFMVR-es'
+tags: [  ]
 actualPrice: 29.14 EUR
 currency: EUR
 price: 29.14

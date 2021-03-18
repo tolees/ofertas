@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMWSLPN-es Wrangler Arizona Pantalones BLU Navy 11 42W / 32L para Hombre'
 sku: 'B07MMWSLPN-es'
+tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

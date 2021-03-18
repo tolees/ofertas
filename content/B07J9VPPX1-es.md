@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J9VPPX1-es Asics Gel-Odyssey Walking Shoe Womens Black/Black 39 EU'
 sku: 'B07J9VPPX1-es'
+tags: [  ]
 actualPrice: 58.85 EUR
 currency: EUR
 price: 58.85

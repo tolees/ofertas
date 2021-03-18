@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N7JKNQD-es V7 SB2526-USB-6E Altavoz soundbar Negro - Barra de Sonido...'
 sku: 'B07N7JKNQD-es'
+tags: [  ]
 actualPrice: 6.91 EUR
 currency: EUR
 price: 6.91

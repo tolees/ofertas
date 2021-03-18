@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001ELSSOO-es Seiko Reloj Analógico Automático para Hombre con Correa de...'
 sku: 'B001ELSSOO-es'
+tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

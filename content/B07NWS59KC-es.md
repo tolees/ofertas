@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NWS59KC-es AICOOK Tetera eléctrica hervidor eléctrico y tetera 2 en 1...'
 sku: 'B07NWS59KC-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

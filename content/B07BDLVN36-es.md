@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDLVN36-es Westt Torque X - Casco De Moto Modular Integral con Doble...'
 sku: 'B07BDLVN36-es'
+tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

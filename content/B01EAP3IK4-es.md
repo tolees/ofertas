@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EAP3IK4-es Pantalones de chándal para hombre de la marca Lonsdale...'
 sku: 'B01EAP3IK4-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

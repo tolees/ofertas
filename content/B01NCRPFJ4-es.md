@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCRPFJ4-es Carbón Activado Premium – Polvo 100 % orgánico – Sin...'
 sku: 'B01NCRPFJ4-es'
+tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

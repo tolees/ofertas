@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDMTJF7-es G-STAR RAW Drego Belt Cinturón Multicolor Natural/Antic...'
 sku: 'B07NDMTJF7-es'
+tags: [  ]
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

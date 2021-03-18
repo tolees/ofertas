@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PPZZFF-es Disfraz de Cowboy a hombros de Caballo para adultos'
 sku: 'B077PPZZFF-es'
+tags: [  ]
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

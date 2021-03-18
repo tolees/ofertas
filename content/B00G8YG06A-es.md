@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G8YG06A-es Juvena Superior Miracle Cream Tratamiento Facial - 75 ml'
 sku: 'B00G8YG06A-es'
+tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

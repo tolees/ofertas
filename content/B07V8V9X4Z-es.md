@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8V9X4Z-es Tommy Hilfiger Wmns Retro Flag Sneaker Zapatillas para...'
 sku: 'B07V8V9X4Z-es'
+tags: [  ]
 actualPrice: 32.28 EUR
 currency: EUR
 price: 32.28

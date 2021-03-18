@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZK45S2-es SOONSOP - Funda para Samsung Galaxy A50 Multicolor...'
 sku: 'B07WZK45S2-es'
+tags: [  ]
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

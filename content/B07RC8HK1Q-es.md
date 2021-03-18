@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RC8HK1Q-es Columbia Altitude Aspect Forro Polar Hombre Azul Dark...'
 sku: 'B07RC8HK1Q-es'
+tags: [  ]
 actualPrice: 39.59 EUR
 currency: EUR
 price: 39.59

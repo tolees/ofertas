@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082X4PMQD-es neefeaer Adaptador USB C a HDMI VGA 4k USB C Hub con 4K...'
 sku: 'B082X4PMQD-es'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3S5WKQ-es Diadermine - Tiras Purificantes pieles normales/mixtas- 2...'
 sku: 'B07N3S5WKQ-es'
+tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

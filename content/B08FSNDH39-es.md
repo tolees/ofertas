@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FSNDH39-es Auriculares Bluetooth Auriculares inalámbricos 5.0...'
 sku: 'B08FSNDH39-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

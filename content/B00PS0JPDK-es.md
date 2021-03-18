@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PS0JPDK-es D-Link DGS-1100-05 - Switch 5 Puertos Gigabit 1000 Mbps...'
 sku: 'B00PS0JPDK-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

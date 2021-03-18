@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C5PV4VB-es IntimaTe WM Heart 2 x Taburetes de Bar Cuadrado y Moderno...'
 sku: 'B07C5PV4VB-es'
+tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

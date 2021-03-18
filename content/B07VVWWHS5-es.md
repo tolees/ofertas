@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVWWHS5-es Jojoin Agua Dibujo Pintura 100x100 cm Alfombra de Agua...'
 sku: 'B07VVWWHS5-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

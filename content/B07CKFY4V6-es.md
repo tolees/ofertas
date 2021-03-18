@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKFY4V6-es Funko- Pop Bobble: Marvel: Ant-Man & The Wasp w/Chase Man...'
 sku: 'B07CKFY4V6-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

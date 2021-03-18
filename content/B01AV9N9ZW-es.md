@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AV9N9ZW-es Arquivet Gran Canaria - Jaula colores Surtidos 40 x 26 x...'
 sku: 'B01AV9N9ZW-es'
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

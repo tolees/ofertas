@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000RB6TKW-es reisenthel CU 0004 - Carro de la Compra Color Rojo'
 sku: 'B000RB6TKW-es'
+tags: [  ]
 actualPrice: 14.47 EUR
 currency: EUR
 price: 14.47

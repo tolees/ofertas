@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MP5MYQ-es Belkin Cable de Carga USB 2.0 USB-A a USB Type C USB-C de...'
 sku: 'B075MP5MYQ-es'
+tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

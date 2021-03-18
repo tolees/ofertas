@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TGKF94D-es find. Alto HS01 Mocasines Azul Navy Navy 39'
 sku: 'B07TGKF94D-es'
+tags: [  ]
 actualPrice: 31.34 EUR
 currency: EUR
 price: 31.34

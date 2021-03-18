@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XC5XNF-es Relojes Hombre Acero Inoxidable Impermeable Deportes...'
 sku: 'B078XC5XNF-es'
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TDGK7JG-es Xnuoyo Limpiador de poros Extractor Puntos Negros...'
 sku: 'B07TDGK7JG-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

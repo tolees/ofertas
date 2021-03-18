@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HRMKSH-es adidas CORE18 TR SHO Sport Shorts Hombre Black/White XL'
 sku: 'B076HRMKSH-es'
+tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YBML5F-es Sylvie Flirty Swimwear Bera Traje de Baño de Una Pieza...'
 sku: 'B077YBML5F-es'
+tags: [  ]
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

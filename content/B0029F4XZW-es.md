@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0029F4XZW-es Zestaw twist n flex nielamliwa linijka 15 ekierka katomierz'
 sku: 'B0029F4XZW-es'
+tags: [  ]
 actualPrice: 1.44 EUR
 currency: EUR
 price: 1.44

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVLT3PW-es Napapijri Eils SS Polo Blanco Bright White 002 Large para...'
 sku: 'B07MVLT3PW-es'
+tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

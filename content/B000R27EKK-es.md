@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000R27EKK-es Bosch Professional GSH 16-30 - Martillo demoledor 41 J Hex...'
 sku: 'B000R27EKK-es'
+tags: [  ]
 actualPrice: 1026.75 EUR
 currency: EUR
 price: 1026.75

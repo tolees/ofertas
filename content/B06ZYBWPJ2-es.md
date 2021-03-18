@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZYBWPJ2-es Shock Absorber Active Crop Top Sujetador Estilo Bralette...'
 sku: 'B06ZYBWPJ2-es'
+tags: [  ]
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

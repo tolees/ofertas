@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015NM9ZMI-es Clarins 72176 - Desmaquillante'
 sku: 'B015NM9ZMI-es'
+tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

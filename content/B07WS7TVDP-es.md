@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WS7TVDP-es Note D Espresso - Cápsulas de tisana de ciruela y canela...'
 sku: 'B07WS7TVDP-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

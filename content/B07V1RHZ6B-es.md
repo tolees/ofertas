@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1RHZ6B-es Regalos Originales Hombre Muñequera magnética - Regalo...'
 sku: 'B07V1RHZ6B-es'
+tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

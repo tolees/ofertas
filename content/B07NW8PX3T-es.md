@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW8PX3T-es Skechers On-the-go Joy Botas Altas Mujer Negro Black...'
 sku: 'B07NW8PX3T-es'
+tags: [  ]
 actualPrice: 21.56 EUR
 currency: EUR
 price: 21.56

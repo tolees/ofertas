@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ21WYX-es New Balance 997H Core Zapatillas para Hombre Plateado...'
 sku: 'B07DJ21WYX-es'
+tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

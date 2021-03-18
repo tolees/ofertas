@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EVPRYZ4-es Calvin Klein Thong Tanga Schwarz Black 001 40 Talla del...'
 sku: 'B00EVPRYZ4-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

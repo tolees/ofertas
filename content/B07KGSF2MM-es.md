@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGSF2MM-es Energy Beat Box 2+ Lightcube Beat Lights TWS Bluetooth...'
 sku: 'B07KGSF2MM-es'
+tags: [  ]
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHBPV7P-es Kipling Gabbie S Bolsos Bandolera para Mujer Rojo Lively...'
 sku: 'B07BHBPV7P-es'
+tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

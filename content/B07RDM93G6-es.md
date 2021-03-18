@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDM93G6-es Columbia Vitesse Zapatillas de Deporte para Mujer Rojo...'
 sku: 'B07RDM93G6-es'
+tags: [  ]
 actualPrice: 50.13 EUR
 currency: EUR
 price: 50.13

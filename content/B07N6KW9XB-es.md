@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6KW9XB-es Tommy Hilfiger Alpaca Mix Bufanda Beige Beige Aek Talla...'
 sku: 'B07N6KW9XB-es'
+tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

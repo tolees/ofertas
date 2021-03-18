@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NA0RINO-es Shaon KIENZLE - Reloj de cuarzo para hombres color plata'
 sku: 'B00NA0RINO-es'
+tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GZZDX5C-es Rimmel London Magnifeyes Mono Sombra de Ojos Tono 1 Gold...'
 sku: 'B01GZZDX5C-es'
+tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

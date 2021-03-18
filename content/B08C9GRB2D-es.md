@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C9GRB2D-es Reloj de Cuarzo con cronógrafo de Acero Inoxidable y Metal...'
 sku: 'B08C9GRB2D-es'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

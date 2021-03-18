@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PTLVTKZ-es Kipling City Pack Mochilas para Mujer Multicolor Navy...'
 sku: 'B07PTLVTKZ-es'
+tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

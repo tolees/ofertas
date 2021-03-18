@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7WFDHD-es Levi s 512 Slim Taper Jeans Azul Rock Cod 0280 34W / 32L...'
 sku: 'B07D7WFDHD-es'
+tags: [  ]
 actualPrice: 61.19 EUR
 currency: EUR
 price: 61.19

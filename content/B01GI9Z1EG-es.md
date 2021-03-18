@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GI9Z1EG-es Reloj - Casio - para - AE-1000W-1A3VCF'
 sku: 'B01GI9Z1EG-es'
+tags: [  ]
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

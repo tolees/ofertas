@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9DYWVN-es Quiksilver Blade Dreams-Camiseta De Manga Larga para...'
 sku: 'B07T9DYWVN-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

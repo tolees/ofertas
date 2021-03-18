@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFM6RTM-es Auriculares Diadema Bluetooth Inalambricos Cascos Estéreo...'
 sku: 'B07YFM6RTM-es'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

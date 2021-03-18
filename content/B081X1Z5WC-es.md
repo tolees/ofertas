@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081X1Z5WC-es Topmener Almohada Cervical Espuma de Memoria Almohada de...'
 sku: 'B081X1Z5WC-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0733FDCLL-es find. Pantalones Estilo Jogger de Tacto Suave para Hombre...'
 sku: 'B0733FDCLL-es'
+tags: [  ]
 actualPrice: 11 EUR
 currency: EUR
 price: 11

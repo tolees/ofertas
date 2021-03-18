@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC19HKN-es PUMA Cali-0 Zapatillas deportivas de piel Unisex adulto...'
 sku: 'B07DC19HKN-es'
+tags: [  ]
 actualPrice: 33.44 EUR
 currency: EUR
 price: 33.44

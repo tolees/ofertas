@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DFBSGN-es MOZOOSON Juguete para Niños-Splash Pad Piscina para Niños...'
 sku: 'B083DFBSGN-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ZKSNM7-es Gorros suaves gruesos y cálidos Sombreros de invierno...'
 sku: 'B084ZKSNM7-es'
+tags: [  ]
 actualPrice: 1.64 EUR
 currency: EUR
 price: 1.64

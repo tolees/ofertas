@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J8N83FY-es Biotherm - Bruma Solaire Dry Touch SPF 30'
 sku: 'B00J8N83FY-es'
+tags: [  ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

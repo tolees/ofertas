@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWH5C7C-es Tatay Baobab - Cesto para la Ropa Sucia con Tapa 40 l...'
 sku: 'B07FWH5C7C-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

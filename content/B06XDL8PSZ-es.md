@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDL8PSZ-es Bourjois Volume Reveal Máscara de pestañas Tono 31 Black -...'
 sku: 'B06XDL8PSZ-es'
+tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

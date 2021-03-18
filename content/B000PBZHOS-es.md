@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000PBZHOS-es Wilton Gomas para Mangas pasteleras 12 Unidades Morado...'
 sku: 'B000PBZHOS-es'
+tags: [  ]
 actualPrice: 3.53 EUR
 currency: EUR
 price: 3.53

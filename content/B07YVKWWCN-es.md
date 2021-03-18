@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YVKWWCN-es Tarjetero Pepe Jeans Half vertical Azul'
 sku: 'B07YVKWWCN-es'
+tags: [  ]
 actualPrice: 26.52 EUR
 currency: EUR
 price: 26.52

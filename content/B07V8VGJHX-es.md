@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8VGJHX-es Tommy Hilfiger Tommy Jeans Lifestyle Runner Zapatillas...'
 sku: 'B07V8VGJHX-es'
+tags: [  ]
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072XKYYX8-es Tural - Protector de colchón Impermeable y transpirable....'
 sku: 'B072XKYYX8-es'
+tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

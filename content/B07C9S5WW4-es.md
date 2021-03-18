@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C9S5WW4-es Skechers Women s Squad-Team BOBS Trainers Beige Dk.Taupe...'
 sku: 'B07C9S5WW4-es'
+tags: [  ]
 actualPrice: 27.15 EUR
 currency: EUR
 price: 27.15

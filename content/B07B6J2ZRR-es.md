@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B6J2ZRR-es EleganBello Cadena de luces con pinzas 4m 40 LED Cadena de...'
 sku: 'B07B6J2ZRR-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

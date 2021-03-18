@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHXHPYM-es dodocool Soporte Auriculares para Cascos Gaming Headphone...'
 sku: 'B07JHXHPYM-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

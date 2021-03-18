@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078S8S4DZ-es TEXTURAS HOME - Pack de 6 Paños de Cocina Rizo Algodón...'
 sku: 'B078S8S4DZ-es'
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

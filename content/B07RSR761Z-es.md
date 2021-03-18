@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RSR761Z-es Everybodys Golf'
 sku: 'B07RSR761Z-es'
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

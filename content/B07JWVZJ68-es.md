@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWVZJ68-es Columbia Fire Venture S II Mid WP Botas de Senderismo...'
 sku: 'B07JWVZJ68-es'
+tags: [  ]
 actualPrice: 77.98 EUR
 currency: EUR
 price: 77.98

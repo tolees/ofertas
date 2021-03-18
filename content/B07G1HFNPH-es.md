@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G1HFNPH-es Plantronics RIG 300 HS Binaural Diadema Negro -...'
 sku: 'B07G1HFNPH-es'
+tags: [  ]
 actualPrice: 23.66 EUR
 currency: EUR
 price: 23.66

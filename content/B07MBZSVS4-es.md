@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBZSVS4-es Estuche rígido para Unidades de Estado sólido externas...'
 sku: 'B07MBZSVS4-es'
+tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

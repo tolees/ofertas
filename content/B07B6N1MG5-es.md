@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B6N1MG5-es HONCENMAX Tipo D Vehículo Cubierta del Volante Coche...'
 sku: 'B07B6N1MG5-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKS3P96-es Clarks Alexis Shine Sandalia con Pulsera para Mujer Negro...'
 sku: 'B07TKS3P96-es'
+tags: [  ]
 actualPrice: 29.86 EUR
 currency: EUR
 price: 29.86

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PL6TVYR-es SikaWall 08 Fijador Imprimación para fijar superficies...'
 sku: 'B07PL6TVYR-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

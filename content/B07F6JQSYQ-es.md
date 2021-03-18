@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F6JQSYQ-es Sorel Glacy Short Botas para Mujer Negro Black/Shark 010...'
 sku: 'B07F6JQSYQ-es'
+tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

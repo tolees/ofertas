@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPVJSVR-es Mocasines Piel Florentic Hombre Suela Goma Castellanisimos'
 sku: 'B07PPVJSVR-es'
+tags: [  ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R21S4PV-es adidas Superstar Zapatillas de deporte para Hombre Blanco...'
 sku: 'B07R21S4PV-es'
+tags: [  ]
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

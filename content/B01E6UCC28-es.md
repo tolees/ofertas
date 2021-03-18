@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E6UCC28-es Brabantia Sort & Go Cubo Integrado de Basura Menta y Gris...'
 sku: 'B01E6UCC28-es'
+tags: [  ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017NMOEPE-es VS Venta-stock Consola/Mueble recibidor de 3C en Color...'
 sku: 'B017NMOEPE-es'
+tags: [  ]
 actualPrice: 128.99 EUR
 currency: EUR
 price: 128.99

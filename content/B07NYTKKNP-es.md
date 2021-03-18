@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYTKKNP-es Skechers Elite Flex Zapatillas para Hombre Azul Navy...'
 sku: 'B07NYTKKNP-es'
+tags: [  ]
 actualPrice: 38.82 EUR
 currency: EUR
 price: 38.82

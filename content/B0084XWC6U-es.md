@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0084XWC6U-es Yamaha YWA-10 - Adaptador USB para red Wi-Fi color negro'
 sku: 'B0084XWC6U-es'
+tags: [  ]
 actualPrice: 49.88 EUR
 currency: EUR
 price: 49.88

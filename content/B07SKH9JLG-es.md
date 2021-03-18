@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SKH9JLG-es J.Endéar Infinito Amor Amistad Cuerda Pulsera Regalo para...'
 sku: 'B07SKH9JLG-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

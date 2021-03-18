@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074S2ZT9M-es Carcasa para Disco Duro ORICO Caja Transparente Externo...'
 sku: 'B074S2ZT9M-es'
+tags: [  ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

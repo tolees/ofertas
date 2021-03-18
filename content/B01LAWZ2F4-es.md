@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LAWZ2F4-es Tenswall Humidificador Ultrasónico 400ml Difusor de...'
 sku: 'B01LAWZ2F4-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

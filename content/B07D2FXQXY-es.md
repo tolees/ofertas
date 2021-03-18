@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2FXQXY-es Levi s 502 Regular Taper Jeans Azul Headed South 0279 31W...'
 sku: 'B07D2FXQXY-es'
+tags: [  ]
 actualPrice: 69.26 EUR
 currency: EUR
 price: 69.26

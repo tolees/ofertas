@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZF3X36-es Reloj de Cuarzo con cronógrafo de Acero Inoxidable y Metal...'
 sku: 'B08BZF3X36-es'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

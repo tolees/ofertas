@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKGG45S-es Under Armour UA W Charged Escape 3 Zapatillas de Running...'
 sku: 'B07HKGG45S-es'
+tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

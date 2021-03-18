@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GCFPT9-es Diesel S-Clever Low W Zapatillas para Mujer Blanco H1527...'
 sku: 'B077GCFPT9-es'
+tags: [  ]
 actualPrice: 16.68 EUR
 currency: EUR
 price: 16.68

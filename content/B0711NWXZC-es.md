@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711NWXZC-es Puma One 17.4 AG Zapatillas de Fútbol para Hombre Azul...'
 sku: 'B0711NWXZC-es'
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

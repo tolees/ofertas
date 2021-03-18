@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDTNGVS-es Pikolin Leah colchón viscoelástico y espuma HR 160x200...'
 sku: 'B07YDTNGVS-es'
+tags: [  ]
 actualPrice: 475.0 EUR
 currency: EUR
 price: 475.0

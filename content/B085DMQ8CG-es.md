@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085DMQ8CG-es Crema anticelulítica crema anticelulítica crema de masaje...'
 sku: 'B085DMQ8CG-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

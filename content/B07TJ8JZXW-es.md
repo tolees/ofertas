@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ8JZXW-es Harmont & Blaine Lrd123020989 Polo Blanco 100 Bianco 100...'
 sku: 'B07TJ8JZXW-es'
+tags: [  ]
 actualPrice: 47.94 EUR
 currency: EUR
 price: 47.94

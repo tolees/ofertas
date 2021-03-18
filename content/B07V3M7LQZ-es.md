@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3M7LQZ-es Kipling Distance S Equipaje de Mano 52 cm 30 Liters Negro...'
 sku: 'B07V3M7LQZ-es'
+tags: [  ]
 actualPrice: 68.31 EUR
 currency: EUR
 price: 68.31

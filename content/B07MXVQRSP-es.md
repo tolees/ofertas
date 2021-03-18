@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXVQRSP-es Asics Gel-Sonoma 4 Zapatillas de Running para Hombre Negro...'
 sku: 'B07MXVQRSP-es'
+tags: [  ]
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

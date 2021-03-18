@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDWAVKQ-es Naturtint. Tinte Sin Amoniaco. Ingredientes Vegetales. 7G...'
 sku: 'B00XDWAVKQ-es'
+tags: [  ]
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

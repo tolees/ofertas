@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF45PHP-es Levi s 502 Regular Taper Jeans Azul Baltic Adapt 0472 32W...'
 sku: 'B07KF45PHP-es'
+tags: [  ]
 actualPrice: 70.63 EUR
 currency: EUR
 price: 70.63

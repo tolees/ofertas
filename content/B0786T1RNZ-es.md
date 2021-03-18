@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0786T1RNZ-es adidas Nitrocharge ATTK Rojo'
 sku: 'B0786T1RNZ-es'
+tags: [  ]
 actualPrice: 74.8 EUR
 currency: EUR
 price: 74.8

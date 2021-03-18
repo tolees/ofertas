@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HR9DG45-es Camfosy - Botas de Cuero para mujer color Marrón talla 38 EU'
 sku: 'B07HR9DG45-es'
+tags: [  ]
 actualPrice: 77.84 EUR
 currency: EUR
 price: 77.84

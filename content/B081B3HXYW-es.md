@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081B3HXYW-es PIKOLIN canapé abatible Gran Capacidad de almacenaje Color...'
 sku: 'B081B3HXYW-es'
+tags: [  ]
 actualPrice: 373.99 EUR
 currency: EUR
 price: 373.99

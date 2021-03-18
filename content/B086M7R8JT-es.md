@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086M7R8JT-es Amzdeal Máscara de buceo - Máscara de snorkel Plegable...'
 sku: 'B086M7R8JT-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

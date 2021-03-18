@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TRW2VJK-es PowerLocus Auriculares Bluetooth Inalámbricos 35h...'
 sku: 'B07TRW2VJK-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

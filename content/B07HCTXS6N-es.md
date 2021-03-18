@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCTXS6N-es Tommy Hilfiger - Th Core Pouch W/Wristlet Carteras Mujer...'
 sku: 'B07HCTXS6N-es'
+tags: [  ]
 actualPrice: 33.92 EUR
 currency: EUR
 price: 33.92

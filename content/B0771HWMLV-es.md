@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771HWMLV-es Landove Estampado de animales de manga larga pijama...'
 sku: 'B0771HWMLV-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

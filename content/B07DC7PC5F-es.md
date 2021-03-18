@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC7PC5F-es PUMA Vista Zapatillas Unisex Adulto Azul Peacoat...'
 sku: 'B07DC7PC5F-es'
+tags: [  ]
 actualPrice: 29.04 EUR
 currency: EUR
 price: 29.04

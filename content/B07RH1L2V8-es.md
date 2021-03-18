@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH1L2V8-es G-Star Raw 3301 Straight Jeans Dritto Uomo Nero antic...'
 sku: 'B07RH1L2V8-es'
+tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

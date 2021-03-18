@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GWVLPXW-es Aerku Cámara Trasera Lente Protector de Pantalla para...'
 sku: 'B08GWVLPXW-es'
+tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

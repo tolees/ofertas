@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DWL6CB-es Caja para pilas ignífuga bolsa de transporte con probador...'
 sku: 'B083DWL6CB-es'
+tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

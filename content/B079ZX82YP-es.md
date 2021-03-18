@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZX82YP-es VAIRO Polo Masculino Columns Blanco XL'
 sku: 'B079ZX82YP-es'
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

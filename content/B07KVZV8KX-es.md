@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KVZV8KX-es Cámara DV180 16MP Mini vídeo Digital con 1 5" TFT Zoom...'
 sku: 'B07KVZV8KX-es'
+tags: [  ]
 actualPrice: 17.18 EUR
 currency: EUR
 price: 17.18

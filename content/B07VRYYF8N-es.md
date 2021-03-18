@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRYYF8N-es Calvin Klein Short Drawstring Bañador Negro PVH Black BEH...'
 sku: 'B07VRYYF8N-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0188XP7EO-es Medisana NM 870 Masajeador de cuello con masaje vibratorio...'
 sku: 'B0188XP7EO-es'
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

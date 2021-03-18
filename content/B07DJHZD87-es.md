@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJHZD87-es D-Link COVR-2202 - Kit WiFi Mesh Tri-Banda 2 Extensores...'
 sku: 'B07DJHZD87-es'
+tags: [  ]
 actualPrice: 188.7 EUR
 currency: EUR
 price: 188.7

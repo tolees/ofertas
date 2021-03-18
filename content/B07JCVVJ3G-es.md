@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCVVJ3G-es KAKOO 4pcs brazaletes Reflectantes Visibilidad Alta...'
 sku: 'B07JCVVJ3G-es'
+tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

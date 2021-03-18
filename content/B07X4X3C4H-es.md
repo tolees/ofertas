@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4X3C4H-es GSOTTA Calcetines deportivos 6 paquetes calcetines para...'
 sku: 'B07X4X3C4H-es'
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

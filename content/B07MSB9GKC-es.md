@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSB9GKC-es Lacoste Rc2012 Cinturón Azul Blue Horizon D24 90 para Hombre'
 sku: 'B07MSB9GKC-es'
+tags: [  ]
 actualPrice: 23 EUR
 currency: EUR
 price: 23

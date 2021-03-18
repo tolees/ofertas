@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IINTKDE-es Lancaster Sun Beauty Velvet Tanning Milk SPF30 Protector...'
 sku: 'B00IINTKDE-es'
+tags: [  ]
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

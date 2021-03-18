@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q82FF1J-es ABOX Plancha de Vapor para Viaje 4 en 1 Modo de Vapor y...'
 sku: 'B07Q82FF1J-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

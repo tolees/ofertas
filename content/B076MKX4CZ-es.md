@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076MKX4CZ-es Sticker Adhesivos para Macbook Desprendibles Creativo...'
 sku: 'B076MKX4CZ-es'
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

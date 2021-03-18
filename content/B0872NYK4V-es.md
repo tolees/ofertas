@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872NYK4V-es Funda Transparente Compatible para Xiaomi Mi MAX 3 Carcasa...'
 sku: 'B0872NYK4V-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

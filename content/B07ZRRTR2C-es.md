@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRRTR2C-es Suhctup Espejo Funda Reemplazo para Xiaomi Redmi 6A Caso...'
 sku: 'B07ZRRTR2C-es'
+tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

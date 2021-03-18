@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009LSIYPK-es Control Senso Preservativos - Pack de 12 preservativos'
 sku: 'B009LSIYPK-es'
+tags: [  ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

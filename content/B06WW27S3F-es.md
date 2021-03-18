@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WW27S3F-es Catrice The Modern Matt Collection Paleta de Sombras de...'
 sku: 'B06WW27S3F-es'
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

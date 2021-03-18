@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002VPDMWA-es Superga 2750 Jcot Classic Zapatillas Infantil Gris M38...'
 sku: 'B002VPDMWA-es'
+tags: [  ]
 actualPrice: 24.12 EUR
 currency: EUR
 price: 24.12

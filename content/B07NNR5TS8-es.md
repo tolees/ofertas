@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNR5TS8-es Riuty Faros Delanteros Searchlight，Outdoor Night...'
 sku: 'B07NNR5TS8-es'
+tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

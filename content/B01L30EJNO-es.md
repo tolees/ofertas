@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L30EJNO-es Activision - SIM Crash Adventure Pack Crash Bandicoot-Dr....'
 sku: 'B01L30EJNO-es'
+tags: [  ]
 actualPrice: 17.85 EUR
 currency: EUR
 price: 17.85

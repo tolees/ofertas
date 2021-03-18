@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8V9W4X-es Tommy Hilfiger Corporate Premium Sneaker Zapatillas para...'
 sku: 'B07V8V9W4X-es'
+tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

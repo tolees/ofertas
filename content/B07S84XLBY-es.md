@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S84XLBY-es adidas Outline TRF tee T-Shirt Hombre White L'
 sku: 'B07S84XLBY-es'
+tags: [  ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

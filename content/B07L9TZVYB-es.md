@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9TZVYB-es Lacoste Carnaby EVO 319 1 SMA Zapatillas para Hombre Azul...'
 sku: 'B07L9TZVYB-es'
+tags: [  ]
 actualPrice: 47.98 EUR
 currency: EUR
 price: 47.98

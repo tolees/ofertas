@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KJ6FFBX-es Love Moschino Jc4094pp18lp0000 Bolsa de mensajero Unisex...'
 sku: 'B07KJ6FFBX-es'
+tags: [  ]
 actualPrice: 95.85 EUR
 currency: EUR
 price: 95.85

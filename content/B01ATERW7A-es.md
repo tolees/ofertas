@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ATERW7A-es The North Face Exploration CNVRT Pantalones Convertibles...'
 sku: 'B01ATERW7A-es'
+tags: [  ]
 actualPrice: 50.79 EUR
 currency: EUR
 price: 50.79

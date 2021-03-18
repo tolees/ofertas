@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z9NP0RQ-es 3M Mono de seguridad en polipropileno'
 sku: 'B00Z9NP0RQ-es'
+tags: [  ]
 actualPrice: 3.42 EUR
 currency: EUR
 price: 3.42

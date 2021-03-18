@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMKJMRL-es deAO Juego de Tiro al Blanco Conjunto de Ballesta Juguete...'
 sku: 'B07PMKJMRL-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

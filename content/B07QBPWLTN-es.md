@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QBPWLTN-es ZunBo Electroestimulador Muscular Abdominales Cinturón...'
 sku: 'B07QBPWLTN-es'
+tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

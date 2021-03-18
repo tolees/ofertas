@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MD5KTP-es Fantasy Flight Games- Caja de Inicio para Dos Jugadores...'
 sku: 'B075MD5KTP-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

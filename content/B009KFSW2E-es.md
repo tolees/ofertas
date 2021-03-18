@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009KFSW2E-es HP 651A - Cartucho de tóner original LaserJet para...'
 sku: 'B009KFSW2E-es'
+tags: [  ]
 actualPrice: 350.0 EUR
 currency: EUR
 price: 350.0

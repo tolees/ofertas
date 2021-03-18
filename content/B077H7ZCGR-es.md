@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077H7ZCGR-es Kit de blanqueamiento dental White First - teeth whitening...'
 sku: 'B077H7ZCGR-es'
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

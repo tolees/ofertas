@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015YP7AXK-es Beurer MP100 Set Manicura Y Pedicura Multicolor'
 sku: 'B015YP7AXK-es'
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

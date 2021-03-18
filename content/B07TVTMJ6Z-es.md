@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVTMJ6Z-es Women s Secret Cotton Print Black Flower Sujetador básico...'
 sku: 'B07TVTMJ6Z-es'
+tags: [  ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

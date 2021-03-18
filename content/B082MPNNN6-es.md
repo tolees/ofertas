@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MPNNN6-es Buff Trucker Cap Brown One size womens'
 sku: 'B082MPNNN6-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

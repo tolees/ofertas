@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X9R9BMR-es EIVOTOR Smart Watch Sport Fitness Activity Tracker Pulsera...'
 sku: 'B07X9R9BMR-es'
+tags: [  ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

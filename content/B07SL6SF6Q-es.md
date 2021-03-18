@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SL6SF6Q-es Lacoste 739SFA003421G Zapatillas para Mujer Blanco 36 EU'
 sku: 'B07SL6SF6Q-es'
+tags: [  ]
 actualPrice: 47.07 EUR
 currency: EUR
 price: 47.07

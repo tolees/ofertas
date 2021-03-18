@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079DMYWPQ-es Gebildet 5 piezas 9mm Cúter de Cuchillas Profesional...'
 sku: 'B079DMYWPQ-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

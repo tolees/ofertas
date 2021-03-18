@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K49KULK-es TheHealthyTree Company Espirulina Orgánica en Polvo - 250g'
 sku: 'B01K49KULK-es'
+tags: [  ]
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7TDWHJ-es Beurer EM28 Electroestimulador para Muñeca Antebrazo Tens...'
 sku: 'B07H7TDWHJ-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVM93DV-es Tommy Hilfiger Sujetador Deportivo de Estilo Bralette de...'
 sku: 'B06WVM93DV-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

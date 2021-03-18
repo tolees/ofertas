@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FYNVQNI-es Faber Castell 167004 - Estuche con 4 rotuladores...'
 sku: 'B00FYNVQNI-es'
+tags: [  ]
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

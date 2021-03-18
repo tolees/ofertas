@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HQRW7K-es Everybody s Golf - Edición Estándar'
 sku: 'B071HQRW7K-es'
+tags: [  ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

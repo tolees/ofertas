@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JRUIRLM-es Buff Merino Gorro lana unisex Azul Thermaldenim Talla unica'
 sku: 'B01JRUIRLM-es'
+tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

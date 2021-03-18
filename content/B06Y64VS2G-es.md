@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y64VS2G-es HOMCOM Triciclo para Niños con Capota Desmontable y...'
 sku: 'B06Y64VS2G-es'
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

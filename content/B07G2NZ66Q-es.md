@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2NZ66Q-es L Oreal Paris Magic Retouch Spray Retoca Raíces Castaño...'
 sku: 'B07G2NZ66Q-es'
+tags: [  ]
 actualPrice: 4.17 EUR
 currency: EUR
 price: 4.17

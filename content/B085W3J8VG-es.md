@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085W3J8VG-es Head Pala de Padel Graphene Monster 2020'
 sku: 'B085W3J8VG-es'
+tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

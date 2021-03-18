@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LCTU56Q-es Aussie 3 Minute Miracle Reconstructor Tratamiento...'
 sku: 'B01LCTU56Q-es'
+tags: [  ]
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

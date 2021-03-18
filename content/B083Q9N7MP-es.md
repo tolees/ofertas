@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083Q9N7MP-es Lámpara Proyector Amouhom Proyector Estrellas & Océano 2...'
 sku: 'B083Q9N7MP-es'
+tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

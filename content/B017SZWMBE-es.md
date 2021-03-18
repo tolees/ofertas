@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017SZWMBE-es Newskill Atami Speed Tamaño XL - Alfombrilla Gaming...'
 sku: 'B017SZWMBE-es'
+tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

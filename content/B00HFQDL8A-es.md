@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HFQDL8A-es YAZILIND Joyería de la Vendimia de Plata tibetana Twisted...'
 sku: 'B00HFQDL8A-es'
+tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

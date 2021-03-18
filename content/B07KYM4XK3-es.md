@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYM4XK3-es Kami Idea Regalos Dia de la Madre Mujer Pulsera Blanco...'
 sku: 'B07KYM4XK3-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

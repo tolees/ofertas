@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D1ULH0I-es Bosch Professional GAS 35 L SFC+ - Aspirador seco/húmedo...'
 sku: 'B00D1ULH0I-es'
+tags: [  ]
 actualPrice: 369.99 EUR
 currency: EUR
 price: 369.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS4KLRX-es bugatti 431846015550 Zapatillas para Mujer Amarillo Yellow...'
 sku: 'B07VS4KLRX-es'
+tags: [  ]
 actualPrice: 15.34 EUR
 currency: EUR
 price: 15.34

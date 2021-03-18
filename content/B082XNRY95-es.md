@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XNRY95-es Zapatillas de Baloncesto para Hombres Damas Deportes al...'
 sku: 'B082XNRY95-es'
+tags: [  ]
 actualPrice: 29.26 EUR
 currency: EUR
 price: 29.26

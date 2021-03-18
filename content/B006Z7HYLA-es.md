@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006Z7HYLA-es IK Multimedia IPIRIGMIXIN - Mesa de mezclas'
 sku: 'B006Z7HYLA-es'
+tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

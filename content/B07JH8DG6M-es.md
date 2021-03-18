@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH8DG6M-es Skechers Men s Heston-Avano Trainers Black Black Blk 6 UK...'
 sku: 'B07JH8DG6M-es'
+tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

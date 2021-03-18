@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9NN2L4-es Babolat Defiance Lite 2019 Adultos Unisex Multicolor Talla...'
 sku: 'B07M9NN2L4-es'
+tags: [  ]
 actualPrice: 70.59 EUR
 currency: EUR
 price: 70.59

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073HCCF1T-es Casio Reloj Analogico para Unisex de Cuarzo con Correa en...'
 sku: 'B073HCCF1T-es'
+tags: [  ]
 actualPrice: 63.28 EUR
 currency: EUR
 price: 63.28

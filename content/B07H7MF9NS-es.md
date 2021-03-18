@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7MF9NS-es K9 Powerharness Tamaño: Mini Colore: Mocca Tela de Saco'
 sku: 'B07H7MF9NS-es'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

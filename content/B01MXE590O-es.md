@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXE590O-es Aigostar Black Pearl 30IMV - Hervidor de agua Premium con...'
 sku: 'B01MXE590O-es'
+tags: [  ]
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

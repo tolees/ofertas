@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5BDYZ7-es BRA Efficient - Batería 3 piezas de aluminio fundido con...'
 sku: 'B07L5BDYZ7-es'
+tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

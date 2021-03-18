@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813Y2KLH-es Adidas Duramo Lite 2.0 Zapatillas para Correr para Hombre...'
 sku: 'B0813Y2KLH-es'
+tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

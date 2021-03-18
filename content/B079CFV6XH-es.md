@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079CFV6XH-es Bourjois Velvet Barra de Labios Líquida Tono 32 Trop...'
 sku: 'B079CFV6XH-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

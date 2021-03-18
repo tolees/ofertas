@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3YZEBU-es POP! Vinilo - Games: Mass Effect Andromeda: Liam Kosta'
 sku: 'B01M3YZEBU-es'
+tags: [  ]
 actualPrice: 7.36 EUR
 currency: EUR
 price: 7.36

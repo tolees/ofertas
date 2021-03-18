@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KX6GPGE-es Bering 14440-077 - Reloj para Hombre'
 sku: 'B00KX6GPGE-es'
+tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRLJGWY-es New Balance 373 Zapatillas Hombre Negro Black/Blue...'
 sku: 'B07KRLJGWY-es'
+tags: [  ]
 actualPrice: 46.92 EUR
 currency: EUR
 price: 46.92

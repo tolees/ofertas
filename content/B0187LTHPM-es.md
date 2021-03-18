@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0187LTHPM-es Ksix BXSW01 - SmartWatch 1.44" TFT Bluetooth color negro'
 sku: 'B0187LTHPM-es'
+tags: [  ]
 actualPrice: 22.91 EUR
 currency: EUR
 price: 22.91

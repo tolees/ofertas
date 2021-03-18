@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVHSDKF-es Bolsa isotermica para llevar almuerzo - Bolsa termica para...'
 sku: 'B07MVHSDKF-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

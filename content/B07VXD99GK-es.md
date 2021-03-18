@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXD99GK-es FITTOO Mallas Leggings Mujer Pantalones Deportivos Yoga...'
 sku: 'B07VXD99GK-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

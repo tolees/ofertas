@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVKCBP9-es Zer one Ventilador de refrigeración de la CPU portátil de...'
 sku: 'B07NVKCBP9-es'
+tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

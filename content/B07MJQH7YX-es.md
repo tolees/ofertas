@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJQH7YX-es Reloj de pulsera para hombre resistente al agua con...'
 sku: 'B07MJQH7YX-es'
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000IV6S9S-es StarTech.com USBMBADAPT - Cable Adaptador Extensor USB 2.0...'
 sku: 'B000IV6S9S-es'
+tags: [  ]
 actualPrice: 3.06 EUR
 currency: EUR
 price: 3.06

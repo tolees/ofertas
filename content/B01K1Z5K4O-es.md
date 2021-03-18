@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K1Z5K4O-es Electrolux Love Your Day Collection Batidora de repostería...'
 sku: 'B01K1Z5K4O-es'
+tags: [  ]
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

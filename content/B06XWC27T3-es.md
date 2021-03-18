@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWC27T3-es eXtremeRate Conjunto Completo de Pegatinas Cubierta...'
 sku: 'B06XWC27T3-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

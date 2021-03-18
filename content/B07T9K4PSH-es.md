@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9K4PSH-es Set 2 sartenes Ø20+26cm aluminio prensado aptas inducción...'
 sku: 'B07T9K4PSH-es'
+tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQQ85RN-es Gioteck - Cascos TX30+Farcry 5'
 sku: 'B07NQQ85RN-es'
+tags: [  ]
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

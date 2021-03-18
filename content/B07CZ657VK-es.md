@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ657VK-es Shock Absorber Active Multi Sports Support Sujetador...'
 sku: 'B07CZ657VK-es'
+tags: [  ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771XZHJK-es Art TIBIDABO Zapatillas para Hombre Marrón Brown 42 EU'
 sku: 'B0771XZHJK-es'
+tags: [  ]
 actualPrice: 54.34 EUR
 currency: EUR
 price: 54.34

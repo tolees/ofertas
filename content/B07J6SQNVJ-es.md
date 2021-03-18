@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6SQNVJ-es Pop! Star vs. The Forces of Evil - Figura de Vinilo Ludo...'
 sku: 'B07J6SQNVJ-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

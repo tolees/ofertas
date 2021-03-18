@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M3J2PUY-es Nixon Reloj con Movimiento Cuarzo japonés Man A3772001...'
 sku: 'B00M3J2PUY-es'
+tags: [  ]
 actualPrice: 77.07 EUR
 currency: EUR
 price: 77.07

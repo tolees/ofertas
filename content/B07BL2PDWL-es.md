@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BL2PDWL-es New Balance 997H Zapatillas para Mujer Gris...'
 sku: 'B07BL2PDWL-es'
+tags: [  ]
 actualPrice: 45 EUR
 currency: EUR
 price: 45

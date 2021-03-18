@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVLB49Z-es New Balance 574v2 Entrenadores para Hombre Azul Deep Ozone...'
 sku: 'B07DVLB49Z-es'
+tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

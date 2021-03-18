@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HGSZVBN-es KUTOOK Pantalones Softshell Mujer Invierno Pantalones...'
 sku: 'B08HGSZVBN-es'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

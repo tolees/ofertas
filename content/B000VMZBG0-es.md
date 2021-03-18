@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VMZBG0-es Wentronic Goobay 10m RJ-11/RJ-45 Cable Negro - Adaptador...'
 sku: 'B000VMZBG0-es'
+tags: [  ]
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SWY5GY-es Grborn Micrófono de sobremesa USB 360° Soporte de...'
 sku: 'B089SWY5GY-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

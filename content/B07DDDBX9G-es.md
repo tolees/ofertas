@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDDBX9G-es 30W Bombilla LED Sumergible Iluminación de Piscinas 300...'
 sku: 'B07DDDBX9G-es'
+tags: [  ]
 actualPrice: 24.09 EUR
 currency: EUR
 price: 24.09

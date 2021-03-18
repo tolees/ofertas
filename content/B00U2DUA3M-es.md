@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U2DUA3M-es Elizabeth Arden Ceramide Flawless Future Ceramide Crema...'
 sku: 'B00U2DUA3M-es'
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

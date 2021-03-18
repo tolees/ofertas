@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1GN7HR-es Clarks Un Maui Lace Zapatillas para Mujer Multicolor...'
 sku: 'B07N1GN7HR-es'
+tags: [  ]
 actualPrice: 35.43 EUR
 currency: EUR
 price: 35.43

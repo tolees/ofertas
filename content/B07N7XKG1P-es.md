@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N7XKG1P-es NUNCAD Anillo Hombre/Mujer con Shell + Madera/Ópalo de...'
 sku: 'B07N7XKG1P-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

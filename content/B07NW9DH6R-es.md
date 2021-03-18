@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW9DH6R-es Skechers On-The-Go Joy Botas Altas para Mujer Beige 39 EU'
 sku: 'B07NW9DH6R-es'
+tags: [  ]
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

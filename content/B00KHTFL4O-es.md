@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHTFL4O-es S&R LLAVES TORX Juego de 15 llaves allen Torx cortas...'
 sku: 'B00KHTFL4O-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

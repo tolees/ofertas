@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895YYM6T-es GREAT ART set de 2 posters XXL – Animales de la selva -...'
 sku: 'B0895YYM6T-es'
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

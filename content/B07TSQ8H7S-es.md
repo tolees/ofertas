@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSQ8H7S-es Skechers Ultra Groove Zapatillas para Hombre Azul Navy...'
 sku: 'B07TSQ8H7S-es'
+tags: [  ]
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

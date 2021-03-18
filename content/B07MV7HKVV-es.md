@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV7HKVV-es Pekebaby 01111370000 - Saco entretiempo universal...'
 sku: 'B07MV7HKVV-es'
+tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

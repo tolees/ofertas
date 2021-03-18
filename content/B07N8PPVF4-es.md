@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8PPVF4-es Wonderbra Ultimate Backless Soutien-Gorge Avec Armatures...'
 sku: 'B07N8PPVF4-es'
+tags: [  ]
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

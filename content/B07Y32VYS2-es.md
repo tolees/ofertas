@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y32VYS2-es YIKEF Globos de Confeti de Oro Rosa Globo de Fiesta 30.5...'
 sku: 'B07Y32VYS2-es'
+tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

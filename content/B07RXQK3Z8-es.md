@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXQK3Z8-es Lacoste - Polo de Manga Corta para Mujer Fairground Pink 3...'
 sku: 'B07RXQK3Z8-es'
+tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

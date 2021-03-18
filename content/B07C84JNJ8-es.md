@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C84JNJ8-es Mr. Wonderful WOA09211EM - Organizador de oficina'
 sku: 'B07C84JNJ8-es'
+tags: [  ]
 actualPrice: 13.17 EUR
 currency: EUR
 price: 13.17

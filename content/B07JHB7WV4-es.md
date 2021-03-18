@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHB7WV4-es Levi s Cabazon Cinturón Negro R Black 59 90 para Hombre'
 sku: 'B07JHB7WV4-es'
+tags: [  ]
 actualPrice: 13.37 EUR
 currency: EUR
 price: 13.37

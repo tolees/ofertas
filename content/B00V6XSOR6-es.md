@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V6XSOR6-es Scitec Nutrition Protein Pancake comida funcional...'
 sku: 'B00V6XSOR6-es'
+tags: [  ]
 actualPrice: 13.13 EUR
 currency: EUR
 price: 13.13

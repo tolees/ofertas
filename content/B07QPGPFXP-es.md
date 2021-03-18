@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPGPFXP-es Teppiche Fußmatte Indoor-matten Die küche Wohnzimmer...'
 sku: 'B07QPGPFXP-es'
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

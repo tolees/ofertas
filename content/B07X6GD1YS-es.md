@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X6GD1YS-es Vbiger Mochilas Escolares Niña Impermeable para Estudiante...'
 sku: 'B07X6GD1YS-es'
+tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

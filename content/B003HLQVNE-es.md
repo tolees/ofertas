@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003HLQVNE-es Revlon Esmalte de Uñas 14 7ml Revlon Red'
 sku: 'B003HLQVNE-es'
+tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

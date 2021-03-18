@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00280MUVM-es Chuckit! 17030 Ultra Ball Large 1 Pelota para Perros...'
 sku: 'B00280MUVM-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

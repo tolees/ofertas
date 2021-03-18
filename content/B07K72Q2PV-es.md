@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K72Q2PV-es Levi s 501 High Rise Short Pantalones Cortos Azul Flat...'
 sku: 'B07K72Q2PV-es'
+tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

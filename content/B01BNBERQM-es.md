@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BNBERQM-es Hugo Boss Orange 1513352 - Reloj analógico de pulsera para...'
 sku: 'B01BNBERQM-es'
+tags: [  ]
 actualPrice: 82.41 EUR
 currency: EUR
 price: 82.41

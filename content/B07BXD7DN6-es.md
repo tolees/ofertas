@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BXD7DN6-es Casio Smart Watch Armbanduhr A168WEGM-9EF'
 sku: 'B07BXD7DN6-es'
+tags: [  ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

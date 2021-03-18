@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B59G5LW-es Medisana EMS Entrenador muscular abdominal eléctrico...'
 sku: 'B07B59G5LW-es'
+tags: [  ]
 actualPrice: 31.35 EUR
 currency: EUR
 price: 31.35

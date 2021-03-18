@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1DZBRM-es HEZHEN Set Cuchillo Cocina 5 Piezas Damascus Cuchillo Chef...'
 sku: 'B07K1DZBRM-es'
+tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

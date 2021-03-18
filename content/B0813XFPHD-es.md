@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813XFPHD-es adidas Duramo Lite 2.0 Zapatillas para Correr para Mujer...'
 sku: 'B0813XFPHD-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002AMUGEQ-es Sisley Crema Hidratante Intensiva 40 ml'
 sku: 'B002AMUGEQ-es'
+tags: [  ]
 actualPrice: 113.68 EUR
 currency: EUR
 price: 113.68

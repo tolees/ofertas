@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085Q1JFBS-es Meilo Cuchillos de Cocina para niños Juego de Cuchillos de...'
 sku: 'B085Q1JFBS-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

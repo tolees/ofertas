@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y65KF1Q-es Tommy Hilfiger STSSLD99003 Pantalones de traje para Hombre...'
 sku: 'B06Y65KF1Q-es'
+tags: [  ]
 actualPrice: 48.39 EUR
 currency: EUR
 price: 48.39

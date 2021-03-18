@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3FTPWB-es Tommy Hilfiger Core Thick Textile Sneaker Zapatillas para...'
 sku: 'B07L3FTPWB-es'
+tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

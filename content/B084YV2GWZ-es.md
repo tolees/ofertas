@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084YV2GWZ-es Anself 12Pcs Pinceles de Maquillaje Multifuncionales Juego...'
 sku: 'B084YV2GWZ-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

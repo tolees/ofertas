@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2TY9R7-es SPREEY Colchón Hinchable de aire-Cama de aire individual...'
 sku: 'B07G2TY9R7-es'
+tags: [  ]
 actualPrice: 55.02 EUR
 currency: EUR
 price: 55.02

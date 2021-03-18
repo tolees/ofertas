@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P23GLC7-es Skechers Uno- Stacre Zapatillas para Hombre Marfil...'
 sku: 'B07P23GLC7-es'
+tags: [  ]
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

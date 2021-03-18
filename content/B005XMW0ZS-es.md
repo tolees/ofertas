@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XMW0ZS-es DIM Generous Sujetador Negro 100B para Mujer'
 sku: 'B005XMW0ZS-es'
+tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

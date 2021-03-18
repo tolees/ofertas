@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000O3SXUW-es Cressi DP182041 Aletas Unisex-Youth Azul 41/42'
 sku: 'B000O3SXUW-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

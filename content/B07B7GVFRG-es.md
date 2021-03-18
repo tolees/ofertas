@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B7GVFRG-es Kuman 100pcs WS2812B 5050 Addressable SMD smart rgb led...'
 sku: 'B07B7GVFRG-es'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

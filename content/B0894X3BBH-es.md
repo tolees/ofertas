@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894X3BBH-es MagiDeal 1 Par Auriculares con Cable para Juegos de...'
 sku: 'B0894X3BBH-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2T4WMK-es Agarrador de Lápiz Firesara Nuevo diseño ergonómicas...'
 sku: 'B07K2T4WMK-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

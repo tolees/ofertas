@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LWYK5EO-es Maybelline New York - The Colossal Go Extreme Volum...'
 sku: 'B00LWYK5EO-es'
+tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

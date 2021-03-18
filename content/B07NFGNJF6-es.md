@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFGNJF6-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07NFGNJF6-es'
+tags: [  ]
 actualPrice: 62.88 EUR
 currency: EUR
 price: 62.88

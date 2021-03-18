@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FG5SPFC-es Lacoste Sport GH353T Bañador Negro Noir W40 Talla del...'
 sku: 'B07FG5SPFC-es'
+tags: [  ]
 actualPrice: 24.58 EUR
 currency: EUR
 price: 24.58

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGJR9JD-es Saucony Triumph ISO 5 Zapatillas de Running para Hombre...'
 sku: 'B07MGJR9JD-es'
+tags: [  ]
 actualPrice: 87.5 EUR
 currency: EUR
 price: 87.5

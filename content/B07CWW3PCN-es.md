@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CWW3PCN-es JAIMIE JACOBS Cartera Hombre Nano Boy Cartera Minimalista...'
 sku: 'B07CWW3PCN-es'
+tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

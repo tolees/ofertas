@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4FMC63-es Ocean Digital DBA-03R Dab/Dab + Wi-Fi Radio de Internet...'
 sku: 'B01N4FMC63-es'
+tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

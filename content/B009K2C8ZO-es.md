@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009K2C8ZO-es Fila Reloj analogico para Unisex de Cuarzo con Correa en...'
 sku: 'B009K2C8ZO-es'
+tags: [  ]
 actualPrice: 14.54 EUR
 currency: EUR
 price: 14.54

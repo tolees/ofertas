@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2PGRFV-es La mejor herramienta de golfista Golf multiherramienta...'
 sku: 'B01N2PGRFV-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

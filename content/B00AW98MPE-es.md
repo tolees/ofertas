@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AW98MPE-es Revlon ColorStay Corrector 24h #050 Medium Deep - 6.2ml'
 sku: 'B00AW98MPE-es'
+tags: [  ]
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

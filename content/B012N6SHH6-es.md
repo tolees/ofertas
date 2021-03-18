@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012N6SHH6-es Guess Reloj cronógrafo para Mujer de Cuarzo con Correa en...'
 sku: 'B012N6SHH6-es'
+tags: [  ]
 actualPrice: 42.05 EUR
 currency: EUR
 price: 42.05

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IN1UDJA-es Rinat Kit Hypernova Conjunto de Portero Unisex Adulto...'
 sku: 'B01IN1UDJA-es'
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

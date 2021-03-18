@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJRNFR4-es RuiDaXiang Casa de muñecas baño con Muebles iluminación...'
 sku: 'B08BJRNFR4-es'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

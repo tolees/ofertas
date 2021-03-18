@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00166TYOK-es HP 824A - Tambor de imágenes Laserjet para Laserjet CP6015...'
 sku: 'B00166TYOK-es'
+tags: [  ]
 actualPrice: 183.32 EUR
 currency: EUR
 price: 183.32

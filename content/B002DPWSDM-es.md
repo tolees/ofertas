@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002DPWSDM-es Reebok CL LTHR 3912 - Zapatillas de cuero nobuck unisex...'
 sku: 'B002DPWSDM-es'
+tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

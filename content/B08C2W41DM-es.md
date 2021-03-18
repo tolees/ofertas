@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C2W41DM-es Serum Facial de Ácido Hialurónico Hidratará Aclarará la...'
 sku: 'B08C2W41DM-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

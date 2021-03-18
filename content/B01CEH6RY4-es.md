@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CEH6RY4-es Pokemon Luna'
 sku: 'B01CEH6RY4-es'
+tags: [  ]
 actualPrice: 18.8 EUR
 currency: EUR
 price: 18.8

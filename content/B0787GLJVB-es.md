@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0787GLJVB-es Columbia Meadows Slip-on Omni-Heat 3D Botas de Nieve para...'
 sku: 'B0787GLJVB-es'
+tags: [  ]
 actualPrice: 27.88 EUR
 currency: EUR
 price: 27.88

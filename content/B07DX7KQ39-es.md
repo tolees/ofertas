@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DX7KQ39-es Energy Sistem Box 1+ Altavoz inalámbrico portátil con...'
 sku: 'B07DX7KQ39-es'
+tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

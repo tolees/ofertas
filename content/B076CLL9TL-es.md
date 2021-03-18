@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CLL9TL-es TECLADO BLUETOOTH UNIVERSAL BLANCO'
 sku: 'B076CLL9TL-es'
+tags: [  ]
 actualPrice: 11.09 EUR
 currency: EUR
 price: 11.09

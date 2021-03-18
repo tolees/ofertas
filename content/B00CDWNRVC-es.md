@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CDWNRVC-es Roger & Gallet 65882 - Gel de ducha 200 ml'
 sku: 'B00CDWNRVC-es'
+tags: [  ]
 actualPrice: 4.47 EUR
 currency: EUR
 price: 4.47

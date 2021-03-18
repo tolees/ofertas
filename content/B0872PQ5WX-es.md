@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872PQ5WX-es Funda Transparente Compatible para Xiaomi Mi Mix 2S...'
 sku: 'B0872PQ5WX-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

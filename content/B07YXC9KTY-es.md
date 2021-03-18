@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXC9KTY-es Red Dead Redemtion 2 La caja contiene código de descarga'
 sku: 'B07YXC9KTY-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

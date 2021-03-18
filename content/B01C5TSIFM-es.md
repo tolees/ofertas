@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C5TSIFM-es Canon Dcc-1880 - Funda para Cámara Canon Powershot G7X MK...'
 sku: 'B01C5TSIFM-es'
+tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

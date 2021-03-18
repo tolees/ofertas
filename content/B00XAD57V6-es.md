@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAD57V6-es Durex Play Lubricante Base Agua Sabor Cereza - 50 ml'
 sku: 'B00XAD57V6-es'
+tags: [  ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

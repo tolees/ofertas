@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2JZY5Z-es BY BENYAR Reloj Casual de Cuarzo para Hombre con Correa de...'
 sku: 'B07N2JZY5Z-es'
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

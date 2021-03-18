@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQPVC2L-es Dihope - Medias de fútbol - para hombre 3*noir+3blanc...'
 sku: 'B07DQPVC2L-es'
+tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

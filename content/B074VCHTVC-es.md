@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074VCHTVC-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B074VCHTVC-es'
+tags: [  ]
 actualPrice: 106.61 EUR
 currency: EUR
 price: 106.61

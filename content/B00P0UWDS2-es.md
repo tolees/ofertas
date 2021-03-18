@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P0UWDS2-es IBILI PICADORA DE Hielo Centimeters'
 sku: 'B00P0UWDS2-es'
+tags: [  ]
 actualPrice: 31.18 EUR
 currency: EUR
 price: 31.18

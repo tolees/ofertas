@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NYF7FH-es Hapilife Grifo Cocina Momomando de Encimera Fregadero...'
 sku: 'B079NYF7FH-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

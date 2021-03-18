@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHFJ8N4-es Asics Gel-Quantum 360 5 Running Shoe Mens Gris Clair Gris...'
 sku: 'B07SHFJ8N4-es'
+tags: [  ]
 actualPrice: 72.24 EUR
 currency: EUR
 price: 72.24

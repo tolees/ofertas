@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTTRRVT-es Skechers Solar Fuse Zapatillas sin Cordones para Hombre...'
 sku: 'B07TTTRRVT-es'
+tags: [  ]
 actualPrice: 40.61 EUR
 currency: EUR
 price: 40.61

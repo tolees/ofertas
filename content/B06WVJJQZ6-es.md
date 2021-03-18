@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVJJQZ6-es adidas Crazymove Studio Zapatillas de Deporte Interior...'
 sku: 'B06WVJJQZ6-es'
+tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

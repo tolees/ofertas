@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078BHMT3K-es BOSS Prime Polo Negro Black 1 XXX-Large para Hombre'
 sku: 'B078BHMT3K-es'
+tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

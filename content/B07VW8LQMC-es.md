@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VW8LQMC-es Bugatti 311450074141 Zapatillas para Hombre Marrón Mid-...'
 sku: 'B07VW8LQMC-es'
+tags: [  ]
 actualPrice: 29.13 EUR
 currency: EUR
 price: 29.13

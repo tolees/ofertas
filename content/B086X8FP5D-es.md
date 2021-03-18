@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086X8FP5D-es AivaToba Cinturón Táctico para Hombres Cinturón de...'
 sku: 'B086X8FP5D-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

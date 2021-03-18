@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072MFFTLS-es RED WAGON Zapatillas Back To School para Niños Negro Black...'
 sku: 'B072MFFTLS-es'
+tags: [  ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

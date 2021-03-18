@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG1X6BX-es New Balance Fresh Foam Beacon Zapatillas de Running para...'
 sku: 'B07HG1X6BX-es'
+tags: [  ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

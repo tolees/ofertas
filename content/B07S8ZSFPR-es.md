@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8ZSFPR-es Tratamiento de hongos anti hongos Tratamiento de hongos...'
 sku: 'B07S8ZSFPR-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

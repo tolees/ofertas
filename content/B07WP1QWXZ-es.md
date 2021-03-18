@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WP1QWXZ-es EBY 29XL Alta Capacidad Cartuchos de Tinta para Epson 29...'
 sku: 'B07WP1QWXZ-es'
+tags: [  ]
 actualPrice: 21.68 EUR
 currency: EUR
 price: 21.68

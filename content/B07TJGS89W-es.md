@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJGS89W-es Reloj de pulsera para hombre de cuarzo resistente al agua...'
 sku: 'B07TJGS89W-es'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

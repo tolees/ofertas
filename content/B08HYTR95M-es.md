@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HYTR95M-es Your Vip Skin bastoncillos de algodón de silicona...'
 sku: 'B08HYTR95M-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

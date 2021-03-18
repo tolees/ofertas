@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XN8CSW-es Under Armour Unstoppable Move Pant Pantalones Hombre Negro...'
 sku: 'B077XN8CSW-es'
+tags: [  ]
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

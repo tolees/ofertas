@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVHVNSV-es New Balance M1400V6 Zapatillas de Running para Hombre...'
 sku: 'B07DVHVNSV-es'
+tags: [  ]
 actualPrice: 69 EUR
 currency: EUR
 price: 69

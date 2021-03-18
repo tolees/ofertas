@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDL5RR5-es G-STAR RAW Siva Round Neck suéter Beige Milk 111 XX-Small...'
 sku: 'B07NDL5RR5-es'
+tags: [  ]
 actualPrice: 15.1 EUR
 currency: EUR
 price: 15.1

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQTW714-es Superdry Classic Superstate S/s Polo Azul Eclipse Navy 98t...'
 sku: 'B07TQTW714-es'
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

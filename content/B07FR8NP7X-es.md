@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR8NP7X-es Imperial Confort Copenhague - Colchón doble Acolchado...'
 sku: 'B07FR8NP7X-es'
+tags: [  ]
 actualPrice: 147.21 EUR
 currency: EUR
 price: 147.21

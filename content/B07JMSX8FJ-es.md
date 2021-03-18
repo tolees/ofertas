@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMSX8FJ-es Chantelle DE Orangerie Sujetador Marfil Elfenbein 35 90B...'
 sku: 'B07JMSX8FJ-es'
+tags: [  ]
 actualPrice: 41.4 EUR
 currency: EUR
 price: 41.4

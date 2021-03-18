@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SLQNSYP-es FITTOO Leggings Sin Costuras Corte de Malla Mujer Pantalon...'
 sku: 'B07SLQNSYP-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

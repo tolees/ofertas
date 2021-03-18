@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OV2T6XK-es Gigandet G32-006 - Reloj para Hombres Correa de Acero...'
 sku: 'B00OV2T6XK-es'
+tags: [  ]
 actualPrice: 86.97 EUR
 currency: EUR
 price: 86.97

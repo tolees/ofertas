@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLFM7R5-es KZIOACSH 5X Funda para Xiaomi Redmi Note 8 Carcasas Ultra...'
 sku: 'B07XLFM7R5-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

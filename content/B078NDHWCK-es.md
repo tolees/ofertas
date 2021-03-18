@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078NDHWCK-es PetCay Cortauñas para Mascotas medianos y grandes -...'
 sku: 'B078NDHWCK-es'
+tags: [  ]
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

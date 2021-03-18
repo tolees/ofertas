@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003UGVLPY-es Nixon Reloj Unisex de Digital con Correa en Acero...'
 sku: 'B003UGVLPY-es'
+tags: [  ]
 actualPrice: 72.21 EUR
 currency: EUR
 price: 72.21

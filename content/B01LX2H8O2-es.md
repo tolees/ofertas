@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX2H8O2-es Parker Urban 1931570 - Bolígrafo roller morado oscuro...'
 sku: 'B01LX2H8O2-es'
+tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

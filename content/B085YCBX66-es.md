@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085YCBX66-es YAMAMAY® Push up Bra - Whatever The Weather'
 sku: 'B085YCBX66-es'
+tags: [  ]
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

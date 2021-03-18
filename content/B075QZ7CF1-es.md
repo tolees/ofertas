@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QZ7CF1-es Chanson Mujeres 1 Unidad 300 g'
 sku: 'B075QZ7CF1-es'
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

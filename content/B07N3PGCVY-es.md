@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3PGCVY-es Palette Intense - Tono 3.65 Castaño Medio Chocolate - 2...'
 sku: 'B07N3PGCVY-es'
+tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

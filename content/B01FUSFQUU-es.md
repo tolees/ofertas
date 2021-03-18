@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FUSFQUU-es Abercrombie & Fitch First Instinct Colonia 100 ml El...'
 sku: 'B01FUSFQUU-es'
+tags: [  ]
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

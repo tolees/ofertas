@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015KKKGQ2-es Kappa Rocket Zapatillas Unisex Adulto Negro Black/White...'
 sku: 'B015KKKGQ2-es'
+tags: [  ]
 actualPrice: 16.41 EUR
 currency: EUR
 price: 16.41

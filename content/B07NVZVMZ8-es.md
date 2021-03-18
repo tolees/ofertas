@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVZVMZ8-es PLUMIER Triple Giotto Premium Toy Story'
 sku: 'B07NVZVMZ8-es'
+tags: [  ]
 actualPrice: 15.3 EUR
 currency: EUR
 price: 15.3

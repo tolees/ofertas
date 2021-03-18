@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004OJ7ILC-es Holzstar 5900009 Lijadora de disco'
 sku: 'B004OJ7ILC-es'
+tags: [  ]
 actualPrice: 47.6 EUR
 currency: EUR
 price: 47.6

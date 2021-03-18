@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZW89S6-es KiplingAbanu MultiMujerBolsos bandoleraRojo Metallic Rust...'
 sku: 'B07TZW89S6-es'
+tags: [  ]
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

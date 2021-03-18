@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5DY7C6-es Wrangler Greensboro Jeans Azul Green Night 26M 32W / 31L...'
 sku: 'B07M5DY7C6-es'
+tags: [  ]
 actualPrice: 50.34 EUR
 currency: EUR
 price: 50.34

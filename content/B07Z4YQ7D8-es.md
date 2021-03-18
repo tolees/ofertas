@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4YQ7D8-es GREAT ART Juego de 2 Carteles XXL Mundo Submarino...'
 sku: 'B07Z4YQ7D8-es'
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IZPCB7Q-es Philips myGarden Harvest - Aplique negro bombillas no...'
 sku: 'B01IZPCB7Q-es'
+tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

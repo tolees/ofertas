@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018CKCA4S-es Cambiador Portátil de Pañales para Bebé - Kit Cambiador de...'
 sku: 'B018CKCA4S-es'
+tags: [  ]
 actualPrice: 16.7 EUR
 currency: EUR
 price: 16.7

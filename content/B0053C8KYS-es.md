@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053C8KYS-es Notting Hill [Blu-ray]'
 sku: 'B0053C8KYS-es'
+tags: [  ]
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

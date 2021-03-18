@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG496YC-es PUMA Vikky v2 Mid WTR Zapatillas Altas para Mujer...'
 sku: 'B07KG496YC-es'
+tags: [  ]
 actualPrice: 23.41 EUR
 currency: EUR
 price: 23.41

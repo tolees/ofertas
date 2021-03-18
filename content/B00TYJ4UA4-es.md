@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TYJ4UA4-es IMC Toys - La caja registradora de Minnie Mouse 181700...'
 sku: 'B00TYJ4UA4-es'
+tags: [  ]
 actualPrice: 19.68 EUR
 currency: EUR
 price: 19.68

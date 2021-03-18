@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T6LHFMZ-es Saucony Jazz 21 Zapatillas de Running para Hombre Azul...'
 sku: 'B07T6LHFMZ-es'
+tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

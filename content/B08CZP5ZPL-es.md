@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZP5ZPL-es BAITITON MSATA III Disco Duro sólido Interno de Estado...'
 sku: 'B08CZP5ZPL-es'
+tags: [  ]
 actualPrice: 31.59 EUR
 currency: EUR
 price: 31.59

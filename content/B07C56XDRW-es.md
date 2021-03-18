@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C56XDRW-es Candados Combinación LEADSTAR 2 x Candado TSA Equipaje de...'
 sku: 'B07C56XDRW-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

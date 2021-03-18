@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTNNX2L-es Evax Liberty Compresas Super Alas - 10 unidades'
 sku: 'B07KTNNX2L-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SC9RLQ1-es AICOK Sous Vide Aparato de Cocina Precisión 1500W...'
 sku: 'B07SC9RLQ1-es'
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

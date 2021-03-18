@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FSJUSK4-es Nox H-FAN - NXHUMMERF120LR - Ventilador para Caja PC 12 cm...'
 sku: 'B01FSJUSK4-es'
+tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWHT4B2-es Superga 2750-cot3strapu Zapatillas de Gimnasia Unisex...'
 sku: 'B07TWHT4B2-es'
+tags: [  ]
 actualPrice: 26.66 EUR
 currency: EUR
 price: 26.66

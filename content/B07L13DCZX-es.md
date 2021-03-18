@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L13DCZX-es Under Armour UNDKU Rival Parte Superior del Calentamiento...'
 sku: 'B07L13DCZX-es'
+tags: [  ]
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

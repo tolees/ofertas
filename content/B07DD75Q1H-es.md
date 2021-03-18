@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD75Q1H-es iMagicBox Cife Cubo de Magia Multicolor Spain 41419'
 sku: 'B07DD75Q1H-es'
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

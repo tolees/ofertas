@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DC9SK3K-es Metal Gear Solid V : The Phantom Pain'
 sku: 'B00DC9SK3K-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

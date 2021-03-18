@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXKR4DK-es Testosterona vigorizante aumento de rendimiento masculino....'
 sku: 'B07MXKR4DK-es'
+tags: [  ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

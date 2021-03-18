@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V6AS4DI-es Soria Natural Bolsas de Planta - 1 unidad'
 sku: 'B00V6AS4DI-es'
+tags: [  ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

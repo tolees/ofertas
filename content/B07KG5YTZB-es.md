@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG5YTZB-es AJOXEL Pulverizador Aceite Dispensador de Aceite Aceitera...'
 sku: 'B07KG5YTZB-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

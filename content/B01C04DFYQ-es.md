@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C04DFYQ-es American Tourister - Bon Air - Spinner Maleta 66 cm 58 L...'
 sku: 'B01C04DFYQ-es'
+tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

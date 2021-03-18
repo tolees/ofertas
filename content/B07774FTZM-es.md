@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07774FTZM-es Tommy Jeans Mujer Mid Rise Nora Jeans Niceville Mid...'
 sku: 'B07774FTZM-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

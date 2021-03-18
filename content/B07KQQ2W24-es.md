@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQQ2W24-es Salomon Alphacross GTX W Zapatillas de Trail Running Mujer...'
 sku: 'B07KQQ2W24-es'
+tags: [  ]
 actualPrice: 58.18 EUR
 currency: EUR
 price: 58.18

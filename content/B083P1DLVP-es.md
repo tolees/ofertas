@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083P1DLVP-es HERSITY Mini Camiones de Construccion Metal 5 Vehículos de...'
 sku: 'B083P1DLVP-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAM8NJ7-es Lancardo - Reloj de pulsera para pareja Lovers con correa...'
 sku: 'B01NAM8NJ7-es'
+tags: [  ]
 actualPrice: 20.64 EUR
 currency: EUR
 price: 20.64

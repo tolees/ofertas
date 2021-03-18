@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GCKO9VW-es GoPro AMBSM-001 - Soporte Profesional para rieles de...'
 sku: 'B01GCKO9VW-es'
+tags: [  ]
 actualPrice: 30.37 EUR
 currency: EUR
 price: 30.37

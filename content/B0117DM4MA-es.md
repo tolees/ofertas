@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0117DM4MA-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B0117DM4MA-es'
+tags: [  ]
 actualPrice: 56.02 EUR
 currency: EUR
 price: 56.02

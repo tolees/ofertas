@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M95CS4M-es Lee Luke Corduroy Pantalones Verde Pine Grove 91 34W / 30L...'
 sku: 'B07M95CS4M-es'
+tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

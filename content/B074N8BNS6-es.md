@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074N8BNS6-es Reloj REGENT - Mujer 12211008'
 sku: 'B074N8BNS6-es'
+tags: [  ]
 actualPrice: 21.4 EUR
 currency: EUR
 price: 21.4

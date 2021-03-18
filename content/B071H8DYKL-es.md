@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071H8DYKL-es FOSITAN TL-160S LED Video Light 160 LED 3200K 5500K Ultra...'
 sku: 'B071H8DYKL-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

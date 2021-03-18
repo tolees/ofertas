@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079WRFX5S-es Sans Complexe Coton D ARUM Sujetador sin Aros Negro Noir 4...'
 sku: 'B079WRFX5S-es'
+tags: [  ]
 actualPrice: 14.56 EUR
 currency: EUR
 price: 14.56

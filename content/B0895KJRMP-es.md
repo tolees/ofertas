@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895KJRMP-es Car Styling Platinum Power Handle Volante Volante asistido...'
 sku: 'B0895KJRMP-es'
+tags: [  ]
 actualPrice: 6.56 EUR
 currency: EUR
 price: 6.56

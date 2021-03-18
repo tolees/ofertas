@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004CXMU2W-es Biofinity Toric Lentes de contacto tóricas mensuales R 8.7...'
 sku: 'B004CXMU2W-es'
+tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

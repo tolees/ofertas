@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004FLJFTC-es Superga 2750 Jvel Classic Zapatillas Unisex Para Niños...'
 sku: 'B004FLJFTC-es'
+tags: [  ]
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JG5V0E4-es Gianni Versace Versace Dylan Azul por Gianni Versace'
 sku: 'B01JG5V0E4-es'
+tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

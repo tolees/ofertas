@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0041UWV3Y-es Reebok Classic Leather Zapatillas de Trail Running para...'
 sku: 'B0041UWV3Y-es'
+tags: [  ]
 actualPrice: 31.8 EUR
 currency: EUR
 price: 31.8

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMMYH1V-es KIMISS RS3 Style Front Sport Hex Mesh Honeycomb Hood Grill...'
 sku: 'B07MMMYH1V-es'
+tags: [  ]
 actualPrice: 248.84 EUR
 currency: EUR
 price: 248.84

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Y6B1MM-es Mr. Tronic 5m Cable de Red Ethernet Latiguillo | CAT6...'
 sku: 'B079Y6B1MM-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

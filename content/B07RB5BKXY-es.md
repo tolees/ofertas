@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB5BKXY-es DINOKA Saco De Dormir para Acampar - Bolsa de Dormir 3...'
 sku: 'B07RB5BKXY-es'
+tags: [  ]
 actualPrice: 18.29 EUR
 currency: EUR
 price: 18.29

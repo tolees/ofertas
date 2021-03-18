@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077JXHW4M-es Mobiclinic Timón Silla con WC o inodoro para...'
 sku: 'B077JXHW4M-es'
+tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

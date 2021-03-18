@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6BNHSN-es Salomon Supercross GTX Zapatillas de Running para Hombre...'
 sku: 'B07M6BNHSN-es'
+tags: [  ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

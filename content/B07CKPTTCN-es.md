@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKPTTCN-es HCMAX Almohada para el Reposacabezas del Coche - Cojín...'
 sku: 'B07CKPTTCN-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

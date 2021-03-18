@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDP5FPY-es Happy Cherry - Sombrero Verano para Niñas Gorra con ala...'
 sku: 'B07PDP5FPY-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

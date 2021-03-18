@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBVBG1K-es UglyDolls: Una Aventura Imperfecta'
 sku: 'B07PBVBG1K-es'
+tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

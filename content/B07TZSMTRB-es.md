@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZSMTRB-es Opriox Protector Bucal Profesional Deportivo para Boxeo...'
 sku: 'B07TZSMTRB-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

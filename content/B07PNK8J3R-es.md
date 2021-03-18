@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNK8J3R-es New Balance 373 Zapatillas para Hombre Negro Black/Magnet...'
 sku: 'B07PNK8J3R-es'
+tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

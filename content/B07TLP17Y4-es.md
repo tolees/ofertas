@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLP17Y4-es Clarks Sift Lace Zapatillas para Mujer Amarillo Rose Gold...'
 sku: 'B07TLP17Y4-es'
+tags: [  ]
 actualPrice: 47.73 EUR
 currency: EUR
 price: 47.73

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LAVE1SO-es Shepa Banador Shorts De Deporte Liso Clásico - Hecho En La...'
 sku: 'B01LAVE1SO-es'
+tags: [  ]
 actualPrice: 7.85 EUR
 currency: EUR
 price: 7.85

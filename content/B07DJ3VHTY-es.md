@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ3VHTY-es New Balance 373 Zapatillas Unisex Niños Blanco...'
 sku: 'B07DJ3VHTY-es'
+tags: [  ]
 actualPrice: 24.28 EUR
 currency: EUR
 price: 24.28

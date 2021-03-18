@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L13LNKH-es Fontee 2PCS Alta Calidad Almohadillas para cinturón de...'
 sku: 'B07L13LNKH-es'
+tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GD6QXCS-es E-concept Stormtrooper Edition.'
 sku: 'B01GD6QXCS-es'
+tags: [  ]
 actualPrice: 38.83 EUR
 currency: EUR
 price: 38.83

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMM5MC8-es DIY 5D Pintura de Diamante Taladro Parcial Resina Bordado...'
 sku: 'B07DMM5MC8-es'
+tags: [  ]
 actualPrice: 4.05 EUR
 currency: EUR
 price: 4.05

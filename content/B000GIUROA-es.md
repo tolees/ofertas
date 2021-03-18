@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GIUROA-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
 sku: 'B000GIUROA-es'
+tags: [  ]
 actualPrice: 80.9 EUR
 currency: EUR
 price: 80.9

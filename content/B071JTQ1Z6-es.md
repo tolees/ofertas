@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JTQ1Z6-es Tefal Optigrill XL GC722D - Plancha Grill 2000W 6 modos de...'
 sku: 'B071JTQ1Z6-es'
+tags: [  ]
 actualPrice: 166.82 EUR
 currency: EUR
 price: 166.82

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVHS83N-es Kipling Creativity S Cartera para Mujer Gris Chalk Grey...'
 sku: 'B07MVHS83N-es'
+tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

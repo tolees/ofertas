@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2W34HM-es Triumph Amourette Charm WHP Sujetador Neutral Beige EP 85C...'
 sku: 'B01N2W34HM-es'
+tags: [  ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

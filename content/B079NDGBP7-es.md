@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NDGBP7-es Huawei P20 Lite - Funda flip negra'
 sku: 'B079NDGBP7-es'
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

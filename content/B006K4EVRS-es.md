@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006K4EVRS-es Darphin Crema corporal - 50 ml.'
 sku: 'B006K4EVRS-es'
+tags: [  ]
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

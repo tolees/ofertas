@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EZPSBJ8-es Merc Of London Card Polo Shirt - Polo para hombre Negro...'
 sku: 'B00EZPSBJ8-es'
+tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

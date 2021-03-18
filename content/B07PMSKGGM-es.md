@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMSKGGM-es TACKLIFE Humidímetro Digital Medidor de Humedad Termómetro...'
 sku: 'B07PMSKGGM-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

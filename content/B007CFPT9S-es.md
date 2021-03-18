@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007CFPT9S-es Superga 2750 Cotu Classic Zapatillas Unisex Rojo Dark...'
 sku: 'B007CFPT9S-es'
+tags: [  ]
 actualPrice: 32.26 EUR
 currency: EUR
 price: 32.26

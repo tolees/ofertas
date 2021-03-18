@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9Y9WXM-es BOSS Carmello Cinturón Azul Navy 410 120 para Hombre'
 sku: 'B07V9Y9WXM-es'
+tags: [  ]
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

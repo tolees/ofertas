@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BFQLF1G-es Bisk 00414 Deco Toallero Anillo 16 x 6 x 18.5 cm Acabado...'
 sku: 'B00BFQLF1G-es'
+tags: [  ]
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

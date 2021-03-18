@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7SH2Q4-es Garnier Coloración Color Sensation Nº2.1 Negro Azulado -...'
 sku: 'B01K7SH2Q4-es'
+tags: [  ]
 actualPrice: 1.81 EUR
 currency: EUR
 price: 1.81

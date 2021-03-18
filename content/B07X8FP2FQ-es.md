@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8FP2FQ-es Iron Maiden - A Matter Of Life And Death Collectors Box CD'
 sku: 'B07X8FP2FQ-es'
+tags: [  ]
 actualPrice: 21.14 EUR
 currency: EUR
 price: 21.14

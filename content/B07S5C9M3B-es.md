@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5C9M3B-es Love MoschinoJc4093pp1aMujerBolso de manoNegro Negro...'
 sku: 'B07S5C9M3B-es'
+tags: [  ]
 actualPrice: 62.33 EUR
 currency: EUR
 price: 62.33

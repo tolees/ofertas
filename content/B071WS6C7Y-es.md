@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WS6C7Y-es Colnatur Sport sabor Neutro 330grs. Proteína hidrolizada...'
 sku: 'B071WS6C7Y-es'
+tags: [  ]
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

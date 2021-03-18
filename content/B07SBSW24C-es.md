@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBSW24C-es MUSITREND Tocadiscos de Vinilo con 2 Altavoces...'
 sku: 'B07SBSW24C-es'
+tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

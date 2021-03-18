@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077WKJLHF-es afeitadora hombre corporal cable recortadora barba...'
 sku: 'B077WKJLHF-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

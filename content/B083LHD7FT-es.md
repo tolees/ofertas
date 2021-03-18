@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083LHD7FT-es K9CK Luces LED para Lego Ideas NASA Apolo Saturno V 21309...'
 sku: 'B083LHD7FT-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

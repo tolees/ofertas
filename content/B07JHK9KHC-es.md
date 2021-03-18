@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JHK9KHC-es good01 Big Promotion! Tienda de pintura de diamante diseño...'
 sku: 'B07JHK9KHC-es'
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

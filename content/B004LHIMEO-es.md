@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004LHIMEO-es BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de...'
 sku: 'B004LHIMEO-es'
+tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

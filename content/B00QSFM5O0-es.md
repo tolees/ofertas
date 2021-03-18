@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QSFM5O0-es Top Race Micro-Drone Quadcopter de 4 canales con ruedas...'
 sku: 'B00QSFM5O0-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

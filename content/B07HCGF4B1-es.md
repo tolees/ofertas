@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCGF4B1-es Braun Series 9 9292 Clean&Charge Afeitadora Eléctrica...'
 sku: 'B07HCGF4B1-es'
+tags: [  ]
 actualPrice: 266.1 EUR
 currency: EUR
 price: 266.1

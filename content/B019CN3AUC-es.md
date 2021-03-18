@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019CN3AUC-es Invero anti-vibración Universal para habitaciones...'
 sku: 'B019CN3AUC-es'
+tags: [  ]
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

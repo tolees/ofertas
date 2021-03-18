@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781YVZ9V-es ADIDAS X PLR Zapatillas para Hombre Negro Core...'
 sku: 'B0781YVZ9V-es'
+tags: [  ]
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071Z8Q9YL-es Under Armour Mid Keyhole Sujetador para Mujer Deportivo...'
 sku: 'B071Z8Q9YL-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

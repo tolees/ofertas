@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RBXMLP1-es URAQT Parasol de Coche Parasol Coche Bebe Parasoles para...'
 sku: 'B07RBXMLP1-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

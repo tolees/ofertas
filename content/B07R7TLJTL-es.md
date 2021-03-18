@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7TLJTL-es Alapmk Diseñado Especialmente La Funda Protectora de Cuero...'
 sku: 'B07R7TLJTL-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

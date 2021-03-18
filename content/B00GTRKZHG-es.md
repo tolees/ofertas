@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GTRKZHG-es Reflex Nutrition Instant Whey Pro Chocolate - 4400 gr'
 sku: 'B00GTRKZHG-es'
+tags: [  ]
 actualPrice: 64.46 EUR
 currency: EUR
 price: 64.46

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C28HBDF-es JACK & JONES Jjipaul Jjflake AKM 542 Olive Night Noos...'
 sku: 'B07C28HBDF-es'
+tags: [  ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

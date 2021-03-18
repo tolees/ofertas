@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GFYCJZ4-es 6 Pares Calcetines Running Para Hombre Mujer - Deporte...'
 sku: 'B08GFYCJZ4-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

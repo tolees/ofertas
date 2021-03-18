@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGWYBVV-es Antena TV Interior DVB-T Mayor Rango de Recepción de 120...'
 sku: 'B07LGWYBVV-es'
+tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

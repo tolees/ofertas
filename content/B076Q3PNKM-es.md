@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076Q3PNKM-es Juego de 12 pasadores Dooppa para niña con cierre de...'
 sku: 'B076Q3PNKM-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

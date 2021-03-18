@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHD5WM5-es Adidas Tensaur C Zapatillas de Running Unisex niño Noir...'
 sku: 'B07SHD5WM5-es'
+tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

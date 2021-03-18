@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVF61LY-es 3W GRT Leggings mujer fitness Mallas Deportivas de Mujer...'
 sku: 'B07ZVF61LY-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

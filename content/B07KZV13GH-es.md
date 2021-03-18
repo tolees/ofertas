@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZV13GH-es kangyh Cinturón para el Vientre Combo Maternity Belly Band...'
 sku: 'B07KZV13GH-es'
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

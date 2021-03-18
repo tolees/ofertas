@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMLSXS2-es Lámpara de Mesa de Cristal Tomshine Lámpara Mesilla de...'
 sku: 'B07TMLSXS2-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

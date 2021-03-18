@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GZVGR9-es ADIDAS VL Court 2.0 K Zapatillas Unisex Niños Negro...'
 sku: 'B075GZVGR9-es'
+tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCKF3VS-es Skechers Men s Stamina Cutback Trainers Grey Charcoal...'
 sku: 'B07HCKF3VS-es'
+tags: [  ]
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

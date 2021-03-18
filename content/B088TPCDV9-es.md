@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TPCDV9-es IDEASY Tableta de Escritura LCD de 8.5 Pulgadas Tableta de...'
 sku: 'B088TPCDV9-es'
+tags: [  ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084YK5D6G-es Baoblaze 1 Par De Plantillas De Inserción De Talón De...'
 sku: 'B084YK5D6G-es'
+tags: [  ]
 actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFSL2HL-es Artesania Cerda Luces Lol Mochila Casual 41 cm Rosa'
 sku: 'B07RFSL2HL-es'
+tags: [  ]
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

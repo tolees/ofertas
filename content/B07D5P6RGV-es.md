@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5P6RGV-es Under Armour Charged Cotton 6In 3 Pack Ropa Interior...'
 sku: 'B07D5P6RGV-es'
+tags: [  ]
 actualPrice: 23.45 EUR
 currency: EUR
 price: 23.45

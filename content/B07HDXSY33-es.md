@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HDXSY33-es CRZ YOGA Mujer Compression Leggings Cintura Alta...'
 sku: 'B07HDXSY33-es'
+tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

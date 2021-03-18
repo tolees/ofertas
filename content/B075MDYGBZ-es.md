@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MDYGBZ-es LED Superficie del panel Kit de montaje 600x600x50mm Marco...'
 sku: 'B075MDYGBZ-es'
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

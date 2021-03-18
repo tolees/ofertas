@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGTQ3SP-es Primigi Pbb 43604 Botas para Bebés Zaffiro 4360411 20 EU'
 sku: 'B07NGTQ3SP-es'
+tags: [  ]
 actualPrice: 10.74 EUR
 currency: EUR
 price: 10.74

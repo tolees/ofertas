@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015PKR1ME-es Philips CAFETERAS 1 Liter Plástico Negro'
 sku: 'B015PKR1ME-es'
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZLXX38-es New Balance 373v2 Zapatillas para Hombre Azul Navy/White...'
 sku: 'B07RZLXX38-es'
+tags: [  ]
 actualPrice: 37.22 EUR
 currency: EUR
 price: 37.22

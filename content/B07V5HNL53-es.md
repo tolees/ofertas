@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5HNL53-es HUGO Trunk Brother Pack Bóxer Negro Black 9 Small 2 para...'
 sku: 'B07V5HNL53-es'
+tags: [  ]
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

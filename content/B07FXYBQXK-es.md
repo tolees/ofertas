@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXYBQXK-es Bolsa de Herramientas TECCPO Professional Bolsa de Trabajo...'
 sku: 'B07FXYBQXK-es'
+tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

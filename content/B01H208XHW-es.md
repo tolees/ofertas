@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H208XHW-es God of War - Edición Estándar'
 sku: 'B01H208XHW-es'
+tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

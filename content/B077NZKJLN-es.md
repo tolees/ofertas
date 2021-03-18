@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NZKJLN-es Inception 4K Ultra Hd+Blu Ray [Italia] [Blu-ray]'
 sku: 'B077NZKJLN-es'
+tags: [  ]
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

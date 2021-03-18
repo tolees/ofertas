@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XYVHC45-es Veehoo Plegable Transportín para Perros Blando Caja para...'
 sku: 'B07XYVHC45-es'
+tags: [  ]
 actualPrice: 23.63 EUR
 currency: EUR
 price: 23.63

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07775QKMC-es Tommy Jeans Hombre Original Ryan-DM0DM03947 Jeans Azul...'
 sku: 'B07775QKMC-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

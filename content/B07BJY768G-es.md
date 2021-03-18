@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJY768G-es Qedertek Guirnaldas Luces Exterior Solar Cadena de Bola...'
 sku: 'B07BJY768G-es'
+tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

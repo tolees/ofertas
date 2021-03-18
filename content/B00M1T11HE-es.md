@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M1T11HE-es Yazilind deslumbrante Ba?ado En Plata corte rojoondo...'
 sku: 'B00M1T11HE-es'
+tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

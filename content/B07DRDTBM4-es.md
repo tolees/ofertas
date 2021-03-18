@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRDTBM4-es Dreamlove Secretplay Triple X Unisex Pleasure...'
 sku: 'B07DRDTBM4-es'
+tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

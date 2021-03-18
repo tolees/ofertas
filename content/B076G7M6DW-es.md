@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076G7M6DW-es PUMA Smash v2 L Jr Zapatillas Unisex Niños White White 38 EU'
 sku: 'B076G7M6DW-es'
+tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

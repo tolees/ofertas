@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SK1DB9M-es Neceser de Viaje Neceser Maquillaje Grande para Hombre y...'
 sku: 'B07SK1DB9M-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

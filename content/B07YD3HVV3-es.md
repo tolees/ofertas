@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YD3HVV3-es Formulaioue Adaptador de Tarjeta de Sonido Externo para...'
 sku: 'B07YD3HVV3-es'
+tags: [  ]
 actualPrice: 1.22 EUR
 currency: EUR
 price: 1.22

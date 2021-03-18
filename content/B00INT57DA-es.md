@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00INT57DA-es Bolsa de agua caliente forrada | Mobiclinic'
 sku: 'B00INT57DA-es'
+tags: [  ]
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

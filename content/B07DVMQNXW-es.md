@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVMQNXW-es Soporte Monitor de Ordenador Madera Elevador Monitor...'
 sku: 'B07DVMQNXW-es'
+tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

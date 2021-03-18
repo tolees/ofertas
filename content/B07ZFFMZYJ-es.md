@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFFMZYJ-es SONARIN Saco Silla de Paseo universal Impermeable y a...'
 sku: 'B07ZFFMZYJ-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

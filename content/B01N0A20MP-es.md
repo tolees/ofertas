@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0A20MP-es Kyocera TK5240Y - Cartucho de tóner'
 sku: 'B01N0A20MP-es'
+tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

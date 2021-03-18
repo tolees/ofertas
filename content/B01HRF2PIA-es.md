@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HRF2PIA-es Kelme - Zapatillas Precision'
 sku: 'B01HRF2PIA-es'
+tags: [  ]
 actualPrice: 18.94 EUR
 currency: EUR
 price: 18.94

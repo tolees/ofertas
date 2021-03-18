@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFL5SG4-es Under Armour Heatgear Long Compression Pantalón De...'
 sku: 'B01FFL5SG4-es'
+tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

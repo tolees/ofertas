@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KP7D1R-es SanDisk Ultra Flair Memoria Flash USB 3.0 de 64 GB con...'
 sku: 'B075KP7D1R-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

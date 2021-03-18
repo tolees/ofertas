@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KU70PI-es Clarins Demaquillant Express Ojos 125 ml'
 sku: 'B000KU70PI-es'
+tags: [  ]
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

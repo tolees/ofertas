@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013WBJ2ES-es Olympus VP-10 - Grabadora de Voz Estéreo de Calidad con...'
 sku: 'B013WBJ2ES-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

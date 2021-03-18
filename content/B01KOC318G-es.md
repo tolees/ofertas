@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KOC318G-es Beurer HK42 Almohadilla eléctrica térmica transpirable...'
 sku: 'B01KOC318G-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

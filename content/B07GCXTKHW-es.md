@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCXTKHW-es BERSIGAR Reloj Deportivo de Cuarzo analógico Negro con...'
 sku: 'B07GCXTKHW-es'
+tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

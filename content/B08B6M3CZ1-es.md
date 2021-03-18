@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B6M3CZ1-es Relec Día y Noche - Recambio Antimosquitos Eléctrico...'
 sku: 'B08B6M3CZ1-es'
+tags: [  ]
 actualPrice: 4.76 EUR
 currency: EUR
 price: 4.76

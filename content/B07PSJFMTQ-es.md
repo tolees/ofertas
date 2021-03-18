@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSJFMTQ-es Kipling Creativity L Monederos para Mujer Multicolor Camo...'
 sku: 'B07PSJFMTQ-es'
+tags: [  ]
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

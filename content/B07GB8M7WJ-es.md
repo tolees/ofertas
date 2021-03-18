@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB8M7WJ-es Casio G-SHOCK Reloj Digital Contador de pasos Sensor de...'
 sku: 'B07GB8M7WJ-es'
+tags: [  ]
 actualPrice: 65.45 EUR
 currency: EUR
 price: 65.45

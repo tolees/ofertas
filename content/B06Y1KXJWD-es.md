@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y1KXJWD-es Versa 18790696 Perchero de pie negro - Metal y madera...'
 sku: 'B06Y1KXJWD-es'
+tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

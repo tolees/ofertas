@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0714BMC1K-es Destiny Games Figura de Vinilo Oryx Funko 20366'
 sku: 'B0714BMC1K-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

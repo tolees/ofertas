@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G00ALBM-es Komono Reloj Analógico de Cuarzo Unisex con Correa de...'
 sku: 'B00G00ALBM-es'
+tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

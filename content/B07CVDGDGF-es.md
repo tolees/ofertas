@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVDGDGF-es Under Armour UA W TriBase Reign Zapatillas Deportivas para...'
 sku: 'B07CVDGDGF-es'
+tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

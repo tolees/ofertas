@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4D9JSV-es Huasiru Pintura Caso Funda para Amazon Kindle 8th...'
 sku: 'B07D4D9JSV-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

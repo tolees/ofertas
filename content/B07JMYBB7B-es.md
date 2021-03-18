@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMYBB7B-es Chantelle DE Pyramide Sujetador de Copa Media Beige...'
 sku: 'B07JMYBB7B-es'
+tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

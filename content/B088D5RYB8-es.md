@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088D5RYB8-es Suhctup Funda Compatible para Xiaomi Mi MAX 3 Carcasa...'
 sku: 'B088D5RYB8-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

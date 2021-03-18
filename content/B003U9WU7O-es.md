@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003U9WU7O-es Bosch PLL 360 - Nivel láser 360º con trípode'
 sku: 'B003U9WU7O-es'
+tags: [  ]
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

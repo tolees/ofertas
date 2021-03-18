@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WF5T96D-es FITTOO Mallas Pantalones Deportivos Leggings Mujer Yoga de...'
 sku: 'B07WF5T96D-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

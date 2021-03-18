@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I9KCS8Y-es Lancardo Reloj Analógico Cuadrado Movimiento de Cuarzo...'
 sku: 'B01I9KCS8Y-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

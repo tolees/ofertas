@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G8BLBRS-es Lechnical Termómetros infrarrojos'
 sku: 'B08G8BLBRS-es'
+tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

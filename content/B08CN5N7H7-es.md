@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CN5N7H7-es Anker Powerbank-Portable USB móvil Energien-Bank-Kasten...'
 sku: 'B08CN5N7H7-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

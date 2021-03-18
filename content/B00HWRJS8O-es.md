@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HWRJS8O-es Maurer 2160807 Extractor de 2 Brazos 6"'
 sku: 'B00HWRJS8O-es'
+tags: [  ]
 actualPrice: 6.27 EUR
 currency: EUR
 price: 6.27

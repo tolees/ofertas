@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQN37QS-es Sternitz Botella de Agua Hydra Acero Inoxidable con...'
 sku: 'B07XQN37QS-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2Y4GH8-es New Balance Rubix Zapatillas de Running para Mujer Negro...'
 sku: 'B07C2Y4GH8-es'
+tags: [  ]
 actualPrice: 36.96 EUR
 currency: EUR
 price: 36.96

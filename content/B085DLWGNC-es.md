@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085DLWGNC-es Alfombrilla de Baño Extralargo Alfombra para Bañera...'
 sku: 'B085DLWGNC-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EY9CEH4-es Superga 2750 UKFGLU Zapatillas Unisex adulto Blanco White...'
 sku: 'B01EY9CEH4-es'
+tags: [  ]
 actualPrice: 24.43 EUR
 currency: EUR
 price: 24.43

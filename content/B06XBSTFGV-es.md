@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XBSTFGV-es 8 pcs máscara encaje negro de KAKOO de modo diferente...'
 sku: 'B06XBSTFGV-es'
+tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

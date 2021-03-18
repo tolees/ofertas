@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KWKP63-es Aeeque - Funda de cuero para iPhone 6 6S Plus 5S 5 Samsung...'
 sku: 'B071KWKP63-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

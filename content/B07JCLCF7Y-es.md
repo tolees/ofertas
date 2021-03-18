@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCLCF7Y-es ANEWSIR [2 Pack Protector de Pantalla para Motorola One...'
 sku: 'B07JCLCF7Y-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

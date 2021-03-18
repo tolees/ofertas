@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NA8WG9H-es Marco Tozzi 2-2-24215-28 514 Bailarinas Mujer Rosa Pink...'
 sku: 'B01NA8WG9H-es'
+tags: [  ]
 actualPrice: 12.22 EUR
 currency: EUR
 price: 12.22

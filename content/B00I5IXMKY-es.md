@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I5IXMKY-es Intex 29050 - Red recogehojas compatible con mango de 26 2...'
 sku: 'B00I5IXMKY-es'
+tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013GPRF62-es Thumbs Up iLounge - Cojín para Tablet Color Azul'
 sku: 'B013GPRF62-es'
+tags: [  ]
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

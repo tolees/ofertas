@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTVBXPM-es Columbia Street Elite Bolsa de Viaje Convertible Unisex...'
 sku: 'B07KTVBXPM-es'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

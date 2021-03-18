@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JR6XVOU-es Starter Pack - Skylander Trap Team'
 sku: 'B00JR6XVOU-es'
+tags: [  ]
 actualPrice: 32.78 EUR
 currency: EUR
 price: 32.78

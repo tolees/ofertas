@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R7JNK2-es New Balance Wl697trb m Zapatillas de Running para Mujer...'
 sku: 'B075R7JNK2-es'
+tags: [  ]
 actualPrice: 38.7 EUR
 currency: EUR
 price: 38.7

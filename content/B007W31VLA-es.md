@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007W31VLA-es Lotus Reloj Analógico para Niñas de Cuarzo con Correa en...'
 sku: 'B007W31VLA-es'
+tags: [  ]
 actualPrice: 43.66 EUR
 currency: EUR
 price: 43.66

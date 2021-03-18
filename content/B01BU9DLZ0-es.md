@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BU9DLZ0-es Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B01BU9DLZ0-es'
+tags: [  ]
 actualPrice: 50.65 EUR
 currency: EUR
 price: 50.65

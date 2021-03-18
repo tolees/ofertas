@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG51KDP-es Puma Future Runner Premium Zapatillas Unisex Adulto Gris...'
 sku: 'B07KG51KDP-es'
+tags: [  ]
 actualPrice: 26.69 EUR
 currency: EUR
 price: 26.69

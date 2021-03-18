@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001IM7Y9Y-es Versele-laga A-16540 Prestige Premium Loro Peri...'
 sku: 'B001IM7Y9Y-es'
+tags: [  ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

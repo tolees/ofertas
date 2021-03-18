@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNCK544-es Hawaiian Tropic Island Sport SPF 15 - Bruma Solar...'
 sku: 'B07DNCK544-es'
+tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BPII48-es Manhattan Convertidor PS/2 a USB USB A 2X Mini DIN 6 Pin...'
 sku: 'B001BPII48-es'
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

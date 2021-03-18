@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GUZK4TU-es adidas Superstar C Zapatillas de Baloncesto Unisex Niños...'
 sku: 'B01GUZK4TU-es'
+tags: [  ]
 actualPrice: 33.01 EUR
 currency: EUR
 price: 33.01

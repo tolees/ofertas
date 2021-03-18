@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKZRMQ7-es New Balance 574v2 Zapatillas para Hombre Verde Green/Red...'
 sku: 'B07PKZRMQ7-es'
+tags: [  ]
 actualPrice: 41.16 EUR
 currency: EUR
 price: 41.16

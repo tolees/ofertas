@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W9G8CWV-es s.Oliver 53101 Zapatillas para Niños Azul Navy 39 EU'
 sku: 'B06W9G8CWV-es'
+tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

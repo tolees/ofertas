@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJM7FLD-es Tapa de WC TACKLIFE TBTS03B Asiento de Inodoro en Forma de...'
 sku: 'B07ZJM7FLD-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

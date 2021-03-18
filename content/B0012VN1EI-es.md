@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0012VN1EI-es Hawaiian Tropic After Sun Gel Cooling Aloe - Gel After Sun...'
 sku: 'B0012VN1EI-es'
+tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

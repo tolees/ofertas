@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FB8MKY-es 2020 Nueva Cámara para Niños Cámara de Fotos/Video HD...'
 sku: 'B082FB8MKY-es'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

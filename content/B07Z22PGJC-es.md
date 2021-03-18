@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z22PGJC-es Panasonic ES-RW31-K503 - Afeitadora y recortadora para...'
 sku: 'B07Z22PGJC-es'
+tags: [  ]
 actualPrice: 24.73 EUR
 currency: EUR
 price: 24.73

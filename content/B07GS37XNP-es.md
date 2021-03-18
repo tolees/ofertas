@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GS37XNP-es Yayuu Gear S3 Frontier/Classic Correa de Reloj Reemplazo...'
 sku: 'B07GS37XNP-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

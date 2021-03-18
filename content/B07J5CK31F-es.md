@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5CK31F-es Taladro Percutor Meterk 850W Taladro Eléctrico de 3000 RPM...'
 sku: 'B07J5CK31F-es'
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

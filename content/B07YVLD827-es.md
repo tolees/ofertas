@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YVLD827-es Bestlife- Equipaje- Maletas Color negro Safta 641989808'
 sku: 'B07YVLD827-es'
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

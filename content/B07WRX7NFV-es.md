@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRX7NFV-es Lomogo Funda Huawei Y5 2019 / Honor 8S Cartera Funda de...'
 sku: 'B07WRX7NFV-es'
+tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

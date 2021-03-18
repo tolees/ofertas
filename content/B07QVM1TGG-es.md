@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVM1TGG-es 40 Piezas Pinzas Para el Cabello para Bebés niñas Clip de...'
 sku: 'B07QVM1TGG-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

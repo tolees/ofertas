@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDM34M3-es adidas Gazelle Zapatillas para Hombre Azul Hi/Res...'
 sku: 'B07RDM34M3-es'
+tags: [  ]
 actualPrice: 47.48 EUR
 currency: EUR
 price: 47.48

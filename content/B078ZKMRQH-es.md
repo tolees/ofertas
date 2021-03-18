@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078ZKMRQH-es Supra Hammer Run Zapatillas Unisex Adulto Negro...'
 sku: 'B078ZKMRQH-es'
+tags: [  ]
 actualPrice: 32.63 EUR
 currency: EUR
 price: 32.63

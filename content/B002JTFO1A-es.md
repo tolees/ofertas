@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002JTFO1A-es Lancome Hypnose Drama - Rímel negro 6.5 ml'
 sku: 'B002JTFO1A-es'
+tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

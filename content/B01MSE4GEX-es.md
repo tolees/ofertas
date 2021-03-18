@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSE4GEX-es PEKITAS Bebe Capa De Baño Con Capucha y Manopla 75x75 cm...'
 sku: 'B01MSE4GEX-es'
+tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

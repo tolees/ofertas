@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJK3YDY-es Clarks Alexis Shine Sandalia con Pulsera para Mujer Azul...'
 sku: 'B07TJK3YDY-es'
+tags: [  ]
 actualPrice: 32.03 EUR
 currency: EUR
 price: 32.03

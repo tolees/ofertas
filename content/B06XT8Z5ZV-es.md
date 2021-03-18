@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XT8Z5ZV-es AngLink Mini Ventilador USB Portatil Recargable Bateria...'
 sku: 'B06XT8Z5ZV-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

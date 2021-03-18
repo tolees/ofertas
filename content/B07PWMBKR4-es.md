@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWMBKR4-es Magicfun Cojín Lumbar Soporte para la Espalda Lumbar...'
 sku: 'B07PWMBKR4-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDKTHP3-es Michael Kors Reloj Mujer de Digital con Correa en Silicona...'
 sku: 'B07MDKTHP3-es'
+tags: [  ]
 actualPrice: 209.4 EUR
 currency: EUR
 price: 209.4

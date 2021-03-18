@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9V5ZPC-es Lacoste Carnaby EVO 319 1 SUI Zapatillas Unisex Niños...'
 sku: 'B07L9V5ZPC-es'
+tags: [  ]
 actualPrice: 18.14 EUR
 currency: EUR
 price: 18.14

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NM0MR6-es Casio Reloj Multiesfera para Mujer de Cuarzo con Correa en...'
 sku: 'B000NM0MR6-es'
+tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

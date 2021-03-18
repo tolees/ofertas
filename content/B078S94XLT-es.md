@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078S94XLT-es N2 Natural Nutrition Garcinia Cambogia Vitamina C-Cromo....'
 sku: 'B078S94XLT-es'
+tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

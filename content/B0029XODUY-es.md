@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0029XODUY-es Reebok Workout Plus Zapatillas de Deporte para Hombre...'
 sku: 'B0029XODUY-es'
+tags: [  ]
 actualPrice: 58.44 EUR
 currency: EUR
 price: 58.44

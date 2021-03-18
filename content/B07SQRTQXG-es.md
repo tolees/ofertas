@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQRTQXG-es Levi s LEVIS FOOTWEAR AND ACCESSORIES Calypso Cinturón...'
 sku: 'B07SQRTQXG-es'
+tags: [  ]
 actualPrice: 23.65 EUR
 currency: EUR
 price: 23.65

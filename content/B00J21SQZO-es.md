@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J21SQZO-es Energy Sport CAM Play Full HD 1080p 30fps 5MP Accesorios...'
 sku: 'B00J21SQZO-es'
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

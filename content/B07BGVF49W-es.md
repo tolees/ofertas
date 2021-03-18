@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGVF49W-es Navaja táctica de BGT plegable con sistema de cojinete...'
 sku: 'B07BGVF49W-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

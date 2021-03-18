@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZYS1CT-es Love MoschinoJc4004pp1aMujerBolsos mochilaBeige Naturale...'
 sku: 'B07RZYS1CT-es'
+tags: [  ]
 actualPrice: 138.47 EUR
 currency: EUR
 price: 138.47

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QM7BCWM-es TAOCOCO 1080P Cámaras de Vigilancia Cámara IP WiFi FHD...'
 sku: 'B07QM7BCWM-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

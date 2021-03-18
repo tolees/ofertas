@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C8RD54N-es VicTsing Linterna Frontal LED Recargable con 50H de...'
 sku: 'B07C8RD54N-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

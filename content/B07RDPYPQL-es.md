@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDPYPQL-es Tommy Hilfiger Longline Bra Sujetador con Push-up Rosa...'
 sku: 'B07RDPYPQL-es'
+tags: [  ]
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZP6TG9-es New Bee Cargador Inalámbrico 5W con Soporte Auriculares...'
 sku: 'B07BZP6TG9-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

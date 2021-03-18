@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013R7XPB8-es AmazonBasics - Bayeta de microfibra 6 unidades color...'
 sku: 'B013R7XPB8-es'
+tags: [  ]
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RTFZYXC-es Grohe Eurosmart - Grifo de lavabo con vaciador automático...'
 sku: 'B00RTFZYXC-es'
+tags: [  ]
 actualPrice: 81.08 EUR
 currency: EUR
 price: 81.08

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CKTVNXP-es FORMIZON Juguete Lanzador de Cohetes Juguete de...'
 sku: 'B08CKTVNXP-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

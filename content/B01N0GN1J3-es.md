@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0GN1J3-es Kelme - Zapatillas Indoor Copa'
 sku: 'B01N0GN1J3-es'
+tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

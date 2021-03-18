@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075F3G2KW-es EAU MY BB pack gel de baño y champú 200 ml + locion...'
 sku: 'B075F3G2KW-es'
+tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

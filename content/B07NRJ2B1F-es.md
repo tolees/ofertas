@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRJ2B1F-es HANMUN Kid Electronic Musical Microphone Toys Toddler...'
 sku: 'B07NRJ2B1F-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

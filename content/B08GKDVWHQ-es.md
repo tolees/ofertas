@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GKDVWHQ-es 2 Pares Calcetines Mujer Hombre Senderismo Calcetines para...'
 sku: 'B08GKDVWHQ-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

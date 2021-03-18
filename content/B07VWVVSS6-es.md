@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWVVSS6-es amzdeal Air Football Kit Juguete Balón de Fútbol（1 x Air...'
 sku: 'B07VWVVSS6-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

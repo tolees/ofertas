@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087WZ6G9L-es HAOT 10Pcs Kick Shuttlecock Colorful Feather Jianzi Goose...'
 sku: 'B087WZ6G9L-es'
+tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

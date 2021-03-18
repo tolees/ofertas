@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078KPWQVK-es Urban Classics Canvas Belts Cinturón Negro Talla Única...'
 sku: 'B078KPWQVK-es'
+tags: [  ]
 actualPrice: 7.21 EUR
 currency: EUR
 price: 7.21

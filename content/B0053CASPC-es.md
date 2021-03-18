@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053CASPC-es Terminator Salvation [DVD]'
 sku: 'B0053CASPC-es'
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVDC5Z7-es Xiaomi Mix 2S - Smartphone con Pantalla de 5.99" Memoria 6...'
 sku: 'B07GVDC5Z7-es'
+tags: [  ]
 actualPrice: 270.9 EUR
 currency: EUR
 price: 270.9

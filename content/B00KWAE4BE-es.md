@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KWAE4BE-es Tropico 5'
 sku: 'B00KWAE4BE-es'
+tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

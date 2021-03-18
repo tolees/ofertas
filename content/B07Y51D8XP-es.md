@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y51D8XP-es Carcasa compatible con Samsung Galaxy S10E funda de...'
 sku: 'B07Y51D8XP-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GWH8GX-es Under Armour Challenger II Training Pant Pantalones Hombre...'
 sku: 'B077GWH8GX-es'
+tags: [  ]
 actualPrice: 23.48 EUR
 currency: EUR
 price: 23.48

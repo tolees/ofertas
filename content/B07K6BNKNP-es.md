@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6BNKNP-es adidas CONDIVO18 SHO Pantalones Cortos de Deporte Hombre...'
 sku: 'B07K6BNKNP-es'
+tags: [  ]
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

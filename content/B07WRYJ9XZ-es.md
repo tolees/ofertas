@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRYJ9XZ-es Gricol Estante para Ducha Sin Taladrar de Aluminio...'
 sku: 'B07WRYJ9XZ-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

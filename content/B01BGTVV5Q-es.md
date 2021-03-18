@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGTVV5Q-es G-STAR RAW Rovic Zip 3D Tapered Pantalones para Hombre...'
 sku: 'B01BGTVV5Q-es'
+tags: [  ]
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

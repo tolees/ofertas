@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FPQFL1-es Base de Refrigeración para Ordenador Portátil 12"-17.3"...'
 sku: 'B079FPQFL1-es'
+tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

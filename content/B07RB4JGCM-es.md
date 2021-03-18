@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB4JGCM-es Bombilla de maíz de cerámica lámpara de ahorro de energía...'
 sku: 'B07RB4JGCM-es'
+tags: [  ]
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

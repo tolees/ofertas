@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVZSSH8-es Columbia Bajada III Zapatillas de Running para Asfalto...'
 sku: 'B07DVZSSH8-es'
+tags: [  ]
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

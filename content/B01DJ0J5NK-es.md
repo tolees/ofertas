@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DJ0J5NK-es EMPO Toalla Grande Microfibra de 140cm x 80cm Toalla...'
 sku: 'B01DJ0J5NK-es'
+tags: [  ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

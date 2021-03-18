@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TR1ZNG-es flintronic Fresas Set 15 PCS Cortadores Caja de plastico...'
 sku: 'B083TR1ZNG-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

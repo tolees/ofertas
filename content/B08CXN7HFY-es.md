@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXN7HFY-es Bolsa de cosméticos para mujeres siluetas de una paloma...'
 sku: 'B08CXN7HFY-es'
+tags: [  ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

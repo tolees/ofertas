@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D1YTL1U-es atFoliX Lámina Protectora de plástico Cristal compatible...'
 sku: 'B01D1YTL1U-es'
+tags: [  ]
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FYZ9QV-es Woxter QC 10500 - Batería portátil Conexión QC 10.500 mAh...'
 sku: 'B079FYZ9QV-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

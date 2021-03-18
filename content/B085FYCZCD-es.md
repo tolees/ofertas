@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085FYCZCD-es Concise Home and Insect Killer 20w/30w/40w luz UV atraer a...'
 sku: 'B085FYCZCD-es'
+tags: [  ]
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

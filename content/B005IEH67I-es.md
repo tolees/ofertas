@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005IEH67I-es Bourjois Healthy Mix Serum Base de Maquillaje Tono 53...'
 sku: 'B005IEH67I-es'
+tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

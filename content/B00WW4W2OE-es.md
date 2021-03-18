@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WW4W2OE-es Calvin Klein Thong Tanga Grau Grey Heather 020 XL para Mujer'
 sku: 'B00WW4W2OE-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

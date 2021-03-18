@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085QNTDQN-es DY Jin Tablero de Juego de matemáticas de Madera con Juego...'
 sku: 'B085QNTDQN-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

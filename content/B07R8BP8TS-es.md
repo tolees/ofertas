@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R8BP8TS-es KFD Cargador USB Tipo C 90W USB C Adaptador de Pared para...'
 sku: 'B07R8BP8TS-es'
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

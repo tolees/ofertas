@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074S8LZ7B-es Victorem Set de Bandas elásticas – Entrenamiento de...'
 sku: 'B074S8LZ7B-es'
+tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

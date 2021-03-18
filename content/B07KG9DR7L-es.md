@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG9DR7L-es Marshmallow Glitter 40 cm 3 litros Verde Agua'
 sku: 'B07KG9DR7L-es'
+tags: [  ]
 actualPrice: 18.45 EUR
 currency: EUR
 price: 18.45

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6TP1DJ-es MEDION ERAZER P6705 - Portátil gaming 15.6" FullHD Intel...'
 sku: 'B07J6TP1DJ-es'
+tags: [  ]
 actualPrice: 659.99 EUR
 currency: EUR
 price: 659.99

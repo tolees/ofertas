@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776ZRJ4P-es Tommy Hilfiger Original Fine Pique Polo Blanco Classic...'
 sku: 'B0776ZRJ4P-es'
+tags: [  ]
 actualPrice: 27.73 EUR
 currency: EUR
 price: 27.73

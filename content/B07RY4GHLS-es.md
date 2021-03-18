@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY4GHLS-es Funda con Cuerda para Xiaomi Redmi Note 5 Silicona...'
 sku: 'B07RY4GHLS-es'
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

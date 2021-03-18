@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYTJ998-es Skechers Metco Botas Clasicas para Hombre Marrón Brown...'
 sku: 'B07NYTJ998-es'
+tags: [  ]
 actualPrice: 37.76 EUR
 currency: EUR
 price: 37.76

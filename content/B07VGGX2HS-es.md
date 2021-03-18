@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGGX2HS-es Jack & Jones Jjelogo Sweat Hood 2 Col 19/20 Noos Capucha...'
 sku: 'B07VGGX2HS-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

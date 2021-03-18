@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJTKY8J-es Columbia Sandal Sandalia para Hombre Azul Petrol Blue...'
 sku: 'B07RJTKY8J-es'
+tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

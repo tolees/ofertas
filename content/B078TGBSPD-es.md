@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078TGBSPD-es JUNING Kit de Costura Costurero 90pcs Accesorios Costura...'
 sku: 'B078TGBSPD-es'
+tags: [  ]
 actualPrice: 7.22 EUR
 currency: EUR
 price: 7.22

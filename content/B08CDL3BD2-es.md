@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDL3BD2-es VZATT Abridor de latas Manual 2020 Nueva Go Swing Topless...'
 sku: 'B08CDL3BD2-es'
+tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

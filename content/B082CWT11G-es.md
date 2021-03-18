@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082CWT11G-es KLIM™ Aurora - Base de refrigeración para portátiles RGB -...'
 sku: 'B082CWT11G-es'
+tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018PK31HA-es Seiko Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B018PK31HA-es'
+tags: [  ]
 actualPrice: 46.07 EUR
 currency: EUR
 price: 46.07

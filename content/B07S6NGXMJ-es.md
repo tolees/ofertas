@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6NGXMJ-es PUMA Radiate XT Pattern WN S Zapatillas Deportivas para...'
 sku: 'B07S6NGXMJ-es'
+tags: [  ]
 actualPrice: 23.46 EUR
 currency: EUR
 price: 23.46

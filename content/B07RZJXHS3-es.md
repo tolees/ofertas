@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZJXHS3-es New Balance Ryval Run Zapatillas para Correr de Carretera...'
 sku: 'B07RZJXHS3-es'
+tags: [  ]
 actualPrice: 38.88 EUR
 currency: EUR
 price: 38.88

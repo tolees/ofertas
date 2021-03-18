@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZTNXKBT-es Frozen Believe-Mochila 3D Pequeña'
 sku: 'B07ZTNXKBT-es'
+tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

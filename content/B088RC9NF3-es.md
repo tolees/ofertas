@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088RC9NF3-es COOAU Cámara Web 1080p HD con micrófono con cancelación de...'
 sku: 'B088RC9NF3-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

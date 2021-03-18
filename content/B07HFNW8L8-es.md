@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFNW8L8-es Shock Absorber Ultimate Run Bra Sujetador Deportivo Rosa...'
 sku: 'B07HFNW8L8-es'
+tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

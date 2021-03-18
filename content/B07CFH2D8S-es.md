@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CFH2D8S-es JACK & JONES Jjivega Jjretro WW Black Noos Pantalones de...'
 sku: 'B07CFH2D8S-es'
+tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

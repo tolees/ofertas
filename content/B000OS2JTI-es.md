@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OS2JTI-es Kärcher Presostato electrónico 6.997-357.0'
 sku: 'B000OS2JTI-es'
+tags: [  ]
 actualPrice: 77.44 EUR
 currency: EUR
 price: 77.44

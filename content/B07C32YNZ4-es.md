@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C32YNZ4-es Mascarilla facial con Ácido Hialurónico. Máscara de tejido...'
 sku: 'B07C32YNZ4-es'
+tags: [  ]
 actualPrice: 65.9 EUR
 currency: EUR
 price: 65.9

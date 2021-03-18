@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P22Q3TP-es Dickies Adairville suéter Azul X-Large Talla del...'
 sku: 'B07P22Q3TP-es'
+tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

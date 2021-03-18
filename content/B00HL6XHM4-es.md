@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HL6XHM4-es Eucerin Skin Protection Loción Corporal - 400 ml'
 sku: 'B00HL6XHM4-es'
+tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

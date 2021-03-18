@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E5PNAS-es Almacenamiento de Datos Externo Multicolor VERBATIM'
 sku: 'B000E5PNAS-es'
+tags: [  ]
 actualPrice: 2.53 EUR
 currency: EUR
 price: 2.53

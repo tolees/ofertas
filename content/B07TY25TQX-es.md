@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TY25TQX-es Skechers Delson 2.0 Kemper Zapatillas para Hombre Azul...'
 sku: 'B07TY25TQX-es'
+tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

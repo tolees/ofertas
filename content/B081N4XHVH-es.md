@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081N4XHVH-es Decoración para tarta de cumpleaños de acrílico 6 Stück...'
 sku: 'B081N4XHVH-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

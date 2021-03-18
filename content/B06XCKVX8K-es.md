@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCKVX8K-es Nirvel Nutre Color Violeta 200ml'
 sku: 'B06XCKVX8K-es'
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

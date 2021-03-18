@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002MYGQPK-es Mona Lisa Puzzle'
 sku: 'B002MYGQPK-es'
+tags: [  ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

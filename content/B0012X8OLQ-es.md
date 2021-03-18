@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0012X8OLQ-es Revlon Nutri Color Creme Tinte 513-270 ml'
 sku: 'B0012X8OLQ-es'
+tags: [  ]
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

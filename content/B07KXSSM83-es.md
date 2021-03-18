@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXSSM83-es 5pcs Niños Pinceles Cepillo De Mango De Plástico para...'
 sku: 'B07KXSSM83-es'
+tags: [  ]
 actualPrice: 10.72 EUR
 currency: EUR
 price: 10.72

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGPT8VL-es Calvin Klein Unlined Triangle Sujetador de triángulo Gris...'
 sku: 'B07RGPT8VL-es'
+tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

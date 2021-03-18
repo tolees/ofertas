@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EYSS25S-es Batman V Superman - Dawn Of Justice Blu-Ray 4K Ultra...'
 sku: 'B01EYSS25S-es'
+tags: [  ]
 actualPrice: 8.87 EUR
 currency: EUR
 price: 8.87

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGZQZGV-es ZOZOSEP Azucarero para medir el azúcar Azucarero de Acero...'
 sku: 'B07ZGZQZGV-es'
+tags: [  ]
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

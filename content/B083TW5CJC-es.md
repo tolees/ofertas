@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TW5CJC-es Percha Curva Perla Pajarita Decoración Ropa para niños...'
 sku: 'B083TW5CJC-es'
+tags: [  ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STVFYPH-es DC Shoes Pure High-Top WC TX Se Zapatillas de Skateboard...'
 sku: 'B07STVFYPH-es'
+tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QF8HLF6-es cortapelos nariz y orejas recargable 4 en 1 Breett...'
 sku: 'B07QF8HLF6-es'
+tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCY4Q9X-es Caja Lata del Almacenaje Caramelo Organizador de Galletas...'
 sku: 'B06XCY4Q9X-es'
+tags: [  ]
 actualPrice: 2.81 EUR
 currency: EUR
 price: 2.81

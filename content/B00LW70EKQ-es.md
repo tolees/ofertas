@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LW70EKQ-es Nivea soft - Tarro 300 ml pack of 3'
 sku: 'B00LW70EKQ-es'
+tags: [  ]
 actualPrice: 11.07 EUR
 currency: EUR
 price: 11.07

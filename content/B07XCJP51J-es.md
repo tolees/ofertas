@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCJP51J-es BRIKSMAX Kit de Iluminación Led para Harry Potter Cabaña...'
 sku: 'B07XCJP51J-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

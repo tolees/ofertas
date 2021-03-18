@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWJB81F-es Gant Cocoville Zapatillas para Mujer Multicolor...'
 sku: 'B07TWJB81F-es'
+tags: [  ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSM33W9-es Qishare 2 Pares de Calcetines Antideslizantes para Hombres...'
 sku: 'B07VSM33W9-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

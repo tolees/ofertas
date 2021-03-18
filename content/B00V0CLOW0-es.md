@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V0CLOW0-es Poltergeist Ii / Poltergeist Iii [Edizione: Stati Uniti]...'
 sku: 'B00V0CLOW0-es'
+tags: [  ]
 actualPrice: 20.67 EUR
 currency: EUR
 price: 20.67

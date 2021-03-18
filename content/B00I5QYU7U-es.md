@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I5QYU7U-es Elizabeth Arden Visible Difference Primer retexturizante...'
 sku: 'B00I5QYU7U-es'
+tags: [  ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

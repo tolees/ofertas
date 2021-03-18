@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VR53IFG-es Skechers Men s STAMINA CUTBACK Trainers Grey Charcoal &...'
 sku: 'B00VR53IFG-es'
+tags: [  ]
 actualPrice: 38.4 EUR
 currency: EUR
 price: 38.4

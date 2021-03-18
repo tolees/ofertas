@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BT4NT7Y-es Mr. Wonderful Neceser para Cables Imprescindibles para...'
 sku: 'B07BT4NT7Y-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

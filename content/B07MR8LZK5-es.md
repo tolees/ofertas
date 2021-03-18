@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MR8LZK5-es Supra Breaker Zapatillas de Skateboard Unisex Adulto Negro...'
 sku: 'B07MR8LZK5-es'
+tags: [  ]
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

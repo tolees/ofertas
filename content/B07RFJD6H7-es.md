@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFJD6H7-es Herramientas de pulido de la joyería de la regla del papel...'
 sku: 'B07RFJD6H7-es'
+tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YLBLL4W-es S.Oliver Big Size 15.001.35.2335 Polo Verde Pond 6903...'
 sku: 'B07YLBLL4W-es'
+tags: [  ]
 actualPrice: 4.06 EUR
 currency: EUR
 price: 4.06

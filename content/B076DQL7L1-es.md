@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DQL7L1-es Pikmi Pops- Mini Surprise Duo Peluche perfumado Multicolor...'
 sku: 'B076DQL7L1-es'
+tags: [  ]
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018BITHKQ-es COMPRESSPORT Ultraligh Visera Unisex Negro S'
 sku: 'B018BITHKQ-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

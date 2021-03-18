@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CE41YSQ-es Under Armour UA Drift RN Mineral Zapatillas de Running...'
 sku: 'B01CE41YSQ-es'
+tags: [  ]
 actualPrice: 39.84 EUR
 currency: EUR
 price: 39.84

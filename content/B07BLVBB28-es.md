@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BLVBB28-es Bolsa/NIKE:NK ACDMY Team S MISC Marino'
 sku: 'B07BLVBB28-es'
+tags: [  ]
 actualPrice: 12.01 EUR
 currency: EUR
 price: 12.01

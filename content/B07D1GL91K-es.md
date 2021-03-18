@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D1GL91K-es New Balance Fresh Foam Cruz v2 Sock Zapatillas para Mujer...'
 sku: 'B07D1GL91K-es'
+tags: [  ]
 actualPrice: 64.68 EUR
 currency: EUR
 price: 64.68

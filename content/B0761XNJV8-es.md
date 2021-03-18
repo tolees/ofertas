@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0761XNJV8-es Creative Omni - Altavoz portátil inalámbrico Multi-Room...'
 sku: 'B0761XNJV8-es'
+tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBK3J68-es Levi s 502 True Chino Short Pantalones Cortos Azul...'
 sku: 'B07GBK3J68-es'
+tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

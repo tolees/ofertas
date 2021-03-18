@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3Y9PZT-es Desigual Belts Wrap ME Stars Cinturón Verde MUSGO 4000 85...'
 sku: 'B07N3Y9PZT-es'
+tags: [  ]
 actualPrice: 14.58 EUR
 currency: EUR
 price: 14.58

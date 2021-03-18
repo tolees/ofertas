@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FC9HBHX-es Juego de cuchillos Homever juego moderno de bloques de...'
 sku: 'B07FC9HBHX-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

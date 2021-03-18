@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLLFZ31-es Superdry Classic Superstate S/s Polo Rojo Rouge Red Wa7 L...'
 sku: 'B07TLLFZ31-es'
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDXBCBW-es Collistar Sensitive Skin Espuma de Afeitar - 250 ml'
 sku: 'B00XDXBCBW-es'
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

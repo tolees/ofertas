@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071S6YK5R-es 30 juegos de broches de bronce antiguo de 15 x 20 mm C2180'
 sku: 'B071S6YK5R-es'
+tags: [  ]
 actualPrice: 3.31 EUR
 currency: EUR
 price: 3.31

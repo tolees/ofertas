@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYH88XS-es ORNARTO Funda Huawei P30 Pro Carcasa Silicona Transparente...'
 sku: 'B07MYH88XS-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

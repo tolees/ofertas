@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLP879N-es Clarks Un Costa Lace Zapatillas para Hombre Marrón British...'
 sku: 'B07TLP879N-es'
+tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

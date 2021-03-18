@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078X2QHL8-es Dockers by Gerli 36ai227-777200 Mocasines para Mujer Gris...'
 sku: 'B078X2QHL8-es'
+tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

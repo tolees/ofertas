@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0832FFDQ5-es Puma Evospeed High Jump 4 Track and Field Zapatillas...'
 sku: 'B0832FFDQ5-es'
+tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

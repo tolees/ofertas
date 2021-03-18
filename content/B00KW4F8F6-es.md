@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KW4F8F6-es NUK 10255253 - Biberón con asas botella de acero...'
 sku: 'B00KW4F8F6-es'
+tags: [  ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

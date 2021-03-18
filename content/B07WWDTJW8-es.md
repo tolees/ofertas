@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WWDTJW8-es KRISP Zapatillas Mujer Tipo Estilo Imitación Casuales Lona...'
 sku: 'B07WWDTJW8-es'
+tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

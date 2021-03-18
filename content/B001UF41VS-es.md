@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001UF41VS-es Lékué Duo Redondo Rojo Molde Pastel Silicona 23 x 7 x 23 cm'
 sku: 'B001UF41VS-es'
+tags: [  ]
 actualPrice: 16.39 EUR
 currency: EUR
 price: 16.39

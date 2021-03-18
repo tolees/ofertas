@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MGK9QES-es Rimmel London Provocalips Barra De Labios Tono 500 Kiss Me...'
 sku: 'B00MGK9QES-es'
+tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

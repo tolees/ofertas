@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087VJDZTC-es Columbia Fast Trek II Forro Polar con Cremallera Hombre...'
 sku: 'B087VJDZTC-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

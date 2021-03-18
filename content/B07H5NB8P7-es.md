@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5NB8P7-es Salomon XA Compact CA Gorra Ligera para Corriendo Unisex...'
 sku: 'B07H5NB8P7-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

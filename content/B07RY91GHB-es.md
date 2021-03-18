@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY91GHB-es BRIKSMAX Kit de Iluminación Led para Lego City Vehicles...'
 sku: 'B07RY91GHB-es'
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

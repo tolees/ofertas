@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WWRWD5-es Fanola Mascarilla hidratante y rejuvenecedora para la cara...'
 sku: 'B071WWRWD5-es'
+tags: [  ]
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

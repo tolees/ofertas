@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFYZZGD-es PUMA Tarrenz SB Puretex Zapatillas Unisex Adulto Moss...'
 sku: 'B07KFYZZGD-es'
+tags: [  ]
 actualPrice: 29.34 EUR
 currency: EUR
 price: 29.34

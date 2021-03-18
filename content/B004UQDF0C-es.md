@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004UQDF0C-es Superga 2750 Zapatillas Unisex Adulto Gris Grey Stone 36 EU'
 sku: 'B004UQDF0C-es'
+tags: [  ]
 actualPrice: 27.55 EUR
 currency: EUR
 price: 27.55

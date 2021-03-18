@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DQEAYZS-es MANN-FILTER HU 7008 Z Original Filtro de Aceite Set de...'
 sku: 'B00DQEAYZS-es'
+tags: [  ]
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

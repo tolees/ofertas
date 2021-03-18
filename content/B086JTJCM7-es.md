@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086JTJCM7-es SALAKA Contactos de Costura Kit 1Ponga Bias Tape Maker...'
 sku: 'B086JTJCM7-es'
+tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

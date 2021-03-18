@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074M46VVS-es ELEGOO 32 Piezas Doble Cara Junta de PCB Doble Cara...'
 sku: 'B074M46VVS-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

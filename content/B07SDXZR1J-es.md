@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDXZR1J-es PUMA X-Ray Zapatillas Unisex-Adulto Azul Royal White/High...'
 sku: 'B07SDXZR1J-es'
+tags: [  ]
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

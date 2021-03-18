@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D1HKCAQ-es Samsonite Neopulse - Spinner M Maleta 69 cm 74 L Negro...'
 sku: 'B01D1HKCAQ-es'
+tags: [  ]
 actualPrice: 188.55 EUR
 currency: EUR
 price: 188.55

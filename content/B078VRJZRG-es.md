@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078VRJZRG-es Volcom Miter II Cargo Bermudas Hombre Verde Khaki 31'
 sku: 'B078VRJZRG-es'
+tags: [  ]
 actualPrice: 38.47 EUR
 currency: EUR
 price: 38.47

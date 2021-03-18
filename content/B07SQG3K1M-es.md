@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQG3K1M-es Winning Moves-Juego de Mesa de una Pieza Color 036948'
 sku: 'B07SQG3K1M-es'
+tags: [  ]
 actualPrice: 33.64 EUR
 currency: EUR
 price: 33.64

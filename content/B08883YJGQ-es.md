@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08883YJGQ-es Crystals & Stones BAP39 - Pendientes de plata de ley 925...'
 sku: 'B08883YJGQ-es'
+tags: [  ]
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPDKF4D-es Skagen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07SPDKF4D-es'
+tags: [  ]
 actualPrice: 29.7 EUR
 currency: EUR
 price: 29.7

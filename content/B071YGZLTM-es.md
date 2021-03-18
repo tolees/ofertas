@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YGZLTM-es Wilson Set completo para principiantes 9 palos de golf con...'
 sku: 'B071YGZLTM-es'
+tags: [  ]
 actualPrice: 226.72 EUR
 currency: EUR
 price: 226.72

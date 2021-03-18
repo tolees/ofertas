@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087VK7M4D-es Columbia Pike Lake Chaqueta con Capucha Hombre Rojo Negro...'
 sku: 'B087VK7M4D-es'
+tags: [ 'Acampada y senderismo','Chaquetas de acampada y marcha para hombre','Chubasqueros de acampada y marcha para hombre','Deportes y aire libre','Ropa de acampada','Ropa de acampada para hombre','columbia', ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95
@@ -27,10 +28,10 @@ Tienes [Columbia Pike Lake Chaqueta con Capucha  Hombre  Rojo  Negro  Mountain R
 
 🔎:
 
-- Tejido resistente al agua que te protege de los chubascos y la niebla
-- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 - Chaqueta de invierno para hombre con capucha, optimo para pasear tranquilamente por la ciudad o descubrir nuevas rutas de senderismo
-- Contenido: 1x Columbia Pike Lake Chaqueta con capucha para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Microtex Light 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Rojo, Negro (Mountain Red Shine, Shark), Talla: XL, Art.No. 1738032
+- Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 - El forro termorreflectante para mantener la temperatura interior sin sobrecalentamiento
+- Tejido resistente al agua que te protege de los chubascos y la niebla
+- Contenido: 1x Columbia Pike Lake Chaqueta con capucha para hombre, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Microtex Light 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Rojo, Negro (Mountain Red Shine, Shark), Talla: XL, Art.No. 1738032
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087VK7M4D/?tag=tolees-21)

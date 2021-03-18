@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077C22GRC-es Tous Baby- Oso Musical Color Celeste T.Bear-603 00067 0/36M'
 sku: 'B077C22GRC-es'
+tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

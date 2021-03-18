@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000T7KP9U-es Finder serie 40 - Rele mini reticulado 5mm conmutado 16a...'
 sku: 'B000T7KP9U-es'
+tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

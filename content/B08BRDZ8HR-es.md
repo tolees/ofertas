@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BRDZ8HR-es 8 Piezas Latas Pequeñas Rectangulares de Metal con Latas...'
 sku: 'B08BRDZ8HR-es'
+tags: [  ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

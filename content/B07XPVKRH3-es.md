@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XPVKRH3-es Zapatillas de espinilleras de fútbol para Profesionales...'
 sku: 'B07XPVKRH3-es'
+tags: [  ]
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

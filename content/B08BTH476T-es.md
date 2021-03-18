@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BTH476T-es 3pcs Estuche portátil Guarda mascarilla. Bolsa/Caja de...'
 sku: 'B08BTH476T-es'
+tags: [  ]
 actualPrice: 2.35 EUR
 currency: EUR
 price: 2.35

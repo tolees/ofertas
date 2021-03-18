@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0066TGLSY-es Boucheron Agua de perfume para hombres - 100 gr.'
 sku: 'B0066TGLSY-es'
+tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

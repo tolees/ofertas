@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBFFDT7-es O NEILL PM Cali Bañador Hombre Multicolor L'
 sku: 'B07KBFFDT7-es'
+tags: [  ]
 actualPrice: 23.51 EUR
 currency: EUR
 price: 23.51

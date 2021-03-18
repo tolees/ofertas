@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004GJWXLU-es ESPRIT Leggings Para Mujer Azul Marine 40/42 EU 14/16 UK'
 sku: 'B004GJWXLU-es'
+tags: [  ]
 actualPrice: 7.81 EUR
 currency: EUR
 price: 7.81

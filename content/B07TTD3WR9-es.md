@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTD3WR9-es Funko- Pop Rocks: Iron Maiden-Piece of Mind Skeleton Eddie...'
 sku: 'B07TTD3WR9-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

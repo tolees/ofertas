@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LPLKI8M-es Bella Aurora Gel Exfoliante Facial Anti-Manchas | Limpia...'
 sku: 'B00LPLKI8M-es'
+tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

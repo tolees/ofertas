@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PCQFN1Z-es BE-TOOL - Cuchillas de sierra de calar T244D 5 piezas...'
 sku: 'B07PCQFN1Z-es'
+tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

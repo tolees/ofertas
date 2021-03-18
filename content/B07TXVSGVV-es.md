@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXVSGVV-es BRIKSMAX Kit de Iluminación Led para Lego Ideas Voltron...'
 sku: 'B07TXVSGVV-es'
+tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZY5YKV6-es Roc Soleil-Protect Leche Hidratante Corporal Protección...'
 sku: 'B00ZY5YKV6-es'
+tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

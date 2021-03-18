@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y8C1S2K-es WARDBES EMS Masajeador de Pie Plegable 2019 Nuevo Control...'
 sku: 'B07Y8C1S2K-es'
+tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

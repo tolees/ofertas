@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868NMSWT-es Suhctup Transparente Funda Compatible con OnePlus 7T Pro...'
 sku: 'B0868NMSWT-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSP35VG-es Depesche Cepillo de Pelo Plegable 8846 Modelo Top Aprox. 7...'
 sku: 'B07TSP35VG-es'
+tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

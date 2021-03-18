@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCZVV6L-es TECHGEAR Funda de Cuero para Nuevo Samsung Galaxy Tab A...'
 sku: 'B07SCZVV6L-es'
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

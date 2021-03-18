@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009R5GQIE-es DIM Generous Minimizer Sujetador Reductor Blanco White 95D...'
 sku: 'B009R5GQIE-es'
+tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

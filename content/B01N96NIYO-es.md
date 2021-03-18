@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N96NIYO-es Giraffe Boy. Juguete de ganchillo'
 sku: 'B01N96NIYO-es'
+tags: [  ]
 actualPrice: 50.4 EUR
 currency: EUR
 price: 50.4

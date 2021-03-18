@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E1L8QIC-es CANTU ARGAN OIL LEAVE-IN CONDITIONING REPAIR CREAM 453G'
 sku: 'B00E1L8QIC-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

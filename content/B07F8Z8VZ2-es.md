@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8Z8VZ2-es Homyl Comprimido móvil Esile del ordenador del accesorio...'
 sku: 'B07F8Z8VZ2-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

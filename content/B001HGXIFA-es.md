@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001HGXIFA-es Gonher - Fulminantes de 8 Disparos 8/0'
 sku: 'B001HGXIFA-es'
+tags: [  ]
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

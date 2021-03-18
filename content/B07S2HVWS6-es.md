@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2HVWS6-es FILA - Women Bra - Pink Panther'
 sku: 'B07S2HVWS6-es'
+tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

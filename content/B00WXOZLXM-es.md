@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WXOZLXM-es Skechers Synergy-Winter Nights Botas para Mujer Negro...'
 sku: 'B00WXOZLXM-es'
+tags: [  ]
 actualPrice: 30.38 EUR
 currency: EUR
 price: 30.38

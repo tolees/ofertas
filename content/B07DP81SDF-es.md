@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DP81SDF-es adidas Falcon W Running Shoe Womens Core Black/Core...'
 sku: 'B07DP81SDF-es'
+tags: [  ]
 actualPrice: 38.37 EUR
 currency: EUR
 price: 38.37

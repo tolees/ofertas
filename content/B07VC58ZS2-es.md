@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC58ZS2-es Mosquitera Mosquitera Carro Bebe Universal Mosquitera...'
 sku: 'B07VC58ZS2-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

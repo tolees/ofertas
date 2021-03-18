@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001E06IGA-es Nike Force 1 PS Zapatillas de Baloncesto para Niños Negro...'
 sku: 'B001E06IGA-es'
+tags: [  ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

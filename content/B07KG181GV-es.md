@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG181GV-es PUMA RS 9.8 Space Zapatillas Unisex Adulto Black-Galaxy...'
 sku: 'B07KG181GV-es'
+tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

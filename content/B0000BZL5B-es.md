@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000BZL5B-es B+W Circular MRC - Filtro polarizador para 58 mm'
 sku: 'B0000BZL5B-es'
+tags: [  ]
 actualPrice: 60.38 EUR
 currency: EUR
 price: 60.38

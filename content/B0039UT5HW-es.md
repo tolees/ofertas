@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0039UT5HW-es Casio Reloj de Pulsera MTP-1303PD-1AVEF'
 sku: 'B0039UT5HW-es'
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

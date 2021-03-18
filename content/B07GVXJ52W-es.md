@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVXJ52W-es Blind'
 sku: 'B07GVXJ52W-es'
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

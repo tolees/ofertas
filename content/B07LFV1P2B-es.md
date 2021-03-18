@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFV1P2B-es Micrófono Gaming Voice USB de escritorio Luz LED Micrófono...'
 sku: 'B07LFV1P2B-es'
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

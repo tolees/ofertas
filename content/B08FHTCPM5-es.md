@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FHTCPM5-es InnooCare 12 unidades lavable y reutilizable'
 sku: 'B08FHTCPM5-es'
+tags: [  ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

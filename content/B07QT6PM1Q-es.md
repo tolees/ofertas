@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QT6PM1Q-es Asics Gel-Fujitrabuco 7 Zapatillas de Entrenamiento para...'
 sku: 'B07QT6PM1Q-es'
+tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

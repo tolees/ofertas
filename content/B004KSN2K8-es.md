@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004KSN2K8-es Docena de juguetes para el sexo'
 sku: 'B004KSN2K8-es'
+tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

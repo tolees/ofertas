@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072C2KQPP-es Party & Co. Original Adultos Juego de mesa de carreras -...'
 sku: 'B072C2KQPP-es'
+tags: [  ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

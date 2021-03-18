@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071GZMKKW-es TATAY Urban Food Prime Gris - Bolsa térmica Porta...'
 sku: 'B071GZMKKW-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

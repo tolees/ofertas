@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2NMT8G-es BRIKSMAX Kit de Iluminación Led para The Big Bang Theory-...'
 sku: 'B07N2NMT8G-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

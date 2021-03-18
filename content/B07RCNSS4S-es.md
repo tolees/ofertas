@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RCNSS4S-es Nike W Nk Dry Get Fit FLC HD FZ JDI Long Sleeved T-Shirt...'
 sku: 'B07RCNSS4S-es'
+tags: [  ]
 actualPrice: 24.58 EUR
 currency: EUR
 price: 24.58

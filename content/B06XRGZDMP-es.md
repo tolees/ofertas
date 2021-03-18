@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XRGZDMP-es Hugo BOSS Reloj para Hombre 1513484'
 sku: 'B06XRGZDMP-es'
+tags: [  ]
 actualPrice: 119.59 EUR
 currency: EUR
 price: 119.59

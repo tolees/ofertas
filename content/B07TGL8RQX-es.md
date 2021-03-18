@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TGL8RQX-es Muñeco Diabolico BD + DVD de Extras + Slip Cover 1988...'
 sku: 'B07TGL8RQX-es'
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

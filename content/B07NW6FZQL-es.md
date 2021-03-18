@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW6FZQL-es Skechers On-the- Go Joy Botas Altas Mujer Dark Taupe Suede...'
 sku: 'B07NW6FZQL-es'
+tags: [  ]
 actualPrice: 30.43 EUR
 currency: EUR
 price: 30.43

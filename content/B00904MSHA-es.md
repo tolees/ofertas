@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00904MSHA-es Sesderma Acglicolic Classic Leche Corporal Hidratante 200 ml'
 sku: 'B00904MSHA-es'
+tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

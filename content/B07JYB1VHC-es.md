@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYB1VHC-es 28 Palms 9" Inseam Cotton Tencel Chino Short shorts Caqui 38'
 sku: 'B07JYB1VHC-es'
+tags: [  ]
 actualPrice: 12.96 EUR
 currency: EUR
 price: 12.96

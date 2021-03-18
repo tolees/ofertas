@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HBBV3W-es ART VVIES Wandbild Leinwand mit Haken 24x24 Zoll Küche...'
 sku: 'B082HBBV3W-es'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

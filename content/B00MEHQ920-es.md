@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MEHQ920-es Panasonic ER-GB70-S503 Recortadora WET&DRY para hombre 3...'
 sku: 'B00MEHQ920-es'
+tags: [  ]
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

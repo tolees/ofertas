@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AS8ZJWI-es Cata M98536 - Extractor helicoidal lhv-225'
 sku: 'B00AS8ZJWI-es'
+tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

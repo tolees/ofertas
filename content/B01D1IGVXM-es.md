@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D1IGVXM-es REPEL BITE NATURAL ADULTO pulsera citronela. Pulsera...'
 sku: 'B01D1IGVXM-es'
+tags: [  ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

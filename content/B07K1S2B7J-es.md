@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1S2B7J-es adidas Tastigo19 Shorts Kids Pantaones Cortos de Fútbol...'
 sku: 'B07K1S2B7J-es'
+tags: [  ]
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074H5LYTZ-es Russell Hobbs Light & Easy Brights - Plancha de Ropa de...'
 sku: 'B074H5LYTZ-es'
+tags: [  ]
 actualPrice: 22.72 EUR
 currency: EUR
 price: 22.72

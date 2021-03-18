@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVZ7CKG-es Pierre Calvini - Calzoncillos bóxer para hombre ajustados...'
 sku: 'B07PVZ7CKG-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

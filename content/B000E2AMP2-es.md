@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E2AMP2-es K&N HA-6089 Filtro de Aire para XL600V TRANSALP 89-99 Moto'
 sku: 'B000E2AMP2-es'
+tags: [  ]
 actualPrice: 63.82 EUR
 currency: EUR
 price: 63.82

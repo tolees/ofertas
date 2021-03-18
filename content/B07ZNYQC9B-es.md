@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNYQC9B-es Valsole Plantillas Ortopédicas soportes de arco y talones...'
 sku: 'B07ZNYQC9B-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

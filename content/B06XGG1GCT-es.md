@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGG1GCT-es Funko Pop! - Warden Figura de Vinilo seria The Elder...'
 sku: 'B06XGG1GCT-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

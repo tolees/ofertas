@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WS5M5FB-es Videocamara Videocámara Cámara de Video Full HD 1080p...'
 sku: 'B07WS5M5FB-es'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

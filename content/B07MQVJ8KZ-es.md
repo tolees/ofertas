@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQVJ8KZ-es Napapijri EISBERG Polo Azul BLU Marine 176 M para Hombre'
 sku: 'B07MQVJ8KZ-es'
+tags: [  ]
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

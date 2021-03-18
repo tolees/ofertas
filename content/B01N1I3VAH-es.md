@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1I3VAH-es Indoor Copa'
 sku: 'B01N1I3VAH-es'
+tags: [  ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

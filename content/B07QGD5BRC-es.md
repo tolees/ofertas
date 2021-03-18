@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGD5BRC-es Roc Soleil - Pack Ahorro con Neceser de Regalo Incluye...'
 sku: 'B07QGD5BRC-es'
+tags: [  ]
 actualPrice: 14 EUR
 currency: EUR
 price: 14

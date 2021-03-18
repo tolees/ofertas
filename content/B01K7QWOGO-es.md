@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7QWOGO-es Vernel Cielo Azul Suavizante Concentrado - 57 Dosis'
 sku: 'B01K7QWOGO-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

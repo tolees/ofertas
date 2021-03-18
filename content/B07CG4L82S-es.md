@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CG4L82S-es Filtro para Ducha Universal AUELEK 10 Etapas Filtro...'
 sku: 'B07CG4L82S-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

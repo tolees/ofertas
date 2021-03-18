@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LGLMGR-es American Tourister - Bon Air - Spinner Equipaje de mano 55...'
 sku: 'B079LGLMGR-es'
+tags: [  ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZXJV8Q-es Piscina Luz LED Impermeables Luces Sumergibles Control...'
 sku: 'B083ZXJV8Q-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

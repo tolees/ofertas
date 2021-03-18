@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757T6WHC-es 226ERS Salts Electrolytes Sales Minerales Electrolitos -...'
 sku: 'B0757T6WHC-es'
+tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

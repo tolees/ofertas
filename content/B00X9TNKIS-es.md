@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9TNKIS-es Garnier Delial Spray Protector Hidratante 24 Horas con...'
 sku: 'B00X9TNKIS-es'
+tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

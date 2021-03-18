@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFY5PYM-es PUMA LQDCELL Optic Sheer Zapatillas de Running para Hombre...'
 sku: 'B07KFY5PYM-es'
+tags: [  ]
 actualPrice: 58.78 EUR
 currency: EUR
 price: 58.78

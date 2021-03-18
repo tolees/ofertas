@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ZBUY78-es Seiko Reloj Analógico Automático para Mujer con Correa de...'
 sku: 'B000ZBUY78-es'
+tags: [  ]
 actualPrice: 110.89 EUR
 currency: EUR
 price: 110.89

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005UXQA0Q-es Ish - Ginebra London Dry Gin'
 sku: 'B005UXQA0Q-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

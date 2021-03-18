@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFZTVSH-es New Balance 373 Zapatillas Hombre Negro Black Black 40.5...'
 sku: 'B07HFZTVSH-es'
+tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

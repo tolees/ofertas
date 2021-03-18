@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LW76KHY-es GOLIATE Eros Anillo Vibrador de Lujo Para El Pene -...'
 sku: 'B01LW76KHY-es'
+tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

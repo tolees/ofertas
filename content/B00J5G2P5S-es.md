@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J5G2P5S-es HARTMANN - TIRITAS SPORT EXPRESS 15 U'
 sku: 'B00J5G2P5S-es'
+tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

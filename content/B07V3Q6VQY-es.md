@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3Q6VQY-es Jack & Jones 12158190 Suéter Verde Darkest Spruce Darkest...'
 sku: 'B07V3Q6VQY-es'
+tags: [  ]
 actualPrice: 19.18 EUR
 currency: EUR
 price: 19.18

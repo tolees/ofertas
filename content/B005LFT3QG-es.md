@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005LFT3QG-es Tarjeta de memoria SDHC SanDisk Extreme Pro 32GB UHS-I 95MB/s'
 sku: 'B005LFT3QG-es'
+tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

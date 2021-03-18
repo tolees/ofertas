@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ6LF6R-es Little Nightmares - Complete Edition Code In A Box'
 sku: 'B07SJ6LF6R-es'
+tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

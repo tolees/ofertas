@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZYDH8B-es Skechers Women s GO Walk 5 Trainers Black Black...'
 sku: 'B07MZYDH8B-es'
+tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

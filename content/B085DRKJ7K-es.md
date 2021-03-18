@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085DRKJ7K-es LTDNB Cargador Inalámbrico 10W Qi Wireless Carga Rápida...'
 sku: 'B085DRKJ7K-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

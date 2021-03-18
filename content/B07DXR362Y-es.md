@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXR362Y-es Quinua Real Barrita de cereal Coco - 20 de 20 gr. Total...'
 sku: 'B07DXR362Y-es'
+tags: [  ]
 actualPrice: 12.28 EUR
 currency: EUR
 price: 12.28

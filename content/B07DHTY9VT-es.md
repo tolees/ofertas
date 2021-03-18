@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHTY9VT-es Lacoste Ziane BL 1 CFA Zapatillas para Mujer Azul Navy 41 EU'
 sku: 'B07DHTY9VT-es'
+tags: [  ]
 actualPrice: 44.07 EUR
 currency: EUR
 price: 44.07

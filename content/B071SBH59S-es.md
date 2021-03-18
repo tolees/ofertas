@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071SBH59S-es Buscador de Llaves Esky 4 en 1 Key Finder Control remoto...'
 sku: 'B071SBH59S-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

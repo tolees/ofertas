@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2QLLFS-es New Balance 574 Zapatillas Clásicas para Mujer Morado...'
 sku: 'B07S2QLLFS-es'
+tags: [  ]
 actualPrice: 32.84 EUR
 currency: EUR
 price: 32.84

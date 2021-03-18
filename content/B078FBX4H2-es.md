@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078FBX4H2-es Crocs Classic Slipper Zapatillas de Estar por casa Unisex...'
 sku: 'B078FBX4H2-es'
+tags: [  ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

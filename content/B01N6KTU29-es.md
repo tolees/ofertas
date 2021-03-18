@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6KTU29-es FORTEM Cojín de Asiento y Respaldo de Soporte Lumbar...'
 sku: 'B01N6KTU29-es'
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

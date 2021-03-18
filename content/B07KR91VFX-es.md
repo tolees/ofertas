@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KR91VFX-es New Balance 624v5 Zapatillas Deportivas para Interior para...'
 sku: 'B07KR91VFX-es'
+tags: [  ]
 actualPrice: 22.61 EUR
 currency: EUR
 price: 22.61

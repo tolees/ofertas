@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLRZB1L-es Mesa en la Asiento de Coche infantil bandeja del coche...'
 sku: 'B07PLRZB1L-es'
+tags: [  ]
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

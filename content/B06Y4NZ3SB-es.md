@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y4NZ3SB-es Dolovemk 10Pcs Beauty Sponge Blender Makeup Blender Sponge...'
 sku: 'B06Y4NZ3SB-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

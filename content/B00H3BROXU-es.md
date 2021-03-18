@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H3BROXU-es Rimmel London Stay Matte Base de Maquillaje Tono 300 Sand...'
 sku: 'B00H3BROXU-es'
+tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

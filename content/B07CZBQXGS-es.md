@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZBQXGS-es Under Armour Men s Golf Headline Cap 3.0 Visera Clásica...'
 sku: 'B07CZBQXGS-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

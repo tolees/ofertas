@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDMYPPJ-es G-STAR RAW Halite Polo Rojo Dk Baron 4749 XX-Small para...'
 sku: 'B07NDMYPPJ-es'
+tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4XBLHC-es CHAKB|#Chatham Fairway Mocasines para Hombre Navy 001 41 EU'
 sku: 'B07G4XBLHC-es'
+tags: [  ]
 actualPrice: 18.65 EUR
 currency: EUR
 price: 18.65

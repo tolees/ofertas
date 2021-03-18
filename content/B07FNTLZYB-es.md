@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNTLZYB-es Buff Ebba Cloud Calentador Tricot Y Polar Mujer Talla única'
 sku: 'B07FNTLZYB-es'
+tags: [  ]
 actualPrice: 16.53 EUR
 currency: EUR
 price: 16.53

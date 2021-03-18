@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9TWPBB-es SANGEAN DT-160 Am/FM'
 sku: 'B06X9TWPBB-es'
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

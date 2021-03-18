@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPW384C-es Max Factor Base de maquillaje Matificante y minimizador de...'
 sku: 'B07KPW384C-es'
+tags: [  ]
 actualPrice: 6.64 EUR
 currency: EUR
 price: 6.64

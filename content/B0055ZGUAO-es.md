@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0055ZGUAO-es Jata 756 Balanza electrónica Cristal temperit Plateado/Negro'
 sku: 'B0055ZGUAO-es'
+tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

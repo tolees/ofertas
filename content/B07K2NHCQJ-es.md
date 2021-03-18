@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2NHCQJ-es adidas Runfalcon Zapatillas de Running para Hombre Rot...'
 sku: 'B07K2NHCQJ-es'
+tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

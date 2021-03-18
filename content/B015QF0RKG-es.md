@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015QF0RKG-es Prolinx X-21 - Cable Video 1.5 m Color Negro'
 sku: 'B015QF0RKG-es'
+tags: [  ]
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

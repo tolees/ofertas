@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHWCKLR-es Columbia Youth Gorra Ajustable para jóvenes Unisex niños...'
 sku: 'B07RHWCKLR-es'
+tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

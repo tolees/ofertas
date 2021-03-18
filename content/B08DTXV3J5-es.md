@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DTXV3J5-es Auriculares inalámbricos Bluetooth 5.0 Auriculares...'
 sku: 'B08DTXV3J5-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

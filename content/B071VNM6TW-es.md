@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071VNM6TW-es Asics Gel-Pulse 9 G-TX T7d9n-3390 Zapatillas de...'
 sku: 'B071VNM6TW-es'
+tags: [  ]
 actualPrice: 61.91 EUR
 currency: EUR
 price: 61.91

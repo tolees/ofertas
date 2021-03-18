@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2MJ3GT-es adidas Runfalcon Zapatillas de Entrenamiento para Mujer...'
 sku: 'B07K2MJ3GT-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

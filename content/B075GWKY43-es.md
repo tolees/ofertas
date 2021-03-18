@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GWKY43-es Mannli Mujer Unisex acero inoxidable Sin piedra'
 sku: 'B075GWKY43-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

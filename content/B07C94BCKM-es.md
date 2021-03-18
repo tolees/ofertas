@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C94BCKM-es Columbia Canyon Point Zapatillas de Senderismo...'
 sku: 'B07C94BCKM-es'
+tags: [  ]
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0001VVZUC-es Solgar® Zinc Quelado 100 Comprimidos - Protege del daño...'
 sku: 'B0001VVZUC-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

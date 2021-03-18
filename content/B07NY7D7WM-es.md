@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY7D7WM-es Superdry Classic Lite Micro Sports Polo Rojo Rouge Red Wa7...'
 sku: 'B07NY7D7WM-es'
+tags: [  ]
 actualPrice: 12.73 EUR
 currency: EUR
 price: 12.73

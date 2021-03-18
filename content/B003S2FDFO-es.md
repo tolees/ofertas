@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003S2FDFO-es Vans Herren OTW T-Shirt Weiß WHITE-BLACK YB2 XL'
 sku: 'B003S2FDFO-es'
+tags: [  ]
 actualPrice: 19.37 EUR
 currency: EUR
 price: 19.37

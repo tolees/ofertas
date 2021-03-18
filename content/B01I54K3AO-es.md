@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I54K3AO-es Gel Pad Juanete manga corrector de juanetes pantalla para...'
 sku: 'B01I54K3AO-es'
+tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

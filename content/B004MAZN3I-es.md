@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004MAZN3I-es Seiko Reloj con Correa de Acero para Hombre SNKK27K1'
 sku: 'B004MAZN3I-es'
+tags: [  ]
 actualPrice: 94.05 EUR
 currency: EUR
 price: 94.05

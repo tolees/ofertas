@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L22XMZY-es EVOWHEY PROTEIN 2.0 Chocolate 2Kg'
 sku: 'B01L22XMZY-es'
+tags: [  ]
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0090XOFD6-es Sisley Contorno de Ojos - 450 gr'
 sku: 'B0090XOFD6-es'
+tags: [  ]
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

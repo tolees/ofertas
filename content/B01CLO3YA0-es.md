@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CLO3YA0-es Bourjois Radiance Reveal Corrector Tono 01 Ivory - 29 gr.'
 sku: 'B01CLO3YA0-es'
+tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

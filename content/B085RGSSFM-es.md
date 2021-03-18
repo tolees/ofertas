@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RGSSFM-es Calcetines de fútbol J color personalizados con número de...'
 sku: 'B085RGSSFM-es'
+tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

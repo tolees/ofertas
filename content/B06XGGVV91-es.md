@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGGVV91-es find. Zapato de Cordones Piel Grabada para Hombre Negro...'
 sku: 'B06XGGVV91-es'
+tags: [  ]
 actualPrice: 28.27 EUR
 currency: EUR
 price: 28.27

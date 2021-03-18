@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNH45ZB-es Bolsas de plástico resellables bolsa sellada bolsa de...'
 sku: 'B07CNH45ZB-es'
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

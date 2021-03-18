@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P114FJH-es LIGHTAILING Conjunto de Luces Harry Potter Gran Comedor de...'
 sku: 'B07P114FJH-es'
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

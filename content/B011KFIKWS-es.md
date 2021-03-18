@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011KFIKWS-es MaxHold Sistema de vacío Toalleros de aro - No-perforar -...'
 sku: 'B011KFIKWS-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

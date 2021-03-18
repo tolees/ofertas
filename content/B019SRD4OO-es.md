@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019SRD4OO-es Kmise - Ukelele tenor 66 cm madera maciza de caoba puente...'
 sku: 'B019SRD4OO-es'
+tags: [  ]
 actualPrice: 25.79 EUR
 currency: EUR
 price: 25.79

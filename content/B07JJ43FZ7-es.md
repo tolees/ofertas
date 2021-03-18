@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJ43FZ7-es G-STAR RAW Feldspar High Waist Straight Cargo Pantalones...'
 sku: 'B07JJ43FZ7-es'
+tags: [  ]
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

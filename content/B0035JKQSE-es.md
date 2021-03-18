@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0035JKQSE-es VAUDE Bike Essential Kits Primeros Auxilios Unisex Adulto...'
 sku: 'B0035JKQSE-es'
+tags: [  ]
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

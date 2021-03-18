@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7S9XQ6-es Garnier Skin Active Agua Micelar Clásica para pieles...'
 sku: 'B01K7S9XQ6-es'
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

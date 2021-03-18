@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MK3XSH-es Build a Bot dec164494 Zorro'
 sku: 'B077MK3XSH-es'
+tags: [  ]
 actualPrice: 15.2 EUR
 currency: EUR
 price: 15.2

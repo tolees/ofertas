@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PH4WRZH-es Fila Orbit Low Zapatillas para Hombre Blanco White...'
 sku: 'B07PH4WRZH-es'
+tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

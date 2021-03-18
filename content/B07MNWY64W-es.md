@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MNWY64W-es SNAPTAIN Mini Drone H823H Plus con 3 baterías para 21...'
 sku: 'B07MNWY64W-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

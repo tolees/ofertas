@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017I4MS2S-es HOMCOM Puerta Corredera 205x77.5cm Puertas Correderas...'
 sku: 'B017I4MS2S-es'
+tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

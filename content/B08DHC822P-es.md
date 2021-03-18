@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DHC822P-es YQHbe Caja de Almacenamiento de M-á-scara Desechables...'
 sku: 'B08DHC822P-es'
+tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

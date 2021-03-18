@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCZM5ZR-es Bolsa de Lino con Cordón KATOOM 24pcs Bolsitas de Tela...'
 sku: 'B07XCZM5ZR-es'
+tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

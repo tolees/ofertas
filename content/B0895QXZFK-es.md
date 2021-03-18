@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895QXZFK-es Bolsa de maquillaje con forma de concha de mar con...'
 sku: 'B0895QXZFK-es'
+tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

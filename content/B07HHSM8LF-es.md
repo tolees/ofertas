@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHSM8LF-es Jump Force - Collector s Edition'
 sku: 'B07HHSM8LF-es'
+tags: [  ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

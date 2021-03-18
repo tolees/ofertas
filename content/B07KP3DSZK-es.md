@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KP3DSZK-es SALOMON Speed Pro 1 Par de Calcetines Tobilleros Unisex...'
 sku: 'B07KP3DSZK-es'
+tags: [  ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

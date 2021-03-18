@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBQWZMM-es Kickers Bromer Botas Clasicas para Hombre Marrón Marron...'
 sku: 'B07MBQWZMM-es'
+tags: [  ]
 actualPrice: 41.29 EUR
 currency: EUR
 price: 41.29

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K19RDDC-es adidas Tiro19 2in1 SHO Sport Trousers Hombre Black/White 2XL'
 sku: 'B07K19RDDC-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

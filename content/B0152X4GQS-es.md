@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0152X4GQS-es Dove Derma Spa Summer Media Resucitado a Dark Skin Body...'
 sku: 'B0152X4GQS-es'
+tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

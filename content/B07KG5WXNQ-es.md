@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG5WXNQ-es Puma Future Runner Premium Zapatillas Unisex Adulto Blanco...'
 sku: 'B07KG5WXNQ-es'
+tags: [  ]
 actualPrice: 27.1 EUR
 currency: EUR
 price: 27.1

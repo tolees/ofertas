@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRLNB73-es New Balance 574v2 Zapatillas para Mujer Rosa Pink/Black...'
 sku: 'B07KRLNB73-es'
+tags: [  ]
 actualPrice: 37.68 EUR
 currency: EUR
 price: 37.68

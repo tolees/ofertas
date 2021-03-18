@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QNRYW1H-es O³ Crema Anticelulítica 200 ml | Crema Reductora Abdomen...'
 sku: 'B07QNRYW1H-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

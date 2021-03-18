@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082W3BJJL-es Pistola de Masaje Electrónica Masajeador de Tejido...'
 sku: 'B082W3BJJL-es'
+tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

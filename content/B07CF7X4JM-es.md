@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CF7X4JM-es efluky Ventilador Portatil Mini Ventilador USB Ventilador...'
 sku: 'B07CF7X4JM-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

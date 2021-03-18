@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WQJ66H-es SD2VITA Pro - Adaptador Pro 5.0 para tarjeta de memoria PS...'
 sku: 'B078WQJ66H-es'
+tags: [  ]
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

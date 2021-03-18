@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MHBFFSL-es Star vie Aquila Pro'
 sku: 'B07MHBFFSL-es'
+tags: [  ]
 actualPrice: 102.5 EUR
 currency: EUR
 price: 102.5

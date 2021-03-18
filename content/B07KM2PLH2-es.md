@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KM2PLH2-es Gant Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07KM2PLH2-es'
+tags: [  ]
 actualPrice: 47.6 EUR
 currency: EUR
 price: 47.6

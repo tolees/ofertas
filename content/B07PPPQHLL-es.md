@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPPQHLL-es Fortnite Set de juego con 2 Figuras multicolor Jazwares...'
 sku: 'B07PPPQHLL-es'
+tags: [  ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

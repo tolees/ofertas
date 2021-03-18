@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RABQ0GK-es CREATIVE Sound Blaster X7 USB DAC'
 sku: 'B00RABQ0GK-es'
+tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

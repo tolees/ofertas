@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0052EDC8Q-es STERADENT - STERADENT 60+30 TRIPLE AC'
 sku: 'B0052EDC8Q-es'
+tags: [  ]
 actualPrice: 9.11 EUR
 currency: EUR
 price: 9.11

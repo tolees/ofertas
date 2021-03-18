@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKGC7XX-es K9CK Juego de Luces para Land Rover Defender Led Faro Kit...'
 sku: 'B07ZKGC7XX-es'
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

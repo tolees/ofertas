@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDMMM5R-es Equipo fotográfico portátil de Photo Booster de Mini...'
 sku: 'B07MDMMM5R-es'
+tags: [  ]
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

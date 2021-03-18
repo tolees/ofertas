@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KJZBN79-es Toyvian Scratch Draw 10 unids Papel de rascar Arte Scratch...'
 sku: 'B07KJZBN79-es'
+tags: [  ]
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

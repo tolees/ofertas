@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CNQWV4-es Star Wars: Battlefront II - Edición estándar La caja...'
 sku: 'B071CNQWV4-es'
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

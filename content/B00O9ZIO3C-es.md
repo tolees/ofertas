@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O9ZIO3C-es The Rocky Horror Picture Show - Blu-Ray [Blu-ray]'
 sku: 'B00O9ZIO3C-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

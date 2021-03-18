@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IHZLXFU-es Lullage acneXpert Gel Limpiador Purificante para la...'
 sku: 'B01IHZLXFU-es'
+tags: [  ]
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

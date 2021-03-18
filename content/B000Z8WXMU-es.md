@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000Z8WXMU-es Solgar Gaba 500 mg. Contiene Ácido gamma amino butírico un...'
 sku: 'B000Z8WXMU-es'
+tags: [  ]
 actualPrice: 15.02 EUR
 currency: EUR
 price: 15.02

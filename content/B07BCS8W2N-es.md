@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BCS8W2N-es Rowenta Power Steam VR8216F0 - Centro planchado 5 8 bares...'
 sku: 'B07BCS8W2N-es'
+tags: [  ]
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

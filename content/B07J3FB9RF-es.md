@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3FB9RF-es Under Armour Undeniable Duffel 4.0 MD Deportes Bolsa De...'
 sku: 'B07J3FB9RF-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

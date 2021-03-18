@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAII81W-es Camomila Intea Loción Cubrevello - 100 ml'
 sku: 'B00XAII81W-es'
+tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

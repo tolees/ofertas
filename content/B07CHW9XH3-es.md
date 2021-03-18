@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHW9XH3-es Lorus Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07CHW9XH3-es'
+tags: [  ]
 actualPrice: 24.3 EUR
 currency: EUR
 price: 24.3

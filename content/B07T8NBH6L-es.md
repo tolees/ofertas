@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T8NBH6L-es 【136 LED/3 modos】Luz Solar Exterior Luz de Seguridad...'
 sku: 'B07T8NBH6L-es'
+tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

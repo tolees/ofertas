@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NG97XN-es find. Pantalones de Talle Alto Mujer Negro Black 36 Talla...'
 sku: 'B077NG97XN-es'
+tags: [  ]
 actualPrice: 20 EUR
 currency: EUR
 price: 20

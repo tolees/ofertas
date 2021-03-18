@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8P6R7N-es B Blesiya Juguete de Peonza Ráfaga Gyro Burst de Lucha...'
 sku: 'B07K8P6R7N-es'
+tags: [  ]
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

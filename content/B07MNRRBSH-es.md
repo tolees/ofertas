@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MNRRBSH-es Lee Scarlett Jeans Azul Dark Ulrich Iy 24W / 31L para Mujer'
 sku: 'B07MNRRBSH-es'
+tags: [  ]
 actualPrice: 12.2 EUR
 currency: EUR
 price: 12.2

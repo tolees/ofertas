@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSPZT12-es Clarks Step Cali Cove Zapatillas para Mujer Azul Blue -...'
 sku: 'B07FSPZT12-es'
+tags: [  ]
 actualPrice: 29.68 EUR
 currency: EUR
 price: 29.68

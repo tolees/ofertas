@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCFX1WK-es Lenovo Yoga730 - Ordenador portátil táctil Convertible...'
 sku: 'B07JCFX1WK-es'
+tags: [  ]
 actualPrice: 917.4 EUR
 currency: EUR
 price: 917.4

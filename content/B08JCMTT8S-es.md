@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JCMTT8S-es SGKITM Funda OnePlus 5 / OnePlus 5T Silicona Transparente...'
 sku: 'B08JCMTT8S-es'
+tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

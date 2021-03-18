@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075S69RKZ-es Maybelline New York - SuperStay 24H Base de Maquillaje...'
 sku: 'B075S69RKZ-es'
+tags: [  ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

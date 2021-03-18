@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XMVXNI-es DIM Generous Sujetador Blanco 90B para Mujer'
 sku: 'B005XMVXNI-es'
+tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

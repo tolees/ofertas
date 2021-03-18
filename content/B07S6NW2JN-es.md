@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6NW2JN-es PUMA Carina Zapatillas para Mujer Negro Black-Pink...'
 sku: 'B07S6NW2JN-es'
+tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

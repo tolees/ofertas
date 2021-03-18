@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GTZ9WX-es adidas VL Court 2.0 CMF I Zapatillas de Gimnasia Unisex...'
 sku: 'B075GTZ9WX-es'
+tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

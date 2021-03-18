@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CF4S1L-es 10pcs Mascarillas Médicas Desechables 3 Capas con Clip de...'
 sku: 'B085CF4S1L-es'
+tags: [  ]
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

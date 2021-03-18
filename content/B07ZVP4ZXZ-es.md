@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVP4ZXZ-es Arolun Pistola de Masaje Muscular Pistola de Masaje...'
 sku: 'B07ZVP4ZXZ-es'
+tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

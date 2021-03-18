@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K24LL3T-es Doact Corrector de Postura Corrector de Postura Espalda...'
 sku: 'B07K24LL3T-es'
+tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

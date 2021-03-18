@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VX2DNKJ-es Jojoin Agua Dibujo Pintura 120x90 cm Alfombra de Agua...'
 sku: 'B07VX2DNKJ-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

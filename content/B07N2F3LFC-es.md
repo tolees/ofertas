@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2F3LFC-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07N2F3LFC-es'
+tags: [  ]
 actualPrice: 94.0 EUR
 currency: EUR
 price: 94.0

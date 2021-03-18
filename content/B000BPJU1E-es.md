@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BPJU1E-es Staub - Olla Cocotte redonda hierro fundido negro mate 24 cm'
 sku: 'B000BPJU1E-es'
+tags: [  ]
 actualPrice: 106.09 EUR
 currency: EUR
 price: 106.09

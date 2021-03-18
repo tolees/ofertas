@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D7M2MX3-es IWTTWY Compatible con Galaxy Note 20 Funda Transparente de...'
 sku: 'B08D7M2MX3-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FSVPXD-es Merrell Moab 2 Vent Zapatillas de Senderismo para Hombre...'
 sku: 'B071FSVPXD-es'
+tags: [  ]
 actualPrice: 71.42 EUR
 currency: EUR
 price: 71.42

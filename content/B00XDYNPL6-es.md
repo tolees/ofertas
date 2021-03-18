@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDYNPL6-es Tommy Hilfiger New Danny Belt Cinturón Masters Black 90 cm...'
 sku: 'B00XDYNPL6-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

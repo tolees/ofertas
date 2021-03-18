@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3RRBXL-es Tommy Hilfiger - Th Essential Mini Cc Wallet Carteras...'
 sku: 'B07V3RRBXL-es'
+tags: [  ]
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

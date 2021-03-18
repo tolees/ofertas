@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRFVBX4-es Barnängen - Loción Hidratante corporal con baya Cloudberry...'
 sku: 'B07NRFVBX4-es'
+tags: [  ]
 actualPrice: 6.31 EUR
 currency: EUR
 price: 6.31

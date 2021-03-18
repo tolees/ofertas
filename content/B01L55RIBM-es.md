@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L55RIBM-es Beurer MG510 - Masaje presion por golpeteo con/sin cable y...'
 sku: 'B01L55RIBM-es'
+tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

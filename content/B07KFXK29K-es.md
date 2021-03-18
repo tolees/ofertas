@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFXK29K-es PUMA Vikky Platform Glitz Jr Zapatillas para Niñas Bridal...'
 sku: 'B07KFXK29K-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7QM9TJ-es Jack & Jones Jaccrazy Solid Trunks 3 Pack Noos Bóxer Negro...'
 sku: 'B07H7QM9TJ-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

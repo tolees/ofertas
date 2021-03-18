@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PBWW4C-es Luces LED de silicona Luces nocturnas Micro Paisaje LED...'
 sku: 'B087PBWW4C-es'
+tags: [  ]
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

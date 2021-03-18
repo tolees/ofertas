@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7RRPVR-es Tommy Hilfiger Shoulder GS Insert Slim Polo Azul Desert...'
 sku: 'B07W7RRPVR-es'
+tags: [  ]
 actualPrice: 47.11 EUR
 currency: EUR
 price: 47.11

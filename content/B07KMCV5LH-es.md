@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMCV5LH-es Clarks Un Rio Lace Zapatillas para Mujer Negro Black...'
 sku: 'B07KMCV5LH-es'
+tags: [  ]
 actualPrice: 69.92 EUR
 currency: EUR
 price: 69.92

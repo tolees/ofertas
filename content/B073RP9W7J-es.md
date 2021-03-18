@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RP9W7J-es Helly Hansen Salt Light Jacket Hombre Azul Marino L'
 sku: 'B073RP9W7J-es'
+tags: [  ]
 actualPrice: 111.17 EUR
 currency: EUR
 price: 111.17

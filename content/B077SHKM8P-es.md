@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SHKM8P-es Aicok Batidora de vaso Batidora para Smoothie 1200W 7...'
 sku: 'B077SHKM8P-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

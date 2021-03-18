@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STVGP35-es DC Shoes Penza Zapatillas de Skateboard para Hombre Azul...'
 sku: 'B07STVGP35-es'
+tags: [  ]
 actualPrice: 34.15 EUR
 currency: EUR
 price: 34.15

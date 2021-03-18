@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQXWZ3G-es Lacoste Graduate TRI1 SMA Zapatillas para Hombre Blanco...'
 sku: 'B07SQXWZ3G-es'
+tags: [  ]
 actualPrice: 50.88 EUR
 currency: EUR
 price: 50.88

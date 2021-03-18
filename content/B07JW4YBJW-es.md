@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW4YBJW-es Hackett London Aston Martin Racing Tip Cllr Polo Blanco...'
 sku: 'B07JW4YBJW-es'
+tags: [  ]
 actualPrice: 39.6 EUR
 currency: EUR
 price: 39.6

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4E8ITJ-es find. Lace Detail Ribbed Suéter para Mujer Rosa Orchid 40...'
 sku: 'B01N4E8ITJ-es'
+tags: [  ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

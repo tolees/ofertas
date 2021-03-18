@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHCWJ1C-es Dockers by Gerli 46rb002-100100 Zapatillas para Hombre...'
 sku: 'B07WHCWJ1C-es'
+tags: [  ]
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BB1QFN2-es Versus by Versace Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B07BB1QFN2-es'
+tags: [  ]
 actualPrice: 117.99 EUR
 currency: EUR
 price: 117.99

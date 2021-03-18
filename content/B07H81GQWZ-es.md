@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H81GQWZ-es Nike Wmns Downshifter 9 Zapatillas de Running para Mujer...'
 sku: 'B07H81GQWZ-es'
+tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

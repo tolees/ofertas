@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DWA9EZG-es Mugig Guitarra Cable Patch-1/4" Silencioso 6.35 mm para...'
 sku: 'B01DWA9EZG-es'
+tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

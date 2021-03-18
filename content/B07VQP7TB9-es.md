@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQP7TB9-es Nike Ebernon Low Premium Zapatillas de Baloncesto para...'
 sku: 'B07VQP7TB9-es'
+tags: [  ]
 actualPrice: 28.18 EUR
 currency: EUR
 price: 28.18

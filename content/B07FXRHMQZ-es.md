@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXRHMQZ-es NaturGreen Panela Jugo de caña de azúcar cristalizado-...'
 sku: 'B07FXRHMQZ-es'
+tags: [  ]
 actualPrice: 10.07 EUR
 currency: EUR
 price: 10.07

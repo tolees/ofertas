@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BWH3Q2W-es deAO Soldados en Battalla Fuerzas Armadas Unidad de...'
 sku: 'B07BWH3Q2W-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

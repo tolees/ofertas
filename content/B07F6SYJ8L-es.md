@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F6SYJ8L-es Salomon AGILE 500 BELT set Riñonera'
 sku: 'B07F6SYJ8L-es'
+tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

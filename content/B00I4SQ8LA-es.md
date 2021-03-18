@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I4SQ8LA-es Lavacabezas hinchable con tubo de drenaje Blanco Mobiclinic'
 sku: 'B00I4SQ8LA-es'
+tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

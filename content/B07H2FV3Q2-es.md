@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2FV3Q2-es Cressi Water Bottle H20 Stainless Steel Botella Deportiva...'
 sku: 'B07H2FV3Q2-es'
+tags: [  ]
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

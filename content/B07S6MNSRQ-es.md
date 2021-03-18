@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6MNSRQ-es Carpeta de Archivos Desplegable 13 bolsillos Organizador...'
 sku: 'B07S6MNSRQ-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

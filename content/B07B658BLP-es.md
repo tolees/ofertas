@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B658BLP-es Super Impulse Llavero Tiny Arcade Dig Dug Multicolor...'
 sku: 'B07B658BLP-es'
+tags: [  ]
 actualPrice: 10 EUR
 currency: EUR
 price: 10

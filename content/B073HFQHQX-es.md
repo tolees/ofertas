@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073HFQHQX-es Cillit Bang Instant Power Limpiador para WC Lejía...'
 sku: 'B073HFQHQX-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJL45FQ-es FOHYLOY Eléctrica 3 en 1 Depiladora Cortapelos Recortador...'
 sku: 'B07GJL45FQ-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

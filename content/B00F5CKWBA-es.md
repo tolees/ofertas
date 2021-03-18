@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F5CKWBA-es AmazonBasics - Funda de disco duro color negro y naranja'
 sku: 'B00F5CKWBA-es'
+tags: [  ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

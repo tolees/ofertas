@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RTFZNEW-es Grohe Eurosmart - Grifo de bidé con vaciador automático...'
 sku: 'B00RTFZNEW-es'
+tags: [  ]
 actualPrice: 74.24 EUR
 currency: EUR
 price: 74.24

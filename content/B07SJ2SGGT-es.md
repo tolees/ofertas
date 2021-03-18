@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ2SGGT-es BRIKSMAX Kit de Iluminación Led para Lego Ideas Wall E...'
 sku: 'B07SJ2SGGT-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

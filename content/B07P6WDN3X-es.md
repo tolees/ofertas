@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6WDN3X-es Pllieay 88 piezas 6 tamaños bolas de espuma de...'
 sku: 'B07P6WDN3X-es'
+tags: [  ]
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

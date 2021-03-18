@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V6AOCUC-es TE BLANCO INFUSION 20U. C.INDI'
 sku: 'B00V6AOCUC-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

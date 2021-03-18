@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYYFDNF-es Lark & Ro Long Sleeve Mixed Lace Dress Azul Marino Oscuro...'
 sku: 'B07NYYFDNF-es'
+tags: [  ]
 actualPrice: 17.15 EUR
 currency: EUR
 price: 17.15

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWYZW9K-es FITTOO Mallas 3/4 Leggings Mujer Pantalones de Yoga Alta...'
 sku: 'B07SWYZW9K-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

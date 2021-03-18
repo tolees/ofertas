@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RJ6BXC-es Mbuynow 50PCS Color Azul'
 sku: 'B085RJ6BXC-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

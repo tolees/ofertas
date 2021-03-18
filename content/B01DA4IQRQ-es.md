@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DA4IQRQ-es Seiko Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B01DA4IQRQ-es'
+tags: [  ]
 actualPrice: 95.49 EUR
 currency: EUR
 price: 95.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FHYZGQP-es Luchild Dummy Clips Baby Pacifier Holder Made from Food...'
 sku: 'B07FHYZGQP-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

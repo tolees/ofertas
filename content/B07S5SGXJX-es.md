@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5SGXJX-es Love MoschinoJc4021pp1aMujerCarteras de mano con...'
 sku: 'B07S5SGXJX-es'
+tags: [  ]
 actualPrice: 62.72 EUR
 currency: EUR
 price: 62.72

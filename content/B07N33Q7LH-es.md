@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N33Q7LH-es Desigual Foulard Loki Bufanda Azul Medieval Blue 5074...'
 sku: 'B07N33Q7LH-es'
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

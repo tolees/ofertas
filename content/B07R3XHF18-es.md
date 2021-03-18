@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3XHF18-es HALUM Cámara IP WiFi 1080P Home Security Vigilancia cámara...'
 sku: 'B07R3XHF18-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

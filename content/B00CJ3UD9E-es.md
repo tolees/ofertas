@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CJ3UD9E-es Yellow Cab Soldier 6 Botas militares hombre Marrón Cognac...'
 sku: 'B00CJ3UD9E-es'
+tags: [  ]
 actualPrice: 50.06 EUR
 currency: EUR
 price: 50.06

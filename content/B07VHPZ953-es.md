@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHPZ953-es Jack & Jones Jprdax Knit Crew Neck suéter Gris Grey...'
 sku: 'B07VHPZ953-es'
+tags: [  ]
 actualPrice: 7.71 EUR
 currency: EUR
 price: 7.71

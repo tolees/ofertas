@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHVNKT3-es PATO® - Active Clean Colgador para Inodoro frescor Intenso...'
 sku: 'B07RHVNKT3-es'
+tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

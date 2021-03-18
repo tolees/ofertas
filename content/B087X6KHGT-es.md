@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087X6KHGT-es Suhctup Funda Transparent Compatible para Huawei Enjoy 9...'
 sku: 'B087X6KHGT-es'
+tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

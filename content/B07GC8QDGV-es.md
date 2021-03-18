@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GC8QDGV-es Persona 5: Dancing in Starlight - Edición Estándar'
 sku: 'B07GC8QDGV-es'
+tags: [  ]
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

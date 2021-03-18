@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SF1ZTK-es RENBERG - Set 3 SARTENES 20/24/28CM. Aluminio Forjado...'
 sku: 'B078SF1ZTK-es'
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

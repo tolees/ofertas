@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5JF7QW-es Impresora Multifuncional Canon PIXMA TS6250 Negra Wifi de...'
 sku: 'B07G5JF7QW-es'
+tags: [  ]
 actualPrice: 83.33 EUR
 currency: EUR
 price: 83.33

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MH66XGD-es Fossil Reloj de Bolsillo Analógico de Cuarzo FTW5039'
 sku: 'B07MH66XGD-es'
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

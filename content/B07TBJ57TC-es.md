@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBJ57TC-es Adidas Hoops 2.0 CMF C Zapatillas de Baloncesto Unisex...'
 sku: 'B07TBJ57TC-es'
+tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

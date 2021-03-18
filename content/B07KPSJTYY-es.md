@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPSJTYY-es Funko- Pop Vinilo: Persona 5: Ryuji Figura Coleccionable...'
 sku: 'B07KPSJTYY-es'
+tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

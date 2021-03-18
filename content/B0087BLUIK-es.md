@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0087BLUIK-es Zeno Watch Basel 3554-a1 - Reloj analógico automático para...'
 sku: 'B0087BLUIK-es'
+tags: [  ]
 actualPrice: 360.83 EUR
 currency: EUR
 price: 360.83

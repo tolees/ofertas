@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BL2TJSY-es New Balance Fresh Foam Zante Pursuit Zapatillas de Running...'
 sku: 'B07BL2TJSY-es'
+tags: [  ]
 actualPrice: 60 EUR
 currency: EUR
 price: 60

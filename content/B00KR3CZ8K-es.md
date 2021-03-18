@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KR3CZ8K-es Vibram Five Fingers Trek Ascent Zapatillas de Deporte...'
 sku: 'B00KR3CZ8K-es'
+tags: [  ]
 actualPrice: 58.56 EUR
 currency: EUR
 price: 58.56

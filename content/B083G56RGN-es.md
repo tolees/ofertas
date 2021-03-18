@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083G56RGN-es Tablet Funda para Samsung Galaxy Note 10.1 2014 SM-P600...'
 sku: 'B083G56RGN-es'
+tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

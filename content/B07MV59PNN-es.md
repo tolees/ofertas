@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV59PNN-es TWBB Hombres Inicio Yoga Tie-up Pantalones cómodos'
 sku: 'B07MV59PNN-es'
+tags: [  ]
 actualPrice: 1.29 EUR
 currency: EUR
 price: 1.29

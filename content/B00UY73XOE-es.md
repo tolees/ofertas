@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UY73XOE-es ieGeek Autoradio Bluetooth 4×60W Llamadas Manos Libres...'
 sku: 'B00UY73XOE-es'
+tags: [  ]
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

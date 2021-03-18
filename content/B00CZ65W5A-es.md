@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CZ65W5A-es whiskas Anti-Hairball de 60g para Bolas de Pelo de Uso...'
 sku: 'B00CZ65W5A-es'
+tags: [  ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

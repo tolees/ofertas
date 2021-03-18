@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078W1L8BY-es Vans ISO 1.5 Zapatillas Unisex Adulto Azul Mesh 36.5 EU'
 sku: 'B078W1L8BY-es'
+tags: [  ]
 actualPrice: 30.57 EUR
 currency: EUR
 price: 30.57

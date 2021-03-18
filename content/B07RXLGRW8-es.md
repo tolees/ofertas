@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXLGRW8-es New Balance 574v2 Zapatillas para Hombre Negro Black/Grey...'
 sku: 'B07RXLGRW8-es'
+tags: [  ]
 actualPrice: 53.72 EUR
 currency: EUR
 price: 53.72

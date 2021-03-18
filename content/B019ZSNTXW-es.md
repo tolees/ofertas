@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019ZSNTXW-es Atrayente de micciones 125 ml educador de perros cachorros'
 sku: 'B019ZSNTXW-es'
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

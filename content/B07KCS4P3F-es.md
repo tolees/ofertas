@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCS4P3F-es Hurley M Icon Stretch Chino 19 Pantalones Cortos Hombre...'
 sku: 'B07KCS4P3F-es'
+tags: [  ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

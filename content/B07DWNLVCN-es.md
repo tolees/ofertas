@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWNLVCN-es YZCX Auriculares Gaming G2000 USB 3.5mm Estéreo Gaming...'
 sku: 'B07DWNLVCN-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

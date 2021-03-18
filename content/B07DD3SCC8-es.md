@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD3SCC8-es L.O.L Surprise Bling - Modelo surtido sorpresa Giochi...'
 sku: 'B07DD3SCC8-es'
+tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

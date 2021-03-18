@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1H4L2S-es Nike Tanjun Zapatillas de Running para Hombre Blanco...'
 sku: 'B01M1H4L2S-es'
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

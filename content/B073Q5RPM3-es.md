@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073Q5RPM3-es Real Madrid Funda Tablet Universal de 10.1" Pulgadas -...'
 sku: 'B073Q5RPM3-es'
+tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

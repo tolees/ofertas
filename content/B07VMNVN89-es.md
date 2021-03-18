@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMNVN89-es Calvin Klein Push Up Plunge Almohadillas y Rellenos de...'
 sku: 'B07VMNVN89-es'
+tags: [  ]
 actualPrice: 16.96 EUR
 currency: EUR
 price: 16.96

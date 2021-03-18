@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007XC2RO-es Intex 59631NP - Set de reparación parches autoadhesivos 7...'
 sku: 'B0007XC2RO-es'
+tags: [  ]
 actualPrice: 5.38 EUR
 currency: EUR
 price: 5.38

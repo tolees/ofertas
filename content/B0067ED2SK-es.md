@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0067ED2SK-es K&N PS-7000 filtro de aceite Coche'
 sku: 'B0067ED2SK-es'
+tags: [  ]
 actualPrice: 7.34 EUR
 currency: EUR
 price: 7.34

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074J7CW9Z-es Calcetines de 3 Dedos para Hombres para Deportes Ciclismo...'
 sku: 'B074J7CW9Z-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

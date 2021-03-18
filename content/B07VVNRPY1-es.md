@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVNRPY1-es Bolsas Vacio Ropa Bolsas de Almacenaje al Vacío Bolsas...'
 sku: 'B07VVNRPY1-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

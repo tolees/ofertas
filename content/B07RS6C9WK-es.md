@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS6C9WK-es Tommy Hilfiger - Classic Saffiano Bumbag Bolsos bandolera...'
 sku: 'B07RS6C9WK-es'
+tags: [  ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

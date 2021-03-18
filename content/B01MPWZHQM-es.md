@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MPWZHQM-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B01MPWZHQM-es'
+tags: [  ]
 actualPrice: 64.28 EUR
 currency: EUR
 price: 64.28

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7BQIPG-es Audio Pro Addon T5 - Altavoz inalámbrico Color Naranja'
 sku: 'B01N7BQIPG-es'
+tags: [  ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

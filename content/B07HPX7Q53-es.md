@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HPX7Q53-es Barra De Labios Mate Permanente De Pintalabios Impermeable...'
 sku: 'B07HPX7Q53-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

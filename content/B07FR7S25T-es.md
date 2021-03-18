@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR7S25T-es Clarks Tri Spark Zapatillas para Hombre Blanco White...'
 sku: 'B07FR7S25T-es'
+tags: [  ]
 actualPrice: 30.14 EUR
 currency: EUR
 price: 30.14

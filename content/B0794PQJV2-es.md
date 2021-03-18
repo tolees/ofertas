@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0794PQJV2-es PUMA Liga Sideline Polo T-Shirt Hombre Blanco White/Black S'
 sku: 'B0794PQJV2-es'
+tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZPA9B5K-es DISFRAZ REINA DE CORAZONES'
 sku: 'B00ZPA9B5K-es'
+tags: [  ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

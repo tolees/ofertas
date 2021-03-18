@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078T5BK6H-es Tommy Hilfiger Tommy Jeans Textile Sneaker Zapatillas para...'
 sku: 'B078T5BK6H-es'
+tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

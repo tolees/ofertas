@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CGP75BQ-es AYIYO - Pantalones cortos para bebé niños y niñas mezcla...'
 sku: 'B08CGP75BQ-es'
+tags: [  ]
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZK8TP3-es Amzdeal Alcachofa de Ducha Cabezal de Ducha con 5 modos...'
 sku: 'B07PZK8TP3-es'
+tags: [  ]
 actualPrice: 6.23 EUR
 currency: EUR
 price: 6.23

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQVHV28-es Napapijri EISBERG Polo Negro Black 041 S para Hombre'
 sku: 'B07MQVHV28-es'
+tags: [  ]
 actualPrice: 27.32 EUR
 currency: EUR
 price: 27.32

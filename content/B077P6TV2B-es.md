@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077P6TV2B-es Puma Suede Heart Bubble Zapatillas para Mujer Marrón...'
 sku: 'B077P6TV2B-es'
+tags: [  ]
 actualPrice: 36.29 EUR
 currency: EUR
 price: 36.29

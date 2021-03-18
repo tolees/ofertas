@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZLWD4L-es Bosch Home and Garden 06008B2000 Tijeras de Podar 3.6 V...'
 sku: 'B077ZLWD4L-es'
+tags: [  ]
 actualPrice: 61.15 EUR
 currency: EUR
 price: 61.15

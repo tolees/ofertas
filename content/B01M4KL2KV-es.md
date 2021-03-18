@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M4KL2KV-es Legrand Base de Enchufes de pared 4 tomas y 2 tapas ciegas...'
 sku: 'B01M4KL2KV-es'
+tags: [  ]
 actualPrice: 16.86 EUR
 currency: EUR
 price: 16.86

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYL5XZJ-es New Balance 574v2 Zapatillas para Mujer Morado Purple Saw...'
 sku: 'B07RYL5XZJ-es'
+tags: [  ]
 actualPrice: 41.65 EUR
 currency: EUR
 price: 41.65

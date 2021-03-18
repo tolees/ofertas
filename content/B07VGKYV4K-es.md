@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGKYV4K-es HANPURE Bluetooth Gorro Invierno Hombre Regalos Originales...'
 sku: 'B07VGKYV4K-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

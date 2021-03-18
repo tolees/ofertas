@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FVK6T1-es New Balance 574v2 Core Velcro Zapatillas Unisex Niños Azul...'
 sku: 'B072FVK6T1-es'
+tags: [  ]
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

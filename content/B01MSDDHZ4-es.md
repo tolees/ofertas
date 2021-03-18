@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSDDHZ4-es Licuadora para Frutas y Verduras de Prensado en Frío...'
 sku: 'B01MSDDHZ4-es'
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

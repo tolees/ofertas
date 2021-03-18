@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814TN3GJ-es Under Armour Waist Bag Riñonera Unisex Adulto Negro OSFA'
 sku: 'B0814TN3GJ-es'
+tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

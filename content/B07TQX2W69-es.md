@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQX2W69-es Clarks Sift Lace Zapatillas para Mujer Gris Grey Snake...'
 sku: 'B07TQX2W69-es'
+tags: [  ]
 actualPrice: 41.69 EUR
 currency: EUR
 price: 41.69

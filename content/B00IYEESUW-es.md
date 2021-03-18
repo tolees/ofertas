@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IYEESUW-es Einhell TH-CS 1200/1 - Sierra circular 5000 rpm diámetro...'
 sku: 'B00IYEESUW-es'
+tags: [  ]
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

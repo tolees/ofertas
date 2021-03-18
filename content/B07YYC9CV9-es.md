@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYC9CV9-es CRZ YOGA Sujetador Deportivo Yoga para Mujer Ejercicio...'
 sku: 'B07YYC9CV9-es'
+tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

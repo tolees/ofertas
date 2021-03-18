@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FBCPJZM-es Orient Reloj Analógico para Unisex Adultos de Automático...'
 sku: 'B01FBCPJZM-es'
+tags: [  ]
 actualPrice: 85.95 EUR
 currency: EUR
 price: 85.95

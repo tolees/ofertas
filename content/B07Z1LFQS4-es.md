@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z1LFQS4-es Jvchengxi Funda Protectora para Galaxy Watch Active 2 40mm...'
 sku: 'B07Z1LFQS4-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

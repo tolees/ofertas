@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WK2ZMWJ-es ANGELBLISS Alimentador antiahogo bebe chupete fruta bebe...'
 sku: 'B07WK2ZMWJ-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

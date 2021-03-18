@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RZTV5B2-es Wilson Tour Slam - Raqueta de Tenis para Adulto -...'
 sku: 'B00RZTV5B2-es'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

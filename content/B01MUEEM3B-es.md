@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUEEM3B-es Reloj Viceroy - Chicos 401055-05'
 sku: 'B01MUEEM3B-es'
+tags: [  ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085S1GHP3-es Aigostar - Bombilla LED G45 7W casquillo fino E14 Bajo...'
 sku: 'B085S1GHP3-es'
+tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

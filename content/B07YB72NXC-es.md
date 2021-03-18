@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YB72NXC-es Taurus MyBread Panificadora Plástico'
 sku: 'B07YB72NXC-es'
+tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

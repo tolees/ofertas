@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NKZYBG-es Grborn Monitor de presión Arterial Portátil y Brazo...'
 sku: 'B087NKZYBG-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

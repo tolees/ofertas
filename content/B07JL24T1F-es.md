@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JL24T1F-es Under Armour Undeniable 2.0 Bolsa de equipaje Unisex...'
 sku: 'B07JL24T1F-es'
+tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

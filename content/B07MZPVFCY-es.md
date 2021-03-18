@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPVFCY-es Pepe Jeans Rick Chaqueta Berry Red 280 Small para Hombre'
 sku: 'B07MZPVFCY-es'
+tags: [  ]
 actualPrice: 42.26 EUR
 currency: EUR
 price: 42.26

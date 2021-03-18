@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFZQL66-es PUMA LQDCELL Optic Zapatillas de Running para Hombre Black...'
 sku: 'B07KFZQL66-es'
+tags: [  ]
 actualPrice: 50.18 EUR
 currency: EUR
 price: 50.18

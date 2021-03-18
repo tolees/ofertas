@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DJ0J3MS-es 2 Linterna LED Acampada portátil luz Intermitente...'
 sku: 'B01DJ0J3MS-es'
+tags: [  ]
 actualPrice: 20.89 EUR
 currency: EUR
 price: 20.89

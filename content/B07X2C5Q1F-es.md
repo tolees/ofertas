@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2C5Q1F-es Litthing Envoltorio Cera De Abeja Envoltorios de Alimentos...'
 sku: 'B07X2C5Q1F-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

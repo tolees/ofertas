@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJ3CCRT-es Lámpara solar Luces Jardín 42 LED solares exterior foco...'
 sku: 'B07BJ3CCRT-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

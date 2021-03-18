@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCGBHGY-es Baoblaze Commlite Ct-g430cr Receptor de Disparo de Flash...'
 sku: 'B07KCGBHGY-es'
+tags: [  ]
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

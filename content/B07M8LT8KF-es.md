@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8LT8KF-es Wrangler Arizona Pantalones Azul Court Yard 60f 32W / 34L...'
 sku: 'B07M8LT8KF-es'
+tags: [  ]
 actualPrice: 42.48 EUR
 currency: EUR
 price: 42.48

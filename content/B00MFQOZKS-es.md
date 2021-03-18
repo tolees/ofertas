@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MFQOZKS-es Tectonic - Reloj Analógico de Cuarzo Unisex Correa de...'
 sku: 'B00MFQOZKS-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

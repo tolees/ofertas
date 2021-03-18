@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089QPFM3M-es WEOFUN Protector de Pantalla Samsung A9 2018 3-Unidades...'
 sku: 'B089QPFM3M-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

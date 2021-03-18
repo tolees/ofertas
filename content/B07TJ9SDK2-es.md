@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ9SDK2-es Levi s XX Std II Khakis Beige True Chino Shady GD Ccu B...'
 sku: 'B07TJ9SDK2-es'
+tags: [  ]
 actualPrice: 36.59 EUR
 currency: EUR
 price: 36.59

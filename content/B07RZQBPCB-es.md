@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZQBPCB-es Lacoste - Polo Manga Corta Hombre - Ph8522'
 sku: 'B07RZQBPCB-es'
+tags: [  ]
 actualPrice: 52.26 EUR
 currency: EUR
 price: 52.26

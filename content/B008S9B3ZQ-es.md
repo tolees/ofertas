@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008S9B3ZQ-es Dickies Hose Orgnl 874work Pants - Pantalones deportivos...'
 sku: 'B008S9B3ZQ-es'
+tags: [  ]
 actualPrice: 10.53 EUR
 currency: EUR
 price: 10.53

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBC5V43-es Tommee Tippee Sangenic Sistema avanzado para desechar...'
 sku: 'B07KBC5V43-es'
+tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

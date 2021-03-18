@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7VSFVM-es Tommy Hilfiger Medium Drawstring Bañador Azul Large Talla...'
 sku: 'B07W7VSFVM-es'
+tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

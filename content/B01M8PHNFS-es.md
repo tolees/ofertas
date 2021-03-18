@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M8PHNFS-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
 sku: 'B01M8PHNFS-es'
+tags: [  ]
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

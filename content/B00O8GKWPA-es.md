@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O8GKWPA-es Dim Generous Sujetador Beige Peau 105F para Mujer'
 sku: 'B00O8GKWPA-es'
+tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

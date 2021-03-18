@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXL7WFH-es Under Armour Launch Compression Pantalones Cortos Mujer...'
 sku: 'B07QXL7WFH-es'
+tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

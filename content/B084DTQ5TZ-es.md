@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084DTQ5TZ-es Cartera Caballero en Piel Modelo Americano'
 sku: 'B084DTQ5TZ-es'
+tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

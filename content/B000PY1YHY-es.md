@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000PY1YHY-es Guerlain - Desodorante Spray Habit Rouge'
 sku: 'B000PY1YHY-es'
+tags: [  ]
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

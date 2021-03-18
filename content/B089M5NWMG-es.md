@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089M5NWMG-es SDINAZ Mochilas para computadora portátil para con Puerto...'
 sku: 'B089M5NWMG-es'
+tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

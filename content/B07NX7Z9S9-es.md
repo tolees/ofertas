@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NX7Z9S9-es Superdry Vintage Logo Pop Entry Hood Capucha Azul Eclipse...'
 sku: 'B07NX7Z9S9-es'
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

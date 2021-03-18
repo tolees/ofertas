@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5TLV7J-es American Tourister Jetglam Spinner M Expandible Maleta 67...'
 sku: 'B07P5TLV7J-es'
+tags: [  ]
 actualPrice: 72.13 EUR
 currency: EUR
 price: 72.13

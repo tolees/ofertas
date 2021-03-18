@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G0O54XC-es DISFRAZ HIPPIE CHICA TALLA XL'
 sku: 'B01G0O54XC-es'
+tags: [  ]
 actualPrice: 14.07 EUR
 currency: EUR
 price: 14.07

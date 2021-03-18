@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ3PRC3-es Puma Basket Heart Patent Wn s Zapatillas para Mujer...'
 sku: 'B07CZ3PRC3-es'
+tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

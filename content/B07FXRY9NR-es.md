@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXRY9NR-es Maquinilla de afeitar profesional hoja de acero inoxidable...'
 sku: 'B07FXRY9NR-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

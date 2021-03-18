@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002LTD5O6-es Superga 2750 COTU Classic Zapatillas Unisex Azul Navy S933...'
 sku: 'B002LTD5O6-es'
+tags: [  ]
 actualPrice: 35.64 EUR
 currency: EUR
 price: 35.64

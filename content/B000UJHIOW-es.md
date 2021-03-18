@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000UJHIOW-es BAUSCH + LOMB - SofLens® Toric - Lentes de contacto para...'
 sku: 'B000UJHIOW-es'
+tags: [  ]
 actualPrice: 29.19 EUR
 currency: EUR
 price: 29.19

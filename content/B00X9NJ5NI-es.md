@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9NJ5NI-es Parfums Grès Agua fresca - 100 ml.'
 sku: 'B00X9NJ5NI-es'
+tags: [  ]
 actualPrice: 16.62 EUR
 currency: EUR
 price: 16.62

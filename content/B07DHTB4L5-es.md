@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHTB4L5-es Lacoste Carnaby EVO Light-WT 1193 SFA Zapatillas para...'
 sku: 'B07DHTB4L5-es'
+tags: [  ]
 actualPrice: 56.7 EUR
 currency: EUR
 price: 56.7

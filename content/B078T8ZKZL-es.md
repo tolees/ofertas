@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078T8ZKZL-es Columbia Youth Rope Tow III Waterproof Botas de Nieve para...'
 sku: 'B078T8ZKZL-es'
+tags: [  ]
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

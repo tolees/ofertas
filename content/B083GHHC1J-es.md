@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083GHHC1J-es Estimulador de vibración del clítoris Shanghai Pro 2-Gold...'
 sku: 'B083GHHC1J-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

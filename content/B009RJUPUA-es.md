@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009RJUPUA-es Cat Footwear Colorado Botas para Hombre Beige Honey 41 EU'
 sku: 'B009RJUPUA-es'
+tags: [  ]
 actualPrice: 74.63 EUR
 currency: EUR
 price: 74.63

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQ4Y3KY-es Caler Funda Compatible con iPhone 7 Plus/iPhone 8 Plus...'
 sku: 'B07TQ4Y3KY-es'
+tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

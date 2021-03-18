@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB57CNN-es Woxter Stinger GX 250 H - Auriculares Gaming 7.1...'
 sku: 'B07HB57CNN-es'
+tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

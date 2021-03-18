@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005MNRLIO-es APC Surge Arrest Essential - PL5B-DE - Regleta con...'
 sku: 'B005MNRLIO-es'
+tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

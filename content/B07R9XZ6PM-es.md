@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R9XZ6PM-es laamei Mosquitera Bebé Antiinsectos Universal Mosquitera...'
 sku: 'B07R9XZ6PM-es'
+tags: [  ]
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

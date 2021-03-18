@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2YVCB6-es Toyvian Casa de muñecas de Madera de Bricolaje Kit en...'
 sku: 'B07K2YVCB6-es'
+tags: [  ]
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

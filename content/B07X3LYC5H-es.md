@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3LYC5H-es LUDILO- Grabolo Educativo Mesa para niños Agilidad Mental...'
 sku: 'B07X3LYC5H-es'
+tags: [  ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

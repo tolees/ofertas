@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BMZHVY-es HP Q6471A - Cartucho de tóner'
 sku: 'B000BMZHVY-es'
+tags: [  ]
 actualPrice: 50 EUR
 currency: EUR
 price: 50

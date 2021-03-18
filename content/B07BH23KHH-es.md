@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BH23KHH-es PETCUTE Gateras Puerta Magnética Puerta para Mascotas...'
 sku: 'B07BH23KHH-es'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

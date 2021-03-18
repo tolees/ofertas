@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NWVCX4V-es Rollerblade Patines RB Cruiser Adultos Unisex Negro/Azul...'
 sku: 'B07NWVCX4V-es'
+tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

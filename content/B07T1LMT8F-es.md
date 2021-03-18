@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1LMT8F-es Otterbox Symmetry Clear - Funda Protectora Trasera...'
 sku: 'B07T1LMT8F-es'
+tags: [  ]
 actualPrice: 56.81 EUR
 currency: EUR
 price: 56.81

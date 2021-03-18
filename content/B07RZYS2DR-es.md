@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZYS2DR-es Love MoschinoJc4089pp1aMujerBolsos totesPlateado Argento...'
 sku: 'B07RZYS2DR-es'
+tags: [  ]
 actualPrice: 106.96 EUR
 currency: EUR
 price: 106.96

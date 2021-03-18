@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PNHZPN-es LNIEGE Anillo de bebé Mam Transparentes de Silicona...'
 sku: 'B086PNHZPN-es'
+tags: [  ]
 actualPrice: 4.77 EUR
 currency: EUR
 price: 4.77

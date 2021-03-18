@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LW6J7UB-es Activision - SIM Classic Triple Pack 3 Countdown - Stealth...'
 sku: 'B01LW6J7UB-es'
+tags: [  ]
 actualPrice: 8.71 EUR
 currency: EUR
 price: 8.71

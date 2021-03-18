@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S353TLZ-es Love MoschinoJc4033pp1aMujerCarteras de mano con asaMarfil...'
 sku: 'B07S353TLZ-es'
+tags: [  ]
 actualPrice: 69.84 EUR
 currency: EUR
 price: 69.84

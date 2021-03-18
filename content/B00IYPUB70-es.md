@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IYPUB70-es El Agente De C.I.P.O.L. - Temporada 1 Parte 1 [DVD]'
 sku: 'B00IYPUB70-es'
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CU54IDM-es LEORX Candy Bottle Gift Box Baby Shower Favors 12pcs Blue'
 sku: 'B01CU54IDM-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

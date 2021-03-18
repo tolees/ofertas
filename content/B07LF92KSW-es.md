@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF92KSW-es Levi s 502 Regular Taper Jeans Azul Cedar Light Mid Overt...'
 sku: 'B07LF92KSW-es'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

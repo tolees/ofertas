@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C5PH17X-es Casco Motocicleta Auriculares FreedConn T-comVB Casco Moto...'
 sku: 'B07C5PH17X-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

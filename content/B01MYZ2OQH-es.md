@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYZ2OQH-es Under Armour W Thrill 3 1295770-001 Zapatillas de...'
 sku: 'B01MYZ2OQH-es'
+tags: [  ]
 actualPrice: 20.33 EUR
 currency: EUR
 price: 20.33

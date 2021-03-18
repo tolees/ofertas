@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756ZWNS3-es Ventilador Tomersun con 3 aspas para estufa y chimenea 3...'
 sku: 'B0756ZWNS3-es'
+tags: [  ]
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7VPTN9-es Britax Römer Silla de coche 3 5 años - 12 años 15 - 36 kg...'
 sku: 'B07K7VPTN9-es'
+tags: [  ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

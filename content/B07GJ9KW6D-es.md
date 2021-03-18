@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJ9KW6D-es [2019 NEW] Pulseras magnéticas los mejores regalos para...'
 sku: 'B07GJ9KW6D-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

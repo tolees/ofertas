@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NGK2A90-es Beter Pur Pedicur - Cortacallos con bisagra'
 sku: 'B00NGK2A90-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

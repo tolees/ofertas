@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XYNNX4-es Dim Coton Stretch Slip X3 Negro S talla del fabricante: 2...'
 sku: 'B005XYNNX4-es'
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

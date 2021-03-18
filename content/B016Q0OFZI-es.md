@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016Q0OFZI-es Semillas Hortícolas - Zanahoria Nantesa 2 sel. Urgelba -...'
 sku: 'B016Q0OFZI-es'
+tags: [  ]
 actualPrice: 0.79 EUR
 currency: EUR
 price: 0.79

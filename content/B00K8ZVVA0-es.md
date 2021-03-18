@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K8ZVVA0-es plata Plated Yazilind deslumbrante corte princesa champán...'
 sku: 'B00K8ZVVA0-es'
+tags: [  ]
 actualPrice: 2.82 EUR
 currency: EUR
 price: 2.82

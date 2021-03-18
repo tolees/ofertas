@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVX3CCX-es Naf Naf Bitrendy Impermeable Beige Trench 1585 38 para Mujer'
 sku: 'B07MVX3CCX-es'
+tags: [  ]
 actualPrice: 40.45 EUR
 currency: EUR
 price: 40.45

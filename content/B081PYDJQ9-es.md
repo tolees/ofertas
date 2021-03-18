@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081PYDJQ9-es Pllieay - 60 palos de bambú natural para manualidades 39...'
 sku: 'B081PYDJQ9-es'
+tags: [  ]
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

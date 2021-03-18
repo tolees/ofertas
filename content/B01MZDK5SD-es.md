@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZDK5SD-es The North Face Piqué Polo de Manga Corta Hombre Azul Urban...'
 sku: 'B01MZDK5SD-es'
+tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

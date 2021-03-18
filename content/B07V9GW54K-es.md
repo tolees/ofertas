@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9GW54K-es Jack & Jones Jorrafael Sweat Hood Capucha Azul Sea Moss...'
 sku: 'B07V9GW54K-es'
+tags: [  ]
 actualPrice: 10.35 EUR
 currency: EUR
 price: 10.35

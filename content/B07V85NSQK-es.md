@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V85NSQK-es Lomogo Funda Sony Xperia XZ2 Cartera Funda de Cuero...'
 sku: 'B07V85NSQK-es'
+tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

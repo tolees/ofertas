@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D4QFH4A-es Revell- Star Wars Naboo Starfighter Kit modele Escala...'
 sku: 'B01D4QFH4A-es'
+tags: [  ]
 actualPrice: 11.17 EUR
 currency: EUR
 price: 11.17

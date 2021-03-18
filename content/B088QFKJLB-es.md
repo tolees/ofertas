@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088QFKJLB-es taquxinlaowan Caballo Palomino en el Desierto de Arena con...'
 sku: 'B088QFKJLB-es'
+tags: [  ]
 actualPrice: 20.06 EUR
 currency: EUR
 price: 20.06

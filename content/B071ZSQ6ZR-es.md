@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZSQ6ZR-es Reebok Club C 85 Zapatillas para Mujer Blanco White/Light...'
 sku: 'B071ZSQ6ZR-es'
+tags: [  ]
 actualPrice: 50.17 EUR
 currency: EUR
 price: 50.17

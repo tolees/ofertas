@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074JWSDDR-es Bulova Reloj de Pulsera 98A197'
 sku: 'B074JWSDDR-es'
+tags: [  ]
 actualPrice: 128.21 EUR
 currency: EUR
 price: 128.21

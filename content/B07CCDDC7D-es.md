@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCDDC7D-es Pepe Jeans Sloane Pantalones Deep Sea 597 W31/L34 para Hombre'
 sku: 'B07CCDDC7D-es'
+tags: [  ]
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

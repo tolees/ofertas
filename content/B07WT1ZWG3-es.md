@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WT1ZWG3-es Gricol Estante para Esquinas de Ducha Sin Taladrar de...'
 sku: 'B07WT1ZWG3-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

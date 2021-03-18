@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017XYXRQE-es 2 rollos de 28x600 cm en plástico gofrado especial para el...'
 sku: 'B017XYXRQE-es'
+tags: [  ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

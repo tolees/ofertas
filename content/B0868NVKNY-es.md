@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868NVKNY-es Suhctup Transparente Funda Compatible con Huawei P8...'
 sku: 'B0868NVKNY-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

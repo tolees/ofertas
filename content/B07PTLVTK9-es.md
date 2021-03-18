@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PTLVTK9-es Kipling - Creativity L Monederos Mujer Azul Stone Blue...'
 sku: 'B07PTLVTK9-es'
+tags: [  ]
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

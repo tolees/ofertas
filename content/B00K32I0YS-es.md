@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K32I0YS-es Nike Wmns Air Zoom Vomero 14 Zapatillas de Running para...'
 sku: 'B00K32I0YS-es'
+tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

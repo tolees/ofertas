@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWFG4CR-es AmazonBasics - Cable USB A con conector Lightning...'
 sku: 'B07DWFG4CR-es'
+tags: [  ]
 actualPrice: 4 EUR
 currency: EUR
 price: 4

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y4TN64F-es Doodle agua /Tablero de Escritura de Agua Mat xhforever 4...'
 sku: 'B06Y4TN64F-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

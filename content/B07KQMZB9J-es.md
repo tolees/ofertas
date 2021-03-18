@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQMZB9J-es SALOMON Alphacross GTX Zapatillas de Trail Running para...'
 sku: 'B07KQMZB9J-es'
+tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

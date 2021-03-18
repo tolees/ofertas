@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NSYRVV-es oasser Alcoholímetro Profesional Electroquímico...'
 sku: 'B079NSYRVV-es'
+tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

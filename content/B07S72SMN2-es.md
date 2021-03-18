@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S72SMN2-es Regatta Ligero Forro Polar Montes con Media Cremallera...'
 sku: 'B07S72SMN2-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

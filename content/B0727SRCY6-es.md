@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0727SRCY6-es Hollister Wave 2 for her eau de perfume spray 100ml'
 sku: 'B0727SRCY6-es'
+tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

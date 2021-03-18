@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HS3IZMQ-es Cafés Granell - Exotic Collection - Sulawesi Café en Grano...'
 sku: 'B01HS3IZMQ-es'
+tags: [  ]
 actualPrice: 14.12 EUR
 currency: EUR
 price: 14.12

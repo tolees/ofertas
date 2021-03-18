@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010FR4JA4-es New Balance Wx624Wb4 - entrenamiento/correr de cuero mujer...'
 sku: 'B010FR4JA4-es'
+tags: [  ]
 actualPrice: 26.32 EUR
 currency: EUR
 price: 26.32

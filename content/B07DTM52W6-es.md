@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DTM52W6-es Calcetines de Deporte Low Cut Pack de 3 Gris EU 35-38'
 sku: 'B07DTM52W6-es'
+tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

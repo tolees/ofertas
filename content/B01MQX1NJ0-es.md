@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQX1NJ0-es Bourjois Eye Primer Base de Maquielle Tono 1- 6ml'
 sku: 'B01MQX1NJ0-es'
+tags: [  ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KPQC656-es Shimano Acera CSHG2009134 - Cassette Hg200 11/34 9V.'
 sku: 'B00KPQC656-es'
+tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

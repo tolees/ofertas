@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825WWNSW-es Compatible con Moto One Zoom/One Pro funda de metal anillo...'
 sku: 'B0825WWNSW-es'
+tags: [  ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

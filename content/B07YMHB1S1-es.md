@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMHB1S1-es Terminator Salvation 4K Ultra HD + BD [Blu-ray]'
 sku: 'B07YMHB1S1-es'
+tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

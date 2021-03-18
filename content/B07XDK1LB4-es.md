@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDK1LB4-es Polarduck Soporte de Pared para TV de 23-55 pulgadas Fijo...'
 sku: 'B07XDK1LB4-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

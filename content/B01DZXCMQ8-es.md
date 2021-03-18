@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DZXCMQ8-es marckonfort Colchón Visco-Gel Feran Ice 120x190 cm 22 cm...'
 sku: 'B01DZXCMQ8-es'
+tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

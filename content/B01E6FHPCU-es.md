@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E6FHPCU-es Somfy 2400961 Kit de Alimentación Solar Gris'
 sku: 'B01E6FHPCU-es'
+tags: [  ]
 actualPrice: 241.8 EUR
 currency: EUR
 price: 241.8

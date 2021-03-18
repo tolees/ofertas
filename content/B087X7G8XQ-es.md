@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087X7G8XQ-es Suhctup Funda Transparent Compatible para Galaxy A9...'
 sku: 'B087X7G8XQ-es'
+tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

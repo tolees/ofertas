@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C104FJY-es Rimmel London Super Gel Esmalte de Uñas Tono 045-47 gr'
 sku: 'B00C104FJY-es'
+tags: [  ]
 actualPrice: 2.64 EUR
 currency: EUR
 price: 2.64

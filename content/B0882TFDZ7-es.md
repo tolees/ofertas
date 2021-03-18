@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0882TFDZ7-es SYOSIN Bandas Elasticas Fitness Bandas de Ejercicio con...'
 sku: 'B0882TFDZ7-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

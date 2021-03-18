@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZLMFMQ-es Kickers Jawa Zapatillas para Bebés Marron 9 18 EU'
 sku: 'B07MZLMFMQ-es'
+tags: [  ]
 actualPrice: 14.31 EUR
 currency: EUR
 price: 14.31

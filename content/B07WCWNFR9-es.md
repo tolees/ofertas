@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WCWNFR9-es Sternitz - Bloque de Yoga - Eco-Friendly - No Tóxico -...'
 sku: 'B07WCWNFR9-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

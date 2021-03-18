@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K3IM5Y2-es Nike SB Portmore II Solar Zapatillas de Skateboard para...'
 sku: 'B01K3IM5Y2-es'
+tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

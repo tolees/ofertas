@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3B2RSY-es Essie Esmalte de Uñas 318 Resort fling'
 sku: 'B00A3B2RSY-es'
+tags: [  ]
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WLKL85S-es AL Fliegenohren Esperia rosenholz/smaragd Pony...'
 sku: 'B06WLKL85S-es'
+tags: [  ]
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

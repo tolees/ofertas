@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MB7YQN5-es Cartera Tarjetero Hombre Cartera Tarjeta de Crédito...'
 sku: 'B07MB7YQN5-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

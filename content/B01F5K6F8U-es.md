@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F5K6F8U-es Nixon Reloj Mujer de Analogico con Correa en Chapado en...'
 sku: 'B01F5K6F8U-es'
+tags: [  ]
 actualPrice: 55.39 EUR
 currency: EUR
 price: 55.39

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6CJZ2V-es Vicloon G4 LED Bombillas 2W Capsule LED Equivalente a 20W...'
 sku: 'B07N6CJZ2V-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

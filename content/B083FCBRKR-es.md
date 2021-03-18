@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FCBRKR-es Zapatillas de Running para Unisex Niños Gimnasia Ligero...'
 sku: 'B083FCBRKR-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

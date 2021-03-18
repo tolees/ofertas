@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKHFXY5-es Kipling Gabbie S Bolsos Bandolera para Mujer Morado Active...'
 sku: 'B07DKHFXY5-es'
+tags: [  ]
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

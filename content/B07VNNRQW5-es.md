@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNNRQW5-es Calvin Klein Short Drawstring Bañador Azul Bluefish DW9...'
 sku: 'B07VNNRQW5-es'
+tags: [  ]
 actualPrice: 20.35 EUR
 currency: EUR
 price: 20.35

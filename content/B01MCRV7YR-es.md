@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MCRV7YR-es DURABOL Bandera de Inde.Catalan Estelada blava-catalunya...'
 sku: 'B01MCRV7YR-es'
+tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

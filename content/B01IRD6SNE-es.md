@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IRD6SNE-es Quntis® - Ganchos Ventosa Fuerte [2 Piezas] Perchas...'
 sku: 'B01IRD6SNE-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

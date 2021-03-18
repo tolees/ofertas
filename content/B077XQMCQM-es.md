@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XQMCQM-es Under Armour Tech Graphic Short Pantalón Corto Hombre Gris...'
 sku: 'B077XQMCQM-es'
+tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

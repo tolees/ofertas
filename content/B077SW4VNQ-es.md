@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SW4VNQ-es PUMA Liga Striped Maillot Hombre Electric Blue...'
 sku: 'B077SW4VNQ-es'
+tags: [  ]
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

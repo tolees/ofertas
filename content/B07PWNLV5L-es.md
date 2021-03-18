@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWNLV5L-es Under Armour UA Charged Rogue 2 Zapatillas para Correr...'
 sku: 'B07PWNLV5L-es'
+tags: [  ]
 actualPrice: 45.68 EUR
 currency: EUR
 price: 45.68

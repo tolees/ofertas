@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MPT75M6-es Olivia Burton Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07MPT75M6-es'
+tags: [  ]
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

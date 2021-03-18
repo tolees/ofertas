@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074GZFC3Y-es Willful Pulsera Inteligente con Pulsómetro Pulsera de...'
 sku: 'B074GZFC3Y-es'
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

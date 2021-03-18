@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGS6DPW-es Almohadilla Eléctrica Térmica Calentamiento Rápido con...'
 sku: 'B07WGS6DPW-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

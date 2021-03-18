@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZYS2CZ-es Love MoschinoJc4033pp1aMujerCarteras de mano con asaNegro...'
 sku: 'B07RZYS2CZ-es'
+tags: [  ]
 actualPrice: 72.98 EUR
 currency: EUR
 price: 72.98

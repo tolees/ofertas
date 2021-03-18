@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FT1JNHQ-es Buff Approach Spider-Man Junior Gorro Polar Unisex Adulto...'
 sku: 'B07FT1JNHQ-es'
+tags: [  ]
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

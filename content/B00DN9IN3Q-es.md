@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DN9IN3Q-es Kölln Muesli de chocolate - 500 g'
 sku: 'B00DN9IN3Q-es'
+tags: [  ]
 actualPrice: 3.8 EUR
 currency: EUR
 price: 3.8

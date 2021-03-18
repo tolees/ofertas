@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XJ5FFZ-es Silk n SkinVivid Masajeador facial con modo vibración...'
 sku: 'B073XJ5FFZ-es'
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

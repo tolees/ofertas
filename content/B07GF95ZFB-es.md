@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GF95ZFB-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07GF95ZFB-es'
+tags: [  ]
 actualPrice: 85.4 EUR
 currency: EUR
 price: 85.4

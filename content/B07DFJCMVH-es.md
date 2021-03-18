@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFJCMVH-es Pop! Austin Powers - Figura de Vinilo Dr. Evil'
 sku: 'B07DFJCMVH-es'
+tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

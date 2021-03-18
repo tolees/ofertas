@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LOXQYC-es Paulmann 77029 Pinja-Lámpara de Mesa de 3 encendidos...'
 sku: 'B000LOXQYC-es'
+tags: [  ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JKEZCFK-es Yazilind Elegante diseño único 14K Gold Filled Inlay...'
 sku: 'B00JKEZCFK-es'
+tags: [  ]
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

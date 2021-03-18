@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CF9BCK-es Shock Absorber Ultimate Fly Bra Sujetador Deportivo Negro...'
 sku: 'B076CF9BCK-es'
+tags: [  ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

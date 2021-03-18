@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5W9HB6-es ORICO Carcasa Disco Duro Externo 2.5 Caja Externa Disco...'
 sku: 'B08B5W9HB6-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

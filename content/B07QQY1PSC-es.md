@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQY1PSC-es Funda para Xiaomi Mi A2 Lite - Carcasa Completa Anti-Shock...'
 sku: 'B07QQY1PSC-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

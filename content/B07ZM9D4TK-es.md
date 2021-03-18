@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZM9D4TK-es HYMY Funda para LG K40S Smartphone + 2 x Cristal Templado...'
 sku: 'B07ZM9D4TK-es'
+tags: [  ]
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

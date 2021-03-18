@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SB5FC8T-es HCFKJ 2.4G Ratón Inalámbrico Recargable Silencioso Infame...'
 sku: 'B07SB5FC8T-es'
+tags: [  ]
 actualPrice: 21.33 EUR
 currency: EUR
 price: 21.33

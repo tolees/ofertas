@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVH896N-es Kipling Women s KI4219 3 x Wallet Grey Grey NIGHT GREY BL N85'
 sku: 'B07MVH896N-es'
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

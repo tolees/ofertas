@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084Y1NH6F-es Rettos - Zapatillas Bajas Hombre Afelpado/NAPA GRABADA...'
 sku: 'B084Y1NH6F-es'
+tags: [  ]
 actualPrice: 54.6 EUR
 currency: EUR
 price: 54.6

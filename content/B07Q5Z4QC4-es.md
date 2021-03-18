@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q5Z4QC4-es K-GOLEIRO 18'
 sku: 'B07Q5Z4QC4-es'
+tags: [  ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

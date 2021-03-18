@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TN94CB-es luosh Cesto de Ropa Cesto de succión Suspensión Montado en...'
 sku: 'B085TN94CB-es'
+tags: [  ]
 actualPrice: 15.37 EUR
 currency: EUR
 price: 15.37

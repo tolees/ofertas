@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZBRMV8-es MyCartridge Compatible con HP 44A CF244A Cartucho de Tóner...'
 sku: 'B07CZBRMV8-es'
+tags: [  ]
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

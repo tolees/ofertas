@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QCZCY3B-es Luz solar para el césped luz solar de la flor del jacinto...'
 sku: 'B07QCZCY3B-es'
+tags: [  ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719BMPLY-es Lacoste L1312 Polo Blanco Blanc 6XL Talla del fabricante:...'
 sku: 'B0719BMPLY-es'
+tags: [  ]
 actualPrice: 51.49 EUR
 currency: EUR
 price: 51.49

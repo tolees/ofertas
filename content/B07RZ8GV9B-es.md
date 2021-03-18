@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ8GV9B-es Levi s unbasic Hoodie Capucha Multicolor Dunsmuir Floral...'
 sku: 'B07RZ8GV9B-es'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

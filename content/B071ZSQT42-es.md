@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZSQT42-es Kerbl Rustica - Casa para Gatos 57 x 45 x 43 cm'
 sku: 'B071ZSQT42-es'
+tags: [  ]
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000QNWW84-es Botones pres.sport 15mm lt. plat.+herra.'
 sku: 'B000QNWW84-es'
+tags: [  ]
 actualPrice: 8.51 EUR
 currency: EUR
 price: 8.51

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZD227KS-es Amzdeal Carretilla Plegable Carretilla de Mano con 4...'
 sku: 'B07ZD227KS-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

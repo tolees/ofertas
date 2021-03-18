@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081QHNBJF-es Neutrogena Cellular Boost Anti-Edad Crema De Día Spf 20...'
 sku: 'B081QHNBJF-es'
+tags: [  ]
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

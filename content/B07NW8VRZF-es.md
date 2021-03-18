@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW8VRZF-es Skechers D lites 3.0-Proven Force Zapatillas para Mujer...'
 sku: 'B07NW8VRZF-es'
+tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

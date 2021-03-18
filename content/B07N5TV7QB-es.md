@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5TV7QB-es Pop! Vinilo: NSYNC: Chris Kirkpatrick'
 sku: 'B07N5TV7QB-es'
+tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

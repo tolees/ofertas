@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ABZBXWM-es Wilson BLX Seven raqueta de tenis cubierta + + 3 pelotas'
 sku: 'B01ABZBXWM-es'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

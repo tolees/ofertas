@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBTY4RV-es Cadena de luces exterior luz cadena Bombillas exterior...'
 sku: 'B07GBTY4RV-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JDHDS5X-es Konesky Bebé cinturón de Seguridad Clip Asiento de Coche...'
 sku: 'B07JDHDS5X-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

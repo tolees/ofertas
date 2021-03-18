@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZYS6Y5-es Love Moschino Jc4010pp1a Carteras de Mano con Asa para...'
 sku: 'B07RZYS6Y5-es'
+tags: [  ]
 actualPrice: 84.28 EUR
 currency: EUR
 price: 84.28

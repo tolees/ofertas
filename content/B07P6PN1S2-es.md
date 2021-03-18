@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6PN1S2-es Lemnoi Cámaras A3 y Fuente de Alimentación del Panel Solar'
 sku: 'B07P6PN1S2-es'
+tags: [  ]
 actualPrice: 81.51 EUR
 currency: EUR
 price: 81.51

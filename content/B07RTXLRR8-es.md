@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RTXLRR8-es Crema para las pecas Crema de eliminación de pecas Crema...'
 sku: 'B07RTXLRR8-es'
+tags: [  ]
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

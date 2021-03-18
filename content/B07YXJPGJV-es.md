@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXJPGJV-es Barras Luminosas Hieha 200 Piezas Glow Sticks para Fiesta...'
 sku: 'B07YXJPGJV-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

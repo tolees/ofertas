@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015TTD4BS-es Bondage Play Dilatadores Uretra - 1 unidad'
 sku: 'B015TTD4BS-es'
+tags: [  ]
 actualPrice: 14.73 EUR
 currency: EUR
 price: 14.73

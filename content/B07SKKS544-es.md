@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SKKS544-es Nike Pico 5 TDV Gymnastics Shoe Unisex-Baby Deep Royal...'
 sku: 'B07SKKS544-es'
+tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

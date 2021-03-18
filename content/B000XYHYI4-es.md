@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000XYHYI4-es Winsor & Newton Cotman - Set studio de acuarela 45 medio...'
 sku: 'B000XYHYI4-es'
+tags: [  ]
 actualPrice: 44.45 EUR
 currency: EUR
 price: 44.45

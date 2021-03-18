@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DV580WG-es Superga Classic Zapatillas Unisex Adulto Azul Blue Shadow...'
 sku: 'B00DV580WG-es'
+tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

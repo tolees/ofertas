@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y33B8PC-es Bizak- Bunchbot Actividad Creativa Multicolor Miscelanea...'
 sku: 'B06Y33B8PC-es'
+tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

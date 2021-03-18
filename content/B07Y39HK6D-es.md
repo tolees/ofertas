@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y39HK6D-es Soul Projekt x 10 Almohadillas desmaquillantes...'
 sku: 'B07Y39HK6D-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

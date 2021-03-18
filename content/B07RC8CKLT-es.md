@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RC8CKLT-es Columbia Klamath Range II Forro Polar con Media Cremallera...'
 sku: 'B07RC8CKLT-es'
+tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

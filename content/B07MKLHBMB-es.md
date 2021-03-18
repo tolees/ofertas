@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MKLHBMB-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07MKLHBMB-es'
+tags: [  ]
 actualPrice: 54.97 EUR
 currency: EUR
 price: 54.97

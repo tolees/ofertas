@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6NCKSG-es PUMA Ralph Sampson LO Perf Zapatillas Unisex-Adulto Blanco...'
 sku: 'B07S6NCKSG-es'
+tags: [  ]
 actualPrice: 47.65 EUR
 currency: EUR
 price: 47.65

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FAMADXW-es Bosch Professional GBA 18V 2.0Ah litio 1 batería x 2.0 Ah...'
 sku: 'B00FAMADXW-es'
+tags: [  ]
 actualPrice: 28.78 EUR
 currency: EUR
 price: 28.78

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087JPJTTG-es Lima electrónica para el cuidado de los pies lima...'
 sku: 'B087JPJTTG-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFP9G21-es Woo Well Bolsas de vegetales reutilizables de algodón...'
 sku: 'B07FFP9G21-es'
+tags: [  ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

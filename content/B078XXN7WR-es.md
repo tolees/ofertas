@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XXN7WR-es adidas SST Windbreaker Cortavientos Hombre AMATRI XS'
 sku: 'B078XXN7WR-es'
+tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

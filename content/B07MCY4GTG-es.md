@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCY4GTG-es Saucony Triumph ISO 5 Zapatillas de Running para Mujer...'
 sku: 'B07MCY4GTG-es'
+tags: [  ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

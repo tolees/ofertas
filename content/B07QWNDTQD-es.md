@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWNDTQD-es Under Armour Sportstyle Terry Logo Parte Superior del...'
 sku: 'B07QWNDTQD-es'
+tags: [  ]
 actualPrice: 34.22 EUR
 currency: EUR
 price: 34.22

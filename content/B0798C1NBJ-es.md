@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0798C1NBJ-es Dim AD0062P Sujetador con Copa Completa Negro Negro 127 95...'
 sku: 'B0798C1NBJ-es'
+tags: [  ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

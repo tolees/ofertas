@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RDKSTT-es DELSEY Paris TURENNE Maleta 75 cm 102 Liters Beige'
 sku: 'B075RDKSTT-es'
+tags: [  ]
 actualPrice: 130.54 EUR
 currency: EUR
 price: 130.54

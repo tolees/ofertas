@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHC71QM-es Eono by Amazon - Paraguas de Golf Resistente al Viento con...'
 sku: 'B07VHC71QM-es'
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

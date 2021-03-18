@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HEVAPSO-es Michael Kors Reloj Analogico para Hombre de Cuarzo con...'
 sku: 'B01HEVAPSO-es'
+tags: [  ]
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

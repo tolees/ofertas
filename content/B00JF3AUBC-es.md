@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JF3AUBC-es Embutidos Ezequiel Chorizo Picante Herradura 500 gramos'
 sku: 'B00JF3AUBC-es'
+tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

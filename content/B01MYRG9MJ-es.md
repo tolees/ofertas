@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYRG9MJ-es Puma Suede Classic+ Zapatillas Unisex Adulto Turquesa...'
 sku: 'B01MYRG9MJ-es'
+tags: [  ]
 actualPrice: 25.43 EUR
 currency: EUR
 price: 25.43

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XK1WRHC-es ESSEASON Manta Eléctrica Lumbar y Cervical - Esterilla...'
 sku: 'B07XK1WRHC-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

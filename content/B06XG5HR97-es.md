@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG5HR97-es Amazfit Pace Black Pulsera Inteligente con Ritmo Cardíaco...'
 sku: 'B06XG5HR97-es'
+tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

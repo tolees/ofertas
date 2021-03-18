@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018KNS42E-es Skechers Equalizer-Double Play Mocasines Hombre Negro...'
 sku: 'B018KNS42E-es'
+tags: [  ]
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

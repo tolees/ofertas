@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRW9QQM-es find. Fletcher Zapatillas Blanco White/Navy 43 EU'
 sku: 'B07RRW9QQM-es'
+tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

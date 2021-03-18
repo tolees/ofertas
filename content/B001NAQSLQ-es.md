@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001NAQSLQ-es K & N ha-4506-t powerlid Airbox Cover Moto'
 sku: 'B001NAQSLQ-es'
+tags: [  ]
 actualPrice: 113.52 EUR
 currency: EUR
 price: 113.52

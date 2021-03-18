@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824KT2PB-es BERGNER Gaming Chair con Sound System y Conexiones...'
 sku: 'B0824KT2PB-es'
+tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFCZWVG-es YAMAMAY® Bañador de Cintura Media para Mujer – Swift'
 sku: 'B07VFCZWVG-es'
+tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

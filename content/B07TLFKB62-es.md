@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLFKB62-es Levi s Camiseta Multicolor Authentic Colorblock tee...'
 sku: 'B07TLFKB62-es'
+tags: [  ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

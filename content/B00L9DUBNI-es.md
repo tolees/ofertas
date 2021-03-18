@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L9DUBNI-es DC Shoes DCSHI Trase TX-Shoes for Men Zapatillas de...'
 sku: 'B00L9DUBNI-es'
+tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

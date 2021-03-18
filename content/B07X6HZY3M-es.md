@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X6HZY3M-es G-STAR RAW Cadet Zapatillas para Hombre Marfil Milk...'
 sku: 'B07X6HZY3M-es'
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

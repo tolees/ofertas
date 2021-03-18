@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFNC7ND-es adidas Duramo 9 Zapatillas de Entrenamiento para Hombre...'
 sku: 'B07RFNC7ND-es'
+tags: [  ]
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

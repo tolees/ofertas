@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYTKKMF-es Skechers Men s Solar Fuse Trainers Black Black...'
 sku: 'B07NYTKKMF-es'
+tags: [  ]
 actualPrice: 43.68 EUR
 currency: EUR
 price: 43.68

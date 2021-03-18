@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NPYJJT-es NUOLUX Jumbo Foil Love Balloon romántica boda nupcial...'
 sku: 'B075NPYJJT-es'
+tags: [  ]
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

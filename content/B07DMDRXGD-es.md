@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMDRXGD-es Forza Horizon 4 [Importación italiana]'
 sku: 'B07DMDRXGD-es'
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7V8QLR-es TACKLIFE-GLB01A-DC Aspirador-soplador'
 sku: 'B07D7V8QLR-es'
+tags: [  ]
 actualPrice: 141.99 EUR
 currency: EUR
 price: 141.99

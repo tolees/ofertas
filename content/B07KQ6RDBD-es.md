@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQ6RDBD-es B Blesiya 2 Pcs Disquetes USB Tornillos con Jumpers...'
 sku: 'B07KQ6RDBD-es'
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

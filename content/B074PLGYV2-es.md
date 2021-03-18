@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PLGYV2-es fullmark multiusos pegamento lavable escuela oficina no...'
 sku: 'B074PLGYV2-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

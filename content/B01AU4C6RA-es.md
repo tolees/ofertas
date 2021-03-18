@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AU4C6RA-es Einhell GC-ET 4530 Set - Recortabordes eléctrico 450W 230V...'
 sku: 'B01AU4C6RA-es'
+tags: [  ]
 actualPrice: 28.67 EUR
 currency: EUR
 price: 28.67

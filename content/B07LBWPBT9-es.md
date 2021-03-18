@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBWPBT9-es Baby Jogger City Tour LUX color granito. Silla de paseo de...'
 sku: 'B07LBWPBT9-es'
+tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6QR3J2-es Castañer CHIARITA/8/001 Alpargatas para Mujer Negro Negro...'
 sku: 'B07P6QR3J2-es'
+tags: [  ]
 actualPrice: 45.18 EUR
 currency: EUR
 price: 45.18

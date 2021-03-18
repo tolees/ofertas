@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829H8ZCD-es Reloj de Pulsera para Hombre Luminoso Casual Delgado de...'
 sku: 'B0829H8ZCD-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G5Y4W8U-es Funko - POP! Vinilo Colección Rocks - Figura Slash 10687'
 sku: 'B01G5Y4W8U-es'
+tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

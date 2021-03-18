@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG184SK-es PUMA RS 9.8 Space Zapatillas Unisex Adulto Pastel...'
 sku: 'B07KG184SK-es'
+tags: [  ]
 actualPrice: 34.42 EUR
 currency: EUR
 price: 34.42

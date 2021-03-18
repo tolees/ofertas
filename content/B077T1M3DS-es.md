@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077T1M3DS-es Tomshine Lámpara de Mesa Lámpara Mesita de Noche Madera...'
 sku: 'B077T1M3DS-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

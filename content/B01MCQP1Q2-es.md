@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MCQP1Q2-es Tesa 77767-00001-00 77767-00001-00-Smart Mounting System...'
 sku: 'B01MCQP1Q2-es'
+tags: [  ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004F7DWCM-es AgfaPhoto 110-803951 - Pilas alcalinas AA Pack de 10...'
 sku: 'B004F7DWCM-es'
+tags: [  ]
 actualPrice: 2.33 EUR
 currency: EUR
 price: 2.33

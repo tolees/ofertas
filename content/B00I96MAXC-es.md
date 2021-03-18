@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I96MAXC-es Moulinex Multimoulinette Compact DJ300110 Picadora 0.25 l...'
 sku: 'B00I96MAXC-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

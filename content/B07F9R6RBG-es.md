@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F9R6RBG-es Hetoco Azucarero de cerámica con Tapa y Cuchara de Acero...'
 sku: 'B07F9R6RBG-es'
+tags: [  ]
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083J2VTBF-es HP Elite Dragonfly - Ordenador portátil convertible de...'
 sku: 'B083J2VTBF-es'
+tags: [  ]
 actualPrice: 1199.0 EUR
 currency: EUR
 price: 1199.0

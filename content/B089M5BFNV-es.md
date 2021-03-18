@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089M5BFNV-es Timbre Inalámbrico para Puerta 300M IP55 Impermeable con...'
 sku: 'B089M5BFNV-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

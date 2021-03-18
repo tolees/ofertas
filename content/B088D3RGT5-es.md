@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088D3RGT5-es Suhctup Funda Compatible para Samsung Galaxy S10E Carcasa...'
 sku: 'B088D3RGT5-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFZTVPQ-es New Balance 574v2 Zapatillas para Mujer Rosa Pink Pink 35 EU'
 sku: 'B07HFZTVPQ-es'
+tags: [  ]
 actualPrice: 32.68 EUR
 currency: EUR
 price: 32.68

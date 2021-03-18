@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJXYS21-es HoneyHolly Botella de Agua Acero Inoxidable...'
 sku: 'B07TJXYS21-es'
+tags: [  ]
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCMSYRV-es adidas T19 WOV Pnt W Pantalones de Deporte Mujer...'
 sku: 'B07KCMSYRV-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

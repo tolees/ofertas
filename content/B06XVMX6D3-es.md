@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XVMX6D3-es Mujer Plisada EláStica Escuela Skorts Tenis Con Ropa...'
 sku: 'B06XVMX6D3-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

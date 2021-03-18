@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAN5FZG-es Máscara exfoliante de lavado contra puntos negros de la...'
 sku: 'B01NAN5FZG-es'
+tags: [  ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9BF5KG-es Pepe Jeans Vincent Polo Gris Grey Marl 933 X-Small para...'
 sku: 'B07N9BF5KG-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

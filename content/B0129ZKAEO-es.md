@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0129ZKAEO-es Bulova Marine Star 98B258 - Reloj de pulsera de diseño...'
 sku: 'B0129ZKAEO-es'
+tags: [  ]
 actualPrice: 253.61 EUR
 currency: EUR
 price: 253.61

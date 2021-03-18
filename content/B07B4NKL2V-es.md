@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4NKL2V-es Passionata Georgia Sujetador con Aros Negro Schwarz 11 95D...'
 sku: 'B07B4NKL2V-es'
+tags: [  ]
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

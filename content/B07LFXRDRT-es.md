@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFXRDRT-es Sloggi Zero Feel Bralette Ex Sujetador estilo Rojo...'
 sku: 'B07LFXRDRT-es'
+tags: [  ]
 actualPrice: 11.1 EUR
 currency: EUR
 price: 11.1

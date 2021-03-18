@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HZ92CRD-es Amazon Essentials 4-Pack Seamless Bonded Stretch Thong...'
 sku: 'B07HZ92CRD-es'
+tags: [  ]
 actualPrice: 3.72 EUR
 currency: EUR
 price: 3.72

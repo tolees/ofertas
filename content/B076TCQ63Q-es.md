@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076TCQ63Q-es My Lovely Bed - Edredón Nórdico 4 Estaciones - 220x240 cm...'
 sku: 'B076TCQ63Q-es'
+tags: [  ]
 actualPrice: 54.59 EUR
 currency: EUR
 price: 54.59

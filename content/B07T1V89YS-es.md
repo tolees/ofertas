@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1V89YS-es VTech-80-177822 Barco Pirata cazatesoros transformable en...'
 sku: 'B07T1V89YS-es'
+tags: [  ]
 actualPrice: 26.38 EUR
 currency: EUR
 price: 26.38

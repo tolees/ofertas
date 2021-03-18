@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087JFHKHW-es AODOOR Lámpara Antimosquitos Mosquito Killer Portátil 2 en...'
 sku: 'B087JFHKHW-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

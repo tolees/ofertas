@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDGQ2QG-es Uniky Cortador de Verdura 4 en 1【2020 La última versión】...'
 sku: 'B08CDGQ2QG-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

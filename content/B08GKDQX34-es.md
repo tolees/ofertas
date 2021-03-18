@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GKDQX34-es GZ Caja De Almacenamiento De Máscara A Prueba De Polvo...'
 sku: 'B08GKDQX34-es'
+tags: [  ]
 actualPrice: 3.58 EUR
 currency: EUR
 price: 3.58

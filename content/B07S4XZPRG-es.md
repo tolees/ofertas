@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4XZPRG-es New Balance 373v2 Zapatillas para Hombre Marfil Off AC 42 EU'
 sku: 'B07S4XZPRG-es'
+tags: [  ]
 actualPrice: 48.45 EUR
 currency: EUR
 price: 48.45

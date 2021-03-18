@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5E9QYE-es Singer HZB-12/A - Máquina de hielos plástico Color Rojo'
 sku: 'B01M5E9QYE-es'
+tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084QHSKDH-es Snner Mascarilla de protección bucal OP con 3 Capas 10...'
 sku: 'B084QHSKDH-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

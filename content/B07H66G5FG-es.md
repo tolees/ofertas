@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H66G5FG-es 3Pares Hombre Medias Deportivas 15-20mmHg Reduce la Fatiga...'
 sku: 'B07H66G5FG-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

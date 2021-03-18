@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVXY28B-es Báscula de Baño Zuzpao Báscula Grasa Corporal Básculas...'
 sku: 'B07TVXY28B-es'
+tags: [  ]
 actualPrice: 21.88 EUR
 currency: EUR
 price: 21.88

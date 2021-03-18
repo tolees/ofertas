@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077C5LFN7-es Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B077C5LFN7-es'
+tags: [  ]
 actualPrice: 179.21 EUR
 currency: EUR
 price: 179.21

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G67LBGR-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07G67LBGR-es'
+tags: [  ]
 actualPrice: 175.73 EUR
 currency: EUR
 price: 175.73

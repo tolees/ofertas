@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088QWWFBR-es Taiso Dispensador de jabón automático dispensadores de...'
 sku: 'B088QWWFBR-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

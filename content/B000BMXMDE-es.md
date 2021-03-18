@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BMXMDE-es HP Q6470A - Cartucho de tóner'
 sku: 'B000BMXMDE-es'
+tags: [  ]
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

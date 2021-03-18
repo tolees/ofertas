@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJ6W5SZ-es Hackett Aston Martin Racing T544 Polo Negro Blk/Multi 9eg...'
 sku: 'B07QJ6W5SZ-es'
+tags: [  ]
 actualPrice: 29.53 EUR
 currency: EUR
 price: 29.53

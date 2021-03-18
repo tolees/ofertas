@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG21JGX-es New Balance 420 Zapatillas para Mujer Rosa Pink Pink 41.5 EU'
 sku: 'B07HG21JGX-es'
+tags: [  ]
 actualPrice: 27.65 EUR
 currency: EUR
 price: 27.65

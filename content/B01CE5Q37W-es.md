@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CE5Q37W-es Fajiabao Ajedrez Magnetico Plegable con Tablero Ajedrez...'
 sku: 'B01CE5Q37W-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

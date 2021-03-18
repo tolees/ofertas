@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ8PKGW-es Mujer Bañador de Una Pieza Traje de Baño Estampado Vintage...'
 sku: 'B07NJ8PKGW-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

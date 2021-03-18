@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LW6E1B3-es 5 Pack Pocketman 1500 Lúmenes CREE XML T6 al aire libre...'
 sku: 'B01LW6E1B3-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

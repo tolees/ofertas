@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BYCZJDM-es UniqueMe [3 Pack] Protector de Pantalla para Xiaomi Redmi...'
 sku: 'B08BYCZJDM-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

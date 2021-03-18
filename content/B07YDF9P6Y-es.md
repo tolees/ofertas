@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDF9P6Y-es Head 811904 Calcetín Unisex Adulto Gris 43 46'
 sku: 'B07YDF9P6Y-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

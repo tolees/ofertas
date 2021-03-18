@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG5FSRT-es WowPrint Animal Dragonfly - Mochila para libros mochila...'
 sku: 'B07HG5FSRT-es'
+tags: [  ]
 actualPrice: 24.34 EUR
 currency: EUR
 price: 24.34

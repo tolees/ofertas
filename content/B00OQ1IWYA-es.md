@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OQ1IWYA-es AIR OPTIX Lentes de contacto multifocales mensuales R 8.6...'
 sku: 'B00OQ1IWYA-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

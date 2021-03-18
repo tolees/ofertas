@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011SVN6HI-es The Blacklist Temporada 2 Blu-Ray [Blu-ray]'
 sku: 'B011SVN6HI-es'
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

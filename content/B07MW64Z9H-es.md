@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MW64Z9H-es E·Durable Soldador estaño 60W 220V Kit del Soldador 200 ℃...'
 sku: 'B07MW64Z9H-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

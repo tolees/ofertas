@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3KY83L-es WowPrint - Bolsa de maquillaje diseño de frutas sandía...'
 sku: 'B07L3KY83L-es'
+tags: [  ]
 actualPrice: 12.16 EUR
 currency: EUR
 price: 12.16

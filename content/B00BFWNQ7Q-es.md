@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BFWNQ7Q-es Repsol RP141L55 Elite Competición 5W-40 Aceite de Motor...'
 sku: 'B00BFWNQ7Q-es'
+tags: [  ]
 actualPrice: 25.85 EUR
 currency: EUR
 price: 25.85

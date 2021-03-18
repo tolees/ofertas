@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5DWFXH-es EXCEED DIY Gomas Loom Bandas 10 000 Elásticos + Hebilla...'
 sku: 'B07W5DWFXH-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YMGTABI-es TW Steel Reloj de Pulsera CS33'
 sku: 'B00YMGTABI-es'
+tags: [  ]
 actualPrice: 208.55 EUR
 currency: EUR
 price: 208.55

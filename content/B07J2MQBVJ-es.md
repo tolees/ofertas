@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J2MQBVJ-es REYLEO'
 sku: 'B07J2MQBVJ-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

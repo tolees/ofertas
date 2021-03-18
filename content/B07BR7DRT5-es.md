@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BR7DRT5-es Precision LNFS 18'
 sku: 'B07BR7DRT5-es'
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

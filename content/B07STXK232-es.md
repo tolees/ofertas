@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STXK232-es Skechers Energy Timeless Vision Zapatillas para Mujer...'
 sku: 'B07STXK232-es'
+tags: [  ]
 actualPrice: 35.07 EUR
 currency: EUR
 price: 35.07

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XNYD3FC-es Xnuoyo Manicura Aparatos eléctricos y accesorios torno...'
 sku: 'B07XNYD3FC-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

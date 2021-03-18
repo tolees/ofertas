@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MY1W25T-es Relojes de Pulsera Electrónicos Para Niños Niños Digital...'
 sku: 'B07MY1W25T-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

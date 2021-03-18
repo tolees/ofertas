@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QLXGWM-es Salcar Carcasa Box Externa para Disco Duro USB 3.0 a SATA...'
 sku: 'B077QLXGWM-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

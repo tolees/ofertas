@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4F7ZPT-es Dockers by Gerli 44bn009 Zapatillas para Hombre Gris...'
 sku: 'B07Q4F7ZPT-es'
+tags: [  ]
 actualPrice: 26.02 EUR
 currency: EUR
 price: 26.02

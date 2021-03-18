@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088ZGKN2W-es YPSNH para Samsung Galaxy Watch Active Correa Silicona...'
 sku: 'B088ZGKN2W-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

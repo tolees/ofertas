@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V35TDKX-es PHONECT Hervidor de Agua Eléctrico 2200W Hervidor de...'
 sku: 'B07V35TDKX-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWVRTT6-es Diesel ShoesDiscover-me OderzoHombreCarterasMulticolor...'
 sku: 'B07RWVRTT6-es'
+tags: [  ]
 actualPrice: 29.91 EUR
 currency: EUR
 price: 29.91

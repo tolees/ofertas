@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQ1PRBH-es Lee Luke Jeans Rinse DP 38W / 34L para Hombre'
 sku: 'B07BQ1PRBH-es'
+tags: [  ]
 actualPrice: 41.98 EUR
 currency: EUR
 price: 41.98

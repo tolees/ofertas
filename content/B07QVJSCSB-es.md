@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVJSCSB-es KEXIN 64GB Memoria USB 2.0 Llave Pendrive 64GB Memoria...'
 sku: 'B07QVJSCSB-es'
+tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

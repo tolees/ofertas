@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D83DLQC-es Bizak- Modelos Aleatorios Dragones Berk Multicolor 61926549'
 sku: 'B07D83DLQC-es'
+tags: [  ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

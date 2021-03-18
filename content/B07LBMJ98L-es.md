@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBMJ98L-es Anker Soundcore Icon Mini Altavoz Bluetooth Impermeable...'
 sku: 'B07LBMJ98L-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQVGXGK-es Maytronics 9995670-ASSY - Cuadro alimentacion basico para...'
 sku: 'B07BQVGXGK-es'
+tags: [  ]
 actualPrice: 83.54 EUR
 currency: EUR
 price: 83.54

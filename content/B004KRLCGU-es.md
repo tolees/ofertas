@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004KRLCGU-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B004KRLCGU-es'
+tags: [  ]
 actualPrice: 93.75 EUR
 currency: EUR
 price: 93.75

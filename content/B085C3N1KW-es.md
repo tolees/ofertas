@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085C3N1KW-es HONOR Smart Watch Magic Watch 2 42 mm Fitness Tracker...'
 sku: 'B085C3N1KW-es'
+tags: [  ]
 actualPrice: 119.9 EUR
 currency: EUR
 price: 119.9

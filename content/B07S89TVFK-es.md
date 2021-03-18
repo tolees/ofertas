@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S89TVFK-es Lee Belt Cinturón Negro Black 01 85 para Hombre'
 sku: 'B07S89TVFK-es'
+tags: [  ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFQX1L6-es Shock Absorber Ultimate Run Bra Sujetador Deportivo Azul...'
 sku: 'B07HFQX1L6-es'
+tags: [  ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

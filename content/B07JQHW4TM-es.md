@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQHW4TM-es 28 Palms 9" Inseam Cotton Tencel Chino Short Shorts...'
 sku: 'B07JQHW4TM-es'
+tags: [  ]
 actualPrice: 17.76 EUR
 currency: EUR
 price: 17.76

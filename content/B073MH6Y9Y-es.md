@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073MH6Y9Y-es SELECTED FEMME Sfgaia HR Jegging New Black Noos Pantalones...'
 sku: 'B073MH6Y9Y-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

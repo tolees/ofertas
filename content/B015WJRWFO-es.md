@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015WJRWFO-es Wenger Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B015WJRWFO-es'
+tags: [  ]
 actualPrice: 99.07 EUR
 currency: EUR
 price: 99.07

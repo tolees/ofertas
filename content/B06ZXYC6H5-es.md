@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZXYC6H5-es Mercer Culinary Cuchara chapada en acero inoxidable acero...'
 sku: 'B06ZXYC6H5-es'
+tags: [  ]
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WYYB37H-es BOSSTER Pegatinas de Vinilo 35 Unidades Hombre Araña...'
 sku: 'B07WYYB37H-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

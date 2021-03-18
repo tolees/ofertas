@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SR22B5Y-es BRIKSMAX Kit de Iluminación Led para Lego Black Panther...'
 sku: 'B07SR22B5Y-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

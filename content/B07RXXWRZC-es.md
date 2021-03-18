@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXXWRZC-es adidas Ctr365 Crew Calcetines Unisex Adulto Blanco/Negro 2XL'
 sku: 'B07RXXWRZC-es'
+tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

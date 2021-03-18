@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M77D5KV-es Emporio Armani Connected - Smartwatch con pantalla táctil...'
 sku: 'B07M77D5KV-es'
+tags: [  ]
 actualPrice: 110.7 EUR
 currency: EUR
 price: 110.7

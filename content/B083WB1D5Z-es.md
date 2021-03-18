@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083WB1D5Z-es TONGJI Vitrina de Acrílico con Luces Compatible con Lego...'
 sku: 'B083WB1D5Z-es'
+tags: [  ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

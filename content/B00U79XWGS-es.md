@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U79XWGS-es Edge Entertainment Star Wars. X-Wing. Interceptor Tie'
 sku: 'B00U79XWGS-es'
+tags: [  ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYQ194M-es Funko- Pop Marvel: Endgame-Thor w/Can Collectible Toy...'
 sku: 'B07TYQ194M-es'
+tags: [  ]
 actualPrice: 10.02 EUR
 currency: EUR
 price: 10.02

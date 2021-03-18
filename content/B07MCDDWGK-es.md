@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCDDWGK-es GANT Fay Botas de Motorista para Mujer Braun Tobacco Brown...'
 sku: 'B07MCDDWGK-es'
+tags: [  ]
 actualPrice: 28.27 EUR
 currency: EUR
 price: 28.27

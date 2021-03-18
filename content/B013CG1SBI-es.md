@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013CG1SBI-es Essie Nail Lacquer Número 93 Mezmerised 13 5 ml'
 sku: 'B013CG1SBI-es'
+tags: [  ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

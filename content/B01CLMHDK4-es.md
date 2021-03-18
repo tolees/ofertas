@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CLMHDK4-es Bourjois City Radiance Base de Maquillaje Tono 03 Light...'
 sku: 'B01CLMHDK4-es'
+tags: [  ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

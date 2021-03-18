@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFJ95PV-es New Balance Trail Nitrel m Zapatillas de Running para...'
 sku: 'B07PFJ95PV-es'
+tags: [  ]
 actualPrice: 36.25 EUR
 currency: EUR
 price: 36.25

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FYULPUY-es AMTION Crafts Bone Folder Scoring Folding Creasing Paper...'
 sku: 'B01FYULPUY-es'
+tags: [  ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

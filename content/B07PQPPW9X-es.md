@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQPPW9X-es TOROCAT 1080P - Sistema de cámara de vigilancia 4 x 1080p...'
 sku: 'B07PQPPW9X-es'
+tags: [  ]
 actualPrice: 103.1 EUR
 currency: EUR
 price: 103.1

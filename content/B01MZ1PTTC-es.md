@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZ1PTTC-es Babaria Men Vital Skin Stop Arrugas Lote Crema Antiarrugas...'
 sku: 'B01MZ1PTTC-es'
+tags: [  ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

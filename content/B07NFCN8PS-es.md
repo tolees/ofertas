@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFCN8PS-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07NFCN8PS-es'
+tags: [  ]
 actualPrice: 63.42 EUR
 currency: EUR
 price: 63.42

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ8H5NB-es Levi s Graphic Sport Hoodie Capucha Blanco Photo Film BRW...'
 sku: 'B07RZ8H5NB-es'
+tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

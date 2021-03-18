@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788XQXKF-es MagiDeal Cubierta Protectora de Teclado de Silicona para...'
 sku: 'B0788XQXKF-es'
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

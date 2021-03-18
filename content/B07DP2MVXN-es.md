@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DP2MVXN-es Under Armour Zinger SL Polo Mujer Azul Dust/Dust/Dust 416 L'
 sku: 'B07DP2MVXN-es'
+tags: [  ]
 actualPrice: 9.46 EUR
 currency: EUR
 price: 9.46

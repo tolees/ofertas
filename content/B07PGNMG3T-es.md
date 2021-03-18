@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PGNMG3T-es Mini Ventilador NASUM USB Ventilador Portatil Batería...'
 sku: 'B07PGNMG3T-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

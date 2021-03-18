@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFGC8HB-es Napapijri Elbas 3 Polo Rosa Petal Pink P841 L para Hombre'
 sku: 'B07VFGC8HB-es'
+tags: [  ]
 actualPrice: 29.91 EUR
 currency: EUR
 price: 29.91

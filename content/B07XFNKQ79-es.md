@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFNKQ79-es HBselect Sujetador Lactancia Sostén De Maternidad con...'
 sku: 'B07XFNKQ79-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

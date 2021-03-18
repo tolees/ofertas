@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K4N1PZ6-es Sennheiser HD 4.20s - Microauriculares de Diadema Cerrados...'
 sku: 'B01K4N1PZ6-es'
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

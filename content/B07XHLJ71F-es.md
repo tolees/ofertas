@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XHLJ71F-es BedStory Pack de 2 Almohadas y Funda Desmontable con...'
 sku: 'B07XHLJ71F-es'
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

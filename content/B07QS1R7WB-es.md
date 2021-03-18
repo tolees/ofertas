@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QS1R7WB-es EACLL GU10 Bases para Lámparas Casquillo Portalámparas...'
 sku: 'B07QS1R7WB-es'
+tags: [  ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

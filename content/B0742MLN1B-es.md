@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0742MLN1B-es Salomon AGILE Pequeña mochila 12 set'
 sku: 'B0742MLN1B-es'
+tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

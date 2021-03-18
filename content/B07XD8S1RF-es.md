@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XD8S1RF-es Tableta de Escritura Color LCD 10 Pulgadas Tablet...'
 sku: 'B07XD8S1RF-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

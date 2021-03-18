@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1GT8SX-es Clarks Un Rio Lace Zapatillas Marrón Aubergine Lea...'
 sku: 'B07N1GT8SX-es'
+tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

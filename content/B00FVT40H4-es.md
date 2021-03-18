@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FVT40H4-es WP WPN-ABP-1-B Accesorio de Bastidor - Accesorio de Rack...'
 sku: 'B00FVT40H4-es'
+tags: [  ]
 actualPrice: 2.64 EUR
 currency: EUR
 price: 2.64

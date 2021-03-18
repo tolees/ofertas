@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SF4MYJ-es Funda Universal para Tableta portátil Funda Ultra Suave...'
 sku: 'B083SF4MYJ-es'
+tags: [  ]
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

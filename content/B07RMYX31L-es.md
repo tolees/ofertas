@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMYX31L-es Luz de la guirnalda del pelo del LED corona duradera de la...'
 sku: 'B07RMYX31L-es'
+tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

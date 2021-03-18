@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813KMGXW-es SHUIBIAN Kits de pintura diamante 5D cuadro diamantes 5d...'
 sku: 'B0813KMGXW-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

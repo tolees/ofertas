@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSVNLH4-es Calvin Klein Thong Tanga Azul Feeder Stripe Baby Blue Bfx...'
 sku: 'B07VSVNLH4-es'
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

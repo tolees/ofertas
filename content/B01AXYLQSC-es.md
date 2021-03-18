@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AXYLQSC-es Reloj para Hombre Colección Epoca Movimiento de Cuarzo...'
 sku: 'B01AXYLQSC-es'
+tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

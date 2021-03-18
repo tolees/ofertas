@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PNUI5CC-es adidas Originals Superstar Zapatillas Unisex Adulto Negro...'
 sku: 'B00PNUI5CC-es'
+tags: [  ]
 actualPrice: 62.9 EUR
 currency: EUR
 price: 62.9

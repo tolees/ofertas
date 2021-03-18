@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KPJN3H-es Salewa WS Ultra Train 2 Zapatillas de Running para Asfalto...'
 sku: 'B072KPJN3H-es'
+tags: [  ]
 actualPrice: 61.13 EUR
 currency: EUR
 price: 61.13

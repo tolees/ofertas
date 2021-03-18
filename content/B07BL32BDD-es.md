@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BL32BDD-es New Balance Fresh Foam Zante m Zapatillas Deportivas para...'
 sku: 'B07BL32BDD-es'
+tags: [  ]
 actualPrice: 42.42 EUR
 currency: EUR
 price: 42.42

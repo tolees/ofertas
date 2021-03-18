@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D17JZS6-es Samsonite Paradiver Light Bolsa de Viaje con Ruedas S...'
 sku: 'B01D17JZS6-es'
+tags: [  ]
 actualPrice: 99.5 EUR
 currency: EUR
 price: 99.5

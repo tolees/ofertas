@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQZDX91-es Luz Lectura Libros Cama Tomshine Lampara Lectura Pinza con...'
 sku: 'B07VQZDX91-es'
+tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

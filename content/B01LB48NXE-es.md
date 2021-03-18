@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LB48NXE-es Taurus Pulsar Turbo-948.969 Aspirador de Trineo sin bolsa...'
 sku: 'B01LB48NXE-es'
+tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

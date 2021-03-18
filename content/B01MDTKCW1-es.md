@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MDTKCW1-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
 sku: 'B01MDTKCW1-es'
+tags: [  ]
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

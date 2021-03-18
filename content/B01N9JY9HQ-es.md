@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9JY9HQ-es Disfraz de Can Can Madcap para Mujer'
 sku: 'B01N9JY9HQ-es'
+tags: [  ]
 actualPrice: 13.47 EUR
 currency: EUR
 price: 13.47

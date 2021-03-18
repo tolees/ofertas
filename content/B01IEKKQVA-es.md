@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IEKKQVA-es Curver 230010 Rectangular Azul Bruma 27.6x20.2x15.2 cm'
 sku: 'B01IEKKQVA-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

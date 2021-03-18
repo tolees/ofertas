@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O90GWFO-es Teslagrad'
 sku: 'B00O90GWFO-es'
+tags: [  ]
 actualPrice: 17.03 EUR
 currency: EUR
 price: 17.03

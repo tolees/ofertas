@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVQCFX5-es Louviva Masajeador 10 Modos de Frecuencia Silicona Suave...'
 sku: 'B07NVQCFX5-es'
+tags: [  ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

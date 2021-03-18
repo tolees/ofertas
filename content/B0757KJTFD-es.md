@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757KJTFD-es Rowenta tn1422 F0 Nomad Cortapelos batería de red de...'
 sku: 'B0757KJTFD-es'
+tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

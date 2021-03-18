@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017U23WEG-es MaxHold Sistema de vacío -Soportes de Pared para...'
 sku: 'B017U23WEG-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

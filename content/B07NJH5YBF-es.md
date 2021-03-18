@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJH5YBF-es Tamaris 1-1-25561-23 Botas Altas para Mujer Rojo Vino 558...'
 sku: 'B07NJH5YBF-es'
+tags: [  ]
 actualPrice: 26.08 EUR
 currency: EUR
 price: 26.08

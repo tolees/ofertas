@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SF90UKI-es G-STAR RAW Stean Tapered Jeans Azul dk aged 5689-89 30W /...'
 sku: 'B00SF90UKI-es'
+tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

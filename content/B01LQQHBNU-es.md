@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LQQHBNU-es WD My Passport - Disco Duro Portátil de 4 TB y Software de...'
 sku: 'B01LQQHBNU-es'
+tags: [  ]
 actualPrice: 92.56 EUR
 currency: EUR
 price: 92.56

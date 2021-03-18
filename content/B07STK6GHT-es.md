@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STK6GHT-es ZARRS 180 Piezas Ojos de Seguridad de Juguete Plástico...'
 sku: 'B07STK6GHT-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

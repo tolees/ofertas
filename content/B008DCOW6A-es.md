@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008DCOW6A-es H.Koenig V5i Centro de Planchado 90 g/r 3.5 Bares 2400 W...'
 sku: 'B008DCOW6A-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

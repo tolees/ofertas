@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004VA3Z0M-es Nike MD Runner 2 Zapatillas de Running Mujer Gris Barely...'
 sku: 'B004VA3Z0M-es'
+tags: [  ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LGB24HS-es USB Cable de Carga Clip Pinza para Polar Smart Watch V800...'
 sku: 'B01LGB24HS-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

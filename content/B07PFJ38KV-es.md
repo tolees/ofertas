@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFJ38KV-es NASUM Mini Ventilador USB Ventilador Portatil Batería...'
 sku: 'B07PFJ38KV-es'
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

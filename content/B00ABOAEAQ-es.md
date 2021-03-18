@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ABOAEAQ-es Bosch Professional GWS 18-125 V-LI Amoladora Angular...'
 sku: 'B00ABOAEAQ-es'
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

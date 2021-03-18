@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHRRYS5-es Mr. Wonderful WOA09019ES - Set de Libretas + Boli'
 sku: 'B07CHRRYS5-es'
+tags: [  ]
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

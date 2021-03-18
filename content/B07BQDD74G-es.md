@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQDD74G-es Rexona Desodorante Active Pro+ Original Mujer - 200 ml'
 sku: 'B07BQDD74G-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

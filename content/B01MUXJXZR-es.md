@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUXJXZR-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B01MUXJXZR-es'
+tags: [  ]
 actualPrice: 119.66 EUR
 currency: EUR
 price: 119.66

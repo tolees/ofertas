@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MAXEUOD-es Vicloon Reina de las Nieves Accesorios de Princesa del...'
 sku: 'B01MAXEUOD-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

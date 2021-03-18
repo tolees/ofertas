@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CRVHRM4-es L Oreal Majirel Eu Absolu Tinte 9.22 - 125 gr'
 sku: 'B00CRVHRM4-es'
+tags: [  ]
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007QA5UZW-es Soother Cadena Rosa'
 sku: 'B007QA5UZW-es'
+tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

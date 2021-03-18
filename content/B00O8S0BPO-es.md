@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O8S0BPO-es Portavasos de plástico Intex PureSpa Beige 26 x 22 x 18 cm'
 sku: 'B00O8S0BPO-es'
+tags: [  ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

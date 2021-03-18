@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY9ZQXK-es Skechers Heston-Regano Botas Clasicas para Hombre Marrón...'
 sku: 'B07NY9ZQXK-es'
+tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

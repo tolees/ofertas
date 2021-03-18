@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CERBVE0-es American Tourister Air Force 1 - Maleta Turquesa Aero...'
 sku: 'B01CERBVE0-es'
+tags: [  ]
 actualPrice: 83.4 EUR
 currency: EUR
 price: 83.4

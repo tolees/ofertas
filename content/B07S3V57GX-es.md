@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3V57GX-es New Balance 500 Zapatillas Mujer Rosa Gw500Hha 39 EU'
 sku: 'B07S3V57GX-es'
+tags: [  ]
 actualPrice: 43.22 EUR
 currency: EUR
 price: 43.22

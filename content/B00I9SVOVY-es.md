@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I9SVOVY-es The Big Bang Theory SDTWRN02581 - Taza de cerámica con...'
 sku: 'B00I9SVOVY-es'
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

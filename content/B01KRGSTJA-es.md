@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KRGSTJA-es Beurer IPL 7500 - Depiladora de luz pulsada compacta con...'
 sku: 'B01KRGSTJA-es'
+tags: [  ]
 actualPrice: 98.89 EUR
 currency: EUR
 price: 98.89

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076RWLVJN-es Bebé Luz nocturna musical USB recargable 4 modos Proyector...'
 sku: 'B076RWLVJN-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

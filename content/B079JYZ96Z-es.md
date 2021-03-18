@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JYZ96Z-es YAZILIND elegante joyer¨ªa de dise?o simple plata plateado...'
 sku: 'B079JYZ96Z-es'
+tags: [  ]
 actualPrice: 1.46 EUR
 currency: EUR
 price: 1.46

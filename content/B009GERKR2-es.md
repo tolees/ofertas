@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009GERKR2-es Maidenform Comfort Devotion Demi - Sujetador para mujer...'
 sku: 'B009GERKR2-es'
+tags: [  ]
 actualPrice: 16.06 EUR
 currency: EUR
 price: 16.06

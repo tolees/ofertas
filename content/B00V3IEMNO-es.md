@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V3IEMNO-es Lexar Professional - Lector de Tarjetas de Memoria Doble...'
 sku: 'B00V3IEMNO-es'
+tags: [  ]
 actualPrice: 26.06 EUR
 currency: EUR
 price: 26.06

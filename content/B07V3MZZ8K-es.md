@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3MZZ8K-es Tommy Hilfiger Core Corporate High Textile SNK Zapatillas...'
 sku: 'B07V3MZZ8K-es'
+tags: [  ]
 actualPrice: 34.24 EUR
 currency: EUR
 price: 34.24

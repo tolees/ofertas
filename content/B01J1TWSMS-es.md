@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J1TWSMS-es Juego de 5 piezas de para beber sake japonés. Pintadas a...'
 sku: 'B01J1TWSMS-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005FEY3V8-es Casio Reloj de pulsera A158WEA-1EF'
 sku: 'B005FEY3V8-es'
+tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FTYPXZ8-es Skechers Boy s Energy Lights Trainers White White 5 UK 38 EU'
 sku: 'B01FTYPXZ8-es'
+tags: [  ]
 actualPrice: 40.53 EUR
 currency: EUR
 price: 40.53

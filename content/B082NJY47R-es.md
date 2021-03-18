@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NJY47R-es Medidor de Contornos Careslong 10"/250MM Herramienta de...'
 sku: 'B082NJY47R-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

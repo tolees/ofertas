@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGCHTYX-es MEGOO Surface Laptop 3/2/1 Protector de Pantalla [Vidrio...'
 sku: 'B07DGCHTYX-es'
+tags: [  ]
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

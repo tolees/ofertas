@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK1BXG1-es Gola Aka202 Zapatillas Deportivas para Interior Unisex...'
 sku: 'B07DK1BXG1-es'
+tags: [  ]
 actualPrice: 11.38 EUR
 currency: EUR
 price: 11.38

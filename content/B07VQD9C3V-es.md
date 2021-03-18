@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQD9C3V-es Ueleknight Reproductor de MP3 MP4 con Micro SD de 16G de...'
 sku: 'B07VQD9C3V-es'
+tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

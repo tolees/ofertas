@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDP8CK1-es RECCI - Topper Colchón de Espuma 90x190cm Topper...'
 sku: 'B07XDP8CK1-es'
+tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

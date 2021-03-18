@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB3QVB6-es Lacoste HH9553 Pantalones Azul Marine 36 Talla del...'
 sku: 'B07GB3QVB6-es'
+tags: [  ]
 actualPrice: 53.04 EUR
 currency: EUR
 price: 53.04

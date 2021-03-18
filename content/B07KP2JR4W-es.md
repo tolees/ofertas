@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KP2JR4W-es SALOMON Evasion 2-Pack 2 Pares de Calcetines Tobilleros...'
 sku: 'B07KP2JR4W-es'
+tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

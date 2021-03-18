@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MOIG21C-es WMF Kitchenminis Hervidor de agua eléctrico 0.8 litros...'
 sku: 'B00MOIG21C-es'
+tags: [  ]
 actualPrice: 36.32 EUR
 currency: EUR
 price: 36.32

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2YYR6P-es New Balance 997H m Zapatillas para Mujer Negro...'
 sku: 'B07S2YYR6P-es'
+tags: [  ]
 actualPrice: 34.33 EUR
 currency: EUR
 price: 34.33

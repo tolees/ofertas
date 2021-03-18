@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0SJ77G-es Jack & Jones Jjimarco Jjenzo WW 420 Noos Pantalones Marrón...'
 sku: 'B01N0SJ77G-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

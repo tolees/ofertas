@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBXGFQK-es Masthome - Batería de Cocina de 11 Piezas de Acero...'
 sku: 'B07VBXGFQK-es'
+tags: [  ]
 actualPrice: 66.09 EUR
 currency: EUR
 price: 66.09

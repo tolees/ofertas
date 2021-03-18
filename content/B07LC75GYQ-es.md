@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LC75GYQ-es BOSS Prime Polo Azul Light/Pastel Blue 454 X-Large para...'
 sku: 'B07LC75GYQ-es'
+tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

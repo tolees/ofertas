@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LLKFX9A-es Osram 64210NBL Lámparas Halógenas Para Faros'
 sku: 'B01LLKFX9A-es'
+tags: [  ]
 actualPrice: 11.62 EUR
 currency: EUR
 price: 11.62

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H57PGUE-es Timewanderer - Guirnalda de luces LED decorativas funciona...'
 sku: 'B01H57PGUE-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

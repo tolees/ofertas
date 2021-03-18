@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KFDTPZ-es BULLPADEL GOLD EDITION JUNIOR'
 sku: 'B079KFDTPZ-es'
+tags: [  ]
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

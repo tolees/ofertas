@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZY93VMG-es Nuxe Nuxuriance Ultra Mascarilla Roll-on Redensifiante 50ml'
 sku: 'B00ZY93VMG-es'
+tags: [  ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

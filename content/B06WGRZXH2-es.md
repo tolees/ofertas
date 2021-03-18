@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WGRZXH2-es Puma Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B06WGRZXH2-es'
+tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

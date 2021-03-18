@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV71RDG-es Ferilinso Funda para Samsung Galaxy M20 Ultra [Slim Thin]...'
 sku: 'B07MV71RDG-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Y4XUTF0-es Lacoste Ph4014 Polo para Hombre Blanco White Medium Talla...'
 sku: 'B00Y4XUTF0-es'
+tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

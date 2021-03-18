@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDPFLB1-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07DDPFLB1-es'
+tags: [  ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A77J8HM-es iRobot HEPA Replensishment Kit de Recambios serie 700...'
 sku: 'B00A77J8HM-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

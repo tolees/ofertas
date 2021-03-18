@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0842GRNB7-es Kit De Funda Transparente: Un Estado Emocionante Y...'
 sku: 'B0842GRNB7-es'
+tags: [  ]
 actualPrice: 12.91 EUR
 currency: EUR
 price: 12.91

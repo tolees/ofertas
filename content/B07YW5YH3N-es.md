@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YW5YH3N-es Funda compatible con Huawei Mate 20 Lite ultrafina suave...'
 sku: 'B07YW5YH3N-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

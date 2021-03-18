@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WWR733S-es Princess 127004 - Sandwich Toaster XXL para 4 sándwiches...'
 sku: 'B06WWR733S-es'
+tags: [  ]
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

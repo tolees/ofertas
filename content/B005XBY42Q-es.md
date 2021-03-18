@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XBY42Q-es Helly Hansen Calshot Trunk Bañador para Hombre Azul Azul...'
 sku: 'B005XBY42Q-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

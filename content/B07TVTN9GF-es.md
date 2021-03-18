@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVTN9GF-es Women s Secret Print Flower Mesh Grey Sujetador de...'
 sku: 'B07TVTN9GF-es'
+tags: [  ]
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

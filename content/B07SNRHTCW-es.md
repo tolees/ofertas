@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNRHTCW-es Igrome Utensilios Cocina Camping 13PCS Camping Kit de...'
 sku: 'B07SNRHTCW-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KDX14X-es Far Cry 5 - The Father Edition'
 sku: 'B072KDX14X-es'
+tags: [  ]
 actualPrice: 63.89 EUR
 currency: EUR
 price: 63.89

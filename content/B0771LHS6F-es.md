@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771LHS6F-es Funko Pop! - Games: Ni No Kuni Roland W/ Higgledy Figura...'
 sku: 'B0771LHS6F-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

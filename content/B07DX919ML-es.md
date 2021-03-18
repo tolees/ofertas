@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DX919ML-es Greylags Calcetines Prima Calidad deportiva Respirable...'
 sku: 'B07DX919ML-es'
+tags: [  ]
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

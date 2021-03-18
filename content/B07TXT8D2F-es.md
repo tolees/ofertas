@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXT8D2F-es Merrell Choprock Leather Shandal Zapatillas Impermeables...'
 sku: 'B07TXT8D2F-es'
+tags: [  ]
 actualPrice: 48.97 EUR
 currency: EUR
 price: 48.97

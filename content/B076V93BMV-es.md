@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076V93BMV-es Telémetro Láser 60m Profesional Digital Multifuncional...'
 sku: 'B076V93BMV-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

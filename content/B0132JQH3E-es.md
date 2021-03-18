@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0132JQH3E-es Un Paso Adelante - Serie Completa 25 años A3 [DVD]'
 sku: 'B0132JQH3E-es'
+tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

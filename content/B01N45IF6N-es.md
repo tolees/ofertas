@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N45IF6N-es muveacoustics a-Plus inalámbrico portátil Bluetooth...'
 sku: 'B01N45IF6N-es'
+tags: [  ]
 actualPrice: 16.93 EUR
 currency: EUR
 price: 16.93

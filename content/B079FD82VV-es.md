@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FD82VV-es Calvin Klein Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B079FD82VV-es'
+tags: [  ]
 actualPrice: 161.4 EUR
 currency: EUR
 price: 161.4

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JL6ZZ5G-es Montse Interiors S.L. Relleno NÓRDICO SINTÉTICO para Saco...'
 sku: 'B07JL6ZZ5G-es'
+tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

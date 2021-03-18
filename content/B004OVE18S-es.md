@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004OVE18S-es B+W XS-Pro Digital - Filtro UV para 72 mm'
 sku: 'B004OVE18S-es'
+tags: [  ]
 actualPrice: 40.9 EUR
 currency: EUR
 price: 40.9

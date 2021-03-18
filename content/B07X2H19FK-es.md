@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2H19FK-es Hotott Hub USB c Lector de Tarjetas de Memoria UHS-II SD...'
 sku: 'B07X2H19FK-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087ZFDF7X-es Pintar por números para adultos la chica en el bosque'
 sku: 'B087ZFDF7X-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

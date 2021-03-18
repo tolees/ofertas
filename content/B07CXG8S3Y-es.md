@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXG8S3Y-es COFIT Cargador de Coche 2 USB Adaptador 3 Sockets...'
 sku: 'B07CXG8S3Y-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

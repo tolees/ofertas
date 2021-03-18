@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I4H0AF0-es Urban Classics Hibi Mid Shoe Zapatillas para Hombre Braun...'
 sku: 'B01I4H0AF0-es'
+tags: [  ]
 actualPrice: 13.47 EUR
 currency: EUR
 price: 13.47

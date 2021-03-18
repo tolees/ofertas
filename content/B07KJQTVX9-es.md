@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KJQTVX9-es AmazonBasics - Ganchos para cortinas de ducha bola redonda...'
 sku: 'B07KJQTVX9-es'
+tags: [  ]
 actualPrice: 4 EUR
 currency: EUR
 price: 4

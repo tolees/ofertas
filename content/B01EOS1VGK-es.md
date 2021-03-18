@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EOS1VGK-es Skechers Flex Appeal 2.0 Break Free Zapatillas De Deporte...'
 sku: 'B01EOS1VGK-es'
+tags: [  ]
 actualPrice: 35.08 EUR
 currency: EUR
 price: 35.08

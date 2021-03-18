@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGXWJ2H-es Mochilas Antirrobo Ordenador 15.6 Pulgadas Adolescentes...'
 sku: 'B07BGXWJ2H-es'
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

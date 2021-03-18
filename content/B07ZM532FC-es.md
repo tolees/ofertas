@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZM532FC-es Repelente ultrasonico antimosquitos antimosquitos...'
 sku: 'B07ZM532FC-es'
+tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

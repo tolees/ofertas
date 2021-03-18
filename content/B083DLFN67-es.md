@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DLFN67-es Cubierta Webcam JEANGO 9pcs Ultradelgado Webcam Cover...'
 sku: 'B083DLFN67-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

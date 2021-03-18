@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ADMLUUY-es Sisley Global Perfect Pore Minimizer 30 Ml 1 Unidad 30 ml'
 sku: 'B00ADMLUUY-es'
+tags: [  ]
 actualPrice: 96.28 EUR
 currency: EUR
 price: 96.28

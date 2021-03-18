@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O8XF2VC-es Philips Avent SCF751/05 - Vaso con boquilla blanda diseño...'
 sku: 'B00O8XF2VC-es'
+tags: [  ]
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFYF74Z-es PUMA Carina Lux L Zapatillas para Mujer Black Black 40 EU'
 sku: 'B07KFYF74Z-es'
+tags: [  ]
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

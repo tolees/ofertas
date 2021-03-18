@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVVB1DN-es Asics Gel-Odyssey Zapatillas de Cross para Hombre Negro...'
 sku: 'B07JVVB1DN-es'
+tags: [  ]
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6JK2FB-es Russell Hobbs Velocity Pro - Batidora de vaso 1000W jarra...'
 sku: 'B07W6JK2FB-es'
+tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

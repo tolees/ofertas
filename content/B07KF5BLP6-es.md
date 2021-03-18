@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF5BLP6-es Levi s 501 High Rise Short Pantalones Cortos Azul Weak In...'
 sku: 'B07KF5BLP6-es'
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

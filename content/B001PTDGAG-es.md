@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001PTDGAG-es HUNTER Comida Acero Inoxidable'
 sku: 'B001PTDGAG-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

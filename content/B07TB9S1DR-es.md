@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB9S1DR-es Helly Hansen Ahiga V4 Hydropower Náuticos para Hombre...'
 sku: 'B07TB9S1DR-es'
+tags: [  ]
 actualPrice: 56.42 EUR
 currency: EUR
 price: 56.42

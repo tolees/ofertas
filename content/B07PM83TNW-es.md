@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PM83TNW-es Bourjois Velvet The Pencil - Pintalabios Tono 11 Red Vin...'
 sku: 'B07PM83TNW-es'
+tags: [  ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

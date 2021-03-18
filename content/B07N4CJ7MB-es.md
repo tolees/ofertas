@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4CJ7MB-es Bourjois Maquillaje corrector Tono: 200 Rose Vanilla...'
 sku: 'B07N4CJ7MB-es'
+tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKKSDFC-es Energizer - Pilas Recargables Accu Recharge Universal'
 sku: 'B07FKKSDFC-es'
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

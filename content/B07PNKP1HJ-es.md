@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNKP1HJ-es L.O.L Surprise'
 sku: 'B07PNKP1HJ-es'
+tags: [  ]
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

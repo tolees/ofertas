@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E02TDO2-es POP! Vinilo - UFC: Chris Weidman'
 sku: 'B01E02TDO2-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

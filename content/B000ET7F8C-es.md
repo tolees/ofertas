@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ET7F8C-es Crayola - 24 Crayolas variedad de colores'
 sku: 'B000ET7F8C-es'
+tags: [  ]
 actualPrice: 4.71 EUR
 currency: EUR
 price: 4.71

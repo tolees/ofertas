@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075N1K8VF-es Monederos Mujer Cartera de Mujer de Gran Capacidad con...'
 sku: 'B075N1K8VF-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

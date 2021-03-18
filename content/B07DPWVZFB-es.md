@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPWVZFB-es Soulcalibur VI - Edición Coleccionista'
 sku: 'B07DPWVZFB-es'
+tags: [  ]
 actualPrice: 71.05 EUR
 currency: EUR
 price: 71.05

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ1YQNP-es Asics Gel-Cumulus 20 Zapatillas de Entrenamiento para...'
 sku: 'B07CZ1YQNP-es'
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

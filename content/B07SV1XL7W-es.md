@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SV1XL7W-es Herefun 32 en 1 Juego de Destornilladores Mini Profesional...'
 sku: 'B07SV1XL7W-es'
+tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

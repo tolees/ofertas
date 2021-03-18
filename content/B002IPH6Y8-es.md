@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002IPH6Y8-es Total Effects 7 en 1 BB Cream de Olay 7-en-1 Cutis Base...'
 sku: 'B002IPH6Y8-es'
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

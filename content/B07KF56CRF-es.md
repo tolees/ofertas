@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF56CRF-es Levi s 501 Long Pantalones Cortos Azul Montgomery Stone...'
 sku: 'B07KF56CRF-es'
+tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

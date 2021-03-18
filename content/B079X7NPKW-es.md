@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079X7NPKW-es Taurus Professional 3 MAX Freidora de Aceite de 3 Litros...'
 sku: 'B079X7NPKW-es'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GWZI3BA-es Orlane B21 Extraordinaire Youth Reset 30 ml'
 sku: 'B00GWZI3BA-es'
+tags: [  ]
 actualPrice: 91.05 EUR
 currency: EUR
 price: 91.05

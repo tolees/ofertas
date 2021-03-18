@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3SLF3Q-es TOPERSUN Funda de Barbacoa Funda Protectora para Barbacoa...'
 sku: 'B07H3SLF3Q-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

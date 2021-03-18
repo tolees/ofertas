@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073C59YBN-es Caterpillar Deplete WP Botas Clasicas para Hombre Negro...'
 sku: 'B073C59YBN-es'
+tags: [  ]
 actualPrice: 55.49 EUR
 currency: EUR
 price: 55.49

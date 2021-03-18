@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKVY4G8-es Tous Bowling New Essence Bolso bolera para Mujer...'
 sku: 'B07PKVY4G8-es'
+tags: [  ]
 actualPrice: 83.4 EUR
 currency: EUR
 price: 83.4

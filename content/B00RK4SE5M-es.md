@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RK4SE5M-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B00RK4SE5M-es'
+tags: [  ]
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

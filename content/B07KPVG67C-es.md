@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPVG67C-es Tccmebius Externo Caja de disco duro Adaptador USB 3.0 a...'
 sku: 'B07KPVG67C-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

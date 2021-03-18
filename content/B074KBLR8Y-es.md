@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KBLR8Y-es Fitbit Ionic El Smartwatch Deportivo Azulado/Gris Plateado'
 sku: 'B074KBLR8Y-es'
+tags: [  ]
 actualPrice: 159.95 EUR
 currency: EUR
 price: 159.95

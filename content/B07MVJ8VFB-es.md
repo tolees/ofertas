@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVJ8VFB-es Kipling - Creativity Xl Monederos Mujer Gris Night Grey Bl...'
 sku: 'B07MVJ8VFB-es'
+tags: [  ]
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

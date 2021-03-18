@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3BW64X-es Almohada de Cuello Inflable Almohadas de Viaje para...'
 sku: 'B07G3BW64X-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

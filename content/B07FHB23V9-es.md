@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FHB23V9-es Levi s 502 Regular Taper Jeans Azul Prewash 95977 0181 33W...'
 sku: 'B07FHB23V9-es'
+tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

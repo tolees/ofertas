@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7TTG1Z-es adidas Tiro 19 Cotton Pant Pantalones Hombre Black/White M'
 sku: 'B07W7TTG1Z-es'
+tags: [  ]
 actualPrice: 27.53 EUR
 currency: EUR
 price: 27.53

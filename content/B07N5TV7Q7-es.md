@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5TV7Q7-es Funko- Pop Vinilo: NSYNC: Justin Timberlake Figura...'
 sku: 'B07N5TV7Q7-es'
+tags: [  ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

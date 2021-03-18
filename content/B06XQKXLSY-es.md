@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XQKXLSY-es Sensilis - Sun Secret - Complemento Alimenticio de...'
 sku: 'B06XQKXLSY-es'
+tags: [  ]
 actualPrice: 8.21 EUR
 currency: EUR
 price: 8.21

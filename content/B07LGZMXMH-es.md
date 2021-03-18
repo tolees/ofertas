@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGZMXMH-es Salomon out Night 30+5 Mochila Capacidad 35 L Unisex...'
 sku: 'B07LGZMXMH-es'
+tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

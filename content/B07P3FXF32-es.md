@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P3FXF32-es Superdry Applique Ziphood Capucha Rosa Smoke Rose L6y XX-...'
 sku: 'B07P3FXF32-es'
+tags: [  ]
 actualPrice: 13.37 EUR
 currency: EUR
 price: 13.37

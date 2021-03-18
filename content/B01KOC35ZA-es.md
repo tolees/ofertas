@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KOC35ZA-es Beurer HK47 - Almohadilla electrónica batería externa de...'
 sku: 'B01KOC35ZA-es'
+tags: [  ]
 actualPrice: 28.38 EUR
 currency: EUR
 price: 28.38

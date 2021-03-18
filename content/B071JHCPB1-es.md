@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JHCPB1-es adidas Campus Zapatillas de Deporte para Hombre Gris Grey...'
 sku: 'B071JHCPB1-es'
+tags: [  ]
 actualPrice: 56.61 EUR
 currency: EUR
 price: 56.61

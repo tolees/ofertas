@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y638HJZ-es Yenks Case compatible con Samsung Galaxy S6 Carcasa de...'
 sku: 'B07Y638HJZ-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

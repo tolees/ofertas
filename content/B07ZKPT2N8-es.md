@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKPT2N8-es Sycreek Almohadilla térmica Mascotas gatos y perros manta...'
 sku: 'B07ZKPT2N8-es'
+tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

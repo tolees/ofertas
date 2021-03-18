@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H57SL3X-es AZDOME Mini Altavoz Bluetooth Portatiles Pequeño...'
 sku: 'B07H57SL3X-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

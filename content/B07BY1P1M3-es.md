@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BY1P1M3-es JAIMIE JACOBS Key Boy Llavero de Cuero Marrón'
 sku: 'B07BY1P1M3-es'
+tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

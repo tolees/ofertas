@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073QSXXCH-es Osram 819559 Bombilla LED E27 14 W Blanco Frío 3 Unidades'
 sku: 'B073QSXXCH-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

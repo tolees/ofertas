@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJK9RPJ-es Clarks Sunder Cross Sandalias Punta Cerrada para Hombre...'
 sku: 'B07TJK9RPJ-es'
+tags: [  ]
 actualPrice: 48.46 EUR
 currency: EUR
 price: 48.46

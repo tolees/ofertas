@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089F2KJH5-es HOPLYNN - Pantalones cortos 2 en 1 para correr gimnasio...'
 sku: 'B089F2KJH5-es'
+tags: [  ]
 actualPrice: 18.31 EUR
 currency: EUR
 price: 18.31

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBLJVCH-es Tommy Hilfiger TJM Reversible Short Bañador Azul Black...'
 sku: 'B07LBLJVCH-es'
+tags: [  ]
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

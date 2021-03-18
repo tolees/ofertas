@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNZRHM3-es Panasonic RP-HD605NE-T Auriculares Bluetooth Premium...'
 sku: 'B07FNZRHM3-es'
+tags: [  ]
 actualPrice: 168.69 EUR
 currency: EUR
 price: 168.69

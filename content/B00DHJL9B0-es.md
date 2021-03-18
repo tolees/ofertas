@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DHJL9B0-es TRIXES Protector elástico para dedos apoyo artritis ayuda...'
 sku: 'B00DHJL9B0-es'
+tags: [  ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

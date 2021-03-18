@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085MQ9XF5-es Kelme - Zapatillas Precision Wild'
 sku: 'B085MQ9XF5-es'
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

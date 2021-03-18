@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVMLSN9-es Desigual Blus Venecia Rojo Borgoña 3007 Large para Mujer'
 sku: 'B07WVMLSN9-es'
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

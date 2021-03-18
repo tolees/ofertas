@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I6Q2X9A-es Casa de perro suave de productos para animales de cama del...'
 sku: 'B01I6Q2X9A-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

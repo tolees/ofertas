@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079TQQFG3-es Russell Hobbs Steam Power - Centro de Planchado 2600 W...'
 sku: 'B079TQQFG3-es'
+tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

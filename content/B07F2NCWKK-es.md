@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2NCWKK-es Puma Axis Zapatillas Unisex Adulto Black White 42 EU'
 sku: 'B07F2NCWKK-es'
+tags: [  ]
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

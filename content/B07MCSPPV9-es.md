@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCSPPV9-es Napapijri DAIN C Suéter Gris Dark Grey Mel 197 XXL para...'
 sku: 'B07MCSPPV9-es'
+tags: [  ]
 actualPrice: 30.48 EUR
 currency: EUR
 price: 30.48

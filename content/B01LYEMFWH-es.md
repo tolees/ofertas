@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYEMFWH-es Victor Toallitas Perfumadas - 10 Unidades'
 sku: 'B01LYEMFWH-es'
+tags: [  ]
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

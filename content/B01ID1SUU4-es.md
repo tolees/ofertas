@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ID1SUU4-es Ever-Pretty Vestidos de Cóctel A-línea Cuello en V sin...'
 sku: 'B01ID1SUU4-es'
+tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

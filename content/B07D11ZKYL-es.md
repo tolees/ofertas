@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D11ZKYL-es SlowTon Dog Dog Doble cinturón de Seguridad con Correa sin...'
 sku: 'B07D11ZKYL-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

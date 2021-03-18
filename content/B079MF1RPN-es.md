@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MF1RPN-es QH-Shop Mosquitera Puertas Mosquitera Magnética Automático...'
 sku: 'B079MF1RPN-es'
+tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

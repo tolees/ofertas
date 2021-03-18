@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079YC41DN-es Funko Pop!- Hermione Herbology Figura de Vinilo 29502'
 sku: 'B079YC41DN-es'
+tags: [  ]
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

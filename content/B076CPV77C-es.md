@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CPV77C-es Teclado Wireless Turquesa'
 sku: 'B076CPV77C-es'
+tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

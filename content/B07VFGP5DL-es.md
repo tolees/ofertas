@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFGP5DL-es RAVIAD 3 en 1 Multi Cable de Carga Nylon Multi USB...'
 sku: 'B07VFGP5DL-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GZ1ZIUY-es HP Adaptador de CA de alimentación Inteligente de 90 W -...'
 sku: 'B01GZ1ZIUY-es'
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

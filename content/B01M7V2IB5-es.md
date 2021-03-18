@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M7V2IB5-es OrthoCare S.Fitness - Rodillera Soporte y compresión para...'
 sku: 'B01M7V2IB5-es'
+tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CI29NHI-es Tefal Optigrill GC712D12 - Plancha Grill 2000 W 6 modos de...'
 sku: 'B01CI29NHI-es'
+tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

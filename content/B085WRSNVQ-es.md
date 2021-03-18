@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085WRSNVQ-es NOBRAND Baumwolle Seil Korb Wäschekorb Baumwollseilkorb...'
 sku: 'B085WRSNVQ-es'
+tags: [  ]
 actualPrice: 3.16 EUR
 currency: EUR
 price: 3.16

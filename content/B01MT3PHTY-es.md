@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT3PHTY-es FLORA GUARD 6.5inch Micro Punta de Hoja Recortadora de...'
 sku: 'B01MT3PHTY-es'
+tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JIWMFPO-es Monix - Taco Cuchillos ceramicos 4p.'
 sku: 'B00JIWMFPO-es'
+tags: [  ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

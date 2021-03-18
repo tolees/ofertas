@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNKTBP6-es Reutilizables y Lavables Antipolvo CALIDAD MEJORADA - 1...'
 sku: 'B08BNKTBP6-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

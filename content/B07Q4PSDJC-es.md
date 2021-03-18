@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4PSDJC-es Caja de luz iluminadora de película de rayos X LED Panel...'
 sku: 'B07Q4PSDJC-es'
+tags: [  ]
 actualPrice: 21.09 EUR
 currency: EUR
 price: 21.09

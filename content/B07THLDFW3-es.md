@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THLDFW3-es iWalker Guantes Gimnasios de Crossfit para los Deportes...'
 sku: 'B07THLDFW3-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

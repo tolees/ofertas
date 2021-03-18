@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CLPPM78-es Panasonic RP-HV41E-A - Auriculares Boton con Cable In-Ear...'
 sku: 'B00CLPPM78-es'
+tags: [  ]
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

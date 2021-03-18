@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V54Z3CM-es Amarillo 25 x 22 x 2 mm L x W xH 2 Piezas Adaptador Micro...'
 sku: 'B07V54Z3CM-es'
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

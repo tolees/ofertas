@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRQ64HH-es Kitchen Emperor Cuchillo de frutas cuchillo de cocina...'
 sku: 'B07HRQ64HH-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

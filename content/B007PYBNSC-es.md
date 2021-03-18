@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007PYBNSC-es SanDisk SDCZ50-032G-FFP 32 GB Cruzer Blade Flash Drive -...'
 sku: 'B007PYBNSC-es'
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

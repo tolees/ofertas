@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTGZQ6T-es Gant 3-Pack Trunk Seasonal Solid Calzoncillos Azul Mid...'
 sku: 'B07MTGZQ6T-es'
+tags: [  ]
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

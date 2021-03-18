@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OPAQGRM-es Panama Jack Bambina Botas Altas para Mujer Negro B60 38 EU'
 sku: 'B00OPAQGRM-es'
+tags: [  ]
 actualPrice: 109.75 EUR
 currency: EUR
 price: 109.75

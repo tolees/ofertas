@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C5TFNPA-es Playskool Sesame Street Collector Pack 5 Figures by Sesame...'
 sku: 'B01C5TFNPA-es'
+tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

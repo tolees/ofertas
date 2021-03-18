@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQTLS9G-es Portarrollos Baño Adhesivo DIAOPROTECT Portarrollos Para...'
 sku: 'B07KQTLS9G-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPDGWX4-es Dihope zapatillas deportivas para mujer de malla...'
 sku: 'B07RPDGWX4-es'
+tags: [  ]
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

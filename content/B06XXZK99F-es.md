@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXZK99F-es NANAMI Fast Wireless Charging Stand M220'
 sku: 'B06XXZK99F-es'
+tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

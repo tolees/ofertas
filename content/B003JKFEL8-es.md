@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003JKFEL8-es Moroccanoil Treatment For All Hair Types Tratamiento...'
 sku: 'B003JKFEL8-es'
+tags: [  ]
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

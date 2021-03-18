@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IN2C8KC-es Samyang F1111006101 - Objetivo fotográfico DSLR para Sony...'
 sku: 'B00IN2C8KC-es'
+tags: [  ]
 actualPrice: 307.74 EUR
 currency: EUR
 price: 307.74

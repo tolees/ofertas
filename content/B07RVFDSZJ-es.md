@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RVFDSZJ-es Pepe Jeans Rick suéter Verde Hunter Green 781 Talla única...'
 sku: 'B07RVFDSZJ-es'
+tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

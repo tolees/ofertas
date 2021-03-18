@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004XC5HFO-es Panama Jack Fedro Botas Estilo Motero para Hombre Negro...'
 sku: 'B004XC5HFO-es'
+tags: [  ]
 actualPrice: 91.72 EUR
 currency: EUR
 price: 91.72

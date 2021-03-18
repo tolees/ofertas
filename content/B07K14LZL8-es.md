@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K14LZL8-es Ban presto Figura Dragon Ball GT Master Stars Piece The...'
 sku: 'B07K14LZL8-es'
+tags: [  ]
 actualPrice: 61.79 EUR
 currency: EUR
 price: 61.79

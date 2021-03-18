@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QW65PB-es Ballery Sac à Dos d Hydratation Sac Vélo avec Poche à Eau...'
 sku: 'B075QW65PB-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

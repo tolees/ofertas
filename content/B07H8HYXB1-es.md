@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8HYXB1-es Nike Air Zoom Pegasus 36 Zapatillas de Running para Hombre...'
 sku: 'B07H8HYXB1-es'
+tags: [  ]
 actualPrice: 77.49 EUR
 currency: EUR
 price: 77.49

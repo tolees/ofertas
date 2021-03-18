@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWW6H27-es Mommy Hook Stroller Hanger Houkiper Ganchos Multiusos...'
 sku: 'B07SWW6H27-es'
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

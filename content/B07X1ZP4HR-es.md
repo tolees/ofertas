@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1ZP4HR-es LIGE Relojes para Hombre Impermeable Deporte Análogo...'
 sku: 'B07X1ZP4HR-es'
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001NYL08S-es Reebok Classic Leather - Zapatillas de cuero para hombre...'
 sku: 'B001NYL08S-es'
+tags: [  ]
 actualPrice: 56.96 EUR
 currency: EUR
 price: 56.96

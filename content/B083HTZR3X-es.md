@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HTZR3X-es K9CK Luces LED para Ideas La casa del árbol 21318 Kit de...'
 sku: 'B083HTZR3X-es'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

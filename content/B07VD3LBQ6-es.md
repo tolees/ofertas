@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD3LBQ6-es Samsung EF-ZN970CPEGWW Clear View - Funda para Galaxy...'
 sku: 'B07VD3LBQ6-es'
+tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

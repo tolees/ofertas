@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C5LG5S4-es Jack & Jones Jjeholmen Sweat Hood Noos Capucha Rojo Port...'
 sku: 'B07C5LG5S4-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

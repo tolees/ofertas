@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D17KYRX-es BOLSA MERIENDA PATRULLA CANINA COLORS'
 sku: 'B07D17KYRX-es'
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

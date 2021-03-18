@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6VJ9SK-es flintronic Cinturón Cuero Hombre Cinturones Piel con...'
 sku: 'B07M6VJ9SK-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D8L4NMS-es Homyl - Candado antirrobo para Ordenador portátil con 2...'
 sku: 'B07D8L4NMS-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

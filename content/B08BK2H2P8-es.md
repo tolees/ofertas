@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BK2H2P8-es Kepae Juegos de Construcción Kit de Iluminación LED para...'
 sku: 'B08BK2H2P8-es'
+tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

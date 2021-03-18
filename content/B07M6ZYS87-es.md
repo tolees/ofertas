@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6ZYS87-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07M6ZYS87-es'
+tags: [  ]
 actualPrice: 94.0 EUR
 currency: EUR
 price: 94.0

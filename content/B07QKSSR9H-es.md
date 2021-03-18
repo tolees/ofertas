@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKSSR9H-es Pagani Design automático de buceadores Relojes Reloj...'
 sku: 'B07QKSSR9H-es'
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002QZORGK-es Optimum Nutrition Suplemento Dietético en Polvo "Platinum...'
 sku: 'B002QZORGK-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DW2FM9P-es Fuumuui DIY preimpreso Lienzo Regalo de Pintura al óleo...'
 sku: 'B07DW2FM9P-es'
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

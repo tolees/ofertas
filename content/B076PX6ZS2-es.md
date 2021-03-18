@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076PX6ZS2-es Skechers Graceful-Get Connected Zapatillas para Mujer Gris...'
 sku: 'B076PX6ZS2-es'
+tags: [  ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

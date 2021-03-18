@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYYW92L-es Under Armour UA W Skylar 2 Zapatillas de Running para...'
 sku: 'B07PYYW92L-es'
+tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

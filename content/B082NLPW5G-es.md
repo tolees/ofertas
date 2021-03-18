@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NLPW5G-es Medidor de Contornos Careslong 10"/250MM Herramienta de...'
 sku: 'B082NLPW5G-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

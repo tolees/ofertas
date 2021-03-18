@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3NXHRS-es Triumph Amourette Charm W Sujetador con Aros Azul Peacock...'
 sku: 'B07V3NXHRS-es'
+tags: [  ]
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

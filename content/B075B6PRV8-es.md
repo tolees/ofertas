@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075B6PRV8-es URCERI Telémetro Láser 40m Medidor Láser de...'
 sku: 'B075B6PRV8-es'
+tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

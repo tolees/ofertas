@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HZM82GY-es Pulsar Reloj Mujer de Analogico PH7447X1'
 sku: 'B01HZM82GY-es'
+tags: [  ]
 actualPrice: 45.23 EUR
 currency: EUR
 price: 45.23

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B0YU8ME-es Russell Hobbs Purity - Hervidor de Agua Eléctrico con...'
 sku: 'B01B0YU8ME-es'
+tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

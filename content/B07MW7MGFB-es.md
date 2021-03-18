@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MW7MGFB-es Marvel Capitán Marvel - Vaso cambiador de frío protector...'
 sku: 'B07MW7MGFB-es'
+tags: [  ]
 actualPrice: 5 EUR
 currency: EUR
 price: 5

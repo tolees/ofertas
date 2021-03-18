@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N3YUSW6-es NEW C 2 Unidades Protector de Pantalla para Samsung Galaxy...'
 sku: 'B01N3YUSW6-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

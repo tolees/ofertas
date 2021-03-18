@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014FR6GG-es Cinereplicas - Harry Potter - Bufanda - Licencia Oficial -...'
 sku: 'B0014FR6GG-es'
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

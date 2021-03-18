@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZV4X79-es TOUS - Pendientes BRIGHT cristal de roca hidrotermal'
 sku: 'B07TZV4X79-es'
+tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

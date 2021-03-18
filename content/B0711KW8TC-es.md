@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711KW8TC-es iMagicBox-41197 Caja con Diferentes Juegos de Magia con...'
 sku: 'B0711KW8TC-es'
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

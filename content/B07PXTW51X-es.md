@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXTW51X-es Under Armour UA Charged Escape 3 Zapatillas para Correr...'
 sku: 'B07PXTW51X-es'
+tags: [  ]
 actualPrice: 50.39 EUR
 currency: EUR
 price: 50.39

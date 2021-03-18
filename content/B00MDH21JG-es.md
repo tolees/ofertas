@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MDH21JG-es Revlon ColorStay Delineador de Ojos Brown'
 sku: 'B00MDH21JG-es'
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

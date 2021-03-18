@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07989VXRW-es Fossil Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07989VXRW-es'
+tags: [  ]
 actualPrice: 126.89 EUR
 currency: EUR
 price: 126.89

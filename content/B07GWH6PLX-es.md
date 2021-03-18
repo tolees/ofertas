@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWH6PLX-es Nobleza - Rascador de cartón para Gatos. Alfombrilla con...'
 sku: 'B07GWH6PLX-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1TC27G-es Reebok FLEXAGON FIT Zapatillas de Deporte para Mujer Negro...'
 sku: 'B07L1TC27G-es'
+tags: [  ]
 actualPrice: 23.59 EUR
 currency: EUR
 price: 23.59

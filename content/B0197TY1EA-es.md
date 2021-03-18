@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0197TY1EA-es Aquabeads - 79278 - Set Anillos Deslumbrantes'
 sku: 'B0197TY1EA-es'
+tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

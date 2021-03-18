@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084QB5KDV-es Correa de Repuesto de Silicona Anti-pérdida de Dos Colores...'
 sku: 'B084QB5KDV-es'
+tags: [  ]
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

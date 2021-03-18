@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CL5HJHL-es BEN 10 - Alien Creation Chamber Laboratorio Crea Aliens...'
 sku: 'B07CL5HJHL-es'
+tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

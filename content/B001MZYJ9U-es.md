@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001MZYJ9U-es Ferplast Siesta Deluxe 4 - Cama para Gatos y Perros 61 5 x...'
 sku: 'B001MZYJ9U-es'
+tags: [  ]
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

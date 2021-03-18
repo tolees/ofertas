@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089GLVHSM-es 3.5mm Auriculares Auriculares Auriculares Auriculares...'
 sku: 'B089GLVHSM-es'
+tags: [  ]
 actualPrice: 3.33 EUR
 currency: EUR
 price: 3.33

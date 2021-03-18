@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3B3JNQ-es Essie Esmalte de uñas color 44 - 13 ml.'
 sku: 'B00A3B3JNQ-es'
+tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J5CC68I-es The London Nº1 Ginebra - 1000 ml'
 sku: 'B00J5CC68I-es'
+tags: [  ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

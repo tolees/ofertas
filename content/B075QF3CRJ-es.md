@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QF3CRJ-es iiniim S-XL Hombre Suspensorio Atlético Defensor Atractivo...'
 sku: 'B075QF3CRJ-es'
+tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPD2JJ-es Reloj Inteligente Ninos con Musica MP3 - Smartwatch Niños...'
 sku: 'B07MZPD2JJ-es'
+tags: [  ]
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

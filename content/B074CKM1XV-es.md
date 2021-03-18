@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074CKM1XV-es CamelBak Sequoia Macuto de Senderismo Mujer Rojo Olive...'
 sku: 'B074CKM1XV-es'
+tags: [  ]
 actualPrice: 80.63 EUR
 currency: EUR
 price: 80.63

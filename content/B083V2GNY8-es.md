@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083V2GNY8-es Buyger 2 en 1 Maletin Medicos Juguete Doctora Enfermeras...'
 sku: 'B083V2GNY8-es'
+tags: [  ]
 actualPrice: 25.86 EUR
 currency: EUR
 price: 25.86

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1DVZMY-es La Toja Selection - Pack Regalo Mujer - Gel de Baño...'
 sku: 'B07K1DVZMY-es'
+tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

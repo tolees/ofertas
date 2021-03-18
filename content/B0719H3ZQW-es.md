@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719H3ZQW-es Compartimientos plegables del almacenaje del yute cesta de...'
 sku: 'B0719H3ZQW-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

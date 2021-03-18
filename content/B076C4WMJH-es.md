@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076C4WMJH-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B076C4WMJH-es'
+tags: [  ]
 actualPrice: 165.58 EUR
 currency: EUR
 price: 165.58

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRNKRRJ-es MIFA X12 Auriculares Bluetooth Auriculares Inalámbricos...'
 sku: 'B07ZRNKRRJ-es'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

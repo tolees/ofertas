@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008TCUCUY-es Intocable [DVD]'
 sku: 'B008TCUCUY-es'
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

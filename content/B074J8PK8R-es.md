@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074J8PK8R-es CLOCOLOR Halloween Cosplay Peluca de Pelo Natural Largo...'
 sku: 'B074J8PK8R-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9LF9WN-es Yayuu Gear S3 Frontier/Classic Correa de Reloj Reemplazo...'
 sku: 'B07L9LF9WN-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

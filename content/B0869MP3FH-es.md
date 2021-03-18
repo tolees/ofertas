@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0869MP3FH-es Suhctup Funda Compatible con Huawei Y5 2018 Transparente...'
 sku: 'B0869MP3FH-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

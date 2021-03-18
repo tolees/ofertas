@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0OJHFC-es Edgar Allan Poe: La Adaptación al Cine de sus Relatos de...'
 sku: 'B01N0OJHFC-es'
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

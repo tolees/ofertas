@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVXQ4SF-es BelleStyle Alfombra Musical - Musical Canto Teclado Estera...'
 sku: 'B07DVXQ4SF-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

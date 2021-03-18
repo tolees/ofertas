@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083R51WMC-es OtterBox Commuter - Funda de Protección para Samsung...'
 sku: 'B083R51WMC-es'
+tags: [  ]
 actualPrice: 21.61 EUR
 currency: EUR
 price: 21.61

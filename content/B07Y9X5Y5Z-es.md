@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9X5Y5Z-es Irrigador Dental Hieha Irrigador Bucal Portatil con Base...'
 sku: 'B07Y9X5Y5Z-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

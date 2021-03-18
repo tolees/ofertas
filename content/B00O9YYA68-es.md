@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O9YYA68-es SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva...'
 sku: 'B00O9YYA68-es'
+tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

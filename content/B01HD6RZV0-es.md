@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HD6RZV0-es Salomon XA Pro 3D GTX Zapatillas de Trail Running para...'
 sku: 'B01HD6RZV0-es'
+tags: [  ]
 actualPrice: 59.28 EUR
 currency: EUR
 price: 59.28

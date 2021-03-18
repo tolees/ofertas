@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLCF26R-es Nike Revolution 5 Zapatillas de Atletismo para Hombre...'
 sku: 'B07NLCF26R-es'
+tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

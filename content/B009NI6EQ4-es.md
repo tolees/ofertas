@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009NI6EQ4-es Nuby NT67744 - Pack 50 bolsas preesterilizadas'
 sku: 'B009NI6EQ4-es'
+tags: [  ]
 actualPrice: 2.25 EUR
 currency: EUR
 price: 2.25

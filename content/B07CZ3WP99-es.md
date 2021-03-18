@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ3WP99-es Asics Kanmei 2 Zapatillas de Running para Mujer Negro...'
 sku: 'B07CZ3WP99-es'
+tags: [  ]
 actualPrice: 37.68 EUR
 currency: EUR
 price: 37.68

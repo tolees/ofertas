@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H1QZ7B8-es Slumberzzz - Pantuflas/Zapatillas de Estar por casa con...'
 sku: 'B07H1QZ7B8-es'
+tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

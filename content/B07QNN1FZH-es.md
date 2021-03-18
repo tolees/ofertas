@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QNN1FZH-es Alsoar – Repuesto para Samsung A7 2018 funda para teléfono...'
 sku: 'B07QNN1FZH-es'
+tags: [  ]
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

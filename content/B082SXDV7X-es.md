@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SXDV7X-es READ Reloj Digital Deportivos 3D Podómetro Digital...'
 sku: 'B082SXDV7X-es'
+tags: [  ]
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

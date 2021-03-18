@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNW9C3W-es Tommy Hilfiger Short Sleeve Slim Polo de Manga Corta Azul...'
 sku: 'B07VNW9C3W-es'
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

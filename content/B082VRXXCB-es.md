@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VRXXCB-es Transmisor FM Bluetooth 5.0 Coche Manos Libres Reproductor...'
 sku: 'B082VRXXCB-es'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

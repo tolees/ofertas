@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G1YG9XJ-es TACKLIFE Llaves de Vaso Hexagonales Profesional 14 Piezas...'
 sku: 'B07G1YG9XJ-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085C4XMM3-es Ai.Moichien Gran Esperanza Borlas Étnica Bohemia Dangle...'
 sku: 'B085C4XMM3-es'
+tags: [  ]
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

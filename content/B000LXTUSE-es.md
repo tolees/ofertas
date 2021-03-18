@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000LXTUSE-es Versele-laga NUTRIBIRD B14 PERICO 800g 22066'
 sku: 'B000LXTUSE-es'
+tags: [  ]
 actualPrice: 4.39 EUR
 currency: EUR
 price: 4.39

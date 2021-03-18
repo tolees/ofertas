@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0762XPSM1-es Weider Mega Mass 4000 Sabor Chocolate 4000 g . 69% de...'
 sku: 'B0762XPSM1-es'
+tags: [  ]
 actualPrice: 37.96 EUR
 currency: EUR
 price: 37.96

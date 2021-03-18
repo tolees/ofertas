@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K41DK2P-es Funda para Moto Scooter XXL Cubierta de Moto Impermeable...'
 sku: 'B07K41DK2P-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

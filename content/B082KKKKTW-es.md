@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KKKKTW-es FUKTSYSM Cortador de Verdura Mandolina - 8 en 1 Rebanador...'
 sku: 'B082KKKKTW-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

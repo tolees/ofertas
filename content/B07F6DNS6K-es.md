@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F6DNS6K-es JACK & JONES Jjeholmen Sweat Crew Neck Noos Suéter para...'
 sku: 'B07F6DNS6K-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

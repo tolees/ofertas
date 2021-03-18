@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VOLCZC-es Davidoff Cool Water After Shave 75 ml'
 sku: 'B000VOLCZC-es'
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

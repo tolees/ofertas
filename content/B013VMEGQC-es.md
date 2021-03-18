@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013VMEGQC-es Volcom Frickin Modern Stret Pantalones Hombre Azul Dark...'
 sku: 'B013VMEGQC-es'
+tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

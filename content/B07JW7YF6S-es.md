@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW7YF6S-es O³ Guante Dentición Bebé Lola Kids + 1 Gasas Bebe Algodon...'
 sku: 'B07JW7YF6S-es'
+tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

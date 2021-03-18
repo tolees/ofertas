@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRYQXHF-es Calvin Klein Medium Double WB Bañador Negro PVH Black BEH...'
 sku: 'B07VRYQXHF-es'
+tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

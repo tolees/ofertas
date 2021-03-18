@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QTTEG3S-es iRobot Set - Kit de piezas de repuesto para iRobot Roomba 800'
 sku: 'B00QTTEG3S-es'
+tags: [  ]
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

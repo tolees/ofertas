@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQ3XBRP-es Clarks Hamble Loafer Mocasines Negro Black Leather Black...'
 sku: 'B07TQ3XBRP-es'
+tags: [  ]
 actualPrice: 38.72 EUR
 currency: EUR
 price: 38.72

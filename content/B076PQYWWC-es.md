@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076PQYWWC-es Nilfisk - Aspiradora Hepa Basic EU - Serie Nilfisk VP300'
 sku: 'B076PQYWWC-es'
+tags: [  ]
 actualPrice: 119.34 EUR
 currency: EUR
 price: 119.34

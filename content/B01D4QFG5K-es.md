@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D4QFG5K-es Revell Star Wars Boba Fett s Slave I Kit modele Escala...'
 sku: 'B01D4QFG5K-es'
+tags: [  ]
 actualPrice: 8.17 EUR
 currency: EUR
 price: 8.17

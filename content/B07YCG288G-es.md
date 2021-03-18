@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCG288G-es TOPBATHY 2pcs de acero inoxidable fregadero filtros de...'
 sku: 'B07YCG288G-es'
+tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

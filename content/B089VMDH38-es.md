@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089VMDH38-es Jojoin 2 pcs Walkie Talkie Niños con 8/20/22 Canales de...'
 sku: 'B089VMDH38-es'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

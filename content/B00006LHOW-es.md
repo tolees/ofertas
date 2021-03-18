@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00006LHOW-es HP 38A - Cartucho de tóner original LaserJet para Laserjet...'
 sku: 'B00006LHOW-es'
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

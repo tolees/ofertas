@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KJRKQWD-es Olivia Burton Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07KJRKQWD-es'
+tags: [  ]
 actualPrice: 69.6 EUR
 currency: EUR
 price: 69.6

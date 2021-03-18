@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KDBF9B6-es whiskas Dentabites de 40g para higiene oral de uso diario...'
 sku: 'B00KDBF9B6-es'
+tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

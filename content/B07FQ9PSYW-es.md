@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQ9PSYW-es Aigoss Receptor Bluetooth USB Adaptador de Audio Bluetooth...'
 sku: 'B07FQ9PSYW-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

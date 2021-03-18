@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BR67DVS-es Maisto- Jeep Grand Cherokee Laredo Color Dorado 31205GD'
 sku: 'B07BR67DVS-es'
+tags: [  ]
 actualPrice: 5.38 EUR
 currency: EUR
 price: 5.38

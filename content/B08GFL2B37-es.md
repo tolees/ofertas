@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GFL2B37-es Auriculares inalámbricos Bluetooth Auriculares...'
 sku: 'B08GFL2B37-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F5QF87L-es Baoblaze Thickkened Gel Shoe Volver Insertos Del Talón...'
 sku: 'B07F5QF87L-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

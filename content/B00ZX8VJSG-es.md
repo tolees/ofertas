@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZX8VJSG-es Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B00ZX8VJSG-es'
+tags: [  ]
 actualPrice: 85.38 EUR
 currency: EUR
 price: 85.38

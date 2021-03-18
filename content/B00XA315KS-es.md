@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA315KS-es Respiral Caramelos Sabor Mentol - 1000 gr'
 sku: 'B00XA315KS-es'
+tags: [  ]
 actualPrice: 5.46 EUR
 currency: EUR
 price: 5.46

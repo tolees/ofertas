@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078TK2Z6X-es Pepe Jeans Vincent Polo Negro Black 999 X-Large para Hombre'
 sku: 'B078TK2Z6X-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

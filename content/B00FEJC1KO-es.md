@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FEJC1KO-es Kit de Reparación Bestway Parche Extra Fuerte'
 sku: 'B00FEJC1KO-es'
+tags: [  ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

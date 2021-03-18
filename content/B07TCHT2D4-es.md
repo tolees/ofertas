@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TCHT2D4-es Buff Crystal Cinta UV Unisex Adulto Multi Talla única'
 sku: 'B07TCHT2D4-es'
+tags: [  ]
 actualPrice: 5.48 EUR
 currency: EUR
 price: 5.48

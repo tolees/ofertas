@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G7RF7H7-es NBHANYUAN Lighting® Luz de Pared LED al Aire Libre...'
 sku: 'B07G7RF7H7-es'
+tags: [  ]
 actualPrice: 49.73 EUR
 currency: EUR
 price: 49.73

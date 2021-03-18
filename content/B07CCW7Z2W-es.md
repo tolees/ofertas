@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCW7Z2W-es Marca Amazon - Presto! Suavizante concentrado azul 360...'
 sku: 'B07CCW7Z2W-es'
+tags: [  ]
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

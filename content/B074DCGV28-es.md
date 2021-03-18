@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DCGV28-es Depple - Set de costura con 234 piezas de accesorios de...'
 sku: 'B074DCGV28-es'
+tags: [  ]
 actualPrice: 15.1 EUR
 currency: EUR
 price: 15.1

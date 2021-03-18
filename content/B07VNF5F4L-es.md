@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNF5F4L-es Robot aspirador con función WLAN Dcenta diseño...'
 sku: 'B07VNF5F4L-es'
+tags: [  ]
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

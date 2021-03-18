@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005LR7EP6-es Arcos 610000 - Afilador profesional estuche'
 sku: 'B005LR7EP6-es'
+tags: [  ]
 actualPrice: 58.49 EUR
 currency: EUR
 price: 58.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPWHR8T-es HUGO Henfords Pantalones Negro Charcoal 010 94 para Hombre'
 sku: 'B07PPWHR8T-es'
+tags: [  ]
 actualPrice: 65.52 EUR
 currency: EUR
 price: 65.52

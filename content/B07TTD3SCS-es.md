@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTD3SCS-es Funko- Pop Ride Racer-Speed w/Mach 5 Collectible Toy...'
 sku: 'B07TTD3SCS-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

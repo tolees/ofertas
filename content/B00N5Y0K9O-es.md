@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N5Y0K9O-es Compactor Bolsa para la Colada Marinero Polipropileno...'
 sku: 'B00N5Y0K9O-es'
+tags: [  ]
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

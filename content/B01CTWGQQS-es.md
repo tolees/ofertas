@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CTWGQQS-es Tefal Ingenio Expertise - Set de Sartenes de Aluminio de...'
 sku: 'B01CTWGQQS-es'
+tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

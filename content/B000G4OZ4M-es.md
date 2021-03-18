@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000G4OZ4M-es adidas Originals Mundial Team Botas de fútbol Unisex...'
 sku: 'B000G4OZ4M-es'
+tags: [  ]
 actualPrice: 70.35 EUR
 currency: EUR
 price: 70.35

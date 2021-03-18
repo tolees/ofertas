@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BN0TTI-es HP Q7582A - Cartucho de tóner'
 sku: 'B000BN0TTI-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

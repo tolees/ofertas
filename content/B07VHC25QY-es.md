@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHC25QY-es JACK & JONES Jcostanford Crew Neck Noos suéter Marrón...'
 sku: 'B07VHC25QY-es'
+tags: [  ]
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

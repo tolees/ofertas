@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HY0HUFQ-es Burrito Blanco Juego de Sábanas Blanco de Hostelería para...'
 sku: 'B01HY0HUFQ-es'
+tags: [  ]
 actualPrice: 18.18 EUR
 currency: EUR
 price: 18.18

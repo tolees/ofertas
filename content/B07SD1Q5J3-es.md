@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SD1Q5J3-es PUMA ST Activate JR Zapatillas Unisex niños Rosa Bright...'
 sku: 'B07SD1Q5J3-es'
+tags: [  ]
 actualPrice: 23.84 EUR
 currency: EUR
 price: 23.84

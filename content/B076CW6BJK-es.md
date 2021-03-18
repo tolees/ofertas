@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CW6BJK-es Hoover Telios Extra TX60PET - Aspirador trineo con bolsa...'
 sku: 'B076CW6BJK-es'
+tags: [  ]
 actualPrice: 109 EUR
 currency: EUR
 price: 109

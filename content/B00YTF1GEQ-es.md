@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YTF1GEQ-es We R Memory Keepers 1-2-3 Punch Board Blanco 1 Pack'
 sku: 'B00YTF1GEQ-es'
+tags: [  ]
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

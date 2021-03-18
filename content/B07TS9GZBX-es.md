@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TS9GZBX-es Gant Cocoville Zapatillas para Mujer Blanco...'
 sku: 'B07TS9GZBX-es'
+tags: [  ]
 actualPrice: 53.55 EUR
 currency: EUR
 price: 53.55

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYXCFGN-es FORMIZON 40 Pcs Bolsas Regalo Papel 10 Colores Patrón...'
 sku: 'B07TYXCFGN-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

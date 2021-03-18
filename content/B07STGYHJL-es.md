@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STGYHJL-es Mr. Wonderful Bullet Calendario Talla Única Multicolor'
 sku: 'B07STGYHJL-es'
+tags: [  ]
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

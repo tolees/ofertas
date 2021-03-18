@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BB77KYP-es Vileda Colors Ondattiva milleusi 3 + 1 Esponja Multicolor...'
 sku: 'B07BB77KYP-es'
+tags: [  ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

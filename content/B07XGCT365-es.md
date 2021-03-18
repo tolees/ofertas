@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGCT365-es DCL Drone Championship League'
 sku: 'B07XGCT365-es'
+tags: [  ]
 actualPrice: 17.18 EUR
 currency: EUR
 price: 17.18

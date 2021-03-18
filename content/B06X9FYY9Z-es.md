@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9FYY9Z-es COREGA Acción total tabletas limpiadoras prótesis dentales...'
 sku: 'B06X9FYY9Z-es'
+tags: [  ]
 actualPrice: 6.65 EUR
 currency: EUR
 price: 6.65

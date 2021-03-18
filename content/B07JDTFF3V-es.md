@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JDTFF3V-es ORNARTO Funda Huawei Mate 20 Pro Carcasa [Ultra-Delgado]...'
 sku: 'B07JDTFF3V-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

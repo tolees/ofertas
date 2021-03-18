@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QPT7YH-es McAfee Total Protection 2020 - Antivirus | 5 Dispositivos...'
 sku: 'B079QPT7YH-es'
+tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

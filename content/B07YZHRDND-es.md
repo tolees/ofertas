@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YZHRDND-es Molinillo sal y pimienta Molinillos de especias Premium...'
 sku: 'B07YZHRDND-es'
+tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

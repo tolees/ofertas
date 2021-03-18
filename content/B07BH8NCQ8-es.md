@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BH8NCQ8-es Maizena Shaker Tortitas - 215 gr'
 sku: 'B07BH8NCQ8-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

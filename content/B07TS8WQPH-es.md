@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TS8WQPH-es Superga 2750 COTU Classic Zapatillas Unisex Blanco...'
 sku: 'B07TS8WQPH-es'
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

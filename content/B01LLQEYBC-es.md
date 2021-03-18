@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LLQEYBC-es Quid 7691001 - Tabla para cortar 31 x 21 x 1 cm color blanco'
 sku: 'B01LLQEYBC-es'
+tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

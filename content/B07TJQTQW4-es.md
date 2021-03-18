@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJQTQW4-es lalafancy Botella de Agua Acero Inoxidable 500ml/750ml...'
 sku: 'B07TJQTQW4-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

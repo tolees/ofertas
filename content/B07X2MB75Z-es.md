@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2MB75Z-es LTGEM Funda para WD My Passport Go 500 GB 1 TB Disco Duro...'
 sku: 'B07X2MB75Z-es'
+tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

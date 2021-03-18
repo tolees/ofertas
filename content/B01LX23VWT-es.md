@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX23VWT-es Nivea Crema de Manos Aceite de Oliva - 100 ml'
 sku: 'B01LX23VWT-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004H5ME7Q-es Clinique 35520 - Barra de labios'
 sku: 'B004H5ME7Q-es'
+tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077RYYYQY-es UGEARS Coche Grand Prix U-9 - Kit de Montaje Coche de...'
 sku: 'B077RYYYQY-es'
+tags: [  ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

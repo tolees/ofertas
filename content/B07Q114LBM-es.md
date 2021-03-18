@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q114LBM-es ACDE Flores Artificial Rosa Artificial 25PCS Rosa Falsa...'
 sku: 'B07Q114LBM-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

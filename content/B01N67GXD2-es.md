@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N67GXD2-es Salomon Speedcross Vario 2 Zapatillas de Trail Running...'
 sku: 'B01N67GXD2-es'
+tags: [  ]
 actualPrice: 73.59 EUR
 currency: EUR
 price: 73.59

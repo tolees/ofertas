@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C62LQTC-es JACK & JONES Jjeholmen Sweat Pants Noos Pantalones Gris...'
 sku: 'B07C62LQTC-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

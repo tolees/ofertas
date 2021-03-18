@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSQ5DPV-es Lepfun Laxuri Calcetines de Compresión Medias de...'
 sku: 'B07HSQ5DPV-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

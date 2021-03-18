@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J4WTBFF-es Triumph Sexy Angel Spotlight W02 Sujetador con Aros Marfil...'
 sku: 'B07J4WTBFF-es'
+tags: [  ]
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

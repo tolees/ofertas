@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004OYUNMI-es Casio G-SHOCK Reloj Analógico-Digital 20 BAR Azul/Negro...'
 sku: 'B004OYUNMI-es'
+tags: [  ]
 actualPrice: 76.8 EUR
 currency: EUR
 price: 76.8

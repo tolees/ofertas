@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQZQ6Z2-es Skechers Boys Bounder Trainers Blue Blue & Black...'
 sku: 'B07NQZQ6Z2-es'
+tags: [  ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

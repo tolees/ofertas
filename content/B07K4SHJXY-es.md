@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K4SHJXY-es adidas Falcon W Sneaker Womens Core Black/Core Black/Grey...'
 sku: 'B07K4SHJXY-es'
+tags: [  ]
 actualPrice: 53.36 EUR
 currency: EUR
 price: 53.36

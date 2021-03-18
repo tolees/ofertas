@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V3HKULS-es AmazonBasics - Protector de colchón de moletón impermeable...'
 sku: 'B00V3HKULS-es'
+tags: [  ]
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

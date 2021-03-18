@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XP3SBNN-es YGJT Termos para Comida Conjunto de 2 Piezas 500ML + 700ML...'
 sku: 'B07XP3SBNN-es'
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

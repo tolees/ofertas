@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001F5DJ2K-es Harry Potter Scarf - Bufanda accesorio de disfraz Surtido:...'
 sku: 'B001F5DJ2K-es'
+tags: [  ]
 actualPrice: 3.61 EUR
 currency: EUR
 price: 3.61

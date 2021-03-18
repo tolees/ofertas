@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HSMN9M-es Rocket League - Edición Coleccionista'
 sku: 'B078HSMN9M-es'
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SXY8ZC-es Faux Gemstones Naturales Colgante de Reiki Puntiagudo...'
 sku: 'B089SXY8ZC-es'
+tags: [  ]
 actualPrice: 1.04 EUR
 currency: EUR
 price: 1.04

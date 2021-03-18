@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ZIVZG2-es Patron Añejo Tequila - 700 ml'
 sku: 'B003ZIVZG2-es'
+tags: [  ]
 actualPrice: 48.15 EUR
 currency: EUR
 price: 48.15

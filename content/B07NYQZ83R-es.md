@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYQZ83R-es San Ignacio Professional Chef Copper Cocina Set 3 sartenes...'
 sku: 'B07NYQZ83R-es'
+tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

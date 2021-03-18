@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFZ6D32-es Tommy Hilfiger Plunge Sujetador con Push-up Rosa Silver...'
 sku: 'B07DFZ6D32-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

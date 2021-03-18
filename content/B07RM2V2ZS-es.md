@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RM2V2ZS-es Calvin Klein Unlined Triangle Sujetador de triángulo Negro...'
 sku: 'B07RM2V2ZS-es'
+tags: [  ]
 actualPrice: 20.44 EUR
 currency: EUR
 price: 20.44

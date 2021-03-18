@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPSFH86-es Funko X-Men Pop Dark Phoenix Multicolor Talla única 37063'
 sku: 'B07KPSFH86-es'
+tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

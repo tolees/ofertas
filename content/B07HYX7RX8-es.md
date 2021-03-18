@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HYX7RX8-es Case Logic Reflect MacBook Sleeve 13 Funda para MacBook...'
 sku: 'B07HYX7RX8-es'
+tags: [  ]
 actualPrice: 16.53 EUR
 currency: EUR
 price: 16.53

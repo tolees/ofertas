@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072LV4F3P-es BRTLX Bombillas de Vela LED E14 7W Equivalente a 40W...'
 sku: 'B072LV4F3P-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

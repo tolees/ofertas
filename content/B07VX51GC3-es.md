@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VX51GC3-es Hook Scratch Art Manualidades para Niños Niña Dibujar...'
 sku: 'B07VX51GC3-es'
+tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

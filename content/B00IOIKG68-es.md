@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IOIKG68-es Cooler CPU Pure Wing 2 92mm BL045'
 sku: 'B00IOIKG68-es'
+tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JD35WHC-es HUAWEI 55030369 Viaje Cable de Carga Charger Super Charge...'
 sku: 'B07JD35WHC-es'
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004S8MDOQ-es Lote de 4 vasitos para bebé Nuby 300 ml a partir de 12 meses'
 sku: 'B004S8MDOQ-es'
+tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

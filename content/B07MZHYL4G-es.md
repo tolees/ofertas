@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZHYL4G-es Superdry Classic Superstate Pique Polo Rosa Pink Fluro...'
 sku: 'B07MZHYL4G-es'
+tags: [  ]
 actualPrice: 33.45 EUR
 currency: EUR
 price: 33.45

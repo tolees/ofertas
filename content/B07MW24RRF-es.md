@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MW24RRF-es EZDIY-FAB M.2 Estuche USB 3.1 Gen2 para SATA M.2 SSD Key...'
 sku: 'B07MW24RRF-es'
+tags: [  ]
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

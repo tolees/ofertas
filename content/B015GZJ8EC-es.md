@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015GZJ8EC-es HoMedics BMSC-4600H-EU - Respaldo masajeador Shiatsu...'
 sku: 'B015GZJ8EC-es'
+tags: [  ]
 actualPrice: 132.09 EUR
 currency: EUR
 price: 132.09

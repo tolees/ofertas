@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017WHFR56-es Columbia Zero Rules Polo con Protección Solar 30 Hombre...'
 sku: 'B017WHFR56-es'
+tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

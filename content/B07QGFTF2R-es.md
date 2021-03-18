@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGFTF2R-es Vermouth Myrrha Reserva 100 cl - 1000 ml'
 sku: 'B07QGFTF2R-es'
+tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

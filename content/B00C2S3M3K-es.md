@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C2S3M3K-es Top Model 7938-F - Juego de plumas de gel'
 sku: 'B00C2S3M3K-es'
+tags: [  ]
 actualPrice: 2.96 EUR
 currency: EUR
 price: 2.96

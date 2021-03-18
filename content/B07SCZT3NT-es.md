@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCZT3NT-es PUMA Cali Wn s Zapatillas para Mujer Negro Black White 18...'
 sku: 'B07SCZT3NT-es'
+tags: [  ]
 actualPrice: 42.45 EUR
 currency: EUR
 price: 42.45

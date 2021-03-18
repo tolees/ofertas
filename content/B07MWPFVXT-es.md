@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MWPFVXT-es Clarks Emery Sky T Zapatillas para Niños Azul Navy Leather...'
 sku: 'B07MWPFVXT-es'
+tags: [  ]
 actualPrice: 31.8 EUR
 currency: EUR
 price: 31.8

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRS1VQ6-es Altavoz de música inalámbrico portátil Estilo Seta Lindo...'
 sku: 'B08CRS1VQ6-es'
+tags: [  ]
 actualPrice: 3.97 EUR
 currency: EUR
 price: 3.97

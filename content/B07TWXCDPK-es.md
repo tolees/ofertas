@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWXCDPK-es Women s Secret Cozy Animals Ca Poodle PJ FR Conjuntos de...'
 sku: 'B07TWXCDPK-es'
+tags: [  ]
 actualPrice: 18.1 EUR
 currency: EUR
 price: 18.1

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFBF5ST-es Funko Vynl Star Wars Darth Vader+Stormtrooper'
 sku: 'B07DFBF5ST-es'
+tags: [  ]
 actualPrice: 10.08 EUR
 currency: EUR
 price: 10.08

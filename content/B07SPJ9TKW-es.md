@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPJ9TKW-es [Nueva versión de 136 LED] Luces solares para exteriores...'
 sku: 'B07SPJ9TKW-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CF4VZP8-es Nike W React Element 55 Zapatillas de Running para Mujer...'
 sku: 'B00CF4VZP8-es'
+tags: [  ]
 actualPrice: 65.47 EUR
 currency: EUR
 price: 65.47

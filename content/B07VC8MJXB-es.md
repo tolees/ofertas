@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC8MJXB-es 32GB Grabadora de Voz Digital ADOKEY Grabadora Audio con...'
 sku: 'B07VC8MJXB-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L869ZXJ-es URCERI Mini Amoladora eléctrica batería con 60pcs...'
 sku: 'B07L869ZXJ-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

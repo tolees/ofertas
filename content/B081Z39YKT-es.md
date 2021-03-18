@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081Z39YKT-es SALAKA 1 unid Botella de Silicona para bebés biberón...'
 sku: 'B081Z39YKT-es'
+tags: [  ]
 actualPrice: 2.57 EUR
 currency: EUR
 price: 2.57

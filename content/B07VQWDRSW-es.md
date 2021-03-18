@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQWDRSW-es Calvin Klein Brazilian Braguita brasileña Azul Surf The...'
 sku: 'B07VQWDRSW-es'
+tags: [  ]
 actualPrice: 24.6 EUR
 currency: EUR
 price: 24.6

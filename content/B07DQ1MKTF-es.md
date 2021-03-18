@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQ1MKTF-es LG SPK8 140W Negro Altavoz - Altavoces 2.0 Canales...'
 sku: 'B07DQ1MKTF-es'
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

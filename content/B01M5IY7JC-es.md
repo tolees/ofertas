@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5IY7JC-es G-STAR RAW Ladd Belt Cinturón Marrón Dk Cognac/Antic...'
 sku: 'B01M5IY7JC-es'
+tags: [  ]
 actualPrice: 20.73 EUR
 currency: EUR
 price: 20.73

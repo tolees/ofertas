@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L4VVZF1-es Frcolor 3D Slices Nails Art Stickers Rueda de arcilla...'
 sku: 'B07L4VVZF1-es'
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

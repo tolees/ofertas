@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MHKW5ZN-es CKSOHOT Masajeador Manual con 10 modos de Frecuencia...'
 sku: 'B07MHKW5ZN-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

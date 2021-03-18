@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771GLCZL-es Eastpak Tranverz S Maleta 51 cm 42 L Gris Black Denim'
 sku: 'B0771GLCZL-es'
+tags: [  ]
 actualPrice: 70.2 EUR
 currency: EUR
 price: 70.2

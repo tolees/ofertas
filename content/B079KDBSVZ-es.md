@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KDBSVZ-es 12W LED Apliques de Pared Interior/exterior Lamparas de...'
 sku: 'B079KDBSVZ-es'
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BR6DH3X-es Levi s Oversized Batwing Beanie Gorro de Punto Azul Navy...'
 sku: 'B07BR6DH3X-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

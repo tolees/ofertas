@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083KG3R3H-es Pestañas Magnéticas Delineador Magnético a Prueba de Agua...'
 sku: 'B083KG3R3H-es'
+tags: [  ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

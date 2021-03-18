@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXVMXKT-es Skechers GO Walk 5 Flint Zapatillas sin Cordones para...'
 sku: 'B07NXVMXKT-es'
+tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

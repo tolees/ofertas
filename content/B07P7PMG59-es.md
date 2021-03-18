@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7PMG59-es Labanema Moto G7 Power Funda [Heavy Duty] [Doble Capa]...'
 sku: 'B07P7PMG59-es'
+tags: [  ]
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

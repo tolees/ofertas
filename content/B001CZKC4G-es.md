@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CZKC4G-es Liqui Moly 4087 Detergente para Acondicionadores de Aire...'
 sku: 'B001CZKC4G-es'
+tags: [  ]
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

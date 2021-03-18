@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F451CQX-es Mr; Wonderful Woa09072Em Carpeta Archivadora Rockstar In...'
 sku: 'B07F451CQX-es'
+tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

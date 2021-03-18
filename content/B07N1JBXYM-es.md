@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JBXYM-es Clarks Sheer Flora Botas Chelsea para Mujer Azul Navy Navy...'
 sku: 'B07N1JBXYM-es'
+tags: [  ]
 actualPrice: 22.92 EUR
 currency: EUR
 price: 22.92

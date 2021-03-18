@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYTKDBF-es Skechers Elite Flex Zapatillas para Hombre Gris Charcoal...'
 sku: 'B07NYTKDBF-es'
+tags: [  ]
 actualPrice: 47.75 EUR
 currency: EUR
 price: 47.75

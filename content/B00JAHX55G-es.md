@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JAHX55G-es Assassin s Creed: Unity'
 sku: 'B00JAHX55G-es'
+tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

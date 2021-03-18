@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QB97R1C-es PUMA Shift Mesh Tight Mallas Deporte Mujer Black-Blue...'
 sku: 'B07QB97R1C-es'
+tags: [  ]
 actualPrice: 23.71 EUR
 currency: EUR
 price: 23.71

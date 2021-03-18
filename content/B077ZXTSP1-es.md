@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZXTSP1-es Under Armour Coldgear Leggings Hombre Negro Black/Charcoal...'
 sku: 'B077ZXTSP1-es'
+tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

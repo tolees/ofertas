@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004X4WCDC-es Great Gizmos Green Creativity - Juego de creación de...'
 sku: 'B004X4WCDC-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

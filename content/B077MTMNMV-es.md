@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MTMNMV-es Puma Basket Satin EP Wn s Zapatillas para Mujer Negro...'
 sku: 'B077MTMNMV-es'
+tags: [  ]
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

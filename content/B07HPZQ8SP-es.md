@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HPZQ8SP-es Funko- Pocket Pop Keychain: Fortnite: Cuddle Team Leader...'
 sku: 'B07HPZQ8SP-es'
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

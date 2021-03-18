@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVVQH8D-es Controlador de Gamepad，DOYO Gamepad USB con Cable para PC...'
 sku: 'B07VVVQH8D-es'
+tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

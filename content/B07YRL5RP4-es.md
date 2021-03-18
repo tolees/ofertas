@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YRL5RP4-es Cincobebé Manta Swaddle/Toalla de Baño Acogedora y Suave 6...'
 sku: 'B07YRL5RP4-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

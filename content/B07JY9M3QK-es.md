@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JY9M3QK-es Tommy Hilfiger Jute Detail Flatform Sneaker Zapatillas...'
 sku: 'B07JY9M3QK-es'
+tags: [  ]
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

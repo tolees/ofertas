@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QNGDZB-es Grohe Grohtherm SmartControl Perfect - Juego de ducha con...'
 sku: 'B075QNGDZB-es'
+tags: [  ]
 actualPrice: 870.78 EUR
 currency: EUR
 price: 870.78

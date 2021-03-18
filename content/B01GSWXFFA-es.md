@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GSWXFFA-es Under Armour UA M Locker III SL Negro 44 EU'
 sku: 'B01GSWXFFA-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

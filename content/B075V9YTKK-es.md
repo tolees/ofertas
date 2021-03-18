@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075V9YTKK-es Rugby 18 - Versión Española'
 sku: 'B075V9YTKK-es'
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

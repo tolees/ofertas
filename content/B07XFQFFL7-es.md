@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFQFFL7-es Mr. Tronic 30m Cable de Red Ethernet Latiguillo | CAT6...'
 sku: 'B07XFQFFL7-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

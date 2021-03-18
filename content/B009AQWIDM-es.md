@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009AQWIDM-es Essie Esmalte de Uñas Tono: 015 Sugar Daddy'
 sku: 'B009AQWIDM-es'
+tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

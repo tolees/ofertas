@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMW6P3K-es Clarks Un Rio Step Zapatillas sin Cordones para Mujer Azul...'
 sku: 'B07TMW6P3K-es'
+tags: [  ]
 actualPrice: 46.06 EUR
 currency: EUR
 price: 46.06

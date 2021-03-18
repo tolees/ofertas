@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZKHYKD-es QHOHQ Protector de Pantalla para Xiaomi Mi A3 [3 Unidades]...'
 sku: 'B07TZKHYKD-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

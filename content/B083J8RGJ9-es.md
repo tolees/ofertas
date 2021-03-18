@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083J8RGJ9-es Oacvien Adaptador Bluetooth 5.0 Transmisor Receptor 2 en 1...'
 sku: 'B083J8RGJ9-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F64D6XD-es TELMU Microscopio de bolsillo para niños y principiantes...'
 sku: 'B07F64D6XD-es'
+tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

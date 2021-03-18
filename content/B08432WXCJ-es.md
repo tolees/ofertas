@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08432WXCJ-es Baby Dove - Loción para bebés Noche Tranquilas 400ml'
 sku: 'B08432WXCJ-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

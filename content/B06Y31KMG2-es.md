@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y31KMG2-es New Balance 574 Core Zapatillas Hombre Negro Black EGK...'
 sku: 'B06Y31KMG2-es'
+tags: [  ]
 actualPrice: 54.32 EUR
 currency: EUR
 price: 54.32

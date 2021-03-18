@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IEX2FJ8-es Calcetines de Compresión 1 par Rosa EU 35-38'
 sku: 'B01IEX2FJ8-es'
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

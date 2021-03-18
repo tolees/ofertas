@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7J6P1S-es Festina Hombre F20279/A'
 sku: 'B07S7J6P1S-es'
+tags: [  ]
 actualPrice: 69.15 EUR
 currency: EUR
 price: 69.15

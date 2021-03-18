@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I8N2FP4-es Wera 05059030001 Juego de Herramientas con 17 Piezas'
 sku: 'B00I8N2FP4-es'
+tags: [  ]
 actualPrice: 46.9 EUR
 currency: EUR
 price: 46.9

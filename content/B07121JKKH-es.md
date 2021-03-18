@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07121JKKH-es XTI 46172 TENIS PLATAFORMA XTI MUJER NEGRO 40'
 sku: 'B07121JKKH-es'
+tags: [  ]
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

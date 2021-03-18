@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5Z7TJT-es Kit de monopie para Video Profesional Cayer AF34DVH4...'
 sku: 'B07L5Z7TJT-es'
+tags: [  ]
 actualPrice: 126.99 EUR
 currency: EUR
 price: 126.99

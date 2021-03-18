@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017XNXKAS-es Bvlgari Omnia Paraiba Edt Vapo 40 Ml 1 Unidad 0.04 g'
 sku: 'B017XNXKAS-es'
+tags: [  ]
 actualPrice: 30.8 EUR
 currency: EUR
 price: 30.8

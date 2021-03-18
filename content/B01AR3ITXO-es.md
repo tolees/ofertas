@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AR3ITXO-es SmugPets 315 Bolsas biodegradables para excrementos con...'
 sku: 'B01AR3ITXO-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

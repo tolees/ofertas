@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079THQRND-es Funko Pop!- 30980 Blue New Pose Figura de Vinilo Multicolor'
 sku: 'B079THQRND-es'
+tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

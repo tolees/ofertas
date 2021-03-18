@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OHFCA8Y-es Kappa Corato Punto deportivo Hombre Azul Royal L'
 sku: 'B00OHFCA8Y-es'
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

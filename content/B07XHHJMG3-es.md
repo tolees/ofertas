@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XHHJMG3-es SKEY Compresor de Aire Coche Portatil Bomba Inflador 12V...'
 sku: 'B07XHHJMG3-es'
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

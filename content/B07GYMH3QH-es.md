@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYMH3QH-es Aussie Tratamiento Intensivo 3 Minute Miracle Hydration -...'
 sku: 'B07GYMH3QH-es'
+tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

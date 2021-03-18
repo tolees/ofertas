@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014TBJA10-es Reloj Casio - Hombre GD-X6900MC-7ER'
 sku: 'B014TBJA10-es'
+tags: [  ]
 actualPrice: 96.8 EUR
 currency: EUR
 price: 96.8

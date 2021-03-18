@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLLDPLR-es Cybex - Silla de coche grupo 0+/1 Sirona M2 i-size desde...'
 sku: 'B07GLLDPLR-es'
+tags: [  ]
 actualPrice: 270.48 EUR
 currency: EUR
 price: 270.48

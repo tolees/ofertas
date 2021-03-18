@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5DHZDT-es Tommy Hilfiger Bralette Corsé Blanco White 100 Talla del...'
 sku: 'B06W5DHZDT-es'
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

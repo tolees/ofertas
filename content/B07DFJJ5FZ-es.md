@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFJJ5FZ-es SUMMONERS War - Pop Paladin Light Jeanne'
 sku: 'B07DFJJ5FZ-es'
+tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

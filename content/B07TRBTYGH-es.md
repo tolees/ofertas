@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TRBTYGH-es Max Factor Facefinity 3 en 1 All Day Flawless Base de...'
 sku: 'B07TRBTYGH-es'
+tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

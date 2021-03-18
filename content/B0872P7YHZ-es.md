@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872P7YHZ-es Funda Transparente Compatible para Xiaomi Mi Mix 3 Carcasa...'
 sku: 'B0872P7YHZ-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

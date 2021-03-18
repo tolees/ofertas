@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZJ54TZ-es Kickers Lohan Zapatillas Altas Unisex Niños Rojo Noir...'
 sku: 'B07MZJ54TZ-es'
+tags: [  ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

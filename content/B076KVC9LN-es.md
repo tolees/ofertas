@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076KVC9LN-es VAUDE Silk Road L I de Rack Cilindro de Bolsillos Black...'
 sku: 'B076KVC9LN-es'
+tags: [  ]
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

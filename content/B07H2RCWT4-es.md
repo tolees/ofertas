@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2RCWT4-es ESR Auriculares inalámbricos con Controladores duales...'
 sku: 'B07H2RCWT4-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G39L1CK-es L Oréal Magic Retouch Precision Rubio'
 sku: 'B07G39L1CK-es'
+tags: [  ]
 actualPrice: 3.67 EUR
 currency: EUR
 price: 3.67

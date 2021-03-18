@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829M6VZL-es Moliies USB 2.0 A Hembra A RS232 DB9 Hembra Convertidor de...'
 sku: 'B0829M6VZL-es'
+tags: [  ]
 actualPrice: 2.15 EUR
 currency: EUR
 price: 2.15

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTNKZL4-es Vaultskin Eton Armour - Funda de cuero para iPhone 7 negro'
 sku: 'B01MTNKZL4-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

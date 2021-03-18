@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KG5OB4U-es Love2Wait Sophia Pantalones Negro Schwarz-Schwarz W28 para...'
 sku: 'B00KG5OB4U-es'
+tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

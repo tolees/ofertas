@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ELUFKTU-es Corsair M65 Pro RGB - Ratón óptico para Juegos...'
 sku: 'B01ELUFKTU-es'
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DNBHGKU-es SELECT Trainigsjacke Ultimate Trainingsjacke - Soft Shell...'
 sku: 'B00DNBHGKU-es'
+tags: [  ]
 actualPrice: 13.09 EUR
 currency: EUR
 price: 13.09

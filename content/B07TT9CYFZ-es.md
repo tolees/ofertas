@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TT9CYFZ-es Succionador de Clítoris Vibradores para Mujer Clítoris y...'
 sku: 'B07TT9CYFZ-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

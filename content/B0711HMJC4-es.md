@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711HMJC4-es Reloj Viceroy - Hombre 42295-47'
 sku: 'B0711HMJC4-es'
+tags: [  ]
 actualPrice: 74.5 EUR
 currency: EUR
 price: 74.5

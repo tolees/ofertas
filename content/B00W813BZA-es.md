@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W813BZA-es Sogo ASP-SS-16006 - Aspirador de Mano con 11 Accesorios...'
 sku: 'B00W813BZA-es'
+tags: [  ]
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

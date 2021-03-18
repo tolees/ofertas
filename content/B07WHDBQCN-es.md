@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHDBQCN-es CIVO Relojes Mujer Oro Rosa Reloj de Pulsera Mujer...'
 sku: 'B07WHDBQCN-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

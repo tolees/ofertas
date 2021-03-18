@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003TGAXWW-es Intex - Juego de 6 Cartuchos de Filtro Tipo de filtración: A'
 sku: 'B003TGAXWW-es'
+tags: [  ]
 actualPrice: 17.04 EUR
 currency: EUR
 price: 17.04

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074V4CS4Z-es Lebze Muselina Manta Bebé -"Diente de Ballena" Bambú...'
 sku: 'B074V4CS4Z-es'
+tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

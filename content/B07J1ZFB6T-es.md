@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J1ZFB6T-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07J1ZFB6T-es'
+tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

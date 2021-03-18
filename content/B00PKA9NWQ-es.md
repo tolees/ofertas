@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PKA9NWQ-es Proraso - Aceite De Barba Madera Y Especias Alisar y...'
 sku: 'B00PKA9NWQ-es'
+tags: [  ]
 actualPrice: 2.48 EUR
 currency: EUR
 price: 2.48

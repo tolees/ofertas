@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQ7CBFD-es Oral-B Genius 10000N - Cepillo Eléctrico Recargable con...'
 sku: 'B07RQ7CBFD-es'
+tags: [  ]
 actualPrice: 109.24 EUR
 currency: EUR
 price: 109.24

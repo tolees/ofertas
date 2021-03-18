@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NBU6QSQ-es Hidrolimpiadora Nilfisk C 120 Bares Incluye Limpiador para...'
 sku: 'B01NBU6QSQ-es'
+tags: [  ]
 actualPrice: 90.53 EUR
 currency: EUR
 price: 90.53

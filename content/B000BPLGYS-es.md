@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000BPLGYS-es HP Q5953A - Cartucho de tóner'
 sku: 'B000BPLGYS-es'
+tags: [  ]
 actualPrice: 26.73 EUR
 currency: EUR
 price: 26.73

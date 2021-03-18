@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LPLKLDY-es Bella Aurora L+ Crema Facial Mujer Anti-Manchas para...'
 sku: 'B00LPLKLDY-es'
+tags: [  ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RXRMGL-es Dunlop Fusion Elite Amarilla 2019'
 sku: 'B085RXRMGL-es'
+tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

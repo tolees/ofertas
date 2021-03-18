@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M9JX09A-es Funko Figurine Marvel - Gardiens De La Galaxie 2 -...'
 sku: 'B01M9JX09A-es'
+tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

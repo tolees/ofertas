@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NKRNDY-es Polaroid Originals 4756 - Bolsa para cámara Color Negro'
 sku: 'B077NKRNDY-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

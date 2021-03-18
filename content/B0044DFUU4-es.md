@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0044DFUU4-es Weleda - Crema facial de día de Granada 30 ml 1 unidad'
 sku: 'B0044DFUU4-es'
+tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

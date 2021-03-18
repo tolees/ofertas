@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB8P1LJ-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B07GB8P1LJ-es'
+tags: [  ]
 actualPrice: 20 EUR
 currency: EUR
 price: 20

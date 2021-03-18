@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AQDP8TE-es L Oréal Paris Pintalabios 24H Permanente Color Nude 111...'
 sku: 'B00AQDP8TE-es'
+tags: [  ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

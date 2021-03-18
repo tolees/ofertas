@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071Y3MSRK-es Rocketbook Everlast Smart - Cuaderno reutilizable Negro...'
 sku: 'B071Y3MSRK-es'
+tags: [  ]
 actualPrice: 25.44 EUR
 currency: EUR
 price: 25.44

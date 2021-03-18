@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLDZ1R3-es Anillo de Luz LED 8" Fotográfica de Escritorio con Soporte...'
 sku: 'B08BLDZ1R3-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

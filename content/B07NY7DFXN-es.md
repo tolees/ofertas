@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY7DFXN-es Superdry Urban Athletic Classic Zip Hood Capucha Negro...'
 sku: 'B07NY7DFXN-es'
+tags: [  ]
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TJ4GPQ-es Kärcher Set completo 1/2" de 20metros con pistola de riego...'
 sku: 'B001TJ4GPQ-es'
+tags: [  ]
 actualPrice: 27.18 EUR
 currency: EUR
 price: 27.18

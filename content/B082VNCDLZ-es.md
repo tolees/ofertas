@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VNCDLZ-es Rexona Maximum Protection Crema Antitranspirante Stress...'
 sku: 'B082VNCDLZ-es'
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

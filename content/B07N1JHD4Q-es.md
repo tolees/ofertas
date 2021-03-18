@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JHD4Q-es Clarks Orinoco Snug Botas Estilo Motero para Mujer Marrón...'
 sku: 'B07N1JHD4Q-es'
+tags: [  ]
 actualPrice: 51.27 EUR
 currency: EUR
 price: 51.27

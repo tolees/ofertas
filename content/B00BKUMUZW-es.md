@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BKUMUZW-es Astor Big & Beautiful Eye Opener Máscara de Pestañas'
 sku: 'B00BKUMUZW-es'
+tags: [  ]
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XWXP9NT-es Ens-ḁnc-hḁdṎr tḁ-po-n ure-trḁl dḮlḁtḁ-dṎr enc-hufe del...'
 sku: 'B07XWXP9NT-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

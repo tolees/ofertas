@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQN7GZ5-es Zapatillas de Montaña Impermeable diseñados para...'
 sku: 'B07NQN7GZ5-es'
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQSDT33-es Skechers Comfy Flex 2.0 Zapatillas para Niñas Plateado...'
 sku: 'B07NQSDT33-es'
+tags: [  ]
 actualPrice: 21 EUR
 currency: EUR
 price: 21

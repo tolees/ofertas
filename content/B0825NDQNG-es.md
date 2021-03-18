@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825NDQNG-es Quiksilver Tijuana Hombre Gorra Trucker de 5 Paneles con...'
 sku: 'B0825NDQNG-es'
+tags: [  ]
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

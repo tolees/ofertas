@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PSEVBFQ-es Adaptador de candado para el Mac Pro de Apple'
 sku: 'B00PSEVBFQ-es'
+tags: [  ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

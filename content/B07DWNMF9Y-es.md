@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWNMF9Y-es PrimeMatik - Escritorio de Trabajo Mesa Acolchada para...'
 sku: 'B07DWNMF9Y-es'
+tags: [  ]
 actualPrice: 7.67 EUR
 currency: EUR
 price: 7.67

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014AH8HMQ-es L Oreal Paris Volume Million Lashes Feline - Mascara Negro...'
 sku: 'B014AH8HMQ-es'
+tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

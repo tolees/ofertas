@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZVKLJN-es adidas Campus Zapatillas de Deporte para Hombre Azul...'
 sku: 'B071ZVKLJN-es'
+tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

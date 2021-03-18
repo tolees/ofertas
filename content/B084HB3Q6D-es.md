@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084HB3Q6D-es Mini Enfriador de Aire Acondicionador de Aire Móviles...'
 sku: 'B084HB3Q6D-es'
+tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

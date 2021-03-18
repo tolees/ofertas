@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMPCHBN-es adidas Club Sw Short 7 Pantalones Cortos de Deporte Hombre...'
 sku: 'B07KMPCHBN-es'
+tags: [  ]
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

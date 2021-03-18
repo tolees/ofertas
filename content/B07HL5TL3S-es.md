@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HL5TL3S-es Skagen Smartwatch SKT5100'
 sku: 'B07HL5TL3S-es'
+tags: [  ]
 actualPrice: 179.4 EUR
 currency: EUR
 price: 179.4

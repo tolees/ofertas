@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TNS4KB2-es Superdry Orange Label Cotton Crew suéter Verde Fresh Mint...'
 sku: 'B07TNS4KB2-es'
+tags: [  ]
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

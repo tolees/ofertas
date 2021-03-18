@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FJ314FS-es Rimmel London Moisture Renew Barra De Labios Tono 360 As...'
 sku: 'B00FJ314FS-es'
+tags: [  ]
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

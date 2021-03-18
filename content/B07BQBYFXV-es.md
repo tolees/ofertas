@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQBYFXV-es Lamina Magnetica Adhesiva Bingolar Cuadrados magnéticos...'
 sku: 'B07BQBYFXV-es'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVQDFMV-es New Balance Fresh Foam Gobi m Zapatillas de Running para...'
 sku: 'B07DVQDFMV-es'
+tags: [  ]
 actualPrice: 57.64 EUR
 currency: EUR
 price: 57.64

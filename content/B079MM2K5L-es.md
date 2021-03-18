@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MM2K5L-es Thermaltake Riing Plus 20 RGB TT Premium Edition -...'
 sku: 'B079MM2K5L-es'
+tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

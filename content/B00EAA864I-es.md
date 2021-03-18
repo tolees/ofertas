@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EAA864I-es Rowenta CF 6430 peinado - Moldeador de pelo Violeta Color...'
 sku: 'B00EAA864I-es'
+tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

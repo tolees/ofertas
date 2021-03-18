@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B1WJQN3-es POC Essential Road Bib Shorts Hombre Uranium Black XSM'
 sku: 'B07B1WJQN3-es'
+tags: [  ]
 actualPrice: 60.78 EUR
 currency: EUR
 price: 60.78

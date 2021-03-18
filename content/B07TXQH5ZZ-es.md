@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXQH5ZZ-es deAO Coches 2en1 para Montar y Desmontar Conjunto de 2...'
 sku: 'B07TXQH5ZZ-es'
+tags: [  ]
 actualPrice: 10.61 EUR
 currency: EUR
 price: 10.61

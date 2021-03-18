@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0058QTMD2-es Caterpillar Colorado Botas para Hombre Negro Black P714010...'
 sku: 'B0058QTMD2-es'
+tags: [  ]
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

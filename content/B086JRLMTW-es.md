@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086JRLMTW-es 50 piezas de almohadillas antipolvo almohadillas...'
 sku: 'B086JRLMTW-es'
+tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

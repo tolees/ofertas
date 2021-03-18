@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXKZTZF-es Levi s 502 Regular Taper Jeans Azul Biologia ADV 0548...'
 sku: 'B07RXKZTZF-es'
+tags: [  ]
 actualPrice: 32.24 EUR
 currency: EUR
 price: 32.24

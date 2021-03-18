@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FURW81G-es Colgate 1032-39773 Maximum Protection Pasta Dentífrica 100 ml'
 sku: 'B01FURW81G-es'
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

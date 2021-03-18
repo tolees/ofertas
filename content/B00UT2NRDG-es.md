@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UT2NRDG-es Tommy Hilfiger Bralette Sujetador Deportivo Negro BLACK...'
 sku: 'B00UT2NRDG-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

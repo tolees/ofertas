@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EALB9EG-es BAUSCH + LOMB - Biotrue® ONEday - Lentes de contacto'
 sku: 'B00EALB9EG-es'
+tags: [  ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

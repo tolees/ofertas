@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBNP59W-es Kappa Memni Zapatillas para Mujer Black White 1110 36 EU'
 sku: 'B07LBNP59W-es'
+tags: [  ]
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

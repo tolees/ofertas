@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071XM3VR5-es Targus Click-in - Funda para el iPad Pro de 10.5" Color...'
 sku: 'B071XM3VR5-es'
+tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

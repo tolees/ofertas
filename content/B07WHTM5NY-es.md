@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHTM5NY-es VAUDE Men s Air Vest Iii Weste Hombre white uni M'
 sku: 'B07WHTM5NY-es'
+tags: [  ]
 actualPrice: 30.37 EUR
 currency: EUR
 price: 30.37

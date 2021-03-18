@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0775XGTNG-es Gifort Esponja de Silicona 3 Piezas Silicona Esponja de...'
 sku: 'B0775XGTNG-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

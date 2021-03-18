@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7RFY66-es Saucony Ride ISO Zapatillas de Running para Hombre Blanco...'
 sku: 'B07D7RFY66-es'
+tags: [  ]
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

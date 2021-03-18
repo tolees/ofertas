@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M4HI2XX-es Lord Mariquita - S'
 sku: 'B01M4HI2XX-es'
+tags: [  ]
 actualPrice: 12.06 EUR
 currency: EUR
 price: 12.06

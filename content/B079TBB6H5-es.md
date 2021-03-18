@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079TBB6H5-es Cable guy Iron man soporte de sujeción o carga para mando...'
 sku: 'B079TBB6H5-es'
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

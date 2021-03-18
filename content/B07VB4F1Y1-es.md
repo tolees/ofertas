@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VB4F1Y1-es Pour Moi? Remix Underwired Basque Bustier Negro Black...'
 sku: 'B07VB4F1Y1-es'
+tags: [  ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

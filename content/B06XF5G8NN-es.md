@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XF5G8NN-es Arcilla Seca al Aire 24 Colores Arcilla de Modelado Ultra...'
 sku: 'B06XF5G8NN-es'
+tags: [  ]
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

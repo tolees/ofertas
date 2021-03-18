@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZNN7LK-es Ufesa Velvet Pro 2400 - Secador Profesional con tecnología...'
 sku: 'B07PZNN7LK-es'
+tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

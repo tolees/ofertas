@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017QYODG4-es Superga 2790-COTROPEW Zapatillas Mujer Negro Nero 999 38...'
 sku: 'B017QYODG4-es'
+tags: [  ]
 actualPrice: 43.6 EUR
 currency: EUR
 price: 43.6

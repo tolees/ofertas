@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQTVFSN-es Hurley M Asylum Volley 17 Bermudas Hombre Armory Navy L'
 sku: 'B07QQTVFSN-es'
+tags: [  ]
 actualPrice: 17.73 EUR
 currency: EUR
 price: 17.73

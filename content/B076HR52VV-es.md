@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HR52VV-es adidas Con18 PES Jkt Sport Jacket Hombre Blanco/Negro XS'
 sku: 'B076HR52VV-es'
+tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

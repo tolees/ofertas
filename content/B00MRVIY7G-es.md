@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MRVIY7G-es Big Boy Golden XXL Capsulas - 45 Tabletas'
 sku: 'B00MRVIY7G-es'
+tags: [  ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

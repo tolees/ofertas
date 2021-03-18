@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFHYPPZ-es U.S. Polo Assn. Cree Zapatillas de Gimnasia para Hombre...'
 sku: 'B07NFHYPPZ-es'
+tags: [  ]
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

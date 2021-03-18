@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQ2KW91-es Funko- Pop Disney: Frozen 2-The Water Nokk 6" Figura...'
 sku: 'B07QQ2KW91-es'
+tags: [  ]
 actualPrice: 11.45 EUR
 currency: EUR
 price: 11.45

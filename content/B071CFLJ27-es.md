@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CFLJ27-es Nurana Cosmetics Crema diurna facial con factor de...'
 sku: 'B071CFLJ27-es'
+tags: [  ]
 actualPrice: 4.71 EUR
 currency: EUR
 price: 4.71

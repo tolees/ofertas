@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00140TTTS-es Trixie Divisorio para el Coche Metálico Ajustable 85-140/...'
 sku: 'B00140TTTS-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

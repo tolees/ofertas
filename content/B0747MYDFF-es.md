@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0747MYDFF-es Tul Dosel Azul Mosquitera Cuna Bebe Cortina para Cama...'
 sku: 'B0747MYDFF-es'
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

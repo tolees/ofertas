@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079K85TZJ-es ORICO USB 3.0 2.5 Inch Caja Disco Duro Externo SATA 3.0 a...'
 sku: 'B079K85TZJ-es'
+tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

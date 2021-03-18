@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0PNISG-es Diesel UMBR-ANDRETHREEPACK Calzoncillo para Hombre Negro...'
 sku: 'B01M0PNISG-es'
+tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

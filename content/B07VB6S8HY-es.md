@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VB6S8HY-es Cuzit Engraved Music Box - You Are My Sunshine Gift for...'
 sku: 'B07VB6S8HY-es'
+tags: [  ]
 actualPrice: 6.41 EUR
 currency: EUR
 price: 6.41

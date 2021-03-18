@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WV9L2DH-es BRIKSMAX Kit de Iluminación Led para Lego Ideas Mujeres de...'
 sku: 'B07WV9L2DH-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

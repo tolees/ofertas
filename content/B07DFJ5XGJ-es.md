@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFJ5XGJ-es Pop! Marvel Studios 10th - Figura Chrome Hulk'
 sku: 'B07DFJ5XGJ-es'
+tags: [  ]
 actualPrice: 8.38 EUR
 currency: EUR
 price: 8.38

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLNCVF8-es ASICS Lite-Show 7 Pulgada Pantalones Cortos para Correr - L'
 sku: 'B07GLNCVF8-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

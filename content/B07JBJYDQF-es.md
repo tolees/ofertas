@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBJYDQF-es Hackett Garment Dyed Jeans Pantalones Off White 803 31W /...'
 sku: 'B07JBJYDQF-es'
+tags: [  ]
 actualPrice: 24.01 EUR
 currency: EUR
 price: 24.01

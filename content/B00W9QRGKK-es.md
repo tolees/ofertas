@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W9QRGKK-es Calvin Klein Radiant Cotton-Thong Tanga Blanco White 100...'
 sku: 'B00W9QRGKK-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

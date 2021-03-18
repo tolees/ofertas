@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9BC4MM-es Under Armour Challenger III Training Pant Chándal para...'
 sku: 'B07L9BC4MM-es'
+tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

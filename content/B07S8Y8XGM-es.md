@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8Y8XGM-es Helly Hansen HH Wash Bag 3 Neceser Unisex Adulto Electric...'
 sku: 'B07S8Y8XGM-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

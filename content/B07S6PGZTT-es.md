@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6PGZTT-es Lámpara LED de techo regulable para dormitorio salón...'
 sku: 'B07S6PGZTT-es'
+tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

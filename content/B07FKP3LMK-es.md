@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKP3LMK-es Carnival Games'
 sku: 'B07FKP3LMK-es'
+tags: [  ]
 actualPrice: 21.97 EUR
 currency: EUR
 price: 21.97

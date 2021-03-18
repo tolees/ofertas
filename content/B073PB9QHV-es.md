@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073PB9QHV-es Filamento PLA Plus de la impresora SUNLU 3D filamento PLA...'
 sku: 'B073PB9QHV-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

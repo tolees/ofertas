@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O29Z3MU-es Nmc Juguetes Eróticos 1 Unidad 520 g'
 sku: 'B00O29Z3MU-es'
+tags: [  ]
 actualPrice: 80.22 EUR
 currency: EUR
 price: 80.22

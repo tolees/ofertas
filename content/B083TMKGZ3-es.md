@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TMKGZ3-es Temfly Amplificador de WiFi Repetidor WiFi 300Mbps/2.4GHz...'
 sku: 'B083TMKGZ3-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

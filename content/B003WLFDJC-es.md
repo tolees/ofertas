@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WLFDJC-es Julius-K9 Mini-Mini 40-53 cm Rojo'
 sku: 'B003WLFDJC-es'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

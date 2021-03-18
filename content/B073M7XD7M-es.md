@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073M7XD7M-es Luz LED sumergible luces LED multicolores con control...'
 sku: 'B073M7XD7M-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079DSBSXS-es Makeup Revolution Conceal & Define Concealer C6 Korektor w...'
 sku: 'B079DSBSXS-es'
+tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

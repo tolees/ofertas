@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SH6RHDX-es Laminas Para Ventanas Aislantes Vinilo Para Ventana Efecto...'
 sku: 'B07SH6RHDX-es'
+tags: [  ]
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CS9Y4T7-es Pepe Jeans Pixlette Jeans Negro Black Denim Wl0 11-12 años...'
 sku: 'B07CS9Y4T7-es'
+tags: [  ]
 actualPrice: 33.18 EUR
 currency: EUR
 price: 33.18

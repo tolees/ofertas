@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074QTBVGY-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B074QTBVGY-es'
+tags: [  ]
 actualPrice: 114.36 EUR
 currency: EUR
 price: 114.36

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GFQCP8-es L Oreal Paris Stylista Big Hair Spray - 150 ml'
 sku: 'B078GFQCP8-es'
+tags: [  ]
 actualPrice: 2.45 EUR
 currency: EUR
 price: 2.45

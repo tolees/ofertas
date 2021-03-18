@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P49HCQ8-es Skechers Solar Fuse Zapatillas para Hombre Negro Black...'
 sku: 'B07P49HCQ8-es'
+tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

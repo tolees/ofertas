@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVMWXG7-es BRIKSMAX Kit de Iluminación Led para Lego Super Heroes...'
 sku: 'B07TVMWXG7-es'
+tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

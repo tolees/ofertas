@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQK4FJ1-es non-brand Muñeca Bebé Reborn con Bañera Azul y Accesorios...'
 sku: 'B07PQK4FJ1-es'
+tags: [  ]
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

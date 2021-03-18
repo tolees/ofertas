@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DP13FN4-es Umbro Set de 3 boxers multicolor-100% algodón-color negro...'
 sku: 'B07DP13FN4-es'
+tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

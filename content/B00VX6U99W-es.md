@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VX6U99W-es Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15...'
 sku: 'B00VX6U99W-es'
+tags: [  ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

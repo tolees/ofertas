@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VSNR17-es P Prettyia Fragancia de Perfume de Hombre de 50 ml Hombre...'
 sku: 'B084VSNR17-es'
+tags: [  ]
 actualPrice: 21.25 EUR
 currency: EUR
 price: 21.25

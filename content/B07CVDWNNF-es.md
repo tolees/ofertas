@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVDWNNF-es Skechers Men s Flex Advantage 3.0- Jection Trainers Blue...'
 sku: 'B07CVDWNNF-es'
+tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

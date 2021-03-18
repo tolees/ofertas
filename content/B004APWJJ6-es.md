@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004APWJJ6-es Goliath 50400 - Juego Rummikub Original - Clásico Español'
 sku: 'B004APWJJ6-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

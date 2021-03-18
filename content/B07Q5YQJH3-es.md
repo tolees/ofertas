@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q5YQJH3-es Superdry Keystone Crew suéter Azul Tuscan Blue Twist 1sl...'
 sku: 'B07Q5YQJH3-es'
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

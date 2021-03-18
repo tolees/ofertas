@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PB5GV3D-es MADE4U [20"] [enmarcado de madera] Kit de pintura por...'
 sku: 'B07PB5GV3D-es'
+tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

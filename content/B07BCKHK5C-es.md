@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BCKHK5C-es ZU ELEMENTS Z170092051644C ALBERTINE Denim Jeans Mujer...'
 sku: 'B07BCKHK5C-es'
+tags: [  ]
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

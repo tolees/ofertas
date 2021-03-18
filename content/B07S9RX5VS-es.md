@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9RX5VS-es PUMA Persist XT Knit Zapatillas Deportivas para Interior...'
 sku: 'B07S9RX5VS-es'
+tags: [  ]
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CNH4P45-es Yosoo Health Gear Esponja de Balas Suaves de Cabeza...'
 sku: 'B08CNH4P45-es'
+tags: [  ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

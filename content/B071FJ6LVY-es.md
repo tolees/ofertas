@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FJ6LVY-es Piratas Del Caribe: La Venganza De Salazar - Edición...'
 sku: 'B071FJ6LVY-es'
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

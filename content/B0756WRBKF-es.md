@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756WRBKF-es Aigostar Tank 30JRI - Aspirador ciclónico sin bolsa 700 W...'
 sku: 'B0756WRBKF-es'
+tags: [  ]
 actualPrice: 58.94 EUR
 currency: EUR
 price: 58.94

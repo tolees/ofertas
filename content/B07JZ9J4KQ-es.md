@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ9J4KQ-es Calzoncillos de Hombre Espalda Ahueca hacia Fuera la Ropa...'
 sku: 'B07JZ9J4KQ-es'
+tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

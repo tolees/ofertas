@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJ5V9RM-es G-STAR RAW Graphic 13 Slim Polo Negro Dk Black 6484...'
 sku: 'B07RJ5V9RM-es'
+tags: [  ]
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

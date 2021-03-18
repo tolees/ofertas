@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0775YFBRC-es AmazonBasics - Juego de accesorios modernos para baño - 3...'
 sku: 'B0775YFBRC-es'
+tags: [  ]
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

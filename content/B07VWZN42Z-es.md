@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWZN42Z-es Könighaus - Calefactor por infrarrojos 800 y 1000 W 12-34...'
 sku: 'B07VWZN42Z-es'
+tags: [  ]
 actualPrice: 179.9 EUR
 currency: EUR
 price: 179.9

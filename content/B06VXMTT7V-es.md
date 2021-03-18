@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VXMTT7V-es GEORGE GINA & LUCY Nylon 100 Peaches Red Palms'
 sku: 'B06VXMTT7V-es'
+tags: [  ]
 actualPrice: 63.95 EUR
 currency: EUR
 price: 63.95

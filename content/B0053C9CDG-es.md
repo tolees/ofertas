@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053C9CDG-es The Hulk [Blu-ray]'
 sku: 'B0053C9CDG-es'
+tags: [  ]
 actualPrice: 7.41 EUR
 currency: EUR
 price: 7.41

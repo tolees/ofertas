@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JY8K8T-es NEW C 2 Unidades Protector de Pantalla para Huawei P8 Lite...'
 sku: 'B071JY8K8T-es'
+tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

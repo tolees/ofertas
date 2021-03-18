@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015KG0QIY-es King Cock Dildo Correa - 1 unidad'
 sku: 'B015KG0QIY-es'
+tags: [  ]
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

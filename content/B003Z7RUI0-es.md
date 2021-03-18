@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003Z7RUI0-es Cuéntame Cómo Pasó - Temporadas 6 - 8 [DVD]'
 sku: 'B003Z7RUI0-es'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

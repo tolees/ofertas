@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8RC0MG-es Funko Pop!-Son of Zorn: Business Color Blanco 100g 12297'
 sku: 'B01N8RC0MG-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

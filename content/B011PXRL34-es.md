@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011PXRL34-es EXZACT Pro – Escala Súper Delgada Analizador Corporal...'
 sku: 'B011PXRL34-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

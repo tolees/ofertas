@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015G6BH9K-es Ermenegildo Zegna Brillengestelle EZ5032 Monturas de gafas...'
 sku: 'B015G6BH9K-es'
+tags: [  ]
 actualPrice: 95.9 EUR
 currency: EUR
 price: 95.9

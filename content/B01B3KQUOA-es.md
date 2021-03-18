@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B3KQUOA-es DIM Generous Minimizer Sujetador reductor Beige New Skin...'
 sku: 'B01B3KQUOA-es'
+tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

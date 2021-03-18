@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKB72VY-es Kipling - Creativity Xl Monederos Mujer Gris Metallic Stony'
 sku: 'B07DKB72VY-es'
+tags: [  ]
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767PCYKY-es The Inpatient'
 sku: 'B0767PCYKY-es'
+tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

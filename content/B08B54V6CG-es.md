@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B54V6CG-es Genericc Tarjeta Micro SD SDXC 128 GB/256 GB de alta...'
 sku: 'B08B54V6CG-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

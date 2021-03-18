@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J70H7MI-es Natracare Tampon Super Sin Apli - 20 Unidades'
 sku: 'B00J70H7MI-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

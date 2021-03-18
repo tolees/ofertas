@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RFGGBC-es GORE WEAR R3 Mallas cortas de mujer 36 Negro'
 sku: 'B075RFGGBC-es'
+tags: [  ]
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

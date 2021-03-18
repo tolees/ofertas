@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085F2HSD6-es Compuesto Pasta para afilado BACHER con acondicionador...'
 sku: 'B085F2HSD6-es'
+tags: [  ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PR27R4G-es Under Armour Rush Low Sujetador Deportivo Mujer Negro MD'
 sku: 'B07PR27R4G-es'
+tags: [  ]
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083B7YN7F-es hollylife Utensilio de Cocina 5 Piezas Moderna Sólidas...'
 sku: 'B083B7YN7F-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

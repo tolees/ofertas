@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DV1MQNM-es Lacoste Carnaby EVO BL 2 SUC Zapatillas Unisex Niños...'
 sku: 'B07DV1MQNM-es'
+tags: [  ]
 actualPrice: 21.23 EUR
 currency: EUR
 price: 21.23

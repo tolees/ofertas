@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FZ6Y46Z-es CableDeconn HDMI to 3RCA Cable HDMI to 3RCA AV Composite...'
 sku: 'B07FZ6Y46Z-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

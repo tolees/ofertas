@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079XWZWL1-es Mr. Tronic 20m Cable de Red Ethernet Latiguillo | CAT5e...'
 sku: 'B079XWZWL1-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

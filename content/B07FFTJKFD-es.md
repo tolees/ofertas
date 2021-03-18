@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFTJKFD-es Juguetes Montessori Puzzle 3D DIY 200 Piezas Rompecabezas...'
 sku: 'B07FFTJKFD-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088LPVKGY-es PU Funda de Cuero para teléfono Riñonera Cinturón Clip...'
 sku: 'B088LPVKGY-es'
+tags: [  ]
 actualPrice: 1.47 EUR
 currency: EUR
 price: 1.47

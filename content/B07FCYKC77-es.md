@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCYKC77-es 60g 0.13lb té negro hecho a mano de China Yunnan Dianhong...'
 sku: 'B07FCYKC77-es'
+tags: [  ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

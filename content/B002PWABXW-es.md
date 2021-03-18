@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002PWABXW-es HP 516824-B21 - Disco duro 300 GB 88.9 mm 3.5 " 15000 RPM'
 sku: 'B002PWABXW-es'
+tags: [  ]
 actualPrice: 253.7 EUR
 currency: EUR
 price: 253.7

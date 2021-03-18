@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797NFPMH-es Avengers - Disfraz de Thor oficial Infinity Wars para...'
 sku: 'B0797NFPMH-es'
+tags: [  ]
 actualPrice: 16.54 EUR
 currency: EUR
 price: 16.54

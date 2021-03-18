@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008DPOA28-es Danish Design DZ120139 - Reloj para Caballero de Cuero Blanco'
 sku: 'B008DPOA28-es'
+tags: [  ]
 actualPrice: 96.76 EUR
 currency: EUR
 price: 96.76

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB4JMWF-es Pulsera Hombre Classic Series Men Pulsera Coolman...'
 sku: 'B07GB4JMWF-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

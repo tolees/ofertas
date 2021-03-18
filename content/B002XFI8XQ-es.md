@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002XFI8XQ-es Dickies Slim Fit Straight - Pantalones para hombre Beige...'
 sku: 'B002XFI8XQ-es'
+tags: [  ]
 actualPrice: 17.18 EUR
 currency: EUR
 price: 17.18

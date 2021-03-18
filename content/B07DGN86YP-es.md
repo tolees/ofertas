@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGN86YP-es Báscula Digital para Equipaje Buluri Bascula Maletas...'
 sku: 'B07DGN86YP-es'
+tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

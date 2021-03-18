@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EYS249I-es Zuru - Bunch O Balloons Set globos 3 manojos x 35 globos...'
 sku: 'B01EYS249I-es'
+tags: [  ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

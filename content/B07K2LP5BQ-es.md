@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2LP5BQ-es Adidas Adilette Aqua Zapatillas de Cross Unisex Adulto...'
 sku: 'B07K2LP5BQ-es'
+tags: [  ]
 actualPrice: 5.01 EUR
 currency: EUR
 price: 5.01

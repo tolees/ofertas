@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNC6MVN-es ThickTails Cepillo Alisador De Pelo Ionico - Con bolsa de...'
 sku: 'B07SNC6MVN-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

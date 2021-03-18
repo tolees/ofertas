@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083F87QZG-es DC Shoes Snapdripp - Gorra con Ajuste Posterior a Presión...'
 sku: 'B083F87QZG-es'
+tags: [  ]
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

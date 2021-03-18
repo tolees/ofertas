@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMZS5SB-es Electroestimulador Muscular Abdominales Cinturón...'
 sku: 'B07VMZS5SB-es'
+tags: [  ]
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

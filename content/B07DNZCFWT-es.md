@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DNZCFWT-es Termómetro Digital Frente y Oído 4 in 1 Termómetro...'
 sku: 'B07DNZCFWT-es'
+tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

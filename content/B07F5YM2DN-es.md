@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F5YM2DN-es Cinturón de la cámara Uonner Hebilla del cinturón de...'
 sku: 'B07F5YM2DN-es'
+tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W9KLX6Q-es Auriculares inalámbricos Philips SHB2515BK/10 auriculares...'
 sku: 'B07W9KLX6Q-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

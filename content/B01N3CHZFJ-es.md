@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N3CHZFJ-es Hugo BOSS Reloj para hombre 1513477 con pulsera de metal'
 sku: 'B01N3CHZFJ-es'
+tags: [  ]
 actualPrice: 167.6 EUR
 currency: EUR
 price: 167.6

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089DCJDFC-es VATOS Juegos de Lógica Niños Adultos Stem Juguete Policías...'
 sku: 'B089DCJDFC-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

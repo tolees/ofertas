@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFGC7G7-es Funko Mortal Engines - Figura de Vinilo Thaddeus Valentine'
 sku: 'B07DFGC7G7-es'
+tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

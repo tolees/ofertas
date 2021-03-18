@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2T4MJS-es BOSS Plisy Polo Gris Medium Grey 34 Hombre'
 sku: 'B07S2T4MJS-es'
+tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

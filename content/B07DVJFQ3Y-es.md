@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVJFQ3Y-es Haofy Bombillas Sensor de Luz LED 7W E26/E27 Bombillas...'
 sku: 'B07DVJFQ3Y-es'
+tags: [  ]
 actualPrice: 12.09 EUR
 currency: EUR
 price: 12.09

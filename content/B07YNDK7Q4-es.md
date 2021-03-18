@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNDK7Q4-es Life Is Strange 2'
 sku: 'B07YNDK7Q4-es'
+tags: [  ]
 actualPrice: 13.81 EUR
 currency: EUR
 price: 13.81

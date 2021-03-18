@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DP2VTWN-es Doom Eternal Windows - Caja con Código de Descarga'
 sku: 'B07DP2VTWN-es'
+tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

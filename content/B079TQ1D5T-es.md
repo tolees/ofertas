@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079TQ1D5T-es Pillars of Eternity II: Deadfire - Ultimate Edition'
 sku: 'B079TQ1D5T-es'
+tags: [  ]
 actualPrice: 33.2 EUR
 currency: EUR
 price: 33.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNNX5F4-es Zenacolor - Set de 10 Canvas - Lienzos para Pintar 20x20cm...'
 sku: 'B07PNNX5F4-es'
+tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

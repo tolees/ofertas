@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYTJHW1-es Skechers Sergeants-Verno Botas Clasicas para Hombre Negro...'
 sku: 'B07NYTJHW1-es'
+tags: [  ]
 actualPrice: 34.4 EUR
 currency: EUR
 price: 34.4

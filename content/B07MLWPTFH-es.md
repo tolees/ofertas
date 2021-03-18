@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLWPTFH-es gracosy Zapatillas de Running para Mujer Zapato de Trail...'
 sku: 'B07MLWPTFH-es'
+tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

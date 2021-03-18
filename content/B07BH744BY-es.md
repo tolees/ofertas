@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BH744BY-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07BH744BY-es'
+tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

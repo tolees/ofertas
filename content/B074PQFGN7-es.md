@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PQFGN7-es MagiDeal 50 Pedazos Madera Mixta Birdcase DIY Artesanía...'
 sku: 'B074PQFGN7-es'
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

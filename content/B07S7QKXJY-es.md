@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7QKXJY-es PUMA LQDCELL Hydra FM Zapatillas Deportivas para Interior...'
 sku: 'B07S7QKXJY-es'
+tags: [  ]
 actualPrice: 28.78 EUR
 currency: EUR
 price: 28.78

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB7W2KT-es Pulsar Reloj analogico para Mujer de Energía Solar con...'
 sku: 'B07GB7W2KT-es'
+tags: [  ]
 actualPrice: 52.13 EUR
 currency: EUR
 price: 52.13

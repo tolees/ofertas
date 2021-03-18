@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015RJXRM6-es Bosch MCM3201B MultiTalent3 Procesador de Alimentos 800 W...'
 sku: 'B015RJXRM6-es'
+tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B9B5VPS-es Newton Telescopio 130/650 Sph.'
 sku: 'B00B9B5VPS-es'
+tags: [  ]
 actualPrice: 106.2 EUR
 currency: EUR
 price: 106.2

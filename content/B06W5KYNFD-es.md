@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5KYNFD-es Braun Minipimer 3045 Batidora de Mano pié metálico 2...'
 sku: 'B06W5KYNFD-es'
+tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

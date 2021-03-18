@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002KXH0WG-es Alligator 3093 Cortador de Fruta Verdura y Cebolla...'
 sku: 'B002KXH0WG-es'
+tags: [  ]
 actualPrice: 80.37 EUR
 currency: EUR
 price: 80.37

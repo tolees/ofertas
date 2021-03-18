@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001XSBLLK-es Reebok Classic Leather Zapatillas de Running Niños Negro...'
 sku: 'B001XSBLLK-es'
+tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPD6QK7-es Juego de herramientas de 65 piezas DEKO Kit de...'
 sku: 'B07PPD6QK7-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N9QH5XW-es Helly Hansen HH Duffel Bag 2 30L Bolsa de Viaje Unisex...'
 sku: 'B00N9QH5XW-es'
+tags: [  ]
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

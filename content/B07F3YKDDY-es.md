@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3YKDDY-es ONEVER Luces de tira llevadas flexibles con el cable del...'
 sku: 'B07F3YKDDY-es'
+tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

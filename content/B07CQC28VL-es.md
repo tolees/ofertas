@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQC28VL-es Bosch Unlimited Serie 8 BCS1TOPNC - Aspirador escoba sin...'
 sku: 'B07CQC28VL-es'
+tags: [  ]
 actualPrice: 288.41 EUR
 currency: EUR
 price: 288.41

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006VSQQA8-es KanaaN Converter - Convertidor de BNC-Video S-Video o...'
 sku: 'B006VSQQA8-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

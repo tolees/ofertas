@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TLYT2X-es Match Mujer Sujetador Deportivo Racerback de Doble Capa...'
 sku: 'B077TLYT2X-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

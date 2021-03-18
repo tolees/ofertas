@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG7ZHW6-es PUMA Ralph Sampson Mid Zapatillas Unisex Adulto Blanco...'
 sku: 'B07KG7ZHW6-es'
+tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

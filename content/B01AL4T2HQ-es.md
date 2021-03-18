@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AL4T2HQ-es Wilson M Rush 9 Woven Short Blue Mir. - Pantalón Corto...'
 sku: 'B01AL4T2HQ-es'
+tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

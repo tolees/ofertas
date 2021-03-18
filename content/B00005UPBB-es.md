@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00005UPBB-es Hama - Keyboard Dust Cover Transparente 483 x 216 x 51 mm'
 sku: 'B00005UPBB-es'
+tags: [  ]
 actualPrice: 6.42 EUR
 currency: EUR
 price: 6.42

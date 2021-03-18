@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPQTX7D-es Pistola de Aire Caliente GALAX PRO 2000W Dos Niveles de...'
 sku: 'B07QPQTX7D-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

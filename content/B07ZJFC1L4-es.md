@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJFC1L4-es Adaptador Bluetooth Transmisor Receptor 2 en 1 Bluetooth...'
 sku: 'B07ZJFC1L4-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

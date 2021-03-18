@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4BFGH9-es Silver HT Space - Funda Universal Estampada 9-10.1" Color...'
 sku: 'B07H4BFGH9-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

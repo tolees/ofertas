@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DCCQ1TP-es Puma RS-150 Satin Wn s Zapatillas para Mujer Rosa Peach...'
 sku: 'B07DCCQ1TP-es'
+tags: [  ]
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QTVBFT9-es Funko- Pop Disney: Mount Rainier-Kristoff Figura...'
 sku: 'B07QTVBFT9-es'
+tags: [  ]
 actualPrice: 9.54 EUR
 currency: EUR
 price: 9.54

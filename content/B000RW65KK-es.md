@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000RW65KK-es Dyson - Kit de accesorios para aspiradora de mano'
 sku: 'B000RW65KK-es'
+tags: [  ]
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

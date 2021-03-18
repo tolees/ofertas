@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0151S3USO-es Qwinto'
 sku: 'B0151S3USO-es'
+tags: [  ]
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008OI5E9M-es Atosa - Disfraz de vikingo para hombre talla 50-52...'
 sku: 'B008OI5E9M-es'
+tags: [  ]
 actualPrice: 13.27 EUR
 currency: EUR
 price: 13.27

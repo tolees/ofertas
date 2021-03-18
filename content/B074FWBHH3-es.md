@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074FWBHH3-es Kiokids C/C - Porta chupetes esterilizador unisex color...'
 sku: 'B074FWBHH3-es'
+tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

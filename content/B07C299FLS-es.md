@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C299FLS-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter Azul...'
 sku: 'B07C299FLS-es'
+tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

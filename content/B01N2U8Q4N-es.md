@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2U8Q4N-es L Oréal Paris Barra de labios líquida Infalible Lip Paint...'
 sku: 'B01N2U8Q4N-es'
+tags: [  ]
 actualPrice: 4 EUR
 currency: EUR
 price: 4

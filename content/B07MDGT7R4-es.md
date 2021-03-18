@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDGT7R4-es Skechers Girls OMNE SCHOLASTIC STYLE Trainers Black Black...'
 sku: 'B07MDGT7R4-es'
+tags: [  ]
 actualPrice: 22.54 EUR
 currency: EUR
 price: 22.54

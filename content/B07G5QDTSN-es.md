@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5QDTSN-es Max Factor Base de maquillaje Tono: 77 Golden Tan Pieles...'
 sku: 'B07G5QDTSN-es'
+tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

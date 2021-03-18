@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFVTY94-es Autmor OBD II Auto Diagnóstico de Coches OBD2 OBD Lector...'
 sku: 'B07HFVTY94-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

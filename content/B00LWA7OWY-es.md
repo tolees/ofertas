@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LWA7OWY-es LEE DAREN - Pantalones para hombre Azul Rinse 30W x 34L'
 sku: 'B00LWA7OWY-es'
+tags: [  ]
 actualPrice: 47.53 EUR
 currency: EUR
 price: 47.53

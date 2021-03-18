@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08133ZZFL-es XLTOK Cargador Coche 24W 4.8A Doble Puerto con LED...'
 sku: 'B08133ZZFL-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

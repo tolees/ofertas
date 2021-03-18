@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079C7XT5S-es Call of Duty Taza cerámica Multicolor 8 x 12 x 9 cm'
 sku: 'B079C7XT5S-es'
+tags: [  ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

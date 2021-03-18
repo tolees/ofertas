@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9RYJ5T-es PUMA Zone XT WNS Zapatillas Deportivas para Interior para...'
 sku: 'B07S9RYJ5T-es'
+tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

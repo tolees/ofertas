@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5R79DT-es WERNNSAI Mantel del Camión - 2 PCS 110 x 180cm Fiesta...'
 sku: 'B07P5R79DT-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

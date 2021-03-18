@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJBH8JB-es COMVIP Cojín Trenzado de Felpa con Nudos para Cuna...'
 sku: 'B07YJBH8JB-es'
+tags: [  ]
 actualPrice: 53.29 EUR
 currency: EUR
 price: 53.29

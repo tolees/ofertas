@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NACYYGG-es Easton Marlowe 6 PR Calcetines Estampados Hombre - 6pk #18...'
 sku: 'B01NACYYGG-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

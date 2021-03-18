@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MFPCHD6-es Llave USB 16 GB Iron Man - Memoria Flash Drive 2.0...'
 sku: 'B00MFPCHD6-es'
+tags: [  ]
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

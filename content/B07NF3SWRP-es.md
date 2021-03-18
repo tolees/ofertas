@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NF3SWRP-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07NF3SWRP-es'
+tags: [  ]
 actualPrice: 60.63 EUR
 currency: EUR
 price: 60.63

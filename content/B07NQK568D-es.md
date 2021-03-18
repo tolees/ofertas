@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQK568D-es Relojes Hombre Relojes de Pulsera Marea Cronometro...'
 sku: 'B07NQK568D-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNHCP39-es Evfun Estación de Carga USB Base de Carga 8 Puertos...'
 sku: 'B07CNHCP39-es'
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

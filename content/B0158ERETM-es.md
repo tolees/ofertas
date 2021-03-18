@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0158ERETM-es Rowenta IPL Instant Soft Compact EP9600 - Depiladora de...'
 sku: 'B0158ERETM-es'
+tags: [  ]
 actualPrice: 140.7 EUR
 currency: EUR
 price: 140.7

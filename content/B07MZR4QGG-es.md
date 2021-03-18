@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZR4QGG-es Vans Filmore Decon Zapatillas para Mujer Rosa Suede Lilac...'
 sku: 'B07MZR4QGG-es'
+tags: [  ]
 actualPrice: 24.71 EUR
 currency: EUR
 price: 24.71

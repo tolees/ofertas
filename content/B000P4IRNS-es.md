@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000P4IRNS-es Bosch 2607019510 - Set de bolsillo con 10 unidades para...'
 sku: 'B000P4IRNS-es'
+tags: [  ]
 actualPrice: 8.84 EUR
 currency: EUR
 price: 8.84

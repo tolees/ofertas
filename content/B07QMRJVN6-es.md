@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMRJVN6-es Keenstone Almohada de Viaje Almohada para el Cuello Hecha...'
 sku: 'B07QMRJVN6-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

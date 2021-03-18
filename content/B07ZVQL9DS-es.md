@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVQL9DS-es LED Lámpara de Techo Kimjo 36W IP44 Impermeable Plafón LED...'
 sku: 'B07ZVQL9DS-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

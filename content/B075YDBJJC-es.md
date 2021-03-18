@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075YDBJJC-es Facetoworld Lampada da Tavolo 4W Luce LED Pieghevole Touch...'
 sku: 'B075YDBJJC-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

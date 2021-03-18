@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3C7JBM-es Under Armour Coldgear Armour Legging Mujer Negro MD'
 sku: 'B07J3C7JBM-es'
+tags: [  ]
 actualPrice: 25.35 EUR
 currency: EUR
 price: 25.35

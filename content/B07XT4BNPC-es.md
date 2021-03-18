@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XT4BNPC-es Yacel For Men Cera Disciplinadora Fija Protege e Hidrata...'
 sku: 'B07XT4BNPC-es'
+tags: [  ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

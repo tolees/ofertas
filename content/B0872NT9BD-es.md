@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872NT9BD-es Funda Transparente Compatible para Xiaomi Mi MAX 3 Carcasa...'
 sku: 'B0872NT9BD-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

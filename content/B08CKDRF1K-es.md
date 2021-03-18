@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CKDRF1K-es Colcolo Tarjetas De Plumas Hechas A Mano para Saludos De...'
 sku: 'B08CKDRF1K-es'
+tags: [  ]
 actualPrice: 4.37 EUR
 currency: EUR
 price: 4.37

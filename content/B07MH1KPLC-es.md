@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MH1KPLC-es Nicetree Espejo joyero Armario Montado Pared o Colgado en...'
 sku: 'B07MH1KPLC-es'
+tags: [  ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

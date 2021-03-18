@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FJ67MK-es Veramonte Carmenere Vino Chile - 750 ml'
 sku: 'B079FJ67MK-es'
+tags: [  ]
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

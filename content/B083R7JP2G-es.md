@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083R7JP2G-es Ganchos Adhesivos Wodgreat 18 Piezas Toallero Perchero...'
 sku: 'B083R7JP2G-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

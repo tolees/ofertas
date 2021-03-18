@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZMP6L5-es Kickers Kick Col Botas Slouch Unisex Niños Marrón Camel...'
 sku: 'B07MZMP6L5-es'
+tags: [  ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0196ZD9VQ-es Hayward Tiger Shark QC Limpiafondos automático Suelo...'
 sku: 'B0196ZD9VQ-es'
+tags: [  ]
 actualPrice: 480.0 EUR
 currency: EUR
 price: 480.0

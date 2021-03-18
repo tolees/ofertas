@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VW4TQJJ-es Nixon Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B06VW4TQJJ-es'
+tags: [  ]
 actualPrice: 92.91 EUR
 currency: EUR
 price: 92.91

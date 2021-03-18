@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ1NK7K-es Kipling Imali Carteras para Mujer Verde Light Aloe 19x10x1 cm'
 sku: 'B07TZ1NK7K-es'
+tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

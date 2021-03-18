@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076PNM7P6-es Firefighters: The Simulation'
 sku: 'B076PNM7P6-es'
+tags: [  ]
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

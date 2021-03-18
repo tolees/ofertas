@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2K3HGF-es PUMA Axis Zapatillas Unisex-Adulto Blanco White/Peacoat 37 EU'
 sku: 'B07F2K3HGF-es'
+tags: [  ]
 actualPrice: 21.09 EUR
 currency: EUR
 price: 21.09

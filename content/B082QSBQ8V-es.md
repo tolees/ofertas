@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082QSBQ8V-es Tablet Funda para Huawei MEDIAPAD T1 10 Honor Note 9.6...'
 sku: 'B082QSBQ8V-es'
+tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

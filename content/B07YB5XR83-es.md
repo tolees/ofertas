@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YB5XR83-es Cable USB-C Tipo C Muelle en Espiral Espiral Tipo-C Cable...'
 sku: 'B07YB5XR83-es'
+tags: [  ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

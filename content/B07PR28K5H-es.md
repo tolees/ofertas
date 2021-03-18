@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PR28K5H-es Under Armour Tech Corto Hombre Gris 30'
 sku: 'B07PR28K5H-es'
+tags: [  ]
 actualPrice: 29.18 EUR
 currency: EUR
 price: 29.18

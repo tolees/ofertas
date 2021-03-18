@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005ANXIYM-es Nike Revolution 4 GS Zapatillas de Running para Niños...'
 sku: 'B005ANXIYM-es'
+tags: [  ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

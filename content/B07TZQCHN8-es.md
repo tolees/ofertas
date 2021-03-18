@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZQCHN8-es BRIKSMAX Kit de Iluminación Led para Lego Ideas Libro...'
 sku: 'B07TZQCHN8-es'
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

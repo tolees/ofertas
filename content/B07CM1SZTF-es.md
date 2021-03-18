@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CM1SZTF-es GLEADING Ventilador portátil Control táctil Inteligente...'
 sku: 'B07CM1SZTF-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

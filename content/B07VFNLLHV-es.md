@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFNLLHV-es Armani Exchange Smartwatch Pantalla táctil para Hombre de...'
 sku: 'B07VFNLLHV-es'
+tags: [  ]
 actualPrice: 83.7 EUR
 currency: EUR
 price: 83.7

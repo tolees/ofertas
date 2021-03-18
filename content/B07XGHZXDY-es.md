@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGHZXDY-es Ayete Smartwatch Fitness Tracker con frecuencia cardíaca...'
 sku: 'B07XGHZXDY-es'
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

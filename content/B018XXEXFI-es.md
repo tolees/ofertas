@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018XXEXFI-es CALZITALY Medias Invisibles Refrescantes | Panty De Verano...'
 sku: 'B018XXEXFI-es'
+tags: [  ]
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

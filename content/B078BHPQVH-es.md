@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078BHPQVH-es BOSS Prime Polo Azul Dark Blue 402 XXX-Large para Hombre'
 sku: 'B078BHPQVH-es'
+tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SFZWIKW-es Smiffys-44226 Kit de Maquillaje para el día de los Muertos...'
 sku: 'B00SFZWIKW-es'
+tags: [  ]
 actualPrice: 0.53 EUR
 currency: EUR
 price: 0.53

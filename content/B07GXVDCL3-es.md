@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXVDCL3-es B Blesiya 1 USB Drive de Memoria Disco Duro Externo...'
 sku: 'B07GXVDCL3-es'
+tags: [  ]
 actualPrice: 12.01 EUR
 currency: EUR
 price: 12.01

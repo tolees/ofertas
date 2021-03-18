@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWD4QRS-es loud + proud Striped Shorts Organic Cotton Pantalones...'
 sku: 'B07TWD4QRS-es'
+tags: [  ]
 actualPrice: 9.27 EUR
 currency: EUR
 price: 9.27

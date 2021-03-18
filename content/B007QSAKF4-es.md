@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007QSAKF4-es Dainese Action Vest Pro Protector Hombre Blanco/Negro S'
 sku: 'B007QSAKF4-es'
+tags: [  ]
 actualPrice: 73.2 EUR
 currency: EUR
 price: 73.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MR9LF56-es Lee Luke Jeans Moto Black HL 36W / 32L para Hombre'
 sku: 'B07MR9LF56-es'
+tags: [  ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

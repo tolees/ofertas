@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IVQW1H4-es One For All WM4621 Soporte de pared para TV de 32 a 84”...'
 sku: 'B01IVQW1H4-es'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

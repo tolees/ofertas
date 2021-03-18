@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3NBV1D-es Zoeson Ducha Solar Ducha Portatil Bolsa De Ducha Para...'
 sku: 'B07B3NBV1D-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

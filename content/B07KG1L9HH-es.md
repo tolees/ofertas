@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG1L9HH-es PUMA Nova Wn s Zapatillas Deportivas para Mujer Rosa...'
 sku: 'B07KG1L9HH-es'
+tags: [  ]
 actualPrice: 27.83 EUR
 currency: EUR
 price: 27.83

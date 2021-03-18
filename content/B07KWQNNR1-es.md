@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWQNNR1-es Helly Hansen Tokyo Hoodie Hombre Grey Mélange M'
 sku: 'B07KWQNNR1-es'
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BRPM8N9-es Nike Internationalist Zapatillas para Mujer Blanco...'
 sku: 'B07BRPM8N9-es'
+tags: [  ]
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

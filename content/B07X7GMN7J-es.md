@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X7GMN7J-es SELECTED HOMME 16049517 Polo Verde Hemlock Hemlock M para...'
 sku: 'B07X7GMN7J-es'
+tags: [  ]
 actualPrice: 13.27 EUR
 currency: EUR
 price: 13.27

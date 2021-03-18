@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXSPR2C-es Terry White Brandy Blanco 36% - 700 ml'
 sku: 'B07PXSPR2C-es'
+tags: [  ]
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

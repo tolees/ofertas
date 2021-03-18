@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JBZM9J-es Garnier Protector Tacto Seco Bruma Seca FPS 50 - 200 ml'
 sku: 'B071JBZM9J-es'
+tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

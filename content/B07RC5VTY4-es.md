@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RC5VTY4-es Trust Duet XP Auriculares Bluetooth sin Cables'
 sku: 'B07RC5VTY4-es'
+tags: [  ]
 actualPrice: 23.17 EUR
 currency: EUR
 price: 23.17

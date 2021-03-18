@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GO47CFC-es Piz Buin Tan & Protect - Aceite en Spray Acelerador del...'
 sku: 'B00GO47CFC-es'
+tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

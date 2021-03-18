@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KHSUUYK-es Revlon Ultra HD Gel Pintalabios Tropical'
 sku: 'B01KHSUUYK-es'
+tags: [  ]
 actualPrice: 2.73 EUR
 currency: EUR
 price: 2.73

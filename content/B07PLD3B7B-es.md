@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLD3B7B-es Jumbo-19765 Papiro Quilling Multicolor 19765'
 sku: 'B07PLD3B7B-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

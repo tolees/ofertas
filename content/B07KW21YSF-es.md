@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KW21YSF-es Masajeador de ojos sónico de varita galvanica...'
 sku: 'B07KW21YSF-es'
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

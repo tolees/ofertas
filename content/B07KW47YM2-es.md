@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KW47YM2-es Moliies W50L-5DB 802.11 AC 1200M 2.4G / 5.8G Adaptador...'
 sku: 'B07KW47YM2-es'
+tags: [  ]
 actualPrice: 12.05 EUR
 currency: EUR
 price: 12.05

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG1GVJ1-es PUMA Ralph Sampson Mid Zapatillas Altas Unisex Adulto...'
 sku: 'B07KG1GVJ1-es'
+tags: [  ]
 actualPrice: 36.08 EUR
 currency: EUR
 price: 36.08

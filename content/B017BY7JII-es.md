@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017BY7JII-es PURE RESVERATROL ANTI-OX 60 CAPS'
 sku: 'B017BY7JII-es'
+tags: [  ]
 actualPrice: 15.53 EUR
 currency: EUR
 price: 15.53

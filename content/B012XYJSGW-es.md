@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012XYJSGW-es AEG SB9300 Batidora de Vaso de Altas Prestaciones...'
 sku: 'B012XYJSGW-es'
+tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

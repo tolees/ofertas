@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002DYIZHQ-es Optimum Nutrition ON Gold Standard 100% Whey Proteína en...'
 sku: 'B002DYIZHQ-es'
+tags: [  ]
 actualPrice: 23.42 EUR
 currency: EUR
 price: 23.42

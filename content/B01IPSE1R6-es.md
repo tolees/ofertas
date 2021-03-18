@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IPSE1R6-es The Walking Dead - Temporada 6 [Blu-ray]'
 sku: 'B01IPSE1R6-es'
+tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

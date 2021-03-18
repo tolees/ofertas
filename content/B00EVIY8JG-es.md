@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EVIY8JG-es Converse - Zapatillas para mujer Blanco EU 39.5'
 sku: 'B00EVIY8JG-es'
+tags: [  ]
 actualPrice: 45.35 EUR
 currency: EUR
 price: 45.35

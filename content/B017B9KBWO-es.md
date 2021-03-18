@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017B9KBWO-es Bresser FlipMe Despertador radio controlado - blanco'
 sku: 'B017B9KBWO-es'
+tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

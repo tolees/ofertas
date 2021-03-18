@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SJUTQQ-es Samsonite Aeris Spinner L Maleta 75 cm 87.5 L Rojo Red'
 sku: 'B002SJUTQQ-es'
+tags: [  ]
 actualPrice: 131.21 EUR
 currency: EUR
 price: 131.21

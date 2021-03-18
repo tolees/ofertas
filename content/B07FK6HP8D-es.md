@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FK6HP8D-es ETNAB|#Etnies Cyprus SC Zapatillas para Hombre Black/White...'
 sku: 'B07FK6HP8D-es'
+tags: [  ]
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

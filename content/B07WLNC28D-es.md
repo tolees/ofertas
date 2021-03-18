@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLNC28D-es Tommy Hilfiger Medium Drawstring Bañador Blanco XX-Large...'
 sku: 'B07WLNC28D-es'
+tags: [  ]
 actualPrice: 28.35 EUR
 currency: EUR
 price: 28.35

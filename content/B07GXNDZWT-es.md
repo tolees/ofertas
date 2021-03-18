@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXNDZWT-es Adidas Falcon W Zapatillas de Deporte para Mujer Footwear...'
 sku: 'B07GXNDZWT-es'
+tags: [  ]
 actualPrice: 60.5 EUR
 currency: EUR
 price: 60.5

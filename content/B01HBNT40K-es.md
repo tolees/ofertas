@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HBNT40K-es Michael Kors Reloj Unisex de Analogico con Correa en...'
 sku: 'B01HBNT40K-es'
+tags: [  ]
 actualPrice: 182.96 EUR
 currency: EUR
 price: 182.96

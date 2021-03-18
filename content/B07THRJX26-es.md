@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THRJX26-es Relojes Infantiles para niños Reloj Deportivo Digital al...'
 sku: 'B07THRJX26-es'
+tags: [  ]
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

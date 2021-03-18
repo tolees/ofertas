@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7P8F7S-es B Baosity 2 Pack Maleta Correa Mango Accesorio De Viaje...'
 sku: 'B07W7P8F7S-es'
+tags: [  ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

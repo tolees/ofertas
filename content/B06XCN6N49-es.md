@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCN6N49-es TW Steel VS2 Volante - Reloj Analógico de Pulsera con...'
 sku: 'B06XCN6N49-es'
+tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2L2HPY-es Skagen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07T2L2HPY-es'
+tags: [  ]
 actualPrice: 43.0 EUR
 currency: EUR
 price: 43.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGS587V-es BILLABONG Walled Trucker Gorra de béisbol Morado Maroon...'
 sku: 'B07KGS587V-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

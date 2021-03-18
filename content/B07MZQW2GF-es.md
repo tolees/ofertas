@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQW2GF-es Pepe Jeans London Koko Sky Zapatillas para Mujer Stone 856...'
 sku: 'B07MZQW2GF-es'
+tags: [  ]
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

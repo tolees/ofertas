@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XIBCFCY-es IMEX EL ZORRO Cajón para Barbacoa con Parrilla de INOX 68...'
 sku: 'B00XIBCFCY-es'
+tags: [  ]
 actualPrice: 94.0 EUR
 currency: EUR
 price: 94.0

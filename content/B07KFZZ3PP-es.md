@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFZZ3PP-es Puma Future Runner Premium Zapatillas Unisex Adulto Azul...'
 sku: 'B07KFZZ3PP-es'
+tags: [  ]
 actualPrice: 23.22 EUR
 currency: EUR
 price: 23.22

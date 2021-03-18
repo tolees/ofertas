@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IGX4YOA-es Vasos para beber 4 PACK-11OZ Restaurante de color acrílico...'
 sku: 'B01IGX4YOA-es'
+tags: [  ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

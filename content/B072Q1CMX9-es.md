@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072Q1CMX9-es Adidas Vs Pace Zapatillas para Hombre Gris Grey/Core...'
 sku: 'B072Q1CMX9-es'
+tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

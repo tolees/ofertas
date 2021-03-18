@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013TV3KR6-es Dainese-MANIS D1 49 Negro Talla M'
 sku: 'B013TV3KR6-es'
+tags: [  ]
 actualPrice: 113.66 EUR
 currency: EUR
 price: 113.66

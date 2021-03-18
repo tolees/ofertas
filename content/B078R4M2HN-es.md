@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078R4M2HN-es 3 x 70m de cuerda de algodón cinta cordel Bakers regalo...'
 sku: 'B078R4M2HN-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

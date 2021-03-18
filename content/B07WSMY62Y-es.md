@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSMY62Y-es memumi Case para iPhone 11 Pro MAX Funda Ultra Delgada...'
 sku: 'B07WSMY62Y-es'
+tags: [  ]
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

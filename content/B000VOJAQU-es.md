@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VOJAQU-es Guerlain Insolence Eau de Toilette Vaporizador 50 ml'
 sku: 'B000VOJAQU-es'
+tags: [  ]
 actualPrice: 40.98 EUR
 currency: EUR
 price: 40.98

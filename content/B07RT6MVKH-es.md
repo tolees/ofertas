@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RT6MVKH-es DIESEL ShoesBoldmessage DoublecrossHombreCarterasAzul Blue...'
 sku: 'B07RT6MVKH-es'
+tags: [  ]
 actualPrice: 28.62 EUR
 currency: EUR
 price: 28.62

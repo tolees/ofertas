@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXTS8K6-es Under Armour Men s Printed Blitzing 3.0 Gorra Hombre Negro...'
 sku: 'B07PXTS8K6-es'
+tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

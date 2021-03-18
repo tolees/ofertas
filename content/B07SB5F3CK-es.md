@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SB5F3CK-es Bolsas de Leche Materna 50 Piezas Bestele Recipientes...'
 sku: 'B07SB5F3CK-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0827XNNCH-es Montse Interiors S.L. Juego de sábanas Estampado Rayas de...'
 sku: 'B0827XNNCH-es'
+tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

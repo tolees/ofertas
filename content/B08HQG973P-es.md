@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HQG973P-es BNTTEAM Mini Carrete Giratorio y Combos de Caña...'
 sku: 'B08HQG973P-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0784WYQHK-es Panasonic RP-HTX80BE-C Auriculares Bluetooth Diadema 24h...'
 sku: 'B0784WYQHK-es'
+tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

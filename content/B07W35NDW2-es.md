@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W35NDW2-es MARTINELLI Náutico de Piel HANS 1360'
 sku: 'B07W35NDW2-es'
+tags: [  ]
 actualPrice: 41.29 EUR
 currency: EUR
 price: 41.29

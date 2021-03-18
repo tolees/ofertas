@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVJLQKK-es Napapijri Semiury 2 Gorro de Punto Azul BLU Marine 176...'
 sku: 'B07MVJLQKK-es'
+tags: [  ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

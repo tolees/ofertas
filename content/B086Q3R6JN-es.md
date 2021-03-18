@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086Q3R6JN-es Kit Dibujo Completo - Principiante/Profesional - 19...'
 sku: 'B086Q3R6JN-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

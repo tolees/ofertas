@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XA1IOXG-es BabyVip - Body para niño y niña Estilo Abotonado 100%...'
 sku: 'B00XA1IOXG-es'
+tags: [  ]
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

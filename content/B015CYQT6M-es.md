@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015CYQT6M-es Astor SkinMatch Concealer Corrector'
 sku: 'B015CYQT6M-es'
+tags: [  ]
 actualPrice: 3.12 EUR
 currency: EUR
 price: 3.12

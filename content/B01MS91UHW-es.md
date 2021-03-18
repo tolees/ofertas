@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MS91UHW-es Lancardo Reloj Deportivo de Energía Solar de Multifunción...'
 sku: 'B01MS91UHW-es'
+tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825PMXWJ-es Roxy Whole Hearted - Licra De Manga Corta con Protección...'
 sku: 'B0825PMXWJ-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F8MGYWC-es STAR TREK Spock Captain Authentic Rank Pin'
 sku: 'B01F8MGYWC-es'
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017JTHDK4-es Selected SLHSTRAIGHT Paris Pantalones Gris Phantom W36/L32...'
 sku: 'B017JTHDK4-es'
+tags: [  ]
 actualPrice: 30.56 EUR
 currency: EUR
 price: 30.56

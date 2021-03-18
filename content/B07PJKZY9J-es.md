@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJKZY9J-es For The King'
 sku: 'B07PJKZY9J-es'
+tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

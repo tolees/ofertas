@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CGPKNNL-es Reloj Deportivos para Niños Niño Niña Resistente al Agua...'
 sku: 'B07CGPKNNL-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

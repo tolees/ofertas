@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPHG81K-es adidas Falcon W Zapatillas de Deporte para Mujer...'
 sku: 'B07KPHG81K-es'
+tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

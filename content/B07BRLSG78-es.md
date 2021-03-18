@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BRLSG78-es Bostanten Cinturón Cuero Para Hombres Piel Cinturones...'
 sku: 'B07BRLSG78-es'
+tags: [  ]
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

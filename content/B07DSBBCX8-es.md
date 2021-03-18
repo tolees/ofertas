@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DSBBCX8-es 1 Unidad de Etiqueta Protectora de Raqueta de Tenis para...'
 sku: 'B07DSBBCX8-es'
+tags: [  ]
 actualPrice: 8.17 EUR
 currency: EUR
 price: 8.17

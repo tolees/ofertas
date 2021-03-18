@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BLKUQK2-es Vans Atwood Sneaker para Hombre Negro Black/White Canvas...'
 sku: 'B00BLKUQK2-es'
+tags: [  ]
 actualPrice: 40.58 EUR
 currency: EUR
 price: 40.58

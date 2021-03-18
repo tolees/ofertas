@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006NZHL2G-es Nike W Np Pro Classic Swoosh Bra Sujetador deportivo para...'
 sku: 'B006NZHL2G-es'
+tags: [  ]
 actualPrice: 18.65 EUR
 currency: EUR
 price: 18.65

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV5NNK2-es 24x Gris Cromo Plateado Lámina impresa 2d PEGATINAS lisas...'
 sku: 'B07TV5NNK2-es'
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

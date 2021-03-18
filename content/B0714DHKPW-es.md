@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0714DHKPW-es Under Armour Ua Ultimate Speed Zapatillas de deporte...'
 sku: 'B0714DHKPW-es'
+tags: [  ]
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

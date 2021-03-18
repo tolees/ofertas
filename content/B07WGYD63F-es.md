@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGYD63F-es Songway Burbujeador de Tanque de Peces Redondo de Acuario...'
 sku: 'B07WGYD63F-es'
+tags: [  ]
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CHUR2F6-es Wilkinson Sword Hydro – Maquinilla de afeitar con 8 recambios'
 sku: 'B01CHUR2F6-es'
+tags: [  ]
 actualPrice: 9.66 EUR
 currency: EUR
 price: 9.66

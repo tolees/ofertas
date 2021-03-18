@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMNVFT4-es Superdry Core Logo Tag Hood Capucha Blanco Optic 01c M...'
 sku: 'B07TMNVFT4-es'
+tags: [  ]
 actualPrice: 30.57 EUR
 currency: EUR
 price: 30.57

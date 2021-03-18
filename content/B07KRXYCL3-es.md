@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRXYCL3-es SALOMON Agile LS tee M Hombre Azul Night Sky'
 sku: 'B07KRXYCL3-es'
+tags: [  ]
 actualPrice: 17.54 EUR
 currency: EUR
 price: 17.54

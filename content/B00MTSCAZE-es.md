@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MTSCAZE-es Max Factor 53045 Skin Luminizer Base de Maquillaje - 30 ml'
 sku: 'B00MTSCAZE-es'
+tags: [  ]
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

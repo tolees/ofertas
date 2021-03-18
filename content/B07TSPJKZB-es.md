@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSPJKZB-es Women s Secret Helankas 3 Green Sujetador con Push-up...'
 sku: 'B07TSPJKZB-es'
+tags: [  ]
 actualPrice: 7.66 EUR
 currency: EUR
 price: 7.66

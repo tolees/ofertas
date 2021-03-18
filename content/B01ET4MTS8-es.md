@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ET4MTS8-es Helly Hansen W Aden Long Coat Jacket Mujer Black XL'
 sku: 'B01ET4MTS8-es'
+tags: [  ]
 actualPrice: 63.6 EUR
 currency: EUR
 price: 63.6

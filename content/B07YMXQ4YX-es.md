@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMXQ4YX-es [en.casa] Pedestal para Lavadora con Cajón de...'
 sku: 'B07YMXQ4YX-es'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFBMVRQ-es PUMA Ftblnxt Pant Chándal Hombre Negro Black M'
 sku: 'B07QFBMVRQ-es'
+tags: [  ]
 actualPrice: 20.15 EUR
 currency: EUR
 price: 20.15

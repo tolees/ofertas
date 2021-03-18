@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M07NLYD-es Philips bsc200/01 Cepillo de limpieza facial Visapure...'
 sku: 'B01M07NLYD-es'
+tags: [  ]
 actualPrice: 29.37 EUR
 currency: EUR
 price: 29.37

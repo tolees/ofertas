@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGY67C6-es LEADSTAR Almohada de baño Almohada de SPA Impermeable...'
 sku: 'B07BGY67C6-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

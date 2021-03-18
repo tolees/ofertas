@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S355DHD-es Love MoschinoJc4027pp1aMujerBolsos bandoleraBlanco Bianco...'
 sku: 'B07S355DHD-es'
+tags: [  ]
 actualPrice: 86.25 EUR
 currency: EUR
 price: 86.25

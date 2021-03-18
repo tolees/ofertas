@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZZ2JSS6-es Samsonite Flux Spinner XL Maleta Expansible 81 cm 136 L...'
 sku: 'B06ZZ2JSS6-es'
+tags: [  ]
 actualPrice: 119.5 EUR
 currency: EUR
 price: 119.5

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZ29T5N-es Superdry OL Elite Ziphood Capucha Morado Dusty Lilac De U...'
 sku: 'B07NZ29T5N-es'
+tags: [  ]
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

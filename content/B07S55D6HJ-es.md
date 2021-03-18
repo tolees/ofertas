@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S55D6HJ-es Diesel UMBX-DAMIENTHREEPACK Calzoncillo para Hombre...'
 sku: 'B07S55D6HJ-es'
+tags: [  ]
 actualPrice: 24.57 EUR
 currency: EUR
 price: 24.57

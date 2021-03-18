@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088M15SYY-es Suhctup Funda Compatible con Xiaomi Redmi Note 6...'
 sku: 'B088M15SYY-es'
+tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

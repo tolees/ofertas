@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHS3KW3-es Calvin Klein Exposed Waistband Milano Pant Pantalones...'
 sku: 'B07VHS3KW3-es'
+tags: [  ]
 actualPrice: 29.34 EUR
 currency: EUR
 price: 29.34

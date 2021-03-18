@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWCNJNG-es SUPORE Garmin Vivosmart HR Activity Tracker Correa de...'
 sku: 'B07GWCNJNG-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

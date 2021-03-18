@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF4TM21-es Levi s Housemark Polo Azul Sodalite Blue 0092 X-Large para...'
 sku: 'B07KF4TM21-es'
+tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

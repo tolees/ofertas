@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WGBX6Q-es Agger Clips de Pelo con Estilo Ocasiones Bolas de Madera...'
 sku: 'B086WGBX6Q-es'
+tags: [  ]
 actualPrice: 2.01 EUR
 currency: EUR
 price: 2.01

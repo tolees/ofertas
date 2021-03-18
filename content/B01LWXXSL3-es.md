@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWXXSL3-es Tangle Teezer the Ultimate Finishing Cepillo Color Negro...'
 sku: 'B01LWXXSL3-es'
+tags: [  ]
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

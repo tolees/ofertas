@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K8SK3OC-es Yazilind deslumbrante Oro plateado alrojoedor Pear cortada...'
 sku: 'B00K8SK3OC-es'
+tags: [  ]
 actualPrice: 3.76 EUR
 currency: EUR
 price: 3.76

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZP8R6Q-es Hcpet Quitapelos y Rodillos para Mascotas Cepillo de...'
 sku: 'B07RZP8R6Q-es'
+tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

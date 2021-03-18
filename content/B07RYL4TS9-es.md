@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYL4TS9-es New Balance 373v2 n Zapatillas para Mujer Blanco...'
 sku: 'B07RYL4TS9-es'
+tags: [  ]
 actualPrice: 25.96 EUR
 currency: EUR
 price: 25.96

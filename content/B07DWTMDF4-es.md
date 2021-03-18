@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWTMDF4-es eXtremeRate 30 Piezas/Set Adhesivo para la Barra de luz...'
 sku: 'B07DWTMDF4-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

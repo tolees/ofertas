@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MXWQ6RW-es GLOBE Motley Zapatillas de Skateboard para Hombre Negro...'
 sku: 'B07MXWQ6RW-es'
+tags: [  ]
 actualPrice: 20.7 EUR
 currency: EUR
 price: 20.7

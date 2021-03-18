@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQC22H4-es Ferilinso Cristal Templado para Xiaomi Mi A3 Protector de...'
 sku: 'B07QQC22H4-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

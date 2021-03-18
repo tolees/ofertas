@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085T1FZ6V-es Acoolir Ventilador sin Aspas Silencioso de Viento Natural...'
 sku: 'B085T1FZ6V-es'
+tags: [  ]
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

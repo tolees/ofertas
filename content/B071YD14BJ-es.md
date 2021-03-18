@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YD14BJ-es Cowboy Bebop Blu-Ray Edición Coleccionistas [Blu-ray]'
 sku: 'B071YD14BJ-es'
+tags: [  ]
 actualPrice: 45.54 EUR
 currency: EUR
 price: 45.54

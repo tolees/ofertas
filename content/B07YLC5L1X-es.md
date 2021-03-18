@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YLC5L1X-es Warriors Orochi 4 Ultimate'
 sku: 'B07YLC5L1X-es'
+tags: [  ]
 actualPrice: 41.92 EUR
 currency: EUR
 price: 41.92

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B6PRKK3-es Relec Día y Noche - Difusor y Recambio Antimosquitos...'
 sku: 'B08B6PRKK3-es'
+tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

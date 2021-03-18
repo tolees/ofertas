@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW53VBK-es Skechers Street Cleats 2 Zapatillas para Mujer Olive...'
 sku: 'B07NW53VBK-es'
+tags: [  ]
 actualPrice: 26.35 EUR
 currency: EUR
 price: 26.35

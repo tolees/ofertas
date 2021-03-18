@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWBJNJQ-es Recambios Cepillo Compatible Aiemok 16 Cabezales de...'
 sku: 'B07VWBJNJQ-es'
+tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

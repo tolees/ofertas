@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZBPF1B-es Under Armour UA Tech Mesh Short Pantalones Cortos Hombre...'
 sku: 'B07CZBPF1B-es'
+tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

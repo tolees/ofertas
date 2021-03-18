@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P1RZFVZ-es Alambre de soldadura sin plomo 0.8mm Hilo de estaño para...'
 sku: 'B07P1RZFVZ-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

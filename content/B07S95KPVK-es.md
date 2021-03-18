@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S95KPVK-es Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas...'
 sku: 'B07S95KPVK-es'
+tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

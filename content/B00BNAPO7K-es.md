@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BNAPO7K-es Lancaster Suractif Comfort Lift Rich Day Cream 50 ml'
 sku: 'B00BNAPO7K-es'
+tags: [  ]
 actualPrice: 47.17 EUR
 currency: EUR
 price: 47.17

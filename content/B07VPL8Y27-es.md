@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPL8Y27-es Tommy Hilfiger Kids Plaque Belt 3.0 Cinturón Rojo Blush...'
 sku: 'B07VPL8Y27-es'
+tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

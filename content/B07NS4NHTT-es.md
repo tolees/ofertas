@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NS4NHTT-es GP-PRO GB10L-B 12V 11Ah GEL Batería de arranque compatible...'
 sku: 'B07NS4NHTT-es'
+tags: [  ]
 actualPrice: 52.21 EUR
 currency: EUR
 price: 52.21

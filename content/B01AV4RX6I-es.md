@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AV4RX6I-es Hugo Boss - Reloj para hombre - 1513327'
 sku: 'B01AV4RX6I-es'
+tags: [  ]
 actualPrice: 150.12 EUR
 currency: EUR
 price: 150.12

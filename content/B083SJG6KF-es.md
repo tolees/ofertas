@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SJG6KF-es Home Fleek - Envases de Vidrio para Alimentos | 4...'
 sku: 'B083SJG6KF-es'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

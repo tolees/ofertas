@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9D8YDC-es adidas RUN80S Zapatillas para Hombre Gris Grey/Grey/Hi-Res...'
 sku: 'B07D9D8YDC-es'
+tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

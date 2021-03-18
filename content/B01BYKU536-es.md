@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BYKU536-es Got2b - Espuma Twisted Rizos Perfectos - 3 unidades de...'
 sku: 'B01BYKU536-es'
+tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

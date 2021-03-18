@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L4GQQ46-es WowPrint - Bolsa de maquillaje para mujer diseño de...'
 sku: 'B07L4GQQ46-es'
+tags: [  ]
 actualPrice: 12.16 EUR
 currency: EUR
 price: 12.16

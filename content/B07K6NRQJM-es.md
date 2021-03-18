@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6NRQJM-es Columbia Snuggly Bunny Mono de esquí infantil Niña Rosa...'
 sku: 'B07K6NRQJM-es'
+tags: [  ]
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

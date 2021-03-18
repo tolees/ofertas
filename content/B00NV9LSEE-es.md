@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NV9LSEE-es Transcend StoreJet 500 - 512GB SSD Externo Metálico para...'
 sku: 'B00NV9LSEE-es'
+tags: [  ]
 actualPrice: 203.83 EUR
 currency: EUR
 price: 203.83

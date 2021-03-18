@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FM1MLN-es find. Zapatillas Clásicas con Cordones para Hombre Azul...'
 sku: 'B072FM1MLN-es'
+tags: [  ]
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

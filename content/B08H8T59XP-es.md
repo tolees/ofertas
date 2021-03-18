@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H8T59XP-es MoreCro 5 Piezas Botellas de Viaje Portátiles de 50ml con...'
 sku: 'B08H8T59XP-es'
+tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

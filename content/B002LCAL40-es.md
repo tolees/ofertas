@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002LCAL40-es Bosch Professional BT 300 HD Trípode para nivel láser y...'
 sku: 'B002LCAL40-es'
+tags: [  ]
 actualPrice: 140.8 EUR
 currency: EUR
 price: 140.8

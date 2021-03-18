@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HLCG3M-es find. MDR 40625 vestidos mujer Verde Green 46 Talla del...'
 sku: 'B077HLCG3M-es'
+tags: [  ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

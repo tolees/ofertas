@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XRF2LYG-es Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B06XRF2LYG-es'
+tags: [  ]
 actualPrice: 144.46 EUR
 currency: EUR
 price: 144.46

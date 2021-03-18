@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0867HXK3Q-es Masajeador facial LED dispositivos reafirmantes con forma...'
 sku: 'B0867HXK3Q-es'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

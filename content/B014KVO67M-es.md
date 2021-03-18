@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014KVO67M-es Nostalgic-Art 48016 - Llavero Redondo Forma de tacómetro...'
 sku: 'B014KVO67M-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

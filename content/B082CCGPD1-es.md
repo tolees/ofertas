@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082CCGPD1-es 100 Ml Original Mujer Elegante Perfume Señora Perfume...'
 sku: 'B082CCGPD1-es'
+tags: [  ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

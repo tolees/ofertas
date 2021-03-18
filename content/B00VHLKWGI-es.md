@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VHLKWGI-es 1/12 Casa De Munecas Muebles En Miniatura Nevera Refrigerador'
 sku: 'B00VHLKWGI-es'
+tags: [  ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

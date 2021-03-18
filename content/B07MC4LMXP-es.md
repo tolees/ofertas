@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC4LMXP-es Suhu Redondo Puff Baúl Taburete de Terciopelo Asiento...'
 sku: 'B07MC4LMXP-es'
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

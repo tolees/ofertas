@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZGDDHB-es YWLINK Mezcla de algodón sin mangas del verano cómodo...'
 sku: 'B07SZGDDHB-es'
+tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

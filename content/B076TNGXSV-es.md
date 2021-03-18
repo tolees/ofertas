@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076TNGXSV-es Funko Pop!- Comics: Saga Marko W/Sword Figura de Vinilo 27414'
 sku: 'B076TNGXSV-es'
+tags: [  ]
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

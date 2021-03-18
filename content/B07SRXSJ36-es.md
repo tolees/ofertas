@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRXSJ36-es adidas Coast Star Zapatillas de Gimnasia para Hombre...'
 sku: 'B07SRXSJ36-es'
+tags: [  ]
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

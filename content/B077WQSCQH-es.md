@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077WQSCQH-es Hatteker Tondeuse Cheveux Tondeuse Barbe Professionnelle...'
 sku: 'B077WQSCQH-es'
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

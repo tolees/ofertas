@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0751RPVZ4-es New Balance 574 Core Plus Zapatillas para Hombre Azul...'
 sku: 'B0751RPVZ4-es'
+tags: [  ]
 actualPrice: 58.35 EUR
 currency: EUR
 price: 58.35

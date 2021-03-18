@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVQNHK3-es Adidas Daily 2.0 Zapatillas para Hombre Negro Black F34468...'
 sku: 'B07MVQNHK3-es'
+tags: [  ]
 actualPrice: 34.74 EUR
 currency: EUR
 price: 34.74

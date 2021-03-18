@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGH27ZS-es Transportín Perro Gato Bolsa de Transporte Transpirable...'
 sku: 'B07MGH27ZS-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

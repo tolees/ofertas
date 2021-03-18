@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYQMMS9-es Termómetro Infrarrojo HANMATEK Termómetro Láser Pistola de...'
 sku: 'B07NYQMMS9-es'
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G6DGSB4-es Utensilios barbacoa Blusmart Juego de utensilios para...'
 sku: 'B01G6DGSB4-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

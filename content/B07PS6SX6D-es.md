@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PS6SX6D-es Under Armour UA Knockout Tank Camiseta de Tirantes...'
 sku: 'B07PS6SX6D-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DCP9JG-es Trust GXT 310C Radius - Auriculares Gaming Multi-...'
 sku: 'B075DCP9JG-es'
+tags: [  ]
 actualPrice: 17.42 EUR
 currency: EUR
 price: 17.42

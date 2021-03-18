@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8KJJ8J-es Castellanísimos Mocasines de Mujer en Piel Florentic...'
 sku: 'B07H8KJJ8J-es'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

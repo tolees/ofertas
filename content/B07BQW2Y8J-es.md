@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQW2Y8J-es Wonyered Caja de Seguridad Cerradura Fuerte con 4 Numeros...'
 sku: 'B07BQW2Y8J-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

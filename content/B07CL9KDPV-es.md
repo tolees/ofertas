@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CL9KDPV-es LOL Surprise - Under Wraps Modelo Surtido 1 Pieza'
 sku: 'B07CL9KDPV-es'
+tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LH27HM3-es Intex-57500NP Set 3 posavasos hinchables diseño de...'
 sku: 'B07LH27HM3-es'
+tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

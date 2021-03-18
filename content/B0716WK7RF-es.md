@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716WK7RF-es Asics Kanmei Zapatillas de Running para Hombre Azul...'
 sku: 'B0716WK7RF-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

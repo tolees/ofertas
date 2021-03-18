@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZPQDV7-es Marvel VS Capcom Infinite'
 sku: 'B071ZPQDV7-es'
+tags: [  ]
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

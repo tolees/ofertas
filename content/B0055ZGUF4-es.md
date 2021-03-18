@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0055ZGUF4-es Jata 610 - Báscula de cocina'
 sku: 'B0055ZGUF4-es'
+tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

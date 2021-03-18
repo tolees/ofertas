@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ1TYXM-es Grid Day One Edition XONE'
 sku: 'B07SJ1TYXM-es'
+tags: [  ]
 actualPrice: 39.85 EUR
 currency: EUR
 price: 39.85

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OHVT2SO-es Marshall Mode EQ - Auriculares in-ear color negro'
 sku: 'B00OHVT2SO-es'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

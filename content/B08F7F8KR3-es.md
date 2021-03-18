@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F7F8KR3-es Lepeuxi Maquina de Gofres Mini Waffle Maker Máquina de...'
 sku: 'B08F7F8KR3-es'
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZZF2CHS-es Lee Luke Jeans True Authentic Gcby 32W / 30L para Hombre'
 sku: 'B06ZZF2CHS-es'
+tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

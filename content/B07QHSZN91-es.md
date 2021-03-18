@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QHSZN91-es Taladro Percutor GALAX PRO 600W Mejorado Taladro Percutor...'
 sku: 'B07QHSZN91-es'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014SD75GQ-es Nike MD Runner 2 PSV Zapatillas Unisex Niños Negro Black...'
 sku: 'B014SD75GQ-es'
+tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

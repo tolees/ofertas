@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQBMNNR-es Uten Batidoras Multifuncional Máquina de Batidos de...'
 sku: 'B07KQBMNNR-es'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

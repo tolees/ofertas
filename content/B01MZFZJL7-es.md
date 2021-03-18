@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZFZJL7-es Dickies New York Short Pantalones Cortos Deportivos Beige...'
 sku: 'B01MZFZJL7-es'
+tags: [  ]
 actualPrice: 11.12 EUR
 currency: EUR
 price: 11.12

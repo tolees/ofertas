@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVBSCFC-es FIND - Princess of Shine Barra de labios mate n.5 + Brillo...'
 sku: 'B07CVBSCFC-es'
+tags: [  ]
 actualPrice: 2.81 EUR
 currency: EUR
 price: 2.81

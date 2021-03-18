@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ5JQSH-es Libershine Organizadores de Viaje para Maletas 8 Set de...'
 sku: 'B07RZ5JQSH-es'
+tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

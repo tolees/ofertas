@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWTVCBR-es Crema para los ojos reduce las arrugas y las arrugas...'
 sku: 'B07PWTVCBR-es'
+tags: [  ]
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

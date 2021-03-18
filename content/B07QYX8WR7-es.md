@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QYX8WR7-es Stor Vaso Easy 260 ML | Frozen 2'
 sku: 'B07QYX8WR7-es'
+tags: [  ]
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

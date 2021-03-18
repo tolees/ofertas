@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X476DGT-es Mentos Chicle Sin Azúcar Full Fruit Bote con Sabor a...'
 sku: 'B07X476DGT-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

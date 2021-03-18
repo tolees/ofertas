@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8BV7YH-es Eyoyo - Monitor LCD HDMI portátil 1280 x 800 16:10...'
 sku: 'B07S8BV7YH-es'
+tags: [  ]
 actualPrice: 99.28 EUR
 currency: EUR
 price: 99.28

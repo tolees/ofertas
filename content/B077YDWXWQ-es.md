@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YDWXWQ-es Sylvie Flirty Swimwear Bendi Traje de Baño de Una Pieza...'
 sku: 'B077YDWXWQ-es'
+tags: [  ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GTD5SBC-es devolo Magic 2 LAN - Extensión PLC y Enchufe 2400 Mbps LAN'
 sku: 'B07GTD5SBC-es'
+tags: [  ]
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

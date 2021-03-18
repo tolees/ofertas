@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0782TYKH5-es Cuencos mezcladores apilables de acero inoxidable acabado...'
 sku: 'B0782TYKH5-es'
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

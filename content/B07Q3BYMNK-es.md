@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3BYMNK-es Ferilinso Cristal Templado para Xiaomi Mi 9 Lite Redmi...'
 sku: 'B07Q3BYMNK-es'
+tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

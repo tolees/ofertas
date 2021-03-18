@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072QFLXM7-es Panama Jack Glasgow Igloo Botas Clasicas para Hombre Negro...'
 sku: 'B072QFLXM7-es'
+tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

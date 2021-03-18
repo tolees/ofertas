@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XD29BN-es Uso duradero Accesorios de piezas de repuesto para...'
 sku: 'B082XD29BN-es'
+tags: [  ]
 actualPrice: 1.57 EUR
 currency: EUR
 price: 1.57

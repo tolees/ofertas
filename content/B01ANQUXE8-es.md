@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ANQUXE8-es Toner Kingdom Cartuchos de Tinta HP 903 903L 903XL...'
 sku: 'B01ANQUXE8-es'
+tags: [  ]
 actualPrice: 15.88 EUR
 currency: EUR
 price: 15.88

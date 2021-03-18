@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086KF9SQD-es Bullpadel Hack Knit 2019 Gris Num 46 Zapatillas Deportivas...'
 sku: 'B086KF9SQD-es'
+tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

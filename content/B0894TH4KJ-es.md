@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894TH4KJ-es Adaptador Bluetooth 5.0 Receptor Transmisor Bluetooth 2 en...'
 sku: 'B0894TH4KJ-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

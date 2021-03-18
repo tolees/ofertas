@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081YM8RJW-es Weekend Peninsula 5 Pares Calcetines Running Deportivos...'
 sku: 'B081YM8RJW-es'
+tags: [  ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9FRV8Q-es Under Armour Speed Stride Capri Legging Mujer Negro SM'
 sku: 'B07L9FRV8Q-es'
+tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

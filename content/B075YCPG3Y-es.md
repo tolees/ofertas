@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075YCPG3Y-es Metal MP3 Reproductor Bluetooth con Pantalla táctil Benjie...'
 sku: 'B075YCPG3Y-es'
+tags: [  ]
 actualPrice: 21.8 EUR
 currency: EUR
 price: 21.8

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WR3VSH2-es Skechers Men s Equalizer-Double Play Moccasins Black Black...'
 sku: 'B00WR3VSH2-es'
+tags: [  ]
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTRNRD4-es FIND - Sunkissed radiance duo - medio Bronceador n.2 +...'
 sku: 'B07CTRNRD4-es'
+tags: [  ]
 actualPrice: 4.16 EUR
 currency: EUR
 price: 4.16

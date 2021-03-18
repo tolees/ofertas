@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLKVTCJ-es Versace Jeans CoutureMarsupioMujerBolso de manoAzul Blu...'
 sku: 'B07NLKVTCJ-es'
+tags: [  ]
 actualPrice: 72.61 EUR
 currency: EUR
 price: 72.61

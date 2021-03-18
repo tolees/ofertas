@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMM9CMT-es TUBBZ Fallout T-51 Collectible Duck'
 sku: 'B07WMM9CMT-es'
+tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

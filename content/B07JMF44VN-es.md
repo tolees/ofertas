@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMF44VN-es SAMSUNG Wallet Cover Galaxy A9 Pink'
 sku: 'B07JMF44VN-es'
+tags: [  ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

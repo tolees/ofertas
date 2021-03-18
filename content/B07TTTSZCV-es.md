@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTTSZCV-es Skechers Equalizer 4.0 Zapatillas sin Cordones para Hombre...'
 sku: 'B07TTTSZCV-es'
+tags: [  ]
 actualPrice: 34.85 EUR
 currency: EUR
 price: 34.85

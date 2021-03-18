@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078MDPC2Y-es Asics Gel-Pulse 9 Zapatillas de Entrenamiento para Mujer...'
 sku: 'B078MDPC2Y-es'
+tags: [  ]
 actualPrice: 59.89 EUR
 currency: EUR
 price: 59.89

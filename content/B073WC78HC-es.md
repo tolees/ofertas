@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073WC78HC-es Colchón ANTIAHOGO Bebé Plastificado para Minicuna blanco...'
 sku: 'B073WC78HC-es'
+tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

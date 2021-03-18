@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006JVAX0Q-es Reebok Classic Leather Zapatillas de Running Niños Blanco...'
 sku: 'B006JVAX0Q-es'
+tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

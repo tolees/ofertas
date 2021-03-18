@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFZ2BF5-es PUMA Cali Bold Wn s Zapatillas Deportivas para Mujer...'
 sku: 'B07KFZ2BF5-es'
+tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

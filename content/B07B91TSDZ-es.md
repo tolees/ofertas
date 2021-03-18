@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B91TSDZ-es Clarks Rushwaymid GTX Botas Chelsea para Hombre Negro Blk...'
 sku: 'B07B91TSDZ-es'
+tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

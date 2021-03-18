@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MCJ0QP6-es Nike Wmns Flex Experience RN 8 Zapatillas de Running para...'
 sku: 'B00MCJ0QP6-es'
+tags: [  ]
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082C4HSPD-es Moliies Ligas de Hombre 1 par de Liguero Individual...'
 sku: 'B082C4HSPD-es'
+tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

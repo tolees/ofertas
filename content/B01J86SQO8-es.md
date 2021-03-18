@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J86SQO8-es Everlast Locker - Pantalones cortos de baloncesto para...'
 sku: 'B01J86SQO8-es'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

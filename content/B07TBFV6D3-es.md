@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBFV6D3-es IXROAD 4K 30fps Cámara Deportiva Acción 16MP WiFi Action...'
 sku: 'B07TBFV6D3-es'
+tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS39QR3-es Clarks Un Trail Form Derbys Derby Braun Mahogany Leather...'
 sku: 'B07VS39QR3-es'
+tags: [  ]
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

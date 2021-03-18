@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0751L7NGY-es Samsung Gear Fit 2 Pro - Pulsera de Fitness de 1.5 4 GB 1...'
 sku: 'B0751L7NGY-es'
+tags: [  ]
 actualPrice: 130 EUR
 currency: EUR
 price: 130

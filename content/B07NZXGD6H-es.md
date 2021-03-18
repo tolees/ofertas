@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZXGD6H-es Dickies Adairville suéter Azul X-Small Talla del...'
 sku: 'B07NZXGD6H-es'
+tags: [  ]
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

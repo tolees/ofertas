@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG13X6P-es New Balance 997h Zapatillas para Mujer Blanco Off White...'
 sku: 'B07HG13X6P-es'
+tags: [  ]
 actualPrice: 48.06 EUR
 currency: EUR
 price: 48.06

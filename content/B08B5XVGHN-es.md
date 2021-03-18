@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5XVGHN-es Novokart-Mountain Bike Unisex Bicicletas montaña 21/24/27...'
 sku: 'B08B5XVGHN-es'
+tags: [  ]
 actualPrice: 120.0 EUR
 currency: EUR
 price: 120.0

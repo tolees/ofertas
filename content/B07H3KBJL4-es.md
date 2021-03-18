@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3KBJL4-es ZAFUL Mujeres Pantalones con Cordones a Rayas Pantalones...'
 sku: 'B07H3KBJL4-es'
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXVNLQP-es Skechers Elite Flex Zapatillas para Hombre Gris Charcoal...'
 sku: 'B07NXVNLQP-es'
+tags: [  ]
 actualPrice: 25.21 EUR
 currency: EUR
 price: 25.21

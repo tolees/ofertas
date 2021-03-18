@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XLTH84Y-es Old Spice Citron Antitranspirante y Desodorante en Barra...'
 sku: 'B07XLTH84Y-es'
+tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

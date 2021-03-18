@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J7YNS12-es Bandas de resistencia ejercicio con asas deportes casa y...'
 sku: 'B01J7YNS12-es'
+tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

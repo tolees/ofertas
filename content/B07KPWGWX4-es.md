@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPWGWX4-es Brazalete Deportivo Brazalete Running Armband Movil...'
 sku: 'B07KPWGWX4-es'
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

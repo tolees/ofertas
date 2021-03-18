@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y1PJF4T-es BRIKSMAX Kit de Iluminación Led para Lego Jurassic World...'
 sku: 'B07Y1PJF4T-es'
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

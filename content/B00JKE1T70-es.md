@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JKE1T70-es Repuesto de bombilla Foxnovo en forma de U de 9 W y 365...'
 sku: 'B00JKE1T70-es'
+tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMHGV8L-es Levi s Original Batwing Multicolor Hm Patch Polo Dress...'
 sku: 'B07TMHGV8L-es'
+tags: [  ]
 actualPrice: 27.22 EUR
 currency: EUR
 price: 27.22

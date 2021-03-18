@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDPKHHV-es MEDION X30 RGB - Ordenador de sobremesa gaming Intel Core...'
 sku: 'B07NDPKHHV-es'
+tags: [  ]
 actualPrice: 579.99 EUR
 currency: EUR
 price: 579.99

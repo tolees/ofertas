@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSK57NG-es Qkiss Cepillo de Pelo de Lana Suave y Cómodo Cepillo de...'
 sku: 'B07TSK57NG-es'
+tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071V2CMKK-es Arena Magnus Bañador Hombre Azul Blue Navy 100'
 sku: 'B071V2CMKK-es'
+tags: [  ]
 actualPrice: 17.91 EUR
 currency: EUR
 price: 17.91

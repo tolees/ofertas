@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YW8QWXK-es SUNLU 3D Printer Power Supply'
 sku: 'B07YW8QWXK-es'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

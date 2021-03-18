@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDQ95B9-es Webcam 1080P AUSDOM HD Cámara para Ordenador con Micrófono...'
 sku: 'B07PDQ95B9-es'
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

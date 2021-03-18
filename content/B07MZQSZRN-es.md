@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQSZRN-es Pepe Jeans Emerson Jeans para Niños Azul Medium Used Denim...'
 sku: 'B07MZQSZRN-es'
+tags: [  ]
 actualPrice: 20.17 EUR
 currency: EUR
 price: 20.17

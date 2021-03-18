@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D1H5B6G-es Asics Gel-Quantum 360 Knit 2 T840n-001 Zapatillas de...'
 sku: 'B07D1H5B6G-es'
+tags: [  ]
 actualPrice: 80 EUR
 currency: EUR
 price: 80

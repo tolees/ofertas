@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SF2GQTJ-es Carpeta con recambio Europeanbinder A4+ Oxford Touch color...'
 sku: 'B07SF2GQTJ-es'
+tags: [  ]
 actualPrice: 7.6 EUR
 currency: EUR
 price: 7.6

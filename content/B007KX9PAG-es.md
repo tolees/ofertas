@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007KX9PAG-es Danish Design 3310081 - Reloj analógico de Cuarzo para...'
 sku: 'B007KX9PAG-es'
+tags: [  ]
 actualPrice: 95.93 EUR
 currency: EUR
 price: 95.93

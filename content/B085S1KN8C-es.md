@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085S1KN8C-es MIWIND 24 parches para planchar en el coche de ingeniería...'
 sku: 'B085S1KN8C-es'
+tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

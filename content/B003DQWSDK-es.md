@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003DQWSDK-es Gembird 1.8m USB 2.0 A/Micro-B M - Cable USB 2.0 a Micro...'
 sku: 'B003DQWSDK-es'
+tags: [  ]
 actualPrice: 1.04 EUR
 currency: EUR
 price: 1.04

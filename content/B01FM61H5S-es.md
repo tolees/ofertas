@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FM61H5S-es HBF 5 Pares Calcetines Cortos Hombre Algodon Calcetines...'
 sku: 'B01FM61H5S-es'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

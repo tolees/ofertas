@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HTHZN3-es Piquadro BV3849MO Modus Trolley para portátil 40 x 20 x 55...'
 sku: 'B071HTHZN3-es'
+tags: [  ]
 actualPrice: 358.45 EUR
 currency: EUR
 price: 358.45

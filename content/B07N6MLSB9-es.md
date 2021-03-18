@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6MLSB9-es Tommy Hilfiger Th Rib Scarf Bufanda Blue Cjm Talla única...'
 sku: 'B07N6MLSB9-es'
+tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

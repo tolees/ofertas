@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYZR8YK-es Max Factor Skin Match Blush Colorete Tono 0075- 8.25 gr'
 sku: 'B07TYZR8YK-es'
+tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

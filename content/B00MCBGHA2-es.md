@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MCBGHA2-es Seiko Reloj Analógico Automático para Hombre con Correa de...'
 sku: 'B00MCBGHA2-es'
+tags: [  ]
 actualPrice: 243 EUR
 currency: EUR
 price: 243

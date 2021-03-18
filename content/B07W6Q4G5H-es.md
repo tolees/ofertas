@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6Q4G5H-es SWIHELP Organizadores para Coche 2 Pack Kick Mats de Coche...'
 sku: 'B07W6Q4G5H-es'
+tags: [  ]
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

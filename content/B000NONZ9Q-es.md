@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NONZ9Q-es Shimano SMMAF203PPA - Adaptador Pinza Delant. Post...'
 sku: 'B000NONZ9Q-es'
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99
