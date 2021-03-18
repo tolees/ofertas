@@ -29,8 +29,8 @@ Tienes [SofLens 59 Lentes de Contacto Mensuales  Incoloro  Dioptría -2.5  Caja 
 🔎:
 
 - Diseñadas para uso diario con la frecuencia de sustitución indicada por el profesional de la visión.
+- Para miopía o hipermetropía.
 - Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
 - Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
-- Para miopía o hipermetropía.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B004LHIMDU/?tag=tolees-21)

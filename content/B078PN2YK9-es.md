@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Soehnle 68096 Systo Monitor 300 Connect  al 56.93 % de rebaja'
-date: 2021-03-16 21:09:53
+date: 2021-03-18 22:24:22
 image: 'https://m.media-amazon.com/images/I/41inYAWtS4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B078PN2YK9-es Soehnle 68096 Systo Monitor 300 Connect - Tensiómetro...'
 sku: 'B078PN2YK9-es'
+tags: [ 'Monitores de diagnóstico y salud','Salud y cuidado personal','Suministros y equipamiento médico','Tensiómetros','Tensiómetros de muñeca','soehnle', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Soehnle'
 buyurl: 'https://www.amazon.es/dp/B078PN2YK9/?tag=tolees-21'
 descuento: '56.93'
-average: '19.996'
+average: '20.245'
 ---
 
 Tienes [Soehnle 68096 Systo Monitor 300 Connect - Tensiómetro  Gris/Blanco  Único](https://www.amazon.es/dp/B078PN2YK9/?tag=tolees-21) con precio final de  21.49 EUR (original: 49.9 EUR) (56.93 %  de rebaja) aqui!

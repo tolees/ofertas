@@ -28,8 +28,8 @@ Ahora mismo tienes [Silverline Tools - Silverline 140868 - Visor de protección 
 
 🔎:
 
-- Bandas acolchadas para más comodidad, punto único de ajuste de la hebilla
 - Conforme a EN1731
+- Bandas acolchadas para más comodidad, punto único de ajuste de la hebilla
 - Visor con malla
 - Para utilizar con desbrozadoras, cortasetos, etc.
 
