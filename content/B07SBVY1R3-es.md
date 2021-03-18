@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Only Onlcoral Superlow SK JNS BB Crya041 con un 42.51 % de descuento'
-date: 2021-03-16 09:11:03
+date: 2021-03-18 08:37:29
 image: 'https://m.media-amazon.com/images/I/31mjTfjpVCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SBVY1R3-es Only Onlcoral Superlow SK JNS BB Crya041 Noos Vaqueros...'
 sku: 'B07SBVY1R3-es'
-tags: [  ]
+tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','Ropa','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','only', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99
