@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZDYWRL-es Auna iTuner 320 - Radio con Internet Sintonizador HiFi...'
 sku: 'B077ZDYWRL-es'
-tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

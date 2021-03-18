@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9JNRPQ-es Timex Reloj de Pulsera TW2R96400'
 sku: 'B07N9JNRPQ-es'
-tags: [  ]
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

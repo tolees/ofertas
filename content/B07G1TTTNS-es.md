@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G1TTTNS-es Torno de Uñas Profesional de 20000 RPM morpilot Kit...'
 sku: 'B07G1TTTNS-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

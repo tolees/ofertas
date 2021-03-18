@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VCLF7S-es BLACK+DECKER BEG210K-QS Amoladora 900 W Disco 115 mm'
 sku: 'B079VCLF7S-es'
-tags: [  ]
 actualPrice: 38.39 EUR
 currency: EUR
 price: 38.39

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P36SLJJ-es Skechers Zinger Zapatillas para Hombre Azul Blue...'
 sku: 'B07P36SLJJ-es'
-tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

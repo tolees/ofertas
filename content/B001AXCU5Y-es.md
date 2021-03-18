@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001AXCU5Y-es Victorinox V02363.T Navaja Rojo M'
 sku: 'B001AXCU5Y-es'
-tags: [  ]
 actualPrice: 16.32 EUR
 currency: EUR
 price: 16.32

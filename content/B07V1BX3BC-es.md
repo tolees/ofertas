@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1BX3BC-es Parfois - Bandolera De Ante - Mujeres - Tallas M - Gris Pardo'
 sku: 'B07V1BX3BC-es'
-tags: [  ]
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

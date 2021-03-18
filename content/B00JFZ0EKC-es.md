@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFZ0EKC-es Accurist Reloj de Pulsera MS1036NN'
 sku: 'B00JFZ0EKC-es'
-tags: [  ]
 actualPrice: 95.37 EUR
 currency: EUR
 price: 95.37

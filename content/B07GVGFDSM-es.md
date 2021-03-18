@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVGFDSM-es UniqueMe Funda para iPhone XS MAX 2018 Ultra [Slim Thin]...'
 sku: 'B07GVGFDSM-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

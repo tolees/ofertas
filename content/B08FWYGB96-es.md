@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FWYGB96-es Funda universal para tableta portátil Funda ultra suave a...'
 sku: 'B08FWYGB96-es'
-tags: [  ]
 actualPrice: 1.44 EUR
 currency: EUR
 price: 1.44

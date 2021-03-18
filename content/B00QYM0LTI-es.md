@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QYM0LTI-es Sony VG-C2EM - Accesorio de Agarre Vertical para cámaras...'
 sku: 'B00QYM0LTI-es'
-tags: [  ]
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

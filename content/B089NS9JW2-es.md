@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NS9JW2-es Xiaomi Band 5 Unisex adulto Negro Normal'
 sku: 'B089NS9JW2-es'
-tags: [ 'xiaomi', ]
 actualPrice: 27.76 EUR
 currency: EUR
 price: 27.76

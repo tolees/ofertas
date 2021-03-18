@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XR17QSM-es Bosch Home and Garden - Bosch EasyImpact 550 - Taladro...'
 sku: 'B06XR17QSM-es'
-tags: [  ]
 actualPrice: 43.0 EUR
 currency: EUR
 price: 43.0

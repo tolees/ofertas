@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVY4BQV-es AZDOME Arrancador de Coche Booster 800A 18000mAh...'
 sku: 'B07CVY4BQV-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

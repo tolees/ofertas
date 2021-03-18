@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQZT36H-es ASUS DUAL-GTX1650-O4G - Tarjeta gráfica 4 GB GDDR5 OC 1755...'
 sku: 'B07QQZT36H-es'
-tags: [  ]
 actualPrice: 149.89 EUR
 currency: EUR
 price: 149.89

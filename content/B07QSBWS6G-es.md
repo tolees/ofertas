@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QSBWS6G-es Funko - Pop! Disney: Frozen 2 - Anna Figurina Multicolor...'
 sku: 'B07QSBWS6G-es'
-tags: [  ]
 actualPrice: 9.94 EUR
 currency: EUR
 price: 9.94

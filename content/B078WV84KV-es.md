@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WV84KV-es Maclaren Quest Silla de paseo - ligero para recién nacidos...'
 sku: 'B078WV84KV-es'
-tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

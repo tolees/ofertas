@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TIWGURI-es Lacoste Crew Neck-sudadera Hombre gris Argent Chine X-Small'
 sku: 'B00TIWGURI-es'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

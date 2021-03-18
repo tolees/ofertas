@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CS5KK22-es Instituto Español Crema Reparadora Piel Seca de Urea al...'
 sku: 'B01CS5KK22-es'
-tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

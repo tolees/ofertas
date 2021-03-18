@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RHZF8HX-es Nihlsfen Soporte para LCD pequeño Soporte de TV de 14-32...'
 sku: 'B08RHZF8HX-es'
-tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PGL4G2R-es Sport Science - Science in Sport SiS Go Gel Energía...'
 sku: 'B07PGL4G2R-es'
-tags: [  ]
 actualPrice: 19.3 EUR
 currency: EUR
 price: 19.3

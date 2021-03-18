@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N9DNJ5X-es JBL LIVE 400BT - Auriculares Inalámbricos con Bluetooth...'
 sku: 'B07N9DNJ5X-es'
-tags: [  ]
 actualPrice: 64.47 EUR
 currency: EUR
 price: 64.47

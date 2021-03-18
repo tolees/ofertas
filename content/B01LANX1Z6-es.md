@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LANX1Z6-es Castellanisimos Mocasines de Piel Marron Hombre Antifaz...'
 sku: 'B01LANX1Z6-es'
-tags: [  ]
 actualPrice: 67.0 EUR
 currency: EUR
 price: 67.0

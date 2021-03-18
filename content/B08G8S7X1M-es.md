@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G8S7X1M-es Vangonee - Panel lateral para monitor de ordenador panel...'
 sku: 'B08G8S7X1M-es'
-tags: [  ]
 actualPrice: 4.62 EUR
 currency: EUR
 price: 4.62

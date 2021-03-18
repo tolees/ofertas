@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01F97TXO2-es BRA Tekna - Set de ollas a presión rápida 4 y 7 litros de...'
 sku: 'B01F97TXO2-es'
-tags: [  ]
 actualPrice: 86.71 EUR
 currency: EUR
 price: 86.71

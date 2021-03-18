@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SQKDJF-es Numark Party Mix Pro - Controlador de DJ con Luces...'
 sku: 'B077SQKDJF-es'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

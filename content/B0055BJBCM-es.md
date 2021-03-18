@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0055BJBCM-es Garmin 010-11654-00 - Soporte'
 sku: 'B0055BJBCM-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LKFFTTJ-es SZXCX Tablero de Escritura Digital LCD Bloc de Notas para...'
 sku: 'B08LKFFTTJ-es'
-tags: [  ]
 actualPrice: 2.33 EUR
 currency: EUR
 price: 2.33

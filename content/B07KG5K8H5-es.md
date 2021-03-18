@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG5K8H5-es PUMA Smash v2 L V PS Zapatillas Unisex Niños Peacoat...'
 sku: 'B07KG5K8H5-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBBX4C5-es Funko - Pop! Harry Potter S7 - Harry Potter Yule Figura...'
 sku: 'B07PBBX4C5-es'
-tags: [ 'funko', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

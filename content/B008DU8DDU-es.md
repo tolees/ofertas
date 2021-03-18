@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008DU8DDU-es Equinox Escurridor Acero Inoxidable Centimeters'
 sku: 'B008DU8DDU-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

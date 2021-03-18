@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D8WGNWP-es Rimmel London Scandaleyes Reloaded Máscara de Pestañas -...'
 sku: 'B07D8WGNWP-es'
-tags: [  ]
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08RSLN45B-es M el vampiro de Düsseldorf Ed. Especial [Blu-ray]'
 sku: 'B08RSLN45B-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

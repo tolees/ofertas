@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072QYZ7LR-es Pinza Digital Multímetro Meterk Medida Amperímetro...'
 sku: 'B072QYZ7LR-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

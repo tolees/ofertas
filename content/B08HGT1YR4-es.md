@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HGT1YR4-es DOQAUS 2 Piezas Mini Termómetro Higrómetro Digital Medidor...'
 sku: 'B08HGT1YR4-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

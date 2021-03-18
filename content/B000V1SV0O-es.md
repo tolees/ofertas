@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000V1SV0O-es Shunga Toko Orgánica Lubricante Transparente - 165 ml'
 sku: 'B000V1SV0O-es'
-tags: [  ]
 actualPrice: 10.43 EUR
 currency: EUR
 price: 10.43

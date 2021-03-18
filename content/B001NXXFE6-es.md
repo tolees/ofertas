@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001NXXFE6-es Calvin Klein 3P Hip Brief Calzoncillos para Hombre 3...'
 sku: 'B001NXXFE6-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

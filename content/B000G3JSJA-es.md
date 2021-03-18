@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000G3JSJA-es Solac H101 - Quitapelusas electrico o a pilas con cabezal...'
 sku: 'B000G3JSJA-es'
-tags: [  ]
 actualPrice: 22.82 EUR
 currency: EUR
 price: 22.82

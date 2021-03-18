@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XDWG4PC-es Eudermin - Crema de manos protectora 30 ml'
 sku: 'B00XDWG4PC-es'
-tags: [  ]
 actualPrice: 0.68 EUR
 currency: EUR
 price: 0.68

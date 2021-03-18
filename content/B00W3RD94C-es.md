@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W3RD94C-es Joma - Calentador Lycra Record Marino para Hombre'
 sku: 'B00W3RD94C-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

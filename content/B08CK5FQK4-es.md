@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CK5FQK4-es Magicfun Micrófono Karaoke 3 en1 Bluetooth Microfono...'
 sku: 'B08CK5FQK4-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

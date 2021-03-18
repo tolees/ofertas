@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKKRHBF-es Asics Japan S Running Shoe Hombre Blanco 44.5 EU'
 sku: 'B07SKKRHBF-es'
-tags: [  ]
 actualPrice: 41.05 EUR
 currency: EUR
 price: 41.05

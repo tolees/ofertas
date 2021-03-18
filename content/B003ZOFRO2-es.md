@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ZOFRO2-es Bel Premium Bolas de Algodon 70 piezas'
 sku: 'B003ZOFRO2-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

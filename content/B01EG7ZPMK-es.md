@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EG7ZPMK-es Gigandet Reloj de Hombre Cuarzo Red Touch Cronógrafo...'
 sku: 'B01EG7ZPMK-es'
-tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

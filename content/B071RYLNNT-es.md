@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071RYLNNT-es Joma Tropical Malla Corta Mujer Verde S'
 sku: 'B071RYLNNT-es'
-tags: [  ]
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

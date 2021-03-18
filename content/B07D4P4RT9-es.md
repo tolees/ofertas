@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D4P4RT9-es Canal Toys SSC 011 Slime Factory - Juego creativo color...'
 sku: 'B07D4P4RT9-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

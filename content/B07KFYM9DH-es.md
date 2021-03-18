@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFYM9DH-es PUMA Basket Classic LFS Zapatillas Unisex Adultos White-...'
 sku: 'B07KFYM9DH-es'
-tags: [  ]
 actualPrice: 43.56 EUR
 currency: EUR
 price: 43.56

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VKJLZPQ-es adidas CONDIVO20 JSY T-Shirt Hombre White/Black L'
 sku: 'B07VKJLZPQ-es'
-tags: [  ]
 actualPrice: 18.61 EUR
 currency: EUR
 price: 18.61

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PNPX1KN-es UBEGOOD Cepillos de Dientes Eléctricos Cepillo de Dientes...'
 sku: 'B08PNPX1KN-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CRKGGQV-es FULL TIME SPORTS® 3 4 6 Paquete Assorted Langarm- Kurzarm...'
 sku: 'B07CRKGGQV-es'
-tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

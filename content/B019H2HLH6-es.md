@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019H2HLH6-es Wurko - Colador Manga Tipo Cono Plástico 12 cm'
 sku: 'B019H2HLH6-es'
-tags: [  ]
 actualPrice: 0.97 EUR
 currency: EUR
 price: 0.97

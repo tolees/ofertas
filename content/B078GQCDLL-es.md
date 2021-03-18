@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GQCDLL-es Maybelline New York Dream Radiant Liquid - Base de...'
 sku: 'B078GQCDLL-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001R4BR1O-es Mighty - Llave dinamométrica de 2-24 Nm con brocas...'
 sku: 'B001R4BR1O-es'
-tags: [  ]
 actualPrice: 43.12 EUR
 currency: EUR
 price: 43.12

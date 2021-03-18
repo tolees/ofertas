@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082HFX5PZ-es Timker 12V 24V 220V Fiambrera Electrica 3 in 1 para...'
 sku: 'B082HFX5PZ-es'
-tags: [  ]
 actualPrice: 17.85 EUR
 currency: EUR
 price: 17.85

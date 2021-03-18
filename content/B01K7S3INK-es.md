@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7S3INK-es Gillette Piel Sensible - Gel de Afeitado para Hombre 200 ml'
 sku: 'B01K7S3INK-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

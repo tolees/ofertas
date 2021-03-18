@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJSBY1L-es UniqueMe [1 Pack] Protector de Pantalla para Oneplus 7 Pro...'
 sku: 'B07RJSBY1L-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

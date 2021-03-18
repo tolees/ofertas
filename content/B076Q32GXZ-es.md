@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076Q32GXZ-es Multímetro Meterk 2000 Cuentas Multímetro Digital Multi...'
 sku: 'B076Q32GXZ-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

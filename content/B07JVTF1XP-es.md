@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVTF1XP-es MEDION MD61178 - Ordenador portátil de 15.6" Full HD Intel...'
 sku: 'B07JVTF1XP-es'
-tags: [  ]
 actualPrice: 899.99 EUR
 currency: EUR
 price: 899.99

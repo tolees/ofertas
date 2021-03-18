@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083DDV2FG-es PINPOXE - Delineador de ojos Delineador líquido de ojos...'
 sku: 'B083DDV2FG-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

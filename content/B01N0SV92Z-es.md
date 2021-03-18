@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N0SV92Z-es Bosch Home and Garden - Bosch Advanced GrassCut 36 -...'
 sku: 'B01N0SV92Z-es'
-tags: [  ]
 actualPrice: 171.99 EUR
 currency: EUR
 price: 171.99

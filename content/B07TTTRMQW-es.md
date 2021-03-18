@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTTRMQW-es Skechers Skech-Air Stratus Zapatillas para Hombre Gris...'
 sku: 'B07TTTRMQW-es'
-tags: [  ]
 actualPrice: 43.35 EUR
 currency: EUR
 price: 43.35

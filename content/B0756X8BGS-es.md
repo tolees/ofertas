@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0756X8BGS-es Razer Atheris Ratón Ergonómico para Juegos Gaming con una...'
 sku: 'B0756X8BGS-es'
-tags: [  ]
 actualPrice: 39.7 EUR
 currency: EUR
 price: 39.7

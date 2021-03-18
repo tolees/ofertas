@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8KZCR3-es Lee Luke Corduroy Pantalones Azul Dark Marine 21 31W / 32L...'
 sku: 'B07M8KZCR3-es'
-tags: [  ]
 actualPrice: 23.17 EUR
 currency: EUR
 price: 23.17

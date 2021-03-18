@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D9IRJJ4-es BQAN 1Pc Acrylic Nail Art Brush With Pink Rhinestone...'
 sku: 'B01D9IRJJ4-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

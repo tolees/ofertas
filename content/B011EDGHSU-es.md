@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011EDGHSU-es Apilables Recipiente De Lavado - Ideal para Camping Los...'
 sku: 'B011EDGHSU-es'
-tags: [  ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

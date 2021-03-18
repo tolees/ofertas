@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCS1RVD-es Adidas T19 KN SHO M Pantalones Cortos de Deporte Hombre...'
 sku: 'B07KCS1RVD-es'
-tags: [  ]
 actualPrice: 18.06 EUR
 currency: EUR
 price: 18.06

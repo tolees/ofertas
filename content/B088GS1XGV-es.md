@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088GS1XGV-es RunSnail Almohada Viaje para Reposacabezas del Asiento del...'
 sku: 'B088GS1XGV-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

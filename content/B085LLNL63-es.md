@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085LLNL63-es MKTOSASA-Set de Altavoz con Auriculares intraurales...'
 sku: 'B085LLNL63-es'
-tags: [  ]
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

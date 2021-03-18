@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XYKD82Y-es Meridiem Games - Gang Beasts'
 sku: 'B07XYKD82Y-es'
-tags: [  ]
 actualPrice: 21.37 EUR
 currency: EUR
 price: 21.37

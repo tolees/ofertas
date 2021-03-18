@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F9RWLT7-es Festina Reloj de Pulsera F20369/2'
 sku: 'B07F9RWLT7-es'
-tags: [ 'festina', ]
 actualPrice: 86.52 EUR
 currency: EUR
 price: 86.52

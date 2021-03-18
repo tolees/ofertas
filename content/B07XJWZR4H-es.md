@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XJWZR4H-es Emporio Armani Smartwatch Pantalla táctil para Hombre de...'
 sku: 'B07XJWZR4H-es'
-tags: [  ]
 actualPrice: 259.0 EUR
 currency: EUR
 price: 259.0

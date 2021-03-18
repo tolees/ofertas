@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HZ84HN-es Racketworld Wilson Six Two BLX – Raqueta de Tenis + 3...'
 sku: 'B079HZ84HN-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

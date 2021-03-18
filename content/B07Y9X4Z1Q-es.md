@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9X4Z1Q-es María Barceló Sneaker Alta Piel Blanco Mujer'
 sku: 'B07Y9X4Z1Q-es'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

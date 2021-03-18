@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDVDVKL-es Martina D Antiochia La Diversión de Martina Grey-Riñonera...'
 sku: 'B07XDVDVKL-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

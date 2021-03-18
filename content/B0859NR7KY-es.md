@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0859NR7KY-es SanDisk Ultra Dual Drive Go para Dispositivos con USB...'
 sku: 'B0859NR7KY-es'
-tags: [  ]
 actualPrice: 67.56 EUR
 currency: EUR
 price: 67.56

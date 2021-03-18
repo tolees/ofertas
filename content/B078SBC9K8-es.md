@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SBC9K8-es L CARNITINA Liquida 3000 mg.Suplemento Deportivo...'
 sku: 'B078SBC9K8-es'
-tags: [  ]
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

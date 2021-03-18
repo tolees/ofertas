@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JGIF3DU-es Einhell Pack taladro percutor y 15 piezas de perforación...'
 sku: 'B01JGIF3DU-es'
-tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

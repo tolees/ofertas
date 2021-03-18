@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3N3FQZ-es Tommy Hilfiger Flatform Runner Sneaker Zapatillas para...'
 sku: 'B07V3N3FQZ-es'
-tags: [  ]
 actualPrice: 34.74 EUR
 currency: EUR
 price: 34.74

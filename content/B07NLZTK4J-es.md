@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NLZTK4J-es Nike Revolution 5 Running Shoe Black/White/Anthracite 27.5 EU'
 sku: 'B07NLZTK4J-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

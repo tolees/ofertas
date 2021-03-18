@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088XQN12C-es Asics Jolt 2 Zapatillas de Deporte Hombre Negro...'
 sku: 'B088XQN12C-es'
-tags: [  ]
 actualPrice: 34.85 EUR
 currency: EUR
 price: 34.85

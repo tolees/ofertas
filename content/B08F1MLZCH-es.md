@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F1MLZCH-es PINPOXE - Kit de Tatuajes Temporales Tinta para tatuaje...'
 sku: 'B08F1MLZCH-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

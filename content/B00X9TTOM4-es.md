@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9TTOM4-es Garnier SkinActive BB Cream Matificante Crema Correctora y...'
 sku: 'B00X9TTOM4-es'
-tags: [  ]
 actualPrice: 5.89 EUR
 currency: EUR
 price: 5.89

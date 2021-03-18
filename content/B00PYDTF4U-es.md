@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PYDTF4U-es Nike MD Runner 2 Zapatillas para Hombre Black/White...'
 sku: 'B00PYDTF4U-es'
-tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

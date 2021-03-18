@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZDRZEV-es Emuca - Lote de 150 fieltros autoadhesivos redondos...'
 sku: 'B01MZDRZEV-es'
-tags: [  ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

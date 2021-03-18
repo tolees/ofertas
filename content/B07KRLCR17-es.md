@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRLCR17-es New Balance 624v5 M Zapatillas Mujer Negro Triple Black...'
 sku: 'B07KRLCR17-es'
-tags: [ 'new balance', ]
 actualPrice: 40.73 EUR
 currency: EUR
 price: 40.73

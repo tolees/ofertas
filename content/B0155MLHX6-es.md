@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0155MLHX6-es Devir-48030 Dog Fight Juego de Mesa en Castellano. 221831'
 sku: 'B0155MLHX6-es'
-tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

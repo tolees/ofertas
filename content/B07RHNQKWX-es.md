@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHNQKWX-es YWLINK Verano Mezcla De Algodon CóModo Sin Mangas De Color...'
 sku: 'B07RHNQKWX-es'
-tags: [  ]
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

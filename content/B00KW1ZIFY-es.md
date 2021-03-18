@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KW1ZIFY-es CSL - Ventilador USB - Ventilador de Mesa Ventilador -...'
 sku: 'B00KW1ZIFY-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

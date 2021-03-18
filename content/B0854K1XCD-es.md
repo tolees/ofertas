@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0854K1XCD-es JK-2 Laptop Carcasas para Macbook Air 13 Abstract Design...'
 sku: 'B0854K1XCD-es'
-tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWNN249-es adidas Coast Star Zapatillas de Gimnasia para Hombre...'
 sku: 'B07SWNN249-es'
-tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXLGWXK-es New Balance Ryval Run Zapatillas de Running para Mujer...'
 sku: 'B07RXLGWXK-es'
-tags: [  ]
 actualPrice: 40.89 EUR
 currency: EUR
 price: 40.89

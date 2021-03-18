@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0058XWUHA-es Michael Kors MK5491 - Reloj de pulsera'
 sku: 'B0058XWUHA-es'
-tags: [  ]
 actualPrice: 163.99 EUR
 currency: EUR
 price: 163.99

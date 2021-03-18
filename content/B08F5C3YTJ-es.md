@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F5C3YTJ-es PTHTECHUS Reloj Inteligente Niño de Podómetro Impermeable...'
 sku: 'B08F5C3YTJ-es'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

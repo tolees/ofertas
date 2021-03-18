@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0829GML5L-es Nidina 3 Leche Infantil Caja de 3 Latas - 2400 g'
 sku: 'B0829GML5L-es'
-tags: [  ]
 actualPrice: 25.45 EUR
 currency: EUR
 price: 25.45

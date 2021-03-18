@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08ML34RZT-es MHHQ para Xiaomi Redmi 9C Funda 2in1 Armadura Combinación...'
 sku: 'B08ML34RZT-es'
-tags: [ 'mhhq', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

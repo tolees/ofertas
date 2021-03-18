@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXBSD4H-es Apisérum Vitamax Viales Bebibles- Aporte de Energía Extra...'
 sku: 'B07KXBSD4H-es'
-tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

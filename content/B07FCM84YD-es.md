@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCM84YD-es Lámpara de Escritorio Lámpara LED de Escritorio Ojos...'
 sku: 'B07FCM84YD-es'
-tags: [  ]
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

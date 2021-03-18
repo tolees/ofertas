@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YC1N3Z-es HIKARO Sudadera Hombre Azul Navy 48 Talla del fabricante:...'
 sku: 'B077YC1N3Z-es'
-tags: [  ]
 actualPrice: 13.03 EUR
 currency: EUR
 price: 13.03

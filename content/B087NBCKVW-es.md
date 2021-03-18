@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NBCKVW-es Doble verde esmeralda rodillo elíptico masajeador ojo...'
 sku: 'B087NBCKVW-es'
-tags: [  ]
 actualPrice: 4.61 EUR
 currency: EUR
 price: 4.61

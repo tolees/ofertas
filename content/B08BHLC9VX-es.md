@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BHLC9VX-es XILOSIN 1PCS cilíndrico Minerales Varita Filtro Taps PH...'
 sku: 'B08BHLC9VX-es'
-tags: [  ]
 actualPrice: 5.71 EUR
 currency: EUR
 price: 5.71

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H98NP4F-es Suavinex – Pomada Intensiva de pañal para bebés. Cuidado...'
 sku: 'B07H98NP4F-es'
-tags: [  ]
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

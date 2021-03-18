@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088RYGQ4Q-es HUAWEI MateBook X Pro - Ordenador Portátil con pantalla...'
 sku: 'B088RYGQ4Q-es'
-tags: [  ]
 actualPrice: 1399.0 EUR
 currency: EUR
 price: 1399.0

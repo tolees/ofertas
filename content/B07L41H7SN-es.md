@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L41H7SN-es Eucerin Aquaphor Pomada reparadora 45 ml'
 sku: 'B07L41H7SN-es'
-tags: [  ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

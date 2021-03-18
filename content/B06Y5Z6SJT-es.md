@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y5Z6SJT-es HOMCOM Triciclo para Niños más de 18 Meses con Timbre...'
 sku: 'B06Y5Z6SJT-es'
-tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

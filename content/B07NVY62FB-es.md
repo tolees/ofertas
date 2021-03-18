@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVY62FB-es Estuches Multicolor PRINCESAS'
 sku: 'B07NVY62FB-es'
-tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

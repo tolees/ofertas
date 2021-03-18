@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S375MNG-es Plastificadora A4 A5 A7 ABOX OL145 Máquina para...'
 sku: 'B07S375MNG-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

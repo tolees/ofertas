@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SSZ8W38-es SanDisk Ultra Luxe Memoria flash USB 3.1 de 64GB y hasta...'
 sku: 'B07SSZ8W38-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

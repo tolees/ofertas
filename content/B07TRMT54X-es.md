@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TRMT54X-es Levi s Graphic Sport Capucha Blanco Hoodie Filled Brw T2...'
 sku: 'B07TRMT54X-es'
-tags: [  ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

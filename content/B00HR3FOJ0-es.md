@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HR3FOJ0-es Audimer Spray Higiene Habitual del Oído Elimina Exceso de...'
 sku: 'B00HR3FOJ0-es'
-tags: [ 'Bebé','Cuidado de la salud','Cuidado de oídos y nariz','Cuidado del oído en medicamentos, remedios y suplementos dietéticos','Higiene','Higiene y cuidado','Limpieza nasal y auricular','Salud y cuidado personal','audimer', ]
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

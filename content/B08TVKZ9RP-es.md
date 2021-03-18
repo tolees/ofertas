@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TVKZ9RP-es HOOIDE - Chandal Hombre Completo Chandal Hombre Y Pantalon...'
 sku: 'B08TVKZ9RP-es'
-tags: [  ]
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

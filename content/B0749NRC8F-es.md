@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0749NRC8F-es Jack & Jones Jacharry Belt Noos Cinturón Marrón Black...'
 sku: 'B0749NRC8F-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

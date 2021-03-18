@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XRHV5QT-es Trueno Sala'
 sku: 'B06XRHV5QT-es'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

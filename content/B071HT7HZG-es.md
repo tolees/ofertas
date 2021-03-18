@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071HT7HZG-es Sennheiser CX 7.00 BT - Auricular Intraural Inalámbrico...'
 sku: 'B071HT7HZG-es'
-tags: [  ]
 actualPrice: 80.96 EUR
 currency: EUR
 price: 80.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0893RKLPR-es Quiksilver Comp Logo-Camiseta para Hombre White XS'
 sku: 'B0893RKLPR-es'
-tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

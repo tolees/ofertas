@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D98TRBV-es Adidas Vs Pace Zapatillas para Hombre Blanco Footwear...'
 sku: 'B07D98TRBV-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

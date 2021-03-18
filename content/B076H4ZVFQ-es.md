@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076H4ZVFQ-es Levi s Sipsey Cinturón Marrón Medium Brown 27 100 para Hombre'
 sku: 'B076H4ZVFQ-es'
-tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

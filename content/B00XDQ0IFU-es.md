@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XDQ0IFU-es Gullón Galletas Chocolate Dibus Mini 250g'
 sku: 'B00XDQ0IFU-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

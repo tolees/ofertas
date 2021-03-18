@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088KJBZ5P-es Poweradd Pilas Alcalinas AA Baterías LR6 de 10 Años Larga...'
 sku: 'B088KJBZ5P-es'
-tags: [  ]
 actualPrice: 7.38 EUR
 currency: EUR
 price: 7.38

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008KO2E4S-es Monix Vitro Noir – Cafetera Italiana de aluminio capacidad...'
 sku: 'B008KO2E4S-es'
-tags: [  ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

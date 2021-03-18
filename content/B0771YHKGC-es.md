@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771YHKGC-es Dainese solarys Aire Motocicleta Botas Negro 45 Euro/11 5...'
 sku: 'B0771YHKGC-es'
-tags: [  ]
 actualPrice: 97.81 EUR
 currency: EUR
 price: 97.81

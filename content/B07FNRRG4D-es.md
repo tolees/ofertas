@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNRRG4D-es bath by Cosmic Escobillero Stick Metal Cromo 7 6 x 10 7 x...'
 sku: 'B07FNRRG4D-es'
-tags: [  ]
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

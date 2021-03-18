@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGC335R-es Cosmopolitan Rainbow Shine Hair Waver Tong - Rizos sueltos...'
 sku: 'B07XGC335R-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07727SJTS-es Edge Entertainment-¡Mi Postre Favorito EELLJD01'
 sku: 'B07727SJTS-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

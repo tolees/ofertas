@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJ3Z9MH-es GUMEI Cartucho filtrante de Membrana de ultrafiltración de...'
 sku: 'B08VJ3Z9MH-es'
-tags: [  ]
 actualPrice: 13.35 EUR
 currency: EUR
 price: 13.35

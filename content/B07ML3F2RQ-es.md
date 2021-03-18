@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ML3F2RQ-es JINYU Loft Vintage Rústico Industrial Lámpara de...'
 sku: 'B07ML3F2RQ-es'
-tags: [  ]
 actualPrice: 19.75 EUR
 currency: EUR
 price: 19.75

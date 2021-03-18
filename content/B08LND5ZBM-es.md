@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LND5ZBM-es Bosch Home and Garden - Bosch taladro/atornillador a...'
 sku: 'B08LND5ZBM-es'
-tags: [  ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

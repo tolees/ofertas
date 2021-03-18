@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLFRQ6X-es Nobleza – Alfombrilla refrescante para Mascotas Grandes....'
 sku: 'B07DLFRQ6X-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

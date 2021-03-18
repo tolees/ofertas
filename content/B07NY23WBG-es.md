@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NY23WBG-es SanDisk High Endurance - Tarjeta microSD para...'
 sku: 'B07NY23WBG-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

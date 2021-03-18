@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PX1QR7-es Fundas Transparentes Flexibles: ¡Mantén Tu Gran Estilo En...'
 sku: 'B086PX1QR7-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

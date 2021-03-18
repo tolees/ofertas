@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079TZPKK4-es Chicco - Buenas Noches Osito Azul 9156200000'
 sku: 'B079TZPKK4-es'
-tags: [  ]
 actualPrice: 13.11 EUR
 currency: EUR
 price: 13.11

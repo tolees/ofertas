@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WGNWF9Q-es ROIDMI F8 Lite - Aspirador sin cable versión EU en Español...'
 sku: 'B07WGNWF9Q-es'
-tags: [  ]
 actualPrice: 143.0 EUR
 currency: EUR
 price: 143.0

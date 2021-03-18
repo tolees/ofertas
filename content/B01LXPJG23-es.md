@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LXPJG23-es tado° Cabezal Termostático Inteligente de - Accesorio para...'
 sku: 'B01LXPJG23-es'
-tags: [  ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

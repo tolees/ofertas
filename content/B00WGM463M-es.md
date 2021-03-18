@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WGM463M-es Targus AWE69EU Alfombrilla de portátil para Regazo Chill Mat'
 sku: 'B00WGM463M-es'
-tags: [  ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

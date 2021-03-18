@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086TY8GK7-es Proyector Portátil SLANWIN Video Proyector 5500 Lumens...'
 sku: 'B086TY8GK7-es'
-tags: [  ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

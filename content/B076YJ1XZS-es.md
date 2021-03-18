@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076YJ1XZS-es AmazonBasics - Hub de 10 puertos USB C 3.1 con adaptador...'
 sku: 'B076YJ1XZS-es'
-tags: [  ]
 actualPrice: 25 EUR
 currency: EUR
 price: 25

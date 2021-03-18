@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VG3JTNN-es Eono Essentials Toalla de Microfibra para Llevar al...'
 sku: 'B07VG3JTNN-es'
-tags: [  ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

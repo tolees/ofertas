@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MHYB83B-es PIKOLINOS Mocasín de Piel MOTRIL M1N'
 sku: 'B07MHYB83B-es'
-tags: [  ]
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

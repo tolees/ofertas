@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WP26JJK-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B06WP26JJK-es'
-tags: [  ]
 actualPrice: 93.45 EUR
 currency: EUR
 price: 93.45

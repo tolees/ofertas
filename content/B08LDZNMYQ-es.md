@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LDZNMYQ-es New Balance 393 Zapatillas Hombre Cabeza de mármol 47.5 EU'
 sku: 'B08LDZNMYQ-es'
-tags: [  ]
 actualPrice: 37.24 EUR
 currency: EUR
 price: 37.24

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMCL59B-es Energy Headphones BT Travel 7 ANC Active Noise Cancelling...'
 sku: 'B07FMCL59B-es'
-tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

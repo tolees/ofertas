@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0752DH9RK-es Reloj Calvin Klein - Mujer K8A23141'
 sku: 'B0752DH9RK-es'
-tags: [  ]
 actualPrice: 110.58 EUR
 currency: EUR
 price: 110.58

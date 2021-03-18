@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000OLYGNM-es TRIXIE Pasarela Hámster Natural Living 18 peldaños 7 × 27...'
 sku: 'B000OLYGNM-es'
-tags: [  ]
 actualPrice: 2.31 EUR
 currency: EUR
 price: 2.31

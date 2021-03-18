@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00008XVSX-es WMF Classic Line Cuchillo Cocinero 34 cm con Hoja de Acero...'
 sku: 'B00008XVSX-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

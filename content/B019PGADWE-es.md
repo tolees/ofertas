@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019PGADWE-es MVMT - Reloj De Cuarzo Signature Gold/Brown Leather MF01...'
 sku: 'B019PGADWE-es'
-tags: [  ]
 actualPrice: 91.19 EUR
 currency: EUR
 price: 91.19

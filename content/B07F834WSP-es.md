@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F834WSP-es Superga 2750-cotu Classic Zapatillas de Gimnasia Unisex...'
 sku: 'B07F834WSP-es'
-tags: [  ]
 actualPrice: 30.6 EUR
 currency: EUR
 price: 30.6

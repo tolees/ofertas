@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0116X1BJI-es AKAI Professional MPD 226 - Controlador USB MIDI ultra-...'
 sku: 'B0116X1BJI-es'
-tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

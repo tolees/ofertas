@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QB8JVCH-es Colegiales Niña Pablosky Azul 334120 27'
 sku: 'B07QB8JVCH-es'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

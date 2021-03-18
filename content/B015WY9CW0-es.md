@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015WY9CW0-es Cape Herb - RUB Louisiana Cajun 100g. Cape Herb de Sudáfrica'
 sku: 'B015WY9CW0-es'
-tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

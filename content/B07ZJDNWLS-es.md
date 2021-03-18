@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJDNWLS-es Carpeta de Conferencia de Cuero A4 Portafolio con Cuaderno...'
 sku: 'B07ZJDNWLS-es'
-tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

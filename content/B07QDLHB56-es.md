@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QDLHB56-es Wet n Wild - Mega Length - Máscara de Pestañas Negra...'
 sku: 'B07QDLHB56-es'
-tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

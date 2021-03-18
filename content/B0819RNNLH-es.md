@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0819RNNLH-es Playgro Mini-patos para el baño 4 Piezas Totalmente...'
 sku: 'B0819RNNLH-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

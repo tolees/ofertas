@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B012W0T9HK-es Philips Serie 5000 S5110/06 - Afeitadora eléctrica para...'
 sku: 'B012W0T9HK-es'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

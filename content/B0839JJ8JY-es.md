@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0839JJ8JY-es adidas Laufschuhe-fw7822 Zapatillas para Correr de...'
 sku: 'B0839JJ8JY-es'
-tags: [  ]
 actualPrice: 65.94 EUR
 currency: EUR
 price: 65.94

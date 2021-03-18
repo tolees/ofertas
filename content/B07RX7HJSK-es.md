@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RX7HJSK-es Element Bolton Zh Boy Warmer Niños Eclipse Navy 10'
 sku: 'B07RX7HJSK-es'
-tags: [  ]
 actualPrice: 22.55 EUR
 currency: EUR
 price: 22.55

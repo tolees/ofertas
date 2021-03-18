@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TDNDHRW-es Exquisite Gaming - Cable guy Chun Li soporte de sujeción y...'
 sku: 'B07TDNDHRW-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

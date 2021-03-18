@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072C5R8CJ-es CREA Grifo Osmosis Grifo de Cocina 3 Vías Ósmosis 360°...'
 sku: 'B072C5R8CJ-es'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

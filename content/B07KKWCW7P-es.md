@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KKWCW7P-es adidas D2m tee 3s T-Shirt Hombre Grey Six 2XL'
 sku: 'B07KKWCW7P-es'
-tags: [  ]
 actualPrice: 12.47 EUR
 currency: EUR
 price: 12.47

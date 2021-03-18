@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVR53XT-es Meidong HE8C Cancelación de Ruido Activa intrauditivos con...'
 sku: 'B07JVR53XT-es'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

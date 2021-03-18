@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LYZC6JR-es Mr. Wonderful - Mr Wonderful Carcasa para Mac -...'
 sku: 'B01LYZC6JR-es'
-tags: [  ]
 actualPrice: 16.78 EUR
 currency: EUR
 price: 16.78

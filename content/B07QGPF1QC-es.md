@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGPF1QC-es E.INFINITY Aretes de Perlas para Mujer Plata Esterlina 925...'
 sku: 'B07QGPF1QC-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

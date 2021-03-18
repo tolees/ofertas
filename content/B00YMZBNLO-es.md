@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YMZBNLO-es Intenso 3533491 - Memoria USB de 128 GB Color Negro'
 sku: 'B00YMZBNLO-es'
-tags: [  ]
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

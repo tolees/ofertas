@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RS7HM59-es TP-Link Archer MR600 Router 4G + Advanced LTE CAT6 Wi-Fi...'
 sku: 'B07RS7HM59-es'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

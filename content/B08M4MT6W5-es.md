@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08M4MT6W5-es Disney - Mulán Imagen real [Blu-ray]'
 sku: 'B08M4MT6W5-es'
-tags: [ 'disney', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

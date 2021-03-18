@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TPG6QY4-es PNY FD32GATT4-EF - Memoria USB 2.0 de 32 GB 25 MBs color...'
 sku: 'B00TPG6QY4-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

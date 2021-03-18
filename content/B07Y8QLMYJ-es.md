@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y8QLMYJ-es Fantasy Flight Games- Star Wars Armada - Rebelión en el...'
 sku: 'B07Y8QLMYJ-es'
-tags: [  ]
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

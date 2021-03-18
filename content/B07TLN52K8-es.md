@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLN52K8-es Nûby 36M+ - Taza de tritan con botón Push y pajita 530 ml...'
 sku: 'B07TLN52K8-es'
-tags: [  ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

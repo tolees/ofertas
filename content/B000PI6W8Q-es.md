@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000PI6W8Q-es Converse AS Ox Can 1Q112 - Zapatillas de lona unisex...'
 sku: 'B000PI6W8Q-es'
-tags: [  ]
 actualPrice: 33.2 EUR
 currency: EUR
 price: 33.2

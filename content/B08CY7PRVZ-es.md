@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CY7PRVZ-es Hurley M Modern Surf Poncho Blocker Negro L'
 sku: 'B08CY7PRVZ-es'
-tags: [  ]
 actualPrice: 19.03 EUR
 currency: EUR
 price: 19.03

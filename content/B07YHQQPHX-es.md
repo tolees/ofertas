@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YHQQPHX-es HYLOGY Tensiómetro de Brazo Monitor de Presión Arterial...'
 sku: 'B07YHQQPHX-es'
-tags: [  ]
 actualPrice: 21.65 EUR
 currency: EUR
 price: 21.65

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSDFTYZ-es find. Utility_DC3086P Pantalones Grau Grey 38 Talla del...'
 sku: 'B06XSDFTYZ-es'
-tags: [  ]
 actualPrice: 6.73 EUR
 currency: EUR
 price: 6.73

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XL43NNL-es Electronic Arts - PVZ Battle for Neighborville'
 sku: 'B07XL43NNL-es'
-tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QVHJ8PV-es rolimate Juguetes de Dinosaurios de Simulación de Control...'
 sku: 'B08QVHJ8PV-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

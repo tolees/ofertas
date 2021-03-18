@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089RL4SSW-es Guizu Ventilador Personal Portátil- Mini Ventilador USB...'
 sku: 'B089RL4SSW-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

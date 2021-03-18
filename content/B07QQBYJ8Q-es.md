@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQBYJ8Q-es MonQi 28 Piezas Juguete de Buceo Incluir Anillos de...'
 sku: 'B07QQBYJ8Q-es'
-tags: [  ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

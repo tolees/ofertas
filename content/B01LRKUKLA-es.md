@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LRKUKLA-es atFoliX Lámina Protectora de plástico Cristal Compatible...'
 sku: 'B01LRKUKLA-es'
-tags: [  ]
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FNCVVNZ-es Fila City Hiking L wmn Zapatillas Mujer Blanco White 38 EU'
 sku: 'B08FNCVVNZ-es'
-tags: [  ]
 actualPrice: 60.52 EUR
 currency: EUR
 price: 60.52

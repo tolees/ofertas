@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Q5PGNY-es adidas GALAXAR Run W Zapatillas Mujer FTWBLA/FTWBLA/TOQGRI...'
 sku: 'B089Q5PGNY-es'
-tags: [  ]
 actualPrice: 36.56 EUR
 currency: EUR
 price: 36.56

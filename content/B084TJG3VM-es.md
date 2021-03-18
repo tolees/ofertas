@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084TJG3VM-es Taurus Microondas Fastwave 20 20L 700W 6 potencias Sin...'
 sku: 'B084TJG3VM-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XQS38R7-es Apple Funda Silicone Case para el iPhone 11 Pro MAX - Rosa...'
 sku: 'B07XQS38R7-es'
-tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

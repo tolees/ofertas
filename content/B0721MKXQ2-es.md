@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0721MKXQ2-es AUKEY Webcam 1080P Full HD con Micrófono Estéreo Cámara...'
 sku: 'B0721MKXQ2-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

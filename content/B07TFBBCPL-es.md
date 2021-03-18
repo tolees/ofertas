@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TFBBCPL-es Lacoste PF5462 Polo Blanco Blanc 44 para Mujer'
 sku: 'B07TFBBCPL-es'
-tags: [  ]
 actualPrice: 61.49 EUR
 currency: EUR
 price: 61.49

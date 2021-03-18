@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WNJTQF5-es Desigual Blus Venecia Rojo Borgoña 3007 Medium para Mujer'
 sku: 'B07WNJTQF5-es'
-tags: [  ]
 actualPrice: 20.92 EUR
 currency: EUR
 price: 20.92

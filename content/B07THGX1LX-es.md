@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07THGX1LX-es Auriculares Deportivos SOUNDPEATS TrueAir2 Auriculares...'
 sku: 'B07THGX1LX-es'
-tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

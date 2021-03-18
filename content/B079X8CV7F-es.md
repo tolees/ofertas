@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079X8CV7F-es Taurus PTWC-18 Vinoteca de 18 botellas Negro'
 sku: 'B079X8CV7F-es'
-tags: [  ]
 actualPrice: 131.0 EUR
 currency: EUR
 price: 131.0

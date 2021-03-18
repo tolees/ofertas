@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RR4PGVQ-es Tommy Hilfiger - Th Core Satchel Bolsos maletín Mujer...'
 sku: 'B07RR4PGVQ-es'
-tags: [  ]
 actualPrice: 98.94 EUR
 currency: EUR
 price: 98.94

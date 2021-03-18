@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CRY9PQ5-es feihao Juguetes para Gatos Interactivos Bola de Gato...'
 sku: 'B08CRY9PQ5-es'
-tags: [  ]
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

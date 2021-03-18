@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RHSX59V-es Fila FU6061 Perizoma Mujer White L'
 sku: 'B07RHSX59V-es'
-tags: [  ]
 actualPrice: 6.18 EUR
 currency: EUR
 price: 6.18

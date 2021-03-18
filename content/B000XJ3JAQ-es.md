@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000XJ3JAQ-es Bosch Professional - Bosch 2 608 628 372 - Fresas de...'
 sku: 'B000XJ3JAQ-es'
-tags: [ 'bosch professional', ]
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

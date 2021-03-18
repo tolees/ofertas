@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CI0AVX6-es Valira Aceitera Accesorios Blanco-Transparente 60 mL'
 sku: 'B00CI0AVX6-es'
-tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

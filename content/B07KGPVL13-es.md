@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGPVL13-es Buff Laelia Gorra Baseball Mujer Pale Peach Talla única'
 sku: 'B07KGPVL13-es'
-tags: [  ]
 actualPrice: 11.37 EUR
 currency: EUR
 price: 11.37

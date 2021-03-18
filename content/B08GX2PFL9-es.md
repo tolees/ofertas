@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GX2PFL9-es 3 Pares Calcetines Running Para Hombre Mujer - Deporte...'
 sku: 'B08GX2PFL9-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

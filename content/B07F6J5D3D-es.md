@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F6J5D3D-es HP 25x - Monitor Gaming de 24.5 Full HD 1920x1080 TN 16:9...'
 sku: 'B07F6J5D3D-es'
-tags: [  ]
 actualPrice: 164.0 EUR
 currency: EUR
 price: 164.0

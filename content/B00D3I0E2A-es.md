@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D3I0E2A-es NODOL ESI 60 cápsulas'
 sku: 'B00D3I0E2A-es'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

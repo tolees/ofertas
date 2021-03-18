@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017XAFRMA-es Karcher - Kärcher Pistola pulverizadora multifunción...'
 sku: 'B017XAFRMA-es'
-tags: [  ]
 actualPrice: 8.77 EUR
 currency: EUR
 price: 8.77

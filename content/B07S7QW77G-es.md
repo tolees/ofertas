@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7QW77G-es PUMA Carina Zapatillas para Mujer Negro Black/Rosewater...'
 sku: 'B07S7QW77G-es'
-tags: [  ]
 actualPrice: 33.91 EUR
 currency: EUR
 price: 33.91

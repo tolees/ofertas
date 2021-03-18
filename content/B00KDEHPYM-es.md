@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KDEHPYM-es Cable equilibrado XLR macho a TRS macho de 6 35 mm 1/4...'
 sku: 'B00KDEHPYM-es'
-tags: [  ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

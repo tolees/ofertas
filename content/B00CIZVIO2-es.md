@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CIZVIO2-es Arregui C9246-EUR Caja de caudales con Bandeja para Euros...'
 sku: 'B00CIZVIO2-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

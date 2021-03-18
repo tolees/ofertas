@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N3AMR3H-es Crock-Pot CSC028X-01 Olla de Cocción 3.5 litros Acero...'
 sku: 'B01N3AMR3H-es'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

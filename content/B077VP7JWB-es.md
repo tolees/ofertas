@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VP7JWB-es BaByliss C1500E – Rizador de pelo automático con Sensor...'
 sku: 'B077VP7JWB-es'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

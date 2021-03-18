@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JGCH66H-es #NA Crema de Media Pinta Americana única cartón de Leche...'
 sku: 'B08JGCH66H-es'
-tags: [  ]
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

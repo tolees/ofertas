@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MHPQ4Y-es Levi s - LEVIS FOOTWEAR AND ACCESSORIES New Ashland...'
 sku: 'B077MHPQ4Y-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

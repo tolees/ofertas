@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086GVJ4FH-es AUKEY Knight Ratón Gaming Ratón Gaming con Cable 10000 dpi...'
 sku: 'B086GVJ4FH-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

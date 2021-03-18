@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PGQGLJN-es IKOHS Best Toast XL - Tostadora'
 sku: 'B07PGQGLJN-es'
-tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

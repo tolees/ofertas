@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VRZKXGL-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07VRZKXGL-es'
-tags: [  ]
 actualPrice: 110.64 EUR
 currency: EUR
 price: 110.64

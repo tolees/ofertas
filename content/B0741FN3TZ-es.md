@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0741FN3TZ-es Orbegozo HU 2016 Humidificador 20 W Blanco'
 sku: 'B0741FN3TZ-es'
-tags: [  ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

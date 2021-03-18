@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079D4MN6L-es Globe Tilt Zapatillas de Deporte para Hombre Multicolor...'
 sku: 'B079D4MN6L-es'
-tags: [  ]
 actualPrice: 44.58 EUR
 currency: EUR
 price: 44.58

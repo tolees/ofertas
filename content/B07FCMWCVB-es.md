@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCMWCVB-es SanDisk SDSQXBZ-064G-GN6MA Extreme Plus - Tarjeta de...'
 sku: 'B07FCMWCVB-es'
-tags: [ 'sandisk', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

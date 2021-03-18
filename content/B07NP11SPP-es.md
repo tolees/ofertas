@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NP11SPP-es Seiko Reloj Analógico para Unisex Adultos de Cuarzo con...'
 sku: 'B07NP11SPP-es'
-tags: [  ]
 actualPrice: 105.99 EUR
 currency: EUR
 price: 105.99

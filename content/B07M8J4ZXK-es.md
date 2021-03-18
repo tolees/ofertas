@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8J4ZXK-es Philips L OR LM8012/60 Barista - Cafetera compatible con...'
 sku: 'B07M8J4ZXK-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Cafeteras individuales','Fragancias para hombres','Hogar y cocina','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Muñecas bebé','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','Máquinas cafeteras','Perfumes y fragancias','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','Utensilios para café y té','philips lor', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

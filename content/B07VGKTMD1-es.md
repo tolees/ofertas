@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGKTMD1-es Napapijri NOTO 3 Pantalones Cortos Verde Green Way Gw11 29...'
 sku: 'B07VGKTMD1-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

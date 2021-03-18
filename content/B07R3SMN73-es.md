@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3SMN73-es Wrangler High Rise Skinny Jeans Azul Used Tint 50h 26W /...'
 sku: 'B07R3SMN73-es'
-tags: [  ]
 actualPrice: 13.22 EUR
 currency: EUR
 price: 13.22

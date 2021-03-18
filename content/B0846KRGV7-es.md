@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846KRGV7-es Tommy Hilfiger Dale 10a2 Zapatillas Hombre Blanco 40 2/3 EU'
 sku: 'B0846KRGV7-es'
-tags: [  ]
 actualPrice: 36.55 EUR
 currency: EUR
 price: 36.55

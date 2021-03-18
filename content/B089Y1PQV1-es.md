@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Y1PQV1-es VicTsing Bluetooth Coche PD Type-C Puerto 18W & QC3.0...'
 sku: 'B089Y1PQV1-es'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

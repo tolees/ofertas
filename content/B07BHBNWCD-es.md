@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHBNWCD-es Kipling - New Hiphurray L Fold Bolsos totes Mujer Blanco...'
 sku: 'B07BHBNWCD-es'
-tags: [  ]
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

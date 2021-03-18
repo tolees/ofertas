@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071H6YRTM-es Pikolin Home - Edredón/Relleno nórdico hipoalergénico de...'
 sku: 'B071H6YRTM-es'
-tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

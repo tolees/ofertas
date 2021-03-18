@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MDJ7Z36-es Tesa Assa Abloy 1930908NV Barra Antipánico Universal 1930...'
 sku: 'B00MDJ7Z36-es'
-tags: [  ]
 actualPrice: 98.81 EUR
 currency: EUR
 price: 98.81

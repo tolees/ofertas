@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDL8F97-es LIGE Relojes para Hombre Acero Inoxidable Deportivos...'
 sku: 'B07XDL8F97-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

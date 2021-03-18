@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L7HZYPN-es Meridiem Games - Asterix & Obelix XXL: Collection'
 sku: 'B08L7HZYPN-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

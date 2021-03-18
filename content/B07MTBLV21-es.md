@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTBLV21-es FOGAWA 380-400Pcs Cuentas de Madera Redondas Colores Kit...'
 sku: 'B07MTBLV21-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJLXMW9-es Adidas Sambarose Zapatillas Clasicas para Mujer Multicolor...'
 sku: 'B07MJLXMW9-es'
-tags: [  ]
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NV8CH4-es Palladium Pallabrouse BGY Wax Botas Slouch Unisex Adulto...'
 sku: 'B075NV8CH4-es'
-tags: [  ]
 actualPrice: 48.25 EUR
 currency: EUR
 price: 48.25

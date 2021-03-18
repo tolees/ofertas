@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00J2APS9W-es Birkenstock Madrid EVA Zapatillas de Estar por casa con...'
 sku: 'B00J2APS9W-es'
-tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

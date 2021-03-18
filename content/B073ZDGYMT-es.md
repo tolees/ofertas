@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073ZDGYMT-es Remington Pro Air AC5913W - Secador de Pelo Profesional...'
 sku: 'B073ZDGYMT-es'
-tags: [  ]
 actualPrice: 26.09 EUR
 currency: EUR
 price: 26.09

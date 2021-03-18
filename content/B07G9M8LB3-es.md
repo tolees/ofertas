@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9M8LB3-es Craft Sweatshirt Femme Emotion Crew'
 sku: 'B07G9M8LB3-es'
-tags: [  ]
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

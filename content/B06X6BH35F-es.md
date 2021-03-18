@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X6BH35F-es Rogue Stormers'
 sku: 'B06X6BH35F-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

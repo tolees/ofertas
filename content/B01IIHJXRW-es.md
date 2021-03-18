@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IIHJXRW-es Nancy - Kit de Tres Vestidos de Cuento con muñeca Famosa...'
 sku: 'B01IIHJXRW-es'
-tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

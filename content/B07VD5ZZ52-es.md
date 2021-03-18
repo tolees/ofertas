@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD5ZZ52-es CROSOFMI Estante Ducha Estanteria Baño Esquina a Prueba de...'
 sku: 'B07VD5ZZ52-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

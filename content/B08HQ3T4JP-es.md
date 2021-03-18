@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HQ3T4JP-es Warner Bros. Entertainment - Batman Begins 4k UHD [Blu-Ray]'
 sku: 'B08HQ3T4JP-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KK32SOM-es K nex Noria Revolution 344 Piezas 41212'
 sku: 'B01KK32SOM-es'
-tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

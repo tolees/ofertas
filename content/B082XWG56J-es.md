@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XWG56J-es KATUMO Tablet Funda para Lenovo Tab E10 10 1 Pulgadas...'
 sku: 'B082XWG56J-es'
-tags: [  ]
 actualPrice: 10.09 EUR
 currency: EUR
 price: 10.09

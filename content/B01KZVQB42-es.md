@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KZVQB42-es Logitech M720 Triathlon Ratón Inalámbrico Multi-...'
 sku: 'B01KZVQB42-es'
-tags: [  ]
 actualPrice: 49.28 EUR
 currency: EUR
 price: 49.28

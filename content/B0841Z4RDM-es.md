@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0841Z4RDM-es Tommy Hilfiger Pima Cotton Cashmere Crew Neck Suéter Deep...'
 sku: 'B0841Z4RDM-es'
-tags: [  ]
 actualPrice: 59.94 EUR
 currency: EUR
 price: 59.94

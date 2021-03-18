@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RS14YHQ-es flintronic LED Linterna 2 Pcs Linterna Táctica 5 Modos a...'
 sku: 'B07RS14YHQ-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

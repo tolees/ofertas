@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ELG45UE-es Munich Gresca Kid 02 S Zapatillas de Deporte Hombre Negro...'
 sku: 'B01ELG45UE-es'
-tags: [  ]
 actualPrice: 36.6 EUR
 currency: EUR
 price: 36.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKQSJHP-es DAZAKA Timbre Inalámbrico Para Exterior Impermeable con 1...'
 sku: 'B07SKQSJHP-es'
-tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

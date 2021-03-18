@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHZW3YO-es Diablo 3 - Ultimate Evil Edition'
 sku: 'B00KHZW3YO-es'
-tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

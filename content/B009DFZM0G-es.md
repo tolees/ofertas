@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009DFZM0G-es De Longhi AC75 Purificador de aire 3 estados de filtración...'
 sku: 'B009DFZM0G-es'
-tags: [  ]
 actualPrice: 127.0 EUR
 currency: EUR
 price: 127.0

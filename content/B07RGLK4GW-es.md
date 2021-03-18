@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RGLK4GW-es Salomon X Reveal GTX W Zapatillas de Senderismo Mujer...'
 sku: 'B07RGLK4GW-es'
-tags: [  ]
 actualPrice: 76.95 EUR
 currency: EUR
 price: 76.95

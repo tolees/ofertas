@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XRG3Z5-es Sharp PS-919 WH Altavoz con TWS Bluetooth 5.0 Puerto USB...'
 sku: 'B082XRG3Z5-es'
-tags: [  ]
 actualPrice: 62.6 EUR
 currency: EUR
 price: 62.6

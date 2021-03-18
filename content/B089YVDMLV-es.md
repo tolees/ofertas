@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089YVDMLV-es DOHUI Funda para Motorola Moto G Fast Silicona Suave TPU...'
 sku: 'B089YVDMLV-es'
-tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

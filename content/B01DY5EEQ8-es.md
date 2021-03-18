@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DY5EEQ8-es MasterPro Asador 40 cm Aluminio Fundido Apta para...'
 sku: 'B01DY5EEQ8-es'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

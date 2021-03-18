@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3F2Y5S-es VEHHE Alcachofa Ducha con Manguera 1 5 m Boquilla de ducha...'
 sku: 'B07X3F2Y5S-es'
-tags: [ 'vehhe', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

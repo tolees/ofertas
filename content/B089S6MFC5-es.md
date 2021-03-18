@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089S6MFC5-es HEPAZ Brochas de Maquillaje Pinceles Maquillaje...'
 sku: 'B089S6MFC5-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

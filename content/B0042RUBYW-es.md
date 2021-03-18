@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0042RUBYW-es Canon Cartucho 728 - Tóner 2100 páginas compatible con...'
 sku: 'B0042RUBYW-es'
-tags: [  ]
 actualPrice: 64.48 EUR
 currency: EUR
 price: 64.48

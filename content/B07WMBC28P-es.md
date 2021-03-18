@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WMBC28P-es Salomon XA Pro 3D V8 GTX Zapatillas De Trail Running Y...'
 sku: 'B07WMBC28P-es'
-tags: [  ]
 actualPrice: 100.79 EUR
 currency: EUR
 price: 100.79

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DJ5SWPF-es New Balance 997H Core Zapatillas Hombre Gris Marblehead 37 EU'
 sku: 'B07DJ5SWPF-es'
-tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00H11QQOA-es Colortime - Juego de 120 tarjetas de cartulina varios colores'
 sku: 'B00H11QQOA-es'
-tags: [  ]
 actualPrice: 7.53 EUR
 currency: EUR
 price: 7.53

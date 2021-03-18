@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TG8RQ96-es Syllable Hub USB Tipo C 10 en 1 Hub de Aluminio Tipo C con...'
 sku: 'B07TG8RQ96-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

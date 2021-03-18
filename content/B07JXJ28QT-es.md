@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXJ28QT-es Lee Daren Zip Fly Jeans Azul Dark Diamond Ft 29W / 34L...'
 sku: 'B07JXJ28QT-es'
-tags: [  ]
 actualPrice: 25.85 EUR
 currency: EUR
 price: 25.85

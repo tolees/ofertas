@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FDNL66-es 2020 Nueva Cámara para Niños Cámara de Fotos/Video HD...'
 sku: 'B082FDNL66-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0841D6ZVH-es Tommy Hilfiger TJM Essential Crew Neck Sweater Suter Rojo...'
 sku: 'B0841D6ZVH-es'
-tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

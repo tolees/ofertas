@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DCDJC1T-es Puma Nova 90 s Bloc Wn s Zapatillas para Mujer Blanco...'
 sku: 'B07DCDJC1T-es'
-tags: [  ]
 actualPrice: 48.06 EUR
 currency: EUR
 price: 48.06

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BJ5D3PP-es autsca Caja Fuerte Candado para llaves Candado de...'
 sku: 'B07BJ5D3PP-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

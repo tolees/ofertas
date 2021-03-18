@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JBRGYKK-es Proyector WiFi Bluetooth 1080P YABER V6 7500 Proyector...'
 sku: 'B08JBRGYKK-es'
-tags: [  ]
 actualPrice: 266.99 EUR
 currency: EUR
 price: 266.99

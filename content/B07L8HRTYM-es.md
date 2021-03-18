@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L8HRTYM-es Monix Copper-Grill con Rayas 28 x 28 cm Aluminio Forjado'
 sku: 'B07L8HRTYM-es'
-tags: [  ]
 actualPrice: 18.63 EUR
 currency: EUR
 price: 18.63

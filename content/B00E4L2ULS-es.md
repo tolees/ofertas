@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00E4L2ULS-es Gillette Afeitado Manual 6 cuchillas'
 sku: 'B00E4L2ULS-es'
-tags: [  ]
 actualPrice: 4.69 EUR
 currency: EUR
 price: 4.69

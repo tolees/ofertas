@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M5L9Y8X-es Cecotec Robot aspirador y fregasuelos Conga 7090 IA...'
 sku: 'B08M5L9Y8X-es'
-tags: [  ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M7X58SD-es Wilson WTB2501XB07 Pelota de Baloncesto NCAA Battleground...'
 sku: 'B07M7X58SD-es'
-tags: [  ]
 actualPrice: 11.12 EUR
 currency: EUR
 price: 11.12

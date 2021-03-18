@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K1VXDS4-es Reloj Calvin Klein - Mujer K4U23121'
 sku: 'B00K1VXDS4-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

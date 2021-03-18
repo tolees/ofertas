@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BNMSSM0-es Philips Afeitadora Femenina con una Cuchilla Uso en Seco y...'
 sku: 'B01BNMSSM0-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

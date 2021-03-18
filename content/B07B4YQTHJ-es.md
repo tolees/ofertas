@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B4YQTHJ-es Hugo Boss Orange - Hugo BOSS Reloj Cronógrafo para Hombre...'
 sku: 'B07B4YQTHJ-es'
-tags: [  ]
 actualPrice: 199.95 EUR
 currency: EUR
 price: 199.95

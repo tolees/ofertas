@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2YPZWQ-es Castellanisimos Zapato Náutico Clásico Piel Marino Hombre'
 sku: 'B07P2YPZWQ-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

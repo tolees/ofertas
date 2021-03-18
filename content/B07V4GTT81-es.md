@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V4GTT81-es Targus base refrigeradora para ordenador con 2...'
 sku: 'B07V4GTT81-es'
-tags: [  ]
 actualPrice: 19.46 EUR
 currency: EUR
 price: 19.46

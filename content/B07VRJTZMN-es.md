@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRJTZMN-es ZHENROG Electroestimulador Muscular Abdominales Cinturón...'
 sku: 'B07VRJTZMN-es'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

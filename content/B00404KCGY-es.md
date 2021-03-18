@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00404KCGY-es Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B00404KCGY-es'
-tags: [  ]
 actualPrice: 114.5 EUR
 currency: EUR
 price: 114.5

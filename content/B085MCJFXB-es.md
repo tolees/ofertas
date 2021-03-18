@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085MCJFXB-es MZY1188 Cielo Azul Molde Rectangular de Silicona Molde...'
 sku: 'B085MCJFXB-es'
-tags: [  ]
 actualPrice: 2.54 EUR
 currency: EUR
 price: 2.54

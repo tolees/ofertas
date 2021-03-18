@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YRBW1QY-es TRIXIE Manta Mimi 70 × 50 cm Gris Perro'
 sku: 'B00YRBW1QY-es'
-tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

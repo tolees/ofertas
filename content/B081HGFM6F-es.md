@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081HGFM6F-es Panasonic ER-GC63-H503 - Recortadora eléctrica de...'
 sku: 'B081HGFM6F-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

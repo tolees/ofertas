@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009OAGRE-es Calvin Klein Eternity Eau de Parfum Spray para mujeres 1...'
 sku: 'B0009OAGRE-es'
-tags: [ 'calvin klein', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

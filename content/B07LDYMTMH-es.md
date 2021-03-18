@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LDYMTMH-es SIMUER Pelota Anti-Presión Pelota Estrés Cara Juguete...'
 sku: 'B07LDYMTMH-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

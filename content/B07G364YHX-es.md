@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G364YHX-es Western Digital - WD Elements Desktop - Disco duro externo...'
 sku: 'B07G364YHX-es'
-tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XSHWD5V-es jiamiaoi pendientes mujer plata pendientes niña pendientes...'
 sku: 'B06XSHWD5V-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YYWJYLL-es TACKLIFE Mini Amoladora 4V Herramienta Rotativa...'
 sku: 'B07YYWJYLL-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

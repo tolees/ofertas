@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001DCHTZS-es ZEFAL Doomap Soporte Portamapas Al Manillar Unisex Adulto...'
 sku: 'B001DCHTZS-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

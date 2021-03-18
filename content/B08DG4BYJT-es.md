@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DG4BYJT-es Ravensburger Regreso al futuro - Versión española Light...'
 sku: 'B08DG4BYJT-es'
-tags: [  ]
 actualPrice: 24.48 EUR
 currency: EUR
 price: 24.48

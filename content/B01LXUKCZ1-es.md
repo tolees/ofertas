@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LXUKCZ1-es Mercurio Distribuciones-Juego de Habilidad con Tema...'
 sku: 'B01LXUKCZ1-es'
-tags: [  ]
 actualPrice: 16.06 EUR
 currency: EUR
 price: 16.06

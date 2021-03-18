@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YM4L8V9-es 20th Century Fox Home Entertainment España S.A. - Joker [DVD]'
 sku: 'B07YM4L8V9-es'
-tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

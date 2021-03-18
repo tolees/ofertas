@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7XWJXW-es Stor Spiderman Marvel | Sandwichera con 3 Compartimentos...'
 sku: 'B07P7XWJXW-es'
-tags: [  ]
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018W7LI6W-es Taurus Mycook Legend - Robot de Cocina por Inducción de 40...'
 sku: 'B018W7LI6W-es'
-tags: [  ]
 actualPrice: 471.2 EUR
 currency: EUR
 price: 471.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N42BYJK-es MINIONS - Blíster de Tres Giochi Preziosi DEP00002'
 sku: 'B01N42BYJK-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JG1FYN2-es Lacoste PH5522 Polo Gris Argent Chine Small para Hombre'
 sku: 'B07JG1FYN2-es'
-tags: [  ]
 actualPrice: 44.26 EUR
 currency: EUR
 price: 44.26

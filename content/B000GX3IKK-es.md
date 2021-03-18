@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000GX3IKK-es Invicta 8935 Pro Diver Reloj Unisex acero inoxidable...'
 sku: 'B000GX3IKK-es'
-tags: [  ]
 actualPrice: 49.53 EUR
 currency: EUR
 price: 49.53

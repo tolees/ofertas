@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GC4LRQW-es Logitech M110 Ratón con Cable USB Botones Silenciosos...'
 sku: 'B07GC4LRQW-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

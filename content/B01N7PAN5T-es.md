@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7PAN5T-es Sony HT-MT300 - Barra de sonido compacta 2.1 canales con...'
 sku: 'B01N7PAN5T-es'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

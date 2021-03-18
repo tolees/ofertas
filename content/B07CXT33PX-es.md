@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CXT33PX-es Scottex Aloe Vera Papel Higiénico - 36 rollos'
 sku: 'B07CXT33PX-es'
-tags: [  ]
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

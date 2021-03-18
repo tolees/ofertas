@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087XR2BD8-es Dodot Splashers Talla 4 88 Pañales bañadores desechables...'
 sku: 'B087XR2BD8-es'
-tags: [  ]
 actualPrice: 19.1 EUR
 currency: EUR
 price: 19.1

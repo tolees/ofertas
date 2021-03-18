@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HWQCWM-es FM London Vest Top and Leggings Conjunto Ropa Deportiva...'
 sku: 'B077HWQCWM-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

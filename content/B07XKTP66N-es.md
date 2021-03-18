@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XKTP66N-es PUMA teamGOAL 23 Teambag M Bolsa Deporte Unisex-Adult...'
 sku: 'B07XKTP66N-es'
-tags: [  ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

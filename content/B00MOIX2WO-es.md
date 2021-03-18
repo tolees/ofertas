@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MOIX2WO-es Beurer IPL9000 + - Depiladora de luz pulsada con base...'
 sku: 'B00MOIX2WO-es'
-tags: [  ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

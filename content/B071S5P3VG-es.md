@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071S5P3VG-es Asics Kanmei Zapatillas Para Correr - AW17-47'
 sku: 'B071S5P3VG-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

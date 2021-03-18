@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFGTDV4-es WD BLACK - WD BLACK P50 Game Drive de 1 TB - Velocidades...'
 sku: 'B07YFGTDV4-es'
-tags: [  ]
 actualPrice: 206.99 EUR
 currency: EUR
 price: 206.99

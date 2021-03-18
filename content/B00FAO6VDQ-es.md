@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FAO6VDQ-es Cybex - Silla de coche grupo 2/3 Solution X-Fix para...'
 sku: 'B00FAO6VDQ-es'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

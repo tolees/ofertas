@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSG374Z-es Silence'
 sku: 'B07NSG374Z-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

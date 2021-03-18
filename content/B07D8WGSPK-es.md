@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D8WGSPK-es Rimmel London Stay Satin Liquid Lip Colour Barra De Labios...'
 sku: 'B07D8WGSPK-es'
-tags: [  ]
 actualPrice: 3.78 EUR
 currency: EUR
 price: 3.78

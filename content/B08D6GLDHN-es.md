@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D6GLDHN-es Family Game classic Mini Consola - con 621 Videojuego de...'
 sku: 'B08D6GLDHN-es'
-tags: [  ]
 actualPrice: 43.98 EUR
 currency: EUR
 price: 43.98

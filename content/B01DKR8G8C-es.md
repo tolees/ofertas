@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DKR8G8C-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B01DKR8G8C-es'
-tags: [  ]
 actualPrice: 79.16 EUR
 currency: EUR
 price: 79.16

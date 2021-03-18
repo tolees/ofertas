@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00U2R3Y7M-es Dr Beckmann El Mago Quitamanchas 50 ml'
 sku: 'B00U2R3Y7M-es'
-tags: [  ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

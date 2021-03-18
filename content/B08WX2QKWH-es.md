@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WX2QKWH-es /N El Material Impermeable de poliéster para Cortina de...'
 sku: 'B08WX2QKWH-es'
-tags: [  ]
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

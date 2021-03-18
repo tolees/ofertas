@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018D8YZU6-es Vizaro - Cambiador Bebé Textil Acolchado - Portátil - Muy...'
 sku: 'B018D8YZU6-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

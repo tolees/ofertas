@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRGQJB1-es New Balance 624v5 Zapatillas Deportivas para Interior para...'
 sku: 'B07KRGQJB1-es'
-tags: [  ]
 actualPrice: 21.02 EUR
 currency: EUR
 price: 21.02

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPTRPZ6-es Sunnila Recargable 7.4V 2200mAh Calcetines Térmicos de...'
 sku: 'B08GPTRPZ6-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

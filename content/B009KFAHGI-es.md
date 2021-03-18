@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009KFAHGI-es bio3 - Bio Aceite Corporal - 125 ml'
 sku: 'B009KFAHGI-es'
-tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

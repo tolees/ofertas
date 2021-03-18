@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00R8RCLC8-es Floid Masaje Genuino Vigoroso - 150 ml'
 sku: 'B00R8RCLC8-es'
-tags: [  ]
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

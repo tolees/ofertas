@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087WGX5TF-es Wewant Toner TN 1050 Reemplazo para Brother TN1050...'
 sku: 'B087WGX5TF-es'
-tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

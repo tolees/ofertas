@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RHTCH3L-es Nihlsfen Ordenador portátil Ultrafino de 14 Pulgadas y...'
 sku: 'B08RHTCH3L-es'
-tags: [  ]
 actualPrice: 2.15 EUR
 currency: EUR
 price: 2.15

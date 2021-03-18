@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFY7ZG1-es PUMA Smash Wns v2 L Zapatillas para Mujer White-Rhubarb...'
 sku: 'B07KFY7ZG1-es'
-tags: [  ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

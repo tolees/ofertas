@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M1CL7Y-es Agger 2 Piezas de Asiento Ajustable posicionador del sueño...'
 sku: 'B087M1CL7Y-es'
-tags: [  ]
 actualPrice: 8.92 EUR
 currency: EUR
 price: 8.92

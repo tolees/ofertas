@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DP725MT-es Adidas Falcon W Zapatillas de Gimnasia para Mujer...'
 sku: 'B07DP725MT-es'
-tags: [  ]
 actualPrice: 62.91 EUR
 currency: EUR
 price: 62.91

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001GV2P3C-es American Crew Aceite de Afeitado Ultra-Lubricante 50 ml'
 sku: 'B001GV2P3C-es'
-tags: [  ]
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

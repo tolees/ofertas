@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JQLYZYB-es Under Armour UA Spieth Washed Cotton Cap Algodón Gorra...'
 sku: 'B07JQLYZYB-es'
-tags: [  ]
 actualPrice: 13.36 EUR
 currency: EUR
 price: 13.36

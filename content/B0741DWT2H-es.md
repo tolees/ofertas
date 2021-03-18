@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0741DWT2H-es Tristar FR-6996 Crispy XXL - Freidora sin aceite volumen...'
 sku: 'B0741DWT2H-es'
-tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

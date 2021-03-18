@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0053CBEEQ-es Warner Bros. Entertainment España S.L. - Friends -...'
 sku: 'B0053CBEEQ-es'
-tags: [  ]
 actualPrice: 56.85 EUR
 currency: EUR
 price: 56.85

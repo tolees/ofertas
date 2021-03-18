@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V1F48LV-es Jack & Jones Jjehill Knit Crew Neck Noos suéter Marfil...'
 sku: 'B07V1F48LV-es'
-tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GLYFLKM-es Bellota 7230043S3 Botas de trabajo de piel para hombre o...'
 sku: 'B01GLYFLKM-es'
-tags: [  ]
 actualPrice: 21.33 EUR
 currency: EUR
 price: 21.33

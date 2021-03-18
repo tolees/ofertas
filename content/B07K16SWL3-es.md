@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K16SWL3-es adidas Estro 19 JSY T-Shirt Boys Black 5-6 años'
 sku: 'B07K16SWL3-es'
-tags: [  ]
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

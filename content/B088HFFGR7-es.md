@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088HFFGR7-es luosh Japanese Matcha Starter Kit Fit licuadora de bambú...'
 sku: 'B088HFFGR7-es'
-tags: [  ]
 actualPrice: 20.24 EUR
 currency: EUR
 price: 20.24

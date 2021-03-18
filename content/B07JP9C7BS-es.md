@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JP9C7BS-es Morgan Tshirt Manches Courtes Col V Dentelle DMINOL...'
 sku: 'B07JP9C7BS-es'
-tags: [  ]
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

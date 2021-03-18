@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005TI5XYQ-es Illy caffè Máquina de café espresso compatible con...'
 sku: 'B005TI5XYQ-es'
-tags: [  ]
 actualPrice: 131.99 EUR
 currency: EUR
 price: 131.99

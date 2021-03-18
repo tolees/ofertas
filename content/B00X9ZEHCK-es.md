@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9ZEHCK-es Nivea Sun Spray Solar Niños Protege Juega FP50+ 1 x 300 ml...'
 sku: 'B00X9ZEHCK-es'
-tags: [  ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

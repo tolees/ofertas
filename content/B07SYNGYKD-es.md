@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SYNGYKD-es COOLMAN Herradura Pulsera de Hombre con Acero Inoxidable...'
 sku: 'B07SYNGYKD-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

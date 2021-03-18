@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C5QT5PJ-es Donnay CYNETIC Lady'
 sku: 'B07C5QT5PJ-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

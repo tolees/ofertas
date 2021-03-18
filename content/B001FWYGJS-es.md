@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001FWYGJS-es TP-Link TL-WR841N - WiFi router inalámbrico 300 Mbps de...'
 sku: 'B001FWYGJS-es'
-tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

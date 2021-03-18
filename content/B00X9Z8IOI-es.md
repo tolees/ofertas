@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9Z8IOI-es Friskies - Alimento para Perros Snacks Variety 126 g'
 sku: 'B00X9Z8IOI-es'
-tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078XXVZNY-es Russell Hobbs Adventure - Hervidor de Agua Eléctrico 2400...'
 sku: 'B078XXVZNY-es'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

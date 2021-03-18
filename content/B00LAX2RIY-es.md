@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LAX2RIY-es HENDI Bandejas para comida rápida mediana - Rojo -...'
 sku: 'B00LAX2RIY-es'
-tags: [  ]
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

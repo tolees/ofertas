@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CD1VRQ-es FMPC Carcasa con Cuerda Samsung Galaxy A70 Cristal TPU...'
 sku: 'B085CD1VRQ-es'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

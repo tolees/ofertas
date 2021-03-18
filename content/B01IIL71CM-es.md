@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IIL71CM-es SEVERIN RG 9645 Raclette Grill con Piedra Natural y...'
 sku: 'B01IIL71CM-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

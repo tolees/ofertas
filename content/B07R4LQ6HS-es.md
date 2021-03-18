@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R4LQ6HS-es Funda para Nintendo Switch HEYSTOP 11 en 1 Nintendo Switch...'
 sku: 'B07R4LQ6HS-es'
-tags: [  ]
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

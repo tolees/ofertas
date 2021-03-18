@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GOA0LYO-es NIRVEL NUTRE COLOR FUCSIA 200ML'
 sku: 'B01GOA0LYO-es'
-tags: [  ]
 actualPrice: 3.43 EUR
 currency: EUR
 price: 3.43

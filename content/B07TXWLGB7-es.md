@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TXWLGB7-es Kipling Cindy Carteras para Mujer Negro Carbon Metallic...'
 sku: 'B07TXWLGB7-es'
-tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

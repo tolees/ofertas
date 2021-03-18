@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6YF86M-es Tommy Hilfiger - Business Leather Extra Cc & Coin Carteras...'
 sku: 'B07V6YF86M-es'
-tags: [  ]
 actualPrice: 41.49 EUR
 currency: EUR
 price: 41.49

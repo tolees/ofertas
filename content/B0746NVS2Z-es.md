@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0746NVS2Z-es Logitech G603 LIGHTSPEED Ratón Gaming Inalámbrico...'
 sku: 'B0746NVS2Z-es'
-tags: [  ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

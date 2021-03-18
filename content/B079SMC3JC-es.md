@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SMC3JC-es Desigual Blus_Gala Navy 5000 Medium para Mujer'
 sku: 'B079SMC3JC-es'
-tags: [  ]
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

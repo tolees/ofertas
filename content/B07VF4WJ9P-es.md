@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF4WJ9P-es mama stadt Peluca de Cosplay Peluca para Adultos y Niños...'
 sku: 'B07VF4WJ9P-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

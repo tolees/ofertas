@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZHV5RDS-es F1 2019'
 sku: 'B07ZHV5RDS-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

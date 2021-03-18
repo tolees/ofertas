@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KW9SLQ3-es Salomon X Ultra 3 Prime GTX W Zapatillas de Senderismo...'
 sku: 'B07KW9SLQ3-es'
-tags: [  ]
 actualPrice: 48.16 EUR
 currency: EUR
 price: 48.16

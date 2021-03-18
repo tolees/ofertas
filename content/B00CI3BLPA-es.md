@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CI3BLPA-es Western Digital 1TB Elements USB 3.0 - Disco Duro Externo...'
 sku: 'B00CI3BLPA-es'
-tags: [  ]
 actualPrice: 57.32 EUR
 currency: EUR
 price: 57.32

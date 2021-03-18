@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D0FM96E-es GREAT ART XXL Póster – Barco Largo Viaje Al Paraíso –...'
 sku: 'B01D0FM96E-es'
-tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQ9DC95-es Sekiro: Shadows Die Twice'
 sku: 'B07DQ9DC95-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089VRHH5H-es WERNNSAI Manta Unicornio - 125 x 150cm Sherpa Manta de...'
 sku: 'B089VRHH5H-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

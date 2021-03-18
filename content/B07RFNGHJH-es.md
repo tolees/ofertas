@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RFNGHJH-es Salomon X Reveal GTX Zapatillas de Senderismo Hombre Azul...'
 sku: 'B07RFNGHJH-es'
-tags: [  ]
 actualPrice: 69.69 EUR
 currency: EUR
 price: 69.69

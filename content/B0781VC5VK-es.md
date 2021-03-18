@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781VC5VK-es BIC 950468 marcado marcador permanente – intensos colores...'
 sku: 'B0781VC5VK-es'
-tags: [ 'bic', ]
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

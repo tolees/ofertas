@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKCD237-es Nike M NSW Tank Icon Futura Top Hombre Black/ Habanero Red'
 sku: 'B07FKCD237-es'
-tags: [  ]
 actualPrice: 8.65 EUR
 currency: EUR
 price: 8.65

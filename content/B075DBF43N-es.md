@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DBF43N-es Epson EcoTank ET-7700 - Impresora color negro'
 sku: 'B075DBF43N-es'
-tags: [  ]
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

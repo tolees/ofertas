@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PNKB6XD-es SELECTA VISION - Dragon Ball Z Sagas Completas Box 1 Ep. 1...'
 sku: 'B07PNKB6XD-es'
-tags: [  ]
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

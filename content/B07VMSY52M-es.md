@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VMSY52M-es SCHNEIDER CONSUMER - Barra De Sonido Sc600Snd Soundbar 2.0...'
 sku: 'B07VMSY52M-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

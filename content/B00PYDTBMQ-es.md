@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PYDTBMQ-es Nike Md Runner 2 - Zapatillas de correr para Hombre Negro...'
 sku: 'B00PYDTBMQ-es'
-tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

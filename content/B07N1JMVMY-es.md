@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JMVMY-es Clarks Verona Gleam Botas Plisadas para Mujer Braun...'
 sku: 'B07N1JMVMY-es'
-tags: [  ]
 actualPrice: 35.52 EUR
 currency: EUR
 price: 35.52

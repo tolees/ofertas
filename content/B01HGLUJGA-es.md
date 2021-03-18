@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HGLUJGA-es Bio-Oil Aceite para el Cuidade de la Piel Fresh 200...'
 sku: 'B01HGLUJGA-es'
-tags: [  ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

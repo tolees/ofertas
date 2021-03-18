@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PDR5FKU-es Liderpapel PA03 - Papel'
 sku: 'B00PDR5FKU-es'
-tags: [  ]
 actualPrice: 3.03 EUR
 currency: EUR
 price: 3.03

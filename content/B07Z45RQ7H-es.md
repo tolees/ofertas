@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z45RQ7H-es Windows 10 Profesional 32/64 bits Mcrosoft | 100% garantía...'
 sku: 'B07Z45RQ7H-es'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

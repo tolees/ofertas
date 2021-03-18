@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M8NY7ZH-es Gb Gold Pockit + All-Terrain 619000215 Silla de Paseo 6...'
 sku: 'B07M8NY7ZH-es'
-tags: [  ]
 actualPrice: 136.34 EUR
 currency: EUR
 price: 136.34

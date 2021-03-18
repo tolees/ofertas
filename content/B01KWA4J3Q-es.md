@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KWA4J3Q-es Saint Seiya Box 7 [DVD]'
 sku: 'B01KWA4J3Q-es'
-tags: [  ]
 actualPrice: 15.02 EUR
 currency: EUR
 price: 15.02

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00J98ZCU2-es Wilkinson Xtreme 3 Pure Sensitive - Maquinilla de afeitar...'
 sku: 'B00J98ZCU2-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

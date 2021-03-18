@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HTLLRJ-es TopHGC Porta medallas Deportivo Colgador de medallas de...'
 sku: 'B082HTLLRJ-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

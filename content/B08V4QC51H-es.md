@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V4QC51H-es luosh Soporte de Filtro para micrófono Stick Soporte de...'
 sku: 'B08V4QC51H-es'
-tags: [  ]
 actualPrice: 10.43 EUR
 currency: EUR
 price: 10.43

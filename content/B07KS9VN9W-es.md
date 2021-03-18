@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KS9VN9W-es Grupo Erik - Álbum fotos Scrapbook 40 páginas 25x25 CM'
 sku: 'B07KS9VN9W-es'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079CBP6P9-es Paladone PP4140PS Lámpara "PlayStation" Multicolor'
 sku: 'B079CBP6P9-es'
-tags: [  ]
 actualPrice: 22.38 EUR
 currency: EUR
 price: 22.38

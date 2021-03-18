@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0865J1KZN-es Oxímetro de Pulso Oxímetro de Dedo Digital Monitor de...'
 sku: 'B0865J1KZN-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

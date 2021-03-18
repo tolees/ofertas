@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X0W9SG2-es Tommy Hilfiger Johnson CC and Coin Pocket Cartera para...'
 sku: 'B00X0W9SG2-es'
-tags: [  ]
 actualPrice: 48.68 EUR
 currency: EUR
 price: 48.68

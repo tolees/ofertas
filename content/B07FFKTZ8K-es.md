@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFKTZ8K-es Fossil Smartwatch para Hombre con Correa en Cuero FTW4016'
 sku: 'B07FFKTZ8K-es'
-tags: [  ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

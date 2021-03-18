@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085DF4BJX-es ADOVEL Orinal Infantil Orinal Bebe WC Niños para Bebé...'
 sku: 'B085DF4BJX-es'
-tags: [  ]
 actualPrice: 35.85 EUR
 currency: EUR
 price: 35.85

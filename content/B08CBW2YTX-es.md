@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBW2YTX-es adidas Solid CLX SH SL Bañador Hombre rossen XS'
 sku: 'B08CBW2YTX-es'
-tags: [  ]
 actualPrice: 17.15 EUR
 currency: EUR
 price: 17.15

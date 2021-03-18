@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076TBLYSB-es Skechers Graceful-Get Connected Zapatillas Mujer...'
 sku: 'B076TBLYSB-es'
-tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

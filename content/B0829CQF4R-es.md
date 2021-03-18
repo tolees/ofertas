@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829CQF4R-es Dolce Gusto De Longhi - De Longhi Dolce Gusto Infinissima...'
 sku: 'B0829CQF4R-es'
-tags: [ 'dolce gusto delonghi', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

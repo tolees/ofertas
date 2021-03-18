@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFJCMT5-es Funko-Pop Heroes: Aquaman-Arthur Curry as Gladiator DC...'
 sku: 'B07DFJCMT5-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

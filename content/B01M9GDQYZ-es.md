@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M9GDQYZ-es DC Super Hero Girls - Badge Pack Girls Will Rule The World'
 sku: 'B01M9GDQYZ-es'
-tags: [  ]
 actualPrice: 0.5 EUR
 currency: EUR
 price: 0.5

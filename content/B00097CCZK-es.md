@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00097CCZK-es Verbatim DVD-R 4 7 GB / 120 Min / 16X Tarrina 25 Discos...'
 sku: 'B00097CCZK-es'
-tags: [ 'verbatim', ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

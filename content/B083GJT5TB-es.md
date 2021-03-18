@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083GJT5TB-es MEOMY Palomitero Maquina de Palomitas de Aire Caliente con...'
 sku: 'B083GJT5TB-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

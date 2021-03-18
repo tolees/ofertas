@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008HQU0JK-es Tommee Tippee Closer to Nature - Sacaleches eléctrico'
 sku: 'B008HQU0JK-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

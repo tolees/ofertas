@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089YHXJ1H-es Decdeal Piscina de Baño para Mascotas Piscina Plegable PVC...'
 sku: 'B089YHXJ1H-es'
-tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

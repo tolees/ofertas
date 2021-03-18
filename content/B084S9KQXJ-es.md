@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084S9KQXJ-es Gioseppo Chastre Zapatillas para Niñas Blanco 33 EU'
 sku: 'B084S9KQXJ-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

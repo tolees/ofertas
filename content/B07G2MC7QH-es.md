@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G2MC7QH-es JACK & JONES JACHUEY TRUNKS 5 PACK NOOS Bóxer Negro Black...'
 sku: 'B07G2MC7QH-es'
-tags: [  ]
 actualPrice: 25.39 EUR
 currency: EUR
 price: 25.39

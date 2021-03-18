@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005ZUFTJC-es Tayg 602351 10 litros cánula rojo Bidón 10L'
 sku: 'B005ZUFTJC-es'
-tags: [  ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

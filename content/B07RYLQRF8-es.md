@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYLQRF8-es KFD 65W Cargador Adaptador de Corriente para Intel Nuc Kit...'
 sku: 'B07RYLQRF8-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

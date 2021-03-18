@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071LTC9X4-es New Balance Pc574v1 Zapatillas Unisex Niños Negro...'
 sku: 'B071LTC9X4-es'
-tags: [  ]
 actualPrice: 30.85 EUR
 currency: EUR
 price: 30.85

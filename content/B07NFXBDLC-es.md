@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFXBDLC-es Energy Sistem Urban 4 Auriculares inalámbricos con...'
 sku: 'B07NFXBDLC-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','energy sistem', ]
 actualPrice: 23.92 EUR
 currency: EUR
 price: 23.92

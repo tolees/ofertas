@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WHQGMH7-es Reloj Seiko para Hombre Turquesa Sense 7K1'
 sku: 'B07WHQGMH7-es'
-tags: [  ]
 actualPrice: 200.09 EUR
 currency: EUR
 price: 200.09

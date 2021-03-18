@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075JNXWYT-es Philips MG3730/15 Recortadora 8 en 1 Maquina recortadora...'
 sku: 'B075JNXWYT-es'
-tags: [  ]
 actualPrice: 22.1 EUR
 currency: EUR
 price: 22.1

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WCH5BN-es Pepe Jeans Samantha Neceser Dos Compartimentos Adaptable...'
 sku: 'B071WCH5BN-es'
-tags: [ 'pepe jeans', ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

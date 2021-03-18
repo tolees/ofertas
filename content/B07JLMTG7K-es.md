@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLMTG7K-es Deik Planchas de Ropa 2000W Plancha Ropa Vapor Vapor...'
 sku: 'B07JLMTG7K-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

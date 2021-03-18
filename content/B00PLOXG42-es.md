@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PLOXG42-es Western Digtal - Disco Duro De 2Tb - Wd Elements 2.5 Pulgadas'
 sku: 'B00PLOXG42-es'
-tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000I2J4SY-es JVC HA-L50W Cuffie Leggere 18 - 22000 Hz 3 cm 1 5 m Bianco'
 sku: 'B000I2J4SY-es'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

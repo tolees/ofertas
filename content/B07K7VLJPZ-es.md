@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K7VLJPZ-es Mr. Wonderful Llavero Squishy 5 X 21 X 3.1 Cm Multicolor'
 sku: 'B07K7VLJPZ-es'
-tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079W3V4RX-es Philips Plancha a vapor EasySpeed Plus 30 g/min 110 g...'
 sku: 'B079W3V4RX-es'
-tags: [  ]
 actualPrice: 24.51 EUR
 currency: EUR
 price: 24.51

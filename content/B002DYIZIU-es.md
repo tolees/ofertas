@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002DYIZIU-es Optimum Nutrition BCAA 5000 en Polvo Suplementos...'
 sku: 'B002DYIZIU-es'
-tags: [  ]
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

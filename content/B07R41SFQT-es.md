@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R41SFQT-es PARTU Purificador de Aire con Filtro HEPA Filtro de Nivel...'
 sku: 'B07R41SFQT-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

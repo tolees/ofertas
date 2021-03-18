@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2SN5MB-es New Balance 500 Zapatillas para Mujer Rosa Pink Hgy 35 EU'
 sku: 'B07S2SN5MB-es'
-tags: [  ]
 actualPrice: 21.09 EUR
 currency: EUR
 price: 21.09

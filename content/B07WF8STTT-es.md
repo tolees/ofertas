@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WF8STTT-es Salomon XA Pro 3D V8 Zapatillas De Trail Running Y...'
 sku: 'B07WF8STTT-es'
-tags: [  ]
 actualPrice: 93.27 EUR
 currency: EUR
 price: 93.27

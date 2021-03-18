@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y4W2PR5-es Doctor Hetzner Botelleros Vino DIY Soporte de Botella 28 *...'
 sku: 'B07Y4W2PR5-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

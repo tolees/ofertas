@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V68DQGV-es Masthome - Sartén para Leche con Olla 10 Piezas Acero...'
 sku: 'B07V68DQGV-es'
-tags: [  ]
 actualPrice: 49.54 EUR
 currency: EUR
 price: 49.54

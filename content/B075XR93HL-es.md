@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075XR93HL-es Bresser Full HD Deep-Sky Cámara - Verde 4959050'
 sku: 'B075XR93HL-es'
-tags: [ 'bresser', ]
 actualPrice: 174.12 EUR
 currency: EUR
 price: 174.12

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076FHTW27-es Hurley M DRI-FIT Breathe 19 Bermudas Hombre Negro 31'
 sku: 'B076FHTW27-es'
-tags: [  ]
 actualPrice: 28.47 EUR
 currency: EUR
 price: 28.47

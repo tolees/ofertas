@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYTJQGN-es Skechers Men s DYNA-AIR Trainers Grey Charcoal Mesh/Black...'
 sku: 'B07NYTJQGN-es'
-tags: [  ]
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

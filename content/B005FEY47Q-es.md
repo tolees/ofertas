@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005FEY47Q-es Casio Reloj de Pulsera A159WGEA-1EF'
 sku: 'B005FEY47Q-es'
-tags: [  ]
 actualPrice: 38.07 EUR
 currency: EUR
 price: 38.07

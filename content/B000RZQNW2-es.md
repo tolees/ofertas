@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000RZQNW2-es TRIXIE Arnés-Bozal Guía Top Trainer XL 46 cm Perro'
 sku: 'B000RZQNW2-es'
-tags: [ 'trixie', ]
 actualPrice: 4.94 EUR
 currency: EUR
 price: 4.94

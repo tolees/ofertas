@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NA6XFE4-es Flexson SONOS Play:1 - Soporte de pie para SONOS Play:1 Negro'
 sku: 'B00NA6XFE4-es'
-tags: [  ]
 actualPrice: 44.61 EUR
 currency: EUR
 price: 44.61

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VD6GKNC-es NIANYU - 𝙊𝒙𝒊𝒎𝒆𝒕𝒓𝒐 Portátil de Alta Precisión con Pantalla...'
 sku: 'B08VD6GKNC-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

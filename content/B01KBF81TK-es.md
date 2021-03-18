@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KBF81TK-es ESPRIT Bodywear 995EF1T932 Sujetador Mujer Negro Black 36...'
 sku: 'B01KBF81TK-es'
-tags: [  ]
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

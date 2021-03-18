@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EU82YMK-es Jeanne Piaubert Suprem`Advance Premium Sérum 30 ml'
 sku: 'B00EU82YMK-es'
-tags: [  ]
 actualPrice: 117.54 EUR
 currency: EUR
 price: 117.54

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WX6SRZ-es AUELEK Linterna LED P50 Linterna LED Alta Potencia 5...'
 sku: 'B082WX6SRZ-es'
-tags: [  ]
 actualPrice: 13.31 EUR
 currency: EUR
 price: 13.31

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002TDT7PA-es TRIXIE Pelota Caucho Natural con Sonido ø5.5 cm Perro'
 sku: 'B002TDT7PA-es'
-tags: [  ]
 actualPrice: 3.8 EUR
 currency: EUR
 price: 3.8

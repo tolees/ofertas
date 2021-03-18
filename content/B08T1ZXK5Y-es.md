@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T1ZXK5Y-es WOWOWO Taza de Acero Inoxidable de café vietnamita...'
 sku: 'B08T1ZXK5Y-es'
-tags: [  ]
 actualPrice: 10.53 EUR
 currency: EUR
 price: 10.53

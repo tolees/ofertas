@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NGGR9J4-es BRA Premiere Lote de sartenes 20 y 24 cm de Aluminio...'
 sku: 'B07NGGR9J4-es'
-tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

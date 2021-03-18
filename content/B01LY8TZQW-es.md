@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LY8TZQW-es TruffleShuffle Taza con color cambiante al calor con...'
 sku: 'B01LY8TZQW-es'
-tags: [  ]
 actualPrice: 18.19 EUR
 currency: EUR
 price: 18.19

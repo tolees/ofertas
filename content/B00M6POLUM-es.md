@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00M6POLUM-es Philips Avent - Juego de recipientes para comida de bebé...'
 sku: 'B00M6POLUM-es'
-tags: [  ]
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

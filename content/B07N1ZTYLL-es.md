@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N1ZTYLL-es Pinypon - Habitación de Las Brujitas con Accesorios y 1...'
 sku: 'B07N1ZTYLL-es'
-tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

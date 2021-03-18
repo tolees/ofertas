@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZY93FVG-es QueDreams Basic Colchon viscoelastico desenfundable...'
 sku: 'B07ZY93FVG-es'
-tags: [  ]
 actualPrice: 86.51 EUR
 currency: EUR
 price: 86.51

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0053CBM8Y-es The Walt Disney Company - Disney - Enredados - DVD'
 sku: 'B0053CBM8Y-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WBB6XS-es Palladium Pampa Ox Orig U Zapatillas Unisex Adulto Negro...'
 sku: 'B078WBB6XS-es'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

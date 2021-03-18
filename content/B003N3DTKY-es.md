@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003N3DTKY-es Startech.com DP2MDPMF6IN - Cable de 15 cm Adaptador...'
 sku: 'B003N3DTKY-es'
-tags: [  ]
 actualPrice: 5.43 EUR
 currency: EUR
 price: 5.43

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WYLDNR3-es Cargador de Batería Coche BUDDYGO Nueva Versión 8A 12V/24V...'
 sku: 'B07WYLDNR3-es'
-tags: [  ]
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

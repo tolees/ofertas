@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYPSFDS-es Hurley M Phtm Vagabond Surplus Boonie Black S-M'
 sku: 'B08GYPSFDS-es'
-tags: [  ]
 actualPrice: 25.71 EUR
 currency: EUR
 price: 25.71

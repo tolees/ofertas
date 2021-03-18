@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084KCQHCN-es Samsung Galaxy S20+ 5G - Smartphone 6.7" Dynamic AMOLED...'
 sku: 'B084KCQHCN-es'
-tags: [ 'Accesorios para sillas de coche','Bebé','Blu-ray','Bélico','Camisas casual para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Comunicación móvil y accesorios','Cubertería, Vajilla y Cristalería','Electrónica','Espejos para asientos traseros','Featured Categories','Hogar y cocina','Móviles','Móviles y smartphones libres','Películas','Películas y TV','Piezas de vajilla','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Sillas de coche y accesorios','Tazas','Tazas de té','samsung', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

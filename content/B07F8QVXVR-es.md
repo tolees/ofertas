@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F8QVXVR-es Funda Galaxy J5 2015 MHHQ Slim Glitter Sparkle Bling Cute...'
 sku: 'B07F8QVXVR-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

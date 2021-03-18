@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MLF1XJH-es ATOYX AT-96 - Drone para niños'
 sku: 'B07MLF1XJH-es'
-tags: [  ]
 actualPrice: 16.24 EUR
 currency: EUR
 price: 16.24

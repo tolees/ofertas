@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LX5S7P6-es Lacoste 2010762 Lacoste.12.12 - Reloj analógico de pulsera...'
 sku: 'B00LX5S7P6-es'
-tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MNT54ZC-es Ferilinso Cristal Templado para Xiaomi Mi 9 Lite Redmi...'
 sku: 'B07MNT54ZC-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

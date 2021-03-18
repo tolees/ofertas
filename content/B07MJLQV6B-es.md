@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJLQV6B-es JANABEBE Funda para Coche Stokke Xplori y Stokke Crusi...'
 sku: 'B07MJLQV6B-es'
-tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R3MQ59N-es Calvin Klein Casual Adj. Belt 3.5cm Cinturón Marrón...'
 sku: 'B07R3MQ59N-es'
-tags: [  ]
 actualPrice: 28.82 EUR
 currency: EUR
 price: 28.82

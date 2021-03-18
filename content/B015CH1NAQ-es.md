@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015CH1NAQ-es SanDisk Ultra Flair Memoria flash USB 3.0 de 64 GB con...'
 sku: 'B015CH1NAQ-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','sandisk', ]
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

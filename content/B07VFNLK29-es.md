@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VFNLK29-es Hugo BOSS Reloj Analógico para Mujer de Cuarzo con Correa...'
 sku: 'B07VFNLK29-es'
-tags: [  ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

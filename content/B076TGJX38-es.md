@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076TGJX38-es BRA Prior Pincel de Cocina Apta para el Contacto con los...'
 sku: 'B076TGJX38-es'
-tags: [  ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

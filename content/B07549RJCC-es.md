@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07549RJCC-es Pekatherm UP205 - Calientacamas Doble de Poliéster 160 x...'
 sku: 'B07549RJCC-es'
-tags: [  ]
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

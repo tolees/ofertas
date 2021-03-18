@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077KKZN96-es Control Pleasure Booster - Anillo vibrador con estimulador...'
 sku: 'B077KKZN96-es'
-tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

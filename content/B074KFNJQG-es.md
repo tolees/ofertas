@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074KFNJQG-es Logitech Craft Teclado Inalámbrico 2.4 GHz/Bluetooth Disco...'
 sku: 'B074KFNJQG-es'
-tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

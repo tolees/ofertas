@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0822YBGK3-es Braun Series 3 300 Afeitadora Eléctrica Maquinilla para...'
 sku: 'B0822YBGK3-es'
-tags: [  ]
 actualPrice: 39.1 EUR
 currency: EUR
 price: 39.1

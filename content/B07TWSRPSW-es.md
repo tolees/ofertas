@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWSRPSW-es KiplingAbanu MultiMujerBolsos bandoleraGris Curiosity Grey...'
 sku: 'B07TWSRPSW-es'
-tags: [  ]
 actualPrice: 31.28 EUR
 currency: EUR
 price: 31.28

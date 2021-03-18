@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082FS5KCJ-es Funko - Pop! Marvel: X-Men 20th- Nightcrawler'
 sku: 'B082FS5KCJ-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VR53UC2-es Skechers Men s STAMINA CUTBACK Trainers Blue Navy & Black...'
 sku: 'B00VR53UC2-es'
-tags: [  ]
 actualPrice: 38.32 EUR
 currency: EUR
 price: 38.32

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H5X9PQ1-es Skechers Flex Appeal 3.0-First Insight Zapatillas Mujer...'
 sku: 'B07H5X9PQ1-es'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

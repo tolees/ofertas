@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y86KMSX-es Nike Sunray Protect 2 PS Sandal University Red/Anthracite-...'
 sku: 'B07Y86KMSX-es'
-tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

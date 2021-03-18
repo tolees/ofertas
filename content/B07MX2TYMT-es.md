@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MX2TYMT-es Apple Smart Battery Case for iPhone XS MAX - White'
 sku: 'B07MX2TYMT-es'
-tags: [  ]
 actualPrice: 57.07 EUR
 currency: EUR
 price: 57.07

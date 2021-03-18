@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KM8QF58-es NIKE Nk Elmntl Bkpk-2.0 Mochilla de Deporte Unisex Adulto...'
 sku: 'B07KM8QF58-es'
-tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

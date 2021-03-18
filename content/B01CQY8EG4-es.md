@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CQY8EG4-es Gilde Handwerk Fieltro Juego de manteles trébol Gris...'
 sku: 'B01CQY8EG4-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

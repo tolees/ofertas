@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XDPSRK-es Funda Universal para Tableta portátil Funda Ultra Suave...'
 sku: 'B082XDPSRK-es'
-tags: [  ]
 actualPrice: 1.81 EUR
 currency: EUR
 price: 1.81

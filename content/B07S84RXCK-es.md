@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S84RXCK-es Control Nature - Caja de Condones gama natural lubricados...'
 sku: 'B07S84RXCK-es'
-tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

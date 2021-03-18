@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073WPYZ37-es Aceites Esenciales aromaterapia Set incluye parte superior...'
 sku: 'B073WPYZ37-es'
-tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

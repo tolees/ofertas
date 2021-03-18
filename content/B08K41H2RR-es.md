@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K41H2RR-es iporachx Auriculares Inalambricos Bluetooth 5.0...'
 sku: 'B08K41H2RR-es'
-tags: [  ]
 actualPrice: 27.18 EUR
 currency: EUR
 price: 27.18

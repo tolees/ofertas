@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SM88R4K-es Funko- Pop Heroes: Birds of Prey-Harley Quinn Roller Derby...'
 sku: 'B07SM88R4K-es'
-tags: [  ]
 actualPrice: 13.35 EUR
 currency: EUR
 price: 13.35

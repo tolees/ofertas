@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E0IVZM0-es Bosch 2607017180 - Atornillador manual con puntas de...'
 sku: 'B00E0IVZM0-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B64TLHC-es GOTOTOP Militar Impermeable Ejército Encapuchado Capa de...'
 sku: 'B07B64TLHC-es'
-tags: [  ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

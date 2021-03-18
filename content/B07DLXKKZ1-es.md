@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLXKKZ1-es Panama Jack Tania Botas Altas para Mujer Azul Marino B31...'
 sku: 'B07DLXKKZ1-es'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

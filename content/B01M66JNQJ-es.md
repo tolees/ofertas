@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M66JNQJ-es Electronic Arts - Los Sims 4: Urbanitas PC'
 sku: 'B01M66JNQJ-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

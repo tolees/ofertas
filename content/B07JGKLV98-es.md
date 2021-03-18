@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGKLV98-es HBselect Gorros De Punto Bebe Niños Invierno Gorra Bebe...'
 sku: 'B07JGKLV98-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

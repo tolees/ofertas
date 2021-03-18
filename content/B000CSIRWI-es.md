@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000CSIRWI-es NGK CR9E - Bujía'
 sku: 'B000CSIRWI-es'
-tags: [  ]
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

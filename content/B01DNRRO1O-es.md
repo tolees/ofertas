@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DNRRO1O-es Fleck EU Termo Eléctrico BON 75 2.0 W 230 V 75 L Fabricado...'
 sku: 'B01DNRRO1O-es'
-tags: [  ]
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

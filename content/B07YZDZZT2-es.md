@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YZDZZT2-es Femometer Pastillero Semanal 3 Tomas 7 Dias 21...'
 sku: 'B07YZDZZT2-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

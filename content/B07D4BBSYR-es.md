@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4BBSYR-es Yizhet 5 Piezas de Lámpara Super Brillante de 6 LEDs UEB...'
 sku: 'B07D4BBSYR-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

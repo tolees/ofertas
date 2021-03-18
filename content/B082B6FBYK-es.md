@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082B6FBYK-es Brazo de Monitor Individual HUANUO Base de Monitor de...'
 sku: 'B082B6FBYK-es'
-tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

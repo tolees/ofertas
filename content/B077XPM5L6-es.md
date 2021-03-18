@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XPM5L6-es New Balance 247v2 Zapatillas para Mujer Verde Covert...'
 sku: 'B077XPM5L6-es'
-tags: [  ]
 actualPrice: 29.36 EUR
 currency: EUR
 price: 29.36

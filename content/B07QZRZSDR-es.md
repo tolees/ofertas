@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZRZSDR-es Irrigador Dental Portátil - Liberex Irrigador Bucal...'
 sku: 'B07QZRZSDR-es'
-tags: [  ]
 actualPrice: 24.28 EUR
 currency: EUR
 price: 24.28

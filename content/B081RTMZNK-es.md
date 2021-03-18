@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081RTMZNK-es PUMA At ESS Barrel Bag Bolsa Deporte Mujer Black/Fizzy...'
 sku: 'B081RTMZNK-es'
-tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

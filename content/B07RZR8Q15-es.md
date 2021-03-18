@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZR8Q15-es Batidora de Vaso AICOOK Batidora 3 en 1 con Molinillo y...'
 sku: 'B07RZR8Q15-es'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

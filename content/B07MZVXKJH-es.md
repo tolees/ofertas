@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZVXKJH-es FILA Disruptor Zapatillas Mujer Negro Black/Black 38 EU'
 sku: 'B07MZVXKJH-es'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

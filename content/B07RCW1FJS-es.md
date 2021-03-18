@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RCW1FJS-es Lurrose Juegos de Maquina de Afeitar de ceja de 3 Piezas...'
 sku: 'B07RCW1FJS-es'
-tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

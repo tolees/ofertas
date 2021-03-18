@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHCLCF7-es Walt Disney Pictures - El Rey León BD imagen real [Blu-ray]'
 sku: 'B07VHCLCF7-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

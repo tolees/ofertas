@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076S98WLK-es MiraBox Extensor HDMI con control IR y extractor de audio...'
 sku: 'B076S98WLK-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores DVI-HDMI','Informática','mirabox', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

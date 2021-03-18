@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMN9QVH-es Amazon - Echo Show 8 reacondicionado certificado tela de...'
 sku: 'B07SMN9QVH-es'
-tags: [ 'amazon', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

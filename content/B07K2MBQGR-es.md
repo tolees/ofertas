@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2MBQGR-es adidas RUNFALCON Zapatillas de Trail Running para Mujer...'
 sku: 'B07K2MBQGR-es'
-tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

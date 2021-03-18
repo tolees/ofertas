@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NC86D6F-es Electronic Arts - BATTLEFIELD 1 - Revolution DLC | Código...'
 sku: 'B07NC86D6F-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

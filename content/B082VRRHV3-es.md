@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VRRHV3-es Lee Daren Zip Fly Jeans Enjuague 34W x 34L para Hombre'
 sku: 'B082VRRHV3-es'
-tags: [  ]
 actualPrice: 34.14 EUR
 currency: EUR
 price: 34.14

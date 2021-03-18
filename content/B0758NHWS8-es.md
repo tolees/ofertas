@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0758NHWS8-es SanDisk Ultra Tarjeta de memoria microSDXC con adaptador...'
 sku: 'B0758NHWS8-es'
-tags: [  ]
 actualPrice: 33.29 EUR
 currency: EUR
 price: 33.29

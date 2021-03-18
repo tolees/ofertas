@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6CFWDH-es BRIKSMAX Kit de Iluminación Led para Lego Ideas Doctor Who...'
 sku: 'B07W6CFWDH-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

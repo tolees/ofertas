@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVXMFLG-es Xnuoyo Cepillo de Limpieza Facial 5 en 1 Masajeador Facial...'
 sku: 'B07WVXMFLG-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

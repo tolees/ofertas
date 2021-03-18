@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002NBJGNG-es Lexmark 14N1069E - Cartucho tinta color cian'
 sku: 'B002NBJGNG-es'
-tags: [  ]
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

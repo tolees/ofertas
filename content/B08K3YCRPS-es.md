@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K3YCRPS-es Anykuu Webcam 1080p Full HD con Micrófono USB portátil...'
 sku: 'B08K3YCRPS-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

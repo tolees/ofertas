@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WJJLGNC-es HOMYBABY Almohada Bebe | Cojin Plagiocefalia y 2 Fundas de...'
 sku: 'B08WJJLGNC-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

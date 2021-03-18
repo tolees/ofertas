@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BCLLXZ1-es Moulinex QuickChef DD65AD Batidora de Mano de 1000 W 10...'
 sku: 'B07BCLLXZ1-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

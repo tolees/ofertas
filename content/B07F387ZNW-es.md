@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F387ZNW-es Triducna Masajeador de Pies Eléctrico Masaje Shiatsu con...'
 sku: 'B07F387ZNW-es'
-tags: [  ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

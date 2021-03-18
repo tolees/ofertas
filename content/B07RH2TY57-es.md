@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH2TY57-es Levi s Tumbled Belt Cinturón Marrón Medium Brown 27 100...'
 sku: 'B07RH2TY57-es'
-tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

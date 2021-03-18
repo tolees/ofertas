@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814SNZPG-es Under Armour Armour Mid Keyhole Graphic Sujetador...'
 sku: 'B0814SNZPG-es'
-tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

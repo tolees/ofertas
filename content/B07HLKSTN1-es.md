@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HLKSTN1-es Samsung S34J552 - Monitor de 34" UltraWide QHD 3440x1440 4...'
 sku: 'B07HLKSTN1-es'
-tags: [  ]
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

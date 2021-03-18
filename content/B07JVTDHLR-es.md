@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JVTDHLR-es Asics Gel-Odyssey Walking Shoe Mujer Negro 39.5 EU'
 sku: 'B07JVTDHLR-es'
-tags: [  ]
 actualPrice: 64.86 EUR
 currency: EUR
 price: 64.86

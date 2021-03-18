@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000IJ0T0O-es Braun EN10 - Cortapelos nariz y orejas color plata'
 sku: 'B000IJ0T0O-es'
-tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

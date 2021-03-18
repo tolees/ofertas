@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LRQDRT-es Munich Wave 33 Zapatillas Unisex Adulto Multicolor 37 EU'
 sku: 'B085LRQDRT-es'
-tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

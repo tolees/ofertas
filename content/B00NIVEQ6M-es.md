@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NIVEQ6M-es Mustard M 16028 - Soporte magnético para clips con diseño...'
 sku: 'B00NIVEQ6M-es'
-tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

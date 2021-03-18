@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQNL5R6-es Goliath- Boomtrix Pack Lanzadera y trampolines 80602...'
 sku: 'B07BQNL5R6-es'
-tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BFSQXMU-es Eudermin Manos Crema Protectora - 75 ml'
 sku: 'B00BFSQXMU-es'
-tags: [  ]
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

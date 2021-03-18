@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SB1Z3C9-es Helly Hansen Active Wind Jacket Cortavientos Hombre Navy S'
 sku: 'B07SB1Z3C9-es'
-tags: [  ]
 actualPrice: 59.66 EUR
 currency: EUR
 price: 59.66

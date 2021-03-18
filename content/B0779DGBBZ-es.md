@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0779DGBBZ-es adidas Ask SPRT ST M Tights Hombre White 2XL'
 sku: 'B0779DGBBZ-es'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

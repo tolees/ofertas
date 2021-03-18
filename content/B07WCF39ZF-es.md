@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WCF39ZF-es isermeo Corrector de Postura Espalda y Hombros [2019...'
 sku: 'B07WCF39ZF-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J3WLAV8-es ONLY onlNEW ROYAL REG SK. BIKER COATED NOOS Pantalones...'
 sku: 'B01J3WLAV8-es'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

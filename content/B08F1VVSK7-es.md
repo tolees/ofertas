@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F1VVSK7-es 3W GRT Pantalones De Yoga para Mujer Pantalones De Yoga...'
 sku: 'B08F1VVSK7-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

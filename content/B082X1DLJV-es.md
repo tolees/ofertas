@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082X1DLJV-es Hurley M Phtm Party Pack 18 Bañador Hombre Washed Pink 36'
 sku: 'B082X1DLJV-es'
-tags: [  ]
 actualPrice: 13.68 EUR
 currency: EUR
 price: 13.68

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB7WTQD-es Funko- Pop Vinyl: Rocks: AC/DC: Angus Young w/Chase Styles...'
 sku: 'B07HB7WTQD-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

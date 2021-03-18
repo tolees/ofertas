@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MN52YK-es Tenda U3 Mini Adaptador Inalámbrico USB 300 Mbps Velocidad...'
 sku: 'B077MN52YK-es'
-tags: [  ]
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

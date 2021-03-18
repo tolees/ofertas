@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TNNZ8JZ-es TopMate Soporte para portátil con base giratoria de 360°...'
 sku: 'B07TNNZ8JZ-es'
-tags: [  ]
 actualPrice: 17.88 EUR
 currency: EUR
 price: 17.88

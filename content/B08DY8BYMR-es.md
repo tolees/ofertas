@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DY8BYMR-es O³ Cepillo Perro Pelo Largo - con Juego de Cortauñas Perro...'
 sku: 'B08DY8BYMR-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

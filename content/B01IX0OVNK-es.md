@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IX0OVNK-es Triumph Modern Posy W Sujetador para Mujer Beige Neutral...'
 sku: 'B01IX0OVNK-es'
-tags: [  ]
 actualPrice: 20.71 EUR
 currency: EUR
 price: 20.71

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZ6QG63-es Art Cambridge Botas Clasicas para Hombre Rojo Burdeos...'
 sku: 'B07NZ6QG63-es'
-tags: [  ]
 actualPrice: 52.91 EUR
 currency: EUR
 price: 52.91

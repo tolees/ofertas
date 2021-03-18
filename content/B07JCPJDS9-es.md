@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JCPJDS9-es TACKLIFE Discos de Lija 125mm 100PCS de 40 60 80 100 150...'
 sku: 'B07JCPJDS9-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003QYYJAO-es adidas Originals Samba Leather Zapatillas de Fútbol Hombre...'
 sku: 'B003QYYJAO-es'
-tags: [  ]
 actualPrice: 40.75 EUR
 currency: EUR
 price: 40.75

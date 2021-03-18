@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7BXWBQ-es Kelme - Zapatillas Intense 7.0'
 sku: 'B07W7BXWBQ-es'
-tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DMPBMY2-es Hurley M Vancamper S/S'
 sku: 'B08DMPBMY2-es'
-tags: [  ]
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

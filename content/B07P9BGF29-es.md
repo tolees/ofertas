@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P9BGF29-es Amzdeal Grifo de Lavabo Monomando de Baño Cuerpo de 59...'
 sku: 'B07P9BGF29-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

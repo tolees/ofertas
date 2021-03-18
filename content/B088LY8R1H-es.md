@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088LY8R1H-es LG Magic Control MR20GA - Mando a Distancia para Smart TV...'
 sku: 'B088LY8R1H-es'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

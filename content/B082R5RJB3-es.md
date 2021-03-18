@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082R5RJB3-es Nike MD Valiant TDV Sneaker Black/White 21 EU'
 sku: 'B082R5RJB3-es'
-tags: [ 'Zapatillas casual para niño','Zapatillas y calzado deportivo para Niño','Zapatos','Zapatos para niños pequeños','Zapatos y complementos','nike', ]
 actualPrice: 18.51 EUR
 currency: EUR
 price: 18.51

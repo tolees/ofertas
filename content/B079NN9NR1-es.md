@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NN9NR1-es iMagicBox- Street Edition Cife Spain 41374'
 sku: 'B079NN9NR1-es'
-tags: [  ]
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

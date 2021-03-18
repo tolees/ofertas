@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TVNZBCL-es BRIKSMAX Kit de Iluminación Led para Lego Architecture New...'
 sku: 'B07TVNZBCL-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

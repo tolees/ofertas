@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFF81GF-es Funko- 5 Star: Horror: Chucky Multicolor 34011'
 sku: 'B07DFF81GF-es'
-tags: [  ]
 actualPrice: 7.82 EUR
 currency: EUR
 price: 7.82

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08539FSXM-es Guirnalda de Luces LED Decorativas 10 Metros 100 LEDs...'
 sku: 'B08539FSXM-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

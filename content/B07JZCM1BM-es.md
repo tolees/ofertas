@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZCM1BM-es adidas Tastigo19 SHO Pantalones Cortos de Deporte Niños...'
 sku: 'B07JZCM1BM-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

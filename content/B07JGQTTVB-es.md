@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGQTTVB-es Skechers Girls DYNA-AIR-JUMP BRIGHTS Trainers Black Black...'
 sku: 'B07JGQTTVB-es'
-tags: [  ]
 actualPrice: 25.76 EUR
 currency: EUR
 price: 25.76

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B8Z33PR-es Gourmet Purina - Purina Gourmet Gold Fondant comida para...'
 sku: 'B07B8Z33PR-es'
-tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

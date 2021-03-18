@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RL945PM-es Lékué Microwave Grill Red microondas Acero rojo y negro...'
 sku: 'B07RL945PM-es'
-tags: [  ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

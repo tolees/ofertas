@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXPL5NM-es BENYAR Cuarzo cronógrafo Impermeable Relojes Business...'
 sku: 'B07XXPL5NM-es'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

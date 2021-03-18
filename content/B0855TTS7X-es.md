@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0855TTS7X-es BENYAR Cuarzo cronógrafo Impermeable Relojes Business...'
 sku: 'B0855TTS7X-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

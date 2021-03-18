@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KKD4XTZ-es Hispanitas-HI00470 - Mujer Color: Negro Talla: 39'
 sku: 'B08KKD4XTZ-es'
-tags: [  ]
 actualPrice: 76.93 EUR
 currency: EUR
 price: 76.93

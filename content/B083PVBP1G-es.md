@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083PVBP1G-es Enfriador de Aire Grande Aire Acondicionado Climatizador...'
 sku: 'B083PVBP1G-es'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

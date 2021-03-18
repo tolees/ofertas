@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTQPTJT-es Tommy Hilfiger Reloj de Pulsera 1782021'
 sku: 'B07KTQPTJT-es'
-tags: [  ]
 actualPrice: 107.59 EUR
 currency: EUR
 price: 107.59

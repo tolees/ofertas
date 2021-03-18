@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZUFRCHY-es Sony Cyber-Shot DSC-RX10 II - Cámara compacta de 20.2 MP y...'
 sku: 'B00ZUFRCHY-es'
-tags: [  ]
 actualPrice: 839.0 EUR
 currency: EUR
 price: 839.0

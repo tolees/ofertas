@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08778JXCT-es Samsung Galaxy A41 - Smartphone 6.1" Super AMOLED 4GB RAM...'
 sku: 'B08778JXCT-es'
-tags: [ 'samsung', ]
 actualPrice: 188.99 EUR
 currency: EUR
 price: 188.99

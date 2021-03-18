@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BGP48TW-es Electronic Arts - FIFA 21 Standard Edition - Xbox One'
 sku: 'B08BGP48TW-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

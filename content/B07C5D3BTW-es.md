@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C5D3BTW-es Trueno Kids V'
 sku: 'B07C5D3BTW-es'
-tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

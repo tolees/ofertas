@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6WW7PD-es Under Armour Rival Print Fill Logo Parte Superior del...'
 sku: 'B07S6WW7PD-es'
-tags: [  ]
 actualPrice: 18.35 EUR
 currency: EUR
 price: 18.35

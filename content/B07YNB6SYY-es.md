@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNB6SYY-es Philips Reloj Despertador Digital PR702/12 con Cargador...'
 sku: 'B07YNB6SYY-es'
-tags: [  ]
 actualPrice: 42.84 EUR
 currency: EUR
 price: 42.84

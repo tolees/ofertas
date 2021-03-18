@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VJ9TPZ-es Columbia Cottonwood Park Forro Polar Hombre Negro S'
 sku: 'B087VJ9TPZ-es'
-tags: [  ]
 actualPrice: 23.07 EUR
 currency: EUR
 price: 23.07

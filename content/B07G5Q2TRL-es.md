@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G5Q2TRL-es SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 400...'
 sku: 'B07G5Q2TRL-es'
-tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

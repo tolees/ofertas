@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QDY675P-es ROYAL SLEEP Canapé Abatible 150x190 de Gran Capacidad Tapa...'
 sku: 'B07QDY675P-es'
-tags: [  ]
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

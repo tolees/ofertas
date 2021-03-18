@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZFBZKTK-es Cluse Reloj Analógico Automático para Mujer con Correa de...'
 sku: 'B00ZFBZKTK-es'
-tags: [  ]
 actualPrice: 54.05 EUR
 currency: EUR
 price: 54.05

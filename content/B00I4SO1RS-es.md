@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I4SO1RS-es Mobiclinic Pedalier Ejercitador de brazos y piernas Camino'
 sku: 'B00I4SO1RS-es'
-tags: [  ]
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

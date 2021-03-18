@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJNHKRM-es Eono Essentials Travel Microfibre Towel Blue 100 x 50 cm'
 sku: 'B07GJNHKRM-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

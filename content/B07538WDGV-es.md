@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07538WDGV-es Nike Benassi JDI Slide Sandal Mens Black/Metallic Gold 40 EU'
 sku: 'B07538WDGV-es'
-tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

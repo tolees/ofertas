@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000R8ZYOM-es Bestway-24087 44007-colchón neón Finish 183x69 8321035'
 sku: 'B000R8ZYOM-es'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

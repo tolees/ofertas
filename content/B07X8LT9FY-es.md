@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8LT9FY-es 3 Velas LED sin Llama Kambo 4‘’5”6” Cera Real 18 Teclas...'
 sku: 'B07X8LT9FY-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

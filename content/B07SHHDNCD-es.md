@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHHDNCD-es Baldur s Gate: Enhanced Edition Pack'
 sku: 'B07SHHDNCD-es'
-tags: [  ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

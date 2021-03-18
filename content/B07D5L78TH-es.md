@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D5L78TH-es HP 22f - Monitor de 22" FHD 1920 x 1080 pixeles Tiempo de...'
 sku: 'B07D5L78TH-es'
-tags: [  ]
 actualPrice: 101.92 EUR
 currency: EUR
 price: 101.92

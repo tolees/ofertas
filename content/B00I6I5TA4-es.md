@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I6I5TA4-es GoSparking Rose plateó los pendientes Elementos cristalino...'
 sku: 'B00I6I5TA4-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

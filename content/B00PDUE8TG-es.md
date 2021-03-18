@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PDUE8TG-es Ultimate Ears Megaboom - Altavoz portátil Bluetooth 360...'
 sku: 'B00PDUE8TG-es'
-tags: [  ]
 actualPrice: 168.91 EUR
 currency: EUR
 price: 168.91

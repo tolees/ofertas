@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z41CDT7-es OPPO A9 2020 - Smartphone de 6.5" HD+ 4G Dual Sim 8 Core...'
 sku: 'B07Z41CDT7-es'
-tags: [  ]
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074WD6WBB-es PUMA Quarter Plain 3p deporte Amarillo Lime Punch 064...'
 sku: 'B074WD6WBB-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

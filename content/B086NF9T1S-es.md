@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086NF9T1S-es PUMA ftblNXT ST Espinillera Futbol Unisex-Adult Shocking...'
 sku: 'B086NF9T1S-es'
-tags: [  ]
 actualPrice: 8.81 EUR
 currency: EUR
 price: 8.81

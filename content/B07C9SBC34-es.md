@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C9SBC34-es BESTONZON Decantador de vino aireador en forma de U sin...'
 sku: 'B07C9SBC34-es'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

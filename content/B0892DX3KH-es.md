@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0892DX3KH-es Axloie Auriculares Inalambricos Deporte IPX7 Impermeable...'
 sku: 'B0892DX3KH-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

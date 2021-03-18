@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GNJPSQC-es LLaveros Llaves Diseño Cruz 6 Agujeros Clave Transversal...'
 sku: 'B01GNJPSQC-es'
-tags: [  ]
 actualPrice: 2.89 EUR
 currency: EUR
 price: 2.89

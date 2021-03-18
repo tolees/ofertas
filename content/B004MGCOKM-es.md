@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004MGCOKM-es D-Link DUB-1340 - Hub USB de 4 Puertos'
 sku: 'B004MGCOKM-es'
-tags: [  ]
 actualPrice: 43.29 EUR
 currency: EUR
 price: 43.29

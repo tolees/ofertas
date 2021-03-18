@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZD56Q4-es Wet n Wild Crease Brush - Pincel de Sombras - Punta Larga...'
 sku: 'B07CZD56Q4-es'
-tags: [  ]
 actualPrice: 1.18 EUR
 currency: EUR
 price: 1.18

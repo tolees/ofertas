@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QRHH-es Napapijri EILS Polo Verde Green Forest 2 GE3 M para Hombre'
 sku: 'B07MK1QRHH-es'
-tags: [  ]
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

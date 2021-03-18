@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPJSF9M-es Klarstein Beersafe XL Mix It Edition Nevera - Nevera de...'
 sku: 'B07KPJSF9M-es'
-tags: [  ]
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99

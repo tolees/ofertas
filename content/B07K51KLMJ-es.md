@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K51KLMJ-es adidas Handball Spezial Sneaker Hombre Collegiate...'
 sku: 'B07K51KLMJ-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PN11CB-es YUNTAB Nemo Cámara Panorámica Portátil 360 grados 1080P...'
 sku: 'B074PN11CB-es'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

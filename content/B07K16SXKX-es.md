@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K16SXKX-es Leggings de yoga para mujer talle alto bolsillos para...'
 sku: 'B07K16SXKX-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

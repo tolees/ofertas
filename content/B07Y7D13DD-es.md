@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y7D13DD-es XPLORA 4 - Teléfono Reloj 4G para niños SIM no incluida -...'
 sku: 'B07Y7D13DD-es'
-tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

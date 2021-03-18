@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079F9R7WL-es Rainbow Six Siege - Advanced Edition'
 sku: 'B079F9R7WL-es'
-tags: [  ]
 actualPrice: 12.51 EUR
 currency: EUR
 price: 12.51

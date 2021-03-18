@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T6JFCV2-es Disney - Toy Story 4 [Blu-ray]'
 sku: 'B07T6JFCV2-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

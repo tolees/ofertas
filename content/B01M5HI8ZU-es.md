@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5HI8ZU-es Mounting Dream Soporte de Pared TV Giratorio y Inclinable...'
 sku: 'B01M5HI8ZU-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

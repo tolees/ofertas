@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FCQRN9K-es SanDisk Extreme - Tarjeta de memoria microSDXC de 400 GB...'
 sku: 'B07FCQRN9K-es'
-tags: [  ]
 actualPrice: 84.98 EUR
 currency: EUR
 price: 84.98

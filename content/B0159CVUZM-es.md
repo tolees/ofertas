@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0159CVUZM-es BULLDOG SECURITY - Bulldog Cuidado Facial para Hombres -...'
 sku: 'B0159CVUZM-es'
-tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

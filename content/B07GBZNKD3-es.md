@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GBZNKD3-es Kosiy Amplificador WiFi Repetidor hasta 1200 Mbit/s Dual...'
 sku: 'B07GBZNKD3-es'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PPGWFSE-es Mavala Gel Finish Top Coat Tratamiento de Manicura con...'
 sku: 'B00PPGWFSE-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

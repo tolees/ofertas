@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GKNG11L-es H.Koenig NV700 Limpiador A Vapor Escoba y De Mano 2 en 1...'
 sku: 'B07GKNG11L-es'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

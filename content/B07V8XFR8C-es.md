@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8XFR8C-es Calvin Klein - Ck Signature Ep Mini 6cc W/Coin Carteras...'
 sku: 'B07V8XFR8C-es'
-tags: [  ]
 actualPrice: 28.31 EUR
 currency: EUR
 price: 28.31

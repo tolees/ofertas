@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PJPQV2-es AMD E1-7010 - 4GB - 1TB - DVD Supermulti - Teclado y Ratón...'
 sku: 'B077PJPQV2-es'
-tags: [  ]
 actualPrice: 197.08 EUR
 currency: EUR
 price: 197.08

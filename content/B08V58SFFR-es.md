@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V58SFFR-es Help Flash 2.0 - Luz de emergencia autónoma - Señal V16 de...'
 sku: 'B08V58SFFR-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CW7LY44-es Columbia Camden Outdry Chukka Botas Casual Impermeable...'
 sku: 'B07CW7LY44-es'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

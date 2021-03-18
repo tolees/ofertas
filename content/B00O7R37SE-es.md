@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O7R37SE-es Komono Reloj Analógico de Cuarzo Unisex con Correa de...'
 sku: 'B00O7R37SE-es'
-tags: [  ]
 actualPrice: 58.45 EUR
 currency: EUR
 price: 58.45

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Y2W7CQ-es HolyHigh Auriculares Bluetooth Auriculares Inalámbricos...'
 sku: 'B089Y2W7CQ-es'
-tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

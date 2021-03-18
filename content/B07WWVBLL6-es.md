@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WWVBLL6-es HARRY POTTER Trivial Pursuit Edición Especial Juegos...'
 sku: 'B07WWVBLL6-es'
-tags: [  ]
 actualPrice: 18.35 EUR
 currency: EUR
 price: 18.35

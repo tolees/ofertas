@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLBXNP2-es TS-ant - 2021 Más Nuevo Antena de TV Interior 240KM Rango...'
 sku: 'B07WLBXNP2-es'
-tags: [  ]
 actualPrice: 20.22 EUR
 currency: EUR
 price: 20.22

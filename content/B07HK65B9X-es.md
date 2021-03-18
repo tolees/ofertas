@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HK65B9X-es Amazon Essentials Shirt Jacket Novelty-t-Shirts Camo US M...'
 sku: 'B07HK65B9X-es'
-tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

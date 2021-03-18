@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNX91H9-es Buff Agna Bufanda Tricot Unisex Adulto Black Única'
 sku: 'B07FNX91H9-es'
-tags: [  ]
 actualPrice: 20.55 EUR
 currency: EUR
 price: 20.55

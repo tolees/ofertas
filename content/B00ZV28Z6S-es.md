@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZV28Z6S-es BERING Reloj Analógico para Unisex Adultos de Cuarzo con...'
 sku: 'B00ZV28Z6S-es'
-tags: [  ]
 actualPrice: 96.31 EUR
 currency: EUR
 price: 96.31

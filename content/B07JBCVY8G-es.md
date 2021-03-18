@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JBCVY8G-es NIOXIN - Trial Kit de 3 Pasos - Tratamiento para Cabello...'
 sku: 'B07JBCVY8G-es'
-tags: [  ]
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

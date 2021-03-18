@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0093LON9Q-es Best Price Square - WEBCAM TRINO HD VIDEO TRUST 18679 By...'
 sku: 'B0093LON9Q-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

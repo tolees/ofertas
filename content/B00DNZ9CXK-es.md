@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DNZ9CXK-es pjur BACK DOOR Moisturising Water Anal Glide - Lubricante...'
 sku: 'B00DNZ9CXK-es'
-tags: [  ]
 actualPrice: 11.57 EUR
 currency: EUR
 price: 11.57

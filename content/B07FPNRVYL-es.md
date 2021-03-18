@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FPNRVYL-es Adidas VL Court 2.0 K - Zapatillas de Deporte Unisex...'
 sku: 'B07FPNRVYL-es'
-tags: [  ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUPKDF2-es Dek - Zapatillas ultraligeras de cordones modelo Zeus para...'
 sku: 'B01MUPKDF2-es'
-tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

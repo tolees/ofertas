@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V866NZG-es Arregui TB-021-A Taburete Plegable de 21 cm de altura azul...'
 sku: 'B00V866NZG-es'
-tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

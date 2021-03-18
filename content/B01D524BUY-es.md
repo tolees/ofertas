@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D524BUY-es Corsair M65 PRO RGB - Ratón óptico para juegos...'
 sku: 'B01D524BUY-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

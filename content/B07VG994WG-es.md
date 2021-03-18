@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VG994WG-es Hackett London New Classic Polo Rojo 238strawberry 238...'
 sku: 'B07VG994WG-es'
-tags: [  ]
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KDNB92Q-es Delgeo 35L Bolsa Isotermica de Almuerzo Nevera Portatil...'
 sku: 'B08KDNB92Q-es'
-tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

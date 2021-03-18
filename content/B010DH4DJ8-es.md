@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010DH4DJ8-es Zwilling Bela - Set de cubiertos de mesa 42 piezas acero...'
 sku: 'B010DH4DJ8-es'
-tags: [  ]
 actualPrice: 42.2 EUR
 currency: EUR
 price: 42.2

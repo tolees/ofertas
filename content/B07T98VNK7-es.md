@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T98VNK7-es Helly Hansen Vanir Hegira HT Zapatillas de Senderismo para...'
 sku: 'B07T98VNK7-es'
-tags: [  ]
 actualPrice: 51.01 EUR
 currency: EUR
 price: 51.01

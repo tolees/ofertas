@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0741FFT6F-es Tp-Link Router 4G LTE WiFi con Velocidad Alta hasta 1200...'
 sku: 'B0741FFT6F-es'
-tags: [  ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

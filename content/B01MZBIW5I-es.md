@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZBIW5I-es Victoria Basket Lona Piso Negro Zapatillas Unisex Adulto...'
 sku: 'B01MZBIW5I-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

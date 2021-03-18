@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYTZB4Y-es Tommy Hilfiger Brooklyn Short Light Twill Belt Pantalones...'
 sku: 'B07JYTZB4Y-es'
-tags: [  ]
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSKKH75-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07GSKKH75-es'
-tags: [  ]
 actualPrice: 200.4 EUR
 currency: EUR
 price: 200.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRBG4YM-es JBL Flip 5 - Altavoz inalámbrico portátil con Bluetooth...'
 sku: 'B07SRBG4YM-es'
-tags: [  ]
 actualPrice: 80.29 EUR
 currency: EUR
 price: 80.29

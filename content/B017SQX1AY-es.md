@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017SQX1AY-es SALOMON Speedcross 4 Zapatillas de Trail Running Hombre...'
 sku: 'B017SQX1AY-es'
-tags: [  ]
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

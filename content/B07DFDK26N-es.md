@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFDK26N-es Funko Pop! Simpsons Abuelo Simpson Multicolor FK33881...'
 sku: 'B07DFDK26N-es'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LQ4BLUG-es Razer Goliathus - Suave Alfombrilla de Ratón para Juegos...'
 sku: 'B01LQ4BLUG-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

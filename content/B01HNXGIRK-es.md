@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HNXGIRK-es SONGMICS OBG56L Racing - Silla de Escritorio de Oficina...'
 sku: 'B01HNXGIRK-es'
-tags: [  ]
 actualPrice: 74.64 EUR
 currency: EUR
 price: 74.64

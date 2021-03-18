@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PMH8DK4-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B07PMH8DK4-es'
-tags: [  ]
 actualPrice: 196.33 EUR
 currency: EUR
 price: 196.33

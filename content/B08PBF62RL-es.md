@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PBF62RL-es Radio portátil PRUNUS J-110BT FM Am MW Bluetooth SW AUX...'
 sku: 'B08PBF62RL-es'
-tags: [  ]
 actualPrice: 36.9 EUR
 currency: EUR
 price: 36.9

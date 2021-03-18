@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCVF2WT-es GANT MD. Extrafine Lambswool V-Neck suéter Marrón Dk....'
 sku: 'B07MCVF2WT-es'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

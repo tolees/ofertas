@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019M0AY3Q-es Trust Urban - Palo para Selfie Bluetooth plegable negro'
 sku: 'B019M0AY3Q-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

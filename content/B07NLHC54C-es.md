@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLHC54C-es Versace Jeans CoutureBorsaMujerBolso de manoMarrón Legno...'
 sku: 'B07NLHC54C-es'
-tags: [  ]
 actualPrice: 82.32 EUR
 currency: EUR
 price: 82.32

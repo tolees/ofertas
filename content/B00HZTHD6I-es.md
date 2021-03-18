@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HZTHD6I-es SOTYA - SOTYA Magnesio 100 comprimidos 800mg'
 sku: 'B00HZTHD6I-es'
-tags: [  ]
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

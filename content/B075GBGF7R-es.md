@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GBGF7R-es Triumph Body Make-up Essent WHU Sujetador Marrón Coffee...'
 sku: 'B075GBGF7R-es'
-tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

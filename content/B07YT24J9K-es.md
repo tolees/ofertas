@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YT24J9K-es Taurus One-Robot de Cocina Inteligente Multifunción 1600 W...'
 sku: 'B07YT24J9K-es'
-tags: [  ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

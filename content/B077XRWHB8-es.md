@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XRWHB8-es Under Armour Seamless Longline Sujetador Deportivo Mujer...'
 sku: 'B077XRWHB8-es'
-tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

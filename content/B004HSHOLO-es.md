@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004HSHOLO-es HELLA 8GH 007 157-121 Lámpara H7 Standard 12V 55W Tipo de...'
 sku: 'B004HSHOLO-es'
-tags: [  ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BQYKW98-es 3 x 10 original Bosch Siemens Neff Gaggenau pastillas de...'
 sku: 'B00BQYKW98-es'
-tags: [  ]
 actualPrice: 16.35 EUR
 currency: EUR
 price: 16.35

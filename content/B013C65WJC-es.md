@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013C65WJC-es Bolero Bebida Instantánea sin Azúcar Sabor Naranja -...'
 sku: 'B013C65WJC-es'
-tags: [  ]
 actualPrice: 3.23 EUR
 currency: EUR
 price: 3.23

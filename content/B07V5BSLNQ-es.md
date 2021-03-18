@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V5BSLNQ-es Salomon Soft Flask Bidón Flexible 500ML Trail Running...'
 sku: 'B07V5BSLNQ-es'
-tags: [  ]
 actualPrice: 15.8 EUR
 currency: EUR
 price: 15.8

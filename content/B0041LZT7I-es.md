@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0041LZT7I-es OMRON Healthcare Flex Temp Smart - Termómetro color blanco...'
 sku: 'B0041LZT7I-es'
-tags: [  ]
 actualPrice: 8.08 EUR
 currency: EUR
 price: 8.08

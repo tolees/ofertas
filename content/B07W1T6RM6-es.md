@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W1T6RM6-es PIKOLINOS Mocasín de Piel RIOLA W3Y'
 sku: 'B07W1T6RM6-es'
-tags: [  ]
 actualPrice: 30.43 EUR
 currency: EUR
 price: 30.43

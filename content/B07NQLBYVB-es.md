@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQLBYVB-es Maleta infantil ruedas multidireccionales Minnie Super...'
 sku: 'B07NQLBYVB-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

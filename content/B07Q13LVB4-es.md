@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q13LVB4-es Under Armour Heatgear Armoury Corto Mujer Rojo XS'
 sku: 'B07Q13LVB4-es'
-tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

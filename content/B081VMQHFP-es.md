@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081VMQHFP-es Under Armour Essential Calzado Deportivo Hombre Versa Rojo...'
 sku: 'B081VMQHFP-es'
-tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

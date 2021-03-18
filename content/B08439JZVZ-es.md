@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08439JZVZ-es Tommy Hilfiger Nora Super Skinny Dkcostr Pantalones Dark...'
 sku: 'B08439JZVZ-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

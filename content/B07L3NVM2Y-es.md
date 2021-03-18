@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3NVM2Y-es [2020 Versión Mejorada] Ewadoo 79mm de Diámetro Diseño...'
 sku: 'B07L3NVM2Y-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

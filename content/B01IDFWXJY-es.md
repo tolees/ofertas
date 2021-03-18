@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IDFWXJY-es Rayen Tabla de Planchar de sobremesa | Mínimo Espacio...'
 sku: 'B01IDFWXJY-es'
-tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

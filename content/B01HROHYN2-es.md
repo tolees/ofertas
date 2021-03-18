@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HROHYN2-es Onitsuka Tiger Mexico 66 Zapatillas de Entrenamiento...'
 sku: 'B01HROHYN2-es'
-tags: [  ]
 actualPrice: 65.05 EUR
 currency: EUR
 price: 65.05

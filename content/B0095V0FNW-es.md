@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0095V0FNW-es STANLEY 1-93-333 - Caja de herramientas 12.5"/31.75 cm con...'
 sku: 'B0095V0FNW-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

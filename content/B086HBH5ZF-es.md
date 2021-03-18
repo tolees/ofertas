@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086HBH5ZF-es FANGOR - Videoproyector Full HD WiFi Bluetooth Natif 1080P...'
 sku: 'B086HBH5ZF-es'
-tags: [  ]
 actualPrice: 116.98 EUR
 currency: EUR
 price: 116.98

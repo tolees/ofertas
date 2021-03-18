@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072NBD42C-es RATÓN DE GAMING ÓPTICO NGS GMX-100 LED 7 COLORES EFECTO...'
 sku: 'B072NBD42C-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

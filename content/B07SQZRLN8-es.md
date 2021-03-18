@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQZRLN8-es Hurley U Rebound Solid Wallet Monederos Hombre Black 1SIZE'
 sku: 'B07SQZRLN8-es'
-tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LCJ51HD-es Theefun 6 Paquete Huevos viscosos de Dinosaurio con...'
 sku: 'B07LCJ51HD-es'
-tags: [  ]
 actualPrice: 12.22 EUR
 currency: EUR
 price: 12.22

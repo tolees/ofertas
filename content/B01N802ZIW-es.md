@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N802ZIW-es L Oreal Paris Dermo Expertise - L Oréal Paris Hydra Genius...'
 sku: 'B01N802ZIW-es'
-tags: [  ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

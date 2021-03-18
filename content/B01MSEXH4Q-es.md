@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MSEXH4Q-es Asmodee - ¡Alzad vuestras Copas! Edge Entertainment EDGRYG01'
 sku: 'B01MSEXH4Q-es'
-tags: [  ]
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

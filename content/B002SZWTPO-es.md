@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002SZWTPO-es Paquete de 100 preservativos "XXL 54mm" de AMOR para una...'
 sku: 'B002SZWTPO-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

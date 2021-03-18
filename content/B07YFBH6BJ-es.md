@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFBH6BJ-es Tevlaphee Soporte Móvil para Coche Universal Soporte Móvil...'
 sku: 'B07YFBH6BJ-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

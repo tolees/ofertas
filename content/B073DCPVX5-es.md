@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073DCPVX5-es Exelvit Premenstrual - Complemento alimenticio contra...'
 sku: 'B073DCPVX5-es'
-tags: [  ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

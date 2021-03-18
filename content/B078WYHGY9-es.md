@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WYHGY9-es Plugable Docking Station con Triple Pantalla 4K USB-C con...'
 sku: 'B078WYHGY9-es'
-tags: [  ]
 actualPrice: 232.27 EUR
 currency: EUR
 price: 232.27

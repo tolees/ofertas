@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCLQQTW-es GoMaihe Botes Cocina Juego de 8 Piezas de Recipiente de...'
 sku: 'B08DCLQQTW-es'
-tags: [  ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

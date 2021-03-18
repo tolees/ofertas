@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSBVJ2X-es NIVEA MEN Dry Impact Spray desodorante antitranspirante...'
 sku: 'B07GSBVJ2X-es'
-tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

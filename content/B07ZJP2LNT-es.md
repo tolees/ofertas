@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJP2LNT-es Chicco- Juguete bebé 00010001000000'
 sku: 'B07ZJP2LNT-es'
-tags: [  ]
 actualPrice: 13.11 EUR
 currency: EUR
 price: 13.11

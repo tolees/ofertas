@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GRVVYCV-es The Place Beyond the Pines: Steelbook'
 sku: 'B07GRVVYCV-es'
-tags: [  ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

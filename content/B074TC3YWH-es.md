@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074TC3YWH-es 1home Soporte TV con Ruedas Móvil Carro de exhibición...'
 sku: 'B074TC3YWH-es'
-tags: [  ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

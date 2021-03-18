@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RGK11RY-es HYCHIKA BETTER TOOLS FOR BETTER LIFE - Atornillador...'
 sku: 'B07RGK11RY-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

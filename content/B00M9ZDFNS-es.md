@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00M9ZDFNS-es Casio EDIFICE Reloj en caja sólida 10 BAR Azul/Negro para...'
 sku: 'B00M9ZDFNS-es'
-tags: [  ]
 actualPrice: 91.9 EUR
 currency: EUR
 price: 91.9

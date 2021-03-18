@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZC1FWL-es Asbww | Dron GPS con Cámara Full HD 1080p para...'
 sku: 'B07WZC1FWL-es'
-tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

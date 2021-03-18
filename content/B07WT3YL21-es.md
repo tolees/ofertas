@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WT3YL21-es Qisiewell Cadenas de Nieve Universale Cadenas de...'
 sku: 'B07WT3YL21-es'
-tags: [  ]
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

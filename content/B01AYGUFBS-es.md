@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AYGUFBS-es Medisana HU 662 Calefacción bajo la cama 150 x 80 cm...'
 sku: 'B01AYGUFBS-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

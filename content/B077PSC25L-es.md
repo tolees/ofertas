@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077PSC25L-es Enchantimals - Winsley Wolf Muñeca Multicolor FRH40'
 sku: 'B077PSC25L-es'
-tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AHGENI6-es Citizen Reloj Analógico para Unisex de Cuarzo con Correa...'
 sku: 'B01AHGENI6-es'
-tags: [  ]
 actualPrice: 27.56 EUR
 currency: EUR
 price: 27.56

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SYB38Q8-es SanDisk Ultra Luxe Memoria flash USB 3.1 de 128GB y hasta...'
 sku: 'B07SYB38Q8-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

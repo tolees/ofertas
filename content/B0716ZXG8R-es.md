@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0716ZXG8R-es Crocs Specialist II Clog Unisex Adulto Zueco Blanco White...'
 sku: 'B0716ZXG8R-es'
-tags: [  ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

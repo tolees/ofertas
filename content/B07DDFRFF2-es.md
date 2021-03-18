@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDFRFF2-es Ready 2 Robot Serie 1 - Bot Blaster Capsula Sorpresa con...'
 sku: 'B07DDFRFF2-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

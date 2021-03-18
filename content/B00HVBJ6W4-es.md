@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HVBJ6W4-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B00HVBJ6W4-es'
-tags: [  ]
 actualPrice: 111.36 EUR
 currency: EUR
 price: 111.36

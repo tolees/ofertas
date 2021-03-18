@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N5EV5BE-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con...'
 sku: 'B01N5EV5BE-es'
-tags: [  ]
 actualPrice: 194.99 EUR
 currency: EUR
 price: 194.99

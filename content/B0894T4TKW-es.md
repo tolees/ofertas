@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0894T4TKW-es Enotepad Gráfico Electrónico Portátil eWriter Digital...'
 sku: 'B0894T4TKW-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

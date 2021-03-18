@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VKJDPTJ-es Enotepad Gráfico Electrónico portátil eWriter Digital...'
 sku: 'B07VKJDPTJ-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

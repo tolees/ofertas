@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2HQMTS-es ENKEEO Mini Bomba de Aire de Mano Bomba de Bicicleta 140...'
 sku: 'B07F2HQMTS-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

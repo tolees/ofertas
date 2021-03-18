@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXYEEZS-es King Love - Consolador realista de 20 5 cm con base de...'
 sku: 'B01MXYEEZS-es'
-tags: [  ]
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

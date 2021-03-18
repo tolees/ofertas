@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00M9B66BU-es REVLON PROFESSIONAL UniqOne Classic Tratamiento en Spray...'
 sku: 'B00M9B66BU-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

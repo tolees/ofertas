@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DTBX12J-es Taurus Air Fry Digital Freidora de aire 1300 W Plástico Negro'
 sku: 'B08DTBX12J-es'
-tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

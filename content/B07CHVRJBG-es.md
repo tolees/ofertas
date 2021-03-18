@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHVRJBG-es Havaianas Origine Slim Bailarinas con Correa de Tobillo...'
 sku: 'B07CHVRJBG-es'
-tags: [  ]
 actualPrice: 8.74 EUR
 currency: EUR
 price: 8.74

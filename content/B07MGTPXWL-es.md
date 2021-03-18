@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGTPXWL-es Funda para Motorola Moto G6 Play Carcasa Espejo Mirror...'
 sku: 'B07MGTPXWL-es'
-tags: [  ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

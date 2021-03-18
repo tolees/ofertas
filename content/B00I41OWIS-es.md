@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I41OWIS-es BEST DIRECT Gymform AB Generator Maquina De Fitness...'
 sku: 'B00I41OWIS-es'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

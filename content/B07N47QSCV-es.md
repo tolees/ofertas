@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N47QSCV-es Salewa MS Alp Trainer Mid Gore-TEX Botas de Senderismo...'
 sku: 'B07N47QSCV-es'
-tags: [  ]
 actualPrice: 129.15 EUR
 currency: EUR
 price: 129.15

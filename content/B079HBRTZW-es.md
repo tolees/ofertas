@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HBRTZW-es Kingston SDCS/32GBSP - MicroSD Canvas Select velocidades...'
 sku: 'B079HBRTZW-es'
-tags: [  ]
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

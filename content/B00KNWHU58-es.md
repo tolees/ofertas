@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KNWHU58-es Orlane Oligo Vit-A-Min Crema Anti Oxydante 50 ml'
 sku: 'B00KNWHU58-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

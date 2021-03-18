@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3NNSZ3-es PLA Plus Filament 1.75mm Tidy Winding 3D Printer Filament...'
 sku: 'B07L3NNSZ3-es'
-tags: [  ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

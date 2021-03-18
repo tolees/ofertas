@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0ERE63-es Superga'
 sku: 'B01N0ERE63-es'
-tags: [  ]
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

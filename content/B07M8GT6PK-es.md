@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M8GT6PK-es Mula [DVD]'
 sku: 'B07M8GT6PK-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

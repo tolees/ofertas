@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0026JIKIM-es Calvin Klein Seductive Comfort-Customized Lift Sujetador...'
 sku: 'B0026JIKIM-es'
-tags: [  ]
 actualPrice: 16.73 EUR
 currency: EUR
 price: 16.73

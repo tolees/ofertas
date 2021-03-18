@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D1XDXB0-es Clarks Taylor Shine Botas Chelsea para Mujer Marrón Tan...'
 sku: 'B01D1XDXB0-es'
-tags: [  ]
 actualPrice: 52.6 EUR
 currency: EUR
 price: 52.6

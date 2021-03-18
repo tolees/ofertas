@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T74CJ1Q-es Kaulrey Memoria USB 1TB Pendrive 1000GB USB 3.0 Memory...'
 sku: 'B08T74CJ1Q-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

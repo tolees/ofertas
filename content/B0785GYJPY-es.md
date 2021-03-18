@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0785GYJPY-es Superga 2730-cotropew Zapatillas de Gimnasia para Mujer...'
 sku: 'B0785GYJPY-es'
-tags: [  ]
 actualPrice: 43.68 EUR
 currency: EUR
 price: 43.68

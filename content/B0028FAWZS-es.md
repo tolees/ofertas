@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0028FAWZS-es TRIXIE Comedero Cerámica Motivos Conejos 250 ml ø11 cm...'
 sku: 'B0028FAWZS-es'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

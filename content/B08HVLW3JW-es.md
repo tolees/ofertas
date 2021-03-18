@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HVLW3JW-es BIC Cristal Original Bolígrafos Punta Media 1.0 mm - Negro...'
 sku: 'B08HVLW3JW-es'
-tags: [  ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

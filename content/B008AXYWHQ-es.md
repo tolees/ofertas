@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008AXYWHQ-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B008AXYWHQ-es'
-tags: [  ]
 actualPrice: 139.3 EUR
 currency: EUR
 price: 139.3

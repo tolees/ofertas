@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JFG5QRQ-es Lacoste FH9542 Bañador Azul Marine 42W para Hombre'
 sku: 'B07JFG5QRQ-es'
-tags: [  ]
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

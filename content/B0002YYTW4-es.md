@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0002YYTW4-es WOLFCRAFT 1577000 portapunta magnético 50 mm PACK 1 50'
 sku: 'B0002YYTW4-es'
-tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

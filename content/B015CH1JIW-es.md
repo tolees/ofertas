@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015CH1JIW-es Sandisk Ultra Flair Memoria Flash USB 3.0 de 32 GB con...'
 sku: 'B015CH1JIW-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

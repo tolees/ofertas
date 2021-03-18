@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNV3M84-es Under Armour Women s Charged Aurora Hallenschuhe...'
 sku: 'B07NNV3M84-es'
-tags: [  ]
 actualPrice: 32.88 EUR
 currency: EUR
 price: 32.88

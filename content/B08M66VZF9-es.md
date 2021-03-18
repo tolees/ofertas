@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M66VZF9-es Tira LED TV 3M JESLED Luces LED RGB Retroiluminación con...'
 sku: 'B08M66VZF9-es'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRQNBY8-es Samsung Galaxy Buds Live - auriculares bluetooth...'
 sku: 'B08DRQNBY8-es'
-tags: [  ]
 actualPrice: 126.93 EUR
 currency: EUR
 price: 126.93

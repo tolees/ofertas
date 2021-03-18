@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VWRTWLN-es Lock S Quest'
 sku: 'B06VWRTWLN-es'
-tags: [  ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

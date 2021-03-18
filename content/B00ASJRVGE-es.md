@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ASJRVGE-es National Geographic 20-60x60 Telescopio terrestre'
 sku: 'B00ASJRVGE-es'
-tags: [  ]
 actualPrice: 59.09 EUR
 currency: EUR
 price: 59.09

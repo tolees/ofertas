@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NV8GLRN-es POCKETCAM - Cartera de Cuero Genuino para el Hombre Ultra...'
 sku: 'B08NV8GLRN-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

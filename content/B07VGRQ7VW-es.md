@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGRQ7VW-es adidas Solid Clx SH SL Swimsuit Hombre Black 8'
 sku: 'B07VGRQ7VW-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001MZYIP0-es EUKANUBA Raza Mediana Adulto Activo rico en pollo fresco...'
 sku: 'B001MZYIP0-es'
-tags: [  ]
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

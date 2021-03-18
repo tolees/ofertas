@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0103PUIPS-es Apace Vision Luces de Seguridad LED Paquete de 2 con...'
 sku: 'B0103PUIPS-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

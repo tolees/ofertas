@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFPLVLG-es Concentrado de Proteína de Suero Evowhey Protein 2.0 de...'
 sku: 'B07GFPLVLG-es'
-tags: [  ]
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

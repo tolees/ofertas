@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LEJD10G-es POP! Vinilo - Games: Street Fighter: Cammy'
 sku: 'B01LEJD10G-es'
-tags: [  ]
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

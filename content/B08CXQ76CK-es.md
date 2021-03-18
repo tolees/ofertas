@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXQ76CK-es Nike Cortez Basic M2Z2 Zapatillas para Correr Hombre Iron...'
 sku: 'B08CXQ76CK-es'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

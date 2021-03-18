@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNDXH2Z-es ENEGON NP-W126S NP-W126 Batería de Repuesto Paquete de 2 y...'
 sku: 'B07VNDXH2Z-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

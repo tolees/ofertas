@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQWDVLX-es Calvin Klein Short Runner Bañador Negro PVH Black BEH XX-...'
 sku: 'B07VQWDVLX-es'
-tags: [  ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

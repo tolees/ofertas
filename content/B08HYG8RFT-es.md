@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HYG8RFT-es LUOWAN Calentadores de Manos USB Recargables 6000mAh Mini...'
 sku: 'B08HYG8RFT-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T63YPOO-es Yazilind Joyas de plata esterlina corazón diseño anillo...'
 sku: 'B00T63YPOO-es'
-tags: [  ]
 actualPrice: 1.38 EUR
 currency: EUR
 price: 1.38

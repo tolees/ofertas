@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003MT7QG2-es Papel de Armenia rosas 12 uds'
 sku: 'B003MT7QG2-es'
-tags: [  ]
 actualPrice: 3.56 EUR
 currency: EUR
 price: 3.56

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKHG8Y3-es Under Armour UA W Charged Escape 3 Zapatillas de Running...'
 sku: 'B07HKHG8Y3-es'
-tags: [  ]
 actualPrice: 22.05 EUR
 currency: EUR
 price: 22.05

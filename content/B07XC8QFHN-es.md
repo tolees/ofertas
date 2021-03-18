@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XC8QFHN-es SatinNaturel - Caja de Regalo Antiedad Orgánico Vegano...'
 sku: 'B07XC8QFHN-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

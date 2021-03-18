@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J6T8Z8C-es Dragon Touch Cámara Instantánea Cámara de Fotos para Niños...'
 sku: 'B08J6T8Z8C-es'
-tags: [ 'dragon touch', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

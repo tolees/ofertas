@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LGF54XR-es Sabrent 1TB Rocket NVMe PCIe M.2 2280 SSD Interno Unidad...'
 sku: 'B07LGF54XR-es'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

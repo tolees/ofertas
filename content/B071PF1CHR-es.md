@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071PF1CHR-es New Balance 574v2 Core Velcro Entrenadores Unisex Niños...'
 sku: 'B071PF1CHR-es'
-tags: [  ]
 actualPrice: 33 EUR
 currency: EUR
 price: 33

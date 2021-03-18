@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFTRSNW-es Ejercitador de Mano JUMPFISCH Ejercitador de Mano 3 en 1...'
 sku: 'B07BFTRSNW-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

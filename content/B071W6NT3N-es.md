@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071W6NT3N-es Fluchos | Zapato de Hombre | Simon 8468 Natural Libano...'
 sku: 'B071W6NT3N-es'
-tags: [  ]
 actualPrice: 61.08 EUR
 currency: EUR
 price: 61.08

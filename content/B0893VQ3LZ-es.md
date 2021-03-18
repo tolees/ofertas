@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0893VQ3LZ-es Auriculares Bluetooth 5.0 Auriculares con Micrófono...'
 sku: 'B0893VQ3LZ-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

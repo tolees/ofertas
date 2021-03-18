@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071J55BYN-es Mono Corto con Tela de Cambray - Large - Azul Claro Chambray'
 sku: 'B071J55BYN-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

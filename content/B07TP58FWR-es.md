@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TP58FWR-es Vans Atwood Textile Suede Zapatillas para Hombre Negro...'
 sku: 'B07TP58FWR-es'
-tags: [  ]
 actualPrice: 29.43 EUR
 currency: EUR
 price: 29.43

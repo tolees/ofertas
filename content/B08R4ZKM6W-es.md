@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R4ZKM6W-es Warner Bros. Entertainment - Rey Arturo: La Leyenda de...'
 sku: 'B08R4ZKM6W-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QW1NWYD-es Suunto 5 Reloj Deportivo GPS Ligero y Compacto Seguimiento...'
 sku: 'B07QW1NWYD-es'
-tags: [  ]
 actualPrice: 227.05 EUR
 currency: EUR
 price: 227.05

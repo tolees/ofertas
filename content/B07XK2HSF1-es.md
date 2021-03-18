@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XK2HSF1-es Apple Funda Silicone Case para el iPhone 11 Pro - Azul Noche'
 sku: 'B07XK2HSF1-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KWA4HWO-es Colección Kubrick Blu-Ray [Blu-ray]'
 sku: 'B01KWA4HWO-es'
-tags: [  ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

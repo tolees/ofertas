@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I5G9PGA-es adidas Real Wallet Cartera Unisex Adulto Negro/Blanco...'
 sku: 'B01I5G9PGA-es'
-tags: [  ]
 actualPrice: 1.01 EUR
 currency: EUR
 price: 1.01

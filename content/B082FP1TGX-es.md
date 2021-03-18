@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082FP1TGX-es Medisana PS 438 balanza personal digital de hasta 180 kg...'
 sku: 'B082FP1TGX-es'
-tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

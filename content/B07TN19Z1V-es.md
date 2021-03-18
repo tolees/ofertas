@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TN19Z1V-es Mr. Wonderful Funda de portátil-Downloading Wonderful...'
 sku: 'B07TN19Z1V-es'
-tags: [  ]
 actualPrice: 28.3 EUR
 currency: EUR
 price: 28.3

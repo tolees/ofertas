@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WZYM7RQ-es Western Digital - WD My Passport disco duro portátil'
 sku: 'B07WZYM7RQ-es'
-tags: [  ]
 actualPrice: 102.31 EUR
 currency: EUR
 price: 102.31

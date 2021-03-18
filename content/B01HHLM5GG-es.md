@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HHLM5GG-es Set de colorear. Frozen'
 sku: 'B01HHLM5GG-es'
-tags: [  ]
 actualPrice: 2.47 EUR
 currency: EUR
 price: 2.47

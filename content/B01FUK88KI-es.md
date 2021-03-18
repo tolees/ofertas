@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FUK88KI-es Devolo WiFi Repeater ac 1200 Mbit/s 1x Port Gigabit WPS...'
 sku: 'B01FUK88KI-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

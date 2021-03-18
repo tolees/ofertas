@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4DZL6Y-es Hezbjiti Luces de cuerda de batería Hezbjiti 100 luces de...'
 sku: 'B07V4DZL6Y-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

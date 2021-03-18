@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D33TGYK-es Diesel S-astico Low Lace Zapatillas para Hombre Blanco...'
 sku: 'B07D33TGYK-es'
-tags: [  ]
 actualPrice: 36.91 EUR
 currency: EUR
 price: 36.91

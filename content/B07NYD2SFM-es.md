@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYD2SFM-es AVIWIS Cable Magnético Tipo C [2Pack 1M] Cargador Tipo C...'
 sku: 'B07NYD2SFM-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

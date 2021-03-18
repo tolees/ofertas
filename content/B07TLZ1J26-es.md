@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLZ1J26-es Vans Atwood Textile Suede Zapatillas para Hombre Marrón...'
 sku: 'B07TLZ1J26-es'
-tags: [  ]
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

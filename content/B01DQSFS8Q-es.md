@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DQSFS8Q-es Reloj MASERATI - Hombre R8823124001'
 sku: 'B01DQSFS8Q-es'
-tags: [  ]
 actualPrice: 157.83 EUR
 currency: EUR
 price: 157.83

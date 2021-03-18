@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CFBU5RK-es Nixon Reloj Analógico para Unisex de Cuarzo con Correa en...'
 sku: 'B00CFBU5RK-es'
-tags: [  ]
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H8QHDNW-es Rowenta X-Force 8.50 Aqua RH9695 Aspiradora sin cable...'
 sku: 'B08H8QHDNW-es'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

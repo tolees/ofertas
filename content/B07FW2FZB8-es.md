@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FW2FZB8-es LolaPix - Llavero Amor Personalizado con...'
 sku: 'B07FW2FZB8-es'
-tags: [ 'lolapix', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

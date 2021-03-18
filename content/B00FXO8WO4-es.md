@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FXO8WO4-es Black+Decker - Black + Decker GWC3600L20 Aspirador y...'
 sku: 'B00FXO8WO4-es'
-tags: [  ]
 actualPrice: 141.6 EUR
 currency: EUR
 price: 141.6

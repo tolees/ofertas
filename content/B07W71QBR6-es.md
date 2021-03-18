@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W71QBR6-es BC-02ppAuricolare Bluetooth XuanPad Auricolari 5.0...'
 sku: 'B07W71QBR6-es'
-tags: [  ]
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

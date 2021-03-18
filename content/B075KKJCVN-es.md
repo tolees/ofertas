@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075KKJCVN-es Tristar KA-5091 Radiador de aceite 2000 W 11 cuerpos-2000...'
 sku: 'B075KKJCVN-es'
-tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

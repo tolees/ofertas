@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FB7Q4UC-es Guess Reloj de Pulsera W0289L1'
 sku: 'B00FB7Q4UC-es'
-tags: [  ]
 actualPrice: 107.9 EUR
 currency: EUR
 price: 107.9

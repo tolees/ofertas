@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9HLNM1-es Under Armour Qualifier Coldgear Tight Legging Hombre Negro XL'
 sku: 'B07L9HLNM1-es'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

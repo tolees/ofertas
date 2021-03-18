@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OLYCRC-es TRIXIE Cama Suave Cobayas 30 x 22 cm Gris-Verde Pequeños...'
 sku: 'B000OLYCRC-es'
-tags: [ 'trixie', ]
 actualPrice: 4.18 EUR
 currency: EUR
 price: 4.18

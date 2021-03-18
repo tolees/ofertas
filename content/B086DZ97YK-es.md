@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086DZ97YK-es realme X50 Pro – Smartphone 5G de 6.44” 12GB RAM + 256GB...'
 sku: 'B086DZ97YK-es'
-tags: [  ]
 actualPrice: 469.08 EUR
 currency: EUR
 price: 469.08

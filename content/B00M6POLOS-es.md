@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00M6POLOS-es Philips Avent - Set de recipientes para leche materna 10...'
 sku: 'B00M6POLOS-es'
-tags: [  ]
 actualPrice: 11.96 EUR
 currency: EUR
 price: 11.96

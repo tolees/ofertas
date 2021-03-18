@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLTGGTN-es Camela - Rebobinando 3CD+DVD'
 sku: 'B07NLTGGTN-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

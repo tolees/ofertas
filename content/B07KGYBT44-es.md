@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGYBT44-es Mr. Wonderful - Pendrive de 16 GB diseño Sorbete Color Azul'
 sku: 'B07KGYBT44-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

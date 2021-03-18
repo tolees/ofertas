@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077XMW3L9-es Under Armour Enduro Pant Pantalones Hombre Negro...'
 sku: 'B077XMW3L9-es'
-tags: [  ]
 actualPrice: 32.87 EUR
 currency: EUR
 price: 32.87

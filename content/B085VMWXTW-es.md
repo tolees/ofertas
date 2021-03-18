@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085VMWXTW-es Healthy Fusion - Potente anticelulítico y reductor...'
 sku: 'B085VMWXTW-es'
-tags: [  ]
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

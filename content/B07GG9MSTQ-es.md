@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GG9MSTQ-es Philips Centro de planchado GC8940/20 Plancha sin...'
 sku: 'B07GG9MSTQ-es'
-tags: [  ]
 actualPrice: 148.42 EUR
 currency: EUR
 price: 148.42

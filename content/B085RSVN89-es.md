@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RSVN89-es Regleta Inteligente con 3 Zócalos Control Individual...'
 sku: 'B085RSVN89-es'
-tags: [ 'Acción y Aventura','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Blu-ray','Bricolaje y herramientas','Ciencia ficción','Destornilladores','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Fantasía','Featured Categories','Herramientas de mano','Herramientas manuales y eléctricas','Hogar y cocina','Instalación eléctrica','Juegos de destornilladores','Películas','Películas y TV','Robots aspiradores','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','gosund', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

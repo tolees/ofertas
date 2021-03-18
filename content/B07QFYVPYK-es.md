@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFYVPYK-es Diesel Pulsera para Hombre DX1185040'
 sku: 'B07QFYVPYK-es'
-tags: [ 'diesel', ]
 actualPrice: 41.1 EUR
 currency: EUR
 price: 41.1

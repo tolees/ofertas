@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YT1KZPN-es Razer Kraken UltimateCascos Gaming Auriculares Gaming con...'
 sku: 'B07YT1KZPN-es'
-tags: [ 'razer', ]
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

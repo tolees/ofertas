@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M2BC58S-es Selecta - Record of Lodoss War - Edición Coleccionista...'
 sku: 'B08M2BC58S-es'
-tags: [  ]
 actualPrice: 43.71 EUR
 currency: EUR
 price: 43.71

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003WOKJLQ-es Remington HC5810 Genius - Máquina de Cortar Pelo Cuchillas...'
 sku: 'B003WOKJLQ-es'
-tags: [  ]
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

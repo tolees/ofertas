@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073Z7NVCD-es YAMAY Pulsera Actividad con Pulsómetro Mujer Hombre...'
 sku: 'B073Z7NVCD-es'
-tags: [  ]
 actualPrice: 17.33 EUR
 currency: EUR
 price: 17.33

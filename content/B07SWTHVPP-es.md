@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SWTHVPP-es adidas Ultraboost S&l Zapatillas de Running para Hombre...'
 sku: 'B07SWTHVPP-es'
-tags: [  ]
 actualPrice: 61.53 EUR
 currency: EUR
 price: 61.53

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F85DM7H-es Adidas 3MC Zapatillas de Skateboarding Unisex Adulto Azul...'
 sku: 'B07F85DM7H-es'
-tags: [  ]
 actualPrice: 30.51 EUR
 currency: EUR
 price: 30.51

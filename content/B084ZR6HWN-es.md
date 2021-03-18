@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084ZR6HWN-es Ecovacs Deebot OZMO 920 Limpiador de vacío 110 min Negro'
 sku: 'B084ZR6HWN-es'
-tags: [  ]
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

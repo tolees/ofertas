@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084VF2B7D-es Detector de Humo Isafenest Alarma de Humo con Sensor...'
 sku: 'B084VF2B7D-es'
-tags: [  ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

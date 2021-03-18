@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088G37BYH-es HAPPY - 5 productos el efecto alcanza el 95% CE'
 sku: 'B088G37BYH-es'
-tags: [  ]
 actualPrice: 4.96 EUR
 currency: EUR
 price: 4.96

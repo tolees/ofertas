@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLCC6W3-es ROMIX Colchoneta de Yoga Antideslizante Extra Gruesa 10MM...'
 sku: 'B07TLCC6W3-es'
-tags: [  ]
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

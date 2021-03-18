@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNR71JH-es Funko - POP Rides: Game of Thrones - Daenerys on Fiery Drogon'
 sku: 'B07SNR71JH-es'
-tags: [ 'funko', ]
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

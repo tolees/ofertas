@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0727VFPXG-es Tefal Clipso Minut Perfect - Olla a Presión de 7.5L de...'
 sku: 'B0727VFPXG-es'
-tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

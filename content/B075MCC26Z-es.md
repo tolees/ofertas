@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MCC26Z-es Altavoz Autoamplificado 250W 8" ThunderSound Biwond'
 sku: 'B075MCC26Z-es'
-tags: [  ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

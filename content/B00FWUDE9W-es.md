@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FWUDE9W-es Sony Alpha ILCE-7 - Cámara EVIL de 24.3 MP Full HD sólo...'
 sku: 'B00FWUDE9W-es'
-tags: [  ]
 actualPrice: 711.1 EUR
 currency: EUR
 price: 711.1

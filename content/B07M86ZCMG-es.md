@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M86ZCMG-es Philips Serie 7000 S7960/17 - Máquina de afeitar con...'
 sku: 'B07M86ZCMG-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

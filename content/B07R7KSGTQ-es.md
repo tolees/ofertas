@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7KSGTQ-es 4 Piezas 64GB USB 3.0 ENUODA Pendrive Pivote Memorias...'
 sku: 'B07R7KSGTQ-es'
-tags: [  ]
 actualPrice: 23.59 EUR
 currency: EUR
 price: 23.59

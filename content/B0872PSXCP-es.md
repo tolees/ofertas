@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872PSXCP-es Funda Transparente Compatible para Xiaomi Mi 8 Lite...'
 sku: 'B0872PSXCP-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

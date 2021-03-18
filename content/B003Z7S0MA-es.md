@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003Z7S0MA-es Hermano oso [DVD]'
 sku: 'B003Z7S0MA-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

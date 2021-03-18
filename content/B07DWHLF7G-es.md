@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DWHLF7G-es Police Reloj de Pulsera PL.15529JSTB/02'
 sku: 'B07DWHLF7G-es'
-tags: [  ]
 actualPrice: 93.58 EUR
 currency: EUR
 price: 93.58

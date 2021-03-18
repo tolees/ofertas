@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D3TBWXF-es Kingnew Perro Techo Pet Cojín Perro Gato Cama Suave...'
 sku: 'B07D3TBWXF-es'
-tags: [  ]
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

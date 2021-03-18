@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082KZW9X9-es Calcetines de Running para Largas Distancias para Hombre y...'
 sku: 'B082KZW9X9-es'
-tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

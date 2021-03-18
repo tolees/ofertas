@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BNVF2N5-es Bialetti New Moka Induction Cafetera apta para inducción 4...'
 sku: 'B08BNVF2N5-es'
-tags: [  ]
 actualPrice: 31.24 EUR
 currency: EUR
 price: 31.24

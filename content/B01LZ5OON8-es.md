@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZ5OON8-es GoPro Karma Replacement Arm - Brazo de Repuesto Delantero...'
 sku: 'B01LZ5OON8-es'
-tags: [  ]
 actualPrice: 39.93 EUR
 currency: EUR
 price: 39.93

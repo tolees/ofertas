@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BBZ6BRW-es Bontempi 525602 - BATERIA ELECTRIA Drum 4 Niveles DE...'
 sku: 'B07BBZ6BRW-es'
-tags: [  ]
 actualPrice: 32.26 EUR
 currency: EUR
 price: 32.26

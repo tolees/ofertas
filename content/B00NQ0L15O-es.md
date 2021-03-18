@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NQ0L15O-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B00NQ0L15O-es'
-tags: [  ]
 actualPrice: 131.0 EUR
 currency: EUR
 price: 131.0

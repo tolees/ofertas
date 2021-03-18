@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRWFNFQ-es Armani Exchange Hidden Buttons Stretch Cotton Polo Azul...'
 sku: 'B07SRWFNFQ-es'
-tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

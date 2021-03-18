@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NSGYFM-es Polti Forzaspira Lecologico Aqua Allergy Natural Care...'
 sku: 'B079NSGYFM-es'
-tags: [ 'polti', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

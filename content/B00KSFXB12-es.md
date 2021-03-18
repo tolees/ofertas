@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KSFXB12-es ABC PARTS Princesas Disney PRIN104 Alzador'
 sku: 'B00KSFXB12-es'
-tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

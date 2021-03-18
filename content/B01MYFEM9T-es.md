@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYFEM9T-es Tommy Hilfiger 3p Brief Slip Multicolor Multi/Peacoat 904...'
 sku: 'B01MYFEM9T-es'
-tags: [ 'tommy hilfiger', ]
 actualPrice: 26.55 EUR
 currency: EUR
 price: 26.55

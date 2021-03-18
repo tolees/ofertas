@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087JMFDVV-es HKY 19V 90W Adaptador Cargador para JBL Xtreme Speaker...'
 sku: 'B087JMFDVV-es'
-tags: [  ]
 actualPrice: 17.01 EUR
 currency: EUR
 price: 17.01

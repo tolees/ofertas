@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVPX64H-es Guzack Cinturón de Correr Chuangmeida Riñonera Cinturón...'
 sku: 'B07QVPX64H-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

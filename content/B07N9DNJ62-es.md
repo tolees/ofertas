@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N9DNJ62-es JBL LIVE 650BTNC - Auriculares Inalámbricos con Bluetooth...'
 sku: 'B07N9DNJ62-es'
-tags: [  ]
 actualPrice: 135.0 EUR
 currency: EUR
 price: 135.0

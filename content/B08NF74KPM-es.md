@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NF74KPM-es GREAT ART Cartel Motivación Negro - Conquistar - Ganar...'
 sku: 'B08NF74KPM-es'
-tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

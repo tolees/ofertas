@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GWMLHPD-es TACKLIFE Remachadora con Remaches de 40 Piezas Remachadora...'
 sku: 'B07GWMLHPD-es'
-tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

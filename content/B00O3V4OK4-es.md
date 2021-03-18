@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O3V4OK4-es JVC HA-S180-B - Auriculares de diadema abiertos estructura...'
 sku: 'B00O3V4OK4-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

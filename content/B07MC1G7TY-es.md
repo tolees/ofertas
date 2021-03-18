@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MC1G7TY-es AUDIO-TECHNICA ATH-SR50BT - Auriculares Inalámbricos Color...'
 sku: 'B07MC1G7TY-es'
-tags: [  ]
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

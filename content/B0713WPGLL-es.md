@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0713WPGLL-es Western Digital - WD Elements - Disco duro externo...'
 sku: 'B0713WPGLL-es'
-tags: [  ]
 actualPrice: 98.25 EUR
 currency: EUR
 price: 98.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WI5SKCA-es Semillas Batlle - Semillas Leguminosas - Garbanzo Badil -...'
 sku: 'B00WI5SKCA-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

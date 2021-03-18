@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LQR3TS-es Munich CLIK 02 Zapatillas Unisex Adulto Multicolor 38 EU'
 sku: 'B085LQR3TS-es'
-tags: [  ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

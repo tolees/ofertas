@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SBWJQPT-es PUMA Smash V2 L Zapatillas Unisex Adulto Blanco White/High...'
 sku: 'B07SBWJQPT-es'
-tags: [  ]
 actualPrice: 31.54 EUR
 currency: EUR
 price: 31.54

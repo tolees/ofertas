@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NR8KN22-es INFILAND Kindle 10th 2019 X Menta Verde'
 sku: 'B07NR8KN22-es'
-tags: [  ]
 actualPrice: 13.24 EUR
 currency: EUR
 price: 13.24

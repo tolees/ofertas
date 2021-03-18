@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRCNG32-es adidas Stan Smith W Zapatillas de Gimnasia para Mujer...'
 sku: 'B07SRCNG32-es'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3M9B1R-es Kipling ONALO Bolsa de Viaje 45 cm 18 Liters Azul Laser Blue'
 sku: 'B07V3M9B1R-es'
-tags: [  ]
 actualPrice: 27.11 EUR
 currency: EUR
 price: 27.11

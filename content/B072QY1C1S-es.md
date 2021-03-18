@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072QY1C1S-es Fossil Reloj para Mujer de Automático con Correa en Cuero...'
 sku: 'B072QY1C1S-es'
-tags: [  ]
 actualPrice: 121.27 EUR
 currency: EUR
 price: 121.27

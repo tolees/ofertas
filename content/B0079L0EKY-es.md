@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0079L0EKY-es Huch&Friends - Huch! & friends- Hive Pocket Hutter Trade...'
 sku: 'B0079L0EKY-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

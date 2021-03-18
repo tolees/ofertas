@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NMHRGZ-es Proster - Remachadora Manual Con 200 Remaches Profesional...'
 sku: 'B089NMHRGZ-es'
-tags: [  ]
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

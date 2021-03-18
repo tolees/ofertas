@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0072MFATA-es American Crew Classic Ultramatte Fijador Medio Sin Brillo...'
 sku: 'B0072MFATA-es'
-tags: [  ]
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

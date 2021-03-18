@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VG33C9K-es Vanish Oxi Action - Quitamanchas especial manchas de...'
 sku: 'B08VG33C9K-es'
-tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

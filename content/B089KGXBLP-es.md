@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089KGXBLP-es RECCI Cubrecolchón 120x190/200 - Cubre Colchón 120x190/200...'
 sku: 'B089KGXBLP-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

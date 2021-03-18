@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HKKHP2Z-es Under Armour Micro G Pursuit BP Calzado deportivo Hombre'
 sku: 'B07HKKHP2Z-es'
-tags: [  ]
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND6C86R-es LEGO - Hidden Side Expreso Fantasma Juguete de...'
 sku: 'B07ND6C86R-es'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

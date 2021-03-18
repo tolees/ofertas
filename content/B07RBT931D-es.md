@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RBT931D-es G★LAXIA Amoladora Angulare 750W 11000RPM Discos de 115mm...'
 sku: 'B07RBT931D-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

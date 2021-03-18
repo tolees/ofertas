@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WPJS8Z1-es BEUSS - Blanco Rey Lobo Juego de Toallas para Baño Playa...'
 sku: 'B08WPJS8Z1-es'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

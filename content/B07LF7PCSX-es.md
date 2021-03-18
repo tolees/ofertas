@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF7PCSX-es Coronas Perforadoras Meterk 17 PCS Sierras Perforadoras 13...'
 sku: 'B07LF7PCSX-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

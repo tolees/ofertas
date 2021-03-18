@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KG5RM1G-es PUMA Stepfleex 2 SL Ve V Inf Zapatillas Azul...'
 sku: 'B07KG5RM1G-es'
-tags: [  ]
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

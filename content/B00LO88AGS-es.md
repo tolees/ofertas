@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LO88AGS-es Luminarc 7276008 Stella - Juego de 6 Copas 7 7 x 35 5 x 3...'
 sku: 'B00LO88AGS-es'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

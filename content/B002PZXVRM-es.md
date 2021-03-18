@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002PZXVRM-es Stagg SMC6 - Cable para micrófono XLRf a XLRm Negro 6 m'
 sku: 'B002PZXVRM-es'
-tags: [  ]
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

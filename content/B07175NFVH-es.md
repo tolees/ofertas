@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07175NFVH-es Silver HT 111936640199 - Teclado inalámbrico color blanco...'
 sku: 'B07175NFVH-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

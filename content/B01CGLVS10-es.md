@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CGLVS10-es SECTOR NO LIMITS Reloj Digital para Hombre de Cuarzo con...'
 sku: 'B01CGLVS10-es'
-tags: [  ]
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

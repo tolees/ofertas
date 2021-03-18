@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRLGSSS-es New Balance Yc373v1 Zapatillas para Niños Rojo Burgundy...'
 sku: 'B07KRLGSSS-es'
-tags: [  ]
 actualPrice: 30 EUR
 currency: EUR
 price: 30

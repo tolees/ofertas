@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014SPNQV2-es Hoover MBC500UV Ultra Vortex - Aspiradora de Mano...'
 sku: 'B014SPNQV2-es'
-tags: [  ]
 actualPrice: 71.53 EUR
 currency: EUR
 price: 71.53

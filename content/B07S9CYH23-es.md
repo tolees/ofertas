@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S9CYH23-es Lee Breese Pantalones para Mujer Negro Black 01 24W / 31L'
 sku: 'B07S9CYH23-es'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

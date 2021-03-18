@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001U3ZOVG-es Cables To Go Mini Gender Changer - Cambiador hembra...'
 sku: 'B001U3ZOVG-es'
-tags: [  ]
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087DF5PC4-es adidas ULTIMASHOW Zapatillas Hombre NEGBÁS/NEGBÁS/FTWBLA...'
 sku: 'B087DF5PC4-es'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0128LO0DQ-es Bolero Bebida Instantánea sin Azúcar Sabor Uva Roja -...'
 sku: 'B0128LO0DQ-es'
-tags: [  ]
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

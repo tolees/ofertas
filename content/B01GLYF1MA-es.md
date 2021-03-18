@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GLYF1MA-es Bellota 7230042S3 Botas piel 42'
 sku: 'B01GLYF1MA-es'
-tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

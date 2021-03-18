@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZHJL1QN-es CREATE IKOHS BARBER V800 - Recortador de Barba Afeitadora...'
 sku: 'B07ZHJL1QN-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

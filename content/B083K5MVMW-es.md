@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083K5MVMW-es Anpro Luz Cadena Colorida Luz de Cortina USB 7 Colores con...'
 sku: 'B083K5MVMW-es'
-tags: [  ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

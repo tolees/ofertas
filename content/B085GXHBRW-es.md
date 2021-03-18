@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085GXHBRW-es Tampax Copa Menstrual Flujo Abundante Protección Comfort-...'
 sku: 'B085GXHBRW-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

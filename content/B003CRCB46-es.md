@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003CRCB46-es Wolfcraft 4108000 4108000-1 Cortador Standard con Mango de...'
 sku: 'B003CRCB46-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

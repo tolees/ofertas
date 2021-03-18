@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTJG166-es Tommy Hilfiger Reloj de Pulsera 1791579'
 sku: 'B07KTJG166-es'
-tags: [  ]
 actualPrice: 97.51 EUR
 currency: EUR
 price: 97.51

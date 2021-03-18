@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0000ATBYZ-es Converse Chuck Taylor All Star Hi Top Zapatillas Mujer...'
 sku: 'B0000ATBYZ-es'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RTFZMFM-es Grohe Eurosmart - Grifo de bidé con cadena retráctil 1/2"...'
 sku: 'B00RTFZMFM-es'
-tags: [  ]
 actualPrice: 70.51 EUR
 currency: EUR
 price: 70.51

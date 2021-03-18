@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DM4PQ28-es Kanguru Caja de Almacenamiento en cartòn Lavatelli Modelo...'
 sku: 'B00DM4PQ28-es'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

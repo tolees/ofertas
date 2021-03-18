@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QZ9BQ1K-es HANGOU Luz de Noche LED Lámpara de luz de Noche de Cerdo...'
 sku: 'B08QZ9BQ1K-es'
-tags: [  ]
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

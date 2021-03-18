@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086SRTDN5-es Nooie Enchufe Inteligente Smart Plug Compatible con Amazon...'
 sku: 'B086SRTDN5-es'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

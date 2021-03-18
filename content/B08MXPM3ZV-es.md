@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MXPM3ZV-es Aikove Despertador Proyector con Función de Radio FM...'
 sku: 'B08MXPM3ZV-es'
-tags: [  ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005MNFUG4-es Festina Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B005MNFUG4-es'
-tags: [  ]
 actualPrice: 63.2 EUR
 currency: EUR
 price: 63.2

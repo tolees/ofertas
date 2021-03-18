@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GW2PCOY-es Cacique Añejo Ron - 700 ml'
 sku: 'B00GW2PCOY-es'
-tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

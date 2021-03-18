@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8M7K7J-es Mishansha Zapatillas de Estar en Casa Hombre Mujer...'
 sku: 'B07V8M7K7J-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

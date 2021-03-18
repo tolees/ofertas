@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KGAL58-es Pyrex Classic Vidrio - Cazuela redonda con tapa...'
 sku: 'B000KGAL58-es'
-tags: [  ]
 actualPrice: 13.56 EUR
 currency: EUR
 price: 13.56

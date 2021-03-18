@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MTA0IPV-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B01MTA0IPV-es'
-tags: [  ]
 actualPrice: 88.49 EUR
 currency: EUR
 price: 88.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ6QWW7-es Espirulina ecológica en Comprimidos Premium Carefood para...'
 sku: 'B07NJ6QWW7-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

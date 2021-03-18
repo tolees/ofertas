@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00M7PE9SU-es Amzdeal Inflador globo electrico para inflar globos...'
 sku: 'B00M7PE9SU-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

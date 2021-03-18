@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHYKFXR-es El Naturalista NG24 Lux Suede YUGEN Botas Chelsea para...'
 sku: 'B07CHYKFXR-es'
-tags: [  ]
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

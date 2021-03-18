@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D4WUIA2-es Taurus Alize Evolution - Secador de pelo 2200 W Negro'
 sku: 'B01D4WUIA2-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

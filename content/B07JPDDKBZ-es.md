@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JPDDKBZ-es DAM TEKKIWEAR. DMX222BKRED. Pulsera Inteligente Ak-Q8S...'
 sku: 'B07JPDDKBZ-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJV261B-es Vans Ward Suede/Canvas Zapatillas para Hombre Negro Otw...'
 sku: 'B07TJV261B-es'
-tags: [  ]
 actualPrice: 33.65 EUR
 currency: EUR
 price: 33.65

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LXR5W7V-es fischer Maletin Surtido SX 5/6/8 Juego Tacos y 90...'
 sku: 'B01LXR5W7V-es'
-tags: [  ]
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

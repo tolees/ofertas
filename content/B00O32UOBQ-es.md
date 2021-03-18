@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O32UOBQ-es Bourjois Contour Edition Perfilador de Labios Tono 01 Nude...'
 sku: 'B00O32UOBQ-es'
-tags: [  ]
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

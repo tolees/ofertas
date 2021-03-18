@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086LKB28D-es Fundas Amazon Kindle 2019 10ma Generación Flip Pintado...'
 sku: 'B086LKB28D-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

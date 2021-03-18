@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089KJ8HQ4-es KUPVALON Funda para Huawei P40 IP68 Funda Impermeable...'
 sku: 'B089KJ8HQ4-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

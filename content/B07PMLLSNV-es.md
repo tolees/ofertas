@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMLLSNV-es New Balance 373 Zapatillas para Hombre Verde Green/Black...'
 sku: 'B07PMLLSNV-es'
-tags: [  ]
 actualPrice: 40 EUR
 currency: EUR
 price: 40

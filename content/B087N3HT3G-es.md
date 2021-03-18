@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087N3HT3G-es Funko- Pop Vinyl 1990-Leonardo Teenage Mutant Ninja...'
 sku: 'B087N3HT3G-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7QHH8W-es Paraguas Transparente Niño Azul Amarillo con Ribete...'
 sku: 'B07P7QHH8W-es'
-tags: [  ]
 actualPrice: 8.37 EUR
 currency: EUR
 price: 8.37

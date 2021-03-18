@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Y2PG7YM-es Compo Cytrhin Spray Insecticida Pulgón para Plantas...'
 sku: 'B00Y2PG7YM-es'
-tags: [  ]
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

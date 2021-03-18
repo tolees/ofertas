@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M5KM9LY-es KARACTERMANIA - Diseny Icons Bambi-Bolso Cadena Slim'
 sku: 'B07M5KM9LY-es'
-tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

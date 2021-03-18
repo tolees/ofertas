@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003VNP4WM-es OSRAM 66240 XENARC ORIGINAL - Lámpara de xenón D2S HID...'
 sku: 'B003VNP4WM-es'
-tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

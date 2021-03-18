@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CPPWYYS-es IBILI - Cortador Ondulado para Verduras'
 sku: 'B00CPPWYYS-es'
-tags: [  ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

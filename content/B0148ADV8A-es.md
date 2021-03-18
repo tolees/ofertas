@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0148ADV8A-es AEG EWA3300 Hervidor Serie 3 Temperatura hasta 100ºC...'
 sku: 'B0148ADV8A-es'
-tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

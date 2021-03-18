@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BJQ35WI-es Raton Óptico con cable NGS FLAME RED. 1000 Dpi 3 BOTONES...'
 sku: 'B01BJQ35WI-es'
-tags: [  ]
 actualPrice: 4.74 EUR
 currency: EUR
 price: 4.74

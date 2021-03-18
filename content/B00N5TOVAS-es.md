@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00N5TOVAS-es Medisana HU 665 Calienta Camas Eléctrico con 3 Ajustes de...'
 sku: 'B00N5TOVAS-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

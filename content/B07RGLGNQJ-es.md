@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGLGNQJ-es Salomon Tech Lite Zapatillas de Senderismo acuáticas para...'
 sku: 'B07RGLGNQJ-es'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

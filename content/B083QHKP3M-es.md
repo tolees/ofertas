@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083QHKP3M-es Suunto 3 Reloj deportivo con medición dle ritmo cardiaco...'
 sku: 'B083QHKP3M-es'
-tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

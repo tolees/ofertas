@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076H7XL5B-es Pyrex Prepware Set de 3 Jarras Medidoras con Extrema...'
 sku: 'B076H7XL5B-es'
-tags: [  ]
 actualPrice: 31.7 EUR
 currency: EUR
 price: 31.7

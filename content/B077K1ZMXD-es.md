@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077K1ZMXD-es Cars3 DXV32 Coche Personajes'
 sku: 'B077K1ZMXD-es'
-tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719TS7XY-es TAZA MICRO 350 ML | AVENGERS GALLERY'
 sku: 'B0719TS7XY-es'
-tags: [  ]
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

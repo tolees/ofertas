@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001IA3SZ0-es Parrot MKi9200 - Manos Libres'
 sku: 'B001IA3SZ0-es'
-tags: [  ]
 actualPrice: 137.4 EUR
 currency: EUR
 price: 137.4

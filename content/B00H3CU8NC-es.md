@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00H3CU8NC-es TOOGOO（R） - SODIAL R Mini Microfono Flexible 3.5mm para...'
 sku: 'B00H3CU8NC-es'
-tags: [  ]
 actualPrice: 3.72 EUR
 currency: EUR
 price: 3.72

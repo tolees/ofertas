@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C4SKKPM-es Bizak-Mi Bebé Voltereta Modelo Surtido 62305050'
 sku: 'B08C4SKKPM-es'
-tags: [ 'Juguetes','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','bizak', ]
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

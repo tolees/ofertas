@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PPXW6JM-es Under Armour Tech Corto Hombre Negro 30'
 sku: 'B07PPXW6JM-es'
-tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

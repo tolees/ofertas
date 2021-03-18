@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KHXH8XL-es ECO-WORTHY 12 voltios 5 vatios 10 vatios 120 vatios...'
 sku: 'B07KHXH8XL-es'
-tags: [  ]
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

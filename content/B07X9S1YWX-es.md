@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X9S1YWX-es Nerf Balas 100 DEWEL Dardos Nerf de7.2cm Balas Goma Espuma'
 sku: 'B07X9S1YWX-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

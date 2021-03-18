@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTGFL3H-es GANT MD. Extrafine Lambswool V-Neck suéter Rojo Red 610...'
 sku: 'B07MTGFL3H-es'
-tags: [  ]
 actualPrice: 46.15 EUR
 currency: EUR
 price: 46.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072M2PM4T-es Fluchos | Mocasín de Hombre | Luca 8499 Ave Negro |...'
 sku: 'B072M2PM4T-es'
-tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

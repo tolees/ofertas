@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TTM85CU-es Ewent EW1241 Cable antirrobo Plata 1 5 m'
 sku: 'B00TTM85CU-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

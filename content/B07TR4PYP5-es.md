@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TR4PYP5-es Cocoty-store Pantalones 2019 Hombre Pantalones Jogger...'
 sku: 'B07TR4PYP5-es'
-tags: [  ]
 actualPrice: 3.41 EUR
 currency: EUR
 price: 3.41

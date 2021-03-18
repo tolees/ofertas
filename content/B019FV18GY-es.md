@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019FV18GY-es Viceroy 432850-05 - Reloj Atlético de Madrid para Niño'
 sku: 'B019FV18GY-es'
-tags: [  ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

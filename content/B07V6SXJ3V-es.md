@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6SXJ3V-es Kipling Deny Bolsa de Viaje 44 cm 26 Liters Plateado...'
 sku: 'B07V6SXJ3V-es'
-tags: [  ]
 actualPrice: 52.01 EUR
 currency: EUR
 price: 52.01

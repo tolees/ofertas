@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0885Z1PKP-es Xiaomi Redmi Note 9 - Smartphone con Pantalla FHD+ de...'
 sku: 'B0885Z1PKP-es'
-tags: [  ]
 actualPrice: 134.78 EUR
 currency: EUR
 price: 134.78

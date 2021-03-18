@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089F5RPD5-es AICase Soporte de Portátil Soporte para portatil Arena...'
 sku: 'B089F5RPD5-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R44X1NQ-es Lictin Set para Cuidado del Bebé - 15 Piezas Kit de Aseo...'
 sku: 'B07R44X1NQ-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

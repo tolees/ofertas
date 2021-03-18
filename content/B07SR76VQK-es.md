@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SR76VQK-es Chok Idea Innovador Hebilla Piel Genuina Correa Compatible...'
 sku: 'B07SR76VQK-es'
-tags: [  ]
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

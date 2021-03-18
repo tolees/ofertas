@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BHS0QZM-es Oral-B Waterjet - Sistema de Limpieza Irrigador Bucal con...'
 sku: 'B01BHS0QZM-es'
-tags: [  ]
 actualPrice: 52.6 EUR
 currency: EUR
 price: 52.6

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085HGN4BX-es Cecotec Robot aspirador y fregasuelos Conga 3790...'
 sku: 'B085HGN4BX-es'
-tags: [  ]
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

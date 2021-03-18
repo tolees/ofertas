@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DQPGGZW-es Seiko Reloj Analógico para Hombre de Kinetico con Correa...'
 sku: 'B07DQPGGZW-es'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

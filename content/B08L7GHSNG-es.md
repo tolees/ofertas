@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L7GHSNG-es Disney - Vengadores Steelbook 1-4 + Disco bonus [Blu-ray]'
 sku: 'B08L7GHSNG-es'
-tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

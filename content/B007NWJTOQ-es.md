@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007NWJTOQ-es Valira Bolsa Porta Alimentos Tela Compact Negro centimeters'
 sku: 'B007NWJTOQ-es'
-tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

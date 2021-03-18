@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08252LSNB-es RIWNNI USB C Bateria Externa 20000mAh Gran Capacidad Power...'
 sku: 'B08252LSNB-es'
-tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

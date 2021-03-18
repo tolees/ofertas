@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0817JCH5P-es Columbia Triple Canyon Pantalón Corto De Senderismo Hombre...'
 sku: 'B0817JCH5P-es'
-tags: [  ]
 actualPrice: 24.63 EUR
 currency: EUR
 price: 24.63

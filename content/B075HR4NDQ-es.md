@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075HR4NDQ-es fischer 534090 maletin de surtido de tacos Gris Sin...'
 sku: 'B075HR4NDQ-es'
-tags: [  ]
 actualPrice: 16.01 EUR
 currency: EUR
 price: 16.01

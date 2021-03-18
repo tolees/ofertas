@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00N4ZVQQK-es Levi s Otis Beanie Gorro de punto Unisex adulto Gris...'
 sku: 'B00N4ZVQQK-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

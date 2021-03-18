@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TK3CPU-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B001TK3CPU-es'
-tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

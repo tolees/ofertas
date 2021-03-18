@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSJGN5Z-es Kipling - Multiple Bolsos bandolera Mujer Multicolor Camo...'
 sku: 'B07PSJGN5Z-es'
-tags: [  ]
 actualPrice: 18.37 EUR
 currency: EUR
 price: 18.37

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KUJ1VMG-es Beurer EM49 - Electroestimulador digital para aliviar el...'
 sku: 'B01KUJ1VMG-es'
-tags: [  ]
 actualPrice: 48.34 EUR
 currency: EUR
 price: 48.34

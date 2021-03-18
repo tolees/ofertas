@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00J99F8KU-es Krups KP100B Cafetera Dolce Gusto cápsulas monodosis 15...'
 sku: 'B00J99F8KU-es'
-tags: [  ]
 actualPrice: 48.4 EUR
 currency: EUR
 price: 48.4

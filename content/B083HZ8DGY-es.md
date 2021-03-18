@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZ8DGY-es Funda Protectora para teléfono móvil de diseño Lindo Funda...'
 sku: 'B083HZ8DGY-es'
-tags: [  ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

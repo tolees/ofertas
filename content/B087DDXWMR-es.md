@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087DDXWMR-es adidas ULTIMASHOW Zapatillas Mujer FTWBLA/FTWBLA/Plamet 40...'
 sku: 'B087DDXWMR-es'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

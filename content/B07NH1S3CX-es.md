@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NH1S3CX-es Barbie - Muñecas Barbie y Chelsea con caballos y...'
 sku: 'B07NH1S3CX-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

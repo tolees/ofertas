@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXNVRR2-es Frozen 2- Disney Muñeca Princesa Anna con Figuras de Olaf...'
 sku: 'B07KXNVRR2-es'
-tags: [  ]
 actualPrice: 28.5 EUR
 currency: EUR
 price: 28.5

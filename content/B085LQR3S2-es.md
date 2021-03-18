@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LQR3S2-es Munich Arrow 17 Zapatillas Unisex Adulto Multicolor 39 EU'
 sku: 'B085LQR3S2-es'
-tags: [  ]
 actualPrice: 31.22 EUR
 currency: EUR
 price: 31.22

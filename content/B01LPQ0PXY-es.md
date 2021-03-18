@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LPQ0PXY-es L Oreal Paris Dermo Expertise - L Oreal Paris Arcillas...'
 sku: 'B01LPQ0PXY-es'
-tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

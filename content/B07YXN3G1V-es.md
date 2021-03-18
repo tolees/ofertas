@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXN3G1V-es Under Armour Elevated Golf Visera Mujer Negro OSFA'
 sku: 'B07YXN3G1V-es'
-tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

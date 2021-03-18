@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0873WTXLJ-es Termómetro de Frente AGM Termómetros para Bebé y Muñeca...'
 sku: 'B0873WTXLJ-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

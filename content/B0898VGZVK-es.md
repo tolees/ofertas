@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0898VGZVK-es WINMI para Samsung Galaxy A71 Funda Tapa Trasera de...'
 sku: 'B0898VGZVK-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L3GHY8L-es AUDIO TECHNICA ATH-MSR7B Auriculares Marrón y Gris Diadema'
 sku: 'B07L3GHY8L-es'
-tags: [  ]
 actualPrice: 142.55 EUR
 currency: EUR
 price: 142.55

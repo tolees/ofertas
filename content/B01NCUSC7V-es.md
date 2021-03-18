@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NCUSC7V-es Fisher-Price Bloques infantiles juguete bloques...'
 sku: 'B01NCUSC7V-es'
-tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

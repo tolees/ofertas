@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083V1M2XR-es DANISH ENDURANCE - Calzoncillos Bóxers de Algodón para...'
 sku: 'B083V1M2XR-es'
-tags: [  ]
 actualPrice: 26.3 EUR
 currency: EUR
 price: 26.3

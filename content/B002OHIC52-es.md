@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002OHIC52-es Wolfcraft 4141000 Cúter de cuchillas separables estándar...'
 sku: 'B002OHIC52-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

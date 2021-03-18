@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BV1W7P7-es IMS-ISLAND - To Bring You My Love - Demos'
 sku: 'B08BV1W7P7-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

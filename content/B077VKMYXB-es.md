@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077VKMYXB-es Satisfyer Estimulador de Clítoris Pro G-Sport Rabbit - 1...'
 sku: 'B077VKMYXB-es'
-tags: [  ]
 actualPrice: 35.8 EUR
 currency: EUR
 price: 35.8

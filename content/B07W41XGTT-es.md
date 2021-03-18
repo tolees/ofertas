@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W41XGTT-es Luces LED Armario Tomshine 6PCS RGBW Lámpara de Armario 10...'
 sku: 'B07W41XGTT-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

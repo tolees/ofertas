@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CRJ389T-es Pepe Jeans Finly Jean Droit Negro Black Denim Wl0 11-12...'
 sku: 'B07CRJ389T-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

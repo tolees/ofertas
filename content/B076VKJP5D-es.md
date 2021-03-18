@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076VKJP5D-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B076VKJP5D-es'
-tags: [  ]
 actualPrice: 51.71 EUR
 currency: EUR
 price: 51.71

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ZXXX4F-es FFP2 Mascarilla protectora 5 capas de mascarilla filtrante...'
 sku: 'B089ZXXX4F-es'
-tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

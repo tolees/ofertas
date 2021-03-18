@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JQKZC87-es adidas Terrex AX3 GTX Zapatillas de Marcha Nórdica Hombre...'
 sku: 'B07JQKZC87-es'
-tags: [  ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

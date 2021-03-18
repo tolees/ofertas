@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006ZGA68E-es Safescan 70 Negro - Detector UV con luz LED para verificar...'
 sku: 'B006ZGA68E-es'
-tags: [  ]
 actualPrice: 38.7 EUR
 currency: EUR
 price: 38.7

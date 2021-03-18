@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08298DMCZ-es adidas TIERRO GK Pan Sport Trousers Hombre Black L'
 sku: 'B08298DMCZ-es'
-tags: [  ]
 actualPrice: 18.29 EUR
 currency: EUR
 price: 18.29

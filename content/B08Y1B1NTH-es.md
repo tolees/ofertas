@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Y1B1NTH-es Desconocido - MASHAN Humidificador de Aromaterapia...'
 sku: 'B08Y1B1NTH-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

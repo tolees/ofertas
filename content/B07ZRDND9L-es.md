@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRDND9L-es zociko Electroestimulador Muscular Abdominales EMS...'
 sku: 'B07ZRDND9L-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

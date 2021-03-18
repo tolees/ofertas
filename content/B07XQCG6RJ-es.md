@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQCG6RJ-es Funda iPhone 11 Pro MAX Fundas 11Pro MAX Libro Carcasa...'
 sku: 'B07XQCG6RJ-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

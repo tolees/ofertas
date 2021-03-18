@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FNRWH96-es HP Z3700 RF Raton óptico inalámbrico 1200DPI Blanco...'
 sku: 'B01FNRWH96-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

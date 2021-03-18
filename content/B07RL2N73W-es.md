@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RL2N73W-es TOPLUS Esterilla Yoga Antideslizante Nivel Profesional...'
 sku: 'B07RL2N73W-es'
-tags: [  ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

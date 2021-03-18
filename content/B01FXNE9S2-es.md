@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FXNE9S2-es HG Limpiador de moho 500 ml – Espray destructor de moho...'
 sku: 'B01FXNE9S2-es'
-tags: [  ]
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

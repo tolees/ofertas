@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SFYSC8G-es PUMA BMW MMS Drift Cat 8 Zapatillas Unisex Adulto Blanco...'
 sku: 'B07SFYSC8G-es'
-tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

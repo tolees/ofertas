@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F413YZD-es HUAWEI Watch FIT - Smartwatch con Cuerpo de Metal Pantalla...'
 sku: 'B08F413YZD-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para el té','Afeitado y depilación','Almacenamiento de alimentos','Almacenamiento de cocina y despensa','Belleza','Boles para té matcha','Botes para alimentos','Calzado de voleibol para hombre','Calzado deportivo de interior de hombre','Calzado deportivo para hombre','Campanas extractoras','Campanas extractoras de pared','Ciclismo','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Culotes de ciclismo para hombre','Deportes y aire libre','Electrónica','Grandes electrodomésticos','Hogar y cocina','Hornos y placas de cocina','Juegos y Accesorios para PC','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','Ratones para gamers para PC','Ropa','Ropa de ciclismo','Ropa de ciclismo para hombre','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Smartwatches','Tangas para hombre','Tecnología para vestir','Utensilios para café y té','Vestidos casual para mujer','Vestidos para mujer','Videojuegos','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','huawei', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

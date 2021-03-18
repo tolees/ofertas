@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H7PKBH1-es Rowenta DR8150D1 Access Steam+ Cepillo de vapor plancha...'
 sku: 'B07H7PKBH1-es'
-tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

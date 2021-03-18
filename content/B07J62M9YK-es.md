@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J62M9YK-es Funko - Pop! Bobble: Star Wars - Darth Vader Electronic...'
 sku: 'B07J62M9YK-es'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HG2O8QW-es Makita D-41517 - Estuche de llaves de vaso 9 piezas'
 sku: 'B00HG2O8QW-es'
-tags: [  ]
 actualPrice: 37.09 EUR
 currency: EUR
 price: 37.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V6TH6JF-es POP! Funkoverse: Battle in the Wizarding World - Harry Potter'
 sku: 'B07V6TH6JF-es'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

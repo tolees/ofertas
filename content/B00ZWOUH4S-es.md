@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ZWOUH4S-es Logitech G Driving Force Palanca de Cambio para Volantes...'
 sku: 'B00ZWOUH4S-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

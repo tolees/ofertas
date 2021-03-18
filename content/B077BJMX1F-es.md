@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077BJMX1F-es Trust Gaming GXT 830-RW Avonn - Teclado gaming iluminado...'
 sku: 'B077BJMX1F-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

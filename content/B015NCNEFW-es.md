@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015NCNEFW-es DCCN Carcasa para portátiles Alfombrilla de ratón de...'
 sku: 'B015NCNEFW-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005EJFLEM-es Duracell Plus AAA - Pilas Alcalinas Paquete de 12 1.5...'
 sku: 'B005EJFLEM-es'
-tags: [  ]
 actualPrice: 9.27 EUR
 currency: EUR
 price: 9.27

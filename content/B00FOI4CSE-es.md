@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FOI4CSE-es Tommy Hilfiger Damen Sneaker - calcetines para mujer 2...'
 sku: 'B00FOI4CSE-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

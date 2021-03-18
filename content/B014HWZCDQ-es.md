@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014HWZCDQ-es Babaria Tónico Facial con Aloe Vera - 300 ml'
 sku: 'B014HWZCDQ-es'
-tags: [  ]
 actualPrice: 1.8 EUR
 currency: EUR
 price: 1.8

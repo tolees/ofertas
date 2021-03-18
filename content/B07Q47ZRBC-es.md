@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q47ZRBC-es Black Hawk derribado 4K UHD + BD [Blu-ray]'
 sku: 'B07Q47ZRBC-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

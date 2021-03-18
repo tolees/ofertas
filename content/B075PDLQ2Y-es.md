@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075PDLQ2Y-es TP-Link ARCHER C50 v4 4PSW 1200Mbps 10/100 Mbps -'
 sku: 'B075PDLQ2Y-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

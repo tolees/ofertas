@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5ZGGJW-es QITAYO Protector de Pantalla Huawei P30 Lite [0.3mm 2.5D]...'
 sku: 'B07N5ZGGJW-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

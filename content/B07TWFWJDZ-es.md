@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TWFWJDZ-es Fitbit Versa 2 el smartwatch que te ayuda a mejorar la...'
 sku: 'B07TWFWJDZ-es'
-tags: [  ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSJGF1L-es Kipling - Creativity S Monederos Mujer Dorado Cloud Metal...'
 sku: 'B07PSJGF1L-es'
-tags: [  ]
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

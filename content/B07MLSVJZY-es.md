@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLSVJZY-es Clarks BatcombeAlpGTX Botas de Motorista para Hombre...'
 sku: 'B07MLSVJZY-es'
-tags: [  ]
 actualPrice: 47.33 EUR
 currency: EUR
 price: 47.33

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009R85JGG-es Pepe Jeans Eggo Long PM501321 Top de manga larga Negro...'
 sku: 'B009R85JGG-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

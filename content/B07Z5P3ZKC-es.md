@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z5P3ZKC-es Masajeador personal de varita recargable masajeador...'
 sku: 'B07Z5P3ZKC-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

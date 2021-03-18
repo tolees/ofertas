@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5HL1MR-es Reloj MVMT - Mujer D-FR01-RGGR'
 sku: 'B07V5HL1MR-es'
-tags: [ 'mvmt', ]
 actualPrice: 94.78 EUR
 currency: EUR
 price: 94.78

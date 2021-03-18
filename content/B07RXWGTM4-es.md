@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXWGTM4-es Diesel ShoesDiscover-me OderzoHombreCarterasAzul Blue...'
 sku: 'B07RXWGTM4-es'
-tags: [  ]
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088QZ5RVZ-es Jamonprive Jamón Serrano Reserva Curado 6.5 - 7 Kg +...'
 sku: 'B088QZ5RVZ-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

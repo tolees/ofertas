@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0838XTD7T-es Deik Recipientes para Alimentos con Tapa Conjunto Apilable...'
 sku: 'B0838XTD7T-es'
-tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

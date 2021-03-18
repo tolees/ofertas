@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H8GDH71-es Beurer HT 15 - Peine Lendrera Eléctrico Anti-Piojos con...'
 sku: 'B07H8GDH71-es'
-tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

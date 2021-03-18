@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HJNWPH-es LAQI - Herramienta de Corte de Cristal de carburo de...'
 sku: 'B082HJNWPH-es'
-tags: [  ]
 actualPrice: 3.27 EUR
 currency: EUR
 price: 3.27

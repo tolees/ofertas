@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KX94VVC-es Fossil Joyas para Mujer JA6539791'
 sku: 'B00KX94VVC-es'
-tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

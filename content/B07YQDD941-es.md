@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQDD941-es L Oreal Paris - L Oréal Paris Elvive Total Repair 5 Rapid...'
 sku: 'B07YQDD941-es'
-tags: [  ]
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SF72QJC-es GREAT ART Foto Mural de Cascada en el Bosque Poster...'
 sku: 'B07SF72QJC-es'
-tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

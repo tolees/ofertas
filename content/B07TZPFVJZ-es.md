@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TZPFVJZ-es Lixada Bloque de Yoga Correa de Yoga con Anillo Banda...'
 sku: 'B07TZPFVJZ-es'
-tags: [  ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

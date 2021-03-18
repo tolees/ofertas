@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00D6M2PC0-es D-Link GO-SW-5E - Switch de red con 5 puertos 10/100 Mps...'
 sku: 'B00D6M2PC0-es'
-tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

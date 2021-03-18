@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MKBN2PY-es UniqueMe Funda para Samsung Galaxy S10 Funda TPU Suave...'
 sku: 'B07MKBN2PY-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

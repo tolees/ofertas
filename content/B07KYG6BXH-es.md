@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KYG6BXH-es SunData 16GB Memorias USB 3 Piezas PenDrives 16GB Unidad...'
 sku: 'B07KYG6BXH-es'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

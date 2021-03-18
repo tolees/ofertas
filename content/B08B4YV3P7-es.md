@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B4YV3P7-es Aceite mediterráneo seco CUERPO CARA CORPORAL argán...'
 sku: 'B08B4YV3P7-es'
-tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

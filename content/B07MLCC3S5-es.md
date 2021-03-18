@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLCC3S5-es LOBKIN Bluetooth Wireless Earbuds Latest Bluetooth 5.0...'
 sku: 'B07MLCC3S5-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJQDK23-es Medidor de Perfil de Contorno Wysgvazgv 5 120MM Calibre de...'
 sku: 'B07MJQDK23-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

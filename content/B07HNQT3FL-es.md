@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNQT3FL-es INNObeta KlyN Neceser Mujer Hombre de Viaje para Colgar...'
 sku: 'B07HNQT3FL-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

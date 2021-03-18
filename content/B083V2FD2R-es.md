@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083V2FD2R-es SUNSTECH RPBT500. Radio FM compacta de Madera con...'
 sku: 'B083V2FD2R-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

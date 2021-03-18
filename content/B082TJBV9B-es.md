@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TJBV9B-es Lacoste Lerond 0320 1 CMA Zapatillas Hombre Marron BRW Wht...'
 sku: 'B082TJBV9B-es'
-tags: [  ]
 actualPrice: 80.92 EUR
 currency: EUR
 price: 80.92

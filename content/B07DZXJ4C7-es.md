@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DZXJ4C7-es Teléfonos móviles para Mayores con Teclas Grandes Artfone...'
 sku: 'B07DZXJ4C7-es'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

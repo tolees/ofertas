@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FF9HJ3M-es Warner Bros Interactive Spain - Pack Smallville Temporada...'
 sku: 'B00FF9HJ3M-es'
-tags: [  ]
 actualPrice: 60.59 EUR
 currency: EUR
 price: 60.59

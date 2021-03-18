@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P46FWNM-es Reloj - Guanqin - para - GH17001'
 sku: 'B07P46FWNM-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

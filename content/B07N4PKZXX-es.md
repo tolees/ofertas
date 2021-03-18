@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4PKZXX-es Superga Classic Zapatillas Unisex Adulto Azul Azure Erica...'
 sku: 'B07N4PKZXX-es'
-tags: [  ]
 actualPrice: 17.76 EUR
 currency: EUR
 price: 17.76

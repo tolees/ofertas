@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P27PL3Y-es Rowenta Compact Steam Pro - Centro de planchado 6.3 bares...'
 sku: 'B07P27PL3Y-es'
-tags: [  ]
 actualPrice: 127.2 EUR
 currency: EUR
 price: 127.2

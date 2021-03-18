@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYDLJG7-es Skagen Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07KYDLJG7-es'
-tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

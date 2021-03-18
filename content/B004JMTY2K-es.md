@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004JMTY2K-es Bosch AHM 38 G - Cortacésped manual'
 sku: 'B004JMTY2K-es'
-tags: [  ]
 actualPrice: 64.45 EUR
 currency: EUR
 price: 64.45

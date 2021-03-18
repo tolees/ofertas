@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJS2RWZ-es RuiDaXiang Casa de muñecas Dormitorio con Muebles...'
 sku: 'B08BJS2RWZ-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

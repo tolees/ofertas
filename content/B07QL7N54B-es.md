@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QL7N54B-es Zerimar Mocasines para Mujer | Mocasines Mujer Piel |...'
 sku: 'B07QL7N54B-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

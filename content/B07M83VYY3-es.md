@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M83VYY3-es Napapijri TALY 2 LS Polo Azul French Blue Bb7 XXXL para...'
 sku: 'B07M83VYY3-es'
-tags: [  ]
 actualPrice: 31.6 EUR
 currency: EUR
 price: 31.6

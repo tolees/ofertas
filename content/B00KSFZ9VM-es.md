@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KSFZ9VM-es Hummer HUMM6000 Arrancador de Bateria para Coche 6000mAh'
 sku: 'B00KSFZ9VM-es'
-tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

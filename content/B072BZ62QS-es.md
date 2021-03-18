@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072BZ62QS-es TP-Link Deco M5 3-pack Pack De 3 Sistemas Wifi Para Toda...'
 sku: 'B072BZ62QS-es'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

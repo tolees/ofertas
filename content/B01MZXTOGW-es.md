@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZXTOGW-es NIZZIN Fenna Pullover Manga Larga Mujer Gris Light Grey...'
 sku: 'B01MZXTOGW-es'
-tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

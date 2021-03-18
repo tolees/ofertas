@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QQ4EZNM-es AUKEY Alfombrilla Ratón Grande Gaming Mouse Pad XL...'
 sku: 'B00QQ4EZNM-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

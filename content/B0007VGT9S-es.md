@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0007VGT9S-es Pyrex Classic - Recipiente rectangular con tapa 27 x 22 x...'
 sku: 'B0007VGT9S-es'
-tags: [  ]
 actualPrice: 16.72 EUR
 currency: EUR
 price: 16.72

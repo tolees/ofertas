@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGZSFT3-es 1370 hojas 2 estilos 32 colores Origami estrellas tiras de...'
 sku: 'B07MGZSFT3-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

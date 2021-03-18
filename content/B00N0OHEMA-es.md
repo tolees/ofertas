@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N0OHEMA-es TP-Link TL-SG105E Unmanaged PRO Switch 5 Puertos Gigabit...'
 sku: 'B00N0OHEMA-es'
-tags: [ 'tp-link', ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

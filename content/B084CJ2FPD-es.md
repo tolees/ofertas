@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084CJ2FPD-es Meridiem Games - Warborn'
 sku: 'B084CJ2FPD-es'
-tags: [  ]
 actualPrice: 11.74 EUR
 currency: EUR
 price: 11.74

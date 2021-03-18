@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075MND4SV-es Orbegozo FH 5127 Calefactor eléctrico Negro Blanco'
 sku: 'B075MND4SV-es'
-tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

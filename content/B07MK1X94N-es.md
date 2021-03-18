@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1X94N-es KFD - Cargador de 65 W 19 V para ASUS ROG Swift PG278Q...'
 sku: 'B07MK1X94N-es'
-tags: [  ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

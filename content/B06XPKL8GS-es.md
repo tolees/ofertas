@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XPKL8GS-es Square Enix - Nier Automata'
 sku: 'B06XPKL8GS-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

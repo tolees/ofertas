@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLJ99G7-es BOSS Passenger Polo Amarillo Medium Yellow 723 Large para...'
 sku: 'B07QLJ99G7-es'
-tags: [  ]
 actualPrice: 47.21 EUR
 currency: EUR
 price: 47.21

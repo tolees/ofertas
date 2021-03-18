@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0797LMGXH-es Logitech MK540 Pack Inalámbrico Teclado y Ratón para...'
 sku: 'B0797LMGXH-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RVCRD14-es Diesel ShoesBoldmessage Bold Back IiHombreMochilasAzul...'
 sku: 'B07RVCRD14-es'
-tags: [  ]
 actualPrice: 70.63 EUR
 currency: EUR
 price: 70.63

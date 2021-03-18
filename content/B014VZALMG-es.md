@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014VZALMG-es M3 MEDIATRES ESTUDIO - Crows la trilogía'
 sku: 'B014VZALMG-es'
-tags: [ 'm3 mediatres estudio', ]
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

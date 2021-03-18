@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KP7W68C-es Cryopharma Tratamiento Anti Verrugas - Tratamiento para...'
 sku: 'B00KP7W68C-es'
-tags: [  ]
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

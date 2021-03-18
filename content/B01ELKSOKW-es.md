@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ELKSOKW-es Mondial BB05 Plancha 7 litros Negro'
 sku: 'B01ELKSOKW-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

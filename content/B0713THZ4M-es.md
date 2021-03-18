@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0713THZ4M-es Tommy Hilfiger Poppy Lrg Za Wallet Cartera para Mujer...'
 sku: 'B0713THZ4M-es'
-tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

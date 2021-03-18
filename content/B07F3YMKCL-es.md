@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F3YMKCL-es Luz de Lectura OMERIL Luz de Libro Recargable 6 LED con 3...'
 sku: 'B07F3YMKCL-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

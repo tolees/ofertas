@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YFSF6QG-es valcena - crema de noche - Multi Active Regeneradora'
 sku: 'B00YFSF6QG-es'
-tags: [  ]
 actualPrice: 30 EUR
 currency: EUR
 price: 30

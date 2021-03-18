@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SMZFGD-es San Ignacio Q3246 Set 3pc Utensilios de Cocina Silicona...'
 sku: 'B083SMZFGD-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

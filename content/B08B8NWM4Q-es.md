@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B8NWM4Q-es Ckeyin Plancha De Pelo De Barba Premium Para Hombre: Un...'
 sku: 'B08B8NWM4Q-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZL6THK-es Kärcher - Kärhcer WD 3 Premioum Battery Set Aspirador...'
 sku: 'B077ZL6THK-es'
-tags: [ 'kärcher', ]
 actualPrice: 143.82 EUR
 currency: EUR
 price: 143.82

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081J8SFR1-es adidas Con20 TR Pnt Pantalones de Deporte Hombre...'
 sku: 'B081J8SFR1-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

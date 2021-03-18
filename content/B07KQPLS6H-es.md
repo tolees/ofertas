@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KQPLS6H-es Falomir 90 s Love The 90´S Juego de Mesa Color Azul...'
 sku: 'B07KQPLS6H-es'
-tags: [  ]
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

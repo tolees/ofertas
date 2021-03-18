@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K19NT9N-es adidas Tiro19 PES Jkty Sport Jacket Unisex niños...'
 sku: 'B07K19NT9N-es'
-tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

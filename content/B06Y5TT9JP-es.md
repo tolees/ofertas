@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y5TT9JP-es Taurus Horizon 9 - Horno Electrico 800 W Acero 18/10 Negro'
 sku: 'B06Y5TT9JP-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

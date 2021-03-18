@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081LH2G9M-es Disfraz de La casa de Papel para Disfraz Ladrón Disfraces...'
 sku: 'B081LH2G9M-es'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

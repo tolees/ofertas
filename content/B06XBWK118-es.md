@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XBWK118-es Wilkinson Sword Pack Intuition Sensitive Care - Maquinilla...'
 sku: 'B06XBWK118-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

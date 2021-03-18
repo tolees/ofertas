@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRCCRN6-es New Balance - 574v2 Zapatillas Mujer Morado Purple Purple...'
 sku: 'B07KRCCRN6-es'
-tags: [  ]
 actualPrice: 33.89 EUR
 currency: EUR
 price: 33.89

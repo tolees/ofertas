@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C5KFJMP-es OPPO Enco W11 – Auriculares inalámbricos Transmisión...'
 sku: 'B08C5KFJMP-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

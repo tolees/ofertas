@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G82FHP9-es Polar Vantage M -Reloj con GPS y Frecuencia Cardíaca -...'
 sku: 'B07G82FHP9-es'
-tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

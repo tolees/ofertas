@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H1NYQ81-es Pkila Fusion Diseñado para Sony Xperia 5 II Funda Cover...'
 sku: 'B08H1NYQ81-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

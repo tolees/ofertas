@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0145KTCQS-es Keter - Caseta de jardín exterior Oakland 757 Color gris'
 sku: 'B0145KTCQS-es'
-tags: [  ]
 actualPrice: 600.0 EUR
 currency: EUR
 price: 600.0

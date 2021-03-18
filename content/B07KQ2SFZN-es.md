@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KQ2SFZN-es hummel First Seamless Leggings Hombre Negro XS/S'
 sku: 'B07KQ2SFZN-es'
-tags: [  ]
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

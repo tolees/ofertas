@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0000DJZJ0-es Wüsthof 9728 - Cuchillos para Carne'
 sku: 'B0000DJZJ0-es'
-tags: [  ]
 actualPrice: 61.09 EUR
 currency: EUR
 price: 61.09

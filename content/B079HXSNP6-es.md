@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079HXSNP6-es Sophie La Girafe So Pure - Pelota unisex'
 sku: 'B079HXSNP6-es'
-tags: [  ]
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

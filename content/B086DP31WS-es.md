@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086DP31WS-es OWSOO 20PCS Máscaras FFP2 95% de Filtración'
 sku: 'B086DP31WS-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

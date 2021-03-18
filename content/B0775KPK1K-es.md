@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0775KPK1K-es Armani Exchange Double Stripe Polo Blanco White 1100 Large...'
 sku: 'B0775KPK1K-es'
-tags: [  ]
 actualPrice: 31.71 EUR
 currency: EUR
 price: 31.71

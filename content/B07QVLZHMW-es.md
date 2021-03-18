@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QVLZHMW-es Under Armour Select Warm Up Pant Pantalón Hombre Rojo XXL'
 sku: 'B07QVLZHMW-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

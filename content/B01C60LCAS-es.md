@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01C60LCAS-es Nivea Men Protege Cuida Spray desodorante para hombre con...'
 sku: 'B01C60LCAS-es'
-tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

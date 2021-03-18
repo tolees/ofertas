@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TQWWTWH-es Decantador RáPido Giratorio Vino Aireador Jarra De Vino De...'
 sku: 'B08TQWWTWH-es'
-tags: [  ]
 actualPrice: 112.0 EUR
 currency: EUR
 price: 112.0

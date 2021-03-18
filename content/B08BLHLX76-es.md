@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BLHLX76-es LIGHTAILING Conjunto de Luces Speed Champions 1985 Sport...'
 sku: 'B08BLHLX76-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

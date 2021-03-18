@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PB4VFST-es Bissell SmartClean Pet Aspiradora 770 W 79 Decibelios...'
 sku: 'B07PB4VFST-es'
-tags: [  ]
 actualPrice: 171.75 EUR
 currency: EUR
 price: 171.75

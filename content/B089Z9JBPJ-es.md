@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Z9JBPJ-es adidas Power Tank W Top Mujer Black XL'
 sku: 'B089Z9JBPJ-es'
-tags: [  ]
 actualPrice: 10.56 EUR
 currency: EUR
 price: 10.56

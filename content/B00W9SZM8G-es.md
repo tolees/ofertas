@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W9SZM8G-es Calvin Klein Radiant Cotton-Bikini Lencería Negro Black...'
 sku: 'B00W9SZM8G-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

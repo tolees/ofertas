@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MD4XNV-es MagiDeal Apareciendo Bolsa de Papel Caja Flor de Cerca...'
 sku: 'B077MD4XNV-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

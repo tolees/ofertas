@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0776TVF2Q-es Samsonite Spectrolite 2.0 Equipaje de Mano 14.1 Pulgadas...'
 sku: 'B0776TVF2Q-es'
-tags: [  ]
 actualPrice: 98.28 EUR
 currency: EUR
 price: 98.28

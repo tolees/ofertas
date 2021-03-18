@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NSNQFX6-es Capitana Marvel [DVD]'
 sku: 'B07NSNQFX6-es'
-tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

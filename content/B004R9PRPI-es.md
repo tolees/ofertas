@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004R9PRPI-es WMF Quality One - Batería de Cocina 4 Piezas Cacerola con...'
 sku: 'B004R9PRPI-es'
-tags: [  ]
 actualPrice: 164.1 EUR
 currency: EUR
 price: 164.1

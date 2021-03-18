@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DJ2ZQGH-es Oxímetro de Pulso CocoBear Pulsioxímetro con Pantalla OLED...'
 sku: 'B07DJ2ZQGH-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

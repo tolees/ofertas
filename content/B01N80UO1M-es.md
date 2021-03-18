@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N80UO1M-es Hugo BOSS Reloj para Hombre 1513473'
 sku: 'B01N80UO1M-es'
-tags: [ 'hugo boss', ]
 actualPrice: 161.7 EUR
 currency: EUR
 price: 161.7

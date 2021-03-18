@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B98T5DC-es Clarks Ashcombemidgtx Botas Chelsea para Hombre Marrón...'
 sku: 'B07B98T5DC-es'
-tags: [  ]
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

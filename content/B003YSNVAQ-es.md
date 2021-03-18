@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003YSNVAQ-es Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B003YSNVAQ-es'
-tags: [  ]
 actualPrice: 214.74 EUR
 currency: EUR
 price: 214.74

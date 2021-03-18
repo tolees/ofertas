@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016MUYFCA-es POP! Vinilo - Games: Assassin s Creed: Jacob Frye'
 sku: 'B016MUYFCA-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JJ4FZTL-es Vigilabebés Inalambrico con Cámara BOIFUN Monitor de Bebé...'
 sku: 'B07JJ4FZTL-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

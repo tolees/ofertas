@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001W7ARXK-es Wolfcraft 3051000 - 2 Sargentos para esquinas Multicolor...'
 sku: 'B001W7ARXK-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

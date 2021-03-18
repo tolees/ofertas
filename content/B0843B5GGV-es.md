@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0843B5GGV-es Tommy Hilfiger TH Effortless Beanie Pom Gorro/Sombrero...'
 sku: 'B0843B5GGV-es'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

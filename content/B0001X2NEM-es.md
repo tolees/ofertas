@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0001X2NEM-es Converse Chuck Taylor All Star Hi Top Zapatillas Unisex...'
 sku: 'B0001X2NEM-es'
-tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

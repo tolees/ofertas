@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07117XWTL-es VIALMAN Colcha BEIG Cama 150 : 250 CM X 270 CM'
 sku: 'B07117XWTL-es'
-tags: [  ]
 actualPrice: 26.52 EUR
 currency: EUR
 price: 26.52

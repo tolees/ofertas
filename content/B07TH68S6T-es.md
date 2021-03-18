@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TH68S6T-es Gyvazla Molde para Helados Reutilizable Moldes Silicona 6...'
 sku: 'B07TH68S6T-es'
-tags: [  ]
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

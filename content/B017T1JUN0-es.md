@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017T1JUN0-es ID Italian Design | Cepillo Eléctrico Alisador para el...'
 sku: 'B017T1JUN0-es'
-tags: [  ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

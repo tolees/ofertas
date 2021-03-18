@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7XSQLW-es Tommy Hilfiger Essential Stripes Detail Sneaker Zapatillas...'
 sku: 'B07V7XSQLW-es'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

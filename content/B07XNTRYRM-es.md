@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XNTRYRM-es GORWRICH - Soporte para teléfono móvil soporte de...'
 sku: 'B07XNTRYRM-es'
-tags: [  ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MQVH2VW-es Anpro Gran Cometa para Niños y Adultos- Fácil de Volar con...'
 sku: 'B01MQVH2VW-es'
-tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNWLK1C-es Gorra de béisbol para niños Gorra de béisbol Gorra de...'
 sku: 'B07CNWLK1C-es'
-tags: [  ]
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

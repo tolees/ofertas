@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089YSVSFZ-es Only ONLMELISA Faux Leather Biker CC OTW Jacke Black 34...'
 sku: 'B089YSVSFZ-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

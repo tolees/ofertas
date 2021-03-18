@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLR7TNV-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07DLR7TNV-es'
-tags: [  ]
 actualPrice: 64.98 EUR
 currency: EUR
 price: 64.98

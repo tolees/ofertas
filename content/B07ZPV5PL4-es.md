@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZPV5PL4-es Yageshark - Pantalones de deporte para hombre de algodón...'
 sku: 'B07ZPV5PL4-es'
-tags: [  ]
 actualPrice: 26.75 EUR
 currency: EUR
 price: 26.75

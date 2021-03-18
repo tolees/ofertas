@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079DQ7JK6-es RENPHO Báscula de Grasa Corporal Inteligente Bluetooth...'
 sku: 'B079DQ7JK6-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

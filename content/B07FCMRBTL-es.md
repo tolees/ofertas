@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCMRBTL-es SanDisk Extreme PLUS - Tarjeta de memoria microSDXC de 256...'
 sku: 'B07FCMRBTL-es'
-tags: [ 'sandisk', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

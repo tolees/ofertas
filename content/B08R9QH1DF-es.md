@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R9QH1DF-es LADUO Juguete de Cocina para niños Luces y Sonidos...'
 sku: 'B08R9QH1DF-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

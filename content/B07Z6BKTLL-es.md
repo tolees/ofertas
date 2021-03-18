@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z6BKTLL-es Piccalilly Body de manga larga para bebé suave algodón...'
 sku: 'B07Z6BKTLL-es'
-tags: [  ]
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

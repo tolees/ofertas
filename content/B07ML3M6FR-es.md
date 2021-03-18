@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ML3M6FR-es adidas Originals - Funda para portátil de 13" Piel...'
 sku: 'B07ML3M6FR-es'
-tags: [  ]
 actualPrice: 26.25 EUR
 currency: EUR
 price: 26.25

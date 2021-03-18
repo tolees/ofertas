@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072BXWR2S-es Polar Pro p4pro-CS-Exposure Phantom 4 Pro Cinema Serie...'
 sku: 'B072BXWR2S-es'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

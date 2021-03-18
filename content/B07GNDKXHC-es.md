@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GNDKXHC-es Trípode de Cámara 40.5-136cm 5 en 1 Trípode Ligero de...'
 sku: 'B07GNDKXHC-es'
-tags: [  ]
 actualPrice: 20.2 EUR
 currency: EUR
 price: 20.2

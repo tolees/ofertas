@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NC6JV94-es Electronic Arts - BATTLEFIELD V - Standard | Código Origin...'
 sku: 'B07NC6JV94-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

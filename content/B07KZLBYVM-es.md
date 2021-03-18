@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZLBYVM-es KESOTO 1/12 Cama de Madera en Miniatura Muebles para...'
 sku: 'B07KZLBYVM-es'
-tags: [  ]
 actualPrice: 12.76 EUR
 currency: EUR
 price: 12.76

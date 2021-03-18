@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006RMOPJW-es Nike Tanjun Zapatillas de Running para Hombre Blanco...'
 sku: 'B006RMOPJW-es'
-tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

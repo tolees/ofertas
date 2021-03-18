@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DFB8DKB-es Funko - Pop! Vinyl: Disney: NBX: Sally'
 sku: 'B07DFB8DKB-es'
-tags: [  ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

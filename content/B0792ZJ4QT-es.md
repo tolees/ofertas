@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792ZJ4QT-es Exprimidor Eléctrico Aicok Exprimidor Zumo de naranjas 100...'
 sku: 'B0792ZJ4QT-es'
-tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

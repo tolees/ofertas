@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSFR8H1-es NIVEA Crema Hidratante para Manos Cara y Cuerpo - 4 x 400...'
 sku: 'B07GSFR8H1-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

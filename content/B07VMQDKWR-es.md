@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VMQDKWR-es Philips Serie 3000 S3233/52 - Afeitadora eléctrica...'
 sku: 'B07VMQDKWR-es'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

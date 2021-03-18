@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087D3KKJ7-es PM 2.5 Filter Replacement for Bandana Activated Carbon...'
 sku: 'B087D3KKJ7-es'
-tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

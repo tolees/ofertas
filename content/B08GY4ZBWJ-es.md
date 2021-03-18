@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GY4ZBWJ-es Hurley M Work Trucker Jacket Lt British Tan L'
 sku: 'B08GY4ZBWJ-es'
-tags: [  ]
 actualPrice: 56.23 EUR
 currency: EUR
 price: 56.23

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y1NVC1W-es Oxford Touch - Pack de 10 libretas grapadas de tapa blanda A4'
 sku: 'B06Y1NVC1W-es'
-tags: [  ]
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

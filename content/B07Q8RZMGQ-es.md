@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q8RZMGQ-es Xiaomi Soocas H3 Secador de cabello de secado rápido con...'
 sku: 'B07Q8RZMGQ-es'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

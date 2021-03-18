@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AARRS9Y-es Jabra Speak 510 - Altavoz Portátil para Conferencias con...'
 sku: 'B00AARRS9Y-es'
-tags: [  ]
 actualPrice: 107.82 EUR
 currency: EUR
 price: 107.82

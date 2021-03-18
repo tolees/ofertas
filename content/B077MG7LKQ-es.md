@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MG7LKQ-es PUMA Smash v2 Zapatillas Unisex Adulto Negro Black White...'
 sku: 'B077MG7LKQ-es'
-tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

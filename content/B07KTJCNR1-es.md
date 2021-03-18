@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KTJCNR1-es Tommy Hilfiger Reloj de Pulsera 1782074'
 sku: 'B07KTJCNR1-es'
-tags: [ 'tommy hilfiger', ]
 actualPrice: 118.68 EUR
 currency: EUR
 price: 118.68

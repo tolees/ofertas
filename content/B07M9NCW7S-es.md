@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9NCW7S-es LParkin - Llavero para Parejas con Texto en inglés I Love...'
 sku: 'B07M9NCW7S-es'
-tags: [  ]
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

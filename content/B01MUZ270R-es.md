@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUZ270R-es Heat Blu-Ray [Blu-ray]'
 sku: 'B01MUZ270R-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

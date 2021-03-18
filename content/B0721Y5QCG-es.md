@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721Y5QCG-es NUTRI COLOR CREME 270ML 000'
 sku: 'B0721Y5QCG-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

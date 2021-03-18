@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQGVL48-es ORNARTO Funda Huawei P20 Lite HW P20 Lite Carcasa [Ultra-...'
 sku: 'B07BQGVL48-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

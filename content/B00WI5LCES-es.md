@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WI5LCES-es Semillas Batlle - Sustratos - Sustrato Orquídeas 5l. - Batlle'
 sku: 'B00WI5LCES-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

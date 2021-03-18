@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N2AZJQU-es SLEEPAA Relleno Edredón para Funda nórdica para Cuna...'
 sku: 'B01N2AZJQU-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

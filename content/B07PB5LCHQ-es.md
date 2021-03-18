@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PB5LCHQ-es Audibax Zero 500 - Amplificador HiFi Receptor Bluetooth...'
 sku: 'B07PB5LCHQ-es'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

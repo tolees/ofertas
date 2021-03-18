@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XD6F53G-es Hot Wheels Track Builder Accesorios para Pistas de Coches...'
 sku: 'B07XD6F53G-es'
-tags: [  ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

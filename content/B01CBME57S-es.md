@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CBME57S-es Funko - Pop! Vinilo Colección Dragonball Z - Figura Goku &...'
 sku: 'B01CBME57S-es'
-tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

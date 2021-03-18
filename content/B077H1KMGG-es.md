@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077H1KMGG-es Ice-Watch - P. Leclercq Slate - Reloj verde para Hombre...'
 sku: 'B077H1KMGG-es'
-tags: [  ]
 actualPrice: 77.86 EUR
 currency: EUR
 price: 77.86

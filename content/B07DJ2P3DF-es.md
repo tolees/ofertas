@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ2P3DF-es New Balance 997H Core Zapatillas para Hombre Azul Pigment...'
 sku: 'B07DJ2P3DF-es'
-tags: [  ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

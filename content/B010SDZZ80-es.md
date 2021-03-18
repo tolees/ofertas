@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010SDZZ80-es Rankie Adaptador DisplayPort a HDMI Resolución 4K HDTV...'
 sku: 'B010SDZZ80-es'
-tags: [  ]
 actualPrice: 6.31 EUR
 currency: EUR
 price: 6.31

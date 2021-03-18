@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MRYSEVE-es Aqua Control G6354 Grifo de Jardín Premium de Doble Salida...'
 sku: 'B00MRYSEVE-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

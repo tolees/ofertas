@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071J7SX2B-es Vampyr'
 sku: 'B071J7SX2B-es'
-tags: [  ]
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

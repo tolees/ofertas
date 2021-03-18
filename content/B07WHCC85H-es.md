@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WHCC85H-es Cable HDMI 4K 0.9metro-Snowkids Cable HDMI2.0 de Ultra...'
 sku: 'B07WHCC85H-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

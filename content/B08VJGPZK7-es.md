@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJGPZK7-es Ravensburger 26890 Disney Villainous Evil Comes Prepared...'
 sku: 'B08VJGPZK7-es'
-tags: [  ]
 actualPrice: 35.78 EUR
 currency: EUR
 price: 35.78

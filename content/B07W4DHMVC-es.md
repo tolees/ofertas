@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4DHMVC-es Logitech K380 Teclado Inalámbrico Multi Dispositivo para...'
 sku: 'B07W4DHMVC-es'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GRMC8X4-es Samsung Galaxy Watch - Reloj Inteligente Bluetooth Plata...'
 sku: 'B07GRMC8X4-es'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

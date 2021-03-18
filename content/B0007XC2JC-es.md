@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0007XC2JC-es INTEX 28200NP Piscina elevada Metal Frame 4485 litros...'
 sku: 'B0007XC2JC-es'
-tags: [  ]
 actualPrice: 73.37 EUR
 currency: EUR
 price: 73.37

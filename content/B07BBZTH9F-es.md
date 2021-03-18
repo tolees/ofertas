@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BBZTH9F-es Smartwares Extintor de Polvo Seco 2 KG Resistencia al...'
 sku: 'B07BBZTH9F-es'
-tags: [  ]
 actualPrice: 19.28 EUR
 currency: EUR
 price: 19.28

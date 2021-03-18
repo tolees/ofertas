@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHN91BB-es Swimways 6038062 - Pelota de fútbol Luminosa reactorz...'
 sku: 'B06XHN91BB-es'
-tags: [  ]
 actualPrice: 8 EUR
 currency: EUR
 price: 8

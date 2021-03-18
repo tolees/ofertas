@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RXLX8Z1-es Casio Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07RXLX8Z1-es'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

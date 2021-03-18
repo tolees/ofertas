@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TZH7Q-es Nero Giardini - NeroGiardini A909065D Sneaker Altas Mujer...'
 sku: 'B07W7TZH7Q-es'
-tags: [  ]
 actualPrice: 80.07 EUR
 currency: EUR
 price: 80.07

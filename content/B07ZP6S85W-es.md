@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP6S85W-es Tarros de Almacenamiento Tarros de Cristal con Cierre...'
 sku: 'B07ZP6S85W-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EK6PZB8-es Severin MW 7825 Microondas con grill y convección incluye...'
 sku: 'B01EK6PZB8-es'
-tags: [  ]
 actualPrice: 145.99 EUR
 currency: EUR
 price: 145.99

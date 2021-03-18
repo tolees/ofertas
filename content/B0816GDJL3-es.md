@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0816GDJL3-es Niviy Bolsa de Almacenamiento de Edredón - Tela no tejida...'
 sku: 'B0816GDJL3-es'
-tags: [  ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

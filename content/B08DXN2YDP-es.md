@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DXN2YDP-es SCOBUTY - Wipes Toallitas húmedas Toallitas para Perros y...'
 sku: 'B08DXN2YDP-es'
-tags: [ 'Accesorios','Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Accesorios para portátiles y netbooks','Artículos de higiene para perros','Artículos para perros','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Bolsas y fundas para portátiles y netbooks','Camisetas de manga corta para niño','Camisetas para hombre','Camisetas, polos y camisas para hombre','Camisetas, polos y camisas para niño','Compuestos de modelado para escultura','Costura y manualidades','Electrónica','Escultura','Fundas blandas para portátiles y netbooks','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Hogar y cocina','Informática','Productos para mascotas','Ropa','Ropa para hombre','Ropa para niño','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Televisores','Toallitas higiénicas para perros','Videojuegos','scobuty', ]
 actualPrice: 7.38 EUR
 currency: EUR
 price: 7.38

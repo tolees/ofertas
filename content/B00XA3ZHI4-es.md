@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA3ZHI4-es MAGGI Fusian Pasta Oriental Noodles Sabor Pollo - Fideos...'
 sku: 'B00XA3ZHI4-es'
-tags: [  ]
 actualPrice: 0.5 EUR
 currency: EUR
 price: 0.5

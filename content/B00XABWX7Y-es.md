@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XABWX7Y-es Dove Gel de Ducha - 600 ml'
 sku: 'B00XABWX7Y-es'
-tags: [  ]
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

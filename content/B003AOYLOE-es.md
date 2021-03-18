@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003AOYLOE-es DIGITUS Professional - Estantería para fijación permanente...'
 sku: 'B003AOYLOE-es'
-tags: [  ]
 actualPrice: 16.03 EUR
 currency: EUR
 price: 16.03

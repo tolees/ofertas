@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797QM5LM-es Funko- Pop Movies: It-Mike Hanlon Multicolor 9 cm 30020'
 sku: 'B0797QM5LM-es'
-tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

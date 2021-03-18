@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085VT9WFH-es Teaisiy - Oxímetro de Pulso Pulsioximetro de Dedo...'
 sku: 'B085VT9WFH-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

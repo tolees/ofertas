@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YRDMPG5-es Pantuflas de Invierno para Hombre y Mujer con Espuma...'
 sku: 'B07YRDMPG5-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

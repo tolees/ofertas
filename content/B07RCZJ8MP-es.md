@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RCZJ8MP-es Tesura Games - For the King - Signature Edition'
 sku: 'B07RCZJ8MP-es'
-tags: [  ]
 actualPrice: 36.03 EUR
 currency: EUR
 price: 36.03

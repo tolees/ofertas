@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KM08FZY-es Pulsar Reloj Analógico Unisex con Correa de Chapado En...'
 sku: 'B01KM08FZY-es'
-tags: [  ]
 actualPrice: 66.22 EUR
 currency: EUR
 price: 66.22

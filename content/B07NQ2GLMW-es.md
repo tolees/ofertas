@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ2GLMW-es Salcar 10m Guirnalda de luces solares 40 luces LED Bola...'
 sku: 'B07NQ2GLMW-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

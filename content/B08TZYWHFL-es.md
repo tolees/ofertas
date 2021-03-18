@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TZYWHFL-es Pandiui23 Juguete Antiestrés Sensorial Juego Explotar...'
 sku: 'B08TZYWHFL-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

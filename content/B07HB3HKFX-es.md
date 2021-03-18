@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB3HKFX-es Funko Pop Fallout Vault Dweller Figura Coleccionable...'
 sku: 'B07HB3HKFX-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7R6NUG-es Granini Zumo Naranja - 1 l'
 sku: 'B01K7R6NUG-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

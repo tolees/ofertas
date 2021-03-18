@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNRF5B5-es Levi s LEVIS FOOTWEAR AND ACCESSORIES Cloverdale Cinturón...'
 sku: 'B07NNRF5B5-es'
-tags: [  ]
 actualPrice: 17.43 EUR
 currency: EUR
 price: 17.43

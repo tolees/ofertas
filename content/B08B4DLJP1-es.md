@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B4DLJP1-es Banpresto Naruto Shippuden Vibration Stars - Figura de...'
 sku: 'B08B4DLJP1-es'
-tags: [  ]
 actualPrice: 27.81 EUR
 currency: EUR
 price: 27.81

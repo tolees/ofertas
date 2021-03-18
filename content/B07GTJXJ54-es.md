@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GTJXJ54-es Ferilinso Cristal Templado para Huawei Mate 20 Lite [2...'
 sku: 'B07GTJXJ54-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

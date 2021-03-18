@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B7TWBGF-es Benkeg Luz Bicicleta Recargable USB Linterna Bicicleta...'
 sku: 'B08B7TWBGF-es'
-tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

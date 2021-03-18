@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LGGS2CM-es PARAMOUNT PICTURES - El Padrino De Mario Puzo. Epilogo: La...'
 sku: 'B08LGGS2CM-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

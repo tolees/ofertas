@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BFWLQ96-es REPSOL Elite Multiválvulas 10W-40 Aceite De Motor Para...'
 sku: 'B00BFWLQ96-es'
-tags: [  ]
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

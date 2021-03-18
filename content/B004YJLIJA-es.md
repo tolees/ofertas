@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004YJLIJA-es K&N SU-4007 Filtro de Aire Moto'
 sku: 'B004YJLIJA-es'
-tags: [  ]
 actualPrice: 54.14 EUR
 currency: EUR
 price: 54.14

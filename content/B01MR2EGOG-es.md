@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MR2EGOG-es Skechers D Lite Ultra-Reverie Entrenadores Mujer Negro BBK...'
 sku: 'B01MR2EGOG-es'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

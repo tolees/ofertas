@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000N5RH2G-es Osram Bombilla de bajo Consumo con 2 Tubos Casquillo de 2...'
 sku: 'B000N5RH2G-es'
-tags: [  ]
 actualPrice: 3.07 EUR
 currency: EUR
 price: 3.07

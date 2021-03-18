@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NNZQJL-es Simulación de lujo con perlas y pendientes de perlas Joyas...'
 sku: 'B089NNZQJL-es'
-tags: [  ]
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

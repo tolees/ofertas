@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QKC4WWD-es Logitech G502 LIGHTSPEED Ratón Gaming Inalámbrico Captor...'
 sku: 'B07QKC4WWD-es'
-tags: [  ]
 actualPrice: 99.69 EUR
 currency: EUR
 price: 99.69

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FWGXQNK-es Bedsure Cama Gato Grande Estampada - Camas para Gatos...'
 sku: 'B08FWGXQNK-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

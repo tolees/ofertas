@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GFQNC5C-es HoMedics EYE-100 - Masajeador para ojos cansados'
 sku: 'B01GFQNC5C-es'
-tags: [  ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

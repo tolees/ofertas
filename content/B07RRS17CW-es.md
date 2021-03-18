@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRS17CW-es Senbos Cartera Hombre Pequeña Cartera de Cuero Suave de...'
 sku: 'B07RRS17CW-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

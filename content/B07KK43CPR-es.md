@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK43CPR-es Columbia Ventrailia 3 Low Outdry Zapatillas de Senderismo...'
 sku: 'B07KK43CPR-es'
-tags: [  ]
 actualPrice: 27.23 EUR
 currency: EUR
 price: 27.23

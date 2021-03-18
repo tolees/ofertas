@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0828ZGMB1-es Wuyee Un par de Fundas de Botas de Santa en Blanco y Negro...'
 sku: 'B0828ZGMB1-es'
-tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

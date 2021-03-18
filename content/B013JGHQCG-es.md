@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013JGHQCG-es Sony ICF-P36 - Radio analógico portátil FM/AM negro 13.15...'
 sku: 'B013JGHQCG-es'
-tags: [ 'Acción y Aventura','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Audio y vídeo portátil','Blu-ray','Bricolaje y herramientas','Ciencia ficción','Destornilladores','Electrónica','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Fantasía','Featured Categories','Herramientas de mano','Herramientas manuales y eléctricas','Hogar y cocina','Instalación eléctrica','Juegos de destornilladores','Películas','Películas y TV','Radios portátiles','Robots aspiradores','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','sony', ]
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

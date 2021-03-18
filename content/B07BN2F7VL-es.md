@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BN2F7VL-es Sharp HT-SBW160 2.1 - Barra de Sonido Cine En Casa...'
 sku: 'B07BN2F7VL-es'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBTSCL6-es Take-Two 2K - NBA 2K21 -Playstation 5 Mamba Forever Edition'
 sku: 'B08CBTSCL6-es'
-tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

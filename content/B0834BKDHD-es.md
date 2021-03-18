@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0834BKDHD-es adidas QT Racer 2.0 Zapatillas Mujer NEGBÁS/FTWBLA/Onix 40...'
 sku: 'B0834BKDHD-es'
-tags: [  ]
 actualPrice: 29.65 EUR
 currency: EUR
 price: 29.65

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FBR06JG-es Downton Abbey - Temporadas 1-6 [Blu-ray]'
 sku: 'B01FBR06JG-es'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

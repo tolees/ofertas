@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3PQJRV-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07N3PQJRV-es'
-tags: [  ]
 actualPrice: 131.73 EUR
 currency: EUR
 price: 131.73

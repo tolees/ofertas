@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B4X4RUK-es Tous Happy Moments 90ml'
 sku: 'B01B4X4RUK-es'
-tags: [  ]
 actualPrice: 40.6 EUR
 currency: EUR
 price: 40.6

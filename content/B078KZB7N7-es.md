@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078KZB7N7-es SD Games- Zorros al Corral SDGZORCOR01'
 sku: 'B078KZB7N7-es'
-tags: [  ]
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q24VX5V-es Under Armour UA W Charged Rogue 2 Zapatillas de Running...'
 sku: 'B07Q24VX5V-es'
-tags: [  ]
 actualPrice: 51.97 EUR
 currency: EUR
 price: 51.97

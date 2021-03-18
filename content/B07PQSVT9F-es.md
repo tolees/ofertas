@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PQSVT9F-es Ubisoft Spain - Six Collection - Figura Vigil'
 sku: 'B07PQSVT9F-es'
-tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

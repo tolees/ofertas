@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075FN5ST7-es Antifaz para dormir Gritin 100% Anti-Luz Opaco Cómoda...'
 sku: 'B075FN5ST7-es'
-tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

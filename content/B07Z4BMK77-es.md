@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4BMK77-es G-STAR RAW Cormac Blazer Casual Worn In Marine Blue...'
 sku: 'B07Z4BMK77-es'
-tags: [  ]
 actualPrice: 75.76 EUR
 currency: EUR
 price: 75.76

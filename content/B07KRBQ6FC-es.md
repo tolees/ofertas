@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRBQ6FC-es GANT Footwear Portland Zapatillas para Hombre Multicolor...'
 sku: 'B07KRBQ6FC-es'
-tags: [  ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PPGMG8Q-es Dove - Loción Coporal Avena - 400 ml'
 sku: 'B07PPGMG8Q-es'
-tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

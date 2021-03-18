@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3YFCN3-es Meinkind Espejo Retrovisor Bebé para Vigilar al Bebé en...'
 sku: 'B07R3YFCN3-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

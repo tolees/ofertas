@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WGJ8ZDF-es Presentamos el sistema wifi de malla Amazon eero: 3 unidades'
 sku: 'B07WGJ8ZDF-es'
-tags: [  ]
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0

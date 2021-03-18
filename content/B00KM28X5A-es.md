@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KM28X5A-es Semillas Batlle - Semillas Hortícolas - Bróculi verde...'
 sku: 'B00KM28X5A-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

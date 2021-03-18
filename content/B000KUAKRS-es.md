@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KUAKRS-es LISTERINE Enjuague Bucal 1 Unidad 500 ml'
 sku: 'B000KUAKRS-es'
-tags: [  ]
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

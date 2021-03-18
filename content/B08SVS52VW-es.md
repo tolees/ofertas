@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SVS52VW-es KATELUO Limpiador de Hierro Fundido Limpiador de Hierro...'
 sku: 'B08SVS52VW-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

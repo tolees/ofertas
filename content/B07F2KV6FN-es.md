@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2KV6FN-es SALOMON XA Short Mujer Gris Urban Chic XL'
 sku: 'B07F2KV6FN-es'
-tags: [  ]
 actualPrice: 23.46 EUR
 currency: EUR
 price: 23.46

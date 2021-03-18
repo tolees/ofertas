@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TXJJBSQ-es Tesura Games - Ary & The Secret of Seasons'
 sku: 'B07TXJJBSQ-es'
-tags: [  ]
 actualPrice: 19.6 EUR
 currency: EUR
 price: 19.6

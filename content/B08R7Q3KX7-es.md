@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R7Q3KX7-es ADAGG Hawkoch Manta para mi Esposa I Love You Letter...'
 sku: 'B08R7Q3KX7-es'
-tags: [  ]
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

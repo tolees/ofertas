@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDN80PI-es Matutano - Boca Bits - Producto aperitivo de trigo frito...'
 sku: 'B00XDN80PI-es'
-tags: [ 'matutano - boca bits - producto aperitivo de trigo frito con sabor a carne', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

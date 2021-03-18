@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J1W88TQ-es Greylags Prima Calzoncillos Retro | Boxershorts | Tubo...'
 sku: 'B07J1W88TQ-es'
-tags: [  ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

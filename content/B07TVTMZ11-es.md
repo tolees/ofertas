@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TVTMZ11-es Women s Secret Feminine Micro Black Sujetador básico Negro...'
 sku: 'B07TVTMZ11-es'
-tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

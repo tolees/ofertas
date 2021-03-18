@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F2JVFS3-es Auriculares Bluetooth 5.0 Inalámbricos TWS i11 Touch...'
 sku: 'B08F2JVFS3-es'
-tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

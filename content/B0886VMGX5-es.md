@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0886VMGX5-es Levi s Big and Tall Big Barstow Western Shirt Red Cast...'
 sku: 'B0886VMGX5-es'
-tags: [  ]
 actualPrice: 33.55 EUR
 currency: EUR
 price: 33.55

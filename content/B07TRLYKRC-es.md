@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TRLYKRC-es Daniel Wellington Petite Dover Reloj Blanco/Oro Rosado...'
 sku: 'B07TRLYKRC-es'
-tags: [  ]
 actualPrice: 72.88 EUR
 currency: EUR
 price: 72.88

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082BQGKD4-es Cillit Bang - Spray Limpiador Cal y Suciedad para Baños +...'
 sku: 'B082BQGKD4-es'
-tags: [  ]
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

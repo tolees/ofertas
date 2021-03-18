@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWD3CH1-es CESFONJER 26 Pcs Conector para Cable Coaxial RG59 RG6U...'
 sku: 'B07JWD3CH1-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

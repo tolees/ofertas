@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTD3PM1-es Funko- Pop Disney: Onward-Manticore Collectible Toy...'
 sku: 'B07TTD3PM1-es'
-tags: [  ]
 actualPrice: 7.83 EUR
 currency: EUR
 price: 7.83

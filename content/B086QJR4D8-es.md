@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086QJR4D8-es Mustang TADY Zapatillas Deportivas Hombre PU Cuero Mesh...'
 sku: 'B086QJR4D8-es'
-tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

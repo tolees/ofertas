@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BL3XKYN-es Lima Electrica Pies Pedicura Profesional Durezas LimaPies...'
 sku: 'B08BL3XKYN-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

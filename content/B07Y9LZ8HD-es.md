@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9LZ8HD-es Reproductor MP3 con Bluetooth Reproductor de MP3 wiwoo con...'
 sku: 'B07Y9LZ8HD-es'
-tags: [  ]
 actualPrice: 21.08 EUR
 currency: EUR
 price: 21.08

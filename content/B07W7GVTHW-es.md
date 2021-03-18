@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7GVTHW-es Godzilla: Rey De Los Monstruos 4k Uhd [Blu-ray]'
 sku: 'B07W7GVTHW-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZZDZD1Q-es HAPPERS Puff Pelota Polipiel Indoor Fucsia'
 sku: 'B06ZZDZD1Q-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XXBL1Y7-es New Balance Hombre 574v2-core Trainers Zapatillas Verde...'
 sku: 'B06XXBL1Y7-es'
-tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

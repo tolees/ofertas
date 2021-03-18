@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZL1SMMW-es Olay Total Effects 7en1 Sérum Anti-Edad Suavidad Instante...'
 sku: 'B07ZL1SMMW-es'
-tags: [  ]
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

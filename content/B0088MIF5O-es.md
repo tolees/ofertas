@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0088MIF5O-es Auna CS-Red-4 - Pack de Altavoces para Coche 400 W'
 sku: 'B0088MIF5O-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

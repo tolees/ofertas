@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4M4HP3-es Love MoschinoJc4247pp0aMujerCarteras de manoRosa Powder...'
 sku: 'B07V4M4HP3-es'
-tags: [  ]
 actualPrice: 60.46 EUR
 currency: EUR
 price: 60.46

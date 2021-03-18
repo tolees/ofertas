@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JWNW3-es Clarks Orinoco Demi Botas Estilo Motero para Mujer Marrón...'
 sku: 'B07N1JWNW3-es'
-tags: [  ]
 actualPrice: 39.53 EUR
 currency: EUR
 price: 39.53

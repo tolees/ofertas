@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DCQWRJR-es Hombre Digital Relojes digitaluhr Negro Classic Casual...'
 sku: 'B07DCQWRJR-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0851MT2TL-es Icons Corner PUF TAPIZADO Amarillo 2 TAMAÑOS'
 sku: 'B0851MT2TL-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

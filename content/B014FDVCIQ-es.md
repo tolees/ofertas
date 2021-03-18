@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014FDVCIQ-es Only onlFREYA Faux Leather Biker OTW Noos Chaqueta Negro...'
 sku: 'B014FDVCIQ-es'
-tags: [ 'only', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

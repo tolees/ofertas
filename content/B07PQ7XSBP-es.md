@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQ7XSBP-es BRIKSMAX Kit de Iluminación Led para Taller de la Esquina-...'
 sku: 'B07PQ7XSBP-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002H6BJ3M-es Nike Benassi JDI Slide Sandal Womens Black/Vivid...'
 sku: 'B002H6BJ3M-es'
-tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

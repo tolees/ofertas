@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT4D1BY-es Asics Gel-Lyte Iii Zapatillas Unisex Adulto Negro...'
 sku: 'B01MT4D1BY-es'
-tags: [  ]
 actualPrice: 28.56 EUR
 currency: EUR
 price: 28.56

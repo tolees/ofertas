@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0177W8HBW-es Safety 1st Easy Close - Puerta de seguridad de metal para...'
 sku: 'B0177W8HBW-es'
-tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

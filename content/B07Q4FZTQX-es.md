@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4FZTQX-es Magicfun Sistema De Riego Kit por Goteo Jardín Rociadores...'
 sku: 'B07Q4FZTQX-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

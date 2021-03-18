@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005FJSVV6-es Epson C13T70144010 - Cartucho de tinta amarillo'
 sku: 'B005FJSVV6-es'
-tags: [  ]
 actualPrice: 34.3 EUR
 currency: EUR
 price: 34.3

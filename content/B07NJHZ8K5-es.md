@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJHZ8K5-es Tamaris 1-1-25249-23 Botas Militar para Mujer Verde Olive...'
 sku: 'B07NJHZ8K5-es'
-tags: [  ]
 actualPrice: 17.66 EUR
 currency: EUR
 price: 17.66

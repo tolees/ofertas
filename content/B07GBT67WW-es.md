@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBT67WW-es Pulsar Reloj analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07GBT67WW-es'
-tags: [  ]
 actualPrice: 68.41 EUR
 currency: EUR
 price: 68.41

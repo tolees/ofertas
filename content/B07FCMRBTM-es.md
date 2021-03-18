@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FCMRBTM-es SanDisk SDSQXBZ-128G-GN6MA Extreme Plus - Tarjeta de...'
 sku: 'B07FCMRBTM-es'
-tags: [  ]
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

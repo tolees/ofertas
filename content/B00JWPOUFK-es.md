@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JWPOUFK-es Manguitos Hinchables Bestway Princesas Disney'
 sku: 'B00JWPOUFK-es'
-tags: [  ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

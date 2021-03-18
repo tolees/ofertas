@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DV8MZ82-es Mery Cepillo de Cocina Gris Oscuro Medidas: 27 x 6 x 3 8 cm'
 sku: 'B08DV8MZ82-es'
-tags: [  ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

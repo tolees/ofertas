@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0848N2YZK-es Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B0848N2YZK-es'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

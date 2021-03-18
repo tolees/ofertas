@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SYRBQW-es Salomon Trailster W Zapatillas de Trail Running para Mujer...'
 sku: 'B078SYRBQW-es'
-tags: [  ]
 actualPrice: 62.49 EUR
 currency: EUR
 price: 62.49

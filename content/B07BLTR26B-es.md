@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BLTR26B-es DoGeek - Botas de fútbol para Hombres Calzado de...'
 sku: 'B07BLTR26B-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MAJQH24-es Batiste Blush Floral & Flirty Dry Shampoo Champú - 200 ml'
 sku: 'B00MAJQH24-es'
-tags: [  ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

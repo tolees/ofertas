@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ESNUBG-es Zeller 13145 - Cajón multiusos de madera blanda conífera...'
 sku: 'B003ESNUBG-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

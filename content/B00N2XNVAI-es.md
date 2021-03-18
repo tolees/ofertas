@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N2XNVAI-es Maclean - Mc-628 - Montaje Soporte para Monitor Pantalla...'
 sku: 'B00N2XNVAI-es'
-tags: [  ]
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P8P8YBC-es PLAYMOBIL: THE MOVIE Food Truck Del a Partir de 5 Años...'
 sku: 'B07P8P8YBC-es'
-tags: [  ]
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0817HT5BH-es Columbia Silver Ridge II Short Cargo Hombre Azul Dark...'
 sku: 'B0817HT5BH-es'
-tags: [ 'columbia', ]
 actualPrice: 13.27 EUR
 currency: EUR
 price: 13.27

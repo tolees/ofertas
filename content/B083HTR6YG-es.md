@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HTR6YG-es K9CK Luces LED para Ideas Friends Central Perk 21319 Kit...'
 sku: 'B083HTR6YG-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

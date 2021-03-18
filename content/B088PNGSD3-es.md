@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088PNGSD3-es ASUS ROG Zephyrus S17 GX701LWS-EV029T - Ordenador portátil...'
 sku: 'B088PNGSD3-es'
-tags: [  ]
 actualPrice: 2099.0 EUR
 currency: EUR
 price: 2099.0

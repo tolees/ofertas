@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084KCMLYL-es Samsung Galaxy S20+ 5G - Smartphone 6.7" Dynamic AMOLED...'
 sku: 'B084KCMLYL-es'
-tags: [  ]
 actualPrice: 780.0 EUR
 currency: EUR
 price: 780.0

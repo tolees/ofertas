@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8VJKZF-es Love MoschinoJc4233pp0aMujerBolsos bandoleraNegro Black...'
 sku: 'B07V8VJKZF-es'
-tags: [  ]
 actualPrice: 132.99 EUR
 currency: EUR
 price: 132.99

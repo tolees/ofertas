@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005L9EZPG-es Philips automotive lighting 12821LLECOB2 Bombillas...'
 sku: 'B005L9EZPG-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0894LTJRW-es Grupo Erik The Boys Botella de Agua Acero Inoxidable con...'
 sku: 'B0894LTJRW-es'
-tags: [  ]
 actualPrice: 8.05 EUR
 currency: EUR
 price: 8.05

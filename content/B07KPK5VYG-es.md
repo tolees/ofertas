@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPK5VYG-es Funko - Pop! Fairy Tail S3: Gajeel Figura Coleccionable...'
 sku: 'B07KPK5VYG-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

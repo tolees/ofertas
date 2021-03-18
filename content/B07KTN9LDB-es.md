@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTN9LDB-es Days of Wonder- The River Multicolor Asmodee'
 sku: 'B07KTN9LDB-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

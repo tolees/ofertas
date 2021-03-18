@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KG17SFZ-es PUMA Nova 2 Wn s Zapatillas Deportivas para Mujer Blanco...'
 sku: 'B07KG17SFZ-es'
-tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D9J11YN-es ESSIE VAO TOP COAT Gel Setter'
 sku: 'B07D9J11YN-es'
-tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

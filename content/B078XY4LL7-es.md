@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XY4LL7-es BRA Advanced Sartén 20 cm aluminio fundido con...'
 sku: 'B078XY4LL7-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

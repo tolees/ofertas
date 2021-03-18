@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJHYLF7-es Hackett London Slim Fit Logo Polo Azul 593royal Blue 593...'
 sku: 'B07VJHYLF7-es'
-tags: [  ]
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

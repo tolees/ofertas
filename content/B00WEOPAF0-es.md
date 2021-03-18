@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WEOPAF0-es Multicentrum Mujer 50+ Complemento Alimenticio con 13...'
 sku: 'B00WEOPAF0-es'
-tags: [  ]
 actualPrice: 17.78 EUR
 currency: EUR
 price: 17.78

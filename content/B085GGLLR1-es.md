@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085GGLLR1-es Huawei Watch GT 2e Sport - Smartwatch de AMOLED pantalla...'
 sku: 'B085GGLLR1-es'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

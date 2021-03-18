@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDCKKLF-es Napapijri Elbas 3 Polo Turquesa Reef Turquoise I711 Medium...'
 sku: 'B07VDCKKLF-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

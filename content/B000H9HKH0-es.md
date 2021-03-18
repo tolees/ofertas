@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000H9HKH0-es Targus TAR300 Maletín Clamshell Classic 15-15 6" - Negro'
 sku: 'B000H9HKH0-es'
-tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

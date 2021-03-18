@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008BSRDQW-es Superga 2750 Cotu Classic Zapatillas Unisex Blanco White...'
 sku: 'B008BSRDQW-es'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

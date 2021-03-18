@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VMWGQQ7-es Tommy Hilfiger AILA Slim Polo SS Azul Desert Sky Dw5 40...'
 sku: 'B07VMWGQQ7-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

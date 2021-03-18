@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FCNQPY-es Trilogía El Corredor Del Laberinto [DVD]'
 sku: 'B079FCNQPY-es'
-tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

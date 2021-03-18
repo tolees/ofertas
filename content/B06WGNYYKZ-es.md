@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WGNYYKZ-es 2x Cubierta Caso de Silicona Funda Protectora de Mando...'
 sku: 'B06WGNYYKZ-es'
-tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

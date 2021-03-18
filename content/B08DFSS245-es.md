@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFSS245-es HUAWEI WiFi AX3 - Router Quad-coreWiFi 6 Plus Revolution...'
 sku: 'B08DFSS245-es'
-tags: [ 'huawei', ]
 actualPrice: 63.9 EUR
 currency: EUR
 price: 63.9

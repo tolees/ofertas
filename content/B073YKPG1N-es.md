@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073YKPG1N-es Russell Hobbs Luna Solar Red - Tostadora 2 Ranuras Anchas...'
 sku: 'B073YKPG1N-es'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

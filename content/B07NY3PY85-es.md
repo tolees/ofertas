@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY3PY85-es Superdry Poolside Pique Polo Rojo Rouge Red Twist Y6p M...'
 sku: 'B07NY3PY85-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVVCHCG-es Armor Lux 77646 suéter Azul Rich Navy D85 Medium para Hombre'
 sku: 'B07NVVCHCG-es'
-tags: [  ]
 actualPrice: 47.6 EUR
 currency: EUR
 price: 47.6

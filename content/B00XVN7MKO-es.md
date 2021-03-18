@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XVN7MKO-es NGS MONRAY Entrerprise Maletín de Nylon para Ordenador...'
 sku: 'B00XVN7MKO-es'
-tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

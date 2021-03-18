@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CS8LGMQ-es Pepe Jeans PIXLETTE Jeans Negro Black Denim Wl0 4 años...'
 sku: 'B07CS8LGMQ-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

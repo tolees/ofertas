@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MPWLTG6-es MHHQ Funda para Xiaomi Redmi Note 8T Cuero Carcasa Libro...'
 sku: 'B08MPWLTG6-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

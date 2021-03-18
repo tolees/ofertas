@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083YHBXD5-es Desigual Bolsa de deporte para mujer color Negro talla U'
 sku: 'B083YHBXD5-es'
-tags: [  ]
 actualPrice: 49.28 EUR
 currency: EUR
 price: 49.28

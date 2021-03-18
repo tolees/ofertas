@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RBQWAUO-es Dolce & Gabbana - Pour Homme Intenso Eau De Perfume Spray...'
 sku: 'B00RBQWAUO-es'
-tags: [  ]
 actualPrice: 64.32 EUR
 currency: EUR
 price: 64.32

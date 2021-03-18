@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FOHMB38-es ACTIVISION Skylanders: Swap Force - Figurina Single...'
 sku: 'B00FOHMB38-es'
-tags: [  ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

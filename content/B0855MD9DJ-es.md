@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0855MD9DJ-es Gogokids - Traje de Baño de Una Pieza para Niñas Lindo...'
 sku: 'B0855MD9DJ-es'
-tags: [ 'gogokids', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

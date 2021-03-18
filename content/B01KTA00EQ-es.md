@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KTA00EQ-es Reloj Orla Kiely - Mujer OK2137'
 sku: 'B01KTA00EQ-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

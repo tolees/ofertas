@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084JG1YZK-es Head Men’s Basic Boxers 5 Pack Calzoncillos Sombra Oscura...'
 sku: 'B084JG1YZK-es'
-tags: [  ]
 actualPrice: 16.26 EUR
 currency: EUR
 price: 16.26

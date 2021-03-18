@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NLYX42-es RioRiva En caja de regalo los calcetines para hombre con...'
 sku: 'B082NLYX42-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

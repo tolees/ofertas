@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WI5UDQG-es Semillas Batlle - Semillas Hortícolas - Zanahoria...'
 sku: 'B00WI5UDQG-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

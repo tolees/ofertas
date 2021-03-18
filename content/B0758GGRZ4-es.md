@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0758GGRZ4-es BOSS Prime Polo Blanco White 100 X-Large para Hombre'
 sku: 'B0758GGRZ4-es'
-tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

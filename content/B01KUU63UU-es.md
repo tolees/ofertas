@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KUU63UU-es Beurer EM 32 Electroestimulador EMS Cinturón Abdominal 5...'
 sku: 'B01KUU63UU-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

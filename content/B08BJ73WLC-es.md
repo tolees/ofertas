@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJ73WLC-es Auriculares Bluetooth 5.0 Auricular Inalámbrico Control...'
 sku: 'B08BJ73WLC-es'
-tags: [  ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZNSDYN1-es Hurley M Phtm Block Party 18 Bañador Hombre Aurora Green 28'
 sku: 'B07ZNSDYN1-es'
-tags: [  ]
 actualPrice: 16.53 EUR
 currency: EUR
 price: 16.53

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D33TFK8-es Sonew 20 Unids Flequillo Pasteles Mágicos Pegamento...'
 sku: 'B07D33TFK8-es'
-tags: [  ]
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QGZ55PB-es L Oreal Paris Make-up Designer - Labial líquido mate Les...'
 sku: 'B07QGZ55PB-es'
-tags: [  ]
 actualPrice: 6.23 EUR
 currency: EUR
 price: 6.23

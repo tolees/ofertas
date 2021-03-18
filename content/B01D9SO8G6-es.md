@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D9SO8G6-es Pendientes Yazilind deslumbrante Ba?ado En Plata l¨¢grima...'
 sku: 'B01D9SO8G6-es'
-tags: [  ]
 actualPrice: 1.68 EUR
 currency: EUR
 price: 1.68

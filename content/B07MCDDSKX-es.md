@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCDDSKX-es GANT Johanna Botas Chelsea para Mujer Negro Black G00 37 EU'
 sku: 'B07MCDDSKX-es'
-tags: [  ]
 actualPrice: 96.7 EUR
 currency: EUR
 price: 96.7

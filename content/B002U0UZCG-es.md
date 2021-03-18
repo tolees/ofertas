@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002U0UZCG-es Obey Your Body Peeling Facial'
 sku: 'B002U0UZCG-es'
-tags: [  ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

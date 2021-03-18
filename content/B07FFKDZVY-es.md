@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FFKDZVY-es Fossil Smartwatch FTW6016'
 sku: 'B07FFKDZVY-es'
-tags: [  ]
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0

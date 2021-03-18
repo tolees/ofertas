@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084SCBYL9-es Gioseppo Aleskin Zapatillas Mujer Negro 37 EU'
 sku: 'B084SCBYL9-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

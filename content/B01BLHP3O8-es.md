@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BLHP3O8-es Biotherm Biocils Waterproof Eye Make Up Remover...'
 sku: 'B01BLHP3O8-es'
-tags: [  ]
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32

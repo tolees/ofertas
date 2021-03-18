@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GE3YXUE-es Tommy Hilfiger Tanga de Algodón Cintura elástica con el...'
 sku: 'B01GE3YXUE-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

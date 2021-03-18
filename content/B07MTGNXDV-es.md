@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTGNXDV-es Multímetro Digital Profesional LOMVUM T28C Manual Rango...'
 sku: 'B07MTGNXDV-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

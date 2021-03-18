@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6RQDRN-es DURAGADGET Cable De Audio para Portátil Acer Nitro 5 |...'
 sku: 'B07P6RQDRN-es'
-tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

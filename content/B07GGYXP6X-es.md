@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GGYXP6X-es KH-7 Limpiador Baños y Desinfectante - Desinfección sin...'
 sku: 'B07GGYXP6X-es'
-tags: [  ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

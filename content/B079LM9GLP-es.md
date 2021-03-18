@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LM9GLP-es PERIO Enjuagues Bucales 1 Unidad 150 ml'
 sku: 'B079LM9GLP-es'
-tags: [  ]
 actualPrice: 4.83 EUR
 currency: EUR
 price: 4.83

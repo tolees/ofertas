@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004JPO51W-es Tayg 16 Caja Herramienta Plástico Azul/Rojo 500 x 258 x...'
 sku: 'B004JPO51W-es'
-tags: [  ]
 actualPrice: 15.3 EUR
 currency: EUR
 price: 15.3

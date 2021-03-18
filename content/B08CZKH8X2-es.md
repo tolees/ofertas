@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CZKH8X2-es Arlo Essential Spotlight Sistema de Seguridad - 3 Cámaras...'
 sku: 'B08CZKH8X2-es'
-tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

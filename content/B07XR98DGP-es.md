@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XR98DGP-es Apple Funda Transparente para el iPhone 11 Pro'
 sku: 'B07XR98DGP-es'
-tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

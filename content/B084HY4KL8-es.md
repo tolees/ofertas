@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084HY4KL8-es Tommy Hilfiger Th Men Sock 3p Logo Giftbox calcetines...'
 sku: 'B084HY4KL8-es'
-tags: [  ]
 actualPrice: 12.53 EUR
 currency: EUR
 price: 12.53

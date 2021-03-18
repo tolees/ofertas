@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JQIQ73G-es Samsonite Lite-Cube - 15.6 Pulgadas Maletín para portátil...'
 sku: 'B00JQIQ73G-es'
-tags: [  ]
 actualPrice: 221.41 EUR
 currency: EUR
 price: 221.41

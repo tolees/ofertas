@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MU8VF5Z-es Vitamaze - amazing life - Vitamaze® Zinc Tabletas 25 mg...'
 sku: 'B01MU8VF5Z-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C45XNNO-es DIM Generous Sujetador Beige New Skin 90E para Mujer'
 sku: 'B01C45XNNO-es'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

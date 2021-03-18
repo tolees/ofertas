@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5SYTBT-es Clarks'
 sku: 'B07P5SYTBT-es'
-tags: [  ]
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

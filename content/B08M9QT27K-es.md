@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M9QT27K-es CHiQ Pilas alcalinas AA Pack de 48 Unidades AA/1.5V/LR6'
 sku: 'B08M9QT27K-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

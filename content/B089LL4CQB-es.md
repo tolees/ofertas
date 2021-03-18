@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089LL4CQB-es Dettol Gel hidroalcoholico higienizante de manos - 200 ml x 6'
 sku: 'B089LL4CQB-es'
-tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZV2HHQP-es Helly Hansen HH Scout Wash Bag Neceser Unisex Adulto...'
 sku: 'B07ZV2HHQP-es'
-tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

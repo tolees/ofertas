@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TC4KDYK-es Auralum Columna De Ducha Negra Con Mezclador Brazo De...'
 sku: 'B08TC4KDYK-es'
-tags: [  ]
 actualPrice: 72.24 EUR
 currency: EUR
 price: 72.24

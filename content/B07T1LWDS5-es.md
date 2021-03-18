@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1LWDS5-es Buffalo Fierce P1 Zapatillas Altas para Mujer Multicolor...'
 sku: 'B07T1LWDS5-es'
-tags: [  ]
 actualPrice: 60.94 EUR
 currency: EUR
 price: 60.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OKL96G4-es Versa 20100002 Cajonera Baño 3 Cestas Madera Gris 56x30x25'
 sku: 'B00OKL96G4-es'
-tags: [  ]
 actualPrice: 47.31 EUR
 currency: EUR
 price: 47.31

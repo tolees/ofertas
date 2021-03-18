@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0876PFLFQ-es Under Armour EMEA Track Suit chándal hombre Negro Black /...'
 sku: 'B0876PFLFQ-es'
-tags: [  ]
 actualPrice: 49.16 EUR
 currency: EUR
 price: 49.16

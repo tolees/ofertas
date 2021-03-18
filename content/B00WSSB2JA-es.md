@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WSSB2JA-es Lotus Minimalist 18117/1- Reloj para Hombre'
 sku: 'B00WSSB2JA-es'
-tags: [  ]
 actualPrice: 96.22 EUR
 currency: EUR
 price: 96.22

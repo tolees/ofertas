@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5F6YI7-es DANISH ENDURANCE Calcetines de Compresión de Algodón...'
 sku: 'B01M5F6YI7-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

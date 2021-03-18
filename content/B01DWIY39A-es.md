@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DWIY39A-es Garmin 735XT Forerunner Reloj multisport con GPS Unisex...'
 sku: 'B01DWIY39A-es'
-tags: [  ]
 actualPrice: 224.99 EUR
 currency: EUR
 price: 224.99

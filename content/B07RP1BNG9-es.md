@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RP1BNG9-es UBI Soft - Ghost Recon - Figura Nomad Breakpoint'
 sku: 'B07RP1BNG9-es'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JLR251R-es Lee Breese Pantalones para Mujer Negro Pitch Raw Hem Lw...'
 sku: 'B07JLR251R-es'
-tags: [  ]
 actualPrice: 18.2 EUR
 currency: EUR
 price: 18.2

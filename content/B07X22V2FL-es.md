@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X22V2FL-es Amzdeal Trípode Cámara Trípode de Aluminio Portátil 164cm...'
 sku: 'B07X22V2FL-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

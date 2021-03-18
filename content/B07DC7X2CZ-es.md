@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC7X2CZ-es Puma Cell Viper Zapatillas de running Unisex Adulto Blanco...'
 sku: 'B07DC7X2CZ-es'
-tags: [  ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

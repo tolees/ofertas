@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CCLLGVF-es Menbur - BUGIALLO'
 sku: 'B08CCLLGVF-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

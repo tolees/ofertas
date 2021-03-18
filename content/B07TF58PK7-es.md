@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TF58PK7-es Anillo de Luz VicTsing Ring Light con 5 Temperaturas de...'
 sku: 'B07TF58PK7-es'
-tags: [  ]
 actualPrice: 25.29 EUR
 currency: EUR
 price: 25.29

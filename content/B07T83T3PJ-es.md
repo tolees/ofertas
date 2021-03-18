@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T83T3PJ-es Ratón Gaming iAmotus Ratón Gaming Óptico 7200 DPI...'
 sku: 'B07T83T3PJ-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

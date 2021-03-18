@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRLN4HD-es New Balance 373 Zapatillas para Mujer Verde Green Green 43 EU'
 sku: 'B07KRLN4HD-es'
-tags: [  ]
 actualPrice: 24.96 EUR
 currency: EUR
 price: 24.96

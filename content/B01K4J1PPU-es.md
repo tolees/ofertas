@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K4J1PPU-es Manos Libres Bluetooth Transmisor FM Coche de VicTsing...'
 sku: 'B01K4J1PPU-es'
-tags: [ 'victsing', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

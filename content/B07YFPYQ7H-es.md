@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFPYQ7H-es Bolsa de Maquillaje Mármol PU Bolsa de Cosméticos de Viaje...'
 sku: 'B07YFPYQ7H-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

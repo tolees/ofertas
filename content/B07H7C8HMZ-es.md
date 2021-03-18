@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H7C8HMZ-es HP Pavilion 600 - Auriculares Gaming Sonido 7.1 Surround...'
 sku: 'B07H7C8HMZ-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

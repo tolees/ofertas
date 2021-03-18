@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QD6SQ8M-es PUMA Alpha Leggings G Mallas Deporte Niñas Light Gray...'
 sku: 'B07QD6SQ8M-es'
-tags: [  ]
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0788ZQMPH-es Arena antifog Spray&Swim Goggle Accessories Adultos Unisex...'
 sku: 'B0788ZQMPH-es'
-tags: [  ]
 actualPrice: 5.62 EUR
 currency: EUR
 price: 5.62

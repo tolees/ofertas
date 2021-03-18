@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KSP38HJ-es Columbia Evolution Valley II Chaqueta para Lluvia Mujer...'
 sku: 'B07KSP38HJ-es'
-tags: [  ]
 actualPrice: 54.55 EUR
 currency: EUR
 price: 54.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088L2CSYR-es Grupo Erik - ERIK - Planificador mensual con imán para...'
 sku: 'B088L2CSYR-es'
-tags: [  ]
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053PWE1U-es Bosch Professional - Bosch 2 608 690 144 - Cincel plano...'
 sku: 'B0053PWE1U-es'
-tags: [ 'bosch professional', ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

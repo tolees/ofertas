@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MP51M9P-es YuamMei 1pc Caja de anillo LED Caja de anillo con luz...'
 sku: 'B07MP51M9P-es'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

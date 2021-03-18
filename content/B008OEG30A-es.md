@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008OEG30A-es ceys CE507242 TOTAL TECH TRANSPARENTE TUBO 125ML 0 W 0 V Azul'
 sku: 'B008OEG30A-es'
-tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

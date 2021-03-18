@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003DZDYMU-es Casio Smart Watch Armbanduhr AE-1000W-1B'
 sku: 'B003DZDYMU-es'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

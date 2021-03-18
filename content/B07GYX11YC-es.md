@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYX11YC-es NAME IT Nmsian L/s O-Neck Knit Noos suéter Blanco Bright...'
 sku: 'B07GYX11YC-es'
-tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3RTJBX-es Palette Intense - Tono 4.6 Castaño Marrón - 2 uds -...'
 sku: 'B07N3RTJBX-es'
-tags: [  ]
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

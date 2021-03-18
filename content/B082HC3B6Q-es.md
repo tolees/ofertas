@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HC3B6Q-es ART VVIES Holz gerahmt mit Haken Raum für...'
 sku: 'B082HC3B6Q-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYFZ2ZT-es AOQUSSQOA Mujer Shapewear Faja Reductora Abdomen con...'
 sku: 'B07GYFZ2ZT-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

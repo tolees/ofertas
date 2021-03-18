@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XG8L3CW-es Muzili Auriculares Bluetooth Deportivos V5.0 IPX7...'
 sku: 'B07XG8L3CW-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

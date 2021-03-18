@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N2JHHO8-es FeiyuTech - Feiyu Tech G5 - Gimbal estabilizador para...'
 sku: 'B01N2JHHO8-es'
-tags: [  ]
 actualPrice: 110.38 EUR
 currency: EUR
 price: 110.38

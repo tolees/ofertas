@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C43H7WO-es Life Is Strange - Standard Edition'
 sku: 'B01C43H7WO-es'
-tags: [  ]
 actualPrice: 12.31 EUR
 currency: EUR
 price: 12.31

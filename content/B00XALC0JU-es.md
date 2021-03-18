@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XALC0JU-es Bella Aurora Bio10 Serum Antimanchas Piel Mixta-Grasa |...'
 sku: 'B00XALC0JU-es'
-tags: [  ]
 actualPrice: 20.31 EUR
 currency: EUR
 price: 20.31

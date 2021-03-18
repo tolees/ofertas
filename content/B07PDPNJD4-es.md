@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PDPNJD4-es TOPLIFE - Funda Teclado Samsung Galaxy Tab S4 Funda para...'
 sku: 'B07PDPNJD4-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

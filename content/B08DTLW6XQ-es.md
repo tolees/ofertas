@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DTLW6XQ-es Hikeren Aspiradoras Escoba Aspiradora Escoba Hogar 12000...'
 sku: 'B08DTLW6XQ-es'
-tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

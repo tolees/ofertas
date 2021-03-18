@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002W7NP8S-es Converse Chuck Taylor All Star Hi Top Zapatillas Mujer...'
 sku: 'B002W7NP8S-es'
-tags: [  ]
 actualPrice: 43.88 EUR
 currency: EUR
 price: 43.88

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007OVZPUS-es Pipedream Penes - 641 gr'
 sku: 'B007OVZPUS-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVJ8MG3-es Kipling - Card Keeper Carteras Mujer Azul Aqua Frost...'
 sku: 'B07MVJ8MG3-es'
-tags: [  ]
 actualPrice: 8.57 EUR
 currency: EUR
 price: 8.57

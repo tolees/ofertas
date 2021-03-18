@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D333XPG-es Luces Solares Con 82 LED Para Exteriores Mejoradas...'
 sku: 'B07D333XPG-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

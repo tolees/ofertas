@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VT43PYG-es m zimoon Echar para Atrás Coche Vehículos de Juguete...'
 sku: 'B07VT43PYG-es'
-tags: [ 'm zimoon', ]
 actualPrice: 9.51 EUR
 currency: EUR
 price: 9.51

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X8XG1K8-es Electronic Arts - Need for Speed Heat - Standard [Pre-...'
 sku: 'B07X8XG1K8-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

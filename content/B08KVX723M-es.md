@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KVX723M-es Litthing - 100Pcs Bolsas de Filtro de Té con Cordón Bolsas...'
 sku: 'B08KVX723M-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

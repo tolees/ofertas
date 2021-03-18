@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000MX1YQY-es Casio Reloj Digital para Unisex de Cuarzo con Correa en...'
 sku: 'B000MX1YQY-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

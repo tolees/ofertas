@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ITLJBAW-es Quasar FOBOS - Ratón Óptico USB 3200 DPI Negro'
 sku: 'B00ITLJBAW-es'
-tags: [  ]
 actualPrice: 3.36 EUR
 currency: EUR
 price: 3.36

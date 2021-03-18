@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y5PNYHT-es Joma Treviso Pantalones Cortos Equipamiento Hombres Azul...'
 sku: 'B06Y5PNYHT-es'
-tags: [  ]
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KA9QT2E-es Naissance Aceite Vegetal de Rosa Mosqueta Rubiginosa n. º...'
 sku: 'B00KA9QT2E-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

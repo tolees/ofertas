@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMK17GC-es TOPsic Correa Gear Fit 2 Pro/Fit 2 Correa Reemplazo de...'
 sku: 'B07PMK17GC-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

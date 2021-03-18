@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B3RP4BV-es Máscara Blanca Outgeek 12PCS Máscara Blanca Para Pintar De...'
 sku: 'B07B3RP4BV-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

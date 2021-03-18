@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075CVD3HQ-es TUXWANG Kit de Costura con 130 Piezas Accesorios de...'
 sku: 'B075CVD3HQ-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

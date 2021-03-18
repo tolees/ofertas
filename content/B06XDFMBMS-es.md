@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDFMBMS-es Set de Baño con Cepillo Corporal Exfoliante Gancho de...'
 sku: 'B06XDFMBMS-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

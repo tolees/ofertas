@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K9W6TCS-es Koch Media - Maneater - XSRX'
 sku: 'B08K9W6TCS-es'
-tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

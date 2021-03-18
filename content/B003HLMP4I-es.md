@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003HLMP4I-es Revlon Colorstay Delineador de Ojos Líquido #251 Blackest...'
 sku: 'B003HLMP4I-es'
-tags: [  ]
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TS8WSWL-es Fun Play - IMC Toys Play Fun La Aventura de la Momia...'
 sku: 'B07TS8WSWL-es'
-tags: [  ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

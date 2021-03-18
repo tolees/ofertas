@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716JHVYN-es Glighone Apliques de Pared Moderna Lámpara de Pared Led...'
 sku: 'B0716JHVYN-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

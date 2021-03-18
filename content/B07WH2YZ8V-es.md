@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WH2YZ8V-es Audio-Technica ATH-CKS5TW Auriculares inalámbricos - Negro'
 sku: 'B07WH2YZ8V-es'
-tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

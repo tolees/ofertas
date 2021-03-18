@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087DD7R9W-es adidas ULTIMASHOW Zapatillas Hombre FTWBLA/FTWBLA/Gridos...'
 sku: 'B087DD7R9W-es'
-tags: [  ]
 actualPrice: 32.83 EUR
 currency: EUR
 price: 32.83

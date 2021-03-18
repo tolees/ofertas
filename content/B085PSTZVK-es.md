@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PSTZVK-es Taurus MITHOS AVANT - Maquina Cortapelo hombre Motor AC...'
 sku: 'B085PSTZVK-es'
-tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

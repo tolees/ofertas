@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WMFL2P4-es SKYSPER Leggings Mujer Fitness Cintura Alta Pantalones...'
 sku: 'B07WMFL2P4-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

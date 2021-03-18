@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084DGXNK3-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B084DGXNK3-es'
-tags: [  ]
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

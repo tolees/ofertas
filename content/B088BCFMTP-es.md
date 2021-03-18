@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088BCFMTP-es Oihxse Cristal Compatible con Samsung Galaxy A40s Funda...'
 sku: 'B088BCFMTP-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

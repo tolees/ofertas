@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H9MZF85-es Crosstour Proyector Mini Proyector Portátil Soporte HD...'
 sku: 'B07H9MZF85-es'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

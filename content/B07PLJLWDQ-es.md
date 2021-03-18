@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLJLWDQ-es O³ Bastoncillos Ecologicos 800 Unidades | Bastoncillos...'
 sku: 'B07PLJLWDQ-es'
-tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

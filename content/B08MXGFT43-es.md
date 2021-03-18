@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MXGFT43-es LEMON CLOUD Vinilo para Cristales Vinilo Opaco para...'
 sku: 'B08MXGFT43-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

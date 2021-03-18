@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0055QADTC-es Luminarc Vajilla Redonda 19 Piezas Modelo Diwali...'
 sku: 'B0055QADTC-es'
-tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

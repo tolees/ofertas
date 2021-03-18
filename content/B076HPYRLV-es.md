@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HPYRLV-es Adidas CORE18 SW PNT Pantalones de Deporte Hombre Gris...'
 sku: 'B076HPYRLV-es'
-tags: [ 'adidas', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

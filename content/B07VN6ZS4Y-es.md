@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VN6ZS4Y-es YAMAMAY® Slip Traje de baño brasileño - Mirage'
 sku: 'B07VN6ZS4Y-es'
-tags: [  ]
 actualPrice: 8.48 EUR
 currency: EUR
 price: 8.48

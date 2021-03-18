@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CY9YWFD-es Dicora UrbanFit - Dicora Urban Fit® Gel De Baño Detox Blue...'
 sku: 'B08CY9YWFD-es'
-tags: [ 'dicora urbanfit', ]
 actualPrice: 1.82 EUR
 currency: EUR
 price: 1.82

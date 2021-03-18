@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GRJPJDY-es Samsung Galaxy Watch - Reloj Inteligente Bluetooth Oro-...'
 sku: 'B07GRJPJDY-es'
-tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

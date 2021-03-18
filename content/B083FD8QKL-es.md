@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FD8QKL-es Videocámara Camara de Video Ultra HD 2.7K 30MP 18X Zoom...'
 sku: 'B083FD8QKL-es'
-tags: [  ]
 actualPrice: 99.89 EUR
 currency: EUR
 price: 99.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VV95HN-es Gliss - Mascarilla Ultimate Repair para Cabellos Muy...'
 sku: 'B082VV95HN-es'
-tags: [  ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

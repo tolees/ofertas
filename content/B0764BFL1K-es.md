@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0764BFL1K-es Ultimate Ears BOOM 2 LITE - Altavoz inalámbrico/Bluetooth...'
 sku: 'B0764BFL1K-es'
-tags: [  ]
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

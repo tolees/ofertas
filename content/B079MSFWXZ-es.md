@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079MSFWXZ-es Kärcher SC1 - Limpiadora de Vapor Manual con depósito de 0...'
 sku: 'B079MSFWXZ-es'
-tags: [  ]
 actualPrice: 51.2 EUR
 currency: EUR
 price: 51.2

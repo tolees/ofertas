@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000GN3IA0-es Kempa Needle Agujas para Hinchar Balones Hombre...'
 sku: 'B000GN3IA0-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

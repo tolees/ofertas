@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846DSGSL-es Pepe Jeans Freddie Suéter Marrón 876 10 para Niños'
 sku: 'B0846DSGSL-es'
-tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

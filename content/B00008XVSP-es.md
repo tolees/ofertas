@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00008XVSP-es WMF Profi Plus Prensa ajos Acero Inoxidable Pulido'
 sku: 'B00008XVSP-es'
-tags: [  ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FS3SO10-es LEXIBOOK- Disney Soy Luna-Reproductor Radio CD Altavoz...'
 sku: 'B01FS3SO10-es'
-tags: [  ]
 actualPrice: 32.73 EUR
 currency: EUR
 price: 32.73

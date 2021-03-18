@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08324TZSB-es Wrangler Greensboro Pantalones Azul Marino 34W / 34L para...'
 sku: 'B08324TZSB-es'
-tags: [  ]
 actualPrice: 25.77 EUR
 currency: EUR
 price: 25.77

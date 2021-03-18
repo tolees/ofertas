@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ65TXD-es New Balance 247v1 Zapatillas para Hombre Azul...'
 sku: 'B07DJ65TXD-es'
-tags: [  ]
 actualPrice: 50.21 EUR
 currency: EUR
 price: 50.21

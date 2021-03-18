@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081SKCGPP-es Apple Funda Smart Battery Case de Carga inalámbrica para...'
 sku: 'B081SKCGPP-es'
-tags: [  ]
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

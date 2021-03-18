@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y8PDZRG-es Magic Studio Matte Vs Metallic Lip Colors Talla Única Pack...'
 sku: 'B07Y8PDZRG-es'
-tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

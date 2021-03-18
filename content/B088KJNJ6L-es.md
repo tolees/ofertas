@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088KJNJ6L-es PINPOXE - Limpiador de Oídos Limpieza Cerumen Oído Ear Wax...'
 sku: 'B088KJNJ6L-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

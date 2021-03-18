@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R7BCN16-es Hurley W Winchester Fleece Zip Sudaderas Mujer Black XS'
 sku: 'B07R7BCN16-es'
-tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

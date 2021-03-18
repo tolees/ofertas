@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFDTKCP-es Funko- Pop Vinyl: Kingdom Hearts 3: Riku Figura...'
 sku: 'B07DFDTKCP-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

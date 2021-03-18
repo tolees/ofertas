@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071NWMVVG-es Asics T7D8N9006 Zapatillas de Running para Mujer Negro...'
 sku: 'B071NWMVVG-es'
-tags: [  ]
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

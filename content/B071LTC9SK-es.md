@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071LTC9SK-es New Balance 574v2 Core Lace Modelo PC574GG Zapatillas para...'
 sku: 'B071LTC9SK-es'
-tags: [  ]
 actualPrice: 29.08 EUR
 currency: EUR
 price: 29.08

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QBPFTM2-es G-STAR RAW Vetar Slim Chino Pantalones Gris Asfalt...'
 sku: 'B07QBPFTM2-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

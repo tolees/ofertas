@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GPF6RLN-es Alicates multiherramientas 12 en 1 plegables portátiles...'
 sku: 'B07GPF6RLN-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

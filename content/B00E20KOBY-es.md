@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E20KOBY-es Vogel s Base 05 L - Soporte de Pared Fijo para TV 40 - 80"...'
 sku: 'B00E20KOBY-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

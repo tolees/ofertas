@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DY515HE-es Fossil Reloj Analogico para Hombre de Automático con...'
 sku: 'B01DY515HE-es'
-tags: [  ]
 actualPrice: 186.4 EUR
 currency: EUR
 price: 186.4

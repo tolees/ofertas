@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HMRKQ4-es Adidas CORE18 PRE PNT Sport trousers Hombre Black/ White M'
 sku: 'B076HMRKQ4-es'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

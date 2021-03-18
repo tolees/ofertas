@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078FBC7G7-es NutriBullet NBR-0928-B - Extractor de nutrientes original...'
 sku: 'B078FBC7G7-es'
-tags: [  ]
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

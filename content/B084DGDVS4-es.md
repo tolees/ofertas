@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084DGDVS4-es Intemperie [Blu-ray]'
 sku: 'B084DGDVS4-es'
-tags: [  ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

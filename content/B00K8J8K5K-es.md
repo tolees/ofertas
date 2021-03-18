@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K8J8K5K-es Calvin Klein Underwear Braguitas para Mujer Negro BLACK 001 M'
 sku: 'B00K8J8K5K-es'
-tags: [ 'calvin klein', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

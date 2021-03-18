@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNRZNGT-es Minisun – Lámpara de Mesa Mono Resina Negra- Clase de...'
 sku: 'B07YNRZNGT-es'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

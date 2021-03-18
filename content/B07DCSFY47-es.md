@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DCSFY47-es LEABAGS Fort Grant Estuche de auténtico Cuero búfalo en el...'
 sku: 'B07DCSFY47-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

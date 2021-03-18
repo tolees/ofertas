@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K72Q1DV-es Asics Gel-Sonoma 4 G-TX Walking Shoe Womens Black/Stone...'
 sku: 'B07K72Q1DV-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

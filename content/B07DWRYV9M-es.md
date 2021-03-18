@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWRYV9M-es 【2019 Nueva Versión】CHORTAU Camara de Coche Retrovisor 4.8...'
 sku: 'B07DWRYV9M-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

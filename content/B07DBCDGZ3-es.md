@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBCDGZ3-es TELLW Verano Hombre Dama casa par Interior Lino Zapatillas...'
 sku: 'B07DBCDGZ3-es'
-tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

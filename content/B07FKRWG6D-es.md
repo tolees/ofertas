@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FKRWG6D-es Philips - Memorias Usb 3.0 de 256Gb serie Snow marrón con...'
 sku: 'B07FKRWG6D-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004QQSGJG-es Huggies Pull-Ups - Calzoncillos de aprendizaje para niños...'
 sku: 'B004QQSGJG-es'
-tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

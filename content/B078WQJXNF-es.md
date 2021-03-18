@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WQJXNF-es Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno...'
 sku: 'B078WQJXNF-es'
-tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

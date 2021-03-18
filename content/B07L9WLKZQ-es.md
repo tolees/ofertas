@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9WLKZQ-es Gritin Bandas Elasticas de Fitness/Bandas de Resistencia...'
 sku: 'B07L9WLKZQ-es'
-tags: [  ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

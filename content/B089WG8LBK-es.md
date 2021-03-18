@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089WG8LBK-es Plancha eléctrica Antiadherente Cocina sin Humo Plancha...'
 sku: 'B089WG8LBK-es'
-tags: [  ]
 actualPrice: 224.99 EUR
 currency: EUR
 price: 224.99

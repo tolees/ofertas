@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088D6CVL3-es Suhctup Funda Compatible para Xiaomi Mi 5X/A1 Carcasa...'
 sku: 'B088D6CVL3-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

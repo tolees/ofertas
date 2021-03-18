@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076H1ZQ5M-es Alimentador antiahogo bebe chupete fruta bebe de...'
 sku: 'B076H1ZQ5M-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

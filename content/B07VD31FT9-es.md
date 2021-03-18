@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VD31FT9-es BOSS Schino-Slim Shorts Pantalones Cortos Beige Open Beige...'
 sku: 'B07VD31FT9-es'
-tags: [  ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

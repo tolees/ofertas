@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089VN12GH-es VPCOK Calefactor Ceramico Bajo Consumo Calefactor de Aire...'
 sku: 'B089VN12GH-es'
-tags: [  ]
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

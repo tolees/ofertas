@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LDKH2PG-es Sony MDRAS210B.Ae - Auriculares Deportivos de Botón con...'
 sku: 'B01LDKH2PG-es'
-tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

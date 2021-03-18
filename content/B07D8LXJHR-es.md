@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D8LXJHR-es Receptor Bluetooth Coche Amplificador HiFi 4.1 Manos...'
 sku: 'B07D8LXJHR-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

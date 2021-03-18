@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FHYVBX-es Lacoste WH1572 Pantalón Deportivo Marine/Vert-Blanc XS...'
 sku: 'B083FHYVBX-es'
-tags: [  ]
 actualPrice: 147.0 EUR
 currency: EUR
 price: 147.0

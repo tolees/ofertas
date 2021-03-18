@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JQQ252T-es Abbacino Mascarilla homologada lavable para adulto color...'
 sku: 'B08JQQ252T-es'
-tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

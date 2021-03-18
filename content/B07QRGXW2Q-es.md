@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QRGXW2Q-es Ellexir - Sillas de Comedor de plástico con Patas de...'
 sku: 'B07QRGXW2Q-es'
-tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

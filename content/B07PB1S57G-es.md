@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PB1S57G-es Fa - Desodorante Spray Aqua 48 horas de protección - Anti...'
 sku: 'B07PB1S57G-es'
-tags: [  ]
 actualPrice: 2.22 EUR
 currency: EUR
 price: 2.22

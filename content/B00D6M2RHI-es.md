@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00D6M2RHI-es D-Link GO-SW-8E - Switch de red con 8 puertos 10/100 Mps...'
 sku: 'B00D6M2RHI-es'
-tags: [  ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

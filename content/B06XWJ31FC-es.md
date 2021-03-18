@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XWJ31FC-es Vialman SF10 Colcha para Cama 180 cm x 270 cm Beige'
 sku: 'B06XWJ31FC-es'
-tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

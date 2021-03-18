@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QPOSFZ2-es Manta personalizada con tu foto. Manta polar"King Size" -...'
 sku: 'B00QPOSFZ2-es'
-tags: [  ]
 actualPrice: 54.29 EUR
 currency: EUR
 price: 54.29

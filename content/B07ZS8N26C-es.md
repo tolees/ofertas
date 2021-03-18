@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZS8N26C-es NIKE M NP Top LS Tight Long Sleeved t-Shirt Hombre Game...'
 sku: 'B07ZS8N26C-es'
-tags: [  ]
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32

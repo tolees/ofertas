@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F5JNZL4-es Máquina de eliminación de grasa congelada sistema de...'
 sku: 'B07F5JNZL4-es'
-tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

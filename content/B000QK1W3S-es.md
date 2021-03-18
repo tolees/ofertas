@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000QK1W3S-es Converse Chuck Taylor All Star Zapatillas altas Unisex...'
 sku: 'B000QK1W3S-es'
-tags: [  ]
 actualPrice: 38.46 EUR
 currency: EUR
 price: 38.46

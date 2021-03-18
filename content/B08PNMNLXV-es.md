@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PNMNLXV-es Cikonielf - Soporte para monitor de madera soporte para...'
 sku: 'B08PNMNLXV-es'
-tags: [  ]
 actualPrice: 48.79 EUR
 currency: EUR
 price: 48.79

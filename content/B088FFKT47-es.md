@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088FFKT47-es Goodde Convertidor Captura Vídeo USB Video Capture Card...'
 sku: 'B088FFKT47-es'
-tags: [  ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VN4BM1T-es WATERSPA 50 Unidades Adultos Disfraz Cara Media Cubierta...'
 sku: 'B08VN4BM1T-es'
-tags: [  ]
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

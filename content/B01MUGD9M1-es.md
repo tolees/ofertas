@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUGD9M1-es Michael Kors Reloj Cronógrafo para Unisex Adulto de Cuarzo...'
 sku: 'B01MUGD9M1-es'
-tags: [  ]
 actualPrice: 120.4 EUR
 currency: EUR
 price: 120.4

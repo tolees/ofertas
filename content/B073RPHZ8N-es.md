@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RPHZ8N-es Columbia Drainmaker IV Zapatillas para Hombre Negro Black...'
 sku: 'B073RPHZ8N-es'
-tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1TZ82L-es OurLeeme Scooter Bolsa de Almacenamiento Bolsa Delantera...'
 sku: 'B07S1TZ82L-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

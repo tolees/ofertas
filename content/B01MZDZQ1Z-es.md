@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZDZQ1Z-es Garnier Skin Active - Gel Micelar Desmaquillante para...'
 sku: 'B01MZDZQ1Z-es'
-tags: [  ]
 actualPrice: 2.71 EUR
 currency: EUR
 price: 2.71

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJ2JCBJ-es Tommy Hilfiger TH Jeans Flag 1p Calcetines Hombre Azul...'
 sku: 'B07CJ2JCBJ-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

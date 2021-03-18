@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HDTTOGQ-es Innovations Genuine Inflador de Co2 Unisex Talla única'
 sku: 'B01HDTTOGQ-es'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

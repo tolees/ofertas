@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RGKRK2-es GORE WEAR R5 Mallas cortas de running para mujer Talla: 38...'
 sku: 'B075RGKRK2-es'
-tags: [  ]
 actualPrice: 22.4 EUR
 currency: EUR
 price: 22.4

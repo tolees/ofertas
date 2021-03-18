@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QL3TN6-es Tamaño pequeño Jasen Power Splitter Satellite Two Power...'
 sku: 'B083QL3TN6-es'
-tags: [  ]
 actualPrice: 3.86 EUR
 currency: EUR
 price: 3.86

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X9B2DPQ-es Gran Chaparral Temp 1 + 2 [DVD]'
 sku: 'B06X9B2DPQ-es'
-tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

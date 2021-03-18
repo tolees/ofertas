@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZPHGMQ-es 3D Antifaz para Dormir METALBAY Ojos Máscara de Poliéster...'
 sku: 'B07NZPHGMQ-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

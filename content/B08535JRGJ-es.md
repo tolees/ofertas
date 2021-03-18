@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08535JRGJ-es Justdodo 220V Calentador eléctrico Calentador Té Taza de...'
 sku: 'B08535JRGJ-es'
-tags: [  ]
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

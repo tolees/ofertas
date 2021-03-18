@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072PZDBXN-es K&N E-0650 Filtro de Aire Repuesto Coche Rojo Lavable y...'
 sku: 'B072PZDBXN-es'
-tags: [  ]
 actualPrice: 58.73 EUR
 currency: EUR
 price: 58.73

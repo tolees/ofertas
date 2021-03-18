@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WUH73OC-es EUROHIKE Avon Tienda de campaña Camping Gear Rojo Rojo...'
 sku: 'B00WUH73OC-es'
-tags: [  ]
 actualPrice: 72.62 EUR
 currency: EUR
 price: 72.62

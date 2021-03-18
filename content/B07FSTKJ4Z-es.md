@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FSTKJ4Z-es Oral-B PRO 2 2500 CrossAction Cepillo de dientes eléctrico...'
 sku: 'B07FSTKJ4Z-es'
-tags: [  ]
 actualPrice: 57.01 EUR
 currency: EUR
 price: 57.01

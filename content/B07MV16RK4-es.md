@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MV16RK4-es Trackimo V-Multi Tracker by Vodafone Localizador GPS para...'
 sku: 'B07MV16RK4-es'
-tags: [  ]
 actualPrice: 12.01 EUR
 currency: EUR
 price: 12.01

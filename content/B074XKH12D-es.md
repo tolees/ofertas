@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074XKH12D-es Iberitos - 216 Monodosis de Humus Crema de Garbanzos - 22...'
 sku: 'B074XKH12D-es'
-tags: [  ]
 actualPrice: 14.52 EUR
 currency: EUR
 price: 14.52

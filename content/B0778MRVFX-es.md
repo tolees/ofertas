@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0778MRVFX-es Tommy Hilfiger Core Cotton-Silk Cneck suéter Gris Cloud...'
 sku: 'B0778MRVFX-es'
-tags: [  ]
 actualPrice: 55.9 EUR
 currency: EUR
 price: 55.9

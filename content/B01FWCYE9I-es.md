@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FWCYE9I-es Caja organizadora Ivosmart con 24 secciones de terciopelo...'
 sku: 'B01FWCYE9I-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

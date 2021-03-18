@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D34KT2L-es Element Stark Chaquetas Hombre Negro Flint Black XS'
 sku: 'B07D34KT2L-es'
-tags: [  ]
 actualPrice: 58.98 EUR
 currency: EUR
 price: 58.98

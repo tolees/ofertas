@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TRF47ST-es NYX Professional Makeup Base de maquillaje Total Control...'
 sku: 'B07TRF47ST-es'
-tags: [  ]
 actualPrice: 6.07 EUR
 currency: EUR
 price: 6.07

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZGC5F18-es Insmart Sistema de ósmosis inversa RO Tubo Macho OD...'
 sku: 'B07ZGC5F18-es'
-tags: [  ]
 actualPrice: 2.46 EUR
 currency: EUR
 price: 2.46

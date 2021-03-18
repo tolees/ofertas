@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085FVKSMC-es Xiaomi Mi Router 4C N300 - White'
 sku: 'B085FVKSMC-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

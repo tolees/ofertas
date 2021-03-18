@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LG8TXC3-es Talisker Select Reserve - Whisky escocés puro de malta -...'
 sku: 'B07LG8TXC3-es'
-tags: [  ]
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

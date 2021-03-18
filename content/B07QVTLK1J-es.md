@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QVTLK1J-es Funko- Pop Star Wars The Rise of Skywalker-Jannah Disney...'
 sku: 'B07QVTLK1J-es'
-tags: [  ]
 actualPrice: 10.58 EUR
 currency: EUR
 price: 10.58

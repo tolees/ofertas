@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CXLGARK-es Libellud- Loony Quest: The Lost City - español Color...'
 sku: 'B01CXLGARK-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

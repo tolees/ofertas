@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDHSZ46-es Clean Pulse One - Irrigador bucal - Higiene Dental...'
 sku: 'B07BDHSZ46-es'
-tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

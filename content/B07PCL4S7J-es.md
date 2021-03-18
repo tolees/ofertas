@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PCL4S7J-es Munich Alpha 33 Zapatillas de Deporte para Mujer Azul...'
 sku: 'B07PCL4S7J-es'
-tags: [  ]
 actualPrice: 54.33 EUR
 currency: EUR
 price: 54.33

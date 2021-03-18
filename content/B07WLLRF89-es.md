@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLLRF89-es Jack & Jones JORFRANKIE Knit Crew Neck Suéter Sky Captain...'
 sku: 'B07WLLRF89-es'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

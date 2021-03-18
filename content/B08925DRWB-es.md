@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08925DRWB-es Axloie Altavoz Portátil Bluetooth 5.0 Altavoz Inalámbrico...'
 sku: 'B08925DRWB-es'
-tags: [  ]
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

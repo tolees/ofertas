@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QXKC99-es CYBEX Gold Trona evolutiva LEMO Se adapta al crecimiento...'
 sku: 'B079QXKC99-es'
-tags: [  ]
 actualPrice: 152.47 EUR
 currency: EUR
 price: 152.47

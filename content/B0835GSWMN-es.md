@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0835GSWMN-es DC Shoes Baggoff 1.5L - Riñonera - Hombre - ONE SIZE'
 sku: 'B0835GSWMN-es'
-tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

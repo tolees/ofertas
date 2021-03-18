@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I3LV2U0-es Sony MDR-EX15AP Dentro de oído Binaurale Alámbrico Azul -...'
 sku: 'B00I3LV2U0-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

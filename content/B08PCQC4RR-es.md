@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PCQC4RR-es Tbrand - Lector de CD y DVD externo USB 3.0 y USB-C lector...'
 sku: 'B08PCQC4RR-es'
-tags: [  ]
 actualPrice: 24.73 EUR
 currency: EUR
 price: 24.73

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZKYHDPB-es Fantasy Flight Games- Keyforge - Mundos en Colisión Caja...'
 sku: 'B07ZKYHDPB-es'
-tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

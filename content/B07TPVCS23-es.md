@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPVCS23-es Superdry OL Classic Raglan Ziphood Capucha Azul Rich Blue...'
 sku: 'B07TPVCS23-es'
-tags: [  ]
 actualPrice: 24.29 EUR
 currency: EUR
 price: 24.29

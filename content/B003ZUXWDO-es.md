@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003ZUXWDO-es Casio Reloj para Hombre MTD-1053D-2AVES'
 sku: 'B003ZUXWDO-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

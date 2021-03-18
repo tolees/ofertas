@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ERCBL1I-es Orlane Loción Desmaquillante para Pieles Normales - 200 gr'
 sku: 'B01ERCBL1I-es'
-tags: [  ]
 actualPrice: 9.17 EUR
 currency: EUR
 price: 9.17

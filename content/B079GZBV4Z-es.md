@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079GZBV4Z-es Philips Avent SCF334/31 - Sacaleches doble silencioso...'
 sku: 'B079GZBV4Z-es'
-tags: [  ]
 actualPrice: 144.99 EUR
 currency: EUR
 price: 144.99

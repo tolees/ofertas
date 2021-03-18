@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Y5MBCZ-es Sylvie Flirty Swimwear Beliz Trikini para Mujer Blanco...'
 sku: 'B077Y5MBCZ-es'
-tags: [  ]
 actualPrice: 8.41 EUR
 currency: EUR
 price: 8.41

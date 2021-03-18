@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSS2JYH-es Samsung SM-N960F/DS Galaxy Note9 6.4" 8 GB RAM 512GB...'
 sku: 'B07FSS2JYH-es'
-tags: [  ]
 actualPrice: 769.0 EUR
 currency: EUR
 price: 769.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MYVDQY-es SONGMICS OBN86BK Silla giratoria de Oficina Silla de...'
 sku: 'B077MYVDQY-es'
-tags: [  ]
 actualPrice: 77.59 EUR
 currency: EUR
 price: 77.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DNCZ7MT-es DANISH ENDURANCE Calcetines de Lana Merino 3 Pares Negro...'
 sku: 'B07DNCZ7MT-es'
-tags: [  ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

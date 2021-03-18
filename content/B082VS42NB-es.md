@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VS42NB-es Vamvam 15 - Funda Laptop Negro Mostaza'
 sku: 'B082VS42NB-es'
-tags: [  ]
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

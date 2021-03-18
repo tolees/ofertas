@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L6L44NU-es Logitech G213 Prodigy Teclado Gaming Retroiluminación RGB...'
 sku: 'B01L6L44NU-es'
-tags: [  ]
 actualPrice: 58.15 EUR
 currency: EUR
 price: 58.15

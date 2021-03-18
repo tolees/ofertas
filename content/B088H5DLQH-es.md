@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088H5DLQH-es ANWIKE Cámara Web con micrófono Dual cámara Web Full HD...'
 sku: 'B088H5DLQH-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

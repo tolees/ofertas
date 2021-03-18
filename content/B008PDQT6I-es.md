@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008PDQT6I-es Casio Collection B640WC-5AEF Reloj Digital Unisex Acero...'
 sku: 'B008PDQT6I-es'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073HBZRZ4-es Maybelline New York - Superstay Matte Ink Pintalabios Mate...'
 sku: 'B073HBZRZ4-es'
-tags: [  ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

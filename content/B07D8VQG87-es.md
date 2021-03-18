@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D8VQG87-es Rimmel London Maxi Blush Colorete Tono 6 Exposed - 9 g'
 sku: 'B07D8VQG87-es'
-tags: [  ]
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

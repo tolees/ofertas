@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GT4Z3C7-es Sony SRSXB01W Altavoz Portátil Compacto Bluetooth Extra...'
 sku: 'B07GT4Z3C7-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

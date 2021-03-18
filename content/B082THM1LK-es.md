@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082THM1LK-es Lacoste Esparre Chukka0320 1 CMA Zapatillas Hombre Dk BRW...'
 sku: 'B082THM1LK-es'
-tags: [  ]
 actualPrice: 91.29 EUR
 currency: EUR
 price: 91.29

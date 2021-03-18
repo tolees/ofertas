@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0728C7KND-es FLIR ONE cámara térmica para iOS'
 sku: 'B0728C7KND-es'
-tags: [  ]
 actualPrice: 163.55 EUR
 currency: EUR
 price: 163.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MGRAC30-es HP Essential Top Load 15.6" - Funda bandolera para...'
 sku: 'B00MGRAC30-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

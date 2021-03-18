@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GT99QN-es HAUPTSTADTKOFFER - BRITZ - Equipaje de Mano con...'
 sku: 'B077GT99QN-es'
-tags: [  ]
 actualPrice: 107.95 EUR
 currency: EUR
 price: 107.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CHK96N5-es SYOSIN Banda de Resistencia Pull Up Bands de látex Premium...'
 sku: 'B08CHK96N5-es'
-tags: [  ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

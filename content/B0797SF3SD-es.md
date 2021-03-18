@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0797SF3SD-es HOVNEE Regleta Vertical Torre Enchufes proteccion...'
 sku: 'B0797SF3SD-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

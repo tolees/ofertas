@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07THW4ZZW-es Lacoste MH6270 Pantalones Cortos Rojo Rouge/Marine Large...'
 sku: 'B07THW4ZZW-es'
-tags: [  ]
 actualPrice: 41.21 EUR
 currency: EUR
 price: 41.21

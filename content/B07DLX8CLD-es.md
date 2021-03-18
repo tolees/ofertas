@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLX8CLD-es Samsonite Pro-DLX 5 - Wheeled Business Case 15.6"...'
 sku: 'B07DLX8CLD-es'
-tags: [  ]
 actualPrice: 211.77 EUR
 currency: EUR
 price: 211.77

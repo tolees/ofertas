@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088CGFKRT-es Dove Desodorante Roll On Sensitive 0% Aluminio 50ml Pack de 6'
 sku: 'B088CGFKRT-es'
-tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

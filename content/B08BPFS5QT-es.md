@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BPFS5QT-es MSI Creator 15 A10SGS-062ES - Ordenador portátil de 15.6"...'
 sku: 'B08BPFS5QT-es'
-tags: [  ]
 actualPrice: 2899.99 EUR
 currency: EUR
 price: 2899.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DCR1DCP-es WMF 777166380 Olla baja de 16 cm 1.9 litros Cromargan...'
 sku: 'B07DCR1DCP-es'
-tags: [  ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

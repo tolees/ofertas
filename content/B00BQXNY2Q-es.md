@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BQXNY2Q-es Taurus TodoPan - Tostadora para cualquier tipo de pan...'
 sku: 'B00BQXNY2Q-es'
-tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

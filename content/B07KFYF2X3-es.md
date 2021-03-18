@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFYF2X3-es PUMA Cilia Zapatillas para Mujer Black-Vineyard Wine-...'
 sku: 'B07KFYF2X3-es'
-tags: [  ]
 actualPrice: 33.78 EUR
 currency: EUR
 price: 33.78

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GW9TJYV-es Caler ® Funda Compatible/Reemplazo para Xiaomi MI A2 / 6X...'
 sku: 'B07GW9TJYV-es'
-tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

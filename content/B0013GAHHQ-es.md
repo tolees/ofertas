@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013GAHHQ-es Victory Endurance Iso Energy Narnja Mandarina 900g. Rápida...'
 sku: 'B0013GAHHQ-es'
-tags: [ 'Barras y bebidas nutritivas en medicamentos, remedios y suplementos dietéticos','Bebidas de resistencia y energía','Dieta y nutrición en medicamentos, remedios y suplementos dietéticos','Salud y cuidado personal','victory endurance', ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

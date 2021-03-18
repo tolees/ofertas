@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01F3H6W4C-es GHB Cortapelo para Perro Esquiladora Eléctrica Dog Clipper...'
 sku: 'B01F3H6W4C-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYJQWJG-es Hurley M Jammer Stripe L/S'
 sku: 'B08GYJQWJG-es'
-tags: [  ]
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

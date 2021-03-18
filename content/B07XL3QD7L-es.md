@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XL3QD7L-es Huawei Watch GT 2 Sport - Smartwatch con Caja de 42 mm...'
 sku: 'B07XL3QD7L-es'
-tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

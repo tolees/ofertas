@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC91KYR-es Cat Footwear Overview Botas para Hombre Marrón Sudan Brown...'
 sku: 'B07MC91KYR-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

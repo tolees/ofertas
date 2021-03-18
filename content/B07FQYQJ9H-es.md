@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FQYQJ9H-es Clarks Un Aldric Step Mocasines Hombre Negro Black...'
 sku: 'B07FQYQJ9H-es'
-tags: [  ]
 actualPrice: 53.45 EUR
 currency: EUR
 price: 53.45

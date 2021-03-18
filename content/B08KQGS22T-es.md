@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KQGS22T-es Bosch Professional 18V System Sierra sable a batería GSA...'
 sku: 'B08KQGS22T-es'
-tags: [  ]
 actualPrice: 215.99 EUR
 currency: EUR
 price: 215.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAC6C0W-es Sanex Zero% - Gel de ducha 600 ml'
 sku: 'B00XAC6C0W-es'
-tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

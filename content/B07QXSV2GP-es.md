@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QXSV2GP-es Sony WI-C310 - ¿Muchas Llamadas y videollamadas Desde...'
 sku: 'B07QXSV2GP-es'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

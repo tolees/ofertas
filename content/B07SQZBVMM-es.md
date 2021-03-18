@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQZBVMM-es Levi s - LEVIS FOOTWEAR AND ACCESSORIES Mid Batwing...'
 sku: 'B07SQZBVMM-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

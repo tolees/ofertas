@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00O4B1QKE-es Zotal Parasital Blíster con 4 Pipetas de 5 ml para Perros...'
 sku: 'B00O4B1QKE-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

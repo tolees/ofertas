@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F9ZBD21-es Joma Caballero Chandal Capucha Essential Hombre...'
 sku: 'B07F9ZBD21-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

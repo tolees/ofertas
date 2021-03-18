@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XCY3Y2-es Lacoste Reloj Análogo clásico para Hombre de Cuarzo con...'
 sku: 'B073XCY3Y2-es'
-tags: [  ]
 actualPrice: 63.25 EUR
 currency: EUR
 price: 63.25

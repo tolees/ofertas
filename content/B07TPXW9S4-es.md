@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPXW9S4-es K-Swiss Court Winston Zapatillas para Hombre Blanco...'
 sku: 'B07TPXW9S4-es'
-tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH2ZQJG-es PUMA ftblNXT Graphic Shorts Pantalones Cortos Hombre Verde...'
 sku: 'B07JH2ZQJG-es'
-tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

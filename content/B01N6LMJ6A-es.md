@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N6LMJ6A-es Durex Naturals H2O Lubricante Base Agua 100% natural sin...'
 sku: 'B01N6LMJ6A-es'
-tags: [  ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

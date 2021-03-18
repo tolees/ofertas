@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FDRFS20-es Lékué Spanish Omelette - Molde para tortilla española...'
 sku: 'B00FDRFS20-es'
-tags: [  ]
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

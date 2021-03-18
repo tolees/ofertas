@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001GDDZE8-es Valira 6614 Termo para sólidos con 2 contenedores...'
 sku: 'B001GDDZE8-es'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

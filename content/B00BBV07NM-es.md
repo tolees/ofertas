@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BBV07NM-es Conceptronic CNBSLOCK15 - Candado de seguridad para...'
 sku: 'B00BBV07NM-es'
-tags: [  ]
 actualPrice: 3.8 EUR
 currency: EUR
 price: 3.8

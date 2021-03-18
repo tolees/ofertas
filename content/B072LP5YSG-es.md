@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072LP5YSG-es Under Armour Challenger II Knit Warm-Up Chándal Hombre...'
 sku: 'B072LP5YSG-es'
-tags: [  ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YONKZ72-es Rankie Cable Mini DisplayPort Mini DP Thunderbolt a HDMI...'
 sku: 'B00YONKZ72-es'
-tags: [  ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

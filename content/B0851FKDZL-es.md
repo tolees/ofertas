@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0851FKDZL-es Funda Universal para Tableta portátil Funda Ultra Suave...'
 sku: 'B0851FKDZL-es'
-tags: [  ]
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

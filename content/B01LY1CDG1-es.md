@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY1CDG1-es Marcilla Café Grano Gran Aroma Mezcla - 1 Kg'
 sku: 'B01LY1CDG1-es'
-tags: [  ]
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

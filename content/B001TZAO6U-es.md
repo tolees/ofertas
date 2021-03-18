@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001TZAO6U-es Chivas Regal Royal Salute Blended Scotch Whisky - Whisky...'
 sku: 'B001TZAO6U-es'
-tags: [  ]
 actualPrice: 85.6 EUR
 currency: EUR
 price: 85.6

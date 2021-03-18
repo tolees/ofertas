@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SV5O9CQ-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B00SV5O9CQ-es'
-tags: [  ]
 actualPrice: 159 EUR
 currency: EUR
 price: 159

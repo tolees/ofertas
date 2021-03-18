@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071LNL7KG-es Badland - Sine Mora EX'
 sku: 'B071LNL7KG-es'
-tags: [  ]
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

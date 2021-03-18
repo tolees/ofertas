@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRSY4SN-es Paraguas de Viaje automático Plegable Compacto Paraguas...'
 sku: 'B07SRSY4SN-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

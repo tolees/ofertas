@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WRQXS4-es Scratch Art Sirena LANMOK 48hojas Papel de Rascar Mundo...'
 sku: 'B082WRQXS4-es'
-tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

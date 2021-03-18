@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JBW6JNN-es Markwins - The Color Workshop TCW - Estuche de viaje para...'
 sku: 'B07JBW6JNN-es'
-tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

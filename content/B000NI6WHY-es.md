@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NI6WHY-es Solgar Omega 3 Triple concentración Apoyo al Cuidado del...'
 sku: 'B000NI6WHY-es'
-tags: [  ]
 actualPrice: 35.6 EUR
 currency: EUR
 price: 35.6

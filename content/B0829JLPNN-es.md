@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829JLPNN-es World of Warcraft Nueva - Edición de jugador este juego...'
 sku: 'B0829JLPNN-es'
-tags: [  ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

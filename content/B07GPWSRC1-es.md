@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GPWSRC1-es Gearbox Publishing - Hello Neighbor'
 sku: 'B07GPWSRC1-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

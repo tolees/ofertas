@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MCPR8NH-es Disney Traditions Figura de Jazmin y el tigre Raja de"...'
 sku: 'B07MCPR8NH-es'
-tags: [  ]
 actualPrice: 36.72 EUR
 currency: EUR
 price: 36.72

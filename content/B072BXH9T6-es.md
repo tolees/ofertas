@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072BXH9T6-es Under Armour UA Men s Webbing 2.0 Belt cinturón para...'
 sku: 'B072BXH9T6-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

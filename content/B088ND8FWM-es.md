@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088ND8FWM-es HANMATEK DM10 Multímetro Digital Portátil con Pantalla de...'
 sku: 'B088ND8FWM-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KKZKK2R-es s.Oliver Reloj Analógico para Mujer de Cuarzo con Correa...'
 sku: 'B07KKZKK2R-es'
-tags: [  ]
 actualPrice: 41.79 EUR
 currency: EUR
 price: 41.79

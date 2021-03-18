@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBVQF92-es PUMA Flyer Modern Zapatillas de Running Unisex-Adulto...'
 sku: 'B07SBVQF92-es'
-tags: [  ]
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

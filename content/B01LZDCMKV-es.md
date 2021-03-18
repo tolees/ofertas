@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZDCMKV-es MisterCraft D de 216 - Maqueta de devoitine D de 520 cl'
 sku: 'B01LZDCMKV-es'
-tags: [  ]
 actualPrice: 13.02 EUR
 currency: EUR
 price: 13.02

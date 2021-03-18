@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H39BLHP-es Panasonic ER-GN300K503 Cortapelos Nariz Hombre Recortador...'
 sku: 'B07H39BLHP-es'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PU8X9V4-es Homyl Adaptador Soporte de Extension Vastago Accesorio de...'
 sku: 'B00PU8X9V4-es'
-tags: [  ]
 actualPrice: 21.43 EUR
 currency: EUR
 price: 21.43

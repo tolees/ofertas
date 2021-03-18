@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZDC1PGV-es IKOHS ION CERAMIC COMPACT - Secador de Pelo Iónico por...'
 sku: 'B07ZDC1PGV-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

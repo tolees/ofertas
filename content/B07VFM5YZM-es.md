@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFM5YZM-es [2 Pack] UniqueMe Protector de Pantalla para Nintendo...'
 sku: 'B07VFM5YZM-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

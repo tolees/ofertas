@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWZM8GF-es Cubierta de Enfermería Lactancia Materna Bufanda para...'
 sku: 'B07RWZM8GF-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

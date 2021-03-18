@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KCBM9N-es Camper Damen Katie Mary Jane Halbschuhe Schwarz Black 1 40 EU'
 sku: 'B079KCBM9N-es'
-tags: [  ]
 actualPrice: 65.85 EUR
 currency: EUR
 price: 65.85

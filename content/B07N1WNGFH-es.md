@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N1WNGFH-es Seiko Reloj Analógico para Unisex Adultos de Cuarzo con...'
 sku: 'B07N1WNGFH-es'
-tags: [  ]
 actualPrice: 137.38 EUR
 currency: EUR
 price: 137.38

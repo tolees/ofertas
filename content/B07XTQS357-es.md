@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XTQS357-es Huawei Band 4e - Pulsera de actividad de elegante diseño...'
 sku: 'B07XTQS357-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BY5RYHM-es Samsonite Termo Young Spinner M Maleta 70 cm 69 L Negro Black'
 sku: 'B00BY5RYHM-es'
-tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

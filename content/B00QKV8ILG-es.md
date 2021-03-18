@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QKV8ILG-es Garza Sonoran - Calefactor cerámico de diseño vanguardista...'
 sku: 'B00QKV8ILG-es'
-tags: [ 'garza', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

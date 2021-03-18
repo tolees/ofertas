@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ESA0W3C-es Import Usa - Exist Archive: The Other Side Of The Sky -...'
 sku: 'B01ESA0W3C-es'
-tags: [  ]
 actualPrice: 24.56 EUR
 currency: EUR
 price: 24.56

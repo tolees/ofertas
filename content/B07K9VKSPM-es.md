@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K9VKSPM-es Powerextra Sony NP-FZ100 2 Baterias con Carcador Pantalla...'
 sku: 'B07K9VKSPM-es'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

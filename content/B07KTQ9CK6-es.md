@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTQ9CK6-es Tommy Hilfiger Reloj de Pulsera 1782055'
 sku: 'B07KTQ9CK6-es'
-tags: [  ]
 actualPrice: 98.0 EUR
 currency: EUR
 price: 98.0

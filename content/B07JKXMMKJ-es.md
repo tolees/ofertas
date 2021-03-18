@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKXMMKJ-es XINYUNEW Funda Huawei Mate 20 Lite 360 Grados...'
 sku: 'B07JKXMMKJ-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

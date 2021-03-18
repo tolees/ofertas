@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073K14CVB-es SanDisk Ultra Tarjeta de memoria microSDHC con adaptador...'
 sku: 'B073K14CVB-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RLP5NCN-es Proyector YABER 7000 Lúmenes Proyector Cine en Casa...'
 sku: 'B07RLP5NCN-es'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

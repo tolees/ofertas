@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P88SX8Q-es SAMSUNG - A50 2019 .'
 sku: 'B07P88SX8Q-es'
-tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

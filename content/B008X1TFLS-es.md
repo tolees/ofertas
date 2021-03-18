@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008X1TFLS-es Selene Sujetador Deportivo Confort Negro 95B'
 sku: 'B008X1TFLS-es'
-tags: [  ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

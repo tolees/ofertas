@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CV3L4ZL-es INPHIC Raton inalámbrico portátil Ultra Delgado 1600DPI...'
 sku: 'B08CV3L4ZL-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

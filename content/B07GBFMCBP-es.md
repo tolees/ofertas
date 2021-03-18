@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBFMCBP-es Casio G-SHOCK Reloj Digital Contador de pasos Sensor de...'
 sku: 'B07GBFMCBP-es'
-tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

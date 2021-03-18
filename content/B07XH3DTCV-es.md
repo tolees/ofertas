@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XH3DTCV-es Esprit 109ee1i003 suéter Gris Medium Grey 5 039 Small para...'
 sku: 'B07XH3DTCV-es'
-tags: [  ]
 actualPrice: 31.47 EUR
 currency: EUR
 price: 31.47

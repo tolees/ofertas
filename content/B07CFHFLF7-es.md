@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CFHFLF7-es Jack & Jones Jjebasic Knit V-Neck Noos suéter Gris Dark...'
 sku: 'B07CFHFLF7-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EJXDFEW-es Skagen Reloj de Pulsera SKW2076'
 sku: 'B00EJXDFEW-es'
-tags: [  ]
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

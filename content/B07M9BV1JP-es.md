@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M9BV1JP-es Mula Blu-Ray [Blu-ray]'
 sku: 'B07M9BV1JP-es'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

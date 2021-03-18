@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003TOGVWA-es TRIXIE Pato con Sonido original Látex 20 cm Perro'
 sku: 'B003TOGVWA-es'
-tags: [  ]
 actualPrice: 5.03 EUR
 currency: EUR
 price: 5.03

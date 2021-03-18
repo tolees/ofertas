@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRLDH1Z-es New Balance Wsx90tv1 Zapatillas para Mujer Azul Blue Blue...'
 sku: 'B07KRLDH1Z-es'
-tags: [  ]
 actualPrice: 30.45 EUR
 currency: EUR
 price: 30.45

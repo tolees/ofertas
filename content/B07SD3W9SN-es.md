@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SD3W9SN-es Adidas Strutter Zapatillas Deportivas Fitness y Ejercicio...'
 sku: 'B07SD3W9SN-es'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

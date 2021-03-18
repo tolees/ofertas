@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085KXV97J-es AETKFO Guirnalda Luces Exterior Cadena de Luces G40...'
 sku: 'B085KXV97J-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

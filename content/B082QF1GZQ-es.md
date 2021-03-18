@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082QF1GZQ-es adidas Duramo SL Zapatillas de Running Hombre Grey...'
 sku: 'B082QF1GZQ-es'
-tags: [  ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

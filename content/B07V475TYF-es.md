@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V475TYF-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07V475TYF-es'
-tags: [  ]
 actualPrice: 174.0 EUR
 currency: EUR
 price: 174.0

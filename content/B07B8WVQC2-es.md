@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8WVQC2-es PURINA ONE Bifensis Pienso para Gatos Esterilizados Salmón...'
 sku: 'B07B8WVQC2-es'
-tags: [  ]
 actualPrice: 32.51 EUR
 currency: EUR
 price: 32.51

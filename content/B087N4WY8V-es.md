@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087N4WY8V-es DJI Mavic Air Combo 2 Pack Drone Quadcopter UAV con Cámara...'
 sku: 'B087N4WY8V-es'
-tags: [  ]
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

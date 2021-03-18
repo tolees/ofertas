@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGC33P4-es Nike Pico 5 TDV Unisex-Baby niños White White Pure...'
 sku: 'B07VGC33P4-es'
-tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

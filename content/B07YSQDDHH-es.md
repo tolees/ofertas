@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YSQDDHH-es Di4 SteamClean Power 1050W Limpiador a Vapor 3 Bares de...'
 sku: 'B07YSQDDHH-es'
-tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

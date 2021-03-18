@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009IGJXAK-es Revlon Super Lustrous Pintalabios Hidratante 030 Pink Pearl'
 sku: 'B009IGJXAK-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

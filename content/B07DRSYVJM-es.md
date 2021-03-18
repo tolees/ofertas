@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRSYVJM-es Adidas Duramo 9 K Zapatillas de Deporte Unisex Adulto Azul...'
 sku: 'B07DRSYVJM-es'
-tags: [  ]
 actualPrice: 28.01 EUR
 currency: EUR
 price: 28.01

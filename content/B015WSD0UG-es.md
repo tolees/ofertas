@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015WSD0UG-es Bourjois Boite Ronde Sombra de ojos Tono 1 Ingénude - 17 gr.'
 sku: 'B015WSD0UG-es'
-tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GJK03BU-es Aodoor Microfibra De Coche 2 Unidades Chenille Limpieza...'
 sku: 'B01GJK03BU-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

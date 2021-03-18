@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000XIXUJW-es Bosch 2 608 628 346 - Fresas de enrasar - 8 mm D1 9 5 mm L...'
 sku: 'B000XIXUJW-es'
-tags: [  ]
 actualPrice: 20.44 EUR
 currency: EUR
 price: 20.44

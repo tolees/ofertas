@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DGDBHPB-es DBG - DIY 5D Kit de Pintura de Diamante DIY 5D diamond...'
 sku: 'B07DGDBHPB-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

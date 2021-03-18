@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HR7BYBG-es Gaatpot Zapatos Invierno Botas Forradas de Nieve...'
 sku: 'B07HR7BYBG-es'
-tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

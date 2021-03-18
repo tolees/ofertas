@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N1SSX6D-es Columbia Fairbanks Omni-Heat Botas de invierno para hombre...'
 sku: 'B01N1SSX6D-es'
-tags: [  ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

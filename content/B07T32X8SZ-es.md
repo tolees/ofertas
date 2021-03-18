@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T32X8SZ-es Cámaras bala 700TVL AHD Cámara impermeable aire libre...'
 sku: 'B07T32X8SZ-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

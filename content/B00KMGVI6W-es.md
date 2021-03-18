@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KMGVI6W-es Calvin Klein Modern Cotton-Thong Tanga Grau Grey Heather...'
 sku: 'B00KMGVI6W-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

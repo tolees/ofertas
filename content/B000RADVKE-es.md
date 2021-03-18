@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000RADVKE-es Peugeot 23522 Paris - Molinillo de pimienta 30 cm'
 sku: 'B000RADVKE-es'
-tags: [  ]
 actualPrice: 31.19 EUR
 currency: EUR
 price: 31.19

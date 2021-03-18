@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089K2DYGY-es Anozer 10.2 LED Anillo de luz con Trípode Metal de...'
 sku: 'B089K2DYGY-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

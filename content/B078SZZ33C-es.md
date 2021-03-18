@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SZZ33C-es Clarks Brixby Shore Sandalia con Pulsera para Hombre...'
 sku: 'B078SZZ33C-es'
-tags: [  ]
 actualPrice: 37.13 EUR
 currency: EUR
 price: 37.13

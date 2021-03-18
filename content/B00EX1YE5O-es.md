@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EX1YE5O-es GREAT ART póster Rojo y Azul - Steve Jobs con Letras Jobs...'
 sku: 'B00EX1YE5O-es'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

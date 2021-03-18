@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089LK5PJN-es WAVLINK USB 3.0 Estación de Acoplamiento Universal para...'
 sku: 'B089LK5PJN-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

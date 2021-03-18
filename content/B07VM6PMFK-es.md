@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VM6PMFK-es HOMPO Botella de Agua de Acero Inoxidable Botella Termica...'
 sku: 'B07VM6PMFK-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

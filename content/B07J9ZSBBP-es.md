@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J9ZSBBP-es World of Warcraft: Battle For Azeroth - Standard | Código...'
 sku: 'B07J9ZSBBP-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

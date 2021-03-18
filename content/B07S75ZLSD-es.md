@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S75ZLSD-es American Tourister Sonicsurfer Lifestyle - Spinner...'
 sku: 'B07S75ZLSD-es'
-tags: [  ]
 actualPrice: 66.93 EUR
 currency: EUR
 price: 66.93

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073TVCGLC-es didisky 2 unidades LED linterna 5 modos enfoque ajustable...'
 sku: 'B073TVCGLC-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

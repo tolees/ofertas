@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRZCGVS-es New Balance 373 Zapatillas para Hombre Azul Navy Navy 37 EU'
 sku: 'B07PRZCGVS-es'
-tags: [  ]
 actualPrice: 23.57 EUR
 currency: EUR
 price: 23.57

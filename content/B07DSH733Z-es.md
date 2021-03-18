@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DSH733Z-es L Oreal Paris Make-up Designer - L Oréal Paris Make-up...'
 sku: 'B07DSH733Z-es'
-tags: [  ]
 actualPrice: 9.51 EUR
 currency: EUR
 price: 9.51

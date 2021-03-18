@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVJ3QLQ-es Kaisi Kit Herramienta movil Destornillador Apertura de...'
 sku: 'B07NVJ3QLQ-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLBQPGZ-es Chernobyl Miniserie Blu-Ray [Blu-ray]'
 sku: 'B07WLBQPGZ-es'
-tags: [  ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

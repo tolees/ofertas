@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NQ0KW5E-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B00NQ0KW5E-es'
-tags: [  ]
 actualPrice: 208.6 EUR
 currency: EUR
 price: 208.6

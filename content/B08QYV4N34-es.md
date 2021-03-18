@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QYV4N34-es Wondee Global Brands Services Funda de portátil de 15 6"...'
 sku: 'B08QYV4N34-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

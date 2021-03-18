@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JXVKHBK-es DAM. DMX195BKCorrea Cerámica Iwatch 38Mm / 40Mm. Cierre De...'
 sku: 'B07JXVKHBK-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

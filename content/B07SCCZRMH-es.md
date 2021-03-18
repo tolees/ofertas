@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCCZRMH-es HUGO Arti/hesten193 Traje Negro Charcoal 10 46 Talla del...'
 sku: 'B07SCCZRMH-es'
-tags: [  ]
 actualPrice: 230.71 EUR
 currency: EUR
 price: 230.71

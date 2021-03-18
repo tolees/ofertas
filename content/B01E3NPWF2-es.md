@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E3NPWF2-es Chicco Wellbeing - Set de regalo con biberón chupete y...'
 sku: 'B01E3NPWF2-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

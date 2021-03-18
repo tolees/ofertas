@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000GJN8KY-es Solgar Fórmula Estética suplemento alimenticio paquete de...'
 sku: 'B000GJN8KY-es'
-tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

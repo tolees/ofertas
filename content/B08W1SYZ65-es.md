@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W1SYZ65-es Aewsdavvr - Auriculares Bluetooth Sonido Estéreo 3D...'
 sku: 'B08W1SYZ65-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

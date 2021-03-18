@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R6CTHNK-es CRAZYCHIC - Mascarilla FFP2 Negra Homologada Certificada...'
 sku: 'B08R6CTHNK-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

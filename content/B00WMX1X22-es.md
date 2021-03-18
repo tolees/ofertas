@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WMX1X22-es Reebok Classic Leather - Zapatillas de cuero para hombre...'
 sku: 'B00WMX1X22-es'
-tags: [  ]
 actualPrice: 35.78 EUR
 currency: EUR
 price: 35.78

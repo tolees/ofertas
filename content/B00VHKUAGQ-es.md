@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VHKUAGQ-es King Cock Pene de 22.56 cm Color Natural - 100 gr'
 sku: 'B00VHKUAGQ-es'
-tags: [  ]
 actualPrice: 17.01 EUR
 currency: EUR
 price: 17.01

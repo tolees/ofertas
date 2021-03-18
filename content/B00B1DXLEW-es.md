@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B1DXLEW-es aiino italian ideas - Aiino AIMBR13M-CLR - Adhesivo para...'
 sku: 'B00B1DXLEW-es'
-tags: [  ]
 actualPrice: 18.71 EUR
 currency: EUR
 price: 18.71

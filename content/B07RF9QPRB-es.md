@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RF9QPRB-es Weta- Figura Coleccionable Señor de los Nazgûl Color...'
 sku: 'B07RF9QPRB-es'
-tags: [  ]
 actualPrice: 32.92 EUR
 currency: EUR
 price: 32.92

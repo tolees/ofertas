@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0811ZHX9L-es Capitán América -Riñonera TPU'
 sku: 'B0811ZHX9L-es'
-tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

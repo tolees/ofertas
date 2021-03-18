@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7YRW91-es Joyspot Cuchillos Cocina Patrón de Damasco Cuchillo Cocina...'
 sku: 'B07P7YRW91-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

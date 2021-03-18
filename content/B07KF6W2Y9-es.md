@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF6W2Y9-es NACATIN Esterilla Inflable Acampada Colchón de Aire con...'
 sku: 'B07KF6W2Y9-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZKKBRG-es Mini altavoz portátil con Bluetooth Con función altavoz 6...'
 sku: 'B01LZKKBRG-es'
-tags: [  ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

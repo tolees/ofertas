@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NF7T4DP-es GREAT ART Cartel Motivación Negro - Set 16 Piezas - Éxito...'
 sku: 'B08NF7T4DP-es'
-tags: [  ]
 actualPrice: 58.9 EUR
 currency: EUR
 price: 58.9

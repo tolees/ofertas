@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RR2SRND-es Be Natural Juego de champú y acondicionador - 3 Unidades'
 sku: 'B07RR2SRND-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

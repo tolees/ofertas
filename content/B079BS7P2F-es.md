@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079BS7P2F-es Jack & Jones Jjebasic Polo SS Noos Negro Large para Hombre'
 sku: 'B079BS7P2F-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

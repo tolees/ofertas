@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2MSLW7-es Auriculares urBeats3 con conector Lightning - Amarillo'
 sku: 'B07K2MSLW7-es'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZKTXL6Z-es Caroline - The Slow Rush'
 sku: 'B07ZKTXL6Z-es'
-tags: [  ]
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073JWXGNT-es SanDisk Ultra Tarjeta de memoria microSDHC con adaptador...'
 sku: 'B073JWXGNT-es'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

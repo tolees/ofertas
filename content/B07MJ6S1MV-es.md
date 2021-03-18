@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MJ6S1MV-es Cecotec Power Espresso 20 Professionale Cafetera. 20 Bares...'
 sku: 'B07MJ6S1MV-es'
-tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

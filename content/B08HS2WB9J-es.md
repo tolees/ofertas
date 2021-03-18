@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HS2WB9J-es LIGHTAILING Conjunto de Luces Marvel Batalla en la Torre...'
 sku: 'B08HS2WB9J-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4P1VXF-es Superga 2750 COTU Classic Zapatillas Unisex Verde Green...'
 sku: 'B07N4P1VXF-es'
-tags: [  ]
 actualPrice: 18.52 EUR
 currency: EUR
 price: 18.52

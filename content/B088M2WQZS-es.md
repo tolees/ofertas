@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088M2WQZS-es Suhctup Funda Compatible con Xiaomi Mi CC9 Pro...'
 sku: 'B088M2WQZS-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797KXYJF-es Smartphone Resistentes 4G Blackview Bv8000Pro IP68 Outdoor...'
 sku: 'B0797KXYJF-es'
-tags: [  ]
 actualPrice: 183.29 EUR
 currency: EUR
 price: 183.29

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GQ5JD96-es Garmin Vívofit Jr. 2 - Monitor de actividad para niños...'
 sku: 'B07GQ5JD96-es'
-tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

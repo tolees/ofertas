@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHQSTC9-es AICOOK Espumador de Leche 3 Vaporizador de Leche Eléctrico...'
 sku: 'B07DHQSTC9-es'
-tags: [ 'Batidoras espumadoras de leche automáticas','Espumadores de leche','Hogar y cocina','Utensilios para café y té','aicook', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

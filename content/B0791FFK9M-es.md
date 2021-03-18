@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0791FFK9M-es King internacional acero inoxidable redondo Rado salero y...'
 sku: 'B0791FFK9M-es'
-tags: [  ]
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

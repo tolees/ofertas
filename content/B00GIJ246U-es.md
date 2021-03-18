@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GIJ246U-es Rimmel London Nail Nurse Base & Top Coat 5 en 1...'
 sku: 'B00GIJ246U-es'
-tags: [  ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

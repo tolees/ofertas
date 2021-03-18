@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BH9PYJ-es Oihxse Cristal Compatible con Samsung Galaxy J4 Funda...'
 sku: 'B088BH9PYJ-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MB488LW-es Gb Gold Pockit + All-Terrain 619000209 Silla de Paseo 6...'
 sku: 'B07MB488LW-es'
-tags: [  ]
 actualPrice: 147.35 EUR
 currency: EUR
 price: 147.35

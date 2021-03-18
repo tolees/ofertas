@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P4H9W2Y-es Superdry Core Sport Graphic tee Top de Deporte Blanco...'
 sku: 'B07P4H9W2Y-es'
-tags: [  ]
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

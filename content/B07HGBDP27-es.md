@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGBDP27-es Neptune Juego De Tronos - Espada Réplica Aguja de Arya...'
 sku: 'B07HGBDP27-es'
-tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

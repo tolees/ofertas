@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813BB2SX-es Olycism Compatible para Xiaomi Mi Note 10 Protector de...'
 sku: 'B0813BB2SX-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

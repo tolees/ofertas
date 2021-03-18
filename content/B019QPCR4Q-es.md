@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019QPCR4Q-es Mom Licores 700ml'
 sku: 'B019QPCR4Q-es'
-tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FWBC1X-es Casio EDIFICE Reloj en caja sólida 10 BAR Azul para Hombre...'
 sku: 'B079FWBC1X-es'
-tags: [ 'casio', ]
 actualPrice: 58.84 EUR
 currency: EUR
 price: 58.84

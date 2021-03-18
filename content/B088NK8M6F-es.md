@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088NK8M6F-es Tela algodon para coser 7 PCS DIY Floral Telas Patchwork...'
 sku: 'B088NK8M6F-es'
-tags: [  ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

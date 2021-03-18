@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNRRSX9-es Indoor Copa'
 sku: 'B07SNRRSX9-es'
-tags: [  ]
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

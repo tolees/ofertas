@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00RE8DBQQ-es Emporio Armani Reloj Analogico para Hombre de Cuarzo con...'
 sku: 'B00RE8DBQQ-es'
-tags: [  ]
 actualPrice: 169.84 EUR
 currency: EUR
 price: 169.84

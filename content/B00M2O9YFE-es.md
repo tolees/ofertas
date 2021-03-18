@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00M2O9YFE-es Cybex Silver Solution X2-Fix - Silla de coche con y sin...'
 sku: 'B00M2O9YFE-es'
-tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

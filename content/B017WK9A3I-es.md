@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017WK9A3I-es TULIPA?N NEGRO - Tulipán Negro Gel De Baño Fresa y Nata...'
 sku: 'B017WK9A3I-es'
-tags: [  ]
 actualPrice: 1.29 EUR
 currency: EUR
 price: 1.29

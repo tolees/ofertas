@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087LVYCBW-es NOCOEX - USCAMEL Prismáticos 10x50 Campo de visión Ultra...'
 sku: 'B087LVYCBW-es'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

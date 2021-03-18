@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJKNZTD-es Yunteng Precisión Cosido y Durable Dragonfly Oil Custom...'
 sku: 'B07PJKNZTD-es'
-tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

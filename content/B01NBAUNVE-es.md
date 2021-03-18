@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NBAUNVE-es Asics Noosa Ff Zapatillas de deporte Mujer Multicolor...'
 sku: 'B01NBAUNVE-es'
-tags: [  ]
 actualPrice: 71.82 EUR
 currency: EUR
 price: 71.82

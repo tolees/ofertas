@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0792TG1HQ-es Vileda Total Reflect - Funda de Planchar Metálica Refleja...'
 sku: 'B0792TG1HQ-es'
-tags: [  ]
 actualPrice: 13.96 EUR
 currency: EUR
 price: 13.96

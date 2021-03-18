@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PVQF41X-es Under Armour Men’s UA Blitzing 3.0 Cap Gorra Cómoda y...'
 sku: 'B07PVQF41X-es'
-tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

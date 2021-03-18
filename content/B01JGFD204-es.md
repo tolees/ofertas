@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JGFD204-es Bourjois Blur The Lines Corrector Tono 01 Ivory - 28 gr.'
 sku: 'B01JGFD204-es'
-tags: [  ]
 actualPrice: 2.1 EUR
 currency: EUR
 price: 2.1

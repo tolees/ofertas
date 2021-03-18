@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HR36NHX-es MARCA - Cepillo de dientes eléctrico cepillo de dientes...'
 sku: 'B08HR36NHX-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

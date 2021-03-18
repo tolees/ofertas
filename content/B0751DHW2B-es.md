@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0751DHW2B-es Urvoix - Funda para Samsung Galaxy S8 función atril piel...'
 sku: 'B0751DHW2B-es'
-tags: [  ]
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

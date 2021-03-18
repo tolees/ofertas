@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MR2R2C2-es GOTOTOP Mini Calefactor Eléctrico Calentador de Ventilador...'
 sku: 'B07MR2R2C2-es'
-tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

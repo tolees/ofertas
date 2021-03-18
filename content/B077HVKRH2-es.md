@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HVKRH2-es G-STAR RAW Rovulc Denim Mid Sneakers Zapatillas para Mujer...'
 sku: 'B077HVKRH2-es'
-tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

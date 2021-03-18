@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0157D1BRU-es Clatronic ST 3629 Sandwichera para 4 Sándwiches 1200 W 1...'
 sku: 'B0157D1BRU-es'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

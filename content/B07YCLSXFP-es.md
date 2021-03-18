@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCLSXFP-es Windgoo Patinete Eléctrico Plegable E Scooter hasta 25...'
 sku: 'B07YCLSXFP-es'
-tags: [  ]
 actualPrice: 259.98 EUR
 currency: EUR
 price: 259.98

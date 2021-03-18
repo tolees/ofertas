@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y1RYLPR-es Toallas de Baño para Bebe Eccomum Toallas Bebe con Capucha...'
 sku: 'B07Y1RYLPR-es'
-tags: [  ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

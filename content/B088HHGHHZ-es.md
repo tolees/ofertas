@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088HHGHHZ-es Baugger Medidor de dedo digital Oxímetro de pulso Pantalla...'
 sku: 'B088HHGHHZ-es'
-tags: [  ]
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

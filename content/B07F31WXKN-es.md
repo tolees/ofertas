@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F31WXKN-es PUMA Cilia Zapatillas Mujer Negro Black/White/G...'
 sku: 'B07F31WXKN-es'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

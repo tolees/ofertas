@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MU3CFHP-es Kärcher K2 Full Control - Hidrolimpiadora de alta presión...'
 sku: 'B01MU3CFHP-es'
-tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

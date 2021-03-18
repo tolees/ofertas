@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078STRHBX-es SanDisk Extreme SSD portátil 1TB - hasta 550MB/s Velocidad...'
 sku: 'B078STRHBX-es'
-tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

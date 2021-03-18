@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MQOQND6-es PUMA Basket Heart Patent Wn S Zapatillas Mujer Blanco...'
 sku: 'B01MQOQND6-es'
-tags: [  ]
 actualPrice: 52.2 EUR
 currency: EUR
 price: 52.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F9HPMW9-es GREAT ART Foto Mural Imagen Panoramica de los Alpes 336 x...'
 sku: 'B07F9HPMW9-es'
-tags: [  ]
 actualPrice: 54.8 EUR
 currency: EUR
 price: 54.8

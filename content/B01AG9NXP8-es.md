@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AG9NXP8-es ZTOP 2 Pack USB Tipo A Macho a PS/2 Hembra para Teclado...'
 sku: 'B01AG9NXP8-es'
-tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

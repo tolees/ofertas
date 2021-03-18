@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9CZHLR-es ROYAL SLEEP Colchón viscoelástico 90x190 de máxima Calidad...'
 sku: 'B07L9CZHLR-es'
-tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

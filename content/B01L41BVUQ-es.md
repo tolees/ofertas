@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L41BVUQ-es Havaianas Origine III Alpargatas Unisex Adulto Azul Navy...'
 sku: 'B01L41BVUQ-es'
-tags: [  ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

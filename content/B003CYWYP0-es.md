@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003CYWYP0-es BBTradesales 784200100 - Tabla de Cortar Bambu 45x35cm'
 sku: 'B003CYWYP0-es'
-tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

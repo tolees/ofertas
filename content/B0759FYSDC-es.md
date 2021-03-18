@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0759FYSDC-es Clarks Brixby Shore Sandalia con Pulsera Hombre Marrón...'
 sku: 'B0759FYSDC-es'
-tags: [  ]
 actualPrice: 51.2 EUR
 currency: EUR
 price: 51.2

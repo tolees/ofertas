@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRJT65O-es Lee Scarlett Cropped Jeans Mujer Negro Black Rinse W26/L33...'
 sku: 'B01MRJT65O-es'
-tags: [  ]
 actualPrice: 20.06 EUR
 currency: EUR
 price: 20.06

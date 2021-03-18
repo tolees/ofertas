@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4DJ2C7-es Funda compatible con Huawei P30 Pro ultrafina suave...'
 sku: 'B07Z4DJ2C7-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

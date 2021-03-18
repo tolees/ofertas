@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAIQYNQ-es Aire de Sevilla Set de Belleza Edición Azahar - Crema...'
 sku: 'B00XAIQYNQ-es'
-tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

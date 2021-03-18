@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H28CTW2-es Oyria Wireless Game Joystick Controller Consola...'
 sku: 'B08H28CTW2-es'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

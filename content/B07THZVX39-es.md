@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07THZVX39-es BRA Advanced Plancha Lisa Aluminio Fundido Multicolor'
 sku: 'B07THZVX39-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGFLW9K-es Braun HC 5030 - Máquina de cortar pelo profesional...'
 sku: 'B01BGFLW9K-es'
-tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

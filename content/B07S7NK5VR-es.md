@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7NK5VR-es Leiyer - Auriculares Bluetooth'
 sku: 'B07S7NK5VR-es'
-tags: [  ]
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

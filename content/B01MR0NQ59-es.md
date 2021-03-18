@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MR0NQ59-es Geomag Classic Panels Juego de Construcción Educativo 50...'
 sku: 'B01MR0NQ59-es'
-tags: [  ]
 actualPrice: 18.8 EUR
 currency: EUR
 price: 18.8

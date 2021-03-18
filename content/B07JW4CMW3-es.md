@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW4CMW3-es Columbia Powder Lite Jacket Chaqueta Hombre Negro Black M'
 sku: 'B07JW4CMW3-es'
-tags: [ 'Acampada y senderismo','Accesorios para la lactancia','Accesorios para sillas de coche','Adaptadores de red','Adaptadores de red USB','Bebé','Blu-ray','Bélico','Camisas casual para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Chaquetas de acampada y marcha para hombre','Chaquetas de pluma para acampada y marcha para hombre','Chaquetas para hombre','Chaquetas para mujer','Comunicación móvil y accesorios','Cubertería, Vajilla y Cristalería','Deportes y aire libre','Dispositivos de red','Electrónica','Espejos para asientos traseros','Featured Categories','Hogar y cocina','Informática','Lactancia y alimentación','Móviles','Móviles y smartphones libres','Películas','Películas y TV','Piezas de vajilla','Recipientes para leche materna','Ropa','Ropa de abrigo para hombre','Ropa de abrigo para mujer','Ropa de acampada','Ropa de acampada para hombre','Ropa para hombre','Ropa para mujer','Sillas de coche y accesorios','Tazas','Tazas de té','columbia', ]
 actualPrice: 60.75 EUR
 currency: EUR
 price: 60.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D0FO7UU-es GREAT ART XXL Poster – Puente del Bósforo en la Noche –...'
 sku: 'B01D0FO7UU-es'
-tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

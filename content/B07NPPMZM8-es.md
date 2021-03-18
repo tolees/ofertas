@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NPPMZM8-es Nene Toys - Nene Toys - Torre de Bloques Infantil de...'
 sku: 'B07NPPMZM8-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

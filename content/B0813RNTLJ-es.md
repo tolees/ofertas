@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RNTLJ-es adidas Falcon W Zapatillas Mujer Off White/Raw...'
 sku: 'B0813RNTLJ-es'
-tags: [  ]
 actualPrice: 61.68 EUR
 currency: EUR
 price: 61.68

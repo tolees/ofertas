@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004MMG34Y-es Sony MDRE9LPB - Auriculares de Botón Color Negro In Ear'
 sku: 'B004MMG34Y-es'
-tags: [ 'sony', ]
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

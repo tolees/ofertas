@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DXZCRUO-es MasterPro Foodies Plancha Grill Aluminio Forjado Negro 37 cm'
 sku: 'B01DXZCRUO-es'
-tags: [ 'Hogar y cocina','Menaje de cocina','Sartenes para asar a la parilla','Sartenes y ollas','masterpro', ]
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

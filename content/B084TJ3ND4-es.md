@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084TJ3ND4-es Taurus Babel RCH - Ventilador de torre digital extra alto...'
 sku: 'B084TJ3ND4-es'
-tags: [  ]
 actualPrice: 59.3 EUR
 currency: EUR
 price: 59.3

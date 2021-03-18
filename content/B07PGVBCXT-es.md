@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PGVBCXT-es Belkin Boost Up Soporte de carga inalámbrica de 10 W...'
 sku: 'B07PGVBCXT-es'
-tags: [  ]
 actualPrice: 20.31 EUR
 currency: EUR
 price: 20.31

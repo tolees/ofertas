@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NWY3GFK-es Joma Combi Polos Caballero Hombre Marino/Royal M'
 sku: 'B07NWY3GFK-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

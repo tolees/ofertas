@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZ4GOIF-es Air Wick Freshmatic Aparato y Recambio de Ambientador...'
 sku: 'B01MZ4GOIF-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

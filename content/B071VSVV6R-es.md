@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071VSVV6R-es Under Armour UA Launch AV Cap Gorras De Béisbol Gorra Para...'
 sku: 'B071VSVV6R-es'
-tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

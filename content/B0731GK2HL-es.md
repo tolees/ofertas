@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0731GK2HL-es marckonfort Cabecero tapizado Oslo 150X100 capitone en...'
 sku: 'B0731GK2HL-es'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

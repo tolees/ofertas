@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RXYVDTY-es adidas Cushioned Crew Calcetines Multicolor...'
 sku: 'B07RXYVDTY-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHMC4FN-es Bombilla de Filamento LED Demum 25 Piezas G40 Globo...'
 sku: 'B07VHMC4FN-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

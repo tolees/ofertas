@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WCQRMWQ-es HyperX Fury HX432C16FB3/16 DIMM DDR4 16 GB 3200 MHz CL16...'
 sku: 'B07WCQRMWQ-es'
-tags: [  ]
 actualPrice: 67.95 EUR
 currency: EUR
 price: 67.95

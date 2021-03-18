@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFBPDJB-es Lifeprint: Impresora portátil de Fotos y vídeos Lifeprint...'
 sku: 'B07VFBPDJB-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

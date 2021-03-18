@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0885VJP6P-es Olisicht Webcam Full HD 1080P con micrófono Webkamera para...'
 sku: 'B0885VJP6P-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

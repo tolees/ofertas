@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075F9ZM5M-es Leyendas de Luma-¡Oh Capitán Ludonaute LDOC0001'
 sku: 'B075F9ZM5M-es'
-tags: [  ]
 actualPrice: 17.36 EUR
 currency: EUR
 price: 17.36

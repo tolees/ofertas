@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CNHBB24-es HP - Hewlett Packard SU885A - Cartucho de tóner'
 sku: 'B00CNHBB24-es'
-tags: [  ]
 actualPrice: 90.67 EUR
 currency: EUR
 price: 90.67

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVZGYRF-es Nuevo 5A + Chinese Top Grade Lago Oeste Spring Longjing Té...'
 sku: 'B07FVZGYRF-es'
-tags: [  ]
 actualPrice: 12.11 EUR
 currency: EUR
 price: 12.11

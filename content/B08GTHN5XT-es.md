@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GTHN5XT-es Kalypso - Tropico 6 Switch IT/ESP'
 sku: 'B08GTHN5XT-es'
-tags: [ 'kalypso', ]
 actualPrice: 32.39 EUR
 currency: EUR
 price: 32.39

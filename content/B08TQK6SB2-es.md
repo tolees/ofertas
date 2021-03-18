@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TQK6SB2-es Lazimin - TWS Touch Control Sports Mini Auricular...'
 sku: 'B08TQK6SB2-es'
-tags: [  ]
 actualPrice: 10.69 EUR
 currency: EUR
 price: 10.69

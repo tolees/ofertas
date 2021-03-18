@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008F44EWI-es Tenga Huevo Surfer Funda Masturbadora 4.9 x 6.1 x 4.9 cm...'
 sku: 'B008F44EWI-es'
-tags: [  ]
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

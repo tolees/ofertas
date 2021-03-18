@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SJNS2CD-es FILFEEL - Pulsera magnética unisex para mujer pulsera de...'
 sku: 'B08SJNS2CD-es'
-tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

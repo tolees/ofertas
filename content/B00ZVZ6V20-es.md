@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ZVZ6V20-es HAMA Base Refrigeración para Portátiles Portátiles de...'
 sku: 'B00ZVZ6V20-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

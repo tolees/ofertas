@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HYA6OKS-es Patrulla Canina - Mantel Skye y Everest Design Ware 571665'
 sku: 'B01HYA6OKS-es'
-tags: [  ]
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

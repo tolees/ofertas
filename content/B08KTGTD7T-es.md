@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KTGTD7T-es XIAOWEI Batidora de pie 150 W Batidora eléctrica 2 en 1...'
 sku: 'B08KTGTD7T-es'
-tags: [  ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

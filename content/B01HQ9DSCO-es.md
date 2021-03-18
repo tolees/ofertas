@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HQ9DSCO-es Trust - Lector de DNI Negro'
 sku: 'B01HQ9DSCO-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

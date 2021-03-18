@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072KDWXSG-es Ubisoft Spain - Assassin s Creed Origins'
 sku: 'B072KDWXSG-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

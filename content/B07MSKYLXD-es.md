@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSKYLXD-es HKT by Hackett Hkt SS Str Rby Polo Ink 591 X-Large para...'
 sku: 'B07MSKYLXD-es'
-tags: [  ]
 actualPrice: 38.88 EUR
 currency: EUR
 price: 38.88

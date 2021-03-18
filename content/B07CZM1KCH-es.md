@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZM1KCH-es Under Armour Performance Polo 2.0 Niños Negro Black/Mod...'
 sku: 'B07CZM1KCH-es'
-tags: [  ]
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

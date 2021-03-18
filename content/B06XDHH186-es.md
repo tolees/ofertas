@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XDHH186-es Logan Blu-Ray [Blu-ray]'
 sku: 'B06XDHH186-es'
-tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

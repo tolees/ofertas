@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WD5YV9-es LEGO 51515 Mindstorms Robot Inventor y Kit de Robótica...'
 sku: 'B082WD5YV9-es'
-tags: [  ]
 actualPrice: 269.96 EUR
 currency: EUR
 price: 269.96

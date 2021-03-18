@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071CPR2V7-es Satisfyer Pro Penguin Next Generation Succionador de...'
 sku: 'B071CPR2V7-es'
-tags: [  ]
 actualPrice: 26.6 EUR
 currency: EUR
 price: 26.6

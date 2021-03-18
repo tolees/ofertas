@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QDFVBS-es Liberex Limpiador de poros puntos negros limpiador con luz...'
 sku: 'B089QDFVBS-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

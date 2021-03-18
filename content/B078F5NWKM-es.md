@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078F5NWKM-es Crocs Classic Slipper K Zapatillas de estar por casa...'
 sku: 'B078F5NWKM-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

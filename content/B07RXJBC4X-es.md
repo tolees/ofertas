@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RXJBC4X-es BIGBEN - Tennis World Tour - Roland-Garros Edition...'
 sku: 'B07RXJBC4X-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

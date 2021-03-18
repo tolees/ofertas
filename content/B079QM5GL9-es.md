@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QM5GL9-es iRobot - Robot aspirador Roomba 671 conectado a WIFI Para...'
 sku: 'B079QM5GL9-es'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

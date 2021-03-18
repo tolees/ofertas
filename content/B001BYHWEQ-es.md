@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BYHWEQ-es TRIXIE Oveja Patas Largas Peluche Sonido 30 cm Perro'
 sku: 'B001BYHWEQ-es'
-tags: [ 'Artículos para perros','Juguetes de peluche para perros','Juguetes para perros','Productos para mascotas','trixie', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

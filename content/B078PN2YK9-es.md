@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078PN2YK9-es Soehnle 68096 Systo Monitor 300 Connect - Tensiómetro...'
 sku: 'B078PN2YK9-es'
-tags: [ 'soehnle', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

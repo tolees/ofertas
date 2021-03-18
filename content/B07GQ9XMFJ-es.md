@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GQ9XMFJ-es Bosch Hogar - Bosch BCH3P255 Flexxo Serie | 4 Aspirador 2...'
 sku: 'B07GQ9XMFJ-es'
-tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

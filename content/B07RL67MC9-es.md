@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RL67MC9-es New Balance Fresh Foam Arishi V3 Zapatillas Mujer Negro...'
 sku: 'B07RL67MC9-es'
-tags: [  ]
 actualPrice: 57.42 EUR
 currency: EUR
 price: 57.42

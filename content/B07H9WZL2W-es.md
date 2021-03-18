@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9WZL2W-es Wimypet Refuerzo de Coche para Perros Fundas de Asiento de...'
 sku: 'B07H9WZL2W-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

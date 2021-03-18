@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DP37LXR-es Festina Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07DP37LXR-es'
-tags: [  ]
 actualPrice: 82.9 EUR
 currency: EUR
 price: 82.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0831PM5RT-es Canadian Peak Polar Mujer UNIDA Gris Claro 01'
 sku: 'B0831PM5RT-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

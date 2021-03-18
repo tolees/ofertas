@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08XZCND3D-es Todiri Mini Humidificador Portátil 300ml Humidificador De...'
 sku: 'B08XZCND3D-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

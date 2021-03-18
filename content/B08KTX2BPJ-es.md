@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KTX2BPJ-es ORYX Soporte Vertical 5 Niveles Para Sartenes Tapaderas...'
 sku: 'B08KTX2BPJ-es'
-tags: [  ]
 actualPrice: 8.33 EUR
 currency: EUR
 price: 8.33

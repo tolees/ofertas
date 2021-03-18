@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NVR5RVD-es H.Koenig HF340 Máquina Para Hacer Helados Caseros y...'
 sku: 'B07NVR5RVD-es'
-tags: [  ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

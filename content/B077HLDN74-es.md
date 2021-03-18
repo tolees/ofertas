@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HLDN74-es find. MDR 40625 vestidos mujer Negro Black 40 Talla del...'
 sku: 'B077HLDN74-es'
-tags: [  ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

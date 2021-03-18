@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SY8GQNK-es Pulidor Esmeril limas de uñas profesionales eléctricas...'
 sku: 'B07SY8GQNK-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

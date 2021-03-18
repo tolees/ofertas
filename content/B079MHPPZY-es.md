@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079MHPPZY-es Philips Sonicare HX6830/44 ProtectiveClean - Cepillo de...'
 sku: 'B079MHPPZY-es'
-tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

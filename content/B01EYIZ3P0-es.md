@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EYIZ3P0-es Yazilind oro 18K plateado cuelga los pendientes de aro...'
 sku: 'B01EYIZ3P0-es'
-tags: [  ]
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

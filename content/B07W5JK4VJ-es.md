@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5JK4VJ-es Logitech Rugged Folio – Funda con teclado protectora para...'
 sku: 'B07W5JK4VJ-es'
-tags: [  ]
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

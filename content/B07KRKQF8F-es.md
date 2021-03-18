@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRKQF8F-es New Balance Yc373v1 Zapatillas para Niñas Dorado Classic...'
 sku: 'B07KRKQF8F-es'
-tags: [  ]
 actualPrice: 29.84 EUR
 currency: EUR
 price: 29.84

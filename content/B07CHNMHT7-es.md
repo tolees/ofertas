@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHNMHT7-es Mr. Wonderful WOA09177ES - Set de 2 libretas para mentes...'
 sku: 'B07CHNMHT7-es'
-tags: [  ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

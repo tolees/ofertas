@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0895KSDGT-es Meridiem Games - Detroit Become Human - Collector S Edition'
 sku: 'B0895KSDGT-es'
-tags: [  ]
 actualPrice: 215.0 EUR
 currency: EUR
 price: 215.0

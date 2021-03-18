@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002UVAHRS-es Pipedream Basix Works Slim - Dildo Clásico Trasparente 20 cm'
 sku: 'B002UVAHRS-es'
-tags: [  ]
 actualPrice: 4.32 EUR
 currency: EUR
 price: 4.32

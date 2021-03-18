@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4HYFC4-es Tommy Hilfiger Hombre Denton Th Flex Satin Chino Gmd Loose...'
 sku: 'B07W4HYFC4-es'
-tags: [  ]
 actualPrice: 23.81 EUR
 currency: EUR
 price: 23.81

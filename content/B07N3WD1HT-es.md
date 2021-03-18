@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3WD1HT-es Raclette con Piedra Natural Antiadherente Mango Térmico...'
 sku: 'B07N3WD1HT-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

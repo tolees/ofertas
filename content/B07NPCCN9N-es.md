@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NPCCN9N-es New Balance 373 Core Zapatillas Hombre Azul Navy 45 EU'
 sku: 'B07NPCCN9N-es'
-tags: [  ]
 actualPrice: 38.62 EUR
 currency: EUR
 price: 38.62

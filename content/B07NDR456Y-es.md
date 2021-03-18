@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDR456Y-es Spiuk Profit Cold&Rain Culote Largo C/T Hombre Negro S'
 sku: 'B07NDR456Y-es'
-tags: [  ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

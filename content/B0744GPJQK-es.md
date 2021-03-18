@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0744GPJQK-es Eau Majeure 50 Ml.'
 sku: 'B0744GPJQK-es'
-tags: [  ]
 actualPrice: 32.13 EUR
 currency: EUR
 price: 32.13

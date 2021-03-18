@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZQ4XSZP-es Reebok Work N Cushion 4.0 Gymnastics Shoe Hombre...'
 sku: 'B07ZQ4XSZP-es'
-tags: [  ]
 actualPrice: 29.79 EUR
 currency: EUR
 price: 29.79

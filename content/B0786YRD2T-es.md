@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0786YRD2T-es Puma Liga Small Bag Bag Sin género Puma Royal UA'
 sku: 'B0786YRD2T-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

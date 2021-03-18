@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DNJMJ77-es ASUS TUF Gaming A15 FA506II-BQ029 - Portátil de 15.6"...'
 sku: 'B08DNJMJ77-es'
-tags: [  ]
 actualPrice: 899.0 EUR
 currency: EUR
 price: 899.0

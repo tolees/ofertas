@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3SC5ZH-es LEGO Harry Potter - Cabaña de Hagrid Rescate de Buckbeak...'
 sku: 'B07G3SC5ZH-es'
-tags: [  ]
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

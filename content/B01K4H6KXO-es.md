@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01K4H6KXO-es JBM 52978 Piezas con vasos hexagonales en estuche Negro...'
 sku: 'B01K4H6KXO-es'
-tags: [  ]
 actualPrice: 63.43 EUR
 currency: EUR
 price: 63.43

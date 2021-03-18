@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVXYZJ7-es Alienwork Reloj Mecánico Automático Relojes Automáticos...'
 sku: 'B07QVXYZJ7-es'
-tags: [  ]
 actualPrice: 26.81 EUR
 currency: EUR
 price: 26.81

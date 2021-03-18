@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CFHH1LT-es Jack & Jones Jjebasic Knit V-Neck Noos suéter Azul Navy...'
 sku: 'B07CFHH1LT-es'
-tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

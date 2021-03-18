@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NAJRQ6E-es Compex Fit 3.0 Electroestimulador Unisex Azul'
 sku: 'B00NAJRQ6E-es'
-tags: [  ]
 actualPrice: 278.85 EUR
 currency: EUR
 price: 278.85

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XB5HPH5-es Relojes Hombre Relojes de Pulsera Marea Cronometro...'
 sku: 'B07XB5HPH5-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

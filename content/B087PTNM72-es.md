@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PTNM72-es NMBC Película de Ventana Película de Ventana de privacidad...'
 sku: 'B087PTNM72-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

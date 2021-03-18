@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XY4JJ1-es BRA Advanced Sartén 28 cm aluminio fundido con...'
 sku: 'B078XY4JJ1-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

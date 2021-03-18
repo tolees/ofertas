@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RVMQ3SX-es Cable USB C a Lightning RAMPOW[Apple MFi Certificado]...'
 sku: 'B07RVMQ3SX-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

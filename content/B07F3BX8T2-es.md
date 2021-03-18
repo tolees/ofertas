@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F3BX8T2-es Guess Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07F3BX8T2-es'
-tags: [  ]
 actualPrice: 69.79 EUR
 currency: EUR
 price: 69.79

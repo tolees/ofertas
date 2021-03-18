@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019MCMNX8-es 10 Piezas 8GB PenDrives Portátil Memoria USB 2.0...'
 sku: 'B019MCMNX8-es'
-tags: [  ]
 actualPrice: 27.63 EUR
 currency: EUR
 price: 27.63

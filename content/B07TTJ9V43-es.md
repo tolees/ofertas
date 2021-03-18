@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TTJ9V43-es Casio Reloj Analógico-Digital para Hombre Correa en Resina...'
 sku: 'B07TTJ9V43-es'
-tags: [  ]
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

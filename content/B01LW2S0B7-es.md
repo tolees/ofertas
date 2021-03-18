@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LW2S0B7-es Maybelline New York Base de Maquillaje que Calca a tu Tono...'
 sku: 'B01LW2S0B7-es'
-tags: [ 'maybelline', ]
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

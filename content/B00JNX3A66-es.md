@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JNX3A66-es Liposan Essential Nourishment Bálsamo para Labios - 4.8 g'
 sku: 'B00JNX3A66-es'
-tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

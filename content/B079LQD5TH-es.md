@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LQD5TH-es Lacoste Sport GH353T Bañador Blanco Blanc W40 Talla del...'
 sku: 'B079LQD5TH-es'
-tags: [  ]
 actualPrice: 26.84 EUR
 currency: EUR
 price: 26.84

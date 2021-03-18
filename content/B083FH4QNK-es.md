@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FH4QNK-es Lacoste Ch2932 Camisola Blanc/Sinople 38 para Hombre'
 sku: 'B083FH4QNK-es'
-tags: [  ]
 actualPrice: 45.75 EUR
 currency: EUR
 price: 45.75

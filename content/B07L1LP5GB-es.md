@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L1LP5GB-es Funko Bobble Captain Marvel: Pop 15 Figura Coleccionable...'
 sku: 'B07L1LP5GB-es'
-tags: [  ]
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

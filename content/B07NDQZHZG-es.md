@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDQZHZG-es Samsung Galaxy Watch Active – Smartwatch 1 1” 40mm Tizen...'
 sku: 'B07NDQZHZG-es'
-tags: [ 'samsung', ]
 actualPrice: 116.07 EUR
 currency: EUR
 price: 116.07

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084K2LD3C-es L Oreal Paris Elvive Color Vive Mascarilla Intensiva...'
 sku: 'B084K2LD3C-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

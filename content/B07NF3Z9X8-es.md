@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NF3Z9X8-es Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B07NF3Z9X8-es'
-tags: [  ]
 actualPrice: 81.2 EUR
 currency: EUR
 price: 81.2

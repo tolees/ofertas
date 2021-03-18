@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071XTG4JZ-es KYG Protector Universal para Maletero Cubierta Impermeable...'
 sku: 'B071XTG4JZ-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

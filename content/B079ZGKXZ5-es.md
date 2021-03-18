@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079ZGKXZ5-es HARIBO Balla-Balla Negros 1 x 1000 gr'
 sku: 'B079ZGKXZ5-es'
-tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

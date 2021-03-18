@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDBDYNP-es [3 Piezas] Protector de Pantalla para Huawei Mate 20 Lite...'
 sku: 'B07PDBDYNP-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

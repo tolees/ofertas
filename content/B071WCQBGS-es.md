@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WCQBGS-es Prozis Instant Oats Vainilla - 1250 gr'
 sku: 'B071WCQBGS-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

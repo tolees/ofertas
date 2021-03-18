@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0767LHG4Y-es Adesivi Compulsivi - Adhesivos resinados con el...'
 sku: 'B0767LHG4Y-es'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

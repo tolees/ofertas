@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KW26HGW-es 2.7inch TFT Digital Resistente al Agua 5MP 1080P máximo de...'
 sku: 'B07KW26HGW-es'
-tags: [  ]
 actualPrice: 35.33 EUR
 currency: EUR
 price: 35.33

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GSCFW74-es Home Linge Passion - Home Passion | Funda de edredón – 3...'
 sku: 'B08GSCFW74-es'
-tags: [  ]
 actualPrice: 28.42 EUR
 currency: EUR
 price: 28.42

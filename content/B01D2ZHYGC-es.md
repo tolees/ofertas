@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D2ZHYGC-es GREAT ART XXL Póster – Paracaidismo – Aventura Mural...'
 sku: 'B01D2ZHYGC-es'
-tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

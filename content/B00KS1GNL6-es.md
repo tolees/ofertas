@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KS1GNL6-es Teddy Smith Pulser suéter Gris Anthracite Chiné 177b Small...'
 sku: 'B00KS1GNL6-es'
-tags: [  ]
 actualPrice: 20.09 EUR
 currency: EUR
 price: 20.09

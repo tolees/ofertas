@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7S8NG2-es Gran Cremant Cava Codorníu Semiseco - 0.75 l'
 sku: 'B01K7S8NG2-es'
-tags: [  ]
 actualPrice: 2.26 EUR
 currency: EUR
 price: 2.26

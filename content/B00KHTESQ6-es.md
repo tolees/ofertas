@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KHTESQ6-es Luminarc 9207679 Pure Box Active - Recipiente Hermetico...'
 sku: 'B00KHTESQ6-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K94VRRS-es LYCHL Auriculares Inalambricos In-Ear Auriculares...'
 sku: 'B08K94VRRS-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

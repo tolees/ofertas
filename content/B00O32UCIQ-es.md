@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O32UCIQ-es Bourjois Velvet Barra de Labios Líquida Tono 09 Happy Nude...'
 sku: 'B00O32UCIQ-es'
-tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

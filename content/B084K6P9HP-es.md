@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084K6P9HP-es Samsung Galaxy S20 Ultra 5G - Smartphone 6.9" Dynamic...'
 sku: 'B084K6P9HP-es'
-tags: [  ]
 actualPrice: 859.9 EUR
 currency: EUR
 price: 859.9

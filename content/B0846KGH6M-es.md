@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846KGH6M-es Tommy Hilfiger Blake 14a Zapatillas Hombre Negro 43 1/3 EU'
 sku: 'B0846KGH6M-es'
-tags: [  ]
 actualPrice: 67.85 EUR
 currency: EUR
 price: 67.85

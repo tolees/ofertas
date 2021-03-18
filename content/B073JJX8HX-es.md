@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073JJX8HX-es Lip Smacker Blister en vaso Bálsamo Labial Sprite'
 sku: 'B073JJX8HX-es'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

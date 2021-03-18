@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZHP5JQX-es BaByliss MEN E986E Cortapelos Profesional Lithium Power...'
 sku: 'B07ZHP5JQX-es'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

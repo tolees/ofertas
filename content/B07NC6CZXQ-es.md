@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NC6CZXQ-es Electronic Arts - STAR WARS BATTLEFRONT II - Standard |...'
 sku: 'B07NC6CZXQ-es'
-tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

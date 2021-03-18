@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S2FBYGW-es Jack & Jones Jjiroy Jjjames Sa Noos Pantalones Verde Olive...'
 sku: 'B07S2FBYGW-es'
-tags: [  ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

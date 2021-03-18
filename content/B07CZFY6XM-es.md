@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZFY6XM-es TOUCHBeauty - Cepillo limpiador cara y Calentador sónico...'
 sku: 'B07CZFY6XM-es'
-tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

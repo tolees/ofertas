@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HVTCM36-es Superga 2750 COTU Classic Sneakers Zapatillas Unisex...'
 sku: 'B00HVTCM36-es'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

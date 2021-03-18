@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081J8CB8P-es Delantales de Cocina 2 Piezas con Bolsillo Delantal...'
 sku: 'B081J8CB8P-es'
-tags: [  ]
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

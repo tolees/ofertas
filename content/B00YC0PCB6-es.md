@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YC0PCB6-es Monsanto - Herbicida Roundup UltraPlus 500ml'
 sku: 'B00YC0PCB6-es'
-tags: [  ]
 actualPrice: 8.52 EUR
 currency: EUR
 price: 8.52

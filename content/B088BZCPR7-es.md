@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088BZCPR7-es Panasonic ER-GB61-K503 - Recortadora Para Hombre Cuerpo...'
 sku: 'B088BZCPR7-es'
-tags: [  ]
 actualPrice: 34.8 EUR
 currency: EUR
 price: 34.8

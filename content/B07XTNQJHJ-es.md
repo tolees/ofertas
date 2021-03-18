@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTNQJHJ-es GSOTTA Calcetines invisibles 6 paquetes calcetines para...'
 sku: 'B07XTNQJHJ-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

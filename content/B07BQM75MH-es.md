@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQM75MH-es ONEVER Bolsa De Bloqueo De Señal GPS RFID Faraday Bolsa De...'
 sku: 'B07BQM75MH-es'
-tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

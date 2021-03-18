@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EUWJF8M-es De longhi 5513292831 - Kit de limpieza y mantenimiento...'
 sku: 'B00EUWJF8M-es'
-tags: [  ]
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

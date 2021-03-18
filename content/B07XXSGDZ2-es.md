@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XXSGDZ2-es FitBeast Kit de Entrenamiento para Ejercitar el Agarre –...'
 sku: 'B07XXSGDZ2-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

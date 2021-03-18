@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y62BYB1-es Pikolin Home - Protector de colchón/Cubre colchón...'
 sku: 'B06Y62BYB1-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

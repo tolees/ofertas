@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003TOQ6AM-es BRA Efficient - Cacerola baja con tapa de cristal y asas...'
 sku: 'B003TOQ6AM-es'
-tags: [  ]
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757HZCS2-es Lebze Muselinas Manta Bebé Algodón Bambú 120x120 Muselina...'
 sku: 'B0757HZCS2-es'
-tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

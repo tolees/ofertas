@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHLNL54-es CY Figuras de Super Mario Toys Mario y Luigi Figuras Yoshi...'
 sku: 'B07SHLNL54-es'
-tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

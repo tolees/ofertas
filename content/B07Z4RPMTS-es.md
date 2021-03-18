@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4RPMTS-es UPERCT - Monitor Portátil 4K para Juegos Uperfect 15 6...'
 sku: 'B07Z4RPMTS-es'
-tags: [  ]
 actualPrice: 349.99 EUR
 currency: EUR
 price: 349.99

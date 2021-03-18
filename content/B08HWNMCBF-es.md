@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HWNMCBF-es ELEPHONE Reloj Inteligente Smartwatch Hombre de IP67...'
 sku: 'B08HWNMCBF-es'
-tags: [  ]
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

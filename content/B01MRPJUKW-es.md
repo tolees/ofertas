@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MRPJUKW-es Maybelline NY - Maybelline Brow Micro Pencil Lápiz de...'
 sku: 'B01MRPJUKW-es'
-tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

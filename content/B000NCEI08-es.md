@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000NCEI08-es KÖNIG - KONIG CANDADO Universal DE 1.80 M P'
 sku: 'B000NCEI08-es'
-tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

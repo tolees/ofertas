@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0856LX6LW-es Botas Bebé Niña Pablosky Azul 84225 23'
 sku: 'B0856LX6LW-es'
-tags: [  ]
 actualPrice: 30.18 EUR
 currency: EUR
 price: 30.18

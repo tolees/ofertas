@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007ZY4D0W-es Pedigree Pack de Dentastix de uso Diario para la Limpieza...'
 sku: 'B007ZY4D0W-es'
-tags: [  ]
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1K2NVB-es San Ignacio Q2956 Cuchillo multiusos 12.5cm acer inox...'
 sku: 'B07T1K2NVB-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

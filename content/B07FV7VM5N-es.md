@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FV7VM5N-es BaByliss ST455E Plancha de pelo Sensitive Edición Especial...'
 sku: 'B07FV7VM5N-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6JVBRK-es Moliies BENETECH GM1311 Digital Food Thermometer Küche...'
 sku: 'B07K6JVBRK-es'
-tags: [  ]
 actualPrice: 6.57 EUR
 currency: EUR
 price: 6.57

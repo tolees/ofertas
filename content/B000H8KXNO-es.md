@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000H8KXNO-es Harry Potter¿ Golden Snitch¿ accesorio de disfraz'
 sku: 'B000H8KXNO-es'
-tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

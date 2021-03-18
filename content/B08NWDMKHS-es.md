@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NWDMKHS-es Asics Gel-Nimbus 23 Road Running Shoe Hombre Carrier...'
 sku: 'B08NWDMKHS-es'
-tags: [  ]
 actualPrice: 129.83 EUR
 currency: EUR
 price: 129.83

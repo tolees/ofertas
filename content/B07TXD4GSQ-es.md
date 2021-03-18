@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXD4GSQ-es Adidas Predator 19.1 FG J Botas de fútbol para Niños...'
 sku: 'B07TXD4GSQ-es'
-tags: [  ]
 actualPrice: 19.58 EUR
 currency: EUR
 price: 19.58

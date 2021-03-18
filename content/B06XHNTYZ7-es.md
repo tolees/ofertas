@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XHNTYZ7-es Vans Ward Canvas Zapatillas Hombre Negro Suede/Canvas...'
 sku: 'B06XHNTYZ7-es'
-tags: [  ]
 actualPrice: 47.39 EUR
 currency: EUR
 price: 47.39

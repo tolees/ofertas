@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G2N27HW-es MICHLEY Bebé Ropa Niños Niñas Pijama Disfraces Primavera...'
 sku: 'B07G2N27HW-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

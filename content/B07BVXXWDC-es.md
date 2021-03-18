@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BVXXWDC-es seQoya - Baobab | Reloj de Madera con Esfera de Madera y...'
 sku: 'B07BVXXWDC-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

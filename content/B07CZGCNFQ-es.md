@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZGCNFQ-es PUMA ICRA Trainer SD Zapatillas Unisex Adulto Azul Peacoat...'
 sku: 'B07CZGCNFQ-es'
-tags: [  ]
 actualPrice: 34.3 EUR
 currency: EUR
 price: 34.3

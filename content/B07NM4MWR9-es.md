@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NM4MWR9-es NIKE Revolution 5 Zapatillas Black White Anthracite 39 EU'
 sku: 'B07NM4MWR9-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

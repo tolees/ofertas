@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JPDDC6L-es DAM. DMX196BKCorrea Diseño Flores De Piel Sintética Iwatch...'
 sku: 'B07JPDDC6L-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076LLT64M-es HomCom Lámpara de Pie Moderna con 2 Luces E27 40W y...'
 sku: 'B076LLT64M-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

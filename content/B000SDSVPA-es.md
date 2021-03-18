@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SDSVPA-es Moldex MOL6401 - Tapón para los oídos pack de 50'
 sku: 'B000SDSVPA-es'
-tags: [  ]
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

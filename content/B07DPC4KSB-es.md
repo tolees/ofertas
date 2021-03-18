@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPC4KSB-es Puma Active Wovens Pantalones Cortos Mujer Negro Black XS'
 sku: 'B07DPC4KSB-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

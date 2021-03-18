@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004YAS9N2-es DECCA - Islands - Essential Einaudi'
 sku: 'B004YAS9N2-es'
-tags: [  ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

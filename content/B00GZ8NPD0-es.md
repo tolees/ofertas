@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GZ8NPD0-es Goa London Dry Gin 1 x 0.7 l'
 sku: 'B00GZ8NPD0-es'
-tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

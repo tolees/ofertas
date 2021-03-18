@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CGSQYBC-es WOTEK Escobillas Y Portaescobillas de Inodoro Escobillas...'
 sku: 'B08CGSQYBC-es'
-tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

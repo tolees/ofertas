@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QDRVMV6-es Banco de energía inalámbrico rápido cargador solar...'
 sku: 'B07QDRVMV6-es'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RJJ6S6Z-es Kshzmoto Probador de Calidad del Aire Multifuncional...'
 sku: 'B08RJJ6S6Z-es'
-tags: [  ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

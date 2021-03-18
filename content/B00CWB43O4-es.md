@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CWB43O4-es VANS Atwood Zapatillas Hombre Negro Black/White Canvas 187...'
 sku: 'B00CWB43O4-es'
-tags: [  ]
 actualPrice: 42.74 EUR
 currency: EUR
 price: 42.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HWZT62-es KKmoon Extensor de Rango Inalámbrico de 300 Mbps Repetidor...'
 sku: 'B076HWZT62-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

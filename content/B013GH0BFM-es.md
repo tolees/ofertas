@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013GH0BFM-es Remington HC5018 Apprentice - Kit Máquina de Cortar Pelo y...'
 sku: 'B013GH0BFM-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

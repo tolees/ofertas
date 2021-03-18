@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G95BTG5-es George Foreman 25041-56 - Barbacoa de contacto Family...'
 sku: 'B07G95BTG5-es'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

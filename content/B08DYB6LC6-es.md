@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DYB6LC6-es New Balance 393 Zapatillas Hombre Gris Castlerock 41.5 EU'
 sku: 'B08DYB6LC6-es'
-tags: [  ]
 actualPrice: 39.79 EUR
 currency: EUR
 price: 39.79

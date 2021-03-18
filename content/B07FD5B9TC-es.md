@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FD5B9TC-es MVMT Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07FD5B9TC-es'
-tags: [  ]
 actualPrice: 51.94 EUR
 currency: EUR
 price: 51.94

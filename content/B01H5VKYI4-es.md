@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01H5VKYI4-es Oral-B 3DWhite Luxe Perfección Pasta Dentífrica...'
 sku: 'B01H5VKYI4-es'
-tags: [  ]
 actualPrice: 2.65 EUR
 currency: EUR
 price: 2.65

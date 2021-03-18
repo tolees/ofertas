@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OVJDCQ0-es D-Link DWR-932 - Router móvil 4G para SIM de datos...'
 sku: 'B00OVJDCQ0-es'
-tags: [ 'Dispositivos de Internet móvil','d-link', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

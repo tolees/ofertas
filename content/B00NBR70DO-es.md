@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NBR70DO-es Sony MDR-ZX110 - Auriculares cerrados negro'
 sku: 'B00NBR70DO-es'
-tags: [  ]
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

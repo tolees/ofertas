@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HFUX18Q-es Bramacartuchos - 20X Hojas Papel Transfer para Camisetas...'
 sku: 'B00HFUX18Q-es'
-tags: [  ]
 actualPrice: 9.84 EUR
 currency: EUR
 price: 9.84

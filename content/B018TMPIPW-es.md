@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018TMPIPW-es National Geographic 9083000 Action Camera - Videocámara'
 sku: 'B018TMPIPW-es'
-tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

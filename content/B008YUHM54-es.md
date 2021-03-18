@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008YUHM54-es Pajoma 55170 Hucha de Fotos Antigua'
 sku: 'B008YUHM54-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

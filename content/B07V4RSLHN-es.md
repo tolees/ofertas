@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4RSLHN-es Tommy Hilfiger - Poppy Small Tote Bolsos totes Mujer Rojo...'
 sku: 'B07V4RSLHN-es'
-tags: [  ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

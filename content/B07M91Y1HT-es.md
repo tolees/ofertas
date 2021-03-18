@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M91Y1HT-es BOSS Starfish Bañador para Hombre Negro Black 007 S'
 sku: 'B07M91Y1HT-es'
-tags: [  ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

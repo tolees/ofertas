@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086QWLSVD-es Mustang Alexia Zapatillas Deportivas para Mujer Fierce...'
 sku: 'B086QWLSVD-es'
-tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5ZQGXN-es UniqueMe [3 Pack] Protector de Pantalla para Samsung...'
 sku: 'B07M5ZQGXN-es'
-tags: [  ]
 actualPrice: 1.97 EUR
 currency: EUR
 price: 1.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXMFKYG-es Calefactor Calentador Eléctrico 500W con Oscilación...'
 sku: 'B07YXMFKYG-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

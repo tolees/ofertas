@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YXH2DLB-es Nikon Z50 - Cámara DX Mirrorless 11 FPS Vídeo 4K Pantalla...'
 sku: 'B07YXH2DLB-es'
-tags: [  ]
 actualPrice: 679.0 EUR
 currency: EUR
 price: 679.0

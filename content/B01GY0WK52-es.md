@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GY0WK52-es Mercedes-Benz M7003 Hombre Azul Blau 59'
 sku: 'B01GY0WK52-es'
-tags: [  ]
 actualPrice: 31.51 EUR
 currency: EUR
 price: 31.51

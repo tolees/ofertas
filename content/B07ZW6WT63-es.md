@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZW6WT63-es Dove Invisible Dry Desodorante Antitranspirante en Aerosol...'
 sku: 'B07ZW6WT63-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

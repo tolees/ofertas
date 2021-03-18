@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXBX6NT-es Plantronics RIG 500 Pro Headset PC/Win 10 E+A 211223-05...'
 sku: 'B07FXBX6NT-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

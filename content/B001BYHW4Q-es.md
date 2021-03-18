@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BYHW4Q-es TRIXIE Bolsa Baggy Luxe Dog Activity ø10 x 14 cm Marrón-...'
 sku: 'B001BYHW4Q-es'
-tags: [ 'trixie', ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

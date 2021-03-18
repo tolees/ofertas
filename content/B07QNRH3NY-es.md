@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QNRH3NY-es G-Technology 0G10435-1 4 TB ArmorATD - Disco Duro...'
 sku: 'B07QNRH3NY-es'
-tags: [  ]
 actualPrice: 128.99 EUR
 currency: EUR
 price: 128.99

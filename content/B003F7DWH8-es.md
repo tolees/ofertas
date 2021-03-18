@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003F7DWH8-es Case Logic DCB302K - Bolsa para cámaras Digitales...'
 sku: 'B003F7DWH8-es'
-tags: [ 'case logic', ]
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

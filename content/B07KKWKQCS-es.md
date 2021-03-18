@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KKWKQCS-es Nike B Dri-FIT Academy Wpz Pantalones Niños Azul...'
 sku: 'B07KKWKQCS-es'
-tags: [  ]
 actualPrice: 7.96 EUR
 currency: EUR
 price: 7.96

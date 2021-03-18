@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RQJ2FV-es Koch Media - Warhammer 40.000: Mechanicus'
 sku: 'B087RQJ2FV-es'
-tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','koch media', ]
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

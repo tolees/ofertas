@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GC7GCN5-es Optimum Nutrition ON Gold Standard 100% whey proteína en...'
 sku: 'B07GC7GCN5-es'
-tags: [  ]
 actualPrice: 56.87 EUR
 currency: EUR
 price: 56.87

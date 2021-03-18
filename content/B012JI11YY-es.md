@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012JI11YY-es Acrílico Cosmético Lentes De Contacto Lápiz Labial Mak Up...'
 sku: 'B012JI11YY-es'
-tags: [  ]
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002AMUGH8-es Sisley Phyto Nuit Crema Collagène Et Mauve Pot 50 ml'
 sku: 'B002AMUGH8-es'
-tags: [  ]
 actualPrice: 90.95 EUR
 currency: EUR
 price: 90.95

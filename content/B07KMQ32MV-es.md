@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KMQ32MV-es Sony CEE Games New Gen - Player Unknown s Battlegrounds'
 sku: 'B07KMQ32MV-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBRKL74-es Riuty Inteligente Lámpara de Escritorio con Altavoz con...'
 sku: 'B07NBRKL74-es'
-tags: [  ]
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

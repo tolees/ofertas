@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFYF43D-es Nobebird Purificador de Aire 4 en 1 con Filtro HEPA...'
 sku: 'B07MFYF43D-es'
-tags: [ 'nobebird', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYZHTMS-es Tappetino professionale da scrivania in pelle Mega Size...'
 sku: 'B07YYZHTMS-es'
-tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

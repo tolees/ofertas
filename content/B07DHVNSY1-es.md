@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DHVNSY1-es Atletico de Madrid- Pelotas Mondo Toys MD-1025'
 sku: 'B07DHVNSY1-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B4LKW2V-es Jelly Comb Funda con Teclado Bluetooth Español para Huawei...'
 sku: 'B08B4LKW2V-es'
-tags: [  ]
 actualPrice: 26.56 EUR
 currency: EUR
 price: 26.56

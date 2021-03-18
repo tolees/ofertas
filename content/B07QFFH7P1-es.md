@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QFFH7P1-es Yu me-Sombrero Seleccionador en Español Harry Potter Color...'
 sku: 'B07QFFH7P1-es'
-tags: [  ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

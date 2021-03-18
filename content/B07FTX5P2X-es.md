@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTX5P2X-es Palladium Pampa Hi Zip Pony Botas Slouch para Mujer...'
 sku: 'B07FTX5P2X-es'
-tags: [  ]
 actualPrice: 51.27 EUR
 currency: EUR
 price: 51.27

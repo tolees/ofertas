@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QNL5G6-es New Balance 500 Core Zapatillas para Hombre Negro Black...'
 sku: 'B077QNL5G6-es'
-tags: [  ]
 actualPrice: 32.01 EUR
 currency: EUR
 price: 32.01

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VWK38MC-es PIKOLINOS Sandalia tacón de Piel Melilla W4G'
 sku: 'B07VWK38MC-es'
-tags: [  ]
 actualPrice: 47.7 EUR
 currency: EUR
 price: 47.7

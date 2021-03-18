@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4F8FTD-es Dockers by Gerli 43fa307 Botas Militar para Mujer Beige...'
 sku: 'B07Q4F8FTD-es'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

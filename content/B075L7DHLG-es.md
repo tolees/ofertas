@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075L7DHLG-es Mipelo TN-2320 TN2320 Cartuchos de tóner 2 Negro Reemplazo...'
 sku: 'B075L7DHLG-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

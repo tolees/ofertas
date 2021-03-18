@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SB9XHDY-es Control Preservativos XL - 24 unidades'
 sku: 'B07SB9XHDY-es'
-tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

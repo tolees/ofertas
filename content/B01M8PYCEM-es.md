@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M8PYCEM-es G-STAR RAW ARC 3D Low Waist Boyfriend Jeans Azul Medium...'
 sku: 'B01M8PYCEM-es'
-tags: [  ]
 actualPrice: 27.66 EUR
 currency: EUR
 price: 27.66

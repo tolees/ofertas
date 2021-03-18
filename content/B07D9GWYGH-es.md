@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9GWYGH-es Tommy Hilfiger LR Trunk Bóxer Negro Black 990 X-Large para...'
 sku: 'B07D9GWYGH-es'
-tags: [  ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFXGHJ5-es PUMA ST Activate Jr Zapatillas Unisex Niños Calypso Coral...'
 sku: 'B07KFXGHJ5-es'
-tags: [  ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

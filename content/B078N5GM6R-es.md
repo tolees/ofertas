@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078N5GM6R-es Protector Trasero para iPhone X + Lente Protector de...'
 sku: 'B078N5GM6R-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

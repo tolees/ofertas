@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y92F4WQ-es XTI 57042 Zapatillas sin Cordones Unisex niño Marrón Camel...'
 sku: 'B07Y92F4WQ-es'
-tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

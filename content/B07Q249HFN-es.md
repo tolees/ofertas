@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q249HFN-es Under Armour UA Charged Pursuit 2 Calzado De Hombre...'
 sku: 'B07Q249HFN-es'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

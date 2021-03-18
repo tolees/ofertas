@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V6CWSFB-es Lixada Mochila de marco interno para senderismo 50 l...'
 sku: 'B07V6CWSFB-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

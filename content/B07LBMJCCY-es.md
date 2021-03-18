@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBMJCCY-es Tommy Hilfiger Medium Drawstring Bañador de natación Rosa...'
 sku: 'B07LBMJCCY-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

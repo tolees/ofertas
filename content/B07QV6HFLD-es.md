@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QV6HFLD-es DOOKEY Pinturas Cara para Niños Pintura Facial no Tóxicos...'
 sku: 'B07QV6HFLD-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

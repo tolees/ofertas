@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GQX5QY-es Bresser Optics - Estación Meterológica Bresser 5 En 1...'
 sku: 'B075GQX5QY-es'
-tags: [  ]
 actualPrice: 77.21 EUR
 currency: EUR
 price: 77.21

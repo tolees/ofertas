@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SDLCDKK-es LIGHTAILING Conjunto de Luces Architecture Estatua de la...'
 sku: 'B07SDLCDKK-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013GH0AE4-es Remington HC5035 ColourCut - Máquina de Cortar pelo con...'
 sku: 'B013GH0AE4-es'
-tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

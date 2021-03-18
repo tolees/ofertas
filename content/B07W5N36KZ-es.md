@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5N36KZ-es Tommy Hilfiger Hilfiger Slim Polo Azul Blue Quartz X-Large...'
 sku: 'B07W5N36KZ-es'
-tags: [  ]
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

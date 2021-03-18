@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084JKQFNF-es Juego de paños de cocina. 3 piezas. Trapos cocina 60 * 60...'
 sku: 'B084JKQFNF-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

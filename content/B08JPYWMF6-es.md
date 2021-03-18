@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JPYWMF6-es Axloie Auriculares Inalambricos Deporte Audifonos...'
 sku: 'B08JPYWMF6-es'
-tags: [ 'axloie', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

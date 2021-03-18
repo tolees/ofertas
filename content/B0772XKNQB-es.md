@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0772XKNQB-es Columbia Silver Ridge II Pantalones de Senderismo...'
 sku: 'B0772XKNQB-es'
-tags: [  ]
 actualPrice: 48.2 EUR
 currency: EUR
 price: 48.2

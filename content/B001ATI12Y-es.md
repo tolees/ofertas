@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001ATI12Y-es Solgar Fórmula VM-75-60 Tabletas'
 sku: 'B001ATI12Y-es'
-tags: [  ]
 actualPrice: 19.69 EUR
 currency: EUR
 price: 19.69

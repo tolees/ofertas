@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQ1CZK8-es Seiko Reloj Analógico para Hombre de Energía Solar con...'
 sku: 'B07NQ1CZK8-es'
-tags: [  ]
 actualPrice: 147.48 EUR
 currency: EUR
 price: 147.48

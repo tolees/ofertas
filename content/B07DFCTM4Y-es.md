@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFCTM4Y-es Pop! Disney Mickey 90 Years - Figura de Vinilo Conductor...'
 sku: 'B07DFCTM4Y-es'
-tags: [  ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

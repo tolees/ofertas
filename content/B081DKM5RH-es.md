@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081DKM5RH-es Aurotek H10 Casco Smart Bluetooth con LED Adultos Unisex...'
 sku: 'B081DKM5RH-es'
-tags: [  ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

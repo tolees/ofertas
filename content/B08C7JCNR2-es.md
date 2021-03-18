@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7JCNR2-es Capzy - Japonés Samurai Taza Mug Cup'
 sku: 'B08C7JCNR2-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

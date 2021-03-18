@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QB8JS3N-es Colegiales Niña Pablosky Negro 334510 33'
 sku: 'B07QB8JS3N-es'
-tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

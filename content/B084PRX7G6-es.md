@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084PRX7G6-es Biomecanics 151157 Zapatillas Niñas Blanco Y Rosa Super...'
 sku: 'B084PRX7G6-es'
-tags: [  ]
 actualPrice: 31.05 EUR
 currency: EUR
 price: 31.05

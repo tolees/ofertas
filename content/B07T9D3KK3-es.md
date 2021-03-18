@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9D3KK3-es Aspiradora de Coche VOONEEN 7KPa Aspiradora para Automóvil...'
 sku: 'B07T9D3KK3-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

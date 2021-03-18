@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777LDMMK-es Clarks Tilden Free Mocasines para Hombre Marrón Dark Tan...'
 sku: 'B0777LDMMK-es'
-tags: [  ]
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73

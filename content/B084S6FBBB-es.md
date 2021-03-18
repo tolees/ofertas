@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084S6FBBB-es Tommee Tippee AKA0061 Grofriend Recargable USB con Sensor...'
 sku: 'B084S6FBBB-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

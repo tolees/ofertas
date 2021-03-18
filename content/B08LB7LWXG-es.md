@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LB7LWXG-es Warner Bros. Entertainment - Vikingos - Temporada 6:...'
 sku: 'B08LB7LWXG-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

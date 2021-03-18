@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08433XDQT-es Control Preservativos Sensual Fun Mix - Caja de condones...'
 sku: 'B08433XDQT-es'
-tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

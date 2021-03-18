@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BF7PM73-es WILDHD - Webcam Webcam con micrófono PC Webcam Streaming...'
 sku: 'B08BF7PM73-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

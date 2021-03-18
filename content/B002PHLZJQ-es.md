@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002PHLZJQ-es Inter Link Simply Vitrina de madera MDF y vidrio Negro 80...'
 sku: 'B002PHLZJQ-es'
-tags: [  ]
 actualPrice: 56.76 EUR
 currency: EUR
 price: 56.76

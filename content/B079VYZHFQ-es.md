@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079VYZHFQ-es Marvel - Black Panther 3D [Blu-ray]'
 sku: 'B079VYZHFQ-es'
-tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

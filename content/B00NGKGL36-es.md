@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NGKGL36-es Lactacyd Pharma Hidratante - Protege y mejora la...'
 sku: 'B00NGKGL36-es'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

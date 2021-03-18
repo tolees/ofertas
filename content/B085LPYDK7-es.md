@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LPYDK7-es Munich Arrow Kid 18 Zapatillas Unisex niños Multicolor 37 EU'
 sku: 'B085LPYDK7-es'
-tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

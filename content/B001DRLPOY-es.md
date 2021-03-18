@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001DRLPOY-es MANN-FILTER HU 711/51 X Set de Filtro de aceite juego de...'
 sku: 'B001DRLPOY-es'
-tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

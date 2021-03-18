@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797FZS7P-es Chicos- Futbolín Strategic Champion 2018 72458'
 sku: 'B0797FZS7P-es'
-tags: [  ]
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

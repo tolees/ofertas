@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WSP3CJN-es Govee Tiras LED Luces LED RGB 2 rollos 5m con Control...'
 sku: 'B07WSP3CJN-es'
-tags: [  ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

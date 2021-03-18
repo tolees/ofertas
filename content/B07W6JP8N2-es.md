@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6JP8N2-es Logitech G502 HERO SE Ratón Gaming con Cable Alto...'
 sku: 'B07W6JP8N2-es'
-tags: [ 'logitech g', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

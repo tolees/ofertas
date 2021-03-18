@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0193BNB8O-es Guzzini Servilleteros Grace 19 6 x 8 4 cm'
 sku: 'B0193BNB8O-es'
-tags: [  ]
 actualPrice: 19.7 EUR
 currency: EUR
 price: 19.7

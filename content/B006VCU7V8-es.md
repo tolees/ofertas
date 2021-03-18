@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006VCU7V8-es Lancaster Suractif Volume Contorno Day Cream 50 ml'
 sku: 'B006VCU7V8-es'
-tags: [  ]
 actualPrice: 39.31 EUR
 currency: EUR
 price: 39.31

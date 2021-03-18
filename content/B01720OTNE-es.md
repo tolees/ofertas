@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01720OTNE-es Taurus Dublin - Báscula de baño'
 sku: 'B01720OTNE-es'
-tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

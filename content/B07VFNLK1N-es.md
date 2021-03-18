@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VFNLK1N-es Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07VFNLK1N-es'
-tags: [  ]
 actualPrice: 223.6 EUR
 currency: EUR
 price: 223.6

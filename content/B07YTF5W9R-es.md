@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YTF5W9R-es The Big Bang Theory - Serie Completa Temporadas 1-12 Blu-...'
 sku: 'B07YTF5W9R-es'
-tags: [  ]
 actualPrice: 78.4 EUR
 currency: EUR
 price: 78.4

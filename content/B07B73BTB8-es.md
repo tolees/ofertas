@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B73BTB8-es New Balance 800 Middle Distance Zapatillas de Atletismo...'
 sku: 'B07B73BTB8-es'
-tags: [  ]
 actualPrice: 67.61 EUR
 currency: EUR
 price: 67.61

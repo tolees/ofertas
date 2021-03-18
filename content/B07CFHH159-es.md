@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CFHH159-es JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos...'
 sku: 'B07CFHH159-es'
-tags: [  ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

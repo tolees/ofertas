@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HPZ7JZ-es adidas CORE18 PES PNT Pantalones de Deporte Hombre...'
 sku: 'B076HPZ7JZ-es'
-tags: [  ]
 actualPrice: 20.46 EUR
 currency: EUR
 price: 20.46

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009GUDVW4-es Panasonic EW1211W845 Irrigador Bucal Eléctrico Portátil de...'
 sku: 'B009GUDVW4-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

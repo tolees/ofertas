@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000WFBPHK-es TRIXIE Bozal Lazo Nylon Entrenamiento XL 23-34 cm Negro Perro'
 sku: 'B000WFBPHK-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

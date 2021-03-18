@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00017IJQE-es Fellowes 99715 - Dispensador 100 toallitas limpiadoras...'
 sku: 'B00017IJQE-es'
-tags: [  ]
 actualPrice: 3.02 EUR
 currency: EUR
 price: 3.02

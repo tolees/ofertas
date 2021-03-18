@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GYCH9BP-es Cecotec Robot de Cocina Multifunción Mambo 9590 Cuchara...'
 sku: 'B08GYCH9BP-es'
-tags: [ 'Batidoras, robots de cocina y minipicadoras','Hogar y cocina','Pequeño electrodoméstico','Robots de cocina','Robots de cocina y minipicadoras','cecotec', ]
 actualPrice: 255.47 EUR
 currency: EUR
 price: 255.47

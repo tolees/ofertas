@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PLKDKQ4-es CACAGOO Walkie Talkie Recargable 16 Canales 1500mah CTCSS...'
 sku: 'B07PLKDKQ4-es'
-tags: [  ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

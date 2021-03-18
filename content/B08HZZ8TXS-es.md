@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZZ8TXS-es Revlon Professional ProYou Care Activador de Rizos 350 ml'
 sku: 'B08HZZ8TXS-es'
-tags: [  ]
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

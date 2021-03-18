@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTPDB49-es KiplingAbanu MultiMujerBolsos bandoleraNegro Black Noir...'
 sku: 'B07TTPDB49-es'
-tags: [  ]
 actualPrice: 33.7 EUR
 currency: EUR
 price: 33.7

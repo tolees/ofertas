@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081G2WH6W-es Lee Carol Jeans Dark Roberto 31W x 33L para Mujer'
 sku: 'B081G2WH6W-es'
-tags: [  ]
 actualPrice: 34.86 EUR
 currency: EUR
 price: 34.86

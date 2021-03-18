@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000LZ5IS8-es Nestlé Nesquik Cacao Soluble Instantáneo 390g'
 sku: 'B000LZ5IS8-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

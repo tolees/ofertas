@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LBTC2C6-es Nike SB Charge Suede Zapatillas Unisex Adulto Multicolor...'
 sku: 'B08LBTC2C6-es'
-tags: [  ]
 actualPrice: 36.23 EUR
 currency: EUR
 price: 36.23

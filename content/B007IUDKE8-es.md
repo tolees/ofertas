@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007IUDKE8-es Stendhal Recette Merveilleuse Crema Revitalisante Jour...'
 sku: 'B007IUDKE8-es'
-tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

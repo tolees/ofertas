@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QKRNS7E-es Seconde Chance'
 sku: 'B00QKRNS7E-es'
-tags: [  ]
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0838KYS7S-es Nike Venture Runner Zapatillas para Correr Hombre Photon...'
 sku: 'B0838KYS7S-es'
-tags: [  ]
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

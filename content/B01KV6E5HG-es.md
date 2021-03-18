@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KV6E5HG-es MiroPure Cepillo Limpiador Eléctrico Facial y corporal...'
 sku: 'B01KV6E5HG-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

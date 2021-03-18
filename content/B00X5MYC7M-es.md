@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X5MYC7M-es Desigual Dark Fresh 100ml'
 sku: 'B00X5MYC7M-es'
-tags: [  ]
 actualPrice: 14.02 EUR
 currency: EUR
 price: 14.02

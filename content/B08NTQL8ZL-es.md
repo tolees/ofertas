@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NTQL8ZL-es Nero Giardini - NeroGiardini A909061D Sneaker Mujer De...'
 sku: 'B08NTQL8ZL-es'
-tags: [  ]
 actualPrice: 83.7 EUR
 currency: EUR
 price: 83.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C9PB9JY-es BOBOO Mini RC Dron para niños cuadricóptero plegable con...'
 sku: 'B08C9PB9JY-es'
-tags: [  ]
 actualPrice: 32.89 EUR
 currency: EUR
 price: 32.89

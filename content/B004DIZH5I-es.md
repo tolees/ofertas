@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004DIZH5I-es Widmann 02723 - Disfraz de vaquero para niño talla L'
 sku: 'B004DIZH5I-es'
-tags: [  ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZGKT4R-es Sport Science - Science in Sport 310001 Go Hydro...'
 sku: 'B07CZGKT4R-es'
-tags: [  ]
 actualPrice: 19.07 EUR
 currency: EUR
 price: 19.07

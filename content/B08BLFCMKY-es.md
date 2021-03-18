@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLFCMKY-es Burton Treble Yell Adultos Unisex Dress Blue'
 sku: 'B08BLFCMKY-es'
-tags: [ 'Acampada y senderismo','Deportes y aire libre','Mochilas de marcha','Mochilas y bolsas','burton', ]
 actualPrice: 34.62 EUR
 currency: EUR
 price: 34.62

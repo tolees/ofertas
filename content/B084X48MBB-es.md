@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084X48MBB-es Baoblaze Memory Match Game - Juegos De Memoria De...'
 sku: 'B084X48MBB-es'
-tags: [  ]
 actualPrice: 25.96 EUR
 currency: EUR
 price: 25.96

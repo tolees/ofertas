@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088FJY87Y-es Hurley M Phtm Spray Gun 20 Bañador Hombre Total Orange 33'
 sku: 'B088FJY87Y-es'
-tags: [  ]
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

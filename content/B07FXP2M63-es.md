@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXP2M63-es TOUCHBeauty Manicura y Pedicura Lima de uñas eléctrico...'
 sku: 'B07FXP2M63-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BFT1Y9Q-es RE Anillo de Luz LED 6 Pulgadas con Soporte de Móvil...'
 sku: 'B08BFT1Y9Q-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

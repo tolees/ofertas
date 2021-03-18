@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNK14YJ-es Starwax The Fabulous Vinagre De Limpieza 500ml -...'
 sku: 'B08CNK14YJ-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

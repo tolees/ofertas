@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0030MCYH2-es Ravensburger-Juego de Aprendizaje ¿Cuanto me Cuesta 24098'
 sku: 'B0030MCYH2-es'
-tags: [  ]
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

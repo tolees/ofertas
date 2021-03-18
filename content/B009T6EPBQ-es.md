@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009T6EPBQ-es HP H4F02AA - Adaptador HDMI a VGA Negro'
 sku: 'B009T6EPBQ-es'
-tags: [  ]
 actualPrice: 22.13 EUR
 currency: EUR
 price: 22.13

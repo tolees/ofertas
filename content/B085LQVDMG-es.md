@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LQVDMG-es Munich Dash Kid VCO 76 Zapatillas Multicolor 31 EU'
 sku: 'B085LQVDMG-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

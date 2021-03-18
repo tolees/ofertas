@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010GTJGO0-es Timex Grid Shock - Reloj digital con correa de resina para...'
 sku: 'B010GTJGO0-es'
-tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

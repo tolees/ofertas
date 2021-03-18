@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QGMTCQP-es Fossil Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07QGMTCQP-es'
-tags: [  ]
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

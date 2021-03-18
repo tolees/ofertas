@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VH58P4C-es AHANGA Correa para Mi Band 4 Xiaomi Mi Band 3 Correas...'
 sku: 'B07VH58P4C-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

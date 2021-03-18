@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079KD4PR6-es Hot Wheels Cocodrilo Destructor pista de coches de juguete...'
 sku: 'B079KD4PR6-es'
-tags: [  ]
 actualPrice: 50.4 EUR
 currency: EUR
 price: 50.4

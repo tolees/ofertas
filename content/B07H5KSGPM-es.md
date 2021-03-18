@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5KSGPM-es Botas de Invierno para Hombre con Botas de Nieve Camfosy...'
 sku: 'B07H5KSGPM-es'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

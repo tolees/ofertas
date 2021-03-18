@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009KO9G9S-es Joma Champion II - Polo para Hombre Color Rojo/Negro Talla S'
 sku: 'B009KO9G9S-es'
-tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

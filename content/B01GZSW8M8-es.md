@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GZSW8M8-es WILIT T3 Lámpara de Escritorio Táctil Flexo LED Regulable...'
 sku: 'B01GZSW8M8-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

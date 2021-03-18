@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MVLFFZW-es GeekerChip Adaptador de Bluetooth 5.0 Bluetooth USB PC...'
 sku: 'B08MVLFFZW-es'
-tags: [ 'geekerchip', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

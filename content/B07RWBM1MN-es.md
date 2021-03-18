@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RWBM1MN-es Neutrogena Aceite en Loción Hidratación Profunda Piel Seca...'
 sku: 'B07RWBM1MN-es'
-tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

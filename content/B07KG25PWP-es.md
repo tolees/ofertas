@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG25PWP-es PUMA Rebound Layup Lo SL Zapatillas Unisex Adulto White-...'
 sku: 'B07KG25PWP-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

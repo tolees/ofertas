@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UZSZW9Q-es Jako Polyesterjacke Pro Junior Jacke Blue-Navy-Citro - 152'
 sku: 'B00UZSZW9Q-es'
-tags: [  ]
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

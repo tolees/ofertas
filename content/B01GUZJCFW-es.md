@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GUZJCFW-es Adidas Stan Smith Zapatillas Unisex Niños Blanco Footwear...'
 sku: 'B01GUZJCFW-es'
-tags: [ 'Zapatillas casual para niña','Zapatos para niños pequeños','adidas', ]
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08P2VP9XS-es Robot Aspirador y Fregasuelos Robot Fregasuelos Robot...'
 sku: 'B08P2VP9XS-es'
-tags: [ 'okp', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

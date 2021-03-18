@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMTL5V3-es Under Armour Favorite 2.0 Bolsa Deportiva Mujer Negro OSFA'
 sku: 'B07PMTL5V3-es'
-tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

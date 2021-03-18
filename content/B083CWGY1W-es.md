@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083CWGY1W-es adidas Fit Legsuit Sol Swimsuit Mujer Black/White 46'
 sku: 'B083CWGY1W-es'
-tags: [  ]
 actualPrice: 21.01 EUR
 currency: EUR
 price: 21.01

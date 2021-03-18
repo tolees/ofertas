@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081K6R3RK-es Mizuno Wave Voltage Zapatillas de vóleibol Unisex Adulto...'
 sku: 'B081K6R3RK-es'
-tags: [  ]
 actualPrice: 59.8 EUR
 currency: EUR
 price: 59.8

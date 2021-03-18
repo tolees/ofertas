@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I46YEGS-es Delta Dore 6053005 Termostato Programab Tybox 117 Blanco...'
 sku: 'B00I46YEGS-es'
-tags: [  ]
 actualPrice: 49.28 EUR
 currency: EUR
 price: 49.28

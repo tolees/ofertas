@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQXVWDR-es Under Armour SweaterFleece 1/2 Zip Parte Superior del...'
 sku: 'B07MQXVWDR-es'
-tags: [  ]
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

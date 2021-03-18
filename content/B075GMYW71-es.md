@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075GMYW71-es Trilogía Planeta De Los Simios Blu-Ray [Blu-ray]'
 sku: 'B075GMYW71-es'
-tags: [  ]
 actualPrice: 13.64 EUR
 currency: EUR
 price: 13.64

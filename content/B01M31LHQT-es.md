@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M31LHQT-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
 sku: 'B01M31LHQT-es'
-tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

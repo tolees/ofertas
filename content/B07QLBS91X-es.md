@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLBS91X-es VLIKE Estación meteorológica con 2PCS sensores Estación...'
 sku: 'B07QLBS91X-es'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYCXZL2-es Merrell Vapor Glove 4 Zapatillas Deportivas para Interior...'
 sku: 'B07DYCXZL2-es'
-tags: [  ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

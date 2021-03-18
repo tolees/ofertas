@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BDYT58L-es Super Smash Bros. Ultimate Nintendo Switch'
 sku: 'B07BDYT58L-es'
-tags: [  ]
 actualPrice: 51.29 EUR
 currency: EUR
 price: 51.29

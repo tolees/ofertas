@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCNX9TB-es Dreamon Juguete con Coche de Bomberos Mini Coches de...'
 sku: 'B07CCNX9TB-es'
-tags: [  ]
 actualPrice: 12.86 EUR
 currency: EUR
 price: 12.86

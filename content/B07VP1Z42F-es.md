@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VP1Z42F-es Skechers GO Walk Lite Zapatillas Mujer Beige Natural...'
 sku: 'B07VP1Z42F-es'
-tags: [  ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

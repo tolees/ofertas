@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S9RYR2G-es PUMA JARO Zapatillas de Running para Hombre Negro Black 43 EU'
 sku: 'B07S9RYR2G-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

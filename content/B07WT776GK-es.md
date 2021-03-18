@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WT776GK-es SAMSUNG Galaxy Watch Active 2 - Smartwatch de Aluminio...'
 sku: 'B07WT776GK-es'
-tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

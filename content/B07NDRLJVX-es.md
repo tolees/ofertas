@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDRLJVX-es Samsung Galaxy Watch Active – Smartwatch 1 1” 40mm Tizen...'
 sku: 'B07NDRLJVX-es'
-tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

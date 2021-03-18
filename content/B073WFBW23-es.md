@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073WFBW23-es Polar M200 - Reloj de Running con GPS y Frecuencia...'
 sku: 'B073WFBW23-es'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

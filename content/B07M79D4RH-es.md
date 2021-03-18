@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M79D4RH-es Fossil Reloj de Bolsillo Digital FTW4019'
 sku: 'B07M79D4RH-es'
-tags: [  ]
 actualPrice: 149.4 EUR
 currency: EUR
 price: 149.4

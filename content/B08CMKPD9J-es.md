@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CMKPD9J-es Nicetai - LED Foco Exterior con Sensor Movimiento...'
 sku: 'B08CMKPD9J-es'
-tags: [  ]
 actualPrice: 20.16 EUR
 currency: EUR
 price: 20.16

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AWCQPGS-es Rollei Compact Traveler No I Carbon I Negro I Trípode de...'
 sku: 'B01AWCQPGS-es'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

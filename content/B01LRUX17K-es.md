@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LRUX17K-es Hauck Sleep N Play Center - Cuna de viaje 7 piezas hasta...'
 sku: 'B01LRUX17K-es'
-tags: [  ]
 actualPrice: 53.66 EUR
 currency: EUR
 price: 53.66

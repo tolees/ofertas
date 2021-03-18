@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Z7RPYEI-es OtterBox Defender - Funda anti caídas robusta para iPhone...'
 sku: 'B00Z7RPYEI-es'
-tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

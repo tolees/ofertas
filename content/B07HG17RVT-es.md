@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG17RVT-es Sharplace Caja de Disco Duro Móvil 2X 2.5 IDE USB 2.0...'
 sku: 'B07HG17RVT-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

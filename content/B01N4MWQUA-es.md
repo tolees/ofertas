@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4MWQUA-es CAMPER Hoops Damen Low-top Weiß White Natural 100 39 EU'
 sku: 'B01N4MWQUA-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

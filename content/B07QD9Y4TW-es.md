@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QD9Y4TW-es adidas Grand Court I Zapatillas de Estar por casa Unisex...'
 sku: 'B07QD9Y4TW-es'
-tags: [  ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

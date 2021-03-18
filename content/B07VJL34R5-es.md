@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VJL34R5-es Nike Pico 5 TDV Gymnastics Shoe Unisex-Baby...'
 sku: 'B07VJL34R5-es'
-tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

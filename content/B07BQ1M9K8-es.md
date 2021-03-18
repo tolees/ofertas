@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BQ1M9K8-es VicTsing Teclado Gaming Español USB LED Rainbow...'
 sku: 'B07BQ1M9K8-es'
-tags: [  ]
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

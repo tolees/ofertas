@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0895ZG9CT-es MKTOSASA - Auriculares In-Ear Inalámbricos Bluetooth 5.0...'
 sku: 'B0895ZG9CT-es'
-tags: [  ]
 actualPrice: 12.4 EUR
 currency: EUR
 price: 12.4

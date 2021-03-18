@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKS8HWJ-es LileZbox - Soporte Expositor de acrílico para Figuras...'
 sku: 'B07XKS8HWJ-es'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

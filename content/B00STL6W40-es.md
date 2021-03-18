@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00STL6W40-es Hasbro Gaming Juego de mesa Operación Hasbro B2176B09'
 sku: 'B00STL6W40-es'
-tags: [  ]
 actualPrice: 21.19 EUR
 currency: EUR
 price: 21.19

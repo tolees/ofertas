@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IAOLCOQ-es Casio Reloj digital STL-S100H-1AVEF'
 sku: 'B00IAOLCOQ-es'
-tags: [  ]
 actualPrice: 31.06 EUR
 currency: EUR
 price: 31.06

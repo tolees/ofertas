@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8KVKTF-es HOMYBABY Ganchos Carrito Bebé 2 pcs | Diseño...'
 sku: 'B07N8KVKTF-es'
-tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

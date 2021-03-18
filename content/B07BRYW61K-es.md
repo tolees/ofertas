@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BRYW61K-es Garnier Fructis Hair Food Goji Mascarilla Reaviva el...'
 sku: 'B07BRYW61K-es'
-tags: [  ]
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

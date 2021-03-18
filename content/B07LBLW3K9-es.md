@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBLW3K9-es Kappa Dolomo Botas Clasicas para Hombre Black/Grey 1116 41 EU'
 sku: 'B07LBLW3K9-es'
-tags: [  ]
 actualPrice: 20.13 EUR
 currency: EUR
 price: 20.13

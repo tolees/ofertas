@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VXBXXD3-es Disney Princess Muñeca Mulan Guerrera Hasbro E86285L0'
 sku: 'B07VXBXXD3-es'
-tags: [  ]
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

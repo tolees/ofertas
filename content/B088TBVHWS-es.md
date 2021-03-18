@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TBVHWS-es Webcam 1080P con Micrófono Computadora Webcam para...'
 sku: 'B088TBVHWS-es'
-tags: [  ]
 actualPrice: 33.69 EUR
 currency: EUR
 price: 33.69

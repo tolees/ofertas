@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0857STXH2-es NUK First Choice+ set de biberones | 3 biberones con...'
 sku: 'B0857STXH2-es'
-tags: [  ]
 actualPrice: 17.28 EUR
 currency: EUR
 price: 17.28

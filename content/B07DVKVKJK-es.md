@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVKVKJK-es New Balance W890V7 Zapatillas de Running para Mujer Verde...'
 sku: 'B07DVKVKJK-es'
-tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

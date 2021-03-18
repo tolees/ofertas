@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BHPM2IO-es Senti2 Suero fisiológico - 60 monodosis'
 sku: 'B01BHPM2IO-es'
-tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

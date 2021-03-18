@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0006SRS5G-es Remington Stylist HC363C - Máquina de Cortar Pelo...'
 sku: 'B0006SRS5G-es'
-tags: [  ]
 actualPrice: 29.67 EUR
 currency: EUR
 price: 29.67

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014HFNQJK-es Einhell Expert 4257191 Set de herramientas TE-TK 12 Li 12...'
 sku: 'B014HFNQJK-es'
-tags: [  ]
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

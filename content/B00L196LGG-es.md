@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L196LGG-es Philips S9711/31 - Afeitadora Negro Cromo Carga...'
 sku: 'B00L196LGG-es'
-tags: [  ]
 actualPrice: 275.62 EUR
 currency: EUR
 price: 275.62

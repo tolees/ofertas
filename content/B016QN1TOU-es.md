@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016QN1TOU-es Selis Mickey Mouse - Letra Adhesiva de Madera - Hay 5...'
 sku: 'B016QN1TOU-es'
-tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

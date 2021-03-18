@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0812GJG5D-es ASICS Gel-Sonoma 5 G-TX Running Shoe para Mujer -...'
 sku: 'B0812GJG5D-es'
-tags: [  ]
 actualPrice: 69.4 EUR
 currency: EUR
 price: 69.4

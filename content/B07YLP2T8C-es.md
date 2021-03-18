@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLP2T8C-es Fossil Reloj para de Cuarzo con Correa en Acero Inoxidable...'
 sku: 'B07YLP2T8C-es'
-tags: [  ]
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

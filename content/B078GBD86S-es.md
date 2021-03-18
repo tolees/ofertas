@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078GBD86S-es Maybelline New York Dream Radiant Liquid Base de...'
 sku: 'B078GBD86S-es'
-tags: [  ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

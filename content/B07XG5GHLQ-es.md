@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XG5GHLQ-es Funko - Pop! Deluxe: Star Wars- Luke on Taun Taun Figura...'
 sku: 'B07XG5GHLQ-es'
-tags: [  ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

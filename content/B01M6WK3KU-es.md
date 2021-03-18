@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M6WK3KU-es StarTech.com DP2HD4K60S - Adaptador conversor DisplayPort...'
 sku: 'B01M6WK3KU-es'
-tags: [  ]
 actualPrice: 34.69 EUR
 currency: EUR
 price: 34.69

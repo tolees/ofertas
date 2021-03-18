@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072SY5JHQ-es MyHeritage DNA Kit de Pruebas - Pruebas Genéticas de...'
 sku: 'B072SY5JHQ-es'
-tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

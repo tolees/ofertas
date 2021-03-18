@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0863PRHN3-es Enjoyee -4 Viseras Protectoras para la Cara plástico...'
 sku: 'B0863PRHN3-es'
-tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

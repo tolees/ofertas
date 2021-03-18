@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077SK5K5C-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con...'
 sku: 'B077SK5K5C-es'
-tags: [  ]
 actualPrice: 221.3 EUR
 currency: EUR
 price: 221.3

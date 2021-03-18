@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XLXRWB9-es Super Sparrow Botella Agua Acero Inoxidable - Botella Agua...'
 sku: 'B07XLXRWB9-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PH4ALJY-es BW - B+W XS-Pro HTC MRC - Filtro polarizador de 82 mm'
 sku: 'B00PH4ALJY-es'
-tags: [  ]
 actualPrice: 153.38 EUR
 currency: EUR
 price: 153.38

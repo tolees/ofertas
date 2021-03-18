@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075MGMV89-es Mann Filter - MANN-FILTER Filtro de aceite W 7053 Para...'
 sku: 'B075MGMV89-es'
-tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

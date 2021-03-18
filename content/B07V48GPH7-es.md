@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V48GPH7-es BOSS Identity Pants Pantalones de Deporte Azul Dark Blue...'
 sku: 'B07V48GPH7-es'
-tags: [  ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

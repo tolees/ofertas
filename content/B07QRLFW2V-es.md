@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QRLFW2V-es Rexona Invisible Aqua Antitranspirante Aerosol para Mujer...'
 sku: 'B07QRLFW2V-es'
-tags: [  ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076B9ZV6Y-es MagicLux Tech picadora Manual 3 Cuchillas Mini picadora de...'
 sku: 'B076B9ZV6Y-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

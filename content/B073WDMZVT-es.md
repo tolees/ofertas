@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073WDMZVT-es Polar M430 Reloj de Running con GPS y Frecuencia cardíaca...'
 sku: 'B073WDMZVT-es'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

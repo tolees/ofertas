@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KWT33MX-es Bosch Home and Garden - Bosch UniversalGrassCut 18-260 -...'
 sku: 'B07KWT33MX-es'
-tags: [  ]
 actualPrice: 116.99 EUR
 currency: EUR
 price: 116.99

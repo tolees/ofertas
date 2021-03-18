@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078S8NYCS-es Chlorella Espirulina.Spirulina Potente DETOX Antioxidante-...'
 sku: 'B078S8NYCS-es'
-tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

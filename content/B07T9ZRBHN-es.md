@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T9ZRBHN-es Twinzee Picadora de Carne Eléctrica 1500W Blanco - para...'
 sku: 'B07T9ZRBHN-es'
-tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

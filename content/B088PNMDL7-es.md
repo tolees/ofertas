@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088PNMDL7-es ASUS ROG Zephyrus S17 GX701LXS-HG032T - Ordenador portátil...'
 sku: 'B088PNMDL7-es'
-tags: [  ]
 actualPrice: 2383.16 EUR
 currency: EUR
 price: 2383.16

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W3XQD97-es B Baosity Vendaje de La Ropa Interior Del Traje Del...'
 sku: 'B08W3XQD97-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

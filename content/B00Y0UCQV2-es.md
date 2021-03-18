@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Y0UCQV2-es Superga 2790-COTROPEW Zapatillas Mujer Blanco 901 White 37...'
 sku: 'B00Y0UCQV2-es'
-tags: [  ]
 actualPrice: 44.78 EUR
 currency: EUR
 price: 44.78

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVVH4C3-es Armor Lux Penmarch Impermeable Azul Navire 300 Medium para...'
 sku: 'B07NVVH4C3-es'
-tags: [  ]
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

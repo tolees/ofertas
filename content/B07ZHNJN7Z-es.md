@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZHNJN7Z-es BaByliss D373E Secador de pelo retráctil iónico Motor DC...'
 sku: 'B07ZHNJN7Z-es'
-tags: [  ]
 actualPrice: 27.81 EUR
 currency: EUR
 price: 27.81

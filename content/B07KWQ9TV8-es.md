@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KWQ9TV8-es Helly Hansen Tokyo Hoodie Hombre White S'
 sku: 'B07KWQ9TV8-es'
-tags: [  ]
 actualPrice: 31.16 EUR
 currency: EUR
 price: 31.16

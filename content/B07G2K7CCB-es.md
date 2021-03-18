@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2K7CCB-es Taiko No Tatsujin: Drum n Fun'
 sku: 'B07G2K7CCB-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

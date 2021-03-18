@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSW01R7-es Suunto Core Negro/Rojo'
 sku: 'B01MSW01R7-es'
-tags: [  ]
 actualPrice: 177.71 EUR
 currency: EUR
 price: 177.71

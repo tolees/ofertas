@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNPKX63-es Amazon - Echo Show 8: mantén el contacto con la ayuda de...'
 sku: 'B07SNPKX63-es'
-tags: [ 'amazon', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

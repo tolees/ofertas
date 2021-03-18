@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYN2KZB-es Asics Gel-Bondi Zapatillas de Running para Hombre Negro...'
 sku: 'B07RYN2KZB-es'
-tags: [  ]
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TQEX8BO-es TP-Link TL-WR802N Nano Router N300 Wi-Fi portátil 300 Mbps...'
 sku: 'B00TQEX8BO-es'
-tags: [  ]
 actualPrice: 21.63 EUR
 currency: EUR
 price: 21.63

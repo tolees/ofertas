@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YY7VWUW-es Max Factor Creme Puff Blush Colorete Tono 10 Nude Mauve -...'
 sku: 'B00YY7VWUW-es'
-tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

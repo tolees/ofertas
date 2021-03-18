@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WTSHCF-es Finish Powerball All in 1 Max - Pastillas para el...'
 sku: 'B078WTSHCF-es'
-tags: [  ]
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

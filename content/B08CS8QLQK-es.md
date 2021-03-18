@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CS8QLQK-es Meridiem Games - Tin & Kuna'
 sku: 'B08CS8QLQK-es'
-tags: [ 'meridiem games', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1G53ZW-es KUONIIY Tijeras de Cocina para Trabajo Pesado Tijeras de...'
 sku: 'B07K1G53ZW-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

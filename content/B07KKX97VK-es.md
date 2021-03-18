@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KKX97VK-es adidas Finale M CPT - Balon de fútbol Off White/Power...'
 sku: 'B07KKX97VK-es'
-tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2HM5MG-es Reebok REAGO Pulse Zapatillas de Deporte Interior para...'
 sku: 'B07P2HM5MG-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

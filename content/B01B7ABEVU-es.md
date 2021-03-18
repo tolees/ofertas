@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B7ABEVU-es Sony BDPS3700 - Reproductor de Blu-ray Disc con CD DVD Wi-...'
 sku: 'B01B7ABEVU-es'
-tags: [ 'sony', ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

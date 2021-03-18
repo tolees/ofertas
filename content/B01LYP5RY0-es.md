@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYP5RY0-es Parker Urban 1931585 - Bolígrafo roller azul vibrante...'
 sku: 'B01LYP5RY0-es'
-tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

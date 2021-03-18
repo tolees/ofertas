@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071CDLMGG-es SGILE Comprobador de Cable de Red RJ45 Network Tool Kits...'
 sku: 'B071CDLMGG-es'
-tags: [  ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

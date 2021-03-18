@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B4XHU3C-es Friskies - Bon Bacon - Alimento Complementario para Perros...'
 sku: 'B00B4XHU3C-es'
-tags: [ 'friskies', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

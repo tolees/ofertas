@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08PYJ488X-es NAIXUES Smartwatch Mujer Reloj Inteligente Impermeable 67...'
 sku: 'B08PYJ488X-es'
-tags: [ 'naixues', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

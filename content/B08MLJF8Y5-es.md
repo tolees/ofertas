@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MLJF8Y5-es MHHQ para Xiaomi Redmi 9A Funda 2in1 Armadura Combinación...'
 sku: 'B08MLJF8Y5-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

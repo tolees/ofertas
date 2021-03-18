@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VBHQHFT-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B07VBHQHFT-es'
-tags: [  ]
 actualPrice: 193.99 EUR
 currency: EUR
 price: 193.99

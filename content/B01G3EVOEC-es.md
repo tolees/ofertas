@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G3EVOEC-es Hombre de Acero 4k Uhd [Blu-ray]'
 sku: 'B01G3EVOEC-es'
-tags: [ 'Blu-ray','Featured Categories','Películas','Películas y TV', ]
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

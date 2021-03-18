@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PT46WMG-es Poopsie Slime Surprise - Tooties Fart Jacob Giochi...'
 sku: 'B07PT46WMG-es'
-tags: [ 'Actividades creativas','Arcilla y plastilina','Juguetes','Juguetes y juegos','Muñecos y figuras','giochi preziosi', ]
 actualPrice: 27.48 EUR
 currency: EUR
 price: 27.48

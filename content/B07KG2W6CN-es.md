@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG2W6CN-es PUMA RS 9.8 Space Zapatillas para Hombre Pastel Parchment...'
 sku: 'B07KG2W6CN-es'
-tags: [  ]
 actualPrice: 38.01 EUR
 currency: EUR
 price: 38.01

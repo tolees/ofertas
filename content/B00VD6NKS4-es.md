@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VD6NKS4-es Veopulse Veopulse – Soporte Magnético de Teléfono para...'
 sku: 'B00VD6NKS4-es'
-tags: [  ]
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

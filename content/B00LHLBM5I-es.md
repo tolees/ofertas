@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LHLBM5I-es Trust 20058 Urban - Funda Universal con Función Soporte...'
 sku: 'B00LHLBM5I-es'
-tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

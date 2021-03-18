@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087JK7PH7-es LNIEGE 1PC plástico 800ml Gel Bolas Carga de Botellas de...'
 sku: 'B087JK7PH7-es'
-tags: [  ]
 actualPrice: 5.05 EUR
 currency: EUR
 price: 5.05

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YWQQGNX-es PATO Activos Wc Aplicador Y Recambio Con Negro 1 Aplicador...'
 sku: 'B07YWQQGNX-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

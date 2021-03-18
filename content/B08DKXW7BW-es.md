@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKXW7BW-es Xiaomi Mi True Wireless Earphones 2S.'
 sku: 'B08DKXW7BW-es'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

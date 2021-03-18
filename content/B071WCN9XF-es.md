@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WCN9XF-es Reebok Club C 85 Melted Metals Zapatillas para Mujer...'
 sku: 'B071WCN9XF-es'
-tags: [  ]
 actualPrice: 26.81 EUR
 currency: EUR
 price: 26.81

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MVC627F-es NGS FUNKYV2 Teclado con Cable y conexión USB 104 Teclas de...'
 sku: 'B07MVC627F-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

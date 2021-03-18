@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQGPBPB-es MSI Modern 14 A10RB-663XES - Ordenador portátil de 14"...'
 sku: 'B07YQGPBPB-es'
-tags: [  ]
 actualPrice: 400.0 EUR
 currency: EUR
 price: 400.0

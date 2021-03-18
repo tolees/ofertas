@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0848LVCXC-es Mascarilla de protección respiratoria N95 – Máscara...'
 sku: 'B0848LVCXC-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

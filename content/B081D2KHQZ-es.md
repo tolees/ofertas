@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081D2KHQZ-es ROIDMI X20 Storm Aspiradora sin cable versión EU 435 W...'
 sku: 'B081D2KHQZ-es'
-tags: [  ]
 actualPrice: 319.5 EUR
 currency: EUR
 price: 319.5

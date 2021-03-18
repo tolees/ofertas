@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S8XNTQN-es GREAT ART Foto Mural La Tierra desde La Luna Imagen...'
 sku: 'B07S8XNTQN-es'
-tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

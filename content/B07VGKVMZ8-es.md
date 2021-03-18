@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGKVMZ8-es Napapijri Entebe Polo Azul Medieval Blue Bb61 Small para...'
 sku: 'B07VGKVMZ8-es'
-tags: [  ]
 actualPrice: 25.54 EUR
 currency: EUR
 price: 25.54

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWMBPV9-es Hually Funda para Huawei P20 Lite Carcasa Transparente...'
 sku: 'B07GWMBPV9-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

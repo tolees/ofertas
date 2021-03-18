@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C8XW8X2-es Valkyria Chronicles 4 - Switch'
 sku: 'B07C8XW8X2-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

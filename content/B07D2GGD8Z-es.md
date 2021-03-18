@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D2GGD8Z-es Bolero Sticks 12x3g 12 Unidades 40 g'
 sku: 'B07D2GGD8Z-es'
-tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

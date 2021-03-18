@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FLRDN8-es ATMOKO Cepillo Dientes Sónico Cepillo Electrico Dientes...'
 sku: 'B083FLRDN8-es'
-tags: [  ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

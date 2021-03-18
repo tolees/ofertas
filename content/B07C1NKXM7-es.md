@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C1NKXM7-es Hojas cuadriculadas A4 Recambio Oxford School 10 Banda...'
 sku: 'B07C1NKXM7-es'
-tags: [  ]
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

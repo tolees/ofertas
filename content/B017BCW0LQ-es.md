@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017BCW0LQ-es 20th Century Fox Home Entertainment España S.A. - Hijos De...'
 sku: 'B017BCW0LQ-es'
-tags: [  ]
 actualPrice: 53.06 EUR
 currency: EUR
 price: 53.06

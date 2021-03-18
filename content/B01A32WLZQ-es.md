@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A32WLZQ-es ZENBRE Parlante Bluetooth Z3 10W Parlante Inalámbrico...'
 sku: 'B01A32WLZQ-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

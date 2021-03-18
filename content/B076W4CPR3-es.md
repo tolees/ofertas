@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076W4CPR3-es Dunkerque [DVD]'
 sku: 'B076W4CPR3-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

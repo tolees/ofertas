@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085FG6SHD-es realme 6 – Smartphone de 6.5” 4 GB RAM + 128 GB ROM...'
 sku: 'B085FG6SHD-es'
-tags: [  ]
 actualPrice: 183.0 EUR
 currency: EUR
 price: 183.0

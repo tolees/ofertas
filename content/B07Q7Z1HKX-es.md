@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q7Z1HKX-es Erasky Memoria USB De 64GB Pendrive Flash Drive Aluminio...'
 sku: 'B07Q7Z1HKX-es'
-tags: [  ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

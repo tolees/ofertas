@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HK65V5R-es Altavoz Bluetooth con Luz Nocturna Amouhom lámpara en el...'
 sku: 'B07HK65V5R-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FQZ1W4-es Nike Revolution 5 Running Shoe Hombre Black/Chile Red-...'
 sku: 'B083FQZ1W4-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

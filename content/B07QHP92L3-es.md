@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QHP92L3-es adidas Advantage C Zapatillas de Tenis Unisex niños...'
 sku: 'B07QHP92L3-es'
-tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

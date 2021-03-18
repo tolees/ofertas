@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5BTZ32-es Tommy Hilfiger Bra Sujetador Push-up Azul Navy Blazer 416...'
 sku: 'B06W5BTZ32-es'
-tags: [  ]
 actualPrice: 22.27 EUR
 currency: EUR
 price: 22.27

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D6YZYJ5-es Aro de luz VicTsing Anillo de Luz Trípode LED 10" 3 Modos...'
 sku: 'B08D6YZYJ5-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

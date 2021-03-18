@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LRHS5J-es Hurley M Phtm Easy 18 Bañador Hombre Obsidian 30'
 sku: 'B085LRHS5J-es'
-tags: [  ]
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

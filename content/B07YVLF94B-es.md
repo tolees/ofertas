@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YVLF94B-es Pepe Jeans Arrow Tarjetero Vertical Azul 7x10x1 5 cms Piel'
 sku: 'B07YVLF94B-es'
-tags: [  ]
 actualPrice: 25.27 EUR
 currency: EUR
 price: 25.27

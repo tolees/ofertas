@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C5D35NQ-es Precision Kids'
 sku: 'B07C5D35NQ-es'
-tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

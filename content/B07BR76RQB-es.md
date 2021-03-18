@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BR76RQB-es Maybelline New York - Total Temptation Máscara de Pestañas...'
 sku: 'B07BR76RQB-es'
-tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074MSV45X-es Powerextra Batería Canon LP-E6 y LP-E6N con Cargador...'
 sku: 'B074MSV45X-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

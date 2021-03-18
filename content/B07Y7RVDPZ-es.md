@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7RVDPZ-es WOSTOO Estantería de Esquina para Baño Estantería Ducha...'
 sku: 'B07Y7RVDPZ-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

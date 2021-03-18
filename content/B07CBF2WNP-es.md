@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CBF2WNP-es Bosch BEL523MS0 - Microondas integrable / encastre 800 W...'
 sku: 'B07CBF2WNP-es'
-tags: [  ]
 actualPrice: 222.0 EUR
 currency: EUR
 price: 222.0

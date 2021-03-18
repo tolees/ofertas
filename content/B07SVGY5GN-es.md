@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVGY5GN-es The Fisherman: Fishing Planet - Day One Edition [Versión...'
 sku: 'B07SVGY5GN-es'
-tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

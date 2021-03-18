@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z9SB36F-es Ritiriko Zapatillas de Deporte para Mujer - Zapatillas de...'
 sku: 'B07Z9SB36F-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

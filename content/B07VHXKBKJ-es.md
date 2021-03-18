@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHXKBKJ-es Lee Extreme Motion Straight Jeans Theo 33W / 34L para Hombre'
 sku: 'B07VHXKBKJ-es'
-tags: [  ]
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

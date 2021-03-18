@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YKMT553-es Precision Kids Lace'
 sku: 'B07YKMT553-es'
-tags: [  ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

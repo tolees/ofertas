@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012GWCNJU-es 3 Piezas Sujetador Deportivo para Mujeres Sin Costuras...'
 sku: 'B012GWCNJU-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

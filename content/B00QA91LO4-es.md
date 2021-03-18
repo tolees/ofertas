@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QA91LO4-es Sharplace 1 x Emulador USB SFR1M44-U100K 4 x Tornillo'
 sku: 'B00QA91LO4-es'
-tags: [  ]
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

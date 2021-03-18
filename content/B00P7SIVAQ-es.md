@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00P7SIVAQ-es Regenerate Dentif Avanzato75Ml'
 sku: 'B00P7SIVAQ-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

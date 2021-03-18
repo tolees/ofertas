@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9BDZ9Q-es Nike Renew Rival 2 Zapatillas de Running para Hombre Negro...'
 sku: 'B07L9BDZ9Q-es'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTPBT9X-es Skechers Flex Advantage 3.0-Stally Zapatillas Deportivas...'
 sku: 'B07CTPBT9X-es'
-tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

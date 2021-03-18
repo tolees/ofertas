@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P81T8QS-es Pop! Figura de Vinilo: Música: The Police - Andy Summers'
 sku: 'B07P81T8QS-es'
-tags: [  ]
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

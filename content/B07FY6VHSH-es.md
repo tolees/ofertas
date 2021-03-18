@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY6VHSH-es Champion The Curvy Sujetador Deportivo Blanc/Noir 8ml...'
 sku: 'B07FY6VHSH-es'
-tags: [  ]
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

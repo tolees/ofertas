@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KM2B97Y-es Semillas Batlle - Semillas Hortícolas - Tomate de Colgar -...'
 sku: 'B00KM2B97Y-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQW31J-es Pepe Jeans London Sinyu New Block Zapatillas para Mujer...'
 sku: 'B07MZQW31J-es'
-tags: [  ]
 actualPrice: 51.16 EUR
 currency: EUR
 price: 51.16

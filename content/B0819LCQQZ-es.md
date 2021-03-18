@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0819LCQQZ-es Luces de Cadena DazSpirit LED Photo Clip Para Habitación...'
 sku: 'B0819LCQQZ-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

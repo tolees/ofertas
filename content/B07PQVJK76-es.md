@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PQVJK76-es penobon WiFi USB Adaptador Antena WiFi USB Inalámbrico...'
 sku: 'B07PQVJK76-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

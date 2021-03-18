@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFSBMWF-es NEUMA - MARTISAN Cejillas Guitarra Capo para Guitarra...'
 sku: 'B07YFSBMWF-es'
-tags: [  ]
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

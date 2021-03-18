@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CFZZ9XK-es Keter Comfy - Arcón exterior Capacidad 270 litros Color...'
 sku: 'B01CFZZ9XK-es'
-tags: [  ]
 actualPrice: 27.29 EUR
 currency: EUR
 price: 27.29

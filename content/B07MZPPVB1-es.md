@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZPPVB1-es Funko - Pop! Vinilo: Spongebob Squarepants S3: Patrick...'
 sku: 'B07MZPPVB1-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFY5XJS-es Sloggi Ever Fresh Tai Braguita Skyline 6582 XS para Mujer'
 sku: 'B07LFY5XJS-es'
-tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

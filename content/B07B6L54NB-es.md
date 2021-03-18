@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B6L54NB-es NZI Zeta Casco Graphics W Vespa Turia W-VESPA TURIA Talla XS'
 sku: 'B07B6L54NB-es'
-tags: [  ]
 actualPrice: 73.02 EUR
 currency: EUR
 price: 73.02

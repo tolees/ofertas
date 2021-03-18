@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZHV23QN-es Square Enix - Shadow of The Tomb Raider Definitive Edition'
 sku: 'B07ZHV23QN-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

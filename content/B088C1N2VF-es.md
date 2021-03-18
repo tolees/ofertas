@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088C1N2VF-es P Prettyia Mini Combo De Teclado Y Mouse Inalámbricos...'
 sku: 'B088C1N2VF-es'
-tags: [  ]
 actualPrice: 22.06 EUR
 currency: EUR
 price: 22.06

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXXKKNE-es Panasonic Lumix DMC-FZ2000- Cámara digital híbrida de 20.1...'
 sku: 'B01LXXKKNE-es'
-tags: [  ]
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

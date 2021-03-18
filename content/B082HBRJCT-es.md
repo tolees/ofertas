@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HBRJCT-es ART VVIES Wandbild 40 x 30 Zoll Leinwand mit Haken Welpen...'
 sku: 'B082HBRJCT-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

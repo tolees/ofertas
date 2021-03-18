@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G1NT36L-es Maybelline New York Superstay Matte Ink - Pintalabios...'
 sku: 'B08G1NT36L-es'
-tags: [  ]
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

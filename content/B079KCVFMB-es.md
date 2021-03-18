@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KCVFMB-es Apli- Pez Juego de Gomets en Caja Metálica Multicolor...'
 sku: 'B079KCVFMB-es'
-tags: [ 'apli', ]
 actualPrice: 11.61 EUR
 currency: EUR
 price: 11.61

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0897JTW3C-es XILOSIN 1PCS de Plata Cuadrado de Placa de Techo de Zinc...'
 sku: 'B0897JTW3C-es'
-tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

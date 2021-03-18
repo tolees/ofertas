@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWSRLNQ-es KiplingArtMujerBolsos maletínVerde Light Aloe 44x27x20...'
 sku: 'B07TWSRLNQ-es'
-tags: [  ]
 actualPrice: 34.89 EUR
 currency: EUR
 price: 34.89

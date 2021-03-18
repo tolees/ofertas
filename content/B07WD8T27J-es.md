@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WD8T27J-es Relaxdays Marrón Pasamanos Escalera Redondo para Interior...'
 sku: 'B07WD8T27J-es'
-tags: [  ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000V3ME6Y-es Vichy Pureté Thermale Desmaquillante Integral 3 en 1 Piel...'
 sku: 'B000V3ME6Y-es'
-tags: [  ]
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

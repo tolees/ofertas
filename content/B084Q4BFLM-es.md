@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084Q4BFLM-es Maksexy Masajeador Portátil 12 Modos de Frecuencia...'
 sku: 'B084Q4BFLM-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

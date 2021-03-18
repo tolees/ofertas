@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDKD5SF-es find. # Shana-1a-58 Sandalias Abiertas Dorado Gold 41'
 sku: 'B07WDKD5SF-es'
-tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

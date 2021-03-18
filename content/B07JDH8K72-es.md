@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JDH8K72-es Abanderado Lote X4 Slip Abierto de Algodón Calzoncillos...'
 sku: 'B07JDH8K72-es'
-tags: [  ]
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JBJF87F-es Disney Mickey Colored Maleta de cabina Blanco 40x55x20 cms...'
 sku: 'B07JBJF87F-es'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

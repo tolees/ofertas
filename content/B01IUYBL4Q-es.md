@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IUYBL4Q-es Grefusa - Snatt s | NatuChips Crema Fresca y Cebollino -...'
 sku: 'B01IUYBL4Q-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

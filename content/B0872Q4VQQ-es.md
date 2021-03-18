@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872Q4VQQ-es Funda Transparente Compatible para Xiaomi Redmi 6 Pro...'
 sku: 'B0872Q4VQQ-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

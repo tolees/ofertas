@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0026JM6HI-es Calvin Klein Seductive Comfort-Customized Lift Sujetador...'
 sku: 'B0026JM6HI-es'
-tags: [  ]
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

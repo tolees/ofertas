@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RLY623Y-es Columbia Vitesse Outdry Zapatillas de Deporte para Mujer...'
 sku: 'B07RLY623Y-es'
-tags: [  ]
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

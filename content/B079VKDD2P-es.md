@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079VKDD2P-es Marvel - Black Panther [DVD]'
 sku: 'B079VKDD2P-es'
-tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

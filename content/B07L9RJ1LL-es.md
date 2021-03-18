@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9RJ1LL-es Aigostar Hanson - Batidora amasadora y de varillas con...'
 sku: 'B07L9RJ1LL-es'
-tags: [  ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

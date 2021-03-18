@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G3EVLTA-es Batman V Superman: El Amanecer De La Justicia 4k Uhd +...'
 sku: 'B01G3EVLTA-es'
-tags: [ 'Acción y Aventura','Blu-ray','Ciencia ficción','Fantasía','Featured Categories','Películas','Películas y TV', ]
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

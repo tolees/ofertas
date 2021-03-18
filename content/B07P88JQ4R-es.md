@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P88JQ4R-es Jata EX1044 Exprimidor eléctrico de gran potencia...'
 sku: 'B07P88JQ4R-es'
-tags: [  ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

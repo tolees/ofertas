@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YVNM1WX-es TP-Link Archer TX3000E - Tarjeta Wi-Fi PCI Express...'
 sku: 'B07YVNM1WX-es'
-tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

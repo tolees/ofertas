@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGK5CBX-es Pistola de arie caliente Tacklife HGP69AC 2000W Pistola de...'
 sku: 'B07MGK5CBX-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

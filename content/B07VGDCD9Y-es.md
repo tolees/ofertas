@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGDCD9Y-es DazSpirit Kit de Tatuajes Temporales Con 24 Brillos 3...'
 sku: 'B07VGDCD9Y-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

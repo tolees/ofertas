@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BJ0LN0U-es NGS - MONRAY PASSANGER Plus - Maletín de nylon para...'
 sku: 'B01BJ0LN0U-es'
-tags: [  ]
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

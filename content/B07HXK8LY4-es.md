@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HXK8LY4-es NYX Professional Makeup Paleta de sombra de ojos Swear By...'
 sku: 'B07HXK8LY4-es'
-tags: [  ]
 actualPrice: 26.27 EUR
 currency: EUR
 price: 26.27

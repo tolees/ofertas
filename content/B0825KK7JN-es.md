@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825KK7JN-es Tommee Tippee Grofriend - Ollie el Búho Recargable USB con...'
 sku: 'B0825KK7JN-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GW6YWL2-es SUPORE Vivosmart HR Activity Tracker Correa de Reloj de...'
 sku: 'B07GW6YWL2-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QLXPX91-es Salmue - Mascarilla facial adelgazante Adelgazamiento...'
 sku: 'B07QLXPX91-es'
-tags: [  ]
 actualPrice: 4.62 EUR
 currency: EUR
 price: 4.62

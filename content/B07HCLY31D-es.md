@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCLY31D-es Cable Eléctrico de 3 Núcleos Redondo de PVC Cable...'
 sku: 'B07HCLY31D-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

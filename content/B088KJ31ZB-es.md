@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088KJ31ZB-es Poweradd Pilas Alcalinas AAA Baterías LR03 de 10 Años...'
 sku: 'B088KJ31ZB-es'
-tags: [  ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

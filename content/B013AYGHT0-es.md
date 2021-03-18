@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013AYGHT0-es Optimum Nutrition ON Amino Energy Pre Workout Powder Keto...'
 sku: 'B013AYGHT0-es'
-tags: [  ]
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

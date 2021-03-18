@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XMH8M89-es Tesura Games - Coffee Crisis - Special Edition'
 sku: 'B07XMH8M89-es'
-tags: [  ]
 actualPrice: 28.6 EUR
 currency: EUR
 price: 28.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJHZCNM-es Tamaris 1-1-25242-23 Botas Militar para Mujer Amarillo...'
 sku: 'B07NJHZCNM-es'
-tags: [  ]
 actualPrice: 24.06 EUR
 currency: EUR
 price: 24.06

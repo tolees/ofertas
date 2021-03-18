@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MF9PRV4-es Sony SRS-XB12 Altavoz Inalámbrico y alámbrico MicroUSB...'
 sku: 'B07MF9PRV4-es'
-tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

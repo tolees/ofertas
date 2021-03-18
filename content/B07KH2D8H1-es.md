@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KH2D8H1-es Under Armour Blitzing II - Gorra Hombre Negro Black 023 L/XL'
 sku: 'B07KH2D8H1-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

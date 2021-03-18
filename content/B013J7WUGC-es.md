@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013J7WUGC-es Edifier H840 - Auriculares de Diadema'
 sku: 'B013J7WUGC-es'
-tags: [  ]
 actualPrice: 49.42 EUR
 currency: EUR
 price: 49.42

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086HS36RC-es Olay Tónico Limpiador Frescor Resplandeciente Para Todo...'
 sku: 'B086HS36RC-es'
-tags: [  ]
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

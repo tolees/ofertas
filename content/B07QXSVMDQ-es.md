@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QXSVMDQ-es Sony WI-C310 - Auriculares in ear inalámbricos más ligeros...'
 sku: 'B07QXSVMDQ-es'
-tags: [  ]
 actualPrice: 26.63 EUR
 currency: EUR
 price: 26.63

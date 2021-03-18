@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GS1RYP6-es Activision Blizzard - Diablo III - Eternal Collection'
 sku: 'B07GS1RYP6-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

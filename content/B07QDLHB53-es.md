@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QDLHB53-es Wet n Wild - Mega Volume Mascara - Máscara de Pestañas...'
 sku: 'B07QDLHB53-es'
-tags: [  ]
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

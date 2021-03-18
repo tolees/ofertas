@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AJYTP3U-es Mann Filter Filtro de aire C 35 005 para automóviles'
 sku: 'B00AJYTP3U-es'
-tags: [  ]
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

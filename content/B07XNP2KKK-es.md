@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XNP2KKK-es ivoler Soporte Portátil Mesa 6 Ángulos Ajustables Aleación...'
 sku: 'B07XNP2KKK-es'
-tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

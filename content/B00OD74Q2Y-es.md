@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OD74Q2Y-es Jabra Evolve 20 - Auriculares Estéreo Certificados por...'
 sku: 'B00OD74Q2Y-es'
-tags: [  ]
 actualPrice: 33.2 EUR
 currency: EUR
 price: 33.2

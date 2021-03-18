@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08987MSBV-es Hurley M Blocked Pullover Fleece'
 sku: 'B08987MSBV-es'
-tags: [  ]
 actualPrice: 20.57 EUR
 currency: EUR
 price: 20.57

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W8UTRGS-es Aura DVBT 50 Aquarius - Sintonizador de TV'
 sku: 'B00W8UTRGS-es'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

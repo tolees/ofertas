@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8V68LL-es Toy Story-GGH40 - Figura de acción Infantil'
 sku: 'B07P8V68LL-es'
-tags: [  ]
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

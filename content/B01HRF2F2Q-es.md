@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HRF2F2Q-es Kelme Precision Botas de fútbol para Hombre Negro 41 EU'
 sku: 'B01HRF2F2Q-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

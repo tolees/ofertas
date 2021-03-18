@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VJGQFJK-es Hoover H-FREE 100 HF122RH Aspiradora escoba sin cable...'
 sku: 'B07VJGQFJK-es'
-tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

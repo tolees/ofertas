@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0M1V2C-es Gourmet Panecillos de Ajo y Perejil - 160 g'
 sku: 'B01M0M1V2C-es'
-tags: [  ]
 actualPrice: 0.7 EUR
 currency: EUR
 price: 0.7

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WR5LZ6Z-es Escolar Estuche de Lápices Gran Capacidad Cartera Bolsa de...'
 sku: 'B07WR5LZ6Z-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

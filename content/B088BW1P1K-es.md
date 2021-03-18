@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BW1P1K-es Zeen Papel Xuan Pintura 35x25cm 30 Hojas Duradero Papel de...'
 sku: 'B088BW1P1K-es'
-tags: [  ]
 actualPrice: 5.35 EUR
 currency: EUR
 price: 5.35

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYTXQ7H-es AmazonBasics - Juego de fundas de edredón y almohada de...'
 sku: 'B07KYTXQ7H-es'
-tags: [  ]
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

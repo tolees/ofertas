@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GO6ZC42-es Energy Sistem MP4 Touch Bluetooth Reproductor de música...'
 sku: 'B01GO6ZC42-es'
-tags: [  ]
 actualPrice: 31.2 EUR
 currency: EUR
 price: 31.2

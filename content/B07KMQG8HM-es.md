@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KMQG8HM-es Adidas Fit 2pc 3s Traje de Baño Mujer Negro Black 34'
 sku: 'B07KMQG8HM-es'
-tags: [  ]
 actualPrice: 18.16 EUR
 currency: EUR
 price: 18.16

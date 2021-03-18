@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XY44W1P-es Xiaomi Redmi Note 8 Pro Teléfono Pantalla Completa de...'
 sku: 'B07XY44W1P-es'
-tags: [  ]
 actualPrice: 185.0 EUR
 currency: EUR
 price: 185.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7LK3JW-es Luz Nocturna Infantil OMERIL Luz Quitamiedos con Control...'
 sku: 'B07H7LK3JW-es'
-tags: [ 'omeril', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

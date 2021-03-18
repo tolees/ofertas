@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004YF1XAI-es Bosch Home and Garden - Bosch PEX 400 AE - Lijadora...'
 sku: 'B004YF1XAI-es'
-tags: [  ]
 actualPrice: 104.49 EUR
 currency: EUR
 price: 104.49

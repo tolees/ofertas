@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DV55B3C-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Verde...'
 sku: 'B00DV55B3C-es'
-tags: [  ]
 actualPrice: 23.42 EUR
 currency: EUR
 price: 23.42

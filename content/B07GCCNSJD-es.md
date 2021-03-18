@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCCNSJD-es HBselect 10 Diademas Mujer Turbantes Mujer Vendas De Pelo...'
 sku: 'B07GCCNSJD-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

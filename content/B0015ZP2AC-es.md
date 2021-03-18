@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0015ZP2AC-es Fisher Space Original Astronaut Retractable Pen'
 sku: 'B0015ZP2AC-es'
-tags: [  ]
 actualPrice: 49.94 EUR
 currency: EUR
 price: 49.94

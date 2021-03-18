@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MV3ZL8C-es CHcase Xiaomi Mi Mix 2 Funda Anillo Soporte Funda 360...'
 sku: 'B08MV3ZL8C-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

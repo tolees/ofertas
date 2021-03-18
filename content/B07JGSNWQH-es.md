@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGSNWQH-es Pepe Jeans Alice Pl211308 Pantalones Dulwich 594 W24 Talla...'
 sku: 'B07JGSNWQH-es'
-tags: [  ]
 actualPrice: 33.66 EUR
 currency: EUR
 price: 33.66

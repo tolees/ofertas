@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0088TKTY2-es TP-Link TL-WN823N - Adaptador de red USB negro'
 sku: 'B0088TKTY2-es'
-tags: [ 'Adaptadores de red','Adaptadores de red USB','Dispositivos de red','Informática','tp-link', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

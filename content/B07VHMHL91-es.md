@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHMHL91-es Napapijri Elice Polo Gris Dove Grey H361 Small para Hombre'
 sku: 'B07VHMHL91-es'
-tags: [  ]
 actualPrice: 43.49 EUR
 currency: EUR
 price: 43.49

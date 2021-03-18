@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0168UDVVU-es Warner Bros. Entertainment España S.L. - Clint Eastwood -...'
 sku: 'B0168UDVVU-es'
-tags: [ 'warner bros. entertainment españa s.l.', ]
 actualPrice: 19.49 EUR
 currency: EUR
 price: 19.49

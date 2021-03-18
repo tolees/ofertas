@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08256RGHH-es adidas CON20 PRE JKT Sport Jacket Hombre Team Royal...'
 sku: 'B08256RGHH-es'
-tags: [  ]
 actualPrice: 16.64 EUR
 currency: EUR
 price: 16.64

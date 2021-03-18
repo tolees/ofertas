@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001BYOMXA-es TRIXIE Pelota Mentolada Denta Fun Caucho Natural ø5 cm Perro'
 sku: 'B001BYOMXA-es'
-tags: [  ]
 actualPrice: 4.18 EUR
 currency: EUR
 price: 4.18

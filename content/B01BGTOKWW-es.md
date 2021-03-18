@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BGTOKWW-es G-STAR RAW Bronson Slim Chino Pantalones Azul mazarine...'
 sku: 'B01BGTOKWW-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

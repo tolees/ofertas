@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W59MC4C-es TOUS Kaos Mini Sport Bandolera Women s Black U'
 sku: 'B07W59MC4C-es'
-tags: [  ]
 actualPrice: 45.1 EUR
 currency: EUR
 price: 45.1

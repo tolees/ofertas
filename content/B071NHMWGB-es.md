@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071NHMWGB-es Game of Thrones Figura BRAN Stark Funko 12332'
 sku: 'B071NHMWGB-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

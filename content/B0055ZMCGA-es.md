@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0055ZMCGA-es Orbegozo TO 1010 - Tostador horizontal calienta repostería...'
 sku: 'B0055ZMCGA-es'
-tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

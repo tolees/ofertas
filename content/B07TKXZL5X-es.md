@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKXZL5X-es Vans Ward Suede/Canvas Zapatillas para Hombre Azul Outdoor...'
 sku: 'B07TKXZL5X-es'
-tags: [  ]
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

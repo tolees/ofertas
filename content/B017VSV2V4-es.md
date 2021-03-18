@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017VSV2V4-es JUGUETE DE PINTURA POR NUMEROS - Paisaje - INTERHOME©'
 sku: 'B017VSV2V4-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

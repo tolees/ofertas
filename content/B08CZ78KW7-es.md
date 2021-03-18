@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CZ78KW7-es ATKJ - 3 Tubo Rizador de Pelo 19mm Profesional Pinzas...'
 sku: 'B08CZ78KW7-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWJG61W-es Fantasy Flight Games- Star Wars X-Wing: Renegados de Saw -...'
 sku: 'B07DWJG61W-es'
-tags: [  ]
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

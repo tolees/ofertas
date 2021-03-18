@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076BRL4GT-es Bellota 7231042S1P Zapato de seguridad Negro Verde 42'
 sku: 'B076BRL4GT-es'
-tags: [ 'bellota', ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

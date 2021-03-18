@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P7R5PXX-es LEICKE Twin Mini Pro SoundPod True - Auriculares in-Ear...'
 sku: 'B08P7R5PXX-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

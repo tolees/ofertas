@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B7V10SQ-es Tristar KB-7540 Nevera portátil Termo eléctrica Gris 40...'
 sku: 'B01B7V10SQ-es'
-tags: [  ]
 actualPrice: 121.89 EUR
 currency: EUR
 price: 121.89

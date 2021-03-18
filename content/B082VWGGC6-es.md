@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VWGGC6-es Auriculares-Micrófono-Cascos-Cable-Alambricos LUDOS Turbo...'
 sku: 'B082VWGGC6-es'
-tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

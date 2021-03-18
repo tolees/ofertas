@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYLXZ1F-es Head & Shoulders Men Ultra Limpieza Profunda Champú...'
 sku: 'B07GYLXZ1F-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

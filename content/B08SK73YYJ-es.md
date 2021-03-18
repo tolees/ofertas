@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SK73YYJ-es Maofuxing - Auriculares Bluetooth 5.0 TWS i12 Seguridad...'
 sku: 'B08SK73YYJ-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004X8VOC8-es Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B004X8VOC8-es'
-tags: [  ]
 actualPrice: 142.49 EUR
 currency: EUR
 price: 142.49

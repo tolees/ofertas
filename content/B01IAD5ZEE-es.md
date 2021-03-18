@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IAD5ZEE-es Seagate Technology - Seagate Backup Plus Hub 6 TB Disco...'
 sku: 'B01IAD5ZEE-es'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

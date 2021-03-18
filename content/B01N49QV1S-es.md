@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N49QV1S-es AICOK Juego de bloques de Cuchillo cocinero profesional |...'
 sku: 'B01N49QV1S-es'
-tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD87SKZ-es Poopsie Slime Surprise S2 - Modelos Sorpresa Giochi...'
 sku: 'B07DD87SKZ-es'
-tags: [  ]
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

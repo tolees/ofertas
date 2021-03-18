@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077SQRX1B-es Calidad del Agua Medidor de Prueba pancellent TDS PH CE...'
 sku: 'B077SQRX1B-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

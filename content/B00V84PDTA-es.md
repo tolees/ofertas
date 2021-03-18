@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00V84PDTA-es IMEX EL ZORRO 71624 - Parrilla para Barbacoa Hierro 60 x...'
 sku: 'B00V84PDTA-es'
-tags: [  ]
 actualPrice: 26.53 EUR
 currency: EUR
 price: 26.53

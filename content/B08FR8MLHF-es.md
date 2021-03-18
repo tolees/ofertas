@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FR8MLHF-es VYPE ePen 3 Cigarrillo electrónico Negro'
 sku: 'B08FR8MLHF-es'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

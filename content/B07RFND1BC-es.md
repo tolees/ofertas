@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFND1BC-es Helly Hansen Copenhagen Slip-on Zapatillas sin Cordones...'
 sku: 'B07RFND1BC-es'
-tags: [  ]
 actualPrice: 37.14 EUR
 currency: EUR
 price: 37.14

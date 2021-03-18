@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PS5DJYK-es Victoria 1915 Doble Lona Zapatillas para Mujer Negro Negro...'
 sku: 'B07PS5DJYK-es'
-tags: [  ]
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

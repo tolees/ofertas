@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082BCLPXH-es Adidas Continental 80 CF I Zapatillas de Gimnasio FTWR...'
 sku: 'B082BCLPXH-es'
-tags: [  ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

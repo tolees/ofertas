@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071RZ1WZ8-es Instituto Español Urea Ultra Hidratación Crema reparadora...'
 sku: 'B071RZ1WZ8-es'
-tags: [  ]
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

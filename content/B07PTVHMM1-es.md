@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PTVHMM1-es Kipling - Aicil Mochilas Mujer Multicolor Camo Large...'
 sku: 'B07PTVHMM1-es'
-tags: [  ]
 actualPrice: 28.5 EUR
 currency: EUR
 price: 28.5

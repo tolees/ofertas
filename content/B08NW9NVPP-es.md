@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NW9NVPP-es WECOOK! Ecochef Titanio Bandeja Asadora Inducción Plancha...'
 sku: 'B08NW9NVPP-es'
-tags: [  ]
 actualPrice: 31.62 EUR
 currency: EUR
 price: 31.62

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZYFPCJ5-es BlueXP 2 Pieza Soporte de Techo Lámpara E27 Accesorios...'
 sku: 'B07ZYFPCJ5-es'
-tags: [  ]
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GN7QBDN-es Automático Dispensador de Pasta de Dientes y Conjunto de...'
 sku: 'B07GN7QBDN-es'
-tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

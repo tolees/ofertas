@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNSHH5H-es Under Armour Heatgear Armoury Corto Mujer Rojo MD'
 sku: 'B07NNSHH5H-es'
-tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

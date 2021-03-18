@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WPBD16Q-es Nihlsfen Candy Colors Unidad Flash USB 32GB USB 3.0...'
 sku: 'B08WPBD16Q-es'
-tags: [  ]
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

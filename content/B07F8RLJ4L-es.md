@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8RLJ4L-es Samsung Led View - Funda para Galaxy Note 9 color lavanda...'
 sku: 'B07F8RLJ4L-es'
-tags: [  ]
 actualPrice: 15.43 EUR
 currency: EUR
 price: 15.43

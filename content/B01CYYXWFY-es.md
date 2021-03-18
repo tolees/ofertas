@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CYYXWFY-es Collistar Sensitive Skin Gel de Afeitar - 200 ml'
 sku: 'B01CYYXWFY-es'
-tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

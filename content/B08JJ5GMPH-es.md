@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JJ5GMPH-es KLAS REMO Bufanda Calentadora con 3 Niveles de Temperatura...'
 sku: 'B08JJ5GMPH-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

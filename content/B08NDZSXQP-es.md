@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NDZSXQP-es Placa de inducción AMZCHEF con 10 niveles de temperatura y...'
 sku: 'B08NDZSXQP-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

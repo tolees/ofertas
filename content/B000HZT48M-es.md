@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000HZT48M-es Casio Reloj de Pulsera W59-1V'
 sku: 'B000HZT48M-es'
-tags: [  ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

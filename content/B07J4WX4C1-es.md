@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J4WX4C1-es Fossil Pulsera para Mujer JFS00452040'
 sku: 'B07J4WX4C1-es'
-tags: [  ]
 actualPrice: 47.0 EUR
 currency: EUR
 price: 47.0

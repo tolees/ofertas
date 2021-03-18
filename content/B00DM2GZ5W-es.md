@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DM2GZ5W-es Xnuoyo Plancha de pelo profesional Plancha Alisadora y...'
 sku: 'B00DM2GZ5W-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

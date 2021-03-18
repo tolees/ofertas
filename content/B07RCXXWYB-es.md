@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RCXXWYB-es Juego de coctelera Coctelera de 750 ml Juego de...'
 sku: 'B07RCXXWYB-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

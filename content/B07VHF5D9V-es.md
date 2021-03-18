@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHF5D9V-es X-Shot - Hinchador eléctrico con 16 globos de fiesta...'
 sku: 'B07VHF5D9V-es'
-tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JGZT1FJ-es Bosch Home and Garden - Bosch AdvancedAquatak 140 -...'
 sku: 'B07JGZT1FJ-es'
-tags: [  ]
 actualPrice: 194.99 EUR
 currency: EUR
 price: 194.99

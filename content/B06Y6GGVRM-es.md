@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y6GGVRM-es Einhell 2270075 Medidor Laser TC-LD 25 Rango de Trabajo:...'
 sku: 'B06Y6GGVRM-es'
-tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

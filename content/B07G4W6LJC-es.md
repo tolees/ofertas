@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4W6LJC-es Hugo BOSS Reloj Multiesfera para Mujer de Cuarzo con...'
 sku: 'B07G4W6LJC-es'
-tags: [  ]
 actualPrice: 196.63 EUR
 currency: EUR
 price: 196.63

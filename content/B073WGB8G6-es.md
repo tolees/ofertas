@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073WGB8G6-es SteelSeries Sensei 310 Ratón para Juegos Óptico...'
 sku: 'B073WGB8G6-es'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

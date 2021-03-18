@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MHY5DJV-es Kickers Kickstyle Zapatillas para Hombre Azul Marine/Camel...'
 sku: 'B07MHY5DJV-es'
-tags: [  ]
 actualPrice: 33.53 EUR
 currency: EUR
 price: 33.53

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FXHYVTH-es Panasonic ES-LL21-K503 - Afeitadora Premium WET&DRY 3 en 1...'
 sku: 'B07FXHYVTH-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

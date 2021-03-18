@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YDH98RB-es Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+ 6 GB...'
 sku: 'B07YDH98RB-es'
-tags: [  ]
 actualPrice: 188.0 EUR
 currency: EUR
 price: 188.0

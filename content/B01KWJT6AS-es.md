@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KWJT6AS-es Espejo Retrovisor Coche de VicTsing para Vigilar al Bebé...'
 sku: 'B01KWJT6AS-es'
-tags: [ 'Accesorios para sillas de coche','Bebé','Blu-ray','Bélico','Camisas casual para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Cubertería, Vajilla y Cristalería','Espejos para asientos traseros','Featured Categories','Hogar y cocina','Películas','Películas y TV','Piezas de vajilla','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Sillas de coche y accesorios','Tazas','Tazas de té','victsing', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

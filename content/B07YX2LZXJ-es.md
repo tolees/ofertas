@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YX2LZXJ-es Trueno Sala Elite'
 sku: 'B07YX2LZXJ-es'
-tags: [  ]
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZYHMM6S-es Luchild Saco de Invierno Universal para Cochecito y Silla...'
 sku: 'B07ZYHMM6S-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

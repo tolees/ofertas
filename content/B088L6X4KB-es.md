@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088L6X4KB-es Salomon AKSIUM ACCESS Máscara de esquí Unisex Ajuste...'
 sku: 'B088L6X4KB-es'
-tags: [  ]
 actualPrice: 12.46 EUR
 currency: EUR
 price: 12.46

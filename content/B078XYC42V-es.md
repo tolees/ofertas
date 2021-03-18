@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XYC42V-es Remington Pro Air D5950 - Secador de Pelo Iónico...'
 sku: 'B078XYC42V-es'
-tags: [  ]
 actualPrice: 18.03 EUR
 currency: EUR
 price: 18.03

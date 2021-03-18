@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCYK3HX-es Meridiem Games - Asterix & Obelix Xxl - Romastered'
 sku: 'B08FCYK3HX-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

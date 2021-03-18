@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K4X5HQ5-es Conjunto de luces Lightailing para Star Wars Quadjumper De...'
 sku: 'B07K4X5HQ5-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GONKCVS-es Hollister Wave U Edt 100 Vapo'
 sku: 'B01GONKCVS-es'
-tags: [  ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

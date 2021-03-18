@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084K6PBG9-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B084K6PBG9-es'
-tags: [  ]
 actualPrice: 90.3 EUR
 currency: EUR
 price: 90.3

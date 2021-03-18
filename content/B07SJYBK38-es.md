@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SJYBK38-es ESDDI Softbox Fotografia Iluminacion Kit con 2 LED...'
 sku: 'B07SJYBK38-es'
-tags: [  ]
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

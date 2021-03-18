@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQKSYCT-es Lovewlb Tablet Funda para Alcatel 3t 10 8088q 8088x Funda...'
 sku: 'B07PQKSYCT-es'
-tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJBL54H-es Altavoz Bluetooth Portatiles IPX6 Impermeable 20W Altavoz...'
 sku: 'B07DJBL54H-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

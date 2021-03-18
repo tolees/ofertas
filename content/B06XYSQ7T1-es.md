@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYSQ7T1-es Brita Maxtra Plus - Cartucho de Filtro de Agua'
 sku: 'B06XYSQ7T1-es'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

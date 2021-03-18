@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019LZNP38-es Candy CDH30 Encimera Vitrocerámica Dominó Integrada 30 cm...'
 sku: 'B019LZNP38-es'
-tags: [  ]
 actualPrice: 114.69 EUR
 currency: EUR
 price: 114.69

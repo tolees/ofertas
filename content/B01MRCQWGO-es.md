@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MRCQWGO-es Samsung C27H711 27" Wide Quad HD VA Monitor para PC - 300...'
 sku: 'B01MRCQWGO-es'
-tags: [  ]
 actualPrice: 275.89 EUR
 currency: EUR
 price: 275.89

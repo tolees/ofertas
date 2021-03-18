@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K1WCMJE-es Lacoste L1312 Polo Azul Marine M Talla del fabricante: 4...'
 sku: 'B00K1WCMJE-es'
-tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

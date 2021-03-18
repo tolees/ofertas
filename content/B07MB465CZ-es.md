@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MB465CZ-es KiplingMoney PowerMujerMonederosNegro True Black...'
 sku: 'B07MB465CZ-es'
-tags: [  ]
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

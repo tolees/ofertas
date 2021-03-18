@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZMY6MC-es Brabantia Cubo de Basura con Pedal Inoxidable Acero Mate 3 l'
 sku: 'B01LZMY6MC-es'
-tags: [  ]
 actualPrice: 17.71 EUR
 currency: EUR
 price: 17.71

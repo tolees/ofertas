@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SGG4WT5-es atFoliX Lámina Protectora de Pantalla Compatible con Amazn...'
 sku: 'B07SGG4WT5-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

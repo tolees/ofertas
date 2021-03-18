@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008TO0G6C-es Tescoma 428724 Moldes De Emplatar Grandchef 4 Pzs Acero...'
 sku: 'B008TO0G6C-es'
-tags: [  ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

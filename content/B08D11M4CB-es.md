@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D11M4CB-es BlauBär Pulsera de Actividad Inteligente El Ganador 2020 |...'
 sku: 'B08D11M4CB-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

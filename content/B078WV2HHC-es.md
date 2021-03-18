@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WV2HHC-es Quiksilver Carver Nubuck Chanclas para Hombre Beige Tan-...'
 sku: 'B078WV2HHC-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

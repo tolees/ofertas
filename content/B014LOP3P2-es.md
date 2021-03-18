@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014LOP3P2-es Metronic 451056 - Soporte de sobremesa para Pantalla Color...'
 sku: 'B014LOP3P2-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

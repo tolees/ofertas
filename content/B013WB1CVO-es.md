@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013WB1CVO-es Bosch Professional Inclinómetro digital GIM 60 margen de...'
 sku: 'B013WB1CVO-es'
-tags: [ 'bosch professional', ]
 actualPrice: 107.0 EUR
 currency: EUR
 price: 107.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084SCKDRS-es Gioseppo UFA Zapatillas Mujer Off-White 39 EU'
 sku: 'B084SCKDRS-es'
-tags: [  ]
 actualPrice: 23.44 EUR
 currency: EUR
 price: 23.44

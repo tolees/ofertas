@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CSYGW31-es Wolfcraft 4287000 L rascador con 4 cuchillas de plástico...'
 sku: 'B07CSYGW31-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XY7WJ4W-es TP-Link plc Mesh wifi adecuado para Casas Grandes con...'
 sku: 'B07XY7WJ4W-es'
-tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

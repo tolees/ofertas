@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDBYHSV-es Juguete Gato Pelota - Carga USB Bola Giratoria Automática...'
 sku: 'B07GDBYHSV-es'
-tags: [  ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

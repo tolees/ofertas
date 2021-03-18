@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019Z6SYIE-es Tombow WS-BS Fudenosuke - Pluma escobilla punta blanda...'
 sku: 'B019Z6SYIE-es'
-tags: [  ]
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

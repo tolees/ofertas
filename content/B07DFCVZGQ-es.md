@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFCVZGQ-es Funko Voltron Figura Pop Allura Multicolor 34202'
 sku: 'B07DFCVZGQ-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

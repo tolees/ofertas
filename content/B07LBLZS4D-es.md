@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBLZS4D-es Rieker B5124-14 Zapatillas para Hombre Azul...'
 sku: 'B07LBLZS4D-es'
-tags: [  ]
 actualPrice: 18.43 EUR
 currency: EUR
 price: 18.43

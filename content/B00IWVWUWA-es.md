@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IWVWUWA-es Alesis VI49 - Teclado Controlador MIDI USB de 49 Teclas...'
 sku: 'B00IWVWUWA-es'
-tags: [  ]
 actualPrice: 101.19 EUR
 currency: EUR
 price: 101.19

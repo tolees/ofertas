@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M7CPVK6-es Skechers Dynamight 2.0- Rayhill Men s Trainers Black...'
 sku: 'B07M7CPVK6-es'
-tags: [  ]
 actualPrice: 27.48 EUR
 currency: EUR
 price: 27.48

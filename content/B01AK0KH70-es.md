@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AK0KH70-es PUMA BASKET CLASSIC LFS Zapatillas para Hombre Negro...'
 sku: 'B01AK0KH70-es'
-tags: [  ]
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

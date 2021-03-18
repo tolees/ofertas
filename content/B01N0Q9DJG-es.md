@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0Q9DJG-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B01N0Q9DJG-es'
-tags: [ 'michael kors', ]
 actualPrice: 157.17 EUR
 currency: EUR
 price: 157.17

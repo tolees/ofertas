@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YGDNS8X-es MTNG Attitude 13991 Zapatillas Mujer Blanco 39 EU'
 sku: 'B07YGDNS8X-es'
-tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

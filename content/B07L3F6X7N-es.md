@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L3F6X7N-es Vernel Suavizante Delicado - Pack de 8 x 57 Total : 456...'
 sku: 'B07L3F6X7N-es'
-tags: [  ]
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

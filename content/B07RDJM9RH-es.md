@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RDJM9RH-es Rii RM200 Ratón inalámbrico con batería Recargable 5...'
 sku: 'B07RDJM9RH-es'
-tags: [  ]
 actualPrice: 9.24 EUR
 currency: EUR
 price: 9.24

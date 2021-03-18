@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9KM82V-es Broche Pin simulado Azabache Figa Hand Evil Eye Protection...'
 sku: 'B07B9KM82V-es'
-tags: [  ]
 actualPrice: 21.06 EUR
 currency: EUR
 price: 21.06

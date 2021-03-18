@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073FH44BN-es KLIM™ Breeze - Ventilador USB de Escritorio de Alto...'
 sku: 'B073FH44BN-es'
-tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

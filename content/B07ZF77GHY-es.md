@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZF77GHY-es HongLanAo Algodón Toallas de Hotel o Hogar Set 2 Piezas de...'
 sku: 'B07ZF77GHY-es'
-tags: [  ]
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

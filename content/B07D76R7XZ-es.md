@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D76R7XZ-es Levi s 502 Taper Jeans Onewash 95977 28W / 32L para Hombre'
 sku: 'B07D76R7XZ-es'
-tags: [  ]
 actualPrice: 59.35 EUR
 currency: EUR
 price: 59.35

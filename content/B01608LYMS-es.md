@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01608LYMS-es Playmobil-6858 Playset Color 6858'
 sku: 'B01608LYMS-es'
-tags: [  ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0857Y6HFK-es Disney & Lucasfilm Ltd. - Pack Star Wars: The Skywalker...'
 sku: 'B0857Y6HFK-es'
-tags: [ 'disney & lucasfilm ltd.', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P36PLGK-es Skechers Heston Zapatillas para Hombre Negro Black Leather...'
 sku: 'B07P36PLGK-es'
-tags: [  ]
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00A2ARFLK-es LIDA Jabón 100% Natural Glicerina - 600 ml'
 sku: 'B00A2ARFLK-es'
-tags: [  ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

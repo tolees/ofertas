@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XW45MZ8-es Amazon Essentials Classic-Fit Cargo Short Pantalones...'
 sku: 'B06XW45MZ8-es'
-tags: [  ]
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

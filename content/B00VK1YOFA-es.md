@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VK1YOFA-es Compo Tipo de Frutas y Verduras Fertilizante líquido...'
 sku: 'B00VK1YOFA-es'
-tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

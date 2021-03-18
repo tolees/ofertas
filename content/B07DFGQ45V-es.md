@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFGQ45V-es Jabra Talk 55 – Auricular Monoaural In-Ear Llamadas...'
 sku: 'B07DFGQ45V-es'
-tags: [  ]
 actualPrice: 61.79 EUR
 currency: EUR
 price: 61.79

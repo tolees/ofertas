@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T4K8F9Z-es Only Onlnatalia L/s Rib Pullover Knt Noos suéter Black...'
 sku: 'B07T4K8F9Z-es'
-tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

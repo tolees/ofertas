@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JPC7S4Z-es CawBing Repetidor WiFi 300Mbps Extensor WiFi Amplificador...'
 sku: 'B08JPC7S4Z-es'
-tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

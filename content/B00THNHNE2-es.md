@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00THNHNE2-es OMRON A3 Complete Inhalador 3 en 1: trata las vías...'
 sku: 'B00THNHNE2-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

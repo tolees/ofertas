@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFYB543-es Geox U Adrien A Zapatos de Cordones Derby para Hombre...'
 sku: 'B07LFYB543-es'
-tags: [  ]
 actualPrice: 41.51 EUR
 currency: EUR
 price: 41.51

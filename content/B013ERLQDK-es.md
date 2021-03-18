@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013ERLQDK-es STANLEY STST1-75518 - Caja de herramientas de plastico con...'
 sku: 'B013ERLQDK-es'
-tags: [ 'stanley', ]
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

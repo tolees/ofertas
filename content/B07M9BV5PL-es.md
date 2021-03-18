@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9BV5PL-es Saucony Ride ISO 2 Zapatillas de Running para Hombre Verde...'
 sku: 'B07M9BV5PL-es'
-tags: [  ]
 actualPrice: 68.95 EUR
 currency: EUR
 price: 68.95

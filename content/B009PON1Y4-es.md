@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009PON1Y4-es GREAT ART Challenge Poster Original - Barney Stinson Wall...'
 sku: 'B009PON1Y4-es'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

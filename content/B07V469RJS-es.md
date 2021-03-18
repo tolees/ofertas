@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V469RJS-es Xpassion Mini Maquina de Coser Portátil de Mano...'
 sku: 'B07V469RJS-es'
-tags: [  ]
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

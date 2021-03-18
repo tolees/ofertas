@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VFPQFQ-es EMPIRE GAMING - Micrófono USTREAM USB Ideal para el Gaming...'
 sku: 'B079VFPQFQ-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

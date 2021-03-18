@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JHV7JVH-es Sony - Marvel´s Spider-Man: Miles Morales Ultimate Edition'
 sku: 'B08JHV7JVH-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7T1TGL-es Samsung LC32G53TQWUXEN - Monitor curvo gaming 32 WQHD...'
 sku: 'B08C7T1TGL-es'
-tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

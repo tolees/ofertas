@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WS3NH7S-es CHiQ Pilas alcalinas AAA Pack de 40 Unidades AAA/1.5V/LR03'
 sku: 'B08WS3NH7S-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

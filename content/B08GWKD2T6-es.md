@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GWKD2T6-es Guzack Brazalete para Correr para iPhone iPhone 11 Pro...'
 sku: 'B08GWKD2T6-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

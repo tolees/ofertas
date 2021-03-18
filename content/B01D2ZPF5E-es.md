@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D2ZPF5E-es New Balance 500 Core Zapatillas Hombre Gris Grey 47.5 EU'
 sku: 'B01D2ZPF5E-es'
-tags: [ 'new balance', ]
 actualPrice: 28.18 EUR
 currency: EUR
 price: 28.18

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBYNV1Z-es Puma Defy TZ Wn s Zapatillas de Deporte para Mujer Verde...'
 sku: 'B07DBYNV1Z-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

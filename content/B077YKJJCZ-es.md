@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YKJJCZ-es OUNONA 50pcs esponjas de Limpieza Extra Alta Densidad...'
 sku: 'B077YKJJCZ-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDJ4DLL-es Afeitadora eléctrica para mujer depilación facial para...'
 sku: 'B07FDJ4DLL-es'
-tags: [  ]
 actualPrice: 8.78 EUR
 currency: EUR
 price: 8.78

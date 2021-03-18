@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071GT9HC4-es RioRiva Calcetines de colores envueltos para regalo para...'
 sku: 'B071GT9HC4-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T6HW3HD-es limpieza dental kit Xpreen dientes dentales que blanquea...'
 sku: 'B07T6HW3HD-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

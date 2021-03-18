@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T8BVYGS-es Discos Desmaquillantes Reutilizables Greenzla 20pcs con...'
 sku: 'B07T8BVYGS-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

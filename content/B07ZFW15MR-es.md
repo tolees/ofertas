@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFW15MR-es 24x Gris blanco Lámina impresa 2d 15x15cm PEGATINAS lisas...'
 sku: 'B07ZFW15MR-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRLT1XJ-es New Balance Yv373v1 Zapatillas para Niñas Plateado Silver...'
 sku: 'B07KRLT1XJ-es'
-tags: [  ]
 actualPrice: 28.24 EUR
 currency: EUR
 price: 28.24

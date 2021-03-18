@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7D8R8D-es adidas Check CLX SH CL Bañador Hombre Negro M'
 sku: 'B08C7D8R8D-es'
-tags: [  ]
 actualPrice: 21.36 EUR
 currency: EUR
 price: 21.36

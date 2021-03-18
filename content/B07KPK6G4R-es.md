@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPK6G4R-es Funko - POP! Vinilo: Disney: Toy Story 4: Alien'
 sku: 'B07KPK6G4R-es'
-tags: [  ]
 actualPrice: 10.51 EUR
 currency: EUR
 price: 10.51

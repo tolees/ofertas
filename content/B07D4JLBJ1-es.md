@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4JLBJ1-es S&R Disco de corte 125 mm para Metal y Hierro 125 x2 0x22...'
 sku: 'B07D4JLBJ1-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

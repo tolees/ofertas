@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SR3XBKB-es YaYuu Gear S3 Frontier/Classic Correa de Reloj Reemplazo...'
 sku: 'B07SR3XBKB-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

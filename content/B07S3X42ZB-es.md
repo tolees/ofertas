@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3X42ZB-es New Balance 997H m Zapatillas para Mujer Gris Grey Hag 35 EU'
 sku: 'B07S3X42ZB-es'
-tags: [  ]
 actualPrice: 31.56 EUR
 currency: EUR
 price: 31.56

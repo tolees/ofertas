@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T2ZVHLS-es OMERIL Bandas Elasticas Fitness Cintas Elasticas Fitness...'
 sku: 'B07T2ZVHLS-es'
-tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

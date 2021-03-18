@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SVV5D7-es Sharplace 62 Piezas Modelo Árbol para Paisaje Landscape...'
 sku: 'B078SVV5D7-es'
-tags: [  ]
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

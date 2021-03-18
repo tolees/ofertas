@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FDW7TCZ-es Cecotec Aspirador Escoba Sin Cable Conga Rockstar 700...'
 sku: 'B08FDW7TCZ-es'
-tags: [ 'cecotec', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

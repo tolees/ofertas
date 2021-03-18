@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R9MGSPP-es GB Gold Qbit + All-City - Silla de paseo 84 x 42 x 106 cm...'
 sku: 'B07R9MGSPP-es'
-tags: [  ]
 actualPrice: 217.73 EUR
 currency: EUR
 price: 217.73

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AQGDY5A-es ZTOP 2 Pack negro SuperSpeed USB 3.0 tipo A hembra a...'
 sku: 'B01AQGDY5A-es'
-tags: [  ]
 actualPrice: 4.42 EUR
 currency: EUR
 price: 4.42

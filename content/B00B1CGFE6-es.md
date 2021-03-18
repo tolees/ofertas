@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B1CGFE6-es Bourjois - Rouge edition barra de labios tono 12'
 sku: 'B00B1CGFE6-es'
-tags: [  ]
 actualPrice: 2.55 EUR
 currency: EUR
 price: 2.55

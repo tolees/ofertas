@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TGKHNZY-es Dodheah Peluca Rapunzel Niña Peluca Trenzas Fiesta de...'
 sku: 'B08TGKHNZY-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

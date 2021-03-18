@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7Z9IG9-es Harry Potter Caja De Selección De Dulces Y Chocolates...'
 sku: 'B01N7Z9IG9-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

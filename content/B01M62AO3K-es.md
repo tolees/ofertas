@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M62AO3K-es Viceroy Reloj Multiesfera para Hombre de Cuarzo con Correa...'
 sku: 'B01M62AO3K-es'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

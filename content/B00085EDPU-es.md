@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00085EDPU-es Dyson Accesorio de Aspirador 908032-09 Flexi Crevice Tool...'
 sku: 'B00085EDPU-es'
-tags: [  ]
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

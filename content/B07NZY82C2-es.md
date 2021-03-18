@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZY82C2-es Skechers Solar Fuse Zapatillas para Hombre Azul Navy...'
 sku: 'B07NZY82C2-es'
-tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

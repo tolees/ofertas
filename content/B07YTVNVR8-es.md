@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YTVNVR8-es AJOXEL Afilador de Cuchillos Profesional 4 en 1 Manual...'
 sku: 'B07YTVNVR8-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087MD3JZ3-es Aire Acondicionado Móvil Enfriador de Aire Portátil con...'
 sku: 'B087MD3JZ3-es'
-tags: [  ]
 actualPrice: 179.89 EUR
 currency: EUR
 price: 179.89

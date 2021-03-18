@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0056I3IDW-es Logitech M185 Ratón Inalámbrico 2.4 GHz con Mini Receptor...'
 sku: 'B0056I3IDW-es'
-tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QDZF33-es Maleta de cabina Catalina Estrada Faisan rígida 55cm Azul'
 sku: 'B079QDZF33-es'
-tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

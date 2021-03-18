@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TTK321R-es Lazmin112 Bomba de Botella de Agua dispensador de Botella...'
 sku: 'B08TTK321R-es'
-tags: [  ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

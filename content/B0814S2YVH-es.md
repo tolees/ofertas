@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814S2YVH-es Under Armour UA Driver Highlight Cap Gorra con Visera...'
 sku: 'B0814S2YVH-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

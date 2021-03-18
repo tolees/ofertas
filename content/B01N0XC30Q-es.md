@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N0XC30Q-es Sony MDR-XB510ASL - Auriculares intraurales Extra Bass...'
 sku: 'B01N0XC30Q-es'
-tags: [  ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QT6PM39-es Asics Classic CT Sneaker Hombre Black/White 43.5 EU'
 sku: 'B07QT6PM39-es'
-tags: [  ]
 actualPrice: 30.88 EUR
 currency: EUR
 price: 30.88

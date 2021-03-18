@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0099M2IWI-es Casio Reloj de Pulsera AE-1200WH-1AVEF'
 sku: 'B0099M2IWI-es'
-tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

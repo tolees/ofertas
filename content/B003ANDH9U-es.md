@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003ANDH9U-es Osram 2825-02B Lámpara W2 1x9 5d 12V 5W W5W blanco Double...'
 sku: 'B003ANDH9U-es'
-tags: [  ]
 actualPrice: 1.74 EUR
 currency: EUR
 price: 1.74

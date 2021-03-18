@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075V2X2ZQ-es VEENAX M6 Auriculares In Ear Auriculares con Micrófono y...'
 sku: 'B075V2X2ZQ-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

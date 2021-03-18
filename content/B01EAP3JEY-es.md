@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EAP3JEY-es Lonsdale Pantalones de entrenamiento de boxeo para hombre...'
 sku: 'B01EAP3JEY-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

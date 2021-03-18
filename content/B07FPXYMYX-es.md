@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPXYMYX-es Asevi Profesional Gerpostar Desinfectante 5 Kg 24162'
 sku: 'B07FPXYMYX-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Cafeteras individuales','Desinfectantes comerciales','Fragancias para hombres','Hogar y cocina','Industria, empresas y ciencia','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Muñecas bebé','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','Máquinas cafeteras','Perfumes y fragancias','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','Productos químicos  limpieza comerciales','Suministros de limpieza y saneamiento','Utensilios para café y té','asevi profesional', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

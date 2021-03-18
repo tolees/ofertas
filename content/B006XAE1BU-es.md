@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006XAE1BU-es Disney - Up 3D [Blu-ray]'
 sku: 'B006XAE1BU-es'
-tags: [ 'disney', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

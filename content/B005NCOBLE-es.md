@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005NCOBLE-es Kensington 941619 - Cable de Seguridad para portátiles...'
 sku: 'B005NCOBLE-es'
-tags: [  ]
 actualPrice: 22.74 EUR
 currency: EUR
 price: 22.74

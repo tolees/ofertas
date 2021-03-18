@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBV7NHC-es Baby Jogger City Tour LUX color azul. Silla de paseo de...'
 sku: 'B07LBV7NHC-es'
-tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

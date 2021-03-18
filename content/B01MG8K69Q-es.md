@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MG8K69Q-es JSVER Funda Blanda para Ordenador portátil 13-13.3...'
 sku: 'B01MG8K69Q-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

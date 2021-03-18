@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWKW5DS-es FORMIZON 20 Pcs Globos de Papel de Aluminio Globos de...'
 sku: 'B07TWKW5DS-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01H4CVYGK-es PUMA Tazon 6 FM Zapatillas de Cross Hombre Negro Black...'
 sku: 'B01H4CVYGK-es'
-tags: [  ]
 actualPrice: 42.53 EUR
 currency: EUR
 price: 42.53

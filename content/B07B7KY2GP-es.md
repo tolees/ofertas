@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B7KY2GP-es TOUCHBeauty Mujeres Mini Ladies Shaver Pluma Portátil...'
 sku: 'B07B7KY2GP-es'
-tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

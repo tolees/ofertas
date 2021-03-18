@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8XZHCF-es Purina ProPlan Comida para Gatos Esterilizados en Salsa...'
 sku: 'B07B8XZHCF-es'
-tags: [  ]
 actualPrice: 12.01 EUR
 currency: EUR
 price: 12.01

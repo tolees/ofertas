@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086BFVPTM-es HYLOGY Termometro digital frente termómetro sin contacto...'
 sku: 'B086BFVPTM-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

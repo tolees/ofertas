@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZXG5V8-es WIN.MAX Tirantes Ancho 35 mm X-Forma con 4 Clips Extra...'
 sku: 'B085ZXG5V8-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

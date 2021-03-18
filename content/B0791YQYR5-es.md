@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0791YQYR5-es Tommy Hilfiger Core Tommy Regular Polo Schwarz Flag Black...'
 sku: 'B0791YQYR5-es'
-tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

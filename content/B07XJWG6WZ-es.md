@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJWG6WZ-es TOMLOV Mini Cámara 140 Grados HD 1080P Mini Cámara Espia...'
 sku: 'B07XJWG6WZ-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

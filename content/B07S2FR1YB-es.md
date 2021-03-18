@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S2FR1YB-es Element E02 Shorts Hombre Black Dark Used XS'
 sku: 'B07S2FR1YB-es'
-tags: [  ]
 actualPrice: 13.36 EUR
 currency: EUR
 price: 13.36

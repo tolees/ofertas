@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVCVZLK-es Under Armour UA W Charged Rogue Zapatillas de Running para...'
 sku: 'B07CVCVZLK-es'
-tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

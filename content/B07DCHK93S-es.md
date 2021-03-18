@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DCHK93S-es PUMA Leader VT SL Zapatillas para Correr de Carretera para...'
 sku: 'B07DCHK93S-es'
-tags: [  ]
 actualPrice: 37.2 EUR
 currency: EUR
 price: 37.2

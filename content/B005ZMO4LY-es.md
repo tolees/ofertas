@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005ZMO4LY-es DeLonghi - De Longhi ESAM 6900.M - Máquina espresso 1350 W...'
 sku: 'B005ZMO4LY-es'
-tags: [  ]
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

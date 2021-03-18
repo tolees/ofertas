@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UM79F5M-es Crystal Ball - Globos Giochi Preziosi 12020 colores surtidos'
 sku: 'B00UM79F5M-es'
-tags: [  ]
 actualPrice: 0.5 EUR
 currency: EUR
 price: 0.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0841DNVJP-es Tommy Hilfiger TJM Essential Down Jacket Chaqueta Amarillo...'
 sku: 'B0841DNVJP-es'
-tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','tommy hilfiger', ]
 actualPrice: 128.04 EUR
 currency: EUR
 price: 128.04

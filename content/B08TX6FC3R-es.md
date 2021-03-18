@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TX6FC3R-es Clasken - Disco U Memoria USB CM10021 de Madera para...'
 sku: 'B08TX6FC3R-es'
-tags: [  ]
 actualPrice: 1.69 EUR
 currency: EUR
 price: 1.69

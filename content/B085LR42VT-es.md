@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LR42VT-es Munich Break 03 Zapatillas Unisex Adulto Multicolor 38 EU'
 sku: 'B085LR42VT-es'
-tags: [  ]
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

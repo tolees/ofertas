@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3B1CP5-es adidas M Pantalones Cortos de Deporte Hombre zne htr/Black'
 sku: 'B07F3B1CP5-es'
-tags: [  ]
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

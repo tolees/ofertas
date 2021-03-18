@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VWQ1BLB-es Última Versión Android TV Box 【4GB RAM+64GB ROM】 Bqeel...'
 sku: 'B07VWQ1BLB-es'
-tags: [  ]
 actualPrice: 43.34 EUR
 currency: EUR
 price: 43.34

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRKH8KY-es MSI Modern 14 B10RBSW-064XES - Ordenador portátil...'
 sku: 'B08DRKH8KY-es'
-tags: [  ]
 actualPrice: 899.99 EUR
 currency: EUR
 price: 899.99

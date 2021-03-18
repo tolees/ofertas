@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QBTBZS-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B075QBTBZS-es'
-tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

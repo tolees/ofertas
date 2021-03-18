@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0038OMGVG-es CAMPER Peu Cami Damen Sneakers Schwarz Black 36 EU'
 sku: 'B0038OMGVG-es'
-tags: [  ]
 actualPrice: 74.43 EUR
 currency: EUR
 price: 74.43

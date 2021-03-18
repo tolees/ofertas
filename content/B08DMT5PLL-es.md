@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DMT5PLL-es OWM Funda iPhone 11 de Silicona líquida [con Protector de...'
 sku: 'B08DMT5PLL-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

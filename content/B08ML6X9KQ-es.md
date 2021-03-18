@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08ML6X9KQ-es MHHQ para Huawei Mate 40 Funda 2in1 Armadura Combinación A...'
 sku: 'B08ML6X9KQ-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

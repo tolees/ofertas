@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P9I2D2G-es Greentech - Puños Manillar Plano Espuma Azul'
 sku: 'B00P9I2D2G-es'
-tags: [  ]
 actualPrice: 4.88 EUR
 currency: EUR
 price: 4.88

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LQ7MRG-es Munich Break 02 Zapatillas Unisex Adulto Multicolor 39 EU'
 sku: 'B085LQ7MRG-es'
-tags: [  ]
 actualPrice: 22.35 EUR
 currency: EUR
 price: 22.35

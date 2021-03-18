@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z9PBRMW-es O NEILL PM Original Cali Pantalones Cortos Hombre Azul...'
 sku: 'B07Z9PBRMW-es'
-tags: [ 'Bañadores para hombre','Ropa','Ropa de baño para hombre','Ropa para hombre','oneill', ]
 actualPrice: 22.12 EUR
 currency: EUR
 price: 22.12

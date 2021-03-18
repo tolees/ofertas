@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4FRBHD-es Tapa de WC HIMIMI Asiento de inodoro familiar asiento de...'
 sku: 'B07X4FRBHD-es'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

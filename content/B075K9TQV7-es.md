@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075K9TQV7-es New Balance Hombre 574v2-core Trainers Zapatillas Negro...'
 sku: 'B075K9TQV7-es'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

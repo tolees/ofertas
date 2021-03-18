@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XWJ328V-es VIALMAN Colcha Marino Cama 90 : 180 CM X 270 CM'
 sku: 'B06XWJ328V-es'
-tags: [  ]
 actualPrice: 25.05 EUR
 currency: EUR
 price: 25.05

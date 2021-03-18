@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K6JQYH5-es Asics Gel-Nimbus 21 1011a169-001 Zapatillas de...'
 sku: 'B07K6JQYH5-es'
-tags: [  ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWMR4QW-es Casio Reloj Analógico-Digital para Hombre Correa en Resina...'
 sku: 'B07TWMR4QW-es'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

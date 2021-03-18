@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VG92RZ3-es Munich DASH 52 Zapatillas Adulto Blanco 44 EU'
 sku: 'B07VG92RZ3-es'
-tags: [  ]
 actualPrice: 49.1 EUR
 currency: EUR
 price: 49.1

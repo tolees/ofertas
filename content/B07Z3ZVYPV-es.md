@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z3ZVYPV-es Movom Ribbon Cartera Negro 11x8x1 cms Piel'
 sku: 'B07Z3ZVYPV-es'
-tags: [  ]
 actualPrice: 12.32 EUR
 currency: EUR
 price: 12.32

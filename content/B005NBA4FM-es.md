@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005NBA4FM-es NGK 5960 Bujía de Encendido'
 sku: 'B005NBA4FM-es'
-tags: [  ]
 actualPrice: 4.94 EUR
 currency: EUR
 price: 4.94

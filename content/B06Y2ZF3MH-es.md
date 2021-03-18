@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y2ZF3MH-es Joma Olimpia Pantalones Cortos Hombre Marino XS'
 sku: 'B06Y2ZF3MH-es'
-tags: [  ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

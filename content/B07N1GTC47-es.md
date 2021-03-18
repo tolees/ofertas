@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1GTC47-es Clarks Un Maui Lace Zapatillas para Mujer Gris Grey...'
 sku: 'B07N1GTC47-es'
-tags: [  ]
 actualPrice: 50.5 EUR
 currency: EUR
 price: 50.5

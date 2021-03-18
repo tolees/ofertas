@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GB1JG1M-es Puer Tea 357g 0.787LB Naturalmente orgánico Pu-erh Té...'
 sku: 'B07GB1JG1M-es'
-tags: [  ]
 actualPrice: 13.7 EUR
 currency: EUR
 price: 13.7

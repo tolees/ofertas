@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DFJ5XFM-es Funko - Married with Children - Al Bundy with Remote...'
 sku: 'B07DFJ5XFM-es'
-tags: [  ]
 actualPrice: 8.46 EUR
 currency: EUR
 price: 8.46

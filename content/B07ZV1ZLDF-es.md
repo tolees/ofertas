@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZV1ZLDF-es MIKAMEE Botella de Agua Acero Inoxidable 350/500/650/750ml...'
 sku: 'B07ZV1ZLDF-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

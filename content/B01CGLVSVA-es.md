@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CGLVSVA-es SECTOR NO LIMITS Reloj Digital para Hombre de Cuarzo con...'
 sku: 'B01CGLVSVA-es'
-tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

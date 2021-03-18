@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CGJ1FYC-es Taurus TC 600 Exprimidor 40 W 0.7 litros 0 Decibelios PU...'
 sku: 'B01CGJ1FYC-es'
-tags: [  ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

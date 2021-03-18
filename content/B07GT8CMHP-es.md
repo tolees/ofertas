@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GT8CMHP-es Sony SRSXB01L - Altavoz inalámbrico portátil Compacto...'
 sku: 'B07GT8CMHP-es'
-tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

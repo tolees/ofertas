@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H6MC9HD-es 20th Century Fox Home Entertainment España S.A. - Le Mans...'
 sku: 'B08H6MC9HD-es'
-tags: [  ]
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

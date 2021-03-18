@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2G67CW-es Fox - Juego De Tronos Temporada 1-8 Colección Completa [DVD]'
 sku: 'B07S2G67CW-es'
-tags: [ 'Acción y Aventura','Ciencia ficción','DVD','Drama','Fantasía','Películas','TV','fox', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

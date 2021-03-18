@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDB3YBP-es Tractive Localizador GPS para perros rastreador con rango...'
 sku: 'B07NDB3YBP-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

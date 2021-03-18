@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008AI5YLE-es Obire - Cardo Mariano 400 mg. 60 capsulas'
 sku: 'B008AI5YLE-es'
-tags: [  ]
 actualPrice: 3.1 EUR
 currency: EUR
 price: 3.1

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2MJ5TC-es non-brand Juego de 7 Pieza de Ollas y Cocina para Niños...'
 sku: 'B07N2MJ5TC-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

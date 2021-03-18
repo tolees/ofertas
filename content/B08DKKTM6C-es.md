@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKKTM6C-es Sanytol - Eco Recarga de Jabón de Manos Hidratante con...'
 sku: 'B08DKKTM6C-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

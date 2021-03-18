@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PPM8HRK-es MHHQ para Xiaomi Mi 10T Lite Funda 2in1 Armadura...'
 sku: 'B08PPM8HRK-es'
-tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

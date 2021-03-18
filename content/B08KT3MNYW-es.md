@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KT3MNYW-es TIENDA EURASIA® Mantas para Sofá de Terciopelo - Material...'
 sku: 'B08KT3MNYW-es'
-tags: [  ]
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

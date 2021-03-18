@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HYX7RX2-es Case Logic Reflect Laptop Sleeve 14 Funda para portátiles...'
 sku: 'B07HYX7RX2-es'
-tags: [  ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

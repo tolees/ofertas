@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B5DDBP8-es Somat Todo en 1 Pastillas Lavavajillas - 70 Dosis'
 sku: 'B07B5DDBP8-es'
-tags: [  ]
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711CWFD8-es SELECTED HOMME Shnstraight-Scott 1002 Rinse St JNS Noos...'
 sku: 'B0711CWFD8-es'
-tags: [  ]
 actualPrice: 28.76 EUR
 currency: EUR
 price: 28.76

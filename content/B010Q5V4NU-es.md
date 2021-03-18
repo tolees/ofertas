@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010Q5V4NU-es HP - Samsung CLT-Y404S Tóner color Amarillo'
 sku: 'B010Q5V4NU-es'
-tags: [  ]
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

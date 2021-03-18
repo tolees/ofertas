@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z49YH5R-es Jack & Jones Jjimarco Jjkenso Akm638 Noos Pantalones Verde...'
 sku: 'B07Z49YH5R-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

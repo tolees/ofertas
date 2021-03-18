@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003AU2H6C-es Sebastian Volupt Acondicionador - 250 ml'
 sku: 'B003AU2H6C-es'
-tags: [  ]
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

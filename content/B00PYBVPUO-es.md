@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PYBVPUO-es Drasanvi Optimem Forte Complemento Alimenticio - 45 Cápsulas'
 sku: 'B00PYBVPUO-es'
-tags: [  ]
 actualPrice: 9.67 EUR
 currency: EUR
 price: 9.67

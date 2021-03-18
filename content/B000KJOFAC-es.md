@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KJOFAC-es Brennenstuhl Eco-Line regleta de enchufes con 3 tomas de...'
 sku: 'B000KJOFAC-es'
-tags: [  ]
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31

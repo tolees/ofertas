@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075SWXN1J-es prorelax Conjunto de manicura-pedicura DELUXE - el secreto...'
 sku: 'B075SWXN1J-es'
-tags: [  ]
 actualPrice: 87.36 EUR
 currency: EUR
 price: 87.36

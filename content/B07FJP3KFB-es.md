@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FJP3KFB-es Surplex 2 pza Soporte Seguridad de la Cabeza para Bebe en...'
 sku: 'B07FJP3KFB-es'
-tags: [  ]
 actualPrice: 7.58 EUR
 currency: EUR
 price: 7.58

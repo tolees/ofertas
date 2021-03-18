@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074FQTLZ5-es Festina Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B074FQTLZ5-es'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

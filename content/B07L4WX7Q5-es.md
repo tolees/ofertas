@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L4WX7Q5-es Kickers Kick 18 Zapatillas para Hombre Marrón Marron 9 46 EU'
 sku: 'B07L4WX7Q5-es'
-tags: [  ]
 actualPrice: 24.29 EUR
 currency: EUR
 price: 24.29

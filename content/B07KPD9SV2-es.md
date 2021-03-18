@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPD9SV2-es Gant The Original Heavy Rugger Polo Hombre Azul Evening...'
 sku: 'B07KPD9SV2-es'
-tags: [  ]
 actualPrice: 50.96 EUR
 currency: EUR
 price: 50.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JJLFYTZ-es Jabra Evolve 80 UC – Auriculares Estéreo Over-Ear con...'
 sku: 'B07JJLFYTZ-es'
-tags: [  ]
 actualPrice: 238.52 EUR
 currency: EUR
 price: 238.52

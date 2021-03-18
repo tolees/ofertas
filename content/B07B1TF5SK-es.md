@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B1TF5SK-es TOUCHBeauty TB-0601B Removedor eléctrico de callos 9-en-1...'
 sku: 'B07B1TF5SK-es'
-tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

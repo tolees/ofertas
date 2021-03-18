@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2W5QSZ-es Pop! Figura De Vinil: TV: Dark Crystal - Rian'
 sku: 'B07Q2W5QSZ-es'
-tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

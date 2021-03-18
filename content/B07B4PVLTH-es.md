@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4PVLTH-es VicTsing Lampara Escritorio 42 LED Brillante Flexo...'
 sku: 'B07B4PVLTH-es'
-tags: [ 'victsing', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

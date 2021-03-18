@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002AMUGJG-es Sisley Phyto Corps Confort Extrême 150 ml'
 sku: 'B002AMUGJG-es'
-tags: [  ]
 actualPrice: 65.83 EUR
 currency: EUR
 price: 65.83

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DM8KEXU-es Johnson & Johnson - Aveeno - Loción Hidratante Diaria 200 ml'
 sku: 'B00DM8KEXU-es'
-tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

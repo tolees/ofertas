@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KZDCHBX-es Burton Kilo 2.0 Mochilas Unisex Adulto Gray Heather'
 sku: 'B07KZDCHBX-es'
-tags: [  ]
 actualPrice: 27.41 EUR
 currency: EUR
 price: 27.41

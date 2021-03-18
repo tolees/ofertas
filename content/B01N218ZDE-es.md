@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N218ZDE-es Camper Hoops Zapatillas Mujer Blanco 37 EU'
 sku: 'B01N218ZDE-es'
-tags: [  ]
 actualPrice: 50.38 EUR
 currency: EUR
 price: 50.38

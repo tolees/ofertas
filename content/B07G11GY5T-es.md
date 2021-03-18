@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G11GY5T-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B07G11GY5T-es'
-tags: [  ]
 actualPrice: 295.95 EUR
 currency: EUR
 price: 295.95

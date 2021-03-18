@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0788C3DKH-es Tommy Hilfiger X Bralette Sujetador Estilo Bralette Mujer...'
 sku: 'B0788C3DKH-es'
-tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

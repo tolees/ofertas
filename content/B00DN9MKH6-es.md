@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DN9MKH6-es GRANERO INTEGRAL - SAL MARINA GRUESA BIO 1 Kg'
 sku: 'B00DN9MKH6-es'
-tags: [  ]
 actualPrice: 1.11 EUR
 currency: EUR
 price: 1.11

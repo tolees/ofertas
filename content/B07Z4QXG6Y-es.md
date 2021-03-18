@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4QXG6Y-es RAMPOW Cable Lightning Cargador Lightning-[Apple MFi...'
 sku: 'B07Z4QXG6Y-es'
-tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IYCHYIC-es uhlsport Pullover Match 1/4 Zip Top - Forro para Mujer...'
 sku: 'B00IYCHYIC-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

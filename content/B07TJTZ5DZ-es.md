@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJTZ5DZ-es Vans Atwood Canvas Zapatillas para Hombre Rojo Oxblood...'
 sku: 'B07TJTZ5DZ-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MG0U8ZT-es RockShox Staubdichtung/Schaumring-2059011389 Junta de...'
 sku: 'B01MG0U8ZT-es'
-tags: [  ]
 actualPrice: 10.12 EUR
 currency: EUR
 price: 10.12

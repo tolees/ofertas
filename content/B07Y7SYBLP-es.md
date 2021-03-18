@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7SYBLP-es Carcasa de silicona transparente y ultrafina para Samsung...'
 sku: 'B07Y7SYBLP-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

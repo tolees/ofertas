@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQ8FXKM-es JACK & JONES Jjestructure Knit Crew Neck Noos suéter Gris...'
 sku: 'B07FQ8FXKM-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

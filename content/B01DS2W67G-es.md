@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DS2W67G-es Garnier Delial Niños Sensitive Advanced Spray Protector...'
 sku: 'B01DS2W67G-es'
-tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

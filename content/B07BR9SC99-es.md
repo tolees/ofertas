@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BR9SC99-es G-STAR RAW Bronson Mid Waist Boyfriend Chino Pantalones...'
 sku: 'B07BR9SC99-es'
-tags: [  ]
 actualPrice: 20.18 EUR
 currency: EUR
 price: 20.18

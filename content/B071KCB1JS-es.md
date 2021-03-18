@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KCB1JS-es Palette Intense Cream Coloration Intensive Coloración del...'
 sku: 'B071KCB1JS-es'
-tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

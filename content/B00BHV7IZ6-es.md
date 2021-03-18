@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BHV7IZ6-es Folat B.V. 81515 Accesorio Multicolor'
 sku: 'B00BHV7IZ6-es'
-tags: [  ]
 actualPrice: 3.36 EUR
 currency: EUR
 price: 3.36

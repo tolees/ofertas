@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SP91DY0-es Tesa Assa Abloy E80026AI Escudo de Alta Seguridad E800...'
 sku: 'B00SP91DY0-es'
-tags: [  ]
 actualPrice: 46.83 EUR
 currency: EUR
 price: 46.83

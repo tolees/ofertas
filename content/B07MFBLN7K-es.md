@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFBLN7K-es Samsung MZ-V7S500BW 970 EVO Plus - Unidad SSD 500 GB M.2...'
 sku: 'B07MFBLN7K-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos internos','Discos duros sólidos internos','Informática','samsung', ]
 actualPrice: 90.04 EUR
 currency: EUR
 price: 90.04

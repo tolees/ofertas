@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9PWH9K-es Memoria Flash USB 3.0 SanDisk SDCZ93-128G-G46 Ultra Loop...'
 sku: 'B07L9PWH9K-es'
-tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NVXSV64-es SuperThings- Juguete Multicolor Magic Box PST7S112UK00'
 sku: 'B08NVXSV64-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

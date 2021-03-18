@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFGT6L5-es WD BLACK P50 Game Drive de 500 GB - Velocidades SSD...'
 sku: 'B07YFGT6L5-es'
-tags: [  ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

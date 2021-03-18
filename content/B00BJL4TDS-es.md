@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BJL4TDS-es KitchenAid 5KSB5553EOB - Batidora de vaso con capacidad...'
 sku: 'B00BJL4TDS-es'
-tags: [  ]
 actualPrice: 127.46 EUR
 currency: EUR
 price: 127.46

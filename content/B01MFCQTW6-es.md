@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MFCQTW6-es Reloj Citizen - Hombre BZ1006-82E'
 sku: 'B01MFCQTW6-es'
-tags: [  ]
 actualPrice: 291.99 EUR
 currency: EUR
 price: 291.99

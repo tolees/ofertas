@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00V4YZLF0-es E LIFEXIR - Elifexir Vientre Plano Crema Reductora Abdomen...'
 sku: 'B00V4YZLF0-es'
-tags: [  ]
 actualPrice: 8.35 EUR
 currency: EUR
 price: 8.35

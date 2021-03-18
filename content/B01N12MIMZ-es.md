@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N12MIMZ-es Garmin Fenix 5X- Reloj GPS con pulsómetro zafiro gris con...'
 sku: 'B01N12MIMZ-es'
-tags: [  ]
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

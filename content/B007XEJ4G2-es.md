@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007XEJ4G2-es Crock-Pot SCCPRC507B Olla de cocción lenta digital para...'
 sku: 'B007XEJ4G2-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Cafeteras individuales','Desinfectantes comerciales','Fragancias para hombres','Hogar y cocina','Industria, empresas y ciencia','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Muñecas bebé','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','Máquinas cafeteras','Ollas de cocción lenta','Pequeño electrodoméstico','Perfumes y fragancias','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','Productos químicos  limpieza comerciales','Suministros de limpieza y saneamiento','Utensilios para café y té','crock-pot', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

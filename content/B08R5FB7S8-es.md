@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R5FB7S8-es LADUO Casa de muñecas con 49 Piezas de Accesorios para...'
 sku: 'B08R5FB7S8-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

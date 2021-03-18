@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00178IMPO-es Intex 28000 - Skimmer Deluxe filtro 3.028 litros/hora Easy...'
 sku: 'B00178IMPO-es'
-tags: [  ]
 actualPrice: 18.32 EUR
 currency: EUR
 price: 18.32

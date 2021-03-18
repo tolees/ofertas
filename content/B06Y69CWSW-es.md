@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y69CWSW-es Citizen Reloj Análogo clásico para Hombre de Energía Solar...'
 sku: 'B06Y69CWSW-es'
-tags: [  ]
 actualPrice: 156.4 EUR
 currency: EUR
 price: 156.4

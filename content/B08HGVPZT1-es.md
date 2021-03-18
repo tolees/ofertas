@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HGVPZT1-es AOYODKG - Auriculares Inalambricos Auriculares Bluetooth...'
 sku: 'B08HGVPZT1-es'
-tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089L7BWFR-es Warner Home Video - Aves de Presa Y la fantabulosa...'
 sku: 'B089L7BWFR-es'
-tags: [ 'warner home video', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

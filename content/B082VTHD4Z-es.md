@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VTHD4Z-es Axe Antitranspirante Ice Chill 150ml'
 sku: 'B082VTHD4Z-es'
-tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

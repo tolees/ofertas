@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0002VLDE4-es Hudora Pylonen Aprox. 25 cm de Alto 8 Unidades . 76105'
 sku: 'B0002VLDE4-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

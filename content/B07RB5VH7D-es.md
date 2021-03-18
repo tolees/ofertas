@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB5VH7D-es PrimeMatik - Cubierta de Asiento de Coche. Funda...'
 sku: 'B07RB5VH7D-es'
-tags: [  ]
 actualPrice: 8.05 EUR
 currency: EUR
 price: 8.05

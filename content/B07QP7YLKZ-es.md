@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QP7YLKZ-es PINPOXE Lámpara Antimosquitos Lámpara Camping...'
 sku: 'B07QP7YLKZ-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

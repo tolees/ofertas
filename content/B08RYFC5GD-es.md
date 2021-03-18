@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RYFC5GD-es AGQT Conjunto de 2 Piezas Verdes para el día de San...'
 sku: 'B08RYFC5GD-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

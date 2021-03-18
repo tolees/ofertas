@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TP89HC-es adidas SH3.RO Taper S Traje de Baño Mujer Black/White 34'
 sku: 'B081TP89HC-es'
-tags: [  ]
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

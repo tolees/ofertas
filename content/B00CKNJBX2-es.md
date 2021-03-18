@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CKNJBX2-es Microsoft – Sculpt Mobile Mouse Inalámbrico Negro'
 sku: 'B00CKNJBX2-es'
-tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

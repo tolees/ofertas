@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDCVN3T-es Gamenote color kit de origami para niños 108 archivo de...'
 sku: 'B07VDCVN3T-es'
-tags: [ 'gamenote', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LCU6TBK-es Kinder Bueno Mini Barritas con Relleno de Leche y...'
 sku: 'B01LCU6TBK-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

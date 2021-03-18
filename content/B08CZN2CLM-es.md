@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CZN2CLM-es Blanqueador Dental Nivlan Kit de Blanqueamiento Dental...'
 sku: 'B08CZN2CLM-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

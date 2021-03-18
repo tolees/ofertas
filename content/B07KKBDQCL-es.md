@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KKBDQCL-es ASUS VG278QR - Monitor de Gaming de 27" Full-HD 1920x1080...'
 sku: 'B07KKBDQCL-es'
-tags: [  ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

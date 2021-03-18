@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H6ZM7BC-es Evax Fina y Segura Super/Maxi Compresas - 13 Unidades'
 sku: 'B07H6ZM7BC-es'
-tags: [  ]
 actualPrice: 0.98 EUR
 currency: EUR
 price: 0.98

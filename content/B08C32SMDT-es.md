@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C32SMDT-es ELEGIANT Cargador Inalámbrico Estación de Carga...'
 sku: 'B08C32SMDT-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

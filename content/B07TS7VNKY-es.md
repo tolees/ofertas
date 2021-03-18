@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TS7VNKY-es Superdry Alchemy Pant Pantalones Marfil Unbleached O0o 36W...'
 sku: 'B07TS7VNKY-es'
-tags: [  ]
 actualPrice: 35.07 EUR
 currency: EUR
 price: 35.07

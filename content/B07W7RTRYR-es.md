@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7RTRYR-es Tommy Hilfiger Tommy Tipped Slim Polo Azul Pitch Blue XX-...'
 sku: 'B07W7RTRYR-es'
-tags: [  ]
 actualPrice: 29.56 EUR
 currency: EUR
 price: 29.56

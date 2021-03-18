@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MPR7WLD-es AUKEY Webcam 5 PM 1080p Autofocus con Microfonos de...'
 sku: 'B08MPR7WLD-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

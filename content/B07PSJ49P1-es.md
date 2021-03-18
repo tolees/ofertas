@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSJ49P1-es BRIKSMAX Kit de Iluminación Led para Harry Potter-Hogwarts...'
 sku: 'B07PSJ49P1-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

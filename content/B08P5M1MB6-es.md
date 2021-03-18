@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P5M1MB6-es Rpanle Gorro de Invierno Bluetooth 5.0 Regalos originales...'
 sku: 'B08P5M1MB6-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

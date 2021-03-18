@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VYXK6QM-es Intex 57294EU - Isla Hinchable Llama'
 sku: 'B07VYXK6QM-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

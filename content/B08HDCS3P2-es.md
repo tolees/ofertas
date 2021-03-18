@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HDCS3P2-es Huawei FreeLace Pro - Auriculares inalámbricos con...'
 sku: 'B08HDCS3P2-es'
-tags: [  ]
 actualPrice: 86.56 EUR
 currency: EUR
 price: 86.56

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GMV5HDG-es Chicco Báscula Digital para Recién Nacidos y Bebés hasta...'
 sku: 'B00GMV5HDG-es'
-tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFGBJGF-es Levi s Modern Hm Hoodie Capucha Marrón Warm Cabernet 0020...'
 sku: 'B07LFGBJGF-es'
-tags: [  ]
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

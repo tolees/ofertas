@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KUWQBPG-es TRIXIE Comedero Exterior 900 ml 17 cm Pájaros'
 sku: 'B00KUWQBPG-es'
-tags: [  ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

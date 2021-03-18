@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XWL4Y7H-es XSQUO Useful Tech - ASPIRADORA SÓLIDOS Y LÍQUIDOS WED &Dry...'
 sku: 'B06XWL4Y7H-es'
-tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

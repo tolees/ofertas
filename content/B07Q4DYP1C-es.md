@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4DYP1C-es Licor Picante de Guindilla Verde Dr Zas - 3 botellas de 70...'
 sku: 'B07Q4DYP1C-es'
-tags: [  ]
 actualPrice: 20.25 EUR
 currency: EUR
 price: 20.25

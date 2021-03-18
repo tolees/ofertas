@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AYZZUDC-es Audio-Technica ATH-AG1X Aire Libre Juegos de Alta...'
 sku: 'B01AYZZUDC-es'
-tags: [  ]
 actualPrice: 119.03 EUR
 currency: EUR
 price: 119.03

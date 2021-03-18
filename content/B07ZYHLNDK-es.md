@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZYHLNDK-es Linterna Frontal LED Recargable de Trabajo 6000 Lúmenes...'
 sku: 'B07ZYHLNDK-es'
-tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086CML6L1-es MTNG Angie Zapatillas Deportivas Softmetov Nude/Carina...'
 sku: 'B086CML6L1-es'
-tags: [  ]
 actualPrice: 26.32 EUR
 currency: EUR
 price: 26.32

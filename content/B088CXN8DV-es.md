@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088CXN8DV-es Meerway Bañador Hombre Bañadores de Natación para Hombre...'
 sku: 'B088CXN8DV-es'
-tags: [  ]
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

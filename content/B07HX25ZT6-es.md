@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HX25ZT6-es BELL Casco Integral Sanction MTB Unisex Adulto Color Nitro...'
 sku: 'B07HX25ZT6-es'
-tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

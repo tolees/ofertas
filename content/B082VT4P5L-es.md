@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VT4P5L-es Lee Luke Jeans Dark Westwater 27W x 32L para Hombre'
 sku: 'B082VT4P5L-es'
-tags: [  ]
 actualPrice: 38.67 EUR
 currency: EUR
 price: 38.67

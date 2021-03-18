@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G571WTV-es Max Factor Base de maquillaje Tono: 60 Sand Pieles Claras...'
 sku: 'B07G571WTV-es'
-tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

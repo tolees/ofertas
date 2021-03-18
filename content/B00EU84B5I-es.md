@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EU84B5I-es What Am I?'
 sku: 'B00EU84B5I-es'
-tags: [  ]
 actualPrice: 4.37 EUR
 currency: EUR
 price: 4.37

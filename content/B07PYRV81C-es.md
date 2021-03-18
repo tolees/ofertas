@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYRV81C-es Telmu 10 x 42 Prismáticos con Prisma Superior BAK4 y Lente...'
 sku: 'B07PYRV81C-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

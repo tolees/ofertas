@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FMG6MZW-es Superdry Orange Label Jogger Pantalones de deporte Hombre...'
 sku: 'B07FMG6MZW-es'
-tags: [  ]
 actualPrice: 57.35 EUR
 currency: EUR
 price: 57.35

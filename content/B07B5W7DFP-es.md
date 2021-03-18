@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B5W7DFP-es Jumanji: Bienvenidos A La Jungla 4K UHD + BD [Blu-ray]'
 sku: 'B07B5W7DFP-es'
-tags: [  ]
 actualPrice: 10.41 EUR
 currency: EUR
 price: 10.41

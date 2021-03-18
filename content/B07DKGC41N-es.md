@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKGC41N-es Kipling - City Pack Mini Mochilas Mujer Gris Active Grey Bl'
 sku: 'B07DKGC41N-es'
-tags: [  ]
 actualPrice: 47.4 EUR
 currency: EUR
 price: 47.4

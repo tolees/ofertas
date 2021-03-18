@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSM3FP3-es Samblo S9915 Senchi - Armario Bajo de Cocina con 2 Puertas...'
 sku: 'B06XSM3FP3-es'
-tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

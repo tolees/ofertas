@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5MY9DS-es Bovon Brazalete Movil Running Brazalete Deportivo Movil...'
 sku: 'B07W5MY9DS-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

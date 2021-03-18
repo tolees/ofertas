@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8YPQXK-es Tommy Hilfiger - Seasonal Crossover Bolsos bandolera Mujer...'
 sku: 'B07V8YPQXK-es'
-tags: [  ]
 actualPrice: 34.68 EUR
 currency: EUR
 price: 34.68

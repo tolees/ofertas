@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825NBYCN-es Quiksilver Word Block 17" - Short De Natación para Hombre...'
 sku: 'B0825NBYCN-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

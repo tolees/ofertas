@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T4NXXVR-es OrgaWise Neceser Maquillaje Impermeable de Gran Capacidad...'
 sku: 'B07T4NXXVR-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

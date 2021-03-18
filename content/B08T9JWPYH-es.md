@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T9JWPYH-es kurdene - Auriculares Bluetooth 5.0 Auricular Inalámbrico...'
 sku: 'B08T9JWPYH-es'
-tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6NHG8N-es PUMA NRGY Neko Skim Zapatillas de Running para Hombre...'
 sku: 'B07S6NHG8N-es'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F0Q4GWW-es Universal 69-UN-99 - Boquilla para aspiradoras'
 sku: 'B00F0Q4GWW-es'
-tags: [  ]
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

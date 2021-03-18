@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078B27ZBY-es Camiseta/UNDER ARMOUR:Boxed Sportstyle L Negro'
 sku: 'B078B27ZBY-es'
-tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

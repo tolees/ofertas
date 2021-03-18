@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084CJ3HHM-es REAL TECHNIQUES Light Layer Blush - Brocha de maquillaje...'
 sku: 'B084CJ3HHM-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

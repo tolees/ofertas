@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081B61XWZ-es Columbia Silver Ridge IV Pantalones de Senderismo...'
 sku: 'B081B61XWZ-es'
-tags: [  ]
 actualPrice: 15.78 EUR
 currency: EUR
 price: 15.78

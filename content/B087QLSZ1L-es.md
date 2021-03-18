@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QLSZ1L-es NINGNETI Reutilizable y Lavable con Carbón Activado Filtro...'
 sku: 'B087QLSZ1L-es'
-tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

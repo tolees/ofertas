@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG24F9Z-es PUMA INTERFLEX Runner Zapatillas de Running Unisex Adulto...'
 sku: 'B07KG24F9Z-es'
-tags: [  ]
 actualPrice: 22.82 EUR
 currency: EUR
 price: 22.82

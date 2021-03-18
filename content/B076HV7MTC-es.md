@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HV7MTC-es Lékué Kit de Aperitivos Rojo 30x30x3 cm'
 sku: 'B076HV7MTC-es'
-tags: [ 'lékué', ]
 actualPrice: 15.11 EUR
 currency: EUR
 price: 15.11

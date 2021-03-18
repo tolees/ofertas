@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005DXDV3C-es GEOX U FEDERICO V BLACK Men s Derbys Oxfords and Monk...'
 sku: 'B005DXDV3C-es'
-tags: [ 'Zapatos de cordones para hombre','geox', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

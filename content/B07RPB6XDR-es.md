@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RPB6XDR-es San Ignacio Juego de Sartenes y Batería de Cocina Aluminio...'
 sku: 'B07RPB6XDR-es'
-tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

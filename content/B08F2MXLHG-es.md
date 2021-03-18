@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F2MXLHG-es Grupo Erik - ERIK - Calendario de pared 2021 El Señor de...'
 sku: 'B08F2MXLHG-es'
-tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

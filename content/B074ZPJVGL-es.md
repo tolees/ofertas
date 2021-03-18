@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074ZPJVGL-es Insignias de Star Trek-Insignia de Quantum Mechanix Abysse...'
 sku: 'B074ZPJVGL-es'
-tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

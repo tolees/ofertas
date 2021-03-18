@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079JZZCRS-es Philips BEARDTRIMMER Series 3000 Barbero BT3216/14 -...'
 sku: 'B079JZZCRS-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

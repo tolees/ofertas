@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D36HWPL-es Funda Xiaomi Redmi Note 8T 360 Grados Full Body Antishock...'
 sku: 'B08D36HWPL-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

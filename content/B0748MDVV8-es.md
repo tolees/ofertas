@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0748MDVV8-es AEG LX7-2-CR-A Aspiradora de Trineo Sin Bolsa Cepillo...'
 sku: 'B0748MDVV8-es'
-tags: [  ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

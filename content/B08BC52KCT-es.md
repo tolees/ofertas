@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BC52KCT-es DIWUER Capturadora de Video HDMI 4K HDMI a USB 2.0...'
 sku: 'B08BC52KCT-es'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

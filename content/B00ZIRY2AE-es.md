@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZIRY2AE-es Liderpapel Greening - Papel Fotocopiadora A4 80 Gramos...'
 sku: 'B00ZIRY2AE-es'
-tags: [  ]
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

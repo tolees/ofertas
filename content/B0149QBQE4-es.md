@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0149QBQE4-es Corsair MM200 - Alfombrilla de ratón para Juego Superficie...'
 sku: 'B0149QBQE4-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4NT86Z-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07G4NT86Z-es'
-tags: [  ]
 actualPrice: 116.1 EUR
 currency: EUR
 price: 116.1

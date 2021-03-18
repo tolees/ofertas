@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YL1TC8P-es MTNG Attitude 84086 Zapatillas para Hombre Azul Cato...'
 sku: 'B07YL1TC8P-es'
-tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFWG2ZZ-es PUMA Amplified Shorts 9` TR Pantalones Cortos Hombre Dark...'
 sku: 'B07XFWG2ZZ-es'
-tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

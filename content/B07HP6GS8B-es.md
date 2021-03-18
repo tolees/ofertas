@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HP6GS8B-es Skechers'
 sku: 'B07HP6GS8B-es'
-tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P9PQVXM-es FANDARE Mochila Hombres/Mujeres Bolsa de Escuela...'
 sku: 'B07P9PQVXM-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

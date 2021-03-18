@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXHPQVX-es adidas Lite Racer K Zapatillas de Running Unisex Niños...'
 sku: 'B07DXHPQVX-es'
-tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

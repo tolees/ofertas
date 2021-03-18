@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PZ8ZAQQ-es Nike MD Runner 2 Zapatillas de Running Mujer Negro Black /...'
 sku: 'B00PZ8ZAQQ-es'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

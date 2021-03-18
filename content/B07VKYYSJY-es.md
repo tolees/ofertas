@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VKYYSJY-es adidas Pantalones Cortos 1º equipación SL Benfica 2020-21...'
 sku: 'B07VKYYSJY-es'
-tags: [  ]
 actualPrice: 17.63 EUR
 currency: EUR
 price: 17.63

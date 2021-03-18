@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QC89BCK-es Pablosky 714410 Zapatillas Unisex niño Negro Negro Negro...'
 sku: 'B07QC89BCK-es'
-tags: [  ]
 actualPrice: 19.82 EUR
 currency: EUR
 price: 19.82

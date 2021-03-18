@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HQ435GS-es Bolero Bebida Instantánea sin Azúcar Sabor Mango - Paquete...'
 sku: 'B01HQ435GS-es'
-tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RHT3X3P-es Babacom Soporte Portatil Mesa Plegable Ventilado Soporte...'
 sku: 'B08RHT3X3P-es'
-tags: [  ]
 actualPrice: 9.23 EUR
 currency: EUR
 price: 9.23

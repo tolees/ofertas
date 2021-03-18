@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084F9YC5H-es Avoalre Organizador de Bolsos de Fieltro Mujer Organizador...'
 sku: 'B084F9YC5H-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

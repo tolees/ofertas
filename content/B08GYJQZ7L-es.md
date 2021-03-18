@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYJQZ7L-es Hurley M Bravo Tango Jacket black'
 sku: 'B08GYJQZ7L-es'
-tags: [  ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

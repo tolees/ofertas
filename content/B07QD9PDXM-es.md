@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QD9PDXM-es adidas EC Org Bolsa Unisex Adulto Black NS'
 sku: 'B07QD9PDXM-es'
-tags: [  ]
 actualPrice: 4.01 EUR
 currency: EUR
 price: 4.01

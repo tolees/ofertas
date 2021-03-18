@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002OJYK5G-es Brennenstuhl Eco-Line regleta de enchufes con 6 tomas de...'
 sku: 'B002OJYK5G-es'
-tags: [  ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

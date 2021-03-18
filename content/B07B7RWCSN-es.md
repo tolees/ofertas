@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B7RWCSN-es New Balance 1500v4 Boa Zapatillas de Running para Mujer...'
 sku: 'B07B7RWCSN-es'
-tags: [  ]
 actualPrice: 78 EUR
 currency: EUR
 price: 78

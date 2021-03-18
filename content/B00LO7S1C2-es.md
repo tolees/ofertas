@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LO7S1C2-es Armani Exchange Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B00LO7S1C2-es'
-tags: [  ]
 actualPrice: 134.66 EUR
 currency: EUR
 price: 134.66

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQXRT3W-es DINOKA esterillas Inflables Esterilla Acampada Camping...'
 sku: 'B07QQXRT3W-es'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

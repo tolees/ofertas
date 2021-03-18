@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G31OPB0-es Kingston DTVP30/8GB - Memoria USB 3.0 de 8 GB'
 sku: 'B00G31OPB0-es'
-tags: [  ]
 actualPrice: 31.9 EUR
 currency: EUR
 price: 31.9

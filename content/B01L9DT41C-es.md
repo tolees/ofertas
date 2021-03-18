@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L9DT41C-es High Peak Woodpecker 3 Tienda Unisex Rojo Oliva 340 x 190...'
 sku: 'B01L9DT41C-es'
-tags: [  ]
 actualPrice: 64.48 EUR
 currency: EUR
 price: 64.48

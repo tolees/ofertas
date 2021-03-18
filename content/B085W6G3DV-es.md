@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085W6G3DV-es Pertop Luz Solar Exterior 3 Modos Impermeable IP65 Lampara...'
 sku: 'B085W6G3DV-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

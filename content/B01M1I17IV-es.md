@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1I17IV-es Sigma F1 4 DG AF HSM Art - Objetivo para cámara para...'
 sku: 'B01M1I17IV-es'
-tags: [  ]
 actualPrice: 730.0 EUR
 currency: EUR
 price: 730.0

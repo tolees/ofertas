@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0856XN6ZH-es KFD 120W Adaptador Cargador Portátil para MSI Gx740 CX62...'
 sku: 'B0856XN6ZH-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

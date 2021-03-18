@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0743DLRFQ-es RECUTMS Album de Fotos Scrapbook Our Adventure Book 80...'
 sku: 'B0743DLRFQ-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

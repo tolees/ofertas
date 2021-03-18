@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O925KFK-es Komono Reloj Analógico de Cuarzo Unisex con Correa de...'
 sku: 'B00O925KFK-es'
-tags: [ 'komono', ]
 actualPrice: 67.25 EUR
 currency: EUR
 price: 67.25

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PX4J1Y-es Lacoste Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B074PX4J1Y-es'
-tags: [  ]
 actualPrice: 109.22 EUR
 currency: EUR
 price: 109.22

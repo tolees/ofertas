@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M8CYQWQ-es Braun Silk Expert Pro 5 PL5014 - Depiladora Luz Pulsada...'
 sku: 'B07M8CYQWQ-es'
-tags: [  ]
 actualPrice: 299.9 EUR
 currency: EUR
 price: 299.9

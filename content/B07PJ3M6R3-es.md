@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJ3M6R3-es Litthing 1/2/3 Piezas Sujetadore Deportivo Encaje Sexy...'
 sku: 'B07PJ3M6R3-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

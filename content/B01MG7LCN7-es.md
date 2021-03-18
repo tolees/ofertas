@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MG7LCN7-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
 sku: 'B01MG7LCN7-es'
-tags: [  ]
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

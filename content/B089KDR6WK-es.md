@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089KDR6WK-es Aicok Batidora de Mano 2 Velocidades Cuchillas de Acero...'
 sku: 'B089KDR6WK-es'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

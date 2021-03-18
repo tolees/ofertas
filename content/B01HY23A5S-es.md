@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HY23A5S-es Lee Rider Tonal Jeans Noir Black Rinse 47 31W / 32L para...'
 sku: 'B01HY23A5S-es'
-tags: [  ]
 actualPrice: 43.8 EUR
 currency: EUR
 price: 43.8

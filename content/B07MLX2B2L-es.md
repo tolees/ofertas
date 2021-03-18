@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MLX2B2L-es Transcend USB JetFlash 790 - 64GB Memoria Flash USB 3.1'
 sku: 'B07MLX2B2L-es'
-tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

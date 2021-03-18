@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073FT1QT2-es Philips - LED Gu10 3.8 W Equivalente a 50 W 345 Lumen...'
 sku: 'B073FT1QT2-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

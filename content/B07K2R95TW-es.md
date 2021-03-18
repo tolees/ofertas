@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2R95TW-es adidas VL Court 2.0 CMF I Zapatillas de Deporte Unisex...'
 sku: 'B07K2R95TW-es'
-tags: [  ]
 actualPrice: 10.01 EUR
 currency: EUR
 price: 10.01

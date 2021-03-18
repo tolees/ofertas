@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LSS0ZDU-es Bolero Bebida Instantánea sin Azúcar Sabor Guaraná -...'
 sku: 'B00LSS0ZDU-es'
-tags: [  ]
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

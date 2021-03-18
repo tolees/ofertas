@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N8T4TBP-es Seagate Technology - Seagate Backup Plus Slim 2TB Disco...'
 sku: 'B07N8T4TBP-es'
-tags: [  ]
 actualPrice: 68.22 EUR
 currency: EUR
 price: 68.22

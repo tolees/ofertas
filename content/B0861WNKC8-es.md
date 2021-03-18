@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0861WNKC8-es LG gram 15Z90N-V-AP72B - Ordenador portátil ultraligero de...'
 sku: 'B0861WNKC8-es'
-tags: [  ]
 actualPrice: 959.2 EUR
 currency: EUR
 price: 959.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MTWHWZ1-es Logitech G332 Auriculares Gaming con Cable Transductores...'
 sku: 'B07MTWHWZ1-es'
-tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

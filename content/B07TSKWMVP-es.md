@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSKWMVP-es Kipling Creativity S Cartera para Mujer Negro Carbon...'
 sku: 'B07TSKWMVP-es'
-tags: [  ]
 actualPrice: 10.11 EUR
 currency: EUR
 price: 10.11

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004KRGJFO-es Varta - Vatra Energy - Pack de 24 Pilas Alcalinas AAA /...'
 sku: 'B004KRGJFO-es'
-tags: [  ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

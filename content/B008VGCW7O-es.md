@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008VGCW7O-es Walimex Pro Fish-Eye II 8 mm 1:3.5 - Objetivo para cámara...'
 sku: 'B008VGCW7O-es'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

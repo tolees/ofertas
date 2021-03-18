@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXJVTS5-es hummel Slimmer Stadil High Zapatillas Altas Unisex Adulto...'
 sku: 'B07KXJVTS5-es'
-tags: [  ]
 actualPrice: 17.57 EUR
 currency: EUR
 price: 17.57

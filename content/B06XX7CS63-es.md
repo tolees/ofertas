@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XX7CS63-es KFD 65W Adaptador Cargador Portátil para Lenovo IdeaPad...'
 sku: 'B06XX7CS63-es'
-tags: [  ]
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

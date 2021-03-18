@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009FJJIM8-es Lotus 15812/1 - Reloj analógico de Cuarzo para Hombre con...'
 sku: 'B009FJJIM8-es'
-tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

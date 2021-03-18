@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0784TFTH3-es Puma Liga Baselayer Short Tight Pantalones Cortos Hombre...'
 sku: 'B0784TFTH3-es'
-tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

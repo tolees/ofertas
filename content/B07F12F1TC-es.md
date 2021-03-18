@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F12F1TC-es Be Natural Kit de Alisado Brasileño con Keratina Verde'
 sku: 'B07F12F1TC-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

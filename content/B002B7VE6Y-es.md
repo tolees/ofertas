@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002B7VE6Y-es Plantronics - Aps-11 - accesorio para auriculares'
 sku: 'B002B7VE6Y-es'
-tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

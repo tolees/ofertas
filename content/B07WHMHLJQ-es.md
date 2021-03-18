@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WHMHLJQ-es Presentamos el router/extensor wifi de malla Amazon eero'
 sku: 'B07WHMHLJQ-es'
-tags: [  ]
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

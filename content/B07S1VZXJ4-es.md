@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1VZXJ4-es BOSS Schino-Slim D Pantalones Rojo Medium Red 615 W42/L34...'
 sku: 'B07S1VZXJ4-es'
-tags: [  ]
 actualPrice: 35.14 EUR
 currency: EUR
 price: 35.14

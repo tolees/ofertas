@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016HX1LO2-es Lotus 18140/2 - Reloj de cuarzo para mujer con correa de...'
 sku: 'B016HX1LO2-es'
-tags: [  ]
 actualPrice: 77.9 EUR
 currency: EUR
 price: 77.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0053PVDC6-es Bosch Professional 2608608226 Esponja Abrasiva Fino...'
 sku: 'B0053PVDC6-es'
-tags: [  ]
 actualPrice: 0.74 EUR
 currency: EUR
 price: 0.74

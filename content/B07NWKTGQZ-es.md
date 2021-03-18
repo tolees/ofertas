@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NWKTGQZ-es HelpCuisine® 250 pcs Bolsas de Papel Papel Bolsas de té...'
 sku: 'B07NWKTGQZ-es'
-tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

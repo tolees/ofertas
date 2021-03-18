@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVTMHMG-es Women s Secret Bralettes 1 Deep Crop Top Corto Rojo Gama...'
 sku: 'B07TVTMHMG-es'
-tags: [  ]
 actualPrice: 10.62 EUR
 currency: EUR
 price: 10.62

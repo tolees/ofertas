@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SCZSHWL-es PUMA Cali Wn s Zapatillas Mujer White-Rosewater 36 EU'
 sku: 'B07SCZSHWL-es'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

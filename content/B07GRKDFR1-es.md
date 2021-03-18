@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GRKDFR1-es The Division 2: Dark Zone - Collector s Edition'
 sku: 'B07GRKDFR1-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

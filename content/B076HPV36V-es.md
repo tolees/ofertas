@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HPV36V-es adidas Core18 Rn Jkt Y Sport Jacket Unisex niños Power...'
 sku: 'B076HPV36V-es'
-tags: [  ]
 actualPrice: 20.14 EUR
 currency: EUR
 price: 20.14

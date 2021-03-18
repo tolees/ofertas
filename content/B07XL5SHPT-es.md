@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XL5SHPT-es Apple Funda Silicone Case para el iPhone 11 Pro - en Negro'
 sku: 'B07XL5SHPT-es'
-tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

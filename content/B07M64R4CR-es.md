@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M64R4CR-es WD BLACK SN750 SSD interno NVMe para gaming de adecuado...'
 sku: 'B07M64R4CR-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

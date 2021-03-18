@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HSHCWN3-es Myuilor - Anime Naruto - Pulsera de punto para cosplay'
 sku: 'B08HSHCWN3-es'
-tags: [  ]
 actualPrice: 8.27 EUR
 currency: EUR
 price: 8.27

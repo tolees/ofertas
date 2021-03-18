@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085CYJVKN-es Braun Series 6 60-N7650cc Afeitadora Eléctrica máquina de...'
 sku: 'B085CYJVKN-es'
-tags: [ 'braun', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

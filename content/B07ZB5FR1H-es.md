@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZB5FR1H-es Anpro 6D Vinilo Coche Fibra de Carbono Adhesiva 300 X...'
 sku: 'B07ZB5FR1H-es'
-tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

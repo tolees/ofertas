@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DH8L2MW-es Dreamlove Secretplay Gel Estrechamiento Vaginal - 150 gr'
 sku: 'B07DH8L2MW-es'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

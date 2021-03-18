@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5JKFQC-es Logitech G203 LIGHTSYNC Ratón Gaming con Iluminación RGB...'
 sku: 'B07W5JKFQC-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

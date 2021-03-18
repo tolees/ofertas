@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VHW5VK4-es secava - Wireless Earbuds Auriculares Bluetooth 5.0...'
 sku: 'B08VHW5VK4-es'
-tags: [  ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

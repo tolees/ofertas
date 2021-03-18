@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E9UVLUA-es Trust Yvi - Ratón óptico inalámbrico 1600 DPI color azul'
 sku: 'B00E9UVLUA-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N38BZXZ-es Trust Quasar - Auriculares con micrófono para PC Color Negro'
 sku: 'B01N38BZXZ-es'
-tags: [  ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W54T9DH-es Braun FaceSpa 851 - Sistema 3 en 1 de depiladora facial...'
 sku: 'B06W54T9DH-es'
-tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

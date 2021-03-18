@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVQDMNC-es New Balance Rubix Zapatillas de Running para Mujer Blanc...'
 sku: 'B07DVQDMNC-es'
-tags: [  ]
 actualPrice: 34.16 EUR
 currency: EUR
 price: 34.16

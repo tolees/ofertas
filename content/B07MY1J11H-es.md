@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MY1J11H-es Simple Joys by Carter s 12-Pack Sock Crew casual-socks...'
 sku: 'B07MY1J11H-es'
-tags: [  ]
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

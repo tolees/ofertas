@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FQSTH3K-es OMOTON Combo Teclado y Ratón Inalámbricos para Windows...'
 sku: 'B08FQSTH3K-es'
-tags: [  ]
 actualPrice: 17.55 EUR
 currency: EUR
 price: 17.55

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QDZHPTQ-es AmazonBasics - Cargador de pilas USB color blanco'
 sku: 'B07QDZHPTQ-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

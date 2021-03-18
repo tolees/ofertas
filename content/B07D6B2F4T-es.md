@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D6B2F4T-es Whey Protein 360 |Combinación TRI-Proteica Batido Alto En...'
 sku: 'B07D6B2F4T-es'
-tags: [  ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPTFW1Y-es ZoomSky Piedras Luminosas Azul 200pcs Stone Brillante Roca...'
 sku: 'B07RPTFW1Y-es'
-tags: [  ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

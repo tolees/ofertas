@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01I2UOWZS-es LEITZ 65190095 - Altavoz portátil con conexión Bluetooth...'
 sku: 'B01I2UOWZS-es'
-tags: [  ]
 actualPrice: 48.85 EUR
 currency: EUR
 price: 48.85

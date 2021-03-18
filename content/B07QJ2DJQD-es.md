@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QJ2DJQD-es Funko Pop! Bobble Vinyle Marvel: 80th - First Appearance -...'
 sku: 'B07QJ2DJQD-es'
-tags: [  ]
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

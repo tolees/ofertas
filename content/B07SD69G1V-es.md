@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SD69G1V-es Giorgi Line - Spray Fijador Pro Ultimate Volumen y Textura...'
 sku: 'B07SD69G1V-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LWVT81X-es Western Digital My Book Disco Duro Externo de Sobremesa de...'
 sku: 'B01LWVT81X-es'
-tags: [  ]
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

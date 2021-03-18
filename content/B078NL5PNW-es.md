@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078NL5PNW-es Asics Gel-Lyte Runner Zapatillas para Hombre Rosa Pale...'
 sku: 'B078NL5PNW-es'
-tags: [  ]
 actualPrice: 31.11 EUR
 currency: EUR
 price: 31.11

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R8DXGQ7-es Aigital Soporte Portátil Plegable 6 Ángulos Ajustables...'
 sku: 'B08R8DXGQ7-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y59YHWB-es Sesderma Repaskin Protector Solar Facial SPF 50 Tacto Seda...'
 sku: 'B06Y59YHWB-es'
-tags: [  ]
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

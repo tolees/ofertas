@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DNLG28Q-es ANGEL NINA Regalos Dia De La Madre Pendientes para niñas...'
 sku: 'B08DNLG28Q-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

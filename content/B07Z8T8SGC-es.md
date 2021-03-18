@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z8T8SGC-es bakibo Auriculares Inalámbricos Bluetooth 5.1...'
 sku: 'B07Z8T8SGC-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

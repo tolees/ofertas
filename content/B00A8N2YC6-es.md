@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00A8N2YC6-es GREAT ART Cartel Azul Rojo Barney Stinson - DIN A1 59 4 x...'
 sku: 'B00A8N2YC6-es'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

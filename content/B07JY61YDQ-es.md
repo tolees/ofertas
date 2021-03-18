@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JY61YDQ-es Pecute Funda Perros Coche Funda de Asiento para Perros...'
 sku: 'B07JY61YDQ-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GPQQBT7-es Skechers Status 2.0 Lorano Náuticos Hombre Negro Black...'
 sku: 'B07GPQQBT7-es'
-tags: [  ]
 actualPrice: 45.49 EUR
 currency: EUR
 price: 45.49

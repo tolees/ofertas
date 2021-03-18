@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SDP5BCY-es adidas LIGHT ANK 3PP Socks Unisex adulto Black/Black/Black L'
 sku: 'B07SDP5BCY-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

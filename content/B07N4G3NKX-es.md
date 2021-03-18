@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N4G3NKX-es Levi s Tijuana Zapatillas para Mujer Negro Sneakers 60 38 EU'
 sku: 'B07N4G3NKX-es'
-tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

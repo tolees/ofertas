@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8R2KQN-es MTNG Attitude 69574 Zapatillas para Mujer Blanco Canvas3...'
 sku: 'B07M8R2KQN-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

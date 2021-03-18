@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNFY1N7-es Anyutai Hermosa Starfish Beach Crafts Garden Decoration...'
 sku: 'B07WNFY1N7-es'
-tags: [  ]
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

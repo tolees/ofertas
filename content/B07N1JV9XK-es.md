@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JV9XK-es Clarks Sillian2.0dusk Botas Slouch para Mujer Negro Black...'
 sku: 'B07N1JV9XK-es'
-tags: [  ]
 actualPrice: 33.24 EUR
 currency: EUR
 price: 33.24

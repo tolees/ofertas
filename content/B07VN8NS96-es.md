@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VN8NS96-es MVMT Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07VN8NS96-es'
-tags: [ 'mvmt', ]
 actualPrice: 74.49 EUR
 currency: EUR
 price: 74.49

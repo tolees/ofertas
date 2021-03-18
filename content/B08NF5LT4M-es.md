@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NF5LT4M-es GREAT ART Cartel Motivación Negro - Grit - Fuerza de...'
 sku: 'B08NF5LT4M-es'
-tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

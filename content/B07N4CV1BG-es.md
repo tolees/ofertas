@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N4CV1BG-es New Balance Ml574 D Zapatillas Hombre Azul Navy 44 EU'
 sku: 'B07N4CV1BG-es'
-tags: [  ]
 actualPrice: 47.81 EUR
 currency: EUR
 price: 47.81

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6K8VL2-es Alcachofa de Ducha con 5 Modos de Spray Cabezal de Ducha...'
 sku: 'B07M6K8VL2-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

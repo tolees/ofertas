@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V4M4HKG-es Love MoschinoJc4291pp0aMujerCarteras de manoMarfil...'
 sku: 'B07V4M4HKG-es'
-tags: [  ]
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0821TXWJT-es Columbia SH/FT OUTDRY MID Zapatillas de Senderismo para...'
 sku: 'B0821TXWJT-es'
-tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4WZ1Q3-es Springfield 5Ba Slim Basic-c/61 Polo Rojo Red 61 M Tamaño...'
 sku: 'B07W4WZ1Q3-es'
-tags: [  ]
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

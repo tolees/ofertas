@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EO20LFO-es JVC HA-F160-B-E Gumy - Auriculares de botón color negro'
 sku: 'B00EO20LFO-es'
-tags: [  ]
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

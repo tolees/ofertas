@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005G7U6ZG-es Tristar KA-5911 - Calefactor Convector con 2 Ajustes de...'
 sku: 'B005G7U6ZG-es'
-tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

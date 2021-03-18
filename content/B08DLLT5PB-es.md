@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DLLT5PB-es Vikaster - Set di Fasce di Resistenza con Ancoraggio per...'
 sku: 'B08DLLT5PB-es'
-tags: [  ]
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

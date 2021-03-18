@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5RMJZZ-es Triumph Essential Minimizer W X Sujetador con Aros Marrón...'
 sku: 'B07V5RMJZZ-es'
-tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

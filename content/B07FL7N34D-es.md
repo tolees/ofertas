@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FL7N34D-es Philips Avent Biberón Natural SCF034/17 - Biberón de 260...'
 sku: 'B07FL7N34D-es'
-tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

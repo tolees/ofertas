@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00P0WCY66-es Prosperplast - Zanvic Rato Jardinera Marrón ZA701'
 sku: 'B00P0WCY66-es'
-tags: [  ]
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

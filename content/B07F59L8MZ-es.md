@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F59L8MZ-es alambre manualidades 8pcs ZoomSky 0.4mm para hacer...'
 sku: 'B07F59L8MZ-es'
-tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

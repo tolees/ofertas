@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MDG933Z-es E-MANIS - Lámpara de Luna 3D 16 Colores RGB Luz Nocturna...'
 sku: 'B07MDG933Z-es'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

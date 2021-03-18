@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UCBBC2C-es VersionTECH. - Soporte Portátil Mesa 6 Ángulos Ajustables...'
 sku: 'B00UCBBC2C-es'
-tags: [ 'versiontech.', ]
 actualPrice: 9.12 EUR
 currency: EUR
 price: 9.12

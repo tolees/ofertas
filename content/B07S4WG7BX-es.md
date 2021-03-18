@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4WG7BX-es New Balance 997H h Zapatillas para Hombre Marfil Off Hbp...'
 sku: 'B07S4WG7BX-es'
-tags: [  ]
 actualPrice: 42.84 EUR
 currency: EUR
 price: 42.84

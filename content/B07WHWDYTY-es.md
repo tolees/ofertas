@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHWDYTY-es MYMISS San Valentín Regalos pendientes mujer plata...'
 sku: 'B07WHWDYTY-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

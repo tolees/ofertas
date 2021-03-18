@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BBQ7QGS-es Babaria - Jabón De Manos de Coco&Aloe Blanco 500 ml'
 sku: 'B00BBQ7QGS-es'
-tags: [ 'Baño e higiene personal','Belleza','Limpieza personal','babaria', ]
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65

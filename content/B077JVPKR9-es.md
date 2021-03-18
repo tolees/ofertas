@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077JVPKR9-es HEAD GRAPHENE TORNADO CONTROL LTD AZUL'
 sku: 'B077JVPKR9-es'
-tags: [  ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

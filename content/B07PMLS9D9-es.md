@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMLS9D9-es New Balance 997H h Zapatillas para Hombre Marfil White 37 EU'
 sku: 'B07PMLS9D9-es'
-tags: [  ]
 actualPrice: 23.46 EUR
 currency: EUR
 price: 23.46

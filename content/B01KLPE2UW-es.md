@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KLPE2UW-es Lacor 24135-Plancha Grill Lisa Eco Piedra 33 x 25 cm-Negro...'
 sku: 'B01KLPE2UW-es'
-tags: [  ]
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

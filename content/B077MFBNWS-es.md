@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MFBNWS-es FIRENZE ARTEGIANI.Bolso de Mujer Piel auténtica.Bolso de...'
 sku: 'B077MFBNWS-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

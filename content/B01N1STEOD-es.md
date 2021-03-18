@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N1STEOD-es BabyBjörn Bliss Hamaca Mesh Antracita'
 sku: 'B01N1STEOD-es'
-tags: [  ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

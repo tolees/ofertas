@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E85JRZ6-es DEWALT DCB115-QW - Cargador XR para baterias de 10 8V - 14...'
 sku: 'B01E85JRZ6-es'
-tags: [  ]
 actualPrice: 32.61 EUR
 currency: EUR
 price: 32.61

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JWKKHKM-es KARACTERMANIA - Harry Potter Accio-Mochila HS'
 sku: 'B07JWKKHKM-es'
-tags: [  ]
 actualPrice: 29.35 EUR
 currency: EUR
 price: 29.35

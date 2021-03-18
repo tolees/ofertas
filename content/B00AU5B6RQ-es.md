@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AU5B6RQ-es Nasalmer Adultos - Spray Congestión Nasal 100% Agua de Mar...'
 sku: 'B00AU5B6RQ-es'
-tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

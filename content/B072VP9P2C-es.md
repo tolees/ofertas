@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072VP9P2C-es Citizen Reloj Analogico para Hombre de Energía Solar con...'
 sku: 'B072VP9P2C-es'
-tags: [  ]
 actualPrice: 233.44 EUR
 currency: EUR
 price: 233.44

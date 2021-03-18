@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R5F7RSQ-es 64GB Memorias USB 3.0 ENUODA Pendrive Giratoria Diseño...'
 sku: 'B07R5F7RSQ-es'
-tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

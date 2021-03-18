@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMRMNMC-es Clarks Un Costa Lace Zapatillas Azul Navy Leather Navy...'
 sku: 'B07TMRMNMC-es'
-tags: [  ]
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

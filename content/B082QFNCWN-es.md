@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082QFNCWN-es adidas Copa 20.4 In Zapatillas de fútbol Hombre Negro 39...'
 sku: 'B082QFNCWN-es'
-tags: [  ]
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

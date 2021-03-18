@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MCC7J8X-es REDSTORM Mando Inalámbrico Turbo y Giroscopio Controlador...'
 sku: 'B08MCC7J8X-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

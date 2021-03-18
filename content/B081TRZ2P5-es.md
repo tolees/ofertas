@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TRZ2P5-es adidas Novice C Zapatillas de Running FTWR White Core...'
 sku: 'B081TRZ2P5-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

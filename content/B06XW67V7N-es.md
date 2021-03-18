@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XW67V7N-es Silencio [DVD]'
 sku: 'B06XW67V7N-es'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

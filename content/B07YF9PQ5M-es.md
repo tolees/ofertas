@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YF9PQ5M-es Wodgreat Reproductor MP3 Reproductor de Música MP4...'
 sku: 'B07YF9PQ5M-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

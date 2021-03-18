@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076W3K9PH-es Dunkerque Blu-Ray [Blu-ray]'
 sku: 'B076W3K9PH-es'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

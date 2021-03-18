@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MZM2Y5G-es Lexon tech - Teclado para juegos con disposición italiana...'
 sku: 'B08MZM2Y5G-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LVVG5M4-es Rio LAHR-C - Depiladora con láser'
 sku: 'B00LVVG5M4-es'
-tags: [  ]
 actualPrice: 56.27 EUR
 currency: EUR
 price: 56.27

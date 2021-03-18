@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJ6G5RZ-es TOPBATHY Vegetable and Fruit Can Strainer Washing Drain...'
 sku: 'B07SJ6G5RZ-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

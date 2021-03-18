@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AEFCUDQ-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B00AEFCUDQ-es'
-tags: [  ]
 actualPrice: 163.49 EUR
 currency: EUR
 price: 163.49

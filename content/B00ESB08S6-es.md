@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ESB08S6-es PINTYPLUS EVOLUTION 600 Pintura Spray Acrílica 520cc Matt...'
 sku: 'B00ESB08S6-es'
-tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

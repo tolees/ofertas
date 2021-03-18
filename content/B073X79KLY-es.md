@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073X79KLY-es FoodSaver FFS016X Envasadoras al vacío con cutter incorporado'
 sku: 'B073X79KLY-es'
-tags: [  ]
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

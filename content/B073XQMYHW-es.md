@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XQMYHW-es FIRENZE ARTEGIANI.Cartera de Mujer Piel auténtica.Cartera...'
 sku: 'B073XQMYHW-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N41AGYH-es Biwond S10 Dual SIM+Camara+Bluetooth+Radio Flip...'
 sku: 'B01N41AGYH-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

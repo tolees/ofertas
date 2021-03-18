@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004LM6YCQ-es PLAYMOBIL-1.2.3 Excavator Cargador de Rueda Colores...'
 sku: 'B004LM6YCQ-es'
-tags: [  ]
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

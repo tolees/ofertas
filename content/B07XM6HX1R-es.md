@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XM6HX1R-es TACKLIFE T6 Arrancador de Coche -18000mAh 800A Real 12 V...'
 sku: 'B07XM6HX1R-es'
-tags: [  ]
 actualPrice: 56.09 EUR
 currency: EUR
 price: 56.09

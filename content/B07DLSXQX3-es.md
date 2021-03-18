@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLSXQX3-es YIMORE Raquetas de Tenis bádminton con Bolas Juguete para...'
 sku: 'B07DLSXQX3-es'
-tags: [  ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

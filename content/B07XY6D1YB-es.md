@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XY6D1YB-es Arándano Rojo Capsulas 12 500 mg - 180 Cápsulas Apto Para...'
 sku: 'B07XY6D1YB-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

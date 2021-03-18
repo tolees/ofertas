@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYSGRL4-es Hd 1080p HDMI VGA Adaptador Convertidor Hembra Cable de...'
 sku: 'B07TYSGRL4-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

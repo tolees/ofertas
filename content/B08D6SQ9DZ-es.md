@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D6SQ9DZ-es 5 PCS Salvaorejas de Mascarillas Extensor Ajustable Correa...'
 sku: 'B08D6SQ9DZ-es'
-tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

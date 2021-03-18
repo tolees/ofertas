@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6PCWBB-es PUMA X-Ray Zapatillas Unisex-Adulto Negro Black/Dark...'
 sku: 'B07S6PCWBB-es'
-tags: [  ]
 actualPrice: 36.13 EUR
 currency: EUR
 price: 36.13

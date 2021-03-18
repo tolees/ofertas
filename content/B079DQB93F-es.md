@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079DQB93F-es TACKLIFE Martillo Pequeño Mini Martillo de Carpintero...'
 sku: 'B079DQB93F-es'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

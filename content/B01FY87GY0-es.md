@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FY87GY0-es ThunderX3 TM20OR - Ratón gaming óptico profesional 4000...'
 sku: 'B01FY87GY0-es'
-tags: [  ]
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

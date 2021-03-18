@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0754RNX6M-es Salomon shorts para running agile short tafetán negro...'
 sku: 'B0754RNX6M-es'
-tags: [  ]
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

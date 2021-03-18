@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004DUMT4S-es Magic Bodyfashion Wing Bra Sujetador adhesivo Para Mujer...'
 sku: 'B004DUMT4S-es'
-tags: [  ]
 actualPrice: 15.43 EUR
 currency: EUR
 price: 15.43

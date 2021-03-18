@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LQJ4K5-es Munich Wave 32 Zapatillas Unisex Adulto Multicolor 37 EU'
 sku: 'B085LQJ4K5-es'
-tags: [  ]
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

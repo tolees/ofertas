@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY7BQNP-es JOJOR Cuerda para Saltar Ajustable para Niños y Adultos...'
 sku: 'B07PY7BQNP-es'
-tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

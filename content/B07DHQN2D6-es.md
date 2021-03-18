@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHQN2D6-es Lacoste Lerond 119 737cma0045042 Zapatillas para Hombre...'
 sku: 'B07DHQN2D6-es'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

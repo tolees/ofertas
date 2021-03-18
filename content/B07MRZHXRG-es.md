@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MRZHXRG-es Herefun Funda para Barbacoa Impermeable 210D Oxford Funda...'
 sku: 'B07MRZHXRG-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

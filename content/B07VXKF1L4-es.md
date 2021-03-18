@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VXKF1L4-es Western Digital - WD Elements Desktop - Disco duro externo...'
 sku: 'B07VXKF1L4-es'
-tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

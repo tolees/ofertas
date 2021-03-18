@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XLQ2FR5-es Pack Harry Potter - Colección Completa Golden Steelbook...'
 sku: 'B07XLQ2FR5-es'
-tags: [  ]
 actualPrice: 31.02 EUR
 currency: EUR
 price: 31.02

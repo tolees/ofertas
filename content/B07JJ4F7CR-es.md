@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJ4F7CR-es TACKLIFE Cinturón para Herramientas Profesionales Tela...'
 sku: 'B07JJ4F7CR-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

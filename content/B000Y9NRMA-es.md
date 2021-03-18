@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000Y9NRMA-es Kitchen Craft - Termómetro de Acero Inoxidable para...'
 sku: 'B000Y9NRMA-es'
-tags: [  ]
 actualPrice: 5.63 EUR
 currency: EUR
 price: 5.63

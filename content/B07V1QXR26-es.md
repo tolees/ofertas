@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V1QXR26-es SAFETYON Cepillo de Taladro Eléctrico 4 Pieces...'
 sku: 'B07V1QXR26-es'
-tags: [  ]
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

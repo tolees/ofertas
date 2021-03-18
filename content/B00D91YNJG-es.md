@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D91YNJG-es Borcam 1690037 Juego de 2 bandejas de Horno Care Cristal...'
 sku: 'B00D91YNJG-es'
-tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

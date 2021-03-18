@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XQYWRK1-es Hugo BOSS Reloj para Hombre 1513485'
 sku: 'B06XQYWRK1-es'
-tags: [  ]
 actualPrice: 129.4 EUR
 currency: EUR
 price: 129.4

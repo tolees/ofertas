@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R1ZHTJP-es Under Armour UNDKU Heatgear Crew Calcetines Unisex adulto...'
 sku: 'B07R1ZHTJP-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

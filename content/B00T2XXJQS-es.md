@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00T2XXJQS-es Remington BHT250 Delicates - Afeitadora Corporal Cuchillas...'
 sku: 'B00T2XXJQS-es'
-tags: [  ]
 actualPrice: 22.15 EUR
 currency: EUR
 price: 22.15

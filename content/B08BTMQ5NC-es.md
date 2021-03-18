@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BTMQ5NC-es Vinilo decorativo Ropa Categoría Muebles Ventana Armario...'
 sku: 'B08BTMQ5NC-es'
-tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

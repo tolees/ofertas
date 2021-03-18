@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WGMS5GQ-es Star Wars 599386031 - Careta de Stormtrooper'
 sku: 'B00WGMS5GQ-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

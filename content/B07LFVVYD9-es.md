@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LFVVYD9-es U&I Entertainment - Yacht Club Games - Shovel Knight Pack...'
 sku: 'B07LFVVYD9-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

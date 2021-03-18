@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGG4KTF-es LK [3 Pack] Protector de Pantalla para Xiaomi Redmi Note 8...'
 sku: 'B07XGG4KTF-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

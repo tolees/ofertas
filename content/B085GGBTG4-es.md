@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085GGBTG4-es Huawei Watch GT 2e Active - Smartwatch de AMOLED pantalla...'
 sku: 'B085GGBTG4-es'
-tags: [ 'Electrónica','Smartwatches','Tecnología para vestir','huawei', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

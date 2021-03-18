@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W91TVHK-es Tommy Hilfiger Hombre Slim Bleecker Pstr Crane Blue Loose...'
 sku: 'B07W91TVHK-es'
-tags: [  ]
 actualPrice: 23.74 EUR
 currency: EUR
 price: 23.74

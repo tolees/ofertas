@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBKG3MY-es Guanqin Reloj de Pulsera mecánico con Calendario analógico...'
 sku: 'B07VBKG3MY-es'
-tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

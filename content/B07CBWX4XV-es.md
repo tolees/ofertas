@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBWX4XV-es Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones Negro...'
 sku: 'B07CBWX4XV-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074F4KSQS-es RestBed Bio Memory Colchón Viscoelástico INNOGEL Blanco...'
 sku: 'B074F4KSQS-es'
-tags: [  ]
 actualPrice: 199.8 EUR
 currency: EUR
 price: 199.8

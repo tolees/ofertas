@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G6QBQZ3-es A'
 sku: 'B07G6QBQZ3-es'
-tags: [  ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

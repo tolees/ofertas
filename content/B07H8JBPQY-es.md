@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H8JBPQY-es GREAT ART Poster Motivacional 59.4 x 42 cm - Formato A2...'
 sku: 'B07H8JBPQY-es'
-tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6S1S8N-es DURAGADGET Cable De Audio para Portátil ASUS FX504GM-EN225...'
 sku: 'B07P6S1S8N-es'
-tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

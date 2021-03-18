@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0824HMDGH-es Coronel Tapiocca - Mochila para Hombre Coronel Tappioca...'
 sku: 'B0824HMDGH-es'
-tags: [  ]
 actualPrice: 12.31 EUR
 currency: EUR
 price: 12.31

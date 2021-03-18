@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F412LGH-es HUAWEI Watch FIT - Smartwatch con Cuerpo de Metal Pantalla...'
 sku: 'B08F412LGH-es'
-tags: [ 'Electrónica','Smartwatches','Tecnología para vestir','huawei', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

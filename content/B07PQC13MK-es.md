@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQC13MK-es Bañador Reductor de Mujer Traje de Baño de Una Pieza de...'
 sku: 'B07PQC13MK-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

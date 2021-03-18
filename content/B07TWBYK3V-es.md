@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWBYK3V-es 24x Negro blanco Lámina impresa 2d PEGATINAS lisas para...'
 sku: 'B07TWBYK3V-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

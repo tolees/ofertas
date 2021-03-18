@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07239VFPV-es Beko SGA7126P Centro de Planchado 2600 W Golpe de vapor...'
 sku: 'B07239VFPV-es'
-tags: [  ]
 actualPrice: 58.88 EUR
 currency: EUR
 price: 58.88

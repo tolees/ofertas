@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XWPWSH8-es Nike Tanjun Zapatillas de Running para Hombre Negro...'
 sku: 'B00XWPWSH8-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

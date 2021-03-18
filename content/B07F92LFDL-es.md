@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F92LFDL-es Tommy Hilfiger Boys Slim Chino Ostw PD Pantalones Azul Sky...'
 sku: 'B07F92LFDL-es'
-tags: [  ]
 actualPrice: 38.68 EUR
 currency: EUR
 price: 38.68

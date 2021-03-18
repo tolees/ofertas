@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWY3PVS-es Skechers Bounder Zapatillas para Hombre Gris Gray...'
 sku: 'B07TWY3PVS-es'
-tags: [  ]
 actualPrice: 27.96 EUR
 currency: EUR
 price: 27.96

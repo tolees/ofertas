@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MRCGQQ4-es Intel CPU CORE I5-9400F 2.90GHZ 9M LGA1151 NO GRAPHICS...'
 sku: 'B07MRCGQQ4-es'
-tags: [  ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A0MLMB8-es Energy Sistem 425563 Auriculares Bluetooth 4.1 Talla única...'
 sku: 'B01A0MLMB8-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

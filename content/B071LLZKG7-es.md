@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071LLZKG7-es Sphero R2-D2 App-Enabled Droid de Sphero'
 sku: 'B071LLZKG7-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

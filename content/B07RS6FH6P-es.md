@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS6FH6P-es Tommy Hilfiger - Th Nylon Tote Bolsos totes Mujer...'
 sku: 'B07RS6FH6P-es'
-tags: [  ]
 actualPrice: 55.94 EUR
 currency: EUR
 price: 55.94

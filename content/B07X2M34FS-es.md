@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2M34FS-es El precio del poder 4K UHD + BD [Blu-ray]'
 sku: 'B07X2M34FS-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

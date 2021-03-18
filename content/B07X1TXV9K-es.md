@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1TXV9K-es SIGNATURE PACKAGING Tazas de batido de plástico fuerte con...'
 sku: 'B07X1TXV9K-es'
-tags: [  ]
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQG4KD3-es koulate Caja de Lentes Cubierta Reflectante Juego de...'
 sku: 'B07YQG4KD3-es'
-tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084DPT55M-es Remington G2 Graphite Series PG2000 - Set Recortador de...'
 sku: 'B084DPT55M-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

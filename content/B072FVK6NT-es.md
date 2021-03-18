@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FVK6NT-es New Balance 574v2 Core Lace Modelo GC574GV Zapatillas para...'
 sku: 'B072FVK6NT-es'
-tags: [  ]
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

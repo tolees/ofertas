@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RW5Q28Z-es find. Mellor Botas Chukka Gris Charcoal 42 EU'
 sku: 'B07RW5Q28Z-es'
-tags: [  ]
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

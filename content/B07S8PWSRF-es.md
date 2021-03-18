@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S8PWSRF-es PUMA Smash v2 Zapatillas Unisex Adulto Verde Burnt Olive...'
 sku: 'B07S8PWSRF-es'
-tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

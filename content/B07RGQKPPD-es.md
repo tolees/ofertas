@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGQKPPD-es Tommy Hilfiger TJM Classics Longsleeve Polo Blanco White...'
 sku: 'B07RGQKPPD-es'
-tags: [  ]
 actualPrice: 27.05 EUR
 currency: EUR
 price: 27.05

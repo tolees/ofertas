@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00K2UTBP8-es Severin AS 3915 Cortafiambres 180 W Incluye 2 Cuchillas...'
 sku: 'B00K2UTBP8-es'
-tags: [  ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

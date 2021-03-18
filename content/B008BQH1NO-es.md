@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008BQH1NO-es Amazon - Funda de cuero para Kindle Paperwhite color negro...'
 sku: 'B008BQH1NO-es'
-tags: [  ]
 actualPrice: 21.52 EUR
 currency: EUR
 price: 21.52

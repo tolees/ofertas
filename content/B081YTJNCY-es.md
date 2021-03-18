@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081YTJNCY-es para GoPro Domo Puerto para Gopro Hero Negro Domo GoPro...'
 sku: 'B081YTJNCY-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

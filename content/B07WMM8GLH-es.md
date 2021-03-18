@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMM8GLH-es TUBBZ Spyro The Dragon Moneybags Collectible Duck'
 sku: 'B07WMM8GLH-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

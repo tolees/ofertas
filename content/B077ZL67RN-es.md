@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077ZL67RN-es Kärcher - Kächer WD 3 Battery Set Aspirador Multiusos con...'
 sku: 'B077ZL67RN-es'
-tags: [  ]
 actualPrice: 194.95 EUR
 currency: EUR
 price: 194.95

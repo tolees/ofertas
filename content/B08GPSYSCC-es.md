@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPSYSCC-es Sunnila Recargable 7.4V 2200mAh Calcetines Térmicos de...'
 sku: 'B08GPSYSCC-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJT99ZX-es adidas Predator 19.3 AG Zapatillas de Fútbol para Hombre...'
 sku: 'B07RJT99ZX-es'
-tags: [  ]
 actualPrice: 51.7 EUR
 currency: EUR
 price: 51.7

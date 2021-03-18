@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078Y5Q8FQ-es BRA Advanced Sartén 22 cm aluminio fundido con...'
 sku: 'B078Y5Q8FQ-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

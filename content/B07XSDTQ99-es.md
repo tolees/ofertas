@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XSDTQ99-es Ufesa PV1500C Activa - Plancha de Vapor 2200W Golpe de...'
 sku: 'B07XSDTQ99-es'
-tags: [  ]
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

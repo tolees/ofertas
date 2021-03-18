@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001O3PAA2-es Q-Connect Pizarra Corcho Marco De Madera 60x40 Cm'
 sku: 'B001O3PAA2-es'
-tags: [  ]
 actualPrice: 5.21 EUR
 currency: EUR
 price: 5.21

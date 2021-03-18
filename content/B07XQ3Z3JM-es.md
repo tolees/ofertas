@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XQ3Z3JM-es Sloggi Wow Embrace P Sujetador sin Aros Gris Grey...'
 sku: 'B07XQ3Z3JM-es'
-tags: [  ]
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

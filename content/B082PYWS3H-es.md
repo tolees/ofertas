@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PYWS3H-es Samsung A71 - Carcasa de silicona color Negro'
 sku: 'B082PYWS3H-es'
-tags: [  ]
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

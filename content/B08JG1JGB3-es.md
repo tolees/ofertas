@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JG1JGB3-es Ocobudbxw pequeño y Encantador Forma de ratón Espuma...'
 sku: 'B08JG1JGB3-es'
-tags: [  ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

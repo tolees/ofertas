@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0778M1FDX-es Repavar Revitalizante Agua Micelar 300Ml. 300 ml'
 sku: 'B0778M1FDX-es'
-tags: [  ]
 actualPrice: 4.51 EUR
 currency: EUR
 price: 4.51

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0009OAIBI-es Estee Lauder Beautiful Perfume con vaporizador - 30 ml'
 sku: 'B0009OAIBI-es'
-tags: [  ]
 actualPrice: 41.15 EUR
 currency: EUR
 price: 41.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TWTFR6K-es Wrangler Skinny Crop Pantalones Naranja Paradise Pink Xld...'
 sku: 'B07TWTFR6K-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KQGZ854-es NERTHUS Jarra Térmica de Doble Pared de Acero Inoxidable e...'
 sku: 'B08KQGZ854-es'
-tags: [  ]
 actualPrice: 11.83 EUR
 currency: EUR
 price: 11.83

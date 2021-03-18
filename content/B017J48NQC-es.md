@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017J48NQC-es Terry Jline 368 Armario 2 Puertas con una estanteria...'
 sku: 'B017J48NQC-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

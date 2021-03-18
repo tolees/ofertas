@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VNTLSGH-es Lee Breese Pantalones para Mujer Azul Dark Hunter Hw...'
 sku: 'B07VNTLSGH-es'
-tags: [  ]
 actualPrice: 30.34 EUR
 currency: EUR
 price: 30.34

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015KKJQ90-es Kappa Rocket Zapatillas Unisex Adulto Azul Navy/White 6710...'
 sku: 'B015KKJQ90-es'
-tags: [ 'kappa', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

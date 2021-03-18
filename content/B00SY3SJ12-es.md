@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SY3SJ12-es Einhell 4513660 Taladro atornillador sin cable TH-CD 12-2...'
 sku: 'B00SY3SJ12-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

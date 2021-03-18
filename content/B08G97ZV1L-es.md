@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G97ZV1L-es La Provençale Bio Contorno de Ojos Anti-Edad con Aceite de...'
 sku: 'B08G97ZV1L-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

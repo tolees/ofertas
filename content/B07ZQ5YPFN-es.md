@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZQ5YPFN-es Mortlach 15 - Whisky escocés puro de malta Edición...'
 sku: 'B07ZQ5YPFN-es'
-tags: [  ]
 actualPrice: 87.72 EUR
 currency: EUR
 price: 87.72

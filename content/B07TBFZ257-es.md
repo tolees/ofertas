@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBFZ257-es Quiksilver Stapilton-Chaqueta De Lona con Cremallera para...'
 sku: 'B07TBFZ257-es'
-tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

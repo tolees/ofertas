@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08436VSDM-es La Granja de Zenón - Bola Aprende las Formas con La Granja...'
 sku: 'B08436VSDM-es'
-tags: [  ]
 actualPrice: 8.61 EUR
 currency: EUR
 price: 8.61

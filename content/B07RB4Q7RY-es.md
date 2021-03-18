@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB4Q7RY-es Marvel - Vengadores: Endgame [Blu-ray]'
 sku: 'B07RB4Q7RY-es'
-tags: [ 'Acción y Aventura','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Blu-ray','Bricolaje y herramientas','Ciencia ficción','Destornilladores','Fantasía','Featured Categories','Herramientas de mano','Herramientas manuales y eléctricas','Hogar y cocina','Juegos de destornilladores','Películas','Películas y TV','Robots aspiradores','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','marvel', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

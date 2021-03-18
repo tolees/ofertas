@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVY19D5-es Tuc Tuc Enjoy & Dream Pop Up - Maleta de viaje niños color...'
 sku: 'B07JVY19D5-es'
-tags: [  ]
 actualPrice: 24.61 EUR
 currency: EUR
 price: 24.61

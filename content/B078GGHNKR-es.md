@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GGHNKR-es Tommy Hilfiger Brazilian Braguita brasileña Gris Grey...'
 sku: 'B078GGHNKR-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

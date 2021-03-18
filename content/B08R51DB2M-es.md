@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R51DB2M-es Warner Bros. Entertainment - Blade Runner - Montaje Final...'
 sku: 'B08R51DB2M-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

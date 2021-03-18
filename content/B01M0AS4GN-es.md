@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0AS4GN-es Caja de Joyería Forma de Corazón Anillos Plásticos Rosada...'
 sku: 'B01M0AS4GN-es'
-tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

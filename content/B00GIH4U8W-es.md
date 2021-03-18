@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GIH4U8W-es RockJam RJEG01 - Paquete completo de guitarra eléctrica'
 sku: 'B00GIH4U8W-es'
-tags: [  ]
 actualPrice: 70.87 EUR
 currency: EUR
 price: 70.87

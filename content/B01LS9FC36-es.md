@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LS9FC36-es Naipo Masajeador electrico 3D Shiatsu Rotación Masajeador...'
 sku: 'B01LS9FC36-es'
-tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

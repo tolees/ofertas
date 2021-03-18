@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQTB4P7-es LEMON CLOUD 3D-Fensterfolie Light Block selbst für Home...'
 sku: 'B07SQTB4P7-es'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

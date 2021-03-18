@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRYC8SS-es Hurley W Base Crew Fleece Sudaderas Mujer Dark Grey htr XS'
 sku: 'B07SRYC8SS-es'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

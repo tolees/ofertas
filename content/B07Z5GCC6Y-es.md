@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5GCC6Y-es Salomon Sense Feel W Zapatillas de Trail Running Mujer...'
 sku: 'B07Z5GCC6Y-es'
-tags: [  ]
 actualPrice: 48.47 EUR
 currency: EUR
 price: 48.47

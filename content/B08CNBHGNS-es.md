@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNBHGNS-es GOLDGE 21pz Limpiador de Oídos para Bebés Removedor de...'
 sku: 'B08CNBHGNS-es'
-tags: [  ]
 actualPrice: 6.51 EUR
 currency: EUR
 price: 6.51

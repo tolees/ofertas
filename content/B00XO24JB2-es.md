@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XO24JB2-es Soria Natural - Fostprint Complemento Energético con...'
 sku: 'B00XO24JB2-es'
-tags: [  ]
 actualPrice: 14.65 EUR
 currency: EUR
 price: 14.65

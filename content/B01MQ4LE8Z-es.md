@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MQ4LE8Z-es Lorenay LN-1109 - Cepillo de dientes para nino estampado...'
 sku: 'B01MQ4LE8Z-es'
-tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

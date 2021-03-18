@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DD75Q1F-es Fun Play - IMC Toys-¡No Seas Boca ¡No Seas Bocas...'
 sku: 'B07DD75Q1F-es'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NNV9ZNP-es Colágeno + Ácido Hialurónico + Coenzima Q10 + Vitaminas A...'
 sku: 'B07NNV9ZNP-es'
-tags: [  ]
 actualPrice: 14.32 EUR
 currency: EUR
 price: 14.32

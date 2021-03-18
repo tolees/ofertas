@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNLXCZ9-es Pantalones Cortos Deportivos para Mujer Entrenamiento Yoga...'
 sku: 'B08DNLXCZ9-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

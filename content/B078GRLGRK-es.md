@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078GRLGRK-es Bromose Sauna Facial Icoic Humidificador de Vapor Facial...'
 sku: 'B078GRLGRK-es'
-tags: [  ]
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

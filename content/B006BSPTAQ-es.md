@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006BSPTAQ-es TP-Link TL-WN881ND - WIFI Adaptador PCI Express Tarjeta de...'
 sku: 'B006BSPTAQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Tarjetas de red','tp-link', ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

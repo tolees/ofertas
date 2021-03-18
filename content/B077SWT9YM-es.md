@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077SWT9YM-es Nike U Nk H86 Cap Metal Swoosh Hat Unisex Adulto White/...'
 sku: 'B077SWT9YM-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

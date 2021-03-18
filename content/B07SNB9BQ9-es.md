@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNB9BQ9-es Adidas Vs Switch 2 CMF C Zapatillas de Running Unisex niño...'
 sku: 'B07SNB9BQ9-es'
-tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

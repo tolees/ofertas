@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NV25GX4-es Homyl - 5 micrófonos luminosos antideslizantes con...'
 sku: 'B07NV25GX4-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDMXC48-es G-STAR RAW Motac Slim Tapered Pantalones de Deporte Gris...'
 sku: 'B07NDMXC48-es'
-tags: [  ]
 actualPrice: 34.55 EUR
 currency: EUR
 price: 34.55

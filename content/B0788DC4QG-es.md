@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0788DC4QG-es adidas Vs Pace Sneaker Hombre Grey/Footwear White/Footwear...'
 sku: 'B0788DC4QG-es'
-tags: [  ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

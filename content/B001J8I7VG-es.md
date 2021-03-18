@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001J8I7VG-es tesa Powerstrips 58031-00020-00 - Gancho para colgar...'
 sku: 'B001J8I7VG-es'
-tags: [  ]
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

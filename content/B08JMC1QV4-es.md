@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JMC1QV4-es Jarchii 【2021 Promoción de año Nuevo】 Soporte de Tobillo...'
 sku: 'B08JMC1QV4-es'
-tags: [  ]
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

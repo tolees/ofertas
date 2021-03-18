@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WVQVDLV-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B07WVQVDLV-es'
-tags: [  ]
 actualPrice: 246.22 EUR
 currency: EUR
 price: 246.22

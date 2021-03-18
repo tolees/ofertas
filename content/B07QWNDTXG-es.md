@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QWNDTXG-es Under Armour UNDKU Heatgear Locut Calcetines Unisex adulto...'
 sku: 'B07QWNDTXG-es'
-tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H9PDLRF-es Apple Funda Silicone Case para el iPhone XS Max - Blanco'
 sku: 'B07H9PDLRF-es'
-tags: [  ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

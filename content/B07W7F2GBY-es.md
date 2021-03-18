@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7F2GBY-es Funko - POP Animation: Dragon Ball Z - Training Vegeta'
 sku: 'B07W7F2GBY-es'
-tags: [  ]
 actualPrice: 12.06 EUR
 currency: EUR
 price: 12.06

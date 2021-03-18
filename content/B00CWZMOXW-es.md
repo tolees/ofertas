@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CWZMOXW-es Tayg Caja herramientas n. 500-E 500 x 295 x 270 mm'
 sku: 'B00CWZMOXW-es'
-tags: [  ]
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCDNL5X-es Columbia Trail Shaker Braga para El Cuello Unisex Adulto...'
 sku: 'B07JCDNL5X-es'
-tags: [  ]
 actualPrice: 12.65 EUR
 currency: EUR
 price: 12.65

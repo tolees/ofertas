@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6WSTW2-es DURAGADGET Cable De Audio para Portátil ASUS TUF Gaming...'
 sku: 'B07P6WSTW2-es'
-tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

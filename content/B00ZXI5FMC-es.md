@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZXI5FMC-es Panasonic KX-TGJ310SPB - Teléfono Fijo Inalámbrico LCD...'
 sku: 'B00ZXI5FMC-es'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

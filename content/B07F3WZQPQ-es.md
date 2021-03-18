@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3WZQPQ-es Cortapelos Profesional Hombre Cortadora de Pelo Eléctrico...'
 sku: 'B07F3WZQPQ-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

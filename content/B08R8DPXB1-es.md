@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R8DPXB1-es Econanos - Mascarilla De Protección Ffp2 Autofiltrante Color'
 sku: 'B08R8DPXB1-es'
-tags: [  ]
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

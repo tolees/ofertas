@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPG6QZ9-es Powerextra DMW-BLC12 Panasonic DMW-BLC12E 2 X Baterías con...'
 sku: 'B07PPG6QZ9-es'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

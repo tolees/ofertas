@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CMH5BP1-es Bethesda - Wolfenstein II: The New Colossus'
 sku: 'B07CMH5BP1-es'
-tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

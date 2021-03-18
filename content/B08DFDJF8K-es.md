@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DFDJF8K-es Enotepad LCD Writing Tablets for Kids Drawing Doodle Board...'
 sku: 'B08DFDJF8K-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

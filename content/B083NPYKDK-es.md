@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083NPYKDK-es GERIINEER Riñonera Deportiva Mujer Hombre Riñonera...'
 sku: 'B083NPYKDK-es'
-tags: [  ]
 actualPrice: 6.34 EUR
 currency: EUR
 price: 6.34

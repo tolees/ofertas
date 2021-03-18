@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W2GW7GJ-es Aquabeads- Plantillas Epoch para Imaginar 30288'
 sku: 'B06W2GW7GJ-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

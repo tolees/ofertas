@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HBJ7CBC-es Reloj analógico para hombre Tommy Hilfiger 1710355...'
 sku: 'B01HBJ7CBC-es'
-tags: [  ]
 actualPrice: 115.21 EUR
 currency: EUR
 price: 115.21

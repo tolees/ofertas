@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07THV287Y-es Star Ibaby - Casa de Muñecas con Familia y mobiliario...'
 sku: 'B07THV287Y-es'
-tags: [  ]
 actualPrice: 55.64 EUR
 currency: EUR
 price: 55.64

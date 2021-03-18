@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JNFXV1T-es Skechers Synergy 3.0 Zapatillas para Mujer Blanco White...'
 sku: 'B07JNFXV1T-es'
-tags: [  ]
 actualPrice: 45.33 EUR
 currency: EUR
 price: 45.33

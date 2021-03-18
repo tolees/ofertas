@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081BJQF22-es Columbia Challenger Chaqueta cortavientos Hombre...'
 sku: 'B081BJQF22-es'
-tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

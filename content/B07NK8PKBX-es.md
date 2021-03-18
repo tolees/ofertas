@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NK8PKBX-es Apple iMac de 21 5 pulgadas 8GB RAM 1TB de almacenamiento...'
 sku: 'B07NK8PKBX-es'
-tags: [  ]
 actualPrice: 1105.3 EUR
 currency: EUR
 price: 1105.3

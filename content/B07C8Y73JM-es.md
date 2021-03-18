@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C8Y73JM-es Vans Ward Canvas Zapatillas para Hombre Azul Dress...'
 sku: 'B07C8Y73JM-es'
-tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

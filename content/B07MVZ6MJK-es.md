@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVZ6MJK-es HyperX Predator HX430C15PB3A/16 Memoria 3000MHz DDR4 CL15...'
 sku: 'B07MVZ6MJK-es'
-tags: [  ]
 actualPrice: 73.65 EUR
 currency: EUR
 price: 73.65

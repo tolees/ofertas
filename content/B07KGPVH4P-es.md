@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGPVH4P-es Buff R-Solid Gorra One Touch Unisex Adulto Royal Blue...'
 sku: 'B07KGPVH4P-es'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

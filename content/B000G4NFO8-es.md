@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000G4NFO8-es adidas Copa Mundial Zapatillas de Fútbol para Hombre...'
 sku: 'B000G4NFO8-es'
-tags: [  ]
 actualPrice: 95.78 EUR
 currency: EUR
 price: 95.78

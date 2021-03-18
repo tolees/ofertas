@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1ML9H8-es New Balance 411 Zapatillas de Running para Hombre Azul...'
 sku: 'B07S1ML9H8-es'
-tags: [  ]
 actualPrice: 30.25 EUR
 currency: EUR
 price: 30.25

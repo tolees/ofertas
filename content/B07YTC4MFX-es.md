@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YTC4MFX-es Cine Quinqui [Blu-ray]'
 sku: 'B07YTC4MFX-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

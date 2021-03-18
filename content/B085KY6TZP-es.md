@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085KY6TZP-es Máscara ffp2 Máscara para Exteriores Máscara...'
 sku: 'B085KY6TZP-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

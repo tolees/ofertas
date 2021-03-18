@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZYWGZ2Z-es Distinct 2 Pares Negro Mallas Malla de Calcetines Cortos'
 sku: 'B06ZYWGZ2Z-es'
-tags: [  ]
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

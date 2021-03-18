@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XFM3LDT-es Hoover Lander LA20 Bolsa Aspirador ciclónico Cepillo...'
 sku: 'B06XFM3LDT-es'
-tags: [  ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

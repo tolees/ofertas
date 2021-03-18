@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GKZLV6N-es Rovtop Alcachofa de Ducha - Mano la Cabeza de Ducha Ahorro...'
 sku: 'B07GKZLV6N-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

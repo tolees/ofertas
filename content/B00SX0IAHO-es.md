@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SX0IAHO-es Unreal by Joshua Jay and Luis De Matos - DVD'
 sku: 'B00SX0IAHO-es'
-tags: [  ]
 actualPrice: 110.57 EUR
 currency: EUR
 price: 110.57

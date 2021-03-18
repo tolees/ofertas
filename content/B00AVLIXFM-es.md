@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AVLIXFM-es ecomed FS-52E bañera de hidromasaje para pies con...'
 sku: 'B00AVLIXFM-es'
-tags: [  ]
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

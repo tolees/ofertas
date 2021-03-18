@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01A6WRO7I-es The North Face W Explortn Convbl Pt Wmrn Brn Pantalones...'
 sku: 'B01A6WRO7I-es'
-tags: [  ]
 actualPrice: 61.98 EUR
 currency: EUR
 price: 61.98

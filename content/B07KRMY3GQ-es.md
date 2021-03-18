@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRMY3GQ-es New Balance 373 Zapatillas Hombre Azul Blue Blue 39.5 EU 6 UK'
 sku: 'B07KRMY3GQ-es'
-tags: [  ]
 actualPrice: 28.47 EUR
 currency: EUR
 price: 28.47

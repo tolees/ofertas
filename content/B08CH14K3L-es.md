@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CH14K3L-es Uniqueheart Home Kitchen Baking Accessories Easy Clean...'
 sku: 'B08CH14K3L-es'
-tags: [  ]
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

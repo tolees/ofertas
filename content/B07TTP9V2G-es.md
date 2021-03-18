@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTP9V2G-es KiplingTopsMujerCarterasNegro Charcoal 7.5x10x2.5...'
 sku: 'B07TTP9V2G-es'
-tags: [  ]
 actualPrice: 15.21 EUR
 currency: EUR
 price: 15.21

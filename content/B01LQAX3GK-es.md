@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LQAX3GK-es Bref Blue Active Higiene Colgador WC - Pack de 10 unidades'
 sku: 'B01LQAX3GK-es'
-tags: [  ]
 actualPrice: 10.58 EUR
 currency: EUR
 price: 10.58

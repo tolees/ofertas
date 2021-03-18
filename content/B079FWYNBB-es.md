@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FWYNBB-es Sveon SAC120N - Cargador de portátil Color Negro'
 sku: 'B079FWYNBB-es'
-tags: [  ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

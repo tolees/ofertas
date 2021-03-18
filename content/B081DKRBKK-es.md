@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DKRBKK-es Fertuo Funda para Xiaomi Redmi Note 8T Carcasa Libro con...'
 sku: 'B081DKRBKK-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

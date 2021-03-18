@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y9K28SR-es HOTUCG USB C Hub USB C Adaptador 6 EN 1 con Puerto de...'
 sku: 'B07Y9K28SR-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

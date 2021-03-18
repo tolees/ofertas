@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009KIEUKO-es The Walt Disney Company Iberia - Peter Pan - Edición...'
 sku: 'B009KIEUKO-es'
-tags: [  ]
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

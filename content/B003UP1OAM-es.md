@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003UP1OAM-es Duracell Pilas de botón de litio 2025 de 3 V paquete de 2...'
 sku: 'B003UP1OAM-es'
-tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

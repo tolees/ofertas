@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDCLM19-es BlueXP 100 Unidades Botón de Mariposa Pintado de Madera...'
 sku: 'B07DDCLM19-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

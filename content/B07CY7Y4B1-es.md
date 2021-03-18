@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY7Y4B1-es Motorola Moto G6 Plus - Smartphone de 5.9" procesador de...'
 sku: 'B07CY7Y4B1-es'
-tags: [  ]
 actualPrice: 192.8 EUR
 currency: EUR
 price: 192.8

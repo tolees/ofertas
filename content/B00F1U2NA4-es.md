@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00F1U2NA4-es Maybelline New York Máscara de Cejas Brow Drama Tono Dark...'
 sku: 'B00F1U2NA4-es'
-tags: [  ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

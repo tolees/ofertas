@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY0ERQ7-es Omino Bianco Detergente Liquido Cuero de Marsella'
 sku: 'B01LY0ERQ7-es'
-tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

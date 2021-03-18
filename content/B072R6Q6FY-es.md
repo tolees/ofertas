@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072R6Q6FY-es Softee 0710000 Crema Anti-Rozaduras Blanco S'
 sku: 'B072R6Q6FY-es'
-tags: [  ]
 actualPrice: 1.94 EUR
 currency: EUR
 price: 1.94

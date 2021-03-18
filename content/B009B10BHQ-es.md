@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009B10BHQ-es Funko 3014 - Game Of Thrones Tyrion Lannister figura de...'
 sku: 'B009B10BHQ-es'
-tags: [  ]
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

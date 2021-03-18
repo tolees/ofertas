@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LSS0YAE-es Bolero Bebida Instantánea sin Azúcar Sabor Pomelo Amarillo...'
 sku: 'B00LSS0YAE-es'
-tags: [  ]
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

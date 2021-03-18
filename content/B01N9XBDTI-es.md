@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N9XBDTI-es Philips HD2581/90 Daily Collection HD2581/90-Tostador 2...'
 sku: 'B01N9XBDTI-es'
-tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

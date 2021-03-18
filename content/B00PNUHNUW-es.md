@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PNUHNUW-es adidas Superstar Foundation Zapatillas Blanco White B27136...'
 sku: 'B00PNUHNUW-es'
-tags: [  ]
 actualPrice: 55.27 EUR
 currency: EUR
 price: 55.27

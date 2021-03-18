@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWP37H9-es Warxin Soporte Magnético Movil Coche para Ventilación...'
 sku: 'B07VWP37H9-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

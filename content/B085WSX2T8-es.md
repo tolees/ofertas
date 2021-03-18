@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085WSX2T8-es DOUBLX Cara M-A-S-K-S Boca desechable M-a-s-k Anti PM2.5...'
 sku: 'B085WSX2T8-es'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

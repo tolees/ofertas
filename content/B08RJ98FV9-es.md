@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08RJ98FV9-es MAYJAM Aceites Esenciales de Eucalipto 100 ml 100% Aceites...'
 sku: 'B08RJ98FV9-es'
-tags: [ 'mayjam', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

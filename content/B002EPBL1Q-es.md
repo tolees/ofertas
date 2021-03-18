@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002EPBL1Q-es Talisker 10 Whisky Escocés 700ml'
 sku: 'B002EPBL1Q-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

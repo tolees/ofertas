@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VMFQH8Z-es Nivel láser RockSeed Cross Nivel láser Puntos Horizontales...'
 sku: 'B07VMFQH8Z-es'
-tags: [  ]
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

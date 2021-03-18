@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YG3VDQY-es IKOHS CHEFBOT Compact STEAMPRO - Robot de Cocina...'
 sku: 'B07YG3VDQY-es'
-tags: [  ]
 actualPrice: 194.95 EUR
 currency: EUR
 price: 194.95

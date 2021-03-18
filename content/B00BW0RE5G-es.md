@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BW0RE5G-es POP! Vinilo - BTTF: Marty McFly'
 sku: 'B00BW0RE5G-es'
-tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

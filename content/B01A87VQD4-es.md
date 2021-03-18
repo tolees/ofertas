@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01A87VQD4-es HP EliteDisplay E202 - Monitor 1600 x 900 Pixeles LED Not...'
 sku: 'B01A87VQD4-es'
-tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

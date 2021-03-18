@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9U1ODU-es Garnier Nutrisse Creme Coloración Nutritiva Permanente...'
 sku: 'B00X9U1ODU-es'
-tags: [  ]
 actualPrice: 3.46 EUR
 currency: EUR
 price: 3.46

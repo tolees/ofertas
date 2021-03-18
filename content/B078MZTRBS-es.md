@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078MZTRBS-es TENDA Nova MW6 Sistema Integral DE Red Mesh WiFi Blanco 2...'
 sku: 'B078MZTRBS-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

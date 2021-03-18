@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RNCW1SJ-es Habitación infantil Lámpara de pared Dormitorio nórdico...'
 sku: 'B07RNCW1SJ-es'
-tags: [  ]
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072VJF12S-es Buff Margo Calentador Tricot Y Polar Unisex Adulto Blue...'
 sku: 'B072VJF12S-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

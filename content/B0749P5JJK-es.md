@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0749P5JJK-es Jack & Jones Jacharry Belt Noos Cinturón Marrón Black...'
 sku: 'B0749P5JJK-es'
-tags: [ 'jack & jones', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M5GN59W-es Auriculares Bluetooth 5.0 Inalámbricos Magnéticos...'
 sku: 'B07M5GN59W-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

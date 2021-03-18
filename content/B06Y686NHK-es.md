@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y686NHK-es Joma 100761.306 Pantalones Hombre Azul Marino/Rojo S'
 sku: 'B06Y686NHK-es'
-tags: [  ]
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

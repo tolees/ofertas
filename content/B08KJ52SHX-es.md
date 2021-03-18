@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KJ52SHX-es Gearbox Publishing - Godfall - Deluxe Edition'
 sku: 'B08KJ52SHX-es'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

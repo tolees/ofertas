@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EVNXN6K-es adidas Rueda de Abdominales'
 sku: 'B00EVNXN6K-es'
-tags: [  ]
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

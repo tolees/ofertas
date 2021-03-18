@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3DKBCH-es Vbiger Mochilas Escolares Impermeable para Estudiante Rosa1'
 sku: 'B07X3DKBCH-es'
-tags: [  ]
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

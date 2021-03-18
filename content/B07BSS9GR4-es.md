@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BSS9GR4-es SALOMON Brigade Casco de esquí y Snowboard para Hombre con...'
 sku: 'B07BSS9GR4-es'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

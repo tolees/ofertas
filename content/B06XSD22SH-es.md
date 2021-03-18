@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XSD22SH-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B06XSD22SH-es'
-tags: [  ]
 actualPrice: 262.58 EUR
 currency: EUR
 price: 262.58

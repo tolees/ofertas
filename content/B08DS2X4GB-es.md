@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DS2X4GB-es MaxTronic - Coche Teledirigido 2.4 GHz 4WD RC Coche...'
 sku: 'B08DS2X4GB-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

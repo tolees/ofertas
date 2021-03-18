@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004PYN4DM-es Optimum Nutrition Amino Energy Naranja - 270g'
 sku: 'B004PYN4DM-es'
-tags: [  ]
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

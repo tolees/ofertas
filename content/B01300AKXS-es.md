@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01300AKXS-es BRA PRIOR Cacerola alta con tapa de cristal y asas de...'
 sku: 'B01300AKXS-es'
-tags: [  ]
 actualPrice: 35.83 EUR
 currency: EUR
 price: 35.83

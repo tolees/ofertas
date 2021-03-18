@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077SXDRHY-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B077SXDRHY-es'
-tags: [  ]
 actualPrice: 71.5 EUR
 currency: EUR
 price: 71.5

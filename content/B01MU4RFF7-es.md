@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU4RFF7-es Intex 56640EU - Manguitos hinchables Licencia Frozen'
 sku: 'B01MU4RFF7-es'
-tags: [  ]
 actualPrice: 1.83 EUR
 currency: EUR
 price: 1.83

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7D6V1P-es INTEY Perchero de Pie Perchero Metálico de Árbol de Pie...'
 sku: 'B07F7D6V1P-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

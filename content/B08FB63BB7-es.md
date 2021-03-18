@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FB63BB7-es Jack & Jones JACJAMES Trunks 3 Pack Noos Bxer Negro L para...'
 sku: 'B08FB63BB7-es'
-tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

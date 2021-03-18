@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08211DQXS-es AIMIUVIE Smartwatch Reloj Inteligente IP67 con Pulsómetro...'
 sku: 'B08211DQXS-es'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

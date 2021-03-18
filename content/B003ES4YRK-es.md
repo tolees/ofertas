@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003ES4YRK-es Wonderbra 78144 - Sujetador básico para mujer Arena 85D'
 sku: 'B003ES4YRK-es'
-tags: [  ]
 actualPrice: 19.47 EUR
 currency: EUR
 price: 19.47

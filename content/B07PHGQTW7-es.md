@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHGQTW7-es Rieker Herbst/Winter Botas Clasicas para Hombre Negro...'
 sku: 'B07PHGQTW7-es'
-tags: [  ]
 actualPrice: 38.51 EUR
 currency: EUR
 price: 38.51

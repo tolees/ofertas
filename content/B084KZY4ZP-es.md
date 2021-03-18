@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084KZY4ZP-es Cave Club Muñecas Pre-Históricas Pack 2 Fernessa y Furrah...'
 sku: 'B084KZY4ZP-es'
-tags: [ 'Hogar y cocina','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Muñecas bebé','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','cave club', ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

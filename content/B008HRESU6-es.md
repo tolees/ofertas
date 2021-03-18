@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008HRESU6-es Bosch Professional Set de 7 brocas fresadoras planas Self...'
 sku: 'B008HRESU6-es'
-tags: [  ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

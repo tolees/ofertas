@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HAOMM9Q-es Science4you - Fábrica de Jabones - Juguete científico y...'
 sku: 'B00HAOMM9Q-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

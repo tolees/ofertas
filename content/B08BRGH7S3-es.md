@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BRGH7S3-es Xiaomi Mi True Wireless Earphones 2 Basic Los nuevos...'
 sku: 'B08BRGH7S3-es'
-tags: [  ]
 actualPrice: 27.29 EUR
 currency: EUR
 price: 27.29

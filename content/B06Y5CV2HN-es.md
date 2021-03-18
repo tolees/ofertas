@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y5CV2HN-es Vans Herren Classic T - Shirt Blau Navy/white Medium'
 sku: 'B06Y5CV2HN-es'
-tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

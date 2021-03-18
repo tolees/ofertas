@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074HG31VL-es Colon Polvo Activo - Detergente para lavadora adecuado...'
 sku: 'B074HG31VL-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

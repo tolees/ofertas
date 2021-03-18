@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBG9XS5-es Calvin Klein Mid Rise Short Azul Da037 Light Blue Cut Hem...'
 sku: 'B07VBG9XS5-es'
-tags: [  ]
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

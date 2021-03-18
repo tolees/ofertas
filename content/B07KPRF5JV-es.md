@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPRF5JV-es Funko - Pop! Rides: Batman 80th: Batman 1950'
 sku: 'B07KPRF5JV-es'
-tags: [  ]
 actualPrice: 23.76 EUR
 currency: EUR
 price: 23.76

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0015APMKW-es Schwarzkopf Igora Royal Color and Care Developer 3 10 Vol...'
 sku: 'B0015APMKW-es'
-tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

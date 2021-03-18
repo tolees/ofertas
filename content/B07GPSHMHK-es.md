@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GPSHMHK-es Dior Joy 90 ml Mujeres - Eau de parfum Mujeres 90 ml...'
 sku: 'B07GPSHMHK-es'
-tags: [  ]
 actualPrice: 46.6 EUR
 currency: EUR
 price: 46.6

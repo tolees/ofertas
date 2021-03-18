@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074CGS1NH-es Asmodee - El Padrino - El imperio Corleone Edge EECMGF01'
 sku: 'B074CGS1NH-es'
-tags: [ 'asmodee', ]
 actualPrice: 55.86 EUR
 currency: EUR
 price: 55.86

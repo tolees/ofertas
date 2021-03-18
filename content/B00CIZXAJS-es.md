@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CIZXAJS-es Cuncial TZ-S-4 - Tendedero de ropa automático 4 hilos'
 sku: 'B00CIZXAJS-es'
-tags: [ 'cuncial', ]
 actualPrice: 17.12 EUR
 currency: EUR
 price: 17.12

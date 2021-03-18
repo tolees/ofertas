@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088TBM2XL-es Docooler FM Radio de Coche Bluetooth Reproductor de música...'
 sku: 'B088TBM2XL-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

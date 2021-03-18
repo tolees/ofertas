@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GC2GGB8-es NWOUIIAY Cargador Batería Coche Moto Carga Inteligente...'
 sku: 'B08GC2GGB8-es'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

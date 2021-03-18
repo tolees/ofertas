@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JZ1Z37S-es DigHealth 13-in-1 Juguete Robot Solar Kit de DIY Robots...'
 sku: 'B08JZ1Z37S-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

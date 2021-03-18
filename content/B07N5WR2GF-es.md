@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5WR2GF-es Pop! Vinilo: Big Bang Theory S2: Stuart'
 sku: 'B07N5WR2GF-es'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

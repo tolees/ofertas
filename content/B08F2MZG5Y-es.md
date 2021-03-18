@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F2MZG5Y-es ValaVie - Secador de pelo cepillo de aire caliente 3 en 1...'
 sku: 'B08F2MZG5Y-es'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

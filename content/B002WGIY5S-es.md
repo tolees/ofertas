@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002WGIY5S-es Superga 2750 COTU Classic Zapatillas Mujer Ecru 912 44 EU'
 sku: 'B002WGIY5S-es'
-tags: [  ]
 actualPrice: 34.09 EUR
 currency: EUR
 price: 34.09

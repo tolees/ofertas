@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012SG8AQE-es Zwilling Essence - Batería de Cocina Acero Inoxidable Gris...'
 sku: 'B012SG8AQE-es'
-tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

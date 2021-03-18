@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TSKWGG8-es KiplingCreativity XlMujerMonederosBlanco White Metallic...'
 sku: 'B07TSKWGG8-es'
-tags: [  ]
 actualPrice: 21.82 EUR
 currency: EUR
 price: 21.82

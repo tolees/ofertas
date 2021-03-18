@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084HBSK9L-es koch media gmbh - Saints Row IV: Re-elected'
 sku: 'B084HBSK9L-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

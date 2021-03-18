@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086P6BX8P-es PUMA Classics Wide Leg Pants Chándal Mujer White M'
 sku: 'B086P6BX8P-es'
-tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

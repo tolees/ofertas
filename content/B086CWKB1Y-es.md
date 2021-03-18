@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086CWKB1Y-es WaYiNg #B006 - Hombre Short Sleeve Motogp Vr46 The Doctor...'
 sku: 'B086CWKB1Y-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

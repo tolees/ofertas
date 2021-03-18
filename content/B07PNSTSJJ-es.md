@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNSTSJJ-es Robluee - Juego de Pinzas para círculos Cuatro Cabezales...'
 sku: 'B07PNSTSJJ-es'
-tags: [  ]
 actualPrice: 0.73 EUR
 currency: EUR
 price: 0.73

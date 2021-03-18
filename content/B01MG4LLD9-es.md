@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MG4LLD9-es Alpha Animation & Toys 4Pk Super Wings Transform-A-Bots...'
 sku: 'B01MG4LLD9-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

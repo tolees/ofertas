@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WYYYCY2-es Tamaño compacto RF Presentador inalámbrico Puntero PPT...'
 sku: 'B07WYYYCY2-es'
-tags: [  ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

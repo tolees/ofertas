@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M1KEZQA-es Wraps WRCOG-V16M Core Auricular con micrófono Dorado'
 sku: 'B01M1KEZQA-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

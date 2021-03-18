@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J8YLR0A-es Lámpara de mesa EGLO CARLTON 2 lámpara de mesa vintage con...'
 sku: 'B01J8YLR0A-es'
-tags: [  ]
 actualPrice: 28.87 EUR
 currency: EUR
 price: 28.87

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084M5XZXM-es Sierra Circular sin Cable POPOMAN 18V Sierra Circular...'
 sku: 'B084M5XZXM-es'
-tags: [  ]
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

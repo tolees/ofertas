@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RN75ZT5-es NOKOER Protector de Lente de Cámara para Xiaomi Redmi Note...'
 sku: 'B07RN75ZT5-es'
-tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

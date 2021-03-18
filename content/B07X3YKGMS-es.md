@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3YKGMS-es 50x Palos de Madera Cuadrados de Madera para Hacer Bastón...'
 sku: 'B07X3YKGMS-es'
-tags: [  ]
 actualPrice: 10.34 EUR
 currency: EUR
 price: 10.34

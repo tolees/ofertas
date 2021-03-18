@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TPRWM2-es adidas Drst Torch Bra Sujetador de Deporte Mujer Black XS'
 sku: 'B081TPRWM2-es'
-tags: [  ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

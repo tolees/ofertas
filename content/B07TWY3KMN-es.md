@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWY3KMN-es Skechers Equalizer 4.0 Zapatillas para Hombre Azul Black...'
 sku: 'B07TWY3KMN-es'
-tags: [  ]
 actualPrice: 31.88 EUR
 currency: EUR
 price: 31.88

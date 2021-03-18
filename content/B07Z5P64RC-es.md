@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z5P64RC-es LIGE Relojes Hombre Acero Inoxidable Impermeable Deportes...'
 sku: 'B07Z5P64RC-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

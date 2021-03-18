@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LSCRW7Z-es TTLIFE Monitor de calidad del aire PM2.5 PM10 CO2...'
 sku: 'B08LSCRW7Z-es'
-tags: [  ]
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

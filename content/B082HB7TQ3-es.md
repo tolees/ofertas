@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HB7TQ3-es ART VVIES Leinwandbilder für Wohndekorationen Küche...'
 sku: 'B082HB7TQ3-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XS7GQH-es Lee LS Pique Polo Serpico Green S para Hombre'
 sku: 'B082XS7GQH-es'
-tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

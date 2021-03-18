@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0834BKDC3-es adidas Duramo SL Sneaker Hombre Core Black/Footwear...'
 sku: 'B0834BKDC3-es'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

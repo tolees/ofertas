@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085ZJKPN1-es RuiDaXiang Perro de Juguete Niños Caminando y ladrando...'
 sku: 'B085ZJKPN1-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

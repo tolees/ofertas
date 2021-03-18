@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0772P8HCP-es SUBITO Knit'
 sku: 'B0772P8HCP-es'
-tags: [  ]
 actualPrice: 29 EUR
 currency: EUR
 price: 29

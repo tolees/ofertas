@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0811SYMRN-es ZZSNT Walk-Hero Ajustable Transpirable elástico Anti-...'
 sku: 'B0811SYMRN-es'
-tags: [  ]
 actualPrice: 2.38 EUR
 currency: EUR
 price: 2.38

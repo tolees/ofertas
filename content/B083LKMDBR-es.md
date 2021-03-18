@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083LKMDBR-es K9CK Luces LED para Lego Technic Bugatti Chiron 42083 Kit...'
 sku: 'B083LKMDBR-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

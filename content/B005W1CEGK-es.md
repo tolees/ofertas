@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005W1CEGK-es Orbegozo FH 5570 – Calefactor vertical oscilante...'
 sku: 'B005W1CEGK-es'
-tags: [  ]
 actualPrice: 19.18 EUR
 currency: EUR
 price: 19.18

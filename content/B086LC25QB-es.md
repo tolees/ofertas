@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086LC25QB-es IHOUMI - 16G Grabadora de Voz Digital Portátil HD Grabador...'
 sku: 'B086LC25QB-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086JTLY92-es SUNUV - Esterilizador UV Portátil 59S UV Esterilizador...'
 sku: 'B086JTLY92-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

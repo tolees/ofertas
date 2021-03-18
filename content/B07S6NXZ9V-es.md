@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S6NXZ9V-es Nerthus FIH 459 Termo Doble Pared para frios y Calientes...'
 sku: 'B07S6NXZ9V-es'
-tags: [  ]
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

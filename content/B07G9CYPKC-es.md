@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9CYPKC-es Easton Marlowe 6 PR Calcetines Estampados Hombre Mujer -...'
 sku: 'B07G9CYPKC-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

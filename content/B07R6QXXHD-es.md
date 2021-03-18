@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R6QXXHD-es Tobetree Transmisor FM Bluetooth 5.0 Coche Dual USB Carga...'
 sku: 'B07R6QXXHD-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

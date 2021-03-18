@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078MB9RKB-es Asics Noosa Ff 2 Zapatillas de Entrenamiento para Mujer...'
 sku: 'B078MB9RKB-es'
-tags: [  ]
 actualPrice: 81.55 EUR
 currency: EUR
 price: 81.55

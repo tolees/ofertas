@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LXFSRZJ-es Skechers Graceful-Get Connected Zapatillas Mujer Negro BKW...'
 sku: 'B01LXFSRZJ-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

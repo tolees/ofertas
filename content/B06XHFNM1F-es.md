@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHFNM1F-es Helly Hansen W HH LIFA Active Basleayer Pant Mujer Black XS'
 sku: 'B06XHFNM1F-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

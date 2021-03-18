@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K1NGYRG-es Adidas Continental 80 Zapatillas Hombre Blanco FTWR...'
 sku: 'B07K1NGYRG-es'
-tags: [  ]
 actualPrice: 40.95 EUR
 currency: EUR
 price: 40.95

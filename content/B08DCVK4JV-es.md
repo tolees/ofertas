@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCVK4JV-es Oxímetro de Pulso KKmier Pulsioximetro de Dedo Profesional...'
 sku: 'B08DCVK4JV-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

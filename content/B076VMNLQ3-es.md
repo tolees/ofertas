@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076VMNLQ3-es NATURE ESSENTIAL - Evacuaplus complex 400 mg con aloe sen...'
 sku: 'B076VMNLQ3-es'
-tags: [  ]
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

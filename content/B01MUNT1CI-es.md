@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUNT1CI-es Uuhome Maletín Vacío para Maquillaje Portátil Impermeable...'
 sku: 'B01MUNT1CI-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

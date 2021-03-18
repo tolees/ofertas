@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08LW4RBZJ-es Cecotec Robot aspirador y fregasuelos Conga 4690 Ultra...'
 sku: 'B08LW4RBZJ-es'
-tags: [ 'cecotec', ]
 actualPrice: 309.0 EUR
 currency: EUR
 price: 309.0

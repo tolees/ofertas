@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XMRRS32-es Kharnage - Juego de mesa Edge Entertainment EDGKH01'
 sku: 'B06XMRRS32-es'
-tags: [ 'edge entertainment', ]
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

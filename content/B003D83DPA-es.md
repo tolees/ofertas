@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003D83DPA-es Vertigo - Dire Straits - Alchemy Live [Blu-ray]'
 sku: 'B003D83DPA-es'
-tags: [  ]
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

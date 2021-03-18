@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZMQW97-es Hyundai HYBC5080AV Desbrozadora con Motor a 2 Tiempos Pro...'
 sku: 'B071ZMQW97-es'
-tags: [  ]
 actualPrice: 159.7 EUR
 currency: EUR
 price: 159.7

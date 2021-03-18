@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYX5BRY-es JX FITNESS Banco de Pesas multifunción Banco de...'
 sku: 'B07MYX5BRY-es'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

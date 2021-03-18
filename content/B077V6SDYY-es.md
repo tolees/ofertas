@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077V6SDYY-es Navaja de Afeitar de Barbero y Peine Plantilla Guía de...'
 sku: 'B077V6SDYY-es'
-tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

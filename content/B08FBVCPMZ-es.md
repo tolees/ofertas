@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FBVCPMZ-es Colgate Max White Expert Complete Pasta de Dientes...'
 sku: 'B08FBVCPMZ-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

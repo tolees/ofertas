@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GN568HY-es Tableta de escritura LCD SUNLU Tablero de escritura y...'
 sku: 'B07GN568HY-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

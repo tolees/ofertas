@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HKP12FX-es American Tourister Disney Legends Spinner M Maleta...'
 sku: 'B07HKP12FX-es'
-tags: [  ]
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

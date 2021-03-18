@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3GVYD4-es Dockers by Gerli 43ad101 Botas Militar para Hombre Gris...'
 sku: 'B07Q3GVYD4-es'
-tags: [  ]
 actualPrice: 15.87 EUR
 currency: EUR
 price: 15.87

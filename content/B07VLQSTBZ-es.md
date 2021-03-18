@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VLQSTBZ-es Tommy Hilfiger Mujer Rome Straight Rw Clr Skinny Jeans...'
 sku: 'B07VLQSTBZ-es'
-tags: [  ]
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

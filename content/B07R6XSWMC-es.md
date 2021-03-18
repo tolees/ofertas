@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R6XSWMC-es Only & Sons NOS Onswinston Sweat Hoodie Noos Capucha Azul...'
 sku: 'B07R6XSWMC-es'
-tags: [  ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TL2HGCH-es HUAWEI Mobile WiFi E5576 - Router WiFi móvil 4G LTE CAT4...'
 sku: 'B07TL2HGCH-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','huawei', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

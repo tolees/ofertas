@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J9Y8STC-es Lee Extreme Motion Straight Jeans Trip 36W / 32L para Hombre'
 sku: 'B07J9Y8STC-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001QMQE3S-es Waterpik WP-70 - Producto de cuidado dental color blanco'
 sku: 'B001QMQE3S-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

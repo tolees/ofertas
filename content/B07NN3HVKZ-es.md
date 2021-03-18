@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NN3HVKZ-es Nike Court Vision LO Zapatillas Hombre Blanco...'
 sku: 'B07NN3HVKZ-es'
-tags: [  ]
 actualPrice: 42.47 EUR
 currency: EUR
 price: 42.47

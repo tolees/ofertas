@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L1IIF1A-es Sennheiser HD 569 - Auriculares de Diadema Cerrados 6.3...'
 sku: 'B01L1IIF1A-es'
-tags: [  ]
 actualPrice: 89.16 EUR
 currency: EUR
 price: 89.16

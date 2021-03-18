@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YBFMHZ9-es Pepe Jeans Raise Billetero con tarjetero Marrón 9 5x6 5x1...'
 sku: 'B07YBFMHZ9-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

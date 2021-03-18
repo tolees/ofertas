@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EICDZIK-es Ushuaia Polynésie Aceite de ducha con flor monoi y tiare...'
 sku: 'B00EICDZIK-es'
-tags: [  ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IS2ARKO-es Cordones Elasticos Gomas ★ Cordón Elasticas Zapatillas de...'
 sku: 'B01IS2ARKO-es'
-tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVKSRWQ-es Lotus Reloj para de Cuarzo con Correa en Acero Inoxidable...'
 sku: 'B07FVKSRWQ-es'
-tags: [  ]
 actualPrice: 78.19 EUR
 currency: EUR
 price: 78.19

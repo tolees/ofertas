@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082QFJ5N7-es adidas Duramo SL Sneaker Hombre Core Black/Footwear...'
 sku: 'B082QFJ5N7-es'
-tags: [ 'Calzado deportivo para hombre','Calzados de running para hombre','Calzados para correr en asfalto para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','adidas', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

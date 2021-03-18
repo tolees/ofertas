@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V59SBD1-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07V59SBD1-es'
-tags: [  ]
 actualPrice: 111.57 EUR
 currency: EUR
 price: 111.57

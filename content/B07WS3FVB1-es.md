@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WS3FVB1-es Samsung Galaxy Watch Active 2 - Smartwatch de Aluminio...'
 sku: 'B07WS3FVB1-es'
-tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

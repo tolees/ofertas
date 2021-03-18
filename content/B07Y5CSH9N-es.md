@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5CSH9N-es GRIDINLUX. Batería de Titanio y Fondo de Piedra. 25...'
 sku: 'B07Y5CSH9N-es'
-tags: [  ]
 actualPrice: 150.38 EUR
 currency: EUR
 price: 150.38

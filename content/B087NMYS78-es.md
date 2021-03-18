@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NMYS78-es Respirador desechable de Tres Capas Transpirable Antipolvo...'
 sku: 'B087NMYS78-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

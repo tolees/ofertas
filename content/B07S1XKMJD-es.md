@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1XKMJD-es BOSS Long John Thermal+ Pantalones térmicos Negro Black 1...'
 sku: 'B07S1XKMJD-es'
-tags: [  ]
 actualPrice: 20.37 EUR
 currency: EUR
 price: 20.37

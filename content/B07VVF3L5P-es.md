@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VVF3L5P-es Lotus Reloj de Vestir 18737/1'
 sku: 'B07VVF3L5P-es'
-tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

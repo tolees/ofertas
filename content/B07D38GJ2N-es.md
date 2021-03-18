@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D38GJ2N-es DeWalt - Kit de 4 herramientas sin cepillo 18 V...'
 sku: 'B07D38GJ2N-es'
-tags: [  ]
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

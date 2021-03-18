@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LHB1XSS-es Lékué Kit iniciación Repostería Essential Moldes Silicona'
 sku: 'B08LHB1XSS-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

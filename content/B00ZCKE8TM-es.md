@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ZCKE8TM-es Delia - Corrector de cejas con queratina marrón 7 ml'
 sku: 'B00ZCKE8TM-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

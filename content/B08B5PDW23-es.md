@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5PDW23-es MERIGLARE Cepillo De Eléctrico Con Batería De Limpieza...'
 sku: 'B08B5PDW23-es'
-tags: [  ]
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

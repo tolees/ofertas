@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XBFR11Q-es Compo Cuidado de Las Plantas de Interior y de terraza...'
 sku: 'B06XBFR11Q-es'
-tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

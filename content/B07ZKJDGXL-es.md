@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKJDGXL-es JK-2 Cómoda Manta Tejida de Tela Baby Stretch Wrap Cerca...'
 sku: 'B07ZKJDGXL-es'
-tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

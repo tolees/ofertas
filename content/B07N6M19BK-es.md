@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6M19BK-es Tommy Hilfiger Tommy Patch Square Bufanda Green Lj5 Talla...'
 sku: 'B07N6M19BK-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

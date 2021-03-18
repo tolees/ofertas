@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089M8D1PY-es Freddie Windows 10 Pro Original | 1PC | para la Vida |...'
 sku: 'B089M8D1PY-es'
-tags: [ 'Electrónica','freddie', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

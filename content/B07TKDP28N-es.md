@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKDP28N-es FITFORT Ventilador USB Silencioso - Máx 43 Horas de...'
 sku: 'B07TKDP28N-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

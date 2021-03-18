@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWMBHXD-es KuGi para Huawei Mate 20 Pro dureza HD transparente sin...'
 sku: 'B07GWMBHXD-es'
-tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

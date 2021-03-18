@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LBFBTY9-es Biomecanics 151157-2 Zapatillas de Estar por casa Unisex...'
 sku: 'B07LBFBTY9-es'
-tags: [  ]
 actualPrice: 34.23 EUR
 currency: EUR
 price: 34.23

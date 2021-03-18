@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085WR6M6P-es Juego de 10 brochas de maquillaje de cerdas sintéticas de...'
 sku: 'B085WR6M6P-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

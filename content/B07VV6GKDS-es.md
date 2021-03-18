@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VV6GKDS-es Fitbit Aria Air Scales Black Unisex-Adult One Size'
 sku: 'B07VV6GKDS-es'
-tags: [  ]
 actualPrice: 39.94 EUR
 currency: EUR
 price: 39.94

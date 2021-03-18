@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H62PFTB-es VERVE - Rocket'
 sku: 'B07H62PFTB-es'
-tags: [  ]
 actualPrice: 8.61 EUR
 currency: EUR
 price: 8.61

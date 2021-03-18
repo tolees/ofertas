@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X8ZLYLR-es Anker Hub USB-C actualizado Adaptador USB-C 5 en 1 con...'
 sku: 'B07X8ZLYLR-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XDRHDQQ-es Desodorante spray Sanex Dermo Invisible 24H protección...'
 sku: 'B00XDRHDQQ-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

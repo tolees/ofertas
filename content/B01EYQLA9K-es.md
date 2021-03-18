@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EYQLA9K-es BERING Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B01EYQLA9K-es'
-tags: [  ]
 actualPrice: 118.0 EUR
 currency: EUR
 price: 118.0

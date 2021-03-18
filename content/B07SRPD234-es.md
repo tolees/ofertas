@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRPD234-es Zuzpao Bolsas de Vacio 2 Rollos para sellar al vacío sin...'
 sku: 'B07SRPD234-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

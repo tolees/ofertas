@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JRGWGG6-es LeYi Funda Xiaomi Redmi Note 6 Pro Silicona Purpurina...'
 sku: 'B07JRGWGG6-es'
-tags: [  ]
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

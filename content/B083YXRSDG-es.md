@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083YXRSDG-es GTIWUNG 36 Piezas Juego de Herramientas de extracción de...'
 sku: 'B083YXRSDG-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

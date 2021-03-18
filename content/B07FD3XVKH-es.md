@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FD3XVKH-es MVMT Reloj Cronógrafo para Mujer de Cuarzo con Correa en...'
 sku: 'B07FD3XVKH-es'
-tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087N3GNNB-es P Prettyia Cámara De De Juegos A Prueba De Agua Al Aire...'
 sku: 'B087N3GNNB-es'
-tags: [  ]
 actualPrice: 26.65 EUR
 currency: EUR
 price: 26.65

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VOAXQME-es Croci C5055219 Correa Flexi Design Tapes 5 m'
 sku: 'B00VOAXQME-es'
-tags: [  ]
 actualPrice: 15.73 EUR
 currency: EUR
 price: 15.73

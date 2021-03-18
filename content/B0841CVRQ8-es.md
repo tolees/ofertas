@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0841CVRQ8-es Tommy Hilfiger TJM Essential Down Jacket Chaqueta Verde...'
 sku: 'B0841CVRQ8-es'
-tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','tommy hilfiger', ]
 actualPrice: 132.3 EUR
 currency: EUR
 price: 132.3

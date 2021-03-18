@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VVKSDHN-es weton USBC to HDMI 4K Adapter Type-C Adapter Compatible...'
 sku: 'B07VVKSDHN-es'
-tags: [  ]
 actualPrice: 19.23 EUR
 currency: EUR
 price: 19.23

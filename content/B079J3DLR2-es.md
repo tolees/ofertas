@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079J3DLR2-es Intel NUC NUC7i5DNHE BGA 1356 2 60 GHz i5-7300U UCFF Negro...'
 sku: 'B079J3DLR2-es'
-tags: [  ]
 actualPrice: 358.14 EUR
 currency: EUR
 price: 358.14

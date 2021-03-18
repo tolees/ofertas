@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088CJS5LP-es G-STAR RAW 5620 3D Slim Jeans Antic Faded Kyanite...'
 sku: 'B088CJS5LP-es'
-tags: [ 'g-star raw', ]
 actualPrice: 40.13 EUR
 currency: EUR
 price: 40.13

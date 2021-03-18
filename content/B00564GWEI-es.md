@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00564GWEI-es Logitech MK120 Combo Teclado y Ratón con Cable para...'
 sku: 'B00564GWEI-es'
-tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

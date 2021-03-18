@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014EBKYDS-es Osprey Farpoint 70 Men s Travel Pack with 13L Detachable...'
 sku: 'B014EBKYDS-es'
-tags: [ 'osprey', ]
 actualPrice: 60.95 EUR
 currency: EUR
 price: 60.95

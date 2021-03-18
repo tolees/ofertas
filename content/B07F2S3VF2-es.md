@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2S3VF2-es Helly Hansen Hh Qd Cargo Shorts 11 Pantalones deportivos...'
 sku: 'B07F2S3VF2-es'
-tags: [  ]
 actualPrice: 32.93 EUR
 currency: EUR
 price: 32.93

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7JXBVF-es bonmedico Ekto Vendaje de Tobillo Vendaje Deportivo de...'
 sku: 'B01N7JXBVF-es'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W23ARU6-es Pack 2 Kajal delineador de ojos arabe /...'
 sku: 'B00W23ARU6-es'
-tags: [  ]
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

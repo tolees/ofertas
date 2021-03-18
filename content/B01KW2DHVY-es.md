@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KW2DHVY-es BaByliss T840E - Afeitadora y recortadora de barba...'
 sku: 'B01KW2DHVY-es'
-tags: [  ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

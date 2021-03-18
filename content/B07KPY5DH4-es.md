@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPY5DH4-es Polti Vaporella Express VE30.20 - Plancha generadora de...'
 sku: 'B07KPY5DH4-es'
-tags: [  ]
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TPH3NJ-es adidas 3s Knit Short Pantalones Cortos de Deporte Mujer...'
 sku: 'B081TPH3NJ-es'
-tags: [  ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

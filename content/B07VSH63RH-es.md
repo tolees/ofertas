@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VSH63RH-es Nero Giardini - NeroGiardini A909610D Botas Mujer De Piel...'
 sku: 'B07VSH63RH-es'
-tags: [  ]
 actualPrice: 107.7 EUR
 currency: EUR
 price: 107.7

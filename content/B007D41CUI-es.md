@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007D41CUI-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B007D41CUI-es'
-tags: [  ]
 actualPrice: 128.99 EUR
 currency: EUR
 price: 128.99

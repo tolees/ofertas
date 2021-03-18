@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0041UPOLA-es Reebok Classic Leather Zapatillas de Trail Running para...'
 sku: 'B0041UPOLA-es'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

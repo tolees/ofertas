@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D4N4XXK-es Cherokee - Pantalones con cinturilla ajustable para mujer...'
 sku: 'B00D4N4XXK-es'
-tags: [  ]
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

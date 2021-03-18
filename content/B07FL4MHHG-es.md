@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FL4MHHG-es MaxKare Almohadilla Eléctrica Térmica de Grande Tamaño de...'
 sku: 'B07FL4MHHG-es'
-tags: [  ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0761RMNQ4-es Ludonova- Junk Art - Juego de mesa - Español LDNV130001...'
 sku: 'B0761RMNQ4-es'
-tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IH1Q1V0-es Batman Animated Series New Batman Adventures Catwoman...'
 sku: 'B01IH1Q1V0-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

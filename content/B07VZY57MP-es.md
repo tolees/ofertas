@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZY57MP-es Samsung Galaxy Note10 SM-N970F - Smartphone Dual SIM 8 GB...'
 sku: 'B07VZY57MP-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','samsung', ]
 actualPrice: 595.0 EUR
 currency: EUR
 price: 595.0

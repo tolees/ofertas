@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMCYK9P-es Lee Luke Jeans Dark Diamond Ft 36W / 34L para Hombre'
 sku: 'B07JMCYK9P-es'
-tags: [  ]
 actualPrice: 24.68 EUR
 currency: EUR
 price: 24.68

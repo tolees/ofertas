@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00T7CGCYK-es ANNKE Kit de Seguridad 4CH 5MP-N H.265+ DVR sin Disco Duro...'
 sku: 'B00T7CGCYK-es'
-tags: [  ]
 actualPrice: 143.99 EUR
 currency: EUR
 price: 143.99

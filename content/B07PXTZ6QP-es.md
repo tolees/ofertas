@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PXTZ6QP-es Under Armour Charged Pursuit 2 Zapatillas de Running Mujer...'
 sku: 'B07PXTZ6QP-es'
-tags: [  ]
 actualPrice: 25.54 EUR
 currency: EUR
 price: 25.54

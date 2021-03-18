@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XD4Z74V-es Funko - Pop! Deluxe: Star Wars - Darth Vader in Meditation...'
 sku: 'B07XD4Z74V-es'
-tags: [  ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

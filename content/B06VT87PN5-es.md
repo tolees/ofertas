@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06VT87PN5-es Aquabeads- Bead Pen Accessory Multicolor Epoch para...'
 sku: 'B06VT87PN5-es'
-tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003EQ3OLY-es chung shi Dux Beach Alpargata para Mujer Morado...'
 sku: 'B003EQ3OLY-es'
-tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

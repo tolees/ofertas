@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HRJGGX-es Adidas Regista 18 - Pantalónes de fútbol para Hombre Negro L'
 sku: 'B076HRJGGX-es'
-tags: [  ]
 actualPrice: 29.48 EUR
 currency: EUR
 price: 29.48

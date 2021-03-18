@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GZ4QX34-es wiland - Calefactor eléctrico con pantalla LCD con mando a...'
 sku: 'B08GZ4QX34-es'
-tags: [  ]
 actualPrice: 35.79 EUR
 currency: EUR
 price: 35.79

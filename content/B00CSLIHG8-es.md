@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CSLIHG8-es Bloc Encolado A5 50 Hojas Canson Imagine Grano Fino 200g'
 sku: 'B00CSLIHG8-es'
-tags: [  ]
 actualPrice: 4.18 EUR
 currency: EUR
 price: 4.18

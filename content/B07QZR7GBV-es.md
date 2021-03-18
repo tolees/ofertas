@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QZR7GBV-es OMERIL Linterna Frontal LED Linterna Cabeza USB Recargable...'
 sku: 'B07QZR7GBV-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

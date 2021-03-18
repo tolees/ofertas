@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ6JF7Y-es Auriculares Bluetooth BCMASTER Auriculares Inalámbricos...'
 sku: 'B08DJ6JF7Y-es'
-tags: [ 'bcmaster', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

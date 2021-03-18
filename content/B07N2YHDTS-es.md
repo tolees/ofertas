@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N2YHDTS-es LG WK7 - Altavoz con Inteligencia Artificial y Asistente...'
 sku: 'B07N2YHDTS-es'
-tags: [  ]
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

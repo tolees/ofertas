@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LG1CRWY-es Geox J ALBEN Boy A Zapatillas para Niños Azul...'
 sku: 'B07LG1CRWY-es'
-tags: [  ]
 actualPrice: 38.4 EUR
 currency: EUR
 price: 38.4

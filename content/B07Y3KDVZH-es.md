@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y3KDVZH-es Western Digital - WD Elements Desktop - Disco duro externo...'
 sku: 'B07Y3KDVZH-es'
-tags: [  ]
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99

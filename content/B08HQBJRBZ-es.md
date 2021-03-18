@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HQBJRBZ-es Smartwatch Mujer Hommie Reloj Inteligente Mujer 1.3”...'
 sku: 'B08HQBJRBZ-es'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

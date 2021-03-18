@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCLTRLL-es ETEREAUTY Rosa de Oro de 24 Quilates para Siempre Rosa...'
 sku: 'B07KCLTRLL-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

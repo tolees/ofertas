@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P1S1G4P-es PUTORSEN® Soporte de Escritorio para Monitor de Las...'
 sku: 'B07P1S1G4P-es'
-tags: [  ]
 actualPrice: 50.88 EUR
 currency: EUR
 price: 50.88

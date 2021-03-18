@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ8LZJT-es Cámara Web de 1 Pieza Cámara Web Full HD 480P Cámara de...'
 sku: 'B08DJ8LZJT-es'
-tags: [  ]
 actualPrice: 3.22 EUR
 currency: EUR
 price: 3.22

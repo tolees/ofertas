@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YJRRX6-es HIKARO AMA HAYAND camisetas Verde Khaki 36 Talla del...'
 sku: 'B077YJRRX6-es'
-tags: [  ]
 actualPrice: 4.91 EUR
 currency: EUR
 price: 4.91

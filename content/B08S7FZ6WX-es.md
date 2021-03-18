@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08S7FZ6WX-es Hoseten - Soporte para computadora portátil soporte para...'
 sku: 'B08S7FZ6WX-es'
-tags: [  ]
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

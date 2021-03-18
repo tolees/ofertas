@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRB2C3L-es JACK & JONES Jorflash Crew Neck suéter Azul Sea Mossno...'
 sku: 'B07VRB2C3L-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

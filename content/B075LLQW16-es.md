@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075LLQW16-es HTINAC Cover Cubierta Cámara 3Pcs Webcam Cover de...'
 sku: 'B075LLQW16-es'
-tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

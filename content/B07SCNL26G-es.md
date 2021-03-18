@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SCNL26G-es Speedo Reniki Flip Reverse de una Pieza Bañador Adult...'
 sku: 'B07SCNL26G-es'
-tags: [  ]
 actualPrice: 15.33 EUR
 currency: EUR
 price: 15.33

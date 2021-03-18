@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3G6X1R-es Tommy Hilfiger TH Patch Espadrille Alpargata para Mujer...'
 sku: 'B07L3G6X1R-es'
-tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

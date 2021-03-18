@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JCPLGZQ-es Unitedheart Caja del Banco de la energía 2600MAH Tamaño...'
 sku: 'B07JCPLGZQ-es'
-tags: [  ]
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

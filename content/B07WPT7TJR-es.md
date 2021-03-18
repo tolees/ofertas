@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WPT7TJR-es Mr. Wonderful WOA09823ES Taza Cerámica'
 sku: 'B07WPT7TJR-es'
-tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I0F3FH6-es RaceOne R1 Igloo 550cc Botella de Agua 550 ml Unisex...'
 sku: 'B01I0F3FH6-es'
-tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

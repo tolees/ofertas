@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PYDWYSY-es Nike MD Runner 2 Zapatillas para Hombre Midnight...'
 sku: 'B00PYDWYSY-es'
-tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

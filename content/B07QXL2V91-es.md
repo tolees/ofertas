@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QXL2V91-es Ingenuity Hamaca bebé supersuave Flora'
 sku: 'B07QXL2V91-es'
-tags: [  ]
 actualPrice: 42.96 EUR
 currency: EUR
 price: 42.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HDC7H91-es Hoover H-FREE 300 HYDRO HF322YHM Aspiradora escoba sin...'
 sku: 'B08HDC7H91-es'
-tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

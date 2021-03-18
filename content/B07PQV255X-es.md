@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PQV255X-es HengBO - Raclette Grill con 8 Mini Sartenes Revestimiento...'
 sku: 'B07PQV255X-es'
-tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

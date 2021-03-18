@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084SBTR8S-es Gioseppo Rerik Bota a la Altura de la Pantorrilla Mujer...'
 sku: 'B084SBTR8S-es'
-tags: [  ]
 actualPrice: 53.85 EUR
 currency: EUR
 price: 53.85

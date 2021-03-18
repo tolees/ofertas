@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XY7W4SD-es Sharp PS-919 BK Party Speaker con TWS Bluetooth 5.0 Puerto...'
 sku: 'B07XY7W4SD-es'
-tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

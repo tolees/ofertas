@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01E6R6S4E-es Sony CMTSBT20.CEL - Sistema de Audio 12 W CD FM Radio USB...'
 sku: 'B01E6R6S4E-es'
-tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

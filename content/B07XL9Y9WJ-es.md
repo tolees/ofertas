@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XL9Y9WJ-es Meridiem Games - DEADLY PREMONITION ORIGINS: COLLECTOR...'
 sku: 'B07XL9Y9WJ-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

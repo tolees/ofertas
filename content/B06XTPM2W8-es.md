@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XTPM2W8-es Pepe Jeans Original Basic L/S Top de Manga Larga Para...'
 sku: 'B06XTPM2W8-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

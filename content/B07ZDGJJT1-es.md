@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZDGJJT1-es IKOHS ION CERAMIC - Secador de Pelo Iónico por Infrarrojos...'
 sku: 'B07ZDGJJT1-es'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

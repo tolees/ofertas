@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HDCXD2F-es WONNIE 10.5” Reproductor de DVD para Reposacabeza de Coche...'
 sku: 'B08HDCXD2F-es'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

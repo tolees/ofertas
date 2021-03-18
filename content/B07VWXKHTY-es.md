@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VWXKHTY-es ASUS PCE-AX58BT - Tarjeta de Red Wi-Fi 6 AX3000 PCIe...'
 sku: 'B07VWXKHTY-es'
-tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

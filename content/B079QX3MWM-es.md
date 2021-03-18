@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QX3MWM-es Sharp HT-SBW110 2.1 Slim - Barra de Sonido Cine en casa...'
 sku: 'B079QX3MWM-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

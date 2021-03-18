@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071NMFFXP-es Lapices de Colores Kasimir 48 lapiz colores profesional...'
 sku: 'B071NMFFXP-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

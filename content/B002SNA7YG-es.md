@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002SNA7YG-es Crocs Crocband Flip Unisex Adulto Black 46/47 EU'
 sku: 'B002SNA7YG-es'
-tags: [  ]
 actualPrice: 17.71 EUR
 currency: EUR
 price: 17.71

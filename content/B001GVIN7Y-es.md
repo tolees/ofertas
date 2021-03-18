@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001GVIN7Y-es Targus CN313 - Maletín de 13.4"'
 sku: 'B001GVIN7Y-es'
-tags: [  ]
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

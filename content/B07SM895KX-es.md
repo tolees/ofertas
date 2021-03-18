@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SM895KX-es Funko Pop! TV: Umbrella Academy - Number Five w/Chase...'
 sku: 'B07SM895KX-es'
-tags: [  ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ5Z9WG-es Puma Mantra Fusefit Zapatillas de Deporte para Hombre Gris...'
 sku: 'B07CZ5Z9WG-es'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

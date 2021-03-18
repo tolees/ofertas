@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BQLSM9-es Toozey Juguetes para Gatos 24 Piezas Juguetes para Gatitos...'
 sku: 'B083BQLSM9-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

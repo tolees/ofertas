@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DLMYJGS-es Sanytol - Eco Recarga de Jabón de Manos Nutritivo con...'
 sku: 'B08DLMYJGS-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

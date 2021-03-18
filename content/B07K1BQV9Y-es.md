@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1BQV9Y-es GLOGLOW Calzoncillos de Baja Altura para Hombres Bragas...'
 sku: 'B07K1BQV9Y-es'
-tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

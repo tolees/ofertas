@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007DSRSMA-es Casio Reloj de Pulsera DW-5600BB-1ER'
 sku: 'B007DSRSMA-es'
-tags: [  ]
 actualPrice: 58.84 EUR
 currency: EUR
 price: 58.84

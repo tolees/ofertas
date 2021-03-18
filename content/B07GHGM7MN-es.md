@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GHGM7MN-es Vitamaze - amazing life - Vitamaze® Vitamina D3 Gotas...'
 sku: 'B07GHGM7MN-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

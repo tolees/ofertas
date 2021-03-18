@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXFR17W-es DERSHARA Humidificador Mini - Unidad de humidificación de...'
 sku: 'B08CXFR17W-es'
-tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

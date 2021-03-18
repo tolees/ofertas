@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YVY25XD-es Beats Solo3 Wireless - Auriculares supraaurales - Chip...'
 sku: 'B07YVY25XD-es'
-tags: [  ]
 actualPrice: 130.0 EUR
 currency: EUR
 price: 130.0

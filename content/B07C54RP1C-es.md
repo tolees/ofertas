@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C54RP1C-es Bosch Home and Garden - Bosch 06033D5101 NanoBlade...'
 sku: 'B07C54RP1C-es'
-tags: [  ]
 actualPrice: 157.49 EUR
 currency: EUR
 price: 157.49

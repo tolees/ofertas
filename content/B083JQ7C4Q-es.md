@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083JQ7C4Q-es Salomon Gorra reflectante Unisex REFLECTIVE CAP Protección...'
 sku: 'B083JQ7C4Q-es'
-tags: [  ]
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

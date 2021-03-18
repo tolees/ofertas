@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VJ67CM-es Columbia Roffe Ridge II Forro Polar Mujer Blanco Naranja...'
 sku: 'B087VJ67CM-es'
-tags: [  ]
 actualPrice: 23.34 EUR
 currency: EUR
 price: 23.34

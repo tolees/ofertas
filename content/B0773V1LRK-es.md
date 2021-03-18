@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0773V1LRK-es 72 Lápices de Colores Numerado con Caja de Metal de...'
 sku: 'B0773V1LRK-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0044AOC4W-es Reebok Classic Leather Zapatillas de Running Niños Blanco...'
 sku: 'B0044AOC4W-es'
-tags: [  ]
 actualPrice: 28.01 EUR
 currency: EUR
 price: 28.01

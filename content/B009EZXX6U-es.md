@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009EZXX6U-es neon nights 8 x Pintura Luz Negra Pintura UV Neón...'
 sku: 'B009EZXX6U-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

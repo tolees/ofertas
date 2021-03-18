@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NVKX4HG-es lenbest Camión de Juguete para Niños Camión Transportador...'
 sku: 'B08NVKX4HG-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

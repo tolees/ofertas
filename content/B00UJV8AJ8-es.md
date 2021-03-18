@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UJV8AJ8-es Final Fantasy XIV: Heavensward'
 sku: 'B00UJV8AJ8-es'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

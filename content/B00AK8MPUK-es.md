@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AK8MPUK-es Superga 2750 COTU Classic Zapatillas Unisex-Adulto Blanco...'
 sku: 'B00AK8MPUK-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

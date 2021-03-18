@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LR2C4M-es Munich G-3 Kid Switch 132 Zapatillas Multicolor 37 EU'
 sku: 'B085LR2C4M-es'
-tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

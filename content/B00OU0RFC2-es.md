@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OU0RFC2-es Michael Kors Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B00OU0RFC2-es'
-tags: [  ]
 actualPrice: 160.0 EUR
 currency: EUR
 price: 160.0

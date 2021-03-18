@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077R5GNJB-es Reebok Royal Charm Zapatillas de Deporte para Mujer Blanco...'
 sku: 'B077R5GNJB-es'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

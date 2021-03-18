@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0821TCHR8-es Columbia SH/FT OUTDRY MID Zapatillas de Senderismo para...'
 sku: 'B0821TCHR8-es'
-tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

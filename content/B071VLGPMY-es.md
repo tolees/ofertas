@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071VLGPMY-es Ewent EW1501 - Soporte de Pared para Pantalla Plana 35 kg...'
 sku: 'B071VLGPMY-es'
-tags: [  ]
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

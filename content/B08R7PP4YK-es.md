@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R7PP4YK-es ADAGG Juego de Regalo de aceites Esenciales lámpara...'
 sku: 'B08R7PP4YK-es'
-tags: [  ]
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

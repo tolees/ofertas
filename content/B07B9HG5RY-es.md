@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B9HG5RY-es Edge Entertainment-Dream on-español Multicolor EECMDO01'
 sku: 'B07B9HG5RY-es'
-tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

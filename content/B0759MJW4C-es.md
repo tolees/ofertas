@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0759MJW4C-es Funko Pop! - DC Bombshells Hawkgirl Figura de Vinilo 22892'
 sku: 'B0759MJW4C-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

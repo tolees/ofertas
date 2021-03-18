@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZHJ77Q-es Western Digital My Book Disco Duro Externo de Sobremesa de...'
 sku: 'B01LZHJ77Q-es'
-tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

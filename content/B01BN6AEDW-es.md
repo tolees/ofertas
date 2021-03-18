@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BN6AEDW-es Solac PC1500 Niagara - Plancha Vertical 1200W incluye 2...'
 sku: 'B01BN6AEDW-es'
-tags: [ 'solac', ]
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

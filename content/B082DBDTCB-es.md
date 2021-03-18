@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082DBDTCB-es A4 tamaño niños dibujo 3D copia placa molde de papel para...'
 sku: 'B082DBDTCB-es'
-tags: [  ]
 actualPrice: 3.36 EUR
 currency: EUR
 price: 3.36

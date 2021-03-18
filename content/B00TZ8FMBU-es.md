@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TZ8FMBU-es Dickies Slim Fit Work Pantalones Beige Khaki KH Tamaño del...'
 sku: 'B00TZ8FMBU-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

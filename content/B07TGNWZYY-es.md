@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TGNWZYY-es Only & Sons NOS Onssato 7 Multi Clr Knit Noos suéter Gris...'
 sku: 'B07TGNWZYY-es'
-tags: [  ]
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32

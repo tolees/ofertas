@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HR9JYT8-es Chivas Regal XV Whisky Escocés de Mezcla Premium - 700 ml'
 sku: 'B07HR9JYT8-es'
-tags: [  ]
 actualPrice: 31.3 EUR
 currency: EUR
 price: 31.3

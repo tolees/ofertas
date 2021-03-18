@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMNVFKY-es Superdry Classic Superstate S/s Polo Amarillo Upstate Gold...'
 sku: 'B07TMNVFKY-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

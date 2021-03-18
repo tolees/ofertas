@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0728BNSBH-es Under Armour UA Showdown Taper Pant pantalones de chándal...'
 sku: 'B0728BNSBH-es'
-tags: [  ]
 actualPrice: 50.68 EUR
 currency: EUR
 price: 50.68

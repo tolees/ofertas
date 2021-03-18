@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MTDM16X-es Hangang - Mini Teclado Láser Virtual Bluetooth Inalámbrico...'
 sku: 'B08MTDM16X-es'
-tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

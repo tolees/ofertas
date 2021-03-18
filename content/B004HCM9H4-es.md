@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004HCM9H4-es Meguiar´s G18216EU Cera líquida para Coche 454 g'
 sku: 'B004HCM9H4-es'
-tags: [  ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

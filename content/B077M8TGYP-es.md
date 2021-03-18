@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077M8TGYP-es Puma Escaper SL Jr Zapatillas de Running Unisex Niños...'
 sku: 'B077M8TGYP-es'
-tags: [  ]
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

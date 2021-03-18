@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9D5VBJ-es ROYAL SLEEP Colchón viscoelástico 90x200 firmeza Media...'
 sku: 'B07L9D5VBJ-es'
-tags: [  ]
 actualPrice: 116.99 EUR
 currency: EUR
 price: 116.99

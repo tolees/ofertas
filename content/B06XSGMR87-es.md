@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XSGMR87-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B06XSGMR87-es'
-tags: [  ]
 actualPrice: 209.84 EUR
 currency: EUR
 price: 209.84

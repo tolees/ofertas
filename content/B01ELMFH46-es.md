@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ELMFH46-es mvmt cuarzo reloj Signature Gold/Black MF01 de GBL'
 sku: 'B01ELMFH46-es'
-tags: [  ]
 actualPrice: 91.19 EUR
 currency: EUR
 price: 91.19

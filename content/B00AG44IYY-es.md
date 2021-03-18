@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AG44IYY-es Skagen Reloj Analogico para Hombre de Cuarzo SKW6006'
 sku: 'B00AG44IYY-es'
-tags: [  ]
 actualPrice: 130.33 EUR
 currency: EUR
 price: 130.33

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008EUM3Q2-es Urko 2432390 Puntal Extensible 43129-160-290 cm 160-290 cm'
 sku: 'B008EUM3Q2-es'
-tags: [  ]
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

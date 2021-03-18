@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073Q6VF1X-es Saucony Jazz Original Vintage Zapatillas de Cross Unisex...'
 sku: 'B073Q6VF1X-es'
-tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

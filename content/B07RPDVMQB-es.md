@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPDVMQB-es Amtier Pulsera de Mujer con Acero Inoxidable Viene con 7...'
 sku: 'B07RPDVMQB-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

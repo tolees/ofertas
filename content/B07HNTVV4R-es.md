@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HNTVV4R-es Rowenta DG9222F0 Silence Steam Pro - Centro de planchado...'
 sku: 'B07HNTVV4R-es'
-tags: [  ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7CBWB7-es adidas Superstar Sneaker Hombre Core Black/Crystal...'
 sku: 'B08C7CBWB7-es'
-tags: [  ]
 actualPrice: 44.35 EUR
 currency: EUR
 price: 44.35

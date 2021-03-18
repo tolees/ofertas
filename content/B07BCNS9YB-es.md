@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BCNS9YB-es Moulinex Blend&Go LM1B1D10 Batidora de vaso de 300 W...'
 sku: 'B07BCNS9YB-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

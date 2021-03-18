@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003PZHYLK-es STANLEY 1-97-483 - Organizador SortMaster Junior'
 sku: 'B003PZHYLK-es'
-tags: [  ]
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0844BJX9K-es Tommy Hilfiger Thong Lencería Brezo De Hielo SM para Mujer'
 sku: 'B0844BJX9K-es'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

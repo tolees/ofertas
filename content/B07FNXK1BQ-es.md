@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNXK1BQ-es Seiko Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07FNXK1BQ-es'
-tags: [  ]
 actualPrice: 150.22 EUR
 currency: EUR
 price: 150.22

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2RLNYN-es SPC Ebon - Auricular Bluetooth manos libres IPX5 asistente...'
 sku: 'B07H2RLNYN-es'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

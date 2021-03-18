@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01H5VLOPQ-es Cosmoplast Apósitos Elásticos Quick-Zip - 20 Unidades'
 sku: 'B01H5VLOPQ-es'
-tags: [  ]
 actualPrice: 1.25 EUR
 currency: EUR
 price: 1.25

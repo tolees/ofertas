@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WRTJBJ2-es Nero Giardini - NeroGiardini A909624D Botas Militares...'
 sku: 'B07WRTJBJ2-es'
-tags: [  ]
 actualPrice: 117.0 EUR
 currency: EUR
 price: 117.0

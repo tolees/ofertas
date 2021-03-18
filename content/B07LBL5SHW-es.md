@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBL5SHW-es Kappa Modus II Zapatillas Unisex Adulto White/Black 1011...'
 sku: 'B07LBL5SHW-es'
-tags: [  ]
 actualPrice: 19.06 EUR
 currency: EUR
 price: 19.06

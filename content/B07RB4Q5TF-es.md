@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RB4Q5TF-es Marvel - Vengadores: Endgame [DVD]'
 sku: 'B07RB4Q5TF-es'
-tags: [ 'marvel', ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

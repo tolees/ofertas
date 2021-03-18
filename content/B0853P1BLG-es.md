@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0853P1BLG-es PARAMOUNT PICTURES - Sonic: La Pelicula 4K UHD + BD [Blu-ray]'
 sku: 'B0853P1BLG-es'
-tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

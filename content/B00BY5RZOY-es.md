@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BY5RZOY-es Samsonite Termo Young Spinner L Maleta 78 cm 88 L Azul...'
 sku: 'B00BY5RZOY-es'
-tags: [  ]
 actualPrice: 92.5 EUR
 currency: EUR
 price: 92.5

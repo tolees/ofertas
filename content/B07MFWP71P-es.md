@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MFWP71P-es Paladone Products LAMPARA Pacman Pixelated Multicolor'
 sku: 'B07MFWP71P-es'
-tags: [  ]
 actualPrice: 18.58 EUR
 currency: EUR
 price: 18.58

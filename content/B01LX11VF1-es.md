@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LX11VF1-es Mr. Wonderful MRMAC002 - Carcasa para Apple Macbook Air/...'
 sku: 'B01LX11VF1-es'
-tags: [  ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

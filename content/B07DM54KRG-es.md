@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DM54KRG-es Lacoste ESPARRE BL 1 CMA Zapatillas para Hombre Negro...'
 sku: 'B07DM54KRG-es'
-tags: [  ]
 actualPrice: 68.14 EUR
 currency: EUR
 price: 68.14

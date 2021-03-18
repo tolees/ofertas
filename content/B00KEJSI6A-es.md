@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KEJSI6A-es MICHELIN 009526 Verificador de Presión Digital Y Desgaste...'
 sku: 'B00KEJSI6A-es'
-tags: [  ]
 actualPrice: 19.67 EUR
 currency: EUR
 price: 19.67

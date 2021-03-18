@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015T3RIFW-es Boxeo Midbass WRAPSCBLK-V5 in-Ear-Auricular con Classic...'
 sku: 'B015T3RIFW-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

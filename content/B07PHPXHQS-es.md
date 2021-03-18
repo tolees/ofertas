@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PHPXHQS-es Amazon - Echo Dot 3.ª generación - Altavoz inteligente con...'
 sku: 'B07PHPXHQS-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

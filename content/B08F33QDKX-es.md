@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F33QDKX-es Skip Ultimate Detergente Liquido Higiene Total 5X30 Lavados'
 sku: 'B08F33QDKX-es'
-tags: [  ]
 actualPrice: 26.8 EUR
 currency: EUR
 price: 26.8

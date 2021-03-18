@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000F0JQCI-es NGK BR8HS - Bujía'
 sku: 'B000F0JQCI-es'
-tags: [  ]
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QC84LPL-es PUMA Nu-Tility Knit Pant Chándal Hombre Black L'
 sku: 'B07QC84LPL-es'
-tags: [  ]
 actualPrice: 19.47 EUR
 currency: EUR
 price: 19.47

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GL47DP7-es FITTOO Leggings Push Up Mujer Mallas Pantalones Deportivos...'
 sku: 'B07GL47DP7-es'
-tags: [  ]
 actualPrice: 13.56 EUR
 currency: EUR
 price: 13.56

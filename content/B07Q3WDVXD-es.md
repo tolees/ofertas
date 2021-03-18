@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q3WDVXD-es Nike Revolution 5 Mujer Multicolor White/Wolf Grey/Pure...'
 sku: 'B07Q3WDVXD-es'
-tags: [  ]
 actualPrice: 34.19 EUR
 currency: EUR
 price: 34.19

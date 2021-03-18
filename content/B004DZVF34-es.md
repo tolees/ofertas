@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004DZVF34-es Bresser Messier AR-90/900 EXOS1/EQ4 Telescopio'
 sku: 'B004DZVF34-es'
-tags: [  ]
 actualPrice: 225.12 EUR
 currency: EUR
 price: 225.12

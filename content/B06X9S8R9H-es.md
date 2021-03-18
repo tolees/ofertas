@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X9S8R9H-es Enko Coladores Cocina Cocina Plegable Colador de Silicona...'
 sku: 'B06X9S8R9H-es'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

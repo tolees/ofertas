@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDKQTZG-es Lámpara de trabajo de inspección con 3 modos de...'
 sku: 'B07GDKQTZG-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

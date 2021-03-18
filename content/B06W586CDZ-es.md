@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06W586CDZ-es TP-Link HS100 - Enchufe Inteligente para Controlar Sus...'
 sku: 'B06W586CDZ-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

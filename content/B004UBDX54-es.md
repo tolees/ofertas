@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004UBDX54-es Lico Bernie V Zapatillas Deportivas para Interior Unisex...'
 sku: 'B004UBDX54-es'
-tags: [  ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

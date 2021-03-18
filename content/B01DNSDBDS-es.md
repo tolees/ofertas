@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DNSDBDS-es Suunto - Traverse Alpha - Reloj GPS Outdoor para pesca...'
 sku: 'B01DNSDBDS-es'
-tags: [  ]
 actualPrice: 259.98 EUR
 currency: EUR
 price: 259.98

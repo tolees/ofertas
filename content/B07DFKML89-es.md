@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DFKML89-es DJI Ronin-S - Estabilizador de 3 Ejes para Cámaras Reflex...'
 sku: 'B07DFKML89-es'
-tags: [ 'dji', ]
 actualPrice: 479.91 EUR
 currency: EUR
 price: 479.91

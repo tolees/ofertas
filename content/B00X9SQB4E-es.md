@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9SQB4E-es BaByliss Pro Digital 6000E - Secador de pelo profesional...'
 sku: 'B00X9SQB4E-es'
-tags: [  ]
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

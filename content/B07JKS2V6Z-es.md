@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKS2V6Z-es YaYuu Compatible Samsung Galaxy Watch Active/Active2 40mm...'
 sku: 'B07JKS2V6Z-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

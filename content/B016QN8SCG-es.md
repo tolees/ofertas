@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016QN8SCG-es Etekcity Báscula Digital para Cocina con Bol Removible 5...'
 sku: 'B016QN8SCG-es'
-tags: [ 'etekcity', ]
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

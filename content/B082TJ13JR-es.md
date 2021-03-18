@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TJ13JR-es Lacoste ESPARRE CHUKKA0320 1 CMA Zapatillas Hombre Azul...'
 sku: 'B082TJ13JR-es'
-tags: [  ]
 actualPrice: 87.72 EUR
 currency: EUR
 price: 87.72

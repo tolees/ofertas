@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PHTSB9L-es Max Factor Color para cejas - 1 unidad'
 sku: 'B07PHTSB9L-es'
-tags: [  ]
 actualPrice: 5.38 EUR
 currency: EUR
 price: 5.38

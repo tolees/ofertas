@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BFSZRSP-es Ellaao 50 Piezas 3 Capas Azul Protege La Boca Y La Boca...'
 sku: 'B08BFSZRSP-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

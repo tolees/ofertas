@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFSQH39-es OMORC Funda Maletero Coche Perros Protector Maletero Coche...'
 sku: 'B07YFSQH39-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

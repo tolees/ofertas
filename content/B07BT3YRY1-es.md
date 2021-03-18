@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BT3YRY1-es iEGrow Ventilador de Mano portátil USB Ventilador de...'
 sku: 'B07BT3YRY1-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084R4WYR6-es Funko- Pop 18" Harry Potter S10 Figura coleccionable...'
 sku: 'B084R4WYR6-es'
-tags: [  ]
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

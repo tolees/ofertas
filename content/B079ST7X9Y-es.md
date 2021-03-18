@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ST7X9Y-es Desigual Jers edimburgo suéter Negro 2000 Large para Mujer'
 sku: 'B079ST7X9Y-es'
-tags: [  ]
 actualPrice: 41.64 EUR
 currency: EUR
 price: 41.64

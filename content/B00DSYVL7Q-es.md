@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DSYVL7Q-es Casio Collection LA680WEA-7EF Reloj de pulsera para Mujer...'
 sku: 'B00DSYVL7Q-es'
-tags: [  ]
 actualPrice: 33.15 EUR
 currency: EUR
 price: 33.15

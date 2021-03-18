@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N78XLVN-es Inodoro de Bandeja para Perros Césped Artificial con Cajón...'
 sku: 'B01N78XLVN-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

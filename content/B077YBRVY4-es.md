@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077YBRVY4-es Bosch Home and Garden - Bosch UniversalHedgePole 18 -...'
 sku: 'B077YBRVY4-es'
-tags: [  ]
 actualPrice: 141.49 EUR
 currency: EUR
 price: 141.49

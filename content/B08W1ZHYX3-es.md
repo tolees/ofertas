@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W1ZHYX3-es Jessgirl - Juego de 3 toallas de baño de algodón de lujo...'
 sku: 'B08W1ZHYX3-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

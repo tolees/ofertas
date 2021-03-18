@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRSFLXS-es Columbia Sun Ridge Polo Hombre Azul Blue Sky S'
 sku: 'B07KRSFLXS-es'
-tags: [  ]
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

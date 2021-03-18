@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR85M7H-es Clarks Un Trail Step Mocasines para Hombre Negro Black...'
 sku: 'B07FR85M7H-es'
-tags: [  ]
 actualPrice: 40.12 EUR
 currency: EUR
 price: 40.12

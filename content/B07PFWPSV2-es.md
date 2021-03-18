@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PFWPSV2-es Levi s Stan Buck Lady Zapatillas Mujer Negro Black 60 37 EU'
 sku: 'B07PFWPSV2-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017XAFRS4-es Karcher - Kärcher Pistola pulverizadora 2.645-265.0'
 sku: 'B017XAFRS4-es'
-tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

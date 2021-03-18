@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D17Q4MD-es Under Armour Men s Golf Headline Cap 3.0 Gorra con Visera...'
 sku: 'B07D17Q4MD-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

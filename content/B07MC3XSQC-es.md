@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC3XSQC-es Taladro Atornillador 2 Baterías GOXAWEE 100Pcs Kit Taladro...'
 sku: 'B07MC3XSQC-es'
-tags: [  ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

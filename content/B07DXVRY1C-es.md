@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DXVRY1C-es Camiseta/UNDER ARMOUR:FOUNTATION XL'
 sku: 'B07DXVRY1C-es'
-tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

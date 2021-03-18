@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S641HJN-es Crocs Swiftwater Expedition Sandal Kids Sandalia con...'
 sku: 'B07S641HJN-es'
-tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00H2JEP7Q-es Brugal Blanco Supremo Ron Dominicano 40% - 700 ml'
 sku: 'B00H2JEP7Q-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

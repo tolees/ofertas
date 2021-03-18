@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KA7QTD4-es Guess Reloj Multiesfera para Hombre de Cuarzo con Correa...'
 sku: 'B01KA7QTD4-es'
-tags: [  ]
 actualPrice: 85.7 EUR
 currency: EUR
 price: 85.7

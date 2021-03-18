@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SHSBCPN-es FITFORT - Reproductor MP3 Bluetooth 5.0 - MP3 Bluetooth...'
 sku: 'B07SHSBCPN-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

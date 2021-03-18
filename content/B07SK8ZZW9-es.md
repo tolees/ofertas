@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SK8ZZW9-es NAVIT PLUS - Detox adelgazante | Diurético potente natural...'
 sku: 'B07SK8ZZW9-es'
-tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

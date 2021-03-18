@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B0AWMTG-es aiino italian ideas - Aiino Hard Shell - Funda Dura para...'
 sku: 'B00B0AWMTG-es'
-tags: [  ]
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

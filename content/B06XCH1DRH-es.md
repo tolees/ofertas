@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCH1DRH-es G-STAR RAW Classic Trunk 2 Pack Pantalones Cortos...'
 sku: 'B06XCH1DRH-es'
-tags: [  ]
 actualPrice: 16.6 EUR
 currency: EUR
 price: 16.6

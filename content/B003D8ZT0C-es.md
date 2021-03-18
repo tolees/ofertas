@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003D8ZT0C-es Logitech M90 Ratón con Cable USB Seguimiento Óptico 1000...'
 sku: 'B003D8ZT0C-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

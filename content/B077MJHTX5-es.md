@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MJHTX5-es PUMA Smash v2 L V Inf Zapatillas Unisex Niños Black White...'
 sku: 'B077MJHTX5-es'
-tags: [  ]
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

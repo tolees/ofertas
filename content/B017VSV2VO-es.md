@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017VSV2VO-es JUGUETE DE PINTURA POR NUMEROS - Flores - INTERHOME©'
 sku: 'B017VSV2VO-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

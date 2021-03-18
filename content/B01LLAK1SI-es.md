@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LLAK1SI-es TP-Link Archer C1200 - Router Gigabit inalámbrico de doble...'
 sku: 'B01LLAK1SI-es'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088H8BKTR-es Utensilios Cocina de Silicona KagoLing 12 Piezas Juego de...'
 sku: 'B088H8BKTR-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

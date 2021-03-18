@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073ZG6YJ4-es Remington Nano Series NE3850 – Cortapelos Nariz Orejas...'
 sku: 'B073ZG6YJ4-es'
-tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

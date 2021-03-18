@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MYU26IE-es Reebok Club C 85 Sneaker Hombre Negro INT Black Charcoal...'
 sku: 'B01MYU26IE-es'
-tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

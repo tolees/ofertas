@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XC573JG-es Goods & Gadgets - Hucha de cerámica para escribir con tiza'
 sku: 'B00XC573JG-es'
-tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

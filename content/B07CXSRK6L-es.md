@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXSRK6L-es YWCKING Macbook Pro 85W Cargador MagSafe 2 Cargador...'
 sku: 'B07CXSRK6L-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UHCJOHQ-es Anillo De Boda De La Flor Cojín Almohada Chica Cesta...'
 sku: 'B00UHCJOHQ-es'
-tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

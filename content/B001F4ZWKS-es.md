@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001F4ZWKS-es Sangean DT-250 - Radio plateado'
 sku: 'B001F4ZWKS-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

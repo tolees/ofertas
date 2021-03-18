@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082SCHX9S-es PUMA LaLiga 1 Accelerate Hybrid Ball Balón de Fútbol...'
 sku: 'B082SCHX9S-es'
-tags: [  ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

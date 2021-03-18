@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0168UXO9O-es Polar Loop2 - Pulsera de actividad color negro'
 sku: 'B0168UXO9O-es'
-tags: [  ]
 actualPrice: 37.9 EUR
 currency: EUR
 price: 37.9

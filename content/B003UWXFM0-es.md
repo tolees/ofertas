@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003UWXFM0-es TP-Link 24 Puertos Gigabit Switch | Ethernet Switch No...'
 sku: 'B003UWXFM0-es'
-tags: [ 'tp-link', ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

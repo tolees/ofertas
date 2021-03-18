@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S97B3RN-es adidas Lock Up tee T-Shirt Mujer Scarlet 36'
 sku: 'B07S97B3RN-es'
-tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088CH68BY-es Meridiem Games - Inertial Drift'
 sku: 'B088CH68BY-es'
-tags: [  ]
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

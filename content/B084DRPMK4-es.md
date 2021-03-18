@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084DRPMK4-es Lékué - Mug To Go Taza plegable reutilizable 100%...'
 sku: 'B084DRPMK4-es'
-tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

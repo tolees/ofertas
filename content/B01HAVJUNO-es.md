@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HAVJUNO-es Songmics OBG71B Racing -Silla de Escritorio/ Computadora...'
 sku: 'B01HAVJUNO-es'
-tags: [ 'songmics', ]
 actualPrice: 136.5 EUR
 currency: EUR
 price: 136.5

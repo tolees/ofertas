@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GY2BBL0-es Lactacyd Derma - Gel de Baño Sin Jabón Hipoalergénico...'
 sku: 'B00GY2BBL0-es'
-tags: [  ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

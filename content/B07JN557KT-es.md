@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JN557KT-es Antifaz para dormir de espuma viscoelástica HOMMINI con...'
 sku: 'B07JN557KT-es'
-tags: [  ]
 actualPrice: 7.26 EUR
 currency: EUR
 price: 7.26

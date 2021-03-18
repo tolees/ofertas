@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MQ1X2KY-es SZXCX Cepillo de Silicona para Lavar Platos Cepillo de...'
 sku: 'B08MQ1X2KY-es'
-tags: [  ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

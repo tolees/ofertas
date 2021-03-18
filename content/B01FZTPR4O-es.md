@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FZTPR4O-es Castalia - Solucion Potasica 1 Litro'
 sku: 'B01FZTPR4O-es'
-tags: [  ]
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q87NB5Z-es Superdry OL Elite Ziphood Capucha Verde Eagle Green A7h L...'
 sku: 'B07Q87NB5Z-es'
-tags: [  ]
 actualPrice: 44.74 EUR
 currency: EUR
 price: 44.74

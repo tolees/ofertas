@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004JOJ26G-es Seiko - Reloj Pulsar - Hombre PT3003X1'
 sku: 'B004JOJ26G-es'
-tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

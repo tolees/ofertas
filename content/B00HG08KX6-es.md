@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HG08KX6-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B00HG08KX6-es'
-tags: [  ]
 actualPrice: 94.98 EUR
 currency: EUR
 price: 94.98

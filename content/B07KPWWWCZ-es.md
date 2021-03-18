@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPWWWCZ-es Columbia Meadows Omni Botas Bajas para Mujer Blanco Roto...'
 sku: 'B07KPWWWCZ-es'
-tags: [  ]
 actualPrice: 35.65 EUR
 currency: EUR
 price: 35.65

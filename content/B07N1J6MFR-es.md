@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1J6MFR-es Superga 2730-cotu Zapatillas de Gimnasia para Mujer Rosa...'
 sku: 'B07N1J6MFR-es'
-tags: [  ]
 actualPrice: 35.85 EUR
 currency: EUR
 price: 35.85

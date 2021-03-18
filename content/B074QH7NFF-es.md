@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074QH7NFF-es Canon Selphy CP1300 - Impresora fotográfica inalámbrica...'
 sku: 'B074QH7NFF-es'
-tags: [  ]
 actualPrice: 103.97 EUR
 currency: EUR
 price: 103.97

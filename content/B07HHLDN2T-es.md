@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHLDN2T-es Cartera Pepe Jeans Burned vertical con cierre de clic Marrón'
 sku: 'B07HHLDN2T-es'
-tags: [  ]
 actualPrice: 21.01 EUR
 currency: EUR
 price: 21.01

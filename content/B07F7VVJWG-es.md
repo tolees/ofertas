@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F7VVJWG-es Beurer TL 41 Lámpara de luz diurna para el bienestar...'
 sku: 'B07F7VVJWG-es'
-tags: [  ]
 actualPrice: 65.34 EUR
 currency: EUR
 price: 65.34

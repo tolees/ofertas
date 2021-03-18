@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GXWYEV4-es Hollister Wave For Her Perfume - 50 ml'
 sku: 'B01GXWYEV4-es'
-tags: [  ]
 actualPrice: 17 EUR
 currency: EUR
 price: 17

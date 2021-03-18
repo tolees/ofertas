@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G7C5B6B-es MSI WT75 8SM-011ES - Ordenador portátil de 17.3" UHD Intel...'
 sku: 'B07G7C5B6B-es'
-tags: [  ]
 actualPrice: 2999.99 EUR
 currency: EUR
 price: 2999.99

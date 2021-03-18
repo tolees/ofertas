@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003U3VWSI-es Marc Ecko Reloj Análogo clásico para Unisex de Cuarzo con...'
 sku: 'B003U3VWSI-es'
-tags: [  ]
 actualPrice: 59.66 EUR
 currency: EUR
 price: 59.66

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015WSD3IU-es Bourjois Boite Ronde Sombra de ojos Tono 4 Emauvante - 18 gr.'
 sku: 'B015WSD3IU-es'
-tags: [  ]
 actualPrice: 2 EUR
 currency: EUR
 price: 2

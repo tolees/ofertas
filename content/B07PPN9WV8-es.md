@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PPN9WV8-es OMZGXGOD - Dispensador de Pasta de Dientes Automático y...'
 sku: 'B07PPN9WV8-es'
-tags: [  ]
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

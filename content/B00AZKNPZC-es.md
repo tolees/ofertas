@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AZKNPZC-es Logitech B100 Ratón con Cable 3 Botones Seguimiento Óptico...'
 sku: 'B00AZKNPZC-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

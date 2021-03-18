@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075T9ZXK4-es 【Oferta】 Tekhome Bluetooth para Coche Receptor Bluetooth...'
 sku: 'B075T9ZXK4-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

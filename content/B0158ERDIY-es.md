@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0158ERDIY-es Rowenta Liss & Curl Ultimate Sunshine SF6220E0 - Plancha...'
 sku: 'B0158ERDIY-es'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

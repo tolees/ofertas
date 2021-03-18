@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNK6QMT-es Western Digital - WD Elements Desktop - Disco duro externo...'
 sku: 'B07FNK6QMT-es'
-tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

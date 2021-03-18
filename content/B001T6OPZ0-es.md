@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001T6OPZ0-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B001T6OPZ0-es'
-tags: [  ]
 actualPrice: 105.77 EUR
 currency: EUR
 price: 105.77

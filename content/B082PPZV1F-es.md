@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082PPZV1F-es Joker 4k Uhd [Blu-ray]'
 sku: 'B082PPZV1F-es'
-tags: [  ]
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

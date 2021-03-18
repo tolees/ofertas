@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077ZXNBFH-es Under Armour PS Thong 3Pack Ropa Interior Mujer Negro...'
 sku: 'B077ZXNBFH-es'
-tags: [  ]
 actualPrice: 15.55 EUR
 currency: EUR
 price: 15.55

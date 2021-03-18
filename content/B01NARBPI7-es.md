@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NARBPI7-es SanDisk Extreme Go - Memoria flash USB 3.1 de 64 GB'
 sku: 'B01NARBPI7-es'
-tags: [  ]
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

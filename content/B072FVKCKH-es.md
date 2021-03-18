@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072FVKCKH-es New Balance 574v2 Core Lace Modelo PC574GV Zapatillas para...'
 sku: 'B072FVKCKH-es'
-tags: [  ]
 actualPrice: 29.31 EUR
 currency: EUR
 price: 29.31

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLFD1XW-es Nike Revolution 5 Running Shoe Mujer Black/Anthracite 38 EU'
 sku: 'B07NLFD1XW-es'
-tags: [ 'Calzado de atletismo para mujer','Calzado deportivo  de exterior de mujer','Calzado deportivo para hombre','Calzado deportivo para mujer','Calzados de running para hombre','Calzados de running para mujer','Calzados para correr en asfalto para hombre','Climatización y calefacción','Hogar y cocina','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Ventiladores','Ventiladores de torre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','nike', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

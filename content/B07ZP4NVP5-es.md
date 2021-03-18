@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZP4NVP5-es BANLVS Smartwatch 1.4 Inch Reloj Inteligente IP67 con...'
 sku: 'B07ZP4NVP5-es'
-tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

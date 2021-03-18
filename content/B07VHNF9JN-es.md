@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHNF9JN-es 6 En 1 HUB USB C para iPad Pro 2018/2020 Hommie Adaptador...'
 sku: 'B07VHNF9JN-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

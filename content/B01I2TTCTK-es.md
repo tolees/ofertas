@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I2TTCTK-es Belkin F2CU038BTBLK - Adaptador de USB-C a HDMI 4k a 60 Hz...'
 sku: 'B01I2TTCTK-es'
-tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

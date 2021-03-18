@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QGF9SW-es Suhctup Funda Compatible con Huawei Honor 9i Carcasa...'
 sku: 'B086QGF9SW-es'
-tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

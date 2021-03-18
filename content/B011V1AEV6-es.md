@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011V1AEV6-es Puma Modern Soleil SL Zapatillas para Mujer Negro 39 EU'
 sku: 'B011V1AEV6-es'
-tags: [  ]
 actualPrice: 19.69 EUR
 currency: EUR
 price: 19.69

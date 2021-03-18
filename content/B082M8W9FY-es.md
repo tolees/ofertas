@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082M8W9FY-es Lámpara de Pie Tomshine 126 LEDs Lámpara de Pie Salon 4...'
 sku: 'B082M8W9FY-es'
-tags: [  ]
 actualPrice: 30.39 EUR
 currency: EUR
 price: 30.39

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CEGBKZG-es MasterPro Click & Cook Wok Aluminio Forjado Gris 9 cm'
 sku: 'B01CEGBKZG-es'
-tags: [  ]
 actualPrice: 26.05 EUR
 currency: EUR
 price: 26.05

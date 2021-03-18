@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KSFZB56-es Hummer HUMM12000 Arrancador de Bateria para Coche 12000mAh'
 sku: 'B00KSFZB56-es'
-tags: [  ]
 actualPrice: 97.0 EUR
 currency: EUR
 price: 97.0

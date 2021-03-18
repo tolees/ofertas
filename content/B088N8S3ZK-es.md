@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088N8S3ZK-es Tira LED 2.2M OMERIL Tiras LED TV USB Impermeable con...'
 sku: 'B088N8S3ZK-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

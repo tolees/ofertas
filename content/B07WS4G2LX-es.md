@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WS4G2LX-es SAMSUNG SM-R820NSSAPHE Galaxy Watch Active 2 - Smartwatch...'
 sku: 'B07WS4G2LX-es'
-tags: [  ]
 actualPrice: 228.99 EUR
 currency: EUR
 price: 228.99

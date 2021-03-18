@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076KM38KJ-es ABYstyle - MARVEL - Taza 3D - cambia color con calor -...'
 sku: 'B076KM38KJ-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVBQZN6-es FIND - Deep Dusk Perfilador de labios n.3 + Líquido de...'
 sku: 'B07CVBQZN6-es'
-tags: [  ]
 actualPrice: 2.51 EUR
 currency: EUR
 price: 2.51

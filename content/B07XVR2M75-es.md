@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XVR2M75-es Esprit 119EE2K006 suéter Azul Navy 400 Medium para Hombre'
 sku: 'B07XVR2M75-es'
-tags: [  ]
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

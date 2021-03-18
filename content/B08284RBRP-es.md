@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08284RBRP-es Quiksilver - Everyday 15" Short de Natación para Adulto'
 sku: 'B08284RBRP-es'
-tags: [  ]
 actualPrice: 15.83 EUR
 currency: EUR
 price: 15.83

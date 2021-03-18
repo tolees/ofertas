@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088HXPPX5-es Hero Organix - Bolsita de Manzana Piña y Coco - Pack de 12...'
 sku: 'B088HXPPX5-es'
-tags: [  ]
 actualPrice: 9.94 EUR
 currency: EUR
 price: 9.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P4N1X9Z-es SONGMICS Racing Silla de Escritorio de Oficina Ergonómica...'
 sku: 'B07P4N1X9Z-es'
-tags: [  ]
 actualPrice: 63.38 EUR
 currency: EUR
 price: 63.38

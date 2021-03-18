@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016QAL67S-es adidas Parma 16 Intenso Pantalones Cortos para Fútbol...'
 sku: 'B016QAL67S-es'
-tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

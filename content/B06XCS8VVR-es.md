@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCS8VVR-es Babyline Barco Pirata Chica - Colchoneta para silla grupo 0'
 sku: 'B06XCS8VVR-es'
-tags: [  ]
 actualPrice: 10.93 EUR
 currency: EUR
 price: 10.93

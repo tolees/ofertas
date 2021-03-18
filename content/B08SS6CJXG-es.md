@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SS6CJXG-es Garnier Fructis Hair Food Sandía Champú Revitalizante -...'
 sku: 'B08SS6CJXG-es'
-tags: [  ]
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQQ2GY-es Funko- Pop Vinilo Squarepants S3: Spongebob Rainbow Figura...'
 sku: 'B07MZQQ2GY-es'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

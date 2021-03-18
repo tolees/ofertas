@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005NFXM5W-es Mann Filter - MANN-FILTER Filtro de aceite HU 618 X Set de...'
 sku: 'B005NFXM5W-es'
-tags: [  ]
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

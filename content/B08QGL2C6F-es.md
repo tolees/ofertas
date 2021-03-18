@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QGL2C6F-es Colcolo Abrazaderas de Micrófono Inalámbrico de Mano de 8...'
 sku: 'B08QGL2C6F-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

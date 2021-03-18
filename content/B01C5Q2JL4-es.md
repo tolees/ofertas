@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C5Q2JL4-es TRENDnet - Cámara de Red PoE para Exteriores/Interiores...'
 sku: 'B01C5Q2JL4-es'
-tags: [  ]
 actualPrice: 102.16 EUR
 currency: EUR
 price: 102.16

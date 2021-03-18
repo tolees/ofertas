@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OHVZTTK-es Marshall MODE - Auriculares Mode - Negro/Blanco'
 sku: 'B00OHVZTTK-es'
-tags: [  ]
 actualPrice: 35.89 EUR
 currency: EUR
 price: 35.89

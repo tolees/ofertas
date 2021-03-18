@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN7XF1U-es Instituto Español Gel de Baño y Ducha 10% Urea para Piel...'
 sku: 'B00BN7XF1U-es'
-tags: [  ]
 actualPrice: 2.07 EUR
 currency: EUR
 price: 2.07

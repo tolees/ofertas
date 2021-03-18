@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGTKHHD-es New Balance Fresh Foam Roav h Zapatillas de Running para...'
 sku: 'B07RGTKHHD-es'
-tags: [  ]
 actualPrice: 45.15 EUR
 currency: EUR
 price: 45.15

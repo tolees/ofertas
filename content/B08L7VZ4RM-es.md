@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L7VZ4RM-es BBLAC 2KEY Mujer Arnés | Cuero Pierna | Ajustable Punk...'
 sku: 'B08L7VZ4RM-es'
-tags: [  ]
 actualPrice: 13.39 EUR
 currency: EUR
 price: 13.39

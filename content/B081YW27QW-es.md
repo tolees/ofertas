@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081YW27QW-es Hurley M BP Toucan 18 Bañador Hombre Oracle Aqua 28'
 sku: 'B081YW27QW-es'
-tags: [  ]
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

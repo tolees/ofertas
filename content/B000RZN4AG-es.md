@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000RZN4AG-es TRIXIE Arnés-Bozal Guía Top Trainer M 27 cm Perro'
 sku: 'B000RZN4AG-es'
-tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

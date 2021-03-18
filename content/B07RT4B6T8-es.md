@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RT4B6T8-es Neutrogena Skin Detox Mascarilla de Arcilla Purificante 2...'
 sku: 'B07RT4B6T8-es'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

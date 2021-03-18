@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0156O5DJC-es Sophie la girafe 240117 - Rollin unisex'
 sku: 'B0156O5DJC-es'
-tags: [  ]
 actualPrice: 13.94 EUR
 currency: EUR
 price: 13.94

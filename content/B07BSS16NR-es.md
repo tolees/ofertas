@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BSS16NR-es Transcend Usd300S Tarjeta Microsd de 64Gb Clase 10 U1 A1...'
 sku: 'B07BSS16NR-es'
-tags: [  ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

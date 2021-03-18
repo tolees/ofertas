@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBK3PQ2-es non-brand Mini Space Toys Airplane Rocket Car Model Set...'
 sku: 'B07PBK3PQ2-es'
-tags: [  ]
 actualPrice: 14.41 EUR
 currency: EUR
 price: 14.41

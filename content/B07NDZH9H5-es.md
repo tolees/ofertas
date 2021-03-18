@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDZH9H5-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07NDZH9H5-es'
-tags: [ 'festina', ]
 actualPrice: 99.67 EUR
 currency: EUR
 price: 99.67

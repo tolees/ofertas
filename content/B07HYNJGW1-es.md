@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HYNJGW1-es soldanza Bananitos - 24 De 71 Gr; total: 1704 Gr'
 sku: 'B07HYNJGW1-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

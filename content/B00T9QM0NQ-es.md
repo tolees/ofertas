@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00T9QM0NQ-es BaByliss Pro Miracurl SteamTech BAB2665SE Rizador de pelo...'
 sku: 'B00T9QM0NQ-es'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

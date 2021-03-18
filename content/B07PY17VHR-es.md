@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY17VHR-es B Blesiya Kit de Mantenimiento Piscinas Masaje Jet...'
 sku: 'B07PY17VHR-es'
-tags: [  ]
 actualPrice: 51.69 EUR
 currency: EUR
 price: 51.69

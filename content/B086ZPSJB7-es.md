@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ZPSJB7-es B Blesiya Nuevo Traje Negro De PC para PC con Cubierta...'
 sku: 'B086ZPSJB7-es'
-tags: [  ]
 actualPrice: 22.19 EUR
 currency: EUR
 price: 22.19

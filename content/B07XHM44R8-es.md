@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XHM44R8-es Skechers DARLOW REMEGO Zapatillas Hombre Tela Vaquera Azul...'
 sku: 'B07XHM44R8-es'
-tags: [  ]
 actualPrice: 35.71 EUR
 currency: EUR
 price: 35.71

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084J4CZR3-es Petit Bateau 5614701 Dors Bien Y - Bebé niña...'
 sku: 'B084J4CZR3-es'
-tags: [  ]
 actualPrice: 14.36 EUR
 currency: EUR
 price: 14.36

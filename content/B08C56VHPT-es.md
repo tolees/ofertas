@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C56VHPT-es RIKIN Aspiradora de Coche 8500PA 120W Aspirador de Mano...'
 sku: 'B08C56VHPT-es'
-tags: [  ]
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

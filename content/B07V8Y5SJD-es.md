@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8Y5SJD-es Tommy Hilfiger - Business Leather Mini Cc Wallet Carteras...'
 sku: 'B07V8Y5SJD-es'
-tags: [  ]
 actualPrice: 31.37 EUR
 currency: EUR
 price: 31.37

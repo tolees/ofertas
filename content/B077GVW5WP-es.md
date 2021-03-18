@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077GVW5WP-es Levi s LEVIS FOOTWEAR AND ACCESSORIESBatwing Tote...'
 sku: 'B077GVW5WP-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

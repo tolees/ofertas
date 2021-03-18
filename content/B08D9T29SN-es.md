@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D9T29SN-es HAWKERS New Classic Sunglasses Negro/Dorado talla única...'
 sku: 'B08D9T29SN-es'
-tags: [ 'hawkers', ]
 actualPrice: 23.48 EUR
 currency: EUR
 price: 23.48

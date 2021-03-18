@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WKPSXPM-es Pepe Jeans Bryan Bañador Rojo Spicy Red 232 XX-Large para...'
 sku: 'B07WKPSXPM-es'
-tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

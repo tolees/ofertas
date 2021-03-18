@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079XZGDNM-es Mr. Tronic 20m Cable de Red Ethernet Latiguillo | CAT6...'
 sku: 'B079XZGDNM-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

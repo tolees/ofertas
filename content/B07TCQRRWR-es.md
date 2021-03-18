@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TCQRRWR-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07TCQRRWR-es'
-tags: [  ]
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

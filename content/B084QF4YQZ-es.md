@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084QF4YQZ-es LG CineBeam PH30N - Proyector portátil con batería...'
 sku: 'B084QF4YQZ-es'
-tags: [  ]
 actualPrice: 246.75 EUR
 currency: EUR
 price: 246.75

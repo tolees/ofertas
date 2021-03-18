@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VGLNTY-es Columbia Challenger Suéter para Mujer Blanco Negro White...'
 sku: 'B087VGLNTY-es'
-tags: [  ]
 actualPrice: 74.07 EUR
 currency: EUR
 price: 74.07

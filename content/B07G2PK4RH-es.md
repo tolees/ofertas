@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G2PK4RH-es Deutsche Grammophon - Mahler: 10 Sinfonías'
 sku: 'B07G2PK4RH-es'
-tags: [  ]
 actualPrice: 37.73 EUR
 currency: EUR
 price: 37.73

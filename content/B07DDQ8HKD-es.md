@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDQ8HKD-es Vila Clothes Viplace V-Neck Knit Top-Noos suéter Beige...'
 sku: 'B07DDQ8HKD-es'
-tags: [  ]
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

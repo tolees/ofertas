@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGYCN22-es Plastificadora A4 A5 A7 ABOX Pixseal II Máquina para...'
 sku: 'B07ZGYCN22-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

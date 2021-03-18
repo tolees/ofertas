@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPT1GZC-es Funko - Pop! Simpsons S2: Homer - Radioactive Man Figura...'
 sku: 'B07KPT1GZC-es'
-tags: [  ]
 actualPrice: 9.66 EUR
 currency: EUR
 price: 9.66

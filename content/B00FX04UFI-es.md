@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FX04UFI-es World Of Warcraft 5.0'
 sku: 'B00FX04UFI-es'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

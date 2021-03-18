@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1FCC5D-es Pop Addams Family Wednesday Vinyl Figure'
 sku: 'B07T1FCC5D-es'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YCKSDF9-es HP 220 - Ratón inalámbrico Azul'
 sku: 'B07YCKSDF9-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

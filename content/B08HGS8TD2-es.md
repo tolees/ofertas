@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HGS8TD2-es #N/A 2 Kits de Ropa de Baño en Miniatura para Muñecas...'
 sku: 'B08HGS8TD2-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

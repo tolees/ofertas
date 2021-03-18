@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H6TTC47-es 20th Century Fox Home Entertainment España S.A. -...'
 sku: 'B08H6TTC47-es'
-tags: [  ]
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

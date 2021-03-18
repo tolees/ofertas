@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S7CJ5V4-es adidas CUSH CRW 3PP Socks Unisex adulto White/White/Black XS'
 sku: 'B07S7CJ5V4-es'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

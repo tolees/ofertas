@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BK5VHRW-es TianTa Funda para Galaxy Tab A 8.4 2020 Híbrido Tres Capas...'
 sku: 'B08BK5VHRW-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

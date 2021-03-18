@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YJC5YS1-es Wrangler Chino Short Bañador Azul Blue Graphite X15 W...'
 sku: 'B07YJC5YS1-es'
-tags: [  ]
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

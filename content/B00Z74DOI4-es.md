@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z74DOI4-es MICHELIN 009518 Mini Compresor Digital 12V Norme'
 sku: 'B00Z74DOI4-es'
-tags: [  ]
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

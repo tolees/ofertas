@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072VP9P2D-es Citizen Reloj Analogico para Mujer de Energía Solar con...'
 sku: 'B072VP9P2D-es'
-tags: [  ]
 actualPrice: 233.36 EUR
 currency: EUR
 price: 233.36

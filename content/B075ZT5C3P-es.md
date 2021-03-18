@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075ZT5C3P-es Vogels WALL 3245 Negro Soporte de Pared para TV 32 - 55...'
 sku: 'B075ZT5C3P-es'
-tags: [  ]
 actualPrice: 82.97 EUR
 currency: EUR
 price: 82.97

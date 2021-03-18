@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J42CGR7-es Dim Soutien-Gorge Sans Armature Invisififree Sujetador sin...'
 sku: 'B07J42CGR7-es'
-tags: [  ]
 actualPrice: 12 EUR
 currency: EUR
 price: 12

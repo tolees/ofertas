@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPGM8RL-es PUMA ESS Logo TR Op SRL Pantalones Hombre Black 2XL'
 sku: 'B07DPGM8RL-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

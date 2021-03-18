@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KPR0XFE-es Candy CMXC30DCS Horno Microondas con Grill Capacidad 30L...'
 sku: 'B01KPR0XFE-es'
-tags: [  ]
 actualPrice: 143.0 EUR
 currency: EUR
 price: 143.0

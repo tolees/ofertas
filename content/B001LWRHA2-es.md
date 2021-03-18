@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001LWRHA2-es Hagen Catit Design Senses Massage Centre'
 sku: 'B001LWRHA2-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

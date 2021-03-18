@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086QJGV2N-es Mustang Alexia Zapatillas Deportivas para Mujer Canje...'
 sku: 'B086QJGV2N-es'
-tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

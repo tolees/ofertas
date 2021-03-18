@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PY12MW-es Beikell Pulseras Repelentes de Mosquitos 12 Piezas Pulsera...'
 sku: 'B086PY12MW-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

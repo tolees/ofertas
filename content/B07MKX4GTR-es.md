@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MKX4GTR-es AECCN Telescopio Monocular-12X50 monocular HD Zoom...'
 sku: 'B07MKX4GTR-es'
-tags: [  ]
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VYMF7BY-es Corsair M55 PRO RGB - Ratón Óptico Ambidiestro para Juegos...'
 sku: 'B07VYMF7BY-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

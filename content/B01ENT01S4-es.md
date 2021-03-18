@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ENT01S4-es SEVERIN Microondas 2 en 1 con Función Grill Incl. Rejilla...'
 sku: 'B01ENT01S4-es'
-tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

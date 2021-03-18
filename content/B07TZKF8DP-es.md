@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZKF8DP-es Swatch Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07TZKF8DP-es'
-tags: [  ]
 actualPrice: 56.05 EUR
 currency: EUR
 price: 56.05

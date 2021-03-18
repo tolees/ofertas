@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N3QGZO8-es Skechers Street Squad Zapatillas sin Cordones para Niñas...'
 sku: 'B01N3QGZO8-es'
-tags: [  ]
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

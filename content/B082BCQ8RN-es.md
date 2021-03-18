@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BCQ8RN-es Icons Corner Pack de 2 Sillas Gris Patas de Madera Kandem...'
 sku: 'B082BCQ8RN-es'
-tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

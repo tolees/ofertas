@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC9F2DK-es Jack & Jones Jjeliam Knit Crew Neck Noos suéter Beige Jet...'
 sku: 'B07VC9F2DK-es'
-tags: [ 'jack & jones', ]
 actualPrice: 17.62 EUR
 currency: EUR
 price: 17.62

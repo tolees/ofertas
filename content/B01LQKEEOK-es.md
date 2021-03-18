@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LQKEEOK-es SD toys - Mug Game of Thrones - Targaryen Verre Noir Logo...'
 sku: 'B01LQKEEOK-es'
-tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

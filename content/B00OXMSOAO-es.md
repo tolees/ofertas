@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OXMSOAO-es Orbegozo FH 5525 - Calefactor 2 niveles de potencia...'
 sku: 'B00OXMSOAO-es'
-tags: [  ]
 actualPrice: 14.17 EUR
 currency: EUR
 price: 14.17

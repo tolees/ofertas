@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPCBN7P-es Wansenda - Memoria USB Tipo C USB 3.0 de 128GB USB C Pen...'
 sku: 'B08GPCBN7P-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

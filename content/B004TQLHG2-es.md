@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004TQLHG2-es Bosch Professional Disco de diamante Best for Stone piedra...'
 sku: 'B004TQLHG2-es'
-tags: [ 'bosch', ]
 actualPrice: 81.0 EUR
 currency: EUR
 price: 81.0

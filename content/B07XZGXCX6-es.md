@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XZGXCX6-es MSI Optix G32C4 - Monitor Gaming Curvo 32" FullHd 165Hz...'
 sku: 'B07XZGXCX6-es'
-tags: [  ]
 actualPrice: 229.98 EUR
 currency: EUR
 price: 229.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07734PWCP-es TRIXIE Snack PREMIO Quadro-Sticks Ave Corral-Hígado 5 × 5g...'
 sku: 'B07734PWCP-es'
-tags: [  ]
 actualPrice: 3.77 EUR
 currency: EUR
 price: 3.77

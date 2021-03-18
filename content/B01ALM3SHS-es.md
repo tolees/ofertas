@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ALM3SHS-es TININNA 1 par Espuma de la Memoria Respirable Altura...'
 sku: 'B01ALM3SHS-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

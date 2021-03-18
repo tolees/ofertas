@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8HM19Z-es Cargador Inalámbrico ESR Qi 10 W para iPhone 11/11 Pro/11...'
 sku: 'B07B8HM19Z-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

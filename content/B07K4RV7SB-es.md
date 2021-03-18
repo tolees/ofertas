@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K4RV7SB-es Adidas Falcon W - Zapatillas de Deporte para Mujer Negro...'
 sku: 'B07K4RV7SB-es'
-tags: [  ]
 actualPrice: 70.75 EUR
 currency: EUR
 price: 70.75

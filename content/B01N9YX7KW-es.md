@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N9YX7KW-es Samsung Led View Funda para smartphone Samsung Galaxy S8...'
 sku: 'B01N9YX7KW-es'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

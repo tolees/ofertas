@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ZHHSJZ-es Moliies 1PCS Tamaño portátil Cubierta de cámara Web...'
 sku: 'B086ZHHSJZ-es'
-tags: [  ]
 actualPrice: 3.16 EUR
 currency: EUR
 price: 3.16

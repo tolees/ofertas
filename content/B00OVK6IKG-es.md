@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OVK6IKG-es Yale 10CIHN Cerradura de Sobreponer A Mano Izquierda...'
 sku: 'B00OVK6IKG-es'
-tags: [  ]
 actualPrice: 58.3 EUR
 currency: EUR
 price: 58.3

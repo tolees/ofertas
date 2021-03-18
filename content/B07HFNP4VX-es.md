@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HFNP4VX-es OnePlus 6T - Smartphone 6GB+128GB Color Negro Mirror Black'
 sku: 'B07HFNP4VX-es'
-tags: [  ]
 actualPrice: 319.95 EUR
 currency: EUR
 price: 319.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DD8CJTZ-es adidas Puremotion Men Zapatillas Hombre...'
 sku: 'B08DD8CJTZ-es'
-tags: [  ]
 actualPrice: 46.39 EUR
 currency: EUR
 price: 46.39

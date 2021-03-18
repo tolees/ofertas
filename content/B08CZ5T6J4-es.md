@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZ5T6J4-es NWOUIIAY Batidora de Varillas Eléctrica 300W Batidora...'
 sku: 'B08CZ5T6J4-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

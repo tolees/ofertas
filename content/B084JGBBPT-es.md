@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084JGBBPT-es Head Men’s Basic Boxers 5 Pack Calzoncillos Negro M Pack...'
 sku: 'B084JGBBPT-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

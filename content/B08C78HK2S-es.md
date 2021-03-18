@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C78HK2S-es adidas Galaxy 5 Sneaker Hombre Core Black/Footwear...'
 sku: 'B08C78HK2S-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086DKVS1P-es Blink Home Security - Blink Outdoor | Cámara de seguridad...'
 sku: 'B086DKVS1P-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

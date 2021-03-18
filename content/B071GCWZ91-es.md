@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071GCWZ91-es Bethesda - Doom VFR'
 sku: 'B071GCWZ91-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

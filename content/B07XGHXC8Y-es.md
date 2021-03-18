@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XGHXC8Y-es Adaptador de Audio USB HiFi Magic Voice 7.1 CH con Altavoz...'
 sku: 'B07XGHXC8Y-es'
-tags: [  ]
 actualPrice: 5.64 EUR
 currency: EUR
 price: 5.64

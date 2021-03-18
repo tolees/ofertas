@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088FW8HPH-es Nutribullet NBF-28400-1003GG - Batidora 1.000 W 1.65 l...'
 sku: 'B088FW8HPH-es'
-tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

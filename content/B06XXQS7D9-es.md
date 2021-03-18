@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XXQS7D9-es Auxmir Espejo Maquillaje con Luz LED Espejo Cosmético...'
 sku: 'B06XXQS7D9-es'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

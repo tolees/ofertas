@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QTYY2HN-es Kidear Serie de Calzón Suave de Algodón Calzoncillo para...'
 sku: 'B07QTYY2HN-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

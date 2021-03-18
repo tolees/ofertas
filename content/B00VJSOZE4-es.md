@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VJSOZE4-es Imetec Bellissima Face Cleansing Pro Spazzola para la...'
 sku: 'B00VJSOZE4-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B97RUGE-es LG CM2460 - Microcadena 2 x 50 W 2 Vías 80 Hz-20 kHz USB...'
 sku: 'B01B97RUGE-es'
-tags: [  ]
 actualPrice: 89.39 EUR
 currency: EUR
 price: 89.39

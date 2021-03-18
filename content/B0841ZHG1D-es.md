@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0841ZHG1D-es Tommy Hilfiger Pima Cotton Cashmere Crew Neck Suéter Light...'
 sku: 'B0841ZHG1D-es'
-tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

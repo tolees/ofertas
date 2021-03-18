@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y3M3FKR-es American Tourister Soundbox Spinner Equipaje de mano M 67...'
 sku: 'B06Y3M3FKR-es'
-tags: [  ]
 actualPrice: 60.38 EUR
 currency: EUR
 price: 60.38

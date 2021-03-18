@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076BSYM7B-es Bellota 7231043S1P Zapato de seguridad Negro Verde 43'
 sku: 'B076BSYM7B-es'
-tags: [  ]
 actualPrice: 33.27 EUR
 currency: EUR
 price: 33.27

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YWYKYYR-es NUONA Humidificador Ultrasónico Silencioso 400ml Aceites...'
 sku: 'B07YWYKYYR-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

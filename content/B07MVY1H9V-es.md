@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MVY1H9V-es Anivia 1080P Full HD Webcam with Webcam Cover Cámara para...'
 sku: 'B07MVY1H9V-es'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

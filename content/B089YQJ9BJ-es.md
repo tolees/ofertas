@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089YQJ9BJ-es VIBORA Pala de Padel Cascabel 2020'
 sku: 'B089YQJ9BJ-es'
-tags: [  ]
 actualPrice: 114.95 EUR
 currency: EUR
 price: 114.95

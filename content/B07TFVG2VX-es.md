@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TFVG2VX-es BelleStyle 24V 15A 360W Fuente Alimentacion Transformador...'
 sku: 'B07TFVG2VX-es'
-tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

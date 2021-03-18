@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HQ430PO-es Bolero Bebida Instantánea sin Azúcar Sabor Lichi - Paquete...'
 sku: 'B01HQ430PO-es'
-tags: [  ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NH12R1O-es AmazonBasics - Cable USB 3.0 A macho a Micro B 1 8 m'
 sku: 'B00NH12R1O-es'
-tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756XY6PR-es Reloj - Menton Ezil - Para - MEWAEU9333'
 sku: 'B0756XY6PR-es'
-tags: [  ]
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H5V6STY-es Urban Armor Gear Plyo Funda para Apple iPhone Xs Max...'
 sku: 'B07H5V6STY-es'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

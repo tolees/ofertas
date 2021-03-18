@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HL3NHW3-es Targus Balance Ecosmart 14" Unisex Adulto Monotone 43...'
 sku: 'B07HL3NHW3-es'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

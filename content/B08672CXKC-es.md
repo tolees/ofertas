@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08672CXKC-es PROTAURI Bandas de Ejercicios con Bandas de Resistencia...'
 sku: 'B08672CXKC-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

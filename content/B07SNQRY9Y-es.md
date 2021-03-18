@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SNQRY9Y-es Asics Gel-Nimbus 22 Zapatillas de Correr Hombre Azul Tuna...'
 sku: 'B07SNQRY9Y-es'
-tags: [  ]
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

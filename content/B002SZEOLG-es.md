@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SZEOLG-es TP-Link Adaptador wifi USB inalámbrico Compatible con...'
 sku: 'B002SZEOLG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Tarjetas de red','tp-link', ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

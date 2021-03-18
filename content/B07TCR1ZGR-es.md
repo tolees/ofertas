@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TCR1ZGR-es Michael Kors Lexington Connected Smartwatch Gen 5 con...'
 sku: 'B07TCR1ZGR-es'
-tags: [  ]
 actualPrice: 304.18 EUR
 currency: EUR
 price: 304.18

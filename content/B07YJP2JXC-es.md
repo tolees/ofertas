@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YJP2JXC-es PTHTECHUS - GPS Reloj Inteligente Niña - Smartwatch Niños...'
 sku: 'B07YJP2JXC-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

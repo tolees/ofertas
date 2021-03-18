@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012D63OLA-es M3 MEDIATRES ESTUDIO - Gantz: la Saga Completa'
 sku: 'B012D63OLA-es'
-tags: [ 'm3 mediatres estudio', ]
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

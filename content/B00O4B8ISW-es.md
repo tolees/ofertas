@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00O4B8ISW-es SANICAT clumping unscented 10L'
 sku: 'B00O4B8ISW-es'
-tags: [  ]
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

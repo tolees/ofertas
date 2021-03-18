@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XJSTSWQ-es Olay Regenerist Crema De Día Regeneradora - 50 ml'
 sku: 'B00XJSTSWQ-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

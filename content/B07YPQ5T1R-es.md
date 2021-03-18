@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YPQ5T1R-es Aceite de Onagra 10% GLA + Vitamina E NAVIT PLUS | 200...'
 sku: 'B07YPQ5T1R-es'
-tags: [  ]
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

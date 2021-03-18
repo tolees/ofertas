@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00368CKXS-es Shock Absorber Ultimate Run Bra Sujetador Deportivo para...'
 sku: 'B00368CKXS-es'
-tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

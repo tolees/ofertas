@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQZFLWW-es JETech Protector Pantalla de Papel Write Like Compatible...'
 sku: 'B07QQZFLWW-es'
-tags: [  ]
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

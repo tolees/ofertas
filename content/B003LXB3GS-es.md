@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003LXB3GS-es Westinghouse Ceiling Fans Vegas Ventilador de Techo Metal...'
 sku: 'B003LXB3GS-es'
-tags: [  ]
 actualPrice: 56.19 EUR
 currency: EUR
 price: 56.19

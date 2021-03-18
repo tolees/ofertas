@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014Q1RIIK-es HoMedics MAN-3023A-EU - Set de manicura y pedicura bañera...'
 sku: 'B014Q1RIIK-es'
-tags: [ 'homedics', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

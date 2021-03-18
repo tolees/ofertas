@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0864LCS1X-es Tesura Games - Bounty Battle'
 sku: 'B0864LCS1X-es'
-tags: [  ]
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

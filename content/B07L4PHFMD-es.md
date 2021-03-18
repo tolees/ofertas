@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L4PHFMD-es Adidas Terrex AX3 Mid GTX Zapatillas de Deporte Hombre...'
 sku: 'B07L4PHFMD-es'
-tags: [  ]
 actualPrice: 81.95 EUR
 currency: EUR
 price: 81.95

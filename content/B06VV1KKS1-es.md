@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VV1KKS1-es Fanvans Vestidos de Playa Elegante de Encaje de la Mujer...'
 sku: 'B06VV1KKS1-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y2KR4X7-es Dove Go Fresh Desodorante Antitranspirante Roll On Pera y...'
 sku: 'B06Y2KR4X7-es'
-tags: [  ]
 actualPrice: 7.86 EUR
 currency: EUR
 price: 7.86

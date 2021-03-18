@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZNGT8K4-es HUANUO Soporte de Monitor Dual Brazo de Resorte de Gas...'
 sku: 'B07ZNGT8K4-es'
-tags: [  ]
 actualPrice: 55.24 EUR
 currency: EUR
 price: 55.24

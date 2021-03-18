@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FF9GVNG-es Warner Bros Interactive Spain - Pack Friends Temporada...'
 sku: 'B00FF9GVNG-es'
-tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQB9G5S-es Tommy Hilfiger Patch Cap Gorra de béisbol Azul Talla única...'
 sku: 'B07JQB9G5S-es'
-tags: [  ]
 actualPrice: 16.51 EUR
 currency: EUR
 price: 16.51

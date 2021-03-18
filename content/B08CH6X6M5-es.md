@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CH6X6M5-es Xiaomi Redmi 9A - Smartphone 32GB 2GB RAM Dual Sim Sky Blue'
 sku: 'B08CH6X6M5-es'
-tags: [  ]
 actualPrice: 93.78 EUR
 currency: EUR
 price: 93.78

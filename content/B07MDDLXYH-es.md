@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDDLXYH-es Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B07MDDLXYH-es'
-tags: [  ]
 actualPrice: 63.4 EUR
 currency: EUR
 price: 63.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H12VSLP-es Garnier Original Remedies Delicatesse de Avena...'
 sku: 'B07H12VSLP-es'
-tags: [  ]
 actualPrice: 2.31 EUR
 currency: EUR
 price: 2.31

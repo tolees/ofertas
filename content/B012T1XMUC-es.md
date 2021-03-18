@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B012T1XMUC-es Armani Exchange Reloj Cronógrafo para Mujer de Cuarzo con...'
 sku: 'B012T1XMUC-es'
-tags: [  ]
 actualPrice: 149.96 EUR
 currency: EUR
 price: 149.96

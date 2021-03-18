@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTTR4GY-es Skechers Go Run Fast Steadfast Zapatillas sin Cordones...'
 sku: 'B07TTTR4GY-es'
-tags: [  ]
 actualPrice: 42.06 EUR
 currency: EUR
 price: 42.06

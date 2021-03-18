@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK41GPK-es Columbia Meadows Omni Botas para Mujer Blanco Roto Heat...'
 sku: 'B07KK41GPK-es'
-tags: [  ]
 actualPrice: 58.8 EUR
 currency: EUR
 price: 58.8

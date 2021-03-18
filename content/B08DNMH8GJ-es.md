@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DNMH8GJ-es Byondself Altavoz Bluetooth Portatil Impermeable Mini...'
 sku: 'B08DNMH8GJ-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QQP6SD-es adidas Puremotion Men Zapatillas Hombre...'
 sku: 'B089QQP6SD-es'
-tags: [  ]
 actualPrice: 26.43 EUR
 currency: EUR
 price: 26.43

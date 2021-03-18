@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BN8WODE-es Chicco- Big & Small Juego Libro 1-2-3 00072376000000'
 sku: 'B00BN8WODE-es'
-tags: [  ]
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

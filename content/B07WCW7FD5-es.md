@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WCW7FD5-es Corrector de Postura - Corrector de Espalda - Corrector...'
 sku: 'B07WCW7FD5-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NYPWCGV-es EasyULT Adaptador USB C Hembra a USB Macho 4 Pack...'
 sku: 'B08NYPWCGV-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

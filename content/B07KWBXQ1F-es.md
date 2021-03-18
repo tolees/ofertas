@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWBXQ1F-es EMPIRE GAMING Storm Cooler – Base de refrigeración PC...'
 sku: 'B07KWBXQ1F-es'
-tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BB2DQ4V-es Beper BT.150Y - Máquina para Hot-Dog'
 sku: 'B07BB2DQ4V-es'
-tags: [  ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

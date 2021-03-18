@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075ZRW2RJ-es YI Cámara de Vigilancia WiFi Exterior 1080P Cámara IP...'
 sku: 'B075ZRW2RJ-es'
-tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

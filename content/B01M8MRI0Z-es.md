@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M8MRI0Z-es Festina Reloj Multiesfera para Hombre de Cuarzo con Correa...'
 sku: 'B01M8MRI0Z-es'
-tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MBQPQ62-es Samsung 970 Evo Plus Unidad de Estado Sólido M.2 1000GB...'
 sku: 'B07MBQPQ62-es'
-tags: [  ]
 actualPrice: 164.85 EUR
 currency: EUR
 price: 164.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M4NGGNZ-es Air Wick - AIRWICK Life escents ambientador eléctrico...'
 sku: 'B01M4NGGNZ-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

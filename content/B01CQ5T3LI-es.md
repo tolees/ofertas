@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CQ5T3LI-es San Ignacio PK128 Bandeja Grill 35 x 26 cm Aluminio...'
 sku: 'B01CQ5T3LI-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

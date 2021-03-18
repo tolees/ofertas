@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01E5VOO8S-es Reloj Viceroy - Hombre 42223-35'
 sku: 'B01E5VOO8S-es'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K72JXL8-es Asics Patriot 10 Zapatillas de Running para Hombre Rojo...'
 sku: 'B07K72JXL8-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

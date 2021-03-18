@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P2BCPN6-es Superdry Jacob Crew suéter Gris Concrete Twist THU S para...'
 sku: 'B07P2BCPN6-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

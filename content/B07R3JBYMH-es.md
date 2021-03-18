@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3JBYMH-es Ultimate Ears Megaboom Altavoz Portátil Inalámbrico...'
 sku: 'B07R3JBYMH-es'
-tags: [  ]
 actualPrice: 122.99 EUR
 currency: EUR
 price: 122.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087CNY84F-es Black+Decker BXTO1000E Tostadora de Pan con Ranura Larga y...'
 sku: 'B087CNY84F-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

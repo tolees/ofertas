@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CMDCNR-es American Tourister Bon Air - Equipaje de mano Rojo Magma...'
 sku: 'B076CMDCNR-es'
-tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

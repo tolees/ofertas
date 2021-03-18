@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCWHLW3-es adidas Stan Smith Zapatillas Unisex Niños Blanco Footwear...'
 sku: 'B01NCWHLW3-es'
-tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG7B4MC-es HKSMAN - Adaptador de Conector RCA Macho de Audio y vídeo...'
 sku: 'B07KG7B4MC-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

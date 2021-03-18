@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072VNBLMJ-es Citizen Reloj Analogico para Mujer de Energía Solar con...'
 sku: 'B072VNBLMJ-es'
-tags: [  ]
 actualPrice: 205.34 EUR
 currency: EUR
 price: 205.34

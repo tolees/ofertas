@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0108JKS4A-es Hot Chocolate Design Chocolaticas Notebook Bailarina Mary...'
 sku: 'B0108JKS4A-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

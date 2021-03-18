@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004V3Q1ZA-es SHURE SE215-CL - Auriculares Profesionales con cable sobre...'
 sku: 'B004V3Q1ZA-es'
-tags: [ 'shure', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

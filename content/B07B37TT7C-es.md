@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B37TT7C-es Goula- Maxi cosí Jungla Multicolor 52045'
 sku: 'B07B37TT7C-es'
-tags: [  ]
 actualPrice: 9.7 EUR
 currency: EUR
 price: 9.7

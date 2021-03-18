@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VSK9JG-es The Lost Child'
 sku: 'B079VSK9JG-es'
-tags: [  ]
 actualPrice: 22.57 EUR
 currency: EUR
 price: 22.57

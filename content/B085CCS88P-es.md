@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CCS88P-es FMPC Carcasa con Cuerda Samsung Galaxy A71 Cristal TPU...'
 sku: 'B085CCS88P-es'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

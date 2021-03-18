@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZDL5ZD-es Versión 2019 Dynavap Vapcap M Vaporizador'
 sku: 'B07PZDL5ZD-es'
-tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075FVTYKK-es Moulinex Perfect Mix+ LM811D - Batidora de vaso de 1200 W...'
 sku: 'B075FVTYKK-es'
-tags: [  ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

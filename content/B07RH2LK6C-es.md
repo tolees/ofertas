@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH2LK6C-es G-STAR RAW 3301 Slim Fit Jeans Antic Faded Ripped Marine...'
 sku: 'B07RH2LK6C-es'
-tags: [  ]
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

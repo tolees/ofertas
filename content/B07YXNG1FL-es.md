@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXNG1FL-es Under Armour Challenger III Jacket Hombre para Hacer Ropa...'
 sku: 'B07YXNG1FL-es'
-tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D17JTWI-es Samsonite Paradiver Light Borsa con Ruote Unisex Blu Jeans...'
 sku: 'B01D17JTWI-es'
-tags: [  ]
 actualPrice: 119.46 EUR
 currency: EUR
 price: 119.46

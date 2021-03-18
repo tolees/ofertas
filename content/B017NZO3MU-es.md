@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017NZO3MU-es Terry Jline 68 Armario 2 Puertas con 1 Interno. Capacidad...'
 sku: 'B017NZO3MU-es'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

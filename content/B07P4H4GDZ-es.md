@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P4H4GDZ-es Herbalgem Osteogem - 30 gr'
 sku: 'B07P4H4GDZ-es'
-tags: [  ]
 actualPrice: 14.25 EUR
 currency: EUR
 price: 14.25

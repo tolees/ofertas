@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003WIZD6S-es Puma Sports Socks - Calcetines de deporte para hombre...'
 sku: 'B003WIZD6S-es'
-tags: [ 'puma', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

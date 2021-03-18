@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082DH38QW-es Cecotec afeitadora Bamba PrecisionCare Multigrooming Pro....'
 sku: 'B082DH38QW-es'
-tags: [  ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

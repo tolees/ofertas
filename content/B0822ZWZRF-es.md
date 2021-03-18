@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0822ZWZRF-es Charles Wilson Pantalón de Deportes con Puño Pantalón...'
 sku: 'B0822ZWZRF-es'
-tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

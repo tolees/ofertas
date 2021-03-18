@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BB3YHYD-es Levi s Declan Millstone 2 Tone Zapatillas Hombre Blanco R...'
 sku: 'B07BB3YHYD-es'
-tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

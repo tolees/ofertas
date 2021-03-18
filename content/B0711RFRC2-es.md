@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0711RFRC2-es La Zona Muerta Edición Coleccionista Blu-Ray [Blu-ray]'
 sku: 'B0711RFRC2-es'
-tags: [  ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

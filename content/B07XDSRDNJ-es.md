@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XDSRDNJ-es Uten Máquina de Coser Computarizada Portatil Electrica...'
 sku: 'B07XDSRDNJ-es'
-tags: [  ]
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NSLYRTN-es Taurus Bergen 16C Ventilador de columna oscilante sistema...'
 sku: 'B07NSLYRTN-es'
-tags: [  ]
 actualPrice: 38.69 EUR
 currency: EUR
 price: 38.69

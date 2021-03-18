@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N45MSFC-es Tommy Hilfiger Pima Cotton Cashmere Crew Neck Suéter...'
 sku: 'B07N45MSFC-es'
-tags: [  ]
 actualPrice: 76.95 EUR
 currency: EUR
 price: 76.95

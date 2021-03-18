@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DPCZ7W0-es Vangold Reloj silencioso 3D adhesivo efecto cristal para...'
 sku: 'B01DPCZ7W0-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

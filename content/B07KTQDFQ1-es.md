@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTQDFQ1-es Tommy Hilfiger Reloj de Pulsera 1710382'
 sku: 'B07KTQDFQ1-es'
-tags: [  ]
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

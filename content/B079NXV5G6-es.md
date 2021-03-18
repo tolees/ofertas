@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079NXV5G6-es New Ray - Moto KTM Factory Racing Marvin Musquin N° 25'
 sku: 'B079NXV5G6-es'
-tags: [  ]
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

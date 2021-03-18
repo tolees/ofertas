@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0869BKVMV-es SONTDV - PestañAs Postizas Naturales，2021 úLtima...'
 sku: 'B0869BKVMV-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

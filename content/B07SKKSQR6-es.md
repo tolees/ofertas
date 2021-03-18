@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKKSQR6-es Deep Silver - Dead By Daylight'
 sku: 'B07SKKSQR6-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

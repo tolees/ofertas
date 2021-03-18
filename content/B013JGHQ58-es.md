@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013JGHQ58-es Sony ICF-306 - Radio analógica portátil FM/AM color negro'
 sku: 'B013JGHQ58-es'
-tags: [  ]
 actualPrice: 24.05 EUR
 currency: EUR
 price: 24.05

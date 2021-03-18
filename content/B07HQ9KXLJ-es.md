@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HQ9KXLJ-es Hubei - BK03XL batería del Ordenador portátil Compatible...'
 sku: 'B07HQ9KXLJ-es'
-tags: [  ]
 actualPrice: 40.88 EUR
 currency: EUR
 price: 40.88

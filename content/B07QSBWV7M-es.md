@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QSBWV7M-es Funko - Pop! Disney: Frozen 2 - Olaf Figurina Multicolor...'
 sku: 'B07QSBWV7M-es'
-tags: [  ]
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

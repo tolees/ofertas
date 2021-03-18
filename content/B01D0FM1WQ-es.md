@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D0FM1WQ-es GREAT ART XXL Póster – Hamaca es Playa de Palmeras Antes...'
 sku: 'B01D0FM1WQ-es'
-tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

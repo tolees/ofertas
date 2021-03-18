@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G5R9VGR-es Bulova Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07G5R9VGR-es'
-tags: [  ]
 actualPrice: 540.58 EUR
 currency: EUR
 price: 540.58

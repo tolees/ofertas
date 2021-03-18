@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075T6KS9C-es HP Z5000 - Ratón inalámbrico Bluetooth con luz indicadora...'
 sku: 'B075T6KS9C-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BZR77Z8-es Victoria Blucher Lona - Botas para mujer Blanc Blanco 37'
 sku: 'B00BZR77Z8-es'
-tags: [  ]
 actualPrice: 27.93 EUR
 currency: EUR
 price: 27.93

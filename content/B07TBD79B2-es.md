@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBD79B2-es NOVECASA Pantalones Cortos de Compresión para Hombre con...'
 sku: 'B07TBD79B2-es'
-tags: [  ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

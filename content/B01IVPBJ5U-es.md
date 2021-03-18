@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IVPBJ5U-es Melatonina Epaplus Sueño Liberación prolongada 60 comprimidos'
 sku: 'B01IVPBJ5U-es'
-tags: [  ]
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086Z5XTGK-es MSI GP75 Leopard 10SEK-018ES - Ordenador portátil de 17.3"...'
 sku: 'B086Z5XTGK-es'
-tags: [  ]
 actualPrice: 800.0 EUR
 currency: EUR
 price: 800.0

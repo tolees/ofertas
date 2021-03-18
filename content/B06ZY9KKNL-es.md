@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06ZY9KKNL-es VASAGLE Estantería de Madera Biblioteca Organizador con 6...'
 sku: 'B06ZY9KKNL-es'
-tags: [  ]
 actualPrice: 42.98 EUR
 currency: EUR
 price: 42.98

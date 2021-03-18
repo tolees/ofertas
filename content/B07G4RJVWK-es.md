@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4RJVWK-es Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07G4RJVWK-es'
-tags: [  ]
 actualPrice: 139.77 EUR
 currency: EUR
 price: 139.77

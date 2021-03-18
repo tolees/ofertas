@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG99FFJ-es PUMA Ralph Sampson Lo Zapatillas Unisex Adulto Blanco...'
 sku: 'B07KG99FFJ-es'
-tags: [  ]
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

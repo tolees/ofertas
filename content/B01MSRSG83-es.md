@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MSRSG83-es PUMA Basket Heart Patent Wn S Zapatillas Mujer Blanco...'
 sku: 'B01MSRSG83-es'
-tags: [  ]
 actualPrice: 21.35 EUR
 currency: EUR
 price: 21.35

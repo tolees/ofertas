@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001VNC9L8-es Max Factor Lipfinity Colour & Gloss Pintalabios Tono 560...'
 sku: 'B001VNC9L8-es'
-tags: [  ]
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

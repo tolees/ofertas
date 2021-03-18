@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H28NLZG-es Boomersun Calefactor de cerámica de 1500 W con oscilación...'
 sku: 'B08H28NLZG-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

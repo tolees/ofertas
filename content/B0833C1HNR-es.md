@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0833C1HNR-es Suunto 7 Smartwatch para deporte y fitness Unisex Negro...'
 sku: 'B0833C1HNR-es'
-tags: [ 'suunto', ]
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

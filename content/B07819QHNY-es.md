@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07819QHNY-es Adidas Fortagym Cf K Zapatillas de Gimnasia Unisex Niños...'
 sku: 'B07819QHNY-es'
-tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073Q1R4RJ-es Cecotec Rock nGrill 1000 - Parrilla Eléctrica...'
 sku: 'B073Q1R4RJ-es'
-tags: [  ]
 actualPrice: 20.31 EUR
 currency: EUR
 price: 20.31

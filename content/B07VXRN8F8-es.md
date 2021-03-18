@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VXRN8F8-es Tommy Hilfiger - Tommy Jeans Mujer Nora Mr Skinny Ankle...'
 sku: 'B07VXRN8F8-es'
-tags: [  ]
 actualPrice: 37.98 EUR
 currency: EUR
 price: 37.98

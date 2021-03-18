@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WPN7V1-es 【Versión mejorada】TEC.BEAN Masajeador eléctrico de Mano...'
 sku: 'B075WPN7V1-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

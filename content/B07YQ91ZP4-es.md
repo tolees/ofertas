@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQ91ZP4-es Frozen Nature-Mochila Bouquet'
 sku: 'B07YQ91ZP4-es'
-tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

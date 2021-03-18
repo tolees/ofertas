@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FTUHU08-es BSN Suplemento Dietético en Polvo "NO Xplode XE Edge Pre-...'
 sku: 'B01FTUHU08-es'
-tags: [  ]
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

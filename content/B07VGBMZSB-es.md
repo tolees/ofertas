@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGBMZSB-es Monitor de Presión Arterial JUMPER en la Parte Superior...'
 sku: 'B07VGBMZSB-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

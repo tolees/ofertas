@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N23C3ON-es BOSCH 2608522363 - Set vacio L: 1 ud'
 sku: 'B01N23C3ON-es'
-tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

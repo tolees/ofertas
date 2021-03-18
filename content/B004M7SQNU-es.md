@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004M7SQNU-es JVC HA-S160 - Auriculares de diadema abiertos negro'
 sku: 'B004M7SQNU-es'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

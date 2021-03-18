@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYNMK1X-es JACK & JONES Jfwbarton Canvas Zapatillas para Hombre Azul...'
 sku: 'B07MYNMK1X-es'
-tags: [  ]
 actualPrice: 23.43 EUR
 currency: EUR
 price: 23.43

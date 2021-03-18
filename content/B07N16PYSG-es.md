@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N16PYSG-es Calvin Klein Reloj Analógico-Digital para Unisex Adultos...'
 sku: 'B07N16PYSG-es'
-tags: [  ]
 actualPrice: 152.4 EUR
 currency: EUR
 price: 152.4

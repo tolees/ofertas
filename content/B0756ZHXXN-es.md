@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756ZHXXN-es Globos de Confeti Dorado 12 Pulgadas Globos de Fiesta de...'
 sku: 'B0756ZHXXN-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

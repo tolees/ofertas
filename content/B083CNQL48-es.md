@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083CNQL48-es adidas W Winners Tank Top Mujer Black Melange S'
 sku: 'B083CNQL48-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

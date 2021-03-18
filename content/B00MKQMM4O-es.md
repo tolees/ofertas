@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MKQMM4O-es Wella Sp Aceite para el cabello - 100 ml.'
 sku: 'B00MKQMM4O-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

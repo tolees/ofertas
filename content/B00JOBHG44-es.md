@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JOBHG44-es Casio Reloj Analógico de Cuarzo con Correa en Acero...'
 sku: 'B00JOBHG44-es'
-tags: [  ]
 actualPrice: 42.92 EUR
 currency: EUR
 price: 42.92

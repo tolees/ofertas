@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NZVC39N-es adidas U Path Run Sneaker Hombre Negro...'
 sku: 'B07NZVC39N-es'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

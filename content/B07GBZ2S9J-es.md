@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBZ2S9J-es Mr. Tronic 5m Cable de Red Ethernet Latiguillo | CAT5e...'
 sku: 'B07GBZ2S9J-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

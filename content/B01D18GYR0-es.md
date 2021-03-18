@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D18GYR0-es Samsonite Paradiver Light Bolsa de Viaje con Ruedas S...'
 sku: 'B01D18GYR0-es'
-tags: [  ]
 actualPrice: 133.43 EUR
 currency: EUR
 price: 133.43

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0168PAISE-es Kit Closet Set Coimbra mesas Metal Vinilo Imitacion Madera...'
 sku: 'B0168PAISE-es'
-tags: [  ]
 actualPrice: 85.28 EUR
 currency: EUR
 price: 85.28

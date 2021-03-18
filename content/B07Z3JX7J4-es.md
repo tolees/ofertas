@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z3JX7J4-es K-GOLEIRO Kids'
 sku: 'B07Z3JX7J4-es'
-tags: [  ]
 actualPrice: 26.94 EUR
 currency: EUR
 price: 26.94

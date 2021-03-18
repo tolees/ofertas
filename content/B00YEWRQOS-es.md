@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YEWRQOS-es Caran D Ache 8021-005 - Pack de 6 cartuchos de tinta...'
 sku: 'B00YEWRQOS-es'
-tags: [  ]
 actualPrice: 6.17 EUR
 currency: EUR
 price: 6.17

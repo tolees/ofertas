@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084DGPPXX-es Retrato De Una Mujer En Llamas [Blu-ray]'
 sku: 'B084DGPPXX-es'
-tags: [  ]
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

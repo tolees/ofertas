@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0833NFRBP-es Thicken The Body ḔxtêṈṧióṈ Dêl ḔxtêṈṧôr Dêl PêṈê PêṈê...'
 sku: 'B0833NFRBP-es'
-tags: [  ]
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

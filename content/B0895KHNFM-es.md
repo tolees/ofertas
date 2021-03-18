@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0895KHNFM-es Feagar Repaldo Lumbar para Silla Oficina Cojin Lumbar...'
 sku: 'B0895KHNFM-es'
-tags: [  ]
 actualPrice: 28.74 EUR
 currency: EUR
 price: 28.74

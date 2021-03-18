@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WJ2DYPX-es Ringke Fusion-X Diseñado para Funda Redmi Note 7 Funda...'
 sku: 'B07WJ2DYPX-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

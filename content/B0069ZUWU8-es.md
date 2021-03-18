@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0069ZUWU8-es Dickies Original 874 Work Pant Pantalones Marina Oscuro...'
 sku: 'B0069ZUWU8-es'
-tags: [  ]
 actualPrice: 26.63 EUR
 currency: EUR
 price: 26.63

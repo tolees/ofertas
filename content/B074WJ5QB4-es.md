@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074WJ5QB4-es Creative Labs Halo - Altavoz Inalámbrico portable con...'
 sku: 'B074WJ5QB4-es'
-tags: [  ]
 actualPrice: 39.31 EUR
 currency: EUR
 price: 39.31

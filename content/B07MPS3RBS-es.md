@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MPS3RBS-es Kickers Oxfordchic Botas Slouch para Mujer Negro Noir Perm...'
 sku: 'B07MPS3RBS-es'
-tags: [  ]
 actualPrice: 24.24 EUR
 currency: EUR
 price: 24.24

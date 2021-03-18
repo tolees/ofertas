@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07931TSNS-es KLORANE CHAMPU MAGNOLIA 400 ML PARA2'
 sku: 'B07931TSNS-es'
-tags: [  ]
 actualPrice: 10.85 EUR
 currency: EUR
 price: 10.85

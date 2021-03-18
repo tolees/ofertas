@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N14HPST-es Levi s 501 High Rise Short Pantalones Cortos Silver Lake...'
 sku: 'B07N14HPST-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

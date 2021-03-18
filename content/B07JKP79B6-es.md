@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKP79B6-es Amy&Benton Coches de Juguete Surtido 4PCS Figuras Coches...'
 sku: 'B07JKP79B6-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

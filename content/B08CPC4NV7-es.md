@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CPC4NV7-es adidas Real Clx SH Cl Swimsuit Hombre Dark Blue/Spring Pink S'
 sku: 'B08CPC4NV7-es'
-tags: [  ]
 actualPrice: 23.53 EUR
 currency: EUR
 price: 23.53

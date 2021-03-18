@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IBSU840-es Bishilin Acero Inoxidable 6Mm Wedding Anillos de...'
 sku: 'B01IBSU840-es'
-tags: [  ]
 actualPrice: 26.94 EUR
 currency: EUR
 price: 26.94

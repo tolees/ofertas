@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCT1WH4-es Pepe Jeans Kenton Sport Zapatillas para Hombre Azul Marino...'
 sku: 'B07VCT1WH4-es'
-tags: [  ]
 actualPrice: 37.75 EUR
 currency: EUR
 price: 37.75

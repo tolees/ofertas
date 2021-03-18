@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015KGVI2C-es Colnatur Classic Neutro 300 g - Colágeno natural...'
 sku: 'B015KGVI2C-es'
-tags: [  ]
 actualPrice: 9.65 EUR
 currency: EUR
 price: 9.65

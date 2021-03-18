@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NLKBFP2-es Versace Jeans CouturePortafoglioMujerCarterasMorado...'
 sku: 'B07NLKBFP2-es'
-tags: [  ]
 actualPrice: 57.07 EUR
 currency: EUR
 price: 57.07

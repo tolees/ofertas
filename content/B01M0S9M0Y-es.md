@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M0S9M0Y-es Western Digital My Book Disco Duro Externo de Sobremesa de...'
 sku: 'B01M0S9M0Y-es'
-tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

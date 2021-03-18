@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B5G1V5S-es Señorío de los Llanos Crianza - Vino Tinto D.O. Valdepeñas...'
 sku: 'B07B5G1V5S-es'
-tags: [  ]
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

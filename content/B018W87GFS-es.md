@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018W87GFS-es Superga 2790-COTROPEW Zapatillas Mujer Blanco 901 White 41...'
 sku: 'B018W87GFS-es'
-tags: [  ]
 actualPrice: 36.65 EUR
 currency: EUR
 price: 36.65

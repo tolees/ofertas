@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GK03FYQ-es House Of Cards - Temporada 4 [Blu-ray]'
 sku: 'B01GK03FYQ-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

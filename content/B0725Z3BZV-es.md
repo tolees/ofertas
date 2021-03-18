@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0725Z3BZV-es ORICO Carcasa USB 3.0 para Discos Duros HDD SSD de 3.5"...'
 sku: 'B0725Z3BZV-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

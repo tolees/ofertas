@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AXMKPG8-es Philips OneBlade Pro QP6510/30 - Recortador de barba con...'
 sku: 'B01AXMKPG8-es'
-tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

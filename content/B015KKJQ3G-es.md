@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015KKJQ3G-es Kappa Rocket Zapatillas Unisex Adulto Azul Navy/White 6710...'
 sku: 'B015KKJQ3G-es'
-tags: [ 'kappa', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

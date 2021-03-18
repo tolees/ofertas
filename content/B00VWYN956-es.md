@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VWYN956-es Joma Nilo Pantalones Largos Hombres Negro M'
 sku: 'B00VWYN956-es'
-tags: [  ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002UZRRXG-es DIGIFLEX Carcasa para Disco Duro IDE 2 5" a USB HDD para...'
 sku: 'B002UZRRXG-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

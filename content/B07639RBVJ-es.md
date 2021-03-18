@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07639RBVJ-es Swiffer - Recambios secos Mopa 120 unidades'
 sku: 'B07639RBVJ-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SPDMHW-es TedGem Ventilador USB Ventilador PC Mini Ventilador USB...'
 sku: 'B083SPDMHW-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

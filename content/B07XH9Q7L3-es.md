@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XH9Q7L3-es AmazonBasics - Amazon Basics - Funda protectora para...'
 sku: 'B07XH9Q7L3-es'
-tags: [  ]
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

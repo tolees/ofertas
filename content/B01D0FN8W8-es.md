@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D0FN8W8-es GREAT ART XXL Póster – Cascadas De Niagara – Decoración De...'
 sku: 'B01D0FN8W8-es'
-tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

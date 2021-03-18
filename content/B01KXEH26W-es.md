@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KXEH26W-es Hugo BOSS Reloj para hombre 1513387'
 sku: 'B01KXEH26W-es'
-tags: [  ]
 actualPrice: 130.32 EUR
 currency: EUR
 price: 130.32

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N35QVJA-es Intel NUC 7I5BNH - Kit ordenador Mini PC Intel Core...'
 sku: 'B01N35QVJA-es'
-tags: [ 'intel', ]
 actualPrice: 248.19 EUR
 currency: EUR
 price: 248.19

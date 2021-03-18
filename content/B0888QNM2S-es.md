@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0888QNM2S-es Xiaomi Redmi Note 9 Pro - Smartphone con pantalla FHD+...'
 sku: 'B0888QNM2S-es'
-tags: [  ]
 actualPrice: 220.0 EUR
 currency: EUR
 price: 220.0

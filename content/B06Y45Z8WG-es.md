@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y45Z8WG-es American Tourister - Soundbox Spinner Expandible 67cm 71...'
 sku: 'B06Y45Z8WG-es'
-tags: [  ]
 actualPrice: 115.17 EUR
 currency: EUR
 price: 115.17

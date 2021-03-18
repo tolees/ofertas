@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JDX3X7D-es DUNLOP Explosion Sport Naranja Fluor'
 sku: 'B07JDX3X7D-es'
-tags: [  ]
 actualPrice: 74.22 EUR
 currency: EUR
 price: 74.22

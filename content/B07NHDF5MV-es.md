@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NHDF5MV-es Adidas Terrex Ax3 Mid GTX W Zapatillas de Deporte para...'
 sku: 'B07NHDF5MV-es'
-tags: [  ]
 actualPrice: 55.31 EUR
 currency: EUR
 price: 55.31

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000CD9U6A-es Pyrex Classic Vidrio - Fuente rectangular 38 x 25 cm'
 sku: 'B000CD9U6A-es'
-tags: [  ]
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

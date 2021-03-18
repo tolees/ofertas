@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B1NVCEC-es Philips OneBlade QP2530/30 - Recortador de Barba con 4...'
 sku: 'B01B1NVCEC-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

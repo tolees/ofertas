@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLXB2HC-es BERSIGAR 100 medidor de Resistencia al Agua Reloj...'
 sku: 'B07QLXB2HC-es'
-tags: [  ]
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

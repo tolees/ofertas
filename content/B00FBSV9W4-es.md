@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FBSV9W4-es SanDisk SDCFXPS-256G-X46 256 GB Extreme Pro 160 MB/s...'
 sku: 'B00FBSV9W4-es'
-tags: [  ]
 actualPrice: 232.44 EUR
 currency: EUR
 price: 232.44

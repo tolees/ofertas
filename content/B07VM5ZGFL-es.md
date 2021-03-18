@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VM5ZGFL-es Cecotec Aspirador motor digital Congal RockStar 500...'
 sku: 'B07VM5ZGFL-es'
-tags: [ 'cecotec', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

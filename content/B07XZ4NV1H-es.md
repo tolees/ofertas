@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XZ4NV1H-es SHENMATE Envoltorio Cera De Abeja Beeswax Wrap Natural...'
 sku: 'B07XZ4NV1H-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

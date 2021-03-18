@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HR4DTC-es adidas Core18 PES Jkt Chaqueta de Deporte Hombre Negro...'
 sku: 'B076HR4DTC-es'
-tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

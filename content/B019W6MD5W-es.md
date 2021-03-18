@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019W6MD5W-es Maybelline New York Pintalabios Color Sensational Tono 207...'
 sku: 'B019W6MD5W-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

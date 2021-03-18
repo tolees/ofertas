@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MVWJZVS-es Western Digital - WD My Passport Go 500 GB disco duro...'
 sku: 'B07MVWJZVS-es'
-tags: [  ]
 actualPrice: 75.47 EUR
 currency: EUR
 price: 75.47

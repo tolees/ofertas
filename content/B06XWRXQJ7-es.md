@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XWRXQJ7-es Dove Go Fresh Pera Desodorante Roll On 50 ml'
 sku: 'B06XWRXQJ7-es'
-tags: [  ]
 actualPrice: 1.31 EUR
 currency: EUR
 price: 1.31

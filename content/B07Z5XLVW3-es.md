@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z5XLVW3-es Fidech Potente Masajeador Portátil 7 Modos de Vibración...'
 sku: 'B07Z5XLVW3-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

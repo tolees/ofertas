@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005EVT4Z2-es Cars 2'
 sku: 'B005EVT4Z2-es'
-tags: [  ]
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

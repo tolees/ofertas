@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075P5ZK9V-es Smint Tin Limón Caramelo Comprimido Sin Azúcar - 12...'
 sku: 'B075P5ZK9V-es'
-tags: [  ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

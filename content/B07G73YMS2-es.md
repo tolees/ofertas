@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G73YMS2-es XLEADER SoundAngel A8 3 Gen Altavoz Bluetooth Bajo de 5W...'
 sku: 'B07G73YMS2-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

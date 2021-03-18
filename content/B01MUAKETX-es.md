@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUAKETX-es Sennheiser Momentum - Auriculares In-Ear inalámbricos...'
 sku: 'B01MUAKETX-es'
-tags: [  ]
 actualPrice: 65.54 EUR
 currency: EUR
 price: 65.54

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MSVLM9H-es PIKOLINOS Deportivo de Piel Liverpool M2A'
 sku: 'B07MSVLM9H-es'
-tags: [  ]
 actualPrice: 78.93 EUR
 currency: EUR
 price: 78.93

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XXSJ22P-es GapdiceEK - Zacro Funda Acessorios para Switch Lite 20...'
 sku: 'B07XXSJ22P-es'
-tags: [  ]
 actualPrice: 9.51 EUR
 currency: EUR
 price: 9.51

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QCC76HS-es Adidas Tensaur C Zapatillas de Running Multicolor...'
 sku: 'B07QCC76HS-es'
-tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

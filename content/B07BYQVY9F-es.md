@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BYQVY9F-es Garnier Original Remedies - Champú con Arcilla Suave y...'
 sku: 'B07BYQVY9F-es'
-tags: [  ]
 actualPrice: 2.04 EUR
 currency: EUR
 price: 2.04

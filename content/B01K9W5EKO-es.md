@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01K9W5EKO-es Garmin Forerunner 35- Reloj GPS con monitor de frecuencia...'
 sku: 'B01K9W5EKO-es'
-tags: [  ]
 actualPrice: 93.98 EUR
 currency: EUR
 price: 93.98

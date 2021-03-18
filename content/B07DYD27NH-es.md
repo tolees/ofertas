@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYD27NH-es Trust Gaming GXT 715 - Alfombrilla para Silla Gaming Color...'
 sku: 'B07DYD27NH-es'
-tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

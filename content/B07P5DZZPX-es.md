@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5DZZPX-es HandFan Ventilador de Mano Mini Ventilador portátil de...'
 sku: 'B07P5DZZPX-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYM1KQX-es Hurley M Work Trucker Jacket L'
 sku: 'B08GYM1KQX-es'
-tags: [  ]
 actualPrice: 54.23 EUR
 currency: EUR
 price: 54.23

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C7WSGYC-es Linksys VLP0103 - Sistema Velop WiFi mesh dual band para...'
 sku: 'B07C7WSGYC-es'
-tags: [  ]
 actualPrice: 204.99 EUR
 currency: EUR
 price: 204.99

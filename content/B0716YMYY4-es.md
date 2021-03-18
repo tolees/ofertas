@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0716YMYY4-es adidas Cloudfoam Ultimate Zapatillas para Hombre Negro...'
 sku: 'B0716YMYY4-es'
-tags: [  ]
 actualPrice: 44.21 EUR
 currency: EUR
 price: 44.21

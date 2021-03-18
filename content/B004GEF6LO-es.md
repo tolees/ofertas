@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004GEF6LO-es Bering Classic - Reloj analógico de caballero de cuarzo...'
 sku: 'B004GEF6LO-es'
-tags: [  ]
 actualPrice: 104.0 EUR
 currency: EUR
 price: 104.0

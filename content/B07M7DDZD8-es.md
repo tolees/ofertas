@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M7DDZD8-es The Bellies From Bellyville - The Bellies - Mini Muak-Muak...'
 sku: 'B07M7DDZD8-es'
-tags: [  ]
 actualPrice: 8.6 EUR
 currency: EUR
 price: 8.6

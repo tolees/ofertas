@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008MLQITQ-es Converse All Star Hi - Zapatillas unisex Negro Black 35 EU'
 sku: 'B008MLQITQ-es'
-tags: [  ]
 actualPrice: 32.8 EUR
 currency: EUR
 price: 32.8

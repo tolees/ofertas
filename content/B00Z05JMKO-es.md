@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Z05JMKO-es Rankie Cable DisplayPort DP a HDMI 4K Resolución 1 8 m Negro'
 sku: 'B00Z05JMKO-es'
-tags: [  ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

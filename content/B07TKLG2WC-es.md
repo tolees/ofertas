@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKLG2WC-es Armani ExchangeShiny Liz - Small Shoulder...'
 sku: 'B07TKLG2WC-es'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

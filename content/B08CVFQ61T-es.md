@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CVFQ61T-es YABER - Pistola de Masaje Muscular Masajeador de Músculos...'
 sku: 'B08CVFQ61T-es'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

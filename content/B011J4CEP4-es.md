@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B011J4CEP4-es AmazonBasics - Amazon Basics NC1506164H - Funda para...'
 sku: 'B011J4CEP4-es'
-tags: [  ]
 actualPrice: 10.38 EUR
 currency: EUR
 price: 10.38

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CVSTLF8-es XuanPad Proyector 2020 Mini Proyector Multimedia Vídeo...'
 sku: 'B07CVSTLF8-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

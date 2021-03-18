@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2ZQ91F-es Calcetines de Senderismo de Lana Merino 3 pares Gris Claro...'
 sku: 'B07T2ZQ91F-es'
-tags: [  ]
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

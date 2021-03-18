@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FRX55V3-es Shadows Awakening'
 sku: 'B07FRX55V3-es'
-tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RSLMM4K-es Mula 4k Uhd [Blu-ray]'
 sku: 'B07RSLMM4K-es'
-tags: [  ]
 actualPrice: 14.24 EUR
 currency: EUR
 price: 14.24

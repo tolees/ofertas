@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1K3CXC-es Clarks Orinoco Dusk Botas Estilo Motero para Mujer Marrón...'
 sku: 'B07N1K3CXC-es'
-tags: [  ]
 actualPrice: 25.25 EUR
 currency: EUR
 price: 25.25

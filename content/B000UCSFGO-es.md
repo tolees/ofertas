@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000UCSFGO-es Hauck Cuna de Viaje Dream N Play para Bebes y Niños de...'
 sku: 'B000UCSFGO-es'
-tags: [  ]
 actualPrice: 41.94 EUR
 currency: EUR
 price: 41.94

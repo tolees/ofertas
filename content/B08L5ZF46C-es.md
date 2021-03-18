@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L5ZF46C-es BeWlaner Repetidor WiFi 300Mbps Extensor WiFi Amplificador...'
 sku: 'B08L5ZF46C-es'
-tags: [  ]
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

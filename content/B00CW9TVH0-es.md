@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CW9TVH0-es BaByliss BAB2665E Rizador de pelo automático cerámico...'
 sku: 'B00CW9TVH0-es'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

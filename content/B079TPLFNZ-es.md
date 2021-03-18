@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079TPLFNZ-es Funko - Figura Super Racers Five Nights at Freddy S Cupcake'
 sku: 'B079TPLFNZ-es'
-tags: [  ]
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

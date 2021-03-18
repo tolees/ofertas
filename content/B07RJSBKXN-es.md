@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJSBKXN-es FNTSIC - Bolsas de hombro ligeras de camuflaje para niños...'
 sku: 'B07RJSBKXN-es'
-tags: [  ]
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

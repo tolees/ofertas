@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VJLK2YK-es Nike Pico 5 TDV Gymnastics Shoe Unisex niños...'
 sku: 'B07VJLK2YK-es'
-tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

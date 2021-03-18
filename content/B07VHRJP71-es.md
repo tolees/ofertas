@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHRJP71-es Desigual Blus Verona Azul Navy 5000 X-Large para Mujer'
 sku: 'B07VHRJP71-es'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

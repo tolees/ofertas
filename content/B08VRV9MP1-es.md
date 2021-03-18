@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VRV9MP1-es Hodozzy - Radio Coche Bluetooth 2 DIN - Autoradio Coche...'
 sku: 'B08VRV9MP1-es'
-tags: [  ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

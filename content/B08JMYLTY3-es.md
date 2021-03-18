@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JMYLTY3-es Selecta Visión - Carreras Con Ryan - Edición Especial'
 sku: 'B08JMYLTY3-es'
-tags: [  ]
 actualPrice: 14.08 EUR
 currency: EUR
 price: 14.08

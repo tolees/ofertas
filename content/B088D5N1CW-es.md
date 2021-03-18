@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088D5N1CW-es Suhctup Funda Compatible para Xiaomi Redmi Note 8T Carcasa...'
 sku: 'B088D5N1CW-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

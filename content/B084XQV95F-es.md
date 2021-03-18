@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084XQV95F-es Ymea Vientre Plano | Tratamiento de la Menopausia |...'
 sku: 'B084XQV95F-es'
-tags: [  ]
 actualPrice: 18.17 EUR
 currency: EUR
 price: 18.17

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8MNXDP-es TOMMY CORE BACKPACKHombreMonederosAzul Sky Captain...'
 sku: 'B07N8MNXDP-es'
-tags: [  ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

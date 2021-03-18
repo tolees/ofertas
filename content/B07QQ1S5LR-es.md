@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQ1S5LR-es Calvin Klein Thong Tanga para Mujer Gris Grey Heather 020...'
 sku: 'B07QQ1S5LR-es'
-tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

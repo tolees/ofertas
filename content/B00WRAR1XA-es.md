@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WRAR1XA-es Olay Regenerist Luminous Hidratante Crema facial...'
 sku: 'B00WRAR1XA-es'
-tags: [  ]
 actualPrice: 19.28 EUR
 currency: EUR
 price: 19.28

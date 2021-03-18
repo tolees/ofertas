@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IZ4CUD8-es Geomag Mechanics Construcciones magnéticas y juegos...'
 sku: 'B00IZ4CUD8-es'
-tags: [  ]
 actualPrice: 36.3 EUR
 currency: EUR
 price: 36.3

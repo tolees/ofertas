@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RS1HB6T-es Flosser de agua TUREWELL Irrigador bucal dental...'
 sku: 'B07RS1HB6T-es'
-tags: [  ]
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

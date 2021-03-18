@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MHDV7T-es Calcetines de Deporte Low Cut Pack de 5 Multicolor EU 35-38'
 sku: 'B075MHDV7T-es'
-tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

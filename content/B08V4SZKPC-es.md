@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V4SZKPC-es Coriver Whack A Mole Game Counting Score Montessori Toys...'
 sku: 'B08V4SZKPC-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

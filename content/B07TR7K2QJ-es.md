@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TR7K2QJ-es Comando G - La Batalla de los Planetas Serie Completa 7...'
 sku: 'B07TR7K2QJ-es'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

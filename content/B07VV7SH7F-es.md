@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VV7SH7F-es FITTOO Mallas Leggings Mujer Pantalones Deportivos oga...'
 sku: 'B07VV7SH7F-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

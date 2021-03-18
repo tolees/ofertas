@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079NLTH1F-es Festina Reloj de Pulsera F20346/2'
 sku: 'B079NLTH1F-es'
-tags: [  ]
 actualPrice: 71.11 EUR
 currency: EUR
 price: 71.11

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVVC7SZ-es Skechers Equalizer 4.0 Zapatillas para Hombre Azul Navy...'
 sku: 'B07TVVC7SZ-es'
-tags: [  ]
 actualPrice: 33.92 EUR
 currency: EUR
 price: 33.92

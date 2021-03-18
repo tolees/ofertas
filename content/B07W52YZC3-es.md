@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W52YZC3-es HOMESTEC Tableta Escritura LCD Color Pizarra Digital para...'
 sku: 'B07W52YZC3-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

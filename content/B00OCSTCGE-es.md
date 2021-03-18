@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OCSTCGE-es Columbia Tech Shade Hat Gorra Unisex Adulto Blanco White...'
 sku: 'B00OCSTCGE-es'
-tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FXGDB6-es Casio EDIFICE Reloj en caja sólida 10 BAR Negro para...'
 sku: 'B079FXGDB6-es'
-tags: [  ]
 actualPrice: 58.84 EUR
 currency: EUR
 price: 58.84

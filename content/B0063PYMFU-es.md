@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0063PYMFU-es Baby Art 34120085 - Marco para fotos recuerdo del primer...'
 sku: 'B0063PYMFU-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

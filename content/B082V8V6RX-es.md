@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082V8V6RX-es Rucae - Juego de tornillos para ordenador portátil 500...'
 sku: 'B082V8V6RX-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

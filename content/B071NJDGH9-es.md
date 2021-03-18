@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071NJDGH9-es VIALMAN Colcha Marino Cama 150 : 250 CM X 270 CM'
 sku: 'B071NJDGH9-es'
-tags: [  ]
 actualPrice: 31.27 EUR
 currency: EUR
 price: 31.27

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0055ZNETE-es Orbegozo FH 5008 - Calefactor eléctrico con dos niveles de...'
 sku: 'B0055ZNETE-es'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P5HKG6H-es Maclaren Quest arc Silla de paseo - ligero manillar unido...'
 sku: 'B07P5HKG6H-es'
-tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

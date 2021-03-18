@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAOFHRO-es Mousehouse Gifts Perro de Madera para Arrastrar con...'
 sku: 'B00XAOFHRO-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

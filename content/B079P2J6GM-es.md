@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079P2J6GM-es Fitbit Ionic Adidas Edition El Smartwatch Deportivo Azul...'
 sku: 'B079P2J6GM-es'
-tags: [  ]
 actualPrice: 184.95 EUR
 currency: EUR
 price: 184.95

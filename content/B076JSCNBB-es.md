@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076JSCNBB-es Varlion Hexagon Azul - Paletero de pádel Unisex Adulto...'
 sku: 'B076JSCNBB-es'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

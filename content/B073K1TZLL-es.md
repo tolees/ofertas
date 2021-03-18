@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073K1TZLL-es Reebok Royal Complete Zapatillas para Hombre Negro Black...'
 sku: 'B073K1TZLL-es'
-tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

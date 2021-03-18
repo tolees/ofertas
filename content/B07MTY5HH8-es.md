@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MTY5HH8-es Logitech G635 Auriculares Gaming RGB con Cable Sonido 7.1...'
 sku: 'B07MTY5HH8-es'
-tags: [  ]
 actualPrice: 96.98 EUR
 currency: EUR
 price: 96.98

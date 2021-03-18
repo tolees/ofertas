@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077CX8Y2Z-es Diesel S-Clever Low Zapatillas para Hombre Blanco H4034...'
 sku: 'B077CX8Y2Z-es'
-tags: [  ]
 actualPrice: 33.09 EUR
 currency: EUR
 price: 33.09

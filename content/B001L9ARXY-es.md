@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001L9ARXY-es Babaria Aloe Vera - Gel exfoliante facial 150 ml'
 sku: 'B001L9ARXY-es'
-tags: [  ]
 actualPrice: 2.36 EUR
 currency: EUR
 price: 2.36

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HH7TS5W-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B00HH7TS5W-es'
-tags: [  ]
 actualPrice: 81.63 EUR
 currency: EUR
 price: 81.63

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EV5E3TI-es IntimaTe WM Heart Giratoria de Oficina Silla de Escritorio...'
 sku: 'B01EV5E3TI-es'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

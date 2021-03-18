@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JWTTJZD-es Bohemian Rhapsody Blu-Ray [Blu-ray]'
 sku: 'B07JWTTJZD-es'
-tags: [  ]
 actualPrice: 9.55 EUR
 currency: EUR
 price: 9.55

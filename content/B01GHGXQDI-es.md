@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GHGXQDI-es Vidal Cintas Multicolor Golosina - Paquete con 14 bolsitas...'
 sku: 'B01GHGXQDI-es'
-tags: [  ]
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

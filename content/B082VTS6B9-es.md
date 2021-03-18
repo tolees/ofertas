@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VTS6B9-es Lenor Unstoppables Dreams Perlas de Perfume para la Ropa...'
 sku: 'B082VTS6B9-es'
-tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

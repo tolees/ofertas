@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0784VTSDF-es Asics Chaussures Gecko XT'
 sku: 'B0784VTSDF-es'
-tags: [  ]
 actualPrice: 44.79 EUR
 currency: EUR
 price: 44.79

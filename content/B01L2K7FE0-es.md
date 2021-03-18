@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L2K7FE0-es BaByliss C1300E Rizador de pelo automático con 2 cabezales...'
 sku: 'B01L2K7FE0-es'
-tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

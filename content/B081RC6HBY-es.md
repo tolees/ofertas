@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RC6HBY-es BRIKSMAX Kit de Iluminación Led para Lego Hidden Side...'
 sku: 'B081RC6HBY-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

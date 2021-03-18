@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00N9PX4C4-es Taurus Pop N Corn Máquina para hacer palomitas 1100 W...'
 sku: 'B00N9PX4C4-es'
-tags: [  ]
 actualPrice: 27.91 EUR
 currency: EUR
 price: 27.91

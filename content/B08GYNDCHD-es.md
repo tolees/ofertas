@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYNDCHD-es Hurley M Native S/S'
 sku: 'B08GYNDCHD-es'
-tags: [  ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5

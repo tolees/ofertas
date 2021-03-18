@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7EIQ32-es Mayting 3 pcs Pulsera de Piedra Natural de Ojo de Tigre...'
 sku: 'B01N7EIQ32-es'
-tags: [  ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

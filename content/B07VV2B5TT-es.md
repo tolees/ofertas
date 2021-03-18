@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VV2B5TT-es Kollea Bolsas de Silicona Reutilizables 12 Pack Bolsas de...'
 sku: 'B07VV2B5TT-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

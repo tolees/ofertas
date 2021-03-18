@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WZ7F5TM-es San Ignacio Galaxy - Sartén diámetro de 24 cm'
 sku: 'B00WZ7F5TM-es'
-tags: [  ]
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HETFQA8-es Bose ® QuietControl ™ 30 - Auriculares inalámbricos Color...'
 sku: 'B01HETFQA8-es'
-tags: [  ]
 actualPrice: 119.2 EUR
 currency: EUR
 price: 119.2

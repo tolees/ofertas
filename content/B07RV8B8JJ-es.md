@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RV8B8JJ-es Adidas Originals Continental 80 Zapatillas para Correr...'
 sku: 'B07RV8B8JJ-es'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

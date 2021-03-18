@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVKQXGF-es Levoit Purificador de Aire para Hogar Oficina y Escritorio...'
 sku: 'B07FVKQXGF-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

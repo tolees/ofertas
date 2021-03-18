@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3NJR1Y-es Giochi preziosi-DND05001 Frozen Busto Maquillaje y...'
 sku: 'B07S3NJR1Y-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

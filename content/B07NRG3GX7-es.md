@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NRG3GX7-es B Blesiya Sillón Sofá Infantil Personalizado de Espuma...'
 sku: 'B07NRG3GX7-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

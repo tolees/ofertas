@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AWQ0U4I-es Kaweco - Cartuchos de tinta 6 unidades color azul'
 sku: 'B00AWQ0U4I-es'
-tags: [  ]
 actualPrice: 5.63 EUR
 currency: EUR
 price: 5.63

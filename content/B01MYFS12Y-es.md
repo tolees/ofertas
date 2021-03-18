@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MYFS12Y-es Philips Avent SCF213/22 - Pack de dos chupetes ultra...'
 sku: 'B01MYFS12Y-es'
-tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

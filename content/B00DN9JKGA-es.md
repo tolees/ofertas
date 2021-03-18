@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DN9JKGA-es GYNEA Complemento Alimenticio - 100 gr'
 sku: 'B00DN9JKGA-es'
-tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

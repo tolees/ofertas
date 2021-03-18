@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX23TW7-es Air Wick Ambientador Freshmatic Recambio - Fragancia...'
 sku: 'B01LX23TW7-es'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

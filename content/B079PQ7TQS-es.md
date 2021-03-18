@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PQ7TQS-es Funko Pop- Pop Marvel: Avengers: Infinity War-Captain...'
 sku: 'B079PQ7TQS-es'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

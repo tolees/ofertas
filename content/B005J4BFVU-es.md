@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005J4BFVU-es Wonderbra BH UPtoDAY Sujetador Negro 1001 Schwarz 100B...'
 sku: 'B005J4BFVU-es'
-tags: [  ]
 actualPrice: 21.62 EUR
 currency: EUR
 price: 21.62

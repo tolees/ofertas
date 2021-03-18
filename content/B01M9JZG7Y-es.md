@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M9JZG7Y-es POP! Vinilo - Lost: Kate Austen'
 sku: 'B01M9JZG7Y-es'
-tags: [  ]
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

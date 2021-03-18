@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KXR92NJ-es eufy BoostIQ RoboVac 15C Robot Aspirador Wi-Fi Ultra Fino...'
 sku: 'B07KXR92NJ-es'
-tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

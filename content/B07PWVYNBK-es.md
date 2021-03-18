@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PWVYNBK-es [4-Pack] SPARIN Protector Pantalla Redmi Note 7/Note 8...'
 sku: 'B07PWVYNBK-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

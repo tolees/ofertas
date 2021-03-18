@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRXQKQD-es SALOMON Comet Warm Tight W Mallas para Running Mezcla de...'
 sku: 'B07KRXQKQD-es'
-tags: [  ]
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

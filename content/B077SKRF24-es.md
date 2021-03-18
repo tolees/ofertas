@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077SKRF24-es LolaPix Cojin Personalizado con Foto. Regalos...'
 sku: 'B077SKRF24-es'
-tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

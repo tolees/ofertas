@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01H4CWAG8-es PUMA Tazon 6 FM Zapatillas de Cross Hombre Blanco...'
 sku: 'B01H4CWAG8-es'
-tags: [  ]
 actualPrice: 43.52 EUR
 currency: EUR
 price: 43.52

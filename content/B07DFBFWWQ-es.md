@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFBFWWQ-es Pop! Crash Bandicoot - Figura de Vinilo Coco Bandicoot'
 sku: 'B07DFBFWWQ-es'
-tags: [  ]
 actualPrice: 9.71 EUR
 currency: EUR
 price: 9.71

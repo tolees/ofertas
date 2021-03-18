@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7P3UI0-es KANZY HAIR AND BEAUTY - Kanzy Maquinilla de Afeitar...'
 sku: 'B01N7P3UI0-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

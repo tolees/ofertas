@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086K9XBPZ-es MARTINELLI Botín de Piel POMPIDOU 1507'
 sku: 'B086K9XBPZ-es'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

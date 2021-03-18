@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B42SWMC-es So Sand DIY- Arena mágica Canal Toys SDD 016'
 sku: 'B08B42SWMC-es'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AQKVMH4-es ROGER ORFEVRE Guillotina para Cortar Embutidos - SO APERO...'
 sku: 'B00AQKVMH4-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BGSQ8WQ-es PETCUTE Gateras Puerta Magnética Puerta para Mascotas...'
 sku: 'B07BGSQ8WQ-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

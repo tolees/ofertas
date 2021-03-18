@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KW31VK9-es Jelly Comb Funda con Teclado Español Ñ para Samsung Galaxy...'
 sku: 'B08KW31VK9-es'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

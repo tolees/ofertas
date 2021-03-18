@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IJOKP22-es Russell Hobbs Classics - Panificadora 660 W Digital 12...'
 sku: 'B00IJOKP22-es'
-tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

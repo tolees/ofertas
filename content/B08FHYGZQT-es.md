@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FHYGZQT-es TiMOVO Protector Compatible con Galaxy Tab A7 10.4 2020 [2...'
 sku: 'B08FHYGZQT-es'
-tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

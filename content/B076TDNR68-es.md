@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076TDNR68-es Skechers Summits Zapatillas Deportivas Mujer Azul Navy...'
 sku: 'B076TDNR68-es'
-tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','skechers', ]
 actualPrice: 29.77 EUR
 currency: EUR
 price: 29.77

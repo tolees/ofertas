@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TJMN7D-es Lacoste Aesthet Luxe 0320 1 SMA Zapatillas Hombre Negro...'
 sku: 'B082TJMN7D-es'
-tags: [  ]
 actualPrice: 49.25 EUR
 currency: EUR
 price: 49.25

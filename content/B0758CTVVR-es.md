@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0758CTVVR-es Amazon Basics - Parque de juegos y ejercicios para...'
 sku: 'B0758CTVVR-es'
-tags: [  ]
 actualPrice: 28.59 EUR
 currency: EUR
 price: 28.59

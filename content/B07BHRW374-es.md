@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BHRW374-es Hisense H55U7A - TV Hisense 55" ULED 4K Ultra HD HDR...'
 sku: 'B07BHRW374-es'
-tags: [  ]
 actualPrice: 400.0 EUR
 currency: EUR
 price: 400.0

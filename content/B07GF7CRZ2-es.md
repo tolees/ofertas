@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GF7CRZ2-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07GF7CRZ2-es'
-tags: [  ]
 actualPrice: 104.8 EUR
 currency: EUR
 price: 104.8

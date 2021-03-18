@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TLFMVCC-es Levi s 511 Slim Shorts Pantalones Cortos Azul Baguette...'
 sku: 'B07TLFMVCC-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

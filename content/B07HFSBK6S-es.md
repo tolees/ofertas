@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HFSBK6S-es Calvin Klein Reloj Analógico para Hombre de Automático con...'
 sku: 'B07HFSBK6S-es'
-tags: [  ]
 actualPrice: 205.5 EUR
 currency: EUR
 price: 205.5

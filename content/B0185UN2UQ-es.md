@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0185UN2UQ-es Kärcher K5 Full Control Home - Hidrolimpiadora de alta...'
 sku: 'B0185UN2UQ-es'
-tags: [  ]
 actualPrice: 292.9 EUR
 currency: EUR
 price: 292.9

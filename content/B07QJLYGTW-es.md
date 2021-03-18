@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJLYGTW-es Maggi Pasta Oriental Xxl Thai Curry 185g'
 sku: 'B07QJLYGTW-es'
-tags: [ 'maggi', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OE1B3JS-es Trust Gaming GXT 220 - Base de refrigeración para...'
 sku: 'B00OE1B3JS-es'
-tags: [ 'trust gaming', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

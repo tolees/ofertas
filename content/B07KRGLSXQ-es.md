@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRGLSXQ-es New Balance Yc373v1 n Zapatillas para Niñas Plateado...'
 sku: 'B07KRGLSXQ-es'
-tags: [  ]
 actualPrice: 24.4 EUR
 currency: EUR
 price: 24.4

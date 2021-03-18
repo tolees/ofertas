@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMT7HB6-es Kickers 584348-10 Botas Unisex bebé Azul Marine Foncé Perm...'
 sku: 'B07FMT7HB6-es'
-tags: [  ]
 actualPrice: 24.12 EUR
 currency: EUR
 price: 24.12

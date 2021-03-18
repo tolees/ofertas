@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H9PSCLV-es Apple Funda Silicone Case para el iPhone XS Max - Rosa arena'
 sku: 'B07H9PSCLV-es'
-tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

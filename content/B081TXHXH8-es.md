@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081TXHXH8-es Luces solares al aire libre 100 LED 8 modos Luces solares...'
 sku: 'B081TXHXH8-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

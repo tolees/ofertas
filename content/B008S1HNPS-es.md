@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008S1HNPS-es GELID SOLUTIONS Silent 6 de 3 Pines de 60mm para la...'
 sku: 'B008S1HNPS-es'
-tags: [  ]
 actualPrice: 5.56 EUR
 currency: EUR
 price: 5.56

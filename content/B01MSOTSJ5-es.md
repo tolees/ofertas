@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MSOTSJ5-es iSmart Alarm Paquete inteligente de seguridad para el...'
 sku: 'B01MSOTSJ5-es'
-tags: [  ]
 actualPrice: 65.68 EUR
 currency: EUR
 price: 65.68

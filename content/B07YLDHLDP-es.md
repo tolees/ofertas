@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLDHLDP-es Philips D4702B/34 - Pack de 2 Teléfonos Fijos Inalámbricos...'
 sku: 'B07YLDHLDP-es'
-tags: [  ]
 actualPrice: 48.36 EUR
 currency: EUR
 price: 48.36

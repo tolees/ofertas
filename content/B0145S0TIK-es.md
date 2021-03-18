@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0145S0TIK-es Hoover Sprint Evo SE51 - Aspiradora sin bolsa ciclónico...'
 sku: 'B0145S0TIK-es'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

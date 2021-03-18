@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01G9FKP9U-es M3 MEDIATRES ESTUDIO - El redentor'
 sku: 'B01G9FKP9U-es'
-tags: [  ]
 actualPrice: 4.64 EUR
 currency: EUR
 price: 4.64

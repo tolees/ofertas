@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS71SGD-es Tommy Hilfiger - Textured Mini Cc Wallet Carteras Hombre...'
 sku: 'B07RS71SGD-es'
-tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

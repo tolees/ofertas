@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002OHDBLW-es De longhi ECAM 23.420.SB - Cafetera Superautomática 15...'
 sku: 'B002OHDBLW-es'
-tags: [  ]
 actualPrice: 399.99 EUR
 currency: EUR
 price: 399.99

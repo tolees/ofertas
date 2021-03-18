@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Y2F1MY-es Skechers On-The-go 600-Foxy Sandalia con Pulsera para...'
 sku: 'B075Y2F1MY-es'
-tags: [  ]
 actualPrice: 19.15 EUR
 currency: EUR
 price: 19.15

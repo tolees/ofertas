@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009X6UZZM-es Lexmark 50F2U0E - Tóner capacidad 20000 páginas'
 sku: 'B009X6UZZM-es'
-tags: [  ]
 actualPrice: 185 EUR
 currency: EUR
 price: 185

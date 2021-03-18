@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK2R55T-es Saucony Xodus ISO 3 Hombre Verde Amarillo 42.5 EU'
 sku: 'B07KK2R55T-es'
-tags: [  ]
 actualPrice: 65.59 EUR
 currency: EUR
 price: 65.59

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HQYK8K-es Adidas Regista 18 Track Top Chaqueta Deportiva Hombre Rojo...'
 sku: 'B076HQYK8K-es'
-tags: [ 'adidas', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

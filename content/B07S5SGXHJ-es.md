@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S5SGXHJ-es Love MoschinoJc4094pp1aMujerBolsos bandoleraBeige Naturale...'
 sku: 'B07S5SGXHJ-es'
-tags: [  ]
 actualPrice: 108.83 EUR
 currency: EUR
 price: 108.83

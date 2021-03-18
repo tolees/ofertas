@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R1KXYX-es 50x56cm Manta Electrica Espalda y Cuello Almohadilla...'
 sku: 'B075R1KXYX-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

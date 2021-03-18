@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081F53RLL-es Bolsas de Almacenamiento de Leche Materna de Eccomum 100...'
 sku: 'B081F53RLL-es'
-tags: [ 'Accesorios para la lactancia','Accesorios para sillas de coche','Bebé','Blu-ray','Bélico','Camisas casual para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Comunicación móvil y accesorios','Cubertería, Vajilla y Cristalería','Electrónica','Espejos para asientos traseros','Featured Categories','Hogar y cocina','Lactancia y alimentación','Móviles','Móviles y smartphones libres','Películas','Películas y TV','Piezas de vajilla','Recipientes para leche materna','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Sillas de coche y accesorios','Tazas','Tazas de té','eccomum', ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

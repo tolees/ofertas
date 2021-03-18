@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FD5VG8B-es MVMT Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B07FD5VG8B-es'
-tags: [  ]
 actualPrice: 94.13 EUR
 currency: EUR
 price: 94.13

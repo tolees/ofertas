@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3XXWF9-es La Toja - Espuma Afeitado Protect 7 - Enriquecida con...'
 sku: 'B07N3XXWF9-es'
-tags: [  ]
 actualPrice: 2.71 EUR
 currency: EUR
 price: 2.71

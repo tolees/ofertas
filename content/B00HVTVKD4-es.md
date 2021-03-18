@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HVTVKD4-es Superga 2750 COTU Classic Zapatillas de Gimnasia Unisexo...'
 sku: 'B00HVTVKD4-es'
-tags: [  ]
 actualPrice: 36.38 EUR
 currency: EUR
 price: 36.38

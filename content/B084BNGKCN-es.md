@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084BNGKCN-es HelpCuisine Molde para Helados/Moldes de Polos - Juego de...'
 sku: 'B084BNGKCN-es'
-tags: [  ]
 actualPrice: 14.38 EUR
 currency: EUR
 price: 14.38

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H4KCNTV-es WAVLINK Repetidor WiFi 5g AC750 Amplificador WiFi de Doble...'
 sku: 'B08H4KCNTV-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

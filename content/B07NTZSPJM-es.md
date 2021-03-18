@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NTZSPJM-es loonBonnie Nueva Tela Grandes Arco broches para Las...'
 sku: 'B07NTZSPJM-es'
-tags: [  ]
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

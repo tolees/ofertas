@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PPBQP5-es SHIELDON Funda Portátil 13-13.3 Pulgadas Funda Ordenador...'
 sku: 'B082PPBQP5-es'
-tags: [  ]
 actualPrice: 17.94 EUR
 currency: EUR
 price: 17.94

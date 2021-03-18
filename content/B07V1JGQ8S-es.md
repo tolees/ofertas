@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1JGQ8S-es Nike Pico 5 TDV Gymnastics Shoe Unisex-Baby Black/Black 26 EU'
 sku: 'B07V1JGQ8S-es'
-tags: [  ]
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

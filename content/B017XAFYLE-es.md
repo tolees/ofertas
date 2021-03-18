@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017XAFYLE-es Karcher - Kärcher Pistola pulverizadora para riego...'
 sku: 'B017XAFYLE-es'
-tags: [  ]
 actualPrice: 7.24 EUR
 currency: EUR
 price: 7.24

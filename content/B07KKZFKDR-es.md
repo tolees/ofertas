@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KKZFKDR-es Joseph Joseph Froach Pods Juego de 2 recipientes Redondos...'
 sku: 'B07KKZFKDR-es'
-tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

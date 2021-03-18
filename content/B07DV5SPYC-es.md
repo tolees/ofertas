@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DV5SPYC-es Columbia Backpedal Outdry Zapatillas de Cross para Mujer...'
 sku: 'B07DV5SPYC-es'
-tags: [  ]
 actualPrice: 38.75 EUR
 currency: EUR
 price: 38.75

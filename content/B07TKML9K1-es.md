@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKML9K1-es K-Swiss Court Winston Zapatillas para Mujer Blanco...'
 sku: 'B07TKML9K1-es'
-tags: [  ]
 actualPrice: 17.11 EUR
 currency: EUR
 price: 17.11

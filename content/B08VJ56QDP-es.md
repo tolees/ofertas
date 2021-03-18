@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJ56QDP-es Ipoouer Soporte plegable para ordenador portátil...'
 sku: 'B08VJ56QDP-es'
-tags: [  ]
 actualPrice: 15.94 EUR
 currency: EUR
 price: 15.94

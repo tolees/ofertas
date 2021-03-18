@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VQYVDT-es Targus TSS959GL 14" Gris maletines para Portátil - Funda...'
 sku: 'B079VQYVDT-es'
-tags: [  ]
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

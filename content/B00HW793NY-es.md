@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HW793NY-es Science4you - Fábrica de los Pegamonstruos - Slime -...'
 sku: 'B00HW793NY-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

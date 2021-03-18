@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072Q18WRJ-es Fluchos | Zapato de Hombre | HERACLES 8412 Memory Negro...'
 sku: 'B072Q18WRJ-es'
-tags: [ 'fluchos', ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

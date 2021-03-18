@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SFN7KK-es HUTACT Telescopio Terrestre 20-60X80 Telescopio Monocular...'
 sku: 'B083SFN7KK-es'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

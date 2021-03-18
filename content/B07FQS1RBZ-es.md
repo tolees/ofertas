@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FQS1RBZ-es Clarks Cotrell Free Mocasines Hombre Marrón Tobacco...'
 sku: 'B07FQS1RBZ-es'
-tags: [  ]
 actualPrice: 54.5 EUR
 currency: EUR
 price: 54.5

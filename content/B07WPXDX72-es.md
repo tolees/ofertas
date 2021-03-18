@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WPXDX72-es Mochilas Infantiles Mochilas para Niños Niñas Bolsa de...'
 sku: 'B07WPXDX72-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

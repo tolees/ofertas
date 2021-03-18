@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078LLD5M5-es Maybelline New York - Color Sensational Pintalabios Mate...'
 sku: 'B078LLD5M5-es'
-tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LPHUTNA-es Vileda - Recambio de microfibras para mopa Vileda Steam...'
 sku: 'B00LPHUTNA-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

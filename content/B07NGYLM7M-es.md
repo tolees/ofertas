@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGYLM7M-es El Naturalista NG33 Soft Grain YUGEN Botas Clasicas para...'
 sku: 'B07NGYLM7M-es'
-tags: [  ]
 actualPrice: 49.3 EUR
 currency: EUR
 price: 49.3

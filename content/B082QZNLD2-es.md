@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082QZNLD2-es Pulsera de Actividad Inteligente IP67 Impermeable Reloj...'
 sku: 'B082QZNLD2-es'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009WBH2JU-es GREAT ART Perseverancia póster Original - Barney Stinson...'
 sku: 'B009WBH2JU-es'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

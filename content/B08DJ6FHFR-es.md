@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJ6FHFR-es Auriculares Bluetooth BCMASTER Auriculares Inalámbricos...'
 sku: 'B08DJ6FHFR-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

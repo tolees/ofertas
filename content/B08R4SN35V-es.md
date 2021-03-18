@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R4SN35V-es Warner Bros. Entertainment - Kong: La Isla Calavera 4k UHD...'
 sku: 'B08R4SN35V-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQZPLF5-es Springfield Tren Tricolor Cinturón Azul Blue 11 85 Tamaño...'
 sku: 'B07NQZPLF5-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

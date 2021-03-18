@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MS76P3K-es Only Onlturner Shorts Wvn Noos Pantalones Cortos Negro...'
 sku: 'B01MS76P3K-es'
-tags: [  ]
 actualPrice: 10.37 EUR
 currency: EUR
 price: 10.37

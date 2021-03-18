@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BCLLXYM-es Moulinex LM180110 Batidora vaso personal con potencia 800...'
 sku: 'B07BCLLXYM-es'
-tags: [  ]
 actualPrice: 43.05 EUR
 currency: EUR
 price: 43.05

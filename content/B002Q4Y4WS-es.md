@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002Q4Y4WS-es Targus AKP10EU Teclado Numérico'
 sku: 'B002Q4Y4WS-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

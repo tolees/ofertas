@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JWW3XSQ-es Meridiem Games - Fahrenheit 15Th Anniversary Edition'
 sku: 'B08JWW3XSQ-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

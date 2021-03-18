@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FB75NJT-es JBL Tune 115 Auriculares intraaurales inalámbricos con...'
 sku: 'B08FB75NJT-es'
-tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

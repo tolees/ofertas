@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WJPW1WF-es Skechers Darlow Remego Zapatillas para Hombre Negro Black...'
 sku: 'B07WJPW1WF-es'
-tags: [  ]
 actualPrice: 33.02 EUR
 currency: EUR
 price: 33.02

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016UWXU44-es iRobot Braava 390t - Robot friegasuelos 2 en 1: Limpieza...'
 sku: 'B016UWXU44-es'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

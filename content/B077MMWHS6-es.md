@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MMWHS6-es Puma Suede Heart EP Zapatillas Mujer Beige Peach Beige-...'
 sku: 'B077MMWHS6-es'
-tags: [  ]
 actualPrice: 43.89 EUR
 currency: EUR
 price: 43.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QZBW143-es Wondee Global Brands Services Funda de portátil de 13 3"...'
 sku: 'B08QZBW143-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

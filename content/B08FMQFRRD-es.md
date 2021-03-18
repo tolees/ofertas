@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FMQFRRD-es Xiaomi Redmi 9C - Smartphone 32Gb 2Gb Ram Dual Sim...'
 sku: 'B08FMQFRRD-es'
-tags: [  ]
 actualPrice: 97.0 EUR
 currency: EUR
 price: 97.0

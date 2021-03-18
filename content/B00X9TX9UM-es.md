@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X9TX9UM-es Garnier Skin Active Gama Botánica Gel Hidratante...'
 sku: 'B00X9TX9UM-es'
-tags: [ 'garnier', ]
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

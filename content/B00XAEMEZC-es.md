@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAEMEZC-es Finish Abrillantador Lavavajillas Regular 800 ml 160 dosis'
 sku: 'B00XAEMEZC-es'
-tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

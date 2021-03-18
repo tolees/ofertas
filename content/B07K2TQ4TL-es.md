@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K2TQ4TL-es Adidas Continental 80 Zapatillas de Gimnasia Unisex Adulto...'
 sku: 'B07K2TQ4TL-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

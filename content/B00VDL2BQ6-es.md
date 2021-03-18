@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VDL2BQ6-es Nike Court Royale Zapatillas Hombre Azul/Blanco Midnight...'
 sku: 'B00VDL2BQ6-es'
-tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

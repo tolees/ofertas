@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N4ES1XO-es Linksys WHW0302 - Sistema Velop WiFi mesh tribanda para...'
 sku: 'B01N4ES1XO-es'
-tags: [  ]
 actualPrice: 189.98 EUR
 currency: EUR
 price: 189.98

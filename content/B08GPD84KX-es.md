@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPD84KX-es Nobebird - Almohada de masaje masajeador eléctrico con 8...'
 sku: 'B08GPD84KX-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

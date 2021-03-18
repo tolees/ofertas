@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M2R68QE-es Bic Atlantis exacta retráctil Bolígrafo-Azul/Negro/Azul/Rojo'
 sku: 'B00M2R68QE-es'
-tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

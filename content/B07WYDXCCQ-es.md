@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WYDXCCQ-es COOLMAN Pulsera de Cuero Trenzado con Acero Inoxidable...'
 sku: 'B07WYDXCCQ-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

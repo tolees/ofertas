@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q3GBHPD-es The Indian Face Windsurf Gorra Born to Windsurf Hombre y...'
 sku: 'B07Q3GBHPD-es'
-tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

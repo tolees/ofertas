@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRJJ3YH-es THQ NORDIC - Destroy All Humans - PC'
 sku: 'B07SRJJ3YH-es'
-tags: [  ]
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

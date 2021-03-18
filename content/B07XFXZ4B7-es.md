@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XFXZ4B7-es LEGO Star Wars - Casco de Boba Fett Set de Construcción...'
 sku: 'B07XFXZ4B7-es'
-tags: [  ]
 actualPrice: 46.89 EUR
 currency: EUR
 price: 46.89

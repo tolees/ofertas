@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M27LDZL-es Dunlop OMEGA - Pala de pádel 38mm 2017 nivel iniciación...'
 sku: 'B01M27LDZL-es'
-tags: [  ]
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZSR3FM-es LEDKIA LIGHTING Lámpara de Mesa Dayad Blanco Mate'
 sku: 'B08CZSR3FM-es'
-tags: [  ]
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

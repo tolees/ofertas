@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H2PLXZZ-es San Ignacio - Cocina- Batería 11 piezas: 4 cacerolas 4...'
 sku: 'B07H2PLXZZ-es'
-tags: [  ]
 actualPrice: 70.95 EUR
 currency: EUR
 price: 70.95

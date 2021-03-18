@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0783QKK1M-es MagiDeal 4 Pedazos de Tren de Aterrizaje Accesorio...'
 sku: 'B0783QKK1M-es'
-tags: [  ]
 actualPrice: 11.63 EUR
 currency: EUR
 price: 11.63

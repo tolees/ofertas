@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HTTQ6FC-es Vileda Turbo - Juego de fregona con palo telescópico cubo...'
 sku: 'B01HTTQ6FC-es'
-tags: [  ]
 actualPrice: 36.17 EUR
 currency: EUR
 price: 36.17

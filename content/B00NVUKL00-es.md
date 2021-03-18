@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NVUKL00-es Onitsuka Tiger Zapatillas para Unisex adulto Amarillo...'
 sku: 'B00NVUKL00-es'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

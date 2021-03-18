@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H7KWF9K-es Guzack Brazalete Deportivo Brazalete Running Armband Movil...'
 sku: 'B07H7KWF9K-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

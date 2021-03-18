@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BUSDVBQ-es TP-Link AC1750 Archer C7 - Router Gigabit inalámbrico de...'
 sku: 'B00BUSDVBQ-es'
-tags: [  ]
 actualPrice: 61.95 EUR
 currency: EUR
 price: 61.95

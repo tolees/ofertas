@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083VGDXLN-es Dickies PAINCOURTVILLE Camisa Azul Oscuro XS para Hombre'
 sku: 'B083VGDXLN-es'
-tags: [  ]
 actualPrice: 42.8 EUR
 currency: EUR
 price: 42.8

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077K6R4BT-es La Vecina Rubia Pendrive USB 16 GB - con Forma de...'
 sku: 'B077K6R4BT-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

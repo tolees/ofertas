@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KR1P8ZS-es Lysol - Higienizante textil para la ropa elimina olores -...'
 sku: 'B08KR1P8ZS-es'
-tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

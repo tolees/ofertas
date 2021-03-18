@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0876HM8TX-es Sony HT-S20R - Barra de Sonido 5.1 Canales Bluetooth 400 W...'
 sku: 'B0876HM8TX-es'
-tags: [  ]
 actualPrice: 178.42 EUR
 currency: EUR
 price: 178.42

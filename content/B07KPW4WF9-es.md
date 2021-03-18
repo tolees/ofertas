@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPW4WF9-es Funko - Pop! Men in Black International: Agent M Figura De...'
 sku: 'B07KPW4WF9-es'
-tags: [  ]
 actualPrice: 8.41 EUR
 currency: EUR
 price: 8.41

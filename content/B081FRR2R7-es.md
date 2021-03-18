@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081FRR2R7-es Disney - Frozen 2 [DVD]'
 sku: 'B081FRR2R7-es'
-tags: [ 'disney', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

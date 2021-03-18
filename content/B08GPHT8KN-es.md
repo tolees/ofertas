@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPHT8KN-es Samsung Galaxy M51 Smartphone de 6.7" FHD+ | Móvil Libre |...'
 sku: 'B08GPHT8KN-es'
-tags: [  ]
 actualPrice: 289.0 EUR
 currency: EUR
 price: 289.0

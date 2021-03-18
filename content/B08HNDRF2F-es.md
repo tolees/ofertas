@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HNDRF2F-es VoJoPi 5 Pares Calcetines Running Hombre Calcetines...'
 sku: 'B08HNDRF2F-es'
-tags: [ 'vojopi', ]
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

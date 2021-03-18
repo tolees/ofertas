@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HWYQJ38-es Skechers Seager-Power Hitter Merceditas Mujer Multicolor...'
 sku: 'B07HWYQJ38-es'
-tags: [  ]
 actualPrice: 27.47 EUR
 currency: EUR
 price: 27.47

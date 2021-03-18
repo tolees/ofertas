@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T4NBVLC-es REYLEO Maleta de Cabina Rígida Ligera Equipaje de Mano de...'
 sku: 'B07T4NBVLC-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

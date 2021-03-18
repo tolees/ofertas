@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BFCLOAQ-es Reloj para mujer Tommy Hilfiger 1781642 mecanismo de...'
 sku: 'B01BFCLOAQ-es'
-tags: [  ]
 actualPrice: 109.8 EUR
 currency: EUR
 price: 109.8

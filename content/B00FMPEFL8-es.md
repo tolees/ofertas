@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FMPEFL8-es Lékué Multicavidad Magdalenas Rojo Madalena Concha 9 CAV...'
 sku: 'B00FMPEFL8-es'
-tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

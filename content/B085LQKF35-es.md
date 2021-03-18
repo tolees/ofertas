@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LQKF35-es Munich Osaka 446 Zapatillas Unisex Adulto Multicolor 46 EU'
 sku: 'B085LQKF35-es'
-tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

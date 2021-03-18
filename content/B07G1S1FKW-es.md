@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G1S1FKW-es Canon CanoScan LiDE 400 - Escáner plano de sobremesa Negro'
 sku: 'B07G1S1FKW-es'
-tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

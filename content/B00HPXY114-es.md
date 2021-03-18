@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HPXY114-es Olay Regenerist 3 Areas Sistema de Limpieza Facial...'
 sku: 'B00HPXY114-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

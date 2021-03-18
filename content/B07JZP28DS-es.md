@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZP28DS-es Leggings de yoga para mujer cintura alta bolsillos para...'
 sku: 'B07JZP28DS-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

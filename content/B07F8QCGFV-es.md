@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8QCGFV-es TOUCHBeauty Rizador de Pestañas Rizador de Pestañas...'
 sku: 'B07F8QCGFV-es'
-tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

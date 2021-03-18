@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D0FO1LK-es GREAT ART XXL Póster – Manhattan Bridge Nueva York –...'
 sku: 'B01D0FO1LK-es'
-tags: [  ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

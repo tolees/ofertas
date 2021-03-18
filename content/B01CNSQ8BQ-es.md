@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CNSQ8BQ-es royalfirst tablón brasileño Virgen Pelo Humano Pelucas De...'
 sku: 'B01CNSQ8BQ-es'
-tags: [  ]
 actualPrice: 99.89 EUR
 currency: EUR
 price: 99.89

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01671IYZI-es Seiko Reloj Analógico Energía Solar para Hombre con Correa...'
 sku: 'B01671IYZI-es'
-tags: [ 'seiko', ]
 actualPrice: 173.28 EUR
 currency: EUR
 price: 173.28

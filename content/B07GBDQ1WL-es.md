@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GBDQ1WL-es Seiko - Pulsar Reloj cronografo para Hombre de Energía...'
 sku: 'B07GBDQ1WL-es'
-tags: [  ]
 actualPrice: 119.45 EUR
 currency: EUR
 price: 119.45

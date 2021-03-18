@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WNTGRHH-es SAXTEL - Carcasa inferior del portátil Reemplazar la...'
 sku: 'B07WNTGRHH-es'
-tags: [  ]
 actualPrice: 13.32 EUR
 currency: EUR
 price: 13.32

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBBSN72-es E-Reader Funda para Bq Cervantes 4 Funda Soporte Cuero...'
 sku: 'B07JBBSN72-es'
-tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

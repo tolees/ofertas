@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDFT33M-es JOEAIS Tableta de Escritura LCD Color 8 5 Pulgadas Doodle...'
 sku: 'B07WDFT33M-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HGS1K87-es Wow Wee - Wowwee- Nelly Mascota Interactiva Color morado...'
 sku: 'B07HGS1K87-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

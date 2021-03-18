@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFFX5MD-es Western Digital Azul SN550 1 TB NVMe SSD Gen3 x4 PCIe M.2...'
 sku: 'B07YFFX5MD-es'
-tags: [  ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

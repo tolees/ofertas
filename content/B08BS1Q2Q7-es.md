@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BS1Q2Q7-es Supore - Correa Apple Watch 3 Paquetes Correas Compatible...'
 sku: 'B08BS1Q2Q7-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

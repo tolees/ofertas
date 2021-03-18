@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YHC31M-es Scuderia Ferrari Reloj Analógico para Niños de Cuarzo con...'
 sku: 'B078YHC31M-es'
-tags: [ 'scuderia ferrari', ]
 actualPrice: 69.74 EUR
 currency: EUR
 price: 69.74

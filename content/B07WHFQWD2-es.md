@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHFQWD2-es Pegatinas de Alabanza 70 Hojas Estudiante Alabanza...'
 sku: 'B07WHFQWD2-es'
-tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

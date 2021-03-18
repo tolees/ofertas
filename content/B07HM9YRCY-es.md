@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HM9YRCY-es Maverick - Almohada de viaje de ALGODÓN. Cojín cervical...'
 sku: 'B07HM9YRCY-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

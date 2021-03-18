@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00RL7UUT6-es TOPELEK - Mouse para jugador Patuoxun® 3200 DPI Wired LED...'
 sku: 'B00RL7UUT6-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

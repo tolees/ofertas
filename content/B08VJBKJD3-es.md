@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJBKJD3-es GEMVIE Gorro de Béisbol para Bebe Niño Verano Protector...'
 sku: 'B08VJBKJD3-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

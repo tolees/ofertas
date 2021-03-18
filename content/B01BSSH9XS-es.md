@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BSSH9XS-es Samsung Clear Cover - Funda para Samsung Galaxy S7 Edge...'
 sku: 'B01BSSH9XS-es'
-tags: [  ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBTTWQH-es Alsoar - Carcasa de Repuesto para Galaxy S6 Edge Clear...'
 sku: 'B07GBTTWQH-es'
-tags: [  ]
 actualPrice: 12.92 EUR
 currency: EUR
 price: 12.92

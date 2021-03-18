@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085ZTGQJK-es AIMIUVEI Smartwatch Reloj Inteligente IP67 con Pulsómetro...'
 sku: 'B085ZTGQJK-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

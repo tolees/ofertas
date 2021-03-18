@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NTZY6-es Quiksilver Sunset 15" - Short De Natación para Hombre...'
 sku: 'B0825NTZY6-es'
-tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

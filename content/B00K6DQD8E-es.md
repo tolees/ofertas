@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00K6DQD8E-es WMF Spitzenklasse Plus Cuchillo para Filetear de 32 cm con...'
 sku: 'B00K6DQD8E-es'
-tags: [  ]
 actualPrice: 48.31 EUR
 currency: EUR
 price: 48.31

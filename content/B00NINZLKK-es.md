@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NINZLKK-es Nikon D750 - Cámara réflex digital de 24.3 Mp pantalla...'
 sku: 'B00NINZLKK-es'
-tags: [  ]
 actualPrice: 1222.09 EUR
 currency: EUR
 price: 1222.09

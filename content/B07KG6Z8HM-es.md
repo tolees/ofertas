@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG6Z8HM-es PUMA LQDCELL Tension Rave Zapatillas Deportivas para...'
 sku: 'B07KG6Z8HM-es'
-tags: [  ]
 actualPrice: 29.11 EUR
 currency: EUR
 price: 29.11

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K158FXS-es Casio Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B00K158FXS-es'
-tags: [  ]
 actualPrice: 29.05 EUR
 currency: EUR
 price: 29.05

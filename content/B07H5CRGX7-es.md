@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H5CRGX7-es Guess Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07H5CRGX7-es'
-tags: [  ]
 actualPrice: 68.64 EUR
 currency: EUR
 price: 68.64

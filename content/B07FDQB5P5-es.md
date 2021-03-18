@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FDQB5P5-es Altavoz 30W Portátil Bluetooth 5.0 AY Impermeable IPX7...'
 sku: 'B07FDQB5P5-es'
-tags: [  ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

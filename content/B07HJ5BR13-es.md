@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJ5BR13-es Funko Pop Vinyl: Rocks: Queen: Roger Taylor Figura De...'
 sku: 'B07HJ5BR13-es'
-tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

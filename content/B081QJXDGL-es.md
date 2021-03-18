@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081QJXDGL-es PUMA Anzarun Zapatillas Unisex Adulto Negro Black White 39 EU'
 sku: 'B081QJXDGL-es'
-tags: [  ]
 actualPrice: 23.51 EUR
 currency: EUR
 price: 23.51

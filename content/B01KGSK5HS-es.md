@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KGSK5HS-es Prada Linea Rossa - Desodorante spray l homme prada'
 sku: 'B01KGSK5HS-es'
-tags: [  ]
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

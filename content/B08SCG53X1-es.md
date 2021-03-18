@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SCG53X1-es Xin - Bolsas de Pascua para dulces Conejo/Zanahoria/Huevo...'
 sku: 'B08SCG53X1-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

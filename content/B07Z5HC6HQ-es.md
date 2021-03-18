@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5HC6HQ-es Salomon XA COLLIDER GTX W Zapatillas de Trail Running...'
 sku: 'B07Z5HC6HQ-es'
-tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

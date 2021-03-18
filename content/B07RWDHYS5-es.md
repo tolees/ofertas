@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RWDHYS5-es Mr. Wonderful Set de Escritura para arrasar a tu Ritmo y...'
 sku: 'B07RWDHYS5-es'
-tags: [  ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

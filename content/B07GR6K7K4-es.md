@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GR6K7K4-es Energy Sistem Music Box 7+ Altavoz portátil con Bluetooth...'
 sku: 'B07GR6K7K4-es'
-tags: [  ]
 actualPrice: 44.89 EUR
 currency: EUR
 price: 44.89

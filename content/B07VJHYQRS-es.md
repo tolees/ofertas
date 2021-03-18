@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJHYQRS-es Hackett London Army Hackett Polo Rojo 255red 255 Medium...'
 sku: 'B07VJHYQRS-es'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

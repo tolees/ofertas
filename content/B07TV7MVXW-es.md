@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV7MVXW-es Levi s 501 Short Long Pantalones Cortos Blanco Beg Two...'
 sku: 'B07TV7MVXW-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

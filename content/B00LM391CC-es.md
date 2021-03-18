@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LM391CC-es Juego De Tronos Temporada 4 Blu-Ray Premium [Blu-ray]'
 sku: 'B00LM391CC-es'
-tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

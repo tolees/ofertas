@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F4YJKSK-es NIKE ATM M NK tee Evergreen Crest T-Shirt Hombre Obsidian L'
 sku: 'B08F4YJKSK-es'
-tags: [  ]
 actualPrice: 18.13 EUR
 currency: EUR
 price: 18.13

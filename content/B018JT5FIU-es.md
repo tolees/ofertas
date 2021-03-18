@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018JT5FIU-es Levi s Levis 200SF Brief 2P Calzoncillos para Hombre Negro...'
 sku: 'B018JT5FIU-es'
-tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

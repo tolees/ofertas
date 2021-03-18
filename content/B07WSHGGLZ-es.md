@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WSHGGLZ-es PremiumTech Europe - PremiumTech Cable DisplayPort 2.0 -...'
 sku: 'B07WSHGGLZ-es'
-tags: [  ]
 actualPrice: 39.07 EUR
 currency: EUR
 price: 39.07

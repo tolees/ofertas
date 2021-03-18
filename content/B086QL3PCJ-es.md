@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QL3PCJ-es Mustang TADY Zapatillas Deportivas Hombre PU Cuero Mesh...'
 sku: 'B086QL3PCJ-es'
-tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','mustang', ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JGSGXZW-es Max Factor Miracle Touch Base de maquillaje Tono: 45 Warm...'
 sku: 'B07JGSGXZW-es'
-tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

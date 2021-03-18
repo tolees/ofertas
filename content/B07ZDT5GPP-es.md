@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZDT5GPP-es Tommy Hilfiger Mujer TH ESS Hilfiger C-nk Sweatshirt...'
 sku: 'B07ZDT5GPP-es'
-tags: [  ]
 actualPrice: 48.25 EUR
 currency: EUR
 price: 48.25

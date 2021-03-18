@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJM4X8D-es Mpow H17 Auriculares con Cancelación de Ruido Auriculares...'
 sku: 'B07YJM4X8D-es'
-tags: [ 'mpow', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

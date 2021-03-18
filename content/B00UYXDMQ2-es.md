@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UYXDMQ2-es SELECTED HOMME Shntwomario Unwash Dk.blue St.jeans Noos...'
 sku: 'B00UYXDMQ2-es'
-tags: [  ]
 actualPrice: 31.48 EUR
 currency: EUR
 price: 31.48

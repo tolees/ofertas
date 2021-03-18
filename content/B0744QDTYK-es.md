@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0744QDTYK-es Casio G-SHOCK Reloj Analógico-Digital Reloj...'
 sku: 'B0744QDTYK-es'
-tags: [  ]
 actualPrice: 98.51 EUR
 currency: EUR
 price: 98.51

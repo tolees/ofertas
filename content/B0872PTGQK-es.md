@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872PTGQK-es Funda Transparente Compatible para Xiaomi Mi 9 SE Carcasa...'
 sku: 'B0872PTGQK-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089WFJ3P8-es Guitarra Abstracta Cesto para la Colada Cestos Lavado de...'
 sku: 'B089WFJ3P8-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

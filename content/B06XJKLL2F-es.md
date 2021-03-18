@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XJKLL2F-es Targus TSS94704EU Funda 360 Perimeter para portátiles de...'
 sku: 'B06XJKLL2F-es'
-tags: [  ]
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

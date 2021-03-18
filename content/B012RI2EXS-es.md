@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B012RI2EXS-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B012RI2EXS-es'
-tags: [  ]
 actualPrice: 183.01 EUR
 currency: EUR
 price: 183.01

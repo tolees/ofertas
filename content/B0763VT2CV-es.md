@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0763VT2CV-es Funko Pop!- Horror: 8-bit Alien 24597'
 sku: 'B0763VT2CV-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

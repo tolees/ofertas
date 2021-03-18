@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZS4TRQ-es Trueno S'
 sku: 'B07BZS4TRQ-es'
-tags: [  ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

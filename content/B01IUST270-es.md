@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IUST270-es Gullón Galletas Cereales Dibus Mini Angry Birds 250g'
 sku: 'B01IUST270-es'
-tags: [ 'gullón', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

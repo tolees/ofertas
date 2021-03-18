@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BY3F1H4-es MARSGAMING Mars Gaming MKBC Teclado Gaming Oficial FC...'
 sku: 'B07BY3F1H4-es'
-tags: [ 'marsgaming', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

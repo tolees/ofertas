@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXKZSM6-es Levi s 502 Regular Taper Jeans Azul Stonewash Stretch T2...'
 sku: 'B07RXKZSM6-es'
-tags: [  ]
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

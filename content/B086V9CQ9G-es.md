@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086V9CQ9G-es Pecute Juguetes para Gatos Interactivos 4 EN 1 Bolas...'
 sku: 'B086V9CQ9G-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

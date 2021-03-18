@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZF9DMZ5-es Tusenpy 20 Rollos Washi Cintas Rollitos Navideños Cintas...'
 sku: 'B07ZF9DMZ5-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

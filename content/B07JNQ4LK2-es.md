@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JNQ4LK2-es Nike M NK ZNL AROSHLD JKT Jacket Hombre Reflect Black L'
 sku: 'B07JNQ4LK2-es'
-tags: [  ]
 actualPrice: 56.4 EUR
 currency: EUR
 price: 56.4

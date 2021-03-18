@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BKLLJXM-es Hurley M OneOnly Icon L/S Light Bone'
 sku: 'B08BKLLJXM-es'
-tags: [  ]
 actualPrice: 19.12 EUR
 currency: EUR
 price: 19.12

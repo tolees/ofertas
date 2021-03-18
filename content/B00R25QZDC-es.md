@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00R25QZDC-es UGREEN 2 Cargador USB de pared 17W 5V 3.4A Cargador USB...'
 sku: 'B00R25QZDC-es'
-tags: [  ]
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

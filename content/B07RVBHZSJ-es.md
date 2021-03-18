@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RVBHZSJ-es Capcom - Consola Home Arcade'
 sku: 'B07RVBHZSJ-es'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

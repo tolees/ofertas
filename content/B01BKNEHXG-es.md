@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BKNEHXG-es Calvin Klein Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B01BKNEHXG-es'
-tags: [  ]
 actualPrice: 122.37 EUR
 currency: EUR
 price: 122.37

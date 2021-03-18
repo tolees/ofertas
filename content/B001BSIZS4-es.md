@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001BSIZS4-es Tous Touch 100ml'
 sku: 'B001BSIZS4-es'
-tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

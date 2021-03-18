@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6FMYWN-es PLAYMOBIL: THE MOVIE Robotitron con Dron a Partir de 5...'
 sku: 'B07P6FMYWN-es'
-tags: [  ]
 actualPrice: 13.91 EUR
 currency: EUR
 price: 13.91

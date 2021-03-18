@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y9XWK4M-es Xiaomi Redmi Note 8 - Smartphone de 6.3" FHD+ Snapdragon...'
 sku: 'B07Y9XWK4M-es'
-tags: [  ]
 actualPrice: 152.0 EUR
 currency: EUR
 price: 152.0

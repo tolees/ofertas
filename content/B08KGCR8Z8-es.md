@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KGCR8Z8-es American Tourister Urban Groove Mochilas para Laptop...'
 sku: 'B08KGCR8Z8-es'
-tags: [  ]
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

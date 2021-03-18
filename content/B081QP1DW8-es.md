@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081QP1DW8-es PUMA Stepfleex 2 SL Ve V Inf Zapatillas Blanco...'
 sku: 'B081QP1DW8-es'
-tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

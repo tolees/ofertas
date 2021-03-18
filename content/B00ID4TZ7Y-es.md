@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ID4TZ7Y-es Semillas Batlle - Semillas Hortícolas - Berenjena larga...'
 sku: 'B00ID4TZ7Y-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

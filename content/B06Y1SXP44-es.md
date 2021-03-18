@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y1SXP44-es TP-Link RE650 AC2600 - Repetidor de red Wifi extensor...'
 sku: 'B06Y1SXP44-es'
-tags: [  ]
 actualPrice: 83.0 EUR
 currency: EUR
 price: 83.0

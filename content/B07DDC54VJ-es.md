@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDC54VJ-es KangaROOS Kf Act V Zapatillas Unisex Niños Gris Vapor...'
 sku: 'B07DDC54VJ-es'
-tags: [  ]
 actualPrice: 8.72 EUR
 currency: EUR
 price: 8.72

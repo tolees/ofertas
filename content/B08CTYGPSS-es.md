@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CTYGPSS-es Electronic Arts - EA SPORTS UFC 4'
 sku: 'B08CTYGPSS-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

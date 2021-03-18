@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0784BWH3H-es Trust Gaming GXT 1160 Vero - Webcam Full HD 1080 p de 8...'
 sku: 'B0784BWH3H-es'
-tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

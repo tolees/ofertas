@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0823NXHGX-es Asics Gel-Rocket 9 Sneaker Hombre Black/Fiery Red 47 EU'
 sku: 'B0823NXHGX-es'
-tags: [  ]
 actualPrice: 21.23 EUR
 currency: EUR
 price: 21.23

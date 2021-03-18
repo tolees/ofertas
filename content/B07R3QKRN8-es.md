@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3QKRN8-es Yizhet Adaptador de Red USB Super Velocidad USB C to RJ45...'
 sku: 'B07R3QKRN8-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

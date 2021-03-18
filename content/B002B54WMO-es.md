@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002B54WMO-es ABUS 43792 Cable Acero antirrobo Moto Negro 5Mm'
 sku: 'B002B54WMO-es'
-tags: [  ]
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

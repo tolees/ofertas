@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MB3BJDG-es Sundis Torre A5 3 CAJONES Negro'
 sku: 'B00MB3BJDG-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

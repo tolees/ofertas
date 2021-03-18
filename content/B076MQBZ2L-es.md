@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076MQBZ2L-es Cooler Master Hyper H412R - Ventilador CPU Cooler Aire...'
 sku: 'B076MQBZ2L-es'
-tags: [  ]
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

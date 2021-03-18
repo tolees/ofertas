@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WVCKRXP-es Note D Espresso - Cápsulas de café "Qualità Oro"...'
 sku: 'B07WVCKRXP-es'
-tags: [  ]
 actualPrice: 10.21 EUR
 currency: EUR
 price: 10.21

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5G6YCJ-es Salomon Alphacross Blast Zapatillas De Trail Running...'
 sku: 'B07Z5G6YCJ-es'
-tags: [  ]
 actualPrice: 64.49 EUR
 currency: EUR
 price: 64.49

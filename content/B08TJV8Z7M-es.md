@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08TJV8Z7M-es sony computer entertainment of america - Nioh Collection'
 sku: 'B08TJV8Z7M-es'
-tags: [ 'sony computer entertainment of america', ]
 actualPrice: 55.42 EUR
 currency: EUR
 price: 55.42

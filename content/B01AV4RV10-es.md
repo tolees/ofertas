@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AV4RV10-es Hugo BOSS Reloj para hombre 1513329'
 sku: 'B01AV4RV10-es'
-tags: [  ]
 actualPrice: 191.44 EUR
 currency: EUR
 price: 191.44

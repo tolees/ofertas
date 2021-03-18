@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LQKZK5-es Munich BARRU 93 Zapatillas Unisex Adulto Multicolor 35 EU'
 sku: 'B085LQKZK5-es'
-tags: [  ]
 actualPrice: 19.78 EUR
 currency: EUR
 price: 19.78

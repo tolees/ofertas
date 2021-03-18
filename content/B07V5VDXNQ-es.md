@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V5VDXNQ-es Tommy Hilfiger - Th Metro Ns Trifold Carteras Hombre Negro...'
 sku: 'B07V5VDXNQ-es'
-tags: [  ]
 actualPrice: 38.13 EUR
 currency: EUR
 price: 38.13

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G6TK6VK-es Babaria Babaria Men After Shave Balsamo 150 Ml 150 ml'
 sku: 'B07G6TK6VK-es'
-tags: [  ]
 actualPrice: 3.74 EUR
 currency: EUR
 price: 3.74

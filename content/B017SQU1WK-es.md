@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017SQU1WK-es Salomon Speedcross 4 GTX W Zapatillas de Trail Running...'
 sku: 'B017SQU1WK-es'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

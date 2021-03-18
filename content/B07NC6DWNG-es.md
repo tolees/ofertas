@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC6DWNG-es Far Cry 5 - Standard Edition | Código Uplay para PC'
 sku: 'B07NC6DWNG-es'
-tags: [  ]
 actualPrice: 15 EUR
 currency: EUR
 price: 15

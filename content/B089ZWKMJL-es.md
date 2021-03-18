@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ZWKMJL-es Teclado mecánico para juegos de perfil bajo ultra delgado...'
 sku: 'B089ZWKMJL-es'
-tags: [  ]
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

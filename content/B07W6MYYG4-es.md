@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6MYYG4-es Linea Soldador Inverter 300A 15 KVA de Potencia Tecnologia...'
 sku: 'B07W6MYYG4-es'
-tags: [  ]
 actualPrice: 104.95 EUR
 currency: EUR
 price: 104.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JL8KELG-es Funko - POP! Bobble Colección Marvel - Figura Doctor...'
 sku: 'B01JL8KELG-es'
-tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

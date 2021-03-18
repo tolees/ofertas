@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073FKHLT7-es Philips SHB4805RG Flite Everlite - Auriculares Bluetooth...'
 sku: 'B073FKHLT7-es'
-tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

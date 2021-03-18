@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XT5RV2D-es VEIERSIA Calentador de Manos Recargable 5200mAh Recargable...'
 sku: 'B07XT5RV2D-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

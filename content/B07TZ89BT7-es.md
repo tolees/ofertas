@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TZ89BT7-es RASPBERRY fuente de alimentacion USB-C 5.1V 3A - blanco -...'
 sku: 'B07TZ89BT7-es'
-tags: [  ]
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

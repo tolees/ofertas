@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BKD738I-es Jabra B2B - Jabra Speak 510 - Altavoz Portátil para...'
 sku: 'B00BKD738I-es'
-tags: [  ]
 actualPrice: 146.0 EUR
 currency: EUR
 price: 146.0

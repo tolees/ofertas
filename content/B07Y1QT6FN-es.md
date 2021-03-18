@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y1QT6FN-es WateLves - Pantalones de yoga con cintura alta cinturón...'
 sku: 'B07Y1QT6FN-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

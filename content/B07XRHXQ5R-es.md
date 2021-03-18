@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XRHXQ5R-es Vicloon Cepillo de Botellas 8 Pcs Cepillo de Limpieza...'
 sku: 'B07XRHXQ5R-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

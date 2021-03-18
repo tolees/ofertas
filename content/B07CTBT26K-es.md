@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTBT26K-es Sierra de Calar TECCPO 800W 3000SPM Corte45° 6 Velocidades...'
 sku: 'B07CTBT26K-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

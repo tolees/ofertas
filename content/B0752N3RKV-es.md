@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0752N3RKV-es G-STAR RAW 5620 Elwood 3D Slim Jeans Azul medium aged...'
 sku: 'B0752N3RKV-es'
-tags: [  ]
 actualPrice: 59.97 EUR
 currency: EUR
 price: 59.97

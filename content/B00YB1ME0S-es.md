@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YB1ME0S-es Tommy Hilfiger Brief 3 Pack Premium Essentials...'
 sku: 'B00YB1ME0S-es'
-tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

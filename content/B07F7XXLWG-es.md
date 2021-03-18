@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7XXLWG-es Trust Gaming GXT 764 - Refrigerador líquido para CPU Color...'
 sku: 'B07F7XXLWG-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

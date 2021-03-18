@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRCQ41P-es Skechers 13278-MVE Zapatillas para Mujer Morado 38 EU'
 sku: 'B07WRCQ41P-es'
-tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

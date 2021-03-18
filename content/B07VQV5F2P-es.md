@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VQV5F2P-es VADIM Silla de Oficina Racing Sport Ergonómica Silla de...'
 sku: 'B07VQV5F2P-es'
-tags: [  ]
 actualPrice: 179.9 EUR
 currency: EUR
 price: 179.9

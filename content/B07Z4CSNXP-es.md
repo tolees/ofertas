@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4CSNXP-es Reloj de Hombre BENYAR cronógrafo Resistente al Agua con...'
 sku: 'B07Z4CSNXP-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

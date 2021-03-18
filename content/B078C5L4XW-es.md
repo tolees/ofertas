@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078C5L4XW-es Gabol - Cloud | Maletas de Viaje Grandes de 47 x 79 x 28...'
 sku: 'B078C5L4XW-es'
-tags: [  ]
 actualPrice: 31.83 EUR
 currency: EUR
 price: 31.83

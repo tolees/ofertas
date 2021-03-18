@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GY1YIFW-es Multicentrum Complemento Alimenticio con 13 Vitaminas 11...'
 sku: 'B00GY1YIFW-es'
-tags: [  ]
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

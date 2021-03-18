@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TGKSH1J-es Sharp HT-SB95 2.0 Barra de sonido cine en casa Bluetooth...'
 sku: 'B07TGKSH1J-es'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

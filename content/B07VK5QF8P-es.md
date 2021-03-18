@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VK5QF8P-es Camisetas Tirantes Basicas para Mujer Verano LuckyGirls •...'
 sku: 'B07VK5QF8P-es'
-tags: [  ]
 actualPrice: 4.21 EUR
 currency: EUR
 price: 4.21

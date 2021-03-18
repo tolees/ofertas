@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077JR87HM-es Makita DTD152Z - Destornillador de impacto inalámbrico LXT...'
 sku: 'B077JR87HM-es'
-tags: [  ]
 actualPrice: 95.56 EUR
 currency: EUR
 price: 95.56

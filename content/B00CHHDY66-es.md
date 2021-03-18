@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CHHDY66-es Logitech MK270 Combo Teclado y Ratón inalámbrico para...'
 sku: 'B00CHHDY66-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

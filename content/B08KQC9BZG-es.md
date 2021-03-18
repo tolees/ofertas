@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KQC9BZG-es IDOIT Oxímetro dedo pulsioxímetro de dedo profesional...'
 sku: 'B08KQC9BZG-es'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

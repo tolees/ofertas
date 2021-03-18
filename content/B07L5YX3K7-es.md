@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L5YX3K7-es Spyder Olympia Pantalones De Esquí Niñas Black 14'
 sku: 'B07L5YX3K7-es'
-tags: [  ]
 actualPrice: 31.66 EUR
 currency: EUR
 price: 31.66

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CB9V7E-es Revlon Super Lustrous Pintalabios Wink for Pink'
 sku: 'B001CB9V7E-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

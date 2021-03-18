@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KWA4JD6-es Trilogía El Hobbit Blu-Ray [Blu-ray]'
 sku: 'B01KWA4JD6-es'
-tags: [  ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

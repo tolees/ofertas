@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FJB1WZS-es MAGIC SELECT 4Estuche para mascarillas/Caja para...'
 sku: 'B08FJB1WZS-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

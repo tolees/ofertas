@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WYPJSD5-es Juego de Ganzúas 30 Piezas + 3 Candados Transparentes para...'
 sku: 'B07WYPJSD5-es'
-tags: [  ]
 actualPrice: 24.97 EUR
 currency: EUR
 price: 24.97

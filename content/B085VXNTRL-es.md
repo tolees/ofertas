@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085VXNTRL-es Cerdá - Portameriendas Termico con Botella Infantil y...'
 sku: 'B085VXNTRL-es'
-tags: [  ]
 actualPrice: 8.39 EUR
 currency: EUR
 price: 8.39

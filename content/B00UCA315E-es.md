@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UCA315E-es Spontex Bayeta Multifácil 2+1 Amarillo 3 Unidad'
 sku: 'B00UCA315E-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

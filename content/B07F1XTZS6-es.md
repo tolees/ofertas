@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F1XTZS6-es Element Alder Jacket Hombre Flint Black XS'
 sku: 'B07F1XTZS6-es'
-tags: [  ]
 actualPrice: 47.18 EUR
 currency: EUR
 price: 47.18

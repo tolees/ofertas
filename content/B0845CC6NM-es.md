@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0845CC6NM-es Tommy Hilfiger Trunk Print Ropa Interior Buffalo Check...'
 sku: 'B0845CC6NM-es'
-tags: [  ]
 actualPrice: 7.61 EUR
 currency: EUR
 price: 7.61

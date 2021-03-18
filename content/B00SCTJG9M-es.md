@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SCTJG9M-es Einhell GC-RT 1440 M - Motoazada eléctrica 1400W 220-240V...'
 sku: 'B00SCTJG9M-es'
-tags: [  ]
 actualPrice: 106.99 EUR
 currency: EUR
 price: 106.99

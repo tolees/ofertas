@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08937FVRD-es Raniaco Rallador & Rallador de Queso - Rallador de Cocina...'
 sku: 'B08937FVRD-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

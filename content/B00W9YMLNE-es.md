@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00W9YMLNE-es Sony Cyber-Shot DSC-HX90 negro - Cámara compacta de 18 Mp'
 sku: 'B00W9YMLNE-es'
-tags: [  ]
 actualPrice: 289.0 EUR
 currency: EUR
 price: 289.0

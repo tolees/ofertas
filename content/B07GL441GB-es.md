@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GL441GB-es HP 285 G3 - Ordenador de sobremesa profesional AMD Ryzen...'
 sku: 'B07GL441GB-es'
-tags: [  ]
 actualPrice: 379.01 EUR
 currency: EUR
 price: 379.01

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VBFNXZY-es Gillette Fusion 5 Cuchillas de Afeitar Hombre Paquete de 4...'
 sku: 'B08VBFNXZY-es'
-tags: [  ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

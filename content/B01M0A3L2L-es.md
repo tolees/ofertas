@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0A3L2L-es New Balance 410 m Zapatillas para Mujer Plateado Silver...'
 sku: 'B01M0A3L2L-es'
-tags: [  ]
 actualPrice: 41.73 EUR
 currency: EUR
 price: 41.73

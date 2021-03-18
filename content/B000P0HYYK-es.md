@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000P0HYYK-es Grohe Sifon de Lavabo 1 1/4" acabado cromado Ref. 28920000'
 sku: 'B000P0HYYK-es'
-tags: [  ]
 actualPrice: 26.93 EUR
 currency: EUR
 price: 26.93

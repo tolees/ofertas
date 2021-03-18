@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076H9D7ZJ-es Daniel Wellington DW00100217 - Reloj Analógico para Mujer...'
 sku: 'B076H9D7ZJ-es'
-tags: [  ]
 actualPrice: 68.0 EUR
 currency: EUR
 price: 68.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CSN5DQ8-es Columbia Fast Trek II Forro Polar con Cremallera Mujer...'
 sku: 'B00CSN5DQ8-es'
-tags: [  ]
 actualPrice: 33.49 EUR
 currency: EUR
 price: 33.49

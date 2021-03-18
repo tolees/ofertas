@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0776TYXX3-es Schubert Etude 225 USB - teclado teclado de aprendizaje 61...'
 sku: 'B0776TYXX3-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

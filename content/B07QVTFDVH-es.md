@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QVTFDVH-es Funko- Pop Star Wars The Rise of Skywalker-First Order Jet...'
 sku: 'B07QVTFDVH-es'
-tags: [  ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

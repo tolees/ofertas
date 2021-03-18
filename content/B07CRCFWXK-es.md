@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CRCFWXK-es Pepe Jeans Finly Jean Droit Negro Black Denim Wl0 8 Anos...'
 sku: 'B07CRCFWXK-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

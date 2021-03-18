@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007NFGDGK-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B007NFGDGK-es'
-tags: [  ]
 actualPrice: 89.21 EUR
 currency: EUR
 price: 89.21

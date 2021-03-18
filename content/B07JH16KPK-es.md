@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JH16KPK-es Maca Peruana Extracto Concentrado 4000 mg | 120 cápsulas...'
 sku: 'B07JH16KPK-es'
-tags: [  ]
 actualPrice: 12.62 EUR
 currency: EUR
 price: 12.62

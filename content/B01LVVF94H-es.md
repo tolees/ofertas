@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LVVF94H-es Beats EP On-Ear Headphones - Black'
 sku: 'B01LVVF94H-es'
-tags: [  ]
 actualPrice: 52.97 EUR
 currency: EUR
 price: 52.97

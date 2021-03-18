@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GH2R45H-es Skechers Men s Stamina-CONTIC Trainers Grey Gray & Red...'
 sku: 'B07GH2R45H-es'
-tags: [  ]
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

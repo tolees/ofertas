@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079XD1G5R-es Taurus Geyser Eco 3000 3000-Plancha 3000W Elimina Virus y...'
 sku: 'B079XD1G5R-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

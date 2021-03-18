@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KRE2N8G-es Motorola C1001 Teléfono Fijo DC-in jack Negro'
 sku: 'B00KRE2N8G-es'
-tags: [ 'motorola', ]
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

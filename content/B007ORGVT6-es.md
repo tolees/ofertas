@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007ORGVT6-es APLI Kids 11805 - Bolsa de pegatinas estrella oro grandes...'
 sku: 'B007ORGVT6-es'
-tags: [ 'apli kids', ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

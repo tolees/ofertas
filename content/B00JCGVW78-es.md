@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JCGVW78-es WRC 7436 alfombras Coche Universal Norme'
 sku: 'B00JCGVW78-es'
-tags: [  ]
 actualPrice: 26.16 EUR
 currency: EUR
 price: 26.16

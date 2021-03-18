@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L72ZFVK-es Adidas Lite Racer RBN Zapatillas de Deporte para Mujer...'
 sku: 'B07L72ZFVK-es'
-tags: [  ]
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

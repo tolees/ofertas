@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M6KPJ9K-es Datacolor Spyder'
 sku: 'B07M6KPJ9K-es'
-tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

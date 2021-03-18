@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071H6RH5B-es Antena Yagi para Amplificador de señal Celular Repetidor...'
 sku: 'B071H6RH5B-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSLTWJN-es i-baby Manta Franela Grande para Adulto Cama Sofá Manta de...'
 sku: 'B07MSLTWJN-es'
-tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

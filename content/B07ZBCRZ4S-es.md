@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZBCRZ4S-es Suero de Retinol para Cara y Cuello con Retinol...'
 sku: 'B07ZBCRZ4S-es'
-tags: [  ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

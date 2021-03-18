@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078N3PRSG-es 【Sunmay Leaf】SUNMAY Limpiador Facial Impermeable Eléctrico...'
 sku: 'B078N3PRSG-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

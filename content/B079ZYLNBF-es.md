@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079ZYLNBF-es VAIRO Short Columns Negro XXL'
 sku: 'B079ZYLNBF-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

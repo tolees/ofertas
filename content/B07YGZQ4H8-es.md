@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YGZQ4H8-es Kingston Canvas Select Plus Tarjeta microSD SDCS2/64GB...'
 sku: 'B07YGZQ4H8-es'
-tags: [  ]
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

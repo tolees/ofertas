@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0856MDDG1-es Botas Bebé Niño Pablosky Azul 84432 23'
 sku: 'B0856MDDG1-es'
-tags: [  ]
 actualPrice: 25.25 EUR
 currency: EUR
 price: 25.25

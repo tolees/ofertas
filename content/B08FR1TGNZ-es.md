@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FR1TGNZ-es Sellador de Silicona Bst4U Aplicador de Pegamento y...'
 sku: 'B08FR1TGNZ-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

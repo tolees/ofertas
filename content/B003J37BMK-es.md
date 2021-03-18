@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003J37BMK-es Leatherman Style Multi-Tool CS - Black / Steel'
 sku: 'B003J37BMK-es'
-tags: [  ]
 actualPrice: 20.67 EUR
 currency: EUR
 price: 20.67

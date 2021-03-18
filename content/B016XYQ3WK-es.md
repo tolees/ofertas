@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016XYQ3WK-es Ubiquiti Spain - Ubiquiti UAP-AC-PRO - Punto de acceso...'
 sku: 'B016XYQ3WK-es'
-tags: [  ]
 actualPrice: 136.0 EUR
 currency: EUR
 price: 136.0

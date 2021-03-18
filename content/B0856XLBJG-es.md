@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0856XLBJG-es Riello - Microsoft – Teclado Bluetooth 4.0'
 sku: 'B0856XLBJG-es'
-tags: [  ]
 actualPrice: 25.65 EUR
 currency: EUR
 price: 25.65

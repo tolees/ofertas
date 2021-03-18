@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2NGB66-es BERSIGAR Negocio de los Hombres Casual Cronógrafo Cuarzo...'
 sku: 'B07Q2NGB66-es'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

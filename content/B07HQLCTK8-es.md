@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HQLCTK8-es MOBOREST Acoplador Coaxial TV Antena Coaxial T/F Tipo...'
 sku: 'B07HQLCTK8-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

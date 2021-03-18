@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082SS6LQN-es Nacon - Revolution Pro Controller 3 Playstation 4 Mando...'
 sku: 'B082SS6LQN-es'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

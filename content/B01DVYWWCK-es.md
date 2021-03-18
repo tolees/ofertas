@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DVYWWCK-es Tristar SZ-1918 Aspirador de Escoba Vertical Dos en Uno...'
 sku: 'B01DVYWWCK-es'
-tags: [  ]
 actualPrice: 47.9 EUR
 currency: EUR
 price: 47.9

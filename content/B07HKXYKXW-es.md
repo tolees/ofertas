@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKXYKXW-es Mr. Wonderful WOA09073ES Taza Multicolor'
 sku: 'B07HKXYKXW-es'
-tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

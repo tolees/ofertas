@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FY31G3D-es Meridiem Games - Gungrave VR The Loaded Coffin Edition'
 sku: 'B07FY31G3D-es'
-tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

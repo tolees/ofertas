@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DQG9OZ2-es SanDisk Memoria Flash Ultra USB 3.0 de 32 GB hasta 130...'
 sku: 'B00DQG9OZ2-es'
-tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

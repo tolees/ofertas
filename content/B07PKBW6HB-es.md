@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PKBW6HB-es Cargador de bateria 48v Cargador de Patinete 48v Cargador...'
 sku: 'B07PKBW6HB-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757FCW3M-es Microderm GLO suero cara'
 sku: 'B0757FCW3M-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

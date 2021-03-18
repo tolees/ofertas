@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0054VEWB8-es TRIXIE Tabla Juegos Snacks conejos Plástico ø20 cm...'
 sku: 'B0054VEWB8-es'
-tags: [  ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

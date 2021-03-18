@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TTVDR25-es luosh Aleación de Aluminio Soporte para Auriculares...'
 sku: 'B08TTVDR25-es'
-tags: [  ]
 actualPrice: 5.48 EUR
 currency: EUR
 price: 5.48

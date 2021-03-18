@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0844YTFNJ-es Levi s Barstow Western Standard Shirt Modern Stretch Dark...'
 sku: 'B0844YTFNJ-es'
-tags: [  ]
 actualPrice: 52.26 EUR
 currency: EUR
 price: 52.26

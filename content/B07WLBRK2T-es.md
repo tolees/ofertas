@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLBRK2T-es Chernobyl Miniserie [DVD]'
 sku: 'B07WLBRK2T-es'
-tags: [  ]
 actualPrice: 16.24 EUR
 currency: EUR
 price: 16.24

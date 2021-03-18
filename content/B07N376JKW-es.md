@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N376JKW-es NEW BALANCE ML574EGN Zapatillas Unisex Adulto Iris Negro...'
 sku: 'B07N376JKW-es'
-tags: [  ]
 actualPrice: 60.68 EUR
 currency: EUR
 price: 60.68

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P5GGCXX-es Maclaren Quest Arc Silla de paseo - Ideal para recién...'
 sku: 'B07P5GGCXX-es'
-tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

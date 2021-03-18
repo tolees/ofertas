@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBX6XZK-es HOMSCAM - Auriculares Bluetooth Auriculares Inalámbricos...'
 sku: 'B08CBX6XZK-es'
-tags: [ 'homscam', ]
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

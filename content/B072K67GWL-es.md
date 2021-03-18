@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072K67GWL-es Victoria Bota Serraje Animales Zapatillas Unisex Niños...'
 sku: 'B072K67GWL-es'
-tags: [  ]
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GY25D3W-es TROFOLASTIN - Trofolastín - Reductor de Cicatrices - 5...'
 sku: 'B00GY25D3W-es'
-tags: [  ]
 actualPrice: 18.72 EUR
 currency: EUR
 price: 18.72

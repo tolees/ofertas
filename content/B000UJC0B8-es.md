@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000UJC0B8-es BAUSCH + LOMB - SofLens® 38 - Lentes de contacto - Pack de 6'
 sku: 'B000UJC0B8-es'
-tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

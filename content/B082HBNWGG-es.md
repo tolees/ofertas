@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HBNWGG-es ART VVIES 30x20 Zoll mit Haken Leinwanddrucke Holz...'
 sku: 'B082HBNWGG-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

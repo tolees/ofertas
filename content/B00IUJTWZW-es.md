@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IUJTWZW-es S&R Juego de brocas HSS COBALTO Rectificadas para metal 1...'
 sku: 'B00IUJTWZW-es'
-tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

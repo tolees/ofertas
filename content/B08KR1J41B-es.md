@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KR1J41B-es Lysol - Spray desinfectante y limpiador multiusos mata...'
 sku: 'B08KR1J41B-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

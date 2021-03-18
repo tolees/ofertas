@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ2J95Z-es UGG W Classic Short Rubber Logo Botas para Mujer Marrón...'
 sku: 'B07MJ2J95Z-es'
-tags: [  ]
 actualPrice: 92.39 EUR
 currency: EUR
 price: 92.39

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QW3GS9Q-es Candy Brava CDPN 2D360PW - Lavavajillas 60 cm...'
 sku: 'B07QW3GS9Q-es'
-tags: [  ]
 actualPrice: 287.2 EUR
 currency: EUR
 price: 287.2

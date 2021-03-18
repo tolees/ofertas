@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVLT3NJ-es Napapijri Eisberg SS Polo Gris Med Grey Mel 160 Small para...'
 sku: 'B07MVLT3NJ-es'
-tags: [  ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

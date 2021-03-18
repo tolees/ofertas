@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VDCKB6G-es Napapijri NOTO 3 Pantalones Cortos Azul BLU Marine 1761 29...'
 sku: 'B07VDCKB6G-es'
-tags: [  ]
 actualPrice: 25.46 EUR
 currency: EUR
 price: 25.46

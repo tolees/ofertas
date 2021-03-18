@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B0OB6CU-es Gillette Fusion 5 Maquinilla de Afeitar Hombre + Cuchillas...'
 sku: 'B01B0OB6CU-es'
-tags: [  ]
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

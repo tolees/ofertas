@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086TSZHDN-es Aorula 48 Colores Air Dry Clay Arcilla de Modelado...'
 sku: 'B086TSZHDN-es'
-tags: [  ]
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

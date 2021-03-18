@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L7ZV3S2-es luosh Filtro ionizador Negativo de hidrógeno PH de Barra...'
 sku: 'B08L7ZV3S2-es'
-tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

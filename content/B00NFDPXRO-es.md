@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NFDPXRO-es Zwilling Quadro Set batería de cocina 5 piezas Acero...'
 sku: 'B00NFDPXRO-es'
-tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

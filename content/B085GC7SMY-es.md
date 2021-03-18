@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085GC7SMY-es VIPITH Máscara facial de gasa transpirable desechable...'
 sku: 'B085GC7SMY-es'
-tags: [  ]
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

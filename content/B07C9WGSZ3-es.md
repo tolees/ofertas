@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C9WGSZ3-es Lee Luke Pants Jeans Rinse DP 29W / 34L para Hombre'
 sku: 'B07C9WGSZ3-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

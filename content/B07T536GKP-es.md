@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T536GKP-es Cartuchos de Filtro para Todos Los Filtros de Agua BRITA...'
 sku: 'B07T536GKP-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

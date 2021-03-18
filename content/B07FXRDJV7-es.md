@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FXRDJV7-es OSRAM NIGHT BREAKER LASER H7 Gen 2 +150% más luz bombillas...'
 sku: 'B07FXRDJV7-es'
-tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

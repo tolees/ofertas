@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7MQMD9-es Logitech G502 HERO SE Ratón Gaming con Cable Alto...'
 sku: 'B07W7MQMD9-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

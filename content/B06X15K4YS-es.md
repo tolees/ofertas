@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X15K4YS-es Nautica Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B06X15K4YS-es'
-tags: [  ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

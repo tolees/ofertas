@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FW62FM-es Cool Area Toldo Vela de Sombra Rectangular 3 x 4 Metros...'
 sku: 'B072FW62FM-es'
-tags: [  ]
 actualPrice: 52.98 EUR
 currency: EUR
 price: 52.98

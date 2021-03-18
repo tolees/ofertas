@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872NTBGK-es Funda Transparente Compatible para Samsung Galaxy A30s...'
 sku: 'B0872NTBGK-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

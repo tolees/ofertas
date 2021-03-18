@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H9J1YXN-es SanDisk Extreme PRO - Tarjeta de Memoria SDXC de 64 GB 4k...'
 sku: 'B07H9J1YXN-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

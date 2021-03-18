@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9GLM5W-es Timex Reloj de Pulsera TW2R96900'
 sku: 'B07N9GLM5W-es'
-tags: [  ]
 actualPrice: 71.4 EUR
 currency: EUR
 price: 71.4

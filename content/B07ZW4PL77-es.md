@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZW4PL77-es Love Beauty and Planet Acondicionador aceite de coco y de...'
 sku: 'B07ZW4PL77-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

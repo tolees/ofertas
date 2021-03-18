@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081F1JMMM-es POWERADD Pilot Pro4 Power Bank 26800mAh Batería Externa...'
 sku: 'B081F1JMMM-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

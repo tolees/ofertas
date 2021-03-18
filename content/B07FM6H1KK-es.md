@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FM6H1KK-es Alapmk Protective Case for 15.6" Lenovo ideapad 330s 15...'
 sku: 'B07FM6H1KK-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

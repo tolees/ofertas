@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072N4SXQC-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B072N4SXQC-es'
-tags: [  ]
 actualPrice: 133.99 EUR
 currency: EUR
 price: 133.99

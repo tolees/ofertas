@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QXW28Z8-es Rampow Cable USB Tipo C 3.0 Cable USB C Carga Rápida [USB...'
 sku: 'B07QXW28Z8-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

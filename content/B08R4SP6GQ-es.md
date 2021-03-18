@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R4SP6GQ-es Warner Bros. Entertainment - Uno de los Nuestros 4k UHD...'
 sku: 'B08R4SP6GQ-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

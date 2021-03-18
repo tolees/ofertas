@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H8KH6F1-es GREAT ART póster Motivacional 59.4 x 42 cm - Formato de...'
 sku: 'B07H8KH6F1-es'
-tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

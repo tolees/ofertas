@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FCQMNY-es Laluztop Purificador de Aire con HEPA Carbón Activado para...'
 sku: 'B083FCQMNY-es'
-tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

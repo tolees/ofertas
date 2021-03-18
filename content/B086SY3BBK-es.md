@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086SY3BBK-es 10 unidades de protección contra 4 capas de protección facial'
 sku: 'B086SY3BBK-es'
-tags: [  ]
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

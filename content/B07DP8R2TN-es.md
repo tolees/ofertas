@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DP8R2TN-es adidas Falcon W Running Shoe Mujer Core Black/Core...'
 sku: 'B07DP8R2TN-es'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

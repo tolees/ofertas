@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JB1LB64-es Under Armour Undeniable Duffle 4.0 bolsa de deportes bolsa...'
 sku: 'B07JB1LB64-es'
-tags: [  ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

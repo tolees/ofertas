@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073C7LXRS-es Converse Chuck Taylor CTAS Lift Ox Canvas Zapatillas para...'
 sku: 'B073C7LXRS-es'
-tags: [  ]
 actualPrice: 50.01 EUR
 currency: EUR
 price: 50.01

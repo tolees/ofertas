@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FLB1KG0-es Wera 05347106001 Juego de destornilladores 11 piezas'
 sku: 'B01FLB1KG0-es'
-tags: [  ]
 actualPrice: 45.04 EUR
 currency: EUR
 price: 45.04

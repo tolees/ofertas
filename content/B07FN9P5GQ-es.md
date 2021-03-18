@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FN9P5GQ-es Dericam Cámara Web 1080P con micrófono cámara Web USB para...'
 sku: 'B07FN9P5GQ-es'
-tags: [  ]
 actualPrice: 20.36 EUR
 currency: EUR
 price: 20.36

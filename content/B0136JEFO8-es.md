@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0136JEFO8-es Astor Lash Beautifier Argan Oil Máscara de Pestañas'
 sku: 'B0136JEFO8-es'
-tags: [  ]
 actualPrice: 5.8 EUR
 currency: EUR
 price: 5.8

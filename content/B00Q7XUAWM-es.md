@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Q7XUAWM-es Taurus 924244000 Exprimidor 800 W 0.35 litros PU Color Blanco'
 sku: 'B00Q7XUAWM-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

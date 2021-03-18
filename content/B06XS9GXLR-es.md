@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XS9GXLR-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B06XS9GXLR-es'
-tags: [  ]
 actualPrice: 193.01 EUR
 currency: EUR
 price: 193.01

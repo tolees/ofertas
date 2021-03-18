@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C73JGGR-es BedStory Almohadas Aloe Vera con Funda 42x70cm Pack 2...'
 sku: 'B08C73JGGR-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

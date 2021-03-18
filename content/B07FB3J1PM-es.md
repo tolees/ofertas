@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FB3J1PM-es Superdry M70001ns Pantalones de deporte Hombre Gris Flint...'
 sku: 'B07FB3J1PM-es'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

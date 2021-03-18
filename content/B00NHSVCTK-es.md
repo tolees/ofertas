@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NHSVCTK-es La Martina Miguel Polo Blanco Optic White 00001 Medium...'
 sku: 'B00NHSVCTK-es'
-tags: [  ]
 actualPrice: 32.64 EUR
 currency: EUR
 price: 32.64

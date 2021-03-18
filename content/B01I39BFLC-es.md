@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01I39BFLC-es Panasonic RP-HF100ME-K - Auriculares Diadema Cerrados con...'
 sku: 'B01I39BFLC-es'
-tags: [  ]
 actualPrice: 16.27 EUR
 currency: EUR
 price: 16.27

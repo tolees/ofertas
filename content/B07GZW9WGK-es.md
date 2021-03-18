@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GZW9WGK-es RECCI Cubrecolchón - Cubre Colchón Impermeable 100% Bambú...'
 sku: 'B07GZW9WGK-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSHNVDF-es Oral-B Genius 10000N CrossAction - Cepillo Eléctrico 1...'
 sku: 'B07FSHNVDF-es'
-tags: [  ]
 actualPrice: 103.99 EUR
 currency: EUR
 price: 103.99

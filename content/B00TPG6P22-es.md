@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TPG6P22-es PNY FD16GATT4-EF - Memoria USB 2.0 de 16 GB 25 MB/s color...'
 sku: 'B00TPG6P22-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

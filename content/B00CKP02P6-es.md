@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CKP02P6-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con...'
 sku: 'B00CKP02P6-es'
-tags: [  ]
 actualPrice: 195.5 EUR
 currency: EUR
 price: 195.5

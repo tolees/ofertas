@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVTHTD2-es L Oreal Paris Men Expert Deo Spray Sensitive Control R 150...'
 sku: 'B07ZVTHTD2-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XRFLQZG-es Mpow Auricular Bluetooth Manos Libres Bluetooth Auricular...'
 sku: 'B07XRFLQZG-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

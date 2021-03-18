@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YWYQYG9-es GEMITTO Portarrollos Baño Acero Inoxidable SUS304 Soporte...'
 sku: 'B07YWYQYG9-es'
-tags: [ 'Accesorios de baño','Bricolaje y herramientas','Ferretería','Portarrollos para papel higiénico','gemitto', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

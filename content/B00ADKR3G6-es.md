@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ADKR3G6-es Selene Sujetador Blanca Preformado Algodon Doble Capa Sin...'
 sku: 'B00ADKR3G6-es'
-tags: [  ]
 actualPrice: 9.62 EUR
 currency: EUR
 price: 9.62

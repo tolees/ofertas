@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNSXVC2-es Charles Wilson Calzoncillo Bóxer de Hombre 6 Unidades...'
 sku: 'B07YNSXVC2-es'
-tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

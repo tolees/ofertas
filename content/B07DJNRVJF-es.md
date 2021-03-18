@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DJNRVJF-es Sealskin Brix Portarrollos Metal Negro'
 sku: 'B07DJNRVJF-es'
-tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

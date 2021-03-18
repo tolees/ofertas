@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B19T7QC-es ASUS VG248QE Serie VG248 - Monitor Gaming de 24" Full-HD...'
 sku: 'B00B19T7QC-es'
-tags: [  ]
 actualPrice: 174.99 EUR
 currency: EUR
 price: 174.99

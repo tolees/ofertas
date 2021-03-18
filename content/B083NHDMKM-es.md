@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083NHDMKM-es Auriculares Bluetooth TWS Wireless Bluetooth 5.0...'
 sku: 'B083NHDMKM-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

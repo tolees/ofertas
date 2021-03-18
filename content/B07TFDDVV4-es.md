@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TFDDVV4-es Tristar KA-5215 Calefactor eléctrico mica – 3 ajustes –...'
 sku: 'B07TFDDVV4-es'
-tags: [  ]
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

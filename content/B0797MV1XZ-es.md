@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797MV1XZ-es Nike W Nk Dry Acdmy18 Top SS T-Shirt Mujer University...'
 sku: 'B0797MV1XZ-es'
-tags: [  ]
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

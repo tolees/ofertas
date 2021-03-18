@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NXMCFK0-es Plus Office EH303A-8/FC - Fundas multitaladro folio-...'
 sku: 'B00NXMCFK0-es'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

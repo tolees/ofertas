@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001TH7GVE-es AmazonBasics RJ45 - Cable de red de Ethernet de Cat-5e 4 2 m'
 sku: 'B001TH7GVE-es'
-tags: [  ]
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

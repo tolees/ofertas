@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QXL92Y-es B Blesiya Cucharadita De Bambú Matcha Polvo Cucharadita...'
 sku: 'B079QXL92Y-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

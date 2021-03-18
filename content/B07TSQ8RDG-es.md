@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TSQ8RDG-es Skechers Bounder Zapatillas Hombre Azul Navy...'
 sku: 'B07TSQ8RDG-es'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

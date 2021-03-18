@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHMZV67-es Oral-B Encías & Esmalte Repair Blanqueante Pasta...'
 sku: 'B07DHMZV67-es'
-tags: [ 'oral-b', ]
 actualPrice: 2.91 EUR
 currency: EUR
 price: 2.91

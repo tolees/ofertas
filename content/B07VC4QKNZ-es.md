@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VC4QKNZ-es Samsung EE-UC10J - Adaptador USB tipo C a conector Jack de...'
 sku: 'B07VC4QKNZ-es'
-tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

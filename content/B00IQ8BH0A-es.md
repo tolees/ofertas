@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IQ8BH0A-es Astralpool 11390 Floculante en Cartuchos para Piscinas...'
 sku: 'B00IQ8BH0A-es'
-tags: [  ]
 actualPrice: 18.84 EUR
 currency: EUR
 price: 18.84

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W3M3PXS-es Cámara vigilancia bebe Vigilabebés Inalambrico con cámara...'
 sku: 'B07W3M3PXS-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

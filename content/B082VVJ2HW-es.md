@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VVJ2HW-es Lee Tapered Cargo Pant Pantalones Negro 28W x 32L para Hombre'
 sku: 'B082VVJ2HW-es'
-tags: [  ]
 actualPrice: 24.53 EUR
 currency: EUR
 price: 24.53

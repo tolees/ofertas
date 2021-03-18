@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PGK7ZMX-es Goula- El jardín de Bunny - Juego de mesa preescolar a...'
 sku: 'B07PGK7ZMX-es'
-tags: [  ]
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

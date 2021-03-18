@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868NJ4QW-es Suhctup Transparente Funda Compatible con OnePlus 7T...'
 sku: 'B0868NJ4QW-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

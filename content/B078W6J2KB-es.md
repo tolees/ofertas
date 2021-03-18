@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078W6J2KB-es Reloj de Bolsillo Vintage Retro Moto Grabado Motocicleta...'
 sku: 'B078W6J2KB-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

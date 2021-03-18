@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FMVT78B-es FIDECH Masajeador Portátil Silicona Suave Impermeable...'
 sku: 'B08FMVT78B-es'
-tags: [ 'fidech', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

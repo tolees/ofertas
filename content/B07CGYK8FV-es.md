@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CGYK8FV-es Maybelline New York Eyeliner Hyper Precise All Day...'
 sku: 'B07CGYK8FV-es'
-tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

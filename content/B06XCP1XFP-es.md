@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XCP1XFP-es STANLEY STST1-80150 - Arcón para herramientas con cierres...'
 sku: 'B06XCP1XFP-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

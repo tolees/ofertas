@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGHSFK4-es SUPRBIRD Juguete de Cuentas de Niños DIY Cuentas Coloridas...'
 sku: 'B07ZGHSFK4-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVHFPDL-es New Balance 574v2 entrenadores Hombre Negro Black Black 40 EU'
 sku: 'B07DVHFPDL-es'
-tags: [  ]
 actualPrice: 52.57 EUR
 currency: EUR
 price: 52.57

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JXXS6HF-es Jack & Jones Jjimarco Jjbowie Sa Pantalones Verde Olive...'
 sku: 'B07JXXS6HF-es'
-tags: [  ]
 actualPrice: 26.31 EUR
 currency: EUR
 price: 26.31

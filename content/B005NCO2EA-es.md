@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005NCO2EA-es Kensington K64675EU - Candado de Combinación para Portátil...'
 sku: 'B005NCO2EA-es'
-tags: [  ]
 actualPrice: 36.21 EUR
 currency: EUR
 price: 36.21

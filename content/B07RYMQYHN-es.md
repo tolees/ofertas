@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RYMQYHN-es Levi s 502 Taper Jeans Biologia ADV 28W / 32L para Hombre'
 sku: 'B07RYMQYHN-es'
-tags: [  ]
 actualPrice: 66.37 EUR
 currency: EUR
 price: 66.37

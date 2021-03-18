@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0871WBSJ3-es SEPOVEDA 400ml Humidificador Ultrasónico Difusor Aceites...'
 sku: 'B0871WBSJ3-es'
-tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

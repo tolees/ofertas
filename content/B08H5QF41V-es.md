@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H5QF41V-es Nero Giardini - NeroGiardini A923731M Sneaker Kids Niño De...'
 sku: 'B08H5QF41V-es'
-tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

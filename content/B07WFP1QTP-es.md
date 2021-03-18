@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WFP1QTP-es Reloj Seiko para Hombre Negro Specialist 5K2'
 sku: 'B07WFP1QTP-es'
-tags: [  ]
 actualPrice: 206.06 EUR
 currency: EUR
 price: 206.06

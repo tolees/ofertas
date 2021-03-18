@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PC6Q7KG-es Moussel Gel Ducha Aloe Vera - Pack de 4 x 900 ml - Total:...'
 sku: 'B07PC6Q7KG-es'
-tags: [  ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XDWFR9T-es GREAT ART Set de Tarjetas motivacionales – 12 Tarjetas...'
 sku: 'B07XDWFR9T-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

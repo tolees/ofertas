@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LPLHN76-es Lactovit - Desodorante Roll On Extra Eficaz Protección...'
 sku: 'B00LPLHN76-es'
-tags: [  ]
 actualPrice: 1.22 EUR
 currency: EUR
 price: 1.22

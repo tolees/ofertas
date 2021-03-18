@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LDFG72M-es Nero Giardini A968220D - Piel ecológica para mujer Amarena 38'
 sku: 'B08LDFG72M-es'
-tags: [  ]
 actualPrice: 67.5 EUR
 currency: EUR
 price: 67.5

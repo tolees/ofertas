@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2S43CR-es ARDITEX AV11918 Gorro de baño-Piscina de poliéster de...'
 sku: 'B07C2S43CR-es'
-tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

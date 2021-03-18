@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1WC42S-es COFIT Cubierta de Volante de Cuero de Microfibra Negro y...'
 sku: 'B07T1WC42S-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

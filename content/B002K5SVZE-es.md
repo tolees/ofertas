@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002K5SVZE-es ESI Aloe Veragel with Vitamin E and Tea Tree Oil 500ml by ESI'
 sku: 'B002K5SVZE-es'
-tags: [  ]
 actualPrice: 17.72 EUR
 currency: EUR
 price: 17.72

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QNE05AW-es Bresser Trípode de mesa de 24cm'
 sku: 'B00QNE05AW-es'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YSQNH88-es Trust Yvo - Paquete de Viaje 2 en 1: Funda y ratón...'
 sku: 'B07YSQNH88-es'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

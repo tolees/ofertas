@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TP519KL-es Superdry State Volley Swim Short Pantalones Cortos Azul...'
 sku: 'B07TP519KL-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

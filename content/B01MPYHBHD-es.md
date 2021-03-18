@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MPYHBHD-es Hummel Slimmer Stadil Tonal Low Zapatillas Unisex Adulto...'
 sku: 'B01MPYHBHD-es'
-tags: [  ]
 actualPrice: 21.36 EUR
 currency: EUR
 price: 21.36

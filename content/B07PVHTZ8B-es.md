@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PVHTZ8B-es 5200mAh 593553-001 Batería del ordenador portátil para HP...'
 sku: 'B07PVHTZ8B-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

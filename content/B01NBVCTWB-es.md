@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NBVCTWB-es New Balance 500 Zapatillas Azul Navy/Blue BB 33 EU'
 sku: 'B01NBVCTWB-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074K75SRV-es Taurus Prior Glass - Batidora de Vaso 600 W Capacidad de...'
 sku: 'B074K75SRV-es'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

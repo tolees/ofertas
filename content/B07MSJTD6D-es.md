@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MSJTD6D-es TACKLIFE Juego de Llaves Allen 30 Llaves Allen Hexagonales...'
 sku: 'B07MSJTD6D-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009DZJBT4-es SD toys - The Big Bang Theory Disfraz Flash Protagonistas...'
 sku: 'B009DZJBT4-es'
-tags: [  ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

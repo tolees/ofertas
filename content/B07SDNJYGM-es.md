@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SDNJYGM-es Riuty Dardos de Espuma Recargue Dardos de Espuma para...'
 sku: 'B07SDNJYGM-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

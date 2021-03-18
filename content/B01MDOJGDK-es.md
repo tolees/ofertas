@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MDOJGDK-es Neutrogena Hydro Boost Limpiador Gel de Agua Elimina las...'
 sku: 'B01MDOJGDK-es'
-tags: [ 'neutrogena', ]
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

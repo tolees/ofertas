@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHY89JG-es New Balance Fresh Foam Roav Trail m Zapatillas de Running...'
 sku: 'B07RHY89JG-es'
-tags: [  ]
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

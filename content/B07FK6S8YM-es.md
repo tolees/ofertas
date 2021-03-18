@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FK6S8YM-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B07FK6S8YM-es'
-tags: [  ]
 actualPrice: 147.54 EUR
 currency: EUR
 price: 147.54

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG16JVV-es PUMA Hybrid Fuego Lights Zapatillas de Running para Hombre...'
 sku: 'B07KG16JVV-es'
-tags: [  ]
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

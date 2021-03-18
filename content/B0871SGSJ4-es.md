@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0871SGSJ4-es YPPDPP Toto Likes Videogames Square Pillow Cases Cubierta...'
 sku: 'B0871SGSJ4-es'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

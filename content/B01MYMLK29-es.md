@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MYMLK29-es Altos De Tamaron Reserva Tinto D.O. Rib. Duero Vino -...'
 sku: 'B01MYMLK29-es'
-tags: [  ]
 actualPrice: 40.45 EUR
 currency: EUR
 price: 40.45

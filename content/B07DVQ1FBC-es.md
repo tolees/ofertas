@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DVQ1FBC-es Casio EDIFICE Reloj en caja sólida 10 BAR Negro/Azul para...'
 sku: 'B07DVQ1FBC-es'
-tags: [  ]
 actualPrice: 85.29 EUR
 currency: EUR
 price: 85.29

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNDVYX2-es NACATIN Mochila de Senderismo Mochila de Montañismo 70L...'
 sku: 'B07PNDVYX2-es'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

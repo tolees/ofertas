@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8SQ1D7-es REPLAY M3967 .000.21842 Capucha Negro Black 98 X-Large...'
 sku: 'B07L8SQ1D7-es'
-tags: [  ]
 actualPrice: 29.61 EUR
 currency: EUR
 price: 29.61

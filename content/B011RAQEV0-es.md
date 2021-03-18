@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B011RAQEV0-es Vulkan Kinesio Rodillera Rótula Abierta Hombre Negro S'
 sku: 'B011RAQEV0-es'
-tags: [  ]
 actualPrice: 10.82 EUR
 currency: EUR
 price: 10.82

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDVRJBQ-es NIVEA SUN Protege & Hidrata Spray Solar FP50+ 1 x 300 ml...'
 sku: 'B00XDVRJBQ-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYHW9HA-es Olympus - M.Zuiko Digital ED 12-100 mm F4 IS Pro Objetivo...'
 sku: 'B01LYHW9HA-es'
-tags: [  ]
 actualPrice: 839.2 EUR
 currency: EUR
 price: 839.2

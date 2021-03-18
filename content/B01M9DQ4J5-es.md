@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M9DQ4J5-es Motorola Lifestyle VerveOnes ME Music Edition Auriculares...'
 sku: 'B01M9DQ4J5-es'
-tags: [  ]
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

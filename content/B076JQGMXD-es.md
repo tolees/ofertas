@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076JQGMXD-es adidas BECKENBAUER TT Sweatshirt Hombre Black M'
 sku: 'B076JQGMXD-es'
-tags: [  ]
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

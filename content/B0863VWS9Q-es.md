@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0863VWS9Q-es Dasket Bin cesto de Ropa de lavandería Cesta de Malla...'
 sku: 'B0863VWS9Q-es'
-tags: [  ]
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

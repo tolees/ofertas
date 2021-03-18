@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072FJ68FD-es Under Armour UA Men s Webbing 2.0 Belt cinturón para...'
 sku: 'B072FJ68FD-es'
-tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F5TVZ9C-es Memorias USB 5 Piezas 32GB USB 2.0 Stick Flash Drive...'
 sku: 'B07F5TVZ9C-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

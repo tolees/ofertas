@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D86HPJY-es New Balance Fresh Foam Cruz v2 Sock Zapatillas para Hombre...'
 sku: 'B07D86HPJY-es'
-tags: [  ]
 actualPrice: 49.51 EUR
 currency: EUR
 price: 49.51

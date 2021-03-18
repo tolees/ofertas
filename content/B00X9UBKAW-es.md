@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9UBKAW-es Garnier Original Remedies Oliva Mítica mascarilla capilar...'
 sku: 'B00X9UBKAW-es'
-tags: [  ]
 actualPrice: 2.94 EUR
 currency: EUR
 price: 2.94

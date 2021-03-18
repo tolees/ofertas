@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D0FMRE8-es Great Art Gráfico artistico de Lirio Mural de by 140 x 100 cm'
 sku: 'B01D0FMRE8-es'
-tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010QX7QCA-es Aigostar - Bombilla LED E27 12W Luz Blanca Fría 6400K 1020...'
 sku: 'B010QX7QCA-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

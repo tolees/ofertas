@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XRDFYDU-es Swiss Military 6-4251.04.007'
 sku: 'B00XRDFYDU-es'
-tags: [  ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

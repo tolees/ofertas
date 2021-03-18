@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I2Z9ITI-es Arganour Jojoba Oil 100% Pure Aceite Corporal - 50 ml'
 sku: 'B01I2Z9ITI-es'
-tags: [  ]
 actualPrice: 6.13 EUR
 currency: EUR
 price: 6.13

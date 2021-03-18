@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTQFQB3-es Hugo BOSS Reloj de pulsera 1513707'
 sku: 'B07KTQFQB3-es'
-tags: [  ]
 actualPrice: 210.02 EUR
 currency: EUR
 price: 210.02

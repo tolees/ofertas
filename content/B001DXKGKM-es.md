@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001DXKGKM-es HP 304 - Cartucho de tóner Original HP 304A Amarillo para...'
 sku: 'B001DXKGKM-es'
-tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

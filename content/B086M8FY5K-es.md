@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086M8FY5K-es Lam Hub Fong Personalizadas Pulsera Cruzadas para Hombre...'
 sku: 'B086M8FY5K-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

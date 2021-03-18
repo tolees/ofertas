@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WD2WDTV-es HYcase Estuche para Samsung Galaxy A20E Silicona IMD TPU...'
 sku: 'B07WD2WDTV-es'
-tags: [  ]
 actualPrice: 3.86 EUR
 currency: EUR
 price: 3.86

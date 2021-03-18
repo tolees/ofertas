@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JUUM13K-es MyProtein Flavdrops Saborizante Natural Sabor Caramelo -...'
 sku: 'B00JUUM13K-es'
-tags: [  ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

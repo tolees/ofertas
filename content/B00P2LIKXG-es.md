@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P2LIKXG-es Gigandet G38-005 - Reloj para Mujeres Correa de Acero...'
 sku: 'B00P2LIKXG-es'
-tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

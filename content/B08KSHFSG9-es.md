@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KSHFSG9-es HUAWEI P Smart 2021 - Smartphone de 6 67 Pulgadas Full HD...'
 sku: 'B08KSHFSG9-es'
-tags: [  ]
 actualPrice: 163.51 EUR
 currency: EUR
 price: 163.51

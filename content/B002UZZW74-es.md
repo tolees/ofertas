@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002UZZW74-es Collistar - LEA crema de afeitar piel sensible con brocha...'
 sku: 'B002UZZW74-es'
-tags: [  ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

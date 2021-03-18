@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H7VP45K-es Beurer EM95 Electroestimulador Digital Cuerpo con...'
 sku: 'B07H7VP45K-es'
-tags: [  ]
 actualPrice: 370.03 EUR
 currency: EUR
 price: 370.03

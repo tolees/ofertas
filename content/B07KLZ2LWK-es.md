@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KLZ2LWK-es BRIKSMAX Kit de Iluminación Led para Barco En Botella-...'
 sku: 'B07KLZ2LWK-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

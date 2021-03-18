@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XWJ2M7Q-es Real Madrid Neceser Edt+Rollon - 110 ml'
 sku: 'B07XWJ2M7Q-es'
-tags: [  ]
 actualPrice: 9.47 EUR
 currency: EUR
 price: 9.47

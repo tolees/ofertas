@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OGLLOQI-es AEG 4935442850 Taladro percutor 750 W'
 sku: 'B00OGLLOQI-es'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

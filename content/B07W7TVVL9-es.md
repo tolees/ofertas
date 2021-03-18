@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TVVL9-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07W7TVVL9-es'
-tags: [  ]
 actualPrice: 134.79 EUR
 currency: EUR
 price: 134.79

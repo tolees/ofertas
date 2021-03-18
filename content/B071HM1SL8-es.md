@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071HM1SL8-es Falomir Caza Zombis Juego de Mesa Habilidad 27270...'
 sku: 'B071HM1SL8-es'
-tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

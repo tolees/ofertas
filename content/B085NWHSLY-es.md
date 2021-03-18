@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085NWHSLY-es SoriaNatural - Soria Natural – PROPOLEO S. XXI –...'
 sku: 'B085NWHSLY-es'
-tags: [  ]
 actualPrice: 17.75 EUR
 currency: EUR
 price: 17.75

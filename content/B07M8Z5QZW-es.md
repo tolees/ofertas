@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8Z5QZW-es WERNNSAI Juego Tema Decoración de Fiesta - Set de Party...'
 sku: 'B07M8Z5QZW-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

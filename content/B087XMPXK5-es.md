@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087XMPXK5-es NIKE Inter M NK BRT Stad JSY SS AW T-Shirt Hombre...'
 sku: 'B087XMPXK5-es'
-tags: [  ]
 actualPrice: 22.36 EUR
 currency: EUR
 price: 22.36

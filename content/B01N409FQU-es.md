@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N409FQU-es tesa 937013 - Sello adhesivo Multicolor'
 sku: 'B01N409FQU-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

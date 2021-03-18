@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6Z59VN-es Bosch Professional GWX 9-115 S - Amoladora angular 900 W...'
 sku: 'B07P6Z59VN-es'
-tags: [  ]
 actualPrice: 106.0 EUR
 currency: EUR
 price: 106.0

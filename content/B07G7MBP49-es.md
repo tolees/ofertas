@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G7MBP49-es Xiaomi Mi Band 3 - Pulsera de actividad Pantalla 0.78 full...'
 sku: 'B07G7MBP49-es'
-tags: [  ]
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005KQ3T7A-es Helly Hansen W Daybreaker 1/2 Zip Fleece Mujer Black M'
 sku: 'B005KQ3T7A-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

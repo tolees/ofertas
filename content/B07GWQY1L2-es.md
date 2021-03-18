@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GWQY1L2-es NNJXD Partido del Unicornio Flor de Las Muchachas del...'
 sku: 'B07GWQY1L2-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJJJFTF-es Nike U Nk H86 Cap Metal Swoosh Hat Unisex Adulto Team...'
 sku: 'B07TJJJFTF-es'
-tags: [  ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

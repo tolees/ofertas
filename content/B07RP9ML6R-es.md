@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP9ML6R-es HARRY POTTER Set Imanes Multicolor 18 x 24 x 0 3 cm'
 sku: 'B07RP9ML6R-es'
-tags: [ 'harry potter', ]
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

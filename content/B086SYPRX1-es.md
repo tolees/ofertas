@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086SYPRX1-es EBL LCD Cargador de Pilas Universal con Puerto Tipo C para...'
 sku: 'B086SYPRX1-es'
-tags: [  ]
 actualPrice: 24.74 EUR
 currency: EUR
 price: 24.74

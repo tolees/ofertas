@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6PN4TD-es Skechers Ultra Flex-More Tranquility Zapatillas para Mujer...'
 sku: 'B07J6PN4TD-es'
-tags: [  ]
 actualPrice: 26.01 EUR
 currency: EUR
 price: 26.01

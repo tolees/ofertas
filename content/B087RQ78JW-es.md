@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087RQ78JW-es Koch Media - Warhammer 40.000: Mechanicus'
 sku: 'B087RQ78JW-es'
-tags: [  ]
 actualPrice: 22.13 EUR
 currency: EUR
 price: 22.13

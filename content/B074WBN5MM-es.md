@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074WBN5MM-es Motorola Baby - Motorola MBP 55 - Vigilabebés Portátil...'
 sku: 'B074WBN5MM-es'
-tags: [  ]
 actualPrice: 153.99 EUR
 currency: EUR
 price: 153.99

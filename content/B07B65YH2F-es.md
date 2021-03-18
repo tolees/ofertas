@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B65YH2F-es Bolsa de maquillaje Tpocean neceser portátil para viajar...'
 sku: 'B07B65YH2F-es'
-tags: [  ]
 actualPrice: 4.75 EUR
 currency: EUR
 price: 4.75

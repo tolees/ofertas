@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PRVWKA0-es OcioDual Correa de Repuesto Compatible con Reloj Casio...'
 sku: 'B00PRVWKA0-es'
-tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

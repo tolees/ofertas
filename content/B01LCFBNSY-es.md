@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LCFBNSY-es Tamron T62001 - Teleconvertidor 1.4X para Canon Negro'
 sku: 'B01LCFBNSY-es'
-tags: [  ]
 actualPrice: 322.54 EUR
 currency: EUR
 price: 322.54

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EVPRTSG-es Calvin Klein Bottoms UP-Bikini Ropa interior Azul Purity...'
 sku: 'B00EVPRTSG-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

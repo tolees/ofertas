@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXF3GRS-es COSORI Hervidor de Agua Eléctrico de Acero Inoxidable...'
 sku: 'B07FXF3GRS-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

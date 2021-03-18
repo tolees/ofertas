@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FBL5JR-es CuteRose Men Jammer Cycling Stretch Breathable Athletic...'
 sku: 'B082FBL5JR-es'
-tags: [  ]
 actualPrice: 1.16 EUR
 currency: EUR
 price: 1.16

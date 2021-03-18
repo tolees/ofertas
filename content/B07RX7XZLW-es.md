@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RX7XZLW-es Fox - Juego De Tronos Temporada 8 Premium [DVD]'
 sku: 'B07RX7XZLW-es'
-tags: [  ]
 actualPrice: 27.25 EUR
 currency: EUR
 price: 27.25

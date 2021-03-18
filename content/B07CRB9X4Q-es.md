@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CRB9X4Q-es Marvel - BD Vengadores Infinity War [Blu-ray]'
 sku: 'B07CRB9X4Q-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

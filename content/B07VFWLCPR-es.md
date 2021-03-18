@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VFWLCPR-es Hurley - W Block Party One Piece'
 sku: 'B07VFWLCPR-es'
-tags: [  ]
 actualPrice: 41.4 EUR
 currency: EUR
 price: 41.4

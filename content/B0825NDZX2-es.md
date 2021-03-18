@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825NDZX2-es Quiksilver All Time - Licra De Manga Corta con Protección...'
 sku: 'B0825NDZX2-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

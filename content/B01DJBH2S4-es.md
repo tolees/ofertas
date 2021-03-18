@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DJBH2S4-es Parker Jotter Stainless Steel bolígrafo CT'
 sku: 'B01DJBH2S4-es'
-tags: [  ]
 actualPrice: 11.26 EUR
 currency: EUR
 price: 11.26

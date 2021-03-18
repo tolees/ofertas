@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0759J7PNM-es S&R Brocas Corona Perforadora Metal. Juego de 5 Fresas a...'
 sku: 'B0759J7PNM-es'
-tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

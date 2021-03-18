@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GHM2QTW-es Intex 57104NP - Piscina hinchable 3 aros transparente 86 x...'
 sku: 'B01GHM2QTW-es'
-tags: [  ]
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

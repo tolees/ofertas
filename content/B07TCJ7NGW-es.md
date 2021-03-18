@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TCJ7NGW-es Samsonite Spinner 69/25 Equipaje de Mano 69 cm 85 Litros...'
 sku: 'B07TCJ7NGW-es'
-tags: [  ]
 actualPrice: 153.47 EUR
 currency: EUR
 price: 153.47

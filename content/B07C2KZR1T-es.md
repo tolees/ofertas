@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C2KZR1T-es Swiss Alpine Military by Grovana Hombre Reloj Chrono 10...'
 sku: 'B07C2KZR1T-es'
-tags: [  ]
 actualPrice: 119.97 EUR
 currency: EUR
 price: 119.97

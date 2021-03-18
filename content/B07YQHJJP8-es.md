@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQHJJP8-es Funko - Pop! Rocks: Slayer - Kerry King Figura...'
 sku: 'B07YQHJJP8-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

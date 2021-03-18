@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000GX8WAG-es Invicta 9204 Pro Diver Reloj Unisex acero inoxidable...'
 sku: 'B000GX8WAG-es'
-tags: [  ]
 actualPrice: 54.09 EUR
 currency: EUR
 price: 54.09

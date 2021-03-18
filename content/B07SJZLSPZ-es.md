@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SJZLSPZ-es Parateck - Hucha digital para niña con pantalla LCD hucha...'
 sku: 'B07SJZLSPZ-es'
-tags: [  ]
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

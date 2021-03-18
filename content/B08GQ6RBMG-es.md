@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GQ6RBMG-es NANOOK Soporte de Pared para TV de 19 a 43 Soporte de...'
 sku: 'B08GQ6RBMG-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

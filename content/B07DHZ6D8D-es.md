@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHZ6D8D-es New Balance 574S v2 Zapatillas para Mujer Rosa...'
 sku: 'B07DHZ6D8D-es'
-tags: [  ]
 actualPrice: 47.23 EUR
 currency: EUR
 price: 47.23

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LF3MX8-es Sorel Explorer Carnival Botas para Mujer Verde Hiker...'
 sku: 'B079LF3MX8-es'
-tags: [  ]
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

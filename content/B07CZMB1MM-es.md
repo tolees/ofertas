@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZMB1MM-es Under Armour Tech Mesh 6in 2 Pack Ropa Interior Hombre...'
 sku: 'B07CZMB1MM-es'
-tags: [  ]
 actualPrice: 24.67 EUR
 currency: EUR
 price: 24.67

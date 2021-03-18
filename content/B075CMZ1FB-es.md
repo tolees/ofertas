@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075CMZ1FB-es Lunvon 12 Canales Enchufes Inalámbricos Inteligentes con...'
 sku: 'B075CMZ1FB-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

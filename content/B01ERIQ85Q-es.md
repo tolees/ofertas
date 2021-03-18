@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ERIQ85Q-es Calcetines de Compresión 1 par Amarillo EU 35-38'
 sku: 'B01ERIQ85Q-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

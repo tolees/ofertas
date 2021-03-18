@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF8KFFW-es PremiumTech - HUB USB C HDMI 7 en 1 con Cable USB 3.1 y...'
 sku: 'B07VF8KFFW-es'
-tags: [  ]
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

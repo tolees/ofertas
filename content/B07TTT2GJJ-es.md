@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTT2GJJ-es Women s Secret Cotton Print Black Flower Braguita...'
 sku: 'B07TTT2GJJ-es'
-tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

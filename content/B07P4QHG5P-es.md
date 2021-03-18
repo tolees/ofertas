@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P4QHG5P-es Geomag Magicube Paw Patrol 078 Marshall Rubble y Zuma...'
 sku: 'B07P4QHG5P-es'
-tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

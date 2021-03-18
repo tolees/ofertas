@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZZBGJ1Y-es Limpiador Multiusos de Superficies Perfumado Pulverizador...'
 sku: 'B06ZZBGJ1Y-es'
-tags: [ 'mayordomo', ]
 actualPrice: 2.1 EUR
 currency: EUR
 price: 2.1

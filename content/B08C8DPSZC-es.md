@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C8DPSZC-es 2K GAMES - NBA 2K21 Steelbook Edition exklusiv bei...'
 sku: 'B08C8DPSZC-es'
-tags: [  ]
 actualPrice: 33.47 EUR
 currency: EUR
 price: 33.47

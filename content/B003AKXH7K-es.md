@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003AKXH7K-es AVENE Solar Crema con Color SPF-50 Naranja 50 ml'
 sku: 'B003AKXH7K-es'
-tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

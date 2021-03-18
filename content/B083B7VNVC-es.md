@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083B7VNVC-es Grsta Botella de Agua Botella Agua Acero Inoxidable sin...'
 sku: 'B083B7VNVC-es'
-tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

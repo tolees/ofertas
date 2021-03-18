@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009UIA5RQ-es GREAT ART Discovery Original - Barney Stinson Wall Poster...'
 sku: 'B009UIA5RQ-es'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

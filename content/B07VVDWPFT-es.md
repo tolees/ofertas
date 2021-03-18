@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVDWPFT-es Skechers Ultra Flex Zapatillas para Mujer Blanco Blanco...'
 sku: 'B07VVDWPFT-es'
-tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

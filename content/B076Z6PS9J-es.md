@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076Z6PS9J-es knowing 100MM Blanco Corazón Madera Rodajas Discos para...'
 sku: 'B076Z6PS9J-es'
-tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

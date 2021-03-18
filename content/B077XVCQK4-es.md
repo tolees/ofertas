@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XVCQK4-es Shock Absorber Ultimate Run Bra Sujetador Deportivo para...'
 sku: 'B077XVCQK4-es'
-tags: [  ]
 actualPrice: 24.14 EUR
 currency: EUR
 price: 24.14

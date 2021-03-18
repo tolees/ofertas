@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DCKBWXI-es VIASOLAR Panel Solar policristalino 50W 12V'
 sku: 'B01DCKBWXI-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

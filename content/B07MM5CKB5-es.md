@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MM5CKB5-es Adidas Fortagym CF Jr Zapatillas de Competición Unisex...'
 sku: 'B07MM5CKB5-es'
-tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XWRGTMB-es Maybelline New York - Face Studio Primer Primer Prebase de...'
 sku: 'B06XWRGTMB-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

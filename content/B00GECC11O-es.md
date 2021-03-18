@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GECC11O-es Linksys LGS116P-EU - Unmanaged Switch Gigabit PoE+ de...'
 sku: 'B00GECC11O-es'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

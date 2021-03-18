@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DR3ZR6V-es DIGITNOW! Capturadora de vídeo HDMI Full HD hasta 1080P...'
 sku: 'B08DR3ZR6V-es'
-tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

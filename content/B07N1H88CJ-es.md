@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1H88CJ-es Clarks Griffin Plaza Botas Chelsea para Mujer Gris Pardo...'
 sku: 'B07N1H88CJ-es'
-tags: [  ]
 actualPrice: 34.24 EUR
 currency: EUR
 price: 34.24

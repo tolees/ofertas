@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRTSL8Q-es Anpro - Micrófono de condensador USB con cable USB de 1 8...'
 sku: 'B07XRTSL8Q-es'
-tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

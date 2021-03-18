@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RDCTQ9S-es Rpanle Gorro Bluetooth 5.0 Regalos Originales para Hombre...'
 sku: 'B08RDCTQ9S-es'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

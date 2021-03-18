@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PC3V9F2-es Hollow Knight'
 sku: 'B07PC3V9F2-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

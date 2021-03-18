@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCV8H7H-es Pole Watches Reloj de Pulsera Analógico Monoaguja de...'
 sku: 'B07MCV8H7H-es'
-tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

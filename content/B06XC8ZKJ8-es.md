@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XC8ZKJ8-es Nobleza - Rascador para Gatos de cartón. Soporte de...'
 sku: 'B06XC8ZKJ8-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

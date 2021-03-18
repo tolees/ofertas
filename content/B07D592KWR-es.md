@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D592KWR-es Fjallraven Kånken Photo Insert Wallets and Small Bags...'
 sku: 'B07D592KWR-es'
-tags: [  ]
 actualPrice: 56.45 EUR
 currency: EUR
 price: 56.45

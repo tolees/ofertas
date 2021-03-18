@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TB52GSZ-es Symiu Juegos de Mesa Niñas Juego de Pesca Música Ajustable...'
 sku: 'B07TB52GSZ-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086C4C2NR-es Dispensador de Jabón Automático con Sensor de Movimiento...'
 sku: 'B086C4C2NR-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

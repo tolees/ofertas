@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9M3SQP-es Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07B9M3SQP-es'
-tags: [  ]
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

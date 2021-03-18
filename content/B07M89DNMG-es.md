@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M89DNMG-es Lee Luke Corduroy Pantalones Gris Lead Grey 30 31W / 32L...'
 sku: 'B07M89DNMG-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C7YKNSH-es Ao International Tennis'
 sku: 'B07C7YKNSH-es'
-tags: [  ]
 actualPrice: 18 EUR
 currency: EUR
 price: 18

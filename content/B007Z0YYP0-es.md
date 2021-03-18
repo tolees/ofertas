@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007Z0YYP0-es Arena Zeal - Albornoz Adulto Unisex Azul Navy/White talla...'
 sku: 'B007Z0YYP0-es'
-tags: [  ]
 actualPrice: 21.75 EUR
 currency: EUR
 price: 21.75

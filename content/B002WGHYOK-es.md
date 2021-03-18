@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002WGHYOK-es Superga 2750 COTU Classic Sneakers Zapatillas Unisex...'
 sku: 'B002WGHYOK-es'
-tags: [  ]
 actualPrice: 28.7 EUR
 currency: EUR
 price: 28.7

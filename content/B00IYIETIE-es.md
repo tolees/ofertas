@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IYIETIE-es Braun Hogar - Braun CJ3000 WH - Exprimidor Eléctrico de...'
 sku: 'B00IYIETIE-es'
-tags: [  ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

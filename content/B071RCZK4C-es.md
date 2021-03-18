@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071RCZK4C-es Reloj - Lancardo - para - LCD17P042'
 sku: 'B071RCZK4C-es'
-tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

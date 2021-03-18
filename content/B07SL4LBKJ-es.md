@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SL4LBKJ-es adidas Grand Court C Zapatillas de Tenis Unisex niños...'
 sku: 'B07SL4LBKJ-es'
-tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

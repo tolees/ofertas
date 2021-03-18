@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071K91BCW-es Flor Suavizante Regular Azul Profesional - 10000 ml'
 sku: 'B071K91BCW-es'
-tags: [  ]
 actualPrice: 10.51 EUR
 currency: EUR
 price: 10.51

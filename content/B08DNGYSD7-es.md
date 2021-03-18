@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNGYSD7-es Leaum Galaxy A5 2017 - Funda de piel con función atril...'
 sku: 'B08DNGYSD7-es'
-tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

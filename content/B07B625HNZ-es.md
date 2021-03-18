@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B625HNZ-es Amtier Pulsera de Cuero Brazalete Ajustable con Acero...'
 sku: 'B07B625HNZ-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

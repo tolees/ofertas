@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V65VQ4F-es LDREAMAM - Jabón Carbón de bambú Jabón Negro con Carbón...'
 sku: 'B07V65VQ4F-es'
-tags: [  ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

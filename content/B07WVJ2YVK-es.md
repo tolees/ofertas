@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVJ2YVK-es MII-V Mini PC Desktop Ordenador License Windows 10...'
 sku: 'B07WVJ2YVK-es'
-tags: [  ]
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

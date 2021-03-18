@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVSST4C-es Funko- Pop Disney: Frozen 2-Elsa Figura coleccionable...'
 sku: 'B07QVSST4C-es'
-tags: [ 'funko', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

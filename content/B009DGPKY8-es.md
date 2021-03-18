@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009DGPKY8-es Zwilling Twin Classic - Batería de cocina 5 piezas Acero...'
 sku: 'B009DGPKY8-es'
-tags: [  ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

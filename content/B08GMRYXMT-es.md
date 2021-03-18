@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GMRYXMT-es Meridiem Games - Pang Adventures Buster Edition'
 sku: 'B08GMRYXMT-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

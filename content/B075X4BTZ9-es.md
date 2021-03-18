@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075X4BTZ9-es Medela - Bolsas de almacenamiento para conservar y...'
 sku: 'B075X4BTZ9-es'
-tags: [ 'medela', ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

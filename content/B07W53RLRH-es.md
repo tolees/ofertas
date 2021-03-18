@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W53RLRH-es SIKAI CASE - No Necesita En Movimiento SIKAI Protectora...'
 sku: 'B07W53RLRH-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

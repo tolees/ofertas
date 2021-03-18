@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KWFGYOO-es Columbia Woodburn II Zapatillas Hombre Negro Black Caramel...'
 sku: 'B00KWFGYOO-es'
-tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

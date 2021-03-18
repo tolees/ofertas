@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YXOHIO0-es Lifestyle 2427 Pelador Vertical para Frutas Verduras y...'
 sku: 'B00YXOHIO0-es'
-tags: [  ]
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

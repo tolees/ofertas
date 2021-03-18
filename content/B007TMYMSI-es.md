@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007TMYMSI-es CONVERSE Chuck Taylor All Star Mono Leather Hi -...'
 sku: 'B007TMYMSI-es'
-tags: [  ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

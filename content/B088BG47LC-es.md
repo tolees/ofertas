@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088BG47LC-es Oihxse Compatible con Samsung Galaxy A20S Funda Cristal...'
 sku: 'B088BG47LC-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

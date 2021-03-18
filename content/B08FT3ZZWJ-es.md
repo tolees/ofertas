@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FT3ZZWJ-es Mbuynow Transmisor FM Bluetooth Reproductor MP3...'
 sku: 'B08FT3ZZWJ-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

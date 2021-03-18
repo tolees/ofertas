@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0778H4NNH-es Fischer Duotec'
 sku: 'B0778H4NNH-es'
-tags: [  ]
 actualPrice: 4.31 EUR
 currency: EUR
 price: 4.31

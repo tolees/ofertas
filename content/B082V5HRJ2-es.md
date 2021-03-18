@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082V5HRJ2-es Canadian Peak Anorak'
 sku: 'B082V5HRJ2-es'
-tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

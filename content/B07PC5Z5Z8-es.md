@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PC5Z5Z8-es Lenovo T530 - Ordenador sobremesa Intel Core i7-8700 8GB...'
 sku: 'B07PC5Z5Z8-es'
-tags: [  ]
 actualPrice: 608.59 EUR
 currency: EUR
 price: 608.59

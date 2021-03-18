@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XFZ8K31-es Warner Bros. Interactive Spain - La Tierra Media: Sombras...'
 sku: 'B06XFZ8K31-es'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

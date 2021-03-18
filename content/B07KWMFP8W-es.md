@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KWMFP8W-es Hugo BOSS Reloj de pulsera 1513697'
 sku: 'B07KWMFP8W-es'
-tags: [  ]
 actualPrice: 177.9 EUR
 currency: EUR
 price: 177.9

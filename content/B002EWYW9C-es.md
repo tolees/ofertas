@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002EWYW9C-es Bosch Home and Garden 0.603.502.002 Sierra circular...'
 sku: 'B002EWYW9C-es'
-tags: [  ]
 actualPrice: 109 EUR
 currency: EUR
 price: 109

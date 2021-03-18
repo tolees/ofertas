@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07892JPTY-es Helly Hansen W Daybreaker Fleece Mujer White XS'
 sku: 'B07892JPTY-es'
-tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

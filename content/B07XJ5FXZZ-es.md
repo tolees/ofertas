@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XJ5FXZZ-es Luz Solar Exterior QTshine Foco Solar Exterior 118...'
 sku: 'B07XJ5FXZZ-es'
-tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

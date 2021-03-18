@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF4NRSZ-es JACK & JONES Jcotony Polo SS WHS Rojo Chinese Red Chinese...'
 sku: 'B07VF4NRSZ-es'
-tags: [  ]
 actualPrice: 7.41 EUR
 currency: EUR
 price: 7.41

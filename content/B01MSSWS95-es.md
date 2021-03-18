@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MSSWS95-es Adidas Vs Pace Zapatillas para Hombre Negro Core...'
 sku: 'B01MSSWS95-es'
-tags: [  ]
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

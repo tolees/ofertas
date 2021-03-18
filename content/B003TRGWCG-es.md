@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003TRGWCG-es Cereales Nestlé Fitness con Chocolate con leche - 1...'
 sku: 'B003TRGWCG-es'
-tags: [  ]
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZW49G2-es Merrell Terran Cross II Sandalia con Pulsera para Mujer...'
 sku: 'B07TZW49G2-es'
-tags: [  ]
 actualPrice: 27.69 EUR
 currency: EUR
 price: 27.69

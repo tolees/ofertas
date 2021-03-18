@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010PITFN4-es Casio Reloj de Pulsera SGW-450H-2BER'
 sku: 'B010PITFN4-es'
-tags: [  ]
 actualPrice: 67.08 EUR
 currency: EUR
 price: 67.08

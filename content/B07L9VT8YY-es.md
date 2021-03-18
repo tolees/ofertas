@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9VT8YY-es Beikell Lector de Tarjetas USB 3.0 de Memoria SD/Micro SD...'
 sku: 'B07L9VT8YY-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

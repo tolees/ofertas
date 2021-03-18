@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQZHGFF-es Skechers Flex Advantage 3.0-transvert Zapatillas para...'
 sku: 'B07NQZHGFF-es'
-tags: [  ]
 actualPrice: 24.47 EUR
 currency: EUR
 price: 24.47

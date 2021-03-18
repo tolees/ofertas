@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTN98BN-es FIND - Deep Forest - Trío de sombras de ojos n.10 n.11 n.12'
 sku: 'B07CTN98BN-es'
-tags: [  ]
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

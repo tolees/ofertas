@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LETDY80-es Lampa 60158 Cinta Tensor con trinquete'
 sku: 'B01LETDY80-es'
-tags: [  ]
 actualPrice: 8.86 EUR
 currency: EUR
 price: 8.86

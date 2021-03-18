@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VFGNBMX-es Napapijri Nakuro 3 Pantalones Cortos Rojo Bright Red R471...'
 sku: 'B07VFGNBMX-es'
-tags: [  ]
 actualPrice: 16.71 EUR
 currency: EUR
 price: 16.71

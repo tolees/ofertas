@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JKWHHY6-es Lee Luke Pants Jeans Dark Diamond Ft 32W / 32L para Hombre'
 sku: 'B07JKWHHY6-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

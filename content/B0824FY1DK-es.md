@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0824FY1DK-es Wipp Express Detergente Antiolores en Cápsulas 50 Discos -...'
 sku: 'B0824FY1DK-es'
-tags: [  ]
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

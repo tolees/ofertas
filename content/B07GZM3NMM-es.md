@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZM3NMM-es 【2020 Nueva Versión】 CHORTAU Camara de Coche Retrovisor 7...'
 sku: 'B07GZM3NMM-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

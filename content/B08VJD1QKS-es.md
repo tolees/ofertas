@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJD1QKS-es amzdeal Tocador con Espejo Mesa de Tocador con Iluminación...'
 sku: 'B08VJD1QKS-es'
-tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

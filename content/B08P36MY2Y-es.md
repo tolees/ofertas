@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P36MY2Y-es Organizador De Maquillaje Bandeja De Almacenamiento De...'
 sku: 'B08P36MY2Y-es'
-tags: [  ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

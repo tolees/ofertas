@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089MVVRVG-es Meridiem Games - Oddworld Munch s Oddysee'
 sku: 'B089MVVRVG-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

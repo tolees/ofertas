@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QKB2NQ5-es Chicco Flashy El Xilófono - Musicales'
 sku: 'B07QKB2NQ5-es'
-tags: [  ]
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

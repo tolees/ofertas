@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089YQ3D5C-es Luclay Arcilla Polimerica - 48 Colores Segura y No Tóxico...'
 sku: 'B089YQ3D5C-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

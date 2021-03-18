@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003OEKLFS-es Faber-Castell - Faber Castell 166004 - Estuche con 4...'
 sku: 'B003OEKLFS-es'
-tags: [  ]
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

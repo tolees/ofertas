@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S22CKY7-es Love MoschinoJc4095pp1aMujerBolsos totesNegro Negro...'
 sku: 'B07S22CKY7-es'
-tags: [  ]
 actualPrice: 102.08 EUR
 currency: EUR
 price: 102.08

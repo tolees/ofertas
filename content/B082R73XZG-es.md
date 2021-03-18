@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082R73XZG-es NIKE MD Valiant TDV Sneaker Black White 23.5 EU'
 sku: 'B082R73XZG-es'
-tags: [  ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

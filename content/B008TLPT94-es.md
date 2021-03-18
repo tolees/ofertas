@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008TLPT94-es Fox - Titanic -2012 [DVD]'
 sku: 'B008TLPT94-es'
-tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

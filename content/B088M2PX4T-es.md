@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088M2PX4T-es Suhctup Funda Compatible con Xiaomi Redmi Note 8...'
 sku: 'B088M2PX4T-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072N8CVN6-es Funko Pop! - Figura de Vinilo Erend 22606'
 sku: 'B072N8CVN6-es'
-tags: [  ]
 actualPrice: 7.94 EUR
 currency: EUR
 price: 7.94

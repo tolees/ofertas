@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9ZNMF6-es Calvin Klein Essential Tipping Slim Polo Negro CK...'
 sku: 'B07V9ZNMF6-es'
-tags: [  ]
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

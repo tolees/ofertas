@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001IX6ACA-es K&N E-1987 Filtro de Aire Coche Lavable y Reutilizable'
 sku: 'B001IX6ACA-es'
-tags: [  ]
 actualPrice: 64.76 EUR
 currency: EUR
 price: 64.76

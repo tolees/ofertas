@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014Z6NGOQ-es G-STAR RAW 3301 Slim Fit Jeans Raw Denim 6245-001 29W /...'
 sku: 'B014Z6NGOQ-es'
-tags: [  ]
 actualPrice: 39.96 EUR
 currency: EUR
 price: 39.96

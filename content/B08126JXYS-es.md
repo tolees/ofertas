@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08126JXYS-es Electroestimuladores TENS/EMS Digital Masaje Portatil 2...'
 sku: 'B08126JXYS-es'
-tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

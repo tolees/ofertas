@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D9J8NZY-es ISUDA - Aceite de Árbol de Té 100% Natural 2*30 ML Aceites...'
 sku: 'B08D9J8NZY-es'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0814BFK4Z-es Columbia Inner Limits II Jacket Hombre Azul Collegiate...'
 sku: 'B0814BFK4Z-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

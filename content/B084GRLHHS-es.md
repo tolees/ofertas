@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084GRLHHS-es Valira 4674/25 AIRE INDUCTION - PLANCHA 34X25 CM Negro'
 sku: 'B084GRLHHS-es'
-tags: [  ]
 actualPrice: 24.01 EUR
 currency: EUR
 price: 24.01

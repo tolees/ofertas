@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QS74C1T-es Nautica Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07QS74C1T-es'
-tags: [  ]
 actualPrice: 124.08 EUR
 currency: EUR
 price: 124.08

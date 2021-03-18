@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FJZMLM9-es Johnnie Walker Edición Limitada de Aniversario Blended...'
 sku: 'B08FJZMLM9-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

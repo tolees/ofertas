@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRBZ8RM-es PEKITAS Lote 2 Unidades Barrera Protector de Espuma Para...'
 sku: 'B07KRBZ8RM-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

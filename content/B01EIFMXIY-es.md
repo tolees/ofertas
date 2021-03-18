@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EIFMXIY-es Clarins Fix Make-Up Spray - 50 ml'
 sku: 'B01EIFMXIY-es'
-tags: [  ]
 actualPrice: 17.69 EUR
 currency: EUR
 price: 17.69

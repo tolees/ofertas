@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MT60NRQ-es Kärcher Aspirador VC 3 1.198-125.0'
 sku: 'B01MT60NRQ-es'
-tags: [  ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

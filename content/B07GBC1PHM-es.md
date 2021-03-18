@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBC1PHM-es Cordel de Yute 2 Rollo 328 Pies de Cuerda de Cáñamo...'
 sku: 'B07GBC1PHM-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

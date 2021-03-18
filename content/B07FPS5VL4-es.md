@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FPS5VL4-es Sierra Circular TECCPO 3500RPM 480W Mini Sierra Circular...'
 sku: 'B07FPS5VL4-es'
-tags: [  ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y5P8QDW-es Amazfit GTR A1910 42 Cherry Bl - Smartwatch 42 mm color rosa'
 sku: 'B07Y5P8QDW-es'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

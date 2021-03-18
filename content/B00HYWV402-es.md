@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HYWV402-es Arcos 815000 Juego de Cuchillos de Cocina Acero Inoxidable...'
 sku: 'B00HYWV402-es'
-tags: [  ]
 actualPrice: 34.03 EUR
 currency: EUR
 price: 34.03

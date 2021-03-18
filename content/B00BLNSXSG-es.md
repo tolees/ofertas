@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BLNSXSG-es Elizabeth Arden Prevage Suero Antienvejecimiento...'
 sku: 'B00BLNSXSG-es'
-tags: [  ]
 actualPrice: 92.9 EUR
 currency: EUR
 price: 92.9

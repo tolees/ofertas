@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B3ZLMD4-es FILA Disruptor Zapatillas para Hombre White 43 EU'
 sku: 'B07B3ZLMD4-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

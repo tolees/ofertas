@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Z9WNQW-es adidas W BOS OH HD IN Hooded Sweat Mujer Black 1X'
 sku: 'B089Z9WNQW-es'
-tags: [  ]
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

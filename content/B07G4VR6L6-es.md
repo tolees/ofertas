@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4VR6L6-es Braun Hogar - Braun CareStyle Compact IS2043 - Centro de...'
 sku: 'B07G4VR6L6-es'
-tags: [  ]
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

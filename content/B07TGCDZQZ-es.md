@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TGCDZQZ-es LIGHTAILING Conjunto de Luces Super Heroes Quinjet...'
 sku: 'B07TGCDZQZ-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

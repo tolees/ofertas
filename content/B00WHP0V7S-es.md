@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WHP0V7S-es Warner Bros. Entertainment España S.L. - Pack The Wire...'
 sku: 'B00WHP0V7S-es'
-tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

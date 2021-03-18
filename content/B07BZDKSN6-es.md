@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BZDKSN6-es Magnético cerveza soporte Soporte magnético 2pcs...'
 sku: 'B07BZDKSN6-es'
-tags: [  ]
 actualPrice: 6.09 EUR
 currency: EUR
 price: 6.09

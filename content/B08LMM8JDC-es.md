@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LMM8JDC-es BluVast - Adornos Arbol Navidad 128pcs adornos de madera...'
 sku: 'B08LMM8JDC-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

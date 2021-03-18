@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086B2LR2D-es Durex Preservativos Intense con Puntos y Estrías y gel...'
 sku: 'B086B2LR2D-es'
-tags: [  ]
 actualPrice: 9.54 EUR
 currency: EUR
 price: 9.54

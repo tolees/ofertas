@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SMRJ3C-es Sistema de Riego por Goteo Automático TAOPE Juego de 12...'
 sku: 'B081SMRJ3C-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

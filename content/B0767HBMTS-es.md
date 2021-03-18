@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0767HBMTS-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B0767HBMTS-es'
-tags: [  ]
 actualPrice: 84.15 EUR
 currency: EUR
 price: 84.15

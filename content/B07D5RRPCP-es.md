@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5RRPCP-es Eono Essentials Clear Toiletry Bag Bolsa de Equipaje de...'
 sku: 'B07D5RRPCP-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

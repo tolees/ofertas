@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZVT5VY-es Square Enix - Kingdom Hearts Melody of Memory'
 sku: 'B08HZVT5VY-es'
-tags: [  ]
 actualPrice: 31.6 EUR
 currency: EUR
 price: 31.6

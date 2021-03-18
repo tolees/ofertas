@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5CJ2XN-es SeeKool MII Mini PC Ordenador de sobremesa Full 4K HD...'
 sku: 'B07G5CJ2XN-es'
-tags: [  ]
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

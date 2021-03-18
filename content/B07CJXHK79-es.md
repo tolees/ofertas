@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJXHK79-es MARNUR Báscula Digital Báscula de Grasa Corporal con...'
 sku: 'B07CJXHK79-es'
-tags: [  ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

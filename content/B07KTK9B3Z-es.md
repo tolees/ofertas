@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTK9B3Z-es LEGO Architecture - Trafalgar Square Nuevo maqueta de...'
 sku: 'B07KTK9B3Z-es'
-tags: [  ]
 actualPrice: 67.46 EUR
 currency: EUR
 price: 67.46

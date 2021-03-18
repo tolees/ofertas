@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5HTH7D-es Skechers Men s Bounder Trainers Red Burgundy Burgundy 6.5...'
 sku: 'B07J5HTH7D-es'
-tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

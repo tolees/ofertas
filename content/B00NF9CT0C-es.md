@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NF9CT0C-es Lékué Recipiente para cocinar Palomitas Rojo 20 cm'
 sku: 'B00NF9CT0C-es'
-tags: [  ]
 actualPrice: 12.79 EUR
 currency: EUR
 price: 12.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYJYFPF-es Storeofbaby Paños de baño de bebé Reutilizable Ultra suave...'
 sku: 'B07DYJYFPF-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

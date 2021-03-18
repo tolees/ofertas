@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LK5X2K-es Dunlop FLASH PRO - Pala de pádel 38mm 2018 nivel...'
 sku: 'B079LK5X2K-es'
-tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

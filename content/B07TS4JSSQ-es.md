@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TS4JSSQ-es Take Two Interactive Spain - NBA 2k20'
 sku: 'B07TS4JSSQ-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

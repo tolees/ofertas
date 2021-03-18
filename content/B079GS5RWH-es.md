@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079GS5RWH-es 1home Soporte portátil ergónomico Adjustable Curvo para...'
 sku: 'B079GS5RWH-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y8S6KBT-es Microsoft Surface Laptop 3 - Ordenador portátil de 13.5"...'
 sku: 'B07Y8S6KBT-es'
-tags: [  ]
 actualPrice: 1049.0 EUR
 currency: EUR
 price: 1049.0

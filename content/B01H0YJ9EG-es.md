@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H0YJ9EG-es Moto Racer 4 Deluxe Edition'
 sku: 'B01H0YJ9EG-es'
-tags: [  ]
 actualPrice: 25.95 EUR
 currency: EUR
 price: 25.95

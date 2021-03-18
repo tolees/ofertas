@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0888QKWSB-es Xiaomi Redmi Note 9 Pro - Smartphone con pantalla FHD+...'
 sku: 'B0888QKWSB-es'
-tags: [ 'xiaomi', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

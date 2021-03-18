@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFNKKFP-es Columbia Vitesse Zapatillas de Deporte para Mujer Rojo...'
 sku: 'B07RFNKKFP-es'
-tags: [  ]
 actualPrice: 33.23 EUR
 currency: EUR
 price: 33.23

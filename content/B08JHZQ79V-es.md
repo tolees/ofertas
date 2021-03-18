@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JHZQ79V-es Meridiem Games - Vectronom'
 sku: 'B08JHZQ79V-es'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

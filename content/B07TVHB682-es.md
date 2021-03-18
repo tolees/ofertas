@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TVHB682-es Gearari - Corrector de Postura para Hombres y Mujeres...'
 sku: 'B07TVHB682-es'
-tags: [  ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

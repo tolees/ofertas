@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKTQSBX-es Lixada Cuerda de Saltar Ajustable—Manijas de Espuma Suave...'
 sku: 'B07ZKTQSBX-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

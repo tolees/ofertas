@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083XZJF7Z-es Emporio Armani Reloj Digital para Hombre de Pantalla...'
 sku: 'B083XZJF7Z-es'
-tags: [  ]
 actualPrice: 279.8 EUR
 currency: EUR
 price: 279.8

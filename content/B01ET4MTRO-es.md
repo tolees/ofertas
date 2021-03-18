@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ET4MTRO-es Helly Hansen W Aden Long Coat Jacket Mujer Blanco M'
 sku: 'B01ET4MTRO-es'
-tags: [  ]
 actualPrice: 89.49 EUR
 currency: EUR
 price: 89.49

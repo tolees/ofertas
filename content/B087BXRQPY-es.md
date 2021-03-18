@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087BXRQPY-es TAONEEF Mujer Moda Tacon Delgados Sandalias Cruzado Tacon...'
 sku: 'B087BXRQPY-es'
-tags: [  ]
 actualPrice: 22.88 EUR
 currency: EUR
 price: 22.88

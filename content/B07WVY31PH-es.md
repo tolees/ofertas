@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVY31PH-es Auriculares Bluetooth Auriculares Inalámbricos 2000mAh con...'
 sku: 'B07WVY31PH-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

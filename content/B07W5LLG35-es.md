@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5LLG35-es BestoU Monedero de Embrague Clutch Bolso de Noche Bolso...'
 sku: 'B07W5LLG35-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

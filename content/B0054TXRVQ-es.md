@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0054TXRVQ-es TP-Link TL-SF1016DS Conmutador Fast Ethernet de 16 Puertos...'
 sku: 'B0054TXRVQ-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082BCLJMW-es Icons Corner Pack de 2 Sillas Negra Patas de Madera Kandem...'
 sku: 'B082BCLJMW-es'
-tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

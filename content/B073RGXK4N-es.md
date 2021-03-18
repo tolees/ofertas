@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RGXK4N-es Adidas Response W Zapatillas de Trail Running para Mujer...'
 sku: 'B073RGXK4N-es'
-tags: [  ]
 actualPrice: 48.62 EUR
 currency: EUR
 price: 48.62

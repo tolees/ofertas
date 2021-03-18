@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000AFSX5-es Converse Chuck Taylor All Star Season Ox Zapatillas de...'
 sku: 'B0000AFSX5-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

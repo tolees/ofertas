@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G867JBC-es NOCOEX - 10x50 Binoculares Ultimate HD para Navegación -...'
 sku: 'B08G867JBC-es'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

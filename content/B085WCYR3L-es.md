@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085WCYR3L-es Theefun Kit con Juegos de Arena para niños 1362 g. 3...'
 sku: 'B085WCYR3L-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

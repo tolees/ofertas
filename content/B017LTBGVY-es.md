@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017LTBGVY-es Boma - B47008300012 - Cinta de tela adhesiva para...'
 sku: 'B017LTBGVY-es'
-tags: [  ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

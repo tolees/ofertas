@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073XM1TTL-es homgeek Batidora de Vaso Individual Licuadora Portatil...'
 sku: 'B073XM1TTL-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

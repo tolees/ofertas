@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0054JR5NM-es Alessi Officina Tiffany Bandeja Plateado'
 sku: 'B0054JR5NM-es'
-tags: [  ]
 actualPrice: 61.73 EUR
 currency: EUR
 price: 61.73

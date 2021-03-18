@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DTDWDDS-es Pro Breeze Purificador de Aire Mini con Auténtico Filtro...'
 sku: 'B07DTDWDDS-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

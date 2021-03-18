@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CVNSQ3C-es Formulaone - Soporte para computadora portátil Elevador de...'
 sku: 'B08CVNSQ3C-es'
-tags: [  ]
 actualPrice: 7.81 EUR
 currency: EUR
 price: 7.81

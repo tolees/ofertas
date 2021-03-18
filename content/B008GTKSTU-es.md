@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008GTKSTU-es Kärcher Conector universal para mangueras 2.645-191.0'
 sku: 'B008GTKSTU-es'
-tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

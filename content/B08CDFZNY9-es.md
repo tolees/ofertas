@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDFZNY9-es Colmanda 4 Pcs Planos de Espuma + 4 Pcs Juguete de...'
 sku: 'B08CDFZNY9-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

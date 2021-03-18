@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KLY1BZR-es Brrnoo Rodillera Deportiva Ajustable Rodillera de...'
 sku: 'B07KLY1BZR-es'
-tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

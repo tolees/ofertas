@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007RYU6W4-es FoodSaver FSFSMA0050-060 Marinador rápido Apto para...'
 sku: 'B007RYU6W4-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

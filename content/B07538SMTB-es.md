@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07538SMTB-es Lenovo Ideapad 520S-14IKB - Ordenador portátil ultrafino...'
 sku: 'B07538SMTB-es'
-tags: [  ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

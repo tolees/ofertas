@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088FXCQTC-es YARUIKE - Cortapelos Electrónico Cortapelos Profesional...'
 sku: 'B088FXCQTC-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

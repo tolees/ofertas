@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5DSBSQ-es GRIDINLUX. Batería de cocina. 8 piezas de Alta Gama...'
 sku: 'B07Y5DSBSQ-es'
-tags: [  ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

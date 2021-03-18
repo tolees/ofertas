@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WD37ZSP-es Braun Silk-épil 9 SkinSpa 9-969v - Depiladora mujer con...'
 sku: 'B06WD37ZSP-es'
-tags: [  ]
 actualPrice: 132.0 EUR
 currency: EUR
 price: 132.0

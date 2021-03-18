@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJK3DBP-es Funnyrunstore Herramienta de eliminación de la espinilla...'
 sku: 'B07NJK3DBP-es'
-tags: [  ]
 actualPrice: 0.02 EUR
 currency: EUR
 price: 0.02

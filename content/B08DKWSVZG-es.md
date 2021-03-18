@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKWSVZG-es Amazfit Band 5 Pulsera Actividad Inteligente Unisex Adulto...'
 sku: 'B08DKWSVZG-es'
-tags: [ 'amazfit', ]
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

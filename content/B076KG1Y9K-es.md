@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076KG1Y9K-es Vogel s WALL 3350 Soporte de pared para TV 40 - 65...'
 sku: 'B076KG1Y9K-es'
-tags: [  ]
 actualPrice: 201.0 EUR
 currency: EUR
 price: 201.0

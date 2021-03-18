@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG2W4XR-es PUMA Nova Wn s Zapatillas Deportivas para Mujer Blanco...'
 sku: 'B07KG2W4XR-es'
-tags: [  ]
 actualPrice: 27.11 EUR
 currency: EUR
 price: 27.11

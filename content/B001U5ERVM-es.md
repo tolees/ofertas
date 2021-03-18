@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001U5ERVM-es Nike Force 1 PS Zapatillas de Baloncesto para Niños Blanco...'
 sku: 'B001U5ERVM-es'
-tags: [  ]
 actualPrice: 33.13 EUR
 currency: EUR
 price: 33.13

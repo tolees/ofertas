@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KLRPV81-es Fantasy Flight Games- Keyforge: La Llamada de los Arcontes...'
 sku: 'B07KLRPV81-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

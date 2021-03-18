@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LXZEQ5U-es Trango BOMIO US Zapatillas de Senderismo Unisex Adulto...'
 sku: 'B01LXZEQ5U-es'
-tags: [  ]
 actualPrice: 39.48 EUR
 currency: EUR
 price: 39.48

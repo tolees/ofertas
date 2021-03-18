@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FMPXDTJ-es Xiaomi Redmi 9C NFC-Smartphone de 6.53" HD+ 3GB+64GB 3x...'
 sku: 'B08FMPXDTJ-es'
-tags: [ 'xiaomi', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

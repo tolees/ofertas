@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZ7Y9QD-es Centro de Planchado 2400 W 90 g/m 3.5 Bares Suela de...'
 sku: 'B01LZ7Y9QD-es'
-tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

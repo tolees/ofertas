@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLNWVQ3-es Vila 14053622 suéter Multicolor Golden Oak Golden Oak 40...'
 sku: 'B07TLNWVQ3-es'
-tags: [  ]
 actualPrice: 7.37 EUR
 currency: EUR
 price: 7.37

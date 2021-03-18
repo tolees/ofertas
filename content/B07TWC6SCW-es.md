@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWC6SCW-es Tommy Hilfiger Th Giftbox 3p Vanity Calcetines Blanco...'
 sku: 'B07TWC6SCW-es'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

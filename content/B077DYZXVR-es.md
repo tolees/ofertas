@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077DYZXVR-es Díadermine Expert Rejuvenecedor Crema Día- 50 ml'
 sku: 'B077DYZXVR-es'
-tags: [  ]
 actualPrice: 5.22 EUR
 currency: EUR
 price: 5.22

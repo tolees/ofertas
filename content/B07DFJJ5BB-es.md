@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFJJ5BB-es Figura Pop NBX: Oogie Boogie Bugs'
 sku: 'B07DFJJ5BB-es'
-tags: [  ]
 actualPrice: 8.96 EUR
 currency: EUR
 price: 8.96

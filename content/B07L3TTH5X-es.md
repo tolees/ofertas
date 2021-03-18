@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3TTH5X-es IOCHIC Patinete Eléctrico con Bluetooth Niños Unisex Talla...'
 sku: 'B07L3TTH5X-es'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

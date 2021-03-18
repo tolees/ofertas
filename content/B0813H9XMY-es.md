@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813H9XMY-es SHUIBIAN 5D DIY Diamante Pintura Diamante Completo Tigre...'
 sku: 'B0813H9XMY-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

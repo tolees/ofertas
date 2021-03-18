@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CPCHSV5-es HP 27f - Monitor de 27" FHD 1920 x 1080 pixeles Tiempo de...'
 sku: 'B07CPCHSV5-es'
-tags: [  ]
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

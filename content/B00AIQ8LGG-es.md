@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AIQ8LGG-es Intex 68307NP - Kayak hinchable Explorer K2 con 2 remos...'
 sku: 'B00AIQ8LGG-es'
-tags: [  ]
 actualPrice: 89.23 EUR
 currency: EUR
 price: 89.23

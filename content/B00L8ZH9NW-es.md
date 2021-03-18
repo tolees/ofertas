@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L8ZH9NW-es Warner Bros Interactive Spain - Pack Los Soprano Temporada...'
 sku: 'B00L8ZH9NW-es'
-tags: [  ]
 actualPrice: 60.23 EUR
 currency: EUR
 price: 60.23

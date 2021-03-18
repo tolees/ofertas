@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBCK9HF-es Kappa Monteba OC Zapatillas Unisex Adulto Black 1111 36 EU'
 sku: 'B07LBCK9HF-es'
-tags: [  ]
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

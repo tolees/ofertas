@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FKEBI4C-es Polar A360 - Pulsómetro Color Blanco Talla M'
 sku: 'B01FKEBI4C-es'
-tags: [  ]
 actualPrice: 112.03 EUR
 currency: EUR
 price: 112.03

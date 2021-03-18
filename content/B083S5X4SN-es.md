@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083S5X4SN-es totobay Reloj Inteligente Hombre Mujer Smartwatch...'
 sku: 'B083S5X4SN-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

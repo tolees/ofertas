@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BRFGNGP-es MKLEKYY - Riñoneras Hombre y Mujer Impermeable con Correa...'
 sku: 'B08BRFGNGP-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

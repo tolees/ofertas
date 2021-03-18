@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OQKZAT6-es Colgate Herbal Pasta de dientes dientes y encías más sanas...'
 sku: 'B00OQKZAT6-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

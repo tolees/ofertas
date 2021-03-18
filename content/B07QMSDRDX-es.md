@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QMSDRDX-es FASHSMILE Limpiador Facial Silicona Ultrasonico - Puerto...'
 sku: 'B07QMSDRDX-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

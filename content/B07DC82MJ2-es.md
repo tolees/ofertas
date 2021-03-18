@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC82MJ2-es LE COQ SPORTIF Verdon Sport Zapatillas para Hombre Beige...'
 sku: 'B07DC82MJ2-es'
-tags: [  ]
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

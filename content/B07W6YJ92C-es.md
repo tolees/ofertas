@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6YJ92C-es NIKE M Nk Dry Park20 Pant KP Pantalones de Deporte Hombre...'
 sku: 'B07W6YJ92C-es'
-tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

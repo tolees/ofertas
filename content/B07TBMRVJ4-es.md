@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBMRVJ4-es Finocam - Taco 2020 1 día en 2 páginas español'
 sku: 'B07TBMRVJ4-es'
-tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

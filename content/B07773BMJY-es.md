@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07773BMJY-es Tommy Hilfiger Original Stretch Camisa Azul Lavender...'
 sku: 'B07773BMJY-es'
-tags: [ 'tommy hilfiger', ]
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

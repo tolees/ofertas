@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083Q5ZMPP-es Gillette SkinGuard Sensitive Maquinillas Para Hombre 8...'
 sku: 'B083Q5ZMPP-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

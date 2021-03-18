@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Z3JFJW-es Namco - Project Cars 3'
 sku: 'B089Z3JFJW-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

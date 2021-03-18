@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000WFCEH0-es TRIXIE Palo posadero Natural Living 20 cm ø15 mm Pájaros'
 sku: 'B000WFCEH0-es'
-tags: [ 'Artículos para pájaros','Jaulas para pájaros y accesorios','Perchas para pájaros','Productos para mascotas','trixie', ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

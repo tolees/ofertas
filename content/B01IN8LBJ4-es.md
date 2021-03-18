@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IN8LBJ4-es Braun Series 9 9240 s - Afeitadora eléctrica para hombre...'
 sku: 'B01IN8LBJ4-es'
-tags: [  ]
 actualPrice: 253.09 EUR
 currency: EUR
 price: 253.09

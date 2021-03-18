@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078YHBCQH-es Scuderia Ferrari Reloj Analógico para Niños de Cuarzo con...'
 sku: 'B078YHBCQH-es'
-tags: [  ]
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

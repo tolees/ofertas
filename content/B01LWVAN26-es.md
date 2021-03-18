@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWVAN26-es Canon EF-M 18-150 - Objetivo para Canon EOS M5 EF-M 18-150...'
 sku: 'B01LWVAN26-es'
-tags: [  ]
 actualPrice: 319.6 EUR
 currency: EUR
 price: 319.6

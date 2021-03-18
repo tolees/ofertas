@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KKNX5Y-es Vans Old Skool Zapatillas Unisex Adulto Negro Black/White...'
 sku: 'B000KKNX5Y-es'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

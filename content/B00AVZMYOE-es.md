@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AVZMYOE-es Vans Atwood Zapatillas para Hombre Negro Black/White...'
 sku: 'B00AVZMYOE-es'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

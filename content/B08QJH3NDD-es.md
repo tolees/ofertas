@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QJH3NDD-es luosh Taza para Beber Taza de alimentación para niños...'
 sku: 'B08QJH3NDD-es'
-tags: [  ]
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

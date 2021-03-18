@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000X5LMB8-es Seiko Reloj Analógico de Cuarzo para Hombre con Correa de...'
 sku: 'B000X5LMB8-es'
-tags: [ 'seiko', ]
 actualPrice: 191.31 EUR
 currency: EUR
 price: 191.31

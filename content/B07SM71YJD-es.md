@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SM71YJD-es Ginebra premium Ampersand Ginebra sabor Melón 37.5º 70 cl'
 sku: 'B07SM71YJD-es'
-tags: [  ]
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

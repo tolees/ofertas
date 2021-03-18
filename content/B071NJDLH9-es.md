@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071NJDLH9-es VIALMAN Colcha BEIG Cama 105 : 200 CM X 270 CM'
 sku: 'B071NJDLH9-es'
-tags: [  ]
 actualPrice: 26.38 EUR
 currency: EUR
 price: 26.38

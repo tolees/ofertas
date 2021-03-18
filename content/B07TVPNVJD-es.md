@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVPNVJD-es Skechers Boys GRAVLEN Metro-Trek Hi-Top Trainers Black...'
 sku: 'B07TVPNVJD-es'
-tags: [  ]
 actualPrice: 17.91 EUR
 currency: EUR
 price: 17.91

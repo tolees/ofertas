@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NCR84F-es Anpro 160 PCS Tie Dye Kit 14 Colores Tintes Textiles...'
 sku: 'B089NCR84F-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

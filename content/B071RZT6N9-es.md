@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071RZT6N9-es ANNKE Sistema de Seguridad 1080P CCTV Kit de 8 Cámaras de...'
 sku: 'B071RZT6N9-es'
-tags: [  ]
 actualPrice: 199.79 EUR
 currency: EUR
 price: 199.79

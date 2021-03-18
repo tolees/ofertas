@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JS9GCJ6-es Chicco Ohlala - Silla de paseo ultraligera y compacta 3 8...'
 sku: 'B01JS9GCJ6-es'
-tags: [  ]
 actualPrice: 90.0 EUR
 currency: EUR
 price: 90.0

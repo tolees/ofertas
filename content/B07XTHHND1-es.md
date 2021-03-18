@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XTHHND1-es ABOX Envasadora al Vacío Profesional para Alimentos V63 5...'
 sku: 'B07XTHHND1-es'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

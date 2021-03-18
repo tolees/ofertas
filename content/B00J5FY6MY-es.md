@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00J5FY6MY-es Pharmaton Complex Multivitamínico con Ginseng Comprimidos...'
 sku: 'B00J5FY6MY-es'
-tags: [  ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

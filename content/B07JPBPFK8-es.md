@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JPBPFK8-es New Balance Zapatillas para Hombre ML574EGG 45 5 Gris 45 5 EU'
 sku: 'B07JPBPFK8-es'
-tags: [  ]
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

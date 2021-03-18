@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XPCT6MF-es Panasonic EW1611W503 Irrigador bucal eléctrico...'
 sku: 'B06XPCT6MF-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

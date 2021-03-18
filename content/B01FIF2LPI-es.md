@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FIF2LPI-es Energy Sistem Headphones DJ2 Red Auriculares Estilo DJ...'
 sku: 'B01FIF2LPI-es'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

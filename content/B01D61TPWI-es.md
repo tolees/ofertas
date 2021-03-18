@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D61TPWI-es TRANGO Brood Sn Pant. Pirata Hombre Kaki/Marron Oscuro 3XL'
 sku: 'B01D61TPWI-es'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J9HJWP7-es Awenia Calcetines de Compresión Deportivos Medias...'
 sku: 'B07J9HJWP7-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

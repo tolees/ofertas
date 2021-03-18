@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HYSSHNX-es QUARED Cojín de Masaje Shiatsu con 4 Rollos 3D Masajeador...'
 sku: 'B08HYSSHNX-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

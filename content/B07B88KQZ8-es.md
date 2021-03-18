@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B88KQZ8-es JBL GO 2 - Altavoz inalámbrico portátil con Bluetooth...'
 sku: 'B07B88KQZ8-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

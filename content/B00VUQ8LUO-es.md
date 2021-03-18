@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VUQ8LUO-es Kappa Trust Footwear Zapatillas Unisex Adulto Negro-...'
 sku: 'B00VUQ8LUO-es'
-tags: [  ]
 actualPrice: 19.28 EUR
 currency: EUR
 price: 19.28

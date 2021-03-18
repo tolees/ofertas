@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z9BRBKK-es B Baosity Filtro de Aire para Cabina de Polen para Coche...'
 sku: 'B07Z9BRBKK-es'
-tags: [  ]
 actualPrice: 16.57 EUR
 currency: EUR
 price: 16.57

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MR2HT4M-es Sony MDR-XB550APL - Auriculares de diadema Extra Bass...'
 sku: 'B01MR2HT4M-es'
-tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

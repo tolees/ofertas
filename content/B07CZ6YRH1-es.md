@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZ6YRH1-es HyperX HX-MPFS-S-M FURY S Speed Edition Pro - Alfombrilla...'
 sku: 'B07CZ6YRH1-es'
-tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

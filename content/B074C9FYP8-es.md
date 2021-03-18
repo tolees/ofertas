@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074C9FYP8-es Logitech G613 Teclado Gaming Mecánico Inalámbrico...'
 sku: 'B074C9FYP8-es'
-tags: [  ]
 actualPrice: 115.68 EUR
 currency: EUR
 price: 115.68

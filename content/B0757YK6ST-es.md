@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757YK6ST-es Marvel -Saco de Cuerdas Storm'
 sku: 'B0757YK6ST-es'
-tags: [  ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

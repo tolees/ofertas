@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L0AC2D6-es KT Alienz Pistola Espacial con luz y Sonido'
 sku: 'B01L0AC2D6-es'
-tags: [  ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

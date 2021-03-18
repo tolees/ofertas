@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I8EV41E-es Epson C13T789240 - Cartucho de tinta para la serie WF-5xxx...'
 sku: 'B00I8EV41E-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

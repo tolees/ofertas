@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CY76C3V-es Hurley M DF Universal Tiger PO'
 sku: 'B08CY76C3V-es'
-tags: [  ]
 actualPrice: 21.11 EUR
 currency: EUR
 price: 21.11

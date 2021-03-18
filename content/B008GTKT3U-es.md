@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008GTKT3U-es Karcher - Kärcher Conector universal c/aquastop 2.645-192.0'
 sku: 'B008GTKT3U-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

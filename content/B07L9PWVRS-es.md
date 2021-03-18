@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9PWVRS-es Under Armour Hombre Challenger III Training Pant...'
 sku: 'B07L9PWVRS-es'
-tags: [  ]
 actualPrice: 28.7 EUR
 currency: EUR
 price: 28.7

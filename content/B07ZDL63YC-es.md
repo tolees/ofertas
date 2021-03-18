@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZDL63YC-es O NEILL PM Cali Shorts Boardshort Elasticated para Hombre...'
 sku: 'B07ZDL63YC-es'
-tags: [  ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4CQVFT-es Abalorios para Hacer Collares Abalorios para Hacer...'
 sku: 'B07V4CQVFT-es'
-tags: [  ]
 actualPrice: 15.66 EUR
 currency: EUR
 price: 15.66

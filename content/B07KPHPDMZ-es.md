@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPHPDMZ-es Funko- Pop Deluxe: Game of S10: Daenerys Sitting On Throne...'
 sku: 'B07KPHPDMZ-es'
-tags: [  ]
 actualPrice: 19.31 EUR
 currency: EUR
 price: 19.31

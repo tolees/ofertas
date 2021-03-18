@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SBJLHGM-es Oral-B PRO 2 2000 Sensi Ultrathin Cepillo de dientes...'
 sku: 'B07SBJLHGM-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

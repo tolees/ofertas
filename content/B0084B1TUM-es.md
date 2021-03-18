@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0084B1TUM-es Julius-K9 16IDC - Power Harness'
 sku: 'B0084B1TUM-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SHSPVN3-es qingerbow - Zacro 3 Pcs Correas con 3 Cubiertas...'
 sku: 'B07SHSPVN3-es'
-tags: [  ]
 actualPrice: 5.57 EUR
 currency: EUR
 price: 5.57

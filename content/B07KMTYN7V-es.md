@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMTYN7V-es Craghoppers Niñas Neopolitan Hybrid Unisex niños color...'
 sku: 'B07KMTYN7V-es'
-tags: [  ]
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5Y66TS-es Ymea Menopausia Sofoconfort 24h cápsulas'
 sku: 'B01N5Y66TS-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

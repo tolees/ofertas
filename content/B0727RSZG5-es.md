@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0727RSZG5-es ABYstyle - DRAGON BALL - Taza 3D - Dragon Ball'
 sku: 'B0727RSZG5-es'
-tags: [ 'abystyle', ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G1XJTDY-es EZON Optical Pulsómetros Reloj Recargable para Correr...'
 sku: 'B00G1XJTDY-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTDQ38G-es Bolsas de Aseo Transparente Opret 2 Pcs Neceser de Viaje...'
 sku: 'B07XTDQ38G-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

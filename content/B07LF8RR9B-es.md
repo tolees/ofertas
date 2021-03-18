@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF8RR9B-es Levi s 501 Fit Jeans Pantalón vaquero para hombre con...'
 sku: 'B07LF8RR9B-es'
-tags: [  ]
 actualPrice: 26.84 EUR
 currency: EUR
 price: 26.84

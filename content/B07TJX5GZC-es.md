@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJX5GZC-es Leathlux Funda Xiaomi Redmi Note 7 + [2 Pack] Cristal...'
 sku: 'B07TJX5GZC-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

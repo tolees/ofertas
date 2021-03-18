@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003NE8UNO-es HELLA 6PT 009 107-141 Sensor temperatura del refrigerante...'
 sku: 'B003NE8UNO-es'
-tags: [  ]
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZBVD2F4-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B07ZBVD2F4-es'
-tags: [  ]
 actualPrice: 177.0 EUR
 currency: EUR
 price: 177.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG575YK-es Albero Bambino SET12016CB - Set de minicuna edredón +...'
 sku: 'B06XG575YK-es'
-tags: [  ]
 actualPrice: 47.54 EUR
 currency: EUR
 price: 47.54

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L91KW5D-es Rubie s - Disfraz Avengers Capitan America Talla M'
 sku: 'B07L91KW5D-es'
-tags: [  ]
 actualPrice: 32.23 EUR
 currency: EUR
 price: 32.23

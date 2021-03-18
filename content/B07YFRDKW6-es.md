@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFRDKW6-es MARTISAN Soporte de guitarra Universal Plegable para...'
 sku: 'B07YFRDKW6-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

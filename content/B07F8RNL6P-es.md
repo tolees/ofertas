@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8RNL6P-es Samsung Led View - Funda para Galaxy Note 9 color azul-...'
 sku: 'B07F8RNL6P-es'
-tags: [  ]
 actualPrice: 30.98 EUR
 currency: EUR
 price: 30.98

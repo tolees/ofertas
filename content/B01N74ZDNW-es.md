@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N74ZDNW-es Deyard Kit de Accesorios para GoPro Hero 7 Sólo negro Hero...'
 sku: 'B01N74ZDNW-es'
-tags: [  ]
 actualPrice: 12.91 EUR
 currency: EUR
 price: 12.91

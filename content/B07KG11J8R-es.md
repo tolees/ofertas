@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG11J8R-es PUMA Ralph Sampson Mid Zapatillas Unisex Adulto Negro...'
 sku: 'B07KG11J8R-es'
-tags: [  ]
 actualPrice: 49.02 EUR
 currency: EUR
 price: 49.02

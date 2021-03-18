@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086TX9C5R-es PUMA String 3p Pack Tanga Bragas White/Grey/Black M para...'
 sku: 'B086TX9C5R-es'
-tags: [ 'puma', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

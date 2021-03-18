@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VCCJVK7-es Napapijri EOLANOS Polo Blanco Bright White 0021 S para Hombre'
 sku: 'B07VCCJVK7-es'
-tags: [  ]
 actualPrice: 28.62 EUR
 currency: EUR
 price: 28.62

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LT6X5CV-es Yeelur - 3 Unids/set Men Manual Shaver Men Shaver Blades...'
 sku: 'B08LT6X5CV-es'
-tags: [  ]
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

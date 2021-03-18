@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FSD57Q-es BRIKSMAX Kit de Iluminación Led para Lego City Space Port...'
 sku: 'B083FSD57Q-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GXF9C28-es Nyx Professional Makeup Barra De Labios Mate De Larga...'
 sku: 'B07GXF9C28-es'
-tags: [  ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

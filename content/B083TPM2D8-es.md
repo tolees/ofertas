@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TPM2D8-es TONGJI Vitrina de Acrílico Compatible con Lego 75159 Star...'
 sku: 'B083TPM2D8-es'
-tags: [  ]
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

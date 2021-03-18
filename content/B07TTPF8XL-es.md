@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTPF8XL-es KiplingCity Pack SMujerMochilasMulticolor Speckled...'
 sku: 'B07TTPF8XL-es'
-tags: [  ]
 actualPrice: 27.41 EUR
 currency: EUR
 price: 27.41

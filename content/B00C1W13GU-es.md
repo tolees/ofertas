@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00C1W13GU-es SOLUGEL FISIOCREM - Fisiocrem Solugel - Gel de masaje para...'
 sku: 'B00C1W13GU-es'
-tags: [  ]
 actualPrice: 9.78 EUR
 currency: EUR
 price: 9.78

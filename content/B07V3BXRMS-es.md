@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3BXRMS-es 16V Adaptador de fuente alimentación para Canon...'
 sku: 'B07V3BXRMS-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

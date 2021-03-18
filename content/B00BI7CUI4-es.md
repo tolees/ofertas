@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BI7CUI4-es Julbo Vermont Classic - J010-20125'
 sku: 'B00BI7CUI4-es'
-tags: [  ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

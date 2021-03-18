@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QFQ8DL-es Suhctup Funda Compatible con Huawei Honor V20 Carcasa...'
 sku: 'B086QFQ8DL-es'
-tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

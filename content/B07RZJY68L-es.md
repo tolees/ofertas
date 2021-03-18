@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZJY68L-es New Balance 500 Zapatillas para Mujer Azul Blue Hhf 35 EU'
 sku: 'B07RZJY68L-es'
-tags: [  ]
 actualPrice: 25.1 EUR
 currency: EUR
 price: 25.1

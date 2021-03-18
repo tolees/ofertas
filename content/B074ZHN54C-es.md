@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074ZHN54C-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B074ZHN54C-es'
-tags: [  ]
 actualPrice: 88.99 EUR
 currency: EUR
 price: 88.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KVY3CNG-es Bresser Binoculares Digitales de Visión Nocturna 3X20'
 sku: 'B01KVY3CNG-es'
-tags: [  ]
 actualPrice: 127.04 EUR
 currency: EUR
 price: 127.04

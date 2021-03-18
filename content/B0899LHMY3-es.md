@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0899LHMY3-es TrekPow Piscina Hinchable Rectangular Piscina Inflable...'
 sku: 'B0899LHMY3-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0725QTHLG-es Under Armour Classic Mesh Gorra Hombre Blanco L/XL'
 sku: 'B0725QTHLG-es'
-tags: [  ]
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

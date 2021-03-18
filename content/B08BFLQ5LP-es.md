@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BFLQ5LP-es Kepae Juegos de Construcción Kit de Iluminación LED para...'
 sku: 'B08BFLQ5LP-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

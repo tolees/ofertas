@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00RK7ODDG-es Sony Handycam HDR-CX405 - Videocámara de 9.2 Mp pantalla...'
 sku: 'B00RK7ODDG-es'
-tags: [  ]
 actualPrice: 220.15 EUR
 currency: EUR
 price: 220.15

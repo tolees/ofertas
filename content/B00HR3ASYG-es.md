@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HR3ASYG-es TRIPTOMAX - Complemento Alimenticio para Regular el Estado...'
 sku: 'B00HR3ASYG-es'
-tags: [  ]
 actualPrice: 9.15 EUR
 currency: EUR
 price: 9.15

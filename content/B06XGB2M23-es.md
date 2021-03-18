@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XGB2M23-es Lagunamoon Aceites Esenciales Top 10 Set de Viaje de...'
 sku: 'B06XGB2M23-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

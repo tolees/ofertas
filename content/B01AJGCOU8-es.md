@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AJGCOU8-es Teenloveme Mujer cinco dedos calcetines calcetines...'
 sku: 'B01AJGCOU8-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

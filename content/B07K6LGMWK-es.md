@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6LGMWK-es Asics Gel-Nimbus 21 Zapatillas de Running para Hombre Azul...'
 sku: 'B07K6LGMWK-es'
-tags: [  ]
 actualPrice: 70.49 EUR
 currency: EUR
 price: 70.49

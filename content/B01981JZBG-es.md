@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01981JZBG-es Frolic Bolsitas de Smiley Sticks para Perros Pack de 10 x...'
 sku: 'B01981JZBG-es'
-tags: [  ]
 actualPrice: 2.65 EUR
 currency: EUR
 price: 2.65

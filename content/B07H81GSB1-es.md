@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H81GSB1-es Nike Downshifter 9 Zapatillas de Running para Hombre Azul...'
 sku: 'B07H81GSB1-es'
-tags: [  ]
 actualPrice: 28.48 EUR
 currency: EUR
 price: 28.48

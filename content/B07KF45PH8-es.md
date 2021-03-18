@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KF45PH8-es Levi s 501 High Rise Short Pantalones Cortos In The Clouds...'
 sku: 'B07KF45PH8-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

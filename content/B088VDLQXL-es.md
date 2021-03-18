@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088VDLQXL-es Panasonic SC-HTB400EGK - Barra de Sonido 2.1 All-In-One...'
 sku: 'B088VDLQXL-es'
-tags: [  ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

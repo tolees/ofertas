@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J8BK21P-es Xiaomi Mi 10T Pro Pack de Lanzamiento Pantalla 6.67" FHD+...'
 sku: 'B08J8BK21P-es'
-tags: [  ]
 actualPrice: 699.0 EUR
 currency: EUR
 price: 699.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PYDU18E-es Nike MD Runner 2 Zapatillas Hombre Black/White Anthracite...'
 sku: 'B00PYDU18E-es'
-tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

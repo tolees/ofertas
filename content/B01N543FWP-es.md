@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N543FWP-es Novex Mis Rizos Capilar - 400g'
 sku: 'B01N543FWP-es'
-tags: [  ]
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

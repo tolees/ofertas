@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HLJL2DK-es BANLVS Smartwatch Reloj Inteligente Mujer Hombre con...'
 sku: 'B08HLJL2DK-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

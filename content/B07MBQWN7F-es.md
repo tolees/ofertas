@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBQWN7F-es Kickers Layton Botas Clasicas para Hombre Azul Marine 10...'
 sku: 'B07MBQWN7F-es'
-tags: [  ]
 actualPrice: 34.09 EUR
 currency: EUR
 price: 34.09

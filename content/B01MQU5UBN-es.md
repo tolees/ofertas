@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MQU5UBN-es Elgato Thunderbolt 3 Standard - Dock con cable Thunderbolt...'
 sku: 'B01MQU5UBN-es'
-tags: [  ]
 actualPrice: 168.0 EUR
 currency: EUR
 price: 168.0

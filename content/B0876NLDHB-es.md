@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876NLDHB-es Depiladora de Cejas Eléctrica Depiladora Facial Mujer...'
 sku: 'B0876NLDHB-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

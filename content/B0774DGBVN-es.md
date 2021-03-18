@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774DGBVN-es Calcetines antideslizantes de algodón 3 pares para pilates...'
 sku: 'B0774DGBVN-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

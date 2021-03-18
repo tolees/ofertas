@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NOPRBA-es Shimano SMMAF180PSA - Adaptador Pinza Delant. Std M535 180 Mm'
 sku: 'B000NOPRBA-es'
-tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

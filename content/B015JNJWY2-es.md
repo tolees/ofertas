@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015JNJWY2-es Compo FLORANID Abono césped Larga duración de hasta 3 mese...'
 sku: 'B015JNJWY2-es'
-tags: [  ]
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

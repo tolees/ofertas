@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B7ABF9Q-es Sony BDPS6700 Reproductor de Blu-ray Disc con CD DVD...'
 sku: 'B01B7ABF9Q-es'
-tags: [  ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

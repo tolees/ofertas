@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08XVYR8ZB-es Lazzy Candelabro de Madera Orgullo Gay Colores LGBT...'
 sku: 'B08XVYR8ZB-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

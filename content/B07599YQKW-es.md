@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07599YQKW-es Funko Pop!- James Bond Sean Connery Figura de Vinilo 24704'
 sku: 'B07599YQKW-es'
-tags: [  ]
 actualPrice: 8.52 EUR
 currency: EUR
 price: 8.52

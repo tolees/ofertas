@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BVXGBHT-es Samsung LU32J590UQU Ultra HD - Monitor para PC 81 3 cm 32"...'
 sku: 'B07BVXGBHT-es'
-tags: [  ]
 actualPrice: 289.99 EUR
 currency: EUR
 price: 289.99

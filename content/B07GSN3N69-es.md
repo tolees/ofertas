@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSN3N69-es NIVEA MEN Dry Impact Roll-on en pack de 6 6 x 50 ml...'
 sku: 'B07GSN3N69-es'
-tags: [  ]
 actualPrice: 9.06 EUR
 currency: EUR
 price: 9.06

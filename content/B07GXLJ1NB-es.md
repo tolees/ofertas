@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GXLJ1NB-es adidas Falcon W - Zapatillas para Mujer Blanco 40 EU'
 sku: 'B07GXLJ1NB-es'
-tags: [  ]
 actualPrice: 74.96 EUR
 currency: EUR
 price: 74.96

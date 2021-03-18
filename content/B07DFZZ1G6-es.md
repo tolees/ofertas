@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DFZZ1G6-es Skip Active Clean Detergente Líquido para Lavadora -...'
 sku: 'B07DFZZ1G6-es'
-tags: [  ]
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

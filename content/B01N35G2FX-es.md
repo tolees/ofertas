@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N35G2FX-es Disney Traditions Figura de libro de "Pesadilla Antes de...'
 sku: 'B01N35G2FX-es'
-tags: [  ]
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

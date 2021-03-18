@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N4DTN8A-es Call of Duty: Advanced Warfare'
 sku: 'B00N4DTN8A-es'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

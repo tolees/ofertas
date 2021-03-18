@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JDRK54P-es 5Mayi Bóxer Hombre Pantalones para Hombres Boxers...'
 sku: 'B07JDRK54P-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QRL368Z-es JHNEA Batidora Amasadora 1200w con Bol de 5.5 litros y...'
 sku: 'B08QRL368Z-es'
-tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

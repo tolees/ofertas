@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NJGXV4Y-es Acuvue Oasys - Lentes de contacto esféricas quincenales R...'
 sku: 'B00NJGXV4Y-es'
-tags: [  ]
 actualPrice: 37.3 EUR
 currency: EUR
 price: 37.3

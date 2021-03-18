@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B7QQ5DP-es OUTAD - Linterna Frontal Led Recargable 18000 Lúmenes...'
 sku: 'B08B7QQ5DP-es'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

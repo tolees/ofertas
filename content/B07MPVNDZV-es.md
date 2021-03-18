@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MPVNDZV-es Cikuso 4 Piezas Estuche Inferior Patas de Goma Almohadilla...'
 sku: 'B07MPVNDZV-es'
-tags: [  ]
 actualPrice: 2.29 EUR
 currency: EUR
 price: 2.29

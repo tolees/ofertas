@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBMQP54-es Kappa Memni Zapatillas para Mujer Rosa/White 2110 37 EU'
 sku: 'B07LBMQP54-es'
-tags: [  ]
 actualPrice: 10.57 EUR
 currency: EUR
 price: 10.57

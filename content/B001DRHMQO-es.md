@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001DRHMQO-es Mann Filter - MANN-FILTER Filtro de aceite HU 719/8 X Set...'
 sku: 'B001DRHMQO-es'
-tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BYQMT8R-es Bella Aurora B7 Crema Facial Anti-manchas Cara |...'
 sku: 'B07BYQMT8R-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

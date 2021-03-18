@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078HVW8NP-es 505 Games - Payday 2'
 sku: 'B078HVW8NP-es'
-tags: [  ]
 actualPrice: 32.67 EUR
 currency: EUR
 price: 32.67

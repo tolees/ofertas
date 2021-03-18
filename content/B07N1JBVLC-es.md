@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JBVLC-es Clarks Boot Botas Desert para Mujer Verde Khaki Suede 37.5 EU'
 sku: 'B07N1JBVLC-es'
-tags: [  ]
 actualPrice: 21.54 EUR
 currency: EUR
 price: 21.54

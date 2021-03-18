@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01G16LSVQ-es AGPTEK Z02- Mini Micrófono de Solapa 3.5mm Omnidirectional...'
 sku: 'B01G16LSVQ-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLS3SRG-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07YLS3SRG-es'
-tags: [  ]
 actualPrice: 111.19 EUR
 currency: EUR
 price: 111.19

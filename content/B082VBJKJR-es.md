@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VBJKJR-es Sameriver - Regleta Vertical Enchufes de 6 Tomas...'
 sku: 'B082VBJKJR-es'
-tags: [  ]
 actualPrice: 21.75 EUR
 currency: EUR
 price: 21.75

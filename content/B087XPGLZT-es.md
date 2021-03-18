@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087XPGLZT-es Dodot Splashers Talla 5 80 Pañales bañadores desechables...'
 sku: 'B087XPGLZT-es'
-tags: [  ]
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D1MXCQ8-es LaCabine - La Cabine Ampollas Botox - Ácido hialurónico...'
 sku: 'B07D1MXCQ8-es'
-tags: [  ]
 actualPrice: 10.25 EUR
 currency: EUR
 price: 10.25

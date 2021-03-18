@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000FNFSPY-es TP-Link TL-SF1005D - Switch Ethernet con 5 Puertos 10/100...'
 sku: 'B000FNFSPY-es'
-tags: [ 'Dispositivos de red','Informática','Switches de red','tp-link', ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

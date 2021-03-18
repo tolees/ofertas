@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8SB1XW-es UCMDA Funda para Huawei Mate 30 Lite con Protector de...'
 sku: 'B07X8SB1XW-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

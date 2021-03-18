@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D453ZKM-es Rimmel London Stay Satin Liquid Lip Colour Pintalabios...'
 sku: 'B07D453ZKM-es'
-tags: [  ]
 actualPrice: 3.48 EUR
 currency: EUR
 price: 3.48

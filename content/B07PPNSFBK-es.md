@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPNSFBK-es Seagate Technology - Seagate Game Drive 2 TB Unidad de...'
 sku: 'B07PPNSFBK-es'
-tags: [ 'seagate technology', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

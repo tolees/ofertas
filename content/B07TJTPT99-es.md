@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJTPT99-es Superdry Waterpolo Swim Short Pantalones Cortos Azul...'
 sku: 'B07TJTPT99-es'
-tags: [ 'superdry', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

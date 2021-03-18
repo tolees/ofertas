@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T7MFN1T-es Xnuoyo 20000mAh Power Bank Cargador Portátil Batería...'
 sku: 'B07T7MFN1T-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

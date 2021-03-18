@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087MXSFJG-es 50 colores 100 colores punto de cruz hilo poliéster...'
 sku: 'B087MXSFJG-es'
-tags: [  ]
 actualPrice: 3.66 EUR
 currency: EUR
 price: 3.66

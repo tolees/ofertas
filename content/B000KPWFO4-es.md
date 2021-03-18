@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KPWFO4-es Graef Vivo V 10 - Cortafiambres 230V 50 Hz Metal Metálico'
 sku: 'B000KPWFO4-es'
-tags: [  ]
 actualPrice: 151.8 EUR
 currency: EUR
 price: 151.8

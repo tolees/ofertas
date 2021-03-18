@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VC8LQHX-es PUTORSEN® Soporte de Escritorio para 2 Monitor de Las...'
 sku: 'B07VC8LQHX-es'
-tags: [  ]
 actualPrice: 94.87 EUR
 currency: EUR
 price: 94.87

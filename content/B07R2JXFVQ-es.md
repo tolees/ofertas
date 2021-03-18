@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R2JXFVQ-es Lámpara de escritorio inteligente iHaper DL1: lámpara de...'
 sku: 'B07R2JXFVQ-es'
-tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

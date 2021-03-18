@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D4TC3XA-es Marvel Vinilo para portátil Multicolor 3x17.4x24 cm'
 sku: 'B01D4TC3XA-es'
-tags: [  ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

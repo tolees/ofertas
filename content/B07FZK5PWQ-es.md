@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FZK5PWQ-es Polti Vaporella Simply VS10.10 - Centro De Planchado Bomba...'
 sku: 'B07FZK5PWQ-es'
-tags: [  ]
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0

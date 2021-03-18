@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7ALVC9-es BitFenix bp-wg650umag-9fm alimentación PC'
 sku: 'B01N7ALVC9-es'
-tags: [  ]
 actualPrice: 89.9 EUR
 currency: EUR
 price: 89.9

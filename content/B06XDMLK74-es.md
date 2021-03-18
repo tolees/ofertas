@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDMLK74-es Logan 4K Ultra HD [Blu-ray]'
 sku: 'B06XDMLK74-es'
-tags: [ 'Acción y Aventura','Blu-ray','Ciencia ficción','Fantasía','Featured Categories','Películas','Películas y TV', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

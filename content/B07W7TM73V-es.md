@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TM73V-es LEGO City Police - Comisaría de policía juego de...'
 sku: 'B07W7TM73V-es'
-tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FFLNKT2-es SUNXIN - Ndier Cuchillo Corrugado Vegetal Cuchillo...'
 sku: 'B07FFLNKT2-es'
-tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

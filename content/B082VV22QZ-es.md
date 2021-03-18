@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VV22QZ-es Mexifoods - Tortillas de trigo envasado 370 gr 1 paquete...'
 sku: 'B082VV22QZ-es'
-tags: [  ]
 actualPrice: 1.47 EUR
 currency: EUR
 price: 1.47

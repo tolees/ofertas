@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089CTP71K-es eXtremeRate - Juego completo de pegatinas para placas...'
 sku: 'B089CTP71K-es'
-tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

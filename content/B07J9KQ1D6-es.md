@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J9KQ1D6-es NIVEA Pearl & Beauty Desodorante de ataques 6 paquetes de...'
 sku: 'B07J9KQ1D6-es'
-tags: [  ]
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

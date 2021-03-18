@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AIFT6MO-es Nenuco de Famosa- 700014781 Muñeco Blandito 5 funciones...'
 sku: 'B01AIFT6MO-es'
-tags: [  ]
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

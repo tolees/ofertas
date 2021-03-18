@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FPELRPC-es "Biere del Mundo regalo + + Información de cerveza + +...'
 sku: 'B01FPELRPC-es'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

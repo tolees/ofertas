@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003BFXFHG-es HP CE278A 78A Cartucho de Tóner Original 1 unidad negro'
 sku: 'B003BFXFHG-es'
-tags: [  ]
 actualPrice: 72.91 EUR
 currency: EUR
 price: 72.91

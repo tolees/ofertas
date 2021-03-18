@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B3ZJ8YT-es Clarks Batcombe Lord Botas Chelsea Hombre Negro Black 41 EU'
 sku: 'B07B3ZJ8YT-es'
-tags: [  ]
 actualPrice: 73.78 EUR
 currency: EUR
 price: 73.78

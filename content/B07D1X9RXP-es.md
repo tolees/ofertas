@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D1X9RXP-es Armani Exchange 8nzf70 Polo Negro Black 1200 X-Small para...'
 sku: 'B07D1X9RXP-es'
-tags: [  ]
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MQ14RZO-es Festina Reloj Análogo clásico para Hombre de Cuarzo con...'
 sku: 'B01MQ14RZO-es'
-tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

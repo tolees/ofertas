@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DLHZHM8-es junengSO Kit de Matcha japonés licuadora de Matcha de...'
 sku: 'B08DLHZHM8-es'
-tags: [ 'Accesorios para el té','Afeitado y depilación','Almacenamiento de alimentos','Almacenamiento de cocina y despensa','Belleza','Boles para té matcha','Botes para alimentos','Calzado de voleibol para hombre','Calzado deportivo de interior de hombre','Calzado deportivo para hombre','Campanas extractoras','Campanas extractoras de pared','Ciclismo','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Culotes de ciclismo para hombre','Deportes y aire libre','Grandes electrodomésticos','Hogar y cocina','Hornos y placas de cocina','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','Ropa','Ropa de ciclismo','Ropa de ciclismo para hombre','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Tangas para hombre','Utensilios para café y té','Vestidos casual para mujer','Vestidos para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','junengso', ]
 actualPrice: 23.67 EUR
 currency: EUR
 price: 23.67

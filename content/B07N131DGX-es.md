@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N131DGX-es Skechers Go Walk 5 Zapatillas Mujer Azul Blue Textile/Trim...'
 sku: 'B07N131DGX-es'
-tags: [  ]
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08988LVCH-es Hurley M OneOnly Crew CW7488'
 sku: 'B08988LVCH-es'
-tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

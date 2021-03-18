@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJQ9K3F-es DAM TEKKIWEAR. DMX043BLACK. Smartwatch M26S Plus con...'
 sku: 'B07DJQ9K3F-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

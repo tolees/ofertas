@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KZG3W8P-es A3A ACADGQ - Humidificador de aire humidificador de 1 2 l...'
 sku: 'B08KZG3W8P-es'
-tags: [  ]
 actualPrice: 14.32 EUR
 currency: EUR
 price: 14.32

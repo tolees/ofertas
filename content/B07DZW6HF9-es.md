@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DZW6HF9-es Rimmel London Magnifeyes Palette Paleta de Sombras Jewel...'
 sku: 'B07DZW6HF9-es'
-tags: [  ]
 actualPrice: 6.7 EUR
 currency: EUR
 price: 6.7

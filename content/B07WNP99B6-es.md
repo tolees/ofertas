@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WNP99B6-es Marca Amazon - Solimo Cápsulas Ristretto Intenso...'
 sku: 'B07WNP99B6-es'
-tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088TNLWL4-es Cabello colorido + Cepillo de dientes con mango de bambú...'
 sku: 'B088TNLWL4-es'
-tags: [  ]
 actualPrice: 1.84 EUR
 currency: EUR
 price: 1.84

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYZFFZ9-es Skechers Solar Fuse Zapatillas Deportivas para Mujer...'
 sku: 'B07MYZFFZ9-es'
-tags: [  ]
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

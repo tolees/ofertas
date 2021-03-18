@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WKCRMH9-es Saingace TM - 10 Piezas Niños Infantil 5 Capas Surtidos...'
 sku: 'B08WKCRMH9-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

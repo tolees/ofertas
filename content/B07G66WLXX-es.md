@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G66WLXX-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B07G66WLXX-es'
-tags: [  ]
 actualPrice: 76.5 EUR
 currency: EUR
 price: 76.5

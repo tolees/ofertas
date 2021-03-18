@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KTYWFYV-es Warner Bros. Entertainment - Mad Max: Furia en la...'
 sku: 'B08KTYWFYV-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

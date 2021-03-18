@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VJM37TO-es HP Signature Slim - Funda maletín Gris de hasta 15.6"'
 sku: 'B00VJM37TO-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

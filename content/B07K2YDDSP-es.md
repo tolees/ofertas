@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2YDDSP-es Ergocar Creativo Lindo Dibujos Animados Organizador del...'
 sku: 'B07K2YDDSP-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

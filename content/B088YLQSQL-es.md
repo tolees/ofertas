@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088YLQSQL-es Soleiler - Lámpara de escritorio LED luz de sobremesa con...'
 sku: 'B088YLQSQL-es'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

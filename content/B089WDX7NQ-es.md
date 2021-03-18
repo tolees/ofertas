@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089WDX7NQ-es MSI GL65 Leopard 10SFSK-280XES - Ordenador portátil Gaming...'
 sku: 'B089WDX7NQ-es'
-tags: [  ]
 actualPrice: 1369.99 EUR
 currency: EUR
 price: 1369.99

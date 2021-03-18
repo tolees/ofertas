@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JNSD2J9-es Jack & Jones Jjimarco Jjbowie Sa Noos Pantalones Negro...'
 sku: 'B07JNSD2J9-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G57JY1H-es Max Factor Maquillaje corrector Tono: 004 Deep Pieles...'
 sku: 'B07G57JY1H-es'
-tags: [  ]
 actualPrice: 6.33 EUR
 currency: EUR
 price: 6.33

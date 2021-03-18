@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYD23F2-es Champion The Absolute Workout Sujetador Deportivo Blanc...'
 sku: 'B07FYD23F2-es'
-tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

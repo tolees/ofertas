@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XD74RY4-es BAIGIO Bolsa para Herramientas de Gran Abertura con...'
 sku: 'B07XD74RY4-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081GLYS29-es Purificador de Aire Alergia con Filtro HEPA y Carbón...'
 sku: 'B081GLYS29-es'
-tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

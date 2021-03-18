@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2J3MPW-es Tommy Hilfiger LowCut Essential Sneaker Zapatillas para...'
 sku: 'B07V2J3MPW-es'
-tags: [  ]
 actualPrice: 28.94 EUR
 currency: EUR
 price: 28.94

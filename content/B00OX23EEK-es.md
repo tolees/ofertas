@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OX23EEK-es Adidas - Gel de ducha para hombre'
 sku: 'B00OX23EEK-es'
-tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

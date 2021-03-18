@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4D8X4C-es WWE 2K20 - Deluxe Edition'
 sku: 'B07W4D8X4C-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

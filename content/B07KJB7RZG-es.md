@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KJB7RZG-es Asmodee- Snow Time ADE0LMSNO01'
 sku: 'B07KJB7RZG-es'
-tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KBJFCJF-es Funko 35763 5 Estrellas: Aladdin: Genie Multi'
 sku: 'B07KBJFCJF-es'
-tags: [ 'funko', ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076D9MRB8-es Finether Grifo para Fregadero de Cocina 360° Caño...'
 sku: 'B076D9MRB8-es'
-tags: [  ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083YCPFC8-es Kipling Fundamental NC Backpacks Unisex Adulto Color negro...'
 sku: 'B083YCPFC8-es'
-tags: [  ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

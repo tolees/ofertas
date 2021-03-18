@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JC1W9GG-es Decdeal Cama de Gato Donut Cama Redonda Felpa para Perros...'
 sku: 'B08JC1W9GG-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

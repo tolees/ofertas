@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRMYQZB-es New Balance Fresh Foam Roav Zapatillas de Running para...'
 sku: 'B07KRMYQZB-es'
-tags: [  ]
 actualPrice: 36.8 EUR
 currency: EUR
 price: 36.8

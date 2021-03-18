@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6VB4BZ-es Last Level- Pocket Llavero Pop Fortnite. Burnout...'
 sku: 'B07L6VB4BZ-es'
-tags: [ 'last level', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KL8VH4E-es INOXIBAR Tapa volteadora de Tortilla 30 cm Centimeters'
 sku: 'B00KL8VH4E-es'
-tags: [  ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

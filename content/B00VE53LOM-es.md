@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VE53LOM-es De Longhi MultiFry Extra Chef Freidora 1 7 kg de capacidad...'
 sku: 'B00VE53LOM-es'
-tags: [  ]
 actualPrice: 210.8 EUR
 currency: EUR
 price: 210.8

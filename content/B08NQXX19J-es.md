@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NQXX19J-es Tirma Crema De G Guayaba 400 Gramo'
 sku: 'B08NQXX19J-es'
-tags: [  ]
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

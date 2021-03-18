@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VFR916Y-es Reloj de Pulsera Emporio Armani - Hombre'
 sku: 'B07VFR916Y-es'
-tags: [  ]
 actualPrice: 208.29 EUR
 currency: EUR
 price: 208.29

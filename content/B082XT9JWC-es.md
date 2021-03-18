@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XT9JWC-es Lee Luke Jeans Vernon 29W x 30L para Hombre'
 sku: 'B082XT9JWC-es'
-tags: [  ]
 actualPrice: 41.38 EUR
 currency: EUR
 price: 41.38

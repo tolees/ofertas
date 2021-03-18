@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0029EWUA8-es TRIXIE Rata-Ratón Con huella neumático Látex 22 cm Perro'
 sku: 'B0029EWUA8-es'
-tags: [  ]
 actualPrice: 4.62 EUR
 currency: EUR
 price: 4.62

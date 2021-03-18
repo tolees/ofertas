@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YJJR3Z1-es Incarpo - Zapatillas de Estar por casa para Hombre con...'
 sku: 'B07YJJR3Z1-es'
-tags: [  ]
 actualPrice: 20.56 EUR
 currency: EUR
 price: 20.56

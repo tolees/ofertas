@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F6ZTSWW-es Salomon HYDRO 45 BELT Riñonera'
 sku: 'B07F6ZTSWW-es'
-tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

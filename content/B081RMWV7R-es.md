@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081RMWV7R-es CYCPLUS 140 PSI Bomba de neumáticos Compresor eléctrico...'
 sku: 'B081RMWV7R-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z9YW8GM-es NIMASO Cable USB C 3A[4 Pack 0.3M+1M+2M+3M] Cable USB Tipo...'
 sku: 'B07Z9YW8GM-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

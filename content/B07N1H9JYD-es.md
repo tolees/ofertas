@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1H9JYD-es Angelady Timeline Brazaletes de Oro Rosa Pulseras para...'
 sku: 'B07N1H9JYD-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

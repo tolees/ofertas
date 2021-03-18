@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GJXNU68-es Pioneer TS-R1350S - Altavoces para Coche Negro'
 sku: 'B00GJXNU68-es'
-tags: [  ]
 actualPrice: 33.29 EUR
 currency: EUR
 price: 33.29

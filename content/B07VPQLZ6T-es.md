@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VPQLZ6T-es Lijadora Eléctrica TECCPO Professional 200W Lijadora Mouse...'
 sku: 'B07VPQLZ6T-es'
-tags: [  ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

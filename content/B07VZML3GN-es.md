@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VZML3GN-es GUARD & REVIVAL TREAT - Secador de Pelo Profesional Iónico...'
 sku: 'B07VZML3GN-es'
-tags: [  ]
 actualPrice: 49.79 EUR
 currency: EUR
 price: 49.79

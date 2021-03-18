@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MXGST4I-es ELEGOO Conjunto Medio de Iniciación Compatible con Arduino...'
 sku: 'B01MXGST4I-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJQN4P7-es ATOYX Mini Drone AT-66 RC Drone Niños 3D Flips Modo sin...'
 sku: 'B07GJQN4P7-es'
-tags: [  ]
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

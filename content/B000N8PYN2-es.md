@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000N8PYN2-es Dickies Hose D/knee Work Pants - Pantalones para hombre...'
 sku: 'B000N8PYN2-es'
-tags: [  ]
 actualPrice: 29.04 EUR
 currency: EUR
 price: 29.04

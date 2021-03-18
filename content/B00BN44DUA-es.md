@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BN44DUA-es CAMEO - Kenshin El Guerrero Samurái [Blu-ray]'
 sku: 'B00BN44DUA-es'
-tags: [  ]
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

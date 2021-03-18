@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XY8B63K-es Samsonite Spark SNG -Tri-Fold Portatraje de viaje 55 cm 62...'
 sku: 'B06XY8B63K-es'
-tags: [  ]
 actualPrice: 87.71 EUR
 currency: EUR
 price: 87.71

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JVQV04E-es Disney - Bambi 2014 [DVD]'
 sku: 'B00JVQV04E-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

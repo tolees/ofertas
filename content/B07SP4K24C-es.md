@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SP4K24C-es Under Armour Tech 2.0 Tanque Hombre Azul MD'
 sku: 'B07SP4K24C-es'
-tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

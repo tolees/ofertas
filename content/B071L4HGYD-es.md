@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071L4HGYD-es Utawarerumono: Mask Of Truth'
 sku: 'B071L4HGYD-es'
-tags: [  ]
 actualPrice: 25.35 EUR
 currency: EUR
 price: 25.35

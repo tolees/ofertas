@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HHR56S4-es SIGMA C40900 - Camara compacta de 33 MP CMOS F1.4 ISO...'
 sku: 'B01HHR56S4-es'
-tags: [  ]
 actualPrice: 740.72 EUR
 currency: EUR
 price: 740.72

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BIGSRLS-es Western Digital - WD 8TB My Cloud EX2 Ultra Almacenamiento...'
 sku: 'B01BIGSRLS-es'
-tags: [  ]
 actualPrice: 346.99 EUR
 currency: EUR
 price: 346.99

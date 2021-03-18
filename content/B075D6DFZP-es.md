@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075D6DFZP-es Bobury Cinturón de Lona de los Hombres al Aire Libre no de...'
 sku: 'B075D6DFZP-es'
-tags: [  ]
 actualPrice: 4.33 EUR
 currency: EUR
 price: 4.33

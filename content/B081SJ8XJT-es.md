@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081SJ8XJT-es Nupuyai - Figura de tortuga con piedras preciosas amuleto...'
 sku: 'B081SJ8XJT-es'
-tags: [  ]
 actualPrice: 17.82 EUR
 currency: EUR
 price: 17.82

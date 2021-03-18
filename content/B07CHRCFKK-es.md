@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CHRCFKK-es Tesura Games - Grip: Combat Racing'
 sku: 'B07CHRCFKK-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

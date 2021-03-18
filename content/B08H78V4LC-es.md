@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H78V4LC-es konjac Termometro Infrarrojos Termómetro digital sin...'
 sku: 'B08H78V4LC-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

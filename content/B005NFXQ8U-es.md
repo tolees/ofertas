@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005NFXQ8U-es Mann Filter - MANN-FILTER Filtro de aceite W 7003 Para...'
 sku: 'B005NFXQ8U-es'
-tags: [  ]
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

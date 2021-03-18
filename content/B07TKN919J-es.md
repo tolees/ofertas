@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKN919J-es Clarks Step Allena Go Zapatillas para Mujer Beige Mauve...'
 sku: 'B07TKN919J-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

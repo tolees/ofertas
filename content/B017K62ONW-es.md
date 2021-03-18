@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017K62ONW-es Ghd ghd Style Final Shine Spray 100 Ml 100 g'
 sku: 'B017K62ONW-es'
-tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

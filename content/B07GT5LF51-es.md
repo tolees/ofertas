@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GT5LF51-es Desigual - Bag Orangina Capri Zipper Women Shoppers y...'
 sku: 'B07GT5LF51-es'
-tags: [  ]
 actualPrice: 44.28 EUR
 currency: EUR
 price: 44.28

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B4YVU4G-es NYX Professional Makeup Spray fijador Makeup Setting Spray...'
 sku: 'B00B4YVU4G-es'
-tags: [  ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

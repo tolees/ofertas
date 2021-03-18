@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JVQUZWW-es Disney - La Sirenita 2014 [DVD]'
 sku: 'B00JVQUZWW-es'
-tags: [ 'disney', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

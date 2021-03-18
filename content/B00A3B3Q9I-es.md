@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3B3Q9I-es Essie Esmalte de Uñas 48 Luxedo'
 sku: 'B00A3B3Q9I-es'
-tags: [  ]
 actualPrice: 3.78 EUR
 currency: EUR
 price: 3.78

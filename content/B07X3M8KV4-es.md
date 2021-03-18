@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3M8KV4-es PURLINE Parrilla Eléctrica Grill Panini Maker Máxima...'
 sku: 'B07X3M8KV4-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

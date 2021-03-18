@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MR9F75L-es Lee Daren Zip Fly Jeans Azul Dark Blue Wood Go 28W / 32L...'
 sku: 'B07MR9F75L-es'
-tags: [  ]
 actualPrice: 38.09 EUR
 currency: EUR
 price: 38.09

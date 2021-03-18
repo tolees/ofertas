@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N6IVNU6-es Sony - The Last of Us Parte II'
 sku: 'B01N6IVNU6-es'
-tags: [  ]
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L9PRTCZ-es Napapijri Ellary Polo Multicolor Fantasy F21 Large para...'
 sku: 'B07L9PRTCZ-es'
-tags: [  ]
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

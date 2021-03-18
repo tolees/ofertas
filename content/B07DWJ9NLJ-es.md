@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DWJ9NLJ-es Manija de Maleta Reemplazo Perfecto para Viejos Rotos...'
 sku: 'B07DWJ9NLJ-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

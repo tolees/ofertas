@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DRHL59Q-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B07DRHL59Q-es'
-tags: [  ]
 actualPrice: 170.81 EUR
 currency: EUR
 price: 170.81

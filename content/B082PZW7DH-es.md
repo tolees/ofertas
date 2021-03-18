@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082PZW7DH-es Mr. Wonderful Botiquín De Viaje para Que Nada Borre Esa...'
 sku: 'B082PZW7DH-es'
-tags: [  ]
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

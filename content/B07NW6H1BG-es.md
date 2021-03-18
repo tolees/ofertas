@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW6H1BG-es Skechers Outdoor Ultra Botas Altas para Mujer Marrón...'
 sku: 'B07NW6H1BG-es'
-tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HKY4M7-es find. MDR 40621 vestidos mujer Rojo Red 38 Talla del...'
 sku: 'B077HKY4M7-es'
-tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

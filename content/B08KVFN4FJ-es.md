@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KVFN4FJ-es Electronic Arts - NEED FOR SPEED HOT PURSUIT REMASTERED'
 sku: 'B08KVFN4FJ-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

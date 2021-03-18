@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ5CW26-es Salomon XA Pro 3D J Zapatillas de Deporte Unisex Niños...'
 sku: 'B07CZ5CW26-es'
-tags: [  ]
 actualPrice: 38.76 EUR
 currency: EUR
 price: 38.76

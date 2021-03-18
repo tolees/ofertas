@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZGJCQH-es Razer Huntsman Teclado con Switches Opto Mecánicos...'
 sku: 'B07CZGJCQH-es'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

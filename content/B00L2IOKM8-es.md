@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L2IOKM8-es Semillas Batlle - Semillas Hortícolas - Cebolla Grande...'
 sku: 'B00L2IOKM8-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

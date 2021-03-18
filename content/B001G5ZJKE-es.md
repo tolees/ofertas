@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001G5ZJKE-es Tuscany Silver Cadena con plata con colgante con circonita...'
 sku: 'B001G5ZJKE-es'
-tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

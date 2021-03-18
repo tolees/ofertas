@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XVW66WJ-es CYBEX Gold Silla de coche para niños Sirona M2 i-Size Para...'
 sku: 'B07XVW66WJ-es'
-tags: [  ]
 actualPrice: 159.53 EUR
 currency: EUR
 price: 159.53

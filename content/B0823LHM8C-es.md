@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823LHM8C-es Botellas de carga de bolas de gel de 1 pieza con 10000...'
 sku: 'B0823LHM8C-es'
-tags: [  ]
 actualPrice: 4.96 EUR
 currency: EUR
 price: 4.96

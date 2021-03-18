@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKWVRGD-es Dolce&Gabbana - Cartera para Mujer Negro Negro -...'
 sku: 'B07HKWVRGD-es'
-tags: [  ]
 actualPrice: 332.5 EUR
 currency: EUR
 price: 332.5

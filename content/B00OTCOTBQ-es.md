@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OTCOTBQ-es Intex 28454EX - Spa octogonal Deluxe Burbujas y Jets 795...'
 sku: 'B00OTCOTBQ-es'
-tags: [  ]
 actualPrice: 256.0 EUR
 currency: EUR
 price: 256.0

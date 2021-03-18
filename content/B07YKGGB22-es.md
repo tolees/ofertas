@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YKGGB22-es Altavoz Bluetooth 30W VTIN B2 Altavoz Bluetooth Estéreo...'
 sku: 'B07YKGGB22-es'
-tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

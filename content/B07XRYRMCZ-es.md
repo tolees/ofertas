@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRYRMCZ-es CARPISA ® Shopper de fantasía con cremallera - Foresta'
 sku: 'B07XRYRMCZ-es'
-tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

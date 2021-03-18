@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009ACOS84-es SEVERIN KG 2392 Plancha de Asar con placas intercambiables...'
 sku: 'B009ACOS84-es'
-tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

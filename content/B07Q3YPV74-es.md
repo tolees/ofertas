@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q3YPV74-es Nike Revolution 5 Zapatillas de Atletismo Mujer Multicolor...'
 sku: 'B07Q3YPV74-es'
-tags: [  ]
 actualPrice: 34.19 EUR
 currency: EUR
 price: 34.19

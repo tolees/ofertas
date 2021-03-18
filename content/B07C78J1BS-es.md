@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C78J1BS-es Omen Of Sorrow'
 sku: 'B07C78J1BS-es'
-tags: [  ]
 actualPrice: 10 EUR
 currency: EUR
 price: 10

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007AAC9DE-es Triumph Body Make-Up - Sujetador sin Aros para Mujer Color...'
 sku: 'B007AAC9DE-es'
-tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

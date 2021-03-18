@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086VSYW56-es Fisher-Price - Gimnasio Deluxe Animalitos de la Selva...'
 sku: 'B086VSYW56-es'
-tags: [  ]
 actualPrice: 53.4 EUR
 currency: EUR
 price: 53.4

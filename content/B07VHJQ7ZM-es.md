@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHJQ7ZM-es Pepe Jeans Lambert Carteron para Portátil Adaptable 15 6"...'
 sku: 'B07VHJQ7ZM-es'
-tags: [  ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

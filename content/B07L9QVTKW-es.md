@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9QVTKW-es Napapijri Erzin Polo Verde New Olive Green Gd6 X-Large...'
 sku: 'B07L9QVTKW-es'
-tags: [  ]
 actualPrice: 20.33 EUR
 currency: EUR
 price: 20.33

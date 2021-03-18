@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NZXD55L-es Rowenta Advancer TN5240 - Cortapelos Hombre con Cuchillas...'
 sku: 'B07NZXD55L-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

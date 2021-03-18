@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088MTQ93S-es The Bellies From Bellyville- Beastree House casa de los...'
 sku: 'B088MTQ93S-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

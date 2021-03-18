@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007WT3YS2-es Faren 414500SP Tratamiento elimina y limpia moho Beige'
 sku: 'B007WT3YS2-es'
-tags: [  ]
 actualPrice: 10.91 EUR
 currency: EUR
 price: 10.91

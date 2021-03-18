@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FXKBT8W-es VANS Filmore Decon Zapatillas Hombre Negro Canvas...'
 sku: 'B07FXKBT8W-es'
-tags: [  ]
 actualPrice: 26.41 EUR
 currency: EUR
 price: 26.41

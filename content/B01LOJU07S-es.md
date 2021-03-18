@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LOJU07S-es Hot Chocolate Design Chocolaticas Unicorn Tacon Mary Jane...'
 sku: 'B01LOJU07S-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

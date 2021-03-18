@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IMU2RFG-es Estee Lauder Youth Dew Edp Vapo 65 Ml 15 ml'
 sku: 'B00IMU2RFG-es'
-tags: [  ]
 actualPrice: 25.17 EUR
 currency: EUR
 price: 25.17

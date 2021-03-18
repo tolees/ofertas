@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTLHWGS-es Aigostar Mercury 33LBX - Aspirador de mano ciclónico...'
 sku: 'B07CTLHWGS-es'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RGTL9M8-es New Balance Fresh Foam Roav M Zapatillas de Correr Mujer...'
 sku: 'B07RGTL9M8-es'
-tags: [  ]
 actualPrice: 41.33 EUR
 currency: EUR
 price: 41.33

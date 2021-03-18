@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VVD9TLZ-es Fossil Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B06VVD9TLZ-es'
-tags: [ 'fossil', ]
 actualPrice: 82.16 EUR
 currency: EUR
 price: 82.16

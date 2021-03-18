@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0798GNSRQ-es Garza Adaptador de enchufe doble frontal con toma de...'
 sku: 'B0798GNSRQ-es'
-tags: [  ]
 actualPrice: 2.27 EUR
 currency: EUR
 price: 2.27

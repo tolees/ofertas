@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AUNIYWM-es AUKEY Lámpara de Mesa Regulable Lámpara de Noche de...'
 sku: 'B01AUNIYWM-es'
-tags: [ 'aukey', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

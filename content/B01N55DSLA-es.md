@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N55DSLA-es PUMA Basket Heart Patent WN S Zapatillas para Mujer Negro...'
 sku: 'B01N55DSLA-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

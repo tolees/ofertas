@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTUY6CX-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B01MTUY6CX-es'
-tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

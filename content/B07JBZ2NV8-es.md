@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JBZ2NV8-es Lee Extreme Motion Straight Pantalones Black 30W / 30L...'
 sku: 'B07JBZ2NV8-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

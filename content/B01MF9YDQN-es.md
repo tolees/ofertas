@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MF9YDQN-es Neutrogena Hydro Boost Gel de Agua Pieles Normales y...'
 sku: 'B01MF9YDQN-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

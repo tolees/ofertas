@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BVMRSPN-es adidas Club 3STR Polo Polo Hombre Rosint S'
 sku: 'B08BVMRSPN-es'
-tags: [  ]
 actualPrice: 21.19 EUR
 currency: EUR
 price: 21.19

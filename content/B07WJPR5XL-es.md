@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WJPR5XL-es Skechers DARLOW REMEGO Zapatillas para Hombre Lona...'
 sku: 'B07WJPR5XL-es'
-tags: [  ]
 actualPrice: 24.24 EUR
 currency: EUR
 price: 24.24

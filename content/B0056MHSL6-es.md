@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0056MHSL6-es Pincho 400401 Soporte sombrilla Rojo 32x18x8 cm'
 sku: 'B0056MHSL6-es'
-tags: [  ]
 actualPrice: 1.67 EUR
 currency: EUR
 price: 1.67

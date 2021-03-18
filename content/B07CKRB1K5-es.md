@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKRB1K5-es GearGo Purificador de Aire con Filtro Hepa Purificador de...'
 sku: 'B07CKRB1K5-es'
-tags: [  ]
 actualPrice: 28.77 EUR
 currency: EUR
 price: 28.77

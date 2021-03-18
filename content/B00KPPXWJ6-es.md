@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KPPXWJ6-es MAKITA DTL061Z Herramienta 18 V'
 sku: 'B00KPPXWJ6-es'
-tags: [  ]
 actualPrice: 153.82 EUR
 currency: EUR
 price: 153.82

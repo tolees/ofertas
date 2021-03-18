@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMWJVLV-es Wrangler High Rise Skinny Jeans Azul Blue Black 51l 26W /...'
 sku: 'B07MMWJVLV-es'
-tags: [  ]
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

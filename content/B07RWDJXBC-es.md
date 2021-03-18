@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RWDJXBC-es Mr. Wonderful Set of Two A4 notebooks-Contains Friday...'
 sku: 'B07RWDJXBC-es'
-tags: [  ]
 actualPrice: 4.87 EUR
 currency: EUR
 price: 4.87

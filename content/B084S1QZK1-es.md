@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084S1QZK1-es Taurus Microondas Fastwave 25L Digital con Grill ModoECO...'
 sku: 'B084S1QZK1-es'
-tags: [  ]
 actualPrice: 109.9 EUR
 currency: EUR
 price: 109.9

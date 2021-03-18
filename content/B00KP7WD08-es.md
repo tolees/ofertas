@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KP7WD08-es Multidermol Gel - Higiene Protectora y Aséptica de la Piel...'
 sku: 'B00KP7WD08-es'
-tags: [  ]
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

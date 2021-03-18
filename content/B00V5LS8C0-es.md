@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V5LS8C0-es Kempa Emotion Cazadora con Capucha Hombre Azur/Blanco XXXL'
 sku: 'B00V5LS8C0-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NVRWNP2-es Maybelline New York Maybelline New York Superstay Matte...'
 sku: 'B08NVRWNP2-es'
-tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

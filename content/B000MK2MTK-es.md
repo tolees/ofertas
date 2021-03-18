@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000MK2MTK-es Fellowes 8036701 - Soporte de regazo para ordenador...'
 sku: 'B000MK2MTK-es'
-tags: [  ]
 actualPrice: 25.03 EUR
 currency: EUR
 price: 25.03

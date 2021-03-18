@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ANH8RCI-es Walt Disney Pictures - Pinocho [Blu-ray]'
 sku: 'B00ANH8RCI-es'
-tags: [  ]
 actualPrice: 9.74 EUR
 currency: EUR
 price: 9.74

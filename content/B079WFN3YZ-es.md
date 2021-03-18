@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079WFN3YZ-es Superga 2790-cotropew Zapatillas de Gimnasia Mujer Negro...'
 sku: 'B079WFN3YZ-es'
-tags: [  ]
 actualPrice: 18.56 EUR
 currency: EUR
 price: 18.56

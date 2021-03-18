@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003US46IG-es Valmont Nature Discos Redondos Algodón 100% Orgánico - 70...'
 sku: 'B003US46IG-es'
-tags: [  ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

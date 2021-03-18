@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MH65GS8-es Skagen Reloj de Bolsillo Digital SKT5107'
 sku: 'B07MH65GS8-es'
-tags: [  ]
 actualPrice: 179.4 EUR
 currency: EUR
 price: 179.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DD8TCFL-es RAMPOW Cargador USB C con Power Delivery 3.0 45W Cargador...'
 sku: 'B08DD8TCFL-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

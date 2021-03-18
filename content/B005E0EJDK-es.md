@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005E0EJDK-es TooQ TQR-208B - Lector Interno de Tarjetas de Memoria CF...'
 sku: 'B005E0EJDK-es'
-tags: [  ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

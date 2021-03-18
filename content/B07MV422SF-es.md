@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MV422SF-es safta - Moos Flamingo Turquoise Oficial Cartera...'
 sku: 'B07MV422SF-es'
-tags: [  ]
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

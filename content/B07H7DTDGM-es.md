@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H7DTDGM-es Oxímetro de Pulso Rova Oxímetro de Dedo Pulsioximetro de...'
 sku: 'B07H7DTDGM-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DRRV3QD-es Casio EDIFICE Reloj en caja sólida 10 BAR Azul para Hombre...'
 sku: 'B07DRRV3QD-es'
-tags: [  ]
 actualPrice: 78.09 EUR
 currency: EUR
 price: 78.09

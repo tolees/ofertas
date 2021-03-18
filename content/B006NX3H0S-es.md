@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006NX3H0S-es Gigaset DA210 - Teléfono Fijo con Cable Color Blanco'
 sku: 'B006NX3H0S-es'
-tags: [ 'Electrónica','Telefonía fija y accesorios','Teléfonos analógicos','gigaset', ]
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

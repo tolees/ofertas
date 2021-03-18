@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HT3GYB9-es TOMOT Repetidor WiFi 300Mbps Extensor WiFi Amplificador...'
 sku: 'B08HT3GYB9-es'
-tags: [  ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

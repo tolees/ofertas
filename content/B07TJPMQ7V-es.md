@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJPMQ7V-es Clarks Hamble Loafer Mocasines Azul Navy Leather Navy...'
 sku: 'B07TJPMQ7V-es'
-tags: [  ]
 actualPrice: 51.32 EUR
 currency: EUR
 price: 51.32

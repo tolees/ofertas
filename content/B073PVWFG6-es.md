@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073PVWFG6-es Nllano USB-A a LAN Ethernet Adaptador con 3 USB 3.0...'
 sku: 'B073PVWFG6-es'
-tags: [  ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

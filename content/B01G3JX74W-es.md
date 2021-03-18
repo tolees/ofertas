@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01G3JX74W-es KENSINGTON K33969WW - Docking Station móvil USB-C™ SD1500'
 sku: 'B01G3JX74W-es'
-tags: [  ]
 actualPrice: 70.93 EUR
 currency: EUR
 price: 70.93

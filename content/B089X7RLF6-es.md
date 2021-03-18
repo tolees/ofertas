@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089X7RLF6-es Beurer HR6000 Cortabarbas con-sin cable para cuerpo barba...'
 sku: 'B089X7RLF6-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

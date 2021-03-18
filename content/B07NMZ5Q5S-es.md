@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NMZ5Q5S-es Nike Court Vision LO Zapatillas Hombre Negro...'
 sku: 'B07NMZ5Q5S-es'
-tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

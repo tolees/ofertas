@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081KXNTGK-es amzdeal Inflador Globo electrico para inflar Globos...'
 sku: 'B081KXNTGK-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

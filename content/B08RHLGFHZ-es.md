@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RHLGFHZ-es MAYJAM Aceites Esenciales de Naranja Dulce 100 ml 100%...'
 sku: 'B08RHLGFHZ-es'
-tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

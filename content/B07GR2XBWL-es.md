@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GR2XBWL-es auna IR-160 - Radio Internet WiFi USB MP3 AUX Alarma...'
 sku: 'B07GR2XBWL-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

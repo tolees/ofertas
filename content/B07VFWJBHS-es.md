@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFWJBHS-es Pepe Jeans Malibu Summer Zapatillas para Hombre Verde...'
 sku: 'B07VFWJBHS-es'
-tags: [  ]
 actualPrice: 28.3 EUR
 currency: EUR
 price: 28.3

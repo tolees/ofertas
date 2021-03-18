@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GVRGYSC-es TP-LINK AC2200 Deco M9 Plus 2-Pack - Amplificador WiFi...'
 sku: 'B07GVRGYSC-es'
-tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

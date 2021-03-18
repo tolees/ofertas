@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9QXKGL-es MUSESHOP Funda para Xiaomi Redmi Note 8 Pro Estuche de...'
 sku: 'B07Y9QXKGL-es'
-tags: [  ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

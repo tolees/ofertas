@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868NBHP4-es Suhctup Transparente Funda Compatible con Huawei Y7 2018...'
 sku: 'B0868NBHP4-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

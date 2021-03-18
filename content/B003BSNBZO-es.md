@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003BSNBZO-es Eucerin Higiene Intima Jabón Liquido para Piel Sensible...'
 sku: 'B003BSNBZO-es'
-tags: [  ]
 actualPrice: 3.64 EUR
 currency: EUR
 price: 3.64

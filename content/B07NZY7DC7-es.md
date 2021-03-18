@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZY7DC7-es Skechers Metco-Parken Zapatillas para Hombre Gris Gray...'
 sku: 'B07NZY7DC7-es'
-tags: [  ]
 actualPrice: 29.86 EUR
 currency: EUR
 price: 29.86

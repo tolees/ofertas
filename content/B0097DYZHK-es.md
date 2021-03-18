@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0097DYZHK-es Bosch Professional Set de 43 unidades para atornillar y...'
 sku: 'B0097DYZHK-es'
-tags: [  ]
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

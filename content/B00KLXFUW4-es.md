@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KLXFUW4-es Maybelline New York Corrector de Ojeras Bolsas e...'
 sku: 'B00KLXFUW4-es'
-tags: [  ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

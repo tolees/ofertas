@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYX8KDF-es Tangle Teezer Cepillo Para El Pelo 4 Unidades 100 g'
 sku: 'B07PYX8KDF-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

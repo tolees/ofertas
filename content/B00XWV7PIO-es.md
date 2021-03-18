@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XWV7PIO-es Festina Reloj de Vestir F16865/1'
 sku: 'B00XWV7PIO-es'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

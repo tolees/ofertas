@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQSJK2C-es Charles Wilson Paquete de 3 Camisetas Slub con Cuello...'
 sku: 'B07TQSJK2C-es'
-tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

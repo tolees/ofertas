@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009S1YVM0-es VANS Atwood Canvas Zapatillas Hombre Azul Navy/White 4k1...'
 sku: 'B009S1YVM0-es'
-tags: [  ]
 actualPrice: 44.81 EUR
 currency: EUR
 price: 44.81

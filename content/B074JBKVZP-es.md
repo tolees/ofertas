@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074JBKVZP-es Rhyme Extensiones de Cabello Arco Iris Clip de Extensiones...'
 sku: 'B074JBKVZP-es'
-tags: [  ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

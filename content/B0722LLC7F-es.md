@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0722LLC7F-es VIALMAN Colcha BEIG Cama 135 : 230 CM X 270 CM'
 sku: 'B0722LLC7F-es'
-tags: [  ]
 actualPrice: 28.67 EUR
 currency: EUR
 price: 28.67

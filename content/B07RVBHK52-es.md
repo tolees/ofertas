@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RVBHK52-es HAMSWAN Oxímetro de Dedo con Pantalla OLED [Regalos]...'
 sku: 'B07RVBHK52-es'
-tags: [  ]
 actualPrice: 15.69 EUR
 currency: EUR
 price: 15.69

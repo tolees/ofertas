@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BWXMWSG-es HP Envy 6032 - Impresora multifunción Tinta Color Wi-Fi...'
 sku: 'B08BWXMWSG-es'
-tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

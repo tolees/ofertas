@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B0YRL4M-es Russell Hobbs Mix & Go - Batidora de Vaso de Mano 300 W...'
 sku: 'B01B0YRL4M-es'
-tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

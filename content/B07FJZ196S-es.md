@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FJZ196S-es Dodot Splashers - 12 Pañales Bañadores Desechables 6 a 11...'
 sku: 'B07FJZ196S-es'
-tags: [  ]
 actualPrice: 2.43 EUR
 currency: EUR
 price: 2.43

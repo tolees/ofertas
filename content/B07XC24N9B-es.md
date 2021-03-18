@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XC24N9B-es Funko - Pop! Marvel: Avengers Game - Kamala Khan Figurina...'
 sku: 'B07XC24N9B-es'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

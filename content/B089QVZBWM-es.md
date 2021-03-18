@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QVZBWM-es Plantronics Blackwire 3220 - Headset Black'
 sku: 'B089QVZBWM-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

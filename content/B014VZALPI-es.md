@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014VZALPI-es M3 MEDIATRES ESTUDIO - Pack Kenshin 2+3 [DVD]'
 sku: 'B014VZALPI-es'
-tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

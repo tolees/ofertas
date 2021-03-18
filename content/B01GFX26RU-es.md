@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GFX26RU-es Zentrum90 - Complejo vitamínico con minerales vitamina C...'
 sku: 'B01GFX26RU-es'
-tags: [  ]
 actualPrice: 8.66 EUR
 currency: EUR
 price: 8.66

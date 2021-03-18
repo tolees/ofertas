@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ITVTUU8-es PALMERA IR0897334W'
 sku: 'B00ITVTUU8-es'
-tags: [  ]
 actualPrice: 19.07 EUR
 currency: EUR
 price: 19.07

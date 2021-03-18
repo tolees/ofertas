@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBCDZ2L-es Logitech Advanced Combo Wireless Keyboard and Mouse - N/A...'
 sku: 'B07JBCDZ2L-es'
-tags: [  ]
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

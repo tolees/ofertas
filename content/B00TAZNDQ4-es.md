@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TAZNDQ4-es Hansgrohe 26824400 Ducha de mano 4 tipos de chorro Blanco...'
 sku: 'B00TAZNDQ4-es'
-tags: [  ]
 actualPrice: 22.86 EUR
 currency: EUR
 price: 22.86

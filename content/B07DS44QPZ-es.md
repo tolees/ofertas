@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DS44QPZ-es Maca Andina Ecológica en Polvo [ Gelatinizada ] 200g....'
 sku: 'B07DS44QPZ-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075TJB8LB-es Dyc Whisky Nacional 40% 1.5L'
 sku: 'B075TJB8LB-es'
-tags: [  ]
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

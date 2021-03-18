@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPFTLNY-es Adidas Continental 80 W Zapatillas de Deporte Mujer...'
 sku: 'B07KPFTLNY-es'
-tags: [  ]
 actualPrice: 69.2 EUR
 currency: EUR
 price: 69.2

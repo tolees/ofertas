@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8XPH12-es JACK & JONES Jcomilla Sweat Hood Capucha Multicolor China...'
 sku: 'B07W8XPH12-es'
-tags: [  ]
 actualPrice: 15.93 EUR
 currency: EUR
 price: 15.93

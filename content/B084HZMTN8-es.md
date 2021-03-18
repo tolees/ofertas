@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084HZMTN8-es Funko- Pop Animation: Simpsons-Devil Flanders Figura...'
 sku: 'B084HZMTN8-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

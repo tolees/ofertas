@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VZMHFFF-es tomtoc Estuche Inteligente para iPad Pro de 12.9 Pulgadas...'
 sku: 'B07VZMHFFF-es'
-tags: [  ]
 actualPrice: 14.93 EUR
 currency: EUR
 price: 14.93

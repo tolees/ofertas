@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000NLZAYC-es Rapesco 0688 Carpeta portafolios A4+ horizontal 5 unidades...'
 sku: 'B000NLZAYC-es'
-tags: [  ]
 actualPrice: 3.54 EUR
 currency: EUR
 price: 3.54

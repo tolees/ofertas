@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082PC6HTM-es MEOMY Quitapelusas Eléctrico Quitapelusas para Ropa USB...'
 sku: 'B082PC6HTM-es'
-tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

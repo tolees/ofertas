@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0797NMTLD-es Funko- Pop Vinilo: Super Troopers: Mac Multicolor 30307'
 sku: 'B0797NMTLD-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPK5VYC-es Funko - POP! Vinilo: Disney: Toy Story 4: Woody'
 sku: 'B07KPK5VYC-es'
-tags: [ 'funko', ]
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

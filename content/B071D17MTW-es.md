@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071D17MTW-es Naipo Masajeador de Percusión Mano Inalámbrico Portátil...'
 sku: 'B071D17MTW-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

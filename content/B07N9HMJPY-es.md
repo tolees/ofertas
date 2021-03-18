@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N9HMJPY-es Philips Serie 7000 S7970/26 Máquina de afeitar cuhillas...'
 sku: 'B07N9HMJPY-es'
-tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

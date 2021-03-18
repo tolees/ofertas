@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXRLL22-es Wrangler Sign Off Crew Suéter Rojo Red A47 Medium para Hombre'
 sku: 'B07TXRLL22-es'
-tags: [ 'wrangler', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

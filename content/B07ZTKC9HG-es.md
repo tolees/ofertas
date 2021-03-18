@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZTKC9HG-es Ferilinso Funda para Moto G8 Plus Carcasa [Reforzar la...'
 sku: 'B07ZTKC9HG-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

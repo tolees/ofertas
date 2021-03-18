@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6JNL92-es HANPURE Bluetooth USB PC Adaptador Bluetooth USB USB...'
 sku: 'B07K6JNL92-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

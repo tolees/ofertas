@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AH8C08E-es Citizen Reloj Analógico para Unisex de Cuarzo con Correa...'
 sku: 'B01AH8C08E-es'
-tags: [  ]
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

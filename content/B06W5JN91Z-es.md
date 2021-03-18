@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5JN91Z-es Adidas Vs Advantage Zapatillas para Hombre Blanco White...'
 sku: 'B06W5JN91Z-es'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

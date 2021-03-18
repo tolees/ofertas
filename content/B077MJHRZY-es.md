@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MJHRZY-es PUMA Smash Wns V2 L Zapatillas Mujer Blanco White White 42 EU'
 sku: 'B077MJHRZY-es'
-tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','puma', ]
 actualPrice: 31.8 EUR
 currency: EUR
 price: 31.8

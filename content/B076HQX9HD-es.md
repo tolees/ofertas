@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQX9HD-es adidas CORE18 TR PNT Pantalones de Deporte Hombre Negro M'
 sku: 'B076HQX9HD-es'
-tags: [  ]
 actualPrice: 21.36 EUR
 currency: EUR
 price: 21.36

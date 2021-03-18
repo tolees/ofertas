@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KJPQL33-es Clay Dinosaur Toys Set for Kids - Magic Modeling Clay 26...'
 sku: 'B07KJPQL33-es'
-tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

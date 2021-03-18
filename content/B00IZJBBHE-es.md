@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IZJBBHE-es BRA Cafetera Italiana 170568 10T Elegance Acero Inoxidable...'
 sku: 'B00IZJBBHE-es'
-tags: [  ]
 actualPrice: 29.2 EUR
 currency: EUR
 price: 29.2

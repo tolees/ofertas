@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C29G7FR-es Jack & Jones Jjebasic Knit V-Neck Noos suéter Negro Black...'
 sku: 'B07C29G7FR-es'
-tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

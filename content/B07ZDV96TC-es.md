@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZDV96TC-es Tommy Hilfiger TJM Straight Logo Hoodie Suéter Gris Lt...'
 sku: 'B07ZDV96TC-es'
-tags: [  ]
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJ7M6X3-es WiFi Videocámara UHD 26MP FamBrow Videocamara de Vlogging...'
 sku: 'B08BJ7M6X3-es'
-tags: [  ]
 actualPrice: 95.97 EUR
 currency: EUR
 price: 95.97

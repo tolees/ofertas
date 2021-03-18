@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086HHK9TZ-es Samsonite Base Boost - Upright S Longitud: 40 cm Equipaje...'
 sku: 'B086HHK9TZ-es'
-tags: [  ]
 actualPrice: 72.4 EUR
 currency: EUR
 price: 72.4

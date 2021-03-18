@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086DPJHNH-es TOP BRIGHT Cubo de Actividades 5 en 1 - Centro de...'
 sku: 'B086DPJHNH-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

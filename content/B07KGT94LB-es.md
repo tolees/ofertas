@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KGT94LB-es Maybelline New York - Tattoo Liner Lápiz de Ojos Semi-...'
 sku: 'B07KGT94LB-es'
-tags: [  ]
 actualPrice: 4.45 EUR
 currency: EUR
 price: 4.45

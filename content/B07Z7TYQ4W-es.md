@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z7TYQ4W-es Bella Aurora Tónico Exfoliante Iluminador Tónico Facial...'
 sku: 'B07Z7TYQ4W-es'
-tags: [  ]
 actualPrice: 7.91 EUR
 currency: EUR
 price: 7.91

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYYSF72-es Under Armour UA W Charged Pursuit 2 Zapatillas de Running...'
 sku: 'B07PYYSF72-es'
-tags: [  ]
 actualPrice: 33.57 EUR
 currency: EUR
 price: 33.57

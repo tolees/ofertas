@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QB8JSF3-es Colegiales Niño Pablosky Azul 715420 35'
 sku: 'B07QB8JSF3-es'
-tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

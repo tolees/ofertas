@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HF631DJ-es AUTSCA Mechero Eléctrico Encendedor USB Doble Arco...'
 sku: 'B07HF631DJ-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

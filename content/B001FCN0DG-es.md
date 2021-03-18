@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001FCN0DG-es Draper 39223 - Kit Universal de alineación de Embrague'
 sku: 'B001FCN0DG-es'
-tags: [ 'draper', ]
 actualPrice: 17.8 EUR
 currency: EUR
 price: 17.8

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00699OSYA-es Lúdilo-678401 Ni si ni no lúdico juego de mesa para niños...'
 sku: 'B00699OSYA-es'
-tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

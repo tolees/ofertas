@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD5VSCC-es Borrás 18057 Ot El Juego De Mesa Multicolor color/modelo...'
 sku: 'B07DD5VSCC-es'
-tags: [  ]
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

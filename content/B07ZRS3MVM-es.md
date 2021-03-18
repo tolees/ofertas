@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRS3MVM-es Suhctup Funda Reemplazo para Huawei Mate 10 Cubierta Flip...'
 sku: 'B07ZRS3MVM-es'
-tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

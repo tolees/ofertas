@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NCX0RMF-es Hugo BOSS Reloj para hombre 1513475'
 sku: 'B01NCX0RMF-es'
-tags: [  ]
 actualPrice: 155.02 EUR
 currency: EUR
 price: 155.02

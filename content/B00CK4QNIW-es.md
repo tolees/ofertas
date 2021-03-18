@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CK4QNIW-es Lékué - Molde bizcocho Savarín Hondo/Bundt 22 cm'
 sku: 'B00CK4QNIW-es'
-tags: [  ]
 actualPrice: 9.48 EUR
 currency: EUR
 price: 9.48

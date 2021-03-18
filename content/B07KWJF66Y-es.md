@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWJF66Y-es LIGHTAILING Conjunto de Luces Creator Restaurant Parisien...'
 sku: 'B07KWJF66Y-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

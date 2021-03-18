@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00W3JNMEM-es Bushnell Natureview HD MAX Cámara de vigilancia Unisex...'
 sku: 'B00W3JNMEM-es'
-tags: [ 'bushnell', ]
 actualPrice: 281.98 EUR
 currency: EUR
 price: 281.98

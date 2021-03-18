@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078T9SZ3K-es SanDisk Extreme SSD portátil 2TB - hasta 550MB/s Velocidad...'
 sku: 'B078T9SZ3K-es'
-tags: [  ]
 actualPrice: 239.92 EUR
 currency: EUR
 price: 239.92

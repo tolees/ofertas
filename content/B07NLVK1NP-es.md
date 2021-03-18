@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NLVK1NP-es NIKE Revolution 5 Zapatillas Hombre Black/Anthracite 43 EU'
 sku: 'B07NLVK1NP-es'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

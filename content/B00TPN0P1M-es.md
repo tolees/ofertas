@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TPN0P1M-es Disney - I-610384s - Disfraz para niños - Classic Woody...'
 sku: 'B00TPN0P1M-es'
-tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

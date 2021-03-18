@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGD5TVV-es New Balance FuelCell Propel Zapatillas de Running para...'
 sku: 'B07HGD5TVV-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

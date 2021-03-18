@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FX16D4W-es Under Armour Play Up Short 2.0 Pantalón Corto Mujer Negro...'
 sku: 'B01FX16D4W-es'
-tags: [  ]
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XJ5VLDJ-es Clarks Marie Sail Mocasn Mujer Piel Negra 37.5 EU'
 sku: 'B07XJ5VLDJ-es'
-tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

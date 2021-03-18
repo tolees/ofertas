@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RQ9P6J-es Helly Hansen W HH Logo Hoodie Mujer Grey Melange S'
 sku: 'B073RQ9P6J-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007A1KO3A-es Samyang F1110808101 - Objetivo fotográfico DSLR para...'
 sku: 'B007A1KO3A-es'
-tags: [  ]
 actualPrice: 197.94 EUR
 currency: EUR
 price: 197.94

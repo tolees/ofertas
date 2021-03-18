@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VNGVKGF-es SanDisk iXpand Go - Memoria Flash USB de 128 GB para tu...'
 sku: 'B07VNGVKGF-es'
-tags: [  ]
 actualPrice: 27.29 EUR
 currency: EUR
 price: 27.29

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G66BZZG-es Fossil Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07G66BZZG-es'
-tags: [  ]
 actualPrice: 79.12 EUR
 currency: EUR
 price: 79.12

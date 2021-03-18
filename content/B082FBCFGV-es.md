@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082FBCFGV-es FAGORY Termo de Café Portátil Termo Taza Frasco de Vacío...'
 sku: 'B082FBCFGV-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

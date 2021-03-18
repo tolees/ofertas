@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJJ9CR4-es Tamaris 1-1-25252-23 Zapatillas Altas para Mujer Marrón...'
 sku: 'B07NJJ9CR4-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

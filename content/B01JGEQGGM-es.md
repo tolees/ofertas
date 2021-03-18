@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JGEQGGM-es Foodsaver FFC003X Recipiente para envasar al vacío 700 ml...'
 sku: 'B01JGEQGGM-es'
-tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

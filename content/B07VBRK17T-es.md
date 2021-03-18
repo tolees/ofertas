@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VBRK17T-es Zommuei Palo Selfie Trípode Selfie Stick Bluetooth 3 en 1...'
 sku: 'B07VBRK17T-es'
-tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

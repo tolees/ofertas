@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0169EBMNO-es Lodel RA6 - Emisor Térmico Digital Bajo Consumo 900 de...'
 sku: 'B0169EBMNO-es'
-tags: [  ]
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0

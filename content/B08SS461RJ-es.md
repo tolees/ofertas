@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SS461RJ-es Garnier Fructis Hair Food Mascarilla Sandía Revitalizante...'
 sku: 'B08SS461RJ-es'
-tags: [  ]
 actualPrice: 4.44 EUR
 currency: EUR
 price: 4.44

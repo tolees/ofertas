@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082D4CQK1-es 2020 Auriculares inalámbricos Bluetooth actualizados con...'
 sku: 'B082D4CQK1-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

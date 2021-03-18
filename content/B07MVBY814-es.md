@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVBY814-es Napapijri Berber H Capucha Verde Green Forest 2 GE3 XX-...'
 sku: 'B07MVBY814-es'
-tags: [  ]
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

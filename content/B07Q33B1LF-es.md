@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q33B1LF-es Philips PRO6305BK/00 - Auriculares intrauditivos 1.2 m...'
 sku: 'B07Q33B1LF-es'
-tags: [  ]
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZV35S3D-es Helly Hansen Calshot Trunk Bañador Hombre Royal Blue M'
 sku: 'B07ZV35S3D-es'
-tags: [  ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

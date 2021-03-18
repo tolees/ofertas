@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VK9NC3N-es toys'
 sku: 'B07VK9NC3N-es'
-tags: [  ]
 actualPrice: 5.3 EUR
 currency: EUR
 price: 5.3

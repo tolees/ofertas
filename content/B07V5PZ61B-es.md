@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V5PZ61B-es Jack & Jones JACLONG Knit Beanie Noos Gorro de Punto Verde...'
 sku: 'B07V5PZ61B-es'
-tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

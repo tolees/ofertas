@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0772H9YMF-es FMS Guante Microfibra de Limpieza con 840gsm Engrosamiento...'
 sku: 'B0772H9YMF-es'
-tags: [  ]
 actualPrice: 12.22 EUR
 currency: EUR
 price: 12.22

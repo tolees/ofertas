@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078SYDCH7-es Salomon Quest Prime GTX Zapatillas de Senderismo Hombre...'
 sku: 'B078SYDCH7-es'
-tags: [  ]
 actualPrice: 95.75 EUR
 currency: EUR
 price: 95.75

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFFRDW9-es Aitsite Multi herramienta copo de nieve Tarjeta de la...'
 sku: 'B07KFFRDW9-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

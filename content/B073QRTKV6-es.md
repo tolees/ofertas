@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073QRTKV6-es L Oreal Paris - L Oréal Paris Máscara de Pestañas Paradise...'
 sku: 'B073QRTKV6-es'
-tags: [  ]
 actualPrice: 7.28 EUR
 currency: EUR
 price: 7.28

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2YM6SL-es Inscrok Tira 12V Luces 5M 150 Leds Non Impermeab 5050 SMD...'
 sku: 'B07S2YM6SL-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

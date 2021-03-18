@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IHGJS20-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B00IHGJS20-es'
-tags: [  ]
 actualPrice: 59.3 EUR
 currency: EUR
 price: 59.3

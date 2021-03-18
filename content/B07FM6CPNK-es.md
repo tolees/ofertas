@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FM6CPNK-es TiaoBug S-XXL 3Pcs Mujer Disfraz de Chica Japonesa Cosplay...'
 sku: 'B07FM6CPNK-es'
-tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

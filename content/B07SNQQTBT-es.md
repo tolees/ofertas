@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SNQQTBT-es Meridiem Games - Neverwinter Nights: Enhanced Edition'
 sku: 'B07SNQQTBT-es'
-tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

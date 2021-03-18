@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PMTLK6K-es Under Armour Tech Corto Hombre Marrón 30'
 sku: 'B07PMTLK6K-es'
-tags: [  ]
 actualPrice: 11.52 EUR
 currency: EUR
 price: 11.52

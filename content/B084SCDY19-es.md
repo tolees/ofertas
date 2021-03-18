@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084SCDY19-es Gioseppo Eeklo Zapatillas Mujer Blanco 39 EU'
 sku: 'B084SCDY19-es'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

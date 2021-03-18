@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HP9J9WV-es Skechers Status 2.0-Pexton Zapatillas Hombre Azul NVY...'
 sku: 'B07HP9J9WV-es'
-tags: [  ]
 actualPrice: 38.92 EUR
 currency: EUR
 price: 38.92

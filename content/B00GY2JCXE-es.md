@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GY2JCXE-es Multicentrum Mujer Complemento Alimenticio con 13...'
 sku: 'B00GY2JCXE-es'
-tags: [  ]
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

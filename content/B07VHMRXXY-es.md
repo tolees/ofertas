@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VHMRXXY-es Napapijri Elice Polo Verde Green Way Gw11 Small para Hombre'
 sku: 'B07VHMRXXY-es'
-tags: [  ]
 actualPrice: 29.34 EUR
 currency: EUR
 price: 29.34

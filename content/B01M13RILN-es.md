@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M13RILN-es Reloj - MONETTI - Para - 316Lbraun'
 sku: 'B01M13RILN-es'
-tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XGD33RV-es Hugo BOSS Reloj para de Cuarzo con Correa en Acero...'
 sku: 'B07XGD33RV-es'
-tags: [  ]
 actualPrice: 279.3 EUR
 currency: EUR
 price: 279.3

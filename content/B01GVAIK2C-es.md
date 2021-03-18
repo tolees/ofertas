@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GVAIK2C-es M3 MEDIATRES ESTUDIO - Un monstruo en mi puerta'
 sku: 'B01GVAIK2C-es'
-tags: [  ]
 actualPrice: 4.05 EUR
 currency: EUR
 price: 4.05

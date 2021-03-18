@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N3OWIW9-es Cluse Reloj Digital de Cuarzo Unisex con Correa de Cuero –...'
 sku: 'B01N3OWIW9-es'
-tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

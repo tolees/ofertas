@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084Z5HYBR-es Juego de 3 Maletas rígidas con Barra Extensible y cómodas...'
 sku: 'B084Z5HYBR-es'
-tags: [  ]
 actualPrice: 60.11 EUR
 currency: EUR
 price: 60.11

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LY6VPD9-es Hairfinity Acondicionador Unisex Negro Black 6 cm'
 sku: 'B01LY6VPD9-es'
-tags: [  ]
 actualPrice: 29.54 EUR
 currency: EUR
 price: 29.54

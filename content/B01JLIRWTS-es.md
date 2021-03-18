@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JLIRWTS-es Hugo Boss Orange 1513408 - Reloj de pulsera para hombre'
 sku: 'B01JLIRWTS-es'
-tags: [  ]
 actualPrice: 63.0 EUR
 currency: EUR
 price: 63.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D3P8W1B-es L Oreal Paris Men Expert Gel de Ducha Taurina Anti-...'
 sku: 'B07D3P8W1B-es'
-tags: [  ]
 actualPrice: 2.31 EUR
 currency: EUR
 price: 2.31

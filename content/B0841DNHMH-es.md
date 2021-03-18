@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0841DNHMH-es Tommy Hilfiger - Tommy Jeans Hombre SCANTON SLIM QMBST...'
 sku: 'B0841DNHMH-es'
-tags: [  ]
 actualPrice: 28.68 EUR
 currency: EUR
 price: 28.68

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776XC5HH-es Tommy Hilfiger Original Slim Fit Chino Pantalones Beige...'
 sku: 'B0776XC5HH-es'
-tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

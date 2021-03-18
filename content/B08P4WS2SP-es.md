@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P4WS2SP-es Maybelline New York Maybelline Superstay Activewear 30H...'
 sku: 'B08P4WS2SP-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTR56XV-es Hugo BOSS Reloj de pulsera 1502459'
 sku: 'B07KTR56XV-es'
-tags: [  ]
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0

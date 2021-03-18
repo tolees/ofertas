@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F71DBGG-es Chanclas/ADIDAS:Adilette Aqua 42 Negro'
 sku: 'B07F71DBGG-es'
-tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

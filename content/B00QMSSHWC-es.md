@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QMSSHWC-es Optimum Nutrition Gold Standard 100% Caseina Cookies &...'
 sku: 'B00QMSSHWC-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

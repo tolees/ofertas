@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086PP7P9L-es ACTRINIC - Juguetes STEM Kit de Tobot Solar Kits de...'
 sku: 'B086PP7P9L-es'
-tags: [  ]
 actualPrice: 25.97 EUR
 currency: EUR
 price: 25.97

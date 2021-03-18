@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076CFJ61K-es Samsonite Paradiver Light - Bolsa de Viaje L 79 cm - 125 L...'
 sku: 'B076CFJ61K-es'
-tags: [  ]
 actualPrice: 114.5 EUR
 currency: EUR
 price: 114.5

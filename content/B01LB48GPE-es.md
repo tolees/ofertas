@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LB48GPE-es Taurus Vilna 1200W Emisor Térmico Digital Tecnología Seca...'
 sku: 'B01LB48GPE-es'
-tags: [  ]
 actualPrice: 115 EUR
 currency: EUR
 price: 115

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PGQCMRW-es Huawei Funda - Flip Wallet Cover Negra para Huawei P30 Pro'
 sku: 'B07PGQCMRW-es'
-tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01H59KOLI-es Reloj para hombre Tommy Hilfiger 1791276 mecanismo de...'
 sku: 'B01H59KOLI-es'
-tags: [  ]
 actualPrice: 139.47 EUR
 currency: EUR
 price: 139.47

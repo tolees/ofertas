@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FB99LM4-es GREAT ART Foto Mural de Mundo Dinosaurio Infantil 336 x...'
 sku: 'B07FB99LM4-es'
-tags: [  ]
 actualPrice: 54.8 EUR
 currency: EUR
 price: 54.8

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDL4Z5K-es Pulsar Reloj de Pulsera PZ4035X1'
 sku: 'B07BDL4Z5K-es'
-tags: [  ]
 actualPrice: 101.3 EUR
 currency: EUR
 price: 101.3

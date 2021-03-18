@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KVJ2XF9-es Frozen 2 Anna & Kristoff Couple Set'
 sku: 'B07KVJ2XF9-es'
-tags: [  ]
 actualPrice: 22.29 EUR
 currency: EUR
 price: 22.29

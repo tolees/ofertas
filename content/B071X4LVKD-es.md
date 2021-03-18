@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071X4LVKD-es Waldbeck Clearflow 55UV Filtro Exterior Acuario con...'
 sku: 'B071X4LVKD-es'
-tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYYSFJ3-es Under Armour UA Charged Commit TR 2 Zapatillas Deportivas...'
 sku: 'B07PYYSFJ3-es'
-tags: [  ]
 actualPrice: 36.48 EUR
 currency: EUR
 price: 36.48

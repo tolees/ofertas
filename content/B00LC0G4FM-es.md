@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LC0G4FM-es Hugo Boss 58396 - Agua de perfume'
 sku: 'B00LC0G4FM-es'
-tags: [ 'boss', ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

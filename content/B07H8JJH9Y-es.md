@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H8JJH9Y-es Epson Expression Premium XP-7100 Impresora Ethernet USB...'
 sku: 'B07H8JJH9Y-es'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085Z8V9VP-es Sierra de mesa mini sierra eléctrica de mesa...'
 sku: 'B085Z8V9VP-es'
-tags: [  ]
 actualPrice: 118.0 EUR
 currency: EUR
 price: 118.0

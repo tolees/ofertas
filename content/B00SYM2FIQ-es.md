@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SYM2FIQ-es Remington MB4850 Virtually Indestructible - Recortador de...'
 sku: 'B00SYM2FIQ-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

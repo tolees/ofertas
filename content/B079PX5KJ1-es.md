@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PX5KJ1-es adidas Run tee M T-Shirt Hombre Black L'
 sku: 'B079PX5KJ1-es'
-tags: [  ]
 actualPrice: 15.52 EUR
 currency: EUR
 price: 15.52

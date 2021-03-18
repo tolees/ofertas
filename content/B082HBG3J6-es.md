@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082HBG3J6-es ART VVIES Mit Haken Wandbild 20x20 Zoll Neugeborenen...'
 sku: 'B082HBG3J6-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

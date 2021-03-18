@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072KT3K3S-es NIVEA Creme crema hidratante universal todo tipo de pieles...'
 sku: 'B072KT3K3S-es'
-tags: [  ]
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

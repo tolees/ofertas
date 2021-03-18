@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F58TL3Q-es Boriwat Termómetro Digital Con Función de Memoria y Alarma...'
 sku: 'B08F58TL3Q-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

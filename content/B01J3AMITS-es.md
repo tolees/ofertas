@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J3AMITS-es Adaptador Bluetooth iAmotus USB Bluetooth 4.0 + EDR Mini...'
 sku: 'B01J3AMITS-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

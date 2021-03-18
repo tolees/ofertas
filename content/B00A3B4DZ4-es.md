@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A3B4DZ4-es Essie Esmalte de Uñas Nr. 67 Lady Like'
 sku: 'B00A3B4DZ4-es'
-tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

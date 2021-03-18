@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003AJE4S2-es Makita HM0871C Herramienta 24 V Negro Azul'
 sku: 'B003AJE4S2-es'
-tags: [  ]
 actualPrice: 354.92 EUR
 currency: EUR
 price: 354.92

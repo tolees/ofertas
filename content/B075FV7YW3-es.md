@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075FV7YW3-es Rowenta DE5010D1 Freemove Plancha de vapor sin cable con...'
 sku: 'B075FV7YW3-es'
-tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

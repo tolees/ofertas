@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMRVCRG-es Toolove Mesa Soporte para Dot 3.ª generación Soporte Dot 3...'
 sku: 'B07QMRVCRG-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

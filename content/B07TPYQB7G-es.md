@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPYQB7G-es Clarks Un Maui Strap Zapatillas para Mujer Azul Blush...'
 sku: 'B07TPYQB7G-es'
-tags: [  ]
 actualPrice: 31.7 EUR
 currency: EUR
 price: 31.7

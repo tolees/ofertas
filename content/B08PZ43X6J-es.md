@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PZ43X6J-es KKmoon OBD Escáner OBD2 Lector de Códigos Sistemas de...'
 sku: 'B08PZ43X6J-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

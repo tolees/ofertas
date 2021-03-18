@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HQ3YK71-es Warner Bros. Entertainment - El Caballero Oscuro: La...'
 sku: 'B08HQ3YK71-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

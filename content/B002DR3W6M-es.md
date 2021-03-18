@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002DR3W6M-es Cables To Go - Cable de Audio XLR Macho a XLR Hembra 5 m'
 sku: 'B002DR3W6M-es'
-tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

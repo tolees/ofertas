@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W9SZMS6-es Calvin Klein Radiant Cotton-Bikini Tanga Negro Black 001...'
 sku: 'B00W9SZMS6-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

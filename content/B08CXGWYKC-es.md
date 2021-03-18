@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CXGWYKC-es Gecheer Humidificador de Ambiente Difusor de Aceites...'
 sku: 'B08CXGWYKC-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

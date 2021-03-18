@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TXX28KX-es Wrangler 5 Pocket Short Pantalones Cortos Azul Game ON 12E...'
 sku: 'B07TXX28KX-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

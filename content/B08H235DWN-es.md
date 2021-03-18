@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H235DWN-es WAVLINK USB 3.0 Bases de Conexión Docking Station Pantalla...'
 sku: 'B08H235DWN-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

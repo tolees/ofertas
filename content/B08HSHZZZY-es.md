@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HSHZZZY-es HAOTIAN Funda para Xiaomi Poco X3 NFC y 2 Piezas Cristal...'
 sku: 'B08HSHZZZY-es'
-tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

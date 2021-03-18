@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PFFHJPT-es Greylags Calcetines Prima Calidad Cómodo Seamless...'
 sku: 'B07PFFHJPT-es'
-tags: [  ]
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

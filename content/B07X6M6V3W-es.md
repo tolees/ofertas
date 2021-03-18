@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X6M6V3W-es Cargador para NS Switch/Switch Lite innoAura Adaptador de...'
 sku: 'B07X6M6V3W-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

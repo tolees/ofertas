@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N098ULT-es EverVanz Mochila de Lona para Portátil Maleta Grande para...'
 sku: 'B01N098ULT-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

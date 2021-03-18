@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZDPP1K-es RECCI - 4CM Topper Colchón de Espuma 135x190cm Topper...'
 sku: 'B083ZDPP1K-es'
-tags: [  ]
 actualPrice: 43.87 EUR
 currency: EUR
 price: 43.87

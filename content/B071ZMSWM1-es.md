@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071ZMSWM1-es Fluchos | Zapato de Hombre | HERACLES 8410 Memory Negro...'
 sku: 'B071ZMSWM1-es'
-tags: [  ]
 actualPrice: 60.1 EUR
 currency: EUR
 price: 60.1

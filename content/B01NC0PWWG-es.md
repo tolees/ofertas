@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NC0PWWG-es JVC HA-FX10 Auriculares In Ear con Sonido Potente que...'
 sku: 'B01NC0PWWG-es'
-tags: [  ]
 actualPrice: 6.63 EUR
 currency: EUR
 price: 6.63

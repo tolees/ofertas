@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07922GNPT-es Mini Surveillance Cámara Portable HD CAM Espía HD 1080P...'
 sku: 'B07922GNPT-es'
-tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

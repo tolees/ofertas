@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LIZ9N90-es YAZILIND Hoja diseño Ancho Brazalete Pulsera Mujer Oro Joyas'
 sku: 'B00LIZ9N90-es'
-tags: [  ]
 actualPrice: 0.93 EUR
 currency: EUR
 price: 0.93

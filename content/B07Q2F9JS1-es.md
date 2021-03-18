@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2F9JS1-es Candelabros de Tubos Retro Vintage Personalidad Hierro...'
 sku: 'B07Q2F9JS1-es'
-tags: [  ]
 actualPrice: 20.69 EUR
 currency: EUR
 price: 20.69

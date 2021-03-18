@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081BJGPCY-es Columbia Pouring Adventure II Jacket Mujer Nocturnal White...'
 sku: 'B081BJGPCY-es'
-tags: [  ]
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

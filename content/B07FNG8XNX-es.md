@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNG8XNX-es bollé 21874 Máscaras Unisex Adulto Negro Mate M'
 sku: 'B07FNG8XNX-es'
-tags: [  ]
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

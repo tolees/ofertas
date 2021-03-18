@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ORS6SM-es Max Factor 12057 Masterpiece MAX Máscara de Pestañas - 7 ml'
 sku: 'B000ORS6SM-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

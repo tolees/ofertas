@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NBR6RDS-es Sony MDR-Zx110Apb - Auriculares para Smartphone Diadema...'
 sku: 'B00NBR6RDS-es'
-tags: [ 'sony', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

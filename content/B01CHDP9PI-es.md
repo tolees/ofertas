@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CHDP9PI-es SKYSPER 200 x 200 cm Manta de Picnic Alfombrilla Colchón...'
 sku: 'B01CHDP9PI-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

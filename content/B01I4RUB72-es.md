@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I4RUB72-es Breville DuraCeramic VST071X Sandwichera de tamaño mediano...'
 sku: 'B01I4RUB72-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

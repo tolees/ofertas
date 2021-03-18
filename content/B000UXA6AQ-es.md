@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000UXA6AQ-es Osram 64210 Original Line Lámpara Halógena de Faros 1 Unidad'
 sku: 'B000UXA6AQ-es'
-tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LHUPN22-es Belkin SurgeStrip - Regleta de protección contra...'
 sku: 'B00LHUPN22-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

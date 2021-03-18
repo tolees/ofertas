@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZXHKV6-es Bovon Soporte Móvil Soporte para iPad Mini Multiángulo...'
 sku: 'B085ZXHKV6-es'
-tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

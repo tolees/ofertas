@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDJPHNJ-es Bombilla LED G4 2 W de repuesto para bombillas halógenas...'
 sku: 'B07XDJPHNJ-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

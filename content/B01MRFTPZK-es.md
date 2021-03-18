@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MRFTPZK-es Levi s 502 Taper Jeans Nightshine 28W / 32L para Hombre'
 sku: 'B01MRFTPZK-es'
-tags: [  ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GR8F7L7-es Nero Giardini - NeroGiardini A806560D Blucher Mujer De...'
 sku: 'B07GR8F7L7-es'
-tags: [  ]
 actualPrice: 74.75 EUR
 currency: EUR
 price: 74.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N5HY51E-es Bergner Sarten Pescado 32X21.8X5.4Cm Aluminio Forjado...'
 sku: 'B01N5HY51E-es'
-tags: [  ]
 actualPrice: 43.31 EUR
 currency: EUR
 price: 43.31

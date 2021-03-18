@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKZ2P63-es Laluztop - Purificador de Aire 4 en 1 para Hogar Oficina...'
 sku: 'B07XKZ2P63-es'
-tags: [ 'laluztop', ]
 actualPrice: 45.77 EUR
 currency: EUR
 price: 45.77

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084J4KB2B-es Samsung Galaxy S20+ - Smartphone 6.7" Dynamic AMOLED 8GB...'
 sku: 'B084J4KB2B-es'
-tags: [  ]
 actualPrice: 687.0 EUR
 currency: EUR
 price: 687.0

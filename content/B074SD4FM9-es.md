@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074SD4FM9-es KeySmart Pro - Llavero Compacto con Linterna LED y...'
 sku: 'B074SD4FM9-es'
-tags: [  ]
 actualPrice: 43.91 EUR
 currency: EUR
 price: 43.91

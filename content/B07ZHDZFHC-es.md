@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZHDZFHC-es IKOHS Panificadora DEPAN 710-IK - Panificadora Automática...'
 sku: 'B07ZHDZFHC-es'
-tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WP9NQK3-es Extensor de HDMI MiraBox con Extractor de Audio a través...'
 sku: 'B06WP9NQK3-es'
-tags: [  ]
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

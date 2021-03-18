@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QX41FBY-es MP3 BENJIE 16GB MP3 Bluetooth 1.5" Reproductor de MP3...'
 sku: 'B07QX41FBY-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

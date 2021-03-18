@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K6MMMI0-es Guess Reloj analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B00K6MMMI0-es'
-tags: [  ]
 actualPrice: 146.96 EUR
 currency: EUR
 price: 146.96

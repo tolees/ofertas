@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0756Z1XTW-es Razer Basilisk Ratón con Cable para Juegos FPS con Sensor...'
 sku: 'B0756Z1XTW-es'
-tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

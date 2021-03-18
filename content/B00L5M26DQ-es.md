@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L5M26DQ-es Oral-B CrossAction Cabezal de Recambio 8+2 uds. Extra Negro'
 sku: 'B00L5M26DQ-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FFNLXQL-es HOMIEE Mochila Antirrobo Impermeable Mochila de Negocios...'
 sku: 'B07FFNLXQL-es'
-tags: [  ]
 actualPrice: 25.12 EUR
 currency: EUR
 price: 25.12

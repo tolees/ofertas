@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082X37JZC-es Cinturón de la cámara Uonner Hebilla del cinturón de...'
 sku: 'B082X37JZC-es'
-tags: [  ]
 actualPrice: 24.67 EUR
 currency: EUR
 price: 24.67

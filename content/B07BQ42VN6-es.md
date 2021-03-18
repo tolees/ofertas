@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BQ42VN6-es Moussel - Gel Ducha Clasico 900 ml'
 sku: 'B07BQ42VN6-es'
-tags: [  ]
 actualPrice: 2.55 EUR
 currency: EUR
 price: 2.55

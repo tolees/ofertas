@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK5P7P3-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07MK5P7P3-es'
-tags: [  ]
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

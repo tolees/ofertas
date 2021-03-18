@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HNLQZXA-es Einhell 4513495 RT-SD 3 6/2 Li Kit - Atornillador...'
 sku: 'B00HNLQZXA-es'
-tags: [  ]
 actualPrice: 22.9 EUR
 currency: EUR
 price: 22.9

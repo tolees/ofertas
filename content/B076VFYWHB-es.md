@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076VFYWHB-es Objetivo Tamron 100-400mm F/4.5-6.3 Di VC y Ultrasonic...'
 sku: 'B076VFYWHB-es'
-tags: [  ]
 actualPrice: 614.0 EUR
 currency: EUR
 price: 614.0

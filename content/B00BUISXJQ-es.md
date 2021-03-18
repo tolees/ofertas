@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BUISXJQ-es Nioxin Sistema 6 Acondicionador - 300 ml.'
 sku: 'B00BUISXJQ-es'
-tags: [  ]
 actualPrice: 11 EUR
 currency: EUR
 price: 11

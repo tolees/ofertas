@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K69GP6R-es adidas Condivo18 SHO Pantalones Cortos de Deporte Hombre...'
 sku: 'B07K69GP6R-es'
-tags: [  ]
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

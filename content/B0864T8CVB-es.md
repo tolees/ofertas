@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0864T8CVB-es SuperThings Rivals of Kaboom - Secret Spies - Display de...'
 sku: 'B0864T8CVB-es'
-tags: [  ]
 actualPrice: 25.15 EUR
 currency: EUR
 price: 25.15

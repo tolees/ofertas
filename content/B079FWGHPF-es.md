@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FWGHPF-es find. Botín de Ante con Tacón Western Mujer Azul Navy Navy...'
 sku: 'B079FWGHPF-es'
-tags: [  ]
 actualPrice: 16.5 EUR
 currency: EUR
 price: 16.5

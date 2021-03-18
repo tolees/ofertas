@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WI49CS2-es Semillas Batlle - Semillas Hortícolas - Melón Rochet Sel....'
 sku: 'B00WI49CS2-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

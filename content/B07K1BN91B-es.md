@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1BN91B-es adidas Tastigo19 SHO Pantalones Cortos de Deporte Hombre...'
 sku: 'B07K1BN91B-es'
-tags: [  ]
 actualPrice: 17.01 EUR
 currency: EUR
 price: 17.01

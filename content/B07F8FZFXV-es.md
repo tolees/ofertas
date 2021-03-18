@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F8FZFXV-es Max Factor Lasting Performance Spray Fijador 100 ml'
 sku: 'B07F8FZFXV-es'
-tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

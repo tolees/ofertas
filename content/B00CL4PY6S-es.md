@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CL4PY6S-es Atosa - Disfraz de payaso para mujer talla 34 15670'
 sku: 'B00CL4PY6S-es'
-tags: [  ]
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

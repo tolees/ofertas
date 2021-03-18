@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BMKTYLW-es Bourjois Smokey Stories Sombra de ojos Tono nr.12 - 39.5 gr'
 sku: 'B01BMKTYLW-es'
-tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

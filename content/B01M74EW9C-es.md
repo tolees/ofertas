@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M74EW9C-es G-STAR RAW Duko Belt Cinturón Negro Black/black 406 80...'
 sku: 'B01M74EW9C-es'
-tags: [  ]
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

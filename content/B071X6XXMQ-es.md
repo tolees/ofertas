@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071X6XXMQ-es IMC Toys - Bloopies Lovely 95625'
 sku: 'B071X6XXMQ-es'
-tags: [ 'Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','bloopies', ]
 actualPrice: 9.11 EUR
 currency: EUR
 price: 9.11

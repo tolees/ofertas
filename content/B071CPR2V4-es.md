@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071CPR2V4-es Satisfyer Pro 2 Next Generation - Estimulador de Clítoris...'
 sku: 'B071CPR2V4-es'
-tags: [  ]
 actualPrice: 24.85 EUR
 currency: EUR
 price: 24.85

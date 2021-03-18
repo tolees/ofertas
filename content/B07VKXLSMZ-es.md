@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKXLSMZ-es Hackett London Army Hackett Polo Rojo 255red 255 Small...'
 sku: 'B07VKXLSMZ-es'
-tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

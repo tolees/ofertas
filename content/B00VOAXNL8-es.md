@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VOAXNL8-es Croci C5055221 Flexi Design Tape S 5M Azul'
 sku: 'B00VOAXNL8-es'
-tags: [  ]
 actualPrice: 13.17 EUR
 currency: EUR
 price: 13.17

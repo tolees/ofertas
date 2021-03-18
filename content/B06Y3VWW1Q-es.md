@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y3VWW1Q-es Bluefinity Aro Pilates Anillo Ejercicio Yoga Resistencia...'
 sku: 'B06Y3VWW1Q-es'
-tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

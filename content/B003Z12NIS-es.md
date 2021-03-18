@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003Z12NIS-es Tucano-Bolsa para Ordenador Hombre y Mujer con Bolsillo...'
 sku: 'B003Z12NIS-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

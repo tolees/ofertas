@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JR5N7J-es find. Cazadora Acolchada Hombre Azul Navy 54 Talla del...'
 sku: 'B073JR5N7J-es'
-tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

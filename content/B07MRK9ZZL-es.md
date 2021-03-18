@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MRK9ZZL-es Lacoste Hh9553 Pantalones Beige Viennois 02s 48 Talla del...'
 sku: 'B07MRK9ZZL-es'
-tags: [  ]
 actualPrice: 51.07 EUR
 currency: EUR
 price: 51.07

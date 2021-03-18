@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0771GBS5V-es RAMPOW Adaptador USB C a USB 3.1[OTG] Aluminio Adaptador...'
 sku: 'B0771GBS5V-es'
-tags: [  ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

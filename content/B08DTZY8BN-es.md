@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DTZY8BN-es Auxmir Luz Armario con Sensor de Movimiento Recargable USB...'
 sku: 'B08DTZY8BN-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

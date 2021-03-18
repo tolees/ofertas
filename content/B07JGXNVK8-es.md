@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JGXNVK8-es Plastiken ARCON ORDENACION Capacidad 260 litros Exterior...'
 sku: 'B07JGXNVK8-es'
-tags: [  ]
 actualPrice: 34.45 EUR
 currency: EUR
 price: 34.45

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07629RLTC-es Atlantic - The Greatest Showman Banda Sonora Original'
 sku: 'B07629RLTC-es'
-tags: [  ]
 actualPrice: 8.11 EUR
 currency: EUR
 price: 8.11

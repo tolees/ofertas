@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073ZG6J9N-es Remington S8540 Keratin Protect - Plancha de Pelo Cerámica...'
 sku: 'B073ZG6J9N-es'
-tags: [  ]
 actualPrice: 37.4 EUR
 currency: EUR
 price: 37.4

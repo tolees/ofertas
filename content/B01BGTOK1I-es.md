@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BGTOK1I-es G-STAR RAW Bronson Slim Chino Pantalones Negro black...'
 sku: 'B01BGTOK1I-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

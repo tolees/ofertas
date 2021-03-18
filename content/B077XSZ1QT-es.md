@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XSZ1QT-es Under Armour Coldgear Run Tight Leggings Mujer Negro...'
 sku: 'B077XSZ1QT-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

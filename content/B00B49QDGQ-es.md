@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B49QDGQ-es Everlast 2260 Punching de Pie Unisex Negro Ajustable hasta...'
 sku: 'B00B49QDGQ-es'
-tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZDBNFG6-es mysticall Cinta de Correr Walking Pad Plegable A1 Cinta de...'
 sku: 'B07ZDBNFG6-es'
-tags: [  ]
 actualPrice: 449.99 EUR
 currency: EUR
 price: 449.99

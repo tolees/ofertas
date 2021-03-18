@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872FBXSN-es KN-95'
 sku: 'B0872FBXSN-es'
-tags: [  ]
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

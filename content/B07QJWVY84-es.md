@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QJWVY84-es Receptor Bluetooth 5.0 Jack 3.5mm AGPTEK Adaptador de...'
 sku: 'B07QJWVY84-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

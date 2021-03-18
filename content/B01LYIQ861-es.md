@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LYIQ861-es Reloj Tommy Hilfiger - Hombre 1791326'
 sku: 'B01LYIQ861-es'
-tags: [  ]
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

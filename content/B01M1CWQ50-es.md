@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1CWQ50-es Daniel Wellington Reloj Analógico para Unisex de Cuarzo...'
 sku: 'B01M1CWQ50-es'
-tags: [  ]
 actualPrice: 66.22 EUR
 currency: EUR
 price: 66.22

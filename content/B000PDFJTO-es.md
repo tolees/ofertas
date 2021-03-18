@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000PDFJTO-es Amazonas AZ-3027000 - Cuerda para hamaca Resistencia 120...'
 sku: 'B000PDFJTO-es'
-tags: [  ]
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

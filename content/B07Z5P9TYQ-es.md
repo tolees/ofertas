@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z5P9TYQ-es Mumusuki conservante Cobre Puro PU Er Aguja de té PU Erh...'
 sku: 'B07Z5P9TYQ-es'
-tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

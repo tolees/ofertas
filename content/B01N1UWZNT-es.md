@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1UWZNT-es Gant Classic Leather Belt Cinturón Negro Black 130 Talla...'
 sku: 'B01N1UWZNT-es'
-tags: [  ]
 actualPrice: 28.03 EUR
 currency: EUR
 price: 28.03

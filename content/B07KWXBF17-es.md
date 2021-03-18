@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KWXBF17-es Glop Games-Elsa Musical Frozen II Muñeca color jakks...'
 sku: 'B07KWXBF17-es'
-tags: [  ]
 actualPrice: 33.91 EUR
 currency: EUR
 price: 33.91

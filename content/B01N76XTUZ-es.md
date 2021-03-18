@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N76XTUZ-es Nixon Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B01N76XTUZ-es'
-tags: [  ]
 actualPrice: 82.31 EUR
 currency: EUR
 price: 82.31

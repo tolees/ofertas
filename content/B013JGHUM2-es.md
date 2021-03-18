@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013JGHUM2-es Sony ICF-P26 - Radio portátil con altavoz y sintonizador...'
 sku: 'B013JGHUM2-es'
-tags: [ 'sony', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

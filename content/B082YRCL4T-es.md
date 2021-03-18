@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082YRCL4T-es SteelSeries Apex 3 - Teclado RGB para Gaming Iluminación...'
 sku: 'B082YRCL4T-es'
-tags: [  ]
 actualPrice: 59.69 EUR
 currency: EUR
 price: 59.69

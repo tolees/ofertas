@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPSBDBR-es UOOGOU - Cortapelos Hombre Profesional Recortadora de...'
 sku: 'B08GPSBDBR-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQ7GSWP-es Medisana BU 546 connect Tensiómetro para el brazo con...'
 sku: 'B07NQ7GSWP-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GWRKSRL-es AMINZER - IPL Depiladora de Luz Pulsada Láser de...'
 sku: 'B08GWRKSRL-es'
-tags: [  ]
 actualPrice: 49.49 EUR
 currency: EUR
 price: 49.49

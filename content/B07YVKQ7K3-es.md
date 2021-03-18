@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YVKQ7K3-es Pack 1-2: Star Trek Discovery BD [Blu-ray]'
 sku: 'B07YVKQ7K3-es'
-tags: [  ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

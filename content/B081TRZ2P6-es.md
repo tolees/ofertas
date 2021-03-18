@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TRZ2P6-es adidas Novice C Zapatillas de Running Unisex niños FTWR...'
 sku: 'B081TRZ2P6-es'
-tags: [  ]
 actualPrice: 30.46 EUR
 currency: EUR
 price: 30.46

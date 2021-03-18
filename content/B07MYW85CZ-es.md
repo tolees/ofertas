@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYW85CZ-es Triumph Amourette 300 W X Sujetador con Aros Morado 95B...'
 sku: 'B07MYW85CZ-es'
-tags: [  ]
 actualPrice: 27.04 EUR
 currency: EUR
 price: 27.04

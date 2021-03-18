@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCTGT8R-es Colmanda Juguete Mágico de Hombre Wooden Man Daruma Stage...'
 sku: 'B07ZCTGT8R-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

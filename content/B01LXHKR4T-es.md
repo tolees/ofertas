@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LXHKR4T-es SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-...'
 sku: 'B01LXHKR4T-es'
-tags: [  ]
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

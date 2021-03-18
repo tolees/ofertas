@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WVBTZZP-es Avengers-los Vengadores Libreta Folio 80 Hojas Tapas duras...'
 sku: 'B06WVBTZZP-es'
-tags: [  ]
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

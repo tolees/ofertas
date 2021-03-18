@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PBG1JCN-es Iduncare Contorno de Ojos Reafirmante - Crema Antiarrugas...'
 sku: 'B07PBG1JCN-es'
-tags: [  ]
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

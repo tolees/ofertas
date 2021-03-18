@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001NBOOSE-es Bosch Professional GSH 5 CE - Martillo demoledor 8 3 J...'
 sku: 'B001NBOOSE-es'
-tags: [  ]
 actualPrice: 409.0 EUR
 currency: EUR
 price: 409.0

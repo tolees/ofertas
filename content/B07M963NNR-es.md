@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M963NNR-es Wrangler HIGH RISE SKINNY Jeans Azul Mid Indigo X8e 26W /...'
 sku: 'B07M963NNR-es'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

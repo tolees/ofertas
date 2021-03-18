@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKFC5NF-es Kipling - Fundamental Nc Mochilas Mujer Azul Dynamic Blue'
 sku: 'B07DKFC5NF-es'
-tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

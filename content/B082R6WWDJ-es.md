@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082R6WWDJ-es Nike Challenger OG Zapatillas para Correr Hombre Lt Bone...'
 sku: 'B082R6WWDJ-es'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

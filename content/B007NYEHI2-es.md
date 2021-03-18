@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007NYEHI2-es Zwilling Prime - Batería de cocina de 5 piezas Acero...'
 sku: 'B007NYEHI2-es'
-tags: [  ]
 actualPrice: 274.1 EUR
 currency: EUR
 price: 274.1

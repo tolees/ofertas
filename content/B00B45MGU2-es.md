@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B45MGU2-es Philips Lighting - Aplique de exterior empotrado casquillo...'
 sku: 'B00B45MGU2-es'
-tags: [  ]
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

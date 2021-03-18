@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5XSZVR-es OurLeeme 15 unids Pincel de pintura profesional Nail Art...'
 sku: 'B07P5XSZVR-es'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QSBMPSH-es Astragon - Bus Simulator [ [Importación alemana]'
 sku: 'B07QSBMPSH-es'
-tags: [  ]
 actualPrice: 26.57 EUR
 currency: EUR
 price: 26.57

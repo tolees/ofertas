@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NBXV5V2-es Reloj Viceroy - Chicos 401063-55'
 sku: 'B01NBXV5V2-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

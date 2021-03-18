@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0854H8VMT-es Mamá Lactancia materna Con una sola mano Extractor de...'
 sku: 'B0854H8VMT-es'
-tags: [  ]
 actualPrice: 5.64 EUR
 currency: EUR
 price: 5.64

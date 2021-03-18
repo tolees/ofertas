@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KG5VGXN-es Meterk Lijadora Orbital Lijadora Excentrica Eléctrica 300W...'
 sku: 'B07KG5VGXN-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

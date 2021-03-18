@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073XX43LQ-es Scuderia Ferrari Reloj Cronógrafo para Hombre de Cuarzo...'
 sku: 'B073XX43LQ-es'
-tags: [ 'scuderia ferrari', ]
 actualPrice: 130.18 EUR
 currency: EUR
 price: 130.18

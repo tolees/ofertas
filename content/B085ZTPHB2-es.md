@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZTPHB2-es Oxímetro konjac Oxímetro dedo Oxímetro de Pulso...'
 sku: 'B085ZTPHB2-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

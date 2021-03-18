@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GH03SX2-es Rimmel London Lasting Finish Nude By Kate Barra De Labios...'
 sku: 'B01GH03SX2-es'
-tags: [  ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

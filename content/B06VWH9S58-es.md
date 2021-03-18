@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VWH9S58-es Ultimate Ears Wonderboom Altavoz Portátil Inalámbrico...'
 sku: 'B06VWH9S58-es'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

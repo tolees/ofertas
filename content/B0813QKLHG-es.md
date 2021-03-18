@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813QKLHG-es LEGO- Art Póster de Coleccionistas Star Wars: Los Sith...'
 sku: 'B0813QKLHG-es'
-tags: [  ]
 actualPrice: 89.96 EUR
 currency: EUR
 price: 89.96

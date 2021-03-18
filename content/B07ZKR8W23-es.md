@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKR8W23-es Gillette Fusion5 Power Maquinilla Afeitar 8 Recambios'
 sku: 'B07ZKR8W23-es'
-tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

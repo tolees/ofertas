@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0754FQSQD-es Salomon Agile Long Tight M Mallas para Running Mezcla de...'
 sku: 'B0754FQSQD-es'
-tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N7NMRDG-es Calvin Klein Reloj Analógico-Digital para Unisex Adultos...'
 sku: 'B07N7NMRDG-es'
-tags: [  ]
 actualPrice: 58.6 EUR
 currency: EUR
 price: 58.6

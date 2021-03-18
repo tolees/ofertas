@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYW2RVB-es Wrangler Icons Jeans Blue 3 Years 10K 31W / 34L para Hombre'
 sku: 'B07TYW2RVB-es'
-tags: [  ]
 actualPrice: 22.38 EUR
 currency: EUR
 price: 22.38

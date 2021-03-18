@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZNSR8S-es Gioseppo 56738 Zapatillas para Mujer Multicolor Leopardo...'
 sku: 'B07MZNSR8S-es'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081SHXLK7-es adidas Speed Split W Pantalones Cortos de Deporte Mujer...'
 sku: 'B081SHXLK7-es'
-tags: [  ]
 actualPrice: 16.41 EUR
 currency: EUR
 price: 16.41

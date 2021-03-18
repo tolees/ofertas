@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GY1CT4P-es Hurley W Allover Tie Dye Fleece Jogger'
 sku: 'B08GY1CT4P-es'
-tags: [  ]
 actualPrice: 24.21 EUR
 currency: EUR
 price: 24.21

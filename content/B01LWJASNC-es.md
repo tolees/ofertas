@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LWJASNC-es Eryplast Lutsine E45 - Pasta al Agua Crema Pañal Bebé - 2x75g'
 sku: 'B01LWJASNC-es'
-tags: [  ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

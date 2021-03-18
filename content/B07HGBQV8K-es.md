@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HGBQV8K-es NOX XTREME PRODUCTS - Nox Infinity Neon -NXINFTYNEON- Caja...'
 sku: 'B07HGBQV8K-es'
-tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

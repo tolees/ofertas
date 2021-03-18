@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FD1KXC5-es Meridiem Games - Professor Rubik s Brain Fitness'
 sku: 'B08FD1KXC5-es'
-tags: [  ]
 actualPrice: 24.57 EUR
 currency: EUR
 price: 24.57

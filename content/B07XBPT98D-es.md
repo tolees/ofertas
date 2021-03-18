@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBPT98D-es LIGE Relojes para Hombre Simple Negocio Deportivo Cuarzo...'
 sku: 'B07XBPT98D-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082J5RMVP-es Cecotec Aspirador Escoba Sin Cable Conga Rockstar 500...'
 sku: 'B082J5RMVP-es'
-tags: [  ]
 actualPrice: 158.0 EUR
 currency: EUR
 price: 158.0

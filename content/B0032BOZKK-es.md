@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0032BOZKK-es LECTOR DE TARJETAS NGS MULTIREADER PRO. INTERCAMBIO DE...'
 sku: 'B0032BOZKK-es'
-tags: [  ]
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

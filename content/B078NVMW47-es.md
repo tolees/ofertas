@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078NVMW47-es Auxmir Cortina Mosquitera Magnética para Puertas 100x220cm...'
 sku: 'B078NVMW47-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

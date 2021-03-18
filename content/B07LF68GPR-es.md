@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LF68GPR-es BIC Cristal Multicolour - Pack de 15 unidades bolígrafos...'
 sku: 'B07LF68GPR-es'
-tags: [  ]
 actualPrice: 5.66 EUR
 currency: EUR
 price: 5.66

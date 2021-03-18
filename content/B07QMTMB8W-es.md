@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMTMB8W-es Asics Gel-Sonoma 4 Zapatillas de Running para Mujer Negro...'
 sku: 'B07QMTMB8W-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

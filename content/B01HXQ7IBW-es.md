@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HXQ7IBW-es Guess Reloj de Pulsera W0638L4'
 sku: 'B01HXQ7IBW-es'
-tags: [  ]
 actualPrice: 130.43 EUR
 currency: EUR
 price: 130.43

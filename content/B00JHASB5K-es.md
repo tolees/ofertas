@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JHASB5K-es FIMO 8030-7 - Pasta de Modelar Color Marrón 42g'
 sku: 'B00JHASB5K-es'
-tags: [ 'Accesorios','Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Accesorios para portátiles y netbooks','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Bolsas y fundas para portátiles y netbooks','Camisetas de manga corta para niño','Camisetas, polos y camisas para niño','Compuestos de modelado para escultura','Costura y manualidades','Electrónica','Escultura','Fundas blandas para portátiles y netbooks','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Hogar y cocina','Informática','Ropa','Ropa para niño','Sistemas precursores y micro consolas','TV, vídeo y home cinema','Televisores','Videojuegos','fimo', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

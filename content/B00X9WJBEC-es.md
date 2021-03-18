@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9WJBEC-es L Oreal Paris Elvive Aceite Extraordinario - 100 ml'
 sku: 'B00X9WJBEC-es'
-tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

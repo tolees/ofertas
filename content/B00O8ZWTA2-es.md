@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O8ZWTA2-es H.Koenig TRT180 Tart Express 1800 W Acero Inoxidable Rojo'
 sku: 'B00O8ZWTA2-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

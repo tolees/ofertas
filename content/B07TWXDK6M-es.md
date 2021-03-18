@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWXDK6M-es Women s Secret New Season Nightdresses Cm Pink Flower Nd...'
 sku: 'B07TWXDK6M-es'
-tags: [  ]
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

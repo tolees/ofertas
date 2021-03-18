@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WT8M2Y3-es Samsung Galaxy Watch Active 2 - Smartwatch de Acero 40mm...'
 sku: 'B07WT8M2Y3-es'
-tags: [  ]
 actualPrice: 247.11 EUR
 currency: EUR
 price: 247.11

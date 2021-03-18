@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MVS229X-es Codemasters - F1 2020 Estándar'
 sku: 'B08MVS229X-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

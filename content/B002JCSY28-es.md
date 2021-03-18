@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002JCSY28-es Crocs Crocband Flip Unisex Adulto White 42/43 EU'
 sku: 'B002JCSY28-es'
-tags: [  ]
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

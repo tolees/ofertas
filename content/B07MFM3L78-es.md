@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFM3L78-es Clarks Tri Solar Zapatillas para Hombre Negro Black...'
 sku: 'B07MFM3L78-es'
-tags: [  ]
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

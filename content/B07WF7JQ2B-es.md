@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WF7JQ2B-es Springfield Chino Daily Estructura Bicolor 1-c/54...'
 sku: 'B07WF7JQ2B-es'
-tags: [  ]
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

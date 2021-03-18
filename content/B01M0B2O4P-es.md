@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0B2O4P-es Waldhausen Fliegenmaske Premium mit Ohrenschutz'
 sku: 'B01M0B2O4P-es'
-tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

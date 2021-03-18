@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072MRJ4SK-es Bethesda - Wolfenstein II: The New Colossus - Day One Edition'
 sku: 'B072MRJ4SK-es'
-tags: [  ]
 actualPrice: 17.19 EUR
 currency: EUR
 price: 17.19

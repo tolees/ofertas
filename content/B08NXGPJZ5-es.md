@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NXGPJZ5-es GiftPot Kit de fabricación de Velas Juego de Regalo de...'
 sku: 'B08NXGPJZ5-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TVPYZKM-es Kipling Creativity S Cartera para Mujer Multicolor Urban...'
 sku: 'B07TVPYZKM-es'
-tags: [  ]
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

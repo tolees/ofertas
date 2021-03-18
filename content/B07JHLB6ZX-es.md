@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JHLB6ZX-es Columbia Redmond V2 Zapatillas de Senderismo Impermeables...'
 sku: 'B07JHLB6ZX-es'
-tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

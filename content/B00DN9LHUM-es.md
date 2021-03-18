@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DN9LHUM-es Solaray Vitamin C 1000mg | con Escaramujo y Acerola |...'
 sku: 'B00DN9LHUM-es'
-tags: [  ]
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

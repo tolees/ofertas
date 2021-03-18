@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YBQ6M8L-es JBL Flip Essential - altavoz portátil con Bluetooth...'
 sku: 'B07YBQ6M8L-es'
-tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

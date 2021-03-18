@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Y4XVSSM-es Lacoste PH4012 Polo Para Hombre Blanco Blanc XX-Large...'
 sku: 'B00Y4XVSSM-es'
-tags: [  ]
 actualPrice: 59.56 EUR
 currency: EUR
 price: 59.56

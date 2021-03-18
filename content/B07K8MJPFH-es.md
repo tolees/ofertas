@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8MJPFH-es iSwim Pulsera Actividad Pulsera Inteligente con Pulsómetro...'
 sku: 'B07K8MJPFH-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

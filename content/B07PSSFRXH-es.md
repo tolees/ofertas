@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSSFRXH-es Rieker Herbst/Winter Botas Chelsea para Mujer Verde...'
 sku: 'B07PSSFRXH-es'
-tags: [  ]
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

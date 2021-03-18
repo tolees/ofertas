@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NPBS1GV-es Pea Pod Babies CIFE 41800 - Muñecos bebé con accesorios...'
 sku: 'B07NPBS1GV-es'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

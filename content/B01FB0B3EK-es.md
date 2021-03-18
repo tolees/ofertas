@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FB0B3EK-es La Pajarita Cera Incolora / Solida Natural 100ML Especial...'
 sku: 'B01FB0B3EK-es'
-tags: [  ]
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

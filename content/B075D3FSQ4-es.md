@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075D3FSQ4-es Trust GXT 310D Radius - Auriculares Gaming Multi-...'
 sku: 'B075D3FSQ4-es'
-tags: [  ]
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

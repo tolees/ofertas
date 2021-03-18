@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PQ2TNL-es IEsafy Batería Externa 26800mAh Power Bank con 2 Salida y...'
 sku: 'B085PQ2TNL-es'
-tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

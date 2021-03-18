@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0819FR8FT-es RAMPOW Cable USB Tipo C - Cable USB C a USB 3.0 Carga...'
 sku: 'B0819FR8FT-es'
-tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

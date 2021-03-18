@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B9Y7B6F-es Energy Sistem Music Box BZ3 Altavoz portátil Bluetooth 6W...'
 sku: 'B07B9Y7B6F-es'
-tags: [  ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

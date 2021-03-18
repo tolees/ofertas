@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z1XVB9L-es AUOPLUS Multi-Colores LED Luz Nocturna Infantil Lámpara...'
 sku: 'B07Z1XVB9L-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

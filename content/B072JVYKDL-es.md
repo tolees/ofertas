@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JVYKDL-es Romanticist 20 Piezas Utensilios para Barbacoa para...'
 sku: 'B072JVYKDL-es'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B67HJRM-es Sanytol - Jabón de Manos de Cocina con Protección Total...'
 sku: 'B08B67HJRM-es'
-tags: [  ]
 actualPrice: 1.87 EUR
 currency: EUR
 price: 1.87

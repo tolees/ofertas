@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0779MSCS6-es Bliqniq 5 pares de Pendientes de los Aros de las Mujeres...'
 sku: 'B0779MSCS6-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

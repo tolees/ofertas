@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TT33I3A-es Bahco 2485 BH2485'
 sku: 'B00TT33I3A-es'
-tags: [  ]
 actualPrice: 5.82 EUR
 currency: EUR
 price: 5.82

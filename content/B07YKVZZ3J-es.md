@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YKVZZ3J-es SeeKool Bandas de Fitness/Bandas de Resistencia 5 Tubos de...'
 sku: 'B07YKVZZ3J-es'
-tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

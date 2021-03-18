@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014HBH1UO-es Seiko Reloj Analógico para Hombre de Energía Solar con...'
 sku: 'B014HBH1UO-es'
-tags: [  ]
 actualPrice: 145.49 EUR
 currency: EUR
 price: 145.49

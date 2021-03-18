@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1JD4S2-es Clarks Un Maui Lace Zapatillas para Mujer Marrón Aubergine...'
 sku: 'B07N1JD4S2-es'
-tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

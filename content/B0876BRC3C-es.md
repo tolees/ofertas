@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0876BRC3C-es El Aguila Cerveza Especial Sin Filtrar Pack 24 latas x 330...'
 sku: 'B0876BRC3C-es'
-tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

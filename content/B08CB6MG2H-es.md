@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CB6MG2H-es Kemier Anillo de Luz Luz para Selfie LED con Trípode de...'
 sku: 'B08CB6MG2H-es'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

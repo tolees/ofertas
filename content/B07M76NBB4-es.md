@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M76NBB4-es EISFEU LED 18W Lámpara de Techo Reemplaza 100W Bombillas...'
 sku: 'B07M76NBB4-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

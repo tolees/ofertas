@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXNVY97-es Panasonic Lumix DC-GH5 - Cámara EVIL de 20.3 MP Pantalla...'
 sku: 'B06XXNVY97-es'
-tags: [  ]
 actualPrice: 999.95 EUR
 currency: EUR
 price: 999.95

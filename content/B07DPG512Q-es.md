@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPG512Q-es Ride 3'
 sku: 'B07DPG512Q-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

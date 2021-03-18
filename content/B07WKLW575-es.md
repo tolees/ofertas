@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WKLW575-es Sony - Erase una vez…en Hollywood BD [Blu-ray]'
 sku: 'B07WKLW575-es'
-tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

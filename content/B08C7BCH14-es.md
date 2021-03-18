@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7BCH14-es adidas Superstar Vegan Sneaker Hombre Footwear White/Core...'
 sku: 'B08C7BCH14-es'
-tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

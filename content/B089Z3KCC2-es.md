@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089Z3KCC2-es Nightmare Boy - Mongano´s Edition'
 sku: 'B089Z3KCC2-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

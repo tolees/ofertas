@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0857VM1FS-es Dodot Aqua Pure - Toallitas Bebé con 99% Agua 18 Paquetes...'
 sku: 'B0857VM1FS-es'
-tags: [ 'dodot', ]
 actualPrice: 28.21 EUR
 currency: EUR
 price: 28.21

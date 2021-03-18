@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DWXFG8-es Versace 19V69 Funda Nórdico Y Almohada para Cama Algodón-...'
 sku: 'B074DWXFG8-es'
-tags: [  ]
 actualPrice: 49.13 EUR
 currency: EUR
 price: 49.13

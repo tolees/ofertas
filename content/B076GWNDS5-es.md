@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076GWNDS5-es Oxímetro de Pulso Dedo Pulsioxímetro JUMPER para...'
 sku: 'B076GWNDS5-es'
-tags: [  ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

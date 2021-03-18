@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZFZG57X-es NIVEA MEN Neceser Gimnasio Gympack neceser de regalo con...'
 sku: 'B07ZFZG57X-es'
-tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

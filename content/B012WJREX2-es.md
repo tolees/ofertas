@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012WJREX2-es Arregui TB-021-G Taburete Plegable de 21 cm de altura gris...'
 sku: 'B012WJREX2-es'
-tags: [  ]
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

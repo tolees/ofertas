@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YSM8C2B-es Woxter Fit'
 sku: 'B07YSM8C2B-es'
-tags: [  ]
 actualPrice: 68.98 EUR
 currency: EUR
 price: 68.98

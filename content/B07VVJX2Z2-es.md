@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVJX2Z2-es La Cabine Ampollas Lip Up Lift 10x2ml'
 sku: 'B07VVJX2Z2-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

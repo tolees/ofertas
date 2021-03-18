@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9HZ5FZ-es Under Armour Play Up P Pantalones Cortos con Bolsillos...'
 sku: 'B07L9HZ5FZ-es'
-tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

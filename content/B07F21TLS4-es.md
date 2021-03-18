@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F21TLS4-es New Balance 410v6 Trail Zapatillas para Carreras de...'
 sku: 'B07F21TLS4-es'
-tags: [  ]
 actualPrice: 30.92 EUR
 currency: EUR
 price: 30.92

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PWJ9JW-es Termómetro sin contacto por infrarrojos JPD-FR202'
 sku: 'B087PWJ9JW-es'
-tags: [  ]
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

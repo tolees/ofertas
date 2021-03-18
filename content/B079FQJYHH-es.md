@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FQJYHH-es Trust Gaming GXT 707G Resto - Silla para Gaming Gris/Negro'
 sku: 'B079FQJYHH-es'
-tags: [  ]
 actualPrice: 106.99 EUR
 currency: EUR
 price: 106.99

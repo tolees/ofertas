@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FZE1AZU-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con...'
 sku: 'B00FZE1AZU-es'
-tags: [  ]
 actualPrice: 184.13 EUR
 currency: EUR
 price: 184.13

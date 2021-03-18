@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BLNYLFD-es Magicfun Dinosaurio Coche 2 Coches de Juguetes de...'
 sku: 'B08BLNYLFD-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NCPLGKB-es POHOVE Cambiador de voz sonido mecanizado cambiador de...'
 sku: 'B08NCPLGKB-es'
-tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

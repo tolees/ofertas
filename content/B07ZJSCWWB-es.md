@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJSCWWB-es MotoGP19 - Deluxe Edition'
 sku: 'B07ZJSCWWB-es'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

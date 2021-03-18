@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y8M4L7R-es 2.0 Altavoces HiFi estantería Altavoces pc...'
 sku: 'B07Y8M4L7R-es'
-tags: [  ]
 actualPrice: 66.52 EUR
 currency: EUR
 price: 66.52

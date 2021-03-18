@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079JCJCM3-es Wacom Intuos S Tableta Gráfica Bluetooth para pintar...'
 sku: 'B079JCJCM3-es'
-tags: [  ]
 actualPrice: 66.39 EUR
 currency: EUR
 price: 66.39

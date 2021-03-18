@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GNBVPI-es Max Factor Crème Puff Polvos Compactos Tono 005...'
 sku: 'B001GNBVPI-es'
-tags: [  ]
 actualPrice: 7.54 EUR
 currency: EUR
 price: 7.54

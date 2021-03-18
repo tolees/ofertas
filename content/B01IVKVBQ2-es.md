@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IVKVBQ2-es Albal Papel vegetal para horno antiadherente impermeable 4 m'
 sku: 'B01IVKVBQ2-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XLJK35G-es HUANUO Soporte para Computadora Portátil con Cojín...'
 sku: 'B07XLJK35G-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

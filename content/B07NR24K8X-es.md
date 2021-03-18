@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NR24K8X-es Versa 15810415 Carro verdulero de Cocina y botellero Rojo...'
 sku: 'B07NR24K8X-es'
-tags: [  ]
 actualPrice: 53.04 EUR
 currency: EUR
 price: 53.04

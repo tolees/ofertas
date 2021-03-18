@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082QFV2GF-es adidas Duramo SL Sneaker Hombre Core Black/Footwear...'
 sku: 'B082QFV2GF-es'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

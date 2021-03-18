@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RM1EC1S-es SanDisk Cruzer Blade - Memoria USB de 2.0 de 128 GB'
 sku: 'B00RM1EC1S-es'
-tags: [ 'sandisk', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

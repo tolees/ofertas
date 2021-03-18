@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KF4QV1T-es Levi s 502 Taper Jeans Baltic Adapt 28W / 32L para Hombre'
 sku: 'B07KF4QV1T-es'
-tags: [  ]
 actualPrice: 56.83 EUR
 currency: EUR
 price: 56.83

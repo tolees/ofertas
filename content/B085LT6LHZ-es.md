@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LT6LHZ-es Munich Dash Premium 70 Zapatillas Unisex Adulto Multicolor...'
 sku: 'B085LT6LHZ-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

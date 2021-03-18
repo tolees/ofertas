@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSQ8TLH-es Skechers Bounder Verkona Zapatillas para Hombre Gris White...'
 sku: 'B07TSQ8TLH-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

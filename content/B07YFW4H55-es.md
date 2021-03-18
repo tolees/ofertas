@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFW4H55-es Lázaro Magdalenas Tradicional 400 g'
 sku: 'B07YFW4H55-es'
-tags: [  ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

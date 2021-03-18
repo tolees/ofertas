@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0054UHMGQ-es Durex Lubricante Play Massage 2 en 1 Gel de Masaje...'
 sku: 'B0054UHMGQ-es'
-tags: [  ]
 actualPrice: 9.24 EUR
 currency: EUR
 price: 9.24

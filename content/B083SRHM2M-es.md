@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083SRHM2M-es Bastilipo TLM-2000 Termoventilador-Calefactor de Aire...'
 sku: 'B083SRHM2M-es'
-tags: [  ]
 actualPrice: 16.07 EUR
 currency: EUR
 price: 16.07

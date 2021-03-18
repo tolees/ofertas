@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072LPHVXV-es HyperX HX-MPFS-M Fury S Pro - Alfombrilla de ratón para...'
 sku: 'B072LPHVXV-es'
-tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

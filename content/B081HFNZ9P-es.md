@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081HFNZ9P-es Pharmaton | Multivitaminas | Energía diaria | Hombre 30...'
 sku: 'B081HFNZ9P-es'
-tags: [  ]
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

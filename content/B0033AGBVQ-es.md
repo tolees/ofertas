@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0033AGBVQ-es OMRON Healthcare - OMRON BF 511 - Báscula de análisis...'
 sku: 'B0033AGBVQ-es'
-tags: [  ]
 actualPrice: 92.04 EUR
 currency: EUR
 price: 92.04

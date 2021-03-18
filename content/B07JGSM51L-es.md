@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGSM51L-es Pepe Jeans Fidall Pm541220 Polo Optic White 802 Large para...'
 sku: 'B07JGSM51L-es'
-tags: [  ]
 actualPrice: 17.51 EUR
 currency: EUR
 price: 17.51

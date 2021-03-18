@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPXS1QJ-es Lacoste Chaymon 120 4 CMA Zapatillas para Hombre Azul...'
 sku: 'B07SPXS1QJ-es'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

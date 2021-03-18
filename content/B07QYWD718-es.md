@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QYWD718-es Sony WI-C200 - Auriculares in ear inalámbricos más ligeros...'
 sku: 'B07QYWD718-es'
-tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

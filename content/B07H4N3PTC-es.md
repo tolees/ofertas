@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H4N3PTC-es CONFU Quitapelusas Eléctrico Recargable USB adecuado para...'
 sku: 'B07H4N3PTC-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

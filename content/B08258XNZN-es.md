@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08258XNZN-es Baker Ross Kits de Costura de Madera Flores paquete de 4 -...'
 sku: 'B08258XNZN-es'
-tags: [  ]
 actualPrice: 4.66 EUR
 currency: EUR
 price: 4.66

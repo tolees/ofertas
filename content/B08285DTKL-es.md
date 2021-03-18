@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08285DTKL-es Quiksilver Everyday 15" Swim SRT Pantalones Cortos De...'
 sku: 'B08285DTKL-es'
-tags: [  ]
 actualPrice: 18.94 EUR
 currency: EUR
 price: 18.94

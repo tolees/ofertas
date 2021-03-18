@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQL5SW-es Vans Ward Zapatillas para Niñas Rosa Canvas Chalk Pink Vuz...'
 sku: 'B07MZQL5SW-es'
-tags: [  ]
 actualPrice: 29.25 EUR
 currency: EUR
 price: 29.25

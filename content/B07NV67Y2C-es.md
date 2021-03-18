@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NV67Y2C-es ZHENROG Electroestimulador Muscular Gluteos EMS Gluteos...'
 sku: 'B07NV67Y2C-es'
-tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

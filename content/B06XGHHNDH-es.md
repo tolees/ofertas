@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XGHHNDH-es find. Mocasines Borlas Texturizado en Piel para Hombre...'
 sku: 'B06XGHHNDH-es'
-tags: [  ]
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

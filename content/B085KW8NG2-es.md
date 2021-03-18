@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085KW8NG2-es TOPERSUN Dispensador de Jabón Automático Dispensador...'
 sku: 'B085KW8NG2-es'
-tags: [  ]
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

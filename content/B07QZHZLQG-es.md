@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZHZLQG-es IURNXB Mono para bebé recién Nacido de Manga Corta con...'
 sku: 'B07QZHZLQG-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Cafeteras individuales','Desinfectantes comerciales','Fragancias para hombres','Hogar y cocina','Industria, empresas y ciencia','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Monos para bebés niño','Muñecas bebé','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','Máquinas cafeteras','Ollas de cocción lenta','Pequeño electrodoméstico','Perfumes y fragancias','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','Productos químicos  limpieza comerciales','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','Suministros de limpieza y saneamiento','Utensilios para café y té','iurnxb', ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

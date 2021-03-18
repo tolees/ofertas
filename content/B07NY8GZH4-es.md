@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NY8GZH4-es Art Marina Botas Slouch Unisex Adulto Rojo Burdeos Burdeos...'
 sku: 'B07NY8GZH4-es'
-tags: [  ]
 actualPrice: 38.8 EUR
 currency: EUR
 price: 38.8

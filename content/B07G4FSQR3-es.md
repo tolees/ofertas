@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4FSQR3-es Hugo BOSS Reloj Esqueleto para Hombre de Automático con...'
 sku: 'B07G4FSQR3-es'
-tags: [ 'hugo boss', ]
 actualPrice: 398.68 EUR
 currency: EUR
 price: 398.68

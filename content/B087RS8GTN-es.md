@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087RS8GTN-es Huawei P40 Lite Funda MHHQ 2in1 Armadura Combinación A...'
 sku: 'B087RS8GTN-es'
-tags: [  ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

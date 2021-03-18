@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FOI1JF8-es Levi s Levis Footwear and Accessories Classic Twill Red...'
 sku: 'B00FOI1JF8-es'
-tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

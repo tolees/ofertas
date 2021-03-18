@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08424ZFWC-es Mini Adaptador USB CSR Dual Mode Wireless V4.0 EDR Dongle...'
 sku: 'B08424ZFWC-es'
-tags: [  ]
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D5SJ6JM-es PUMA Essentials Logo W Legging Deportivo de Talle Alto...'
 sku: 'B07D5SJ6JM-es'
-tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

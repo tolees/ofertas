@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJM4V4N-es Jack & Jones Jjigordon Jjshark Sweat Pants Viy Noos...'
 sku: 'B07ZJM4V4N-es'
-tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

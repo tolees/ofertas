@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBGX173-es American Tourister AT Work - Mochila Coated tipo casual...'
 sku: 'B07CBGX173-es'
-tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYV7U25-es Razer Goliathus Cosmic Speed - Alfombrilla Gaming para...'
 sku: 'B01LYV7U25-es'
-tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

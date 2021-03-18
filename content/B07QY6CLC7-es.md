@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QY6CLC7-es Levi s 711 Skinny Jeans Believe It Or Not 28W / 30L Donna'
 sku: 'B07QY6CLC7-es'
-tags: [  ]
 actualPrice: 68.97 EUR
 currency: EUR
 price: 68.97

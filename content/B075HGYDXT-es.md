@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075HGYDXT-es Estudio de Fotografía Mini portátil Gleading 40x40x40cm...'
 sku: 'B075HGYDXT-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

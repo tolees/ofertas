@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072BNC34B-es Suavinex - Esterilizador Eléctrico A Vapor 3En1 de Hasta 6...'
 sku: 'B072BNC34B-es'
-tags: [  ]
 actualPrice: 39.81 EUR
 currency: EUR
 price: 39.81

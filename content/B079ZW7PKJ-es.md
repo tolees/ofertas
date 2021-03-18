@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079ZW7PKJ-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B079ZW7PKJ-es'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00E3P0NE6-es Medisana AC 850 Masajeador para celulitis para una piel...'
 sku: 'B00E3P0NE6-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

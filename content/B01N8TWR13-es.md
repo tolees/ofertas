@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N8TWR13-es Cecotec Placa de Inducción Portátil Full Crystal. 2000 W...'
 sku: 'B01N8TWR13-es'
-tags: [  ]
 actualPrice: 24.3 EUR
 currency: EUR
 price: 24.3

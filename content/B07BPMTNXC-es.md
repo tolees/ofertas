@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BPMTNXC-es Camper Helena Bajo Mary Jane Mujer Negro Black 1 39 EU'
 sku: 'B07BPMTNXC-es'
-tags: [  ]
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGPP1X2-es Funko Harry Potter: Hogwarts Express Mystery Box'
 sku: 'B07HGPP1X2-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

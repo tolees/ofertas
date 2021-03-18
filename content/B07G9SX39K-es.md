@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9SX39K-es Joy Toy 62124 Mickey Mouse 3d taza de cerámica 13 5 x 12 x...'
 sku: 'B07G9SX39K-es'
-tags: [  ]
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7S8W5C-es Yenks Case compatible con Samsung Galaxy A9 2018 funda de...'
 sku: 'B07Y7S8W5C-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

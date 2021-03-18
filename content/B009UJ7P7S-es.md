@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009UJ7P7S-es GREAT ART Courage Poster Original - Barney Stinson Wall...'
 sku: 'B009UJ7P7S-es'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

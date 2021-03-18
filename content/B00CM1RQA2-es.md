@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CM1RQA2-es Jacques Lemans Smart Watch Armbanduhr 1-1770F'
 sku: 'B00CM1RQA2-es'
-tags: [  ]
 actualPrice: 79.34 EUR
 currency: EUR
 price: 79.34

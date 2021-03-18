@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NLM5AMC-es Dimple Whisky Escocés 700ml'
 sku: 'B00NLM5AMC-es'
-tags: [  ]
 actualPrice: 18.45 EUR
 currency: EUR
 price: 18.45

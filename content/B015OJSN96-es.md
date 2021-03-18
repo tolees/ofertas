@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015OJSN96-es PUMA ICRA Trainer SD Zapatillas Unisex Adulto Negro...'
 sku: 'B015OJSN96-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

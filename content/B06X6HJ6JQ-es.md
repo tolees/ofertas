@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X6HJ6JQ-es Puma Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B06X6HJ6JQ-es'
-tags: [  ]
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

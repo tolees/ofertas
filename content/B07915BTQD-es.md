@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07915BTQD-es Brabantia Bo Pedal - Cubo de basura Acero Inoxidable 2...'
 sku: 'B07915BTQD-es'
-tags: [  ]
 actualPrice: 103.59 EUR
 currency: EUR
 price: 103.59

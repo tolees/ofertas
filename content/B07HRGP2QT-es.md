@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRGP2QT-es Azdome Altavoz Bluetooth 20W Waterproof IPX7 [15 Horas...'
 sku: 'B07HRGP2QT-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

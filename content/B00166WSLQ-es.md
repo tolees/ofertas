@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00166WSLQ-es HP CB386A Original Trommel 824A Gelb Bildtrommel CP6015...'
 sku: 'B00166WSLQ-es'
-tags: [  ]
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

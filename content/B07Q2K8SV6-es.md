@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2K8SV6-es Luz Solar Exterior 138 LED Feob Luces Solares Exterior con...'
 sku: 'B07Q2K8SV6-es'
-tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

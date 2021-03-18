@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M740ITK-es Bergner Infinity Chef Sartén de Inducción Aluminio Forjado...'
 sku: 'B01M740ITK-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LV8YZLK-es Ubiquiti Spain - Ubiquiti UniFi Security Gateway -...'
 sku: 'B00LV8YZLK-es'
-tags: [  ]
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

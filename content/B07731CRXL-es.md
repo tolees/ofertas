@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07731CRXL-es Columbia Silver Ridge II Pantalones de Senderismo...'
 sku: 'B07731CRXL-es'
-tags: [  ]
 actualPrice: 17.47 EUR
 currency: EUR
 price: 17.47

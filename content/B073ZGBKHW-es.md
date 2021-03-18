@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073ZGBKHW-es Remington S8598 Keratin Protect - Plancha de Pelo Cerámica...'
 sku: 'B073ZGBKHW-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

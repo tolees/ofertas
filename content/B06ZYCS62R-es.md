@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06ZYCS62R-es Nikon - Nikkon D7500 - Cámara réflex Digital de 20.9 MP...'
 sku: 'B06ZYCS62R-es'
-tags: [  ]
 actualPrice: 1146.65 EUR
 currency: EUR
 price: 1146.65

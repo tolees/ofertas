@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NBF8ZXT-es Creative Stage 2.1 - Barra de sonido con subwoofer para TV...'
 sku: 'B07NBF8ZXT-es'
-tags: [  ]
 actualPrice: 63.73 EUR
 currency: EUR
 price: 63.73

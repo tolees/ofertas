@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F8HJGFJ-es Superdry Sweat Shirt Shop Duo Hood suéter Gris Ice Marl...'
 sku: 'B07F8HJGFJ-es'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

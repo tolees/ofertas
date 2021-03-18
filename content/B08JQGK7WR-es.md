@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JQGK7WR-es HP Pavilion Gaming 16-a0033ns - Ordenador portátil de...'
 sku: 'B08JQGK7WR-es'
-tags: [ 'hp', ]
 actualPrice: 1049.99 EUR
 currency: EUR
 price: 1049.99

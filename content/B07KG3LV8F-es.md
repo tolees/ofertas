@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG3LV8F-es Conjunto de luces Lightailing para Bugatti Chiron Modelo...'
 sku: 'B07KG3LV8F-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

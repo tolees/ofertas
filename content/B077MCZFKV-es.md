@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MCZFKV-es Bourjois Helathy Mix Foundation Base de maquillaje Tono...'
 sku: 'B077MCZFKV-es'
-tags: [  ]
 actualPrice: 4.38 EUR
 currency: EUR
 price: 4.38

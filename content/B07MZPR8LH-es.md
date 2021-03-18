@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZPR8LH-es Funko - Pop! Vinyl: Dragonball Z S6 - Radditz Figura...'
 sku: 'B07MZPR8LH-es'
-tags: [  ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

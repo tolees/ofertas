@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZQ86QW-es Pepe Jeans Helaia suéter Écru 814 X-Small para Mujer'
 sku: 'B07MZQ86QW-es'
-tags: [  ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

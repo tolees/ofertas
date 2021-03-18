@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZ6FHT-es Caja del teléfono móvil TPU Blanco Mate en Relieve...'
 sku: 'B083HZ6FHT-es'
-tags: [  ]
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

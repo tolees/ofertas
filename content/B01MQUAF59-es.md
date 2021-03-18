@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MQUAF59-es Motul - Kit de limpiador lubricante para cadena C4 400 ml...'
 sku: 'B01MQUAF59-es'
-tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WW46FLW-es Cable USB Tipo C ZKAPOR [4Pack 0.3M 1M 2M 3M] Cargador...'
 sku: 'B07WW46FLW-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

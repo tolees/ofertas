@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000OLVP7M-es Converse Chuck Taylor Hi - Zapatillas para mujer color...'
 sku: 'B000OLVP7M-es'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

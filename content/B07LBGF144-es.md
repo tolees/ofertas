@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBGF144-es Kappa Overton Zapatillas Unisex Adulto White/Red 1020 36 EU'
 sku: 'B07LBGF144-es'
-tags: [  ]
 actualPrice: 18.26 EUR
 currency: EUR
 price: 18.26

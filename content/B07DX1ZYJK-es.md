@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DX1ZYJK-es NATNATURA - Omega 3+Vitamina E. Alta dosis de ácidos...'
 sku: 'B07DX1ZYJK-es'
-tags: [  ]
 actualPrice: 14.12 EUR
 currency: EUR
 price: 14.12

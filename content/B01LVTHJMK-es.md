@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LVTHJMK-es Philonext Pan - Bandeja roja de Silicona con 12 Huecos...'
 sku: 'B01LVTHJMK-es'
-tags: [  ]
 actualPrice: 6.35 EUR
 currency: EUR
 price: 6.35

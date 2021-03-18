@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0886VM6QB-es Levi s 502 Taper Jeans Smoke Stacked ADV 30W / 34L para...'
 sku: 'B0886VM6QB-es'
-tags: [  ]
 actualPrice: 25.06 EUR
 currency: EUR
 price: 25.06

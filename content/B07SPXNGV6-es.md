@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SPXNGV6-es Lacoste 739CMA00111B4 Zapatillas para Hombre Negro 43 EU'
 sku: 'B07SPXNGV6-es'
-tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

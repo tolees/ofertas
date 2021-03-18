@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TTCL4ZR-es TACKLIFE 18V Atornillador de Impacto Par Máximo 180Nm 2.0...'
 sku: 'B08TTCL4ZR-es'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

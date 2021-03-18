@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VV6CZVM-es Nudito Soporte Base Portátil Ajustable para Ordenadores...'
 sku: 'B07VV6CZVM-es'
-tags: [  ]
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

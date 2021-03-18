@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RR42WBL-es s.Oliver 03.899.61.5232 suéter Negro Black 9999 Small para...'
 sku: 'B07RR42WBL-es'
-tags: [  ]
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

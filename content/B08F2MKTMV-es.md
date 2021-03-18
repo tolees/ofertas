@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F2MKTMV-es Grupo Erik - ERIK - Calendario de pared 2021 Los...'
 sku: 'B08F2MKTMV-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

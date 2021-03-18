@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTPDHY4-es Hugo BOSS Reloj de pulsera 1513683'
 sku: 'B07KTPDHY4-es'
-tags: [ 'hugo boss', ]
 actualPrice: 153.0 EUR
 currency: EUR
 price: 153.0

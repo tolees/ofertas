@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0854XVNLK-es iRobot - Robot aspirador Roomba 692 Wifi para alfombras y...'
 sku: 'B0854XVNLK-es'
-tags: [ 'irobot', ]
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

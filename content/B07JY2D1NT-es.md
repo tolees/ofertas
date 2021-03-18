@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JY2D1NT-es Under Armour Boy s Official Tour Cap 3.0 Gorra Niños...'
 sku: 'B07JY2D1NT-es'
-tags: [  ]
 actualPrice: 6.86 EUR
 currency: EUR
 price: 6.86

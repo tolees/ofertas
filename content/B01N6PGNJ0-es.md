@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6PGNJ0-es dockers Alpha Original Skinny-Lite Pantalones Marrón New...'
 sku: 'B01N6PGNJ0-es'
-tags: [  ]
 actualPrice: 50.49 EUR
 currency: EUR
 price: 50.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZBVC1YD-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07ZBVC1YD-es'
-tags: [  ]
 actualPrice: 163.6 EUR
 currency: EUR
 price: 163.6

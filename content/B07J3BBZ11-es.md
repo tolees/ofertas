@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J3BBZ11-es Fariña [Blu-ray]'
 sku: 'B07J3BBZ11-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

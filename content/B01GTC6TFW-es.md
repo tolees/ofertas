@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GTC6TFW-es HP Z3700 RF Raton óptico inalámbrico 1200DPI Rojo...'
 sku: 'B01GTC6TFW-es'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K7GS5FL-es adidas TIRO19 TR TOPY Sweatshirt Unisex niños Black/White 176'
 sku: 'B07K7GS5FL-es'
-tags: [  ]
 actualPrice: 27.54 EUR
 currency: EUR
 price: 27.54

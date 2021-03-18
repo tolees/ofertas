@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0157RHV8O-es POWERADD [Versión Mejorada] Pilot X7 20000mAh Power Bank...'
 sku: 'B0157RHV8O-es'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

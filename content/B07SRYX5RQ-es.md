@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRYX5RQ-es Hurley W Escaper Fleece Zip Sudaderas Mujer Obsidian htr XS'
 sku: 'B07SRYX5RQ-es'
-tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

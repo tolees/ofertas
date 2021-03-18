@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LTV2BBK-es Crucial CT102464BF186D Memoria RAM de 8 GB DDR3 1866 MT/s...'
 sku: 'B00LTV2BBK-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

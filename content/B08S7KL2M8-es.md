@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08S7KL2M8-es Dioche - Hombres Mujeres Pulsera magnética de oro y plata...'
 sku: 'B08S7KL2M8-es'
-tags: [  ]
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

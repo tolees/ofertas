@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0896YCC4Y-es TRUUA 10pcs Silicona para bebés Mam Anillo simulado...'
 sku: 'B0896YCC4Y-es'
-tags: [  ]
 actualPrice: 4.43 EUR
 currency: EUR
 price: 4.43

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VNN86Q1-es Tommy Hilfiger Essential Cycling Shorts Short Azul...'
 sku: 'B07VNN86Q1-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

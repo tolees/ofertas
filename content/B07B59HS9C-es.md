@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B59HS9C-es Camin Sidra Natural de 6º - Paquete de 6 botellas de 70 -...'
 sku: 'B07B59HS9C-es'
-tags: [  ]
 actualPrice: 12.72 EUR
 currency: EUR
 price: 12.72

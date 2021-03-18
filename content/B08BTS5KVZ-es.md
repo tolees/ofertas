@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BTS5KVZ-es ASUS ROG Zephyrus M15 GU502LW-HN071T - Portátil Gaming de...'
 sku: 'B08BTS5KVZ-es'
-tags: [  ]
 actualPrice: 1399.0 EUR
 currency: EUR
 price: 1399.0

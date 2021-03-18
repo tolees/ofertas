@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GNVLPB1-es Meridiem Games - Instant Chef Party'
 sku: 'B08GNVLPB1-es'
-tags: [  ]
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

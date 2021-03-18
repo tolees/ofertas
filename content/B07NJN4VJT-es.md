@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NJN4VJT-es PDP - Auricular con cable'
 sku: 'B07NJN4VJT-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

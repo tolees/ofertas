@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087SKN9K7-es Columbia Buga Set Conjunto De Esquí Unisex niños Brt...'
 sku: 'B087SKN9K7-es'
-tags: [  ]
 actualPrice: 9.23 EUR
 currency: EUR
 price: 9.23

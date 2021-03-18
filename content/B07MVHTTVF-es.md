@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVHTTVF-es Kipling - Money Keeper Carteras Mujer Gris Chalk Grey...'
 sku: 'B07MVHTTVF-es'
-tags: [  ]
 actualPrice: 9.42 EUR
 currency: EUR
 price: 9.42

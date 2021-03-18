@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R1SRZ3H-es iNeego Rosa 24K Rosa Eterna Rosa de Oro 24K Chapadas en...'
 sku: 'B08R1SRZ3H-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

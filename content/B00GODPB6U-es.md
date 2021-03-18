@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GODPB6U-es Baby Jogger Deluxe - Capazo color negro'
 sku: 'B00GODPB6U-es'
-tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

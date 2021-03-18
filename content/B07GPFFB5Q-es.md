@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GPFFB5Q-es Piz Buin - Protector Solar Tan & Protect Intensificador...'
 sku: 'B07GPFFB5Q-es'
-tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MSJ77I3-es VicTsing Linterna Frontal Recargable LED Alta Potencia...'
 sku: 'B01MSJ77I3-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

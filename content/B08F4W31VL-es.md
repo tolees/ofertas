@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F4W31VL-es Furnimics - Escritorio Portátil para Laptop Furminics con...'
 sku: 'B08F4W31VL-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GHOKVC0-es Concordia'
 sku: 'B00GHOKVC0-es'
-tags: [  ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

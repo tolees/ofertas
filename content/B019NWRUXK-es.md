@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019NWRUXK-es Corsair CX550M - Fuente de Alimentación semi modular 80...'
 sku: 'B019NWRUXK-es'
-tags: [  ]
 actualPrice: 54.96 EUR
 currency: EUR
 price: 54.96

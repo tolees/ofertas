@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R7PSD5U-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B00R7PSD5U-es'
-tags: [  ]
 actualPrice: 66.36 EUR
 currency: EUR
 price: 66.36

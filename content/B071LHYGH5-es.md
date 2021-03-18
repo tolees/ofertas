@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071LHYGH5-es Wrangler Larston Denim Pants Pantalones Far Green 29W /...'
 sku: 'B071LHYGH5-es'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

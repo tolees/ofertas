@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FCMKK5X-es SanDisk Extreme - Tarjeta de memoria microSDXC de 128 GB...'
 sku: 'B07FCMKK5X-es'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

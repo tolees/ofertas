@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z99DMHS-es SOOPSON Alfombrilla de ratón para Juegos de Gel para...'
 sku: 'B07Z99DMHS-es'
-tags: [  ]
 actualPrice: 1.27 EUR
 currency: EUR
 price: 1.27

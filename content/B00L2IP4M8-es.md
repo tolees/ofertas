@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L2IP4M8-es Semillas Batlle - Semillas de Césped - Césped Universal...'
 sku: 'B00L2IP4M8-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

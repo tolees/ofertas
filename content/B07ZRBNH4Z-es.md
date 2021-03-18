@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRBNH4Z-es AROYI Funda iPhone 11+2 x Protector de Pantalla iPhone 11...'
 sku: 'B07ZRBNH4Z-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

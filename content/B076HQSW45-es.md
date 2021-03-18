@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQSW45-es adidas CORE18 JSY T-Shirt Hombre White/Black L'
 sku: 'B076HQSW45-es'
-tags: [  ]
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

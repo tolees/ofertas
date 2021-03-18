@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K52TLXQ-es TACKLIFE Cajas de Herramientas de Aluminio 136Pcs...'
 sku: 'B07K52TLXQ-es'
-tags: [ 'tacklife', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

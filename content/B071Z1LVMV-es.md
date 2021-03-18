@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071Z1LVMV-es Razer Hammerhead iOS Lightning In-Ear Headphones'
 sku: 'B071Z1LVMV-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07373KKQB-es NANOCABLE 10.01.2100 - Cable 3A USB 2.0 a USB-C Uso...'
 sku: 'B07373KKQB-es'
-tags: [  ]
 actualPrice: 2.96 EUR
 currency: EUR
 price: 2.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V7FLWKJ-es Cecotec Batidora de Vaso Americano Power Black Titanium...'
 sku: 'B07V7FLWKJ-es'
-tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

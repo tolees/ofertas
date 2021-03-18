@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RRZSVLZ-es SOONAN Herramientas de reparación de Correas Profesional...'
 sku: 'B07RRZSVLZ-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

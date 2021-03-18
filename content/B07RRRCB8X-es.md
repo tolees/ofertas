@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RRRCB8X-es Mercurio- Juego Infantil PIKO Junior Lanza EL Dado Y Haz...'
 sku: 'B07RRRCB8X-es'
-tags: [  ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

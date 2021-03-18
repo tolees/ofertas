@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HFGG6W2-es Columbia Vapor Vent Zapatillas de Senderismo para Mujer...'
 sku: 'B01HFGG6W2-es'
-tags: [  ]
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

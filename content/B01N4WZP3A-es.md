@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N4WZP3A-es Logitech M100 Ratón con Cable USB 3 Botones Seguimiento...'
 sku: 'B01N4WZP3A-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

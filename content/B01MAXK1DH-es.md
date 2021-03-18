@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MAXK1DH-es ICOO Silla de Paseo Compacta Acrobat hasta 18 kg con...'
 sku: 'B01MAXK1DH-es'
-tags: [  ]
 actualPrice: 163.68 EUR
 currency: EUR
 price: 163.68

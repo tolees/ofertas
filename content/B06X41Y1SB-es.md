@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X41Y1SB-es Philips Daily HR3740/00 - Batidora Amasadora 450 W 5...'
 sku: 'B06X41Y1SB-es'
-tags: [  ]
 actualPrice: 21.25 EUR
 currency: EUR
 price: 21.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DHW6PNW-es Pincello - Hucha Unicornio de Cerámica para Pintar con...'
 sku: 'B07DHW6PNW-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

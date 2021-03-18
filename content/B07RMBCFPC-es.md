@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RMBCFPC-es Funko - Pop! TV: Game of Thrones - Crystal Night King...'
 sku: 'B07RMBCFPC-es'
-tags: [  ]
 actualPrice: 8.62 EUR
 currency: EUR
 price: 8.62

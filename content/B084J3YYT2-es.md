@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084J3YYT2-es Petit Bateau 5645401 Conjunto de Ropa Beluga China 12...'
 sku: 'B084J3YYT2-es'
-tags: [  ]
 actualPrice: 53.67 EUR
 currency: EUR
 price: 53.67

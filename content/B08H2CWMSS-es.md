@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H2CWMSS-es Mr. Wonderful - Calendario de sobremesa - 2021 ya está...'
 sku: 'B08H2CWMSS-es'
-tags: [  ]
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

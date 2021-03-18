@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAZV2Q7-es Nixon Reloj Analogico para Unisex de Cuarzo con Correa en...'
 sku: 'B01NAZV2Q7-es'
-tags: [  ]
 actualPrice: 102.0 EUR
 currency: EUR
 price: 102.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHS88Y9-es Depiladora Eléctrica Afeitadora Electrica Eléctrica...'
 sku: 'B07RHS88Y9-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

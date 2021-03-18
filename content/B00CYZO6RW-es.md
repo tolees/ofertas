@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CYZO6RW-es Timex Expedition Shock XL - Reloj análogico para Hombre de...'
 sku: 'B00CYZO6RW-es'
-tags: [  ]
 actualPrice: 51.63 EUR
 currency: EUR
 price: 51.63

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NS8MC23-es Skechers Meridian-Ostwall Zapatillas para Hombre Verde...'
 sku: 'B07NS8MC23-es'
-tags: [  ]
 actualPrice: 31.81 EUR
 currency: EUR
 price: 31.81

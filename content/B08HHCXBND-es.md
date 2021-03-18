@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HHCXBND-es Xiaomi Mi 10T Pantalla 6.67" Fhd+ Dotdisplay 6Gb+128Gb...'
 sku: 'B08HHCXBND-es'
-tags: [  ]
 actualPrice: 371.63 EUR
 currency: EUR
 price: 371.63

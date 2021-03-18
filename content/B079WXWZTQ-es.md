@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079WXWZTQ-es Mr. Tronic 50m Cable de Instalación Red Ethernet Bobina |...'
 sku: 'B079WXWZTQ-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

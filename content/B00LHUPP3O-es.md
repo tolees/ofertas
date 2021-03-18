@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LHUPP3O-es Belkin BSV804 SurgeStrip - Tira de protección contra...'
 sku: 'B00LHUPP3O-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

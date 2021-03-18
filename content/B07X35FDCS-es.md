@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X35FDCS-es Fitflop HEDA Chain Slip-ON Sneakers Zapatillas sin...'
 sku: 'B07X35FDCS-es'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

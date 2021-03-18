@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ELTI3K4-es Ariete 2877/03 Hervidor vintage 2000 W 1.7 litros Acero...'
 sku: 'B01ELTI3K4-es'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

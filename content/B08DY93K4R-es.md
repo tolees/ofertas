@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DY93K4R-es FULL TIME SPORTS® 3 4 6 Paquete Assorted Langarm- Kurzarm...'
 sku: 'B08DY93K4R-es'
-tags: [  ]
 actualPrice: 23.15 EUR
 currency: EUR
 price: 23.15

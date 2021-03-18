@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RYN38N2-es Asics Classic CT Sneaker Hombre White/Black 40.5 EU'
 sku: 'B07RYN38N2-es'
-tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

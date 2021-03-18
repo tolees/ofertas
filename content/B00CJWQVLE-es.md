@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CJWQVLE-es Vans Atwood Canvas Zapatillas para Hombre Rojo...'
 sku: 'B00CJWQVLE-es'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

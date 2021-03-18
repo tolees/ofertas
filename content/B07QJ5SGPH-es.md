@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QJ5SGPH-es MTNG - Botas DE Tacã“N Mustang 58662'
 sku: 'B07QJ5SGPH-es'
-tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

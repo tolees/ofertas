@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQK6ZC5-es The Noble Collection Harry Potter PVC Wand y Prismatic...'
 sku: 'B07NQK6ZC5-es'
-tags: [ 'the noble collection', ]
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

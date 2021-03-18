@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPPJXWH-es Levi s 501 Original Shorts Pantalones Cortos Azul Pate...'
 sku: 'B07TPPJXWH-es'
-tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

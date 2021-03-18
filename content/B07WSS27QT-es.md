@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WSS27QT-es Energizer Pila AAA Paquete de 32 Unidades'
 sku: 'B07WSS27QT-es'
-tags: [  ]
 actualPrice: 12.17 EUR
 currency: EUR
 price: 12.17

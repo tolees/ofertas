@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IICFOIY-es Sujetador Nature Rosa albaricoque 80A'
 sku: 'B01IICFOIY-es'
-tags: [  ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

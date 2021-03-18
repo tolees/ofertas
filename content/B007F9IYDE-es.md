@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007F9IYDE-es Sera Reptil Professional Herbivor'
 sku: 'B007F9IYDE-es'
-tags: [  ]
 actualPrice: 3.87 EUR
 currency: EUR
 price: 3.87

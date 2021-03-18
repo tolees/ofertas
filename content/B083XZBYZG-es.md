@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083XZBYZG-es Emporio Armani Reloj para Hombre de Pantalla táctil ART5029'
 sku: 'B083XZBYZG-es'
-tags: [  ]
 actualPrice: 280.73 EUR
 currency: EUR
 price: 280.73

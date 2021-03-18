@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QTD66Q2-es Funko- Pop Star Wars The Rise of Skywalker-Finn Disney...'
 sku: 'B07QTD66Q2-es'
-tags: [  ]
 actualPrice: 9.75 EUR
 currency: EUR
 price: 9.75

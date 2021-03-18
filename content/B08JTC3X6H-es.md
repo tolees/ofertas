@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JTC3X6H-es ASUS ZenWifi AX Mini XD4 - Pack de 2 Sistemas de Red...'
 sku: 'B08JTC3X6H-es'
-tags: [  ]
 actualPrice: 205.99 EUR
 currency: EUR
 price: 205.99

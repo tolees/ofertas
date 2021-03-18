@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQF3G7F-es Almirón Galletitas sin gluten a partir de los 4 meses 180g'
 sku: 'B07YQF3G7F-es'
-tags: [  ]
 actualPrice: 1.34 EUR
 currency: EUR
 price: 1.34

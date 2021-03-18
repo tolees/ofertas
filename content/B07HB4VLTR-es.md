@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HB4VLTR-es Figura Pop Dragon Ball: Goku Casual'
 sku: 'B07HB4VLTR-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

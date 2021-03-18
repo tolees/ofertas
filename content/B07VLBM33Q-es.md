@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VLBM33Q-es adidas M20324 Zapatillas para Hombre Bianco 47 1/3 EU'
 sku: 'B07VLBM33Q-es'
-tags: [  ]
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

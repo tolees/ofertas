@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074TMV6XC-es Isabel Sardinilla en Tomate - Paquete de 24 x 81 gr -...'
 sku: 'B074TMV6XC-es'
-tags: [  ]
 actualPrice: 23.76 EUR
 currency: EUR
 price: 23.76

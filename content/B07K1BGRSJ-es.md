@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1BGRSJ-es 50 Pruebas De Ovulación 20 Miu/Ml Tiras De Prueba De...'
 sku: 'B07K1BGRSJ-es'
-tags: [  ]
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGKP6T8-es Napapijri K Noli Pantalones Cortos Blau BLU Marine 1761 4...'
 sku: 'B07VGKP6T8-es'
-tags: [  ]
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

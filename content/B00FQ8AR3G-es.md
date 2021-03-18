@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FQ8AR3G-es Osram 64193NBU-01B Bombillas'
 sku: 'B00FQ8AR3G-es'
-tags: [  ]
 actualPrice: 10.89 EUR
 currency: EUR
 price: 10.89

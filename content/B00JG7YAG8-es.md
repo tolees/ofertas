@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JG7YAG8-es Estee Lauder 56928 - Barra de labios'
 sku: 'B00JG7YAG8-es'
-tags: [  ]
 actualPrice: 12.32 EUR
 currency: EUR
 price: 12.32

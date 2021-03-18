@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X3Y1LF6-es CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B06X3Y1LF6-es'
-tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

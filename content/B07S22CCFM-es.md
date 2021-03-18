@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S22CCFM-es Love MoschinoJc4004pp1aMujerBolsos mochilaNegro Negro...'
 sku: 'B07S22CCFM-es'
-tags: [  ]
 actualPrice: 86.66 EUR
 currency: EUR
 price: 86.66

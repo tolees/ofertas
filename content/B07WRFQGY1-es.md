@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRFQGY1-es Eono by Amazon - Organizadores de Viaje de compresión...'
 sku: 'B07WRFQGY1-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

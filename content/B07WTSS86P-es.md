@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WTSS86P-es KIRIFLY Ramo de Flores Artificiales de Seda de peonía...'
 sku: 'B07WTSS86P-es'
-tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

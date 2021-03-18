@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F6XFGB3-es Salomon Trailblazer 10 Mochilla 10L Unisexo Trail Running...'
 sku: 'B07F6XFGB3-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

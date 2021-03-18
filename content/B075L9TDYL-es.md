@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075L9TDYL-es Moulinex DD65H810 Quickchef 4 en 1-Batidora de Mano 1000 W...'
 sku: 'B075L9TDYL-es'
-tags: [  ]
 actualPrice: 55.9 EUR
 currency: EUR
 price: 55.9

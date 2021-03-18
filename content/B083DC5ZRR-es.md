@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DC5ZRR-es perfk LED Luz de Navegación 12V para Barcos Bombilla...'
 sku: 'B083DC5ZRR-es'
-tags: [  ]
 actualPrice: 50.59 EUR
 currency: EUR
 price: 50.59

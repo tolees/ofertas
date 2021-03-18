@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MF3B9RY-es Ubisoft Spain - Compilation Child Of Light + Valiant Heart'
 sku: 'B07MF3B9RY-es'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HKRMZ6P-es Intex 58782EU - Colchoneta Hoja de Palmera fotorrealista'
 sku: 'B07HKRMZ6P-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

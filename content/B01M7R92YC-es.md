@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M7R92YC-es Guerlain - Eau de parfum homme l eau boisée 100 ml'
 sku: 'B01M7R92YC-es'
-tags: [  ]
 actualPrice: 41.58 EUR
 currency: EUR
 price: 41.58

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WFQ7K2R-es Fossil Smartwatch Pantalla táctil para Mujer de Connected...'
 sku: 'B07WFQ7K2R-es'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

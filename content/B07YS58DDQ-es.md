@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YS58DDQ-es Tensiómetro de Muñeca HYLOGY Monitor de Presión Digital...'
 sku: 'B07YS58DDQ-es'
-tags: [  ]
 actualPrice: 28.77 EUR
 currency: EUR
 price: 28.77

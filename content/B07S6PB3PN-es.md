@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6PB3PN-es PUMA X-Ray Zapatillas Unisex-Adulto Blanco White/Gray...'
 sku: 'B07S6PB3PN-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

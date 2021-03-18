@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0872CZJPW-es Kilponen Luz Solar Exterior 【4 Paquete - 180 °Iluminación...'
 sku: 'B0872CZJPW-es'
-tags: [  ]
 actualPrice: 20.91 EUR
 currency: EUR
 price: 20.91

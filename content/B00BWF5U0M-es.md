@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BWF5U0M-es Sabrent Concentrador de USB 2.0 con 4 salidas interuptores...'
 sku: 'B00BWF5U0M-es'
-tags: [  ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

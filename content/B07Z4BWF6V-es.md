@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4BWF6V-es G-STAR RAW Tedie Ultra High Pantalones Cortos Sun Faded...'
 sku: 'B07Z4BWF6V-es'
-tags: [  ]
 actualPrice: 17.42 EUR
 currency: EUR
 price: 17.42

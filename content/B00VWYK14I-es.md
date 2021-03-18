@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VWYK14I-es Joma Record Malla Larga Hombre Rojo L'
 sku: 'B00VWYK14I-es'
-tags: [  ]
 actualPrice: 14.68 EUR
 currency: EUR
 price: 14.68

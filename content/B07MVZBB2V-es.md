@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVZBB2V-es Masajeador facial de barra de oro masajeador de bolsa de...'
 sku: 'B07MVZBB2V-es'
-tags: [  ]
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

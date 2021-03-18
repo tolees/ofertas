@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CSRXMUI-es WOLFCRAFT 7980010 punzón Cromado para marcar el Punto de...'
 sku: 'B00CSRXMUI-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

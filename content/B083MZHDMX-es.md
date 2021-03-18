@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083MZHDMX-es Mardozon Correa para Xiaomi Mi Band 4 / Mi Band 3 Pulsera...'
 sku: 'B083MZHDMX-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

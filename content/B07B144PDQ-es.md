@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B144PDQ-es Skechers Women s Flex Appeal 3.0 Trainers Grey Slate &...'
 sku: 'B07B144PDQ-es'
-tags: [  ]
 actualPrice: 44.37 EUR
 currency: EUR
 price: 44.37

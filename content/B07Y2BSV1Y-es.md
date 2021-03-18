@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y2BSV1Y-es HFJLL Mountain Bike Motocross Jersey Camiseta de Manga...'
 sku: 'B07Y2BSV1Y-es'
-tags: [  ]
 actualPrice: 8.78 EUR
 currency: EUR
 price: 8.78

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFJXLBJ-es Monix Pisa Gold - Set de cubiertos de 24 piezas con...'
 sku: 'B07NFJXLBJ-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

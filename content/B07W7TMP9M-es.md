@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7TMP9M-es LEGO City Turbo Wheels - Coches de Carreras Set de...'
 sku: 'B07W7TMP9M-es'
-tags: [  ]
 actualPrice: 14.93 EUR
 currency: EUR
 price: 14.93

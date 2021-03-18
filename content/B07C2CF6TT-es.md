@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C2CF6TT-es Jack & Jones Jjebasic Knit Crew Neck Noos suéter Azul Navy...'
 sku: 'B07C2CF6TT-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

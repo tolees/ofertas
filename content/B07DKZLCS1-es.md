@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKZLCS1-es ACTMAN Cámara Deportiva 4K 16 MP WiFi Sumergible con...'
 sku: 'B07DKZLCS1-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

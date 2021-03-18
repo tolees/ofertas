@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016YWDAAY-es Weider Vegan Protein Sabor Chocolate Proteína 100% vegetal...'
 sku: 'B016YWDAAY-es'
-tags: [  ]
 actualPrice: 17.16 EUR
 currency: EUR
 price: 17.16

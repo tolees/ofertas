@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WDQ58NY-es PTHTECHUS - GPS Reloj Inteligente Niña Impermeable -...'
 sku: 'B07WDQ58NY-es'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

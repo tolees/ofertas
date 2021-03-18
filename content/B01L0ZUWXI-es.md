@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L0ZUWXI-es Candy CMXG 25DCW Microondas con Grill y Cook In App 40...'
 sku: 'B01L0ZUWXI-es'
-tags: [  ]
 actualPrice: 95.2 EUR
 currency: EUR
 price: 95.2

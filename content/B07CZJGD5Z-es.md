@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZJGD5Z-es Under Armour UA Qualifier Storm Packable Jacket Chaqueta...'
 sku: 'B07CZJGD5Z-es'
-tags: [  ]
 actualPrice: 34.47 EUR
 currency: EUR
 price: 34.47

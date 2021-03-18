@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPRFDYN-es Calvin Klein Thong Tanga Negro Black 001 Talla del...'
 sku: 'B07VPRFDYN-es'
-tags: [  ]
 actualPrice: 9.81 EUR
 currency: EUR
 price: 9.81

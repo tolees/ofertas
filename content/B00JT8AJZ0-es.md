@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JT8AJZ0-es Western Digital - WD Elements Desktop - Disco duro externo...'
 sku: 'B00JT8AJZ0-es'
-tags: [  ]
 actualPrice: 111.6 EUR
 currency: EUR
 price: 111.6

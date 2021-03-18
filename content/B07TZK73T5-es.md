@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZK73T5-es BOSS Trunk 3p Co/El Bóxer Multicolor Open Miscellaneous...'
 sku: 'B07TZK73T5-es'
-tags: [  ]
 actualPrice: 23.41 EUR
 currency: EUR
 price: 23.41

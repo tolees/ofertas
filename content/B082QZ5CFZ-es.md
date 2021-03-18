@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082QZ5CFZ-es ukuu - Telefono Movils para Mayores gsm Pantalla de 2 3...'
 sku: 'B082QZ5CFZ-es'
-tags: [  ]
 actualPrice: 34.88 EUR
 currency: EUR
 price: 34.88

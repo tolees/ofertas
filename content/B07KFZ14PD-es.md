@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFZ14PD-es PUMA ST Activate Mid WTR Zapatillas Unisex Adulto Beige...'
 sku: 'B07KFZ14PD-es'
-tags: [  ]
 actualPrice: 37.23 EUR
 currency: EUR
 price: 37.23

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000HTVVVQ-es Saucony Jazz Original-W Zapatillas para Mujer Azul...'
 sku: 'B000HTVVVQ-es'
-tags: [  ]
 actualPrice: 43.9 EUR
 currency: EUR
 price: 43.9

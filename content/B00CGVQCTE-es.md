@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CGVQCTE-es Nike Air Max 90 Essential - Zapatillas de running Hombre...'
 sku: 'B00CGVQCTE-es'
-tags: [  ]
 actualPrice: 90.01 EUR
 currency: EUR
 price: 90.01

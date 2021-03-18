@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HYRVF67-es Tacens Anima AK0 - Teclado profesional membrana pulsación...'
 sku: 'B07HYRVF67-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

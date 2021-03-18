@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001NYVDKS-es KS Tools 160.0352 - Gato de botella hidráulica 5t'
 sku: 'B001NYVDKS-es'
-tags: [  ]
 actualPrice: 30.36 EUR
 currency: EUR
 price: 30.36

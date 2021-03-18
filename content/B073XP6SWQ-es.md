@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073XP6SWQ-es Casco de soldadura Tacklife-PAH03D-Caretas para soldar...'
 sku: 'B073XP6SWQ-es'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCCJVLD-es Napapijri Elbas 3 Polo Azul Ultramarine BLU Bb41 XXL para...'
 sku: 'B07VCCJVLD-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q6C8SZ6-es BelleStyle Tablero de Dibujo Magnético Colorido Borrable...'
 sku: 'B07Q6C8SZ6-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

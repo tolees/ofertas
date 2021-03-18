@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PVDQ37A-es D-Link DWM-222 - Modem 4G LTE USB 2.0 150 Mbps SIM Datos...'
 sku: 'B00PVDQ37A-es'
-tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

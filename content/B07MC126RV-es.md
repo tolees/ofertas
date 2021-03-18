@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC126RV-es Clarks Fairford Run Zapatillas para Hombre Negro Black...'
 sku: 'B07MC126RV-es'
-tags: [  ]
 actualPrice: 45.31 EUR
 currency: EUR
 price: 45.31

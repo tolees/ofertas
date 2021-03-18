@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCQ7XM7-es Funda para Huawei Mate 20 diseño de mármol silicona suave...'
 sku: 'B07ZCQ7XM7-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

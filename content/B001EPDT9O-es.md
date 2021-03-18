@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001EPDT9O-es adidas - Real Madrid 1ª Pantalon 08/09 Hombre Color:...'
 sku: 'B001EPDT9O-es'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

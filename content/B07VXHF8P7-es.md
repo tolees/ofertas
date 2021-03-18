@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXHF8P7-es Qkiss Depiladora Luz Pulsada Depiladora Luz Pulsada para...'
 sku: 'B07VXHF8P7-es'
-tags: [  ]
 actualPrice: 46.89 EUR
 currency: EUR
 price: 46.89

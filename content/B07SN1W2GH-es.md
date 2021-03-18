@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SN1W2GH-es TACKLIFE Juego de Llaves de Vaso Tuerca con Acero al Cromo...'
 sku: 'B07SN1W2GH-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

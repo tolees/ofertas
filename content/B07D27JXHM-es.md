@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D27JXHM-es SOMTHRON Hombre Cinturón de Cintura elástico Pantalones de...'
 sku: 'B07D27JXHM-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

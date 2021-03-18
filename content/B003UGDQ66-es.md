@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003UGDQ66-es Bolle TRACPSI - Gafas protectoras Anti-rayaduras y Anti-...'
 sku: 'B003UGDQ66-es'
-tags: [  ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

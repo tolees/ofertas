@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QY1K52F-es Helly Hansen W Legendary Insulated Pants Pantalones de...'
 sku: 'B07QY1K52F-es'
-tags: [  ]
 actualPrice: 72.42 EUR
 currency: EUR
 price: 72.42

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PHDHNW2-es Homever - Vaporizador de vapor de mano 1300 W plancha...'
 sku: 'B07PHDHNW2-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

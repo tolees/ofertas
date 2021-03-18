@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9HZXM8-es Under Armour Qualifier Camo Half Zip Parte Superior del...'
 sku: 'B07L9HZXM8-es'
-tags: [  ]
 actualPrice: 41.52 EUR
 currency: EUR
 price: 41.52

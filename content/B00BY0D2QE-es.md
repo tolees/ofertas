@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BY0D2QE-es L Oreal Paris - L Oreal Majirel 6.1 Color Rubio Oscuro...'
 sku: 'B00BY0D2QE-es'
-tags: [  ]
 actualPrice: 6.61 EUR
 currency: EUR
 price: 6.61

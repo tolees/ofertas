@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001HZ3YZA-es Grundig MA 5820 - Set de manicura y pedicura eléctrico'
 sku: 'B001HZ3YZA-es'
-tags: [  ]
 actualPrice: 28.19 EUR
 currency: EUR
 price: 28.19

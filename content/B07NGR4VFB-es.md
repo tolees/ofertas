@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NGR4VFB-es Lotus Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B07NGR4VFB-es'
-tags: [  ]
 actualPrice: 76.12 EUR
 currency: EUR
 price: 76.12

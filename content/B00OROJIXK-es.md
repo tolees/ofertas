@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OROJIXK-es Tenga Air Tech Strong Funda Masturbadora 6.9 × 15.5 x 6.9...'
 sku: 'B00OROJIXK-es'
-tags: [  ]
 actualPrice: 14.64 EUR
 currency: EUR
 price: 14.64

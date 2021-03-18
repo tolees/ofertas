@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08QS61QMT-es VoJoPi Calcetines Running Hombre 5 Pares Algodon...'
 sku: 'B08QS61QMT-es'
-tags: [ 'vojopi', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MAZ6ZPN-es Amazon Basics - Perchas de terciopelo para trajes -...'
 sku: 'B01MAZ6ZPN-es'
-tags: [  ]
 actualPrice: 27.88 EUR
 currency: EUR
 price: 27.88

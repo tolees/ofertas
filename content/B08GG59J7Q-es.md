@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GG59J7Q-es Socobeta - Mini máquina de karaoke inalámbrica WIFI KTV...'
 sku: 'B08GG59J7Q-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

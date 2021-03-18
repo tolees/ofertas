@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CGSF1WB-es L Óreal Paris Les Chocolats Labial Líquido Mate - Tono...'
 sku: 'B07CGSF1WB-es'
-tags: [  ]
 actualPrice: 5.15 EUR
 currency: EUR
 price: 5.15

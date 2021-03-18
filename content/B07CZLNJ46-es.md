@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZLNJ46-es Under Armour Playoff 2.0 Polo Hombre Negro...'
 sku: 'B07CZLNJ46-es'
-tags: [  ]
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

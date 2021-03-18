@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RRXXPMZ-es Ultimate Ears Wonderbooms 2 Altavoz Inalámbrico Graves...'
 sku: 'B07RRXXPMZ-es'
-tags: [  ]
 actualPrice: 62.59 EUR
 currency: EUR
 price: 62.59

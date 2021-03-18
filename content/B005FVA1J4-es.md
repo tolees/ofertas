@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005FVA1J4-es Pedigree Pack de Dentastix de uso Diario para la Limpieza...'
 sku: 'B005FVA1J4-es'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KXEGPG0-es Reloj para mujer Hugo Boss 1502395.'
 sku: 'B01KXEGPG0-es'
-tags: [  ]
 actualPrice: 151.34 EUR
 currency: EUR
 price: 151.34

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNGFL13-es UniqueMe [2 Pack] Protector de Pantalla para Xiaomi Mi...'
 sku: 'B08DNGFL13-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

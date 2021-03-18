@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BW384QQ-es seQoya - Yosemite | Reloj de Madera con Esfera de Madera y...'
 sku: 'B07BW384QQ-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

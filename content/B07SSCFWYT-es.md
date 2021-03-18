@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SSCFWYT-es adidas Coast Star W Zapatillas de Gimnasia para Mujer...'
 sku: 'B07SSCFWYT-es'
-tags: [  ]
 actualPrice: 42.89 EUR
 currency: EUR
 price: 42.89

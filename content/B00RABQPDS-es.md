@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00RABQPDS-es Chuango PIR-910 PIR Detector de movimiento inmune a...'
 sku: 'B00RABQPDS-es'
-tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

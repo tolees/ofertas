@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FKLBPVV-es Joma Academy Chandal Caballero Niños Rojo/Marino 6XS'
 sku: 'B07FKLBPVV-es'
-tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

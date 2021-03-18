@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000W08ZUA-es Bormioli Bote con Tapa 1.5l'
 sku: 'B000W08ZUA-es'
-tags: [  ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

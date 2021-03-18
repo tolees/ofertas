@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SHTK5NS-es Hugo Boss Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07SHTK5NS-es'
-tags: [  ]
 actualPrice: 150.71 EUR
 currency: EUR
 price: 150.71

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT9W4K4-es adidas Stan Smith Zapatillas Unisex bebé Blanco Footwear...'
 sku: 'B01MT9W4K4-es'
-tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RYL5TRG-es New Balance 373 Core Zapatillas Hombre Negro Black/White...'
 sku: 'B07RYL5TRG-es'
-tags: [  ]
 actualPrice: 38.85 EUR
 currency: EUR
 price: 38.85

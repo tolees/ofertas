@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077ZB8CPS-es NV Compression Race and Recover Calentadores de...'
 sku: 'B077ZB8CPS-es'
-tags: [  ]
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

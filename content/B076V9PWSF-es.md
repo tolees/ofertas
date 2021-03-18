@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076V9PWSF-es Funda Antigolpes para iPhone 6 Plus /6S Plus Beeasy...'
 sku: 'B076V9PWSF-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

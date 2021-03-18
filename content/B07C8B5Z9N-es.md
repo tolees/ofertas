@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C8B5Z9N-es GRAT.UNIC Mallas Deportivas de Mujer Mujer Pantalones...'
 sku: 'B07C8B5Z9N-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

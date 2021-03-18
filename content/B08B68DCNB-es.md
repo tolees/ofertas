@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B68DCNB-es Cámara de Documentos Bamboosang X9 Escáner de Libros de...'
 sku: 'B08B68DCNB-es'
-tags: [  ]
 actualPrice: 238.0 EUR
 currency: EUR
 price: 238.0

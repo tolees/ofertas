@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YGCNWDY-es Deportivas Mujer MTNG | Deportivas Dasha 69362 | MTNG...'
 sku: 'B07YGCNWDY-es'
-tags: [  ]
 actualPrice: 25.6 EUR
 currency: EUR
 price: 25.6

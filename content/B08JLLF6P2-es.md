@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JLLF6P2-es needlid - Pulsera de magnetoterapia de acero inoxidable...'
 sku: 'B08JLLF6P2-es'
-tags: [  ]
 actualPrice: 2.59 EUR
 currency: EUR
 price: 2.59

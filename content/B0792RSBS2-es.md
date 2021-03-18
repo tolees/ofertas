@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792RSBS2-es Nakosite RAY2433 Reloj inteligente Mujer Hombre SmartWatch...'
 sku: 'B0792RSBS2-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

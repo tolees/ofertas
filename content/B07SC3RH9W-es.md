@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SC3RH9W-es GREAT ART Foto Mural Imagen Panoramica de los Alpes Diseno...'
 sku: 'B07SC3RH9W-es'
-tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00W3RDLMC-es Multicentrum Complemento Alimenticio con 13 Vitaminas y 11...'
 sku: 'B00W3RDLMC-es'
-tags: [  ]
 actualPrice: 11.72 EUR
 currency: EUR
 price: 11.72

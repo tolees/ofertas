@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KJPE4KM-es Lagunamoon Esmaltes de Uñas Esmaltes de Gel Uñas UV LED...'
 sku: 'B01KJPE4KM-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XL6KZFG-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Clone...'
 sku: 'B07XL6KZFG-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

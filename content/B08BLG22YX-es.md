@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BLG22YX-es Burton Tinder 2.0 Adultos Unisex Barren Camo Print'
 sku: 'B08BLG22YX-es'
-tags: [  ]
 actualPrice: 24.1 EUR
 currency: EUR
 price: 24.1

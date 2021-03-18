@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TJSQS53-es Mr. Wonderful Archivador de Anillas con Palanca-Lo Vas a...'
 sku: 'B07TJSQS53-es'
-tags: [  ]
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

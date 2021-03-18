@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B4XFHVZ-es Rizador de Pestañas Electrico TOUCHBeauty Rizador de...'
 sku: 'B07B4XFHVZ-es'
-tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

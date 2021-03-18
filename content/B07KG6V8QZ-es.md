@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KG6V8QZ-es PUMA Ralph Sampson Lo Zapatillas Unisex Adulto Negro Blk...'
 sku: 'B07KG6V8QZ-es'
-tags: [  ]
 actualPrice: 40.84 EUR
 currency: EUR
 price: 40.84

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0168UDHO6-es Warner Bros. Entertainment España S.L. - El Mentalista...'
 sku: 'B0168UDHO6-es'
-tags: [  ]
 actualPrice: 52.79 EUR
 currency: EUR
 price: 52.79

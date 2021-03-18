@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08531GNMF-es Kasimir Espejo Maquillaje con Luz LED Aumento 5X Espejo de...'
 sku: 'B08531GNMF-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

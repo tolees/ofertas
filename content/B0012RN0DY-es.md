@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0012RN0DY-es Converse Chuck Taylor CT As SP Hi Zapatillas Altas Unisex...'
 sku: 'B0012RN0DY-es'
-tags: [  ]
 actualPrice: 41.48 EUR
 currency: EUR
 price: 41.48

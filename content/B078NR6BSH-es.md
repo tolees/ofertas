@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078NR6BSH-es Bolsas de plástico resellables bolsa sellada bolsa de...'
 sku: 'B078NR6BSH-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

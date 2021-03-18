@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FS3SDAW-es Soy Luna - Lexibook Altavoz Karaoke Portátil con Micrófono...'
 sku: 'B01FS3SDAW-es'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

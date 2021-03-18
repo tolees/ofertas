@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7PDQYL-es Compatible con Samsung Galaxy S10 funda transparente de...'
 sku: 'B07Y7PDQYL-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

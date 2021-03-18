@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NJ637HN-es Kosiy Repetidor WiFi Amplificador WiFi 1200Mbps...'
 sku: 'B08NJ637HN-es'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LAGXM5M-es Rowenta Premium Care Liss & Curl SF7660F0 - Plancha de...'
 sku: 'B01LAGXM5M-es'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

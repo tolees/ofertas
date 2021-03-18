@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VP48NGB-es SKY LIGHT Cacerola Aluminio 24cm / 5.2L con Tapa de Vidrio...'
 sku: 'B07VP48NGB-es'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

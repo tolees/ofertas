@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0187KVVKC-es Vizaro - SÁBANA BAJERA para Colchón de Capazo de Carrito...'
 sku: 'B0187KVVKC-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

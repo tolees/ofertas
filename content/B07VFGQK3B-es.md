@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFGQK3B-es EXTRASTAR Repetidor WiFi 300Mbps Extensor de Red WiFi...'
 sku: 'B07VFGQK3B-es'
-tags: [  ]
 actualPrice: 10.62 EUR
 currency: EUR
 price: 10.62

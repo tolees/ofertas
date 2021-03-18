@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DBPTTS0-es Acer Essential - Monitor de 17" pantalla LED 1280 x 1024...'
 sku: 'B00DBPTTS0-es'
-tags: [  ]
 actualPrice: 65.4 EUR
 currency: EUR
 price: 65.4

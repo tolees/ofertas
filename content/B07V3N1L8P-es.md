@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3N1L8P-es Tommy Hilfiger Seasonal Textile Sneaker Zapatillas para...'
 sku: 'B07V3N1L8P-es'
-tags: [  ]
 actualPrice: 28.53 EUR
 currency: EUR
 price: 28.53

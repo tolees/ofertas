@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071PDTQQ2-es Kensington K64435WW - Candado Clicksafe 2.0 de para...'
 sku: 'B071PDTQQ2-es'
-tags: [  ]
 actualPrice: 42.8 EUR
 currency: EUR
 price: 42.8

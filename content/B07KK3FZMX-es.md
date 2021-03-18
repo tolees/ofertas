@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK3FZMX-es Columbia Grixsen Boot WP Botas Chukka para Hombre Negro...'
 sku: 'B07KK3FZMX-es'
-tags: [  ]
 actualPrice: 38.29 EUR
 currency: EUR
 price: 38.29

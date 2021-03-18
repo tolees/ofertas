@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072NL6GW4-es Quiksilver Mission V-Shoes For Men Botas de Nieve para...'
 sku: 'B072NL6GW4-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

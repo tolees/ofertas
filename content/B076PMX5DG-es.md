@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076PMX5DG-es Pasito a Pasito 74026 - Bolsa panera Inés Gris'
 sku: 'B076PMX5DG-es'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

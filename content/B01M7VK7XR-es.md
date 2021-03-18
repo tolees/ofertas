@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M7VK7XR-es Festina Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B01M7VK7XR-es'
-tags: [  ]
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

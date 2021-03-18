@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCLDL7S-es goldenpoint Leggings Flare Crepé'
 sku: 'B08FCLDL7S-es'
-tags: [  ]
 actualPrice: 24.47 EUR
 currency: EUR
 price: 24.47

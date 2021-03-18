@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XY1PWSW-es PUTUO Calcetines Dedos Hombres Calcetines de Deportes de...'
 sku: 'B07XY1PWSW-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

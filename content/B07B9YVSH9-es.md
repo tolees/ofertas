@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B9YVSH9-es Bourjois Healthy Mix Bb Cream Base de Maquillaje Tono...'
 sku: 'B07B9YVSH9-es'
-tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

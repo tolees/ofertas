@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002OHRH3K-es Wolfcraft 3176000 - Rollo papel de lija abrasivo grano 240...'
 sku: 'B002OHRH3K-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

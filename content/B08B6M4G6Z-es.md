@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B6M4G6Z-es Nestlé Naturnes Bio Pure Brócoli Guisantes Pavo Para Bebés...'
 sku: 'B08B6M4G6Z-es'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

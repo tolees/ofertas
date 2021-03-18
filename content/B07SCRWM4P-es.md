@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCRWM4P-es MOSNOVO [Transparente Funda iPhone XR con Absorción de...'
 sku: 'B07SCRWM4P-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

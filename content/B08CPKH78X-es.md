@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CPKH78X-es adidas Pro Tokyo Trunk Bañador Hombre rossen/Negro 3'
 sku: 'B08CPKH78X-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PWNKXTK-es Under Armour UA GS Assert 8 Zapatillas de Running Unisex...'
 sku: 'B07PWNKXTK-es'
-tags: [  ]
 actualPrice: 20.15 EUR
 currency: EUR
 price: 20.15

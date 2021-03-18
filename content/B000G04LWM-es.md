@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000G04LWM-es Juwel 88049 - Algodón Filtro del Acuario bioflow 3.0 /...'
 sku: 'B000G04LWM-es'
-tags: [  ]
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

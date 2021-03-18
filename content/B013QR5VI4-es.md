@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013QR5VI4-es Tamron AF 18-200 mm F/3.5-6.3 XR Di II - Objetivo para...'
 sku: 'B013QR5VI4-es'
-tags: [  ]
 actualPrice: 139.97 EUR
 currency: EUR
 price: 139.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084JCWLVW-es Moliies Base líquida Taylormade Warm Skin Tone para...'
 sku: 'B084JCWLVW-es'
-tags: [  ]
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

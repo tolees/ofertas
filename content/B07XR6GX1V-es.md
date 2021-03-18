@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XR6GX1V-es Apple Funda Silicone Case para el iPhone 11 Pro - Rosa Arena'
 sku: 'B07XR6GX1V-es'
-tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

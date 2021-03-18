@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVM161F-es Under Armour Men s Official Tour 3.0 Gorra Hombre Gris XL/XXL'
 sku: 'B07QVM161F-es'
-tags: [  ]
 actualPrice: 12.61 EUR
 currency: EUR
 price: 12.61

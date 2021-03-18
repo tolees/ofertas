@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00H3T8A8U-es Abus 460/230 Granit USH 470 Halter Candado Negro Talla única'
 sku: 'B00H3T8A8U-es'
-tags: [  ]
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

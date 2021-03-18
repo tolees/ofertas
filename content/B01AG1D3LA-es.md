@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AG1D3LA-es NIXON Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
 sku: 'B01AG1D3LA-es'
-tags: [  ]
 actualPrice: 161.0 EUR
 currency: EUR
 price: 161.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OG5S9L2-es Reloj Komono Winston Royale Unisex KOM-W2351'
 sku: 'B00OG5S9L2-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

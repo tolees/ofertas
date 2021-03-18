@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0895LCJYF-es DC Shoes Big Star - Gorro - Hombre - One Size'
 sku: 'B0895LCJYF-es'
-tags: [  ]
 actualPrice: 16.12 EUR
 currency: EUR
 price: 16.12

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LI4O9EA-es TP-Link UH700 - USB 3.0 hub de 7 Puertos con Adaptador de...'
 sku: 'B00LI4O9EA-es'
-tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

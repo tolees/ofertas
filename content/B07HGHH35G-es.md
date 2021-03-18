@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HGHH35G-es JBL Charge 4 - Altavoz inalámbrico portátil con Bluetooth...'
 sku: 'B07HGHH35G-es'
-tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

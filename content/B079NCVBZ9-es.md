@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079NCVBZ9-es HUAWEI Sonido Stone Portable Bluetooth Speaker CM51 Red'
 sku: 'B079NCVBZ9-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

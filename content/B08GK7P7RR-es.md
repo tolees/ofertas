@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GK7P7RR-es 5MP Cámara Domo Exterior WiFi Impermeable Aottom 5X Zoom...'
 sku: 'B08GK7P7RR-es'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

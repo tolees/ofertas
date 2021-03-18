@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFY47MG-es PUMA Drift Cat 5 AC Zapatillas Unisex Adulto White White...'
 sku: 'B07KFY47MG-es'
-tags: [  ]
 actualPrice: 24.19 EUR
 currency: EUR
 price: 24.19

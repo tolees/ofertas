@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQ5WYNR-es DesigualBols brown Sugar RotterdamMujerBolsos mochilaBeige...'
 sku: 'B07WQ5WYNR-es'
-tags: [  ]
 actualPrice: 41.66 EUR
 currency: EUR
 price: 41.66

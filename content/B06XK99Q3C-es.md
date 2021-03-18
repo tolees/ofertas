@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XK99Q3C-es OMORC Cortapelos Para Perros Cortapelos Para Mascotas...'
 sku: 'B06XK99Q3C-es'
-tags: [ 'omorc', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

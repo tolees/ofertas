@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082SCWXLC-es HBselect 12 pares Calcetines Bebe Niños Niñas Algodón Con...'
 sku: 'B082SCWXLC-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

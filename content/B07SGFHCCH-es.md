@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SGFHCCH-es Braun Series 9 9340s - Afeitadora Eléctrica Hombre Última...'
 sku: 'B07SGFHCCH-es'
-tags: [  ]
 actualPrice: 272.0 EUR
 currency: EUR
 price: 272.0

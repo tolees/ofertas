@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HQ9PJZY-es NIVEA crema de manos calmante alos vera tubo 100 ml'
 sku: 'B07HQ9PJZY-es'
-tags: [  ]
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

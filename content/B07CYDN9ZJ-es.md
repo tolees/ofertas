@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYDN9ZJ-es Salomon XA Pro 3D J Zapatillas de Trail Running Unisex...'
 sku: 'B07CYDN9ZJ-es'
-tags: [  ]
 actualPrice: 40.7 EUR
 currency: EUR
 price: 40.7

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0107WKX4I-es Sundis tiroirsNOIR pcb4 Orgamix Torre Cajonera de...'
 sku: 'B0107WKX4I-es'
-tags: [ 'sundis', ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

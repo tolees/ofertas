@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4LLD6V-es G-STAR RAW Lanc 3D Tapered Jeans Azul lt Aged Heavy Stone...'
 sku: 'B07B4LLD6V-es'
-tags: [  ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

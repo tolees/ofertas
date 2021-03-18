@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081S3T7DQ-es Autkors Soporte Móvil Coche Soporte Móvil Télefono para...'
 sku: 'B081S3T7DQ-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

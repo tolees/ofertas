@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RK2CXF7-es New Balance Fresh Foam Arishi V3 Zapatillas de Running...'
 sku: 'B07RK2CXF7-es'
-tags: [  ]
 actualPrice: 48.64 EUR
 currency: EUR
 price: 48.64

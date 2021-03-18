@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QCHD7SL-es KAINSY - Coche Teledirigido 546PC Stem Bloques de...'
 sku: 'B08QCHD7SL-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

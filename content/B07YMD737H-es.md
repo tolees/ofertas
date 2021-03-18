@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YMD737H-es Hurley M Phtm Exotic 18 Bañador Hombre Black 34'
 sku: 'B07YMD737H-es'
-tags: [  ]
 actualPrice: 23.51 EUR
 currency: EUR
 price: 23.51

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QBN4QBT-es Wet n Wild - Mega Protein Mascara Waterproof - Máscara...'
 sku: 'B07QBN4QBT-es'
-tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

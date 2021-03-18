@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1MM8K3-es New Balance 574v2 Zapatillas para Mujer Negro Black SAU 36 EU'
 sku: 'B07S1MM8K3-es'
-tags: [  ]
 actualPrice: 44.08 EUR
 currency: EUR
 price: 44.08

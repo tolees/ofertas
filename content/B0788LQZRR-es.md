@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0788LQZRR-es Tommy Hilfiger Repeat Logo Tape Joggers Pantalones...'
 sku: 'B0788LQZRR-es'
-tags: [  ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

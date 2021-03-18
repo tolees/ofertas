@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077B8SWD2-es Devir-Una Columna de Fuego Juego de Mesa BGCOLUMNA'
 sku: 'B077B8SWD2-es'
-tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

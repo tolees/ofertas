@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HZ1P4P-es MONRAY NGS Ginger maletín para Ordenador portátil Jengibre...'
 sku: 'B076HZ1P4P-es'
-tags: [  ]
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

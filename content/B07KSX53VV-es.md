@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KSX53VV-es Lékué Recipiente hermético para Transportar y conservar...'
 sku: 'B07KSX53VV-es'
-tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

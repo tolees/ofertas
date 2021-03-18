@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N2NW9VW-es MEDIATRES ESTUDIO - El verano de Kikujiro'
 sku: 'B01N2NW9VW-es'
-tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

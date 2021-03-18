@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZLJTDJ-es LITOM Luz de Lectura Luz de Libro Recargable con 60H de...'
 sku: 'B07VZLJTDJ-es'
-tags: [ 'litom', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

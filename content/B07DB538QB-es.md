@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DB538QB-es HP EliteBook x360 1030 G3 - Ordenador Portátil Profesional...'
 sku: 'B07DB538QB-es'
-tags: [  ]
 actualPrice: 1513.51 EUR
 currency: EUR
 price: 1513.51

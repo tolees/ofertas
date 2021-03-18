@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q29FMGB-es Cepillo de Dientes Eléctrico Homever Cepillo de Dientes...'
 sku: 'B07Q29FMGB-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

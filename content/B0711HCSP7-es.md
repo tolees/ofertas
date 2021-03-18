@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0711HCSP7-es PINTYPLUS AUTO 736 Pintura Spray Pinta Llantas 520cc Negro...'
 sku: 'B0711HCSP7-es'
-tags: [  ]
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

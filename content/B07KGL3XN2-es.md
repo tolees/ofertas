@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGL3XN2-es Ideal casa - IDEALCASA Alicia en el País De Las Maravillas...'
 sku: 'B07KGL3XN2-es'
-tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Cubertería, Vajilla y Cristalería','Hogar y cocina','Piezas de vajilla','Ropa','Ropa para hombre','Tazas','Tazas de té','ideal casa', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

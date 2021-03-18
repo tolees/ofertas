@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009RQXRJY-es Victorio & Lucchino Agua Rocio de Tocador Vaporizador - 50 ml'
 sku: 'B009RQXRJY-es'
-tags: [  ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00292SLRG-es Warner Bros Entertainment - Spaceballs [Alemania] [Blu-ray]'
 sku: 'B00292SLRG-es'
-tags: [  ]
 actualPrice: 8.12 EUR
 currency: EUR
 price: 8.12

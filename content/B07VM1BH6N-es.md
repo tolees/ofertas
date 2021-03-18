@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VM1BH6N-es Munich OSAKA 422 Zapatillas Adulto Rosa 36 EU'
 sku: 'B07VM1BH6N-es'
-tags: [ 'munich', ]
 actualPrice: 30.98 EUR
 currency: EUR
 price: 30.98

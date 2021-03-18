@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SH77P6R-es 40 protectores de ojos máscara para los ojos colágeno para...'
 sku: 'B07SH77P6R-es'
-tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

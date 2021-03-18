@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BXFO69M-es La Roche Posay Leche Desmaquillante Fisiológica. - 200 ml'
 sku: 'B00BXFO69M-es'
-tags: [  ]
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

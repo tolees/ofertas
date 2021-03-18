@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RKB3RS-es Equipaje Maletas y Bolsas de Viaje - Premium Designer...'
 sku: 'B086RKB3RS-es'
-tags: [  ]
 actualPrice: 463.91 EUR
 currency: EUR
 price: 463.91

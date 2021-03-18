@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HR9MHMC-es Luckyfine - Y.F.M Máquina para Cortar Pelo Profesional...'
 sku: 'B07HR9MHMC-es'
-tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

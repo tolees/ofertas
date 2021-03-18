@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZYHQH38-es H&S Nutre & Cuida Champú Anticaspa - 540 ml'
 sku: 'B06ZYHQH38-es'
-tags: [  ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

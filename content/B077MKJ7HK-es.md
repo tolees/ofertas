@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MKJ7HK-es Bourjois Healthy Mix Powder Polvos Tono 02 Light beige /...'
 sku: 'B077MKJ7HK-es'
-tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

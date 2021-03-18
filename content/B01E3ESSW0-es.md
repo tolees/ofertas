@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01E3ESSW0-es Maybelline New York - Maybelline Master Stick Contour...'
 sku: 'B01E3ESSW0-es'
-tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

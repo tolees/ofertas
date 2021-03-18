@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LHUPKYI-es Belkin BSV603 SurgeStrip - Tira de protección contra...'
 sku: 'B00LHUPKYI-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

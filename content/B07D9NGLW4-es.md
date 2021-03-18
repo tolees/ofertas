@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9NGLW4-es Cerdá-2400000410 Paraguas Color Rosa 001 One Size Tamaño...'
 sku: 'B07D9NGLW4-es'
-tags: [  ]
 actualPrice: 5.1 EUR
 currency: EUR
 price: 5.1

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTD9VCN-es Superga 2750-cotcontrastu Zapatillas de Gimnasia Unisex...'
 sku: 'B07TTD9VCN-es'
-tags: [  ]
 actualPrice: 30.2 EUR
 currency: EUR
 price: 30.2

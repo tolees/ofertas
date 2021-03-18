@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X115QVN-es Rompecabezas 3D para Niños STEM Learning Toy Kit de...'
 sku: 'B07X115QVN-es'
-tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

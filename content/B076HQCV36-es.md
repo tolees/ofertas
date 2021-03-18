@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQCV36-es Altavoz DENON Envaya DSB-150-BT/BK Color Negro Bluetooth...'
 sku: 'B076HQCV36-es'
-tags: [  ]
 actualPrice: 69.5 EUR
 currency: EUR
 price: 69.5

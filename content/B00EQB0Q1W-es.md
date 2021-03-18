@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EQB0Q1W-es Braun Hogar - Braun MQ20 Minipimer Accesorio Minipicadora...'
 sku: 'B00EQB0Q1W-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

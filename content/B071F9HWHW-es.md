@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071F9HWHW-es Lixone Jabón de Aloe Vera - 3 Unidades'
 sku: 'B071F9HWHW-es'
-tags: [ 'lixone', ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

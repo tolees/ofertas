@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019HKOJ00-es EXO Lighting - Aplique de pared modelo IV en aluminio IP20...'
 sku: 'B019HKOJ00-es'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

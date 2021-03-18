@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0011FQ8XG-es Polisport Boodie Portabebes Infantil Negro/Rojo Talla Única'
 sku: 'B0011FQ8XG-es'
-tags: [  ]
 actualPrice: 34.3 EUR
 currency: EUR
 price: 34.3

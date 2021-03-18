@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCNWMNV-es GoMaihe 1.6L Botes Cocina Juego de 10 Piezas de Recipiente...'
 sku: 'B08DCNWMNV-es'
-tags: [  ]
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

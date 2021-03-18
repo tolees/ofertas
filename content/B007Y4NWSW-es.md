@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007Y4NWSW-es Case Logic TBC404K - Bolsa para cámara de fotos y vídeo'
 sku: 'B007Y4NWSW-es'
-tags: [ 'case logic', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

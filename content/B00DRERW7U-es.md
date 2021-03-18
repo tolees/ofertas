@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DRERW7U-es BRA Efficient-Grill asador Negro 28 cm'
 sku: 'B00DRERW7U-es'
-tags: [  ]
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0777VVCBF-es Arlo Pro 2 VMC4030P-100EUS - Cámara adicional de seguridad...'
 sku: 'B0777VVCBF-es'
-tags: [  ]
 actualPrice: 194.99 EUR
 currency: EUR
 price: 194.99

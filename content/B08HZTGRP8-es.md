@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZTGRP8-es Ravenscourt - Let s Sing 13+ 2 micros'
 sku: 'B08HZTGRP8-es'
-tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

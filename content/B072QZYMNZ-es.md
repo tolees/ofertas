@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072QZYMNZ-es Superga 2750 COTU Classic Zapatillas Unisex Rosa Dusty...'
 sku: 'B072QZYMNZ-es'
-tags: [  ]
 actualPrice: 14.93 EUR
 currency: EUR
 price: 14.93

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TVDXWJ8-es Superga 2750 Cotu Classic Zapatillas Unisex Adulto Naranja...'
 sku: 'B07TVDXWJ8-es'
-tags: [  ]
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

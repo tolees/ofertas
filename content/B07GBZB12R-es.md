@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GBZB12R-es Foreo - Cepillo Inteligente De Limpieza Facial Luna Fofo...'
 sku: 'B07GBZB12R-es'
-tags: [  ]
 actualPrice: 57.85 EUR
 currency: EUR
 price: 57.85

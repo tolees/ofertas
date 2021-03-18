@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004EAIWR0-es Don Julio Tequila Reposado - 700 ml'
 sku: 'B004EAIWR0-es'
-tags: [  ]
 actualPrice: 38.2 EUR
 currency: EUR
 price: 38.2

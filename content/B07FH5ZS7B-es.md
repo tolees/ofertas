@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FH5ZS7B-es Element Dusk II Beanie A Gorro Hombre Rojo Napa Red Talla...'
 sku: 'B07FH5ZS7B-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

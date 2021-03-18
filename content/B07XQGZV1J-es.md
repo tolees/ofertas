@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQGZV1J-es Montse Interiors S.L. Cuadrante o Cojín Decoración...'
 sku: 'B07XQGZV1J-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

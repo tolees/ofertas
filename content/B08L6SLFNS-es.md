@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L6SLFNS-es [2020 actualizado]Irrigador bucal dental Limpiador de...'
 sku: 'B08L6SLFNS-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

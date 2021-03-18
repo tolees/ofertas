@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2LN8HQ-es Under Armour Pre School Assert 8 Ufm Syn Ac Zapatillas de...'
 sku: 'B07K2LN8HQ-es'
-tags: [  ]
 actualPrice: 9.72 EUR
 currency: EUR
 price: 9.72

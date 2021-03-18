@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XAPCWZS-es Konfekt - Geles dulces'
 sku: 'B00XAPCWZS-es'
-tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

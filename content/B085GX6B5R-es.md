@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085GX6B5R-es Tampax Copa Menstrual Flujo Regular Protección Comfort-Fit...'
 sku: 'B085GX6B5R-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

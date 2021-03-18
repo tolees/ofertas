@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WMSQZY5-es Michael Kors Reloj de Bolsillo para Mujer'
 sku: 'B07WMSQZY5-es'
-tags: [  ]
 actualPrice: 195.27 EUR
 currency: EUR
 price: 195.27

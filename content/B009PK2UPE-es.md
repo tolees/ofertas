@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009PK2UPE-es Woxter Cooling Pad 1560 R – Base refrigeradora para...'
 sku: 'B009PK2UPE-es'
-tags: [  ]
 actualPrice: 12.46 EUR
 currency: EUR
 price: 12.46

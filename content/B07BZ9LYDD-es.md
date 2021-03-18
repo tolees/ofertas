@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BZ9LYDD-es Haier HW100-BP14636 - Lavadora carga frontal 10kg Motor...'
 sku: 'B07BZ9LYDD-es'
-tags: [  ]
 actualPrice: 351.15 EUR
 currency: EUR
 price: 351.15

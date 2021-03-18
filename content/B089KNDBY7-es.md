@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089KNDBY7-es Nutribullet NB5-0628-G - Extractor de nutrientes con...'
 sku: 'B089KNDBY7-es'
-tags: [  ]
 actualPrice: 48.34 EUR
 currency: EUR
 price: 48.34

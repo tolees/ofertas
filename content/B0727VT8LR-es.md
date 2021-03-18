@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0727VT8LR-es Saucony Jazz Original Vintage Zapatillas de Cross para...'
 sku: 'B0727VT8LR-es'
-tags: [  ]
 actualPrice: 50.51 EUR
 currency: EUR
 price: 50.51

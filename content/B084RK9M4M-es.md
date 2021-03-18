@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084RK9M4M-es MVMT Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B084RK9M4M-es'
-tags: [  ]
 actualPrice: 92.77 EUR
 currency: EUR
 price: 92.77

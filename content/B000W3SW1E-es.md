@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000W3SW1E-es Max Factor Lasting Performance Base de Maquillaje Líquida...'
 sku: 'B000W3SW1E-es'
-tags: [  ]
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QD9XZHY-es adidas Advantage C Zapatillas de Tenis Blanco Ftwbla...'
 sku: 'B07QD9XZHY-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

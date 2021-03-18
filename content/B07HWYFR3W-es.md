@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HWYFR3W-es Cecotec Zitrus 160 Vita Black - Exprimidor Eléctrico...'
 sku: 'B07HWYFR3W-es'
-tags: [  ]
 actualPrice: 22.28 EUR
 currency: EUR
 price: 22.28

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087SNZVC1-es Bruni Película Protectora Compatible con BOOX Nova2...'
 sku: 'B087SNZVC1-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

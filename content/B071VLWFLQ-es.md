@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071VLWFLQ-es Rolimate Juguete Musical Juguete De Madera con Instrumento...'
 sku: 'B071VLWFLQ-es'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

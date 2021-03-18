@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KJ2LD14-es UniqueMe Funda para Huawei Mate 20 Pro Ultra [Slim Thin]...'
 sku: 'B07KJ2LD14-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

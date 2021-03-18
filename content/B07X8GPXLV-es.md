@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8GPXLV-es Hot Mom Multi cochecito cochecito 2 en 1 con buggy 2020...'
 sku: 'B07X8GPXLV-es'
-tags: [  ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

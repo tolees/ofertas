@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HJFN6V1-es NIVEA MEN Neceser Sensitive set de regalo cuidado hombre'
 sku: 'B08HJFN6V1-es'
-tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

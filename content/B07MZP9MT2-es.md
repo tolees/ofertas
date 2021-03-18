@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZP9MT2-es Juego De Tronos - Figura Funko 5 Star Tyrion Lannister 10cm'
 sku: 'B07MZP9MT2-es'
-tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

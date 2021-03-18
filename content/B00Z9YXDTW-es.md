@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z9YXDTW-es One For All URC1912 - Mando a Distancia de reemplazo para...'
 sku: 'B00Z9YXDTW-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

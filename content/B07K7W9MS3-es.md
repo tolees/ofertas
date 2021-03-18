@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K7W9MS3-es WELLA PROFESSIONALS - Wella EIMI EXTRA-VOLUME - Espuma...'
 sku: 'B07K7W9MS3-es'
-tags: [  ]
 actualPrice: 2.24 EUR
 currency: EUR
 price: 2.24

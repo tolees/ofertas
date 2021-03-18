@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FTFF8NT-es Adidas Ask SPRT LT M Mallas Hombre Black XS'
 sku: 'B07FTFF8NT-es'
-tags: [  ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

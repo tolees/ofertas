@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFFH3WY-es UniqueMe [6 Pack Protector de Pantalla para Xiaomi Mi Band...'
 sku: 'B08FFFH3WY-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

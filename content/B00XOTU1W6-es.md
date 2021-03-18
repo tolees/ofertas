@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XOTU1W6-es Moulinex HF802AA1 Robot cocina con 6 programas automáticos...'
 sku: 'B00XOTU1W6-es'
-tags: [  ]
 actualPrice: 439.64 EUR
 currency: EUR
 price: 439.64

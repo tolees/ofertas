@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KDKW1KK-es adidas Regi18 Pre Jkt Sport Jacket Hombre Power Red/Black S'
 sku: 'B07KDKW1KK-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

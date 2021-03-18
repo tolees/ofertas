@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KPPY0H4-es MAKITA DTW450Z llave de impacto 18 V Negro Azul M12 M16 M22'
 sku: 'B00KPPY0H4-es'
-tags: [  ]
 actualPrice: 189.9 EUR
 currency: EUR
 price: 189.9

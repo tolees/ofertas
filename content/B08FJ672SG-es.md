@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FJ672SG-es ShyaWorld Decantador De Vino Oxigenador Aireador 1 8L....'
 sku: 'B08FJ672SG-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L9O08PW-es Ubiquiti Spain - Ubiquiti Amplifi Home Wi-Fi Sistema AFI...'
 sku: 'B01L9O08PW-es'
-tags: [  ]
 actualPrice: 354.69 EUR
 currency: EUR
 price: 354.69

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BFN2XB0-es Casio EDIFICE Reloj en caja sólida de acero inoxidable 10...'
 sku: 'B00BFN2XB0-es'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

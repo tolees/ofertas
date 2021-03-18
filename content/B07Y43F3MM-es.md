@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y43F3MM-es Parfois - Clutch - Bandolera Efecto Serpiente - Mujeres -...'
 sku: 'B07Y43F3MM-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

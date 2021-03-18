@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZMZTFMX-es Flexo LED Escritorio Suuki Lámpara de Protección Ocular...'
 sku: 'B07ZMZTFMX-es'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

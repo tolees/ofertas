@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZDX7S7-es Fossil Reloj para Hombre de Automático con Correa en Cuero...'
 sku: 'B01MZDX7S7-es'
-tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

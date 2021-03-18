@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZ4CKY2-es 400pcs pluma de color ZoomSky pluma manualidad de plumaje...'
 sku: 'B07JZ4CKY2-es'
-tags: [  ]
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

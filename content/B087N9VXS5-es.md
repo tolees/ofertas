@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087N9VXS5-es Lenor Unstoppables Fresh Perlas de perfume para la ropa 6x...'
 sku: 'B087N9VXS5-es'
-tags: [  ]
 actualPrice: 23.94 EUR
 currency: EUR
 price: 23.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00P2HSJZE-es Lactacyd Íntimo Gel de Higiene Íntima Diario pH...'
 sku: 'B00P2HSJZE-es'
-tags: [  ]
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

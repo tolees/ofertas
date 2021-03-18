@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CBCDY2T-es Manta de Bebé Lactancia Alimentación Paños de Muselina...'
 sku: 'B07CBCDY2T-es'
-tags: [  ]
 actualPrice: 12.82 EUR
 currency: EUR
 price: 12.82

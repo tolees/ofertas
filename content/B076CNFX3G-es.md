@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076CNFX3G-es American Tourister - Bon Air - Spinner Equipaje de mano 55...'
 sku: 'B076CNFX3G-es'
-tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

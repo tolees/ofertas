@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QJLPG8R-es Puma Always On Solid 7/8 TR Lgg Mallas Deporte Mujer Negro...'
 sku: 'B07QJLPG8R-es'
-tags: [  ]
 actualPrice: 24.6 EUR
 currency: EUR
 price: 24.6

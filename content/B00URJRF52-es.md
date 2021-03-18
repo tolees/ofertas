@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00URJRF52-es Bionaire BTF005X 40 W negro mate'
 sku: 'B00URJRF52-es'
-tags: [  ]
 actualPrice: 27.79 EUR
 currency: EUR
 price: 27.79

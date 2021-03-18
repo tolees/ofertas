@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003JSSK7U-es Alicia en el País de las Maravillas Edición Especial [DVD]'
 sku: 'B003JSSK7U-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

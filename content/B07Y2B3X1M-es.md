@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y2B3X1M-es APEX LIFELINE'
 sku: 'B07Y2B3X1M-es'
-tags: [  ]
 actualPrice: 10.65 EUR
 currency: EUR
 price: 10.65

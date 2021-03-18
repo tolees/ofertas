@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000PVH3ZE-es Quercetti-Quercetti-2123 FC Básico d.15-Juego Educativo de...'
 sku: 'B000PVH3ZE-es'
-tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

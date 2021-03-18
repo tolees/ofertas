@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NW52SJD-es Skechers Stamina Zapatillas para Mujer Charcoal & Black...'
 sku: 'B07NW52SJD-es'
-tags: [  ]
 actualPrice: 35.82 EUR
 currency: EUR
 price: 35.82

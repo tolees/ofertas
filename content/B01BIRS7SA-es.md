@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BIRS7SA-es Vaseline Gel Reparador'
 sku: 'B01BIRS7SA-es'
-tags: [  ]
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

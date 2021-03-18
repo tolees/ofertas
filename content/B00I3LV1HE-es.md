@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3LV1HE-es Sony MDR-EX15AP - Auriculares in-ear con micrófono negro'
 sku: 'B00I3LV1HE-es'
-tags: [ 'sony', ]
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

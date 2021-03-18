@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DWHLYW6-es Torres - Santa Digna Rosé Vino Rosado - 6 botellas de 75...'
 sku: 'B00DWHLYW6-es'
-tags: [  ]
 actualPrice: 24.6 EUR
 currency: EUR
 price: 24.6

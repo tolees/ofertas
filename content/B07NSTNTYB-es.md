@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NSTNTYB-es Funko - Pop! Vinilo: Ghostbusters: Dr. Raymond Stantz'
 sku: 'B07NSTNTYB-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

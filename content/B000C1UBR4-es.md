@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C1UBR4-es CALVIN KLEIN ETERNITY MEN agua de tocador vaporizador 100 ml'
 sku: 'B000C1UBR4-es'
-tags: [ 'Agua de tocador para hombres','Belleza','Fragancias para hombres','Hogar y cocina','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Muñecas bebé','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','Perfumes y fragancias','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','calvin klein', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

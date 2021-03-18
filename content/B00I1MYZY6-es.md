@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I1MYZY6-es EL ACCESORIO ORIGINAL de"BuyAndFeelGood" con EFECTO...'
 sku: 'B00I1MYZY6-es'
-tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

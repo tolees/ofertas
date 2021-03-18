@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TN1DNC2-es Mr. Wonderful Portatodo tucanes-Tropical Vibes Collection...'
 sku: 'B07TN1DNC2-es'
-tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000V9GDL0-es Trixie Champú Neutro Todas Las Razas Suave 1 LTR.'
 sku: 'B000V9GDL0-es'
-tags: [  ]
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

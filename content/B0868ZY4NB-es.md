@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868ZY4NB-es OPPO Find X2 LITE 5G – Pantalla de 6.4" AMOLED 8GB/128GB...'
 sku: 'B0868ZY4NB-es'
-tags: [ 'oppo', ]
 actualPrice: 288.0 EUR
 currency: EUR
 price: 288.0

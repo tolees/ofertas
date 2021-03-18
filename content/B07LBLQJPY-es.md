@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBLQJPY-es Napapijri Nakuro 2 Pantalones Cortos Blanco Bright White...'
 sku: 'B07LBLQJPY-es'
-tags: [  ]
 actualPrice: 20.01 EUR
 currency: EUR
 price: 20.01

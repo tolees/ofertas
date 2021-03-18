@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NN5QF1R-es Pack Vikingos - Temporadas 1-5 [Blu-ray]'
 sku: 'B07NN5QF1R-es'
-tags: [  ]
 actualPrice: 46.19 EUR
 currency: EUR
 price: 46.19

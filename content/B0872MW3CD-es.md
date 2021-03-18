@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872MW3CD-es Funda Transparente Compatible para Xiaomi Mi Note 3...'
 sku: 'B0872MW3CD-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

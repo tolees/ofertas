@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088PHMHSF-es WARMTUYO Smartwatch Reloj Inteligente con Pulsómetro...'
 sku: 'B088PHMHSF-es'
-tags: [  ]
 actualPrice: 33.96 EUR
 currency: EUR
 price: 33.96

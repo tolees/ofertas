@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078M2RMN7-es adidas VL Court 2.0 CMF C Zapatillas de Tenis Unisex Niños...'
 sku: 'B078M2RMN7-es'
-tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

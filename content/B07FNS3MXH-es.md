@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNS3MXH-es Seiko Reloj Cronografo para Hombre de Cuarzo con Correa en...'
 sku: 'B07FNS3MXH-es'
-tags: [  ]
 actualPrice: 218.43 EUR
 currency: EUR
 price: 218.43

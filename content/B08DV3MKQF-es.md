@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DV3MKQF-es moses. - Moses Libri-x - Funda para libro con marcapáginas...'
 sku: 'B08DV3MKQF-es'
-tags: [  ]
 actualPrice: 11.32 EUR
 currency: EUR
 price: 11.32

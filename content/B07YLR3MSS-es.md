@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLR3MSS-es Emporio Armani Reloj Analogico para Hombre de Cuarzo con...'
 sku: 'B07YLR3MSS-es'
-tags: [  ]
 actualPrice: 144.95 EUR
 currency: EUR
 price: 144.95

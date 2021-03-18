@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XRX4NX7-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B06XRX4NX7-es'
-tags: [  ]
 actualPrice: 249.89 EUR
 currency: EUR
 price: 249.89

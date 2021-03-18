@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9NZU2I-es Cecotec Aspirador Trineo Conga Turbociclonic. Aspirador...'
 sku: 'B01N9NZU2I-es'
-tags: [  ]
 actualPrice: 45.1 EUR
 currency: EUR
 price: 45.1

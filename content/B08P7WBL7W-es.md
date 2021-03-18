@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P7WBL7W-es AOSANITY - FFP3 mascarilla de protección de la Salud...'
 sku: 'B08P7WBL7W-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

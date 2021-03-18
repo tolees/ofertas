@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFVTMHX-es Superdry Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07MFVTMHX-es'
-tags: [  ]
 actualPrice: 21.75 EUR
 currency: EUR
 price: 21.75

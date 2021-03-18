@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRBPTFQ-es GANT FOOTWEAR Atlanta Zapatillas para Hombre Azul Marine...'
 sku: 'B07KRBPTFQ-es'
-tags: [  ]
 actualPrice: 62.46 EUR
 currency: EUR
 price: 62.46

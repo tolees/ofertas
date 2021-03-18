@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZ78ZLL-es ieGeek Autoradio Bluetooth Estéreo RDS Soporta 60W X 4...'
 sku: 'B07SZ78ZLL-es'
-tags: [  ]
 actualPrice: 29.96 EUR
 currency: EUR
 price: 29.96

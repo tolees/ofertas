@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVHX58C-es Kipling - Creativity L Monederos Mujer Multicolor Music...'
 sku: 'B07MVHX58C-es'
-tags: [  ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017XHVL5U-es Levi s Circle Buckle Core Cinturón Mujer Marrón Brown 90...'
 sku: 'B017XHVL5U-es'
-tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

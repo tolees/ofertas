@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LKRHW3E-es Habor Termometro de Cocina 5S Lectura Instantánea 4.7"...'
 sku: 'B01LKRHW3E-es'
-tags: [  ]
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

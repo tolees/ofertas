@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NGCJVKP-es Marca Amazon - Solimo Jabón líquido para manos. Fórmula...'
 sku: 'B07NGCJVKP-es'
-tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

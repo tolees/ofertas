@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0776WXBT9-es Adidas Daily 2.0 Zapatillas Hombre Gris Grey/Footwear...'
 sku: 'B0776WXBT9-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

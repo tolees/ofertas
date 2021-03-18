@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4N5M1K-es Tommy Hilfiger Core Corporate Leather Sneaker Zapatillas...'
 sku: 'B07V4N5M1K-es'
-tags: [  ]
 actualPrice: 31.32 EUR
 currency: EUR
 price: 31.32

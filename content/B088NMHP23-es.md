@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088NMHP23-es Google Nest Wifi - Router Mesh 1GB RAM 4GB flash Bluetooth...'
 sku: 'B088NMHP23-es'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

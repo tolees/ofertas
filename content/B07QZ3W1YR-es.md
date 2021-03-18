@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZ3W1YR-es Jané Protect Silla de auto - Nurse'
 sku: 'B07QZ3W1YR-es'
-tags: [  ]
 actualPrice: 88.9 EUR
 currency: EUR
 price: 88.9

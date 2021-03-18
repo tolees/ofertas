@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V8K6LNV-es BOSS Prime Polo Azul Bright Blue 435 Large para Hombre'
 sku: 'B07V8K6LNV-es'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

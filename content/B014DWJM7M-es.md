@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014DWJM7M-es Seiko SNE393P2 - Reloj Analógico de Cuarzo para Hombre con...'
 sku: 'B014DWJM7M-es'
-tags: [  ]
 actualPrice: 118.08 EUR
 currency: EUR
 price: 118.08

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N53XPQ8-es Fluval Flex - Kit de acuario 57L'
 sku: 'B01N53XPQ8-es'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00E6BXEPM-es CAMPER Right Nina CAMPER Schuhe - Ballerinas RIGHT NINA...'
 sku: 'B00E6BXEPM-es'
-tags: [  ]
 actualPrice: 75.84 EUR
 currency: EUR
 price: 75.84

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000C1VXD0-es Guerlain - Eau de Cologne Eau Impériale'
 sku: 'B000C1VXD0-es'
-tags: [  ]
 actualPrice: 48.17 EUR
 currency: EUR
 price: 48.17

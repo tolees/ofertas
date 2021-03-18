@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WSSB952-es Lotus 18119/2 - Reloj para Hombre Cuarzo cronógrafo...'
 sku: 'B00WSSB952-es'
-tags: [  ]
 actualPrice: 81.82 EUR
 currency: EUR
 price: 81.82

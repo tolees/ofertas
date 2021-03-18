@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008KGAJQ6-es Seanergy Crema Corporal 300 ml'
 sku: 'B008KGAJQ6-es'
-tags: [  ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

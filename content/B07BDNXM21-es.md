@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BDNXM21-es American Tourister Sunside Spinner 68 Expandible 3.7 kg...'
 sku: 'B07BDNXM21-es'
-tags: [  ]
 actualPrice: 83.4 EUR
 currency: EUR
 price: 83.4

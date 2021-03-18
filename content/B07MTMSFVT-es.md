@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MTMSFVT-es B&R - Playset Doghouse y 2 Figuras Giochi Preziosi PUY01000'
 sku: 'B07MTMSFVT-es'
-tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

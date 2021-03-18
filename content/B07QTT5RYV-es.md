@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QTT5RYV-es ERIK - Agenda Premium Frida Kahlo 2020 17 meses'
 sku: 'B07QTT5RYV-es'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

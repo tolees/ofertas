@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XG5MNW4-es Funko - Pop! Vinyl: Star Wars - 2PK Han & Leia'
 sku: 'B07XG5MNW4-es'
-tags: [  ]
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00U8SA6NA-es S&M 321771 Regulador de Gas Butano Goma M + 2 Abraz...'
 sku: 'B00U8SA6NA-es'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

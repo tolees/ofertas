@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3ZXLYL-es Edge Entertainment- Bomb Squad - Español Color EETMBS01'
 sku: 'B07H3ZXLYL-es'
-tags: [  ]
 actualPrice: 19.34 EUR
 currency: EUR
 price: 19.34

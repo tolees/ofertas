@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0811YSNB1-es UniqueMe [3 Pack Protector de Pantalla para Huawei Nova 5T...'
 sku: 'B0811YSNB1-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NW5WNTX-es Vernel Perlas Potenciador de Perfume Fresh Joy – Pack de 4...'
 sku: 'B07NW5WNTX-es'
-tags: [  ]
 actualPrice: 19.06 EUR
 currency: EUR
 price: 19.06

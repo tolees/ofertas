@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF74PS1-es Max Power Digital Funda para Xiaomi Mi 9 SE 5.97" con...'
 sku: 'B07VF74PS1-es'
-tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNJ13J1-es ZoneYan Niños Bricolaje Conjunto de Cuentas Niños DIY Set...'
 sku: 'B08DNJ13J1-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

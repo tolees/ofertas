@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4OA55E-es Ivos Suporte Universal de Aluminio para Proyector...'
 sku: 'B01N4OA55E-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

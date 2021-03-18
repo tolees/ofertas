@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872PL8VD-es Funda Transparente Compatible para Huawei P Smart 2019...'
 sku: 'B0872PL8VD-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

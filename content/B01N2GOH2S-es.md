@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2GOH2S-es L Oreal Paris Colorista Coloración Temporal Colorista...'
 sku: 'B01N2GOH2S-es'
-tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

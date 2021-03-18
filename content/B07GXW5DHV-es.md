@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GXW5DHV-es Withings Steel HR Sport - Reloj inteligente híbrido...'
 sku: 'B07GXW5DHV-es'
-tags: [  ]
 actualPrice: 119.92 EUR
 currency: EUR
 price: 119.92

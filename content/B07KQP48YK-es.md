@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQP48YK-es Salomon Trailster GTX W Zapatillas de Trail Running para...'
 sku: 'B07KQP48YK-es'
-tags: [  ]
 actualPrice: 41.84 EUR
 currency: EUR
 price: 41.84

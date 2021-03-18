@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MTZCAC5-es Lacoste Carnaby EVO BL 1 SPM Zapatillas Hombre Blanco...'
 sku: 'B01MTZCAC5-es'
-tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

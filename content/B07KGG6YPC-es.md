@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KGG6YPC-es Chocolates Valor - Valor Cacao Ne gro Soluble 70% - 300 gr'
 sku: 'B07KGG6YPC-es'
-tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

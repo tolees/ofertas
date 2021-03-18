@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00T7BZ8W8-es Schneider Electric PM6U-GR Essential SurgeArrest de APC...'
 sku: 'B00T7BZ8W8-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

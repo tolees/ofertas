@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7RIVTC-es Neutrex Oxy Blanco Puro Quitamanchas sin lejía 840ml'
 sku: 'B01K7RIVTC-es'
-tags: [ 'neutrex', ]
 actualPrice: 1.72 EUR
 currency: EUR
 price: 1.72

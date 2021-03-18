@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q7FZYLJ-es Widamin 2Pack Compatible con Redmi 7 Cristal Templado...'
 sku: 'B07Q7FZYLJ-es'
-tags: [  ]
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K7S3IBW-es Timotei Champú Camomila - 400 ml'
 sku: 'B01K7S3IBW-es'
-tags: [  ]
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

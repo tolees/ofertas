@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YB6NZQS-es Taurus 3 Side Shave afeitadora sin Talla'
 sku: 'B07YB6NZQS-es'
-tags: [  ]
 actualPrice: 24.65 EUR
 currency: EUR
 price: 24.65

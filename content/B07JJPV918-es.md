@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JJPV918-es Warner Bros. Entertainment - Trilogía El Señor De Los...'
 sku: 'B07JJPV918-es'
-tags: [  ]
 actualPrice: 39.05 EUR
 currency: EUR
 price: 39.05

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KRCW6LZ-es TP-LINK Archer T2U Nano Adaptador inalámbrico Nano USB de...'
 sku: 'B07KRCW6LZ-es'
-tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

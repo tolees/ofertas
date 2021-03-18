@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AIIOMAW-es UGG Female Bailey Bow II Classic Boot Chestnut 8 UK'
 sku: 'B01AIIOMAW-es'
-tags: [  ]
 actualPrice: 138.79 EUR
 currency: EUR
 price: 138.79

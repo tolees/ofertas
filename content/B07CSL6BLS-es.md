@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CSL6BLS-es Acabado sal mejor protección de la máquina 3Kg'
 sku: 'B07CSL6BLS-es'
-tags: [  ]
 actualPrice: 6.56 EUR
 currency: EUR
 price: 6.56

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P85RH8W-es Bammax Almohada Plagiocefalia Bebe Almohada Bebe para...'
 sku: 'B07P85RH8W-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG2WZD5-es PUMA CARACAL Zapatillas Unisex Adulto Negro Black White 39 EU'
 sku: 'B07KG2WZD5-es'
-tags: [  ]
 actualPrice: 21.97 EUR
 currency: EUR
 price: 21.97

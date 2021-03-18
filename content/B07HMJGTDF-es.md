@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HMJGTDF-es Nike W Air Zoom Structure 22 Zapatillas de Running para...'
 sku: 'B07HMJGTDF-es'
-tags: [  ]
 actualPrice: 68.8 EUR
 currency: EUR
 price: 68.8

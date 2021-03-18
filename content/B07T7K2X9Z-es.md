@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T7K2X9Z-es Disney - Toy Story 4 [Steelbook] [Blu-ray]'
 sku: 'B07T7K2X9Z-es'
-tags: [  ]
 actualPrice: 18.07 EUR
 currency: EUR
 price: 18.07

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075QH6C5X-es Genossen - Cortador de pizza con forma de motocicleta en...'
 sku: 'B075QH6C5X-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

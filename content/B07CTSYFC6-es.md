@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CTSYFC6-es Skechers Flex Advantage 3.0 Zapatillas Hombre Multicolor...'
 sku: 'B07CTSYFC6-es'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

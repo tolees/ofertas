@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XS7VKFY-es Apple Watch Series 5 GPS + Cellular 44 mm Acero Inoxidable...'
 sku: 'B07XS7VKFY-es'
-tags: [  ]
 actualPrice: 475.71 EUR
 currency: EUR
 price: 475.71

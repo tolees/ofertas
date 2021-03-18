@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003STDR1E-es Logitech M705 Marathon Ratón Inalámbrico 2 4 GHz con Mini...'
 sku: 'B003STDR1E-es'
-tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085YG9PP3-es HR-International - 2 rollos de paño desechable para...'
 sku: 'B085YG9PP3-es'
-tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

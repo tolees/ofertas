@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GVXZV4-es Levi s LEVIS FOOTWEAR AND ACCESSORIESBatwing Tote...'
 sku: 'B077GVXZV4-es'
-tags: [ 'levis', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

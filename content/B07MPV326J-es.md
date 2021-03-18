@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MPV326J-es TEENO Multiherramienta oscilante 300W con 8 acoplamientos...'
 sku: 'B07MPV326J-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

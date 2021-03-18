@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01A9GXMW2-es Logitech M170 Ratón Inalámbrico 2 4 GHz con Nano Receptor...'
 sku: 'B01A9GXMW2-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

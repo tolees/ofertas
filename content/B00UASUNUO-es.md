@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UASUNUO-es Edge Entertainment- Vicios que matan EDGTC10 color/modelo...'
 sku: 'B00UASUNUO-es'
-tags: [  ]
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

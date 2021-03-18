@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVWVXXH-es FITTOO Pantalones Cortos Capris 3/4 Leggings Mujer Mallas...'
 sku: 'B07SVWVXXH-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

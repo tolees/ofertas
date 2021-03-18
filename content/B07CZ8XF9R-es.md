@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZ8XF9R-es Under Armour Playoff 2.0 Polo Hombre Black/Black/Black 002 S'
 sku: 'B07CZ8XF9R-es'
-tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

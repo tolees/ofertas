@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJ14RDG-es GMFINE - Vedio - Convertidor de Tarjeta de Captura de...'
 sku: 'B08VJ14RDG-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

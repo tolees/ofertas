@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KUX5ELQ-es Reebok Cuerda Saltar'
 sku: 'B01KUX5ELQ-es'
-tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

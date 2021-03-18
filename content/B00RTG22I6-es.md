@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RTG22I6-es Grohe Eurodisc - Grifo de lavabo empotrado color cromo L...'
 sku: 'B00RTG22I6-es'
-tags: [  ]
 actualPrice: 204.77 EUR
 currency: EUR
 price: 204.77

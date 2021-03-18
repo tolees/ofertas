@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QJWBNK-es Levi s 502 Taper Jeans Stonewash 95978 32W / 30L para Hombre'
 sku: 'B079QJWBNK-es'
-tags: [  ]
 actualPrice: 64.4 EUR
 currency: EUR
 price: 64.4

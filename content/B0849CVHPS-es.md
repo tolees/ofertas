@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0849CVHPS-es Gigantosaurus'
 sku: 'B0849CVHPS-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

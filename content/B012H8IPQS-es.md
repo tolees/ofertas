@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B012H8IPQS-es Garmin HRM-Tri Monitor de frecuencia cardíaca para...'
 sku: 'B012H8IPQS-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

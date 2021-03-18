@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PVTTST-es Multimetro Digital AoKoZo 21D Automático Polimetro Digital...'
 sku: 'B085PVTTST-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LQVDPD-es Munich G-3 Jeans 124 Zapatillas Unisex Adulto Multicolor...'
 sku: 'B085LQVDPD-es'
-tags: [  ]
 actualPrice: 33.33 EUR
 currency: EUR
 price: 33.33

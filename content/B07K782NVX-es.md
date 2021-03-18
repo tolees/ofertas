@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K782NVX-es Funrise Collectible Character Set Figuras Wonder Park 10...'
 sku: 'B07K782NVX-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

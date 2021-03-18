@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVR9TG7-es TP-Link Archer C6 - AC1200 Router inalámbrico Gigabit WiFi...'
 sku: 'B07GVR9TG7-es'
-tags: [ 'tp-link', ]
 actualPrice: 40.19 EUR
 currency: EUR
 price: 40.19

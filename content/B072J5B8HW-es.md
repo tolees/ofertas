@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072J5B8HW-es Grohe Grohtherm SmartControl - Termostato cuadrado para...'
 sku: 'B072J5B8HW-es'
-tags: [  ]
 actualPrice: 331.21 EUR
 currency: EUR
 price: 331.21

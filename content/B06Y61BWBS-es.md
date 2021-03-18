@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y61BWBS-es Joma Treviso Pantalones Cortos Equipamiento Hombre Azul...'
 sku: 'B06Y61BWBS-es'
-tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

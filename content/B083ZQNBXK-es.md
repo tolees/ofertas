@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083ZQNBXK-es ELEGIANT Aro de Luz Trípode Anillo de Luz LED para Móvil...'
 sku: 'B083ZQNBXK-es'
-tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

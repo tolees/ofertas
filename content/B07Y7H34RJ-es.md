@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7H34RJ-es Gwertipab Manguera de ducha de acero inoxidable 1.5m...'
 sku: 'B07Y7H34RJ-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3VZM9R-es Desigual Scarves TARS Bufanda Blanco Crudo 1001 Talla...'
 sku: 'B07N3VZM9R-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

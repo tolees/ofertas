@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLP9HBP-es TUBBZ Oficial Borderlands 3 Mercancías Tina Figurita...'
 sku: 'B07TLP9HBP-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FFRJ2K2-es CLEOPATRE - Cléopâtre Craft Glue para mayores de 3 años...'
 sku: 'B00FFRJ2K2-es'
-tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

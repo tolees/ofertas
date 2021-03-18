@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007BJEKKE-es BaByliss C325E Tenacilla de pelo de 25 mm 10 ajustes de...'
 sku: 'B007BJEKKE-es'
-tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

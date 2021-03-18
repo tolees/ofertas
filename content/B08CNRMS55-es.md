@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNRMS55-es adidas CB CLX SH SL Bañador Hombre Blanco XS'
 sku: 'B08CNRMS55-es'
-tags: [  ]
 actualPrice: 23.83 EUR
 currency: EUR
 price: 23.83

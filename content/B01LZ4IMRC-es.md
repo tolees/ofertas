@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZ4IMRC-es Chiruca-MANAOS 08 GORE-TEX'
 sku: 'B01LZ4IMRC-es'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

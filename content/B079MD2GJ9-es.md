@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079MD2GJ9-es Salomon XA Pro 3D CSWP Zapatillas Impermeables de Deporte...'
 sku: 'B079MD2GJ9-es'
-tags: [  ]
 actualPrice: 52.47 EUR
 currency: EUR
 price: 52.47

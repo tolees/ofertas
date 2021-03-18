@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y1SFRZB-es Hoonyer Lector de Tarjetas Memoria SD/Micro SD Lector...'
 sku: 'B07Y1SFRZB-es'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

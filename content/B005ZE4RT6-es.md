@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005ZE4RT6-es John Handel Pelota Spiderman Multicolor Globo-50307'
 sku: 'B005ZE4RT6-es'
-tags: [  ]
 actualPrice: 6.43 EUR
 currency: EUR
 price: 6.43

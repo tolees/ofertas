@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R48GSGP-es Farmatint Champú 96.5% ingredientes naturales fortalece y...'
 sku: 'B07R48GSGP-es'
-tags: [  ]
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

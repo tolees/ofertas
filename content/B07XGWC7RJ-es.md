@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XGWC7RJ-es PUMA Teamgoal 23 Knit Shorts Pantalones Cortos Hombre...'
 sku: 'B07XGWC7RJ-es'
-tags: [  ]
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

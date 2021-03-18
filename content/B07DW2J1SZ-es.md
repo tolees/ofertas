@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DW2J1SZ-es VicTsing Transmisor FM Bluetooth Coche Manos Libres...'
 sku: 'B07DW2J1SZ-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

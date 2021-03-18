@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CH8DVHW-es Auxmir Espejo Maquillaje con Luz LED Espejo de Aumento 10X...'
 sku: 'B07CH8DVHW-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

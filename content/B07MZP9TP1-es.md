@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZP9TP1-es Pepe Jeans Lia Pantalones Multi 0aa 36 Talla del...'
 sku: 'B07MZP9TP1-es'
-tags: [  ]
 actualPrice: 31.51 EUR
 currency: EUR
 price: 31.51

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009LB7VOW-es BRITA MAXTRA+ – Pack 6 filtros para el agua Cartuchos...'
 sku: 'B009LB7VOW-es'
-tags: [  ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

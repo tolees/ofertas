@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N16CHNU-es Dickies Slim Fit Work Pantalones Cortos para Hombre Azul...'
 sku: 'B01N16CHNU-es'
-tags: [  ]
 actualPrice: 16.26 EUR
 currency: EUR
 price: 16.26

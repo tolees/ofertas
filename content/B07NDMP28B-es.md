@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDMP28B-es G-STAR RAW Xpo Raincoat Impermeable Azul Mazarine Blue...'
 sku: 'B07NDMP28B-es'
-tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

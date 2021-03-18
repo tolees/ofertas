@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E4KYTHW-es Neutro Roberts - Jabón líquido antibacteriano'
 sku: 'B00E4KYTHW-es'
-tags: [  ]
 actualPrice: 7.02 EUR
 currency: EUR
 price: 7.02

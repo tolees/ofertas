@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087TL8X1X-es Maison d Hermine - Toalla de cocina suave y absorbente 100...'
 sku: 'B087TL8X1X-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

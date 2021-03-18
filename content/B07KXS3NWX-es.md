@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXS3NWX-es P Prettyia 1 Juego de Tornillos Accesorios de Fotografía...'
 sku: 'B07KXS3NWX-es'
-tags: [  ]
 actualPrice: 8.03 EUR
 currency: EUR
 price: 8.03

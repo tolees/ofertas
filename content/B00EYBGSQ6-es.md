@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EYBGSQ6-es Invicta'
 sku: 'B00EYBGSQ6-es'
-tags: [  ]
 actualPrice: 31.25 EUR
 currency: EUR
 price: 31.25

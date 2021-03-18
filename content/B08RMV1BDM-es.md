@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RMV1BDM-es ujjaychoouu - Auriculares inalámbricos Bluetooth 5.0 con...'
 sku: 'B08RMV1BDM-es'
-tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

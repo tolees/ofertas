@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SIQLUW-es TRIXIE Reno Peluche 23 cm Sonido Perro'
 sku: 'B000SIQLUW-es'
-tags: [ 'trixie', ]
 actualPrice: 6.71 EUR
 currency: EUR
 price: 6.71

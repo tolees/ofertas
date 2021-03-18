@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MFZHDWX-es GANT Hampton Botas Chelsea para Mujer Marrón Dark Brown...'
 sku: 'B07MFZHDWX-es'
-tags: [  ]
 actualPrice: 77.88 EUR
 currency: EUR
 price: 77.88

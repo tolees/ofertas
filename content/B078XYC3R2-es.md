@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078XYC3R2-es THQ Nordic - The Raven Remastered'
 sku: 'B078XYC3R2-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

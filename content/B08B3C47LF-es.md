@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B3C47LF-es UNITED COLORS OF BENETTON. Albornoz m/l 360gsm 100%...'
 sku: 'B08B3C47LF-es'
-tags: [  ]
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

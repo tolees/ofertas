@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073CWHHQY-es Oral-B 2950N Pro 2 - Cepillo de dientes eléctrico...'
 sku: 'B073CWHHQY-es'
-tags: [ 'Cepillos de dientes eléctricos','Cepillos de dientes eléctricos de rotación','Cepillos de dientes eléctricos y accesorios','Cepillos de dientes y accesorios','Cuidado bucal','Salud y cuidado personal','oral-b', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LXCYQLR-es Brabantia 112126 Cubo de Basura con Pedal Acero Inoxidable...'
 sku: 'B01LXCYQLR-es'
-tags: [  ]
 actualPrice: 14.84 EUR
 currency: EUR
 price: 14.84

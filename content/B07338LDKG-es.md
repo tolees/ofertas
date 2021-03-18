@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07338LDKG-es Logitech G903 Lightspeed Wireless Gaming Mouse 12.000 dpi...'
 sku: 'B07338LDKG-es'
-tags: [  ]
 actualPrice: 119.96 EUR
 currency: EUR
 price: 119.96

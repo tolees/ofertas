@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084DTL95J-es Cartera Caballero en Piel napa'
 sku: 'B084DTL95J-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

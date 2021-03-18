@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019G9DR5A-es Bond Pack 24 Dvd Col.Completa Incluye Spectre'
 sku: 'B019G9DR5A-es'
-tags: [  ]
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

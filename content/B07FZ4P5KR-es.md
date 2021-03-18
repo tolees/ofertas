@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FZ4P5KR-es tado° Cabezal Termostático Inteligente - Pack Duo...'
 sku: 'B07FZ4P5KR-es'
-tags: [  ]
 actualPrice: 103.7 EUR
 currency: EUR
 price: 103.7

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QB66FL-es Sanfor Pomo olla adaptable a magefesa tradicional con...'
 sku: 'B077QB66FL-es'
-tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B27FR4P-es Mr. Wonderful Woa08925es Neceser'
 sku: 'B07B27FR4P-es'
-tags: [ 'mr. wonderful', ]
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

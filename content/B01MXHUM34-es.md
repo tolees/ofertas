@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXHUM34-es Under Armour Rival Fitted Tapered Jogger Pantalones Hombre...'
 sku: 'B01MXHUM34-es'
-tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

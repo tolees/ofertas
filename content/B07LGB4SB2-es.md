@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LGB4SB2-es Skechers Summits Zapatillas Mujer Multicolor NVLB Black...'
 sku: 'B07LGB4SB2-es'
-tags: [  ]
 actualPrice: 36.6 EUR
 currency: EUR
 price: 36.6

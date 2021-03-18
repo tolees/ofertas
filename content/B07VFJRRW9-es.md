@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VFJRRW9-es Skechers Arch FIT Zapatillas para Hombre Negro Negro Negro...'
 sku: 'B07VFJRRW9-es'
-tags: [  ]
 actualPrice: 38.73 EUR
 currency: EUR
 price: 38.73

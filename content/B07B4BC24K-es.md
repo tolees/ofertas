@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B4BC24K-es LACTACYD Gel de Higiene Íntima Pediátrico para Niñas a...'
 sku: 'B07B4BC24K-es'
-tags: [  ]
 actualPrice: 6.56 EUR
 currency: EUR
 price: 6.56

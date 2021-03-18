@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TJSCD9-es Lacoste Court-Drive 0120 1 SFA Zapatillas Mujer Wht Dk Grn...'
 sku: 'B082TJSCD9-es'
-tags: [  ]
 actualPrice: 74.12 EUR
 currency: EUR
 price: 74.12

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T7NL4DC-es Uverbon Esterillas Inflables Esterilla Acampada Camping...'
 sku: 'B07T7NL4DC-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EZ0X55C-es SanDisk Memoria Flash USB 128 GB para tu smartphone...'
 sku: 'B01EZ0X55C-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

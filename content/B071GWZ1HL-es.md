@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071GWZ1HL-es TRIXIE Torre Círculo de juego Plástico ø25 cm/13 cm Gato'
 sku: 'B071GWZ1HL-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYMK77Y-es Apple AirPods con estuche de carga con cable'
 sku: 'B07PYMK77Y-es'
-tags: [ 'apple', ]
 actualPrice: 124.97 EUR
 currency: EUR
 price: 124.97

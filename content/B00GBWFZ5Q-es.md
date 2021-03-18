@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GBWFZ5Q-es Hama Classic - Linterna Linterna con cinta para cabeza...'
 sku: 'B00GBWFZ5Q-es'
-tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

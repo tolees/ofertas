@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NH8VC-es Quiksilver Everyday Lightning 17" - Boardshorts para...'
 sku: 'B0825NH8VC-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

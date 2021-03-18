@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PCS4MP5-es Fajiabao - Juegos Jardin Set de Béisbol para Niños con...'
 sku: 'B08PCS4MP5-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

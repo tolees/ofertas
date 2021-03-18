@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RR48ZV5-es Tommy Hilfiger - Th Nylon Tote Bolsos totes Mujer Negro...'
 sku: 'B07RR48ZV5-es'
-tags: [  ]
 actualPrice: 42.91 EUR
 currency: EUR
 price: 42.91

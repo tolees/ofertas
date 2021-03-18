@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M4LCLK3-es Neutrogena Hydro Boost Crema Gel Hidratante 50 ml'
 sku: 'B01M4LCLK3-es'
-tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

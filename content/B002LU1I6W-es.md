@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002LU1I6W-es Lacoste L1312 Polo Blanco Blanc S Talla del fabricante: 3...'
 sku: 'B002LU1I6W-es'
-tags: [  ]
 actualPrice: 51.49 EUR
 currency: EUR
 price: 51.49

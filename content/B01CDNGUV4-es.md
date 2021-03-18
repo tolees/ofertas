@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CDNGUV4-es Rowenta CF3710F0 Expertise So Curls Rizador automático...'
 sku: 'B01CDNGUV4-es'
-tags: [  ]
 actualPrice: 75.32 EUR
 currency: EUR
 price: 75.32

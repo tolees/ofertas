@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q57V9FJ-es LG gram 14Z990-V - Ordenador portátil ultrafino - 35.5 cm...'
 sku: 'B07Q57V9FJ-es'
-tags: [  ]
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

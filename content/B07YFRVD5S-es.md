@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFRVD5S-es Safta Star Wars Astro - Portaflautas 370x20x80mm'
 sku: 'B07YFRVD5S-es'
-tags: [  ]
 actualPrice: 2.53 EUR
 currency: EUR
 price: 2.53

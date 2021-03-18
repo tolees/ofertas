@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VXQG46W-es Samsung Galaxy Note10+ SM-N975F - Smartphone Dual SIM 12...'
 sku: 'B07VXQG46W-es'
-tags: [  ]
 actualPrice: 719.0 EUR
 currency: EUR
 price: 719.0

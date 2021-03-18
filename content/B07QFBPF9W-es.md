@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFBPF9W-es Puma ESS Logo Pants FL Cl Chándal Hombre Gibraltar Sea XXL'
 sku: 'B07QFBPF9W-es'
-tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PHFPGHV-es Baby Monitor Nooie Telecamera di Sorveglianza WiFi FHD...'
 sku: 'B07PHFPGHV-es'
-tags: [  ]
 actualPrice: 29.23 EUR
 currency: EUR
 price: 29.23

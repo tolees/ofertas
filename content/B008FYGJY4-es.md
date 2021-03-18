@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008FYGJY4-es Calvin Klein Reloj Analógico de Cuarzo para Hombre con...'
 sku: 'B008FYGJY4-es'
-tags: [  ]
 actualPrice: 101.69 EUR
 currency: EUR
 price: 101.69

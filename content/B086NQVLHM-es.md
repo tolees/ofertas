@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086NQVLHM-es ROCKSPRINT | PROTEÍNA DE SUERO DE LECHE | Con Caseína y...'
 sku: 'B086NQVLHM-es'
-tags: [  ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

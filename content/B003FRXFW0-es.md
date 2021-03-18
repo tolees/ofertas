@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003FRXFW0-es Logitech H110 Auriculares con Cable Sonido Estéreo con...'
 sku: 'B003FRXFW0-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

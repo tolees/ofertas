@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH23P7K-es G-STAR RAW Premium Basic Type C Sweat Pant Pantalones de...'
 sku: 'B07RH23P7K-es'
-tags: [  ]
 actualPrice: 40.04 EUR
 currency: EUR
 price: 40.04

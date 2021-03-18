@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01C8ONNSG-es Pikolin Home - Edredón/Relleno nórdico de fibra antiácaros...'
 sku: 'B01C8ONNSG-es'
-tags: [  ]
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

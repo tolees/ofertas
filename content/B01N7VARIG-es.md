@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7VARIG-es Belkin soporte para rejilla de ventilación de coche iPhone...'
 sku: 'B01N7VARIG-es'
-tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

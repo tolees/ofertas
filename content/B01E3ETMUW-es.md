@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01E3ETMUW-es Maybelline New York Máscara de Pestañas Volumen Lash...'
 sku: 'B01E3ETMUW-es'
-tags: [  ]
 actualPrice: 7.41 EUR
 currency: EUR
 price: 7.41

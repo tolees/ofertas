@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B4BSX7K-es Science4you-La Ciencia de Los Inventos Juguete Científico...'
 sku: 'B07B4BSX7K-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3WNJFN-es Kit Slackline Completo - Kit de Principiante con...'
 sku: 'B01M3WNJFN-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

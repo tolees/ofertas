@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RK6S79T-es Jeerhope Cable USB Tipo C USB C [3PACK 1M+1.5M+1.8M] Nylon...'
 sku: 'B07RK6S79T-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

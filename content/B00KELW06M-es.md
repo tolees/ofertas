@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KELW06M-es Elbe Socket para Mesa Empotrado con Interruptor Enchufe...'
 sku: 'B00KELW06M-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

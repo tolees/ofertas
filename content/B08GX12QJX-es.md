@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GX12QJX-es OPPO - Altavoz – Hasta 8 horas de reproducción Bluetooth...'
 sku: 'B08GX12QJX-es'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G12NGSL-es LangPlus+ - Luces de Cadena 49Ft/15M Impermeable IP65 S14...'
 sku: 'B08G12NGSL-es'
-tags: [  ]
 actualPrice: 22.07 EUR
 currency: EUR
 price: 22.07

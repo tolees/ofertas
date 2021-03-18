@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNPHYQT-es ZHENROG Electroestimulador Muscular Abdominales Masajeador...'
 sku: 'B07NNPHYQT-es'
-tags: [  ]
 actualPrice: 33.9 EUR
 currency: EUR
 price: 33.9

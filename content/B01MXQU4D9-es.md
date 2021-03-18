@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MXQU4D9-es Tommy Hilfiger K1285esha 6d Zapatillas para Mujer Azul...'
 sku: 'B01MXQU4D9-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

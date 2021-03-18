@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FLT1PBG-es CYBEX Gold Capazo S Scuderia Ferrari desde el nacimiento...'
 sku: 'B07FLT1PBG-es'
-tags: [  ]
 actualPrice: 130.9 EUR
 currency: EUR
 price: 130.9

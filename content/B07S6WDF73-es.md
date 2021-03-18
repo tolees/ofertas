@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S6WDF73-es Disney - Aladdín [DVD]'
 sku: 'B07S6WDF73-es'
-tags: [ 'disney', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

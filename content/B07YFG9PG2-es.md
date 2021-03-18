@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFG9PG2-es WD BLACK - WD BLACK P50 Game Drive de 2 TB - Velocidades...'
 sku: 'B07YFG9PG2-es'
-tags: [  ]
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

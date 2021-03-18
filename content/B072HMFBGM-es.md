@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072HMFBGM-es Ferplast Espaciosa Jaula para Canarios periquitos y...'
 sku: 'B072HMFBGM-es'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FS9YFK-es BRIKSMAX Kit de Iluminación Led para Lego Star Wars Halcón...'
 sku: 'B083FS9YFK-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

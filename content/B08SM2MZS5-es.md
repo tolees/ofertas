@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SM2MZS5-es Vbestlife Laptop Notebook Silver EZbook RAM: 6GB DDR4 ROM:...'
 sku: 'B08SM2MZS5-es'
-tags: [  ]
 actualPrice: 263.09 EUR
 currency: EUR
 price: 263.09

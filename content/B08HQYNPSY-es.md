@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HQYNPSY-es Sharp HT-SB107 2.0 Barra de Sonido Cine en casa Bluetooth...'
 sku: 'B08HQYNPSY-es'
-tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

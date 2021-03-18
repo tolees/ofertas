@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KQTT7T6-es Yadelai - Reloj Digital para Niña Niño Chicos Chicas 50M...'
 sku: 'B07KQTT7T6-es'
-tags: [  ]
 actualPrice: 8.71 EUR
 currency: EUR
 price: 8.71

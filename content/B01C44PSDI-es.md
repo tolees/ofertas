@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01C44PSDI-es Plameca - Policol One 30 Cápsulas Vegetales'
 sku: 'B01C44PSDI-es'
-tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

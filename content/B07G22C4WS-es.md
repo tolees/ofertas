@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G22C4WS-es Naipo Masajeador de Cuello y De Vuelta con Masaje de...'
 sku: 'B07G22C4WS-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

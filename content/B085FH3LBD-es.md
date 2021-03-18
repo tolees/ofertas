@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085FH3LBD-es Samsung EVO Select 64 GB microSD 100 MB/s Velocidad Full...'
 sku: 'B085FH3LBD-es'
-tags: [  ]
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

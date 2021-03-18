@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088H78PZM-es ANLAN Peeling Ultrasónico Facial Skin Scrubber con USB...'
 sku: 'B088H78PZM-es'
-tags: [  ]
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

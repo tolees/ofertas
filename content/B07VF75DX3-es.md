@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF75DX3-es Max Power Digital Funda para Xiaomi Mi 9T / Xiaomi Mi 9T...'
 sku: 'B07VF75DX3-es'
-tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C4SQ3SB-es Tanbaby - Luz Armario 40 LED USB Recargable Luces LED...'
 sku: 'B08C4SQ3SB-es'
-tags: [  ]
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

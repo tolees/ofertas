@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H6BTLFT-es Beurer MG-320 - Funda a siento Masaje Shiatsu color gris'
 sku: 'B07H6BTLFT-es'
-tags: [  ]
 actualPrice: 171.82 EUR
 currency: EUR
 price: 171.82

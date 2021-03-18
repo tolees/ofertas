@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JPGRX2X-es VSADEY Aceites Esenciales Aromaterapia Aceites Esenciales...'
 sku: 'B07JPGRX2X-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

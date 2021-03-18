@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QBNRT6V-es ikeepi Corrector de Postura para Hombres/Mujeres M-2 XL...'
 sku: 'B07QBNRT6V-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

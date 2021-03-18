@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCMZ28Q-es Yigou Riñonera Deportiva Riñonera Cinturón Running...'
 sku: 'B07ZCMZ28Q-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

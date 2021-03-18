@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W36P1WP-es Skechers Flex Appeal 3.0-Quick Voyage Zapatillas sin...'
 sku: 'B07W36P1WP-es'
-tags: [  ]
 actualPrice: 32.84 EUR
 currency: EUR
 price: 32.84

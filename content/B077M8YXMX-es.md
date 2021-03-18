@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077M8YXMX-es PUMA SMASH V2 L Zapatillas Unisex-Adulto Blanco White...'
 sku: 'B077M8YXMX-es'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

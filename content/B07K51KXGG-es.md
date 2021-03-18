@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K51KXGG-es adidas Handball Spezial Sneaker Mens Collegiate Navy/Clear...'
 sku: 'B07K51KXGG-es'
-tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

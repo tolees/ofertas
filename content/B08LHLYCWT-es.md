@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LHLYCWT-es Xiaomi Mi LCD Writing Tablet 13.5"'
 sku: 'B08LHLYCWT-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

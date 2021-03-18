@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FTBZSN6-es Zoeley Anillo de luz LED Aro de Luz y Trípode 3 Colores...'
 sku: 'B08FTBZSN6-es'
-tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

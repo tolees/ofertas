@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LXUXDMC-es Hero Muesly Energia Barritas de Chocolate Pack de 6 x 25 g'
 sku: 'B01LXUXDMC-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

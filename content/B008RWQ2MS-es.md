@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008RWQ2MS-es Aphro Celina® PESTAÑAS SUERO - para el crecimiento activo...'
 sku: 'B008RWQ2MS-es'
-tags: [  ]
 actualPrice: 24.73 EUR
 currency: EUR
 price: 24.73

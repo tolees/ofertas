@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EODEPC2-es Oral-B Stages Power Kids Cepillo eléctrico niños...'
 sku: 'B01EODEPC2-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

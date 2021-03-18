@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TS8LQBP-es Funko- Pop Animation: Evangelion-Shinji Ikari Neon Genesis...'
 sku: 'B07TS8LQBP-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

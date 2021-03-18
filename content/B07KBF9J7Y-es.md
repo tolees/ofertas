@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KBF9J7Y-es Tommee Tippee Sangenic Recambios Sistema avanzado para...'
 sku: 'B07KBF9J7Y-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

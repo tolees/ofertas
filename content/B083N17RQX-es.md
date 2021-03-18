@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083N17RQX-es Disney - Terminator: Destino Oscuro [Blu-ray]'
 sku: 'B083N17RQX-es'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

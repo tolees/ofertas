@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083THLXGB-es DPG Lighting Apliques de Pared de Hexagonal Nido de Abejas...'
 sku: 'B083THLXGB-es'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

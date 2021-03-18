@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KR91V3C-es New Balance 997h Zapatillas para Hombre Negro Black/White...'
 sku: 'B07KR91V3C-es'
-tags: [  ]
 actualPrice: 41.68 EUR
 currency: EUR
 price: 41.68

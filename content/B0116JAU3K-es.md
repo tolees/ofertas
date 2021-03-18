@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0116JAU3K-es Thermaltake Riing 14 LED - Ventilador de 140 mm Color Naranja'
 sku: 'B0116JAU3K-es'
-tags: [  ]
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

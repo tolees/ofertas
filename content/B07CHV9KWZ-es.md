@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHV9KWZ-es Levi s Graphic Sport Capucha Blanco Housemark Hoodie White...'
 sku: 'B07CHV9KWZ-es'
-tags: [  ]
 actualPrice: 37.18 EUR
 currency: EUR
 price: 37.18

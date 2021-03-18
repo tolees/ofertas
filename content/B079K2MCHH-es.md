@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079K2MCHH-es Rimmel London Match Perfection Foundation Base de...'
 sku: 'B079K2MCHH-es'
-tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

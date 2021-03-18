@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6JQ49C-es B Blesiya Unidad de Disquete SSD USB Tornillos...'
 sku: 'B07L6JQ49C-es'
-tags: [  ]
 actualPrice: 21.61 EUR
 currency: EUR
 price: 21.61

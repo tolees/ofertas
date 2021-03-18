@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCXBLFB-es Koch Media - Dirt 5 - Edición Exclusiva Amazon'
 sku: 'B08FCXBLFB-es'
-tags: [  ]
 actualPrice: 35.94 EUR
 currency: EUR
 price: 35.94

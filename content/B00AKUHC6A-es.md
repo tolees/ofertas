@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AKUHC6A-es Sony RF MDR-RF855RK - Auriculares De Diadema Cerrados Para...'
 sku: 'B00AKUHC6A-es'
-tags: [  ]
 actualPrice: 62.19 EUR
 currency: EUR
 price: 62.19

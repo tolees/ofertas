@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F6VHDCB-es Salomon Trailblazer 20 Mochilla 20L Unisexo Trail Running...'
 sku: 'B07F6VHDCB-es'
-tags: [  ]
 actualPrice: 44.4 EUR
 currency: EUR
 price: 44.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S5BVHL8-es Nene Toys - Juguete Educativo para Niños y Niñas de 2 3 4...'
 sku: 'B07S5BVHL8-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSH6MT3-es BESTBOMG Plancha de pelo barba flequillo para Los hombres...'
 sku: 'B07TSH6MT3-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

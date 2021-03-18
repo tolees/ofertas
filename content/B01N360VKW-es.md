@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N360VKW-es Mesa de Camping Plegable Ultra-Ligera aleación de Aluminio...'
 sku: 'B01N360VKW-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

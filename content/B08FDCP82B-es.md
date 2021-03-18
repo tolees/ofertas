@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FDCP82B-es Enotepad LCD Writing Tablet Blue LCD Writing Tablets for...'
 sku: 'B08FDCP82B-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PA0ABUO-es American Crew Cera Liquida Fijación Media y Brillo Medio...'
 sku: 'B00PA0ABUO-es'
-tags: [  ]
 actualPrice: 6.87 EUR
 currency: EUR
 price: 6.87

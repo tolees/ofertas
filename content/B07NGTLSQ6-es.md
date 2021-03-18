@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGTLSQ6-es Primigi Gore-Tex PPT 43930 Botas Clasicas para Niños Negro...'
 sku: 'B07NGTLSQ6-es'
-tags: [  ]
 actualPrice: 19.48 EUR
 currency: EUR
 price: 19.48

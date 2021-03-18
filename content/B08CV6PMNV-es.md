@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CV6PMNV-es Monitor Portátil 15 6" Eviciv Monitor Portatil USB C...'
 sku: 'B08CV6PMNV-es'
-tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

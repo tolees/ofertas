@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Y69P6KF-es NOUVOMEUBLE - Mueble grande para TV industrial en color...'
 sku: 'B08Y69P6KF-es'
-tags: [  ]
 actualPrice: 1232.48 EUR
 currency: EUR
 price: 1232.48

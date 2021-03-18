@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CLPCKWG-es Nobunaga s Ambition : Taishi'
 sku: 'B07CLPCKWG-es'
-tags: [  ]
 actualPrice: 9.1 EUR
 currency: EUR
 price: 9.1

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TZ4FYS-es TONGJI Vitrina de Acrílico Compatible con Lego 21317 Ideas...'
 sku: 'B083TZ4FYS-es'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

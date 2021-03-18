@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ULNHS9M-es Samsonite S Cure Spinner S - Maleta de equipaje S 55 cm -...'
 sku: 'B00ULNHS9M-es'
-tags: [  ]
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

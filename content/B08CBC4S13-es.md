@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBC4S13-es LEMON CLOUD Vinilo para Cristales Vinilo Opaco para...'
 sku: 'B08CBC4S13-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

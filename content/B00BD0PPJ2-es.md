@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BD0PPJ2-es BRA Terra - Sartén Grill asador Liso 22 cm Aluminio...'
 sku: 'B00BD0PPJ2-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

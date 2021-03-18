@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SM895KV-es Funko- Pop Star Wars The Rise of Skywalker-Kylo REN Lights...'
 sku: 'B07SM895KV-es'
-tags: [  ]
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

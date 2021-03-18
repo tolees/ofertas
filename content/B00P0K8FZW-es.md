@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00P0K8FZW-es Nerf - Zombie Strike Flipfury Hasbro A9603EU4'
 sku: 'B00P0K8FZW-es'
-tags: [  ]
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GQ1Y7AU-es DAEN Crema Depilatoria 1 Unidad 430 g'
 sku: 'B01GQ1Y7AU-es'
-tags: [  ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

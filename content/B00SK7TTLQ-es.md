@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SK7TTLQ-es Hot Chocolate Design Chocolaticas Doris Tacon Mary Jane...'
 sku: 'B00SK7TTLQ-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

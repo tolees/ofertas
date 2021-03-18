@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009HP23MW-es Bizak- Mentiroso Juego de mesa 61924545'
 sku: 'B009HP23MW-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

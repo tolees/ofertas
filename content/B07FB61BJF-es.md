@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FB61BJF-es Yosoy - Bebida de Avena - Caja de 8 packs de 3x250ml'
 sku: 'B07FB61BJF-es'
-tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

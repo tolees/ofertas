@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GD8ZZ35-es Emporio Armani ART5011 reloj inteligente Black - Relojes...'
 sku: 'B07GD8ZZ35-es'
-tags: [  ]
 actualPrice: 183.8 EUR
 currency: EUR
 price: 183.8

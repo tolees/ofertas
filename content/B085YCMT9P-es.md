@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085YCMT9P-es YAMAMAY® Bralette with bow - Charlize'
 sku: 'B085YCMT9P-es'
-tags: [  ]
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01F5K6SIM-es Nixon Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B01F5K6SIM-es'
-tags: [  ]
 actualPrice: 67.04 EUR
 currency: EUR
 price: 67.04

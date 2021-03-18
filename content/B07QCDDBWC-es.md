@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QCDDBWC-es Pinypon Cool Caravan - Set de Juguete y Accesorios...'
 sku: 'B07QCDDBWC-es'
-tags: [  ]
 actualPrice: 36.67 EUR
 currency: EUR
 price: 36.67

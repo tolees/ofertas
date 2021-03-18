@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HMHJRJ2-es Easton Marlowe 6 PR Calcetines Estampados Hombre Argyle -...'
 sku: 'B07HMHJRJ2-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

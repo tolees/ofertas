@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868N9HDP-es Suhctup Transparente Funda Compatible con OnePlus 5...'
 sku: 'B0868N9HDP-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

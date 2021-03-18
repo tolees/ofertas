@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076KLW9B7-es Tuc Tuc Stories - Portachupetes'
 sku: 'B076KLW9B7-es'
-tags: [  ]
 actualPrice: 7.77 EUR
 currency: EUR
 price: 7.77

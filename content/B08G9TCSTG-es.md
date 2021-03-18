@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G9TCSTG-es RELEVO 100% Reciclado Bolsas de Basura extra resistentes...'
 sku: 'B08G9TCSTG-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

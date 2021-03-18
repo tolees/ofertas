@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WR4HGAE-es L Oréal Paris 24H Mate Base Maquillaje Matificante Larga...'
 sku: 'B00WR4HGAE-es'
-tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

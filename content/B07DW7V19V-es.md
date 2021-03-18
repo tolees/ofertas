@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DW7V19V-es LE COQ SPORTIF Flag Zapatillas para Hombre Azul Dress Blue...'
 sku: 'B07DW7V19V-es'
-tags: [  ]
 actualPrice: 26.97 EUR
 currency: EUR
 price: 26.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WWDGV4-es Cartridgeify 603XL Compatible con Epson 603 603XL Cartucho...'
 sku: 'B082WWDGV4-es'
-tags: [  ]
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

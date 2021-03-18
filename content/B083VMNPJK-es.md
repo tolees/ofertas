@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083VMNPJK-es Sony - Dreams'
 sku: 'B083VMNPJK-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

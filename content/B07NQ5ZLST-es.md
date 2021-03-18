@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQ5ZLST-es Kinder Fluff Parasol para Parabrisas de Coche 210T...'
 sku: 'B07NQ5ZLST-es'
-tags: [  ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

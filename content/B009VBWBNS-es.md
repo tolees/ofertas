@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009VBWBNS-es Superga 2750 Cotu Classic Zapatillas Unisex Verde C60...'
 sku: 'B009VBWBNS-es'
-tags: [  ]
 actualPrice: 25.27 EUR
 currency: EUR
 price: 25.27

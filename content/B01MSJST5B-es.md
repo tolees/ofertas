@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MSJST5B-es CHOYA Vino De Arroz Japonés Choya Sake Bebida Alcohólica...'
 sku: 'B01MSJST5B-es'
-tags: [  ]
 actualPrice: 7.68 EUR
 currency: EUR
 price: 7.68

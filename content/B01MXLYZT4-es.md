@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MXLYZT4-es Orbegozo FH 5129 Calefactor Compacto 2 Niveles de Potencia...'
 sku: 'B01MXLYZT4-es'
-tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

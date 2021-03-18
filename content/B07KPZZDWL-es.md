@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPZZDWL-es Helly Hansen Transat Polo Hombre Alert Red S'
 sku: 'B07KPZZDWL-es'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

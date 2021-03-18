@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HWYRCGG-es Vodafone TCLMOVE V-Kids Watch Reloj Inteligente para niños...'
 sku: 'B07HWYRCGG-es'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

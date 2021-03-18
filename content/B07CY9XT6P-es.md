@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CY9XT6P-es Tenda Nova Mw3 Mesh - AC1200 Router Sistema Wifi De Red En...'
 sku: 'B07CY9XT6P-es'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

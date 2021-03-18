@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074H5DJ6F-es Well Love Juguetes para perro juguetes para masticar...'
 sku: 'B074H5DJ6F-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

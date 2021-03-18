@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQHJPKZ-es AngLink Encendedor Electrico USB Encendedor Recargable con...'
 sku: 'B07JQHJPKZ-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

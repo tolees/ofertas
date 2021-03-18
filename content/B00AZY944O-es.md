@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AZY944O-es BLACK+DECKER FSM1630-QS - Mopa a vapor 1600W 500 ml...'
 sku: 'B00AZY944O-es'
-tags: [  ]
 actualPrice: 108.0 EUR
 currency: EUR
 price: 108.0

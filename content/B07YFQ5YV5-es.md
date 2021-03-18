@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFQ5YV5-es NIKE Court Borough Low 2 Zapatillas Blanco White/White-...'
 sku: 'B07YFQ5YV5-es'
-tags: [  ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

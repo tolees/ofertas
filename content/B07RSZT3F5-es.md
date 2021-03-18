@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RSZT3F5-es Prosperplast ZA852 - Juego de 3 Cubos de Reciclaje...'
 sku: 'B07RSZT3F5-es'
-tags: [  ]
 actualPrice: 21.63 EUR
 currency: EUR
 price: 21.63

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0812GY4BH-es Asics Gel-Kayano 5 360 Running Shoe Hombre Negro 44.5 EU'
 sku: 'B0812GY4BH-es'
-tags: [  ]
 actualPrice: 103.98 EUR
 currency: EUR
 price: 103.98

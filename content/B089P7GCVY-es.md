@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089P7GCVY-es Maxi-Cosi Tanza Silla coche grupo 2/3 isofix para niños 3...'
 sku: 'B089P7GCVY-es'
-tags: [  ]
 actualPrice: 109.8 EUR
 currency: EUR
 price: 109.8

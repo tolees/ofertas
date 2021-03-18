@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QF7RTW-es adidas X GHOSTED.4 FxG Zapatillas de fútbol Hombre...'
 sku: 'B089QF7RTW-es'
-tags: [  ]
 actualPrice: 30.36 EUR
 currency: EUR
 price: 30.36

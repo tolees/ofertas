@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RJQ635B-es PTHTECHUS Bola Voladora RC Flying Juguetes Built-in...'
 sku: 'B07RJQ635B-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

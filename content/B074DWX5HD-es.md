@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074DWX5HD-es Lorus Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B074DWX5HD-es'
-tags: [  ]
 actualPrice: 44.93 EUR
 currency: EUR
 price: 44.93

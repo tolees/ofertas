@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089DZYP1B-es Fular Portabebe Newlemo Portabebes - Hecho de Tela Suave y...'
 sku: 'B089DZYP1B-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

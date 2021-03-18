@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NX4YC9K-es Caja de Música de Manivela de Madera Caja Musical Tallada...'
 sku: 'B08NX4YC9K-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

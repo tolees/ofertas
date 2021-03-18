@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0030BQ4LU-es Calvin Klein Hombre - Pack de 3 bóxers de tiro medio -...'
 sku: 'B0030BQ4LU-es'
-tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

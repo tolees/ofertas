@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F5H6W5N-es Salley Capturadora de Video HDMI 4K HDMI a USB 2.0...'
 sku: 'B08F5H6W5N-es'
-tags: [  ]
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

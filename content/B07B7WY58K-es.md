@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B7WY58K-es Enso Heart Carteron-Mochila para Portátil 13 3" Multicolor...'
 sku: 'B07B7WY58K-es'
-tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

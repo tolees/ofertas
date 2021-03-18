@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JWV87DB-es Columbia Heavenly Omni-Heat Botas de Invierno para Mujer...'
 sku: 'B07JWV87DB-es'
-tags: [  ]
 actualPrice: 30.18 EUR
 currency: EUR
 price: 30.18

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGFZ2BF-es PUMA Ribbed Classic Beanie Gorro Unisex Adulto Jaffa Orange'
 sku: 'B07QGFZ2BF-es'
-tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

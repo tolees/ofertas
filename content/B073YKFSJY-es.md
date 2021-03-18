@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073YKFSJY-es Russell Hobbs Luna Moonlight - Tostadora 1 Ranura Larga...'
 sku: 'B073YKFSJY-es'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

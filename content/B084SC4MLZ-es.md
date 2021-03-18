@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084SC4MLZ-es Dragon Ball Kame-Carpeta Anillas'
 sku: 'B084SC4MLZ-es'
-tags: [  ]
 actualPrice: 4.15 EUR
 currency: EUR
 price: 4.15

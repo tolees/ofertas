@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D67PURG-es TRANGO Zayo FI Pantalones Largos Hombre Verde Cala /...'
 sku: 'B01D67PURG-es'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

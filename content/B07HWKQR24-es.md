@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HWKQR24-es Krom KENON - NXKROMKENON - raton gaming RGB lighting 4000...'
 sku: 'B07HWKQR24-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

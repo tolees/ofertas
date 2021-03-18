@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXPH9HT-es SOLEDI Fieltro Manualidades Tela no Tejido de Lana 41...'
 sku: 'B07GXPH9HT-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

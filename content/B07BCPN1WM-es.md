@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BCPN1WM-es Moulinex Juice Express JU550D10 Licuadora 800 W 1.4 litros...'
 sku: 'B07BCPN1WM-es'
-tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

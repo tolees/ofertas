@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JYFJPVT-es Protección Contra Gabinetes Anti Polillas Zidina | 40x...'
 sku: 'B07JYFJPVT-es'
-tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

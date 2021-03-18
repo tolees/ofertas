@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PHNS71W-es Cable HDMI 4K 2metro-Snowkids Cable HDMI 2.0 de Alta...'
 sku: 'B07PHNS71W-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

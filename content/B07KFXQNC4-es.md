@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFXQNC4-es PUMJV|#Puma Vista Zapatillas Unisex adulto Gris Gray...'
 sku: 'B07KFXQNC4-es'
-tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00A33IQVY-es Giesswein Aichach Zapatillas de Estar por casa Unisex...'
 sku: 'B00A33IQVY-es'
-tags: [  ]
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

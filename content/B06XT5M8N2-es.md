@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XT5M8N2-es Braga impermeable en PVC Ayuda a la incontinencia flexible...'
 sku: 'B06XT5M8N2-es'
-tags: [  ]
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

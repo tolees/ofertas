@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DZ7SRTN-es Columbia MaxTrail II Pantalones Impermeables para Hombre...'
 sku: 'B07DZ7SRTN-es'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

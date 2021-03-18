@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG93DZQ-es New Balance 574v2 Zapatillas Hombre Gris Grey/Blue...'
 sku: 'B07KG93DZQ-es'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

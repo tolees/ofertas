@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004JV7SQA-es Beluga Noble Vodka 70 cl - 700 ml'
 sku: 'B004JV7SQA-es'
-tags: [  ]
 actualPrice: 30.27 EUR
 currency: EUR
 price: 30.27

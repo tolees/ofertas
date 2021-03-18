@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0895LZNT9-es DC Shoes Sherpa Star - Hombre'
 sku: 'B0895LZNT9-es'
-tags: [  ]
 actualPrice: 25.73 EUR
 currency: EUR
 price: 25.73

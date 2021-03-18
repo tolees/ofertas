@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DJB5IGW-es BC Corona - Pomo de cambio de madera largo OEM con gatillo...'
 sku: 'B01DJB5IGW-es'
-tags: [ 'Pomos para palanca de coche','bc corona', ]
 actualPrice: 12.3 EUR
 currency: EUR
 price: 12.3

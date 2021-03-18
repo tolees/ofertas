@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K6YJN9Z-es Adidas TIRO19 TR JSYY T-Shirt Unisex niños Black/White 128...'
 sku: 'B07K6YJN9Z-es'
-tags: [  ]
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

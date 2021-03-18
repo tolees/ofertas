@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4YQDLF-es Lindt Lindor Caja de Regalo de Bombones de Chocolate con...'
 sku: 'B07Z4YQDLF-es'
-tags: [  ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

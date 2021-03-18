@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W55V8PQ-es Nihlsfen Cuchara medidora de té de café Accesorios de...'
 sku: 'B08W55V8PQ-es'
-tags: [  ]
 actualPrice: 2.57 EUR
 currency: EUR
 price: 2.57

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYCVJXS-es LIGHTAILING Conjunto de Luces Creator Expert Ford Mustang...'
 sku: 'B07RYCVJXS-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

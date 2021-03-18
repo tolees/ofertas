@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083GQDNX3-es Fankeshi - Abrigo de piel sintética para niña de flores...'
 sku: 'B083GQDNX3-es'
-tags: [  ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

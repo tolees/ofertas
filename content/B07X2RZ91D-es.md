@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X2RZ91D-es KIWI design Funda Protectora para dji Osmo Pocket Cubierta...'
 sku: 'B07X2RZ91D-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

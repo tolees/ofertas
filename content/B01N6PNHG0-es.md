@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6PNHG0-es Kappa Fredo Pantalón Corto Hombre Verde YS'
 sku: 'B01N6PNHG0-es'
-tags: [  ]
 actualPrice: 8.74 EUR
 currency: EUR
 price: 8.74

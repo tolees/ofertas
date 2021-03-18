@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K11UIV4-es TP-Link Archer T2U Adaptador WiFi USB Receptor WiFi con...'
 sku: 'B00K11UIV4-es'
-tags: [ 'tp-link', ]
 actualPrice: 15.98 EUR
 currency: EUR
 price: 15.98

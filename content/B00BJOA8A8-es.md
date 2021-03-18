@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BJOA8A8-es Brother DR241CL - Tambor para impresora duración estimada:...'
 sku: 'B00BJOA8A8-es'
-tags: [ 'brother', ]
 actualPrice: 62.97 EUR
 currency: EUR
 price: 62.97

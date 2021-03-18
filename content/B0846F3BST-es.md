@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846F3BST-es Pepe Jeans Will Suéter Gris 933 4 para Niños'
 sku: 'B0846F3BST-es'
-tags: [  ]
 actualPrice: 21.73 EUR
 currency: EUR
 price: 21.73

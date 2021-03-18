@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGVQ8HS-es G-STAR RAW Roxic Tapered Cargo Pantalones Azul Mazarine...'
 sku: 'B07QGVQ8HS-es'
-tags: [  ]
 actualPrice: 29.38 EUR
 currency: EUR
 price: 29.38

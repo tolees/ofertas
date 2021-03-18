@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CZMIJPS-es Ambielly calcetines de algodón calcetines térmicos Adulto...'
 sku: 'B01CZMIJPS-es'
-tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

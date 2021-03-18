@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08ML8ZCT7-es Dweyka - Máquina de coser portátil multifuncional...'
 sku: 'B08ML8ZCT7-es'
-tags: [  ]
 actualPrice: 22.35 EUR
 currency: EUR
 price: 22.35

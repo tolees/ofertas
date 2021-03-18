@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CI2IZO6-es NanoCable 10.01.0102 - Cable USB 2.0 para Impresora Tipo...'
 sku: 'B00CI2IZO6-es'
-tags: [  ]
 actualPrice: 0.71 EUR
 currency: EUR
 price: 0.71

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D75ZTM9-es Brewsly Botella de Agua - 500ML de Doble Pared con...'
 sku: 'B07D75ZTM9-es'
-tags: [  ]
 actualPrice: 5.38 EUR
 currency: EUR
 price: 5.38

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VWVG31R-es Diyife Alcachofa para Ducha Cabezal de Ducha LED 3 Colores...'
 sku: 'B07VWVG31R-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

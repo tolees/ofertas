@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088KNXFGT-es Caja 50 Desechables Adultos 3 Pliegues CE FDA 175x95 mm Azul'
 sku: 'B088KNXFGT-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

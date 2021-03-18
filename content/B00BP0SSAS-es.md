@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BP0SSAS-es TP-LinkTL-SG1008P - 8 Port Gigabit Ethernet PoE Desktop...'
 sku: 'B00BP0SSAS-es'
-tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

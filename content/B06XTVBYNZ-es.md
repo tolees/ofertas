@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XTVBYNZ-es Yazubi Pantalon Chino Hombre Slim fit Verano - Simon...'
 sku: 'B06XTVBYNZ-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

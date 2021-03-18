@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NW4Z1JX-es NERTHUS Lunch Bag Fiambrera bolsa termica porta alimentos...'
 sku: 'B07NW4Z1JX-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

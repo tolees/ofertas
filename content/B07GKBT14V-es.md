@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GKBT14V-es Western Digital - WD My Passport Ultra - Disco Duro...'
 sku: 'B07GKBT14V-es'
-tags: [  ]
 actualPrice: 78.22 EUR
 currency: EUR
 price: 78.22

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MTQ6KCB-es Timorn reemplazo Vivienda Shell Caso Cubierta para Gameboy...'
 sku: 'B01MTQ6KCB-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

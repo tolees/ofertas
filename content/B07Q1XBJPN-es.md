@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q1XBJPN-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B07Q1XBJPN-es'
-tags: [ 'casio', ]
 actualPrice: 65.46 EUR
 currency: EUR
 price: 65.46

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ZHB6WMC-es Braun Series 3 ProSkin 3050 cc Afeitadora eléctrica para...'
 sku: 'B00ZHB6WMC-es'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NTRD24K-es ASUS ROG Strix G15 G512LW-HN149 - Portátil Gaming de 15.6...'
 sku: 'B08NTRD24K-es'
-tags: [  ]
 actualPrice: 1499.0 EUR
 currency: EUR
 price: 1499.0

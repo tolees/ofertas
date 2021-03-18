@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SQ3RPWS-es Nihlsfen Acrílico olécranon Vino aireador vertedor...'
 sku: 'B08SQ3RPWS-es'
-tags: [  ]
 actualPrice: 3.53 EUR
 currency: EUR
 price: 3.53

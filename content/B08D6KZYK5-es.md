@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D6KZYK5-es Proyector YABER V3 6000 Bluetooth Mini Proyector Portátil...'
 sku: 'B08D6KZYK5-es'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

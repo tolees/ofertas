@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I52VOZ4-es VNOX Banda de Boda de carburo de tungsteno de los Hombres...'
 sku: 'B01I52VOZ4-es'
-tags: [  ]
 actualPrice: 23.65 EUR
 currency: EUR
 price: 23.65

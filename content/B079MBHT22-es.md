@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079MBHT22-es Milan 359801P - Kit de trazado'
 sku: 'B079MBHT22-es'
-tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

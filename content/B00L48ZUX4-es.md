@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L48ZUX4-es Victoria Safari Serraje Velcro Zapatillas con Velcro...'
 sku: 'B00L48ZUX4-es'
-tags: [  ]
 actualPrice: 20.5 EUR
 currency: EUR
 price: 20.5

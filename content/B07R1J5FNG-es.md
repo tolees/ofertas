@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R1J5FNG-es Warxin Soporte Magnético Movil Coche Mini Móvil Coche Iman...'
 sku: 'B07R1J5FNG-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

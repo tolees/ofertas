@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPQG7ZB-es G-STAR RAW ARC 3D Sport Bañador Azul Worn in Deep Ocean...'
 sku: 'B07VPQG7ZB-es'
-tags: [  ]
 actualPrice: 47.57 EUR
 currency: EUR
 price: 47.57

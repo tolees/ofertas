@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01E96YC3Q-es UGG Female Mini Bailey Bow II Classic Boot Chestnut 6 UK'
 sku: 'B01E96YC3Q-es'
-tags: [  ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

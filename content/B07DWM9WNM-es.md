@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DWM9WNM-es HUANUO Brazo de Monitor Bandeja para Computadora Portátil...'
 sku: 'B07DWM9WNM-es'
-tags: [  ]
 actualPrice: 51.84 EUR
 currency: EUR
 price: 51.84

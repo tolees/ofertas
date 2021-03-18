@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W57QKT6-es Nihlsfen Unidad de Memoria de Disco U de Alta Velocidad...'
 sku: 'B08W57QKT6-es'
-tags: [  ]
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LHX6LS4-es Einhell TH-CD 12 Li - Taladro sin cable 1 velocidad...'
 sku: 'B00LHX6LS4-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

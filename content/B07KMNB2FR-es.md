@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KMNB2FR-es adidas FIT Bx 3S Traje de Baño Hombre Black/White 2'
 sku: 'B07KMNB2FR-es'
-tags: [  ]
 actualPrice: 13.18 EUR
 currency: EUR
 price: 13.18

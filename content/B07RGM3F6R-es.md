@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGM3F6R-es Columbia Ivo Trail Zapatillas para Hombre Marrón Oatmeal...'
 sku: 'B07RGM3F6R-es'
-tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

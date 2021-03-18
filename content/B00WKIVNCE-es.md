@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WKIVNCE-es Lékué - Kit para elaborar queso fresco y libro de recetas...'
 sku: 'B00WKIVNCE-es'
-tags: [  ]
 actualPrice: 26.1 EUR
 currency: EUR
 price: 26.1

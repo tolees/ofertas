@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BSNH8GH-es Webcam Cubierta Webcam Cover Slider Laptop Camera Cover...'
 sku: 'B07BSNH8GH-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

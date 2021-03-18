@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AXJA008-es Revlon ColorStay Corrector 24h #030 Light Medium - 6.2ml'
 sku: 'B00AXJA008-es'
-tags: [  ]
 actualPrice: 3.55 EUR
 currency: EUR
 price: 3.55

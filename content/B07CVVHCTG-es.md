@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CVVHCTG-es Samsung MUF-32BE4/EU 32GB 3.0 3.1 Gen 1 Conector USB Tipo...'
 sku: 'B07CVVHCTG-es'
-tags: [  ]
 actualPrice: 11.27 EUR
 currency: EUR
 price: 11.27

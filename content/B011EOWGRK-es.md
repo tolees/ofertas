@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B011EOWGRK-es Teka - Microondas Mecánico Modelo MW 225 Grill 20 litros 5...'
 sku: 'B011EOWGRK-es'
-tags: [  ]
 actualPrice: 57.92 EUR
 currency: EUR
 price: 57.92

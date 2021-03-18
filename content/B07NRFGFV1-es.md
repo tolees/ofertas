@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRFGFV1-es Licor del Polo - Enjuague Bucal Triple Acción - Antiplaca...'
 sku: 'B07NRFGFV1-es'
-tags: [  ]
 actualPrice: 5.73 EUR
 currency: EUR
 price: 5.73

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E7FNXS-es K&N RC-0982 filtro cromado universal Coche y Moto'
 sku: 'B000E7FNXS-es'
-tags: [  ]
 actualPrice: 81.84 EUR
 currency: EUR
 price: 81.84

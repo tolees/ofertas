@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5SDLQR-es UniqueMe Funda para Samsung Galaxy S10 Plus Funda TPU...'
 sku: 'B07M5SDLQR-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

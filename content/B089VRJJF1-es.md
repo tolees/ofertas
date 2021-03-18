@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089VRJJF1-es 3 Modos y 3 Capas Filtración Cabezal Ducha Ainkedin...'
 sku: 'B089VRJJF1-es'
-tags: [  ]
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

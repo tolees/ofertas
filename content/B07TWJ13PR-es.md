@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWJ13PR-es Skechers Summits Zapatillas para Mujer Gris Gray Mesh/Hot...'
 sku: 'B07TWJ13PR-es'
-tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075GFT22K-es Triumph Amourette Charm WHP Sujetador Blanco White 03 95B...'
 sku: 'B075GFT22K-es'
-tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

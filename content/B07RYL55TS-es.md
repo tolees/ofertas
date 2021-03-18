@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYL55TS-es New Balance 574v2 Zapatillas para Mujer Negro Black/Grey...'
 sku: 'B07RYL55TS-es'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DNJHWF6-es Emporio Armani Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B00DNJHWF6-es'
-tags: [  ]
 actualPrice: 229.32 EUR
 currency: EUR
 price: 229.32

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FMVNZW2-es Alomejor - Manillar eléctrico para bicicleta mitad de...'
 sku: 'B07FMVNZW2-es'
-tags: [ 'alomejor', ]
 actualPrice: 11.79 EUR
 currency: EUR
 price: 11.79

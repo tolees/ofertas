@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000FWHWGS-es Lavazza Crema e Aroma - Café 1 kg Coffee-beans Marrón'
 sku: 'B000FWHWGS-es'
-tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

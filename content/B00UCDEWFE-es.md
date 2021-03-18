@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UCDEWFE-es Pronto - Plumero 5 recambios'
 sku: 'B00UCDEWFE-es'
-tags: [  ]
 actualPrice: 4.04 EUR
 currency: EUR
 price: 4.04

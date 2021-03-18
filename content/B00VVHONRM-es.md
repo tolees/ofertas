@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VVHONRM-es TP-Link TL-WR940N Router Inalámbrico Repetidor de WIFI...'
 sku: 'B00VVHONRM-es'
-tags: [ 'tp-link', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DV51QWC-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Total...'
 sku: 'B00DV51QWC-es'
-tags: [  ]
 actualPrice: 21.65 EUR
 currency: EUR
 price: 21.65

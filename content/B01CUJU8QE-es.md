@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CUJU8QE-es Eysa Funda Orejero elástica Textura Beige Una Plaza'
 sku: 'B01CUJU8QE-es'
-tags: [  ]
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

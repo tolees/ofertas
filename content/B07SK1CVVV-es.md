@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SK1CVVV-es Enchufe Inteligente WiFi TECKIN 16A 3300W Mini Smart Plug...'
 sku: 'B07SK1CVVV-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

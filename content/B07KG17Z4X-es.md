@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG17Z4X-es PUMA Palace Guard Zapatillas Unisex Adulto White-Jaffa...'
 sku: 'B07KG17Z4X-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J654XGD-es Amercian Tourister Aero Racer Spinner'
 sku: 'B07J654XGD-es'
-tags: [  ]
 actualPrice: 52.38 EUR
 currency: EUR
 price: 52.38

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YN9SR49-es Tommy Hilfiger Reloj Analógico para Hombre de Automático...'
 sku: 'B07YN9SR49-es'
-tags: [  ]
 actualPrice: 161.44 EUR
 currency: EUR
 price: 161.44

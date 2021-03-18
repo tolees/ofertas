@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F28DY1W-es BAUSCH + LOMB - Renu® MultiPlus Solución de Mantenimiento...'
 sku: 'B07F28DY1W-es'
-tags: [  ]
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

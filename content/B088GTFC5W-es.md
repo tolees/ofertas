@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088GTFC5W-es Auriculares Inalámbricos Bluetooth 5.0 True Auriculares...'
 sku: 'B088GTFC5W-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

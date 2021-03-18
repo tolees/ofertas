@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KDRKTWH-es Grifo Cocina Dalmo Grifo de Cocina con Caño Giratorio Agua...'
 sku: 'B08KDRKTWH-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

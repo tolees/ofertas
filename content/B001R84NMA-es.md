@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001R84NMA-es TRIXIE Erizo de Peluche 17 cm Perro'
 sku: 'B001R84NMA-es'
-tags: [  ]
 actualPrice: 3.06 EUR
 currency: EUR
 price: 3.06

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQR36MJ-es Clarks Step Urban Mix Zapatillas para Hombre Negro Black...'
 sku: 'B07FQR36MJ-es'
-tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

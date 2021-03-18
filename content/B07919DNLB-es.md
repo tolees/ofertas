@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07919DNLB-es Súper brillante 24V 5m RGBWW RGB + blanco cálido 4 en 1...'
 sku: 'B07919DNLB-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

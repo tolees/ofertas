@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYW4QUI-es Amor bolas para entrenamiento del suelo pélvico Sex Ø30 mm...'
 sku: 'B01LYW4QUI-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCBWT7R-es Cortapelos y afeitadora hombrel 6-en-1 juego de cortapelos...'
 sku: 'B07VCBWT7R-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

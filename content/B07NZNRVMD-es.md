@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NZNRVMD-es BRIKSMAX Kit de Iluminación Led para Fire Brigade-...'
 sku: 'B07NZNRVMD-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018MFZXXI-es T nB Miny Ratón Óptico Inalámbrico Azul Ultra Compacto...'
 sku: 'B018MFZXXI-es'
-tags: [  ]
 actualPrice: 9.03 EUR
 currency: EUR
 price: 9.03

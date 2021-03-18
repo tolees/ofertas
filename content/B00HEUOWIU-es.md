@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HEUOWIU-es Columbia Watch Cap II Gorro Unisex Graphite/Tradewinds...'
 sku: 'B00HEUOWIU-es'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZMFD2T-es Gosund 2.8M Tira Led TV/PC Tira LED Wifi USB Control...'
 sku: 'B085ZMFD2T-es'
-tags: [ 'gosund', ]
 actualPrice: 11.55 EUR
 currency: EUR
 price: 11.55

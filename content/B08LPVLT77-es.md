@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LPVLT77-es Candy Smart CS 1482DE/1-S Lavadora 8Kg 1400rpm Planchado...'
 sku: 'B08LPVLT77-es'
-tags: [  ]
 actualPrice: 266.15 EUR
 currency: EUR
 price: 266.15

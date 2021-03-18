@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAIPYV4-es Instituto Español - Pieles Atópicas - Crema cuidado...'
 sku: 'B00XAIPYV4-es'
-tags: [ 'instituto español', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

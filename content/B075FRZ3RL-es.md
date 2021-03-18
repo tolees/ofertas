@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075FRZ3RL-es DJI Mavic Pro Platinum Fly More Combo - Dron Quadricóptero...'
 sku: 'B075FRZ3RL-es'
-tags: [  ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WFKFGYT-es Kit de Inicio de Bordado Patrón de Plantas Accesorios de...'
 sku: 'B07WFKFGYT-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SH2M5WE-es Suavipiel - Esponjas jabonosas desechables Jabón dermo...'
 sku: 'B00SH2M5WE-es'
-tags: [  ]
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1

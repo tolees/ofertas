@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXK4KVK-es Elerose HD 1080P Mini cámara 12MP 140 Degree Gran Angular...'
 sku: 'B07GXK4KVK-es'
-tags: [  ]
 actualPrice: 7.09 EUR
 currency: EUR
 price: 7.09

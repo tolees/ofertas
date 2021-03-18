@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077XWR9P8-es Paradox - Surviving Mars'
 sku: 'B077XWR9P8-es'
-tags: [  ]
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

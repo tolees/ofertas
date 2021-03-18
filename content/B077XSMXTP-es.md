@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XSMXTP-es Under Armour Armour Fleece Jogger Pantalones Niños Gris...'
 sku: 'B077XSMXTP-es'
-tags: [  ]
 actualPrice: 27.27 EUR
 currency: EUR
 price: 27.27

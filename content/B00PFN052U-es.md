@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PFN052U-es Orbegozo FHR 3050 Calefactor Cerámico Profesional con 2...'
 sku: 'B00PFN052U-es'
-tags: [ 'orbegozo', ]
 actualPrice: 43.2 EUR
 currency: EUR
 price: 43.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZPLBBJ8-es LEADSTAR Toalla Bebé con Capucha Capa de Baño Infantil 90...'
 sku: 'B07ZPLBBJ8-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

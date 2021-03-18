@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DW9DVDL-es HOMIEE Oxímetro de Pulso Pulsioxímetro de Dedo Profesional...'
 sku: 'B07DW9DVDL-es'
-tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001MJ0XIC-es Hugo Boss 11563 - Desodorante'
 sku: 'B001MJ0XIC-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

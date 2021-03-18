@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083N3NVWW-es Disney - Le Mans 66 [Blu-ray]'
 sku: 'B083N3NVWW-es'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4N3ZXY-es Tommy Hilfiger Core Corporate Textile Sneaker Zapatillas...'
 sku: 'B07V4N3ZXY-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

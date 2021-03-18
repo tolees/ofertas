@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFWP6EO-es Brabantia 298325 - Tarros de cristal apilables 0.3 L/ 0.6...'
 sku: 'B00JFWP6EO-es'
-tags: [ 'Afeitado y depilación','Almacenamiento de alimentos','Almacenamiento de cocina y despensa','Belleza','Botes para alimentos','Calzado de voleibol para hombre','Calzado deportivo de interior de hombre','Calzado deportivo para hombre','Campanas extractoras','Campanas extractoras de pared','Ciclismo','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Culotes de ciclismo para hombre','Deportes y aire libre','Grandes electrodomésticos','Hogar y cocina','Hornos y placas de cocina','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','Ropa','Ropa de ciclismo','Ropa de ciclismo para hombre','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Tangas para hombre','Vestidos casual para mujer','Vestidos para mujer','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','brabantia', ]
 actualPrice: 17.29 EUR
 currency: EUR
 price: 17.29

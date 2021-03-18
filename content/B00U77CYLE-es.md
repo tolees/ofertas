@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00U77CYLE-es Logitech Connect ConferenceCam Webcam Visioconferencias...'
 sku: 'B00U77CYLE-es'
-tags: [  ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

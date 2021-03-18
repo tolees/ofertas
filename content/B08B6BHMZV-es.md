@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B6BHMZV-es HAWKERS Nº35 Sunglasses ROSA/ORO One Size Unisex-Adult'
 sku: 'B08B6BHMZV-es'
-tags: [  ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

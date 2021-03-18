@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FSDVBZC-es KEXIN 64GB Memoria USB Tipo C y USB 3.0 OTG Flash Drive 64...'
 sku: 'B07FSDVBZC-es'
-tags: [  ]
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

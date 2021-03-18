@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCF7FLP-es adidas W ID 3s Snap PT Pantalones de Deporte Mujer Legend...'
 sku: 'B07SCF7FLP-es'
-tags: [  ]
 actualPrice: 35.41 EUR
 currency: EUR
 price: 35.41

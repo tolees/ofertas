@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000E2ARGG-es K&N KN-113 Filtro de aceite Oil Filter Powersport...'
 sku: 'B000E2ARGG-es'
-tags: [  ]
 actualPrice: 5.43 EUR
 currency: EUR
 price: 5.43

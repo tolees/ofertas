@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E3TSCV2-es Chubasquero cortavientos de entretiempo de Geographical...'
 sku: 'B01E3TSCV2-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

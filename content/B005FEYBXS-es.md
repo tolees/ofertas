@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005FEYBXS-es Casio Reloj de pulsera MRW-200H-1BVEF'
 sku: 'B005FEYBXS-es'
-tags: [  ]
 actualPrice: 25.3 EUR
 currency: EUR
 price: 25.3

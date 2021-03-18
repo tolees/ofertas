@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0893DKSV3-es LG SN8YG - Barra de sonido Hi-Res con Dolby Atmos 24...'
 sku: 'B0893DKSV3-es'
-tags: [  ]
 actualPrice: 383.2 EUR
 currency: EUR
 price: 383.2

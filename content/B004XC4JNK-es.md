@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004XC4JNK-es Panama Jack Panama 03 C1 - Náuticos de cuero hombre color...'
 sku: 'B004XC4JNK-es'
-tags: [  ]
 actualPrice: 111.95 EUR
 currency: EUR
 price: 111.95

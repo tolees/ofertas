@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BQD5J1D-es Scottex Gigante Papel de Cocina - 24 rollos'
 sku: 'B07BQD5J1D-es'
-tags: [  ]
 actualPrice: 20.73 EUR
 currency: EUR
 price: 20.73

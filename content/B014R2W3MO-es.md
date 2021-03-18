@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014R2W3MO-es Sony MDRXB50APR.CE7 - Auriculares intraurales Extra Bass...'
 sku: 'B014R2W3MO-es'
-tags: [  ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

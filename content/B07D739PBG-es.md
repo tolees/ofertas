@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D739PBG-es Favoto Funda para Moto Cubierta de la Motocicleta 210T...'
 sku: 'B07D739PBG-es'
-tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

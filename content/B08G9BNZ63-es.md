@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G9BNZ63-es Garnier Bio Serum Facial de Noche Multi-Reparador con...'
 sku: 'B08G9BNZ63-es'
-tags: [  ]
 actualPrice: 7.14 EUR
 currency: EUR
 price: 7.14

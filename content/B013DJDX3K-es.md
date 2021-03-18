@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013DJDX3K-es Skylanders SuperCharges - Figura High Volt Driver'
 sku: 'B013DJDX3K-es'
-tags: [  ]
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

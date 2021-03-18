@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMGHB7V-es FIFA 19 Edición Legacy'
 sku: 'B07DMGHB7V-es'
-tags: [  ]
 actualPrice: 34.85 EUR
 currency: EUR
 price: 34.85

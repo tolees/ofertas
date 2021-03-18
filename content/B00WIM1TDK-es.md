@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WIM1TDK-es GREAT ART Mural De Pared – Pared De Piedra Pizarra –...'
 sku: 'B00WIM1TDK-es'
-tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NDA9OY2-es Compex SP 8.0 Electroestimulador Unisex Negro 0'
 sku: 'B00NDA9OY2-es'
-tags: [  ]
 actualPrice: 798.85 EUR
 currency: EUR
 price: 798.85

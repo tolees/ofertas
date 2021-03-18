@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QFQW5G8-es G-STAR RAW Roxic Tapered Cargo Pantalones Azul Mazarine...'
 sku: 'B07QFQW5G8-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

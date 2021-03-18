@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SC2BW1Z-es Docooler Funda para Kindle Paperwhite 10.ª generación 2018...'
 sku: 'B08SC2BW1Z-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

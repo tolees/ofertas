@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SD78BTJ-es GREAT ART Papel Pintado Fotos Decoraciones de Pared Coche...'
 sku: 'B07SD78BTJ-es'
-tags: [  ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

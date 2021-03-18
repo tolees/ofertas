@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08THBXW2L-es LolaPix - Cojin con Foto Personalizado San Valentin....'
 sku: 'B08THBXW2L-es'
-tags: [  ]
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

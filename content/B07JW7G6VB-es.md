@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW7G6VB-es Ping Pop Pijamas para niños Necesito Espacio Ajuste Ceñido...'
 sku: 'B07JW7G6VB-es'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

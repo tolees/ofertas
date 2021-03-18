@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9L3XPJ-es find. Parka Ligera Hombre Beige Stone Large'
 sku: 'B07B9L3XPJ-es'
-tags: [  ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

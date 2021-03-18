@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5JVLMP-es Hapilife Grifo de Cocina Extraíble Monomando 360 °...'
 sku: 'B07S5JVLMP-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

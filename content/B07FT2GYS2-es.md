@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FT2GYS2-es Aceite Orgánico de Rosa Mosqueta 100% Puro y Natural para...'
 sku: 'B07FT2GYS2-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

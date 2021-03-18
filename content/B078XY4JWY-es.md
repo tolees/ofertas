@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078XY4JWY-es Emporio Armani Reloj Analogico para Hombre de Automático...'
 sku: 'B078XY4JWY-es'
-tags: [  ]
 actualPrice: 243.99 EUR
 currency: EUR
 price: 243.99

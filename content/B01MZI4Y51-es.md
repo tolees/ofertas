@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZI4Y51-es SSD portátil SanDisk Extreme 500 de 1 TB y hasta 440 MB/s...'
 sku: 'B01MZI4Y51-es'
-tags: [  ]
 actualPrice: 146.65 EUR
 currency: EUR
 price: 146.65

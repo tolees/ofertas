@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WI5RY4A-es Semillas Batlle - Semillas Hortícolas - Lechuga Romana...'
 sku: 'B00WI5RY4A-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q1YXVWH-es DOQAUS Auriculares Inalámbricos Diadema [52 Hrs de...'
 sku: 'B07Q1YXVWH-es'
-tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

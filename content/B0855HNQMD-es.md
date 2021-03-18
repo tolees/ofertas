@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0855HNQMD-es VicTsing Transmisor FM Bluetooth Coche Mechero [8 Real...'
 sku: 'B0855HNQMD-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

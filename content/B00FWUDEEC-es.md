@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FWUDEEC-es Sony Alpha ILCE-7K - Cámara EVIL sensor Full Frame de 35...'
 sku: 'B00FWUDEEC-es'
-tags: [  ]
 actualPrice: 821.1 EUR
 currency: EUR
 price: 821.1

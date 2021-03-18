@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076VNPPXG-es G-STAR RAW 5620 3D S Tapered Jeans Azul Medium Vintage...'
 sku: 'B076VNPPXG-es'
-tags: [  ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

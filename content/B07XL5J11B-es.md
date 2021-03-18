@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XL5J11B-es Apple Funda Leather Case para el iPhone 11 Pro - Product Red'
 sku: 'B07XL5J11B-es'
-tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

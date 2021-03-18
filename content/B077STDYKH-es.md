@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077STDYKH-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B077STDYKH-es'
-tags: [  ]
 actualPrice: 170.16 EUR
 currency: EUR
 price: 170.16

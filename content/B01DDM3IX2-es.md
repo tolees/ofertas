@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DDM3IX2-es Wilkinson Sword Hydro 3 de afeitar con cuchilla 1'
 sku: 'B01DDM3IX2-es'
-tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

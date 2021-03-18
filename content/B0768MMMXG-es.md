@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0768MMMXG-es L Oreal Paris Men Expert - L Oréal Paris Men Expert -...'
 sku: 'B0768MMMXG-es'
-tags: [  ]
 actualPrice: 6.36 EUR
 currency: EUR
 price: 6.36

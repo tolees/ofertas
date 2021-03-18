@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XH4GN2K-es Funko - Pop! Star Wars - Training Luke with Yoda Figura...'
 sku: 'B07XH4GN2K-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

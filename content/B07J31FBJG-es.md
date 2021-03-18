@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J31FBJG-es Under Armour Golf Headline 3.0 C Gorra con Logo Frontal...'
 sku: 'B07J31FBJG-es'
-tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TRGW145-es MAYJAM Aceites Esenciales de Sándalo 100 ml 100% Aceites...'
 sku: 'B08TRGW145-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRFWKXQ-es K KYUER 27.74Wh 7300mAh EB-BT585ABE EB-BT585ABA Tablet...'
 sku: 'B07PRFWKXQ-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

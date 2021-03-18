@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KJ2WLWX-es Warner Bros. Entertainment - Interstellar Edición dos...'
 sku: 'B08KJ2WLWX-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

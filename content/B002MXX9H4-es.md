@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002MXX9H4-es Bosch Hogar - Bosch MCM4 Styline MCM4100 - Robot de cocina...'
 sku: 'B002MXX9H4-es'
-tags: [  ]
 actualPrice: 89.53 EUR
 currency: EUR
 price: 89.53

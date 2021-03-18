@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HSB5ZKZ-es Sharp GX-BT280 RD - Altavoz Bluetooth portátil 20 W...'
 sku: 'B07HSB5ZKZ-es'
-tags: [  ]
 actualPrice: 53.91 EUR
 currency: EUR
 price: 53.91

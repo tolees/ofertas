@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N1K22YS-es New Balance 373 Core Zapatillas Hombre Rojo Bordeaux 40.5 EU'
 sku: 'B01N1K22YS-es'
-tags: [  ]
 actualPrice: 29.46 EUR
 currency: EUR
 price: 29.46

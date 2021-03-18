@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9SNPZM-es Lacoste Masters 319 1 SMA Zapatillas para Hombre Blanco...'
 sku: 'B07L9SNPZM-es'
-tags: [  ]
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

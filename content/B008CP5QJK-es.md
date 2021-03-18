@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008CP5QJK-es Kingston KVR13S9S8/4 - Memoria RAM de 4 GB 1333 MHz DDR3...'
 sku: 'B008CP5QJK-es'
-tags: [  ]
 actualPrice: 21.35 EUR
 currency: EUR
 price: 21.35

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083K4TWZV-es mibao - 144 Horas de Reproducción con Nuestros Auriculares...'
 sku: 'B083K4TWZV-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

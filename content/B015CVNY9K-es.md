@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015CVNY9K-es Balvi Bandeja Caramel Color Amarillo bandejas...'
 sku: 'B015CVNY9K-es'
-tags: [  ]
 actualPrice: 7.15 EUR
 currency: EUR
 price: 7.15

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HGLF31T-es TCL 10 5G - Smartphone de 6.53" FHD+ con NXTVISION...'
 sku: 'B08HGLF31T-es'
-tags: [ 'tcl', ]
 actualPrice: 208.35 EUR
 currency: EUR
 price: 208.35

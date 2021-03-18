@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N19TP8S-es OurLeeme Digital Pocket Scale 0.01-500g Mini Scales Escala...'
 sku: 'B07N19TP8S-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

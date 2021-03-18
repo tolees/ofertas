@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Z9LVPT-es adidas Am 3S Mesh Bra Sports Mujer Legacy Blue/Green Tint M'
 sku: 'B089Z9LVPT-es'
-tags: [  ]
 actualPrice: 15.08 EUR
 currency: EUR
 price: 15.08

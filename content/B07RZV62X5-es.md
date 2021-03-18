@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZV62X5-es Columbia Redmond V2 Mid Zapatillas de Senderismo...'
 sku: 'B07RZV62X5-es'
-tags: [ 'Botas de senderismo para hombre','Calzado de senderismo para hombre','Calzado deportivo para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','columbia', ]
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

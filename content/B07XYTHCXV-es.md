@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XYTHCXV-es nonda Adaptador USB C a USB 2 pack Adaptador USB-C a USB...'
 sku: 'B07XYTHCXV-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

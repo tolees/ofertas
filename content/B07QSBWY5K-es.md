@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QSBWY5K-es Funko - POP Movie Moment: Star Wars The Rise of Skywalker...'
 sku: 'B07QSBWY5K-es'
-tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

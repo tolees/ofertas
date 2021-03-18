@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008MK3KNE-es Targus ASP48EU Defcon® Candado de Seguridad con Cable'
 sku: 'B008MK3KNE-es'
-tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XH9KHLR-es Huawei Watch GT2 Sport - Smartwatch con Caja de 46 Mm...'
 sku: 'B07XH9KHLR-es'
-tags: [  ]
 actualPrice: 132.99 EUR
 currency: EUR
 price: 132.99

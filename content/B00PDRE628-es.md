@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PDRE628-es PAPEL SEDA LIDERPAPEL VERDE OSCURO 52X76CM 18 GR/M2...'
 sku: 'B00PDRE628-es'
-tags: [  ]
 actualPrice: 2.79 EUR
 currency: EUR
 price: 2.79

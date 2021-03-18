@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RNNZG2H-es Portarrollos MEZOOM 2pcs cuelga papel higienico de 304...'
 sku: 'B07RNNZG2H-es'
-tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

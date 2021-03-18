@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082R6LLY2-es NIKE MD Valiant TDV Sneaker Black/White 22 EU'
 sku: 'B082R6LLY2-es'
-tags: [  ]
 actualPrice: 18.62 EUR
 currency: EUR
 price: 18.62

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG9XP49-es SanDisk Ultra Flair Memoria flash USB 3.0 de 256 GB con...'
 sku: 'B06XG9XP49-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','sandisk', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

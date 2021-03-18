@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1MMZ7V-es Einhell 4512040 Kit con Cargador batería de Repuesto de 18...'
 sku: 'B01M1MMZ7V-es'
-tags: [  ]
 actualPrice: 50.95 EUR
 currency: EUR
 price: 50.95

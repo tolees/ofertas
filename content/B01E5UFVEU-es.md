@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01E5UFVEU-es Lacoste Sport Carnaby EVO BL 1 SPW Zapatillas para Mujer...'
 sku: 'B01E5UFVEU-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

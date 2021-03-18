@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VZNCXM9-es Pepe Jeans Strike Carteron Adaptable para Portátil 15 6"...'
 sku: 'B07VZNCXM9-es'
-tags: [  ]
 actualPrice: 38.08 EUR
 currency: EUR
 price: 38.08

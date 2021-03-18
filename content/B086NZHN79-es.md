@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086NZHN79-es PUMA AT ESS Grip Bag Bolsa Deporte Mujer Digi/Blue...'
 sku: 'B086NZHN79-es'
-tags: [  ]
 actualPrice: 14.64 EUR
 currency: EUR
 price: 14.64

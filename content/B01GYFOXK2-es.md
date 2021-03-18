@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GYFOXK2-es Webcam para PC PAPALOOK PA452 Full HD 1080p/30fps...'
 sku: 'B01GYFOXK2-es'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

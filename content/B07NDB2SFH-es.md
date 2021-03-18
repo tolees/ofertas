@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NDB2SFH-es LEGO Star Wars TM - Yoda Set de construcción del Personaje...'
 sku: 'B07NDB2SFH-es'
-tags: [  ]
 actualPrice: 86.24 EUR
 currency: EUR
 price: 86.24

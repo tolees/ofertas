@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZ1NMZ8-es KiplingBaroeMujerMonederosNegro Carbon Metallic...'
 sku: 'B07TZ1NMZ8-es'
-tags: [  ]
 actualPrice: 8.35 EUR
 currency: EUR
 price: 8.35

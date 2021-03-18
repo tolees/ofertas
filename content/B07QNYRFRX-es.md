@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QNYRFRX-es Bulova Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07QNYRFRX-es'
-tags: [ 'bulova', ]
 actualPrice: 254.04 EUR
 currency: EUR
 price: 254.04

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F6DQ6NL-es PUMA Mallas ESS para niña Niñas Pantalones 851764 01 Color...'
 sku: 'B07F6DQ6NL-es'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

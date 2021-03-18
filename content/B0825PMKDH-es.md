@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825PMKDH-es Geox J Casey Girl C School Uniform Shoe Black 34 EU'
 sku: 'B0825PMKDH-es'
-tags: [  ]
 actualPrice: 13.61 EUR
 currency: EUR
 price: 13.61

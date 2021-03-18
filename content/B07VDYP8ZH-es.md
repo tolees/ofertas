@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VDYP8ZH-es Hurley M Phtm HW Solid 18 Bañador Hombre Black 31'
 sku: 'B07VDYP8ZH-es'
-tags: [  ]
 actualPrice: 23.05 EUR
 currency: EUR
 price: 23.05

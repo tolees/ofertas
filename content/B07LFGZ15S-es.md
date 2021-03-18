@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFGZ15S-es Intex 57267EU - Flamenco hinchable gigante'
 sku: 'B07LFGZ15S-es'
-tags: [  ]
 actualPrice: 122.0 EUR
 currency: EUR
 price: 122.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YES7Y2Q-es Calvin Klein Reloj Digital para Mujer de Cuarzo con Correa...'
 sku: 'B00YES7Y2Q-es'
-tags: [  ]
 actualPrice: 134.5 EUR
 currency: EUR
 price: 134.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082Y9MJMV-es Samsung Galaxy A71 - Smartphone de 6.7" FHD+ 4G Dual SIM 6...'
 sku: 'B082Y9MJMV-es'
-tags: [ 'samsung', ]
 actualPrice: 287.0 EUR
 currency: EUR
 price: 287.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YGDHQ9M-es MTNG - Snekers Mustang 69097 Aiko Negras'
 sku: 'B07YGDHQ9M-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

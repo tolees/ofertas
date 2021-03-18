@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08297PXHL-es NGS Torre de Sonido 50W Sky Charm Compatible con...'
 sku: 'B08297PXHL-es'
-tags: [ 'ngs', ]
 actualPrice: 49.89 EUR
 currency: EUR
 price: 49.89

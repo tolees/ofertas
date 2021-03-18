@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00K5OWXMY-es VANS Atwood Zapatillas Hombre Gris Canvas Pewter/White 4WV...'
 sku: 'B00K5OWXMY-es'
-tags: [  ]
 actualPrice: 37.33 EUR
 currency: EUR
 price: 37.33

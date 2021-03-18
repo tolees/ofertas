@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NABMIKG-es Beurer MG147 - Almohada de Masaje Shiatsu con función...'
 sku: 'B00NABMIKG-es'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

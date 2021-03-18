@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NPD3QR2-es Skechers Uno- Stand On Air Zapatillas Hombre Negro BLK...'
 sku: 'B07NPD3QR2-es'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

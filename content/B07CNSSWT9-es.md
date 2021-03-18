@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CNSSWT9-es PUMA Liga Training Pants Pro Pantalones Hombre L Negro...'
 sku: 'B07CNSSWT9-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

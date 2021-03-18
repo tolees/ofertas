@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FQJQZ90-es HUDORA 76909 - Juguete 15 kg 3m 90 cm Negro Color Blanco'
 sku: 'B00FQJQZ90-es'
-tags: [  ]
 actualPrice: 53.7 EUR
 currency: EUR
 price: 53.7

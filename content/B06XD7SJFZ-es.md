@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XD7SJFZ-es LG 27MP59G-P - Monitor Gaming FHD de 68 6 cm 27" con Panel...'
 sku: 'B06XD7SJFZ-es'
-tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079RLFZT7-es Funko- Pocket Pop Avengers Infinity War PPK 4 Figura de...'
 sku: 'B079RLFZT7-es'
-tags: [  ]
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

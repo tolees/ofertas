@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HVBXGS5-es PURLINE Hervidor de Cristal de 1 7L y 2200W con indicador...'
 sku: 'B08HVBXGS5-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082WDBGMP-es LEGO 71366 Super Mario Set de Expansión: Avalancha de Bill...'
 sku: 'B082WDBGMP-es'
-tags: [  ]
 actualPrice: 22.03 EUR
 currency: EUR
 price: 22.03

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPNB7GS-es Clarks Becken Cap Zapatos de Cordones Derby para Hombre...'
 sku: 'B07DPNB7GS-es'
-tags: [  ]
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

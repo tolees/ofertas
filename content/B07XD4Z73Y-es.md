@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XD4Z73Y-es Funko Pop! Marvel: Black Widow – Black Widow White Suit...'
 sku: 'B07XD4Z73Y-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

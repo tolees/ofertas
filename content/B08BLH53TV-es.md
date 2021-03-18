@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLH53TV-es Smartphone Oferta del día ofertas móviles 3 GB RAM 32 GB...'
 sku: 'B08BLH53TV-es'
-tags: [  ]
 actualPrice: 76.71 EUR
 currency: EUR
 price: 76.71

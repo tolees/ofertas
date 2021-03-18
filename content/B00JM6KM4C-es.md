@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JM6KM4C-es Luminarc Pure Box Active - Recipiente hermético de vidrio...'
 sku: 'B00JM6KM4C-es'
-tags: [  ]
 actualPrice: 6.5 EUR
 currency: EUR
 price: 6.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGPQ4SG-es STAR WARS Pijamas para Niños 2 Paquetes La Guerra de Las...'
 sku: 'B07JGPQ4SG-es'
-tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

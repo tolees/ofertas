@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WJ49R3P-es Nihlsfen Esfera de Acero Inoxidable con Bloqueo de...'
 sku: 'B08WJ49R3P-es'
-tags: [  ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

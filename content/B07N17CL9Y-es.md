@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N17CL9Y-es G-STAR RAW 3301 Straight Tapered Jeans Negro Faded...'
 sku: 'B07N17CL9Y-es'
-tags: [  ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

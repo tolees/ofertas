@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SGD2BSL-es OneAmg Compresor de Aire Eléctrico Portátil Bomba de Aire...'
 sku: 'B07SGD2BSL-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

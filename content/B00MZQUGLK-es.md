@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MZQUGLK-es Philips 12342WHVSM Faros delanteros con efecto de xenón...'
 sku: 'B00MZQUGLK-es'
-tags: [ 'Bombillas','Bombillas exteriores','Coche y moto','Luces, bombillas e indicadores','Piezas para coche','philips', ]
 actualPrice: 15.1 EUR
 currency: EUR
 price: 15.1

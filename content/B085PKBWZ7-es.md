@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PKBWZ7-es realme 6 – Smartphone de 6.5” 4 GB RAM + 64 GB ROM...'
 sku: 'B085PKBWZ7-es'
-tags: [  ]
 actualPrice: 141.95 EUR
 currency: EUR
 price: 141.95

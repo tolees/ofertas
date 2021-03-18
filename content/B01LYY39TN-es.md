@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LYY39TN-es Vaultskin Eton Armour - Funda de cuero para iPhone 6 Plus...'
 sku: 'B01LYY39TN-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DLPN0TI-es Vaggan Barbacoa Negro y Rojo'
 sku: 'B01DLPN0TI-es'
-tags: [  ]
 actualPrice: 5.74 EUR
 currency: EUR
 price: 5.74

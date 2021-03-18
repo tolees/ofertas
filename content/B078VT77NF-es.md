@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078VT77NF-es XINZUO Set Cuchillo Cocina 5 Piezas Damasco Japonés 67...'
 sku: 'B078VT77NF-es'
-tags: [  ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKVD1KC-es PrimeMatik.com - PrimeMatik - Soplador Aspirador eléctrico...'
 sku: 'B07SKVD1KC-es'
-tags: [  ]
 actualPrice: 24.82 EUR
 currency: EUR
 price: 24.82

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XYJ1CFR-es OnePlus N10 Midnight Ice Hielo de Medianoche | Pantalla de...'
 sku: 'B07XYJ1CFR-es'
-tags: [  ]
 actualPrice: 261.23 EUR
 currency: EUR
 price: 261.23

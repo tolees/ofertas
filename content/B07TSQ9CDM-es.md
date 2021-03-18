@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TSQ9CDM-es Skechers Verrado Zapatillas Hombre Gris Lt Gray Leather...'
 sku: 'B07TSQ9CDM-es'
-tags: [  ]
 actualPrice: 40.83 EUR
 currency: EUR
 price: 40.83

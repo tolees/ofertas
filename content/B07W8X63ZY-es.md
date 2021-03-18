@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W8X63ZY-es Bourjois Brow Fiber Oh Oui Máscara De Cejas Tono 001 Blond...'
 sku: 'B07W8X63ZY-es'
-tags: [  ]
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

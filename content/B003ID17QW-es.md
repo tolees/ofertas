@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003ID17QW-es Valueline AC-018 - Adaptador de audio Estereo Jack 3.5mm...'
 sku: 'B003ID17QW-es'
-tags: [  ]
 actualPrice: 4.73 EUR
 currency: EUR
 price: 4.73

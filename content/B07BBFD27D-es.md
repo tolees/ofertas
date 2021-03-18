@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BBFD27D-es Versus by Versace Reloj Analogico para Hombre de Cuarzo...'
 sku: 'B07BBFD27D-es'
-tags: [  ]
 actualPrice: 110.0 EUR
 currency: EUR
 price: 110.0

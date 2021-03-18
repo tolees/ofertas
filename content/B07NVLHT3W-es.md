@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NVLHT3W-es RENOVA Pañuelos De Bolsillo Sensitive Mentol - 6 Paquetes...'
 sku: 'B07NVLHT3W-es'
-tags: [  ]
 actualPrice: 0.68 EUR
 currency: EUR
 price: 0.68

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E3T6C6Y-es Malfy Limón Gin Ginebra Premium - 700 ml'
 sku: 'B01E3T6C6Y-es'
-tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

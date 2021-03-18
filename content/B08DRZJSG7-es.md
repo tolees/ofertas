@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRZJSG7-es Warner Bros Interactive Spain - Bakugan: Campeones de...'
 sku: 'B08DRZJSG7-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

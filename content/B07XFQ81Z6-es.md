@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFQ81Z6-es LIGE Relojes para Hombre Cronógrafo Impermeable Dorado...'
 sku: 'B07XFQ81Z6-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XYDFW6W-es Lékué Escalfador de Huevos Acero Inoxidable Naranja 9 3 x...'
 sku: 'B06XYDFW6W-es'
-tags: [  ]
 actualPrice: 6.76 EUR
 currency: EUR
 price: 6.76

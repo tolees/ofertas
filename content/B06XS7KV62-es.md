@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XS7KV62-es Wenko Juego de Pie y portarrollos para El WC Universal...'
 sku: 'B06XS7KV62-es'
-tags: [  ]
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

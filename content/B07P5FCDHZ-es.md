@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5FCDHZ-es Bourjois Sombra de ojos Tono: 004 Insaisissa - 42 gr.'
 sku: 'B07P5FCDHZ-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

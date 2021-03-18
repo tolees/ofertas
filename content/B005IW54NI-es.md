@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005IW54NI-es Tommy Hilfiger TH MEN SOCK CLASSIC 2P Calcetines Clasicas...'
 sku: 'B005IW54NI-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

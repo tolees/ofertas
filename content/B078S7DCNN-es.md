@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078S7DCNN-es Sharplace 1 Par Almohadillas Cómodas Pie Protección...'
 sku: 'B078S7DCNN-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

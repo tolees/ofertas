@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000ASCU1-es Reebok Classic Nylon - Zapatillas de Entrenamiento Mujer...'
 sku: 'B0000ASCU1-es'
-tags: [  ]
 actualPrice: 34.74 EUR
 currency: EUR
 price: 34.74

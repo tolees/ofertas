@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0849CBZXT-es Disney - Terminator Destino Oscuro [DVD]'
 sku: 'B0849CBZXT-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

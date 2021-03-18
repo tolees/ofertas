@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XF7PRDR-es Funko - Pop! Rocks: Motorhead - Lemmy'
 sku: 'B07XF7PRDR-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

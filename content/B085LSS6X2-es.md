@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LSS6X2-es Hurley M Phtm One&Only 18 Bañador Hombre Orange Trance 34'
 sku: 'B085LSS6X2-es'
-tags: [  ]
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

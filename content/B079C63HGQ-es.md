@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079C63HGQ-es SALOMON Festival 2-Pack 2 Pares de Calcetines Cortos...'
 sku: 'B079C63HGQ-es'
-tags: [  ]
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

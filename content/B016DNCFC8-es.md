@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016DNCFC8-es Electrolux EAT3300 Tostadora Love Your Day Collection 940...'
 sku: 'B016DNCFC8-es'
-tags: [  ]
 actualPrice: 24.44 EUR
 currency: EUR
 price: 24.44

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000RZP5I0-es TRIXIE Arnés-Bozal Guía Top Trainer S 22 cm Perro'
 sku: 'B000RZP5I0-es'
-tags: [  ]
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084LCT57T-es ELMER S - Elmer’s Kit Slime de Color Opaco incluido...'
 sku: 'B084LCT57T-es'
-tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

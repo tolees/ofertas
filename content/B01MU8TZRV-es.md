@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MU8TZRV-es SanDisk Extreme PRO 128 GB Memoria flash de estado sólido...'
 sku: 'B01MU8TZRV-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

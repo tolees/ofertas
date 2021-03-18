@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084B3WQZG-es Ring Video Doorbell 3 | Vídeo HD detección de movimiento...'
 sku: 'B084B3WQZG-es'
-tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

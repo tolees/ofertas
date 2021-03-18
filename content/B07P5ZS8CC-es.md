@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5ZS8CC-es Wrangler Arizona Pantalones Gris Smoked Pearl M03 W38/L34...'
 sku: 'B07P5ZS8CC-es'
-tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

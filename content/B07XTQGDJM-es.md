@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XTQGDJM-es HUAWEI Band 4- Pulsera de actividad con pantalla a color...'
 sku: 'B07XTQGDJM-es'
-tags: [  ]
 actualPrice: 27.7 EUR
 currency: EUR
 price: 27.7

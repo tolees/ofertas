@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U8QXDO6-es Beter Swing - Lima ergonómica láser'
 sku: 'B00U8QXDO6-es'
-tags: [  ]
 actualPrice: 1.95 EUR
 currency: EUR
 price: 1.95

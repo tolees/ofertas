@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00K8MTPEW-es UES DDR-16 Equipo Limpieza Sensor de APS-C para SLR DSLR...'
 sku: 'B00K8MTPEW-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

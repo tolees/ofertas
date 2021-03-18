@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BL2PZH2-es New Balance Fuel Cell Impulse Zapatillas de Running para...'
 sku: 'B07BL2PZH2-es'
-tags: [  ]
 actualPrice: 38.9 EUR
 currency: EUR
 price: 38.9

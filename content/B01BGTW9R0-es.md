@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BGTW9R0-es G-STAR RAW Rovic Zip 3D Tapered Pantalon Negro raven...'
 sku: 'B01BGTW9R0-es'
-tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

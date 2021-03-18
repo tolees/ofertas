@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KKC2BG-es Crocs Classic Clog Zuecos Unisex Adulto Azul Chambray Blue...'
 sku: 'B074KKC2BG-es'
-tags: [  ]
 actualPrice: 17.36 EUR
 currency: EUR
 price: 17.36

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RQKYGBY-es BESCHOI Espejo Maquillaje con Luz LED Espejo Aumento 5X...'
 sku: 'B07RQKYGBY-es'
-tags: [  ]
 actualPrice: 16.41 EUR
 currency: EUR
 price: 16.41

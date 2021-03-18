@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JLXF13M-es MICROMIC Base del Vaso para Thermomix TM21-Junta de...'
 sku: 'B01JLXF13M-es'
-tags: [  ]
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FVGD4WJ-es HUION H610PRO V2 Tableta gráfica - Tableta gráfica de...'
 sku: 'B07FVGD4WJ-es'
-tags: [  ]
 actualPrice: 55.23 EUR
 currency: EUR
 price: 55.23

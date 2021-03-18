@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NCMRV1H-es Juego de 2 maletas rígidas 55-69 Movom Turbo Rojas'
 sku: 'B07NCMRV1H-es'
-tags: [  ]
 actualPrice: 63.77 EUR
 currency: EUR
 price: 63.77

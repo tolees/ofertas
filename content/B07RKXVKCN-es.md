@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RKXVKCN-es Salomon X Reveal W Zapatillas de Senderismo Mujer Azul Icy...'
 sku: 'B07RKXVKCN-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

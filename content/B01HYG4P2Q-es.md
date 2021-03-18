@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HYG4P2Q-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con...'
 sku: 'B01HYG4P2Q-es'
-tags: [  ]
 actualPrice: 200.39 EUR
 currency: EUR
 price: 200.39

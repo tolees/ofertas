@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LGYKHKX-es Colon Total Power Gel Caps Higiene - Detergente para...'
 sku: 'B07LGYKHKX-es'
-tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

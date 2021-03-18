@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0874SFLGF-es Axceed - Máquina Cortar Pelo Profesional Recortadora Barba...'
 sku: 'B0874SFLGF-es'
-tags: [  ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

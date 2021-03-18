@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LWIAZ5E-es Smiffy s-27990S Miffy Traje Cebra Todo en Uno con Capucha...'
 sku: 'B00LWIAZ5E-es'
-tags: [  ]
 actualPrice: 7.66 EUR
 currency: EUR
 price: 7.66

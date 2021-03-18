@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZZ8LWR9-es Kayhan Originals - Pantalones Cortos de Deporte para...'
 sku: 'B07ZZ8LWR9-es'
-tags: [  ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

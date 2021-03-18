@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AHEVF70-es Citizen Reloj Analógico para Unisex de Cuarzo con Correa...'
 sku: 'B01AHEVF70-es'
-tags: [ 'citizen', ]
 actualPrice: 25.69 EUR
 currency: EUR
 price: 25.69

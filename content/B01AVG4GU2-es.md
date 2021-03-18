@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AVG4GU2-es Master Series Caña Espada de Energía Eléctrico - 1 Unidad'
 sku: 'B01AVG4GU2-es'
-tags: [  ]
 actualPrice: 20.03 EUR
 currency: EUR
 price: 20.03

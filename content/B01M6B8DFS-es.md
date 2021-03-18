@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6B8DFS-es Bergner Infinity Chef Set de Cuchillos y Barra magnética...'
 sku: 'B01M6B8DFS-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

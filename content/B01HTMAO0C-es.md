@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HTMAO0C-es Salewa MS Mountain Trainer Mid Gore-TEX Botas de...'
 sku: 'B01HTMAO0C-es'
-tags: [  ]
 actualPrice: 131.49 EUR
 currency: EUR
 price: 131.49

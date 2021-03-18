@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075ZNYGR3-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
 sku: 'B075ZNYGR3-es'
-tags: [  ]
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

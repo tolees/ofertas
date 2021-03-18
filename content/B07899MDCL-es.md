@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07899MDCL-es Meliconi Vinyl - Kit de Limpieza Profesional para Todo...'
 sku: 'B07899MDCL-es'
-tags: [  ]
 actualPrice: 14.87 EUR
 currency: EUR
 price: 14.87

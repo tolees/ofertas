@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQXBNT9-es YAMAY Smartwatch Impermeable Reloj Inteligente con...'
 sku: 'B07SQXBNT9-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

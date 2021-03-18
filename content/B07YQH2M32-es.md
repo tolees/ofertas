@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQH2M32-es Funko - Pop! Games. Cyberpunk 2077- Johnny Silverhand 2'
 sku: 'B07YQH2M32-es'
-tags: [  ]
 actualPrice: 12.71 EUR
 currency: EUR
 price: 12.71

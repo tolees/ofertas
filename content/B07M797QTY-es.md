@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M797QTY-es Clarks Un Larvik Peak Botas clásicas. para Hombre Piel...'
 sku: 'B07M797QTY-es'
-tags: [  ]
 actualPrice: 57.31 EUR
 currency: EUR
 price: 57.31

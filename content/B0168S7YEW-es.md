@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0168S7YEW-es Belle Azul - PURE SWISS - Sérum Facial de Ácido...'
 sku: 'B0168S7YEW-es'
-tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

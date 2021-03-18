@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KOAJ5M4-es Haberdashery Online - 100 Etiquetas para ropa...'
 sku: 'B01KOAJ5M4-es'
-tags: [ 'Acción y Aventura','Adornos y ornamentos de costura','Artículos de salud para perros','Artículos para perros','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Audio y vídeo portátil','Blu-ray','Bolígrafos de tinta gel','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Botitas y patucos para niños','Bricolaje y herramientas','Cepillos de dientes caninos','Ciencia ficción','Coleccionables','Costura','Costura y manualidades','Cuidado dental canino','Destornilladores','Electrónica','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Estatuas y maquetas en miniatura','Fantasía','Featured Categories','Figuras de muñecos chibi','Herramientas de mano','Herramientas manuales y eléctricas','Hogar y cocina','Instalación eléctrica','Juegos de destornilladores','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Oficina y papelería','Parches termoadhesivos','Películas','Películas y TV','Productos para mascotas','Radios portátiles','Robots aspiradores','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para bebés','Zapatos para hombre','Zapatos para niños','Zapatos y complementos','haberdashery online', ]
 actualPrice: 9.94 EUR
 currency: EUR
 price: 9.94

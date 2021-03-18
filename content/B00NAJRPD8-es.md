@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NAJRPD8-es Compex Fit 1.0 Electroestimulador Unisex Azul'
 sku: 'B00NAJRPD8-es'
-tags: [  ]
 actualPrice: 129.35 EUR
 currency: EUR
 price: 129.35

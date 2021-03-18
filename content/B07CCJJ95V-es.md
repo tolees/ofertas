@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CCJJ95V-es JACK & JONES Jjeholmen Sweat Hood Noos Capucha Hombre...'
 sku: 'B07CCJJ95V-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

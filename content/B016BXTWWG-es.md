@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016BXTWWG-es Devolo dLAN 550 WiFi - Kit de Inicio PLC Powerline 500...'
 sku: 'B016BXTWWG-es'
-tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

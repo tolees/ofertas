@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NYS5TTT-es Altavoces de ordenador Creative Pebble Plus 2.1...'
 sku: 'B07NYS5TTT-es'
-tags: [  ]
 actualPrice: 29.31 EUR
 currency: EUR
 price: 29.31

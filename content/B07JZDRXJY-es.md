@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JZDRXJY-es adidas TIRO19 Chándal Hombre Negro Black/Granite/White XS'
 sku: 'B07JZDRXJY-es'
-tags: [  ]
 actualPrice: 53.01 EUR
 currency: EUR
 price: 53.01

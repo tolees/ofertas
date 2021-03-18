@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PM2C2PK-es Huawei TWS CM-H1C - Auriculares con Bluetooth Color Blanco...'
 sku: 'B07PM2C2PK-es'
-tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

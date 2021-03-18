@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TJ9SDC3-es Levi s Original Batwing Azul Hm Patch Polo Dress Blues...'
 sku: 'B07TJ9SDC3-es'
-tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

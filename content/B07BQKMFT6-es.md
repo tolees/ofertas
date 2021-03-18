@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BQKMFT6-es ESDDI Estudio fotográfico portátil 50x50x50cm con asa y...'
 sku: 'B07BQKMFT6-es'
-tags: [  ]
 actualPrice: 56.23 EUR
 currency: EUR
 price: 56.23

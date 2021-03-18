@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077XMNTP9-es Under Armour Charged Cotton 6in Bóxer para Hombre Gris...'
 sku: 'B077XMNTP9-es'
-tags: [  ]
 actualPrice: 23.97 EUR
 currency: EUR
 price: 23.97

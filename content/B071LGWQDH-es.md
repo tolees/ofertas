@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071LGWQDH-es Under Armour UA HG Armour Printed Legging Leggings Mujer...'
 sku: 'B071LGWQDH-es'
-tags: [  ]
 actualPrice: 26.06 EUR
 currency: EUR
 price: 26.06

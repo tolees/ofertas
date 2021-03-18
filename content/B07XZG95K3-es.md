@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XZG95K3-es MSI Optix G27CQ4 - Monitor Gaming Curvo 27" WQHD 165Hz...'
 sku: 'B07XZG95K3-es'
-tags: [  ]
 actualPrice: 329.98 EUR
 currency: EUR
 price: 329.98

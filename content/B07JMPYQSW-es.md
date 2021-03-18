@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMPYQSW-es Esprit Crosby Beach Padded Bandeau Parte de Arriba de...'
 sku: 'B07JMPYQSW-es'
-tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

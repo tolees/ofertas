@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076HQQC2F-es adidas CORE18 PES PNT Pants Hombre Negro/Blanco M'
 sku: 'B076HQQC2F-es'
-tags: [  ]
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

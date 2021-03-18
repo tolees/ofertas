@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W9OYBPU-es Calvin Klein Radiant Cotton-Thong Tanga Negro Small para...'
 sku: 'B00W9OYBPU-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

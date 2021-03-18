@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VFZG9VI-es BERING Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B00VFZG9VI-es'
-tags: [  ]
 actualPrice: 85.24 EUR
 currency: EUR
 price: 85.24

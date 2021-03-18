@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002TMCCA8-es Rowenta Accesorio PAE Limpieza WB406120 Bolsa...'
 sku: 'B002TMCCA8-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

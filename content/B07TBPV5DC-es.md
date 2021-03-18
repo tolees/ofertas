@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TBPV5DC-es Michael Kors Connected Smartwatch con tecnología Wear OS...'
 sku: 'B07TBPV5DC-es'
-tags: [  ]
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

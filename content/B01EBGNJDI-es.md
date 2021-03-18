@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EBGNJDI-es NYX Professional Makeup NYX Professional Makeup brocha de...'
 sku: 'B01EBGNJDI-es'
-tags: [  ]
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

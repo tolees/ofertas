@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005UXOIU0-es Tanqueray Rangpur Ginebra 700ml'
 sku: 'B005UXOIU0-es'
-tags: [  ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

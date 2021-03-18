@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083LMZXX4-es WONER Cortapelos Profesional Hombre Recargable Motor...'
 sku: 'B083LMZXX4-es'
-tags: [ 'woner', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000P4IQF2-es Bosch Maletín X-Line con 50 unidades para taladrar y...'
 sku: 'B000P4IQF2-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFSMWW4-es Adidas Grand Court Zapatillas de Tenis para Hombre Blanco...'
 sku: 'B07KFSMWW4-es'
-tags: [  ]
 actualPrice: 28.8 EUR
 currency: EUR
 price: 28.8

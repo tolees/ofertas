@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK82DQD-es Le Coq Sportif COURTSTAR Zapatillas para Hombre Blanco...'
 sku: 'B07MK82DQD-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

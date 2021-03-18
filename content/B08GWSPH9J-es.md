@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GWSPH9J-es vinlley - Auriculares Inalámbricos Bluetooth Auriculares...'
 sku: 'B08GWSPH9J-es'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

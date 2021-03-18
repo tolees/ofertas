@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PT4S9RB-es MGA Entertainment - LOL Surprise - Fluffy Pets Winter -...'
 sku: 'B07PT4S9RB-es'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

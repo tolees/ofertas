@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010E09CRM-es Medinc Dirá Todo el Mundo a Salvar Vidas con el Ritmo...'
 sku: 'B010E09CRM-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XV18DM7-es SteelSeries Sensei Ten Ratón de Juego Sensor Óptico...'
 sku: 'B07XV18DM7-es'
-tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

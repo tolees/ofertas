@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VTPHL2-es KNORR las clásicas crema verduras mediterráneas 1 l'
 sku: 'B082VTPHL2-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MDJ2YMT-es #N/A/a Soporte de Metal de Muñeca Ajustable de 2 Piezas...'
 sku: 'B08MDJ2YMT-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

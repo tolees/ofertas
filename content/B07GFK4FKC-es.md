@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFK4FKC-es P Prettyia 1080P HD 1.5 Pantalla Mini Cámara Digital Linda...'
 sku: 'B07GFK4FKC-es'
-tags: [  ]
 actualPrice: 30.26 EUR
 currency: EUR
 price: 30.26

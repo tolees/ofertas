@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JPDDC61-es DAM TEKKIWEAR. DMZ009BK. Pulsera Inteligente Bluetooth...'
 sku: 'B07JPDDC61-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

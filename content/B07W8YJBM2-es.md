@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W8YJBM2-es LEGO Minecraft - La Invasión de los Illager Juguete de...'
 sku: 'B07W8YJBM2-es'
-tags: [  ]
 actualPrice: 57.59 EUR
 currency: EUR
 price: 57.59

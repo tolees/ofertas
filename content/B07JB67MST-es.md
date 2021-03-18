@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JB67MST-es Micrófono de Condensador USB ammoon con Cable MIC con...'
 sku: 'B07JB67MST-es'
-tags: [  ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

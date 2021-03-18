@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N1UCVIA-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B00N1UCVIA-es'
-tags: [ 'fossil', ]
 actualPrice: 128.98 EUR
 currency: EUR
 price: 128.98

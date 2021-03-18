@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XP3Y6LD-es CYBEX Gold Silla de coche para niños Solution S i-Fix Para...'
 sku: 'B07XP3Y6LD-es'
-tags: [  ]
 actualPrice: 137.95 EUR
 currency: EUR
 price: 137.95

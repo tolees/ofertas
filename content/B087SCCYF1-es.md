@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087SCCYF1-es Deutsche Grammophon - John Williams - Live in Vienna'
 sku: 'B087SCCYF1-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

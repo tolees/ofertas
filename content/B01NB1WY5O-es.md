@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NB1WY5O-es Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B01NB1WY5O-es'
-tags: [  ]
 actualPrice: 114.4 EUR
 currency: EUR
 price: 114.4

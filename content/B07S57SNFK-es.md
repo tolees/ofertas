@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S57SNFK-es Columbia Ivo Trail Zapatillas para Hombre Gris Monument...'
 sku: 'B07S57SNFK-es'
-tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

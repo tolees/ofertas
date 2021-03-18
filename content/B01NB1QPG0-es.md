@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NB1QPG0-es UEETEK Magnética flotante acuario vidrio limpiador cepillo...'
 sku: 'B01NB1QPG0-es'
-tags: [  ]
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

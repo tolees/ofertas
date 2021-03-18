@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005SSL1UM-es Victoria Inglesa Bicolor Zapatillas para Hombre Azul...'
 sku: 'B005SSL1UM-es'
-tags: [  ]
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

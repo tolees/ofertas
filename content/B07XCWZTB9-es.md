@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCWZTB9-es PUMA Ftblnxt Casual Pant Chándal Hombre Black-Deep Lichen...'
 sku: 'B07XCWZTB9-es'
-tags: [  ]
 actualPrice: 29.08 EUR
 currency: EUR
 price: 29.08

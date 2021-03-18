@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004NIH6UC-es Lékué Vaporera Doble Verde 2 Niveles Silicona 22 cm'
 sku: 'B004NIH6UC-es'
-tags: [  ]
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

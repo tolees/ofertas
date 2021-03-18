@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H43FBVJ-es Crema Facial de Acido Hialuronico Vegano 50ml de la Más...'
 sku: 'B07H43FBVJ-es'
-tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

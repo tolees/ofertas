@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKCXM9S-es WOSTOO Purpurinas Polvo Chunky Glitter Purpurina para el...'
 sku: 'B07HKCXM9S-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

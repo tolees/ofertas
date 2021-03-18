@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MHT6T7U-es AEG STM7500S Batidora Brazo con Doble Cuchilla de Titanio...'
 sku: 'B00MHT6T7U-es'
-tags: [  ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

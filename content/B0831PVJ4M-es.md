@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0831PVJ4M-es Canadian Peak Parka NIÑO BANOTIKO Azul Marino 14'
 sku: 'B0831PVJ4M-es'
-tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

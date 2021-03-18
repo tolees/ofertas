@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VGSB77L-es eXtremeRate TouchPad de Repuesto para Mando de PS5 Panel...'
 sku: 'B08VGSB77L-es'
-tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

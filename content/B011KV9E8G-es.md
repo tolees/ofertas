@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011KV9E8G-es Solac Pedi Active 8 - Aparato de pedicura'
 sku: 'B011KV9E8G-es'
-tags: [  ]
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

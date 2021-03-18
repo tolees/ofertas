@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQ24GS7-es Fdit Perros Clipper Eléctrico Profesional Pet Grooming...'
 sku: 'B07JQ24GS7-es'
-tags: [  ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

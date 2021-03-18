@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DSGHF7-es Muñequera Túnel Carpiano Estabilizador de Muñeca Ajustable...'
 sku: 'B081DSGHF7-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RWDX9TW-es SteelSeries Apex 7 - Teclado mecánico para Gaming Smart...'
 sku: 'B07RWDX9TW-es'
-tags: [  ]
 actualPrice: 140.99 EUR
 currency: EUR
 price: 140.99

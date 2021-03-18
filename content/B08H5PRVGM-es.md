@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H5PRVGM-es Nero Giardini - NeroGiardini A921210F Sneaker Kids Niña De...'
 sku: 'B08H5PRVGM-es'
-tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

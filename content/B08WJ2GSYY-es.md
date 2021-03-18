@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WJ2GSYY-es Nihlsfen Bandeja bucal dúplex Suave Dientes blanqueamiento...'
 sku: 'B08WJ2GSYY-es'
-tags: [  ]
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

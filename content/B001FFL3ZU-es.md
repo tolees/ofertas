@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001FFL3ZU-es Weider Victory Endurance Amino Recovery - 120 Capsulas'
 sku: 'B001FFL3ZU-es'
-tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

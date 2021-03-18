@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087TSGN7Q-es Docooler Cámara Web USB A870 Cámara Web 480P Micrófono...'
 sku: 'B087TSGN7Q-es'
-tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

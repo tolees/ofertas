@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073VF7FY7-es KAMTRON - Auriculares Bluetooth 4.1 Deportivos...'
 sku: 'B073VF7FY7-es'
-tags: [  ]
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

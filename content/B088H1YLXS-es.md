@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088H1YLXS-es Agger 1PC Conectar Purificadores de Agua Accesorios de...'
 sku: 'B088H1YLXS-es'
-tags: [  ]
 actualPrice: 3.17 EUR
 currency: EUR
 price: 3.17

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5TXQR1-es Adidas Advantage Zapatillas de Deporte para Mujer...'
 sku: 'B07J5TXQR1-es'
-tags: [  ]
 actualPrice: 47.97 EUR
 currency: EUR
 price: 47.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYS12WY-es Calvin Klein Reloj para de con Correa en Caucho K8R114D1'
 sku: 'B07CYS12WY-es'
-tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

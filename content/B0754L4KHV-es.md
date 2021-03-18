@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0754L4KHV-es Easton Marlowe 6 PR Calcetines de Vestir Homber - 6pk #39...'
 sku: 'B0754L4KHV-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

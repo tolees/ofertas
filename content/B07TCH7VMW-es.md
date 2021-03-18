@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TCH7VMW-es Quiksilver Miz Kimitt-Polo De Manga Larga para Hombre Navy...'
 sku: 'B07TCH7VMW-es'
-tags: [  ]
 actualPrice: 18.72 EUR
 currency: EUR
 price: 18.72

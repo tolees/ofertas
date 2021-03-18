@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084XBS9K1-es BANLVS Smartwatch Reloj Inteligente IP67 con Correa...'
 sku: 'B084XBS9K1-es'
-tags: [ 'banlvs', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0779HZCH1-es BOSS Casual Passenger 10193126 01 Polo Hombre Azul Dark...'
 sku: 'B0779HZCH1-es'
-tags: [  ]
 actualPrice: 59.47 EUR
 currency: EUR
 price: 59.47

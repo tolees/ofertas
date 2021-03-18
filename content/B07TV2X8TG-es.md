@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV2X8TG-es AICOK Deshidratador de Alimentos 250W Temporizador...'
 sku: 'B07TV2X8TG-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

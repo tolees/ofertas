@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBPJ8L8-es Helly Hansen Outline Beanie Gorro Sombrero De Invierno...'
 sku: 'B07LBPJ8L8-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

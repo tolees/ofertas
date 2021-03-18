@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7M3JPL-es Logitech Slim Folio Pro para iPad Pro de 11 pulgadas 1a y...'
 sku: 'B07W7M3JPL-es'
-tags: [ 'logitech', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HXBROLC-es Fujifilm XF 56 mm f:1.2 R - Objetivo para Fujifilm X...'
 sku: 'B00HXBROLC-es'
-tags: [  ]
 actualPrice: 314.0 EUR
 currency: EUR
 price: 314.0

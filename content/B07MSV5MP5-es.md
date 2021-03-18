@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSV5MP5-es Cat Footwear Quadrate Botas Clasicas para Hombre Naranja...'
 sku: 'B07MSV5MP5-es'
-tags: [  ]
 actualPrice: 30.32 EUR
 currency: EUR
 price: 30.32

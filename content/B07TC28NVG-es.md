@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TC28NVG-es Sony CEE Games New Gen - Medievil'
 sku: 'B07TC28NVG-es'
-tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

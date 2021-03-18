@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089F7KCFT-es Z Paint by Numbers Animales con pinceles y pigmento...'
 sku: 'B089F7KCFT-es'
-tags: [  ]
 actualPrice: 9.04 EUR
 currency: EUR
 price: 9.04

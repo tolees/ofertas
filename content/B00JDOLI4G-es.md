@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JDOLI4G-es La Couronne de Paille The Puppet Crown'
 sku: 'B00JDOLI4G-es'
-tags: [  ]
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

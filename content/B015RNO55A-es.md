@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015RNO55A-es Lotus 18140/1 Trendy- Reloj de cuarzo para mujer con...'
 sku: 'B015RNO55A-es'
-tags: [  ]
 actualPrice: 81.82 EUR
 currency: EUR
 price: 81.82

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07589QZMC-es Spintires: MudRunner'
 sku: 'B07589QZMC-es'
-tags: [  ]
 actualPrice: 24.33 EUR
 currency: EUR
 price: 24.33

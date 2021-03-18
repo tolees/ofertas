@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WWR7MZ-es Michael Kors Reloj Analogico para Hombre de Cuarzo con...'
 sku: 'B075WWR7MZ-es'
-tags: [  ]
 actualPrice: 134.26 EUR
 currency: EUR
 price: 134.26

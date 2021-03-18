@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PYYYV4-es Reloj - findtime - Para - MSLLP80PROWEISS'
 sku: 'B087PYYYV4-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

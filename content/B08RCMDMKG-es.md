@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RCMDMKG-es JooDaa Juego de pestañas rizador de pestañas magnético...'
 sku: 'B08RCMDMKG-es'
-tags: [  ]
 actualPrice: 4.1 EUR
 currency: EUR
 price: 4.1

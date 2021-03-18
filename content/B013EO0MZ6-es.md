@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013EO0MZ6-es ABYstyle - DC COMICS - Llavero - Logo Batman'
 sku: 'B013EO0MZ6-es'
-tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

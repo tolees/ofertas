@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072C64FJL-es Khanomak - Pantalón Corto Deportivo - para Mujer Rojo...'
 sku: 'B072C64FJL-es'
-tags: [  ]
 actualPrice: 11.06 EUR
 currency: EUR
 price: 11.06

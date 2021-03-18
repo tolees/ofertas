@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BKQT5RC-es Daniel Wellington 0106DW Reloj Analógico para Hombre de...'
 sku: 'B00BKQT5RC-es'
-tags: [  ]
 actualPrice: 69.63 EUR
 currency: EUR
 price: 69.63

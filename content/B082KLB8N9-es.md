@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082KLB8N9-es Ticwatch TicPods 2 Pro Auriculares Inalámbricos Detección...'
 sku: 'B082KLB8N9-es'
-tags: [  ]
 actualPrice: 97.99 EUR
 currency: EUR
 price: 97.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JLX74ZC-es AOKBON Cargador Baterias Coche Moto 8A 12V/24V Cargadores...'
 sku: 'B08JLX74ZC-es'
-tags: [  ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

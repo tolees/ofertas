@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CD8DLD-es FMPC Carcasa con Cuerda Samsung Galaxy S10E Cristal TPU...'
 sku: 'B085CD8DLD-es'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

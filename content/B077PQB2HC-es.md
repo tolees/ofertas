@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077PQB2HC-es Masajeador Cuero Cabelludo FReatech [Mojado & Seco]...'
 sku: 'B077PQB2HC-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F6PZPFO-es HELLA 9XW 178 878-181 Limpiaparabrisas'
 sku: 'B00F6PZPFO-es'
-tags: [  ]
 actualPrice: 1.52 EUR
 currency: EUR
 price: 1.52

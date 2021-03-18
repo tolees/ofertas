@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHPD5HS-es Belkin MIXIT - Cable metálico de Lightning a USB con...'
 sku: 'B00KHPD5HS-es'
-tags: [  ]
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

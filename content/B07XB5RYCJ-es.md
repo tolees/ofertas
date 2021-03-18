@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XB5RYCJ-es Mini Pluma para cámara-Bolígrafo de cámara espía-Pluma...'
 sku: 'B07XB5RYCJ-es'
-tags: [  ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

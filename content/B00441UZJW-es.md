@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00441UZJW-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B00441UZJW-es'
-tags: [ 'citizen', ]
 actualPrice: 107.75 EUR
 currency: EUR
 price: 107.75

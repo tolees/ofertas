@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TPW2QGY-es Superdry Poolside Pique S/s Polo Gris Black/Grey Marl Nln...'
 sku: 'B07TPW2QGY-es'
-tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003UOWDCG-es Duracell Pilas especiales alcalinas MN21 de 12 V paquete...'
 sku: 'B003UOWDCG-es'
-tags: [  ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KG61R4Q-es Salter Glass - Báscula de baño analizadora 180 kg color negro'
 sku: 'B00KG61R4Q-es'
-tags: [  ]
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

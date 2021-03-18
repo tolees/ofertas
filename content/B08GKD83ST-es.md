@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GKD83ST-es Pepe Jeans Scotch Neceser Dos Compartimentos Adaptable...'
 sku: 'B08GKD83ST-es'
-tags: [  ]
 actualPrice: 20.22 EUR
 currency: EUR
 price: 20.22

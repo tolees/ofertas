@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BTK77P4-es ASUS ROG Strix SCAR 15 G532LWS-HF113T - Portátil Gaming de...'
 sku: 'B08BTK77P4-es'
-tags: [  ]
 actualPrice: 1553.0 EUR
 currency: EUR
 price: 1553.0

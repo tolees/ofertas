@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WZQ1QJZ-es Wonderbra Glamour Raffine Triangle Padde Sujetador de...'
 sku: 'B07WZQ1QJZ-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

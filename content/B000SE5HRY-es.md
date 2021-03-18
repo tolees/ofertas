@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SE5HRY-es TRIXIE Cuerda de Juego con Bola ø7 cm 50 cm Perro'
 sku: 'B000SE5HRY-es'
-tags: [ 'trixie', ]
 actualPrice: 2.4 EUR
 currency: EUR
 price: 2.4

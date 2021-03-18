@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J45BSYC-es Triumph Amourette Charm N Sujetador sin Aros Blanco White...'
 sku: 'B07J45BSYC-es'
-tags: [  ]
 actualPrice: 24.8 EUR
 currency: EUR
 price: 24.8

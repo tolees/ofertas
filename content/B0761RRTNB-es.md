@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0761RRTNB-es BRTLX Bombilla LED Esférica E27 con Filamento 2W...'
 sku: 'B0761RRTNB-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

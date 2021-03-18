@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FPF6QXR-es Gspirit Decorativo De Madera Letras 26 Letras Madera Pared...'
 sku: 'B07FPF6QXR-es'
-tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

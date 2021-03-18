@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BMKC85Z-es Fantasy Flight Games- AT-RT FFSWL04'
 sku: 'B07BMKC85Z-es'
-tags: [  ]
 actualPrice: 13.41 EUR
 currency: EUR
 price: 13.41

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JZPMF35-es Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños Blanco...'
 sku: 'B07JZPMF35-es'
-tags: [  ]
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0168UDQ0Q-es Warner Bros. Entertainment España S.L. - Trilogia El...'
 sku: 'B0168UDQ0Q-es'
-tags: [  ]
 actualPrice: 33.27 EUR
 currency: EUR
 price: 33.27

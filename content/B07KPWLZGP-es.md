@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KPWLZGP-es adidas Lin Core Org Organizer Unisex adulto...'
 sku: 'B07KPWLZGP-es'
-tags: [  ]
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

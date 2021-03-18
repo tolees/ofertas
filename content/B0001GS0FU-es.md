@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0001GS0FU-es Black+Decker WM301 Workmate - Banco de Trabajo Bambú y...'
 sku: 'B0001GS0FU-es'
-tags: [  ]
 actualPrice: 35.79 EUR
 currency: EUR
 price: 35.79

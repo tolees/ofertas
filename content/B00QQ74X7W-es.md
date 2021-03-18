@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QQ74X7W-es frysen - Zapatillas Running Hombre Tenis de Deportivas...'
 sku: 'B00QQ74X7W-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

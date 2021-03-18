@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QKVVKRM-es Gorrion Rojo Bluray Digibook [Blu-ray]'
 sku: 'B07QKVVKRM-es'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

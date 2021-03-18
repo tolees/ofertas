@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009WOOTBQ-es Máscara de Pestañas Volumen Millón de Pestañas Volume...'
 sku: 'B009WOOTBQ-es'
-tags: [  ]
 actualPrice: 5.26 EUR
 currency: EUR
 price: 5.26

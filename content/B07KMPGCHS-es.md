@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KMPGCHS-es adidas Fit 2pc 3s Traje de Baño Mujer Negro 32'
 sku: 'B07KMPGCHS-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

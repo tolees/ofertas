@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0774P4HJC-es TTMOW Pizarra Blanca Magnética Calendario Tablero...'
 sku: 'B0774P4HJC-es'
-tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

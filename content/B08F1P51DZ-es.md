@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F1P51DZ-es Grupo Erik - ERIK - Calendario de pared 2021 The...'
 sku: 'B08F1P51DZ-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

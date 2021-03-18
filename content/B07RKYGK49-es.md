@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RKYGK49-es Columbia 2 Strap Sandalia Hombre Brown Cordovan Curry 231...'
 sku: 'B07RKYGK49-es'
-tags: [  ]
 actualPrice: 25.73 EUR
 currency: EUR
 price: 25.73

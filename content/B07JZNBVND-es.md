@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZNBVND-es 28 Palms Tropical Hawaiian Print Halter Shift Dress...'
 sku: 'B07JZNBVND-es'
-tags: [  ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

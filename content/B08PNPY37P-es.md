@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PNPY37P-es Comely Lupa de Pantalla para Teléfono 14" Amplificadores...'
 sku: 'B08PNPY37P-es'
-tags: [  ]
 actualPrice: 14.43 EUR
 currency: EUR
 price: 14.43

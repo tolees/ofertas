@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMSCL5T-es adidas W Zne Rev Mallas Mujer Negro/grisei XS'
 sku: 'B07KMSCL5T-es'
-tags: [  ]
 actualPrice: 25.75 EUR
 currency: EUR
 price: 25.75

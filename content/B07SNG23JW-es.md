@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SNG23JW-es Xiaomi Mi Smart Band 4 - Tracker de actividad física con...'
 sku: 'B07SNG23JW-es'
-tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

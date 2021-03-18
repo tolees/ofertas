@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQEM6OU-es Intex 28602 - Depuradora cartucho tipo H Krystal Clear...'
 sku: 'B01MQEM6OU-es'
-tags: [  ]
 actualPrice: 21.08 EUR
 currency: EUR
 price: 21.08

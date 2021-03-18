@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQCTVR9-es Arctic F14 Pwm Pst Carcasa Del Ordenador Ventilador 14 Cm...'
 sku: 'B07NQCTVR9-es'
-tags: [  ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

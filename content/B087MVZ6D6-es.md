@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087MVZ6D6-es Funko- Pop Vinyl 1990-Raphael Teenage Mutant Ninja Turtles...'
 sku: 'B087MVZ6D6-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

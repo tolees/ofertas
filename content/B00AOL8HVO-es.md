@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AOL8HVO-es VALLEJO-3076506 76506 VALLEJO MODEL WASH COLOR OXID...'
 sku: 'B00AOL8HVO-es'
-tags: [  ]
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WWYF6XH-es FEBT Coches RC Coche Todoterreno Militar RC Truck Coche de...'
 sku: 'B08WWYF6XH-es'
-tags: [  ]
 actualPrice: 37.89 EUR
 currency: EUR
 price: 37.89

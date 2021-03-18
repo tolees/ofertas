@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EDNJ9RU-es Sony MDRXD150 - Auriculares de Diadema Cerrados Blanco 18...'
 sku: 'B00EDNJ9RU-es'
-tags: [  ]
 actualPrice: 18.6 EUR
 currency: EUR
 price: 18.6

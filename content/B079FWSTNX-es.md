@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079FWSTNX-es Woxter Power Bank QC 16000 Silver - Batería portátil con...'
 sku: 'B079FWSTNX-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BYZ99MH-es MARSGAMING Mars Gaming MHBC Cascos Gaming FC Barcelona...'
 sku: 'B07BYZ99MH-es'
-tags: [  ]
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

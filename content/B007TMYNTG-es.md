@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007TMYNTG-es Converse Chuck Taylor CT As Hi Zapatillas Altas Mujer...'
 sku: 'B007TMYNTG-es'
-tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

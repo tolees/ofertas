@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IVLARUW-es Paco Rabanne 1 Million Privé Agua de Perfume Spray - 50 ml'
 sku: 'B01IVLARUW-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

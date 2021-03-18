@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IJ02ZVU-es Nilfisk 128470459 Accesorio Hidrolimpiadora Negro 50 x 30...'
 sku: 'B00IJ02ZVU-es'
-tags: [  ]
 actualPrice: 38.35 EUR
 currency: EUR
 price: 38.35

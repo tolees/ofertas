@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K9KWJHS-es Extractor de la Espinilla - Extractor del Acné Kit de la...'
 sku: 'B07K9KWJHS-es'
-tags: [  ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

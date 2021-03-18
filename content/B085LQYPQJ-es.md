@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LQYPQJ-es Munich Soon 11 Zapatillas Unisex Adulto Multicolor 44 EU'
 sku: 'B085LQYPQJ-es'
-tags: [  ]
 actualPrice: 57.23 EUR
 currency: EUR
 price: 57.23

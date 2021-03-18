@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZY14SHF-es Masajeador Portátil Louviva Inalámbrico Masajeador Wand...'
 sku: 'B06ZY14SHF-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

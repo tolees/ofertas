@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GPRBM1X-es DJI Mavic 2 Pro Drone + Care Refresh - Drone con Cámara...'
 sku: 'B07GPRBM1X-es'
-tags: [  ]
 actualPrice: 800.0 EUR
 currency: EUR
 price: 800.0

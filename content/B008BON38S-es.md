@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008BON38S-es Oral-B TriZone - Cabezal de recambio para cepillo de...'
 sku: 'B008BON38S-es'
-tags: [  ]
 actualPrice: 12.73 EUR
 currency: EUR
 price: 12.73

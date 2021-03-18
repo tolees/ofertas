@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PRH27VL-es Creed + Creed Ii. La Leyenda De Rocky Blu-Ray [Blu-ray]'
 sku: 'B07PRH27VL-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

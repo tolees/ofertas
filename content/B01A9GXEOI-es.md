@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01A9GXEOI-es Logitech M171 Ratón Inalámbrico 2 4 GHz con Nano Receptor...'
 sku: 'B01A9GXEOI-es'
-tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

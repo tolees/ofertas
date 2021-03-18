@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078PHC6YZ-es Vans Ward - Zapatillas para Mujer Negro...'
 sku: 'B078PHC6YZ-es'
-tags: [  ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

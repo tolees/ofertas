@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HRJN47-es adidas Core18 TR SHO Y Pantalones Cortos de Deporte Unisex...'
 sku: 'B076HRJN47-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

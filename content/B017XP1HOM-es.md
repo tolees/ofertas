@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017XP1HOM-es Helly Hansen Vancouver Jacket Hombre Black S'
 sku: 'B017XP1HOM-es'
-tags: [  ]
 actualPrice: 64.28 EUR
 currency: EUR
 price: 64.28

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KY5D1CH-es KEISTUO USB WiFi Adaptador 600Mbps Driver Free-Auto Dual...'
 sku: 'B08KY5D1CH-es'
-tags: [  ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

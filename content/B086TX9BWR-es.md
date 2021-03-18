@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086TX9BWR-es Oral-B CrossAction Cabezales de recambio con tecnología...'
 sku: 'B086TX9BWR-es'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

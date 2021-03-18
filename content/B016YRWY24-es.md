@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016YRWY24-es Silla de paseo compacta iCOO Acrobat hasta 18 kg con...'
 sku: 'B016YRWY24-es'
-tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003B9VCBI-es John Handel - John 59008 - Pelota canguro 45 - 50 cm...'
 sku: 'B003B9VCBI-es'
-tags: [  ]
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

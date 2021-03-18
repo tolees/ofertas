@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKJW44Q-es Kipling - Art Mini Bolsos maletín Mujer Morado Active...'
 sku: 'B07DKJW44Q-es'
-tags: [  ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

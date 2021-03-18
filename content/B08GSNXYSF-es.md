@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GSNXYSF-es Home Holic Coche para Niños Pequeños con Control Remoto...'
 sku: 'B08GSNXYSF-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

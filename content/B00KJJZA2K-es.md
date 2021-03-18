@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KJJZA2K-es Vans Y Atwood - Zapatillas para niños Color Army/Negro...'
 sku: 'B00KJJZA2K-es'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

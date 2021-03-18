@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZHWGFMX-es Seneo Cargador Inalámbrico Rápido - 7.5 W Cargador...'
 sku: 'B07ZHWGFMX-es'
-tags: [  ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

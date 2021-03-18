@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073D5WF4C-es Puma Quarter Plain Calcetín Unisex Adulto Gris Anthraci/L...'
 sku: 'B073D5WF4C-es'
-tags: [ 'puma', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

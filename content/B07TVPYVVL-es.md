@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVPYVVL-es KiplingImagine PackMujerBolsos totesVerde Light Aloe...'
 sku: 'B07TVPYVVL-es'
-tags: [  ]
 actualPrice: 23.22 EUR
 currency: EUR
 price: 23.22

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQTF8ZR-es P Prettyia +La Cubierta De Puerta Trasera Impermeable con...'
 sku: 'B07KQTF8ZR-es'
-tags: [  ]
 actualPrice: 8.78 EUR
 currency: EUR
 price: 8.78

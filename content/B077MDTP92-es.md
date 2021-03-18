@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MDTP92-es PUMA Smash Wns V2 L Zapatillas Mujer Negro Black Black 38 EU'
 sku: 'B077MDTP92-es'
-tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

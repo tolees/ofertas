@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HWO9N0K-es Superga 2790 Acotw Linea Up and Down Zapatillas Mujer Azul...'
 sku: 'B00HWO9N0K-es'
-tags: [  ]
 actualPrice: 32.82 EUR
 currency: EUR
 price: 32.82

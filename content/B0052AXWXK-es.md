@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0052AXWXK-es Columbia Fast Trek II Forro Polar con Cremallera Hombre...'
 sku: 'B0052AXWXK-es'
-tags: [  ]
 actualPrice: 29.3 EUR
 currency: EUR
 price: 29.3

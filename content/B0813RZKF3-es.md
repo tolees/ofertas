@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813RZKF3-es adidas Falcon W Zapatillas para Mujer Off White/Raw...'
 sku: 'B0813RZKF3-es'
-tags: [  ]
 actualPrice: 30.35 EUR
 currency: EUR
 price: 30.35

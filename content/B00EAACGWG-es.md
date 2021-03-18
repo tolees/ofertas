@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EAACGWG-es Rowenta SF3122 Optiliss Keratin & Tourmaline - Plancha de...'
 sku: 'B00EAACGWG-es'
-tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

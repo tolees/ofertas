@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N3W06XC-es Candy CMXG20DS Microondas con grill y cook in app...'
 sku: 'B01N3W06XC-es'
-tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

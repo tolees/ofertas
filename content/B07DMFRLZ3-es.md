@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DMFRLZ3-es Philips Avent Scd301/01 - Set De Recién Nacido Gama...'
 sku: 'B07DMFRLZ3-es'
-tags: [  ]
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

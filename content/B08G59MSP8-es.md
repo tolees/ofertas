@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G59MSP8-es DINKALEN Arrancador de Coches 12800mAh 800A Arrancador de...'
 sku: 'B08G59MSP8-es'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

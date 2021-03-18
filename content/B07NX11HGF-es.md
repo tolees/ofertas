@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NX11HGF-es Axe - Black - Desodorante Bodyspray para hombre 48 horas...'
 sku: 'B07NX11HGF-es'
-tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

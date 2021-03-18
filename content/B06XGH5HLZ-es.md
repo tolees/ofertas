@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XGH5HLZ-es Maybelline New York Fit Me - Polvos Compactos Matificantes...'
 sku: 'B06XGH5HLZ-es'
-tags: [  ]
 actualPrice: 4.44 EUR
 currency: EUR
 price: 4.44

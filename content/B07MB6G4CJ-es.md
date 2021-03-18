@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MB6G4CJ-es Lacoste'
 sku: 'B07MB6G4CJ-es'
-tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RXJCWZW-es New Balance 574v2 Zapatillas para Hombre Azul Navy SPZ...'
 sku: 'B07RXJCWZW-es'
-tags: [  ]
 actualPrice: 59.14 EUR
 currency: EUR
 price: 59.14

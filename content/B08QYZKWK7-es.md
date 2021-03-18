@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QYZKWK7-es TX - Parches Termoadhesivos Infantiles Decorativos Ropa 10...'
 sku: 'B08QYZKWK7-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

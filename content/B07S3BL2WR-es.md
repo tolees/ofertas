@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3BL2WR-es KangaROOS Raceyard Ev Zapatillas Unisex Adulto Naranja...'
 sku: 'B07S3BL2WR-es'
-tags: [  ]
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

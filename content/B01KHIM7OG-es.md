@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KHIM7OG-es Philips Bombilla LED esférica casquillo E27 8 W...'
 sku: 'B01KHIM7OG-es'
-tags: [ 'philips', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

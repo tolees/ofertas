@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWV35VW-es New Balance 574v2 Core Zapatillas para Mujer Negro Black...'
 sku: 'B06XWV35VW-es'
-tags: [  ]
 actualPrice: 58.41 EUR
 currency: EUR
 price: 58.41

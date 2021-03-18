@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SJGYD33-es San Ignacio Set 4 Cuchillos de Cocina COLECCIÓN Toledo...'
 sku: 'B07SJGYD33-es'
-tags: [  ]
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

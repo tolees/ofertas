@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PY98PCJ-es Funko - Pop! Animation: Simpsons - Maggie Figura De Vinil...'
 sku: 'B07PY98PCJ-es'
-tags: [  ]
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

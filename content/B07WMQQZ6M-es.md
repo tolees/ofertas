@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WMQQZ6M-es 9 LED Luz de Lectura Libro OMERIL Lampara Lectura...'
 sku: 'B07WMQQZ6M-es'
-tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

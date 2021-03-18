@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6IVX96-es Lacoste Lerond BL 2 CAM Zapatillas para Hombre Negro Black...'
 sku: 'B01N6IVX96-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

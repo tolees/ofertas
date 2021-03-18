@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S967JFV-es adidas Energyfalcon X Zapatillas de Entrenamiento para...'
 sku: 'B07S967JFV-es'
-tags: [  ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

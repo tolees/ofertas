@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYW7DJB-es Nemesis Now Boss - Figura Decorativa de Calavera 18 cm...'
 sku: 'B07KYW7DJB-es'
-tags: [  ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

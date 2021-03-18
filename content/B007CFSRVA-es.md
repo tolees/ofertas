@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007CFSRVA-es Superga 2750 COTU Classic Zapatillas Unisex Adulto...'
 sku: 'B007CFSRVA-es'
-tags: [  ]
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

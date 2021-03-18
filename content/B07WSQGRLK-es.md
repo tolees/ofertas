@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSQGRLK-es Nuevo Versión Transmisor FM Manos Libres Bluetooth Coche...'
 sku: 'B07WSQGRLK-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

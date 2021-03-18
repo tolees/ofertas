@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPK1MPQ-es Funko - POP! Vinilo: Disney: Toy Story 4: Buzz Lightyear'
 sku: 'B07KPK1MPQ-es'
-tags: [ 'funko', ]
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

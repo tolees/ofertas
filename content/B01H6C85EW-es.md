@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H6C85EW-es Polti Vaporetto Smart 35 Mop Limpiador a Vapor con Cepillo...'
 sku: 'B01H6C85EW-es'
-tags: [ 'polti', ]
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

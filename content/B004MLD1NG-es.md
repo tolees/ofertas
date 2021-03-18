@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004MLD1NG-es Mann Filter - MANN-FILTERW68 Filtro de Aceite'
 sku: 'B004MLD1NG-es'
-tags: [  ]
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

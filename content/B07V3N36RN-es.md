@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3N36RN-es Tommy Hilfiger Tommy Jeans Summer Shoe Mocasines para...'
 sku: 'B07V3N36RN-es'
-tags: [  ]
 actualPrice: 28.58 EUR
 currency: EUR
 price: 28.58

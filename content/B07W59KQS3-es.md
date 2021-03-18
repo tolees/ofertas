@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W59KQS3-es Funko - POP Animation: Dragon Ball Z - Mecha Frieza'
 sku: 'B07W59KQS3-es'
-tags: [ 'funko', ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073BLPBNT-es Fornarina BE17T524F42990 Top Mujeres Gris Xl'
 sku: 'B073BLPBNT-es'
-tags: [  ]
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

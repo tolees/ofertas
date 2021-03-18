@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QGVQN28-es G-STAR RAW Roxic Tapered Cargo Pantalones Beige Sahara...'
 sku: 'B07QGVQN28-es'
-tags: [  ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

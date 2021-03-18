@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078VHHPFS-es Sony WISP500B Auriculares Inalámbrico Tamaño Único Negro'
 sku: 'B078VHHPFS-es'
-tags: [ 'sony', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

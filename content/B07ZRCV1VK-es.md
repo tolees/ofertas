@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZRCV1VK-es perfk QT192 Tapa De La Cubierta Del Cilindro Maestro Del...'
 sku: 'B07ZRCV1VK-es'
-tags: [  ]
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

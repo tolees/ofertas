@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WRQQLCN-es Tijeras de Cocina de Alta Resistencia – Galardonadas como...'
 sku: 'B06WRQQLCN-es'
-tags: [  ]
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

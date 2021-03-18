@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SCMDBZQ-es NIP pacifier Cherry cherry-shaped: BPA-free size 2 from 6...'
 sku: 'B07SCMDBZQ-es'
-tags: [  ]
 actualPrice: 5.07 EUR
 currency: EUR
 price: 5.07

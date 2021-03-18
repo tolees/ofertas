@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001W7D3JA-es Wolfcraft 4050000 - Plantilla para enchufes de muro hueco....'
 sku: 'B001W7D3JA-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

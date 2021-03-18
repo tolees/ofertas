@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRZ2XL2-es New Balance 373 Zapatillas para Hombre Amarillo Yellow...'
 sku: 'B07PRZ2XL2-es'
-tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

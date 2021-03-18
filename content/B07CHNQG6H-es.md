@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHNQG6H-es Diesel Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07CHNQG6H-es'
-tags: [  ]
 actualPrice: 142.02 EUR
 currency: EUR
 price: 142.02

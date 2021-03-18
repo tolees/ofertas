@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYCM8ZB-es Lee Plain Crew Suéter Azul Midnight Navy Ma Small para Hombre'
 sku: 'B07TYCM8ZB-es'
-tags: [  ]
 actualPrice: 23.73 EUR
 currency: EUR
 price: 23.73

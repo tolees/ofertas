@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPSGYS-es Pepe Jeans Helaia suéter Dulwich 594 Medium para Mujer'
 sku: 'B07MZPSGYS-es'
-tags: [  ]
 actualPrice: 36.35 EUR
 currency: EUR
 price: 36.35

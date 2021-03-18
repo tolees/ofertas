@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001BYJ1FY-es TRIXIE Comedero Cerámica Huellas 1.4 l ø20 cm Marrón-Crema...'
 sku: 'B001BYJ1FY-es'
-tags: [  ]
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

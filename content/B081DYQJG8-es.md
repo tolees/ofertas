@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DYQJG8-es Yocktec Funda+Protector de Pantalla de la Cámara para...'
 sku: 'B081DYQJG8-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

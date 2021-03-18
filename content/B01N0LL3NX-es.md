@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N0LL3NX-es adidas Vs Pace Zapatillas Hombre Azul Collegiate Navy...'
 sku: 'B01N0LL3NX-es'
-tags: [  ]
 actualPrice: 34.84 EUR
 currency: EUR
 price: 34.84

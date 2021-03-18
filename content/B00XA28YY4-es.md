@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XA28YY4-es Gallo - Harina de trigo - 1 kg'
 sku: 'B00XA28YY4-es'
-tags: [  ]
 actualPrice: 0.6 EUR
 currency: EUR
 price: 0.6

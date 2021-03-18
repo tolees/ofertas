@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814T3CGH-es Under Armour UA HG Armour Graphic Swerve WM Leggings...'
 sku: 'B0814T3CGH-es'
-tags: [  ]
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

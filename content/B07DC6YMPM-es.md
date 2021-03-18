@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC6YMPM-es PUMA Smash V2 L Zapatillas Unisex Adulto Gris Quarry White...'
 sku: 'B07DC6YMPM-es'
-tags: [  ]
 actualPrice: 27.32 EUR
 currency: EUR
 price: 27.32

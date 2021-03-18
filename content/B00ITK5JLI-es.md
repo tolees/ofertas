@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ITK5JLI-es Crema de calor 200 ml'
 sku: 'B00ITK5JLI-es'
-tags: [  ]
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

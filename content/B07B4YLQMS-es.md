@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4YLQMS-es Circuito ferrocarril Ciudad ajetreada'
 sku: 'B07B4YLQMS-es'
-tags: [  ]
 actualPrice: 48.88 EUR
 currency: EUR
 price: 48.88

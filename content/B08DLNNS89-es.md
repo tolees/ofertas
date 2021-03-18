@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DLNNS89-es Satisfyer Satisfyer Curvy 3+ Rosa Con App'
 sku: 'B08DLNNS89-es'
-tags: [  ]
 actualPrice: 27.57 EUR
 currency: EUR
 price: 27.57

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0002DI1DS-es Nutrafin Bloque Calcio Neutralizador para Tortugas'
 sku: 'B0002DI1DS-es'
-tags: [  ]
 actualPrice: 1.19 EUR
 currency: EUR
 price: 1.19

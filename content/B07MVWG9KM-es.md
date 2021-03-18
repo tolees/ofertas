@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MVWG9KM-es Western Digital - WD My Passport Go 1 TB disco duro sólido...'
 sku: 'B07MVWG9KM-es'
-tags: [  ]
 actualPrice: 137.03 EUR
 currency: EUR
 price: 137.03

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019F0FVYU-es BABY born - Bolsa cambiador muñeca bebé'
 sku: 'B019F0FVYU-es'
-tags: [  ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

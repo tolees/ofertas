@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N6XWT19-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B01N6XWT19-es'
-tags: [  ]
 actualPrice: 115.45 EUR
 currency: EUR
 price: 115.45

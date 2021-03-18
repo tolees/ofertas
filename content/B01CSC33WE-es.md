@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CSC33WE-es Paladone Lámpara Multicolor'
 sku: 'B01CSC33WE-es'
-tags: [  ]
 actualPrice: 25.39 EUR
 currency: EUR
 price: 25.39

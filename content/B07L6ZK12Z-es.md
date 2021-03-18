@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L6ZK12Z-es Ksix - Auriculares Inalámbricos Go&Play Unlimited hasta 20...'
 sku: 'B07L6ZK12Z-es'
-tags: [  ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1PMBHM-es New Balance 574v2 Zapatillas para Mujer Rosa Pink/White...'
 sku: 'B07S1PMBHM-es'
-tags: [  ]
 actualPrice: 53.45 EUR
 currency: EUR
 price: 53.45

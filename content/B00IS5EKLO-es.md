@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IS5EKLO-es Cubre escayolas brazo'
 sku: 'B00IS5EKLO-es'
-tags: [  ]
 actualPrice: 8.6 EUR
 currency: EUR
 price: 8.6

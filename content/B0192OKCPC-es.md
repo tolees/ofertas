@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0192OKCPC-es Casio G-SHOCK Reloj Analógico-Digital Reloj...'
 sku: 'B0192OKCPC-es'
-tags: [  ]
 actualPrice: 98.51 EUR
 currency: EUR
 price: 98.51

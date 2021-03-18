@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGLZGRG-es SALOMON Sense Feel Zapatillas de Trail Running para Hombre...'
 sku: 'B07RGLZGRG-es'
-tags: [  ]
 actualPrice: 41.24 EUR
 currency: EUR
 price: 41.24

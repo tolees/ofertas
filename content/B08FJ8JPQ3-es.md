@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FJ8JPQ3-es QUARED Purificador de Aire Portátil con Filtro HEPA USB...'
 sku: 'B08FJ8JPQ3-es'
-tags: [  ]
 actualPrice: 28.16 EUR
 currency: EUR
 price: 28.16

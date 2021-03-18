@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004MNBB9U-es FISCHER 038002 - Brida BN 8 8x1168 natural Envase de 100 ud.'
 sku: 'B004MNBB9U-es'
-tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

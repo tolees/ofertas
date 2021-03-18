@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015Y92QBM-es Rimmel London Magnifeyes Mono Sombra de Ojos Tono 005...'
 sku: 'B015Y92QBM-es'
-tags: [  ]
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

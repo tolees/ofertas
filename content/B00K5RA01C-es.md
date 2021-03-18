@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K5RA01C-es Tommy Hilfiger 3p Brief Tanga Ngro Negro 990 Large para...'
 sku: 'B00K5RA01C-es'
-tags: [  ]
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

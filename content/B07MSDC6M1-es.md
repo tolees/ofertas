@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MSDC6M1-es Pilas AA Recargable POWEROWL Alta Capacidad 2800mAh 1.2V...'
 sku: 'B07MSDC6M1-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001B0XG6I-es Merrell Intercept Zapatillas para Hombre Marrón Moth Brown...'
 sku: 'B001B0XG6I-es'
-tags: [  ]
 actualPrice: 63.4 EUR
 currency: EUR
 price: 63.4

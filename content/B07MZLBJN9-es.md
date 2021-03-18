@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZLBJN9-es Gioseppo 56378 Botas Slouch para Niñas Negro Negro Negro...'
 sku: 'B07MZLBJN9-es'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

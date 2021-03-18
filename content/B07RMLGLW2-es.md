@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMLGLW2-es Calvin Klein - Moulded Washbag Fundas de carnés Hombre...'
 sku: 'B07RMLGLW2-es'
-tags: [  ]
 actualPrice: 25.29 EUR
 currency: EUR
 price: 25.29

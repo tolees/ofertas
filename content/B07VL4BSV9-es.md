@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VL4BSV9-es Nike Pico 5 TDV Zapatillas Unisex Niños Multicolor...'
 sku: 'B07VL4BSV9-es'
-tags: [  ]
 actualPrice: 11.31 EUR
 currency: EUR
 price: 11.31

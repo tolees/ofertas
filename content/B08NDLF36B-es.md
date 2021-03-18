@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NDLF36B-es SUAVINEX 307493 - Set higiene edición limitada: gel-champú...'
 sku: 'B08NDLF36B-es'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ3PJBP-es Puma Vikky Platform VT Zapatillas para Mujer Negro Black...'
 sku: 'B07CZ3PJBP-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

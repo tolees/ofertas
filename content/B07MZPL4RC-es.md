@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZPL4RC-es Pepe Jeans Kim suéter Forest Green 682 Small para Mujer'
 sku: 'B07MZPL4RC-es'
-tags: [  ]
 actualPrice: 36.75 EUR
 currency: EUR
 price: 36.75

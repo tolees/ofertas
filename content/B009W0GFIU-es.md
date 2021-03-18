@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009W0GFIU-es Sunstech PXR3 - Tocadiscos 33 y 45 rpm USB FM color marrón'
 sku: 'B009W0GFIU-es'
-tags: [  ]
 actualPrice: 72.98 EUR
 currency: EUR
 price: 72.98

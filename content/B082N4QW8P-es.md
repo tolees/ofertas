@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082N4QW8P-es Merrell Nova GTX Zapatillas para Carreras de montaña...'
 sku: 'B082N4QW8P-es'
-tags: [  ]
 actualPrice: 69.89 EUR
 currency: EUR
 price: 69.89

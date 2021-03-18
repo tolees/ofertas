@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078JLQWG9-es Timex Reloj Analógico para Hombre de Cuarzo con Correa en...'
 sku: 'B078JLQWG9-es'
-tags: [  ]
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

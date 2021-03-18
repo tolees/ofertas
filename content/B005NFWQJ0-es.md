@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005NFWQJ0-es Warner Bros. Entertainment España S.L. - Pack Pesadilla En...'
 sku: 'B005NFWQJ0-es'
-tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

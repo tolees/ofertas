@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDPS6CD-es Casio Reloj de Pulsera BA-110CR-2AER'
 sku: 'B07DDPS6CD-es'
-tags: [  ]
 actualPrice: 77.91 EUR
 currency: EUR
 price: 77.91

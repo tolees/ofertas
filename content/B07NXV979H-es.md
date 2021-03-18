@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXV979H-es San Ignacio Premium Set de Bateria 5 Piezas + 4...'
 sku: 'B07NXV979H-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

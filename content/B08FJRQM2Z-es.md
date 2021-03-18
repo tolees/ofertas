@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FJRQM2Z-es Meridiem Games - Tanuki Justice'
 sku: 'B08FJRQM2Z-es'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

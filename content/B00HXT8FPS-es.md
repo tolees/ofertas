@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HXT8FPS-es Ubiquiti Networks NanoStationM LocoM5 - Repetidor CPE 5...'
 sku: 'B00HXT8FPS-es'
-tags: [  ]
 actualPrice: 62.89 EUR
 currency: EUR
 price: 62.89

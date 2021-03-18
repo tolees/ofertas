@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A8PTUMQ-es Orlane Fermete Cuidado de Nuit Thermo Lift 50 ml'
 sku: 'B00A8PTUMQ-es'
-tags: [  ]
 actualPrice: 74.4 EUR
 currency: EUR
 price: 74.4

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0814QZBH6-es ESR Cable USB C a Lightning 90 Grados Cable Codo [1M MFi...'
 sku: 'B0814QZBH6-es'
-tags: [  ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

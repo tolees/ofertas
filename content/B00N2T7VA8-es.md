@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N2T7VA8-es Sikasil Pool Sellante silicona neutra para sellados en...'
 sku: 'B00N2T7VA8-es'
-tags: [  ]
 actualPrice: 9.19 EUR
 currency: EUR
 price: 9.19

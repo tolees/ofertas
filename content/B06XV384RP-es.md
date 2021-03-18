@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XV384RP-es victoria Plano VICTORIA 1915 Basket Tiras Lona 136606-KIDS...'
 sku: 'B06XV384RP-es'
-tags: [  ]
 actualPrice: 16.3 EUR
 currency: EUR
 price: 16.3

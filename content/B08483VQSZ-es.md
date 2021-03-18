@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08483VQSZ-es Pepe Jeans Lulu Suéter Rosa 321 Large para Mujer'
 sku: 'B08483VQSZ-es'
-tags: [  ]
 actualPrice: 32.81 EUR
 currency: EUR
 price: 32.81

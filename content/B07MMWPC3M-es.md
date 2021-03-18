@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMWPC3M-es Wrangler Skinny Jeans Azul Dark Indigo X1e 32W / 30L para...'
 sku: 'B07MMWPC3M-es'
-tags: [  ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

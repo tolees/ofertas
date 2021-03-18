@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VTD1VH8-es Reloj de pulsera CLUSE - Mujer CL18015'
 sku: 'B00VTD1VH8-es'
-tags: [  ]
 actualPrice: 61.59 EUR
 currency: EUR
 price: 61.59

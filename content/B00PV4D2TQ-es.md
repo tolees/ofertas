@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PV4D2TQ-es Columbia Powderbug Plus II Botas de nieve para niña Azul...'
 sku: 'B00PV4D2TQ-es'
-tags: [  ]
 actualPrice: 30.15 EUR
 currency: EUR
 price: 30.15

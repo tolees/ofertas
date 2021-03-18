@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLBLT23-es 7 Unids UV Gel Nail Art Pluma Cepillos de Pintura Punteada...'
 sku: 'B07MLBLT23-es'
-tags: [  ]
 actualPrice: 0.24 EUR
 currency: EUR
 price: 0.24

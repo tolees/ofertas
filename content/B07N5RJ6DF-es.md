@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5RJ6DF-es Calvin Klein ENFOLD TOP HANDLEMujerBolsos bandoleraRosa...'
 sku: 'B07N5RJ6DF-es'
-tags: [  ]
 actualPrice: 67.59 EUR
 currency: EUR
 price: 67.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ALWA1N8-es The Walt Disney Company Iberia - Alicia En El País De Las...'
 sku: 'B00ALWA1N8-es'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

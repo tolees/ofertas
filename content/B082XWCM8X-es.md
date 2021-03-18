@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XWCM8X-es ANGEL NINA Pendientes de cristal para mujer Pendientes de...'
 sku: 'B082XWCM8X-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

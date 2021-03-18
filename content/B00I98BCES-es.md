@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I98BCES-es Colgate Protección Caries Pasta de dientes flúor activo y...'
 sku: 'B00I98BCES-es'
-tags: [  ]
 actualPrice: 1.54 EUR
 currency: EUR
 price: 1.54

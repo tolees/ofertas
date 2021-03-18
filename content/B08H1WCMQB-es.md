@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H1WCMQB-es Moin Limpiador de Poros Limpiador Facial Eléctrico...'
 sku: 'B08H1WCMQB-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

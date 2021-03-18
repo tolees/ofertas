@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0895W3RQL-es ieGeek PC Webcam con Micrófono Cámara Web Full HD 1080P...'
 sku: 'B0895W3RQL-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

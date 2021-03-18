@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J2QNZJK-es Sunsbell Automático 600ml Dispensador de Jabón Montado en...'
 sku: 'B08J2QNZJK-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

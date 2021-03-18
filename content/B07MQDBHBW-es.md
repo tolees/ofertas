@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQDBHBW-es BCHE Electroestimulador Muscular Abdominales Masajeador...'
 sku: 'B07MQDBHBW-es'
-tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

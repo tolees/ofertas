@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HN8X76Y-es Cecotec Conga Serie 1290 Robot Aspirador 1400 Pa...'
 sku: 'B07HN8X76Y-es'
-tags: [  ]
 actualPrice: 96.01 EUR
 currency: EUR
 price: 96.01

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00U7GP4FS-es BLACK+DECKER PS7525-QS Motosierra telescópica pértiga 800W...'
 sku: 'B00U7GP4FS-es'
-tags: [  ]
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

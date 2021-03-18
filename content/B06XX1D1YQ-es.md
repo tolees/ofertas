@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XX1D1YQ-es Holland Rosso 300 gr'
 sku: 'B06XX1D1YQ-es'
-tags: [  ]
 actualPrice: 1.79 EUR
 currency: EUR
 price: 1.79

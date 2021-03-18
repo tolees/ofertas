@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000XULK5Q-es Romika Laser 20002 70 000 - Zapatillas de lona estilo...'
 sku: 'B000XULK5Q-es'
-tags: [  ]
 actualPrice: 15.36 EUR
 currency: EUR
 price: 15.36

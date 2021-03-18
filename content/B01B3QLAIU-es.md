@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B3QLAIU-es Disney / Pixar - El Viaje De Arlo The Good Dinosaur...'
 sku: 'B01B3QLAIU-es'
-tags: [  ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

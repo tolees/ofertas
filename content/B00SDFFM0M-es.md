@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SDFFM0M-es Topcom RC-6430 – Walkie-talkie alcance hasta 3 km número...'
 sku: 'B00SDFFM0M-es'
-tags: [  ]
 actualPrice: 10.81 EUR
 currency: EUR
 price: 10.81

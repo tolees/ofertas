@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ZHB6N1M-es Braun Series 3 ProSkin 3020s Afeitadora Eléctrica Hombre...'
 sku: 'B00ZHB6N1M-es'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

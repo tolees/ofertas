@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDDN9MH-es IMC Toys- Atrapa Estrellas Juego Multicolor 97346'
 sku: 'B07DDDN9MH-es'
-tags: [  ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

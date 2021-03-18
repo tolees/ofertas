@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JRDNT8P-es Tommy Hilfiger Coco Legging Leggings Morado Beet Red 840...'
 sku: 'B07JRDNT8P-es'
-tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

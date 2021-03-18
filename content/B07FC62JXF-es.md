@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FC62JXF-es 1 Unidad de Medidor de Presión de Aire para Pelotas de...'
 sku: 'B07FC62JXF-es'
-tags: [  ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZRX361-es Skechers ROVINA Clean Sheen Zapatillas para Mujer Blanco...'
 sku: 'B07VZRX361-es'
-tags: [  ]
 actualPrice: 34.33 EUR
 currency: EUR
 price: 34.33

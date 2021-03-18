@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00JVQUZZO-es Disney - El Libro De La Selva 2014 [DVD]'
 sku: 'B00JVQUZZO-es'
-tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

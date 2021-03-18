@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07STBX1XH-es Proyector YABER Mini Portátil Proyector Cine en Casa 5500...'
 sku: 'B07STBX1XH-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

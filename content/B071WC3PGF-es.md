@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071WC3PGF-es Cameo - Mientras ellas duermen [Blu-ray]'
 sku: 'B071WC3PGF-es'
-tags: [  ]
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

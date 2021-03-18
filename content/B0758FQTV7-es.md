@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0758FQTV7-es Amazon Basics - Parque de juegos y ejercicios para...'
 sku: 'B0758FQTV7-es'
-tags: [  ]
 actualPrice: 41.66 EUR
 currency: EUR
 price: 41.66

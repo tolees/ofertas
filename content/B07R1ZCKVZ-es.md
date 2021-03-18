@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R1ZCKVZ-es Under Armour Heatgear Locut Calcetines Unisex adulto Negro LG'
 sku: 'B07R1ZCKVZ-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079QPJ53T-es Chicco- Pelota transformable 00009374000000'
 sku: 'B079QPJ53T-es'
-tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

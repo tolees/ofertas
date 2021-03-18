@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M4JDK6F-es Sony - SackBoy - Special Edition'
 sku: 'B08M4JDK6F-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

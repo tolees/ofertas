@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CCBPHHB-es LUCATEX - rollo Césped artificial Vegas 1x4metros - 40mm...'
 sku: 'B08CCBPHHB-es'
-tags: [  ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

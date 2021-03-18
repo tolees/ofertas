@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000VE5XL6-es Casio Collection W-800H-1AVES Reloj Digital Unisex Negro'
 sku: 'B000VE5XL6-es'
-tags: [  ]
 actualPrice: 22.08 EUR
 currency: EUR
 price: 22.08

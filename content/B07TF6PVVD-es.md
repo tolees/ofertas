@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TF6PVVD-es iAmotus Ratón Inalámbrico 2.4GHz Wireless Ratón Silencioso...'
 sku: 'B07TF6PVVD-es'
-tags: [ 'iamotus', ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

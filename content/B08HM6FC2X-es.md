@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HM6FC2X-es Cecotec Robot de Cocina Multifunción Mambo 8590 Cuchara...'
 sku: 'B08HM6FC2X-es'
-tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

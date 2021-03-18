@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QWY5BCC-es VOVEES BLD9 - Crema facial antiarrugas hidratante...'
 sku: 'B07QWY5BCC-es'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

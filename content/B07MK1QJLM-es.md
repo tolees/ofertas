@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QJLM-es Napapijri EILS Polo Blanco Bright White 002 XL para Hombre'
 sku: 'B07MK1QJLM-es'
-tags: [  ]
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

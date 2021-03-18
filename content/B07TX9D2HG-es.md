@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TX9D2HG-es American Tourister Disney Legends Spinner S Equipaje de...'
 sku: 'B07TX9D2HG-es'
-tags: [  ]
 actualPrice: 64.7 EUR
 currency: EUR
 price: 64.7

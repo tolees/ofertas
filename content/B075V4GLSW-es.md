@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075V4GLSW-es Muvit I/O MIOCRU001 - Control Remoto Universal Inteligente...'
 sku: 'B075V4GLSW-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

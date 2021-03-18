@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TJ6ZQ1-es Lacoste Esparre Chukka0320 1 CMA Zapatillas Hombre Nvy/Off...'
 sku: 'B082TJ6ZQ1-es'
-tags: [  ]
 actualPrice: 45.24 EUR
 currency: EUR
 price: 45.24

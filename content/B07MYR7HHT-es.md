@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYR7HHT-es Soporte Tablet Apoyo de Teléfono para Coches Diseño...'
 sku: 'B07MYR7HHT-es'
-tags: [  ]
 actualPrice: 11.36 EUR
 currency: EUR
 price: 11.36

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W1T53VM-es PIKOLINOS Deportivo de Piel CORBERA M4P'
 sku: 'B07W1T53VM-es'
-tags: [  ]
 actualPrice: 65.81 EUR
 currency: EUR
 price: 65.81

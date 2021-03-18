@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CS2H45D-es Kalypso - Commandos 2 & Praetorians HD Remaster Doube Pack'
 sku: 'B08CS2H45D-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

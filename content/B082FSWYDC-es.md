@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FSWYDC-es Familybox Red de Piscina Skimmer Recoge Hojas Recogehojas...'
 sku: 'B082FSWYDC-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

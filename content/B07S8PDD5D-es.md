@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S8PDD5D-es PUMA Ralph Sampson Lo Perf Zapatillas Unisex Adulto Negro...'
 sku: 'B07S8PDD5D-es'
-tags: [  ]
 actualPrice: 28.35 EUR
 currency: EUR
 price: 28.35

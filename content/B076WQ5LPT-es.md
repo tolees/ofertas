@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076WQ5LPT-es Disney Reloj Análogo clásico para Mujer de Cuarzo con...'
 sku: 'B076WQ5LPT-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

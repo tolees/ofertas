@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FBFW7VV-es Olivia Burton Reloj Analógico para Mujer de Cuarzo con...'
 sku: 'B07FBFW7VV-es'
-tags: [  ]
 actualPrice: 46.77 EUR
 currency: EUR
 price: 46.77

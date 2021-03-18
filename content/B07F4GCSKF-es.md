@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F4GCSKF-es Maybelline New York - Superstay Matte Ink City Edition...'
 sku: 'B07F4GCSKF-es'
-tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

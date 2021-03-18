@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPHTFVP-es Cressi Rantau Bag Bolsa para Piscina/Deporte Adultos...'
 sku: 'B07QPHTFVP-es'
-tags: [  ]
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

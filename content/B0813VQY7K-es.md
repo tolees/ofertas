@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813VQY7K-es adidas Originals Superstar Zapatillas Deportivas Hombre...'
 sku: 'B0813VQY7K-es'
-tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

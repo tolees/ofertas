@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z8SHDVM-es PICTEK Teclado Gaming RGB con Soporte para Teléfono Móvil...'
 sku: 'B07Z8SHDVM-es'
-tags: [  ]
 actualPrice: 30.88 EUR
 currency: EUR
 price: 30.88

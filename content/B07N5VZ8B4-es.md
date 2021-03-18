@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5VZ8B4-es Calvin Klein PUFFER FLAT CROSSOVERHombreShoppers y bolsos...'
 sku: 'B07N5VZ8B4-es'
-tags: [  ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

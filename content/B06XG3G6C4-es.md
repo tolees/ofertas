@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XG3G6C4-es Babimax Alicate Pelacables Automático Multifuncional Auto-...'
 sku: 'B06XG3G6C4-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

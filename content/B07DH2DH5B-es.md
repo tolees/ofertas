@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DH2DH5B-es HUGO Henfords Pantalones Azul Dark Blue 401 106 para Hombre'
 sku: 'B07DH2DH5B-es'
-tags: [  ]
 actualPrice: 65.67 EUR
 currency: EUR
 price: 65.67

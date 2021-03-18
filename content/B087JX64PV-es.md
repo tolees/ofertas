@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087JX64PV-es DJI Mavic Air 2 Drone Quadcopter UAV con Cámara de 48MP 4K...'
 sku: 'B087JX64PV-es'
-tags: [  ]
 actualPrice: 400.0 EUR
 currency: EUR
 price: 400.0

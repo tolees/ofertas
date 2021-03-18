@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QGG3TTH-es Pablosky 064554 Botas para Bebés Gris Gris Gris 22 EU'
 sku: 'B07QGG3TTH-es'
-tags: [  ]
 actualPrice: 14.75 EUR
 currency: EUR
 price: 14.75

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0759BMCS4-es M3 MEDIATRES ESTUDIO - Museum'
 sku: 'B0759BMCS4-es'
-tags: [  ]
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

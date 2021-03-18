@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QS2WXFT-es Vieta Pro Easy - Altavoz inalámbrico True Wireless...'
 sku: 'B07QS2WXFT-es'
-tags: [  ]
 actualPrice: 23.92 EUR
 currency: EUR
 price: 23.92

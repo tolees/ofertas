@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016WLPYHE-es Spectrum Noir SPECN-SPA-CLE3 Sparkle Fine Glitter...'
 sku: 'B016WLPYHE-es'
-tags: [ 'spectrum noir', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

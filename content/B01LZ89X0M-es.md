@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZ89X0M-es Panasonic Lumix DMC-LX15 - Cámara Compacta Premium de 20.9...'
 sku: 'B01LZ89X0M-es'
-tags: [  ]
 actualPrice: 384.2 EUR
 currency: EUR
 price: 384.2

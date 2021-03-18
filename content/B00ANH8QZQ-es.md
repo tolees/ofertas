@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ANH8QZQ-es Walt Disney Pictures - Pinocho [DVD]'
 sku: 'B00ANH8QZQ-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0050IG9DE-es STANLEY 1-96-181 - Cinturón portaherramientas'
 sku: 'B0050IG9DE-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

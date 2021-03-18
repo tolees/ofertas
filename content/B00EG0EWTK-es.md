@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EG0EWTK-es Bosch Hogar - Bosch MFQ40303 Styline Batidora y Amasadora...'
 sku: 'B00EG0EWTK-es'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

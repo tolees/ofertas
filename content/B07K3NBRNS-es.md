@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K3NBRNS-es BOSS Schino-Slim D Pantalones Beige Open Beige 280 W31/L34...'
 sku: 'B07K3NBRNS-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

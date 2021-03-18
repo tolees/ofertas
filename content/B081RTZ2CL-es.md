@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081RTZ2CL-es PUMA At ESS Barrel Bag Bolsa Deporte Mujer Foxglove Black...'
 sku: 'B081RTZ2CL-es'
-tags: [  ]
 actualPrice: 25.27 EUR
 currency: EUR
 price: 25.27

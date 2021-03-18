@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FL7FVS-es Imanes Neodimio FEYG Imanes Nevera Extrem Imán Fuerte 2 2...'
 sku: 'B075FL7FVS-es'
-tags: [  ]
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PRMJKJW-es MARTINELLI Zapato de Vestir de Piel Lenny 1384'
 sku: 'B07PRMJKJW-es'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ID4TXN0-es Semillas Batlle - Semillas Hortícolas - Tomate Marmande VR...'
 sku: 'B00ID4TXN0-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

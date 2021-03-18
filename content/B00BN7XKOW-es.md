@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BN7XKOW-es Neutrogena Loción Corporal Reparación Intensa Piel Seca...'
 sku: 'B00BN7XKOW-es'
-tags: [  ]
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

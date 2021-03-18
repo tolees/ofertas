@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YPVJR3C-es Fossil Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B07YPVJR3C-es'
-tags: [  ]
 actualPrice: 89.96 EUR
 currency: EUR
 price: 89.96

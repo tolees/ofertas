@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000AREHO8-es Skechers SPORT - ENERGY Women s Low Top Trainers White Wml...'
 sku: 'B000AREHO8-es'
-tags: [  ]
 actualPrice: 40.52 EUR
 currency: EUR
 price: 40.52

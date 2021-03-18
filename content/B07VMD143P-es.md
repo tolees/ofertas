@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VMD143P-es Otger Lensker - Juego de brocas escalonadas machos de...'
 sku: 'B07VMD143P-es'
-tags: [  ]
 actualPrice: 12.21 EUR
 currency: EUR
 price: 12.21

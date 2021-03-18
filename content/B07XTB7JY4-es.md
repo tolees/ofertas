@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XTB7JY4-es SEGMINISMART Spray de Entrenamiento para Gatos Cat Scratch...'
 sku: 'B07XTB7JY4-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013SLCG2C-es Logitech M535 Ratón Inalámbrico Bluetooth Sensor Láser...'
 sku: 'B013SLCG2C-es'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

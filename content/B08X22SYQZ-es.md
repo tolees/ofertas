@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X22SYQZ-es Jessgirl - Juego de Toallas de baño de Lujo de algodón de...'
 sku: 'B08X22SYQZ-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BQD5J18-es Scottex Sensitive Papel Higiénico - 42 rollos'
 sku: 'B07BQD5J18-es'
-tags: [  ]
 actualPrice: 17.6 EUR
 currency: EUR
 price: 17.6

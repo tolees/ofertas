@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0846F3BXB-es Pepe Jeans Dasha Suéter Blanco 808 6 para Niñas'
 sku: 'B0846F3BXB-es'
-tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

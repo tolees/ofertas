@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BN7XHPY-es Atkinsons Desodorante - 200 ml.'
 sku: 'B00BN7XHPY-es'
-tags: [  ]
 actualPrice: 4.39 EUR
 currency: EUR
 price: 4.39

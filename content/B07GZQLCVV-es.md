@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZQLCVV-es SPC Chilly Radio FM y Am Color Negro con asa de sujeción'
 sku: 'B07GZQLCVV-es'
-tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

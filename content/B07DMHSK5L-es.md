@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DMHSK5L-es Philips Avent SCF043/27-2 - Tetinas natural flujo medio...'
 sku: 'B07DMHSK5L-es'
-tags: [  ]
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

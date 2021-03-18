@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFYKVSP-es Levi s Woodward L Zapatillas para Hombre Azul Navy Blue 17...'
 sku: 'B07SFYKVSP-es'
-tags: [  ]
 actualPrice: 26.87 EUR
 currency: EUR
 price: 26.87

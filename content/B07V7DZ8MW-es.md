@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7DZ8MW-es JACK & JONES Jjiace Jjworker WW Pantalones Verde Olive...'
 sku: 'B07V7DZ8MW-es'
-tags: [  ]
 actualPrice: 15.76 EUR
 currency: EUR
 price: 15.76

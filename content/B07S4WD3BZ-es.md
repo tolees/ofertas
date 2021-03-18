@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4WD3BZ-es New Balance 373v2 n Zapatillas para Mujer Morado Madder KP...'
 sku: 'B07S4WD3BZ-es'
-tags: [  ]
 actualPrice: 21.87 EUR
 currency: EUR
 price: 21.87

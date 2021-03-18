@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YOSA85Q-es Rankie Cable Adaptador HDMI a DVI 1 8m Negro'
 sku: 'B00YOSA85Q-es'
-tags: [  ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

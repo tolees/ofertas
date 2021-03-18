@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0834BKBPS-es adidas Duramo SL Zapatillas Hombre NEGBÁS/NEGBÁS/GRISEI 43...'
 sku: 'B0834BKBPS-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

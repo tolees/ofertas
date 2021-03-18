@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PMTLN67-es Under Armour MK1 Warmup Short Deportivo Transpirable...'
 sku: 'B07PMTLN67-es'
-tags: [  ]
 actualPrice: 16.71 EUR
 currency: EUR
 price: 16.71

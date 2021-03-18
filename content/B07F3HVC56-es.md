@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F3HVC56-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07F3HVC56-es'
-tags: [ 'guess', ]
 actualPrice: 145.5 EUR
 currency: EUR
 price: 145.5

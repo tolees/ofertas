@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HBH5D2L-es WiCareYo 1.8M 6ft Audio Video Cable AV 9 Pines para...'
 sku: 'B07HBH5D2L-es'
-tags: [  ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

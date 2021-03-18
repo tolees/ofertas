@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LB1F3ML-es Mallalah S9HW Mini Drone con cámara HD S9 Plegable RC...'
 sku: 'B07LB1F3ML-es'
-tags: [  ]
 actualPrice: 33.21 EUR
 currency: EUR
 price: 33.21

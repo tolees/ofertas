@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0055ZWQUW-es Logitech MK710 Combo Teclado y Ratón Inalámbrico para...'
 sku: 'B0055ZWQUW-es'
-tags: [  ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

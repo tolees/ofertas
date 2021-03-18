@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089DN7SHW-es Nocilla Original 0% Azúcares Añadidos - Sin Aceite de...'
 sku: 'B089DN7SHW-es'
-tags: [  ]
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDCR8FC-es Desigual 19WAYA01 - Cartera para mujer de Sintético Mujer...'
 sku: 'B07NDCR8FC-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

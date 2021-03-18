@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RS6QMPY-es Toner Kingdom Cartucho de Tinta Compatible de Repuesto...'
 sku: 'B08RS6QMPY-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

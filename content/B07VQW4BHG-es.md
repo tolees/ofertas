@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQW4BHG-es Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de...'
 sku: 'B07VQW4BHG-es'
-tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N8RQXZV-es Wonderbra Ultimate Silhouette Sans Armature Sujetador con...'
 sku: 'B07N8RQXZV-es'
-tags: [  ]
 actualPrice: 13.96 EUR
 currency: EUR
 price: 13.96

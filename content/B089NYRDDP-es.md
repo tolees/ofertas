@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NYRDDP-es DOHUI Funda LG Q61 2 en 1 Robusta Carcasa Híbrida TPU + PC...'
 sku: 'B089NYRDDP-es'
-tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

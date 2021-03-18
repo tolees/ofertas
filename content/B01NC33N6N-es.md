@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NC33N6N-es Goula- Juego de construcción Personajes articulado 53144'
 sku: 'B01NC33N6N-es'
-tags: [  ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

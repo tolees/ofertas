@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TYGT6KQ-es TRIXIE Comedero Cerámica Gatos 0.3 l ø12 cm Crema-Azul Gato'
 sku: 'B00TYGT6KQ-es'
-tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

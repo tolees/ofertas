@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NPC4LTR-es wirarpa Bragas Mujer Algodón Slips Cómoda y Suave Braguita...'
 sku: 'B08NPC4LTR-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

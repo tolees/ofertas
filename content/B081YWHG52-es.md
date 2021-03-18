@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081YWHG52-es Cecotec Patinete eléctrico Bongo Serie A. Potencia máxima...'
 sku: 'B081YWHG52-es'
-tags: [  ]
 actualPrice: 298.99 EUR
 currency: EUR
 price: 298.99

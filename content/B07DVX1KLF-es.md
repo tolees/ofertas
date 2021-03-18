@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DVX1KLF-es Columbia Trans Alps F.k.t. II Zapatillas de Running para...'
 sku: 'B07DVX1KLF-es'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L9FXKX5-es NIVEA Naturally Good Agua Micelar con Aloe Vera Bio 400 ml...'
 sku: 'B08L9FXKX5-es'
-tags: [  ]
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

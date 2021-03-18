@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2LL9V5-es adidas Runfalcon Zapatillas de Trail Running para Mujer...'
 sku: 'B07K2LL9V5-es'
-tags: [  ]
 actualPrice: 24.98 EUR
 currency: EUR
 price: 24.98

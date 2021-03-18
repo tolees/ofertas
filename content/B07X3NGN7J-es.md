@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3NGN7J-es Eastpak Springer Riñonera 23 cm 2 L Naranja Blakout Upcoming'
 sku: 'B07X3NGN7J-es'
-tags: [  ]
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

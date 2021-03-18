@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X423CML-es Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con...'
 sku: 'B06X423CML-es'
-tags: [  ]
 actualPrice: 138.42 EUR
 currency: EUR
 price: 138.42

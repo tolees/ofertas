@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00J5C2IS6-es Silit Storio Juego 3 recipientes multifunción Negro y Rojo'
 sku: 'B00J5C2IS6-es'
-tags: [  ]
 actualPrice: 37.17 EUR
 currency: EUR
 price: 37.17

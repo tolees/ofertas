@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSTGS8L-es KIKILASH Sérum crece pestañas 3ml - Tratamiento...'
 sku: 'B07GSTGS8L-es'
-tags: [  ]
 actualPrice: 26.17 EUR
 currency: EUR
 price: 26.17

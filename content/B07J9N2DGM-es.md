@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J9N2DGM-es Navidul Jamón de bellota ibérico + jamonero + cuchillo...'
 sku: 'B07J9N2DGM-es'
-tags: [  ]
 actualPrice: 242.9 EUR
 currency: EUR
 price: 242.9

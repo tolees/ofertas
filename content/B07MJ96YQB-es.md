@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ96YQB-es UniqueMe Funda para Huawei P30 Lite Ultra [Slim Thin] TPU...'
 sku: 'B07MJ96YQB-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

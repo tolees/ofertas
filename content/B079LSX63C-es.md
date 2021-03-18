@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079LSX63C-es Estuche Pepe Jeans Pierce con organizador'
 sku: 'B079LSX63C-es'
-tags: [  ]
 actualPrice: 7.23 EUR
 currency: EUR
 price: 7.23

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005SA84FU-es Lékué - Estuche hondo de vapor XL capacidad de 1000 ml...'
 sku: 'B005SA84FU-es'
-tags: [  ]
 actualPrice: 22.1 EUR
 currency: EUR
 price: 22.1

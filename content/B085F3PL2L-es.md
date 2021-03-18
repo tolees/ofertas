@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085F3PL2L-es M MAGEFESA - Cacerola MAGEFESA Prisma – Cacerola Fabricado...'
 sku: 'B085F3PL2L-es'
-tags: [  ]
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

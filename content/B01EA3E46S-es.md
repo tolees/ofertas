@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EA3E46S-es BaByliss AS121E - Cepillo de aire moldeador de pelo con 4...'
 sku: 'B01EA3E46S-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

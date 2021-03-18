@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WJXPNG2-es Lee LF0450FZ Cinturón Para Hombre Marrón Dark Cognac 85 cm'
 sku: 'B00WJXPNG2-es'
-tags: [  ]
 actualPrice: 26.3 EUR
 currency: EUR
 price: 26.3

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003SOJ7ZY-es Bosch 2 608 602 385 - Disco de corte recto Rapido Multi...'
 sku: 'B003SOJ7ZY-es'
-tags: [  ]
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

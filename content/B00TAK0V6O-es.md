@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TAK0V6O-es Stanley XTHT0-42495 Nivel Torpedo FatMax 23cm base magnética'
 sku: 'B00TAK0V6O-es'
-tags: [  ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WSXBN1D-es Electronic Arts - Need for Speed Heat'
 sku: 'B07WSXBN1D-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

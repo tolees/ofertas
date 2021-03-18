@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JPD8FVP-es WONNIE 10.1" Reproductor de DVD Portátil con 2 Pantallas...'
 sku: 'B08JPD8FVP-es'
-tags: [ 'wonnie', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

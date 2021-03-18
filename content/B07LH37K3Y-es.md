@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LH37K3Y-es Intex 64765 - Cama de aire Dura Beam Standard Classic...'
 sku: 'B07LH37K3Y-es'
-tags: [  ]
 actualPrice: 19.06 EUR
 currency: EUR
 price: 19.06

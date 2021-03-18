@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IRCDT7Y-es Logitech Receptor de Audio Inalámbrico Adaptador Bluetooth...'
 sku: 'B00IRCDT7Y-es'
-tags: [ 'logitech', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

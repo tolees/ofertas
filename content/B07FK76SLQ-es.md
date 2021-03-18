@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FK76SLQ-es Energizer - Pilas Recargables Accu Recharge Universal 500...'
 sku: 'B07FK76SLQ-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

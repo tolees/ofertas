@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG4NQDN-es New Balance Calzado Deportivo NM213 Tim para Hombre Beige...'
 sku: 'B07HG4NQDN-es'
-tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

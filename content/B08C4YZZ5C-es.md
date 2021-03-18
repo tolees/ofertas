@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C4YZZ5C-es HANPURE - Auriculares para Dormir Regalos Originales para...'
 sku: 'B08C4YZZ5C-es'
-tags: [ 'hanpure', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

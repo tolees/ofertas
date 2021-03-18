@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00I084GYU-es Boa - Genios Reedicion Vinilo'
 sku: 'B00I084GYU-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

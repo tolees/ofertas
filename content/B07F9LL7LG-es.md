@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F9LL7LG-es LIGHTAILING Conjunto de Luces Architecture Londres Modelo...'
 sku: 'B07F9LL7LG-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P56TBRD-es Bourjois Brocha para maquillaje facial - 40 gr.'
 sku: 'B07P56TBRD-es'
-tags: [  ]
 actualPrice: 5.58 EUR
 currency: EUR
 price: 5.58

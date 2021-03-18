@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005QMV7MM-es Applaws - Estaño para Gatos 24 x 70 g'
 sku: 'B005QMV7MM-es'
-tags: [  ]
 actualPrice: 15.71 EUR
 currency: EUR
 price: 15.71

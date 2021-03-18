@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ARHFJM4-es Conceptronic CSPKBTBASSPARTY 20 W Negro Rojo - Altavoces...'
 sku: 'B01ARHFJM4-es'
-tags: [  ]
 actualPrice: 35.21 EUR
 currency: EUR
 price: 35.21

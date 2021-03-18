@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015HW7QHA-es Hollywood Star Fashion - Camisas - para mujer Gris Heather...'
 sku: 'B015HW7QHA-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

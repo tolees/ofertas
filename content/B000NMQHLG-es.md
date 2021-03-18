@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000NMQHLG-es Tiffen - Filtro de niebla 77 mm 1/4 color negro'
 sku: 'B000NMQHLG-es'
-tags: [  ]
 actualPrice: 99.52 EUR
 currency: EUR
 price: 99.52

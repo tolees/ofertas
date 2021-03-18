@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMP3THW-es HOUSE DAY Taburete Plegable de Ligero 22cm Negro plástico...'
 sku: 'B07SMP3THW-es'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

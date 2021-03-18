@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2BCNQB-es Superdry Superstate Classic Polo Blanco Optic 01c X-Large...'
 sku: 'B07P2BCNQB-es'
-tags: [  ]
 actualPrice: 22.6 EUR
 currency: EUR
 price: 22.6

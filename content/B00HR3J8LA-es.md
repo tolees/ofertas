@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HR3J8LA-es Multicentrum Hombre Complemento Alimenticio con 13...'
 sku: 'B00HR3J8LA-es'
-tags: [  ]
 actualPrice: 7.12 EUR
 currency: EUR
 price: 7.12

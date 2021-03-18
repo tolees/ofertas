@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D9GWQR1-es Tommy Hilfiger Thong Tanga Rosa Pale Blush 612 36 Talla...'
 sku: 'B07D9GWQR1-es'
-tags: [  ]
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

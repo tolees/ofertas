@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JFT6W3G-es Crocs Crocband Rain Boot Kids Botas de Agua Unisex Niños...'
 sku: 'B07JFT6W3G-es'
-tags: [  ]
 actualPrice: 14.75 EUR
 currency: EUR
 price: 14.75

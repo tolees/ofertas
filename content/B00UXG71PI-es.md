@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UXG71PI-es Clarks Trigenic Flex Zapatillas para Mujer Negro Black...'
 sku: 'B00UXG71PI-es'
-tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BG5BWGY-es Philips Lighting myLiving Aplique E27 iluminación interior...'
 sku: 'B00BG5BWGY-es'
-tags: [  ]
 actualPrice: 24.16 EUR
 currency: EUR
 price: 24.16

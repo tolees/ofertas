@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00N9UQ66U-es Rowenta Tenacilla Elite CF3352F0 - Rizador de 25 mm de...'
 sku: 'B00N9UQ66U-es'
-tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HZTGGNE-es SOTYA - SOTYA B Complex 60 cápsulas 600 mg'
 sku: 'B00HZTGGNE-es'
-tags: [  ]
 actualPrice: 3.18 EUR
 currency: EUR
 price: 3.18

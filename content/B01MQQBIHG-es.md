@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MQQBIHG-es Real Techniques Sculpting Set - Juego de brochas para...'
 sku: 'B01MQQBIHG-es'
-tags: [  ]
 actualPrice: 9.17 EUR
 currency: EUR
 price: 9.17

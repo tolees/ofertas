@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0041VQH8I-es Julius-K9 16IDC - Arnés de Potencia para Perros color...'
 sku: 'B0041VQH8I-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

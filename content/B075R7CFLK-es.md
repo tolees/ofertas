@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R7CFLK-es New Balance Minimus 40 Zapatillas de Cross para Mujer...'
 sku: 'B075R7CFLK-es'
-tags: [  ]
 actualPrice: 36.87 EUR
 currency: EUR
 price: 36.87

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081YWWNJL-es Humidificador Ultrasónico Control Remoto Difusor de...'
 sku: 'B081YWWNJL-es'
-tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

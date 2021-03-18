@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SN4DYXP-es Umi. Essentials - Auriculares de botón inalámbricos TWS W9...'
 sku: 'B07SN4DYXP-es'
-tags: [  ]
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

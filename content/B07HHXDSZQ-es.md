@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHXDSZQ-es auna Stereosonic Stereo System - Equipo estéreo Compacto...'
 sku: 'B07HHXDSZQ-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

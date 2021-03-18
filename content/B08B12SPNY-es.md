@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B12SPNY-es Taurus PTWCV-8 Vinoteca 65 W 32 litros Compuesto'
 sku: 'B08B12SPNY-es'
-tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

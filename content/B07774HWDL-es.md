@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07774HWDL-es Tommy Jeans Hombre Scanton Rinsc Jeans Azul Rinse Comfort...'
 sku: 'B07774HWDL-es'
-tags: [  ]
 actualPrice: 36.39 EUR
 currency: EUR
 price: 36.39

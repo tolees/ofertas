@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BY1X6MV-es Saucony Jazz Original Vintage Zapatillas Unisex Adulto...'
 sku: 'B07BY1X6MV-es'
-tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

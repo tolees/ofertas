@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CTKV3P2-es ESPACIO VERDE - Colágeno Con Magnesio – Vitamina C – Ácido...'
 sku: 'B07CTKV3P2-es'
-tags: [  ]
 actualPrice: 10.82 EUR
 currency: EUR
 price: 10.82

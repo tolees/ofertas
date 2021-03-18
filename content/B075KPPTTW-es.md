@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075KPPTTW-es SanDisk Ultra Flair Memoria Flash USB 3.0 de 128 GB con...'
 sku: 'B075KPPTTW-es'
-tags: [  ]
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

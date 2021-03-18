@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BVF1MC8-es Wipp Express Detergente Líquido Azul 40 Dosis + Vernel...'
 sku: 'B08BVF1MC8-es'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

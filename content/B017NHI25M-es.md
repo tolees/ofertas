@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017NHI25M-es GHD Spray protector térmico 120 ml'
 sku: 'B017NHI25M-es'
-tags: [  ]
 actualPrice: 10.36 EUR
 currency: EUR
 price: 10.36

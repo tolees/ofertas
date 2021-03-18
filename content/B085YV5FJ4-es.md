@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085YV5FJ4-es Death Stranding Código Digital'
 sku: 'B085YV5FJ4-es'
-tags: [  ]
 actualPrice: 45.37 EUR
 currency: EUR
 price: 45.37

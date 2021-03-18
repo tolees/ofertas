@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NCEJ1YA-es POP! Vinilo - Seraph of the End: Ferid Bathory'
 sku: 'B01NCEJ1YA-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

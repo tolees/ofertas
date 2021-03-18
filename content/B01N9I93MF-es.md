@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9I93MF-es Mando Distancia Universal Para la Mayoría TV Televisores...'
 sku: 'B01N9I93MF-es'
-tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

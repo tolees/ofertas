@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DN4YVB2-es TACKLIFE Juego de Llaves de Vaso de Impacto Profundo de...'
 sku: 'B07DN4YVB2-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

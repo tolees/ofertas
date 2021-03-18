@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QZ3DDBL-es YUDOXN - LED Proyector de Luz Estrellas Galaxia Lámpara...'
 sku: 'B08QZ3DDBL-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074TKNHWX-es Parrot Mambo Mission - Dron cuadricóptero 30 Km/h 10...'
 sku: 'B074TKNHWX-es'
-tags: [  ]
 actualPrice: 93.85 EUR
 currency: EUR
 price: 93.85

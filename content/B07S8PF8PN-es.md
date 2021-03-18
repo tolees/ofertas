@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S8PF8PN-es PUMA Cali Wn s Zapatillas Mujer Black White 36 EU'
 sku: 'B07S8PF8PN-es'
-tags: [  ]
 actualPrice: 54.1 EUR
 currency: EUR
 price: 54.1

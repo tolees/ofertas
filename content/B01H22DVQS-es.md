@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H22DVQS-es Resident Evil 7: Biohazard'
 sku: 'B01H22DVQS-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075QRXP89-es Cable Guy - Star Wars "Darth Vader" Soporte para teléfono...'
 sku: 'B075QRXP89-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

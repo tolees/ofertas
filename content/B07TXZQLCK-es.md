@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TXZQLCK-es New Look Iris Utility Paperbag Pantalones Negro Black 1 40...'
 sku: 'B07TXZQLCK-es'
-tags: [  ]
 actualPrice: 6 EUR
 currency: EUR
 price: 6

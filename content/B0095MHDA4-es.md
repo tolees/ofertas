@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0095MHDA4-es Epson WorkForce WF-2010W - Impresora color inyección de...'
 sku: 'B0095MHDA4-es'
-tags: [  ]
 actualPrice: 63.58 EUR
 currency: EUR
 price: 63.58

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079VS25PG-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B079VS25PG-es'
-tags: [  ]
 actualPrice: 78.68 EUR
 currency: EUR
 price: 78.68

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086LH9K3M-es TOPJESS Yoga Aro Pilates Anillo de Pilates Anillo de Doble...'
 sku: 'B086LH9K3M-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para el té','Afeitado y depilación','Almacenamiento de alimentos','Almacenamiento de cocina y despensa','Aros de pilates','Belleza','Boles para té matcha','Botes para alimentos','Calzado de voleibol para hombre','Calzado deportivo de interior de hombre','Calzado deportivo para hombre','Campanas extractoras','Campanas extractoras de pared','Ciclismo','Cortapelos y barberos','Cortapelos, barberos y afeitadoras corporales','Culotes de ciclismo para hombre','Deportes y aire libre','Electrónica','Fitness y ejercicio','Grandes electrodomésticos','Hardware y juegos para PlayStation 4','Hogar y cocina','Hornos y placas de cocina','Juegos para PlayStation 4','Juegos y Accesorios para PC','Pilates','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','Ratones para gamers para PC','Ropa','Ropa de ciclismo','Ropa de ciclismo para hombre','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Smartwatches','Tangas para hombre','Tecnología para vestir','Utensilios para café y té','Vestidos casual para mujer','Vestidos para mujer','Videojuegos','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','topjess', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

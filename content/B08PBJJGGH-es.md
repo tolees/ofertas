@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PBJJGGH-es Togala - Auriculares Inalambricos Bluetooth 8 Horas de...'
 sku: 'B08PBJJGGH-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K83WXH4-es Beeasy Funda para iPhone 6 / 6S Antigolpes Impermeable...'
 sku: 'B07K83WXH4-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

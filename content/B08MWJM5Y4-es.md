@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MWJM5Y4-es San Jamón - Cesta Regalo Gourmet Ibérica Dueñas. Chorizo y...'
 sku: 'B08MWJM5Y4-es'
-tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

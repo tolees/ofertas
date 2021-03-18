@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0754RJR6G-es SALOMON Agile 5 Shorts Para Running Hombre'
 sku: 'B0754RJR6G-es'
-tags: [  ]
 actualPrice: 19.94 EUR
 currency: EUR
 price: 19.94

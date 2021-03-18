@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079TBLGFP-es Funko- Aladdins First Wish s Aladdin Color Beige Azul...'
 sku: 'B079TBLGFP-es'
-tags: [  ]
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

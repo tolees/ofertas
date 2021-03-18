@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N0Z35SH-es Sony MDR-RF895RK Auriculares Inalámbricos Cancelación de...'
 sku: 'B01N0Z35SH-es'
-tags: [  ]
 actualPrice: 74.31 EUR
 currency: EUR
 price: 74.31

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0856M8XXX-es Botas Bebé Niño Pablosky Azul 84432 20'
 sku: 'B0856M8XXX-es'
-tags: [ 'Acción y Aventura','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Audio y vídeo portátil','Blu-ray','Botitas y patucos para niños','Bricolaje y herramientas','Ciencia ficción','Coleccionables','Destornilladores','Electrónica','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Estatuas y maquetas en miniatura','Fantasía','Featured Categories','Figuras de muñecos chibi','Herramientas de mano','Herramientas manuales y eléctricas','Hogar y cocina','Instalación eléctrica','Juegos de destornilladores','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Películas','Películas y TV','Radios portátiles','Robots aspiradores','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para bebés','Zapatos para hombre','Zapatos para niños','Zapatos y complementos','pablosky', ]
 actualPrice: 28.3 EUR
 currency: EUR
 price: 28.3

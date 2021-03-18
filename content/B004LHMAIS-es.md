@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004LHMAIS-es BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de...'
 sku: 'B004LHMAIS-es'
-tags: [  ]
 actualPrice: 9.57 EUR
 currency: EUR
 price: 9.57

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071LM1HYK-es HP Z4N74AA - Monitor curvo Full HD de 27" 1920 x 1080...'
 sku: 'B071LM1HYK-es'
-tags: [  ]
 actualPrice: 169.15 EUR
 currency: EUR
 price: 169.15

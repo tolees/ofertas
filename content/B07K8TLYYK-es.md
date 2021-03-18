@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K8TLYYK-es Cocktail Games - Asmodee ADECGPI0001 Juego de Mesa Multicolor'
 sku: 'B07K8TLYYK-es'
-tags: [  ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

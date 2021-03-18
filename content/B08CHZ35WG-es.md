@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CHZ35WG-es Meridiem Games - Supermarket Shriek'
 sku: 'B08CHZ35WG-es'
-tags: [  ]
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

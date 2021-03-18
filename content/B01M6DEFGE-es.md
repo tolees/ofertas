@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6DEFGE-es Vans UA ISO 2 Zapatillas para Hombre Azul Prime 40 EU'
 sku: 'B01M6DEFGE-es'
-tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

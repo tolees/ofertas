@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004W7GYF2-es Duracell Plus AAA - Pilas Alcalinas paquete de 4 1.5...'
 sku: 'B004W7GYF2-es'
-tags: [  ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

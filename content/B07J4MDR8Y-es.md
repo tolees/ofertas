@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J4MDR8Y-es Difusor de Aceites Esenciales Avaspot 250ml Ultrasónico...'
 sku: 'B07J4MDR8Y-es'
-tags: [  ]
 actualPrice: 16.24 EUR
 currency: EUR
 price: 16.24

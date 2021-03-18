@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XAFI86K-es NIVEA MEN Active Age Fluido Hidratante Anti-edad 1 x 50 ml...'
 sku: 'B00XAFI86K-es'
-tags: [  ]
 actualPrice: 7.72 EUR
 currency: EUR
 price: 7.72

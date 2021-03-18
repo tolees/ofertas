@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZBYW13-es Mini pizarra RATEL 20 Pack pizarra pequeña de madera...'
 sku: 'B07GZBYW13-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

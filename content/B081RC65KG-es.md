@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RC65KG-es BRIKSMAX Kit de Iluminación Led para Lego Creator...'
 sku: 'B081RC65KG-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PVJT936-es Virgin - Aladdin'
 sku: 'B07PVJT936-es'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

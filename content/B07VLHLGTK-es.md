@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VLHLGTK-es G-STAR RAW Joci Straight Bañador Blanco 3D Milk C050-B144...'
 sku: 'B07VLHLGTK-es'
-tags: [  ]
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

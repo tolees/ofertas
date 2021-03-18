@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084X8WLV4-es YPPDPP Toto Likes Videogames Velvet Pillow Cases Cubierta...'
 sku: 'B084X8WLV4-es'
-tags: [  ]
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

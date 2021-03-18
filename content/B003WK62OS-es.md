@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003WK62OS-es TP-Link TL-MR3420 - Router Wi-Fi 300 Mbps 3G / 4G 1 puerto...'
 sku: 'B003WK62OS-es'
-tags: [  ]
 actualPrice: 33.48 EUR
 currency: EUR
 price: 33.48

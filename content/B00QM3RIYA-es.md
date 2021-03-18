@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QM3RIYA-es AUKEY Receptor Bluetooth 5 Audio Adaptador Inalámbrico con...'
 sku: 'B00QM3RIYA-es'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

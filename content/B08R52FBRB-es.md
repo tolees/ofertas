@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R52FBRB-es Lenor Classics Frescor de Abril Perlas de perfume para la...'
 sku: 'B08R52FBRB-es'
-tags: [  ]
 actualPrice: 26.79 EUR
 currency: EUR
 price: 26.79

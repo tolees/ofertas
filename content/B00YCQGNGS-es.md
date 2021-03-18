@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YCQGNGS-es VTech- Volante Interactivo con Voz y luz 3480-166622'
 sku: 'B00YCQGNGS-es'
-tags: [ 'Juguetes','Juguetes para Bebés y primera infancia','Juguetes para bebés','Juguetes y juegos','Sonajeros y aros de peluche','vtech', ]
 actualPrice: 15.5 EUR
 currency: EUR
 price: 15.5

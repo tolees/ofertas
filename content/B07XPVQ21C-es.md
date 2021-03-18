@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XPVQ21C-es [3 Pack] UniqueMe protector de pantalla para Samsung...'
 sku: 'B07XPVQ21C-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

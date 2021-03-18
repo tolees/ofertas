@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079VFFHN7-es Tommy Hilfiger Core Slim Polo Polo Hombre Azul Sky Captain...'
 sku: 'B079VFFHN7-es'
-tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

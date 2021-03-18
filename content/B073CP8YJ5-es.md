@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073CP8YJ5-es Tease And Please - MISION INTIMA CAJA AMPLIACION ES'
 sku: 'B073CP8YJ5-es'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

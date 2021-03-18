@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CKLZ9PM-es BlueXP 2 Piezas Armario Interruptor para Puerta del...'
 sku: 'B07CKLZ9PM-es'
-tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

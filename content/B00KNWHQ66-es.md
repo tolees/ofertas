@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KNWHQ66-es Orlane Oligo Vit-A-Min Démaquillant Vitalisant 250 ml'
 sku: 'B00KNWHQ66-es'
-tags: [  ]
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

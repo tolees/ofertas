@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FMG7KP-es Funria m-312 - Exprimidor manual de limón exprimidor de...'
 sku: 'B075FMG7KP-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

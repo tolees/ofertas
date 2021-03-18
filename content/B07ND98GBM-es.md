@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND98GBM-es Hugo BOSS Reloj Analógico para Mujer de Cuarzo con Correa...'
 sku: 'B07ND98GBM-es'
-tags: [  ]
 actualPrice: 209.91 EUR
 currency: EUR
 price: 209.91

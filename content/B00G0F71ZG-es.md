@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00G0F71ZG-es HP X500 - Ratón con cable 3 botones óptico USB negro'
 sku: 'B00G0F71ZG-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

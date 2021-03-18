@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBFCKPW-es Adidas Altarun Cf K Zapatillas de Running Unisex Niños...'
 sku: 'B07GBFCKPW-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

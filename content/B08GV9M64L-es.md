@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GV9M64L-es SanDisk Extreme PRO SSD portátil 1 TB hasta 2000 MB/s NVMe...'
 sku: 'B08GV9M64L-es'
-tags: [  ]
 actualPrice: 197.59 EUR
 currency: EUR
 price: 197.59

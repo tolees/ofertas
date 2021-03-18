@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HR89KC6-es Luz Nocturna Infantil 2 Pack OMERIL Luz Noche con Luz...'
 sku: 'B07HR89KC6-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

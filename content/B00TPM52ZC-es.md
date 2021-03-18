@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00TPM52ZC-es Binaca - Bradosol - Pasta de dientes - 75 milliliters'
 sku: 'B00TPM52ZC-es'
-tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003QJOR56-es Reebok Workout Plus Zapatillas de Deporte para Hombre...'
 sku: 'B003QJOR56-es'
-tags: [  ]
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FKYK0IS-es Matrix - Biolage Sérum SmoothProof para Cabello Encrespado...'
 sku: 'B00FKYK0IS-es'
-tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

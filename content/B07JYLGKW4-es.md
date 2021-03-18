@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JYLGKW4-es adidas Handball Spezial Zapatillas de Gimnasia Hombre...'
 sku: 'B07JYLGKW4-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

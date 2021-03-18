@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXXNWOF-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B01MXXNWOF-es'
-tags: [  ]
 actualPrice: 122.87 EUR
 currency: EUR
 price: 122.87

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K6YJDRS-es Babaria - Barbaria - Ácido Hialurónico 30 ml'
 sku: 'B07K6YJDRS-es'
-tags: [  ]
 actualPrice: 3.68 EUR
 currency: EUR
 price: 3.68

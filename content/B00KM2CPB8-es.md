@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KM2CPB8-es Semillas Batlle - Semillas Ecológicas Hortícolas -...'
 sku: 'B00KM2CPB8-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

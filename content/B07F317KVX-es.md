@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F317KVX-es Helly Hansen W Kirkwall Raincoat Jacket Mujer Blanco M'
 sku: 'B07F317KVX-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

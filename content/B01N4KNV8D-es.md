@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N4KNV8D-es Reloj para mujer Tommy Hilfiger 1781756.'
 sku: 'B01N4KNV8D-es'
-tags: [  ]
 actualPrice: 135.35 EUR
 currency: EUR
 price: 135.35

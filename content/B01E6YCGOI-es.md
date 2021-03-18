@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E6YCGOI-es Maped 106310 Technic Duo Borrador 1 unidad colores surtidos'
 sku: 'B01E6YCGOI-es'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC9KLFZ-es Razer Kraken Kitty Quartz Edition Auriculares Gaming con...'
 sku: 'B07WC9KLFZ-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

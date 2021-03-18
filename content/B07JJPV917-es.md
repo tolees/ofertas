@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JJPV917-es Westworld Temporada 1+2 Blu-Ray [Blu-ray]'
 sku: 'B07JJPV917-es'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

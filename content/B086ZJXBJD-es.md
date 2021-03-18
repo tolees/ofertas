@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ZJXBJD-es B Blesiya 4X Gancho Triangular De Anillo Dividido para...'
 sku: 'B086ZJXBJD-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

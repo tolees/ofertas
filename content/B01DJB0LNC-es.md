@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DJB0LNC-es Rimmel London Volume Colourist Máscara de Pestañas 11 ml...'
 sku: 'B01DJB0LNC-es'
-tags: [  ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

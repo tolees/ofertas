@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JQ38LG3-es MACLY - Auriculares para Dormir máscara para dormir con...'
 sku: 'B08JQ38LG3-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

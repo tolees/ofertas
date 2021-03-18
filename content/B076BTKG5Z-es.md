@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076BTKG5Z-es Columbia Challenger Suéter para Hombre Negro XXS'
 sku: 'B076BTKG5Z-es'
-tags: [  ]
 actualPrice: 40.55 EUR
 currency: EUR
 price: 40.55

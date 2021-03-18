@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0163EGZTQ-es Dim Invisi Fit Sujetador New Skin 90C para Mujer'
 sku: 'B0163EGZTQ-es'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

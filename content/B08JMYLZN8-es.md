@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JMYLZN8-es Selecta Visión - Zoids Wild Blast Unleashed'
 sku: 'B08JMYLZN8-es'
-tags: [  ]
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O276UQK-es Creaciones Arppe. S. A. 2910019100 Champú Insectifugo 1 L'
 sku: 'B00O276UQK-es'
-tags: [  ]
 actualPrice: 7.74 EUR
 currency: EUR
 price: 7.74

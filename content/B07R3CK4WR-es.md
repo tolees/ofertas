@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R3CK4WR-es John Frieda Crema Acabado Pelo Fino ml Antiencrespamiento...'
 sku: 'B07R3CK4WR-es'
-tags: [  ]
 actualPrice: 4.74 EUR
 currency: EUR
 price: 4.74

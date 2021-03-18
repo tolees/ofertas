@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3SZSZY-es OCDAY 2 DIN Radio Coche con Navegación 7 Pulgadas 2 DIN...'
 sku: 'B07H3SZSZY-es'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

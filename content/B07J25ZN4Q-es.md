@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J25ZN4Q-es Leifheit Powerslide Azul Limpiacristales XL con Palo...'
 sku: 'B07J25ZN4Q-es'
-tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

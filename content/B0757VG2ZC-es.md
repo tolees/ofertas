@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757VG2ZC-es Licwshi 450lm La luz solar 24 LED de una aleación de...'
 sku: 'B0757VG2ZC-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

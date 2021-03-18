@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006IWDWGS-es Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con...'
 sku: 'B006IWDWGS-es'
-tags: [ 'michael kors', ]
 actualPrice: 115.17 EUR
 currency: EUR
 price: 115.17

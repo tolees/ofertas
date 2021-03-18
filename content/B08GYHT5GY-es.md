@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYHT5GY-es Hurley M Jammer Stripe L/S Light Bone'
 sku: 'B08GYHT5GY-es'
-tags: [  ]
 actualPrice: 16.29 EUR
 currency: EUR
 price: 16.29

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0046S9OUO-es DEWALT DWC410-QS - Sierra circular de mano 1300W incluye...'
 sku: 'B0046S9OUO-es'
-tags: [  ]
 actualPrice: 144.94 EUR
 currency: EUR
 price: 144.94

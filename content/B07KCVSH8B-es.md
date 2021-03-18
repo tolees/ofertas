@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KCVSH8B-es Hurley Frame Work PRM tee SS Camisetas Hombre iglu XXL'
 sku: 'B07KCVSH8B-es'
-tags: [  ]
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

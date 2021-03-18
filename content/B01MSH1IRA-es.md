@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MSH1IRA-es Levi s 502 Taper Jeans Nightshine 34W / 30L para Hombre'
 sku: 'B01MSH1IRA-es'
-tags: [  ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

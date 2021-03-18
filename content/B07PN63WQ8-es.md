@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PN63WQ8-es HP 24m - Monitor de 23.8" FullHD 1920x1080 IPS LED 16:9...'
 sku: 'B07PN63WQ8-es'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6NFNMK-es Tommy Hilfiger Hombre Bleecker Th Flex Satin Chino Gmd...'
 sku: 'B07W6NFNMK-es'
-tags: [  ]
 actualPrice: 20.05 EUR
 currency: EUR
 price: 20.05

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGVPXHV-es Primigi Pca 44112 Botas para Bebés Marron E Scuro 4411344...'
 sku: 'B07NGVPXHV-es'
-tags: [  ]
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

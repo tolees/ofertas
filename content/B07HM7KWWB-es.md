@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HM7KWWB-es Lotus Reloj Hombre de Cuarzo analógico con Correa en Acero...'
 sku: 'B07HM7KWWB-es'
-tags: [  ]
 actualPrice: 78.5 EUR
 currency: EUR
 price: 78.5

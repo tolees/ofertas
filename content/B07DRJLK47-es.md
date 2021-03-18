@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DRJLK47-es Crosstour CT9500 Nativo 4K50FPS Cámara Deportiva Wi-Fi...'
 sku: 'B07DRJLK47-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

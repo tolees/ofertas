@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N8OR5Z2-es Gre CPROV510 - Cobertor de Verano para Piscina Ovalada de...'
 sku: 'B01N8OR5Z2-es'
-tags: [  ]
 actualPrice: 14.7 EUR
 currency: EUR
 price: 14.7

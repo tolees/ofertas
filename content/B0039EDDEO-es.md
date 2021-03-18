@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0039EDDEO-es IBILI Mandolina Acero Inoxidable Negro 30 cm 458'
 sku: 'B0039EDDEO-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

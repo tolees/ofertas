@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GBH4V8L-es Duracell Powerbank 3350 mAh cargador universal portátil...'
 sku: 'B07GBH4V8L-es'
-tags: [  ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

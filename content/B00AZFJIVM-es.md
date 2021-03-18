@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00AZFJIVM-es H.Koenig FO35 Electrico Sobremesa Horno Conveccion...'
 sku: 'B00AZFJIVM-es'
-tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

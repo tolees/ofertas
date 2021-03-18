@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DFCTM7F-es Key chain - Funko 32784 Pocket POP Keychain: Overwatch:...'
 sku: 'B07DFCTM7F-es'
-tags: [  ]
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

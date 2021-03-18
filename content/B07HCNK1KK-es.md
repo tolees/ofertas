@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HCNK1KK-es Skechers Stamina-Cutback Zapatillas Hombre Gris CCRD Black...'
 sku: 'B07HCNK1KK-es'
-tags: [  ]
 actualPrice: 55.21 EUR
 currency: EUR
 price: 55.21

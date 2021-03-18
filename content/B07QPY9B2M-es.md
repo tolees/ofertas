@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPY9B2M-es 200 palos luminosos equipo para festivales luces festivas...'
 sku: 'B07QPY9B2M-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

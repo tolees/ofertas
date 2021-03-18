@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089CNLDZ9-es WXQ Bote de Basura de Acero Inoxidable Tipo Pedal Duradero...'
 sku: 'B089CNLDZ9-es'
-tags: [  ]
 actualPrice: 165.99 EUR
 currency: EUR
 price: 165.99

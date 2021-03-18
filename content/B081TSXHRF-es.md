@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TSXHRF-es adidas CON20 TR Top Sweatshirt Hombre Team Royal Blue L'
 sku: 'B081TSXHRF-es'
-tags: [  ]
 actualPrice: 22.08 EUR
 currency: EUR
 price: 22.08

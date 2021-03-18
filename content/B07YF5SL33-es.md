@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YF5SL33-es Microsoft Surface Pro Signature - Funda con teclado roja'
 sku: 'B07YF5SL33-es'
-tags: [  ]
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99

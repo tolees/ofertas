@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074WDL9FB-es PUMA Crew Stripe 3p deporte Gris Anthracite/Grey 207 43/46...'
 sku: 'B074WDL9FB-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

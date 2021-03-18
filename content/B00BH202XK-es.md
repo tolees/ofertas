@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BH202XK-es Beper Body Trainer - Báscula de baño con medidor de grasa...'
 sku: 'B00BH202XK-es'
-tags: [  ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

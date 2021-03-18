@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2J7KNM-es Jabón Facial Limpiador Micelar 4 en 1 - UNISEX -...'
 sku: 'B07V2J7KNM-es'
-tags: [  ]
 actualPrice: 10.63 EUR
 currency: EUR
 price: 10.63

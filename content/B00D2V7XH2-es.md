@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00D2V7XH2-es Converse Chuck Taylor All Star Hi Top Zapatillas Unisex...'
 sku: 'B00D2V7XH2-es'
-tags: [  ]
 actualPrice: 43.88 EUR
 currency: EUR
 price: 43.88

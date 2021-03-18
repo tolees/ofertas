@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0835Y4SHC-es Quiksilver MAGICALL Messenger/Shoulder para Hombre negro...'
 sku: 'B0835Y4SHC-es'
-tags: [  ]
 actualPrice: 15.45 EUR
 currency: EUR
 price: 15.45

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088MZHZX9-es Hurley M Have Fun Hat Gorra Hombre Black 1SIZE'
 sku: 'B088MZHZX9-es'
-tags: [  ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

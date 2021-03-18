@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WHWUWZM-es Jabra Move cascos inalámbricos con Bluetooth® oro'
 sku: 'B00WHWUWZM-es'
-tags: [  ]
 actualPrice: 38.3 EUR
 currency: EUR
 price: 38.3

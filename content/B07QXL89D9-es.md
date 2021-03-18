@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXL89D9-es Under Armour Speed Stride Tight Legging Mujer Negro XL'
 sku: 'B07QXL89D9-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

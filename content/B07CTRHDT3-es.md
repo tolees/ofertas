@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CTRHDT3-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B07CTRHDT3-es'
-tags: [  ]
 actualPrice: 171.14 EUR
 currency: EUR
 price: 171.14

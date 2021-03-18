@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872NNDZ3-es Funda Transparente Compatible para Huawei Enjoy 7 Carcasa...'
 sku: 'B0872NNDZ3-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

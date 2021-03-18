@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VD2SSBS-es eXtremeRate Placa Trasera para NS Switch Console NS Joycon...'
 sku: 'B07VD2SSBS-es'
-tags: [  ]
 actualPrice: 19.83 EUR
 currency: EUR
 price: 19.83

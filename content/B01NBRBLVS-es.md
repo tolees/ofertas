@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NBRBLVS-es Lorenzo Cana Aclouddate - Protector de Pantalla para...'
 sku: 'B01NBRBLVS-es'
-tags: [  ]
 actualPrice: 41.97 EUR
 currency: EUR
 price: 41.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003CL9ZWI-es HP C9363EE 344 Cartucho de Tinta Original 1 unidad...'
 sku: 'B003CL9ZWI-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

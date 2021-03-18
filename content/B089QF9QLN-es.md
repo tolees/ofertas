@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QF9QLN-es adidas VS Switch 3 C Zapatillas FTWBLA/ROSINT/Tinley 31 EU'
 sku: 'B089QF9QLN-es'
-tags: [  ]
 actualPrice: 19.23 EUR
 currency: EUR
 price: 19.23

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073VLL5KH-es Garnier Fructis Acondicionador Adios Daños - 250 ml'
 sku: 'B073VLL5KH-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

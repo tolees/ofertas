@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9XFWKV-es Eva López Botín Piel Cowboy Negro Mujer'
 sku: 'B07Y9XFWKV-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

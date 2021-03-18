@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F3FZLYS-es Guess Analógico W1156L1'
 sku: 'B07F3FZLYS-es'
-tags: [ 'guess', ]
 actualPrice: 93.06 EUR
 currency: EUR
 price: 93.06

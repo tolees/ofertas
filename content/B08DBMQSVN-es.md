@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DBMQSVN-es Medela sacaleches Harmony. Extractor manual con embudo...'
 sku: 'B08DBMQSVN-es'
-tags: [  ]
 actualPrice: 26.75 EUR
 currency: EUR
 price: 26.75

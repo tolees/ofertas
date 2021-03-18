@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MSE1OVT-es Tesa Assa Abloy TX853060N Cilindro de Alta Seguridad TX80...'
 sku: 'B01MSE1OVT-es'
-tags: [  ]
 actualPrice: 48.77 EUR
 currency: EUR
 price: 48.77

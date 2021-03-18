@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076PF2LD5-es Motorola Lifestyle 726310106001 Dash cámara WiFi Negro'
 sku: 'B076PF2LD5-es'
-tags: [  ]
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MBJ4Z7-es Levi s Big Batwing Flex Fit Gorra Azul Navy Blue 17 única...'
 sku: 'B077MBJ4Z7-es'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

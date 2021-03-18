@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J43CRG8-es HOPOSO - Pistola de Masaje Muscular Eléctrica con 30...'
 sku: 'B08J43CRG8-es'
-tags: [  ]
 actualPrice: 64.59 EUR
 currency: EUR
 price: 64.59

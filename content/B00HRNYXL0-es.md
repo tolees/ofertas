@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HRNYXL0-es Western Digital - WD Red WD40EFAX Disco duro interno 4TB...'
 sku: 'B00HRNYXL0-es'
-tags: [  ]
 actualPrice: 120.99 EUR
 currency: EUR
 price: 120.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J6R7ZQX-es Schwarzkopf Gliss - GLISS champú liso asiático con...'
 sku: 'B07J6R7ZQX-es'
-tags: [  ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

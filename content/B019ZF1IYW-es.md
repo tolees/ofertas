@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019ZF1IYW-es Fellowes I-Spire Series - Soporte Elevador Ajustable para...'
 sku: 'B019ZF1IYW-es'
-tags: [  ]
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

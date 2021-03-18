@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GCS1PVJ-es Bluelucon 1 Unidad de paños faciales de protección Facial...'
 sku: 'B08GCS1PVJ-es'
-tags: [  ]
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

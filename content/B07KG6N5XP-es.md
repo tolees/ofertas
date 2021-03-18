@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KG6N5XP-es PUMA Nova Wn s Zapatillas Deportivas Mujer Rosa Pastel...'
 sku: 'B07KG6N5XP-es'
-tags: [  ]
 actualPrice: 49.52 EUR
 currency: EUR
 price: 49.52

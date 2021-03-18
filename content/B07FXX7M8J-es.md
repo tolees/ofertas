@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXX7M8J-es Levi s 502 Regular Taper Jeans Azul Rock Cod 0280 34W /...'
 sku: 'B07FXX7M8J-es'
-tags: [  ]
 actualPrice: 51.96 EUR
 currency: EUR
 price: 51.96

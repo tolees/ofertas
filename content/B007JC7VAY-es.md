@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007JC7VAY-es PALMOLIVE NATURALS DELICATE CARE WITH ALMOND MILK LOTE 3...'
 sku: 'B007JC7VAY-es'
-tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771VZMX4-es Columbia Silver Ridge II Pantalón Capri Hombre Negro Abyss...'
 sku: 'B0771VZMX4-es'
-tags: [  ]
 actualPrice: 18.57 EUR
 currency: EUR
 price: 18.57

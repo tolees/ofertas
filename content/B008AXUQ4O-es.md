@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008AXUQ4O-es Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
 sku: 'B008AXUQ4O-es'
-tags: [ 'fossil', ]
 actualPrice: 99.21 EUR
 currency: EUR
 price: 99.21

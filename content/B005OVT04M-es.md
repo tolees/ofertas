@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005OVT04M-es BERING Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B005OVT04M-es'
-tags: [  ]
 actualPrice: 118.52 EUR
 currency: EUR
 price: 118.52

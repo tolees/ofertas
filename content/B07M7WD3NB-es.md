@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M7WD3NB-es Sony UBP-X800M2 Reproductor de Blu-Ray 4K Negro'
 sku: 'B07M7WD3NB-es'
-tags: [  ]
 actualPrice: 262.0 EUR
 currency: EUR
 price: 262.0

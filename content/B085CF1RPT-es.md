@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CF1RPT-es FMPC Carcasa con Cuerda Samsung Galaxy A20S Cristal TPU...'
 sku: 'B085CF1RPT-es'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

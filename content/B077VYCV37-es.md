@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077VYCV37-es SanDisk Ultra Fit Memoria flash USB 3.1 de 64 GB con hasta...'
 sku: 'B077VYCV37-es'
-tags: [  ]
 actualPrice: 11.41 EUR
 currency: EUR
 price: 11.41

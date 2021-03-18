@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MFM3H2V-es Clarks Batcombe Lord Botas de Motorista Hombre Lea Black...'
 sku: 'B07MFM3H2V-es'
-tags: [  ]
 actualPrice: 58.91 EUR
 currency: EUR
 price: 58.91

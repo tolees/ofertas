@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081B6M9JM-es Columbia Silver Ridge Short Cargo Hombre Beige Fossil Camo...'
 sku: 'B081B6M9JM-es'
-tags: [  ]
 actualPrice: 8.15 EUR
 currency: EUR
 price: 8.15

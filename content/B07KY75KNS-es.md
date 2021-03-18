@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KY75KNS-es PICTEK - Ratón Gaming Programable con Retroiluminado...'
 sku: 'B07KY75KNS-es'
-tags: [  ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

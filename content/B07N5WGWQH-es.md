@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5WGWQH-es Pop! My Hero Academia - Figura de Vinilo 5 Star Katsuki'
 sku: 'B07N5WGWQH-es'
-tags: [  ]
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

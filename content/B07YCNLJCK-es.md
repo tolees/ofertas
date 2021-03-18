@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCNLJCK-es Alicates Multiusos Plegables Profesionales Herramienta...'
 sku: 'B07YCNLJCK-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

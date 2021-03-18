@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088NW1MRM-es ARSUXEO Pantalones Cortos de Ciclismo para Hombre MTB...'
 sku: 'B088NW1MRM-es'
-tags: [  ]
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FD5QK5V-es MVMT Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07FD5QK5V-es'
-tags: [  ]
 actualPrice: 77.62 EUR
 currency: EUR
 price: 77.62

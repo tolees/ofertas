@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W4WYWWV-es Springfield tachas.fino-c/01 Cinturón Negro Black 1 85...'
 sku: 'B07W4WYWWV-es'
-tags: [  ]
 actualPrice: 5.16 EUR
 currency: EUR
 price: 5.16

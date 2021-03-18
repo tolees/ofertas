@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QJ1HVZS-es Amlion - Arte de Vidrio de Spotify Personalizado Placa de...'
 sku: 'B08QJ1HVZS-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

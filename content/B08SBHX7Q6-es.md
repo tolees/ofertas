@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SBHX7Q6-es Memoria USB 1TB Dorypal Pendrive USB 3.0 Alta Velocidad...'
 sku: 'B08SBHX7Q6-es'
-tags: [  ]
 actualPrice: 29.89 EUR
 currency: EUR
 price: 29.89

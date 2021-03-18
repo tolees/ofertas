@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUS2S70-es Tommy Hilfiger 3p Trunk Bóxer Multicolor Multi/Peacoat 904...'
 sku: 'B01MUS2S70-es'
-tags: [  ]
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

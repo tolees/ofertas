@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJFBMJS-es YuamMei 5 rollos de cinta de encaje hueca para...'
 sku: 'B07GJFBMJS-es'
-tags: [  ]
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

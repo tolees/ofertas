@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XR5KLVH-es Apple Funda Leather Case para el iPhone 11 Pro - Marrón...'
 sku: 'B07XR5KLVH-es'
-tags: [  ]
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

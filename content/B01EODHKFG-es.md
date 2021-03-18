@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EODHKFG-es Bella Aurora Protector Solar Facial SPF +50 Piel Mixta-...'
 sku: 'B01EODHKFG-es'
-tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

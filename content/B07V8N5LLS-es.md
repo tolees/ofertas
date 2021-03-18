@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8N5LLS-es Puma RS-X Toys 370920 01'
 sku: 'B07V8N5LLS-es'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZH29QS-es HengBO Raclette con Placa de Piedra Natural 8 Mini...'
 sku: 'B07MZH29QS-es'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

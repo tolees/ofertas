@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N2RLI5O-es Epson C13T29934022 - Cartucho de tinta'
 sku: 'B01N2RLI5O-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0001K9TGA-es Draper Expert 35574 - Crimpadora de terminales mediante...'
 sku: 'B0001K9TGA-es'
-tags: [  ]
 actualPrice: 21.93 EUR
 currency: EUR
 price: 21.93

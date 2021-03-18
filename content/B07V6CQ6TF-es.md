@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V6CQ6TF-es Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07V6CQ6TF-es'
-tags: [  ]
 actualPrice: 69.34 EUR
 currency: EUR
 price: 69.34

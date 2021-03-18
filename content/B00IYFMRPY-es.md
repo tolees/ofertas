@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IYFMRPY-es Princess 112380 Deshidratador 245 W Default no Selection...'
 sku: 'B00IYFMRPY-es'
-tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

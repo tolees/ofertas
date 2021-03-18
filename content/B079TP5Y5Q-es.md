@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079TP5Y5Q-es Spokey Unisex-Adult 5902693209102 - Pesas para muñecas 2 x...'
 sku: 'B079TP5Y5Q-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

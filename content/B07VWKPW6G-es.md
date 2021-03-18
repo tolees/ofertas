@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWKPW6G-es Skechers Highlights 2.0 HOMESTRETCH Zapatillas Mujer Rubor...'
 sku: 'B07VWKPW6G-es'
-tags: [ 'skechers', ]
 actualPrice: 34.64 EUR
 currency: EUR
 price: 34.64

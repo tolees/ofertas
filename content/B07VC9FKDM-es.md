@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VC9FKDM-es DURAGADGET Cable De Audio Compatible con Portátil Acer...'
 sku: 'B07VC9FKDM-es'
-tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

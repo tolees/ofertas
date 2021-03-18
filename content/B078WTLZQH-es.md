@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WTLZQH-es Tommy Hilfiger Unlined Bralette Sujetador sin Aros Gris...'
 sku: 'B078WTLZQH-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

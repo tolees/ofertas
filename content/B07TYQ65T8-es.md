@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TYQ65T8-es Funko- Pop Rocks-Def Leppard-Rick Allen Collectible Toy...'
 sku: 'B07TYQ65T8-es'
-tags: [  ]
 actualPrice: 6.67 EUR
 currency: EUR
 price: 6.67

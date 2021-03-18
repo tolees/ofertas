@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0014GUOZK-es Bosch 2 607 002 566 - Set de 12+1 puntas de atornillar...'
 sku: 'B0014GUOZK-es'
-tags: [  ]
 actualPrice: 18.96 EUR
 currency: EUR
 price: 18.96

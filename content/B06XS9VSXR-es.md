@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XS9VSXR-es Daniel Wellington Petite Sterling Reloj Plateado 32mm...'
 sku: 'B06XS9VSXR-es'
-tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087SNVHH2-es Columbia Bugaboo Oh Los Pantalones De Esquí Térmicas Mujer...'
 sku: 'B087SNVHH2-es'
-tags: [  ]
 actualPrice: 45.62 EUR
 currency: EUR
 price: 45.62

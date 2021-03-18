@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015RCZXQQ-es Lotus 18141/1 - Reloj para Mujer Cuarzo analógico Correa...'
 sku: 'B015RCZXQQ-es'
-tags: [ 'lotus', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

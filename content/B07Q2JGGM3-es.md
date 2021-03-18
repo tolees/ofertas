@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q2JGGM3-es Tvird Máscara de Buceo Máscara de Snorkel 180 ° Vista...'
 sku: 'B07Q2JGGM3-es'
-tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

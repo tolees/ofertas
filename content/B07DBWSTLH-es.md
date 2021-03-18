@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DBWSTLH-es YOHOOLYO Candado Disco Moto con Alarma 7mm 110DB Antirrobo...'
 sku: 'B07DBWSTLH-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

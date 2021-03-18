@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WI5LSOW-es Semillas Batlle - Semillas Leguminosas - Judía enana Big...'
 sku: 'B00WI5LSOW-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

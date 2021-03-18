@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K7GH94B-es adidas Tiro19 WOV PNTY Pantalones de Deporte Unisex niños...'
 sku: 'B07K7GH94B-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

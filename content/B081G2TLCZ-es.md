@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081G2TLCZ-es Lee Marion Straight Jeans Clean Allad 27W x 33L para Mujer'
 sku: 'B081G2TLCZ-es'
-tags: [  ]
 actualPrice: 34.68 EUR
 currency: EUR
 price: 34.68

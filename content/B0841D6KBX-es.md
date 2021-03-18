@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0841D6KBX-es Tommy Hilfiger TJM Essential Down Jacket Chaqueta Rojo...'
 sku: 'B0841D6KBX-es'
-tags: [  ]
 actualPrice: 104.0 EUR
 currency: EUR
 price: 104.0

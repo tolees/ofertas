@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088MSKDPS-es Alvarez Gomez - Alvarez Gómez - Spray higienizante - 30ml'
 sku: 'B088MSKDPS-es'
-tags: [ 'alvarez gomez', ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

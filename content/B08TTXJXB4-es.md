@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TTXJXB4-es UIUI - Soporte de teléfono base de teléfono – Universal...'
 sku: 'B08TTXJXB4-es'
-tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

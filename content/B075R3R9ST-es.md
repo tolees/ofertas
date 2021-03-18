@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R3R9ST-es New Balance Summit KOM Gore-Tex Zapatillas de Running para...'
 sku: 'B075R3R9ST-es'
-tags: [  ]
 actualPrice: 36.33 EUR
 currency: EUR
 price: 36.33

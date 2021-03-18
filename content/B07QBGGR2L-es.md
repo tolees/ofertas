@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QBGGR2L-es Emporio Armani Reloj Analogico para Hombre de Cuarzo con...'
 sku: 'B07QBGGR2L-es'
-tags: [  ]
 actualPrice: 194.0 EUR
 currency: EUR
 price: 194.0

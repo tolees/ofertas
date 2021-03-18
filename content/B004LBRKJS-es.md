@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004LBRKJS-es Vans Atwood Zapatillas Unisex Niños Negro Black/Black 186...'
 sku: 'B004LBRKJS-es'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

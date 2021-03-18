@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VL5DSMV-es TECCPO - Discos de Lija 120 Piezas 125 mm 5" a 8 agujeros...'
 sku: 'B07VL5DSMV-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

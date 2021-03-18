@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJ5C7HJ-es Real Madrid CF- Estuche Multicolor SAFTA 811954635'
 sku: 'B07VJ5C7HJ-es'
-tags: [  ]
 actualPrice: 6.45 EUR
 currency: EUR
 price: 6.45

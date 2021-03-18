@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZNVDXC-es Superga 2750 Cotu Classic Zapatillas Unisex Adulto Blanco...'
 sku: 'B07TZNVDXC-es'
-tags: [  ]
 actualPrice: 30.68 EUR
 currency: EUR
 price: 30.68

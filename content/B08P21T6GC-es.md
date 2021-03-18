@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P21T6GC-es Hispanitas: Botín Militar Almanzor Color Negro elaborado...'
 sku: 'B08P21T6GC-es'
-tags: [  ]
 actualPrice: 95.2 EUR
 currency: EUR
 price: 95.2

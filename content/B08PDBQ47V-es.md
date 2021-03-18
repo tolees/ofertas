@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PDBQ47V-es Secador Pelo Anself Secador Pelo Profesional con 3...'
 sku: 'B08PDBQ47V-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

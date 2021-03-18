@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VR1INV4-es Ecco Irving Mocasines para Hombre Negro BLACK2001 44 EU'
 sku: 'B00VR1INV4-es'
-tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

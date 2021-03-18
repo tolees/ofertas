@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7PQX8N-es Only Onlpoptrash Soft Panel Pnt Noos Pantalones Multicolor...'
 sku: 'B07F7PQX8N-es'
-tags: [  ]
 actualPrice: 25.54 EUR
 currency: EUR
 price: 25.54

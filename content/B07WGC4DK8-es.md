@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WGC4DK8-es HOTLIFE - Luces Antorchas Solares Luces Solar Jardín...'
 sku: 'B07WGC4DK8-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

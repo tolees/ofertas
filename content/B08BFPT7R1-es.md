@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BFPT7R1-es PTHTECHUS Reloj Inteligente Niña - Smartwatch Niños Reloj...'
 sku: 'B08BFPT7R1-es'
-tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

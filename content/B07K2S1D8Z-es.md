@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2S1D8Z-es Under Armour UA HOVR Rise Zapatillas Deportivas para...'
 sku: 'B07K2S1D8Z-es'
-tags: [  ]
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

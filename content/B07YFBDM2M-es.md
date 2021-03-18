@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFBDM2M-es incarpo Zapatillas Casa Hombre Antideslizante de Interior...'
 sku: 'B07YFBDM2M-es'
-tags: [  ]
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

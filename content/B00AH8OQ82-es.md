@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AH8OQ82-es Songmics 76 x 38 x 38 cm Baúl Puff Taburete para...'
 sku: 'B00AH8OQ82-es'
-tags: [  ]
 actualPrice: 28.96 EUR
 currency: EUR
 price: 28.96

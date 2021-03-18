@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WQF58M-es FILA Disruptor Zapatillas Mujer Blanco White 37 EU'
 sku: 'B078WQF58M-es'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

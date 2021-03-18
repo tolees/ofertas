@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KJ2TDMR-es TP-Link AC1200 Deco M4 2 Pack - Router Repetidor de Wi-fi...'
 sku: 'B07KJ2TDMR-es'
-tags: [  ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

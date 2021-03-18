@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J9WQP76-es Philips Wake-up Light HF3531/01 Despertador de luz 7...'
 sku: 'B01J9WQP76-es'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

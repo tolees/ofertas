@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GZP2NUI-es 2 Pares 9450 Fibra de Carbono Reforzada Hélices Auto-...'
 sku: 'B01GZP2NUI-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

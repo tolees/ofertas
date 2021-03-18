@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WGZRD86-es PTHTECHUS Reloj Inteligente Teléfono para niños GPS...'
 sku: 'B07WGZRD86-es'
-tags: [  ]
 actualPrice: 30.11 EUR
 currency: EUR
 price: 30.11

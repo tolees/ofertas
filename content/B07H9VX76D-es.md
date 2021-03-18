@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H9VX76D-es SanDisk Extreme PRO - Tarjeta de memoria SDXC de 256 GB...'
 sku: 'B07H9VX76D-es'
-tags: [  ]
 actualPrice: 78.29 EUR
 currency: EUR
 price: 78.29

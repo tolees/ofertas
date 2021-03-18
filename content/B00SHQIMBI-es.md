@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SHQIMBI-es HOMCOM Canasta de Baloncesto Plegable Altura Ajustable...'
 sku: 'B00SHQIMBI-es'
-tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

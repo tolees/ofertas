@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QR68ZR9-es Lámpara colgante vintage E27 Lámparas de techo Lámpara...'
 sku: 'B07QR68ZR9-es'
-tags: [  ]
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

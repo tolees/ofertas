@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DZZJXRS-es Levi s Turner Zapatillas para Hombre Azul Navy Blue 17 44 EU'
 sku: 'B07DZZJXRS-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

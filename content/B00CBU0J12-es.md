@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CBU0J12-es Panasonic RP-HJE125E-A Auriculares Boton con Cable In-Ear...'
 sku: 'B00CBU0J12-es'
-tags: [  ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

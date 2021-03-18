@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V9GW4ZG-es JACK & JONES Jorrafael Sweat Hood Capucha Gris Light Grey...'
 sku: 'B07V9GW4ZG-es'
-tags: [  ]
 actualPrice: 10.64 EUR
 currency: EUR
 price: 10.64

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018HXJWMS-es AUKEY Adaptador HDMI a VGA 1080P Convertidor de Vídeo para...'
 sku: 'B018HXJWMS-es'
-tags: [  ]
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

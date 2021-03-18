@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LQ4BM7S-es Razer Goliathus Speed Cosmic Extended - Suave alfombrilla...'
 sku: 'B01LQ4BM7S-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

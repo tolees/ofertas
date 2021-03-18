@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFWP306-es Brabantia 298240 Bote de Cristal 1.9 L Gris/Transparente 1...'
 sku: 'B00JFWP306-es'
-tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Cubertería, Vajilla y Cristalería','Hogar y cocina','Piezas de vajilla','Ropa','Ropa para hombre','Tazas','Tazas de té', ]
 actualPrice: 8.1 EUR
 currency: EUR
 price: 8.1

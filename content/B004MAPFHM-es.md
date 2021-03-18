@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004MAPFHM-es Bowmore Islay Single Malt Scotch Whisky 12 Años 40% 700 ml'
 sku: 'B004MAPFHM-es'
-tags: [  ]
 actualPrice: 24.75 EUR
 currency: EUR
 price: 24.75

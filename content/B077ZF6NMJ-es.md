@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077ZF6NMJ-es Tristar FR-6980 Freidora Crispy Mini - Freidora sin aceite...'
 sku: 'B077ZF6NMJ-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075F78KDV-es Kärcher 1.633-430.0 Window Vac WV 2 Premium 10 years -...'
 sku: 'B075F78KDV-es'
-tags: [  ]
 actualPrice: 48.27 EUR
 currency: EUR
 price: 48.27

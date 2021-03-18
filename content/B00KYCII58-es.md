@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KYCII58-es Skechers Go Walk 3 Zapatillas Mujer Gris CHAR 35 EU'
 sku: 'B00KYCII58-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

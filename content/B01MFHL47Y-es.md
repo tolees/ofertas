@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MFHL47Y-es Under NY Sky Delantal Verde - Sarga Profesional - Correas...'
 sku: 'B01MFHL47Y-es'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

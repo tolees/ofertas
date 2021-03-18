@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010DDY5QI-es VASAGLE Ordenador Escritorio de la Computadora Negro en...'
 sku: 'B010DDY5QI-es'
-tags: [  ]
 actualPrice: 80.59 EUR
 currency: EUR
 price: 80.59

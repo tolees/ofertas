@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0845LTBR7-es Middle Moon Apolo 2020'
 sku: 'B0845LTBR7-es'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

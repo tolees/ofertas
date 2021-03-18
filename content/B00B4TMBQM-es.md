@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B4TMBQM-es Essie Esmalte de Uñas 067 Meet Me At Sunset'
 sku: 'B00B4TMBQM-es'
-tags: [  ]
 actualPrice: 4.79 EUR
 currency: EUR
 price: 4.79

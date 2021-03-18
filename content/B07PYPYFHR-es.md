@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PYPYFHR-es Tulipán Negro Gel De Baño Crema De Jabón 720 ml'
 sku: 'B07PYPYFHR-es'
-tags: [  ]
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

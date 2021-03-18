@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VM1BCPC-es Hackett London Army Camo Panel Polo Azul 5cwnavy/Green 5cw...'
 sku: 'B07VM1BCPC-es'
-tags: [  ]
 actualPrice: 30.5 EUR
 currency: EUR
 price: 30.5

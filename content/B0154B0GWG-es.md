@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0154B0GWG-es Linksys WRT1900ACS - Router inalámbrico Smart Wi-Fi de...'
 sku: 'B0154B0GWG-es'
-tags: [  ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

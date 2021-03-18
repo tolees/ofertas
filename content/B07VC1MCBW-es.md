@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC1MCBW-es JACK & JONES Jcobase Sweat Hood Capucha Gris Light Grey...'
 sku: 'B07VC1MCBW-es'
-tags: [  ]
 actualPrice: 13.05 EUR
 currency: EUR
 price: 13.05

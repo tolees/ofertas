@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTQJ7TW-es Hugo BOSS Reloj de pulsera 1513665'
 sku: 'B07KTQJ7TW-es'
-tags: [  ]
 actualPrice: 244.0 EUR
 currency: EUR
 price: 244.0

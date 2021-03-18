@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJ6JC48-es Grsta Botella Agua - Botella de Agua Deportes 500ml...'
 sku: 'B08DJ6JC48-es'
-tags: [  ]
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

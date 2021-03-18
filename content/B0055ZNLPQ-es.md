@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0055ZNLPQ-es Desconocido - Haverland RC8TT | Emisor Térmico Fluido...'
 sku: 'B0055ZNLPQ-es'
-tags: [  ]
 actualPrice: 174.0 EUR
 currency: EUR
 price: 174.0

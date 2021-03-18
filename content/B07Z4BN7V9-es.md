@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z4BN7V9-es G-STAR RAW Roxic Pantalones Cortos Mazarine Blue GD...'
 sku: 'B07Z4BN7V9-es'
-tags: [  ]
 actualPrice: 25.94 EUR
 currency: EUR
 price: 25.94

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088TS6L3V-es KVAGO Teclado con Funda para iPad Pro 11 2020/2018...'
 sku: 'B088TS6L3V-es'
-tags: [  ]
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

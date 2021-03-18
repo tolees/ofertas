@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008SO7JZ4-es Remington S8590 Keratin Therapy Pro - Plancha de Pelo...'
 sku: 'B008SO7JZ4-es'
-tags: [  ]
 actualPrice: 43.05 EUR
 currency: EUR
 price: 43.05

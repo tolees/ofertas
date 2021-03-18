@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VM9T24V-es Seiko UK Limited - EU Pulsar Diver - Reloj de Vestir con...'
 sku: 'B07VM9T24V-es'
-tags: [  ]
 actualPrice: 84.39 EUR
 currency: EUR
 price: 84.39

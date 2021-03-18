@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088M4D1LG-es Decdeal USB fotocatalítico eléctrico Anti Mosquito Asesino...'
 sku: 'B088M4D1LG-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

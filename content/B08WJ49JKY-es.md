@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WJ49JKY-es Nihlsfen 1 par de imanes para Perder Peso Nueva tecnología...'
 sku: 'B08WJ49JKY-es'
-tags: [  ]
 actualPrice: 1.64 EUR
 currency: EUR
 price: 1.64

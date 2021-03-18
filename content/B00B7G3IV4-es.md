@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00B7G3IV4-es L Oreal Paris Men Expert Hydra Energetic Roll-On Ojos...'
 sku: 'B00B7G3IV4-es'
-tags: [  ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

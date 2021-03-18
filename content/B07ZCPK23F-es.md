@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZCPK23F-es ElecMotive 3 Piezas Babero con Mangas EVA Impermeable...'
 sku: 'B07ZCPK23F-es'
-tags: [  ]
 actualPrice: 6.97 EUR
 currency: EUR
 price: 6.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082B32SCQ-es Juego de Regalo de Copas de Cristal Roca - Vaso Scotch con...'
 sku: 'B082B32SCQ-es'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

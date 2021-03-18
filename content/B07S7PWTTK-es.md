@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S7PWTTK-es VPCOK Envasadora al vacío automático 110W Máquina del...'
 sku: 'B07S7PWTTK-es'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

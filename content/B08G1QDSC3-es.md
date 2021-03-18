@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G1QDSC3-es Hileyu - Juego de 2 moldes de silicona de diamante para...'
 sku: 'B08G1QDSC3-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKLZKHF-es Rubies- Disfraz Scream Ad Multicolor Talla única S8364'
 sku: 'B07FKLZKHF-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

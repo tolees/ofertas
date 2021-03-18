@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W9JXK4G-es AMD RYZEN 7 1800X 16 MB 4.0GHz Octa Core AMD'
 sku: 'B06W9JXK4G-es'
-tags: [  ]
 actualPrice: 139.9 EUR
 currency: EUR
 price: 139.9

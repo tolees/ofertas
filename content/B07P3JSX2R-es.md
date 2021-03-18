@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P3JSX2R-es Superdry Storm Hybrid Ziphood Capucha Gris Silver Heather...'
 sku: 'B07P3JSX2R-es'
-tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

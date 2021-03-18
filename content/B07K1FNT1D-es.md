@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K1FNT1D-es adidas Continental 80 Zapatillas de Gimnasia Hombre Blanco...'
 sku: 'B07K1FNT1D-es'
-tags: [  ]
 actualPrice: 61.23 EUR
 currency: EUR
 price: 61.23

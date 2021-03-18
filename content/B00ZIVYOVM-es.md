@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZIVYOVM-es Mass Effect: Andrómeda'
 sku: 'B00ZIVYOVM-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

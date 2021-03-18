@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TDLXH82-es eXtremeRate Placa Trasera para NS Switch Console NS Joycon...'
 sku: 'B07TDLXH82-es'
-tags: [  ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

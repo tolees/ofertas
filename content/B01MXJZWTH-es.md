@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXJZWTH-es NEW C 2 Unidades Protector de Pantalla para Huawei P9 Lite...'
 sku: 'B01MXJZWTH-es'
-tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

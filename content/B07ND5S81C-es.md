@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ND5S81C-es Scuderia Ferrari Reloj Cronógrafo para Hombre de Cuarzo...'
 sku: 'B07ND5S81C-es'
-tags: [  ]
 actualPrice: 154.0 EUR
 currency: EUR
 price: 154.0

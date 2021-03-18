@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BTFSJ9E-es Belkin - Cargador doméstico 5V 1A compatible con Phone 11...'
 sku: 'B00BTFSJ9E-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

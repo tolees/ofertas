@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082H9PVQP-es ART VVIES mit Haken Leinwanddrucke Rose Ringed Sittich...'
 sku: 'B082H9PVQP-es'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

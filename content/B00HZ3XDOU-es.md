@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HZ3XDOU-es Climax 5RG'
 sku: 'B00HZ3XDOU-es'
-tags: [  ]
 actualPrice: 5.66 EUR
 currency: EUR
 price: 5.66

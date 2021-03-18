@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLMCNH3-es TRUUA 30 Hojas de Papel Blanco del arroz de la caligrafía...'
 sku: 'B08BLMCNH3-es'
-tags: [  ]
 actualPrice: 4.63 EUR
 currency: EUR
 price: 4.63

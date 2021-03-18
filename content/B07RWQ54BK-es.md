@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RWQ54BK-es Charles Wilson Paquete 4 Camisetas Elásticas Elastano...'
 sku: 'B07RWQ54BK-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

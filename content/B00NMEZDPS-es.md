@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NMEZDPS-es One For All URC1911 - Mando a distancia de reemplazo para...'
 sku: 'B00NMEZDPS-es'
-tags: [  ]
 actualPrice: 12.09 EUR
 currency: EUR
 price: 12.09

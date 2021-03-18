@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RYQ18WD-es Kauriea USB 1TB Memoria USB 3.0 Mini Pendrive Impermeable...'
 sku: 'B08RYQ18WD-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

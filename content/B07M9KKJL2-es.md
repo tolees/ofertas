@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9KKJL2-es Senston Anti Slip Sobregrip Racket Overgrip Antideslizante...'
 sku: 'B07M9KKJL2-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NBOQAC3-es Google Nest - Nest – Cámara de Seguridad Indoor'
 sku: 'B01NBOQAC3-es'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

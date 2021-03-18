@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YCCL76Z-es Mydours Reposamuñecas para Teclado Ergonómico Cojín de...'
 sku: 'B07YCCL76Z-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

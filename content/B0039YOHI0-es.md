@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0039YOHI0-es Casio Reloj de pulsera AE-1000W-1AVCF'
 sku: 'B0039YOHI0-es'
-tags: [  ]
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

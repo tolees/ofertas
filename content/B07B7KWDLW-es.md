@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B7KWDLW-es TOUCHBeauty TB-1059 - Pinzas LED de precisión para cejas...'
 sku: 'B07B7KWDLW-es'
-tags: [  ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

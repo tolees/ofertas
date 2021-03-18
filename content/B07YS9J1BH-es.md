@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YS9J1BH-es Taladro Atornillador TACKLIFE Destornillador Eléctrico 18V...'
 sku: 'B07YS9J1BH-es'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

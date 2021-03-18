@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C4QL57E-es SanDisk Extreme Pro - Tarjeta de Memoria microSDXC de 64...'
 sku: 'B01C4QL57E-es'
-tags: [  ]
 actualPrice: 63.8 EUR
 currency: EUR
 price: 63.8

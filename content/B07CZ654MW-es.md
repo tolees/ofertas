@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZ654MW-es Wonderbra Fabulous Feel Padded Triangle Bra Wireless...'
 sku: 'B07CZ654MW-es'
-tags: [  ]
 actualPrice: 19.56 EUR
 currency: EUR
 price: 19.56

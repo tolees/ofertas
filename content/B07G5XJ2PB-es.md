@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G5XJ2PB-es Baby Dove - Loción Corporal Dove Baby Hidratación Profunda...'
 sku: 'B07G5XJ2PB-es'
-tags: [  ]
 actualPrice: 11.36 EUR
 currency: EUR
 price: 11.36

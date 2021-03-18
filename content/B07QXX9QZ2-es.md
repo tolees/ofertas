@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXX9QZ2-es XLTOK Cable USB Tipo C Cable USB C [ 3Pack 2M ] Carga...'
 sku: 'B07QXX9QZ2-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

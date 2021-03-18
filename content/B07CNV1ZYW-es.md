@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNV1ZYW-es Meloive El Mejor Set de 72 lápices de Colores Mejores...'
 sku: 'B07CNV1ZYW-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

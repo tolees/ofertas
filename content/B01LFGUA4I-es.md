@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LFGUA4I-es Mizuno Morelia Neo CL AG Zapatillas Hombre Azul 40'
 sku: 'B01LFGUA4I-es'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

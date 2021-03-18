@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFWP5U4-es Brabantia 298301 - Tarro de Cristal 0.3 L Tapa Gris Oscuro'
 sku: 'B00JFWP5U4-es'
-tags: [ 'Almacenamiento de alimentos','Almacenamiento de cocina y despensa','Botes para alimentos','Hogar y cocina','brabantia', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

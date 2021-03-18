@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MYQ5CC8-es Levi s 711 Skinny Jeans Modello Aderente a Gamba Stretta...'
 sku: 'B01MYQ5CC8-es'
-tags: [  ]
 actualPrice: 17.31 EUR
 currency: EUR
 price: 17.31

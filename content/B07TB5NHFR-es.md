@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TB5NHFR-es NAVANINO Cortapelos Hombre Profesional Recortadora de...'
 sku: 'B07TB5NHFR-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013PIDCU8-es Hugo BOSS Reloj con mecanismo de cuarzo para hombre...'
 sku: 'B013PIDCU8-es'
-tags: [  ]
 actualPrice: 198.44 EUR
 currency: EUR
 price: 198.44

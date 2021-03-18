@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BB79ZF5-es Stor - Botella Aluminio Premium 710 ML | Star Wars'
 sku: 'B07BB79ZF5-es'
-tags: [  ]
 actualPrice: 9.82 EUR
 currency: EUR
 price: 9.82

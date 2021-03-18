@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2CNG3K-es TESMED Cinturón Electroestimulador 7.7 extra Belt para...'
 sku: 'B07D2CNG3K-es'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

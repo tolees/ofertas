@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQ6ZDJK-es Puma Basket Crush Wn s Zapatillas para Mujer Blanco White-...'
 sku: 'B07FQ6ZDJK-es'
-tags: [  ]
 actualPrice: 20.04 EUR
 currency: EUR
 price: 20.04

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R3HSPZJ-es ERAY Fiambrera Eléctrica 24V 12V 220V 3 en 1 para...'
 sku: 'B07R3HSPZJ-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

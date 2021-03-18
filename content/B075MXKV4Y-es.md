@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MXKV4Y-es WYT Almohada Bebé Cojín Recién nacido para Anti...'
 sku: 'B075MXKV4Y-es'
-tags: [  ]
 actualPrice: 10.88 EUR
 currency: EUR
 price: 10.88

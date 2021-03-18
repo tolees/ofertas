@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N2QLHL3-es RAVPOWER Filehub Router Portátil WiFi Amplificador WiFi...'
 sku: 'B07N2QLHL3-es'
-tags: [  ]
 actualPrice: 36.11 EUR
 currency: EUR
 price: 36.11

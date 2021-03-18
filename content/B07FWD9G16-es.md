@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWD9G16-es Nike Portmore II Ultralight GS Zapatillas de Deporte para...'
 sku: 'B07FWD9G16-es'
-tags: [  ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

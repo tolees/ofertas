@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CQ1YS3K-es Lee Daren Button Fly Jeans Azul Light Daze ZX 38W / 32L...'
 sku: 'B07CQ1YS3K-es'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

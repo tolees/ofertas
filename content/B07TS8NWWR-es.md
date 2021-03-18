@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TS8NWWR-es Funko- Pop Games: Mortal Kombat-Sub-Zero Collectible Toy...'
 sku: 'B07TS8NWWR-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

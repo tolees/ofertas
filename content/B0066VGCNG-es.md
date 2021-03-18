@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0066VGCNG-es Paco & Lola Vino Blanco Rías Baixas 75 cl - 750 ml'
 sku: 'B0066VGCNG-es'
-tags: [  ]
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

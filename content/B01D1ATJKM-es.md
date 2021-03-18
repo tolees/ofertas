@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01D1ATJKM-es HoMedics Masajeador de cuello y hombros: cabezas...'
 sku: 'B01D1ATJKM-es'
-tags: [  ]
 actualPrice: 42.62 EUR
 currency: EUR
 price: 42.62

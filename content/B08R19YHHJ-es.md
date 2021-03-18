@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R19YHHJ-es TX - Clip para chupete de bebé Cadena de chupete Chupete...'
 sku: 'B08R19YHHJ-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

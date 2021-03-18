@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075GPGYFM-es Adidas VL Court 2.0 CMF I Zapatillas de Gimnasia Blanco...'
 sku: 'B075GPGYFM-es'
-tags: [  ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

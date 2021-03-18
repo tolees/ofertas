@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PM9DKY4-es Secador de Pelo Profesional Abody Secador Iónico de 3500W...'
 sku: 'B07PM9DKY4-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

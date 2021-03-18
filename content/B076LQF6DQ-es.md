@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076LQF6DQ-es Anpro 2 x TSA Candados de Seguridad - Tres Maletas Código...'
 sku: 'B076LQF6DQ-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

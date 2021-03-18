@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MG8U43L-es Invicta 21867 Pro Diver Reloj para Hombre acero inoxidable...'
 sku: 'B01MG8U43L-es'
-tags: [  ]
 actualPrice: 130.9 EUR
 currency: EUR
 price: 130.9

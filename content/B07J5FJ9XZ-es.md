@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J5FJ9XZ-es Air Wick Freshmatic - Recambios de ambientador spray...'
 sku: 'B07J5FJ9XZ-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

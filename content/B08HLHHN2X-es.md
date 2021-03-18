@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HLHHN2X-es #NA Soporte para computadora de Escritorio multifunción...'
 sku: 'B08HLHHN2X-es'
-tags: [  ]
 actualPrice: 6.75 EUR
 currency: EUR
 price: 6.75

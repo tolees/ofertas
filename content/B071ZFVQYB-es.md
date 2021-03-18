@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZFVQYB-es Banana Boat KIDS Advanced Protection - Crema solar en...'
 sku: 'B071ZFVQYB-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

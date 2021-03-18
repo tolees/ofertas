@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPVQY62-es TP-Link LS105G - Switch Ethernet 5 Puertos 10/100/1000Mbps...'
 sku: 'B07RPVQY62-es'
-tags: [ 'tp-link', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776PVTNK-es ADORIC Báscula Digital para Cocina de Acero Inoxidable 5kg...'
 sku: 'B0776PVTNK-es'
-tags: [ 'adoric', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

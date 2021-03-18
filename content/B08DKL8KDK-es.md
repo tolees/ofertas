@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKL8KDK-es Enotepad 2Packs LCD Writing Tablets for Kids Drawing...'
 sku: 'B08DKL8KDK-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

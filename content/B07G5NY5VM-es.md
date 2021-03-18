@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G5NY5VM-es Max Factor Base de maquillaje Tono: 65 Rose Beige Pieles...'
 sku: 'B07G5NY5VM-es'
-tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

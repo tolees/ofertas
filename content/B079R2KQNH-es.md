@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079R2KQNH-es Sharp HT-SB110 - Barra de sonido cine en casa Bluetooth...'
 sku: 'B079R2KQNH-es'
-tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

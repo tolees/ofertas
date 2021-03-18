@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0060OMU3U-es La Roche Posay - Agua micelar effaclar 400 ml'
 sku: 'B0060OMU3U-es'
-tags: [  ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25

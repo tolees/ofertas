@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079PQ7TRJ-es Funko Pop!- 26464 Marvel: Avengers Infinity War Figura de...'
 sku: 'B079PQ7TRJ-es'
-tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

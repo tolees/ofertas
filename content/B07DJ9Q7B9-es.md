@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ9Q7B9-es Revlon Super Lustrous Pintalabios Mate Power Move'
 sku: 'B07DJ9Q7B9-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KMPZ6LT-es adidas BW Sol BIK Trajes de Dos Piezas Mujer Negro Black...'
 sku: 'B07KMPZ6LT-es'
-tags: [  ]
 actualPrice: 16.83 EUR
 currency: EUR
 price: 16.83

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PYKWOLE-es Nike Court Royale Zapatillas de Gimnasia para Hombre Negro...'
 sku: 'B00PYKWOLE-es'
-tags: [  ]
 actualPrice: 30.01 EUR
 currency: EUR
 price: 30.01

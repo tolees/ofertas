@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MZIXMQC-es Project Cars 2'
 sku: 'B01MZIXMQC-es'
-tags: [  ]
 actualPrice: 18.19 EUR
 currency: EUR
 price: 18.19

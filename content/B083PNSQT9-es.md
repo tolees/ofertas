@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083PNSQT9-es VALSOLE Plantillas Ortopédicas soportes de arco y talones...'
 sku: 'B083PNSQT9-es'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

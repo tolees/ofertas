@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG99FDP-es PUMA Nova 2 Wn s Zapatillas Deportivas para Mujer Negro...'
 sku: 'B07KG99FDP-es'
-tags: [  ]
 actualPrice: 20.56 EUR
 currency: EUR
 price: 20.56

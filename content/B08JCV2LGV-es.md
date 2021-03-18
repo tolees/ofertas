@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JCV2LGV-es Zwindy Ventilador portátil Ventilador portátil USB de 3...'
 sku: 'B08JCV2LGV-es'
-tags: [  ]
 actualPrice: 5.79 EUR
 currency: EUR
 price: 5.79

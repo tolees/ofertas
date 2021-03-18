@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRBS11V-es Oral-B PRO 2 2000 Sensi Ultrathin Cepillo de dientes...'
 sku: 'B07SRBS11V-es'
-tags: [ 'oral-b', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5S8HZV-es LITOM Luz Solar de Exterior 200 LEDs Impermeable IP67...'
 sku: 'B07W5S8HZV-es'
-tags: [  ]
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

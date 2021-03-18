@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JC7FWT9-es Hackett London Garment Dye Texture Pantalones Marrón Taupe...'
 sku: 'B07JC7FWT9-es'
-tags: [  ]
 actualPrice: 19.04 EUR
 currency: EUR
 price: 19.04

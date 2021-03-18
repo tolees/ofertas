@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PLS482W-es Bra Prior - Set de 3 Sartenes Aluminio Fundido...'
 sku: 'B00PLS482W-es'
-tags: [ 'bra', ]
 actualPrice: 54.19 EUR
 currency: EUR
 price: 54.19

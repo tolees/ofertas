@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PFN6RR8-es Columbia Street Elite Petate convertible Color: Gris Cool...'
 sku: 'B07PFN6RR8-es'
-tags: [  ]
 actualPrice: 45.89 EUR
 currency: EUR
 price: 45.89

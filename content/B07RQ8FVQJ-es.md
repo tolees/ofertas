@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RQ8FVQJ-es SIMOLIO - SIMIOLIO Auriculares Bluetooth para niños con 75...'
 sku: 'B07RQ8FVQJ-es'
-tags: [  ]
 actualPrice: 35.83 EUR
 currency: EUR
 price: 35.83

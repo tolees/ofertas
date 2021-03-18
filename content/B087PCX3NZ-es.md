@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PCX3NZ-es Anzkzo Cojín Cojines de Asiento Cojín de Silla Larga para...'
 sku: 'B087PCX3NZ-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

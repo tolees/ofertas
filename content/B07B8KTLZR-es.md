@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B8KTLZR-es Levi s Declan Millstone 2 Tone Zapatillas Hombre Navy Blue...'
 sku: 'B07B8KTLZR-es'
-tags: [ 'Zapatillas casual para hombre','levis', ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

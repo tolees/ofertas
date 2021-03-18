@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M13IFK3-es Durex Sensitivo Suave Preservativos Finos y...'
 sku: 'B01M13IFK3-es'
-tags: [  ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

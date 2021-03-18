@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K12JWNQ-es Adidas Altasport CF K Zapatillas de Deporte Unisex Niños...'
 sku: 'B07K12JWNQ-es'
-tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

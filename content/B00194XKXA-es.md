@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00194XKXA-es TP-Link Adaptador wifi USB inalámbrico Compatible con...'
 sku: 'B00194XKXA-es'
-tags: [  ]
 actualPrice: 9.44 EUR
 currency: EUR
 price: 9.44

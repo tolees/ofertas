@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084LZXNF4-es Botones de Resina Botones Costura 240 Piezas Colores...'
 sku: 'B084LZXNF4-es'
-tags: [  ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

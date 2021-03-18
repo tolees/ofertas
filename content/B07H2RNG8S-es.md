@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2RNG8S-es Citizen Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07H2RNG8S-es'
-tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

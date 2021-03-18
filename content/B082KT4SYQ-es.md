@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082KT4SYQ-es Tensiómetro de brazo OUDEKAY Monitor de Presión con...'
 sku: 'B082KT4SYQ-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LOJTJXO-es Hot Chocolate Design Chocolaticas He Loves Me He Loves Me...'
 sku: 'B01LOJTJXO-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

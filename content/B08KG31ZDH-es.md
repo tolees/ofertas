@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KG31ZDH-es AUCARY - Webcam 1080p Full HD con Micrófono Gran ángulo de...'
 sku: 'B08KG31ZDH-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UJJKCL4-es Ciroc Pineapple Vodka - 700 ml'
 sku: 'B00UJJKCL4-es'
-tags: [  ]
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CCM3Q2T-es L Oreal Paris Men Expert Crema Hidratante Anti-Fatiga 24H...'
 sku: 'B08CCM3Q2T-es'
-tags: [ 'Belleza','Calzado de atletismo para mujer','Calzado deportivo  de exterior de mujer','Calzado deportivo para hombre','Calzado deportivo para mujer','Calzados de running para hombre','Calzados de running para mujer','Calzados para correr en asfalto para hombre','Climatización y calefacción','Cremas corporales','Cremas diurnas faciales','Cremas para pies','Cuidado diurno facial','Hidratantes corporales','Hidratantes faciales','Hogar y cocina','Lociones corporales','Manicura y pedicura','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para el cuidado de la piel corporal','Productos para el cuidado de las manos y de los pies','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Ventiladores','Ventiladores de torre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','loreal paris men expert', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PJJL4F-es Réplica oficial minikit primera equipación rfef 2020'
 sku: 'B085PJJL4F-es'
-tags: [  ]
 actualPrice: 29.6 EUR
 currency: EUR
 price: 29.6

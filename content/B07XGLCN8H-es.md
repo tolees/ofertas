@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XGLCN8H-es Skechers Equalizer 4.0 SERASA Zapatillas Hombre Marrón...'
 sku: 'B07XGLCN8H-es'
-tags: [  ]
 actualPrice: 21.62 EUR
 currency: EUR
 price: 21.62

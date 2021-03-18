@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4XW2JJ-es New Balance 997h Zapatillas para Hombre Verde Green/Gold...'
 sku: 'B07S4XW2JJ-es'
-tags: [  ]
 actualPrice: 56.12 EUR
 currency: EUR
 price: 56.12

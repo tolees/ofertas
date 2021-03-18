@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SC5C6X8-es NYX Professional Makeup Máscara de pestañas On The Rise...'
 sku: 'B07SC5C6X8-es'
-tags: [  ]
 actualPrice: 8.92 EUR
 currency: EUR
 price: 8.92

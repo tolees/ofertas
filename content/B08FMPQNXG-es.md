@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FMPQNXG-es Todocama – Pack de 2 Unidades. Relleno de cojín con Fibra...'
 sku: 'B08FMPQNXG-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

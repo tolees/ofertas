@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0893QC6SL-es Quiksilver All Time - Licra De Manga Corta con Protección...'
 sku: 'B0893QC6SL-es'
-tags: [  ]
 actualPrice: 10.04 EUR
 currency: EUR
 price: 10.04

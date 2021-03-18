@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F752VWZ-es Chanclas/ADIDAS:Adilette Aqua 38 Negro'
 sku: 'B07F752VWZ-es'
-tags: [  ]
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

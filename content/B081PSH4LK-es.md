@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081PSH4LK-es 8CH NVR 1080P Kit de Camara vigilancia WiFi Exterior...'
 sku: 'B081PSH4LK-es'
-tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

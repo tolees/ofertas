@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011XCY7TI-es Vengadores: La Era De Ultrón BD 3D + 2D [Blu-ray]'
 sku: 'B011XCY7TI-es'
-tags: [  ]
 actualPrice: 15.44 EUR
 currency: EUR
 price: 15.44

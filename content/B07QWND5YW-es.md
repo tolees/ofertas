@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWND5YW-es Under Armour Metallic Woven FZ Parte Superior del...'
 sku: 'B07QWND5YW-es'
-tags: [  ]
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

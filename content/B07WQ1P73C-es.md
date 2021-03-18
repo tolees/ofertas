@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQ1P73C-es TUBBZ Fallout Vault Boy Collectible Duck'
 sku: 'B07WQ1P73C-es'
-tags: [  ]
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

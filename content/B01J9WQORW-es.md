@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J9WQORW-es Philips Wake-up Light HF3506/30 Despertador mediante...'
 sku: 'B01J9WQORW-es'
-tags: [  ]
 actualPrice: 59.89 EUR
 currency: EUR
 price: 59.89

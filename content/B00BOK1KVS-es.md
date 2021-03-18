@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BOK1KVS-es CAMEO - Space Battleship Yamato [Blu-ray]'
 sku: 'B00BOK1KVS-es'
-tags: [  ]
 actualPrice: 8.77 EUR
 currency: EUR
 price: 8.77

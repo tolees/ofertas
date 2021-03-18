@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B73KHKS-es Trust Tyro Webcam con Microfono PC Full HD 1080p USB...'
 sku: 'B08B73KHKS-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

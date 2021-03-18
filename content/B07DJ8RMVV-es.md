@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJ8RMVV-es New Balance 411 Zapatillas de Running para Mujer Negro...'
 sku: 'B07DJ8RMVV-es'
-tags: [  ]
 actualPrice: 21.55 EUR
 currency: EUR
 price: 21.55

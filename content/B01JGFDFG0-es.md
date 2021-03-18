@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JGFDFG0-es Bourjois Boite Ronde Sombra de ojos Tono 13 Extra-vertie -...'
 sku: 'B01JGFDFG0-es'
-tags: [  ]
 actualPrice: 0.9 EUR
 currency: EUR
 price: 0.9

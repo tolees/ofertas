@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079DQ7H3V-es Set de brochas de maquillaje profesional BESTOPE 16 piezas...'
 sku: 'B079DQ7H3V-es'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N3XXWC3-es Audio-Technica ANC500BT - Auriculares Inalámbricos Color...'
 sku: 'B07N3XXWC3-es'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

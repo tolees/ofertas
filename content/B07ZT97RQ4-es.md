@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZT97RQ4-es Inclinómetro horizontal magnético del buscador digital de...'
 sku: 'B07ZT97RQ4-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

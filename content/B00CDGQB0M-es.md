@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CDGQB0M-es Mayor de Castilla Verdejo - Vino Blanco D.O Rueda - Caja...'
 sku: 'B00CDGQB0M-es'
-tags: [  ]
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

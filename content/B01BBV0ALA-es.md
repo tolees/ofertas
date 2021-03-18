@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BBV0ALA-es Maybelline New York - Master Contour Stick Barra de...'
 sku: 'B01BBV0ALA-es'
-tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

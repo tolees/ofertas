@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082KLJJ1X-es Nice Dream - Juguete de mordida Molar para mascotas bola...'
 sku: 'B082KLJJ1X-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

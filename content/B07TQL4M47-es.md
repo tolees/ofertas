@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TQL4M47-es Dicora UrbanFit - Dicora Urban Fit® Gel De BañoEnergy...'
 sku: 'B07TQL4M47-es'
-tags: [  ]
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

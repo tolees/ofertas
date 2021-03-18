@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00H8OSHQA-es Bourjois 123 Perfect Base de Maquillaje Tono 57 Light tan...'
 sku: 'B00H8OSHQA-es'
-tags: [  ]
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076J9FH6K-es adidas Trefoil T-Shirt T-Shirt Hombre Black S'
 sku: 'B076J9FH6K-es'
-tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

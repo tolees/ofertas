@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0863SRK5J-es Suhctup Transparente Funda Compatible con Huawei P20 Pro...'
 sku: 'B0863SRK5J-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

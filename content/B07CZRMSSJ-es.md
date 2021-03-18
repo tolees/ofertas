@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZRMSSJ-es Under Armour Armour Fly Fast Crop Leggings Capri Mujer...'
 sku: 'B07CZRMSSJ-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

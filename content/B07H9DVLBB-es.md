@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H9DVLBB-es SanDisk Extreme PRO - Tarjeta de memoria SDXC de 128 GB...'
 sku: 'B07H9DVLBB-es'
-tags: [  ]
 actualPrice: 35.29 EUR
 currency: EUR
 price: 35.29

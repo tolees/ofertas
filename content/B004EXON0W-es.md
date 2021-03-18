@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004EXON0W-es Fifty Pounds Ginebra - 700 ml'
 sku: 'B004EXON0W-es'
-tags: [  ]
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

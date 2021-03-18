@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FBBSS21-es AGM Set de Bandas de Resistencia Fitness 5 Bandas...'
 sku: 'B08FBBSS21-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

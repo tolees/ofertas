@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009ES4M5S-es Rowenta CV5090F0 Powerline Plus - Secador de 2300 W...'
 sku: 'B009ES4M5S-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

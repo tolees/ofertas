@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFWP3RY-es Brabantia 298264 - Tarro de Cristal 1.1 L Tapa Gris Oscuro'
 sku: 'B00JFWP3RY-es'
-tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Cubertería, Vajilla y Cristalería','Hogar y cocina','Piezas de vajilla','Ropa','Ropa para hombre','Tazas','Tazas de té', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

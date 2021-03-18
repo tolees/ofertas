@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FCMBLV6-es SanDisk Extreme - Tarjeta de memoria microSDXC de 64 GB...'
 sku: 'B07FCMBLV6-es'
-tags: [  ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGKTM3N-es Napapijri Nakuro 3 Pantalones Cortos Gris Dove Grey H361...'
 sku: 'B07VGKTM3N-es'
-tags: [  ]
 actualPrice: 23.86 EUR
 currency: EUR
 price: 23.86

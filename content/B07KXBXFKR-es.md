@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXBXFKR-es Bronchotos Pediátrico – Jarabe tos seca y productiva....'
 sku: 'B07KXBXFKR-es'
-tags: [  ]
 actualPrice: 6.84 EUR
 currency: EUR
 price: 6.84

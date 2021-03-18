@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073S4WJZQ-es L Oreal Paris Elvive Aceite Extraordinario de Coco...'
 sku: 'B073S4WJZQ-es'
-tags: [  ]
 actualPrice: 5.51 EUR
 currency: EUR
 price: 5.51

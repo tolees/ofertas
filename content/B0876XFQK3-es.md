@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0876XFQK3-es GlobalCrown Cámara para niños Mini Digital Recargable...'
 sku: 'B0876XFQK3-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

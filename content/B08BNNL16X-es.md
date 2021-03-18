@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BNNL16X-es IVSO Funda Compatible con Samsung Galaxy Tab A7 10.4 2020...'
 sku: 'B08BNNL16X-es'
-tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

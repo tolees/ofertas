@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008HNKAHK-es The Walt Disney Company Iberia - 101 Dálmatas [DVD]'
 sku: 'B008HNKAHK-es'
-tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

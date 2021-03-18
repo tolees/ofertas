@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FGX1BUY-es Orbegozo HBF 90 Estufa de Butano Triple Sistema de...'
 sku: 'B00FGX1BUY-es'
-tags: [  ]
 actualPrice: 74.27 EUR
 currency: EUR
 price: 74.27

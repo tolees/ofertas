@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W36DPV4-es Pepe Jeans Robe Azul Denim 000 W32 para Mujer'
 sku: 'B07W36DPV4-es'
-tags: [  ]
 actualPrice: 10.54 EUR
 currency: EUR
 price: 10.54

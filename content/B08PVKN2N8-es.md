@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PVKN2N8-es Gillette ProShield Maquinilla de Afeitar Hombre con...'
 sku: 'B08PVKN2N8-es'
-tags: [  ]
 actualPrice: 29.34 EUR
 currency: EUR
 price: 29.34

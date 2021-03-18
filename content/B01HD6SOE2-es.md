@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HD6SOE2-es Salomon XA Pro 3D Zapatillas de Trail Running para Hombre...'
 sku: 'B01HD6SOE2-es'
-tags: [  ]
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

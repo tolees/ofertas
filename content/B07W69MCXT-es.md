@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W69MCXT-es TOUS Urban Capazo Women s U'
 sku: 'B07W69MCXT-es'
-tags: [  ]
 actualPrice: 75.76 EUR
 currency: EUR
 price: 75.76

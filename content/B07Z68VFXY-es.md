@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z68VFXY-es Aigostar 30IMX - Licuadora y extractor de frutas y...'
 sku: 'B07Z68VFXY-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

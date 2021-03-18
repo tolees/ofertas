@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DG433JZ-es Aicook Palomitero Máquina de Palomitas con Plato...'
 sku: 'B07DG433JZ-es'
-tags: [  ]
 actualPrice: 49.98 EUR
 currency: EUR
 price: 49.98

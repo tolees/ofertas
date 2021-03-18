@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084YQPQ5M-es Huawei P40 Lite - Smartphone 128GB 6GB RAM Dual Sim...'
 sku: 'B084YQPQ5M-es'
-tags: [  ]
 actualPrice: 210.52 EUR
 currency: EUR
 price: 210.52

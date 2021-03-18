@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PTV2D4H-es Carrera- Go DTM Championship Circuito Completo de Coches...'
 sku: 'B07PTV2D4H-es'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

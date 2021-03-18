@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MDJ296Y-es WOLFPACK LINEA PROFESIONAL 4110220 Tapa Bote Sifónico T-89...'
 sku: 'B00MDJ296Y-es'
-tags: [  ]
 actualPrice: 3.57 EUR
 currency: EUR
 price: 3.57

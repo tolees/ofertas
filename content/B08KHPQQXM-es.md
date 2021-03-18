@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KHPQQXM-es Gigabyte Technology - VGA GIGABYTE GV-N1656OC-4GD 2.0 NV...'
 sku: 'B08KHPQQXM-es'
-tags: [  ]
 actualPrice: 192.47 EUR
 currency: EUR
 price: 192.47

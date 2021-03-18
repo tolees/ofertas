@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083KF4JQB-es Party Feet Scholl Plantillas Protector Talón Pack 2 Unidades'
 sku: 'B083KF4JQB-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

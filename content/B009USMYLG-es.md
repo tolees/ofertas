@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009USMYLG-es Oban 14 - Oban Whisky Escocés - 700 ml'
 sku: 'B009USMYLG-es'
-tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GF8FW9F-es GUESS Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07GF8FW9F-es'
-tags: [  ]
 actualPrice: 133.23 EUR
 currency: EUR
 price: 133.23

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075RCN2YW-es Grohe Tempesta 100 - Teleducha 2 chorros color cromo...'
 sku: 'B075RCN2YW-es'
-tags: [  ]
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

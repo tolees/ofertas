@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MVK69Z3-es Luz De Advertencia De Luz Estroboscópica Giratoria LED De...'
 sku: 'B07MVK69Z3-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

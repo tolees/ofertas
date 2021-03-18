@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XB23WWD-es Funko - Pop! Wonder Woman 1984: Wonder Woman Gold Flying...'
 sku: 'B07XB23WWD-es'
-tags: [  ]
 actualPrice: 10.46 EUR
 currency: EUR
 price: 10.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08NX7M1Y9-es LolaPix Tazas Personalizadas. Regalos Personalizados con...'
 sku: 'B08NX7M1Y9-es'
-tags: [ 'lolapix', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

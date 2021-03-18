@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7H9MR4-es L Oreal Paris Make-up Designer - L Oréal Paris Make-up...'
 sku: 'B07D7H9MR4-es'
-tags: [ 'loreal paris make-up designer', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

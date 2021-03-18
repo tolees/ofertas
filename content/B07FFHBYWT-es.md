@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFHBYWT-es G-STAR RAW Rovic Mid Waist Skinny Pantalones Negro dk...'
 sku: 'B07FFHBYWT-es'
-tags: [  ]
 actualPrice: 24.21 EUR
 currency: EUR
 price: 24.21

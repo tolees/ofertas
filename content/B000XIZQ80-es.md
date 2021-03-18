@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000XIZQ80-es Bosch 2 608 628 352 - Fresas para biselar - 8 mm B 11 mm L...'
 sku: 'B000XIZQ80-es'
-tags: [ 'bosch', ]
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

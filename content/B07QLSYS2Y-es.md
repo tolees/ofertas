@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QLSYS2Y-es BRITAX RÖMER silla de coche DUALFIX2 R Giratoria a 360 ° y...'
 sku: 'B07QLSYS2Y-es'
-tags: [  ]
 actualPrice: 301.27 EUR
 currency: EUR
 price: 301.27

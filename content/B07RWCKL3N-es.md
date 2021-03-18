@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWCKL3N-es Jvchengxi Funda Protectora para Galaxy Watch Active...'
 sku: 'B07RWCKL3N-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

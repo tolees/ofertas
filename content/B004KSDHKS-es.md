@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004KSDHKS-es Seiko Reloj Analógico para Hombre de Energía Solar con...'
 sku: 'B004KSDHKS-es'
-tags: [  ]
 actualPrice: 101 EUR
 currency: EUR
 price: 101

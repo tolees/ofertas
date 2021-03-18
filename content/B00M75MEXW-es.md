@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M75MEXW-es Neutrogena Bálsamo Nariz y Labios Reparación Intensa - 15 ml.'
 sku: 'B00M75MEXW-es'
-tags: [  ]
 actualPrice: 4.34 EUR
 currency: EUR
 price: 4.34

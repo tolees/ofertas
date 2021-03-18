@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F4HKH21-es Mr. Wonderful Carpeta con Anillas'
 sku: 'B07F4HKH21-es'
-tags: [  ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

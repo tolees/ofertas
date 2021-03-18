@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFXP6J5-es IKOHS Create NETBOT S18 - Robot Aspirador 4 en 1 con Mapeo...'
 sku: 'B07YFXP6J5-es'
-tags: [  ]
 actualPrice: 178.95 EUR
 currency: EUR
 price: 178.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0071T3MOO-es Bosch Professional GSB 12V-15 - Taladro percutor a batería...'
 sku: 'B0071T3MOO-es'
-tags: [  ]
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

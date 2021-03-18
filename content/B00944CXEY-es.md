@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00944CXEY-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B00944CXEY-es'
-tags: [  ]
 actualPrice: 104.89 EUR
 currency: EUR
 price: 104.89

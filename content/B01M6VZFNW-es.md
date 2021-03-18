@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M6VZFNW-es New Balance 373 Core Zapatillas Hombre Negro Black 37 EU'
 sku: 'B01M6VZFNW-es'
-tags: [  ]
 actualPrice: 42.07 EUR
 currency: EUR
 price: 42.07

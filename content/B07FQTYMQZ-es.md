@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQTYMQZ-es Clarks Blake Jewel Sandalia con Pulsera para Mujer Negro...'
 sku: 'B07FQTYMQZ-es'
-tags: [  ]
 actualPrice: 39.25 EUR
 currency: EUR
 price: 39.25

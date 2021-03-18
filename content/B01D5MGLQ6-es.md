@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D5MGLQ6-es Scitec Nutrition Plant Protien Chocolate Praline - 900 gr'
 sku: 'B01D5MGLQ6-es'
-tags: [  ]
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

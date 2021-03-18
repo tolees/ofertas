@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HKMTQMT-es Skagen Smartwatch SKT5102'
 sku: 'B07HKMTQMT-es'
-tags: [  ]
 actualPrice: 179.4 EUR
 currency: EUR
 price: 179.4

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y849FXF-es HUYIYI Bolsas para Guardar Ropa Bolsas Vacio Ropa 2Pequeño...'
 sku: 'B07Y849FXF-es'
-tags: [  ]
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

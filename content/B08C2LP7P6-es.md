@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C2LP7P6-es Buyger Juguete de Construccion Playa Herramientas de...'
 sku: 'B08C2LP7P6-es'
-tags: [  ]
 actualPrice: 18.86 EUR
 currency: EUR
 price: 18.86

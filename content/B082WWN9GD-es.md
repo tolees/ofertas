@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WWN9GD-es AOQUSSQOA Mujer Trajes de baño de una Pieza con Volantes...'
 sku: 'B082WWN9GD-es'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

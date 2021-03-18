@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IF4LH00-es Garnier Skin Active Crema Calmante con Agua de Rosas piel...'
 sku: 'B00IF4LH00-es'
-tags: [  ]
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

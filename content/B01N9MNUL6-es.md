@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N9MNUL6-es Veet Bandas de Cera Fria Depilatoria para Depilación de...'
 sku: 'B01N9MNUL6-es'
-tags: [  ]
 actualPrice: 8.06 EUR
 currency: EUR
 price: 8.06

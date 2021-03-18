@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLSV4NH-es Clarks Ronnie Top Botas Chelsea para Hombre Marrón British...'
 sku: 'B07MLSV4NH-es'
-tags: [  ]
 actualPrice: 49.01 EUR
 currency: EUR
 price: 49.01

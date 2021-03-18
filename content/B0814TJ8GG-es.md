@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0814TJ8GG-es Under Armour Tech Wordmark Corto Hombre Negro XL'
 sku: 'B0814TJ8GG-es'
-tags: [  ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0036D8LYA-es Mondo Toys - Mondo - Pelota de Espuma Blanda 140 mm 07851'
 sku: 'B0036D8LYA-es'
-tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

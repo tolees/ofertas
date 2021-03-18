@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081BG4MWL-es U&I Entertainment - Guacamelee! - One-Two Punch Collection'
 sku: 'B081BG4MWL-es'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

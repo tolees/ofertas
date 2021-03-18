@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089Y7RYPQ-es KKTECT Parque de Atracciones de Bolas Blandas de plástico...'
 sku: 'B089Y7RYPQ-es'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

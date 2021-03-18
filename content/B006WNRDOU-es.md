@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006WNRDOU-es Grohe - Dispensador de jabón estilo Contemporáneo color...'
 sku: 'B006WNRDOU-es'
-tags: [  ]
 actualPrice: 37.44 EUR
 currency: EUR
 price: 37.44

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0050IILBM-es Braun Silképil 1 SE1370 - Depiladora para mujer con cable...'
 sku: 'B0050IILBM-es'
-tags: [  ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0053C7ZNU-es Paycheck [Blu-ray]'
 sku: 'B0053C7ZNU-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

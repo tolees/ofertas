@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085S4DSZH-es Xiaomi Redmi Note 9S - Smartphone de 6.67" FHD+ DotDisplay...'
 sku: 'B085S4DSZH-es'
-tags: [  ]
 actualPrice: 165.9 EUR
 currency: EUR
 price: 165.9

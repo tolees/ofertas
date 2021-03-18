@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FOI1JJ4-es Levi s Classic Twill Red Tab Gorra de béisbol Hombre Negro...'
 sku: 'B00FOI1JJ4-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

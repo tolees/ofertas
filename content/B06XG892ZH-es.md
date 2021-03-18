@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XG892ZH-es Western Digital - WD Elements - Disco duro externo...'
 sku: 'B06XG892ZH-es'
-tags: [  ]
 actualPrice: 79.72 EUR
 currency: EUR
 price: 79.72

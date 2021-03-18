@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R1BP2Q-es LANGE RSJ 60 Botas de Esquí Niños Azul Power 19.5'
 sku: 'B075R1BP2Q-es'
-tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0789FRLZH-es Reebok Dmxride Comfort 4.0 Zapatillas de Deporte para...'
 sku: 'B0789FRLZH-es'
-tags: [  ]
 actualPrice: 29 EUR
 currency: EUR
 price: 29

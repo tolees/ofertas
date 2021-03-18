@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYN5MZV-es New Balance 373v2 Zapatillas para Mujer Dorado Gold Ga2 37 EU'
 sku: 'B07RYN5MZV-es'
-tags: [  ]
 actualPrice: 45.23 EUR
 currency: EUR
 price: 45.23

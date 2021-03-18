@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMLGC5S-es Calvin Klein - Revealed Laptop Bag Organizadores de bolsos...'
 sku: 'B07RMLGC5S-es'
-tags: [  ]
 actualPrice: 34.22 EUR
 currency: EUR
 price: 34.22

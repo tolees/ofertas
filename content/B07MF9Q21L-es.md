@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MF9Q21L-es Sony SRS-XB12 Altavoz Inalámbrico y alámbrico MicroUSB...'
 sku: 'B07MF9Q21L-es'
-tags: [ 'sony', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9WDMT2-es L Oréal Paris Revitalift Láser Sérum Anti-Edad Triple...'
 sku: 'B00X9WDMT2-es'
-tags: [  ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

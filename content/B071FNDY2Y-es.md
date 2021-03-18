@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071FNDY2Y-es Estuche impermeable con puerto de domo para GoPro Hero 5 6...'
 sku: 'B071FNDY2Y-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

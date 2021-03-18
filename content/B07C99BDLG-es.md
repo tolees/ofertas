@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C99BDLG-es Lee Scarlett Jeans Azul Rinse 36 24W / 29L para Mujer'
 sku: 'B07C99BDLG-es'
-tags: [  ]
 actualPrice: 43.18 EUR
 currency: EUR
 price: 43.18

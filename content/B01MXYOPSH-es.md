@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXYOPSH-es The North Face Back-to-Berkeley Redux Leather Botas de...'
 sku: 'B01MXYOPSH-es'
-tags: [  ]
 actualPrice: 90 EUR
 currency: EUR
 price: 90

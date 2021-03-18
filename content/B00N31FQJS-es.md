@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N31FQJS-es GoPro Fetch - Arnés de cámara GoPro para Mascota Color Negro'
 sku: 'B00N31FQJS-es'
-tags: [  ]
 actualPrice: 30.97 EUR
 currency: EUR
 price: 30.97

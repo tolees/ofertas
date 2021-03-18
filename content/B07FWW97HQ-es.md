@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWW97HQ-es Enchufe A Prueba de Polvo/Antipolvo Para Macbook...'
 sku: 'B07FWW97HQ-es'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

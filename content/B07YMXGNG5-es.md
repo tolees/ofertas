@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YMXGNG5-es Hurley M Phtm Exotic 18 Bañador Hombre Lotus Pink 38'
 sku: 'B07YMXGNG5-es'
-tags: [  ]
 actualPrice: 9.26 EUR
 currency: EUR
 price: 9.26

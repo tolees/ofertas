@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07121DLCR-es find. AN5411 vestido fiesta mujer Rosa Blood Orange 46...'
 sku: 'B07121DLCR-es'
-tags: [  ]
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

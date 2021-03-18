@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZHH9K17-es Villanas Disney -Bolso Redondo'
 sku: 'B07ZHH9K17-es'
-tags: [  ]
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

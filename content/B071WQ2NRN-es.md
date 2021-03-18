@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WQ2NRN-es Pokémon Ultrasol'
 sku: 'B071WQ2NRN-es'
-tags: [  ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

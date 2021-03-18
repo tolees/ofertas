@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XTJSX62-es Dolphin Carrera 30 - Robot limpiafondos para piscinas...'
 sku: 'B06XTJSX62-es'
-tags: [  ]
 actualPrice: 500.0 EUR
 currency: EUR
 price: 500.0

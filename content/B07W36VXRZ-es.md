@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W36VXRZ-es Pepe Jeans Bryan Bañador Azul Beat 549 Medium para Hombre'
 sku: 'B07W36VXRZ-es'
-tags: [  ]
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

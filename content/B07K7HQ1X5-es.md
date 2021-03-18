@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K7HQ1X5-es WateLves - Leggings de yoga para mujer talle alto...'
 sku: 'B07K7HQ1X5-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

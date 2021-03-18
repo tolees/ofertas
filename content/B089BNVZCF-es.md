@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089BNVZCF-es ASUS ROG Zephyrus M15 GU502LW-HN070T - Ordenador Portátil...'
 sku: 'B089BNVZCF-es'
-tags: [  ]
 actualPrice: 1299.0 EUR
 currency: EUR
 price: 1299.0

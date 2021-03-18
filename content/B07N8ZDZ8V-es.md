@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N8ZDZ8V-es Calvin Klein Reloj Analógico-Digital para Unisex Adultos...'
 sku: 'B07N8ZDZ8V-es'
-tags: [  ]
 actualPrice: 109.37 EUR
 currency: EUR
 price: 109.37

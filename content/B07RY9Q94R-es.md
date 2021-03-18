@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RY9Q94R-es Fox - Juego De Tronos Temporada 1-8 Blu-Ray Colección...'
 sku: 'B07RY9Q94R-es'
-tags: [ 'fox', ]
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

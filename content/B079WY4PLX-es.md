@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079WY4PLX-es Taurus 29.0 Unlimited 29 Lithium Escoba 3 en 1 Aspirador...'
 sku: 'B079WY4PLX-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

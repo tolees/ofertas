@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTFCGZT-es LARPOTE con Funda Huawei P20 Pro Funda Piel PU Soporte...'
 sku: 'B07XTFCGZT-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

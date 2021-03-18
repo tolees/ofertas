@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EUJ8I74-es Nostalgic-Art - Placa metálica Decorativa 15 x 20 cm...'
 sku: 'B00EUJ8I74-es'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

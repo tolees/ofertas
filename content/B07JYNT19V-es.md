@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYNT19V-es Tommy Hilfiger Tommy Jute City Sneaker Zapatillas para...'
 sku: 'B07JYNT19V-es'
-tags: [  ]
 actualPrice: 22.02 EUR
 currency: EUR
 price: 22.02

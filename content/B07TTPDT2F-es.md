@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTPDT2F-es KiplingGleam SMujerMonederosMulticolor Urban Jungle...'
 sku: 'B07TTPDT2F-es'
-tags: [  ]
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

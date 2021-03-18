@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X47NZH1-es Todiri - Humidificador de aromaterapia 300ML Difusores de...'
 sku: 'B08X47NZH1-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

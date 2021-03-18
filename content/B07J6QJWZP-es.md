@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6QJWZP-es American Tourister Modern Dream - Spinner S Equipaje de...'
 sku: 'B07J6QJWZP-es'
-tags: [  ]
 actualPrice: 77.77 EUR
 currency: EUR
 price: 77.77

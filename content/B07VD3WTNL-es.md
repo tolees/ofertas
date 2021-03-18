@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VD3WTNL-es Fansteck Bolsas de Almacenaje al Vacío 16 Piezas 5*Extra...'
 sku: 'B07VD3WTNL-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

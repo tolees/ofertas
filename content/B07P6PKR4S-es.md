@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6PKR4S-es Bosch Professional Set Pick and Click con 35 unidades para...'
 sku: 'B07P6PKR4S-es'
-tags: [  ]
 actualPrice: 34.6 EUR
 currency: EUR
 price: 34.6

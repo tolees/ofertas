@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GGJ49H8-es Pepe Jeans Art T-Shirt Gris Grey Marl 933 11-12 Anos para...'
 sku: 'B07GGJ49H8-es'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

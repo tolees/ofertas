@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010V6JYYK-es GHB Cortapelos Electrónico Maquinilla Cortar Pelo...'
 sku: 'B010V6JYYK-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

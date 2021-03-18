@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2TZ6X4-es COMLIFE Mini Ventilador USB de Mano Portátil Batería...'
 sku: 'B07F2TZ6X4-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C2XYZRS-es Hibron Mascarillas faciales Deshechable pack con 50 unidades'
 sku: 'B08C2XYZRS-es'
-tags: [  ]
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

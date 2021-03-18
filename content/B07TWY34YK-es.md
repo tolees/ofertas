@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWY34YK-es Skechers Delson 2.0 Kemper Zapatillas para Hombre Verde...'
 sku: 'B07TWY34YK-es'
-tags: [  ]
 actualPrice: 30.98 EUR
 currency: EUR
 price: 30.98

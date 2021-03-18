@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QPY8NK4-es AUKEY Alfombrilla de ratón XXL'
 sku: 'B00QPY8NK4-es'
-tags: [  ]
 actualPrice: 16.89 EUR
 currency: EUR
 price: 16.89

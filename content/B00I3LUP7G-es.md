@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3LUP7G-es Sony MDR-RF811RK - Auriculares de Diadema Cerrados...'
 sku: 'B00I3LUP7G-es'
-tags: [ 'sony', ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W56VCG3-es Nihlsfen Exquisito Cristal Transparente de Vidrio en Forma...'
 sku: 'B08W56VCG3-es'
-tags: [  ]
 actualPrice: 9.56 EUR
 currency: EUR
 price: 9.56

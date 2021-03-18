@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C45XJKG-es DIM Generous Sujetador Beige New Skin 105B para Mujer'
 sku: 'B01C45XJKG-es'
-tags: [  ]
 actualPrice: 16 EUR
 currency: EUR
 price: 16

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V4G6V1Q-es FILA Orbit Zapatillas Hombre Negro Black/Black 44 EU'
 sku: 'B07V4G6V1Q-es'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

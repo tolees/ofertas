@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087DC65NV-es Cooper Protect SP Cooper Bacter | Aerosol Bactericida|...'
 sku: 'B087DC65NV-es'
-tags: [  ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BG6KDFT-es FNNEMGE Arrancador de Coches 2000A 21800mAh Arrancador...'
 sku: 'B08BG6KDFT-es'
-tags: [  ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

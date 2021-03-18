@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085XTK37P-es TZSUNRISE Bandas Elasticas de Resistencia Set Juego de...'
 sku: 'B085XTK37P-es'
-tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

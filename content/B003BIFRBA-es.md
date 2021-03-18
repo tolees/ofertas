@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003BIFRBA-es pjur ORIGINAL - Lubricante de silicona Premium -...'
 sku: 'B003BIFRBA-es'
-tags: [  ]
 actualPrice: 51.29 EUR
 currency: EUR
 price: 51.29

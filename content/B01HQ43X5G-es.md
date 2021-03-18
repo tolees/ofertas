@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HQ43X5G-es Bolero Bebida Instantánea sin Azúcar Sabor Jengibre -...'
 sku: 'B01HQ43X5G-es'
-tags: [  ]
 actualPrice: 6.38 EUR
 currency: EUR
 price: 6.38

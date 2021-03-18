@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TXC3YGN-es Meridiem Games - Hell Warders'
 sku: 'B07TXC3YGN-es'
-tags: [  ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

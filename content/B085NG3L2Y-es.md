@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085NG3L2Y-es FNBK Funda para Samsung Galaxy S20 Plus Silicona TPU...'
 sku: 'B085NG3L2Y-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

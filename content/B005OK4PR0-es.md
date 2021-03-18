@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B005OK4PR0-es Osram 2825HCBI-02B Lámpara halógena Cool Blue Intense W5W...'
 sku: 'B005OK4PR0-es'
-tags: [  ]
 actualPrice: 6.18 EUR
 currency: EUR
 price: 6.18

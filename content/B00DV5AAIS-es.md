@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DV5AAIS-es Superga 2750 COTU Classic Zapatillas Unisex Verde Military...'
 sku: 'B00DV5AAIS-es'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K369BDB-es adidas Runfalcon Zapatillas de Running para Hombre...'
 sku: 'B07K369BDB-es'
-tags: [  ]
 actualPrice: 31.25 EUR
 currency: EUR
 price: 31.25

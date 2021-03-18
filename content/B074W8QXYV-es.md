@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074W8QXYV-es 10 PCS Broca Diamante 6mm 8mm 10mm 14mm 16mm 18mm 22mm...'
 sku: 'B074W8QXYV-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

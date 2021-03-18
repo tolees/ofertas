@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W3K4W6S-es Luz nocturna con altavoz Bluetooth lámpara de cabecera con...'
 sku: 'B07W3K4W6S-es'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

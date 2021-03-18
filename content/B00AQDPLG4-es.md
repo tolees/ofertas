@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AQDPLG4-es L Oreal Paris Make-up Designer - L´Oréal Paris Make Up...'
 sku: 'B00AQDPLG4-es'
-tags: [  ]
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

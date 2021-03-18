@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004TZX5G8-es Nike Air Monarch IV Zapatillas de Gimnasia para Hombre...'
 sku: 'B004TZX5G8-es'
-tags: [  ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

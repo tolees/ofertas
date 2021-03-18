@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MVWZL6I-es Crock-Pot SCV400RD Olla de cocción lenta manual para...'
 sku: 'B00MVWZL6I-es'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

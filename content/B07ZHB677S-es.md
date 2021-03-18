@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZHB677S-es Cable Cargador iPhone RAVIAD [MFi Certificado] 1.8M Cable...'
 sku: 'B07ZHB677S-es'
-tags: [  ]
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

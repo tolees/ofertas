@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008KO2D2Q-es Monix Vitro Express-Cafetera Apta para Todo Tipo de...'
 sku: 'B008KO2D2Q-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

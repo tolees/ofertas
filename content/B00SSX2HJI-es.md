@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SSX2HJI-es Casio EDIFICE Reloj en caja sólida de acero inoxidable 10...'
 sku: 'B00SSX2HJI-es'
-tags: [  ]
 actualPrice: 78.68 EUR
 currency: EUR
 price: 78.68

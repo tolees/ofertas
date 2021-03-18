@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QYTXQSG-es BANLVS 1080P Cámara IP WiFi Cámara de Vigilancia WiFi...'
 sku: 'B07QYTXQSG-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BFBXSSJ-es WAVLINK Docking Station USB 3.0 para Tablets/portátiles...'
 sku: 'B07BFBXSSJ-es'
-tags: [  ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

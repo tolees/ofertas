@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075TKVLSS-es ICOO Cuna de Viaje Starlight desde el Nacimiento hasta 15...'
 sku: 'B075TKVLSS-es'
-tags: [  ]
 actualPrice: 80.1 EUR
 currency: EUR
 price: 80.1

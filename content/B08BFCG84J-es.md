@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BFCG84J-es Elyco Botones analógico Amortiguador Premium Aim Assist...'
 sku: 'B08BFCG84J-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00154ZXKC-es Wera 0007662700025 Destornillador Schraubendreher 0.4 x...'
 sku: 'B00154ZXKC-es'
-tags: [  ]
 actualPrice: 2.6 EUR
 currency: EUR
 price: 2.6

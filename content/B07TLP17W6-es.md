@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLP17W6-es Clarks Couture Bloom Bailarinas para Mujer Verde Fuchsia...'
 sku: 'B07TLP17W6-es'
-tags: [  ]
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94

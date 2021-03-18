@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087X5MFSY-es Suhctup Funda Transparent Compatible para Galaxy J2 Prime...'
 sku: 'B087X5MFSY-es'
-tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

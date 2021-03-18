@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZNMHGRC-es Pajitas de silicona reutilizables – pajitas grandes para...'
 sku: 'B07ZNMHGRC-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0852VNCCH-es Wodgreat Transmisor FM Bluetooth Manos Libres para Coche...'
 sku: 'B0852VNCCH-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

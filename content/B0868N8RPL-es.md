@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868N8RPL-es Suhctup Transparente Funda Compatible con Xiaomi Redmi...'
 sku: 'B0868N8RPL-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

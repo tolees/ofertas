@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T4F7S8K-es Armani Exchange Mujer Chic Small Shopping Tote 22 x 11 x...'
 sku: 'B07T4F7S8K-es'
-tags: [  ]
 actualPrice: 52.18 EUR
 currency: EUR
 price: 52.18

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072R3LNGP-es Vibram Fivefingers V-Train Zapatillas de Deporte para...'
 sku: 'B072R3LNGP-es'
-tags: [  ]
 actualPrice: 67.54 EUR
 currency: EUR
 price: 67.54

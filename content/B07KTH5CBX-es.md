@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTH5CBX-es Lacoste Reloj de Pulsera 2010999'
 sku: 'B07KTH5CBX-es'
-tags: [  ]
 actualPrice: 128.0 EUR
 currency: EUR
 price: 128.0

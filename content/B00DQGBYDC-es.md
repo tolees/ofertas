@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DQGBYDC-es SanDisk Memoria Flash Ultra USB 3.0 de 64 GB hasta 130...'
 sku: 'B00DQGBYDC-es'
-tags: [  ]
 actualPrice: 9.79 EUR
 currency: EUR
 price: 9.79

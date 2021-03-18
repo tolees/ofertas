@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079DLXLR9-es Linterna Taller Lampara led Recargable，HTBAKOI Luz de...'
 sku: 'B079DLXLR9-es'
-tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

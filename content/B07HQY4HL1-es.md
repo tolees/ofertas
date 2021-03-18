@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HQY4HL1-es ARTE REGAL Hucha cerámica Cerdito+Martillo 12x11 cm...'
 sku: 'B07HQY4HL1-es'
-tags: [  ]
 actualPrice: 2.55 EUR
 currency: EUR
 price: 2.55

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TBHVJ2-es BaByliss AS500E – Cepillo de aire con sensor digital...'
 sku: 'B077TBHVJ2-es'
-tags: [  ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

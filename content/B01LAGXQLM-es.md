@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LAGXQLM-es Rowenta TN9130 Trim & Style - Cortapelos para barba y...'
 sku: 'B01LAGXQLM-es'
-tags: [  ]
 actualPrice: 34.57 EUR
 currency: EUR
 price: 34.57

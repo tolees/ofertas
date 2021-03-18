@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTOFILR-es Superga 2750-cotu Classic Zapatillas de Gimnasia Unisex...'
 sku: 'B01MTOFILR-es'
-tags: [  ]
 actualPrice: 20.4 EUR
 currency: EUR
 price: 20.4

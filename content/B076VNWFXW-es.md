@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076VNWFXW-es G-STAR RAW 3301 1/2 Pantalones Cortos Azul Medium Aged 071...'
 sku: 'B076VNWFXW-es'
-tags: [  ]
 actualPrice: 34.8 EUR
 currency: EUR
 price: 34.8

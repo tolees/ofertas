@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KS49M9X-es Bajo sistema de sujeción de esclavitud de cama con puños...'
 sku: 'B07KS49M9X-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

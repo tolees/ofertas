@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M5JC3PC-es Naipo Masajeador de Percusión Portátil con Calor Velocidad...'
 sku: 'B01M5JC3PC-es'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C749CPX-es Beeasy Soporte Móvil para Coche Universal Soporte Teléfono...'
 sku: 'B08C749CPX-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

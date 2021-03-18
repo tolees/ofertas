@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPWNSGJ-es DC-77 de 16MP 4X Zoom Digital de Alta definición cámara de...'
 sku: 'B07KPWNSGJ-es'
-tags: [  ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

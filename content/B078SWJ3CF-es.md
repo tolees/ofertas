@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078SWJ3CF-es SanDisk Extreme SSD portátil 500GB - hasta 550MB/s...'
 sku: 'B078SWJ3CF-es'
-tags: [  ]
 actualPrice: 82.69 EUR
 currency: EUR
 price: 82.69

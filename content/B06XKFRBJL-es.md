@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XKFRBJL-es Pepe Jeans Spike Jeans Negro Black Used 30W / 34L para Hombre'
 sku: 'B06XKFRBJL-es'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

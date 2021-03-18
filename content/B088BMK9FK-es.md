@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BMK9FK-es 80 piezas Bolsas Regalo Bolsas de Papel Bolsas para...'
 sku: 'B088BMK9FK-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

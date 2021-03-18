@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBVP59L-es PUMA Jaro Zapatillas de Running para Hombre Negro Black 02...'
 sku: 'B07SBVP59L-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

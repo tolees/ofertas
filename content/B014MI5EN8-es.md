@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014MI5EN8-es S R SUNRISE SRSB-3027 SRSB3027-Soporte cuadrado para...'
 sku: 'B014MI5EN8-es'
-tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000G4NK6Q-es adidas Samba Classic Zapatillas de Fútbol para Hombre...'
 sku: 'B000G4NK6Q-es'
-tags: [  ]
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

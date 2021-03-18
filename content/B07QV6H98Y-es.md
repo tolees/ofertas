@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QV6H98Y-es Wrangler Greensboro Regular Jeans Azul Dark Rinse 90a 40W...'
 sku: 'B07QV6H98Y-es'
-tags: [  ]
 actualPrice: 41.6 EUR
 currency: EUR
 price: 41.6

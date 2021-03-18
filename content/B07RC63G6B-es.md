@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RC63G6B-es Ufesa BS1500 Batidora de Vaso Individual Sport 300 W...'
 sku: 'B07RC63G6B-es'
-tags: [  ]
 actualPrice: 27.1 EUR
 currency: EUR
 price: 27.1

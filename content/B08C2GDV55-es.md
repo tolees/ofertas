@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C2GDV55-es Qomolo Compresor de Aire Coche Portátil 12V Bomba de Aire...'
 sku: 'B08C2GDV55-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

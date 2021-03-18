@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813S3VDM-es LEGO Harry Potter Hedwig Modelo de Exhibición Figura...'
 sku: 'B0813S3VDM-es'
-tags: [  ]
 actualPrice: 35.21 EUR
 currency: EUR
 price: 35.21

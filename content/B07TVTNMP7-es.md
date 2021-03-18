@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVTNMP7-es Women s Secret Vintage Mv DS Mickey Stripes Nd Camisón...'
 sku: 'B07TVTNMP7-es'
-tags: [  ]
 actualPrice: 8.05 EUR
 currency: EUR
 price: 8.05

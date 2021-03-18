@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WF8WB8K-es Astragon - Gear Club Unlimited 2: Porsche-Edition [...'
 sku: 'B07WF8WB8K-es'
-tags: [  ]
 actualPrice: 33.71 EUR
 currency: EUR
 price: 33.71

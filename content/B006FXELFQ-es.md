@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006FXELFQ-es BRA A185104 Olla a presión Vitesse Acero Inoxidable Plata...'
 sku: 'B006FXELFQ-es'
-tags: [  ]
 actualPrice: 51.9 EUR
 currency: EUR
 price: 51.9

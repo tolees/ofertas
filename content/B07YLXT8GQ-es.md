@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLXT8GQ-es Superdry Vintage Destroyed Polo Azul Riviera Royal Bg8 3XL...'
 sku: 'B07YLXT8GQ-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

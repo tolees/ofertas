@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MHKBMWT-es Qshare - Platos de silicona para bebé una pieza para bebés...'
 sku: 'B07MHKBMWT-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

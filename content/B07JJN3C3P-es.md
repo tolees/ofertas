@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JJN3C3P-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
 sku: 'B07JJN3C3P-es'
-tags: [  ]
 actualPrice: 159.2 EUR
 currency: EUR
 price: 159.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGKKD3D-es KLARSTEIN GrowIt Connection Set - Accesorio para huerto...'
 sku: 'B07NGKKD3D-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

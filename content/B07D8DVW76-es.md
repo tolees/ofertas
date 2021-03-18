@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D8DVW76-es Munich Massana Zapatillas de Deporte para Hombre Verde...'
 sku: 'B07D8DVW76-es'
-tags: [  ]
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

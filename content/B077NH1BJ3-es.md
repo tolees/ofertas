@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077NH1BJ3-es Adidas Duramo Lite 2.0 Zapatillas de Entrenamiento para...'
 sku: 'B077NH1BJ3-es'
-tags: [  ]
 actualPrice: 22.48 EUR
 currency: EUR
 price: 22.48

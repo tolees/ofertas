@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087WJ3VB4-es Memoria Flash Cuadrada Estilo Antiguo de Madera Natural...'
 sku: 'B087WJ3VB4-es'
-tags: [  ]
 actualPrice: 2.04 EUR
 currency: EUR
 price: 2.04

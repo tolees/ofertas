@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PYZDZFM-es REENUO Mini Ventilador de Escritorio con batería USB...'
 sku: 'B07PYZDZFM-es'
-tags: [  ]
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

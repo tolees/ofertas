@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MG6H4F-es PUMA Smash V2 L Zapatillas Unisex-Adulto Negro Black White...'
 sku: 'B077MG6H4F-es'
-tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Cubertería, Vajilla y Cristalería','Hogar y cocina','Piezas de vajilla','Ropa','Ropa para hombre','Tazas','Tazas de té', ]
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

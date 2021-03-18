@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQLXVL4-es KingNew Anillo de terciopelo para boda colgante de joyería...'
 sku: 'B07CQLXVL4-es'
-tags: [  ]
 actualPrice: 1.97 EUR
 currency: EUR
 price: 1.97

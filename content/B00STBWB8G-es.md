@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00STBWB8G-es L Oreal Paris Men Expert - Cuidado hidratante anti-arrugas...'
 sku: 'B00STBWB8G-es'
-tags: [  ]
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

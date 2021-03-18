@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NFBMJ5K-es COMPLEMENTOS PARA AVES - Anillas Tipo federativo para...'
 sku: 'B08NFBMJ5K-es'
-tags: [  ]
 actualPrice: 4.39 EUR
 currency: EUR
 price: 4.39

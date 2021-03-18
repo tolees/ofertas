@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KSR313B-es Under Armour Move Light Graphic Crew Parte Superior del...'
 sku: 'B07KSR313B-es'
-tags: [  ]
 actualPrice: 28.1 EUR
 currency: EUR
 price: 28.1

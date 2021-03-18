@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0058ZC3NO-es The North Face Resolve Pantalones para Hombre TNF Negro M'
 sku: 'B0058ZC3NO-es'
-tags: [  ]
 actualPrice: 58.49 EUR
 currency: EUR
 price: 58.49

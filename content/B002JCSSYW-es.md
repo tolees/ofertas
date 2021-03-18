@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002JCSSYW-es Crocs Crocband Zuecos Unisex Adulto Azul Navy 36/37 EU'
 sku: 'B002JCSSYW-es'
-tags: [  ]
 actualPrice: 33.74 EUR
 currency: EUR
 price: 33.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W56YBF8-es Nihlsfen Removedor de Pelusa portátil Madera + Cobre Poder...'
 sku: 'B08W56YBF8-es'
-tags: [  ]
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

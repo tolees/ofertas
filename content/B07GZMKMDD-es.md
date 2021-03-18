@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GZMKMDD-es Max Factor Miracle Prep Primer iluminador y hidratante -...'
 sku: 'B07GZMKMDD-es'
-tags: [  ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

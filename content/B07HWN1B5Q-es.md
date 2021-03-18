@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HWN1B5Q-es Espejo Retrovisor de Coche para Vigilar Bebés en Asiento...'
 sku: 'B07HWN1B5Q-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

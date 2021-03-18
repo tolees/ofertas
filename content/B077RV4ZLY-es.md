@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077RV4ZLY-es Western Digital - WD Elements Desktop - Disco duro externo...'
 sku: 'B077RV4ZLY-es'
-tags: [  ]
 actualPrice: 110.99 EUR
 currency: EUR
 price: 110.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G3R8NCU-es Diset Soy Luna - Decora con Tachuelas Juego de Arte y...'
 sku: 'B01G3R8NCU-es'
-tags: [  ]
 actualPrice: 14.46 EUR
 currency: EUR
 price: 14.46

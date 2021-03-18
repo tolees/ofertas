@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5VPBN3-es Jack & Jones Jorfame Crew Neck Suéter Azul Sunflower Fit:...'
 sku: 'B07W5VPBN3-es'
-tags: [  ]
 actualPrice: 9.13 EUR
 currency: EUR
 price: 9.13

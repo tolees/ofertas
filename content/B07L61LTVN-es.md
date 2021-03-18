@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L61LTVN-es Spyder Olympia Pantalones De Esquí Niñas Bryte bubbl 8'
 sku: 'B07L61LTVN-es'
-tags: [  ]
 actualPrice: 43.05 EUR
 currency: EUR
 price: 43.05

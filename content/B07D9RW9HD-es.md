@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9RW9HD-es adidas Caflaire Zapatillas Hombre Negro Core Black/Core...'
 sku: 'B07D9RW9HD-es'
-tags: [  ]
 actualPrice: 35.29 EUR
 currency: EUR
 price: 35.29

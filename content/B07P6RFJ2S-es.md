@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6RFJ2S-es American Tourister Bon Air - Spinner Small Strict Equipaje...'
 sku: 'B07P6RFJ2S-es'
-tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

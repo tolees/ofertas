@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L2K7SCY-es BaByliss ST481E Pure Metal Plancha de pelo profesional 2...'
 sku: 'B01L2K7SCY-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

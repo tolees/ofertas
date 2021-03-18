@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016L3IJFW-es Polti Vaporetto Smart 30 R Limpiador a vapor 3 Bar...'
 sku: 'B016L3IJFW-es'
-tags: [  ]
 actualPrice: 75.81 EUR
 currency: EUR
 price: 75.81

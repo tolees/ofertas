@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4SYBLW-es NIKE M NK Dry Park III Short NB K Sport Shorts Hombre...'
 sku: 'B07W4SYBLW-es'
-tags: [  ]
 actualPrice: 11.36 EUR
 currency: EUR
 price: 11.36

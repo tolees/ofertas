@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M28ZRE3-es Prismáticos Bresser Corvette 10x42 rellenos de nitrógeno'
 sku: 'B01M28ZRE3-es'
-tags: [  ]
 actualPrice: 55.4 EUR
 currency: EUR
 price: 55.4

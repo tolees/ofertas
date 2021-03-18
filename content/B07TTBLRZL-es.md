@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TTBLRZL-es Colágeno Marino con Ácido Hialurónico Coenzima Q10...'
 sku: 'B07TTBLRZL-es'
-tags: [  ]
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084R3JK5Z-es PUMA Iconic Women s String-Thong 2 Pack Tanga Bragas...'
 sku: 'B084R3JK5Z-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

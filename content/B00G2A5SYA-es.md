@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G2A5SYA-es Whey Protein 80 | 82% De Proteína | Batido Alto En...'
 sku: 'B00G2A5SYA-es'
-tags: [ 'Agua de tocador para hombres','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Belleza','Cafeteras individuales','Desinfectantes comerciales','Dieta y nutrición en medicamentos, remedios y suplementos dietéticos','Fragancias para hombres','Hogar y cocina','Industria, empresas y ciencia','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Monos para bebés niño','Muñecas bebé','Muñecas fashion','Muñecas fashion y accesorios','Muñecas y accesorios','Máquinas cafeteras','Ollas de cocción lenta','Pequeño electrodoméstico','Perfumes y fragancias','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','Productos químicos  limpieza comerciales','Robots aspiradores','Ropa','Ropa de una pieza para bebés niño','Ropa para bebés','Ropa para bebés niño','Salud y cuidado personal','Suministros de limpieza y saneamiento','Suplementos para deportistas en medicamentos, remedios y suplementos dietéticos','Utensilios para café y té','the protein works', ]
 actualPrice: 15.72 EUR
 currency: EUR
 price: 15.72

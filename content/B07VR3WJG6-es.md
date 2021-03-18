@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VR3WJG6-es Tommy Hilfiger Mujer Como Skinny Rw A Holly Slim Jeans...'
 sku: 'B07VR3WJG6-es'
-tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

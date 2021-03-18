@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XRP3PCW-es Paladone Playstation - Icons Light XL Multicolor PP5852PS'
 sku: 'B07XRP3PCW-es'
-tags: [  ]
 actualPrice: 28.37 EUR
 currency: EUR
 price: 28.37

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RTG0DZK-es Grohe Eurosmart - Grifo para baño y ducha inversor...'
 sku: 'B00RTG0DZK-es'
-tags: [  ]
 actualPrice: 79.96 EUR
 currency: EUR
 price: 79.96

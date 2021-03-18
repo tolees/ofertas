@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MHPCJBE-es adidas Originals Stan Smith Zapatillas de Deporte Unisex...'
 sku: 'B00MHPCJBE-es'
-tags: [  ]
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

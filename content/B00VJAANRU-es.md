@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VJAANRU-es Superga 2750 COTU Classic Zapatillas Hombre Gris Grey...'
 sku: 'B00VJAANRU-es'
-tags: [  ]
 actualPrice: 25.05 EUR
 currency: EUR
 price: 25.05

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NLNCSB-es EACLL Transformador LED AC 240V a DC 12V 850mA 10W Para...'
 sku: 'B082NLNCSB-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

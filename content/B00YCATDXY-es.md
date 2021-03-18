@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YCATDXY-es Crock-Pot CSC012X AutoStir - Olla de Cocción Lenta Digital...'
 sku: 'B00YCATDXY-es'
-tags: [  ]
 actualPrice: 83.4 EUR
 currency: EUR
 price: 83.4

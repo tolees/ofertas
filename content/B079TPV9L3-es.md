@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079TPV9L3-es George Foreman Family - Grill Eléctrico Plancha Grill de...'
 sku: 'B079TPV9L3-es'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

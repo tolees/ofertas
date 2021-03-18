@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LQ6SS9-es Munich Break 03 Zapatillas Unisex Adulto Multicolor 36 EU'
 sku: 'B085LQ6SS9-es'
-tags: [  ]
 actualPrice: 22.34 EUR
 currency: EUR
 price: 22.34

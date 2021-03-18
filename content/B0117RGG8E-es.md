@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0117RGG8E-es Bose SoundLink II - Auriculares Supraurales Bluetooth con...'
 sku: 'B0117RGG8E-es'
-tags: [  ]
 actualPrice: 157.99 EUR
 currency: EUR
 price: 157.99

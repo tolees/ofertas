@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0711SFLJR-es Paquete De 1 Candados para Casillero Fortlocks – 4 Dígitos...'
 sku: 'B0711SFLJR-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

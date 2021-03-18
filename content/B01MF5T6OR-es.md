@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MF5T6OR-es Parker Urban 1931578 - Bolígrafo purpurina plateada...'
 sku: 'B01MF5T6OR-es'
-tags: [  ]
 actualPrice: 29.25 EUR
 currency: EUR
 price: 29.25

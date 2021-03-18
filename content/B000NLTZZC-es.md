@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000NLTZZC-es Casio Reloj Analogico para Hombre de Cuarzo con Correa en...'
 sku: 'B000NLTZZC-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2B4XJJ-es X-TIGER Mujer Ropa Interior de Bicicleta con 3D Gel...'
 sku: 'B07H2B4XJJ-es'
-tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

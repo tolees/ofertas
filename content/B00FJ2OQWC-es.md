@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FJ2OQWC-es ST-23 elástico ajustable Cabeza Casco de la correa de la...'
 sku: 'B00FJ2OQWC-es'
-tags: [  ]
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

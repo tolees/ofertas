@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00STK1H64-es Lotus Reloj Análogo clásico para niñas de Cuarzo con...'
 sku: 'B00STK1H64-es'
-tags: [  ]
 actualPrice: 44.26 EUR
 currency: EUR
 price: 44.26

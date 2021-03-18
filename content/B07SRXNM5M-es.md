@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRXNM5M-es Fox - X-Men: Fénix Oscura Blu-Ray [Blu-ray]'
 sku: 'B07SRXNM5M-es'
-tags: [  ]
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

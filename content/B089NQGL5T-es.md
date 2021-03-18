@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NQGL5T-es Royal Padel EFE Carbon Attack 2020 Amarilla-Azul'
 sku: 'B089NQGL5T-es'
-tags: [  ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

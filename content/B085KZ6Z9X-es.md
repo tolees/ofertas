@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085KZ6Z9X-es GreceMonday No FFP3 -FFP2 Protección facial desechable...'
 sku: 'B085KZ6Z9X-es'
-tags: [  ]
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

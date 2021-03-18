@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079VRJ8YK-es Bizak-61921455 Día de Playa 61921455'
 sku: 'B079VRJ8YK-es'
-tags: [  ]
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

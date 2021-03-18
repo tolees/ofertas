@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X45Q6FW-es Todiri - Humidificador de aromaterapia 300ML Difusores de...'
 sku: 'B08X45Q6FW-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

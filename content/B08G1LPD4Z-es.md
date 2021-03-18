@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G1LPD4Z-es BAIYING Utensilios de Cocina de Silicona 30 Piezas con...'
 sku: 'B08G1LPD4Z-es'
-tags: [  ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H8RKD3B-es Rowenta Express Steam DW4345 plancha de vapor suela...'
 sku: 'B08H8RKD3B-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

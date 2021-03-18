@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085FBDBW7-es Panasonic ER-GB80-H503 - Cortador de Pelo y Barba Precisa...'
 sku: 'B085FBDBW7-es'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

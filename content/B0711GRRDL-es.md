@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0711GRRDL-es Philips SHB3075RD - Auriculares Inalambricos Bluetooth con...'
 sku: 'B0711GRRDL-es'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

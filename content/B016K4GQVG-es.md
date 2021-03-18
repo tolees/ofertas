@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B016K4GQVG-es UBIQUITI Networks - Ubiquiti UAP-AC-LITE - Punto de acceso...'
 sku: 'B016K4GQVG-es'
-tags: [  ]
 actualPrice: 81.95 EUR
 currency: EUR
 price: 81.95

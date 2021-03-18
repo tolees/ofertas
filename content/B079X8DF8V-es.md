@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079X8DF8V-es Taurus Nixus Premium - Cortapelos con peine guía de 7...'
 sku: 'B079X8DF8V-es'
-tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

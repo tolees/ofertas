@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0817KNMQ8-es Columbia Sun Ridge Polo Hombre Sage XS'
 sku: 'B0817KNMQ8-es'
-tags: [  ]
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NC8PWDM-es NEW C 2 Unidades Protector de Pantalla para iPhone 11 y...'
 sku: 'B07NC8PWDM-es'
-tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

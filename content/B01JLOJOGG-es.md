@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JLOJOGG-es Scuderia Ferrari - Ferrari 0830360 Speciale Evo - Reloj de...'
 sku: 'B01JLOJOGG-es'
-tags: [  ]
 actualPrice: 118.13 EUR
 currency: EUR
 price: 118.13

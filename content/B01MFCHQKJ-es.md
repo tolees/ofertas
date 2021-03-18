@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MFCHQKJ-es Wet n Wild Coral Support 1 Step Wonder Gel Nail Color...'
 sku: 'B01MFCHQKJ-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

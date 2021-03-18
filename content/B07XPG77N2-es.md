@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XPG77N2-es Cybex Gold 520002423 Silla de Coche para Niños Solution S...'
 sku: 'B07XPG77N2-es'
-tags: [  ]
 actualPrice: 158.99 EUR
 currency: EUR
 price: 158.99

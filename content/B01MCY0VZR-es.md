@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MCY0VZR-es Festina Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B01MCY0VZR-es'
-tags: [  ]
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

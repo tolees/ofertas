@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M6CYSW1-es POP! Vinilo - Lost: Man in Black'
 sku: 'B01M6CYSW1-es'
-tags: [  ]
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

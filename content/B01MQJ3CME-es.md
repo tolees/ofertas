@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQJ3CME-es Caroline - Days Go By'
 sku: 'B01MQJ3CME-es'
-tags: [ 'New wave y post-punk','Pop','Rock','caroline', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

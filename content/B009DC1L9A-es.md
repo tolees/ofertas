@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009DC1L9A-es POWRX Step fitness profesional aeróbic 89 x 34 cm -...'
 sku: 'B009DC1L9A-es'
-tags: [  ]
 actualPrice: 65.09 EUR
 currency: EUR
 price: 65.09

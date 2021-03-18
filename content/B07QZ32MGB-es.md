@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QZ32MGB-es WOTEK - Aceites Esenciales 100% Puros y Naturales...'
 sku: 'B07QZ32MGB-es'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

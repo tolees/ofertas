@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0779FN4GR-es BOSS Casual Passenger 10193126 01 Polo Hombre Negro Black...'
 sku: 'B0779FN4GR-es'
-tags: [  ]
 actualPrice: 54.19 EUR
 currency: EUR
 price: 54.19

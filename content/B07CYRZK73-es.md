@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYRZK73-es Calvin Klein Reloj Analógico para Hombre de Cuarzo con...'
 sku: 'B07CYRZK73-es'
-tags: [  ]
 actualPrice: 127.91 EUR
 currency: EUR
 price: 127.91

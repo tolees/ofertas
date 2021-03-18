@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WLXKTNS-es MOGZZi - Luces Bicicleta Impermeable Luz LED Bicicleta 6...'
 sku: 'B07WLXKTNS-es'
-tags: [  ]
 actualPrice: 10.87 EUR
 currency: EUR
 price: 10.87

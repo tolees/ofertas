@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088VSV58X-es P Prettyia 8 Unidades USB Macho A Cable De Extensión De...'
 sku: 'B088VSV58X-es'
-tags: [  ]
 actualPrice: 16.54 EUR
 currency: EUR
 price: 16.54

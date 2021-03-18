@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078J3C6WF-es Naipo Mesa de Masaje Plegable de 2 Secciones Camilla...'
 sku: 'B078J3C6WF-es'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

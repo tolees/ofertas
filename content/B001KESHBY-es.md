@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001KESHBY-es Reloj Seiko - Hombre SNKE49K1'
 sku: 'B001KESHBY-es'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

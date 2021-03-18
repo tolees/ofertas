@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00V6B4QA2-es Carmex COS 002 BL Bálsamo labial 1 tarro - 7.5 g'
 sku: 'B00V6B4QA2-es'
-tags: [  ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077SPFYNG-es PUMA LIGA Baselayer Long Tight Pants Hombre Puma Black L'
 sku: 'B077SPFYNG-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X7WJG5N-es WOTEK Electroestimulador Muscular Abdominales Estimulador...'
 sku: 'B07X7WJG5N-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

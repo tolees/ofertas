@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MYUJ1A8-es Einhell TC-PL 750 -Cepillo electrónico Potencia de 750 W...'
 sku: 'B01MYUJ1A8-es'
-tags: [  ]
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

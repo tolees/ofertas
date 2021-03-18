@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00FYJHJMY-es HP UltraSlim Docking Station - Base de conexión para...'
 sku: 'B00FYJHJMY-es'
-tags: [ 'hp', ]
 actualPrice: 130.75 EUR
 currency: EUR
 price: 130.75

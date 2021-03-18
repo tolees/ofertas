@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JS6CN4-es Aprilis 8 Bombas de Baño Productos de Baño Imprescindibles...'
 sku: 'B079JS6CN4-es'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

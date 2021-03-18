@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKFDNRB-es Kipling Gabbie S Bolsos Bandolera para Mujer Azul Dynamic...'
 sku: 'B07DKFDNRB-es'
-tags: [  ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

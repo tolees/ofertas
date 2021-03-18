@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LCJA9V2-es Suntec Wellness RKO-9974 Thùy-Denise Hervidor de arroz...'
 sku: 'B01LCJA9V2-es'
-tags: [  ]
 actualPrice: 45.35 EUR
 currency: EUR
 price: 45.35

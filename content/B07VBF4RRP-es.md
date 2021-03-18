@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VBF4RRP-es Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en...'
 sku: 'B07VBF4RRP-es'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

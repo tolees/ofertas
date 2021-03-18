@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072JTQ59W-es Philips BASS+ SHL3175WT - Auriculares con micrófono cable...'
 sku: 'B072JTQ59W-es'
-tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

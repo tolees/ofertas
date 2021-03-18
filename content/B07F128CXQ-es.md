@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F128CXQ-es adidas Lite Racer CLN Zapatillas de Deporte para Mujer...'
 sku: 'B07F128CXQ-es'
-tags: [  ]
 actualPrice: 33.81 EUR
 currency: EUR
 price: 33.81

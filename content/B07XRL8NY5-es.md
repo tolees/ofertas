@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRL8NY5-es Ferilinso Funda para Xiaomi Redmi Note 8 Funda [Reforzar...'
 sku: 'B07XRL8NY5-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

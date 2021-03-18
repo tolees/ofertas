@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076CKZJFB-es Samsonite Network 3 14.1" Maletín Negro - Funda Maletín 35...'
 sku: 'B076CKZJFB-es'
-tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VNNBTTZ-es wendeekun Auriculares para Juegos con Cable Auriculares...'
 sku: 'B08VNNBTTZ-es'
-tags: [  ]
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UFUA9FQ-es Maclaren Capazo - Entorno Plano Ideal para Recién Nacidos...'
 sku: 'B00UFUA9FQ-es'
-tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

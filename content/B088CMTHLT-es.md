@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088CMTHLT-es Suhctup Funda Compatible para Huawei View 10 Lite/Honor 8X...'
 sku: 'B088CMTHLT-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

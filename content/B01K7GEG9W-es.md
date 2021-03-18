@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01K7GEG9W-es Logitech M220 Ratón Inalámbrico Botones Silenciosos 2.4...'
 sku: 'B01K7GEG9W-es'
-tags: [  ]
 actualPrice: 18.36 EUR
 currency: EUR
 price: 18.36

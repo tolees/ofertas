@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNMT5KQ-es LOETAD Cámara Web Webcam 1080P Full HD con Micrófono...'
 sku: 'B07FNMT5KQ-es'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

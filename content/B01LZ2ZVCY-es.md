@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZ2ZVCY-es Colector de leche materna de NatureBond. Extractor de...'
 sku: 'B01LZ2ZVCY-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

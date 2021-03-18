@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSF8GP8-es KIKI Alimento Completo para jilgueros y pájaros Silvestres'
 sku: 'B07KSF8GP8-es'
-tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

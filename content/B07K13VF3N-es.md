@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K13VF3N-es Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños Azul...'
 sku: 'B07K13VF3N-es'
-tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00X9TXQS2-es Garnier Delial BB Sun Crema de Protección Solar con Color...'
 sku: 'B00X9TXQS2-es'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

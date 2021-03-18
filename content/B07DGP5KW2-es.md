@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DGP5KW2-es Oral-B Vitality 100 Cepillo Eléctrico Recargable Con...'
 sku: 'B07DGP5KW2-es'
-tags: [  ]
 actualPrice: 20.78 EUR
 currency: EUR
 price: 20.78

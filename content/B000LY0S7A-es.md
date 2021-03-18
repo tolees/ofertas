@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000LY0S7A-es Tetra Vital 100 ml'
 sku: 'B000LY0S7A-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

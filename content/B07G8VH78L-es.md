@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G8VH78L-es Bissell MultiClean Lithium Ion Aspirador de Mano Rojo Y Negro'
 sku: 'B07G8VH78L-es'
-tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

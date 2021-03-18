@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y1YLFGQ-es Pacrate Auriculares Gaming para Xbox One PS4 PC Nintendo...'
 sku: 'B07Y1YLFGQ-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

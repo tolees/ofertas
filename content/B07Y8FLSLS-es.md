@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y8FLSLS-es Gioseppo Livermore Zapatillas sin Cordones para Mujer...'
 sku: 'B07Y8FLSLS-es'
-tags: [  ]
 actualPrice: 40.9 EUR
 currency: EUR
 price: 40.9

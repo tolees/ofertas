@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FCRLPJC-es Kodak Printomatic - Cámara de impresión instantánea...'
 sku: 'B07FCRLPJC-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

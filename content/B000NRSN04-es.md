@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000NRSN04-es Converse Chuck Taylor All Star Hi Top Zapatillas Unisex...'
 sku: 'B000NRSN04-es'
-tags: [  ]
 actualPrice: 42.22 EUR
 currency: EUR
 price: 42.22

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002P5IK6O-es TRIXIE Reno Peluche 30 cm Sonido Perro'
 sku: 'B002P5IK6O-es'
-tags: [  ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

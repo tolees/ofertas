@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VG8F95J-es Walt Disney Pictures - El Rey León DVD imagen real'
 sku: 'B07VG8F95J-es'
-tags: [  ]
 actualPrice: 11.54 EUR
 currency: EUR
 price: 11.54

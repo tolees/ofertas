@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVDKYK1-es Magichome Temporizador Digital Programable Enchufe...'
 sku: 'B07GVDKYK1-es'
-tags: [  ]
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

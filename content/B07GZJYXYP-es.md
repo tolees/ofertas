@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZJYXYP-es Camfosy - Botas de Cuero para mujer color Azul talla 40 EU'
 sku: 'B07GZJYXYP-es'
-tags: [  ]
 actualPrice: 74.94 EUR
 currency: EUR
 price: 74.94

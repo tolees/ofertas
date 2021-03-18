@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D9GFV76-es ANKOVO - Termometro infrarrojo Termometro digital...'
 sku: 'B08D9GFV76-es'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

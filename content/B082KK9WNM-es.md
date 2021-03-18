@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082KK9WNM-es BANLVS Smartwatch Reloj Inteligente IP67 con Correa...'
 sku: 'B082KK9WNM-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

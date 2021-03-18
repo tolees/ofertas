@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0832NPNYB-es Anker Soundcore Liberty 2 Auriculares Pro True Wireless...'
 sku: 'B0832NPNYB-es'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

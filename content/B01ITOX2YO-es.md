@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ITOX2YO-es Sanytol - Gel de Manos Desinfectante Hidroalcohólico Sin...'
 sku: 'B01ITOX2YO-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

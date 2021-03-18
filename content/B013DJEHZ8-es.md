@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013DJEHZ8-es Activision Blizzard Skylanders Superchargers - Vehicle...'
 sku: 'B013DJEHZ8-es'
-tags: [  ]
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FSXDF9-es HAVIT Auricular Bluetooth V4.2 IPX5 Deportes magnéticos...'
 sku: 'B075FSXDF9-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

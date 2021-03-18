@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BMZ9LYW-es Skechers Flex Play Zapatillas para Niñas Gris Grey/Hot...'
 sku: 'B07BMZ9LYW-es'
-tags: [  ]
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

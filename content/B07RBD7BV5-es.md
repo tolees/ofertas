@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RBD7BV5-es Columbia Inner Limits II Jacket Hombre Negro Gris Black...'
 sku: 'B07RBD7BV5-es'
-tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

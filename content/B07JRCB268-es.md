@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JRCB268-es Tommy Hilfiger Tommy Slim Polo Morado Hyacinth Violet 526...'
 sku: 'B07JRCB268-es'
-tags: [  ]
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

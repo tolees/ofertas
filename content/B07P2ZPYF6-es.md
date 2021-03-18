@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2ZPYF6-es Head Club Lucy W Camisetas Mujer Magenta/Dark Blue Extra-...'
 sku: 'B07P2ZPYF6-es'
-tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

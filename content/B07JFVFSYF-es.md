@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JFVFSYF-es Fila FU6043 Slip Mujer White XL'
 sku: 'B07JFVFSYF-es'
-tags: [  ]
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

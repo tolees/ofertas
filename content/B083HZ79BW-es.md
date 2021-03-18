@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZ79BW-es J35038-Tm Anti-Fall Creative Simple Marble Pattern...'
 sku: 'B083HZ79BW-es'
-tags: [  ]
 actualPrice: 1.33 EUR
 currency: EUR
 price: 1.33

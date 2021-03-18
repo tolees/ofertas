@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S57NFX6-es Columbia CALDORADO III Zapatillas de Trail Running Mujer...'
 sku: 'B07S57NFX6-es'
-tags: [  ]
 actualPrice: 51.98 EUR
 currency: EUR
 price: 51.98

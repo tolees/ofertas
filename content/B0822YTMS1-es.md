@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0822YTMS1-es Braun BT3222 - Recortadora de Barba con Dial de Precisión...'
 sku: 'B0822YTMS1-es'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

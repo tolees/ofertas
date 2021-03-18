@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KRG6DH3-es adidas - Lin Core Waist'
 sku: 'B07KRG6DH3-es'
-tags: [  ]
 actualPrice: 5.01 EUR
 currency: EUR
 price: 5.01

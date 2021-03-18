@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077VL2YY6-es Disney / Pixar - Coco [DVD]'
 sku: 'B077VL2YY6-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

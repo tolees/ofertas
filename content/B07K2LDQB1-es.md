@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K2LDQB1-es Adidas Continental 80 Zapatillas de Gimnasia Hombre Negro...'
 sku: 'B07K2LDQB1-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJ3QC64-es UGHEY Deshumidificador 750 ml 7 Colores LED Apagado...'
 sku: 'B08DJ3QC64-es'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

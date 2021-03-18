@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DNRQ1RN-es YOSH Funda Impermeable Móvil IPX8 Bolsa para Móvil Estanca...'
 sku: 'B07DNRQ1RN-es'
-tags: [  ]
 actualPrice: 6.65 EUR
 currency: EUR
 price: 6.65

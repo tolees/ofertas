@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077Q9BWFJ-es Xiaomi Mi LPN4013GL - Bascula de baño electrodos de acero...'
 sku: 'B077Q9BWFJ-es'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

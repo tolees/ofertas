@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHQ5G8H-es Salomon Quest Prime GTX W Botas de Senderismo para Mujer...'
 sku: 'B07RHQ5G8H-es'
-tags: [  ]
 actualPrice: 66.31 EUR
 currency: EUR
 price: 66.31

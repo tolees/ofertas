@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTQNRBN-es FIND - Bon voyage - Paleta de cuatro sombras de ojos n.3'
 sku: 'B07CTQNRBN-es'
-tags: [  ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

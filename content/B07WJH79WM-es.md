@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WJH79WM-es TP-Link Bombilla de filamento Inteligente WiFi E27 7 W...'
 sku: 'B07WJH79WM-es'
-tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

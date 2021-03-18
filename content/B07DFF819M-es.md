@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFF819M-es Funko The Figura Pop Fugitive Predator Multicolor Standard...'
 sku: 'B07DFF819M-es'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

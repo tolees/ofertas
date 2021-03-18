@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PNS23B5-es Under Armour Knockout Tanque Mujer Negro SM'
 sku: 'B07PNS23B5-es'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IH6LV9M-es AUKEY Hub USB 3.0 4 Puertos Aluminio SuperSpeed 5Gbps con...'
 sku: 'B01IH6LV9M-es'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5IB20Q-es Kingston A400 SSD SA400S37/240G - Disco duro sólido...'
 sku: 'B01N5IB20Q-es'
-tags: [ 'kingston', ]
 actualPrice: 34.98 EUR
 currency: EUR
 price: 34.98

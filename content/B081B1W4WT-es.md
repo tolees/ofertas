@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081B1W4WT-es Fallout Wasteland Warfare Institute Core Box Juego de...'
 sku: 'B081B1W4WT-es'
-tags: [  ]
 actualPrice: 24.47 EUR
 currency: EUR
 price: 24.47

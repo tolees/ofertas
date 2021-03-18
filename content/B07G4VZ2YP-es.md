@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4VZ2YP-es Razer Kraken Tournament Edition Esports Gaming Headset...'
 sku: 'B07G4VZ2YP-es'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

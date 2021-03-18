@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDL3FSP-es Polaroid Pop 2.0 Cámara digital de impresión instantánea...'
 sku: 'B07FDL3FSP-es'
-tags: [  ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X33KC2T-es Amazfit GTR 42 Smart Watch con frecuencia cardíaca durante...'
 sku: 'B07X33KC2T-es'
-tags: [  ]
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HG23ZZ8-es New Balance 247v2 Zapatillas para Mujer Rosa Pink Pink 43 EU'
 sku: 'B07HG23ZZ8-es'
-tags: [  ]
 actualPrice: 24.71 EUR
 currency: EUR
 price: 24.71

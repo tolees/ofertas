@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0831BP5ZZ-es TOVIKI - Corrector Postura Espalda Faja para Hombre y...'
 sku: 'B0831BP5ZZ-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

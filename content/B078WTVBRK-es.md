@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WTVBRK-es Rowenta VU1950 Classic Compact VU1930F0 Ventilador 45 W...'
 sku: 'B078WTVBRK-es'
-tags: [  ]
 actualPrice: 20.13 EUR
 currency: EUR
 price: 20.13

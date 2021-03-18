@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W53Q5DD-es Alfombras de Playa Manta de Picnic para Playa -...'
 sku: 'B07W53Q5DD-es'
-tags: [  ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

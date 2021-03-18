@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N5G1JOR-es Lampara Led Uñas SUNUV 48W Secador de Uñas UV Led Curado...'
 sku: 'B01N5G1JOR-es'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

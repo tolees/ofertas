@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FF7NLT1-es CYBEX Gold Silla de coche 2 en 1 para niños Pallas S-Fix...'
 sku: 'B07FF7NLT1-es'
-tags: [  ]
 actualPrice: 239.23 EUR
 currency: EUR
 price: 239.23

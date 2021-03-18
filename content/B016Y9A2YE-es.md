@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016Y9A2YE-es SAMs Tierhausschuhe Disney Star Wars Darth Vader lustig'
 sku: 'B016Y9A2YE-es'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

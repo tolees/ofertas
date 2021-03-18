@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PVE2DP0-es D-Link DHP-P601AV/E Kit Powerline Av2 PLC 1000 Extensor de...'
 sku: 'B00PVE2DP0-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

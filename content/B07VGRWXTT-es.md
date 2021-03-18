@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGRWXTT-es Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa...'
 sku: 'B07VGRWXTT-es'
-tags: [  ]
 actualPrice: 174.96 EUR
 currency: EUR
 price: 174.96

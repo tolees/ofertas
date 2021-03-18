@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PZB2HWS-es Nike Court Royale Zapatillas para Mujer Blanco White /...'
 sku: 'B00PZB2HWS-es'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

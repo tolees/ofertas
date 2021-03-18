@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EU8A49K-es Elizabeth Arden Eight hour Intensive Bálsamo Reparador de...'
 sku: 'B00EU8A49K-es'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

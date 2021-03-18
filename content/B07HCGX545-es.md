@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCGX545-es TACKLIFE Caja de Herramientas 56 Piezas HHK3B Maletín de...'
 sku: 'B07HCGX545-es'
-tags: [ 'tacklife', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

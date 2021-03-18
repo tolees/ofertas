@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EA0NF8E-es HP 304XL N9K08AE Negro Cartucho de Tinta de Alta Capacidad...'
 sku: 'B01EA0NF8E-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

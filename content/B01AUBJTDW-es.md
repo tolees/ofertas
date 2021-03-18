@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AUBJTDW-es Philips Smart Pro Compact FC8776/01 - Robot Aspirador 4...'
 sku: 'B01AUBJTDW-es'
-tags: [  ]
 actualPrice: 139.32 EUR
 currency: EUR
 price: 139.32

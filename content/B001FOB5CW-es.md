@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001FOB5CW-es Bormioli 324Y92 - Tarro 4 Estaciones 0 50'
 sku: 'B001FOB5CW-es'
-tags: [  ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

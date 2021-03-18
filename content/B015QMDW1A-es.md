@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015QMDW1A-es Solo En Casa Aniversario - 25 Años Blu Ray [Blu-ray]'
 sku: 'B015QMDW1A-es'
-tags: [  ]
 actualPrice: 7.87 EUR
 currency: EUR
 price: 7.87

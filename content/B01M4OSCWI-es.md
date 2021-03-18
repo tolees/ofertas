@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M4OSCWI-es Vigilados Person Of Interest Blue Ray Temporada 1-5...'
 sku: 'B01M4OSCWI-es'
-tags: [  ]
 actualPrice: 58.55 EUR
 currency: EUR
 price: 58.55

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002WGHYMW-es Superga 2750 COTU Classic Zapatillas Unisex Adulto Black...'
 sku: 'B002WGHYMW-es'
-tags: [  ]
 actualPrice: 36.35 EUR
 currency: EUR
 price: 36.35

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084LHHCZ1-es Bob Esponja - Figura Stretch'
 sku: 'B084LHHCZ1-es'
-tags: [ 'Coleccionables','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Muñecos y figuras','Muñecos y figuras de acción','Réplicas y merchandising de cine y TV','bob esponja', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNS6J8V-es LEGO City Fire - LEGO 60216 City Brigada de Bomberos del...'
 sku: 'B07FNS6J8V-es'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

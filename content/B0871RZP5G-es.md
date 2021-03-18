@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0871RZP5G-es MWyanlan Película de Ventana Colorida Opaca privacidad...'
 sku: 'B0871RZP5G-es'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

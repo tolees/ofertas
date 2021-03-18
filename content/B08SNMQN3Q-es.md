@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SNMQN3Q-es Gommy s Factory Bolsa Oso Amoroso - Loving Bear Fresa...'
 sku: 'B08SNMQN3Q-es'
-tags: [  ]
 actualPrice: 0.75 EUR
 currency: EUR
 price: 0.75

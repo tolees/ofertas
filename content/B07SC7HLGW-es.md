@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SC7HLGW-es Cooko Decantador de Vino Decantador de Aireación de Vino...'
 sku: 'B07SC7HLGW-es'
-tags: [  ]
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

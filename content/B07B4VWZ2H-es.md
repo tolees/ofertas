@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4VWZ2H-es Timbre Inalámbrico VOXON Impermeable Doble de Pared Plug-...'
 sku: 'B07B4VWZ2H-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

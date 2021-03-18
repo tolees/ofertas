@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J72LNW5-es Dragon Touch Cámara Instantánea Cámara de Fotos para Niños...'
 sku: 'B08J72LNW5-es'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

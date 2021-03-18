@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y1P5P8J-es wansview Webcam PC Full HD 1080P con Micrófono Webcam...'
 sku: 'B07Y1P5P8J-es'
-tags: [  ]
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

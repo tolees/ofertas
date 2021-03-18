@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N5KY2DQ-es Superga 2802-cotw Zapatillas de Gimnasia para Mujer Blanco...'
 sku: 'B07N5KY2DQ-es'
-tags: [  ]
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HN2ZRXZ-es Marca Amazon - Lifelong Alimento completo para gatos...'
 sku: 'B07HN2ZRXZ-es'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

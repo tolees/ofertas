@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008JAAT5Y-es Monkey 47 Ginebra 500ml'
 sku: 'B008JAAT5Y-es'
-tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

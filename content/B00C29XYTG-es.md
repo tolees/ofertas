@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00C29XYTG-es Luminarc Vajilla de Vidrio Opal Extra Resistente para 6...'
 sku: 'B00C29XYTG-es'
-tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

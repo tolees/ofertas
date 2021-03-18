@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088GC1XFB-es Oral-B Pro 1 750 - Cepillo de dientes eléctrico incluye...'
 sku: 'B088GC1XFB-es'
-tags: [  ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

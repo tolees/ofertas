@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QAIRD6K-es Jata LD85B Limador de Durezas Contiene Dos Rodillos...'
 sku: 'B00QAIRD6K-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

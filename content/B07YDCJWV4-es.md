@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDCJWV4-es Purplert Gorro De Dormir De Capó De Seda Satinada Grande...'
 sku: 'B07YDCJWV4-es'
-tags: [  ]
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

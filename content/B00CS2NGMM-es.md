@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CS2NGMM-es Wolfcraft 7496010 - Broca espiral HSS laminado por rodillo...'
 sku: 'B00CS2NGMM-es'
-tags: [  ]
 actualPrice: 0.62 EUR
 currency: EUR
 price: 0.62

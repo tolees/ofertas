@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYPHL1C-es Hurley M DF Disperse Siege FZ'
 sku: 'B08GYPHL1C-es'
-tags: [  ]
 actualPrice: 22.61 EUR
 currency: EUR
 price: 22.61

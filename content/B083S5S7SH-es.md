@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083S5S7SH-es Adaptador USB C RAMPOW Adaptador USB c a USB 3.0 USB c a...'
 sku: 'B083S5S7SH-es'
-tags: [  ]
 actualPrice: 5.04 EUR
 currency: EUR
 price: 5.04

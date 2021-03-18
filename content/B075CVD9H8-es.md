@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075CVD9H8-es 50 Piezas Gomas de Pelo – ZWOOS Bandas del Pelo Cintas de...'
 sku: 'B075CVD9H8-es'
-tags: [  ]
 actualPrice: 5.69 EUR
 currency: EUR
 price: 5.69

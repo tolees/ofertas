@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV6RNZK-es TWBB Hombres Casual Elastic Sport Solid Pockets Pantalones'
 sku: 'B07MV6RNZK-es'
-tags: [  ]
 actualPrice: 1.96 EUR
 currency: EUR
 price: 1.96

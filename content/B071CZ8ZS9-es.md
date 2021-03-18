@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071CZ8ZS9-es Satisfyer 1 Next Generation - Anillos'
 sku: 'B071CZ8ZS9-es'
-tags: [  ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

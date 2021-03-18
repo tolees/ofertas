@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NJN3K4S-es Lenovo ideapad 530S-14IKB - Ordenador Portátil 14" FullHD...'
 sku: 'B07NJN3K4S-es'
-tags: [  ]
 actualPrice: 649.99 EUR
 currency: EUR
 price: 649.99

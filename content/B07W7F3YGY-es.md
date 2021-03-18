@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7F3YGY-es Funko - POP Animation: Dragon Ball Z - Trunks'
 sku: 'B07W7F3YGY-es'
-tags: [ 'Acción y Aventura','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Audio y vídeo portátil','Blu-ray','Bricolaje y herramientas','Ciencia ficción','Coleccionables','Destornilladores','Electrónica','Enchufes estándar','Enchufes inteligentes y a control remoto','Enchufes y accesorios','Estatuas y maquetas en miniatura','Fantasía','Featured Categories','Figuras de muñecos chibi','Herramientas de mano','Herramientas manuales y eléctricas','Hogar y cocina','Instalación eléctrica','Juegos de destornilladores','Juguetes','Juguetes y juegos','Merchandising y estatuas y bustos','Películas','Películas y TV','Radios portátiles','Robots aspiradores','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','funko', ]
 actualPrice: 10.94 EUR
 currency: EUR
 price: 10.94

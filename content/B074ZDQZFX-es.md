@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074ZDQZFX-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B074ZDQZFX-es'
-tags: [ 'fossil', ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

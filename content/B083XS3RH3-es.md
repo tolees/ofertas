@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083XS3RH3-es Enotepad Gráfico Electrónico Portátil eWriter Digital...'
 sku: 'B083XS3RH3-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

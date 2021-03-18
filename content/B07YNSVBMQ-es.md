@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNSVBMQ-es find. Hurrache Sandalias con Punta Cerrada Beige Natural...'
 sku: 'B07YNSVBMQ-es'
-tags: [  ]
 actualPrice: 8.68 EUR
 currency: EUR
 price: 8.68

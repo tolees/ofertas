@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JV7V26R-es Funko- Pocket Pop Fortnite Llavero de Vinilo con Anilla...'
 sku: 'B07JV7V26R-es'
-tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

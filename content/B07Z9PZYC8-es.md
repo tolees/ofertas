@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z9PZYC8-es O Neill PM Sun&Sea para Hombre Rojo Cherry Red XS'
 sku: 'B07Z9PZYC8-es'
-tags: [  ]
 actualPrice: 17.63 EUR
 currency: EUR
 price: 17.63

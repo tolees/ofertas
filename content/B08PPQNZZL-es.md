@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PPQNZZL-es CHcase para Xiaomi Mi 10T / Mi 10T Pro Funda 360 Rotating...'
 sku: 'B08PPQNZZL-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

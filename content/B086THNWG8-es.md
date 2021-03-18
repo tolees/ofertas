@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086THNWG8-es Grupo Erik - ERIK - Etiquetas adhesivas escolares Glasses...'
 sku: 'B086THNWG8-es'
-tags: [  ]
 actualPrice: 0.87 EUR
 currency: EUR
 price: 0.87

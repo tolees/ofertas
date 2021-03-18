@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TSKW8JX-es KiplingTopsMujerCarterasNegro Carbon Metallic 7.5x10x2.5...'
 sku: 'B07TSKW8JX-es'
-tags: [  ]
 actualPrice: 14.74 EUR
 currency: EUR
 price: 14.74

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDWKV4R-es Trswyop Batería Externa para Móvil 25800mAh【Colorido...'
 sku: 'B07VDWKV4R-es'
-tags: [  ]
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

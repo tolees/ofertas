@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01K7JEIOC-es HORI - Volante Apex PS4/PS3/PC'
 sku: 'B01K7JEIOC-es'
-tags: [  ]
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

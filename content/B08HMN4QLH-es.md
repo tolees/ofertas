@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HMN4QLH-es 20th Century Studios Home Entertainment - Los Nuevos...'
 sku: 'B08HMN4QLH-es'
-tags: [  ]
 actualPrice: 11.39 EUR
 currency: EUR
 price: 11.39

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K4X6RJX-es Conjunto de luces Lightailing para Creator El Puente De...'
 sku: 'B07K4X6RJX-es'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

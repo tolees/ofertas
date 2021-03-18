@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08LD6LVVY-es Cecotec Robot aspirador y fregasuelos Conga 6090 Ultra...'
 sku: 'B08LD6LVVY-es'
-tags: [ 'cecotec', ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T4CTP3F-es Ubisoft Spain - Immortals Fenyx Rising SWITCH'
 sku: 'B07T4CTP3F-es'
-tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

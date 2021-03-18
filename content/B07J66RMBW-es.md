@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07J66RMBW-es Lee Extreme Motion Straight Pantalones Black 38W / 32L...'
 sku: 'B07J66RMBW-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

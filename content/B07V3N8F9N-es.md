@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3N8F9N-es Pour Moi? Opulence Underwired Bra Sujetador con Aros Beige...'
 sku: 'B07V3N8F9N-es'
-tags: [  ]
 actualPrice: 13.24 EUR
 currency: EUR
 price: 13.24

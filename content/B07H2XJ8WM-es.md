@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H2XJ8WM-es Nikon Z6 - Cámara sin Espejos de 24.5 MP Pantalla LCD de...'
 sku: 'B07H2XJ8WM-es'
-tags: [  ]
 actualPrice: 2124.0 EUR
 currency: EUR
 price: 2124.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083TFWQJS-es INTEY Ahuyentador de Animales 2 Piezas Ultrasonido...'
 sku: 'B083TFWQJS-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

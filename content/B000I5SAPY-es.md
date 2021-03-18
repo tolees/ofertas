@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000I5SAPY-es Rapesco 25 Single - Perforadora metálica de un agujero y...'
 sku: 'B000I5SAPY-es'
-tags: [  ]
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

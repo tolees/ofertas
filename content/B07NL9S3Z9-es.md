@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NL9S3Z9-es NIKE Revolution 5 Zapatillas Hombre Gym Red/White/Black...'
 sku: 'B07NL9S3Z9-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086QKM1GF-es Mustang Rossi Zapatillas Deportivas Mujer Leopard Negro 38 EU'
 sku: 'B086QKM1GF-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VR52VWW-es Skechers Men s Stamina Cutback Trainers Grey Charcoal &...'
 sku: 'B00VR52VWW-es'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

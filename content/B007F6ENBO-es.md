@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007F6ENBO-es Lékué Vaporera Verde Silicona 24 cm'
 sku: 'B007F6ENBO-es'
-tags: [  ]
 actualPrice: 21.1 EUR
 currency: EUR
 price: 21.1

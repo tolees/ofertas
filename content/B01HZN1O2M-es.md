@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HZN1O2M-es Geles Inibsa - Gel de ducha para el cuidado de la piel y...'
 sku: 'B01HZN1O2M-es'
-tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

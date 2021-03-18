@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0052XFZ5K-es Parker Deluxe GP Converter - Recambio para bolígrafos y...'
 sku: 'B0052XFZ5K-es'
-tags: [  ]
 actualPrice: 12.15 EUR
 currency: EUR
 price: 12.15

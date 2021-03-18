@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N4HVRMM-es KidKraft- Cocina de madera de juguete Uptown Elite para...'
 sku: 'B07N4HVRMM-es'
-tags: [  ]
 actualPrice: 157.86 EUR
 currency: EUR
 price: 157.86

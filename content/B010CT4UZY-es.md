@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010CT4UZY-es Teka - Microondas Grill Modelo MWE 225 G 20 Litros 5...'
 sku: 'B010CT4UZY-es'
-tags: [  ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

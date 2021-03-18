@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XWRQFLH-es Tommy Hilfiger 472001001 Calcetines para Hombre Rojo...'
 sku: 'B06XWRQFLH-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

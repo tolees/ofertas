@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088F42BLJ-es iDiskk 2000 GB 2 TB Disco Duro de 2.5 Pulgadas...'
 sku: 'B088F42BLJ-es'
-tags: [  ]
 actualPrice: 147.99 EUR
 currency: EUR
 price: 147.99

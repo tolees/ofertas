@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074WDYBS6-es Philips MG7720/15 Recortadora 14 en 1 Maquina recortadora...'
 sku: 'B074WDYBS6-es'
-tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

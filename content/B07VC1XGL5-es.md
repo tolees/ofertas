@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VC1XGL5-es JACK & JONES Jcopolar Sweat Half Zip Capucha Verde Forest...'
 sku: 'B07VC1XGL5-es'
-tags: [  ]
 actualPrice: 12.53 EUR
 currency: EUR
 price: 12.53

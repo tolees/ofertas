@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072VK3ND4-es Cecotec Plancha Force Titanium 520 3000 W Golpe de Vapor...'
 sku: 'B072VK3ND4-es'
-tags: [ 'Hogar y cocina','Juguetes','Juguetes de baño','Juguetes para Bebés y primera infancia','Juguetes y juegos','Muñecas bebé','Muñecas y accesorios','Planchas de vapor','Planchas y centros de planchado','Planchas, centros de planchado y accesorios','cecotec', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

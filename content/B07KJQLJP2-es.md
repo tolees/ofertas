@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KJQLJP2-es Adidas Uefa Champions League Victory Edition Desodorante...'
 sku: 'B07KJQLJP2-es'
-tags: [  ]
 actualPrice: 8.46 EUR
 currency: EUR
 price: 8.46

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0827QG4WK-es Cadena de Luces LED 1.5M 10 Luces LED para Pascua Pollito...'
 sku: 'B0827QG4WK-es'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

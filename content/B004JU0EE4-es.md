@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004JU0EE4-es Leifheit 24055 Sterling - Cuchara para Servir de Metal'
 sku: 'B004JU0EE4-es'
-tags: [  ]
 actualPrice: 4.29 EUR
 currency: EUR
 price: 4.29

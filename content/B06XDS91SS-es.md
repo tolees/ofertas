@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XDS91SS-es L Oreal Paris Dermo Expertise - L Óreal Paris Dermo...'
 sku: 'B06XDS91SS-es'
-tags: [  ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

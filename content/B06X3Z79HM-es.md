@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X3Z79HM-es Casio EDIFICE Reloj en caja sólida 10 BAR Azul/Negro para...'
 sku: 'B06X3Z79HM-es'
-tags: [  ]
 actualPrice: 111.2 EUR
 currency: EUR
 price: 111.2

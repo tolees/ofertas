@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077T1MGH4-es Panasonic RP-HTX80BE-K - Auriculares Bluetooth Diadema 24...'
 sku: 'B077T1MGH4-es'
-tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

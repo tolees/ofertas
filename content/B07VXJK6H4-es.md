@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VXJK6H4-es PIKOLINOS Sandalia Plana de Piel ALGAR W0X'
 sku: 'B07VXJK6H4-es'
-tags: [  ]
 actualPrice: 42.02 EUR
 currency: EUR
 price: 42.02

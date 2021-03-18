@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00U1J1NOC-es RC2 Corporation - CRC 30143-AA - Deco Paint Deco...'
 sku: 'B00U1J1NOC-es'
-tags: [  ]
 actualPrice: 7.14 EUR
 currency: EUR
 price: 7.14

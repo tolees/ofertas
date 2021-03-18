@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JGW5QGD-es TruuMe - Juguete Molar Multifuncional para Mascotas...'
 sku: 'B08JGW5QGD-es'
-tags: [  ]
 actualPrice: 12.69 EUR
 currency: EUR
 price: 12.69

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CCXLWWV-es Auriculares Bluetooth 5.0 Auriculares inalámbricos 3D...'
 sku: 'B08CCXLWWV-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

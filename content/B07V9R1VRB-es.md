@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V9R1VRB-es Napapijri Vail 3 Pantalones Cortos Multicolor Turquoise...'
 sku: 'B07V9R1VRB-es'
-tags: [  ]
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

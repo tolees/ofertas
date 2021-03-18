@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071VNC7N7-es Moulinex QuickChef DD655D Batidora de Mano de 1000 W con...'
 sku: 'B071VNC7N7-es'
-tags: [  ]
 actualPrice: 36.49 EUR
 currency: EUR
 price: 36.49

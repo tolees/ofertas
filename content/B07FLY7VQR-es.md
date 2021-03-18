@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLY7VQR-es Operación Triunfo 2017'
 sku: 'B07FLY7VQR-es'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

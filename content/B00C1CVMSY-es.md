@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C1CVMSY-es Logitech B100 Ratón con Cable 3 Botones Seguimiento Óptico...'
 sku: 'B00C1CVMSY-es'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

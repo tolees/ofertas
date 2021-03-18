@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N5HFM9H-es Lacoste Carnaby EVO BL 1 SPM Zapatillas Hombre Azul Navy...'
 sku: 'B01N5HFM9H-es'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

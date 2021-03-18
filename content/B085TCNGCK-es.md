@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085TCNGCK-es Proyector YABER Mini Proyector Portátil Soporte Full HD...'
 sku: 'B085TCNGCK-es'
-tags: [  ]
 actualPrice: 87.14 EUR
 currency: EUR
 price: 87.14

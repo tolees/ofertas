@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VN5PYWN-es GEMVIE Niños Sombrero Pescador de Bebé Sol Protección...'
 sku: 'B08VN5PYWN-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0836CVMPY-es Otto Koning - Dortmund- Set 42 cubiertos para 6 comensales...'
 sku: 'B0836CVMPY-es'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

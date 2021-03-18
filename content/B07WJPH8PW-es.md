@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WJPH8PW-es LG OLED55B9ALEXA - Smart TV OLED 4K UHD de 139 cm 55" con...'
 sku: 'B07WJPH8PW-es'
-tags: [  ]
 actualPrice: 600.0 EUR
 currency: EUR
 price: 600.0

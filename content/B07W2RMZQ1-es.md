@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W2RMZQ1-es PIKOLINOS Sandalia Plana de Piel CADAQUES W8K'
 sku: 'B07W2RMZQ1-es'
-tags: [  ]
 actualPrice: 36.64 EUR
 currency: EUR
 price: 36.64

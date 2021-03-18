@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QL24M5D-es Hawiton Sujetadores Deportivos Mujer con Almohadillas...'
 sku: 'B07QL24M5D-es'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

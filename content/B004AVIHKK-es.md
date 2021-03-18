@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004AVIHKK-es KEMO M103N - Interruptor y regulador de intensidad color...'
 sku: 'B004AVIHKK-es'
-tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

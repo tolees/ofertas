@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JKB6LH1-es SOUSLOW Tazas térmicas Termos Botella de Agua con...'
 sku: 'B08JKB6LH1-es'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

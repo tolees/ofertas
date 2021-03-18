@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077MFV78V-es PUMA Nrgy Comet Zapatillas de Cross Unisex Adulto Gris...'
 sku: 'B077MFV78V-es'
-tags: [  ]
 actualPrice: 39.13 EUR
 currency: EUR
 price: 39.13

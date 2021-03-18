@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9P21RS-es Lacoste Masters Cup 319 1 SMA Zapatillas para Hombre Azul...'
 sku: 'B07L9P21RS-es'
-tags: [  ]
 actualPrice: 38.89 EUR
 currency: EUR
 price: 38.89

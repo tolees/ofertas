@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8XP1CK-es Jack & Jones Jcomilla Sweat Hood Capucha Multicolor Sky...'
 sku: 'B07W8XP1CK-es'
-tags: [  ]
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

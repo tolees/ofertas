@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NNT69LV-es Seiko Reloj de Pulsera SUP857P1'
 sku: 'B07NNT69LV-es'
-tags: [  ]
 actualPrice: 127.59 EUR
 currency: EUR
 price: 127.59

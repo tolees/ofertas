@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077J4P3SF-es Novex Aceite de Argán Mascarilla Capilar - 400g'
 sku: 'B077J4P3SF-es'
-tags: [  ]
 actualPrice: 2.84 EUR
 currency: EUR
 price: 2.84

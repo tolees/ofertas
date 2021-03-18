@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPBYXNR-es Safety 1st Road Fix Silla Coche Grupo 2 3 Isofix crece con...'
 sku: 'B07ZPBYXNR-es'
-tags: [  ]
 actualPrice: 84.74 EUR
 currency: EUR
 price: 84.74

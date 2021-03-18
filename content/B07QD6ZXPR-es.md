@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QD6ZXPR-es Pablosky 590821 Botas Slouch para Niños Azul Azul Azul 21 EU'
 sku: 'B07QD6ZXPR-es'
-tags: [  ]
 actualPrice: 9.41 EUR
 currency: EUR
 price: 9.41

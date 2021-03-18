@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VT4LQK-es Lee Elly Jeans Sitka DE Piedra Media 24/31 para Mujer'
 sku: 'B082VT4LQK-es'
-tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

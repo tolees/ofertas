@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089QKXPTF-es Kinberry - Cámara para exteriores versión nocturna'
 sku: 'B089QKXPTF-es'
-tags: [  ]
 actualPrice: 15.87 EUR
 currency: EUR
 price: 15.87

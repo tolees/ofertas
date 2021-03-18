@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5YY39D-es 500x Negro Sujetacables profesional Cable Sujetacables...'
 sku: 'B07W5YY39D-es'
-tags: [  ]
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXW49PF-es SIKAI Case - Cable Phone Magnético de Carga Rápido 3A...'
 sku: 'B07YXW49PF-es'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

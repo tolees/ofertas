@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FFOY006-es Philips QP220/50 - Cuchilla de recambio para Philips...'
 sku: 'B01FFOY006-es'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

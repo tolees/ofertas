@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBQP1TQ-es 100pcs Bola de Vidrio Guijarro de Mármol Color Sólido...'
 sku: 'B07PBQP1TQ-es'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

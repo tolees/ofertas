@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CZCLCL1-es San Ignacio PK2348 Set 3 sartenes Batería 7 piezas...'
 sku: 'B08CZCLCL1-es'
-tags: [  ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

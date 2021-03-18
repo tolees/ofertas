@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F43ZTK1-es Planificador de estudio Mr. Wonderful para que no se te...'
 sku: 'B07F43ZTK1-es'
-tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDPPQZH-es Alcachofa de ducha alta presión Super bajo consumo de agua...'
 sku: 'B07MDPPQZH-es'
-tags: [  ]
 actualPrice: 22.79 EUR
 currency: EUR
 price: 22.79

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZYZQLVG-es Umami® ⭐ Lunch Box EcoloChic™ Bleu & Bambou'
 sku: 'B07ZYZQLVG-es'
-tags: [  ]
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

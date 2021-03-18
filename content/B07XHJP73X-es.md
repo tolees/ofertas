@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XHJP73X-es Smatree Funda para portátil Funda para portátil de 14...'
 sku: 'B07XHJP73X-es'
-tags: [  ]
 actualPrice: 18.97 EUR
 currency: EUR
 price: 18.97

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZKJRYX-es Levoit Jarra de Agua Filtrada 2 5L con 1 Filtro hasta 60...'
 sku: 'B07PZKJRYX-es'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

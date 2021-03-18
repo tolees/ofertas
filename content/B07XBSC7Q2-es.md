@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBSC7Q2-es Trust Yvi Ratón inalámbrico - Azul'
 sku: 'B07XBSC7Q2-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

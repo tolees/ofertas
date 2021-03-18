@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LP414KU-es Bourjois Contour Clubbing; Delineador de Ojos. Tono 57 Up...'
 sku: 'B00LP414KU-es'
-tags: [  ]
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

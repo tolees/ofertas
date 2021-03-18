@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X6JCBBR-es Ultimate Ears Wonderboom Altavoz Portátil Inalámbrico...'
 sku: 'B06X6JCBBR-es'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

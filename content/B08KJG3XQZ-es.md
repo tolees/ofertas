@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KJG3XQZ-es U&I Entertainment - Peaky Blinders: Mastermind'
 sku: 'B08KJG3XQZ-es'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

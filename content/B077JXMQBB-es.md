@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077JXMQBB-es Pala De Padel Head Stratos Pro Ltd'
 sku: 'B077JXMQBB-es'
-tags: [  ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

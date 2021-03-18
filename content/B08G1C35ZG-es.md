@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G1C35ZG-es Auricular Bluetooth 5.0 Auricular inalámbrico micrófono y...'
 sku: 'B08G1C35ZG-es'
-tags: [  ]
 actualPrice: 15.59 EUR
 currency: EUR
 price: 15.59

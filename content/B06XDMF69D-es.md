@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XDMF69D-es Bourjois Brow Palette Kit para cejas Tono 1 Blonde - 4.5 gr'
 sku: 'B06XDMF69D-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SYPK9CW-es Bourjois Velvet Barra de Labios Líquida Tono 11 So...'
 sku: 'B00SYPK9CW-es'
-tags: [  ]
 actualPrice: 5.41 EUR
 currency: EUR
 price: 5.41

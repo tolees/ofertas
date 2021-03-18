@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0742M8CMQ-es UO- Pulsera Estampado Supermama Color Dorado'
 sku: 'B0742M8CMQ-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

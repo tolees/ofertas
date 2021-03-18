@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ITJHIO0-es ISDIN Nutraisdin Zn40 Pomada Reparadora - 100 ml.'
 sku: 'B00ITJHIO0-es'
-tags: [  ]
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

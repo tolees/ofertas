@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GRE7W9O-es Logitech C925e Business Webcam Video-Llamadas HD...'
 sku: 'B01GRE7W9O-es'
-tags: [  ]
 actualPrice: 84.59 EUR
 currency: EUR
 price: 84.59

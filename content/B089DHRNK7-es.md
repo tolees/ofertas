@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089DHRNK7-es luosh Rodillo de Pintura 4 Piezas de Esponja para niños...'
 sku: 'B089DHRNK7-es'
-tags: [  ]
 actualPrice: 7.21 EUR
 currency: EUR
 price: 7.21

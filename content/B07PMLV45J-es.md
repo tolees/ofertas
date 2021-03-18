@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMLV45J-es New Balance 574v2 Zapatillas para Hombre Azul Blue Blue...'
 sku: 'B07PMLV45J-es'
-tags: [  ]
 actualPrice: 47.08 EUR
 currency: EUR
 price: 47.08

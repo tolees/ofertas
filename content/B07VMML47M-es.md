@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VMML47M-es VADIM Gaming Sport Silla ergonómica de Oficina Silla de...'
 sku: 'B07VMML47M-es'
-tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

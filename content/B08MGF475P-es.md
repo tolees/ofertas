@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MGF475P-es Revlon Wonder Woman Gift Pack'
 sku: 'B08MGF475P-es'
-tags: [  ]
 actualPrice: 18.1 EUR
 currency: EUR
 price: 18.1

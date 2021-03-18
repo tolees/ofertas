@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M7NEPDG-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
 sku: 'B00M7NEPDG-es'
-tags: [ 'fossil', ]
 actualPrice: 101.21 EUR
 currency: EUR
 price: 101.21

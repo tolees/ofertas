@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GOB7JI4-es Aigostar Steel Blue 31HGB-Plancha de vapor de suela de...'
 sku: 'B01GOB7JI4-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

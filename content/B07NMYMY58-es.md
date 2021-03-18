@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NMYMY58-es Nike Revolution 5 Mujer Multicolor Barely Rose/Mtlc Red...'
 sku: 'B07NMYMY58-es'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DKQMLGP-es HHUIWIND Funda Xiaomi Redmi 9 + Cristal Templado Protector...'
 sku: 'B08DKQMLGP-es'
-tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

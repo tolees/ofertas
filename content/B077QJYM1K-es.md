@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077QJYM1K-es cuzit Durable modo de reloj para el entrenamiento regazo...'
 sku: 'B077QJYM1K-es'
-tags: [  ]
 actualPrice: 17.59 EUR
 currency: EUR
 price: 17.59

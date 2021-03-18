@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B017O0XHJ4-es Suunto TRAVERSE Graphite Reloj GPS outdoor para...'
 sku: 'B017O0XHJ4-es'
-tags: [  ]
 actualPrice: 114.51 EUR
 currency: EUR
 price: 114.51

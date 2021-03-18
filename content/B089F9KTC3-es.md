@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089F9KTC3-es MagiDeal Mando A Distancia De Repuesto para 2 PCS Apto...'
 sku: 'B089F9KTC3-es'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

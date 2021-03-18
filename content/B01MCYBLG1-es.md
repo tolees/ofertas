@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MCYBLG1-es Wet n Wild Power Outage 1 Step Wonder Gel Nail Color...'
 sku: 'B01MCYBLG1-es'
-tags: [  ]
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MEBTJSB-es Izas Chaqueta de Fibra Ultraligera Sindu'
 sku: 'B01MEBTJSB-es'
-tags: [  ]
 actualPrice: 34.25 EUR
 currency: EUR
 price: 34.25

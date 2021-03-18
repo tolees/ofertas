@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R41HJHG-es SENGBIRCH Teclado Funda para iPad 10.5 Funda Protectora...'
 sku: 'B07R41HJHG-es'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

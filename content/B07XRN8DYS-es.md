@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRN8DYS-es Rizador de Pestañas Electrico Rizador de Pestañas Termico...'
 sku: 'B07XRN8DYS-es'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

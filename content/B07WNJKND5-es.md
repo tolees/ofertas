@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WNJKND5-es Lavadora carga frontal - Haier HW120-BD14889U1 12kg...'
 sku: 'B07WNJKND5-es'
-tags: [  ]
 actualPrice: 772.2 EUR
 currency: EUR
 price: 772.2

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBLWS2C-es Seiko - Pulsar Reloj analogico para Hombre de Cuarzo con...'
 sku: 'B07GBLWS2C-es'
-tags: [ 'seiko', ]
 actualPrice: 72.33 EUR
 currency: EUR
 price: 72.33

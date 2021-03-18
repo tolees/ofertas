@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SN4GQRQ-es Chicco - Calienta biberón de casa y viaje con adaptador...'
 sku: 'B00SN4GQRQ-es'
-tags: [ 'chicco', ]
 actualPrice: 32.61 EUR
 currency: EUR
 price: 32.61

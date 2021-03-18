@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XDC13LR-es Xiaomi Mi LED Smart Bulb White and Color Bombilla E27 10 W'
 sku: 'B07XDC13LR-es'
-tags: [  ]
 actualPrice: 28.5 EUR
 currency: EUR
 price: 28.5

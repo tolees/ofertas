@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004M9SJ3K-es Rimmel London - Rimmel Stay Matte Polvos compacto - 003...'
 sku: 'B004M9SJ3K-es'
-tags: [  ]
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

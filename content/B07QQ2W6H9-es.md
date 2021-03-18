@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QQ2W6H9-es Habitdesign 0N6743A - Recibidor con cajón + Espejo Medidas...'
 sku: 'B07QQ2W6H9-es'
-tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

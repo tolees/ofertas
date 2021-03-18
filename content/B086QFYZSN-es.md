@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QFYZSN-es Suhctup Funda Compatible con iPhone 11 Pro Carcasa...'
 sku: 'B086QFYZSN-es'
-tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

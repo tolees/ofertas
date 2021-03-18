@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMZ9MHQ-es Cocoty-store Pantalones 2019 Hombre Cinturón de cintura...'
 sku: 'B07TMZ9MHQ-es'
-tags: [  ]
 actualPrice: 3.41 EUR
 currency: EUR
 price: 3.41

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WFGR61Z-es Pierre Cardin Poloshirt Kn Polo Rojo Hot 5080 S para Hombre'
 sku: 'B07WFGR61Z-es'
-tags: [  ]
 actualPrice: 13.46 EUR
 currency: EUR
 price: 13.46

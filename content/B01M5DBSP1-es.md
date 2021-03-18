@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5DBSP1-es Wrangler Straight Jeans Negro Blueblack 51L 27W / 30L para...'
 sku: 'B01M5DBSP1-es'
-tags: [  ]
 actualPrice: 16.54 EUR
 currency: EUR
 price: 16.54

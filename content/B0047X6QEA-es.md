@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0047X6QEA-es Rimmel London Lasting Finish Barra De Labios Tono 077 Asia...'
 sku: 'B0047X6QEA-es'
-tags: [  ]
 actualPrice: 2.52 EUR
 currency: EUR
 price: 2.52

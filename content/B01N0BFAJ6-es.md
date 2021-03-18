@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0BFAJ6-es Taurus UNIC500PLUSINOX Batidora 500 W 0 Decibelios...'
 sku: 'B01N0BFAJ6-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

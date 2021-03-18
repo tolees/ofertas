@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B012X61WXW-es Happy Way Pinic Turquesa - Trona de Viaje'
 sku: 'B012X61WXW-es'
-tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AW0ORX4-es Vileda Style - Recambio para fregona'
 sku: 'B00AW0ORX4-es'
-tags: [  ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

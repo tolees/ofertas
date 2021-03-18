@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AI46EK2-es Viceroy Reloj Analogico para Chicos de Cuarzo con Correa...'
 sku: 'B01AI46EK2-es'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

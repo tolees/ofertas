@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N17F4BL-es Black+Decker BEG010-QS - Amoladora 115mm 710W 12.000 rpm'
 sku: 'B07N17F4BL-es'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

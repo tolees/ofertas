@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OHQ9NAQ-es SPARES2GO Perillas de control universales negras para...'
 sku: 'B00OHQ9NAQ-es'
-tags: [  ]
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

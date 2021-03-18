@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CP86XK0-es Tirma PT042010 - Ambrosías con Relleno Cubiertas de...'
 sku: 'B01CP86XK0-es'
-tags: [  ]
 actualPrice: 13.69 EUR
 currency: EUR
 price: 13.69

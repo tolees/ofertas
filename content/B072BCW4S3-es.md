@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072BCW4S3-es Bolero Bebida para el control de peso - 513 gr.'
 sku: 'B072BCW4S3-es'
-tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088D6CVL1-es Suhctup Funda Compatible para Samsung Galaxy S6 Edge...'
 sku: 'B088D6CVL1-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

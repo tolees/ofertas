@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AXYJPWQ-es Joma - Anorak Everest Negro para Hombre'
 sku: 'B01AXYJPWQ-es'
-tags: [  ]
 actualPrice: 30.34 EUR
 currency: EUR
 price: 30.34

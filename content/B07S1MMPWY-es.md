@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S1MMPWY-es New Balance 500 Zapatillas para Mujer Gris Grey HHC 35 EU'
 sku: 'B07S1MMPWY-es'
-tags: [  ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

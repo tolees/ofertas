@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GN5SP1R-es WinWonder 17 piezas de fabricación de joyas herramientas...'
 sku: 'B07GN5SP1R-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

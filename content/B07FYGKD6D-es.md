@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYGKD6D-es Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS...'
 sku: 'B07FYGKD6D-es'
-tags: [  ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

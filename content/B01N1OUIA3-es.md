@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1OUIA3-es ALLPOWERS Panel Solar Baterías Cargador 18V 12V 18W Panel...'
 sku: 'B01N1OUIA3-es'
-tags: [  ]
 actualPrice: 41.73 EUR
 currency: EUR
 price: 41.73

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SMQ6J8G-es Telémetro láser 40m GALAX PRO Medidor Láser Precisión ±2...'
 sku: 'B07SMQ6J8G-es'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

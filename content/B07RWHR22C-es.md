@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWHR22C-es Hub USB 3.0 de 4 Puertos de Datos iAmotus Adaptador usb...'
 sku: 'B07RWHR22C-es'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

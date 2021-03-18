@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007V7NJXK-es GREAT ART Asombroso póster - Original Barney Stinson...'
 sku: 'B007V7NJXK-es'
-tags: [  ]
 actualPrice: 23.9 EUR
 currency: EUR
 price: 23.9

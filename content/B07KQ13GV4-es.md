@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQ13GV4-es Ever-Pretty Vestidos de Noche Encaje Gasa Cuello Redondo...'
 sku: 'B07KQ13GV4-es'
-tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0872PRT5Y-es Funda Transparente Compatible para Galaxy A9 Star Lite...'
 sku: 'B0872PRT5Y-es'
-tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

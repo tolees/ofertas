@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087LYVKN8-es Oihxse Cristal Compatible con Huawei Mate 10 Lite Funda...'
 sku: 'B087LYVKN8-es'
-tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JLVJNHP-es Candy CID633C Placa inducción 60cm ancho 3 zonas de...'
 sku: 'B07JLVJNHP-es'
-tags: [  ]
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

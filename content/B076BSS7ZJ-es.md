@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076BSS7ZJ-es Bellota 7230938S1P Bota de seguridad Negro Verde 38 EU'
 sku: 'B076BSS7ZJ-es'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

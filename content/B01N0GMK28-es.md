@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0GMK28-es Tibhar Tischtennisschläger Powercarbon XT neu azul'
 sku: 'B01N0GMK28-es'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

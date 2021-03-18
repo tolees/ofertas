@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CJWQV2I-es VANS Atwood Canvas Zapatillas Hombre Rojo Oxblood/White...'
 sku: 'B00CJWQV2I-es'
-tags: [  ]
 actualPrice: 42.74 EUR
 currency: EUR
 price: 42.74

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O8RZ56K-es Intex 68575N Sofá rinconera hinchable 257x203x76 cm color...'
 sku: 'B00O8RZ56K-es'
-tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Aspiradoras escoba','Auriculares para equipo de audio','Auriculares y accesorios','Belleza','Bálsamos labiales','Calzado de atletismo para mujer','Calzado deportivo  de exterior de mujer','Calzado deportivo para hombre','Calzado deportivo para mujer','Calzados de running para hombre','Calzados de running para mujer','Calzados para correr en asfalto para hombre','Climatización y calefacción','Cremas corporales','Cremas diurnas faciales','Cremas para pies','Cuidado diurno facial','Electrónica','Hidratantes corporales','Hidratantes faciales','Hogar y cocina','Informática','Lociones corporales','Manicura y pedicura','Memorias USB','Muebles de hogar','Muebles de salón','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para el cuidado de la piel corporal','Productos para el cuidado de las manos y de los pies','Productos para el cuidado de los labios','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Robots aspiradores','Sofás de salón','Ventiladores','Ventiladores de torre','Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','intex', ]
 actualPrice: 76.28 EUR
 currency: EUR
 price: 76.28

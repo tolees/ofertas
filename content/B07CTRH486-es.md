@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTRH486-es Skechers FLEX ADVANTAGE 3.0- STALLY Men’s Trainers Blue...'
 sku: 'B07CTRH486-es'
-tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

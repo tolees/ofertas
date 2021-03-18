@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ITVUI18-es WOLFPACK LINEA PROFESIONAL - Wolfpack 05110500 - Caballete...'
 sku: 'B00ITVUI18-es'
-tags: [  ]
 actualPrice: 3.75 EUR
 currency: EUR
 price: 3.75

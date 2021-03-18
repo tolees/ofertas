@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081TP75LD-es adidas Solid Clx SH SL Traje de Baño Hombre Legend Ink 4'
 sku: 'B081TP75LD-es'
-tags: [  ]
 actualPrice: 8.12 EUR
 currency: EUR
 price: 8.12

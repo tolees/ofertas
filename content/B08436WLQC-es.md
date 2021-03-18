@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08436WLQC-es Calvin Klein Ckj 026 Slim Pantalones Bb017/Blue Black 30W...'
 sku: 'B08436WLQC-es'
-tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

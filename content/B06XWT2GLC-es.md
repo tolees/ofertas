@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XWT2GLC-es Amores Perros Edición Coleccionista Blu.Ray [Blu-ray]'
 sku: 'B06XWT2GLC-es'
-tags: [  ]
 actualPrice: 13.44 EUR
 currency: EUR
 price: 13.44

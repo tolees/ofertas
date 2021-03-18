@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MT5ZPFL-es New Balance Gw500v1 Zapatillas de Deporte para Mujer Azul...'
 sku: 'B01MT5ZPFL-es'
-tags: [  ]
 actualPrice: 24.4 EUR
 currency: EUR
 price: 24.4

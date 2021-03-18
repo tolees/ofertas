@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGKTCZS-es Napapijri Vail 3 Pantalones Cortos Multicolor Zigzag Blue...'
 sku: 'B07VGKTCZS-es'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

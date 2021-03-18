@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073FWPWCC-es Smile 111720040199 - Funda para laptop 15.6"'
 sku: 'B073FWPWCC-es'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99
