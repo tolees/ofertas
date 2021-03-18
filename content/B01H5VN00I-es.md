@@ -28,7 +28,7 @@ Tienes [Garnier Skin Active Hydrabomb  Crema Hidratante De Noche - 50ml](https:/
 
 ℹ️:
 
-- Reduce arrugas
 - Apta para pieles sensibles
+- Reduce arrugas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01H5VN00I/?tag=tolees-21)

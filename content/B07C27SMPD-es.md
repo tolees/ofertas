@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Knit V-Neck Noos s al 38.02 % de descuento'
-date: 2021-03-17 13:52:51
+date: 2021-03-18 20:47:56
 image: 'https://m.media-amazon.com/images/I/314CcJK-8CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07C27SMPD-es Jack & Jones Jjebasic Knit V-Neck Noos suéter Azul Navy...'
 sku: 'B07C27SMPD-es'
+tags: [ 'Jerséis para hombre','Jerséis, cárdigans y sudaderas para hombre','Ropa','Ropa para hombre','jack & jones', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jack & Jones'
 buyurl: 'https://www.amazon.es/dp/B07C27SMPD/?tag=tolees-21'
 descuento: '38.02'
-average: '17.2964052287585'
+average: '17.2730967741938'
 ---
 
 Ahora mismo tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Azul  Navy Blazer Navy Blazer   X-Large para Hombre](https://www.amazon.es/dp/B07C27SMPD/?tag=tolees-21) a 15.49 EUR (original: 24.99 EUR) (38.02 %  de descuento) en el siguiente enlace!

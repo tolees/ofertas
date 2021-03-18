@@ -28,7 +28,7 @@ Tienes [Tommy Hilfiger Tjw Quilted Down Coat Chaqueta  Negro  XS para Mujer](htt
 
 ℹ️:
 
-- Este producto se ha producido de forma sostenible con materiales sostenibles
 - Este es un producto auténtico y original Tommy Jeans
+- Este producto se ha producido de forma sostenible con materiales sostenibles
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0842H5YMM/?tag=tolees-21)
