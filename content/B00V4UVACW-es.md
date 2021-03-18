@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'ONLY Onlava Pu Biker Otw Noos - Chaqueta al 37.95 % de rebaja'
-date: 2021-03-16 22:32:36
+date: 2021-03-18 05:27:44
 image: 'https://m.media-amazon.com/images/I/31ZG1Qg0aAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00V4UVACW-es ONLY Onlava Pu Biker Otw Noos - Chaqueta para mujer color...'
 sku: 'B00V4UVACW-es'
-tags: [ 'only', ]
+tags: [ 'Camisas casual para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Cubertería, Vajilla y Cristalería','Hogar y cocina','Piezas de vajilla','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Tazas','Tazas de té','only', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99
@@ -29,9 +29,9 @@ Tienes [ONLY Onlava Pu Biker Otw Noos - Chaqueta para mujer  color negro  talla 
 🔎:
 
 - Modello: AVA 15102997
-- Brand: ONLY
 - Stagione: Primavera/Estate
 - Articolo: Giubbino
 - Colore: Nero
+- Brand: ONLY
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00V4UVACW/?tag=tolees-21)

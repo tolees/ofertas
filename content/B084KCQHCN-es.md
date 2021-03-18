@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Samsung Galaxy S20+ 5G - Smartphone 6.7" al 41.48 % de rebaja'
-date: 2021-03-17 04:58:20
+date: 2021-03-18 05:26:23
 image: 'https://m.media-amazon.com/images/I/41KHff4cnYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B084KCQHCN-es Samsung Galaxy S20+ 5G - Smartphone 6.7" Dynamic AMOLED...'
 sku: 'B084KCQHCN-es'
-tags: [ 'samsung', ]
+tags: [ 'Accesorios para sillas de coche','Bebé','Blu-ray','Bélico','Camisas casual para hombre','Camisetas, polos y camisas para hombre','Chaquetas para mujer','Comunicación móvil y accesorios','Cubertería, Vajilla y Cristalería','Electrónica','Espejos para asientos traseros','Featured Categories','Hogar y cocina','Móviles','Móviles y smartphones libres','Películas','Películas y TV','Piezas de vajilla','Ropa','Ropa de abrigo para mujer','Ropa para hombre','Ropa para mujer','Sillas de coche y accesorios','Tazas','Tazas de té','samsung', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SAMSUNG'
 buyurl: 'https://www.amazon.es/dp/B084KCQHCN/?tag=tolees-21'
 descuento: '41.48'
-average: '745.995925925925'
+average: '743.658674698794'
 ---
 
 Tienes [Samsung Galaxy S20+ 5G - Smartphone 6.7" Dynamic AMOLED  12GB RAM  128GB ROM   cuádruple cámara trasera 64MP  Octa-core Exynos 990  4500mAh batería  carga ultra rápida  Cosmic Gray [Versión española]](https://www.amazon.es/dp/B084KCQHCN/?tag=tolees-21) con precio final de  649.0 EUR (original: 1109.0 EUR) (41.48 %  de rebaja) aqui!
@@ -28,12 +28,12 @@ Tienes [Samsung Galaxy S20+ 5G - Smartphone 6.7" Dynamic AMOLED  12GB RAM  128GB
 
 🔎:
 
-- 12 GB de RAM procesador Exynos 990 y capacidad de 1 1 TB de almacenamiento poder para días auténticamente épicos
-- SIM híbrida (SIM ó mSD) eSIM IP 68 Samsung Pay
 - Sensor ultrasónico de huella dactilar en pantalla reconocimiento facial Samsung Knox
-- Smartphone libre con el sistema operativo Android V10 pre-instalado
-- Pantalla Infinity-O Dynamic AMOLED de 120Hz y 6 7" WQHD+ experimenta cada momento con una claridad total y de extremo a extremo
 - Teleobjetivo de 64 MP cámara frontal de 10 MP cámara gran angular de 12MP y un gran zoom espacial de 30x captura el mundo que te rodea como nunca antes
+- Smartphone libre con el sistema operativo Android V10 pre-instalado
+- SIM híbrida (SIM ó mSD) eSIM IP 68 Samsung Pay
+- Pantalla Infinity-O Dynamic AMOLED de 120Hz y 6 7" WQHD+ experimenta cada momento con una claridad total y de extremo a extremo
+- 12 GB de RAM procesador Exynos 990 y capacidad de 1 1 TB de almacenamiento poder para días auténticamente épicos
 - La batería de Galaxy S20+ contiene 4 500 mAh para que puedas funcionar durante todo el día carga inalámbrica (12W) Power Sharing carga ultra rápida (25W)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084KCQHCN/?tag=tolees-21)
