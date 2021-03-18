@@ -28,9 +28,9 @@ Tienes [Umbra Prisma - Marco de fotos  12 7 x 17 8 cm  acabado cromado ](https:/
 
 ℹ️:
 
-- Puede ser posicionado horizontal o verticalmente
 - Adecuada para ser utilizado en el escritorio o en la pared
-- Dimensiones del producto de 17.8 x 22.9 x 7.6 cm
 - Dispone de alambre de metal con vidrio flotante
+- Dimensiones del producto de 17.8 x 22.9 x 7.6 cm
+- Puede ser posicionado horizontal o verticalmente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LVLURHI/?tag=tolees-21)

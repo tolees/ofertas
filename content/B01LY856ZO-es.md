@@ -28,12 +28,12 @@ Está [Teka | Placa de Vitrocerámica | Modelo TB6315 | 3 zonas Touch Control | 
 
 ℹ️:
 
-- Programador del tiempo de cocción
-- Dimensiones Alto x Ancho x Profundo (cm): 6.3 x 60 x 51
-- 3 zonas (Ø145 mm + Ø180 mm + Ø210/270 mm)
 - Función golpe de cocción
-- Touch Control
-- Función cronómetro con avisador acústico
+- Programador del tiempo de cocción
 - Color: Cristal negro
+- Dimensiones Alto x Ancho x Profundo (cm): 6.3 x 60 x 51
+- Touch Control
+- 3 zonas (Ø145 mm + Ø180 mm + Ø210/270 mm)
+- Función cronómetro con avisador acústico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LY856ZO/?tag=tolees-21)
