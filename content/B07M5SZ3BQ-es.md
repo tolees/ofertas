@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M5SZ3BQ-es Warner Bros Interactive Spain VG - La Lego Película 2: El...'
 sku: 'B07M5SZ3BQ-es'
-tags: [ 'Juegos para Nintendo Switch','warner bros interactive spain (vg)', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','warner bros interactive spain (vg)', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9
@@ -28,8 +28,8 @@ En este momento está [Warner Bros Interactive Spain  VG  - La Lego Película 2:
 
 🔎:
 
+- Multitud de personajes heroicos
 - Desbloquea y juega con más de 100 personajes
 - Utiliza nuevas armaduras y coches para derrotar a los alienígenas
-- Multitud de personajes heroicos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M5SZ3BQ/?tag=tolees-21)

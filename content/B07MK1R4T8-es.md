@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1R4T8-es Napapijri Maun Pantalones Gris Dark Grey Solid 198 46...'
 sku: 'B07MK1R4T8-es'
-tags: [ 'Pantalones para hombre','napapijri', ]
+tags: [ 'Pantalones para hombre','Ropa','Ropa para hombre','napapijri', ]
 actualPrice: 24.1 EUR
 currency: EUR
 price: 24.1

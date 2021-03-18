@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0841CXZQC-es Tommy Hilfiger TJM Essential Down Jacket Chaqueta Azul...'
 sku: 'B0841CXZQC-es'
-tags: [ 'Chaquetas para hombre','tommy hilfiger', ]
+tags: [ 'Chaquetas para hombre','Ropa','Ropa de abrigo para hombre','Ropa para hombre','tommy hilfiger', ]
 actualPrice: 125.0 EUR
 currency: EUR
 price: 125.0
@@ -28,9 +28,9 @@ Está [Tommy Hilfiger TJM Essential Down Jacket Chaqueta  Azul Marino Crepúscul
 
 ℹ️:
 
+- Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 - Este producto se ha producido de forma sostenible
 - Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
-- Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 - Tommy Jeans ropa exterior para hombre
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0841CXZQC/?tag=tolees-21)

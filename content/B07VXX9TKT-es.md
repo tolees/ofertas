@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXX9TKT-es Pepe Jeans Cash Short Jeans Azul Denim 000 40 para Hombre'
 sku: 'B07VXX9TKT-es'
-tags: [ 'Pantalones cortos para hombre','pepe jeans', ]
+tags: [ 'Pantalones cortos para hombre','Ropa','Ropa para hombre','pepe jeans', ]
 actualPrice: 12.13 EUR
 currency: EUR
 price: 12.13

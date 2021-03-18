@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6ZB3J2-es Adidas RUNFALCON C Zapatillas de Running Unisex niño Negro...'
 sku: 'B07V6ZB3J2-es'
-tags: [ 'Calzados para correr en asfalto para niño','adidas', ]
+tags: [ 'Calzado deportivo para niño','Calzados de running para niño','Calzados para correr en asfalto para niño','Zapatillas y calzado deportivo para Niño','Zapatos','Zapatos para niños pequeños','Zapatos y complementos','adidas', ]
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

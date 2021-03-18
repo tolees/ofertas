@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZEWV8T-es Einhell GC-CS 85 E - Afilador para cadenas de motosierra...'
 sku: 'B01LZEWV8T-es'
-tags: [ 'Afiladores para motosierras','einhell', ]
+tags: [ 'Accesorios para herramientas eléctricas de exterior','Accesorios para motosierras','Afiladores para motosierras','Cortacéspedes y herramientas eléctricas para exteriores','Jardín','einhell', ]
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9
@@ -29,9 +29,9 @@ En este momento está [Einhell GC-CS 85 E - Afilador para cadenas de motosierra 
 🔎:
 
 - Escala para un ajuste exacto del ángulo de afilado
-- Pantalla transparente
-- Tope de profundidad
 - Disco de afilado
+- Tope de profundidad
 - Dispositivo de fijación de la cadena
+- Pantalla transparente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LZEWV8T/?tag=tolees-21)

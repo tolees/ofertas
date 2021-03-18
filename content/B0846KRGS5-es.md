@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0846KRGS5-es Tommy Hilfiger Jonny 6c Botas de Moda Hombre Negro 45 1/3 EU'
 sku: 'B0846KRGS5-es'
-tags: [ 'Botas para hombre','tommy hilfiger', ]
+tags: [ 'Botas para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','tommy hilfiger', ]
 actualPrice: 58.25 EUR
 currency: EUR
 price: 58.25

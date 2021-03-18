@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076TBMWBZ-es Skechers Summits Zapatillas Deportivas Mujer Azul Navy...'
 sku: 'B076TBMWBZ-es'
-tags: [ 'Zapatillas casual para mujer','skechers', ]
+tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','skechers', ]
 actualPrice: 29.77 EUR
 currency: EUR
 price: 29.77
@@ -28,8 +28,8 @@ Está [Skechers Summits  Zapatillas Deportivas Mujer  Azul Navy Aqua  37 EU](htt
 
 ℹ️:
 
-- synthetic
 - Blue
+- synthetic
 - adulto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076TBMWBZ/?tag=tolees-21)

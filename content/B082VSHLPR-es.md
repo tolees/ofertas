@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VSHLPR-es Lee Daren Zip Fly Jeans Enjuague 33W x 30L para Hombre'
 sku: 'B082VSHLPR-es'
-tags: [ 'Vaqueros para hombre','lee', ]
+tags: [ 'Ropa','Ropa para hombre','Vaqueros para hombre','lee', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

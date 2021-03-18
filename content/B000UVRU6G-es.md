@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000UVRU6G-es SteelSeries QcK+ - Alfombrilla de ratón de juego 450mm x...'
 sku: 'B000UVRU6G-es'
-tags: [ 'Alfrombrillas de ratón para gamers para PC','steelseries', ]
+tags: [ 'Accesorios para Juegos PC','Alfrombrillas de ratón para gamers para PC','Juegos y Accesorios para PC','Videojuegos','steelseries', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99
@@ -28,10 +28,10 @@ Está [SteelSeries QcK+ - Alfombrilla de ratón de juego  450mm x 400mm  tela  b
 
 ℹ️:
 
+- QcK es la mejor opción para los profesionales de esports durante más de 15 años
+- Tela exclusiva de microtejido QcK para un control máximo
 - La base de goma antideslizante elimina los movimientos no deseados
 - Optimizada para movimientos de seguimiento de DPI bajos y altos
-- QcK es la mejor opción para los profesionales de esports durante más de 15 años
 - Duradera y lavable para una fácil limpieza
-- Tela exclusiva de microtejido QcK para un control máximo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000UVRU6G/?tag=tolees-21)

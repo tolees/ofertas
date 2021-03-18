@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QD6R5L7-es SanDisk microSDXC UHS-ITarjeta para Nintendo Switch 256B...'
 sku: 'B07QD6R5L7-es'
-tags: [ 'Memoria para Nintendo Switch','Tarjetas microSD','sandisk', ]
+tags: [ 'Accesorios para Nintendo Switch','Almacenamiento de datos','Almacenamiento de datos externo','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','sandisk', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99
@@ -28,9 +28,9 @@ Ahora mismo tienes [SanDisk microSDXC UHS-ITarjeta para Nintendo Switch 256B  Pr
 
 🔎:
 
-- Velocidades de transferencia de hasta 100 mb/s para cargar los juegos rápidamente
-- Añade hasta 256 gb de espacio adicional al instante
-- Guarda los juegos digitales y contenidos adicionales en un único sitio para jugar en cualquier lugar
 - Tarjeta de memoria con licencia nintendo para el sistema nintendo switch
+- Añade hasta 256 gb de espacio adicional al instante
+- Velocidades de transferencia de hasta 100 mb/s para cargar los juegos rápidamente
+- Guarda los juegos digitales y contenidos adicionales en un único sitio para jugar en cualquier lugar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QD6R5L7/?tag=tolees-21)

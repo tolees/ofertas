@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHT7QZ1-es Warner Bros Interactive Spain - Lego: Jurassic World'
 sku: 'B07WHT7QZ1-es'
-tags: [ 'Juegos para Nintendo Switch','warner bros interactive spain', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','warner bros interactive spain', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

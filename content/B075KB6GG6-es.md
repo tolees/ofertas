@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KB6GG6-es New Balance Hombre 574v2-core Trainers Zapatillas Negro...'
 sku: 'B075KB6GG6-es'
-tags: [ 'Zapatillas casual para hombre','new balance', ]
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','new balance', ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0
@@ -28,7 +28,7 @@ Está [New Balance Hombre 574v2-core Trainers Zapatillas  Negro  Triple Black   
 
 ℹ️:
 
-- Material exterior: piel.
 - Forro: de punto.
+- Material exterior: piel.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075KB6GG6/?tag=tolees-21)

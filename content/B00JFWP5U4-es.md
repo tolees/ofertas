@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JFWP5U4-es Brabantia 298301 - Tarro de Cristal 0.3 L Tapa Gris Oscuro'
 sku: 'B00JFWP5U4-es'
-tags: [ 'Botes para alimentos','brabantia', ]
+tags: [ 'Almacenamiento de alimentos','Almacenamiento de cocina y despensa','Botes para alimentos','Hogar y cocina','brabantia', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99
@@ -28,10 +28,10 @@ Tienes [Brabantia 298301 - Tarro de Cristal  0.3 L  Tapa Gris Oscuro](https://ww
 
 🔎:
 
-- Aptos para el lavavajillas
+- Diseño apilable (con otros tarros Brabantia) para un mejor aprovechamiento del espacio
 - Disponible en varios tamaños
 - Cierre hermético, conservan los alimentos frescos durante mas tiempo
-- Diseño apilable (con otros tarros Brabantia) para un mejor aprovechamiento del espacio
 - Fabricados con cristal resistente y ligero
+- Aptos para el lavavajillas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00JFWP5U4/?tag=tolees-21)
