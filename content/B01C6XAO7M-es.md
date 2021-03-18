@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C6XAO7M-es HORI - Volante Mario Kart Pro Deluxe Nintendo Switch/PC'
 sku: 'B01C6XAO7M-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Almacenamiento de datos','Almacenamiento de datos internos','Barras y bebidas nutritivas en medicamentos, remedios y suplementos dietéticos','Bebidas de resistencia y energía','Comunicación móvil y accesorios','Dieta y nutrición en medicamentos, remedios y suplementos dietéticos','Discos duros sólidos internos','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Móviles','Móviles de teclas grandes','Playsets de figuras de juguete para niños','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Ropa','Ropa para mujer','Salud y cuidado personal','Vaqueros para mujer','Videojuegos','Zapatillas casual para hombre','Zapatillas casual para mujer','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','hori', ]
+tags: [ 'Accesorios para Juegos PC','Mandos para Nintendo Switch','hori', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99
@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Volante Mario Kart Pro Deluxe  Nintendo Switch/PC ](h
 
 🔎:
 
-- Licencia oficial de Nintendo
 - Compatible también con otros juegos de carreras para Nintendo Switch
-- Levas de cambio secuencial en el volante
 - Incluye pedales analógicos para una experiencia de conducción más realista
+- Levas de cambio secuencial en el volante
 - Botones programables
+- Licencia oficial de Nintendo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01C6XAO7M/?tag=tolees-21)

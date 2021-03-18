@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQJ3CME-es Caroline - Days Go By'
 sku: 'B01MQJ3CME-es'
-tags: [ 'Accesorios','Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para portátiles y netbooks','Almacenamiento de datos','Almacenamiento de datos internos','Barras y bebidas nutritivas en medicamentos, remedios y suplementos dietéticos','Bebidas de resistencia y energía','Bolsas y fundas para portátiles y netbooks','CDs y vinilos','Chaquetas para hombre','Comunicación móvil y accesorios','Dieta y nutrición en medicamentos, remedios y suplementos dietéticos','Discos duros sólidos internos','Electrónica','Hardware y juegos para Nintendo Switch','Indie y alternativa','Informática','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Mochilas para portátiles y netbooks','Muñecos y figuras','Móviles','Móviles de teclas grandes','New wave y post-punk','Playsets de figuras de juguete para niños','Pop','Ratones','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Rock','Ropa','Ropa de abrigo para hombre','Ropa para hombre','Ropa para mujer','Salud y cuidado personal','Teclados, ratones y periféricos de entrada','Vaqueros para mujer','Videojuegos','Zapatillas casual para hombre','Zapatillas casual para mujer','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','caroline', ]
+tags: [ 'New wave y post-punk','Pop','Rock','caroline', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

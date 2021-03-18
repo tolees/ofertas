@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002QVJ1NS-es Targus AMU75EU - Ratón Compacto'
 sku: 'B002QVJ1NS-es'
-tags: [ 'Accesorios','Accesorios para Juegos PC','Accesorios para Nintendo Switch','Almacenamiento de datos','Almacenamiento de datos internos','Barras y bebidas nutritivas en medicamentos, remedios y suplementos dietéticos','Bebidas de resistencia y energía','Comunicación móvil y accesorios','Dieta y nutrición en medicamentos, remedios y suplementos dietéticos','Discos duros sólidos internos','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Juegos y Accesorios para PC','Juguetes','Juguetes y juegos','Mandos para Nintendo Switch','Muñecos y figuras','Móviles','Móviles de teclas grandes','Playsets de figuras de juguete para niños','Ratones','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Ropa','Ropa para mujer','Salud y cuidado personal','Teclados, ratones y periféricos de entrada','Vaqueros para mujer','Videojuegos','Zapatillas casual para hombre','Zapatillas casual para mujer','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos','targus', ]
+tags: [ 'Ratones','targus', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99
@@ -28,8 +28,8 @@ Está [Targus AMU75EU - Ratón Compacto](https://www.amazon.es/dp/B002QVJ1NS/?ta
 
 ℹ️:
 
-- Exterior de nylon reforzado de gran resistencia, con cremalleras grandes
 - Fácil de usar
 - Es ideal para los profesionales de hoy en día que necesitan desplazarse y con un estilo de vida active
+- Exterior de nylon reforzado de gran resistencia, con cremalleras grandes
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002QVJ1NS/?tag=tolees-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBVY1R3-es Only Onlcoral Superlow SK JNS BB Crya041 Noos Vaqueros...'
 sku: 'B07SBVY1R3-es'
-tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','Ropa','Ropa para mujer','Vaqueros para mujer','Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','only', ]
+tags: [ 'Vaqueros para mujer','only', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99
