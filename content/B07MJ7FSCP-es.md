@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ7FSCP-es Clarks - Botines de Cuero Hombre color Taupe Suede talla...'
 sku: 'B07MJ7FSCP-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Bricolaje y herramientas','Componentes','Destornilladores','Dispositivos de red','Dispositivos internos','Herramientas de mano','Herramientas manuales y eléctricas','Informática','Juegos de destornilladores','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
 actualPrice: 45.31 EUR
 currency: EUR
 price: 45.31

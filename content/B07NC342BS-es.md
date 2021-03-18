@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NC342BS-es camel active Houston 488385/2511 Pantalones Beige Beige 23...'
 sku: 'B07NC342BS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Bricolaje y herramientas','Componentes','Destornilladores','Dispositivos de red','Dispositivos internos','Herramientas de mano','Herramientas manuales y eléctricas','Informática','Juegos de destornilladores','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
 actualPrice: 30.81 EUR
 currency: EUR
 price: 30.81

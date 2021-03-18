@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQTVJT5-es HoYiXi Funda para Samsung Galaxy Tab A 10.1 2019 Anti-Drop...'
 sku: 'B07SQTVJT5-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Bricolaje y herramientas','Componentes','Destornilladores','Dispositivos de red','Dispositivos internos','Herramientas de mano','Herramientas manuales y eléctricas','Informática','Juegos de destornilladores','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

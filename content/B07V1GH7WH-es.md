@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1GH7WH-es Wrangler ICONS Camisa Vaquera Azul 2 Years 922 XXX-Large...'
 sku: 'B07V1GH7WH-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Bricolaje y herramientas','Componentes','Destornilladores','Dispositivos de red','Dispositivos internos','Herramientas de mano','Herramientas manuales y eléctricas','Informática','Juegos de destornilladores','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
 actualPrice: 37.48 EUR
 currency: EUR
 price: 37.48

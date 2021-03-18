@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K3Z99MF-es Adidas Continental 80 W Zapatillas de Deporte para Mujer...'
 sku: 'B07K3Z99MF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Bricolaje y herramientas','Componentes','Destornilladores','Dispositivos de red','Dispositivos internos','Herramientas de mano','Herramientas manuales y eléctricas','Informática','Juegos de destornilladores','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
 actualPrice: 58.06 EUR
 currency: EUR
 price: 58.06
