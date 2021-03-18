@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Senti2  Suero fisiológico - 60 monodosis al 45.92 % de descuento'
-date: 2021-03-07 19:05:47
+date: 2021-03-18 21:41:22
 image: 'https://m.media-amazon.com/images/I/417uoMaZYgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BHPM2IO-es Senti2 Suero fisiológico - 60 monodosis'
 sku: 'B01BHPM2IO-es'
+tags: [ 'Cuidado de la salud','Salud y cuidado personal','senti2', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Senti2'
 buyurl: 'https://www.amazon.es/dp/B01BHPM2IO/?tag=tolees-21'
 descuento: '45.92'
-average: '5.7875'
+average: '5.61'
 ---
 
 Ahora mismo tienes [Senti2  Suero fisiológico - 60 monodosis](https://www.amazon.es/dp/B01BHPM2IO/?tag=tolees-21) a 4.9 EUR (original: 9.06 EUR) (45.92 %  de descuento) en el siguiente enlace!
@@ -27,8 +28,8 @@ Ahora mismo tienes [Senti2  Suero fisiológico - 60 monodosis](https://www.amazo
 
 🔎:
 
-- Formato monodosis, estéril y sin conservantes
 - Apto para la higiene de la nariz, oídos, lavado de heridas e inhalación
 - Facilita la higiene del ojo y ayuda a retirar los posibles agentes extraños y gérmenes que pueden provocar infecciones
+- Formato monodosis, estéril y sin conservantes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BHPM2IO/?tag=tolees-21)

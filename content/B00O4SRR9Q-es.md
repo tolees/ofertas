@@ -28,11 +28,11 @@ Tienes [Pata Negra Reserva Vino Tinto D.O Valdepeñas  750ml](https://www.amazon
 
 🔎:
 
-- Aroma: Presenta un perfil aromático intenso y complejo de moca, casis y ciruela además de notas de caja de puros.
-- Apariencia: Vino tinto brillante de color rojo rubí.
 - Maridaje: Este vino tinto es óptimo para acompañar con carne a la brasa como una paletilla de cordero con patatas a las hierbas provenzales o con un surtido de quesos
 - Gusto: En boca es redondo e intenso, con buena estructura y taninos aterciopelados; deja un sabor a fruta negra y moca con un retrogusto tostado.
-- Tipo de uva: Elaborado con una selección de uvas de la variedad Tempranillo; tras la fermentación se guarda en barricas de roble americano y francés donde permanece durante 12 meses.
+- Aroma: Presenta un perfil aromático intenso y complejo de moca, casis y ciruela además de notas de caja de puros.
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo a 18 ºC y conservarlo en un lugar fresco y seco
+- Apariencia: Vino tinto brillante de color rojo rubí.
+- Tipo de uva: Elaborado con una selección de uvas de la variedad Tempranillo; tras la fermentación se guarda en barricas de roble americano y francés donde permanece durante 12 meses.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00O4SRR9Q/?tag=tolees-21)

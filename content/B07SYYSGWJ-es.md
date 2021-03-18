@@ -28,9 +28,9 @@ Ahora mismo tienes [BSDY YQWRFEWYT - Accesorio para Cecotec Conga 1390 Cecotec C
 
 🔎:
 
-- <br> Garantía de por vida. Servicio de postventa con devolución total de dinero para cualquier insatisfacción. No dude en contactarnos si tiene <br>problema para los productos o el servicio, haremos lo mejor para ofrecer a cada cliente una experiencia de compra fantástica en nuestra tienda <br>
-- <br> Limpie el filtro con frecuencia y reemplace el cepillo, filtre cada 2-3 meses para mantener su <br>Aspiradora trabajando todo el tiempo en alto rendimiento. <br>
-- <br>Kit de accesorios para los filtros de aspiradora robótica Cecotec Conga 1390 Cecotec Conga 1290, cepillos laterales, cepillo principal <br>
 - <b> El paquete incluye: </b> <br> 1 Principal Cepillo <br> 8 filtros <br> 8 Cepillos laterales <br> 2 Trapos de fregona <br> 2 Herramienta de limpieza <br>
+- <br>Kit de accesorios para los filtros de aspiradora robótica Cecotec Conga 1390 Cecotec Conga 1290, cepillos laterales, cepillo principal <br>
+- <br> Limpie el filtro con frecuencia y reemplace el cepillo, filtre cada 2-3 meses para mantener su <br>Aspiradora trabajando todo el tiempo en alto rendimiento. <br>
+- <br> Garantía de por vida. Servicio de postventa con devolución total de dinero para cualquier insatisfacción. No dude en contactarnos si tiene <br>problema para los productos o el servicio, haremos lo mejor para ofrecer a cada cliente una experiencia de compra fantástica en nuestra tienda <br>
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SYYSGWJ/?tag=tolees-21)

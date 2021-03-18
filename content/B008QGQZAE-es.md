@@ -28,9 +28,9 @@ En este momento está [Kingston DataTraveler SE9 - DTSE9H/32GB Memoria USB  32 G
 
 🔎:
 
-- Diseño elegante sin tapa
-- Capacidad de la memoria: 32 GB
 - Carcasa de metal con orificio resistente
 - Se puede enganchar fácilmente a otros dispositivos
+- Capacidad de la memoria: 32 GB
+- Diseño elegante sin tapa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008QGQZAE/?tag=tolees-21)
