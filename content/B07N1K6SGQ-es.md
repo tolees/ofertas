@@ -1,32 +1,42 @@
 ---
 layout: post
-title: 'Ecovacs Deebot OZMO 900 - Robot Aspirado al 25.06 % de descuento'
-date: 2020-05-22 18:42:09
-image: 'https://m.media-amazon.com/images/I/31J2v65Q7+L._SL400_.jpg'
+title: 'Ecovacs Deebot OZMO 900 - Robot Aspirado al 38.15 % de descuento'
+date: 2021-03-17 23:28:00
+image: 'https://m.media-amazon.com/images/I/31M22GROosL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07N1K6SGQ-es Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre...'
 sku: 'B07N1K6SGQ-es'
-tags: [ 'Accesorios','Accesorios de fitness','Accesorios decorativos','Accesorios para Juegos PC','Accesorios para TV, vídeo y home cinema','Adaptadores','Adaptadores USB','Adhesivos y selladores','Alimentación y bebidas','Almacenamiento de datos','Almacenamiento de datos externo','Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Aspiradoras escoba','Auriculares para equipo de audio','Auriculares y accesorios','Barebones','Belleza','Bolsas escolares','Bolígrafos de bola','Bolígrafos y recambios','Bolígrafos, lápices y útiles de escritura','Bombillas','Bombillas Wi-Fi','Bricolaje y herramientas','Bálsamos labiales','Bóxers ajustados para hombre','Cafeteras italianas','Calzado de atletismo para mujer','Calzado de correr en montaña de hombre','Calzado deportivo  de exterior de mujer','Calzado deportivo para hombre','Calzado deportivo para mujer','Calzados de running para hombre','Calzados de running para mujer','Calzados para correr en asfalto para hombre','Camisetas de manga larga para hombre','Camisetas para hombre','Camisetas, polos y camisas para hombre','Cervezas, vinos y licores','Chalecos de fútbol para hombre','Chaquetas para mujer','Cinturones de masaje y electroestimuladores para fitness','Climatización y calefacción','Collares  para mujer','Componentes','Comunicación móvil y accesorios','Cremas corporales','Cremas diurnas faciales','Cremas para pies','Cuchillos de cocina','Cuidado diurno facial','Cámaras compactas digitales','Cámaras digitales','Decoración del hogar','Deportes y aire libre','Discos duros externos','Dispositivos internos','Electroestimuladores de fitness','Electrónica','Entrenamiento de la fuerza','Equipaje','Equipos e indumentaria de seguridad','Exprimidores eléctricos','Ferretería','Figuras interactivas para Nintendo 3DS y 2DS','Fitness y ejercicio','Fotografía y videocámaras','Fuentes de alimentación','Fútbol','Guirnaldas luminosas','Guirnaldas luminosas de exterior-interior','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hidratantes corporales','Hidratantes faciales','Hogar y cocina','Iluminación','Informática','Jerséis para hombre','Jerséis, cárdigans y sudaderas para hombre','Joyería','Joyería para mujer','Juego de mesa','Juegos de cuchillos de cocina','Juegos de estrategia','Juegos de tablero','Juegos educativos de lectura y escritura','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Juegos y accesorios para juegos','Juguetes','Juguetes educativos','Juguetes y juegos','Licuadoras multifunción','Licuadoras y exprimidores eléctricos','Lociones corporales','Manicura y pedicura','Mascarillas de seguridad con forma de copa antipolvo','Mascarillas y respiradores','Memorias USB','Mochilas, estuches y sets escolares','Moldes y bandejas para hielo','Muebles de hogar','Muebles de salón','Muñecas bebé','Muñecas y accesorios','Móviles','Móviles decorativos','Móviles y smartphones libres','Náuticos para hombre','Oficina y papelería','Pegamentos instantáneos','Pequeño electrodoméstico','Polos para hombre','Prevención y seguridad','Productos para el cuidado de la cara','Productos para el cuidado de la piel','Productos para el cuidado de la piel corporal','Productos para el cuidado de las manos y de los pies','Productos para el cuidado de los labios','Proyectores','Pulseras para mujer','Ratones','Ratones para gamers para PC','Relojes','Relojes de pulsera para hombres','Relojes para hombre','Robots aspiradores','Ropa','Ropa de abrigo para mujer','Ropa de fútbol','Ropa de fútbol para hombre','Ropa deportiva para niño','Ropa interior para hombre','Ropa para hombre','Ropa para mujer','Ropa para niño','Sandalias de vestir para hombre','Sistemas precursores y micro consolas','Sofás de salón','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Teclados, ratones y periféricos de entrada','Tronco y abdominales','Utensilios de bar','Utensilios de cocina','Utensilios para café y té','Vaqueros para hombre','Vaqueros para mujer','Ventiladores','Ventiladores de torre','Videojuegos','Vinos','Vinos blancos','Zapatillas casual para hombre','Zapatillas casual para mujer','Zapatillas y calzado deportivo para hombre','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para hombre','Zapatos para mujer','Zapatos y complementos', ]
-actualPrice: 299.0 EUR
+tags: [ 'Aspiración, limpieza y cuidado de suelo y ventanas','Aspiradoras','Bricolaje y herramientas','Destornilladores','Herramientas de mano','Herramientas manuales y eléctricas','Hogar y cocina','Juegos de destornilladores','Robots aspiradores','ecovacs', ]
+actualPrice: 246.79 EUR
 currency: EUR
-price: 299.0
+price: 246.79
 comparePrice: 399.0 EUR
 prodname: 'Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre  aspira  pasa mopa y friega  mapeo inteligente láser  compatible con Alexa  App  Wifi  reanuda limpieza tras recarga  reporte por voz  blanco'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'ECOVACS'
 buyurl: 'https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21'
-descuento: '25.06'
-average: '307.65714285714284'
+descuento: '38.15'
+average: '302.364347826087'
 ---
 
-Está [Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre  aspira  pasa mopa y friega  mapeo inteligente láser  compatible con Alexa  App  Wifi  reanuda limpieza tras recarga  reporte por voz  blanco](https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21) con 25.06 de descuento por 299.0 EUR (original: 399.0 EUR) en el siguiente enlace!
+Está [Ecovacs Deebot OZMO 900 - Robot Aspirador 4 en 1: barre  aspira  pasa mopa y friega  mapeo inteligente láser  compatible con Alexa  App  Wifi  reanuda limpieza tras recarga  reporte por voz  blanco](https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21) con 38.15 de descuento por 246.79 EUR (original: 399.0 EUR) en el siguiente enlace!
 
-[![Ecovacs Deebot OZMO 900 - Robot Aspirado](https://m.media-amazon.com/images/I/31J2v65Q7+L._SL400_.jpg)](https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21)
+[![Ecovacs Deebot OZMO 900 - Robot Aspirado](https://m.media-amazon.com/images/I/31M22GROosL._SL400_.jpg)](https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21)
 
 ℹ️:
 
+- Utilizando la aplicación ECOVACS, se pueden crear barreras virtuales con el móvil en el mapa para priorizar o bloquear áreas para que el aspirador inteligente automático limpie donde sea necesario
+- Carga automática: Recarga y reanuda la limpieza; autonomía (min): 100; detecta obstáculos y escaleras
+- 4 modos de limpieza: Auto (Limpieza sistemática habitación por habitación); Área (Seleccione áreas prioritarias de limpieza), Personalizado (Dibuje áreas específicas en el mapa que requieran limpieza)
+- Contenido de envío: 1x Robot aspirador ECOVACS DEEBOT OZMO 900 /1x Cepillo principal/4x Cepillos laterales/2x filtro de polvo fino/1x Estación de carga
+- Modo MAX (Duplica el poder de succión para una limpieza en profundidad); modo de succión: Succión Intercambiable (Succión directa & Cepillo Principal V)
+- La tecnología de Navegación Smart Navi 3.0 equipa a tu robot con láser, permitiéndole navegar de manera inteligente y desarrolar un mapa preciso de tu hogar
+- Para limpieza en profundidad, utilice el cepillo principal, adecuado para moquetas o alfombras, mientras que la aspiración directa se adapta a suelos duros o al pelo de animales
+- Control por Alexa & Google Home; mapa visual e informe limpieza, Límites virtuales y modo Área
+- Así podrás programar tu robot estableciendo límites virtuales para indicarle las zonas a evitar al realizar la limpieza
+- Tecnología de Fregado: Tecnología OZMO que permite al robot aspirar y fregar de manera simultánea regulando con bomba inteligente el flujo de agua que has elegido desde la App
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N1K6SGQ/?tag=tolees-21)
