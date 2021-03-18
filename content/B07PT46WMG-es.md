@@ -29,8 +29,8 @@ Está [Poopsie Slime Surprise - Tooties Fart Jacob  Giochi Preziosi PPE19000 ](h
 ℹ️:
 
 - Incluye 1 Cutie Tootie escondido dentro del tapón dorado
-- Tiene un armario para organizar y guardar toda tu colección y poder llevártela donde quieras
-- Vitrina Fart Jacobs: estuche coleccionable para llaveros Poopsie, Cutie Tooties, Sparkly Critters
 - Los compartimentos son de tamaño ajustable
+- Vitrina Fart Jacobs: estuche coleccionable para llaveros Poopsie, Cutie Tooties, Sparkly Critters
+- Tiene un armario para organizar y guardar toda tu colección y poder llevártela donde quieras
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PT46WMG/?tag=tolees-21)

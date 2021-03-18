@@ -28,8 +28,8 @@ Está [Skechers Summits  Zapatillas Deportivas Mujer  Azul Navy Aqua  37 EU](htt
 
 ℹ️:
 
+- adulto
 - Blue
 - synthetic
-- adulto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076TBMWBZ/?tag=tolees-21)

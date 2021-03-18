@@ -28,10 +28,10 @@ Tienes [Brabantia 298301 - Tarro de Cristal  0.3 L  Tapa Gris Oscuro](https://ww
 
 🔎:
 
-- Diseño apilable (con otros tarros Brabantia) para un mejor aprovechamiento del espacio
 - Disponible en varios tamaños
-- Cierre hermético, conservan los alimentos frescos durante mas tiempo
-- Fabricados con cristal resistente y ligero
+- Diseño apilable (con otros tarros Brabantia) para un mejor aprovechamiento del espacio
 - Aptos para el lavavajillas
+- Fabricados con cristal resistente y ligero
+- Cierre hermético, conservan los alimentos frescos durante mas tiempo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00JFWP5U4/?tag=tolees-21)

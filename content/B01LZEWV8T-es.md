@@ -28,10 +28,10 @@ En este momento está [Einhell GC-CS 85 E - Afilador para cadenas de motosierra 
 
 🔎:
 
-- Escala para un ajuste exacto del ángulo de afilado
 - Disco de afilado
 - Tope de profundidad
 - Dispositivo de fijación de la cadena
 - Pantalla transparente
+- Escala para un ajuste exacto del ángulo de afilado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LZEWV8T/?tag=tolees-21)

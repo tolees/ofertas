@@ -28,8 +28,8 @@ Tienes [O NEILL PM Original Cali Pantalones Cortos  Hombre  Azul  Scale   XS](ht
 
 🔎:
 
+- Logo lateral
 - Boardshorts Elasticated
 - Regular fit
-- Logo lateral
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z9PBRMW/?tag=tolees-21)
