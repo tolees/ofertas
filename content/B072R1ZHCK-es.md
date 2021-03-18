@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072R1ZHCK-es 24 Tubos de Pintura de Acuarela de Zenacolor - Pintura de...'
 sku: 'B072R1ZHCK-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DR2PLGQ-es WERNNSAI Manta de Hito de la Jungla - 150 x 100 cm Franela...'
 sku: 'B08DR2PLGQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

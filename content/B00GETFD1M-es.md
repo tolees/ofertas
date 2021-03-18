@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GETFD1M-es American Crew Nine Agua De Perfume Hombre - 75 ml.'
 sku: 'B00GETFD1M-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

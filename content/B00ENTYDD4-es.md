@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ENTYDD4-es The North Face M Resolve Chaqueta Hombre TNF Red/Cardina M'
 sku: 'B00ENTYDD4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 59.44 EUR
 currency: EUR
 price: 59.44

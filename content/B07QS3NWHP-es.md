@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QS3NWHP-es Swiss Home Set Black 16/20/24 y Batería Cocina Acero...'
 sku: 'B07QS3NWHP-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 58.83 EUR
 currency: EUR
 price: 58.83

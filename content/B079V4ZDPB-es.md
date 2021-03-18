@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079V4ZDPB-es Wrangler Skinny Vaqueros Skinny Mujer Azul Tainted Blue...'
 sku: 'B079V4ZDPB-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 31.71 EUR
 currency: EUR
 price: 31.71

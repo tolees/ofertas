@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XL0N60W-es Orbegozo TF 0123 Ventilador de sobremesa 25 W Blanco y negro'
 sku: 'B00XL0N60W-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

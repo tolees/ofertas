@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MR10E2Y-es G-Star 60885 Vaqueros para Mujer Negro Dark Aged 6545 W24/L30'
 sku: 'B00MR10E2Y-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

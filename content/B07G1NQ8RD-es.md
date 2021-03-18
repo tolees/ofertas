@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G1NQ8RD-es Fitbit Charge 3 Pulsera Avanzada de Salud y Actividad...'
 sku: 'B07G1NQ8RD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

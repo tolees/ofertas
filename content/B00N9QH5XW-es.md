@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N9QH5XW-es Helly Hansen HH Duffel Bag 2 30L Bolsa de Viaje Unisex...'
 sku: 'B00N9QH5XW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

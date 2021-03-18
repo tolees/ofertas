@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0752NJ4ZV-es G-STAR RAW 3301 Slim Vaqueros Rinsed 8970-082 26W / 30L...'
 sku: 'B0752NJ4ZV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 19.39 EUR
 currency: EUR
 price: 19.39

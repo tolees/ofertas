@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ILLW9VS-es Black & Decker FSM1621 Black + Decker FSMH-1621-S-Mopa...'
 sku: 'B00ILLW9VS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 94.63 EUR
 currency: EUR
 price: 94.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077J3KHTT-es BOSS T-Shirt VN 3P CO Camiseta Multicolor Miscellaneous...'
 sku: 'B077J3KHTT-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 24.69 EUR
 currency: EUR
 price: 24.69

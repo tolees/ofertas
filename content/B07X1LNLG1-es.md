@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1LNLG1-es Pepe Jeans Chepstow Vaqueros Hombre Ajustados Azul...'
 sku: 'B07X1LNLG1-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 48.02 EUR
 currency: EUR
 price: 48.02

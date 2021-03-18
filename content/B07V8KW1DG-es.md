@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8KW1DG-es Calvin Klein Instit Chest Logo Mock Neck Sudadera Gris Mid...'
 sku: 'B07V8KW1DG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 37.07 EUR
 currency: EUR
 price: 37.07

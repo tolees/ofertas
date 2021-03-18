@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R8HH7JG-es Vans OLD SKOOL III BACKPACK Mochila tipo casual 42 cm 22 L...'
 sku: 'B07R8HH7JG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HZSINRC-es CAMPER Peu Cami Damen Sneakers Grau Lt. Pastel Grey 36 EU'
 sku: 'B00HZSINRC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

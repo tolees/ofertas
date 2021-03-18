@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O8ZWTA2-es H.Koenig TRT180 Tart Express 1800 W Acero Inoxidable Rojo'
 sku: 'B00O8ZWTA2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

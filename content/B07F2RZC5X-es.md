@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2RZC5X-es Helly Hansen Hp Ocean Fz Hoodie Sudadera para Hombre Gris...'
 sku: 'B07F2RZC5X-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 51.64 EUR
 currency: EUR
 price: 51.64

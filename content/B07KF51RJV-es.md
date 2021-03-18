@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF51RJV-es Levi s 511 Slim Fit Vaqueros Rajah ADV 3313 33W / 32L para...'
 sku: 'B07KF51RJV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 68.49 EUR
 currency: EUR
 price: 68.49

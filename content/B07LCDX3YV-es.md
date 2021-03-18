@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LCDX3YV-es Lenovo Ideapad 330-15ICH - Ordenador Portátil 15.6" FullHD...'
 sku: 'B07LCDX3YV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 549.0 EUR
 currency: EUR
 price: 549.0

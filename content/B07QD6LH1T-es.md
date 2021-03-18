@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QD6LH1T-es PUMA Hit Feel It 7/8 Tight Mallas Deporte Mujer Black-...'
 sku: 'B07QD6LH1T-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 24.61 EUR
 currency: EUR
 price: 24.61

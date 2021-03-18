@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRLVGHS-es Kipling CLAS SEOUL Mochila escolar 45 cm 25 liters Morado...'
 sku: 'B07DRLVGHS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 52.25 EUR
 currency: EUR
 price: 52.25

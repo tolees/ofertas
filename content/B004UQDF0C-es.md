@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004UQDF0C-es Superga 2750 Zapatillas Unisex Adulto Gris Grey Stone 36 EU'
 sku: 'B004UQDF0C-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 27.55 EUR
 currency: EUR
 price: 27.55

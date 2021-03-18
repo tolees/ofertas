@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QS9F-es Napapijri Rainforest Winter 1 Chaqueta Rojo High Risk Red...'
 sku: 'B07MK1QS9F-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 80.45 EUR
 currency: EUR
 price: 80.45

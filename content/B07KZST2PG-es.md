@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KZST2PG-es EisEyen RC Auto 1: 22 2 WD Rallye Offroad Rock Crawler...'
 sku: 'B07KZST2PG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 24.14 EUR
 currency: EUR
 price: 24.14

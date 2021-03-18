@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FAMADXW-es Bosch Professional GBA 18V 2.0Ah litio 1 batería x 2.0 Ah...'
 sku: 'B00FAMADXW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 28.78 EUR
 currency: EUR
 price: 28.78

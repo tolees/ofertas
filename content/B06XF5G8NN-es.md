@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XF5G8NN-es Arcilla Seca al Aire 24 Colores Arcilla de Modelado Ultra...'
 sku: 'B06XF5G8NN-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 14.35 EUR
 currency: EUR
 price: 14.35

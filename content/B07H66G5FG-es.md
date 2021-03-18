@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H66G5FG-es 3Pares Hombre Medias Deportivas 15-20mmHg Reduce la Fatiga...'
 sku: 'B07H66G5FG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMWQ121-es Wrangler Plus Vaqueros Skinny Azul Stretch Dark 053 42 W/...'
 sku: 'B07MMWQ121-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 23.2 EUR
 currency: EUR
 price: 23.2

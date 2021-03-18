@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J1NTN7M-es Philips Lighting Bombilla LED Foco GU10 Cristal Pack de 2...'
 sku: 'B01J1NTN7M-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 5.9 EUR
 currency: EUR
 price: 5.9

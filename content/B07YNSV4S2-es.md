@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNSV4S2-es find. Hurrache Sandalias con Punta Cerrada Beige Snake 38 EU'
 sku: 'B07YNSV4S2-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

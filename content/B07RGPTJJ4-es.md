@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGPTJJ4-es Tommy Hilfiger Modern T Shirt Bra Sujetador para Camiseta...'
 sku: 'B07RGPTJJ4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

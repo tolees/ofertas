@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QT6PM1Q-es Asics Gel-Fujitrabuco 7 Zapatillas de Entrenamiento para...'
 sku: 'B07QT6PM1Q-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

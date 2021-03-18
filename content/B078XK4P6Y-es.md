@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078XK4P6Y-es Hp USB-c Universal Dock w/4.5mm Adapter USB 3.0 3.1 Gen 1 .'
 sku: 'B078XK4P6Y-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 213.57 EUR
 currency: EUR
 price: 213.57

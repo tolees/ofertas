@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5ZJ5ZJ-es Lee Elly Vaqueros Naranja Potter S Clay 93 27W / 33L para...'
 sku: 'B07P5ZJ5ZJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 15.93 EUR
 currency: EUR
 price: 15.93

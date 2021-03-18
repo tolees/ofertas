@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWH3RJR-es Esprit 079ee2k016 Camisa Manga Larga Azul Navy 400 Medium...'
 sku: 'B07RWH3RJR-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NA8WG9H-es Marco Tozzi 2-2-24215-28 514 Bailarinas Mujer Rosa Pink...'
 sku: 'B01NA8WG9H-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 12.22 EUR
 currency: EUR
 price: 12.22

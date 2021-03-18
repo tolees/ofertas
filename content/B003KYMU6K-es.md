@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003KYMU6K-es Kyocera 1T02LZ0NL0 - Tóner TK 170/FS1320/1370 color negro'
 sku: 'B003KYMU6K-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

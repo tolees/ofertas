@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V2L8JYV-es JACK & JONES PREMIUM 12154586 Abrigo Negro Black Black XX-...'
 sku: 'B07V2L8JYV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

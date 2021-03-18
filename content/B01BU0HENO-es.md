@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BU0HENO-es DEWALT DWE4056-QS - Mini Amoladora 115mm 800W 11.800 rpm'
 sku: 'B01BU0HENO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

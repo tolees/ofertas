@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFVZ9Y1-es New Balance 574v2 Zapatillas para Mujer Azul Blue Sos 39 EU'
 sku: 'B07RFVZ9Y1-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 53.07 EUR
 currency: EUR
 price: 53.07

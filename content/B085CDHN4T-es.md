@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085CDHN4T-es FMPC Carcasa con Cuerda Samsung Galaxy A7 2018 Cristal TPU...'
 sku: 'B085CDHN4T-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YMSQW39-es Kappa 304TDP0 911 S - Camiseta IRIAMI talla negro/gris S'
 sku: 'B07YMSQW39-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

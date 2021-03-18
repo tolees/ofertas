@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X4LEVMA-es Adidas 3AA2297 Calcetines Unisex Blanco 43 - 46 EU Paquete...'
 sku: 'B00X4LEVMA-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

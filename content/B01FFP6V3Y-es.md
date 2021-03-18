@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FFP6V3Y-es Under Armour Tech Tank-Twist Camiseta sin Mangas Mujer...'
 sku: 'B01FFP6V3Y-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

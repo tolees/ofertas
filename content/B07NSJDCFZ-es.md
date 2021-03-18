@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSJDCFZ-es Kipling Supertaboo Light - Bolsa de Deporte Infantil 44 cm...'
 sku: 'B07NSJDCFZ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 12.24 EUR
 currency: EUR
 price: 12.24

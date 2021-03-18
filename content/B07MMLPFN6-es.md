@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMLPFN6-es Napapijri BOVES H Sudadera con Capucha Rot Red Scarlet R01...'
 sku: 'B07MMLPFN6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 39.6 EUR
 currency: EUR
 price: 39.6

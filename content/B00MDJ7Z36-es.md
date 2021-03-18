@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MDJ7Z36-es Tesa Assa Abloy 1930908NV Barra Antipánico Universal 1930...'
 sku: 'B00MDJ7Z36-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 98.81 EUR
 currency: EUR
 price: 98.81

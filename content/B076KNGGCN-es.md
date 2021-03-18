@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076KNGGCN-es MSI WS63VR 7RL-072ES - Ordenador portátil de 15.6" UHD...'
 sku: 'B076KNGGCN-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 1957.65 EUR
 currency: EUR
 price: 1957.65

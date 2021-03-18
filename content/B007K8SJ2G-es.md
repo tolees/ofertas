@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007K8SJ2G-es Arena HYDROSOFT JR Boy HOO Zapatos de Playa y Piscina...'
 sku: 'B007K8SJ2G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

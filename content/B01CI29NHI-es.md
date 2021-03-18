@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CI29NHI-es Tefal Optigrill GC712D12 - Plancha Grill 2000 W 6 modos de...'
 sku: 'B01CI29NHI-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

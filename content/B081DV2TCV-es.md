@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DV2TCV-es KingYH 10M Cable Eléctrico Transparente 2 Núcleos 0 75 mm²...'
 sku: 'B081DV2TCV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

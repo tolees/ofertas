@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SKX2KY3-es G-Star Sp30506 Dress Vestido Negro Black 02 10 años Talla...'
 sku: 'B07SKX2KY3-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

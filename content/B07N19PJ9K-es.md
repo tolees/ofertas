@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N19PJ9K-es Lee Trend Fit Tee Camiseta para Hombre Azul Midnight Navy...'
 sku: 'B07N19PJ9K-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

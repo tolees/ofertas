@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JFLPXRZ-es Pepe Jeans Maria Pl203428 Vaqueros evasé Archive Medium...'
 sku: 'B07JFLPXRZ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 24.31 EUR
 currency: EUR
 price: 24.31

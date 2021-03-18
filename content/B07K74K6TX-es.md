@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K74K6TX-es Asics Gel-Fujitrabuco 7 M G-TX 1011a209 Zapatillas de...'
 sku: 'B07K74K6TX-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 98.91 EUR
 currency: EUR
 price: 98.91

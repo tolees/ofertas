@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073RPKHG1-es Helly Hansen HH Tech T Camiseta Hombre Gris Gris Oscuro...'
 sku: 'B073RPKHG1-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

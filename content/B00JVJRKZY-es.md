@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JVJRKZY-es Bionaire BTF001X-01 Ventilador de torre 40 W 10 litros Gris'
 sku: 'B00JVJRKZY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 36.66 EUR
 currency: EUR
 price: 36.66

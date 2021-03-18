@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QS5Q3XR-es Columbia 1420421 Chaqueta Forro Polar Hombre Rojo Red...'
 sku: 'B07QS5Q3XR-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 19.76 EUR
 currency: EUR
 price: 19.76

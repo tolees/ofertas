@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKLK6WR-es Olymbros Cámara de Caza 16MP 1080P IP66 Impermeable 24 LED...'
 sku: 'B07GKLK6WR-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 59.48 EUR
 currency: EUR
 price: 59.48

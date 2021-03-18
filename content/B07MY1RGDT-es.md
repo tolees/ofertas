@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MY1RGDT-es Vbiger Mochilas Escolares Niña 3 en 1 para 7 a 16 Años Negro'
 sku: 'B07MY1RGDT-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

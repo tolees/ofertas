@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DMSA9SU-es Trixie 13171 - Rejilla Seguridad para Coche Ancho: 96–163...'
 sku: 'B00DMSA9SU-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 56.85 EUR
 currency: EUR
 price: 56.85

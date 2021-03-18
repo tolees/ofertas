@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JTQ1Z6-es Tefal Optigrill XL GC722D - Plancha Grill 2000W 6 modos de...'
 sku: 'B071JTQ1Z6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 166.82 EUR
 currency: EUR
 price: 166.82

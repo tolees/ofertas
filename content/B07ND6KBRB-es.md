@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ND6KBRB-es dockers Smart 360 Flex Alpha Skinny Vaqueros Dark Ginger...'
 sku: 'B07ND6KBRB-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

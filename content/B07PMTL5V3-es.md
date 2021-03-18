@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PMTL5V3-es Under Armour Favorite 2.0 Bolsa Deportiva Mujer Negro OSFA'
 sku: 'B07PMTL5V3-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

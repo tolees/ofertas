@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DCDKZLS-es Puma Turin Ii Zapatillas Unisex adulto Azul Peacoat-Puma...'
 sku: 'B07DCDKZLS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

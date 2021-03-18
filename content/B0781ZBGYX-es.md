@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781ZBGYX-es Helly Hansen Lifaloft Ligera Chaqueta Aislante Mujer Black S'
 sku: 'B0781ZBGYX-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 56.38 EUR
 currency: EUR
 price: 56.38

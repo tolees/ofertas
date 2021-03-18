@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002PWABXW-es HP 516824-B21 - Disco duro 300 GB 88.9 mm 3.5 " 15000 RPM'
 sku: 'B002PWABXW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 253.7 EUR
 currency: EUR
 price: 253.7

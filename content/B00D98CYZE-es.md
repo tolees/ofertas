@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D98CYZE-es D-Link DWM-157 - Modem 3G USB 2.0 Libre HSPA+ 21.6 Mbps...'
 sku: 'B00D98CYZE-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 31.06 EUR
 currency: EUR
 price: 31.06

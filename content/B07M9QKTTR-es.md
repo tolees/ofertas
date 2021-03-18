@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9QKTTR-es G-STAR RAW Xpo Overshirt Chaqueta Negro Sartho Blue 6067...'
 sku: 'B07M9QKTTR-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 47.29 EUR
 currency: EUR
 price: 47.29

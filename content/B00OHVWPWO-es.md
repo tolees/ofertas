@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OHVWPWO-es HP Omen X9000 - Ratón con Cable Gaming 8200 PPP Negro y Rojo'
 sku: 'B00OHVWPWO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 36.91 EUR
 currency: EUR
 price: 36.91

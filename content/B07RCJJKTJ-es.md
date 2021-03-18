@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RCJJKTJ-es G-STAR RAW Graphic 1 Slim Camiseta Blanco White 110 Large...'
 sku: 'B07RCJJKTJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 19.71 EUR
 currency: EUR
 price: 19.71

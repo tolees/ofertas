@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MDTSI2X-es G-STAR RAW Lynn Mid Waist Skinny Vaqueros 3D Dark Aged...'
 sku: 'B01MDTSI2X-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

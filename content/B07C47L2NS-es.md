@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C47L2NS-es Pepe Jeans Thrift Pl400755cf7 Chaqueta Vaquera Azul Denim...'
 sku: 'B07C47L2NS-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

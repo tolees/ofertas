@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JNQ92F6-es Acer Nitro xv273kpbmiipphzx - Monitor Gaming de 27 " 144Hz...'
 sku: 'B07JNQ92F6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

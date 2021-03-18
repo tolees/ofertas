@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MTGFKQQ-es GANT The Reg BD Camisa Azul Lt Indigo 999 XX-Large para...'
 sku: 'B07MTGFKQQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

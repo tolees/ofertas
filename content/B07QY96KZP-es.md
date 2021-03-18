@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QY96KZP-es 60W Smart Wifi Lámpara de techo Luz de pan Luz LED de Wifi...'
 sku: 'B07QY96KZP-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 32.59 EUR
 currency: EUR
 price: 32.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076VS7SRQ-es G-STAR RAW 3301 Slim Vaqueros Dk Aged Cobler 7863-3143 27W...'
 sku: 'B076VS7SRQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 25.23 EUR
 currency: EUR
 price: 25.23

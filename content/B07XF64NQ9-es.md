@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XF64NQ9-es Esprit 109ee1i012 Chaqueta Punto Gris Medium Grey 5 039 Mujer'
 sku: 'B07XF64NQ9-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 19.84 EUR
 currency: EUR
 price: 19.84

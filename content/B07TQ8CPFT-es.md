@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQ8CPFT-es Calvin Klein Ckj 026 Vaqueros Slim Azul Stay Black 911 36W...'
 sku: 'B07TQ8CPFT-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 27.2 EUR
 currency: EUR
 price: 27.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VYJLF6Q-es INTEY Plastificador A4 / A5 / A6 : Función ABS / 3 minutos...'
 sku: 'B06VYJLF6Q-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 26.63 EUR
 currency: EUR
 price: 26.63

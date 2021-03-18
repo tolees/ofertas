@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QFBPF9W-es Puma ESS Logo Pants FL Cl Chándal Hombre Gibraltar Sea XXL'
 sku: 'B07QFBPF9W-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XBZ7SYJ-es Clarks Tilden Walk Zapatos de Cordones Derby Marrón Dark...'
 sku: 'B06XBZ7SYJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 48.56 EUR
 currency: EUR
 price: 48.56

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TCFR2G9-es MEDION AKOYA M80 - PCC965 Ordenador de Sobremesa Intel...'
 sku: 'B07TCFR2G9-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

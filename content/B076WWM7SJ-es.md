@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076WWM7SJ-es Amaza 150pcs Etiquetas de Papel Kraft 7cm x 2cm Gift Tags...'
 sku: 'B076WWM7SJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

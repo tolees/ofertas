@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0156X5MYO-es Panasonic DMC-GH4RE-K-Cámara Digita de 16 MP Pantalla de 3...'
 sku: 'B0156X5MYO-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 857.25 EUR
 currency: EUR
 price: 857.25

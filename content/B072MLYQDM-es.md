@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072MLYQDM-es 32GB de memoria DDR4 SO-DIMM de Apple a 2.400 MHz 2...'
 sku: 'B072MLYQDM-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 146.63 EUR
 currency: EUR
 price: 146.63

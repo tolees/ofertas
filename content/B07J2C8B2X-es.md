@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J2C8B2X-es Lee Ivy Vaqueros Azul Clean Play Zh 30W / 35L para Mujer'
 sku: 'B07J2C8B2X-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 28.13 EUR
 currency: EUR
 price: 28.13

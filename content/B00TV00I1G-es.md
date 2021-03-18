@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TV00I1G-es G-STAR RAW 3301 Tapered Jeans Azul dk aged 6576-89 31W /...'
 sku: 'B00TV00I1G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 42.66 EUR
 currency: EUR
 price: 42.66

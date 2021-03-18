@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BFQLF1G-es Bisk 00414 Deco Toallero Anillo 16 x 6 x 18.5 cm Acabado...'
 sku: 'B00BFQLF1G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 17.41 EUR
 currency: EUR
 price: 17.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STLPYDF-es Geox U Eolo A Zapatillas para Hombre Marrón Taupe C6029 42 EU'
 sku: 'B07STLPYDF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

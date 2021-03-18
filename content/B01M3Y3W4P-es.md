@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3Y3W4P-es Eye Candy ECJ-NL0067 - Collar para mujer colgante en plata...'
 sku: 'B01M3Y3W4P-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 41.14 EUR
 currency: EUR
 price: 41.14

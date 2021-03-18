@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CGJ197K-es Mini Moka Minimoka CM-1622 Cafetera Espreso 15 Bar / 1050...'
 sku: 'B01CGJ197K-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 75.1 EUR
 currency: EUR
 price: 75.1

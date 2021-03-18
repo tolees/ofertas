@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQ1MKTF-es LG SPK8 140W Negro Altavoz - Altavoces 2.0 Canales...'
 sku: 'B07DQ1MKTF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

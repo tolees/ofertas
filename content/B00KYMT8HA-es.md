@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KYMT8HA-es Geox U Siron Mocasines para Hombre Marrón Cognac C6001 39 EU'
 sku: 'B00KYMT8HA-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 51.45 EUR
 currency: EUR
 price: 51.45

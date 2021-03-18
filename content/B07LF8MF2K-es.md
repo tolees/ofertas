@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF8MF2K-es XLTOK Cable USB Tipo C Cable USB C [ 3Pack 1M +1M+2M ]...'
 sku: 'B07LF8MF2K-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

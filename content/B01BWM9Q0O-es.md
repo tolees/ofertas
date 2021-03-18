@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BWM9Q0O-es Panasonic Lumix DMC-TZ100EG-K - Cámara Compacta Premium de...'
 sku: 'B01BWM9Q0O-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 410.51 EUR
 currency: EUR
 price: 410.51

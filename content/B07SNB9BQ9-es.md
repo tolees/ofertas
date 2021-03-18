@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SNB9BQ9-es Adidas Vs Switch 2 CMF C Zapatillas de Running Unisex niño...'
 sku: 'B07SNB9BQ9-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

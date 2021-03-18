@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D9SO8G6-es Pendientes Yazilind deslumbrante Ba?ado En Plata l¨¢grima...'
 sku: 'B01D9SO8G6-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 1.68 EUR
 currency: EUR
 price: 1.68

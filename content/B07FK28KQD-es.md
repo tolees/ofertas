@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FK28KQD-es Lee Sherpa Jacket Chaqueta Vaquera Azul Vintage Worn Large...'
 sku: 'B07FK28KQD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 78.03 EUR
 currency: EUR
 price: 78.03

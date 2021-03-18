@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BGTKSNC-es G-STAR RAW 5620 3D Super Slim Vaqueros para Hombre Gris...'
 sku: 'B01BGTKSNC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 41.98 EUR
 currency: EUR
 price: 41.98

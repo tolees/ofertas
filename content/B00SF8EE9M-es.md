@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SF8EE9M-es G-STAR RAW Revend Skinny Vaqueros Dk Aged 6590-89 36W /...'
 sku: 'B00SF8EE9M-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 37.25 EUR
 currency: EUR
 price: 37.25

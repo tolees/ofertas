@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCCJVLD-es Napapijri Elbas 3 Polo Azul Ultramarine BLU Bb41 XXL para...'
 sku: 'B07VCCJVLD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

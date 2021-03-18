@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0013LNAE8-es Dewalt DW745-QS Sierra 1.700W-diámetro de 250 mm-Mesa 630...'
 sku: 'B0013LNAE8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 317.0 EUR
 currency: EUR
 price: 317.0

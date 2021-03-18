@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F60RTJ4-es Equip 625423 - Cable de Red 0 25 m Cat6 U/UTP UTP RJ-45...'
 sku: 'B00F60RTJ4-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 0.95 EUR
 currency: EUR
 price: 0.95

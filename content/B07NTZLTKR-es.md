@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NTZLTKR-es Skechers Ultra Flex 2.0 Kelmer Zapatillas para Hombre Azul...'
 sku: 'B07NTZLTKR-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 31.64 EUR
 currency: EUR
 price: 31.64

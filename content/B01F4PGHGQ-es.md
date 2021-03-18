@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F4PGHGQ-es XP-Pen G430S Tableta Gráfica 4x3 Pulgadas Tableta de Dibujo'
 sku: 'B01F4PGHGQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4SGRL5-es Pepe Jeans Hatch Vaqueros Ajustados Azul 000denim 000 40W...'
 sku: 'B07X4SGRL5-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 42.92 EUR
 currency: EUR
 price: 42.92

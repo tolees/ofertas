@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF5W5ZQ-es Levi s 2pk Crewneck Graphic Camiseta Multicolor 2 Pack Hm...'
 sku: 'B07LF5W5ZQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 22.08 EUR
 currency: EUR
 price: 22.08

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVJSCSB-es KEXIN 64GB Memoria USB 2.0 Llave Pendrive 64GB Memoria...'
 sku: 'B07QVJSCSB-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

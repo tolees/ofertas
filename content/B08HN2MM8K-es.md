@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HN2MM8K-es Docooler 10"-17" Pulgadas Gaming Laptop Cooler Cooling Pad...'
 sku: 'B08HN2MM8K-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

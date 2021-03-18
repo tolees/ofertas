@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BNRJP1E-es Superga 2750 COTU Classic Zapatillas Unisex Lt Grey 506 41 EU'
 sku: 'B00BNRJP1E-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 36.17 EUR
 currency: EUR
 price: 36.17

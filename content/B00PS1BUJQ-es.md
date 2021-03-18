@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PS1BUJQ-es D-Link DHP-601AV 2x DHP-600AV Kit PLC PowerLine AV2 1000...'
 sku: 'B00PS1BUJQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 44.88 EUR
 currency: EUR
 price: 44.88

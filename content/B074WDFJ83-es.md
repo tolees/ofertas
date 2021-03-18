@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074WDFJ83-es Puma PUMA UNISEX SNEAKER PLAIN 3P Calcetines Unisex adulto...'
 sku: 'B074WDFJ83-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Juegos y Accesorios para PC','Mochilas para portátiles y netbooks','Routers','Tarjetas de red','Videojuegos', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Adaptadores de red','Adaptadores de red USB','Bolsas y fundas para portátiles y netbooks','Componentes','Dispositivos de red','Dispositivos internos','Informática','Mochilas para portátiles y netbooks','Routers','Tarjetas de red', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99
