@@ -28,8 +28,8 @@ Tienes [Pepe Jeans Waldo Camiseta  Blanco  Optic White 802   14 años para Niño
 
 ℹ️:
 
-- Fabricada en tejido ligero que ofrece comodidad
 - Camiseta para niños
+- Fabricada en tejido ligero que ofrece comodidad
 - Tiene estampado la marca Pepe Jeans
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0779K5MLS/?tag=tolees-21)

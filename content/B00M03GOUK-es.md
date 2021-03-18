@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'CAMEO - The fake [Blu-ray] con un 35.74 % de descuento'
-date: 2021-03-17 16:30:46
+date: 2021-03-18 16:45:51
 image: 'https://m.media-amazon.com/images/I/51SqBXoR+4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00M03GOUK-es CAMEO - The fake [Blu-ray]'
 sku: 'B00M03GOUK-es'
+tags: [ 'Anime','Blu-ray','Featured Categories','Películas','Películas y TV','cameo', ]
 actualPrice: 6.42 EUR
 currency: EUR
 price: 6.42

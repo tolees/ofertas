@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Beko SGA7126P Centro de Planchado  2600  al 37.96 % de rebaja'
-date: 2021-03-02 08:55:29
+date: 2021-03-18 16:15:04
 image: 'https://m.media-amazon.com/images/I/41cIdv764rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07239VFPV-es Beko SGA7126P Centro de Planchado 2600 W Golpe de vapor...'
 sku: 'B07239VFPV-es'
+tags: [ 'Centros de planchado','Electrónica','Hogar y cocina','Planchas, centros de planchado y accesorios','beko', ]
 actualPrice: 58.88 EUR
 currency: EUR
 price: 58.88

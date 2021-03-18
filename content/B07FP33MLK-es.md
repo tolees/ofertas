@@ -28,10 +28,10 @@ En este momento está [OMERIL Linterna Frontal LED  2 Pack   Super Brillante Lin
 
 🔎:
 
+- 🌙 3 Modos de Brillo y 60° Ajustable - Uno botón para controlar los linterna frontal 3 modos de luz - Alto / Bajo / Estroboscópico (SOS). La base ajustable de 60° le permite enfocar la luz donde la necesita.
 - 🌙 Uso en Interiores y Exteriores - Linterna Frontal Led ideal para adultos y niños - pasear perros, caminar, trotar, ciclismo, pescar de noche, acampar, cazar, exploración de cuevas, reparaciones nocturnas, lectura nocturna y mucho más.
-- 🌙 COB Linterna Frontal (2 Pack) - La lámpara de cabeza COB de tecnología avanzada es más brillante que otras linterna frontal LED normales y consume menos energía. Puede usar hasta un 80% más en la misma batería. Máx 150 lúmenes, vida útil de 100.000 horas.
 - 🌙 Súper Ligero y Ajustable - La linterna frontal solo pesa 69g, fácil de usar y sin presión sobre el uso de luz de cabeza. La diadema elástica y antideslizante ayuda a que la frontal led se adapte a niños o adultos, incluso si usas un casco.
 - 🌙 Super Brillante - Los luz frontal de 150 lúmenes pueden iluminar su camino hasta 98.42ft/30 m. Se incluyen 6 pilas AAA para su comodidad, lo cual es más seguro que el linterna frontal de carga USB.
-- 🌙 3 Modos de Brillo y 60° Ajustable - Uno botón para controlar los linterna frontal 3 modos de luz - Alto / Bajo / Estroboscópico (SOS). La base ajustable de 60° le permite enfocar la luz donde la necesita.
+- 🌙 COB Linterna Frontal (2 Pack) - La lámpara de cabeza COB de tecnología avanzada es más brillante que otras linterna frontal LED normales y consume menos energía. Puede usar hasta un 80% más en la misma batería. Máx 150 lúmenes, vida útil de 100.000 horas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07FP33MLK/?tag=tolees-21)
