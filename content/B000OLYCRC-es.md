@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 43.89 % en TRIXIE Cama Suave  Cobayas  30 x 22 cm  '
-date: 2021-03-17 04:35:30
+date: 2021-03-19 19:51:08
 image: 'https://m.media-amazon.com/images/I/41pI4GQSzNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B000OLYCRC-es TRIXIE Cama Suave Cobayas 30 x 22 cm Gris-Verde Pequeños...'
 sku: 'B000OLYCRC-es'
+tags: [ 'Artículos para animales pequeños','Artículos para perros','Camas para animales pequeños','Camas y muebles para perros','Casas y hábitats animales pequeños','Productos para mascotas','Sofás y sillas para perros','trixie', ]
 actualPrice: 4.18 EUR
 currency: EUR
 price: 4.18
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trixie'
 buyurl: 'https://www.amazon.es/dp/B000OLYCRC/?tag=tolees-21'
 descuento: '43.89'
-average: '4.27166666666666'
+average: '4.26461538461538'
 ---
 
 Tienes [TRIXIE Cama Suave  Cobayas  30 x 22 cm  Gris-Verde  Pequeños Mamíferos](https://www.amazon.es/dp/B000OLYCRC/?tag=tolees-21) con un 43.89 % de descuento con precio de oferta de 4.18 EUR (original: 7.45 EUR) en el siguiente enlace!
@@ -27,9 +28,9 @@ Tienes [TRIXIE Cama Suave  Cobayas  30 x 22 cm  Gris-Verde  Pequeños Mamíferos
 
 ℹ️:
 
-- reversible
-- nylon/imitación borreguillo
-- funda poliéster
 - relleno fibra de poliéster (en una sola pieza)
+- reversible
+- funda poliéster
+- nylon/imitación borreguillo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000OLYCRC/?tag=tolees-21)
