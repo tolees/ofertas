@@ -29,9 +29,9 @@ En este momento está [StarTech.com MDP2HD4K60S - Adaptador conversor Mini Displ
 🔎:
 
 - Asombrosa calidad de imágenes gracias a la compatibilidad con resoluciones 4K UHD a 60Hz
-- No requiere adaptador de corriente
-- Instalación plug-and-play
-- Configuración sencilla, con conversión activa de Mini DisplayPort
 - Máxima portabilidad, con un diseño compacto, de peso ligero
+- Configuración sencilla, con conversión activa de Mini DisplayPort
+- Instalación plug-and-play
+- No requiere adaptador de corriente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M24BCN3/?tag=tolees-21)
