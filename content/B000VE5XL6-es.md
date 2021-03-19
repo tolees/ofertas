@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'Casio Collection W-800H-1AVES  Reloj Dig al 36.91 % de descuento'
-date: 2021-03-12 18:24:07
+title: 'Casio Collection W-800H-1AVES  Reloj Dig al 42.89 % de descuento'
+date: 2021-03-19 11:48:20
 image: 'https://m.media-amazon.com/images/I/51q5oz0Ib5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VE5XL6-es Casio Collection W-800H-1AVES Reloj Digital Unisex Negro'
 sku: 'B000VE5XL6-es'
-actualPrice: 22.08 EUR
+tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes para hombre','casio', ]
+actualPrice: 19.99 EUR
 currency: EUR
-price: 22.08
+price: 19.99
 comparePrice: 35.0 EUR
 prodname: 'Casio Collection W-800H-1AVES  Reloj Digital Unisex  Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Casio'
 buyurl: 'https://www.amazon.es/dp/B000VE5XL6/?tag=tolees-21'
-descuento: '36.91'
-average: '20.9664150943393'
+descuento: '42.89'
+average: '20.9542857142854'
 ---
 
-Está [Casio Collection W-800H-1AVES  Reloj Digital Unisex  Negro](https://www.amazon.es/dp/B000VE5XL6/?tag=tolees-21) con 36.91 de descuento por 22.08 EUR (original: 35.0 EUR) en el siguiente enlace!
+Está [Casio Collection W-800H-1AVES  Reloj Digital Unisex  Negro](https://www.amazon.es/dp/B000VE5XL6/?tag=tolees-21) con 42.89 de descuento por 19.99 EUR (original: 35.0 EUR) en el siguiente enlace!
 
 [![Casio Collection W-800H-1AVES  Reloj Dig](https://m.media-amazon.com/images/I/51q5oz0Ib5L._SL400_.jpg)](https://www.amazon.es/dp/B000VE5XL6/?tag=tolees-21)
 
 ℹ️:
 
-- Incluye cronómetro, alarma, función de despertador y calendario automático
 - Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
 - Resistente al agua hasta 10 bar / 100 metros
-- La duración de la batería es de 10 años
+- Incluye cronómetro, alarma, función de despertador y calendario automático
 - Caja y correa de resina sintética, un material resistente y flexible
+- La duración de la batería es de 10 años
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B000VE5XL6/?tag=tolees-21)

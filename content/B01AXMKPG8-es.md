@@ -29,8 +29,8 @@ En este momento está [Philips OneBlade Pro QP6510/30 - Recortador de barba con 
 🔎:
 
 - Incluye recortador de precisión ajustable a 12 longitudes: 0,5 a 9 mm
+- Uso en seco o en húmedo, incluso en la ducha
 - Recorta, perfila y afeita cualquier longitud de pelo
 - Batería de larga duración: 60 minutos en cada uso con 1 hora de carga
-- Uso en seco o en húmedo, incluso en la ducha
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01AXMKPG8/?tag=tolees-21)

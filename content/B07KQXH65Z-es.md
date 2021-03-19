@@ -28,10 +28,10 @@ Tienes [HyperX HX-HSCAM-GM Cloud MIX - Cascos de gaming con cable y Bluetooth  C
 
 ℹ️:
 
+- Micrófono de jirafa extraíble y micrófono integrado
+- Auriculares de juego con cable y certificación de audio Hi-Res
 - Controladores de doble cámara de HyperX para una mejor distinción y menos distorsión
 - Comodidad y resistencia características de HyperX
-- Auriculares de juego con cable y certificación de audio Hi-Res
 - Tecnología inalámbrica Bluetooth para la conectividad sobre la marcha
-- Micrófono de jirafa extraíble y micrófono integrado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KQXH65Z/?tag=tolees-21)

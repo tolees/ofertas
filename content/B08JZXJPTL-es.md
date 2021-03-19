@@ -28,12 +28,12 @@ En este momento está [Microsoft Surface Pro X - Ordenador portátil 2 en 1 de 1
 
 🔎:
 
+- Memoria RAM de 16GB LPDDR4X
+- Microsoft SQ2 Adreno 690
 - Lo Surface más delgado y siempre conectado con solo 774g
 - Sistema operativo Windows 10 Home
-- No incluye Type Cover, funda con teclado
-- Microsoft SQ2 Adreno 690
-- Memoria RAM de 16GB LPDDR4X
 - Pantalla táctil de 13 pulgadas, 2880x1920 pixels
 - Disco duro sólido de 256GB
+- No incluye Type Cover, funda con teclado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JZXJPTL/?tag=tolees-21)
