@@ -28,9 +28,9 @@ En este momento está [sera Raffy Baby Gran  100 ml](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Para un desarrollo óptimo
 - Con 4 % germen de trigo
 - Crecimiento saludable de concha y esqueleto
+- Para un desarrollo óptimo
 - Crianza de alimentos para terrapinas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00178NHZE/?tag=tolees-21)

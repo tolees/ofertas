@@ -28,9 +28,9 @@ Tienes [oodji Ultra Mujer Pantalones Cortos Vaqueros con Rasgaduras  Azul  XXS](
 
 🔎:
 
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji.
-- Longitud de costura interior (talla M): 4cm
 - Impresionantes shorts ajustados llenos de estilo
+- Longitud de costura interior (talla M): 4cm
 - Perfectos para cear un llamativo look de verano de estilo casual
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KDYMN64/?tag=tolees-21)
