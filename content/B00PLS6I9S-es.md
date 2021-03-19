@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'STANLEY STST1-73615 - Bolsa para herrami al 39.80 % de rebaja'
-date: 2021-03-18 04:48:04
+date: 2021-03-19 04:59:53
 image: 'https://m.media-amazon.com/images/I/413JNCuKaSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00PLS6I9S-es STANLEY STST1-73615 - Bolsa para herramientas profunda de...'
 sku: 'B00PLS6I9S-es'
+tags: [ 'Bolsas portaherramientas','Bricolaje y herramientas','Herramientas manuales y eléctricas','Organizadores de herramientas','stanley', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Stanley'
 buyurl: 'https://www.amazon.es/dp/B00PLS6I9S/?tag=tolees-21'
 descuento: '39.80'
-average: '14.3240462427746'
+average: '14.3278735632185'
 ---
 
 Tienes [STANLEY STST1-73615 - Bolsa para herramientas profunda de tapa plana 14" / 34 cm](https://www.amazon.es/dp/B00PLS6I9S/?tag=tolees-21) con precio final de  14.99 EUR (original: 24.9 EUR) (39.80 %  de rebaja) aqui!
@@ -28,8 +29,8 @@ Tienes [STANLEY STST1-73615 - Bolsa para herramientas profunda de tapa plana 14"
 🔎:
 
 - Dispone de grandes cremalleras engomadas, apertura suave y fácil, así como un asa para el hombro para facilitar su transporte
-- Medidas (cm): 34 x 21 x 24
-- Bolsa profunda de tapa plana diseñada en una tela de poliéster muy resistente (denier de 600 x 600) y con soporte de plástico en la base para proteger de la suciedad
 - Múltiples bolsillos que permiten una organización fácil y cómoda, así como el almacenamiento por separado de piezas pequeñas y objetos personales
+- Bolsa profunda de tapa plana diseñada en una tela de poliéster muy resistente (denier de 600 x 600) y con soporte de plástico en la base para proteger de la suciedad
+- Medidas (cm): 34 x 21 x 24
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00PLS6I9S/?tag=tolees-21)
