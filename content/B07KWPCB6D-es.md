@@ -28,8 +28,8 @@ Está [Helly Hansen Tokyo T-Shirt  Hombre  Grey Mélange  M](https://www.amazon.
 
 ℹ️:
 
-- De la marca Helly Hansen.
 - De alta calidad.
+- De la marca Helly Hansen.
 - Tejido principal de algodón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KWPCB6D/?tag=tolees-21)

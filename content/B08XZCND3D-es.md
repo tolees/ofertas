@@ -28,10 +28,10 @@ En este momento está [Todiri Mini Humidificador Portátil 300ml Humidificador D
 
 🔎:
 
-- ✅ Belleza: refresca la piel y se puede tomar como cuidado de la piel, mantiene la piel sana y húmeda
-- ✅ Humidificar: humedece el aire de la habitación durante el verano y el invierno, refresca la calidad del aire que respiramos.
-- ✅ Decoración: elige la luz que te guste para que la habitación sea romántica y feliz, huela bien
-- ✅ Purificar: neutraliza la estática, reduce la infección de la piel
 - ✅ Alivio: aromaterapia, alivia el estrés.
+- ✅ Purificar: neutraliza la estática, reduce la infección de la piel
+- ✅ Humidificar: humedece el aire de la habitación durante el verano y el invierno, refresca la calidad del aire que respiramos.
+- ✅ Belleza: refresca la piel y se puede tomar como cuidado de la piel, mantiene la piel sana y húmeda
+- ✅ Decoración: elige la luz que te guste para que la habitación sea romántica y feliz, huela bien
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08XZCND3D/?tag=tolees-21)

@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Tommy Hilfiger - Tommy Jeans Hombre SCAN con un 51.66 % de descuento'
-date: 2021-03-17 16:54:35
+title: 'Tommy Hilfiger - Tommy Jeans Hombre SCAN con un 57.88 % de descuento'
+date: 2021-03-19 20:40:13
 image: 'https://m.media-amazon.com/images/I/31w7p7+e25L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0841D3WPS-es Tommy Hilfiger - Tommy Jeans Hombre SCANTON SLIM OLBBCF...'
 sku: 'B0841D3WPS-es'
-actualPrice: 45.92 EUR
+tags: [ 'Ropa','Ropa para hombre','Vaqueros para hombre','tommy hilfiger', ]
+actualPrice: 40.01 EUR
 currency: EUR
-price: 45.92
+price: 40.01
 comparePrice: 95.0 EUR
 prodname: 'Tommy Hilfiger - Tommy Jeans Hombre SCANTON SLIM OLBBCF Pantalones  Oslo Blue Bk Com  W29/L30'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B0841D3WPS/?tag=tolees-21'
-descuento: '51.66'
-average: '46.79'
+descuento: '57.88'
+average: '45.434'
 ---
 
-En este momento está [Tommy Hilfiger - Tommy Jeans Hombre SCANTON SLIM OLBBCF Pantalones  Oslo Blue Bk Com  W29/L30](https://www.amazon.es/dp/B0841D3WPS/?tag=tolees-21) a 45.92 EUR (original: 95.0 EUR) (51.66 %  de descuento) en el siguiente enlace!
+En este momento está [Tommy Hilfiger - Tommy Jeans Hombre SCANTON SLIM OLBBCF Pantalones  Oslo Blue Bk Com  W29/L30](https://www.amazon.es/dp/B0841D3WPS/?tag=tolees-21) a 40.01 EUR (original: 95.0 EUR) (57.88 %  de descuento) en el siguiente enlace!
 
 [![Tommy Hilfiger - Tommy Jeans Hombre SCAN](https://m.media-amazon.com/images/I/31w7p7+e25L._SL400_.jpg)](https://www.amazon.es/dp/B0841D3WPS/?tag=tolees-21)
 

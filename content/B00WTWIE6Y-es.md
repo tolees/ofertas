@@ -28,10 +28,10 @@ Está [OKI 45862839 - Cartucho de tóner](https://www.amazon.es/dp/B00WTWIE6Y/?t
 
 ℹ️:
 
-- Dispositivos compatibles: MC853
+- Número de páginas impresas: 7300
 - Producto de alto rendimiento
 - Alta calidad
 - Colores vivos
-- Número de páginas impresas: 7300
+- Dispositivos compatibles: MC853
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00WTWIE6Y/?tag=tolees-21)
