@@ -29,7 +29,7 @@ En este momento está [Levi s Original Hm tee Camiseta  LS Cotton + Patch Dress 
 🔎:
 
 - Elaborada en punto suave
-- Con un discreto logo en el pecho
 - Modelo casual
+- Con un discreto logo en el pecho
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K733WTX/?tag=tolees-21)
