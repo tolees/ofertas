@@ -29,7 +29,7 @@ Ahora mismo tienes [Stor Botella HIDRO 850 ML | Rick & Morty](https://www.amazon
 🔎:
 
 - Elegante botella reutilizable y decorada con elegantes diseños basados en algunos de los personajes más representativos del mundo del cine. Dispone de un tapón de rosca metálico para evitar goteos y derrames accidentales. Ideal para llevar tu bebida favorita allá donde vayas o para que la tengas siempre disponible en tu lugar de trabajo o estudio habitual. - Libre de BPA - Capacidad: 850 ml. - Licencias Oficiales
-- Todos los productos de la marca Stor están libres de BPA y han pasado los tests requeridos en su categoría para cumplir con la normativa Europea.
 - Producto con licencia oficial, 100% original.
+- Todos los productos de la marca Stor están libres de BPA y han pasado los tests requeridos en su categoría para cumplir con la normativa Europea.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JVJFPQR/?tag=tolees-21)

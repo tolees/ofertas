@@ -28,8 +28,8 @@ Tienes [Cosmoplast Apósitos Impermeables - 20 Unidades](https://www.amazon.es/d
 
 🔎:
 
+- Parafarmacia: Parafarmacia
 - Marca: Cosmoplast
 - Género: Unisex Adulto
-- Parafarmacia: Parafarmacia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01H5VLQ9A/?tag=tolees-21)
