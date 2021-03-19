@@ -29,8 +29,8 @@ Ahora mismo tienes [ONLY Onlava Pu Biker Otw Noos - Chaqueta para mujer  color n
 🔎:
 
 - Bolsillos con cremallera.
+- Composición del material: material exterior: 100% viscosa; forro: 100% poliéster
 - Chaqueta corta con aspecto de piel.
 - Cremallera asimétrica hasta abajo.
-- Composición del material: material exterior: 100% viscosa; forro: 100% poliéster
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00V4UVAH2/?tag=tolees-21)

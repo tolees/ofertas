@@ -28,9 +28,9 @@ En este momento está [Sony ICF-P36 - Radio analógico portátil FM/AM  negro  1
 
 🔎:
 
-- Indicadores de estado de carga y sintonización LED
-- Toma de auriculares dedicada para una escucha personal
 - Correa de mano integrada para una mayor portabilidad
+- Toma de auriculares dedicada para una escucha personal
+- Indicadores de estado de carga y sintonización LED
 - Funciona con 2 pilas AA
 - Sintonizador de radio AM/FM integrado
 
