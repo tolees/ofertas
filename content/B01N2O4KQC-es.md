@@ -28,10 +28,10 @@ Tienes [BRITA Marella blanca XL – Jarra de Agua Filtrada con 1 cartucho MAXTRA
 
 🔎:
 
-- Práctico indicador: en la tapa de la jarra de agua BRITA se encuentra el indicador que parpadea después de 4 semanas para reemplazar el cartucho MAXTRA+
+- El filtro de agua BRITA ofrece un agua de mejor sabor: reduce las sustancias que alteran el sabor y el olor del agua como el cloro y la cal, para que disfrutes de un vaso de agua fresca
+- Sostenible: Reduce el plástico de un solo uso bebiendo agua filtrada BRITA y ayúdanos a cuidar del medio ambiente
 - Jarra de agua filtrada cómoda y sencilla: la tapa de la jarra se abate fácilmente para un rellenado rápido / A excepción de la tapa, la jarra es apta para el lavavajillas
 - Incluye un filtro MAXTRA+: prepara el té y el café con un aroma completo y un sabor intenso; además ofrece una protección óptima a tu cafetera o tetera.
-- Sostenible: Reduce el plástico de un solo uso bebiendo agua filtrada BRITA y ayúdanos a cuidar del medio ambiente
-- El filtro de agua BRITA ofrece un agua de mejor sabor: reduce las sustancias que alteran el sabor y el olor del agua como el cloro y la cal, para que disfrutes de un vaso de agua fresca
+- Práctico indicador: en la tapa de la jarra de agua BRITA se encuentra el indicador que parpadea después de 4 semanas para reemplazar el cartucho MAXTRA+
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01N2O4KQC/?tag=tolees-21)

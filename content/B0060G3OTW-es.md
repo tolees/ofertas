@@ -28,10 +28,10 @@ En este momento está [Samyang 7.5mm f/3.5 UMC Fisheye  Lente Ojo de Pez para Mi
 
 🔎:
 
-- Parasol integrado
-- Objetivo fotográfico para Micro 4/3 (Silver)
 - Campo de visión diagonal de 180°. Con revestimiento UMC anti-reflectante
 - Enfoque manual
+- Objetivo fotográfico para Micro 4/3 (Silver)
+- Parasol integrado
 - Para cámaras compactas sin espejo de tipo Micro Cuatro Tercios, ojo de pez
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0060G3OTW/?tag=tolees-21)
