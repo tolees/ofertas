@@ -28,8 +28,8 @@ Tienes [Brabantia Profile 385568 - Espátula para Wok  Acero Mate](https://www.a
 
 ℹ️:
 
-- Espátula tipo wok/raspador de ollas de silicona
 - Apto para el lavavajillas
 - Fabricada con silicona de alta calidad y resistente al calor (máximo 280 °C)
+- Espátula tipo wok/raspador de ollas de silicona
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000RE55OK/?tag=tolees-21)
