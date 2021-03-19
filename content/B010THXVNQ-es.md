@@ -28,10 +28,10 @@ Tienes [Sony ILCE7RM2B.CEC Alpha 7 R II - Cámara evil de fotograma completo  42
 
 ℹ️:
 
-- DISPARO SILENCIOSO: cuenta con un obturador electrónico sin ruidos que no provoca vibración alguna, para que puedas tomar imágenes de alta resolución sin vibración de la cámara
-- ENFOQUE AUTOMÁTICO FIABLE: la A7RII cuenta con AF híbrido rápido, para obtener un enfoque óptimo; el disparo en ráfaga de 5 fps te ayuda a capturar el momento
-- CALIDAD DE IMAGEN ÓPTIMA: sensor retroiluminado de fotograma completo de 42.2 Mp combinado con capacidades ISO altas para ofrecer imágenes más nítidas incluso con poca luz
 - DISPARO CONTINUO: stabilización de imagen de 5 ejes en fotograma completo optimizada para fotogramas completos de 42.4MP, para compensar los movientos de la cámara
+- DISPARO SILENCIOSO: cuenta con un obturador electrónico sin ruidos que no provoca vibración alguna, para que puedas tomar imágenes de alta resolución sin vibración de la cámara
 - COMPARTE TU CREACIÓN: transfiere al instante fotos y vídeos a un dispositivo móvil con solo tocar la cámara (Wi-Fi/NFC) o utiliza la aplicación Imaging Edge a través de Bluetooth
+- CALIDAD DE IMAGEN ÓPTIMA: sensor retroiluminado de fotograma completo de 42.2 Mp combinado con capacidades ISO altas para ofrecer imágenes más nítidas incluso con poca luz
+- ENFOQUE AUTOMÁTICO FIABLE: la A7RII cuenta con AF híbrido rápido, para obtener un enfoque óptimo; el disparo en ráfaga de 5 fps te ayuda a capturar el momento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B010THXVNQ/?tag=tolees-21)

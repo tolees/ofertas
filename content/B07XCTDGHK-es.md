@@ -28,10 +28,10 @@ Ahora mismo tienes [eXtremeRate Placa Trasera para NS Switch Console  NS Joycon 
 
 🔎:
 
-- El proceso de instalación requiere al cliente con experiencia de modificación electrónica moderada. Obtén una guía de vídeo de instalación en Youtube buscando "ExtremeRate Nintendo Switch Shell Guide" o "urErvKGNMWY". Mira el video a media velocidad. Recomendamos ver, pausar, hacer y repetir
 - Camaleón brillante de color vibrante; cuando miras la carcasa superior desde diferentes perspectivas, se verá como un camaleón que cambia de color de verde a azul púrpura.
 - Carcasa de repuesto diseñada a medida para adaptarse perfectamente a la consola Nintendo Switch y Joycon. Corte de precisión para funcionar exactamente como la carcasa original.
 - El paquete incluye placa trasera de consola, carcasa de repuesto Joy-con para Nintendo Switch (no incluye pieza electrónica), botones de juego completo, destornilladores PH00 y Y00, tornillos Tri-wing y Philips.
 - Carcasa de repuesto única para añadir mucha más personalidad a tu interruptor, no más aburrido color gris estándar.
+- El proceso de instalación requiere al cliente con experiencia de modificación electrónica moderada. Obtén una guía de vídeo de instalación en Youtube buscando "ExtremeRate Nintendo Switch Shell Guide" o "urErvKGNMWY". Mira el video a media velocidad. Recomendamos ver, pausar, hacer y repetir
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XCTDGHK/?tag=tolees-21)

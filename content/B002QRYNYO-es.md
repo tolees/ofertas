@@ -28,9 +28,9 @@ Ahora mismo tienes [Silverline Tools - Silverline 140868 - Visor de protección 
 
 🔎:
 
-- Conforme a EN1731
 - Bandas acolchadas para más comodidad, punto único de ajuste de la hebilla
-- Visor con malla
+- Conforme a EN1731
 - Para utilizar con desbrozadoras, cortasetos, etc.
+- Visor con malla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002QRYNYO/?tag=tolees-21)
