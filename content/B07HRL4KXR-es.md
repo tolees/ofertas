@@ -30,8 +30,8 @@ Tienes [Kappa 2pack Boxers 304jb30-950 Bóxer  Negro  Black 304jb30/950   XX-Lar
 
 - Kappa logo to the left thigh
 - Regular fitting
+- Waist band with logo
 - Material 100% algodón
 - Pack of 2
-- Waist band with logo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HRL4KXR/?tag=tolees-21)

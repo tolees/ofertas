@@ -28,7 +28,7 @@ En este momento está [Salter Ultra Slim Analyzer Básculas de baño  Medición 
 
 🔎:
 
-- Fuente de alimentación: Battery-powered
 - Estilo más adecuado para: Unisex
+- Fuente de alimentación: Battery-powered
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003X3A3EY/?tag=tolees-21)

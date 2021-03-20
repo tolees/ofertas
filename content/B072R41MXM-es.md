@@ -28,9 +28,9 @@ Está [BOSS Mix & Match T-Shirt R Camiseta  Azul  Dark Blue 403   XX-Large para 
 
 ℹ️:
 
-- Con un discreto logo en la parte izquierda del pecho
-- Cuello redondo
 - Adecuada para un look relajado
+- Con un discreto logo en la parte izquierda del pecho
 - Camiseta de manga corta
+- Cuello redondo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072R41MXM/?tag=tolees-21)

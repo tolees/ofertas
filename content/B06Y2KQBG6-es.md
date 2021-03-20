@@ -28,10 +28,10 @@ Está [Geox J Kalispera Girl I  Zapatillas Altas para Niñas  Negro  Black   31 
 
 ℹ️:
 
-- Material exterior: Cuero sintético
 - Revestimiento: Malla
 - Tipo de tacón: Plano
 - Material de la suela: Goma
 - Cierre: Cordones rápidos
+- Material exterior: Cuero sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06Y2KQBG6/?tag=tolees-21)

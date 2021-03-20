@@ -28,8 +28,8 @@ En este momento está [NIKE M NP Top LS Tight Long Sleeved t-Shirt  Hombre  Game
 
 🔎:
 
-- Crew-neck design
-- Dri-Fit Technology
 - Regular fit
+- Dri-Fit Technology
+- Crew-neck design
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZS8TBPG/?tag=tolees-21)
