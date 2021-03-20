@@ -29,8 +29,8 @@ Está [Limpiador Ultrasónico Profesional DK SONIC Limpiador Ultrasonidos de Ace
 ℹ️:
 
 - VIDA DE SERVICIO DURADERA Y LARGA: Tanque SUS304 duradero, carcasa ultrasónica, cesta de limpieza, drenaje, tapa que hace que los limpiadores ultrasónicos sean más anticorrosivos y tengan una vida útil más larga que los limpiadores ultrasónicos hechos de SUS201
-- CONFIGURACIÓN CONVENIENTE Y USO SEGURO: Tiempo ajustable entre 0 ~ 22 minutos y temperatura ajustable entre 20 ~ 80 ℃; El calentador dejará de calentar automáticamente si la temperatura es más alta que el valor preestablecido
 - INTERFAZ QUE SIRVE FRENTE A USUARIO CON PANTALLA LED: modo de espera automático y modo de suspensión; pantalla digital de alta precisión; función de memoria de apagado; Demostración clara de temperatura y tiempo
 - RENDIMIENTO DE LIMPIEZA INCREÍBLE: 40 KHz es profesional para enjuague intensivo de productos con agujeros ciegos y agujeros profundos; La función de calentamiento mejora el efecto de limpieza del aceite y la cera
+- CONFIGURACIÓN CONVENIENTE Y USO SEGURO: Tiempo ajustable entre 0 ~ 22 minutos y temperatura ajustable entre 20 ~ 80 ℃; El calentador dejará de calentar automáticamente si la temperatura es más alta que el valor preestablecido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BKXS6QG/?tag=tolees-21)
