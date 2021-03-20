@@ -28,7 +28,7 @@ Ahora mismo tienes [Puma Heritage Quarter 2p Deporte  Hombre  Blanco  White 300 
 
 🔎:
 
-- Parte superior cómoda, no aprieta.
 - Costuras planas en la puntera para evitar molestias.
+- Parte superior cómoda, no aprieta.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CZBZ52K/?tag=tolees-21)

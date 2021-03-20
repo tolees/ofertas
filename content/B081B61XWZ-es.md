@@ -28,9 +28,9 @@ Está [Columbia Silver Ridge IV Pantalones de Senderismo Convertibles  Niña  Az
 
 ℹ️:
 
-- Una práctica cremallera permite desprender las piernas del pantalón para convertirlo en pantalones cortos; Ajuste flexible gracias a un elástico parcial en la cintura
-- Equipado con cómodos y prácticos bolsillos para las manos y bolsillo cargo de seguridad; Rodillas articuladas y corte recto de la pierna
 - Tecnología Omni-Shade con protección UPF 50 para la piel incluso en los días más soleados; Rápida eliminación del sudor y la humedad gracias al tejido con tratamiento Omni-Wick
+- Equipado con cómodos y prácticos bolsillos para las manos y bolsillo cargo de seguridad; Rodillas articuladas y corte recto de la pierna
+- Una práctica cremallera permite desprender las piernas del pantalón para convertirlo en pantalones cortos; Ajuste flexible gracias a un elástico parcial en la cintura
 - Pantalón para jóvenes óptimo para actividades al aire libre; Óptimo para días frescos en los que sube la temperatura gradualmente
 - 1x Columbia Silver Ridge IV, Pantalones de senderismo convertibles para niños, Nylon, Azul (Nocturnal), S, Art. 1887432
 
