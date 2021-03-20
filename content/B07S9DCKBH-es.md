@@ -28,8 +28,8 @@ Tienes [Lee Luke Vaqueros  Dk Worn Foam If  32W / 32L para Hombre](https://www.a
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
-- Estilo 5 bolsillos
 - Vaqueros para hombre
+- Estilo 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S9DCKBH/?tag=tolees-21)

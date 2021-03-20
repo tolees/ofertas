@@ -28,10 +28,10 @@ Tienes [BOBOO Mini RC Dron para niños  cuadricóptero plegable con modo de mant
 
 🔎:
 
-- Fácil de jugar: el despegue / aterrizaje con un solo toque facilita las operaciones, no tendrás que preocuparte por la orientación y, con solo pulsar un botón, tu dron se levantará y aterrirá, perfecto para principiantes.
-- Un gran regalo para los niños: función Altitude Hold. Puedes soltar el mando de gas y el dron conservará la altura actual. Control muy sencillo. Excelente dron para principiantes y aficionados.
 - No perderá su dirección: en modo sin cabeza, puedes controlar el dron sin preocuparte por la dirección en la que se enfrenta, especialmente cuando el dron está lejos.
+- Fácil de jugar: el despegue / aterrizaje con un solo toque facilita las operaciones, no tendrás que preocuparte por la orientación y, con solo pulsar un botón, tu dron se levantará y aterrirá, perfecto para principiantes.
 - Diversión: una llave de 360 ° de 4 vías (izquierda, derecha, frontal, trasera), rodamiento continuo para una acción perfecta y un rendimiento maravilloso, lo que hace que el dron sea más fácil de jugar.
 - Función de rotación: con rotación de la luz LED. Brilla más por la noche y se puede ver en cualquier lugar por la noche, sin miedo a la pérdida.
+- Un gran regalo para los niños: función Altitude Hold. Puedes soltar el mando de gas y el dron conservará la altura actual. Control muy sencillo. Excelente dron para principiantes y aficionados.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08C9PB9JY/?tag=tolees-21)

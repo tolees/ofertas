@@ -28,10 +28,10 @@ En este momento está [Casio Reloj Analógico-Digital para Mujer de Cuarzo con C
 
 🔎:
 
-- 5 alarmas diarias
-- Función de hora universal
-- Luz LED
 - Temporizadores - 1/1 minuto - 24 horas
+- 5 alarmas diarias
+- Luz LED
 - Cronómetro - 1/100 seg. - 24 horas
+- Función de hora universal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07L4VN8NW/?tag=tolees-21)
