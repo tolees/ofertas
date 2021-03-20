@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Tommy Hilfiger TH MEN SOCK CLASSIC 2P Ca al 53.89 % de rebaja'
-date: 2021-03-06 12:45:56
+date: 2021-03-20 11:24:03
 image: 'https://m.media-amazon.com/images/I/31lbZHIRr6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005IW54NI-es Tommy Hilfiger TH MEN SOCK CLASSIC 2P Calcetines Clasicas...'
 sku: 'B005IW54NI-es'
+tags: [ 'Calcetines hasta la rodilla para hombre','Calcetines para hombre','Ropa','Ropa para hombre','tommy hilfiger', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99
@@ -27,7 +28,7 @@ Tienes [Tommy Hilfiger TH MEN SOCK CLASSIC 2P Calcetines Clasicas  Negro  Black 
 
 🔎:
 
-- Puntera terminada a mano para evitar molestias.
 - Algodón peinado para proporcionar una sensación de suavidad.
+- Puntera terminada a mano para evitar molestias.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005IW54NI/?tag=tolees-21)

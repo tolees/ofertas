@@ -28,10 +28,10 @@ Está [YIWENTEC USB-C to DisplayPort Cable 7680x4320 8K @ 60Hz 4K @ 144Hz HDTV a
 
 ℹ️:
 
-- 8K UHD DISPLAYPORT Video Resolution Support for Ultra High Definition Resolutions up to 8K(7680*4320)@60Hz;4K（3840*2160@144Hz,
-- if you need output 8K Video,you should have 8k source and 8k monitor.
-- Supports DisplayPort 1.4 and earlier versions
 - Mirror or Duplicate your host computer and external displays have the same view ,Extend Mode means your host computer and external display have different view
+- 8K UHD DISPLAYPORT Video Resolution Support for Ultra High Definition Resolutions up to 8K(7680*4320)@60Hz;4K（3840*2160@144Hz,
 - All computers/laptops connect to this cable should support DP Alternate Mode
+- Supports DisplayPort 1.4 and earlier versions
+- if you need output 8K Video,you should have 8k source and 8k monitor.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086GJQTBN/?tag=tolees-21)
