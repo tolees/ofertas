@@ -28,10 +28,10 @@ Está [Licor del Polo - Enjuague Bucal Triple Acción - 3 uds de 500ml  1.500ml 
 
 ℹ️:
 
+- Su fórmula con flúor ayuda también a reducir y prevenir eficazmente las caries
+- Adecuado si quieres una triple acción en tu boca con el sabor original de Licor del Polo
+- El enjuague Triple Acción actúa en la boca para ofrecer, 3 soluciones en un solo uso: Anticaries, Antiplaca y 100% Frescor
 - Elimina el mal aliento dejando una boca fresca y limpia durante más tiempo
 - Su complejo antibacteriano ayuda a reducir y prevenir la formación de placa evitando así las caries y la inflamación de las encías
-- El enjuague Triple Acción actúa en la boca para ofrecer, 3 soluciones en un solo uso: Anticaries, Antiplaca y 100% Frescor
-- Adecuado si quieres una triple acción en tu boca con el sabor original de Licor del Polo
-- Su fórmula con flúor ayuda también a reducir y prevenir eficazmente las caries
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NRFGFV1/?tag=tolees-21)
