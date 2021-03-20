@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Warner Bros Interactive Spain - Bakugan: al 59.98 % de descuento'
-date: 2021-03-10 19:21:14
+title: 'Warner Bros Interactive Spain - Bakugan: al 60.16 % de descuento'
+date: 2021-03-20 17:27:30
 image: 'https://m.media-amazon.com/images/I/41IKECvKwfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DRZJSG7-es Warner Bros Interactive Spain - Bakugan: Campeones de...'
 sku: 'B08DRZJSG7-es'
-actualPrice: 19.99 EUR
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','warner bros interactive spain', ]
+actualPrice: 19.9 EUR
 currency: EUR
-price: 19.99
+price: 19.9
 comparePrice: 49.95 EUR
 prodname: 'Warner Bros Interactive Spain - Bakugan: Campeones de Vestroia'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21'
-descuento: '59.98'
-average: '25.6354054054055'
+descuento: '60.16'
+average: '25.3412820512821'
 ---
 
-Ahora mismo tienes [Warner Bros Interactive Spain - Bakugan: Campeones de Vestroia](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21) a 19.99 EUR (original: 49.95 EUR) (59.98 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Warner Bros Interactive Spain - Bakugan: Campeones de Vestroia](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21) a 19.9 EUR (original: 49.95 EUR) (60.16 %  de descuento) en el siguiente enlace!
 
 [![Warner Bros Interactive Spain - Bakugan:](https://m.media-amazon.com/images/I/41IKECvKwfL._SL400_.jpg)](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21)
 
