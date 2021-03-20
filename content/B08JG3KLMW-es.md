@@ -29,8 +29,8 @@ En este momento está [YIWENTEC Cable de cobre DisplayPort Ultra HD 8K 4K DP 1.4
 🔎:
 
 - Garantía de por vida: el cable DisplayPort 8K proporciona una garantía de producto sin preocupaciones y soporte técnico de por vida, y correo electrónico 24/7 para servicio al cliente
+- Diseño único con indicación LED mientras trabajas, diseño de hebilla tipo prensa, el dispositivo está firmemente conectado y no se suelta, conector HDMI de aleación de zinc, cable de cobre DisplayPort trenzado, diseño duradero, indicador LED integrado, indicador LED parpadea cuando el cable DP está funcionando
 - Ultra DisplayPort 8K 7680 x 4320 Transmisiones de vídeo e imagen, este cable de cobre es compatible con resolución Ultra HD 8K @ 60Hz (4K @ 144Hz) y no proporciona señal de transmisión, soporta efectos visuales 3D, soporta hasta 165 Hz tasa de actualización a 1440P y 1080P, cable de versión DisplayPort 1.4, con vídeo más claro. transmisión de la transmisión de la transmisión de la Una experiencia de visualización HD sin precedentes
 - DisplayPort 1.4, 32.4 Gbps ancho de banda, transmisiones estables, transmisión de alta velocidad sin pérdida de señal, formato de color HDR 4:4: 4. Nota: si quieres salida 8K a 60Hz 4K a 144Hz o resolución correspondiente a través de nuestro cable, asegúrate de que tu dispositivo de entrada y tu monitor admiten la resolución que deseas salir
-- Diseño único con indicación LED mientras trabajas, diseño de hebilla tipo prensa, el dispositivo está firmemente conectado y no se suelta, conector HDMI de aleación de zinc, cable de cobre DisplayPort trenzado, diseño duradero, indicador LED integrado, indicador LED parpadea cuando el cable DP está funcionando
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JG3KLMW/?tag=tolees-21)
