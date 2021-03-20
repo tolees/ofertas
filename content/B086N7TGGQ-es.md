@@ -28,12 +28,12 @@ Ahora mismo tienes [Marca Amazon - Happy Belly - Caramelos con sabor a lima y ch
 
 🔎:
 
-- No recomendado para niños menores de 36 meses
-- Con aromas naturales
-- Fabricado en el Reino Unido
-- Paquete de 3
 - Caramelos duros sabor a lima, con un relleno azucarado al chocolate. Una combinación perfecta de sabor dulce y ligeramente ácido
+- Con aromas naturales
+- No recomendado para niños menores de 36 meses
+- Fabricado en el Reino Unido
 - Este envase contiene 20 porciones
 - Apto para dietas vegetarianas
+- Paquete de 3
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086N7TGGQ/?tag=tolees-21)

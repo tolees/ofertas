@@ -28,10 +28,10 @@ Tienes [Olivia Burton Reloj de Pulsera OB16BDW21](https://www.amazon.es/dp/B01N4
 
 ℹ️:
 
-- Movimiento de cuarzo japonés de tres manecillas
-- Correa en suave piel auténtica
 - Diámetro de la caja: 38 mm
 - Esfera blanca con índices en plata y caja con chapado en oro rosado
+- Correa en suave piel auténtica
 - Logotipo grabado en el reverso de la caja y bordado con mimo en la parte trasera de la correa
+- Movimiento de cuarzo japonés de tres manecillas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N4S6U0C/?tag=tolees-21)

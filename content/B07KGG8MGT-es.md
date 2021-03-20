@@ -28,10 +28,10 @@ En este momento está [AZ FLAG - Set Tetera con Taza  Alicia en el País De Las 
 
 🔎:
 
-- Producto de calidad óptima
-- Producto que combina tradición e innovación
-- Diseño elegante
 - Producto útil y práctico
+- Producto de calidad óptima
+- Diseño elegante
+- Producto que combina tradición e innovación
 - Hecho de material de calidad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KGG8MGT/?tag=tolees-21)

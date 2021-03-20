@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Watch GT 2e Sport - Smartwatch de al 44.69 % de descuento'
-date: 2021-03-18 22:18:15
+date: 2021-03-20 12:26:18
 image: 'https://m.media-amazon.com/images/I/31pJGMljPiL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HUAWEI'
 buyurl: 'https://www.amazon.es/dp/B085GGLLR1/?tag=tolees-21'
 descuento: '44.69'
-average: '117.9'
+average: '117.409090909091'
 ---
 
 Está [Huawei Watch GT 2e Sport - Smartwatch de AMOLED pantalla de 1.39 pulgadas  2 semanas de batería  GPS  Color Negro  Graphite Black  46 mm  55025281 ](https://www.amazon.es/dp/B085GGLLR1/?tag=tolees-21) con 44.69 de descuento por 99.0 EUR (original: 179.0 EUR) en el siguiente enlace!
@@ -28,11 +28,14 @@ Está [Huawei Watch GT 2e Sport - Smartwatch de AMOLED pantalla de 1.39 pulgadas
 
 ℹ️:
 
-- 【GPS and GLONASS Positioning Systems】Precise and real-time tracking data for 15 proffersional sports including climbing, running, swimming and cycling will be provided by your GT 2e utilizing cutting-edge technology. GPS and GLONASS positioning systems supported for outdoor workouts
-- 【Auto-detects 6 Workout Modes】Just go about your normal workout, and this smart watch will detect it, then automatically start tracking your activity. Now available for 6 common workout modes: indoor/outdoor running/walking, elliptical, and rowing
-- 【SpO2, VO2Max, 5ATM and More】VO2Max monitoring, 24/7 real-time heart rate and stress monitoring, sleep tracking and analyzing with HUAWEI TruSleep 2.0, music playing via Bluetooth, 5ATM, smart notifications for calls/messages/emails
-- 【85 Custom Workout Modes】You can explore the new adventure of rock climbing, parkour, street dancing, or skateboard that moves you, with the newly added 85 custom workout modes on your GT 2e smart watch.
-- 【2-Week Battery Life 】HUAWEI WATCH GT 2e Smartwatch comes with HUAWEIs self-developed chip Kirin A1 bolstered by intelligent power-saving algorithm to power through your weeks
-- 【1.39 inch AMOLED HD Touchscreen】The durable stainless steel frame of HUAWEI WATCH GT 2e pairs flawlessly with the colorful fitness straps, while its 1.39 inch AMOLED HD display and multitude of invigorating watch faces blow you away any moment
+- Pantalla táctil AMOLED HD de 1.39" El marco de acero inoxidable combina con la correa, mientras que su pantalla y la multitud de diales disponibles lo sorprenderán en cualquier momento
+- Reproducción de música a través de Bluetooth, 5ATM notificaciones inteligentes para llamadas mensajes o correos electrónicos
+- No es un dispositivo médico ni pretende diagnosticar, tratar, curar o prevenir ninguna enfermedad
+- Monitoreo VO2Max monitoreo de ritmo cardíaco y estrés en tiempo real las 24 horas los 7 días de la semana seguimiento del sueño y análisis con HUAWEI TruSleep 2 0
+- Sistemas de posicionamiento GPS y GLONASS El GT 2e proporcionará datos de seguimiento precisos y en tiempo real para 15 deportes profesionales; Compatibles con entrenamientos al aire libre
+- Hasta 2 semanas de batería HUAWEI WATCH GT 2e incorpora el chip Kirin A1 que gracias a su algoritmo IA consume menos energía permitiendo una mayor duración de la batería
+- 85 modos de entrenamiento personalizados; desde parkour street dance hasta skateboard disfruta de los 85 modos de entrenamiento personalizados en tu reloj inteligente GT 2e
+- Detecta automaticamente 6 modos de entrenamiento; simplemente empieza a entrenar con normalidad y este reloj inteligente lo detectará luego comenzará a rastrear automáticamente tu actividad
+- La saturación de oxígeno en la sangre se proporciona como una estimación calculada en función de diferentes factores en combinación con los datos de Huawei Health App
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085GGLLR1/?tag=tolees-21)

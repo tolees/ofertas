@@ -28,9 +28,9 @@ En este momento está [Franck Provost 577 - Kit 5 en 1 Barbero The Barb Xpert](h
 
 🔎:
 
-- Barbero eléctrico para barba, cuchilla de afeitar, lámina de precisión para acabados, cabezales de diferentes tamaños y maquinilla para nariz y orejas
 - Incluye aceite para lubrificado de cuchillas. Cepillo limpiador y adaptador de corriente
 - Al ser recargable podrá usarlo cómodamente gracias a su autonomía de 45 minutos
+- Barbero eléctrico para barba, cuchilla de afeitar, lámina de precisión para acabados, cabezales de diferentes tamaños y maquinilla para nariz y orejas
 - Su práctica base permite ordenar y mantener todos los accesorios a su alcance
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D433YRN/?tag=tolees-21)
