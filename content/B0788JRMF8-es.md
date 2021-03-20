@@ -28,7 +28,7 @@ En este momento está [Vero Moda NOS Vmhot Seven NW Dnm Fold Shorts Mix Noos Pan
 
 🔎:
 
-- tight demin shorts with normal waist
 - slim fit, 5-pocket jeans shorts
+- tight demin shorts with normal waist
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0788JRMF8/?tag=tolees-21)
