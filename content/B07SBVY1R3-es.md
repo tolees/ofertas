@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Only Onlcoral Superlow SK JNS BB Crya041 con un 42.51 % de descuento'
-date: 2021-03-18 08:37:29
+date: 2021-03-20 02:00:05
 image: 'https://m.media-amazon.com/images/I/31mjTfjpVCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07SBVY1R3-es Only Onlcoral Superlow SK JNS BB Crya041 Noos Vaqueros...'
 sku: 'B07SBVY1R3-es'
+tags: [ 'Ropa','Ropa para mujer','Vaqueros para mujer','only', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99
@@ -27,7 +28,7 @@ En este momento está [Only Onlcoral Superlow SK JNS BB Crya041 Noos Vaqueros Sk
 
 🔎:
 
-- Skinny ankle Jeans
 - Denim with super low waist
+- Skinny ankle Jeans
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SBVY1R3/?tag=tolees-21)
