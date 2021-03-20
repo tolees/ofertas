@@ -28,10 +28,10 @@ Está [Meike MK 6 – 11 mm f3.5 Fisheye Lente de Zoom Sensor Formato APS-C 
 
 ℹ️:
 
-- Fisheye de zoom
-- Excelente rendimiento de primer plano a partir de 15 cm (en 6 mm)
+- Diseño compacto
 - Enfoque manual
 - Ultra corto intervalo de longitud
-- Diseño compacto
+- Excelente rendimiento de primer plano a partir de 15 cm (en 6 mm)
+- Fisheye de zoom
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L6ZHLHV/?tag=tolees-21)

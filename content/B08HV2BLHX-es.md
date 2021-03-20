@@ -28,10 +28,10 @@ Ahora mismo tienes [PURLINE Batidora amasadora Digital 350W con Doble Varilla y 
 
 🔎:
 
-- Dos juegos de dobles varillas que te permite amasar y también bartir con un simple camplio de accesorio
 - Control digital con 8 velocidades más función turbo para poder controlar la velocidad que se adecua más a tus necesidades de batido o de amasado
 - Botón de expulsión para extraer los accesorios de forma fácil y segura
 - Diseño compacto para un fácil almacenamiento
 - Batidora amasadora digital 350W con doble varilla y 9 velociades
+- Dos juegos de dobles varillas que te permite amasar y también bartir con un simple camplio de accesorio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HV2BLHX/?tag=tolees-21)
