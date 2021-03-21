@@ -28,9 +28,9 @@ Está [Zapf Baby Born 824368 - Muñeca interactiva con Ojos Azules  43 cm ](http
 
 ℹ️:
 
-- Con 11 funciones realistas
 - Con cuerpo y sombrero
-- Promueve la imaginación
 - Apoya la comunicación y la empatía
+- Promueve la imaginación
+- Con 11 funciones realistas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BWRH6QY/?tag=tolees-21)

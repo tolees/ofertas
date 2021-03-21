@@ -29,9 +29,9 @@ Está [BenQ EL2870U - Monitor Gaming de 28" 4K UHD  3840x2160  1ms  60Hz  2x HDM
 ℹ️:
 
 - Free-Sync: la tecnología AMD FreeSync acaba con las interrupciones en los juegos y los cortes de fotogramas gracias a un rendimiento fluido y sin artificios
-- Conectividad: múltiples puertos de entrada con entradas entradas HDMI 2.0, DP 1.4 y DisplayPort.
-- Tiempo de respuesta rápido de 1 ms (GTG): el rápido tiempo de respuesta de 1 ms permite disfrutar de vídeos uniformes y una experiencia intensa durante el juego
-- HDR: el HDR aumenta el rango dinámico de blancos y negros para mostrar una imagen más nítida y detallada
 - Alta resolución: LED UHD de 28 pulgadas (resolución 3840 x 2160)
+- Conectividad: múltiples puertos de entrada con entradas entradas HDMI 2.0, DP 1.4 y DisplayPort.
+- HDR: el HDR aumenta el rango dinámico de blancos y negros para mostrar una imagen más nítida y detallada
+- Tiempo de respuesta rápido de 1 ms (GTG): el rápido tiempo de respuesta de 1 ms permite disfrutar de vídeos uniformes y una experiencia intensa durante el juego
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079HV1TDC/?tag=tolees-21)
