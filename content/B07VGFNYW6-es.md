@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'SEGA - Super Monkey Ball: Banana Blitz H al 52.51 % de descuento'
-date: 2021-03-04 14:37:23
+date: 2021-03-21 10:53:56
 image: 'https://m.media-amazon.com/images/I/51UMzmPee-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGFNYW6-es SEGA - Super Monkey Ball: Banana Blitz HD - Nintendo Switch'
 sku: 'B07VGFNYW6-es'
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','sega', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B07VGFNYW6/?tag=tolees-21'
 descuento: '52.51'
-average: '21.8839999999999'
+average: '21.7906451612902'
 ---
 
 Está [SEGA - Super Monkey Ball: Banana Blitz HD - Nintendo Switch](https://www.amazon.es/dp/B07VGFNYW6/?tag=tolees-21) con 52.51 de descuento por 18.99 EUR (original: 39.99 EUR) en el siguiente enlace!
