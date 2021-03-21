@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS Nº35 Sunglasses  VERDE  One Size al 44.45 % de rebaja'
-date: 2021-03-18 21:30:50
+date: 2021-03-21 07:50:27
 image: 'https://m.media-amazon.com/images/I/31BZmuFg4QL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [HAWKERS Nº35 Sunglasses  VERDE  One Size Unisex-Adult](https://www.amaz
 
 🔎:
 
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
-- Gafas de Sol Nº35, Unisex, rediseño de uno de los iconos de los años 50; su montura carey contrasta con sus lentes verde botella
-- Lentes verde botella, fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV402
 - Montura fabricada en TR90 que dota a las gafas de gran ligereza, flexibilidad y resistencia; muy resistente a altas y bajas temperaturas
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Lentes verde botella, fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV402
+- Gafas de Sol Nº35, Unisex, rediseño de uno de los iconos de los años 50; su montura carey contrasta con sus lentes verde botella
 - Medidas: Frente: 14.2 cm, Altura: 4.4 cm, Diámetro de la lente: 5.1 cm; Puente: 1.4 cm; Varillas: 14.5 cm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B69PSZQ/?tag=tolees-21)

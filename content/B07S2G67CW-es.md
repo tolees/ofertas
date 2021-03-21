@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Fox - Juego De Tronos Temporada 1-8 Cole al 39.22 % de descuento'
-date: 2021-03-18 08:16:30
+date: 2021-03-21 06:04:01
 image: 'https://m.media-amazon.com/images/I/51ohU-frO5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07S2G67CW-es Fox - Juego De Tronos Temporada 1-8 Colección Completa [DVD]'
 sku: 'B07S2G67CW-es'
+tags: [ 'Acción y Aventura','Ciencia ficción','DVD','Drama','Fantasía','Featured Categories','Películas','Películas y TV','TV','fox', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Fox'
 buyurl: 'https://www.amazon.es/dp/B07S2G67CW/?tag=tolees-21'
 descuento: '39.22'
-average: '84.4006299212599'
+average: '84.3477519379846'
 ---
 
 Ahora mismo tienes [Fox - Juego De Tronos Temporada 1-8 Colección Completa [DVD]](https://www.amazon.es/dp/B07S2G67CW/?tag=tolees-21) a 80.99 EUR (original: 133.25 EUR) (39.22 %  de descuento) en el siguiente enlace!
