@@ -28,8 +28,8 @@ En este momento está [TRIXIE Comedero Cerámica Motivos  Conejos  250 ml  ø11 
 
 🔎:
 
+- LO MEJOR PARA EL CUIDADO DE TU MASCOTA : Producto especialmente destinado para cuidar a las mascotas.
 - apto para lavavajillas
 - colores surtidos
-- LO MEJOR PARA EL CUIDADO DE TU MASCOTA : Producto especialmente destinado para cuidar a las mascotas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0028FAWZS/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Fellowes - Smart Suites - Soporte Elevador para Monitor de Ordenador de 
 
 ℹ️:
 
-- Diseñado para maximizar tu espacio de trabajo, el soporte elevador para monitor ajustable en altura Smart Suites presenta un diseño triangular que permite un puesto de trabajo despejado.
-- Este soporte elevador para monitor ajustable en altura está certificado por FIRA, una consultora ergonómica internacional independiente que examina y evalúa varios aspectos que determinan «cómo de ergonómico» es un determinado producto.
 - El soporte elevador para monitor Fellowes Smart Suites, perfecto para sobremesa, puede soportar un monitor de pantalla plana de hasta 21 pulgadas o un peso máximo de 10kg.
-- Si tu pantalla no está a la altura idónea de los ojos, puedes sufrir tensión en el cuello, la espalda y los hombros. Mediante el uso de un soporte elevador para monitor o portátil, lograrás la mejor posición para una visualización cómoda de la pantalla, evitando así las malas posturas y trabajando ergonómicamente.
 - Este soporte elevador para monitor ajustable de Fellowes ofrece 3 ajustes de altura: 100mm, 115mm y 130mm para maximizar la comodidad en la visualización y elevar tu monitor a la altura que más se adapte a ti.
+- Diseñado para maximizar tu espacio de trabajo, el soporte elevador para monitor ajustable en altura Smart Suites presenta un diseño triangular que permite un puesto de trabajo despejado.
+- Si tu pantalla no está a la altura idónea de los ojos, puedes sufrir tensión en el cuello, la espalda y los hombros. Mediante el uso de un soporte elevador para monitor o portátil, lograrás la mejor posición para una visualización cómoda de la pantalla, evitando así las malas posturas y trabajando ergonómicamente.
+- Este soporte elevador para monitor ajustable en altura está certificado por FIRA, una consultora ergonómica internacional independiente que examina y evalúa varios aspectos que determinan «cómo de ergonómico» es un determinado producto.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001DJ80RC/?tag=tolees-21)
