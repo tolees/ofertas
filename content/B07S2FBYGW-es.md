@@ -28,7 +28,7 @@ Ahora mismo tienes [Jack & Jones Jjiroy Jjjames Sa Noos Pantalones  Verde  Olive
 
 🔎:
 
-- Chino pants made of organic Cotton
 - Regular fit chino
+- Chino pants made of organic Cotton
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S2FBYGW/?tag=tolees-21)

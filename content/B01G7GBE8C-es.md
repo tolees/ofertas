@@ -28,8 +28,8 @@ En este momento está [Arppe 2244011001 Correa Nylon Basic  Rojo](https://www.am
 
 🔎:
 
-- Controle periódicamente el estado del producto antes de su uso para mayor seguridad
 - Enganche el mosquetón al piquete del collar, arnés o petral y asegúrese de coger el asa de forma segura
 - Material de alta calidad Suave, agradable al tacto y ligero Resistente a los cambios climáticos Se puede lavar
+- Controle periódicamente el estado del producto antes de su uso para mayor seguridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01G7GBE8C/?tag=tolees-21)
