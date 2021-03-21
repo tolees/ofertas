@@ -28,14 +28,14 @@ Ahora mismo tienes [Bosch Professional 2 608 228 Esponja de lijado súperfina  V
 
 🔎:
 
-- Taco de lija de grano superfino para lijar superficies diversas, planas o en bordes, a mano
 - Taco cubierto por cuatro caras con grano abrasivo resistente a la rotura
+- Sin disolventes, lo que evita ensuciar la superficie
+- Dimensiones: 69 x 97 x 26 mm
+- Adecuado para preparar madera, plástico o metal antes de pintar y para el lijado intermedio de barnices y pinturas también para lijar rebajes y curvas ligeras, así como para realizar un lijado fino de tapaporos
+- Lavable y reutilizable repetidamente
 - Color verde en la espuma para identificar más fácilmente la aplicación terminar
 - Para terminar de lijar la superficie de trabajo, tras los procesos de remover y preparar el material
 - La estructura abierta impide el embotamiento
-- Dimensiones: 69 x 97 x 26 mm
-- Lavable y reutilizable repetidamente
-- Adecuado para preparar madera, plástico o metal antes de pintar y para el lijado intermedio de barnices y pinturas también para lijar rebajes y curvas ligeras, así como para realizar un lijado fino de tapaporos
-- Sin disolventes, lo que evita ensuciar la superficie
+- Taco de lija de grano superfino para lijar superficies diversas, planas o en bordes, a mano
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0053PVDL2/?tag=tolees-21)

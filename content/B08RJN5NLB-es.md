@@ -28,10 +28,10 @@ Tienes [Ufolet - Soporte para cápsulas de café compacto  práctico y de alta e
 
 ℹ️:
 
-- Antióxido, resistente a la corrosión y fácil de limpiar.
 - Con este filtro de cápsulas de café, puede hacer sus bebidas de café favoritas en casa.
-- Los orificios inferiores garantizan una buena filtración y un fuerte sabor original del café.
-- Hecho de acero inoxidable de primera calidad, seguro y saludable, duradero de usar
 - Es recargable, se puede utilizar repetidamente.
+- Antióxido, resistente a la corrosión y fácil de limpiar.
+- Hecho de acero inoxidable de primera calidad, seguro y saludable, duradero de usar
+- Los orificios inferiores garantizan una buena filtración y un fuerte sabor original del café.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08RJN5NLB/?tag=tolees-21)
