@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'Levi s Classic Twill Red Tab  Gorra de b al 32.04 % de rebaja'
-date: 2021-03-12 04:18:19
+title: 'Levi s Classic Twill Red Tab  Gorra de b al 40.04 % de rebaja'
+date: 2021-03-21 17:16:03
 image: 'https://m.media-amazon.com/images/I/41MZ3dPpaTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FOI1JJ4-es Levi s Classic Twill Red Tab Gorra de béisbol Hombre Negro...'
 sku: 'B00FOI1JJ4-es'
-actualPrice: 16.99 EUR
+tags: [ 'Accesorios para hombre','Gorras de béisbol para hombre','Ropa','Ropa para hombre','Sombreros y gorras para hombre','levis', ]
+actualPrice: 14.99 EUR
 currency: EUR
-price: 16.99
+price: 14.99
 comparePrice: 25.0 EUR
 prodname: 'Levi s Classic Twill Red Tab  Gorra de béisbol Hombre  Negro  Black   Talla única'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Levis'
 buyurl: 'https://www.amazon.es/dp/B00FOI1JJ4/?tag=tolees-21'
-descuento: '32.04'
-average: '15.916842105263'
+descuento: '40.04'
+average: '15.8704999999998'
 ---
 
-Tienes [Levi s Classic Twill Red Tab  Gorra de béisbol Hombre  Negro  Black   Talla única](https://www.amazon.es/dp/B00FOI1JJ4/?tag=tolees-21) con precio final de  16.99 EUR (original: 25.0 EUR) (32.04 %  de rebaja) aqui!
+Tienes [Levi s Classic Twill Red Tab  Gorra de béisbol Hombre  Negro  Black   Talla única](https://www.amazon.es/dp/B00FOI1JJ4/?tag=tolees-21) con precio final de  14.99 EUR (original: 25.0 EUR) (40.04 %  de rebaja) aqui!
 
 [![Levi s Classic Twill Red Tab  Gorra de b](https://m.media-amazon.com/images/I/41MZ3dPpaTL._SL400_.jpg)](https://www.amazon.es/dp/B00FOI1JJ4/?tag=tolees-21)
 
 🔎:
 
-- Tira ajustable de piel en la parte trasera
-- Información sobre las tallas y medidas de la gorra: Ajustable - La tira trasera permite adaptarse a la mayoría de tallas hasta los 61 cm cómodamente.
-- Etiqueta roja de Levis
-- La estructura de la copa tiene 6 paneles
-- Ojales para asegurar una mayor transpiración
+- Eyelets in the crown
+- Leather strap back
+- Hat Sizing Info: Adjustable - strap at the back allows most sizes up to 61cm to fit comfortably.
+- Red flip tag
+- 6 panel structured crown
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FOI1JJ4/?tag=tolees-21)
