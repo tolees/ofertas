@@ -28,8 +28,8 @@ Tienes [Riga 2 Barras Adhesivas con Frutas para periquitos Grandes  1 Paquete  1
 
 🔎:
 
-- El complemento ideal para la comida
 - A partir de una receta especial de semillas seleccionadas
 - Mantén la actividad de tu pájaro erguido
+- El complemento ideal para la comida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009DYWTVC/?tag=tolees-21)
