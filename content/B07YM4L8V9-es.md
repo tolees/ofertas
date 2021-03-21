@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20th Century Fox Home Entertainment Espa al 41.38 % de rebaja'
-date: 2021-03-18 21:18:17
+date: 2021-03-21 16:45:36
 image: 'https://m.media-amazon.com/images/I/51Zay40tmoL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '20th Century Fox Home Entertainment España, S.A.'
 buyurl: 'https://www.amazon.es/dp/B07YM4L8V9/?tag=tolees-21'
 descuento: '41.38'
-average: '10.6719999999999'
+average: '10.5918518518517'
 ---
 
 Tienes [20th Century Fox Home Entertainment España  S.A. - Joker [DVD]](https://www.amazon.es/dp/B07YM4L8V9/?tag=tolees-21) con precio final de  9.59 EUR (original: 16.36 EUR) (41.38 %  de rebaja) aqui!

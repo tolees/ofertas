@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mula [DVD] al 63.63 % de descuento'
-date: 2021-03-18 21:30:07
+date: 2021-03-21 16:56:46
 image: 'https://m.media-amazon.com/images/I/41J7SFfjGxL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07M8GT6PK/?tag=tolees-21'
 descuento: '63.63'
-average: '5.95363636363636'
+average: '5.95307692307692'
 ---
 
 Está [Mula [DVD]](https://www.amazon.es/dp/B07M8GT6PK/?tag=tolees-21) con 63.63 de descuento por 5.95 EUR (original: 16.36 EUR) en el siguiente enlace!

@@ -28,8 +28,8 @@ Ahora mismo tienes [LECTOR DE TARJETAS NGS MULTIREADER PRO. INTERCAMBIO DE DATOS
 
 🔎:
 
+- Compatible con micro sd, mmc, compact flash, ibm micro
 - De reducido tamaño
 - Lector de tarjetas usb
-- Compatible con micro sd, mmc, compact flash, ibm micro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0032BOZKK/?tag=tolees-21)

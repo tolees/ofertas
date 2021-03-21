@@ -28,8 +28,8 @@ En este momento está [Karactermania Diseny Icons Minnie Mouse Monedero  12 cm  
 
 🔎:
 
+- Portamonedas de compartimento único y cierre con cremallera
 - Dimensiones: 10 x 12 x 4cm (7, 5cm de diámetro sin la silueta frontal)
 - Forro interior
-- Portamonedas de compartimento único y cierre con cremallera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MNHPT3T/?tag=tolees-21)

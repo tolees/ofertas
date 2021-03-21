@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'The Walt Disney Company - Disney - Enred con un 36.61 % de descuento'
-date: 2021-02-27 12:57:20
+title: 'The Walt Disney Company - Disney - Enred con un 55.65 % de descuento'
+date: 2021-03-21 16:54:18
 image: 'https://m.media-amazon.com/images/I/61RGSJlUFrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0053CBM8Y-es The Walt Disney Company - Disney - Enredados - DVD'
 sku: 'B0053CBM8Y-es'
-actualPrice: 9.99 EUR
+tags: [ 'Animación','DVD','Featured Categories','Infantil y familiar','Películas','Películas y TV','the walt disney company', ]
+actualPrice: 6.99 EUR
 currency: EUR
-price: 9.99
+price: 6.99
 comparePrice: 15.76 EUR
 prodname: 'The Walt Disney Company - Disney - Enredados - DVD'
 country: 'es'
 flag: '🇪🇸'
 brand: 'The Walt Disney Company'
 buyurl: 'https://www.amazon.es/dp/B0053CBM8Y/?tag=tolees-21'
-descuento: '36.61'
-average: '9.57900000000001'
+descuento: '55.65'
+average: '9.52823529411766'
 ---
 
-En este momento está [The Walt Disney Company - Disney - Enredados - DVD](https://www.amazon.es/dp/B0053CBM8Y/?tag=tolees-21) a 9.99 EUR (original: 15.76 EUR) (36.61 %  de descuento) en el siguiente enlace!
+En este momento está [The Walt Disney Company - Disney - Enredados - DVD](https://www.amazon.es/dp/B0053CBM8Y/?tag=tolees-21) a 6.99 EUR (original: 15.76 EUR) (55.65 %  de descuento) en el siguiente enlace!
 
 [![The Walt Disney Company - Disney - Enred](https://m.media-amazon.com/images/I/61RGSJlUFrL._SL400_.jpg)](https://www.amazon.es/dp/B0053CBM8Y/?tag=tolees-21)
 
