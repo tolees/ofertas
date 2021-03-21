@@ -28,8 +28,8 @@ Tienes [RATON INALÁMBRICO PARA PORTÁTIL 2.4GHZ 1000 DPI NGS FOG. AMBIDIESTROS.
 
 ℹ️:
 
-- Conexión NANO USB
 - 4 pulsadores con rueda botón
 - Ratón inalámbrico para portátil
+- Conexión NANO USB
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01BJQ25FG/?tag=tolees-21)

@@ -28,8 +28,8 @@ En este momento está [Citizen Reloj Analógico para Hombre de Cuarzo con Correa
 
 🔎:
 
-- Resistencia al agua: 5 bar
-- Indicador de fecha
 - Caja de acero inoxidable
+- Indicador de fecha
+- Resistencia al agua: 5 bar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DDNZ8B3/?tag=tolees-21)
