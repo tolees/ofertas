@@ -28,9 +28,9 @@ En este momento está [NIKE MD Valiant  TDV   Sneaker  Black White  23.5 EU](htt
 
 🔎:
 
-- Nombre de departamento: bebé-niños
-- Cordones de zapatos
 - Importado
 - Suave de llevar
+- Cordones de zapatos
+- Nombre de departamento: bebé-niños
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082R73XZG/?tag=tolees-21)

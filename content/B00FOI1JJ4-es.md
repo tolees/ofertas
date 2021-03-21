@@ -28,10 +28,10 @@ Tienes [Levi s Classic Twill Red Tab  Gorra de béisbol Hombre  Negro  Black   T
 
 🔎:
 
-- Eyelets in the crown
-- Leather strap back
-- Hat Sizing Info: Adjustable - strap at the back allows most sizes up to 61cm to fit comfortably.
 - Red flip tag
 - 6 panel structured crown
+- Leather strap back
+- Hat Sizing Info: Adjustable - strap at the back allows most sizes up to 61cm to fit comfortably.
+- Eyelets in the crown
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00FOI1JJ4/?tag=tolees-21)
