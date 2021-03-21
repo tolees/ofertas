@@ -28,10 +28,10 @@ Tienes [Geox U Wells C  Zapatillas Hombre  Azul  Dark Navy   45 EU](https://www.
 
 🔎:
 
-- Cierre: no especificado
-- Material exterior: piel y textil. Material interior: malla. Suela: goma
-- He_Sho_Schnuerschuhe_T
-- Piel y tela
 - malla
+- Material exterior: piel y textil. Material interior: malla. Suela: goma
+- Cierre: no especificado
+- Piel y tela
+- He_Sho_Schnuerschuhe_T
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076X64PJX/?tag=tolees-21)
