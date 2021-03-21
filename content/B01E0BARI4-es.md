@@ -28,7 +28,7 @@ Tienes [Superga 2750 COTU Classic  Zapatillas Hombre  Gris  Grey Seashell G04   
 
 🔎:
 
-- Zapatos con cordones.
 - Superga - Zapatillas de moda
+- Zapatos con cordones.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01E0BARI4/?tag=tolees-21)
