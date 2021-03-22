@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'HP X500 - Ratón con cable  3 botones  óp al 40.04 % de descuento'
-date: 2021-03-14 15:46:14
+date: 2021-03-21 23:02:46
 image: 'https://m.media-amazon.com/images/I/31umYWk1oNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G0F71ZG-es HP X500 - Ratón con cable 3 botones óptico USB negro'
 sku: 'B00G0F71ZG-es'
+tags: [ 'Accesorios','Informática','Ratones','Teclados, ratones y periféricos de entrada','hp', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HP'
 buyurl: 'https://www.amazon.es/dp/B00G0F71ZG/?tag=tolees-21'
 descuento: '40.04'
-average: '7.28090909090909'
+average: '7.20714285714286'
 ---
 
 Está [HP X500 - Ratón con cable  3 botones  óptico  USB   negro](https://www.amazon.es/dp/B00G0F71ZG/?tag=tolees-21) con 40.04 de descuento por 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!
@@ -27,9 +28,9 @@ Está [HP X500 - Ratón con cable  3 botones  óptico  USB   negro](https://www.
 
 ℹ️:
 
-- Productividad: El ratón cuenta con 3 botones y rueda de desplazamiento
+- Ligero: tan solo pesa 106 gramos
 - Simplicidad: Conéctalo cómodamente a tu PC a través del puerto USB
 - Seguimiento óptico: proporciona el seguimiento adecuado en la mayoría de superficies para un control preciso y sin contratiempos
-- Ligero: tan solo pesa 106 gramos
+- Productividad: El ratón cuenta con 3 botones y rueda de desplazamiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00G0F71ZG/?tag=tolees-21)
