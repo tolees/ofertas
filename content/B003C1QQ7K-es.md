@@ -29,8 +29,8 @@ Ahora mismo tienes [Radio Portátil PHILIPS AE2430 Negro  Sintonizador MW/FM  LC
 🔎:
 
 - Pantalla grande lcd para una visualización con poca luz
-- Sintonización digital con 20 presintonías
-- Sintonizador fm/mw; un solo botón
 - Transistor digital portátil
+- Sintonizador fm/mw; un solo botón
+- Sintonización digital con 20 presintonías
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003C1QQ7K/?tag=tolees-21)
