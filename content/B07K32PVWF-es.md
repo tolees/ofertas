@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEGOO Mars 2 Impresora 3D Mono MSLA Imp al 46.12 % de descuento'
-date: 2021-03-20 12:46:07
+date: 2021-03-22 12:17:53
 image: 'https://m.media-amazon.com/images/I/41ea+nA0PeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Ahora mismo tienes [ELEGOO Mars 2 Impresora 3D Mono MSLA Impresora 3D de Resina 
 
 🔎:
 
-- 【Impresiones excepcionales y ultraprecisión】 La nueva estructura de la fuente de luz proporciona una emisión de luz ultravioleta más uniforme y, al trabajar junto con la pantalla LCD monocromática 2K, los detalles y la precisión de la impresión se mejoran enormemente y los modelos impresos en 3D son fascinantes.
 - 【Calidad de construcción robusta】 El cuerpo de aluminio mecanizado por CNC hace de Mars 2 una máquina muy formidable. La placa de construcción pulida con chorro de arena de nuevo diseño tiene una adherencia mucho más fuerte durante la impresión y permite un éxito de impresión constante. El carbón activo incorporado podría absorber el humo de la resina y ofrecerle una experiencia de impresión refrescante.
-- 【Garantía y servicio】 Ofrecemos una garantía de 1 año para toda la impresora y una garantía de 6 meses para la pantalla LCD 2K (se excluye la película FEP).
+- 【Impresiones excepcionales y ultraprecisión】 La nueva estructura de la fuente de luz proporciona una emisión de luz ultravioleta más uniforme y, al trabajar junto con la pantalla LCD monocromática 2K, los detalles y la precisión de la impresión se mejoran enormemente y los modelos impresos en 3D son fascinantes.
 - 【Interfaz en varios idiomas】 Mars 2 ahora admite 12 tipos de idiomas para que los clientes de todo el mundo puedan operar la impresora 3D de manera más conveniente sin restricciones. Los 10 idiomas recién agregados son japonés, holandés, coreano, francés, alemán, ruso, italiano, español , turco y portugués.
 - 【Impresión rápida y menos mantenimiento】 Mars 2 viene con una pantalla LCD monocromática de 6.08 pulgadas con resolución 2K HD y solo toma 2 segundos por capa de exposición para curar la resina, lo que podría mejorar significativamente su eficiencia de impresión. La pantalla LCD monocroma tiene una vida útil mucho más larga y un rendimiento estable durante la impresión a largo plazo, por lo que ahorra costes.
+- 【Garantía y servicio】 Ofrecemos una garantía de 1 año para toda la impresora y una garantía de 6 meses para la pantalla LCD 2K (se excluye la película FEP).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07K32PVWF/?tag=tolees-21)
