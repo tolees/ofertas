@@ -28,8 +28,8 @@ En este momento está [PUMA ESS Logo Crew Sweat TR Sweatshirt  Mujer  Cotton Bla
 
 🔎:
 
-- Cuello redondo, puños y dobladillo de canalé
 - Corte holgado con ligera caída
 - Impresión por pigmento del logotipo N.º 1
+- Cuello redondo, puños y dobladillo de canalé
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D5VF3Q3/?tag=tolees-21)

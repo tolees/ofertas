@@ -28,10 +28,10 @@ Está [Kelme - Zapatillas School Niño](https://www.amazon.es/dp/B07C58F1HX/?tag
 
 ℹ️:
 
-- Velcro
 - Marino
+- Velcro
+- Lavar en frío
 - 28
 - Casual
-- Lavar en frío
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07C58F1HX/?tag=tolees-21)
