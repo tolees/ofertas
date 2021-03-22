@@ -28,11 +28,11 @@ Ahora mismo tienes [PUMA Liga Training Pants Pro Pantalones  Hombre  M  Negro  B
 
 🔎:
 
-- Tejido que absorbe la humedad
-- Corte ajustado
-- Cintura con cordón
-- Dos bolsillos de cadera con cremallera
 - Drycell: tecnología puma que absorbe la humedad y ayuda a mantenerte seco y cómodo
+- Corte ajustado
+- Dos bolsillos de cadera con cremallera
+- Tejido que absorbe la humedad
+- Cintura con cordón
 - Tipo de deporte: Soccer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CNFLM2L/?tag=tolees-21)
