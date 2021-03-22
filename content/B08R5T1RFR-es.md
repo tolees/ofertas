@@ -29,9 +29,9 @@ Está [PEETPEN - Linterna LED impermeable Recargable USB de 900 m de largo alcan
 ℹ️:
 
 - 4 modos de trabajo: alto / bajo / estroboscópico / SOS /. es lo suficientemente brillante como para ser una linterna dedicada o simplemente disponible en caso de emergencia. Una linterna L70 puede satisfacer diversas necesidades de la vida diaria o al aire libre.
-- Alta calidad, IPX4 a prueba de agua: el estuche utiliza una aleación de aluminio de alta calidad, lo que hace que las linternas sean más confiables y duraderas. El diseño impermeable íntimo le permite usarlo con confianza en días de lluvia.
-- Ultra brillante, 900 m de larga distancia: linterna potente PEETPEN L70, alcance de hasta 2952 pies, el haz ultra ancho ilumina sin esfuerzo toda una habitación o jardín. Lo suficientemente compacto como para deslizarse fácilmente en su mochila, bolsa de supervivencia o guantera.
 - El paquete incluye: 1 linterna L70, 1 batería recargable 2C, 1 cable USB, 1 correa, 1 anillo impermeable. Perfecto para acampar, hacer senderismo, pescar, correr, caminar, cortes de energía, emergencias, búsquedas específicas y uso doméstico general.
+- Ultra brillante, 900 m de larga distancia: linterna potente PEETPEN L70, alcance de hasta 2952 pies, el haz ultra ancho ilumina sin esfuerzo toda una habitación o jardín. Lo suficientemente compacto como para deslizarse fácilmente en su mochila, bolsa de supervivencia o guantera.
 - USB recargable: esta linterna LED funciona con una batería recargable 2C (incluida) que se puede recargar directamente y viene con un cable micro-USB que le permite cargar la linterna a través de una computadora / PowerBank / cargador de pared. L70 también es compatible con dos pilas alcalinas de 1,5 V-2
+- Alta calidad, IPX4 a prueba de agua: el estuche utiliza una aleación de aluminio de alta calidad, lo que hace que las linternas sean más confiables y duraderas. El diseño impermeable íntimo le permite usarlo con confianza en días de lluvia.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08R5T1RFR/?tag=tolees-21)
