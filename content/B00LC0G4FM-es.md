@@ -29,7 +29,7 @@ Tienes [Hugo Boss 58396 - Agua de perfume](https://www.amazon.es/dp/B00LC0G4FM/?
 🔎:
 
 - Productos de belleza y el cuidado personal
-- Tipo de producto: Agua de perfume
 - Marca: Hugo Boss-boss
+- Tipo de producto: Agua de perfume
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00LC0G4FM/?tag=tolees-21)

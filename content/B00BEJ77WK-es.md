@@ -28,10 +28,10 @@ Ahora mismo tienes [Russell Hobbs Cook@Home 19750-56 - Vaporera y Arrocera  Inox
 
 🔎:
 
-- Potencia de 700 vatios
+- Función automática de mantenimiento del calor y apagado automático
 - Dispone de dos accesorios extraíbles: una cubeta antiadherente con capacidad de 1.8 l, y una bandeja para cocinar al vapor
+- Potencia de 700 vatios
 - Incluye espátula y vaso medidor
 - Vaporera con carcasa de acero inoxidable cepillado y tapa de cristal
-- Función automática de mantenimiento del calor y apagado automático
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BEJ77WK/?tag=tolees-21)
