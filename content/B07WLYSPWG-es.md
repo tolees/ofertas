@@ -28,10 +28,10 @@ Ahora mismo tienes [IKOHS Create Pizza Maker - Horno Eléctrico Pizzas  Base de 
 
 🔎:
 
-- Gracias a su diseño, hacer pizzas con Vulcano es cómodo, práctico y limpio. Su placa de piedra refractaria antiadherente tiene dos asas para extraerla del horno, con lo que podrás tanto hornear, servir y limpiar con total comodidad.
 - Horno Eléctrico Pizzas prepara las pizzas en tan solo 6 min, dejando las pizzas perfectas gracias a una base de piedra refractaria antiadherente de 31 CM de diámetro.
 - Podrás hornear, asar y gratinar infinidad de platos, servirlos con comodidad y limpiar la piedra fácilmente.
-- Vulcano alcanza rápidamente una temperatura máxima de unos 350° en 5 niveles de potencia, con lo que en unos 5 a 10 min., tendrás lista para servir una deliciosa pizza al horno de piedra recién hecha.
+- Gracias a su diseño, hacer pizzas con Vulcano es cómodo, práctico y limpio. Su placa de piedra refractaria antiadherente tiene dos asas para extraerla del horno, con lo que podrás tanto hornear, servir y limpiar con total comodidad.
 - Con un diseño vanguardista inspirado en los hornos de piedra de los maestros pizzeros italianos, ventanilla de doble cristal termorresistente para observar y controlar el grado de cocción, y un termostato regulable hasta más de 350° en 5 niveles de potencia, el horno para pizzas eléctrico VULCANO prepara la pizza con todo el sabor de la mejor tradición italiana.
+- Vulcano alcanza rápidamente una temperatura máxima de unos 350° en 5 niveles de potencia, con lo que en unos 5 a 10 min., tendrás lista para servir una deliciosa pizza al horno de piedra recién hecha.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WLYSPWG/?tag=tolees-21)

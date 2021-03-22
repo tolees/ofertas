@@ -28,10 +28,10 @@ Tienes [IKOHS LIGHTCALM Black - Ventilador de Techo con Luz  Silencioso  3 Aspas
 
 🔎:
 
-- Además, el ventilador de techo con luz y motor DC de IKOHS incluye en su diseño el SUBNoise System, lo que lo convierte en uno de los ventiladores más silencio del mercado, consiguiendo así estancias y hogares aclimatados, limpios y perfectamente iluminados.
-- Controla cómodamente todas sus funciones gracias al sistema TOTAL CONTROL de su mando a distancia: temporizador, función reverse, 6 velocidades y también sus 3 temperaturas de color de luz (blanca, cálida y cool).
 - LIGTHCALM BLACK DC es un ventilador de techo perfecto para ventilar y aclimatar diferentes espacios en diferentes épocas del año.
+- Controla cómodamente todas sus funciones gracias al sistema TOTAL CONTROL de su mando a distancia: temporizador, función reverse, 6 velocidades y también sus 3 temperaturas de color de luz (blanca, cálida y cool).
 - Elige el tipo de iluminación que más te apetezca para combinarlo con sus capacidades ventiladoras.
 - Gracias a su función Reverse que invierte el sentido del giro de sus aspas: en invierno, empujará el aire caliente que se acumula en el techo para devolverlo hacia el suelo y distribuirlo mejor por la estancia.
+- Además, el ventilador de techo con luz y motor DC de IKOHS incluye en su diseño el SUBNoise System, lo que lo convierte en uno de los ventiladores más silencio del mercado, consiguiendo así estancias y hogares aclimatados, limpios y perfectamente iluminados.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083WPC8S4/?tag=tolees-21)

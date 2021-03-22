@@ -28,10 +28,10 @@ Ahora mismo tienes [Motorola Baby Comfort 45 Connect - Video-Babyphone Wi-Fi con
 
 🔎:
 
-- Indicador visual del nivel acústico, notificaciones y control de sonido, movimiento y temperatura
 - Función pan-scan remota, zoom digital e inclinación, transmisión de vídeo HD a 720P HD en smartphones y tabletas compatibles
-- Alcance de hasta 300 m o convertir su smartphone o tableta conectados a internet en una cámara vigila bebés con vídeo para controlar a su bebé desde cualquier lugar
-- Visión Nocturna por infrarrojos – Nanas - Comunicación bidireccional
 - Tecnología inalámbrica 2.4GHz FHSS (para visualización local) y conectividad inalámbrica wifi (para una visualización remota)
+- Visión Nocturna por infrarrojos – Nanas - Comunicación bidireccional
+- Alcance de hasta 300 m o convertir su smartphone o tableta conectados a internet en una cámara vigila bebés con vídeo para controlar a su bebé desde cualquier lugar
+- Indicador visual del nivel acústico, notificaciones y control de sonido, movimiento y temperatura
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0857SNCXM/?tag=tolees-21)

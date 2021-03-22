@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'M3 MEDIATRES ESTUDIO - Crows la trilogía al 69.02 % de rebaja'
-date: 2021-03-19 19:55:29
+date: 2021-03-22 01:26:38
 image: 'https://m.media-amazon.com/images/I/51IkZQZUNzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'M3 MEDIATRES ESTUDIO'
 buyurl: 'https://www.amazon.es/dp/B014VZALMG/?tag=tolees-21'
 descuento: '69.02'
-average: '9.96315789473683'
+average: '10.0114285714286'
 ---
 
 Tienes [M3 MEDIATRES ESTUDIO - Crows la trilogía](https://www.amazon.es/dp/B014VZALMG/?tag=tolees-21) con precio final de  10.47 EUR (original: 33.8 EUR) (69.02 %  de rebaja) aqui!
