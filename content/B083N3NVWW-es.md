@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney - Le Mans  66 [Blu-ray] con un 58.05 % de descuento'
-date: 2021-03-21 08:18:16
+date: 2021-03-22 14:27:49
 image: 'https://m.media-amazon.com/images/I/51ymS1e1-PL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B083N3NVWW/?tag=tolees-21'
 descuento: '58.05'
-average: '12.9225000000001'
+average: '12.4704545454547'
 ---
 
 En este momento está [Disney - Le Mans  66 [Blu-ray]](https://www.amazon.es/dp/B083N3NVWW/?tag=tolees-21) a 7.95 EUR (original: 18.95 EUR) (58.05 %  de descuento) en el siguiente enlace!

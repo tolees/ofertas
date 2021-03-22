@@ -28,11 +28,11 @@ Ahora mismo tienes [Sony SRS-XB12V  Altavoz Inalámbrico  Bluetooth  Extra Bass 
 
 🔎:
 
-- Extra bass para un sonido rotundo y profundo
 - Hasta 16 horas de duración de la batería
-- Diseño compacto y portátil
-- Se suministra con correa desmontable
 - Resistente al agua y al polvo (calificación ip67)
 - Bluetooth: Versión 4.2; Perfiles compatibles: A2DP/AVRCP/HFP/HSP; Rango de frecuencia: 2,4 GHz
+- Diseño compacto y portátil
+- Se suministra con correa desmontable
+- Extra bass para un sonido rotundo y profundo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MPQW47X/?tag=tolees-21)

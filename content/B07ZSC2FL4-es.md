@@ -28,8 +28,8 @@ Tienes [Hurley U Solid Scout Hip Pack Riñonera  Hombre  Black  1SIZE](https://w
 
 🔎:
 
+- Cinta regulable para asegurar un ajuste personalizable
 - 100% poliéster
 - Transporte cómodo
-- Cinta regulable para asegurar un ajuste personalizable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07ZSC2FL4/?tag=tolees-21)

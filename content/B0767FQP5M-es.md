@@ -28,10 +28,10 @@ Tienes [Chicco Trío Sprint - Cochecito de paseo 3 en 1 con capazo  carrito y si
 
 ℹ️:
 
+- Amplio asiento y máximo comfort
 - Capazo inclinable desde el exterior
+- Cochecito práctico y ligero
 - Manillar 360º
 - Compacta y fácil de plegar
-- Amplio asiento y máximo comfort
-- Cochecito práctico y ligero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0767FQP5M/?tag=tolees-21)

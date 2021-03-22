@@ -28,10 +28,10 @@ En este momento está [Case Logic DCB302K - Bolsa para cámaras Digitales compac
 
 🔎:
 
-- Tiene una correa de hombro desmontable
+- Cierre con cremallera
 - Compatible con cámaras digitales compactas, 7,1 x 7,9 x 12,4 cm
+- Tiene una correa de hombro desmontable
 - Producto está hecho de poliéster
 - Con compartimentos para accesorios
-- Cierre con cremallera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003F7DWH8/?tag=tolees-21)

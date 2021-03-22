@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - POP! Vinilo: Games: Fortnite: Lo al 38.36 % de descuento'
-date: 2021-03-21 14:19:23
+date: 2021-03-22 14:31:40
 image: 'https://m.media-amazon.com/images/I/41vdPJguF1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Funko'
 buyurl: 'https://www.amazon.es/dp/B07MHXLHLD/?tag=tolees-21'
 descuento: '38.36'
-average: '12.6352112676057'
+average: '12.6181944444445'
 ---
 
 Ahora mismo tienes [Funko - POP! Vinilo: Games: Fortnite: Loot Lama](https://www.amazon.es/dp/B07MHXLHLD/?tag=tolees-21) a 11.41 EUR (original: 18.51 EUR) (38.36 %  de descuento) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [Funko - POP! Vinilo: Games: Fortnite: Loot Lama](https://www
 🔎:
 
 - Fortnite
-- Loot Lama
 - Descubre otras figuras de la colección fortnite y colecciónalas todas
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Loot Lama
 - De la colección Fortnite, Loot Lama como figura de vinilo POP de Funko
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MHXLHLD/?tag=tolees-21)
