@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'adidas Duramo SL  Sneaker Hombre  Core B con un 43.65 % de descuento'
-date: 2021-03-15 04:21:30
+date: 2021-03-22 08:16:13
 image: 'https://m.media-amazon.com/images/I/31nN64xe5KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0834BKDC3-es adidas Duramo SL Sneaker Hombre Core Black/Footwear...'
 sku: 'B0834BKDC3-es'
+tags: [ 'Calzado deportivo para hombre','Calzados de running para hombre','Calzados para correr en asfalto para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','adidas', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99
@@ -27,8 +28,8 @@ En este momento está [adidas Duramo SL  Sneaker Hombre  Core Black/Footwear Whi
 
 🔎:
 
-- Corte regular
-- Cordones de zapatos
 - Malla superior
+- Cordones de zapatos
+- Corte regular
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0834BKDC3/?tag=tolees-21)

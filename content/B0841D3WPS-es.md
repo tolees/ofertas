@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger - Tommy Jeans Hombre SCAN con un 57.88 % de descuento'
-date: 2021-03-21 08:22:01
+date: 2021-03-22 08:43:12
 image: 'https://m.media-amazon.com/images/I/31w7p7+e25L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B0841D3WPS/?tag=tolees-21'
 descuento: '57.88'
-average: '44.53'
+average: '43.8842857142857'
 ---
 
 En este momento está [Tommy Hilfiger - Tommy Jeans Hombre SCANTON SLIM OLBBCF Pantalones  Oslo Blue Bk Com  W29/L30](https://www.amazon.es/dp/B0841D3WPS/?tag=tolees-21) a 40.01 EUR (original: 95.0 EUR) (57.88 %  de descuento) en el siguiente enlace!
