@@ -28,7 +28,7 @@ Tienes [Tommy Hilfiger TH MEN SOCK CLASSIC 2P Calcetines Clasicas  Negro  Black 
 
 🔎:
 
-- Puntera terminada a mano para evitar molestias.
 - Algodón peinado para proporcionar una sensación de suavidad.
+- Puntera terminada a mano para evitar molestias.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005IW54NI/?tag=tolees-21)
