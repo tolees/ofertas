@@ -28,10 +28,10 @@ Está [Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Cuero MK
 
 ℹ️:
 
-- Material de la correa: Piel
+- Resistente al agua: 5 ATM
 - Ancho de la correa: 12 mm; Circunferencia de la correa: 175 +/-5 mm
 - Grosor de la caja: 7 mm; Tamaño de la caja: 28 mm
-- Resistente al agua: 5 ATM
+- Material de la correa: Piel
 - Se presenta en caja de regalo Michael Kors
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G4NT86Z/?tag=tolees-21)
