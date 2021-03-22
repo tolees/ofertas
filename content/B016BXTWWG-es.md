@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Devolo dLAN 550 WiFi - Kit de Inicio PLC al 50.80 % de descuento'
-date: 2021-03-04 13:45:27
+title: 'Devolo dLAN 550 WiFi - Kit de Inicio PLC al 36.70 % de descuento'
+date: 2021-03-22 17:40:28
 image: 'https://m.media-amazon.com/images/I/31qiQz7BE8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016BXTWWG-es Devolo dLAN 550 WiFi - Kit de Inicio PLC Powerline 500...'
 sku: 'B016BXTWWG-es'
-actualPrice: 58.99 EUR
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','devolo', ]
+actualPrice: 75.9 EUR
 currency: EUR
-price: 58.99
+price: 75.9
 comparePrice: 119.9 EUR
 prodname: 'Devolo dLAN 550 WiFi - Kit de Inicio PLC Powerline  500 Mbps  2 x adaptadores  2 x Puertos LAN  Enchufe WiFi  Amplificador de señal WiFi  Mejorar WiFi  WiFi Move   Blanco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Devolo'
 buyurl: 'https://www.amazon.es/dp/B016BXTWWG/?tag=tolees-21'
-descuento: '50.80'
-average: '65.7195652173913'
+descuento: '36.70'
+average: '66.534'
 ---
 
-Está [Devolo dLAN 550 WiFi - Kit de Inicio PLC Powerline  500 Mbps  2 x adaptadores  2 x Puertos LAN  Enchufe WiFi  Amplificador de señal WiFi  Mejorar WiFi  WiFi Move   Blanco](https://www.amazon.es/dp/B016BXTWWG/?tag=tolees-21) con 50.80 de descuento por 58.99 EUR (original: 119.9 EUR) en el siguiente enlace!
+Está [Devolo dLAN 550 WiFi - Kit de Inicio PLC Powerline  500 Mbps  2 x adaptadores  2 x Puertos LAN  Enchufe WiFi  Amplificador de señal WiFi  Mejorar WiFi  WiFi Move   Blanco](https://www.amazon.es/dp/B016BXTWWG/?tag=tolees-21) con 36.70 de descuento por 75.9 EUR (original: 119.9 EUR) en el siguiente enlace!
 
 [![Devolo dLAN 550 WiFi - Kit de Inicio PLC](https://m.media-amazon.com/images/I/31qiQz7BE8L._SL400_.jpg)](https://www.amazon.es/dp/B016BXTWWG/?tag=tolees-21)
 

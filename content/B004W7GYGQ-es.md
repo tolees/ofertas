@@ -29,8 +29,8 @@ Ahora mismo tienes [Duracell Plus Power 6LR61/MN1604  Batería alcalina  Transis
 🔎:
 
 - Control remoto
-- Número de modelo del producto: 6LP3146
 - Alta durabilidad
 - Una unidad
+- Número de modelo del producto: 6LP3146
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004W7GYGQ/?tag=tolees-21)
