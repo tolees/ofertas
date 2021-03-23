@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Descuento del 57.57 % en Michael Kors Reloj Analogico para Mujer '
-date: 2021-03-13 15:41:22
+title: 'Descuento del 57.67 % en Michael Kors Reloj Analogico para Mujer '
+date: 2021-03-23 21:17:15
 image: 'https://m.media-amazon.com/images/I/41x85s5EO2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AB4YG0U-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B00AB4YG0U-es'
-actualPrice: 126.87 EUR
+tags: [ 'Relojes','Relojes de pulsera para mujeres','Relojes para mujer','michael kors', ]
+actualPrice: 126.56 EUR
 currency: EUR
-price: 126.87
+price: 126.56
 comparePrice: 299.0 EUR
 prodname: 'Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3203'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.es/dp/B00AB4YG0U/?tag=tolees-21'
-descuento: '57.57'
-average: '123.073636363636'
+descuento: '57.67'
+average: '123.364166666666'
 ---
 
-Tienes [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3203](https://www.amazon.es/dp/B00AB4YG0U/?tag=tolees-21) con un 57.57 % de descuento con precio de oferta de 126.87 EUR (original: 299.0 EUR) en el siguiente enlace!
+Tienes [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3203](https://www.amazon.es/dp/B00AB4YG0U/?tag=tolees-21) con un 57.67 % de descuento con precio de oferta de 126.56 EUR (original: 299.0 EUR) en el siguiente enlace!
 
 [![Michael Kors Reloj Analogico para Mujer ](https://m.media-amazon.com/images/I/41x85s5EO2L._SL400_.jpg)](https://www.amazon.es/dp/B00AB4YG0U/?tag=tolees-21)
 
