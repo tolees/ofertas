@@ -28,9 +28,9 @@ Tienes [Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxi
 
 🔎:
 
-- Caja redonda de acero inoxidable negro con esfera en tonos dorados
 - Caja de 55 mm, correa de 22 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica de cronógrafo
 - Brazalete de acero inoxidable negro
+- Caja redonda de acero inoxidable negro con esfera en tonos dorados
 - Se presenta en caja de regalo Diesel
 - Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 
