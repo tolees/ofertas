@@ -28,11 +28,11 @@ En este momento está [Vino Solaz Blanco 100% Verdejo - 6 botellas de 75 cl- Tot
 
 🔎:
 
+- PREMIOS Calidad reconocida añada tras añada 2016 International Wine Challenge, Recomendado. 2012 Baco Joven, Medalla de Oro. 2007 The Wine Enthusiast, Mejor compra. 2006 San Antonio Wine Competition, Bronce. 2005 Critics Challenge International Wine Competition, Premio de la Crítica.
 - De color amarillo pajizo, con reflejos verdosos, brillante.
+- En nariz, intenso limpio y fresco con buen equilibrio de fruta blanca y notas vegetales. En boca es glicérico, sabroso con viva acidez. De final persistente, afrutado y con el postgusto amargo y largo característicos del Verdejo.
 - Añada: 2018
 - Buen acompañante de arroces, pastas y todo tipo de pescados y mariscos. Temperatura de servicio: 7 a 10ºC.
-- PREMIOS Calidad reconocida añada tras añada 2016 International Wine Challenge, Recomendado. 2012 Baco Joven, Medalla de Oro. 2007 The Wine Enthusiast, Mejor compra. 2006 San Antonio Wine Competition, Bronce. 2005 Critics Challenge International Wine Competition, Premio de la Crítica.
-- En nariz, intenso limpio y fresco con buen equilibrio de fruta blanca y notas vegetales. En boca es glicérico, sabroso con viva acidez. De final persistente, afrutado y con el postgusto amargo y largo característicos del Verdejo.
 - Alcohol: 12% v/v
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005SAZ3KE/?tag=tolees-21)

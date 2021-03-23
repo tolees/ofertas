@@ -28,8 +28,8 @@ En este momento está [O NEILL PM Cali Shorts Boardshort Elasticated para Hombre
 
 🔎:
 
-- Regular fit
-- Logo lateral
 - Boardshorts Elasticated
+- Logo lateral
+- Regular fit
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZDL63YC/?tag=tolees-21)

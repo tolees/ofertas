@@ -29,9 +29,9 @@ En este momento está [Black+Decker BEH850KA32-QS Taladro percutor con cable 850
 🔎:
 
 - Diámetro máximo de perforación en madera es de 32 mm, en metal de 13 mm y en mampostería de 16 mm
-- Su fuerza percutora de 54.400 imp. es recomendada para perforación en mampostería, metal y madera
-- El kit incluye 1 caja para herramientas de 16” (40.6 cm)
-- El set contiene 32 accesorios
 - Taladro percutor con cable de 850 W y portabrocas de 13 mm con ajuste automático
+- El kit incluye 1 caja para herramientas de 16” (40.6 cm)
+- Su fuerza percutora de 54.400 imp. es recomendada para perforación en mampostería, metal y madera
+- El set contiene 32 accesorios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N17JK8P/?tag=tolees-21)
