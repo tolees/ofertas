@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polar Vantage M -Reloj con GPS y Frecuen al 39.28 % de rebaja'
-date: 2021-03-22 11:48:21
+date: 2021-03-23 18:59:16
 image: 'https://m.media-amazon.com/images/I/41DgFsuso3L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Polar'
 buyurl: 'https://www.amazon.es/dp/B07G82FHP9/?tag=tolees-21'
 descuento: '39.28'
-average: '196.475714285714'
+average: '194.707333333333'
 ---
 
 Tienes [Polar Vantage M -Reloj con GPS y Frecuencia Cardíaca - Multideporte y programas de running - Resistente al agua  ligero- Negro Talla M/L](https://www.amazon.es/dp/B07G82FHP9/?tag=tolees-21) con precio final de  169.95 EUR (original: 279.9 EUR) (39.28 %  de rebaja) aqui!
