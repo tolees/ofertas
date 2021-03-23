@@ -28,10 +28,10 @@ Ahora mismo tienes [Einhell TH-VC 1930 SA - Aspirador seco - húmedo  telecomand
 
 🔎:
 
-- Potencia de 1500 W
-- Diámetro de succión de 36 mm
-- Largo de la manguera de 1.5 m
-- Incluye accesorios y cable de conexión
 - Deposito de 30 l
+- Diámetro de succión de 36 mm
+- Incluye accesorios y cable de conexión
+- Potencia de 1500 W
+- Largo de la manguera de 1.5 m
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BNTUA2K/?tag=tolees-21)

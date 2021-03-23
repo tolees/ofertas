@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.50 % en Bosch Home and Garden - Bosch PSM 80 A -'
-date: 2021-03-22 12:21:44
+date: 2021-03-23 15:29:07
 image: 'https://m.media-amazon.com/images/I/41M8H8yhsaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Home and Garden'
 buyurl: 'https://www.amazon.es/dp/B000PXHIFM/?tag=tolees-21'
 descuento: '51.50'
-average: '41.7440625'
+average: '41.4636363636364'
 ---
 
 Tienes [Bosch Home and Garden - Bosch PSM 80 A - Multilijadora  3 hojas de lija RedWood  con maletín  80 W  nº carreras en vacío: 20.000 min-1  Ø circuito oscilante: 1 4 mm ](https://www.amazon.es/dp/B000PXHIFM/?tag=tolees-21) con un 51.50 % de descuento con precio de oferta de 32.49 EUR (original: 66.99 EUR) en el siguiente enlace!
@@ -28,12 +28,12 @@ Tienes [Bosch Home and Garden - Bosch PSM 80 A - Multilijadora  3 hojas de lija 
 
 ℹ️:
 
-- Trabajo limpio gracias al sistema microfiltro de Bosch: el elemento de aspiración integrado aspira el polvo directamente al interior del depósito del sistema microfiltro suministrado
 - La lijadora "multitalento" de fácil manejo
 - La potente herramienta de 80 W que lija y pule incluso en zonas de difícil acceso y en superficies pequeñas
+- Trabajo limpio gracias al sistema microfiltro de Bosch: el elemento de aspiración integrado aspira el polvo directamente al interior del depósito del sistema microfiltro suministrado
+- Conexión para aspiración de polvo
 - Incluye: Multilijadora PSM 80 A, 3 hojas de lija RedWood, maletín
 - Placa lijadora dividida en dos: para el aprovechamiento óptimo de la hoja de lija, la punta delta de la hoja y de la placa pueden soltarse y girarse sin esfuerzos
 - Cierre de cardillo para el cambio rápido y cómodo de la hoja lijadora
-- Conexión para aspiración de polvo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000PXHIFM/?tag=tolees-21)

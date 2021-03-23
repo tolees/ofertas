@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell TC-CD 12 Li - Taladro atornillad con un 52.48 % de descuento'
-date: 2021-03-22 06:17:00
+date: 2021-03-23 15:05:45
 image: 'https://m.media-amazon.com/images/I/41oey7YfH7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B00M3U23GO/?tag=tolees-21'
 descuento: '52.48'
-average: '41.8542857142857'
+average: '41.5182608695653'
 ---
 
 En este momento está [Einhell TC-CD 12 Li - Taladro atornillador 12 V sin Cable con Cabezal Extraible  2 velocidades  con cargador  batería 1.3 Ah  mandril portabrocas desmontable  luz LED y maletín](https://www.amazon.es/dp/B00M3U23GO/?tag=tolees-21) a 37.99 EUR (original: 79.95 EUR) (52.48 %  de descuento) en el siguiente enlace!
@@ -30,10 +30,10 @@ En este momento está [Einhell TC-CD 12 Li - Taladro atornillador 12 V sin Cable
 
 - Forma constructiva esbelta con empuñadura antideslizante
 - Bloqueo de husillo automático
-- Cargador rápido de 1 hora
-- Mandril portabrocas de sujeción rápida de carcasa única
-- Engranaje de 2 velocidades para la perforación y atornillado potente
-- Unidad electrónica de precisión para regular el número de revoluciones
 - Mandril portabrocas desmontable y de este modo forma constructiva más corta y ligera
+- Engranaje de 2 velocidades para la perforación y atornillado potente
+- Mandril portabrocas de sujeción rápida de carcasa única
+- Cargador rápido de 1 hora
+- Unidad electrónica de precisión para regular el número de revoluciones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00M3U23GO/?tag=tolees-21)
