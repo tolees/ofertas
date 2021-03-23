@@ -28,8 +28,8 @@ Ahora mismo tienes [Helly Hansen W HH Logo Hoodie Hoodie  Mujer  Navy  XS](https
 
 🔎:
 
-- Soft Cotton French terry
-- Ribbed hem and sleeve cuffs
 - Jersey lined hood
+- Ribbed hem and sleeve cuffs
+- Soft Cotton French terry
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073RP7KPH/?tag=tolees-21)
