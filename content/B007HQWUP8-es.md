@@ -28,10 +28,10 @@ En este momento está [Bosch Professional GKS 65 GCE - Sierra circular  1800 W  
 
 🔎:
 
-- Posibilidad de realizar cortes a inglete con los carriles guía sin adaptador
-- Incluye: GKS 65 GCE, llave allen (ancho 5), adaptador de aspiración, 1 disco de sierra circular para madera (2608641184), en caja
-- La sierra circular portátil GKS 65 GCE está optimizada para los carriles guía
-- Compatibilidad total con el nuevo sistema de carriles guía FSN de Bosch y con carriles de otros fabricantes
 - Gran avance de corte gracias al motor de 1800 W y al sistema Constant Electronic
+- Compatibilidad total con el nuevo sistema de carriles guía FSN de Bosch y con carriles de otros fabricantes
+- Incluye: GKS 65 GCE, llave allen (ancho 5), adaptador de aspiración, 1 disco de sierra circular para madera (2608641184), en caja
+- Posibilidad de realizar cortes a inglete con los carriles guía sin adaptador
+- La sierra circular portátil GKS 65 GCE está optimizada para los carriles guía
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B007HQWUP8/?tag=tolees-21)

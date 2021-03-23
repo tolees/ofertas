@@ -28,9 +28,9 @@ Ahora mismo tienes [Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Resp
 
 🔎:
 
-- Construcción de tela Softshell
 - Forro polar forrado en la espalda para mayor comodidad.
 - Resistente al agua, a prueba de viento y transpirable.
+- Construcción de tela Softshell
 - Cremallera frontal YKK, bolsillos para las manos y el pecho.
 - Dobladillo y puños ajustables
 

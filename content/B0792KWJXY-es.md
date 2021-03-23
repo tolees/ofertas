@@ -29,12 +29,12 @@ Ahora mismo tienes [Geox J Arzach Boy D  Sneaker  Negro  Black C9999   35 EU](ht
 🔎:
 
 - Altura del tacón: 2.5 centímetros
-- Revestimiento: Sintético
-- Tipo de talla: Los zapatos Geox son holgados
-- Cierre: Cordones
-- Composición: Cuero
-- Material de la suela: Caucho
 - Tipo de tacón: Plano
 - Material exterior: Sintético
+- Revestimiento: Sintético
+- Tipo de talla: Los zapatos Geox son holgados
+- Material de la suela: Caucho
+- Cierre: Cordones
+- Composición: Cuero
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792KWJXY/?tag=tolees-21)

@@ -28,9 +28,9 @@ Está [Helly Hansen Paramount Resistente Al Agua Y Al Viento Y Respirable Chaque
 
 ℹ️:
 
-- Cremallera frontal YKK, bolsillos para las manos y el pecho.
-- Resistente al agua, a prueba de viento y transpirable.
 - Construcción de tela Softshell
+- Resistente al agua, a prueba de viento y transpirable.
+- Cremallera frontal YKK, bolsillos para las manos y el pecho.
 - Forro polar forrado en la espalda para mayor comodidad.
 - Dobladillo y puños ajustables
 

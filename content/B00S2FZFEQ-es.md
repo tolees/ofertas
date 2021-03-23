@@ -28,8 +28,8 @@ Ahora mismo tienes [PUMA WT ESS. Straight Legs Pantalones  Mujer  Negro  M](http
 
 🔎:
 
-- Malla interna WB para mayor apoyo y comodidad del abdomen
 - Bolsillo interno en la cintura cortado con láser para un almacenamiento seguro que no añade volumen a tu cintura
 - Drycell: materiales altamente funcionales que eliminan el sudor de la piel y te ayudan a mantenerte seco y cómodo durante el ejercicio
+- Malla interna WB para mayor apoyo y comodidad del abdomen
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00S2FZFEQ/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [PUMA Baseball Tricot Suit Chándal  Hombre  Black  M](https://www.amazon.
 
 ℹ️:
 
+- Chaqueta y pantalones de corte normal
+- bluesign: Como socios de bluesign, somos una parte responsable de la cadena de suministro textil y nos comprometemos a tener un enfoque limpio y seguro en la gestión de insumos de ingreso
+- Cierre de cremallera completo
 - Dobladillo y puños elásticos
 - Bolsillos laterales en la chaqueta y los pantalones
-- bluesign: Como socios de bluesign, somos una parte responsable de la cadena de suministro textil y nos comprometemos a tener un enfoque limpio y seguro en la gestión de insumos de ingreso
-- Chaqueta y pantalones de corte normal
-- Cierre de cremallera completo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089Z6HTYX/?tag=tolees-21)

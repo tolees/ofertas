@@ -28,9 +28,9 @@ Ahora mismo tienes [WMF Gourmet Colador  Acero Inoxidable Pulido](https://www.am
 
 🔎:
 
-- Utensilio de cocina práctico para diversas tareas: lave, enjuague, escurre
 - Funcionalidad bien diseñado y construcción robusta
-- Apto para lavavajillas
 - Material: Cromargan, 18/10 de acero inoxidable
+- Apto para lavavajillas
+- Utensilio de cocina práctico para diversas tareas: lave, enjuague, escurre
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000WGJ7YM/?tag=tolees-21)

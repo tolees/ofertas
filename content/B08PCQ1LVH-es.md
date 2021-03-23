@@ -29,9 +29,9 @@ Está [Hoseten - Cápsula de café  cápsula de café  ecológica para café de 
 ℹ️:
 
 - La fina malla de filtro de acero inoxidable garantiza una buena filtración y un sabor fuerte y original.
-- Regalo perfecto para tus amigos amantes del café.
 - Es fácil de limpiar con agua corriente, viene con cepillo de limpieza para eliminar los residuos en la malla.
 - La cápsula de café está hecha de plástico y malla de filtro de acero inoxidable, segura, no tóxica y duradera.
+- Regalo perfecto para tus amigos amantes del café.
 - Recargable y reutilizable, ecológico y de bajo costo.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08PCQ1LVH/?tag=tolees-21)
