@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alita: Angel De Combate Blu-Ray [Blu-ray al 61.14 % de descuento'
-date: 2021-03-22 02:24:54
+date: 2021-03-23 02:32:41
 image: 'https://m.media-amazon.com/images/I/51O++ewQRhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJK37LV/?tag=tolees-21'
 descuento: '61.14'
-average: '9.80352941176461'
+average: '9.73358490566029'
 ---
 
 Ahora mismo tienes [Alita: Angel De Combate Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07NJK37LV/?tag=tolees-21) a 7.95 EUR (original: 20.46 EUR) (61.14 %  de descuento) en el siguiente enlace!
