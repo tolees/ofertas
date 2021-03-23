@@ -28,9 +28,9 @@ Tienes [Black+Decker BDCHD18BAFC - Taladro con 80 accesorios  2 Baterías de 1
 
 🔎:
 
-- Potente taladro con de 2 marchas
-- Juego de accesorios y maletín de calidad óptima
 - Módulo de velocidad ajustable
+- Juego de accesorios y maletín de calidad óptima
+- Potente taladro con de 2 marchas
 - Requiere 1 batería de iones de litio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MTVW4PU/?tag=tolees-21)

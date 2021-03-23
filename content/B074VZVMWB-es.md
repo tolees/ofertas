@@ -28,10 +28,10 @@ Tienes [Michael Kors Reloj Analógico para Hombre de Cuarzo con Correa en Silico
 
 🔎:
 
+- Compatibilidad: Android OS 5.0+ or iPhone 5/ iOS 9+; Conectividad: Bluetooth Smart Enabled / 4.1 Low Energy; Duración de la batería: Hasta 6 meses* *según el uso
+- Se presenta en caja de regalo Michael Kors Access
+- Grosor de la caja: 13 mm; Tamaño de la caja: 47mm; Ancho de la correa: 24 mm; Circunferencia de la correa: 200 +/-5 mm; Material de la correa: Silicona; Resistente al agua: 5 ATM
 - Michael Kors
 - Este producto se puede enviar únicamente a los siguientes países : Reino Unido, Irlanda, Austria, Alemania, Francia, Bélgica, Países Bajos, Suiza, Dinamarca, Portugal, Italia, España, Suecia, Noruega, Polonia y Luxemburgo
-- Se presenta en caja de regalo Michael Kors Access
-- Compatibilidad: Android OS 5.0+ or iPhone 5/ iOS 9+; Conectividad: Bluetooth Smart Enabled / 4.1 Low Energy; Duración de la batería: Hasta 6 meses* *según el uso
-- Grosor de la caja: 13 mm; Tamaño de la caja: 47mm; Ancho de la correa: 24 mm; Circunferencia de la correa: 200 +/-5 mm; Material de la correa: Silicona; Resistente al agua: 5 ATM
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074VZVMWB/?tag=tolees-21)

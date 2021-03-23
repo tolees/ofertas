@@ -28,10 +28,10 @@ Tienes [ECOVACS DEEBOT OZMO 950 Care  Robot Aspirador 2 en 1 con función de Lim
 
 ℹ️:
 
-- Aspirar y limpiar en un solo paso: con tecnología OZMO & nueva construcción, el DEEBOT OZMO 950 combina una potencia de aspiración aún más fuerte y moderna tecnología de limpieza, el sucesor del Deebot OZMO 930.
-- Contenido del envío: 1 robot limpiador Ecovacs Deep OZMO 950 con función de limpieza, 4 cepillos laterales, 2 filtros de polvo fino, 1 estación de carga, 1 aspiración directa, 1 depósito de agua, 2 paños de microfibra, 50 paños de limpieza desechables.
-- Con la nueva construcción, el robot aspirador limpia incluso lugares de difícil acceso de forma silenciosa y a fondo gracias a la detección de alfombras, la aspiradora distingue el suelo duro y moqueta y ajusta la fuerza de succión.
-- A través de la aplicación ECOVACS Home se pueden establecer límites virtuales en la tarjeta con el teléfono móvil para priorizar o eliminar áreas, el robot limpiará donde se necesite.
 - Smart Navi 3.0: con la navegación láser, el aspirador robot crea una carta interactiva del entorno, de modo que la limpieza se puede planificar de forma eficiente, basta con pulsar un botón para arrancar.
+- Contenido del envío: 1 robot limpiador Ecovacs Deep OZMO 950 con función de limpieza, 4 cepillos laterales, 2 filtros de polvo fino, 1 estación de carga, 1 aspiración directa, 1 depósito de agua, 2 paños de microfibra, 50 paños de limpieza desechables.
+- A través de la aplicación ECOVACS Home se pueden establecer límites virtuales en la tarjeta con el teléfono móvil para priorizar o eliminar áreas, el robot limpiará donde se necesite.
+- Con la nueva construcción, el robot aspirador limpia incluso lugares de difícil acceso de forma silenciosa y a fondo gracias a la detección de alfombras, la aspiradora distingue el suelo duro y moqueta y ajusta la fuerza de succión.
+- Aspirar y limpiar en un solo paso: con tecnología OZMO & nueva construcción, el DEEBOT OZMO 950 combina una potencia de aspiración aún más fuerte y moderna tecnología de limpieza, el sucesor del Deebot OZMO 930.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08D9R15DC/?tag=tolees-21)
