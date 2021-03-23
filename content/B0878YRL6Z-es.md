@@ -28,9 +28,9 @@ Está [BRIKSMAX Kit de Iluminación Led para Lego Architecture Dubai Compatible 
 
 ℹ️:
 
-- Gracias a las instrucciones paso a paso, será mucho más fácil hacer una gran mejora a tu kit de construcción favorito.
 - El paquete contiene mini-luces,tiras de luces, placas de expansión,cables de conexión, portapilas (pilas no incluidas),cuadrados adhesivos,libro de instrucciones
 - Si tienes problemas con tu producto, por favor envíanos u correo electrónico, siempre estamos listos para ayudarte.
+- Gracias a las instrucciones paso a paso, será mucho más fácil hacer una gran mejora a tu kit de construcción favorito.
 - Diseñado para el Lego 21052,Con este kit de iluminación, puedes iluminar tu LEGO Architecture Dubai,y darle vida.
 - Por favor, ten en cuenta que este es sólo un juego de luces LED. Los juegos LEGO que se muestran en las imágenes y videos no están incluidos.
 

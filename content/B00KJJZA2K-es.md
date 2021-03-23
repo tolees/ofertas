@@ -28,10 +28,10 @@ Ahora mismo tienes [Vans Y Atwood - Zapatillas para niños  Color Army/Negro  Ta
 
 🔎:
 
-- Tela superior
+- Vans Active
 - Bajo-top
+- Tela superior
 - Atwood
 - Cierre Cordones
-- Vans Active
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00KJJZA2K/?tag=tolees-21)

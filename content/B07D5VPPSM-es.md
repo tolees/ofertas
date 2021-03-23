@@ -28,8 +28,8 @@ Tienes [PUMA ESS Logo Crew Sweat TR Sweatshirt  Mujer  Cotton Black  L](https://
 
 ℹ️:
 
-- Impresión por pigmento del logotipo N.º 1
 - Cuello redondo, puños y dobladillo de canalé
 - Corte holgado con ligera caída
+- Impresión por pigmento del logotipo N.º 1
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07D5VPPSM/?tag=tolees-21)
