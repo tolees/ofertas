@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Descuento del 63.75 % en Emporio Armani ART5011 reloj inteligente'
-date: 2021-03-05 23:05:26
+date: 2021-03-24 12:43:31
 image: 'https://m.media-amazon.com/images/I/41qGlMrETOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GD8ZZ35-es Emporio Armani ART5011 reloj inteligente Black - Relojes...'
 sku: 'B07GD8ZZ35-es'
+tags: [ 'Relojes','Relojes de pulsera para hombres','Relojes de pulsera para mujeres','Relojes para hombre','Relojes para mujer','emporio armani', ]
 actualPrice: 183.8 EUR
 currency: EUR
 price: 183.8
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Emporio Armani'
 buyurl: 'https://www.amazon.es/dp/B07GD8ZZ35/?tag=tolees-21'
 descuento: '63.75'
-average: '196.9'
+average: '192.533333333333'
 ---
 
 Tienes [Emporio Armani ART5011 reloj inteligente Black - Relojes inteligentes  Black ](https://www.amazon.es/dp/B07GD8ZZ35/?tag=tolees-21) con un 63.75 % de descuento con precio de oferta de 183.8 EUR (original: 506.99 EUR) en el siguiente enlace!
