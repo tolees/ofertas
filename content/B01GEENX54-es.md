@@ -28,10 +28,10 @@ Tienes [oodji Ultra Hombre Camisa a Cuadros Manga Corta  Blanco  40](https://www
 
 🔎:
 
-- Estilo de ropa: Casual
-- Elegante camisa ligera de cuello clásico perfecta para el buen tiempo
 - Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla cm 41 / ES 50 / M. Medidas: 100/83/100. Altura/Peso: 198/88
-- Diseñado en Francia
+- Elegante camisa ligera de cuello clásico perfecta para el buen tiempo
+- Estilo de ropa: Casual
 - Longitud de espalda (talla L): 77cm
+- Diseñado en Francia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01GEENX54/?tag=tolees-21)

@@ -29,8 +29,8 @@ En este momento está [G-STAR RAW Stokyr Slim Turtle Sudadera  Vintage Navy/Copp
 🔎:
 
 - Manga larga recta insertada y puños continuados
-- Cuello vuelto acanalado en forma de pico
-- Bajo recto
 - Etiqueta de G-Star Originals en la parte inferior delantera
+- Bajo recto
+- Cuello vuelto acanalado en forma de pico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CL3KLS/?tag=tolees-21)

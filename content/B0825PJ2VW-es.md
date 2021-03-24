@@ -28,9 +28,9 @@ Ahora mismo tienes [Roxy Rare Feeling - Vestido De Tiras para Mujer Vestido De T
 
 🔎:
 
-- Cuello redondo y panel bordado en canesú de la parte frontal
-- Tejido ligero mezcla de viscosa poliéster
-- Diseño sin mangas
 - Corte normal, clásico, cómodo
+- Diseño sin mangas
+- Tejido ligero mezcla de viscosa poliéster
+- Cuello redondo y panel bordado en canesú de la parte frontal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0825PJ2VW/?tag=tolees-21)

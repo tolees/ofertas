@@ -28,9 +28,9 @@ En este momento está [Helly Hansen HP Racing Prueba De Viento Y Respirable Cuel
 
 🔎:
 
-- Helly Tech Performance: altamente impermeable y extra transpirable
-- Construcción completamente estirada para una máxima libertad de movimiento.
 - Polartec cuello cómodo forrado con vellón
 - Protección total de los elementos a la vez que cómoda en el interior.
+- Helly Tech Performance: altamente impermeable y extra transpirable
+- Construcción completamente estirada para una máxima libertad de movimiento.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F2S3XWL/?tag=tolees-21)

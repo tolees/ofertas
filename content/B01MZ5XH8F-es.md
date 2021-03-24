@@ -28,9 +28,9 @@ En este momento está [Helly Hansen Crew Pique 2 Camisa Polo  Mujer  Blanco  M](
 
 🔎:
 
-- Tapeta con cuello profundo de 4 botones
-- Cómoda tela de piqué de algodón.
 - Logotipo de HH en la manga.
+- Cómoda tela de piqué de algodón.
+- Tapeta con cuello profundo de 4 botones
 - Cuello y puños acanalados.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MZ5XH8F/?tag=tolees-21)

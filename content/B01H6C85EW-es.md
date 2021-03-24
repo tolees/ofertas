@@ -31,7 +31,7 @@ Tienes [Polti Vaporetto Smart 35 Mop Limpiador a Vapor con Cepillo Vaporforce  C
 - 9 accesorios en dotación
 - Caldera de alta presión, hasta 3,5 bar
 - El vapor de polti vaporetto mata y elimina el 99.99% de virus, gérmenes y bacterias
-- Parking system para cepillos y accesorios
 - Erogación de vapor regulable con indicador vapor listo
+- Parking system para cepillos y accesorios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01H6C85EW/?tag=tolees-21)

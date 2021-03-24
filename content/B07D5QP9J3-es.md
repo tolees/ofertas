@@ -29,9 +29,9 @@ En este momento está [PUMA ESS Logo Pants TR cl Pants  Hombre  Medium Gray Heat
 🔎:
 
 - Puños y cintura elásticos con cordón en el interior
+- Estampado en pigmento en relieve del logotipo N.º 1
+- Corte recto
 - Logotipo del felino estampado con pigmentos
 - Bolsillos laterales como solución de almacenamiento
-- Corte recto
-- Estampado en pigmento en relieve del logotipo N.º 1
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D5QP9J3/?tag=tolees-21)

@@ -29,9 +29,9 @@ Tienes [Helly Hansen Crew Camisa Polo  Unisex Adulto  Blanco  M](https://www.ama
 🔎:
 
 - Cómoda tela de piqué de algodón.
-- Protección solar con calificación UPF 50+
-- Logotipo de HH bordado en la manga.
 - Tapeta con cuello profundo de 4 botones
 - Cuello y puños elásticos.
+- Protección solar con calificación UPF 50+
+- Logotipo de HH bordado en la manga.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0789BRLXS/?tag=tolees-21)

@@ -28,8 +28,8 @@ Ahora mismo tienes [Helly Hansen W Kirkwall Raincoat Jacket  Mujer  Azul Navy  L
 
 🔎:
 
+- De alta calidad.
 - Tecnología Helox+ Fabricación con tejido de poliuretano Totalmente impermeable y cortaviento Costuras selladas Canesú de la espalda con orificios de ventilación debajo para mayor comodidad
 - De la marca Helly Hansen.
-- De alta calidad.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F2QFCBL/?tag=tolees-21)

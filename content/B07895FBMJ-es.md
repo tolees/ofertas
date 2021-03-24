@@ -28,10 +28,10 @@ Tienes [Helly Hansen Crew Camisa Polo  Unisex Adulto  Azul Marino  M](https://ww
 
 ℹ️:
 
-- Protección solar con calificación UPF 50+
-- Tapeta con cuello profundo de 4 botones
-- Cómoda tela de piqué de algodón.
 - Logotipo de HH bordado en la manga.
+- Protección solar con calificación UPF 50+
+- Cómoda tela de piqué de algodón.
 - Cuello y puños elásticos.
+- Tapeta con cuello profundo de 4 botones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07895FBMJ/?tag=tolees-21)

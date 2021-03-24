@@ -28,10 +28,10 @@ Tienes [NYX Professional Makeup Paleta de sombra de ojos Swear By It Eye Shadow 
 
 🔎:
 
-- Distintos acabados mates, metalizados y satinados, Colores variados desde un marrón chocolate a un profundo verde turquesa, pasando por un naranja cálido o un amarillo mostaza
-- Color modulable de intensa pigmentación para una gran variedad de looks, Cada grupo de 4 colores adyacentes es ideal para crear tu look
-- Contenido: 1x NYX Professional Makeup Paleta de sombras de ojos Swear By It Eye Shadow Palette, Número de sombras: 40, Dimensiones: 1.8 x 9.9 x 9.6 cm
-- Calidad profesional y efecto de larga duración, Colores intensos y difuminables, Polvos aterciopelados, Utiliza una prebase para prolongar su duración, Se recomienda humedecer los tonos metalizados
 - Amplio abanico de tonos fríos y cálidos, Paleta de 40 sombras de ojos de alto rendimiento, Para looks de día y de noche
+- Contenido: 1x NYX Professional Makeup Paleta de sombras de ojos Swear By It Eye Shadow Palette, Número de sombras: 40, Dimensiones: 1.8 x 9.9 x 9.6 cm
+- Distintos acabados mates, metalizados y satinados, Colores variados desde un marrón chocolate a un profundo verde turquesa, pasando por un naranja cálido o un amarillo mostaza
+- Calidad profesional y efecto de larga duración, Colores intensos y difuminables, Polvos aterciopelados, Utiliza una prebase para prolongar su duración, Se recomienda humedecer los tonos metalizados
+- Color modulable de intensa pigmentación para una gran variedad de looks, Cada grupo de 4 colores adyacentes es ideal para crear tu look
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HXK8LY4/?tag=tolees-21)

@@ -30,8 +30,8 @@ Tienes [Russell Hobbs Adventure - Hervidor de Agua Eléctrico Pequeño  2400 W  
 
 - Interruptor luminoso de encendido y apagado e indicador del nivel de agua
 - Hierve 1 taza en poco más de 50 segundos
+- Potencia de 2400 W, ahorra hasta un 66% de electricidad
 - Boquilla de vertido perfecto, tapa abatible de acero inoxidable y filtro antical extraíble y lavable
 - Diseño mini de 1 L en acero inoxidable cepillado
-- Potencia de 2400 W, ahorra hasta un 66% de electricidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NDCV4MV/?tag=tolees-21)

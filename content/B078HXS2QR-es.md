@@ -30,10 +30,10 @@ Ahora mismo tienes [D-Link COVR-C1202 - Kit WiFi Mesh  WiFi Malla con 2 Puntos d
 
 - Ampliable, puedes instalar más kits para seguir extendiendo la red con más puntos de acceso, que se agregarán de forma automática a la red existente
 - Aplicación gratuita D-Link WiFi para iOS y Android para los pasos de la instalación inicial, gestionar la red, los puntos de acceso o realizar actualizaciones
-- Instalación muy sencilla, los Puntos de Acceso que ya vienen emparejados, conecta uno al router con el cable de red incluido y el otro puedes instalarlo en la zona donde quieras mejorar la cobertura
-- Conéctate por WiFi o con cable de red a sus puertos Gigabit (1 el Punto de Acceso conectado al router y 2 en el otro)
-- Permite un intensivo de Internet, con Streaming 4K en múltiples dispositivos y es compatible con cualquier operadora y router, no necesitas cambiar nada
 - Tecnología Wi-Fi Mesh: Crea un área WiFi continua con itinerancia automática, que te conecta siempre al punto de acceso más cercano, incluso mientras te mueves, para un máximo rendimiento y cobertura
+- Instalación muy sencilla, los Puntos de Acceso que ya vienen emparejados, conecta uno al router con el cable de red incluido y el otro puedes instalarlo en la zona donde quieras mejorar la cobertura
+- Permite un intensivo de Internet, con Streaming 4K en múltiples dispositivos y es compatible con cualquier operadora y router, no necesitas cambiar nada
+- Conéctate por WiFi o con cable de red a sus puertos Gigabit (1 el Punto de Acceso conectado al router y 2 en el otro)
 - Consta de dos Puntos de Acceso WiFi AC 1200 Mbps Wave 2 MU-MIMO, Doble banda 2.4 y 5 GHz, 2 puertos de red LAN Gigabit cada uno
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078HXS2QR/?tag=tolees-21)
