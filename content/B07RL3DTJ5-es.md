@@ -31,7 +31,7 @@ Tienes [ARTESANIA CERDA - Mochila Escolar Nebulous](https://www.amazon.es/dp/B07
 - Producto Oficial
 - Producto de alta Calidad con Garantía de Fabricante
 - Mochila Escolar Nebulous
-- Tamaño 31x44x13cm
 - Fabricado en 100% Polyester
+- Tamaño 31x44x13cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07RL3DTJ5/?tag=tolees-21)
