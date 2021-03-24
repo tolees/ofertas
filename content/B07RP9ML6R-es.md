@@ -28,9 +28,9 @@ Está [HARRY POTTER Set Imanes  Multicolor  18 x 24 x 0  3 cm](https://www.amazo
 
 ℹ️:
 
-- Producto con licencia oficial
-- Producto de calidad
 - Regalo original
 - Ideal para regalo
+- Producto de calidad
+- Producto con licencia oficial
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07RP9ML6R/?tag=tolees-21)
