@@ -28,8 +28,8 @@ Ahora mismo tienes [Geox UOMO Symbol B  Oxford Hombre  Marrón  Browncotto C6003
 
 🔎:
 
-- Revestimiento: Sintético
 - Material de la suela: Caucho
 - Material exterior: Cuero
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0792TNMJ7/?tag=tolees-21)

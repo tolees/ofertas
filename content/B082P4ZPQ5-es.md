@@ -28,8 +28,8 @@ Tienes [Hurley M One & Only Tank Camiseta De Tirantes  Hombre  Oil Grey  L](http
 
 ℹ️:
 
-- Tipo de producto: camiseta de tirantes para hombre
 - Ofrece comodidad durante todo el día
 - Estampado de tacto suave
+- Tipo de producto: camiseta de tirantes para hombre
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082P4ZPQ5/?tag=tolees-21)

@@ -28,11 +28,11 @@ En este momento está [Jata TT610 Tostador Acero Inoxidable Tostador De Cuerpo D
 
 🔎:
 
-- Tostado cuenta con un selector electrónico de tostado con varias posiciones, a pesar de haberle indicado el nivel de tostado que queremos, cuenta con un pulsador de parada voluntaria, por lo que se puede parar en cualquier momento sin tener que esperar hasta el final
-- Limpieza lleva bandeja recogemigas lo que permite una fácil limpieza
-- Características el tostador tt610 tiene dos ranuras de 250 mm de largo y 30 mm de ancho, esto permite introducir en su interior rebanadas de pan muy largas, es ideal para tostadas de hogaza
 - Potencia la potencía es de 1200 w
+- Limpieza lleva bandeja recogemigas lo que permite una fácil limpieza
 - Cuerpo el cuerpo exterior es de acero inoxidable y lleva un recubrimiento antihuellas para que no se queden marcas y luzca siempre perfecto
+- Tostado cuenta con un selector electrónico de tostado con varias posiciones, a pesar de haberle indicado el nivel de tostado que queremos, cuenta con un pulsador de parada voluntaria, por lo que se puede parar en cualquier momento sin tener que esperar hasta el final
 - Adaptable al detectar el pan introducido, el propio tostador se encargará de centrarlo automáticamente
+- Características el tostador tt610 tiene dos ranuras de 250 mm de largo y 30 mm de ancho, esto permite introducir en su interior rebanadas de pan muy largas, es ideal para tostadas de hogaza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M7RW8MS/?tag=tolees-21)

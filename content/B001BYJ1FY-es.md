@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRIXIE Comedero Cerámica Huellas  1.4 l  al 60.83 % de descuento'
-date: 2021-03-23 17:08:18
+date: 2021-03-24 21:59:22
 image: 'https://m.media-amazon.com/images/I/41NlwoesRSL._SL400_.jpg'
 comments: true
 category: ofertas

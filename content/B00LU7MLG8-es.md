@@ -28,10 +28,10 @@ En este momento está [Helly Hansen Crew Chaqueta  Hombre  Negro  Black   XL](ht
 
 🔎:
 
-- Membrana impermeable y transpirable Helly Tech Protection
+- Lavable a máquina a hasta 30° C
 - Hecho 100% poliéster
 - Cintura ajustable con una mano y bolsillos con cremalleras
+- Membrana impermeable y transpirable Helly Tech Protection
 - Ligera y adherente, construcción de 2 capas
-- Lavable a máquina a hasta 30° C
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00LU7MLG8/?tag=tolees-21)

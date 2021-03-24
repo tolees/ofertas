@@ -28,8 +28,8 @@ Ahora mismo tienes [Geox UOMO Symbol B  Oxford Hombre  Negro  Black C9999   40 E
 
 🔎:
 
-- Revestimiento: Sintético
 - Material de la suela: Caucho
 - Material exterior: Cuero
+- Revestimiento: Sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N7VDPYN/?tag=tolees-21)
