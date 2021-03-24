@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Liga De La Justicia Blu-Ray [Blu-ray] con un 36.87 % de descuento'
-date: 2021-03-22 20:02:57
+date: 2021-03-24 00:45:25
 image: 'https://m.media-amazon.com/images/I/61v385aMPIL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B077TGSFC8/?tag=tolees-21'
 descuento: '36.87'
-average: '10.35'
+average: '9.78999999999997'
 ---
 
 En este momento está [Liga De La Justicia Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B077TGSFC8/?tag=tolees-21) a 8.39 EUR (original: 13.29 EUR) (36.87 %  de descuento) en el siguiente enlace!

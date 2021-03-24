@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Continental 80  Zapatillas de Gim con un 59.05 % de descuento'
-date: 2021-03-22 19:33:43
+date: 2021-03-24 00:25:20
 image: 'https://m.media-amazon.com/images/I/41tq68h7FmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'adidas'
 buyurl: 'https://www.amazon.es/dp/B07K1M8FCY/?tag=tolees-21'
 descuento: '59.05'
-average: '49.3502857142856'
+average: '48.8962162162161'
 ---
 
 En este momento está [Adidas Continental 80  Zapatillas de Gimnasia Hombre  Blanco  FTWR White/Scarlet/Collegiate Navy FTWR White/Scarlet/Collegiate Navy   40 2/3 EU](https://www.amazon.es/dp/B07K1M8FCY/?tag=tolees-21) a 40.95 EUR (original: 100.0 EUR) (59.05 %  de descuento) en el siguiente enlace!
