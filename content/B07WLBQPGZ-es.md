@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chernobyl  Miniserie  Blu-Ray [Blu-ray] al 36.54 % de descuento'
-date: 2021-03-21 16:47:45
+date: 2021-03-24 06:57:35
 image: 'https://m.media-amazon.com/images/I/419kePiUDxL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WLBQPGZ/?tag=tolees-21'
 descuento: '36.54'
-average: '22.3734234234234'
+average: '22.3223893805309'
 ---
 
 Ahora mismo tienes [Chernobyl  Miniserie  Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07WLBQPGZ/?tag=tolees-21) a 19.49 EUR (original: 30.71 EUR) (36.54 %  de descuento) en el siguiente enlace!
