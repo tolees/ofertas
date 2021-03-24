@@ -29,9 +29,9 @@ Está [PUMA ESS Logo Pants TR cl Pants  Hombre  Medium Gray Heather  M](https://
 ℹ️:
 
 - Bolsillos laterales como solución de almacenamiento
+- Corte recto
 - Logotipo del felino estampado con pigmentos
 - Puños y cintura elásticos con cordón en el interior
-- Corte recto
 - Estampado en pigmento en relieve del logotipo N.º 1
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07D5QNY51/?tag=tolees-21)

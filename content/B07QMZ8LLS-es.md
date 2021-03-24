@@ -28,10 +28,10 @@ En este momento está [Fila FU5001  Camiseta Hombre  Black  XXL](https://www.ama
 
 🔎:
 
-- Cómodo de llevar
 - Hecho de 95% algodón y 5% elastano
-- Camiseta de manga corta con cuello en V
 - Viene con el logo de Fila estampado
+- Cómodo de llevar
+- Camiseta de manga corta con cuello en V
 - Ideal para el uso diario
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QMZ8LLS/?tag=tolees-21)

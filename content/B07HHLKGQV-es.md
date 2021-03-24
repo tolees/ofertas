@@ -28,10 +28,10 @@ Ahora mismo tienes [Lactovit - Desodorante Extra Eficaz 0% en Roll On LactoUrea 
 
 🔎:
 
-- Desodorante reparador de LactoUrea en Roll-on y elaborado sin sales de aluminio ni alcohol, que evita irritaciones en la piel de tus axilas a la vez que las protege.
+- La novedosa gama 0% no contiene en su elaboración ni sales de alumino ni alcohol, respetando así al máximo tu piel y cuidándola de forma suave y delicada.
 - Gracias a la Urea y a los componentes esenciales de la leche, protegen contra la transpiración y reparan la piel de la axila durante 48h.
 - Desde el primer uso, sentirás tus axilas más suaves y cuidadas
-- La novedosa gama 0% no contiene en su elaboración ni sales de alumino ni alcohol, respetando así al máximo tu piel y cuidándola de forma suave y delicada.
 - Compromiso Lactovit; activos 100% naturales de la leche y altamente biodegradables, mejorando la reciclabilidad de nuestros envases y cuidando del medio ambiente.
+- Desodorante reparador de LactoUrea en Roll-on y elaborado sin sales de aluminio ni alcohol, que evita irritaciones en la piel de tus axilas a la vez que las protege.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HHLKGQV/?tag=tolees-21)

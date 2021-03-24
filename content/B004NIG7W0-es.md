@@ -28,10 +28,10 @@ Tienes [Cressi Rondinella - Aletas de gama alta para iniciación y snorkeling](h
 
 ℹ️:
 
+- El escarpín, diseñado mediante ordenador, es envolvente y anatómico, perfecto para que las aletas se pongan con facilidad y para su uso prolongado
 - Un cóctel que garantiza ligereza y altas prestaciones, haciendo de las Rondinella unas aletas fáciles de usar, nada complicadas pero, al mismo tiempo, generosas en sus prestaciones
 - Rondinella es la aleta ideal para el snorkeling, la apnea, las largas nataciones
-- La pala ha sido diseñada en polipropileno, un material ligero y reactivo al mismo tiempo, combinado con una suave termo-goma (elastómero) utilizada para el escarpín, los laterales, el borde protectivo de la pala y alguno insertos
 - Estas aletas que proponen de nuevo los principios básicos de las gloriosas Rondine en goma azul totalmente actualizados
-- El escarpín, diseñado mediante ordenador, es envolvente y anatómico, perfecto para que las aletas se pongan con facilidad y para su uso prolongado
+- La pala ha sido diseñada en polipropileno, un material ligero y reactivo al mismo tiempo, combinado con una suave termo-goma (elastómero) utilizada para el escarpín, los laterales, el borde protectivo de la pala y alguno insertos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B004NIG7W0/?tag=tolees-21)
