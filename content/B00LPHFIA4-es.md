@@ -29,9 +29,9 @@ Tienes [BLACK+DECKER GPC1820L20-QW - Motosierra telescópica  pértiga  a bater�
 🔎:
 
 - Extensión central que permite una longitud de uso entre 2 y 3 metro aproximadamente, proporcionando un alcance por encima de la cabeza de hasta 4.5 metros
-- Longitud de la espada de 20cm la hace adecuada para trabajos de poda en altura
-- Motosierra de pértiga a batería 18V con empuñadura antideslizante para mayor comodidad y control
 - Unidades desmontables para transportar y guardar fácilmente
+- Motosierra de pértiga a batería 18V con empuñadura antideslizante para mayor comodidad y control
+- Longitud de la espada de 20cm la hace adecuada para trabajos de poda en altura
 - Incluye: 1 batería de litio 18V ,2Ah, cargador y 1 cadena cromada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00LPHFIA4/?tag=tolees-21)

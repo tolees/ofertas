@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Stranger Things: Music From The Netflix  al 40.71 % de descuento'
-date: 2020-08-15 10:25:19
+title: 'Legacy - Stranger Things: Music From The al 44.04 % de descuento'
+date: 2021-03-25 00:25:57
 image: 'https://m.media-amazon.com/images/I/51HoUcv42ML._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B076MDDRGN-es Stranger Things: Music From The Netflix Original Series -...'
+slug: 'B076MDDRGN-es Legacy - Stranger Things: Music From The Netflix Original...'
 sku: 'B076MDDRGN-es'
-tags: [  ]
-actualPrice: 13.63 EUR
+tags: [ 'Bandas sonoras','Bandas sonoras de TV','CDs y vinilos','Pop','legacy', ]
+actualPrice: 15.63 EUR
 currency: EUR
-price: 13.63
-comparePrice: 22.99 EUR
-prodname: 'Stranger Things: Music From The Netflix Original Series - Banda Sonora Original [Vinilo]'
+price: 15.63
+comparePrice: 27.93 EUR
+prodname: 'Legacy - Stranger Things: Music From The Netflix Original Series - Banda Sonora Original [Vinilo]'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Legacy'
 buyurl: 'https://www.amazon.es/dp/B076MDDRGN/?tag=tolees-21'
-descuento: '40.71'
-average: '13.63'
+descuento: '44.04'
+average: '14.63'
 ---
 
-Está [Stranger Things: Music From The Netflix Original Series - Banda Sonora Original [Vinilo]](https://www.amazon.es/dp/B076MDDRGN/?tag=tolees-21) con 40.71 de descuento por 13.63 EUR (original: 22.99 EUR) en el siguiente enlace!
+Está [Legacy - Stranger Things: Music From The Netflix Original Series - Banda Sonora Original [Vinilo]](https://www.amazon.es/dp/B076MDDRGN/?tag=tolees-21) con 44.04 de descuento por 15.63 EUR (original: 27.93 EUR) en el siguiente enlace!
 
-[![Stranger Things: Music From The Netflix ](https://m.media-amazon.com/images/I/51HoUcv42ML._SL400_.jpg)](https://www.amazon.es/dp/B076MDDRGN/?tag=tolees-21)
+[![Legacy - Stranger Things: Music From The](https://m.media-amazon.com/images/I/51HoUcv42ML._SL400_.jpg)](https://www.amazon.es/dp/B076MDDRGN/?tag=tolees-21)
 
 ℹ️:
 

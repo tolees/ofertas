@@ -28,8 +28,8 @@ Tienes [Helly Hansen W Aden Long Coat Jacket  Mujer  Blanco  S](https://www.amaz
 
 🔎:
 
-- Helly Tech Protection Impermeable, cortaviento y transpirable Fabricación con tejido de 2 capas Costuras totalmente selladas Tratamiento de resistencia al agua duradera (DWR) Con forro
-- De alta calidad.
 - De la marca Helly Hansen.
+- De alta calidad.
+- Helly Tech Protection Impermeable, cortaviento y transpirable Fabricación con tejido de 2 capas Costuras totalmente selladas Tratamiento de resistencia al agua duradera (DWR) Con forro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01ET4MXEI/?tag=tolees-21)
