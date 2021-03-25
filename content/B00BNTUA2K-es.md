@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell TH-VC 1930 SA - Aspirador seco - al 37.98 % de descuento'
-date: 2021-03-23 14:17:00
+date: 2021-03-25 04:47:20
 image: 'https://m.media-amazon.com/images/I/413LmODg47L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Einhell'
 buyurl: 'https://www.amazon.es/dp/B00BNTUA2K/?tag=tolees-21'
 descuento: '37.98'
-average: '76.4906666666667'
+average: '74.7847058823529'
 ---
 
 Ahora mismo tienes [Einhell TH-VC 1930 SA - Aspirador seco - húmedo  telecomandado ](https://www.amazon.es/dp/B00BNTUA2K/?tag=tolees-21) a 61.99 EUR (original: 99.95 EUR) (37.98 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Einhell TH-VC 1930 SA - Aspirador seco - húmedo  telecomand
 
 🔎:
 
-- Deposito de 30 l
+- Largo de la manguera de 1.5 m
 - Diámetro de succión de 36 mm
 - Incluye accesorios y cable de conexión
+- Deposito de 30 l
 - Potencia de 1500 W
-- Largo de la manguera de 1.5 m
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BNTUA2K/?tag=tolees-21)
