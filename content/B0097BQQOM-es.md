@@ -28,11 +28,11 @@ Ahora mismo tienes [BLACK+DECKER MT300KA-QS Multiherramienta oscilante 300 W con
 
 🔎:
 
+- Inlcuye: 1 x adaptador para accesorios Bosch, Einhell y Worx, 1 x rascador flexible, 1 x rascador rígido, 1 x multi-herramienta oscilante 300W, 6 x hojas de lija (Granos 60, 80 y 120), 1 x hoja de sierra de incisión para madera y metal, 1 x hoja de sierra para cortes a ras de superficie y 1 x plato para lijar con extracción de polvo
+- Velocidad variable 10.000-20.000 opm
 - Sistema exclusivo Superlok(TM) de cambio de los accesorios sin herramientas
 - Diseño robusto de la carcasa para mayor durabilidad
-- Zona de agarre posterior delgada para una mayor comodidad en usos prolongados
-- Velocidad variable 10.000-20.000 opm
-- Inlcuye: 1 x adaptador para accesorios Bosch, Einhell y Worx, 1 x rascador flexible, 1 x rascador rígido, 1 x multi-herramienta oscilante 300W, 6 x hojas de lija (Granos 60, 80 y 120), 1 x hoja de sierra de incisión para madera y metal, 1 x hoja de sierra para cortes a ras de superficie y 1 x plato para lijar con extracción de polvo
 - Plato para lijar con extracción integrada del polvo para mantener limpio el área de trabajo
+- Zona de agarre posterior delgada para una mayor comodidad en usos prolongados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0097BQQOM/?tag=tolees-21)

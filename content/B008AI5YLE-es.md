@@ -28,10 +28,10 @@ Tienes [Obire - Cardo Mariano 400 mg. 60 capsulas](https://www.amazon.es/dp/B008
 
 ℹ️:
 
-- Complemento alimenticios a base de plantas naturales.
-- El Cardo Mariano es un hepatoprotector favorece la estimulación de la secreción de la bilis, recomendado en digestiones lentas. Facilita la digestión de las grasas.
-- Sin excipientes.
 - Envase para 30 días de uso.
+- Complemento alimenticios a base de plantas naturales.
 - No contiene lactosa.
+- Sin excipientes.
+- El Cardo Mariano es un hepatoprotector favorece la estimulación de la secreción de la bilis, recomendado en digestiones lentas. Facilita la digestión de las grasas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B008AI5YLE/?tag=tolees-21)

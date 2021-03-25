@@ -28,8 +28,8 @@ Está [Ultimate Guard 10478 Fundas magicas Precise Fit  paquete de 100](https://
 
 ℹ️:
 
-- Altura de Producto 1.30 cm
-- Altura de Producto 1.30 cm
 - Longitud de Producto 9.70 cm
+- Altura de Producto 1.30 cm
+- Altura de Producto 1.30 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01891HGTE/?tag=tolees-21)

@@ -29,7 +29,7 @@ En este momento está [Hurley W Chill Fleece Crew](https://www.amazon.es/dp/B08G
 🔎:
 
 - 45 % Algodón / 30 % Rayon / 3 % Spandex.
-- Etiqueta con el icono de Hurley de sarga.
 - Sudadera polar de estilo raglán suave con bordados en el escote trasero con bajo y puños elásticos.
+- Etiqueta con el icono de Hurley de sarga.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GYJK343/?tag=tolees-21)

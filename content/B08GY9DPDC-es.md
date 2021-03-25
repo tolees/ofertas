@@ -28,10 +28,10 @@ Tienes [Hurley W Telluride Sherpa Half Zip Sudadera  Lt Grey Htr  M](https://www
 
 🔎:
 
+- Logotipo en lado izquierdo del pecho.
 - Bolsillo de canguro y cremallera de 3/4.
+- Nombre de departamento: Mujer
 - Corte Clásico.
 - Tipo de fábrica: 60% Algodón, 40% Poliéster
-- Logotipo en lado izquierdo del pecho.
-- Nombre de departamento: Mujer
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08GY9DPDC/?tag=tolees-21)

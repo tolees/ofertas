@@ -28,10 +28,10 @@ Tienes [Campingaz Xpert 200 LS Rocky Barbacoa gas piedra volcanica  parrilla gas
 
 ℹ️:
 
-- Potente y de alta calidad: 2 quemadores de acero aluminizado de alto rendimiento (8,2 kW) + 1 quemador lateral (2,1 kW) para calentar salsas o guarniciones; con piezo para facilitar el encendido
-- Almacenamiento y transporte: 1 mesa lateral plegable y ruedas con bloqueo para guardarla cuando no lo vaya a usar; frontal de acero con estante delantero integrado para almacenar condimentos
-- Infinitas de opciones para cocinar: Amplia parrilla esmaltada mate de hierro fundido (54 x 34 cm), parrilla de calentamiento que se extiende por todo lo ancho de la superficie del grill
 - Especificaciones: Tapa de acero con termómetro (ideal para asado indirecto); superficie de cocción 1.800 cm2; altura de cocción: 85 cm ; consumo de gas 597 +153 g/h; peso 25 kg
+- Potente y de alta calidad: 2 quemadores de acero aluminizado de alto rendimiento (8,2 kW) + 1 quemador lateral (2,1 kW) para calentar salsas o guarniciones; con piezo para facilitar el encendido
+- Infinitas de opciones para cocinar: Amplia parrilla esmaltada mate de hierro fundido (54 x 34 cm), parrilla de calentamiento que se extiende por todo lo ancho de la superficie del grill
 - Distribución uniforme del calor: Compatible con piedras lava que garantizan una distribución uniforme del calor en toda la superficie y ayudan a proteger los quemadores del goteo de grasa
+- Almacenamiento y transporte: 1 mesa lateral plegable y ruedas con bloqueo para guardarla cuando no lo vaya a usar; frontal de acero con estante delantero integrado para almacenar condimentos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06XP5XKMJ/?tag=tolees-21)
