@@ -1,36 +1,32 @@
 ---
 layout: post
-title: 'Deportivas Mujer MTNG | Deportivas Dasha al 30.79 % de descuento'
-date: 2021-02-19 09:33:09
-image: 'https://m.media-amazon.com/images/I/41qXsTYRlNL._SL200_.jpg'
+title: 'MTNG - Sneakers Mustang Dasha 69362 Rosa al 62.15 % de descuento'
+date: 2021-03-25 20:11:52
+image: 'https://m.media-amazon.com/images/I/41qXsTYRlNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B07YGCNWDY-es Deportivas Mujer MTNG | Deportivas Dasha 69362 | MTNG...'
+author: 'tole.es'
+slug: 'B07YGCNWDY-es MTNG - Sneakers Mustang Dasha 69362 Rosas'
 sku: 'B07YGCNWDY-es'
-actualPrice: 25.6 EUR
+tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','mtng', ]
+actualPrice: 14.0 EUR
 currency: EUR
-price: 25.6
+price: 14.0
 comparePrice: 36.99 EUR
-prodname: 'Deportivas Mujer MTNG | Deportivas Dasha 69362 | MTNG Mujer | Deportivas Deportiva | Cierre con Cremallera | 45460 | Gris | 38'
+prodname: 'MTNG - Sneakers Mustang Dasha 69362 Rosas'
 country: 'es'
 flag: '🇪🇸'
 brand: 'MTNG'
 buyurl: 'https://www.amazon.es/dp/B07YGCNWDY/?tag=tolees-21'
-descuento: '30.79'
-average: '25.6'
+descuento: '62.15'
+average: '26.61875'
 ---
 
-Ahora mismo tienes [Deportivas Mujer MTNG | Deportivas Dasha 69362 | MTNG Mujer | Deportivas Deportiva | Cierre con Cremallera | 45460 | Gris | 38](https://www.amazon.es/dp/B07YGCNWDY/?tag=tolees-21) a 25.6 EUR (original: 36.99 EUR) (30.79 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [MTNG - Sneakers Mustang Dasha 69362 Rosas](https://www.amazon.es/dp/B07YGCNWDY/?tag=tolees-21) a 14.0 EUR (original: 36.99 EUR) (62.15 %  de descuento) en el siguiente enlace!
 
-[![Deportivas Mujer MTNG | Deportivas Dasha](https://m.media-amazon.com/images/I/41qXsTYRlNL._SL200_.jpg)](https://www.amazon.es/dp/B07YGCNWDY/?tag=tolees-21)
+[![MTNG - Sneakers Mustang Dasha 69362 Rosa](https://m.media-amazon.com/images/I/41qXsTYRlNL._SL400_.jpg)](https://www.amazon.es/dp/B07YGCNWDY/?tag=tolees-21)
 
 🔎:
 
-- Material principal Sintetico
-- Tipo de cierre Cremallera
-- Material de la suela De goma
-- Tipo de tacón Plano
-- Altura Tacón Bajo (de 1 A 3 cm)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YGCNWDY/?tag=tolees-21)

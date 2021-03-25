@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Levi s 501 High Rise Short Pantalones Co con un 70.91 % de descuento'
-date: 2021-03-14 14:04:13
+date: 2021-03-25 20:09:52
 image: 'https://m.media-amazon.com/images/I/41feJPgKSeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF663QM-es Levi s 501 High Rise Short Pantalones Cortos In The Clouds...'
 sku: 'B07KF663QM-es'
+tags: [ 'Pantalones cortos para mujer','Ropa','Ropa para mujer','levis', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0
