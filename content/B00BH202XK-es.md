@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Beper Body Trainer - Báscula de baño con al 51.72 % de descuento'
-date: 2021-03-01 07:45:20
+date: 2021-03-26 08:32:11
 image: 'https://m.media-amazon.com/images/I/311d+9gfJXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BH202XK-es Beper Body Trainer - Báscula de baño con medidor de grasa...'
 sku: 'B00BH202XK-es'
+tags: [ 'Básculas','Básculas digitales','Monitores de diagnóstico y salud','Salud y cuidado personal','Suministros y equipamiento médico','beper', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0
@@ -27,8 +28,8 @@ Ahora mismo tienes [Beper Body Trainer - Báscula de baño con medidor de grasa 
 
 🔎:
 
+- Peso en kilogramos y libras
 - Báscula de baño personal con medidor de grasa corporal
 - Soporta hasta 150 kg en fracciones de 100 g
-- Peso en kilogramos y libras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BH202XK/?tag=tolees-21)

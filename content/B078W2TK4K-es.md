@@ -28,12 +28,12 @@ Tienes [Vans Filmore Suede Canvas   Zapatillas Hombre  Black/White Iju  41 EU](h
 
 🔎:
 
-- Material exterior: Cuero
-- Cierre: Cordones
-- Tipo de tacón: Plano
 - Revestimiento: Tela
 - Material de la suela: Goma
 - Anchura del zapato: Regular
 - Composición: textil
+- Material exterior: Cuero
+- Cierre: Cordones
+- Tipo de tacón: Plano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078W2TK4K/?tag=tolees-21)
