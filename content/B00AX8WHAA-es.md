@@ -28,8 +28,8 @@ En este momento está [Hape - Music Motion](https://www.amazon.es/dp/B00AX8WHAA/
 
 🔎:
 
-- Puedes hacer miles de circuitos diferentes cada vez que juegues
 - Construye un circuito de canicas musical
+- Puedes hacer miles de circuitos diferentes cada vez que juegues
 - Tira una canica y observa si has construido bien tu circuito
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00AX8WHAA/?tag=tolees-21)
