@@ -29,10 +29,10 @@ Está [PUMA Smash Wns V2 L  Zapatillas Mujer  Blanco White White  38 EU](https:/
 ℹ️:
 
 - Composición: Leder
-- Cierre: Cordones
 - Material de la suela: Goma
-- Tipo de tacón: Plano
 - Revestimiento: Sintético
 - Material exterior: Cuero
+- Tipo de tacón: Plano
+- Cierre: Cordones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077MLPMX1/?tag=tolees-21)

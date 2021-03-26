@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 501 High Rise Short Pantalones Co con un 70.91 % de descuento'
-date: 2021-03-25 20:09:52
+date: 2021-03-26 22:25:01
 image: 'https://m.media-amazon.com/images/I/41feJPgKSeL._SL400_.jpg'
 comments: true
 category: ofertas
