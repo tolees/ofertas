@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'adidas Originals - Funda para portátil d al 47.45 % de descuento'
-date: 2021-03-11 01:44:51
+date: 2021-03-26 13:15:48
 image: 'https://m.media-amazon.com/images/I/41L8y9si2NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ML3M6FR-es adidas Originals - Funda para portátil de 13" Piel...'
 sku: 'B07ML3M6FR-es'
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Bolsas y fundas para portátiles y netbooks','Equipaje','Fundas blandas para portátiles y netbooks','Informática','Maletines y bolsas para portátil','adidas', ]
 actualPrice: 26.25 EUR
 currency: EUR
 price: 26.25
@@ -27,10 +28,10 @@ Está [adidas Originals - Funda para portátil de 13"  Piel sintética  con Forr
 
 ℹ️:
 
-- Funda para portátil con acolchado: funda Adidas con solapa de cremallera y almohadilla de espuma protectora que protege portátiles de 13 pulgadas y MacBooks de forma fiable contra golpes y arañazos.
-- 【Diseño robusto con asasas】Funda para portátil MacBook de 13 pulgadas en piel sintética con asas y correa para el hombro.
-- 【Compatibilidad & 】 Bolsa para ordenador portátil de tamaño universal de Adidas, apta para Apple MacBooks y PC portátiles de hasta 13 pulgadas de 1 año.
 - Bolsillo interior práctico: bolsillo interior para cargador, ratón y otros accesorios.
+- 【Diseño robusto con asasas】Funda para portátil MacBook de 13 pulgadas en piel sintética con asas y correa para el hombro.
+- Funda para portátil con acolchado: funda Adidas con solapa de cremallera y almohadilla de espuma protectora que protege portátiles de 13 pulgadas y MacBooks de forma fiable contra golpes y arañazos.
 - Aspecto deportivo: logotipo impreso de adidas en la parte delantera disponible en varios colores.
+- 【Compatibilidad & 】 Bolsa para ordenador portátil de tamaño universal de Adidas, apta para Apple MacBooks y PC portátiles de hasta 13 pulgadas de 1 año.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07ML3M6FR/?tag=tolees-21)
