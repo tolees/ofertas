@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Step Urban Mix  Zapatillas Hombre al 48.99 % de descuento'
-date: 2021-03-24 15:57:30
+date: 2021-03-25 23:26:00
 image: 'https://m.media-amazon.com/images/I/41n+c6VYNtL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07FKVCWC7/?tag=tolees-21'
 descuento: '48.99'
-average: '39.112'
+average: '38.1314285714286'
 ---
 
 Ahora mismo tienes [Clarks Step Urban Mix  Zapatillas Hombre  Verde Khaki  42 EU](https://www.amazon.es/dp/B07FKVCWC7/?tag=tolees-21) a 35.68 EUR (original: 69.95 EUR) (48.99 %  de descuento) en el siguiente enlace!

@@ -28,8 +28,8 @@ Está [Helly Hansen W Seven J Chaqueta  Mujer  Azul Navy  XS](https://www.amazon
 
 ℹ️:
 
-- Helly Tech Protection Impermeable, cortaviento y transpirable Fabricación con tejido de 2 capas Costuras totalmente selladas Tratamiento de resistencia al agua duradera (DWR) Con forro
-- De alta calidad.
 - De la marca Helly Hansen.
+- De alta calidad.
+- Helly Tech Protection Impermeable, cortaviento y transpirable Fabricación con tejido de 2 capas Costuras totalmente selladas Tratamiento de resistencia al agua duradera (DWR) Con forro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FHD9Y41/?tag=tolees-21)

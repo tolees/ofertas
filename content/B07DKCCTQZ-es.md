@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA ESS Track Jacket TR Sweatshirt  Hombre  Medium Gray Hea
 
 🔎:
 
-- Bolsillo de canguro como solución de almacenamiento
 - Corte recto
 - Cremallera completa
-- Bajo y puños de canalé
+- Bolsillo de canguro como solución de almacenamiento
 - Estampado en pigmento en relieve del logotipo N.º 1
+- Bajo y puños de canalé
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DKCCTQZ/?tag=tolees-21)
