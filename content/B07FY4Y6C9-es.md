@@ -28,7 +28,7 @@ Tienes [VANS Filmore Decon  Zapatillas Mujer  Rojo  Port Royale/True White Mc0  
 
 🔎:
 
-- Silueta baja con cordones y ante duradero
 - Suela de waffle
+- Silueta baja con cordones y ante duradero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FY4Y6C9/?tag=tolees-21)

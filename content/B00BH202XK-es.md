@@ -28,8 +28,8 @@ Ahora mismo tienes [Beper Body Trainer - Báscula de baño con medidor de grasa 
 
 🔎:
 
-- Peso en kilogramos y libras
 - Báscula de baño personal con medidor de grasa corporal
+- Peso en kilogramos y libras
 - Soporta hasta 150 kg en fracciones de 100 g
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00BH202XK/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Helly Hansen Crew Chaqueta deportiva  Hombre  Azul  Azul 
 
 🔎:
 
-- Resistente al agua protege del viento y la lluvia durante cortos periodos
-- Brinda comodidad y protección
-- Diseño ligero que que minimiza peso y esfuerzo
 - Cremalleras de funcionalidad adecuada y versatilidad
+- Diseño ligero que que minimiza peso y esfuerzo
+- Brinda comodidad y protección
+- Resistente al agua protege del viento y la lluvia durante cortos periodos
 - Fabricado con 94% poliéster
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01IPFNS78/?tag=tolees-21)
