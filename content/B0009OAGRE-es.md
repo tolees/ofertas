@@ -30,7 +30,7 @@ Tienes [Calvin Klein Eternity  Eau de Parfum Spray para mujeres  1 paquete  1 x 
 
 - De la marca Calvin Klein.
 - Contiene 100 ml.
-- Este producto está indicado para mujeres.
 - Las notas olfativas principales de este producto son amaderado, cítrico y floral.
+- Este producto está indicado para mujeres.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0009OAGRE/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Poopsie Cutie Tooties - Modelos Surtidos  Giochi Preziosi
 
 🔎:
 
+- El embalaje es una bolsa de papel de aluminio que se puede sellar para contener los lodos
 - Descubre el slime y el personaje que hay dentro del Cutie Tootie lleno de purpurina
 - El paquete contiene: 1 lápiz de unicornio con purpurina, 1 figurita de colección Tootie box y 1 pasta sorpresa
-- El embalaje es una bolsa de papel de aluminio que se puede sellar para contener los lodos
 - Más de 24 modelos diferentes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RS22T3R/?tag=tolees-21)

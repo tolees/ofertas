@@ -28,10 +28,10 @@ Tienes [TRIXIE Cortanudos  mango Plástico  Púas 1.2 cm  10 x 19 cm  Perro](htt
 
 ℹ️:
 
+- deshace cuidadosamente pequeños nudos
 - alisa el manto y desenreda el subpelo
 - para desenredar y aligerar
-- asa plástico, agarre antideslizante de goma
 - 1 cm de longitud de las púas
-- deshace cuidadosamente pequeños nudos
+- asa plástico, agarre antideslizante de goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000WFDBMW/?tag=tolees-21)
