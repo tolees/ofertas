@@ -28,8 +28,8 @@ Ahora mismo tienes [Devir-Una Columna de Fuego  Juego de Mesa  BGCOLUMNA ](https
 
 🔎:
 
-- De 2 a 4 jugadores
 - Edición en español
+- De 2 a 4 jugadores
 - A partir de 12 años
 - Duración: 90 minutos
 
