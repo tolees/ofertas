@@ -1,32 +1,34 @@
 ---
 layout: post
-title: 'Descuento del 51.72 % en Clarks Cotrell Easy  Mocasines para Homb'
-date: 2020-06-17 17:46:40
-image: 'https://m.media-amazon.com/images/I/31Vzes2UbkL._SL400_.jpg'
+title: 'Descuento del 48.44 % en Clarks Cotrell Easy  Mocasines Hombre  A'
+date: 2021-03-26 02:10:34
+image: 'https://m.media-amazon.com/images/I/41pJmd1ygIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07MQ2J75J-es Clarks Cotrell Easy Mocasines para Hombre Azul Navy Combi...'
+slug: 'B07MQ2J75J-es Clarks Cotrell Easy Mocasines Hombre Azul Navy Combi Navy...'
 sku: 'B07MQ2J75J-es'
-tags: [  ]
-actualPrice: 38.6 EUR
+tags: [ 'Mocasines para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','clarks', ]
+actualPrice: 41.22 EUR
 currency: EUR
-price: 38.6
+price: 41.22
 comparePrice: 79.95 EUR
-prodname: 'Clarks Cotrell Easy  Mocasines para Hombre  Azul  Navy Combi Navy Combi   44.5 EU'
+prodname: 'Clarks Cotrell Easy  Mocasines Hombre  Azul  Navy Combi Navy Combi   44.5 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Clarks'
 buyurl: 'https://www.amazon.es/dp/B07MQ2J75J/?tag=tolees-21'
-descuento: '51.72'
-average: '38.6'
+descuento: '48.44'
+average: '39.91'
 ---
 
-Tienes [Clarks Cotrell Easy  Mocasines para Hombre  Azul  Navy Combi Navy Combi   44.5 EU](https://www.amazon.es/dp/B07MQ2J75J/?tag=tolees-21) con un 51.72 % de descuento con precio de oferta de 38.6 EUR (original: 79.95 EUR) en el siguiente enlace!
+Tienes [Clarks Cotrell Easy  Mocasines Hombre  Azul  Navy Combi Navy Combi   44.5 EU](https://www.amazon.es/dp/B07MQ2J75J/?tag=tolees-21) con un 48.44 % de descuento con precio de oferta de 41.22 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![Clarks Cotrell Easy  Mocasines para Homb](https://m.media-amazon.com/images/I/31Vzes2UbkL._SL400_.jpg)](https://www.amazon.es/dp/B07MQ2J75J/?tag=tolees-21)
+[![Clarks Cotrell Easy  Mocasines Hombre  A](https://m.media-amazon.com/images/I/41pJmd1ygIL._SL400_.jpg)](https://www.amazon.es/dp/B07MQ2J75J/?tag=tolees-21)
 
 ℹ️:
 
+- Material de la suela: Goma EVA.
+- Color exacto: combinación azul marino.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MQ2J75J/?tag=tolees-21)
