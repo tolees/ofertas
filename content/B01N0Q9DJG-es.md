@@ -1,16 +1,17 @@
 ---
 layout: post
 title: 'Michael Kors Reloj Analogico para Mujer  al 36.88 % de rebaja'
-date: 2021-03-16 14:55:02
+date: 2021-03-26 15:43:54
 image: 'https://m.media-amazon.com/images/I/410Sp4Y2YeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01N0Q9DJG-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
 sku: 'B01N0Q9DJG-es'
-actualPrice: 157.17 EUR
+tags: [ 'Relojes','Relojes de pulsera para mujeres','Relojes para mujer','michael kors', ]
+actualPrice: 157.18 EUR
 currency: EUR
-price: 157.17
+price: 157.18
 comparePrice: 249.0 EUR
 prodname: 'Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3640'
 country: 'es'
@@ -18,10 +19,10 @@ flag: '🇪🇸'
 brand: 'Michael Kors'
 buyurl: 'https://www.amazon.es/dp/B01N0Q9DJG/?tag=tolees-21'
 descuento: '36.88'
-average: '147.162307692307'
+average: '148.497333333333'
 ---
 
-Tienes [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3640](https://www.amazon.es/dp/B01N0Q9DJG/?tag=tolees-21) con precio final de  157.17 EUR (original: 249.0 EUR) (36.88 %  de rebaja) aqui!
+Tienes [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3640](https://www.amazon.es/dp/B01N0Q9DJG/?tag=tolees-21) con precio final de  157.18 EUR (original: 249.0 EUR) (36.88 %  de rebaja) aqui!
 
 [![Michael Kors Reloj Analogico para Mujer ](https://m.media-amazon.com/images/I/410Sp4Y2YeL._SL400_.jpg)](https://www.amazon.es/dp/B01N0Q9DJG/?tag=tolees-21)
 

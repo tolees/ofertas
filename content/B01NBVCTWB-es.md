@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'New Balance 500  Zapatillas  Azul  Navy/ al 42.24 % de descuento'
-date: 2021-03-13 13:43:59
+date: 2021-03-26 15:04:23
 image: 'https://m.media-amazon.com/images/I/41+9++FH8PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBVCTWB-es New Balance 500 Zapatillas Azul Navy/Blue BB 33 EU'
 sku: 'B01NBVCTWB-es'
+tags: [ 'Zapatillas casual para niño','Zapatillas y calzado deportivo para Niño','Zapatos','Zapatos para niños pequeños','Zapatos y complementos','new balance', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99
@@ -27,9 +28,9 @@ Está [New Balance 500  Zapatillas  Azul  Navy/Blue BB   33 EU](https://www.amaz
 
 ℹ️:
 
-- Marca: New Balance
-- Color: azul marino
-- Prodotto: tenis
 - Modelo: NBKV500
+- Color: azul marino
+- Producto: zapatillas deportivas
+- Marca: New Balance
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NBVCTWB/?tag=tolees-21)
