@@ -28,10 +28,10 @@ Está [Lector De Tarjetas Portátil Sumup Air-Pago con Tarjeta De Débito  Créd
 
 ℹ️:
 
-- APP IOS / ANDROID: Conecte su dispositivo SumUp Air a su Smartphone o Tablet a través de Bluetooth y acepte pagos desde cualquier lugar. SumUp Air funciona junto a la aplicación móvil gratuita SumUp. Su “Panel de Control” le proporcionará un útil análisis de todas sus transacciones
-- COMPLETA TRANSPARENCIA: Sin contratos, sin costes o comisiones ocultas. Con el lector de tarjetas SumUp, paga solo un 1.50% por pagos con tarjetas de débito o crédito
-- PAGO RÁPIDO, FÁCIL Y EFICAZ : Los pagos se realizan en 2 a 3 días hábiles y van directamente a su cuenta. Sin desvíos, rápida tramitación y fácil gestionabilidad, obtienes lo que te pertenece del modo más sencillo y eficaz
-- FÁCIL DE USAR: Intuitiva configuración del lector de tarjetas hará que esté listo para usar en 5 minutos. Procese hasta 500 transacciones con un solo pago. Continuo soporte de servicio al cliente en España que responderá a todas sus preguntas
 - PARA TODAS LAS TARJETAS Y FORMAS DE PAGO: Sus clientes podrán pagar con solo acercar su tarjeta, teléfono o con un Chip & PIN. Acepta todas las tarjetas de débito (Maestro, VPAY), tarjetas de crédito (Visa, Mastercard, American Express, Diners Club, Discover, Union Pay) e incluso Google y Apple Pay
+- FÁCIL DE USAR: Intuitiva configuración del lector de tarjetas hará que esté listo para usar en 5 minutos. Procese hasta 500 transacciones con un solo pago. Continuo soporte de servicio al cliente en España que responderá a todas sus preguntas
+- COMPLETA TRANSPARENCIA: Sin contratos, sin costes o comisiones ocultas. Con el lector de tarjetas SumUp, paga solo un 1.50% por pagos con tarjetas de débito o crédito
+- APP IOS / ANDROID: Conecte su dispositivo SumUp Air a su Smartphone o Tablet a través de Bluetooth y acepte pagos desde cualquier lugar. SumUp Air funciona junto a la aplicación móvil gratuita SumUp. Su “Panel de Control” le proporcionará un útil análisis de todas sus transacciones
+- PAGO RÁPIDO, FÁCIL Y EFICAZ : Los pagos se realizan en 2 a 3 días hábiles y van directamente a su cuenta. Sin desvíos, rápida tramitación y fácil gestionabilidad, obtienes lo que te pertenece del modo más sencillo y eficaz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XBDXDRM/?tag=tolees-21)
