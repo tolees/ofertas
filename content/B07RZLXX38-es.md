@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'New Balance 373v2  Zapatillas para Hombr con un 53.48 % de descuento'
-date: 2020-06-24 15:40:54
+title: 'New Balance 373 Core  Zapatillas Hombre  con un 50.01 % de descuento'
+date: 2021-03-27 19:42:31
 image: 'https://m.media-amazon.com/images/I/41-HaHfchzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07RZLXX38-es New Balance 373v2 Zapatillas para Hombre Azul Navy/White...'
+slug: 'B07RZLXX38-es New Balance 373 Core Zapatillas Hombre Azul Navy/White Cc2...'
 sku: 'B07RZLXX38-es'
-tags: [  ]
-actualPrice: 37.22 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','new balance', ]
+actualPrice: 39.99 EUR
 currency: EUR
-price: 37.22
+price: 39.99
 comparePrice: 80.0 EUR
-prodname: 'New Balance 373v2  Zapatillas para Hombre  Azul  Navy/White Cc2   42.5 EU'
+prodname: 'New Balance 373 Core  Zapatillas Hombre  Azul  Navy/White Cc2   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'New Balance'
 buyurl: 'https://www.amazon.es/dp/B07RZLXX38/?tag=tolees-21'
-descuento: '53.48'
-average: '43.4125'
+descuento: '50.01'
+average: '42.2716666666667'
 ---
 
-En este momento está [New Balance 373v2  Zapatillas para Hombre  Azul  Navy/White Cc2   42.5 EU](https://www.amazon.es/dp/B07RZLXX38/?tag=tolees-21) a 37.22 EUR (original: 80.0 EUR) (53.48 %  de descuento) en el siguiente enlace!
+En este momento está [New Balance 373 Core  Zapatillas Hombre  Azul  Navy/White Cc2   42.5 EU](https://www.amazon.es/dp/B07RZLXX38/?tag=tolees-21) a 39.99 EUR (original: 80.0 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![New Balance 373v2  Zapatillas para Hombr](https://m.media-amazon.com/images/I/41-HaHfchzL._SL400_.jpg)](https://www.amazon.es/dp/B07RZLXX38/?tag=tolees-21)
+[![New Balance 373 Core  Zapatillas Hombre ](https://m.media-amazon.com/images/I/41-HaHfchzL._SL400_.jpg)](https://www.amazon.es/dp/B07RZLXX38/?tag=tolees-21)
 
 🔎:
 
+- Parte superior de gamuza
+- Sujeción suave bajo los pies
+- Suela de goma
+- Entresuela y talón de espuma EVA para amortiguación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RZLXX38/?tag=tolees-21)
