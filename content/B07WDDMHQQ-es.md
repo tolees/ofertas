@@ -28,10 +28,10 @@ Ahora mismo tienes [rubber road ltd - Tubbz - Crash Bandicoot Crash](https://www
 
 🔎:
 
-- Diseñado por expertos en mercadería Numskull Designs
+- Mercancía oficial de Crash Bandicoot.
 - Colecciónalos todos: 4 para coleccionar en la gama Crash Bandicoot TUBBZ, con muchos otros para coleccionar.
+- Diseñado por expertos en mercadería Numskull Designs
 - Aproximadamente 9 cm (3,54 ") de altura cuando se encuentra fuera del soporte de exhibición de la bañera (algunos pueden variar)
 - TUBBZ: tus personajes favoritos de videojuegos, películas, programas de televisión y cómics cobran vida como patos disfrazados
-- Mercancía oficial de Crash Bandicoot.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WDDMHQQ/?tag=tolees-21)

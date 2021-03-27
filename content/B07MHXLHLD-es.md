@@ -28,10 +28,10 @@ Ahora mismo tienes [Funko - POP! Vinilo: Games: Fortnite: Loot Lama](https://www
 
 🔎:
 
-- De la colección Fortnite, Loot Lama como figura de vinilo POP de Funko
-- Loot Lama
 - Descubre otras figuras de la colección fortnite y colecciónalas todas
 - Fortnite
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Loot Lama
+- De la colección Fortnite, Loot Lama como figura de vinilo POP de Funko
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MHXLHLD/?tag=tolees-21)
