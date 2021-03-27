@@ -28,8 +28,8 @@ En este momento está [Kipling Creativity S  Pouches/Cases para Mujer  Bold Chec
 
 🔎:
 
-- Para mujer
-- Classics
 - Bolsillos/carcasas
+- Classics
+- Para mujer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083YCYLZJ/?tag=tolees-21)
