@@ -28,10 +28,10 @@ Tienes [E LIFEXIR - Elifexir Fitness - Gel Remoldeador | Crema Corporal Reafirma
 
 🔎:
 
-- Café verde y hierba mate: remodelan la figura al acelerar la disolución de las grasas acumuladas y bloquear su acumulación en las zonas críticas
 - Aplicar mañana y noche con un suave masaje en las zonas a tratar.
+- Café verde y hierba mate: remodelan la figura al acelerar la disolución de las grasas acumuladas y bloquear su acumulación en las zonas críticas
 - C.P carnitine: tonifica los tejidos ayudando a redefinir la figura. La piel recupera su vitalidad y luminosidad, la silueta se remodela para que luzcas un cuerpo perfecto.
-- Elifexir FITNESS te ayuda a esculpir tu figura, potenciando la actividad física diaria y reduciendo el descolgamiento hasta un 85% y las estrías. Multiplica la combustión de grasa x3,5. Su exclusivo activo Firm Up Complex actúa en 3 niveles.
 - Extracto de centella asiática: aporta firmeza a la piel reduciendo el descolgamiento. Su elevada concentración de ácido asiaticósido y madecacósido, estimulan la síntesis de colágeno, aportando firmeza a la piel.
+- Elifexir FITNESS te ayuda a esculpir tu figura, potenciando la actividad física diaria y reduciendo el descolgamiento hasta un 85% y las estrías. Multiplica la combustión de grasa x3,5. Su exclusivo activo Firm Up Complex actúa en 3 niveles.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0159BKOZK/?tag=tolees-21)

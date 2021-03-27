@@ -28,12 +28,12 @@ Tienes [Helly Hansen HP Racing Chaqueta  Hombre  Azul  L](https://www.amazon.es/
 
 ℹ️:
 
-- Deportes acuáticos
-- Face: 100% Polyester / Back: 100% Polyurethane
 - Helly Tech Performance Impermeable, cortaviento y transpirable Fabricación con tejido de 2 capas Costuras totalmente selladas Tratamiento de resistencia al agua duradera (DWR)
 - Hp Racing
+- Face: 100% Polyester / Back: 100% Polyurethane
+- Compuesto, Compuesto
 - De alta calidad
 - De la marca Helly Hansen
-- Compuesto, Compuesto
+- Deportes acuáticos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07F33M5SC/?tag=tolees-21)
