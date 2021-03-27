@@ -28,10 +28,10 @@ Tienes [Rhodesy RT-02 Octopus Estilo Tripod Stand Titular con Bluetooth Remote p
 
 🔎:
 
+- El trípode liviano se puede transportar fácilmente a cualquier lugar, tanto en la maleta como en la bolsa, ocupa muy poco espacio.
 - Los pies giratorios y plegables de 360 grados ofrecen una mayor posibilidad de aplicaciones más amplias, lo que significa que también puede ser un soporte para libros y iPads.
+- Estilo pulpo para capturar niveles perfectamente en cualquier superficie, simplemente envuelva las patas flexibles del trípode alrededor de una silla/rama/pilar.
 - Instale este mini trípode en su regazo, en la mesa o en el sofá, puede tomar fotos o grabar videos usted mismo fácilmente. Mientras tanto, es perfecto para ver películas en el teléfono, incluidos iPhone 11, XS, XS Max, XR, X, 8, 8 Plus, 7, 7 Plus, 6, 6S, 5, Samsung Galaxy S7, S6, S5 o cualquier otro teléfono inteligente o cámara (GoPro Hero 8 Hero 7/6/5/4 Black, DJI OSMO).
 - Diseñado para ser altamente funcional y duradero para un alto rendimiento. Tiene un reflejo rápido al tomar una foto y la distancia de control es de alrededor de 10 m.
-- Estilo pulpo para capturar niveles perfectamente en cualquier superficie, simplemente envuelva las patas flexibles del trípode alrededor de una silla/rama/pilar.
-- El trípode liviano se puede transportar fácilmente a cualquier lugar, tanto en la maleta como en la bolsa, ocupa muy poco espacio.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0769TQPGF/?tag=tolees-21)
