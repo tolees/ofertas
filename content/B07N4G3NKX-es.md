@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Levi s Tijuana  Zapatillas para Mujer  N con un 44.00 % de descuento'
-date: 2021-03-14 17:57:26
+date: 2021-03-27 13:13:50
 image: 'https://m.media-amazon.com/images/I/41g7oikqahL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4G3NKX-es Levi s Tijuana Zapatillas para Mujer Negro Sneakers 60 38 EU'
 sku: 'B07N4G3NKX-es'
+tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','levis', ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

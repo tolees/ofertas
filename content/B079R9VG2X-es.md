@@ -28,12 +28,12 @@ Ahora mismo tienes [OPTOMA TECHNOLOGY UHD40 - Proyector 4K Home Cinema Ultra HD 
 
 🔎:
 
+- Resolución UHD (3840x2160 píxeles)
 - Instalación sencilla mediante el desplazamiento vertical de la lente
-- Los modos ISF permiten guardar los ajustes de modo diurno y nocturno calibrados
-- Conectividad sencilla: HDMI 2.0, HDCP 2.2, S/PDIF, 2 altavoces x 5W
 - Colores sorprendentes: precisión de color Rec.709
+- Conectividad sencilla: HDMI 2.0, HDCP 2.2, S/PDIF, 2 altavoces x 5W
+- Los modos ISF permiten guardar los ajustes de modo diurno y nocturno calibrados
 - Admite fuentes de alta definición a 24 fps para visualizar las películas en su formato original
 - Proyector con brillo de 2400 lúmenes ANSI
-- Resolución UHD (3840x2160 píxeles)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079R9VG2X/?tag=tolees-21)

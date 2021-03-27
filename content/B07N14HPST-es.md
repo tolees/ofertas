@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Levi s 501 High Rise Short Pantalones Co al 36.38 % de rebaja'
-date: 2021-03-11 07:56:23
+date: 2021-03-27 13:13:19
 image: 'https://m.media-amazon.com/images/I/413qsWqKn5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N14HPST-es Levi s 501 High Rise Short Pantalones Cortos Silver Lake...'
 sku: 'B07N14HPST-es'
+tags: [ 'Pantalones cortos para mujer','Ropa','Ropa para mujer','levis', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

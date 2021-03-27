@@ -28,10 +28,10 @@ Tienes [MSI GP75 Leopard 10SEK-018ES - Ordenador portátil de 17.3" FHD  Intel i
 
 ℹ️:
 
-- Memoria RAM de 16 GB DDR4, 2666 MHz
-- Tarjeta gráfica Nvidia GeForce RTX 2060 de 6 GB GDDR6
-- Sistema operativo Windows 10 Home Advanced sin ODD
 - Procesador Intel i7-10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5 GHz)
+- Memoria RAM de 16 GB DDR4, 2666 MHz
 - Disco SSD de 1 TB NVMe PCIe Gen3x4
+- Sistema operativo Windows 10 Home Advanced sin ODD
+- Tarjeta gráfica Nvidia GeForce RTX 2060 de 6 GB GDDR6
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086Z5XTGK/?tag=tolees-21)
