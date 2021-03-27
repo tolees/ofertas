@@ -29,10 +29,10 @@ Ahora mismo tienes [Nacon PCCH-300 Silla Gaming en Negro y Verde con Cojines lum
 🔎:
 
 - Silla Gaming recomendada para usuarios con altura comprendida entre 140 cm y 170 cm y un peso máximo de 100 Kg
-- Silla pc gaming que soporta un peso máximo de 160 kg
 - Silla gaming con respaldo reclinable (hasta 40º), altura regulable, apoyabrazos fijos, con cojines lumbares y cervicales regulables (incluidos) con medidas de 73,6 x 55,1 x 31,6 cm
-- Materiales de alta calidad – Tapizado de PU fácil de limpiar; asiento relleno de espuma de poliuretano elástica, ignifuga y cómoda;ruedas de nylon giratorias a 360º
+- Silla pc gaming que soporta un peso máximo de 160 kg
 - Idónea para disfrutar de todas tus partidas de PC gaming, PS3, PS4 o Xbox - Conviértete en un gamer profesional
+- Materiales de alta calidad – Tapizado de PU fácil de limpiar; asiento relleno de espuma de poliuretano elástica, ignifuga y cómoda;ruedas de nylon giratorias a 360º
 - Silla gamer con un diseño ergonómico que favorece largas partidas de videojuegos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M2YVWAV/?tag=tolees-21)

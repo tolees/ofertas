@@ -28,8 +28,8 @@ Ahora mismo tienes [PUMA Popcat 20  Zapatos de Playa y Piscina Unisex Adulto  Bl
 
 🔎:
 
-- Inyectada suela de EVA para mayor suavidad y amortiguación adicional
-- PUMA N ° 1 en el logotipo de la correa
 - correa de cuero acolchado, sintética
+- PUMA N ° 1 en el logotipo de la correa
+- Inyectada suela de EVA para mayor suavidad y amortiguación adicional
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S8PSVX2/?tag=tolees-21)

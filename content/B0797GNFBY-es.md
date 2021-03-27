@@ -28,9 +28,9 @@ Ahora mismo tienes [Ice-Watch - ICE glam colour Raspberry - Reloj rosa para Muje
 
 🔎:
 
-- COLECCION : ICE glam colour
 - CONTIENE: Reloj, caja de presentación, instrucciones
-- TAMAÑO: Medium (40mm)
 - HERMETICIDAD : 10 ATM
+- COLECCION : ICE glam colour
+- TAMAÑO: Medium (40mm)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0797GNFBY/?tag=tolees-21)
