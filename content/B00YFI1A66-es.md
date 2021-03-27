@@ -1,29 +1,30 @@
 ---
 layout: post
-title: 'SanDisk Memoria Flash Ultra USB 3.0 de 2 al 45.01 % de descuento'
-date: 2021-02-18 14:21:47
-image: 'https://m.media-amazon.com/images/I/31DdaxPyDML._SL200_.jpg'
+title: 'SanDisk Memoria Flash Ultra USB 3.0 de 2 al 50.03 % de descuento'
+date: 2021-03-27 11:33:42
+image: 'https://m.media-amazon.com/images/I/31DdaxPyDML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YFI1A66-es SanDisk Memoria Flash Ultra USB 3.0 de 256 GB hasta 130...'
 sku: 'B00YFI1A66-es'
-actualPrice: 32.99 EUR
+tags: [ 'Almacenamiento de datos','Almacenamiento de datos externo','Informática','Memorias USB','sandisk', ]
+actualPrice: 29.98 EUR
 currency: EUR
-price: 32.99
+price: 29.98
 comparePrice: 59.99 EUR
 prodname: 'SanDisk Memoria Flash Ultra USB 3.0 de 256 GB  hasta 130 MB/s velocidad de lectura'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B00YFI1A66/?tag=tolees-21'
-descuento: '45.01'
-average: '37.6332203389831'
+descuento: '50.03'
+average: '37.1473015873015'
 ---
 
-Está [SanDisk Memoria Flash Ultra USB 3.0 de 256 GB  hasta 130 MB/s velocidad de lectura](https://www.amazon.es/dp/B00YFI1A66/?tag=tolees-21) con 45.01 de descuento por 32.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [SanDisk Memoria Flash Ultra USB 3.0 de 256 GB  hasta 130 MB/s velocidad de lectura](https://www.amazon.es/dp/B00YFI1A66/?tag=tolees-21) con 50.03 de descuento por 29.98 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![SanDisk Memoria Flash Ultra USB 3.0 de 2](https://m.media-amazon.com/images/I/31DdaxPyDML._SL200_.jpg)](https://www.amazon.es/dp/B00YFI1A66/?tag=tolees-21)
+[![SanDisk Memoria Flash Ultra USB 3.0 de 2](https://m.media-amazon.com/images/I/31DdaxPyDML._SL400_.jpg)](https://www.amazon.es/dp/B00YFI1A66/?tag=tolees-21)
 
 ℹ️:
 
