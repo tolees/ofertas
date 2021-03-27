@@ -1,31 +1,38 @@
 ---
 layout: post
-title: 'PUMA Smash v2 L  Zapatillas Unisex Adult con un 32.83 % de descuento'
-date: 2020-10-11 10:26:28
-image: 'https://m.media-amazon.com/images/I/31dxkxNKIPL._SL400_.jpg'
+title: 'PUMA Smash V2 L  Zapatillas Unisex Adult con un 56.18 % de descuento'
+date: 2021-03-27 00:34:48
+image: 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0783RPDMN-es PUMA Smash v2 L Zapatillas Unisex Adulto Blanco White...'
+slug: 'B0783RPDMN-es PUMA Smash V2 L Zapatillas Unisex Adulto Blanco White...'
 sku: 'B0783RPDMN-es'
-actualPrice: 33.55 EUR
+tags: [ 'Zapatillas casual para hombre','Zapatillas y calzado deportivo para hombre','Zapatos','Zapatos para hombre','Zapatos y complementos','puma', ]
+actualPrice: 21.89 EUR
 currency: EUR
-price: 33.55
+price: 21.89
 comparePrice: 49.95 EUR
-prodname: 'PUMA Smash v2 L  Zapatillas Unisex Adulto  Blanco White Black  48.5 EU'
+prodname: 'PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco White Black  48.5 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'PUMA'
 buyurl: 'https://www.amazon.es/dp/B0783RPDMN/?tag=tolees-21'
-descuento: '32.83'
-average: '33.55'
+descuento: '56.18'
+average: '27.72'
 ---
 
-En este momento está [PUMA Smash v2 L  Zapatillas Unisex Adulto  Blanco White Black  48.5 EU](https://www.amazon.es/dp/B0783RPDMN/?tag=tolees-21) a 33.55 EUR (original: 49.95 EUR) (32.83 %  de descuento) en el siguiente enlace!
+En este momento está [PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco White Black  48.5 EU](https://www.amazon.es/dp/B0783RPDMN/?tag=tolees-21) a 21.89 EUR (original: 49.95 EUR) (56.18 %  de descuento) en el siguiente enlace!
 
-[![PUMA Smash v2 L  Zapatillas Unisex Adult](https://m.media-amazon.com/images/I/31dxkxNKIPL._SL400_.jpg)](https://www.amazon.es/dp/B0783RPDMN/?tag=tolees-21)
+[![PUMA Smash V2 L  Zapatillas Unisex Adult](https://m.media-amazon.com/images/I/31s8fRTR-KL._SL400_.jpg)](https://www.amazon.es/dp/B0783RPDMN/?tag=tolees-21)
 
 🔎:
 
+- Material de la suela: Goma
+- Material exterior: Cuero
+- Tipo de tacón: Plano
+- Altura del tacón: 3 centímetros
+- Cierre: Cordones
+- Revestimiento: Malla
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0783RPDMN/?tag=tolees-21)
