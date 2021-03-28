@@ -28,8 +28,8 @@ En este momento está [Joma Academy II Chándal  Hombre  Rojo/Negro  L](https://
 
 🔎:
 
-- Resto textil
 - Chándales
+- Resto textil
 - Academy ii rojo-negro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07P8V3DYF/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Oral-B 3D White Luxe Perfección Pasta Dentífrica - 75 ml](https://www.
 
 ℹ️:
 
+- Sabor a menta fresca con un frescor adicional de mayor duración
+- Pasta dentífrica que protege el esmalte
 - La tecnología de blanqueamiento dental rápida y avanzada de Oral-B
 - Las innovadoras micropartículas disuelven las manchas superficiales atrapadas en los dientes y los protegen de nuevas manchas
 - Elimina hasta el 100% de las manchas superficiales en 3 días
-- Pasta dentífrica que protege el esmalte
-- Sabor a menta fresca con un frescor adicional de mayor duración
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MY0B5RK/?tag=tolees-21)
