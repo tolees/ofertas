@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Cocktail Games - Asmodee ADECGPI0001 Jue con un 35.22 % de descuento'
-date: 2021-03-04 12:35:55
+date: 2021-03-28 20:54:29
 image: 'https://m.media-amazon.com/images/I/517v4jU-cdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K8TLYYK-es Cocktail Games - Asmodee ADECGPI0001 Juego de Mesa Multicolor'
 sku: 'B07K8TLYYK-es'
+tags: [ 'Juego de mesa','Juegos de misterio','Juegos de tablero','Juegos y accesorios para juegos','Juguetes','Juguetes y juegos','cocktail games', ]
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Cocktail Games'
 buyurl: 'https://www.amazon.es/dp/B07K8TLYYK/?tag=tolees-21'
 descuento: '35.22'
-average: '12.0527272727273'
+average: '12.1907692307692'
 ---
 
 En este momento está [Cocktail Games - Asmodee ADECGPI0001 Juego de Mesa  Multicolor](https://www.amazon.es/dp/B07K8TLYYK/?tag=tolees-21) a 12.95 EUR (original: 19.99 EUR) (35.22 %  de descuento) en el siguiente enlace!
@@ -27,7 +28,7 @@ En este momento está [Cocktail Games - Asmodee ADECGPI0001 Juego de Mesa  Multi
 
 🔎:
 
-- Juego de mesa
 - Juego de tablero
+- Juego de mesa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07K8TLYYK/?tag=tolees-21)

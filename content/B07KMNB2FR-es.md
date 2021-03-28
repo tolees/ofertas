@@ -29,7 +29,7 @@ Ahora mismo tienes [adidas FIT Bx 3S Traje de Baño  Hombre  Black/White  2](htt
 🔎:
 
 - Elastic waistband with lanyard
-- Swimming boxer
 - Chlorine-resistant fabric
+- Swimming boxer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KMNB2FR/?tag=tolees-21)
