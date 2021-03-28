@@ -1,33 +1,34 @@
 ---
 layout: post
-title: 'Fila City Hiking L wmn  Zapatillas Mujer con un 49.57 % de descuento'
-date: 2021-03-03 21:03:19
+title: 'FILA City Hiking L wmn zapatilla Mujer   con un 57.93 % de descuento'
+date: 2021-03-28 07:57:25
 image: 'https://m.media-amazon.com/images/I/41nrakAQxAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
-slug: 'B08FNCVVNZ-es Fila City Hiking L wmn Zapatillas Mujer Blanco White 38 EU'
+author: 'tole.es'
+slug: 'B08FNCVVNZ-es FILA City Hiking L wmn zapatilla Mujer blanco White 38 EU'
 sku: 'B08FNCVVNZ-es'
-actualPrice: 60.52 EUR
+tags: [ 'Zapatillas casual para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','fila', ]
+actualPrice: 50.49 EUR
 currency: EUR
-price: 60.52
+price: 50.49
 comparePrice: 120.0 EUR
-prodname: 'Fila City Hiking L wmn  Zapatillas Mujer  Blanco  White   38 EU'
+prodname: 'FILA City Hiking L wmn zapatilla Mujer  blanco  White   38 EU'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Fila'
 buyurl: 'https://www.amazon.es/dp/B08FNCVVNZ/?tag=tolees-21'
-descuento: '49.57'
-average: '60.52'
+descuento: '57.93'
+average: '53.8333333333333'
 ---
 
-En este momento está [Fila City Hiking L wmn  Zapatillas Mujer  Blanco  White   38 EU](https://www.amazon.es/dp/B08FNCVVNZ/?tag=tolees-21) a 60.52 EUR (original: 120.0 EUR) (49.57 %  de descuento) en el siguiente enlace!
+En este momento está [FILA City Hiking L wmn zapatilla Mujer  blanco  White   38 EU](https://www.amazon.es/dp/B08FNCVVNZ/?tag=tolees-21) a 50.49 EUR (original: 120.0 EUR) (57.93 %  de descuento) en el siguiente enlace!
 
-[![Fila City Hiking L wmn  Zapatillas Mujer](https://m.media-amazon.com/images/I/41nrakAQxAL._SL400_.jpg)](https://www.amazon.es/dp/B08FNCVVNZ/?tag=tolees-21)
+[![FILA City Hiking L wmn zapatilla Mujer  ](https://m.media-amazon.com/images/I/41nrakAQxAL._SL400_.jpg)](https://www.amazon.es/dp/B08FNCVVNZ/?tag=tolees-21)
 
 🔎:
 
-- Parte superior de piel suave
 - Suela exterior de plataforma
+- Parte superior de piel suave
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FNCVVNZ/?tag=tolees-21)
