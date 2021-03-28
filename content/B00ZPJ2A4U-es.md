@@ -1,31 +1,37 @@
 ---
 layout: post
-title: 'Bourjois Push Up Máscara de pestañas Ton al 26.42 % de rebaja'
-date: 2020-05-10 10:54:24
+title: 'Bourjois Push Up Máscara de pestañas Ton al 38.74 % de rebaja'
+date: 2021-03-27 23:49:50
 image: 'https://m.media-amazon.com/images/I/41YZ5PxfVbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00ZPJ2A4U-es Bourjois Push Up Máscara de pestañas Tono 71 Waterproof...'
 sku: 'B00ZPJ2A4U-es'
-actualPrice: 6.99 EUR
+tags: [ 'Belleza','Maquillaje','Maquillaje para ojos','Máscaras','bourjois', ]
+actualPrice: 5.82 EUR
 currency: EUR
-price: 6.99
+price: 5.82
 comparePrice: 9.5 EUR
-prodname: 'Bourjois Push Up Máscara de pestañas Tono 71 Waterproof black  - 37 gr.'
+prodname: 'Bourjois Push Up Máscara de pestañas Tono 71 Waterproof black  7 ml'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Bourjois'
 buyurl: 'https://www.amazon.es/dp/B00ZPJ2A4U/?tag=tolees-21'
-descuento: '26.42'
-average: '6.99'
+descuento: '38.74'
+average: '6.405'
 ---
 
-Tienes [Bourjois Push Up Máscara de pestañas Tono 71 Waterproof black  - 37 gr.](https://www.amazon.es/dp/B00ZPJ2A4U/?tag=tolees-21) con precio final de  6.99 EUR (original: 9.5 EUR) (26.42 %  de rebaja) aqui!
+Tienes [Bourjois Push Up Máscara de pestañas Tono 71 Waterproof black  7 ml](https://www.amazon.es/dp/B00ZPJ2A4U/?tag=tolees-21) con precio final de  5.82 EUR (original: 9.5 EUR) (38.74 %  de rebaja) aqui!
 
 [![Bourjois Push Up Máscara de pestañas Ton](https://m.media-amazon.com/images/I/41YZ5PxfVbL._SL400_.jpg)](https://www.amazon.es/dp/B00ZPJ2A4U/?tag=tolees-21)
 
 🔎:
 
+- Máscara de pestañas que da volumen y levanta las pestañas
+- Libre de parabenos y apta para ojos sensibles y usuarias de lentes de contacto
+- El cepillo elevador máximiza las pestañas desde la primera pasada
+- Fórmula resistente al agua que curva las pestañas manteniendo la flexibilidad sin endurecerlas
+- Proporciona unas pestañas curvadas y gruesas sin grumos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ZPJ2A4U/?tag=tolees-21)

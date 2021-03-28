@@ -28,10 +28,10 @@ En este momento está [Candy 33802870 CTP634C-Encimera inducción flexible  60cm
 
 🔎:
 
-- Flexible: aprovecha al máximo la zona de cocción gracias a su zona flexible y cocina tantos platos como necesites de una sola vez
-- Segura: bloqueo de seguridad, indicador de calor residual y alerta sobre calentamiento y derrames
 - Fácil de limpiar: Se enfría rápidamente permitiendo que los alimentos no se adhieran y sean fáciles de limpiar
+- Flexible: aprovecha al máximo la zona de cocción gracias a su zona flexible y cocina tantos platos como necesites de una sola vez
 - Encimera flexible de 60cm: zona frontal y posterior izquierda 180mm x 1,5kw (x2), zona flex 400x200mm x 3 (3,6)kw y paellero 320mm x 3 (3,6)kw
+- Segura: bloqueo de seguridad, indicador de calor residual y alerta sobre calentamiento y derrames
 - Funciones especiales: función booster en todas las zonas, 9 niveles de potencia, temporizador individual y función pausa
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DYFTCXZ/?tag=tolees-21)
