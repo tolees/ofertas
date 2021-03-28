@@ -28,9 +28,9 @@ Tienes [STANLEY STST1-73615 - Bolsa para herramientas profunda de tapa plana 14"
 
 🔎:
 
-- Bolsa profunda de tapa plana diseñada en una tela de poliéster muy resistente (denier de 600 x 600) y con soporte de plástico en la base para proteger de la suciedad
 - Medidas (cm): 34 x 21 x 24
 - Dispone de grandes cremalleras engomadas, apertura suave y fácil, así como un asa para el hombro para facilitar su transporte
 - Múltiples bolsillos que permiten una organización fácil y cómoda, así como el almacenamiento por separado de piezas pequeñas y objetos personales
+- Bolsa profunda de tapa plana diseñada en una tela de poliéster muy resistente (denier de 600 x 600) y con soporte de plástico en la base para proteger de la suciedad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00PLS6I9S/?tag=tolees-21)
