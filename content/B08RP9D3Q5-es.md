@@ -29,9 +29,9 @@ Tienes [MAXELLPOWER - COCINA ELECTRICA PARA SHISHA CACHIMBA CARBON HORNILLO 1000
 ℹ️:
 
 - ✅ Disponible en 3 colores (Rojo, Azul, Blanco) - Todos con grill incluido - Seleccionar color en Amazon antes de realizar el pedido.
+- ✅ Hornillo eléctrico individual. Exterior de hierro reforzado
+- ✅ Incluye un grill para calentar el carbón y que no se caiga dentro de la placa. Luz de funcionamiento. 1000W de potencia
 - ✅ Quemadores fabricados en acero inoxidable duradero. Control de termostato
 - ✅ Fácil de limpiar. Ideal para calentar el carbón de la cachimba/shisha, aunque también sirve para comida
-- ✅ Incluye un grill para calentar el carbón y que no se caiga dentro de la placa. Luz de funcionamiento. 1000W de potencia
-- ✅ Hornillo eléctrico individual. Exterior de hierro reforzado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08RP9D3Q5/?tag=tolees-21)

@@ -1,36 +1,37 @@
 ---
 layout: post
-title: 'Descuento del 27.76 % en OUTAD - Linterna Frontal Led Recargable '
-date: 2021-03-04 19:12:13
+title: 'Descuento del 38.82 % en OUTAD - Linterna Frontal Led Recargable '
+date: 2021-03-28 16:51:27
 image: 'https://m.media-amazon.com/images/I/41kb4igkeBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B7QQ5DP-es OUTAD - Linterna Frontal Led Recargable 18000 Lúmenes...'
 sku: 'B08B7QQ5DP-es'
-actualPrice: 14.44 EUR
+tags: [ 'Bricolaje y herramientas','Herramientas de mano','Herramientas manuales y eléctricas','Linternas frontales','Linternas y faroles de mano','outad', ]
+actualPrice: 12.23 EUR
 currency: EUR
-price: 14.44
+price: 12.23
 comparePrice: 19.99 EUR
 prodname: 'OUTAD - Linterna Frontal Led Recargable  18000 Lúmenes Linterna Cabeza con 8 Modos y Luz Roja de Advertencia  Linterna de Cabeza para Camping  Bicicleta  Pesca  Casco'
 country: 'es'
 flag: '🇪🇸'
 brand: 'OUTAD'
 buyurl: 'https://www.amazon.es/dp/B08B7QQ5DP/?tag=tolees-21'
-descuento: '27.76'
-average: '18.4546666666667'
+descuento: '38.82'
+average: '17.7223529411765'
 ---
 
-Tienes [OUTAD - Linterna Frontal Led Recargable  18000 Lúmenes Linterna Cabeza con 8 Modos y Luz Roja de Advertencia  Linterna de Cabeza para Camping  Bicicleta  Pesca  Casco](https://www.amazon.es/dp/B08B7QQ5DP/?tag=tolees-21) con un 27.76 % de descuento con precio de oferta de 14.44 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [OUTAD - Linterna Frontal Led Recargable  18000 Lúmenes Linterna Cabeza con 8 Modos y Luz Roja de Advertencia  Linterna de Cabeza para Camping  Bicicleta  Pesca  Casco](https://www.amazon.es/dp/B08B7QQ5DP/?tag=tolees-21) con un 38.82 % de descuento con precio de oferta de 12.23 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![OUTAD - Linterna Frontal Led Recargable ](https://m.media-amazon.com/images/I/41kb4igkeBL._SL400_.jpg)](https://www.amazon.es/dp/B08B7QQ5DP/?tag=tolees-21)
 
 ℹ️:
 
+- 💡【Con Clips para Faro e IPX6 a Prueba de Agua】 El faro LED es resistente al agua según IPX6, sin tener que preocuparse por la lluvia o la nieve. El compartimento de la batería de alta calidad está bien sellado para evitar la entrada de agua, pero no lo sumerja directamente en agua. Con el gancho incluido, puede conectar fácilmente el faro a un casco estrecho y una gorra protectora.
+- 💡【8 Modos de Iluminación】 El faro LED tiene 2 botones de modo para controlar 8 modos para un uso versátil. ①Presione el botón de modo de tecla LED, puede controlar los modos de haz principal, haz lateral, haz completo, luz estroboscópica SOS. ②Presione el modo adicional COB, puede controlar los modos de haz fuerte, haz cálido, luz roja, luz estroboscópica roja SOS.
 - 💡【Diadema Elástica Ajustable】 La lámpara de cabeza LED se puede girar 90 grados, para que pueda ajustar el ángulo e iluminar cualquier esquina que desee, ideal para interiores y exteriores. También está equipado con una banda de goma antideslizante de alta calidad que es fácil de ajustar y transportar. Por lo tanto, la lámpara se puede transportar cómodamente, sin importar si son adultos o niños.
 - 💡【Amplia Gama de Usos】 Ligero, resistente al agua y garantiza la protección contra salpicaduras o rociado de agua desde cualquier ángulo. Esta lámpara frontal es muy adecuada para la pesca, la caza, la carrera nocturna, el senderismo, el camping, la reparación y otras actividades al aire libre y.
 - 💡【Faros LED Súper Brillantes y Luces Rojas de Advertencia】 frontal led con 8 lámparas LED y una luz trasera de seguridad roja. Puede proporcionar un rango de brillo de hasta 500 a 800 metros, para que pueda ver claramente los alrededores y mantenerse alejado de los peligros. Hay una luz roja de advertencia en el compartimiento de la batería, que puede ayudarlo en una emergencia.
-- 💡【8 Modos de Iluminación】 El faro LED tiene 2 botones de modo para controlar 8 modos para un uso versátil. ①Presione el botón de modo de tecla LED, puede controlar los modos de haz principal, haz lateral, haz completo, luz estroboscópica SOS. ②Presione el modo adicional COB, puede controlar los modos de haz fuerte, haz cálido, luz roja, luz estroboscópica roja SOS.
-- 💡【Con Clips para Faro e IPX6 a Prueba de Agua】 El faro LED es resistente al agua según IPX6, sin tener que preocuparse por la lluvia o la nieve. El compartimento de la batería de alta calidad está bien sellado para evitar la entrada de agua, pero no lo sumerja directamente en agua. Con el gancho incluido, puede conectar fácilmente el faro a un casco estrecho y una gorra protectora.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08B7QQ5DP/?tag=tolees-21)

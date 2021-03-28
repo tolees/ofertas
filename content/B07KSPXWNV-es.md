@@ -28,10 +28,10 @@ Ahora mismo tienes [Consuelo - cápsulas de café compatibles con Nespresso* - K
 
 🔎:
 
-- Tostado y envasado en Italia
-- Kit mixto de 50 cápsulas (5 envases de 10 cápsulas)
-- Kit de degustación que incluye las mezclas Classico, Intenso, Forte, Supremo y Decaffeinato.
 - Consuelo ha creado un kit de degustación de cápsulas compatibles con Nespresso*, diseñado para aquellos que prueban nuestro café por primera vez.
+- Kit de degustación que incluye las mezclas Classico, Intenso, Forte, Supremo y Decaffeinato.
+- Kit mixto de 50 cápsulas (5 envases de 10 cápsulas)
+- Tostado y envasado en Italia
 - Cada mezcla es seleccionada, tostada y molida de acuerdo a nuestros más altos estándares de calidad.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KSPXWNV/?tag=tolees-21)

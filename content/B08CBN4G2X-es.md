@@ -28,8 +28,8 @@ Ahora mismo tienes [Reebok Lite 2.0  Zapatillas de Running Hombre  Negro/Negro/T
 
 🔎:
 
-- REEBOK LITE 2.0 (FW8025)
-- Calzado Reebok
 - Zapatillas de running Running Hombre
+- Calzado Reebok
+- REEBOK LITE 2.0 (FW8025)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CBN4G2X/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [Helly Hansen W Aden Long Chaqueta  Mujer  Black  L](https://www.amazon.e
 
 ℹ️:
 
+- Tratamiento de repelencia al agua duradero (DWR)
+- Costura completa sellada
 - Forro de secado rápido
 - Construcción de tejido de 2 capas
-- Tratamiento de repelencia al agua duradero (DWR)
 - A prueba de viento y transpirable
-- Costura completa sellada
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01ET4MO5Q/?tag=tolees-21)

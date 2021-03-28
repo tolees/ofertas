@@ -28,11 +28,11 @@ Está [Adidas Core18 Hoody Sudadera con Capucha  Unisex Niños  Rojo  Power Red/
 
 ℹ️:
 
-- Puños y dobladillo de canalé.
-- Felpa 70% algodón / 30% poliéster.
 - Manga raglán.
 - Capucha con cordón ajustable.
 - Puños y dobladillo acanalados
+- Felpa 70% algodón / 30% poliéster.
+- Puños y dobladillo de canalé.
 - Corte clásico más ancho y silueta recta.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HTPYKZ/?tag=tolees-21)

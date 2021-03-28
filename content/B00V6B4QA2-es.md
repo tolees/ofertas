@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Carmex COS 002 BL Bálsamo labial  1 tarr al 45.19 % de descuento'
-date: 2021-02-27 08:37:19
+date: 2021-03-28 16:10:24
 image: 'https://m.media-amazon.com/images/I/31-1x6qsD6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V6B4QA2-es Carmex COS 002 BL Bálsamo labial 1 tarro - 7.5 g'
 sku: 'B00V6B4QA2-es'
+tags: [ 'Belleza','Bálsamos labiales','Productos para el cuidado de la piel','Productos para el cuidado de los labios','carmex', ]
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85
@@ -27,9 +28,9 @@ Ahora mismo tienes [Carmex COS 002 BL Bálsamo labial  1 tarro - 7.5 g](https://
 
 🔎:
 
-- Protege e hidrata la delicada piel de los labios;
 - Suaviza y calma la piel de los labios durante la práctica de cualquier actividad al aire libre
-- Previene la aparición de fisuras, grietas, calenturas
 - Repara las grietas que aparecen por sequedad ambiental, heridas en los labios, calenturas
+- Previene la aparición de fisuras, grietas, calenturas
+- Protege e hidrata la delicada piel de los labios;
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00V6B4QA2/?tag=tolees-21)

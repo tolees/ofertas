@@ -28,10 +28,10 @@ Tienes [Casio Reloj de Pulsera SGW-100-1VEF](https://www.amazon.es/dp/B001CZXB80
 
 ℹ️:
 
+- La duración de la batería es de 3 años
 - Funciones como iluminador, cronómetro, brújula digital, termómetro, 5 alarmas
 - Resistente al agua hasta 20 bar / 200 metros
-- La duración de la batería es de 3 años
-- Cristal mineral, duro y difícil de rayar, que protege el reloj de daños externos
 - Correa y caja de resina sintética, un material resistente y flexible
+- Cristal mineral, duro y difícil de rayar, que protege el reloj de daños externos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001CZXB80/?tag=tolees-21)
