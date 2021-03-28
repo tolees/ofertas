@@ -28,7 +28,7 @@ En este momento está [FILA City Hiking L wmn zapatilla Mujer  blanco  White   3
 
 🔎:
 
-- Suela exterior de plataforma
 - Parte superior de piel suave
+- Suela exterior de plataforma
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FNCVVNZ/?tag=tolees-21)

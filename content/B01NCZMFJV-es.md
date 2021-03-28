@@ -28,8 +28,8 @@ Está [Redken All Soft Megamask - Mascarilla para cabello deshidratado](https://
 
 ℹ️:
 
-- Previene la sequedad
 - Nutrición para cabello seco y frágil
+- Previene la sequedad
 - No aporta peso
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NCZMFJV/?tag=tolees-21)
