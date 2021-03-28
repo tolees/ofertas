@@ -28,10 +28,10 @@ Está [PUMA Liga GK Jersey Jr T-Shirt  Unisex niños  Bright Green White  128](h
 
 ℹ️:
 
-- Aplicación PUMA Formstripe en los paneles de las mangas
 - Transferencia térmica
-- Tejido exterior de los puños en color contrastante
 - Felino de PUMA
 - Disposición en mangas y parte derecha del pecho
+- Aplicación PUMA Formstripe en los paneles de las mangas
+- Tejido exterior de los puños en color contrastante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B077SJ21FT/?tag=tolees-21)
