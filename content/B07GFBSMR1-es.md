@@ -28,10 +28,10 @@ Está [HOMCOM Banco de Mancuerna Plegable Inclinable Banco de Pesas Musculación
 
 ℹ️:
 
-- ✅MULTIFUNCIONAL: El banco de musculación es Ideal para hacer diferentes ejercicios con pesas y así tonificar músculos del torso, brazos, abdominales, piernas, bíceps, tríceps, hombros, el pecho, la cintura...
-- ✅DISEÑO SEGURO: Los rodillos están cubiertos con espuma para proteger tus piernas y tobillos. Incluye una barra de pesas, un par de cuerdas elásticas y un tirador con muelle para disfrutar de distintos entrenamientos.
 - ✅AJUSTABLE Y PLEGABLE: El respaldo tiene 7 posiciones distintas para satisfacer las diferentes necesidades de entrenamiento. Estructura plegable, lo que te será muy cómodo cuando no lo uses ya que lo puedes guardar en cualquier rincón.
 - ✅Dimensiones totales: 54x160x106 cm (LxANxAL), dimensiones plegado: 53x42x150cm (LxANxAL). Capacidad máx. de carga: 120kg. Diámetro de la barra para colgar pesas: 5.5cm. Soporta 35kg
+- ✅MULTIFUNCIONAL: El banco de musculación es Ideal para hacer diferentes ejercicios con pesas y así tonificar músculos del torso, brazos, abdominales, piernas, bíceps, tríceps, hombros, el pecho, la cintura...
+- ✅DISEÑO SEGURO: Los rodillos están cubiertos con espuma para proteger tus piernas y tobillos. Incluye una barra de pesas, un par de cuerdas elásticas y un tirador con muelle para disfrutar de distintos entrenamientos.
 - ✅RESISTENTE Y ESTABLE: Fabricado de acero resistente y sólido para garantizar tu seguridad. El respaldo, el asiento y el soporte del codo están acolchados para proporcionar una máxima comodidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GFBSMR1/?tag=tolees-21)

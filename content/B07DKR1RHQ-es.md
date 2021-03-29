@@ -29,9 +29,9 @@ Está [BIGBEN - V-Rally - Edición Estándar](https://www.amazon.es/dp/B07DKR1RH
 ℹ️:
 
 - V-Rally Cross: Intensas carreras a 8 en circuitos de tierra, asfalto
-- Rally: De Kenia al parque nacional de las Secuoyas, domina las rutas más difíciles en condiciones a menudo extremas, al volante de vehículos modernos e históricos
-- Buggy: Conviértete en un experto en pilotar por terreno montañoso, adopta los reflejos especiales y aprende la física peculiar necesaria para ganar estas feroces carreras
 - Extreme-Khana: Derrapes, precisión y velocidad, con trampas repartidas por las carreteras, toda una prueba para tus habilidades para la conducción y el espectáculo
+- Buggy: Conviértete en un experto en pilotar por terreno montañoso, adopta los reflejos especiales y aprende la física peculiar necesaria para ganar estas feroces carreras
+- Rally: De Kenia al parque nacional de las Secuoyas, domina las rutas más difíciles en condiciones a menudo extremas, al volante de vehículos modernos e históricos
 - Hill Climb: Alcanza las cumbres al volante de estos monstruos potentes y caprichosos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DKR1RHQ/?tag=tolees-21)

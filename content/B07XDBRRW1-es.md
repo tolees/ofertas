@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mc Haus VULCANO - Silla Oficina Ergonómi al 48.34 % de descuento'
-date: 2021-03-27 13:25:03
+date: 2021-03-29 06:35:29
 image: 'https://m.media-amazon.com/images/I/31XUnn9V1YL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Mc Haus VULCANO - Silla Oficina Ergonómica Regulable con Ruedas de color
 
 ℹ️:
 
-- Dimensiones del producto: 60x52x100-110cm
-- Montaje fácil y sencillo: incluye un manual de instrucciones paso a paso
 - Disponible en 3 de colores diferentes
 - Pistón de gas que permite regular la altura del asiento
+- Dimensiones del producto: 60x52x100-110cm
+- Montaje fácil y sencillo: incluye un manual de instrucciones paso a paso
 - Respaldo ergonómico y reposabrazos ajustables en altura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XDBRRW1/?tag=tolees-21)
