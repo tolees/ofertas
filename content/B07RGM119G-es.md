@@ -28,8 +28,8 @@ Tienes [Salomon Sense Feel W  Zapatillas para Correr Mujer  Azul  India Ink/Whit
 
 🔎:
 
+- Shoes sense feel (l40965700)
 - Calzado salomon
 - Zapatillas de running running mujer
-- Shoes sense feel (l40965700)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RGM119G/?tag=tolees-21)

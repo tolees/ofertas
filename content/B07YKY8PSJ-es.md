@@ -29,10 +29,10 @@ En este momento está [Garmin Forerunner 45S/P Reloj Multisport  Unisex Adulto  
 🔎:
 
 - Monitoriza tu frecuencia cardiaca en la muñeca, porque lo de tomarse el pulso con el dedo es demasiado antiguo
-- Resolución de pantalla: (Ancho/Alto) 208 x 208 píxeles
-- Ponte en marcha hacia la meta con los planes de entrenamiento adaptables de Garmin Coach
 - Registra más kilómetros con una autonomía de la batería de hasta 7 días
-- Tamaño de la pantalla: (Ancho/Alto) 1,04" (26,3 mm) de diámetro
+- Ponte en marcha hacia la meta con los planes de entrenamiento adaptables de Garmin Coach
+- Resolución de pantalla: (Ancho/Alto) 208 x 208 píxeles
 - Para que tengas pruebas concretas de tu entrenamiento, el GPS hace un seguimiento del ritmo, la distancia, los intervalos y mucho más
+- Tamaño de la pantalla: (Ancho/Alto) 1,04" (26,3 mm) de diámetro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YKY8PSJ/?tag=tolees-21)

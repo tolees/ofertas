@@ -28,8 +28,8 @@ Ahora mismo tienes [Helly Hansen Calshot Trunk  Bañador para Hombre  Azul  Azul
 
 🔎:
 
-- Fabricados de 100% poliamida
 - Tejido de secado rápido
+- Fabricados de 100% poliamida
 - Cuenta con protección solar UPF 50+
 - Dispone de bolsillos laterales
 

@@ -28,10 +28,10 @@ Tienes [Candy CDI30 Placa inducción 2 fuegos  30cm ancho  3500W  Táctil  Eléc
 
 🔎:
 
-- Seguridad en tu hogar: sistema de bloqueo disponible e indicador de calor residual
-- Mandos táctiles: Independientes por zonas de cocción, con temporizador y bloqueo de seguridad
-- Encimera de inducción: 2 zonas(140mm y 180mm), adecuado para apartamentos, pisos pequeños y segundas residencias
 - Fácil limpieza: Se enfrían más rápido que las vitrocerámicas y son cómodas de limpiar, con un paño húmedo
+- Seguridad en tu hogar: sistema de bloqueo disponible e indicador de calor residual
+- Encimera de inducción: 2 zonas(140mm y 180mm), adecuado para apartamentos, pisos pequeños y segundas residencias
+- Mandos táctiles: Independientes por zonas de cocción, con temporizador y bloqueo de seguridad
 - Cocción rápida: Alcanzan la temperatura rápidamente, ya que solo calientan la zona del recipiente evitando malgastar energía
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B019LZNMPO/?tag=tolees-21)

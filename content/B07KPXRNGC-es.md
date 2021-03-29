@@ -28,11 +28,11 @@ Ahora mismo tienes [Max Factor Miracle Prep  Primer corrector del color y refres
 
 🔎:
 
-- Contiene ácido hialurónico y vitaminas A, B5, C, D y e
-- Corrige y neutraliza el enrojecimiento de la piel
-- Suaviza la textura del rostro para dejar una piel uniforme
 - Primer corrector del color y refrescante
-- El efecto refrescante del primer calma y restaura la piel
 - Tipo de piel: Normal
+- Suaviza la textura del rostro para dejar una piel uniforme
+- El efecto refrescante del primer calma y restaura la piel
+- Corrige y neutraliza el enrojecimiento de la piel
+- Contiene ácido hialurónico y vitaminas A, B5, C, D y e
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KPXRNGC/?tag=tolees-21)

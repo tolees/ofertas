@@ -28,14 +28,14 @@ Ahora mismo tienes [Geox D Jaysen A  Zapatillas Mujer  Blanco  White/Rose Gold C
 
 🔎:
 
-- Material de la suela: Sintético
 - Anchura del zapato: Normal
+- Material exterior: Cuero
+- Composición: Cuero
+- Altura del tacón: 3 centímetros
+- Cierre: Cordones
+- Revestimiento: Malla
+- Material de la suela: Sintético
 - Tipo de tacón: Plano
 - Tipo de talla: Los zapatos Geox son holgados
-- Revestimiento: Malla
-- Altura del tacón: 3 centímetros
-- Composición: Cuero
-- Material exterior: Cuero
-- Cierre: Cordones
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07STLY2TF/?tag=tolees-21)

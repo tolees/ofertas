@@ -28,10 +28,10 @@ Está [MHHQ para Xiaomi Redmi Note 9 Funda  2in1 Armadura Combinación A Prueba 
 
 ℹ️:
 
+- 1,【Montura de automóvil】: La lámina metálica circular puede ser atraída por un soporte de montaje magnético del automóvil (el montaje magnético del automóvil no está incluido).
 - 5, Aleación de pata de cabra ángulo de visión ajustable para ver video de manos libres o el chat?2 in 1 design, provides a comfortable grip with minimal volume
 - 3, Tecnología avanzada de la absorción de choque, con los patrones geométricos amortiguadores de choque, le dan la mejor protección, ya no tienen que preocuparse de la gota del teléfono móvil
-- 2, Caso de doble capa consiste en una capa interna suave para proteger contra golpes y caídas, y una capa exterior resistente, dura para el refuerzo y definición
-- 1,【Montura de automóvil】: La lámina metálica circular puede ser atraída por un soporte de montaje magnético del automóvil (el montaje magnético del automóvil no está incluido).
 - 4, Un diverso sentido del tacto, anti-sudor, anti-huella digital, anti-rasguña, nunca se descolora color, artículo estupendo
+- 2, Caso de doble capa consiste en una capa interna suave para proteger contra golpes y caídas, y una capa exterior resistente, dura para el refuerzo y definición
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08D6VWLCQ/?tag=tolees-21)

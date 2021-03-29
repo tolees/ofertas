@@ -28,10 +28,10 @@ Tienes [TATAY 4431401 - Standard Escobilla De Baño Wc  PP  Blanco  12.00X12.00X
 
 🔎:
 
-- 12 cm de diámetro y 38 cm de altura
 - Disponible en múltiples colores, todos ellos con la escobilla negra
-- Diseñado y fabricado en españa por Plásticos Tatay
 - Fácil de limpiar
+- Diseñado y fabricado en españa por Plásticos Tatay
 - Fabricado en Plástico Polipropileno
+- 12 cm de diámetro y 38 cm de altura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CJ9PTTC/?tag=tolees-21)

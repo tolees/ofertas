@@ -28,8 +28,8 @@ En este momento está [Samsung Galaxy A41 - Smartphone 6.1" Super AMOLED  4GB RA
 
 🔎:
 
-- Cámara del móvil - cámara principal de 48MP, cámara ultra gran angular de 8MP y cámara de profundidad de 5MP
 - Batería del smartphone - 3.500 mAh con carga rápida de 15kW
+- Cámara del móvil - cámara principal de 48MP, cámara ultra gran angular de 8MP y cámara de profundidad de 5MP
 - Consigue aún más espacio. Memoria ampliable a 512 GB con tarjeta Micro SD
 - Pantalla del móvil - Super AMOLED infinity U, con 6.1 pulgadas con FHD+
 

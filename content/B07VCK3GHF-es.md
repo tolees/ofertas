@@ -28,10 +28,10 @@ En este momento está [BABY born - Muñeca bebé Niña Ojos Azules con 9 funcion
 
 🔎:
 
-- Incluye 11 accesorios: un chupete, una cadena de chupete, un biberón, un orinal, un pañal, un plato, una cuchara, una papilla, un certificado de nacimiento, y 2 pulseras (1 para ti y otra para tu BABY born)
 - Edad recomendada + 3 años
-- Muñeca de 43 cm articulada que funciona sin pilas
+- Incluye 11 accesorios: un chupete, una cadena de chupete, un biberón, un orinal, un pañal, un plato, una cuchara, una papilla, un certificado de nacimiento, y 2 pulseras (1 para ti y otra para tu BABY born)
 - Ahora más flexible y blandita
+- Muñeca de 43 cm articulada que funciona sin pilas
 - Muñeca bebé articulada con 9 funciones parecidas a las de un bebé de verdad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07VCK3GHF/?tag=tolees-21)

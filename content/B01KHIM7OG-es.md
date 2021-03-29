@@ -28,11 +28,11 @@ Ahora mismo tienes [Philips - Bombilla LED esférica casquillo E27  8 W  equival
 
 🔎:
 
-- Recomendado para uso en salones, habitaciones y pasillos creando un espacio acogedor
-- Luz instantánea al encenderse
-- Su acabado mate es adecuado para iluminación general sin crear sombras
-- No regulable
-- Larga duración: hasta 15 años (15.000 horas)
 - Bombillas LED de bajo consumo, ahorra hasta un 80%
+- Su acabado mate es adecuado para iluminación general sin crear sombras
+- Luz instantánea al encenderse
+- Larga duración: hasta 15 años (15.000 horas)
+- No regulable
+- Recomendado para uso en salones, habitaciones y pasillos creando un espacio acogedor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01KHIM7OG/?tag=tolees-21)

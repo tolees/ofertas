@@ -30,8 +30,8 @@ Tienes [L Oreal Paris Make-up Designer - L Oréal Paris Make-up designer 24H Fre
 
 - Permite conseguir una cobertura impecable que dura 24 H, como recién aplicado
 - Disponible en 24 tonos
-- Fórmula con pigmentos finos ultra-concentrados que se adaptan óptimamente al tono de tu piel
 - Truco experto: aplicar después de la prebase alisadora de Infalible para prolongar el resultado del maquillaje
 - Base de maquillaje de larga duración y cobertura modulable
+- Fórmula con pigmentos finos ultra-concentrados que se adaptan óptimamente al tono de tu piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D7H9MR4/?tag=tolees-21)

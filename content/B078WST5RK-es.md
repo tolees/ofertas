@@ -28,11 +28,11 @@ Tienes [Samsung MZ-76E1T0B/EU 860 EVO - Disco interno de estado solido SSD  1 TB
 
 ℹ️:
 
-- S.M.A.R.T Compatible
-- Escritura secuencial 520MB/s
+- Recorte compatible
+- Soporte de cifrado: Cifrado AES de 256 bits (Clase 0) TCG / Opal IEEE1667 (Unidad cifrada)
 - Lectura secuencial 550MB/s
 - Interfaz SATA de 6 Gb/s, compatible con interfaz SATA de 3 Gb/sy SATA de 1,5 Gb/s
-- Soporte de cifrado: Cifrado AES de 256 bits (Clase 0) TCG / Opal IEEE1667 (Unidad cifrada)
-- Recorte compatible
+- Escritura secuencial 520MB/s
+- S.M.A.R.T Compatible
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B078WST5RK/?tag=tolees-21)

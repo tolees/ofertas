@@ -31,7 +31,7 @@ Está [MAXELLPOWER - Nevera PORTATIL ELECTRICA Viaje LUZ Coche Camping 12V/230V 
 - ✅ LED Rojo/Verde indicador de funcionamiento. 2en1 - AC230V/110V DC 12V
 - ✅ Capacidad: 25L Frio: 18-25º por debajo de temperatura ambiental. Caliente: 60-5ºC termostato.
 - ✅ 40-65W. Medidas (aprox): 40,4x43,9x29,8cm
-- ✅ Nevera portátil 2en1: Coche y luz. Calentador portátil, opción de calefacción
 - ✅ ATENCION: No usar en camión, ni con adaptador. No cubre la garantía. No se pueden poner líquidos ya que no es hermética.
+- ✅ Nevera portátil 2en1: Coche y luz. Calentador portátil, opción de calefacción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C81XMLN/?tag=tolees-21)

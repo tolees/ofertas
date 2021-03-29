@@ -28,8 +28,8 @@ Está [Brennenstuhl 1508070 Toma de Corriente  Blanco](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Enchufes 4
 - Adaptador
+- Enchufes 4
 - Brand: Brennenstuhl
 - Interruptor
 

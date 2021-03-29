@@ -28,8 +28,8 @@ Tienes [Fantasy Flight Games- Star Wars X-Wing: carguero yt-2400  Edge Entertain
 
 🔎:
 
-- Miniaturas de naves pintadas a mano
 - Revolucionario sistema de juego
+- Miniaturas de naves pintadas a mano
 - Gran rejugabilidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00U79XTAC/?tag=tolees-21)

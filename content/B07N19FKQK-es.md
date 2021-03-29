@@ -28,10 +28,10 @@ Tienes [G-STAR RAW 3301 High Waist Skinny Vaqueros  Azul  Dk Aged 5245-89   22W 
 
 🔎:
 
-- Llavar a máquina - caliente (mayor de 30 °)
 - Skinny
 - 91% Algodón, 8% Elastomultiéster, 1% Elastano
 - Vaqueros clásicos de 5 bolsillos.
 - Cierre: Cremallera
+- Llavar a máquina - caliente (mayor de 30 °)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N19FKQK/?tag=tolees-21)

@@ -28,8 +28,8 @@ Tienes [Clarks Bensley Step 261476867  Mocasines Hombre  Negro  Black Leather Bl
 
 🔎:
 
-- Suela: goma
 - Exterior: piel
+- Suela: goma
 - Interior: textil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VDC9QNC/?tag=tolees-21)

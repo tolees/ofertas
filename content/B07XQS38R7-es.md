@@ -28,11 +28,11 @@ Ahora mismo tienes [Apple Funda Silicone Case  para el iPhone 11 Pro MAX  - Rosa
 
 🔎:
 
-- El forro de suave microfibra protege tu iPhone, y la silicona exterior tiene un tacto tan agradable que te va a sorprender.
-- Esta funda de silicona, diseñada especialmente por Apple para el iPhone 11 Pro Max, se adapta perfectamente a los botones de volumen, el botón lateral y las curvas del teléfono sin abultar nada.
-- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
-- Además, puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica.
 - Para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
 - Para el iPhone 11 Pro Max
+- Esta funda de silicona, diseñada especialmente por Apple para el iPhone 11 Pro Max, se adapta perfectamente a los botones de volumen, el botón lateral y las curvas del teléfono sin abultar nada.
+- El forro de suave microfibra protege tu iPhone, y la silicona exterior tiene un tacto tan agradable que te va a sorprender.
+- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
+- Además, puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XQS38R7/?tag=tolees-21)

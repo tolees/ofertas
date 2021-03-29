@@ -28,10 +28,10 @@ En este momento está [DJI Mavic Air Combo 2 Pack Drone Quadcopter UAV con Cáma
 
 🔎:
 
-- VUELA MÁS LEJOS: OcuSync 2.0 tiene una distancia de transmisión de video de hasta 6 km, también puede entregar una transmisión en vivo con resolución FHD de 1080p directamente desde la cámara del dron
 - DETALLES CLAROS: Captura fotos de 48 MP con un sensor CMOS de 1/2 pulgada mientras que el cardán de 3 ejes te permite crear un vídeo suave de 4K/60fps
-- VUELA MÁS TIEMPO: Duración de la batería hasta 34 min, permite realizar disparos épicos, sistema de evitación de obstáculos utiliza sensores de avance, retroceso y descenso para optimizar la seguridad
-- VUELA MÁS INTELIGENTE: Spotlight 2.0 mantiene la cámara fija en un sujeto, activeTrack 3.0 mantiene a los sujetos en el centro del cuadro, pOI 3.0 sigue objetos como personas, coches y barcos
 - CAPTURA CINEMATOGRÁFICA: Mavic Air 2 soporta Hyperlapse en 8K, lo que le permite distorsionar el tiempo y el espacio para obtener imágenes impresionantes
+- VUELA MÁS LEJOS: OcuSync 2.0 tiene una distancia de transmisión de video de hasta 6 km, también puede entregar una transmisión en vivo con resolución FHD de 1080p directamente desde la cámara del dron
+- VUELA MÁS INTELIGENTE: Spotlight 2.0 mantiene la cámara fija en un sujeto, activeTrack 3.0 mantiene a los sujetos en el centro del cuadro, pOI 3.0 sigue objetos como personas, coches y barcos
+- VUELA MÁS TIEMPO: Duración de la batería hasta 34 min, permite realizar disparos épicos, sistema de evitación de obstáculos utiliza sensores de avance, retroceso y descenso para optimizar la seguridad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087N4WY8V/?tag=tolees-21)

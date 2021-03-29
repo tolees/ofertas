@@ -29,8 +29,8 @@ Ahora mismo tienes [Helly Hansen Daybreaker  Forro polar Para Mujer  Negro  Blac
 🔎:
 
 - YKK zipped hand pockets
-- Flatlock seams for low bulk
 - Polartec 100g
 - Full YKK coil zip front opening
+- Flatlock seams for low bulk
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B073RNV7ZB/?tag=tolees-21)

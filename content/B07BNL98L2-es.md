@@ -28,10 +28,10 @@ Ahora mismo tienes [Cecotec Horno Sobremesa Bake&Toast 490. 1000 W  Capacidad de
 
 🔎:
 
-- Indicador luminoso de funcionamiento y base antideslizante
-- Incluye bandeja para hornear, parrilla y asa con pinza para extraer los accesorios
-- Horno de sobremesa de diseño elegante con acabados en acero inoxidable. 10 litros de capacidad
-- Puerta de doble cristal de alta resistencia que ayuda al mantenimiento de la temperatura. Temporizador hasta 60 minutos. Temperatura regulable hasta 230 ºc
 - Resistencias halógenas protegidas. 1000 w de potencía para un alto rendimiento
+- Puerta de doble cristal de alta resistencia que ayuda al mantenimiento de la temperatura. Temporizador hasta 60 minutos. Temperatura regulable hasta 230 ºc
+- Indicador luminoso de funcionamiento y base antideslizante
+- Horno de sobremesa de diseño elegante con acabados en acero inoxidable. 10 litros de capacidad
+- Incluye bandeja para hornear, parrilla y asa con pinza para extraer los accesorios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BNL98L2/?tag=tolees-21)

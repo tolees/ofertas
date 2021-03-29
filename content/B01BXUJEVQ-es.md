@@ -28,9 +28,9 @@ Está [SIGMA ZB955 - Objetivo SIGMA 150-600mm F5-6.3 Contemporary +Tele CONVER.T
 
 ℹ️:
 
-- Al acoplar el teleconvertidor entre el teleobjetivo y la cámara, la ampliación ofrecida con el TC-1401 es 1.4 veces la longitud focal.
-- Con énfasis en el rendimiento óptico, este objetivo tiene elementos de cristal FLD , SLD , y otros elementos de cristal, y una distribución de energía optimizada
 - El OS cuenta con un sensor de aceleración para mayor precisión. Dispone de dos modos: para fotografía general y para deportes de motor( con seguimiento).
 - Teleconvertidor 1,4x para las nuevas líneas de producto
+- Con énfasis en el rendimiento óptico, este objetivo tiene elementos de cristal FLD , SLD , y otros elementos de cristal, y una distribución de energía optimizada
+- Al acoplar el teleconvertidor entre el teleobjetivo y la cámara, la ampliación ofrecida con el TC-1401 es 1.4 veces la longitud focal.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BXUJEVQ/?tag=tolees-21)

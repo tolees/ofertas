@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marvel - Vengadores: Endgame [Blu-ray] al 62.46 % de descuento'
-date: 2021-03-28 08:52:55
+date: 2021-03-29 12:47:44
 image: 'https://m.media-amazon.com/images/I/51w0DxvATfL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Marvel'
 buyurl: 'https://www.amazon.es/dp/B07RB4Q7RY/?tag=tolees-21'
 descuento: '62.46'
-average: '17.1055752212389'
+average: '17.0579765395894'
 ---
 
 Ahora mismo tienes [Marvel - Vengadores: Endgame [Blu-ray]](https://www.amazon.es/dp/B07RB4Q7RY/?tag=tolees-21) a 8.99 EUR (original: 23.95 EUR) (62.46 %  de descuento) en el siguiente enlace!

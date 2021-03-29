@@ -28,11 +28,11 @@ Ahora mismo tienes [Brabantia Lift-O-Matic Tendedero de Jardín con Soporte  Ace
 
 🔎:
 
-- 4 brazos, 50 metros de cuerda resistentes a los rayos uv y con perfil antideslizante, cada cuerda se puede sustituir fácilmente
 - Todos los brazos provistos de hendiduras diseñadas para colocar perchas y tender ropa delicada
-- 5 años de garantía
-- Gracias al sistema ‘lift-o-matic, el tendedero se puede ajustar a la altura deseada de trabajo de cada cual (de 129 a 187 cm), manteniendo las cuerdas siempre tensas
-- Incluye anclaje de metal con cierre para evitar tener obstáculos en el jardín o en la terraza
 - Sistema tipo paraguas ajustable y de fácil manejo, con las cuerdas siempre tensas (se pueden tensar en 2 posiciones)
+- Gracias al sistema ‘lift-o-matic, el tendedero se puede ajustar a la altura deseada de trabajo de cada cual (de 129 a 187 cm), manteniendo las cuerdas siempre tensas
+- 4 brazos, 50 metros de cuerda resistentes a los rayos uv y con perfil antideslizante, cada cuerda se puede sustituir fácilmente
+- Incluye anclaje de metal con cierre para evitar tener obstáculos en el jardín o en la terraza
+- 5 años de garantía
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0002EXYOS/?tag=tolees-21)

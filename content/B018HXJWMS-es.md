@@ -28,10 +28,10 @@ En este momento está [AUKEY Adaptador HDMI a VGA 1080P Convertidor de Vídeo pa
 
 🔎:
 
-- Adaptador HDMI a VGA: Se conecta un ordenador o TV Box con puerto HDMI a un proyector, pantalla, LCD, TV y monitor con interfaz VGA. Que le permite ver una película / serie / Youtube o jugar juegos en una pantalla grande
-- Contenido del Paquete: AUKEY CB-V4 Adaptador HDMI a VGA 1080P, Manual Usuario, Tarjeta de Garantía de 24 Meses
-- Alta Resolución: Soporta resoluciones de hasta 1920x1080 @ 60Hz (Máximo), incluído 720p y 1600 x 1200 HD para monitores o proyectores HD. Disfrutará de una imagen clara y nítida
-- Compatibilidad: El puerto HDMI compatible con PC, portátil, Ultrabook, reproductor multimedia Roku, Smart TV Box y otros dispositivos con interfaz HDMI (no es compatible con Mac, PS4). El puerto VGA hembra puede ser conectado a un proyector, HDTV, monitores y otros dispositivos con el puerto VGA macho
 - Portátil y Sólido: Con el diseño ligero y portátil, es fácil de llevarse a dondequiera, esto facilitará su vida y trabajo. El enchufe es fuerte, resistente a la corrosión, no hay riesgo de que se desconecta, mejora el rendimiento de la transmisión de la señal. Soporta plug y play, así no instalación de software de controlador
+- Adaptador HDMI a VGA: Se conecta un ordenador o TV Box con puerto HDMI a un proyector, pantalla, LCD, TV y monitor con interfaz VGA. Que le permite ver una película / serie / Youtube o jugar juegos en una pantalla grande
+- Compatibilidad: El puerto HDMI compatible con PC, portátil, Ultrabook, reproductor multimedia Roku, Smart TV Box y otros dispositivos con interfaz HDMI (no es compatible con Mac, PS4). El puerto VGA hembra puede ser conectado a un proyector, HDTV, monitores y otros dispositivos con el puerto VGA macho
+- Alta Resolución: Soporta resoluciones de hasta 1920x1080 @ 60Hz (Máximo), incluído 720p y 1600 x 1200 HD para monitores o proyectores HD. Disfrutará de una imagen clara y nítida
+- Contenido del Paquete: AUKEY CB-V4 Adaptador HDMI a VGA 1080P, Manual Usuario, Tarjeta de Garantía de 24 Meses
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B018HXJWMS/?tag=tolees-21)

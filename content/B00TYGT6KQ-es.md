@@ -28,8 +28,8 @@ Está [TRIXIE Comedero Cerámica Gatos  0.3 l  ø12 cm  Crema-Azul  Gato](https:
 
 ℹ️:
 
-- apto para lavavajillas
 - LO MEJOR PARA EL CUIDADO DE TU MASCOTA : Producto especialmente destinado para cuidar a las mascotas.
+- apto para lavavajillas
 - TRIXIE MARCA LÍDER : La marca alemana es líder en Europa desde hace casi 50 años. Con más de 7.000 artículos para perros, gatos, roedores, conejos, pájaros, reptiles y peces.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00TYGT6KQ/?tag=tolees-21)

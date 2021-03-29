@@ -29,7 +29,7 @@ En este momento está [Helly Hansen Crew Windbreaker Jacket  Hombre  Navy  M](ht
 🔎:
 
 - De alta calidad.
-- Tejido impermeable y cortaviento de poliéster Tratamiento DWR Suave forro de malla para una mayor comodidad Cremallera YKK en la parte delantera Bolsillos para las manos con cremallera YKK
 - De la marca Helly Hansen.
+- Tejido impermeable y cortaviento de poliéster Tratamiento DWR Suave forro de malla para una mayor comodidad Cremallera YKK en la parte delantera Bolsillos para las manos con cremallera YKK
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073RPKDVY/?tag=tolees-21)
