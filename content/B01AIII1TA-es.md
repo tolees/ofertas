@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Big Bang Theory - Figura Pixel  SD T al 45.64 % de descuento'
-date: 2021-03-22 21:47:49
+date: 2021-03-29 20:39:57
 image: 'https://m.media-amazon.com/images/I/517kJqyozWL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'The Big Bang Theory'
 buyurl: 'https://www.amazon.es/dp/B01AIII1TA/?tag=tolees-21'
 descuento: '45.64'
-average: '19.9946666666667'
+average: '19.9325'
 ---
 
 Está [The Big Bang Theory - Figura Pixel  SD Toys SDTWRN89372 ](https://www.amazon.es/dp/B01AIII1TA/?tag=tolees-21) con 45.64 de descuento por 19.0 EUR (original: 34.95 EUR) en el siguiente enlace!

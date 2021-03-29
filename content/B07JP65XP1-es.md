@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjimarco Jjbowie Sa Pantalo al 50.01 % de descuento'
-date: 2021-03-27 23:58:25
+date: 2021-03-29 19:55:27
 image: 'https://m.media-amazon.com/images/I/31k2gFyB3FL._SL400_.jpg'
 comments: true
 category: ofertas
