@@ -28,10 +28,10 @@ Tienes [Borussia Dortmund  Gorra colección exclusiva  negro](https://www.amazon
 
 🔎:
 
-- Con esta gorra muestra su solidaridad con la ciudad y el equipo
-- EN EL ESTADIO CON BVB: Muéstrales a todos que la sangre negra y amarilla corre por tus venas; que todos sepan por quién late su corazón
-- Esta gorra es un artículo oficial de los fans de Borussia Dortmund también puedes reconocerlo por el logo de BVB
-- El aspecto de la gorra se ve muy bien y encaja adecuadamente con sus otros artículos de fans del Borussia Dortmund
 - Nuestra gorra está hecha de 100% poliéster
+- El aspecto de la gorra se ve muy bien y encaja adecuadamente con sus otros artículos de fans del Borussia Dortmund
+- Esta gorra es un artículo oficial de los fans de Borussia Dortmund también puedes reconocerlo por el logo de BVB
+- EN EL ESTADIO CON BVB: Muéstrales a todos que la sangre negra y amarilla corre por tus venas; que todos sepan por quién late su corazón
+- Con esta gorra muestra su solidaridad con la ciudad y el equipo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B088NQYX9Q/?tag=tolees-21)

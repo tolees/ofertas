@@ -28,9 +28,9 @@ En este momento está [ElectroDH 36048 ADAPTADOR 3 TOMAS SCHUKO   Blanco](https:
 
 🔎:
 
+- componentes incluidos: si
 - producto de alta calidad
 - accesorio
-- componentes incluidos: si
 - paqueteage dimensiones: 5.0 l x 13.5 h x 7.0 w (centimeters)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00H57G3XE/?tag=tolees-21)

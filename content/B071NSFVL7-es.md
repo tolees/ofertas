@@ -28,10 +28,10 @@ Ahora mismo tienes [HARRY POTTER- Marco para Foto Indeseable nº1  Multicolor  H
 
 🔎:
 
-- En el diseño de perfil "indeseables no. 1"
 - Con el espacio para la foto (tamaño 7,7 x 7,7 cm)
-- Color beige
 - Con licencia oficial imán de harry potter
 - Dimensiones imán 14,7 x 9,5 cm
+- Color beige
+- En el diseño de perfil "indeseables no. 1"
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071NSFVL7/?tag=tolees-21)

@@ -28,10 +28,10 @@ En este momento está [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Cor
 
 🔎:
 
+- Cronógrafo de cuarzo
 - Grosor de la caja de 12,00 mm
+- 5 ATM de resistencia al agua
 - Esfera gris cepillada con efecto de rayo de sol
 - Pulsera de acero inoxidable y oro rosa
-- Cronógrafo de cuarzo
-- 5 ATM de resistencia al agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07G4SY43X/?tag=tolees-21)
