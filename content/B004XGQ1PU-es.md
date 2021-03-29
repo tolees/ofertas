@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nenuco Agua de Colonia recomendado para  al 49.54 % de descuento'
-date: 2021-03-28 14:56:56
+date: 2021-03-29 18:33:58
 image: 'https://m.media-amazon.com/images/I/31cTjnhlz9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nenuco'
 buyurl: 'https://www.amazon.es/dp/B004XGQ1PU/?tag=tolees-21'
 descuento: '49.54'
-average: '2.2040625'
+average: '2.20393939393939'
 ---
 
 Está [Nenuco Agua de Colonia recomendado para bebés fragancia original - 600 ml](https://www.amazon.es/dp/B004XGQ1PU/?tag=tolees-21) con 49.54 de descuento por 2.2 EUR (original: 4.36 EUR) en el siguiente enlace!
