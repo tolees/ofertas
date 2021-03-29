@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MAXELLPOWER - Nevera PORTATIL ELECTRICA  al 36.54 % de descuento'
-date: 2021-03-27 22:10:03
+date: 2021-03-29 08:42:12
 image: 'https://m.media-amazon.com/images/I/410fCuf6ybL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [MAXELLPOWER - Nevera PORTATIL ELECTRICA Viaje LUZ Coche Camping 12V/230V 
 
 ℹ️:
 
-- ✅ LED Rojo/Verde indicador de funcionamiento. 2en1 - AC230V/110V DC 12V
-- ✅ ATENCION: No usar en camión, ni con adaptador. No cubre la garantía. No se pueden poner líquidos ya que no es hermética.
-- ✅ Capacidad: 25L Frio: 18-25º por debajo de temperatura ambiental. Caliente: 60-5ºC termostato.
-- ✅ 40-65W. Medidas (aprox): 40,4x43,9x29,8cm
 - ✅ Nevera portátil 2en1: Coche y luz. Calentador portátil, opción de calefacción
+- ✅ 40-65W. Medidas (aprox): 40,4x43,9x29,8cm
+- ✅ LED Rojo/Verde indicador de funcionamiento. 2en1 - AC230V/110V DC 12V
+- ✅ Capacidad: 25L Frio: 18-25º por debajo de temperatura ambiental. Caliente: 60-5ºC termostato.
+- ✅ ATENCION: No usar en camión, ni con adaptador. No cubre la garantía. No se pueden poner líquidos ya que no es hermética.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08C81XMLN/?tag=tolees-21)

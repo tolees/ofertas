@@ -29,7 +29,7 @@ Ahora mismo tienes [PUMA Essential Crew SWS Big Logo M Sudadera  Hombre  Gris  M
 🔎:
 
 - Impresión por pigmento del logotipo N.º 1
-- Cuello redondo, puños y dobladillo de canalé
 - Corte recto
+- Cuello redondo, puños y dobladillo de canalé
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DKLXK7T/?tag=tolees-21)
