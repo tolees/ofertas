@@ -28,10 +28,10 @@ En este momento está [HOGAR24 ES Es - Colchón Viscoelástico Viscorelax Transp
 
 🔎:
 
-- Ergonómico, firmeza y dureza intermedia. Perfecta independencia de lechos. Sistema sanitized anti-hongos, anti-ácaros y anti-bacterias
 - Se sirve envasado al vacío
-- Núcleo central HR byfoam alta resistencia de poro abierto. Plancha inferior 1,5 cm viscofresh para el lado de verano
 - Tejido superior e inferior tejido jacquard con tratamiento anti-bacterias. Acolchado superior 2,0 cm Viscoelastica densidad 65 kg
+- Ergonómico, firmeza y dureza intermedia. Perfecta independencia de lechos. Sistema sanitized anti-hongos, anti-ácaros y anti-bacterias
 - Altura final: +/-18 cm.
+- Núcleo central HR byfoam alta resistencia de poro abierto. Plancha inferior 1,5 cm viscofresh para el lado de verano
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00WSRJ7J8/?tag=tolees-21)

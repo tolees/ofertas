@@ -28,10 +28,10 @@ Está [Mc Haus SAONA Blanca Sillón Salón Comedor o Dormitorio  82x46x51cm](htt
 
 ℹ️:
 
+- Fácil y sencillo montaje
 - Patas en madera robusta acabado en haya unidas por sujeciones metálicas en color negro
 - Pack de 4 sillas blancas de estilo nórdico
 - Pueden soportar hasta 120 kg
-- Fácil y sencillo montaje
 - Ideales para tu comedor, cocina, salón, oficina o terraza.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08VJF6KMB/?tag=tolees-21)
