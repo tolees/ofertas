@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Godzilla: Rey De Los Monstruos 4k Uhd [B al 41.56 % de descuento'
-date: 2021-03-28 15:57:00
+date: 2021-03-29 21:43:26
 image: 'https://m.media-amazon.com/images/I/51v4IJpKbgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W7GVTHW/?tag=tolees-21'
 descuento: '41.56'
-average: '14.6'
+average: '14.6777777777778'
 ---
 
 Ahora mismo tienes [Godzilla: Rey De Los Monstruos 4k Uhd [Blu-ray]](https://www.amazon.es/dp/B07W7GVTHW/?tag=tolees-21) a 14.95 EUR (original: 25.58 EUR) (41.56 %  de descuento) en el siguiente enlace!

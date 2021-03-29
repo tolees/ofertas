@@ -28,10 +28,10 @@ En este momento está [Dilanca - Pulsera chapada en oro rosa de 18 quilates  dis
 
 🔎:
 
-- 【30 días de garantía de reembolso】 Ofrecemos a nuestros clientes una política de vuelta de 30 días. Si su artículo roto en el plazo de un mes, volveremos a enviar uno nuevo sin costo alguno. Usted es agradable entrarnos en contacto con con cualquier pregunta
-- 【especificaciones】   Diámetro interior: 5.9cm; Circunferencia: 18.3cm
 - 【respetuoso del medio ambiente】 Sin plomo y níquel libre, de oro rosa de cobre plateado, pasó suiza SGS estándar de inspección, sin perjuicio para la salud
+- 【30 días de garantía de reembolso】 Ofrecemos a nuestros clientes una política de vuelta de 30 días. Si su artículo roto en el plazo de un mes, volveremos a enviar uno nuevo sin costo alguno. Usted es agradable entrarnos en contacto con con cualquier pregunta
 - 【Los mejores regalos】 Vienen en una caja de regalo de joyería de terciopelo, sin necesidad de envolver.Perfecto para ella en el cumpleaños, aniversario de bodas, el Día de San Valentín, Día de Navidad, Día de la Madre regalos, Día de Acción de Gracias, regalos para mamá, niñas adolescentes. Alguien especial a este impresionante collar
+- 【especificaciones】   Diámetro interior: 5.9cm; Circunferencia: 18.3cm
 - 【diseño inspiración】 Patrón de diseño hueco y flor única, crea feeling.Contains más de moda 80 CZ acentos en la pulsera del brazalete de la declaración, capta toda la luz que rodea a la perfección y destellos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071YPV3PJ/?tag=tolees-21)
