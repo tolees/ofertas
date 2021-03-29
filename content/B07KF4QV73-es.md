@@ -28,7 +28,7 @@ En este momento está [Levi s 501 High Rise Short Pantalones Cortos  In The Clou
 
 🔎:
 
-- Costura interior: 6,3 cm.
 - Lavar del revés y secar con colores similares. Se recomienda usar detergente líquido.
+- Costura interior: 6,3 cm.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KF4QV73/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [TRIXIE Bozal Lazo Nylon  Entrenamiento  L  18-30 cm  Negro  Perro](https
 
 🔎:
 
-- de nylon
 - con acolchado de Neopreno extra suave
-- muy cómodo de llevar
 - tiras de cierre completamente ajustables al cuello
 - anilla con forma D que permite dirigir la cabeza y da mejor control
+- de nylon
+- muy cómodo de llevar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B000WFJ24I/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI 13134 - Pack de 100 bolsas de plást al 41.81 % de rebaja'
-date: 2021-03-27 21:26:52
+date: 2021-03-29 01:13:32
 image: 'https://m.media-amazon.com/images/I/41l1z4G-b4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'APLI'
 buyurl: 'https://www.amazon.es/dp/B00G6G8UU4/?tag=tolees-21'
 descuento: '41.81'
-average: '2.94049504950495'
+average: '2.91718446601942'
 ---
 
 Tienes [APLI 13134 - Pack de 100 bolsas de plástico con autocierre  60 x 80 mm](https://www.amazon.es/dp/B00G6G8UU4/?tag=tolees-21) con precio final de  1.74 EUR (original: 2.99 EUR) (41.81 %  de rebaja) aqui!
