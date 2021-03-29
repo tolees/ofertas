@@ -28,10 +28,10 @@ Está [Hauck Citi Neo II - Silla de paseo de 3 ruedas  respaldo reclinable  pleg
 
 ℹ️:
 
-- Posiciones: el respaldo y reposapiés se puede ajustar individualmente acostado o sentado; capota grande, amortiguación, cesta de compra grande, bandeja con botellero
+- Uso duradero: la silla de paseo tiene una vida útil mucho más prolongado que otras sillas ya que es apta de 0 meses y soporta un peso hasta 25 kg (niño 22 kg, cesta 3 kg)
 - Todoterreno: gracias a las ruedas grandes y giratorias disfrutaras de una silla de paseo manejable sobre todo tipo de terreno
 - Facil plegado: la silla de paseo tiene un plegado rápido y fácil con solo una mano; reducido en tamaño que ahorra espacio en casa, avión y maletero de coches
 - Seguridad: esta silla de paseo tiene un arnés de 5 puntos y cumple con la normativas de seguridad exigidas EN 1888
-- Uso duradero: la silla de paseo tiene una vida útil mucho más prolongado que otras sillas ya que es apta de 0 meses y soporta un peso hasta 25 kg (niño 22 kg, cesta 3 kg)
+- Posiciones: el respaldo y reposapiés se puede ajustar individualmente acostado o sentado; capota grande, amortiguación, cesta de compra grande, bandeja con botellero
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LRUWOIC/?tag=tolees-21)

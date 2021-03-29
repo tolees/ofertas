@@ -28,10 +28,10 @@ En este momento está [BIBS Colour Paquete de 2 chupetes. Libre de BPA  Tetina r
 
 🔎:
 
-- BIBS Colour es el chupete de siempre con un escudo redondeado y una tetina también redonda. La tetina redondeada y su ligero escudo de color mate están diseñados para imitar la forma del pecho de la madre.
-- Diseñado y fabricado en Dinamarca/UE.
 - Una historia de más de 40 años, con productos para bebés de fabricación danesa. Nos centramos en productos de alta calidad con un diseño estético e inspirador para llenar de color los primeros momentos del bebé
-- Recomendado por las matronas para favorecer la lactancia materna
 - 100 % libre de BPA, PVC y ftalatos. Certificación EN1400+A2.
+- Recomendado por las matronas para favorecer la lactancia materna
+- Diseñado y fabricado en Dinamarca/UE.
+- BIBS Colour es el chupete de siempre con un escudo redondeado y una tetina también redonda. La tetina redondeada y su ligero escudo de color mate están diseñados para imitar la forma del pecho de la madre.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GLZKYSR/?tag=tolees-21)

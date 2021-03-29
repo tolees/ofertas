@@ -29,9 +29,9 @@ Está [Mc Haus VULCANO - Silla Oficina Ergonómica Regulable con Ruedas de color
 ℹ️:
 
 - Disponible en 3 de colores diferentes
-- Pistón de gas que permite regular la altura del asiento
-- Dimensiones del producto: 60x52x100-110cm
-- Montaje fácil y sencillo: incluye un manual de instrucciones paso a paso
 - Respaldo ergonómico y reposabrazos ajustables en altura
+- Montaje fácil y sencillo: incluye un manual de instrucciones paso a paso
+- Dimensiones del producto: 60x52x100-110cm
+- Pistón de gas que permite regular la altura del asiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XDBRRW1/?tag=tolees-21)
