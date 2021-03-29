@@ -28,10 +28,10 @@ Tienes [Arcos Serie Universal  Cuchillo Cocinero  Hoja de Acero Inoxidable Nitru
 
 🔎:
 
-- Presentación: 1 unidad en un estuche
 - Hoja de acero inoxidable Nitrum, una fórmula exclusiva de ARCOS de acero al nitrógeno que proporciona más dureza, mayor poder de corte y mejora de la durabilidad del filo
-- Tamaño Hoja: 200 mm
 - Mango: Predominio de las líneas rectas, está pensado para el uso diario sin renunciar al diseño
+- Presentación: 1 unidad en un estuche
+- Tamaño Hoja: 200 mm
 - Cachas: Sus cachas de Polioximetileno (POM), lo hacen resistente a productos químicos y temperaturas extremas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00J64GMWQ/?tag=tolees-21)

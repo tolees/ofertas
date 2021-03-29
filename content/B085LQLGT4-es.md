@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Munich Dash Kid VCO 76  Zapatillas  Mult al 50.04 % de rebaja'
-date: 2021-03-16 09:06:22
+date: 2021-03-28 23:32:58
 image: 'https://m.media-amazon.com/images/I/41LXppEiKVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085LQLGT4-es Munich Dash Kid VCO 76 Zapatillas Multicolor 27 EU'
 sku: 'B085LQLGT4-es'
+tags: [ 'Zapatillas casual para niño','Zapatillas y calzado deportivo para Niño','Zapatos','Zapatos para niños pequeños','Zapatos y complementos','munich', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95
