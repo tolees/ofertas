@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Descuento del 57.79 % en SEGA - Puyo Puyo Tetris 2'
-date: 2021-03-06 16:37:27
+title: 'Descuento del 60.22 % en SEGA - Puyo Puyo Tetris 2'
+date: 2021-03-30 04:28:43
 image: 'https://m.media-amazon.com/images/I/518tja9Xa6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HZSWF5F-es SEGA - Puyo Puyo Tetris 2'
 sku: 'B08HZSWF5F-es'
-actualPrice: 16.88 EUR
+tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','sega', ]
+actualPrice: 15.91 EUR
 currency: EUR
-price: 16.88
+price: 15.91
 comparePrice: 39.99 EUR
 prodname: 'SEGA - Puyo Puyo Tetris 2'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B08HZSWF5F/?tag=tolees-21'
-descuento: '57.79'
-average: '17.632'
+descuento: '60.22'
+average: '17.14'
 ---
 
-Tienes [SEGA - Puyo Puyo Tetris 2](https://www.amazon.es/dp/B08HZSWF5F/?tag=tolees-21) con un 57.79 % de descuento con precio de oferta de 16.88 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [SEGA - Puyo Puyo Tetris 2](https://www.amazon.es/dp/B08HZSWF5F/?tag=tolees-21) con un 60.22 % de descuento con precio de oferta de 15.91 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![SEGA - Puyo Puyo Tetris 2](https://m.media-amazon.com/images/I/518tja9Xa6L._SL400_.jpg)](https://www.amazon.es/dp/B08HZSWF5F/?tag=tolees-21)
 
