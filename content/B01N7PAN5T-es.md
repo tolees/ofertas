@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.67 % en Sony HT-MT300 - Barra de sonido compacta'
-date: 2021-03-24 00:05:26
+date: 2021-03-29 23:59:25
 image: 'https://m.media-amazon.com/images/I/31NI69GUKeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B01N7PAN5T/?tag=tolees-21'
 descuento: '36.67'
-average: '175.4392'
+average: '176.517037037037'
 ---
 
 Tienes [Sony HT-MT300 - Barra de sonido compacta  2.1 canales  con Bluetooth  NFC  S-Force Pro Front surround  subwoofer inalámbrico  negro](https://www.amazon.es/dp/B01N7PAN5T/?tag=tolees-21) con un 36.67 % de descuento con precio de oferta de 189.99 EUR (original: 300.0 EUR) en el siguiente enlace!

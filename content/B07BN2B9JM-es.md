@@ -28,10 +28,10 @@ Tienes [Vans Ward Canvas  Zapatillas para Hombre Azul  Dress Blues/White Jy3  42
 
 🔎:
 
-- Material de la suela: Goma
-- Cierre: Cordones
+- Tipo de tacón: Plano
 - Material exterior: Cuero
 - Revestimiento: Tela
-- Tipo de tacón: Plano
+- Cierre: Cordones
+- Material de la suela: Goma
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BN2B9JM/?tag=tolees-21)

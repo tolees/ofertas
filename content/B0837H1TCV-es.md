@@ -28,10 +28,10 @@ Está [Ninja Air Fryer MAX  Freidora sin Aceite [AF160EU] 6 funciones de cocció
 
 ℹ️:
 
-- Freidora de aire: hasta un 75 % menos de grasa que con los métodos tradicionales para freír
 - Fríe sin remordimientos usando poco o nada de aceite
+- Piezas antiadherentes y lavables en el lavavajillas; cesto de tamaño familiar de 5,2 l
 - Cocina hasta un 50 % más rápido que los hornos eléctricos
 - 6 funciones de cocción: max crisp, freidora de aire, asar, hornear, recalentar y deshidratar
-- Piezas antiadherentes y lavables en el lavavajillas; cesto de tamaño familiar de 5,2 l
+- Freidora de aire: hasta un 75 % menos de grasa que con los métodos tradicionales para freír
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0837H1TCV/?tag=tolees-21)

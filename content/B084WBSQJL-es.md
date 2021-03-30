@@ -28,10 +28,10 @@ Tienes [Polti Vaporetto Smart 120 Limpiador a Vapor con Caldera de Alta presión
 
 🔎:
 
+- Múltiples accesorios: 11 accesorios para la limpieza de diferentes superficies + 3 paños para la limpieza de alfombras y moquetas
+- Calentamiento rápido: listo para el uso en 2 minutos. Autonomía de vapor ilimitada
 - El vapor de Polti Vaporetto mata y elimina el 99.99% * de virus, gérmenes y bacterias
 - Caldera de alta presión 4 bar, emisión de vapor regulable hasta 110g/min
-- Múltiples accesorios: 11 accesorios para la limpieza de diferentes superficies + 3 paños para la limpieza de alfombras y moquetas
 - Amplio compartimento para guardar los accesorios
-- Calentamiento rápido: listo para el uso en 2 minutos. Autonomía de vapor ilimitada
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B084WBSQJL/?tag=tolees-21)

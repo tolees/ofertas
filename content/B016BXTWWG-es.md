@@ -28,9 +28,9 @@ Está [Devolo dLAN 550 WiFi - Kit de Inicio PLC Powerline  500 Mbps  2 x adaptad
 
 ℹ️:
 
-- Contenido de la caja: 1 x dLAN 550 WiFi, 1 x dLAN 550 duo+, 1 x cable Ethernet de dos metros, 1 x instrucciones de instalación
 - Con mayor área de cobertura gracias a la tecnología range+
 - La conexión LAN adicional permite conectar a internet en cualquier momento otro dispositivo con capacidad para ello, mediante un cable de red
+- Contenido de la caja: 1 x dLAN 550 WiFi, 1 x dLAN 550 duo+, 1 x cable Ethernet de dos metros, 1 x instrucciones de instalación
 - Codificación integrada al pulsar un botón (AES de 128 bits para la conexión Powerline y WPA2 para Wi-Fi)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B016BXTWWG/?tag=tolees-21)

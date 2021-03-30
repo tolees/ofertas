@@ -30,8 +30,8 @@ Tienes [L Oréal Paris Infalible Primer  PreBase Alisadora de Maquillaje Larga D
 
 - Prepara la piel para aplicar el maquillaje, alisando los poros
 - Textura gel transparente ligero de rápida absorción
-- Aplicar por todo el rostro en movimientos circulares para preparar y alisar la superficie de la piel
 - Pre base de maquillaje matificante Infalible
+- Aplicar por todo el rostro en movimientos circulares para preparar y alisar la superficie de la piel
 - Permite que el maquillaje aguante intacto por más tiempo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TPDVUTI/?tag=tolees-21)
