@@ -28,8 +28,8 @@ En este momento está [Denver Electronics TSP-110 10W Negro Altavoz portátil - 
 
 🔎:
 
-- 【Volumen alta potencia】: Con una potencia de salida 10W RMS puedes disfrutar de un sonido de calidad incluso a un volumen de música alto; tamaño del altavoz: 8" y tweeter de 1”.
 - 【Luces】: Las luces LED frontales te permiten crear un ambiente de fiesta donde quieras que estés.
+- 【Volumen alta potencia】: Con una potencia de salida 10W RMS puedes disfrutar de un sonido de calidad incluso a un volumen de música alto; tamaño del altavoz: 8" y tweeter de 1”.
 - 【Bluetooth】: Altavoz transportable con Bluetooth para conectar de forma inalámbrica con tu móvil, tablet u otro dispositivo electrónico que disponga de Bluetooth.
 - 【Radio】: Dispone de radio analógica FM incorporada con función de escaneo de emisoras automático.
 - 【Transportable】: Es un modelo fácil de transportar con asa y ruedas incorporadas.
