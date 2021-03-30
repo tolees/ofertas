@@ -28,10 +28,10 @@ Tienes [Casio EDIFICE Reloj en caja sólida de acero inoxidable  10 BAR  Azul/Ne
 
 🔎:
 
-- La duración de la batería es de 3 años
-- Cristal mineral, duro y difícil de rayar, que protege el reloj de daños externos
-- Incluye cronómetro, indicador de fecha y pantalla de neón
 - Resistente al agua hasta 10 bar / 100 metros
+- La duración de la batería es de 3 años
 - Caja sólida de acero inoxidable con correa de cuero auténtico
+- Incluye cronómetro, indicador de fecha y pantalla de neón
+- Cristal mineral, duro y difícil de rayar, que protege el reloj de daños externos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01MV34KVO/?tag=tolees-21)

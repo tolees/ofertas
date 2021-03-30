@@ -28,10 +28,10 @@ Tienes [Chicco Flashy El Xilófono - Musicales](https://www.amazon.es/dp/B07QKB2
 
 ℹ️:
 
-- 8 Canciones Tradicionales + 1Bastón Incluído
+- Flashy te enseña notas musicales, la escala musical y la secuencia de sonidos
 - 2 Modos De Juego
 - Modo Free Style y Libre
+- 8 Canciones Tradicionales + 1Bastón Incluído
 - Juguete musical con 3 modos dejuego
-- Flashy te enseña notas musicales, la escala musical y la secuencia de sonidos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QKB2NQ5/?tag=tolees-21)

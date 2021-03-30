@@ -29,9 +29,9 @@ Ahora mismo tienes [PUMA Active Leggings Pants  Mujer  Puma Black  L](https://ww
 🔎:
 
 - Corte ceñido
-- Logotipo del felino estampado con pigmentos
 - dryCELL: La composición de alto rendimiento aleja la transpiración de la piel y ayuda a mantenerte seco y cómodo durante el ejercicio
-- Cintura alta, resalta la figura femenina y resulta muy cómoda durante la práctica deportiva
 - Costuras planas y refuerzo que reducen la fricción y aumentan la comodidad
+- Cintura alta, resalta la figura femenina y resulta muy cómoda durante la práctica deportiva
+- Logotipo del felino estampado con pigmentos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DG2PZYT/?tag=tolees-21)
