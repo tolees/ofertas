@@ -28,10 +28,10 @@ Tienes [TomTom Start 52 - Navegador GPS  5" pantalla táctil  flash  batería  e
 
 ℹ️:
 
-- Batería de iones de litio con un autonomía de hasta 2 horas
-- Pantalla de 5" con una resolución de 480 x 272 pixeles
 - TMC, tráfico, asistente de carril, aviso de velocidad
 - Mapas de 45 países de Europa
 - Ranura para tarjetas Micro SD
+- Batería de iones de litio con un autonomía de hasta 2 horas
+- Pantalla de 5" con una resolución de 480 x 272 pixeles
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01DUGY4R0/?tag=tolees-21)

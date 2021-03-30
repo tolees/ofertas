@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mary Poppins [DVD] con un 55.65 % de descuento'
-date: 2021-03-21 16:47:22
+date: 2021-03-30 20:58:47
 image: 'https://m.media-amazon.com/images/I/516VKMCwfaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0053CAGAE/?tag=tolees-21'
 descuento: '55.65'
-average: '7.98878048780487'
+average: '7.89999999999999'
 ---
 
 En este momento está [Mary Poppins [DVD]](https://www.amazon.es/dp/B0053CAGAE/?tag=tolees-21) a 6.99 EUR (original: 15.76 EUR) (55.65 %  de descuento) en el siguiente enlace!

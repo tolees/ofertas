@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.65 % en Disney - La Sirenita  2014  [DVD]'
-date: 2021-03-21 16:56:35
+date: 2021-03-30 21:12:32
 image: 'https://m.media-amazon.com/images/I/51tl7DTuOdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Disney'
 buyurl: 'https://www.amazon.es/dp/B00JVQUZWW/?tag=tolees-21'
 descuento: '55.65'
-average: '9.36303867403314'
+average: '9.31172972972971'
 ---
 
 Tienes [Disney - La Sirenita  2014  [DVD]](https://www.amazon.es/dp/B00JVQUZWW/?tag=tolees-21) con un 55.65 % de descuento con precio de oferta de 6.99 EUR (original: 15.76 EUR) en el siguiente enlace!
