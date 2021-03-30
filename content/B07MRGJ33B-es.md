@@ -28,10 +28,10 @@ En este momento está [Rimmel London Provocalips Labial Líquido  Tono 220 Lazy 
 
 🔎:
 
+- Bálsamo hidratante que ofrece un acabado brillante y suave
+- Aplicar color y mantener los labios separados hasta su secado
 - Aplicar top coat para sellar el color, hidratar y proporcionar brillo
 - Resistente a besos y roces ¡no deja rastro, ni mancha
-- Aplicar color y mantener los labios separados hasta su secado
-- Bálsamo hidratante que ofrece un acabado brillante y suave
 - Color intenso inalterable hasta 16 horas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MRGJ33B/?tag=tolees-21)
