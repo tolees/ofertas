@@ -29,7 +29,7 @@ Está [Fjällräven Kånken Mini Mochila de Senderismo Unisex Adulto  Rojo  Deep
 ℹ️:
 
 - Small frontal pocket
-- Simple shoulder straps and Handle AT the top
 - Mini back pack
+- Simple shoulder straps and Handle AT the top
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00F18TM6E/?tag=tolees-21)

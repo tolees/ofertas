@@ -28,10 +28,10 @@ Tienes [VITANATUR COLLAGEN ANTIOX 360g - Complemento alimenticio a base de colá
 
 ℹ️:
 
-- Ayuda a mantener el buen estado de la piel, huesos, cartílagos y articulaciones, y acción antioxidante
+- Sin lactosa. Con sabor a frutos rojos
 - Bote de 360g con cacito dosificador. Polvos con fácil disolución
+- Ayuda a mantener el buen estado de la piel, huesos, cartílagos y articulaciones, y acción antioxidante
 - Complemento alimenticio Collagen Antiox Plus
 - Ingredientes: Colágeno hidrolizado Peptan, ácido hialurónico, extracto de semillas de uva, vitaminas A,C,D y E, magnesio, selenio y zinc
-- Sin lactosa. Con sabor a frutos rojos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01EHSMM5Q/?tag=tolees-21)
