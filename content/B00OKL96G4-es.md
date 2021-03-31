@@ -28,10 +28,10 @@ Tienes [Versa 20100002 Cajonera Baño 3 Cestas  Madera  Gris  56x30x25](https://
 
 🔎:
 
-- Medidas: Alto 56 cm, Ancho 30 cm y Largo 25 cm; Peso 3 kg.
-- Estructura de color blanco; Incluye tres cestas de polipropileno de color gris y marrón; Material: madera y polipropileno
 - Pieza montada
-- Las cestas son muy ligeras y se apoyan sobre los raíles de los costados
+- Estructura de color blanco; Incluye tres cestas de polipropileno de color gris y marrón; Material: madera y polipropileno
 - Perfecta para el baño o como mueble de almacenaje; Muy útil para guardar cepillos de pelo, secador, productos de aseo personal, etc
+- Medidas: Alto 56 cm, Ancho 30 cm y Largo 25 cm; Peso 3 kg.
+- Las cestas son muy ligeras y se apoyan sobre los raíles de los costados
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00OKL96G4/?tag=tolees-21)

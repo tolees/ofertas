@@ -28,10 +28,10 @@ Ahora mismo tienes [PUMA LIGA Baselayer Long Tight Pants  Hombre  Puma Black  L]
 
 🔎:
 
-- dryCELL: material transporta el sudor hacia fuera
-- Slim Fit
 - Tejido de elastano para duradera Elasticidad
+- Slim Fit
 - Material de compresión para mejorar el rendimiento
+- dryCELL: material transporta el sudor hacia fuera
 - Lightweight
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077SPFYNG/?tag=tolees-21)

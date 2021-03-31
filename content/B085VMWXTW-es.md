@@ -30,8 +30,8 @@ Tienes [Healthy Fusion - Potente anticelulítico y reductor intensivo | Cápsula
 
 - EFICAZ REAFIRMANTE – Adiós Celulitis contiene también una eficacia demostrada como potente reafirmante de glúteos y muslos, gracias a su completa formulación de componentes quemagrasas y estimulantes.
 - CALIDAD GARANTIZADA – Desde Healthy Fusion garantizamos la máxima calidad en todos nuestros productos, fabricados todos en nuestro laboratorio con certificaciones de calidad GMP, ISO 9001 e ISO 9002.
-- PREVIENE Y ELIMINA LA CELULITIS – Adiós Celulitis es el único producto capaz de eliminar la celulitis y la piel de naranja, formulado a base de CLA, Gingko Biloba, L-Carnitina, Cafeina, etc.
 - ACABA CON LA PIEL DE NARANJA – Estimula la circulación y actúa como drenante de las células grasas y adipocitos de la piel, consiguiendo evitar la retención de líquidos y eliminar la grasa acumulada.
 - NO MAS VARICES Y LAS PIERNAS CANSADAS - Adiós Celulitis actúa también como estimulante de la circulación sanguínea, consiguiendo eliminar los síntomas de las piernas cansadas y varices.
+- PREVIENE Y ELIMINA LA CELULITIS – Adiós Celulitis es el único producto capaz de eliminar la celulitis y la piel de naranja, formulado a base de CLA, Gingko Biloba, L-Carnitina, Cafeina, etc.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085VMWXTW/?tag=tolees-21)
