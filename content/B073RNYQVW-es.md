@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Helly Hansen Logo T-shirt Camiseta de ma con un 50.03 % de descuento'
-date: 2021-03-28 23:14:33
+date: 2021-03-31 13:18:37
 image: 'https://m.media-amazon.com/images/I/31NvUr-ra9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Helly Hansen'
 buyurl: 'https://www.amazon.es/dp/B073RNYQVW/?tag=tolees-21'
 descuento: '50.03'
-average: '16.7660869565219'
+average: '16.6920833333335'
 ---
 
 En este momento está [Helly Hansen Logo T-shirt Camiseta de manga corta hecha de algodón  con logo HH en el pecho](https://www.amazon.es/dp/B073RNYQVW/?tag=tolees-21) a 14.99 EUR (original: 30.0 EUR) (50.03 %  de descuento) en el siguiente enlace!

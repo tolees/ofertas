@@ -28,7 +28,7 @@ En este momento está [Diesel S-astico Low Lace  Zapatillas para Hombre  Blanco 
 
 🔎:
 
-- De la marca Diesel.
 - Muy cómodo de llevar.
+- De la marca Diesel.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D33TGYK/?tag=tolees-21)

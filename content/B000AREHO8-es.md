@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'Skechers SPORT - ENERGY  Women s Low Top con un 42.07 % de descuento'
-date: 2020-10-08 16:12:33
-image: 'https://m.media-amazon.com/images/I/41U6s65CNWL._SL400_.jpg'
+title: 'Skechers Sport-Energy  Zapatillas Mujer  con un 49.98 % de descuento'
+date: 2021-03-31 13:25:27
+image: 'https://m.media-amazon.com/images/I/41TqKGNDMRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B000AREHO8-es Skechers SPORT - ENERGY Women s Low Top Trainers White Wml...'
+slug: 'B000AREHO8-es Skechers Sport-Energy Zapatillas Mujer Multicolor WML...'
 sku: 'B000AREHO8-es'
-tags: [  ]
-actualPrice: 40.52 EUR
+tags: [ 'Calzado deportivo para mujer','Zapatillas y calzado deportivo para mujer','Zapatos','Zapatos para mujer','Zapatos y complementos','skechers', ]
+actualPrice: 34.99 EUR
 currency: EUR
-price: 40.52
+price: 34.99
 comparePrice: 69.95 EUR
-prodname: 'Skechers SPORT - ENERGY  Women s Low Top Trainers  White  Wml   5 UK  38 EU '
+prodname: 'Skechers Sport-Energy  Zapatillas Mujer  Multicolor  WML Black Smooth Leather #l   38 EU'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Skechers'
 buyurl: 'https://www.amazon.es/dp/B000AREHO8/?tag=tolees-21'
-descuento: '42.07'
-average: '44.928235294117655'
+descuento: '49.98'
+average: '43.8821052631579'
 ---
 
-En este momento está [Skechers SPORT - ENERGY  Women s Low Top Trainers  White  Wml   5 UK  38 EU ](https://www.amazon.es/dp/B000AREHO8/?tag=tolees-21) a 40.52 EUR (original: 69.95 EUR) (42.07 %  de descuento) en el siguiente enlace!
+En este momento está [Skechers Sport-Energy  Zapatillas Mujer  Multicolor  WML Black Smooth Leather #l   38 EU](https://www.amazon.es/dp/B000AREHO8/?tag=tolees-21) a 34.99 EUR (original: 69.95 EUR) (49.98 %  de descuento) en el siguiente enlace!
 
-[![Skechers SPORT - ENERGY  Women s Low Top](https://m.media-amazon.com/images/I/41U6s65CNWL._SL400_.jpg)](https://www.amazon.es/dp/B000AREHO8/?tag=tolees-21)
+[![Skechers Sport-Energy  Zapatillas Mujer ](https://m.media-amazon.com/images/I/41TqKGNDMRL._SL400_.jpg)](https://www.amazon.es/dp/B000AREHO8/?tag=tolees-21)
 
 🔎:
 
+- Tobillo acolchado y suela de apoyo.
+- Entresuela de espuma EVA. La zapatilla es suave y tiene un forro de tela. Además, tiene una altura de talón de 3,8 cm.
+- Zapatilla deportiva con solapas onduladas y cordones ghillie
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000AREHO8/?tag=tolees-21)

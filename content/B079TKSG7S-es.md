@@ -30,8 +30,8 @@ Ahora mismo tienes [JUGUETRÓNICA- Boxing Robots Boxeadores  JUG0256 ](https://w
 
 - Juguete STEM
 - Incluye controlador y marcador
-- Sirve para aprender sobre electricidad
-- Mueve el controlador y alucina viendo cómo tu robot golpea al rival
 - Construye 2 robots boxeadores con este kit de electrónica de 30 piezas
+- Mueve el controlador y alucina viendo cómo tu robot golpea al rival
+- Sirve para aprender sobre electricidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079TKSG7S/?tag=tolees-21)
