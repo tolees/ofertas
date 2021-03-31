@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-EX15LP Auriculares In-Ear  Negr con un 40.10 % de descuento'
-date: 2021-03-29 20:51:31
+date: 2021-03-31 00:00:45
 image: 'https://m.media-amazon.com/images/I/31Jx5cwJOXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00I3LUQPW/?tag=tolees-21'
 descuento: '40.10'
-average: '5.89089743589743'
+average: '5.89337499999999'
 ---
 
 En este momento está [Sony MDR-EX15LP Auriculares In-Ear  Negro  9 mm](https://www.amazon.es/dp/B00I3LUQPW/?tag=tolees-21) a 5.99 EUR (original: 10.0 EUR) (40.10 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ En este momento está [Sony MDR-EX15LP Auriculares In-Ear  Negro  9 mm](https://
 
 🔎:
 
-- Color: negro
-- Diafragmas de neodimio de 9 mm para un sonido potente y equilibrado
-- Longitud del cable: 1.2
-- Rango de frecuencia de 8 Hz hasta 22 kHz
 - Cómodos tapones de auricular de silicona de ajuste seguro
+- Color: negro
+- Rango de frecuencia de 8 Hz hasta 22 kHz
+- Diafragmas de neodimio de 9 mm para un sonido potente y equilibrado
 - Disponible en diversos colores
+- Longitud del cable: 1.2
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I3LUQPW/?tag=tolees-21)
