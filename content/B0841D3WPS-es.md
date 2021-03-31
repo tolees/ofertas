@@ -30,7 +30,7 @@ En este momento está [Tommy Jeans Hombre SCANTON SLIM OLBBCF Pantalones  Oslo B
 
 - Tommy Jeans - Pantalones de mezclilla para hombre
 - Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
-- Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 - Este producto ha sido producido de forma sostenible
+- Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0841D3WPS/?tag=tolees-21)

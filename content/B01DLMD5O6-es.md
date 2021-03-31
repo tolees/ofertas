@@ -28,11 +28,11 @@ Está [Sony SEL50F18F.SYX Objetivo Fijo  FE 50 mm  F1.8   Negro  solo Objetivo](
 
 ℹ️:
 
-- Compacta, ligera y fácil de llevar
-- Tipo de lente: Lente principal
-- Dimensiones del producto: 10.4 x 8.7 x 11.9 cm
 - El objetivo tiene un diseño óptico que permite conseguir imágenes claras reduciendo la distorsión cromática
 - Apertura circular de 7 láminas para obtener un efecto de desenfoque
+- Tipo de lente: Lente principal
+- Dimensiones del producto: 10.4 x 8.7 x 11.9 cm
+- Compacta, ligera y fácil de llevar
 - Apertura máxima de F1.8 para capturas con poca luz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DLMD5O6/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [oodji Ultra Mujer Blusa de Viscosa con Bolsillos en el Pecho  Marfil  ES 
 
 ℹ️:
 
-- Ideal para crear un ligero look de verano
 - Elegante camisa holgada
-- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
 - La talla que has elegido corresponde a las siguientes medidas del cuerpo: Pecho 80 cm; Cintura 59 cm; Caderas 84 cm. Longitud de espalda (talla M): 74,5 cm
 - Estilo de ropa: Casual
+- Las prendas de colección oodji Ultra tienen la talla más pequeña de lo normal, te recomendamos que elijas una talla superior a tu talla habitual o que consultes la tabla de tallas de oodji. Modelo: Talla S. Medidas: 86/61/91. Altura/peso: 176cm/55kg
+- Ideal para crear un ligero look de verano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N6KXHTJ/?tag=tolees-21)

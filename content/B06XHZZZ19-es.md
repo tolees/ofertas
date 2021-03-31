@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kong: La Isla Calavera Blu-Ray [Blu-ray] al 39.88 % de rebaja'
-date: 2021-03-29 13:12:05
+date: 2021-03-31 16:09:09
 image: 'https://m.media-amazon.com/images/I/5165qjKlzEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XHZZZ19/?tag=tolees-21'
 descuento: '39.88'
-average: '8.49296296296297'
+average: '8.42806451612904'
 ---
 
 Tienes [Kong: La Isla Calavera Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B06XHZZZ19/?tag=tolees-21) con precio final de  7.99 EUR (original: 13.29 EUR) (39.88 %  de rebaja) aqui!
