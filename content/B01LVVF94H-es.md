@@ -28,10 +28,10 @@ Tienes [Beats EP On-Ear Headphones - Black](https://www.amazon.es/dp/B01LVVF94H/
 
 🔎:
 
+- Sin batería, para escuchar tanto como quieras
+- Responde llamadas y controla la música desde tus dispositivos iOS y Android con el micrófono del cable RemoteTalk
+- Los auriculares supraaurales con cable Beats EP ofrecen un sonido magistral.
 - Reguladores verticales ajustables para que los uses a tu gusto
 - Diseño resistente y ligero reforzado con acero inoxidable
-- Los auriculares supraaurales con cable Beats EP ofrecen un sonido magistral.
-- Responde llamadas y controla la música desde tus dispositivos iOS y Android con el micrófono del cable RemoteTalk
-- Sin batería, para escuchar tanto como quieras
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01LVVF94H/?tag=tolees-21)
