@@ -28,7 +28,7 @@ Tienes [Sohni-Wicke 240 - Accesorio de disfraz](https://www.amazon.es/dp/B0009NC
 
 🔎:
 
-- 240 rondas
 - época
+- 240 rondas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0009NCFCE/?tag=tolees-21)
