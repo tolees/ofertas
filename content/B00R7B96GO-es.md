@@ -28,10 +28,10 @@ Está [Pioneer SE-MJ561BT-T - Auriculares supraurales Bluetooth  marrón](https:
 
 ℹ️:
 
-- Emparejamiento con hasta 8 reproductores
-- 200horas en stand by
-- Manos libres para hablar por teléfono
 - 15horas funcionado
+- 200horas en stand by
 - Incorpora Bluetooth y NFC
+- Manos libres para hablar por teléfono
+- Emparejamiento con hasta 8 reproductores
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00R7B96GO/?tag=tolees-21)
